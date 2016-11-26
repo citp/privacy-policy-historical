@@ -1,467 +1,517 @@
-<!--The following is the downloaded HTML source of the wizehive.com privacy policy that was archived on 2016-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611131454id_/http%3A//www.wizehive.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wizehive.com privacy policy that was archived on 2016-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161126120659id_/http%3A//www.wizehive.com/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Privacy policy | WizeHive</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Your privacy is important to WizeHive, Inc.">
-    <link rel="canonical" href="//privacy_policy/">
-    
-    <meta name="robots" content="index, follow">
-    
-
-    <link rel="icon" type="image/png" href="/img/favicon.png">
-
-    <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
-    <link rel="stylesheet" href="/new-style.css">
-
-    <!-- Custom Fonts -->
-    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,100,300,700" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,500" rel="stylesheet" type="text/css">
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
-    <!-- Begin GoogleAnalytics -->
-    <script src="//bat.bing.com/bat.js" async=""></script><script type="text/javascript" async="" src="https://frontend.id-visitors.com/FrontEndWeb/Scripts/liveVisitAsync.js"></script><script type="text/javascript" async="" src="//commondatastorage.googleapis.com/code.snapengage.com/js/2a739d07-8b77-42d9-93e9-d39722af1244.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-6625020-1']);
-    _gaq.push(['_setDomainName', 'wizehive.com']);
-    _gaq.push(['_trackPageview']);
-    (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-    </script>
-    <!-- End GoogleAnalytics -->
-
-    <!-- jQuery Version 1.11.0 -->
-    <script src="/js/jquery-1.11.0.js"></script>
-
-    <script type="text/javascript" src="../js/jquery.roundabout.min.js"></script>
-    <script type="text/javascript">
-    (function($) {
-
-    var $descriptions = $('#carousel-descriptions').children('li'),
-      $controls = $('#carousel-controls').find('span'),
-      $carousel = $('#carousel')
-        .roundabout({childSelector:"img", minOpacity:.5, autoplay:true, autoplayDuration:1, autoplayPauseOnHover:false })
-        .on('focus', 'img', function() {
-          var slideNum = $carousel.roundabout("getChildInFocus");
-          
-          $descriptions.add($controls).removeClass('current');
-          $($descriptions.get(slideNum)).addClass('current');
-          $($controls.get(slideNum)).addClass('current');
-        });
-
-    $controls.on('click dblclick', function() {
-      var slideNum = -1,
-        i = 0, len = $controls.length;
-
-      for (; i<len; i++) {
-        if (this === $controls.get(i)) {
-          slideNum = i;
-          break;
-        }
-      }
-      
-      if (slideNum >= 0) {
-        $controls.removeClass('current');
-        $(this).addClass('current');
-        $carousel.roundabout('animateToChild', slideNum);
-      }
-    });
-
-    }(jQuery));
-    </script>
-
-    <!-- Scroll Depth (A Google Analytics plugin for measuring page scrolling) -->
-    <script src="/js/jquery.scrolldepth.min.js"></script>
-    <script> $(function() {  $.scrollDepth({
-      minHeight: 0,
-      elements: [],
-      percentage: true,
-      userTiming: false,
-      pixelDepth: false,
-      nonInteraction: false
-    });});
-    </script>
-
-    <!-- Riveted (A Google Analytics plugin for measuring active time on site) -->
-    <script src="/js/riveted.min.js"></script>
-    <script>riveted.init({
-      reportInterval: 10,
-    });</script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="author" content="WizeHive, Inc.">
+    <meta name="description" content="Privacy Policy | WizeHive">
+    <meta name="generator" content="HubSpot">
+    <title>Privacy Policy | WizeHive</title>
+    <link rel="shortcut icon" href="//cdn2.hubspot.net/hubfs/2364314/Wizehive-July2016/Images/favicon.png?t=1479848809246">
     
 
-    <!-- Optimizely -->
-    <script src="//cdn.optimizely.com/js/1675600188.js"></script>
-
-      
-
-      
-
-      
-
-      
-
-      </head>
-	<body id="page-top" class="index">
-	    <!-- Navigation -->
-<nav class="navbar-default navbar-fixed-top primary-nav" id="nav">
-    <div class="container">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header page-scroll">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand navbar-brand-mobile" href="/"><span class="wize">wize</span><span class="hive">hive</span></a>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="navbar-collapse">
-            <ul class="nav navbar-nav navbar-left navbar-standard">
-                <li class="brand">
-                    <a href="/"><span class="wize">wize</span><span class="hive">hive</span></a>
-                </li>
-            </ul>
-            <ul class="nav navbar-nav navbar-right">
-                <li>
-                 <a class="main-nav" href="http://www.wizehive.com/#solutions">Solutions</a>
-                </li>
-                <li>
-                 <a class="main-nav" href="/about">About</a>
-                </li>
-                <li>
-                 <a class="main-nav" href="/get-in-touch">Contact</a>
-                </li>
-                <li>
-                 <a class="main-nav" href="http://blog.wizehive.com" target="_blank">Blog</a>
-                </li>
-                <li>
-                    <a href="#" class="dropdown-toggle hero-bottom-nav login" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Log in</a>
-                    <ul class="dropdown-menu text-left">
-                        <li class="text-left"><a href="https://app.wizehive.com/users/login/"><span class="select">Select</span> <i>for application processes</i></a></li>
-                        <li class="text-left"><a href="https://app.wizehive.com/users/login/"><span class="buzz">Buzz</span> <i>for contest management</i></a></li>
-                        <li class="text-left"><a href="https://platform.zenginehq.com"><span class="zen">Zen</span><span class="gine">gine</span> <i>for business apps</i></a></li>
-                    </ul>
-                </li>
-            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
-    </div>
-    <!-- /.container-fluid -->
-</nav>
-		
-<!-- Secondary Navigation -->
-<nav class="navbar-default secondary-nav navbar-fixed-top">
-    <div class="container">
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-left">
-                
-                
-            </ul>
-            
-        </div>
-        <!-- /.navbar-collapse -->
-    </div>
-</nav>
+    <script type="text/javascript" async="" src="https://frontend.id-visitors.com/FrontEndWeb/Scripts/liveVisitAsync.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script type="text/javascript" async="" src="//storage.googleapis.com/code.snapengage.com/js/2a739d07-8b77-42d9-93e9-d39722af1244.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580434200000/2364314.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://static.hsstatic.net/jquery-libs/static-1.1/jquery/jquery-1.7.1.js"></script>
+    <script type="text/javascript">hsjQuery = window['jQuery']</script>
+    <link href="https://static.hsstatic.net/content_shared_assets/static-1.4036/css/public_common.css" rel="stylesheet">
+    <meta property="og:description" content="Privacy Policy | WizeHive">
+    <meta property="og:title" content="Privacy Policy | WizeHive">
+    <meta name="twitter:description" content="Privacy Policy | WizeHive">
+    <meta name="twitter:title" content="Privacy Policy | WizeHive">
 
 
-		<!-- Hero -->
-<div class="hero jumbotron" id="top" style="background: url('/img/new/privacy.jpg'); background-repeat: no-repeat; background-size: cover;">
     
-    <div class="container text-center">
-    	<h1>Privacy policy</h1>
-    	<p></p>
-   		<p class="cta">
-        
-        
-        
-        
-        
-        <a class="btn btn-primary btn-lg" href="#info">Learn more</a>
-        
-        
-        
-        
-        
-      </p>
-      <span class="call">or call <a href="tel:+18777679493"><b>1-877-767-9493</b></a></span>
-    </div>
-      
-</div>
-		<div class="container privacy-policy" id="info">
-  <p>Your privacy is important to WizeHive, Inc. ("WizeHive", "we", "us" or "our"). This privacy policy provides details about how your personal information is collected and used by us. Personal information is any information that identifies you or would enable someone to contact you, such as your name, email address, phone number and other non-public information associated with your individual identity. This privacy policy explains our commitment to protecting the privacy of personal information about users of WizeHive websites, software, products and services (collectively, the "Site"). We reserve the right to change this Policy from time to time and will notify you of any changes via email or on our web site.</p>
-  <br>
-  <h4>Information Collected</h4>
-  <p>We may collect personal information when you register to use the Site. Personal information may include your name, username, your password (we only store an encrypted version of this; not the actual password), one or more email addresses and other contact information. For paying customers we may ask for additional information such as credit card number, billing address and related information.</p>
-  <p>Like most web-based services, we may automatically collect information that your browser sends whenever you visit a website. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personal information or the WizeHive user ID.</p>
-  <p>Like many websites, we may also use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We may use "persistent cookies" to save your registration ID and login password for future logins to the Site; and we may use "session ID cookies" to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage and web traffic routing on the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of our services.</p>
-  <br>
-  <h4>Our Use of Information</h4>
-  <p>We use the information collected to enable your access to and use of the Site, to personalize the Site for you, or to supply you services that you have asked for. If you are a paying customer we will also use this information to charge your credit card or collect payments from you.</p>
-  <p>We may also occasionally contact you via email to tell you about web maintenance, upgrades and new features regarding our promotions or those on behalf of third parties, but will provide you with a vehicle for opting out of these emails.</p>
-  <p>We do not sell, rent or share customer personal information with third parties. We do not sell customer lists to marketers.</p>
-  <p>We may contact you by email regarding your orders and our services. You may elect not to receive commercial marketing messages from us about the services.</p>
-  <p>We do not store any credit card numbers in our system except to process and transmit the information for payment processing. If you enter your credit card information to place an order, that information is encrypted and transmitted immediately for processing and authorization. Once the transaction is authorized, we delete the credit card information from our system. If the services you purchase require recurring billing, your information is encrypted and maintained by our payment processing provider.</p>
-  <p>We may assign you a user ID and password to use the Site. We assume no responsibility for preventing third parties (other than our own employees) from using your login credentials, whether with or without your permission.</p>
-  <br>
-  <h4>Customer Use of Information</h4>
-  <p>As a user of the Site, you may be permitted to enter personal information to apply for and/or participate in certain programs or projects conducted by our customers using the Site. Such programs or projects may include, without limitation, contests, scholarships, grants and business communications and transactions. When you use the Site for these purposes, we may collect, store and forward your name, email address and other personal information to the customer sponsoring or conducting each such program or project. Each of our customers is responsible for any further use of your personal information as well as operation of each program and project. Use of your personal information by a customer may be governed by rules and/or privacy policies established independently by the customer as well as laws and regulations applicable to the customer. We assume no responsibility for any customer's use of any personal information you submit through the Site for the purpose of applying for or participating in any customer program or project.</p>
-  <br>
-  <h4>User and Customer Lists</h4>
-  <p>Our customer and user list is an asset and trade secret of WizeHive, Inc. and may be transferred with the company's assets in connection with any merger, acquisition or change of control of the business of the company. You will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.</p>
-  <br>
-  <h4>Required Disclosures</h4>
-  <p>Except as stated in this privacy policy, we will not disclose your personal information to third parties except when we must comply with laws that require such disclosure to law enforcement authorities or other government third party officials such as subpoenas.</p>
-  <p>If we are required by law, regulation or legal process (e.g. subpoena) to disclose information about you, we will notify you to the extent permitted by law but we reserve the right to disclose such information as legally required in our judgment. We also may disclose information about your use of the Site if we have reason to believe you have used the Site for purposes prohibited in our <a href="/terms_of_service/">Terms of Service</a> or that it is necessary to avoid injury, damage to property or violation of someone's rights.</p>
-  <br>
-  <h4>Updating Personal Information</h4>
-  <p>If your personal information changes, you may correct, update, amend, delete/remove information through the Site or by emailing our Customer Support team at <a href="mailto:support@wizehive.com">support@wizehive.com</a>. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
-  <br>
-  <h4>Security</h4>
-  <p>The security of your personal information is important to us. When you enter sensitive information (such as credit card information) on your online registration we encrypt that information using secure socket layer technology (SSL).</p>
-  <p>We follow generally accepted industry standards to protect personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our site, you can email us at <a href="mailto:support@wizehive.com">support@wizehive.com</a>.</p>
-  <br>
-  <h4>Other Websites &amp; Links</h4>
-  <p>The Site may contain links to other websites or services maintained by our customers or third parties. We make no representation or warranties and are not responsible for the privacy policies or practices of any third party.</p>
-  <br>
-  <h4>Children</h4>
-  <p>Our site is designed to be used by people over 13 years of age. The Children's Online Privacy Protection Act ("COPPA") protects the online privacy of children under 13 years of age. WizeHive does not knowingly collect or maintain personal information from anyone under the age of 13, unless or except as permitted by law. Any person who provides Personal Information through our site represents to us that he or she is 13 years of age or older. If we learn that Personal Information has been collected from a user under 13 years of age, then we will take the appropriate steps to cause this information to be deleted.</p>
-  <br>
-  <p>For more information, contact us at 1-877-767-9493</p>
-  <p>Updated January 2014</p>
-</div>
-		<footer>
-    <div class="footer">
-        <div class="container">
-            <div class="row footer-primary">
-                <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
-                    <h5>WizeHive</h5>
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/about">About us</a></li>
-                    <li><a href="http://blog.wizehive.com" target="_blank">Blog</a></li>
-                    <li><a href="https://review.wizehive.com/voting/posting" target="_blank">Jobs</a></li>
-                    <li><a href="/refer">Referral program</a></li>
-                    <li><a href="/get-in-touch">Get in touch</a></li>
-                    <br>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                    <h5>Simplify your...</h5>
-                    <li><a href="/select">Online applications and grants management</a></li>
-                    <li><a href="/buzz">Online contests</a></li>
-                    <li><a href="/zengine">Online database processes</a></li>
-                    <br>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-                    <h5>Use cases</h5>
-                    <li><a href="/accreditation-management-software">Accreditation management software</a></li>
-                    <li><a href="/submissions">Application management system</a></li>
-                    <li><a href="/awards">Award management system</a></li>
-                    <li><a href="/competition-software">Contest software</a></li>
-                    <li><a href="/grant-management-system">Grants management system</a></li>
-                    <li><a href="http://www.zenginehq.com/hipaa">HIPAA compliant database</a>
-                    </li><li><a href="/zengine">Online database software</a></li>
-                    <li><a href="/applicant">Scholarship management system</a></li>  
-                    <br>
-                </div>
-                <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
-                    <h5>Resources</h5>
-                    <li><a href="/webinar">Webinars</a></li>
-                    <li><a href="/security">Data security</a></li>
-                    <li><a href="/support">Support</a></li>
-                    <li><a href="http://wizehive.helpscoutdocs.com/" target="_blank">Knowledgebase</a></li>
-                    <li><a href="/reviews">Testimonials</a></li>
-                    <br>
-                </div>
-            </div>
-            <div class="row footer-secondary">
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 footer-secondary-left">
-                    <ul>
-                        <li><a class="chat" onclick="SnapEngage.startLink();">Chat</a></li>
-                        <li><a class="phone" href="tel:1-877-767-9493">1-877-767-9493</a></li>
-                        <li><a class="email" href="mailto:sales@wizehive.com">sales@wizehive.com</a></li>
-                        <li><a href="/terms_of_service">Terms</a></li>
-                        <li><a href="/privacy_policy">Privacy</a></li>
-                    </ul>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 footer-secondary-right">
-                    <ul>
-                        <li><a class="facebook" href="http://www.facebook.com/wizehive" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                        <li><a class="twitter" href="http://www.twitter.com/wizehive" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                        <li><a class="linkedin" href="http://www.linkedin.com/company/wizehive" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a class="google" href="http://plus.google.com/+wizehive" target="_blank"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="row footer-tertiary">
-                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <ul>
-                        <li>Copyright © 2016 <a href="http://www.wizehive.com">WizeHive, Inc.</a> All rights reserved.</li>
-                    </ul>
-                </div>
-            </div>
-            <div class="to-top"><a href="#top"><i class="fa fa-angle-up fa-3x"></i></a></div> 
-        </div>
-    </div>
-</footer>
-	        <!-- Bootstrap Core JavaScript -->
-    <script src="/js/bootstrap.min.js"></script>
-
-    <!-- Plugin JavaScript -->
-    <script src="/js/jquery.easing.min.js"></script>
-    <script src="/js/classie.js"></script>
-    <script src="/js/cbpAnimatedHeader.js"></script>
-
-    <!-- Contact Form JavaScript -->
-    <script src="/js/jqBootstrapValidation.js"></script>
-    <script src="/js/contact_me.js"></script>
-
-    <!-- Custom Theme JavaScript -->
-    <script src="/js/agency.js"></script>
-
-    <!-- Jquery -->
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    
-    <!-- Roundabout -->
-    <script type="text/javascript" src="../js/jquery.roundabout.min.js"></script>
     
 
-    <script type="text/javascript">
     
-    // roundabout
-    (function($) {
+<!--  Added by GoogleAnalytics integration -->
 
-    var $descriptions = $('#carousel-descriptions').children('li'),
-      $controls = $('#carousel-controls').find('span'),
-      $carousel = $('#carousel')
-        .roundabout({childSelector:"img", minOpacity:.5, autoplay:true, autoplayDuration:5000, autoplayPauseOnHover:false })
-        .on('focus', 'img', function() {
-          var slideNum = $carousel.roundabout("getChildInFocus");
-          
-          $descriptions.add($controls).removeClass('current');
-          $($descriptions.get(slideNum)).addClass('current');
-          $($controls.get(slideNum)).addClass('current');
-        });
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    $controls.on('click dblclick', function() {
-      var slideNum = -1,
-        i = 0, len = $controls.length;
-
-      for (; i<len; i++) {
-        if (this === $controls.get(i)) {
-          slideNum = i;
-          break;
-        }
-      }
-      
-      if (slideNum >= 0) {
-        $controls.removeClass('current');
-        $(this).addClass('current');
-        $carousel.roundabout('animateToChild', slideNum);
-      }
-    });
-
-    }(jQuery));
-    
-    </script>
-
-    <script>
-      $(function() {
-        $('a[href*=#]:not([href=#])').click(function() {
-          if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-            var target = $(this.hash);
-            target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-            if (target.length) {
-              $('html,body').animate({
-                scrollTop: target.offset().top
-              }, 1000);
-              return false;
-            }
-          }
-        });
-      });
-    </script>
-
-    <script>
-      $(document).scroll(function() {
-        var y = $(this).scrollTop();
-        if (y > 600) {
-          $('.to-top').fadeIn();
-        } else {
-          $('.to-top').fadeOut();
-        }
-      });
-    </script>
-
-    <script>
-      $(document).scroll(function() {
-        var y = $(this).scrollTop();
-        if (y > 3000) {
-          $('.features-more').fadeIn();
-        } else {
-          $('.features-more').fadeOut();
-        }
-      });
-    </script>
-
-  <script>
-    $(window).scroll(function() {
-  if ($(document).scrollTop() > 250) {
-    $('nav').addClass('shrink');
-  } else {
-    $('nav').removeClass('shrink');
-  }
-});
-    </script>
-
-	    <!-- SnapEngage -->
-  <script type="text/javascript">
-    (function() {
-      var se = document.createElement('script'); se.type = 'text/javascript'; se.async = true;
-      se.src = '//commondatastorage.googleapis.com/code.snapengage.com/js/2a739d07-8b77-42d9-93e9-d39722af1244.js';
-      var done = false;
-      se.onload = se.onreadystatechange = function() {
-        if (!done&&(!this.readyState||this.readyState==='loaded'||this.readyState==='complete')) {
-          done = true;
-          /* Place your SnapEngage JS API code below */
-          /* SnapEngage.allowChatSound(true); Example JS API: Enable sounds for Visitors. */
-        }
-      };
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
-    })();
-  </script>
-
-<!-- VV -->
-<script type="text/javascript">
-var vv_account_id = 'pIWWJ69E5G';
-var vv_BaseURL = (("https:" == document.location.protocol) ? "https://frontend.id-visitors.com/FrontEndWeb/" : "http://frontend.id-visitors.com/FrontEndWeb/");
-(function () {
-var va = document.createElement('script'); va.type = 'text/javascript'; va.async = true;
-va.src = vv_BaseURL + 'Scripts/liveVisitAsync.js';
-var sv = document.getElementsByTagName('script')[0]; sv.parentNode.insertBefore(va, sv);
-})();
+  ga('create', 'UA-6625020-1', 'auto');
+  ga('send', 'pageview');
 </script>
 
-<!-- Bing UET for May 2016 webform submission-->
-<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5202861"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5202861&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+<!-- /Added by GoogleAnalytics integration -->
 
-<!-- Google Code for Remarketing Tag -->
+    
+    <link rel="canonical" href="http://www.wizehive.com/privacy_policy">
+
+
+    <!--[if lt IE 9]>
+    <script src="https://static.hsstatic.net/content_shared_assets/static-1.4036/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<meta property="og:url" content="http://www.wizehive.com/privacy_policy">
+<link href="//cdn2.hubspot.net/hub/-1/hub_generated/style_manager/1472825336927/hubspot_default/shared/responsive/layout.min.css" rel="stylesheet">
+
+
+<link rel="stylesheet" href="//cdn2.hubspot.net/hub/2364314/hub_generated/template_assets/1478124512059/custom/page/WizehiveJuly2016-theme/WizehiveJuly2016-style.min.css">
+
+
+    <!-- The style tag has been deprecated. Attached stylesheets are included in the required_head_tags page variable. -->
+
+</head>
+<body class="cm-full-width-layout hs-content-id-4239748526 hs-site-page page " style="">
+    <div class="header-container-wrapper">
+    <div class="header-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-global_group " style="" data-widget-type="global_group" data-x="0" data-w="12">
+<!-- start coded_template: id:4225171677 path:generated_global_groups/4390797395.html -->
+<div class="" data-global-widget-path="generated_global_groups/4390797395.html"><div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell custom-header-container-wrapper" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span4 widget-span widget-type-rich_text custom-logo" style="" data-widget-type="rich_text" data-x="0" data-w="4">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14673530746894454" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><a href="/"><span class="wize">wize</span><span class="hive">hive</span></a></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+<div class="span8 widget-span widget-type-menu custom-menu-primary" style="" data-widget-type="menu" data-x="4" data-w="8">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_13884994340213" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_13884994340213" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="Wizehive-July2016-Sitemap">
+ <ul>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children"><a href="javascript:;">Solutions</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.wizehive.com/grant-management-system">Grants management</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.wizehive.com/applicant">Scholarships management</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.wizehive.com/awards">Awards management</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.wizehive.com/fellowships">Fellowships management</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.wizehive.com/internships">Internships management</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.wizehive.com/accreditation-management-software">Accreditations management</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="//www.wizehive.com/zengine-intro">Zengine for business processes</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="//www.wizehive.com/about">About</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="//www.wizehive.com/get-in-touch">Contact</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="http://blog.wizehive.com/">Blog</a></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children"><a href="javascript:;">Log in</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://app.wizehive.com/users/login/">Select for application processes</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://app.wizehive.com/users/login/" target="_blank">Buzz for contest management</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://platform.zenginehq.com/">Zengine for business apps</a></li>
+   </ul></li>
+ </ul>
+</div></span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_147033319169818616" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><!-- Scroll Depth (A Google Analytics plugin for measuring page scrolling) -->
+<script src="//cdn2.hubspot.net/hubfs/2364314/Wizehive-July2016/Js/jquery.scrolldepth.min.js?t=1479848809246"></script>
+<script> $(function() {  $.scrollDepth({
+minHeight: 0,
+elements: [],
+percentage: true,
+userTiming: false,
+pixelDepth: false,
+nonInteraction: false
+});});
+</script></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-5 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14698220023151009" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1671222009769285');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1671222009769285&amp;ev=PageView&amp;noscript=1"></noscript>
+<!-- End Facebook Pixel Code --></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-6 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14698221734824374" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><!-- Riveted (A Google Analytics plugin for measuring active time on site) -->
+<script src="//cdn2.hubspot.net/hubfs/2364314/Wizehive-July2016/Js/riveted.min.js?t=1479848809246"></script>
+<script>riveted.init({
+reportInterval: 10,
+});</script>
+</span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-7 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14698220708042713" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><!-- Optimizely -->
+<script src="//cdn.optimizely.com/js/1675600188.js"></script></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+</div><!-- end coded_template: id:4225171677 path:generated_global_groups/4390797395.html -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end header -->
+</div><!--end header wrapper -->
+
+<div class="body-container-wrapper">
+    <div class="body-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-widget_container " style="" data-widget-type="widget_container" data-x="0" data-w="12">
+<span id="hs_cos_wrapper_module_14676290174516080" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"><div id="hs_cos_wrapper_widget_1467629082840" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_custom_widget" style="" data-hs-cos-general-type="widget" data-hs-cos-type="custom_widget"><div class="cm-full-width-banner-module row-fluid" style="background-image:url('//cdn2.hubspot.net/hubfs/2364314/Wizehive-July2016/Images/privacy.jpg?t=1479848809246')">
+    <div class="page-center">
+        <h1>Privacy policy</h1>
+<p><a class="btn btn-primary btn-lg" href="#info">Learn more</a></p>
+<span>or call <a href="tel:+18777679493"><strong>1-877-767-9493</strong></a></span>
+    </div>
+</div>
+</div></span>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center content-wrapper" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-widget_container " style="" data-widget-type="widget_container" data-x="0" data-w="12">
+<span id="hs_cos_wrapper_module_140190329510711990" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"><div id="hs_cos_wrapper_widget_1467629363680" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p id="info">Your privacy is important to WizeHive, Inc. ("WizeHive", "we", "us" or "our"). This privacy policy provides details about how your personal information is collected and used by us. Personal information is any information that identifies you or would enable someone to contact you, such as your name, email address, phone number and other non-public information associated with your individual identity. This privacy policy explains our commitment to protecting the privacy of personal information about users of WizeHive websites, software, products and services (collectively, the "Site"). We reserve the right to change this Policy from time to time and will notify you of any changes via email or on our web site.</p>
+<br>
+<h4>Information Collected</h4>
+<p>We may collect personal information when you register to use the Site. Personal information may include your name, username, your password (we only store an encrypted version of this; not the actual password), one or more email addresses and other contact information. For paying customers we may ask for additional information such as credit card number, billing address and related information.</p>
+<p>Like most web-based services, we may automatically collect information that your browser sends whenever you visit a website. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personal information or the WizeHive user ID.</p>
+<p>Like many websites, we may also use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We may use "persistent cookies" to save your registration ID and login password for future logins to the Site; and we may use "session ID cookies" to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage and web traffic routing on the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of our services.</p>
+<br>
+<h4>Our Use of Information</h4>
+<p>We use the information collected to enable your access to and use of the Site, to personalize the Site for you, or to supply you services that you have asked for. If you are a paying customer we will also use this information to charge your credit card or collect payments from you.</p>
+<p>We may also occasionally contact you via email to tell you about web maintenance, upgrades and new features regarding our promotions or those on behalf of third parties, but will provide you with a vehicle for opting out of these emails.</p>
+<p>We do not sell, rent or share customer personal information with third parties. We do not sell customer lists to marketers.</p>
+<p>We may contact you by email regarding your orders and our services. You may elect not to receive commercial marketing messages from us about the services.</p>
+<p>We do not store any credit card numbers in our system except to process and transmit the information for payment processing. If you enter your credit card information to place an order, that information is encrypted and transmitted immediately for processing and authorization. Once the transaction is authorized, we delete the credit card information from our system. If the services you purchase require recurring billing, your information is encrypted and maintained by our payment processing provider.</p>
+<p>We may assign you a user ID and password to use the Site. We assume no responsibility for preventing third parties (other than our own employees) from using your login credentials, whether with or without your permission.</p>
+<br>
+<h4>Customer Use of Information</h4>
+<p>As a user of the Site, you may be permitted to enter personal information to apply for and/or participate in certain programs or projects conducted by our customers using the Site. Such programs or projects may include, without limitation, contests, scholarships, grants and business communications and transactions. When you use the Site for these purposes, we may collect, store and forward your name, email address and other personal information to the customer sponsoring or conducting each such program or project. Each of our customers is responsible for any further use of your personal information as well as operation of each program and project. Use of your personal information by a customer may be governed by rules and/or privacy policies established independently by the customer as well as laws and regulations applicable to the customer. We assume no responsibility for any customer's use of any personal information you submit through the Site for the purpose of applying for or participating in any customer program or project.</p>
+<br>
+<h4>User and Customer Lists</h4>
+<p>Our customer and user list is an asset and trade secret of WizeHive, Inc. and may be transferred with the company's assets in connection with any merger, acquisition or change of control of the business of the company. You will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.</p>
+<br>
+<h4>Required Disclosures</h4>
+<p>Except as stated in this privacy policy, we will not disclose your personal information to third parties except when we must comply with laws that require such disclosure to law enforcement authorities or other government third party officials such as subpoenas.</p>
+<p>If we are required by law, regulation or legal process (e.g. subpoena) to disclose information about you, we will notify you to the extent permitted by law but we reserve the right to disclose such information as legally required in our judgment. We also may disclose information about your use of the Site if we have reason to believe you have used the Site for purposes prohibited in our <a href="/terms_of_service/">Terms of Service</a> or that it is necessary to avoid injury, damage to property or violation of someone's rights.</p>
+<br>
+<h4>Updating Personal Information</h4>
+<p>If your personal information changes, you may correct, update, amend, delete/remove information through the Site or by emailing our Customer Support team at <a href="mailto:support@wizehive.com">support@wizehive.com</a>. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+<br>
+<h4>Security</h4>
+<p>The security of your personal information is important to us. When you enter sensitive information (such as credit card information) on your online registration we encrypt that information using secure socket layer technology (SSL).</p>
+<p>We follow generally accepted industry standards to protect personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our site, you can email us at <a href="mailto:support@wizehive.com">support@wizehive.com</a>.</p>
+<br>
+<h4>Other Websites &amp; Links</h4>
+<p>The Site may contain links to other websites or services maintained by our customers or third parties. We make no representation or warranties and are not responsible for the privacy policies or practices of any third party.</p>
+<br>
+<h4>Children</h4>
+<p>Our site is designed to be used by people over 13 years of age. The Children's Online Privacy Protection Act ("COPPA") protects the online privacy of children under 13 years of age. WizeHive does not knowingly collect or maintain personal information from anyone under the age of 13, unless or except as permitted by law. Any person who provides Personal Information through our site represents to us that he or she is 13 years of age or older. If we learn that Personal Information has been collected from a user under 13 years of age, then we will take the appropriate steps to cause this information to be deleted.</p>
+<br>
+<p>For more information, contact us at 1-877-767-9493</p>
+<p>Updated January 2014</p></div></span>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell cm-section" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-5 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-widget_container page-center" style="" data-widget-type="widget_container" data-x="0" data-w="12">
+<span id="hs_cos_wrapper_module_146798631013722892" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"></span>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end body -->
+</div><!--end body wrapper -->
+
+<div class="footer-container-wrapper">
+    <div class="footer-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-global_group " style="" data-widget-type="global_group" data-x="0" data-w="12">
+<!-- start coded_template: id:4225171697 path:generated_global_groups/4225171687.html -->
+<div class="" data-global-widget-path="generated_global_groups/4225171687.html"><div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell custom-footer-container-wrapper" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell cm-footer-sitemap-wrapper" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span2 widget-span widget-type-rich_text cm-column1-sitemap" style="" data-widget-type="rich_text" data-x="0" data-w="2">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1388499827397609" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h5>WizeHive</h5>
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="/about">About us</a></li>
+<li><a href="http://blog.wizehive.com" target="_blank">Blog</a></li>
+<li><a href="https://webportalapp.com/portal/posting/0" target="_blank">Jobs</a></li>
+<li><a href="/refer">Referral program</a></li>
+<li><a href="/get-in-touch">Get in touch</a></li>
+</ul></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+<div class="span4 widget-span widget-type-rich_text " style="" data-widget-type="rich_text" data-x="2" data-w="4">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_139575398594110" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h5>Simplify your...</h5>
+<ul>
+<li><a href="/online-applications-and-grants-management">Online applications and grants management</a></li>
+<li><a href="/buzz">Online contests</a></li>
+<li><a href="/zengine">Online database processes</a></li>
+</ul></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+<div class="span3 widget-span widget-type-rich_text " style="" data-widget-type="rich_text" data-x="6" data-w="3">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_139575399545412" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h5>Use cases</h5>
+<ul>
+<li><a href="/accreditation-management-software">Accreditation management software</a></li>
+<li><a href="/submissions">Application management system</a></li>
+<li><a href="/awards">Award management system</a></li>
+<li><a href="/contest">Contest software</a></li>
+<li><a href="/grant-management-system">Grants management system</a></li>
+<li><a href="//www.wizehive.com/hipaa" target="_blank">HIPAA compliant database</a></li>
+<li><a href="/zengine">Online database software</a></li>
+<li><a href="/applicant">Scholarship management system</a></li>
+</ul></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+<div class="span3 widget-span widget-type-rich_text " style="" data-widget-type="rich_text" data-x="9" data-w="3">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_146736660879813968" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h5>Resources</h5>
+<ul>
+<li><a href="/webinar">Webinars</a></li>
+<li><a href="/security">Data security</a></li>
+<li><a href="/support">Support</a></li>
+<li><a href="http://wizehive.helpscoutdocs.com/" target="_blank">Knowledgebase</a></li>
+<li><a href="/reviews">Testimonials</a></li>
+</ul></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-5 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell cm-footer-social-wrapper" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-6 ">
+<div class="row-fluid ">
+<div class="span6 widget-span widget-type-rich_text cm-column1-links" style="" data-widget-type="rich_text" data-x="0" data-w="6">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14673662033888258" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><ul>
+<li><a href="tel:1-877-767-9493" rel="phone">1-877-767-9493</a></li>
+<li><a href="mailto:sales@wizehive.com" rel="email">sales@wizehive.com</a></li>
+<li><a href="/terms_of_service">Terms</a></li>
+<li><a href="/privacy_policy">Privacy</a></li>
+</ul></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+<div class="span6 widget-span widget-type-raw_html cm-footer-social" style="" data-widget-type="raw_html" data-x="6" data-w="6">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_146736657075012721" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><ul>
+<li><a target="_blank" href="http://www.facebook.com/wizehive" class="facebook"><i class="fa fa-facebook"></i></a></li>
+<li><a target="_blank" href="http://www.twitter.com/wizehive" class="twitter"><i class="fa fa-twitter"></i></a></li>
+<li><a target="_blank" href="http://www.linkedin.com/company/wizehive" class="linkedin"><i class="fa fa-linkedin"></i></a></li>
+<li><a target="_blank" href="http://plus.google.com/+wizehive" class="google"><i class="fa fa-google-plus"></i></a></li>
+</ul></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-7 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-1 ">
+<div class="row-fluid ">
+<div class="span4 widget-span widget-type-cta " style="" data-widget-type="cta" data-x="0" data-w="4">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14688559204571774" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_cta" style="" data-hs-cos-general-type="widget" data-hs-cos-type="cta"><!--HubSpot Call-to-Action Code --> 
+<span class="hs-cta-wrapper" id="hs-cta-wrapper-1906e605-914a-4acf-a0a2-30a8087950d4"> <span class="hs-cta-node hs-cta-1906e605-914a-4acf-a0a2-30a8087950d4" id="hs-cta-1906e605-914a-4acf-a0a2-30a8087950d4"> 
+  <!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--> <a href="http://cta-redirect.hubspot.com/cta/redirect/2364314/1906e605-914a-4acf-a0a2-30a8087950d4"><img class="hs-cta-img" id="hs-cta-img-1906e605-914a-4acf-a0a2-30a8087950d4" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/2364314/1906e605-914a-4acf-a0a2-30a8087950d4.png" alt="SCHEDULE FREE&nbsp;DEMO"></a> </span> <script charset="utf-8" src="https://js.hscta.net/cta/current.js"></script> <script type="text/javascript">
+        hbspt.cta.load(2364314, '1906e605-914a-4acf-a0a2-30a8087950d4', {});
+    </script> </span> 
+<!-- end HubSpot Call-to-Action Code --></span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+<div class="span8 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="4" data-w="8">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14703353537804971" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-rich_text cm-footer-copyright" style="" data-widget-type="rich_text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_146736630869610954" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p>Copyright © 2016 <a href="/">WizeHive, Inc.</a> All rights reserved.</p></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html cm-js-import" style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_146737045975019899" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><div class="to-top"><a href="#top"><i class="fa fa-angle-up fa-3x"></i></a></div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14703349575381152" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><!-- Start of Async HubSpot Analytics Code -->
+<script type="text/javascript">
+(function(d,s,i,r) {
+if (d.getElementById(i)){return;}
+var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/2364314.js';
+e.parentNode.insertBefore(n, e);
+})(document,"script","hs-analytics",300000);
+</script>
+<!-- End of Async HubSpot Analytics Code --></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14688573276251046" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><!-- begin SnapEngage code -->
+<script type="text/javascript">
+(function() {
+var se = document.createElement('script'); se.type = 'text/javascript'; se.async = true;
+se.src = '//storage.googleapis.com/code.snapengage.com/js/2a739d07-8b77-42d9-93e9-d39722af1244.js';
+var done = false;
+se.onload = se.onreadystatechange = function() {
+if (!done&&(!this.readyState||this.readyState==='loaded'||this.readyState==='complete')) {
+done = true;
+/* Place your SnapEngage JS API code below */
+/* SnapEngage.allowChatSound(true); Example JS API: Enable sounds for Visitors. */
+}
+};
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
+})();
+</script>
+<!-- end SnapEngage code --></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-5 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html cm-js-import" style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14673529190851327" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><!-- start Main.js DO NOT REMOVE --> 
+<script src="//cdn2.hubspot.net/hub/2364314/hub_generated/template_assets/1470388666883/custom/page/WizehiveJuly2016-theme/WizehiveJuly2016-main.min.js"></script> 
+<!-- end Main.js --></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-6 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14703306680328250" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><!-- Google Code for Remarketing Tag -->
 <div style="display: none;">
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -474,45 +524,109 @@ var google_remarketing_only = true;
 </script>
 <noscript>
 <div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1023037287/?value=0&amp;guid=ON&amp;script=0"/>
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1023037287/?value=0&amp;guid=ON&amp;script=0">
 </div>
 </noscript>
-</div>
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
 
-<!-- Meetingburner Script -->
-<script>
+<div class="row-fluid-wrapper row-depth-1 row-number-7 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14703307655949230" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><!-- Bing UET for May 2016 webform submission-->
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5202861"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5202861&amp;Ver=2" height="0" width="0" style="display:none; visibility: hidden;"></noscript></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
 
-function isValidEmail(email)
-{
-    var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
-    if(reg.test(email) == false) {
-        return false;
-    }
-    return true;
-}
+<div class="row-fluid-wrapper row-depth-1 row-number-8 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_147033079833210249" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><!-- VV -->
+<script type="text/javascript">
+var vv_account_id = 'pIWWJ69E5G';
+var vv_BaseURL = (("https:" == document.location.protocol) ? "https://frontend.id-visitors.com/FrontEndWeb/" : "http://frontend.id-visitors.com/FrontEndWeb/");
+(function () {
+var va = document.createElement('script'); va.type = 'text/javascript'; va.async = true;
+va.src = vv_BaseURL + 'Scripts/liveVisitAsync.js';
+var sv = document.getElementsByTagName('script')[0]; sv.parentNode.insertBefore(va, sv);
+})();
+</script></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
 
-function checkForm(myForm)
-{
-    var errors = "";
+<div class="row-fluid-wrapper row-depth-1 row-number-9 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_jinja " style="" data-widget-type="raw_jinja" data-x="0" data-w="12">
+</div><!--end widget-span -->
+
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-10 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14703349919612247" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+</div><!-- end coded_template: id:4225171697 path:generated_global_groups/4225171687.html -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end footer -->
+</div><!--end footer wrapper -->
+
     
-        if (myForm.f_firstname.value == "")
-            errors = "Please enter your First Name.\n";
-        if (myForm.f_lastname.value == "")
-            errors += "Please enter your Last Name.\n";
-        if (!isValidEmail(myForm.f_email.value))
-            errors += "Please enter a valid Email.\n";       
-    
-    if (errors != "")
-    {
-        alert(errors);
-        return false;
-    }
-    else
-    {
-        return true;
-    }
-}
+<script type="text/javascript" src="https://static.hsstatic.net/content_shared_assets/static-1.4036/js/public_common.js"></script>
 
+
+<!-- Start of HubSpot Analytics Code -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "standard-page"]);
+_hsq.push(["setCanonicalUrl", "http:\/\/www.wizehive.com\/privacy_policy"]);
+_hsq.push(["setPageId", "4239748526"]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": 4239748526,
+    "legacyPageId": "4239748526",
+    "contentGroupId": null,
+    "abTestId": null,
+    "languageVariantId": 4239748526,
+    "languageCode": null
+}]);
+_hsq.push(["setTargetedContentMetadata", []]);</script><script type="text/javascript" id="hs-script-loader" async="" defer="" src="//js.hs-scripts.com/2364314.js"></script><!-- End of HubSpot Analytics Code -->
+
+
+<script type="text/javascript">
+var hsVars = {
+    ticks: 1480162019856,
+    page_id: 4239748526,
+    content_group_id: 0,
+    portal_id: 2364314,
+    app_hs_base_url: "https://app.hubspot.com",
+    language: "en"
+}
 </script>
-	
+
+
+
+
+
+
+    <!-- Generated by the HubSpot Template Builder - template version 1.03 -->
+
+<!-- end coded_template: id:4255049863 path:generated_layouts/4239746831.html -->
 </body></html>
