@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gundamkitscollection.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611000815id_/http%3A//www.gundamkitscollection.com/p/privacy-policy_31.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gundamkitscollection.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126080126id_/http%3A//www.gundamkitscollection.com/p/privacy-policy_31.html) for the most accurate reproduction.*
 
 # Privacy Policy - Gundam Kits Collection News and Reviews
 
@@ -41,7 +41,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 **Advertising**
 
-Ads appearing on our site may be delivered to Users by advertising partners GGInfinite.com, E2046.com, HobbyMate and others, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+Ads appearing on our site may be delivered to Users by advertising partners Hobby Link Japan, GundamModelCenter and Tatsuhobby, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
 **Changes to this privacy policy**
 
@@ -58,4 +58,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 <http://www.gundamkitscollection.com/>  
 info@gundamkitscollection.com
 
-This document was last updated on May 8, 2016
+This document was last updated on July 30, 2016
