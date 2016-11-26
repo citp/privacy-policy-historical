@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johncabot.edu privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508084317id_/http%3A//www.johncabot.edu/about_jcu/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johncabot.edu privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126105118id_/http%3A//www.johncabot.edu/about_jcu/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Study Abroad Rome Italy | An American University Rome | Privacy Policy​
 
