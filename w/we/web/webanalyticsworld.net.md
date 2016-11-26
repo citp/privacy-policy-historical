@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the webanalyticsworld.net privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603185201id_/http%3A//www.webanalyticsworld.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webanalyticsworld.net privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126122633id_/http%3A//www.webanalyticsworld.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Privacy: Safeguarding your information
 
 This website, is operated by Jump Digital Ltd (“we, “”us”) ,  a company registered in the United Kingdom and registered under the UK Data Protection Act.
 
 This policy explains what information we collect from your visit to the site and how we use it.
 
-What information do we collect?
+## What Information do We Collect?
 
 Other than information collected automatically (see below) we may collect information from you, that you supply, if you contact us with comments or specific requests or register to receive services or to receive information.
 
-Protection of Information
+## Protection of Information
 
 We disclose potentially personally-identifying and personally-identifying information only to those of our employees, contractors and affiliated organizations that (i) need to know that information in order to process it on our behalf or to provide services available at our websites, and (ii) that have agreed not to disclose it to others.   
 Some of those employees, contractors and affiliated organizations may be located outside of your home country. By using this website, you consent to the transfer of such information to them.
@@ -27,8 +25,11 @@ If you are a registered user of our website and have supplied your email address
 
 We take all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-Information collected automatically  
+## Information Collected Automatically
+
 We automatically collect information about your visit to our site. This information is used to make your visit to our site more efficient, and to help us follow browsing preferences on our site so that we can make regular improvements. Our external web host may also automatically log your IP address, a unique identifier for your computer or other access device. IP addresses are not linked to personally identifiable information. We only use IP addresses to analyze trends, administer our website, track general user movements, and gather broad demographic information for aggregate use.
+
+We make use of Google and Bing’s Remarking functionality which is an advertising feature allowing Bing and Google Analytics to collect data about our site traffic. We do not collect personally-identifiable information through this functionality. For more information about the Cookies used on the site and how to opt out of the remarketing tracking on this site please visit our [Cookies Policy page.](https://web.archive.org/privacy/cookies)
 
 **More information about the[Cookies](http://www.webanalyticsworld.net/privacy/cookies "Cookies") used by Web Analytics World**
 
