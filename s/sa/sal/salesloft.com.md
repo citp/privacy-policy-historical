@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the salesloft.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503032944id_/https%3A//salesloft.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesloft.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126203611id_/https%3A//salesloft.com/privacy-policy) for the most accurate reproduction.*
 
-# SalesLoft's Privacy Policy
+# SalesLoft Privacy Policy
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
 #### (1) What information do we collect?
 
-We may collect, store and use the following kinds of personal data:
+We may collect, store and use the following kinds of information and personal data (“Collected Information”):
 
 (a) information about your visits to and use of this website;
 
@@ -17,27 +17,31 @@ our goods or services;
 
 #### (2) Information about website visits
 
-We may collect information about your computer and your visits to this website such as your IP address, geographical location, browser type, referral source, length of visit and number of page views. We may use this information in the administration of this website, to improve the website’s usability, and for marketing purposes.
+We may collect information about your computer and your visits to this website such as your IP address, geographical location, browser type, referral source, length of visit and number of page views, all of which are also Collected Information.
 
 We use cookies on this website. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
-We may send a cookie which may be stored on by your browser on your computer’s hard drive. We may use the information we obtain from the cookie in the administration of this website, to improve the website’s usability and for marketing purposes. We may also use that information to recognize your computer when you visit our website, and to personalize our website for you. Our advertisers may also send you cookies.
+We may send one or more cookies which may be stored by your browser on your computer. The information we obtain from cookies is part of the Collected Information. Our advertisers and service providers may also send you cookies.
 
 Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.) This will, however, have a negative impact upon the usability of many websites, including this one.
 
-#### (3) Using your personal data
+To improve Our services and this site, We may retain third party service providers to operate this site and help Us monitor, collect and analyze information regarding Your interactions with this website and data you input, including through the use of such providers’ cookies on your computer.
 
-Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
+#### (3) Using collected information
 
-In addition to the uses identified elsewhere in this privacy policy, we may use your personal information to:
+Collected Information, including personal data submitted on this website (i.e., data that can be used to identify, contact or locate an individual) will be used for the purposes specified in this privacy policy or in relevant parts of the website.
 
-(a) improve your browsing experience by personalizing the website;
+We may use all Collected Information, including your personal information to:
 
-(b) send information (other than marketing communications) to you which we think may be of interest to you by post or by email or similar technology;
+(a) administer and improve this website’s usability;
 
-(c) send to you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology.
+(b) improve your browsing experience by personalizing the website;
 
-(d) provide other companies with statistical information about our users – but this information will not be used to identify any individual user.
+(c) send information (other than marketing communications) to you which we think may be of interest to you by post or by email or similar technology;
+
+(d) send to you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology.
+
+(e) for other marketing purposes and to provide other companies with statistical information about our users. Information we provide to other companies will not identify any individual user.
 
 #### (4) Other disclosures
 
@@ -51,9 +55,9 @@ In addition to the disclosures reasonably necessary for the purposes identified 
 
 #### (5) Security of your personal data
 
-We will take reasonable precautions to prevent the loss, misuse or alteration of your personal information. Of course, data transmission over the Internet is inherently insecure, and we cannot guarantee the security of data sent over the Internet.
+We will take reasonable precautions to prevent the loss, misuse or alteration of your personal information. Data transmission over the Internet is inherently insecure and we cannot guarantee the security of data sent over the Internet.
 
-We will store all the personal information you provide on our secure servers. SalesLoft may also store Your login or password information for any third party applications You denote as a connector. These may include, but are not limited to, salesforce.com, Twitter, or LinkedIn. This information is encrypted for security and is used solely to provide a connection between SalesLoft and the third party application and will not be shared with any entity other than the third party in question.
+We will store all the personal information you provide on our secure servers.
 
 You are responsible for keeping your passwords confidential. We will not ask you for your passwords.
 
@@ -63,12 +67,16 @@ We may update this privacy policy from time-to-time by posting a new version on 
 
 #### (7) Third party websites
 
-The website contains links to other websites. We are not responsible for the privacy policies of third party websites.
+The website contains links to other websites. We are not responsible for the privacy policies of third party websites or such site operators’ actions including the collection or use of your personal information.
 
-#### (8) Safe Harbor
+#### (8) Data Protection
 
-SalesLoft complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. SalesLoft has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view SalesLoft’s certification, please visit http://www.export.gov/safeharbor/.
+SalesLoft complies with the EU-U.S Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. SalesLoft adheres to the Privacy Shield Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Privacy Shield program, please visit https://www.privacyshield.gov/. If you have questions or concerns regarding our privacy policy or practices, please contact us at privacy@salesloft.com. If you are not satisfied with our response, you can contact JAMs here (link: https://www.jamsadr.com/eu-us-privacy-shield).
 
-#### (9) Contact
+#### (9) Do not track
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to legal (at) salesloft.com or by post to SalesLoft LLC, 3423 Piedmont Road NE, Suite 520, Atlanta, GA 30305.
+Currently, various browsers – including Internet Explorer, Firefox, and Safari – offer a “do not track” or “DNT” option that relies on a technology known as a DNT header, which sends a signal to Web sites visited by the user about the user’s browser DNT preference setting. SalesLoft does not currently commit to responding to browsers’ DNT signals with respect to the Company’s Web sites, in part, because no common industry standard for DNT has been adopted by industry groups, technology companies or regulators, including no consistent standard of interpreting user intent. SalesLoft takes privacy and meaningful choice seriously and will make efforts to continue to monitor developments around DNT browser technology and the implementation of a standard.
+
+#### (10) Contact
+
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to privacy (at) salesloft.com or by post to SalesLoft, Inc., 3405 Piedmont Road NE, Suite 250, Atlanta, GA 30305.
