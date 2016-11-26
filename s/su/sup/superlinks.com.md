@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superlinks.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512172009id_/http%3A//www.superlinks.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superlinks.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126094913id_/http%3A//www.superlinks.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Superlinks - Privacy Policy
 
@@ -32,7 +32,7 @@ If you are a User and do not want the advertising served to you to use the Super
 
 Cookies from Third-Parties.
 
-Advertisers and third-party ad networks also participate in the Superlinks Ad Exchange and also may utilize cookies to deliver ads and monitor the performance of such ads. Many third-party ad networks have agreed to provide an “opt out” mechanism for their ad cookies. The collection of information through cookies by such third parties will be governed by their own privacy policies and principles, which Superlinks does not control. For more information about ad cookies and companies that provide an “opt-out” of these, please [click here](https://web.archive.org/web/20160512172009id_/http%3A//www.superlinks.com/user-cookies.php).
+Advertisers and third-party ad networks also participate in the Superlinks Ad Exchange and also may utilize cookies to deliver ads and monitor the performance of such ads. Many third-party ad networks have agreed to provide an “opt out” mechanism for their ad cookies. The collection of information through cookies by such third parties will be governed by their own privacy policies and principles, which Superlinks does not control. For more information about ad cookies and companies that provide an “opt-out” of these, please [click here](https://web.archive.org/web/20161126094913id_/http%3A//www.superlinks.com/user-cookies.php).
 
 Third party vendors, including Google, OpenX, Appnexus and other Ad Networks participating in the Ad Exchange, use cookies to serve ads based on a user's prior visits to your website.
 
