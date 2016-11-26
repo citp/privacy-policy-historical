@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ivythemes.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528155701id_/http%3A//www.ivythemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivythemes.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126162848id_/http%3A//www.ivythemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IVYThemes | High Quality Blog Templates
-
-[](http://jvz5.com/c/19612/208181)
 
 Privacy Policy for IVYthemes.com
 
@@ -36,4 +34,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Post Views:  53
+Post Views:  126
