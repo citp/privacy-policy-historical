@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iimk.ac.in privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609195223id_/http%3A//iimk.ac.in/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iimk.ac.in privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126013122id_/http%3A//iimk.ac.in/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,4 +36,4 @@ IIM Kozhikode does not utilize direct mail services or telemarketing so your inf
 
 **Contacting Us**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you may contact the official functionaries of the institute whose contact details are provided at: [http://iimk.ac.in/contactus.php](https://web.archive.org/web/20160609195223id_/http%3A//iimk.ac.in/contactus.php). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you may contact the official functionaries of the institute whose contact details are provided at: [http://iimk.ac.in/contactus.php](https://web.archive.org/web/20161126013122id_/http%3A//iimk.ac.in/contactus.php). 
