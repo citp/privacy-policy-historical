@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shouselaw.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412135012id_/http%3A//www.shouselaw.com/docs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shouselaw.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126094354id_/http%3A//www.shouselaw.com/docs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shouse Law Group
 
@@ -39,15 +39,3 @@ Due to the rapidly evolving technologies on the Internet, we may occasionally up
 ## WHAT IF I HAVE QUESTIONS ABOUT THIS PRIVACY POLICY?
 
 Our Firm welcomes questions and comments this website and about this policy. You are welcome to call us with your comments and questions at the number listed on this page. 
-
-### Free attorney consultations...
-
-Our attorneys want to hear your side of the story. Contact us 24/7 to schedule a FREE consultation with a criminal defense lawyer. We may be able to get your charges reduced or even dismissed altogether. And if necessary, we will champion your case all the way to trial. 
-
-### Regain peace of mind...
-
-Our defense attorneys understand that being accused of a crime is one of the most difficult times of your life. Rely on us to zealously and discreetly protect your rights and to fight for the most favorable resolution possible. 
-
-### [Office Locations](http://www.shouselaw.com/all-locations)
-
-Shouse Law Group has multiple locations all across California and Nevada. Click Office Locations to find out which office is right for you.
