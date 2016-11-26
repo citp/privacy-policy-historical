@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolstop.co.uk privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514111928id_/http%3A//www.toolstop.co.uk/privacy-policy-a3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolstop.co.uk privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126011920id_/http%3A//www.toolstop.co.uk/privacy-policy-a3) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,13 +16,13 @@ Scotland
 G71 8BS  
 United Kingdom
 
-You may contact us by e-mail at [info@toolstop.co.uk](mailto:info@toolstop.co.uk). You may call us at 44-1698-819-000.
+You may contact us by e-mail at [info@toolstop.co.uk](mailto:info@toolstop.co.uk). You may call us at 0800 107 8665.
 
 ## Dispute Resolution and Privacy Seals
 
 We have the following privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern.
 
-  * Customer Service: Call us on 44-1698-819-000
+  * Customer Service: Call us on 0800 107 8665
 
 
 
