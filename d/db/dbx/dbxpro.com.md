@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dbxpro.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215003127id_/http%3A//dbxpro.com/en-US/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dbxpro.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126013529id_/http%3A//dbxpro.com/en-US/privacy_policy.html) for the most accurate reproduction.*
 
 # dbx Professional Audio
 
