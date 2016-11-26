@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the effectivesafelist.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427160917id_/http%3A//effectivesafelist.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effectivesafelist.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126052634id_/http%3A//effectivesafelist.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # Effective Safelist
 
