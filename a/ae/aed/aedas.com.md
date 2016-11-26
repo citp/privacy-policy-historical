@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aedas.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514063340id_/http%3A//www.aedas.com/en/cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aedas.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126192124id_/http%3A//www.aedas.com/en/cookies) for the most accurate reproduction.*
 
 # Cookie Policy
 
