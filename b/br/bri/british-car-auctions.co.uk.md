@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the british-car-auctions.co.uk privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503232411id_/http%3A//www.british-car-auctions.co.uk/About-Us/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the british-car-auctions.co.uk privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126110043id_/http%3A//www.british-car-auctions.co.uk/About-Us/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - British Car Auctions
 
