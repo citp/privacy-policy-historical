@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uccs.edu privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527044136id_/http%3A//www.uccs.edu/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uccs.edu privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126031347id_/http%3A//www.uccs.edu/privacystatement.html) for the most accurate reproduction.*
 
 # Privacy Statement - University of Colorado Colorado Springs
 
@@ -25,7 +25,7 @@ Google Analytics collects information such as how often users visit this site, w
 
 ## Remarketing
 
-We use tools such as Google Adwords and Google Display to remarket to individuals who visit our program pages. Third-party vendors, such as Google, show our ads on sites across the internet, and in some cases, use cookies to serve ads based on someone's past visits to our website. You can opt out of Google's use of cookies by visiting Google's [Ads Settings](http://www.google.com/settings/ads). You can also opt out of all third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+We use tools such as Google Adwords and Google Display to remarket to individuals who visit our program pages. Third-party vendors, such as Google, show our ads on sites across the internet, and in some cases, use cookies to serve ads based on someone's past visits to our website. You can opt out of Google's use of cookies by visiting Google's [Ads Settings](https://support.google.com/adsense/troubleshooter/1631343?hl=en). You can also opt out of all third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ## Disclaimer
 
