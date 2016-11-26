@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jocooks.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625003331id_/http%3A//www.jocooks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jocooks.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127001359id_/http%3A//www.jocooks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jo Cooks
 
