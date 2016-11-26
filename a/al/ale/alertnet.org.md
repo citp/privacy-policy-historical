@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the alertnet.org privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521232956id_/http%3A//news.trust.org/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertnet.org privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126092520id_/http%3A//www.trust.org/privacy-and-cookies) for the most accurate reproduction.*
 
-# Privacy and Cookies | Thomson Reuters Foundation News
+# Privacy and Cookies | Thomson Reuters Foundation
 
 The Thomson Reuters Foundation (We) are committed to protecting and respecting your privacy. This policy (together with our Website Terms and Conditions and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is Thomson Reuters Foundation and its trading subsidiary, Reuters Foundation Consultants Limited (30 South Colonnade, London, E14 5EP).
 
-INFORMATION WE MAY COLLECT FROM YOU
+## INFORMATION WE MAY COLLECT FROM YOU
 
 We may collect and process the following data about you:
 
@@ -17,15 +17,15 @@ We may collect and process the following data about you:
   * If you contact us, we may keep a record of that correspondence.
   * We may also ask you to complete feedback questionnaires or surveys that we use for research purposes, although you do not have to respond to them.
   * Details of the Services that you use on our Sites.
-  * Details of your visits to our Sites including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access. 
+  * Details of your visits to our Sites including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access.
 
 
 
-IP ADDRESSES
+## IP ADDRESSES
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-COOKIES
+## COOKIES
 
 Our websites use cookies to distinguish you from other users of our websites. This helps us to provide you with a good experience when you browse our websites and also allows us to improve our Sites. For detailed information on the cookies we use and the purposes for which we use them see our Cookie Policy.
 
@@ -37,7 +37,7 @@ Where we have given you (or where you have chosen) a password which enables you 
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Sites; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-USES MADE OF THE INFORMATION
+## USES MADE OF THE INFORMATION
 
 We use information held about you in the following ways:
 
@@ -45,13 +45,13 @@ We use information held about you in the following ways:
   * Consider Applications: We may use the personal information we collect about you to consider your submissions on TrustLaw or your application to attend our courses.
   * Communications: We may use personal information we collect about you to contact you by e-mail, post or telephone with information about the Thomson Reuters Foundation and events that might be of interest to you. You can opt out of receiving these communications at any point by contacting foundation@thomsonreuters.com.
   * Internal statistical analysis: We may use the personal information we collect about you to facilitate internal statistical analysis, for example to determine the number of people using a particular service from a specific country or region. We have a policy of anonymising the information where possible.
-  * Optimisation: To ensure that news and content from our Sites are presented in the most effective manner for you and for your computer. 
+  * Optimisation: To ensure that news and content from our Sites are presented in the most effective manner for you and for your computer.
   * To carry out our obligations to perform the Services or arising from any contracts entered into between you and us or to allow you to participate in interactive features of our service, when you choose to do so.
   * To notify you about changes to our Services.
 
 
 
-DISCLOSURE OF YOUR INFORMATION
+## DISCLOSURE OF YOUR INFORMATION
 
 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
@@ -64,39 +64,24 @@ We may disclose your personal information to third parties:
 
 
 
-ACCESS TO INFORMATION
+## ACCESS TO INFORMATION
 
 You may contact us to access the personal information you provide to us and ask us to update, correct, or delete it from our databases.
 
 In case of any questions regarding our privacy practices, if you would like to execute your rights or would like to submit a complaint please contact foundation@thomsonreuters.com
 
-CHANGES TO OUR PRIVACY POLICY
+## CHANGES TO OUR PRIVACY POLICY
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
-##  Cookie Policy
+## Cookie Policy
 
 Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. By continuing to browse the site, you are agreeing to our use of cookies.
 
 A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer's hard drive.
 
-**We use the following cookies:**
-
-Cookie | Name | Purpose  
----|---|---  
-Homepage filter preferences | homepageFilter | When required, will be used to remember which filter you have selected on the homepage.  
-Homepage custom filter preferences | CustomQueryCookie | When required, this cookie will remember your 'custom filter' preferences.  
-Community and Events filter preferences | communityFilter | When required, will be used to remember which filter you have selected on the Community and Events section.  
-Session cookie | JSESSIONID | When required, cookies beginning with 'JSESS' are used to track an individual's persistent status such as your logged in state.  
-Google analytics | __utma, __utmb, __utmc, __utmz | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
-Hide Homepage promo | hideHomepagePromo | When required, this cookie will remember that you decided to close the promo bar on the Homepage.  
-Hide Jobs Market promo | hideJobsMarketPromo | When required, this cookie will remember that you decided to close the promo bar on the Jobs Market pages.  
-Hide Community and Events promo | hideCommunityEventsPromo | When required, this cookie will remember that you decided to close the promo bar on the Community and Events pages.  
-Hide Services promo | hideServicesPromo | When required, this cookie will remember that you decided to close the promo bar on the services pages.  
-Hide Cookie Warning | cookieWarning | When required, this cookie will remember that you agreed to the Cookie notice and will no longer show the message.  
-  
-  * Strictly necessary cookies. These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services. 
-  * Analytical/performance cookies. They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily. 
+  * Strictly necessary cookies. These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.
+  * Analytical/performance cookies. They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
   * Functionality cookies. These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
   * Targeting cookies. These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the content displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
 
@@ -104,4 +89,4 @@ Hide Cookie Warning | cookieWarning | When required, this cookie will remember t
 
 Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
 
-You block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site. 
+You block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.
