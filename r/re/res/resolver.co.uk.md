@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resolver.co.uk privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401000511id_/http%3A//www.resolver.co.uk/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resolver.co.uk privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126154641id_/http%3A//www.resolver.co.uk/our-privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Resolver
 
@@ -6,9 +6,9 @@
 
 ### resolvercouk Limited a subsidiary of Resolving Limited ("We") are committed to protecting and respecting your privacy
 
-This policy (together with our [terms of use](https://web.archive.org/terms-and-conditions "Terms and conditions") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [www.resolver.co.uk](https://web.archive.org/ "Home"), you are accepting and consenting to the practices described in this policy. 
+This policy (together with our [terms of use](https://web.archive.org/terms-and-conditions "Terms and conditions") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [www.resolver.co.uk](https://web.archive.org/ "Home"), you are accepting and consenting to the practices described in this policy.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is resolvercouk Limited, 52 Lant Street, London, SE1 1QP. 
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is resolvercouk Limited, 52 Lant Street, London, SE1 1QP.
 
 Our nominated representative for the purpose of the Act is James Walker.
 
@@ -16,7 +16,7 @@ Our nominated representative for the purpose of the Act is James Walker.
 
 We may collect and process the following data about you:
 
-**Information you give us.** You may give us information about you by filling in forms on [www.resolver.co.uk](https://web.archive.org/ "Home") (our site) or by corresponding with us by phone, email or otherwise. This includes information you provide when you register to use our site, subscribe to our service, participate in discussion boards or other social media functions on our site, create a Resolver Email Service account or use our suggestions service and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, photograph. 
+**Information you give us.** You may give us information about you by filling in forms on [www.resolver.co.uk](https://web.archive.org/ "Home") (our site) or by corresponding with us by phone, email or otherwise. This includes information you provide when you register to use our site, subscribe to our service, participate in discussion boards or other social media functions on our site, create a Resolver Email Service account or use our suggestions service and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, photograph.
 
 **Information we collect about you.** With regard to each of your visits to our site we may automatically collect the following information:
 
@@ -108,7 +108,7 @@ We would have to disclose your personal information if we were under a duty to d
 
 ### Where we store your personal data
 
-From time to time and for operational reasons data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA, who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the provision of support services and agree to comply with all relevant data protection laws and policies. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with the requirements set out in the Data Protection Act 1988 and this privacy policy.
+From time to time and for operational reasons data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA, who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the provision of support services and agree to comply with all relevant data protection laws and policies. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with the requirements set out in the Data Protection Act 1998 and this privacy policy.
 
 All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password for your account (including any Resolver Email Service account), you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
