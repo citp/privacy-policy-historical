@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fakeshoredrive.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624111011id_/http%3A//www.fakeshoredrive.com/online-privacy-policy-agreement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fakeshoredrive.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127084000id_/http%3A//www.fakeshoredrive.com/online-privacy-policy-agreement) for the most accurate reproduction.*
 
-# ONLINE PRIVACY POLICY AGREEMENT - Fake Shore Drive®
+# ONLINE PRIVACY POLICY AGREEMENT | Fake Shore Drive®
 
 FakeShoreDrive is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our on-line facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with FakeShoreDrive of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
 
@@ -59,7 +59,7 @@ All users and/or visitors to our website have the option to discontinue receivin
 
  ** _Links to Other Web Sites_**
 
-Our website does contain links to affiliate and other websites, [such as this one where this document has been generated](http://formswift.com/w9). FakeShoreDrive does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. The aforementioned Privacy Policy Agreement applies only and solely to the information collected by our website.
+Our website does contain links to affiliate and other websites. FakeShoreDrive does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. The aforementioned Privacy Policy Agreement applies only and solely to the information collected by our website.
 
  ** _Security_**
 
