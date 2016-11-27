@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordmaker.info privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518082234id_/http%3A//wordmaker.info/disclaimer-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordmaker.info privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127095109id_/http%3A//wordmaker.info/disclaimer-privacy.php) for the most accurate reproduction.*
 
 # Disclaimer & Privacy Policy
 
