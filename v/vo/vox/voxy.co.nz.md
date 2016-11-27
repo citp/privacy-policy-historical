@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voxy.co.nz privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625135244id_/http%3A//www.voxy.co.nz/about-voxy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxy.co.nz privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127034002id_/http%3A//www.voxy.co.nz/about-voxy) for the most accurate reproduction.*
 
 # About Voxy | Voxy.co.nz
 
@@ -10,7 +10,7 @@ Voxy.co.nz is updated throughout the day, seven days a week, with the latest NZ 
 
 Voxy's primary sources of content are its community of bloggers and the Fuseworks[ real-time news management](https://fuseworksmedia.com/) platform - though everyone with something to say is encouraged to contribute. 
 
-Voxy is owned by Wellington based online publisher Digital Advance Limited, which also publishes Guide2.co.nz ([personal finance news](http://www.guide2.co.nz/) and ['how to' guides](http://www.guide2.co.nz/money/guides)), expert and community recommendations website, [Recommended.co.nz](http://www.recommended.co.nz/) and competitions and giveaways search engine, [gimme.co.nz](http://www.gimme.co.nz/). **  
+Voxy is owned by Hawke's Bay based online publisher Digital Advance Limited, which also publishes Guide2.co.nz ([personal finance news](http://www.guide2.co.nz/) and ['how to' guides](http://www.guide2.co.nz/money/guides)), expert and community recommendations website, [Recommended.co.nz](http://www.recommended.co.nz/) and competitions and giveaways search engine, [gimme.co.nz](http://www.gimme.co.nz/). **  
 **
 
 ## **Contact Voxy and Submit News**
@@ -19,13 +19,14 @@ To submit news tips please email  **news@fuseworksmedia.com** (NB: **correction
 
 For broader distribution of news to New Zealand media, we recommend the [news distribution service](https://fuseworksmedia.com/nz/news-distribution) powered by Fuseworks.
 
-For other contacts please see the [About page](http://www.digitaladvance.co.nz/about/) of Voxy publisher Digital Advance Limited.
+[Email Voxy publisher Digital Advance Limited](http://digitaladvance.co.nz/contact/) for all other enquiries.
 
 [Back to Top]
 
 ## **Advertise**
 
-****Find out about  [advertising on Voxy](https://web.archive.org/advertise-voxyconz) **.**
+****You can advertise on Voxy via Google Adwords. **  
+**
 
 ## Privacy Policy
 
