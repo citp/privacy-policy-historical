@@ -1,25 +1,33 @@
-> *The following text is extracted and transformed from the arcgames.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616110042id_/http%3A//www.arcgames.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcgames.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127065522id_/http%3A//www.arcgames.com/en/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Arc Games
 
 [ ](https://privacy.truste.com/privacy-seal/Perfect%20World%20Entertainment%20Inc/validation?rid=0cf009c3-1b3f-4032-8f7e-723783d146ab "TRUSTe online privacy certification")
 
-Date of Last Revision: May 27th, 2016
+Date of Last Revision: September 22, 2016
 
 **PLEASE READ THIS PRIVACY POLICY CAREFULLY. IT DESCRIBES DETAILS ABOUT HOW WE COLLECT, USE AND DISCLOSE PERSONAL INFORMATION. IF YOU ARE UNDER 18, DO NOT PROVIDE ANY INFORMATION UNLESS YOU HAVE FIRST OBTAINED YOUR PARENT’S OR GUARDIAN’S PERMISSION.**
 
 Thank you for reading our Privacy Policy and visiting our website [www.arcgames.com](https://web.archive.org/en/games/) and [www.perfectworld.com](http://www.perfectworld.com/). Perfect World Entertainment Inc. (“Perfect World,” “we,” “us”) uses and maintains this Privacy Policy (“Policy”) that summarizes when and how your personal information is collected, used, safeguarded and disclosed in connection with your use of the [www.arcgames.com](https://web.archive.org/en/games/) and [www.perfectworld.com](http://www.perfectworld.com/), any other website operated by Perfect World, and any micro-site, mobile site or subdomains of such sites (collectively, the “Website”), any games, mobile games and game platforms, clients or servers operated by Perfect World through the Website (the “Games”), and all features, functions, software and services offered through the Website. The Website, the Games and the features, functions, software and services offered through the Website collectively constitute the “Service.” It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. We reserve the right to change the provisions of this Policy at any time. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-Perfect World complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Perfect World has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
+Perfect World (and its partner studios, Cryptic Studios, Inc. and Motiga, Inc.) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Perfect World is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. [<https://www.privacyshield.gov/list>]
 
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Perfect World commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Perfect World at:
+Perfect World is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Perfect World complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Perfect World is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Perfect World may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [ https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request).
+
+Under certain conditions, more fully described on the Privacy Shield website [<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>], you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+Perfect World complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Perfect World has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Perfect World’s certification, please visit [ https://safeharbor.export.gov/swisslist.aspx](https://safeharbor.export.gov/swisslist.aspx).
+
+In compliance with the U.S.-Swiss Safe Harbor Principles, Perfect World commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Perfect World at:
 
 Perfect World Entertainment Inc.   
 Attn: Legal Department PWE Safe Harbor   
 101 Redwood Shores Parkway, Suite 400   
 Redwood City, CA 94065 
-
-To accelerate online trust among consumers and organizations globally, Perfect World has partnered itself with TRUSTe, a leading data-protection management service. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. The TRUSTe program covers only information that is collected through the websites, [www.arcgames.com](https://web.archive.org/en/games/) and [www.perfectworld.com](http://www.perfectworld.com/) and does not cover information that may be collected through our mobile application or software downloaded from the websites. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request.>
 
 ## What is personal information?
 
@@ -85,7 +93,7 @@ In general, we use personal information we collect to process your requests or t
 
 
 
-In order to offer you more consistent and personalized experience in your interactions with us, information collected through one offering or portion of the Service may be combined with information obtained through other offerings or portions of the Service. We may also supplement the information we collect with information obtained from other companies. For example, we may use services from other companies that enable us to derive a general geographic area based on IP address in order to customize certain services to your geographic area. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us. 
+In order to offer you more consistent and personalized experience in your interactions with us, information collected through one offering or portion of the Service may be combined with information obtained through other offerings or portions of the Service. We may also supplement the information we collect with information obtained from other companies. For example, we may use services from other companies that enable us to derive a general geographic area based on IP address in order to customize certain services to your geographic area.
 
 ## Do we share personal information?
 
@@ -95,17 +103,17 @@ We may share personal information with vendors, consultants and other service pr
 
 We may allow third party partners to collect information from you directly in order to provide services to us, including serving you advertisements, provide offers, surveys or marketing messages or providing analytic services. 
 
-From time to time, we may also share personal information with third parties when you give us your consent to do so. For example, we may enter into relationships with other parties to make specific services or offers available directly to our users. If a user opts in to these third party services or marketing offers, for example by clicking through to a third party link, we may share the personal information you provide at the time of sign-up or such other personal information, such as your name or other contact information, that we deem reasonably necessary or appropriate for our business partner to provide these services or offers or get in contact with you. If you no longer want us to share your personal information with these companies, contact us at (add email address)
+From time to time, we may also share personal information with third parties when you give us your consent to do so. For example, we may enter into relationships with other parties to make specific services or offers available directly to our users. If a user opts in to these third party services or marketing offers, for example by clicking through to a third party link, we may share the personal information you provide at the time of sign-up or such other personal information, such as your name or other contact information, that we deem reasonably necessary or appropriate for our business partner to provide these services or offers or get in contact with you. If you no longer want us to share your personal information with these companies, contact us at [privacy@perfectworld.com](mailto:privacy@perfectworld.com)
 
 We may share information with companies in the same group of companies as Perfect World, which includes our subsidiaries (i.e., any organization we own or control) or our ultimate holding company (i.e., any organization that owns or controls us) and any subsidiaries it owns. These companies will use your personal information in the same way as we can under this Policy.
 
-We may access, disclose or preserve personal information, including the content of your communications, in the good faith belief that we are lawfully authorized or required to do so, or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, respond to any claims, or to protect the rights, property or safety of Perfect World, our users, our employees or the public, including without limitation to protect Perfect World or our users from fraudulent, abusive, inappropriate or unlawful use of our Service. Information we collect, including personal information, may also be disclosed or transferred as part of, or during negotiations of, any merger, sale, divestiture, or transfer of all or a portion of the company assets, financing or acquisition or in any other situation where personal information may be transferred as one of the business assets of Perfect World. You will be notified via email and/or a prominent notice on our website, of any change in ownership, uses of your personal information, and choices you may have regarding your personal information. We may also disclose your personal information to any other third party with your prior consent.
+We may access, disclose or preserve personal information, including the content of your communications, in the good faith belief that we are lawfully authorized by public authorities or required to do so, including to meet national security or law enforcement requirements or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, respond to any claims, or to protect the rights, property or safety of Perfect World, our users, our employees or the public, including without limitation to protect Perfect World or our users from fraudulent, abusive, inappropriate or unlawful use of our Service. Information we collect, including personal information, may also be disclosed or transferred as part of, or during negotiations of, any merger, sale, divestiture, or transfer of all or a portion of the company assets, financing or acquisition or in any other situation where personal information may be transferred as one of the business assets of Perfect World. You will be notified via email and/or a prominent notice on our website, of any change in ownership, uses of your personal information, and choices you may have regarding your personal information. We may also disclose your personal information to any other third party with your prior consent. 
 
 You understand that when you use the community features of our Service, information you post in public or private groups, forums, and other interactive areas of the Service, as well as any information you share with individuals through the Service, will be available to other users and in some cases (such as when you post to a public area of the Service) may be publicly available. We recommend you be cautious in giving out personal information to others or sharing such information in public or private online forums. We are not responsible for the actions of any third parties with whom you share personal information. To request removal of your personal information from our community forums or other public areas, contact us at [privacy@perfectworld.com ](mailto:privacy@perfectworld.com). Even if you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other users have copied or saved that information. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 Please note that nothing herein restricts the sharing of aggregate information, which may be shared with third parties without your consent.
 
-## International transfer
+## International Transfer
 
 In order to be able to also use your account on our Website and in our Service and to be able to choose a server located in the United States or in Europe for gaming, the information relating to your account and use of our games is transferred between Perfect World Entertainment, Inc. located in the United States and Perfect World Europe B.V. located in The Netherlands.
 
@@ -117,7 +125,7 @@ Our Service contains links to other websites. Third party social media sites may
 
 When we update or “patch” any of our games or other software, we may utilize a patch routine to verify whether the most recent version is installed on your computer. If not, the most recent version may automatically be uploaded to your computer, and you hereby consent to, and waive any further notice of, such upload. You understand and agree that when you download a game, in order to be able to use the game the Software may monitor and communicate information from your computer relating to hardware capacity.
 
-## Push Notifications & Local Notifications
+## Push Notifications and Local Notifications
 
 We may, with your consent, send push notifications to your mobile device to provide game updates and other relevant messages. You can manage push notifications from your mobile device’s settings page for the relevant game and/or from the settings page within the relevant mobile game. We may also send local notifications to your mobile device to provide game updates and other relevant information. You can manage local notifications from your mobile device’s settings page for the relevant game and/or from the settings page within the relevant mobile game.
 
@@ -147,11 +155,13 @@ Please refer to your browser’s or mobile device’s technical information for 
 
 Persons under the age of 13 are not eligible to use our Service. The Services are not directed to persons under 13. If we discover that we have inadvertently collected information from children under 13, we will delete the child’s information from our systems as soon as possible. If you become aware that personal information about a person under 13 has been provided to us, please immediately contact us using the details below.
 
-## Your California rights
+## Your California Rights
 
 Under California law, users who are California residents are entitled to request and obtain annually information about the personal information we have shared, if any, with other businesses for their own direct marketing during the prior calendar year. Alternatively, the law provides that if we have a privacy policy that either allows you to opt-out or opt-in to the use of your personal information by third parties for marketing purposes, we may instead provide you with information on how to exercise your disclosure choice options. We follow this alternative, as we do not share your personal information with third parties for marketing purposes unless you opt-in to such sharing at the point at which such information is collected.
 
 ## How to review, update, correct, or delete personal information
+
+Upon request Perfect World will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please submit a ticket using the Customer Support website: [http://support.perfectworld.com](http://support.perfectworld.com/).
 
 You may review, update, correct or delete your personal information collected through the Service by emailing us at [privacy@perfectworld.com ](mailto:privacy@perfectworld.com) or by contacting us at:
 
@@ -172,9 +182,9 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Service, you can contact us at [privacy@perfectworld.com ](mailto:privacy@perfectworld.com).
 
-## International users
+## International Users
 
-Perfect World is a United States based company and our servers and business operations are located primarily is the State of California. By using our Service and providing us with information, you are consenting to the transferring, storing and processing of your information on computers located in the United States of America in the manner described in this Policy, except in the case of data transfers from the European Economic Area, which are covered under the EU Safe Harbor Framework, and except in the case of data transfer from Switzerland, which are covered under the Swiss Safe Harbor Framework. You acknowledge and understand that the laws regarding personal information in the United States may be less stringent than the laws of your country and may not offer the same protections or rights as those laws. If you object to your personal information being transferred or used as described in this Policy, please do not use this Service.
+Perfect World is a United States based company and our servers and business operations are located primarily is the State of California. By using our Service and providing us with information, you are consenting to the transferring, storing and processing of your information on computers located in the United States of America in the manner described in this Policy, except in the case of data transfers from the European Economic Area, which are covered under the EU-US Privacy Shield Framework, and except in the case of data transfer from Switzerland, which are covered under the Swiss Safe Harbor Framework. You acknowledge and understand that the laws regarding personal information in the United States may be less stringent than the laws of your country and may not offer the same protections or rights as those laws. If you object to your personal information being transferred or used as described in this Policy, please do not use this Service.
 
 ## Contact Us
 
