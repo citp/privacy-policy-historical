@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worthytales.net privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508112954id_/http%3A//www.worthytales.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worthytales.net privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127095834id_/http%3A//www.worthytales.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Worthy Tales
 
