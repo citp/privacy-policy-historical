@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globat.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616212215id_/http%3A//www.globat.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globat.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127032536id_/http%3A//www.globat.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # Globat's Privacy Policy
 
