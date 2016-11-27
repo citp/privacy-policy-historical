@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the boxtv.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608072600id_/http%3A//www.boxtv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxtv.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127233125id_/http%3A//www.boxtv.com/privacy-policy) for the most accurate reproduction.*
 
 # BoxTV - Privacy Policy
 
-This Privacy Policy explains our policy regarding the collection, use, disclosure and transfer of your information by Times BoxTV Media Pte Ltd. and/or its subsidiary(ies) and/or affiliate(s) (collectively referred to as **THE ENTITY** ), which operates the BoxTV Service. This Privacy Policy forms part and parcel of the Terms of Use for the BoxTV Service. Capitalized terms which have been used here but are undefined shall have the same meaning as attributed to them in the Terms of Use.
+This Privacy Policy explains our policy regarding the collection, use, disclosure and transfer of your information by Bennett Broadcasting & Distribution Services Ltd. and/or its subsidiary(ies) and/or affiliate(s) (collectively referred to as **THE ENTITY** ), which operates the BoxTV Service. This Privacy Policy forms part and parcel of the Terms of Use for the BoxTV Service. Capitalized terms which have been used here but are undefined shall have the same meaning as attributed to them in the Terms of Use.
 
 As we update, improve and expand the BoxTV Service, this policy may change, so please refer back to it periodically. By accessing the Site (www.boxtv.com) or otherwise using the BoxTV Service, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.
 
