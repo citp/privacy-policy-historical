@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allscripts.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627055909id_/http%3A//www.allscripts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allscripts.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127115358id_/http%3A//www.allscripts.com/allscripts-com/privacy-policy) for the most accurate reproduction.*
 
-# Policy | allscripts.com
+# Privacy Policy | allscripts.com
 
 Allscripts respects the privacy of every person who visits our websites. This Privacy Statement outlines the Allscripts will collect and how we will use that information. This statement will also tell you how you can verify the accuracy of your personal information submitted to Allscripts through our websites, and how you can request that we delete or update your personal information. We have developed our privacy policy from industry guidelines and standards, and national laws and requirements. This summary highlights our strong commitment to protect your privacy. Thanks again for placing your trust in Allscripts.
 
