@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the glampinghub.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329233534id_/https%3A//glampinghub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glampinghub.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127072929id_/https%3A//glampinghub.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Glamping Hub
 
 ### 1\. Introduction
 
@@ -79,7 +79,7 @@ Your information may be transferred to - and maintained on - computers located o
 
 ### 13\. Your California Privacy Rights
 
-Glamping Hub permits residents of the State of California to use its Service, and complies with the California Business and Professions Code Â§Â§ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. Although we do not disseminate your information to third parties without permission, you must presume that we collect electronic information from all visitors. You may contact us with any questions.
+Glamping Hub permits residents of the State of California to use its Service, and complies with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. Although we do not disseminate your information to third parties without permission, you must presume that we collect electronic information from all visitors. You may contact us with any questions.
 
 ### 14\. Contact
 
