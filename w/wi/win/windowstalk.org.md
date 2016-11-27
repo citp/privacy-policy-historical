@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowstalk.org privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605021406id_/http%3A//www.windowstalk.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowstalk.org privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127122540id_/http%3A//www.windowstalk.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,15 +36,15 @@ Most internet browsers accept cookies automatically, but you can change the sett
 
 If you wish to choose not to allow cookies then please follow the link below that corresponds to the browser you are using. You will then find detailed information on how to control cookies for your browser – remember that if you turn off cookies in your browser then these settings apply to all websites not just this one:
 
-  * **Internet Explorer:** <http://support.microsoft.com/kb/278835>
-  * **Internet Explorer (mobile):** <http://www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx>
+  * **Internet Explorer:** <http://support.microsoft.com/kb/278835>[](http://support.microsoft.com/kb/278835)
+  * **Internet Explorer (mobile):** <http://www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx>[](http://www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx)
   * **Chrome:** [http://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647)
-  * **Safari:** <http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html>
-  * **Safari:(mobile)** <http://support.apple.com/kb/HT1677>
-  * **Firefox:** <http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies>
-  * **Blackberries:** <http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp>
+  * **Safari:** <http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html>[](http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html)
+  * **Safari:(mobile)** <http://support.apple.com/kb/HT1677>[](http://support.apple.com/kb/HT1677)
+  * **Firefox:** <http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies>[](http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies)
+  * **Blackberries:** <http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp>[](http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp)
   * **Android:** [http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022](http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022)
-  * **Opera:** <http://www.opera.com/browser/tutorials/security/privacy/>
+  * **Opera:** <http://www.opera.com/browser/tutorials/security/privacy/>[](http://www.opera.com/browser/tutorials/security/privacy/)
 
 
 
