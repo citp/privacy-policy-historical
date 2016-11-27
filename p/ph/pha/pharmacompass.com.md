@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pharmacompass.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610144827id_/http%3A//www.pharmacompass.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacompass.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127172412id_/http%3A//www.pharmacompass.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PharmaCompass.com
+# Privacy Policy | PharmaCompass.com
 
   1. As a general rule, our website does not collect personal information about you when you visit the site. You can generally visit the website without revealing personal information, unless you choose to provide such information. 
   2. The use of the term "Personal Information" in this privacy statement refers to any information from which your identity is apparent or can be reasonably ascertained. We have put in place technical, physical, and administrative safeguards to protect the Personal Information that we collect. 
