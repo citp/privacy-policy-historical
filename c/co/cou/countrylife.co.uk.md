@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countrylife.co.uk privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627112916id_/http%3A//www.timeincuk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countrylife.co.uk privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127050309id_/http%3A//www.timeincuk.com/privacy) for the most accurate reproduction.*
 
 # TimeIncUK.com Official Website|privacy policy
 
