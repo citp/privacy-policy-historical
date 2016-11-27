@@ -1,6 +1,34 @@
-> *The following text is extracted and transformed from the monicavinader.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403202527id_/http%3A//www.monicavinader.com/us/customer-care/privacy-and-security/privacy-promise) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monicavinader.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127194410id_/http%3A//www.monicavinader.com/customer-care/privacy-and-security/privacy-promise) for the most accurate reproduction.*
 
 # Privacy Policy
+
+  * Jewellery
+  * Personalise
+  * Monica's World
+  * [Black Friday](https://web.archive.org/blackfriday)
+
+
+
+  * [Customer Care](https://web.archive.org/customer-care)
+  * [Contact Us](https://web.archive.org/contact-us)
+  * [My Account](https://web.archive.org/customer-care/my-account)
+  * [Ordering & Payment ](https://web.archive.org/customer-care/ordering-and-payment)
+  * [Delivery](https://web.archive.org/customer-care/delivery)
+  * [Exchanges & Returns](https://web.archive.org/customer-care/exchanges-and-returns)
+  * [Our Services](https://web.archive.org/customer-care/our-services)
+  * [Jewellery Care](https://web.archive.org/customer-care/jewellery-care)
+  * [Gift Cards](https://web.archive.org/customer-care/gift-cards)
+  * [Terms & Conditions ](https://web.archive.org/customer-care/privacy-and-security)
+    * [Black Friday Sale 2016](https://web.archive.org/customer-care/privacy-and-security/black-friday-sale-2016)
+    * [Online Terms of Sale](https://web.archive.org/customer-care/privacy-and-security/online-terms-of-sale)
+    * [Payment Security](https://web.archive.org/customer-care/privacy-and-security/payment-security)
+    * [Privacy Policy](https://web.archive.org/customer-care/privacy-and-security/privacy-promise)
+    * [Flash and Browser Options](https://web.archive.org/customer-care/privacy-and-security/flash-and-browser-options)
+    * [Website Terms of Use](https://web.archive.org/customer-care/privacy-and-security/website-terms-of-use)
+
+
+
+## Privacy Policy
 
 **1 Introduction**  
 1.1 This website monicavinader.com (the "Site") is provided and operated by Monica Vinader Ltd ("we", "us" or "our"). We take the privacy of your information very seriously and believe that it is important for you to know what types of information we collect from the Site and how we treat information we may receive from you.
@@ -19,6 +47,7 @@
 **3 Automated Collection**  
 We may automatically collect information such as the type of internet browser and operating system you use, the Internet Protocol (IP) address of the computer you are using, the website from which you linked to our Site and the website you visit as you leave the Site. We use this information to collect broad demographic information about the visitors to the Site and to improve the Site's content and to help us understand how users are interacting with the Site and services provided.
 
+  
 **4 Cookies**  
 4.1 When you visit the Site we may store some information (commonly known as a "cookie") on your computer. Cookies are pieces of information that a website transfers to your hard drive to store and sometimes track information about you. Cookies are specific to the server that created them and cannot be accessed by other servers, which means that they cannot be used to track your movements around the web.
 
@@ -111,7 +140,7 @@ Persistent
 Where we use your personal information for mailing purposes, you will have the right to unsubscribe at any time. To unsubscribe just click on the unsubscribe link of any marketing email that you receive from us. If you have an online account you can opt out on the My Details page.
 
 **10 Contacting Us**  
-If you have any questions about this Privacy Policy, [please contact us by clicking here](https://web.archive.org/us/contact-us).
+If you have any questions about this Privacy Policy, [please contact us by clicking here](https://web.archive.org/contact-us).
 
 **11 Changes to this Privacy Policy**  
 11.1 We may amend this Privacy Policy at any time by posting the amended terms on the Site. All amended terms will automatically take effect immediately on posting. Please check this Privacy Policy periodically to inform yourself of any changes. In continuing to use the Site you confirm that you accept the then current terms and conditions in full at the time you use the Site.
