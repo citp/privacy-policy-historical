@@ -1,139 +1,329 @@
-> *The following text is extracted and transformed from the westpac.co.nz privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604044550id_/http%3A//westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westpac.co.nz privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127122201id_/http%3A//www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information) for the most accurate reproduction.*
 
 # Westpac NZ - Legal Information
 
-### Commitment to website privacy and responsible use of information
+**You can download a copy of our[Privacy Policy here](http://www.westpac.co.nz/assets/Personal/Westpac-Privacy-Policy.pdf)[]() or read it below.**
 
-At Westpac, we are committed to ensuring the privacy of your information. We understand as a customer using the Westpac website, how important the privacy of your personal information is to you.
+At Westpac we are committed to your privacy. In this Privacy Policy we explain how **_Westpac_** (Westpac New Zealand Limited and its NZ operations) collects, stores, uses and shares your personal information.
 
-The following statement has been developed in recognition that Internet technologies, and specifically Westpac's application of these, are rapidly evolving. This statement addresses privacy issues relevant to the Westpac website.
+Personal information is information about an identifiable individual. It includes information that could be used to identify you, such as your name and contact details. It also includes credit information as defined in the Credit Reporting Privacy Code 2004, essentially information that has a bearing on credit that you have applied for or that is being provided to you.
 
-Should we change our website privacy statement for any reason, such changes will always be posted to this page. However, if you have any further questions relating to this privacy statement, please do not hesitate to email us.
+This Privacy Policy applies to all products and services made available in New Zealand by the **_Westpac Group_** (comprising Westpac Banking Corporation ABN 33 007 457 141, Westpac and all related entities of both), including those provided electronically. By using any of these products and services you are permitting us to collect, store, use and share your personal information in accordance with this Privacy Policy.
 
-### Information we collect
+### Summary of how we manage your personal information
 
-We may gather three types of information about our website users:
+[**1\. Collection:**](http://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#collection) We collect the personal information you provide to us either directly or from your computer, mobile or other device. We may also collect your personal information from a range of third parties, including service providers. If you choose not to provide the personal information we request then we may not be able to offer all our services to you.
 
-1\. personal information, provided voluntarily when you complete an online form or request for service
+[**2\. Use and Disclosure:**](http://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#use) We use your personal information for a range of purposes including for the provision of products and services, to better understand your preferences and to conduct and develop our business. Where authorised, we may share your personal information with other members of the Westpac Group, credit reporting, governmental and law enforcement agencies and third party service providers.
 
-2\. specific information to identify the computers or devices you use to access Westpac Online Banking and the manner by which you use them
+[**3\. Storage:**](http://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#storage) If we collect personal information about you, we will store it in secure data storage facilities usually located in New Zealand or Australia.
 
-3\. aggregated information collected by our web server or third party systems we subscribe to for site traffic information.
+[**4\. Cookies:**](http://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#cookies) We use cookies and similar technologies on our websites and other digital services to improve those services and enhance your online experience.
 
-Our web server collects the following types of information:
+[**5\. Access & Complaints:**](http://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#access) You may request access and corrections to your personal information.
 
-  * the number and location of site visitors (gathered via IP address logs and device id logs )
-  * the date and time of visits
-  * the number of pages viewed
-  * technical information on browser connections
-  * traffic patterns
-  * audit logs of all activity.
+### 1\. Collection of your personal information 
 
+Most of your personal information that we collect will come **directly from you** when you deal with Westpac either in person, remotely or in writing. The type of information we collect will depend on the product or service in question and may include:
 
-
-In normal circumstances, this is anonymous statistical data and no attempt is made to identify users or their individual browsing activities. We use this aggregate data to evaluate our website performance and measure the interest in various areas of our site.
-
-In the event of a fraud, dispute, or other extraordinary circumstances, audit logs of Online Banking activity, and IP address information may be analysed for troubleshooting purposes. If we come across a suspicious looking transaction, we will investigate it to ensure there is no breach of security. Occasionally, this may involve one of our staff members contacting you to verify a transaction.
-
-### Information disclosure
-
-We may release information about you when required to, or permitted by law.
-
-We may also disclose information where you have authorised us to, or where disclosure is connected to the purpose for which it was collected - eg. online applications. You have the right to access and correct this information subject to the provisions of the Privacy Act 1993.
-
-We will not however, use your personal information for any purpose that is not related to the products or services we provide to you, or for any purpose for which you would not reasonably expect us to use the information. For example, your information may be used by Westpac and its related companies, to enable us to offer you other products and services that may enhance your relationship with us. It's your decision whether you wish us to provide this service to you or not.
-
-We may share the information we gather in aggregate form, eg. survey or tracking information, with advertisers and other partners. However, we will not sell or disclose personal information about you as an individual to any third party or entity outside Westpac or its related companies for marketing purposes.
-
-### Cookies
-
-Cookies are small pieces of information which can be stored on your hard drive (persistent cookies) or in memory (session cookies). The cookies we send to your PC cannot read your hard drive or command your computer to perform any action.
-
-We use two types of cookies:
-
-  * Persistent cookies - used to identify and provide personalised features such as choosing which page you would like to make your Westpac start page, as part of our Online Guardian Challenge service, and for tracking traffic patterns to and from our site. For more information on the tracking we use, refer to the Google Analytics section below.
-  * Session cookies - used as an integral part of the identification process for our Online Banking service. This is for security purposes to determine that you are who you say you are and to provide you with your confidential account information during an Online Banking session. No personal information is kept in the cookie and the cookie is not written to your hard drive. When you log out of your Online Banking session the cookie is no longer valid and is discarded when you close your browser.
+  * your identification and contact details, including your name, (e)mail address, phone number, specimen signature, date of birth and Inland Revenue Department number;
+  * information collected in relation to your use of our online banking services, websites (including third party websites containing interactive Westpac content and Westpac branded social media pages), mobile applications and ATMs ( ** _Digital Services_** ), including your user name and login credentials, activity logs, IP address and cookie, device, browser and operating system identifiers (including device location identifiers where you agree to let us access that information);
+  * your employment details, financial position, credit record and banking transaction history;
+  * your queries, complaints and other written or verbal communications with us. When you’re dealing with any member of Westpac by telephone or live web or video chat service, your conversation may be recorded for training or verification purposes; 
+  * in an insurance context, information about what is being insured, any insurance policy beneficiaries, your health, financial and insurance history and information required for processing claims; 
+  * details you have shared publicly on social media platforms, which may be used to supplement our customer databases and for marketing and business development purposes; and 
+  * any other information that any member of the Westpac Group is required by law to collect about you.
 
 
 
-### Google Analytics
+We may also collect your personal information from **third parties** , including:
 
-Westpac uses Google Analytics website measurement software to help measure traffic patterns to, from, and within our public website. Note: we do not include this measurement software on any secure site Online Banking screens. The services are used to anonymously aggregate website statistics, such as number of page views, the number of unique visitors, time spent on our site, when visitors browse, and common entry and exit points into and from the website. On occasion, random short surveys may also be used to collect further information about our users– participation in these surveys will be entirely voluntary.
+  * other members of the Westpac Group;
+  * where that information has been made publicly available, social media platforms and public information service providers such as public registers;
+  * commercial information service providers such as credit reporting agencies, market researchers, data and/or analytics providers and advertising networks; 
+  * third parties providing offers, products and services available to you as a Westpac Group customer; 
+  * your representatives, such as your legal or financial adviser;
+  * your employer; 
+  * insurance providers and other organisations operating in the insurance industry, such as underwriters, health care providers, claims administrators and investigators; 
+  * selected business partners to improve, optimise and personalise your experience of our products and services; and 
+  * any other sources considered appropriate by any member of the Westpac Group in relation to the provision of credit.
 
-All information is aggregated by Google Analytics and provided to us to help us better understand usage of our public website – no individual visitors are identified. Google Analytics has been adopted as an accepted interactive measurement standard amongst major Internet sites.
 
-For further information about [Google Analytics click here](http://www.google.com/analytics/ "Google Analytics click here"), and for details of [Google's Privacy Policy click here](http://www.google.com/policies/privacy/ "Google's Privacy Policy click here").
 
-**How does Google Analytics work?**
+### 2\. Using and sharing your personal information – purposes
 
-All our public website pages are coded with a small piece of Google Analytics code that is transparent to you when you read that page. These pieces of code store cookies in your browser (if you have cookies enabled) which contain unique identifiers to allow us to track the number of unique visitors to the website. This information is collected and aggregated by Google Analytics and in no way can you be identified personally and no personal information is stored about you.
+**For the purposes set out below at 2.1-2.4, Westpac** and any member of the Westpac Group may **use and share your personal information** with a range of organisations including other members of the Westpac Group (including their agents and anyone who provides services to them, subject to appropriate confidentiality obligations); your representatives and anyone you make a payment to; authorities such as regulators, government agencies, courts or the Police; other financial services organisations; fraud bureaus, credit reference and debt recovery agencies; external dispute resolution schemes; brokers and referrers; anyone in connection with a re-organisation, sale or acquisition of any Westpac Group member’s business; payments systems operators; our agents; and third parties bound by confidentiality obligations such as service providers, suppliers, business partners and certain sub-contractors.
 
-The Google Analytics code is not included on any of our secure Online Banking screens.
+**2.1 To provide our products and services and administer our relationship with you**
 
-### Online Advertising
+  * to assess whether to give you a particular product or service, including by confirming your identity, residence, employment and financial status and to make all necessary enquiries about any information you have given us in relation to any product or service that we are providing;
+  * to provide our products and service to you, including communicating with you throughout the life of your relationship with Westpac about any changes to our product and services; 
+  * to provide customer support, including contacting you to offer assistance with online applications (including those you do not complete);
+  * to improve, optimise and personalise your experience of our services; and 
+  * if you are a joint account holder, to enable any member of the Westpac Group to share your personal information relating to your joint account with the other joint account holder(s).
 
-Westpac uses third party vendors, including Google, to display advertising on websites across the internet. These third party vendors may also use cookies to anonymously track and target advertising based on your browsing behaviour. For further information and details of how you can [opt out of these third party cookies via the Network Advertising Initiative, click here](http://www.networkadvertising.org/managing/opt_out.asp "opt out of these third party cookies via the Network Advertising Initiative, click here").
 
-### When you provide information
 
-When submitting an online form relating to a Westpac product or service, we will request specific personal information such as your name and address, title, existing bank relationship, your email address and a contact phone number. This information is necessary in order for us to action your request, and so that we can contact you if needed on issues relating directly to the product or service. Where confidential information is included in the form, we will use encryption to ensure that the information you send to us across the Internet is secure.
+**2.2 To comply with laws and regulations**
 
-As part of our Online Banking registration process, we invite you to provide additional information, namely your email address, marketing email preferences, and a name with which you would like to be greeted during future Online Banking sessions. Providing this information is optional for you, and you can change or remove these details at any time via a permanent link in our Online Banking navigation bar.
+  * to enable any member of the Westpac Group to comply with any New Zealand or overseas laws, rules or regulations, including any that are reasonably expected to be implemented (including to enable the government of New Zealand to comply with any agreement between it and the government of another country); and
+  * to share personal information with the police, government agencies in New Zealand or overseas or other financial institutions, where any member of the Westpac Group reasonably believes that the disclosure will assist it to comply with any New Zealand or overseas laws, rules or regulations or will assist in the investigation, detection and/or prevention of fraud, money laundering or other criminal offences.
 
-From time to time, Westpac may collect additional personal information from website users in connection with optional competitions, surveys, or special offers.
 
-### Email address
 
-If you are a registered customer for Online Banking, we may use your email address to advise you of any upgrades or changes to this service, and if necessary to contact you with important information about any accounts or services you have with us that require your urgent attention.
+**2.3 To understand your credit position**
 
-You may choose to receive by email promotional messages, surveys, special offers or information about product and services from Westpac that are relevant to you. You can select to receive these email communications via the Name and email preferences feature within Online Banking.
+  * to enable any member of the Westpac Group to conduct credit checks when you apply for, open and operate accounts and loans. That may involve giving your personal information to credit reporting agencies, which collect information about your credit history and compile reports about your suitability as a borrower. Those reports can be used to confirm your identity, verify your current credit obligations and help assess your ability to meet repayment obligations;
+  * to enable credit reporting agencies to update their credit reporting databases and provide updates to members of the Westpac Group and their other customers on your credit record and other information about you that could impact your ongoing relationship (including without limitation, updates notifying that other people have made enquiry of the credit reporting agency about you); and to collect any money owed by you.
 
-### Security of captured data
 
-To prevent unauthorised access, maintain data accuracy and ensure appropriate use of any customer supplied information, we have put in place physical, electronic and managerial processes to protect the information we collect via our website.
 
-For example, when capturing customer information through our Online Banking services, it is passed through a secure Westpac server using encryption technology to ensure that this information is protected when being sent over the Internet.
+**2.4 To research and market products and services**
 
-Additionally, all stored customer information is protected from unauthorised access through the use of secure passwords, user log-ons and other security procedures.
+  * to conduct market research and analysis about our brand, offers, Westpac Group products or services either ourselves or using service providers, both while you are a customer and for a reasonable time afterwards; 
+  * unless you ask us not to, to make available and send you information about the full range of offers, products and services offered by any member of the Westpac Group, including to: 
+      * enable selected third parties to present you with offers, advertisements and/or products or services that we believe may be of interest to you; and 
+      * provide you with information about events, appeals and organisations sponsored by any member of the Westpac Group
 
-### Additional information
 
-Products referred to on this site are only offered to people in New Zealand.
 
-The information appearing on this site is for preliminary and general information only and is not to be relied on as being complete, accurate and up–to-date, and it is subject to change. Full details of up-to-date terms and conditions, product information, charges and interest rates are available from any Westpac branch in New Zealand.
+We may contact you by various means, including mail, telephone, email, SMS/text message and online banking. You can ask us not to use your personal information for marketing purposes either by updating your “Name and email preferences” in the “profile” section of Westpac Online Banking or by calling 0800 400 600. You can also unsubscribe from electronic messages received from us by following the instructions provided in the message.
 
-You can get a copy of the current disclosure statement for Westpac New Zealand Limited and a copy of the investment statement for any securities for which an investment statement is required from any Westpac branch in New Zealand free of charge. 
+**In addition to the reasons set out above** , Westpac Group members may also share your personal information with third parties (subject to appropriate confidentiality obligations) where you have **consented to that information being shared** or the reason for doing so is **connected to the purpose of collecting** the personal information.
 
-All applications for finance are subject to Westpac's applicable lending criteria.
+### 3\. Storage of your personal information
 
-Westpac shall not be responsible for the content of any other site accessed via the Westpac site. Links to other sites are provided for convenience only and do not represent any endorsement by Westpac of products offered by the site owner. Westpac New Zealand Limited.
+Your personal information will be stored either **in paper files or electronically in secure data centres** located in New Zealand or overseas that are owned either by the Westpac Group or its external service providers.
 
-[Back to top](http://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#)
+We use a range of **physical and electronic data security measures** to protect information from loss and unauthorised use, access, modification or disclosure. For example:
+
+  * access to information systems is controlled through identity and access management; 
+  * employees are bound by information security policies and are required to keep information secure; 
+  * all employees are required to complete training about information security; and 
+  * we regularly monitor and review our compliance (and our service providers’ compliance) with internal policies and industry best practice.
+
+
+
+Personal information collected through use of our online banking services is passed through a secure Westpac server using encryption technology to help ensure that this information is protected when sent over the internet. Further, all stored personal information is protected from unauthorised access through the use of recognised security procedures such as passwords, PINs and biometric-based forms of access.
+
+### 4\. Cookies
+
+We use cookies and other digital tracking tools ( _ **cookies**_ ) on the Digital Services. A cookie is a small piece of data sent by a website to the browser on your device to help us collect and store information about your use of the Digital Services. **That will include your personal information if you log in to our online banking services.** Some cookies are installed only temporarily while others may remain for a period of time, covering multiple sessions. Westpac and our service providers, such as Adobe, Google and DoubleClick, use cookies on the Digital Services for various purposes, including:
+
+  * **Security:** to verify online banking customers and carry out other essential security checks that enable us to offer you a secure and reliable online banking service; 
+  * **Efficiency:** to enable us to operate our Digital Services efficiently and with a high level of functionality; 
+  * **Measurement & analysis:** to measure website traffic and usage patterns on the Digital Services and to collect information about your interactions with those services and Westpac content on third party websites. That information is then used to analyse and improve our services, analyse user behaviour and measure the effectiveness of our marketing initiatives and services;
+  * **Advertising:** to deliver advertisements that we believe are relevant to your interests both on the Digital Services and on non-Westpac websites using information we hold about you;
+  * **Personalisation:** to understand your interests and preferences so we can tailor the content of the Digital Services to your likely interests and provide you with a more relevant personalised online experience, improve our services and identify suitable offers, products and services from Westpac, Westpac Group and third parties that we believe may interest you; and
+  * **Communication:** in the context of our mobile applications, to record unique identifiers associated with your device in order to send relevant messages to you. Those unique identifiers may include the device ID, IP address, MAC address or IMEI number, your activity within the app and your network location.
+
+
+
+For those purposes, we may combine information collected from your use of the Digital Services with other information we hold about you, such as personal information available to us once you log in to Westpac Online Banking, personal information collected through our banking relationship with you, information we collect from third parties and information that is publicly available.
+
+**4.1 How to control cookie settings on your device**
+
+We recommend you enable cookies on your browsers in order to enjoy all the features of our Digital Services. **You won’t be able to use our secure online banking services if you block some or all cookies**. In addition, other websites and applications may not function properly. You can block advertising cookies by manually adjusting the cookie settings on your website browser - see the “Help” menu on your browser for details. To opt out of receiving personalised messages on the Digital Services and the aggregation and analysis of data about your visits to the Digital Services, you will need to install a special cookie on your browser that identifies you have opted out. You can do this by visiting [westpac.co.nz/nocookies](http://www.westpac.co.nz/nocookies). You will not be able to opt out in this manner if you have previously blocked advertising cookies in your website browser. Opt-out cookies are specific to your browser and device and will need to be re-set on different devices and browsers. To learn more about cookies, visit [allaboutcookies.org](http://www.allaboutcookies.org/).
+
+### 5\. Accessing and correcting your personal information
+
+Westpac will do its best to ensure your personal information is accurate. **You are responsible for promptly informing Westpac of any change of your personal details** (including your name, address, telephone, mobile or facsimile numbers and email address).
+
+You can contact us to request access, or that corrections are made, to the personal information we hold about you. A reasonable fee may be charged to **process** your request, covering activities such as locating, collating and supplying the information to you.
+
+Under the Privacy Act, in some circumstances we do not have to give you access to or correct your personal information. If that is the case, we will explain why and provide information about how you can complain should you wish to do so.
+
+### 6\. Resolving your privacy concerns and complaints – your rights
+
+Your satisfaction is our priority so if you have a concern or complaint, please let us know and we’ll do our best to resolve it right away. If you’re unhappy with our response, you may wish to contact either the **Privacy Commissioner** at [privacy.org.nz](http://www.privacy.org.nz%20/) or the **Banking Ombudsman** at [bankomb.org.nz](http://www.bankomb.org.nz/).
+
+### 7\. How to contact us
+
+  * In person at a branch (you can use our handy branch locator tool at [westpac.co.nz/redpages](http://www.westpac.co.nz/who-we-are/find-contact-us/find-a-branch-or-atm/)) 
+  * By phone on 0800 400 600, 7 days a week, 7 am – 11 pm 
+  * Online at [westpac.co.nz/feedback](http://www.westpac.co.nz/who-we-are/find-contact-us/feedback/) 
+  * In writing to the Westpac Privacy Officer, Freepost 125 436, P.O. Box 934, Auckland 1140, New Zealand.
+
+
+
+### 8\. Changes to this Privacy Policy
+
+From time to time we may make changes to this Privacy Policy, for example to record any changes to the way we handle personal information or the functionality of our Digital Services. Notice of any changes will be given at least 14 days in advance, by posting the updated Privacy Policy on our website. Your continued use of our products and services after the end of the notice period will be taken as acceptance of the updated Privacy Policy.
+
+### 9\. Applicable law
+
+This Privacy Policy is governed by New Zealand law. Your personal information will be collected, used, stored, shared and retained in accordance with this Privacy Policy and New Zealand law. The courts of New Zealand have non-exclusive jurisdiction.
+
+This policy is current as at **20 October 2016**.
+
+[Back to top](http://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#top)
 
 ### Information you must read before proceeding into the Westpac Website.
 
 (If you proceed to any other page of the Westpac Website, you will be treated as having read and accepted the information on this page)
 
-1\. This Website is presented by the Westpac New Zealand Limited, however some of the products on the website are provided by Westpac Banking Corporation ABN 33 007 457 141 (New Zealand division).
+  1. This website (including the internet banking services) is presented by the Westpac New Zealand Limited, however some of the products on the website are provided by Westpac Banking Corporation ABN 33 007 457 141 (New Zealand division).
+  2. References on this website to Westpac are references to Westpac New Zealand Limited, or to Westpac Banking Corporation.
+  3. Westpac Institutional Bank refers to the brand under which products and services are provided by either Westpac Banking Corporation ABN 33 007 457 141 or Westpac New Zealand Limited (company number 1763882). Any product or service made available by Westpac New Zealand Limited does not represent an offer from Westpac Banking Corporation or any of its subsidiaries (other than Westpac New Zealand Limited). Neither Westpac Banking Corporation nor its other subsidiaries guarantee or otherwise support the offer or the performance of Westpac New Zealand Limited. Westpac New Zealand is not an authorised deposit- taking institution for the purposes of Australian prudential standards.
+  4. The information on this website is preliminary and general information only. It is subject to change at any time. You must not rely on it as being complete, accurate, or up to date. You should obtain independent professional legal and/or financial advice before you rely on any of the information.
+  5. Information on this website has been prepared in accordance with New Zealand law for the supply of services in New Zealand only. Therefore, any services referred to in this website are only offered to persons resident in New Zealand.
+  6. Westpac is not, in this website, making any offer to enter into any transaction or relationship with you. For full details of up to date service information, charges, interest rates, terms and conditions, and any special offers you should visit a Westpac branch in New Zealand, or telephone your Westpac branch.
+  7. Westpac is not responsible for the information on any other site accessed via this website; that information is the responsibility of the owner of that site. Westpac has no control over it. Links to other sites are provided for convenience only and do not represent any endorsement by Westpac of the services offered by the site owner.
+  8. Please contact Westpac for prior permission if you wish to create a hypertext link to any page on this website. If you create a link to this website, you remain fully responsible for any consequences of that link, whether direct or indirect and you will protect Westpac against all loss, damage, liability, costs or expense arising from or in connection with the link.
+  9. When providing your personal information over the Internet, you should remember that the Internet is not a secure environment. Any personal information collected by Westpac may be used by Westpac to provide information to you about the full range of financial services offered by Westpac and its related companies, as well as to assist Westpac to create a statistical picture of its customers. Westpac will take steps to ensure your personal information is held securely by Westpac, and you may request access to, and correction of, all such information by contacting Westpac's privacy officer.
+  10. You agree that any ideas, suggestions or comments you provide to Westpac through this website will be treated as non-confidential and non-proprietary to you. Such ideas, suggestions and comments will become the exclusive property of Westpac and may be used by Westpac in whole or in part in any manner whatsoever without notice or compensation to you.
+  11. The copyright in this website is owned by Westpac New Zealand Limited. You may electronically reproduce and store the website’s contents solely for the purposes of viewing the website, or saving its content. However, if you want to display or distribute the content or any of the pages of the website in public or in such a way that they will be accessible to the public (including reproduction in any form on the Internet), you must first obtain Westpac’s permission.
+  12. Access to the Westpac's internet banking services is restricted to authorised users only. Unauthorised users may be subject to criminal or civil prosecution under the laws of New Zealand or under the laws of the country from which unauthorised access took place.
+  13. These Website Terms of Use incorporate [Westpac's Privacy Policy which is available here](http://www.westpac.co.nz/assets/Personal/Westpac-Privacy-Policy.pdf).
 
-2\. Any references on this Website to Westpac are references to Westpac New Zealand Limited.
 
-3\. The information on this Website is preliminary and general information only. It is subject to change at any time. You must not rely on it as being complete, accurate, or up to date. You should obtain independent professional legal and/or financial advice before you rely on any of the information.
 
-4\. Information on this site has been prepared in accordance with New Zealand law for the supply of services in New Zealand only. Therefore, any services referred to in this site are only offered to persons resident in New Zealand.
+5 December 2013
 
-5\. Westpac is not, in this Website, making any offer to enter into any transaction or relationship with you. For full details of up to date service information, charges, interest rates, terms and conditions, and any special offers you should visit a Westpac branch in New Zealand, or telephone your Westpac branch.
+[Back to top](http://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#top)
 
-6\. Westpac is not responsible for the information on any other Website accessed via this site other than the Westpac NZ site; that information is the responsibility of the owner of that Website. Westpac has no control over it. Links to other Websites are provided for convenience only and do not represent any endorsement by Westpac of the services offered by the site owner.
+##### 6 October 2016
 
-7\. Please contact Westpac for prior permission if you wish to create a hypertext link to any page on this Westpac Website. If you create a link to the Westpac Website, you remain fully responsible for any consequences of that link, whether direct or indirect and you will protect Westpac against all loss, damage, liability, costs or expense arising from or in connection with the link.
+**We are making some changes to our General Terms and Conditions, Consumer Loan Terms and Conditions and the Conditions of Use that apply to Westpac credit cards, debit cards, express card and travel and prepaid card, effective as from 20 October 2016.**
 
-8\. When transmitting your personal information over the Internet, you should remember that the Internet is not a secure environment. Any personal information you transmit to Westpac may be used by Westpac to provide information to you about the full range of financial services offered by Westpac and its related companies, as well as to assist Westpac create a statistical picture of its customers. Westpac will take steps to ensure your personal information is held securely by Westpac, and you may request access to, and correction of, all such information by contacting Westpac's privacy officer.
+The key changes:
 
-9\. The copyright in this site is owned by Westpac New Zealand Limited. You may electronically reproduce and store the site’s contents solely for the purposes of viewing the site, or saving its content. However, if you want to display or distribute the content or any of the pages of the site in public or in such a way that they will be accessible to the public (including reproduction in any form on the Internet), you must first obtain Westpac’s permission.
+\- we’ve created a new and separate Westpac Privacy Policy which is now available [here](http://www.westpac.co.nz/assets/Personal/Westpac-Privacy-Policy.pdf "Westpac Privacy Policy") at westpac.co.nz or at any Westpac branch;
 
-10\. Access to the Westpac Online Banking service is restricted to authorised users only. Unauthorised users may be subject to criminal or civil prosecution under the laws of New Zealand or under the laws of the country from which unauthorised access took place.
+\- if we change our General Terms and Conditions, or the terms and conditions of Westpac’s services and products, we will give our customers at least 14 days notice in at least one of the following ways: on our website, in branch, within Westpac Online Banking, by public notice, in newspapers or by email or letter;
 
-16 February 2012
+\- in future Westpac Online Banking customers will receive electronic statements for their online transaction, savings and credit facility accounts, unless they elect to receive statements in paper form. Westpac will give advance notice to customers when paper statements will cease to be provided to them; and
 
-[Back to top](http://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#)
+\- wording relating to Cheques and Direct debits sections of our General Terms and Conditions have been updated.
+
+Our updated General Terms and Conditions, each of our updated Conditions of Use and our Consumer Loan documents are displayed below.
+
+Westpac General Terms and Conditions
+
+Westpac Credit Card Conditions of Use
+
+The _World MasterCard_ Account Conditions of Use
+
+The Westpac Airpoints _World MasterCard_ Account Conditions of Use
+
+Westpac Airpoints Credit Card Conditions of Use
+
+The Ultimate Credit Card Account Conditions of Use
+
+Westpac prepaid cards Conditions of Use
+
+Conditions of Use for Westpac Debit MasterCard and Westpac Airpoints Debit MasterCard
+
+Personal Loan Summary – Sample
+
+Personal Loan Terms and Conditions
+
+Overdraft Agreement – Sample
+
+Temporary Overdraft – Sample
+
+Choices Home Loan Summary – Sample
+
+Choices Home Loan Terms and Conditions
+
+Choices Everyday Home Loan Summary – Sample
+
+Choices Everyday Home Loan Terms and Conditions
+
+##### 20 May 2016
+
+**From 3 June 2016 we’re making some changes to our Conditions of Use that apply to Westpac credit cards, debit cards, and travel & prepaid cards.**
+
+The key changes :
+
+  * Remove reference to specific daily transaction and ATM withdrawal limits in the conditions of use and including a reference that details of such limits are available [here](http://www.westpac.co.nz/daily-transaction-limits/).
+  * Provide that following the closure of a hotpoints credit card, any unredeemed hotpoints will expire 10 business days from the date of closure of the hotpoints credit card account.
+
+
+
+Our updated Conditions of Use that apply to Westpac credit cards, debit card, travel and prepaid card are below.
+
+Ultimate Credit Card Account Conditions of Use
+
+Westpac General Credit Card Conditions of Use - MasterCard and Visa Cards
+
+Westpac prepaid cards Conditions of Use
+
+ Conditions of Use for Westpac Debit Mastercard and Westpac Airpoints Debit MasterCard
+
+World MasterCard Account Conditions of Use
+
+Westpac Airpoints World MasterCard Account Conditions of Use
+
+Westpac Airpoints Credit Card Conditions of Use
+
+##### 29 April 2016 changes
+
+**Redeeming hotpoints®**
+
+To give customers the flexibility to choose the best rewards programme for them, when we launched our Airpoints offer, we also introduced the special offer of 180 days to redeem any unused hotpoints when switching to an Airpoints credit card. This special offer expired on 29 April following which the standard 10 business days to redeem unused hotpoints when cancelling or switching a hotpoints credit card will apply. For more information see [Westpac Credit Card Conditions of Use](http://www.westpac.co.nz/assets/Personal/Credit-Card/PDFs/General-Credit-Cards-Conditions-of-Use-Brochure.pdf).
+
+##### **1 December 2015 changes:**
+
+**Credit Card Travel Insurance Policy changes**
+
+Some changes have been made to the Overseas Travel Insurance policies that apply to the Westpac Gold Card, Titanium Credit Card, hotpoints Platinum MasterCard and hotpoints  _World MasterCard_  products. To view the policies effective from 1st December, ** [click here](http://www.westpac.co.nz/credit-cards/managing-your-credit-card/credit-card-insurance-cover/)[.](http://www.westpac.co.nz/assets/Who-we-are/About-Westpac-NZ/Westpac-General-Terms-and-Conditions-November-2015.pdf)**
+
+##### 23 November 2015 changes:
+
+**We are making some changes to our General Terms and Conditions, effective 23 November 2015.**
+
+The changes clarify certain operational aspects of electronic transactions, in particular relating to automatic payments and direct debits.
+
+[Westpac General Terms and Conditions](http://www.westpac.co.nz/assets/Who-we-are/About-Westpac-NZ/Westpac-General-Terms-and-Conditions-November-2015.pdf)[](http://www.westpac.co.nz/assets/Who-we-are/About-Westpac-NZ/General-Terms-Conditions.pdf)
+
+##### 26 September 2015 changes:
+
+**We’re making some changes to the Westpac Debit MasterCard® Conditions of Use. These changes will take effect on 26 September 2015.**
+
+Various sections of the Westpac Debit MasterCard Conditions of Use have been updated to include the conditions of use for Westpac’s new Airpoints™ Debit MasterCard. In particular:
+
+  1. Terms and conditions have been added that specifically relate to Westpac’s new Airpoints product; and
+  2. The Westpac Debit MasterCard Conditions of Use will be renamed the Conditions of Use for Westpac Debit MasterCard and Westpac Airpoints Debit MasterCard.
+
+
+
+The new Conditions of Use will come into effect on 26 September 2015 are available below.
+
+[Conditions of Use for Westpac Debit MasterCard and Westpac Airpoints Debit MasterCard](http://www.westpac.co.nz/assets/Personal/Bank-Accounts/Debit-MasterCard-Conditions-of-Use.pdf)[](file:///C:/Users/F785431/AppData/Local/Temp/notes2C87F0/Debit%20Card%20Conditions%20of%20Use%20-%20web%20copy%20amends%20100915.docx#_msocom_1)
+
+##### 5 June 2015 changes:
+
+**From 5 June 2015, we're making some changes to our General Terms and Conditions and the Conditions of Use that apply to Westpac credit cards, debit card, travel and prepaid card and Westpac PayTag® (Terms & Conditions) to make them clearer and more transparent for our customers.**
+
+#### The key changes:
+
+  * provide additional information around when Westpac may vary the Terms & Conditions;
+  * identify the website address where details of other relevant documents can be found;
+  * confirm the liability of each of Westpac and its customers under the Terms & Conditions;
+  * provide more information about how to make a complaint including explaining Westpac’s internal complaint handling processes;
+  * stress the need for customers to tell us if any personal details change;
+  * confirm the ability of customers to provide Westpac with notices and communications electronically; and
+  * provide information to assist customers who may be experiencing financial hardship.
+
+
+
+Our updated General Terms & Conditions and the updated Conditions of Use that apply to Westpac credit cards, debit card, travel and prepaid card and Westpac PayTag® are below.
+
+Westpac Credit Card Conditions of Use
+
+Westpac  _World MasterCard_  Account Conditions of Use
+
+Westpac Airpoints™  _World MasterCard_   Account Conditions of Use
+
+Westpac Airpoints™ Credit Card Conditions of Use
+
+General Terms & Conditions
+
+Westpac Debit MasterCard Conditions of Use
+
+Westpac PayTag Terms and Conditions
+
+Westpac prepaid cards Conditions of Use
+
+Westpac Card Conditions of Use
