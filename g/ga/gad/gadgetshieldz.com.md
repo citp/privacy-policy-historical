@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadgetshieldz.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525115034id_/http%3A//www.gadgetshieldz.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetshieldz.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127144936id_/http%3A//www.gadgetshieldz.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,4 +56,4 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 28.12.2012
+This policy was last modified on 01.08.2012
