@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the studentcom.co.uk privacy policy that was archived on 2016-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160618021517id_/http%3A//www.cablecomnetworking.co.uk/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the studentcom.co.uk privacy policy that was archived on 2016-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161127061556id_/http%3A//www.cablecomnetworking.co.uk/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-touch geolocation csstransitions" prefix="og: http://ogp.me/ns#" style=""><!--<![endif]--><head>
     
@@ -41,8 +41,7 @@ var CCM_REL = "";
     <meta property="og:type" content="article">    <meta property="og:url" content="http://www.cablecomnetworking.co.uk/legal/privacy-policy">
 
     <!-- Stylesheets -->
-    <link href="/application/files/cache/css/cablecom/imports.css" rel="stylesheet" type="text/css" media="all">
-        <!-- // Stylesheets -->
+    <link href="/application/files/cache/css/cablecom/imports.css" rel="stylesheet" type="text/css" media="all">    <!-- // Stylesheets -->
 
     <!-- Scripts -->
     <!-- Modernizr enables HTML5 elements & feature detects; Respond is a polyfill for min/max-width CSS3 Media Queries
@@ -96,6 +95,8 @@ var CCM_REL = "";
         ga('linker:autoLink', ["cablecom.bf4dev.com","livingcom.bf4dev.com","campuslife.bf4dev.com","www.livingcom.co.uk","www.studentcom.co.uk","www.campuslife.co.uk","studentcom.co.uk","livingcom.co.uk","campuslife.co.uk"]);
         ga('send', 'pageview');
 </script>
+
+<div class="ccm-page page-type-simple-page page-template-simple">
 
 <div class="siteWrapper">
 
@@ -171,6 +172,9 @@ var CCM_REL = "";
     </div>
 
 </footer>
+
+
+</div>
 
 
 <script type="text/javascript" src="/concrete/js/picturefill.js"></script>
@@ -320,6 +324,13 @@ var CCM_REL = "";
                     }
                 }
             }
+        });
+
+
+        $('.grid__filter .title').click(function(){
+            $(this).toggleClass('open');
+            $(this).next('div').toggleClass('open');
+            $(this).closest('.col').toggleClass('open');
         });
 
         $('.player_container .close_button').on('click', function (e) {
