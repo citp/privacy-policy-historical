@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the piggybankgirls.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325205729id_/http%3A//www.piggybankgirls.com/privacy-policy/lang/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piggybankgirls.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127135819id_/http%3A//www.piggybankgirls.com/privacy-policy/lang/en) for the most accurate reproduction.*
 
-# Privacy policy - PiggyBankGirls
+# PiggyBankGirls – Amateur porn community & hot girls - Privacy policy
 
 This pricacy policy discloses the privacy practices for [ www.piggybankgirls.com ](http://www.piggybankgirls.com/). It applies solely to information collected by this web site, except where stated otherwise. By accessing the website, you are agreeing to this privacy policy. This privacy policy is subject to change by PiggyBankGirls at any time in its sole discretion. Your use of the website after the implementation of such changes indicates that you fully acknowledge and accept the changes. Please consult this privacy policy regularly. 
 
