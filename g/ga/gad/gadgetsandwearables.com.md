@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadgetsandwearables.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517073706id_/http%3A//gadgetsandwearables.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetsandwearables.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127044803id_/http%3A//gadgetsandwearables.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Gadgets & Wearables
 
