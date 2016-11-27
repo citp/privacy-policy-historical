@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the moneyguidepro.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630153641id_/http%3A//www.moneyguidepro.com/ifa/home/privacy%3FhideToolbar%3DFalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyguidepro.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127071432id_/http%3A//www.moneyguidepro.com/ifa/home/privacy%3FhideToolbar%3DFalse) for the most accurate reproduction.*
 
 # Financial Planning Software - MoneyGuidePro
 
-PIEtech, Inc. (PIE), the developer of MoneyGuidePro and moneyguidepro.com, is committed to protecting your privacy and ensuring the security of your information on our website. 
+PIEtech℠, Inc. (PIE), the developer of MoneyGuidePro® and moneyguidepro.com, is committed to protecting your privacy and ensuring the security of your information on our website. 
 
 Our Privacy Policy has three key elements.
 
   1. You were registered to use moneyguidepro.com by a financial advisor. This financial advisor and, if applicable, the firm with whom they are licensed, also has access to your personal information on moneyguidepro.com. Your advisor uses your personal information, in conjunction with our software, to provide customized financial planning reports for you. Your advisor's use of your data is governed by their firm's Privacy Policy. Please contact your financial advisor if you have questions about their firm's Privacy Policy. 
   2. Your financial advisor can authorize PIE to allow the exchange of data between moneyguidepro.com and other programs or websites that your advisor uses in their business, and your personal information can be included in these data exchanges. Except for data exchanges that have been authorized by your advisor, PIE does not disclose or share your personal information with any third party, unless required by law to do so (for example, to comply with a subpoena). 
-  3. We use secure socket layer (SSL) encryption, which is the industry standard for secure data transfer software, to ensure data you transmit through the Internet is protected against unauthorized access. 
+  3. We use transport layer security (TLS) encryption, which is the industry standard for secure data transfer software, to ensure data you transmit through the Internet is protected against unauthorized access. 
 
 
 
@@ -36,12 +36,12 @@ To use our software, you or your financial advisor must input personal financial
 
 ### How Do We Protect Your Information?
 
-When you access your financial data, we use a state-of-the-art secure server to keep all of your personal information as secure as possible. The secure socket layer (SSL) encrypts all information you input before it is sent to us, and all data we collect is protected against unauthorized access. This approach helps ensure that your personal and financial information remains safe and private.
+When you access your financial data, we use a state-of-the-art secure server to keep all of your personal information as secure as possible. The transport layer security (TLS) encrypts all information you input before it is sent to us, and all data we collect is protected against unauthorized access. This approach helps ensure that your personal and financial information remains safe and private. 
 
 * * *
 
 ### Your Consent
 
-By using our website, you consent to the collection and use of the information described above by moneyguidepro.com. Should we make any changes to our Privacy Policy, we will post those changes on this page, and your continued use of our website is your consent to those changes.
+By using our website, you consent to the collection and use of the information described above by moneyguidepro.com. Should we make any changes to our Privacy Policy, we will post those changes on this page, and your continued use of our website is your consent to those changes. 
 
-You also acknowledge that PIE may aggregate data from its users and subscribers for the purpose of better understanding our user base and/or to research potential changes in content and services. PIE may use this collective information for product research or marketing demographics, but we do not disclose, sell, or distribute any information to a third party where such information could indicate directly or indirectly any individual's financial information.
+You also acknowledge that PIE may aggregate data from its users and subscribers for the purpose of better understanding our user base and/or to research potential changes in content and services. PIE may use this collective information for product research or marketing demographics, but we do not disclose, sell, or distribute any information to a third party where such information could indicate directly or indirectly any individual's financial information. 
