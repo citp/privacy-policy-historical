@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the americangolf.co.uk privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624054537id_/http%3A//www.americangolf.co.uk/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangolf.co.uk privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127201753id_/http%3A//www.americangolf.co.uk/content/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# American Golf's Privacy Policy
 
-Privacy Policy - American Golf    
+  
 
 
 ### IMPORTANT: BY SUBMITTING DATA AND/OR USING THIS WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA THAT YOU SUBMIT MAY BE PROCESSED IN THE MANNER AND FOR THE PURPOSES DESCRIBED IN THE FOLLOWING PRIVACY POLICY.
