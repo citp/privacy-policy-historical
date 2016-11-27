@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icontainers.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530215253id_/https%3A//www.icontainers.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icontainers.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127162312id_/https%3A//www.icontainers.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IContainers US
 
