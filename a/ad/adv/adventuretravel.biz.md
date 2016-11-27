@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adventuretravel.biz privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620144350id_/http%3A//www.adventuretravel.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventuretravel.biz privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127180344id_/http%3A//www.adventuretravel.biz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Adventure Travel Trade Association
 
