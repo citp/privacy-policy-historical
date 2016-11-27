@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the accessengineeringlibrary.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405084428id_/http%3A//accessengineeringlibrary.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessengineeringlibrary.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127142129id_/https%3A//accessengineeringlibrary.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - Access Engineering from McGraw-Hill
 
-[Home](http://accessengineeringlibrary.com/)
+[Home](http://www.accessengineeringlibrary.com/)
 
 When you subscribe to _**Access** Engineering_, register for a trial subscription, or register for individual access to the site, we collect certain personal information, such as your name, address, and e-mail address. We use this information to process your order and for administration of your subscription. Your e-mail address is added to our electronic mailing list so that, from time to time, we can send you information about new features, additions, and changes to our Web site. If you do not want to receive e-mail alerts, you may indicate this on your registration form, and you can change this at any time by logging into My _**Access** Engineering_ and updating your profile information, or by contacting Customer Service by e-mail at [OnlineCustomer_Service@mcgraw-hill.com](mailto:OnlineCustomer_Service@mcgraw-hill.com). 
 
