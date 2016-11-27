@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellsaa.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415002121id_/http%3A//www.cellsaa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellsaa.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127100429id_/http%3A//www.cellsaa.com/privacy-policy) for the most accurate reproduction.*
 
 # cellsaa.com | privacy policy
 
