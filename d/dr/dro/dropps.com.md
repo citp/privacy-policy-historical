@@ -1,52 +1,6 @@
-> *The following text is extracted and transformed from the dropps.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610063246id_/http%3A//www.dropps.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropps.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127164427id_/http%3A//dropps.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Dropps Privacy Policy | Dropps®
-
-[](http://www.dropps.com/)
-
-  * [Laundry & Fabric Care](https://web.archive.org/collections/laundry)
-    * [New! Free Trial Kits](https://web.archive.org/collections/free-trial-kits)
-    * [Bundles](https://web.archive.org/collections/bundles)
-    * [Detergents](https://web.archive.org/collections/detergents-laundry)
-    * [In Wash Boosters and Softeners](https://web.archive.org/collections/in-wash-boosters-laundry)
-    * [Baby](https://web.archive.org/collections/baby-laundry)
-    * [Sensitive Skin](https://web.archive.org/collections/sensitive-skin)
-    * [Travel Size](https://web.archive.org/collections/travel-size)
-  * [Gentle for Baby](https://web.archive.org/collections/gentle-for-baby)
-    * [Detergents](https://web.archive.org/collections/detergents-baby)
-    * [In Wash Boosters](https://web.archive.org/collections/in-wash-boosters-baby)
-  * [Sensitive Skin](https://web.archive.org/collections/sensitive-skin)
-    * [Detergents](https://web.archive.org/collections/detergents-scent-dye-free)
-    * [Baby](https://web.archive.org/collections/baby-scent-dye-free)
-    * [In Wash Boosters](https://web.archive.org/collections/in-wash-boosters-scent-dye-free)
-  * [Dish Care](https://web.archive.org/products/dropps-dishwasher-detergent-pacs-lemon)
-  * [Buy In Bulk](https://web.archive.org/collections/buy-in-bulk)
-    * [Detergents](https://web.archive.org/collections/detergents-buy-in-bulk)
-    * [Baby](https://web.archive.org/collections/baby-buy-in-bulk)
-    * [Scent + Dye Free](https://web.archive.org/collections/scent-dye-free-buy-in-bulk)
-    * [In-Wash Boosters](https://web.archive.org/collections/buy-in-bulk-in-wash-boosters)
-    * [Dish](https://web.archive.org/products/buy-in-bulk-dropps-dishwasher-detergent-pacs-lemon)
-  * [Fabric Care Guide](https://web.archive.org/pages/fabric-care-how-to-wash-and-store-cotton)
-    * [Cotton](https://web.archive.org/pages/fabric-care-how-to-wash-and-store-cotton)
-    * [Denim](https://web.archive.org/pages/fabric-care-how-to-wash-store-denim)
-    * [Flannel](https://web.archive.org/pages/fabric-care-how-to-wash-and-store-flannel)
-    * [Linen](https://web.archive.org/pages/fabric-care-how-to-wash-and-store-linen)
-    * [Spandex & Lycra](https://web.archive.org/pages/fabric-care-how-to-wash-and-store-spandex-and-lycra)
-    * [Sportswear & Swimwear](https://web.archive.org/pages/fabric-care-how-to-wash-and-store-sportswear-and-swimwear)
-    * [Wool & Cashmere](https://web.archive.org/pages/fabric-care-how-to-wash-store-wool-and-cashmere)
-    * [Stain Removal Guide](https://web.archive.org/pages/stain-removal-guide)
-  * [About Us](https://web.archive.org/pages/our-story)
-    * [Special Offers](https://web.archive.org/pages/special-offers-and-sweepstakes)
-    * [Our Blog](https://web.archive.org/blogs/spincycle)
-    * [Our Story](https://web.archive.org/pages/our-story)
-    * [Conservation](https://web.archive.org/pages/the-dropps-difference)
-    * [Press](https://web.archive.org/pages/press)
-    * [Awards & Certifications](https://web.archive.org/pages/awards-certifications)
-    * [Find a Store](https://web.archive.org/pages/online-retailers)
-
-
-
-Dropps Privacy Policy 
 
 Cot’n Wash, Inc. (“Dropps”, “DROPPS”, “we”, “us” or “our”) values your privacy and is committed to protecting your personal information. Dropps is an online service that delivers unit dose laundry and household cleaning products to customers through individual shipments and membership subscriptions (“Services”). 
 
@@ -72,7 +26,8 @@ This Privacy Policy describes how and when DROPPS collects, uses and shares your
   * **7\. OUR POLICY TOWARDS CHILDREN**
   * **8\. CHANGES TO THIS POLICY**
 
-  
+
+
 This Privacy Policy applies to our family of websites (the “Site(s)”). These include www.dropps.com and any other site displaying this Policy that allows consumers to purchase memberships for the monthly delivery of products offered or made available through the Sites (“Membership(s)”).  
 By using our Sites and/or purchasing a Membership you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country you reside in or supply information from, you authorize DROPPS to use your information in the United States and any other country where DROPPS operates as described herein. Accordingly, please be sure to read this Privacy Policy before using the Services or submitting information to us.  
 This Privacy Policy may change from time to time and your continued use of the Services constitutes acceptance of such changes, so please check this Privacy Policy periodically for updates. This Privacy Policy is incorporated by reference into the Dropps Terms of Service (and in the event of any inconsistency between the Terms of Use and this Privacy Policy, this Privacy Policy shall govern). If you have any questions or comments about this Privacy Policy, please contact us at info@dropps.com.
@@ -98,6 +53,8 @@ The information we may collect by such automated means includes:
   *  Information on actions taken on our Sites (such as page views and site navigation patterns)
   *  A general geographic location (such as country and city) from which a visitor accesses our Sites
   *  Search terms that visitors use to reach our Sites and the webpage that led you to the Sites  
+
+
 
 
 **2\. COOKIES AND OTHER TRACKING TECHNOLOGY**  
