@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netpages.co.za privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402154425id_/http%3A//www.netpages.co.za/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netpages.co.za privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127194156id_/http%3A//www.netpages.co.za/Privacy-Policy) for the most accurate reproduction.*
 
 # Privay Policy - NetPages
 
