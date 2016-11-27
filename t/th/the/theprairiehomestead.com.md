@@ -1,23 +1,39 @@
-> *The following text is extracted and transformed from the theprairiehomestead.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325053506id_/http%3A//www.theprairiehomestead.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theprairiehomestead.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127174512id_/http%3A//www.theprairiehomestead.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • The Prairie Homestead
 
 Privacy is a big deal in our day and age, and we take it very seriously.
 
-When you sign up for The Prairie Homestead newsletter, we collect your name and email address. However, we will never sell or share your email address to any third party.
+The Prairie Homestead (“Website”) is governed by the following privacy policy.
 
-You can unsubscribe from our newsletter at any time and your information will be removed from the system.
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what information we may collect and how it may be used. This statement only applies to this Website. This Website may contain third-party links to other websites which are not governed by this policy.
 
-As with most other websites, we collect and use the data contained in log files.  The information in the log files may include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. We use this information to better fit the website to your needs, that’s it. It is not sold or shared with anyone else.
+**_What Information Do We Collect and How Is This Information Used?_**
 
-We do use cookies to store information, such as your personal preferences when you visit our site.  This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. Again, this information is never sold or shared with anyone else.
+  1. We may receive and store information that you voluntarily submit through the Website for the purpose of subscribing to the Website to receive newsletters, for the purpose of leaving comments on blog posts, or administering sweepstakes, contests or promotions. Examples of information collected for this purpose are your name, email address and website URL. This information is only captured when you voluntarily enter or opt-in and enter this information for collection.
+  2. We may receive and store certain types of usage-related information when you interact with the Website, including but not limited to, your computer’s IP address and browser information. The information we collect is used to customize the content and/or layout of our page for each individual visitor.
+  3. We use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies. No personal information is shared with the Website’s ad providers.
+  4. The Website uses Google Analytics to track statistics regarding our audience and Website traffic. No personally identifiable information is transferred from the Website to Google Analytics. [For more information on Google’s Analytics privacy policies, please visit this site](https://support.google.com/analytics/answer/6004245).
+  5. This Website engages in sponsored campaigns with various influencer networks, brands, and agencies. All sponsored content is duly disclosed in accordance with the FTC’s requirements. From time to time, these sponsored campaigns utilize tracking pixels (aka web beacons), which may contain cookies to collect data regarding usage and audience. This information is collected by the sponsoring company to track the results of the campaign. No personally identifiable information collected by the Website is used in conjunction with these tracking pixels.
+  6. The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described above.
+  7. The Prairie Homestead is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com. As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
 
-We also use third party advertisements on theprairiehomestead.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-Google’s advertising network displays Tridot ads on other websites. Google uses cookies to display Tridot ads based on our visitors’ past visits to the Tridot website. You may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/policies/technologies/ads/).
+**_Third-Party Use of Personal Information_**
 
-We often link to other websites or blogs. However, these websites are out of our control and we do not necessarily endorse all the content on these websites. So please surf responsibly.
+The Website may provide personal information to an applicable third party in order to provide services. Currently, the Website uses the services of Aweber for delivery of email updates and newsletters. Aweber’s use of your personal information is subject to Aweber’s privacy policy.
 
-[](https://www.pinterest.com/pin/create/button/)
+Your personal information is not shared with any other third-party applications.
+
+Information that does not identify you personally may be provided to other parties for marketing, advertising, or other uses.
+
+**_Will We Share the Personal Information It Collects?_**
+
+We will not sell, distribute, or reveal users’ email addresses or other personal information without their consent. This does not include third-party partners, such as those listed above.
+
+**_Modification or Deletion of Personal Information_**
+
+You can decline to submit personal information at any time. If you decline, we may not be able to continue to provide service to you. You may request deletion of your personal information by sending an email to info(at)theprairiehomestead(dot)com, but in some cases, we may be required to keep your information by law. In such a case, it would no longer be active and would be kept separately in an archive.
+
+We also often link to other websites or blogs. However, these websites are out of our control and we do not necessarily endorse all the content on these websites. So please surf responsibly.
