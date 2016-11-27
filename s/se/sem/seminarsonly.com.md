@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the seminarsonly.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524151439id_/http%3A//www.seminarsonly.com/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seminarsonly.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127233940id_/http%3A//www.seminarsonly.com/Privacy-Policy.php) for the most accurate reproduction.*
 
 # Privacy Policy : www.seminarsonly.com
 
 ## Privacy Policy
 
-Published on Jan 10, 2016
+Published on Sep 02, 2016
 
 ### Privacy Policy 
 
