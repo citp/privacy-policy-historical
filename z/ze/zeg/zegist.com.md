@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zegist.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526041338id_/http%3A//zegist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zegist.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127053755id_/http%3A//zegist.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Zegist - Join the Conversation
 
@@ -26,9 +26,9 @@ For better understanding of the way you use our services, we may use third-party
 
 Analytics from collecting or using your information, you may install the Google Analytics Opt-Out Browser Add-on.
 
-## Images
+## Plagiarism
 
-We do not claim ownership of any of the images used on our site. We ensure that we give credit to the rightful owners of the images we use. Zegist owned images are usually watermarked with our name or logo. To avoid copyright issues with external parties, we advise our users to give credit to the owners of the images they use.
+We do not claim ownership of any of the images or stories put up on our site. To avoid copyright and plagiarism issues, we advise every member of the community to give credit to the owners of every form of intellectual property they use. 
 
 ## Language
 
@@ -44,4 +44,4 @@ Our policies are subject to change, and if there is need for any of them to be c
 
 ## Contact Us
 
-Feel free to contact us at [http://zegist.com/contact](https://zegist.com/contact) regarding any issue and we will respond appropriately as soon as possible.
+Feel free to send us a message [@Zegist](https://web.archive.org/users/zegist) regarding any issue and we will respond appropriately as soon as possible.
