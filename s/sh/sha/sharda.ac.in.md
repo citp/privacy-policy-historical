@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sharda.ac.in privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213003642id_/http%3A//www.sharda.ac.in/privacy.aspx%3Fmpgid%3D146%26pgid%3D146) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharda.ac.in privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127110054id_/http%3A//sharda.ac.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sharda University
+# | Sharda University
+
+## Privacy Policy
 
 We respect the privacy of those who visit our web site. In accordance with this, we have created this policy in order to demonstrate our privacy commitment to our users:
 
@@ -26,9 +28,11 @@ We will not sell or rent your personally identifiable information to anyone.
 
 We will send personally identifiable information about you to other companies or people when
 
-\- We have your consent to share the information;  
-\- We respond to subpoenas, court orders or legal process; or  
-\- We find that your actions on our web sites violate the Terms of Service
+  * We have your consent to share the information;
+  * We respond to subpoenas, court orders or legal process; or
+  * We find that your actions on our web sites violate the Terms of Service
+
+
 
 ### Changes to this Privacy Policy
 
@@ -37,3 +41,6 @@ The privacy policy is subject to modification from time to time. If we decide to
 ### Questions or Suggestions
 
 If you have questions or suggestions send an email to us.
+
+  
+
