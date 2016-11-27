@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mci-group.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503011614id_/http%3A//www.mci-group.com/MCI/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mci-group.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127221151id_/http%3A//www.mci-group.com/MCI/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement | Home
 
@@ -163,8 +163,8 @@ If you have any questions about this Privacy Statement, please contact MCI at MC
 
 MCI Group Holding SA  
 Marketing & Communication Department  
-Rue de Lyon 75  
-1203, Geneva, Switzerland  
+Rue du Pre-Bouvier, 9  
+1242, Satigny, Geneva, Switzerland  
 Phone: +41 22 33 99 500  
 E-mail: [MCI-GROUP-COMMUNICATION@mci-group.com](mailto:MCI-GROUP-COMMUNICATION@mci-group.com)  
 
