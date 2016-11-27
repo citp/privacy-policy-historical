@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyandexam.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531193022id_/http%3A//studyandexam.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyandexam.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127201255id_/http%3A//www.studyandexam.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
