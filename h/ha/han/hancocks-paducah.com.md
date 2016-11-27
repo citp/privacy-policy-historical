@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hancocks-paducah.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504141937id_/http%3A//www.hancocks-paducah.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancocks-paducah.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127032604id_/http%3A//www.hancocks-paducah.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Hancock’s of Paducah
 
 We created this policy to demonstrate our firm commitment to ensuring your privacy. That's why, when you visit www.hancocks-paducah.com, we help you maintain control over your personal data on the Internet. If any of your concerns regarding privacy are not addressed here, you can [Contact Us](https://web.archive.org/Contact-Us) with any additional questions. Below are the guidelines we use for protecting the information you provide us during a visit to our Internet site.
 
@@ -8,7 +8,7 @@ What information do we collect and how is it used?
 
 Order Processing
 
-When you place an order with us, we need to know your name, mailing address, email address, credit card number, and expiration date in order to process your order and communicate with you regarding the status of your order. We may also use this information to notify you of special offers that we think may be of interest to you. If you are a registered user at **www.hancocks-paducah.com** and do not wish to receive this information, visiting [My Account](https://checkout.hancocks-paducah.com/s.nl/sc.6/sc.6/.f?whence=&origin=myaccount&login=T&gc=clear) and Selecting Check Sign-In Information to change your preferences. If you are not a registered user, please [Contact Us](https://web.archive.org/Contact-Us) to remove your name from our mailing list.
+When you place an order with us, we need to know your name, mailing address, email address, credit card number, and expiration date in order to process your order and communicate with you regarding the status of your order. We may also use this information to notify you of special offers that we think may be of interest to you. If you are a registered user at **www.hancocks-paducah.com** and do not wish to receive this information, visiting [My Account](https://checkout.hancocks-paducah.com/s.nl/sc.6/sc.6/.f?whence=&origin=myaccount&login=T&promocode=&promocodeaction=overwrite&gc=clear) and Selecting Check Sign-In Information to change your preferences. If you are not a registered user, please [Contact Us](https://web.archive.org/Contact-Us) to remove your name from our mailing list.
 
 Gift Orders
 
@@ -18,7 +18,7 @@ Customer Registration
 
 Our registration form requires customer contact information, which we use to process subsequent orders without asking you to re-enter it. If you choose to register at **www.hancocks-paducah.com** , we require that you provide your name, mailing address, email address, a login name, a password, and a password hint. Optional items requested during the registration process are day and evening telephone numbers and fax number. By registering once, your subsequent visits will be even easier and more personal. When you sign in as a registered user, you'll be able to track the status of your order. When you check out, you will not have to fill in most of the required fields.
 
-With your permission, we may also use this information periodically to send you information about our company, either by email or standard mail. This may include announcements about new features at our site or special offers that we think may be of interest to you. After you register and place an order using a check or credit card, with your permission, we may allow reputable third parties to provide you with offers we think you will find interesting. Unless you have ordered, we will not provide your registration information to any 3rd party, even if you have requested such offers. If you determine that you do not wish to receive this information, simply visit [My Account](https://checkout.hancocks-paducah.com/s.nl/sc.6/sc.6/.f?whence=&origin=myaccount&login=T&gc=clear) and select Update Profile to change your preferences.
+With your permission, we may also use this information periodically to send you information about our company, either by email or standard mail. This may include announcements about new features at our site or special offers that we think may be of interest to you. After you register and place an order using a check or credit card, with your permission, we may allow reputable third parties to provide you with offers we think you will find interesting. Unless you have ordered, we will not provide your registration information to any 3rd party, even if you have requested such offers. If you determine that you do not wish to receive this information, simply visit [My Account](https://checkout.hancocks-paducah.com/s.nl/sc.6/sc.6/.f?whence=&origin=myaccount&login=T&promocode=&promocodeaction=overwrite&gc=clear) and select Update Profile to change your preferences.
 
 Children Under the Age of 13
 
@@ -42,7 +42,7 @@ If you enjoy your shopping experience at **www.hancocks-paducah.com** , which we
 
 Product Purchase History
 
-In order to help us better serve your needs and correctly target future promotions **Hancock's of Paducah** maintains a history of customers' past purchases. This information is used primarily to help us monitor the status of your orders, and secondarily to improve our marketing efforts, including the development of future merchandise offerings and the sending of promotions relevant to customers. With your permission, we will also allow reputable third parties to provide you with offers based on your purchase history. If you determine that you do not wish to receive this information and have registered at **www.hancocks-paducah.com** , simply visit [My Account](https://checkout.hancocks-paducah.com/s.nl/sc.6/sc.6/.f?whence=&origin=myaccount&login=T&gc=clear) and select Update Profile to change your preferences. If you are not a registered user, please [Contact Us]() to remove your name from our mailing list.
+In order to help us better serve your needs and correctly target future promotions **Hancock's of Paducah** maintains a history of customers' past purchases. This information is used primarily to help us monitor the status of your orders, and secondarily to improve our marketing efforts, including the development of future merchandise offerings and the sending of promotions relevant to customers. With your permission, we will also allow reputable third parties to provide you with offers based on your purchase history. If you determine that you do not wish to receive this information and have registered at **www.hancocks-paducah.com** , simply visit [My Account](https://checkout.hancocks-paducah.com/s.nl/sc.6/sc.6/.f?whence=&origin=myaccount&login=T&promocode=&promocodeaction=overwrite&gc=clear) and select Update Profile to change your preferences. If you are not a registered user, please [Contact Us]() to remove your name from our mailing list.
 
 What about cookies and other types of tags?
 
@@ -52,7 +52,7 @@ How can I access, update or correct my information?
 
 Account Information
 
-If you're a registered user at **www.hancocks-paducah.com** , you may access and/or change your account information- including name, mailing address, email address, telephone number, password, password hint, and opt-in/opt-out profile - by visiting the [My Account](https://checkout.hancocks-paducah.com/s.nl/sc.6/sc.6/.f?whence=&origin=myaccount&login=T&gc=clear) page.
+If you're a registered user at **www.hancocks-paducah.com** , you may access and/or change your account information- including name, mailing address, email address, telephone number, password, password hint, and opt-in/opt-out profile - by visiting the [My Account](https://checkout.hancocks-paducah.com/s.nl/sc.6/sc.6/.f?whence=&origin=myaccount&login=T&promocode=&promocodeaction=overwrite&gc=clear) page.
 
 Purchase History
 
@@ -68,7 +68,7 @@ We use Secure Socket Layer software (SSL) that protects your information wheneve
 
 Choice/Opt-Out
 
-If you do not wish to receive communications from us and have registered at the site, please indicate your preference to opt out by visiting [My Account](https://checkout.hancocks-paducah.com/s.nl/sc.6/sc.6/.f?whence=&origin=myaccount&login=T&gc=clear) and selecting Update Profile to change your preferences. If you are not a registered user, we offer several other options for removing your information from our database or electing not to receive future communications:
+If you do not wish to receive communications from us and have registered at the site, please indicate your preference to opt out by visiting [My Account](https://checkout.hancocks-paducah.com/s.nl/sc.6/sc.6/.f?whence=&origin=myaccount&login=T&promocode=&promocodeaction=overwrite&gc=clear) and selecting Update Profile to change your preferences. If you are not a registered user, we offer several other options for removing your information from our database or electing not to receive future communications:
 
 Click [Contact Us](https://web.archive.org/Contact-Us) and submit your request through this Website.
 
