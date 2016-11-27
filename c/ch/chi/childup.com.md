@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the childup.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505143603id_/http%3A//www.childup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childup.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127174211id_/http%3A//www.childup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ChildUp
 
