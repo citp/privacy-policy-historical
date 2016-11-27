@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timothyoulton.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621080149id_/http%3A//www.timothyoulton.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timothyoulton.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127023152id_/http%3A//www.timothyoulton.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Timothy Oulton
 
