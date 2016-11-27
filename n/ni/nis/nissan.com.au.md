@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nissan.com.au privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629163102id_/http%3A//www.nissan.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nissan.com.au privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127042344id_/http%3A//www.nissan.com.au/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,7 +81,19 @@ You may request access to personal information (including your credit informatio
 If at any time you believe that personal information we hold about you is incorrect, incomplete or inaccurate, then you may request amendment of it and we will either amend the information or make a record of your comment, as we think appropriate.
 
 **Marketing and Opting Out**  
-Where we have obtained your consent to do so, or in circumstances where you would reasonably expect that your personal information would be used or disclosed for this purpose, we may contact you from time to time with marketing material about our other products or services, and those of our related entities. We may also share your personal information with our related entities and our dealer network, so that they can provide you directly with marketing material about their products and services.  At any time, you may opt out of receiving this material at any time by contacting us on 1800 035 035 or by email to csc@nissan.com.au.  Your consent to receive this information will remain current until you advise us otherwise.
+Where we have obtained your consent to do so, or in circumstances where you would reasonably expect that your personal information would be used or disclosed for this purpose, we may contact you from time to time with marketing material about our other products or services, and those of our related entities. We may also share your personal information with our related entities and our dealer network, so that they can provide you directly with marketing material about their products and services.  At any time, you may opt out of receiving this material by contacting us at: 
+
+Nissan Motor Co (Australia) Pty Ltd
+
+Phone: 1800 035 035
+
+Email:   [csc@nissan.com.au](mailto:csc@nissan.com.au)
+
+Nissan Financial Services Australia Pty Ltd
+
+Phone: 1800 035 035
+
+Email:   [nfsa_csc@nissan.com.au](mailto:nfsa_csc@nissan.com.au)
 
 **Questions and Complaints    
 ** If you have any questions about this Privacy Policy or believe that we have at any time failed to keep one of our commitments to you to handle your personal information in the manner required by the Privacy Act, then we ask that you contact us immediately using the following contact details:
