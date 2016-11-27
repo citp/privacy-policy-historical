@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudincome.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610024435id_/http%3A//www.cloudincome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudincome.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127074905id_/http%3A//www.cloudincome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cloud Income
 
