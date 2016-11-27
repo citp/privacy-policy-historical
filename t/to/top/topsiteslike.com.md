@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topsiteslike.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616114136id_/http%3A//www.topsiteslike.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsiteslike.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127121757id_/http%3A//www.topsiteslike.com/privacy) for the most accurate reproduction.*
 
 # Privacy – Top Sites Like
 
