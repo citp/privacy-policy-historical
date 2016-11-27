@@ -1,105 +1,126 @@
-> *The following text is extracted and transformed from the itil-officialsite.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017044136id_/http%3A//www.axelos.com/Best-Management-Practice-Help-Pages/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itil-officialsite.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127142716id_/https%3A//www.axelos.com/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
-## Introduction
+### Introduction
 
-##  Purpose and Scope
+AXELOS Limited (“We,” “us”) are committed to protecting and respecting your privacy.
 
-During its business transactions AXELOS collects and uses information in order to meet legal and contractual requirements, provide services and enhance user experience. Some of this information may be of a personal nature and this policy sets out why, when and how we will collect, securely use and dispose of this information.
+In the course of your dealings with us, we may process personal data:
 
-## Policy
-
-This privacy policy sets out how we use and protect any information that you provide to AXELOS when you use our services or communicate with AXELOS or our partner organizations.
-
-We are committed to ensuring that your privacy is protected. Should we ask you to provide information from which you can be personally identified, you can be assured that it will only be used in accordance with this privacy statement.
-
-AXELOS may change this policy from time to time to reflect changes in local or international laws or AXELOS policies so you should regularly check this policy to ensure any changes as to how we manage your data are acceptable. This policy is effective from 7 March 2014.
-
-## What Information We Collect
-
-With your consent, we may collect the following information:
-
-  * Name
-  * Job Title
-  * Organization Name
-  * Organization Type
-  * Gender
-  * Nationality
-  * Contact information including, address, telephone, email address and social media tags or IDs 
-  * Demographic information such as postcode, preferences and interests
-  * Training and exam results
-  * Qualifications 
-  * Skills and work experience
-  * Other information relevant to customer surveys, promotions and/or offers.
+  1. we collect about you;
+  2. you provide us; or
+  3. we receive from third parties.
 
 
 
-## Public Directory
+### Purpose and Scope
 
-As an organization that holds information as to whether an individual possesses certifications we are frequently requested, for example by prospective employers, professional membership organizations etc. to verify whether an individual's assertion that they possess the certification is accurate. AXELOS will only verify whether an individual is certified or not upon receiving sufficient identifying information regarding the subject of the inquiry. 
+This privacy policy (together with our [Website Terms of Use](https://web.archive.org/policies/legal/terms-and-conditions-website-usage "Website Terms of Use") and any other documents referred in it) sets out the basis on which any such personal data will be processed by us.
 
-This listing provides:
+Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [www.axelos.com](https://web.archive.org/ "www.axelos.com") or otherwise corresponding with us by phone, email or otherwise you are accepting and consenting to the practices described in this policy.
 
-  * Candidate Name 
-  * Candidate Number
-  * Exam Institute - the Exam Institute marking the exam.
-  * Exam Scheme (e.g. PRINCE2, ITIL)
-  * Exam Date
-  * Exam Level (e.g. Foundation, Practitioner)
-  * Module
-  * Accredited Training Organization the training was provided by
-  * Registration Expiry Date (where applicable)
+For the purpose of the Data Protection Act 1998 (the **“Act”** ), the data controller is AXELOS Limited of 17 Rochester Row London SW1P 1QT.
 
+### Information We May Collect From You
 
+We may collect and process the following data about you:
 
-This information is collected through our Exam Institutes.
+**Information you give us.** You may give us information about you by filling in forms on our site [www.axelos.com](https://web.archive.org/ "AXELOS.com") (our **“Website”** ) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our Website, subscribe to any of our services, search for a product, place an order on our site, participate in discussion boards or other social media functions on our site, enter a competition, promotion or survey and when you report a problem with our Website. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description and photograph, your employment history, educational and professional qualifications.
 
-## What We Do With the Information We Collect
+**Information we collect about you.** With regard to each of your visits to our Website we may automatically collect the following information:
 
-This information enables us to better understand your needs from our services, enhance the user experience and improve our support for:
-
-  * internal record keeping.
-  * qualification verification.
-  * legal reasons, to prevent fraud.
-  * marketing, promotional emails about new products, special offers or other information which we think you may find interesting. 
-  * contacting you for market research purposes, prize draws etc.
-  * personalizing the services we provide to you.
-  * sharing the information with our partners in the provision of the services that we provide to you, and they provide to us.
+  * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
+  * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times; download errors; length of visits to certain pages; page interaction information (such as scrolling, clicks, and mouse-overs); and methods used to browse away from the page.
 
 
 
-## How We Protect Your Information
+**Information we receive from other sources.** We may receive information about you if you use any of the other websites we operate, the other services we provide, or from our business partners instructed to collect information on our behalf. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures in line with international security good practice to safeguard and secure the information we collect. We comply with the UK Data Protection Act. 
+**Cookies.  **Information on our cookie policy [can be found here](https://web.archive.org/policies/privacy-policy/cookies "Cookies").
 
-## How We Use Cookies
+### Uses Made of the Information
 
-[Information on our cookie policy can be found here](http://www.axelos.com/axelos-Help-Pages/Cookies/).
+We may use information we hold about you in the following ways:
 
-## Links to Other Websites
+**Information you give to us.** We will use this information:
 
-Our website may contain links to other websites of interest or payment services for the purchasing of our products. However, once you have used these links to leave our site, you should note that we do not have any control over websites that we do not manage. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites that are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the websites you visit.
-
-## Controlling Your Personal Information
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us at the below address or emailing us at [DPO@AXELOS.com](mailto:DPO@AXELOS.com)
+  * to carry out our obligations arising from any agreements entered into between you and us and to provide you with the information, products and services that you request from us;
+  * to provide you with information about other goods and services we offer that are similar to those that you have already purchased, enquired about or we feel may interest you;
+  * to communicate with you to gain feedback on our products or services in order to improve them - if you do not want us to use your data in this way, then please notify us when contacted or unsubscribe using the appropriate facilities in the communication;
+  * to notify you about changes to any of our services;
+  * to ensure that content from our Website is presented in the most effective manner for you and for your computer.
 
 
 
-You may request details of personal information which we hold about you under the UK Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information we hold on you please write to:
+**Information we collect about you.** We will use this information:
 
+  * to administer our Website and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+  * to improve our Website to ensure that content is presented in the most effective manner for you and for your computer;
+  * to allow you to participate in any of the interactive features of our respective services such as our Continuing Professional Development programme, our Successful Candidates Register, and interactive forum when you choose to do so;
+  * as part of our efforts to keep our Website safe and secure;
+  * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
+  * to make suggestions and recommendations to you and other users of our Website about goods or services that may interest you or them.
+
+
+
+**Information we receive from other sources.** We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
+
+### Disclosure of Your Information
+
+We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+
+We may share your information with selected third parties including:
+
+  * Business partners, suppliers and sub-contractors for the performance of any agreement we enter into with them or you.
+  * Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you in an aggregated manner to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
+  * Analytics and search engine providers that assist us in the improvement and optimization of our Website.
+
+
+
+We may disclose your personal information to third parties:
+
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. However, we shall use reasonable endeavours to ensure any such disclosure is made only after suitable confidentiality obligations have been obtained from the relevant third parties.
+  * If AXELOS Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Website Terms of Use](https://web.archive.org/policies/legal/terms-and-conditions-website-usage "Website Terms of Use") or [Terms and Conditions of Sale](https://web.archive.org/policies/shop-policies/terms-and-conditions-of-sale "Terms and Conditions of Sale") and other agreements; or to protect the rights, property, or safety of AXELOS Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * Where you have provided prior consent for such information to be included in our [Successful Candidates Register](https://web.archive.org/successful-candidates-register "Successful Candidates Register").
+
+
+
+### Where We Store Your Personal Data
+
+We store and process your data in the the EU/European Economic Area ("EEA"). All efforts are made to store and process your personal data in the EU/EEA. However, some data that we collect from you may be transferred to, and stored at, a destination outside the EEA. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
+
+### Your Rights
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by informing us not to process it this way or, where available, checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at:
+
+Postal address:  
 The Data Protection Officer  
-AXELOS Global Best Practice  
+AXELOS Limited  
 17 Rochester Row  
-London, SW1P 1QT  
+London  
+SW1P 1QT  
+United Kingdom
 
+Email: [DPO@AXELOS.com](mailto:DPO@AXELOS.com)
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to us at the above address or email us at [DPO@AXELOS.com](mailto:DPO@AXELOS.com) as soon as possible. We will promptly correct any information found to be incorrect.
+You have the right to ask to have any data we hold to be corrected by contacting us in writing through the various avenues as indicated above.
 
-**The website** [ ](http://www.axelos.com/) **is managed by TSO (The Stationery Office) Ltd Company Registered Number 3049649\. Registered Office 29 St, John's Lane, London, EC1M 4NA.**
+You find out more information about your rights at the Information Commissioner’s Office (ICO) website which can be found at [https://ico.org.uk](https://ico.org.uk/)
 
-**TSO is responsible for processing transactions made on the site** [ ](http://www.axelos.com/) **. If you have any queries about orders placed on the site, please contact** [customer.services@tso.co.uk](mailto:customer.services@tso.co.uk)
+### Links to Other Websites
+
+From time to time, our Website may contain links to and from websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites may their own privacy policies and that we do not accept any responsibility or liability for any such policies. Please check these policies, where available, before you submit any personal data to these websites.
+
+### Access to Information
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £15 to meet our costs in providing you with details of the information we hold about you.
+
+### Changes to Our Privacy Policy
+
+AXELOS may change this policy from time to time in the future. Any such changes will be posted here and, where appropriate, notified to you in writing. We advise you to check back frequently to see any updates or changes.
