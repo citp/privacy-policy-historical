@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essentialdepot.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405104952id_/http%3A//www.essentialdepot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essentialdepot.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127045003id_/http%3A//www.essentialdepot.com/privacy.html) for the most accurate reproduction.*
 
 # Essential Depot: Privacy
 
