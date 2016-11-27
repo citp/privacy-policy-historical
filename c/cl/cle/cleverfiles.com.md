@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cleverfiles.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617071027id_/http%3A//help.cleverfiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverfiles.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128003555id_/http%3A//www.cleverfiles.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Disk Drill by CleverFiles - User Guide – Mac Data Recovery - Privacy Policy
-
-Tags: [policy](http://help.cleverfiles.com/tag/policy/)
+# Privacy Policy - Mac Data Recovery
 
 This privacy policy sets out how CleverFiles uses and protects any information that you give CleverFiles when you use this website.
 
@@ -19,6 +17,8 @@ We may collect the following information:
   * other information relevant to customer surveys and/or offers
 
 
+
+__Download Disk Drill data recovery app[for Windows](http://www.cleverfiles.com/download-disk-drill-windows.html)  [for Mac](http://www.cleverfiles.com/downloads.html)
 
 **What we do with the information we gather**
 
@@ -44,6 +44,8 @@ We use traffic log cookies to identify which pages are being used. This helps us
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.  
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
+__Download Disk Drill data recovery app[for Windows](http://www.cleverfiles.com/download-disk-drill-windows.html)  [for Mac](http://www.cleverfiles.com/downloads.html)
+
 **Links to other websites**
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information, which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
@@ -58,6 +60,3 @@ You may choose to restrict the collection or use of your personal information in
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties, which we think you may find interesting if you tell us that you wish this to happen.
-
-  
-
