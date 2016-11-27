@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visions.ca privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624045311id_/http%3A//www.visions.ca/Pages/Default.aspx%3FcontentId%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visions.ca privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127153627id_/http%3A//www.visions.ca/Pages/Default.aspx%3FcontentId%3D8) for the most accurate reproduction.*
 
 # Visions Electronics
 
