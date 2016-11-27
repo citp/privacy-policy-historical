@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millerslab.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603204706id_/http%3A//www.millerslab.com/files/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millerslab.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127125518id_/http%3A//www.millerslab.com/files/policy/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
