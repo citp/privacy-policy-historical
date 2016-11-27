@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunrisewholesalemerchandise.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410065530id_/http%3A//www.sunrisewholesalemerchandise.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunrisewholesalemerchandise.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127202722id_/http%3A//www.sunrisewholesalemerchandise.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Sunrise Wholesale - Drop Ship Wholesale Products, Dropship Company, Dropshipping Suppliers
 
