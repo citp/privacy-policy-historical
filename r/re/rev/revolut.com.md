@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revolut.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613144147id_/https%3A//revolut.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolut.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127200051id_/https%3A//revolut.com/privacy) for the most accurate reproduction.*
 
 # Revolut - Simply Revolutionary - Privacy Policy
 
