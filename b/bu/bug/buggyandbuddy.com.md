@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buggyandbuddy.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410224158id_/http%3A//buggyandbuddy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buggyandbuddy.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127171233id_/http%3A//buggyandbuddy.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Buggy and Buddy
 
