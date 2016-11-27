@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indybay.org privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409122044id_/https%3A//www.indybay.org/news/2003/12/1665906.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indybay.org privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127025853id_/http%3A//indybay.org/news/2003/12/1665906.php) for the most accurate reproduction.*
 
 # Privacy Policy : Indybay
 
@@ -33,7 +33,7 @@ General
 
 At no time, unless a user specifically authorizes such disclosure, will the SF Bay Area IMC disclose individual user personal information that is not publicly available to unrelated third parties.
 
-The SF Bay Area IMC e-mail lists, hosted at lists.indymedia.org, are configured such that all text messages sent to the list, along with names and e-mail addresses, are disclosed in the message archive. In addition, a complete list of subscribers may be available to third parties at the lists web site, although users can opt to conceal themselves from the subscriber list. Users concerned with privacy issues are encouraged to sign up for an anonymous e-mail service.
+The SF Bay Area IMC e-mail lists, hosted at lists.riseup.net, are configured such that all text messages sent to the list, along with names and e-mail addresses, are disclosed in the message archive. In addition, a complete list of subscribers may be available to third parties at the lists web site, although users can opt to conceal themselves from the subscriber list. Users concerned with privacy issues are encouraged to sign up for an anonymous e-mail service.
 
 #### ACCESS
 
@@ -56,7 +56,7 @@ To browse or publish to Indybay using SSL encryption (HTTPS), please use <https:
 To better protect readers' and contributors' privacy, Indybay has implemented HTTP strict transport security, OCSP stapling and SSL forward secrecy.
 
 Users should verify that the site they are reading or publishing to really is Indybay by verifying the site's SSL certificate fingerprints in their browser:  
-SHA-256 Fingerprint 1F 6F BF 25 6C BE 89 2F DE 6D 6A 96 68 55 4E 28 3B C1 7D 25 1A D4 08 78 06 2E 32 23 FD 05 88 35
+SHA256 Fingerprint=A0:08:61:80:D6:A3:57:F1:03:2F:7C:73:55:81:F9:EA:4A:A5:1A:CA:32:B6:58:00:79:42:BB:F4:EE:AF:0B:6C
 
 #### UPDATES TO THE PRIVACY POLICY
 
