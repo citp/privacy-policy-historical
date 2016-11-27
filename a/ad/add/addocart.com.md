@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addocart.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623150351id_/http%3A//www.addocart.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addocart.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127160637id_/http%3A//www.addocart.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@
 
 
 
-  * [Home](http://www.addocart.com/index.php?route=common/home)
+  * [Home](http://www.addocart.com/)
   * [Privacy Policy](http://www.addocart.com/Privacy-Policy)
 
 
