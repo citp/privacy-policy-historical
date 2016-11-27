@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zones.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608013201id_/http%3A//www.zones.com/site/statics/static_page.html%3Fname%3Dcorporate/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zones.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128005512id_/http%3A//www.zones.com/site/statics/static_page.html%3Fname%3Dcorporate/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Terms & Conditions - Privacy Policy
 
