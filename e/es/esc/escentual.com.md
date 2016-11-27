@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the escentual.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620155745id_/http%3A//www.escentual.com/help-and-advice/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escentual.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127175826id_/http%3A//www.escentual.com/help-and-advice/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - About Escentual - Help & Advice
 
 We collect information when you register with Escentual and during the buying process. This information includes your name, address, email, credit card information and shopper preferences. This information is stored on secure servers, and can only be accessed by Escentual employees.
 
-### Cookies
+## Cookies
 
 Escentual.com use cookies to improve your site visit, and allow us to personalise your shopping experience. Below are the occasions we'll use cookies:
 
@@ -19,25 +19,25 @@ Escentual.com use cookies to improve your site visit, and allow us to personalis
 
 Our cookies expire when you have finished your shopping with us, or 7 days after you log out (if you have an account).
 
-### Cookie from External sites
+## Cookie from External sites
 
 External sites may also leave cookies to help track your journey. For example if you have visited from a voucher code or cashback site, cookies enable you to claim an offer or cashback that was promised. We may pay third parties to advertise Escentual.com on their website or search engines, cookie allow them to track a click on their advert, so we can pay them accordingly. These cookies may remain on your computer for up to 60 days. (Example Cookie names: ckid, mtrs, googid, ABTst, mt_awin-2991-100-uk, cksession, mttgt, uip, tc, uuid, lsa, ccv2, BX, VISITOR_INFO1_LIVE, use_hitbox, NID, PREF, test_cookie)
 
-### Disclosure of Information to third parties
+## Disclosure of Information to third parties
 
 As mentioned above, we may provide anonymous data by cookies, profiles and shopper preferences information to third parties who are affiliated with our site. We promise never to provide our customers' personal information to these third parties.
 
 We never share or sell any customer information such as email addresses etc to any third party company.
 
-### Security
+## Security
 
 We will take appropriate steps to protect your privacy. Whenever you provide any sensitive information to us (for example a credit card number), we will take all reasonable steps to protect it. We will also take reasonable security measures to protect your personal information in storage. Credit card numbers are used only for payment processing and are not used for marketing purposes.
 
-### Additional Information
+## Additional Information
 
 There are occasions where we may ask for additional information. We do this to be able to better understand your needs and provide additional services to our customers that may be of value. In addition, we may keep information regarding your communications with us such as emails and customer feedback.
 
-### Questions
+## Questions
 
 We welcome any comments, questions or queries you may have on this privacy statement. Due to the rapidly evolving technologies on the Internet, we may occasionally update this security and privacy statement.
 
@@ -48,4 +48,4 @@ Escentual
 Roath  
 Cardiff  
 CF24 3PA  
-United Kingdom
+United Kingdom 
