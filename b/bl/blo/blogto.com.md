@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blogto.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312205406id_/http%3A//www.blogto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogto.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127205003id_/http%3A//www.blogto.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-## Privacy
+##  Privacy 
 
 **If You Only Have 5 Seconds Read This:**
 
@@ -18,7 +18,7 @@ blogTO is the sole owner of the information collected on www.blogto.com. blogTO 
 
  **Comments**
 
-In order to enhance their use of this web site, users can choose to leave comments on particular articles of interest. To leave a comment, users must submit information including a valid email address. blogTO will not pass this information to any other organization.
+In order to enhance their use of this web site, users can choose to leave comments on particular articles of interest. To leave a comment, users must use the provided Facebook commenting form and login using their personal Facebook account.
 
  **Cookies**
 
