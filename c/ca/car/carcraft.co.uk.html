@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the carcraft.co.uk privacy policy that was archived on 2016-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160610031252id_/http%3A//www.carcraft.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carcraft.co.uk privacy policy that was archived on 2016-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161127170150id_/http%3A//www.carcraft.co.uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -19,7 +19,7 @@
 
     <title>Privacy Policy | Carcraft.co.uk</title>
 
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/Content/js/jQuery.js"></script>
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KWJ5P3"></script><script src="/Content/js/jQuery.js"></script>
     <script src="/Content/js/bootstrap.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDivAJpxrNXmPppBzwep0uOPmgzGUx1ykg"></script>
     <script src="http://www.carcraft.co.uk/_handlers/json/manrangejson.ashx" type="text/javascript"></script>
@@ -34,7 +34,21 @@
     <link href="/Content/style/styles.min.css" rel="stylesheet">
 </head>
 <body onload="onLoad()">
-
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KWJ5P3"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KWJ5P3');</script>
+    <!-- End Google Tag Manager -->
     <nav class="navbar navbar-inverse">
         <div class="container">
             <div class="navbar-header">
@@ -349,34 +363,88 @@
         });
     </script>
     <script>
-        (function (i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-                (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date(); a = s.createElement(o),
-            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        function validateInput(e) {
 
-        ga('create', 'UA-1732159-2', 'auto');
-        ga('send', 'pageview');
+            var Postcode = $("#Postcode").val();
+            var postcodeRegEx = /[A-Z]{1,2}[0-9]{1,2} ?[0-9][A-Z]{2}/i;
 
+            var result = postcodeRegEx.test(Postcode);
+
+            if (result) {
+                return true;
+            } else {
+                $('#Postcode').css({ 'border': '2px solid #FF5F5F' });
+            }
+
+            return false;
+
+        }
     </script>
     <script>
-    function validateInput(e) {
+        $(document).ready(function () {
+            $(document).on('submit', '#SearchFilter', function () {
+                var searchFilter = $(this).attr('data');
+                if (searchFilter != undefined) {
+                    if (searchFilter === 'SearchHomepage') {
+                        dataLayer.push({ 'event': 'SearchHomepage' });
+                    }
+                    if (searchFilter === 'SearchUsedCars') {
+                        dataLayer.push({ 'event': 'SearchUsedCars' });
+                    }
+                    if (searchFilter === 'SearchUsedCarsUnder') {
+                        dataLayer.push({ 'event': 'SearchUsedCarsUnder' });
+                    }
+                    if (searchFilter === 'SearchResultsRefinedSearch') {
+                        dataLayer.push({ 'event': 'SearchResultsRefinedSearch' });
+                    }
+                }
+            });
 
-        var Postcode = $("#Postcode").val();
-        var postcodeRegEx = /[A-Z]{1,2}[0-9]{1,2} ?[0-9][A-Z]{2}/i;
+            $("#btnNext").click(function (e) {
+                e.preventDefault();
+                var href = $(this).attr("href");
+                dataLayer.push({ 'event': 'SearchResultsPagination' });
+                window.location = href;
+            });
 
-        var result = postcodeRegEx.test(Postcode);
+            $("#btnPrev").click(function (e) {
+                e.preventDefault();
+                var href = $(this).attr("href");
+                dataLayer.push({ 'event': 'SearchResultsPagination' });
+                window.location = href;
+            });
 
-        if (result) {
-            return true;
-        } else {
-            $('#Postcode').css({ 'border': '2px solid #FF5F5F' });
-        }
-
-        return false;
-
-    }
+            $(document).on('click', '#btnResultDetail2', function (e) {
+                e.preventDefault();
+                var href = $(this).attr("href");
+                SearchResultsVehicleDetailsViewEvent(href)
+            });
+            $(document).on('click', '#btnResultDetail3', function (e) {
+                e.preventDefault();
+                var href = $(this).attr("href");
+                SearchResultsVehicleDetailsViewEvent(href)
+            });
+            $(document).on('click', '#btnResultDetail4', function (e) {
+                e.preventDefault();
+                var href = $(this).attr("href");
+                SearchResultsVehicleDetailsViewEvent(href)
+            });
+            function SearchResultsVehicleDetailsViewEvent(href) {
+                dataLayer.push({ 'event': 'SearchResultsVehicleDetailsView' });
+                window.location = href;
+            }
+        });
     </script>
+        <script>
+            dataLayer.push({
+                'google_tag_params': {
+                    'dynx_itemid': '0',
+                    'dynx_itemid2': '',
+                    'dynx_pagetype': 'other',
+                    'dynx_totalvalue': 0.00
+                },
+                'event': 'AdWordsRemarketing'
+            });
+        </script>
 
 </body></html>
