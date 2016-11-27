@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amieporn.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622140838id_/http%3A//www.amieporn.com/i/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amieporn.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127132546id_/http%3A//www.amieporn.com/i/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AmiePorn.com
 
-Updated: June 22, 2016  
+Updated: November 27, 2016  
 Site: AmiePorn.com 
 
 Pursuant to our [Terms of Use](http://www.amieporn.com/i/terms/), , this document describes how we treat personal information related to your use of AmiePorn.com (the “Website”), including information you provide when using it.
