@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the philosophyforums.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615214032id_/http%3A//forums.philosophyforums.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philosophyforums.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127142854id_/http%3A//forums.philosophyforums.com/privacy) for the most accurate reproduction.*
 
-# Privacypolicy: Philosophy Forums
+# Privacy Policy: Philosophy Forums
 
 Our team here at PhilosophyForums is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.
 
