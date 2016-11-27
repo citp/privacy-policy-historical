@@ -1,64 +1,59 @@
-> *The following text is extracted and transformed from the treksplorer.com privacy policy that was archived on 2013-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130128002232id_/http%3A//www.treksplorer.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treksplorer.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127132528id_/http%3A//www.treksplorer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Treksplorer.com
+# Privacy Policy – Treksplorer
 
-This privacy policy sets out how Trekplorer, Ltd. uses and protects any information that you give Treksplorer, Ltd. when you use this website.
+## Introduction
 
-Treksplorer, Ltd. is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+This privacy policy (“Policy”) and this site’s Terms of Service (together the “Terms”) govern all use of http://www.treksplorer.com and that site’s services (together the “Site” or “Services”). The owners and contributors to the Site will be referred to as “we,” “us,” or “our” in this Policy. By using the Site or its Services, and/or by clicking anywhere on this Site to agree to the Terms and this Policy, you are deemed to be a “user” for purposes of this Policy. You and every other user (“you” or “User” as applicable) are subject to this Policy. You and each user also agree to the Terms by using the Services. In these Terms, the word “Site” includes the site referenced above, its owner(s), contributors, suppliers, licensors, and other related parties.
 
-Treksplorer, Ltd. may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from October 12th, 2011.
+We provide this privacy statement explaining our online information practices, so that you can decide whether and how to interact with the Site and the Services.
 
-What we collect
+We may release your information when we deem it appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
 
-We may collect the following information: 
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+Please also review our Terms of Use section that governs the use and the users of the Site.
 
+By using our site, you consent to our privacy policy.
 
+If we decide to change our privacy policy, we will post those changes on this page. If we have your email address, we may also send an email notifying you of any changes.
 
-What we do with the information we gather
+## Contact Data and Other Identifiable Information
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
+This site collects certain user information, which may include a username and password, contact information, or any other data that you type in to the site. It may also identify your IP address to help identify you on future visits to the site. At our discretion, the Site may use this data to:
 
-  * Internal record keeping
-  * We may use the information to improve our products and services
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
-
-
-
-Security
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
-How we use cookies
-
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-Links to other websites
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-Controlling your personal information
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at marketing@treksplorer.com
+  * Personalize the user experience and/or customer service
+  * Improve the site
+  * To process transactions
+  * Administer a contest, promotion, survey or other site feature or function
+  * Send email to users
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+## Mobile Device Privacy
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to marketing@treksplorer.com.
+The following applies to our site, when viewed on a mobile device:  
+When accessed with a mobile device, our site may collect information automatically, such as the type of mobile device you have, device identifiers, and information about your use of the site. Regardless of the device you use to access the site, it will also collect information you provide, as well as information about your interaction with the site and its content.  
+If location services are activated on your mobile device, our site may collect information about the location of your device. Your mobile network service providers may collect device-specific information, such as a device identifier, when you use our website or one of our mobile applications. This information collected by your mobile network service will not be associated with your user account with us, or with your personally identifiable information.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
+## Advertising Network
+
+We use one or more third party vendors to serve ads on the Site. To serve ads and determine how our users use the Site, these services use cookies, or small pieces of code to serve ads to Site users based on users’ visits to the Site and others. Users may adjust their browser settings to disallow the use of cookies. With cookies turned off, certain features of the Site may work less efficiently or not at all.
+
+We use Google as an advertising services provider for the Site. Users may opt out of Google’s use of the DART use-tracking cookie by visiting the Google advertising Policies & Principles page. If you opt out of ad tailoring, you will still see ads, but they will not be based on your browsing history, and they may appear in other languages.
+
+## Disputes
+
+We are based in Sudbury, Ontario, Canada, and you are contracting to use our Site. This Policy and all matters arising from your use of the Site are governed by and will be construed according to the laws of Sudbury, Ontario, Canada, without regard to any choice of laws rules of any jurisdiction. The federal courts and provincial courts that have geographical jurisdiction over disputes arising at our office location in Sudbury, Ontario, Canada, will be the only permissible venues for any and all disputes arising out of or in connection with this Policy or the Site and Service.
+
+## ARBITRATION
+
+Notwithstanding anything that may be contrary within the “Disputes” provisions above, all matters, and all claims within a multi-claim matter, that are arbitrable, including all claims for monetary damages, shall be decided by a single arbitrator to be selected by us, who shall hold hearings in or near Sudbury, Ontario, Canada, under the rules of International Centre for Dispute Resolution Canada.
+
+## Terms Contact
+
+If you have any questions about these Terms, please address them to info@treksplorer.com.
+
+## Last Updated
+
+These terms were last updated on  _September 19th, 2016._
