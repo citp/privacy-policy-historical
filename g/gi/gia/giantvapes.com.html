@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the giantvapes.com privacy policy that was archived on 2016-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160622000835id_/http%3A//www.giantvapes.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the giantvapes.com privacy policy that was archived on 2016-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161127191910id_/http%3A//www.giantvapes.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xml:lang="en" lang="en"><head>
     <title>Privacy Policy</title>
@@ -18,24 +18,47 @@
     <link rel="shortcut icon" href="http://cdn2.bigcommerce.com/server5500/xv4vhtq/product_images/favicon.ico">
     <link href="//fonts.googleapis.com/css?family=Roboto:400,300,700,500,400italic,900" rel="stylesheet">
     <link href="//fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,700,300" rel="stylesheet">
-    <link rel="stylesheet" href="http://cdn1.bigcommerce.com/server5500/xv4vhtq/templates/__custom/Styles/bootstrap/bootstrap.css?t=1462174102" id="bootstrap-stylesheet">
-    <link rel="stylesheet" href="http://cdn1.bigcommerce.com/server5500/xv4vhtq/templates/__custom/Styles/styles.css?t=1462174102">
-    <link rel="stylesheet" href="http://cdn1.bigcommerce.com/server5500/xv4vhtq/templates/__custom/Styles/navigation.css?t=1462174102">
-    <link rel="stylesheet" href="http://cdn1.bigcommerce.com/server5500/xv4vhtq/templates/__custom/Styles/theme.css?t=1462174102">
-    <link rel="stylesheet" href="http://cdn1.bigcommerce.com/server5500/xv4vhtq/templates/__custom/Styles/custom.css?t=1462174102">
-    <link rel="stylesheet" href="http://cdn1.bigcommerce.com/server5500/xv4vhtq/templates/__custom/Styles/components.css?t=1462174102">
-    <link rel="stylesheet" href="http://cdn1.bigcommerce.com/server5500/xv4vhtq/templates/__custom/Styles/home.css?t=1462174102">
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//staticw2.yotpo.com/bpRcHb6kfbXy84yrcjVdtFc9GdcvHoj0EQNi9OtB/widget.js"></script><script src="http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/modernizr.js?t=1462174102"></script>
+    <link rel="stylesheet" href="http://cdn1.bigcommerce.com/server5500/xv4vhtq/templates/__custom/Styles/bootstrap/bootstrap.css?t=1476243015" id="bootstrap-stylesheet">
+    <link rel="stylesheet" href="http://cdn1.bigcommerce.com/server5500/xv4vhtq/templates/__custom/Styles/styles.css?t=1476243015">
+    <link rel="stylesheet" href="http://cdn1.bigcommerce.com/server5500/xv4vhtq/templates/__custom/Styles/navigation.css?t=1476243015">
+    <link rel="stylesheet" href="http://cdn1.bigcommerce.com/server5500/xv4vhtq/templates/__custom/Styles/theme.css?t=1476243015">
+    <link rel="stylesheet" href="http://cdn1.bigcommerce.com/server5500/xv4vhtq/templates/__custom/Styles/custom.css?t=1476243015">
+    <link rel="stylesheet" href="http://cdn1.bigcommerce.com/server5500/xv4vhtq/templates/__custom/Styles/components.css?t=1476243015">
+    <link rel="stylesheet" href="http://cdn1.bigcommerce.com/server5500/xv4vhtq/templates/__custom/Styles/home.css?t=1476243015">
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//staticw2.yotpo.com/bpRcHb6kfbXy84yrcjVdtFc9GdcvHoj0EQNi9OtB/widget.js"></script><script src="http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/modernizr.js?t=1476243015"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-    <script src="http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/main.js?t=1462174102"></script>
-
+    <script src="http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/main.js?t=1476243015"></script>
     <script>
-
-    $.holdReady(true);
-
-    /*  // = Deprecated  */
-    
-    var config                       = {}
+        // Fetch the value of a cookie
+        function get_cookie(name) {
+            name = name += "=";
+            var cookie_start = document.cookie.indexOf(name);
+            if(cookie_start > -1) {
+                cookie_start = cookie_start+name.length;
+                cookie_end = document.cookie.indexOf(';', cookie_start);
+                if(cookie_end == -1) {
+                    cookie_end = document.cookie.length;
+                }
+                return unescape(document.cookie.substring(cookie_start, cookie_end));
+            }
+        }
+        // Set a cookie
+        function set_cookie(name, value, expires)
+        {
+            if(!expires) {
+                expires = "; expires=Wed, 1 Jan 2020 00:00:00 GMT;"
+                } else {
+                expire = new Date();
+                expire.setTime(expire.getTime()+(expires*1000));
+                expires = "; expires="+expire.toGMTString();
+            }
+            document.cookie = name+"="+escape(value)+expires;
+        }
+    </script>
+    <script>
+        $.holdReady(true);
+        /*  // = Deprecated  */
+        var config                       = {}
         lang                         = {},
         QuickView                    = {},
         config.lang                  = lang,
@@ -50,9 +73,8 @@
         config.ThumbnailWidth        = 356,
         config.ThumbnailHeight       = 300,
         config.lang.EmptySmallSearch = 'You forgot to enter some search keywords.',
-        config.defaultThumbnail      = 'http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/images/ProductDefault.gif?t=1462174102',
+        config.defaultThumbnail      = 'http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/images/ProductDefault.gif?t=1476243015',
         QuickView.attachFormValidator = function() {
-        
             $('#productDetailsAddToCartForm').validate({
                 onsubmit: false,
                 ignoreTitle: true,
@@ -60,99 +82,73 @@
                     // nothing
                 },
                 invalidHandler: function (form, validator) {
-
                     if(!validator.size())
-                        return;
-                    
+                    return;
                     alert(validator.errorList[0].message);
                 }
             });
         };
-
-    var userFirstName = 'Guest';
-
-    Modernizr.load({
-          load: [
-              'http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/jquery-migrate-1.2.1.min.js?t=1462174102',
-              'http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/jquery.imagesloaded.js?t=1462174102',
-              'http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/jquery.validate.1.13.1.js?t=1462174102',
-              'http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/jquery.cookie.js?t=1462174102',
-              'http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/bootstrap.min.js?t=1462174102',
-              'http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/common.js?t=1462174102',
-              'http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/quicksearch.js?t=1462174102',
-              'http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/product.functions.js?t=1462174102',
-              'http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/product.attributes.js?t=1462174102'
-          ],
-          complete: function(){
-
-              $.holdReady(false);
-
-              // SVG Fallback
-              if(!Modernizr.svg){
-
-                $('img[src*="svg"]').attr('src', function() {
-
-                    return $(this).attr('src').replace('.svg', '.png');
-                });
-            }
-
-            // As text, extract code from commented global
-            // append it to a temporary div to convert it to HTML
-            // Find script tags
-            var deprecated_code    = $('#deprecated_code').prop('outerHTML').replace('<!--', '').replace('-->', ''), 
+        var userFirstName = 'Guest';
+        Modernizr.load({
+            load: [
+            'http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/jquery-migrate-1.2.1.min.js?t=1476243015',
+            'http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/jquery.imagesloaded.js?t=1476243015',
+            'http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/jquery.validate.1.13.1.js?t=1476243015',
+            'http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/jquery.cookie.js?t=1476243015',
+            'http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/bootstrap.min.js?t=1476243015',
+            'http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/common.js?t=1476243015',
+            'http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/quicksearch.js?t=1476243015',
+            'http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/product.functions.js?t=1476243015',
+            'http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/product.attributes.js?t=1476243015'
+            ],
+            complete: function(){
+                $.holdReady(false);
+                // SVG Fallback
+                if(!Modernizr.svg){
+                    $('img[src*="svg"]').attr('src', function() {       
+                        return $(this).attr('src').replace('.svg', '.png');
+                    });
+                }
+                // As text, extract code from commented global
+                // append it to a temporary div to convert it to HTML
+                // Find script tags
+                var deprecated_code    = $('#deprecated_code').prop('outerHTML').replace('<!--', '').replace('-->', ''), 
                 dummytag           = $('<p />').append( deprecated_code ), 
                 deprecated_scripts = $(dummytag).find('script'),  
                 blacklistInline    = ['ShowImageZoomer'],
                 blacklistExternal  = ['imodal.js', 'jquery-ui.js', 'jquery-ui.min.js', 'quickview.js', 'product.attributes.js', 'product.functions.js', 'jquery.validate.js', 'jquery.form.js'];
-
-            $(deprecated_scripts).each( function(){    
-
-                var deprecated_source = ($(this).is('[src]'))?$(this).attr('src'):0;
-
-                if(deprecated_source){
-
-                    if($.inArray( basename(deprecated_source), blacklistExternal) == -1){
-
-                        console.info( 'Loaded External Script: ' + basename(deprecated_source) );
-
-                        Modernizr.load(this);
-                    }else{
-
-                        console.info( 'Blacklisted External Script: ' + basename(deprecated_source) );    
-                    }
-                }else{
-
-                    var blacklisted = 0;
-
-                    $.each( blacklistInline, function(key, value){
-
-                        if( $(this).is(':contains("' + value + '")') ){
-
-                            blacklisted = 1;
+                $(deprecated_scripts).each( function(){    
+                    var deprecated_source = ($(this).is('[src]'))?$(this).attr('src'):0;
+                    if(deprecated_source){
+                        if($.inArray( basename(deprecated_source), blacklistExternal) == -1){
+                            console.info( 'Loaded External Script: ' + basename(deprecated_source) );
+                            Modernizr.load(this);
+                            }else{
+                            console.info( 'Blacklisted External Script: ' + basename(deprecated_source) );    
                         }
-                    });
-
-                    if(!blacklisted){
-
-                        console.info('Loaded Inline Script:' );
-                        console.log( this );
-
-                        Modernizr.load(this);
-                    }else{
-
-                        console.info('Blacklisted Inline Script:' );
-                        console.log( this );
+                        }else{
+                        var blacklisted = 0;
+                        $.each( blacklistInline, function(key, value){
+                            if( $(this).is(':contains("' + value + '")') ){
+                                blacklisted = 1;
+                            }
+                        });
+                        if(!blacklisted){
+                            console.info('Loaded Inline Script:' );
+                            console.log( this );
+                            Modernizr.load(this);
+                            }else{
+                            console.info('Blacklisted Inline Script:' );
+                            console.log( this );
+                        }
                     }
-                }
-            });
-          }
-    });
+                });
+            }
+        });
     </script>
-    
     <script type="text/javascript">
-    (function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/bpRcHb6kfbXy84yrcjVdtFc9GdcvHoj0EQNi9OtB/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
+        (function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/bpRcHb6kfbXy84yrcjVdtFc9GdcvHoj0EQNi9OtB/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
     </script>
-
     <link rel="alternate" type="application/rss+xml" title="New Products (RSS 2.0)" href="http://www.giantvapes.com/rss.php?type=rss">
 <link rel="alternate" type="application/atom+xml" title="New Products (Atom 0.3)" href="http://www.giantvapes.com/rss.php?type=atom">
 <link rel="alternate" type="application/rss+xml" title="Popular Products (RSS 2.0)" href="http://www.giantvapes.com/rss.php?action=popularproducts&amp;type=rss">
@@ -216,14 +212,36 @@
     
     
     
-
+    <script>
+        var CustomerEmail = "";
+        var CustomerID = "";
+        var CustomerGroupID = "";
+        var CustomerGroupName = ""
+    </script>
     <!-- GLOBAL STYLES END -->
 </head>
     <body class="page-page"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
         <div id="site">
             
             <pre id="deprecated_code">    <!--
-        <script type="text/javascript">
+        
+<script type="text/javascript">
+function beacon_deferred(beacon_api) { beacon_api.set_cookie_domain(".giantvapes.com");beacon_api.pageview('', 1376360, "other", {"customer":{"id":"anonymous"}}, 'f0e45adffd5cd09c29ad54699fa30135fabc1bb7', 'b8920f7d-aacc-47ec-b813-a418a7f2443f');}
+</script>
+<script type="text/javascript">
+(function(){var d=document,g=d.createElement('script'),s=d.getElementsByTagName('script')[0];g.type='text/javascript';g.defer=g.async=true;g.src='http://cdn4.bigcommerce.com/r-4d90f8ec82590624be221e91efc25b5d86e93bf0/javascript/jirafe/beacon_api.js';s.parentNode.insertBefore(g,s);})();
+</script>
+<script type="text/javascript">
+
+</script>
+<script type="text/javascript" src="http://cdn4.bigcommerce.com/r-4d90f8ec82590624be221e91efc25b5d86e93bf0/javascript/jquery/plugins/jqueryui/1.8.18/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://cdn4.bigcommerce.com/r-4d90f8ec82590624be221e91efc25b5d86e93bf0/javascript/jquery/plugins/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="http://cdn4.bigcommerce.com/r-4d90f8ec82590624be221e91efc25b5d86e93bf0/javascript/product.functions.js"></script>
+<script type="text/javascript" src="http://cdn4.bigcommerce.com/r-4d90f8ec82590624be221e91efc25b5d86e93bf0/javascript/product.attributes.js"></script>
+<script type="text/javascript" src="http://cdn4.bigcommerce.com/r-4d90f8ec82590624be221e91efc25b5d86e93bf0/javascript/quickview.js"></script>
+<script type="text/javascript" src="http://cdn4.bigcommerce.com/r-4d90f8ec82590624be221e91efc25b5d86e93bf0/javascript/quickview.initialise.js"></script><script type="text/javascript" src="http://cdn4.bigcommerce.com/r-4d90f8ec82590624be221e91efc25b5d86e93bf0/javascript/jquery/plugins/jquery.form.js?6785a"></script>
+<script type="text/javascript" src="http://cdn4.bigcommerce.com/r-4d90f8ec82590624be221e91efc25b5d86e93bf0/javascript/jquery/plugins/imodal/imodal.js?6785a"></script>
+<script type="text/javascript">
     (function(){
         window.bcanalytics||(window.bcanalytics=[]),window.bcanalytics.methods=["debug","identify","track",
             "trackLink","trackForm","trackClick","trackSubmit","page","pageview","ab","alias","ready","group",
@@ -232,17 +250,15 @@
             window.bcanalytics}};for(var i=0;i<window.bcanalytics.methods.length;i++)
             {var method=window.bcanalytics.methods[i];window.bcanalytics[method]=window.bcanalytics.factory(method)}
             window.bcanalytics.load=function(){var a=document.createElement("script");a.type="text/javascript",
-            a.async=!0,a.src="http://cdn4.bigcommerce.com/r-27da1a13f3ddab37e00a9fa28e00e7ffaac956c7/app/assets/js/vendor/bigcommerce/analytics.min.js";var b=document.getElementsByTagName("script")[0];
+            a.async=!0,a.src="http://cdn4.bigcommerce.com/r-4d90f8ec82590624be221e91efc25b5d86e93bf0/app/assets/js/vendor/bigcommerce/analytics.min.js";var b=document.getElementsByTagName("script")[0];
             b.parentNode.insertBefore(a,b)},window.bcanalytics.SNIPPET_VERSION="2.0.8",window.bcanalytics.load();
-        bcanalytics.initialize({"Fornax":{"host":"https:\/\/analytics.bigcommerce.com","cdn":"http:\/\/cdn4.bigcommerce.com\/r-27da1a13f3ddab37e00a9fa28e00e7ffaac956c7\/app\/assets\/js\/vendor\/bigcommerce\/fornax.min.js","defaultEventProperties":{"storeId":448868,"experiments":{"shipping.eldorado.ng-shipment.recharge-postage":"on","shipping.eldorado.label_method":"on","PROJECT-331.pos_manager":"on","PROJECT-632.square_export":"on","PROJECT-756.channel_pinterest":"on","PROJECT-756.pinterest_complex_products":"on","PROJECT-756.pinterest_material_options":"control","PROJECT-783.channel_facebook":"on","PROJECT-783.channel_facebook.disconnect":"on","PROJECT-174.channel_twitter":"control","OMNI-1010.channel_amazon.coming_soon":"control","OMNI-1010.channel_ebay.coming_soon":"on","PROJECT-453.enterprise_apps":"on","BIG-23634.enable_pricing":"on","CP-78.cp_click_tracking":"control","OMNI-86.products-list":"control","OMNI-86.products-list.channels":"control","PROJECT-934.rebranding":"on","PROJECT-917.shipping-manager-v2":"control","PROJECT-1082.promote_ppec":"control"}},"defaultContext":{"source":"Bigcommerce Storefront"},"anonymousId":"c510b9a4-39cb-4a00-bf81-b5eae07e043d"}});
+        bcanalytics.initialize({"Fornax":{"host":"https:\/\/analytics.bigcommerce.com","cdn":"http:\/\/cdn4.bigcommerce.com\/r-4d90f8ec82590624be221e91efc25b5d86e93bf0\/app\/assets\/js\/vendor\/bigcommerce\/fornax.min.js","defaultEventProperties":{"storeId":448868,"experiments":{"PROJECT-174.channel_twitter":"control","PROJECT-331.pos_manager":"on","PROJECT-632.square_export":"on","PROJECT-756.channel_pinterest":"on","PROJECT-756.pinterest_complex_products":"on","PROJECT-756.pinterest_material_options":"control","PROJECT-783.channel_facebook":"on","PROJECT-783.channel_facebook.disconnect":"on","OMNI-1010.channel_amazon.coming_soon":"on","OMNI-913.channel_amazon":"on","OMNI-1010.channel_ebay.coming_soon":"control","OMNI-764.channel_ebay":"on","OMNI-799.facebook_checkout":"on","PROJECT-453.enterprise_apps":"on","CP-78.cp_click_tracking":"control","PROJECT-917.shipping-manager-v2":"on","PROJECT-1082.promote_ppec":"on","BIG-28672.shipstation":"on","PROJECT-871.dashboard_redesign":"control","ng-products":"control"}},"defaultContext":{"source":"Bigcommerce Storefront"},"anonymousId":"b8920f7d-aacc-47ec-b813-a418a7f2443f"}});
     })();
-</script><script type="text/javascript" src="http://cdn4.bigcommerce.com/r-27da1a13f3ddab37e00a9fa28e00e7ffaac956c7/javascript/jquery/plugins/jqueryui/1.8.18/jquery-ui.min.js"></script><script type="text/javascript" src="http://cdn4.bigcommerce.com/r-27da1a13f3ddab37e00a9fa28e00e7ffaac956c7/javascript/jquery/plugins/validate/jquery.validate.js"></script><script type="text/javascript" src="http://cdn4.bigcommerce.com/r-27da1a13f3ddab37e00a9fa28e00e7ffaac956c7/javascript/product.functions.js"></script><script type="text/javascript" src="http://cdn4.bigcommerce.com/r-27da1a13f3ddab37e00a9fa28e00e7ffaac956c7/javascript/product.attributes.js"></script><script type="text/javascript" src="http://cdn4.bigcommerce.com/r-27da1a13f3ddab37e00a9fa28e00e7ffaac956c7/javascript/quickview.js"></script><script type="text/javascript" src="http://cdn4.bigcommerce.com/r-27da1a13f3ddab37e00a9fa28e00e7ffaac956c7/javascript/quickview.initialise.js"></script><script type="text/javascript" src="http://cdn4.bigcommerce.com/r-27da1a13f3ddab37e00a9fa28e00e7ffaac956c7/javascript/jquery/plugins/jquery.form.js"></script><script type="text/javascript" src="http://cdn4.bigcommerce.com/r-27da1a13f3ddab37e00a9fa28e00e7ffaac956c7/javascript/jquery/plugins/imodal/imodal.js"></script>
+</script>
 <script type="text/javascript">
+var _user_id = '';
 
-</script><script type="text/javascript">
-    var _user_id = '';
-
-            var _session_id = '5f0d499fff3c40dd7e3f67499eaf315a';
+            var _session_id = 'f354d68a4607a22a782759100d03a9b2';
 
             var _sift = _sift || [];
 
@@ -268,6 +284,10 @@
                 }
             }());
 </script>
+<script type="text/javascript">
+var BCData = {};
+</script>
+
     -->
 </pre>
 <a href="#" id="top-of-page">
@@ -572,10 +592,6 @@ SearchSpring.Autocomplete.init({
 		<a href="/adam-bomb-ejuice/">Adam Bomb</a>
 		
 	</li>
-	<li data-id="214">
-		<a href="/advocacy/">Advocacy</a>
-		
-	</li>
 	<li data-id="200">
 		<a href="/aisle-7/">Aisle 7</a>
 		
@@ -596,6 +612,14 @@ SearchSpring.Autocomplete.init({
 		<a href="/archetype-blends/">Archetype Blends</a>
 		
 	</li>
+	<li data-id="302">
+		<a href="/bad-joos/">Bad JOOS</a>
+		
+	</li>
+	<li data-id="285">
+		<a href="/bake-n-shake/">Bake 'n Shake</a>
+		
+	</li>
 	<li data-id="111">
 		<a href="/beantown-vapor/">Beantown Vapor</a>
 		
@@ -612,8 +636,8 @@ SearchSpring.Autocomplete.init({
 		<a href="/big-willies/">Big Willie's</a>
 		
 	</li>
-	<li data-id="241">
-		<a href="/black-label-by-elysian/">Black Label by Elysian</a>
+	<li data-id="298">
+		<a href="/biscotti/">Biscotti</a>
 		
 	</li>
 	<li data-id="146">
@@ -640,6 +664,10 @@ SearchSpring.Autocomplete.init({
 		<a href="/branded-vapors/">Branded Vapors</a>
 		
 	</li>
+	<li data-id="287">
+		<a href="/breaker/">Breaker</a>
+		
+	</li>
 	<li data-id="108">
 		<a href="/brothers-reserve-premium-eliquid/">Brother's Reserve</a>
 		
@@ -660,10 +688,6 @@ SearchSpring.Autocomplete.init({
 		<a href="/captivape-creations/">Captivape Creations</a>
 		
 	</li>
-	<li data-id="137">
-		<a href="/cashmere-millionaires/">Cashmere Millionaires</a>
-		
-	</li>
 	<li data-id="243">
 		<a href="/cassadaga-liquids/">Cassadaga Liquids</a>
 		
@@ -672,16 +696,12 @@ SearchSpring.Autocomplete.init({
 		<a href="/charlie-noble/">Charlie Noble</a>
 		
 	</li>
-	<li data-id="181">
-		<a href="/charlie-noble-admirals-reserve/">Charlie Noble Admiral's Reserve</a>
-		
-	</li>
-	<li data-id="272">
-		<a href="/charlie-noble-in-paradise/">Charlie Noble in Paradise</a>
-		
-	</li>
 	<li data-id="162">
 		<a href="/charlies-chalk-dust/">Charlie's Chalk Dust</a>
+		
+	</li>
+	<li data-id="294">
+		<a href="/chomp/">Chomp</a>
 		
 	</li>
 	<li data-id="271">
@@ -720,10 +740,6 @@ SearchSpring.Autocomplete.init({
 		<a href="/cottos-revenge-ejuice/">Cotto's Revenge</a>
 		
 	</li>
-	<li data-id="219">
-		<a href="/crushing-e-liquid/">Crushing E-liquid</a>
-		
-	</li>
 	<li data-id="267">
 		<a href="/cult-classic-liquids/">Cult Classic Liquids</a>
 		
@@ -740,12 +756,16 @@ SearchSpring.Autocomplete.init({
 		<a href="/cyclops-vapor/">Cyclops Vapor</a>
 		
 	</li>
-	<li data-id="124">
-		<a href="/d-squared-eliquids/">D Squared</a>
-		
-	</li>
 	<li data-id="269">
 		<a href="/dnish-e-liquids/">D'nish E-liquids</a>
+		
+	</li>
+	<li data-id="261">
+		<a href="/dark-market-vape-co/">Dark Market Vape Co.</a>
+		
+	</li>
+	<li data-id="303">
+		<a href="/dipped/">Dipped</a>
 		
 	</li>
 	<li data-id="199">
@@ -762,10 +782,6 @@ SearchSpring.Autocomplete.init({
 	</li>
 	<li data-id="177">
 		<a href="/dripboy-eliquid/">Dripboy Eliquid</a>
-		
-	</li>
-	<li data-id="116">
-		<a href="/elysian-e-lixirs/">Elysian E-lixirs</a>
 		
 	</li>
 	<li data-id="117">
@@ -788,16 +804,40 @@ SearchSpring.Autocomplete.init({
 		<a href="/five-pawns-insignia/">Five Pawns Insignia </a>
 		
 	</li>
+	<li data-id="311">
+		<a href="/flantastico/">Flantastico</a>
+		
+	</li>
+	<li data-id="278">
+		<a href="/formal-eliquids/">Formal Eliquids</a>
+		
+	</li>
+	<li data-id="290">
+		<a href="/frappe/">Frappe</a>
+		
+	</li>
 	<li data-id="50">
 		<a href="/g2-vapor/">G2 Vapor</a>
+		
+	</li>
+	<li data-id="282">
+		<a href="/good-n-sweet-by-g2-vapor/">Good n' Sweet by G2 Vapor</a>
 		
 	</li>
 	<li data-id="230">
 		<a href="/grimmkvlt/">GrimmKVLT</a>
 		
 	</li>
-	<li data-id="141">
-		<a href="/high-roller-sweets/">High Roller Sweets</a>
+	<li data-id="310">
+		<a href="/gv2-the-gv-all-stars/">GV2 - The GV All-Stars</a>
+		
+	</li>
+	<li data-id="284">
+		<a href="/hol-e-day-e-liquids/">Hol-E-Day E-liquids</a>
+		
+	</li>
+	<li data-id="316">
+		<a href="/holy-macaron/">Holy Macaron</a>
 		
 	</li>
 	<li data-id="265">
@@ -808,12 +848,16 @@ SearchSpring.Autocomplete.init({
 		<a href="/infamous/">Infamous</a>
 		
 	</li>
+	<li data-id="275">
+		<a href="/jam-cake/">Jam Cake</a>
+		
+	</li>
 	<li data-id="84">
 		<a href="/jimmy-the-juice-man/">Jimmy the Juice Man</a>
 		
 	</li>
-	<li data-id="151">
-		<a href="/khali-vapors/">Khali Vapors</a>
+	<li data-id="280">
+		<a href="/kegger-vaporcraft-brewery/">Kegger Vaporcraft Brewery</a>
 		
 	</li>
 	<li data-id="223">
@@ -832,10 +876,6 @@ SearchSpring.Autocomplete.init({
 		<a href="/liquid-state/">Liquid State</a>
 		
 	</li>
-	<li data-id="198">
-		<a href="/lowly-gentlemen/">Lowly Gentlemen</a>
-		
-	</li>
 	<li data-id="94">
 		<a href="/mad-alchemist/">Mad Alchemist</a>
 		
@@ -844,12 +884,12 @@ SearchSpring.Autocomplete.init({
 		<a href="/mad-hatter-juice/">Mad Hatter Juice</a>
 		
 	</li>
-	<li data-id="206">
-		<a href="/mad-murdock/">Mad Murdock</a>
-		
-	</li>
 	<li data-id="167">
 		<a href="/majestic/">Majestic</a>
+		
+	</li>
+	<li data-id="277">
+		<a href="/makkover/">MAKKOver</a>
 		
 	</li>
 	<li data-id="68">
@@ -860,20 +900,24 @@ SearchSpring.Autocomplete.init({
 		<a href="/merkury/">Merkury</a>
 		
 	</li>
-	<li data-id="258">
-		<a href="/mistress-by-teardrip/">Mistress by Teardrip</a>
+	<li data-id="276">
+		<a href="/met4-vapor/">MET4 Vapor</a>
 		
 	</li>
-	<li data-id="218">
-		<a href="/moon-mountain/">Moon Mountain</a>
+	<li data-id="307">
+		<a href="/miruku/">Miruku</a>
+		
+	</li>
+	<li data-id="274">
+		<a href="/missing-link/">Missing Link</a>
 		
 	</li>
 	<li data-id="153">
 		<a href="/mr-good-vape/">Mr. Good Vape</a>
 		
 	</li>
-	<li data-id="254">
-		<a href="/mumford-juice-co/">Mumford Juice Co.</a>
+	<li data-id="300">
+		<a href="/myst-liquids/">Myst Liquids</a>
 		
 	</li>
 	<li data-id="85">
@@ -892,36 +936,48 @@ SearchSpring.Autocomplete.init({
 		<a href="/nicks-blissful-brews/">Nick's Blissful Brews</a>
 		
 	</li>
-	<li data-id="196">
-		<a href="/nitro-labs/">Nitro Labs</a>
-		
-	</li>
 	<li data-id="133">
 		<a href="/northern-lights/">Northern Lights</a>
+		
+	</li>
+	<li data-id="301">
+		<a href="/noted-e-liquid/">NOTE'D E-liquid</a>
+		
+	</li>
+	<li data-id="281">
+		<a href="/ocd-liquids/">OCD Liquids</a>
 		
 	</li>
 	<li data-id="139">
 		<a href="/omega-vape/">Omega Vape</a>
 		
 	</li>
-	<li data-id="107">
-		<a href="/ozblendz/">OzBlendz</a>
+	<li data-id="286">
+		<a href="/opmh-project/">OPMH Project</a>
 		
 	</li>
 	<li data-id="154">
 		<a href="/p-o-e-t/">P.O.E.T.</a>
 		
 	</li>
+	<li data-id="308">
+		<a href="/p-o-e-t-postcard-collection/">P.O.E.T. Postcard Collection</a>
+		
+	</li>
 	<li data-id="263">
 		<a href="/paper-street-vape-co/">Paper Street Vape Co.</a>
 		
 	</li>
-	<li data-id="161">
-		<a href="/persona/">Persona</a>
+	<li data-id="299">
+		<a href="/particles-by-cold-fusion/">Particles by Cold Fusion</a>
 		
 	</li>
 	<li data-id="229">
 		<a href="/phillip-rocke-grand-reserve/">Phillip Rocke Grand Reserve</a>
+		
+	</li>
+	<li data-id="305">
+		<a href="/pier-380/">Pier 380</a>
 		
 	</li>
 	<li data-id="205">
@@ -932,16 +988,28 @@ SearchSpring.Autocomplete.init({
 		<a href="/plush-juice/">Plush Juice</a>
 		
 	</li>
+	<li data-id="317">
+		<a href="/popd-e-liquid/">POP'D E-liquid</a>
+		
+	</li>
 	<li data-id="115">
 		<a href="/potion-vape/">Potion Vape</a>
+		
+	</li>
+	<li data-id="312">
+		<a href="/pretzel-boyz/">Pretzel Boyz</a>
 		
 	</li>
 	<li data-id="264">
 		<a href="/primitive-vapor-co/">Primitive Vapor Co.</a>
 		
 	</li>
-	<li data-id="253">
-		<a href="/puff-monster/">Puff Monster</a>
+	<li data-id="295">
+		<a href="/pud/">Püd</a>
+		
+	</li>
+	<li data-id="309">
+		<a href="/puddin/">Puddin</a>
 		
 	</li>
 	<li data-id="152">
@@ -952,16 +1020,20 @@ SearchSpring.Autocomplete.init({
 		<a href="/restomods-by-boosted-ejuice/">RestoMods by Boosted Ejuice</a>
 		
 	</li>
+	<li data-id="129">
+		<a href="/rnr-white-formerly-smax/">RnR White (Formerly Smax)</a>
+		
+	</li>
 	<li data-id="122">
 		<a href="/rocket-sheep/">Rocket Sheep</a>
 		
 	</li>
-	<li data-id="221">
-		<a href="/rule-42/">Rule 42</a>
+	<li data-id="318">
+		<a href="/sauced-eliquid/">Sauced Eliquid</a>
 		
 	</li>
-	<li data-id="109">
-		<a href="/seduce-juice/">Seduce Juice</a>
+	<li data-id="289">
+		<a href="/shillelagh/">Shillelagh</a>
 		
 	</li>
 	<li data-id="145">
@@ -976,40 +1048,44 @@ SearchSpring.Autocomplete.init({
 		<a href="/simply-e-juice/">Simply E-Juice</a>
 		
 	</li>
+	<li data-id="279">
+		<a href="/skipfish/">Skipfish</a>
+		
+	</li>
 	<li data-id="251">
 		<a href="/slam-cake-vapes/">Slam Cake Vapes</a>
 		
 	</li>
-	<li data-id="129">
-		<a href="/smax/">Smax</a>
+	<li data-id="288">
+		<a href="/space-donuts/">Space Donuts</a>
 		
 	</li>
 	<li data-id="48">
 		<a href="/space-jam/">Space Jam</a>
 		
 	</li>
-	<li data-id="261">
-		<a href="/split/">SPLIT!</a>
-		
-	</li>
 	<li data-id="244">
 		<a href="/steady-drippin/">Steady Drippin</a>
 		
 	</li>
-	<li data-id="270">
-		<a href="/stuft/">STUFT</a>
+	<li data-id="297">
+		<a href="/straw-bear/">Straw-Bear</a>
 		
 	</li>
 	<li data-id="63">
 		<a href="/suicide-bunny-eliquids/">Suicide Bunny</a>
 		
 	</li>
-	<li data-id="226">
-		<a href="/taffy-man-stick-e-liquid/">Taffy Man Stick-E-Liquid</a>
+	<li data-id="293">
+		<a href="/sweet-works/">Sweet Works</a>
 		
 	</li>
 	<li data-id="256">
 		<a href="/taken-three-captured-by-five-pawns/">Taken Three Captured by Five Pawns</a>
+		
+	</li>
+	<li data-id="292">
+		<a href="/tasty-vapes-cookie-co/">Tasty Vapes Cookie Co.</a>
 		
 	</li>
 	<li data-id="215">
@@ -1020,12 +1096,28 @@ SearchSpring.Autocomplete.init({
 		<a href="/teleos/">Teleos</a>
 		
 	</li>
+	<li data-id="304">
+		<a href="/teleos-pure/">Teleos Pure</a>
+		
+	</li>
 	<li data-id="234">
 		<a href="/thai-tea/">Thai Tea</a>
 		
 	</li>
+	<li data-id="291">
+		<a href="/the-fountain/">The Fountain</a>
+		
+	</li>
+	<li data-id="314">
+		<a href="/the-last-machine/">The Last Machine</a>
+		
+	</li>
 	<li data-id="257">
 		<a href="/the-neighborhood-e-liquid/">The Neighborhood E-liquid</a>
+		
+	</li>
+	<li data-id="306">
+		<a href="/the-original-taco-mang/">The Original Taco Mang</a>
 		
 	</li>
 	<li data-id="190">
@@ -1044,24 +1136,20 @@ SearchSpring.Autocomplete.init({
 		<a href="/the-steam-factory/">The Steam Factory</a>
 		
 	</li>
-	<li data-id="255">
-		<a href="/the-sweet-shoppe/">The Sweet Shoppe</a>
+	<li data-id="296">
+		<a href="/thin-man/">Thin Man</a>
 		
 	</li>
 	<li data-id="179">
 		<a href="/thrst/">THRST</a>
 		
 	</li>
-	<li data-id="247">
-		<a href="/upside-e-liquids/">Upside E-liquids</a>
+	<li data-id="313">
+		<a href="/time-bomb-vapors/">Time Bomb Vapors</a>
 		
 	</li>
 	<li data-id="174">
 		<a href="/traditional-juice/">Traditional Juice</a>
-		
-	</li>
-	<li data-id="235">
-		<a href="/vape-classy/">Vape Classy</a>
 		
 	</li>
 	<li data-id="134">
@@ -1080,20 +1168,16 @@ SearchSpring.Autocomplete.init({
 		<a href="/wapari-drops/">Wapari Drops</a>
 		
 	</li>
-	<li data-id="273">
-		<a href="/we-luv-vaping/">We Luv Vaping</a>
+	<li data-id="315">
+		<a href="/whipped/">Whipped</a>
 		
 	</li>
 	<li data-id="105">
 		<a href="/white-horse/">White Horse</a>
 		
 	</li>
-	<li data-id="210">
-		<a href="/wisdom/">Wisdom</a>
-		
-	</li>
-	<li data-id="135">
-		<a href="/witchers-brew/">Witchers Brew</a>
+	<li data-id="283">
+		<a href="/x-marks-the-spot/">X Marks the Spot</a>
 		
 	</li>
 </ul>
@@ -1231,68 +1315,37 @@ window.sloyalty.customer_email = '';
                         </header>
                         <div class="col-md-12" id="page-content">
                             <!---->
-                            <p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">PRIVACY POLICY</span></p>
+                            <h3 dir="ltr"><strong><span style="font-family: 'book antiqua', palatino; font-size: medium;">PRIVACY POLICY</span></strong></h3>
 <p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">This Privacy Policy governs the manner in which Giant Vapes collects, uses, maintains and discloses information collected from users (each, a "User") of the <a href="http://www.giantvapes.com/">www.giantvapes.com</a> website ("Site"). This privacy policy applies to the Site and all products and services offered by Giant Vapes.</span></p>
 <p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">&nbsp;</span></p>
-<p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">Personal identification information</span></p>
-<p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">&nbsp;</span></p>
-<p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, place an order and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, &nbsp;email address, &nbsp;mailing address, &nbsp;phone number, &nbsp;</span></p>
+<h3 dir="ltr"><strong><span style="font-family: 'book antiqua', palatino; font-size: medium;">Personal Identification Information</span></strong></h3>
+<p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">We may collect personal identification information from Users in a variety of ways, including but not limited to, when Users visit our site, place an order, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, &nbsp;email address, &nbsp;mailing address, &nbsp;phone number. &nbsp;</span></p>
 <p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">Users may, however, visit our Site anonymously.</span></p>
 <p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.</span></p>
-<p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">&nbsp;</span></p>
-<p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">Non-personal identification information</span></p>
-<p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">&nbsp;</span></p>
+<h3 dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;"><strong>Age Verification</strong></span></h3>
+<p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;"><span>In an effort to comply with new federal regulations and state-specific minimum age requirements, Giant Vapes, LLC has implemented a third-party automated age verification system and a manual verification system. Third-party (automated) age verification is performed by Veratad Technologies, LLC. Neither Giant Vapes, LLC nor Veratad Technologies, LLC will store, share, or sell User information collected during automated age verification purposes. Manual verification information provided will not be stored for more than 72 hours in our systems, shared with or sold to any third parties.</span></span></p>
+<h3 dir="ltr"><strong><span style="font-family: 'book antiqua', palatino; font-size: medium;">Non-Personal Identification Information</span></strong></h3>
 <p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.</span></p>
-<p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">&nbsp;</span></p>
-<p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">Web browser cookies</span></p>
-<p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">&nbsp;</span></p>
+<h3 dir="ltr"><strong><span style="font-family: 'book antiqua', palatino; font-size: medium;">Web Browser Cookies</span></strong></h3>
 <p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.</span></p>
-<p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">&nbsp;</span></p>
-<p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">How we use collected information</span></p>
+<h3 dir="ltr"><strong><span style="font-family: 'book antiqua', palatino; font-size: medium;">How we use collected information</span></strong></h3>
 <p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">Giant Vapes collects and uses Users personal information for the following purposes:</span></p>
-<p dir="ltr">&nbsp;</p>
-<ul>
-<ul>
-<li><span style="font-family: 'book antiqua', palatino; font-size: medium; color: #000000;">To improve customer service Your information helps us to more effectively respond to your customer service requests and support needs.</span></li>
-</ul>
-</ul>
-<p><span style="color: #000000;">&nbsp;</span></p>
-<ul>
-<ul>
-<li><span style="font-family: 'book antiqua', palatino; font-size: medium; color: #000000;">To improve our Site We continually strive to improve our website offerings based on the information and feedback we receive from you.</span></li>
-</ul>
-</ul>
-<p><span style="color: #000000;">&nbsp;</span></p>
-<ul>
-<ul>
-<li><span style="font-family: 'book antiqua', palatino; font-size: medium; color: #000000;">To administer a content, promotion, survey or other Site feature To send Users information they agreed to receive about topics we think will be of interest to them.</span></li>
-</ul>
-</ul>
-<p><span style="color: #000000;">&nbsp;</span></p>
-<ul>
-<ul>
-<li><span style="font-family: 'book antiqua', palatino; font-size: medium; color: #000000;">To send periodic emails</span></li>
-</ul>
-</ul>
-<p><span style="color: #000000;">&nbsp;</span></p>
+<p dir="ltr">&nbsp;-&nbsp;<span style="font-family: 'book antiqua', palatino; font-size: medium; color: #000000;">To improve customer service. Your information helps us to more effectively respond to your customer service requests and support needs.</span></p>
+<p><span style="font-family: 'book antiqua', palatino; font-size: medium; color: #000000;">- To improve our Site. We continually strive to improve our website offerings based on the information and feedback we receive from you.</span></p>
+<p><span style="font-family: 'book antiqua', palatino; font-size: medium; color: #000000;">- To administer a content, promotion, survey or other Site feature; to send Users information they agreed to receive about topics we think will be of interest to them.</span></p>
+<p><span style="color: #000000;">&nbsp;-&nbsp;</span><span style="font-family: 'book antiqua', palatino; font-size: medium; color: #000000;">To send periodic emails</span></p>
 <p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.</span></p>
-<p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">&nbsp;</span></p>
-<p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">&nbsp;</span></p>
-<p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">How we protect your information</span></p>
-<p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">&nbsp;</span></p>
+<h3 dir="ltr"><strong><span style="font-family: 'book antiqua', palatino; font-size: medium;">How we protect your information</span></strong></h3>
 <p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.</span></p>
 <p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. </span></p>
 <p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">Compliance with children's online privacy protection act</span></p>
 <p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.</span></p>
-<p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">Changes to this privacy policy</span></p>
-<p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">&nbsp;</span></p>
+<h3 dir="ltr"><strong><span style="font-family: 'book antiqua', palatino; font-size: medium;">Changes to this privacy policy</span></strong></h3>
 <p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">Giant Vapes has the discretion to update this privacy policy at any time. When we do, revise the updated date at the bottom of this page,. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</span></p>
-<p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">Your acceptance of these terms</span></p>
-<p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">&nbsp;</span></p>
+<h3 dir="ltr"><strong><span style="font-family: 'book antiqua', palatino; font-size: medium;">Your acceptance of these terms</span></strong></h3>
 <p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.</span></p>
 <p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">&nbsp;</span></p>
-<p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">Contacting us</span></p>
-<p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">&nbsp;</span></p>
+<h3 dir="ltr"><strong><span style="font-family: 'book antiqua', palatino; font-size: medium;">Contacting us</span></strong></h3>
 <p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:</span></p>
 <p><span style="font-family: 'book antiqua', palatino; font-size: medium;">&nbsp;</span></p>
 <p dir="ltr"><span style="font-family: 'book antiqua', palatino; font-size: medium;">Giant Vapes</span></p>
@@ -1440,7 +1493,14 @@ window.sloyalty.customer_email = '';
                     <li><a href="http://www.giantvapes.com/giants-club/">Giants Club</a></li>
                 </ul>
             </div>
-            <div class="col-md-2-5ths">
+            <div class="col-md-2-5ths" id="associations">
+                <h4>Support and Associations</h4>
+                <i class="sprite icon-casaa"></i>
+                <i class="sprite icon-vape-a-vet"></i>
+                <i class="sprite icon-sfata"></i>
+                <i class="sprite icon-guide-to-vaping"></i>
+            </div>
+            <!--<div class="col-md-2-5ths">
                 <h4>Download Our Mobile App</h4>
                 <p>Shop Giant Vapes on the go with our mobile app!</p>
                 <a href="https://itunes.apple.com/us/app/giant-vapes/id854602107?mt=8" target="blank">
@@ -1449,7 +1509,7 @@ window.sloyalty.customer_email = '';
                 <a href="https://play.google.com/store/apps/details?id=com.apptive.android.apps.giantvapes&amp;hl=en" target="blank">
                     <i class="sprite icon-google-play">Get it on Google Play</i>
                 </a>
-            </div>
+            </div>-->
         </div>
         <div class="row">
             <div class="col-md-5ths">
@@ -1461,7 +1521,7 @@ window.sloyalty.customer_email = '';
             <div class="col-md-5ths">
                 <h4>Customer Service</h4>
                 <h5>Hours</h5>
-                <p>Mon-Fri 9:00 AM - 7:00 PM EST</p>
+                <p>Mon-Fri 9:00 AM - 6:00 PM EST</p>
                 <p>Sat 9:00 AM-2:00 PM EST</p>
                 <!--
                 <h5><a href="/local-pickup/">Local Pickup Options</a></h5>
@@ -1476,13 +1536,7 @@ window.sloyalty.customer_email = '';
                     <!-- end  GeoTrust Smart Icon tag -->
                 </div>
             </div>
-            <div class="col-md-2-5ths" id="associations">
-                <h4>Support and Associations</h4>
-                <i class="sprite icon-casaa"></i>
-                <i class="sprite icon-vape-a-vet"></i>
-                <i class="sprite icon-sfata"></i>
-                <i class="sprite icon-guide-to-vaping"></i>
-            </div>
+            
         </div>
     </div>
 </footer>
@@ -1533,8 +1587,8 @@ window.sloyalty.customer_email = '';
         </div>
     </li>
 </div>
-<script type="text/javascript" src="http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/jquery.easing.1.3.min.js?t=1462174102"></script>
-<script type="text/javascript" src="http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/jquery.banner-rotator.js?t=1462174102"></script>
+<script type="text/javascript" src="http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/jquery.easing.1.3.min.js?t=1476243015"></script>
+<script type="text/javascript" src="http://cdn2.bigcommerce.com/server5500/xv4vhtq/templates/__custom/js/jquery.banner-rotator.js?t=1476243015"></script>
 <script type="text/javascript">
 $(window).load(
     function() {
