@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitetrafficspy.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603225424id_/http%3A//websitetrafficspy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitetrafficspy.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127164646id_/http%3A//websitetrafficspy.com/privacy) for the most accurate reproduction.*
 
 # WebsiteTrafficSpy.com - Privacy Policy
 
