@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the busonlineticket.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611002031id_/http%3A//www.busonlineticket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busonlineticket.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127113445id_/http%3A//www.busonlineticket.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BusOnlineTicket.com
 
