@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartycard.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323025745id_/http%3A//www.gazillion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartycard.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127114900id_/http%3A//www.gazillion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gazillion Entertainment
 
