@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 10dollarsoloads.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504062917id_/http%3A//www.10dollarsoloads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10dollarsoloads.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127133320id_/http%3A//www.10dollarsoloads.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 10DollarSoloAds.com
 
