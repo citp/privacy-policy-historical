@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellobc.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428163130id_/http%3A//www.hellobc.com/british-columbia/about-bc/destination-bc-information/legal-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellobc.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127154538id_/http%3A//www.hellobc.com/british-columbia/about-bc/destination-bc-information/legal-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Legal & Privacy Policy | British Columbia | Destination BC - Official Site
 
