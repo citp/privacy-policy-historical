@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tadpoles.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408092652id_/http%3A//www.tadpoles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tadpoles.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127223933id_/http%3A//www.tadpoles.com/privacy) for the most accurate reproduction.*
 
 # Privacy for Tadpoles
 
@@ -64,5 +64,5 @@ Suite 300
 Bethesda, Maryland 20814  
 USA  
 [hello@tadpoles.com](mailto:hello@tadpoles.com)  
-1-267-719-FROG  
+1-800-637-3652  
 
