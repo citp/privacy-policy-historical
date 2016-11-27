@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the groomandstyle.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623020514id_/http%3A//groomandstyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groomandstyle.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127193049id_/http%3A//groomandstyle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Updated: 6th June, 2014
+Last Updated: 29th June, 2016
 
-We are as concerned about your privacy as you are and we make it our business to be as transparent as possible about how we handle the information we collect which is actually not that much.
+GroomNStyle is as concerned about your privacy as you are, and we make it our business to be as transparent as possible about how we handle the information we collect – which is actually not that much.
 
 What Information Do We Collect and Why Do We Collect It?
 
-Whenever you wish to post a comment on the blog, you will be asked to leave your email address. The only reason we ask you to provide this information is so that we can inform you about your comment when the need arises. In case you leave your name and email address in the opt-in form, you will get a confirmation email from Aweber and when you confirm, your email will be added to my Aweber mailing list. This is so that I can send you important updates about our services. Your contact information will never be given away or sold to anyone for whatever reason.
+Whenever you wish to post a comment on the blog, you will be asked to leave your email address. The only reason this is requested is so that you can be informed about your comment when the need arises. Your contact information will never be given away or sold to anyone for whatever reason.
 
 Copyright
 
-The information on this website cannot be reproduced in any way. This includes, but is not limited to, the review videos hosted on the site. In case any individual or company without written consent from the site, legal action will be taken against them.
+The information on this website cannot be reproduced in any way. This includes, but is not limited to, the review videos hosted on the site. In case any individual or company uses this content without written consent from the site, legal action will be taken against.
 
 Cookies
 
@@ -32,7 +32,7 @@ Your computer is assigned an IP address every time you connect to the internet. 
 
 Sharing and Selling Information
 
-We do not share, lend, sell or lease any of the data that uniquely identifies a person such as email addresses and personal details with any person except to the extent needed to provide the services that you have requested.
+We do not share, lend, sell or lease any of the data that uniquely identifies a person such as email addresses and personal details, with any person except to the extent needed to provide the services that you have requested.
 
 How can you access and correct your information?
 
@@ -50,7 +50,7 @@ Also keep in mind that whenever you use a link to go to another site from our we
 
 Your Consent
 
-By using our site, you are agreeing to the collection and use of our personal information as detailed in this privacy policy. We reserve the right to amend the policy at any time with or without notice.
+By using our site, you are agreeing to the collection and use of your personal information as detailed in this privacy policy. We reserve the right to amend the policy at any time with or without notice.
 
 Our Commitment to Data Security
 
