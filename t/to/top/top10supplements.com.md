@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the top10supplements.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608184913id_/http%3A//top10supplements.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10supplements.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127162212id_/http%3A//top10supplements.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Top10supps
 
-Last updated: Thursday, February 4, 2016
+Last updated: Monday, October 24, 2016
 
 ## Privacy Policy for Top10supplements.com
 
@@ -22,7 +22,7 @@ top10supplments.com uses cookies to store information about visitors’ preferen
 
 → Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to top10supplments.com and other sites on the Internet.
 
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/policies/privacy/ "Opt out of the Dart Cookie")
 
 **Our Advertising Partners**
 
