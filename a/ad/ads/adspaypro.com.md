@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adspaypro.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515222409id_/http%3A//www.adspaypro.com/index.php%3Froute%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adspaypro.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127165518id_/http%3A//adspaypro.com/index.php%3Froute%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
