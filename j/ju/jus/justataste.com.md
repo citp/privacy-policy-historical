@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justataste.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505091747id_/http%3A//www.justataste.com/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justataste.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127021818id_/http%3A//www.justataste.com/online-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Just a Taste
+# Just a Taste | Privacy Policy
 
 This privacy policy sets out how Just a Taste LLC uses and protects any information that you give while using www.justataste.com. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -44,7 +44,6 @@ Just a Taste LLC is a participant in the Amazon Services LLC Associates Program
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
   * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us
 
 
@@ -57,4 +56,13 @@ By using our site, you consent to our privacy policy. For information about opt
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us at kelly@justataste.com.
+If there are any questions regarding this privacy policy you may contact us at info@justataste.com.
+
+  
+
+
+#### Subscribe for updates
+
+* * *
+
+#### FOLLOW FOR INSPIRATION
