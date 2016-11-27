@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gevalia.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319134359id_/http%3A//www.gevalia.com/mPage%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gevalia.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127140857id_/http%3A//www.gevalia.com/mPage%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Gevalia Coffee Privacy Policy
 
@@ -175,7 +175,7 @@ Elm Street, 4th Floor Dallas, TX 75270
 
 1-800-GEVALIA (1-800-438-2542)
 
-8 AM – 10 PM EST Monday through Friday, 9 AM – 6 PM EST Saturday, excluding holidays.
+8 AM – 8 PM EST Monday through Friday.
 
 [E-mail us.](http://kraftfoods.custhelp.com/cgi-bin/kraftfoods.cfg/php/enduser/std_alp.php?p_search_text=)
 
