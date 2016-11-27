@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the knowyourmoney.co.uk privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608004511id_/http%3A//www.knowyourmoney.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowyourmoney.co.uk privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127225812id_/http%3A//www.knowyourmoney.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy
-
-Know Your Money is a trading style of Notice Media Ltd. The content and information on this website is owned by Notice Media Ltd.
 
 As a Know Your Money user we take your privacy very seriously. Under the Data Protection Act 1998 we have an obligation to ensure that all the information held and processed about you complies with the principles of the Act. You are entitled to know how we intend to use any information you provide, to then decide if you want to give it to us.
 
