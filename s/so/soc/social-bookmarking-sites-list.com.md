@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the social-bookmarking-sites-list.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620073219id_/http%3A//www.social-bookmarking-sites-list.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the social-bookmarking-sites-list.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127111243id_/http%3A//www.social-bookmarking-sites-list.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Social Bookmarking Sites List
 
@@ -12,7 +12,7 @@ When visiting social-bookmarking-sites-list.com, the IP address used to access t
 
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet. 
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies. 
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google�s own privacy policies. 
 
 Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, social-bookmarking-sites-list.com has no access or control over these cookies that may be used by third party advertisers. 
 
