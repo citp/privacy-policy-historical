@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehardwarehut.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420072752id_/https%3A//www.thehardwarehut.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehardwarehut.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127145308id_/https%3A//www.thehardwarehut.com/policy.php) for the most accurate reproduction.*
 
 # The Hardware Hut - Contact Us
 
