@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manndola.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419072948id_/http%3A//www.manndola.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manndola.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127085837id_/http%3A//www.manndola.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ We use 'Cookies' to keep track of your current shopping session to personalize y
 
 In short, we always strive to respect the privacy of our customers completely. We use the information we collect on the Store to enhance your overall shopping experience. We do not sell, trade, or rent your personal information to others.We do not hold any of your credit card information. This information is securely collected by our authorized payment gateways. With the industry's most-advanced encryption, fraud prevention and protection policies, our payment gateways are dedicated to keeping your account safe and secure. Once your information reaches our payment gateways it resides on a server that is heavily guarded both physically and electronically.
 
-**Your Privacy - Our Commitment**
+ **Your Privacy - Our Commitment**
 
 Manndola, through its website, is extremely proud of it’s commitment to protect your privacy. We value your trust in us. We will work hard to earn your confidence so that you can enthusiastically use our services and recommend us to friends and family. Please read the following policy to understand how your personal information will be treated as you make full use of our Site.
 
