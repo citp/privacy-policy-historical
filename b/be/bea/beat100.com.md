@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beat100.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629174118id_/https%3A//www.beat100.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beat100.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127133634id_/http%3A//www.beat100.com/privacy-policy) for the most accurate reproduction.*
 
 # Social Network Privacy Policy | BEAT100.com
 
