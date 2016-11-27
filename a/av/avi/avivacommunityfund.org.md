@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avivacommunityfund.org privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401011709id_/https%3A//www.avivacanada.com/sites/default/files/aviva_pdf/en/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avivacommunityfund.org privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127041113id_/https%3A//www.avivacanada.com/sites/default/files/aviva_pdf/en/privacy.pdf) for the most accurate reproduction.*
 
 # important
 
@@ -21,7 +21,7 @@ Customer Access
 Challenging Compliance
 Appendix
 How to contact Aviva’s Privacy Officer
-Updated January 2014
+Updated September 2016
                                         1
 
 
@@ -32,19 +32,19 @@ Policy sets out principles on the collection, protection, use and disclosure of 
 information. All employees are required to comply with the Privacy Policy in the
 execution of their daily activities.
 Personal Information is collected by Aviva and its representatives for the purposes of:
-       communicating with you
-       underwriting and pricing your policy application and any subsequent policy
+      communicating with you
+      underwriting and pricing your policy application and any subsequent policy
        changes or renewals
-       servicing your ongoing insurance needs
-       investigating and settling claims
-       detecting and preventing fraud
-       analyzing business results, compiling statistics, performing administrative tasks
+      servicing your ongoing insurance needs
+      investigating and settling claims
+      detecting and preventing fraud
+      analyzing business results, compiling statistics, performing administrative tasks
        such as accounting and information system activities and conducting marketing
        and underwriting research and modeling
-       reporting to regulatory or industry entities
-       providing you with information on our products and services
-       training employees and monitoring for quality assurance, and;
-       acting as required or authorized by law
+      reporting to regulatory or industry entities
+      providing you with information on our products and services
+      training employees and monitoring for quality assurance, and;
+      acting as required or authorized by law
 At Aviva, we identify to our customers the rationale for collecting the personal
 information at or prior to its actual collection. Our consumers in turn must expressly
 consent to its collection, or consent may be implied by their actions. It’s our promise to
@@ -91,30 +91,30 @@ identified in Principle Two of this Policy include an individual's address, tele
 number, date of birth, family status, marital status, occupation, medical and health
 records, assets, liabilities, income, credit rating, credit and payment records, an
 individual's previous insurance experience, including claims history, individual's driving
-record, policy number and vehicle identification number.
+record, policy number and vehicle identity number.
 However, Personal Information does not include certain prescribed sources of public
 information such as:
                                                                                           3
 
 
-         Personal Information consisting of the name, address and telephone number of a
+        Personal Information consisting of the name, address and telephone number of a
          subscriber that appears in a telephone directory that is available to the public,
          where the subscriber can refuse to have the Personal Information appear in the
          directory;
-         Personal Information including the name, title, address and telephone number of
+        Personal Information including the name, title, address and telephone number of
          the individual that appears in a professional or business directory, listing or
          notice, that is available to the public, where the collection use and disclosure of
          the Personal Information relates directly to the purpose for which the information
          appears in the directory, listing or notice;
-         Personal Information that appears in a registry collected under statutory authority
+        Personal Information that appears in a registry collected under statutory authority
          and to which a right of public access is authorized by law, where the collection,
          use and disclosure of the Personal Information relate directly to the purpose for
          which the information appears in the registry;
-         Personal Information that appears in a record or document of a judicial or quasi-
+        Personal Information that appears in a record or document of a judicial or quasi-
          judicial body, that is available to the public, where the collection and disclosure of
          the Personal Information relates directly to the purpose for which the information
          appears in the record or document; and
-         Personal Information that appears in a publication, including a magazine, book or
+        Personal Information that appears in a publication, including a magazine, book or
          newspaper, in printed or electronic form, that is available to the public, where the
          individual has provided the information.
 Aviva’s Privacy Policy: the ten principles
@@ -122,39 +122,39 @@ The objective of our Privacy Policy is to ensure the protection of Aviva custome
 Personal Information. This includes Personal Information residing within Aviva and
 Personal Information provided to other third parties in the conduct of commercial
 activities. To attain this goal, Aviva complies with the following principles:
-         Aviva is responsible for Personal Information under its possession, custody, or
+        Aviva is responsible for Personal Information under its possession, custody, or
          control and a designated Privacy Officer is accountable for Aviva's compliance to
          the Privacy Policy and Procedures. [Principle One]
-         Aviva shall inform individuals of the purposes for which Personal Information is
+        Aviva shall inform individuals of the purposes for which Personal Information is
          collected at or before the time the information is collected. [Principle Two]
-         Aviva requires the knowledge and consent of the individual for the collection,
+        Aviva requires the knowledge and consent of the individual for the collection,
          use, or disclosure of Personal Information, except in certain circumstances where
          consent is not required. [Principle Three]
-         Aviva shall only collect Personal Information that is necessary for the identified
+        Aviva shall only collect Personal Information that is necessary for the identified
          purposes and such information shall be collected by fair and lawful means.
          [Principle Four]
-         Aviva shall not use or disclose Personal Information for purposes other than
+        Aviva shall not use or disclose Personal Information for purposes other than
          those for which it was collected, except with the consent of the individual or as
                                                                                               4
 
 
         required or permitted by law. Aviva shall only retain Personal Information as long
         as necessary for the fulfillment of such purposes. [Principle Five]
-        Aviva shall ensure that Personal Information is as accurate, complete, and up-to-
+       Aviva shall ensure that Personal Information is as accurate, complete, and up-to-
         date as is deemed necessary for the purposes for which it is to be used.
         [Principle Six]
-        Aviva shall protect Personal Information by establishing and operating security
+       Aviva shall protect Personal Information by establishing and operating security
         safeguards appropriate to the sensitivity of the information, which is held, and to
         prevent any unauthorized activity relative to the information. [Principle Seven]
-        Aviva shall make available to individuals upon receipt of a written request,
+       Aviva shall make available to individuals upon receipt of a written request,
         specific information about its policies and practices relating to the management
         of Personal Information and its complaints handling process. [Principle Eight]
-        Aviva shall, upon the receipt of a written request from individuals, inform them of
+       Aviva shall, upon the receipt of a written request from individuals, inform them of
         the existence, use, and disclosure of any Personal Information about them, and
         they shall be given access to such information except as may be limited by law.
         Aviva shall amend Personal Information as deemed appropriate to ensure
         continued accuracy. [Principle Nine]
-        Aviva shall provide a means for individuals to challenge compliance with
+       Aviva shall provide a means for individuals to challenge compliance with
         the above with Aviva’s Privacy Officer. [Principle Ten].
 PRINCIPLE ONE: Accountability
 Aviva is responsible for Personal Information under its possession, custody or
@@ -177,19 +177,19 @@ collected at or before the time the information is collected.
 Aviva shall collect your Personal Information from, but not limited to, government
 agencies, brokers, agents, insurers, other insurance reporting or data sharing agencies,
 credit bureaus and directly from you to:
-        Communicate with you
-        Underwrite and price your policy application and any subsequent policy changes
+       Communicate with you
+       Underwrite and price your policy application and any subsequent policy changes
         or renewals
-        Service your ongoing insurance needs
-        Investigate and settle claims
-        Detect and prevent fraud
-        Analyze business results, compile statistics, perform administrative tasks such as
+       Service your ongoing insurance needs
+       Investigate and settle claims
+       Detect and prevent fraud
+       Analyze business results, compile statistics, perform administrative tasks such as
         accounting and information system activities and conduct marketing and
         underwriting research and modeling
-        Report to regulatory or industry entities
-        Provide you with information on our products and services
-        Train employees and monitor for quality assurance
-        Act as required or as authorized by law
+       Report to regulatory or industry entities
+       Provide you with information on our products and services
+       Train employees and monitor for quality assurance
+       Act as required or as authorized by law
 If we require your Personal Information for any purpose other than as identified above,
 Aviva will seek your consent prior to using it.
 Where permitted by law, your consent may be obtained to collect and use your credit
@@ -244,22 +244,22 @@ applicable, the approval of representation by the applicable individual.
 When consent is not required:
 Knowledge and consent are not required in many circumstances under the law for the
 collection, use and disclosure of Personal Information, such as:
-        Where it would compromise the availability or accuracy of the Personal
+       Where it would compromise the availability or accuracy of the Personal
         Information relating to the breach of an agreement or the contravention of any
         law, including the detection and prevention of fraud;
-        For compliance with subpoenas, search warrants, and other court or government
+       For compliance with subpoenas, search warrants, and other court or government
         orders;
-        When Personal Information is transferred to lawyers retained by Aviva pursuant
+       When Personal Information is transferred to lawyers retained by Aviva pursuant
         to the contractual obligation in the insurance policy to defend legal actions
         against the insured;
-        When, under exceptional circumstances, Aviva may, under a public requirement,
+       When, under exceptional circumstances, Aviva may, under a public requirement,
         disclose Personal Information to appropriate authorities in matters of significant
         public interest;
-        Where the individual is a minor, seriously ill, or mentally incapacitated, and
+       Where the individual is a minor, seriously ill, or mentally incapacitated, and
         seeking consent is impossible or inappropriate;
-        Where the Personal Information is publicly available and is specified by the
+       Where the Personal Information is publicly available and is specified by the
         regulations; and
-        When required by law.
+       When required by law.
 Withdrawing your consent:
 Subject to certain legal and contractual restrictions and reasonable notice, you may
 refuse or withdraw consent to the collection, use or disclosure of Personal Information at
@@ -286,14 +286,14 @@ General
 There are situations specific to the Property and Casualty insurance business where we
 will use, disclose and retain Personal Information as dictated by prudent insurance
 practices. Examples of these situations include:
-        Risk sharing: transfer of Personal Information to other insurers and/or to
+       Risk sharing: transfer of Personal Information to other insurers and/or to
         reinsurers;
-        Information services: disclosure for underwriting, claims, classification and rating
+       Information services: disclosure for underwriting, claims, classification and rating
         purposes;
-        Insurance services: disclosures to providers of goods and services to Aviva such
+       Insurance services: disclosures to providers of goods and services to Aviva such
         as insurance reporting or data sharing agencies, loss control managers, and
         claims adjusters; and
-        Insurance intermediaries: brokers and agents.
+       Insurance intermediaries: brokers and agents.
 We do not use or disclose your Personal Information for purposes not identified in
 Principle Two unless we have your consent or it is required by law. We will keep your
 information only for as long as it is needed.
@@ -368,29 +368,29 @@ Methods of Safeguarding
 The nature of the safeguards will vary depending on sensitivity, amount, distribution,
 format and method of storage of the Personal Information. In general, the following are
 observed:
-        Personal Information is not left unattended out in the open;
-        Access to Personal Information is only permitted when a legitimate business
+       Personal Information is not left unattended out in the open;
+       Access to Personal Information is only permitted when a legitimate business
         need exists;
-        Personal Information is not photocopied, modified, disclosed, or destroyed
+       Personal Information is not photocopied, modified, disclosed, or destroyed
         without the specific consent and order of the responsible employee;
-        When information is supplied to a third party, only necessary information is
+       When information is supplied to a third party, only necessary information is
         released from a sensitive file, rather than the complete file;
-        No unescorted individual is given access to floors where sensitive information is
+       No unescorted individual is given access to floors where sensitive information is
         retained;
-        Passwords are changed on a periodic basis, and are not shared under any
+       Passwords are changed on a periodic basis, and are not shared under any
         circumstances;
-        Sensitive files are segregated and only authorized individuals allowed access;
-        All mail received after hours is secured in the mail and supply area;
-        Information of a sensitive nature is transferred to third parties by secure means;
+       Sensitive files are segregated and only authorized individuals allowed access;
+       All mail received after hours is secured in the mail and supply area;
+       Information of a sensitive nature is transferred to third parties by secure means;
         and
-        Offsite information is stored in a secure location.
+       Offsite information is stored in a secure location.
 Aviva employees are required to be diligent about safeguarding Personal Information.
 We take particular care with sensitive Personal Information such as:
-        Medical/hospital records;
-        Employment records;
-        Income tax returns;
-        Criminal records; and
-        Financial records.
+       Medical/hospital records;
+       Employment records;
+       Income tax returns;
+       Criminal records; and
+       Financial records.
 Information Received from Third Parties
 Aviva employees adhere to the same diligence for Personal Information received from
 outside Aviva and adhere to any higher standard of third parties if so contracted.
@@ -441,11 +441,11 @@ Examples of acceptable reasons for non-disclosure include:
                                                                                           12
 
 
-         Prohibitive cost
-         Personal Information that contains information about other individuals that cannot
+        Prohibitive cost
+        Personal Information that contains information about other individuals that cannot
          be severed
-         Legal and security litigation, or commercial proprietary reasons
-         Disclosure could reasonably be expected to threaten the life or security of
+        Legal and security litigation, or commercial proprietary reasons
+        Disclosure could reasonably be expected to threaten the life or security of
          another individual
 Amending Details
 If you successfully demonstrate the inaccuracy or incompleteness of Personal
@@ -487,10 +487,10 @@ attempts to resolve it. If necessary, we modify our policies and procedures to e
 other individuals will not experience the same concerns.
 The investigation will involve a review of the facts in order to understand your complaint
 by:
-        Referring to the individual file (information both in the database and on paper);
-        Referencing the Privacy Policy;
-        Discussion with staff member(s) who were dealing with the individual/file; and
-        Any other sources or documentation that may provide relevant information.
+       Referring to the individual file (information both in the database and on paper);
+       Referencing the Privacy Policy;
+       Discussion with staff member(s) who were dealing with the individual/file; and
+       Any other sources or documentation that may provide relevant information.
 Acknowledging and Responding
 If the inquiry/complaint cannot be resolved immediately, we will advise you that your
 inquiry/complaint is being reviewed and when you can expect an answer. If you have
@@ -513,7 +513,7 @@ Privacy Policy as a result, is not necessarily a static document. Aviva, therefo
 reserves the right to alter the Privacy Policy from time to time. Such changes will be
 effective 10 days following the posting of the change on this web site. For the most up to
 date information, please revisit this web site or contact our Privacy Officer.
-Date policy posted: January 2014
+Date policy posted: September 2016
                                                                                           14
 
 
@@ -522,21 +522,22 @@ How to Contact Aviva’s Privacy Officer
 In writing:              Privacy Officer
                          Aviva Canada Inc.
                          2206 Eglinton Avenue East
-                         Scarborough, ON, M1L 4S8
+                         Scarborough, ON M1L 4S8
 By Phone/Fax:            Tel: 1-800-387-4518 x54171 or 416-701-4171
                          Fax: 416-755-4075
-By Email:                CAPrivacyOfficer@avivacanada.com
+By Email:                CAPrivacyOfficer@aviva.com
 The member companies of Aviva Canada Inc.,
 include:
-        Aviva Insurance Company of Canada
-        Traders General Insurance Company
-        Scottish & York Insurance Co. Limited
-        S&Y Insurance Company
-        Elite Insurance Company
-        Pilot Insurance Company
-        OIS Ontario Insurance Service Limited
-        Services d’Assurance Youville Inc.
-        Insurance Agent Service Inc.
-        Aviva Warranty Services Inc.
-        Bay-Mill Specialty Insurance Adjusters Inc.
+           Aviva General Insurance Company
+           Aviva Insurance Company of Canada
+           Aviva Warranty Services Inc.
+           Bay-Mill Specialty Insurance Adjusters Inc.
+           Elite Insurance Company
+           Insurance Agent Service Inc.
+           OIS Ontario Insurance Service Limited
+           Pilot Insurance Company
+           S&Y Insurance Company
+           Scottish & York Insurance Co. Limited
+           Services d'Assurance Youville Inc.
+           Traders General Insurance Company
                                                                     15
