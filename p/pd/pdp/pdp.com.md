@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pdp.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418185842id_/http%3A//www.pdp.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdp.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127150637id_/http%3A//pdp.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Performance Designed Products
+# Privacy Policy
 
 PDP understands that you care how information about you is used and shared, and that you want us to do so carefully and sensibly. This notice describes PDP’s privacy policy. This policy is shared across any website run as part of the PDP Network including [www.pdp.com](http://www.pdp.com/) and any future websites PDP adds to the PDP Network.
 
