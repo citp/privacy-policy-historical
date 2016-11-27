@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efset.org privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314234307id_/http%3A//www.ef.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efset.org privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127175838id_/http%3A//www.ef.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,7 +50,7 @@ We and our service providers may collect Personal Information in a variety of wa
   * **From Other Sources:** We may receive your Personal Information from other sources, such as public databases; joint marketing partners; social media platforms; from people with whom you are friends or otherwise connected on social media platforms, as well as from other third parties. For example, if you elect to connect your social media account to your Website account, certain Personal Information from your social media account will be shared with us, which may include Personal Information that is part of your profile or your friends’ profiles.
   * **Through your browser or device:** Certain information is collected by most browsers or automatically through your device. We use this information for statistical purposes as well as to ensure that the Sites function properly.
   * **Through server log files:** Your “IP Address” is a number that is automatically assigned to the computer or device that you are using by your Internet Service Provider (ISP). An IP Address is identified and logged automatically in our server log files whenever a user visits the Sites, along with the time of the visit and the page(s) that were visited.
-  * **Using cookies:** Cookies allow a web server to transfer data to a computer or device for recordkeeping and other purposes. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies. To learn more about cookies, please visit the [Cookies Information page provided by the Information Commissioner's Office (ICO)](https://ico.org.uk/for-the-public/online/cookies/). For detailed information about the cookies we use and the purposes for which we use them, please see our [cookies policy](https://web.archive.org/privacy-policy/cookie-policy/).
+  * **Using cookies:** Cookies allow a web server to transfer data to a computer or device for recordkeeping and other purposes. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies. To learn more about cookies, please visit the [Cookies Information page provided by the Information Commissioner's Office (ICO)](https://ico.org.uk/for-the-public/online/cookies/). For detailed information about the cookies we use and the purposes for which we use them, please see our [cookies policy](https://web.archive.org/legal/cookie-policy/).
   * **Through your use of an App.** When you download and use an App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.
   * **From you:** Information such as date of birth, gender and zip code, as well as other information, such as your preferred means of communication, may be collected when you voluntarily provide this information.
   * **Physical Location:** We may collect the physical location of your device.
@@ -82,20 +82,20 @@ We may use Personal Information:
 
 We use reasonable organizational, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure.
 
-If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the [“Contact Us” section form](https://web.archive.org/privacy-policy/contact-us/).
+If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the [“Contact Us” section form](https://web.archive.org/legal/contact-us/).
 
 ### 4\. Access, Modification and Choices
 
 We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes.
 
   * If at any time you wish to stop receiving marketing communications from us, the easiest way to do so would be to use the unsubscribe feature in the marketing communication you received. You may also let us know by emailing, calling or writing to us using the contact information listed below in the “Contact Us” section. In your request, please indicate that you wish to stop receiving marketing communications from us.
-  * In addition, we will not disclose your Personal Information to third parties, including our subsidiaries, for the third party's direct marketing purposes if we have received and processed a request from you that your Personal Information should not be shared with third parties for that purpose. If you would like to submit such a request, please just let us know by using the [“Contact Us” form](https://web.archive.org/privacy-policy/contact-us/). Please clearly indicate that you request that we do not disclose your Personal Information to our subsidiaries and/or other third parties for their direct marketing purposes.
+  * In addition, we will not disclose your Personal Information to third parties, including our subsidiaries, for the third party's direct marketing purposes if we have received and processed a request from you that your Personal Information should not be shared with third parties for that purpose. If you would like to submit such a request, please just let us know by using the [“Contact Us” form](https://web.archive.org/legal/contact-us/). Please clearly indicate that you request that we do not disclose your Personal Information to our subsidiaries and/or other third parties for their direct marketing purposes.
 
 
 
 Please note that changes may not be effective immediately. We will endeavour to comply with your request(s) as soon as reasonably practicable and in no event later than 30 days after we received your request. Please also note that if you do opt-out of receiving marketing-related messages from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
 
-  * To review, correct, update, suppress, delete or otherwise limit our use of your Personal Information that has been previously provided to us, please use the [“Contact Us” form](https://web.archive.org/privacy-policy/contact-us/) and clearly describe your request. In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information.
+  * To review, correct, update, suppress, delete or otherwise limit our use of your Personal Information that has been previously provided to us, please use the [“Contact Us” form](https://web.archive.org/legal/contact-us/) and clearly describe your request. In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information.
 
 
 
@@ -138,6 +138,4 @@ Please do not hesitate to contact us if you have any questions, comments or conc
 
 
 
-If you have any questions or complaints about this Privacy Policy, please contact us by clicking [here](https://web.archive.org/privacy-policy/contact-us/). We will investigate any complaint, and notify you of our decision in relation to the complaint, as soon as practicable after it is received.
-
-If we are unable to satisfactorily resolve your concerns about our handling of your personal information, you can contact the Information Commissioner's Office (ICO) either through their website: <http://ico.org.uk/> or through the ICO telephone helpline: 0303 123 1113.
+If you have any questions or complaints about this Privacy Policy, please contact us by clicking [here](https://web.archive.org/legal/contact-us/). We will investigate any complaint, and notify you of our decision in relation to the complaint, as soon as practicable after it is received.
