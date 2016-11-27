@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the uea.ac.uk privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629230933id_/https%3A//www.uea.ac.uk/about/legalstatements%23cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uea.ac.uk privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127071150id_/https%3A//www.uea.ac.uk/about/legalstatements%23cookies) for the most accurate reproduction.*
 
 # Legal Statements - UEA
 
-## **UEA Privacy Statement**
+## UEA Privacy Statement
 
-### **General conditions**
+### General conditions
 
 The University of East Anglia recognises that personal privacy is an important issue, and our website practices are in compliance with all relevant UK legislation.
 
@@ -16,9 +16,9 @@ Where personal information is captured (e.g. through web forms for feedback, req
 
 This privacy policy does not cover the links within this site to other non-University sites nor the content of external internet sites.
 
-### **What data is collected?**
+### What data is collected?
 
-#### **Log files**
+#### Log files
 
 In common with most web sites, this site automatically logs certain information about every request made of it. The University's website does not automatically capture or store personal data from visitors to the site, other than to log your IP address and session information. Session information includes the time and duration of your visit to the site, the files requested, and the browser used.
 
@@ -26,11 +26,11 @@ This information will only be accessed by authorised persons of the University o
 
 Relevant subsets of this data may be passed to computer security teams as part of investigations of computer misuse involving this site or other computing equipment in the University. Data may be passed to the administrators of other computer systems to enable investigation of problems accessing this site or of system misconfigurations. Data may incidentally be included in information passed to contractors and computer maintenance organisations working for the University, in which case it will be covered by appropriate non-disclosure agreements.
 
-#### **Personal data in forms**
+#### Personal data in forms
 
 A number of fill-in forms are provided on this site. The pages containing these forms include information on how data submitted on them will be processed and used, and such information is held by the University in accordance with the provisions of the Data Protection Act 1998. The information collected will only be used for the stated purpose, and, by supplying such information you consent to the University storing the information for that purpose.
 
-## **Cookies**
+## Cookies
 
 When you visit the Website, the University may send your computer a "cookie", a small file that resides on your computer's hard drive. Cookies are text files, which identify a user's computer to our server but in no way gives the University access to your computer or any information about you, other than the data you choose to share. Cookies are sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies in themselves identify the individual user, just the computer used. You can set your browser not to accept cookies, although you may not be able to access all of the features on the Website.
 
@@ -57,15 +57,15 @@ You may refuse or control the use of cookies by changing the settings on your br
 
 For your information, cookies employed by UEA include the use of Google Analytics and SiteImprove cookies to provide UEA management information, and other session management cookies to enhance user functionality. These are used on virtually all official UEA web pages. The University of East Anglia has a relationship with Hobsons Plc (Hobsons) and the URLs starting http://uea.hobsons.co.uk and https://app.hobsons.co.uk are hosted by Hobsons as part of this relationship. A list of the Cookies used by Hobsons for the processing of information on these pages can be found here: <http://www.hobsons.com/europe/cookies.php>. We do not employ any cookies to offer services or provide directed advertising. 
 
-### **Security**
+### Security
 
 The University of East Anglia is committed to the security of our users' personal information and we have security procedures in place to protect against loss, misuse or alteration of personal information under the University's control.
 
-### **Access to Data**
+### Access to Data
 
 Should you wish to see any personal data relating to you that may have been collected via this website, please complete a ‘Subject Access Request' form available from [this page](https://portal.uea.ac.uk/information-services/strategy-planning-and-compliance/regulations-and-policies/information-regulations-and-policies/data-protection/requests-for-personal-information), the University's Information Policy and Compliance Manager, University of East Anglia, Norwich, NR4 7TJ (phone 01603 593523/2431, email [dataprotection@uea.ac.uk](mailto:dataprotection@uea.ac.uk)), or from University Reception. Please return the completed form to the University Information Policy and Compliance Manager.
 
-## **UEA Disclaimer Statement**
+## UEA Disclaimer Statement
 
 The University of East Anglia makes all reasonable efforts to ensure that the information contained on the University's website is accurate at the time of creation and/or modification of the website. However, the University cannot guarantee the completeness or accuracy of information contained on the website and shall not be responsible for any errors, omissions, or inaccuracies and accepts no liability whatsoever for any loss or damage howsoever arising. The University reserves the right to make changes to or take down the web site or remove or alter any content at any time without notice.
 
@@ -77,7 +77,7 @@ Whilst every effort is made to ensure that content is free from viruses and that
 
 The University welcomes comments and suggestions on its website and would also welcome reports of any inaccuracies in the website - to do so, please e-mail [webmaster@uea.ac.uk](mailto:webmaster@uea.ac.uk).
 
-## **UEA Copyright Statement**
+## UEA Copyright Statement
 
 Unless explicitly stated to the contrary, all rights, including copyright, in the content of these web pages (including, but not limited to, the University logo, and all text, layout, graphics, icons and artwork) are owned or controlled for these purposes by the University of East Anglia irrespective of whether a copyright symbol and/or statement is present.
 
