@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the federation.edu.au privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611224937id_/http%3A//federation.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federation.edu.au privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127081150id_/http%3A//federation.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Federation University Australia
 
