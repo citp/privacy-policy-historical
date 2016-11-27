@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cygnet-infotech.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414121916id_/http%3A//www.cygnet-infotech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cygnet-infotech.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127031650id_/http%3A//www.cygnet-infotech.com/privacy-policy) for the most accurate reproduction.*
 
 # Cygnet Privacy Policy
 
