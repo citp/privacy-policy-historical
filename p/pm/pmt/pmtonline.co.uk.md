@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pmtonline.co.uk privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602062213id_/http%3A//www.pmtonline.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmtonline.co.uk privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127140824id_/http%3A//www.pmtonline.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy PMT Online
 
 This privacy policy sets out how PMT Online uses and protects any information that you give PMT Online when you use this website. PMT Online is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. PMT Online may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
