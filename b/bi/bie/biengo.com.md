@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biengo.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621005157id_/http%3A//www.biengo.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biengo.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127123150id_/http%3A//www.biengo.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # Toronto, Canada - Biengo.com Online Ads
 
