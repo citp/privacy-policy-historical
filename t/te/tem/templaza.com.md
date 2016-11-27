@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templaza.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329213841id_/https%3A//www.templaza.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templaza.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127190256id_/https%3A//www.templaza.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,4 +36,4 @@ Should the need arise, you would contact us at: [info@templaza.com](mailto:info@
 
 Share It!
 
-[ ](http://pinterest.com/pin/create/button/?url=http://www.templaza.com/privacy-policy.html)
+[ ](http://pinterest.com/pin/create/button/?url=https://www.tzportfolio.com/privacy-policy.html)
