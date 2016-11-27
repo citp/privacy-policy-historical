@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contactus.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608013253id_/http%3A//www.contactus.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactus.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127204023id_/http%3A//www.contactus.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | ContactUs.com
 
@@ -104,7 +104,3 @@ We may change this Privacy Policy pursuant to the procedures outlined in our [T
 ### WHO CAN I CONTACT ABOUT THIS PRIVACY POLICY?
 
 To submit an inquiry about our Privacy Policy, please contact our support department.
-
-#### Signup to ContactUs.com.
-
-Basic features are forever free. Buy premium features to grow your customers
