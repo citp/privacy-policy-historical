@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the spotfav.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610194149id_/http%3A//www.spotfav.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotfav.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127131504id_/http%3A//www.spotfav.com/privacy) for the most accurate reproduction.*
 
-# Spotfav, check before you go
+# Spotfav
 
 ##  OUR PROMISE 
 
 Spotfav Reporting Technologies S.L. (Spotfav) respects your privacy and promises to earn and keep your trust. At Spotfav, we understand the importance of privacy, and we want you to be as comfortable as possible visiting our site and using its services. All information about you is kept confidential and will not be used in ways that you have not consented, and we will not sell or disclose any information that identifies you to a third party without your explicit approval. We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to verify or enforce compliance with the policies governing our sites and applicable laws or as otherwise required or permitted by law or consistent with legal requirements. 
 
 Questions regarding this policy and our practice should be directed to Spotfav, by e-mail to [webmaster@spotfav.com](mailto:webmaster@spotfav.com)
-
-  
-  
-
 
 ###  Privacy Policy 
 
