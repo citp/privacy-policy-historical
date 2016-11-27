@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalbhakti.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121005530id_/http%3A//www.totalbhakti.com/staticPage.php%3Fpg%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalbhakti.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127140819id_/http%3A//www.totalbhakti.com/staticPage.php%3Fpg%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Totalbhakti.com a place for all spiritual person group togather with Online Bhajan Guru Videos Ramayana, Gita and Yatra Darshan Spiritual Person video yoga videos, meditation
 
