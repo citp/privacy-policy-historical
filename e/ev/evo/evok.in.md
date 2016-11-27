@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evok.in privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630082005id_/http%3A//www.evok.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evok.in privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127112516id_/http%3A//www.evok.in/pages/Privacy-policy/pgid-1155238.aspx) for the most accurate reproduction.*
 
-# Privacy Policy Evok.in
+# Privacy policy
 
 #### PRIVACY POLICY:
 
@@ -96,4 +96,4 @@ Use of evok.in is available only to persons who can form a legally binding contr
 
 **Policy update:** Evok.in reserves the right to change/update this policy to include/exclude clauses anytime by placing a prominent notice on our website. Such changes will be effective immediately upon posting to the website. Evok.in does not bear any responsibility for updating users on the same.
 
-**Contact us:** Please do not hesitate to contact us regarding any matter relating to this privacy policy at [<onlinesupport@evok.in>](mailto:onlinesupport@evok.in)
+**Contact us:** Please do not hesitate to contact us regarding any matter relating to this privacy policy at [](mailto:onlinesupport@evok.in)
