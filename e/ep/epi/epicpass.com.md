@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epicpass.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526110038id_/http%3A//www.snow.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicpass.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127205628id_/http%3A//www.snow.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Snow.com
 
