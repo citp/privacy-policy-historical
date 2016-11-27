@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vtechkids.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315002157id_/https%3A//www.vtechkids.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtechkids.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127054900id_/https%3A//www.vtechkids.com/privacy_policy) for the most accurate reproduction.*
 
 # VTech Privacy Policy | VTech Terms and Conditions
 
