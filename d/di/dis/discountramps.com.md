@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the discountramps.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620130506id_/http%3A//www.discountramps.com/privacypolicy/a/A1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountramps.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127214445id_/http%3A//www.discountramps.com/privacypolicy/a/A1) for the most accurate reproduction.*
 
 # Discount Ramps.com - Privacy Policy
-
-  * [Home](http://www.discountramps.com/)
-  * Privacy Policy Article Page
-
-
 
 **DiscountRamps.com LLC** is committed to protecting your privacy.  
 This Statement of Privacy applies to DiscountRamps.com LLC Web site and governs data collection and usage at all DiscountRamps.com LLC sites and services; it does not apply to other online or offline sites, products or services. Please read the DiscountRamps.com LLC Statement of Privacy. DiscountRamps.com LLC is a general audience web site, intended for users of all ages. Personal information of all users is collected, used and disclosed as described in this Statement of Privacy. DiscountRamps.com LLC is a general audience web site, intended for users of all ages. Personal information of all users is collected, used and disclosed as described in this Statement of Privacy.
