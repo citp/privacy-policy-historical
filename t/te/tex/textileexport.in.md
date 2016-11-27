@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textileexport.in privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619191104id_/http%3A//www.textileexport.in/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textileexport.in privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127075051id_/http%3A//www.textileexport.in/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Wholesale Womens Clothings Supplier in Surat Online Shopping
 
