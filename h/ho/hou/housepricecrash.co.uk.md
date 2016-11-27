@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the housepricecrash.co.uk privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611121408id_/http%3A//www.housepricecrash.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housepricecrash.co.uk privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127121626id_/http%3A//www.housepricecrash.co.uk/privacy.php) for the most accurate reproduction.*
 
 # > Privacy policy - HousePriceCrash.co.uk
 
@@ -39,4 +39,4 @@ housepricecrash.co.uk may be required to revise this Privacy Policy in the futur
 
 ## Contacting housepricecrash.co.uk
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you may [contact us.](https://web.archive.org/web/20160611121408id_/http%3A//www.housepricecrash.co.uk/contact-us.php)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you may [contact us.](https://web.archive.org/web/20161127121626id_/http%3A//www.housepricecrash.co.uk/contact-us.php)
