@@ -1,76 +1,43 @@
-> *The following text is extracted and transformed from the bcwnyc.com privacy policy that was archived on 2014-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140317093642id_/http%3A//www.bcwnyc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcwnyc.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127080618id_/http%3A//www.bcwnyc.com/your-privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Broadway Chiropractic NYC
+# Privacy Policy: Chiropractors West Manhattan / Midtown NYC New York, NY: Broadway Chiropractic and Wellness
 
-This practice is required, by law, to maintain the privacy and confidentiality of your protected health information and to provide our patients with notice of our legal duties and privacy practices with respect to your protected health information.
+#### PRIVACY STATEMENT
 
-### Disclosure of Your Health Care Information
+We are committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to our Practice's Web site and governs data collection and usage. By using this website, you consent to the data practices described in this statement.
 
-**Treatment**  
-We may disclose your health care information to other healthcare professionals within our practice for the purpose of treatment, payment or healthcare operations. (example)
+#### Collection of your Personal Information
 
-> “On occasion, it may be necessary to seek consultation regarding your condition from other health care providers associated with this practice.”
-> 
-> “It is our policy to provide a substitute health care provider, authorized by This practice to provide assessment and/or treatment to our patients, without advanced notice, in the event of your primary health care provider’s absence due to vacation, sickness, or other emergency situation.”
+This Practice collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. This Practice also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-**Payment**  
-We may disclose your health information to your insurance provider for the purpose of payment or health care operations.
+There is also information about your computer hardware and software that is automatically collected by this website. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of this Web site.
 
-**Workers’ Compensation**  
-We may disclose your health information as necessary to comply with State Workers’ Compensation Laws.
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through public message boards, this information may be collected and used by others.
 
-**Emergencies**  
-We may disclose your health information to notify or assist in notifying a family member, or another person responsible for your care about your medical condition or in the event of an emergency or of your death.
+This Practice encourages you to review the privacy statements of Web sites you choose to link to from the website so that you can understand how those Web sites collect, use and share your information. This Practice is not responsible for the privacy statements or other content on any other Web sites.
 
-**Public Health**  
-As required by law, we may disclose your health information to public health authorities for purposes related to: preventing or controlling disease, injury or disability, reporting child abuse or neglect, reporting domestic violence, reporting to the Food and Drug Administration problems with products and reactions to medications, and reporting disease or infection exposure.
+#### Use of your Personal Information
 
-**Judicial and Administrative Proceedings**  
-We may disclose your health information in the course of any administrative or judicial proceeding.
+This Practice collects and uses your personal information to operate the Web site and deliver the services you have requested. This Practice also uses your personally identifiable information to inform you of other products or services available from this Practice and its affiliates. This Practice may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-**Law Enforcement**  
-We may disclose your health information to a law enforcement official for purposes such as identifying or locating a suspect, fugitive, material witness or missing person, complying with a court order or subpoena, and other law enforcement purposes.
+This Practice does not sell, rent or lease its customer lists to third parties. This Practice may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services and they are required to maintain the confidentiality of your information.
 
-**Deceased Persons**  
-We may disclose your health information to coroners or medical examiners.
+This Practice does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-**Organ Donation**  
-We may disclose your health information to organizations involved in procuring, banking, or transplanting organs and tissues.
+This Practice will disclose your personal information, without notice, only if required to do so by law.
 
-**Research**  
-We may disclose your health information to researchers conducting research that has been approved by an Institutional Review Board.
+#### Use of Cookies
 
-**Public Safety**  
-It may be necessary to disclose your health information to appropriate persons in order to prevent or lessen a serious and imminent threat to the health or safety of a particular person or to the general public.
+The Web site uses "cookies" to help this Practice personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-**Specialized Government Agencies**  
-We may disclose your health information for military, national security, prisoner and government benefits purposes.
+#### Security of your Personal Information
 
-**Change of Ownership**  
-In the event that This practice is sold or merged with another organization, your health information/record will become the property of the new owner.
+This Practice secures your personal information from unauthorized access, use or disclosure. This Practice secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-**Your Health Information Rights**
+#### Changes to this Statement
 
-  * You have the right to request restrictions on certain uses and disclosures of your health information. Please be advised, however, that this practice is not required to agree to the restriction that you requested.
-  * You have the right to have your health information received or communicated through an alternative method or sent to an alternative location other than the usual method of communication or delivery, upon your request.
-  * You have the right to inspect and copy your health information.
-  * You have a right to request that this practice amend your protected health information. Please be advised, however, that this practice is not required to agree to amend your protected health information. If your request to amend your health information has been denied, you will be provided with an explanation of our denial reason(s)and information about how you can disagree with the denial.
-  * You have a right to receive an accounting of disclosures of your protected health information made by this practice.
-  * You have a right to a paper copy of this Notice of Privacy Practices at any time upon request.
+This Practice will occasionally update this Statement of Privacy to reflect company and customer feedback. We encourage you to periodically review this Statement to be informed of how this Practice is protecting your information.
 
+#### Contact Information
 
-
-**Changes to this Notice of Privacy Practices**  
-This practice reserves the right to amend this Notice of Privacy Practices at any time in the future, and will make the new provisions effective for all information that it maintains. Until such amendment is made, This practice is required by law to comply with this notice.
-
-This practice is required by law to maintain the privacy of your health information and to provide you with notice of its legal duties and privacy practices with respect to your health information. If you have questions about any part of this notice or if you want more information about your privacy rights, please contact: us by calling this office. If the Doctor is not available, you may make an appointment for a personal conference in person or by telephone within 2 working days.
-
-**Complaints**  
-Complaints about your Privacy rights or how This practice has handled your health information should be directed to the doctor, by calling this office. If the doctor is not available, you may make an appointment for a personal conference in person or by telephone within 2 working days.
-
-If you are not satisfied with the manner in which this office handles your complaint, you may submit a formal complaint to:
-
-> DHHS, Office of Civil Rights  
->  200 Independence Avenue, S.W.  
->  Room 509F HHH Building  
->  Washington, DC 20201
+Please contact us by phone at 646-876-5439 or by mail at 1410 Broadway, Suite 202, New York, NY 10018.
