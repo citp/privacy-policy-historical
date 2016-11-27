@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ity.im privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616111310id_/http%3A//www.ity.im/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ity.im privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127042153id_/http%3A//ity.im/privacy) for the most accurate reproduction.*
 
 # ity.im URL Shortener & Ad Network
 
