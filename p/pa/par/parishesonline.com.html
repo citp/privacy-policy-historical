@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the parishesonline.com privacy policy that was archived on 2016-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160531055925id_/http%3A//www.parishesonline.com/about/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the parishesonline.com privacy policy that was archived on 2016-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161128000103id_/http%3A//parishesonline.com/about/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="antialiased  site page lpi js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><head><script async="" src="https://munchkin.marketo.net/munchkin.js"></script>
 	<meta charset="utf-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><title>Privacy policy | Parishes Online</title><link href="/css/normalize.css" media="screen" rel="stylesheet" type="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="format-detection" content="telephone=no"><title>Privacy policy | Parishes Online</title><link href="/css/normalize.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/css/foundation.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/css/foundation-icons.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/css/bootstrap-foundation-bridge.css" media="screen" rel="stylesheet" type="text/css">
@@ -17,7 +18,7 @@
 <!--[if lt IE 9]> <link href="/css/ie8.css" media="all" rel="stylesheet" type="text/css" ><![endif]-->
 <!--[if IE 9]> <link href="/css/ie9.css" media="all" rel="stylesheet" type="text/css" ><![endif]-->
 <link href="/apple-touch-icon-144x144-precomposed.png" rel="/apple-touch-icon-precomposed" sizes="144x144">
-<link href="/apple-touch-icon-114x114-precomposed.png" rel="/apple-touch-icon-precomposed" sizes="114x114"><!--[if lt IE 9]> <script type="text/javascript" src="/js/es5-shim.js"></script><![endif]-->
+<link href="/apple-touch-icon-114x114-precomposed.png" rel="/apple-touch-icon-precomposed" sizes="114x114"><!--[if lt IE 9]> <script type="text/javascript" src="/javascript/es5-shim.js"></script><![endif]-->
 <!--[if IE]> <script type="text/javascript" src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]--><meta class="foundation-data-attribute-namespace"><meta class="foundation-mq-xxlarge"><meta class="foundation-mq-xlarge"><meta class="foundation-mq-large"><meta class="foundation-mq-medium"><meta class="foundation-mq-small"><style></style><meta class="foundation-mq-topbar"></head>
 <!--[if lt IE 7 ]> <body class="ie6"> <![endif]-->
 <!--[if IE 7 ]>    <body class="ie7"> <![endif]-->
@@ -51,7 +52,7 @@
         </ul>
         
     <section class="top-bar-section">
-            <ul class="nav"><li><a href="/ca/san+francisco">Browse</a></li><li><a href="/advertise">Advertise with us</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li></ul>            <ul class="right">
+            <ul class="nav"><li><a href="/seek/us/virginia/ashburn">Browse</a></li><li><a href="/advertise">Advertise with us</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li></ul>            <ul class="right">
                                     <div class="login">
                                                     <a class="button primary popup mobile-link" data-modal-class="modal-split" data-modal-footer="false" data-modal-content="login" id="loginLink" href="/auth/signin">Log in</a><a class="button secondary mobile-link" href="/signup">Sign up for free</a>
                     </div>
@@ -67,14 +68,17 @@
          
 <div class="search-form clearfix">
 	<form action="/search" method="get" id="searchForm" novalidate="novalidate">
-		<div class="small-12 medium-5 large-6 columns term-input">
-<input type="text" name="q" id="search" value="" x-webkit-speech="x-webkit-speech" placeholder="Church Name" maxlength="255"></div>
+		<div class="small-12 medium-6 large-6 columns term-input">
+<input type="text" name="q" id="search" value="" x-webkit-speech="x-webkit-speech" placeholder="What can we help you find today?" maxlength="255" class="required"></div>
 		<div class="medium-2 large-1 columns show-for-medium-up">
 			<span>near</span>
 		</div>
-		<div class="small-12 medium-5 columns location-column">
+		<div class="small-12 medium-4 large-5 columns location-column">
 			<div class="small-10 columns location-input">
-<input type="text" name="location" id="location" value="San Francisco, CA" data-source-url="/location/autocomplete" data-minlength="3" maxlength="64" autocomplete="off" class="typeahead location-complete" placeholder="address, city, state or zip"></div>
+                
+<input type="text" name="location" id="location" value="Ashburn, Virginia" data-minlength="3" maxlength="64" onfocus="initAutocomplete()" autocomplete="off" class="location-complete required" placeholder="Where?">
+<input type="hidden" name="autocomplete" value="" id="autocomplete">
+<input type="hidden" name="addresscomponents" value="" id="addresscomponents">            </div>
 			<div class="small-2 columns">
 				<button id="button-find" title="Search"><i class="fi fi-magnifying-glass"></i></button>
 			</div>
@@ -89,30 +93,30 @@
         <div class="small-12 columns text-left">
             <div id="quicklinksbar">
 	<div id="quicklinkSelected">
-		<a class="active" href="/find/star-of-the-sea-church">Star of the Sea Church</a>
+		<a class="active" href="/find/nativity-church">Nativity Church</a>
 	</div>
 	<div id="quicklinkTabContent" class="tab-content">
-		<div class="tab-pane active" data-slug="star-of-the-sea-church" id="quicklink-104722">
-			<a anchor="download-latest" class="bulletin button blue" href="/find/star-of-the-sea-church#download-latest">Latest Bulletin</a><a class="profile button blue" href="/find/star-of-the-sea-church">View Page</a><a class="supporters button blue" href="/find/star-of-the-sea-church/supporters">Supporters</a>		</div>
-					<div class="tab-pane fade" data-slug="st-ignatius-church-94118" id="quicklink-104763">
-				<a anchor="download-latest" class="bulletin" href="/find/st-ignatius-church-94118#download-latest">Latest Bulletin</a><a class="profile" href="/find/st-ignatius-church-94118">View Page</a><a class="supporters" href="/find/st-ignatius-church-94118/supporters">Supporters</a>			</div>
-					<div class="tab-pane fade" data-slug="st-agnes-church-94117" id="quicklink-104726">
-				<a anchor="download-latest" class="bulletin" href="/find/st-agnes-church-94117#download-latest">Latest Bulletin</a><a class="profile" href="/find/st-agnes-church-94117">View Page</a><a class="supporters" href="/find/st-agnes-church-94117/supporters">Supporters</a>			</div>
-					<div class="tab-pane fade" data-slug="our-lady-of-fatima-byzantine" id="quicklink-104713">
-				<a anchor="download-latest" class="bulletin" href="/find/our-lady-of-fatima-byzantine#download-latest">Latest Bulletin</a><a class="profile" href="/find/our-lady-of-fatima-byzantine">View Page</a><a class="supporters" href="/find/our-lady-of-fatima-byzantine/supporters">Supporters</a>			</div>
-					<div class="tab-pane fade" data-slug="st-john-of-god" id="quicklink-105032">
-				<a anchor="download-latest" class="bulletin" href="/find/st-john-of-god#download-latest">Latest Bulletin</a><a class="profile" href="/find/st-john-of-god">View Page</a><a class="supporters" href="/find/st-john-of-god/supporters">Supporters</a>			</div>
+		<div class="tab-pane active" data-slug="nativity-church" id="quicklink-77718">
+			<a anchor="download-latest" class="bulletin button blue" href="/find/nativity-church#download-latest">Latest Bulletin</a><a class="profile button blue" href="/find/nativity-church">View Page</a><a class="supporters button blue" href="/find/nativity-church/supporters">Supporters</a>		</div>
+					<div class="tab-pane fade" data-slug="corpus-christi-st-james" id="quicklink-77760">
+				<a anchor="download-latest" class="bulletin" href="/find/corpus-christi-st-james#download-latest">Latest Bulletin</a><a class="profile" href="/find/corpus-christi-st-james">View Page</a><a class="supporters" href="/find/corpus-christi-st-james/supporters">Supporters</a>			</div>
+					<div class="tab-pane fade" data-slug="holy-family-catholic-church-21035" id="quicklink-77777">
+				<a anchor="download-latest" class="bulletin" href="/find/holy-family-catholic-church-21035#download-latest">Latest Bulletin</a><a class="profile" href="/find/holy-family-catholic-church-21035">View Page</a><a class="supporters" href="/find/holy-family-catholic-church-21035/supporters">Supporters</a>			</div>
+					<div class="tab-pane fade" data-slug="holy-family-church" id="quicklink-77778">
+				<a anchor="download-latest" class="bulletin" href="/find/holy-family-church#download-latest">Latest Bulletin</a><a class="profile" href="/find/holy-family-church">View Page</a><a class="supporters" href="/find/holy-family-church/supporters">Supporters</a>			</div>
+					<div class="tab-pane fade" data-slug="holy-family-church-17104" id="quicklink-77780">
+				<a anchor="download-latest" class="bulletin" href="/find/holy-family-church-17104#download-latest">Latest Bulletin</a><a class="profile" href="/find/holy-family-church-17104">View Page</a><a class="supporters" href="/find/holy-family-church-17104/supporters">Supporters</a>			</div>
 			</div>
 	 <div id="quicklinkTab">
 			<a class="button blue has-dropdown caret" title="Change your default church" data-toggle="dropdown" data-min-width="280">
 				Not your church? Select other:
 			</a><ul class="f-dropdown quicklinks-menu">
-				<li><a href="#quicklink-104722" data-slug="star-of-the-sea-church" data-toggle="tab">Star of the Sea Church</a></li>
-										<li><a href="/profile/update-organization/slug/st-ignatius-church-94118" data-slug="st-ignatius-church-94118">St. Ignatius Church</a></li>
-											<li><a href="/profile/update-organization/slug/st-agnes-church-94117" data-slug="st-agnes-church-94117">St. Agnes Church</a></li>
-											<li><a href="/profile/update-organization/slug/our-lady-of-fatima-byzantine" data-slug="our-lady-of-fatima-byzantine">Our Lady of Fatima Byzantine</a></li>
-											<li><a href="/profile/update-organization/slug/st-john-of-god" data-slug="st-john-of-god">St. John of God</a></li>
-									<li><a href="/ca/san+francisco/catholic">Browse More »</a></li>
+										<li><a href="/profile/update-organization/slug/nativity-church" data-slug="nativity-church">Nativity Church</a></li>
+											<li><a href="/profile/update-organization/slug/corpus-christi-st-james" data-slug="corpus-christi-st-james">Corpus Christi / St. James</a></li>
+											<li><a href="/profile/update-organization/slug/holy-family-catholic-church-21035" data-slug="holy-family-catholic-church-21035">Holy Family Catholic Church</a></li>
+											<li><a href="/profile/update-organization/slug/holy-family-church" data-slug="holy-family-church">Holy Family Church</a></li>
+											<li><a href="/profile/update-organization/slug/holy-family-church-17104" data-slug="holy-family-church-17104">Holy Family Church</a></li>
+									<li><a href="/seek/us/virginia/ashburn/category/catholic">Browse More »</a></li>
 			</ul>
 		</div>
 	</div>
@@ -350,13 +354,10 @@
             <h5>Parishes Online</h5>
             <ul class="nav nav-list">
     <li>
-        <a href="/ca/san+francisco/catholic">Find Churches</a>
+        <a href="/seek/us/virginia/ashburn/category/catholic">Find Churches</a>
     </li>
     <li>
-        <a href="/ca/san+francisco">Browse categories</a>
-    </li>
-    <li>
-        <a class="popup popup-location" href="/location/change" data-modal-content="changelocation" data-modal-class="modal-split" data-modal-footer="false">Change location</a>
+        <a href="/seek/us/virginia/ashburn">Browse categories</a>
     </li>
     <li>
         <a class="popup popup-login" href="/auth/signin" data-modal-content="login" data-modal-class="modal-split" data-modal-footer="false">Log in</a>
@@ -438,7 +439,7 @@
 <input type="hidden" name="rememberme" value="0"><input type="checkbox" name="rememberme" id="rememberme" value="1" class="control-label">
 Remember me</label></div></fieldset>
 <div class="control-group"><div class="controls">
-<input type="hidden" name="signincsrf" value="c45c69b9d751149794286aa52262780d" class="" id="signincsrf"></div></div>
+<input type="hidden" name="signincsrf" value="ba1441adb4ac3a74c199da8d7367b6a2" class="" id="signincsrf"></div></div>
 <div class="form-actions">
 
 <input type="submit" name="submitbutton" id="submitbutton" value="Log In" class="button primary"></div></form>			<p><a href="/password/request" class="popup">Forgot your password?</a></p></div>
@@ -456,7 +457,8 @@ Remember me</label></div></fieldset>
 	<p><a class="button secondary" href="/signup">Sign up now</a></p>
 </div>
 </div>    </div>
-</div><script async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/site.js"></script>
-<!--[if lt IE 9]> <script type="text/javascript" src="/js/lt-ie9.js"></script><![endif]--><script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-5260882-2']);_gaq.push(['_trackPageview']);(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=true;g.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s);})(document,'script');</script><script type="text/javascript">(function ($) {$.ajax({url: document.location.protocol + '//munchkin.marketo.net/munchkin.js',dataType: 'script',cache: true,success: function() {Munchkin.init('418-VMI-344');}});})(jQuery);</script>
+</div><script async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascript/site.js"></script>
+<!--[if lt IE 9]> <script type="text/javascript" src="/javascript/lt-ie9.js"></script><![endif]-->
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false&amp;key=AIzaSyC6-epMza1IC7RWoconbYZTR2Jm5ejBF2Q&amp;libraries=places"></script><script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-5260882-2']);_gaq.push(['_trackPageview']);(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=true;g.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s);})(document,'script');</script><script type="text/javascript">(function ($) {$.ajax({url: document.location.protocol + '//munchkin.marketo.net/munchkin.js',dataType: 'script',cache: true,success: function() {Munchkin.init('418-VMI-344');}});})(jQuery);</script>
 
 </body></html>
