@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wheatoncollege.edu privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527232929id_/http%3A//wheatoncollege.edu/web/digital-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheatoncollege.edu privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127195320id_/http%3A//wheatoncollege.edu/web/digital-privacy-policy) for the most accurate reproduction.*
 
 # Digital Privacy Policy – Web | Wheaton College | Massachusetts
 
