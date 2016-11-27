@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the spectorsoft.com privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306121645id_/http%3A//www.spectorsoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectorsoft.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127180017id_/http%3A//www.veriato.com/privacy-policy) for the most accurate reproduction.*
 
-# Online Privacy Policy | SpectorSoft
+# Online Privacy Policy | Veriato
 
-SpectorSoft Corporation, a Delaware corporation and its majority owned affiliated companies and subsidiaries (we / us) respect your privacy and are committed to protecting it through our compliance with this privacy policy (Privacy Policy). This Privacy Policy describes the type of information that we collect from you through the use of the websites www.spectorsoft.com, www.spectorcne.com, www.spector360.com, and www.eblaster.com, among other sites owned or controlled by SpectorSoft (our Website), how that information may be used or disclosed by us and the safeguards we use to protect it.
+Veriato Inc., a Delaware corporation and its majority owned affiliated companies and subsidiaries (we / us) respect your privacy and are committed to protecting it through our compliance with this privacy policy (Privacy Policy). This Privacy Policy describes the type of information that we collect from you through the use of the websites www.Veriato.com, www.spectorcne.com, www.spector360.com, and www.eblaster.com, among other sites owned or controlled by Veriato (our Website), how that information may be used or disclosed by us and the safeguards we use to protect it.
 
-This Privacy Policy does not apply to information collected on any third-party site or by any third-party application that may link to or be accessible from the Website. SpectorSoft encourages you to review the privacy statements of other websites and applications to understand their information practices.
+This Privacy Policy does not apply to information collected on any third-party site or by any third-party application that may link to or be accessible from the Website. Veriato encourages you to review the privacy statements of other websites and applications to understand their information practices.
 
 Please read the following carefully to understand our policies and practices regarding your information and how we will treat it. By using or accessing our Website, you agree to the collection, use and disclosure of information in accordance with this Privacy Policy. This Privacy Policy may change from time to time and your continued use of the Website is deemed to be acceptance of such changes, so please check the Privacy Policy periodically for updates.
 
@@ -13,15 +13,10 @@ Please read the following carefully to understand our policies and practices reg
 We collect and use personal information that you voluntarily provide to us on our Website including but not limited to your name, address, email address, telephone number or financial information, in the following circumstances:
 
   * **Accounts** —when you register for an account or subscribe to use the products or our Website
-
   * **Support** —when you request support, services or information about the products or our Website
-
   * **Contests and Promotions** —when you participate in a contest, promotion or survey sponsored by us
-
   * **Correspondence** —if you contact us we will collect the personal information contained within your correspondence (including e-mail addresses)
-
   * **Transactions and Orders** —when you carry out transactions through our Website or purchase a license to a product including on a trial basis or any upgrades
-
 
 
 
@@ -31,7 +26,7 @@ If you choose not to provide the personal information we request, you can still 
 
 We may automatically collect statistical or aggregate non-personal information about your interaction with our Website.
 
-Aggregate information is information that we collect about a group or category of products, services or customers that is not personally identifiable. This may include usage information about your computer, laptop, tablet, mobile phone or other electronic device and your activity using our Website. We may collect information including the Internet protocol (IP) addresses, browser type, internet service provider (ISP), pages that you access, referring/exit pages, operating system, resources that you access, date/time stamp and other interactions with our Website. This information can assist us in analyzing trends, providing statistical information and improving our Website.
+Aggregate information is information that we collect about a group or category of products, services or customers that is not personally identifiable. This may include usage information about your computer, laptop, tablet, mobile phone or other electronic device and your activity using our Website. We may collect information including the Internet protocol (IP) addresses, browser type, internet service provider (ISP), pages that you access, referring/exit pages, operating system, resources that you access, date/time stamp and other interactions with our Website. This information can assist us in analyzing trends, providing statistical information and improving our Website. 
 
 If we link or associate any information gathered with personal information we treat the combined information as personal information. Otherwise we use and disclose information collected solely by passive means in aggregate form or in a non-personally identifiable form. We may collect, use and disclose non-personal information for any purpose. Where, according to local law, IP addresses and the like are considered personal information, then we treat it as such.
 
@@ -39,13 +34,12 @@ If we link or associate any information gathered with personal information we tr
 
 Like the vast majority of website providers, we use various common Internet technologies, such as cookies and web beacons, to collect details about your interactions with our Website. We only collect aggregate information, such as, for example, traffic data, logs and other communication data, whether this is required for our own contractual purposes or otherwise.
 
-**Cookies** —Cookies are small files stored on the browser or the hard drive of your computer. Use of cookies help us to improve our Website and to deliver a better and more personalized service by enabling us to: estimate our audience size and usage patterns, store information about your preferences, allowing us to customize our Website according to your individual interests, speed up your searches and recognize you when you return to our Website. **If you register with us or if you continue to use our Website, you agree to our use of cookies.**
+  * **Cookies** —Cookies are small files stored on the browser or the hard drive of your computer. Use of cookies help us to improve our Website and to deliver a better and more personalized service by enabling us to: estimate our audience size and usage patterns, store information about your preferences, allowing us to customize our Website according to your individual interests, speed up your searches and recognize you when you return to our Website. **If you register with us or if you continue to use our Website, you agree to our use of cookies.**
+  * **Web Beacons** —Web beacons also known as pixel tags are electronic images, contained on a website that permit us to count users who have visited those pages and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). Web beacons are not used to access your personal information on the Website and are only used to compile aggregated statistics concerning use of the Website.
+  * **Web Analytics** —We also collect some information (ourselves or using third party services) using web analytic tools to help us continuously improve our Website and the Products. We use third-party services that use tracking technologies to track non-personally identifiable information about interactions on our Website in the aggregate to capture usage and volume statistics. This information is used to monitor and analyze the use of our Website, to increase our services functionality and for the technical administration.
+  * **Third Party Advertising Technologies** —In addition to our use of technologies as described herein, we may use third party vendors such as Google to perform display advertising or remarketing services to display advertising on our Website or manage our advertising on other sites. These services can help us tailor advertising that we think may be of interest to you based on your use of our Website and to otherwise collect and use data about your use of our Website. Third-party vendors may use cookies and web beacons to collect non-personal information about your activities on our Website and other websites to provide you with targeted ads.
 
-**Web Beacons** —Web beacons also known as pixel tags are electronic images, contained on a website that permit us to count users who have visited those pages and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). Web beacons are not used to access your personal information on the Website and are only used to compile aggregated statistics concerning use of the Website.
 
-**Web Analytics** —We also collect some information (ourselves or using third party services) using web analytic tools to help us continuously improve our Website and the Products. We use third-party services that use tracking technologies to track non-personally identifiable information about interactions on our Website in the aggregate to capture usage and volume statistics. This information is used to monitor and analyze the use of our Website, to increase our services functionality and for the technical administration.
-
-**Third Party Advertising Technologies** —In addition to our use of technologies as described herein, we may use third party vendors such as Google to perform display advertising or remarketing services to display advertising on our Website or manage our advertising on other sites. These services can help us tailor advertising that we think may be of interest to you based on your use of our Website and to otherwise collect and use data about your use of our Website. Third-party vendors may use cookies and web beacons to collect non-personal information about your activities on our Website and other websites to provide you with targeted ads.
 
 As always we respect your privacy and do not collect any personally identifiable information through the use of Google or any other third party services. Any information collected is used only for remarketing purposes and will not be used by third-party marketing vendors for any other purpose.
 
@@ -56,25 +50,15 @@ To opt out of Remarketing and Advertising [click here](https://www.google.com/se
 We use information that we collect about you or that you provide to us, including any personal information, in the following ways:
 
   * To administer, operate, maintain and improve our services and Website
-
   * To provide you with information, newsletters and products or services that you request from us
-
   * To notify you about any changes or provide you with support
-
   * To carry out our obligations, process and enforce our rights arising from any contracts entered into between you and us such as communications related to payments and changes to our terms, conditions and policies.
-
   * To allow you to purchase and download products and participate in interactive features of our services, when you choose to do so.
-
   * For billing and accounting purposes.
-
   * For internal purposes such as performing research and analysis and to provide anonymous reporting internally or externally
-
   * For marketing and promotional purposes so as to provide you with information about products or services we think you might like. You may opt-out of receiving these communications by following the steps described below.
-
   * For any other purposes that we may disclose to you at the point at which we request your personal information and pursuant to your consent
-
   * To prevent or take action against activities that is or may be in violation of the Product end-user license agreement, the Website Terms of Use or applicable law.
-
 
 
 
@@ -85,19 +69,12 @@ Once you have registered for the products we reserve the right to send you certa
 We do not sell or rent your personal information to third parties. Except as described in this Privacy Policy we will not disclose your personal information that we collect from our Website to third parties without your consent. We may disclose personal information that you provide to us when necessary to the following third parties:
 
   * To a member of our group—holding company and its subsidiaries and majority owned affiliates. This information helps us make your customer experience more seamless and efficient by allowing us to improve our marketing efforts to better target customer needs, streamline our processes and consolidate our backend business systems.
-
   * Direct or indirect contractors and service providers we occasionally use to support our business as may be required for example, to fulfill orders, conduct billing/credit card processing provide you with services or perform statistical analysis. Those service providers will be permitted to obtain only the personal information they need to deliver the service in accordance with our policies under confidentiality agreements and not for their own purposes.
-
   * Authorized partners, distributors and resellers to fulfill any terms under your licensing and service relationship with us and to provide you with local technical and customer support.
-
-  * In the event (whether perspective or actual) of a merger, acquisition, or any form of sale of some or all of SpectorSoft’s assets, in which case personal information held by us about you and our customers will be among the assets transferred to the (prospective) buyer.
-
+  * In the event (whether perspective or actual) of a merger, acquisition, or any form of sale of some or all of Veriato’s assets, in which case personal information held by us about you and our customers will be among the assets transferred to the (prospective) buyer.
   * Comply with a law, court order, legal process or other legal obligation.
-
   * Enforce or apply our terms of use or terms of license or sale and other agreements.
-
-  * Protect the rights, property, or safety of SpectorSoft, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
-
+  * Protect the rights, property, or safety of Veriato, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 
 
@@ -111,19 +88,19 @@ We strive to provide you with choices regarding the information you provide to u
 
 Visitors can opt-out of Google Analytics for Display Advertising using the [Ads Settings](https://www.google.com/settings/ads).
 
-**Unsubscribing** —In each and every marketing or promotional email that we send to you, there is an ‘unsubscribe’ hyperlink, which you may you use if you wish to ‘opt out’ of and stop receiving email communications from us. The hyperlink will direct you to our website, where upon entering the email address that you no longer wish to receive SpectorSoft emails, one last confirmation email shall then be sent to the email address you designate. Merely confirm that you do indeed wish to stop SpectorSoft email’s being sent to you and that email address shall automatically be unsubscribed.
+**Unsubscribing** —In each and every marketing or promotional email that we send to you, there is an ‘unsubscribe’ hyperlink, which you may you use if you wish to ‘opt out’ of and stop receiving email communications from us. The hyperlink will direct you to our website, where upon entering the email address that you no longer wish to receive Veriato emails, one last confirmation email shall then be sent to the email address you designate. Merely confirm that you do indeed wish to stop Veriato email’s being sent to you and that email address shall automatically be unsubscribed.
 
-Alternatively, you may visit the [Unsubscribe request form](https://web.archive.org/support/unsubscribe.asp) or email SpectorSoft at [unsubscribe@spectorsoft.com](mailto:unsubscribe@spectorsoft.com?subject=Unsubscribe) with your request, stating ’Unsubscribe‘ in the header and what email addresses you wish not to receive SpectorSoft emails and within a reasonable period, we shall ensure that such email addresses are unsubscribed and shall no longer receive any communications from us.
+Alternatively, you may visit the [Unsubscribe request form](http://www.veriato.com/unsubscribe) or email Veriato at [unsubscribe@Veriato.com](mailto:unsubscribe@spectorsoft.com?subject=Unsubscribe) with your request, stating ’Unsubscribe‘ in the header and what email addresses you wish not to receive Veriato emails and within a reasonable period, we shall ensure that such email addresses are unsubscribed and shall no longer receive any communications from us.
 
 You should review this Privacy Policy carefully, because if you do not agree with our practices, your ultimate choice is not to use the Website. Remember, by using any part of the Website, you accept and agree to our privacy practices. If we update this Privacy Policy, your continued use of the Website (following the posting of the revised Privacy Policy) means that you accept and agree to the terms of the revised Privacy Policy.
 
 ## User Contributions
 
-You are responsible for any content, including personal information, that you contribute to be posted, published or displayed on the Website, or transmit to other users of the Website (collectively, User Contributions). Your User Contributions are posted on and transmitted to other users of the Website at your own risk. Although we limit access to certain pages, you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions; therefore, we cannot guarantee who will view or use your User Contributions. We are not responsible for circumvention by third parties of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of your User Contributions may remain viewable in cached and archived pages, or may have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by this Privacy Policy and our Website Terms of Use and known or suspected violations should be reported to [privacy@spectorsoft.com](mailto:privacy@spectorsoft.com).
+You are responsible for any content, including personal information, that you contribute to be posted, published or displayed on the Website, or transmit to other users of the Website (collectively, User Contributions). Your User Contributions are posted on and transmitted to other users of the Website at your own risk. Although we limit access to certain pages, you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions; therefore, we cannot guarantee who will view or use your User Contributions. We are not responsible for circumvention by third parties of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of your User Contributions may remain viewable in cached and archived pages, or may have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by this Privacy Policy and our Website Terms of Use and known or suspected violations should be reported to [privacy@Veriato.com](mailto:privacy@veriato.com).
 
 ## Accessing and correcting your personal information
 
-You can review, update, correct or delete your personal information by logging into the Website and visiting your account profile page and making changes. If you have forgotten your password, once you have tried to register and failed, you can click on the "Forgot your password?" link to reach a page on which you can submit your e-mail address. Your user name and password then will be e-mailed to you. Alternatively, you can also contact us at privacy@spectorsoft.com if you wish to exercise these rights. While we will strive to accommodate your requests, we may reject requests, which risk the privacy of others, are unreasonable or repetitive, require disproportionate technical effort (such as developing new systems or fundamentally changing an existing business practice), or would be extremely impractical. Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort.
+You can review, update, correct or delete your personal information by logging into the Website and visiting your account profile page and making changes. If you have forgotten your password, once you have tried to register and failed, you can click on the "Forgot your password?" link to reach a page on which you can submit your e-mail address. Your user name and password then will be e-mailed to you. Alternatively, you can also contact us at privacy@Veriato.com if you wish to exercise these rights. While we will strive to accommodate your requests, we may reject requests, which risk the privacy of others, are unreasonable or repetitive, require disproportionate technical effort (such as developing new systems or fundamentally changing an existing business practice), or would be extremely impractical. Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort.
 
 If you request that we delete your account we will do so within a reasonable period of time, but we may need to retain some of your personal information in order to satisfy our legal obligations, or where we reasonably believe that we have a legitimate reason to do so.
 
@@ -133,7 +110,7 @@ All information you provide to us is stored on our secure servers. Any payment t
 
 ## Children under the age of 13
 
-Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, please do not register on the Website, make any purchases through the Website or send any information about yourself to us. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information. If you believe that we might have any information from or about a child under 13, please contact us at [legal@spectorsoft.com](mailto:legal@spectorsoft.com).
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, please do not register on the Website, make any purchases through the Website or send any information about yourself to us. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information. If you believe that we might have any information from or about a child under 13, please contact us at [legal@Veriato.com](mailto:legal@veriato.com).
 
 ## Data security
 
@@ -143,7 +120,7 @@ The safety and security of your information also depends on you. Where we have g
 
 ## Your California privacy rights
 
-California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes during the immediately preceding calendar year. To make such a request, please send an e-mail to [privacy@spectorsoft.com](mailto:privacy@spectorsoft.com).
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes during the immediately preceding calendar year. To make such a request, please send an e-mail to [privacy@Veriato.com](mailto:privacy@veriato.com).
 
 ## Changes to our Privacy Policy
 
@@ -151,14 +128,13 @@ It is our policy to post any changes we make to our Privacy Policy on this page.
 
 ## Contact information
 
-To ask questions or comment about this privacy policy and our privacy practices, contact us at: [privacy@spectorsoft.com](mailto:privacy@spectorsoft.com)
+To ask questions or comment about this privacy policy and our privacy practices, contact us at: [privacy@Veriato.com](mailto:privacy@veriato.com)
 
-## Corporate address
-
-SpectorSoft Corporation   
+Corporate address  
+Veriato, Inc.   
 1555 Indian River Blvd.   
 Vero Beach, FL 32960   
-**Email:** [legal@spectorsoft.com](mailto:legal@spectorsoft.com)   
+**Email:** [legal@Veriato.com](mailto:legal@veriato.com)   
 **Telephone** : 1.888.598.2788
 
-Last Update: June 3, 2014
+Last Update: February 16, 2016
