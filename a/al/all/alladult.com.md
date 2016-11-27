@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alladult.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606203453id_/http%3A//www.fuckcams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alladult.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127021202id_/http%3A//www.fuckcams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # FuckCams - Privacy Policy
 
