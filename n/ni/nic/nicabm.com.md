@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicabm.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624122705id_/http%3A//www.nicabm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicabm.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127041137id_/http%3A//www.nicabm.com/privacy-policy) for the most accurate reproduction.*
 
 # National Institute for the Clinical Application of Behavioral Medicine: Privacy Policy - NICABM
 
@@ -42,4 +42,4 @@ All information collected from you is stored in a technically and physically sec
 
 **Contacting Us**
 
-If you need to contact us, you can email us at respond@nicabm.com call us at 860-456-1153, or send us a letter at: PO Box 523, Mansfield Center, CT 06250. We strive to provide excellent products, along with equally excellent customer service. If you have any questions about this Privacy Policy or our practices, please feel free to contact us using one of the methods listed above.
+If you need to contact us, you can email us at respond@nicabm.com call us at 860-456-1153, or send us a letter at: 40 Wilbur Cross Way, Suite 102, Storrs, CT 06268. We strive to provide excellent products, along with equally excellent customer service. If you have any questions about this Privacy Policy or our practices, please feel free to contact us using one of the methods listed above.
