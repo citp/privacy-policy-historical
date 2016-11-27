@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themodernman.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322002411id_/http%3A//store.themodernman.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themodernman.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127154301id_/http%3A//store.themodernman.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - The Modern Man
 
@@ -14,7 +14,13 @@ We may collect personal information from you in the course of your visit to our 
 
 We may also use your e-mail address to contact you in relation to any special promotions or events, such as seminars or workshops that may be available in your area. c) 'Cookies' from your computer, which enable us to tell when you use our website and also to help customise your website experience. The use of these 'cookies' enables you to log back into www.TheModernMan.com quickly and easily. A cookie is a small information file that is sent to your computer and is stored on your hard drive. If you have registered with us then your computer will store an identifying cookie which will save you time each time you re-visit www.TheModernMan.com, by remembering your email address for you.
 
-You can change the settings on your internet browser to prevent cookies being stored on your computer without your explicit consent. However, this will mean that you must log into our website manually each time you return.
+You can change the settings on your internet browser to prevent cookies being stored on your computer without your manual approval. However, this will mean that you must log into our website manually each time you return.
+
+TheModernMan.com uses 3rd party vendor remarketing technologies that use tracking cookies, web beacons, and similar technologies, including the Google Adwords tracking cookie, Google Analytics tracking cookie and Facebook tracking cookie. This means we may show ads to you across the internet, specifically on the Google Search Network, Google Display Network and on Facebook. As always, we respect your privacy and are not collecting any identifiable information through the use of Google’s, Facebook's or any other 3rd party remarketing system.
+
+The third-party vendors, including Google and Facebook, whose services we use – will place cookies on web browsers in order to serve ads based on past visits to our website. – Third party vendors, including Google and Facebook, use cookies to serve ads based on a user’s prior visits to our website. This allows us to make special offers and continue to market our products and services to those who have shown interest in our products and services.
+
+You may opt out of Google’s use of cookies by visiting the Ads Preferences Manager [here](https://www.google.com/settings/u/0/ads/authenticated?hl=en). Also, you can opt out of other third-party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page [here](http://www.networkadvertising.org/choices/).
 
 **Disclosure**
 
@@ -38,4 +44,4 @@ The website is not hosted in Australia. For that reason, we transfer all data on
 
 **Privacy Policy Changes**
 
-This privacy policy may be adjusted from time to time at the absolute discretion of TheModernMan.com. Any such adjustments will be posted on this web page. Therefore, it is recommended that you regularly check this page for any such updates to TheModernMan.com's privacy policy. By continuing to use the website www.TheModernMan.com and the products accessible or availbel from that website, you agree to accept any changes to TheModernMan.com's privacy policy. This privacy policy and any issue or dispute regarding privacy concerns will be governed by and interpreted in accordance with the laws of the State of Victoria, Australia, without regard to the choice of law provisions.
+This privacy policy may be adjusted from time to time at the absolute discretion of TheModernMan.com. Any such adjustments will be posted on this web page. Therefore, it is recommended that you regularly check this page for any such updates to TheModernMan.com's privacy policy. By continuing to use the website www.TheModernMan.com and the products accessible or available from that website, you agree to accept any changes to TheModernMan.com's privacy policy. This privacy policy and any issue or dispute regarding privacy concerns will be governed by and interpreted in accordance with the laws of the State of Victoria, Australia, without regard to the choice of law provisions.
