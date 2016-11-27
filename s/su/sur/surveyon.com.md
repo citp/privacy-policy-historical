@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the surveyon.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623112950id_/http%3A//www.surveyon.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyon.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127162454id_/http%3A//www.surveyon.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | surveyon
 
-##  Privacy Policy Effective January 1, 2014
+##  Privacy Policy Effective August 30, 2016
 
 The main business of dataSpring, Inc. (hereafter referred to as this firm) is implementing surveys. We recognize the social obligation we bear and as so are giving our maximum priority to the protection of our customer's privacy. This firm's way of thinking regarding policy is as follows. This firm will faithfully handle all of our customers information along the following guidelines. 
 
@@ -12,7 +12,7 @@ Personal information is all information such as a name, birthday, other identifi
 
 ### 2\. The collection, utilization and distribution of personal information
 
-Personal information is collected only after making clear this firm's purpose of use for this information and the individual's consent. This firm will handle this information in its most accurate and newest state and will handle it appropriately within the scope of our purpose of use. When supplying your personal information, please understand this purpose. Additionally, the supply of personal information to this firm is optional. However, in the event that you choose not to disclose your personal information to this firm, you may not be able to use all or parts of our service. This firm will under no circumstances offer your personal information to third parties without your consent. However, there are instances in which we must provide your personal information to third parties in which we are bound by a personal information consignment contract. Additionally, in the case that laws or ordinances leaded to the request for this information and our manager in charge of personal information judges this request as justifiable, we are required to supply the personal information they request. 
+Personal information is collected only after making clear this firm's purpose of use for this information and the individual's consent. This firm will handle this information in its most accurate and newest state and will handle it appropriately within the scope of our purpose of use. When supplying your personal information, please understand this purpose. Additionally, the supply of personal information to this firm is optional. However, in the event that you choose not to disclose your personal information to this firm, you may not be able to use all or parts of our service. This firm will not offer your personal information to third parties without your consent except as provided for in this Privacy Policy. We may disclose your personal information to third parties or affiliates with which we have written consignment agreements and that agree to treat it in accordance with this Privacy Policy. Additionally, in the case that laws or ordinances leaded to the request for this information and our manager in charge of personal information judges this request as justifiable, we are required to supply the personal information they request. 
 
 ### 3\. The use of cookies
 
@@ -24,9 +24,9 @@ Cookies are widely used for identifying customer's web browser so that we can pr
 
 This firm also provide customers' cookies to third party for the purpose of (i) the data analysis of our site, and (ii) sending behaviour targeting ads. The use of these cookies is subject to the privacy policy of each third party company. The privacy policies of those third party companies are as follows: 
 
-  * a. Google Inc. (Google Analytics) Privacy Policy: http://www.google.com/policies/privacy/
-    * About Google Analytics: http://www.google.com/intl/en_uk/analytics/privacyoverview.html
-  * b. Brandscreen Privacy Policy: http://www.brandscreen.com/en/privacy/
+  * Google Inc. (Google Analytics) Privacy Policy: <http://www.google.com/policies/privacy/>  
+About Google Analytics: <http://www.google.com/intl/en_uk/analytics/privacyoverview.html>
+  * Brandscreen Privacy Policy: <http://www.brandscreen.com/en/privacy/>
 
 
 
@@ -62,13 +62,13 @@ In the event that a customer's data is deleted due to a computer failure, other 
 
 ### 8\. Providing Personal Information to Third Party
 
-This firm will not supply personal information to third party without the person's consent. However, under the following circumstances, this firm must supply this information even without the user's consent. 
+As noted in Paragraph 2., this firm will not offer your personal information to third parties without your consent except as provided for in this Privacy Policy. However, there may be circumstances in which we are legally required to provide such information, even without your consent. 
 
-The law requires this disclosure:
+These circumstances include, but may not be limited to:
 
-  * Getting the person's consent is difficult and this information is required to protect the life, health or property of the user.
-  * Getting the person's consent is difficult and this information is required for an improvement to public health or the promotion of a child's health.
-  * This firm must disclose this information to aid a government organization, local public body or a person who takes a similar position and decides the laws and gaining the approval of the user would hinder the operation of this organization.
+  * Getting your consent is difficult and this information is required to protect the life, health or property of the user.
+  * Getting your consent is difficult and this information is required for an improvement to public health or the promotion of a child's health.
+  * The firm must disclose this information to aid a government organization, local public body or a person who takes a similar position and decides the laws and gaining the approval of the user would hinder the operation of this organization.
 
 
 
@@ -77,7 +77,7 @@ The law requires this disclosure:
 This firm is aware of the importance of safely maintaining personal information and is taking all possible safety measures. Please contact the following contact point for dataSpring, Inc. for any inquires. 
 
   1. This firm's point of contact for inquires for personal information 
-    * a. Address: 7F KOSUGI Bldg., Shinjuku 1-28-11, Shinjuku-ku, Tokyo, Japan 160-0022 
-    * b. Email Address: 
+    * Address: 7F KOSUGI Bldg., Shinjuku 1-28-11, Shinjuku-ku, Tokyo, Japan 160-0022
+    * Email Address: support+privacy@surveyon.com
 
 
