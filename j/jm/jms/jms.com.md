@@ -1,101 +1,199 @@
-> *The following text is extracted and transformed from the jms.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331033552id_/http%3A//www.justmysize.com/webapp/wcs/stores/servlet/hanesb_PrivacySecurity_11151_-1_11002%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jms.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127131332id_/http%3A//www.justmysize.com/shop/justmysize/PrivacySecurity) for the most accurate reproduction.*
 
-# JustMySize.com Privacy and Security Policy | JMS
+# Privacy Security
 
-LAST UPDATED: November 25, 2013
+* ### Purpose
 
-At [Hanesbrands Inc.](http://www.hanes.com/corporate) ("Hanesbrands"), we respect our customers and understand that you may have concerns about privacy, so we have instituted privacy policies intended to ensure that your personal information is handled safely and responsibly.
+At HanesBrands, we respect our customers and understand that you may have concerns about privacy. This Consumer Privacy Notice ("Notice") provides an overview of the practices of HanesBrands Inc. and its affiliates, subsidiaries and associates ("HanesBrands", "we","our","us") with respect to the collection, use and disclosure of Personally Identifiable Information ("PII") about consumers.
 
-This Privacy Policy Statement sets forth the privacy policy pertaining to this website, [http://www.justmysize.com](http://www.justmysize.com/) (the "Site"), which is owned by Hanesbrands and to other Internet sites on which this Privacy Policy Statement is posted. By using this Site, you expressly accept and agree to be bound by and abide by the terms set forth in this Privacy Policy Statement. For other terms and conditions that apply to your use of the Site, please review our [Terms of Use](https://web.archive.org/web/20140331033552id_/http%3A//www.justmysize.com/webapp/wcs/stores/servlet/hanesb_TermsOfUse_11151_-1_11002). Any terms that are not defined in this Privacy Policy Statement shall have the meaning given in the Terms of Use. This Privacy Policy Statement applies only to "Personal Information" that we collect on-line. For purposes of this Privacy Policy Statement, "Personal Information" means any information you provide to us on the Site which can personally identify you and may include your first/middle initial or name and last name, street address, town or city, state, zip code, telephone number, instant-messenger nickname, blog or other personal website URL, date of birth, e-mail address, credit card or debit card information and any other information which can personally identify you.
+This Notice and the [Terms of Use](https://web.archive.org/web/20161127131332id_/http%3A//www.justmysize.com/shop/justmysize/TermsOfUse) constitute a single Agreement that governs your use of the [Site](https://web.archive.org/web/20161127131332id_/http%3A//www.justmysize.com/shop/justmysize/TermsOfUse). Any capitalized term that is not defined in this Notice shall have the meaning given to it in the Terms of Use. The term "consumer", "your" and "you", as used in this Notice, is intended to refer to HanesBrands consumers and visitors to the Site. 
 
-Unless otherwise provided herein, any reference to "Hanesbrands," "we," "us" and "our" shall mean and include Hanesbrands, it subsidiaries, affiliates, operating divisions and brands (collectively,"affiliates").
+This Notice applies to information collected on the Site. If you have provided your information through the site of one of our non-US based companies, you should consult the privacy policy provided on that site as these may be governed by different terms.
 
- **YOUR CALIFORNIA PRIVACY RIGHTS:** Residents of the State of California have the right to request a list of all third parties to which we have disclosed their personal information during the preceding year for direct marketing purposes. If you are a California resident and request information about the disclosure of your Personal Information, you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). Send an email to the Privacy Administrator at jms.manager@justmysize.com or you may contact us via postal mail at:
+This Notice does not apply to or govern:
 
- **Hanesbrands Inc.  
-P.O. Box 748  
-Rural Hall, NC 27098  
-c/o Privacy Administrator  
-**
-
- **Overview: This Privacy Policy Statement is intended to explain our privacy practices and inform you as to:**
-
-  * The kinds of Personal Information we collect from users of the Site and how that information is collected;
-  * How we use your Personal Information;
-  * The circumstances under which we disclose Personal Information to third parties;
-  * How you can access, update or delete any Personal Information collected about you by us on the Site;
-  * The mechanisms we have implemented to protect your Personal Information; and
-  * That we may choose to disclose nonpublic personal information about you to a third party for compensation.
+  * Our [HanesBrands Corporate](http://www.hanes.com/corporate?section=policy) site; or
+  * Our [Hanes For Good](http://hanesforgood.com/privacy-policy) site; or
+  * Our collection and use of information in connection with purchases made at our retail locations or through our mail order catalogs; or
+  * Third party companies (including, without limitation, their websites, platforms, or applications) which we do not own or control. These sites may have their own privacy notices and terms and conditions that you should consult.
 
 
 
- **Behavioral Advertising: Advertisements displayed to you on this Web Site and elsewhere may be customized to your interests and preferences, based on your Personal Information and Site usage information, including (but not limited to) non-personally identifying information, which may be obtained from you or from other sources. Our Site does not honor "do-not-track" settings in your web browser. Instead, to opt out of behavioral advertising, visit<http://www.aboutads.info/choices>.**
+We are providing this Notice to help you better understand the following:
 
- **Information Hanesbrands Collects**
-
-Hanesbrands collects Personal Information about you on the Site only when you submit it to us, such as when subscribing to our e-mail program, purchasing products, submitting a review or question, participating in special functions of the Site, such as e-cards, wish lists or games, responding to a survey, entering a sweepstakes, or making suggestions or comments. When you request us to ship products to a shipping address of a third party, we collect that shipping address and we use it in accordance with this privacy policy.
-
-In addition, when you access the Site our web servers may automatically recognize and collect information regarding your IP address, referring domain, your type of internet browser, operating system software, screen resolution, cookie preferences and similar technical data. None of this information is personally identifiable.
-
- _Technology:_ When you access the Site, our web servers may automatically recognize and collect non-personally identifiable information. We use technology (e.g., small data files that may be stored on your computer that are referred to as "cookies," electronic image requests known as "web beacons" or "single-pixel gifs", and files stored on your computer called "local shared objects"). Some of this technology can recognize you as you browse or when you return to our Site. Technology may also collect the type of operating system and browser you are using and accumulate and report anonymous, statistical information on Site usage. Technology shows us how our customers use our Site and allow us to give you a more personalized experience when you use our Site. These types of technology generally do not collect, gather, monitor or share any Personal Information; they are used to compile anonymous information about Site usage. We do not use technology to detect or collect Personal Information, but we may combine the data collected by this technology with Personal Information you do give us in order to send you information that may be of interest. Some Internet browsers allow you to change the settings and stop it from automatically accepting certain technology such as cookies. Some media players, such as Flash, allow you to manage local shared objects. If you do change these settings, it may affect your ability to use certain features and functions on our Site and you may need to re-enter information when you browse or when you return to our Site. You should consult with the publisher or licensor of your browser and media players if you want to change the settings or are experiencing trouble browsing our Site.
-
- **By using our Site, you consent to our use of tracking technologies as described above.**
-
- _Minors:_ We recognize the particular importance of protecting the privacy of Personal Information where children are involved. We do not knowingly collect Personal Information from children under the age of 13. If a child under the age of 13 has provided our website with personally identifiable information, we ask that such child's parent or guardian call (800) 261-6098 or contact us at jms.manager@justmysize.com and we will delete the information about the child from our files.
-
- **How Hanesbrands Uses the Information**
-
-We may use your Personal Information for the following purposes:
-
-  * to respond to your requests (including, for example, to process orders; enter a sweepstakes; post a testimonial, photograph, comment or question, or to receive product information, or catalogs or to enroll in our email program)
-  * to improve the content, appearance and utility of the Site
-  * to trace our visitors' use of the Site for internal research purposes
-  * to invite you to participate in market research
-  * to provide any necessary notices to our visitors and to notify our visitors of updates to the Site
-  * to send catalogs, printed materials, offers and other announcements to postal addresses and to allow our affiliates and other reputable third party marketers to do the same
-  * to send e-mail offers, announcements, or newsletters to your e-mail address (these emails may come from any of us at Hanesbrands, including any Hanesbrands affiliate)
+  * Obtaining and Handling Your Consent
+  * What PII HanesBrands Collects
+  * How HanesBrands Uses Your PII
+  * How HanesBrands Protects Your PII
+  * How Your PII is Shared with Third Parties
+  * Cross-Border Data Transfers of Your PII
+  * Updating Your Account Information and Managing Your Preferences
+  * Information about Children Under 13
+  * Revisions and Updates
+  * Your California Privacy Rights
+  * How to Submit Privacy Related Inquiries and Complaints
 
 
 
-If you would like to elect not to receive our catalogs, follow the instructions located at [contact us](https://web.archive.org/web/20140331033552id_/http%3A//www.justmysize.com/webapp/wcs/stores/servlet/contactus_11151_-1_11002).
+We encourage you to refer to this Notice periodically so that you understand our current practices regarding information collected about you through your [use](https://web.archive.org/web/20161127131332id_/http%3A//www.justmysize.com/shop/justmysize/TermsOfUse) (as defined in the Terms of Use) of the Site. Your access and use of the Site means that you agree to the terms and conditions set forth in this Notice and the Terms of Use.
 
-If we publish Postings that you submit to us for potential publication, we may identify you as the source of such information by first name, last initial and city of residence or as otherwise indicated on the applicable submission pages. Any information about yourself submitted in a "public" area or feature of our Site, may allow members of the general public to view such submitted information and content on the Internet, may be routed through our servers, the servers of one or more third parties on our behalf, and the Internet, **and you have no expectation of or right to privacy with regard to any such Posting**. The security of any information you disclose in public areas or features of the Site is not guaranteed; you make such Postings and disclosures at your own risk.
+* ### Obtaining and Handling Your Consent
 
- **Disclosure to Third Parties**
+HanesBrands will seek to obtain your consent where required by applicable law. HanesBrands respects your decisions about the collection and use of your PII. You have the ability to revoke your consent at any time subject to applicable legal obligations, and you may do so by clicking an "unsubscribe" link included in a communication or by contacting HanesBrands using the contact information below.
 
-We will not rent your email address. In addition, we do not sell your Personal Information to unaffiliated entities, except in the limited circumstances described below. **Remember, we are referring to information obtained online through our Site and the use of it for email or other online purposes**. We may disclose Personal Information to affiliates for marketing and/or administrative purposes. We may rent lists of our customers' postal mailing addresses to third parties. You can elect for us not to rent these lists to unaffiliated third parties by emailing us at jms.manager@justmysize.com. Some of our contests, sweepstakes and other offerings may be co-sponsored by another company. In those situations, the information we obtain from you in connection with them may be shared with our co-sponsor. In those situations, our co-sponsors will have the right to use your information for their own purposes, in accordance with their own policies. We are not responsible for how our co-sponsors may use your information.
+* ### What PII HanesBrands Collects
 
-Third parties, such as ad networks, web analytics companies and social networking platforms, collect personally identifiable information about your online activities over time and across our Site and other third-party online properties or online services.
+HanesBrands may collect information from a variety of sources, including information provided by you, information we collect when you use the Site or purchase products through it, and information about you that we receive from third-party sources.
 
-Additionally, we may disclose your Personal Information if required to do so by law or to comply with our legal and regulatory obligations or to protect our Site, our business and assets, or other users of our Site or the public, in general. On occasion, we contract with other companies to provide certain services to us, including credit card processing, shipping, e-mail distribution, changing mailing addresses, market research and promotions management. We provide these companies only with the information (which may include Personal Information) needed to perform their services and try to ensure your Personal Information is maintained and used as set forth in this Privacy Policy Statement. These companies are prohibited from using your Personal Information for their own marketing purposes or from sharing this information with others, but we cannot guarantee security of Personal Information and are not liable for misuse of it by others. Hanesbrands may (a) buy or sell assets, subsidiaries, or business units, or may be acquired by another company or (b) file for or be subject to an involuntary bankruptcy or restructuring. In such transactions, Personal Information is usually one of the transferred business assets, and we reserve the right to transfer all Personal Information in our possession as part of any such transaction. Such transferred Personal Information shall remain subject to the promises made in this Privacy Policy Statement.
+HanesBrands has identified our sources of information, together with examples of the kinds of information collected by each source:
 
- **Updating Your Personal Information; E-mail Unsubscribe Options**
+  * **Information You Provide:** We may collect PII from you when you use the Site. For example, you may provide such information when you search for and buy a product, subscribe to various services such as email communications, post reviews or other user-generated content, compile a "My Favorites" list or other product list, participate in contests or questionnaires, respond to a survey, or communicate with customer service, among other things. For purposes of this Notice, "PII" means any information you provide to us on the Site relating to an individual who can be identified directly or indirectly from that information or any other information likely to come into our possession. Examples of the types of PII that we may request from you include, but may not be limited to, the following:
+    * Name (first, middle initial, and last)
+    * Address (billing and shipping)
+    * Zip code
+    * E-mail address
+    * Telephone number(s)
+    * Mobile telephone number(s)
+    * Date of birth or age
+    * Security question answers
+    * Credit card or other payment information for purchases you make on the Site
+    * Your order history (including returns or exchanges)
+  * **Automatically collected information:** We, and certain service providers and other third-parties acting on our behalf, use cookies, web beacons, Flash cookies (also known as local shared objects) and other technologies (collectively, "Cookies") to receive and store certain types of information whenever you use or interact with the Site. This information may include the pages you visit on our Site, the web address from which you came, the type of browser/device/hardware you are using, purchase information and checkout process information, search terms and mobile geographic location. This information helps us to recognize you, customize your website experience and make our marketing messages more relevant. Cookies enable us to enhance the user experience on the Site by providing features, including Site customization and storage of items in your cart between visits. In addition, we use Cookies for reporting and analysis purposes (such as how you are shopping our website, the performance of our marketing efforts and your response to those marketing efforts). Cookies may also be used in connection with our content appearing on other websites or mobile applications.
+  * **Information from Third Parties:** We also obtain PII from third parties. For example, portions of the Site may include features or widgets from various social media platforms, such as Facebook, Google Plus, Twitter, Pinterest, Instagram, Tumblr and YouTube (each, a "Social Media Platform"), and we may enable you to register or log in to the Site through a Social Media Platform. These features use Cookies to collect information about your IP address and the pages on our Site that you have visited. Your interactions with those features are governed by the terms of use and privacy policies of the companies that provide them.
+  * **Mobile Information.** When you use the Site on a mobile device or when you download or use any apps created by us, we may receive information about your location. We may also receive information about your mobile device itself, including your device's unique identifier. We may use this information to provide you with location-based services and other services, such as advertising, search results and other personalized content. 
 
-If you registered on our Site, except for Personal Information needed to complete your purchase of products, if any, and in the event the Site does not have a "My Account" link to pages containing the Personal Information you wish to access, you may request that: (i) we correct or update any such Personal Information; or (ii) such Personal Information be unsubscribed from the email marketing database for the Site. To make such a request, you may [click here](https://web.archive.org/web/20140331033552id_/http%3A//www.justmysize.com/webapp/wcs/stores/servlet/contactus_11151_-1_11002) or send an e-mail to jms.manager@justmysize.com, write to Just My Size Consumer Services, Hanesbrands Inc., P.O. Box 748, Bethania, NC 27098, or call (800) 261-6098. When contacting us, please be sure to provide us with your exact e-mail address, name, postal address, and/or telephone number(s) in order to be sure we handle your request correctly.
 
-In addition each time we send you an e-mail marketing message, we give you the option to unsubscribe from the applicable brand's promotional e-mail list by simply clicking the unsubscribe link. We may, however, continue to contact you via e-mail for administrative or informational purposes, including follow-up messages regarding the administration of your account, any services, features or functions you have enrolled in or registered to use, any promotions or contests you have participated in or have entered, goods and/or services you have ordered, or other transactions you have undertaken with the Site.
 
- **Third-Party Sites**
+If you choose not to provide certain information, this may impact your use of certain resources or services that are provided by HanesBrands.
 
-The Site may contain advertisements, references and links to other websites and third parties. We may also use third parties (i) to host and display our branded social media fan pages (e.g., Facebook, Twitter and YouTube), or (ii) to display or serve advertising on the Site and our web-based newsletters or other communications which you may choose to receive. Even if we have a relationship with the third party, we do not control those third-party sites or their privacy practices. **This Privacy Policy Statement does not cover any use of Personal Information that a third party may collect from you or that you make available via one of our branded social media pages on a third-party platform, such as Facebook. When you participate in our user community platforms at third party sites such as Facebook, the information you submit will be received and used by such third party platforms, pursuant to their privacy policies, and will also be received by us for our use in accordance with this Privacy Policy.**
+* ### How HanesBrands Uses Your PII
 
- **Security**
+We may use the information we collect from you and about your use of our Site for a variety of reasons related to our business operations and as set forth in this Notice, and we may combine information about you that we collect online, in our stores, via mobile applications and from third-party sources. Examples of ways that we may use such information include the following:
 
-We maintain reasonable standards of security and confidentiality. However, for most Internet sites, it is possible that third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission or stored on our systems. We conduct financial transactions via secured transmissions but may not always secure other parts of the Site. We also limit access to the Site by our own employees to those individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes. We request that our operational service providers follow the same policy.
+  * **Business communication:** To communicate with you for business reasons. Or, to let you know about changes to our policies or in response to your inquiry
+    * Responding to your requests (including, for example, to process an order; enter a sweepstakes; post a testimonial, photograph, comment, or question, or to receive product information or catalogs, or to enroll in our e-mail program);
+    * Inviting you to participate in market research;
+    * Providing any necessary notices to our visitors and notifying them about Site updates;
+    * Sending catalogs, printed materials, offers and other announcements to postal addresses and allowing our affiliates and other reputable third-party marketers to do the same;
+    * Providing any necessary notices to our visitors and notifying them about Site updates;
+    * Sending catalogs, printed materials, offers and other announcements to postal addresses and allowing our affiliates and other reputable third-party marketers to do the same;
+    * Sending e-mail offers, announcements, or newsletters to your e-mail address (these e-mails may come from any of us at HanesBrands, including any HanesBrands affiliate);
+    * Contacting you (either by a traditional voice call or through a SMS or text message) on a residential or mobile telephone number you have given us, to provide you with information about our products, special offers, or promotions;
+    * Contacting you using a telephone number you have given us, to complete a transaction you have initiated with us;
+    * Enabling users to register an account on the Site and to log in using their credentials from a Social Media Platform;
+    * Providing apps or interactive features of the Site, such as product reviews or marketing communications and other information regarding our products, services and promotions;
+    * Administering promotions, surveys and focus groups; and
+    * Providing location-based services, including search results and other personalized content, through use of location information obtained from your mobile device.
+  * **Resource monitoring:** To monitor usage of HanesBrands facilities and resources, and secure HanesBrands premises, assets and information
+    * Tracking our visitors' use of the Site for internal research purposes and to enhance our product messaging to you;
+    * Improving the content, appearance and utility of the Site; and
+    * Monitoring against theft and fraud. 
+  * **Legal and regulatory:** Compliance, internal control evaluations and audits (including those conducted by HanesBrands' internal and external audit service providers), and, to the extent permitted in this Notice and by the applicable law, providing assistance to law enforcement. 
 
- **Phishing**
 
-Phishing attacks attempt to steal consumers' personal identity data and financial account credentials. "Phishers" use "spoofed" e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging sensitive Personal Information such as credit card numbers, account usernames, passwords, and Social Security Numbers. **WE DO NOT SEND EMAILS ASKING YOU TO PROVIDE OR CONFIRM SENSITIVE PERSONAL INFORMATION OR YOUR USERNAME OR PASSWORD!** If you receive such e-mail communication, please forward it immediately to the Site's Privacy Administrator at jms.manager@justmysize.com, and then immediately delete the fraudulent e-mail from your computer.
 
- **Updating the Privacy Policy Statement**
+If not legally permissible or permitted by you, HanesBrands will not sell, trade, or lease your email address to any third party for their own marketing purposes.
 
-As we continue to develop our Site and take advantage of technologies to improve the services we provide, we may have a need to change our current privacy policies. We therefore reserve the right, at our discretion, to change, modify, add, or remove portions of this Privacy Policy Statement at any time. If elements of our Privacy Policy Statement change, we will revise this Privacy Policy Statement. You should check this page periodically for changes. Your continued use of this Site following the posting of changes to this Privacy Policy Statement will mean that you accept those changes. Under certain circumstances (for example, in connection with certain material changes), we may also elect to notify you of changes or updates to our Privacy Policy, or to request your consent for such changes, by additional means, such as posting a notice on the front page of our Web Site to sending you an e-mail.
+* ### How HanesBrands Protects Your PII
 
- **Questions Regarding This Privacy Policy Statement**
+We maintain reasonable administrative, technical and physical safeguards to protect your PII. However, no e-commerce solution, website, database, or system is completely secure or "hacker proof." As such, you are also responsible for taking reasonable steps to protect your PII against unauthorized disclosure or misuse.
 
-If you have questions about this Privacy Policy Statement, please contact our Privacy Administrator via e-mail at jms.manager@justmysize.com, call (800) 261-6098 or mail your question or inquiry to:
+Phishing attacks attempt to steal consumers' PII and financial account credentials. "Phishers" use "spoofed" e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging PII such as credit card numbers, account usernames, passwords and Social Security numbers.
 
- **Hanesbrands Inc.  
-P.O. Box 748  
-Rural Hall, NC 27098  
-c/o Privacy Administrator**
+WE DO NOT SEND E-MAILS ASKING YOU TO PROVIDE OR CONFIRM SUCH EXAMPLES OF PII OR YOUR USERNAME OR PASSWORD! If you receive such e-mail communication, please forward it immediately to [consumer.privacy@hanes.com](mailto:consumer.privacy@hanes.com) and then immediately delete the fraudulent e-mail from your computer.
+
+* ### How Your PII is Shared with Third Parties
+
+HanesBrands respects your privacy and, accordingly, shares PII with third parties in a limited number of circumstances:
+
+  * **Affiliates:** We may share your PII within the HanesBrands family of companies for marketing and/or other administrative purposes.
+  * **Third-Parties:** We may contract with other companies to provide certain services to us, including credit card processing, shipping, e-mail distribution, changing mailing addresses, market research, promotions management, database management, and advertising and promotion management. These third-party service providers may have access to PII or non-PII in order to perform their functions, but they may not use this information for other purposes. These companies are prohibited from using your PII for their own marketing purposes or from sharing this information with others, but we cannot guarantee security of PII and are not liable for misuse of it by others. 
+
+We also use third-party service providers to serve advertisements (such as banners, links, etc.) on our behalf, whether displayed on the Site or elsewhere on the Internet. These advertising service providers may use Cookies to collect non-identifiable information about your visits to the Site. Such non-identifiable information does not include your name, address, e-mail address, or other PII; but it may, in some cases, include your IP address. In addition to the information about your visits to the Site, our service providers may also use the information about your visits to other websites to target advertisements for products and services available from us.
+
+
+
+
+Our advertising partners, may use third-party Cookies on our site. In the future, we may partner with other entities that will provide us with interest-based advertising (displayed on the Site or elsewhere on the Internet). For more information about interest-based advertising and for a link to a tool that will enable you to manage third-party advertising preferences, see the Managing Your Preferences: Interest-Based Advertising section, below.
+
+HanesBrands may share your PII with third parties (companies and organizations) under the following circumstances:
+
+  * **Purposes authorized by you:** When you have requested or authorized such sharing (e.g., payment processing, delivery of goods and services, participating in HanesBrands sponsored programs, if you create a "My Favorites" list and elect to make it available to the public)
+  * **Promotional offers:** Although we do not rent customers' e-mail addresses to third parties, we may rent to non-affiliated third parties (for their own marketing or promotional uses) the names and postal addresses of customers that have ordered our products through the Site. The Managing Your Preferences section of this Notice discusses ways that you can modify your promotional and marketing preferences. 
+  * **Co-Sponsored events:** We sometimes work with an unaffiliated co-sponsor to provide certain contests, sweepstakes, promotions and other offerings to our consumers. We will let you know if an event or promotion is co-sponsored (for example, by prominently displaying the co-sponsor's name and/or logo on applicable pages on the Site). As part of a co-sponsored event, we may provide the co-sponsor with information (including PII) that is necessary to facilitate the event. In these circumstances, our co-sponsor will have the right to use any PII received from us for its own purposes, and such uses would then be subject to the co-sponsor's own terms of use and Notice. We are not responsible for how our co-sponsors may use your PII that we share in connection with a co-sponsored event. 
+  * **Social media platforms:** If you choose to connect your ID (see [Terms of Use:Registration](https://web.archive.org/web/20161127131332id_/http%3A//www.justmysize.com/shop/justmysize/TermsOfUse#tou-registration)) with a Social Media Platform or use your credentials on it to register or log in to the Site, we will ask you for your permission to access your data on the Social Media Platform to create a Site account. 
+  * **Protecting our interests; legal compliance:** We may disclose information we collect when we believe disclosure is appropriate in order to comply with the law, to enforce or apply applicable terms and conditions and other agreements, and/or to protect the rights, property or safety of our company, our consumers, or others. If some or all of our business assets are sold or transferred, we may transfer the corresponding information regarding our consumers. We also may retain a copy of such transferred consumer information.
+  * **Aggregated information:** We may share with third parties certain aggregate information (that is, information that does not directly identify an individual). This allows us to give you a more personalized experience when you use the Site.
+
+
+
+Remember that this Notice only applies to information collected through the Site. It is possible that our policies relating to information collected at our retail locations or through our mail order catalog may permit us to share PII in different circumstances, even if that information has also been collected through the Site pursuant to this Notice.
+
+* ### Cross-Border Data Transfer of Your PII
+
+Since HanesBrands is a multinational organization with a presence in many countries, your PII may be transferred across national borders and may be accessed by HanesBrands entities as well as affiliated vendors and suppliers from countries with varying degrees of protection for your PII. Any international transfer of your PII will be done in accordance with applicable privacy and data protection laws and regulations.
+
+* ### Updating Your Account Information and Managing Your Preferences
+
+You may update your account information and preferences by:
+
+  * **Updating your account information:**
+    * If you are a registered user of the Site, you can use the [My Account](https://web.archive.org/web/20161127131332id_/http%3A//www.justmysize.com/shop/justmysize/MyAccount) page on the Site to update your contact, shipping, and other account information.
+    * If you have questions about your order, you may check your order status online in [My Order](https://web.archive.org/web/20161127131332id_/http%3A//www.justmysize.com/shop/justmysize/OrderStatusSummary).
+    * If you have any additional questions, please call our Customer Service department at (800) 832-0594.
+  * Managing Your Preferences. We want to communicate with you in the most effective manner, whether by sending you relevant marketing materials or by operating an intuitive and informative website. At the same time, we appreciate that your preferences regarding marketing, promotions and online privacy will continue to evolve. This section provides you with information on how you can fine-tune your preference settings.
+    * **Hanesbrands Marketing and Promotions.** If, at any time, you no longer wish to receive marketing or promotional materials from us, you may notify us of your choice in several different ways. You may send an e-mail to [consumer.privacy@hanes.com](mailto:consumer.privacy@hanes.com); you may write to:
+
+> Hanes Consumer Services,  
+>  Hanesbrands Inc., P.O. Box 283,  
+>  Rural Hall, NC 27045-0283;
+> 
+> or you may call (800) 832-0594.
+
+When contacting us, please be sure to provide us with your exact e-mail address, name, postal address, and/or telephone number(s) in order to be sure we handle your request correctly.
+
+In addition, each time we send you an e-mail marketing message, we give you the option to unsubscribe from the applicable brand's promotional e-mail list by simply clicking the unsubscribe link included in the e-mail.
+
+We may, however, continue to contact you via e-mail if you have subscribed to any of our other brand-specific e-mail lists. We may also continue to contact you by e-mail for administrative or informational purposes, including follow-up messages regarding the administration of your account, services, features or functions in which you have enrolled or registered to use, other promotions or contests in which you have participated or have entered, goods and/or services you have ordered, and other transactions you have undertaken with the Site.
+
+    * **Third-Party Services:** This Notice does not cover any use of PII or non-PII that a third party may collect from you or that you may make available through use of the Site or our branded pages on a third-party website (such as a fan page on a Social Media Platform), and any such information is governed by the applicable third party's terms of use and Notice and not this Agreement. Accordingly, we encourage you to familiarize yourself with the privacy policies and controls of applicable third-party service providers and Social Media Platforms.
+    * **Mobile Devices:** Most mobile devices allow you to customize various privacy settings, such as location services and push notifications. For more information about how to do this, please contact your mobile service provider or the manufacturer of your mobile device to learn how to adjust the settings on your device. Please note that if you choose not to provide us with your location information through the mobile version of the Site, you may not be able to use some or all of the Site's features.
+    * **Interest-Based Advertising and Do-Not Track Settings:** Interest-based advertising uses information about you to provide relevant, targeted advertising likely to be of interest to you. Click [here](http://www.aboutads.info/consumers) for additional information on interest-based advertising. Although some web browsers offer "do not track" options, the Site does not currently honor "do-not-track" browser settings. If you would like to opt-out of interest-based advertising, please click [here](http://www.aboutads.info/choices/).   
+Please note: if you choose opt-out of Hanesbrands' interest-based advertising, you may continue to see or receive online advertising from us, but such ads may not be as relevant to you.
+    * **Cookies:** Internet browser software may allow you to change settings and prevent websites from automatically setting Cookies. Some media players, such as Flash, allow you to manage local shared objects. If you do change these settings, it may affect your ability to use certain features and functions on our Site, and you may need to re-enter information when you use the Site at a later time. You should consult with the publisher or licensor of your browser and media players if you want to change the settings or if you are experiencing trouble browsing our Site.
+
+
+* ### Information about Children Under 13
+
+We recognize the particular importance of protecting the privacy of PII where children are involved, and we do not knowingly collect PII from children under the age of 13. We do not sell products for purchase by children, but some portions of the Site may offer children's products for purchase by adults.
+
+If you as a parent or guardian believe that a child under the age of 13 has provided our website with PII, we ask that you call (800) 832-0594 or contact us at [consumer.privacy@hanes.com](mailto:consumer.privacy@hanes.com), and we will delete the information about the child from our files.
+
+* ### Revisions and Updates
+
+We reserve the right to change this Notice and will provide an appropriate notification (by, for example, posting a notice on the front page of the Site) if we materially change the Notice. When we make changes to this Notice, we will update the revision date at the top of this page. Any changes to our Notice will become effective upon our posting of the revised Notice on the Site. Use of the Site following such changes constitutes your acceptance of the revised Notice then in effect.
+
+* ### Your California Privacy Rights
+
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of PII we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of PII shared with third parties and used for direct marketing purposes and the name and address of the third parties that received such PII.
+
+If you are a California resident and want a copy of this notice, please submit a written request to the following address:
+
+> c/o Privacy Administrator  
+> Hanesbrands Inc.  
+> P.O. Box 283  
+> Rural Hall, NC 27045-0283
+
+In your request, please specify that you want a "Your Hanesbrands California Privacy Rights Notice." Once we have received your request, we will respond within 30 days.
+
+* ### How to Submit Privacy Related Inquiries and Complaints
+
+You may use the contact information below to update or amend the PII that HanesBrands has about you, or to submit a general privacy related inquiry or complaint in accordance with applicable laws and regulations. HanesBrands will respond to such requests in accordance with applicable laws.
+
+  * **E-mail:** [consumer.privacy@hanes.com](mailto:consumer.privacy@hanes.com)
+  * **Telephone:** (800) 832-0594
+  * **Mailing address:** Privacy Administrator, HanesBrands Inc., P.O. Box 283, Rural Hall, NC 27045-0283
+
+
+
+When contacting us, please be sure to provide us with your exact e-mail address, name, address, and/or telephone number(s) so that we may handle your request appropriately.
