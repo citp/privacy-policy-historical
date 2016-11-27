@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiralized.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605050651id_/http%3A//inspiralized.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiralized.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127013757id_/http%3A//inspiralized.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Inspiralized
 
