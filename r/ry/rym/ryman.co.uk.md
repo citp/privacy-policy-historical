@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ryman.co.uk privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514130121id_/http%3A//www.ryman.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryman.co.uk privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128000824id_/http%3A//www.ryman.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 At Ryman.co.uk we recognise how important is to keep your personal information safe and secure. 
 
-We are totally committed to ensuring that your online shopping experience is completely private and when you give us your name, address, credit card, contact details, or any other personal details we promise to keep them safe and secure and we promise never to share them with anyone outside of The Theo Paphitis Retail Group.
+We are totally committed to ensuring that your online shopping experience is completely private and when you give us your name, address, credit card, contact details, or any other personal details we promise to keep them safe and secure and other than explained in this policy we promise never to share them with anyone outside of The Theo Paphitis Retail Group.
 
 ## Shopping with Ryman is safe, secure and guaranteed
 
@@ -14,13 +14,13 @@ We are totally committed to ensuring that your online shopping experience is com
   * What information we collect 
   * Credit Card Fraud Prevention 
   * Phishing 
-  * [Find out more about how Ryman use of cookies](https://web.archive.org/web/20160514130121id_/http%3A//www.ryman.co.uk/cookie-policy)
+  * [Find out more about how Ryman use of cookies](https://web.archive.org/web/20161128000824id_/http%3A//www.ryman.co.uk/cookie-policy)
 
 
 
 ## Site Security
 
-The Ryman.co.uk website is totally secure. The Ryman website uses 128 bit SSL (Secure Sockets Layer) encryption technology which is the most advanced level of security that is currently available for online purchasing. When you are in a secure area of the website, such as the checkout screens, you should see a solid padlock in your browser status bar which indicates that the encryption is taking place. You will also see that the Ryman address in the browser has changed and the http has been replaced with https in front of the www.ryman.co.uk address. 
+The Ryman.co.uk website is highly secure. The Ryman website uses 128 bit SSL (Secure Sockets Layer) encryption technology which is the most advanced level of security that is currently available for online purchasing. When you are in a secure area of the website, such as the checkout screens, you should see a solid padlock in your browser status bar which indicates that the encryption is taking place. You will also see that the Ryman address in the browser has changed and the http has been replaced with https in front of the www.ryman.co.uk address. 
 
 ## Privacy Promise
 
@@ -55,10 +55,10 @@ We require this information to understand your needs and provide you with a bett
 • We may use the information to improve our products and services.   
 • We may periodically send promotional emails about new products & special offers   
 • From time to time, we may also use your information to contact you for market research purposes   
-• We may use the information to customise the website according to your interests 
+• We may use the information to customise the website according to your interests and to present you with advertisements about our products and services when you visit other websites, and to present you with advertisements about our products and services when you visit other websites. It is possible that personal information you provide to us may be transferred to, and processed in, a destination outside the European Economic Area ("EEA"). We will take all steps reasonably necessary to ensure your data is treated securely and in accordance with this Privacy Policy. 
 
 **Email marketing services**   
-From time to time, we may contact you regarding offers and updates on our products and services. These emails may be personalised to contain your name for promotional reasons. We use some third party institutions to handle the processing and fulfilment of your order. They receive (address and contact numbers to contact your regarding the delivery of your order) the information needed to do this and all such institutions are under strict contractual obligations to keep your personal information secure and private. 
+From time to time, we may contact you regarding offers and updates on our products and services. These emails may be personalised to contain your name for promotional reasons. We use some third party institutions to perform services on our behalf including the handling, processing and fulfilment of your order. They receive (address and contact numbers to contact your regarding the delivery of your order) the information needed to do this and all such institutions are under strict contractual obligations to keep your personal information secure and private. 
 
 For full details on our Privacy Policy, please see the section incorporated into our [Terms and Conditions](http://www.ryman.co.uk/terms-and-conditions/) of use. 
 
