@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlyinyourstate.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623061516id_/http%3A//www.onlyinyourstate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlyinyourstate.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127073025id_/http%3A//www.onlyinyourstate.com/privacy-policy) for the most accurate reproduction.*
 
 # Only In Your State LLC Privacy Policy
 
