@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igotbiz.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626042842id_/http%3A//www.igotbiz.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igotbiz.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127102846id_/http%3A//www.igotbiz.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,7 +8,7 @@ Your iGotBiz Information
 
 **Generally**
 
-iGotBiz is provided by iGotBizMedia, Inc. and its affiliates (“we” or “us”). Your iGotBiz information consists of personally identifiable information collected or received about you when you make purchases from us, when you register with us, when you set up profiles to share with others, when you interact with other users on iGotBiz, or when you log in to iGotBiz as a registered user and interact with iGotBiz products and services. Your iGotBiz information may include (a) registration-related information (such as name, address, telephone and fax numbers, email address); (b) member profile about yourself that you can share with others; (c) a profile on your business or your profession that you desire to share with others, (d) transaction-related information (such as credit card or other preferred means of payment, or a history of products purchased through us); (e) information about your visits to iGotBiz or our other web sites, pages and services; (f) your responses to our offerings and advertisements; (g) information about the features or offerings you use from us; (h) your billing and shipping information; (i) customer service information; and (j) other information specifically related to your use of a particular iGotBiz feature or offering. Your information may be supplemented with additional information from other companies such as publicly available information and other information that we may append or match to your information.
+iGotBiz is provided by iGotBiz.COM and its affiliates (“we” or “us”). Your iGotBiz information consists of personally identifiable information collected or received about you when you make purchases from us, when you register with us, when you set up profiles to share with others, when you interact with other users on iGotBiz, or when you log in to iGotBiz as a registered user and interact with iGotBiz products and services. Your iGotBiz information may include (a) registration-related information (such as name, address, telephone and fax numbers, email address); (b) member profile about yourself that you can share with others; (c) a profile on your business or your profession that you desire to share with others, (d) transaction-related information (such as credit card or other preferred means of payment, or a history of products purchased through us); (e) information about your visits to iGotBiz or our other web sites, pages and services; (f) your responses to our offerings and advertisements; (g) information about the features or offerings you use from us; (h) your billing and shipping information; (i) customer service information; and (j) other information specifically related to your use of a particular iGotBiz feature or offering. Your information may be supplemented with additional information from other companies such as publicly available information and other information that we may append or match to your information.
 
 **Your Profile**
 
@@ -72,9 +72,7 @@ Questions
 
 If you have further questions or concerns that have not been addressed in this statement, please send your inquiries to:
 
-iGotBiz.com Privacy Policy  
-c/o iGotBizMedia, Inc.  
-1289 Williams Landing Rd.Tallahassee, FL  32310
+iGotBiz.com 
 
 Please be sure to include your name, address and daytime phone number so we can contact you.
 
@@ -82,4 +80,4 @@ Changes
 
 We may update this Privacy Policy from time to time, and so you should review this Policy periodically. If there are significant changes to our information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from us as well as for special features and services not described in this Policy that may be introduced in the future.
 
-**Last Updated: 1/27/2015**
+**Last Updated: 7/04/2016**
