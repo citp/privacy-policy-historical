@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigasoft.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410204852id_/http%3A//www.bigasoft.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigasoft.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127101438id_/http%3A//www.bigasoft.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Bigasoft Privacy
 
@@ -66,17 +66,17 @@ Please note that this Privacy Policy may change from time to time. We will not r
 
 Contact Information
 
-Bigasoft welcomes your comments regarding this privacy statement, please [contact us](https://web.archive.org/web/20160410204852id_/http%3A//www.bigasoft.com/contact.html) by e-mail.
+Bigasoft welcomes your comments regarding this privacy statement, please [contact us](https://web.archive.org/web/20161127101438id_/http%3A//www.bigasoft.com/contact.html) by e-mail.
 
 _Last updated June 25, 2009_
 
 ## iMovie Converter
 
-[](https://web.archive.org/web/20160410204852id_/http%3A//www.bigasoft.com/imovie-converter-mac.html)
+[](https://web.archive.org/web/20161127101438id_/http%3A//www.bigasoft.com/imovie-converter-mac.html)
 
 Unlimited Footages, Unlimited Creativities
 
-  * [Free Download](https://web.archive.org/web/20160410204852id_/http%3A//www.bigasoft.com/downloads/b-imovie-converter-mac.dmg)
+  * [Free Download](https://web.archive.org/web/20161127101438id_/http%3A//www.bigasoft.com/downloads/b-imovie-converter-mac.dmg)
 
 
 
