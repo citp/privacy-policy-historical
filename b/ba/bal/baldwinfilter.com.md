@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baldwinfilter.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609051441id_/http%3A//www.baldwinfilter.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baldwinfilter.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127072017id_/http%3A//baldwinfilter.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Baldwin Filters | Privacy Policy
 
@@ -20,4 +20,4 @@ Most web browsers automatically accept cookies, but you can usually modify your 
 
 Our website may contain links that enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information that you provide while visiting such sites, which are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-If you have previously agreed to us using your personal information, you may change your mind at any time by writing to or emailing us at info@baldwinfilter.com. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. 
+If you have previously agreed to us using your personal information, you may change your mind at any time by writing to or emailing us at clarcoremg.info@clarcor.com. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. 
