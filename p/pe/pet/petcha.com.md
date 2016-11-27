@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petcha.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404191403id_/http%3A//petcha.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petcha.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127200030id_/http%3A//petcha.com/privacy_policy) for the most accurate reproduction.*
 
 # Petcha
 
@@ -8,7 +8,7 @@
 
 **PLEASE READ THIS PRIVACY POLICY (“PRIVACY POLICY”) CAREFULLY AND IN ITS ENTIRETY BEFORE USING OUR WEBSITES, APPLICATIONS OR ANY OTHER Petcha.com PRODUCTS OR SERVICES.**
 
-I5 Publishing, LLC, d/b/a Petcha.com (“Petcha.com, “we” “us”, “our”), has developed this Privacy Policy which details important information regarding the use and disclosure of user information collected on the our website, successor websites, mobile website and applications and related services and tools that link to this Privacy Policy as well as when you interact with Pecha.com or its products or services by any method (collectively, "Services"). Petcha.com provides this Privacy Policy to help you make an informed decision about whether to use or continue to use the Services and the choices we offer for you to manage the information we collect related to the use of the Services. Each time that you access or use Services, you are agreeing to this Privacy Policy. If you do not agree to this Privacy Policy or [Terms of Use](http://petcha.com/terms_of_service) which govern your use of our Services, please discontinue accessing or using the Services.
+Lumina Media, LLC, d/b/a Petcha.com (“Petcha.com, “we” “us”, “our”), has developed this Privacy Policy which details important information regarding the use and disclosure of user information collected on the our website, successor websites, mobile website and applications and related services and tools that link to this Privacy Policy as well as when you interact with Pecha.com or its products or services by any method (collectively, "Services"). Petcha.com provides this Privacy Policy to help you make an informed decision about whether to use or continue to use the Services and the choices we offer for you to manage the information we collect related to the use of the Services. Each time that you access or use Services, you are agreeing to this Privacy Policy. If you do not agree to this Privacy Policy or [Terms of Use](http://petcha.com/terms_of_service) which govern your use of our Services, please discontinue accessing or using the Services.
 
 **1\. INFORMATION WE COLLECT**
 
