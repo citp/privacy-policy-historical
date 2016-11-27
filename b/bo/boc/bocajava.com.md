@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bocajava.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314175319id_/http%3A//www.bocajava.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bocajava.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127155357id_/http%3A//www.bocajava.com/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Gourmet Coffee - Gourmet Tea, Espresso, and Coffee Gifts by BocaJava
 
