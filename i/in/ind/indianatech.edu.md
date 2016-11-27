@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianatech.edu privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424095115id_/http%3A//its.indianatech.edu/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianatech.edu privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127094301id_/http%3A//its.indianatech.edu/policies/privacy-policy) for the most accurate reproduction.*
 
 # Indiana Tech: IT Services: Privacy Policy
 
@@ -38,3 +38,7 @@ Indiana Tech
 1600 E. Washington Boulevard  
 Fort Wayne, IN 46803  
 800.937.2448
+
+## WePay Payment Processor
+
+Indiana Tech offers payments through WePay, Inc. (“WePay”), a third-party payment processor. The WePay Terms of Service are available here: <https://go.wepay.com/terms-of-service-us>. The WePay Privacy Policy is available here: <https://go.wepay.com/privacy-policy-us>. If you use the WePay payment service, you agree to the WePay Terms of Service and Privacy Policy for the country in which you are located. If you have questions regarding the WePay Terms of Service or Privacy Policy, please refer to the WePay website [www.wepay.com](https://www.wepay.com/) or contact WePay at <https://support.wepay.com/hc/en-us>.
