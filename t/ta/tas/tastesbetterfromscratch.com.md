@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tastesbetterfromscratch.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605034637id_/http%3A//tastesbetterfromscratch.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastesbetterfromscratch.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127141514id_/http%3A//tastesbetterfromscratch.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Tastes Better From Scratch
 
