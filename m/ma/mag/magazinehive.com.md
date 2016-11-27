@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazinehive.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606193436id_/http%3A//www.magazinehive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazinehive.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127091908id_/http%3A//www.magazinehive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
