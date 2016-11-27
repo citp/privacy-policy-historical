@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullyfilmy.in privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612181428id_/http%3A//fullyfilmy.in/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullyfilmy.in privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127031501id_/http%3A//fullyfilmy.in/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Fully Filmy
 
@@ -56,12 +56,6 @@ We do not store your credit card or netbanking details. We've partnered with In
 
 
 
-### Contacting Us 
+### CONTACTING US
 
-If there are any questions regarding this privacy policy you may contact us using the information below:
-
-_**Company Name:** Fully Filmy_
-
-_**Address:** 287, 13th Street, Korattur, Chennai - 600080_
-
-_**E-Mail ID:**  contact@fullyfilmy.in_
+If you have any queries or need further clarification regarding your experience on Fully Filmy, please contact us on 9941922192
