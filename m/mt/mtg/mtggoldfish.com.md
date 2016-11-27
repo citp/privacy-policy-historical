@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtggoldfish.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610002007id_/http%3A//www.mtggoldfish.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtggoldfish.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127082455id_/https%3A//www.mtggoldfish.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use
 
