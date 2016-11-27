@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsdb.co.th privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407235015id_/http%3A//th.jobsdb.com/en-th/pages/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsdb.co.th privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127224440id_/http%3A//th.jobsdb.com/en-th/pages/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | jobsDB Thailand
 
@@ -6,7 +6,7 @@ jobsDB Thailand respects the privacy of the personal information and data of its
 
 Users are strongly recommended to read this privacy statement ( **“Privacy Statement”** ) carefully to have an understanding of jobsDB Thailand’s policy and practices with regard to the treatment of personal information and data provided by Users on the Site. This Privacy Statement is applicable to both registered and unregistered Users, and the terms herein may be updated, revised, varied and/or amended from time to time as jobsDB Thailand may deem necessary and/or appropriate.
 
-By registering for or using the services/Site, or by clicking the ‘Register’ button, User:
+By registering for or using the services/Site, or by clicking the ‘Sign up’ button, User:
 
   
 (a) | 
@@ -27,8 +27,8 @@ In this Privacy Statement, the following terms shall have the respective meaning
 “ **jobsDB Group** ” means Jobs DB Hong Kong Limited, Jobs DB Singapore Pte Ltd, Jobs DB Philippines Inc, Jobs DB Recruitment (Thailand) Limited and PT Jobs DB Indonesia.   
 “ **jobsDB Thailand** ” means Jobs DB Recruitment (Thailand) Limited.   
 “ **Job Seeker(s)** ” means users seeking employment.   
-“ **Register User(s)** ” means Users who register on the Site to obtain services offered by jobsDB. Unless the context provides otherwise, references in this Privacy Statement to “users” or “you” include references to generic users and Registered Users.   
-“ **Site** ” means any website, job portal or mobile application owned and operated by jobsDB and its affiliates/subsidiaries. 
+“ **Sign up User(s)** ” means Users who sign up on the Site to obtain services offered by jobsDB. Unless the context provides otherwise, references in this Privacy Statement to “users” or “you” include references to generic users and Registered Users.   
+“ **Site** ” means any website, job portal or mobile application owned and operated by jobsDB and its affiliates/subsidiaries or its service providers. 
 
 **Purpose of Collection and Use of Personal Data**
 
@@ -95,7 +95,7 @@ If jobsDB Thailand requires the use of your personal data for a purpose other th
   
 **Collection of Personal Data**  
 
-jobsDB Thailand may collect personal information and/or data about a User such as his/her name, log-in ID and password, address, email address, phone number, age, gender, date of birth, country of residence, nationality, education level and work experience that is/are not otherwise publicly available. Occasionally, jobsDB Thailand may also collect additional personal information and/or data from a User in connection with contests, surveys, or special offers.
+jobsDB Thailand may collect personal information and/or data about a User such as his/her name, login ID and password, address, email address, phone number, age, gender, date of birth, country of residence, nationality, education level and work experience that is/are not otherwise publicly available. Occasionally, jobsDB Thailand may also collect additional personal information and/or data from a User in connection with contests, surveys, or special offers.
 
 Only duly authorized staff of jobsDB Thailand will be permitted to access Users’ personal information and data, and jobsDB Thailand shall not release such personal information and data to any third parties save and except for the circumstances listed out under the section entitled “ **Disclosure or Transfer of Data** ”.
 
@@ -134,6 +134,21 @@ where jobsDB Thailand deems necessary in order to maintain and improve the servi
   
 Personal data collected via the Site may be transferred, stored and processed in any country in which jobsDB Thailand or any member of the jobsDB Group operates. By using the Site, Users are deemed to have agreed to, consented to and authorized jobsDB Thailand to disclose and/or transfer their personal information and data under the circumstances stated above, as well as to any transfer of information (including the Information) outside of the Users’ country.
 
+**jobsDB Advertisers and Online Applications**
+
+Making an online application to a job advertisement on the Site is a free and optional service that requires users to complete mandatory fields (for example first name, last name, phone and email) so that Advertisers can identify and contact the applicants. When you apply for a job advertisement on the Site applications, including attachments and cover letters, are:
+
+  * forwarded directly on to the Advertiser and/or its nominated representative; and/or
+  * stored in the jobsDB Recruitment Centre on behalf of the Advertiser.
+
+
+
+The jobsDB Recruitment Centre allows Advertisers to easily and effectively manage their recruitment process via one central facility made available by jobsDB.
+
+By applying to a position advertised on the Site you are requesting that jobsDB pass the information you provide to the relevant Advertiser and/or their nominated representative. Any questions you have relating to a position advertised on jobsDB, your online application and/or the status of your application should be directed directly to the Advertiser or their nominated agent, not jobsDB.
+
+Any Personal Information retained by jobsDB as part of your application will only be used in accord with this Privacy Statement. The use of your information (personal or otherwise) by Advertisers is not within the control of jobsDB and if you have any questions about how an Advertiser uses your personal information or want to request access to any personal information that you have sent as part of an application or that has been provided to them as part of a jobsDB Profile (as defined below), you have the right to contact that Advertiser directly.
+
   
 **jobsDB Profile**
 
@@ -141,7 +156,7 @@ jobsDB provides all Registered Users with the option of creating a personal jobs
 
   * **STANDARD**
 
-If you set your jobsDB Profile to standard, your Profile, except for your resume and contact details, can be seen by Advertisers searching jobsDB’s Profile database, and if an Advertiser wishes to purchase access to your jobsDB Profile, your full jobsDB Profile including your resume and contact details will be emailed immediately to the relevant Advertiser. Advertisers may also elect to send you a copy of the job opportunity for which they are recruiting, (by using the “invitations to apply for jobs” function).
+If you set your jobsDB Profile to standard, your Profile, except for your resume and contact details, can be seen by Advertisers searching jobsDB’s Profile database. Relevant content from the resume attached to your profile such as employment roles, descriptions of responsibilities and tasks, and educational history including schools, fields and periods of study, may also be scanned by jobsDB and presented to advertisers in the Profile database. Additionally, if an Advertiser wishes to purchase access to your jobsDB Profile, your full jobsDB Profile including your resume and contact details will be emailed immediately to the relevant Advertiser. Advertisers may also elect to send you a copy of the job opportunity for which they are recruiting, (by using the “invitations to apply for jobs” function).
 
   * **LIMITED**
 
@@ -170,14 +185,20 @@ Advertisers that place job ads on jobsDB, and that purchase jobsDB Profiles are 
 
 
 
-  
+**Storing your resume**
+
+Registered Users may elect to store up to 10 resumes in their jobsDB account, and use those resumes when applying for a job.
+
+In order to provide advertiser with the most relevant information about you (and _depending on your jobsDB Profile privacy setting_ ), the primary resume attached to your jobDB Profile will also be scanned by jobsDB and relevant content may be displayed to advertisers in the jobsDB advertiser database. If you do not want content from your resume to be displayed to advertisers do not attach a resume _or_ do not select “Standard” privacy. For more information on how your resume will be used, see above under the heading “jobsDB Profile”.   
+****
+
 **Subscription of Newsletters/Promotional Materials/Marketing Materials  **
 
 jobsDB Thailand and its affiliates may from time to time send to members and Users of the Site newsletters, information on job openings, and marketing materials based on the personal information and data that they have provided to jobsDB Thailand. jobsDB Thailand may use Users’ data in direct marketing and jobsDB Thailand requires the Users’ consent (which includes an indication of no objection) for that purpose. In this connection, please note that:
 
 (a) | 
 
-the name, log-in ID and password, contact details, age, gender, date of birth, country of residence, nationality, education level and work experience of Users held by jobsDB Thailand from time to time may be used by jobsDB Thailand and/or its authorized personnel or staff in direct marketing;  
+the name, login ID and password, contact details, age, gender, date of birth, country of residence, nationality, education level and work experience of Users held by jobsDB Thailand from time to time may be used by jobsDB Thailand and/or its authorized personnel or staff in direct marketing;  
   
 ---|---  
 (b) | 
@@ -257,7 +278,7 @@ jobsDB Thailand follows generally accepted industry standards to protect the per
   
 **Retention of Personal Data  **
 
-Once jobsDB Thailand has obtained a User’s personal information and/or data, it will be maintained securely in jobsDB Thailand’s system for the period necessary to fulfill the purposes for which the data was collected as set out under the section headed “ **Purpose of Collection of Personal Data** ”. Once registered, Users may terminate his/her membership of the Site by contacting the Customer Service Assistant of jobsDB Thailand’s Customer Service Department whose contact details are set out under the section headed “ **Enquiries** ”. jobsDB Thailand may retain User’s personal information even after User has closed his/her account if retention is reasonably necessary to comply with our legal obligations, meet regulatory requirements, resolve disputes between Users, prevent fraud and abuse, or enforce this Privacy Statement and the **[Terms and Conditions](https://th.jobsdb.com/en-th/pages/terms/terms-conditions)**. 
+Once jobsDB Thailand has obtained a User’s personal information and/or data, it will be maintained securely in jobsDB Thailand’s system for the period necessary to fulfill the purposes for which the data was collected as set out under the section headed “ **Purpose of Collection of Personal Data** ”. Once registered, Users may terminate his/her membership of the Site by contacting the Customer Service Assistant of jobsDB Thailand’s Customer Service Department whose contact details are set out under the section headed “ **Enquiries** ”. jobsDB Thailand may retain User’s personal information even after User has closed his/her account if retention is reasonably necessary to comply with our legal obligations, meet regulatory requirements, resolve disputes between Users, prevent fraud and abuse, or enforce this Privacy Statement and the **[Terms and Conditions](https://th.jobsdb.com/en-th/pages/terms/terms-conditions)**.
 
   
 **Changes in this Privacy Statement  **
@@ -278,5 +299,5 @@ Should you have any enquiries relating to this Privacy Statement, please email a
 
 jobsDB Thailand  
 1 Empire Tower III, 26th Floor, Unit 2607-2608,   
-South Sathorn Road, Yannawa, Sathorn  
+South Sathorn Road, Yannawa, Sathorn,  
 Bangkok 10120
