@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kisscartoon.me privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627184305id_/http%3A//kisscartoon.me/Message/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kisscartoon.me privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127204408id_/http%3A//kisscartoon.me/Message/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
