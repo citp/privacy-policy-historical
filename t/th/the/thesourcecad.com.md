@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesourcecad.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520151032id_/http%3A//www.thesourcecad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesourcecad.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128004644id_/http%3A//www.thesourcecad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
