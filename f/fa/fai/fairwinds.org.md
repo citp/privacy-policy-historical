@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairwinds.org privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523060141id_/https%3A//www.fairwinds.org/inside/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairwinds.org privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127202631id_/https%3A//www.fairwinds.org/inside/privacy) for the most accurate reproduction.*
 
 # FAIRWINDS Credit Union - Privacy
 
