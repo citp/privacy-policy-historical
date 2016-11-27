@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spareroom.co.uk privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604045819id_/http%3A//www.spareroom.co.uk/content/default/privacy-uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spareroom.co.uk privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128003034id_/http%3A//www.spareroom.co.uk/content/default/privacy-uk) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ By browsing and/or using our website, or any services offered through it, you’
 
   1. ### Contacting us
 
-    1. For the purpose of the Data Protection Act 1998, Flatshare Limited ( **"We"** , **"Us"** **"Our"** ) will be the data controller in respect of any personal data you submit to us or which we collect from you when you use our website. We are a private limited company with company registration number 04407847 - our registered office is at 32 Park Green, Macclesfield, Cheshire, England SK11 7NA. For more information see ['about us '](https://web.archive.org/content/about/about-spareroom-new/).
+    1. For the purpose of the Data Protection Act 1998, Flatshare Limited ( **"We"** , **"Us"** **"Our"** ) will be the data controller in respect of any personal data you submit to us or which we collect from you when you use our website. We are a private limited company with company registration number 04407847 - our registered office is at 32 Park Green, Macclesfield, Cheshire, England SK11 7NA. For more information see ['about us '](https://web.archive.org/content/about-us/about-spareroom/).
     2. If you’d like to know what information we hold about you, or you have any other queries or complaints in relation to this privacy policy, our contact details are as follow  Flatshare Ltd  
 32 Park Green  
 Macclesfield  
@@ -73,7 +73,7 @@ Google Analytics Demographics and Interest Reporting
       1. [Cookie settings in Internet Explorer;](http://windows.microsoft.com/en-gb/internet-explorer/delete-manage-cookies)
       2. [Cookie settings in Firefox;](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
       3. [Cookie settings in Chrome;](https://support.google.com/chrome/answer/95647?hl=en) and
-      4. [Cookie settings in Safari](http://support.apple.com/kb/index?page=search&q=cookies%20safari)
+      4. [Cookie settings in Safari](https://support.apple.com/kb/PH21411?locale=en_GB)
     2. We recommend you don’t turn cookies off when using SpareRoom as this may prevent you from using many of the services on the site. However, please note that if you continue to browse our website you are consenting to our use of cookies in accordance with this privacy policy.
   7. ### Payment information
 
