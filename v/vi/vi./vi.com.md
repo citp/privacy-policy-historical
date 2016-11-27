@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vi.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419035643id_/http%3A//www.vi.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vi.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127173153id_/http%3A//www.vi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vi
 
