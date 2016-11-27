@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carcraft.co.uk privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610031252id_/http%3A//www.carcraft.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carcraft.co.uk privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127170150id_/http%3A//www.carcraft.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Carcraft.co.uk
 
@@ -42,9 +42,9 @@ This website implements and uses Google Analytics Advertising Features which inc
 
 Third party vendors, including Google, show our ads on sites across the internet. We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize and serve ads based on someone’s past visits to our website. These cookies are used to collect data about the websites and individual pages that users visit and are typically used to deliver advertisements that are more relevant to you and your interests, and to help measure the effectiveness of an advertising campaign. For further details of these cookies please refer to our Cookie Policy. 
 
-You can find out more information about how Google uses you data by reading Google’s privacy policy located: at [www.google.com/policies/privacy/partners](https://web.archive.org/web/20160610031252id_/http%3A//www.carcraft.co.uk/www.google.com/policies/privacy/partners). 
+You can find out more information about how Google uses you data by reading Google’s privacy policy located: at [www.google.com/policies/privacy/partners](https://web.archive.org/web/20161127170150id_/http%3A//www.carcraft.co.uk/www.google.com/policies/privacy/partners). 
 
-You can opt-out or customise the use of Google Analytics Advertising Features via Ads Settings found at: [www.google.com/settings/ads](https://web.archive.org/web/20160610031252id_/http%3A//www.carcraft.co.uk/www.google.com/settings/ads). This lets you opt out of ads shown to you based on factors such as your interests, previous visits to other websites, and demographic details on your computer’s browser. You can also prevent your data from being used by Google Analytics by downloading the Google Analytics’ Opt-out Browser Add-on, which can be found at: <https://tools.google.com/dlpage/gaoptout>. 
+You can opt-out or customise the use of Google Analytics Advertising Features via Ads Settings found at: [www.google.com/settings/ads](https://web.archive.org/web/20161127170150id_/http%3A//www.carcraft.co.uk/www.google.com/settings/ads). This lets you opt out of ads shown to you based on factors such as your interests, previous visits to other websites, and demographic details on your computer’s browser. You can also prevent your data from being used by Google Analytics by downloading the Google Analytics’ Opt-out Browser Add-on, which can be found at: <https://tools.google.com/dlpage/gaoptout>. 
 
 We will not facilitate the merging of personally-identifiable information with non-personally identifiable information collected through any Google adverting product or feature without your prior affirmative consent. 
 
