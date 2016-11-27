@@ -1,25 +1,31 @@
-<!--The following is the downloaded HTML source of the btcmarkets.net privacy policy that was archived on 2016-04-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160421042629id_/https%3A//btcmarkets.net/pp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the btcmarkets.net privacy policy that was archived on 2016-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161127062945id_/https%3A//btcmarkets.net/pp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta name="globalsign-domain-verification" content="rVEJKn6XUnNMLgNcsdruQZ9ex_ZPOo7s5oHHAEwP81">
 <meta name="google-site-verification" content="SvxrkNfMjxUxvbYVyOvnFA_uLsIV4SF2WbuAbKGWJWo">
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>BTC Markets | Bitcoin Exchange | Buy and Sell Bitcoins</title>
-<meta name="description" content="Australia's Bitcoin and Ethereum exchange. Buy and sell Bitcoin (BTC) and Ethereum (ETH). Trade Bitcoins, Litecoin and Ethereum today.">
+<title>Buy Bitcoins | Buy Ethereum | Bitcoin Exchange | Trade Digital Assets</title>
+<meta name="description" content="Bitcoin and Ethereum exchange. Sell and buy Bitcoin (BTC) and Ethereum (ETH). Trade Bitcoins, Litecoin and Ethereum today.">
 <meta property="og:image" content="https://btcmarkets.net/images/icons/BtcMarkets400x400.png">
-<meta property="og:title" content="BTC Markets | Bitcoin Exchange &amp; Crypto Exchange">
-<meta property="og:description" content="Australia's Bitcoin and Ethereum exchange. Buy and sell Bitcoin (BTC) and Ethereum (ETH). Trade Bitcoins, Litecoin and Ethereum today.">
+<meta property="og:title" content="Buy Bitcoins | Buy Ethereum | Bitcoin Exchange | Trade Bitcoins">
+<meta property="og:description" content="Bitcoin and Ethereum exchange. Sell and buy Bitcoin (BTC) and Ethereum (ETH). Trade Bitcoins, Litecoin and Ethereum today.">
 <meta property="og:site_name" content="BTC Markets">
+<meta name="format-detection" content="telephone=no">
 <link rel="icon" type="image/png" href="/images/icons/favicon1.png">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="/css/jquery.dataTables.css?v=36">
-<link rel="stylesheet" href="/css/jquery.bxslider.css?v=1">
-<link rel="stylesheet" href="/css/style.css?v=59">
+<link rel="stylesheet" href="/css/jquery-ui.min.css?v=1">
+<link rel="stylesheet" href="/css/perfect-scrollbar.css?v=1">
+<link rel="stylesheet" href="/css/style.css?v=89">
 <script type="text/javascript" async="" src="//widget.uservoice.com/tE2nRVM4ErB9PjH73aA.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" src="/js/jquery-1.9.0-min.js?v=36"></script>
-<script type="text/javascript" src="/js/jquery-ui-1.10.4.custom.min.js?v=36"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js?v=2"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.10.4.custom.min.js?v=37"></script>
 <script type="text/javascript" src="/js/jquery.bpopup.min.js?v=36"></script>
+<script type="text/javascript" src="/js/linq.min.js"></script>
+<script type="text/javascript" src="/js/chart/highstock.js?v=38"></script>
+<script type="text/javascript" src="/js/chart/themes/btcmarkets.js?v=39"></script>
 <script type="text/javascript" src="/js/notify.min.js?v=36"></script><style type="text/css" id="notify-default">.notifyjs-default-base {
   font-weight: bold;
   padding: 8px 15px 8px 14px;
@@ -41,17 +47,15 @@
 }
 </style>
 <script type="text/javascript" src="/js/xdate.js?v=36"></script>
-<script type="text/javascript" src="/js/config.js?v=39"></script>
-<script type="text/javascript" src="/js/util2.js?v=41"></script>
+<script type="text/javascript" src="/js/config.js?v=44"></script>
+<script type="text/javascript" src="/js/util2.js?v=51"></script>
 <script type="text/javascript" src="/js/forms.js?v=36"></script>
-<script type="text/javascript" src="/js/modal.js?v=37"></script>
+<script type="text/javascript" src="/js/modal.js?v=41"></script>
 <script type="text/javascript" src="https://js.pusher.com/2.2/pusher.min.js?v=36"></script>
-<script type="text/javascript" src="/js/socket.js?v=38"></script>
+<script type="text/javascript" src="/js/socket.js?v=39"></script>
 <script type="text/javascript" src="/js/jquery.dataTables.min.js?v=36"></script>
-<script type="text/javascript" src="/js/chart/highstock.js?v=37"></script>
 <script type="text/javascript" src="/js/fp.js?v=1"></script>
-<script type="text/javascript" src="/js/chart/themes/btcmarkets.js?v=36"></script>
-<script type="text/javascript" src="/js/basePage.js?v=40"></script>
+<script type="text/javascript" src="/js/basePage.js?v=49"></script>
 <style type="text/css" id="core-notify">.notifyjs-corner {
   position: fixed;
   margin: 5px;
@@ -95,7 +99,7 @@
 <body style="zoom: 1;">
 <div id="Main">
 <div id="TopBar">
-<div id="TopBarContent" class="container">
+<div id="TopBarContent" class="container"><div class="label">Bitcoin:</div><div id="LastPriceAUDBTC"></div><div class="label">Litecoin:</div><div id="LastPriceAUDLTC"></div><div class="label">Ethereum:</div><div id="LastPriceAUDETH"></div><div class="label">Eth-Classic:</div><div id="LastPriceAUDETC"></div>
 <div id="LoggedInPanel"><a id="CreateAccount" href="signupIndividual">Create Account</a> | <a href="login" id="Login">Login</a></div>
 </div>
 </div>
@@ -110,7 +114,10 @@
 <li><a href="/trading" id="tradingMenu"><span>Buy / Sell</span></a></li>
 <li><a href="/account" id="accountMenu"><span>Account</span></a></li>
 </ul>
-<ul id="AltNav">
+<ul id="ThemeSwitcher" class="alt-nav">
+<li><a id="ThemeSwitchButton">Night Mode</a></li>
+</ul>
+<ul id="AltNav" class="alt-nav">
 <li><a href="/faq" id="faqMenu"><span>FAQs</span></a></li>
 <li><a href="/news" id="newsMenu"><span>News</span></a></li>
 <li><a href="/support" id="supportMenu" class="last"><span>Support</span></a></li>
@@ -236,12 +243,12 @@ If you have any questions, comments, or concerns regarding our Privacy Policy an
 <footer>
 <div id="FooterContainer">
 <div id="TwitterFeed">
-<a class="twitter-timeline" href="https://twitter.com/BTCMarkets" data-widget-id="436847161481756672" data-chrome="transparent noborders">Tweets by @BTCMarkets</a>
+<a class="twitter-timeline" href="https://twitter.com/BTCMarkets" data-chrome="transparent nofooter" data-widget-id="436847161481756672">Tweets by @BTCMarkets</a>
 <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + "://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
 </div>
 <ul class="link-list">
 <li><a href="/home">Home</a></li>
-<li><a href="/howitworks">How It Works</a></li>
+<li><a href="/buy-bitcoins">How To Buy Bitcoins</a></li>
 <li><a href="/aboutBitcoin">What is Bitcoin?</a></li>
 <li><a href="/fees">Fees</a></li>
 </ul>
