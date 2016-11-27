@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vaporauthority.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604073734id_/http%3A//www.vaporauthority.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaporauthority.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127082523id_/http%3A//www.vaporauthority.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,6 +14,8 @@ When you register with Vapor Authority or place an order, you may be asked for y
 In the event that your purchase is placed as a gift to another individual, Vapor Authority may also request information about the person who will be receiving the package. This is solely meant to complete the transaction, and the information will absolutely not be used for any other purpose, such as marketing.
 
 As with the vast majority of websites, Vapor Authority does use cookies in an effort to help improve your shopping experience. Vapor Authority gathers general information related to our visitors in order to help make the company as up-to-date and applicable as possible.
+
+Additionally, government regulations require us to verify your age to ensure that you are old enough to purchase electronic cigarette products in your state. In order to accomplish this, your date of birth must be collected and processed through our third-party age verification systems. This information is solely used for the purpose of verifying your age, and is not used for any other purpose whatsoever. You date of birth is never shared, sold, or otherwise utilized for any reason other than for age verification purposes.
 
 **How Does Vapor Authority Use Your Information?**
 
