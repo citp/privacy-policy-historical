@@ -1,19 +1,15 @@
-<!--The following is the downloaded HTML source of the photographyblog.com privacy policy that was archived on 2016-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617201930id_/http%3A//www.photographyblog.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the photographyblog.com privacy policy that was archived on 2016-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161127062503id_/http%3A//www.photographyblog.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
-	
-	
+		
 	<title>Privacy | PhotographyBLOG</title>
 
-	<!-- TradeDoubler site verification 2019037 -->
-
-		<meta name="description" content=" PhotographyBLOG brings you the latest and greatest photography news, both film and digital, both global and UK-based.">
+	<meta name="description" content=" PhotographyBLOG brings you the latest and greatest photography news, both film and digital, both global and UK-based.">
 
 	<link rel="shortcut icon" href="/favicon.ico">
 	
@@ -39,23 +35,17 @@
 	 <![endif]-->
 
 	
-	<link rel="stylesheet" href="/_css/pblog.css?20160524">
+	<link rel="stylesheet" href="/_css/pblog.css?20161118">
 	<!--[if lte IE 8]>
 	<link rel="stylesheet" href="/_css/ie.css" />
 	<![endif]-->
 	
-	<link rel="stylesheet" href="/_css/pblog-rwd.css?20160524">
+	<link rel="stylesheet" href="/_css/pblog-rwd.css?20160817">
 	
-
-
-
-		
-	
-
 
 	<!-- JS -->
 
-    <script type="text/javascript" async="" src="https://p.cpx.to/p/11675/px.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.6"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript" async="" src="https://p.cpx.to/p/11675/px.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.6"></script><script async="" src="//cdn.taboola.com/libtrc/applaudmedia-network/loader.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="/_js/jquery-1.8.2.min.js"><\/script>')</script><script src="/_js/jquery-1.8.2.min.js"></script>
 	
 
@@ -89,8 +79,6 @@
 
 
 
-	
-
 	<!-- Google Analytics -->
 
 	<script type="text/javascript">
@@ -106,7 +94,31 @@
 
 	</script>
 
-	
+
+
+	<script src="/_js/badb.js"></script>
+	<script>
+	// Function called if AdBlock is detected
+	function adBlockDetected() {
+	    _gaq.push(['_trackEvent', 'AdBlock', 'AdBlock enabled', '',,true])
+	    // CV set after PV sent due to adblockdetect timer, therefore not capturing 1st page load, and getting bouce etc wrong. 
+		// _gaq.push(['_setCustomVar',3,'AdBlock','AdBlock enabled',1]);
+	}
+
+	// Recommended audit because AdBlock lock the file 'blockadblock.js' 
+	// If the file is not called, the variable does not exist 'blockAdBlock'
+	// This means that AdBlock is present
+	if(typeof blockAdBlock === 'undefined') {adBlockDetected();} else {
+	    blockAdBlock.onDetected(adBlockDetected);
+	    blockAdBlock.onNotDetected(adBlockNotDetected);
+	    // and|or
+	    blockAdBlock.on(true, adBlockDetected);
+	    blockAdBlock.on(false, adBlockNotDetected);
+	    // and|or
+	    blockAdBlock.on(true, adBlockDetected).onNotDetected(adBlockNotDetected);
+	}
+
+	</script>
 
 	<!-- Google Analytics: Send pageview -->
 
@@ -123,20 +135,7 @@
 
 	</script>
 
-	
 
-	<!-- Quantcast Tag, part 1 -->
-	<script type="text/javascript">
-	var _qevents = _qevents || [];
-	(function() {
-	var elem = document.createElement('script');
-	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-	elem.async = true;
-	elem.type = "text/javascript";
-	var scpt = document.getElementsByTagName('script')[0];
-	scpt.parentNode.insertBefore(elem, scpt);
-	})();
-	</script>
 
 
 	
@@ -168,15 +167,52 @@
 	    googletag.defineSlot('/1004954/Pblog_AdUnit_ROS_1x2_Rich_media', [1, 2], 'div-gpt-ad-1463504159754-1').addService(googletag.pubads());
 	    googletag.defineSlot('/1004954/Pblog_AdUnit_ROS_1x3_Mobile', [1, 3], 'div-gpt-ad-1463504159754-2').addService(googletag.pubads());
 	    googletag.defineSlot('/1004954/Pblog_AdUnit_ROS_1x4_Content_break', [1, 4], 'div-gpt-ad-1463504159754-3').addService(googletag.pubads());
+	    googletag.defineSlot('/1004954/Applaud_leaderboard_728x90', [728, 90], 'div-gpt-ad-1470749537472-0').addService(googletag.pubads());
+	    googletag.defineSlot('/1004954/Applaud_MPU_300x250', [300, 250], 'div-gpt-ad-1470749537472-1').addService(googletag.pubads());
+
+		// Applaud 2016-11
+		
+	    googletag.defineSlot('/1004954/Pblog_AdUnit_ROS_1x3_Mobile2', [1, 3], 'div-gpt-ad-1478534119227-0').addService(googletag.pubads());
+	    googletag.defineSlot('/1004954/Pblog_AdUnit_ROS_1x4_Content_break2', [1, 4], 'div-gpt-ad-1478534119227-1').addService(googletag.pubads());
+	    googletag.defineSlot('/1004954/Pblog_AdUnit_ROS_1x1_custom1', [1, 1], 'div-gpt-ad-1478534119227-2').addService(googletag.pubads());	    
+
+
+	    
+
 	    googletag.pubads().enableSingleRequest();
 	    googletag.enableServices();
 	  });
+
 	</script>
 
 
+	
+
+	
+	<meta property="fb:app_id" content="192515554102320">
+	<meta property="og:url" content="http://www.photographyblog.com/page/privacy">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Privacy | PhotographyBLOG">
+	<meta property="og:description" content=" PhotographyBLOG brings you the latest and greatest photography news, both film and digital, both global and UK-based.">
+    
+	<meta property="og:image" content=" 
+    
+    ">    
+	
+
+	
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@photographyblog">
+    <meta name="twitter:title" content="Privacy | PhotographyBLOG">
+    <meta name="twitter:description" content=" PhotographyBLOG brings you the latest and greatest photography news, both film and digital, both global and UK-based.">
+    
+    <meta name="twitter:image" content="
+    
+    ">    
+	
 
 
-	<script src="//tags.deployads.com/a/photographyblog.com.js" async=""></script>
+
 
 
 	<!--Twitter share button script-->
@@ -217,6 +253,28 @@
 
 <script type="text/javascript" async="async" crossorigin="anonymous" src="//adyoulike.omnitagjs.com"></script>
 
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/applaudmedia-network/loader.js');
+</script>
+
+
+
+
+<script type="text/javascript">
+netseer_tag_id="27403";
+</script>
+<script src="http://ps.ns-cdn.com/dsatserving2/scripts/ns_vmtag.js" type="text/javascript"></script>
+
+
 </head>
 
 <body class="single-entry ">
@@ -243,162 +301,22 @@
 			
 			<h1 id="logo"><a href="/" onmousedown="_gaq.push(['_trackPageview', '/click/nav/logo/']);"><img alt="Photography Blog logo" src="/images/logo-@2x.jpg" height="123" width="230"></a></h1>
 			
-			
+			<div class="nav-wrap">
+					
 
-			<div class="leaderboard">
-				<!-- Leaderboard -->
-				
-				
-				<!-- 728x90 LEADERBOARD ON TOP -->
-				<div data-ns="leaderboard"></div>
-
-			</div><!-- #leaderboard -->
-
-			
-			
-		</div><!-- #logo-wrap -->                 
-
-
-
-
-		<div id="nav" class="mobile" role="navigation" style="display: none;">
-        	<ul class="clearfix">
-
-			   <li><a class="camera-reviews" href="/reviews/" onmousedown="_gaq.push(['_trackPageview', '/click/nav/digital-camera-reviews-link/']);">Camera<span> Review</span>s</a>
-				</li>
-			   	<li class="buyers-guide">
-			   		<a class="geo-world" href="http://photographyblog.pgpartner.com/home_photo.php/mode=photoblog_us_BuyersGuide" onmousedown="_gaq.push(['_trackPageview', '/click/nav/buyers-guide/us-link/']);">Buy<span>ing Guide</span></a>
-			   		<a class="geo-uk" href="http://photographyblog.pgpartner.co.uk/home_photo.php" onmousedown="_gaq.push(['_trackPageview', '/click/nav/buyers-guide/uk-link/']);">Buy<span>ing Guide</span></a>
-				</li>     
-				
-				<script>
-				if (country == "UK" || country == "GB")
-				{
-				$("li.buyers-guide .geo-world").hide();
-				$("li.buyers-guide .geo-uk").show();
-				}
-				
-				$("li.buyers-guide table a").click(function(){pageTracker._trackPageview('/click/review/pg-click');});
-				</script>
-
-			
-			   <li class="drop-down"><a class="drop-link other-reviews" href="#"><span>Lenses &amp; </span>More</a>
-					<ul id="drop-menu" class="drop-menu other-reviews-menu">        
-						<!-- <li><a href="/reviews/#film">Film Cameras</a></li> -->
-						<li><a href="/reviews/#lenses" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-drop/lenses']);">Lenses</a></li>
-						<li><a href="/reviews/#printers" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-drop/printers']);">Printers</a></li>
-						<li><a href="/reviews/#software" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-drop/software']);">Software</a></li>
-						<li><a href="/reviews/#accessories" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-drop/accessories']);">Accessories</a></li>
-						<li><a href="/reviews/#books" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-drop/books']);">Books</a></li>
-						<li><a href="/reviews/#other" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-drop/other']);">Other</a></li>
-					</ul>
-				</li>
-
-
-			<!-- Drop script -->
-			<script>
-			//Allow clicking instead of hover for dropdown menus
-			$(document).ready( function(){
-
-			    $('.mobile .drop-link.other-reviews').click( function(event){
-			        event.stopPropagation();
-			        $('.mobile #drop-menu').toggleClass('drop-menu-active');
-			        return false;
-			    });
-
-			    $(document).click( function(){
-			        $('.mobile #drop-menu').toggleClass('drop-menu-active');
-			    });
-
-			});
-			</script>
-
-			   <li><a href="/news/" onmousedown="_gaq.push(['_trackPageview', '/click/nav/news']);">News</a></li>
-			   <li><a href="/category/photography_techniques/" onmousedown="_gaq.push(['_trackPageview', '/click/nav/techniques-link']);">How-To</a></li>
-
-				
-				<li class="last">
-					<a href="/search/">Search</a>
-
-				</li>				
-        	</ul>  
-		</div><!-- #mobile-nav -->   
+			<div id="social">
+		<!-- Follow Photography Blog:  -->
 		
+				<a href="http://feeds2.feedburner.com/photographyblog" class="rss" onmousedown="_gaq.push(['_trackPageview', '/click/nav/social/rss/']);"><span class="icon-feed"></span><!--  RSS --></a> 				
 
-		<!-- tab+desktop nav -->	
-        <div id="nav" role="navigation">
-        	<ul class="clearfix">
+				<a href="https://www.facebook.com/photoblog2014" class="facebook" onmousedown="_gaq.push(['_trackPageview', '/click/nav/social/facebook/']);"><span class="icon-facebook"></span><!--  Facebook --></a> 
 
-			   <li><a class="camera-reviews" href="/reviews/" onmousedown="_gaq.push(['_trackPageview', '/click/nav/digital-camera-reviews-link/']);">Camera Reviews</a>
-				</li>
-			   	<li class="buyers-guide">
-			   		<a class="geo-world" href="http://photographyblog.pgpartner.com/home_photo.php/mode=photoblog_us_BuyersGuide" onmousedown="_gaq.push(['_trackPageview', '/click/nav/buyers-guide/us-link/']);">Buying Guide</a>
-			   		<a class="geo-uk" href="http://photographyblog.pgpartner.co.uk/home_photo.php" onmousedown="_gaq.push(['_trackPageview', '/click/nav/buyers-guide/uk-link/']);">Buying Guide</a>
-				</li>     
-				
-				<script>
-				if (country == "UK" || country == "GB")
-				{
-				$("li.buyers-guide .geo-world").hide();
-				$("li.buyers-guide .geo-uk").show();
-				}
-				
-				$("li.buyers-guide table a").click(function(){pageTracker._trackPageview('/click/review/pg-click');});
-				</script>
-
-			
-			   <li class="drop-down"><a class="drop-link other-reviews" href="/reviews/" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-link/']);">Lens Reviews &amp; More</a>
-					<ul class="drop-menu other-reviews-menu">        
-						<!-- <li><a href="/reviews/#film">Film Cameras</a></li> -->
-						<li><a href="/reviews/#lenses" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-drop/lenses']);">Lenses</a></li>
-						<li><a href="/reviews/#printers" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-drop/printers']);">Printers</a></li>
-						<li><a href="/reviews/#software" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-drop/software']);">Software</a></li>
-						<li><a href="/reviews/#accessories" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-drop/accessories']);">Accessories</a></li>
-						<li><a href="/reviews/#books" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-drop/books']);">Books</a></li>
-						<li><a href="/reviews/#other" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-drop/other']);">Other</a></li>
-					</ul>
-				</li>
-			   
-			   <li><a href="/news/" onmousedown="_gaq.push(['_trackPageview', '/click/nav/news']);">News</a></li>
-			   <li class="last"><a href="/category/photography_techniques/" onmousedown="_gaq.push(['_trackPageview', '/click/nav/techniques-link']);">How-To</a></li>
-
-				
-				<li class="nav-search" role="search">
-	
-
-					<form method="post" action="http://www.photographyblog.com/">
-<div class="hiddenFields">
-<input type="hidden" name="ACT" value="15">
-<input type="hidden" name="RES" value="">
-<input type="hidden" name="meta" value="FwCAhnJW5CM6AJ9J+h8ESAJlKnaFybh3N+Qf6sBStvP6FSP8o9bOQONd7MlQq3boyl1CXEbq13HjbfQgWcJWEVlrFJIJN2kS2mqGBr1qYvxakwEEAbg5mK5nxMRqBS/V57XHEoifmLo32PxzKgQJCHeMxi3+sROtzcpqz3utSStEN9ZiAtbjjt3E69owssj/BoGkAvBzLDi85qgCCn8A1LMmCM4uPC9lk1zb7+4dmJn9/pSQhutFhnWpR3m/NfNaSRD1LVa8c5WlA0j14NSS9GdLMHURbnlImGt2QHXBZZ2le1W+MBtUhCv2PZCioPua6SoZ7cc+zTXggr/fFqwo+S9ey3MbyI03b2in26dIpd1cgOB1oUB5IGa7XXbxkstY933pImNOM5zzaS3BNfphor4TV+1CONpBjGqmLN8uQXSDPYfWZ4blICEKPzI4dDia0OQNo3TleuYT30BHGdimUg==">
-<input type="hidden" name="site_id" value="1">
-<input type="hidden" name="csrf_token" value="92b93788c51612185b547cead7a435392ca4d1bc">
-</div>
-
-
-
-					<input type="text" name="keywords" id="keywords" class="search input" value="Search" onfocus="if (this.value == 'Search') this.value = '';" onblur="if (this.value == '') this.value = 'Search';" maxlength="100">
-
-					</form>
-
-
-				</li>				
-        	</ul>  
-		</div><!-- #nav -->   
-		
-		<div id="social">
-		Follow Photography Blog: 
-		
-				<a href="http://feeds2.feedburner.com/photographyblog" class="rss" onmousedown="_gaq.push(['_trackPageview', '/click/nav/social/rss/']);"><span class="icon-feed"></span> RSS</a> 				
-
-				<a href="https://www.facebook.com/photoblog2014" class="facebook" onmousedown="_gaq.push(['_trackPageview', '/click/nav/social/facebook/']);"><span class="icon-facebook"></span> Facebook</a> 
-
-				<a href="http://twitter.com/photographyblog" class="twitter" onmousedown="_gaq.push(['_trackPageview', '/click/nav/social/twitter/']);"><span class="icon-twitter"></span> Twitter</a>
+				<a href="http://twitter.com/photographyblog" class="twitter" onmousedown="_gaq.push(['_trackPageview', '/click/nav/social/twitter/']);"><span class="icon-twitter"></span><!--  Twitter --></a>
 
 <!--				<a href="https://plus.google.com/114619217169860825054/posts" class="googleplus" onmousedown="_gaq.push(['_trackPageview', '/click/nav/social/googleplus/']);"><b>+</b> Google+</a> -->
 
 
-				<a href="http://feedburner.google.com/fb/a/mailverify?uri=photographyblog&amp;loc=en_US" class="email" onmousedown="_gaq.push(['_trackPageview', '/click/nav/social/newsbyemail/']);"><span class="icon-mail"></span> News by Email</a> 
+				<a href="http://feedburner.google.com/fb/a/mailverify?uri=photographyblog&amp;loc=en_US" class="email" onmousedown="_gaq.push(['_trackPageview', '/click/nav/social/newsbyemail/']);"><span class="icon-mail"></span><!--  News by Email --></a> 
 				
 				<div class="newsletter">
 
@@ -420,12 +338,149 @@
 
 
 		</div><!--#social-->
+
+
+			<!-- tab+desktop nav -->	
+	        <div id="nav" role="navigation">
+	        	<ul class="clearfix">
+
+				   <li><a class="camera-reviews" href="/reviews/" onmousedown="_gaq.push(['_trackPageview', '/click/nav/digital-camera-reviews-link/']);">Camera Reviews</a>
+					</li>
+
+					<li class="nav-best-cameras">
+						<a class="geo-world" href="/best_cameras/" onmousedown="_gaq.push(['_trackPageview', '/click/nav/best-digital-cameras/us']);">Best Cameras</a>
+						<a class="geo-uk" href="/best_cameras/uk/" onmousedown="_gaq.push(['_trackPageview', '/click/nav/best-digital-cameras/uk']);">Best Cameras</a>
+					</li>
+
+					<script>
+					if (country == "UK" || country == "GB")
+					{
+						$("li.nav-best-cameras .geo-world").hide();
+						$("li.nav-best-cameras .geo-uk").show();
+					}
+					</script>
+
+
+					
+
+				
+				   <li class="drop-down"><a class="drop-link other-reviews" href="/reviews/" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-link/']);">Lens Reviews &amp; More</a>
+						<ul class="drop-menu other-reviews-menu">        
+							<!-- <li><a href="/reviews/#film">Film Cameras</a></li> -->
+							<li><a href="/reviews/#lenses" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-drop/lenses']);">Lenses</a></li>
+							<li><a href="/reviews/#printers" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-drop/printers']);">Printers</a></li>
+							<li><a href="/reviews/#software" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-drop/software']);">Software</a></li>
+							<li><a href="/reviews/#accessories" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-drop/accessories']);">Accessories</a></li>
+							<li><a href="/reviews/#books" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-drop/books']);">Books</a></li>
+							<li><a href="/reviews/#other" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-drop/other']);">Other</a></li>
+						</ul>
+					</li>
+				   
+				   <li><a href="/news/" onmousedown="_gaq.push(['_trackPageview', '/click/nav/news']);">News</a></li>
+				   <li class="last"><a href="/category/photography_techniques/" onmousedown="_gaq.push(['_trackPageview', '/click/nav/techniques-link']);">How-To</a></li>
+
+					
+					<li class="nav-search" role="search">
 		
+
+						<form method="post" action="http://www.photographyblog.com/">
+<div class="hiddenFields">
+<input type="hidden" name="ACT" value="15">
+<input type="hidden" name="RES" value="">
+<input type="hidden" name="meta" value="FwCAhnJW5CM6AJ9J+h8ESAJlKnaFybh3N+Qf6sBStvP6FSP8o9bOQONd7MlQq3boyl1CXEbq13HjbfQgWcJWEVlrFJIJN2kS2mqGBr1qYvxakwEEAbg5mK5nxMRqBS/V57XHEoifmLo32PxzKgQJCHeMxi3+sROtzcpqz3utSStEN9ZiAtbjjt3E69owssj/BoGkAvBzLDi85qgCCn8A1LMmCM4uPC9lk1zb7+4dmJn9/pSQhutFhnWpR3m/NfNaSRD1LVa8c5WlA0j14NSS9GdLMHURbnlImGt2QHXBZZ2le1W+MBtUhCv2PZCioPua6SoZ7cc+zTXggr/fFqwo+S9ey3MbyI03b2in26dIpd1cgOB1oUB5IGa7XXbxkstY933pImNOM5zzaS3BNfphor4TV+1CONpBjGqmLN8uQXSDPYfWZ4blICEKPzI4dDia0OQNo3TleuYT30BHGdimUg==">
+<input type="hidden" name="site_id" value="1">
+<input type="hidden" name="csrf_token" value="a1e36263e6bd83ef07c920954779151e013852a3">
+</div>
+
+
+
+						<input type="text" name="keywords" id="keywords" class="search input" value="Search" onfocus="if (this.value == 'Search') this.value = '';" onblur="if (this.value == '') this.value = 'Search';" maxlength="100">
+
+						</form>
+
+
+					</li>				
+	        	</ul>  
+			</div><!-- #nav -->   
+
+			</div><!-- /.nav-wrap -->
+
+
+		</div><!-- #logo-wrap -->                 
+
+
+
+
+		<div id="nav" class="mobile" role="navigation" style="display: none;">
+        	<ul class="clearfix">
+
+			   <li><a class="camera-reviews" href="/reviews/" onmousedown="_gaq.push(['_trackPageview', '/click/nav/digital-camera-reviews-link/']);">Camera<span> Review</span>s</a>
+				</li>
+
+				<li class="nav-best-cameras">
+					<a class="geo-world" href="/best_cameras/" onmousedown="_gaq.push(['_trackPageview', '/click/nav/best-digital-cameras/us']);">Best<span> Cameras</span></a>
+					<a class="geo-uk" href="/best_cameras/uk/" onmousedown="_gaq.push(['_trackPageview', '/click/nav/best-digital-cameras/uk']);">Best<span> Cameras</span></a>
+				</li>
+
+				<script>
+				if (country == "UK" || country == "GB")
+				{
+					$("li.nav-best-cameras .geo-world").hide();
+					$("li.nav-best-cameras .geo-uk").show();
+				}
+				</script>
+
+				
+
+			
+			   <li class="drop-down"><a class="drop-link other-reviews" href="#"><span>Lenses &amp; </span>More</a>
+					<ul id="drop-menu" class="drop-menu other-reviews-menu">        
+						<!-- <li><a href="/reviews/#film">Film Cameras</a></li> -->
+						<li><a href="/reviews/#lenses" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-drop/lenses']);">Lenses</a></li>
+						<li><a href="/reviews/#printers" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-drop/printers']);">Printers</a></li>
+						<li><a href="/reviews/#software" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-drop/software']);">Software</a></li>
+						<li><a href="/reviews/#accessories" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-drop/accessories']);">Accessories</a></li>
+						<li><a href="/reviews/#books" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-drop/books']);">Books</a></li>
+						<li><a href="/reviews/#other" onmousedown="_gaq.push(['_trackPageview', '/click/nav/other-reviews-drop/other']);">Other</a></li>
+					</ul>
+				</li>
+			   
+			<!-- Drop script -->
+			<script>
+			//Allow clicking instead of hover for dropdown menus
+			$(document).ready( function(){
+
+			    $('.mobile .drop-link.other-reviews').click( function(event){
+			        event.stopPropagation();
+			        $('.mobile #drop-menu').toggleClass('drop-menu-active');
+			    });
+
+			    $(document).click( function(){
+			        $('.mobile #drop-menu').toggleClass('drop-menu-active');
+			    });
+
+			});
+			</script>
+
+			   <li><a href="/news/" onmousedown="_gaq.push(['_trackPageview', '/click/nav/news']);">News</a></li>
+			   <li><a href="/category/photography_techniques/" onmousedown="_gaq.push(['_trackPageview', '/click/nav/techniques-link']);">How-To</a></li>
+
+				
+				<li class="last">
+					<a href="/search/">Search</a>
+
+				</li>				
+        	</ul>  
+		</div><!-- #mobile-nav -->   
+		
+
+
 		                     
 		
         </div><!-- #header-wrap -->
 
 	</div><!-- #header -->
+
 
 	
 
@@ -449,7 +504,7 @@
 
 		<div id="content" class="" role="main">
 
-<!-- // -end header- // -->
+<!-- // end header- // -->
 
 
 
@@ -470,20 +525,30 @@
 
 			<div class="ad-block med-rect">
 
-				<!-- RevContent -->
-				<div id="rcjsload_e598b3"><script id="rc_15" type="text/javascript" src="http://trends.revcontent.com/serve.js.php?w=27268&amp;t=rc_15&amp;c=1580411858360&amp;width=800&amp;referer=" async=""></script></div>
+				<div id="taboola-right-rail-thumbnails"></div>
 				<script type="text/javascript">
-				(function() {
-				var referer="";try{if(referer=document.referrer,"undefined"==typeof referer)throw"undefined"}catch(exception){referer=document.location.href,(""==referer||"undefined"==typeof referer)&&(referer=document.URL)}referer=referer.substr(0,700);
-				var rcel = document.createElement("script");
-				rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
-				rcel.type = 'text/javascript';
-				rcel.src = "http://trends.revcontent.com/serve.js.php?w=27268&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth)+"&referer="+referer;
-				rcel.async = true;
-				var rcds = document.getElementById("rcjsload_e598b3"); rcds.appendChild(rcel);
-				})();
+				  window._taboola = window._taboola || [];
+				  _taboola.push({
+				    mode: 'thumbnails-c',
+				    container: 'taboola-right-rail-thumbnails',
+				    placement: 'Right Rail Thumbnails',
+				    target_type: 'mix'
+				  });
 				</script>
 			
+			</div><!-- .ad-block -->
+
+
+
+			<div class="ad-block med-rect">
+
+				<!-- /1004954/Applaud_MPU_300x250 -->
+				<div id="div-gpt-ad-1470749537472-1" style="height:250px; width:300px;">
+				<script>
+				googletag.cmd.push(function() {googletag.display('div-gpt-ad-1470749537472-1');});
+				</script>
+				</div>
+
 			</div><!-- .ad-block -->
 
 
@@ -491,136 +556,183 @@
 			<div id="rhs-col-wrap" class="clearfix">
 				
 				<!-- // nav and headlines // -->
-				<div class="left">
 
 					
 					 
+					<div class="headlines camera-list clearfix">
+					   <h4><a href="/reviews/">Latest Camera Reviews</a></h4> 					
+						
+						<p><a href="/reviews/olympus_om_d_e_m1_mark_ii_review/" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/latest-reviews/review-1']);">
+							
+							    <img src="/images/sized/images/uploads_ee2/product_review_images/olympus_om_d_em_1_mark_ii_review-100x76.JPG" width="100" height="76" alt="Thumbnail">
+												
+									Olympus OM-D E-M1 Mark II Review
+									</a></p>
+						
+						<p><a href="/reviews/nikon_coolpix_w100_review/" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/latest-reviews/review-2']);">
+							
+							    <img src="/images/sized/images/uploads_ee2/product_review_images/nikon_coolpix_w100_review-100x64.jpg" width="100" height="64" alt="Thumbnail">
+												
+									Nikon Coolpix W100 Review
+									</a></p>
+						
+						<p><a href="/reviews/apple_iphone_7_review/" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/latest-reviews/review-3']);">
+							
+							    <img src="/images/sized/images/uploads_ee2/product_review_images/apple_iphone_7_review-100x208.jpg" width="100" height="207" alt="Thumbnail">
+												
+									Apple iPhone 7 Review
+									</a></p>
+						
+						<p><a href="/reviews/panasonic_lumix_dmc_fz2000_review/" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/latest-reviews/review-4']);">
+							
+							    <img src="/images/sized/images/uploads_ee2/product_review_images/panasonic_lumix_dmc_fz2000_review-100x94.jpg" width="100" height="93" alt="Thumbnail">
+												
+									Panasonic Lumix DMC-FZ2000 Review
+									</a></p>
+						
+						<p><a href="/reviews/nikon_coolpix_b500_review/" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/latest-reviews/review-5']);">
+							
+							    <img src="/images/sized/images/uploads_ee2/product_review_images/nikon_coolpix_b500_review-100x84.jpg" width="100" height="83" alt="Thumbnail">
+												
+									Nikon Coolpix B500 Review
+									</a></p>
+						
+						<p><a href="/reviews/impossible_i_1_review/" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/latest-reviews/review-6']);">
+							
+							    <img src="/images/sized/images/uploads_ee2/product_review_images/impossible_i_1_review-100x87.jpg" width="100" height="86" alt="Thumbnail">
+												
+									Impossible I-1 Review
+									</a></p>
+						
+						<p><a href="/reviews/panasonic_lumix_dmc_lx15_review/" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/latest-reviews/review-7']);">
+							
+							    <img src="/images/sized/images/uploads_ee2/product_review_images/panasonic_lumix_dmc_lx15-100x77.jpg" width="100" height="77" alt="Thumbnail">
+												
+									Panasonic Lumix DMC-LX15 Review
+									</a></p>
+						
+						<p><a href="/reviews/apple_iphone_7_plus_review/" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/latest-reviews/review-8']);">
+							
+							    <img src="/images/sized/images/uploads_ee2/product_review_images/iphone_7_plus_review-100x197.jpg" width="100" height="196" alt="Thumbnail">
+												
+									Apple iPhone 7 Plus Review
+									</a></p>
+						
+						<p><a href="/reviews/sony_cybershot_dsc_rx100_v_review/" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/latest-reviews/review-9']);">
+							
+							    <img src="/images/sized/images/uploads_ee2/product_review_images/sony_rx100_v_review-100x73.jpg" width="100" height="73" alt="Thumbnail">
+												
+									Sony Cyber-shot DSC-RX100 V Review
+									</a></p>
+						
+						<p><a href="/reviews/canon_eos_5d_mark_iv_review/" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/latest-reviews/review-10']);">
+							
+							    <img src="/images/sized/images/uploads_ee2/product_review_images/canon_eos_5d_mark_iv_official-100x80.jpg" width="100" height="79" alt="Thumbnail">
+												
+									Canon EOS 5D Mark IV Review
+									</a></p>
+						
+					</div><!-- .headlines camera-list -->
+
+
+					<div class="ad-block med-rect">
+
+						<!-- 300x250 MPU -->
+						<div data-ns="rectangle" data-collapse="true"></div>
+					
+					</div><!-- .ad-block -->
+
 
 					<div class="headlines camera-list clearfix">
-					   <h4><a href="/reviews/">Popular Cameras</a></h4> 					
+					   <h4><a href="/reviews/">Most Popular Cameras</a></h4> 					
 						
-						<p><a href="/reviews/panasonic_lumix_dmc_tz100_review" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/popular-reviews/review-1']);">
+						<p><a href="/reviews/fujifilm_x_t2_review" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/popular-reviews/review-1']);">
 					 	
-							    <img src="/images/sized/images/uploads_ee2/product_review_images/panasonic_lumix_dmc_tz100_review-100x61.jpg" width="100" height="61" alt="Thumbnail">
+							    <img src="/images/sized/images/uploads_ee2/product_review_images/fujifilm_x_t2_review-100x68.jpg" width="100" height="67" alt="Thumbnail">
 												
-						 	Panasonic Lumix DMC-TZ100 
+						 	Fujifilm X-T2 
 						</a></p>
 						
-						<p><a href="/reviews/nikon_coolpix_s7000_review" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/popular-reviews/review-2']);">
+						<p><a href="/reviews/canon_eos_1300d_review" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/popular-reviews/review-2']);">
+					 	
+							    <img src="/images/sized/images/uploads_ee2/product_review_images/canon_eos_1300d_review-100x89.jpg" width="100" height="89" alt="Thumbnail">
+												
+						 	Canon EOS 1300D 
+						</a></p>
+						
+						<p><a href="/reviews/canon_powershot_sx720_hs_review" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/popular-reviews/review-3']);">
+					 	
+							    <img src="/images/sized/images/uploads_ee2/product_review_images/canon_powershot_sx720_hs_review-100x71.jpg" width="100" height="71" alt="Thumbnail">
+												
+						 	Canon PowerShot SX720 HS 
+						</a></p>
+						
+						<p><a href="/reviews/canon_eos_1200d_review" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/popular-reviews/review-4']);">
+					 	
+							    <img src="/images/sized/images/uploads_ee2/product_review_images/canon_eos_1200d_review-100x80.jpg" width="100" height="79" alt="Thumbnail">
+												
+						 	Canon EOS 1200D 
+						</a></p>
+						
+						<p><a href="/reviews/panasonic_lumix_dmc_g80_review" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/popular-reviews/review-5']);">
+					 	
+							    <img src="/images/sized/images/uploads_ee2/product_review_images/panasonic_lumix_dmc_g80_review-100x95.jpg" width="100" height="95" alt="Thumbnail">
+												
+						 	Panasonic Lumix DMC-G80 
+						</a></p>
+						
+						<p><a href="/reviews/nikon_coolpix_s7000_review" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/popular-reviews/review-6']);">
 					 	
 							    <img src="/images/sized/images/uploads_ee2/product_review_images/nikon_coolpix_s7000_review-100x74.jpg" width="100" height="74" alt="Thumbnail">
 												
 						 	Nikon Coolpix S7000 
 						</a></p>
 						
-						<p><a href="/reviews/canon_powershot_sx610_hs_review" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/popular-reviews/review-3']);">
+						<p><a href="/reviews/fujifilm_x_a2_review" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/popular-reviews/review-7']);">
+					 	
+							    <img src="/images/sized/images/uploads_ee2/product_review_images/fujifilm_x_a2_review-100x94.jpg" width="100" height="93" alt="Thumbnail">
+												
+						 	Fujifilm X-A2 
+						</a></p>
+						
+						<p><a href="/reviews/pentax_k70_review" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/popular-reviews/review-8']);">
+					 	
+							    <img src="/images/sized/images/uploads_ee2/product_review_images/pentax_k70_review-100x71.jpg" width="100" height="71" alt="Thumbnail">
+												
+						 	Pentax K-70 
+						</a></p>
+						
+						<p><a href="/reviews/canon_powershot_sx610_hs_review" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/popular-reviews/review-9']);">
 					 	
 							    <img src="/images/sized/images/uploads_ee2/product_review_images/canon_powershot_sx610_hs_review-100x73.jpg" width="100" height="73" alt="Thumbnail">
 												
 						 	Canon PowerShot SX610 HS 
 						</a></p>
 						
-						<p><a href="/reviews/panasonic_lumix_dmc_tz70_review" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/popular-reviews/review-4']);">
+						<p><a href="/reviews/panasonic_lumix_dmc_lx15_review" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/popular-reviews/review-10']);">
 					 	
-							    <img src="/images/sized/images/uploads_ee2/product_review_images/panasonic_lumix_dmc_tz70_review-100x79.jpg" width="100" height="79" alt="Thumbnail">
+							    <img src="/images/sized/images/uploads_ee2/product_review_images/panasonic_lumix_dmc_lx15-100x77.jpg" width="100" height="77" alt="Thumbnail">
 												
-						 	Panasonic Lumix DMC-TZ70 
-						</a></p>
-						
-						<p><a href="/reviews/panasonic_lumix_dmc_gx80_review" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/popular-reviews/review-5']);">
-					 	
-							    <img src="/images/sized/images/uploads_ee2/product_review_images/panasonic_lumix_dmc_gx80_review-100x68.jpg" width="100" height="68" alt="Thumbnail">
-												
-						 	Panasonic Lumix DMC-GX80 
+						 	Panasonic Lumix DMC-LX15 
 						</a></p>
 						
 					</div><!-- .headlines camera-list -->
 
 
-					<div class="headlines camera-list clearfix">
-					   <h4><a href="/reviews/">Camera Reviews</a></h4> 					
-						
-						<p><a href="/reviews/fujifilm_finepix_xp90_review/" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/latest-reviews/review-1']);">
-							
-							    <img src="/images/sized/images/uploads_ee2/product_review_images/fujifilm_finepix_xp90_review-100x65.jpg" width="100" height="65" alt="Thumbnail">
-												
-									Fujifilm FinePix XP90 Review
-									</a></p>
-						
-						<p><a href="/reviews/huawei_p9_review/" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/latest-reviews/review-2']);">
-							
-							    <img src="/images/sized/images/uploads_ee2/product_review_images/huawei_p9_review-100x178.jpg" width="100" height="178" alt="Thumbnail">
-												
-									Huawei P9 Review
-									</a></p>
-						
-						<p><a href="/reviews/canon_eos_80d_review/" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/latest-reviews/review-3']);">
-							
-							    <img src="/images/sized/images/uploads_ee2/product_review_images/canon_eos_80d_review-100x76.jpg" width="100" height="76" alt="Thumbnail">
-												
-									Canon EOS 80D Review
-									</a></p>
-						
-						<p><a href="/reviews/nikon_d500_review/" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/latest-reviews/review-4']);">
-							
-							    <img src="/images/sized/images/uploads_ee2/product_review_images/nikon_d500_review-100x97.jpg" width="100" height="96" alt="Thumbnail">
-												
-									Nikon D500 Review
-									</a></p>
-						
-						<p><a href="/reviews/fujifilm_x_e2s_review/" onmousedown="_gaq.push(['_trackPageview', '/click/rhs/latest-reviews/review-5']);">
-							
-							    <img src="/images/sized/images/uploads_ee2/product_review_images/fujifilm_x_e2s_review-100x56.jpg" width="100" height="55" alt="Thumbnail">
-												
-									Fujifilm X-E2S Review
-									</a></p>
-						
-					</div><!-- .headlines camera-list -->
-
 					
 
 
-				</div><!-- .left -->
-
-
-				<!-- skyscraper ads + links -->
-				<div class="right">
-
-					<div class="ad-block sky-1 skyscraper"> 
-
-					
-					<!-- 160x600 SKYSCRAPER -->
-					<div data-ns="skyscraper"></div>
-
- 					</div>
-
-					<div class="ad-block sky-2 skyscraper">
-							
-					
-					<!-- 160x600 SKYSCRAPER -->
-					<div data-ns="skyscraper"></div>
-					 
-					</div><!-- .ad-block skyscraper -->
-
-				</div><!-- .right -->
-				
 			</div><!-- #rhs-col-wrap -->
 
 
 			<div id="rhs-col-wrap" class="clearfix">
-				<!-- OnScroll - Photography Blog - MPU -->
-				<script src="http://tags.onscroll.com/1523b993-80b3-40a1-b10f-a569c3049b50/tag.min.js" async=""></script>
 
-				
-				<script>
-				onScrOll.marginTop=10; 
-				</script>
-				
-				<div id="onscroll-ad-photographyblog-dmpu-300-x-600"></div>
+					<div class="ad-block med-rect">
 
-				<!-- End of tag - -->
-
-
+						<!-- 300x250 MPU -->
+						<div data-ns="rectangle" data-collapse="true"></div>
+					
+					</div><!-- .ad-block -->
 
 			</div>
             			
@@ -692,6 +804,17 @@
 
 
 	<div id="footer" role="contentinfo">
+
+
+	
+	<!-- /1004954/Applaud_leaderboard_728x90 -->
+	<div class="footer-leaderboard desktop-only" id="div-gpt-ad-1470749537472-0" style="height:90px; width:728px;">
+	<script>
+	googletag.cmd.push(function() {googletag.display('div-gpt-ad-1470749537472-0');});
+	</script>
+	</div>
+	
+
 	
 	<p>
 		<a href="/" onmousedown="_gaq.push(['_trackPageview', '/click/footer/home']);">Home</a> <b>·</b> 
@@ -786,27 +909,35 @@ googletag.cmd.push(function() {googletag.display('div-gpt-ad-1463504159754-3');}
 </div>
 
 
+<!-- Applaud 2016-11 -->
 
-<!-- Start Quantcast tag, part 2 -->
-<script type="text/javascript">
-_qevents.push([{qacct:"p-bcQkOXWREf02g"},
-{qacct:"p-eeGbUeCNN5ASk"}]);
+<!-- /1004954/Pblog_AdUnit_ROS_1x3_Mobile2 -->
+<div id="div-gpt-ad-1478534119227-0" style="height:3px; width:1px;">
+<script>
+googletag.cmd.push(function() {googletag.display('div-gpt-ad-1478534119227-0');});
 </script>
-<noscript>
-<div style="display:none;">
-<img src="//pixel.quantserve.com/pixel?a.1=p-bcQkOXWREf02g&a.2=p-eeGbUeCNN5ASk" border="0" height="1" width="1" alt="Quantcast"/>
 </div>
-</noscript>
-<!-- End Quantcast tag -->
+ 
+<!-- /1004954/Pblog_AdUnit_ROS_1x4_Content_break2 -->
+<div id="div-gpt-ad-1478534119227-1" style="height:4px; width:1px;">
+<script>
+googletag.cmd.push(function() {googletag.display('div-gpt-ad-1478534119227-1');});
+</script>
+</div>
+ 
+<!-- /1004954/Pblog_AdUnit_ROS_1x1_custom1 -->
+<div id="div-gpt-ad-1478534119227-2" style="height:1px; width:1px;">
+<script>
+googletag.cmd.push(function() {googletag.display('div-gpt-ad-1478534119227-2');});
+</script>
 
 
-<!-- start Vibrant Media IntelliTXT script section -->
-<script type="text/javascript" src="http://photographyblog.uk.intellitxt.com/intellitxt/front.asp?ipid=73107"></script>
-<!-- end Vibrant Media IntelliTXT script section -->
 
 
-<script type="text/javascript">ggv2id='87f2aef4';</script>
-<script type="text/javascript" src="//g2.gumgum.com/javascripts/ggv2.js"></script>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
 
 
 
@@ -826,7 +957,7 @@ exclude: ['testpage1','testpage2']
 
 
 
-<script type="text/javascript" src="http://loadeu.exelator.com/load/?p=788&amp;g=001&amp;c=700150&amp;ctg=&amp;subctg="></script>
+
 
 
 <script>
@@ -838,9 +969,11 @@ var captify_kw_query_11675 = "";
 </script>
 
 
+<script id="dsq-count-scr" src="//photography-blog-1.disqus.com/count.js" async=""></script>
 
-<script type="text/javascript" id="rev2exit" src="http://labs-cdn.revcontent.com/build/revexit.min.js?w=29560&amp;p=19232&amp;k=5ad66dccb42a5a6d70243caf3b05d9abd6960d8c&amp;d=photographyblog.com&amp;t=false&amp;i=none&amp;x=false&amp;z=10"></script>
+<!-- start Vibrant Media IntelliTXT script section -->
+<script type="text/javascript" src="http://photographyblog.uk.intellitxt.com/intellitxt/front.asp?ipid=73107"></script>
+<!-- end Vibrant Media IntelliTXT script section -->
 
 
-
-</body></html>
+</div></body></html>
