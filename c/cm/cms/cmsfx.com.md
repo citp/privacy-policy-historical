@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmsfx.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515081005id_/http%3A//www.cmsfx.com/en/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmsfx.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127143211id_/http%3A//www.cmsfx.com/en/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | Online Currency Trading, Forex Account | CMS Forex
 
