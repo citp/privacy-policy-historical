@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hallels.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531013845id_/http%3A//www.hallels.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hallels.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127151410id_/http%3A//www.hallels.com/privacypolicy) for the most accurate reproduction.*
 
 # Hallels
 
 ### Privacy Policy
 
-[Hallels.com]() is committed to protecting your privacy. We use the information we collect about you to process orders, to improve our web page, and to generate content. The following discloses what information our web site collects and what we do with it. This privacy statement is for informational purposes only and should not be viewed as a contract. If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact webmaster at http://www.hallels.com/???
+[Hallels.com]() is committed to protecting your privacy. We use the information we collect about you to process orders, to improve our web page, and to generate content. The following discloses what information our web site collects and what we do with it. This privacy statement is for informational purposes only and should not be viewed as a contract. If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact webmaster at http://www.hallels.com/
 
   1. #### information collected and usage
 
@@ -16,7 +16,7 @@ We do not collect your name or email address unless provided on a registration f
 
 Our web site contains links to other sites. We cannot be responsible for the privacy practices or the content of sites that do not belong to Hallels.com.
 
-  2. #### policies for chldren (under the age of 13)
+  2. #### policies for children (under the age of 13)
 
 Hallels.com encourages parents and guardians to spend time online with their children and to participate in the activities offered on the Hallels.com web site. No personally identifiable information should be submitted to or posted at Hallels.com by visitors under 13 years of age without the consent of their parent or guardian.
 
@@ -30,6 +30,10 @@ If our Hallels.com staff receive e-mail from children under 13, we may contact t
   3. #### summary
 
 We are committed to protecting your privacy. We use the information we collect about you to process orders, to improve our web page, to gather content, and to evaluate our resources . If you should have questions about our privacy policy, please contact us through our contact page.
+
+  4. #### About Advertising
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 
 
