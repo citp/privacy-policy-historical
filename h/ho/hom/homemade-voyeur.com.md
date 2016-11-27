@@ -1,107 +1,45 @@
-> *The following text is extracted and transformed from the homemade-voyeur.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101112949id_/http%3A//www.homemade-voyeur.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemade-voyeur.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127173428id_/http%3A//www.yourvoyeurvideos.com/privacy) for the most accurate reproduction.*
 
 # 
 
-rnHomemade Voyeur - Hosted Voyeur Videos Limited recognizes that its customers, visitors, users, and others who use Homemade Voyeur - Hosted Voyeur Videos Video value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the Homemade Voyeur - Hosted Voyeur Videos Video site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.rn
+Your privacy is of utmost importance to us. This Privacy Policy governs your use of this website, www.yourvoyeurvideos.com (the Site, we or us).
 
-rn
+Adults Only Service
 
-rnPlease note that any video, image, or other content posted at the direction of users onto the Homemade Voyeur - Hosted Voyeur Videos Video site becomes published content and is not considered personally identifiable information subject to this privacy notice.rn
+THIS IS AN ADULTS ONLY SERVICE. We will suspend or terminate any accounts which we believe are being used by anyone under the age of eighteen (18) years old or the age of majority in the jurisdiction in which you view the Site; additionally, we reserve the right to report such person to the proper authorities along with all information provided to us by or with respect to such person.
 
-rn
+Disclosures Made as Necessitated by Law or Safety
 
-The Information Homemade Voyeur - Hosted Voyeur Videos Limited Collects
+Your name, physical address, phone number and password are considered confidential. However, all information you provide to us may be shared with other third parties as necessary to comply with applicable law, to cooperate with law enforcement and the court system.
 
-rn
+Information We May Collect From You
 
-rn **User-provided information:** You provide certain personally identifiable information (such as your name and email address) to Homemade Voyeur - Hosted Voyeur Videos Video when choosing to participate in various activities on the sites such as uploading videos or posting messages.rn
+During sign up we require that you provide us with certain information which may include Account Data (i.e., your name, physical address, email address, phone number, username, and password), Financial Data (i.e., credit card/billing information) along with Demographic Information. Demographic Information may include IP address(es), referring website information, Internet browser used, zip code and/or other data regarding search history, browsing history, registration and user history.
 
-rn **Cookies Information:** When you visit the Homemade Voyeur - Hosted Voyeur Videos Video site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Homemade Voyeur - Hosted Voyeur Videos Video uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Homemade Voyeur - Hosted Voyeur Videos Video site may not function properly if the ability to accept cookies is disabled.rn
+How is this Information Used?
 
-rn
+Financial Data will only be shared with third party processors as necessary to initiate and complete any orders placed by your account.
 
-rn **Log File Information:** When you use the Homemade Voyeur - Hosted Voyeur Videos Video site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browserrn
+We may use cookies and Demographic Information to better your experience on the Site by allowing us to tailor your experience on the Site according to your preferences and what we think may appeal to you based on such Demographic Information. Aggregate, non-individual membership Demographic Information may be shared with third parties with whom we have a direct or indirect relationship who may offer products or services we believe you may be interested in.
 
-rn
+We may also share the aggregate Demographic Information with third parties for the purposes of analyzing usage data, maintaining servers and other purposes relating to maintaining and improving our service and the Site.
 
-rn
+You Are Responsible For Information You Provide to Third Parties
 
-The Way Homemade Voyeur - Hosted Voyeur Videos Video Retains Information
+We process credit card transactions via industry standard encryption through third party processors, which processors only use your information for that purpose. Financial Data is considered private information and will not be shared by us with third parties except with your authorization and as necessary to carry out orders placed by you with the understanding by you that such transaction(s) may be subject to the rules and policies of such third party. Financial or other Data provided by you to any companies or websites advertising on the Site or in response to emails sent to you by the Site are not governed by this Privacy Policy. Any information provided by you to a third party, and any transaction with such a third party, is subject to that third party's terms and conditions and privacy policy.
 
-rn
+Emails From Us and Use of Your Email Address
 
-rn
+Your email address will be used by us to contact you when we have special offers or other information to provide you. Such information may include, without limitation, new services offered by us, information relating to your account and other information related to your subscription to the Site. We may send you emails prior to and after you have terminated your membership to our service until such time as you advise us, in accordance with the procedures explained below, that you no longer wish to receive email from us. If you no longer wish to receive emails from us please unsubscribe from your user panel or send us an email to admin@yourvoyeurvideos.com. We and our advertising partners fully comply with the federal CAN-SPAM Act and as such all emails from us and our advertising partners will always, among other required disclosures, have a place for you to opt out of receipt of further email correspondence. Please note we will never send you an email directly or through our marketing partners without your consent. Please immediately report any emails you may receive, without your prior authorization, which purport to promote the Site.
 
-rnTo preserve the integrity of website databases, Homemade Voyeur - Hosted Voyeur Videos Video's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to Homemade Voyeur - Hosted Voyeur Videos Video, you are consenting to store that information indefinitely.rn
+Advertisements
 
-rn
+We may utilize the services of outside advertising agencies to advertise our services and goods and/or services offered by third parties. Either we or our advertising agencies may use cookies and/or action tags to measure advertising effectiveness on an anonymous basis. Some emails from us may contain advertisements from companies unrelated to the Site. Should you elect to visit any such advertiser's website, we cannot, and do not, make any representations about applicable terms and conditions or privacy policies for such advertisers websites. If you choose to make any purchases on such sites or accept any offers from such companies, we may provide your information, including Financial Data, to the advertiser as necessary to your request. Finally, we cannot, and do not, make any representations about the privacy policies or terms and conditions of advertisements appearing anywhere on our service, whether through our website or emails, this is regardless of whether or not there may be any mentions of or references to any or all of the Site on such advertisers website(s).
 
-rn
+Changes to the Privacy Policy 
 
-The Way Homemade Voyeur - Hosted Voyeur Videos Limited Uses Information 
+We may change this privacy policy at any time. No change in the privacy policy will be effective until thirty (30) days after it is posted, unless the privacy policy has clear language indicating otherwise.
 
-rn
+Changes in the Ownership of the Site
 
-rn
-
-rnIf you submit personally identifiable information to us through the Homemade Voyeur - Hosted Voyeur Videos Video website, then we use your personal information to operate, maintain, and provide to you the features and functionality of the site.rn
-
-rn
-
-rnAny personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other users when you upload videos or send messages through the Homemade Voyeur - Hosted Voyeur Videos Video site, and other users can contact you through messages and comments. Any videos that you submit to the Homemade Voyeur - Hosted Voyeur Videos Video site may be redistributed through the Internet and other media channels, and may be viewed by the general public.rn
-
-rn
-
-rnWe do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes.rn
-
-rn
-
-rn
-
-When Homemade Voyeur - Hosted Voyeur Videos Video Discloses Information 
-
-rn
-
-rn
-
-rnWe provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.rn
-
-rn
-
-rnWe do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.rn
-
-rn
-
-rnWe may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.rn
-
-rn
-
-rnHomemade Voyeur - Hosted Voyeur Videos Limited also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that, in good faith, is appropriate or necessary to enforce our terms of use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of our company, our users or others.rn
-
-rn
-
-rn
-
-Our Commitment to Legal-Age Usage 
-
-rn
-
-rnProtecting children from adult content is especially important. For that reason, Homemade Voyeur - Hosted Voyeur Videos Limited does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Homemade Voyeur - Hosted Voyeur Videos Video site from persons under 18 years of age, and no part of our website is directed to persons under 18, or legal age according to state law. If you are under 18 years of age, then please do not use or access the Homemade Voyeur - Hosted Voyeur Videos Video site at any time or in any manner. If Homemade Voyeur - Hosted Voyeur Videos Limited learns that personally identifiable information of persons under 18 years of age has been collected, appropriate steps will be taken to delete this information.rn
-
-rn
-
-In the Event of Merger, Sale, or Bankruptcy
-
-rn
-
-rnIn the event that Homemade Voyeur - Hosted Voyeur Videos Limited is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.rn
-
-rn
-
-Changes and updates to this Privacy Notice
-
-rn
-
-rnThis privacy notice may be revised periodically and users are encouraged to review it periodically to stay aware of any changes. Your continued use of the Homemade Voyeur - Hosted Voyeur Videos Video site constitutes your agreement to this privacy notice and any future revisions.rn
-
-rn 
+The Site is a growing online service. As such, we may have the occasion to buy or sell assets, including but not limited to merger, dissolution, and transfer of ownership. Depending upon the nature of the transaction, we may share any and all data provided by you to us (including Financial Data and Account Information) with third parties, as necessary to initiate, investigate or complete any such transaction(s).
