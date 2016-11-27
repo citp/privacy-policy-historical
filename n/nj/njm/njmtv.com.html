@@ -1,0 +1,3602 @@
+<!--The following is the downloaded HTML source of the njmtv.com privacy policy that was archived on 2016-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161127093937id_/http%3A//www.njmtv.com/njmtv-privacy-policy-and-security.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="stylish-select"><head>
+<title>Privacy Policy And Security</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="initial-scale = 1.0,maximum-scale = 1.0">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<link rel="shortcut icon" href="images/mtv.ico">
+<link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="css/layout.css" rel="stylesheet" type="text/css">
+<!--link href="css/responsive.css" rel="stylesheet" type="text/css" /-->
+<!--[if IE 6]>
+    <link rel="stylesheet" type="text/css" href="css/i_hate_IE.css" />
+<![endif]-->
+
+<!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="css/i_hate_IE7.css" />
+<![endif]-->
+<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="js/simpletabs_1.3.js"></script>
+<script type="text/javascript" src="js/jquery.stylish-select.js"></script>
+<script type="text/javascript" src="./fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+<script type="text/javascript" src="./fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<link rel="stylesheet" type="text/css" href="./fancybox/jquery.fancybox-1.3.4.css" media="screen">
+<script type="text/javascript">
+ //<![CDATA[     
+		jQuery(document).ready(function() {
+						
+			jQuery("#variousMovieRequest").fancybox();
+			jQuery("#variousCancleMembership").fancybox();
+			jQuery("#variousHoldVacation").fancybox();
+			jQuery("#variousReactivateMembershipPlan").fancybox();
+			jQuery("#variousSubscriptionARB").fancybox();
+			jQuery("#variousChangeEmail").fancybox();
+			jQuery("#variousChangePassword").fancybox();
+			jQuery("#variousChangePreferences").fancybox();
+			jQuery("#variousNewsLetter").fancybox();
+			jQuery("#various1").fancybox();
+			jQuery("#variousLogin").fancybox();
+			
+			
+			
+			});
+			
+			
+			
+			
+	
+	function trim(str) {
+        return str.replace(/^\s+|\s+$/g,"");
+    }
+	function createObject(){
+  if(window.XMLHttpRequest){
+    var obj	= new XMLHttpRequest();
+  }else{
+    var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+  }
+ return obj;
+}
+
+var httpobj	= createObject();
+	
+function addToCartRequestResult(act,Quantity,Action,Id)
+{ 
+    document.getElementById('view_added_product').innerHTML ='<span class="right-loader"> <img src="images/108.gif" alt=""/></span>';
+	httpobj.open('get',"ajax-add-to-cart.php?act="+act+"&Quantity="+Quantity+"&Action="+Action+"&Id="+Id);
+	httpobj.onreadystatechange	= handleAddToCartRequestResponse;
+	httpobj.send("");
+}
+
+function handleAddToCartRequestResponse(){
+
+	 if(httpobj.readyState==4){
+		 var text = httpobj.responseText;
+		 
+		 var re = new RegExp(/^\d+/); 
+         var m = re.exec(text);
+		 
+		 if(m==null)
+		 {
+		 m = 0;
+		 }
+        
+		if(m[0]==9999)
+		{
+		location.replace(""); 
+		}
+		else
+		{
+		document.getElementById('view_added_product').innerHTML = text;
+		}
+	 }
+} 
+
+  
+  $(document).ready(function(){
+	$(document).click(function(){
+		$("#ajax_response").fadeOut('slow');
+	});
+
+	$("#keyword").focus();
+	var offset = $("#keyword").offset();
+	var width = $("#keyword").width()-2;
+	
+	$("#ajax_response").css("left",0);
+	$("#ajax_response").css("width",width);
+	$("#keyword").keyup(function(event){
+		 var keyword = $("#keyword").val();
+		 var cast_id = $('#myDropdowns').val();
+		
+		 if(keyword.length)
+		 {
+			
+			 if(event.keyCode != 40 && event.keyCode != 38 && event.keyCode != 13)
+			 {
+				 
+	
+				 $("#loading").css("visibility","visible");
+				 $.ajax({
+				   type: "POST",
+				   url: "ajax_server.php",
+				   data: "data="+keyword+"&cast_id="+cast_id,
+   				   success: function(msg){	
+					if(msg != 0) {
+					  $("#ajax_response").fadeIn("slow").html(msg);
+					} else
+					{
+					  $("#ajax_response").fadeIn("slow");	
+					  //$("#ajax_response").html('<div class="nomatch">No Matches Found</div>');
+					}
+					$("#loading").css("visibility","hidden");
+				   }
+				 });
+			 }
+			 else
+			 {
+				switch (event.keyCode)
+				{
+				 case 40:
+				 {
+					  
+					  found = 0;
+					  
+					  $("ul.simpleTabsNavigation li").each(function(){
+						 if($(this).attr("class") == "current")
+							found = 1;
+							
+					  });
+					  
+					 
+					 
+					  if(found == 1)
+					  {
+						var sel = $("ul.simpleTabsNavigation li[class='current']");
+						
+						var kumar = $("ul.simpleTabsNavigation li[class='current'] a").attr('id');
+						kumar = kumar.replace("_a_", "_div_");
+						var lala = kumar.replace("tabber8_div_", "");
+						var lala2 = parseInt(lala)+1;
+						var kumar2 = ('tabber8_div_'+lala2).toString();
+						
+                         sel.next().addClass("current");
+						 sel.removeClass("current");
+						
+						 $('#'+kumar2).addClass("currentTab");
+						 $('#'+kumar).removeClass("currentTab");							
+						
+						
+												
+					  }
+					  else
+						{
+						$("ul.simpleTabsNavigation li:first").addClass("current");
+						var kumar = $("ul.simpleTabsNavigation li a:first-child").attr('id');
+						kumar = kumar.replace("_a_", "_div_");
+						$('#'+kumar).addClass("currentTab");
+						}
+						
+					 }
+				 break;
+				 case 38:
+				 {
+					 
+					  found = 0;
+					  $("ul.simpleTabsNavigation li").each(function(){
+						
+						 if($(this).attr("class") == "current")
+							found = 1;
+					  });
+					  if(found == 1)
+					  {
+						
+												
+						var sel = $("ul.simpleTabsNavigation li[class='current']");
+						var kumar = $("ul.simpleTabsNavigation li[class='current'] a").attr('id');
+						kumar = kumar.replace("_a_", "_div_");
+						var lala = kumar.replace("tabber8_div_", "");
+						var lala2 = parseInt(lala)-1;
+						var kumar2 = ('tabber8_div_'+lala2).toString();
+						
+						sel.prev().addClass("current");
+						sel.removeClass("current");
+						
+						 $('#'+kumar2).addClass("currentTab");
+						 $('#'+kumar).removeClass("currentTab");	
+						
+					  }
+					  else
+					  {
+						$("ul.simpleTabsNavigation li:last").addClass("current");
+						var kumar = $("ul.simpleTabsNavigation li a:last-child").attr('id');
+						kumar = kumar.replace("_a_", "_div_");
+						$('#'+kumar).addClass("currentTab");
+					  }
+						
+				 }
+				 break;
+				 case 13:
+				 		$("#ajax_response").fadeOut("slow");
+						$("#keyword").val($("li[class='selected'] a").text());
+						var vishwas2 = $("#keyword").val($("li[class='selected'] a").textContent);	
+						
+						if(vishwas2== null || vishwas2== false || vishwas2==0)
+						{
+						var TTL = keyword;
+						}
+						else
+						{
+						var TTL = vishwas2;
+						}
+						
+						location.replace("action.php?keyword="+TTL);
+				 break;
+				}
+			 }
+		 }
+		 else
+			$("#ajax_response").fadeOut("slow");
+	});
+
+	$("#ajax_response").mouseover(function(){
+		$(this).find("li").mouseover(function () {
+			  
+			  $("ul.simpleTabsNavigation li[class='current']").removeClass("current");
+			  $( "div.currentTab" ).removeClass("currentTab");
+			  
+			  var kumar = $(this).attr('id');
+			  kumar = kumar.replace("_a_", "_div_");
+			  $(this).addClass("current");
+			  $('#'+kumar).addClass("currentTab");
+		});
+
+		$(this).find("li").mouseout(function () {
+			  var kumar = $(this).attr('id');
+			  kumar = kumar.replace("_a_", "_div_");
+			  $(this).removeClass("current");
+			  $('#'+kumar).removeClass("currentTab");
+		});
+
+		$(this).find("li").click(function () {
+			  $("#keyword").val($(this).text());
+			  $("#ajax_response").fadeOut("slow");
+		});
+
+	});
+
+});
+  
+  
+ function ajaxDepartmentsToMovies(){
+	
+	   
+		var Catsid = document.searchfrm.Catsid.value;
+		httpobj.open('get',"ajax_server.php?Catsid="+Catsid);
+		httpobj.onreadystatechange	= handleDepartmentsResponse;
+		httpobj.send("");
+	
+	}
+	
+	function handleDepartmentsResponse(){
+	
+		 if(httpobj.readyState==4){
+			 var text = httpobj.responseText;
+			 document.getElementById('view_document_name').innerHTML = text;
+		 }
+	}
+	
+	function movie_request_result(){ 
+	
+	 document.getElementById('view_movie_request_error').innerHTML ='<img src="images/loading.gif" alt="" />'; 
+	 
+	var Email = document.frmMovieRequest.Username.value;
+	var Name = document.frmMovieRequest.Name.value;
+	var Movie = document.frmMovieRequest.Movie.value;
+	var Phone = document.getElementById('Phone').value;
+	var Comments = document.frmMovieRequest.Comments.value;
+	
+	httpobj.open('get',"ajax-movie-request.php?Email="+Email+"&Name="+Name+"&Movie="+Movie+"&Phone="+Phone+"&Comments="+Comments);
+	httpobj.onreadystatechange	= handleMovieRequestResponse;
+	httpobj.send("");
+
+}
+function handleMovieRequestResponse(){
+
+	 if(httpobj.readyState==4){
+		 var text = httpobj.responseText;
+		 
+		if(text=='You have successfully requested a movie')
+		{
+		
+		location.replace('my-profile.html');
+		}
+		else
+		{
+		document.getElementById('view_movie_request_error').innerHTML = text;
+		}
+	 }
+}
+
+function subscription_ARB_result(){ 
+	
+	document.getElementById('view_subscription_ARB_error').innerHTML ='<img src="images/loading.gif" alt="" />'; 
+	 
+	
+	var Card_Number = document.frmUpdateReactivateMembershipPlan.Card_Number.value;
+	var Month = document.frmUpdateReactivateMembershipPlan.Month.value;
+	var Year = document.frmUpdateReactivateMembershipPlan.Year.value;
+	var First_Name = document.frmUpdateReactivateMembershipPlan.First_Name.value;
+	var Last_Name = document.frmUpdateReactivateMembershipPlan.Last_Name.value;
+	var Country = document.frmUpdateReactivateMembershipPlan.Country.value;
+	var State = document.frmUpdateReactivateMembershipPlan.State.value;
+	var Statex = document.frmUpdateReactivateMembershipPlan.Statex.value;
+	var City = document.frmUpdateReactivateMembershipPlan.City.value;
+	var Address = document.frmUpdateReactivateMembershipPlan.Address.value;
+	Address = Address.replace('#',"");
+	Address = Address.replace('&',"");
+	var Zipcode = document.frmUpdateReactivateMembershipPlan.Zipcode.value;
+	var Phone = document.frmUpdateReactivateMembershipPlan.Phone.value;
+	
+	httpobj.open('get',"ajax-subscription_ARB-request.php?Month="+Month+"&Year="+Year+"&Card_Number="+Card_Number+"&First_Name="+First_Name+"&Last_Name="+Last_Name+"&Country="+Country+"&State="+State+"&Statex="+Statex+"&City="+City+"&Address="+Address+"&Zipcode="+Zipcode+"&Phone="+Phone);
+	httpobj.onreadystatechange	= handleSubscriptionARBResponse;
+	httpobj.send("");
+
+}
+function handleSubscriptionARBResponse(){
+
+	 if(httpobj.readyState==4){
+		 var text = httpobj.responseText;
+		 if(text='Update subscription')
+		 {
+		 location.replace('my-profile.html');
+		 }
+		 else
+		 {
+		 document.getElementById('view_subscription_ARB_error').innerHTML = text;
+		 }
+		
+	 }
+}
+
+
+function reactivate_membership_plan_result(){ 
+	
+	 document.getElementById('view_reactivate_membership_plan_error').innerHTML ='<img src="images/loading.gif" alt="" />'; 
+	 
+	var Card_Number = document.frmReactivateMembershipPlanAdvance.Card_Number.value;
+	var Month = document.frmReactivateMembershipPlanAdvance.Month.value;
+	var Year = document.frmReactivateMembershipPlanAdvance.Year.value;
+	
+		
+	httpobj.open('get',"ajax-reacivate-membershipplan-request.php?Month="+Month+"&Year="+Year+"&Card_Number="+Card_Number);
+	httpobj.onreadystatechange	= handleReactivateMembershipPlanResponse;
+	httpobj.send("");
+
+}
+function handleReactivateMembershipPlanResponse(){
+
+	 if(httpobj.readyState==4){
+		
+		var text = httpobj.responseText;
+		 //alert(text);
+		if(text=='Successfull Reactivate')
+		{
+		location.replace('my-profile.html');
+		}
+		else
+		{
+		document.getElementById('view_reactivate_membership_plan_error').innerHTML = text;
+		}
+	 }
+}
+
+
+
+     function close_membership_result(){ 
+	
+	 document.getElementById('view_close_membership_request_error').innerHTML ='<img src="images/loading.gif" alt="" />';
+	 
+		
+	httpobj.open('get',"ajax-close-membership-request.php?CM=Confirm");
+	httpobj.onreadystatechange	= handleCloseMembershipResponse;
+	httpobj.send("");
+
+}
+	function handleCloseMembershipResponse(){
+	
+		 if(httpobj.readyState==4){
+			 var text = httpobj.responseText;
+			 
+			if(text=='Cancel Success')
+			{
+			location.replace('membership-order-detail.html');
+			}
+			else
+			{
+			document.getElementById('view_close_membership_request_error').innerHTML = text;
+			}
+		 }
+	}
+	
+	
+	
+	function hold_vacation_result(st){ 
+	
+	 document.getElementById('view_hold_vacation_request_error').innerHTML ='<img src="images/loading.gif" alt="" />';
+	 
+	httpobj.open('get',"ajax-hold-vacation-request.php?CM=Confirm&st="+st);
+	httpobj.onreadystatechange	= handleHoldVacationResponse;
+	httpobj.send("");
+
+}
+
+	function handleHoldVacationResponse(){
+	
+		 if(httpobj.readyState==4){
+			 var text = httpobj.responseText;
+			 
+			if(text=='Hold Done')
+			{
+			location.replace('membership-order-detail.html');
+			}
+			else
+			{
+			document.getElementById('view_hold_vacation_request_error').innerHTML = text;
+			}
+		 }
+	}
+	
+	
+	
+	
+
+	function newsletter_request_result(){ 
+	
+	document.getElementById('view_newsletter_request_error').innerHTML ='<img src="images/loading.gif" alt="" />'; 
+	var Name = document.frmNewsletter.Name.value;
+	var Email = document.frmNewsletter.Email.value;
+			
+	httpobj.open('get',"ajax-newsletter.php?Name="+Name+"&Email="+Email);
+	httpobj.onreadystatechange	= handleNewsletterRequestResponse;
+	httpobj.send("");
+
+}
+function handleNewsletterRequestResponse(){
+
+	 if(httpobj.readyState==4){
+		 var text = httpobj.responseText;
+		
+		if(text=='You have successfully subscribed to news letters')
+		{
+		location.replace('my-profile.html');
+		}
+		else
+		{
+		document.getElementById('view_newsletter_request_error').innerHTML = text;
+		}
+	 }
+}
+
+
+function change_email_request_result(){ 
+	
+    document.getElementById('view_change_email_request').innerHTML ='<img src="images/loading.gif" alt=""/>';
+	
+	var Username = document.frmChangeEmail.Username.value;
+	
+	
+	httpobj.open('get',"ajax-change-email-request.php?Username="+Username);
+	httpobj.onreadystatechange	= handleChangeEmailRequestResponse;
+	httpobj.send("");
+
+}
+function handleChangeEmailRequestResponse(){
+
+	 if(httpobj.readyState==4){
+		 var text = httpobj.responseText;
+		if(text=='Email Done')
+		{
+		location.replace('my-profile.html');
+		}
+		else
+		{		 
+		 document.getElementById('view_change_email_request').innerHTML = text;
+		}
+		 
+	 }
+}
+
+
+	function change_password_request_result(){ 
+	
+    document.getElementById('view_chnage_password_request_error').innerHTML ='<img src="images/loading.gif" alt="" />';
+	
+	var Old_Password = document.frmChangePassword.Old_Password.value;
+	var Password = document.frmChangePassword.Password.value;
+	var Confirm_Password = document.frmChangePassword.Confirm_Password.value;
+	httpobj.open('get',"ajax-change-password-request.php?Old_Password="+Old_Password+"&Pass="+Password+"&Con_Pass="+Confirm_Password);
+	httpobj.onreadystatechange	= handleChangePasswordRequestResponse;
+	httpobj.send("");
+
+}
+function handleChangePasswordRequestResponse(){
+
+	 if(httpobj.readyState==4){
+		var text = httpobj.responseText;
+		if(text=='Password Done')
+		{
+		location.replace('my-profile.html');
+		}
+		else
+		{
+		 document.getElementById('view_chnage_password_request_error').innerHTML = text;
+		}
+	}
+}
+
+function change_preferences_request_result(){ 
+	
+    document.getElementById('view_change_preferences_request').innerHTML ='<img src="images/loading.gif" alt=""/>';
+	
+	
+	
+	var chks = document.getElementsByName('Cus_Lan[]');
+	
+	var str='';
+	for (var i = 0; i < chks.length; i++)
+        {
+                if (chks[i].checked)
+                {
+				str = str+chks[i].value+',';
+				var Cus_Lan = ((str.charAt(str.length-1,1) == ",") ? str.substring(0,str.length-1) : str);
+				}
+				
+		}
+		
+		
+		
+	if(document.getElementById('Newsletter').checked== true)
+	{
+	var Newsletter = document.frmChangePreferences.Newsletter.value;
+	}
+	else
+	{
+	var Newsletter = 0;
+	}
+	
+	httpobj.open('get',"ajax-change-preferences-request.php?Cus_Lan="+Cus_Lan+"&Newsletter="+Newsletter);
+	httpobj.onreadystatechange	= handleChangePreferencesRequestResponse;
+	httpobj.send("");
+
+}
+function handleChangePreferencesRequestResponse(){
+
+	 if(httpobj.readyState==4){
+		 var text = httpobj.responseText;
+		
+		if(text=='Preferences Done')
+		{
+		location.replace('my-profile.html');
+		}
+		else
+		{		 
+		 document.getElementById('view_change_preferences_request').innerHTML = text;
+		}
+		 
+	 }
+}
+
+	function sum_key_value()
+	{
+	var ket = document.getElementById('keyword').value;
+	var myDropdowns = document.getElementById('myDropdowns').value;
+	if(myDropdowns==0)
+	{
+	location.replace("search.php?keyword="+ket);
+	}
+	else
+	{
+	location.replace("search.php?keyword="+ket+"&Cate_Id="+myDropdowns);	
+	}
+	
+	}
+	
+	function showStuff(id) {
+		document.getElementById(id).style.display = 'block';
+	}
+	function hideStuff(id) {
+		document.getElementById(id).style.display = 'none';
+	}
+	
+	function hideMsgStuff(id) 
+	{
+	document.getElementById(id).style.display = 'none';
+	}
+	
+	function showMsgStuff(id) 
+	{
+	document.getElementById(id).style.display = 'block';
+	if(id!='')
+	{
+	 var sharedLoader = document.getElementById(id); //div auto hide made by vishwas just chill
+     var timeoutLoader = window.setTimeout(function(){sharedLoader.style.display = 'none';}, 1500);
+    }
+	}
+					
+ 	
+	
+
+function doAddQueue(Id,cid,act,Quantity,Action)
+{
+	
+	httpobj.open('get',"add-to-myqueue.php?Id="+Id+"&cid="+cid+"&act="+act+"&Quantity="+Quantity+"&Action="+Action);
+	httpobj.onreadystatechange	= handleDoAddQueueRequestResponse;
+	httpobj.send("");
+	
+}
+
+
+function handleDoAddQueueRequestResponse(){
+
+	 if(httpobj.readyState==4){
+		 var text = httpobj.responseText;
+		 document.getElementById('view_added_queue').innerHTML = text;
+	}
+} 
+
+
+function handleDoAddQueueRequestResponse(){
+
+	 if(httpobj.readyState==4){
+		 var text = httpobj.responseText;
+		 document.getElementById('view_added_queue').innerHTML = text;
+	}
+} 
+
+
+
+function refer_a_friend(){ 
+	
+    document.getElementById('view_refer_a_feirnd_result').innerHTML ='<img src="../images/loading.gif" alt="" />';
+	
+	//var emails = new Array(document.referAFrindFrm.Friend_Email[].value);
+	
+	var chks = document.getElementsByName('Friend_Email[]');
+	var str='';
+	for (var i = 0; i < chks.length; i++)
+        {
+                if (chks[i].value!='')
+                {
+				str = str+chks[i].value+',';
+				var emails = ((str.charAt(str.length-1,1) == ",") ? str.substring(0,str.length-1) : str);
+				}
+				
+		}
+	
+	httpobj.open('get',"ajax-refer-a-friend-request.php?emails="+emails);
+	httpobj.onreadystatechange	= handleReferaFriendResponse;
+	httpobj.send("");
+
+}
+
+function handleReferaFriendResponse(){
+
+	 if(httpobj.readyState==4){
+		var text = httpobj.responseText;
+		
+			if(trim(text)=="Email Add Successfully")
+			{
+			document.getElementById('refer_a_feirnd_result_hide_me').style.display = 'none';
+		    document.getElementById('view_refer_a_feirnd_result').innerHTML = text;
+			}
+			else
+			{
+			document.getElementById('view_refer_a_feirnd_result').innerHTML = text;
+			}
+		}
+} 
+  
+  
+ 
+
+var COOKIE_NAME = "scroll";
+
+
+$(document).ready(function () {
+    // Check to see if the user already has the cookie set to scroll
+    var scrollPosition = getCookiePosition(COOKIE_NAME);
+    if (scrollPosition.length > 0) {
+	//alert(scrollPosition);
+        // Scroll to the position of the last link clicked
+        window.scrollTo(0, parseInt(scrollPosition-351, 10));
+    }
+ 
+    // Attach an overriding click event for each link
+    // saveScrollPosition function can be called before the user is redirected.
+    $("a.resultLink").each(function () {
+        $(this).click(function () {
+            saveScrollPosition($(this));
+        });
+    });
+});
+ 
+// Get the offset (height from top of page and the current page url) of the link element
+// and save it in a cookie.
+function saveScrollPosition(link) {
+    var linkTop = link.offset().top;
+    setCookie(COOKIE_NAME, "pos=" + linkTop + "&link=" + escape(window.location.pathname), 1);
+}
+ 
+//Trim whitespaces
+function trim(str) {
+   return str.replace(/^\s+|\s+$/g, '');
+}
+// Get cookie helper function
+function getCookiePosition(name) {
+    if (document.cookie.length > 0) {
+        //Get the right cookie
+		
+        var cookies = document.cookie.split(";");
+        for (var i = 0; i < cookies.length; i++) {
+           
+            if (trim(cookies[i].split("=")[0]) == COOKIE_NAME) {
+                //Get the position of the & sign
+                var pos = cookies[i].indexOf("&");
+                if (pos > -1) {
+                    //Get value
+                    var scrollValue = cookies[i].split("=")[2].substring(0, cookies[i].split("=")[2].indexOf("&"));
+                    var link = unescape(trim(cookies[i].split("=")[3]));
+                    //if the link is the same as the current page, then assume user wants to go back to the same position
+                    if (link == window.location.pathname) return scrollValue;
+				}
+				
+                return "";
+            }
+        }
+        return "";
+    }
+	
+    return "";
+}
+ 
+//Method to create a new cookie
+function createCookie(name, value, days) {
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+        var expires = "; expires=" + date.toGMTString();
+    }
+    else var expires = "";
+    document.cookie = name + "=" + value + expires + "; path=/";
+}
+ 
+// Set cookie
+function setCookie(name, value, expiredays) {
+    //Remove all other cookies
+    var cookies = document.cookie.split(";");
+    for (var i = 0; i < cookies.length; i++) {
+        if (trim(cookies[i].split("=")[0]) == COOKIE_NAME) {
+            createCookie(trim(cookies[i].split("=")[0]), "", -1);
+        }
+    }
+    //Set the new cookie
+	    createCookie(name, value, expiredays);
+}
+//]]>
+</script>
+	
+	
+	
+	<script type="text/javascript">
+	//<![CDATA[ 
+	$(document).ready(function(){
+	var fetching = false;
+	
+	function lastPostFunc()
+	{
+	fetching = true;
+	
+	$('div#lastPostsLoader').html('<img src="images/other-result.gif" /> <p>Loading New Products</p>');
+	$.post("scroll_product.php?action=getLastPosts&lastID="+$(".wrdLatest:last").attr("id"),
+	
+	function(data){
+	if (data != "") {
+	$(".wrdLatest:last").after(data);
+	setTimeout(function(){
+	fetching = false;
+	},300);
+	$('div#lastPostsLoader').empty();
+	var scrollPosition = getCookiePosition(COOKIE_NAME);
+    if (scrollPosition.length > 0) {
+	
+        window.scrollTo(0, parseInt(scrollPosition-351, 10));
+    }
+ 
+   
+    $("a.resultLink").each(function () {
+        $(this).click(function () {
+            saveScrollPosition($(this));
+        });
+    });
+	
+function saveScrollPosition(link) {
+    var linkTop = link.offset().top;
+    setCookie(COOKIE_NAME, "pos=" + linkTop + "&link=" + escape(window.location.pathname), 1);
+}
+ 
+
+function trim(str) {
+   return str.replace(/^\s+|\s+$/g, '');
+}
+
+function getCookiePosition(name) {
+    if (document.cookie.length > 0) {
+       
+        var cookies = document.cookie.split(";");
+        for (var i = 0; i < cookies.length; i++) {
+           
+            if (trim(cookies[i].split("=")[0]) == COOKIE_NAME) {
+               
+                var pos = cookies[i].indexOf("&");
+                if (pos > -1) {
+                   
+                    var scrollValue = cookies[i].split("=")[2].substring(0, cookies[i].split("=")[2].indexOf("&"));
+                    var link = unescape(trim(cookies[i].split("=")[3]));
+                   
+                    if (link == window.location.pathname) return scrollValue;
+				}
+				
+                return "";
+            }
+        }
+        return "";
+    }
+	
+    return "";
+}
+ 
+
+function createCookie(name, value, days) {
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+        var expires = "; expires=" + date.toGMTString();
+    }
+    else var expires = "";
+    document.cookie = name + "=" + value + expires + "; path=/";
+}
+	function setCookie(name, value, expiredays) {
+   
+    var cookies = document.cookie.split(";");
+    for (var i = 0; i < cookies.length; i++) {
+        if (trim(cookies[i].split("=")[0]) == COOKIE_NAME) {
+            createCookie(trim(cookies[i].split("=")[0]), "", -1);
+        }
+    }
+    
+	    createCookie(name, value, expiredays);
+    }
+	
+	}
+	});
+	};
+	$(window).scroll(function(){
+	
+	var bufferzone = $(window).scrollTop() * 0.20;
+	if (!fetching && ($(window).scrollTop() + bufferzone > ($(document).height()- $(window).height() ) )){
+	lastPostFunc();
+	
+	}
+	});
+	
+	});
+	//]]>	
+	</script>
+    
+	
+
+<script type="text/javascript">
+$(document).ready(function(e) {
+     $('h3.navtoggle span').click(function() {
+		 $('#navigation').slideToggle();
+    });
+});
+</script>
+
+<script> 
+$(document).ready(function(){
+  $("#flip1").click(function(){
+    $("#panel1").slideToggle("slow");
+  });
+});
+</script>
+
+<script> 
+$(document).ready(function(){
+  $("#flip2").click(function(){
+    $("#panel2").slideToggle("slow");
+  });
+});
+</script>
+
+
+<script> 
+$(document).ready(function(){
+  $("#flip3").click(function(){
+    $("#panel3").slideToggle("slow");
+  });
+});
+</script>
+
+<script> 
+$(document).ready(function(){
+  $("#flip4").click(function(){
+    $("#panel4").slideToggle("slow");
+  });
+});
+</script>
+
+<script> 
+$(document).ready(function(){
+  $("#flip5").click(function(){
+    $("#panel5").slideToggle("slow");
+  });
+});
+</script>
+
+<script> 
+$(document).ready(function(){
+  $("#flip6").click(function(){
+    $("#panel6").slideToggle("slow");
+  });
+});
+</script>
+
+</head>
+
+<body><div id="WzTtDiV" style="visibility: hidden; position: absolute; overflow: hidden; padding: 0px; width: 0px; left: 0px; top: 0px;"></div>
+<script type="text/javascript" src="wz_tooltip.js"></script>
+	<div class="main-container">
+  	<div class="header">
+<div class="logo"><a href="index.html" title="MOVIE TIME VIDEO"><img src="images/logo-img.png" alt="logo"></a></div>
+
+<div class="headtop1">
+
+<div class="cartline">
+
+<div class="regline">
+<a href="registration.html" class="head_regis"> Register </a> or <a href="login.html" class="head_log"> Log in</a>
+</div>
+<span class="mycart"><a href="my-cart.html">cart</a></span>
+</div>
+
+</div>
+
+<div class="headtop2">
+
+<div class="searchline">
+<span class="all">all</span>
+<form id="searchfrm" name="searchfrm" method="post" action="action.php">
+
+<span class="search_title">search :</span>
+<div class="outerselect">
+<select name="Catsid" id="myDropdowns">
+<option value="0" selected="">All Departments</option>
+<option value="7">Audio- Film</option>
+<option value="26">Audio-Compliation</option>
+<option value="28">Audio-Ghazals</option>
+<option value="29">Audio-Others</option>
+<option value="27">Audio-Religious</option>
+<option value="9">Blu Ray</option>
+<option value="6">DVDs    -     Movies</option>
+<option value="18">DVDs - Songs</option>
+<option value="15">DVDs - Tv Serials</option>
+<option value="13">DVDs-Mythological</option>
+<option value="21">Gaming Products</option>
+<option value="20">Shop More</option>
+</select></div>
+
+<input id="keyword" type="text" tabindex="0" autocomplete="off" value="" placeholder=""> 
+<input type="button" class="search-icon" onclick="return sum_key_value();">
+<div id="ajax_response" style="left: 0px; width: 575px;"></div>
+</form>
+          
+</div>
+<div class="comingline">
+<a href="customer-support.html">Customer Support</a>
+</div>
+
+</div>
+
+<div>
+ </div>
+
+<script type="text/javascript" language="javascript">
+//<![CDATA[ 
+ function get_search_result(obj,pagen,L_Id,Cate_Id,G_Id,B_Id,R_Id,keyword,R_Date,Price,alphabet,movie_type,Recently_No,pSize,Accessories_Id,actor,director)
+{
+    var pagen;
+	var vCount = 0;
+	var pCount = 0;
+	if(pagen>0){ st=pagen; } else { var st=0;}
+window.location.href="action.php?obj="+obj+"&start="+st+"&L_Id="+L_Id+"&Cate_Id="+Cate_Id+"&G_Id="+G_Id+"&B_Id="+B_Id+"&R_Id="+R_Id+"&keyword="+keyword+"&R_Date="+R_Date+"&Price="+Price+"&alphabet="+alphabet+"&movie_type="+movie_type+"&Recently_No="+Recently_No+"&pSize="+pSize+"&Accessories_Id="+Accessories_Id+"&actor="+actor+"&director="+director;
+}
+//]]> 
+</script>
+<script type="text/javascript">
+jQuery(document).ready(function(e) {
+	
+  jQuery("#navigation li.level-top1").mouseover(function(){
+  jQuery("#navigation li.level-top1").addClass("activemenu");
+  jQuery("ul.simpleTabsNavigation_menu.level-top1 li:first").addClass("currentmenu");
+  jQuery("ul.simpleTabsNavigation_menu.level-top1 li").mouseover(function(){
+  jQuery("ul.simpleTabsNavigation_menu.level-top1 li:first").addClass("currentmenu1");
+  jQuery(this).addClass("currentmenu");
+  if(jQuery("ul.simpleTabsNavigation_menu.level-top1 li:first-child"))
+  {
+	jQuery(this).removeClass("currentmenu1");  
+  }
+    
+  });
+  
+  jQuery("ul.simpleTabsNavigation_menu.level-top1 li").mouseout(function(){
+  jQuery(this).removeClass("currentmenu");
+  });
+ }); 
+   jQuery("#navigation li.level-top1").mouseout(function(){
+   jQuery("ul.simpleTabsNavigation_menu.level-top1 li:first").removeClass("currentmenu1"); 
+   jQuery("#navigation li.level-top1").removeClass("activemenu");
+  
+ });
+ 
+ 
+ 
+  jQuery("#navigation li.level-top2").mouseover(function(){
+  jQuery("#navigation li.level-top2").addClass("activemenu");
+  jQuery("ul.simpleTabsNavigation_menu.level-top2 li:first").addClass("currentmenu");
+  jQuery("ul.simpleTabsNavigation_menu.level-top2 li").mouseover(function(){
+  jQuery("ul.simpleTabsNavigation_menu.level-top2 li:first").addClass("currentmenu1");
+  jQuery(this).addClass("currentmenu");
+  if(jQuery("ul.simpleTabsNavigation_menu.level-top2 li:first-child"))
+  {
+	jQuery(this).removeClass("currentmenu1");  
+  }
+    
+  });
+  
+  jQuery("ul.simpleTabsNavigation_menu.level-top2 li").mouseout(function(){
+  jQuery(this).removeClass("currentmenu");
+  });
+ }); 
+   jQuery("#navigation li.level-top2").mouseout(function(){
+   jQuery("ul.simpleTabsNavigation_menu.level-top2 li:first").removeClass("currentmenu1"); 
+   jQuery("#navigation li.level-top2").removeClass("activemenu");
+  
+ });
+ 
+ 
+ 
+  jQuery("#navigation li.level-top3").mouseover(function(){
+  jQuery("#navigation li.level-top3").addClass("activemenu");
+  jQuery("ul.simpleTabsNavigation_menu.level-top3 li:first").addClass("currentmenu");
+  jQuery("ul.simpleTabsNavigation_menu.level-top3 li").mouseover(function(){
+  jQuery("ul.simpleTabsNavigation_menu.level-top3 li:first").addClass("currentmenu1");
+  jQuery(this).addClass("currentmenu");
+  if(jQuery("ul.simpleTabsNavigation_menu.level-top3 li:first-child"))
+  {
+	jQuery(this).removeClass("currentmenu1");  
+  }
+    
+  });
+  
+  jQuery("ul.simpleTabsNavigation_menu.level-top3 li").mouseout(function(){
+  jQuery(this).removeClass("currentmenu");
+  });
+ }); 
+   jQuery("#navigation li.level-top3").mouseout(function(){
+   jQuery("ul.simpleTabsNavigation_menulevel-top3 li:first").removeClass("currentmenu1"); 
+   jQuery("#navigation li.level-top3").removeClass("activemenu");
+  
+ });
+ 
+ 
+
+  
+ });
+ 
+ 
+</script>
+
+
+
+<div class="" id="floating_menu">
+<div id="navigation_holder" class="navouter clearfix">
+<div class="navwrap navigation">
+<h3 class="navtoggle"><span>≡</span></h3>
+<ul id="navigation">
+
+<li class="level0 nav-2 level-top1"><a class="level-top sf-with-ul" href="#" onclick="javascript:get_search_result('search_result','0','5','0','0','0','0','','','','','','','','','','');" onmouseover="len_tab_display13('13');"><span>Languages</span></a>
+<div class="megamenu">
+<div class="simpleTabs_menu">
+		    <ul class="simpleTabsNavigation_menu level-top1">
+		                <script type="text/javascript">
+			 //<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function len_tab_display13(dt)
+			{
+			//document.getElementById('len_tab_display_id_13').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';	
+			httpobj.open('get',"ajax_len_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleLanTabDisplayResponse13;
+			httpobj.send("");
+			}
+				
+			function handleLanTabDisplayResponse13()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('len_tab_display_id_13').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>
+            <li><a id="tabber_13" href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','13','0','0','0','0','','','','','','','','','','');" onmouseover="len_tab_display13('13');">Bengali</a>
+           
+           <div id="len_tab_display_id_13"></div>
+         
+            </li>
+                        <script type="text/javascript">
+			 //<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function len_tab_display4(dt)
+			{
+			//document.getElementById('len_tab_display_id_4').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';	
+			httpobj.open('get',"ajax_len_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleLanTabDisplayResponse4;
+			httpobj.send("");
+			}
+				
+			function handleLanTabDisplayResponse4()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('len_tab_display_id_4').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>
+            <li><a id="tabber_4" href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','4','0','0','0','0','','','','','','','','','','');" onmouseover="len_tab_display4('4');">English</a>
+           
+           <div id="len_tab_display_id_4"></div>
+         
+            </li>
+                        <script type="text/javascript">
+			 //<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function len_tab_display18(dt)
+			{
+			//document.getElementById('len_tab_display_id_18').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';	
+			httpobj.open('get',"ajax_len_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleLanTabDisplayResponse18;
+			httpobj.send("");
+			}
+				
+			function handleLanTabDisplayResponse18()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('len_tab_display_id_18').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>
+            <li><a id="tabber_18" href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','18','0','0','0','0','','','','','','','','','','');" onmouseover="len_tab_display18('18');">Gujarati</a>
+           
+           <div id="len_tab_display_id_18"></div>
+         
+            </li>
+                        <script type="text/javascript">
+			 //<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function len_tab_display5(dt)
+			{
+			//document.getElementById('len_tab_display_id_5').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';	
+			httpobj.open('get',"ajax_len_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleLanTabDisplayResponse5;
+			httpobj.send("");
+			}
+				
+			function handleLanTabDisplayResponse5()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('len_tab_display_id_5').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>
+            <li><a id="tabber_5" href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','5','0','0','0','0','','','','','','','','','','');" onmouseover="len_tab_display5('5');">Hindi</a>
+           
+           <div id="len_tab_display_id_5"></div>
+         
+            </li>
+                        <script type="text/javascript">
+			 //<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function len_tab_display14(dt)
+			{
+			//document.getElementById('len_tab_display_id_14').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';	
+			httpobj.open('get',"ajax_len_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleLanTabDisplayResponse14;
+			httpobj.send("");
+			}
+				
+			function handleLanTabDisplayResponse14()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('len_tab_display_id_14').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>
+            <li><a id="tabber_14" href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','14','0','0','0','0','','','','','','','','','','');" onmouseover="len_tab_display14('14');">Kannada</a>
+           
+           <div id="len_tab_display_id_14"></div>
+         
+            </li>
+                        <script type="text/javascript">
+			 //<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function len_tab_display10(dt)
+			{
+			//document.getElementById('len_tab_display_id_10').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';	
+			httpobj.open('get',"ajax_len_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleLanTabDisplayResponse10;
+			httpobj.send("");
+			}
+				
+			function handleLanTabDisplayResponse10()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('len_tab_display_id_10').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>
+            <li><a id="tabber_10" href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','10','0','0','0','0','','','','','','','','','','');" onmouseover="len_tab_display10('10');">Malayalam</a>
+           
+           <div id="len_tab_display_id_10"></div>
+         
+            </li>
+                        <script type="text/javascript">
+			 //<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function len_tab_display16(dt)
+			{
+			//document.getElementById('len_tab_display_id_16').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';	
+			httpobj.open('get',"ajax_len_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleLanTabDisplayResponse16;
+			httpobj.send("");
+			}
+				
+			function handleLanTabDisplayResponse16()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('len_tab_display_id_16').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>
+            <li><a id="tabber_16" href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','16','0','0','0','0','','','','','','','','','','');" onmouseover="len_tab_display16('16');">Marathi</a>
+           
+           <div id="len_tab_display_id_16"></div>
+         
+            </li>
+                        <script type="text/javascript">
+			 //<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function len_tab_display7(dt)
+			{
+			//document.getElementById('len_tab_display_id_7').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';	
+			httpobj.open('get',"ajax_len_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleLanTabDisplayResponse7;
+			httpobj.send("");
+			}
+				
+			function handleLanTabDisplayResponse7()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('len_tab_display_id_7').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>
+            <li><a id="tabber_7" href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','7','0','0','0','0','','','','','','','','','','');" onmouseover="len_tab_display7('7');">Punjabi</a>
+           
+           <div id="len_tab_display_id_7"></div>
+         
+            </li>
+                        <script type="text/javascript">
+			 //<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function len_tab_display9(dt)
+			{
+			//document.getElementById('len_tab_display_id_9').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';	
+			httpobj.open('get',"ajax_len_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleLanTabDisplayResponse9;
+			httpobj.send("");
+			}
+				
+			function handleLanTabDisplayResponse9()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('len_tab_display_id_9').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>
+            <li><a id="tabber_9" href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','9','0','0','0','0','','','','','','','','','','');" onmouseover="len_tab_display9('9');">Tamil</a>
+           
+           <div id="len_tab_display_id_9"></div>
+         
+            </li>
+                        <script type="text/javascript">
+			 //<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function len_tab_display8(dt)
+			{
+			//document.getElementById('len_tab_display_id_8').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';	
+			httpobj.open('get',"ajax_len_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleLanTabDisplayResponse8;
+			httpobj.send("");
+			}
+				
+			function handleLanTabDisplayResponse8()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('len_tab_display_id_8').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>
+            <li><a id="tabber_8" href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','8','0','0','0','0','','','','','','','','','','');" onmouseover="len_tab_display8('8');">Telugu</a>
+           
+           <div id="len_tab_display_id_8"></div>
+         
+            </li>
+                        <script type="text/javascript">
+			 //<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function len_tab_display15(dt)
+			{
+			//document.getElementById('len_tab_display_id_15').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';	
+			httpobj.open('get',"ajax_len_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleLanTabDisplayResponse15;
+			httpobj.send("");
+			}
+				
+			function handleLanTabDisplayResponse15()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('len_tab_display_id_15').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>
+            <li><a id="tabber_15" href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','15','0','0','0','0','','','','','','','','','','');" onmouseover="len_tab_display15('15');">Urdu</a>
+           
+           <div id="len_tab_display_id_15"></div>
+         
+            </li>
+             
+		    </ul>
+</div>
+</div>
+
+</li>
+
+
+
+
+
+<li class="level0 nav-2 level-top2"><a href="#" onclick="javascript:get_search_result('search_result','0','0','6','0','0','0','','','','','','','','','','');" onmouseover="category_tab_display7('7');">Category</a>
+<div class="megamenu">
+<div class="simpleTabs_menu">
+		    <ul class="simpleTabsNavigation_menu level-top2">
+		                
+            <script type="text/javascript">
+			 //<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function category_tab_display7(dt)
+			{
+			//document.getElementById('cat_tab_display_id_7').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';	
+			httpobj.open('get',"ajax_cat_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleCatTabDisplayResponse7;
+			httpobj.send("");
+			}
+				
+			function handleCatTabDisplayResponse7()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('cat_tab_display_id_7').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>	
+            <li><a id="tabber_7" href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','0','7','0','0','0','','','','','','','','','','');" onmouseover="category_tab_display7('7');">Audio- Film</a>
+           
+           <div id="cat_tab_display_id_7"></div>
+           
+            </li>
+                        
+            <script type="text/javascript">
+			 //<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function category_tab_display26(dt)
+			{
+			//document.getElementById('cat_tab_display_id_26').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';	
+			httpobj.open('get',"ajax_cat_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleCatTabDisplayResponse26;
+			httpobj.send("");
+			}
+				
+			function handleCatTabDisplayResponse26()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('cat_tab_display_id_26').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>	
+            <li><a id="tabber_26" href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','0','26','0','0','0','','','','','','','','','','');" onmouseover="category_tab_display26('26');">Audio-Compliation</a>
+           
+           <div id="cat_tab_display_id_26"></div>
+           
+            </li>
+                        
+            <script type="text/javascript">
+			 //<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function category_tab_display28(dt)
+			{
+			//document.getElementById('cat_tab_display_id_28').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';	
+			httpobj.open('get',"ajax_cat_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleCatTabDisplayResponse28;
+			httpobj.send("");
+			}
+				
+			function handleCatTabDisplayResponse28()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('cat_tab_display_id_28').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>	
+            <li><a id="tabber_28" href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','0','28','0','0','0','','','','','','','','','','');" onmouseover="category_tab_display28('28');">Audio-Ghazals</a>
+           
+           <div id="cat_tab_display_id_28"></div>
+           
+            </li>
+                        
+            <script type="text/javascript">
+			 //<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function category_tab_display29(dt)
+			{
+			//document.getElementById('cat_tab_display_id_29').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';	
+			httpobj.open('get',"ajax_cat_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleCatTabDisplayResponse29;
+			httpobj.send("");
+			}
+				
+			function handleCatTabDisplayResponse29()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('cat_tab_display_id_29').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>	
+            <li><a id="tabber_29" href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','0','29','0','0','0','','','','','','','','','','');" onmouseover="category_tab_display29('29');">Audio-Others</a>
+           
+           <div id="cat_tab_display_id_29"></div>
+           
+            </li>
+                        
+            <script type="text/javascript">
+			 //<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function category_tab_display27(dt)
+			{
+			//document.getElementById('cat_tab_display_id_27').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';	
+			httpobj.open('get',"ajax_cat_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleCatTabDisplayResponse27;
+			httpobj.send("");
+			}
+				
+			function handleCatTabDisplayResponse27()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('cat_tab_display_id_27').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>	
+            <li><a id="tabber_27" href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','0','27','0','0','0','','','','','','','','','','');" onmouseover="category_tab_display27('27');">Audio-Religious</a>
+           
+           <div id="cat_tab_display_id_27"></div>
+           
+            </li>
+                        
+            <script type="text/javascript">
+			 //<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function category_tab_display9(dt)
+			{
+			//document.getElementById('cat_tab_display_id_9').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';	
+			httpobj.open('get',"ajax_cat_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleCatTabDisplayResponse9;
+			httpobj.send("");
+			}
+				
+			function handleCatTabDisplayResponse9()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('cat_tab_display_id_9').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>	
+            <li><a id="tabber_9" href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','0','9','0','0','0','','','','','','','','','','');" onmouseover="category_tab_display9('9');">Blu Ray</a>
+           
+           <div id="cat_tab_display_id_9"></div>
+           
+            </li>
+                        
+            <script type="text/javascript">
+			 //<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function category_tab_display6(dt)
+			{
+			//document.getElementById('cat_tab_display_id_6').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';	
+			httpobj.open('get',"ajax_cat_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleCatTabDisplayResponse6;
+			httpobj.send("");
+			}
+				
+			function handleCatTabDisplayResponse6()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('cat_tab_display_id_6').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>	
+            <li><a id="tabber_6" href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','0','6','0','0','0','','','','','','','','','','');" onmouseover="category_tab_display6('6');">DVDs    -     Movies</a>
+           
+           <div id="cat_tab_display_id_6"></div>
+           
+            </li>
+                        
+            <script type="text/javascript">
+			 //<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function category_tab_display18(dt)
+			{
+			//document.getElementById('cat_tab_display_id_18').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';	
+			httpobj.open('get',"ajax_cat_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleCatTabDisplayResponse18;
+			httpobj.send("");
+			}
+				
+			function handleCatTabDisplayResponse18()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('cat_tab_display_id_18').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>	
+            <li><a id="tabber_18" href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','0','18','0','0','0','','','','','','','','','','');" onmouseover="category_tab_display18('18');">DVDs - Songs</a>
+           
+           <div id="cat_tab_display_id_18"></div>
+           
+            </li>
+                        
+            <script type="text/javascript">
+			 //<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function category_tab_display15(dt)
+			{
+			//document.getElementById('cat_tab_display_id_15').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';	
+			httpobj.open('get',"ajax_cat_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleCatTabDisplayResponse15;
+			httpobj.send("");
+			}
+				
+			function handleCatTabDisplayResponse15()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('cat_tab_display_id_15').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>	
+            <li><a id="tabber_15" href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','0','15','0','0','0','','','','','','','','','','');" onmouseover="category_tab_display15('15');">DVDs - Tv Serials</a>
+           
+           <div id="cat_tab_display_id_15"></div>
+           
+            </li>
+                        
+            <script type="text/javascript">
+			 //<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function category_tab_display13(dt)
+			{
+			//document.getElementById('cat_tab_display_id_13').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';	
+			httpobj.open('get',"ajax_cat_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleCatTabDisplayResponse13;
+			httpobj.send("");
+			}
+				
+			function handleCatTabDisplayResponse13()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('cat_tab_display_id_13').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>	
+            <li><a id="tabber_13" href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','0','13','0','0','0','','','','','','','','','','');" onmouseover="category_tab_display13('13');">DVDs-Mythological</a>
+           
+           <div id="cat_tab_display_id_13"></div>
+           
+            </li>
+                        
+            <script type="text/javascript">
+			 //<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function category_tab_display21(dt)
+			{
+			//document.getElementById('cat_tab_display_id_21').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';	
+			httpobj.open('get',"ajax_cat_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleCatTabDisplayResponse21;
+			httpobj.send("");
+			}
+				
+			function handleCatTabDisplayResponse21()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('cat_tab_display_id_21').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>	
+            <li><a id="tabber_21" href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','0','21','0','0','0','','','','','','','','','','');" onmouseover="category_tab_display21('21');">Gaming Products</a>
+           
+           <div id="cat_tab_display_id_21"></div>
+           
+            </li>
+                        
+            <script type="text/javascript">
+			 //<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function category_tab_display20(dt)
+			{
+			//document.getElementById('cat_tab_display_id_20').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';	
+			httpobj.open('get',"ajax_cat_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleCatTabDisplayResponse20;
+			httpobj.send("");
+			}
+				
+			function handleCatTabDisplayResponse20()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('cat_tab_display_id_20').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>	
+            <li><a id="tabber_20" href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','0','20','0','0','0','','','','','','','','','','');" onmouseover="category_tab_display20('20');">Shop More</a>
+           
+           <div id="cat_tab_display_id_20"></div>
+           
+            </li>
+             
+		    </ul>
+</div>
+</div>
+</li>
+
+
+
+
+<li class="level0 nav-2 level-top3"><a href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','0','0','10','0','0','','','','','','','','','','');" onmouseover="genre_tab_display9('9');">Genre</a>
+<div class="megamenu">
+<div class="simpleTabs_menu">
+		    <ul class="simpleTabsNavigation_menu level-top3">
+		                <script type="text/javascript">
+			//<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function genre_tab_display9(dt)
+			{
+			//document.getElementById('genre_tab_display_id_9').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';
+			
+			httpobj.open('get',"ajax_genre_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleGenreTabDisplayResponse9;
+			httpobj.send("");
+			}
+				
+			function handleGenreTabDisplayResponse9()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('genre_tab_display_id_9').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>
+            <li><a href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','0','0','9','0','0','','','','','','','','','','');" onmouseover="genre_tab_display9('9');">Action</a>
+           
+           <div id="genre_tab_display_id_9" class="loader_1"></div>
+           
+            </li>
+                        <script type="text/javascript">
+			//<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function genre_tab_display22(dt)
+			{
+			//document.getElementById('genre_tab_display_id_22').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';
+			
+			httpobj.open('get',"ajax_genre_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleGenreTabDisplayResponse22;
+			httpobj.send("");
+			}
+				
+			function handleGenreTabDisplayResponse22()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('genre_tab_display_id_22').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>
+            <li><a href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','0','0','22','0','0','','','','','','','','','','');" onmouseover="genre_tab_display22('22');">Action and Romance</a>
+           
+           <div id="genre_tab_display_id_22" class="loader_1"></div>
+           
+            </li>
+                        <script type="text/javascript">
+			//<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function genre_tab_display1(dt)
+			{
+			//document.getElementById('genre_tab_display_id_1').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';
+			
+			httpobj.open('get',"ajax_genre_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleGenreTabDisplayResponse1;
+			httpobj.send("");
+			}
+				
+			function handleGenreTabDisplayResponse1()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('genre_tab_display_id_1').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>
+            <li><a href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','0','0','1','0','0','','','','','','','','','','');" onmouseover="genre_tab_display1('1');">Comedy</a>
+           
+           <div id="genre_tab_display_id_1" class="loader_1"></div>
+           
+            </li>
+                        <script type="text/javascript">
+			//<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function genre_tab_display10(dt)
+			{
+			//document.getElementById('genre_tab_display_id_10').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';
+			
+			httpobj.open('get',"ajax_genre_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleGenreTabDisplayResponse10;
+			httpobj.send("");
+			}
+				
+			function handleGenreTabDisplayResponse10()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('genre_tab_display_id_10').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>
+            <li><a href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','0','0','10','0','0','','','','','','','','','','');" onmouseover="genre_tab_display10('10');">Comedy And Romance</a>
+           
+           <div id="genre_tab_display_id_10" class="loader_1"></div>
+           
+            </li>
+                        <script type="text/javascript">
+			//<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function genre_tab_display4(dt)
+			{
+			//document.getElementById('genre_tab_display_id_4').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';
+			
+			httpobj.open('get',"ajax_genre_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleGenreTabDisplayResponse4;
+			httpobj.send("");
+			}
+				
+			function handleGenreTabDisplayResponse4()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('genre_tab_display_id_4').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>
+            <li><a href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','0','0','4','0','0','','','','','','','','','','');" onmouseover="genre_tab_display4('4');">Drama and Comedy</a>
+           
+           <div id="genre_tab_display_id_4" class="loader_1"></div>
+           
+            </li>
+                        <script type="text/javascript">
+			//<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function genre_tab_display11(dt)
+			{
+			//document.getElementById('genre_tab_display_id_11').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';
+			
+			httpobj.open('get',"ajax_genre_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleGenreTabDisplayResponse11;
+			httpobj.send("");
+			}
+				
+			function handleGenreTabDisplayResponse11()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('genre_tab_display_id_11').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>
+            <li><a href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','0','0','11','0','0','','','','','','','','','','');" onmouseover="genre_tab_display11('11');">Drama And Romance</a>
+           
+           <div id="genre_tab_display_id_11" class="loader_1"></div>
+           
+            </li>
+                        <script type="text/javascript">
+			//<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function genre_tab_display12(dt)
+			{
+			//document.getElementById('genre_tab_display_id_12').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';
+			
+			httpobj.open('get',"ajax_genre_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleGenreTabDisplayResponse12;
+			httpobj.send("");
+			}
+				
+			function handleGenreTabDisplayResponse12()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('genre_tab_display_id_12').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>
+            <li><a href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','0','0','12','0','0','','','','','','','','','','');" onmouseover="genre_tab_display12('12');">Family</a>
+           
+           <div id="genre_tab_display_id_12" class="loader_1"></div>
+           
+            </li>
+                        <script type="text/javascript">
+			//<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function genre_tab_display19(dt)
+			{
+			//document.getElementById('genre_tab_display_id_19').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';
+			
+			httpobj.open('get',"ajax_genre_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleGenreTabDisplayResponse19;
+			httpobj.send("");
+			}
+				
+			function handleGenreTabDisplayResponse19()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('genre_tab_display_id_19').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>
+            <li><a href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','0','0','19','0','0','','','','','','','','','','');" onmouseover="genre_tab_display19('19');">Horror</a>
+           
+           <div id="genre_tab_display_id_19" class="loader_1"></div>
+           
+            </li>
+                        <script type="text/javascript">
+			//<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function genre_tab_display7(dt)
+			{
+			//document.getElementById('genre_tab_display_id_7').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';
+			
+			httpobj.open('get',"ajax_genre_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleGenreTabDisplayResponse7;
+			httpobj.send("");
+			}
+				
+			function handleGenreTabDisplayResponse7()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('genre_tab_display_id_7').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>
+            <li><a href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','0','0','7','0','0','','','','','','','','','','');" onmouseover="genre_tab_display7('7');">Suspense</a>
+           
+           <div id="genre_tab_display_id_7" class="loader_1"></div>
+           
+            </li>
+                        <script type="text/javascript">
+			//<![CDATA[ 
+			function createObject(){
+			  if(window.XMLHttpRequest){
+				var obj	= new XMLHttpRequest();
+			  }else{
+				var obj	= new ActiveXObject('Microsoft.XMLHTTP');
+			  }
+			 return obj;
+			}
+			
+			var httpobj	= createObject();
+			
+			function genre_tab_display13(dt)
+			{
+			//document.getElementById('genre_tab_display_id_13').innerHTML ='<div style="padding:0 0 0 40%;position:absolute; top:140px;"><img src="images/loading.gif" alt="" /></div>';
+			
+			httpobj.open('get',"ajax_genre_tab_display.php?dt="+dt);
+			httpobj.onreadystatechange	= handleGenreTabDisplayResponse13;
+			httpobj.send("");
+			}
+				
+			function handleGenreTabDisplayResponse13()
+			{
+			
+				 if(httpobj.readyState==4)
+				 {
+					 var text = httpobj.responseText;
+					 
+					 document.getElementById('genre_tab_display_id_13').innerHTML = text;
+				 }
+			}
+			//]]>
+			</script>
+            <li><a href="javascript:void(0);" onclick="javascript:get_search_result('search_result','0','0','0','13','0','0','','','','','','','','','','');" onmouseover="genre_tab_display13('13');">Thriller</a>
+           
+           <div id="genre_tab_display_id_13" class="loader_1"></div>
+           
+            </li>
+             
+		    </ul>
+</div>
+</div>
+
+</li>
+
+
+
+<li><a href="membership-upgrade.html ">Membership Plan</a></li>
+<li><a href="action.php?movie_type=6">Coming Soon</a></li>
+<li><a href="action.php?Cate_Id=20">Shop More</a></li>
+<li><a href="tagclouds.html">Recent Searches</a></li>
+<li><a href="contact-us.html">Contact us</a></li>
+<li class="list1"><a href="#">see all</a>
+
+<ul class="submenu">
+<li><a href="action.php?movie_type=3">You Must See</a></li>
+<li class="sublist"><a href="watch-trailers.html">Watch Trailer</a></li>
+<li class="sublist"><a href="songs.html">Songs</a></li>
+<li><a href="news.html">News</a></li>
+<li><a href="download_feature.html">Download</a></li>
+</ul>
+
+</li>
+</ul>
+
+</div>
+</div>
+
+</div>
+</div>       <div class="content-container">
+       <div class="content-container2">
+      
+     <script type="text/javascript">
+        $(function() {
+            var offset = $(".recent_wrapper").offset();
+            var topPadding = 15;
+            $(window).scroll(function() {
+                if ($(window).scrollTop() > offset.top) {
+                    $(".recent_wrapper").stop().animate({
+                        marginTop: $(window).scrollTop() - offset.top + topPadding
+                    });
+                } else {
+                    $(".recent_wrapper").stop().animate({
+                        marginTop: 0
+                    });
+                };
+            });
+        });
+    </script>
+    <script type="text/javascript">
+$(document).scroll(function () {
+
+    var y = jQuery(this).scrollTop();
+	if (y >= 600)
+	{
+		$("#view_added_product").addClass('sticky1');
+		$(".recent_wrapper").addClass('sticky');
+	}
+	else
+	{
+		$(".recent_wrapper").removeClass('sticky');
+		$("#view_added_product").removeClass('sticky1');
+	}
+});
+
+</script>
+    
+<div class="right-col" id="view_added_product">
+
+&nbsp;
+</div>
+
+     <div id="view_search_result">
+        <div class="middle-col">
+        <div class="middle-col-wrapper">
+          <div class="middle-col-title">
+            <div class="cor-1"></div>
+             <span class="back_button"><a href="javascript:void(0);" onclick="window.history.go(-1);"><img src="images/backbutton.png"></a></span><h3>Privacy Policy And Security</h3>
+            <div class="cor-2"></div>
+            <div class="arrow-1"></div>
+          </div>
+          <div class="middle-col-detail">
+            <div class="cor-1"></div>
+            <div class="cor-2"></div>
+            <div class="cor-3"></div>
+            <div class="cor-4"></div>
+            <div style="padding: 20px 0 0 0;">
+            <div class="faq_content"><!--[if gte mso 9]><xml>
+<w:WordDocument>
+<w:View>Normal</w:View>
+<w:Zoom>0</w:Zoom>
+<w:TrackMoves />
+<w:TrackFormatting />
+<w:PunctuationKerning />
+<w:ValidateAgainstSchemas />
+<w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+<w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+<w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+<w:DoNotPromoteQF />
+<w:LidThemeOther>EN-US</w:LidThemeOther>
+<w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+<w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+<w:Compatibility>
+<w:BreakWrappedTables />
+<w:SnapToGridInCell />
+<w:WrapTextWithPunct />
+<w:UseAsianBreakRules />
+<w:DontGrowAutofit />
+<w:SplitPgBreakAndParaMark />
+<w:DontVertAlignCellWithSp />
+<w:DontBreakConstrainedForcedTables />
+<w:DontVertAlignInTxbx />
+<w:Word11KerningPairs />
+<w:CachedColBalance />
+</w:Compatibility>
+<w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+<m:mathPr>
+<m:mathFont m:val="Cambria Math" />
+<m:brkBin m:val="before" />
+<m:brkBinSub m:val="&#45;-" />
+<m:smallFrac m:val="off" />
+<m:dispDef />
+<m:lMargin m:val="0" />
+<m:rMargin m:val="0" />
+<m:defJc m:val="centerGroup" />
+<m:wrapIndent m:val="1440" />
+<m:intLim m:val="subSup" />
+<m:naryLim m:val="undOvr" />
+</m:mathPr></w:WordDocument>
+</xml><![endif]-->
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal" class="MsoNormal"><span style="text-decoration: underline;"><span style="color: rgb(128, 0, 0);"><strong><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
+mso-fareast-font-family:&quot;Times New Roman&quot;">Our Privacy Policy</span></strong></span></span></p>
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal" class="MsoNormal"><span style="color: rgb(128, 0, 0);"><strong><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
+mso-fareast-font-family:&quot;Times New Roman&quot;"></span></strong></span><br><!--[if gte mso 9]><xml>
+<w:WordDocument>
+<w:View>Normal</w:View>
+<w:Zoom>0</w:Zoom>
+<w:TrackMoves />
+<w:TrackFormatting />
+<w:PunctuationKerning />
+<w:ValidateAgainstSchemas />
+<w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+<w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+<w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+<w:DoNotPromoteQF />
+<w:LidThemeOther>EN-US</w:LidThemeOther>
+<w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+<w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+<w:Compatibility>
+<w:BreakWrappedTables />
+<w:SnapToGridInCell />
+<w:WrapTextWithPunct />
+<w:UseAsianBreakRules />
+<w:DontGrowAutofit />
+<w:SplitPgBreakAndParaMark />
+<w:DontVertAlignCellWithSp />
+<w:DontBreakConstrainedForcedTables />
+<w:DontVertAlignInTxbx />
+<w:Word11KerningPairs />
+<w:CachedColBalance />
+</w:Compatibility>
+<w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+<m:mathPr>
+<m:mathFont m:val="Cambria Math" />
+<m:brkBin m:val="before" />
+<m:brkBinSub m:val="&#45;-" />
+<m:smallFrac m:val="off" />
+<m:dispDef />
+<m:lMargin m:val="0" />
+<m:rMargin m:val="0" />
+<m:defJc m:val="centerGroup" />
+<m:wrapIndent m:val="1440" />
+<m:intLim m:val="subSup" />
+<m:naryLim m:val="undOvr" />
+</m:mathPr></w:WordDocument>
+</xml><![endif]--></p>
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal" class="MsoNormal"><!--[if gte mso 9]><xml>
+<w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+LatentStyleCount="267">
+<w:LsdException Locked="false" Priority="0" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Normal" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="heading 1" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9" />
+<w:LsdException Locked="false" Priority="39" Name="toc 1" />
+<w:LsdException Locked="false" Priority="39" Name="toc 2" />
+<w:LsdException Locked="false" Priority="39" Name="toc 3" />
+<w:LsdException Locked="false" Priority="39" Name="toc 4" />
+<w:LsdException Locked="false" Priority="39" Name="toc 5" />
+<w:LsdException Locked="false" Priority="39" Name="toc 6" />
+<w:LsdException Locked="false" Priority="39" Name="toc 7" />
+<w:LsdException Locked="false" Priority="39" Name="toc 8" />
+<w:LsdException Locked="false" Priority="39" Name="toc 9" />
+<w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption" />
+<w:LsdException Locked="false" Priority="10" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Title" />
+<w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font" />
+<w:LsdException Locked="false" Priority="11" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtitle" />
+<w:LsdException Locked="false" Priority="22" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Strong" />
+<w:LsdException Locked="false" Priority="20" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Emphasis" />
+<w:LsdException Locked="false" Priority="59" SemiHidden="false"
+UnhideWhenUsed="false" Name="Table Grid" />
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text" />
+<w:LsdException Locked="false" Priority="1" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="No Spacing" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 1" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 1" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 1" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 1" />
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision" />
+<w:LsdException Locked="false" Priority="34" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="List Paragraph" />
+<w:LsdException Locked="false" Priority="29" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Quote" />
+<w:LsdException Locked="false" Priority="30" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Quote" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 1" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 1" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 1" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 1" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 1" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 2" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 2" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 2" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 2" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 2" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 2" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 2" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 2" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 2" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 3" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 3" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 3" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 3" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 3" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 3" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 3" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 3" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 3" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 4" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 4" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 4" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 4" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 4" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 4" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 4" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 4" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 4" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 5" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 5" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 5" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 5" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 5" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 5" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 5" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 5" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 5" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 6" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 6" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 6" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 6" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 6" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 6" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 6" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 6" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 6" />
+<w:LsdException Locked="false" Priority="19" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis" />
+<w:LsdException Locked="false" Priority="21" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis" />
+<w:LsdException Locked="false" Priority="31" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference" />
+<w:LsdException Locked="false" Priority="32" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Reference" />
+<w:LsdException Locked="false" Priority="33" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Book Title" />
+<w:LsdException Locked="false" Priority="37" Name="Bibliography" />
+<w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading" />
+</w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+mso-para-margin-top:0cm;
+mso-para-margin-right:0cm;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0cm;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]--><span style="font-size:12.0pt;line-height:115%;
+font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">We respect your privacy!</span></p>
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal" class="MsoNormal"><span style="font-size:12.0pt;line-height:115%;
+font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA"> Any and all the information collected on this site will be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned! Any information you provide will be held with the utmost care and will not be used in ways that you have not consented to. </span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;">We only use customer information for order identification or customer service contact. We may need to contact customers by phone, postal mail, or email if questions arise regarding their order. If you have any questions please contact us at info@njmtv.com</span></p>
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;"><!--[if gte mso 9]><xml>
+<w:WordDocument>
+<w:View>Normal</w:View>
+<w:Zoom>0</w:Zoom>
+<w:TrackMoves />
+<w:TrackFormatting />
+<w:PunctuationKerning />
+<w:ValidateAgainstSchemas />
+<w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+<w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+<w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+<w:DoNotPromoteQF />
+<w:LidThemeOther>EN-US</w:LidThemeOther>
+<w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+<w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+<w:Compatibility>
+<w:BreakWrappedTables />
+<w:SnapToGridInCell />
+<w:WrapTextWithPunct />
+<w:UseAsianBreakRules />
+<w:DontGrowAutofit />
+<w:SplitPgBreakAndParaMark />
+<w:DontVertAlignCellWithSp />
+<w:DontBreakConstrainedForcedTables />
+<w:DontVertAlignInTxbx />
+<w:Word11KerningPairs />
+<w:CachedColBalance />
+</w:Compatibility>
+<w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+<m:mathPr>
+<m:mathFont m:val="Cambria Math" />
+<m:brkBin m:val="before" />
+<m:brkBinSub m:val="&#45;-" />
+<m:smallFrac m:val="off" />
+<m:dispDef />
+<m:lMargin m:val="0" />
+<m:rMargin m:val="0" />
+<m:defJc m:val="centerGroup" />
+<m:wrapIndent m:val="1440" />
+<m:intLim m:val="subSup" />
+<m:naryLim m:val="undOvr" />
+</m:mathPr></w:WordDocument>
+</xml><![endif]--></span></p>
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal" class="MsoNormal"><span style="text-decoration: underline;"><span style="font-weight: bold;"><span style="color: rgb(128, 0, 0);"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;"><!--[if gte mso 9]><xml>
+<w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+LatentStyleCount="267">
+<w:LsdException Locked="false" Priority="0" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Normal" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="heading 1" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9" />
+<w:LsdException Locked="false" Priority="39" Name="toc 1" />
+<w:LsdException Locked="false" Priority="39" Name="toc 2" />
+<w:LsdException Locked="false" Priority="39" Name="toc 3" />
+<w:LsdException Locked="false" Priority="39" Name="toc 4" />
+<w:LsdException Locked="false" Priority="39" Name="toc 5" />
+<w:LsdException Locked="false" Priority="39" Name="toc 6" />
+<w:LsdException Locked="false" Priority="39" Name="toc 7" />
+<w:LsdException Locked="false" Priority="39" Name="toc 8" />
+<w:LsdException Locked="false" Priority="39" Name="toc 9" />
+<w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption" />
+<w:LsdException Locked="false" Priority="10" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Title" />
+<w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font" />
+<w:LsdException Locked="false" Priority="11" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtitle" />
+<w:LsdException Locked="false" Priority="22" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Strong" />
+<w:LsdException Locked="false" Priority="20" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Emphasis" />
+<w:LsdException Locked="false" Priority="59" SemiHidden="false"
+UnhideWhenUsed="false" Name="Table Grid" />
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text" />
+<w:LsdException Locked="false" Priority="1" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="No Spacing" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 1" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 1" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 1" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 1" />
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision" />
+<w:LsdException Locked="false" Priority="34" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="List Paragraph" />
+<w:LsdException Locked="false" Priority="29" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Quote" />
+<w:LsdException Locked="false" Priority="30" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Quote" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 1" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 1" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 1" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 1" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 1" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 2" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 2" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 2" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 2" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 2" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 2" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 2" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 2" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 2" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 3" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 3" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 3" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 3" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 3" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 3" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 3" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 3" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 3" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 4" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 4" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 4" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 4" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 4" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 4" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 4" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 4" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 4" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 5" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 5" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 5" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 5" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 5" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 5" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 5" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 5" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 5" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 6" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 6" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 6" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 6" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 6" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 6" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 6" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 6" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 6" />
+<w:LsdException Locked="false" Priority="19" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis" />
+<w:LsdException Locked="false" Priority="21" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis" />
+<w:LsdException Locked="false" Priority="31" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference" />
+<w:LsdException Locked="false" Priority="32" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Reference" />
+<w:LsdException Locked="false" Priority="33" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Book Title" />
+<w:LsdException Locked="false" Priority="37" Name="Bibliography" />
+<w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading" />
+</w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+mso-para-margin-top:0cm;
+mso-para-margin-right:0cm;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0cm;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]--><span style="font-size:12.0pt;line-height:115%;
+font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">Securing Your Data</span></span></span></span></span></p>
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;"><strong><span style="font-size:12.0pt;line-height:115%;
+font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA"></span></strong><span style="font-size:12.0pt;line-height:115%;font-family:
+&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
+EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA"><br> We have appropriate physical, electronic and procedural security safeguards to protect and secure the information we collect.<br> <br> <strong>Secure Sockets Layer (SSL)</strong><br> Our Web site uses 128-bit Secure Sockets Layer (SSL) encryption to protect your personal information, including your credit card number, before it travels over the Internet. SSL technology is the industry standard for secure online transactions. Because we use SSL, placing an order online at our Web site is just as safe as giving your credit card number over the phone.<br> <br></span></span></p>
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;"><span style="font-size:12.0pt;line-height:115%;font-family:
+&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
+EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA"><span style="text-decoration: underline;"><span style="font-weight: bold;"><span style="color: rgb(128, 0, 0);">Our SSL Provider is:</span></span></span><br><a href="https://ssl.comodo.com">https://ssl.comodo.com</a></span></span></p>
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;"><span style="font-size:12.0pt;line-height:115%;font-family:
+&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
+EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">&nbsp;</span><br> <span style="text-decoration: underline;"><span style="color: rgb(153, 51, 0);"><strong>Your Consent</strong></span></span><br> By using our Web site, you consent to our use of customer information as described in this online privacy policy. We may change or add to this privacy policy so we encourage you to review it periodically.</span></p>
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;"><br></span></p>
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;"><br></span></p>
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;"><br></span></p>
+<p class="MsoNormal">&nbsp;</p>
+<!--[if gte mso 9]><xml>
+<w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+LatentStyleCount="267">
+<w:LsdException Locked="false" Priority="0" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Normal" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="heading 1" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9" />
+<w:LsdException Locked="false" Priority="39" Name="toc 1" />
+<w:LsdException Locked="false" Priority="39" Name="toc 2" />
+<w:LsdException Locked="false" Priority="39" Name="toc 3" />
+<w:LsdException Locked="false" Priority="39" Name="toc 4" />
+<w:LsdException Locked="false" Priority="39" Name="toc 5" />
+<w:LsdException Locked="false" Priority="39" Name="toc 6" />
+<w:LsdException Locked="false" Priority="39" Name="toc 7" />
+<w:LsdException Locked="false" Priority="39" Name="toc 8" />
+<w:LsdException Locked="false" Priority="39" Name="toc 9" />
+<w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption" />
+<w:LsdException Locked="false" Priority="10" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Title" />
+<w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font" />
+<w:LsdException Locked="false" Priority="11" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtitle" />
+<w:LsdException Locked="false" Priority="22" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Strong" />
+<w:LsdException Locked="false" Priority="20" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Emphasis" />
+<w:LsdException Locked="false" Priority="59" SemiHidden="false"
+UnhideWhenUsed="false" Name="Table Grid" />
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text" />
+<w:LsdException Locked="false" Priority="1" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="No Spacing" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 1" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 1" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 1" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 1" />
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision" />
+<w:LsdException Locked="false" Priority="34" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="List Paragraph" />
+<w:LsdException Locked="false" Priority="29" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Quote" />
+<w:LsdException Locked="false" Priority="30" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Quote" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 1" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 1" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 1" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 1" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 1" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 2" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 2" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 2" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 2" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 2" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 2" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 2" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 2" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 2" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 3" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 3" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 3" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 3" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 3" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 3" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 3" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 3" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 3" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 4" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 4" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 4" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 4" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 4" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 4" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 4" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 4" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 4" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 5" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 5" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 5" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 5" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 5" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 5" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 5" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 5" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 5" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 6" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 6" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 6" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 6" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 6" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 6" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 6" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 6" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 6" />
+<w:LsdException Locked="false" Priority="19" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis" />
+<w:LsdException Locked="false" Priority="21" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis" />
+<w:LsdException Locked="false" Priority="31" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference" />
+<w:LsdException Locked="false" Priority="32" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Reference" />
+<w:LsdException Locked="false" Priority="33" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Book Title" />
+<w:LsdException Locked="false" Priority="37" Name="Bibliography" />
+<w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading" />
+</w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+mso-para-margin-top:0cm;
+mso-para-margin-right:0cm;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0cm;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]--></div>            </div>
+          </div>
+        </div>
+      </div>
+      </div>
+     </div>
+       </div>
+       <div class="cl"></div>
+   </div>
+    <div class="main-container1">
+<div class="footer">
+
+<div class="footerleft">
+<div class="footerleftbox">
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="njmtv-about-us.html">About Us</a></li>
+<li><a href="njmtv-faq.html">FAQ</a></li>
+<li><a href="njmtv-contact-us.html">Contact Us</a></li>
+<li><a href="njmtv-terms-and-conditions.html">Terms and Conditions</a></li>
+</ul>
+</div>
+<div class="footerleftbox">
+<ul>
+<li><a href="njmtv-online-rental-and-subscription-details.html">Online Rental and Subscription Details</a></li>
+<li><a href="njmtv-how-online-rental-works.html">How Online Rental Works</a></li>
+<li><a href="njmtv-sales-and-shipping-services.html">Sales and Shipping Services</a></li>
+<li><a href="njmtv-privacy-policy-and-security.html">Privacy Policy and Security</a></li>
+</ul>
+</div>
+
+
+</div>
+
+<div class="footerright">
+<div class="footerrightleft"><ul>
+<li class="visa"></li>
+<li class="mastercard"></li>
+<li class="americanexpress"></li>
+<li class="discover"></li>
+<li class="paypal"> </li>
+</ul></div>
+
+<div class="footerrightright"><ul>
+
+<li><a href="http://www.facebook.com/pages/Example/101103446630939" target="_blank" class="facebook"> facebook</a></li>
+<li><a target="_blank" href="http://twitter.com/movietimevideo" id="twitter" class="twitter">twitter</a></li>
+<li><a target="_blank" href="http://www.linkedin.com/in/movietimevideo" class="linkedin">linkedin</a></li>
+<li><a target="_blank" href="http://www.youtube.com/user/Movietimevideo" class="youtube">youtube</a></li>
+<li><a target="_blank" href="http://www.myspace.com/559946653" class="space">space</a></li>
+
+
+</ul></div>
+
+
+
+</div>
+ 
+</div>
+</div>
+<div class="footerlast"><div class="copyright">© 2015 NJMTV.com. All Rights Reserved.</div></div>
+ 
+
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
