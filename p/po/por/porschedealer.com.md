@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porschedealer.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329162422id_/http%3A//www.porsche.com/usa/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porschedealer.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127084001id_/http%3A//www.porsche.com/usa/privacy-policy) for the most accurate reproduction.*
 
 # Porsche Internet Privacy Policy - Porsche Cars North America
 
@@ -148,11 +148,19 @@ Our Online Services are not intended for use by children under 13. We do not kno
 
 #### Contact Us
 
-If you have any questions or comments about this Privacy Policy or our privacy practices, you may contact us at 1-800-PORSCHE, by sending an e-mail to [privacy@porsche.com](mailto:privacy@porsche.com), or by mail to Porsche Cars North America, Inc., One Porsche Drive, Atlanta, Georgia 30354, Attn: Privacy/Legal Department.
+If you have any questions or comments about this Privacy Policy or our privacy practices, you may contact us at 1-800-PORSCHE, by sending an e-mail to [privacy@porsche.us](mailto:privacy@porsche.us), or by mail to Porsche Cars North America, Inc., One Porsche Drive, Atlanta, Georgia 30354, Attn: Privacy/Legal Department.
 
 #### Your Acceptance of Our Privacy Policy
 
 By using our Online Services, you signify your acceptance of this Privacy Policy, and you agree to adhere to the terms and conditions posted on our Online Services under “Legal notice.” If you do not agree with the terms of this Privacy Policy, please do not access or use our Online Services or submit any Personal Information to us.
+
+#### Porsche Financial Services Privacy Notice
+
+As a potential future Porsche Financial Services customer, we want you to know how Porsche Financial Services may share your personal information. The following links will direct you to their Privacy Notice, which explains how and with whom Porsche Financial Services may share your information, and the ways in which you can limit this sharing once you become a Porsche Financial Services customer.
+
+If you are a California resident, click [here](http://files3.porsche.com/filestore/download/usa/none/privacypolicy-californiaoptoutform/default/2ceba4c3-8a11-11e6-9f1b-0019999cd470/Privacy-Policy-California-Privacy-Act-Opt-Out-Form.pdf) to view or print the Privacy Notice.
+
+If you are a resident of any other state, click [here](http://files1.porsche.com/filestore/download/usa/none/privacypolicy-pfs/default/33ec1314-8a11-11e6-9f1b-0019999cd470/Privacy-Policy-Porsche-Financial-Service.pdf) to view or print the Privacy Notice.
 
 #### Changes to the Privacy Policy
 
