@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deliciousmagazine.co.uk privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610035922id_/http%3A//www.deliciousmagazine.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliciousmagazine.co.uk privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127023408id_/http%3A//www.deliciousmagazine.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Delicious
+# Privacy policy - delicious. magazine
 
 Eye to Eye Media Ltd, the publishers of delicious. magazine and the delicious. website (this website) value your privacy. The personal information you provide through this website will be held and used by us in accordance with this policy. Under the Data Protection Act 1998 (the Act) and related laws, Eye to Eye Media Limited has a legal duty to protect the personal information we collect from you. Please read this Privacy Policy carefully. By visiting this website and using the services available through it, you are accepting the terms of this Privacy Policy.
 
