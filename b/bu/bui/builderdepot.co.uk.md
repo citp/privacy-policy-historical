@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the builderdepot.co.uk privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616024052id_/http%3A//www.builderdepot.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builderdepot.co.uk privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128005134id_/http%3A//www.builderdepot.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # Builder Depot | Privacy Policy
 
