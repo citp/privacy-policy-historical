@@ -1,0 +1,1004 @@
+<!--The following is the downloaded HTML source of the olympicchannel.com privacy policy that was archived on 2016-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161127040446id_/https%3A//www.olympicchannel.com/en/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" data-user-lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge"><script src="https://js-agent.newrelic.com/nr-spa-998.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M9R6RH"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQIHUlRXChACVlBbBAABUQ=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(19),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{h?h-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(20),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,h=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(p){"stack"in p&&(t(12),t(11),"addEventListener"in window&&t(6),s.xhrWrappable&&t(13),u=!0)}c.on("fn-start",function(t,e,n){u&&(h+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&h>0&&(h-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){j++,S=y.hash,this[u]=Date.now()}function o(){j--,y.hash!==S&&i(0,!0);var t=Date.now();this[l]=~~this[l]+t-this[u],this[h]=t}function i(t,e){x.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=Date.now()})}var c="-start",s="-end",f="-body",u="fn"+c,h="fn"+s,p="cb"+c,d="cb"+s,l="jsTime",m="fetch",v="addEventListener",w=window,y=w.location;if(w[v]){var g=t(9),b=t(10),x=t(8),E=t(6),T=t(12),O=t(7),R=t(13),P=t("ee"),D=P.get("tracer");t(14),t("loader").features.spa=!0;var S,N=w[v],j=0;P.on(u,r),P.on(p,r),P.on(h,o),P.on(d,o),P.buffer([u,h,"xhr-done","xhr-resolved"]),E.buffer([u]),T.buffer(["setTimeout"+s,"clearTimeout"+c,u]),R.buffer([u,"new-xhr","send-xhr"+c]),O.buffer([m+c,m+"-done",m+f+c,m+f+s]),x.buffer(["newURL"]),g.buffer([u]),b.buffer(["propagate",p,d,"executor-err","resolve"+c]),D.buffer([u,"no-"+u]),a(R,"send-xhr"+c),a(P,"xhr-resolved"),a(P,"xhr-done"),a(O,m+c),a(O,m+"-done"),x.on("pushState-end",i),x.on("replaceState-end",i),N("hashchange",i,!0),N("load",i,!0),N("popstate",function(){i(0,j>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(12),c=t(11),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",h="bstResource",p="resource",d="-start",l="-end",m="fn"+d,v="fn"+l,w="bstTimer",y="pushState";t("loader").features.stn=!0,t(8);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(v,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(v,function(t,e){i(w,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+d,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+l,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(h,[window.performance.getEntriesByType(p)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(h,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,h],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(21)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",h="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(h+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(19);e.exports=o;var a=window,c="fetch-",s=c+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,h=a.Response,p=a.fetch,d="prototype";u&&h&&p&&(i(f,function(t,e){r(u[d],e,s),r(h[d],e,s)}),r(a,"fetch",c),o.on(c+"end",function(t,e){var n=this;e?e.clone().arrayBuffer().then(function(t){n.rxSize=t.byteLength,o.emit(c+"done",[null,e],n)}):o.emit(c+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(21)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){var r=t("ee").get("mutation"),o=t(21)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],10:[function(t,e,n){function r(t){var e=a.context(),n=c(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(21),a=t("ee").get("promise"),c=i(a),s=t(19),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;s(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),c=f.resolve(i);return c}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),s(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=c(t[0],"resolve-",this),t[1]=c(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),c.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=c(t[0],"cb-",this),t[1]=c(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],11:[function(t,e,n){var r=t("ee").get("raf"),o=t(21)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],12:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(21)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",h="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+h),a.inPlace(window,[s],s+h),a.inPlace(window,[f,"clearImmediate"],f+h),i.on(s+u,r),i.on(c+u,o)},{}],13:[function(t,e,n){function r(t,e){h.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),h.inPlace(t,v,"fn-",c)}function i(t){w.push(t),l&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),h=t(21)(u),p=NREUM.o,d=p.XHR,l=p.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new d(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(d,y),y.prototype=d.prototype,h.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),l){var g=1,b=document.createTextNode(g);new l(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],14:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<h;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return l(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(15),f=t("ee"),u=["load","error","abort","timeout"],h=u.length,p=t("id"),d=t(18),l=t(17),m=window.XMLHttpRequest;a.features.xhr=!0,t(13),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,d&&(d>34||d<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=l(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<h;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],15:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],16:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(19),c=t(20),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],h="api-",p=h+"ixn-";a(u,function(t,e){f[e]=o(h+e,!0,"api")}),f.addPageAction=o(h+"addPageAction",!0),f.setCurrentRouteName=o(h+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],17:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],18:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],19:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],20:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],21:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(20),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(h){throw u(e+"err",[r,a,h],c),h}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,h(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){p([a,n,r,o])}s=i}}function h(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!p.aborted){t&&t(n,r,o);for(var i=e(o),a=l(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function d(t,e){w[t]=l(t).concat(e)}function l(t){return w[t]||[]}function m(t){return h[t]=h[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var w={},y={},g={on:d,emit:n,get:m,listeners:l,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var c="nr@context",s=t("gos"),f=t(19),u={},h={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=h.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(w,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=h.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===h.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(19),f=t("ee"),u=window,h=u.document,p="addEventListener",d="attachEvent",l=u.XMLHttpRequest,m=l&&l.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:l,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(16);var v=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-998.min.js"},y=l&&m&&m[p]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:v,features:{},xhrWrappable:y};h[p]?(h[p]("DOMContentLoaded",i,!1),u[p]("load",r,!1)):(h[d]("onreadystatechange",o),u[d]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,14,5,3,4]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationTime":42,"queueTime":0,"transactionName":"NFcGZERXXUVXVEBZCQ0dIkVYVUdfWVkbQAoCSwFCGEBaU0FEDnIHEFcyWVNBHVFTQw==","agent":"","licenseKey":"6ecf87b073","beacon":"bam.nr-data.net","applicationID":"22193167","errorBeacon":"bam.nr-data.net"}</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+    
+      <meta name="apple-itunes-app" content="app-id=1129875600, app-argument='ocs://'">
+    
+    <link rel="manifest" href="/static/manifest.json">
+    <link rel="canonical" href="https://www.olympicchannel.com/en/privacy-policy/">
+
+
+    
+      
+
+
+<title></title>
+<meta name="description" content="">
+
+<!-- Twitter specific -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@olympicchannel">
+
+<!-- sharing OG tags -->
+<meta property="og:site_name" content="Olympic Channel">
+<meta property="og:url" content="https://www.olympicchannel.com/en/privacy-policy/">
+<meta property="og:title" content="Olympic Channel">
+
+
+<meta property="og:description" content="Olympic Channel brings you the best in Original Programming, Live Sports, News and Highlights">
+
+
+
+<meta property="og:image" content="http://www.olympicchannel.com/static/images/oc-share-preview.jpg">
+<meta property="og:image:secure_url" content="https://www.olympicchannel.com/static/images/oc-share-preview.jpg">
+
+
+    
+
+    <script src="/static/js/lib/modernizr-custom.js?v=1480092041481"></script>
+    <script src="/static/js/lib/picturefill.js?v=1480092041481"></script>
+    <link rel="stylesheet" href="/static/css/ocs-non-critical.css?v=1480092041481">
+
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/static/favicon/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/favicon/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/favicon/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/favicon/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="/static/favicon/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/favicon/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/static/favicon/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/favicon/apple-touch-icon-152x152.png">
+    <link rel="icon" type="image/png" href="/static/favicon/favicon-196x196.png" sizes="196x196">
+    <link rel="icon" type="image/png" href="/static/favicon/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/static/favicon/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/static/favicon/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="/static/favicon/favicon-128.png" sizes="128x128">
+    <meta name="application-name" content="Olympic Channel">
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="msapplication-TileImage" content="/static/favicon/mstile-144x144.png">
+    <meta name="msapplication-square70x70logo" content="/static/favicon/mstile-70x70.png">
+    <meta name="msapplication-square150x150logo" content="/static/favicon/mstile-150x150.png">
+    <meta name="msapplication-wide310x150logo" content="/static/favicon/mstile-310x150.png">
+    <meta name="msapplication-square310x310logo" content="/static/favicon/mstile-310x310.png">
+    <script type="text/javascript">var IDPs={"facebook": {"name": "facebook", "image_urls": [], "language": "en", "app_ids": {"web": "289795254695181", "android": "289795254695181", "ios": "289795254695181"}, "editability": "normal", "self": "/api/identity-providers/iden_599a146add0a4754978c789ed21e8286/", "schedule_url": "/api/schedules/sche_fffd4d24e0c947a6a94d6d6a738f11fe/", "last_data_ingest": null, "data_source_fields": [], "scope": "public_profile,email", "created": "2016-10-21T15:22:01.498000+00:00", "schedule_urls": ["/api/schedules/sche_fffd4d24e0c947a6a94d6d6a738f11fe/"], "uid": "iden_599a146add0a4754978c789ed21e8286", "data_source_id": null}, "google": {"name": "google", "image_urls": [], "language": "en", "app_ids": {"web": "588376003473-rbps979sc0ddgbppcvo8eujcti5p4t8s.apps.googleusercontent.com", "android": "588376003473-rbps979sc0ddgbppcvo8eujcti5p4t8s.apps.googleusercontent.com", "ios": "588376003473-ctfj09h626q0pao1rdc3rkr1q1j3spd6.apps.googleusercontent.com"}, "editability": "normal", "self": "/api/identity-providers/iden_142a8d48d2d1499a80b6ed36af22b7e5/", "schedule_url": "/api/schedules/sche_fffd4d24e0c947a6a94d6d6a738f11fe/", "last_data_ingest": null, "data_source_fields": [], "scope": "profile", "created": "2016-10-21T15:23:04.642000+00:00", "schedule_urls": ["/api/schedules/sche_fffd4d24e0c947a6a94d6d6a738f11fe/"], "uid": "iden_142a8d48d2d1499a80b6ed36af22b7e5", "data_source_id": null}};</script>
+    <script type="text/javascript">
+      var googletag = googletag || {};
+      googletag.cmd = googletag.cmd || [];
+      (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') +
+          '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+      })();
+      var dfpEnvTag = (window.location.hostname === 'www.olympicchannel.com') ? 'production' : 'staging';
+    </script>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+        var mapping = googletag.sizeMapping()
+                                .addSize([0, 400], [320, 50])
+                                .addSize([320, 700], [320, 50])
+                                .addSize([750, 200], [728, 90])
+                                .addSize([1050, 200], [[728, 90], [970, 250]]).build();
+
+        var billboard = googletag.defineSlot('/154962900/olympicchannel.billboard', [970, 250], 'div-gpt-ad-1466529598061-0')
+                                  .defineSizeMapping(mapping)
+                                  .addService(googletag.pubads());
+
+        googletag.pubads().setTargeting('environment', dfpEnvTag);
+        googletag
+          .pubads()
+          .enableSingleRequest();
+
+        googletag.enableServices();
+        window.addEventListener('resize', function() {
+          googletag.pubads().refresh([billboard]);
+        });
+      });
+    </script>
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+        googletag.defineSlot('/154962900/olympicchannel.editorial/m2.1/A', ['fluid'], 'div-gpt-ad-1466317004991-0').addService(googletag.pubads());
+        // googletag.defineSlot('/154962900/olympicchannel.editorial/m2.1/B', ['fluid'], 'div-gpt-ad-1466317004991-1').addService(googletag.pubads());
+        // googletag.defineSlot('/154962900/olympicchannel.editorial/m2.1/C', ['fluid'], 'div-gpt-ad-1466317004991-2').addService(googletag.pubads());
+        // googletag.defineSlot('/154962900/olympicchannel.editorial/m2.1/D', ['fluid'], 'div-gpt-ad-1466317004991-3').addService(googletag.pubads());
+        // googletag.defineSlot('/154962900/olympicchannel.editorial/m2.1/E', ['fluid'], 'div-gpt-ad-1466317004991-4').addService(googletag.pubads());
+        // googletag.defineSlot('/154962900/olympicchannel.editorial/m2.1/F', ['fluid'], 'div-gpt-ad-1466317004991-5').addService(googletag.pubads());
+        // googletag.defineSlot('/154962900/olympicchannel.editorial/m2.1/G', ['fluid'], 'div-gpt-ad-1466317004991-6').addService(googletag.pubads());
+        // googletag.defineSlot('/154962900/olympicchannel.editorial/m2.1/H', ['fluid'], 'div-gpt-ad-1466317004991-7').addService(googletag.pubads());
+        // googletag.defineSlot('/154962900/olympicchannel.editorial/m2.1/I', ['fluid'], 'div-gpt-ad-1466317004991-8').addService(googletag.pubads());
+        // googletag.defineSlot('/154962900/olympicchannel.editorial/m2.1/J', ['fluid'], 'div-gpt-ad-1466317004991-9').addService(googletag.pubads());
+        googletag.pubads().setTargeting('environment', dfpEnvTag);
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+      });
+    </script>
+
+    
+    <script>
+      dataLayer = [];
+    </script>
+  </head>
+  <body class="" data-episode_uid="" data-channel_uid="">
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M9R6RH"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-M9R6RH');</script>
+    <!-- End Google Tag Manager -->
+    
+<section class="skip-navigation-links">
+  <h2 class="skip-navigation-links__title">Accessibility links</h2>
+  <ul>
+    <li>
+      
+      <a class="skip-navigation-links__link" href="#main-nav" title="Skip to Main Navigation">Skip to Main Navigation</a>
+    </li>
+    <li>
+      
+      <a class="skip-navigation-links__link" href="#main-content" title="Skip to Main Content">Skip to Main Content</a>
+    </li>
+    <li>
+      
+      <a class="skip-navigation-links__link" href="#main-footer" title="Skip to Footer">Skip to Footer</a>
+    </li>
+  </ul>
+</section>
+
+    <div class="ad-billboard__container">
+  <!-- /154962900/olympicchannel.billboard -->
+  <!-- style='height:90px; width:970px;' -->
+  <div class="ad-billboard" id="div-gpt-ad-1466529598061-0">
+    <script type="text/javascript">
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1466529598061-0'); });
+    </script>
+  </div>
+</div>
+
+    
+<header class="header" data-widget-type="scrollsticky" data-sticky-revealup="true" data-width-reference="body" data-sticky-clone="true">
+  <div class="header__inner content-wrapper" data-widget-type="keyboardlistener">
+    <ul class="header__left">
+      
+      <li class="header__item"><a href="#" title="Sports" class="header__button header__button--sports js-icon-sports" data-widget-type="toggleclass" data-toggle-class="show-sportsnav" data-toggle-element="html" data-trigger="overlay" aria-controls="sports-nav">
+        <span class="header__sports-text">Sports</span>
+      </a></li>
+      <li class="header__item"><a href="#" title="Favourite" class="icon-favourite" data-widget-type="toggleclass" data-toggle-class="show-rightnav" data-toggle-element="html" data-trigger="overlay" aria-controls="right-nav">
+      </a></li>
+      <li class="header__item">
+        
+        
+        <a href="#" title="Register / Sign in" class="header__button header__loggedinout-button js-loggedout-button" data-widget-type="toggleclass" data-toggle-class="show-signup-intro" data-toggle-element="html" data-trigger="overlay" aria-controls="signup">Register / Sign in</a>
+        
+        <a href="/en/account/" title="Profile" class="icon-profile header__loggedinout-button js-loggedin-button"></a>
+      </li>
+    </ul>
+
+    <a class="header__logo" href="/en/home/" title="Homepage"><img src="/static/images/logo-oc.svg" alt="Olympic Channel"></a>
+
+  	<ul class="header__right">
+      
+      
+      <li class="header__item">
+        <a href="#" title="Search" class="icon-search js-open-search"></a>
+      </li>
+      
+      <li class="header__item">
+        <a href="#" title="Menu" class="icon-hamburger" data-widget-type="toggleclass" data-toggle-class="show-rightnav" data-toggle-element="html" data-trigger="overlay" aria-controls="right-nav"></a>
+      </li>
+    </ul>
+  </div>
+  
+<nav id="main-nav" class="global-nav global-nav--scrollable" role="navigation" tabindex="0" data-widget-type="globalnav">
+  <ul class="global-nav__list global-nav__list--scrollable">
+    
+      <li class="global-nav__item ">
+        <a href="/en/home/" class="global-nav__link" title="Home">
+          Home
+        </a>
+      </li>
+    
+      <li class="global-nav__item ">
+        <a href="/en/features/" class="global-nav__link" title="Features">
+          Features
+        </a>
+      </li>
+    
+      <li class="global-nav__item ">
+        <a href="/en/events/" class="global-nav__link" title="Events">
+          Events
+        </a>
+      </li>
+    
+      <li class="global-nav__item ">
+        <a href="/en/news/" class="global-nav__link" title="News">
+          News
+        </a>
+      </li>
+    
+      <li class="global-nav__item ">
+        <a href="/en/tv/" class="global-nav__link" title="TV">
+          TV
+        </a>
+      </li>
+    
+  </ul>
+</nav>
+
+</header>
+
+    <div class="js-header-message"></div>
+
+    
+    
+<section class="search" data-widget-type="search">
+  <div class="search__inner">
+    <a href="#" class="icon-close search__close js-close-search" title="Close"></a>
+    <form class="search__form js-search-form">
+      <input class="search__form-input js-search-input" type="search" name="search" placeholder="Search sports, athletes, events and more...">
+      <span class="icon-search search__form-icon"></span>
+    </form>
+    <img class="search__loading js-search-loading" src="/static/images/loader.svg" alt="loading">
+    <div class="js-search-no-results"></div>
+    <div class="search__grid">
+      <div class="js-search-meta search__grid-row"></div>
+      <div class="js-search-matches js-search-result search__grid-row"></div>
+      <div class="js-search-related js-search-result search__grid-row"></div>
+      <div class="js-search-athletes js-search-result search__grid-row"></div>
+      <div class="js-search-sports js-search-result search__grid-row"></div>
+      <div class="js-search-events js-search-result search__grid-row"></div>
+      <div class="js-search-episodes js-search-result search__grid-row"></div>
+    </div>
+  </div>
+</section>
+
+    
+    
+<div id="signup" class="signup content_wrapper" aria-hidden="true" role="dialog">
+
+  <div class="signup__header">
+    <div class="content-wrapper">
+      <div class="signup__close">
+        <a href="#" class="icon-close search__icon-close" title="Close"></a>
+      </div>
+    </div>
+
+    <a class="header__logo" href="/en/home/" title="Homepage"><img src="/static/images/logo-oc.svg" alt="Olympic Channel"></a>
+  </div>
+
+  <div class="js-overlay-error"></div>
+
+  <div class="signup__loader">
+    <img src="/static/images/loader.svg" alt="loading">
+  </div>
+
+  <div class="content_wrapper signup-intro__content">
+    <h1 class="signup__title">Personalise your channel, have your say on our wide selection of exclusive content and stay in the loop with your favourite sports and athletes...</h1>
+    <div class="signup-prompt js-signup-prompt-overlay">
+      <div class="signup-prompt__header">
+        <b class="signup-prompt__header-highlight">Create an account</b> or <b class="signup-prompt__header-highlight">Sign in</b>
+      </div>
+      <div class="signup-prompt__body">
+        <button class="signup-prompt__cta signup-prompt__cta--facebook js-facebook-sso" data-btn-position="overlay">
+          <span class="icon-facebook signup-prompt__cta-icon signup-prompt__cta-icon--facebook"></span>
+          <span class="signup-prompt__cta-text">Create an account or sign in</span>
+          with Facebook
+        </button>
+        <button class="signup-prompt__cta signup-prompt__cta--google js-google-sso" data-btn-position="overlay">
+          <span class="icon-google signup-prompt__cta-icon signup-prompt__cta-icon--google"></span>
+          <span class="signup-prompt__cta-text">Create an account or sign in</span>
+          with Google
+        </button>
+        <button class="signup-prompt__cta signup-prompt__cta--email" data-toggle-element="html" data-btn-position="overlay">
+          <span class="icon-email signup-prompt__cta-icon"></span>
+          <span class="signup-prompt__cta-text">Create an account or sign in</span>
+          with email
+        </button>
+      </div>
+      <div class="signup-prompt__footer">
+        <div class="signup-prompt__footer-error signup-prompt__footer-error--hidden js-signup-terms-error">
+          Please accept Terms of Service and Privacy Policy
+        </div>
+        <div class="signup-prompt__footer-checkbox-wrapper signup-prompt__footer-checkbox-wrapper--signup-intro">
+          <label for="register-terms-checkbox" class="signup__label">I have read and agree with the Terms of Service and Privacy Policy</label>
+          <input id="register-terms-checkbox" name="agree-terms" type="checkbox" class="signup-prompt__footer-checkbox js-signup-terms-checkbox">
+          <p class="signup-prompt__footer-checkbox-text">
+            
+            
+            I have read and agree with the<br> <a class="signup-prompt__footer-link" href="/en/terms-of-service/" title="Terms of Service">Terms of Service</a> and <a class="signup-prompt__footer-link" href="/en/privacy-policy/" title="Privacy Policy">Privacy Policy</a></p>
+        </div>
+        <div class="signup-prompt__footer-checkbox-wrapper signup-prompt__footer-checkbox-wrapper--signup-intro">
+          <label for="register-marketing-comms-checkbox" class="signup__label">I agree to receive marketing communications</label>
+          <input id="register-marketing-comms-checkbox" name="agree-marketing-comms" type="checkbox" class="signup-prompt__footer-checkbox js-signup-marketing-checkbox">
+          <p class="signup-prompt__footer-checkbox-text">I agree to receive marketing communications from Olympic Channel Services S.L. and/or the International Olympic Committee</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="content_wrapper signup__content">
+    <form class="signup__form" action="/en/proxy/customers/" data-widget-type="signup" data-form-flag=".signup">
+      <h1 class="signup__title">Join the Olympic Channel</h1>
+
+      
+      <label for="register-firstname-input" class="signup__label">First name</label>
+      <input id="register-firstname-input" name="first_name" class="signup__input" type="text" placeholder="First name">
+      
+      <label for="register-surname-input" class="signup__label">Surname</label>
+      <input id="register-surname-input" name="last_name" class="signup__input" type="text" placeholder="Surname">
+      
+      <label for="register-email-input" class="signup__label">Email address</label>
+      <input id="register-email-input" name="email" class="signup__input" type="email" placeholder="Email address">
+      
+      <label for="register-password-input" class="signup__label">Password</label>
+      <input id="register-password-input" name="password1" class="signup__input" type="password" placeholder="Password">
+      <div class="nation-dropdown" data-widget-type="nationdropdown">
+  <select class="nation-dropdown__select js-nation-dropdown" name="nation">
+  </select>
+</div>
+
+
+      <input type="submit" class="signup__submit signup__button" value="Register">
+
+      <h3 class="signup__alternate">Already a member?</h3>
+      
+      <a href="#" class="signup__signin signup__button" data-widget-type="toggleclass" data-toggle-class="show-signin" data-toggle-element=".signup" title="Sign In">Sign In</a>
+    </form>
+
+    <div class="signup__success">
+      <h1 class="signup__title">Success!</h1>
+      <p class="signup__message">You are now signed in to the Olympic Channel</p>
+      <div class="right-nav__onboard">
+        <span class="icon-tick"></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="content_wrapper signin__content">
+    <form class="signup__form" action="/en/proxy/authenticate/" data-widget-type="basicform" data-form-flag=".signup" data-reload-on-success="3000">
+      <h1 class="signup__title">Sign in to the Olympic Channel</h1>
+      
+      <label for="signup-email-input" class="signup__label">Email address</label>
+      <input id="signup-email-input" name="email" class="signup__input" type="text" placeholder="Email address">
+      
+      <label for="signup-password-input" class="signup__label">Password</label>
+      <input id="signup-password-input" name="password" class="signup__input" type="password" placeholder="Password">
+      
+      <a href="#" class="signup__forgot" data-widget-type="toggleclass" data-toggle-class="show-forgot, show-signin" data-toggle-element=".signup" title="Forgotten your password?">Forgotten your password?</a>
+      <input type="submit" class="signin__submit signup__button" value="Sign In">
+      <h3 class="signup__alternate">Don't have an account?</h3>
+      
+      <a href="#" class="signup__signin signup__button" data-widget-type="toggleclass" data-toggle-class="show-signin" data-toggle-element=".signup" title="Register">Register</a>
+    </form>
+
+    <div class="signup__success">
+      <h1 class="signup__title">Success!</h1>
+      <p class="signup__message">You are now signed in to the Olympic Channel</p>
+      <div class="right-nav__onboard">
+        <span class="icon-tick"></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="content_wrapper forgot__content">
+    <form class="signup__form" action="/en/proxy/authenticate/forgotten_password/" data-widget-type="basicform" data-form-flag=".signup">
+      <h1 class="signup__title">Forgotten your password?</h1>
+      
+      <label for="forgottem-password-input" class="signup__label">Email address</label>
+      <input id="forgottem-password-input" name="email" class="signup__input" type="text" placeholder="Email address">
+      <input type="submit" class="signup__submit signup__button" value="Reset Password">
+    </form>
+
+    <div class="signup__success">
+      <h1 class="signup__title">Success!</h1>
+      <p class="signup__message">Please check your email for instructions to reset your password.</p>
+      <div class="right-nav__onboard">
+        <span class="icon-tick"></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="content_wrapper linking__content">
+    <form class="signup__form signup__form--linking" action="/en/proxy/authenticate/" data-form-flag=".signup">
+      <div class="signup__link">
+        <span class="signup__link-icon signup__link-icon--facebook icon-facebook"></span>
+        <span class="signup__link-icon signup__link-icon--google icon-google"></span>
+        <span class="signup__link-icon signup__link-icon--email">
+          <img class="signup__link-icon-img" src="/static/images/rings.png" alt="Olympic Channel">
+        </span>
+      </div>
+      <h1 class="signup__title signup__title--linking">Link your existing account</h1>
+
+      <div class="linking__content-form js-link-to-email">
+        <p class="signup__body">It looks like you already have an existing Olympic Channel account with this email address. Enter your login details to link your social profile to this account.</p>
+        
+        <label for="linking-email-input" class="signup__label">Email address</label>
+        <input id="linking-email-input" name="email" class="signup__input" type="text" placeholder="Email address">
+        
+        <label for="linking-password-input" class="signup__label">Password</label>
+        <input id="linking-password-input" name="password" class="signup__input" type="password" placeholder="Password">
+        
+        <a href="#" class="signup__forgot" data-widget-type="toggleclass" data-toggle-class="show-forgot, show-signin" data-toggle-element=".signup" title="Forgotten your password?">Forgotten your password?</a>
+        <input type="submit" class="signin__submit signup__button" value="Link Accounts">
+      </div>
+
+      <div class="linking__content-form js-link-to-sso">
+        <p class="signup__body">It looks like you already have an existing Olympic Channel account with this email address.</p>
+        <button class="signup__button js-google-sso" data-btn-position="overlay" data-account-linking="true">
+          Link Accounts
+        </button>
+        <button class="signup__button js-facebook-sso" data-btn-position="overlay" data-account-linking="true">
+          Link Accounts
+        </button>
+      </div>
+    </form>
+
+    <div class="signup__success">
+      <h1 class="signup__title">Success!</h1>
+      <p class="signup__message">You have now linked your social account to the Olympic Channel</p>
+      <div class="right-nav__onboard">
+        <span class="icon-tick"></span>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+    
+    
+
+
+<div id="sports-nav" class="sports-nav nofavs js-sports-nav" aria-hidden="true" role="dialog" data-widget-type="sportsnav">
+  <div class="sports-nav__scroll js-sports-nav-scroll">
+
+    <div class="overlay__header content-wrapper">
+
+      <div class="overlay__close">
+        <a href="#" class="icon-close js-sports-close" data-widget-type="toggleclass" data-toggle-class="show-sportsnav" data-toggle-element="html" title="Close"></a>
+      </div>
+
+      <div class="js-sports-search"></div>
+
+      <h1 class="overlay__title">Sports A-Z</h1>
+    </div>
+
+    <div class="content-wrapper">
+
+      <section class="sports-nav__favs sports-nav__favs--hidden color-blue js-sports-nav-favs js-sports-fav-loading-toggle">
+        <p class="sports-nav__copy js-sports-nav-copy-signedout">
+          Sign in to save your favourite sports
+        </p>
+        <div class="sports-nav__copy--hidden js-sport-nav-copy-editing">
+          <p class="sports-nav__editing sports-nav__nofavs  js-sports-nav-copy-editing">
+            Add your favourite sports
+          </p>
+          <p class="sports-nav__notediting sports-nav__nofavs">
+            Hit <span>"Edit"</span> to follow your favourite sports
+          </p>
+        </div>
+        <div class="button-wrapper">
+          
+          
+          <a href="#" class="button--border button--small js-signin-button" title="Sign in" data-widget-type="toggleclass" data-toggle-class="show-signup-intro" data-toggle-element="html" data-trigger="overlay" aria-controls="signup">Sign in</a>
+          
+          
+          <a href="#" class="button--border button--small button--edit button--hidden js-edit-button" title="Edit">Edit</a>
+          <a href="#" class="button--invert--border button--small button--done js-done-button" title="Save" changes="">Done</a>
+        </div>
+
+        <div class="sports-list-wrapper js-sports-list-wrapper-favourites">
+        </div>
+      </section>
+
+      <section class="sports-nav__all">
+        <div class="sports-list__loader js-sports-loading">
+          <img src="/static/images/loader.svg" alt="loading">
+        </div>
+        <div class="sports-list-wrapper js-sports-list-wrapper-all js-sports-fav-loading-toggle"></div>
+      </section>
+    </div>
+  </div>
+</div>
+
+    
+<div id="right-nav" class="right-nav nofavs js-favs show-favs" aria-hidden="true" role="dialog" data-widget-type="rightnav">
+  <div class="right-nav__scroll">
+
+    <!-- Only on mobile -->
+    <div class="right-nav__top">
+      <div class="content-wrapper">
+        <a href="#" class="icon-close js-mobile-close" title="Close"></a>
+        <p class="right-nav__subhead">Browse</p>
+        
+<nav id="main-nav-right-nav" class="global-nav global-nav--scrollable" role="navigation" tabindex="0" data-widget-type="globalnav">
+  <ul class="global-nav__list global-nav__list--scrollable">
+    
+      <li class="global-nav__item ">
+        <a href="/en/home/" class="global-nav__link" title="Home">
+          Home
+        </a>
+      </li>
+    
+      <li class="global-nav__item ">
+        <a href="/en/features/" class="global-nav__link" title="Features">
+          Features
+        </a>
+      </li>
+    
+      <li class="global-nav__item ">
+        <a href="/en/events/" class="global-nav__link" title="Events">
+          Events
+        </a>
+      </li>
+    
+      <li class="global-nav__item ">
+        <a href="/en/news/" class="global-nav__link" title="News">
+          News
+        </a>
+      </li>
+    
+      <li class="global-nav__item ">
+        <a href="/en/tv/" class="global-nav__link" title="TV">
+          TV
+        </a>
+      </li>
+    
+  </ul>
+</nav>
+
+      </div>
+    </div>
+
+    <!-- Only on mobile / Sub header with icons -->
+    <div class="right-nav__welcome js-right-nav-welcome" data-show-lang-controls="False"></div>
+
+    <!-- Only on overlay -->
+    <div class="overlay__header content-wrapper">
+      <div class="overlay__close">
+        <a href="#" class="icon-close js-overlay-close" title="Close"></a>
+      </div>
+    </div>
+
+    <!-- Desktop and mobile / hidden by default / List of Favourites, Sign in or register CTA -->
+    <div class="right-nav__favs">
+      <h1 class="overlay__title">Your Favourites</h1>
+      <div class="content-wrapper">
+        <!-- Logged in user / List of Favourites -->
+        <div class="js-right-nav-favs-content"></div>
+        <!-- Logged out user / Sign in or register CTA -->
+        <div class="right-nav--signedout js-right-nav-signedout" data-logout-url="/en/logout/"></div>
+      </div>
+    </div>
+
+    <!-- Only on mobile / hidden by default -->
+    <div class="right-nav__settings">
+      <div class="content-wrapper">
+        <h2 class="right-nav__subtitle">
+          Your Account
+        </h2>
+        <ul class="right-nav__list">
+          <li class="right-nav__list-item">
+            <a class="right-nav__link" href="/en/account/">
+              <span class="right-nav__link-icon icon-settings"></span>
+              <span class="right-nav__link-text">
+                Account &amp; Settings
+              </span>
+            </a>
+          </li>
+          <li class="right-nav__list-item">
+            <a class="right-nav__link" href="/en/logout/">
+              <span class="right-nav__link-icon icon-signout"></span>
+              <span class="right-nav__link-text">
+                Sign out
+              </span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Desktop and mobile / hidden by default -->
+    <div class="right-nav__languages-list js-right-nav-languages-list" data-widget-type="locale"></div>
+  </div>
+</div>
+
+    
+<div class="cookie-banner js-cookie-banner" data-widget-type="cookiebanner">
+
+  <div class="cookie-banner__translation cookie-banner__translation--active js-cookie-translation" data-lang="en">
+    <div class="cookie-banner__body">
+      <p class="cookie-banner__title">Cookies Policy</p>
+      <p class="cookie-banner__text">
+        
+        This website uses first-party and third-party cookies to improve our services and show you content
+        and advertising according to your preferences through the analysis of your browsing habits. By
+        continuing to browse this website you accept this use of cookies. For more information about
+        cookies and how to disable them, please visit our
+        <a class="cookie-banner__link" href="/en/cookie-policy/" target="_blank" title="Cookie Policy">Cookies Policy</a>.
+      </p>
+      <a class="cookie-banner__link  cookie-banner__text js-cookie-toggle-language" data-target="es" href="#" title="Traducción en Español">En Español</a>
+    </div>
+
+    <div class="cookie-banner__buttons">
+      <button class="accept-btn" type="button" role="button">I Agree</button>
+      <button class="icon-close" aria-label="close">
+        <span class="icon__text">Close cookie policy</span>
+      </button>
+    </div>
+  </div>
+
+  <div class="cookie-banner__translation js-cookie-translation" data-lang="es">
+    <div class="cookie-banner__body">
+      <p class="cookie-banner__title">Política de Cookies</p>
+      <p class="cookie-banner__text">
+        Este sitio web utiliza cookies propias y de terceros para mejorar nuestros servicios y presentarle
+        publicidad de acuerdo con sus preferencias a través del análisis de sus hábitos de navegación.
+        Si continúa navegando en este sitio web, acepta su utilización. Para obtener más información o
+        deshabilitarlas, consulte la <a class="cookie-banner__link" href="/en/cookie-policy/#es" target="_blank" title="Política de Cookies">Política de Cookies</a>.
+      </p>
+      <a class="cookie-banner__link cookie-banner__text js-cookie-toggle-language" data-target="en" href="#" title="translate to English">In English</a>
+    </div>
+
+    <div class="cookie-banner__buttons">
+      <button class="accept-btn" type="button" role="button">Acepto</button>
+      <button class="icon-close" aria-label="close">
+        <span class="icon__text">Cerrar política de cookies</span>
+      </button>
+    </div>
+  </div>
+
+</div>
+
+    
+<div class="account-modal account-modal--hidden js-account-modal">
+  <div class="account-modal__close js-modal-close">
+    <a href="#" class="icon-close search__icon-close" title="Close"></a>
+  </div>
+  <p class="account-modal__text">
+    Please confirm that you wish to delete your account
+  </p>
+  <button class="account-modal__button js-confirm-button" type="button" role="button">
+    Confirm
+  </button>
+  <button class="account-modal__button js-cancel-button" type="button" role="button">
+    Cancel
+  </button>
+</div>
+
+    
+      <div id="main-content" class="main-content" role="main" tabindex="-1">
+        
+  
+<section class="page-block">
+  <h1 class="page-block__title">Privacy Policy</h1>
+
+  <section class="content-wrapper">
+    <div class="page-block__inner">
+      <p class="page-block__body-text">
+        This Privacy Policy, as updated from time to time, explains what information about you is collected and how it is processed when you use the Olympic Channel’s website and mobile application (collectively the <span class="page-block__text--bold">“Service”</span>). By using the Service, you agree to your information being collected and processed in accordance with this Privacy Policy by Olympic Channel Services S.L. (“OCS”) and the International Olympic Committee (<span class="page-block__text--bold">“IOC”</span>). When we refer to ‘’we’’, ‘’our’’ or “us”, we are referring to OCS and/or the IOC, each of them acting as an independent data controller, and when we refer to “you” or “your” we refer to you as a user of the Service.
+      </p>
+      <h2 class="page-block__subtitle">What information do we collect?</h2>
+      <h3 class="page-block__section-header">Information that you provide to us</h3>
+      <p class="page-block__body-text">
+        You may provide us with information, including personally identifiable information, when you use the Service to communicate with us, create a user account, complete certain transactions or subscribe to particular services.
+      </p>
+      <p class="page-block__body-text">
+        If you want to create a user account, we ask you to provide us with your name, email address, country of residence, login information, and password. We may also invite you to provide us with additional information (e.g. date of birth), or to indicate your interest in particular sports or events so that we can personalise your use of the Service.
+      </p>
+      <p class="page-block__body-text">
+        If you register with us by using an account you hold with a third party service (such as Facebook, Google, or other social media sites), the third party service will provide us with some personal information about you, which may include your first and last name, username, unique identifiers and access tokens, e-mail address, date of birth and preferences.
+      </p>
+      <h3 class="page-block__section-header">Information that is collected automatically</h3>
+      <p class="page-block__body-text">
+        We use cookies, including third party cookies and similar technologies, to recognise users and personalise the Service for them.  For more information please refer to <a class="page-block__link" href="/en/cookie-policy/" title="Cookie Policy" target="_blank">our cookie policy.</a>
+      </p>
+
+      <h2 class="page-block__subtitle">How do we use the information we collect?</h2>
+      <div class="page-block__body-text">We use the information we collect about you to:
+        <ul class="page-block__list">
+          <li class="page-block__list-item">
+            <span class="page-block__list-item-inner">
+              facilitate  your use of the Service, enable your registration and the management of your user account;
+            </span>
+          </li>
+          <li class="page-block__list-item">
+            <span class="page-block__list-item-inner">
+              maintain and develop the Service;
+            </span>
+          </li>
+          <li class="page-block__list-item">
+            <span class="page-block__list-item-inner">
+              gather statistics to help diagnose problems and enhance your experience of the Service;
+            </span>
+          </li>
+          <li class="page-block__list-item">
+            <span class="page-block__list-item-inner">
+              ensure the security of the Service and that the Service is used in compliance with our Terms of Services and applicable laws;
+            </span>
+          </li>
+          <li class="page-block__list-item">
+            <span class="page-block__list-item-inner">
+              offer you a personalized experience of the Service, based on your preferences and choice of content, and deliver relevant advertising to you;
+            </span>
+          </li>
+          <li class="page-block__list-item">
+            <span class="page-block__list-item-inner">
+              provide to you information and content that you have requested; and
+            </span>
+          </li>
+            <li class="page-block__list-item">
+            <span class="page-block__list-item-inner">
+              send you communications, including by email, about our activities and the activities of the Olympic Movement partners, while offering you the possibility to opt-out from such communications at any time.
+            </span>
+          </li>
+        </ul>
+      </div>
+      <p class="page-block__body-text">
+        If we intend to use your personal information for any other purpose, we will seek your consent where necessary. You agree that, in order to enhance your experience of the Service and to the extent permitted by law, we may also combine information collected in accordance with this Privacy Policy with information that you have made publicly available for similar purposes or that you have explicitly agreed to share with us.
+      </p>
+      <h2 class="page-block__subtitle">Who do we share your information with?</h2>
+      <p class="page-block__body-text">
+        We may share information you provide through the Service between us for the purposes outlined in this Privacy Policy and with some of our affiliates (including Olympic Channel Services SA, IOC Television &amp; Marketing Services SA, Olympic Broadcasting Services SA or Olympic Broadcasting Services SL) and other third parties, who provide services (such as data hosting, push notifications, email communications, or analytics) to us and help us deliver the Service to you and ensure the security of the Service
+      </p>
+      <p class="page-block__body-text">
+        From time to time, we may offer you the possibility to receive communications (including communications related to products and services) from selected third parties such as our commercial partners and members of the Olympic Movement. If you agree to receive such communications, we may share your information with the relevant third parties, while leaving you the possibility to opt-out at any time.
+      </p>
+      <p class="page-block__body-text">
+        We reserve the right to disclose personal information we hold about you if we are required to do so under applicable laws or pursuant to any judicial or administrative process, and to the extent necessary to investigate, prevent, or take action regarding unlawful activities, or violation of our Terms of Service.
+      </p>
+      <h2 class="page-block__subtitle">How do we protect your personal information?</h2>
+      <p class="page-block__body-text">
+        <span class="page-block__text--bold">a) Data security</span><br>
+        We use technical and organisational measures in order to protect your personal information against the risks of damage, destruction, loss or unauthorised access, in accordance with applicable laws.
+      </p>
+      <p class="page-block__body-text">
+        <span class="page-block__text--bold">b) International transfer</span><br>
+        While the information we collect will usually be processed in the European Economic Area or in Switzerland, you explicitly agree that we may also transfer your information for the purposes allowed by this Privacy Policy to the above-mentioned recipients, some of which may be based in countries that, like the United States of America, do not provide in their laws for a level of protection of your privacy equivalent to the one applied within the European Union and Switzerland.
+      </p>
+      <p class="page-block__body-text">
+        <span class="page-block__text--bold">c) Age limitation</span><br>
+        By using the Service, you confirm that you are 13 years old (or older) and that you are either of legal age under the laws of your country of residence, or that you have obtained the consent of a parent or guardian to use the Service.
+      </p>
+      <p class="page-block__body-text">
+        If we become aware that a child has provided us with personal information without parental or guardian consent, we will take steps to delete this information and close the child’s account. If you become aware that your child has provided us with personal information without your consent, please contact us at privacy@olympicchannel.com.
+      </p>
+      <p class="page-block__body-text">
+        <span class="page-block__text--bold">d) Data retention</span><br>
+        We will retain your information only for the duration necessary for the purposes identified in this Privacy Policy or as required to meet our legal requirements.
+      </p>
+      <h2 class="page-block__subtitle">Your rights</h2>
+      <p class="page-block__body-text">
+        You have the right, in accordance with the law, to withdraw your consent regarding our use of your or your child’s personal information, to request access to your data, to request the deletion or correction of any erroneous or incomplete data and to object their use. For these purposes, please contact us at the following address: privacy@olympicchannel.com.
+      </p>
+      <p class="page-block__body-text">
+        If you do not wish to continue receiving communications from us, you can also unsubscribe from our newsletters and other communications by clicking on the link provided in our email communications. If you have created a user account, you can access and modify your data or change the parameters of your account at any time by modifying the settings and preferences.
+      </p>
+      <h2 class="page-block__subtitle">Changes to this privacy policy</h2>
+      <p class="page-block__body-text">
+        We reserve the right to make changes to this Privacy Policy, at any time. When we make changes, we will revise the "last updated" date at the bottom of the Privacy Policy and any change will be effective immediately upon posting. We will use reasonable efforts to inform you about any material changes made to this Privacy Policy, for example by posting a relevant notice on the Service.  Your continued use of the Service following the notification of changes will constitute your acceptance of such changes. We encourage you to review our Privacy Policy regularly.
+      </p>
+      <p class="page-block__body-text">
+        <span class="page-block__text--bold">This Privacy Policy was last updated on 27 July 2016.</span>
+      </p>
+      <p class="page-block__body-text">Olympic Channel Services S.L., Calle Torrelaguna 75, 28027 Madrid<br>
+      <a class="page-block__link" href="http://www.olympicchannelservices.com" title="Olympic Channel Services" target="_blank">www.olympicchannelservices.com</a></p>
+      <p class="page-block__body-text">
+        International Olympic Committee, Château de Vidy, 1007 Lausanne, Switzerland<br>
+        <a class="page-block__link" href="http://www.olympic.org" title="Olympic website" target="_blank">www.olympic.org</a>
+      </p>
+    </div>
+  </section>
+</section>
+
+
+
+<section class="page-block">
+  <h1 class="page-block__title">Olympic Channel - Política de Privacidad</h1>
+
+  <section class="content-wrapper">
+    <div class="page-block__inner">
+      <p class="page-block__body-text">
+        La presente Política de Privacidad, en su versión actualizada de vez en cuando, explica la información relativa a usted que se recoge y cómo se trata cuando usted utiliza el sitio web y la aplicación para móviles de Olympic Channel (colectivamente el <span class="page-block__text--bold">«Servicio»</span>). Al usar el Servicio, usted acepta que Olympic Channel Services SL (<span class="page-block__text--bold">«OCS»</span>) y el Comité Olímpico Internacional (<span class="page-block__text--bold">«COI»</span>) recojan y traten su información de conformidad a la presente Política de Privacidad. Cuando hacemos referencia a «nosotros», «nuestro» o «nos», nos referimos a OCS y/o al COI, cada uno de ellos actuando como un responsable de tratamiento de datos independiente, y cuando hacemos referencia a «usted» o «su» nos referimos a usted como usuario del Servicio.
+      </p>
+      <h2 class="page-block__subtitle">¿Qué información recogemos?</h2>
+      <h3 class="page-block__section-header">Información que nos facilita usted</h3>
+      <p class="page-block__body-text">
+        Usted puede facilitarnos información, incluida información personalmente identificable, cuando utiliza el Servicio para comunicarse con nosotros, crear una cuenta de usuario, completar determinadas transacciones o suscribirse a servicios concretos.
+      </p>
+      <p class="page-block__body-text">
+        Cuando desea crear una cuenta de usuario, le pedimos que nos facilite su nombre, su dirección de correo electrónico, su país de residencia, información de acceso y contraseña. También podemos sugerirle que nos facilite información adicional (por ejemplo, la fecha de nacimiento), o que indique su interés por eventos o deportes en particular, de manera que podamos personalizar el uso que hace del Servicio.
+      </p>
+      <p class="page-block__body-text">
+        Si se registra en nuestros servicios utilizando una cuenta que mantiene con un servicio tercero (como Facebook, Google u otros sitios web de redes sociales), el servicio tercero nos facilitará alguna información personal sobre usted, que puede incluir su nombre y su apellido, su nombre de usuario, identificadores únicos y tokens de acceso, direcciones de correo electrónico, fecha de nacimiento y preferencias.
+      </p>
+      <h3 class="page-block__section-header">Información que se recoge automáticamente</h3>
+      <p class="page-block__body-text">
+        Utilizamos cookies, incluidas cookies de terceros, y tecnologías similares para reconocer a los usuarios y personalizar el Servicio para ellos.  Para ampliar esta información, consulte <a class="page-block__link" href="/en/cookie-policy/" title="política de cookies" target="_blank">nuestra política de cookies.</a>
+      </p>
+      <h2 class="page-block__subtitle">¿Cómo utilizamos la información recogida?</h2>
+      <div class="page-block__body-text">Utilizamos la información que recogemos sobre usted para:
+        <ul class="page-block__list">
+          <li class="page-block__list-item">
+            <span class="page-block__list-item-inner">
+              facilitar el uso que usted hace del Servicio, permitir su registro y la gestión de su cuenta de usuario;
+            </span>
+          </li>
+          <li class="page-block__list-item">
+            <span class="page-block__list-item-inner">
+              mantener y desarrollar el Servicio;
+            </span>
+          </li>
+          <li class="page-block__list-item">
+            <span class="page-block__list-item-inner">
+              recabar estadísticas para ayudar a diagnosticar problemas y mejorar su experiencia del Servicio;
+            </span>
+          </li>
+          <li class="page-block__list-item">
+            <span class="page-block__list-item-inner">
+              garantizar la seguridad del Servicio y que el Servicio se utilice de conformidad con nuestras Condiciones de Servicio y la legislación aplicable;
+            </span>
+          </li>
+          <li class="page-block__list-item">
+            <span class="page-block__list-item-inner">
+              ofrecerle una experiencia personalizada del Servicio, sobre la base de sus preferencias y elecciones de contenido, y ofrecerle publicidad pertinente;
+            </span>
+          </li>
+          <li class="page-block__list-item">
+            <span class="page-block__list-item-inner">
+              proporcionarle información y contenido que usted ha solicitado y
+            </span>
+          </li>
+          <li class="page-block__list-item">
+            <span class="page-block__list-item-inner">
+              enviarle comunicaciones, incluidas comunicaciones por correo electrónico, sobre nuestras actividades y las actividades de los socios del Movimiento Olímpico, ofreciéndole al mismo tiempo la posibilidad de renunciar a recibir dichas comunicaciones en cualquier momento.
+            </span>
+          </li>
+        </ul>
+      </div>
+      <p class="page-block__body-text">
+        Si pretendiéramos utilizar su información personal para cualquier otra finalidad, le pediríamos su consentimiento en caso necesario. Usted acepta que, con el fin de mejorar su experiencia del Servicio y dentro de los límites permitidos con arreglo a derecho, también podemos combinar información recogida con arreglo a esta Política de Privacidad con información que usted haya puesto a disposición públicamente para finalidades similares o que haya aceptado de manera explícita compartir con nosotros.
+      </p>
+      <h2 class="page-block__subtitle">¿Con quién compartimos su información?</h2>
+      <p class="page-block__body-text">
+        Podemos compartir información que usted nos ha facilitado a través del Servicio entre nosotros para las finalidades expuestas en la presente Política de Privacidad y con algunas de nuestras filiales (incluidas Olympic Channel Services SA, IOC Television &amp; Marketing Services SA, Olympic Broadcasting Services SA u Olympic Broadcasting Services SL) y con terceros que nos prestan servicios (como alojamiento de datos, notificaciones automáticas, comunicaciones por correo electrónico o servicios de Analytics) y nos ayudan a ofrecerle el Servicio y a garantizar la seguridad del mismo.
+      </p>
+      <p class="page-block__body-text">
+        Podemos ofrecerle, en cualquier momento, la posibilidad de recibir comunicaciones (incluidas comunicaciones relativas a productos y servicios) de terceros seleccionados, como nuestros socios comerciales y miembros del Movimiento Olímpico. Si acepta recibir dichas comunicaciones, podemos compartir su información con los terceros pertinentes, brindándole a usted la posibilidad de renunciar a recibir las comunicaciones en cualquier momento.
+      </p>
+      <p class="page-block__body-text">
+        Nos reservamos el derecho a revelar información que conservamos sobre usted si así se nos requiere con arreglo a la legislación aplicable o en virtud de un proceso judicial o administrativo, y en la medida necesaria para investigar, prevenir o actuar en relación con actividades ilegales o con la violación de nuestras Condiciones de Servicio.
+      </p>
+      <h2 class="page-block__subtitle">¿Cómo protegemos su información personal?</h2>
+      <p class="page-block__body-text">
+        <span class="page-block__text--bold">a) Seguridad de los datos</span><br>
+        Aplicamos medidas técnicas y organizativas para proteger su información personal frente a riesgos de daño, destrucción, pérdida o acceso no autorizado, de conformidad con las leyes aplicables.
+      </p>
+      <p class="page-block__body-text">
+        <span class="page-block__text--bold">b) Transferencia internacional</span><br>
+        Si bien la información que recogemos se tratará normalmente en el Espacio Económico Europeo o en Suiza, usted acepta de manera explícita que también podemos transferir su información, para los fines permitidos por la presente Política de Privacidad, a los receptores mencionados anteriormente, algunos de los cuales pueden estar establecidos en países, como los Estados Unidos de América, cuya legislación no ofrece un nivel de protección de su privacidad equivalente al que se aplica en la Unión Europea y en Suiza.
+      </p>
+      <p class="page-block__body-text">
+        <span class="page-block__text--bold">c) Límite en términos de edad </span><br>
+        Al usar el Servicio, usted confirma que tiene 13 años (o más) y que es mayor de edad de acuerdo con las leyes de su país de residencia o que ha obtenido el consentimiento de un progenitor o tutor para el uso del Servicio.
+      </p>
+      <p class="page-block__body-text">
+         Al usar el Servicio, usted confirma que tiene 13 años (o más) y que es mayor de edad de acuerdo con las leyes de su país de residencia o que ha obtenido el consentimiento de un progenitor o tutor para el uso del Servicio.
+      </p>
+      <p class="page-block__body-text">
+        <span class="page-block__text--bold">d) Conservación de los datos</span><br>
+        Conservaremos su información solo durante el tiempo necesario para las finalidades identificadas en la presente Política de Privacidad o durante el tiempo necesario para cumplir los requisitos legales a los que estamos sujetos.
+      </p>
+      <h2 class="page-block__subtitle">Sus derechos</h2>
+      <p class="page-block__body-text">
+        De acuerdo con la ley, usted tiene derecho a retirar su consentimiento en relación con el uso que hacemos de sus datos, o de la información personal de su hijo/a, a solicitar el acceso a sus datos, a solicitar la cancelación o la rectificación de datos erróneos o incompletos y objetar a su uso. Para ello, deberá ponerse en contacto con nosotros en la dirección siguiente: [por ejemplo, privacy@olympicchannel.com].
+      </p>
+      <p class="page-block__body-text">
+        Si no desea seguir recibiendo nuestras comunicaciones, también puede darse de baja de nuestros boletines y de otras comunicaciones pinchando en el enlace facilitado en nuestras comunicaciones por correo electrónico. Si ha creado una cuenta de usuario, puede acceder a sus datos y modificarlos o cambiar los parámetros de su cuenta en cualquier momento modificando la configuración y las preferencias.
+      </p>
+      <h2 class="page-block__subtitle">Cambios a esta política de privacidad</h2>
+      <p class="page-block__body-text">
+        Nos reservamos el derecho a modificar nuestra Política de privacidad en cualquier momento. Si hacemos algún cambio, revisaremos la fecha de la «última actualización» que aparece en la parte inferior de la Política de Privacidad, siendo efectivos los cambios a partir del momento de su publicación. Haremos todos los esfuerzos razonables para informarle sobre cualquier cambio significativo a la presente Política de Privacidad, por ejemplo publicando un aviso en el Servicio. El uso continuado por su parte del Servicio después de la notificación de cambios constituirá su aceptación de dichos cambios. Le recomendamos que revise regularmente nuestra Política de Privacidad.
+      </p>
+      <p class="page-block__body-text">
+        <span class="page-block__text--bold">La presente Política de Privacidad se actualizó por última vez el 27 de julio de 2016.</span>
+      </p>
+      <p class="page-block__body-text">Olympic Channel Services S.L., Calle Torrelaguna 75, 28027 Madrid<br>
+      <a class="page-block__link" href="http://www.olympicchannelservices.com" title="Olympic Channel Services" target="_blank">www.olympicchannelservices.com</a></p>
+      <p class="page-block__body-text">
+        International Olympic Committee, Château de Vidy, 1007 Lausanne, Switzerland<br>
+        <a class="page-block__link" href="http://www.olympic.org" title="Olympic" target="_blank">www.olympic.org</a>
+      </p>
+    </div>
+  </section>
+</section>
+
+
+
+      </div>
+    
+    
+<footer class="footer">
+  <img class="footer__logo" src="/static/images/logo-oc.svg" alt="Olympic Channel">
+  <p class="footer__text-wrapper">
+    <span class="footer__text">Founding Partners</span>
+  </p>
+  <img class="footer__sponsor-logo" src="/static/images/logo-sponsors@2x.png" alt="Olympic Sponsors">
+  <div class="footer__list-wrapper">
+    <ul class="footer__list">
+      
+      <li class="footer__list-item"><a class="footer__link" title="About Us" href="/en/about-us/">About Us</a></li>
+      
+      <li class="footer__list-item"><a class="footer__link" title="Contact Us" href="/en/contact-us/">Contact Us</a></li>
+      
+      <li class="footer__list-item"><a class="footer__link" title="Terms of Service" href="/en/terms-of-service/">Terms of Service</a></li>
+      
+      <li class="footer__list-item"><a class="footer__link" title="Cookie Policy" href="/en/cookie-policy/">Cookie Policy</a></li>
+      
+      <li class="footer__list-item"><a class="footer__link" title="Privacy Policy" href="/en/privacy-policy/">Privacy Policy</a></li>
+    </ul>
+    <small class="footer__copyright">TM © Olympic Channel Services S.L. 2016 - All rights reserved</small>
+  </div>
+</footer>
+
+      <script src="/static/js/lib/require.js?v=1480092041481"></script>
+      <script>
+        requirejs.config({
+          shim: {
+            facebook: {
+              exports: 'FB'
+            },
+            google: {
+              exports: 'gapi'
+            },
+            sightglass: {
+              exports: 'sightglass'
+            },
+            rivets: {
+              deps: ['sightglass'],
+              exports: 'rivets'
+            },
+            pubsub: {
+              exports: 'pubsub'
+            },
+          },
+          baseUrl: '/static/js/',
+          urlArgs: 'v=1480092041481',
+          paths: {
+            jquery: 'lib/jquery.min',
+            lodash: 'lib/lodash.min',
+            handlebars: 'lib/handlebars.amd',
+            jwplayer: 'lib/jwplayer',
+            cookies: 'lib/js.cookie',
+            sightglass: 'lib/index',
+            rivets: 'lib/rivets.min',
+            facebook: [
+              '//connect.facebook.net/en_US/sdk',
+              'lib/facebook.sdk'
+            ],
+            bootstrap: 'lib/bootstrap.min',
+            bootstrapselect: 'lib/bootstrap-select.min',
+            google: '//apis.google.com/js/platform',
+            moment: 'lib/moment-with-locales.min',
+            jed: 'lib/jed',
+            pubsub: 'lib/pubsub'
+          }
+        });
+        require(['optimized']);
+      </script>
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5174fcad3af32e5a"></script>
+    
+    <script>
+      
+    </script>
+  
+
+</body></html>
