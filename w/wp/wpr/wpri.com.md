@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpri.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621030305id_/http%3A//wpri.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpri.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127094842id_/http%3A//wpri.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
