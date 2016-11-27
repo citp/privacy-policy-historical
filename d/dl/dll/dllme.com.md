@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dllme.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413023722id_/https%3A//www.dllme.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dllme.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127162431id_/https%3A//www.dllme.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - DLLme.com
 
