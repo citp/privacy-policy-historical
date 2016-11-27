@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinydb.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616184311id_/http%3A//destinydb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinydb.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127044312id_/http%3A//destinydb.com/privacy) for the most accurate reproduction.*
 
 # DestinyDB - Destiny Leaderboards, Items, Stats, Events, Bounties, Forums and More!
 
