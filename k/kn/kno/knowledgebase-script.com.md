@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowledgebase-script.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607065034id_/http%3A//www.knowledgebase-script.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgebase-script.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127045248id_/https%3A//www.knowledgebase-script.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PHPKB Knowledge Base Software
 
@@ -10,7 +10,7 @@ This web site is owned and controlled by Chadha Software Technologies. We unders
 
 Use of Your Personal Information
 
-We will use your email address to contact you from time to time and we will use your email address for security reasons to confirm that you are who you say you are. We may use your contact information to send the periodic newsletter to you but you will have the control over the choice to recieve newsletter from us. You may discontinue the email newsletter subscription whenever you desire. We may also collect other data, which may include your IP address and what browser you are using. We use this information to statistically analyze site usage and to customize our site's content, layout and services. The resulting information will allow us to improve our site and better understand and serve our users. It is compiled and analyzed on an aggregated basis only.
+We will use your email address to contact you from time to time and we will use your email address for security reasons to confirm that you are who you say you are. We may use your contact information to send the periodic newsletter to you but you will have the control over the choice to receive newsletter from us. You may discontinue the email newsletter subscription whenever you desire. We may also collect other data, which may include your IP address and what browser you are using. We use this information to statistically analyze site usage and to customize our site's content, layout and services. The resulting information will allow us to improve our site and better understand and serve our users. It is compiled and analyzed on an aggregated basis only.
 
 Requesting Information
 
