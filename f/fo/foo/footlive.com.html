@@ -1,0 +1,1620 @@
+<!--The following is the downloaded HTML source of the footlive.com privacy policy that was archived on 2016-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161127120353id_/http%3A//www.footlive.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy - Footlive.com</title>
+    <meta name="description" content="Privacy Policy - Footlive.com.">
+
+		<meta property="og:site_name" content="footlive.com">
+    <meta property="og:url" content="http://www.footlive.com/privacy-policy/">
+    <meta property="og:title" content="Privacy Policy - Footlive.com">
+        <meta property="og:description" content="Privacy Policy - Footlive.com.">
+    	
+    <link rel="stylesheet" href="/css/reset.css?v1">
+    <link rel="stylesheet" href="/css/style19.css">
+    <link rel="stylesheet" href="/css/flags.css">
+	<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+	
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>	
+    <script type="text/javascript" src="/js/cookie.js"></script>
+    <script type="text/javascript" src="/js/jplayer.js"></script>
+    <script type="text/javascript" src="/js/pikaday.js"></script>
+    <script type="text/javascript" src="/js/jquery.unveil.js"></script>
+
+
+				
+    
+    <!--[if lt IE 9]>
+    <script src="/js/html5.js"></script>
+    <![endif]-->
+    
+    
+    <script type="text/javascript">
+    
+    var update={},game={},comp={},order=[],currentDate,addMinutes,api_error=0;
+	var myIP=false;
+	
+    var currentTime=1480248234000;
+var currentMessage="33f79b49587052a5e853db3c7e3c9b5d8b47b88b";var cetDifference=60;
+var rootDir="/";
+    
+	var timeZone=60;//+gmt minutes    
+	addMinutes=timeZone-cetDifference;
+    
+	var fullStatusName={
+		"":"",
+		"-":"Not Started",	
+		"1T":"1st Half",		//live
+		"2T":"2nd Half",		//live
+		"HT":"Half Time",		//live
+		"FT":"Finished",		//fin
+		"Fin":"Finished",		//fin
+		"Final":"Finished",		//fin
+		"Res":"Finished",		//fin
+		"ET":"Extra Time",		//live
+		"AET":"After ET",		//fin
+		"11M":"Penalties",		//live
+		"Canc":"Canceled",
+		"Pen":"After Pen",		//fin
+		"Pst":"Postponed",
+		"Ssp":"Suspended",
+		"Susp":"Suspended",
+		"ToFin":"To Be Finished",
+		"AW":"Awarded Win",		//fin
+		"NIY":"No Info Yet"		//live
+	};
+    
+    
+    var statusIsLive={
+    	"1T":1,
+    	"2T":1,
+    	"HT":1,
+    	"ET":1,
+    	"11M":1,
+    	"NIY":1
+    };
+    
+    var statusIsFinished={
+    	"FT":1,		
+    	"Fin":1,		
+    	"Final":1,		
+    	"Res":1,
+    	"AET":1,
+    	"Pen":1,
+    	"AW":1
+    
+    };
+  
+    function isDate(s)
+    {
+		var sP=s.split("_");
+		if(sP.length==2 && sP[0]=="dt"){
+			var dateP=sP[1].split("-");
+			if(dateP.length==3){
+				for(var i=0; i<dateP.length; i++){
+					var d=parseInt(dateP[i]);
+					if(!d)return false;
+				}
+				return true;
+			}
+		}
+    	
+    	return false;
+    }
+	
+	var competitionIsShown={};
+	
+	
+	function generateSlug(team){
+				return team.toLowerCase().split(" ").join("-");
+	}
+	
+	var dateFormat={"0":"00","1":"01","2":"02","3":"03","4":"04","5":"05","6":"06","7":"07","8":"08","9":"09","10":"10","11":"11","12":"12","13":"13","14":"14","15":"15","16":"16","17":"17","18":"18","19":"19","20":"20","21":"21","22":"22","23":"23","24":"24","25":"25","26":"26","27":"27","28":"28","29":"29","30":"30","31":"31","32":"32","33":"33","34":"34","35":"35","36":"36","37":"37","38":"38","39":"39","40":"40","41":"41","42":"42","43":"43","44":"44","45":"45","46":"46","47":"47","48":"48","49":"49","50":"50","51":"51","52":"52","53":"53","54":"54","55":"55","56":"56","57":"57","58":"58","59":"59","60":"60"};
+	function buildGame(id)
+	{
+		  
+				
+		var str="";
+		str+="<table class='live' cellspacing=0 cellpadding=0><tr>";
+				
+			if(game[id]["showstatus"]==1){
+			str+="<td class='hour'>"+game[id]["displayTime"]+"</td>";
+			str+="<td class='status'>"
+				var minuteDisplay="";
+				if(game[id]["goalState1"] || game[id]["goalState2"]){
+					str+="<div class='goal' id='goal_"+id+"'>GOAL</div>";
+					minuteDisplay="none";
+				}
+				str+="<div id='minute_"+id+"' style='display:"+minuteDisplay+";'>";
+						if(statusIsLive[game[id]["status"]]===1){
+			
+							if(game[id]["status"]=="1T" || game[id]["status"]=="2T")
+								str+="<span style='color:red;font-weight:bold;'>"+game[id]["minute"]+"<span class='blink'>'</span></span>";
+							else
+								str+="<span style='color:red;font-weight:bold;'>"+game[id]["status"]+"</span>";
+						}
+						else{
+							str+="<span style='color:black;'>"+game[id]["status"]+"</span>";
+						}
+				str+="</div>"
+			str+="</td>";
+			}else{
+			str+="<td class='fullHour'>"+game[id]["displayFullHour"];
+			str+="</td>";
+		}
+					
+					
+		str+="<td class='team home'>";
+		//str+="<div class='goal' id='goal1_"+id+"' style='display:"+(game[id]["goalState1"]?"":"none")+";'>GOAL!!!</div>";
+		if(game[id]["red_cards1"]>0){
+			str+="<span class='reds'>"+(game[id]["red_cards1"]>1?game[id]["red_cards1"]:"")+"</span>";
+		}
+		str+="<a href='"+rootDir+"team/"+(game[id]["slug1"]!=""?game[id]["slug1"]:generateSlug(game[id]["team1"]))+"/' title=\""+game[id]["team1"]+" results\">";
+		str+=game[id]["team1"];
+		str+="</a>";
+						
+		str+="</td>";
+		var matchURL=rootDir+"score/"+game[id]["slug1"]+"-vs-"+game[id]["slug2"]+"-"+game[id]["dtb"]+"/";
+		var h2hSlug=game[id]["slug1"]+"-vs-"+game[id]["slug2"];
+				if(game[id]["isLast"]==1){
+			matchURL=rootDir+"score/"+game[id]["slug1"]+"-vs-"+game[id]["slug2"]+"/";
+		}
+		if(game[id]["status"]=="-" || game[id]["status"]=="")
+			str+="<td class='score'><a href='"+matchURL+"' title=\""+game[id]["team1"]+" - "+game[id]["team2"]+" result\">- : -</a></td>";
+		else
+			str+="<td class='score'><a href='"+matchURL+"' title=\""+game[id]["team1"]+" - "+game[id]["team2"]+" result\">"+game[id]["score1"]+" : "+game[id]["score2"]+"</a></td>";
+		
+		str+="<td class='team away'>";
+		str+="<a href='"+rootDir+"team/"+(game[id]["slug2"]!=""?game[id]["slug2"]:generateSlug(game[id]["team2"]))+"/'  title=\""+game[id]["team2"]+" results\">";
+		str+=game[id]["team2"];
+		str+="</a>";
+		if(game[id]["red_cards2"]>0){
+			str+="<span class='reds'>"+(game[id]["red_cards2"]>1?game[id]["red_cards2"]:"")+"</span>";
+		}
+		//str+="<div class='goal' id='goal2_"+id+"' style='display:"+(game[id]["goalState2"]?"":"none")+";'>GOAL!!!</div>";
+		str+="</td>";
+				
+				
+		str+="<td class='hh'>";
+				if(game[id]["hh"]==1){
+			str+="<a href='"+rootDir+"h2h/"+h2hSlug+"/'>H2H</a>";
+		}
+		str+="</td>";
+		
+				
+				
+		if(game[id]["status"]=="Pen")
+			str+="<td class='info finish'>Pen: "+game[id]["scoreP1"]+"-"+game[id]["scoreP2"]+"</td>";
+		else
+			str+="<td class='info finish'>"+fullStatusName[game[id]["status"]]+"</td>";
+		
+		str+="<td class='star'>";
+		// || requestAction[0]=="team"
+		if(requestAction[0]=="default")
+		{
+			if(gameIsSelected[id]===1){
+				str+="<a id='star_"+id+"' onclick=\"starClicked("+id+");\"><div class='starButton full' alt=''></div></a>";
+			}
+			else{
+				str+="<a id='star_"+id+"' onclick=\"starClicked("+id+");\"><div class='starButton'></div></td>";
+			}
+		}
+		str+="</td>";
+		str+="</tr></table>";
+    	return str;
+    }
+
+    function openStandings(id)
+    {
+    	var popup=window.open(rootDir+"standings.php?id="+id,"popup","width=528,height=500,left=100,top=40,menubar=0,status=0,titlebar=0,toolbar=0,resizable=0");
+	popup.focus();
+    }
+    function openPopupOfGame(id)
+    {
+    	var popup=window.open(rootDir+"popup.php?id="+id,"popup","width=618,height=600,left=100,top=40,menubar=0,status=0,titlebar=0,toolbar=0,resizable=0");
+	popup.focus();
+    }
+    var gameIsSelected={};
+    
+    
+    function starClicked(gameId)
+    {
+    	if(gameIsSelected[gameId]===1){
+    		$("#star_"+gameId).html("<div class='starButton'></div>");
+    		gameIsSelected[gameId]=0;
+    		numberOfSelectedGames-=1;
+    	}
+    	else{
+    		$("#star_"+gameId).html("<div class='starButton full'></div>");
+    		gameIsSelected[gameId]=1;
+    		numberOfSelectedGames+=1;
+    	}
+    	if(activeFilter==="mygames"){
+			myGamesFilter();
+		}
+		$("#filterButtonMyGames").html("My Games"+(numberOfSelectedGames?" ("+numberOfSelectedGames+")":""));
+		saveStarredGamesOnACookie();
+    }
+    var storaket=[",",""];
+    function saveStarredGamesOnACookie()
+    {
+    	var cookieStr="",isF=1;
+    	$.each(gameIsSelected,function(gmId,isSelected){
+			if(isSelected===1){
+				cookieStr+=storaket[isF]+gmId;
+				isF=0;
+			}
+		});
+		if(cookieStr=="")
+			cookieStr=null;
+		$.cookie('selectedGames', cookieStr, { expires: 2, path: '/' });
+    }
+   function loadStarredGamesFromACookie()
+    {
+		numberOfSelectedGames=0;
+		var selList=$.cookie('selectedGames');
+		if(selList!=null)
+		{
+			var slArr=selList.split(",");
+			for(var i=0; i<slArr.length; i++)
+			{
+				if(isset(game[slArr[i]])){
+					gameIsSelected[slArr[i]]=1;
+					$("#game_"+slArr[i]).html(buildGame(slArr[i]));
+					numberOfSelectedGames++;
+				}
+			}
+		}
+		$("#filterButtonMyGames").html("My Games"+(numberOfSelectedGames?" ("+numberOfSelectedGames+")":""));
+    }
+	function isset(variable)
+    {
+    	return (typeof(variable) != "undefined" && variable !== null);
+    }   
+    
+    	
+	var numberOfSelectedGames;
+	
+
+    
+	
+
+	
+	
+	
+	
+	
+	var blinker="#ff0000";
+	function blink()
+	{
+		if(blinker=="#ff0000")
+			blinker="#fefefe";
+		else
+			blinker="#ff0000";
+		$(".blink").css({"color":blinker});
+	}
+	
+	function minutePlusPlus(){
+
+		for(var i=0;i<order.length;i++){
+
+			if(game[order[i]]["status"]=="1T"){
+				
+				if(game[order[i]]["minute"]<45){
+					game[order[i]]["minute"]=parseInt(game[order[i]]["minute"])+1;
+					$("#game_"+order[i]).html(buildGame(order[i]));
+				}
+			}
+			else if(game[order[i]]["status"]=="2T"){
+				if(game[order[i]]["minute"]<90){
+					game[order[i]]["minute"]=parseInt(game[order[i]]["minute"])+1;
+					$("#game_"+order[i]).html(buildGame(order[i]));
+				}
+			}			
+		}
+	}
+	
+	
+	var currentDate;
+	var selectedDate="";
+	var loadUpdateTimeoutId=0;
+	
+
+	function processPopup(){
+		var utcDate=$("#popup").data("date");
+		var gameId=parseInt($("#popup").data("id"));
+		var newDate=new Date(((window.addMinutesToTime*60)+parseInt(utcDate))*1000);
+		var newDateStr=dateFormat[newDate.getDate()]+"."+dateFormat[newDate.getMonth()+1]+"."+newDate.getFullYear();
+		newDateStr+=" "+dateFormat[newDate.getHours()]+":"+dateFormat[newDate.getMinutes()]
+		$(".popDate").html(newDateStr);
+		if(gameId){
+			setTimeout(function(){
+				$.ajax({
+					url:"http://5.135.137.163/footlive/api/uiApi.php?action=popup&id="+gameId,
+					cache:false
+				}).done(function(r){
+					$("#container").html(r);
+				}).always(processPopup);
+			},30000);
+		}
+	}
+    function processFeed(){
+				var allG=$(".feedGame");
+		order=[];
+		game={};
+		comp={};
+		var prevComp=0;
+		var prevDate=0;
+		var userDate=new Date(utcTimestamp+(window.addMinutesToTime*60));
+		var userDateKey;
+		if(requestAction[0]=="date"){
+			userDateKey=requestAction[1];
+					}else{
+			userDateKey=userDate.getFullYear()+"-"+dateFormat[userDate.getMonth()+1]+"-"+dateFormat[userDate.getDate()];
+					}
+	
+		$.each(allG,function(i){
+			var gm={};
+			gm["id"]=$(this).data("id");
+			gm["score1"]=$(this).data("score1");
+			gm["score2"]=$(this).data("score2");
+			gm["status"]=$(this).data("status");
+			gm["minute"]=$(this).data("minute");
+			gm["utcDate"]=$(this).data("date");
+			gm["dtb"]=$(this).data("dtb");
+			gm["isLast"]=$(this).data("islast");
+			gm["hh"]=$(this).data("hh");
+			gm["comp_id"]=$(this).data("comp");
+			gm["showstatus"]=$(this).data("showstatus");
+			gm["team1"]=$(this).data("team1");
+			gm["team2"]=$(this).data("team2");
+			gm["slug1"]=$(this).data("slug1");
+			gm["slug2"]=$(this).data("slug2");
+			gm["scoreP1"]=$(this).data("pen1")
+			gm["scoreP2"]=$(this).data("pen2")
+			gm["red_cards1"]=$(this).data("rc1")
+			gm["red_cards2"]=$(this).data("rc2")
+			comp[gm["comp_id"]]=$.type(comp[gm["comp_id"]])=="undefined"?{count:0}:comp[gm["comp_id"]];
+			if((requestAction[0]=="default" || requestAction[0]=="date") && prevComp && prevComp!=gm["comp_id"] && comp[prevComp].count==0){
+				$("#compName_"+prevComp).remove();
+				$("#compCheckLi_"+prevComp).remove();
+			}
+		
+		
+			var dt=new Date(((window.addMinutesToTime*60)+parseInt(gm["utcDate"]))*1000);
+			gm["displayTime"]=dateFormat[dt.getHours()]+":"+dateFormat[dt.getMinutes()];
+			gm["displayDate"]=dt.getFullYear()+"-"+dateFormat[dt.getMonth()+1]+"-"+dateFormat[dt.getDate()];
+			gm["displayFullHour"]=dateFormat[dt.getDate()]+"/"+dateFormat[dt.getMonth()+1]+"/"+(dt.getFullYear().toString().slice(-2))+" "+gm["displayTime"];
+		if(requestAction[0]=="date" && gm["displayDate"]!=userDateKey){
+				$(this).remove();
+		}else if(requestAction[0]=="default" && gm["displayDate"]!=userDateKey && statusIsLive[gm["status"]]!==1){
+				$(this).remove();
+		}else{
+				game[gm["id"]]=gm;
+				order.push(gm["id"]);
+				competitionIsShown[gm["comp_id"]]=1;
+				gameIsSelected[gm["id"]]=0;
+				$(this).html(buildGame(gm["id"])).show();
+				comp[gm["comp_id"]].count++;
+			if(requestAction[0]=="country"){
+					if(prevComp!=gm["comp_id"] || prevDate!=gm["displayDate"]){
+						
+						var str="<div class='compBoxDateView_"+game[order[i]]["comp_id"]+"' style='line-height:25px;font-weight:bold;color:#05562f;border-bottom:solid 1px #05562f;padding-left:10px;padding-top:5px;'>";
+						str+=dateFormatted(gm["displayDate"]);
+						str+="</div>";
+						var sep=$($.parseHTML(str));
+						sep.insertBefore($(this));
+					}
+				}
+			}
+
+			prevComp=gm["comp_id"];
+			prevDate=gm["displayDate"];
+		});
+		if((requestAction[0]=="default" || requestAction[0]=="date") && prevComp && comp[prevComp].count==0){
+			$("#compName_"+prevComp).remove();
+			$("#compCheckLi_"+prevComp).remove();
+		}
+	if(requestAction[0]=="default")
+			loadStarredGamesFromACookie();
+		}
+
+	
+	var weekDays=["Su","Mo","Tu","We","Th","Fr","Sa"] 
+	
+    
+	
+ 
+    function showNetworkError()
+    {
+		$("#container").html("<div class='networkError'>Network Error: Please Refresh.</div>")
+    }   
+    
+	var numberOfConsecutiveUpdateErrors=0;//in case of >= 6 show network error
+	function loadUpdates()
+    {
+				update={};
+		$.ajax({
+			url:'http://5.135.137.163/footlive/api/api_.php?action=update'+'&m='+currentMessage+'&m_='+currentTime,			cache:false,
+			crossDomain:true,
+			timeout: 7000,
+			data: "",
+			dataType: "script",
+			error: function(jqXHR, txStatus) {
+				if(numberOfConsecutiveUpdateErrors>=6){
+					showNetworkError();
+					return 0;
+				}
+				loadUpdateTimeoutId=setTimeout(function(){
+					loadUpdates();
+				},5000);
+		  		numberOfConsecutiveUpdateErrors++;
+			},
+			success: function(data) {
+				if(api_error)window.location.reload();
+				numberOfConsecutiveUpdateErrors=0;
+				try{
+					updateAll();
+				}catch(e){}
+					loadUpdateTimeoutId=setTimeout(function(){
+					loadUpdates();
+				},5000);
+			},  	
+		})
+	}
+	
+	
+	function updateAll()
+	{	
+				$.each(update, function(gameId,updatedValues){
+			//console.log(gameId + '=' + updatedValues);  521500=[object Object]
+			
+			if(!isset(game[gameId]))
+			return 1;
+			
+			var x=0;
+			var score1Changed=0;
+			var score2Changed=0;
+			$.each(updatedValues, function(key,value){
+								if((key in game[gameId]) && game[gameId][key]!=updatedValues[key])
+				{
+					game[gameId][key]=updatedValues[key];
+					if(key=="score1")
+						score1Changed=1;
+					if(key=="score2")
+						score2Changed=1;
+					x=1;
+				}
+			});			
+
+			if(score1Changed && game[gameId]["status"]!="Pen" && game[gameId]["status"]!="11M"){
+				game[gameId]["goalState1"]=1;
+				setTimeout("endGoalState("+gameId+",1);",30000);
+				if(gameIsSelected[gameId]===1)
+					playSound();
+			}
+			if(score2Changed && game[gameId]["status"]!="Pen" && game[gameId]["status"]!="11M"){
+				game[gameId]["goalState2"]=1;
+				setTimeout("endGoalState("+gameId+",2);",30000);
+				if(gameIsSelected[gameId]===1)
+					playSound();
+			}
+
+			if(x==1)
+				$("#game_"+gameId).html(buildGame(gameId));
+		});
+	}
+
+	function endGoalState(id,side)
+	{
+			
+		//$("#goal"+side+"_"+id).hide();
+		$("#goal_"+id).hide();
+		$("#minute_"+id).show();
+		game[id]["goalState"+side]=0;
+	}
+	
+    
+    var isBuildingTodayFirstTime=0;
+    var compBoxDateViews;
+    
+    
+	function dateFormatted(dt)
+	{
+		var date=dt.split("-");
+		date[0]=parseInt(date[0]);
+		date[1]=parseInt(date[1]-1);
+		date[2]=parseInt(date[2]);
+		var retDate=new Date(date[0],date[1],date[2]);
+		return dateFormat[retDate.getDate()]+"."+dateFormat[retDate.getMonth()+1]+"."+retDate.getFullYear();
+	}
+    
+    function compStarClicked(compId){
+    	var boomboom=[];
+    	var hashvich=0;
+    	
+    	
+		for(var i=0;i<order.length;i++){
+			if(game[order[i]]["comp_id"]==compId){
+				boomboom.push(order[i]);
+				if(gameIsSelected[order[i]]===1){
+					hashvich+=1;
+				}
+			}
+		}
+		for(var i=0;i<boomboom.length;i++){
+			if(hashvich===boomboom.length){
+				$("#star_"+boomboom[i]).html('<img src="'+rootDir+'img/star-empty.png">');
+				gameIsSelected[boomboom[i]]=0;
+				numberOfSelectedGames-=1;
+			}
+			else{
+				$("#star_"+boomboom[i]).html('<img src="'+rootDir+'img/star-full.png">');	
+				if(gameIsSelected[boomboom[i]]===0){
+					numberOfSelectedGames+=1;
+					gameIsSelected[boomboom[i]]=1;
+				}
+			}
+		}
+		saveStarredGamesOnACookie();
+		$("#filterButtonMyGames").html("My Games"+(numberOfSelectedGames?" ("+numberOfSelectedGames+")":""));
+		if(activeFilter==="mygames"){
+			myGamesFilter();
+		}
+    }
+    
+    
+    
+    function checkboxClicked(id)
+    {
+    	
+    	
+    	if($("#compCheckbox_"+id).is(':checked')){
+			showCompetition(id);
+     	}
+     	else{
+			hideCompetition(id);
+     	}
+    }
+    
+    function hideCompetition(id)
+    {
+		var x=0;
+    	competitionIsShown[id]=0;
+    	for(var i=0; i<order.length; i++){
+    		if(game[order[i]]["comp_id"]==id){
+    			if(activeFilter!=="mygames"){
+				$("#game_"+order[i]).hide();
+			}
+			else if(gameIsSelected[order[i]]===1){
+				x=1;
+			}
+    		}
+    	}
+    	if(x!==1){//all games are hidden
+			$("#compName_"+id).hide();
+		}
+
+		$(".compBoxDateView_"+id).hide();
+    }
+    
+    
+    function showCompetition(id)
+    {
+    	var isCountryView=false;
+		if(selectedDate && selectedDate.substring(0,7)=="country")
+			isCountryView=true;
+
+    	competitionIsShown[id]=1;
+		if(isCountryView){
+			for(var i=0; i<compBoxDateViews[id]; i++){
+				$("#compBoxDateView_"+id+"_"+i).show();
+			}
+
+    			for(var i=0; i<order.length; i++){
+    				if(game[order[i]]["comp_id"]==id){
+					$("#game_"+order[i]).show();
+				}
+    			}
+			$("#compName_"+id).show();
+		}
+    		else if(activeFilter===0){
+    			turnOffFilter();
+		}
+		else if(activeFilter==="livenow"){
+    			liveGamesFilter();
+		}
+		else if(activeFilter==="results"){
+			finishedGamesFilter();
+		}
+		else if(activeFilter==="calendar"){
+			notStartedGamesFilter();
+		}
+		else if(activeFilter==="mygames"){
+			myGamesFilter();
+		}
+
+
+
+    }	
+	
+   
+	
+	function liveGamesFilter(){
+    	var previousCompId=0;
+    	var hashvich=0;
+    	var hasAtLeastOneLiveGame=0;
+		for(var i=0;i<order.length;i++){
+
+
+			if(game[order[i]]["comp_id"]!=previousCompId){				//arachnutyune poxvec
+				if(hashvich==0 && previousCompId!=0){	
+						$("#compName_"+previousCompId).hide();
+				}
+				else {
+					if(competitionIsShown[previousCompId]===1){
+						$("#compName_"+previousCompId).show();
+					}
+
+							
+				}
+				hashvich=0;
+			}
+			
+			if(statusIsLive[game[order[i]]["status"]]!==1){
+				$("#game_"+order[i]).hide();
+			}
+			else{
+				if(competitionIsShown[game[order[i]]["comp_id"]]===1){
+					$("#game_"+order[i]).show();
+				}
+				hashvich+=1;
+				hasAtLeastOneLiveGame=1;
+			}
+			
+			
+			previousCompId=game[order[i]]["comp_id"];
+
+		}
+		
+		if(hashvich==0){
+			$("#compName_"+previousCompId).hide();
+		}
+		else{
+			if(competitionIsShown[previousCompId]===1){
+				$("#compName_"+previousCompId).show();
+			}
+		}
+	} 
+	
+	
+	function finishedGamesFilter(){
+		var previousCompId=0;
+    	var hashvich=0;
+    	var hasAtLeastOneFinishedGame=0;
+		for(var i=0;i<order.length;i++){
+			if(game[order[i]]["comp_id"]!=previousCompId){				//arajnutyune poxvec
+				if(hashvich==0 && previousCompId!=0){	
+						$("#compName_"+previousCompId).hide();
+				}
+				else{
+						if(competitionIsShown[previousCompId]===1){
+							$("#compName_"+previousCompId).show();
+						}	
+				}
+				hashvich=0;
+			}
+			
+			if(statusIsFinished[game[order[i]]["status"]]!==1){
+				$("#game_"+order[i]).hide();
+			}
+			else{
+				if(competitionIsShown[game[order[i]]["comp_id"]]===1){
+					$("#game_"+order[i]).show();
+				}
+				hashvich+=1;
+				 hasAtLeastOneFinishedGame=1;
+				
+			}
+			
+			
+			previousCompId=game[order[i]]["comp_id"];
+
+		}
+		
+		if(hashvich==0){
+			$("#compName_"+previousCompId).hide();
+		}
+		else{
+			if(competitionIsShown[previousCompId]===1){
+				$("#compName_"+previousCompId).show();
+			}
+		}
+
+	}
+	
+	
+	function notStartedGamesFilter(){
+		var previousCompId=0;
+    	var hashvich=0;
+    	var hasAtLeastOneNotStartedGame=0;
+		for(var i=0;i<order.length;i++){
+			if(game[order[i]]["comp_id"]!=previousCompId){				//arajnutyune poxvec
+				if(hashvich==0 && previousCompId!=0){	
+						$("#compName_"+previousCompId).hide();
+				}
+				else{
+						if(competitionIsShown[previousCompId]===1){
+							$("#compName_"+previousCompId).show();
+						}	
+				}
+				hashvich=0;
+			}
+			if(game[order[i]]["status"]!=="-" && game[order[i]]["status"]!=="ToFin"){
+				$("#game_"+order[i]).hide();
+			}
+			else{
+				if(competitionIsShown[game[order[i]]["comp_id"]]===1){
+					$("#game_"+order[i]).show();
+				}
+				hashvich+=1;
+				 hasAtLeastOneNotStartedGame=1;
+				
+			}
+			
+			
+			previousCompId=game[order[i]]["comp_id"];
+
+		}
+		
+		if(hashvich==0){
+			$("#compName_"+previousCompId).hide();
+		}
+		else{
+			if(competitionIsShown[previousCompId]===1){
+				$("#compName_"+previousCompId).show();
+			}
+		}
+
+	}
+
+	
+	
+	
+	function myGamesFilter(){
+		var previousCompId=0;
+		var hashvich=0;
+		for(var i=0;i<order.length;i++){
+			if(game[order[i]]["comp_id"]!=previousCompId){				//arajnutyune poxvec
+				if(hashvich==0 && previousCompId!=0){	
+					$("#compName_"+previousCompId).hide();
+				}
+				hashvich=0;
+			}
+			if(gameIsSelected[order[i]]===1){
+				$("#game_"+order[i]).show();
+				$("#compName_"+game[order[i]]["comp_id"]).show();
+
+				hashvich+=1;
+			}
+			else{
+				$("#game_"+order[i]).hide();
+			}
+			previousCompId=game[order[i]]["comp_id"];
+
+		}
+		if(hashvich==0){
+			$("#compName_"+previousCompId).hide();
+		}
+		else{
+			$("#compName_"+previousCompId).show();
+		}
+
+	}
+
+
+	
+	
+	var activeFilter=0;
+    var filterIntervalId=0;
+	
+    function turnOffFilter(){
+		if(filterIntervalId!==0)
+			clearInterval(filterIntervalId);
+    	var previousCompId=0;
+    	for(var i=0;i<order.length;i++){
+    		if(competitionIsShown[game[order[i]]["comp_id"]]===1){
+    			$("#game_"+order[i]).show();
+    		}
+			if(game[order[i]]["comp_id"]!=previousCompId){
+				if(competitionIsShown[game[order[i]]["comp_id"]]===1){
+					$("#compName_"+game[order[i]]["comp_id"]).show();
+				}
+			}
+			previousCompId=game[order[i]]["comp_id"];
+    	}
+    		$("#filterButtonAll").addClass("active");
+			$("#filterButtonFinished").removeClass("active");
+			$("#filterButtonLive").removeClass("active");
+			$("#filterButtonNotStarted").removeClass("active");
+			$("#filterButtonMyGames").removeClass("active");
+			activeFilter=0;
+    	
+    }
+    var filterButtonId={"livenow":"filterButtonLive","results":"filterButtonFinished","calendar":"filterButtonNotStarted","mygames":"filterButtonMyGames"};
+    function turnOnFilter(x){
+    	if(filterIntervalId!==0)
+    		clearInterval(filterIntervalId);
+
+		if(activeFilter){//via js only
+			$("#"+filterButtonId[activeFilter]).removeClass("active");
+			$("#"+filterButtonId[x]).addClass("active");
+		}
+
+
+		activeFilter=x;    	
+    	if(x==="livenow"){
+		liveGamesFilter();
+    		filterIntervalId=setInterval("liveGamesFilter()",60000);
+    	}
+    	else if(x==="results"){
+		finishedGamesFilter();
+    		filterIntervalId=setInterval("finishedGamesFilter()",60000);
+    	}
+    	else if(x==="calendar"){
+		notStartedGamesFilter();
+    		filterIntervalId=setInterval("notStartedGamesFilter()",60000);
+    	}
+    	else if(x==="mygames"){
+    		myGamesFilter();
+    	}
+    }
+   
+    function prepareThePlayer(){
+    	window.soundPlayerAdr=$("#jquery_jplayer_1").jPlayer({
+		ready:function(){
+			$(this).jPlayer("setMedia", {
+		            mp3: rootDir+"sound/s.mp3",
+		            wav: rootDir+"sound/s.wav"
+			});
+		},
+		loop:false,
+		swfPath: rootDir+"sound/s.swf"
+		
+	});
+    }
+
+    function playSound(){
+    	window.soundPlayerAdr.jPlayer("play");
+    }
+	
+    function setCustomOffsetCookie(offset){
+		$("#timezoneUl").hide()
+		
+		if(offset==currentOffset){
+			return;
+		}
+
+		if(offset==compOffset)
+		offset=null;
+
+		$.cookie('customOffset',offset, { expires: 365, path: '/' });
+		location.reload();
+    }
+    function readCustomOffsetCookie(){
+		window.customOffset=$.cookie('customOffset');
+	window.compOffset=new Date().getTimezoneOffset();
+		if(customOffset!=null){
+			if(customOffset==compOffset){
+				setCustomOffsetCookie(null);
+			}
+			window.addMinutesToTime=compOffset-parseInt(customOffset);
+			window.currentOffset=customOffset;
+		}else{//no offset cookie
+			window.addMinutesToTime=0;
+			window.currentOffset=compOffset;
+		}
+    }
+
+    function buildTimezonePicker(){
+
+
+    
+    	var allOffsets=[
+		720,660,600,570,540,480,420,360,300,270,240,210,180,120,60,0,-60,-120,-180,-210,-240,-270,-300,-330,-345,-360,-390,-420,-480,-525,-540,-570,-600,-630,-660,-690,-720,-765,-780,-840
+		];
+	
+		var str="";
+		str+="<div class='timezone'>";
+		var ulStr="<ul id='timezoneUl'>";
+		for(var i=0; i<allOffsets.length; i++){
+			var mins=Math.abs(allOffsets[i]%60);
+			var hours=Math.floor(Math.abs(allOffsets[i]/60))
+			var timezoneName="UTC"+(allOffsets[i]>0?"-":"+")+dateFormat[hours]+":"+dateFormat[mins];
+			if(currentOffset==allOffsets[i]){
+				str+="<span>"+timezoneName+"</span>";
+			}
+			ulStr+="<li><a href='' onclick='setCustomOffsetCookie("+allOffsets[i]+");return false;'>"+timezoneName+(allOffsets[i]==compOffset?" [detected]":"")+"</a></li>";
+		}
+		ulStr+="</ul>";
+			str+=ulStr;
+		str+="</div>";
+		$("#timezonePicker").html(str).mouseenter(function(){
+						$("#timezoneUl").show();
+		}).mouseleave(function(){
+						$("#timezoneUl").hide();
+		});
+    }
+    	
+function showCalendarPicker(){
+		$(".pikadayContainer").show();
+	}
+
+function goToDate(dt){
+		var unixDt=dt.getFullYear()+"-";
+		var m=dt.getMonth()+1;
+		m=m<10?"0"+m:m;
+		var d=dt.getDate();
+		d=d<10?"0"+d:d;
+		unixDt+=m+"-"+d;
+		window.location.href=rootDir+"scores-results/"+unixDt;
+	}
+
+function strToDate(dateStr){
+		var m=dateStr.split("-");
+		if(m.length==3){
+			return new Date(parseInt(m[0]),parseInt(m[1])-1,parseInt(m[2]));
+		}else{
+			return new Date();
+		}
+
+	}
+var weekday=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"];
+var month=["January","February","March","April","May","June","July","August","September","October","November","December"];
+
+function processVideoPage(){
+		var vdd=$(".videoPageDate");
+		$.each(vdd,function(i){
+			var el=$(this);
+			var utcDate=parseInt(el.data("date"))*1000
+			var tms=(window.addMinutesToTime*60)+utcDate;
+			var dt=new Date(tms);
+			var displayTime=dateFormat[dt.getHours()]+":"+dateFormat[dt.getMinutes()];
+			var displayDate=dt.getFullYear()+"-"+dateFormat[dt.getMonth()+1]+"-"+dateFormat[dt.getDate()];
+			el.html(displayDate+" "+displayTime);
+		});
+	
+	}
+
+function processNews(){
+    	var allN=$(".newsItem");
+		var prevDt="";
+		$.each(allN,function(i){
+			var el=$(this);
+			var utcDate=parseInt(el.data("publishdate"))*1000
+			var tms=(window.addMinutesToTime*60)+utcDate;
+			var dt=new Date(tms);
+			var displayTime=dateFormat[dt.getHours()]+":"+dateFormat[dt.getMinutes()];
+			var displayDate=dt.getFullYear()+"-"+dateFormat[dt.getMonth()+1]+"-"+dateFormat[dt.getDate()];
+			el.find(".pubDate").html(displayTime)
+			if(prevDt!=displayDate){
+				var str="<div class='newsDate'>"+weekday[dt.getDay()]+" "+dateFormat[dt.getDate()]+" "+month[dt.getMonth()]+" "+dt.getFullYear()+"</div>";
+				var sep=$($.parseHTML(str));
+				sep.insertBefore(el);
+			}
+			prevDt=displayDate;
+		});
+
+	
+	}
+    
+
+   
+var requestAction=["privacy-policy"];
+var utcTimestamp=1480248234000;
+var todaysDate="";
+
+	$(document).ready(function(){
+		readCustomOffsetCookie();
+		if(requestAction[0]=="matchnew"){
+			buildTimezonePicker();
+			processPopup();
+			var fctBlink = setInterval("blink()",500);
+			//http://www.footlive.com/score/kaapo-vs-inter-turku-2016-03-22/
+		}else if(requestAction[0]=="teams" || requestAction[0]=="competitions" || requestAction[0]=="video" || requestAction[0]=="standings" || requestAction[0]=="search" || requestAction[0]=="h2h"){
+		}else if(requestAction[0]=="videopage"){
+			processVideoPage();
+		}else if(requestAction[0]=="soccer-news"){
+			processNews();
+		}else{
+						buildTimezonePicker();
+			numberOfSelectedGames=0;
+			processFeed();
+	
+			if(requestAction[0]=="default" || requestAction[0]=="date"){
+				var activeDate;
+				if(requestAction[0]=="date"){
+					activeDate=requestAction[1];
+				}else{
+					activeDate=todaysDate;
+				}
+			
+				var picker=new Pikaday({
+					firstDay:1,
+					yearRange:1,
+					defaultDate:strToDate(activeDate),
+					setDefaultDate:true,
+					onSelect:function(dt){
+						goToDate(dt);
+					}
+				});
+				$(".pikadayContainer").html(picker.el);
+				$("#datePicker").mouseenter(function(){
+					$(".pikadayContainer").show();
+				}).mouseleave(function(){
+					$(".pikadayContainer").hide();
+				});
+			}
+	
+			if(activeFilter)
+				turnOnFilter(activeFilter);
+	
+			var fctBlink = setInterval("blink()",500);
+			setInterval("minutePlusPlus()",60000);
+	
+			loadUpdateTimeoutId=setTimeout(function(){
+				 loadUpdates();
+			},5000);
+
+			prepareThePlayer();
+			
+		}
+			$("#container").show();
+			$("img.lazy").unveil(300);
+			
+			
+			
+						
+			
+			
+	});
+    </script>
+	
+<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	  ga('create', 'UA-46714568-1', 'auto');
+	  ga('send', 'pageview');
+	  
+ </script>
+
+
+
+</head>
+<body>
+    <div class="page">
+		<header>
+						<div>
+				<div class="p_left">
+										<a href="http://www.footlive.com"><img src="http://www.footlive.com/logo-footlive.com.png" width="115px" height="60px" title="foot live" border="0" alt="footlive.com"></a>
+				</div>
+				<div class="p_left">
+									</div>
+				
+				<div class="p_right">
+					<form action="http://www.footlive.com/search" id="cse-search-box">
+					<div>
+					<input type="hidden" name="cx" value="partner-pub-2677083954013733:7316131765">
+					<input type="hidden" name="cof" value="FORID:11">
+					<input type="hidden" name="ie" value="UTF-8">
+					<input type="text" name="q" size="25">
+					<input type="submit" name="sa" value="Search">
+					</div>
+					</form>
+					<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+				</div>
+				<div class="p_clear"></div>
+			</div>
+		</header>
+		<nav>
+			<div id="navigationMenu">
+				<a href="/" id="filterButtonAll" class="">Show All</a><!-- class="active" --> 
+				<a href="/livenow/" id="filterButtonLive" class="" title="Soccer live scores">Live Now</a> 
+				<a href="/results/" id="filterButtonFinished" class="" title="Latest football scores">Results</a>
+				<!--<a href="calendar/" id="filterButtonNotStarted" class="">CALENDAR</a>-->
+				<a href="/mygames/" id="filterButtonMyGames" class="">My Games</a>
+				<a href="/team/" id="teams" class="" title="Football teams">Teams</a>
+				<a href="/competition/" id="competitions" class="" title="Football competitions">Competitions</a>
+				<a rel="nofollow" href="https://banners.livepartners.com/click.php?z=37796" id="betting" target="_blank">Betting</a>
+				<a href="/video/" id="video" class="" title="Football Highlights">Video</a>
+				<a href="/soccer-news/" id="news" class="" title="Soccer News">News</a>
+				<a href="/partners/" id="contact">Partners</a>
+				<a href="/contact/" id="contact">Contact</a>
+			</div>
+		</nav>
+		
+		<div class="ads">
+			<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- seo-footlive.com -->
+			<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2677083954013733" data-ad-slot="4685393360" data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+		</div>
+		<div class="breadcrumb"><h2><a href="http://www.footlive.com/">Foot Live</a> &gt;  <a href="http://www.footlive.com/privacy-policy/">Privacy Policy</a></h2></div>
+		<section class="left">
+		<ul>
+			<li class="all" style="z-index:999;">
+				<a href="#" onclick="return false;">All countries +</a>
+				<ul>
+					<li class="yellow">A</li>
+					<li><a href="/livescore/albania/" title="Albania football results">Albania</a></li>
+					<li><a href="/livescore/algeria/" title="Algeria football results">Algeria</a></li>
+					<li><a href="/livescore/andorra/">Andorra</a></li>
+					<li><a href="/livescore/angola/">Angola</a></li>
+					<li><a href="/livescore/argentina/">Argentina</a></li>
+					<li><a href="/livescore/armenia/" title="Armenia football results">Armenia</a></li>
+					<li><a href="/livescore/australia/">Australia</a></li>
+					<li><a href="/livescore/austria/" title="Austria football results">Austria</a></li>
+					<li><a href="/livescore/azerbaijan/" title="Azerbaijan football results">Azerbaijan</a></li>
+					<li class="yellow">B</li>
+					<li><a href="/livescore/bahrain/">Bahrain</a></li>
+					<li><a href="/livescore/belarus/">Belarus</a></li>
+					<li><a href="/livescore/belgium/">Belgium</a></li>
+					<li><a href="/livescore/bolivia/">Bolivia</a></li>
+					<li><a href="/livescore/bosnia-herzegovina/">Bosnia-Herzegovina</a></li>
+					<li><a href="/livescore/brazil/">Brazil</a></li>
+					<li><a href="/livescore/bulgaria/">Bulgaria</a></li>
+					<li class="yellow">C</li>
+					<li><a href="/livescore/canada/">Canada</a></li>
+					<li><a href="/livescore/chile/">Chile</a></li>
+					<li><a href="/livescore/china/">China</a></li>
+					<li><a href="/livescore/colombia/">Colombia</a></li>
+					<li><a href="/livescore/costa-rica/">Costa Rica</a></li>
+					<li><a href="/livescore/croatia/">Croatia</a></li>
+					<li><a href="/livescore/cyprus/">Cyprus</a></li>
+					<li><a href="/livescore/czech-republic/">Czech Republic</a></li>
+					<li class="yellow">E</li>
+					<li><a href="/livescore/ecuador/">Ecuador</a></li>
+					<li><a href="/livescore/egypt/">Egypt</a></li>
+					<li><a href="/livescore/el-salvador/">El Salvador</a></li>
+					<li><a href="/livescore/england/">England</a></li>
+					<li><a href="/livescore/estonia/">Estonia</a></li>
+					<li class="yellow">F</li>
+					<li><a href="/livescore/faroe-islands/">Faroe Islands</a></li>
+					<li><a href="/livescore/finland/">Finland</a></li>
+					<li><a href="/livescore/france/">France</a></li>
+					<li class="yellow">G</li>
+					<li><a href="/livescore/georgia/">Georgia</a></li>
+					<li><a href="/livescore/germany/">Germany</a></li>
+					<li><a href="/livescore/grenada/">Grenada</a></li>
+					<li><a href="/livescore/guatemala/">Guatemala</a></li>
+					<li class="yellow">H</li>
+					<li><a href="/livescore/honduras/">Honduras</a></li>
+					<li><a href="/livescore/hong-kong/">Hong Kong</a></li>
+					<li><a href="/livescore/hungary/">Hungary</a></li>
+					<li class="yellow">I</li>
+					<li><a href="/livescore/iceland/">Iceland</a></li>
+					<li><a href="/livescore/india/">India</a></li>
+					<li><a href="/livescore/iran/">Iran</a></li>
+					<li><a href="/livescore/ireland/">Ireland</a></li>
+					<li><a href="/livescore/israel/">Israel</a></li>
+					<li><a href="/livescore/italy/">Italy</a></li>
+					<li class="yellow">J</li>
+					<li><a href="/livescore/japan/">Japan</a></li>
+					<li><a href="/livescore/jordan/">Jordan</a></li>
+					<li class="yellow">K</li>
+					<li><a href="/livescore/kazakhstan/">Kazakhstan</a></li>
+					<li><a href="/livescore/kenya/" title="Kenya football results">Kenya</a></li>
+					<li><a href="/livescore/kuwait/">Kuwait</a></li>
+					<li class="yellow">L</li>
+					<li><a href="/livescore/latvia/">Latvia</a></li>
+					<li><a href="/livescore/lebanon/">Lebanon</a></li>
+					<li><a href="/livescore/lithuania/">Lithuania</a></li>
+					<li><a href="/livescore/luxembourg/">Luxembourg</a></li>
+					<li class="yellow">M</li>
+					<li><a href="/livescore/macedonia/">Macedonia</a></li>
+					<li><a href="/livescore/malaysia/">Malaysia</a></li>
+					<li><a href="/livescore/malta/">Malta</a></li>
+					<li><a href="/livescore/mexico/">Mexico</a></li>
+					<li><a href="/livescore/moldova/">Moldova</a></li>
+					<li><a href="/livescore/montenegro/">Montenegro</a></li>
+					<li><a href="/livescore/morocco/">Morocco</a></li>
+					<li class="yellow">N</li>
+					<li><a href="/livescore/n-ireland/">N. Ireland</a></li>
+					<li><a href="/livescore/netherlands/">Netherlands</a></li>
+					<li><a href="/livescore/norway/">Norway</a></li>
+					<li class="yellow">O</li>
+					<li><a href="/livescore/oman/">Oman</a></li>
+					<li class="yellow">P</li>
+					<li><a href="/livescore/paraguay/">Paraguay</a></li>
+					<li><a href="/livescore/peru/">Peru</a></li>
+					<li><a href="/livescore/poland/">Poland</a></li>
+					<li><a href="/livescore/portugal/">Portugal</a></li>
+					<li class="yellow">Q</li>
+					<li><a href="/livescore/qatar/">Qatar</a></li>
+					<li class="yellow">R</li>
+					<li><a href="/livescore/romania/">Romania</a></li>
+					<li><a href="/livescore/russia/">Russia</a></li>
+					<li class="yellow">S</li>
+					<li><a href="/livescore/san-marino/">San Marino</a></li>
+					<li><a href="/livescore/saudi-arabia/">Saudi Arabia</a></li>
+					<li><a href="/livescore/scotland/">Scotland</a></li>
+					<li><a href="/livescore/senegal/">Senegal</a></li>
+					<li><a href="/livescore/serbia/">Serbia</a></li>
+					<li><a href="/livescore/singapore/">Singapore</a></li>
+					<li><a href="/livescore/slovakia/">Slovakia</a></li>
+					<li><a href="/livescore/slovenia/">Slovenia</a></li>
+					<li><a href="/livescore/south-africa/">South Africa</a></li>
+					<li><a href="/livescore/south-korea/">South Korea</a></li>
+					<li><a href="/livescore/spain/">Spain</a></li>
+					<li><a href="/livescore/sweden/">Sweden</a></li>
+					<li><a href="/livescore/switzerland/">Switzerland</a></li>
+					<li><a href="/livescore/syria/">Syria</a></li>
+					<li class="yellow">T</li>
+					<li><a href="/livescore/thailand/">Thailand</a></li>
+					<li><a href="/livescore/tunisia/">Tunisia</a></li>
+					<li><a href="/livescore/turkey/">Turkey</a></li>
+					<li class="yellow">U</li>
+					<li><a href="/livescore/u.a.e./">U.A.E.</a></li>
+					<li><a href="/livescore/usa/">USA</a></li>
+					<li><a href="/livescore/ukraine/">Ukraine</a></li>
+					<li><a href="/livescore/uruguay/">Uruguay</a></li>
+					<li><a href="/livescore/uzbekistan/">Uzbekistan</a></li>
+					<li class="yellow">V</li>
+					<li><a href="/livescore/venezuela/">Venezuela</a></li>
+					<li><a href="/livescore/vietnam/">Vietnam</a></li>
+					<li class="yellow">W</li>
+					<li><a href="/livescore/wales/">Wales</a></li>
+				</ul>
+			</li>
+		</ul>
+		<ul>
+			<li class="lfl"><a href="/livescore/england/"><div class="f16"><div style="display:block;width:16px;height:16px;position:absolute;left:8px;top:2px;" class="flag uk"></div></div>England</a></li>
+			<li class="lfl"><a href="/livescore/italy/"><div class="f16"><div style="display:block;width:16px;height:16px;position:absolute;left:8px;top:2px;" class="flag it"></div></div>Italy</a></li>
+			<li class="lfl"><a href="/livescore/france/"><div class="f16"><div style="display:block;width:16px;height:16px;position:absolute;left:8px;top:2px;" class="flag fr"></div></div>France</a></li>
+			<li class="lfl"><a href="/livescore/germany/"><div class="f16"><div style="display:block;width:16px;height:16px;position:absolute;left:8px;top:2px;" class="flag de"></div></div>Germany</a></li>
+			<li class="lfl"><a href="/livescore/spain/"><div class="f16"><div style="display:block;width:16px;height:16px;position:absolute;left:8px;top:2px;" class="flag es"></div></div>Spain</a></li>
+			<li class="lfl"><a href="/livescore/greece/"><div class="f16"><div style="display:block;width:16px;height:16px;position:absolute;left:8px;top:2px;" class="flag gr"></div></div>Greece</a></li>
+			<li class="lfl"><a href="/livescore/portugal/"><div class="f16"><div style="display:block;width:16px;height:16px;position:absolute;left:8px;top:2px;" class="flag pt"></div></div>Portugal</a></li>
+		</ul>
+		<ul>
+			<li><a href="#" onclick="$('#submenu_2').toggle();return false;"><div class="ballImage"></div>Europe (A-L)</a></li>
+		</ul>
+		<ul id="submenu_2" style="display:none;">
+			<li><a href="/livescore/albania/" title="Albania soccer results">Albania</a></li>
+			<li><a href="/livescore/andorra/" title="Andorra soccer results">Andorra</a></li>
+			<li><a href="/livescore/armenia/" title="Armenia soccer results">Armenia</a></li>
+			<li><a href="/livescore/austria/" title="Austria soccer results">Austria</a></li>
+			<li><a href="/livescore/azerbaijan/" title="Azerbaijan soccer results">Azerbaijan</a></li>
+			<li><a href="/livescore/belarus/">Belarus</a></li>
+			<li><a href="/livescore/belgium/">Belgium</a></li>
+			<li><a href="/livescore/bosnia-herzegovina/">Bosnia-Herzegovina</a></li>
+			<li><a href="/livescore/bulgaria/">Bulgaria</a></li>			
+			<li><a href="/livescore/croatia/">Croatia</a></li>
+			<li><a href="/livescore/cyprus/">Cyprus</a></li>
+			<li><a href="/livescore/czech-republic/">Czech Republic</a></li>
+			<li><a href="/livescore/england/">England</a></li>
+			<li><a href="/livescore/estonia/">Estonia</a></li>
+			<li><a href="/livescore/faroe-islands/">Faroe Islands</a></li>
+			<li><a href="/livescore/finland/">Finland</a></li>
+			<li><a href="/livescore/france/">France</a></li>
+			<li><a href="/livescore/georgia/">Georgia</a></li>
+			<li><a href="/livescore/germany/">Germany</a></li>
+			<li><a href="/livescore/greece/">Greece</a></li>
+			<li><a href="/livescore/hungary/">Hungary</a></li>
+			<li><a href="/livescore/iceland/">Iceland</a></li>
+			<li><a href="/livescore/ireland/">Ireland</a></li>
+			<li><a href="/livescore/israel/">Israel</a></li>
+			<li><a href="/livescore/italy/">Italy</a></li>
+			<li><a href="/livescore/kazakhstan/">Kazakhstan</a></li>
+			<li><a href="/livescore/latvia/">Latvia</a></li>
+			<li><a href="/livescore/lithuania/">Lithuania</a></li>
+			<li><a href="/livescore/luxembourg/">Luxembourg</a></li>
+		</ul>
+		<ul>
+			<li><a href="#" onclick="$('#submenu_3').toggle();return false;"><div class="ballImage"></div>Europe (M-Z)</a></li>
+		</ul>
+		<ul id="submenu_3" style="display:none;">
+			<li><a href="/livescore/macedonia/">Macedonia</a></li>
+			<li><a href="/livescore/malta/">Malta</a></li>
+			<li><a href="/livescore/moldova/">Moldova</a></li>
+			<li><a href="/livescore/montenegro/">Montenegro</a></li>
+			<li><a href="/livescore/n-ireland/">N. Ireland</a></li>
+			<li><a href="/livescore/netherlands/">Netherlands</a></li>
+			<li><a href="/livescore/norway/">Norway</a></li>
+			<li><a href="/livescore/poland/">Poland</a></li>
+			<li><a href="/livescore/portugal/">Portugal</a></li>
+			<li><a href="/livescore/romania/">Romania</a></li>
+			<li><a href="/livescore/russia/">Russia</a></li>
+			<li><a href="/livescore/san-marino/">San Marino</a></li>
+			<li><a href="/livescore/scotland/">Scotland</a></li>
+			<li><a href="/livescore/serbia/">Serbia</a></li>
+			<li><a href="/livescore/slovakia/">Slovakia</a></li>
+			<li><a href="/livescore/slovenia/">Slovenia</a></li>
+			<li><a href="/livescore/spain/">Spain</a></li>
+			<li><a href="/livescore/sweden/">Sweden</a></li>
+			<li><a href="/livescore/switzerland/">Switzerland</a></li>
+			<li><a href="/livescore/turkey/">Turkey</a></li>
+			<li><a href="/livescore/ukraine/">Ukraine</a></li>
+			<li><a href="/livescore/wales/">Wales</a></li>
+		</ul>
+		<ul>
+			<li><a href="#" onclick="$('#submenu_4').toggle();return false;"><div class="ballImage"></div>America</a></li>
+		</ul>
+		<ul id="submenu_4" style="display:none;">
+			<li><a href="/livescore/argentina/">Argentina</a></li>
+			<li><a href="/livescore/bolivia/">Bolivia</a></li>
+			<li><a href="/livescore/brazil/">Brazil</a></li>
+			<li><a href="/livescore/canada/">Canada</a></li>
+			<li><a href="/livescore/chile/">Chile</a></li>
+			<li><a href="/livescore/colombia/">Colombia</a></li>
+			<li><a href="/livescore/costa-rica/">Costa Rica</a></li>
+			<li><a href="/livescore/ecuador/">Ecuador</a></li>
+			<li><a href="/livescore/guatemala/">Guatemala</a></li>
+			<li><a href="/livescore/honduras/">Honduras</a></li>
+			<li><a href="/livescore/mexico/">Mexico</a></li>
+			<li><a href="/livescore/paraguay/">Paraguay</a></li>
+			<li><a href="/livescore/peru/">Peru</a></li>
+			<li><a href="/livescore/uruguay/">Uruguay</a></li>
+			<li><a href="/livescore/usa/">USA</a></li>
+			<li><a href="/livescore/venezuela/">Venezuela</a></li>
+		</ul>
+		<ul>
+			<li><a href="#" onclick="$('#submenu_5').toggle();return false;"><div class="ballImage"></div>Asia</a></li>
+		</ul>
+		<ul id="submenu_5" style="display:none;">
+			<li><a href="/livescore/bahrain/">Bahrain</a></li>
+			<li><a href="/livescore/china/">China</a></li>
+			<li><a href="/livescore/hong-kong/">Hong Kong</a></li>
+			<li><a href="/livescore/iran/">Iran</a></li>
+			<li><a href="/livescore/japan/">Japan</a></li>
+			<li><a href="/livescore/lebanon/">Lebanon</a></li>
+			<li><a href="/livescore/malaysia/">Malaysia</a></li>
+			<li><a href="/livescore/saudi-arabia/">Saudi Arabia</a></li>
+			<li><a href="/livescore/singapore/">Singapore</a></li>
+			<li><a href="/livescore/south-korea/">South Korea</a></li>
+			<li><a href="/livescore/thailand/">Thailand</a></li>
+			<li><a href="/livescore/syria/">Syria</a></li>
+			<li><a href="/livescore/u.a.e./">U.A.E.</a></li>
+		</ul>
+		<ul>
+			<li><a href="#" onclick="$('#submenu_6').toggle();return false;"><div class="ballImage"></div>Africa</a></li>
+		</ul>
+		<ul id="submenu_6" style="display:none;">
+			<li><a href="/livescore/algeria/">Algeria</a></li>
+			<li><a href="/livescore/egypt/">Egypt</a></li>
+			<li><a href="/livescore/morocco/">Morocco</a></li>
+			<li><a href="/livescore/senegal/">Senegal</a></li>
+			<li><a href="/livescore/south-africa/">South Africa</a></li>
+			<li><a href="/livescore/tunisia/">Tunisia</a></li>
+		</ul>
+		<ul>
+			<li><a href="#" onclick="$('#submenu_7').toggle();return false;"><div class="ballImage"></div>Oceania</a></li>
+		</ul>
+		<ul id="submenu_7" style="display:none;">
+			<li><a href="/livescore/australia/">Australia</a></li>
+		</ul>
+
+		<br><br><br>
+
+		<script type="text/javascript">
+		<!--//<![CDATA[
+		   document.MAX_ct0 ='';
+		   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
+		   var m3_r = Math.floor(Math.random()*99999999999);
+		   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+		   document.write ("zoneid=276918");document.write("&amp;nodis=1");
+		   document.write ('&amp;cb=' + m3_r);
+		   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+		   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+		   document.write ("&amp;loc=" + escape(window.location).substring(0,1600));
+		   if (document.context) document.write ("&context=" + escape(document.context));
+		   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+			   document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+		   }
+		   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+		   document.write ("'></scr"+"ipt>");
+		//]]>--></script><script type="text/javascript" src="https://cas.criteo.com/delivery/ajs.php?zoneid=276918&amp;nodis=1&amp;cb=14554811774&amp;exclude=undefined&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20161127120353id_/http%3A//www.footlive.com/privacy-policy/"></script>
+
+						</section>
+
+		<section class="center">
+			<div id="moosh"></div>
+			<div class="horaire">
+			<div id="timezonePicker"></div>
+			</div>
+						<div style="clear:left;"></div>
+						
+			
+			
+		   			<div id="container">
+				<style>p{margin-top:15px;}</style>
+<p>This Privacy Policy governs the manner in which footlive.com collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.footlive.com/ website ("Site").</p>
+
+<br><h3 style="font-weight:bold;">Personal identification information</h3>
+<p>We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.</p>
+
+<br><h3 style="font-weight:bold;">Non-personal identification information</h3>
+<p>We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.</p>
+
+<br><h3 style="font-weight:bold;">Web browser cookies</h3>
+<p>Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.</p>
+
+<br><h3 style="font-weight:bold;">How we use collected information</h3>
+<p>footlive.com may collect and use Users personal information for the following purposes:</p>
+<ul>
+  <li>
+    <i>To run and operate our Site</i><br>
+    We may need your information display content on the Site correctly.
+  </li>
+  <li>
+    <i>To personalize user experience</i><br>
+    We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  </li>
+  <li>
+    <i>To improve our Site</i><br>
+    We may use feedback you provide to improve our products and services.
+  </li>
+  <li>
+    <i>To run a promotion, contest, survey or other Site feature</i><br>
+    To send Users information they agreed to receive about topics we think will be of interest to them.
+  </li>
+  <li>
+    <i>To send periodic emails</i><br>
+    We may use the email address to respond to their inquiries, questions, and/or other requests. 
+  </li>
+</ul>
+
+<br><h3 style="font-weight:bold;">Our cookies</h3>
+<p>
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic.
+We also share information about your use of our site with our social media, advertising and analytics partners 
+who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+</p>
+
+<br><h3 style="font-weight:bold;">How we protect your information</h3>
+<p>We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.</p>
+
+<br><h3 style="font-weight:bold;">Sharing your personal information</h3>
+<p>We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. </p>
+
+<br><h3 style="font-weight:bold;">Third party websites</h3>
+<p>Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.</p>
+
+<br><h3 style="font-weight:bold;">Advertising</h3>
+<p>Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.</p>
+
+<br><h3 style="font-weight:bold;">Google Adsense</h3>
+<p>Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <a href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a></p>
+
+<br><h3 style="font-weight:bold;">Changes to this privacy policy</h3>
+<p>footlive.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</p>
+
+<br><h3 style="font-weight:bold;">Your acceptance of these terms</h3>
+<p>By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.</p>
+
+<br><h3 style="font-weight:bold;">Contacting us</h3>
+<p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.</p>
+
+<p>This document was last updated on August 06, 2016</p>
+
+<br><h3 style="font-weight:bold;">Contacting Us</h3>
+<p>
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+<a href="http://www.footlive.com/contact/">http://www.footlive.com/contact/</a>
+
+
+</p>
+
+				
+			</div>
+			
+		</section>
+		<section class="right">
+						 <div class="top20">
+				<div class="social">
+	<div class="social_light">
+		<div class="social_light_arrow_box">
+			<a class="d-facebook" href="https://www.facebook.com/sharer.php?u=http://www.footlive.com/privacy-policy/" target="_blank" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=500,width=700');return false;">
+			</a>
+		</div>
+		<div class="social_light_arrow_box">
+			<a class="d-twitter" href="https://twitter.com/intent/tweet?url=http://www.footlive.com/privacy-policy/&amp;text=" target="_blank" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=700');return false;">
+						</a>
+		</div>
+		<div class="social_light_arrow_box">
+			<a class="d-google" href="https://plus.google.com/share?url=http://www.footlive.com/privacy-policy/" target="_blank" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=450,width=650');return false;">
+			</a>
+		</div>	
+		<div class="leftclear"></div>
+	</div>
+</div>
+
+			</div>
+			
+			<div class="top20 ads300600">
+				
+				<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<!-- footlive.com-seo-3600-600 -->
+				<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2677083954013733" data-ad-slot="9857296166" data-ad-format="auto"></ins>
+				<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>				
+		
+			</div>
+			<div id="customiseContainer" style="" class="top20">
+			
+			</div>
+			<div class="top20">
+							</div>
+			
+						
+			
+			
+		</section>
+		
+		<div class="clear"></div>
+		
+		<footer>
+			<p style="font-size:14px;margin-top:50px;padding:10px;border:1px solid black;">
+						Do you need to know the Spanish Liga live scores? Are you eager to see the results of the English Premier League? Footlive.com offers to all the soccer fans live scores, league tables and fixtures for leagues, cups and tournaments, and not only from the most popular football leagues as England’s Premier League, Spain’s La Liga, Italy’s Serie A, Germany’s Bundesliga, France’s Ligue 1, Greece’s Super League and Portugal’s Liga Sagres but also from a large range of football countries all over the world, including from North and South America, Asia and Africa. On Footlive.com, the football fan can follow his own selection of live scores, with all the live soccer informations as goal scorers, cards, substitutions, and the updated standings as well. No need to refresh web page as our soccer live score service is a real time one! Footlive.com football livescore provides you also with live scores, results, tables, goals, fixtures from international soccer tournaments like Champion’s League, Europa Cup, World Championship, European Championship, Africa Nations Cup and many others, even International Friendlies. 	
+			<br><br>
+			Whilst every effort is made to ensure that the information displayed here is correct and up to date, we are not liable for any errors and it is your responsibility to check for accuracy.
+			
+			</p>
+		</footer>
+		<br><br>
+		<a style="font-size:12px;" href="http://www.footlive.com/privacy-policy/">Privacy Policy</a>
+    </div>
+ 
+<div id="bob"></div> 	
+<div id="jquery_jplayer_1" style="display:none;"></div>    
+
+<style>
+			#top {
+				bottom:60px;
+			}
+			</style>
+			<script src="http://static4238.ovhcloudcdn.com/v1/AUTH_b86a6cf5fcd44612ac41fcce6fe6b733/default/cookiechoices.js"></script>
+			<style>
+				a#cookieChoiceDismiss {
+			  background-color: #303030;
+			  border: 1px solid rgba(0,0,0,.1);
+			  -moz-border-radius: 2px;
+			  -webkit-border-radius:2px;
+			  border-radius: 2px;
+			  color: #fff;
+			  cursor: pointer;
+			  padding: 0px 8px;
+			  text-decoration: none;
+			  white-space: nowrap;
+			}	
+		</style>
+		<script>
+		 document.addEventListener('DOMContentLoaded', function(event) {
+		  cookieChoices.showCookieConsentBar('This website uses cookies to enhance your browsing experience. By continuing to browse the site you are agreeing to accept our use of cookies.','OK','Cookies Policy.','http://www.footlive.com/privacy-policy/');
+		 });
+		 </script>
+
+</body></html>
