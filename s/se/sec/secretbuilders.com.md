@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secretbuilders.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525143203id_/http%3A//secretbuilders.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretbuilders.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127085019id_/http%3A//secretbuilders.com/privacy.html) for the most accurate reproduction.*
 
 # SecretBuilders
 
