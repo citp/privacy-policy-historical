@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umassd.edu privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606070301id_/http%3A//www.umassd.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umassd.edu privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127094931id_/http%3A//www.umassd.edu/privacy) for the most accurate reproduction.*
 
 # Privacy - UMass Dartmouth
 
