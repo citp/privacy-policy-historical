@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oce.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603130153id_/http%3A//oce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oce.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127202409id_/http%3A//oce.com/privacy) for the most accurate reproduction.*
 
-# Océ - A Canon Company | Privacy
+# Privacy – Océ
 
 ### Océ Internet privacy policy statement
 
