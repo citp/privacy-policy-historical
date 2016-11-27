@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animeboston.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618183433id_/http%3A//www.animeboston.com/registration/registration_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeboston.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127061519id_/http%3A//animeboston.com/registration/registration_privacy_policy) for the most accurate reproduction.*
 
 # Anime Boston - The Northeast's Largest Anime Convention
 
