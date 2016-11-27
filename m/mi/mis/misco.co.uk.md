@@ -1,14 +1,41 @@
-> *The following text is extracted and transformed from the misco.co.uk privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327170010id_/http%3A//www.misco.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misco.co.uk privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127121056id_/http%3A//www.misco.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # Security and Privacy Statement - Misco.co.uk
+
+  * [Homepage](https://web.archive.org/)
+  * [Help Centre](https://web.archive.org/help)
+  * Misco UK Limited Privacy Policy
+
+
+
+## April 1, 2016
+
+* * *
+
+  * Personal Information Collected By Misco UK
+  * Use of Information Collected By Us
+  * Sharing of Information with Third Parties
+  * Affiliate Programs
+  * Security
+  * Corrections/Information Removal/Opt-Out
+  * Data Protection
+  * Contact Information
+  * Business Transfer
+  * Limitations on Liability
+
+
+
+* * *
 
 By visiting the Misco UK website or any other websites operated by Misco UK or its affiliates (collectively, the "Site"), you agree to accept the practices described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site. Each time you use the Site, you should check the date of this Privacy Policy (which appears above) and review any changes that have been made since your last visit to the Site. 
 
 Throughout Misco UK’s years of operation, we have developed relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit the Site and provide us with information. This Privacy Policy is posted to demonstrate our leadership in online security and customer service practices. We treat your information with the same honesty and sensitivity that we have displayed throughout our company's history. 
 
+* * *
+
 ## 1\. Personal Information Collected By Misco UK
 
-Misco UK uses information that we collect from our visitors and customers to improve your visit and shopping experience at the Site. We gather the following types of information: 
+Misco UK uses information that we collect from our visitors and customers to improve your visit and shopping experience at the Site. For the purpose of the Data Protection Act (the Act), the data controller is Misco UK Limited of Caledonian Exchange, 19a Canning Street, Edinburgh EH3 8EG (We/Us). We gather the following types of information: 
 
 ### Information You Give to Us
 
@@ -20,9 +47,11 @@ We (or service providers on our behalf) may collect information from visits to t
 
 ### Cookies
 
-This website uses the following types of cookies: session cookies, allowing us to “remember” content from page to page (these expire when you leave the website or close the browser); persistent cookies, which define the “Time To Live” and help us to determine your preferences (these will expire after the “Time To Live” period); and third party cookies, cookies from any other domain, such as recommended product and advertising services. Through the use of cookies, we may also collect and analyze the IP address used to connect your computer to the Internet; computer and connection information such as your browser type and version; operating system and platform; purchase history; confirmation when you open e-mail that we send you; and the URLs which lead you to and around the Site including the date and time. You can generally set your browser to reject cookies or to notify you when you are sent a cookie. Software is also available from third parties which will allow you to visit the Site without providing this information. You are welcome to use the Site if you use such software but we will not be able to offer you our personalized services and we will be unable to accept any online orders from you.
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and allows us to improve our site. 
 
-For further information on cookies, please visit: <http://www.misco.co.uk/help/cookie-policy>. 
+This website uses the following types of cookies: session cookies, allowing us to “remember” content from page to page (these expire when you leave the website or close the browser); persistent cookies, which define the “Time To Live” and help us to determine your preferences (these will expire after the “Time To Live” period); and third party cookies, cookies from any other domain, such as recommended product and advertising services. Third-party cookies are covered by the third parties' privacy policy. Through the use of cookies, we may also collect and analyze the IP address used to connect your computer to the Internet; computer and connection information such as your browser type and version; operating system and platform; purchase history; confirmation when you open e-mail that we send you; and the URLs which lead you to and around the Site including the date and time. You can generally set your browser to reject cookies or to notify you when you are sent a cookie. Software is also available from third parties which will allow you to visit the Site without providing this information. You are welcome to use the Site if you use such software but we will not be able to offer you our personalized services and we will be unable to accept any online orders from you.
+
+For further information on cookies, please visit: [//www.misco.co.uk/help/cookie-policy](https://www.misco.co.uk/help/cookie-policy). 
 
 ### Orders
 
@@ -40,17 +69,21 @@ The contract's content will be stored. You may store the terms and readily look 
 
 Our website may also use a website recording service which may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. Data collected by this service is used to improve our website usability. The information collected is stored and is used for aggregated and statistical reporting, and is not shared with anybody else.
 
+* * *
+
 ## 2\. Use of Information Collected By Us
 
 We use this information in an effort to improve your experience on the Site, to provide services to you and to communicate with you about information that you request. We may also use this information to help us target specific offers to you, to help us develop and improve our Site, and to tailor our Site to your interests. 
 
-We may also contact you with relevant promotional material when you do not complete your purchase with us. You can opt out of this service at any time, by clicking on the unsubscribe link in any marketing email that you receive from us, or by sending an email to [list-cleaning@misco.co.uk](mailto:list-cleaning@misco.co.uk)
+We may also contact you with relevant promotional material when you do not complete your purchase with us. You can opt out of this service at any time, by clicking on the unsubscribe link in any marketing email that you receive from us, or by sending an email to [cs@misco.co.uk](mailto:cs@misco.co.uk)
+
+* * *
 
 ## 3\. Sharing of Information with Third Parties 
 
 We will not rent, sell or otherwise disclose your Personal Information to unrelated third parties without your consent, except as stated in this Privacy Policy.
 
-If you do not want to receive information from third parties you may opt out, by going to My Account>Update eDeal and Catalogue Preferences and un-ticking the relevant box. You may also email your request to [list-cleaning@misco.co.uk](https://web.archive.org/web/20160327170010id_/http%3A//www.misco.co.uk/list-cleaning@misco.co.uk).
+If you do not want to receive information from third parties you may opt out, by going to My Account > Update eDeal and Catalogue Preferences and un-ticking the relevant box. You may also email your request to [cs@misco.co.uk](mailto:cs@misco.co.uk).
 
 ### Service Providers
 
@@ -59,7 +92,8 @@ We may employ other companies or individuals to provide certain services to or o
 ### Credit Card Companies
 
 If you place an order through the Site, the Personal Information you provide is transmitted to your credit card company to verify and authorize your purchase. At certain times we may offer financing options with or without third party participation. If you use a financing option, information provided by you (such as your address, birth date, social security number, and credit card number) may be used to request a credit report from third parties or may be sent to a third party for processing.  
-Furthermore, we hereby inform you, in connection with your order, of the use of the "Fraud Expert" solution in addition to the processing of card not present payments. Your personal data is processed by Ingenico e-Commerce Solutions SPRL being the controller, for the purpose of preventing and combating fraud (determining risk levels associated with transactions, detecting and managing any resulting alerts, informing merchants to allow them to take decisions, "human" reviews of transactions with a specified level of risk, modelling of the score).  
+Furthermore, we hereby inform you, in connection with your order, of the use of the "Fraud Expert" solution in addition to the processing of card not present payments. Your personal data is processed by Ingenico e-Commerce Solutions SPRL being the controller, for the purpose of preventing and combating fraud (determining risk levels associated with transactions, detecting and managing any resulting alerts, informing merchants to allow them to take decisions, "human" reviews of transactions with a specified level of risk, modelling of the score).
+
 The collection of certain of your personal data is a mandatory requirement for this purpose. Without this data, your transaction could be delayed or rendered impossible and your order cancelled.  
 This data is intended for the authorised departments of the Ingenico e-Commerce Solutions entities involved in such processing, and for the merchant, as well as for any third party whose involvement is required to ensure the smooth operation of the payment process and the functioning of the services offered.
 
@@ -91,9 +125,13 @@ The Site contains certain links to third party websites, such as our vendors. We
 
 To the extent permitted by law, we will disclose Personal Information to government authorities or third parties pursuant to a legal request, subpoena or other legal process. We may also use or disclose your information as permitted by law to perform charge verifications, report or collect debts owed, fight fraud or protect our rights or property as well as those of our affiliates, customers, or its users. You should be aware that, following disclosure to any third party, your Personal Information may be accessible by others to the extent permitted or required by applicable law. 
 
+* * *
+
 ## 4\. Affiliate Programs
 
 We maintain relationships with third party affiliate websites. Although we do not and cannot control the activities of the third parties that operate such websites, we will cease doing business with any affiliate that engages in abusive practices, including, for example, spam, trademark infringement, predatory means of attracting visitors, or unlawful activities. To report abuse by an affiliate, please contact our Affiliate Manager via email at [affiliate@misco.co.uk](mailto:affiliate@misco.co.uk). 
+
+* * *
 
 ## 5\. Security
 
@@ -101,9 +139,13 @@ We employ 128-bit encryption technology in all areas of the Site which require y
 
 You should recognize, however, that no computer system is fully secure and that there are inherent risks associated with Internet transactions. To make sure you have the latest security features on your browser, you may want to download the most recent version of your favorite browser, which should have full SSL support. 
 
+* * *
+
 ## 6\. Corrections/Information Removal/Opt-Out
 
-If your name, e-mail or postal address, telephone number or other Personal Information changes, you may update, correct or omit the relevant information in “My Account”, by contacting us at listcleaning@misco.co.uk, or by sending a letter to: Misco, 10-14 Darby Close, Park Farm South Industrial Estate, Wellingborough, Northants, NN8 6XH. In addition, if you no longer wish to receive communications from us you may opt-out by emailing us at list-cleaning@misco.co.uk, sending a letter to: Misco, 10-14 Darby Close, Park Farm South Industrial Estate, Wellingborough, Northants, NN8 6XH or by clicking on the unsubscribe link within any marketing e-mail you receive from us. If you no longer wish to receive our catalogue please email [list-cleaning@misco.co.uk](mailto:list-cleaning@misco.co.uk). 
+If your name, e-mail or postal address, telephone number or other Personal Information changes, you may update, correct or omit the relevant information in “My Account”, by contacting us at listcleaning@misco.co.uk, or by sending a letter to: Misco, 10-14 Darby Close, Park Farm South Industrial Estate, Wellingborough, Northants, NN8 6XH. In addition, if you no longer wish to receive communications from us you may opt-out by emailing us at cs@misco.co.uk, sending a letter to: Misco, 10-14 Darby Close, Park Farm South Industrial Estate, Wellingborough, Northants, NN8 6XH or by clicking on the unsubscribe link within any marketing e-mail you receive from us. If you no longer wish to receive our catalogue please email [cs@misco.co.uk](mailto:cs@misco.co.uk). 
+
+* * *
 
 ## 7\. Data Protection
 
@@ -113,13 +155,17 @@ You have the right to access the data we hold on you. We will supply this data w
 
 You also have the right to request the correction or deletion of the data that we hold on you. Please contact [cs@misco.co.uk](mailto:cs@misco.co.uk) or write to us at Misco, 10-14 Darby Close, Park Farm South Industrial Estate, Wellingborough, Northants, NN8 6XH.
 
-## 8\. Contact Information
+* * *
 
 If you have any questions or concerns about this Privacy Policy, please e-mail us at [cs@misco.co.uk](mailto:cs@misco.co.uk).
+
+* * *
 
 ## 9\. Business Transfer
 
 Misco UK Limited is a wholly owned subsidiary of Systemax, Inc., a Fortune 1000 Company (NYSE symbol SYX). However, in the event that Misco UK Limited is sold, has its assets acquired or transferred, whether voluntarily or involuntarily, or merges or becomes affiliated with any other division, individual or entity, any customer information owned or under the control of Misco UK Limited may be one of the transferred assets. We reserve the right, as part of such transaction, to transfer or assign the Personal Information and aggregate information we have collected from users of the Site.
+
+* * *
 
 ## 10\. Limitations on Liability
 
