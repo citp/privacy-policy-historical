@@ -1,71 +1,117 @@
-> *The following text is extracted and transformed from the premierman.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627112950id_/http%3A//www.premierman.com/shop/policies%3Fdecoration%3Dtrue%26finalTarget%3Dpolicies_rights%26cm_re%3DPMA-_-S13-_-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premierman.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127180114id_/http%3A//www.premierman.com/shop/policies/policiesView.action%3Fdecoration%3Dtrue%26finalTarget%3Dpolicies_rights%26cm_sp%3DPMA-Footer-_-PrivacyPolicy-_-PrivacyPolicy%26decoration%3Dtrue) for the most accurate reproduction.*
 
-# Premier Man | The big men's clothing catalogue with a large men's clothes range up to 5XL | Premier Man
+# Great Value Men's Clothing to 5XL: Online & Catalogue Shop | Premier Man
 
-|   |    
----|---  
-| Your Rights, Privacy and Data Protection  
-  | 
+## Your Rights, Privacy and Data Protection
 
-* * *  
-  
-  |    
-  | Data Protection  
-  |  We will make searches about you at credit reference agencies who will supply us with credit information, as well as information from the Electoral Register. The agencies will record details of the search whether or not credit is granted. We may use credit-scoring methods to assess your application and to verify your identity. Credit searches and other information which is provided to us and/or the credit reference agencies, about you and those with whom you are linked financially may be used by J D Williams & Company Limited, our associated companies within the JD Williams group of companies ("the Group") and other third-party organisations outside the Group when credit decisions are made about you or other members of your household. This information may also be used for debt tracing and the prevention of money laundering as well as the management of your account and also for our marketing. We may also use your information, including shopping habits, to open and run your credit account including payment recovery, fraud prevention and debtor tracing and for our marketing. Unless you have previously stated otherwise, we may share your information with our associated companies within the Group and other carefully selected third party organisations outside the Group. We or they may contact you for marketing purposes by mail, telephone, electronic mail or otherwise.
+## Data Protection
 
-If you do not wish to be contacted by third-party organisations for marketing purposes or wish to access the personal data that we hold about you or you wish to exercise any of your other statutory rights under the Data Protection Act 1998, please contact the Data Protection Compliance Officer at Griffin House, 40 Lever Street, Manchester, M60 6ES. A fee of £10 is payable for each subject access request that you submit. Any statutory change in this fee will be advised to you at the point of application.
+### Use of your data
 
-If we enter a credit agreement with you we will also supply details of your agreement with us to the credit reference agencies, as well as ongoing details of your account and how you manage it. If you do not repay on time or in full we will tell the credit reference agencies who will record details of the debt. All this information will be seen by other organisations carrying out later searches.
+We will make searches about you at credit reference agencies. They will give us credit information and details from the Electoral Register. The agencies record details of searches whether or not we provide credit. We may use credit-scoring methods to assess your application and to verify your identity. When making credit decisions about you or your household, we and third-party organisations may use credit searches and other information given to us and the credit reference agencies about you and people you are linked with financially. This information may also be used to trace debtors, to prevent money laundering, to manage your account and for marketing.
 
-Information held about you by the credit reference agencies may already be linked to records relating to those with whom you are financially linked. For the purposes of credit searching you may be treated as financially linked and you will be assessed with reference to any "associated" records.
+We may also use information about you, including your shopping habits, when opening and running your credit account. We may use it to obtain payments, to prevent fraud, to trace debtors and for marketing. Unless you have previously told us otherwise, we may share your information with other carefully selected third-party organisations. We or they may contact you for marketing reasons by mail, telephone - which may include automated calling systems - electronic mail or otherwise.
 
-We may make periodic searches of Group records, credit reference and fraud prevention agencies to manage your account with us, to take decisions regarding credit, including whether to make credit available or to continue to extend existing credit. These searches will not be available to other lenders for credit assessment purposes.
+It may be that you do not wish to be contacted by third-party organisations for marketing reasons or you wish to access the personal data we hold about you, or you wish to use any of your other statutory rights under the Data Protection Act 1998. If so, please contact our Data Protection Compliance Officer at Griffin House, 40 Lever Street, Manchester M60 6ES. A fee of £10 is payable for each subject access request you make. If the fee has changed, we'll tell you when you apply.
 
-You have the right to access your personal records held by credit and fraud agencies. We will supply their names and addresses upon request to Data Protection Compliance Officer at Griffin House, 40 Lever Street, Manchester, M60 6ES. We, the credit reference agencies and fraud prevention agencies may also use the records for statistical analysis about credit, insurance and fraud.   
-  
-  |    
-  |    
-  | Information about your use of this website  
-  |  This website uses "cookies" to allow us to understand how customers use the site. This helps us to learn more about how frequently particular pages are visited and to determine the most popular areas of our website which will then help us to improve your shopping experience.   
-  |    
-  | What are Cookies?  
-  |  A cookie is a small file that can be stored by your browser on your computer's hard drive. They allow a website to recognise users when they return to a site. **Cookies do not compromise your privacy.**  
-  |    
-  | How do you use Cookies?  
-  |  We use cookies to monitor usage of this website. We also use cookies to help us to target our marketing and to personalise your visit to our website and make it more user-friendly, for example by allowing us to save your password so that you do not have to re-enter it every time. We use two companies called Coremetrics and Speed-Trap to gather certain information about how you browse and search and buy from the site. To do this we place cookies on your computer that collect information on our behalf, we use this information to constantly improve our services and your shopping experience. **Passwords and credit card information are not collected by the Coremetrics and Speed-Trap systems.** Coremetrics and Speed-Trap are used to analyse the data collected, which is then passed back to us via a secure connection. Our contract with Coremetrics and Speed-Trap prohibits them from using any of the data themselves.   
-  |    
-  | What information is contained in Cookies?  
-  |  A cookie is a small file of letters and numbers downloaded on to your computer when you access certain websites. Cookies collect standard Internet log information and visitor behaviour in an anonymous form. **We will not use cookies to track or to collect any personally identifiable information about you.**  
-  |    
-  | Can I disable cookies?  
-  |  Yes. Most web browsers automatically accept cookies, but you can change your settings so that this does not happen. The 'help' portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. You can also visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) for more information. Please remember that by disabling cookies you may affect the performance of this site and may restrict your use of this website.   
-You can opt out from having your data collected by Coremetrics by clicking here. You can opt out from having your data collected by Speed-Trap by clicking [here.](http://st.drct2u.com/P3P_Options.html)  
-  |    
-  | Important notice about knives  
-  |  It is against the law to sell to people under 18 years of age, knives and certain other articles with a blade or point made or adapted for causing injury. These products cannot be purchased by any person under 18 years of age.   
-  |    
-  | Price policy  
-  |  The goods and services featured on this website are only available to persons resident in the UK and J D Williams will not accept orders from outside the UK.
+We may occasionally transfer some of the information you provide outside the European Economic Area (the EEA), for example to prevent fraud or for credit searches. In some cases, countries outside the EEA may not have such well-developed data protection laws as those in the EEA. However, we'll put in place measures and safeguards that require your personal data to be kept secure, confidential and to be processed only and strictly in line with the terms of this privacy policy and any relevant data-protection laws. By shopping with us and giving us your personal data, you consent to its transfer to third-party data processors including those in countries outside the EEA for relevant purposes. This may include providing or improving our services or helping us with our security, credit-risk, or fraud-protection activities.
 
-When you submit an order via our website you will immediately receive a confirmatory e-mail as an acknowledgment of your order. This e-mail does not constitute acceptance of the order by us. Acceptance of your order and the formation of the contract between you and us will take place when we despatch the goods to you.
+We may carry out fraud and security checks with CyberSource, Experian and other organisations involved in detecting and preventing fraud. If we or they suspect or identify fraud, we or they may record this and may also pass this information to other organisations to prevent and detect fraud. We, CyberSource, Experian and these other organisations may use this information to prevent fraud in the future.
 
-We describe every item across our websites as accurately as we can, and we believe they represent excellent value for money. Prices are correct at the time of printing/publication. If our prices alter for any reason (upwards or downwards), we will notify you at or before the time you place your order. Subject to this it is our intention that prices remain valid for the life of this catalogue or online offer. All orders are subject to our acceptance. Acceptance of your order and the formation of the contract between you and us will take place when the goods are despatched to you. On the rare occasions that there is an error in the catalogue or online, we will do our best to inform you at the earliest opportunity when you order or before you receive the goods. Finally, all our products are subject to availability.   
-  
-  |    
-  | Protecting your interests and our complaints procedure  
-  |  Our aim is to get it right first time, and if we do make a mistake we will try to put it right promptly. If you have a query or complaint, please call our enquiry line and one of our advisors will be happy to help you; we'll do our utmost to work with you to reach a satisfactory outcome over the phone. If we can't, or we need to do some more investigation, we'll confirm receipt of your complaint within five working days and in most cases resolve the problem within four weeks.
+If we enter a credit agreement with you, we'll also give its details to the credit reference agencies, as well as ongoing details of your account and how you manage it. If you do not repay on time or in full, we'll tell the credit-reference agencies, who will record details of the debt. All this information will be seen by other organisations carrying out later searches.
 
-Complex complaints can take a little longer and if this is the case, we will always let you know when to expect an answer. If together we have not reached an agreement within eight weeks, we will provide you with information about the Financial Ombudsman Service.
+Information that the credit-reference agencies hold about you may already be linked to records about people you are financially linked with. For the purposes of credit searching, you may be treated as financially linked with them. You will be assessed with reference to any records of your financial links with them.
 
-You can contact us at any time while your complaint is being investigated, by writing to Service Resolution Manager, Home Shopping Direct, Customer Contact Centre, 23 Hunts Bank, Manchester M3 1AX. Don't forget to include your Customer Number so we can find your records quickly. We subscribe to the Mailing Preference Service and the Telephone Preference Service. For staff training and for quality control purposes, your calls may be monitored or recorded.   
-  
-  |    
-  |   
-  |    
-  | Registered Address  
-  |  Sander & Kay Limited t/as Premier Man, Registered Office: Griffin House, 40 Lever Street, Manchester, M60 6ES. Registered in England No 1060981.   
-  |    
-  |  YOU MAY PRINT OUT AND KEEP A PERMANENT COPY OF THESE TERMS AND CONDITIONS FOR YOUR REFERENCE BY CLICKING HERE  
-  
-[Our Delivery Service](https://web.archive.org/web/20110627112950id_/http%3A//www.premierman.com/shop/dispatcher.servlet?pageTo=policies&finalTarget=policies_delivery&decoration=true) |  [Payment Options](https://web.archive.org/web/20110627112950id_/http%3A//www.premierman.com/shop/dispatcher.servlet?pageTo=policies&finalTarget=policies_payment&decoration=true) |  [Returns](https://web.archive.org/web/20110627112950id_/http%3A//www.premierman.com/shop/dispatcher.servlet?pageTo=policies&finalTarget=policies_returns&decoration=true)  |  [Personal Account Protection](https://web.archive.org/web/20110627112950id_/http%3A//www.premierman.com/shop/dispatcher.servlet?pageTo=policies&finalTarget=policies_pomp&decoration=true) |  [Cover Plan Information](https://web.archive.org/shop/warranties/cover.action)   
-[Electrical & Electronic Equipment](https://web.archive.org/web/20110627112950id_/http%3A//www.premierman.com/shop/dispatcher.servlet?pageTo=policies&finalTarget=policies_WEEE&decoration=true) |  [Your Rights, Privacy and Data Protection](https://web.archive.org/web/20110627112950id_/http%3A//www.premierman.com/shop/dispatcher.servlet?pageTo=policies&finalTarget=policies_rights&decoration=true) |  [Your Credit Summary](https://web.archive.org/web/20110627112950id_/http%3A//www.premierman.com/shop/dispatcher.servlet?pageTo=policies&finalTarget=policies_credit_summ&decoration=true)
+We may make periodic searches of our records, credit-reference and fraud-prevention agencies to manage your account with us and to take decisions about credit - including whether to make credit available or to extend existing credit. These searches will not be available to other lenders for credit-assessment purposes.
+
+You will have the right to access your personal records held by credit and fraud agencies. We will give you their names and addresses if you ask our Data Protection Compliance Officer, Griffin House, 40 Lever Street, Manchester M60 6ES. We, the credit-reference agencies and fraud-prevention agencies may also use the records for statistical analysis about credit, insurance and fraud.
+
+### Behavioural and targeted advertising
+
+The information that we collect and use for behavioural advertising is not personal information and it cannot be used to identify you. It will not contain your name, home address, phone number etc.
+
+We want to make sure that we only contact you with content that you will find relevant and interesting. We do this by using online behavioural advertising (or interest based advertising). In order for it to work we collect information about your browsing activity using cookies. These cookies pass back to us your browsing information which then allows us to determine what content is most useful and relevant to be shown to you.
+
+We use hashed email addresses to keep your data more secure. The email addresses are scrambled before being utilised to ensure nobody else can gain access to your email address. This enables us to offer our customers the best possible online user experience and equally allows us to improve the relevancy of our advertising. This allows us to provide you with more of the content you want to see. It isn't something to be scared off and is safe and transparent.
+
+We do share information with a number of third parties such as (Google, Facebook, Criteo and Affiliate Window) to enable us to deliver targeted advertising to you. To learn more about how these companies collect and use information for online advertising:
+
+✔ **Criteo:<http://www.criteo.com/en/privacy-policy>**  
+✔ **Facebook:-<http://www.facebook.com/about/privacy>**  
+✔ **Google:<http://www.google.co.uk/intl/en/policies/privacy>**  
+✔ **Affiliate Window:<http://www.affiliatewindow.com/uk/policies>**  
+✔ **Microsoft:<http://choice.live.com/>**  
+
+
+
+If you would prefer not to receive this type of advertising, you can opt out but it is important to understand that this does not mean that you will no longer receive advertising when you are using the internet. It just means that the advertising you see displayed on websites will not be customised to you and your interests and therefore may be less relevant to you.
+
+To opt-out of all behavioural and contextual advertising, please follow these 5 tips: <http://www.youronlinechoices.com/uk/five-top-tips>
+
+To opt-out of a particular provider of behavioural [and contextual] advertising - Click on this link: <http://www.youronlinechoices.com/uk/your-ad-choices>
+
+To opt-out of advertising using hashed email addresses as explained above, please contact our customer service team. Alternatively, you can click on the icon top right corner of an ad - on Facebook, it looks like this:
+
+Across multiple sites, it may look like this:
+
+You can opt-out by clicking on the AdChoices link, right hand corner of the ad (Simply Be Ad here)
+
+You can also manage your privacy within the web browser that you are using. Many web browsers also have a 'private browsing' mode as well.
+
+### Questions or complaints
+
+If you have any questions, concerns or comments about this privacy notice or our use of your personal information please contact us;
+
+Data Protection Officer  
+JD Williams and Company Limited  
+Griffin House  
+40 Lever Street  
+Manchester M60 6ES  
+
+
+## Returns
+
+### Returns and cancellations
+
+### Returning items
+
+You can return most items for any reason, with some exceptions (see "Product Exceptions"). Unless you have told us you wish to cancel your order (see "Cancelling orders"), you must return the item to us within 14 days of receiving it. Please allow enough time for postal or courier services to reach us. We may accept a returned item received outside the 14-day return period but we reserve the right to charge a £3 late-return fee to cover the cost of processing it.
+
+### Cancelling orders
+
+You can cancel an order up to and including the 14th day after its delivery day for any reason, with some exceptions (see "Product exceptions"). You'll need to tell us clearly if you wish to cancel your order - you can use our cancellation form if you wish. Please send back the items no later than 14 days after telling us you wish to cancel. Please take care of the items. We reserve the right to reduce the refund amount if the value of the items is reduced by your actions.
+
+If you return all the items in an order, we'll refund the cost of the returned items plus the delivery charge (excluding any additional charges for Nominated Delivery or Next Day Delivery). However, if the return is made via our courier or through a myHermes ParcelShop, we'll charge you a return fee and deduct it from your refund. The return fee won't be more than the original delivery charge. Returning the item by any other method is entirely at your cost.
+
+### Warranties
+
+If you have bought a warranty for the items you are returning, please read the warranty documents for details of how to cancel it if you want to.
+
+### Product exceptions
+
+Unless faulty, the following items cannot be cancelled or returned - bespoke, customised or personalised items; items sealed for health or hygiene reasons if unsealed; and sealed audio, video or software recordings if unsealed.
+
+### Faulty items
+
+If anything you order from us fails prematurely due to defective workmanship or materials, we would be happy to offer a full or partial refund, repair or replacement as appropriate in the circumstances. Please contact us to arrange return of faulty items.
+
+## Price policy
+
+We describe every item in our catalogue as accurately as we can. However, occasionally product description or pricing errors occur. If after you have submitted your order we discover such an error or the item ordered becomes unavailable we'll do our best to inform you at the earliest opportunity. You may then choose whether to proceed with your order or to cancel it. If we cannot contact you, we may treat your order as cancelled. Subject to this, we intend that prices remain valid for the life of this catalogue. All orders are subject to our acceptance. We accept your order and form the contract between you and us only when the goods are despatched to you. Finally, all our products are subject to availability - we cannot supply what we do not have.
+
+## Protecting your interests and our complaints procedure
+
+We aim to get it right first time, but if we make a mistake we'll try to put it right promptly. If you have a question or complaint, please call our Enquiry Line and one of our advisors will be happy to help you; we'll do our utmost to work with you to reach a satisfactory outcome over the phone. If we can't, or we need to investigate further, we'll confirm receipt of your complaint within 5 working days and, in most cases, resolve the problem within 4 weeks.
+
+Complex complaints can take a little longer. In this case, we'll always let you know when to expect an answer. If, together, you and we have not reached an agreement within 8 weeks, we'll give you information about the Financial Ombudsman Service.
+
+You can contact us at any time while your complaint is being investigated, by writing to Customer Complaints Manager, Complaints and Customer Relations Department, JD Williams, Griffin House, 40 Lever Street, Manchester, M60 6ES. Don't forget to include your Customer Number so we can find your records quickly.
+
+We subscribe to the Mailing Preference Service and the Telephone Preference Service.
+
+For staff training and for quality control purposes, your calls may be monitored or recorded.
+
+YOU MAY PRINT OUT AND KEEP A PERMANENT COPY OF THESE TERMS AND CONDITIONS FOR YOUR REFERENCE BY CLICKING HERE
+
+[Ways to Pay](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_payment&decoration=true) [Deliveries & Returns](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_delivery&decoration=true) [Your Rights, Privacy & Data Protection](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_rights&decoration=true) [Your Personal Account](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_credit_summ&decoration=true) [The Environment & Other Useful Information](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_WEEE&decoration=true) [Cover Plan Information](https://web.archive.org/shop/warranties/cover.action) [Account Protection Plans](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_pomp&decoration=true) [FCA Complaints Reporting and Insurance Claims Ratio](http://images.drct2u.com/content/common/pdf/FSAComplaintsReportingNew.pdf)
+  *[FCA]: Financial Conduct Authority
