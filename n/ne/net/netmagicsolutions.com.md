@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netmagicsolutions.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616182538id_/http%3A//www.netmagicsolutions.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmagicsolutions.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127174958id_/http%3A//www.netmagicsolutions.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Netmagic Privacy Policy - Netmagic
 
@@ -46,10 +46,9 @@ Yes. As mentioned above, Netmagic may use your information to improve the conten
 
 **Marketing Department**  
 Netmagic Solutions Pvt. Ltd.  
-2nd Floor [North Side], Block B-2  
-Phase - I, Nirlon Knowledge Park  
-Goregaon (East)  
-Mumbai - 400 063  
+Lighthall 'C' Wing, Hiranandani Business Park,   
+Saki Vihar Road, Chandivali,   
+Mumbai 400 072  
 Phone: +91 22 4009 9099  
 Fax: +91 22 4009 9101
 
@@ -64,10 +63,9 @@ Our site contains links to other websites. If you follow one of those links, you
 Yes. Existing customers can access and update most of the personal information that Netmagic holds by visiting the myNetmagic section for our products and service(s) you are using, or by contacting us at the addresses below:
 
 **Netmagic Solutions Pvt. Ltd.**  
-2nd Floor [North Side], Block B-2  
-Phase - I, Nirlon Knowledge Park  
-Goregaon (East)  
-Mumbai - 400 063  
+Lighthall 'C' Wing, Hiranandani Business Park,   
+Saki Vihar Road, Chandivali,   
+Mumbai 400 072  
 Phone: +91 22 4009 9099  
 Fax: +91 22 4009 9101
 
@@ -100,10 +98,9 @@ If you have questions regarding this Privacy Policy, please contact:
 **Samir Kamat**  
 Company Secretary  
 Netmagic Solutions Private Limited  
-2nd Floor [North Side], Block B-2,  
-Phase - I, Nirlon Knowledge Park,  
-Goregaon (East),  
-Mumbai - 400 063  
+Lighthall 'C' Wing, Hiranandani Business Park,   
+Saki Vihar Road, Chandivali,   
+Mumbai 400 072  
 Email: [samir.kamat@netmagicsolutions.com](mailto:samir.kamat@netmagicsolutions.com)
 
  _This privacy policy was last modified on March 25, 2010._
