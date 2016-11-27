@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbtv.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516203204id_/http%3A//www.wbtv.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbtv.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127081937id_/http%3A//www.wbtv.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - | WBTV Charlotte
 
