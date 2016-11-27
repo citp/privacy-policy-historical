@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiatyping.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612012539id_/http%3A//indiatyping.com/index.php/2-uncategorised/124-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiatyping.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127084832id_/http%3A//indiatyping.com/index.php/2-uncategorised/124-privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
 
