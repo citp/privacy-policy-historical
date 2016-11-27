@@ -1,106 +1,117 @@
-> *The following text is extracted and transformed from the worio.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208233612id_/http%3A//blog.zite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worio.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127175500id_/https%3A//www.hover.com/privacy%3Fsource%3Dforsale) for the most accurate reproduction.*
 
-# Privacy Policy | Zite's blog
+# Domains and domain email made simple - Hover
 
-Thank you for visiting Zite, a site presented to you by Zite, Inc. (“Zite”). Your privacy is important to us. As such, we provide this privacy statement explaining our online information practices and the choices you can make about the way your information is collected and used at this general audience Zite site, and among Zite’s network of affiliated websites (“Turner Network”), which includes zite.com, cnn.com and any other sites or services owned, operated or offered by or on behalf of Zite, Turner Broadcasting System, Inc. or its affiliates.
+## Our Privacy and Data Collection Practices
 
-**The Information We Collect**
+Like most online businesses, Hover collects a lot of information on behalf of, and about our customers. We want to help our clients understand what data we collect, how we use the data we collect, who we share this data with, and how we secure and protect this data.
 
-At some Turner Network sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. In the course of these various offerings, we often seek to collect from you various forms of personal information. Examples of the types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
+The purpose of this document is to share these details with our customers and any else that is interested in these details.
 
-At some Turner Network sites, you may also be able to submit information about other people. For example, you might submit a person’s name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient’s name and address. Examples of the types of personally identifiable information that may be collected about other people at these pages include: recipient’s name, address, e-mail address, and telephone number.
+Whenever we refer to "Hover" in this document, we are referring to the domain registration services provided by Tucows.com Co. via the website hover.com. Tucows is a corporation, accredited by ICANN and under contract with the various domain registries to facilitate the registration and management of your domain names.
 
-At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site’s activities and offerings.
+We've tried really hard to keep this document simple and readable and if you have any suggestions concerning how we can improve it, please let us know.
 
-We, our service providers, advertisers and partners may collect various types of non-personally identifiable information when you visit any of our sites. A representative list of the types of non-personally identifiable information we may collect include: current Internet protocol address and type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS), the domain name of your Internet service provider (e.g., Comcast, Verizon or AT&T), the web pages you have visited, sites visited before and after you visit a site on the Turner Network, the type of handheld or mobile device used to view the site (e.g., iPhone, Blackberry), location information, the content you have accessed and the advertisements you have been shown and/or clicked on.
+## Account Information
 
-You also can engage with our content, such as video, games, applications, and other offerings, on or through third-party social networking sites, such as Facebook, and Turner Network or third-party social media plug-ins and applications. When you engage with our content on or through third party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the ‘likes’ you make) to deliver the content or as part of the operation of the application. We may also obtain non-personally identifiable information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on) from your interaction with our content.
+When you purchase services from Hover, we create an account for you. This makes it easier for you to track and manage your purchases with us. For the purpose of creating your account, we collect what we call "account data" and "registration contact data".
 
-When you provide information from your social media account, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our applications or websites, and (3) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards. By doing so, you consent to the use of this information in accordance with our privacy policy. When you provide personal information to us through an application, on our sites, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties.
+Account data includes:
 
-Through some social networking sites’ privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their privacy policies and terms of use.
+  
 
-**How We Use the Information**
 
-We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, to offer you other products, programs or services that we believe may be of interest to you, to enforce the legal terms that govern your use of our sites, and/or for the purposes for which you provided the information.
+• the name of the account holder;
 
-We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our terms of service, to fulfill a request by you for an online newsletter, or to contact you about your account with us.  
-We use the information that you provide about others to enable us to send them your gifts or cards or emails you may wish to send them from our sites, and for such other purposes as may be stated at the point where the information is collected.
+• the mailing address of the account holder;
 
-The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
+• a primary and secondary email address associated with the account holder and any other individual that the account holder wishes to designate;
 
-If you choose to submit content for publication (e.g., a letter to our editors, comments sent to our television personalities, a posting to a blog or a discussion board, a video), we may publish your screen name and other information you have provided to us. We may on occasion combine information we collect through our sites with information that we collect from other sources. Without limiting the generality of the foregoing, if you register and create a profile with our site, the screen name you select as well as other content you submit to your profile (e.g., photos, comments, video, reviews) will be displayed publicly on the Site and may be reused and redistributed by us in our discretion. 
+• a credit card number, expiry and verification code;
 
-We use the non-personally identifiable information that we collect to improve the design and content of our sites, to deliver more relevant marketing messages and advertisements and to enable us to personalize your Internet experience. We also may use this information to analyze usage of our sites, as well as to offer you products, programs, or services.
+Registration contact data includes:
 
-**Information Sharing and Disclosure**
+  
 
-We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency’s request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to verify or enforce compliance with the policies governing our sites and applicable laws or as otherwise required or permitted by law or consistent with legal requirements.
 
-In addition, we may transfer personally identifiable information about you if we, or one of our business units, are acquired by, sold to, merged with or otherwise transferred to another entity.
+• the name of the owner and administrative contact(s)
 
-Our agents and contractors who have access to personally identifiable information are required to protect this information in a manner that is consistent with this privacy statement and are not authorized to use the information for any purpose other than to carry out the services they are performing for us.
+• the address of the owner and administrative contact(s)
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this privacy statement.
+• the phone number of the owner and administrative contact(s)
 
-We may disclose personally identifiable information to third parties whose practices are not covered by this privacy statement (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a Turner Network site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses either at the point of submission of your personally identifiable information or prior to any such disclosure.
+• the email address for the owner and administrative contact(s)
 
-If you have signed up to receive our e-mails and prefer not to receive marketing information from this site, follow the “unsubscribe” instructions provided on any marketing e-mail you receive from this site.
+## Our use of your account data
 
-To provide visitors with additional or more relevant product and service opportunities, we may share non-personally identifiable information with third parties.
+Hover only uses account data for the purpose of facilitating the management of your account and billing for your purchases.
 
-**Cookies & Web Beacons  
-**
+We share this data programmatically with Mailchimp for the purpose of sending your notifications and updates about our services and Paypal, for the purpose of billing your credit card.
 
-To enhance your online experience, we use “cookies” or similar technologies. Cookies are text files placed in your computer’s browser to store your preferences. Cookies do not contain personally identifiable information; however, once you choose to furnish a site with personally identifiable information, this information may be linked to the data stored in the cookie.
+Hover relies on tokens generated by Paypal to trigger billable events. Hover retains the last 4 digits of the credit card, the type of credit card and the name associated with the credit card for internal tracking and audit purposes. The data is stored securely and is not useable for any billing or charging purposes.
 
-We use cookies to understand site and Internet usage and to improve or customize the content, offerings or advertisements on our sites. For example, we may use cookies to personalize your experience at our sites (e.g., to recognize you by name when you return to a site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to help us offer you products, programs, or services that may be of interest to you and to deliver relevant advertising.
+Hover shares your name, email address and demographic information with Mailchimp for the purpose of sending you various notifications related to your account. You may choose which notifications you receive under the Settings link in your Hover account management tools. Neither Paypal nor Mailchimp may ever use your data for their own purposes without our explicit consent or notice to us.
 
-We, our third party service providers, advertisers or our partners also may use cookies to manage and measure the performance of advertisements displayed on or delivered by or through the Turner Network and/or other networks or sites. This also helps us, our service providers and partners provide more relevant advertising. For more information regarding third-party ad servers, see “Collection of Information by Third-Party Sites, Ad Servers, and Sponsors” below.
+Hover may share your account data with law enforcement agencies on a case-by-case basis. We may or may not notify you if this happens, depending on the circumstances. Hover may also share your account data with a third party under order from a court of competent jurisdiction related to a lawsuit or investigation. Again, we evaluate these requests on a case-by-case basis and we may or may not notify you if this happens.
 
-The Adobe Flash Player is a powerful application and web tool that allows rapid development of highly dynamic content. Sites on the Turner Network employ locally stored objects (sometimes referred to as “Flash cookies”) in certain situations where we use Flash to provide special content such as video on demand, video clips or animation. Flash (and similar applications) use this technology to remember settings, preferences and usage similar to browser cookies but Flash cookies are not managed through your web browser. You can access your Flash management tools from [Adobe’s website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html "Adobe's website") directly. 
+We may use your account data to contact you concerning a dispute related to your account, or for verification purposes to make sure no one else is accessing your account.
 
-We, our third party service providers, advertiser or our partners may also use “web beacons” or clear .gifs, or similar technologies, which are small pieces of code placed on a web page, to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons may be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.
+Hover does not share your account data with any other parties for any other reasons.
 
-You can change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered at Turner Network sites. Please consult the “Help” section of your browser for more information.
+## Our use of your registration data
 
-**Collection of Information by Third-Party Sites, Ad Servers, and Sponsors  
-**
+Hover only ever uses your registration data for the purpose of facilitating the registration, management and transfer of the domain names you register with Hover. Hover shares your registration data with the registry that manages the TLD you are registering in, for example, Verisign, CIRA, Nominet and others. Hover is also required by ICANN to escrow your registration data with Iron Mountain. They are not permitted to use this data, except to disclose it to ICANN in the event that Hover ceases to be a domain registrar.
 
-Some of our sites contain links to or integrations with other sites such as Facebook, Twitter, LinkedIn, etc., whose information practices may be different than ours. Visitors should consult the other sites’ privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
+ICANN requires that we verify the accuracy of the registration data you provide us on at least an annual basis. We use the email address associated with the Administrative Contact for the domain registration in question for this purpose. Hover sends this email to the Administrative Contact directly and does not use a third party service to facilitate this mailing.
 
-Turner Network sites covered by this privacy statement may offer content (e.g., contests, sweepstakes, promotions, games, applications, or social network integrations) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. We have no control over these third parties’ use of this information. The site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
+We may use your registration data to contact you concerning a dispute related to your domain name, or for verification purposes to make sure no one else is accessing your domain.
 
-We also use the services of reputable third parties to provide us with data collection, reporting, ad response measurement, and site analytics, as well as to assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit or set their own cookies. We, our third party service providers, advertisers and/or partners may also place web beacons for these third parties. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this privacy statement. 
+We never sell this information.
 
-**International Transfer  
-**  
-Zite operates globally so it is necessary to transfer your information internationally. In particular, your information will likely be transferred to and processed in the United States where many of our central databases operate. The data protection and other laws of other countries, such as the United States, may not be as comprehensive as those in your country. Please be assured that we take reasonable steps to ensure that your privacy is protected. By using this site you consent to your information being collected, used and transferred as set forth in this privacy statement.
+## WHOIS
 
-**Our Commitment to Security  
-**  
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, to maintain data security, and to use correctly the information we collect online.
+Hover is required by most domain registries and ICANN to publish your registration data in a publicly accessible database called "Whois".
 
-**How You Can Access or Correct Information  
-**
+Whois is a publicly accessible database that publishes the contact information associated with domain name registrants. In most cases you may choose not to have your contact information published in the WHOIS. Some top-level domains, like .US and others, may not allow you to opt-out of publication.
 
-Access to personally identifiable information that is collected from our sites and that we maintain may be available to you. For example, if you created a password-protected account within our site, you can access that account to review the information you provided.
+Many Registries allow for the use of WHOIS Privacy services, but many others do not. Support (or lack of support for) WHOIS Privacy is noted during the checkout process, and also noted in the Hover dashboard when viewing the details for each domain you own.
 
-You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, e-mail address and the password you use for such service.
+[This tutorial](https://help.hover.com/entries/21196313) can help you with controlling the publication of your information in WHOIS.
 
-Zite, Inc.  
-Attention: Privacy  
-487 Bryant St  
-Floor 2  
-San Francisco, CA 94107  
-email: feedback@zite.com
+It may be useful to note that the term "Whois Privacy" is a term common in the domain industry to denote services that help you keep your personal information out of the Whois database. It is also important to know that Hover doesn't guarantee any level of privacy associated with the use of this feature.
 
-**How to Contact Us**
+Your personal information is still known to the registries and the people who work here and to anyone who may view your Whois information should you ever disable this function on your domain name(s). It should not be viewed as an "Registration Anonymizing" service in any way.
 
-If you have any questions or concerns about the online privacy statement for this site or its implementation you may contact us at feedback@zite.com.
+## Domain Search Information
 
-**Updates & Effective Date**
+When you search for a domain name to register, you provide us with search terms and phrases that we compare to the lists of domain names that are available for registration and display the results to you.
 
-From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by sending an email message to the email address you most recently provided to us or by prominently posting a notice on our site. We encourage you to periodically check back and review this statement so that you always will know what information we collect, how we use it, and with whom we share it.
+We never sell the search information you provide to us.
 
-The Privacy Statement posted on this site was updated on April 9th, 2013.
+We use this information solely to help you find a suitable domain name to register and to improve the relevancy of our search results. We do not use it for any other purposes. We may provide it to law enforcement agencies if they request it pursuant to appropriate due process.
+
+## Customer Service Information
+
+We use a third party service, Zendesk, to help us manage all of our customer service interactions. Any information you send to use via email is usually stored and tracked in our Zendesk system. We also use Zendesk to log information when you call us for assistance. None of this information is accessible by any third party other than Zendesk.
+
+When you call Hover Support via telephone, we will likely record and archive the conversation. If you don’t agree to this, please contact Hover Support through our online chat, email or other means as may be available at [help.hover.com](https://help.hover.com/).
+
+## Electronic Newsletters and Unsubscribe Policy
+
+When you signed up with Hover, you may have given us permission to send you news and announcements about our services. If you change your mind, you can unsubscribe from our mailing list at any time through the link we provide at the top and bottom of every mailer. You can also remove yourself from our mailing list by sending an email request to [help@hover.com](mailto:help@hover.com) or by giving us a phone call at 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm ).
+
+## Data Analytics
+
+We collect and aggregate data concerning how people use the website at [www.hover.com](http://www.hover.com/). Some of the data is associated with your Hover account and the domains you register with us, but is not personally identifiable to our analytics vendors. Data collected helps us understand how people use our website so that we can improve it. We use a variety of third party services to help us collect and analyze this data, including Google Analytics and Mouseflow.
+
+From time to time, we may use other services in addition to these, either to evaluate their effectiveness for long-term use, or to gather information about a very specific question we have. If you ever have any questions about which third party services we are currently using, please don't hesitate to ask us. Any services we have made a long-term commitment to will always be listed here.
+
+## Surveys
+
+Occasionally, we send out surveys intended to help us better understand how you use our services and how we can improve them. We never sell the information collected through these surveys.
+
+Hover uses Delighted, a third-party service, to facilitate sending and collection of customer satisfaction surveys. Data collected by Delighted is used only by Hover, and not shared with any other third-parties.
+
+## How to contact us
+
+Phone: 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm)
