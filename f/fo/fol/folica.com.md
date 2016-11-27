@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the folica.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625113607id_/http%3A//www.folica.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the folica.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127142329id_/http%3A//www.folica.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Folica.com - The best selection of hair care, flat irons and hair styling products anywhere
 
@@ -8,11 +8,11 @@ Folica, Inc. ("Folica") owns and operates this web site, Folica.com ("Web Site")
 
 Note: You must be 18 years or older to use, subscribe or register as a member of Folica.com. The Web Site is a general audience site and we do not knowingly collect, maintain or disclose personal information from or about children under the age of 13. If Folica becomes aware that a child under 13 has provided personally identifiable information, we will take reasonable steps to remove such information and terminate the respective account.
 
-### Why do we gather information?
+## Why do we gather information?
 
 Folica.com gathers personal information to help improve our products and customer service, to communicate with you, to process your orders, to provide you with an enhanced and more personalized shopping experience, and to inform you of special offers and discounts from us and selected third parties.
 
-### What information do we gather?
+## What information do we gather?
 
 We collect information through our Web Site, emails, mail, fax, and telephone, including when you:
 
@@ -40,13 +40,13 @@ Upon completing a purchase with Folica, a customer is automatically opted in for
 
 When you use the Ratings & Reviews or the Question & Answer services you will become a registered user (if you aren’t already one) and any personal information you submit will become part of your profile, as maintained by Folica.
 
-### Social Media
+## Social Media
 
 Folica invites you to socialize and share your hair care finds and purchases with your friends using Social Media tools such as Facebook, Twitter, Pinterest and Instagram. If you choose to use these tools, you may be sharing certain profile elements, including your comments. This sharing is subject to each social media program's privacy policies. We also use Facebook Social Plugins to allow Facebook to share information and friends' activities with its members while they are on our website. For example, Social Plugins allow Facebook to show you and your friends' "Likes" on our product pages if you are logged into Facebook while shopping at Folica com. Folica does not receive or control any of the content from Facebook Social Plugins. For more information about Facebook Social Plugins and other social media tools, click this [link](https://developers.facebook.com/docs/plugins/). 
 
 We may allow you to sign in to your Folica.com account using your social media account. If you choose to do this, we may collect information necessary to facilitate social interactions such as friend lists, birthday, check-ins, basic profile information and your profile picture but only if the privacy settings you and your friends set within your account allow it. We will use the information we collect to create and facilitate an interactive social experience and to bring you products, services and programs from Folica.com . Folica.com will always comply both with its privacy policy as well as with terms and conditions regarding use of your social media profile information. 
 
-### How we use "Cookies" and "Action Tags".
+## How we use "Cookies" and "Action Tags".
 
 A "cookie" is a small data file sent to your browser from a web server and stored on your computer. We use cookies to let us know that you are a prior customer, user or Member and to provide certain features to you. Most web browsers allow you to instruct the browser to prevent the use of cookies. However, if you disable this feature, certain aspects of Folica.com Web Site, such as the cart, may not function properly.
 
@@ -54,7 +54,7 @@ We have relationships with third parties who may receive non-personal informatio
 
 Our Web Site also uses a common web technology called "action tags" (also called single pixel gifs or web beacons) to anonymously track purchase, usage and other web activity information. Action tags (including third party tags) may be used to provide data to third parties for tracking purposes. However, our Web Site does not currently use action tags to collect or transfer personal information.
 
-### Interest-based advertising
+## Interest-based advertising
 
 ### Other websites
 
@@ -66,7 +66,7 @@ We do not control such third party websites or services on which these advertise
 
 In addition, from time-to-time, our Web Site may also carry advertisements from other companies. Some of these advertisements may be personalized, meaning that they are intended to be relevant to you based, for example, on commercial interests you have expressed during your online activities. You may opt-out of receiving this type of targeted advertising by visiting http://www.networkadvertising.org/managing/opt_out.asp to learn more about online behavioral advertising and how to opt-out from interest-based advertising ads served by some or all participating companies. Once again, if you opt-out, you will still receive advertisements, but they will not be delivered to you based upon your behavioral data possessed by the companies from whom you have opted-out. This process relies upon an opt-out cookie, so if you delete your cookies or use a different computer, you will have to repeat this process.
 
-### How we use the information we collect
+## How we use the information we collect
 
 We use information we collect to communicate with you, to process your orders, to provide you with an enhanced and more personalized shopping experience, to inform you and of offers and discounts from Folica.com, and to enable you to receive credits for purchases under loyalty or buying programs which you have joined. We may engage email and other service providers in connection with the foregoing, and you consent to having the information we collect transferred to them for that purpose. Our service providers have agreed to treat such information in a manner consistent with this Privacy Policy. In addition, we may make such information (except for credit/debit card number and expiration date, unless you consent otherwise), including aggregated information, available to selected third parties including, but not limited to, those who share or rent information for direct marketing purposes.
 
@@ -82,17 +82,17 @@ Please note that all information (including personal information) that you revea
 
 Folica may also transfer any and all information it collects for the Web Site (including personal information, registration data, e-mail addresses, purchase histories, traffic data and information from public forums) to any successor to all or substantially all of its business or assets related to the Web Site.
 
-### Consent to Transfer and Submission
+## Consent to Transfer and Submission
 
 Folica.com is operated in the United States. If you are located outside the United States, please be aware that any information you provide to us will be transferred to and stored in the United States. By using the Web Site or otherwise providing us with information, you hereby consent to this transfer.
 
 Although personal information collected by us through the Web Site, emails, mail, fax, and telephone is used by us in accordance with this Privacy Policy, laws generally applicable to the protection of personal data in the U.S. may not be as stringent as those in other countries.
 
-### Links to Other Web Sites
+## Links to Other Web Sites
 
 Folica.com wants you to be aware that when you click on links and/or ad banners that take you to affiliated or third-party web sites, you will be subject to the privacy policies and terms of use of those web sites, not ours. We encourage you to read the posted privacy statement and user terms whenever using, and prior to providing any personal information to, any other web site.
 
-### Security and Passwords
+## Security and Passwords
 
 If you place an order on our Web site, we encrypt the credit/debit card number you submit prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the Web Site is viewed using Microsoft Internet Explorer®, Google Chrome®, Mozilla Firefox®, and Apple Safari® browsers. However, no transmission of data over the Internet or any other network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard personal information once we receive it (including by complying with all Payment Card Industry (PCI) security requirements, we cannot guarantee the security of information we receive.
 
@@ -102,11 +102,11 @@ We may provide you with the ability to log into our service using a social media
 
 By identifying yourself through a social media account, Folica may obtain additional information about your corresponding profile (to the extent permitted by the terms, conditions and functions of that social media service).
 
-### How to Limit the Use of Personal Information
+## How to Limit the Use of Personal Information
 
 We want to communicate with you only to the extent you want to hear from us. If you prefer not to have personal information collected from you via the Web Site, emails, mail, fax, and telephone shared with third parties, or to set your preferences concerning promotional communications, please follow the directions below.
 
-### From Third Parties
+## From Third Parties
 
 We do not share email addresses you provide with third parties without your consent. In addition, if you prefer that other personal information provided by you not be shared with third parties, please let us know by emailing, writing or calling us as described below. Your instructions will be processed as soon as reasonably practicable and in accordance with law.
 
@@ -116,26 +116,25 @@ Writing us at:
 
 Customer Service Department
 
-Inventory Receiving/Returns:   
-Folica, Inc.  
-11 Corn Road, Suite B   
+Folica  
+11 Corn Road, Suite B  
 South Brunswick, NJ 08810 
 
 Telephoning us at 1-888-919-4247
 
-### From our Affiliates
+## From our Affiliates
 
 If you also prefer not to have us provide personal information about you to our Affiliates, please indicate in your email or letter that you wish your instructions to apply to our "Affiliates."
 
-### Corrections
+## Corrections
 
-If you would like to update or correct information previously provided to us, please send an e-mail with your new information, including your complete name, postal address, and email address to fcs@folica.com.
+If you would like to update or correct information previously provided to us, please send an e-mail with your new information, including your complete name, postal address, and email address to cs@folica.com.
 
 Members can modify and update their membership information (including name, mailing address, birth date, telephone number and email address) by accessing the password-protected "Your account page" page.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-### Your Consent and Changes to this Policy
+## Your Consent and Changes to this Policy
 
 Subject to the above provisions, by using our Web Site, you consent to the terms of this Privacy Policy. We may change our Privacy Policy from time to time as new features or services are added, suggestions from our customers are incorporated or other changes are made.
 
@@ -143,17 +142,16 @@ The date on which the current Privacy Policy took effect is listed at the top of
 
 By using folica.com after such changes take effect, you agree to be legally bound and to abide by the revised Privacy Policy.
 
-### Your Comments
+## Your Comments
 
 Folica.com wants to hear your feedback concerning this policy. Please send your comments and questions to fcs@folica.com or by writing us at:
 
 Customer Service Department
 
-Inventory Receiving/Returns:   
-Folica, Inc.  
-11 Corn Road, Suite B   
+Folica  
+11 Corn Road, Suite B  
 South Brunswick, NJ 08810 
 
-### Notification of Changes
+## Notification of Changes
 
 Folica reserves the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
