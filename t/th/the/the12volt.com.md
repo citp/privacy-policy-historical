@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324130730id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127051020id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -70,7 +70,6 @@ Forums
 [Forum Help & How To](http://www.the12volt.com/installbay/forum_topics.asp?fid=15 "Forum Help & How To's")  
 [Forum & Site Notices](http://www.the12volt.com/installbay/forum_topics.asp?fid=12 "Notices")  
 General Information  
-[Books & DVDs](http://www.the12volt.com/links/books.asp "Recommended Books and DVDs")  
 [Calculators](http://www.the12volt.com/info/diagrams.asp#cal "Index of Calculators")  
 [Charts](http://www.the12volt.com/info/diagrams.asp "Index of Charts")  
 [Diagrams](http://www.the12volt.com/info/diagrams.asp "Index of Diagrams")  
@@ -138,12 +137,12 @@ Third party advertisers may be placing and reading cookies on your browser, or w
 **Google and the[DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx):**  
 Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).   
   
+  
+  
+  
 | 
 
 | Search the12volt.com  
 ---  
   
-Custom Search   
-  
-| [](http://www.the12volt.com/) |   
----|---
+Custom Search 
