@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the art21.org privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602203003id_/http%3A//www.art21.org/about-art21/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the art21.org privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127103917id_/http%3A//www.art21.org/about-art21/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ART21
+# Privacy Policy | Art21
 
 Art21, Inc. (herein known as “ **Art21** ”) values the privacy of the users of the Art21 website, located at [www.art21.org](http://www.art21.org/ "www.art21.org") (herein known as “ **Art21 Site** ”). **Art21** does not collect personal information about you—such as name, address, phone number, or e-mail address—unless you voluntarily and knowingly provide it.
 
