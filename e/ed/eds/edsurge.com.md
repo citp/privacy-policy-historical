@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the edsurge.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531142749id_/http%3A//about.edsurge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edsurge.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127113632id_/http%3A//about.edsurge.com/privacy-policy) for the most accurate reproduction.*
 
 # EdSurge's Privacy Policy | About EdSurge
 
-This website is owned and operated by EdSurge, Inc. ("EdSurge" or "We"). We know you value your privacy. This Privacy Policy governs information we receive from you or about you and explains how we may collect, use, and in some instances share this information.
+This website is owned and operated by EdSurge, Inc. (“EdSurge” or “We”). We know you value your privacy. This Privacy Policy governs information we receive from you or about you and explains how we may collect, use, and in some instances share this information.
 
 **Information we collect and how we use it** In order to provide and enhance our website and services, we may collect the following types of information:
 
@@ -22,7 +22,7 @@ Most browsers are initially set up to accept cookies, but you can reset your bro
 
 **Use of aggregate information** \- We also may use your personal information without identifying you as an individual. This type of information is generally collected and analyzed for all users of our website and services to determine the overall, aggregate trends of and statistics about our users, not for the behaviors of individual users. For example, we may aggregate demographic data to help us improve and market the services we offer to users.
 
-We may disclose this non-personal aggregated user information to prospective partners and other third parties, as well as for other lawful purposes. This non-personal information is used by third parties to help us improve EdSurge's website and services.
+We may disclose this non-personal aggregated user information to prospective partners and other third parties, as well as for other lawful purposes. This non-personal information is used by third parties to help us improve EdSurge’s website and services.
 
 **User communications** \- When you send email or other communication to EdSurge or through our services, we may retain those communications in order to process your inquiries, respond to your requests, and improve our services.
 
@@ -34,7 +34,7 @@ However, where you make use of the communication features of the service to shar
 
 **Children**
 
-We do not knowingly request or collect personal information from anyone under the age of 13. EdSurge's website and its services are not intended for or designed to be used by anyone under 13 years of age. If you use our service, you represent that you are 13 years of age or older.
+We do not knowingly request or collect personal information from anyone under the age of 13. EdSurge’s website and its services are not intended for or designed to be used by anyone under 13 years of age. If you use our service, you represent that you are 13 years of age or older.
 
 We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.
 
@@ -42,15 +42,15 @@ We recommend that minors over the age of 13 ask their parents for permission bef
 
 We may provide information we receive from you to our subsidiaries, affiliated companies, or other trusted businesses or persons for the purpose of processing personal information on our behalf, facilitating our business, and for any other purposes identified above. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
 
-EdSurge may share personal information about site users with third parties if doing so is 1) appropriate to carry out a user's request, 2) reasonably necessary to offer the service, 3) reasonably believed to be legally required, or 4) is in EdSurge's interest to protect its property or other legal rights or the rights or property of others. EdSurge also shares non-personal information in anonymous aggregate form with third parties as discussed above.
+EdSurge may share personal information about site users with third parties if doing so is 1) appropriate to carry out a user’s request, 2) reasonably necessary to offer the service, 3) reasonably believed to be legally required, or 4) is in EdSurge’s interest to protect its property or other legal rights or the rights or property of others. EdSurge also shares non-personal information in anonymous aggregate form with third parties as discussed above.
 
 **Links**
 
-EdSurge's website or its services on other websites may contain links to non-EdSurge websites, such as to school or company webpages. We are not responsible for the privacy practices of other websites. We encourage our users to be aware when they leave our site to review the privacy terms of other websites that collect personal information.
+EdSurge’s website or its services on other websites may contain links to non-EdSurge websites, such as to school or company webpages. We are not responsible for the privacy practices of other websites. We encourage our users to be aware when they leave our site to review the privacy terms of other websites that collect personal information.
 
 **Merger, Sale, or Other Change of Control**
 
-If EdSurge should ever file for bankruptcy or have its assets sold to or merge with another entity, information EdSurge received from you through its website or through EdSurge's services on other websites is an EdSurge asset and may be transferred to another entity.
+If EdSurge should ever file for bankruptcy or have its assets sold to or merge with another entity, information EdSurge received from you through its website or through EdSurge’s services on other websites is an EdSurge asset and may be transferred to another entity.
 
 **International Visitors and Customers**
 
@@ -65,15 +65,15 @@ This website is hosted in the United States. If you are visiting from the Europe
 
 We use standard practices including secure server layer software (SSL) and firewalls to protect your personal information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of such firewalls and secure server software. We are not responsible for the circumvention of any privacy settings or security measures associated with our website or our services offered on other websites. No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems.
 
-If EdSurge learns of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using this website, or providing personal information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of this website and EdSurge's services on other websites. EdSurge may post a notice on our website if a security breach occurs, the viewing of which requires a web browser. In these circumstances, EdSurge may also send an email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at privacy@edsurge.com
+If EdSurge learns of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using this website, or providing personal information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of this website and EdSurge’s services on other websites. EdSurge may post a notice on our website if a security breach occurs, the viewing of which requires a web browser. In these circumstances, EdSurge may also send an email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at privacy@edsurge.com
 
 **Changes and Updates**
 
-We may occasionally update this Privacy Policy. When we do, we will also revise the "Effective Date" on the Privacy Policy. Non-material changes will take effect immediately. For changes to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will attempt to notify you when implementing the change. Material changes take effect within 30 days of being posted to the Privacy Policy. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the Personal Information we collect. Your use of EdSurge's website and EdSurge's services on other websites, as well as your continued use thereof following the posting of changes to the terms, constitutes your agreement to this Privacy Policy and any updates.
+We may occasionally update this Privacy Policy. When we do, we will also revise the “Effective Date” on the Privacy Policy. Non-material changes will take effect immediately. For changes to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will attempt to notify you when implementing the change. Material changes take effect within 30 days of being posted to the Privacy Policy. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the Personal Information we collect. Your use of EdSurge’s website and EdSurge’s services on other websites, as well as your continued use thereof following the posting of changes to the terms, constitutes your agreement to this Privacy Policy and any updates.
 
 **Terms of use**
 
-Your use of EdSurge's website and services on other websites, and any disputes arising therefrom, is subject to this Privacy Policy as well as our Terms of Use and use all dispute resolution provisions including arbitration, limitation on damages, and choice of law.
+Your use of EdSurge’s website and services on other websites, and any disputes arising therefrom, is subject to this Privacy Policy as well as our Terms of Use and use all dispute resolution provisions including arbitration, limitation on damages, and choice of law.
 
 **Contacting EdSurge**
 
@@ -81,7 +81,7 @@ If you have any questions about this Privacy Policy, please email us at privacy@
 
 1801 Murchison Dr Ste 220 Burlingame, CA 94010 Attention: Privacy Officer
 
-If you have a privacy concern regarding the use of data you have provided to EdSurge, or regarding this Privacy Policy generally, and you cannot satisfactorily resolve it through the use of EdSurge's website or EdSurge's services on other websites, please write to: privacy@edsurge.com. In the event that we are still unable to resolve your concerns, EdSurge is committed to cooperating to achieve a proper resolution of your privacy concerns.
+If you have a privacy concern regarding the use of data you have provided to EdSurge, or regarding this Privacy Policy generally, and you cannot satisfactorily resolve it through the use of EdSurge’s website or EdSurge’s services on other websites, please write to: privacy@edsurge.com. In the event that we are still unable to resolve your concerns, EdSurge is committed to cooperating to achieve a proper resolution of your privacy concerns.
 
 Effective Date: May 15, 2011
 
