@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the morevisibility.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607025503id_/http%3A//www.morevisibility.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morevisibility.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128000420id_/http%3A//www.morevisibility.com/privacy-policy) for the most accurate reproduction.*
 
 # MoreVisibility's Privacy Policy
 
 This is the web site of MoreVisibility, Inc.
 
 Our postal address is  
-925 So Federal Highway, Ste 750  
+925 South Federal Highway, Ste 750  
 Boca Raton, FL 33432
 
 We can be reached via e-mail at info@MoreVisibility.com or you can reach us by telephone at 561.620.9682
@@ -52,8 +52,3 @@ Upon request we offer visitors the ability to have inaccuracies corrected in con
 With respect to security: When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
-
-Read Less »
-
-  
-
