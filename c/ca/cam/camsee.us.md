@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the camsee.us privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620155829id_/http%3A//www.camsee.us/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camsee.us privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127144103id_/http%3A//www.camsee.us/privacy.html%3F) for the most accurate reproduction.*
 
-# camsee.us - Privacy Policy
+# Female Muscle Webcams Privacy Policy
 
 [Home](http://www.camsee.us/) / Privacy Policy
 
