@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelogofactory.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528001711id_/http%3A//www.thelogofactory.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelogofactory.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127133126id_/http%3A//www.thelogofactory.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies | The Logo Factory
 
