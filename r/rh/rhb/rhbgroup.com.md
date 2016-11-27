@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhbgroup.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506065006id_/http%3A//www.rhbgroup.com/general-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhbgroup.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127074334id_/http%3A//www.rhbgroup.com/general-info/privacy-policy) for the most accurate reproduction.*
 
 # Welcome to RHB Banking Group
 
@@ -43,41 +43,17 @@ We shall strive to ensure that security measures are exemplary and that all conf
 
   6. **Limit on Distribution of Information  
 **If you are a RHB Customer, you have the option of limiting or preventing distribution of information by notifying RHB in writing by post or facsimile transmission to the address and facsimile number as stated in our **[PDPA Privacy Notice](http://rhbgroup.com/general-info/personal-data-protection-act).**
+  
 
 
   7. **Accessibility and Accuracy of Information**  
 We strive to ensure that RHB Customer’s information is accurate and kept up to date. However, in order to ensure that your records are kept up to date, we encourage you to assist us by informing us in the event that your records require to be updated, are found to be incomplete or inaccurate in the manner indicated in our **[PDPA Privacy Notice](http://rhbgroup.com/general-info/personal-data-protection-act)**. You may also access your information in a similar manner. 
 
-If you are a Visitor, you also have the right to access and/or correct any of your information currently in our possession by contacting : 
+If you are a Visitor, you also have the right to access and/or correct any of your information currently in our possession by contacting :   
+Banking Services : +603 9206 8118  
+Investment Services : +603 2071 9000  
+Insurance Services : +603 2180 3000
 
-For inquiries related to Internet Banking, including technical support | +603-9206 8228  
----|---  
-For inquiries related to Easy | 1-300-22-EASY(3279)  
-For Insurance inquiries | 1-300-220-007  
-+603-2180 3000  
-For Auto Finance, Asset Based Financing and Leasing products | 1-300-888-742  
-For all other inquiries: 
-    * Report lost or stop cheque
-    * Report lost or stolen ATM card
-    * Report lost or stolen credit card
-    * Credit card services including inquiries
-    * about redemption points and payment due
-    * Application status inquiries
-    * Account balances
-    * General product information
-    * Interest Rates and Foreign Currency Notes Rates
-    * Complaint/feedback
-| +603-9206 8118  
-For East Malaysia, we are available daily from 7am-7pm daily | 082-276118  
-For Brunei | 
-
-+673 2222515   
-  
-For Online Trading | 
-
-1-300-888-675  
-+603-2071 9000   
-  
 
 
   8. **Customer Questions or Complaints  
@@ -102,33 +78,15 @@ Email : [customer.service@rhbgroup.com](mailto:customer.service@rhbgroup.com)
   
 
 
-[](http://www.rhbgroup.com/#)
+  1. RHB 
+  2. Malaysia 
+  3. General Info 
+  4. Privacy Policy 
 
-For inquiries related to Internet Banking, including technical support | 03-9206 8228  
----|---  
-For inquiries related to Easy | 1-300-22-EASY(3279)  
-For Insurance inquiries | 1-300-220-007  
-03-2180 3000  
-For Auto Finance, Asset Based Financing and Leasing products | 1-300-888-742  
-For all other inquiries: 
 
-  * Report lost or stop cheque
-  * Report lost or stolen ATM card
-  * Report lost or stolen credit card
-  * Credit card services including inquiries
-  * about redemption points and payment due
-  * Application status inquiries
-  * Account balances
-  * General product information
-  * Interest Rates and Foreign Currency Notes Rates
-  * Complaint/feedback
 
-| 03-9206 8118  
-For East Malaysia, we are available daily from 7am-7pm daily | 082-276118  
-For Brunei | 
+[](http://rhbgroup.com/#)
 
-+673 2222515   
-  
 You are about to enter a third party website and RHB Banking Group's privacy policy will cease to apply.
 
 This link is provided for your convenience only, and shall not be considered or construed as an endorsement or verification of such linked website or its contents by RHB Banking Group.
