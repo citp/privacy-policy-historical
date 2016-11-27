@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiuniv.edu privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518013451id_/http%3A//www.aiuniv.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiuniv.edu privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127221036id_/http%3A//www.aiuniv.edu/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | AIU
 
@@ -83,4 +83,4 @@ Phone: [847-781-3600](tel:8477813600)
 
 
 Don't forget:  
-Classes start June 6th!
+Classes Start January 11, 2017
