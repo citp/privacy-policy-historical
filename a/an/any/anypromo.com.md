@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anypromo.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607140617id_/http%3A//www.anypromo.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anypromo.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127062721id_/http%3A//www.anypromo.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Promotional Products - AnyPromo
+# Privacy Policy - Use & Disclosure Info. - AnyPromo.com
 
 ## Overview
 
@@ -18,29 +18,29 @@ Chino, CA 91710
 
 This Privacy Policy will explain the following regarding use of our site: 
 
-1.  [What information does AnyPromo.com collect from you? ](https://web.archive.org/#whatinfo)
+1.  [What information does AnyPromo.com collect from you? ](https://web.archive.org/help/privacy-policy#whatinfo)
 
-2\.  [Where do we collect information from you and how do we use it?](https://web.archive.org/#wheredo)
+2\.  [Where do we collect information from you and how do we use it?](https://web.archive.org/help/privacy-policy#wheredo)
 
-3.  [Who is collecting your information?](https://web.archive.org/#whois)[ ](https://web.archive.org/#whois)
+3.  [Who is collecting your information?](https://web.archive.org/help/privacy-policy#whois)[ ](https://web.archive.org/help/privacy-policy#whois)
 
-4.  [With whom do we share your information?](https://web.archive.org/#withwhom)[ ](https://web.archive.org/#withwhom)
+4.  [With whom do we share your information?](https://web.archive.org/help/privacy-policy#withwhom)[ ](https://web.archive.org/help/privacy-policy#withwhom)
 
-5.  [How can you update or correct your Personally Identifiable Information?](https://web.archive.org/#howcan)[ ](https://web.archive.org/#howcan)
+5.  [How can you update or correct your Personally Identifiable Information?](https://web.archive.org/help/privacy-policy#howcan)[ ](https://web.archive.org/help/privacy-policy#howcan)
 
-6.  [What are your choices regarding collection, use, and distribution of your information?](https://web.archive.org/#whatare)[ ](https://web.archive.org/#whatare)
+6.  [What are your choices regarding collection, use, and distribution of your information?](https://web.archive.org/help/privacy-policy#whatare)[ ](https://web.archive.org/help/privacy-policy#whatare)
 
-7.  [What security precautions are in place to protect against the loss, misuse, or alteration of your information?](https://web.archive.org/#whatsecurity)[ ](https://web.archive.org/#whatsecurity)
+7.  [What security precautions are in place to protect against the loss, misuse, or alteration of your information?](https://web.archive.org/help/privacy-policy#whatsecurity)[ ](https://web.archive.org/help/privacy-policy#whatsecurity)
 
-8.  [A special note about children's privacy](https://web.archive.org/#aspecial)[ ](https://web.archive.org/#aspecial)
+8.  [A special note about children's privacy](https://web.archive.org/help/privacy-policy#aspecial)[ ](https://web.archive.org/help/privacy-policy#aspecial)
 
-9.  [AnyPromo.com and third-party use of "cookies" and "action tags."](https://web.archive.org/#useof)
+9.  [AnyPromo.com and third-party use of "cookies" and "action tags."](https://web.archive.org/help/privacy-policy#useof)
 
-10.[You should carefully review privacy policies of any third party sites accessible from AnyPromo.com](https://web.archive.org/#youshould)[ ](https://web.archive.org/#youshould)
+10.[You should carefully review privacy policies of any third party sites accessible from AnyPromo.com](https://web.archive.org/help/privacy-policy#youshould)[ ](https://web.archive.org/help/privacy-policy#youshould)
 
-11.[Contacting AnyPromo.com about privacy questions or concerns](https://web.archive.org/#contactingbuy)[ ](https://web.archive.org/#contactingbuy)
+11.[Contacting AnyPromo.com about privacy questions or concerns](https://web.archive.org/help/privacy-policy#contactingbuy)[ ](https://web.archive.org/help/privacy-policy#contactingbuy)
 
-12.[Privacy Policy changes](https://web.archive.org/#privacypolicy)
+12.[Privacy Policy changes](https://web.archive.org/help/privacy-policy#privacypolicy)
 
 * * *
 
