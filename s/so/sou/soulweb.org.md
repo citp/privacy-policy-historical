@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soulweb.org privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514203914id_/http%3A//soulweb.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soulweb.org privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128073622id_/http%3A//soulweb.org/privacy-policy) for the most accurate reproduction.*
 
 # Soulweb – Where Internet Marketing Meets Integrity Privacy Policy - Soulweb - Where Internet Marketing Meets Integrity
 
