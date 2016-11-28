@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcarthurglen.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518015015id_/http%3A//www.mcarthurglen.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcarthurglen.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128103140id_/http%3A//www.mcarthurglen.com/en/privacy-policy) for the most accurate reproduction.*
 
 # McArthurGlen Designer Outlets | Privacy Policy
 
