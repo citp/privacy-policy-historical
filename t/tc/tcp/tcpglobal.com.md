@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcpglobal.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520015104id_/http%3A//www.tcpglobal.com/Privacy_TCP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcpglobal.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128230422id_/http%3A//www.tcpglobal.com/Privacy_TCP) for the most accurate reproduction.*
 
 # Privacy
 
@@ -47,4 +47,4 @@ There are no global or regional regulatory or self-regulatory schemes applicable
 **Address** : 6695 Rasha Street, San Diego, CA  
 **Phone Number** : 858-909-2100  
 **Email address** : [click here](https://web.archive.org/s.nl/it.I/id.1/.f)  
-**URL** : [TCPGlobal.com](http://tcpglobal.com/)
+**URL** : [TCPGlobal.com](http://tcpglobal.com/?promocode=&promocodeaction=overwrite)
