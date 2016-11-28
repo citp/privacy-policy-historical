@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the streamup.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412103059id_/https%3A//streamup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamup.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128202704id_/https%3A//streamup.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Streamup
+# Privacy - Streamup
 
 Last updated July 2, 2013.
 
@@ -24,7 +24,7 @@ You can reset your web browser to refuse all cookies or to indicate when a cooki
 
 How to enable and disable cookies using your browser:
 
-### Google Chrome
+**Google Chrome**
 
   * Click the “Wrench” icon on the browser toolbar
   * Select “Settings”
@@ -37,7 +37,7 @@ How to enable and disable cookies using your browser:
 
 There are various levels of cookie enablement and disablement in Google Chrome. For more information on other cookie settings offered in Google Chrome, refer to the following page from Google: [http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
 
-### Microsoft Internet Explorer 6.0, 7.0, 8.0
+**Microsoft Internet Explorer 6.0, 7.0, 8.0**
 
   * Click on “Tools” at the top of your browser window and select “Internet options”
   * In the “Options” window navigate to the “Privacy” tab
@@ -48,7 +48,7 @@ There are various levels of cookie enablement and disablement in Google Chrome. 
 
 There are various levels of cookie enablement and disablement in Internet Explorer. For more information on other cookie settings offered in Internet Explorer, refer to the following page from Microsoft: <http://windows.microsoft.com/en-GB/windows-vista/Block-or-allow-cookies>
 
-### Mozilla Firefox
+**Mozilla Firefox**
 
   * Click on “Tools” at the browser menu and then select “Options”
   * Select the “Privacy” panel
@@ -59,7 +59,7 @@ There are various levels of cookie enablement and disablement in Internet Explor
 
 There are various levels of cookie enablement and disablement in Mozilla Firefox. For more information, refer to the following page from Mozilla: <http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies>
 
-### Safari on OSX
+**Safari on OSX**
 
   * Click on 'Safari' at the menu bar and select the 'Preferences' option
   * Click on 'Privacy'
