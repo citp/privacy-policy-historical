@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passwordunlocker.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331233153id_/http%3A//www.passwordunlocker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passwordunlocker.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128194410id_/http%3A//passwordunlocker.com/privacy.html) for the most accurate reproduction.*
 
 # Password Unlocker Privacy Policy
 
