@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the play-old-pc-games.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613091237id_/http%3A//www.play-old-pc-games.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play-old-pc-games.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129002015id_/http%3A//www.play-old-pc-games.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Play-Old-PC-Games.com privacy policy – Play Old PC Games
 
