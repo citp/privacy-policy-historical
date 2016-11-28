@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osboxes.org privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606161604id_/http%3A//www.osboxes.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osboxes.org privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128092213id_/http%3A//www.osboxes.org/privacy-policy) for the most accurate reproduction.*
 
 # OSboxes Privacy Policy
 
