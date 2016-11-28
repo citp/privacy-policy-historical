@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsmemorabilia.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316050702id_/http%3A//www.sportsmemorabilia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsmemorabilia.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128230221id_/http%3A//www.sportsmemorabilia.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Autographed Sports Memorabilia and Sports Collectibles at Home
 
