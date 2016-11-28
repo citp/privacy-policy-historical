@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andrewminalto.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611091844id_/http%3A//andrewminalto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andrewminalto.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128201432id_/http%3A//andrewminalto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AndrewMinalto.com
 
