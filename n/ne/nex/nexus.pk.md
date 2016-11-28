@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexus.pk privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520151911id_/http%3A//www.nexus.pk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexus.pk privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128182352id_/http%3A//nexus.pk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Nexus Technologies
 
