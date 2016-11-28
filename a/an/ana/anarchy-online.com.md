@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anarchy-online.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618124446id_/https%3A//www.funcom.com/corporate/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anarchy-online.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128101509id_/https%3A//www.funcom.com/corporate/privacy_policy) for the most accurate reproduction.*
 
 # funcom.com | Funcom Privacy Policy
 
