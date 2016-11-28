@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harmonixmusic.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424162725id_/http%3A//www.harmonixmusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmonixmusic.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129004049id_/http%3A//harmonixmusic.com/privacy) for the most accurate reproduction.*
 
 # Harmonix Music Systems
 
@@ -89,7 +89,7 @@ The Services and/or third parties may use "cookies", "web beacons" (also known a
 ### 4\. Opting-Out of Certain Uses of Your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).
 
     1. Opting-Out of Certain Uses of Personal Information.
-      1. In Connection with Marketing and Promotional Email and Offers. You may " _opt-out_ " of receiving marketing and promotional e-mails from us at any time by sending an email to [support@harmonixmusic.com ](https://web.archive.org/web/20160424162725id_/http://www.harmonixmusic.com/privacy/support@harmonixmusic.com)with " _Opt-Out_ " in the subject line.
+      1. In Connection with Marketing and Promotional Email and Offers. You may " _opt-out_ " of receiving marketing and promotional e-mails from us at any time by sending an email to [support@harmonixmusic.com ](https://web.archive.org/web/20161129004049id_/http://www.harmonixmusic.com/privacy/support@harmonixmusic.com)with " _Opt-Out_ " in the subject line.
       2. In Connection with Wireless Marketing Services. See " _Termination of Wireless Services by Users_ " under the " _Wireless Marketing Services and Associated Promotional Opportunities_ " Section for more information on how you may unsubscribe from receiving text messages.
       3. Certain Continuing Uses Regardless of Opt-Outs. However, even if you exercise your opt-out rights above, we, or our Affiliates, may continue to contact you for the other purposes of processing transactions that you have requested or to respond to inquiries that you have initiated, and for related maintenance and administrative purposes. 
     2. Opting-Out of Use of Certain Other Information Collected by Tracking Technologies.
