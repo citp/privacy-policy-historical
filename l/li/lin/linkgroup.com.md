@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkgroup.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519215251id_/http%3A//www.linkgroup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkgroup.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128151508id_/http%3A//linkgroup.com/privacy.html) for the most accurate reproduction.*
 
 # Link Group
 
@@ -76,4 +76,4 @@ Link may make changes to the Privacy Statement from time to time, without notice
 
 If you have any questions or if you would like to give us feedback or make a complaint about how we handle your information, contact us by phone on +61 1800 502 355 (free call within Australia), 9am–5pm (Sydney time) Monday to Friday (excluding public holidays); or by email to [privacy.officer@linkgroup.com](mailto:privacy.officer@linkgroup.com) or by mail to, the Privacy Officer, Link Group, Locked Bag A14, Sydney South NSW 1235.
 
-For a printable copy of the Privacy Policy, please [click here](https://web.archive.org/web/20160519215251id_/http%3A//www.linkgroup.com/docs/Link_Group_Privacy_Policy.pdf).
+For a printable copy of the Privacy Policy, please [click here](https://web.archive.org/web/20161128151508id_/http%3A//linkgroup.com/docs/Link_Group_Privacy_Policy.pdf).
