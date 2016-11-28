@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the synology.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006234705id_/https%3A//www.synology.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synology.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129000316id_/https%3A//www.synology.com/company/legal/privacy) for the most accurate reproduction.*
 
-# Legal - About Synology - Synology - Network Attached Storage (NAS)
+# Privacy - Legal | Synology Inc.
 
 ### Privacy
 
@@ -31,13 +31,12 @@ Your personal information that is collected by Synology Inc. may be used in the 
   * with your approval, to combine site-visitation data with your personal information in order to provide you with personalized content (if you decline permission, Synology Inc. will not provide you the personalized service and won't merge your personal information with site-visitation data);
   * to customize links or similar technologies to track e-mail links that you click when you sign up for a newsletter or agree to receive promotional e-mail;
   * to associate that information with your personal information in order to provide you more focused e-mail communications or purchase information (each e-mail communication includes an unsubscribe link allowing you to stop delivery of that type of communication);
-  * to offer individuals the ability to publicly display certain personal information, such as for a Synology Inc. partner who wishes to publish contact information as part of offering a business service (participation in such services is always optional);
   * to provide limited services on our behalf by other companies, such as Website hosting, packaging, mailing and delivering prizes, answering customer questions about products and services, and sending information about our products, special offers, and other services (only personal information they need to deliver the service will be provides to those companies, which information is required to be held in confidence and not used for any other purpose);
   * to disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Synology Inc. or the Site; (b) protect and defend the rights or property of Synology Inc. and its family of Websites; or (c) act in urgent circumstances to protect the personal safety of Synology Inc. employees or agents, users of Synology Inc. products or services, or members of the public. 
 
 
 
-Personal information collected on the Site may be stored and processed in the United States or any other country in which Synology Inc. or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country. Synology Inc. abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
+Personal information collected on the Site may be stored and processed in any country in which Synology Inc. or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country. Synology Inc. abides by the law and regulations applicable to the collection, use, transfer and retention of data by Synology Inc.
 
 ## Control of your Personal Information
 
@@ -77,17 +76,17 @@ If you choose not to register your Synology product with us, identifiable inform
   * Usage Sharing: if you agree to provide us with more information, your system will periodically report the following information regarding your usage of the Synology products system: 
     * The information of the disks installed in your system, including brand, model name, health, logs 
     * Volume and storage configuration of your Synology system. 
-    * The Synology DSM and package version. 
+    * The Synology DSM/SRM and package version. 
     * The services running on your system 
     * The information of external devices, including Wi-Fi adapters, DVB sticks, printers, UPS devices, DLNA players. 
-    * Users’ browsers to connect to DSM web interface 
+    * Users’ browsers to connect to DSM/SRM web interface 
     * IP camera information in Surveillance Station 
 
 
 
 ## Use of Synology Product Usage Information:
 
-The information collected from the Synology DSM helps us provide you with content, services and a more personalized experience based on information you provide. It also helps us better understand how Synology products are used and how we can improve our products in the future. No information collected from you or Synology system will be rent or sold to any third parties.
+The information collected from the Synology DSM/SRM helps us provide you with content, services and a more personalized experience based on information you provide. It also helps us better understand how Synology products are used and how we can improve our products in the future. No information collected from you or Synology system will be rent or sold to any third parties.
 
 ## Changes to this Statement
 
