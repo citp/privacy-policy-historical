@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resellrightsmastery.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331013609id_/http%3A//www.resellrightsmastery.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resellrightsmastery.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128030440id_/http%3A//www.resellrightsmastery.com/privacy.htm) for the most accurate reproduction.*
 
 # Edmund Loh's Resell Rights Mastery - Privacy Policy
 
