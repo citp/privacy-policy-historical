@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the interhome.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604153122id_/http%3A//www.interhome.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interhome.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129004917id_/http%3A//www.interhome.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Interhome
+
+**1.**  Interhome AG endeavour to protect your privacy and assure the confidentiality of your data. Interhome AG would like to inform you of what data we store, how we use it and what it means for you to use our personalised services.
 
 When logging on to our Internet offer we collect, process and use the IP address of your terminal as well as other information such as date, time, the called-up page and store this information. This data is not utilised except anonymously for statistical purposes and to optimise our Internet offers. We only store your personal data like name, physical and postal addresses, telephone number, fax number, eMail address etc. when you give them to us during a booking procedure.
 
