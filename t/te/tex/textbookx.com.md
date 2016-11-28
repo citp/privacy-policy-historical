@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the textbookx.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604172410id_/http%3A//www.textbookx.com/service/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textbookx.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129001949id_/http%3A//www.textbookx.com/service/privacy.php) for the most accurate reproduction.*
 
-# Buy and Sell New and Used College Textbooks
+# Customer Service Center
 
 Here are some steps we have taken to ensure your privacy
 
@@ -54,7 +54,7 @@ If a user wishes to subscribe to our newsletter, we ask for contact information 
 
 This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. When you place an order with us, you are using our secure e-commerce server and secure server software (SSL). This means that all of the information you enter is encrypted before we receive it. 
 
-If you have any questions about the security at our website, you can send an [e-mail.](https://web.archive.org/web/20160604172410id_/http%3A//www.textbookx.com/emailus.php)
+If you have any questions about the security at our website, you can send an [e-mail.](https://web.archive.org/web/20161129001949id_/http%3A//www.textbookx.com/emailus.php)
 
 ## Administrative Type Emails
 
