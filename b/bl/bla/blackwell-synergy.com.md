@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackwell-synergy.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618025839id_/http%3A//onlinelibrary.wiley.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackwell-synergy.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128111625id_/http%3A//onlinelibrary.wiley.com/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
