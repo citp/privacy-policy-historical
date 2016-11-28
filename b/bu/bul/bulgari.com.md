@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulgari.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618162030id_/http%3A//www.bulgari.com/int/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulgari.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128081101id_/http%3A//www.bulgari.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Bulgari | Privacy Policy
 
@@ -34,7 +34,7 @@ The policy is provided to all those who interact with the Web services accessibl
 
 This policy concerns all personal data collected and processed by Bulgari S.p.A. (hereinafter “Bulgari”) via the Site, with the exception of:
 
-\- Cookies: see the specific, extended policy regarding cookies at the following link: [extended cookies policy](https://web.archive.org/web/20160529132822id_/http://www.bulgari.com/en-us/cookie-management) as per Article 13 of legislative decree 196/03  
+\- Cookies: see the specific, extended policy regarding cookies at the following link: [extended cookies policy](https://web.archive.org/web/20161128081101id_/http://www.bulgari.com/en-us/privacy-policy/cookie-management) as per Article 13 of legislative decree 196/03  
 \- Data collected upon Site registration: for more information on the data collected and processed upon Site registration see the specific policy at the following link: (registrationpolicy) as per Article 13 of legislative decree 196/03
 
 The policy is valid only for the www.bulgari.com Site and not also for any other sites that may be accessed by the user via links.
