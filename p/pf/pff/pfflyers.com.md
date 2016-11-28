@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pfflyers.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322130906id_/http%3A//www.pfflyers.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfflyers.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128195003id_/http%3A//www.pfflyers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -94,7 +94,7 @@ Please note that if you decide to opt-out of all third-party transmissions of yo
 
 ## How can I access, update or delete "My Account" information?
 
-Accounts may be created during the ordering process. You can login to or manage your account by clicking the "My Account" link at the top of any page. After logging in, you will be able to modify your contact information, update your billing and shipping addresses, view past orders, or delete your account completely. For security purposes, credit card information is not saved with your account. Remember that you are responsible for protecting the user name and password for your account and, as set forth in the [Terms and Conditions](http://www.pfflyers.com/Terms-Conditions-of-Sale/terms,default,pg.html), you will be responsible for all activity occurring through the use of your user name and password.
+Accounts may be created during the ordering process. You can login to or manage your account by clicking the "My Account" link at the top of any page. After logging in, you will be able to modify your contact information, update your billing and shipping addresses, view past orders, or delete your account completely. For security purposes, credit card information is not saved with your account. Remember that you are responsible for protecting the user name and password for your account and, as set forth in the [Terms and Conditions](http://www.pfflyers.com/terms.html), you will be responsible for all activity occurring through the use of your user name and password.
 
 ## What if I have more questions about the PF Flyers Privacy Policy?
 
