@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the badlion.net privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401194610id_/http%3A//www.badlion.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badlion.net privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128143324id_/https%3A//www.badlion.net/privacy) for the most accurate reproduction.*
 
 # Competitive Minecraft PvP | Badlion Network
 
-This Privacy Policy governs the manner in which Badlion Network collects, uses, maintains and discloses information collected from users (each, a "User") of the www.badlion.net website ("Site"). This privacy policy applies to the Site and all products and services offered by Badlion Network.
+This Privacy Policy governs the manner in which Badlion Network (a software as a service created by Badlion, LLC) collects, uses, maintains and discloses information collected from users (each, a "User") of the www.badlion.net website ("Site"). This privacy policy applies to the Site and all products and services offered by Badlion Network [includes but not limited to Minecraft Servers, Email Support, Teamspeak, Discord, etc].
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users log onto our servers or utilize one of our services [including but not limited to Minecraft Servers, Email Support, Teamspeak, Discord, etc], when Users visit our site, register on the site, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site/Services. Users may be asked for, as appropriate, email address. Users may, however, visit our Site anonymously if they do not wish to disclose their email address and register for our Site. We will collect personal identification information automatically upon joining the Site or any our services including but not limited to Internet Protocol (IP) Address, user ids, usernames, cookies. Further information we collect based on user submission includes but is not limited to email addresses, addresses, zip codes, telephone numbers, user ids (for Site), passwords, billing and transaction information. Users can always refuse to supply personally identification information (except for the exceptions which are applied to all Users), except that it may prevent them from engaging in certain Site/Service related activities. Exceptions in which information is automatically gathered and you can not opt out of unless you choose not to use the Site/Services provided are based upon Internet Protocol (IP) Address information (which we use to gather information including but not limited to your geolocation, internet provider, connection type, etc), user ids (if utilizing a service).
 
 We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
@@ -12,6 +12,9 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 Badlion Network may collect and use Users personal information for the following purposes: 
 
+  * To enforce our rules found at www.badlion.net/wiki/rules
+  * To enforce bans on our Site/Services
+  * Creation of accounts
   * To improve customer service
   * Information you provide helps us respond to your customer service requests and support needs more efficiently.
   * To personalize user experience
@@ -36,18 +39,18 @@ Users may find advertising or other content on our Site that link to the sites a
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
-
 Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp. 
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-Badlion Network has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:   
 www.badlion.net   
 adam (at) badlion (dot) net 
+
+Badlion Network has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+Last Updated: May 18th 2016
