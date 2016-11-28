@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the allfreejewelrymaking.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622154012id_/http%3A//www.allfreejewelrymaking.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreejewelrymaking.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128223534id_/http%3A//www.allfreejewelrymaking.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllFreeJewelryMaking.com
 
 **Privacy Policy / Your California Privacy Rights**  
-Revised and posted as of June 14, 2016
+Revised and posted as of October 28, 2016
 
 Prime Publishing, LLC ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.
 
@@ -103,31 +103,30 @@ When you select "yes" next to an offer, we will transfer some or all of the info
 **Ad Serving Companies**  
 We may use third party ad networks or ad serving companies to serve advertisements on our websites. We pass information about you to these companies so that they can deliver targeted advertisements that they believe will be of interest to you. The information passed to these companies may include, but is not limited to, your IP address, e-mail address, name, mailing address, telephone number, date of birth, gender, and any other information you provide to us. Web pages that are served by these companies will state that they are "powered by" or "ads by" the applicable company and will contain a link to that company's privacy policy.
 
-  * Google, as a third party vendor, uses cookies to serve ads on our site.
-  * Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website or other websites.
+  * Google's use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads). Alternatively, you can opt out of a third-party vendor's use of cookies for personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info/choices/). See below for Canada and EU options.
 
 
 
 **Marketing Partners**  
 We may share, license or sell your information to third parties for various marketing purposes, including their online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs write to us.
 
+**Third Party Cookies**  
+Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.   These cookies contain no personally identifiable information.  The cookies may reflect demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form.  Our partners use this information to recognize you across different channels and platforms over time for advertising, analytics, attribution, and reporting purposes. Please [click here](http://www.youronlinechoices.com/uk/) to opt out of your data being used for these purposes. This link will direct you to our partner's opt-out center.
+
+**How You Can Control Third Party Advertising Cookies**  
+You can use [Ads Settings](http://www.google.com/ads/preferences/?hl=en) to manage the Google ads you see and opt out of interest-based ads. Even if you opt out of interest-based ads, you may still see ads based on factors such as your general location derived from your IP address, your browser type and recent, previous searches related to your current search.
+
+In the USA you can opt out of a third-party vendor's use of cookies for personalized advertising at [www.aboutads.info](http://www.aboutads.info/choices/), in Canada at <http://youradchoices.ca/choices>, or the EU-based [Your Online Choices](http://www.youronlinechoices.com/uk/your-ad-choices).
+
 **Data Enhancement/Appending/Validation**  
 We may use third party service providers to enhance our database with additional elements, including but not limited to age ranges present in your household, whether you own or rent a home, the length of time you have lived at your residence, whether you are a mail order buyer or responder, household income, and gender. Further, we may use third party service providers to append telephone numbers to other data points we have in our database. We also may use third party service providers to validate the data we have in our database.
 
 Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services.
 
-**Third Party Cookies**
+**Governmental Agencies or Other Companies**
 
-Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.   These cookies contain no personally identifiable information.  The cookies may reflect demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form.  Our partners use this information to recognize you across different channels and platforms over time for advertising, analytics, attribution, and reporting purposes. Please [click here](http://www.youronlinechoices.com/uk/) to opt out of your data being used for these purposes. This link will direct you to our partner's opt-out center.
-
-**How You Can Control Third Party Advertising Cookies**
-
-You can use [Ads Settings](http://www.google.com/ads/preferences/?hl=en) to manage the Google ads you see and opt out of interest-based ads. Even if you opt out of interest-based ads, you may still see ads based on factors such as your general location derived from your IP address, your browser type and recent, previous searches related to your current search.
-
-You can also manage many companies’ cookies used for online advertising at the US-based [aboutads.info choices](http://www.aboutads.info/choices/) page or the EU-based [Your Online Choices](http://www.youronlinechoices.com/uk/your-ad-choices).
-
-**Governmental Agencies or Other Companies**  
 We may share your information with law enforcement officials or governmental agencies: (1) in response to their request; (2) when permitted or required by law; or (3) to establish our compliance with applicable laws, rules, regulations, or guidelines.
 
 We may store and share your information with third parties for suppression or opt-out purposes.
