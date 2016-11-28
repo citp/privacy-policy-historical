@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vision-net.ie privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606192626id_/http%3A//www.vision-net.ie/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vision-net.ie privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128154221id_/http%3A//vision-net.ie/privacy.jsp) for the most accurate reproduction.*
 
 # Data Protection and Privacy - Irish Company Info - Vision-Net
 
@@ -47,7 +47,7 @@ Switching off cookies will still allow you to view the logged out sections on ou
 Type| Expiration| Description  
 ---|---|---  
 Session/Login Cookies| End of browser session| In order for our server to recognise a logged in user, a session cookie must be used. When a user first enters Vision-Net.ie, they are assigned a cookie which is then used to identify them throughout their session. The information passed does not contain or relate to any personal information.  
-Username Cookie| 31 days from last login| Many users prefer not to have to remember their username on a website, therefore by default we store the latest username in a cookie for successful logins. A checkbox is available on this [Vision-Net.ie login page ](https://web.archive.org/web/20160606192626id_/http%3A//www.vision-net.ie/loginNoFrame.jsp) to disable this particular cookie. Disabling this will still allow you to login, but it may affect your ability to automatically login from links within alert emails which we send to you.  
+Username Cookie| 31 days from last login| Many users prefer not to have to remember their username on a website, therefore by default we store the latest username in a cookie for successful logins. A checkbox is available on this [Vision-Net.ie login page ](https://web.archive.org/web/20161128154221id_/http%3A//vision-net.ie/loginNoFrame.jsp) to disable this particular cookie. Disabling this will still allow you to login, but it may affect your ability to automatically login from links within alert emails which we send to you.  
 Analytics Cookies| Maximum 2 years from set/update| These cookies are used to collect information about how visitors use our site, which we use to help improve it. The cookies collect information in an **anonymous** form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. We use one of the most frequently used suppliers for this.  
 Cookie cookie| 60 days from set/update| We provide an option to "Hide this message" about cookies, which itself requires a cookie. This cookie is only written to your computer if you click the "Hide this message" link.  
   
