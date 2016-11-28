@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the barafranca.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523092108id_/http%3A//barafranca.com/game-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barafranca.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128102034id_/http%3A//barafranca.com/game-privacy-policy.php) for the most accurate reproduction.*
 
 # Omerta - Massive multiplayer online text-based RPG gangster and mafia game
 
 **Omerta Game Limited Privacy Policy**
 
-Omerta Game Limited. ('We') are committed to protecting and respecting your privacy.
+Omerta Game Limited. ("We") are committed to protecting and respecting your privacy.
 
 This policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. For the purpose of any applicable data protection and privacy legislation, the data controller is Omerta Game Limited., at 161 High Street, HU11NQ Hull, E. Yorkshire, United Kingdom.
 
@@ -55,7 +55,7 @@ WHERE WE STORE YOUR PERSONAL DATA
 
 **
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ('EEA'). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
