@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecapitalcairo.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325145121id_/http%3A//thecapitalcairo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecapitalcairo.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128073751id_/http%3A//thecapitalcairo.com/privacy.html) for the most accurate reproduction.*
 
 # The Capital Cairo
 
