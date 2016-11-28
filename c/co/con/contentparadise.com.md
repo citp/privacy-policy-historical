@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentparadise.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620072703id_/http%3A//contentparadise.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentparadise.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128103840id_/http%3A//contentparadise.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -144,4 +144,4 @@ Last Updated: October 8, 2015.
 [](http://www.smithmicro.com/)Copyright © 2020 Smith Micro Inc.(NASDAQ: SMSI) All Rights Reserved. Content Paradise is   
 a trademark of Smith Micro Software. All other company and product names may be trademarks of their respective companies.
 
-.
+..
