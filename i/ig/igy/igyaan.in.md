@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the igyaan.in privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618151732id_/http%3A//www.igyaan.in/privacy-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igyaan.in privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128103243id_/http%3A//www.igyaan.in/privacy-disclaimer) for the most accurate reproduction.*
 
 # Privacy & Disclaimer | iGyaan Network
 
-Below is information regarding iGyaan Networks, which includes http://www.iGyaan Networks, http://Trendpolice.com, http://EBRepeat.com and http://AutoGyaan.com, commitment to protect the privacy of users and to ensure the integrity of the Internet.
+Below is information regarding iGyaan Networks, which includes http://www.iGyaan.in Networks, http://Trendpolice.com, http://EatBurpRepeat.com and http://www.AutoGyaan.com, commitment to protect the privacy of users and to ensure the integrity of the Internet.
 
 Internet user privacy is of paramount importance to iGyaan Network . The success of our business depends upon our ability to maintain the trust of our users. If for any reason you have concerns about our software or website’s privacy policies, please contact us. We are committed to ensuring that every user’s needs are addressed.
 
