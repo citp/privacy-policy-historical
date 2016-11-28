@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backgroundalert.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510212124id_/http%3A//backgroundalert.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backgroundalert.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128031336id_/http%3A//backgroundalert.com/privacy) for the most accurate reproduction.*
 
 # background checks: criminal, arrest, marriage/divorce, public records, court records
 
