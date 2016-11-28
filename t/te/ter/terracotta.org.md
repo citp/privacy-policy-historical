@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terracotta.org privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606001856id_/http%3A//terracotta.org/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terracotta.org privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128162649id_/http%3A//terracotta.org/legal) for the most accurate reproduction.*
 
 # Legal Copyright & Privacy | Terracotta
 
