@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsvrc.org privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605142133id_/http%3A//www.nsvrc.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsvrc.org privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128090102id_/http%3A//www.nsvrc.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Sexual Violence Resource Center (NSVRC)
 
