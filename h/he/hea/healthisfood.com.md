@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthisfood.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520075037id_/http%3A//www.healthisfood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthisfood.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128125338id_/http%3A//www.healthisfood.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Health And Foods
+# Privacy Policy | Health and Foods
 
 Visitor Notice  
 We will ask you when we need information that personally identifies you (Personal Information) or allows us to contact you. Generally this information is requested when you are asked to register and become a HealthisFood member in order to participate on the forums, enter into a contest, or opt-in our email newsletters. We use your Personal Information for four primary purposes:  
