@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the acumatica.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515175601id_/http%3A//www.acumatica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acumatica.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128143000id_/https%3A//www.acumatica.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Cloud ERP Software
-
-**Acumatica Privacy Statement**
+# Privacy Policy - Acumatica
 
 **Last Updated November 12, 2015**
 
@@ -24,7 +22,7 @@ There is a technology called “cookies” which can be used to provide tailored
 
 Although there has been debate over the privacy implications of cookies, it is important for Acumatica customers to know that cookies do not read your hard rive, nor can cookies be used to reveal new information about you that you have not elected to reveal.  Acumatica may also use cookies to log your activity on the site. Everything Acumatica learns from these logs will be used to enrich your experience on our site. It will help Acumatica understand what you like and don’t like, so Acumatica can focus its energies more effectively and provide you with better data.
 
-** ** **Security**
+**Security**
 
 Acumatica is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities.
 
@@ -42,6 +40,6 @@ We will occasionally update this privacy statement to reflect changes in our ser
 
 Acumatica welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us at:
 
-Acumatica Privacy, Acumatica, Inc., 4030 Lake Washington Blvd NE, Suite 100, Kirkland, WA 98033
+Acumatica Privacy, Acumatica, Inc., 11235 SE 6th Street Suite 140, Bellevue WA, 98004
 
-© 2015 Acumatica, Inc. All rights reserved.
+© 2016 Acumatica, Inc. All rights reserved.
