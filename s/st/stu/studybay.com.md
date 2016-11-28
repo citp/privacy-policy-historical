@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studybay.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404120045id_/http%3A//studybay.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studybay.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128024731id_/https%3A//studybay.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
