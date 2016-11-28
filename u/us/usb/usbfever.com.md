@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usbfever.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505082004id_/http%3A//usbfever.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usbfever.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128030502id_/http%3A//usbfever.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : USBFever.com - the accessory shop for all your handheld Electronics!
 
