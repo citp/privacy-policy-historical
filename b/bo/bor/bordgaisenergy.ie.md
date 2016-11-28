@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bordgaisenergy.ie privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530190104id_/http%3A//www.bordgaisenergy.ie/terms-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bordgaisenergy.ie privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128054728id_/http%3A//www.bordgaisenergy.ie/terms-and-privacy) for the most accurate reproduction.*
 
 # Bord Gáis Energy - Terms, Privacy & Cookies
 
@@ -204,8 +204,8 @@ Bord Gáis Energy, members of the Bord Gáis Energy group and/or agents acting o
 
 Please follow carefully the instructions below to ensure that your marketing preferences are respected.
 
-  * If you do not wish to be contacted by e-mail or text message with information about Bord Gáis Energy products and services which relate to the supply of natural gas, electricity or Home Team products, please exercise your right of opt-out as described below.
-  * If you do not wish to be contacted by post, telephone or in person with information about Bord Gáis Energy products or services, including those which may not relate to the supply of natural gas, please exercise your right of opt-out as described below.
+  * If you do not wish to be contacted by e-mail or text message with information about Bord Gáis Energy products and services which relate to the supply of natural gas, electricity or Home Team products, please exercise your right of opt-out as described in the Marketing Opt-out form section.
+  * If you do not wish to be contacted by post, telephone or in person with information about Bord Gáis Energy products or services, including those which may not relate to the supply of natural gas, please exercise your right of opt-out as described in the Marketing Opt-out form section.
 
 
 
@@ -225,30 +225,8 @@ Bord Gáis Energy, members of the Bord Gáis Energy group and/or agents acting o
 
 Please follow carefully the instructions below to ensure that your marketing preferences are respected. 
 
-  * If you do not wish to be contacted by e-mail or text message with information about Bord Gáis Energy products and services which relate to the supply of electricity, gas or Home Team products, please exercise your right of opt-out as described below.
-  * If you do not wish to be contacted by post, telephone or in person with information about Bord Gáis Energy products or services, including those which may not relate to the supply of electricity or gas, please exercise your right of opt-out as described below.
-
-
-
-##### How to exercise your right of opt-out
-
-When registering your marketing preferences with us, you are responsible for recording your preferences accurately. If you have multiple accounts with Bord Gáis Energy, you must ensure that your preferences are recorded accurately and inform us which accounts you wish to opt-out from.
-
-You can exercise your right of opt-out by either:
-
-  * Writing to us at:  
-Bord Gáis Energy  
-Data Protection Opt-Out  
-PO Box 10310  
-Freepost F4062  
-Dublin 1
-
-OR
-
-  * completing the opt-out Web Form below:
-
-**Please enable JavaScript in order to complete the opt-out Web Form**
-
+  * If you do not wish to be contacted by e-mail or text message with information about Bord Gáis Energy products and services which relate to the supply of electricity, gas or Home Team products, please exercise your right of opt-out as described in the Marketing Opt-out form section.
+  * If you do not wish to be contacted by post, telephone or in person with information about Bord Gáis Energy products or services, including those which may not relate to the supply of electricity or gas, please exercise your right of opt-out as described in the Marketing Opt-out form section.
 
 
 
@@ -276,8 +254,8 @@ Bord Gáis Energy, members of the Bord Gáis Energy group and/or agents acting o
 
 Please follow carefully the instructions below to ensure that your marketing preferences are respected.
 
-  * If you do not wish to be contacted by e-mail or text message with information about Bord Gáis Energy products and services which relate to the supply of natural gas or electricity, please exercise your right of opt-out as described below.
-  * If you do not wish to be contacted by post, telephone or in person with information about Bord Gáis Energy products or services, including those which may not relate to the supply of natural gas, please exercise your right of opt-out as described below.
+  * If you do not wish to be contacted by e-mail or text message with information about Bord Gáis Energy products and services which relate to the supply of natural gas or electricity, please exercise your right of opt-out as described in the Marketing Opt-out form section.
+  * If you do not wish to be contacted by post, telephone or in person with information about Bord Gáis Energy products or services, including those which may not relate to the supply of natural gas, please exercise your right of opt-out as described in the Marketing Opt-out form section.
 
 
 
@@ -305,7 +283,29 @@ Bord Gáis Energy, members of the Bord Gáis Energy group and/or agents acting o
 
 Please follow carefully the instructions below to ensure that your marketing preferences are respected.
 
-  * If you do not wish to be contacted by e-mail or text message with information about Bord Gáis Energy products and services which relate to the supply of natural gas or electricity, please exercise your right of opt-out as described below.
-  * If you do not wish to be contacted by post, telephone or in person with information about Bord Gáis Energy products or services, including those which may not relate to the supply of natural gas, please exercise your right of opt-out by writing to us at Bord Gáis Energy Data Protection Opt-Out, PO Box 10310, Freepost F4062, Dublin 1 (stating your name, address and account number) or completing the following form: Data Protection Opt-Out Form
+  * If you do not wish to be contacted by e-mail or text message with information about Bord Gáis Energy products and services which relate to the supply of natural gas or electricity, please exercise your right of opt-out as described in the Marketing Opt-out form section.
+  * If you do not wish to be contacted by post, telephone or in person with information about Bord Gáis Energy products or services, including those which may not relate to the supply of natural gas, please exercise your right of opt-out as described in the Marketing Opt-out form section.
+
+
+
+##### How to exercise your right of opt-out
+
+When registering your marketing preferences with us, you are responsible for recording your preferences accurately. If you have multiple accounts with Bord Gáis Energy, you must ensure that your preferences are recorded accurately and inform us which accounts you wish to opt-out from.
+
+You can exercise your right of opt-out by either:
+
+  * Writing to us at:  
+Bord Gáis Energy  
+Data Protection Opt-Out  
+PO Box 10310  
+Freepost F4062  
+Dublin 1
+
+OR
+
+  * completing the opt-out Web Form below:
+
+**Please enable JavaScript in order to complete the opt-out Web Form**
+
 
 
