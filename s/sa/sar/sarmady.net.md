@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarmady.net privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412035552id_/http%3A//www.sarmady.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarmady.net privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128103602id_/http%3A//www.sarmady.net/privacy.php) for the most accurate reproduction.*
 
 # Sarmady - Privacy Policy
 
@@ -70,5 +70,5 @@ Fax: (+202) 3749 2487
 
 Support E-mail: support@sarmady.net
 
-Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20160412035552id_/http%3A//www.sarmady.net/contactus.php).  
+Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20161128103602id_/http%3A//www.sarmady.net/contactus.php).  
 
