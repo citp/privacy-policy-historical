@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tricare.mil privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509131657id_/http%3A//tricare.mil/Privacy.aspx%3Futm_source%3Dsub-footer%26utm_medium%3Dorganic%26utm_campaign%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tricare.mil privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128235632id_/http%3A//www.tricare.mil/Privacy) for the most accurate reproduction.*
 
 # Privacy | TRICARE
 
@@ -26,6 +26,6 @@ Except for authorized law enforcement investigations, no other attempts are made
 
 Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1987 and the National Information Infrastructure Protection Act.
 
-If you have any questions or comments about the information presented here, please forward them via [Site Feedback](mailto:WebsiteFeedback@tma.osd.mil?subject=Website%20Feedback).
+If you have any questions or comments about the information presented here, please forward them via [Site Feedback](mailto:dha.ncr.comm.mbx.websitefeedback@mail.mil?subject=Website%20Feedback).
 
-Last Updated 2/10/2015
+Last Updated 7/12/2016
