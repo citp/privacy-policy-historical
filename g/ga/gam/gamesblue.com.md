@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesblue.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515090115id_/http%3A//www.gamesblue.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesblue.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128222521id_/http%3A//www.gamesblue.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
