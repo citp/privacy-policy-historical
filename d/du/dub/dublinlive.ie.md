@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dublinlive.ie privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609064048id_/http%3A//www.dublinlive.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublinlive.ie privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128080231id_/http%3A//www.dublinlive.ie/privacy-policy) for the most accurate reproduction.*
 
 # Dublin Live
-
-## Privacy Policy
 
 **IN RELATION TO ALL WEBSITES AND WEBSITE SERVICES OFFERED BY MGN LIMITED**
 
