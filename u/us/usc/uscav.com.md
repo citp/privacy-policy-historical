@@ -1,79 +1,63 @@
-> *The following text is extracted and transformed from the uscav.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509222244id_/http%3A//www.uscav.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscav.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128224120id_/http%3A//www.uscav.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Our Commitment to Privacy
+**Effective and Last Modified May 13, 2016.**
 
-At U.S. Cavalry, customer satisfaction is our goal. We are committed to ensuring your privacy as a customer.
+This Privacy Policy explains what information may be collected when you access this website, our agency or business specific websites, or any other website where we place this Privacy Policy ("Website") when you use any of our mobile, text, or other applications ("Applications"), or when you provide us with information in our stores, over the telephone, via mail or email, though promotions, by requesting our email newsletters, or via other communication channels ("Communications"). Depending on your activities when using or accessing our Website, Applications, or Communications (collectively, "Services"), you may from time-to-time be required to agree to additional terms and conditions. Please note that this Privacy Policy applies regardless of whether you use our Services via a computer, mobile device, or any other platform (collectively, your "Equipment").
 
-To better protect your privacy, we provide this policy explaining our online information practices and the choices you can make about the way your information is collected and used.
+## A. INFORMATION WE COLLECT
 
-To make this notice easy to find, we make it available on our home page and most of our other pages including those pages where personally identifiable information may be requested.
+**(1) Personally Identifiable Information:**  We collect only personally identifiable information that you provide us, such as your name, mail address, telephone number, email address, shipping and billing information (e.g. credit card number and expiration date), demographic history, past purchase history, and any other information that you may voluntarily provide.
 
-### The Information We Collect
+**(2) Non-Personally Identifiable Information:**  We also collect and record non-personally identifiable information, which is information that does not personally identify you. This information can include, among other things, the types of products ordered on the site, information on how many visits each page receives, user-specific information on what pages on the site were visited and for how long, the third party website from which your visit originated, and the page you visited after visiting our site. This also includes certain types of technical information such as your Internet protocol (IP) address, your mobile device, your wireless carrier, the type and version of browser you are using, the operating system you are using, the domain name of your Internet service provider, the search terms you use, how much you use our Services, download errors, page response times, and technical interaction information regarding scrolling, clicks, and other methods used to browse the site's pages.
 
-When placing an online order, requesting a catalog, or ordering a gift certificate, we collect the following information: name, company name (optional), address, phone number, e-mail address, gift message (if applicable), and credit card information. In cases where your order is being sent as a gift, we do collect the recipient's name, company name (optional), address, and phone number.
+## B. HOW WE USE AND SHARE THE INFORMATION COLLECTED
 
-When you send us an e-mail or use the form on the 'How to Contact Us' section of our Customer Service page or the 'Help Desk', we collect your name, e-mail address and e-mail content.
+**(1) Personally Identifiable Information:**  The personally identifiable information you submit to us is generally used to carry out your requests, respond to your inquiries, better serve you, modify areas that need to be improved upon, and customize your shopping experience. We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information for special offers or our products or for those of our parent company, subsidiaries, or other affiliated companies ("Affiliated Companies"), or to communicate with you about content or other information you have posted or shared with us via use of our Services. We may also use the information provided for billing and shipping purposes, for internal business and marketing purposes, and to monitor security. You may opt-out from receiving future promotional information from us or our Affiliated Companies, or direct that we not share your information with any Affiliated Companies, as set forth below.
 
-We do not collect names, email addresses, or any other information that you submit on our 'Refer UScav.com to a Friend' Page.
+In certain instances we may also share your personally identifiable information with third parties performing functions on our behalf (or on behalf of our Affiliated Companies). These functions may include but are not limited to directly or indirectly collecting your personally identifiable information, operating our website store/shop, processing credit card orders, delivering packages, administering our promotions, providing us marketing or promotional assistance, analyzing our data, generating and revising customer lists, and assisting us with customer service. In addition, we may share your personally identifiable information with participating sponsors or co-promotional partners to a program or promotion (e.g., a sweepstakes or contest) you enter via our Services and others with whom we have marketing or other relationships, including marketing cooperatives. Finally, we may share and/or use your personally identifiable information as disclosed by you at the time you provide us your personally identifiable information. Except as provided in this Privacy Policy or in our Terms of Use, your personally identifiable information will not be shared or sold to any third parties without your prior approval.
 
-We do not collect any personally identifiable information on our surveys, nor is the survey data that we do collect associated with any information you submit while placing an order with us.
+**(2) Non-Personally Identifiable Information:**  We may use your non-personally identifiable information to evaluate use of and improve our Services, for internal business or marketing purposes, or for any other business purpose. We may use your non-personally identifiable information by itself or aggregate it with information we have obtained from other customers or sources. We may, among other things, share your non-personally identifiable information with our Affiliated Companies or allow third parties to collect such information from you.
 
-### Online Advertising and Cookies
+## C. COOKIES AND PREFERENCE BASED ADVERTISING
 
-As part of an effort to show only the most relevant information to our customers, uscav.com uses Google AdWords Remarketing. When you visit our website, a "cookie" is placed on your computer to tell us which parts of our website were viewed.  **This cookie does not in any way identify you or give access to your computer** , all it does is give us anonymized information and says "this person visited this page, so show them ads relating to that page." Google AdWords Remarketing allows us to tailor our marketing to better suit your needs and only display ads that are relevant to you. If you do not wish to see ads from uscav.com you can opt out in several ways:
+**(1) Cookies and Web Beacons:**  We automatically receive and store certain types of non-personally identifiable information whenever you interact with us. For example, like many websites, we use "cookies" and "web beacons" to obtain certain types of information when your web browser or Equipment accesses our Website. "Cookies" are small files that we transfer to your Equipment's hard drive, memory, or web browser to enable our systems to recognize you and to provide convenience, customization, and other features to you. If you are concerned about the storage and use of cookies, you may be able to block or limit the storage of cookies via browser controls or other software. Please note, we do not promise that our Services will recognize or be able to work with any such browser controls or software. "Web beacons" are tiny graphics with a unique identifier, similar in function to cookies, and may be used to track the online movements of users, when an email has been opened, and to provide other information.
 
-  * Opt out of Google's use of cookies by visiting Google's [Ads Settings](http://www.google.com/settings/ads)
-  * Opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+**(2) Do Not Track Features:**  Certain browsers may offer you the option of providing notice to websites that you do not wish for your online activities to be tracked for preference based advertising purposes ("DNT Notice"). For a variety of other reasons, we do not take any action based on browser based DNT Notices.
 
+## D. OTHER USES AND INFORMATION
 
+**(1) Email Communications:**  If you send us an email with questions or comments, we may use your personally identifiable information to respond to your questions or comments, and we may save your questions or comments for future reference. For security reasons, we do not recommend that you send non-public personal information, such as passwords, social security numbers, or bank account information, to us by email. You may "opt out" of receiving future commercial email communications from us by clicking the "unsubscribe" link included at the bottom of most emails we send, or as provided below; provided, however, we reserve the right to send you transactional emails such as customer service communications.
 
-### Google Analytics Demographics and Interest Reports
+**(2) Transfer of Assets:**  As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or all (or substantially all) of our assets, the personally identifiable information and non-personally identifiable information we have about you will be transferred to and used by this acquiring entity, though we will take reasonable steps to ensure that your preferences are followed. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.
 
-To better understand our visitors, uscav.com has enabled the  _Demographics and Interest Reports_  feature of Google Analytics. This feature helps us segment our audiences to understand which products are relevant to our visitors. Among information collected are Age, Gender and Interest Categories.  **Please note that this information is NEVER merged with your personally identifiable account information.  **We can only view the grouped data which cannot be associated with any particular individual.
+**(3) Other:**  Regardless of any other provision in this Privacy Policy, we reserve the right to disclose any personally identifiable or non-personally identifiable information about you to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Services, or other users; or (d) protect, in an emergency, the health and safety of our customers or the general public. This includes exchanging information with third parties and organizations in connection with credit risk reduction and fraud protection.
 
-For better privacy controls, Google has created a [browser plugin](https://tools.google.com/dlpage/gaoptout/) to allow you to opt out of Google Analytics.
+## E. PUBLIC FORUMS AND LINKS
 
-### How We Use The Information
+We may offer chat rooms, blogs, message boards, bulletin boards, or similar public forums where you and other users of our Services can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personally identifiable information) in connection with your use of these public forums. We may use personally identifiable and non-personally identifiable information about you to identify you with a posting in a public forum. Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through public forums.
 
-Except as set forth in this policy, any personally identifiable information we collect from you is used solely for the purpose of fulfilling your order and in improving your overall shopping experience with us.  When you send us an e-mail or use the form on the 'How to Contact Us' section of our Customer Service page or the 'Help Desk', we use the information you submit to address particular questions and/or problems you may have with our web site or your order.
+## F. CHILDREN
 
-Furthermore, except as set forth in this policy, we do not sell or exchange e-mail addresses with third parties.  We occasionally make our list of names and mailing addresses (but not e-mail addresses) available to companies and organizations whose products and activities may be of interest to you. If you do not want your name and address shared with other organizations, or if you do not wish to receive U.S. Cavalry catalogs, simply contact us at 1-800-777-7172 or e-mail: service@ uscav.com.
+The features, programs, promotions, and other aspects of our Services requiring the submission of personally identifiable information are not intended for children. We do not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us, please contact us as described below.
 
-In an effort to offer you the best, and most current, shopping opportunities, we may contact you with news and/or special offers about our products and services only for those customers who voluntarily join our email lists. 
+## G. KEEPING YOUR INFORMATION SECURE
 
-If another entity acquires us or substantially all of our assets, the personally identifiable information and non-personally identifiable information we have about you will be transferred to and used by this acquiring entity.  Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be a considered an assets of ours and as such, may be sold or transferred to third parties.
+We have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse, and alteration of the information under our control. Such measures include authentication of our web servers by VeriSign, Secure Socket Layer (SSL) security software that encrypts your credit card and other sensitive information, industry standard firewall and anti-virus protection, maintenance of vendor security patches, and third party security scanning to assure we are up to widely accepted industry standards.
 
-If for any reason, you would like to be taken off of our preferred list, please contact us via e-mail at [nomail@uscav.com](mailto:nomail@uscav.com) and put NO USCAV.com NEWS in the Subject Line.
+Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online or through our Services, and are not responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information. In the unfortunate event that your personally identifiable information is compromised, we may notify you by email (at our sole and absolute discretion) to the last email address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. If you have any questions or concerns about the security of our Services, please email us at service@uscav.com.
 
-### How To Access Or Correct Your Information
+## H. OTHER SITES/LINKS
 
-At any time, you may review or update your personally identifiable information that we collect online and maintain by calling us at 1-800-777-7172 or by sending us an e-mail to service @ uscav.com.
+Our Services may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products we may recommend or reference via our Services and/or advertisements you may see while using our Services. We are not responsible for the privacy practices employed by any third party website, and we encourage you to read the privacy statements of all third party websites before submitting any personally identifiable information through these websites.
 
-To better protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections to your information.
+## I. CONTACT AND OPT-OUT INFORMATION
 
-### How To Contact Us
+You may contact us as at service@uscav.com if you: (a) have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided or that a child under the age of 13 for whom you are the parent or guardian may have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our Affiliated Companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with third parties. You may also call us at 866-286-1359 or write to us at 1340 Russell Cave Road, Lexington, KY 40505. You can also click on "My Account" on our homepage to view or update your personal information.
 
-Should you have any questions or concerns about these privacy and security policies, you can contact us by phone, e-mail, or in writing.
+When contacting us, please include your name, address, city, state, zip code, and phone number to ensure we can process the request. We will process your request promptly, but please note that you may receive additional contacts before your name removal or change takes effect. We also may not be able to fulfill some requests while allowing you access to certain benefits and features of our Services. We apologize for any inconvenience this may cause.
 
-To contact us:
+## J. MODIFICATIONS TO THIS PRIVACY POLICY
 
-by Phone: 1-800-777-7172  
-By Fax: 1-423-362-5013
-
-By Mail:
-
-U.S. Cavalry  
-1222 E. 38th Street  
-Chattanooga, TN. 37407
-
-By E-mail: service @ uscav.com
-
-### Safe and Secure Shopping
-
-We are aware that our customers have concerns regarding the use of credit cards over the Internet. We share your concern and have provided the ability to encrypt your transactions using our Secured Sockets Layer (SSL), ensuring that your ordering information remains private, protected, and secure. This means that your name, address, credit card numbers and any other information you provide through our SSL, cannot be read by anyone else.
-
-### Changes to This Policy
-
-We generally keep this policy posted on our website. You should review this policy frequently, as it may change from time to time without notice. Any changes will be effective immediately upon the posting of the revised policy. WHEN YOU USE OUR SERVICES, YOU AGREE TO THIS POLICY.  IF YOU DO NOT AGREE TO THIS POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP USING OUR SERVICES.
+We generally keep this Privacy Policy posted on our Website. You should review this Privacy Policy frequently, as it may change from time to time without notice. Any changes will be effective immediately upon the posting of the revised Privacy Policy. WHEN YOU USE OUR SERVICES, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP USING OUR SERVICES.
