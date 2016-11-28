@@ -1,73 +1,184 @@
-> *The following text is extracted and transformed from the skinnymom.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411012354id_/https%3A//www.skinnymom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnymom.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128180944id_/http%3A//www.skinnymom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Skinny Mom
 
-**1.   Our Commitment to Privacy**  
-We, Skinny Mom, LLC, being the owner and operator of the www.skinnymom.com website, respect the privacy of your information. This website is referred to in this Privacy Policy as “our website” or “our site”. We provide this explanation about our online information practices as a show of our commitment to protect your privacy.  
-We do not sell or rent personally-identifying information collected during your use of our website without your permission.  
-We will notify you at the time of data collection or transfer if your personally-identifying information will be shared with a third party. You will always have the option of not permitting the transfer by not using the particular services for which the information is collected or shared.
+## Last modified: 6/9/2015
 
-**2.   The Information We Collect**  
-At the time you register on our site, we may collect and store your name, email address, physical address, and other personally-identifying information. The user information we collect is categorized as follows:
+### Introduction
 
-  * Application Information — information that you provide to us through our website and through other means. Examples include your email address, physical address, zip code, and phone number.
-  * Transaction and Experience Information — information about your transactions with us, as well as information about our communications with you. Examples include your account history, requests for information, and our responses.
+FHT Media Holding, LLC d/b/a Womanista (the “Company” or “We”) respects your privacy and is committed to protecting it through our compliance with this policy.
 
+This policy describes the types of information we may collect through the websites, services and applications we make available to you, including Womanista (the “Website”), and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
+This policy applies to information we collect:
 
-We need this information to provide goods and services that you request from our website and to let you know of additional goods and services about which you might be interested. We also use this information to customize your experience using our website.  
-We may also share the information we collect about you with third parties from one or more of the following categories, but only to the extent authorized by you, necessary to provide the goods or services you request, or as required by law.
-
-  * Retailers
-  * Credit Card Companies
-  * Payment Processor Companies
-  * Banks
-  * Government Agencies
+  * on this Website;
+  * in e-mail, text and other electronic messages between you and this Website; or
+  * through mobile and desktop applications you download from this Website, which provide dedicated non-browser-based interaction between you and this Website.
 
 
 
-We may ask you for personally-identifying information at other times, such as if you enter into a promotion, post information, register for a forum, complete a survey, or otherwise communicate with us. If you opt-in to receive information regarding a promotion or other service offered by a third party, you give us your permission to share your name and email address with the third party offering the promotion or other service.
+It does not apply to information collected by:
 
-In addition, we automatically gather general statistical information about our website and visitors, such as IP addresses, browsers, pages viewed, number of visitors, goods and services purchased, etc., but in doing so we do not reference you by individual name, email address, home address, or telephone number. We use this data in the aggregate to determine how much our users use parts of our site so we can improve our site. We may provide this statistical information to third parties, but when we do so we do not provide personally-identifying information without your permission.
+  * us offline or through any other means, including on any other website operated by the Company or any third party (including our affiliates); or
+  * any third party (including our affiliates), including through any application or content (including advertising) that may link to or be accessible from the Website.
 
-As part of our service, we use cookies and beacons to store and sometimes track information about you. Some features of our site may be available only through the use of a cookie. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer’s hard drive. A beacon is a transparent graphic image placed on our website to monitor the behavior of a visitor to our website. Generally, we use cookies to remind us who you are and enable us to access your account information so you do not have to re-enter it. We use cookies and beacons to gather statistical information about usage by registered or unregistered users to research visiting patterns and to help target advertisements based on user interests; assist our retail partners track visits and process orders; and track progress and participation in promotions and other services. Preference and options configurations in your browser determine if and how a cookie or beacon will be accepted. You can change those configurations on your computer if you desire. By changing your preferences, you can accept all cookies, you can be notified when a cookie is sent, or you can reject all cookies. If you do so and cookies are disabled, you may be required to re-enter your information more often and certain features of our site may be unavailable. Disabling cookies will also prevent beacons from tracking your unique information when visiting our website.
 
-In addition, our retail partners, advertisers, and other third parties appearing at our site or linked to our site may use their own cookies and beacons and may collect personally-identifiable information, including credit card information, in connection with your use of their websites. The privacy policy of such third parties may differ from ours. We encourage you to read the third party’s privacy policy before responding to the offer to determine how the personally-identifiable information is used by that third party.
 
-Our site does not engage in the collection of personally identifiable information from users across third-party websites or third-party online services or applications, except as specified by you when you elect to register and login to our site, via certain third-party sites or applications, such as for example, Google+, Facebook, or Twitter. Aside from the foregoing, we do not knowingly enable other parties to collect personally identifiable information about our users’ activities over time and across different sites, applications or services. If your browser or similar mechanism gives our site a “do not track” signal, our site will make commercially reasonable attempts to honor your settings (although we still may deliver and use cookies and other tracking technologies for non-marketing purposes). However, we do not make any promises or guarantees about the effects of any “do not track” choice that you may make because: (a) such nuanced treatment is not necessarily available or effective for all browsers, mechanisms, or tracking technologies, and our commercially reasonable attempts to honor your settings or might not be effective to preclude tracking or behavioral advertising at all or over any particular period of time; (b) third parties may not honor your settings or our policies and may use cookies or other tracking technologies for behavioral advertising despite our commercially reasonable attempts to prevent them from doing so; and (c) tracking technologies, browsers, and access devices may change from time to time and our commercially reasonable attempts might not be effective for each technology or across all platforms.
+For purposes of this policy, Personal Information (as defined below) does not include persistent identifiers that can be used to recognize users over time and across different websites or online services.
 
-**3.   The Way We Use Information**  
-We use your personally-identifying information to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings, and to customize our site’s content, layout, and services.
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see “Changes to our Privacy Policy” below). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-We may use your information to deliver information to you that, in some cases, is targeted to your interests, such as articles, targeted banners, new services, advertisements, and promotions. You can opt out of receiving this information by so indicating in your registration/preferences file or otherwise notifying us in writing. We may ask you to provide us voluntarily with additional information regarding your personal or business interests, experience, or requests, which we may use to customize our services for you.
+Children Under the Age of 13
 
-We may use your email address, your mailing address, and phone number to contact you regarding administrative notices and communications relevant to your use of our site.
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any Personal Information to or on the Website. We do not knowingly collect Personal Information from children under 13. If you are under 13, do not register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received Personal Information from a child under 13 without verification of parental consent, we will delete that information.
 
-If you place a request for products or services, we use your information to deliver your order. Payments for products and services ordered from us through our site are handled by a third-party provider. This provider, as well as other providers, may collect additional information, including billing information, credit card number, expiration date, and security code, and tracking information from checks or money orders. If you obtain goods or services directly from one of our retail partners or service providers, we may exchange with the vendor personally-identified information about you for purposes of your transaction.
+We do use persistent identifiers to monitor Website traffic and usage patterns in order to support the internal operations of our Website and provide a better user experience. It is possible that we may collect some of this information from children under 13.
 
-We may also use or disclose information to resolve disputes, investigate problems, or enforce our Website User Agreement. At times, we may review the status or activity of multiple users to do so. We may disclose or access information whenever we believe in good faith that the law so requires or if we otherwise consider it necessary to do so to maintain service and improve our products and services.
+Parents can review or have deleted their child’s Personal Information and refuse to permit further collection or use of their child’s information. If you believe we might have any information from or about a child under 13 and/or wish to exercise the rights of parents described in the previous sentence, please contact us at:
 
-We use your IP address to help diagnose problems with our server, to manage our website, and to enhance our site based on the usage pattern data we receive.
+Womanista
 
-**4.   Security**  
-We employ reasonable and current security methods to prevent unauthorized access, maintain data accuracy, and ensure correct use of information.
+12 Cadillac Drive, Suite 230
 
-To use some of our services, you may be required to set up a password-protected account or profile on our website. We recommend that you do not divulge your password to anyone. It is your responsibility to keep your password protected. Our personnel will never ask you for your password in an unsolicited phone call or in an unsolicited email. Remember to sign out of your account, close your browser window, and delete your temporary Internet files when you have finished your session. This helps ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place where others may have access to it.
+Brentwood, TN 37027
 
-Whenever you voluntarily disclose personal information online — for example, on message boards, through email or in chat areas — that information can be collected and used by others.
+Phone: **615-879-3796**
 
-No data transmission over the Internet or any wireless network can be guaranteed to be perfectly secure. As a result, while we try to protect your personal information, we cannot ensure or guarantee the security of any information you transmit to us, and you do so at your own risk.
+Email [support@womanista.com](mailto:support@comicbook.com).
 
-**5.   How You Can Update, Correct or Delete Your Information**  
-You can access the information that we collect online and maintain through normal updating methods. To update, correct, or delete this information, you can contact us via email at [info@skinnymom.com](mailto:info@skinnymom.com). Your account can be deleted or deactivated, but doing so will result in your not being able to access certain services. During the normal course of doing business, we will continue to share your information among our business units, our affiliates and unaffiliated third parties as necessary in order to service your accounts and fill any orders you place with us.
+Information We Collect About You and How We Collect It
 
-**6.   Children Under 13**  
-We have no way of distinguishing the age of individuals who access our website, and so we carry out the same Privacy Policy for individuals of all ages. If a child has provided us with personally-identifying information without parental or guardian consent, the parent or guardian should contact us to remove the information and opt out of promotional opportunities or other applicable services.
+Usage Details, IP Addresses, Cookies and Other Technologies. We collect certain limited information from and about users of our Website automatically as you navigate through the site, when we send you emails, when you respond to surveys, and when you use any referral service we may offer. Information collected automatically may include certain information about your equipment, browsing actions and patterns, including:
 
-**7.   Changes to Our Policy**  
-Any changes to our Privacy Policy will be communicated through our website at least 30 days in advance of its effective date. Information collected before changes are made will be secured according to the previous Privacy Policy.
+  * details of your visits to our Website, including traffic data and other communication data and the resources that you access and use on the Website; and/or
+  * information about your computer and internet connection, including your IP address, operating system and browser type.
 
-**8.   Your Consent**  
-By using our website, you consent to the collection and use of this information in the manner described in this Privacy Policy.
 
-LAST UPDATED: February 13, 2016
+
+The information we collect automatically is statistical data. It helps us to improve our Website and to deliver a better and more personalized service by enabling us to:
+
+  * estimate our audience size and usage patterns;
+  * store information about your preferences, allowing us to customize our Website according to your individual interests;
+  * speed up your searches; and
+  * recognize you when you return to our Website.
+
+
+
+The technologies we use for this automatic data collection may include:
+
+  * Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
+  * Flash Cookies. Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, see Choices About How We Use and Disclose Your Information below.
+  * Web Beacons. Pages of our the Website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+
+
+
+We do not collect Personal Information automatically, but we may tie this information to Personal Information about you that we collect from other sources or you provide to us.
+
+Information You Provide To Us. If you register with our Website as a subscriber, we collect additional information from and about you, including information by which you may be personally identified, such as name, postal address, e-mail address, telephone number or credit/debit card information (“Personal Information”) and information that is about you but individually does not identify you, such as your gender. We collect this information directly from you when you provide it to us.
+
+The information we collect on or through our Website may include:
+
+  * Information that you provide by filling in forms on our Website. This includes information provided at the time of subscribing to our service. We may also ask you for information when you report a problem with our Website.
+  * Records and copies of your correspondence (including e-mail addresses), if you contact us.
+  * Details of transactions you carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website.
+  * Your search queries on the Website.
+
+
+
+You also may provide information to be published or displayed (hereinafter, “posted”) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, “User Contributions”). Your User Contributions are posted on the Website and transmitted to others at your own risk. Although we limit access to certain pages to subscribers only, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
+
+We may provide a referral service to enable you to tell a friend about the Services, in which case we will ask you for your friend’s name and email address and then send your friend a one-time email inviting him or her to try the Services.
+
+Third-Party Advertiser Use of Cookies and Other Tracking Technologies.
+
+Some advertisements on the Website are served by third-party advertisers, ad networks and ad servers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about our users. This may include information about users’ behavior on this Website and other websites to provide them interested-based (behavioral) advertising. We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement, you should contact the responsible advertiser directly. For information about how you can opt out of receiving targeted advertising from many providers, see “Choices About How We Use and Disclose Your Information” below.
+
+How We Use Your Information
+
+We use information that we collect about you or that you provide to us, including any Personal Information:
+
+  * to present our Website and its contents to you;
+  * to provide you with information, products or services that you request from us;
+  * for any purpose that such information is provided for;
+  * to provide you with notices about your account and/or subscription, including expiration and renewal notices and receipts for payments;
+  * to carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;
+  * to notify you about changes to our Website or any products or services we offer or provide though it;
+  * to allow you to participate in interactive features on our Website;
+  * in any other way we may describe when you provide the information; and/or
+  * for any other purpose with your consent.
+
+
+
+We may also use your information to contact you about goods and services that may be of interest to you. If you do not want us to use your information in this way, please check the relevant box located on the online form on which we collect your data (the registration form) or adjust your user preferences in your account profile. For more information, see “Choices About How We Use and Disclose Your Information” below.
+
+We may use the information we have collected from you to enable us to display advertisements to our advertisers’ target audiences. Even though we do not disclose your Personal Information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
+
+Any information you provide us for a referral service will be stored for the sole purpose of sending a one-time email and tracking the success of the referral service.
+
+Disclosure of Your Information
+
+We may disclose aggregated, non-identifying information (including Personal Information that has been aggregated with other information so that it no longer can personally identify the user) about our users without restriction.
+
+We may disclose Personal Information that we collect or you provide as described in this privacy policy:
+
+  * to our affiliates;
+  * to contractors, service providers, parties reffered to as Preferred Content Providers (as defined below), and other third parties we use to support our business;
+  * to a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of the Company’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which Personal Information held by the Company about our Website users is among the assets transferred;
+  * to fulfill the purpose for which you provide it;
+  * for any other purpose disclosed by us when you provide the information; and/or with your consent.
+
+
+
+For the purposes here of, “Preferred ContentProviders” are as follow: CBS Sports, Inc. (dba [CBSSports.com](http://cbssports.com/)), CBT Sports, LLC ([247Sports](http://247sports.com/)),  Facebook [(Facebook)](http://facebook.com/); and ComicBook.com
+
+We may also disclose your Personal Information:
+
+  * to comply with any court order, law or legal process, including to respond to any government or regulatory request;
+  * to enforce or apply our Terms of Use and other agreements, including for billing and collection purposes; and/or
+  * if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Company, our customers or others.
+
+
+
+We may (but undertake no obligation to) notify you before making any such disclosure.
+
+Choices About How We Use and Disclose Your Information
+
+We strive to provide you with choices regarding the Personal Information you provide to us. We have created mechanisms to provide you with the following control over your information:
+
+  * Tracking Technologies and Advertising. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+  * Disclosure of Your Information for Third-Party Advertising. If you do not want us to share your Personal Information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by checking the relevant box located on the form on which we collect your data (the order form/registration form or other opt-out methods. You can also always opt-out by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [support@womanista.com](mailto:support@comicbook.com) .
+  * Promotional Offers from the Company. If you do not wish to have your e-mail address/contact information used by the Company to promote our own or third parties’ products or services, you can opt-out by checking the relevant box located on the form on which we collect your data (the order form/registration form)/OTHER OPT-OUT METHOD or at any other time by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [support@womanista.com](mailto:support@comicbook.com). If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. This opt out does not apply to information provided to the Company as a result of a product purchase, warranty registration, product service experience or other transactions.
+  * Targeted Advertising. If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers’ target-audience preferences, you can opt-out by checking the relevant box located on the form on which we collect your data (the order form/registration form). You can also always adjust your user advertising preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [support@womanista.com](mailto:support@comicbook.com) . For this opt-out to function, you must have your browser set to accept browser cookies.
+
+
+
+We do not control third parties’ collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the NAI’s website.
+
+Accessing and Correcting Your Information
+
+You can review and change your Personal Information by logging into the Website and visiting your account profile page.
+
+You may also send us an e-mail at [support@womanista.com](mailto:support@comicbook.com) to request access to, correct or delete any Personal Information that you have provided to us. We cannot delete your Personal Information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+
+If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Information that you disclose in any User Contributions is public information, with no expectation of privacy or confidentiality. You should be aware that any Personal Information you submit in the course of these public activities can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not and will not be responsible for the dissemination of any Personal Information contained in any User Contributions. Proper access and use of information provided on the Website, including User Contributions, is governed by our terms of use.
+
+Your California Privacy Rights
+
+California Civil Code Section Â§ 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [support@womanista.com](mailto:support@comicbook.com).
+
+Data Security
+
+We have implemented measures designed to secure your Personal Information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions will be encrypted using SSL technology.
+
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we exercise reasonable care to protect your Personal Information, we cannot guarantee the security of your Personal Information transmitted to our Website. Any transmission of Personal Information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
+
+Changes to Our Privacy Policy
+
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ Personal Information, we will notify you by e-mail to the e-mail address specified in your account and/or through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
+
+Contact Information
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at [support@womanista.com](mailto:support@comicbook.com) .
