@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cydiaios7.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315174610id_/http%3A//www.cydiaios7.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cydiaios7.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128213328id_/http%3A//www.cydiaios7.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ www.cydiaios7.com does not use cookies.
  **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on www.cydiaios7.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.cydiaios7.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL –
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense  
