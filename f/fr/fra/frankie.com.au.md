@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frankie.com.au privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605115806id_/http%3A//www.frankie.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frankie.com.au privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128151508id_/http%3A//www.frankie.com.au/privacy) for the most accurate reproduction.*
 
 # privacy | frankie magazine
 
@@ -8,7 +8,7 @@ We will only record your email address or other details you provide if you send 
 
 Your details will only be used for the purpose for which you have provided them and will never be added to any mailing list without your express permission. We will not use or disclose them to anyone else without your prior consent.
 
-Wth regards to our website, when you look at our site, our Internet service provider (ISP) and Morrison Media Services Pty Ltd make records of your visit and log the following information for statistical purposes:  
+With regards to our website, when you look at our site, our Internet service provider (ISP) and Morrison Media Services Pty Ltd make records of your visit and log the following information for statistical purposes:  
 \- your server address  
 \- the date and time of your visit to the site  
 \- the pages accessed and documents you downloaded  
