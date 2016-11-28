@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bustyadventures.com privacy policy that was archived on 2015-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150313201517id_/http%3A//pp.bigasspass.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustyadventures.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128183328id_/http%3A//pp.bigasspass.com) for the most accurate reproduction.*
 
 # BigAssPass - Privacy Policy
 
