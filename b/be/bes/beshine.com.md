@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beshine.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606172157id_/http%3A//www.beshine.com/tour/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beshine.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128121616id_/http%3A//www.beshine.com/tour/privacy) for the most accurate reproduction.*
 
-# Beshine - massive titted blonde with the largest augmented breasts in the world
+# Beshine - Privacy Policy
 
 Our Commitment To Privacy: Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. We do not collect any customer information. We do not, and will not, distribute, rent or sell any personally identifiable information to third parties without your express consent, other than as necessary to process your credit card payment. Please see our payment processor's Privacy Policy concerning collected information. This notice applies to all information collected or submitted on beshine.com. On some pages, you can order products/subscriptions, make requests, and register to receive materials.
 
