@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymodernmet.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620150946id_/http%3A//www.mymodernmet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymodernmet.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128235121id_/http%3A//www.mymodernmet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - My Modern Met
 
