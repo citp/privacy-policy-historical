@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everdrive.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607235435id_/http%3A//www.stoneagegamer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everdrive.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128190535id_/http%3A//www.stoneagegamer.com/privacy.html) for the most accurate reproduction.*
 
 # Stone Age Gamer - Privacy Policy
 
