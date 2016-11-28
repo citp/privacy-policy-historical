@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racecaller.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630181743id_/http%3A//racecaller.com/social-horse-racing-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racecaller.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128182503id_/http%3A//racecaller.com/social-horse-racing-privacy-policy) for the most accurate reproduction.*
 
 # Racecaller Social Horse Racing Privacy Policy
 
@@ -6,7 +6,7 @@ PLEASE REVIEW THE FOLLOWING NOTICE PRIOR TO SUBMITTING ANY PERSONAL INFORMATION 
 
 Horses Mouth Limited t/a RaceCaller ( **we** or **us** ) is committed to protecting and respecting your privacy.
 
-This policy (together with our terms of use [http://racecaller.com/social-horse-racing-terms-and-conditions](https://web.archive.org/web/20160630181743id_/social-horse-racing-terms-and-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.  By visiting [www.racecaller.com](http://www.racecaller.com/) you are accepting and consenting to the practices described in this policy. 
+This policy (together with our terms of use [http://racecaller.com/social-horse-racing-terms-and-conditions](https://web.archive.org/web/20161128182503id_/social-horse-racing-terms-and-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.  By visiting [www.racecaller.com](http://www.racecaller.com/) you are accepting and consenting to the practices described in this policy. 
 
 For the purpose of the Data Protection Acts 1998 and 2003 (the **Act** ), the data controller is Horses Mouth Limited.  We are registered in Ireland under company number 528404 and we have our registered office at 108 Pembroke Road Dublin 2. 
 
