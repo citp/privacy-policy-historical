@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the schott.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915082521id_/http%3A//www.schott.com/english/company/legal3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schott.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128143602id_/http%3A//www.schott.com/english/company/legal3.html) for the most accurate reproduction.*
 
-# SCHOTT Group - About SCHOTT Group | SCHOTT AG
+# SCHOTT Group - Privacy Statement | EN | SCHOTT AG
 
 ## 1\. General Policy
 
@@ -57,11 +57,12 @@ The validity of session cookies is limited to the duration of your visit on our 
 
 The validity of permanent cookies is limited to a period of 10 years. Most browsers are set so that they automatically accept cookies. You may, however, deactivate the storage of cookies or set your browser in a manner that it will notify you as soon as cookies are set.
 
-## 4\. Burda Direkt Services
+## 4\. Use of Remarketing function of Google Inc.
 
-We use products of Burda Direkt Services ([www.burdadirektservices.de](http://www.burdadirektservices.de/)) for marketing and optimization purposes. These products collect and process your personal data and use it to create usage profiles under a pseudonym. These usage profiles are fully anonymized where possible and appropriate. We and Burda Direkt Services employ cookies and/or Web beacons (also known as tracking pixels) on this Web site. We transfer the data we collect about you, which may also include personal data, to Burda Direkt Services or Burda Direkt Services gathers this data directly. Burda Direkt Services is entitled to use information that you leave behind by visiting our Web sites to create anonymized usage profiles. The data collected shall not be used to personally identify visitors to this Web site without the express permission of the party affected and shall not be merged with personal data about the bearer of the pseudonym. Any IP addresses recorded are anonymized immediately by deleting the last number block. Permission to collect and store data in the future may be revoked at any time. 
+SCHOTT uses the Remarketing function of Google Inc. (“Google”) on this website.  
+By means of this function SCHOTT is able to address you as a visitor of the website wittingly. This is realized by the placement of personalized, interest-oriented advertisements for offers of SCHOTT when you visit other websites in the Google Display Network. In order to allow for the necessary analysis of website use, so called cookies are used (see above). Via these cookies your website visits as well as anonymized data of your website use is tracked and sent to Google. There is no electronic storing of your personal data taking place whatsoever. If you visit another website in the Google Display Network you will see advertisements which most likely concern product and information areas that you have accessed before.
 
-[Exclude from website tracking](http://stats.vertriebsassistent.de/track/cookie_mgr.php?mode=dont_track_ask&websitesel=60b8c179640556b4&lang=en)
+You can deactivate the use of these cookies permanently by clicking on the following link and downloading as well as installing the provided plug-in: <https://www.google.com/settings/ads/plugin>. Alternatively, you can deactivate the use of cookies from third parties by visiting the deactivation website of the Network Advertising Initiative <http://www.networkadvertising.org/choices/> and follow the instructions for the Opt-Out. 
 
 ## 5\. Links to other websites
 
@@ -94,8 +95,9 @@ The German Federal Data Protection Act (Bundesdatenschutzgesetz (BDSG)) stipulat
 ## 8.2 Executive Board members
 
 Dr. Frank Heinricht (Chairman)  
-Dr. Hans-Joachim Konz  
-Klaus Rübenthaler
+Hermann Ditz  
+Dr. Heinz Kaiser  
+Dr. Jens Schulte
 
 Authorized Corporate Data Privacy Officer:  
 Dr. Roland Leroux
