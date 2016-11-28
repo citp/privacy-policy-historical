@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the befrugal.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630014321id_/http%3A//www.befrugal.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the befrugal.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128090133id_/http%3A//www.befrugal.com/help/privacypolicy) for the most accurate reproduction.*
 
 # BeFrugal.com Privacy Policy
 
@@ -6,11 +6,13 @@
 
  
 
-This Privacy Policy was last updated on 2015-02-18
+This Privacy Policy was last updated on 07/11/2016
 
 This privacy policy applies to www.BeFrugal.com owned and operated by Capital Intellect, Inc. (collectively, "We", "Our", "Us") This privacy policy describes how Capital Intellect, Inc. collects and uses the personally identifiable information you provide on our Web site: www.BeFrugal.com. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
 
-Capital Intellect, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program covers only information that is collected through this Web site www.befrugal.com, and does not cover information that may be collected through software downloaded from the site. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [http://www.befrugal.com/contactus/](https://web.archive.org/contactus/). If you are not satisfied with our response you can [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+Capital Intellect, Inc. has received TRUSTE's Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. The TRUSTe program covers only information that is collected through this website, http://www.befrugal.com, and does not cover information that may be collected through software downloaded from this site.
+
+If you have questions or concerns regarding this Statement, you should first contact us at [http://www.befrugal.com/contactus/](https://web.archive.org/contactus/). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
 ### Information Sharing and Disclosure
 
@@ -36,19 +38,17 @@ We have an optional feedback/contact us form available that requires responders 
 
 ### Tracking Technologies
 
-Technologies such as: cookies, tags and scripts are used by Capital Intellect, Inc. and analytics. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site as well as within the add-on and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as: cookies, beacons, tags and scripts are used by Capital Intellect, Inc. and analytics. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site as well as within the add-on and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 We use cookies to remember users' settings. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 _Behavioral Targeting / Re-Targeting_
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 _Local Storage Objects (HTML5)_
 
-Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information.
-
-Various browsers may offer their own management tools for removing HTML5 LSO's. To manage Flash to LSO's please click here: [http://www.macromedia.com/support/documentation/en/flashplayer/help/](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
+We use Local Shared Objects, such as Flash cookies, and Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies and HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
 _Widgets_
 
@@ -56,7 +56,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button. T
 
 _Links to Other Sites_
 
-This website publishes links to other sites that are not owned or controlled by BeFrugal.com. Please be aware that BeFrugal.com is not responsible for the privacy practices of these sites.
+This website publishes links to other sites that are not owned or controlled by Capital Intellect, Inc. Please be aware that Capital Intellect, Inc. is not responsible for the privacy practices of these sites.
 
 We encourage users to be aware that clicking special offers or coupons will redirect them to various merchant websites. It is important to read individual merchant's privacy policies before making purchases or entering any personally identifiable information.
 
@@ -70,7 +70,7 @@ We will share your personally identifiable information with third parties only i
 
 _Customer Testimonials_
 
-We post customer testimonials on our website which may contain personally identifiable information such as the customer name. We do obtain the customer's consent prior to posting their name and testimonial.
+We post customer testimonials on our website which may contain personally identifiable information such as the customer name. We do obtain the customer's consent prior to posting their name and testimonial. If you wish to update or delete your testimonial, you can contact us at [customercare@befrugal.com](mailto:customercare@befrugal.com?Subject=Testimonial%20Request).
 
 _Blogs_
 
@@ -80,11 +80,13 @@ _Legal Disclaimer_
 
 We reserve the right to disclose users' personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights, protect your safety or the safety to others, investigate fraud, respond to a government request, and/or to comply with a judicial proceeding, court order, or legal process served on our website.
 
+If Capital Intellect, Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website, of any change in ownership, uses of your personally identifiable information, and choices you may have regarding your personally identifiable information.
+
+We may also disclose your personally identifiable information to any other third party with your prior consent.
+
 _Log files_
 
 As is true of most websites, we automatically gather certain information that is stored in our servers log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
-
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
 
 We do not link this automatically collected data to personally identifiable information. As needed, BeFrugal.com may aggregate data collected from log files to demonstrate usage information from our website for prospective merchants.
 
@@ -96,7 +98,7 @@ If users no longer wish to receive our promotional communications, they may opt-
 
 _Updating/Deleting Personally Identifiable Information_
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/remove or deactivate it by making the change on our My Account page or by [contacting us here](https://web.archive.org/contactus/).
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/remove or deactivate it by making the change on our My Account page or by contacting us [here](https://web.archive.org/contactus/). We will respond to your request to access within a reasonable timeframe.
 
 _Chat_
 
@@ -104,7 +106,7 @@ We use a chat feature to assist you with any questions you may have while using 
 
 _Refer a friend-Third party PII_
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Capital Intellect, Inc. stores this information for the sole purpose of sending this one-time email. Your friend may contact us at <http://www.befrugal.com/contactus/> to request that we remove this information from our database. 
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Capital Intellect, Inc. stores this information for the sole purpose of sending this one-time email. Your friend may contact us at [http://www.befrugal.com/contactus/](https://web.archive.org/contactus/) to request that we remove this information from our database. 
 
 _Security_
 
