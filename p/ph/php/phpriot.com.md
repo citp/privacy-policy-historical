@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpriot.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614070801id_/http%3A//phpriot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpriot.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128170716id_/http%3A//phpriot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Phpriot
 
@@ -8,11 +8,11 @@ www.phpriot.com/download protects and guarantees security in the collection and 
 
 Through this website personal data will be collected with the purposes of managing and providing our services, sending internal commercial promotions and providing information of interest for users, related the services of the site.
 
-These data are stored in a archive of personal data whose www.phpriot.com/download is holder, properly registered at the Agency of Data Protection. Nevertheless, the data holder may communicate his/her intention not to be sent any more information at any moment, by sending an email to info@fremax-gestion.com
+These data are stored in a archive of personal data whose www.phpriot.com/download is holder, properly registered at the Agency of Data Protection. Nevertheless, the data holder may communicate his/her intention not to be sent any more information at any moment, by sending an email to info@bernex.com
 
 ### Identification and contact data of the Company.
 
-www.phpriot.com/download is a product of FREMAX GESTION SL is a Spanish company based in Barcelona, carrer Lepant, 326 – Entresuelo, Barcelona. Terms of use and Privacy Policy – Should users wish to file any complaints, they can contact the company through the support form available in the site or sending a message to the email address info@fremax-gestion.com
+www.phpriot.com/download is a product of BERNEX APLICACIONES, S.L. is a Spanish company based in Barcelona, carrer Lepant, 326 – Entresuelo, Barcelona. Terms of use and Privacy Policy – Should users wish to file any complaints, they can contact the company through the support form available in the site or sending a message to the email address info@bernex.com
 
 ### Additional Information We Collect.
 
@@ -30,4 +30,4 @@ The means with which website operators collect and use the personal information 
 
 ### International Policy.
 
-Our Services are hosted by servers in United States & France. When you submit your personal information you should be aware that you understand and consent, to its transfer, storage and processing in United States & France. Alternatively, if you would like, contact us via e-mail at info@fremax-gestion.com.
+Our Services are hosted by servers in United States & France. When you submit your personal information you should be aware that you understand and consent, to its transfer, storage and processing in United States & France. Alternatively, if you would like, contact us via e-mail at info@bernex.com.
