@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitchmagic.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502123226id_/http%3A//www.pitchmagic.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitchmagic.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128091005id_/http%3A//www.pitchmagic.com/privacy_policy.html) for the most accurate reproduction.*
 
 # PitchMagic Privacy Policy
 
