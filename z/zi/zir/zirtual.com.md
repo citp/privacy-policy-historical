@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zirtual.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413115233id_/http%3A//www.zirtual.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zirtual.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128070221id_/https%3A//www.zirtual.com/privacy-policy) for the most accurate reproduction.*
 
 # Zirtual - Privacy Policy.
 
-_Last modified on April 9th, 2015 (for our previous policy,[ click here ](https://www.zirtual.com/privacy-policy/previous/)) _
+_Last modified on April 9th, 2015_
 
 ####  Purpose 
 
@@ -173,18 +173,17 @@ We use industry standard physical, technical and administrative security measure
 
 Under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2015 will receive information regarding 2014 sharing activities). 
 
-To obtain this information, please send an email message to [privacy@zirtual.com](mailto:privacy@zirtual.com) with "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response. 
+To obtain this information, please send an email message to [support@zirtual.startups.co](mailto:support@zirtual.startups.co) with "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response. 
 
 Our Site is operated and managed on servers located and operated within the United States. By using and accessing our Site, residents and citizens of countries and jurisdictions outside of the United States agree and consent to the transfer to and processing of personal information on servers located in the United States, and that the protection of such information may be different than required under the laws of your residence or location. 
 
 Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your consent in accordance with applicable law. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
 
-If you have any questions, concerns, complaints or suggestions regarding our Privacy Policy or otherwise need to contact us, please email us at [privacy@zirtual.com](mailto:privacy@zirtual.com), call us at 1 (800) 997-9714 or contact us by US postal mail at the following address: 
+If you have any questions, concerns, complaints or suggestions regarding our Privacy Policy or otherwise need to contact us, please email us at [support@zirtual.startups.co](mailto:support@zirtual.startups.co), call us at 1 (800) 997-9714 or contact us by US postal mail at the following address: 
 
-> **Zirtual Inc.**   
->  150 Las Vegas Blvd. N.   
->  Suite 2304   
->  Las Vegas, NV 89101 
+> **Zirtual Startups LLC**   
+>  1322 Manning Pkwy,   
+>  Powell, OH 43065 
 > 
-> [ privacy@zirtual.com ](mailto:privacy@zirtual.com)   
+> [ support@zirtual.startups.co ](mailto:support@zirtual.startups.co)   
 >  1 (800) 997-9714 
