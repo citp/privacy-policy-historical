@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustifyme.org privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606000312id_/http%3A//trustifyme.org/index.php%3Fr%3Dsite/page%26view%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustifyme.org privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129001128id_/http%3A//trustifyme.org/index.php%3Fr%3Dsite/page%26view%3Dprivacy-policy) for the most accurate reproduction.*
 
 # trustify-me - Page Site
 
@@ -62,7 +62,7 @@ This online privacy policy applies only to information collected through our web
 
 ## Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20160606000312id_/http%3A//trustifyme.org/index.php%3Fr%3Dsite/terms-of-use.php) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20161129001128id_/http%3A//trustifyme.org/index.php%3Fr%3Dsite/terms-of-use.php) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 ## Your consent
 
