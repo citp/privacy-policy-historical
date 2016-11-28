@@ -1,0 +1,75 @@
+> *The following text is extracted and transformed from the shopalexis.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128014325id_/http%3A//shop-alexis.com/pages/privacy) for the most accurate reproduction.*
+
+# Privacy – Alexis
+
+ALEXIS LLC (“Alexis”, “we”, “us” or “our”) share your concern about the protection of your personal information online.   This privacy policy (“Policy”) is our policy that addresses how we maintain the privacy of personal information we collect online in connection with the Alexis website located at www.shop-alexis.com (the “Site”).
+
+This Policy describes our privacy practices and sets out your obligations and ours with respect to your use of the Site. This Policy applies only to the Site and does not necessarily apply to our off-line collection of information. By visiting the Site, you agree to abide by the terms of this Policy and the [[terms of use](http://www.theory.com/privacy-policy/%253Ca%2520href=%2522http://www.theory.com/on/demandware.store/Sites-theory_US-Site/default/Page-Show?cid=terms-of-use%2522%253ETerms%2520Of%2520Use%253C/a%253E)] (the “Terms of Use”).
+
+We may need to change this Policy from time to time in order to address new issues and to reflect changes on the Site or in the law.  We reserve the right to revise or make any changes to this Policy, and your continual use of the Site subsequent to any changes to this Policy will mean that you accept such changes. Therefore, please bookmark this page and review it periodically to assure familiarity with the most current version of this Policy. We will post all changes to this Policy on the Site so that you will always know what information we gather, how we might use that information, and when and how we will disclose that information. You can tell that this Policy has been updated by checking the last revised date posted on the top of this page. If due to such changes, you decide that you want to remove any portion of your personal information from our database, please notify us at unsubscribe@Shop-alexis.com.
+
+BY VISITING THE SITE, YOU CONSENT TO OUR USING ANY INFORMATION THAT YOU PROVIDE TO US OR THAT WE COLLECT, IN ACCORDANCE WITH THIS POLICY AND THE TERMS OF USE. IF YOU DO NOT AGREE TO THIS POLICY AND THE TERMS OF USE, DO NOT VISIT OR USE THE SITE.
+
+Information We Collect and Track. 
+
+Alexis collects and retains two types of information about Site visitors: (i) personal information that individual visitors provide when interacting on the Site, or voluntarily provide on certain other occasions (such as via forms or in emails); and (ii) tracking data, which is automatically collected from every Site visitor and recorded on our log files, (collectively, “Information”). The Information that we gather may include your name, title and address, telephone number, email address, birth date and credit card number as well as other elements of personal information.
+
+In addition, if you contact us, we may keep a record of your correspondence, including any Information contained therein.
+
+You may decline to provide any personal information, but please realize that you thereby may be unable to register on the Site or to participate in activities or services offered by Alexis on the Site.
+
+The tracking data we record includes, without limitation, information regarding the number and frequency of visits to the Site, the items you viewed and/or purchased, the websites that you access before and after you visit the Site, the software used to access the Site, and your IP address and Internet service provider related information. The tracking data we record may include the location of your computer.
+
+How We Use Your Information. 
+
+The Information that we collect and that you provide to us is used for our business purposes and the purpose for which you provided it, including, without limitation, to respond to your requests or correspondence. Alexis may also use the Information to contact you about the Site or to request your input regarding ways in which we might improve the Site. We may also use your Information to inform you about Alexis’ activities, promotions, products, services and events in which Alexis thinks you may be interested. The Information may also be analyzed so that we can provide you with useful information and can serve you in the best manner possible through enhanced features and functions on the Site.
+
+We will not disclose any personal information to third parties, except (i) to parties who perform a service for us, such as sending you mail or email, web hosting, credit card processing and other similar services; (ii) when we believe that such disclosure is required by law; (iii) to enforce this Policy or the Terms of Use; (iv) to protect the rights, property, security or safety of Alexis, Site users or the public; (v) to respond to an emergency; or (vi) as otherwise stated in this Policy.  In addition, we may disclose Information to certain third parties if you have requested or authorized the disclosure of such Information.
+
+We provide certain Information to third party service providers who perform specific functions on our behalf. 
+
+For example, we may share your mailing address and other contact information with our delivery partners, and certain of our service providers (i.e., web hosting, credit card processing, catalog management and others) may have access to all or parts of the Information we maintain. All such Information provided to third parties is limited to the Information needed to perform their functions. We seek to limit third-party use of Information; however, we are not responsible for such third-party use of Information that is not in compliance with this Policy.
+
+Alexis may make certain Information, including, without limitation, your name address and email address, available to its affiliates and related companies. Our affiliates and related companies may contact you directly regarding certain promotions. This information is never sold, and if you would like to opt out of having Alexis share your name, title address and email address with its affiliates and related companies, please contact our [Customer Service Department](http://www.theory.com/privacy-policy/%253Ca%2520%2520href=%2522http://www.theory.com/email-us/cs-contact-us-form,default,pg.html%2522%253ECustomer%2520Service%253C/a%253E).
+
+Alexis may use certain tracking data. 
+
+Tracking data information may be used for a variety of purposes, including but without limitation, to compile statistical, demographic or aggregated information about visitors to the Site generally, or for load balancing metrics and also may be used to create reports on user demographics and the traffic patterns of the Site. The reports that are generated from tracking data are used for a variety of purposes, including, for example, to improve the Site and our services.
+
+User Postings. 
+
+You should be aware that any content posted by you to the Site may be read, collected or used by other Site visitors. Alexis is not responsible for the third-party use of any Information provided in such manner. By participating in the use of Site, you consent to Alexis’ use or disclosure of any content that you submit.
+
+Use of Cookies. 
+
+We use cookies to enhance your experience while using the Site. “Cookies” are small pieces of information that a website transfers to your computer’s hard drive for record-keeping purposes. The use of cookies makes web surfing easier by performing certain functions such as saving your passwords and your personal preferences in connection with your use of a particular website. Many consider the use of cookies to be an industry standard. Your browser is probably set to accept cookies, but you are always free to decline our cookies if your browser permits. If you choose to have your browser refuse cookies, it is possible that some of the Services provided on the Site will not function properly.
+
+Transfer of Information to Third Parties Upon a Sale or Change of Control. 
+
+We retain the right to transfer or assign all Information pursuant to a merger, sale, reorganization, purchase or other transaction relating to Alexis, its related companies or their assets if the assignee or purchaser agrees to abide by the terms of this Policy.
+
+How Your Information Is Protected. 
+
+We take reasonable precautions to protect your Information from loss, misuse or alteration. We maintain reasonable physical, electronic and procedural safeguards for your Information.  You should recognize, however, that there is no such thing as “perfect security” on the Internet, and we cannot guarantee the security of your Information. In addition, because Internet communication is unsecure, it is also possible that the information you supply to us or your access of any information via the Site will be intercepted during transmission. We are not liable for any breach of our systems or interception of our transmission, and we hereby disclaim, to the fullest extent provided under law, any liability associated with any claim relating to a breach of security, data or information.
+
+Other Communications. 
+
+From time to time, we may email users of the Site information regarding marketing events or other developments at Alexis. We may also email users on occasion regarding the Site. Such emails may be sent to users of the Site even if they have not requested to receive any communication from us.
+
+Referrals. 
+
+If a user elects to use our referral service to inform another person about the Site or Site features, we may request the name and email address of such other person. Alexis will automatically send a one-time email inviting such other person to visit the Site or to purchase items from Alexis. Alexis stores this information for the sole purpose of sending this one-time email.
+
+Links to Third-Party Sites. 
+
+The Site may contain links to websites owned and operated by other parties. We are not responsible for and have no control over the privacy policies of those sites. We encourage you to review the privacy policies of those sites prior to providing them with any information.
+
+Children Under the Age of 13. 
+
+Alexis is concerned about the privacy protection of children who access the Internet, and we comply with the Children’s Online Privacy Protection Act (COPPA). Accordingly, the Site is not intended for use by anyone under the age of 13 without the supervision of a parent or guardian, and we do not knowingly collect Information from anyone under 13 years of age without the consent of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, you may rely on your parent or guardian to assist you.
+
+Compliance With Laws. We reserve the right to disclose any Information to comply with any law, regulation, decree, judgment, order, subpoena or any other governmental order (“Order”) without any obligation to contest or verify the accuracy of such Order.
+
+Applicable Law. This Policy will be governed by and construed in accordance with the laws of the State of  Florida, without regard to any principles of conflicts of law. You agree that any action at law or in equity that arises out of or relates to any use of the Site will be filed only in the state or federal courts located in Miami-Dade County, and you hereby consent and submit to the personal jurisdiction of such courts for the purposes of litigating any such action.
+
+How You Can Update or Correct Your Information and Contact the Site. Please contact us via our [Customer Service Department ](http://www.theory.com/email-us/cs-contact-us-form,default,pg.html)if you have any questions or concerns regarding the Site, this Policy or if you would like to update or correct you Information.
