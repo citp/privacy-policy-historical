@@ -1,119 +1,66 @@
-> *The following text is extracted and transformed from the onlinelife.com privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230010117id_/http%3A//www.onlinelife.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.onlinelife.com%252F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinelife.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128231839id_/https%3A//www.moniker.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Online Life.com Social Network
+# Privacy Policy - Moniker
 
-Updated: February 2007
+Basic information about the handling of your data transmitted to us. (Basis: ICANN Model Privacy Policy) www.icann.org/registrars/model-privacy-policy.htm
 
-We want you to protect your Personal Data. We define Personal Data as any data from which it is practical to directly determine your identity or the identity of any individual. We have established this Privacy Policy to explain how Personal Data is collected on the Ning Platform, and how this Personal Data is used by Ning. Any capitalized term not defined in this Privacy Policy has the meaning which we lay out in the Ning [User Agreement](http://www.onlinelife.com/main/authorization/termsOfService?previousUrl=http%3A%2F%2Fwww.onlinelife.com%2F). From time to time, we will update this Privacy Policy and will do our best to keep you abreast of these changes by posting a notice on the Ning Platform.
+On our website you are requested to transmit information
 
-We take protecting your Personal Data very seriously. All Networks running on the Ning Platform are required to meet the terms of our Privacy Policy. That being said, we would like to ask you to be careful and use caution when providing Personal Data to Social Networks built on the Ning Platform. Unfortunately, there is no way we can be responsible for the actions of other Users or Social Networks not developed by Ning.
+  * about the registration of a domain name ;
 
-**By registering on the Ning Platform, you agree (1) to comply with the terms and conditions of this Privacy Policy, and (2) that Ning and any User may process (i.e., collect, use, etc.) your Personal Data as described in this Privacy Policy or the Terms of Service. Personal Data may be processed by Ning or User(s) in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.**
+  * about the update of a previously registered domain name ;
 
-#### Ning and Collection of User Information
+  * about the provision of web/ and mail space or;
 
-##### Personally Identifiable User Information
+  * in the context of other services
 
-Once you register with Ning and sign in to the Ning Platform, you are not anonymous to Ning.
 
-When registering on Ning, you provide Personal Data, which includes a Ning ID, a User- chosen password, and optionally an email address and a photo. To combat online fraud, Ning may also record your IP address when submitting information. In addition, if you choose to purchase premium services on Ning, you provide necessary information to process your credit card payment, including your billing address. When you use the Ning Address Book service, you also provide contact information of other people (“Address Book”).
 
-In an effort to support group-specific as well as location-based Social Networks, Networks can validate the domain from which your email address originates (e.g., gmail.com or hotmail.com).
 
-To protect your Ning ID account information, please keep your password secure.
+In order to register domain names you must indicate the name of the desired domain, your name and address (or the name and address of the people, for whom you apply the registration), the technical information about the computer where the domain shall be maintained and the name, address, email address, phone and - if provided – fax number for the technical, administration and billing contact of the domain. After the domain has been registered you are obligated to keep this data up to date. If you have questions we will ask you for information about the name, calling number and email address.
 
-You can decline to share such Personal Data with us by not registering on Ning. Further, you may opt to remove any Personal Data from our active database by contacting Ning and canceling your Ning User account.
+**Why do we need this data?**
 
-Ning does not intentionally gather Personal Data about visitors who are under the age of 13.
+The data you transmit to us upon registration (or data for correction respectively update of registrations) is required so that the domain name can be assigned to your computer on the internet, for establishing a contractual relationship between you and Moniker and for invoicing, so that we can manage your account properly and inform you about the expiration of the reservation of the domain and a necessary renewal, in order to make it possible for other internet user or operators with the purpose of clarifying issues related to the domain name in question to get in contact with you. All of this information is also being filed in the context of ICANN’s required “data escrow” program in order to allow the domain name to continue to function in case the registrar ceases its activity of registering and managing domain names. If you forward a question to us, we require contact information for the response.
 
-##### Cookies and Passive Data Collection
+**To whom do we forward this information?**
 
-Ning automatically receives and records information on our server logs from your browser, including your IP address, Ning cookie information, and the page you request.
+We forward data for the registration or update respectively correction of domain names to our staff and consultants, to the administrator of the central data base who operates the top level domain you have chosen (please see the the TLD terms of registration in order to determine the registry in charge), to operators and user of the central internet whois data base regarding your domain registration, to the Internet Corporation for Assigned Names and Numbers (ICANN) as a technical coordination authority, to “escrow – agents”, auditors, “Whois” - service provider and as the circumstances require, to registrars nominated by ICANN as an alternative. Information you supply us with in the context of queries can be forwarded to our staff and consultants and – on demand – to ICANN.
 
-Users should be aware that other websites visited before entering Ning might place personally identifiable information within a User's URL during a visit to their website, and Ning has no control over such websites. Accordingly, some of this information may be logged by a subsequent website that collects URL information. 
+**Further data usage**
 
-##### Content and Use of Networks
+Moniker will use the data for the purpose of advertising, customer advice or market research only to a necessary extent and with the customer's prior consent. The customer may revoke his consent in written form at any time. Moniker is entitled to disclose information to prosecuting authorities and courts if required by law for the purpose of legal prosecution and as Moniker believes is appropriate given the particular circumstances in Moniker’s sole discretion.
 
-When you post Content (or send messages) in any Social Network(s) on the Ning Platform that enable direct sharing of information with other Users and visitors, other Users and visitors will have access to any Personal Data in such Content. The Ning Platform keeps track of Content that you have uploaded to a Social Network on Ning as well as the top Users for a Network. Such information, displayed with your Ning ID and photo, if you uploaded one, is available to Users and visitors of the Ning Platform. In addition, the Ning Platform enables other Users to invite you to use Social Networks on Ning.
+**Access to information, correction and update**
 
-Because you may voluntarily disclose any Personal Data in these public areas, you should be careful about the information you choose to disclose. Ning does not control that disclosure, and is not liable in any way for anyone's use or misuse of the information in the disclosure. In other words, use caution and judgment here. 
+You are encouraged to update all false or invalid data in your registration. You have access to modify your data through the moniker.com webpage.
 
-#### How Ning Uses Information
+**Information about third parties**
 
-##### Personally Identifiable Information
+By transmitting information about one or more third parties (e.g. about someone, in whose name you register a domain or for whom you provide information about technical or billing contacts) you vouch for the person in question and confirm that that person has been informed by you about the usage of the transmitted data and the terms of this agreement. Furthermore you vouch for the person in question being informed about the possibility of access to the information and the obligation to keep the data updated.
 
-We will send you administrative messages, and email updates regarding your account, your Social Networks, or the Ning Platform. We may also send you notices of new Content that has been added to Networks in which you may be interested when you have subscribed to such notices. In some cases, we may also send you primarily promotional messages. In your account, you can choose to opt out of promotional messages and new Content notices. You may opt out of receiving administrative messages by canceling your Ning User account. We will not use your Address Book information for our own purposes.
+**Your data**
 
-##### Cookies and Passive Data Collection
+Traffic data may be collected and used to measure the amount of telecommunication services used and insofar it is necessary for the purpose of performance of the services and invoicing. Data may be, but most likely will not be stored longer than six months above the necessary time for invoicing, unless the customer requests a longer storage time within the scope of a statistics function.
 
-Ning uses cookie, IP address, and URL information to improve the content of the Ningbar, the quality of Ning servers, and to provide enhanced features to Users, where available. Ning uses cookies to save Users' Ning IDs, session validators, and on Users' browsers and hard drives, and may use them to provide tailored products and services to those Users, as they become available.
+Customer agrees that Registrar may send Newsletters for informational or marketing purposes to his email address.
 
-IP Addresses also help us to diagnose problems with our server, to administer the Ning Platform, and to otherwise provide the Ning service to its users. IP addresses may be disclosed to a third party if we believe in good faith that the law or legal process requires it, or to protect the rights or property of Ning, its Users or the general public. 
+**Google Analytics**
 
-#### Disclosures
+This website uses Google Analytics, a web analytics service provided by Google Inc. (Google™). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and Internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do so you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-##### Ning Service Providers
+**How to contact us:**
 
-Ning may need to provide your Personal Data to third parties to deliver specific services to you (such as hosting services, support services, or credit card payment processing). These third parties are required not to disclose your Personal Data and not to use your Personal Data other than to provide the services requested by Ning.
+If you wish information about your personal data which we have retained, have legal questions or wish to contact us for any other reason you may contact us through the following methods:
 
-##### Network Creators
+Moniker   
+2320 NE 9th Street, Second Floor, Fort Lauderdale, FL 33304  
+or via email to:
 
-The Ning Terms of Service require each Network Creator to comply with applicable laws (e.g., CAN-SPAM) and Ning's rules with respect to the Network Creators' use of your Personal Data. As a Network Creator, you may have your own privacy policy applicable to your Network if approved by Ning in advance and in writing (on a case-by-case basis). If you, as a User of a Network, agree to a Network's privacy policy, you agree that any dispute you have with a Network Creator is between you and that Network Creator (and not Ning).
+Support: [getsupport@moniker.com](mailto:getsupport@moniker.com)
 
-##### Law Enforcement
+Legal matters: [legal@moniker.com](mailto:legal@moniker.com)
 
-Ning may disclose Personal Data if required by a subpoena or other judicial or administrative order, where required by law, or, at our sole discretion, where we deem necessary to protect the safety of any individual or the general public or to prevent violation of our Terms of Service or the rights of Ning or any third party.
+**Change of data protection information**
 
-##### Ning Affiliates
-
-Although Ning currently does not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “affiliates”), it may in the future. Ning may share some of all of your Personal Data with these affiliates, in which case we will seek to require our affiliates to honor this Privacy Policy.
-
-##### Change of Ownership
-
-In the event of a change in ownership, or a merger with, acquisition by, or sale of assets to, another entity, we reserve the right to transfer all of Ning's User information, including email addresses, to a separate entity. Ning will notify Users (via a posting on this site or email (in Ning's discretion) of such a transfer, and Users may choose to modify their registration information at that time. This means if you are concerned about your Personal Data migrating to a new owner, you can deactivate your account.
-
-##### Security
-
-Ning uses industry standard security measures to protect the loss, misuse and alteration of the information under our control. Although we make good faith efforts to store the information collected by Ning and Social Networks running on the Ning Platform in a secure operating environment that is not available to the public, Ning cannot guarantee complete security. Further, while we work hard to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. Ning does not assume any liability to third parties whose information may be included in your Address Book.
-
-##### Updating or Removing User Information
-
-Users may, at any time, choose to correct or update the information they have submitted to Ning, by going to their account. Users may remove their User information from Ning's live database by canceling their account. Even if you update or remove your information from our live database, however, your Personal Data may be retained in our backup files and archives.
-
-Registered Users may remove their User information from Ning by canceling their account.
-
-##### No Spam Policy
-
-Our No Spam Policy and Terms of Service prohibit all Users from engaging in any activity involving the sending of email in violation of applicable law. Violations of these policies may result in immediate termination of service and legal action against any spammers.
-
-Any unauthorized use of Ning computer systems is a violation of the Terms of Service and certain federal and state laws, including without limitation the Computer Fraud and Abuse Act (18 U.S.C. section 1030 et seq.), Section 502 of the California Penal Code and Section 17538.45 of the California Business and Professions Code. Such violations may subject the sender and his or her agents to civil and criminal penalties.
-
-Ning offers email masking and relay when Users choose to communicate with other Users on Networks running on the Ning Platform to reduce third party email harvesting and spam. We also encourage Users to choose an email address where they will be comfortable receiving email responses from other Ning Users if they choose, at their sole discretion, to upload a profile or classifieds listings on any Social Network running on the Ning Platform.
-
-##### International Users
-
-By visiting Ning and Social Networks running on the Ning Platform and providing Ning with data, you acknowledge and agree that due to the international dimension of Ning we may use the data collected in the course of our relationship for the purposes identified in this Privacy Policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. In addition, please understand that such data may be stored on servers located in the United States where laws protecting Personal Data may not be as stringent as the laws in your jurisdiction. By providing us with your data, you consent to the transfer of such data.
-
-##### Revisions to This Policy
-
-Ning reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted on Ning, and a User's continued use of Ning will signify agreement to such changes. 
-
-##### Contacting Ning
-
-Users with questions about this Privacy Policy may contact Ning the following ways:
-
-##### E-Mail
-
-[info@ning.com](mailto:info@ning.com)
-
-##### Postal
-
-Ning  
-735 Emerson Street  
-Palo Alto, CA 94301
-
-**USE OF THE NING SERVICE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY**
-
-##### Feedback
-
-We welcome your [feedback](mailto:feedback@ning.com) on this document. 
+Please take into account that the data protection information may be changed at any. The valid version is the one available on the moniker.com website at any given time.
