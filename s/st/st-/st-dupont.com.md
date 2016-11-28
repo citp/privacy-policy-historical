@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the st-dupont.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624092627id_/http%3A//www.st-dupont.com/legal-terms-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the st-dupont.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128231003id_/http%3A//www.st-dupont.com/en/legal-terms-and-privacy-policy) for the most accurate reproduction.*
 
-# S.T.Dupont | Legal terms and privacy policy
+# S.T.Dupont | Legal terms and privacy policy - S.T. Dupont
 
 #### Identification
 
@@ -11,6 +11,8 @@ Telephone number: 01 53 91 30 00
 The site publication Director: Alain Crevet 
 
 The hosting is provided by the company NBS System SAS, whose registered office is at 140 Boulevard Haussmann, 75008, Paris, France. Telephone number: +33 (0)1 58 56 60 80 French Register of Companies number: B 423 410 901
+
+The technic development of S.T. Dupont website has been realized by Dn’D Agency, 23 rue Edmond Nocard 94410 - Saint Maurice, France - Phone : +33 1 48 75 59 59 - [http://www.dnd.fr](http://www.dnd.fr/ "Agence Dn'D - Agence E-commerce Magento")
 
 #### Use of the Website
 
