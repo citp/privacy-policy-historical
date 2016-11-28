@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the find-dvd.co.uk privacy policy that was archived on 2016-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160612000605id_/http%3A//www.find-dvd.co.uk/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the find-dvd.co.uk privacy policy that was archived on 2016-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161128035858id_/http%3A//www.find-dvd.co.uk/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" itemscope="" itemtype="http://schema.org/Product"><head>
     <title>www.find-dvd.co.uk - Privacy Policy and Cookies</title>
@@ -54,42 +54,23 @@
             <a href="http://www.facebook.com/FindDVD" target="_blank" style="float:left;"><img src="/img/joinus.png" alt="Join us on Facebook" style="border:none; float:left;"></a>
             <div style="float:left; width:200px;"><g:plusone size="medium" annotation="inline"></g:plusone></div>
 
+<div id="search">
             <form action="/search.aspx" method="get">
-                <table id="search" cellpadding="0" cellspacing="0">
-                <tbody><tr>
-                    <td>Search</td>
-                    <td>
-                        <select name="type">
-                            <option value="title">Title</option>
-                            <option value="keywords">All</option>
-                            <option value="actor">Actor</option>
-                            <option value="director">Director</option>
-                            <option value="bluray">Blu-Ray</option>
-                            <option value="boxset">Box Set</option>
-                        </select>
-                    </td>
-                    <td><input name="title" type="text" style="width:200px" value=""><input class="button" type="submit" value="submit"></td>
-                </tr>
-                </tbody></table>
-                
-                <!--
-                <ul id="search">
-                    <li>Compare region 2 DVD prices between UK retailers</li>
-                    <li>
-                        <select name="type">
-                            <option value="keywords"  >All</option>
-                            <option value="title"  >Title</option>
-                            <option value="actor"  >Actor</option>
-                            <option value="director"  >Director</option>
-                            <option value="bluray"  >Blu-Ray</option>
-                            <option value="boxset"  >Box Set</option>
-                        </select>
-                    </li>
-                    <li><input name="title" type="text" style="width:200px" /><input class="button" type="submit" value="submit" /></li>
-                </ul>
-                -->
+
+                <select name="type">
+                    <option value="title">Title</option>
+                    <option value="keywords">All</option>
+                    <option value="actor">Actor</option>
+                    <option value="director">Director</option>
+                    <option value="bluray">Blu-Ray</option>
+                    <option value="boxset">Box Set</option>
+                </select>
+                <input name="title" id="title" type="text" style="width:200px" value="">
+                <input type="image" src="\images\srchbtn.png" alt="DVD Search">
                 
             </form>
+</div>
+            
             <div class="push"></div>
             
             
@@ -227,7 +208,11 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 try {
 var pageTracker = _gat._getTracker("UA-6451114-5");
 pageTracker._trackPageview();
-} catch(err) {}</script>
+} catch(err) {}
+
+document.getElementById("title").focus();
+
+</script>
 
 
 
