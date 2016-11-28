@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wmr.co.th privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704050200id_/http%3A//wmr.co.th/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmr.co.th privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129002722id_/http%3A//webperspective.hk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Web Marketing & Reservations
+# Privacy Policy - Web Perspective Limited
 
 ## Privacy Policy
 
-At Web Marketing and Reservations Co., Ltd (WMR), we are dedicated to protecting the privacy and security of your Personal Information (“PI”) you provide us.
+At Web Perspective Ltd (WP), we are dedicated to protecting the privacy and security of your Personal Information (“PI”) you provide us.
 
 Below you will find the updated Privacy Policy for all our web sites, effective December 1st, 2012.
 
@@ -12,7 +12,7 @@ We understand that making purchases online involves a great deal of trust on you
 
 We reserve the right to modify or amend this policy at any time and for any reason. Any material changes to this Privacy Policy will be posted on our portfolio of web sites.
 
-Questions regarding this policy should be emailed to [us](mailto:contact@wmr.co.th)
+Questions regarding this policy should be emailed to [us](mailto:contact@webperspective.hk)
 
 ## What Is Private Information (PI)
 
@@ -34,7 +34,7 @@ In an effort to keep our service as simple and easy to use as possible, we do no
 
 ### When you provide Guest feed back or any user generated content
 
-This is an opt-in option where you may want to leave a feedback on one of our web sites about your experience either with the destination, the property you rented, a restaurants or any other items of your choice. We then collect and store your first name, last name and email address and you agree to transfer the copyright of your feedback to WMR.
+This is an opt-in option where you may want to leave a feedback on one of our web sites about your experience either with the destination, the property you rented, a restaurants or any other items of your choice. We then collect and store your first name, last name and email address and you agree to transfer the copyright of your feedback to WP.
 
 ### Other information we may collect (this is currently not systematic and may happen in the future)
 
@@ -62,7 +62,7 @@ We use your PI only for the purpose of responding to and fulfilling your request
 
 ### Purchase of products or services
 
-Information collected when you purchase from us is used by our or the Accommodation Supplier’s online payment gateway to charge your credit card and deliver your booking confirmation electronically. WMR never stores directly any information related to your credit card.
+Information collected when you purchase from us is used by our or the Accommodation Supplier’s online payment gateway to charge your credit card and deliver your booking confirmation electronically. WP never stores directly any information related to your credit card.
 
 We may also use your contact details to reach you about your stay for customer service purposes or to make any changes or cancellations to your booking.
 
@@ -72,9 +72,9 @@ By sending an enquiry and only when selecting unless the dedicated box in the en
 
 Our newsletters provide information about the latest deals available, new properties on our portfolio of websites.
 
-WMR’s mailing list is not given, sold, or lent to any third party.
+WP’s mailing list is not given, sold, or lent to any third party.
 
-If you wish to have your email address removed from WMR’s distribution list, you will be able to do so when you receive our next newsletter.
+If you wish to have your email address removed from WP’s distribution list, you will be able to do so when you receive our next newsletter.
 
 ### Communications with you
 
@@ -94,7 +94,7 @@ We may pass on your personal information to our Customer Service Department for 
 
 ### Accommodation Suppliers
 
-We provide the guest name for each enquiry made to the relevant Accommodation Supplier. You should be notified within 30 seconds that your enquiry has been send; if you do not, it is likely that your email address was wrongly inserted, we also advise you to check your spam folder. WMR also keeps an archive copy as a back-up for the Accommodation Suppliers.
+We provide the guest name for each enquiry made to the relevant Accommodation Supplier. You should be notified within 30 seconds that your enquiry has been send; if you do not, it is likely that your email address was wrongly inserted, we also advise you to check your spam folder. WP also keeps an archive copy as a back-up for the Accommodation Suppliers.
 
 Our Accommodation Suppliers require this information for the booking and may use it if they need to contact you about the booking.
 
@@ -120,11 +120,11 @@ You may unsubscribe to our newsletter at any time by using the unsubscribe tool 
 
 ### Booking information
 
-If at any time you would like to alter the PI you provided us in your booking, please send [us](mailto:contact@wmr.co.th) an email with your booking reference number in subject.
+If at any time you would like to alter the PI you provided us in your booking, please send [us](mailto:contact@webperspective.hk) an email with your booking reference number in subject.
 
 ### General
 
-If at any time you want to enquire about any of your PI that we store, please email [us](mailto:contact@wmr.co.th).
+If at any time you want to enquire about any of your PI that we store, please email [us](mailto:contact@webperspective.hk).
 
 ## How We Protect Your Information
 
@@ -136,7 +136,7 @@ In addition, we use leading security technology and procedures that are regularl
 
 We will not sell, distribute or lease your personal information to third parties unless we have your exclusive permission or are required by law to do so.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email [us](mailto:contact@wmr.co.th) as soon as possible. We will promptly correct any information you found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email [us](mailto:contact@webperspective.hk) as soon as possible. We will promptly correct any information you found to be incorrect.
 
 ## Links To Other Websites
 
