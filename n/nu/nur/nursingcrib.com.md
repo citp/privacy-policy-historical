@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nursingcrib.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613222425id_/http%3A//nursingcrib.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nursingcrib.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128203834id_/http%3A//nursingcrib.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nursing Crib
 
@@ -23,5 +23,3 @@ We use outside ad companies to display ads on our site. These ads may contain co
 
 **Contact Information**  
 If users have any questions or suggestions regarding our privacy policy, please contact us at:  nursingcrib[at]yahoo.com
-
-### What Do You Think?
