@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetlocals.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521051542id_/http%3A//www.meetlocals.com/public/info/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetlocals.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128221733id_/http%3A//www.meetlocals.com/public/info/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Meet Locals™
 
