@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billionphotos.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606171145id_/http%3A//billionphotos.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billionphotos.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128065259id_/http%3A//billionphotos.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ##### **Overview**
 
-This Privacy Policy introduces to your our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of the BillionDigital websites (included but not limited to [billiondigital.com](http://billiondigital.com/), [themler.com](http://themler.com/), [billionphotos.com](http://billionphotos.com/), [billionthemes.com](http://billionthemes.com/) and [answers.themler.com](http://answers.themler.com/) to be hereinafter referred to as the "Website"). By using the Website you consent to the collection, use and disclosure of your personal information in accordance with this Policy. If you have questions or concerns regarding this policy, you should first contact [BillionDigital Support](http://answers.themler.com/Topic/Create?term=%5Blicense%5D&private=1).
+This Privacy Policy introduces to your our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of the BillionDigital websites (included but not limited to [billiondigital.com](http://billiondigital.com/), [themler.com](http://themler.com/), [billionphotos.com](http://billionphotos.com/), [templates.themler.com](http://templates.themler.com/) and [answers.themler.com](http://answers.themler.com/) to be hereinafter referred to as the "Website"). By using the Website you consent to the collection, use and disclosure of your personal information in accordance with this Policy. If you have questions or concerns regarding this policy, you should first contact [BillionDigital Support](http://answers.themler.com/Topic/Create?term=%5Blicense%5D&private=1).
 
 #####  **Users**
 
