@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toddfalcone.com privacy policy that was archived on 2015-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150809202037id_/http%3A//toddfalcone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toddfalcone.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128134109id_/http%3A//toddfalcone.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Todd Falcone
+# Privacy Policy | Todd Falcone
 
 **ToddFalcone.com and all related Websites**
 
