@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfiteamcoop.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509001156id_/http%3A//www.sfiteamcoop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfiteamcoop.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128135530id_/http%3A//sfiteamcoop.com/privacy.php) for the most accurate reproduction.*
 
 # SFITeamCoop Privacy Policy
 
