@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exalead.fr privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624094900id_/http%3A//www.exalead.fr/search/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exalead.fr privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128055221id_/http%3A//www.exalead.fr/search/privacypolicy) for the most accurate reproduction.*
 
 # Legal Notice - Exalead
 
