@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidfta.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330101746id_/http%3A//bidfta.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidfta.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128122304id_/http%3A//bidfta.com/privacy_policy) for the most accurate reproduction.*
 
 # Fast Track Auctions | Privacy Policy
 
