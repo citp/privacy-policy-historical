@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pishposhbaby.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401091409id_/http%3A//www.pishposhbaby.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pishposhbaby.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128072249id_/http%3A//www.pishposhbaby.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
