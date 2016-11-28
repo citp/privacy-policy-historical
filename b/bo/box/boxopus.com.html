@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the boxopus.com privacy policy that was archived on 2016-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160430090844id_/https%3A//boxopus.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boxopus.com privacy policy that was archived on 2016-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161128183334id_/https%3A//boxopus.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -212,6 +212,12 @@ If you have any questions regarding this Privacy Policy, please contact <a href=
                     <input type="email" id="username" name="_username" class="form-control mb-2" autofocus="autofocus" autocomplete="on" required="required" placeholder="Your email">
                     <input type="password" id="password" name="_password" required="required" class="form-control mb-2" placeholder="Password">
 
+                    <div class="clearfix">
+                        <div class="pull-right">
+                            <a href="/resetting/request" class="btn btn-link">Forgot password?</a>
+                        </div>
+                    </div>
+
                     <div class="checkbox pull-right">
                         <label>
                             <input type="checkbox" id="remember_me" name="_remember_me" checked="checked"> Remember me forever :)
@@ -264,7 +270,7 @@ If you have any questions regarding this Privacy Policy, please contact <a href=
   </form>
         <ul id="plan-group-1-plans" class="ul-justified pt-h2 pb-h2">
                         <li class="pl-h2 pr-h2">
-                  <div class="pricing-plan ">
+                  <div class="pricing-plan text-center ">
                       <h3 class="mt0 mb-h4">7 days</h3>
                       <h2 class="mt0 mb-h4">$1.49</h2>
                                                 <span class="text-muted">&nbsp;</span>
@@ -283,7 +289,7 @@ If you have any questions regarding this Privacy Policy, please contact <a href=
                   </div>
               </li>
                         <li class="pl-h2 pr-h2">
-                  <div class="pricing-plan ">
+                  <div class="pricing-plan text-center ">
                       <h3 class="mt0 mb-h4">3 months</h3>
                       <h2 class="mt0 mb-h4">$14.49</h2>
                                                 <span class="text-strike text-muted">$17.49</span>
@@ -302,7 +308,7 @@ If you have any questions regarding this Privacy Policy, please contact <a href=
                   </div>
               </li>
                         <li class="pl-h2 pr-h2">
-                  <div class="pricing-plan pricing-plan-success">
+                  <div class="pricing-plan text-center pricing-plan-success">
                       <h3 class="mt0 mb-h4">12 months</h3>
                       <h2 class="mt0 mb-h4">$49.99</h2>
                                                 <span class="text-strike text-muted">$71.99</span>
@@ -325,6 +331,44 @@ If you have any questions regarding this Privacy Policy, please contact <a href=
                                                                                                                                                                         
 </div>
           </div>
+        </div>
+    </div>
+</div>
+            <div class="modal fade modal-lg" id="paymentMethodsModal" tabindex="-1" role="dialog" aria-labelledby="paymentMethodsModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <div class="page-header main-header no-border">
+                    <h3 class="mt-h2 text-center">Payment Methods</h3>
+                    <div class="text-center">
+                        <a href="#" class="paypal-submit-btn">
+                            <img src="/bundles/boxopus/img/payment-methods/paypal.png">
+                        </a>
+                    </div>
+                    <div class="text-center">
+                        <a href="#" class="bitcoin-form-toggle-btn">
+                            <img src="/bundles/boxopus/img/payment-methods/bitcoin.png">
+                        </a>
+                    </div>
+
+                    <div class="bitcoin-form-block">
+                        <form action="/payment/bitcoin/create" class="form-horizontal" method="post" id="bitcoinForm">
+                            <input type="hidden" name="plan_id" value="0" class="plan_id">
+                            <div class="form-group">
+                                <label for="inputEmail3" class="col-xs-offset-2 col-xs-2 control-label">Your
+                                    email</label>
+                                <div class="col-xs-4">
+                                    <input type="email" class="form-control" name="email" placeholder="Email">
+                                </div>
+                                <div class="col-xs-4">
+                                    <button type="submit" class="btn btn-primary">Buy</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>
