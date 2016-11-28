@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vvng.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608080652id_/http%3A//www.vvng.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vvng.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128181552id_/http%3A//www.vvng.com/privacy) for the most accurate reproduction.*
 
 # Privacy | VVNG.com Victor Valley News
 
@@ -8,9 +8,9 @@ This is the Privacy Policy for all Web sites owned or operated by Victor Valley 
 
 We want to communicate with you only if you want to hear from us. If you have questions or concerns regarding this Privacy Policy or if you wish to exclude your personal information from our direct marketing purposes, please feel free to contact us at:
 
-Po Box 2160  
+Po Box 401  
 Victorville , CA 92393  
-E-mail: [contact@vvng.com](mailto:contact@vvng.com)
+E-mail: [contact@vvng.com](mailto:news@vvng.com)
 
 If you would like to correct, update, or change your personal information with us please contact us the same way.
 
@@ -30,10 +30,10 @@ We use personal information and non-personal information for internal purposes, 
 
   * enhancing your experience at the Site;
   * performing administration and technical support for the Site;
-  * enabling you to enter sweepstakes, contests and other promotions;
+  * enabling you to enter sweepstakes, contests, and other promotions;
   * enabling you to use certain services and features available on or through the Site;
   * creating aggregate information about demographics and usage patterns;
-  * inviting our promotional vendors and advertisers—with your permission—to call to your attention special offers, products and services that may be of interest to you; and
+  * inviting our promotional vendors and advertisers—with your permission—to call to your attention special offers, products, and services that may be of interest to you; and
   * enabling purchases of goods and services.
 
 
@@ -56,7 +56,7 @@ We use encryption and authentication tools to protect the security of personal i
 
 The Site may contain links to Web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked Web sites may be different from our Privacy Policy. You access such linked Web sites at your own risk. You should always read the privacy policy of a linked Web site before disclosing any personal information on such site.
 
-**Discussion Board, Forums and Other User Generated Content**
+**Discussion Board, Forums and Other User-Generated Content**
 
 Our online chat areas, bulletin boards, social networks, mobile messaging services, other public forums and user-generated content (i.e., photos, videos) can be a useful way for you to express yourself to other online users. When you post messages or otherwise use these features, the information that you provide (including personal information) may be publicly available to, collected by, and used by third parties. We are not responsible for the content of such messages or images posted by users or such disclosures of personal information.
 
