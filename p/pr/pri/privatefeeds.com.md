@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privatefeeds.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504182907id_/http%3A//www.privatefeeds.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privatefeeds.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128092647id_/http%3A//www.privatefeeds.com/privacy.html%3F) for the most accurate reproduction.*
 
 # PrivateFeeds - Privacy Policy
 
