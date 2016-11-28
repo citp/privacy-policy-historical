@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jcosplay.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626153427id_/http%3A//www.jcosplay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcosplay.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128022839id_/http%3A//jcosplay.com/privacy) for the most accurate reproduction.*
 
 # jCosplay.com - Privacy Statement
 
