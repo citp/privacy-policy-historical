@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vector.us privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314050958id_/http%3A//vector.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vector.us privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128182210id_/http%3A//vector.me/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Vector.me
 
