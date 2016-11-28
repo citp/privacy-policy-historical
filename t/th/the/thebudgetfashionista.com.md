@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thebudgetfashionista.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606001708id_/http%3A//www.thebudgetfashionista.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebudgetfashionista.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128162325id_/http%3A//www.thebudgetfashionista.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of the Budget Fashionista
 
-This content may contain affiliate links. Please see our disclosures for more information.
+So, about our budget fashion and style advice: We sometimes use affiliate links, so we might earn a buck or two if you click and buy :) !
 
 Speak LLC (“us”, “we”, or “our”) operates the http://www.thebudgetfashionista.com website (the “Service”).
 
@@ -92,7 +92,19 @@ Our Service may contain links to other sites that are not operated by us. If you
 
 We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-Some of our content contains affiliate links, which means the site earns compensation if you make a purchase.
+To fund the ongoing operation of the website and continue to provide interesting content, we sometimes use affiliate links and publish sponsored posts and product reviews. These are described in more detail below.
+
+### Affiliate Links
+
+Affiliate links provide a commission back to us if you click on the link and make a purchase. Many but not all of our affiliate links look like this: thebudgetfashionista.com/recommends/… We do not collect any personally identifiable information when you click on an affiliate link.
+
+### Sponsored Posts
+
+A sponsored post is an article that is paid for. Sponsored posts on this site include a disclosure at the top of the post indicating who the sponsor is. Sponsors provide information used to write the post, but they do not dictate the exact nature of the post. All opinions contained within the sponsored post are those of the post author.
+
+### Product Reviews
+
+For some product reviews, we do receive the product free of charge. In these cases, this relationship is disclosed within the post. All brands that approach Budget Fashionista about providing free product in exchange for a review are told that we will accept the product, but we only do the review if we like the product. Reviews are written without input from the sponsoring brand, and all opinions are those of the post author.
 
 ## **Children’s Privacy**
 
