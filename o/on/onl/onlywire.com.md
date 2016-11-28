@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlywire.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616160224id_/https%3A//onlywire.com/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlywire.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128182111id_/http%3A//onlywire.com/privacy/policy) for the most accurate reproduction.*
 
 # OnlyWire | Social Media Auto-Submission
 
