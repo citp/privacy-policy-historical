@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the rnib.org.uk privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611161816id_/http%3A//www.rnib.org.uk/about-rnib/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rnib.org.uk privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128214431id_/http%3A//www.rnib.org.uk/about-rnib/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | RNIB | Supporting people with sight loss
+
+
+
 
 At RNIB we are committed to protecting your privacy online. We protect any personal information you give us while you use our websites. 
 
