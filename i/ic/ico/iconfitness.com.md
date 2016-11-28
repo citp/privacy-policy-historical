@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iconfitness.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424065945id_/http%3A//www.iconservice.com/CustomerService/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconfitness.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128092050id_/http%3A//www.iconservice.com/CustomerService/privacyPolicy.do) for the most accurate reproduction.*
 
 # ICON Health & Fitness, Inc. Customer Service - Privacy Policy
 
