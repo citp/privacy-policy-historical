@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visainfoservices.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518010031id_/https%3A//www.visainfoservices.com/Pages/Content.aspx%3FTag%3Dprivacy_statement_PAGE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visainfoservices.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128220518id_/https%3A//www.visainfoservices.com/Pages/Content.aspx%3FTag%3Dprivacy_statement_PAGE) for the most accurate reproduction.*
 
 # WorldBridge Visa Information
 
@@ -12,7 +12,7 @@ We respect your right to privacy. You are invited to search or browse the site w
 
 For the purposes of this privacy statement, “corporate affiliates” means any entity or joint venture that is wholly or partially owned by Computer Sciences Corporation. “Personal information” means any information which identifies you, such as your name, telephone number and email address. “Business Partners” means any subcontractor, vendor or other entity with whom we have an ongoing business relationship to provide products, services or information.
 
-If you choose to visit www.visainfoservices.com, your visit and any dispute over privacy is subject to this Privacy Statement, our [Website Use Terms](https://web.archive.org/web/20160518010031id_/https%3A//www.visainfoservices.com/Pages/Content.aspx?Tag=TermsOfUse_PAGE), and [Conditions of Sale](https://web.archive.org/web/20160518010031id_/https%3A//www.visainfoservices.com/Pages/Content.aspx?Tag=Condition_Sale_PAGE).
+If you choose to visit www.visainfoservices.com, your visit and any dispute over privacy is subject to this Privacy Statement, our [Website Use Terms](https://web.archive.org/web/20161128220518id_/https%3A//www.visainfoservices.com/Pages/Content.aspx?Tag=TermsOfUse_PAGE), and [Conditions of Sale](https://web.archive.org/web/20161128220518id_/https%3A//www.visainfoservices.com/Pages/Content.aspx?Tag=Condition_Sale_PAGE).
 
 ## Information we collect
 
