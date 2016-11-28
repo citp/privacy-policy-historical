@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hudforeclosed.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611070236id_/http%3A//www.hudforeclosed.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hudforeclosed.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128024437id_/http%3A//www.hudforeclosed.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Foreclosures, HUD Homes, Foreclosure Auctions, Preforeclosures. HUDforeclosed.com
 
-Last Updated: April 8, 2014
+Last Updated: October 20, 2016
 
 **Privacy Statement:**  
 We have developed this Privacy Policy to inform you of the data gathering and dissemination practices applicable to our web site ( Site ). By visiting, registering or using services obtained through our Site, you agree to the terms of this Privacy Policy.  If you do not agree with any terms of this Policy, please do not use or submit any personal information to this Site.
@@ -17,6 +17,8 @@ Personally Identifiable Information refers to any information that can be used t
 
 **Anti-SPAM Policy:**  
 The HUDforeclosed.com marketing program has a strict policy regarding unsolicited email. Because email is an integral part of our services, your signup ensures that you'll receive information relative to your interests at the time of your enrollment from HUDforeclosed.com. If you later wish to cease participation in this portion of our services, you may do so at any time by clicking the unsubscribe link or button found within such message.
+
+The purpose of Criteo Email is to find visitors of Criteo advertising clients' properties (websites, apps and newsletters) and send them personalized emails. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Email, [click here](https://emailprivacy.criteo.com/us/privacy-policy.html).
 
 Please note that opting not to receive email does not exempt you from receiving administrative and informational emails from us, which include but are not limited to, notices about membership status changes and alterations to our Terms.
 
