@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landlordzone.co.uk privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606203337id_/http%3A//www.landlordzone.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landlordzone.co.uk privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128212220id_/http%3A//www.landlordzone.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy « LandlordZONE
 
