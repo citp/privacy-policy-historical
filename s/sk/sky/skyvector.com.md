@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyvector.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318191825id_/https%3A//skyvector.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyvector.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128033249id_/https%3A//skyvector.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SkyVector
 
