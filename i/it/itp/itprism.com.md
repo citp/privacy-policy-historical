@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itprism.com privacy policy that was archived on 2015-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150708212915id_/http%3A//itprism.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itprism.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128165616id_/http%3A//itprism.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,9 @@ Note: the privacy practices set forth in this privacy policy are for this web si
 
 ### Collection of Information
 
-We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill you specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
+We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill you specific request. This information is only used to fulfill your specific request. We can also use it to add you to one of our mailing lists when we would like to announce campaigns with promotions and discounts.
+
+You are able to remove your account from our site at any time. To do that, you should send your request to our email address [support@itprism.com](mailto:support@itprism.com).
 
 ### Cookie/Tracking Technology
 
@@ -32,3 +34,5 @@ If you have any questions, concerns, or comments about our privacy policy you ma
 By e-mail using the contact form: http://itprism.com/contact
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
+
+* * *
