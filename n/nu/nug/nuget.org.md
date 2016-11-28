@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuget.org privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610155850id_/http%3A//www.nuget.org/policies/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuget.org privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128014729id_/https%3A//www.nuget.org/policies/Privacy) for the most accurate reproduction.*
 
 # NuGet Gallery | Privacy Policy
 
@@ -26,7 +26,7 @@ Non-personal information is data about usage and service operation that is not d
 
 ### Aggregate Information
 
-.NET Foundation may gather aggregate information, which refers to information your computer automatically provides to us and which cannot be tied back to you as a specific individual. Examples include referral data (the websites you visited just before and just after the Website), the Website pages viewed, time spent at the site, and Internet Protocol (IP) addresses. An IP address is a number that is automatically assigned to your computer whenever you access the Internet. For example, when you request a page from teh Website, our servers log your IP address to create aggregate reports on user demographics and traffic patterns and for purposes of system administration.
+.NET Foundation may gather aggregate information, which refers to information your computer automatically provides to us and which cannot be tied back to you as a specific individual. Examples include referral data (the websites you visited just before and just after the Website), the Website pages viewed, time spent at the site, and Internet Protocol (IP) addresses. An IP address is a number that is automatically assigned to your computer whenever you access the Internet. For example, when you request a page from the Website, our servers log your IP address to create aggregate reports on user demographics and traffic patterns and for purposes of system administration.
 
 ### Log Files
 
