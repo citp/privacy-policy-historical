@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the colgate.edu privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420131610id_/http%3A//www.colgate.edu/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colgate.edu privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128043717id_/http%3A//www.colgate.edu/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Colgate University
 
-Colgate is committed to safeguarding all personal information that we obtain about our customers and consumers both on-line and off-line. 
+Colgate is committed to safeguarding all personal information that we obtain about our customers and consumers both on-line and off-line.
 
 We do not routinely collect any personal information about you when you visit a Colgate website. We only collect personal information that is voluntarily given to Colgate by our users. 
 
