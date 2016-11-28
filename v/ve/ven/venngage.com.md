@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the venngage.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507163511id_/https%3A//venngage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venngage.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128215326id_/https%3A//venngage.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Venngage
+# Free Infographic Maker - Venngage
 
 ### Version 1.0
 
@@ -8,7 +8,7 @@
 
 ## Your privacy is important to us
 
-**Venngage Inc.** (1406-2 Carlton Street, Toronto, Ontario, M5B1J3, Canada) a company registered and operating under the laws of Canada (“ **Venngage** ”, “ **we** ”, “ **us** ” or “ **our** ”) respects your privacy and complies with applicable data protection and privacy laws. This policy regarding our privacy practices (the “ **Privacy Policy** ”) describes how we collect and use your personal data when you visit and use the services of our website available at: [http://venngage.com](http://venngage.com/) (“ **Website** ”). When you sign-up and use our Website and services, you are consenting to the processing of your personal data. “Personal data” means information relating to you or another identified or identifiable natural person. 
+**Venngage Inc.** (1406-2 Carlton Street, Toronto, Ontario, M5B1J3, Canada) a company registered and operating under the laws of Canada (" **Venngage** ", " **we** ", " **us** " or " **our** ") respects your privacy and complies with applicable data protection and privacy laws. This policy regarding our privacy practices (the " **Privacy Policy** ") describes how we collect and use your personal data when you visit and use the services of our website available at: [http://venngage.com](http://venngage.com/) (" **Website** "). When you sign-up and use our Website and services, you are consenting to the processing of your personal data. "Personal data" means information relating to you or another identified or identifiable natural person. 
 
 Please note that this Privacy Policy does not govern what our Website users do on their own blogs and we are not responsible for the information collection and use practices of their individual blogs and bloggers. 
 
