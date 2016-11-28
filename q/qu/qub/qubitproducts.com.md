@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the qubitproducts.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627104331id_/http%3A//www.qubit.com/legal/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qubitproducts.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128060423id_/http%3A//www.qubit.com/legal/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie policy | Qubit
 
-Privacy and Cookie policy
+Privacy and Cookie policy 
 
 Qubit, at all times, is committed to and actively seeks to protect and respect your privacy. This is of critical important to us.
 
