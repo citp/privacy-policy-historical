@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the upgradedself.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621213548id_/http%3A//www.bulletproof.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upgradedself.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128154453id_/http%3A//www.bulletproof.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
 ### Privacy Policy
 
-Last updated: August 3, 2015 
+Last updated: October 17, 2016 
 
-Bulletproof Digital, Inc. (“Bulletproof” “we”, “us” or “our”), values your privacy. In this Privacy Policy (“Policy”), we describe the information that we collect from and about you on our websites, including Bulletproofexec.com, Bulletproof.com, betterbabybook.com, and our other sites on which we post this Policy (collectively, the “Website”). By visiting the Website, you agree that your personal information will be handled as described in this Policy. Your use of our Website, and any dispute over privacy, is subject to this Policy and our [Terms of Service](https://web.archive.org/terms-conditions), including its applicable limitations on damages and the resolution of disputes. Our [Terms of Service](https://web.archive.org/terms-conditions), are incorporated by reference into this Policy.
+Bulletproof 360, Inc. (“Bulletproof” “we”, “us” or “our”), values your privacy. In this Privacy Policy (“Policy”), we describe the information that we collect from and about you on our websites, including Bulletproof.com, Bulletprooflabs.com, blog.bulletproof.com, betterbabybook.com, and our other sites on which we post this Policy (collectively, the “Website”). By visiting the Website, you agree that your personal information will be handled as described in this Policy. Your use of our Website, and any dispute over privacy, is subject to this Policy and our [Terms of Service](https://web.archive.org/terms-conditions), including its applicable limitations on damages and the resolution of disputes. Our [Terms of Service](https://web.archive.org/terms-conditions), are incorporated by reference into this Policy.
 
 Collection of Information
 
