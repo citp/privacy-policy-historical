@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ditchthecarbs.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629083558id_/http%3A//www.ditchthecarbs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ditchthecarbs.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128180257id_/http%3A//www.ditchthecarbs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ditch The Carbs
 
@@ -63,6 +63,6 @@ If you believe that any information we are holding on you is incorrect or incomp
 **Information Collected**  
 Ditch The Carbs collects as little information as possible from users looking to post comments. We will typically collect a name (either real or alias), personal website, and e-mail address.
 
-### FREE eBook - 15 Low Carb Healthy Treats
+**__**
 
-Subscribe now to receive your FREE copy of _**Low Carb Healthy Treats**_ eBook.
+Subscribe now to receive your FREE copy of **Top 10 low carb recipes** eBook, my newsletter and **secret discount codes** for subscribers only. 
