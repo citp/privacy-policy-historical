@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vision-net.ie privacy policy that was archived on 2016-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606192626id_/http%3A//www.vision-net.ie/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vision-net.ie privacy policy that was archived on 2016-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161128154221id_/http%3A//vision-net.ie/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -8,7 +8,6 @@
 
 <meta name="description" content="Our data protection and privacy policies.">
 <meta name="keywords" content="irish, ireland, company, information, business, director info, irish company documents, company information, company registration office, company accounts, registered address, documents, business information, company data, company search, research, business directory, industry sectors, suppliers, commercial, industrial, financial, accounts, legal reference, legal notices, articles, b10, company name, company number, business information resource tool, suppliers, creditors, transport, haulage, registered business number, shareholders, b2, g1, special resolution, liquidator, receiver, annual return, marc o'connor, sean kavanagh, company, formations, international, vision, net, cfi online, insolvency notices, judgments, judgements, creditor meetings, new companies, insolvency information, liquidations, business barometer, Credit Reports">
-
 <title>Data Protection and Privacy - Irish Company Info - Vision-Net</title>
 <link href="/assets/ico/favicon.ico" rel="shortcut icon">
 
@@ -20,15 +19,15 @@
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:700,600,400,300" rel="stylesheet" type="text/css">
 <!--[endif]-->
 
-<link href="/assets/css/style.min.css?v=80" rel="stylesheet">
+<link href="/assets/css/style.min.css?v=94" rel="stylesheet">
 
 <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.jsp">
 <!--[if lt IE 8]>
-	<link href="/assets/css/bootstrap-ie-7.css?v=80" rel="stylesheet"/>
-	<link href="/assets/css/bootstrap-ie-6.css?v=80" rel="stylesheet"/>
+	<link href="/assets/css/bootstrap-ie-7.css?v=94" rel="stylesheet"/>
+	<link href="/assets/css/bootstrap-ie-6.css?v=94" rel="stylesheet"/>
 <![endif]-->
 
-<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/assets/js/scripts.min.js?v=30"></script>
+<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/assets/js/scripts.min.js?v=32"></script>
 
 <!-- solve some conflicts with jquery ui and bootstrap -->
 <script type="text/javascript">
@@ -36,7 +35,9 @@ try {
 	$(function() {
 		$('input, textarea').placeholder();
 	});
-	if (top != self) top.location.href = location.href;
+
+if (top != self) top.location.href = location.href;
+
 } catch ( err ) { /* Do nothing */ }
 </script>
 <!-- stuff for the company reports -->
@@ -110,6 +111,15 @@ try {
 <script type="text/javascript">
 
 $(document).ready(function(){
+	$('.navbar-toggle').click(function () {
+		$('.navbar-nav').toggleClass('slide-in');
+		$('.side-body').toggleClass('body-slide-in');
+		$('#search').removeClass('in').addClass('collapse').slideUp(200);
+	});
+	$('#search-trigger').click(function () {
+		$('.navbar-nav').removeClass('slide-in');
+		$('.side-body').removeClass('body-slide-in');
+	});
 	$('.telephone img').tooltip();
 	$(".validate-terms").validate({
 		rules: {
@@ -211,7 +221,8 @@ function setIframeHeight(frameName){
 						<div onmouseover="style.cursor='pointer'" class="search_suggest search-box-results" id="search_suggest_all"></div>
 					</div>
 					<ul class="nav navbar-nav nav-headerLO uppercase">
-<li><a href="/register.jsp">Join Up</a></li>
+<li class="hire"><a href="/news/">Blog</a></li>
+						<li><a href="/register.jsp">Join Up</a></li>
 						<li><a href="/topupnli.jsp">Top-Up</a></li>
 						<li><a href="http://www.vision-net.ie/contactUs.jsp">About</a></li>
 						<li class="nav-button"><form action="https://www.vision-net.ie/loginNoFrame.jsp"><button type="submit" class="btn btn-warning btn-login">LOGIN</button></form></li>
@@ -280,31 +291,31 @@ function setIframeHeight(frameName){
 		</div>
 	</div>
 	<footer class="hidden-print">
-	  <div class="container">
+	<div class="container">
 		<div class="row">
-		  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
 			<h3 class="title">Vision-net.ie</h3>
 			<ul class="list-unstyled">
-			  <li><a href="/contactUs.jsp">About Us</a></li>
-			  <li><a href="/realTime.jsp">Real-Time Data</a></li>
+			<li><a href="/contactUs.jsp">About Us</a></li>
+			<li><a href="/realTime.jsp">Real-Time Data</a></li>
 <li><a href="/mediaClippings.jsp">Press</a></li>
 <li><a href="/freeServices.jsp">Complimentary Services</a></li>
 			</ul>
-		  </div>
-		  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
 			<h3 class="title">Your Account</h3>
 			<ul class="list-unstyled">
 				<li><a href="https://www.vision-net.ie/loginNoFrame.jsp">Login</a></li>
 					<li><a href="/register.jsp">Sign up</a></li>
 				<li><a href="/topupnli.jsp">Top-Up &amp; Renew</a></li>
-			  </ul>
-		  </div>
-		  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+			</ul>
+		</div>
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
 			<h3 class="title">The Small Print</h3>
 			<ul class="list-unstyled">
-			  <li><a href="/FAQ.jsp">FAQ</a></li>
-			  <li><a href="/terms.jsp">Terms and Conditions</a></li>
-			  <li><a href="/privacy.jsp">Privacy Policy</a></li>
+			<li><a href="/FAQ.jsp">FAQ</a></li>
+			<li><a href="/terms.jsp">Terms and Conditions</a></li>
+			<li><a href="/privacy.jsp">Privacy Policy</a></li>
 			</ul>
 		</div>
 		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
@@ -326,15 +337,15 @@ function setIframeHeight(frameName){
 					</ul>
 				</li>
 			</ul>
-		  </div>
+		</div>
 		</div>
 		<div class="row">
 			<div class="bottomdiv col-lg-12 col-md-12 col-sm-12">
-			<p class="text-center">© Vision-Net 2016 <span style="padding-right:20px;">Data Updated: 06 Jun 2016</span>
+			<p class="text-center">© Vision-Net 2016 <span style="padding-right:20px;">Data Updated: 28 Nov 2016</span>
 </p>
 			</div>
 		</div>
-	  </div>
+	</div>
 	</footer>
 <script type="text/javascript">
 try {
