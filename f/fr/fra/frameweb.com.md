@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the frameweb.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210135017id_/http%3A//www.frameweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frameweb.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128060819id_/http%3A//www.frameweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Frameweb
-
-###### – PRIVACY POLICY –
 
 Frame Publishers privacy policy covers the collection and use of personal information that may be collected by Frame Publishers anytime you interact with us, such as when you visit our website, when you purchase Frame products and services, or when you call our sales or support department. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information.
 
@@ -98,5 +96,5 @@ In the event that Frame Publishers or substantially all of its assets are acquir
 
 This privacy policy may be changed by Frame Publishers at any time. The revised policy will be posted to this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. Frame Publishers will ensure that your personal information is treated with the utmost respect and in accordance with Directive 95/46/EC on the protection of individuals with regard to processing of personal data and on the free movement of such data.
 
-© Frame Publishers 2006-2014  
+© Frame Publishers 2006-2016  
 All rights reserved
