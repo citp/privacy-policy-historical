@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the genscript.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615134636id_/http%3A//www.genscript.com/privacy_policy.html%3Fsrc%3Dpullmenu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genscript.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128181354id_/http%3A//www.genscript.com/privacy_policy.html%3Fsrc%3Dpullmenu) for the most accurate reproduction.*
 
-# Privacy Policy - GenScript
-
-| 
+# Privacy Policy
 
 Your information is important to GenScript. We respect your privacy and endeavour to protect your privacy. This Privacy Policy (“Policy”) provides information about the personal information that GenScript collects, the ways in which we share and use, and what choices are available to you before you decide to provide with us your information. This policy is available on GenScript home page and at the bottom of every GenScript web page. We encourage you to carefully and fully read the Policy before you use our website. We further welcome your questions and are glad to answer your concerns and suggestions.  
   
----  
 **Sites Covered by this Policy**  
 ****
 
