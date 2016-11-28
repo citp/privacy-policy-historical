@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpsocial.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616063702id_/http%3A//wpsocial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpsocial.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128021814id_/http%3A//wpsocial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WP Social
 
