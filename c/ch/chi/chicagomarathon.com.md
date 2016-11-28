@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagomarathon.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616073135id_/https%3A//www.bankofamerica.com/privacy/overview.go) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagomarathon.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128235457id_/https%3A//www.bankofamerica.com/privacy/overview.go) for the most accurate reproduction.*
 
 # Bank of America Privacy and Security
 
