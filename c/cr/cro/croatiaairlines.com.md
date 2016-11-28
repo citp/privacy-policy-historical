@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the croatiaairlines.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517070007id_/http%3A//www.croatiaairlines.com/Privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the croatiaairlines.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128201701id_/http%3A//www.croatiaairlines.com/Privacy-statement) for the most accurate reproduction.*
 
 # Croatia Airlines - Privacy statement
 
