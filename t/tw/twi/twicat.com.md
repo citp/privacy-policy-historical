@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twicat.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608191258id_/http%3A//twicat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twicat.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128062151id_/http%3A//twicat.com/privacy.html) for the most accurate reproduction.*
 
 # Free local classifieds - cars, real estate, homes, personal ads
 
