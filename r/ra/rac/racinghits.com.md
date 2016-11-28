@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racinghits.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605024925id_/http%3A//www.racinghits.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racinghits.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128081823id_/http%3A//www.racinghits.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
