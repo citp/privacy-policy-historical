@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reversewinesnob.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314063938id_/http%3A//www.reversewinesnob.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reversewinesnob.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128173427id_/http%3A//www.reversewinesnob.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Reverse Wine Snob®
 
@@ -6,9 +6,9 @@
 
 Reverse Wine Snob is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our on-line facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with Reverse Wine Snob of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
 
-**_THEREFORE_** , this Privacy Policy Agreement shall apply to Reverse Wine Snob and thus it shall govern any and all data collection and usage thereof. Through the use of reversewinesnob.com you are herein consenting to the following data procedures expressed within this agreement.
+ ** _THEREFORE_** , this Privacy Policy Agreement shall apply to Reverse Wine Snob and thus it shall govern any and all data collection and usage thereof. Through the use of reversewinesnob.com you are herein consenting to the following data procedures expressed within this agreement.
 
-**Collection of Information**  
+ **Collection of Information**  
 This website collects various types of information, such as:
 
 • Voluntarily provided information which may include your name, address, email address, billing and/or credit card information etc., which may be used when you purchase products and/or services and to deliver the services you have requested.
@@ -23,7 +23,7 @@ It is even possible that we may gather information about your computer hardware 
 
 It is highly recommended and suggested that you review the privacy policies and statements of any website you choose to use or frequent as a means to better understand the way in which other websites garner, make use of and share information collected.
 
-**Use of Information Collected**  
+ **Use of Information Collected**  
 Reverse Wine Snob may collect and may make use of personal information to assist in the operation of our website and to ensure delivery of the services you need and request. At times, we may find it necessary to use personally identifiable information meant to inform you of other possible products and/or services that may be available to you from reversewinesnob.com and its subsidiaries and may also be in contact with you with regards to completing surveys and/or research questionnaires related to your opinion of current or possible new services that are offered or may be offered.
 
 Reverse Wine Snob does not now, nor will it in the future, sell, rent or lease any of its customer lists and/or names to any third parties.
@@ -42,30 +42,30 @@ b) Safeguard and/or preserve all the rights and/or property of Reverse Wine Snob
 
 c) Perform under demanding conditions in an effort to safeguard the personal safety of users of reversewinesnob.com and/or the general public.
 
-**Children Under Age of 13**  
+ **Children Under Age of 13**  
 Reverse Wine Snob does not knowingly collect personal identifiable information from children under the age of thirteen (13) without verifiable parental consent. If it is determined that such information has been inadvertently collected on anyone under the age of thirteen (13), we shall immediately take the necessary steps to ensure that such information is deleted from our system’s database. Anyone under the age of thirteen (13) must seek and obtain parent or guardian permission to use this website.
 
-**Unsubscribe or Opt-Out**  
+ **Unsubscribe or Opt-Out**  
 All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to the email on our website. If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out.
 
-**Links to Other Web Sites**  
+ **Links to Other Web Sites**  
 Our website does contain links to affiliate and other websites, such as [this one](http://formswift.com/privacy-policy) where this document has been generated. Reverse Wine Snob does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. The aforementioned Privacy Policy Agreement applies only and solely to the information collected by our website.
 
-**Security**  
+ **Security**  
 Reverse Wine Snob shall endeavor and shall take every precaution to maintain adequate physical, procedural and technical security with respect to its offices and information storage facilities so as to prevent any loss, misuse, unauthorized access, disclosure or modification of the user’s personal information under our control.
 
-**Changes to Privacy Policy Agreement**  
+ **Changes to Privacy Policy Agreement**  
 Reverse Wine Snob reserves the right to update and/or change the terms of our privacy policy, and as such we will post those change to our website homepage at reversewinesnob.com, so that our users and/or visitors are always aware of the type of information we collect, how it will be used, and under what circumstances, if any, we may disclose such information. If at any point in time Reverse Wine Snob decides to make use of any personally identifiable information on file, in a manner vastly different from that which was stated when this information was initially collected, the user or users shall be promptly notified by email. Users at that time shall have the option as to whether or not to permit the use of their information in this separate manner.
 
-**Acceptance of Terms**  
+ **Acceptance of Terms**  
 Through the use of this website, you are hereby accepting the terms and conditions stipulated within the aforementioned Privacy Policy Agreement. If you are not in agreement with our terms and conditions, then you should refrain from further use of our sites. In addition, your continued use of our website following the posting of any updates or changes to our terms and conditions shall mean that you are in agreement and acceptance of such changes.
 
-**How to Contact Us**  
+ **How to Contact Us**  
 If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email, telephone number or mailing address.
 
-**Email:** [jon@reversewinesnob.com](mailto:jon@reversewinesnob.com)
+ **Email:** [jon@reversewinesnob.com](mailto:jon@reversewinesnob.com)
 
-**EDITORIAL POLICY**  
+ **EDITORIAL POLICY**  
 The content of www.reversewinesnob.com is chosen completely at the discretion of the owners of Reverse Wine Snob. Rest assured we are 100% independent. No one can pay to change the opinions written at www.reversewinesnob.com. Selling our editorial content would destroy the legitimacy, integrity, and fun of Reverse Wine Snob and would ruin the trust between Reverse Wine Snob and its users.
 
 On occasion we will share “sponsored” content on behalf of organizations that have something special to offer our readers. This content will be marked as sponsored. We may also accept advertising from wine related organizations or share affiliate links for products that we endorse; however, all wine reviews are held to the same high standards whether they are sponsored or not. The existence of (or lack thereof) an advertising or affiliate relationship does not influence a wine’s rating.
