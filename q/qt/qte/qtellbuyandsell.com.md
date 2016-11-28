@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qtellbuyandsell.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517075022id_/http%3A//www.qtellbuyandsell.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qtellbuyandsell.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128130333id_/http%3A//www.qtellbuyandsell.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
-# Cuba - Buy and Sell Free Classified Ads Free Post Buy and Sell Free Classifiedads Free Advertise World Global Free Post sell Free Classified
+# Buy and Sell Free Classified Ads Free Post Buy and Sell Free Classifiedads Free Advertise World Global Free Post sell Free Classified
 
   
 1\. Introduction
