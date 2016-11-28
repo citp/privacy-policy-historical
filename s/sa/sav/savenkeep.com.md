@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savenkeep.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051110id_/http%3A//www.savenkeep.com/terms/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savenkeep.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128234741id_/http%3A//www.savenkeep.com/terms/policy.html) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - Savenkeep
 
@@ -11,7 +11,7 @@ In the latter case, the Site will automatically acquire your name, email address
 We also inform you that the personal data subject to processing may also constitute - depending also on your decision on how to use the Services - text information, photographic or video material, audio tracks, telephone utilities or any other information suitable for use as identification of the person concerned or identifiable depending on the type of Services requested. According to the provisions of the Privacy Act, the processes performed by MOQU will be based on the principles of fairness, legality and transparency and for the protection of your confidentiality and your rights.  
 **  
 Data Controller and Managers  
-** The details of the Processing Controller are as follows: MOQU ADV Srl, with registered offices in Viale Giovine Italia 17, Florence, 50122, Italy. The updated list of Processing Managers can be found at the registered offices of the Data Controller, and can be contacted for consultation at any time.
+** The details of the Processing Controller are as follows: MOQU ADV Srl, with registered offices in in Via del Bosco Rinnovato 8, Milanofiori Nord, Assago (MI) - 20090, Building U4, Italy. The updated list of Processing Managers can be found at the registered offices of the Data Controller, and can be contacted for consultation at any time.
 
  **Purposes of processing  
 ** The data are processed for the purposes of provided the Services requested by the User. They will also be processed to comply with all legal, accounting and tax obligations. Personal data may also be processed for the purposes of enabling a user to browse and consult the Site. Note also that data are processed for the purpose of collection, conservation and processing of your data in order to conduct statistical analyses in anonymous and/or aggregate form, without the possibility of identifying the user as a person, aimed at monitoring the quality of services offered. Lastly, the optional, explicit and intentional delivery of emails to the addresses indicated on this Site will lead to the subsequent acquisition of the sender's address, required to send responses to requests, as well as any other personal data included in the message. Any specific and dedicated information will be progressively reported or displayed on the Site pages set up for specific services available on request.
@@ -61,10 +61,10 @@ In accordance with the above article, you are also entitled to request cancellat
 Contacts    
 **For any further information or to exert your rights as stated in [article 7 of Leg. Decree 196/2003](http://www.garanteprivacy.it/) (Italy) mentioned above please write to the email address displayed by the Captcha code viewed in the section “[Contacts](http://www.savenkeep.com/contact.html)” of the site, or send by fax to the number 055 20021550, stating your reasons for the request and attaching a copy of a valid ID document of the person concerned (legal representative in the case of a legal entity).
 
-In the case of requests sent by normal post, please address to:  
- _MOQU ADV Srl  _  
- _Viale della Giovine Italia 17_  
- _Firenze - CAP 50122_  
- _Italy_
+ _MOQU ADV Srl  
+_ _Via del Bosco Rinnovato 8 -  _ _Milanofiori Nord  
+Assago (MI), CAP 20090   
+Building U4  
+_ _Italy_
 
 Note that only correctly formulated requests will be processed. ** **
