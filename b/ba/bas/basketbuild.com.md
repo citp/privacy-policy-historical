@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basketbuild.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426141627id_/https%3A//basketbuild.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basketbuild.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128200249id_/https%3A//basketbuild.com/privacy) for the most accurate reproduction.*
 
 # BasketBuild :: Privacy Policy
 
