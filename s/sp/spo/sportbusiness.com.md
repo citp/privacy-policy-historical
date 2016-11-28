@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the sportbusiness.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409201226id_/http%3A//www.sportbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportbusiness.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128215855id_/http%3A//www.sportbusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SportBusiness Group
-
-## You are here
-
-  1. Privacy Policy
-
-
 
 ##  Information collection and use
 
