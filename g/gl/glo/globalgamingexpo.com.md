@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globalgamingexpo.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628212436id_/http%3A//www.globalgamingexpo.com/Show-Info/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgamingexpo.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128032235id_/http%3A//www.globalgamingexpo.com/Show-Info/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - G2E 2016
+# Privacy Policy - G2E 2017
 
 Reed Exhibitions and Global Gaming Expo respect the information provided by our customers. Because we gather certain types of information when our customers communicate with us, we believe you should fully understand the terms and conditions surrounding the information we capture and the use of that information. This privacy statement discloses the type of information we capture about our customers, how we use it to communicate with our customers, and how you can request to no longer receive communications from Global Gaming Expo.
 
