@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nijobs.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616143340id_/http%3A//www.nijobs.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nijobs.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128155233id_/http%3A//www.nijobs.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - nijobs.com
 
@@ -105,7 +105,7 @@ If, at any time, you do not wish to remain a registered user of any of the above
 
 
 
-## Seecurity and control of your personal data
+## Security and control of your personal data
 
   * We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy. 
   * Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Website, you are responsible for keeping this password confidential. You must not to share your Website password with anyone. 
