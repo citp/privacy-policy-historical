@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wize.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211212157id_/http%3A//wize.com/serv/wiseus/buyer/Content.jsp%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wize.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128182751id_/http%3A//www.wize.com/serv/wiseus/buyer/Content.jsp%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Wize - Privacy Policy
 
