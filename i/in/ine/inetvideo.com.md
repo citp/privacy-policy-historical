@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the inetvideo.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605201003id_/http%3A//www.inetvideo.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inetvideo.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128084342id_/http%3A//www.inetvideo.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+* * *
 
 We at iNetVideo take the visitor’s privacy and the security of his/her personal information very seriously. Our goal is to maintain the visitor’s trust and confidence when handling his/ her personal information. What Personal Information iNetVideo collects, why is it collected, how it is protected, the circumstances under which it may be disclosed, and how it may be changed or corrected. By visiting iNetVideo and all of its affiliated websites (as defined in Terms and Conditions), the visitor consents to the subsequent practices described in this Privacy Policy. 
 
