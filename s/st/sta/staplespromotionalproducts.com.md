@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staplespromotionalproducts.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525091625id_/http%3A//www.staplespromotionalproducts.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staplespromotionalproducts.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128135322id_/http%3A//www.staplespromotionalproducts.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Staples Promotional Products Privacy Policy
 
@@ -14,7 +14,7 @@ At Staples your privacy is as important to us as it is to you. Our Customer Pers
 
 
 
-This Privacy Policy applies to all of the services and websites offered by Staples, Inc., our subsidiaries, and affiliated companies. Staples offers many different websites for many different business purposes. As this Privacy Policy applies to all of our websites, they are collectively referred to as Website throughout this policy. The Website is also governed by its [Terms of Use](https://web.archive.org/web/20160525091625id_/http%3A//www.staplespromotionalproducts.com/landing/Terms-of-Use/). If any of the terms of this Privacy Policy directly conflict with the [Terms of Use](https://web.archive.org/web/20160525091625id_/http%3A//www.staplespromotionalproducts.com/landing/Terms-of-Use/), the terms of this Privacy Policy will apply.
+This Privacy Policy applies to all of the services and websites offered by Staples, Inc., our subsidiaries, and affiliated companies. Staples offers many different websites for many different business purposes. As this Privacy Policy applies to all of our websites, they are collectively referred to as Website throughout this policy. The Website is also governed by its [Terms of Use](https://web.archive.org/web/20161128135322id_/http%3A//www.staplespromotionalproducts.com/landing/Terms-of-Use/). If any of the terms of this Privacy Policy directly conflict with the [Terms of Use](https://web.archive.org/web/20161128135322id_/http%3A//www.staplespromotionalproducts.com/landing/Terms-of-Use/), the terms of this Privacy Policy will apply.
 
 If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at:  
 [sales@StaplesPromoProducts.com](mailto:sales@staplespromoproducts.com)
