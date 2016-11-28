@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the downloadhub.net privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617005729id_/http%3A//downloadhub.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadhub.net privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128104659id_/http%3A//downloadhub.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Downloadhub.Net
+# Privacy Policy
+
+## _**Privacy Policy**_
 
 ### **…::: Exclusive  On DownloadHub.Net Team :::…**
 
@@ -24,4 +26,4 @@ _**We can be reached via our contact e-mail to ** _[worldfree4u.es@gmail.com]_**
 
 ### **…::: Exclusive  On DownloadHub.Net Team :::…**
 
-[](http://j.mp/1rKA8Kr)
+[](https://1gbits.com/dedicated-server/)
