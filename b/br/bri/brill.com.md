@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brill.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625022239id_/http%3A//www.brill.com/about/policies/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brill.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128235855id_/http%3A//www.brill.com/about/policies/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Brill
 
@@ -7,7 +7,7 @@
 
 ### **Privacy Policy**
 
-BRILL is concerned about privacy and guards your data closely. We value our relationship with you and recognize the importance of protecting the privacy of your personal information.   The information we have about our customers is protected and secure, and we work diligently to ensure that preferences regarding the use of your information are honored.
+BRILL is concerned about privacy and guards your data closely. We value our relationship with you and recognize the importance of protecting the privacy of your personal information.  The information we have about our customers is protected and secure, and we work diligently to ensure that preferences regarding the use of your information are honored.
 
 **EU Cookie Law - June 2012**
 
@@ -15,17 +15,17 @@ The Dutch government has updated the Privacy and Electronic Communications Regul
 
 Brill is currently in the process of auditing the use of cookies across its sites. Information on the types of cookies Brill uses are listed **below**. In the near future, Brill will allow visitiors to actively block any cookies we use.
 
-Brill summarize its position as folllows:
+Brill summarizes its position as folllows:
 
 "Voor de meting van webstatistieken verzamelen wij anonieme gegevens over het gebruik van deze website. Door analyse van de verzamelde gegevens kan de website worden verbeterd en kunnen wij onze dienstverlening verder optimaliseren. De verzamelde gegevens worden niet voor een ander doel gebruikt of aan derden ter beschikking gesteld. Het gaat onder andere om het tijdstip en de duur van uw bezoek en welke pagina's u heeft bezocht. Ook wordt gebruikgemaakt van cookies. Een cookie is een bestand dat op uw computer wordt opgeslagen en waarmee u bij een vervolgbezoek op onze website kunt worden herkend. Als u bezwaar heeft tegen het gebruik van cookies, dan kunt u dit in uw browser instellen. Wij gebruiken IP-adressen en cookies niet om u persoonlijk te identificeren. Onze cookies kunnen niet worden gebruikt om u op websites van derden te identificeren."
 
 "For the measurement of web statistics, we collect anonymous data concerning the use of this website. By analyzing the collected data, we look to improve our website, further optimizing our service. The data collected is not given to a third party for any other purpose . This data includes the timing and depth of visits and the pages you, the user have visited, or (in the case of "share buttons") have shared with your contacts or colleagues. It also uses cookies. A cookie is a file that is stored on your computer and provides you with a return visit to our website which allows you to be recognized. If you object to the use of cookies, you can do this in your browser. We use IP addresses and cookies to personally identify you. Our cookies cannot be used on other websites to identify you."
 
 **Email**  
-As part of the registration or account setup or when you request an inspection copy of a text or make a purchase, BRILL may require your email address. The email address you provide as part of the process will be used to contact you regarding your transaction.  We track "click-throughs" to help determine your interest in particular topics and measure the effectiveness of our customer communications.
+As part of the registration or account setup or when you request an inspection copy of a text or make a purchase, BRILL may require your email address. The email address you provide as part of the process will be used to contact you regarding your transaction. We track "click-throughs" to help determine your interest in particular topics and measure the effectiveness of our customer communications.
 
 **Contact Information**  
-As part of purchasing products from Brill, you may be required to supply us with personal information. If you do not wish to be contacted, for customers in the Americas, please take advantage of the opt-out feature in our communications or let us know by contacting [marketing@brill.com](mailto:marketing@brill.com).  An “opt-in”  option is available for compliance where applicable.
+As part of purchasing products from Brill, you may be required to supply us with personal information. If you do not wish to be contacted, for customers in the Americas, please take advantage of the opt-out feature in our communications or let us know by contacting [marketing@brill.com](mailto:marketing@brill.com). An “opt-in”  option is available for compliance where applicable.
 
 Disclosure of Personal Data  
 BRILL currently does not sell or rent any personally identifiable information to Third Parties.  Additionally, we may disclose information in special cases when we have reason to believe that disclosing this information is reasonably necessary to: comply with the law, enforce or apply our terms of business, protect our rights and those of our users, or with your consent.
