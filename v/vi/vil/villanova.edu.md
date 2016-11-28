@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the villanova.edu privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608152514id_/http%3A//www1.villanova.edu/villanova/unit/about/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villanova.edu privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128181504id_/http%3A//www1.villanova.edu/villanova/unit/about/policies/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
