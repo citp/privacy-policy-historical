@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therawfoodworld.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618212329id_/http%3A//www.therawfoodworld.com/help.phtml%3Fhid%3D40) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therawfoodworld.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128083630id_/https%3A//www.therawfoodworld.com/help.phtml%3Fhid%3D40) for the most accurate reproduction.*
 
 # The Raw Food World
 
