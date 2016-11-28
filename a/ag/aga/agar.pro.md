@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agar.pro privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324005158id_/http%3A//agar.pro/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agar.pro privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128110341id_/http%3A//agar.pro/privacy.txt) for the most accurate reproduction.*
 
 # 
 
