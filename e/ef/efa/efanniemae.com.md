@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efanniemae.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109145046id_/http%3A//www.fanniemae.com/portal/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efanniemae.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129095907id_/http%3A//www.fanniemae.com/portal/privacy-statement.html) for the most accurate reproduction.*
 
 # Online Privacy Notice | Fannie Mae
 
@@ -19,12 +19,12 @@ This Online Privacy Notice does not apply to information provided to us by busin
 **Information We Collect  
 ** We may obtain certain personal information (such as name and other contact details) through our Sites. Here are the most common types of information: 
 
-  * Contact information (such as name, postal address, e-mail address, telephone number and fax number); 
-  * Login and access credentials (such as username and password); 
-  * Information about your property or mortgage loan; 
-  * Age and gender; 
-  * Real estate license number; 
-  * Responses to brief online surveys; or 
+  * Contact information (such as name, postal address, e-mail address, telephone number and fax number);
+  * Login and access credentials (such as username and password);
+  * Information about your property or mortgage loan;
+  * Age and gender;
+  * Real estate license number;
+  * Responses to brief online surveys; or
   * Comments you submit through our Sites. 
 
 
@@ -35,17 +35,17 @@ We offer visitors to our Sites various services, which we may change from time t
 
 When you visit our Sites, information may be collected through automated technologies such as cookies, web server logs and web beacons. A "cookie" is a file that Web sites send to a visitor's computer or other Internet-connected device to uniquely identify the visitor's browser or to store information or settings in the browser. A "web beacon," also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. The information collected using these tools may include your IP address, browser characteristics, operating system, the address of the web page that referred you to our Site, dates and times of Site visits, the language your system uses, and the country and time zone in which your device is located. These technologies permit the collection of "clickstream data," which may include a log of content you access while browsing a website.
 
-We have no arrangements in place with other parties (e.g., advertisers) to collect your personally identifiable information about your online activities when visiting our Sites. On some of our Sites, however, we use third-party web analytics services, such as SiteCatalyst, ForeSee and Google Analytics. These services may rely upon technologies such as cookies, web server logs and web beacons to help us analyze how visitors reach and interact with our Sites. The information collected through these means (including IP address) is disclosed to or collected directly by these service providers. To learn more about SiteCatalyst's collection and analysis of information by automated means, including how to opt out, [click here](http://www.adobe.com/solutions/digital-analytics/analytics-reporting-capabilities.html). To learn more about Google's collection and analysis of information by automated means, including how to opt out, [click here](http://www.google.com/analytics/learn/privacy.html). To learn more about ForeSee's collection and analysis of information by automated means, including how to opt out, [click here](http://www.foreseeresults.com/products/). We do not block nor identify "do not track" signals sent by your browser or other mechanism that provides you a choice regarding the collection of personally identifiable information about your online activities over time and across third party Web sites and online services.
+We have no arrangements in place with other parties (e.g., advertisers) to collect your personally identifiable information about your online activities when visiting our Sites. On some of our Sites, however, we use third-party web analytics services, such as SiteCatalyst, ForeSee, Google Analytics, and/or UserZoom. These services may rely upon technologies such as cookies, web server logs and web beacons to help us analyze how visitors reach and interact with our Sites. The information collected through these means (including IP address) is disclosed to or collected directly by these service providers. To learn more about SiteCatalyst's collection and analysis of information by automated means, including how to opt out, [click here](http://www.adobe.com/solutions/digital-analytics/analytics-reporting-capabilities.html). To learn more about ForeSee's collection and analysis of information by automated means, including how to opt out, [click here](http://www.foreseeresults.com/products/). In Google Analytics, we have enabled “Demographics and Interest Reports,” a Google Advertising Feature which collects data about web traffic via Google Advertising Cookies. This Advertising Feature allows Google to provide us information concerning visitor demographics, such as age and gender, along with information related to the interests visitors express through their online travel and purchasing activities. To learn more about Google Advertising Cookies and how to manage cookies within your browser, [click here](https://www.google.com/policies/technologies/types/). To opt out of Google Advertising Cookies, [click here](https://tools.google.com/dlpage/gaoptout/). To learn more about Google's additional collection and analysis of information by automated means, including how to opt out, [click here](http://www.google.com/analytics/learn/privacy.html). To learn more about UserZoom’s collection and analysis of information by automated means, including how to opt out, [click here](https://s2.userzoom.com/s/ct/ct.aspx?s=C492S21&v=ALL#TOU). We do not block nor identify "do not track" signals sent by your browser or other mechanism that provides you a choice regarding the collection of personally identifiable information about your online activities over time and across third party Web sites and online services.
 
 **How We Use the Information We Collect  
 ** We may use the information we collect to: 
 
-  * Verify your identity; 
-  * Provide, administer and communicate with you about products, services, and events; 
-  * Create, administer and communicate with you about your online account or subscription; 
-  * Process, evaluate and respond to your requests, inquiries and applications; 
-  * Provide and administer communications tools available through our sites, such as tools for submitting online offers to purchase homes owned by Fannie Mae; 
-  * Operate, evaluate and improve our business (including developing new products and services; managing our communications; performing market research; managing our advertising and marketing; analyzing our products, services and our sites; administering our sites; and performing accounting, auditing, billing, reconciliation and collection activities); 
+  * Verify your identity;
+  * Provide, administer and communicate with you about products, services, and events;
+  * Create, administer and communicate with you about your online account or subscription;
+  * Process, evaluate and respond to your requests, inquiries and applications;
+  * Provide and administer communications tools available through our sites, such as tools for submitting online offers to purchase homes owned by Fannie Mae;
+  * Operate, evaluate and improve our business (including developing new products and services; managing our communications; performing market research; managing our advertising and marketing; analyzing our products, services and our sites; administering our sites; and performing accounting, auditing, billing, reconciliation and collection activities);
   * Protect against and prevent fraud, unauthorized activity, claims and other liabilities; or
   * Comply with and enforce applicable legal requirements, industry standards and our policies and terms of use  
 
@@ -79,6 +79,6 @@ Fannie Mae
 Washington, DC 20016 
 
 E-mail:  
-[Privacy_WorkingGroup@fanniemae.com](https://web.archive.org/portal/jsp/contact-us-form.html?emailID=ten)
+[Privacy_WorkingGroup@fanniemae.com](http://www.fanniemae.com/portal/jsp/contact-us-form.html?emailID=ten)
 
-Effective date: January 1, 2014
+Effective date: September 19, 2016
