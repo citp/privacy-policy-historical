@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lamido.com.my privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629010133id_/http%3A//www.lazada.com.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamido.com.my privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129114741id_/http%3A//www.lazada.com.my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LAZADA Malaysia
 
