@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rti.org privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406070345id_/http%3A//www.rti.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rti.org privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129235322id_/http%3A//www.rti.org/privacy-policy) for the most accurate reproduction.*
 
-# RTI International - Privacy Policy
+# Privacy Policy | RTI
 
 This Privacy Statement (“Privacy Statement”) explains how RTI International (“RTI,” “us,” “our,” and “we”) uses your information and applies to all who use our website, mobile applications, electronic services, or social networking sites (collectively referred to as the “Site”).
 
@@ -71,7 +71,7 @@ We may also disclose Non-Identifiable Information:
 
 
 
-We do not share Personal Information with Third-Party Ad-Servers; however, Third-Party Ad-Servers may automatically collect Non-Identifying Information about your visit to the Site and other websites, your device address, your Internet Service Provider and the browser you use to visit the Site. They do this by using Cookies, clear gifs and other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visits to the Site and the other websites tracked by these third parties. This Privacy Statement does not cover the collection methods or use of the information collected by Third-Party Ad-Servers, and RTI is not responsible for Cookies or clear gifs in third party ads. We encourage you to review the privacy policies or statements of these third party advertising companies to learn more about their use of Cookies and other technologies. If you would like more information about this practice and to know your choices about not having this information used by third party advertisers, please visit [www.networkadvertising.org](http://www.networkadvertising.org/).
+We do not share Personal Information with Third-Party Ad-Servers; however, Third-Party Ad-Servers may automatically collect Non-Identifying Information about your visit to the Site and other websites, your device address, your Internet Service Provider and the browser you use to visit the Site. They do this by using Cookies, clear gifs and other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visits to the Site and the other websites tracked by these third parties. This Privacy Statement does not cover the collection methods or use of the information collected by Third-Party Ad-Servers, and RTI is not responsible for Cookies or clear gifs in third party ads. We encourage you to review the privacy policies or statements of these third party advertising companies to learn more about their use of Cookies and other technologies. If you would like more information about this practice and to know your choices about not having this information used by third party advertisers, please visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
 ## 5\. How RTI Collects Information
 
@@ -115,7 +115,7 @@ RTI International
 3040 E. Cornwallis  
 Research Triangle Park, NC 27709
 
-If you reside in Canada, you may have the right to be provided with access to Personal Information that we have collected about you and written information about our policies and practices with respect to the transfer of your personal information to Vendors outside Canada. To find out more, please email us at [listen@rti.org](mailto:listen@rti.org?subject=Privacy%20Policy)
+If you reside in Canada, you may have the right to be provided with access to Personal Information that we have collected about you and written information about our policies and practices with respect to the transfer of your personal information to Vendors outside Canada. To find out more, please email us at [listen@rti.org](mailto:listen@rti.org?subject=Privacy%20Policy)
 
 Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of personal information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. In particular, the law provides that companies must inform consumers about the categories of personal information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by RTI pursuant to Section 1798.83 of the California Civil Code, please contact us via the email or address stated above. Please allow 30 days for a response.
 
