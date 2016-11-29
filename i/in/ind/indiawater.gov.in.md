@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiawater.gov.in privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612170922id_/http%3A//www.mdws.gov.in/website-policies-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiawater.gov.in privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129152842id_/http%3A//www.mdws.gov.in/website-policies-0) for the most accurate reproduction.*
 
 # Website Policies | Ministry of Drinking Water and Sanitation
 
@@ -38,3 +38,11 @@ These terms and conditions shall be governed by and construed in accordance with
 MDWS website does not automatically capture any specific personal information from you, (like name, phone number or e-mail address), that allows us to identify you individually.  
 If this website requests you to provide personal information, you will be informed for the particular purposes for which the information is gathered and adequate security measures will be taken to protect your personal information.  
 MDWS does not sell or share any personally identifiable information volunteered on this website to any third party (public/private). Any information provided to this Portal will be protected from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
+
+* * *
+
+## Copyright Policy
+
+All the contents available on the Ministry of Drinking Water and Sanitation website are indigenously developed by Ministry of Drinking Water and Sanitation and there is no third party content present on this website. If any third party content is present on the website then Ministry of Drinking Water and Sanitation has obtained the due permissions as per the copyright policies of the third parties whose contents are published on this website.
+
+Contents of this website may not be reproduced partially or fully, without due permission from the Ministry of Drinking Water and Sanitation. It’s content, if referred to and/or forms a part of content of another website, the content-source must be appropriately acknowledged. The contents of this website cannot be used in any misleading or objectionable context.
