@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limelightdaily.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624044535id_/http%3A//limelightdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limelightdaily.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129072431id_/http%3A//limelightdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Limelight Daily
 
