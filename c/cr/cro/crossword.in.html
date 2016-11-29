@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the crossword.in privacy policy that was archived on 2016-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160604122404id_/http%3A//www.crossword.in/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crossword.in privacy policy that was archived on 2016-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161129113112id_/http%3A//www.crossword.in/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" data-add_this_id=""><head>
         
@@ -28,18 +28,26 @@
 
     
 
-    <!--[if (!IE)|(gte IE 8)]><!-->
-<link href="http://cdn-a2.buildabazaar.com/packages/bootstrap-datauri.css?1461302076" media="all" rel="stylesheet" type="text/css">
+    
+    
+    
+      
+      <!--[if (!IE)|(gte IE 8)]><!-->
+<link href="http://cdn-a2.buildabazaar.com/packages/bootstrap-datauri.css?1476393273" media="all" rel="stylesheet" type="text/css">
 <!--<![endif]-->
 <!--[if lte IE 7]>
-<link href="http://cdn-a2.buildabazaar.com/packages/bootstrap.css?1461302076" media="all" rel="stylesheet" type="text/css" />
+<link href="http://cdn-a2.buildabazaar.com/packages/bootstrap.css?1476393273" media="all" rel="stylesheet" type="text/css" />
 <![endif]-->
-    <!--[if (!IE)|(gte IE 8)]><!-->
-      <link href="http://cdn-a2.buildabazaar.com/exthemes/13/41/200/theme-1341200-1/stylesheets/site-datauri.css?1458208316" media="all" rel="stylesheet" type="text/css">
-    <!--<![endif]-->
-    <!--[if lte IE 7]>
-      <link href="http://cdn-a2.buildabazaar.com/exthemes/13/41/200/theme-1341200-1/stylesheets/site-.css?1458208316" media="screen" rel="stylesheet" type="text/css" />
-    <![endif]-->
+      <!--[if (!IE)|(gte IE 8)]><!-->
+        <link href="http://cdn-a2.buildabazaar.com/exthemes/13/41/200/theme-1341200-1/stylesheets/site-datauri.css?1478759062" media="all" rel="stylesheet" type="text/css">
+      <!--<![endif]-->
+      <!--[if lte IE 7]>
+        <link href="http://cdn-a2.buildabazaar.com/exthemes/13/41/200/theme-1341200-1/stylesheets/site-.css?1478759062" media="screen" rel="stylesheet" type="text/css" />
+      <![endif]-->
+    
+    
+
+
     
     <!--[if lt IE 10]>
       <script type="text/javascript" src="/javascripts/respondIE/respondmore.min.js"></script>
@@ -57,12 +65,12 @@
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
     <script type="text/javascript">
       !window.jQuery.ui && document.write(unescape("%3Cscript src='/javascripts/jquery-ui-1.8.16.custom.min.js' type='text/javascript'%3E%3C/script%3E"));
-    </script>
+    </script><script src="/javascripts/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script>
 
-    <script src="http://cdn-a2.buildabazaar.com/packages/bootstrap.js?1464350442" type="text/javascript"></script>
+    <script src="http://cdn-a2.buildabazaar.com/packages/bootstrap.js?1476393273" type="text/javascript"></script>
 
-    <script src="http://cdn-a2.buildabazaar.com/javascripts/site-javascripts/1341200/global.js?1455109494abc" type="text/javascript"></script>
-    <script src="http://cdn-a2.buildabazaar.com/exthemes/13/41/200/theme-1341200-1/javascripts/site.js?1458208316" type="text/javascript"></script>
+    <script src="http://cdn-a2.buildabazaar.com/javascripts/site-javascripts/1341200/global.js?1470116627" type="text/javascript"></script>
+    <script src="http://cdn-a2.buildabazaar.com/exthemes/13/41/200/theme-1341200-1/javascripts/site.js?1478759062" type="text/javascript"></script>
     <script type="text/javascript">
       !window.JSON && document.write(unescape('%3Cscript src="http://cdn-a2.buildabazaar.com/javascripts/json2.js?1429854677" type="text/javascript"%3E%3C/script%3E'));
     </script>
@@ -74,11 +82,11 @@
 
         
 
-        // TRIGGER EVENT TO SHOW ADD TO CART AS POPUP        
-          search_page_product_view_options = {}
-          if (search_page_product_view_options.popup_enabled)
+        // TRIGGER EVENT TO SHOW ADD TO CART AS POPUP
+          effect_options = null
+          if (effect_options && effect_options.add_to_cart_popup)
           {
-            $(document).trigger('add_to_cart_popup_effect',search_page_product_view_options.effect_options);
+            $(document).trigger('add_to_cart_popup_effect',effect_options);
           }
         // END
 
@@ -105,7 +113,7 @@
         
 
         
-          $(document).trigger("show-cart-details",{"total_quantity":true,"show_on_hover":{"carousel":{"enabled":false,"options":{"vertical":false,"visible":"","scroll":""}},"enabled":false,"item_count_limit":0,"item_details":{"quantity":true,"delete_confirmation":false,"image":false,"delete_item":false,"price":false,"title":false}},"total_amount":false});
+          $(document).trigger("show-cart-details",{"total_amount":false,"total_quantity":true,"show_on_hover":{"carousel":{"enabled":false,"options":{"vertical":false,"scroll":"","visible":""}},"enabled":false,"item_details":{"delete_confirmation":false,"quantity":true,"image":false,"price":false,"delete_item":false,"title":false},"item_count_limit":0}});
         
 
         
@@ -169,7 +177,7 @@
         a Javascript enabled browser.</span></noscript>
 
       
-      <div id="page" class="f-search_view_type f-new_browse_node_urls_in_sdp_and_search f-bab_channel_store f-bulk_webstore_feeds_limit f-layout_change_enabled f-additional_layouts_for_selection f-tweeter f-reviews f-crazysort f-gplus f-notify_me_when_available_active f-cod f-search_hint f-quick_view f-go_to_top_btn f-autocomplete f-infinite_scroll f-cart_details_in_header f-fb_con f-google_connect f-linkedin_connect f-twitter_connect f-enable_checkout_product_image f-customer_points_number f-addon_shipping_calculators f-product_list_widget f-translation f-hold_order_for_msku_tax_missing f-fb_connect f-carousel_type f-shopping_cart_reminder f-price_range f-zipcode_serviceability_check_on_pdp f-invoice_options f-conversion_tracking_code_snippet f-universal_google_analytics f-sms_verification_for_cod f-support_custom_url f-tax_class_id f-promotion_details">
+      <div id="page" class="f-search_view_type f-new_browse_node_urls_in_sdp_and_search f-bab_channel_store f-bulk_webstore_feeds_limit f-layout_change_enabled f-additional_layouts_for_selection f-tweeter f-reviews f-crazysort f-gplus f-notify_me_when_available_active f-cod f-search_hint f-quick_view f-go_to_top_btn f-autocomplete f-infinite_scroll f-cart_details_in_header f-fb_con f-google_connect f-linkedin_connect f-twitter_connect f-enable_checkout_product_image f-customer_points_number f-addon_shipping_calculators f-product_list_widget f-translation f-hold_order_for_msku_tax_missing f-fb_connect f-carousel_type f-shopping_cart_reminder f-price_range f-zipcode_serviceability_check_on_pdp f-invoice_options f-conversion_tracking_code_snippet f-universal_google_analytics f-sms_verification_for_cod f-support_custom_url f-tax_class_id f-promotion_details f-webstore_feeds_catalog_update_downloads f-payment_methods_limit f-pdp_max_qty_selectable f-allow_bing_bot">
       
       
       
@@ -186,6 +194,13 @@
               
               <div class=" col-md-12 col-sm-12">
                 
+                  <div class="html-widget header _widget clearfix"><p style="margin: 0px; padding: 0px; height: 0px;">&nbsp;</p>
+<style><!--
+#product-detail-page span.badge-item .html-badge {
+    display: none;
+}
+--></style></div>
+                
                   <div class="advanced-header-widget header _widget clearfix">
 
 
@@ -199,7 +214,7 @@
     </div>
     <div class="col-md-9 col-sm-9">
       <div class="top-links">
-        <a href="/" class=" home">Home</a>  |  <a href="/login" class=" login">Login</a>  |  <a href="/shopping-cart" class=" shopping-cart my_cart">my cart</a>  |  <a href="/my-account" class=" my-account">My Account</a>  |  <a href="/track-your-order" class=" track-your-order">Track Your Order</a>  |  <a href="/help" class=" help">Help</a>  |  <a href="/wish-list" class=" my-wish-list">my Wish List</a>  |  <a href="/contact_us" class=" customer-care">customer care</a>
+        <a href="/" class=" home">Home</a>  |  <a href="/login" class=" login">Login</a>  |  <a href="/shopping-cart" class=" shopping-cart my_cart">my cart</a>  |  <a href="/my-account" class=" my-account">My Account</a>  |  <a href="/track-your-order" class=" track-your-order">Track Your Order</a>  |  <a href="/faq" class=" help">Help</a>  |  <a href="/wish-list" class=" my-wish-list">my Wish List</a>  |  <a href="/contact_us" class=" customer-care">customer care</a>
       </div>
       <div class="row">
         <div class="col-md-3 col-sm-3 "></div>
@@ -329,6 +344,306 @@
 <li><a href="/books-health-fitness-diets">Diets</a></li>
 <li><a href="/books-health-fitness-diseases">Diseases</a></li>
 <li><a href="/books-health-fitness-weight-loss">Weight Loss</a></li>
+</ul>
+</div>
+</div></div></li>
+  
+
+      </ul>
+    </li>
+  
+
+  
+  
+    <li class="dropdown"><a href="/electronics-computers-and-accessories/search" class="dropdown-toggle " data-toggle="dropdown">Computers &amp; Accessories<b class="caret"></b></a>
+      
+      <ul class="dropdown-menu ">
+        
+        
+  
+  
+    <li><div class="  html-menu"><h5><a href="http://www.crossword.in/electronics-computers-and-accessories-laptops/search">LAPTOPS, PRINTERS AND STORAGE</a></h5>
+<div class="row">
+<div class="col-md-3">
+<h4><a href="/electronics-computers-and-accessories-laptops/search">Laptops</a></h4>
+<ul class="ui-sortable">
+<li><a href="/electronics-computers-and-accessories-laptops/search#/?make%5B%5D=apple&amp;_xhr=1">Apple</a></li>
+<li><a href="/electronics-computers-and-accessories-laptops/search#/?make%5B%5D=hp&amp;_xhr=1">HP</a></li>
+<li><a href="/electronics-computers-and-accessories-laptops/search#/?make%5B%5D=dell&amp;_xhr=1">Dell</a></li>
+<li><a href="/electronics-computers-and-accessories-laptops/search#/?make%5B%5D=lenovo&amp;_xhr=1">Lenovo</a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h4><a href="/electronics-computers-and-accessories-memory-storage/search">Storage Devices</a></h4>
+<ul class="ui-sortable">
+<li><a href="/electronics-computers-and-accessories-memory-storage-pen-drives/search">Pen Drives</a></li>
+<li><a href="/electronics-computers-and-accessories-memory-storage-hard-disks/search">Hard Disks</a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h4><a href="/electronics-computers-and-accessories-printers-scanners/search">Printers/Scanners</a></h4>
+<ul class="ui-sortable">
+<li><a href="/electronics-computers-and-accessories-printers-scanners-printers/search">Printers</a></li>
+<li><a href="/electronics-computers-and-accessories-printers-scanners-scanners/search">Scanners</a></li>
+<li><a href="/electronics-computers-and-accessories-printers-scanners-cartridges/search">Ink Cartridges</a></li>
+<li><a href="/electronics-computers-and-accessories-monitors-projectors/search">Projectors</a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h4><a href="/electronics-computers-and-accessories-desktop-pcs/search">Desktops/Monitors</a></h4>
+<ul class="ui-sortable">
+<li><a href="/electronics-computers-and-accessories-monitors-projectors/search">LED Monitors</a></li>
+<li><a href="/electronics-computers-and-accessories-desktop-pcs/search">Desktops and PCs</a></li>
+</ul>
+</div>
+</div>
+<h5><a href="http://www.crossword.in/electronics-computers-and-accessories/search">COMPUTERS &amp; ACCESSORIES</a></h5>
+<div class="row">
+<div class="col-md-3">
+<h4><a href="/electronics-computers-and-accessories-components/search">Components</a></h4>
+<ul class="ui-sortable">
+<li><a href="/electronics-computers-and-accessories-components-graphic-cards/search">Graphic Cards</a></li>
+<li><a href="/electronics-computers-and-accessories-components-motherboards/search">Motherboards</a></li>
+<li><a href="/electronics-computers-and-accessories-components-processors/search">Processors</a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h4><a href="/electronics-computers-and-accessories-accessories/search">Accessories</a></h4>
+<ul class="ui-sortable">
+<li><a href="/electronics-computers-and-accessories-accessories-bags/search">Laptop Bags</a></li>
+<li><a href="/electronics-computers-and-accessories-accessories-mouse-keyboards/search">Mouse</a></li>
+<li><a href="/electronics-computers-and-accessories-accessories-mouse-keyboards/search">Keyboards</a></li>
+<li><a href="/electronics-computers-and-accessories-accessories-webcams/search">Webcams</a></li>
+<li><a href="/electronics-computers-and-accessories-accessories-batteries/search">Laptop Battery</a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h4><a href="/electronics-computers-and-accessories-networking/search">Networking Devices</a></h4>
+<ul class="ui-sortable">
+<li><a href="/electronics-computers-and-accessories-networking-routers/search">Routers</a></li>
+<li><a href="/electronics-computers-and-accessories-networking-data-cards/search">Data Cards</a></li>
+<li><a href="/electronics-computers-and-accessories-networking-adapters/search">Adapters</a></li>
+<li><a href="/electronics-computers-and-accessories-networking-switches/search">Switches</a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h4><a href="/electronics-computers-and-accessories-software/search">Computer Softwares</a></h4>
+<ul class="ui-sortable">
+<li><a href="/electronics-computers-and-accessories-software-anti-virus/search">Antivirus &amp; Security</a></li>
+<li><a href="/electronics-computers-and-accessories-software-os/search">Operating System</a></li>
+<li><a href="/electronics-computers-and-accessories-software-ms-office/search">Microsoft Office</a></li>
+<li><a href="/electronics-computers-and-accessories-software-educational/search">Educational Softwares</a></li>
+</ul>
+</div>
+</div></div></li>
+  
+
+      </ul>
+    </li>
+  
+
+  
+  
+    <li class="dropdown"><a href="/toys-kids-and-babies" class="dropdown-toggle " data-toggle="dropdown">Toys Kids &amp; Baby Products<b class="caret"></b></a>
+      
+      <ul class="dropdown-menu ">
+        
+        
+  
+  
+    <li><div class="  html-menu"><h5><a href="/toys-kids-and-babies-baby-products">Accessories and Baby Care</a></h5>
+<div class="row">
+<div class="col-md-3">
+<h4><a href="/toys-kids-and-babies-toys-games">Toys &amp; Furniture</a></h4>
+<ul class="ui-sortable">
+<li><a href="/toys-kids-and-babies-baby-products-baby-gear-nursery">Baby Gear &amp; Nursery</a></li>
+<li><a href="/search?q=cradles">Cradles &amp; Beds</a></li>
+<li><a href="/toys-kids-and-babies-toys-games">Toys &amp; Games</a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h4><a href="/toys-kids-and-babies-baby-products">Baby Care</a></h4>
+<ul class="ui-sortable">
+<li><a href="/toys-kids-and-babies-baby-products-bath-skin-health">Bath, Skin and Health</a></li>
+<li><a href="/toys-kids-and-babies-baby-products-clothing-shoes">Shoes</a></li>
+<li><a href="/toys-kids-and-babies-baby-products-diapers-wipes-and-bags">Diapers, Wipes and Bags</a></li>
+</ul>
+</div>
+<div class="col-md-2">
+<h4><a><!--blank--></a></h4>
+<ul class="ui-sortable">
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h4><a><!--blank--></a></h4>
+<ul class="ui-sortable">
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+</ul>
+</div>
+</div>
+<h5><a href="/toys-kids-and-babies-baby-products-clothing-shoes">Clothing</a></h5>
+<div class="row">
+<div class="col-md-3">
+<h4><a href="#">Baby's Clothing</a></h4>
+<ul class="ui-sortable">
+<li><a href="http://www.crossword.in/toys-kids-and-babies-baby-products/search?q=tops%20and%20shorts">Tops &amp; Shorts</a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h4><a><!--blank--></a></h4>
+<ul class="ui-sortable">
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h4><a><!--blank--></a></h4>
+<ul class="ui-sortable">
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h4><a><!--blank--></a></h4>
+<ul class="ui-sortable">
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+</ul>
+</div>
+</div></div></li>
+  
+
+      </ul>
+    </li>
+  
+
+  
+  
+    <li class="dropdown"><a href="/home-and-kitchen" class="dropdown-toggle " data-toggle="dropdown">Home &amp; Kitchen Appliances<b class="caret"></b></a>
+      
+      <ul class="dropdown-menu ">
+        
+        
+  
+  
+    <li><div class="  html-menu"><h5><a href="/home-and-kitchen-home-appliances">Home Appliances</a></h5>
+<div class="row">
+<div class="col-md-3">
+<h4><a href="/home-and-kitchen-home-appliances">Large Appliances</a></h4>
+<ul class="ui-sortable">
+<li><a href="/home-and-kitchen-home-appliances-refrigerators">Refrigerator</a></li>
+<li><a href="/home-and-kitchen-home-appliances-air-conditioners">Air Conditioner</a></li>
+<li><a href="/home-and-kitchen-home-appliances-washing-machines">Washing Machine</a></li>
+<li><a href="/home-and-kitchen-kitchen-appliances-microwaves">Microwaves</a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h4><a href="/home-and-kitchen-home-appliances">Home Appliances</a></h4>
+<ul class="ui-sortable">
+<li><a href="/home-and-kitchen-home-appliances-irons">Irons</a></li>
+<li><a href="/home-and-kitchen-home-appliances-water-purifiers">Water Purifiers</a></li>
+<li><a href="/home-and-kitchen-kitchenware-stove-cooktops">Gas Stove</a></li>
+<li><a href="/home-and-kitchen-home-appliances-vacuum-cleaners">Vacuum Cleaners</a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h4><a href="http://www.crossword.in/home-and-kitchen-home-appliances">Heaters &amp; Fans</a></h4>
+<ul class="ui-sortable">
+<li><a href="/home-and-kitchen-home-appliances-fans">Fans</a></li>
+<li><a href="/home-and-kitchen-home-appliances-geysers">Geysers</a></li>
+<li><a href="/home-and-kitchen-home-appliances-room-heaters">Room Heaters</a></li>
+<li><a href="/search?q=air+coolers">Air Coolers</a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h4><a><!--blank--></a></h4>
+<ul class="ui-sortable">
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+</ul>
+</div>
+</div>
+<h5><a href="/home-and-kitchen-kitchen-appliances">Kitchen Appliances</a></h5>
+<div class="row">
+<div class="col-md-3">
+<h4><a href="/home-and-kitchen-kitchen-appliances">Cooking Essentials</a></h4>
+<ul class="ui-sortable">
+<li><a href="/home-and-kitchen-kitchenware-stove-cooktops">Induction Cooktops</a></li>
+<li><a href="/kitchen-appliances-juicer-mixer-grinder">Mixer Juicer Grinder</a></li>
+<li><a href="/kitchen-appliances-blenders-choppers">Blenders &amp; Choppers</a></li>
+<li><a href="/kitchen-appliances-food-processors">Food Processor</a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h4><a href="/home-and-kitchen-kitchen-appliances">Breakfast &amp; Snacks</a></h4>
+<ul class="ui-sortable">
+<li><a href="/kitchen-appliances-sandwich-makers-toasters">Pop up Toaster</a></li>
+<li><a href="/home-and-kitchen-kitchen-appliances-tea-coffee-makers">Tea &amp; Coffee Maker</a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h4><a><!--blank--></a></h4>
+<ul class="ui-sortable">
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h4><a><!--blank--></a></h4>
+<ul class="ui-sortable">
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
+<li><a href="#"><!--blank--></a></li>
 </ul>
 </div>
 </div></div></li>
@@ -520,115 +835,6 @@
 
   
   
-    <li class="dropdown"><a href="/home-and-kitchen" class="dropdown-toggle " data-toggle="dropdown">Home &amp; Kitchen Appliances<b class="caret"></b></a>
-      
-      <ul class="dropdown-menu ">
-        
-        
-  
-  
-    <li><div class="  html-menu"><h5><a href="/home-and-kitchen-home-appliances">Home Appliances</a></h5>
-<div class="row">
-<div class="col-md-3">
-<h4><a href="/home-and-kitchen-home-appliances">Large Appliances</a></h4>
-<ul class="ui-sortable">
-<li><a href="/home-and-kitchen-home-appliances-refrigerators">Refrigerator</a></li>
-<li><a href="/home-and-kitchen-home-appliances-air-conditioners">Air Conditioner</a></li>
-<li><a href="/home-and-kitchen-home-appliances-washing-machines">Washing Machine</a></li>
-<li><a href="/home-and-kitchen-kitchen-appliances-microwaves">Microwaves</a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-</ul>
-</div>
-<div class="col-md-3">
-<h4><a href="/home-and-kitchen-home-appliances">Home Appliances</a></h4>
-<ul class="ui-sortable">
-<li><a href="/home-and-kitchen-home-appliances-irons">Irons</a></li>
-<li><a href="/home-and-kitchen-home-appliances-water-purifiers">Water Purifiers</a></li>
-<li><a href="/home-and-kitchen-kitchenware-stove-cooktops">Gas Stove</a></li>
-<li><a href="/home-and-kitchen-home-appliances-vacuum-cleaners">Vacuum Cleaners</a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-</ul>
-</div>
-<div class="col-md-3">
-<h4><a href="http://www.crossword.in/home-and-kitchen-home-appliances">Heaters &amp; Fans</a></h4>
-<ul class="ui-sortable">
-<li><a href="/home-and-kitchen-home-appliances-fans">Fans</a></li>
-<li><a href="/home-and-kitchen-home-appliances-geysers">Geysers</a></li>
-<li><a href="/home-and-kitchen-home-appliances-room-heaters">Room Heaters</a></li>
-<li><a href="/search?q=air+coolers">Air Coolers</a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-</ul>
-</div>
-<div class="col-md-3">
-<h4><a><!--blank--></a></h4>
-<ul class="ui-sortable">
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-</ul>
-</div>
-</div>
-<h5><a href="/home-and-kitchen-kitchen-appliances">Kitchen Appliances</a></h5>
-<div class="row">
-<div class="col-md-3">
-<h4><a href="/home-and-kitchen-kitchen-appliances">Cooking Essentials</a></h4>
-<ul class="ui-sortable">
-<li><a href="/home-and-kitchen-kitchenware-stove-cooktops">Induction Cooktops</a></li>
-<li><a href="/kitchen-appliances-juicer-mixer-grinder">Mixer Juicer Grinder</a></li>
-<li><a href="/kitchen-appliances-blenders-choppers">Blenders &amp; Choppers</a></li>
-<li><a href="/kitchen-appliances-food-processors">Food Processor</a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-</ul>
-</div>
-<div class="col-md-3">
-<h4><a href="/home-and-kitchen-kitchen-appliances">Breakfast &amp; Snacks</a></h4>
-<ul class="ui-sortable">
-<li><a href="/kitchen-appliances-sandwich-makers-toasters">Pop up Toaster</a></li>
-<li><a href="/home-and-kitchen-kitchen-appliances-tea-coffee-makers">Tea &amp; Coffee Maker</a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-</ul>
-</div>
-<div class="col-md-3">
-<h4><a><!--blank--></a></h4>
-<ul class="ui-sortable">
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-</ul>
-</div>
-<div class="col-md-3">
-<h4><a><!--blank--></a></h4>
-<ul class="ui-sortable">
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-</ul>
-</div>
-</div></div></li>
-  
-
-      </ul>
-    </li>
-  
-
-  
-  
     <li class="dropdown"><a href="/home-and-kitchen-dacor-home-improvement" class="dropdown-toggle " data-toggle="dropdown">Home Decor and Furnishing<b class="caret"></b></a>
       
       <ul class="dropdown-menu ">
@@ -707,108 +913,6 @@
 <li><a href="/health-fitness-gym-equipments">Gym Equipments</a></li>
 <li><a href="/health-fitness-health-care">Health Care</a></li>
 <li><a href="/health-fitness-health-supplements">Health Supplements</a></li>
-</ul>
-</div>
-</div></div></li>
-  
-
-      </ul>
-    </li>
-  
-
-  
-  
-    <li class="dropdown"><a href="/toys-kids-and-babies" class="dropdown-toggle " data-toggle="dropdown">Toys Kids &amp; Baby Products<b class="caret"></b></a>
-      
-      <ul class="dropdown-menu ">
-        
-        
-  
-  
-    <li><div class="  html-menu"><h5><a href="/toys-kids-and-babies-baby-products">Accessories and Baby Care</a></h5>
-<div class="row">
-<div class="col-md-3">
-<h4><a href="/toys-kids-and-babies-toys-games">Toys &amp; Furniture</a></h4>
-<ul class="ui-sortable">
-<li><a href="/toys-kids-and-babies-baby-products-baby-gear-nursery">Baby Gear &amp; Nursery</a></li>
-<li><a href="/search?q=cradles">Cradles &amp; Beds</a></li>
-<li><a href="/toys-kids-and-babies-toys-games">Toys &amp; Games</a></li>
-</ul>
-</div>
-<div class="col-md-3">
-<h4><a href="/toys-kids-and-babies-baby-products">Baby Care</a></h4>
-<ul class="ui-sortable">
-<li><a href="/toys-kids-and-babies-baby-products-bath-skin-health">Bath, Skin and Health</a></li>
-<li><a href="/toys-kids-and-babies-baby-products-clothing-shoes">Shoes</a></li>
-<li><a href="/toys-kids-and-babies-baby-products-diapers-wipes-and-bags">Diapers, Wipes and Bags</a></li>
-</ul>
-</div>
-<div class="col-md-2">
-<h4><a><!--blank--></a></h4>
-<ul class="ui-sortable">
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-</ul>
-</div>
-<div class="col-md-3">
-<h4><a><!--blank--></a></h4>
-<ul class="ui-sortable">
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-</ul>
-</div>
-</div>
-<h5><a href="/toys-kids-and-babies-baby-products-clothing-shoes">Clothing</a></h5>
-<div class="row">
-<div class="col-md-3">
-<h4><a href="#">Baby's Clothing</a></h4>
-<ul class="ui-sortable">
-<li><a href="http://www.crossword.in/toys-kids-and-babies-baby-products/search?q=tops%20and%20shorts">Tops &amp; Shorts</a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-</ul>
-</div>
-<div class="col-md-3">
-<h4><a><!--blank--></a></h4>
-<ul class="ui-sortable">
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-</ul>
-</div>
-<div class="col-md-3">
-<h4><a><!--blank--></a></h4>
-<ul class="ui-sortable">
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-</ul>
-</div>
-<div class="col-md-3">
-<h4><a><!--blank--></a></h4>
-<ul class="ui-sortable">
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
-<li><a href="#"><!--blank--></a></li>
 </ul>
 </div>
 </div></div></li>
@@ -1048,7 +1152,7 @@
 <li><a href="/school-office-diaries-notebooks">Diaries &amp; Notebooks</a></li>
 <li><a href="/school-office-office-supplies-files-and-folders">Files &amp; Folders</a></li>
 <li><a href="/school-office-pens">Pens &amp; Pencils</a></li>
-<li><a href="#"><!--blank--></a></li>
+<li><a href="/stationery">Stationery</a></li>
 <li><a href="#"><!--blank--></a></li>
 <li><a href="#"><!--blank--></a></li>
 </ul>
@@ -1249,6 +1353,21 @@
 
       </ul>
     </li>
+  
+
+  
+  
+    <li><a href="/books" class=" ">BOOKS</a></li>
+  
+
+  
+  
+    <li><a href="/toys-kids-and-babies-toys-games" class=" ">TOYS</a></li>
+  
+
+  
+  
+    <li><a href="http://www.crossword.in/stationery" class=" " target="_blank">Stationery</a></li>
   
 
   
@@ -1512,7 +1631,6 @@
 <ul>
 <li><a href="/about_us" target="_self">About us</a></li>
 <li><a href="/our-directors" target="_self">Our Directors</a></li>
-<li><a href="/events" target="_self">Events</a></li>
 <li><a href="http://www.crosswordbookaward.com/" target="_blank">Crossword Book Award</a></li>
 <li><a href="/advertise-with-us" target="_self">Advertise with us</a></li>
 <li><a href="/crossword-franchisee" target="_self">Crossword Franchisee</a></li>
@@ -1563,6 +1681,35 @@
                 
                   <div class="html-widget footer _widget clearfix"><p class="copyright">© 2010-2016 Crossword Bookstores Ltd. All Rights Reserved.</p>
 <style><!--
+#address-details-page #order-items th.col4::after, #shopping-cart-page .save-list table th:last-child::after{
+    content: ".";
+}
+#hd .header-menu .navbar .navbar-nav > li > a{padding:0px 12px !important;}
+.forgot-pswd br {
+    display: none;
+}
+.forgot-pswd .button{margin-bottom:15px;}
+#product-detail-page #catalog-options .cat-options .tooltip.fade.top.in .tooltip-arrow{border-top-color:#E3C42C !important;} 
+#product-detail-page #catalog-options .cat-options .tooltip.fade.top.in .tooltip-inner{background:#E3C42C !important;}
+#quick-view #product-detail-page #medium-image-holder::after{content: " " !important;}
+#product-detail-page #medium-image-holder::after {
+ content: none !important;
+}
+@media only screen and (min-width: 770px) {
+#product-detail-page #medium-image-holder .zoom-init::after {
+    content: "Roll over image to zoom in";
+    text-align: center;
+    width: 100%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 12px;
+    color:#838383;
+    visibility: visible;
+}
+}
+#product-detail-page span.badge-item .html-badge {
+    display: none;
+}
 /*Style for COD Section */
 
 @media only screen and (min-width: 768px)
@@ -1615,6 +1762,27 @@ div#tabs-COD .sms_code input#simple_purchase_submit {
 .pswd-reset-form input[type=text]{width:230px !important;}
 .ui-tooltip:not(.ie9haxors) div.ui-tooltip-content, .ui-tooltip:not(.ie9haxors) div.ui-tooltip-titlebar{white-space:nowrap !important;; word--wrap: normal !important;}
 #main .col-sm-12 .col-sm-12{padding:0px !important;}
+.product-list-widget.content h3 .see-more, #search-result-items h3 .see-more, .interested-in h3 .see-more, .xsell-ri-small h3 .see-more { color: #000 !important; width: 130px !important; }
+--></style>
+<style><!--
+@media only screen and (max-width: 767px) {
+#address-details-page table tr.purchase_shipping_charge td.price.subtotal::before {
+    display: none;
+}
+    .zoomPup, .zoomPreload {
+     display: none;   
+}
+
+}
+.home-banners .product-list-widget.content .variant-wrapper .variant-desc .variant-title{height: 25px !important;}
+.product-list-widget.content .slick-prev { right: 115px; }
+.product-list-widget.content .slick-next { right: 90px; }
+.product-list-widget.content h3 .see-more, #search-result-items h3 .see-more, .interested-in h3 .see-more, .xsell-ri-small h3 .see-more {
+    color: #000 !important;
+    width: 87px !important;
+    background: #FFE524 !important;
+    border-radius: 5px !important;    
+}
 --></style></div>
                 
               </div>
@@ -1629,7 +1797,9 @@ div#tabs-COD .sms_code input#simple_purchase_submit {
 
     </div>
     
+    
   
+    
   
 
 
