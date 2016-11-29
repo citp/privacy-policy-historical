@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the classicsonline.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314072908id_/http%3A//www.classicsonline.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicsonline.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129193212id_/http%3A//shop.classicsonline.com/privacy) for the most accurate reproduction.*
 
-# ClassicsOnline Privacy Policy
+# ClassicsOnline
 
 Our business has been built on the trust and confidence our customers place in us. We respect our customers' privacy and we are committed to safeguarding and keeping confidential any information relating to them.
 
@@ -32,16 +32,14 @@ The copyright and related rights in all material sent to you belong to Naxos Dig
 
 For further information on our Privacy Policy please contact our Privacy Officer by sending a message to customer service.
 
+##### Contact Us
+
 If any of the personal information you have submitted changes, please update that information by clicking into the Manage Account and make the necessary changes.
 
-You have the right to access your personal information and requests for information about our Privacy Policy are welcomed. Request for access to data or correction of data or for information regarding policies and practices and data held should be addressed to:
+You have the right to access your personal information and requests for information about our Privacy Policy are welcomed. Request for access to data or correction of data or for information regarding policies and practices and kinds of personal data held should be addressed to:
 
-**Customer Service**  
-**Naxos Digital Services Limited**  
-Level 11, Cyberport 1,  
-100 Cyberport Road  
-Hong Kong 
-
-Telephone: (852) 2760-7818 (non toll-free)  
-Fax: (852) 2760-1962 (non toll-free)  
-Email: [Customer Service](https://web.archive.org/contactus.aspx)
+ _ATTN: Customer Service  
+Naxos Digital Service US, Inc  
+1810 Columbia Ave., Suite 28   
+Franklin, TN 37064  
+United States of America_
