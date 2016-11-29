@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1happybirthday.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510101555id_/http%3A//www.1happybirthday.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1happybirthday.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129203513id_/http%3A//www.1happybirthday.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ We offer the following services, which require some type of voluntary submission
 
   1. Song download or registration  
 We offer songs to users. 1HappyBirthday gathers the email addresses and contact information of users who voluntarily subscribe. We hope to soon be able to offer users a way to remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page.
-  2. "E-mail this to a friend" policy  
+  2. "E-mail song in the future" policy  
 Our site users may choose to electronically forward a link, page, or documents to someone else. The user must provide their email address, as well as that of the recipient.
   3. Polling  
 We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. 1HappyBirthday may use a system to "tag" users after they have voted, so they can vote only once on a particular question.
@@ -69,6 +69,6 @@ We are currently trying to upgrade our system to give users options wherever nec
   
 By using this site, you consent to the collection and use of this information by 1HappyBirthday.
 
-[Read what people write about our song](https://web.archive.org/web/20160510101555id_/http%3A//www.1happybirthday.com/birthdaycardcomments.php)
+[Read what people write about our song](https://web.archive.org/birthdaycardcomments.php)
 
 [Tambien tenemos mensajes en español.](http://www.cancionfeliz.com/mensajes.php)
