@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raisingcanes.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407225005id_/http%3A//www.raisingcanes.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raisingcanes.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129222744id_/https%3A//www.raisingcanes.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Raising Cane's | Chicken Fingers | Cane's Sauce
 
@@ -46,13 +46,13 @@ BACK TO TOP
 
 #### 4\. How can I stop receiving notices about future offers or to stop my Personal Information from being shared with third parties?
 
-Users, who initially opted-in to receive future offers or promotional materials, or to allow the sharing of Personal Information with third parties, may subsequently opt-out by sending an e-mail to [info@raisingcanes.com](mailto:info@raisingcanes.com). The Company will implement the change within seven days of your request. The Company will send an acknowledgement or confirmation of the request to the e-mail address on file.
+Users, who initially opted-in to receive future offers or promotional materials, or to allow the sharing of Personal Information with third parties, may subsequently opt-out by sending an e-mail to [heycanes@raisingcanes.com](mailto:heycanes@raisingcanes.com). The Company will implement the change within seven days of your request. The Company will send an acknowledgement or confirmation of the request to the e-mail address on file.
 
 BACK TO TOP
 
 #### 5\. How do I correct or update my Personal Information?
 
-You control the accuracy of your Personal Information. If your Personal Information changes, feel free to correct, update or delete/deactivate it by e-mailing [info@raisingcanes.com](mailto:info@raisingcanes.com). If you wish to review your Personal Information that the Company has on record, you may contact [info@raisingcanes.com](mailto:info@raisingcanes.com).
+You control the accuracy of your Personal Information. If your Personal Information changes, feel free to correct, update or delete/deactivate it by e-mailing [heycanes@raisingcanes.com](mailto:heycanes@raisingcanes.com). If you wish to review your Personal Information that the Company has on record, you may contact [heycanes@raisingcanes.com](mailto:heycanes@raisingcanes.com).
 
 BACK TO TOP
 
@@ -90,13 +90,13 @@ Occasionally, the Company has special site activities or promotions like sweepst
 
 In the last two situations when the Company asks for information without parental consent, the Company requires the child to give his/her parent’s e-mail address, so the parent is notified that their child registered in a promotion or for a service. Any information a child provides in the above special circumstances will be deleted from the database once the promotion, program or activity is concluded, and after any legally required period for keeping such information is complete.
 
-The Company also might collect contact information where it is necessary to protect a child’s safety. A parent can always ask to review the information his/her child has submitted by sending an email to [info@raisingcanes.com](mailto:info@raisingcanes.com) or a written request addressed to the Company, 400 Convention Street, Suite 550, Baton Rouge, LA 70802, Attention: Webmaster, Children’s Online Privacy Act – Information Request, or by calling the webmaster at 225-383-7400. Requests must include the screen name of the child, the child’s password and any other information which will allow the Company to verify that the requester is the parent of the child whose information is requested. A parent can ask to delete a child’s information at any time and a parent can ask that the Company not collect any more personal information from his/her child, by sending an email at [info@raisingcanes.com](mailto:info@raisingcanes.com) or a written request addressed to the Company 400 Convention Street, Suite 550, Baton Rouge, LA 70802, Attention: Webmaster, Children’s Online Privacy Act – Delete Request or by calling the webmaster at 225-383-7400.
+The Company also might collect contact information where it is necessary to protect a child’s safety. A parent can always ask to review the information his/her child has submitted by sending an email to [heycanes@raisingcanes.com](mailto:heycanes@raisingcanes.com) or a written request addressed to the Company, 400 Convention Street, Suite 550, Baton Rouge, LA 70802, Attention: Webmaster, Children’s Online Privacy Act – Information Request, or by calling the webmaster at 225-383-7400. Requests must include the screen name of the child, the child’s password and any other information which will allow the Company to verify that the requester is the parent of the child whose information is requested. A parent can ask to delete a child’s information at any time and a parent can ask that the Company not collect any more personal information from his/her child, by sending an email at [heycanes@raisingcanes.com](mailto:heycanes@raisingcanes.com) or a written request addressed to the Company 400 Convention Street, Suite 550, Baton Rouge, LA 70802, Attention: Webmaster, Children’s Online Privacy Act – Delete Request or by calling the webmaster at 225-383-7400.
 
 BACK TO TOP
 
 #### 10\. How do I contact the Company?
 
-If you have any further questions concerning the Company’s Privacy Policy and the use of your Personal Information, please contact [info@raisingcanes.com](mailto:info@raisingcanes.com).
+If you have any further questions concerning the Company’s Privacy Policy and the use of your Personal Information, please contact [heycanes@raisingcanes.com](mailto:heycanes@raisingcanes.com).
 
 BACK TO TOP
 
@@ -122,7 +122,7 @@ Please read this policy carefully to understand our policies and practices regar
 
 _Children under the Age of 13_
 
-Entering a Contest via text message is not intended for children under 13 years of age, and we do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [info@raisingcanes.com](mailto:info@raisingcanes.com).
+Entering a Contest via text message is not intended for children under 13 years of age, and we do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [heycanes@raisingcanes.com](mailto:heycanes@raisingcanes.com).
 
 _Information We Collect and How We Collect It_
 
@@ -167,7 +167,7 @@ In addition, we may disclose personal information that we collect or you provide
 
 _Your California Privacy Rights_
 
-California Civil Code Section 1798.83 permits consumers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [info@raisingcanes.com](mailto:info@raisingcanes.com) or write us at: 6800 Bishop Rd., Plano, TX 75024.
+California Civil Code Section 1798.83 permits consumers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [heycanes@raisingcanes.com](mailto:heycanes@raisingcanes.com) or write us at: 6800 Bishop Rd., Plano, TX 75024.
 
 _Data Security_
 
@@ -181,10 +181,10 @@ We may update our privacy policy from time to time. If we make material changes 
 
 _Contact Information_
 
-To ask questions or comment about this privacy policy and our privacy practices, contact us at: [info@raisingcanes.com](mailto:info@raisingcanes.com)
+To ask questions or comment about this privacy policy and our privacy practices, contact us at: [heycanes@raisingcanes.com](mailto:heycanes@raisingcanes.com)
 
 BACK TO TOP
 
 NOTICE REGARDING FRANCHISE OFFERS OR SALES
 
-None of the communications made through this Website should be construed as an offer to sell any franchise in, nor is any such communication directed to, the residents of any jurisdiction requiring registration of the franchise before it is offered or sold in the jurisdiction. No franchises will be sold to any resident of any such jurisdiction until the offer has been exempted from the requirements of, or duly registered in and declared effective by, such jurisdiction and the required Franchise Disclosure Document (if any) has been delivered to the prospective franchisee before the sale in compliance with applicable law. If you have any questions concerning the registration status of franchises in your jurisdiction, please contact [info@raisingcanes.com](mailto:info@raisingcanes.com) or call 1.866.55.CANES.
+None of the communications made through this Website should be construed as an offer to sell any franchise in, nor is any such communication directed to, the residents of any jurisdiction requiring registration of the franchise before it is offered or sold in the jurisdiction. No franchises will be sold to any resident of any such jurisdiction until the offer has been exempted from the requirements of, or duly registered in and declared effective by, such jurisdiction and the required Franchise Disclosure Document (if any) has been delivered to the prospective franchisee before the sale in compliance with applicable law. If you have any questions concerning the registration status of franchises in your jurisdiction, please contact [heycanes@raisingcanes.com](mailto:heycanes@raisingcanes.com) or call 1.866.55.CANES.
