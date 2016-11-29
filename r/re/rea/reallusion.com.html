@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the reallusion.com privacy policy that was archived on 2016-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160627081933id_/http%3A//www.reallusion.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reallusion.com privacy policy that was archived on 2016-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161129185620id_/http%3A//www.reallusion.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" style="overflow-x: hidden; "><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="Description" content="3d animation and imaging software - create animated, talking images for email, web sites or presentations. Free download.">
@@ -11,9 +11,6 @@
 	Reallusion Privacy Policy - 2d &amp; 3d real-time animation
 </title>
     <style type="text/css">
-
-    
- 
 	
 	#FT_Content_TOP_Navigation_DAR a
 	{
@@ -53,13 +50,6 @@
 		background-image: url(/images/default/reallusion_home_main_bg.jpg);
    	    background-repeat: repeat-x;
 	}
-	#footer
-    {	
-	    text-align:center;
-	    width:100%;
-	    color: #FFF;
-	    margin-left:auto;
-	}
 	a  
 	{
 	    text-decoration: none;
@@ -85,7 +75,7 @@
 </head>
 <body>
     <form method="post" action="./privacy.aspx" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzA1MDcyMTA5ZGT7wHo3eIm6mWiGsS4NNLP0+a9mNajX4VRIGlvRyxv1Zg==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg4MTAyMTU0OGRkiiRgiuUYElSogvZQ2jxoWGBTdMUdMR8iPfGbuHelQjc=">
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="337EF9BA">
         <div id="top"><link href="/includes/css/defaultmenu_2014.css" rel="stylesheet" type="text/css">
@@ -102,7 +92,7 @@
 <div id="topnavbannerbg">
 <table width="1000" height="65" border="0" cellpadding="0" cellspacing="0" id="Table1" background="/images/nav/top_nav_2010/top_02.jpg">
   <tbody><tr> 
-    <td width="210" rowspan="2"><a href="http://www.reallusion.com/"><img src="/images/nav/top_nav_2010/top_01.jpg" alt="" width="208" height="65" border="0"></a></td>
+    <td width="210" rowspan="2"><a href="/"><img src="/images/nav/top_nav_2010/top_01.jpg" alt="" width="208" height="65" border="0"></a></td>
     <td align="right">
 	<!--Login info.-->
 	<div style="float: right">
@@ -113,13 +103,13 @@
     
     <div class="iner" style="background-image: url(/images/nav/top_nav_2010/top_login_03.jpg)">
         <img src="/images/nav/top_nav_2010/top_account.png" width="22" height="19" align="absmiddle" alt="AccountIMG">
-        <span class="TOP_MENU_WORD02"><a href="http://www.reallusion.com/login.asp">Login</a></span>
+        <span class="TOP_MENU_WORD02"><a href="/login.asp">Login</a></span>
     </div>
     
     <!--MiniCart Started-->
    	
 <div id="RL_MiniCartSensor" class="iner TopNaviner" style="background-image: url(/images/nav/top_nav_2010/top_login_03.jpg)">
-    <a href="http://store.reallusion.com/cart.aspx">
+    <a href="https://store.reallusion.com/cart.aspx">
         <img src="/images/nav/top_nav_2010/top_shopping_cart.png" alt="ShoppingCartIMG" align="absmiddle" width="22" height="19" border="0" title="Cart"></a>
     
     <span class="TOP_MENU_WORD02"><a href="#" class="textlink">View Cart (0)</a></span>
@@ -142,7 +132,7 @@
                     
                 </span>
             </p>
-            <div id="RL_MiniCartButton"><a href="http://store.reallusion.com/cart.aspx" target="_top">View Cart &gt;</a></div>
+            <div id="RL_MiniCartButton"><a href="https://store.reallusion.com/cart.aspx" target="_top">View Cart &gt;</a></div>
         </div>
     </div>
     
@@ -179,6 +169,11 @@
         //Mini Cart 監聽
         $("#RL_MiniCartSensor,#RL_MiniCart").click(function () {
             chkClick = "1";
+            try {
+                dataLayer.push({'eventCategory': 'button-clicks','eventAction': 'topnav-minicart','eventLabel': window.location.href,'event': 'GAEvent'});
+            }
+            catch(e) {
+            }
         })
 
         $(document.body).click(function (event) {
@@ -199,7 +194,7 @@
 	
     <!--MiniCart End-->
     <div class="iner TopNav_menu2" style="background-image: url(/images/nav/top_nav_2010/top_login_03.jpg)">
-        <a href="http://www.reallusion.com/reallusiontv/">
+        <a href="https://www.reallusion.com/reallusiontv/">
             <img src="/images/nav/top_nav_2010/top_tv.png" alt="RLTVIMG" width="22" height="19" border="0" title="Reallusion TV"></a>
     </div>
     <div class="memberwrapiner">
@@ -215,28 +210,31 @@
   <tr>
     <td align="right" valign="bottom">
     <div style="float:right">
-  <!--product title start--><div id="Menu_product" class="iner"><a href="http://www.reallusion.com/products.asp" class="sub">Products</a><img src="/images/nav/top_nav_2010/top_arrow.jpg" alt="" width="11" height="9">
+  <!--product title start--><div id="Menu_product" class="iner"><a href="/products.asp" class="sub">Products</a><img src="/images/nav/top_nav_2010/top_arrow.jpg" alt="" width="11" height="9">
     <div class="MENUBG Menu_product"><!--Menu_product Started-->
   <div class="Menu_block">
       <div class="Prod_Menu">
       <h3>3D Animation</h3>
       <ul>
-        <li><a href="http://www.reallusion.com/iclone/default.aspx" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'iClone','event': 'GAEvent'});">iClone</a></li>
-        <li><a href="http://www.reallusion.com/iClone/character-creator/default.html" target="_blank" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'Character-Creator','event': 'GAEvent'});">Character Creator</a></li>
-        <li><a href="http://www.reallusion.com/iClone/3DXchange.html" target="_blank" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': '3DXchange','event': 'GAEvent'});">3DXchange</a></li>
-         <li><a href="http://www.reallusion.com/iClone/indigo_feature_material.aspx" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'Indigo','event': 'GAEvent'});">Indigo Render Plug-in</a></li>
-        <li><a href="http://www.reallusion.com/iclone/mocap.html" target="_blank" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'Mocap Plug-in','event': 'GAEvent'});">Kinect Mocap Plug-in</a></li>
-        <li><a href="http://www.reallusion.com/iclone/iclone_AvatarToolkit.aspx" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'Avatar Toolkit Plug-in','event': 'GAEvent'});">Avatar Toolkit Plug-in</a></li>
+        <li><a href="/iclone/default.aspx" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'iClone','event': 'GAEvent'});">iClone</a></li>
+        <li><a href="/iClone/character-creator/default.html" target="_blank" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'Character-Creator','event': 'GAEvent'});">Character Creator</a></li>
+        <li><a href="/iClone/3DXchange.html" target="_blank" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': '3DXchange','event': 'GAEvent'});">3DXchange</a></li>
+         <li><a href="/iClone/indigo_feature_material.aspx" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'Indigo','event': 'GAEvent'});">Indigo Render Plug-in</a></li>
+         <li><a href="http://mocap.reallusion.com/iClone-neuron-mocap/" target="_blank" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'Perception Neuron Mocap Plug-in','event': 'GAEvent'});">Perception Neuron Mocap Plug-in</a></li>
+        <li><a href="/iclone/mocap.html" target="_blank" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'Mocap Plug-in','event': 'GAEvent'});">Kinect Mocap Plug-in</a></li>
+        <li><a href="/iclone/iclone_AvatarToolkit.aspx" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'Avatar Toolkit Plug-in','event': 'GAEvent'});">Avatar Toolkit Plug-in</a></li>
       </ul>
       </div>
       <div class="Prod_Menu">
       <h3 style="color:#FFF; font-size:12px; padding-left:8px;">Industry Solution</h3>
       <ul>
-        <li><a href="http://www.reallusion.com/iclone/iclone_application_cgmovie.aspx" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'CG Moviemaking','event': 'GAEvent'});">CG Moviemaking</a></li>
-        <li><a href="http://www.reallusion.com/iclone/previz/default.aspx" target="_blank" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'Previz (Pre-visualization)','event': 'GAEvent'});">Previz (Storyboard)</a></li>
-         <li><a href="http://www.reallusion.com/iclone/game/" target="_blank" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'Game Design Pipeline','event': 'GAEvent'});">Game Design Pipeline</a></li>
-        <li><a href="http://www.reallusion.com/iclone/pipeline/Default.aspx" target="_blank" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'Character Animation Pipeline','event': 'GAEvent'});">Character Animation Pipeline</a></li>
-        <li><a href="http://www.reallusion.com/iClone/3d-video-compositing/default.html" target="_blank" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': '3D Video Compositing','event': 'GAEvent'});">3D Video Compositing</a></li>
+        <li><a href="/iclone/iclone_application_cgmovie.aspx" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'CG Moviemaking','event': 'GAEvent'});">CG Moviemaking</a></li>
+        <li><a href="/iclone/previz/default.aspx" target="_blank" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'Previz (Pre-visualization)','event': 'GAEvent'});">Previz (Storyboard)</a></li>
+         <li><a href="/iclone/game/" target="_blank" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'Game Design Pipeline','event': 'GAEvent'});">Game Design Pipeline</a></li>
+        <li><a href="/iclone/pipeline/Default.aspx" target="_blank" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'Character Animation Pipeline','event': 'GAEvent'});">Character Animation Pipeline</a></li>
+        <li><a href="/iClone/3d-video-compositing/default.html" target="_blank" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': '3D Video Compositing','event': 'GAEvent'});">3D Video Compositing</a></li>
+         <li><a href="/iclone/vr/" target="_blank" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'VR360','event': 'GAEvent'});">VR360</a></li>
+         <li><a href="/iclone/alembic/" target="_blank" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'Alembic','event': 'GAEvent'});">Alembic</a></li>
       </ul>
       </div>
   </div>  
@@ -245,19 +243,18 @@
       <div class="Prod_Menu">
       <h3>2D Animation </h3>
       <ul>
-        <li><a href="http://www.reallusion.com/crazytalk-tools/" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'CrazyTalk Family','event': 'GAEvent'});">CrazyTalk Family</a></li>
-        <li><a href="http://www.reallusion.com/crazytalk/crazytalk.aspx" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'CrazyTalk','event': 'GAEvent'});">CrazyTalk</a></li> 
-		<li><a href="http://www.reallusion.com/crazytalk/animator/default.aspx" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'CrazyTalk Animator','event': 'GAEvent'});">CrazyTalk Animator</a></li>
-        <li><a href="http://www.reallusion.com/crazytalk7/interactive.aspx" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'CrazyTalk Interactive Plug-in','event': 'GAEvent'});">CrazyTalk Interactive Plug-in</a></li>
-        <li><a href="http://www.reallusion.com/crazytalk7/unity.aspx" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'CrazyTalk Interactive Plug-in','event': 'GAEvent'});">CrazyTalk Unity Plug-in</a></li>
+        <li><a href="/crazytalk/crazytalk.aspx" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'CrazyTalk','event': 'GAEvent'});">CrazyTalk</a></li> 
+		<li><a href="/crazytalk-animator/" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'CrazyTalk Animator','event': 'GAEvent'});">CrazyTalk Animator</a></li>
+        <!--<li><a href="/crazytalk7/interactive.aspx" onClick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'CrazyTalk Interactive Plug-in','event': 'GAEvent'});">CrazyTalk Interactive Plug-in</a></li>-->
+        <!--<li><a href="/crazytalk7/unity.aspx" onClick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'CrazyTalk Interactive Plug-in','event': 'GAEvent'});">CrazyTalk Unity Plug-in</a></li>-->
       </ul>
       <!--<div class="Prod_Menu">
       <h3 style="color:#FFF; font-size:12px; padding-left:10px;">Industry Solution</h3>
       <ul>
-        <li><a href="http://www.reallusion.com/iclone/iclone_application_cgmovie.aspx">CG Moviemaking</a></li>
-        <li><a href="http://www.reallusion.com/iclone/previz/default.aspx" target="_blank">Previz (Pre-visualization)</a></li>
-         <li><a href="http://www.reallusion.com/event/12-icloneforgame/" target="_blank">Game Design Pipeline</a></li>
-        <li><a href="http://www.reallusion.com/iclone/pipeline/Default.aspx" target="_blank">Character Animation Pipeline</a></li>
+        <li><a href="/iclone/iclone_application_cgmovie.aspx">CG Moviemaking</a></li>
+        <li><a href="/iclone/previz/default.aspx" target="_blank">Previz (Pre-visualization)</a></li>
+         <li><a href="/event/12-icloneforgame/" target="_blank">Game Design Pipeline</a></li>
+        <li><a href="/iclone/pipeline/Default.aspx" target="_blank">Character Animation Pipeline</a></li>
       </ul>
       </div>-->
       </div>
@@ -265,9 +262,9 @@
       <div class="Prod_Menu">
       <h3 style="color:#FFF; font-size:12px; padding-left:8px;">Industry Solution</h3>
       <ul>
-        <li><a href="http://www.reallusion.com/crazytalk/presentation/default.aspx" target="_blank" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'Business Presentation','event': 'GAEvent'});">Business Presentation</a></li>
-       <!-- <li><a href="http://www.reallusion.com/crazytalk/web.aspx" onClick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'Interactive Avatar for Web','event': 'GAEvent'});">Interactive Avatar for Web</a></li>-->
-         <li><a href="http://www.reallusion.com/crazytalk7/unity.aspx" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'Interactive Avatar for Game/App','event': 'GAEvent'});">Interactive Avatar for Game/App</a></li>
+        <li><a href="/crazytalk/presentation/default.aspx" target="_blank" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'Business Presentation','event': 'GAEvent'});">Business Presentation</a></li>
+       <!-- <li><a href="/crazytalk/web.aspx" onClick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'Interactive Avatar for Web','event': 'GAEvent'});">Interactive Avatar for Web</a></li>-->
+         <!--<li><a href="/crazytalk7/unity.aspx" onClick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'Interactive Avatar for Game/App','event': 'GAEvent'});">Interactive Avatar for Game/App</a></li>-->
        
       </ul>
       </div>
@@ -277,8 +274,8 @@
     <div class="Prod_Menu">
       <h3>Photo &amp; Video</h3>
       <ul>
-        <li><a href="http://www.reallusion.com/facefilter/" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'FaceFilter','event': 'GAEvent'});">FaceFilter</a></li>
-        <li><a href="http://www.reallusion.com/popvideo/" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'popVideo Converter','event': 'GAEvent'});">popVideo</a></li>
+        <li><a href="/facefilter/" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'FaceFilter','event': 'GAEvent'});">FaceFilter</a></li>
+        <li><a href="/popvideo/" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'popVideo Converter','event': 'GAEvent'});">popVideo</a></li>
       </ul>
     </div>
      <div class="Prod_Menu">
@@ -292,76 +289,76 @@
     <div class="Prod_Menu">
       <h3>Cloud Service</h3>
       <ul>
-        <li><a href="http://www.reallusion.com/crazytalk/crazytalk_cloud.aspx" target="_blank" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'CT Cloud','event': 'GAEvent'});">CrazyTalk Avatar Hosting</a></li>
+        <li><a href="/crazytalk/crazytalk_cloud.aspx" target="_blank" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'CT Cloud','event': 'GAEvent'});">CrazyTalk Avatar Hosting</a></li>
         <li><a href="http://tts.reallusion.com" target="_blank" onclick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'Avatar TTS On-demand','event': 'GAEvent'});">Avatar TTS On-demand</a></li>
-      <!--  <li><a href="http://www.reallusion.com/crazytalk/TTS/index.html" target="_blank" onClick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'TAMS','event': 'GAEvent'});">Text to Animated Message Service</a></li>-->
+      <!--  <li><a href="/crazytalk/TTS/index.html" target="_blank" onClick="dataLayer.push({'eventCategory': 'rl-top-nav','eventAction': 'product','eventLabel': 'TAMS','event': 'GAEvent'});">Text to Animated Message Service</a></li>-->
       </ul>
      </div>
   </div>
 </div><!--Menu_product End-->
     </div><!--product title end-->
     <div id="Menu_purchase" class="iner"><!--purchase title start-->
-    <a href="http://www.reallusion.com/purchase.asp" class="sub">Purchase</a><img src="/images/nav/top_nav_2010/top_arrow.jpg" alt="" width="11" height="9">  
+    <a href="/purchase.asp" class="sub">Purchase</a><img src="/images/nav/top_nav_2010/top_arrow.jpg" alt="" width="11" height="9">  
     <div class="MENUBG Menu_purchase"><!--Menu_purchase Started-->
   <div class="Menu_block1">
       <div class="Prod1_Menu">
       <ul>
-        <li><a href="http://www.reallusion.com/store/default.aspx">Software Store</a></li>
-        <li><a href="http://www.reallusion.com/contentstore/">Content Store</a></li>
+        <li><a href="/store/default.aspx">Software Store</a></li>
+        <li><a href="/contentstore/">Content Store</a></li>
         <li><a href="http://city.reallusion.com/marketplace.aspx">Content Marketplace</a></li>
-        <li><a href="http://www.reallusion.com/creative/substance-designer/index.html">Partner Solution</a></li>
-        <li><a href="http://www.reallusion.com/store/purchase_regional.aspx">Regional Partners</a></li>
+        <li><a href="/creative/substance-designer/index.html">Partner Solution</a></li>
+        <li><a href="/store/purchase_regional.aspx">Regional Partners</a></li>
       </ul>
       </div>
    </div>
 </div><!--Menu_purchase End-->
     </div><!--purchase title end-->
     <div id="Menu_download" class="iner"><!--Downloads title start-->
-    <a href="http://www.reallusion.com/download.asp" class="sub">Downloads</a><img src="/images/nav/top_nav_2010/top_arrow.jpg" alt="" width="11" height="9">
+    <a href="/download.asp" class="sub">Downloads</a><img src="/images/nav/top_nav_2010/top_arrow.jpg" alt="" width="11" height="9">
     <div class="MENUBG Menu_download"><!--Menu_Download Started-->
   <div class="Menu_block">
       <div class="Prod_Menu">
       <h3>3D Animation</h3>
       <ul>
-        <li><a href="http://www.reallusion.com/iclone/iclone_trial.aspx">iClone</a></li>
-        <li><a href="http://www.reallusion.com/iclone/3dx/3dx_trial.aspx">3DXchange</a></li>
-        <li><a href="http://www.reallusion.com/iClone/character-creator/download.html">Character Creator</a></li>
-        <li><a href="http://www.reallusion.com/iclone/iclone_mocap_trial.aspx">Kinect Mocap Plug-in</a></li>
+        <li><a href="/iclone/iclone_trial.aspx">iClone</a></li>
+        <li><a href="/iclone/3dx/3dx_trial.aspx">3DXchange</a></li>
+        <li><a href="/iClone/character-creator/download.html">Character Creator</a></li>
+        <li><a href="/iclone/iclone_mocap_trial.aspx">Kinect Mocap Plug-in</a></li>
       </ul>
       </div>
       <div class="Prod_Menu">
       <h3>2D Animation</h3>
       <ul>
-        <li><a href="http://www.reallusion.com/crazytalk/trial.aspx">CrazyTalk</a></li>
-        <li><a href="http://www.reallusion.com/crazytalk/animator/animator_trial.aspx">CrazyTalk Animator</a></li>
-        <!-- <li><a href="http://www.reallusion.com/crazytalk/crazytalk_Interactive_trial.aspx">CrazyTalk Interactive Plug-in</a></li>-->
-         <li><a href="http://www.reallusion.com/crazytalk7/trial.aspx#ctu-trial">CrazyTalk Unity Plug-in</a></li>
+        <li><a href="/crazytalk/trial.aspx">CrazyTalk</a></li>
+        <li><a href="/crazytalk-animator/download.html">CrazyTalk Animator</a></li>
+        <!-- <li><a href="/crazytalk/crazytalk_Interactive_trial.aspx">CrazyTalk Interactive Plug-in</a></li>-->
+         <!--<li><a href="/crazytalk7/trial.aspx#ctu-trial">CrazyTalk Unity Plug-in</a></li>-->
       </ul>
       </div>
       <div class="Prod_Menu">
       <h3>Photo &amp; Video</h3>
       <ul>
-        <li><a href="http://www.reallusion.com/facefilter/trial.aspx">FaceFilter </a></li>
-        <li><a href="http://www.reallusion.com/popvideo/popvideo_trial.asp">popVideo</a></li>
+        <li><a href="/facefilter/trial.aspx">FaceFilter </a></li>
+        <li><a href="/popvideo/popvideo_trial.asp">popVideo</a></li>
       </ul>
       </div>
   </div>
 </div><!--Menu_Downlaod End-->
     </div><!--Downloads title end-->
     <div id="Menu_support" class="iner"><!--support title start-->
-    <a href="http://www.reallusion.com/CustomerSupport/user/FAQList.aspx" class="sub">Learn &amp; Support</a><img src="/images/nav/top_nav_2010/top_arrow.jpg" alt="" width="11" height="9">
+    <a href="/CustomerSupport/user/FAQList.aspx" class="sub">Learn &amp; Support</a><img src="/images/nav/top_nav_2010/top_arrow.jpg" alt="" width="11" height="9">
     <div class="MENUBG Menu_support"><!--Menu_Support Started-->
   <div class="Menu_block1">
       <div class="Prod1_Menu">
       <ul>
-        <li><a href="http://www.reallusion.com/CustomerSupport/user/FAQList.aspx">Support Home</a></li>
-        <li><a href="http://www.reallusion.com/CustomerSupport/User/webinar_coming.aspx">Webinars</a></li>
-        <li><a href="http://www.reallusion.com/CustomerSupport/UserEx/QForm.aspx">Customer Service</a></li>
+        <li><a href="/CustomerSupport/user/FAQList.aspx">Support Home</a></li>
+        <li><a href="/CustomerSupport/User/webinar_coming.aspx">Webinars</a></li>
+        <li><a href="/CustomerSupport/UserEx/QForm.aspx">Customer Service</a></li>
         
         <li><a href="http://kb.reallusion.com/en">FAQ</a></li>
         <li><a href="http://forum.reallusion.com/">Forum</a></li>
-        <li><a href="https://www.reallusion.com/member/memberreg.aspx">Member Sign-in</a></li>
-        <li><a href="https://www.reallusion.com/member/premium.aspx">Product Registration</a></li>
+        <li><a href="/member/memberreg.aspx">Member Sign-in</a></li>
+        <li><a href="/member/premium.aspx">Product Registration</a></li>
       </ul>
       </div>
   </div>
@@ -380,18 +377,18 @@
 </div><!--Menu_Education End-->
     </div><!--education title end-->
    <div id="Menu_community" class="iner"><!--Community title end-->
-   <a href="http://www.reallusion.com/community.aspx" class="sub">Community</a><img src="/images/nav/top_nav_2010/top_arrow.jpg" alt="" width="11" height="9">
+   <a href="/community.aspx" class="sub">Community</a><img src="/images/nav/top_nav_2010/top_arrow.jpg" alt="" width="11" height="9">
    <div class="MENUBG Menu_community"><!--Menu_Community Started-->
   <div class="Menu_block1">
       <div class="Prod1_Menu">
       <ul>
-        <li><a href="http://www.reallusion.com/FeedBackTracker/">Feedback Tracker</a></li>
+        <li><a href="/FeedBackTracker/">Feedback Tracker</a></li>
         <li><a href="http://city.reallusion.com/marketplace.aspx">Marketplace</a></li>
-        <li><a href="http://www.reallusion.com/reallusiontv/">Reallusion TV</a></li>
-        <li><a href="http://www.reallusion.com/reallusiontv/featuredstory/default_iClone.aspx">User Story</a></li>
+        <li><a href="/reallusiontv/">Reallusion TV</a></li>
+        <li><a href="/reallusiontv/featuredstory/default_iClone.aspx">User Story</a></li>
         <li><a href="http://forum.reallusion.com/default.aspx">Forum</a></li>
-        <li><a href="http://blog.reallusion.com/" target="_blank">Blog</a></li>
-        <li><a href="http://www.reallusion.com/reallusiontv/LiveShow.aspx?type=3D">Real-time Live Show</a></li>
+        <li><a href="https://blog.reallusion.com/" target="_blank">Blog</a></li>
+        <li><a href="/reallusiontv/LiveShow.aspx?type=3D">Real-time Live Show</a></li>
         <li><a href="http://developer.reallusion.com/">Developer Center</a></li>
       </ul>
       </div>
@@ -399,20 +396,20 @@
 </div><!--Menu_Community End-->
    </div><!--Community title end-->
     <div id="Menu_aboutus" class="iner"><!--About Us start end-->
-    <a href="http://www.reallusion.com/aboutus.asp" class="sub">About Us</a><img src="/images/nav/top_nav_2010/top_arrow.jpg" alt="" width="11" height="9">
+    <a href="/aboutus.asp" class="sub">About Us</a><img src="/images/nav/top_nav_2010/top_arrow.jpg" alt="" width="11" height="9">
     <div class="MENUBG Menu_aboutus"><!--Menu_Aboutus Started-->
   <div class="Menu_block1">
       <div class="Prod1_Menu">
       <ul>
-        <li><a href="http://www.reallusion.com/about/aboutus.aspx">Company Overview</a></li>
-        <li><a href="http://www.reallusion.com/About/aboutus.aspx#contact">Contact Us</a></li>
-        <li><a href="http://www.reallusion.com/about/press.aspx">Newsroom</a></li>
-        <li><a href="http://www.reallusion.com/about/pressresource.aspx">Press Resource</a></li>
-        <li><a href="http://www.reallusion.com/about/press_subscribe.aspx">Subscribe</a></li>
-        <li><a href="http://www.reallusion.com/about/partnercenter.aspx">Partner Home</a></li>
-        <li><a href="http://www.reallusion.com/About/certificationcenter.aspx">Certification Center</a></li>
-        <li><a href="http://www.reallusion.com/About/privacy.aspx">Privacy Policy</a></li>
-        <li><a href="http://www.reallusion.com/Reallusion_EULA_Animation.pdf">EULA</a></li>
+        <li><a href="/about/aboutus.aspx">Company Overview</a></li>
+        <li><a href="/About/aboutus.aspx#contact">Contact Us</a></li>
+        <li><a href="/about/press.aspx">Newsroom</a></li>
+        <li><a href="/about/pressresource.aspx">Press Resource</a></li>
+        <li><a href="/about/press_subscribe.aspx">Subscribe</a></li>
+        <li><a href="/about/partnercenter.aspx">Partner Home</a></li>
+        <li><a href="/About/certificationcenter.aspx">Certification Center</a></li>
+        <li><a href="/About/privacy.aspx">Privacy Policy</a></li>
+        <li><a href="/Reallusion_EULA_Animation.pdf">EULA</a></li>
       </ul>
       </div>
    </div>
@@ -424,9 +421,9 @@
   <div class="Menu_block1">
       <div class="Prod1_Menu">
       <ul>
-        <li><a href="http://www.reallusion.com/de/">Deutsch</a></li>
-        <li><a href="http://www.reallusion.com/tw/">中文</a></li>
-        <li><a href="http://www.reallusion.com/jp/">日本語</a></li>
+        <li><a href="/de/">Deutsch</a></li>
+        <li><a href="/tw/">中文</a></li>
+        <li><a href="/jp/">日本語</a></li>
       </ul>
       </div>
    </div>
@@ -679,7 +676,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
         </td>
     </tr>
     <tr>
-        <!--<td height="150"><a href="http://www.reallusion.com/volumelicense/workgroup/default.asp"><img src="/images/nav/left_nav_2010/ad_workroup_banner.png" width="134" height="135" border="0" style=" margin:20px px px px "></a></td>-->
+        <!--<td height="150"><a href="https://www.reallusion.com/volumelicense/workgroup/default.asp"><img src="/images/nav/left_nav_2010/ad_workroup_banner.png" width="134" height="135" border="0" style=" margin:20px px px px "></a></td>-->
     </tr>
 </tbody></table>
 
@@ -699,7 +696,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
     <div class="boxshadow">
       <div id="MAIN_CNT_EREA">
         <!--Main Content Here-->
-        <h4 style="font-size:14px">Reallusion.com realizes the importance of protecting the privacy of personal information. Personal information includes all of the information provided by the customers or collected by Reallusion.com. Reallusion.com collects information throughout http://www.Reallusion.com web site, including anonymous site statistics, domain names, and/or IP addresses. <br><br>
+        <h4 style="font-size:14px">Reallusion.com realizes the importance of protecting the privacy of personal information. Personal information includes all of the information provided by the customers or collected by Reallusion.com. Reallusion.com collects information throughout https://www.Reallusion.com web site, including anonymous site statistics, domain names, and/or IP addresses. <br><br>
           On specific pages, Reallusion.com gives users the option of providing names, addresses, phone numbers, fax numbers, email addresses, and other personal information. This information is gathered only with your knowledge and active permission and participation. When you complete and submit a form requesting additional information, you will be asked for personal information in order to process your request. This information will be retained by Reallusion.com. When you send us an email, we will retain the content of the email, your email address, and our response in order to handle any follow-up questions you may have. <br><br>
           Reallusion.com has the highest regard for the privacy of its customers and other visitors to our web site. As a result, we safeguard the privacy of users of our online services with the same degree of care we protect our own information. In some instances, Reallusion.com may review personal information (e.g., IP address logs for file transfers), while in other cases we may use the information to generate anonymous statistics. Log file analysis helps us to monitor general trends in our site traffic so that we can determine how our web site can be more effective. We will also use personal information to identify you, communicate with you, help us respond to your questions, and understand which Reallusion.com products and services best meet your needs. <br><br>Under no circumstances will Reallusion.com sell personal information to any third party for any purpose. We may, however, share personal information with our business partners for the sole purpose of delivering products and services that you have requested and in order to communicate with you about Reallusion.com, its products and services. We may also release, to the minimum extent possible, specific personal information to comply with valid legal processes such as search warrants, or court orders. </h4>
 
@@ -712,77 +709,81 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 <script>openDefaultMenu(2);</script>
  
         </div>
-		<div id="footer"><link href="/includes/css/about.css" rel="stylesheet" type="text/css">    
-<div class="FBG">
+		<div id="footer">
+             <div class="FBG">
     <div class="FBG_resize">
       <div class="click_blog">
         <table width="100%" border="0" cellspacing="0" cellpadding="2">
           <tbody><tr>
             <td width="6%">Awards |</td>
-            <td width="50%"><img src="/images/default/RL_Award.png" width="293" height="48"></td>
+            <td width="50%"><img src="/images/default/RL_Award.png" width="293" height="48" alt="Reallusion Media Awards"></td>
             <td width="11%">            Social Network |</td>
             <td width="33%"><img src="/images/default/social_icon_all.png" width="204" height="41" border="0" usemap="#Map"></td>
           </tr>
         </tbody></table>
       </div>
       <div class="blog">
-        <h6 class="buttomHEAD">Products</h6>
-        <ul class="buttom">
-          <li><a href="http://www.reallusion.com/iclone/">iClone</a></li>
-          <li><a href="http://www.reallusion.com/iclone/3dx/">iClone 3DXchange</a></li>
-          <li><a href="http://www.reallusion.com/crazytalk/">CrazyTalk</a></li>
-          <li><a href="http://www.reallusion.com/crazytalk/animator/">CrazyTalk Animator</a></li>
-          <li><a href="http://www.reallusion.com/popvideo/">popVideo Converter</a></li>
-          <li><a href="http://www.reallusion.com/facefilter/">FaceFilter</a></li>
+        <h2>Products</h2>
+        <div class="clr"></div>
+        <ul>
+          <li><a href="https://www.reallusion.com/iclone/">iClone</a></li>
+          <li><a href="https://www.reallusion.com/crazytalk/">CrazyTalk</a></li>
+          <li><a href="https://www.reallusion.com/crazytalk-animator/">CrazyTalk Animator</a></li>
+          <li><a href="https://www.reallusion.com/popvideo/">popVideo Converter</a></li>
+          <li><a href="https://www.reallusion.com/facefilter/">FaceFilter</a></li>
           <li><a href="http://app.reallusion.com/">Reallusion Apps</a></li>
-          <li><a href="http://www.reallusion.com/contentstore/default.aspx">Add-on Packs</a></li>
+          <li><a href="https://www.reallusion.com/contentstore/default.aspx">Add-on Packs</a></li>
         </ul>
       </div>
-      
+
+      <div class="clr">
         <div class="blog">
-          <h6 class="buttomHEAD">Downloads</h6>
-          <ul class="buttom">
-            <li><a href="http://www.reallusion.com/iclone/iclone_trial.aspx">iClone</a></li>
-            <li><a href="http://www.reallusion.com/iclone/3dx/3dx_trial.aspx">iClone 3DXchange</a></li>
-            <li><a href="http://www.reallusion.com/crazytalk/trial.aspx">CrazyTalk</a></li>
-            <li><a href="http://www.reallusion.com/crazytalk/animator/animator_trial.aspx">CrazyTalk Animator</a></li>
-            <li><a href="http://www.reallusion.com/popvideo/popvideo_trial.aspx">popVideo Converter</a></li>
-            <li><a href="http://www.reallusion.com/facefilter/trial.aspx">FaceFilter</a></li>
+          <h2>Downloads</h2>
+          <div class="clr"></div>
+          <ul>
+            <li><a href="https://www.reallusion.com/iclone/iclone_trial.aspx">iClone</a></li>
+            <li><a href="https://www.reallusion.com/iclone/3dx/3dx_trial.aspx">iClone 3DXchange</a></li>
+            <li><a href="https://www.reallusion.com/crazytalk/trial.aspx">CrazyTalk</a></li>
+            <li><a href="https://www.reallusion.com/crazytalk-animator/download.html">CrazyTalk Animator</a></li>
+            <li><a href="https://www.reallusion.com/popvideo/popvideo_trial.asp">popVideo Converter</a></li>
+            <li><a href="https://www.reallusion.com/facefilter/trial.aspx">FaceFilter</a></li>
           </ul>
         </div>
+      </div>
       <div class="blog">
-        <h6 class="buttomHEAD">Purchase</h6>
-        <ul class="buttom">
-          <li><a href="http://www.reallusion.com/purchase.asp">Online Store</a></li>
-          <li><a href="http://www.reallusion.com/contentstore/default.aspx">Content Store</a></li>
+        <h2>Purchase</h2>
+        <div class="clr"></div>
+        <ul>
+          <li><a href="https://www.reallusion.com/purchase.asp">Software Store</a></li>
+          <li><a href="https://www.reallusion.com/contentstore/default.aspx">Content Store</a></li>
           <li><a href="http://city.reallusion.com/marketplace.aspx">Content Marketplace</a></li>
           <li><a href="http://education.reallusion.com/discount.asp">Education Store</a></li>
-          <li><a href="http://www.reallusion.com/creative/creative_b2m.aspx">Partner Solution</a></li>
-          <!--<li><a href="http://www.reallusion.com/purchase_licensing.asp">Volume Licensing</a></li>-->
-          <li><a href="http://www.reallusion.com/purchase_regional.asp">Regional Partners</a></li>
+          <li><a href="https://www.reallusion.com/creative/substance-designer/index.html" target="_blank">Partner Solution</a></li>
+          <!--<li><a href="https://www.reallusion.com/purchase_licensing.asp">Volume Licensing</a></li>-->
+          <li><a href="https://www.reallusion.com/purchase_regional.asp">Regional Partners</a></li>
         </ul>
       </div>
       <div class="blog">
-        <h6 class="buttomHEAD">Community</h6>
-        <ul class="buttom">
-          <li><a href="http://city.reallusion.com/">City Home</a></li>
-          <li><a href="http://city.reallusion.com/marketplace.aspx">City Marketplace</a></li>
-          <li><a href="http://www.reallusion.com/reallusiontv/">City Theater</a></li>
-          <li><a href="http://forum.reallusion.com/">City Forum</a></li>
-          <li><a href="http://blog.reallusion.com/">City Blog</a></li>
+        <h2>Community</h2>
+        <div class="clr"></div>
+        <ul><li><a href="http://city.reallusion.com/marketplace.aspx">Marketplace</a></li>
+          <li><a href="https://www.reallusion.com/reallusiontv/">Reallusion TV</a></li>
+          <li><a href="https://www.reallusion.com/reallusiontv/featuredstory/default_iClone.aspx">User Story</a></li>
+          <li><a href="http://forum.reallusion.com/default.aspx">Forum</a></li>
+          <li><a href="https://blog.reallusion.com/">Blog</a></li>
+          <li><a href="https://www.reallusion.com/reallusiontv/LiveShow.aspx?type=3D">Real-time Live Show</a></li>
           <li><a href="http://developer.reallusion.com/">Developer Center</a></li>
-          <li><a href="http://developer.reallusion.com/certificationcenter.aspx">Certification Center</a></li>
-          <li><a href="http://www.reallusion.com/about/partnercenter.aspx">Partner Home</a></li>
-          <!--<li><a href="http://www.reallusion.com/affiliate/default.aspx">Join Affiliate Program</a></li>-->
         </ul>
       </div>
       <div class="blog">
-        <h6 class="buttomHEAD">Education</h6>
-        <ul class="buttom">
+        <h2>Education</h2>
+        <div class="clr"></div>
+        <ul>
           <li><a href="http://education.reallusion.com/default.aspx">Reallusion in the Class</a></li>
         </ul>
-             <h6 class="buttomHEAD">Support</h6>
-          <ul class="buttom">
+             <h2>Support</h2>
+        <div class="clr"></div>
+          <ul>
           <li><a href="https://www.reallusion.com/member/memberreg.aspx?rurl=">Member Login</a></li>
           <li><a href="https://www.reallusion.com/member/memberreg.aspx?rurl=">Product Registration</a></li>
           <li><a href="https://www.reallusion.com/CustomerSupport/User/FAQList.aspx">FAQ</a></li>
@@ -791,23 +792,25 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
         </ul>
       </div>
     </div>
-    <div class=" Solutions1">Solutions for : <a href="http://www.reallusion.com/iclone/" class="link"><br>
-      3D Character Animation</a> | <a href="http://www.reallusion.com/crazytalk/animator/" class="link">2D Cartoon Animation</a> | <a href="http://www.reallusion.com/popvideo/" class="link">One-click Chromakey</a> | <a href="http://www.reallusion.com/crazytalk/" class="link">2D Animation and Facial Animation</a> | <a href="http://www.reallusion.com/facefilter/" class="link">Facial Photo Editor </a>| <a href="http://iphone.reallusion.com/" class="link">iPhone Application</a><br>
+    <div class=" Solutions">Solutions for : <a href="https://www.reallusion.com/iclone/"><br>
+      3D Character Animation</a> | <a href="https://www.reallusion.com/crazytalk-animator/">2D Cartoon Animation</a> | <a href="https://www.reallusion.com/popvideo/">One-click Chromakey</a> | <a href="https://www.reallusion.com/crazytalk/">2D Animation and Facial Animation</a> | <a href="https://www.reallusion.com/facefilter/">Facial Photo Editor </a>| <a href="http://iphone.reallusion.com/">iPhone Application</a><br>
     </div>
-    
-</div> 
-<div id="bottom">
-<div class="FOOTER_word"><span style=" float:left;">Copyright © 2016 Reallusion Inc. All rights reserved.</span><span style="float:right"><a href="http://www.reallusion.com/privacy.asp" target="_blank">Privacy Policy</a> | <a href="http://www.reallusion.com/Reallusion_EULA_Animation.pdf" target="_blank">AP EULA</a>  | <a href="http://www.reallusion.com/Reallusion_Content_EULA.pdf" target="_blank">Content EULA</a> | <a href="http://www.reallusion.com/sitemap.asp" target="_blank">Site Map</a></span></div> 
+  </div>
+</div>
+  <div id="FOOTER">
+<div class="FOOTER_word"><span>Copyright © 2016 Reallusion Inc. All rights reserved.</span><span style="float:right"><a href="https://www.reallusion.com/privacy.asp" target="_blank">Privacy Policy</a> | <a href="https://www.reallusion.com/Reallusion_EULA_Animation.pdf" target="_blank">AP EULA (Animation)</a> | <a href="https://www.reallusion.com/Reallusion_EULA_Image.pdf" target="_blank">AP EULA (Image)</a> | <a href="https://www.reallusion.com/Reallusion_Content_EULA.pdf" target="_blank">Content EULA</a> | <a href="https://www.reallusion.com/sitemap.asp" target="_blank">Site Map</a></span></div>
+
 </div>
 
 <map name="Map" id="Map">
   <area shape="rect" coords="0,1,38,38" href="https://www.facebook.com/ReallusionSoftware" target="_blank">
-  <area shape="rect" coords="44,3,78,38" href="http://www.reallusion.com/rss/" target="_blank">
-  <area shape="rect" coords="85,2,118,36" href="http://www.youtube.com/user/Reallusion" target="_blank">
-  <area shape="rect" coords="124,3,164,35" href="http://blog.reallusion.com/" target="_blank">
+  <area shape="rect" coords="44,3,78,38" href="https://www.reallusion.com/rss/" target="_blank">
+  <area shape="rect" coords="84,3,117,37" href="https://www.youtube.com/user/Reallusion" target="_blank">
+  <area shape="rect" coords="125,2,161,38" href="https://blog.reallusion.com/" target="_blank">
 </map>
 
-</div>
+
+		
     </form>
     <script type="text/javascript">
 
@@ -868,4 +871,4 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 
 
 
-<script async="" src="//radar.cedexis.com/1/15401/radar.js"></script></body></html>
+   <script async="" src="//radar.cedexis.com/1/15401/radar.js"></script></body></html>
