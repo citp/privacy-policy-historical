@@ -1,62 +1,55 @@
-> *The following text is extracted and transformed from the contexteditor.org privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604101502id_/https%3A//www.daily.co.uk/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contexteditor.org privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129215705id_/http%3A//www.contexteditor.org/privacy) for the most accurate reproduction.*
 
-# Daily.co.uk: Privacy Policy
+# Text Editor Privacy Policy
 
-### What we collect
+We are extremely concerned to protect your privacy and confidentiality. We understand that all users of our site are quite rightly concerned to know that their data will not be used for any purpose unintended by them, and will not fall into the hands of a third party. Our policy is both specific and strict. If you think our policy falls short of your expectations or that we are failing to abide by our policy, do please tell us. 
 
-We may collect the following information: 
+We do not share, sell, or disclose to a third party, any personally identifiable information collected at this site. If this policy should change in the future (most unlikely), then we shall provide notification in advance, and the opportunity for all users to indicate whether or not they would prefer that we do not provide the information to third parties as proposed. 
 
-  * Name and title
-  * Contact information including email address
-  * Demographic information such as postcode, preferences and interests
-  * Other information relevant to customer surveys and/or offers
+Here is a list of the information we collect, and why it is necessary to collect it: 
 
-  
+**1\. Basic identification and contact information, such as your name and contact details**   
+This information is used:   
+1.1 to provide you with the services which you request;   
+1.2 to enable us to answer your enquiries;   
+1.3 for verifying your identity for security purposes;   
+1.4 to help make our web site as useful to you as possible;   
+1.5 information which does not identify any individual may be used in a general way by us or third parties, to provide class information, for example relating to demographics or usage of a particular page or service. 
 
+**2\. Your host name and ip address**   
+are recognised by our servers and the pages that you visit are recorded. This information is used:   
+2.1 in a collective way not referable to any particular individual, for the purpose of quality control and improvement of our site;   
+2.2 to send you news about the services to which you have signed up;   
+2.3 to tell you about our other services. 
 
-### What we do with the information we gather
+**3\. Financial information, including credit card details**   
+We are constantly vigilant for credit card or other fraud. We report all charge backs to a credit reference agency. If you have any reason to seek the return of money paid, please contact us rather than your credit card issuer. 
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
+This information is used to obtain Donations you have sent to us. This information is never actually received by us. The page where this information is given by you is controlled by our contract merchant service provider, PayPal. Such information is automatically encrypted, and later decrypted for use. Finicial / Account Details never touch our systems. 
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
-  * From time to time, we may also use your information to contact you for market research purposes.
-  * We may use the information to customise the website according to your interests.
+**4\. The ConTEXT Website**   
+Is available to be seen by users throughout the world. No contact details whatever are given out with it. Information, which does not identify any individual may be used in a general way by us or third parties, to provide class information, for example relating to demographics or usage of a particular page or service. Some of this information is classified as sensitive information by the UK Data Protection Act 1998. We make the assumption that in giving this information to us, you consent to our holding it for the duration of 1 Year from the last time you were actively using our services. 
 
-  
+**5\. Information volunteered by you**   
+for a particular purpose, for example a personal profile, survey, job application form, or contest. This information will be used exclusively for the purpose for which you have provided it. Information is disclosed to third parties only where the third party concerned qualifies in whatever way the web site page requires. We will make absolutely clear on the face of the page, any intention to publicise the name of a volunteer. 
 
+**6\. Business information**   
+This is information given to us in the course of your business and ours such as in relation to your application to partner with us or advertise with us. Such information is retained for business use only. We undertake to preserve the confidentiality of the information and of the terms of our relationship. It is not used for any other purpose. We expect you and any partner to reciprocate this policy. 
 
-### Security
+**7\. Disclosure to Government**   
+and their agencies. We are subject to the law like everyone else. We may be required to give information to legal authorities if they so request or if they have the proper authorization such as a search warrant or court order. 
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+**8\. Information request**   
+At any time you may review or update the personally identifiable information that we hold about you, by contacting us at the address below. To better safeguard your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information. 
 
-### How we use cookies
+This confidentiality policy has been compiled so as to comply with current UK, US and EU legislation, so far as we are aware. If you have any question regarding the confidentiality policy, please contact us at: 
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+ConTEXT Project  
+The Meridan,  
+4 Copthall House,  
+Station Square,  
+Coventry,  
+West Midlands UK  
+CV1 2FL 
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
-
-### Links to other websites
-
-Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
-
-### Controlling your personal information
-
-You may choose to restrict the collection or use of your personal information in the following ways: 
-
-  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at helpdesk@daily.co.uk 
-
-  
-
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to: Daily.co.uk, 9 Regan Way, Chetwynd Business Park, Chilwell, Nottingham, NG9 6RZ. 
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+Last Revised 01/02/2008
