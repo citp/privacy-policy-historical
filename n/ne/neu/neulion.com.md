@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neulion.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503054516id_/http%3A//www.neulion.com/SportSelect.dbml%3F%26DB_OEM_ID%3D30000%26SPID%3D122608%26SPSID%3D1020510) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neulion.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129090343id_/http%3A//www.neulion.com/SportSelect.dbml%3F%26DB_OEM_ID%3D30000%26SPID%3D122608%26SPSID%3D1020510) for the most accurate reproduction.*
 
 # Privacy Policy | NeuLion
 
