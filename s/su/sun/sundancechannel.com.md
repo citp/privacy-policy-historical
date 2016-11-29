@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sundancechannel.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617204849id_/http%3A//www.sundance.tv/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sundancechannel.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129114408id_/http%3A//www.sundance.tv/about/privacy) for the most accurate reproduction.*
 
 # Privacy – SundanceTV
 
