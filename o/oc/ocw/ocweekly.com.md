@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ocweekly.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118220853id_/http%3A//www.ocweekly.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocweekly.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129055429id_/http%3A//www.ocweekly.com/about/privacyPolicy) for the most accurate reproduction.*
 
-# Orange County Privacy Policy
+# Privacy Policy | Orange County News and Events | OC Weekly
 
 ### OC Weekly, LP
 
@@ -86,8 +86,8 @@ We use reasonable efforts to protect your personally identifiable information fr
 
 ### Updates and Changes to Your Information.
 
-If your personally identifiable information changes, you may correct and/or update it by sending us an email at [ocfeedback-members@ocweekly.com](mailto:ocfeedback-members@ocweekly.com). You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site. 
+If your personally identifiable information changes, you may correct and/or update it by sending us [an email](https://web.archive.org/about/contact?category=community). You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site. 
 
 ### More Questions? 
 
-If you have any questions about this privacy policy, please e-mail them to [privacyadministrator@voicemediagroup.com](mailto:privacyadministrator@voicemediagroup.com), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
+If you have any questions about this privacy policy, please e-mail them to [privacyadministrator@ocweekly.com](mailto:privacyadministrator@ocweekly.com), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
