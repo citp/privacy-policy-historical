@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the uca.ac.uk privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614132525id_/http%3A//www.uca.ac.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uca.ac.uk privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129215353id_/http%3A//uca.ac.uk/privacy-policy) for the most accurate reproduction.*
 
 # UCA - Privacy Policy
 
-Privacy Statement for the website of the University for the Creative Arts
-
- **GENERAL** This privacy statement sets out how the University for the Creative Arts (the ‘University’) complies with European Union data protection requirements and how it uses and protects any personal information that you provide when you use this website. If you have any questions about this policy or do not agree with it, please contact the University at [**web@uca.ac.uk**](mailto:web@uca.ac.uk)
+**GENERAL** This privacy statement sets out how the University for the Creative Arts (the ‘University’) complies with European Union data protection requirements and how it uses and protects any personal information that you provide when you use this website. If you have any questions about this policy or do not agree with it, please contact the University at [**web@uca.ac.uk**](mailto:web@uca.ac.uk)
 
 The University may change this policy, from time to time, by updating this page. You should check this page from time to time to ensure you are happy with any changes.
 
@@ -68,16 +66,27 @@ We are committed to ensuring that your information is secure. In order to preven
 
 This website may contain links to enable you to visit other websites, of interest, easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites, and such sites are not governed by this Privacy Statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
- **HOBSONS PLC**
+ **HOBSONS PLC & GECKO LABS  
+**The University for the Creative Arts has a relationship with Hobsons Plc and Gecko Labs Limited for the following activities:
 
-The University for the Creative Arts has a relationship with Hobsons Plc. Some UCA web pages are hosted by Hobsons. Here is some further information.
+  * Customer Relationship Management system
+  * Web form management
+  * Data collection for 
+    * Prospectus requests
+    * Open Days
+    * Enquiries
+  * Live Chat
+  * Event management
 
- **HOW WE USE COOKIES**
 
-[**Detailed information is given in our Cookie Policy**](http://ucreative.ac.uk/index.cfm?articleID=37222)
+
+  
+**HOW WE USE COOKIES**
 
 A cookie is a piece of text which asks permission to be placed on your computer's hard drive. Once you agree, your browser adds that text in a small file. A cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Denial of a traffic log cookie should not prevent you from using one of these sites.
 
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. This practice is strictly in force. We know that people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile. You may set your web browser to notify you of cookie placement requests or decline cookies completely. You can delete the files that contain cookies - those files are stored as part of your internet browser.
+
+**[Detailed information is given in our Cookie Policy](http://www.uca.ac.uk/privacy-policy/cookie-policy/)**
