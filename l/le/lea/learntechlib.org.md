@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the learntechlib.org privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627003810id_/https%3A//www.learntechlib.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learntechlib.org privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129231813id_/http%3A//learntechlib.org/about/privacy) for the most accurate reproduction.*
 
-# Learning & Technology Library (LearnTechLib)
+# Privacy Policy - Learning & Technology Library (LearnTechLib)
 
 **LearnTechLib will never sell, rent, or exchange email or mailing addresses of its members, customers, and website users.**
 
