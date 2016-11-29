@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joybauer.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515092711id_/http%3A//www.joybauer.com/help/help_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joybauer.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130003639id_/http%3A//www.joybauer.com/help/help_privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Joy Bauer
 
