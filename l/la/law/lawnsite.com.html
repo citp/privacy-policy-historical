@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lawnsite.com privacy policy that was archived on 2016-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160610201646id_/http%3A//www.lawnsite.com/help/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lawnsite.com privacy policy that was archived on 2016-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161129060841id_/http%3A//www.lawnsite.com/help/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html id="XenForo" lang="en-US" dir="LTR" class="Public NoJs GalleryLazyLoader LoggedOut NoSidebar  Responsive" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -10,7 +10,7 @@
 	
 	
 		<base href="http://www.lawnsite.com/">
-		<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+		<script>
 			var _b = document.getElementsByTagName('base')[0], _bH = "http://www.lawnsite.com/";
 			if (_b && _b.href != _bH) _b.href = _bH;
 		</script>
@@ -21,33 +21,102 @@
 
 	
 	<noscript><style>.JsOnly, .jsOnly { display: none !important; }</style></noscript>
-	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=2&amp;dir=LTR&amp;d=1465414729">
-	<link rel="stylesheet" href="css.php?css=help_wrapper,login_bar&amp;style=2&amp;dir=LTR&amp;d=1465414729">
+	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=2&amp;dir=LTR&amp;d=1479914918">
+	<link rel="stylesheet" href="css.php?css=help_wrapper,login_bar&amp;style=2&amp;dir=LTR&amp;d=1479914918">
 	
 	
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
 
 
 
-	
 		<script src="js/jquery/jquery-1.11.0.min.js"></script>	
 		
 	<script src="js/lawnsiteLayout/xenforo-lawnsite.min.js?_v=4589cd98"></script>
 
+
+<script>
+$(document).ready(function(){
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga("create","UA-3302863-13","auto");ga("require","displayfeatures");ga('set','forceSSL',true);
+if(XenForo.visitor.user_id>0){ga('set','&uid',XenForo.visitor.user_id);}
+if (typeof XenForo.node_name!='undefined') {ga('set','dimension6',XenForo.node_name);}
+if("/account/upgrades"==document.location.pathname.substr(-17)){ga("require","ec");var position=1;$("form.upgradeForm").each(function(){ $(this).find('input[type="submit"]').on("click",function(){var name=$(this).closest("form").find('input[name="item_name"]').val().match(/^.*?: (.*) \(/)[1];ga("ec:addProduct",{id:"UU-"+$(this).closest("form").find('input[name="custom"]').val().match(/^.*?,(.*?),/)[1],name:name,category:"User Upgrades"});ga("ec:setAction","checkout");ga("send","event","Checkout","Click",name)});
+ga("ec:addImpression",{id:"UU-"+$(this).find('input[name="custom"]').val().match(/^.*?,(.*?),/)[1],name:$(this).find('input[name="item_name"]').val().match(/^.*?: (.*) \(/)[1],category:"User Upgrades",list:"User Upgrade List",position:position++})})};
+if (document.referrer.match(/paypal\.com.*?cgi-bin\/webscr|facebook\.com.*?dialog\/oauth|twitter\.com\/oauth|google\.com.*?\/oauth2/) != null){ga('set','referrer','');}
+	var contentTemplate = "help_page";
+	var forumName = "";
+	var forumId = 0;
+
 	
-	<link rel="apple-touch-icon" href="http://www.lawnsite.com/styles/default/lawnsiteLayout/lawnsite_logo.png">
+
+	var threadId = "";
+	var threadTitle = "";
+
+	if(threadId != "" && threadTitle != "") {
+	
+		threadTitle = threadTitle.replace(/&amp;/g,'&');
+		
+		var elem = document.createElement('textarea');
+		elem.innerHTML = threadTitle;
+		threadTitle = elem.value;
+		
+		console.log("thread", threadId + " - " + threadTitle);
+		ga('set', 'dimension4', threadId + " - " + threadTitle);		
+	}
+
+	if(forumName == "" || forumId == "") {
+		if(contentTemplate.indexOf("forum_list") > -1) {
+			forumName = "Forum Home";
+			forumId = "-1";
+		} else if(contentTemplate.indexOf("member") == 0) {
+			forumName = "Member Profile";
+			forumId = "-2";
+		} else if(contentTemplate.indexOf("search") > -1) {
+			forumName = "Search";
+			forumId = "-3";
+		} else if(contentTemplate.indexOf("xengallery") > -1) {
+			forumName = "Media Gallery";
+			forumId = "-4";
+		}
+	}
+
+	console.log(forumId + " - " + forumName);
+
+
+	if(forumName != "" && forumId != 0){
+		ga('set', 'dimension3', forumId + " - " + forumName);
+	}
+	
+	//Analytics variables (this template is inside script tags)
+
+var dimensionValue = 'LS';
+ga('set', 'dimension5', dimensionValue);
+
+	
+		ga('set', 'dimension1', 'Guest');
+	
+	
+	ga('send', 'pageview');
+
+
+$('.externalLink').on('click',function(){ga('send', 'event','Link','Click', $(this).prop('href'))});
+
+
+setTimeout(function(){try{FB.Event.subscribe("edge.create",function(a){ga("send","social","Facebook","Like",a)}),FB.Event.subscribe("edge.remove",function(a){ga("send","social","Facebook","Unlike",a)}),twttr.ready(function(a){a.events.bind("tweet",function(b){if(b){var a;b.target&&"IFRAME"==b.target.nodeName&&(a=ePFU(b.target.src,"url"));ga("send","social","Twitter","Tweet",a)}});a.events.bind("follow",function(b){if(b){var a;b.target&&"IFRAME"==b.target.nodeName&&(a=
+ePFU(b.target.src,"url"));ga("send","social","Twitter","Follow",a)}})})}catch(c){}},1E3);
+});
+function ePFU(c,a){if(c){c=c.split("#")[0];var b=c.split("?");if(1!=b.length){b=decodeURI(b[1]);a+="=";for(var b=b.split("&"),e=0,d;d=b[e];++e)if(0===d.indexOf(a))return unescape(d.split("=")[1])}}}
+</script>
+	
+	<link rel="apple-touch-icon" href="http://www.lawnsite.com/styles/default/lawnsiteLayout/og_logo_lawnsite.png">
 	<link rel="alternate" type="application/rss+xml" title="RSS feed for LawnSite" href="forums/-/index.rss">
 	
 	
 	<link rel="canonical" href="http://www.lawnsite.com/help/privacy-policy/">
-<script type="text/javascript">
-  (function() {
-    var useSSL = 'https:' == document.location.protocol;
-    var src = (useSSL ? 'https:' : 'http:') +
-        '//www.googletagservices.com/tag/js/gpt.js';
-    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-  })();
-</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
 
 <script>
 	//console.log("Page: ", "help_page");
@@ -58,7 +127,7 @@
 	maxResponsiveWideWidth = maxResponsiveWideWidth.replace("px", "");
 	maxResponsiveWideWidth = parseInt(maxResponsiveWideWidth);
 
-	var maxResponsiveMediumWidth = "768px";
+	var maxResponsiveMediumWidth = "767px";
 	maxResponsiveMediumWidth = maxResponsiveMediumWidth.replace("px", "");
 	maxResponsiveMediumWidth = parseInt(maxResponsiveMediumWidth);
 	
@@ -66,7 +135,7 @@
 	var superLeaderboardMapping = googletag.sizeMapping().
 	addSize([0, 0], []).
 	addSize([maxResponsiveMediumWidth, 0], [728,90]).
-	addSize([maxResponsiveWideWidth, 0], [[728,90],[970,90]]).
+	addSize([maxResponsiveWideWidth, 0], [[728,90],[970,90],[970,250]]).
 	build();
 	
 	// Leaderboards - 728px
@@ -74,17 +143,29 @@
 	addSize([0, 0], []).
 	addSize([maxResponsiveMediumWidth, 0], [728,90]).
 	build();
-		
+
 	// Mobile Leaderboards - 240px, 320px
 	var mobileLeaderboardMapping = googletag.sizeMapping().
 	addSize([0, 0], [[320,50], [240,45]]).
 	addSize([maxResponsiveMediumWidth, 0], []).
 	build();
 	
+	// Mobile Adhesion Footer - out-of-page
+	var mobileAdhesionFooterMapping = googletag.sizeMapping().
+	addSize([0, 0], [1,1]).
+	addSize([maxResponsiveMediumWidth, 0], []).
+	build();
+	
+	// Mobile In-Content - 240px, 320px, 300x250
+	var mobileInContentMapping = googletag.sizeMapping().
+	addSize([0, 0], [[320,50], [240,45], [300, 250]]).
+	addSize([maxResponsiveMediumWidth, 0], []).
+	build();
+
 	// Desktop Towers - 300px
 	var desktopTowersMapping = googletag.sizeMapping().
 	addSize([0, 0], []).
-	addSize([maxResponsiveWideWidth, 0], [[300, 250], [300, 600]]).
+	addSize([maxResponsiveWideWidth, 0], [[160,600], [300, 250], [300, 600]]).
 	build();
 	
 	//Interstitial Pop-up
@@ -117,23 +198,24 @@
 	
 	googletag.defineSlot('/24055536/LS-Mobile-Header', [[320,50], [240,45]], 'div-gpt-ad-Mobile-Header').defineSizeMapping(mobileLeaderboardMapping).setCollapseEmptyDiv(true,true).addService(googletag.pubads());	
 		
-	googletag.defineSlot('/24055536/LS-SuperLeaderboard', [[728, 90], [970, 90]], 'div-gpt-ad-SuperLeaderboard').defineSizeMapping(superLeaderboardMapping).setCollapseEmptyDiv(true,true).addService(googletag.pubads());
+	googletag.defineSlot('/24055536/LS-SuperLeaderboard', [[728, 90], [970, 90], [970,250]], 'div-gpt-ad-SuperLeaderboard').defineSizeMapping(superLeaderboardMapping).setCollapseEmptyDiv(true,true).addService(googletag.pubads());
 
-	googletag.defineSlot('/24055536/LS-Right1', [[300, 250], [300, 600]], 'div-gpt-ad-Right1').defineSizeMapping(desktopTowersMapping).setCollapseEmptyDiv(true,true).addService(googletag.pubads());	
-	googletag.defineSlot('/24055536/LS-Right2', [[300, 250], [300, 600]], 'div-gpt-ad-Right2').defineSizeMapping(desktopTowersMapping).setCollapseEmptyDiv(true,true).addService(googletag.pubads());	
-	googletag.defineSlot('/24055536/LS-Right3', [[300, 250], [300, 600]], 'div-gpt-ad-Right3').defineSizeMapping(desktopTowersMapping).setCollapseEmptyDiv(true,true).addService(googletag.pubads());
+	googletag.defineSlot('/24055536/LS-Right1', [[160,600], [300, 250], [300, 600]], 'div-gpt-ad-Right1').defineSizeMapping(desktopTowersMapping).setCollapseEmptyDiv(true,true).addService(googletag.pubads());	
+	googletag.defineSlot('/24055536/LS-Right2', [[160,600], [300, 250], [300, 600]], 'div-gpt-ad-Right2').defineSizeMapping(desktopTowersMapping).setCollapseEmptyDiv(true,true).addService(googletag.pubads());	
+	googletag.defineSlot('/24055536/LS-Right3', [[160,600], [300, 250], [300, 600]], 'div-gpt-ad-Right3').defineSizeMapping(desktopTowersMapping).setCollapseEmptyDiv(true,true).addService(googletag.pubads());
 
-	googletag.defineSlot('/24055536/LS-Mobile-Footer-Adhesion', [[320,50], [240,45]], 'div-gpt-ad-Mobile-Footer-Adhesion').defineSizeMapping(mobileLeaderboardMapping).setCollapseEmptyDiv(true,true).addService(googletag.pubads());
+	googletag.defineSlot('/24055536/LS-Mobile-Footer-Adhesion', [1, 1], 'div-gpt-ad-Mobile-Footer-Adhesion').defineSizeMapping(mobileAdhesionFooterMapping).setCollapseEmptyDiv(true,true).addService(googletag.pubads());
+	
 	googletag.defineSlot('/24055536/LS-Footer', [728, 90], 'div-gpt-ad-Footer').defineSizeMapping(leaderboardMapping).setCollapseEmptyDiv(true,true).addService(googletag.pubads());
 
 	
 	
-		googletag.defineSlot('/24055536/LS-Button1', [120, 60], 'div-gpt-ad-Button1').defineSizeMapping(buttonsMapping).setCollapseEmptyDiv(true,true).addService(googletag.pubads());	
-		googletag.defineSlot('/24055536/LS-Button2', [120, 60], 'div-gpt-ad-Button2').defineSizeMapping(buttonsMapping).setCollapseEmptyDiv(true,true).addService(googletag.pubads());	
-		googletag.defineSlot('/24055536/LS-Button3', [120, 60], 'div-gpt-ad-Button3').defineSizeMapping(buttonsMapping).setCollapseEmptyDiv(true,true).addService(googletag.pubads());	
-		googletag.defineSlot('/24055536/LS-Button4', [120, 60], 'div-gpt-ad-Button4').defineSizeMapping(buttonsMapping).setCollapseEmptyDiv(true,true).addService(googletag.pubads());	
-		googletag.defineSlot('/24055536/LS-Button5', [120, 60], 'div-gpt-ad-Button5').defineSizeMapping(buttonsMapping).setCollapseEmptyDiv(true,true).addService(googletag.pubads());	
-		googletag.defineSlot('/24055536/LS-Button6', [120, 60], 'div-gpt-ad-Button6').defineSizeMapping(buttonsMapping).setCollapseEmptyDiv(true,true).addService(googletag.pubads());
+		googletag.defineSlot('/24055536/LS-Button1', [120, 60], 'div-gpt-ad-Button1').setCollapseEmptyDiv(true,true).addService(googletag.pubads());	
+		googletag.defineSlot('/24055536/LS-Button2', [120, 60], 'div-gpt-ad-Button2').setCollapseEmptyDiv(true,true).addService(googletag.pubads());	
+		googletag.defineSlot('/24055536/LS-Button3', [120, 60], 'div-gpt-ad-Button3').setCollapseEmptyDiv(true,true).addService(googletag.pubads());	
+		googletag.defineSlot('/24055536/LS-Button4', [120, 60], 'div-gpt-ad-Button4').setCollapseEmptyDiv(true,true).addService(googletag.pubads());	
+		googletag.defineSlot('/24055536/LS-Button5', [120, 60], 'div-gpt-ad-Button5').setCollapseEmptyDiv(true,true).addService(googletag.pubads());	
+		googletag.defineSlot('/24055536/LS-Button6', [120, 60], 'div-gpt-ad-Button6').setCollapseEmptyDiv(true,true).addService(googletag.pubads());
 	
 	
 	
@@ -141,9 +223,11 @@
 	//console.log("FORUMIDs:", "forumId:",  "", "Parent Node ID:", '', "forum.node_id:", "");
 	
 	
+	
+	
 
 		googletag.pubads().enableSingleRequest();
-		googletag.pubads().enableSyncRendering();
+		//googletag.pubads().enableSyncRendering();
 		googletag.pubads().collapseEmptyDivs();
 		googletag.enableServices();
 	});
@@ -156,6 +240,13 @@
 body {
 	background-color: rgb(245, 247, 239);
 }
+
+body > div:first-of-type + iframe, body > div:first-of-type + iframe + iframe {
+    width: 0;
+    height: 0;
+    border: 0;
+}
+
 
 .wp-override-css {
 	max-width:1100px !important;
@@ -220,6 +311,11 @@ a:visited
 	box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
+}
+
+.mainContent, .footerAd, .breadBoxBottom .breadcrumb, #waindigoCopyrightNotice
+{
+	 margin-right: 324px;
 }
 
 .mainContent
@@ -326,10 +422,14 @@ div.ad728x90.inContent, div.ad320x50.inContent {
 	margin-bottom: 2.5em;
 }
 
-#div-gpt-ad-Interstitial iframe, #div-gpt-ad-Interstitial div {
+#div-gpt-ad-Interstitial iframe, #div-gpt-ad-Interstitial div, #div-gpt-ad-Brandscape_ad_container {
 	height: 1px !important;
 	width: 1px !important;
 	margin: -1px !important;
+}
+
+#div-gpt-ad-Brandscape > div {
+	line-height: 0;
 }
 
 /* Buttons on Right */
@@ -591,9 +691,20 @@ div.ad728x90.inContent, div.ad320x50.inContent {
     clear: both;
 }
 
+#logoBlock{
+	background: transparent url("styles/default/lawnsiteLayout/ls-header-background.jpg") no-repeat bottom center;
+}
+
 #logo{
 	clear: both;
 	padding-top: 1em;
+	width: 300px;
+	display: block;
+	float: left;
+	line-height: 86px;
+	height: 90px;
+	max-width: 100%;
+	vertical-align: middle;
 }
 
 .navTabs{
@@ -944,7 +1055,6 @@ nav .navDiv{
 	top: -118px;
 }
 
-
 #QuickSearch, #QuickSearch *{
 	box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -956,6 +1066,7 @@ nav .navDiv{
 	border-radius: 0;
 	padding-top: 0;
 	padding-bottom: 0 !important;
+	margin-top: 15px;
 }
 
 #QuickSearch .formPopup{
@@ -1069,9 +1180,23 @@ nav .navDiv{
 	.breadcrumb .crust a.crumb > span {
 		display: inline;
 	}
+*/
+/* Not sure why above is commented out */
+
+	.breadcrumb a.globalFeed {
+		width: 14px;
+		height: 14px;
+		display: block;
+		text-indent: -9999px;
+		white-space: nowrap;
+		background: url('styles/default/xenforo/xenforo-ui-sprite.png') no-repeat -112px -16px;
+		padding: 0;
+		margin: 5px;
+	}
 
 /*#endregion Breadcrumbs */
 
+	
 
 /*#region Homepage Styles */
 
@@ -1092,12 +1217,16 @@ nav .navDiv{
     padding-left: 12px;
 }
 
+.categoryStrip .nodeDescription {
+	display: none;
+}
+
 .category {
 	padding: 0 !important;
 }
 
 
-/*#endregion Homepage Styles */
+/*#endregion /Homepage Styles */
 
 
 /*#region forum styles */
@@ -1223,7 +1352,7 @@ a.dateTime::before {
 
 
 	.node .feedIcon {
-		display: none;
+		/*display: none;*/
 	}
 
 /*#endregion forum homepage cards */
@@ -1312,6 +1441,13 @@ text-decoration: none;
 
 /*#endregion /Discussion List - remove avatar, replace with icon */
 
+.watch_threads_all .discussionListItem.unread {
+	background-color: rgb(228, 253, 201);
+}
+
+.watch_threads_all .discussionListItem.unread .stats {
+	background-color: rgb(228, 253, 201);
+}
 
 .discussionListItem .posterAvatar .avatarContainer {
 	width: auto !important;
@@ -2253,6 +2389,7 @@ input[type="checkbox"]:checked::after {
 /*#endregion Checkboxes and Radio Buttons */
 
 /*#region Notice Box Below Navbar */
+
 .noticeOuterDiv {
 	display: table; 
 	table-layout: fixed; 
@@ -2275,6 +2412,11 @@ input[type="checkbox"]:checked::after {
 	padding-left: 24px;
 }
 
+.Notices.PanelScroller .PanelContainer {
+	transform: translateY(50px);
+	margin-bottom: 50px;
+} 
+
 /*#endregion Notice Box Below Navbar */
 
 div.avatarHolder span.Tooltip.onlineMarker {
@@ -2295,10 +2437,119 @@ div.avatarHolder span.Tooltip.onlineMarker {
 	box-shadow: none;
 	background: none;
 }
+
+
+
+/*#region Homepage Gallery Thumbs */
+	.homepageMediaBlock {
+		float: left;
+		width: 100%;
+	}
+	
+	.nodeList .categoryForumNodeInfo.homepageGalleryThumbs {
+		border: solid 1px rgb(237, 234, 220);
+		padding: 10px 5px;
+		padding-top: 14px;
+	}
+	
+	.homepageGalleryThumb {
+		width: 16.6667%;
+		float: left;
+		padding: 0 5px;
+		text-align: center;		
+	}
+	
+	.homepageGalleryThumb a {
+		float: left;
+		text-align: center;
+		width: 100%;
+	}
+	
+	.homepageGalleryThumb  img {
+		width: 100%;
+		float: left;
+		margin-bottom: 5px;
+	}
+	
+/*#endregion /Homepage Gallery Thumbs */
+
+
+/*#region About Us */
+
+.logo2wide {
+	display: table-cell;
+	vertical-align: middle;
+	position: relative;
+}
+
+.logo2wide img {
+	max-width: 90%;
+	display: block;
+	position: absolute;
+	margin: auto;
+	top: 0px;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
+.logo2wide img {
+	max-width: 90%;
+}
+
+/*#region About Us */
+
+
+/*#region BB Codes Help Page */
+
+.bbCode .title .option, .bbCode > dl > dt {
+	color: rgb(55, 72, 20);
+}
+
+.bbCode > dl > dd {
+	border-color: rgb(55, 72, 20);
+}
+
+.youtubeHolderDiv {
+	max-width: none;
+	width: auto;
+	height: 0;
+	padding-bottom: 75%;
+	clear: both;
+	display: block;
+	margin: 0 auto;
+	overflow: hidden;
+	padding-top: 30px;
+	position: relative;
+}
+
+.youtubeHolderDiv input, .youtubeHolderDiv object, .youtubeHolderDiv object embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+/*#endregion BB Codes Help Page */
+
+
+.xengallery_media_view .fa-lg {
+	vertical-align: unset;
+}
+
+	#QuickSearchQuery.textCtrl {
+		margin-top: 0px;
+	}
+	
+	
+	.PageNav.pn5 a {
+		width: 26px;
+	}
 	@media (max-width: 1100px) {
 
 	.sidebar {
-		display: none !important;
+		padding-left: 0;
 	}
 
 	.desktop {
@@ -2324,7 +2575,6 @@ div.avatarHolder span.Tooltip.onlineMarker {
 	header {
 		background-color: rgb(160, 201, 79);	
 		padding: 0;
-		padding-bottom: 1em;
 		display: block;
 		z-index: 2;
 	}
@@ -2333,17 +2583,22 @@ div.avatarHolder span.Tooltip.onlineMarker {
 		-webkit-box-sizing: border-box;
 		-moz-box-sizing: border-box;
 		box-sizing: border-box;
-	}	
+	}
 
 	#headerMover #header {
 		width: 100%;
 		height: 100%;
 	}
-
+	
 	#logoBlock {
-		width: 100%;
 		float: left;
-		margin-left: -36px;
+		clear: both;
+		height: 90px;
+		width: auto;
+		float: none;
+		margin-left: 0;
+		padding-top: 2em;		
+		padding-bottom: 1em;
 	}
 
 	#logoBlock div {
@@ -2355,16 +2610,47 @@ div.avatarHolder span.Tooltip.onlineMarker {
 	
 	#logo {
 		padding-top: 0;
+		line-height: inherit;
+	}
+	
+	#QuickSearch {
+		margin-top: 0;
+		top: -15px;
+	}
+	
+	.menuTrigger {
+		bottom: 28px;
+		position: absolute;
+		margin-top: 0;
+		display: block;
+	}
+	
+	#QuickSearchPlaceholder {
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		margin: auto;
+		display: block;
+		transform: translateY(5px);
 	}
 
-	#logo img {
-		height: 50px;
+	#QuickSearch {
+		-webkit-box-shadow: 5px 5px 25px rgba(0,0,0, 0.5);
+		-moz-box-shadow: 5px 5px 25px rgba(0,0,0, 0.5);
+		-khtml-box-shadow: 5px 5px 25px rgba(0,0,0, 0.5);
+		box-shadow: 5px 5px 25px rgba(0,0,0, 0.5);
+		padding-bottom: 5px;
+		top: 40px;
+		display: none;
+	}
+	
+	#QuickSearch.show{
 		display: block;
-		margin: 0 auto;
 	}
 
 	.aboveHeaderNavDiv {
-		margin-bottom: 2em;
+		margin-bottom: 0;
+		position: relative;
 	}
 	
 	#searchBar {
@@ -2372,11 +2658,7 @@ div.avatarHolder span.Tooltip.onlineMarker {
 		top: auto;
 		bottom: 50px;
 	}	
-	
-	#QuickSearch {
-		top: auto;
-	}
-	
+		
 	.Responsive #QuickSearchPlaceholder.hide {
 		visibility: visible !important;
 	}
@@ -2517,15 +2799,26 @@ div.avatarHolder span.Tooltip.onlineMarker {
 		width: 33.33333%;
 	}
 	
+	.buttonAdDiv > div {
+		margin: 0 auto;
+	}
+	
 	.buttonAdsLeftDiv, .buttonAdsRightDiv {
 		width: 100%;
 	}
-	
+		
+	.section.profilePostList, .section.threadList {
+		display: none;
+	}
 	
 	.tabs {
 		font-size: 11px;
 	}
 	
+	.mainContent, .footerAd, .breadBoxBottom .breadcrumb, #waindigoCopyrightNotice
+	{
+		 margin-right: 0;
+	}
 	
 	/*#region Threads List */
 		.listBlock .titleText .title {
@@ -2605,7 +2898,7 @@ div.avatarHolder span.Tooltip.onlineMarker {
 	}
 	
 }
-	@media (max-width: 768px){
+	@media (max-width: 767px){
 
 	.desktop, .tablet {
 		display: none !important;
@@ -2638,7 +2931,24 @@ div.avatarHolder span.Tooltip.onlineMarker {
 		z-index: 9999;
 		height: 77px;
 	}
-		
+	
+	.menuTrigger {
+		top: 0;
+		bottom: 0;
+		transform: translateY(22px);
+	}
+	
+	#QuickSearchPlaceholder{
+		transform: translateY(6px);
+	}
+	
+	#div-gpt-ad-Mobile-Header{
+	    clear: left;
+	    float: left;
+	    width: 100%;
+	    display: block;
+	}
+	
 	#loginBar .pageContent {
 		padding-top: 0;
 	}
@@ -2659,12 +2969,17 @@ div.avatarHolder span.Tooltip.onlineMarker {
 		display: none !important;
 	}
 
-	header {
+	#logoBlock {
 		padding-top: 1em;
+		height: auto;
+	}
+	
+	#logo {
+		padding-top: 6px;
 	}
 	
 	#searchBar {
-		top: 24px;
+		top: 34px;
 	}
 	
 	ul.visitorTabs {
@@ -2871,22 +3186,29 @@ background-color: rgb(60, 155, 203);
 		margin-top: .5em !important;
 	}
 	
+	.profilePage .tabs.mainTabs li {
+		width: auto;
+		min-width: none;
+	}
 	
-
-.profilePage .tabs.mainTabs li {
-	width: auto;
-	min-width: none;
-}
+	.discussionListItem {
+		padding-bottom: 20px;
+	}
+	
+	.Responsive .discussionListItem .listBlock.lastPost dt {
+		display: block;
+	}
+	
+	.discussionListItem .itemPageNav {
+		visibility: visible;
+		margin-bottom: 10px;
+	}
 }
 	@media (max-width: 480px){
 	
 	.mobile {
 		display: block !important;
 	}
-	
-	header {
-		padding-top: 1em;
-	}	
 	
 	.sectionMain {
 		padding: 0;
@@ -3054,6 +3376,18 @@ background-color: rgb(60, 155, 203);
 	body > div.xenOverlay{
 		top: 0 !important;
 	}
+		
+	.homepageGalleryThumb {
+		width: 33.3333%;
+		margin-bottom: 10px;
+	}
+	
+	.homepageGalleryThumb a {
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+		font-size: .75em;
+	}
 }
 	@media (max-width: 360px) {
 	.ad320x50 {
@@ -3111,14 +3445,20 @@ background-color: rgb(60, 155, 203);
 		max-width: 100%;
 	}
 }
+	
+	
 </style>
+
+<meta name="google-site-verification" content="BBIbceylKtpUYNgDcOxn8GKtzU2A8Lov9jaGtfBl3FE">
 <script src="/js/lawnsiteLayout/lawnsite-javascript.js" type="text/javascript"></script>
-<script src="/js/lawnsiteLayout/sdk-jquery-dropdown-menu-v2.0.js?v=2" type="text/javascript"></script>
+<script src="/js/lawnsiteLayout/sdk-jquery-dropdown-menu-v2.0.js?v=4" type="text/javascript"></script>
 <script src="/js/mmenu/jquery.mmenu.min.js" type="text/javascript"></script>
-<link rel="stylesheet" href="/js/mmenu/jquery.mmenu.css">
+<link href="/js/mmenu/jquery.mmenu.css" rel="stylesheet">
 
 <script src="/js/mmenu/jquery.mmenu.navbars.min.js" type="text/javascript"></script>
 <link href="/js/mmenu/jquery.mmenu.navbars.css" type="text/css" rel="stylesheet">
+
+<script src="/js/lawnsiteLayout/stick-right-ads.min.js?v=3" type="text/javascript"></script>
 
 <script>
 	$(document).ready(function () {
@@ -3138,6 +3478,16 @@ background-color: rgb(60, 155, 203);
 				]
 			}
 		});
+		
+		
+		$(document).on("click", "#SignupButton", function(){
+			ga('send', 'event', "Login/Signup", "Opened", "Sidebar Button");
+		});
+		
+		$(document).on("click", "#loginSignUp", function(){
+			ga('send', 'event', "Login/Signup", "Opened", "Above Nav Button");
+		});
+		
 	});
 	
 	
@@ -3202,7 +3552,7 @@ background-color: rgb(60, 155, 203);
 		});
 
 		var strDesktopStart = "1100px";
-		var strTabletStart = "768px";
+		var strTabletStart = "767px";
 		var strMobileStart = "480px";
 
 		var intDesktopStart = parseInt(strDesktopStart.replace("px", ""));
@@ -3259,57 +3609,15 @@ background-color: rgb(60, 155, 203);
 		});
 	})(jQuery);
 </script>
-<script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	
-	ga('create', 'UA-3302863-13', 'auto');
-	ga('require', 'displayfeatures');
-		
-	//if(typeof allterms !== 'undefined'){
-	//	ga('set', 'page', '/search_results.php?searchterms=' + allterms);
-	//}
-
-
-	var forumName = "";
-	var forumId = 0;
-	
-	
-	
-	if(forumName == "" || forumId == ""){
-		
-	}
-	
-	var forumTracker = forumId + " - " + forumName;
-	
-	if(forumName != "" && forumId != 0){
-		ga('set', 'dimension3', forumTracker);
-	}
-	
-	//Analytics variables (this template is inside script tags)
-
-var dimensionValue = 'LS';
-ga('set', 'dimension5', dimensionValue);
-	
-	
-	ga('send', 'pageview', {
-
-		dimension1 : 'Guest'
-
-	});
-
-</script>
-
-<meta name="google-site-verification" content="BBIbceylKtpUYNgDcOxn8GKtzU2A8Lov9jaGtfBl3FE">
 <script type="text/javascript">
 (function() {
   var didInit = false;
   function initMunchkin() {
     if(didInit === false) {
       didInit = true;
-      Munchkin.init('342-MMW-280');
+      Munchkin.init('342-MMW-280', {
+        "asyncOnly":true
+      });
     }
   }
   var s = document.createElement('script');
@@ -3382,18 +3690,18 @@ ga('set', 'dimension5', dimensionValue);
 		</div>
 	</div>
 
-<div class="aboveHeaderNavDiv tablet">
+<div class="aboveHeaderNavDiv desktop">
 	<div class="aboveHeaderNavInnerDiv wp-override">
-		<div class="sisterSitesDiv tablet">
+		<div class="sisterSitesDiv desktop">
 			<div>
 				<div>
 					Our Sister Sites:
 				</div>
 				<a href="http://www.turfmagazine.com" class="tablet" target="_blank">
-					<img src="styles/default/lawnsiteLayout/sister-sites_turf.png" alt="Turf Magazine">
+					<img src="styles/default/lawnsiteLayout/sister-sites_turf.png?v=2" alt="Turf Magazine">
 				</a>
 				<a href="http://www.turfdesignbuild.com" class="tablet" target="_blank">
-					<img src="styles/default/lawnsiteLayout/sister-sites_tdb.png" alt="Turf Design Build Magazine">
+					<img src="styles/default/lawnsiteLayout/sister-sites_tdb.png?v=2" alt="Turf Design Build Magazine">
 				</a>
 				<a href="http://www.plowsite.com" class="tablet" target="_blank">
 					<img src="styles/default/lawnsiteLayout/sister-sites_plowsite.png" alt="Plowsite.com">
@@ -3541,6 +3849,7 @@ ga('set', 'dimension5', dimensionValue);
 				
 				<ul class="subMenu">
 					<li><a href="find-new/posts" rel="nofollow">Recent Posts</a></li>
+				
 					<li><a href="search/?type=post">Search Forums</a></li>
 				
 									
@@ -3789,6 +4098,7 @@ ga('set', 'dimension5', dimensionValue);
 
 	<fieldset class="breadcrumb">
 		<a href="misc/quick-navigation-menu" class="OverlayTrigger jumpMenuTrigger" data-cacheoverlay="true" title="Open quick navigation"><!--Jump to...--></a>
+
 			
 		<div class="boardTitle"><strong>LawnSite</strong></div>
 		
@@ -3868,7 +4178,7 @@ ga('set', 'dimension5', dimensionValue);
 					
 						<li><a href="help/privacy-policy/" class="secondaryContent">Privacy Policy</a></li>
 					
-						<li><a href="help/about-lawnsite/" class="primaryContent">About Lawnsite.com</a></li>
+						<li><a href="help/about-lawnsite/" class="primaryContent">About LawnSite</a></li>
 					
 				</ul>
 			</li>
@@ -3882,137 +4192,181 @@ ga('set', 'dimension5', dimensionValue);
 
 	
 <div class="baseHtml">
-<b>PRIVACY POLICY
-</b>
+<p><strong>Privacy Policy</strong></p>
 
-<br>
-Grand View Media (GVM) has created this Privacy Policy (“Privacy Policy”) to demonstrate its commitment to fully disclosing the information collection and use practices applicable to this Internet Web site (the “Web site”).
+<p><strong>Introduction</strong></p>
 
-<br>
-<b>By using or accessing the Web site, you signify your acceptance of the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Web site, products and/or services and exit the Web site immediately.
-</b>
+<p>Grand View Media respects your privacy and are committed to protecting it through our compliance with this policy.</p>
 
-<br>
-1. <u>Types of Information and Method of Collection</u>
+<p>Included in this policy are the types of information we may collect from you or that you may provide to us upon visiting our website www.lawnsite.com and our practices for collecting, using, maintaining, protecting, and disclosing that information.</p>
 
-<br>
-<b>General Information Collection </b>
+<p>This policy applies to information we collect:</p>
 
 <ul>
-<li>By Browsing. As you browse the Web site the Internet protocol (IP) address of your computer, “cookies” (described below) and other standard tracking data GVM uses to evaluate Web site traffic and usage patterns are collected. Such information is aggregated with tracking data from all Web site visitors. If you only browse this Web site, but do not become a member you are not required to identify yourself or provide any personally identifiable information. For purposes of this Privacy Policy, the term “Personally Identifiable Information” refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains.</li>
+	<li>On this website</li>
+	<li>In email, text, and other electronic messages exchanged between you and this website</li>
+	<li>Through mobile and desktop applications you download from this website, which provided dedicated non-browser-based interaction between you and this website</li>
+	<li>When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy</li>
+	<li>Any other sources</li>
 </ul>
-<br>
- 
+
+<p>It does not apply to information collected by:</p>
 
 <ul>
-<li>By Web Site Requirement. To register as a member of this Web site you are required to provide the following Personally Identifiable Information: a user name that you create and a personal, active e-mail address.</li>
+	<li>Us offline or through any other means, including on any other website owned by the Company or any third party; or</li>
+	<li>Any third party, including through any application or content (including advertising) that may link to or be accessible from the website</li>
 </ul>
-<br>
- 
+
+<p>&nbsp;</p>
+
+<p>Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. By accessing or using our website, you agree to this privacy policy and our policies and practices. Periodic changes to this policy may be made to the website (see <em>Changes to our Privacy Policy)</em>. Please check our policy for periodic updates as continued use of the website is deemed to be an acceptance of changes.</p>
+
+<p><strong>Children Under the Age of 13</strong></p>
+
+<p>Our website is not intended for use by children under 13 years of age. We do not knowingly collect or accept personal information provided from children under 13. If you are under 13, do not use or provide information to this website. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, that information will be deleted. If you believe we might have any information from or about a child under 13, please contact us at (888) 431-2877.</p>
+
+<p><strong>Information We Collect About You and How We Collect It</strong></p>
+
+<p>We collect several types of information from and about users of our website, including:</p>
 
 <ul>
-<li>By User’s Voluntary Submission. When using the chat room, forum and message board features on the Web site, you may choose to provide other Personally Identifiable Information, such as your residential or business contact information. If you post Personally Identifiable Information anywhere on the Web site, it will be available to third parties and you may receive unsolicited messages from those parties. GVM has no obligation to ensure the security or confidentiality of any information you choose to make available in any chat room, forum or message board on the Web site. Also, GVM cannot ensure that parties who have access to such information will respect your privacy. Please exercise caution when deciding to disclose Personally Identifiable Information. </li>
+	<li>Personally identifiable information, such as name, phone number, postal and email address, or any other information the website collects that is defined as personal or personally identifiable under an applicable law.</li>
+	<li>Information about you but does not identify you as an individual</li>
+	<li>Information about your internet connection, equipment used&nbsp; for site access, and usage</li>
 </ul>
-<br>
- 
 
-<br>
-The Web site uses a feature of your browser to set “cookies” on your computer. Cookies are small packets of information sent by the Web site through your browser to your computer. GVM uses cookies to save your password so you do not have to re-enter it each time you visit the Web site. These cookies can be deleted or modified through your browser Internet settings. If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in your browser’s settings. You may modify your browser preferences to provide you with choices relating to cookies. You have the choice to accept all cookies, to be notified when a cookie is set or to reject all cookies. If you choose to reject cookies you may be unable to use those GVM services that require registration in order to participate, will have to sign in each time you visit the Web site, or may not be able to utilize fully all of the Web site’s features and information.
-<br>
-<b>Information on Children
-</b>
+<p>&nbsp;</p>
 
-<br>
-GVM does not knowingly collect information from children under the age of 13. On-line registration and Web site usage is intended for people who are professionally engaged in the businesses GVM serves. If GVM learns that it has Personally Identifiable Information on a child under the age of 13, GVM will delete that information from its systems. GVM encourages parents and guardians to monitor children’s online usage. Parental control protections, such as computer hardware, software or filtering services, are commercially available to limit the access to material that is harmful to minors.
-<br>
-2. <u>How Information Collected is Used</u>
-
-<br>
-The information collected by and through the Web site is owned solely by GVM. The information collected by and through this Web site will by used solely by GVM, its divisions, subsidiaries, and affiliates, or other entities that are involved in the operation of this Web site for GVM’s internal purposes.
-
-<br>
-GVM may use the information collected and provided, individually or in an aggregate form, as follows:
+<p>This information may be collected:</p>
 
 <ul>
-<li>to contact you about the Web site. For example, GVM may contact you to send a welcome e-mail to verify your username and password, to inform you about User benefits, to inform you if another user has responded to a post you have made on the Web site, to inform you of changes to the Terms of Use Agreement of the Web site, to inform you that you have violated the Terms of Use Agreement, to inform you that the Web site is suspended for maintenance, or to inform you of a change in ownership or control of the information collected by and through the Web site; </li>
-<li>to evaluate products and services GVM or third parties could offer to you; </li>
-<li>to monitor or improve use of the Web Site;</li>
-<li>to customize the advertising and content you see on the Web site; </li>
-<li>to monitor compliance with GVM’s Terms of Use Agreement of the Web site; </li>
-<li>to provide special offers to you from GVM and/or its affiliates and subsidiaries and other third parties; and </li>
-<li>to send you promotional material on behalf of GVM and/or its affiliates and subsidiaries and other third parties. </li>
+	<li>Directly from you when you provide it to us, and may include:
+	<ul style="list-style-type:circle">
+		<li>Information provided by filling out website forms, such as registration, service subscription, posts, request for services, contest entry, and others</li>
+		<li>Records and copies of correspondence or methods of contact, such as survey responses, transactions, search queries, and others</li>
+		<li>User contributions that are displayed or posted on public areas of the website or transmitted to other website users</li>
+	</ul>
+	</li>
 </ul>
-<br>
- 
 
-<br>
- 
+<p>&nbsp;</p>
 
-<br>
-3. <u>With Whom Information is Shared</u>
+<ul>
+	<li>Automatically as you use our site, and may include:
+	<ul style="list-style-type:circle">
+		<li>Data relating to traffic, location, and other resources that you use to access and use our website</li>
+		<li>Information about your computer and internet connection, including IP address, operating system, and browser type</li>
+		<li>Behavioral information about your online activities over time and across third-party websites or other online services</li>
+	</ul>
+	</li>
+</ul>
 
-<br>
-At times, we may share the information collected on this Web site with third parties for various purposes. While GVM will seek to require those third parties to follow appropriate privacy policies and security measures, GVM does not bear responsibility for any actions or policies of third parties. The following outlines the ways in which your information may be shared with others:
+<p>Technologies used for automatic data collection and advertising may include browser cookies, flash cookies, or web beacons. For more information about managing your privacy and security settings, see <em>Choices About How We Use and Disclose Your Information</em>. We do not collect personal information automatically, but we may tie this information to personal information about you that we collect from other sources or information that you provide to us.</p>
 
-<br>
-<b>Promotional Offers: </b>Our third party partners and sponsors may use your Web site user name to contact you through the Web site with special offers or promotional material. We will not provide third party partners or sponsors with any of the Personally Identifiable Information you provide to GVM when you register as a member on the Web site. Any Personally Identifiable Information that you post voluntarily in a chat room, forum, or message board on the Web site may be accessed by third parties. We are not responsible for the privacy practices of third parties, and you should review the privacy practices of such third parties prior to providing any of your Personally Identifiable Information to them. If you do not want to receive special offers or promotional materials from GVM or third parties, you may either “opt-out” during the registration process, change your user preferences later on, or contact GVM by using the contact information provided in Section 8, below.
-<br>
-<b>Aggregate Information: </b>We may share aggregate information, such as general demographics and Web Site usage statistics to third party advertisers, sponsors or other organizations. The general demographic information may include how many professionals are registered as members on the Web site. We do not share specific demographic information, such as users’ ages or addresses. When general demographic information is shared with third parties, we do not provide them with the Personally Identifiable Information that you provide to GVM when you register as a member on the Web site.
+<ul>
+	<li>From third parties, including our business partners and Google</li>
+</ul>
 
-<br>
-<b>GVM Subsidiaries and Affiliates: </b>We may share your Personally Identifiable Information with employees, agents, parents, subsidiaries, and affiliates of GVM.
+<p>&nbsp;</p>
 
-<br>
-<b>Business Transfers: </b>The Web site, GVM and/or a subsidiary or division of GVM may be sold along with its assets, or other transactions may occur in which your Personally Identifiable Information is one of the business assets transferred. In such a case, your Personally Identifiable Information, which we have gathered, may be one of the business assets we transfer.
+<p><strong>Third-Party Use of Cookies and Other Tracking Technologies</strong></p>
 
-<br>
-<b>Legal Process: </b>GVM reserves the right to disclose the information collected by and through this Web site, including your Personally Identifiable Information, as required by law and when GVM believes that such disclosure is necessary to protect GVM’s rights and/or comply with a judicial proceeding, subpoena, court order or other legal process served on GVM. The disclosure of this information may be without notice to you.
+<p>Some content or applications, including advertisements, on our website are served by third parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties, such as Google and others, may use cookies and other tracking technologies to collect information about you when you use our website. This information may be used to provide you with interest-based or behavioral advertising or other targeted content.</p>
 
-<br>
-4. <u>Security and Encryption</u>
+<p>We do not control third party tracking or how they use collected data. If you have any questions about an advertisement or other targeted content, contact the responsible provider directly. For information about opting out of receiving targeted advertising from many third parties, see <em>Choices About How We Use and Disclose Your Information</em> or visit the <a href="http://www.networkadvertising.org/choices/#completed">Network Advertising Initiative opt-out page</a>. For information about opting out of Google’s use of cookies, visit Google’s <a href="https://support.google.com/ads/answer/2662922?hl=en">Ad Settings</a>.</p>
 
-<br>
-While there is no such thing as “perfect security” on the Internet, GVM takes commercially reasonable precautions to protect the Personally Identifiable Information that you provide to GVM when you register as a member on the Web site. We use SSL encryption technology on the Web site and a secure server to encrypt information transmitted between your browsers and our server. As a result, Personally Identifiable Information that you submit during the registration process is transmitted using commercially reasonable security over the Internet.
+<p><strong>How We Use Your Information</strong></p>
 
-<br>
-Our security policies are reviewed periodically and revised as required. The servers for the Web site that contain Personally Identifiable Information are stored in a physically secure and climate controlled off-site facility. We protect against data loss by backing-up data, performing, consistency checks and restricting access to information on our servers. It is important to remember that whatever you transmit or disclose online can be collected and used by others or unlawfully intercepted by third parties. No data transmission over the Internet can be 100% secure.
+<p>We use information that we collect about you or you provide to us, including personal information, to:</p>
 
-<br>
-5. <u>Third Party Links, Web Sites, and Cookies</u>
+<ul>
+	<li>Present our website and its contents to you and notify you of any changes</li>
+	<li>Provide you with requested information, products, or services</li>
+	<li>Provide you with notices related to your account or transactions</li>
+	<li>Carry out obligations and enforce our rights arising from any contracts entered into between you and us, including billing and collection</li>
+	<li>Provide interactive features for your participation</li>
+	<li>Fulfill any and all other purposes with your consent</li>
+</ul>
 
-<br>
-Our Web site contains external links to third party Web sites. We have no control over, and are not responsible for, the content of, or information gathered by these other Web sites. Any Personally Identifiable Information collected by such third parties is subject to such third parties’ privacy policy. Companies that advertise on our Web site do not have access to Personally Identifiable Information that you do not post in chat rooms, forums, or message boards on the Web site or to our cookies on the Web site. Those advertisers may themselves set and access their own cookies on your computer if you choose to have cookies enabled in your browser and you access their Web sites. Third parties’ use of cookies is subject to their own privacy policies.
+<p>We may also use this information to contact you about our own and third party goods or services that may be of interest to you. If you do not want us to use your information in this way, please check the relevant box located on the form on which we collect your data or adjust your user account preferences. For more information, see <em>Choices About How We Use and Disclose Your Information</em>.</p>
 
-<br>
-6. <u>Notification of Changes</u>
+<p>We may also use this information to display advertisements to our advertisers’ target audiences. While we do not disclose your personal information for these purposes without your consent, clicking on or otherwise interacting with an advertisement may indicate to the advertiser that you meet its target criteria.</p>
 
-<br>
-GVM reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy simply by posting such change, update or modification on the Web site. Any such change, update or modification will be effective immediately upon posting on the Web site. If at any point GVM decides to use Personally Identifiable Information in a manner different from that stated at the time it was collected, we may notify you by way of an e-mail or some other means. Your continued use of the Web site shall constitute your acceptance of such revised Privacy Policy. Since this Privacy Policy may change from time to time, you should review it periodically before you provide any additional Personally Identifiable Information anywhere on the Web site.
+<p><strong>Disclosure of Your Information</strong></p>
 
-<br>
-7. <u>Corrections and Updates to Personal Profile</u>
+<p>We may disclose aggregated information about users and information that does not identify any individual, without restriction.</p>
 
-<br>
-You have the option of reviewing, correcting, updating, modifying, and deleting your Personally Identifiable Information or member profile, at any time and as often as desired by personally changing your profile information or by contacting GVM by telephone, facsimile, e-mail, or mail by using the contact information in Section 8, below. However, you must always have an active, personal e-mail address registered on the Web site.
+<p>We may disclose personal information collected as described in this privacy policy:</p>
 
-<br>
-To the extent that such information is stored in other databases, we cannot always ensure that such corrections or deletions will reach the other databases. We will use all reasonable efforts to ensure that your information is removed from or corrected in our records.
+<ul>
+	<li>To our subsidiaries and affiliates</li>
+	<li>To contractors, service providers, and other third parties used to support our business</li>
+	<li>To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets</li>
+	<li>To third parties contractually bound to obligations of confidentiality and use, to market their products or services if you have consented to/not opted out of these disclosures. (For more information, see <em>Choices About How We Use and Disclose Your Information</em></li>
+	<li>To fulfill the purpose for which you provide it, such as an “email a friend” feature</li>
+	<li>For any other purpose disclosed by us when you provide information</li>
+	<li>With your consent</li>
+</ul>
 
-<br>
-8. <u>GVM Contact Information</u>
-<br>
-Grand View Media<br>
-<br>
-Telephone: 802-748-8908
-<br>
-Facsimile: (802) 748-1866
-<br>
-Email: privacy@grandviewmedia.com
-<br>
- 
+<p>In addition, we may disclose your personal information:</p>
 
-<br>
-<i>Last Revised 12/15</i>
+<ul>
+	<li>To comply with any court order, law, or legal process, including response to government or regulatory requests</li>
+	<li>To enforce or apply other agreements</li>
+	<li>If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Grand View Media, our customers, or others</li>
+</ul>
+
+<p><strong>Choices About How We Use and Disclose Your Information</strong></p>
+
+<p>We strive to provide you with choices regarding the personal information you provide us. To exercise control over your information, we have provided you with the following mechanisms:</p>
+
+<ul>
+	<li><strong>Tracking Technologies and Advertising. </strong>You can adjust your browser settings to manage cookies. To manage Flash cookie settings, visit the Flash player settings page on <a href="http://help.adobe.com/en_US/FlashPlayer/LSM/WS6aa5ec234ff3f285139dc56112e3786b68c-7fff.html#WS6aa5ec234ff3f285139dc56112e3786b68c-7ffe">Adobe’s website</a></li>
+	<li><strong>Disclosure of Your Information for Third-Party Advertising. </strong>You can opt-out of information sharing by adjusting your account preferences or emailing us requesting that we not share personal information for promotional purposes</li>
+	<li><strong>Promotional Offers from Grand View Media.</strong> If you do not want to receive promotions from us or third parties, you can opt out by adjusting your account preferences or emailing us requesting that we not contact you.</li>
+	<li><strong>Targeted Advertising. </strong>If you do not want us to deliver advertisements according to our advertisers’ target-audience preferences, you can opt-out by adjusting your account preferences or email us. You can also adjust your Google <a href="https://support.google.com/ads/answer/2662922?hl=en">Ads Settings.</a></li>
+</ul>
+
+<p>We do not control third parties’ collection or use of your information to serve interest-based advertising. However, these parties may provide opt-out options, such as the <a href="http://www.networkadvertising.org/choices/#completed">Network Advertising Initiative opt-out page</a>.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Accessing and Correcting Your Information</strong></p>
+
+<p>To review and change your personal information, you can visit your account profile page on our website or email us your request. We cannot delete your personal information without deleting your user account. We may not accommodate your request if we believe the change would violate any law or legal requirement or cause the information to be incorrect.</p>
+
+<p>If you delete your user contributions to the website, copies may remain viewable in cached or archived pages, or copied or stored by other users.</p>
+
+<p><strong>California Privacy Rights</strong></p>
+
+<p>California Civil Code Section § 1798.83 allows California residents to request certain information regarding disclosure of information to third parties for direct marketing purposes. To do so, please write us at Grand View Media, 200 Croft Street, Suite 1, Birmingham, AL 35242</p>
+
+<p><strong>Data Security</strong></p>
+
+<p>To secure your personal information from accidental loss or unauthorized access, use, alteration, or disclosure, all information you provide to us is stored on secure servers behind firewalls. Any payment transactions will be encrypted using SSL technology.</p>
+
+<p>As a user, you are responsible for the use and protection of your password and any information you share in public areas of the website, such as message boards or comment boxes. Any transmission of personal information to our website is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the website.</p>
+
+<p><strong>Changes to Our Privacy Policy </strong></p>
+
+<p>We post any and all changes to this privacy policy on this page with the date of last revision at the top of the page. If any material changes are made to how we treat users’ personal information, we will notify you through a notice on the website home page. You are responsible for ensuring that we have an accurate and deliverable email address for you, and for periodically visiting our website and this privacy policy to check for any changes.</p>
+
+<p><strong>Contact Information</strong></p>
+
+<p>To ask questions or comment about this privacy policy or our privacy practices, contact us at:</p>
+
+<p>Grand View Outdoors<br>
+Attn: Customer Service Department<br>
+200 Croft Street, Suite 1<br>
+Birmingham, AL 35242</p>
+
+<p>or via our toll-free number:</p>
+
+<p>888-431-2877</p>
+
+<p>&nbsp;</p>
+
+<p>Last modified: 07/26/2016</p>
 </div></div>
 </div>
 						
@@ -4186,20 +4540,7 @@ Email: privacy@grandviewmedia.com
 		</div>
 	</div>	
 </div>
-<div class="ad300x250 desktop adSense">
-<div style="width: 300px; height: 250px;"></div>
-	<!-- LS-RightRail_4Pos_ROS 
-	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	
-	<ins class="adsbygoogle"
-	     style="display:inline-block;width:300px;height:250px"
-	     data-ad-client="ca-pub-2623780568719485"
-	     data-ad-slot="3964348056"></ins>
-	<script>
-	(adsbygoogle = window.adsbygoogle || []).push({});
-	</script>
-	-->
-</div>
+
 						
 					</div>
 				</aside>
@@ -4216,6 +4557,7 @@ Email: privacy@grandviewmedia.com
 
 	<fieldset class="breadcrumb">
 		<a href="misc/quick-navigation-menu" class="OverlayTrigger jumpMenuTrigger" data-cacheoverlay="true" title="Open quick navigation"><!--Jump to...--></a>
+
 			
 		<div class="boardTitle"><strong>LawnSite</strong></div>
 		
@@ -4293,6 +4635,7 @@ Email: privacy@grandviewmedia.com
 				
 				<ul class="subMenu">
 					<li><a href="find-new/posts" rel="nofollow">Recent Posts</a></li>
+				
 					<li><a href="search/?type=post">Search Forums</a></li>
 				
 									
@@ -4411,6 +4754,12 @@ Email: privacy@grandviewmedia.com
 			</div>
 			
 			<div class="footerBottomDiv cf">
+				<ul class="footerLinks">
+					
+						<li><a href="forums/-/index.rss" rel="alternate" class="globalFeed" target="_blank" title="RSS feed for LawnSite">RSS</a></li>
+					
+				</ul>
+			
 				<div class="footerColumn">
 					<div>
 						<strong>Lawnsite.com</strong>
@@ -4495,6 +4844,8 @@ Email: privacy@grandviewmedia.com
 	</div>
 </div>
 
+
+
 <script>
 	(function() {
 	var d=document,h=d.getElementsByTagName('head')[0],s=d.createElement('script'),sc = 'https:' == document.location.protocol ? 'https://' : 'http://';
@@ -4536,9 +4887,9 @@ jQuery.extend(true, XenForo,
 	visitor: { user_id: 0 },
 	serverTimeInfo:
 	{
-		now: 1465589805,
-		today: 1465531200,
-		todayDow: 5
+		now: 1480399720,
+		today: 1480395600,
+		todayDow: 2
 	},
 	_lightBoxUniversal: "0",
 	_enableOverlays: "1",
@@ -4622,12 +4973,14 @@ XenForo.Facebook.forceInit = false;
 		
 			<li><a href="/">Home</a></li>
 			<li><a href="find-new/posts" rel="nofollow">Recent Posts</a></li>
+		
 			<li><span>Forums</span>
 				<ul>
 					<li><a href="find-new/posts" rel="nofollow">Recent Posts</a></li>
+				
 					<li><a href="search/?type=post">Search Forums</a></li>
 				
-					
+					<li><a href="forums/-/index.rss" rel="alternate" target="_blank" title="RSS feed for LawnSite">RSS Feed For LawnSite</a></li>
 				</ul>
 				
 			</li>
