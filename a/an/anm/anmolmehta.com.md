@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the anmolmehta.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610032613id_/http%3A//anmolmehta.com/blog/privacy-policy-for-anmolmehtacom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anmolmehta.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130003023id_/http%3A//anmolmehta.com/privacy-policy-for-anmolmehtacom) for the most accurate reproduction.*
 
-# Privacy Policy for AnmolMehta.com | Free Online Kundalini Yoga Poses and Exercises
+# Privacy Policy for AnmolMehta.com
 
-## [Privacy Policy for AnmolMehta.com](http://anmolmehta.com/blog/privacy-policy-for-anmolmehtacom/)
-
-Posted on July 12th, 2010 in by Anmol Mehta
+You are here: [Home](http://anmolmehta.com/ "Mastery of Meditation and Yoga") / Privacy Policy for AnmolMehta.com
 
 The privacy of our visitors to AnmolMehta.com is important to us. 
 
 At AnmolMehta.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit AnmolMehta.com, and how we safeguard your information.  We never sell your personal information to third parties.
 
- **Log Files:**
+**Log Files:**
 
 As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
 
- **Cookies and Web Beacons:**
+**Cookies and Web Beacons:**
 
 We do use cookies to store information, such as your personal preferences when you visit our site.  This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
@@ -22,6 +20,4 @@ We also use third party advertisements on AnmolMehta.com to support our site.  
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-  * [Leave a comment...](http://anmolmehta.com/blog/privacy-policy-for-anmolmehtacom/#comments) [(0)](http://anmolmehta.com/blog/privacy-policy-for-anmolmehtacom/#respond "Comment on Privacy Policy for AnmolMehta.com")
-
-
+Scroll to top
