@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreaker.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407231725id_/https%3A//www.spreaker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreaker.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129134143id_/https%3A//www.spreaker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
