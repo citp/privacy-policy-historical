@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412005820id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129155850id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
 
 # Low End Mac Privacy Policy
 
@@ -35,8 +35,8 @@ Low End Mac is an independent publication and has not been authorized, sponsored
   [PRIVACY](https://web.archive.org/privacy.html): We don't collect personal information unless you explicitly provide it, and we don't share the information we have with others. For more details, see our [Terms of Use.](https://web.archive.org/terms.html)
 
 | 
-* Mac of the Day: [Umax SuperMac C500](https://web.archive.org/supermacs/c500.shtml), introduced 1996.11. The smallest, least costly Mac clone had two PCI slots.
-* List of the Day: [Mac UK](http://lowendmac.com/lists/mac-uk.shtml) is for Mac users in the United Kingdom.  
+* Mac of the Day: [Power Mac G3](https://web.archive.org/1997/beige-power-mac-g3-1997/), introduced 1997.11.15. The first G3 Power Mac and the last Mac in a beige enclosure.
+* List of the Day: [Mac mini Group](http://lowendmac.com/lists/macmini.html) is for anyone using a G4 or Intel Mac mini.  
 
  **Channels**  
  [Power Macs](https://web.archive.org/2005/power-mac-index/)  
