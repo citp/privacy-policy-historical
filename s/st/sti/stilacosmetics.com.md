@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stilacosmetics.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410103300id_/https%3A//www.stilacosmetics.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stilacosmetics.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129101300id_/https%3A//www.stilacosmetics.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stila
 
