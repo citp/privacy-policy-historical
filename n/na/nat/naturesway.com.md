@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturesway.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406181928id_/http%3A//www.naturesway.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturesway.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129213411id_/http%3A//www.naturesway.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nature's Way®.
 
