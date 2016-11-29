@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the singaporegp.sg privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613204420id_/http%3A//www.singaporegp.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singaporegp.sg privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129184317id_/http%3A//singaporegp.sg/privacy-policy) for the most accurate reproduction.*
 
-# Singapore F1 - 2016 Formula 1 Night Race - Privacy Policy - Singapore Grand Prix
+# Singapore F1 - Formula 1 Night Race - Singapore Grand Prix
 
 [](http://www.singaporegp.sg/)
 
