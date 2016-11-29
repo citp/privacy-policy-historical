@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the manonthelam.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608015712id_/http%3A//manonthelam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manonthelam.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129150105id_/http%3A//manonthelam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Man On The Lam | Travel & Lifestyle Blog
 
-[](http://i2.wp.com/manonthelam.com/wp-content/uploads/2012/11/Man-On-The-Lam-Privacy-Policy.jpg)
+[](https://i2.wp.com/manonthelam.com/wp-content/uploads/2012/11/Man-On-The-Lam-Privacy-Policy.jpg)
 
 ## Your Privacy
 
@@ -31,5 +31,3 @@ The contents of this privacy policy statement may be altered at any time, at our
 If you have any questions regarding the privacy policy of [Man On The Lam Travel & Lifestyle Blog](http://manonthelam.com/) then you may contact the publisher  at **[contact@manonthelam.com](mailto:contact@manonthelam.com)** or via the **[Man On The Lam Contact Page](http://manonthelam.com/contact)**.
 
 _*[image of boy](http://www.shutterstock.com/pic-95079325/stock-photo-teenage-boy-peeping-through-keyhole.html?src=JE_MU8TKkRN2Y5tFRNNyMg-1-19) via Shutterstock_
-
-[](https://www.pinterest.com/pin/create/button/)
