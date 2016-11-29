@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hotshame.com privacy policy that was archived on 2016-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160609045258id_/http%3A//www.hotshame.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotshame.com privacy policy that was archived on 2016-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161129034707id_/http%3A//www.hotshame.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -343,6 +343,10 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 	}
 })();
 */
+var info = { width : window.screen.width, height : window.screen.height, ua : navigator.userAgent, is_touch: 'ontouchstart' in window };
+xmlhttp = new XMLHttpRequest();
+xmlhttp.open('GET', '/devajax.php?info='+window.btoa(JSON.stringify(info)), true);
+xmlhttp.send(null);
 </script>
 <meta name="check" content="c7503be2f83f870c23031e86ae453ccf">
 
