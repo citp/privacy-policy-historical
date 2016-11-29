@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparktrust.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620204854id_/http%3A//www.sparktrust.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparktrust.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129193347id_/https%3A//www.sparktrust.com/privacy) for the most accurate reproduction.*
 
 # Sparktrust
 
