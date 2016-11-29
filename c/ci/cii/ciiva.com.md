@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ciiva.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607225159id_/https%3A//ciiva.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciiva.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129071900id_/https%3A//ciiva.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy And Policy
 
