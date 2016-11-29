@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenhelix.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606172650id_/http%3A//goldenhelix.com/company/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenhelix.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129214029id_/http%3A//goldenhelix.com/company/privacy_statement.html) for the most accurate reproduction.*
 
 # Golden Helix
 
@@ -50,7 +50,7 @@ We do not sell, rent or lease your personal information to others. Golden Helix 
 
 #### Accessing and Correcting Your Information
 
-To gain access to personal information about you collected online, and to keep it accurate, complete and current, or to request deletion, you may [contact us](https://web.archive.org/web/20160606172650id_/http%3A//goldenhelix.com/company/contact.html) using any method convenient to you. Where offered, you also may update personal information about you online or inside the software by modifying information that you previously have entered into forms or data fields on our websites. 
+To gain access to personal information about you collected online, and to keep it accurate, complete and current, or to request deletion, you may [contact us](https://web.archive.org/web/20161129214029id_/http%3A//goldenhelix.com/company/contact.html) using any method convenient to you. Where offered, you also may update personal information about you online or inside the software by modifying information that you previously have entered into forms or data fields on our websites. 
 
 In some cases, where we are required to retain information by law or regulation, or to continue to manage a service you have requested, or to ensure that we honor your preferences, or for other necessary business purposes, we may not be able to delete certain personal information about you. Where permitted by law, your ability to access and correct personal information may be limited where access and correction would: inhibit Golden Helix's ability to comply with a legal or ethical obligation, inhibit Golden Helix's ability to investigate, make or defend legal claims, result in disclosure of personal information about a third party, result in breach of a contract or disclosure of trade secrets or other proprietary business information belonging to Golden Helix or a third party.
 
@@ -89,4 +89,4 @@ Parts of the website may be restricted to Golden Helix, Inc. personnel only. You
 
 ### Contact Us
 
-Golden Helix welcomes your suggestions that we may use to make our website easier to use or make the contents more relevant to our customers. If you have any questions or comments about the information presented, please [contact us](https://web.archive.org/web/20160606172650id_/http%3A//goldenhelix.com/company/contact.html).
+Golden Helix welcomes your suggestions that we may use to make our website easier to use or make the contents more relevant to our customers. If you have any questions or comments about the information presented, please [contact us](https://web.archive.org/web/20161129214029id_/http%3A//goldenhelix.com/company/contact.html).
