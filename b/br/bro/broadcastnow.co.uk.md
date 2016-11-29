@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadcastnow.co.uk privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612102315id_/http%3A//www.broadcastnow.co.uk/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadcastnow.co.uk privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129121944id_/http%3A//www.broadcastnow.co.uk/privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # 
 
