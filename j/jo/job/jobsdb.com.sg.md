@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsdb.com.sg privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602161630id_/http%3A//sg.jobsdb.com/en-sg/pages/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsdb.com.sg privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129082301id_/http%3A//sg.jobsdb.com/en-sg/pages/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | jobsDB Singapore
 
@@ -6,7 +6,7 @@ jobsDB Singapore respects the privacy of the personal information and data of it
 
 Users are strongly recommended to read this privacy statement ( **“Privacy Statement”** ) carefully to have an understanding of jobsDB Singapore’s policy and practices with regard to the treatment of personal information and data provided by Users on the Site. This Privacy Statement is applicable to both registered and unregistered Users, and the terms herein may be updated, revised, varied and/or amended from time to time as jobsDB Singapore may deem necessary and/or appropriate.
 
-By registering for or using the services/Site, or by clicking the ‘Register’ button, User:
+By registering for or using the services/Site, or by clicking the ‘Sign up’ button, User:
 
   1. consent to jobsDB Singapore and/or jobsDB Singapore’s group companies collecting, using, disclosing and/or processing User’s personal data for the purposes as described below;
   2. consent to jobsDB Singapore and/or jobsDB Singapore’s group companies disclosing Users’ personal data to jobsDB Singapore’s and/or jobsDB Singapore’s group companies’ third party service providers or agents (whether within or outside Singapore) for the purposes as described below.
@@ -27,10 +27,10 @@ In this Privacy Statement, the following terms shall have the respective meaning
     means Jobs DB Singapore Pte Ltd.
 “Job Seeker(s)”
     means users seeking employment.
-“Register User(s)”
-    means Users who register on the Site to obtain services offered by jobsDB. Unless the context provides otherwise, references in this Privacy Statement to “users” or “you” include references to generic users and Registered Users.
+“Sign up User(s)”
+    means Users who sign up on the Site to obtain services offered by jobsDB. Unless the context provides otherwise, references in this Privacy Statement to “users” or “you” include references to generic users and Registered Users.
 “Site”
-    means any website, job portal or mobile application owned and operated by jobsDB and its affiliates/subsidiaries.
+    means any website, job portal or mobile application owned and operated by jobsDB and its affiliates/subsidiaries or its service providers.
 
 ## Purpose of Collection and Use of Personal Data
 
@@ -62,7 +62,7 @@ If jobsDB Singapore requires the use of your personal data for a purpose other t
 
 ## Collection of Personal Data
 
-jobsDB Singapore may collect personal information and/or data about a User, such as his/her name, log-in ID and password, address, email address, phone number, age, gender, date of birth, country of residence, nationality, education level and work experience that is/are not otherwise publicly available. Occasionally, jobsDB Singapore may also collect additional personal information and/or data from a User in connection with contests, surveys, or special offers.
+jobsDB Singapore may collect personal information and/or data about a User, such as his/her name, login ID and password, address, email address, phone number, age, gender, date of birth, country of residence, nationality, education level and work experience that is/are not otherwise publicly available. Occasionally, jobsDB Singapore may also collect additional personal information and/or data from a User in connection with contests, surveys, or special offers.
 
 Only duly authorized staff of jobsDB Singapore will be permitted to access Users’ personal information and data, and jobsDB Singapore shall not release such personal information and data to any third parties save and except in the circumstances listed under the section headed “ **Disclosure or Transfer of Data** ” below.
 
@@ -138,7 +138,7 @@ In order to provide advertiser with the most relevant information about you (and
 
 jobsDB Singapore and its affiliates may from time to time send to members and Users of the Site newsletters, information on job openings, and marketing materials based on the personal information and data that they have provided to jobsDB Singapore. jobsDB Singapore may use Users’ data in direct marketing and jobsDB Singapore requires the Users’ consent (which includes an indication of no objection) for that purpose. In this connection, please note that:
 
-  1. the name, log-in ID and password, contact details, age, gender, date of birth, country of residence, nationality, education level and work experience of Users held by jobsDB Singapore from time to time may be used by jobsDB Singapore and/or its authorized personnel or staff in direct marketing;
+  1. the name, login ID and password, contact details, age, gender, date of birth, country of residence, nationality, education level and work experience of Users held by jobsDB Singapore from time to time may be used by jobsDB Singapore and/or its authorized personnel or staff in direct marketing;
   2. the following classes of services, products and subjects may be marketed:
     1. travelling related products and services;
     2. job-hunting and agencies services offered other than by jobsDB Singapore;
