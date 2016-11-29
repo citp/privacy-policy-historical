@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satyarthi.org privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329224918id_/http%3A//satyarthi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satyarthi.org privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129112337id_/http%3A//satyarthi.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Kailash Satyarthi Children's Foundation
 
