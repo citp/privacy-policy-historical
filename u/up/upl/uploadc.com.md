@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uploadc.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323192200id_/http%3A//www.uploadc.ch/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadc.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129204704id_/http%3A//uploadc.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Uploadc - Easy way to share your files
+# Uploadc - Dosya paylaЕџД±mД±nД±n en kolay yolu
 
-This Uploadc Privacy Policy, in conjunction with the [AUP](http://uploadc.ch/use_policy.html), [Terms of Service](http://uploadc.ch/tos.html) and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, governs your use of the Uploadc website and are collectively referred to as the "Agreement". 
+This Uploadc Privacy Policy, in conjunction with the [AUP](http://uploadc.com/use_policy.html), [Terms of Service](http://uploadc.com/tos.html) and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, governs your use of the Uploadc website and are collectively referred to as the "Agreement". 
 
 Uploadc may modify the Agreement which will become effective immediately upon posting on the website. Your continued use of the website and any associated services, the "Services", indicates your acceptance of the Agreement. 
 
