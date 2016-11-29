@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ciiva.com privacy policy that was archived on 2016-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160607225159id_/https%3A//ciiva.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ciiva.com privacy policy that was archived on 2016-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161129071900id_/https%3A//ciiva.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head prefix="og: http://ogp.me/ns#; dcterms: http://purl.org/dc/terms/#">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -80,9 +80,11 @@
         })();
     </script>
     <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
+    <script src="/bundles/StateAbbreviation?v=VrZr8soniapIF5esuuc2R0nSd-gG5Hz_tLHtS7CDDkg1"></script>
+
 </head>
 <body class="page page-buy not-logged-in">
-        <input type="hidden" id="forgeryToken" value="aWxVtAdXAr3-EwGKvYMJCTanqM7zQryrU8z8jnKI0vQP6LY1GbtCs-TEMeYjENWG3fJbWnTmxSqMeEw1rex1UWMw8GMJqB0E5WGcb-_AFFxuvVvuK8iJwyQiFuUfNWXohYkyxw2,IAnDYvenOzQwq6-G3_cO40doz7jrzICqI9LUqebzYa9JQ23h0uf77wdq_-dG4zt2gMLhcVoAhaVYL3cP6tFhmUic7r7FQ_dDgYqu2AP1qwM0JnY5cusBPszezreI4pA-WhTriQ2">
+        <input type="hidden" id="forgeryToken" value="gFcN-WbeZ2Vj9x_ZiGTmo4SuRjUXeCYOJHJ_z7wpSuZe6tqiI1Ttiwtrh-M-8hqSb8GS2svK-373nfAvlMaMjl7bcwNS5yheUMuF4_C-M1ODqPIWgpsZ81DvAmK-ln1TDrqYBg2,c1YAyx3udEn5s-T5_IpP5ib-UM5Zapg_vYLaJNmgAhCIDyAN5zT4Rjdwh2-dU1kinZHgorY9YW7XQPqVidqFqw4OV8QlSeWvVQXDBvM_UsCLeUcGFcDl3w71ZHVzz6nU9L0Phg2">
     
 <script type="text/javascript">
     _atrk_opts = { atrk_acct: "FbrYh1aon800MW", domain: "ciiva.com", dynamic: true };
@@ -670,6 +672,8 @@
 
     function CreateAccountSubmit() {
 
+        var newState = GetStateSabbreviation($('#txtCountry option:selected').text(), $('#txtState option:selected').text())
+
         if ($('#txtFirstName').val() == "") {
             alert("Enter first name");
             return false;
@@ -694,6 +698,8 @@
             alert("Enter Engineering Team");
             return false;
         }
+
+        
 
         var headers = {};
         headers["VerificationToken"] = $('#forgeryToken').val();
@@ -730,7 +736,7 @@
                         Email: $('#txtEmail').val(),
                         FirstName: $('#txtFirstName').val(), LastName: $('#txtLastName').val(),
                         Source: $('#create_source').val(),
-                        Country: $('#txtCountry option:selected').text(), State: $('#txtState option:selected').text(),
+                        Country: $('#txtCountry option:selected').text(), State: newState,
                         City: $('#txtCity').val(), PostalCode: $('#txtPostalCode').val(),
                         Company: $('#txtCompany').val(), Phone: $('#txtPhone').val(),
                         Electrical_Engineers__c: $('#txtEngineeringTeam').val(), LeadSource: "Ciiva Form", LeadSourceDetails__c: "Ciiva Smart", product_Interests_dummy_value: "Ciiva - Smart Parts",
@@ -1463,6 +1469,9 @@
     }
 
     function CreateAccountSubmitData() {
+
+        var newState = GetStateSabbreviation($('#ACCountry option:selected').text(), $('#ACState option:selected').text())
+
         if ($('#ACFirstName').val() == "") {
             alert("Enter first name");
             $('#ACFirstName').focus();
@@ -1529,7 +1538,7 @@
                         Email: $('#ACEmail').val(),
                         FirstName: $('#ACFirstName').val(), LastName: $('#ACLastName').val(),
                         Source: "SignUpButton",
-                        Country: $('#ACCountry option:selected').text(), State: $('#ACState option:selected').text(),
+                        Country: $('#ACCountry option:selected').text(), State: newState,
                         City: $('#ACCity').val(), PostalCode: $('#ACPostalCode').val(),
                         Company: $('#ACCompany').val(), Phone: $('#ACPhone').val(),
                         Electrical_Engineers__c: $('#ACEngineeringTeam').val(), LeadSource: "Ciiva Form", LeadSourceDetails__c: "Ciiva Smart", product_Interests_dummy_value: "Ciiva - Smart Parts",
@@ -1747,7 +1756,22 @@
                     $("#popup-sign-in-account").removeClass("popup-active");
                     $('body').removeClass("popup-processed");
                     window.location.href = rawURL;
-                } else {
+                }
+                else if (data.Status == 'ok')
+                {
+                    submitMktoFormBackground({
+                        Action: "SignUp",
+                        Email: data.Email,
+                        FirstName: data.FirstName,
+                        LastName: data.LastName,
+                        Source: "SignInButton",
+                        Country: data.CountryName,
+                        Phone: data.Phone
+                    });
+                    window.location.href = '/dashboard#popup-all-set';
+                }
+                else
+                {
                     alert(data);
                 }
             },
