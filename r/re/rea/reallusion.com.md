@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reallusion.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627081933id_/http%3A//www.reallusion.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reallusion.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129185620id_/http%3A//www.reallusion.com/privacy.asp) for the most accurate reproduction.*
 
 # Reallusion Privacy Policy - 2d & 3d real-time animation
 
-#### Reallusion.com realizes the importance of protecting the privacy of personal information. Personal information includes all of the information provided by the customers or collected by Reallusion.com. Reallusion.com collects information throughout http://www.Reallusion.com web site, including anonymous site statistics, domain names, and/or IP addresses. 
+#### Reallusion.com realizes the importance of protecting the privacy of personal information. Personal information includes all of the information provided by the customers or collected by Reallusion.com. Reallusion.com collects information throughout https://www.Reallusion.com web site, including anonymous site statistics, domain names, and/or IP addresses. 
 
 On specific pages, Reallusion.com gives users the option of providing names, addresses, phone numbers, fax numbers, email addresses, and other personal information. This information is gathered only with your knowledge and active permission and participation. When you complete and submit a form requesting additional information, you will be asked for personal information in order to process your request. This information will be retained by Reallusion.com. When you send us an email, we will retain the content of the email, your email address, and our response in order to handle any follow-up questions you may have. 
 
