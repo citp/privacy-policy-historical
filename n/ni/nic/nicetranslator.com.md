@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicetranslator.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209035504id_/http%3A//www.nicetranslator.com/blog/about/nice-translator-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicetranslator.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130000245id_/http%3A//nicetranslator.com/blog/about/nice-translator-privacy-policy) for the most accurate reproduction.*
 
 # Nice Translator Blog » Nice Translator Privacy Policy
 
