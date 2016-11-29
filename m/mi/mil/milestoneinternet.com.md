@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milestoneinternet.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608000107id_/http%3A//www.milestoneinternet.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milestoneinternet.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129073752id_/http%3A//www.milestoneinternet.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,5 +21,3 @@ The protection of your personal data is extremely important to us here at Milest
 ## Cookies
 
 This site uses cookies to improve the technical operation of the site. Public areas of our sites can operate without cookies, private (e.g. client management login) cannot. Cookies do not track any personal information. Our business partners, including advertisers, social media platforms and widget operators may utilize 3rd party tracking pixels to enhance performance pertaining to their tools. Information collected by our partners does not include personal information such as your name and telephone number. You may be able to voluntarily further engage with these tools as you view this site. Any engagement activity will be subject to our partner's privacy policy. If you would like to opt out of targeted advertisements based on your user experience, please visit <http://www.networkadvertising.org/managing/opt_out.asp>
-
-© Copyright 2015 Milestone Internet Marketing, Inc. • All rights reserved
