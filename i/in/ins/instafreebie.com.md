@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the instafreebie.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401183122id_/https%3A//www.instafreebie.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instafreebie.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129090725id_/https%3A//www.instafreebie.com/about/privacy) for the most accurate reproduction.*
 
-# instaFreebie
+# instaFreebie - free ebook giveaways
 
 ## Privacy Policy
 
-This Privacy Policy governs the manner in which Libboo, Inc. ("Libboo", "we", "our" or "us") collects, uses, maintains and discloses information collected from users (each, a "User") of the instaFreebie website ("Site") located at http://www.instafreebie.com/, the tools and interactive forums made available through the Site and the instaFreebie content sharing platform, as well as a number of related services (collectively the "Services"). 
+This Privacy Policy governs the manner in which Libboo, Inc. ("Libboo", "we", "our" or "us") collects, uses, maintains and discloses information collected from users (each, a "User") of the instaFreebie website ("Site") located at https://www.instafreebie.com/, the tools and interactive forums made available through the Site and the instaFreebie content sharing platform, as well as a number of related services (collectively the "Services"). 
 
 ### Personal identification information
 
