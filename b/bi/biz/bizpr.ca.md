@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizpr.ca privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602054831id_/http%3A//www.bizpr.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizpr.ca privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129060939id_/http%3A//www.bizpr.ca/privacy) for the most accurate reproduction.*
 
 # Privacy - BizPR.ca | Canadian Free Press Release and Distribution Centre
 
@@ -28,7 +28,7 @@ If you desire to have access to certain restricted sections of the Site, you wil
 
 In addition, we may use your contact information to market to you, and provide you with information about, our products and services, including but not limited to our Service. If you decide at any time that you no longer wish to receive such information or communications from us, please follow the unsubscribe instructions provided in any of the communications.
 
-When you visit the Site, our servers automatically record information that your browser sends whenever you visit a website (“Log Data” ). This Log Data may include information such as your IP address, browser type or the [domain](http://shop.cyfocus.net/) from which you are visiting, the web-pages you visit, the search terms you use, and any advertisements on which you click. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Site and of our Service, and for the Site’s technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Service.
+When you visit the Site, our servers automatically record information that your browser sends whenever you visit a website (“Log Data” ). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web-pages you visit, the search terms you use, and any advertisements on which you click. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Site and of our Service, and for the Site’s technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Service.
 
 ·           A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site’s computers and stored on your computer’s hard drive.
 
