@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the jpteacher.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502083317id_/http%3A//www.jpteacher.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpteacher.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129172643id_/http%3A//jpteacher.com/privacy) for the most accurate reproduction.*
 
-# jpteacher.com - Privacy Statement
+# JPTeacher.com - Privacy Statement
 
 **Our Commitment To Privacy**
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our home page and at every point where personally identifiable information may be requested.
 
-This notice applies to all information collected or submitted on jpteacher.com and all websites in the network.
+This notice applies to all information collected or submitted on JPTeacher.com and all websites in the network.
 
 **What information do we collect?**
 
