@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemvara.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609210709id_/http%3A//www.gemvara.com/Privacy-Policy/pages/v/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemvara.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129173219id_/https%3A//www.gemvara.com/l/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gemvara
 
