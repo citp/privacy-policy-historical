@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpaidtotry.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419005714id_/http%3A//www.getpaidtotry.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpaidtotry.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129171644id_/http%3A//www.getpaidtotry.com/privacy.php) for the most accurate reproduction.*
 
 # Paid Surveys | Paid Online Surveys | Get Paid To Take Surveys | Try Products - GetPaidToTry
 
@@ -6,7 +6,7 @@
 
 ## Privacy Policy of GetPaidToTry.com, an internet property of SBG Media, Inc.
 
-Please note that our Privacy Policy may change from time to time. Changes to the Privacy Policy will be posted on this website and the effective date will be modified to reflect the most recent version. This will be the only notice of any changes made to the Privacy Policy. If you are interested in learning about the other terms of use of our Websites, please [use this link](https://web.archive.org/web/20160419005714id_/http%3A//www.getpaidtotry.com/terms.php).
+Please note that our Privacy Policy may change from time to time. Changes to the Privacy Policy will be posted on this website and the effective date will be modified to reflect the most recent version. This will be the only notice of any changes made to the Privacy Policy. If you are interested in learning about the other terms of use of our Websites, please [use this link](https://web.archive.org/web/20161129171644id_/http%3A//www.getpaidtotry.com/terms.php).
 
 GetPaidToTry.com wants you to know how the data, including, personally identifiable information (PII), it collects or obtains is used. Accordingly, the data collection, acquisition, use and dissemination practices of GetPaidToTry.com are discussed in this policy. This policy applies to data collected (a) on our websites (“Websites”), (b) on third party websites or (c) otherwise as disclosed herein.
 
@@ -67,6 +67,8 @@ We cannot control, and are not responsible, for any third party’s use of cooki
 **California Privacy Rights:**
 
 California Civil Code Section 1798.83 enables California residents who have provided PII to GetPaidToTry.com, and/or to a third party who has then shared such information with GetPaidToTry.com, to request information regarding GetPaidToTry.com’s disclosure of such PII information to third parties. Within thirty (30) days of receipt of such a request, GetPaidToTry.com will provide a list of the PII disclosed to third parties for the past calendar year, along with the names and addresses of such third parties. This request may not be made more than once per calendar year. Should you wish to exercise your rights under this Section, please use the postal address listed below. GetPaidToTry.com reserves the right not to honor and/or respond to such requests that are not sent to the address below.
+
+Notwithstanding any other provision, we partner with third parties that collect information across various channels, including offline and online, for purposes of delivering more relevant advertising to you. Our partners may place or recognize a cookie on your computer or device, and we may share personal information with them if you have submitted such information to us, such as your name, postal address, or email address. Our partners may link the personal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, browser or operating system type and version, and demographic or inferred-interest information. Our partners use this information to recognize you across different channels and platforms over time for advertising, analytics, attribution, and reporting purposes. For example, our partners may deliver an ad to you in your web browser based on a purchase you made in a physical retail store, or they may send a personalized marketing email to you based on the fact that you visited a particular website. To learn more about interest-based advertising in general and to opt out, please visit [http://www.aboutads.info/choices.](http://www.aboutads.info/choices)
 
 ©2013 GetPaidToTry.com - All rights reserved.
 
