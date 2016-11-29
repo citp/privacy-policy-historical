@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikah.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408021954id_/http%3A//nikah.com/muslim-matrimonials/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikah.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129061606id_/http%3A//nikah.com/muslim-matrimonials/privacypolicy.php) for the most accurate reproduction.*
 
 # Muslim Matrimonial - Muslim Matrimonials - Muslim Matrimony - Privacy Policy - nikah.com
 
