@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619025908id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129212613id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Experience-Essential-Oils.com
 
@@ -55,6 +55,8 @@ If you do not agree to Experience-Essential-Oils Privacy Policy as posted here o
 Your use of this site indicates acceptance of this privacy policy. Thank you for reviewing Experience-Essential-Oils Privacy Policy.
 
 [Return from **Privacy Policy** to **Experience Essential Oils**](http://www.experience-essential-oils.com/)
+
+[](http://www.kqzyfj.com/click-7970139-12374673-1458576291000)
 
 _**Ready to Discover All of   YOU in 2016?**_
 
