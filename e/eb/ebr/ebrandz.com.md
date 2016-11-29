@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebrandz.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414080055id_/http%3A//www.ebrandz.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebrandz.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129172800id_/http%3A//www.ebrandz.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # eBrandz™ : Privacy Policy
 
@@ -6,7 +6,7 @@ eBrandz very strongly believes in it's Privacy Policy. We are the sole owners of
 
 **Unsubscribing:**
 
-We have made the unsubscription process very simple. You may opt out of any future contacts from us at any time. You can do the following by requesting to opt out by our [feedback](https://web.archive.org/web/20160414080055id_/http%3A//www.ebrandz.com/feedback.htm) form or via request at the following email address sale@ebrandz.com
+We have made the unsubscription process very simple. You may opt out of any future contacts from us at any time. You can do the following by requesting to opt out by our [feedback](https://web.archive.org/web/20161129172800id_/http%3A//www.ebrandz.com/feedback.htm) form or via request at the following email address sale@ebrandz.com
 
 **Security**
 
