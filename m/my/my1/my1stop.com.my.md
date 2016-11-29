@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my1stop.com.my privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604134101id_/http%3A//www.my1stop.com.my/about/terms/%3Fdoc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my1stop.com.my privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129164036id_/http%3A//www.my1stop.com.my/about/terms/%3Fdoc%3Dprivacy) for the most accurate reproduction.*
 
 # My1STOP.com.my - We Grow Online Businesses (since 2006)
 
