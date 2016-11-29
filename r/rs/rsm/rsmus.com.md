@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsmus.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611061807id_/http%3A//rsmus.com/who-we-are/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsmus.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129020623id_/http%3A//rsmus.com/who-we-are/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
