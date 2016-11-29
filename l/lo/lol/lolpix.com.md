@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lolpix.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605031349id_/http%3A//www.lolpix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolpix.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129171211id_/http%3A//www.lolpix.com/privacy) for the most accurate reproduction.*
 
 # LOLpix.com Privacy Policy
 
