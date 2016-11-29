@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihotelier.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605203246id_/http%3A//www.travelclick.com/en/privacy_policy%3Fformat%3Dsimple) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihotelier.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129171211id_/http%3A//www.travelclick.com/en/privacy_policy%3Fformat%3Dsimple) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,10 @@ This Privacy Policy applies to TravelClick, Inc. and its subsidiaries (collectiv
 
 Personal information that we receive, collect or process from or on behalf of third parties, including our customers and business partners, is governed by the privacy policies of those third parties. For example, the personal information that we receive from individuals using our Services to make a hotel reservation at a particular hotel belongs to the hotel property and is governed by its privacy policy. We are not responsible for the policies or actions of our customers, business partners, or other third parties with respect to personal information.
 
-We adhere to the Safe Harbor Principles of the United States Department of Commerce in our handling of personal information transferred from the European Union to the United States. To learn more about the Safe Harbor Program, and to view TravelClick’s certification of adherence to these Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement, please visit  [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
+#### Transfer of Your Information Outside the EEA
+
+We may transfer some of your information to the United States in order to process booking reservations and other transactions. Because the United States does not have equivalent data protection legislation protecting the use of your personal information, we comply with European Union law by using Standard Contractual Clauses approved by the European Commission or by adopting other means to ensure that adequate safeguards are applied.  
+ 
 
 #### Notice
 
