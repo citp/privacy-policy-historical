@@ -1,49 +1,84 @@
-> *The following text is extracted and transformed from the klariti.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628000252id_/http%3A//www.klariti.com/legal-privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klariti.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129123458id_/http%3A//klariti.com/legal-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Klariti - Privacy Policy
 
-## 1\. Your Personal Information 
+Thank you for using Klariti. This Privacy Policy explains our practices regarding the collection, use and disclosure of information that we receive when you use this website and our iOS application.
 
-We do **NOT** sell, distribute or lease your personal information to other companies.
+This policy is effective from September 2007.
 
-## 2\. What we collect 
+_Last updated: July 10th 2016_
 
-  * We do **NOT** collect your email address.
+Klariti operates at [http://www.klariti.com](http://www.klariti.com/) (‘Site’). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
-  * We do **NOT** share, loanm rent etc your email address.
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
 
-  * We do monitor demographic information via [Google Analyitics](http://www.google.com/analytics/), ie to see where our customers are coming from, and what products they are most interested in.
+This Privacy Policy only applies to Klariti and doesn’t apply to anyone else’s websites, services, or applications, even if you can access those through Klariti.
+
+## Information Collection And Use
+
+While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact you. Personally identifiable information may include, but is not limited to your name (“Personal Information”) and email address.
+
+## Information Collected using Cookies
+
+We collect certain information through the use of “cookies,” which are small text files that are saved by your browser when you access Klariti. We may also use cookies to monitor aggregate usage and web traffic routing and to customize and improve Klariti. Although most browsers automatically accept cookies, you can change your browser options to stop automatically accepting cookies or to prompt you before accepting cookies.
+
+## Information Related to the Use of Klariti
+
+Our servers automatically record information about how a person uses Klariti, including IP addresses, browser types, operating systems, pages or features of Klariti that were used and time spent on them, search terms and other statistics.
+
+We analyze this information using Google Analytics to customize and improve Klariti.
+
+## Information We Share With Third Parties
+
+Payments are made using third-party service providers that requires it, such as for payment processing, data storage, and hosting and servers.
+
+  * We do NOT have access to your financial details at any point
+  * We do NOT share your data, such as your email address
+  * We do NOT collect geo-location data from your mobile device
+  * We do NOT collect your mobile device photos or photo gallery
 
 
 
+We DO share data with:
 
-## 3\. What we do with the information we gather 
+Law enforcement or authorized third parties to investigate criminal activity or violations of our user agreement.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
+**Note** : We reserve the right to disclose any information about you to government or law enforcement officials if it is necessary to comply with any applicable law, regulation or legal process; to respond to lawful requests; to protect the rights, property and safety of us or others; and to prevent or stop illegal activity.
 
-  * We may use the information to improve our products and services. 
+## Newsletter and Communications
 
-  * We may periodically (once or twice a year) send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials.
 
-  * We may use the information to customize the website according to your interests. 
+We will NEVER spam you.
 
+Your email address is never shared with other companies. If you sign-up to our newsletter (provided by Aweber) , you can unsubscribe with one click.
 
+## Our Policy Towards Children
 
+Our website is intended for IT and business professionals. It is not intended for children under the age of 13. We do not knowingly collect personal information from users in this age group. If we learn that we have collected person data of a child under 13, we will take steps to delete such information from our files as soon as is practicable.
 
-## 4\. Security
+## Changes to Privacy Policy
 
-To ensure your information is secure we have setup physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+Any information that we collect is subject to the privacy policy in effect at the time such information is collected. We may, however, revise the Privacy Policy from time to time. If a revision—in our sole discretion—is material, we will notify you (for example via email to the email address associated with your account). Other changes may be posted to our blog, so please check that regularly. The most current version will always be posted on our Privacy Policy page.
 
-## 5\. How we use cookies 
+## Complaints
 
-We use 'traffic log' cookies to identify which pages are viewed. This helps us analyze data about website traffic and tailor our site to match your needs. 
+Klariti commits to resolve complaints about your privacy and our collection or use of your personal information. Inquiries or complaints regarding this privacy policy should first contact Klariti at:
 
-We only use this information for statistical analysis only. 
+Klariti Ltd
 
-Please note that a 'cookie' file does not give us access to your computer or any information about you, other than the data you choose to share with us, for example, your geographical location.
+63 Ripley Hills
 
-You can disable cookies by modifying your web browser settings. 
+Killarney Road
 
-## 6\. Links to other websites 
+Bray
 
-Klariti Ltd is not responsible for the content of other 'outbound' websites. 
+Co Wicklow
+
+Ireland
+
+info@Klariti.com
+
+## Contact Information
+
+If you have any questions about this Privacy Policy, please contact us at info@klariti.com.
