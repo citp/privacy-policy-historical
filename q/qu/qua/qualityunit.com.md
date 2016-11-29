@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qualityunit.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517193433id_/https%3A//www.qualityunit.com/privacy-policy-quality-unit) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualityunit.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129175329id_/https%3A//www.qualityunit.com/privacy-policy-quality-unit) for the most accurate reproduction.*
 
-# Privacy Policy - Affiliate Tracking Software, Live Chat and Help Desk Software - Quality Unit
+# Privacy Policy - Affiliate Tracking, Live Chat and Help Desk Software - Quality Unit
 
 This is the privacy policy for Quality Unit. Our homepage on the Web is located at [http://www.qualityunit.com](http://www.qualityunit.com/ "QualityUnit homepage").  
 If you have any questions about this policy, please contact us.
