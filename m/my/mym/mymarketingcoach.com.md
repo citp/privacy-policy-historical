@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mymarketingcoach.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629160422id_/http%3A//www.mymarketingcoach.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymarketingcoach.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129180338id_/http%3A//www.mymarketingcoach.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Updated: May 16, 2016
+Last Updated: August 30, 2016
 
 MyMarketingCoach, LLC. strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.”
 
@@ -36,9 +36,9 @@ Contacting Us.
 
 We can be reached by contacting:
 
-Website: [Please use this contact form ](https://web.archive.org/web/20160629160422id_/http://www.mymarketingcoach.com/support)
+Website: [Please use this contact form ](https://web.archive.org/web/20161129180338id_/http://www.mymarketingcoach.com/support)
 
-Mail: MyMarketingCoach, LLC., 20390 SW 57th Street, Dunnellon, FL 34431
+Mail: MyMarketingCoach, LLC., 10380 SW 48th Ave, Ocala, FL 34476
 
 Changes to this Policy
 
