@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yougowords.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620202038id_/http%3A//www.yougowords.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yougowords.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129192130id_/http%3A//www.yougowords.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - You Go Words!
 
@@ -90,15 +90,15 @@ This document was last updated on October 24, 2014
 
 loading...
 
-#### Please Read before Commenting On You Go Words Word Finder.
+#### Commenting On This Word Finder.
 
-On your [downloads](https://web.archive.org/member/downloads) page in the members area indicates clearly that downloads are not currently available and the reasons as to why. Please also read my [about page](https://web.archive.org/about-me.html) to know I am not a large company or a person working full time on this website. Thus, to expect free content and expect everything to work perfectly is wrong entitlement. If you are not happy with this **free word site** , I ask that you send me feedback or comment your thoughts below as positively as possible so that I may continue the progress of You Go Words, or please do not use it. This is my hobby, and is a great project, but you are not entitled to anything as the [terms of use](https://web.archive.org/terms-of-service.html) indicates and should be understandable for using this amazing yet **free word finder**. I am however sorry to dissappoint my users. I work a regular job as well and live a fulfilling life and can not always have time to improve You Go Words. It is massive, the time it takes is tremendous, and the money it earns does not cover the expenses. I hope this is understandable.
+On your [downloads](https://web.archive.org/member/downloads) page area, there is information on why word downloads are not available. Please read the [about page](https://web.archive.org/about-me.html) to learn who I am, and how this word finding tool works behind the scenes. This is currently a free word website, made by one dude - so to expect everything to work perfectly is terrible sense of entitlement. If you are not happy with this **free website** , I ask you to please send feedback or comment your thoughts below in a kind manner. I do want to improve the finding capabilities, and am working to do so. Your constructive and kind criticism is appreciated. You Go Words! is massive and the time it takes is tremendous. It earns money, but does not cover the expenses. Share this website with your word loving friends and comment feedback. I promise to continue to improve the finding, rhyming, poetry and filtering tools. Thank you for using You Go Words!
 
   * Google+
   * Page Specific
 
 
 
-Thank you for visting . I will be adding a comments tool for all members to comment, interact and associate with the pages on You Go Words!
+Thank you for visting. I will be adding a comments tool for all members to comment, interact and associate with the word pages!
 
 All comments will be moderated.
