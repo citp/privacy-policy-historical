@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodinsight.org privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324140513id_/http%3A//www.foodinsight.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodinsight.org privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129122252id_/http%3A//www.foodinsight.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IFIC Foundation - Your Nutrition and Food Safety Resource
 
