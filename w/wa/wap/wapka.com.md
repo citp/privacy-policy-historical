@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wapka.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618144835id_/http%3A//wap.wapka.com/wap/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wapka.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129183005id_/http%3A//wap.wapka.com/wap/en/privacy) for the most accurate reproduction.*
 
 # Wapka.mobi - WAP site builder, create your own WAP site!..
 
