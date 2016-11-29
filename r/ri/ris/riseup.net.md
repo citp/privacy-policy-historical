@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the riseup.net privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411085103id_/https%3A//help.riseup.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riseup.net privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129210248id_/https%3A//www.riseup.net/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - help.riseup.net
+# Privacy Policy - riseup.net
 
 This document describes what information we collect and what it’s used for. It applies to all interactions with riseup.net, except for our new “black” services which are covered by a [different privacy policy](https://black.riseup.net/privacy-policy). Your use of riseup.net services will constitute your agreement to our Privacy Policy. Please also review our [Terms of Service](https://web.archive.org/en/tos/).
 
@@ -70,4 +70,4 @@ You may choose to delete your riseup.net account at any time. Doing so will dest
 
 ## Changes to this policy
 
-We reserve the right to change this policy. If we make major changes, we will notify our users in a clear and prominent manner. Minor changes may only be highlighted in the footer of our website.
+We reserve the right to change this policy. If we make major changes, we will notify our users in a clear and prominent manner (like our [Newsletters](https://web.archive.org/en/about-us/newsletter)). Minor changes may only be highlighted in the footer of our website.
