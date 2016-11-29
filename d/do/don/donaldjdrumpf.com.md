@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donaldjdrumpf.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622134859id_/http%3A//www.hbo.com/html/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donaldjdrumpf.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129144832id_/http%3A//www.hbo.com/html/privacy-policy/index.html) for the most accurate reproduction.*
 
 # HBO.com: Corporate Information: Privacy Policy
 
@@ -64,7 +64,6 @@ Information may be shared as set forth more particularly in Paragraph 2 of this 
 
 (c) **For Affiliate Use.** As you know, HBO is a Time Warner company, and as such, has affiliate sibling companies. We may share your personally identifiable information with our affiliates to identify products and services that may be of interest to you, for research, analysis and to assist in the improvement of our Service or those of our affiliates, and in connection with promotions conducted by us, by our affiliates, or jointly. Below is a list of some of the Time Warner companies that are affiliated with HBO and with whom we may share information we collect at our sites. We may update this list from time-to-time with additional Time Warner companies, so please check back periodically to keep up-to-date. 
 
-Time Inc.  
 Time Warner Inc.  
 Turner Broadcasting System Inc.  
 Warner Bros. Entertainment Inc.
