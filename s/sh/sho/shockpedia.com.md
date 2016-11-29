@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shockpedia.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627125204id_/http%3A//www.shockpedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shockpedia.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129061736id_/http%3A//www.shockpedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Shockpedia
 
@@ -41,9 +41,9 @@ Non-personally Identifiable Information – If you do not wish for cookies to be
 
 We believe it is important to provide a tailored experience to our visitors, which is why we allow third party vendors (such as Google) to use cookies for a personalized experience. These third party vendors use the cookies in order to display relevant advertisements on our website, based on your previous history and preferences. Google uses a DoubleClick cookie, which allows it to present advertisements based on your visits to our site and/or other websites that you have visited on the internet. The same applies to partners of Google. You are able to opt out of DoubleClick cookies, and advertising based on your interests, at any time. You can opt out by visiting one of the following:
 
-[Ad Settings](http://newshockpedia.alegriamarketing.netdna-cdn.com/wp-content/uploads/2014/09/preferences)
+[Ad Settings](http://cdn-originshockpediacom.alegriamarketing.netdna-cdn.com/wp-content/uploads/2014/09/preferences)
 
-[aboutads.info](http://newshockpedia.alegriamarketing.netdna-cdn.com/wp-content/uploads/2014/09/www.aboutads.info)
+[aboutads.info](http://cdn-originshockpediacom.alegriamarketing.netdna-cdn.com/wp-content/uploads/2014/09/www.aboutads.info)
 
 We allow third party vendors to use cookies, web beacons and other similar tracking tools, in order to collect information from Shockpedia.com, as they do for other websites on the internet. These third party vendors are only allowed to use this information for measurement services and targeted advertisements.
 
