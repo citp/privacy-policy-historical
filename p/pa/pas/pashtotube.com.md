@@ -1,83 +1,22 @@
-> *The following text is extracted and transformed from the pashtotube.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622122912id_/http%3A//www.pashtotube.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pashtotube.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129193650id_/http%3A//pashtotube.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Pashto HD Video Songs
 
-Principles of the pashtotube.com Privacy Policy
+     This privacy statement discloses the privacy practices for all pages and services offered by pashtotube.com 
 
-    We dont ask you for personal information unless we truly need it.  
-    We dont share your personal information with anyone except to comply with the law, to provide a service you have requested, or to protect our rights.  
-    We dont store personal information on our servers unless required for the on-going operation of one of our services.
+Personally Provided Information 
+     You do not have to give us personal information to visit pashtotube.com. If you choose to provide us with additional information through an e-mail message, inquiry form, comments, etc., we maintain the information as long as needed to respond to your question, inquiry, or to fulfill the stated purpose of the communication as well as archive them for some statistical reasons. Except for authorized law enforcement investigations, we do not give, share, sell or transfer any personal information to a third party. 
 
- What This Privacy Policy Covers
+Website Traffic Analysis Software 
+     For site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. We also monitor our traffic to analyze visitors's information, such as, but not limited to, operating system, browsers, screen resolutions and similar. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual. 
 
-    This privacy policy governs the use of the pashtotube.com web site at http://pashtotube.com/  
-    It covers how pashtotube.com treats personal information -- that is, personally identifiable like your name, address, email address, or phone number.  
-    Children under 13 are not permitted to use the pashtotube.com service, and so this privacy policy makes no provision for childrendonts use of the site.
+Third Party Advertising Partners 
+     All users of pashtotube.com must keep this in mind that third parties may be placing and reading cookies on your browsers, or using web beacons to collect information as a result of ad serving on pashtotube.com. For, instance one of our partners, Google uses the DoubleClick DART cookie on pashtotube.com displaying AdSense for content ads. Similarly, other advertising partners may use their respective cookies to track advertising stats. 
 
- General Information
+External Links 
+     Our web sites contain links to other sites. pashtotube.com is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site to which we may link that may collect personal information. 
 
-    pashtotube.com collects personal information when you register with pashtotube.com to use pashtotube.com services or to post content on pashtotube.com.  
-    When you register, we ask for your email address.  
-    pashtotube.com receives and records information on our server logs from your browser, including your IP address, cookie, and the page you request in order to operate the pashtotube.com service.  
-    pashtotube.com uses Google Analytics to view aggregate statistics about the usage of the pashtotube.com service.
+Responsibily 
+     pashtotube.com's team cannot be held responsible for any activity resulting any kind of loss to an individual or group. 
 
- IP Addresses
-
-IP Addresses are automatically reported by your browser each time you view a web page.
-
- IP addresses may be used for various purposes, including:
-
-    To diagnose or service technology problems reported by our users or engineers that is associated with the IP addresses controlled by a specific web company or ISP.  
-    To tailor advertising based on geographic area or other information derived from your IP address. Aggregate information derived from IP addresses may also be reported to advertisers.  
-    To estimate the total number of users visiting pashtotube.com from specific geographical regions.  
-    To make sure that people are not voting for themselves or friends during contests or promotions.
-
- Cookies
-
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web sitedonts computers and stored on your computerdonts hard drive.
-
-    You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set.  
-    If you reject all cookies, you will not be able to use pashtotube.com products or services that require you to "sign in," and you may not be able to take full advantage of the pashtotube.com service.  
-    pashtotube.com uses its own cookies for a number of purposes, including to:  
-    \- Access your information when you "sign in".  
-    \- Keep track of preferences you specify while you are using pashtotube.comdonts services.  
-    \- Store credentials you may use to enable posting to other sites  
-    \- Estimate and report our total audience size and traffic.  
-    \- Conduct research to improve pashtotube.comdonts content and services.  
-    pashtotube.com may let other companies (such as Google) that show advertisements on some of our pages set and access their cookies on your computer. Other entitiesdont use of their cookies is subject to their own privacy policies, not this one. Advertisers or other entities do not have access to pashtotube.comdonts cookies.
-
-Information Sharing and Disclosure
-
-    Any personal information or video content that you voluntarily disclose online (on collections, in reviews and discussion areas, and within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other users when you upload videos or send messages through the pashtotube.com Sites and other users can contact you through messages and comments. Any videos that you submit to the pashtotube.com Sites may be redistributed through the internet and other media channels, and may be viewed by the general public.  
-    We do not use your email address or other personally identifiable information to send marketing messages unless youdontve opted in to receive such messages. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major pashtotube.com Site changes, alerting you to messages from other pashtotube.com members, or for customer service purposes).  
-    We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, click stream data, etc.) to improve the quality and design of the pashtotube.com Sites and to create new features, functionality, and services by storing, tracking, and analyzing user preferences and trends.  
-    When you post a comment or message, upload video, start a collection, or engage in other public activities on the pashtotube.com service, your pashtotube.com ID or alias that you are posting under is visible to other users.  
-    If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.pashtotube.com does not rent or sell your personal information.  
-    pashtotube.com will not share personal information about you with other people or other companies without your consent except to provide products or services youdontve requested and in the following circumstances:  
-        pashtotube.com may be required to disclose personally identifiable information under special circumstances, such as to comply with subpoenas, warrants, court orders or legal process or to establish or exercise our legal rights or defend against legal claims;  
-    It may be necessary to share information in order to investigate, prevent, or take action regarding suspected or actual illegal activities, including without limitation, fraud, situations involving potential threats to the physical safety of any person, violations of pashtotube.comdonts terms of use, or as otherwise permitted or required by law. We will transfer information about you if pashtotube.com is acquired by or merged with another company. In this event, pashtotube.com will notify you by email or by putting a prominent notice on the pashtotube.com web site before information about you is transferred and becomes subject to a different privacy policy. pashtotube.com may share demographic information with business partners, such as "53% of users who regularly user pashtotube.com chat are between 18 and 24" or the like. No personally identifiable information will ever be used without your permission (i.e. we will ask you for a quote or testimonial)  
-    We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.  
-    pashtotube.com also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that pashtotube.com believes, in good faith, is appropriate or necessary to enforce our Member Agreement, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of pashtotube.com, our users or others.
-
-Editing and Deleting Account Information
-
-    You can change your pashtotube.com member name and other account information, at any time.  
-    We may send you certain communications relating to the pashtotube.com service, such as service announcements and administrative messages, that are considered part of your pashtotube.com account.  
-    You can delete your pashtotube.com account at any time from your account page; however, please note that your identification, billing and contact information may remain in pashtotube.comdonts records for some period.  
-    We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.  
-    Your pashtotube.com Account Information is password-protected.  
-    In certain areas, pashtotube.com uses SSL-encryption to protect data transmissions.
-
- Data Security and Change of Control
-
-pashtotube.com uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to pashtotube.com and you do so at your own risk. Once we receive your transmission of information, pashtotube.com makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
-
-If pashtotube.com learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. pashtotube.com may post a notice on the pashtotube.com Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using by Using Contact Us form.
-
-In the event that pashtotube.com is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditorsdont rights generally, we may not be able to control how your personal information is treated, transferred, or used.
-
-Changes and updates to this Privacy Notice
-
-This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the pashtotube.com Sites constitutes your agreement to this Privacy Notice and any future revisions.  
-For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.  
-For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
+     Note: This Page can get updated any time, without an prior notice, so keep checking back. 
