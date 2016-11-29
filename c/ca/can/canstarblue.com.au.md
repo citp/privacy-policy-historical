@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canstarblue.com.au privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618173408id_/http%3A//www.canstarblue.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canstarblue.com.au privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129020448id_/http%3A//www.canstarblue.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Canstar Blue Privacy Policy - Canstar Blue
 
