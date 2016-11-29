@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dinnerthendessert.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617130031id_/http%3A//dinnerthendessert.com/privacy-and-copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinnerthendessert.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129104042id_/http%3A//dinnerthendessert.com/privacy-and-copyright) for the most accurate reproduction.*
 
 # Privacy and Copyright - Dinner, then Dessert
 
@@ -94,15 +94,3 @@ Dinner, then Dessert does not allow for its original recipes and pictures to be
 If you have an interest in posting one of my photos, text from my post or my recipes on another site, you must first contact me for and obtain permission.
 
 If my recipe inspired you to make your own version, please reference my recipe and provide a link to it in your post. I would love for you to share if one of my recipes has inspired you, but if you do that I expect proper credit be sent back to me.  Some of my favorite recipes are inspired by other blogs, but I am always thorough in referencing them to show my love. Thanks for doing the same 🙂
-
-### Sign up for daily recipes and receive a free e-cookbook!
-
-You'll get my 5-10-30 e-cookbook -
-
-  * 5 cuisines
-  * 10 full meals
-  * 30 total ingredients
-
-
-
-complete with two-week shopping guide!
