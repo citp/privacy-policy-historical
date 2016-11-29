@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amateurlivecams.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628012151id_/http%3A//www.amateurlivecams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateurlivecams.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130002156id_/http%3A//www.amateurlivecams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # AmateurLiveCams - Privacy Policy
 
