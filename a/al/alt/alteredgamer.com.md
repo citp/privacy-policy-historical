@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alteredgamer.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610191301id_/http%3A//www.alteredgamer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alteredgamer.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129203807id_/http%3A//alteredgamer.com/privacy.html) for the most accurate reproduction.*
 
 # alteredgamer.com | Privacy Policy
 
