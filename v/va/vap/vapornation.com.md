@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vapornation.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314115025id_/http%3A//www.vapornation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapornation.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129214523id_/http%3A//www.vapornation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VaporNation
 
 At VaporNation.com, your privacy is a TOP priority. We want our users to be aware of any information we collect, how we use it and under what circumstances (if any) we disclose it.
 
-INFORMATION WE COLLECT AND USE
+## INFORMATION WE COLLECT AND USE
 
 ### ACCOUNT  INFORMATION
 
@@ -48,7 +48,7 @@ You may opt out of any future contacts from us at any time. You can do the follo
   1. See what data we have about you, if any.
   2. Change/correct any data we have about you.
   3. Have us delete any data we have about you.
-  4. Express any concern you have about our use of your data.
+  4. Express any concern you have about our use of your data..
 
 
 
