@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentaidbc.ca privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607223354id_/http%3A//www2.gov.bc.ca/en/admin/privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentaidbc.ca privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129234509id_/http%3A//www2.gov.bc.ca/en/admin/privacy.page) for the most accurate reproduction.*
 
 # B.C. Government Website Privacy Statement - Province of British Columbia
 
@@ -49,7 +49,7 @@ Some cookies will remain on your computer for only as long as your browser remai
 
 **How can I access and correct information I submit to a web site?**
 
-You can review any personal information collected about you by requesting access to it by the ministry holding the information, or by submitting a Freedom of Information request. You may request changes or annotate your personal information if you believe it to be inaccurate by submitting a written request describing the error. Please contact the ministry or other government body holding your personal information. The Legislation, Privacy and Policy Branch may be contacted for general information.
+You can review any personal information collected about you by requesting access to it by the ministry holding the information, or by submitting a Freedom of Information request. You may request changes or annotate your personal information if you believe it to be inaccurate by submitting a written request describing the error. Please contact the ministry or other government body holding your personal information. The Privacy, Compliance and Training Branch may be contacted for general information.
 
 **What about links to external websites from B.C. government websites?**
 
