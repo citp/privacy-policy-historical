@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the althea.kr privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420092531id_/http%3A//my.althea.kr/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the althea.kr privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129133815id_/http%3A//my.althea.kr/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ This Privacy Policy describes the types of information Althea Inc. ("we" or "us"
 
 Overview
 
-This Privacy Policy is incorporated into and subject to the Terms of Use. By accepting the Althea Inc.’s Terms of Use when registering to receive services from Althea Inc. ("Althea"), you expressly consent to our use and disclosure of your personal information in the manner described in this Privacy Policy. However, if you do not agree to the terms of this Privacy Policy, please do not use Althea Services and do not access the Althea website located at [www.althea.kr](https://web.archive.org/web/20160420092531id_/http%3A//my.althea.kr/www.althea.kr) ("Althea Site").
+This Privacy Policy is incorporated into and subject to the Terms of Use. By accepting the Althea Inc.’s Terms of Use when registering to receive services from Althea Inc. ("Althea"), you expressly consent to our use and disclosure of your personal information in the manner described in this Privacy Policy. However, if you do not agree to the terms of this Privacy Policy, please do not use Althea Services and do not access the Althea website located at [www.althea.kr](https://web.archive.org/web/20161129133815id_/http%3A//my.althea.kr/www.althea.kr) ("Althea Site").
 
 This policy is effective from 06/01/2015. If you have questions regarding this Privacy Policy, you may contact us at [help@althea.kr](mailto:help@althea.kr).
 
