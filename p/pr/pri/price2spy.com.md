@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the price2spy.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609024239id_/http%3A//www.price2spy.com/en/meta_navigation/privacy_refund_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the price2spy.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129184130id_/http%3A//www.price2spy.com/en/privacy-refund-policy.html) for the most accurate reproduction.*
 
-# Price2Spy - Competitor price monitoring tool - Privacy / Refund Policy
+# Privacy / refund policy - Price2Spy - Competitor price monitoring
 
 This privacy policy sets out how Price2Spy uses and protects any information that you give us when you use our service. 
 
