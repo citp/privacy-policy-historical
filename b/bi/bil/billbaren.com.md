@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billbaren.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608130756id_/http%3A//billbaren.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billbaren.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129172411id_/http%3A//billbaren.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bill Baren.com
 
@@ -84,4 +84,4 @@ Bill Baren Coaching
 1440 Broadway, Suite 1010  
 Oakland, CA 94612  
 United States  
-wecare @ billbaren . com
+wecare@billbaren.com
