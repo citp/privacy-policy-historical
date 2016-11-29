@@ -1,72 +1,162 @@
-> *The following text is extracted and transformed from the lawnsite.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610201646id_/http%3A//www.lawnsite.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawnsite.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129060841id_/http%3A//www.lawnsite.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LawnSite
 
 [ ](http://www.lawnsite.com/)
 
-**PRIVACY POLICY**   
-Grand View Media (GVM) has created this Privacy Policy (“Privacy Policy”) to demonstrate its commitment to fully disclosing the information collection and use practices applicable to this Internet Web site (the “Web site”).   
-**By using or accessing the Web site, you signify your acceptance of the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Web site, products and/or services and exit the Web site immediately.**   
-1\. _Types of Information and Method of Collection_   
-**General Information Collection**
+**Privacy Policy**
 
-  * By Browsing. As you browse the Web site the Internet protocol (IP) address of your computer, “cookies” (described below) and other standard tracking data GVM uses to evaluate Web site traffic and usage patterns are collected. Such information is aggregated with tracking data from all Web site visitors. If you only browse this Web site, but do not become a member you are not required to identify yourself or provide any personally identifiable information. For purposes of this Privacy Policy, the term “Personally Identifiable Information” refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains.
+**Introduction**
 
-  
+Grand View Media respects your privacy and are committed to protecting it through our compliance with this policy.
 
+Included in this policy are the types of information we may collect from you or that you may provide to us upon visiting our website www.lawnsite.com and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
-  * By Web Site Requirement. To register as a member of this Web site you are required to provide the following Personally Identifiable Information: a user name that you create and a personal, active e-mail address.
+This policy applies to information we collect:
 
-  
-
-
-  * By User’s Voluntary Submission. When using the chat room, forum and message board features on the Web site, you may choose to provide other Personally Identifiable Information, such as your residential or business contact information. If you post Personally Identifiable Information anywhere on the Web site, it will be available to third parties and you may receive unsolicited messages from those parties. GVM has no obligation to ensure the security or confidentiality of any information you choose to make available in any chat room, forum or message board on the Web site. Also, GVM cannot ensure that parties who have access to such information will respect your privacy. Please exercise caution when deciding to disclose Personally Identifiable Information. 
+  * On this website
+  * In email, text, and other electronic messages exchanged between you and this website
+  * Through mobile and desktop applications you download from this website, which provided dedicated non-browser-based interaction between you and this website
+  * When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy
+  * Any other sources
 
 
 
-The Web site uses a feature of your browser to set “cookies” on your computer. Cookies are small packets of information sent by the Web site through your browser to your computer. GVM uses cookies to save your password so you do not have to re-enter it each time you visit the Web site. These cookies can be deleted or modified through your browser Internet settings. If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in your browser’s settings. You may modify your browser preferences to provide you with choices relating to cookies. You have the choice to accept all cookies, to be notified when a cookie is set or to reject all cookies. If you choose to reject cookies you may be unable to use those GVM services that require registration in order to participate, will have to sign in each time you visit the Web site, or may not be able to utilize fully all of the Web site’s features and information.   
-**Information on Children**   
-GVM does not knowingly collect information from children under the age of 13. On-line registration and Web site usage is intended for people who are professionally engaged in the businesses GVM serves. If GVM learns that it has Personally Identifiable Information on a child under the age of 13, GVM will delete that information from its systems. GVM encourages parents and guardians to monitor children’s online usage. Parental control protections, such as computer hardware, software or filtering services, are commercially available to limit the access to material that is harmful to minors.   
-2\. 
+It does not apply to information collected by:
 
-_How Information Collected is Used_   
-The information collected by and through the Web site is owned solely by GVM. The information collected by and through this Web site will by used solely by GVM, its divisions, subsidiaries, and affiliates, or other entities that are involved in the operation of this Web site for GVM’s internal purposes.   
-GVM may use the information collected and provided, individually or in an aggregate form, as follows: 
-
-  * to contact you about the Web site. For example, GVM may contact you to send a welcome e-mail to verify your username and password, to inform you about User benefits, to inform you if another user has responded to a post you have made on the Web site, to inform you of changes to the Terms of Use Agreement of the Web site, to inform you that you have violated the Terms of Use Agreement, to inform you that the Web site is suspended for maintenance, or to inform you of a change in ownership or control of the information collected by and through the Web site; 
-  * to evaluate products and services GVM or third parties could offer to you; 
-  * to monitor or improve use of the Web Site;
-  * to customize the advertising and content you see on the Web site; 
-  * to monitor compliance with GVM’s Terms of Use Agreement of the Web site; 
-  * to provide special offers to you from GVM and/or its affiliates and subsidiaries and other third parties; and 
-  * to send you promotional material on behalf of GVM and/or its affiliates and subsidiaries and other third parties. 
+  * Us offline or through any other means, including on any other website owned by the Company or any third party; or
+  * Any third party, including through any application or content (including advertising) that may link to or be accessible from the website
 
 
 
-3\. 
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. By accessing or using our website, you agree to this privacy policy and our policies and practices. Periodic changes to this policy may be made to the website (see _Changes to our Privacy Policy)_. Please check our policy for periodic updates as continued use of the website is deemed to be an acceptance of changes.
 
-_With Whom Information is Shared_   
-At times, we may share the information collected on this Web site with third parties for various purposes. While GVM will seek to require those third parties to follow appropriate privacy policies and security measures, GVM does not bear responsibility for any actions or policies of third parties. The following outlines the ways in which your information may be shared with others:   
-**Promotional Offers:** Our third party partners and sponsors may use your Web site user name to contact you through the Web site with special offers or promotional material. We will not provide third party partners or sponsors with any of the Personally Identifiable Information you provide to GVM when you register as a member on the Web site. Any Personally Identifiable Information that you post voluntarily in a chat room, forum, or message board on the Web site may be accessed by third parties. We are not responsible for the privacy practices of third parties, and you should review the privacy practices of such third parties prior to providing any of your Personally Identifiable Information to them. If you do not want to receive special offers or promotional materials from GVM or third parties, you may either “opt-out” during the registration process, change your user preferences later on, or contact GVM by using the contact information provided in Section 8, below.   
-**Aggregate Information:** We may share aggregate information, such as general demographics and Web Site usage statistics to third party advertisers, sponsors or other organizations. The general demographic information may include how many professionals are registered as members on the Web site. We do not share specific demographic information, such as users’ ages or addresses. When general demographic information is shared with third parties, we do not provide them with the Personally Identifiable Information that you provide to GVM when you register as a member on the Web site.   
-**GVM Subsidiaries and Affiliates:** We may share your Personally Identifiable Information with employees, agents, parents, subsidiaries, and affiliates of GVM.   
-**Business Transfers:** The Web site, GVM and/or a subsidiary or division of GVM may be sold along with its assets, or other transactions may occur in which your Personally Identifiable Information is one of the business assets transferred. In such a case, your Personally Identifiable Information, which we have gathered, may be one of the business assets we transfer.   
-**Legal Process:** GVM reserves the right to disclose the information collected by and through this Web site, including your Personally Identifiable Information, as required by law and when GVM believes that such disclosure is necessary to protect GVM’s rights and/or comply with a judicial proceeding, subpoena, court order or other legal process served on GVM. The disclosure of this information may be without notice to you.   
-4\. _Security and Encryption_   
-While there is no such thing as “perfect security” on the Internet, GVM takes commercially reasonable precautions to protect the Personally Identifiable Information that you provide to GVM when you register as a member on the Web site. We use SSL encryption technology on the Web site and a secure server to encrypt information transmitted between your browsers and our server. As a result, Personally Identifiable Information that you submit during the registration process is transmitted using commercially reasonable security over the Internet.   
-Our security policies are reviewed periodically and revised as required. The servers for the Web site that contain Personally Identifiable Information are stored in a physically secure and climate controlled off-site facility. We protect against data loss by backing-up data, performing, consistency checks and restricting access to information on our servers. It is important to remember that whatever you transmit or disclose online can be collected and used by others or unlawfully intercepted by third parties. No data transmission over the Internet can be 100% secure.   
-5\. _Third Party Links, Web Sites, and Cookies_   
-Our Web site contains external links to third party Web sites. We have no control over, and are not responsible for, the content of, or information gathered by these other Web sites. Any Personally Identifiable Information collected by such third parties is subject to such third parties’ privacy policy. Companies that advertise on our Web site do not have access to Personally Identifiable Information that you do not post in chat rooms, forums, or message boards on the Web site or to our cookies on the Web site. Those advertisers may themselves set and access their own cookies on your computer if you choose to have cookies enabled in your browser and you access their Web sites. Third parties’ use of cookies is subject to their own privacy policies.   
-6\. _Notification of Changes_   
-GVM reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy simply by posting such change, update or modification on the Web site. Any such change, update or modification will be effective immediately upon posting on the Web site. If at any point GVM decides to use Personally Identifiable Information in a manner different from that stated at the time it was collected, we may notify you by way of an e-mail or some other means. Your continued use of the Web site shall constitute your acceptance of such revised Privacy Policy. Since this Privacy Policy may change from time to time, you should review it periodically before you provide any additional Personally Identifiable Information anywhere on the Web site.   
-7\. _Corrections and Updates to Personal Profile_   
-You have the option of reviewing, correcting, updating, modifying, and deleting your Personally Identifiable Information or member profile, at any time and as often as desired by personally changing your profile information or by contacting GVM by telephone, facsimile, e-mail, or mail by using the contact information in Section 8, below. However, you must always have an active, personal e-mail address registered on the Web site.   
-To the extent that such information is stored in other databases, we cannot always ensure that such corrections or deletions will reach the other databases. We will use all reasonable efforts to ensure that your information is removed from or corrected in our records.   
-8\. _GVM Contact Information_   
-Grand View Media
+**Children Under the Age of 13**
 
-Telephone: 802-748-8908   
-Facsimile: (802) 748-1866   
-Email: privacy@grandviewmedia.com 
+Our website is not intended for use by children under 13 years of age. We do not knowingly collect or accept personal information provided from children under 13. If you are under 13, do not use or provide information to this website. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, that information will be deleted. If you believe we might have any information from or about a child under 13, please contact us at (888) 431-2877.
 
-_Last Revised 12/15_
+**Information We Collect About You and How We Collect It**
+
+We collect several types of information from and about users of our website, including:
+
+  * Personally identifiable information, such as name, phone number, postal and email address, or any other information the website collects that is defined as personal or personally identifiable under an applicable law.
+  * Information about you but does not identify you as an individual
+  * Information about your internet connection, equipment used  for site access, and usage
+
+
+
+This information may be collected:
+
+  * Directly from you when you provide it to us, and may include: 
+    * Information provided by filling out website forms, such as registration, service subscription, posts, request for services, contest entry, and others
+    * Records and copies of correspondence or methods of contact, such as survey responses, transactions, search queries, and others
+    * User contributions that are displayed or posted on public areas of the website or transmitted to other website users
+
+
+  * Automatically as you use our site, and may include: 
+    * Data relating to traffic, location, and other resources that you use to access and use our website
+    * Information about your computer and internet connection, including IP address, operating system, and browser type
+    * Behavioral information about your online activities over time and across third-party websites or other online services
+
+
+
+Technologies used for automatic data collection and advertising may include browser cookies, flash cookies, or web beacons. For more information about managing your privacy and security settings, see _Choices About How We Use and Disclose Your Information_. We do not collect personal information automatically, but we may tie this information to personal information about you that we collect from other sources or information that you provide to us.
+
+  * From third parties, including our business partners and Google
+
+
+
+**Third-Party Use of Cookies and Other Tracking Technologies**
+
+Some content or applications, including advertisements, on our website are served by third parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties, such as Google and others, may use cookies and other tracking technologies to collect information about you when you use our website. This information may be used to provide you with interest-based or behavioral advertising or other targeted content.
+
+We do not control third party tracking or how they use collected data. If you have any questions about an advertisement or other targeted content, contact the responsible provider directly. For information about opting out of receiving targeted advertising from many third parties, see _Choices About How We Use and Disclose Your Information_ or visit the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/#completed). For information about opting out of Google’s use of cookies, visit Google’s [Ad Settings](https://support.google.com/ads/answer/2662922?hl=en).
+
+**How We Use Your Information**
+
+We use information that we collect about you or you provide to us, including personal information, to:
+
+  * Present our website and its contents to you and notify you of any changes
+  * Provide you with requested information, products, or services
+  * Provide you with notices related to your account or transactions
+  * Carry out obligations and enforce our rights arising from any contracts entered into between you and us, including billing and collection
+  * Provide interactive features for your participation
+  * Fulfill any and all other purposes with your consent
+
+
+
+We may also use this information to contact you about our own and third party goods or services that may be of interest to you. If you do not want us to use your information in this way, please check the relevant box located on the form on which we collect your data or adjust your user account preferences. For more information, see _Choices About How We Use and Disclose Your Information_.
+
+We may also use this information to display advertisements to our advertisers’ target audiences. While we do not disclose your personal information for these purposes without your consent, clicking on or otherwise interacting with an advertisement may indicate to the advertiser that you meet its target criteria.
+
+**Disclosure of Your Information**
+
+We may disclose aggregated information about users and information that does not identify any individual, without restriction.
+
+We may disclose personal information collected as described in this privacy policy:
+
+  * To our subsidiaries and affiliates
+  * To contractors, service providers, and other third parties used to support our business
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets
+  * To third parties contractually bound to obligations of confidentiality and use, to market their products or services if you have consented to/not opted out of these disclosures. (For more information, see _Choices About How We Use and Disclose Your Information_
+  * To fulfill the purpose for which you provide it, such as an “email a friend” feature
+  * For any other purpose disclosed by us when you provide information
+  * With your consent
+
+
+
+In addition, we may disclose your personal information:
+
+  * To comply with any court order, law, or legal process, including response to government or regulatory requests
+  * To enforce or apply other agreements
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Grand View Media, our customers, or others
+
+
+
+**Choices About How We Use and Disclose Your Information**
+
+We strive to provide you with choices regarding the personal information you provide us. To exercise control over your information, we have provided you with the following mechanisms:
+
+  * **Tracking Technologies and Advertising.** You can adjust your browser settings to manage cookies. To manage Flash cookie settings, visit the Flash player settings page on [Adobe’s website](http://help.adobe.com/en_US/FlashPlayer/LSM/WS6aa5ec234ff3f285139dc56112e3786b68c-7fff.html#WS6aa5ec234ff3f285139dc56112e3786b68c-7ffe)
+  * **Disclosure of Your Information for Third-Party Advertising.** You can opt-out of information sharing by adjusting your account preferences or emailing us requesting that we not share personal information for promotional purposes
+  * **Promotional Offers from Grand View Media.** If you do not want to receive promotions from us or third parties, you can opt out by adjusting your account preferences or emailing us requesting that we not contact you.
+  * **Targeted Advertising.** If you do not want us to deliver advertisements according to our advertisers’ target-audience preferences, you can opt-out by adjusting your account preferences or email us. You can also adjust your Google [Ads Settings.](https://support.google.com/ads/answer/2662922?hl=en)
+
+
+
+We do not control third parties’ collection or use of your information to serve interest-based advertising. However, these parties may provide opt-out options, such as the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/#completed).
+
+**Accessing and Correcting Your Information**
+
+To review and change your personal information, you can visit your account profile page on our website or email us your request. We cannot delete your personal information without deleting your user account. We may not accommodate your request if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+
+If you delete your user contributions to the website, copies may remain viewable in cached or archived pages, or copied or stored by other users.
+
+**California Privacy Rights**
+
+California Civil Code Section § 1798.83 allows California residents to request certain information regarding disclosure of information to third parties for direct marketing purposes. To do so, please write us at Grand View Media, 200 Croft Street, Suite 1, Birmingham, AL 35242
+
+**Data Security**
+
+To secure your personal information from accidental loss or unauthorized access, use, alteration, or disclosure, all information you provide to us is stored on secure servers behind firewalls. Any payment transactions will be encrypted using SSL technology.
+
+As a user, you are responsible for the use and protection of your password and any information you share in public areas of the website, such as message boards or comment boxes. Any transmission of personal information to our website is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the website.
+
+**Changes to Our Privacy Policy**
+
+We post any and all changes to this privacy policy on this page with the date of last revision at the top of the page. If any material changes are made to how we treat users’ personal information, we will notify you through a notice on the website home page. You are responsible for ensuring that we have an accurate and deliverable email address for you, and for periodically visiting our website and this privacy policy to check for any changes.
+
+**Contact Information**
+
+To ask questions or comment about this privacy policy or our privacy practices, contact us at:
+
+Grand View Outdoors  
+Attn: Customer Service Department  
+200 Croft Street, Suite 1  
+Birmingham, AL 35242
+
+or via our toll-free number:
+
+888-431-2877
+
+Last modified: 07/26/2016
