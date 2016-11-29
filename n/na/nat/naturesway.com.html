@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the naturesway.com privacy policy that was archived on 2016-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160406181928id_/http%3A//www.naturesway.com/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the naturesway.com privacy policy that was archived on 2016-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161129213411id_/http%3A//www.naturesway.com/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"><head id="head"><title>
 	Privacy Policy - Nature's Way®.
@@ -31,6 +31,9 @@
 <script src="//data.schwabenorthamerica.com/naturesway/scripts/site-search.js" type="text/javascript" charset="utf-8"></script>
 <script src="//data.schwabenorthamerica.com/naturesway/scripts/search-suggestions.js" type="text/javascript" charset="utf-8"></script>
 <script src="//data.schwabenorthamerica.com/naturesway/scripts/jquery-mobile.1.4.2.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" src="//data.schwabenorthamerica.com/naturesway/scripts/carousel-swipe.js"></script>
+<script src="https://use.typekit.net/oln7qqw.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -66,27 +69,9 @@ rtp('get', 'campaign',true);
     <form method="post" action="/Privacy-Policy.aspx" id="form">
 <div class="aspNetHidden">
 <input type="hidden" name="manScript_HiddenField" id="manScript_HiddenField" value="">
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATEGUID" id="__VIEWSTATEGUID" value="83be2ecd-5c36-4f9c-be9e-ee30793aaffb">
+<input type="hidden" name="__VIEWSTATEGUID" id="__VIEWSTATEGUID" value="7f9a525c-89a0-45a4-b712-29ca1020a023">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="">
 </div>
-
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['form'];
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
-
-
-<script src="/WebResource.axd?d=p3o2SrvzkVYV-vsajCxFWQOrh1MJ1lrhyfwqkkNCEMAu9Tq_Kr1CGLNA_cDg_zA4eiRCtcWJxQzDuxlQtFNlRBiA-941&amp;t=635875293181218729" type="text/javascript"></script>
 
 <input type="hidden" name="lng" id="lng" value="en-US">
 <script type="text/javascript">
@@ -97,18 +82,7 @@ function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarnin
 //]]>
 </script>
 <script src="/ScriptResource.axd?d=cIYyQHj8anJNmLCEgAJd7wGx5Zn2DWxMCm38gHC0kNdrdMn129iVbQULlC-t3VtEINRB4gWjD0ELyBaOEyHKsjWTCicpNknXp8gbj6KKBHD1WZUDJANqfRx7Jype-8fQJtkZnQ2&amp;t=3a1336b1" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=h0o-ZXrIBZr0OMw6ur4Bf-k9OCU3OEm1z3vG0iNeMgOdACfyvbQ6VyaLSVKLIuxJTUFySeceGIwfmrZ3DktwHpuZiR94cwgM1mqkZN8Oz-RzlmQXhhm6iGXhEco6J7c9cA7i8w2&amp;t=3a1336b1" type="text/javascript"></script>
-<div class="aspNetHidden">
-
-	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0">
-	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0">
-</div>
-    <script type="text/javascript">
-//<![CDATA[
-Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM',''], [], [], 90, '');
-//]]>
-</script>
-<div id="CMSHeaderDiv">
+    <div id="CMSHeaderDiv">
 	<!-- -->
 </div>
     <div id="ctxM">
@@ -143,6 +117,37 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM',''], [
   </a>
 </div>
 
+<script type="text/javascript">
+	//<![CDATA[
+var mobSuggestTimer = null;
+var currentSuggestion = null;
+
+$().ready(function () {
+  $('.SearchTextSection input').focus(function (e) {
+    if (!mobSuggestTimer) {
+      var suggestion = $(this);
+      mobSuggestTimer = setInterval(function(){ checkSuggestions(suggestion); }, 1000);
+    }
+  });
+  $('.SearchTextSection input').blur(function (e) {
+    if (mobSuggestTimer) {
+      clearInterval(mobSuggestTimer);
+      mobSuggestTimer = null;
+    }
+  });
+  $('.SearchTextSection input').off('keydown').off('keyup');
+});
+
+function checkSuggestions(selector) {
+  if (selector.val() != currentSuggestion) {
+    currentSuggestion = selector.val();
+    if (currentSuggestion.length > 2) {
+      FindSuggestions(currentSuggestion, $('#mobileHeaderSearchRecommendations'));
+    }
+  }
+}
+//]]>
+</script>
       </div>
     </div>
     <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -202,7 +207,7 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM',''], [
                <div class="col-lg-12 col-md-6 col-xs-10 wtbSearchHeading"><p class="step">Choose where to buy</p></div>
                <div class="col-lg-5 col-sm-12 row wtbSelectBoxesInput">
 
-                   <div id="p_lt_ctl01_NW_StoreLocatorRedirect_locator_txtZip" contenteditable="true" class="txtZipDetail single-line input placeholder" placeholder="<strong>FIND IN STORE</strong> Enter Zip Code" onfocus="if (this.value.length > 0 &amp;&amp; this.value == '') this.value = '';" onkeypress="if (IsInputEnter(event)) FindProductLocations('/Store-Locator','locator_searchPartCode','','p_lt_ctl01_NW_StoreLocatorRedirect_locator_txtZip','10', '271', event);"></div>
+                   <div id="p_lt_ctl01_NW_StoreLocatorRedirect_locator_txtZip" contenteditable="true" class="txtZipDetail single-line input placeholder" ph="<strong>FIND IN STORE</strong> Enter Zip Code" onfocus="if (this.value.length > 0 &amp;&amp; this.value == '') this.value = '';" onkeypress="if (IsInputEnter(event)) FindProductLocations('/Store-Locator','locator_searchPartCode','','p_lt_ctl01_NW_StoreLocatorRedirect_locator_txtZip','10', '271', event);"></div>
                     
                     <button id="p_lt_ctl01_NW_StoreLocatorRedirect_locator_btnStoreSubmit" class="no-style no-border btn-wtb-1" type="submit" onclick="FindProductLocations('/Store-Locator','locator_searchPartCode','','p_lt_ctl01_NW_StoreLocatorRedirect_locator_txtZip','10', '271', event)">
                         
@@ -848,13 +853,13 @@ var pluginUrl = (('https:' == document.location.protocol) ?
 </a>
 </li>
   <li>
-<a href="/Terms-of-Use" id="Terms-of-Use">
-  Terms of Use
+<a href="/Contact-Us" id="Contact-Us">
+  Contact Us
 </a>
 </li>
   <li>
-<a href="/Contact-Us" id="Contact-Us">
-  Contact Us
+<a href="/Terms-of-Use" id="Terms-of-Use">
+  Terms of Use
 </a>
 </li>
   <li>
@@ -991,18 +996,11 @@ $.ajax({
 
 <script type="text/javascript">
 //<![CDATA[
-(function() {var fn = function() {$get("manScript_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();
-WebForm_InitCallback();function execAnalyticsTracking(){
+(function() {var fn = function() {$get("manScript_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();function execAnalyticsTracking(){
 _gaq.push(['_setAccount', 'UA-50705141-1'], ['_trackPageview']);
 }
 
 addLoadEvent(execAnalyticsTracking);
-
-theForm.oldSubmit = theForm.submit;
-theForm.submit = WebForm_SaveScrollPositionSubmit;
-
-theForm.oldOnSubmit = theForm.onsubmit;
-theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
 //]]>
 </script>
 </form>
