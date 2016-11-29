@@ -1,39 +1,27 @@
-> *The following text is extracted and transformed from the alertrank.com privacy policy that was archived on 2009-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090807011249id_/http%3A//www.alertrank.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertrank.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129040245id_/http%3A//www.alertrank.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy :: AlertRank, The Smarter Way to Use Google Alerts to Monitor, Measure and Analyze Blog Buzz
+# Privacy Policy
 
-## Personal Registration Information
+Privacy Policy for http://www.alertrank.com
 
-You will be asked to provide certain personal information, such as your email address and name, when you register an account at the AlertRank.com site. We will not share this personal information with any third parties. 
+Privacy Policy forhttp://www.alertrank.com
 
-## Additional Information
+The privacy of our visitors to http://www.alertrank.com is important to us.
 
-If you contact us by email, we may keep a record of your contact information and correspondence, and may use your email address, and any information that you provide to us in your message, to respond to you.
+At http://www.alertrank.com we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit http://www.alertrank.com, and how we safeguard your information. We never sell your personal information to third parties.
 
-## Use of Cookies
+Log Files
 
-When you visit the AlertRank.com site, we may send one or more cookies to your computer that uniquely identifies your browser, and allows you to log into your account. 
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-## Server Logs and IP Addresses
+Cookies and Web Beacons
 
-Our Web servers record general information about user activity to log files. We use these logs to ensure smooth operation of our servers, and for general website and application maintenance. Our logs may include timestamps, your browser IP address (as it appears to the server), and the blog posts you open. Our detailed server logs will not be shared with any third party. We may, however, publish aggregate statistics on visitor activity from time to time based on log information, such as the number of users served over a specific period of time. We will never publish any personally identifiable information in these analyses.
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-## Business Transfers
+DoubleClick DART cookies
 
-AlertRank.com may sell, transfer or otherwise share some or all of its assets, including your personally identifiable information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. You will have the opportunity to opt out of any such transfer if the new entity's planned processing of your information differs materially from that set forth in this Privacy Policy.
+We also may use DART cookies for ad serving through Googles DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (interest based targeting). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses non personally identifiable information. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting
 
-## Security
+You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-We are very concerned about safeguarding the confidentiality of your personally identifiable information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access.
-
-We will make any legally-required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
-
-## Changes and Updates
-
-This privacy policy may be revised periodically. Please revisit this page to stay aware of any changes. Your continued use of the VibeMetrix.com site constitutes your agreement to this privacy policy and any future revisions.
-
-## Date Last Modified
-
-This Privacy Notice was last modified July 1, 2008.
-
-If you have any questions about our privacy policy please [contact us](https://web.archive.org/contact.html). 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
