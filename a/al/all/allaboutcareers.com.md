@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutcareers.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/about-us%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutcareers.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129105417id_/http%3A//www.allaboutcareers.com/about-us%23privacy) for the most accurate reproduction.*
 
 # About Us | AllAboutCareers
 
@@ -14,9 +14,9 @@
   * [Employers](http://www.allaboutcareers.com/careers/graduate-employers) _(4)_
   * [Advice](http://www.allaboutcareers.com/careers-advice) _(5)_
   * [News](http://www.allaboutcareers.com/features) _(6)_
-  * [More](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/) _(7)_
+  * [More](https://web.archive.org/web/20161129105417id_/http%3A//www.allaboutcareers.com/) _(7)_
   * [Login](http://www.allaboutcareers.com/login) _(8)_
-  * [Search](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/)
+  * [Search](https://web.archive.org/web/20161129105417id_/http%3A//www.allaboutcareers.com/)
   * [Facebook](http://facebook.com/allaboutcareers) [Twitter](http://twitter.com/allaboutcareers) _(9)_
     *     * [Follow](http://twitter.com/allaboutcareers)
   * Get the latest jobs, the best advice and the freshest news. [Sign up](http://www.allaboutcareers.com/register) _(0)_
@@ -257,7 +257,7 @@ A mountain of chicken and mashed potato. A cheeky nap. And then another mountain
 
 ## Privacy policy
 
-This privacy policy sets out how All About Careers Ltd uses and protects any information that you give to All About Careers Ltd when you use any of the All About Careers Ltd group of websites [[AllAboutCareers.com](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/) or [AllAboutLaw.co.uk](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/) or [AllAboutLLMs.com](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/) or [AllAboutSchoolLeavers.co.uk](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/) or [AllAboutFinanceCareers.com](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/) or [MyCareerSpringboard.org](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/)].
+This privacy policy sets out how All About Careers Ltd uses and protects any information that you give to All About Careers Ltd when you use any of the All About Careers Ltd group of websites [[AllAboutCareers.com](https://web.archive.org/web/20161129105417id_/http%3A//www.allaboutcareers.com/) or [AllAboutLaw.co.uk](https://web.archive.org/web/20161129105417id_/http%3A//www.allaboutcareers.com/) or [AllAboutLLMs.com](https://web.archive.org/web/20161129105417id_/http%3A//www.allaboutcareers.com/) or [AllAboutSchoolLeavers.co.uk](https://web.archive.org/web/20161129105417id_/http%3A//www.allaboutcareers.com/) or [AllAboutFinanceCareers.com](https://web.archive.org/web/20161129105417id_/http%3A//www.allaboutcareers.com/) or [MyCareerSpringboard.org](https://web.archive.org/web/20161129105417id_/http%3A//www.allaboutcareers.com/)].
 
 All About Careers Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -306,7 +306,7 @@ Your profile on any of the All About Careers Ltd group of websites will only be 
 
 For all users under the age of 18 the default setting is private.
 
-People aged under the age of 13 are not permitted to register with any of the All About Careers Ltd group of websites [[AllAboutCareers.com](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/) or [AllAboutLaw.co.uk](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/) or [AllAboutLLMs.com](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/) or [AllAboutFinanceCareers.com](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/) or [AllAboutSchoolLeavers.co.uk](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/) or [MyCareerSpringboard.org](https://web.archive.org/web/20160627235428id_/http%3A//www.allaboutcareers.com/)] and should we become aware that any site users under 13 are using the site, we will remove their profile and the personal data that we have collected.
+People aged under the age of 13 are not permitted to register with any of the All About Careers Ltd group of websites [[AllAboutCareers.com](https://web.archive.org/web/20161129105417id_/http%3A//www.allaboutcareers.com/) or [AllAboutLaw.co.uk](https://web.archive.org/web/20161129105417id_/http%3A//www.allaboutcareers.com/) or [AllAboutLLMs.com](https://web.archive.org/web/20161129105417id_/http%3A//www.allaboutcareers.com/) or [AllAboutFinanceCareers.com](https://web.archive.org/web/20161129105417id_/http%3A//www.allaboutcareers.com/) or [AllAboutSchoolLeavers.co.uk](https://web.archive.org/web/20161129105417id_/http%3A//www.allaboutcareers.com/) or [MyCareerSpringboard.org](https://web.archive.org/web/20161129105417id_/http%3A//www.allaboutcareers.com/)] and should we become aware that any site users under 13 are using the site, we will remove their profile and the personal data that we have collected.
 
 Any personal information you choose to share on the site is at your own risk. Minors aged 13–17 should seek advice and permission from their parents or guardians before sharing personal information.
 
