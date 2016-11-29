@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the usatourist.com privacy policy that was archived on 2016-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160610042432id_/http%3A//www.usatourist.com/english/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the usatourist.com privacy policy that was archived on 2016-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161129145515id_/http%3A//www.usatourist.com/english/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1">
     <title>Privacy Policy - USA Travel and Tourism Guide, Tourist Attractions, Destinations</title>
@@ -200,16 +200,612 @@
 
 
               
-<div class="title-1">Air, Hotel &amp; Car</div>
+<div class="title-1">Reservations</div>
 
 
-<div class="MenuItem"><a title="Hotel Reservations" href="/english/reservations/reservations-hotels.html">Hotel Reservations</a></div>
+<div align="center">
+	<br>
+<meta name="viewport" content="width=device-width,maximum-scale=1,initial-scale=1,user-scalable = yes">
 
-<div class="MenuItem"><a title="Car Rentals" href="/english/reservations/reservations-cars.html">Car Rentals</a></div>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript">
+    var searchbox_options = {
+        refid:7714,
+        environment: "prod",
+        hotel:{
+            elements:{
+                autosuggest:".rs_autosuggest",
+                rooms:".rs_rooms",
+                search:".rs_search",
+                chk_in:".rs_chk_in, .rs_date_chk_in",
+                chk_out:".rs_chk_out, .rs_date_chk_out",
+                chk_in_display:".rs_date_chk_in",
+                chk_out_display:".rs_date_chk_out"
+            },
+            calendar:{
+                output_format:"<div class='rs_mobi_chk_day'>[d]</div><div class='rs_mobi_chk_month'>[F]</div>",
+            },
+            select_name:true
+        },
+        car:{
+            elements:{
+                from:".rs_pickup",
+                to:".rs_dropoff",
+                chk_in:".rs_chk_in, .rs_date_chk_in",
+                chk_out:".rs_chk_out, .rs_date_chk_out",
+                chk_in_display:".rs_date_chk_in",
+                chk_out_display:".rs_date_chk_out",
+                search:".rs_search"
+            },
+            calendar:{
+                output_format:"<div class='rs_mobi_chk_day'>[d]</div><div class='rs_mobi_chk_month'>[F]</div>",
+            }
+        },
+        air: {
+            elements: {
+                adults : '.rs_adults_input',
+                children : '.rs_child_input',
+                chk_in: '.rs_chk_in, .rs_mobi_in',
+                chk_out: '.rs_chk_out, .rs_mobi_out',
+                chk_in_display: '.rs_mobiin',
+                chk_in1_display: '.rs_mobi1',
+                chk_in2_display: '.rs_mobi2',
+                chk_in3_display: '.rs_mobi3',
+                chk_in4_display: '.rs_mobi4',
+                chk_in5_display: '.rs_mobi5',
+                chk_out_display: '.rs_mobiout',
+                search:".rs_search"
+            },
+            calendar: {
+                output_format: '<div class="rs_mobi_chk_day">[d]</div><div class="rs_mobi_chk_month">[F]</div>',
+            },
+            select_name:true
+        },
+        vp:{
+            elements: {
+                chk_in:".rs_chk_in, .rs_chk_in_calendar, .rs_date_chk_in",
+                chk_out:".rs_chk_out, .rs_chk_out_calendar, .rs_date_chk_out",
+                chk_in_display:".rs_date_chk_in",
+                chk_out_display:".rs_date_chk_out",
+                search:".rs_search"
+            },
+            calendar: {
+                output_format: '<div class="rs_mobi_chk_day">[d]</div><div class="rs_mobi_chk_month">[F]</div>',
+            },
+            select_name:true
+        }
+    };
+    function showMulti(num){
+        var next= num+1;
+        $('.rem_flight'+num).hide();
+        $('.add_flight'+num).hide();
+        $('.air_flight_'+next).slideDown();
+    }
+    function hideMulti(num){
+        var prev= num-1;
+        $('.air_flight_'+num).slideUp();
+        $('.rem_flight'+prev).show();
+        $('.add_flight'+prev).show();
+    }
+    $(document).ready(function() {
+        $('#rs_multi_search').searchbox(searchbox_options);
 
-<div class="MenuItem"><a title="Airline Tickets" href="/english/reservations/reservations-flights.html">Airline Tickets</a></div>
+        if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+
+            $("<link/>", {
+               rel: "stylesheet",
+               type: "text/css",
+               href: "http://images.usatourist.com/css/PPN_css/css/mobile_search.css"
+            }).appendTo("head");
+        }
+
+        $('#different_return').click(function(){
+             $(".rs_droppff_div").toggle();
+             $('.rs_pickup_div').toggleClass('rs_car_half');
+             $('.rs_droppff_div').toggleClass('rs_car_half');
+        });
+        $('.round-trip').click(function(){
+            $('#air_round_trip').show();
+            $('#air_one_way').hide();
+            $('#air_multi_dest').hide();
+        });
+
+        $('.one-way').click(function(){
+            $('#air_round_trip').hide();
+            $('#air_one_way').show();
+            $('#air_multi_dest').hide();
+        });
+
+        $('.multi-city').click(function(){
+            $('#air_round_trip').hide();
+            $('#air_one_way').hide();
+            $('#air_multi_dest').show();
+        });
+
+        var $icons = $('.rs_tabs');
+            $icons.click(function(){
+               $icons.removeClass('highlight_tab');
+               $(this).addClass('highlight_tab');
+        });
+        var $air_options = $('.rs_air_option');
+            $air_options.click(function(){
+            $air_options.removeClass('rs_air_highlight');
+            $(this).addClass('rs_air_highlight');
+        });
+
+    });
+</script>
+<link rel="stylesheet" type="text/css" href="http://images.usatourist.com/css/PPN_css/rs_searchbox.css">
+<link rel="stylesheet" type="text/css" href="http://images.usatourist.com/css/PPN_css/rs_calendar_style.css">
+<script type="text/javascript" src="http://secure.rezserver.com/public/js/searchbox/searchbox.min.js"></script>
 
 
+
+
+<div class="searchWrapper" id="sideWrapper">
+    <div id="rs_multi_search" class="rs_searchbox">
+        <ul class="rs_products">
+            <li class="rs_tabs highlight_tab" id="rs_hotel_tab" data-tab="rs_hotel_form"><div class="rs_product_icon" id="iconHotel"></div>Hotels</li>
+            <li class="rs_tabs" id="rs_air_tab" data-tab="rs_air_form"><div class="rs_product_icon" id="iconAir"></div>Flights</li>
+            <li class="rs_tabs" id="rs_vp_tab" data-tab="rs_vp_form"><div class="rs_product_icon" id="iconVP"></div>Vacations</li>
+            <li class="rs_tabs last_tab" id="rs_car_tab" data-tab="rs_car_form"><div class="rs_product_icon" id="iconCar"></div>Rental Cars</li>
+            <div class="clear"></div>
+        </ul>
+        <form name="hotel" class="rs_hotel_form">
+            <div class="rs_form_row rs_autosuggest_row">
+                <input name="query" class="rs_autosuggest" type="text" title="Enter a City or Airport" autocomplete="off" value="Enter a City or Airport">
+                <div class="rs_suggest"></div>
+            </div>
+            <div class="rs_form_row rs_date rs_chk_in_row">
+                <div class="rs_date_input_container">
+                    <input name="check_in" class="rs_chk_in" title="Enter your check in date." type="text" autocomplete="off" value="Check in" readonly="readonly">
+                </div>
+            </div>
+            <div class="rs_form_row rs_date rs_chk_out_row">
+                <div class="rs_date_input_container">
+                    <input name="check_out" class="rs_chk_out" type="text" title="Enter your check out date." autocomplete="off" value="Check out" readonly="readonly">
+                </div>
+            </div>
+            <div class="rs_mobi">
+                <div class="rs_mobi_date_container rs_mobi_in">
+                    <div class="rs_mobi_title">Check in</div>
+                    <div class="rs_date_chk_in">
+                        <div class="rs_mobi_chk_day">Day</div>
+                        <div class="rs_mobi_chk_month">Month</div>
+                    </div>
+                </div>
+                <div class="rs_mobi_date_container rs_mobi_out">
+                    <div class="rs_mobi_title">Check out</div>
+                    <div class="rs_date_chk_out">
+                        <div class="rs_mobi_chk_day">Day</div>
+                        <div class="rs_mobi_chk_month">Month</div>
+                    </div>
+                </div>
+            </div>
+            <div class="rs_form_row rs_rooms_row">
+                <select class="rs_rooms" name="rooms" title="Number of Rooms"></select>
+            </div>
+            <div class="rs_form_row rs_guest_row">
+                <select name="adults" class="rs_select_box js_guest_select"></select>
+            </div>
+            <div class="rs_button_row">
+                <button type="submit" class="rs_search" title="Search">Search</button>
+            </div>
+            <div class="clear"></div>
+        </form>
+        <form name="vp" class="vp rs_vp_form rs_searchbox_hide">
+            <div class="rs_form_row rs_origin_row">
+                <input name="rs_o_city" class="from rs_autosuggest rs_from" value="Enter a City or Airport" autocomplete="off">
+            </div>
+            <div class="rs_form_row rs_destination_row">
+                <input name="rs_d_city" class="to rs_autosuggest rs_to" value="Enter a City or Airport" autocomplete="off">
+            </div>
+            <div class="rs_mobi">
+                <div class="rs_mobi_date_container rs_mobi_in">
+                    <div class="rs_mobi_title">Check in</div>
+                    <div class="rs_date_chk_in">
+                        <div class="rs_mobi_chk_day">Day</div>
+                        <div class="rs_mobi_chk_month">Month</div>
+                    </div>
+                </div>
+                <div class="rs_mobi_date_container rs_mobi_out">
+                    <div class="rs_mobi_title">Check out</div>
+                    <div class="rs_date_chk_out">
+                        <div class="rs_mobi_chk_day">Day</div>
+                        <div class="rs_mobi_chk_month">Month</div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+
+            <div class="rs_form_row rs_date rs_chk_in_row">
+                <div class="rs_date_input_container">
+                    <input name="rs_chk_in" class="rs_chk_in" value="Check in">
+                </div>
+            </div>
+            <div class="rs_form_row rs_date rs_chk_out_row rs_no_margin">
+                <div class="rs_date_input_container">
+                    <input name="rs_chk_out" class="rs_chk_out" value="Check out">
+                </div>
+            </div>
+            <div class="rs_form_row rs_rooms_row">
+                <select name="rs_adults" class="rs_adults_input pax">
+                </select>
+            </div>
+            <div class="rs_form_row rs_rooms_row">
+                <select name="rs_children" class="rs_child_input pax">
+                </select>
+            </div>
+            <div class="rs_form_row rs_rooms_row rs_no_margin">
+                <select class="rooms" name="rs_rooms">
+                </select>
+            </div>
+            <div class="rs_button_row">
+                <button type="submit" class="rs_search">Search</button>
+            </div>
+            <div class="clear"></div>
+            <div id="childrens_ages"></div>
+            <div class="rs_chk_in_display"></div>
+            <div class="rs_chk_out_display"></div>
+        </form>
+        <form name="car" class="rs_car_form rs_searchbox_hide">
+            <div class="rs_form_row rs_pickup_div">
+                <input class="rs_pickup rs_autosuggest" name="rs_pu_city" autocomplete="off" value="Enter a City or Airport">
+            </div>
+
+            <div class="rs_form_row rs_droppff_div rs_no_margin">
+                <input class="rs_dropoff rs_autosuggest" name="rs_do_city" autocomplete="off" value="Enter a City or Airport">
+            </div>
+            <div class="rs_form_row rs_different_location">
+                <input type="checkbox" name="different_return" id="different_return">
+                <label for="different_return">Different location?</label>
+            </div>
+            <div class="rs_mobi">
+                <div class="rs_mobi_date_container rs_mobi_in">
+                    <div class="rs_mobi_title">Pick up</div>
+                    <div class="rs_date_chk_in">
+                        <div class="rs_mobi_chk_day">Day</div>
+                        <div class="rs_mobi_chk_month">Month</div>
+                    </div>
+                </div>
+
+                <div class="rs_mobi_date_container rs_mobi_out">
+                    <div class="rs_mobi_title">Drop off</div>
+                    <div class="rs_date_chk_out">
+                        <div class="rs_mobi_chk_day">Day</div>
+                        <div class="rs_mobi_chk_month">Month</div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="rs_form_row rs_date rs_chk_in_row">
+                <div class="rs_date_input_container">
+                    <input name="rs_pu_date" class="rs_chk_in rs_border_radius" value="Pick up" readonly="readonly">
+                </div>
+            </div>
+            <div class="rs_form_row rs_rooms_row rs_time_in_row">
+                <select name="rs_pu_time" class="rs_time_in rs_time"></select>
+            </div>
+            <div class="rs_form_row rs_date rs_chk_in_row">
+                <div class="rs_date_input_container">
+                    <input name="rs_do_date" class="rs_chk_out" value="Drop off" readonly="readonly">
+                </div>
+            </div>
+            <div class="rs_form_row rs_rooms_row rs_time_out_row rs_no_margin">
+                <select name="rs_do_time" class="rs_time_out rs_time"></select>
+            </div>
+            <div class="rs_chk_in_display"></div>
+            <div class="rs_chk_out_display"></div>
+            <div class="rs_button_row">
+                <button type="submit" class="rs_search">Search</button>
+            </div>
+            <div class="clear"></div>
+        </form>
+        <form name="air" class="air rs_air_form rs_searchbox_hide">
+            <div class="rs_air_options">
+                <span class="rs_air_option rs_air_highlight"><input type="radio" class="round-trip" name="air-radio" id="round-trip" checked=""><label for="round-trip">Round Trip</label></span>
+                <span class="rs_air_option"><input type="radio" class="one-way" name="air-radio" id="one-way"><label for="one-way">One Way</label></span>
+                <span class="rs_air_option"><input type="radio" class="multi-city" name="air-radio" id="multi-city"><label for="multi-city">Multi City</label></span>
+            </div>
+            <div class="clear"></div>
+            <div id="air_round_trip">
+                <div class="rs_form_row rs_origin_row">
+                    <input name="rs_o_city" class="from autosuggest rs_from" value="Enter a City or Airport" onclick="$(this).val(&quot;&quot;);" autocomplete="off">
+                </div>
+                <div class="rs_form_row rs_destination_row">
+                    <input name="rs_d_city" class="to autosuggest rs_to" value="Enter a City or Airport" onclick="$(this).val(&quot;&quot;);" autocomplete="off">
+                </div>
+                <div class="rs_mobi">
+                    <div class="rs_mobi_date_container rs_mobi_in">
+                        <div class="rs_mobi_title">Depart</div>
+                        <div class="rs_date_chk_in rs_mobiin">
+                            <div class="rs_mobi_chk_day">Day</div>
+                            <div class="rs_mobi_chk_month">Month</div>
+                        </div>
+                    </div>
+                    <div class="rs_mobi_date_container rs_mobi_out">
+                        <div class="rs_mobi_title">Return</div>
+                        <div class="rs_date_chk_out rs_mobiout">
+                            <div class="rs_mobi_chk_day">Day</div>
+                            <div class="rs_mobi_chk_month">Month</div>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+
+                <div class="rs_form_row rs_date rs_chk_in_row">
+                    <div class="rs_date_input_container">
+                        <input name="rs_chk_in" class="rs_chk_in" value="Depart" readonly="readonly">
+                    </div>
+                </div>
+                <div class="rs_form_row rs_date rs_check_out_row rs_no_margin">
+                    <div class="rs_date_input_container">
+                        <input name="rs_chk_out" class="rs_chk_out" value="Return" readonly="readonly">
+                    </div>
+                </div>
+                <div class="rs_form_row rs_rooms_row">
+                    <select name="rs_adults" class="rs_adults_input pax">
+                    </select>
+                </div>
+                <div class="rs_form_row rs_rooms_row">
+                    <select name="rs_children" class="rs_child_input pax">
+                    </select>
+                </div>
+                <div class="rs_form_row rs_rooms_row rs_no_margin">
+                    <select name="cabin_class" class="rs_select_skin_activated rs_select_box rs_cabin_box">
+                        <option selected="" value="">Cabin Class</option>
+                        <option value="economy">Economy/Coach</option>
+                        <option value="premium">Premium Economy</option>
+                        <option value="business">Business</option>
+                        <option value="first">First</option>
+                    </select>
+                </div>
+                <div class="rs_button_row">
+                    <button type="submit" class="rs_search">Search</button>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div id="air_one_way">
+                <div class="rs_form_row rs_origin_row">
+                    <input name="rs_o_city1" class="from autosuggest rs_from" value="Enter a City or Airport" onclick="$(this).val(&quot;&quot;);" autocomplete="off">
+                </div>
+                <div class="rs_form_row rs_destination_row">
+                    <input name="rs_d_city1" class="to autosuggest rs_to" value="Enter a City or Airport" onclick="$(this).val(&quot;&quot;);" autocomplete="off">
+                </div>
+                <div class="rs_mobi">
+                    <div class="rs_mobi_date_container rs_mobi_in">
+                        <div class="rs_mobi_title">Depart</div>
+                        <div class="rs_date_chk_in rs_mobi1">
+                            <div class="rs_mobi_chk_day">Day</div>
+                            <div class="rs_mobi_chk_month">Month</div>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                <div class="rs_form_row rs_date rs_chk_in_row">
+                    <div class="rs_date_input_container">
+                        <input name="rs_chk_in1" class="rs_chk_in" value="Depart" readonly="readonly">
+                    </div>
+                </div>
+                <div class="clear"></div>
+                <div class="rs_form_row rs_rooms_row">
+                    <select name="rs_adults" class="rs_adults_input pax">
+                    </select>
+                </div>
+                <div class="rs_form_row rs_rooms_row">
+                    <select name="rs_children" class="rs_child_input pax">
+                    </select>
+                </div>
+                <div class="rs_form_row rs_rooms_row rs_no_margin">
+                    <select name="cabin_class" class="rs_select_skin_activated rs_select_box rs_cabin_box">
+                        <option selected="" value="">Cabin Class</option>
+                        <option value="economy">Economy/Coach</option>
+                        <option value="premium">Premium Economy</option>
+                        <option value="business">Business</option>
+                        <option value="first">First</option>
+                    </select>
+                </div>
+                <div class="rs_button_row">
+                    <button type="submit" class="rs_search">Search</button>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div id="air_multi_dest">
+                <div class="air_multi_seperator">
+                    <h3>Flight 1</h3>
+                    <div class="rs_form_row rs_origin_row">
+                        <input name="rs_o_city1" class="from autosuggest rs_from" value="Enter a City or Airport" onclick="$(this).val(&quot;&quot;);" autocomplete="off">
+                    </div>
+                    <div class="rs_form_row rs_destination_row">
+                        <input name="rs_d_city1" class="to autosuggest rs_to" value="Enter a City or Airport" onclick="$(this).val(&quot;&quot;);" autocomplete="off">
+                    </div>
+                    <div class="rs_mobi">
+                        <div class="rs_mobi_date_container rs_mobi_in">
+                            <div class="rs_mobi_title">Depart</div>
+                            <div class="rs_date_chk_in rs_mobi1">
+                                <div class="rs_mobi_chk_day">Day</div>
+                                <div class="rs_mobi_chk_month">Month</div>
+                            </div>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="rs_form_row rs_date rs_chk_in_row">
+                        <div class="rs_date_input_container">
+                            <input name="rs_chk_in1" class="rs_chk_in" value="Depart" readonly="readonly">
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                <div class="clear"></div>
+                <div class="air_multi_seperator">
+                    <h3>Flight 2</h3>
+                    <div class="rs_form_row rs_origin_row">
+                        <input name="rs_o_city2" class="from autosuggest rs_from" value="Enter a City or Airport" onclick="$(this).val(&quot;&quot;);" autocomplete="off">
+                    </div>
+
+                    <div class="rs_form_row rs_destination_row">
+                        <input name="rs_d_city2" class="to autosuggest rs_to" value="Enter a City or Airport" onclick="$(this).val(&quot;&quot;);" autocomplete="off">
+                    </div>
+
+                    <div class="rs_mobi">
+                        <div class="rs_mobi_date_container rs_mobi_in">
+                            <div class="rs_mobi_title">Depart</div>
+                            <div class="rs_date_chk_in rs_mobi2">
+                                <div class="rs_mobi_chk_day">Day</div>
+                                <div class="rs_mobi_chk_month">Month</div>
+                            </div>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+
+                    <div class="rs_form_row rs_date rs_chk_in_row">
+                        <div class="rs_date_input_container">
+                            <input name="rs_chk_in2" class="rs_chk_in" value="Depart" readonly="readonly">
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                    <div class="rs_form_row">
+                        <span class="add_rem_flight add_flight2" onclick="showMulti(2)">+</span>
+                    </div>
+
+                </div>
+
+                <div class="air_multi_seperator air_flight_3">
+                    <h3>Flight 3</h3>
+                    <div class="rs_form_row rs_origin_row">
+                        <input name="rs_o_city3" class="from autosuggest rs_from" value="Enter a City or Airport" onclick="$(this).val(&quot;&quot;);" autocomplete="off">
+                    </div>
+
+                    <div class="rs_form_row rs_destination_row">
+                        <input name="rs_d_city3" class="to autosuggest rs_to" value="Enter a City or Airport" onclick="$(this).val(&quot;&quot;);" autocomplete="off">
+                    </div>
+
+                    <div class="rs_mobi">
+                        <div class="rs_mobi_date_container rs_mobi_in">
+                            <div class="rs_mobi_title">Depart</div>
+                            <div class="rs_date_chk_in rs_mobi3">
+                                <div class="rs_mobi_chk_day">Day</div>
+                                <div class="rs_mobi_chk_month">Month</div>
+                            </div>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="rs_form_row rs_date rs_chk_in_row">
+                        <div class="rs_date_input_container">
+                            <input name="rs_chk_in3" class="rs_chk_in" value="Depart" readonly="readonly">
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                    <div class="rs_form_row">
+                    <span class="add_rem_flight rem_flight3" onclick="hideMulti(3)">-</span>
+                    <span class="add_rem_flight add_flight3" onclick="showMulti(3)">+</span>
+                    </div>
+
+                </div>
+                <div class="rs_chk_in3_display"></div>
+                <div class="air_multi_seperator air_flight_4">
+                    <h3>Flight 4</h3>
+                    <div class="rs_form_row rs_origin_row">
+                        <input name="rs_o_city4" class="from autosuggest rs_from" value="Enter a City or Airport" onclick="$(this).val(&quot;&quot;);" autocomplete="off">
+                    </div>
+
+                    <div class="rs_form_row rs_destination_row">
+                        <input name="rs_d_city4" class="to autosuggest rs_to" value="Enter a City or Airport" onclick="$(this).val(&quot;&quot;);" autocomplete="off">
+                    </div>
+
+                    <div class="rs_mobi">
+                        <div class="rs_mobi_date_container rs_mobi_in">
+                            <div class="rs_mobi_title">Depart</div>
+                            <div class="rs_date_chk_in rs_mobi4">
+                                <div class="rs_mobi_chk_day">Day</div>
+                                <div class="rs_mobi_chk_month">Month</div>
+                            </div>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="rs_form_row rs_date rs_chk_in_row">
+                        <div class="rs_date_input_container">
+                            <input name="rs_chk_in4" class="rs_chk_in" value="Depart" readonly="readonly">
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                    <div class="rs_form_row">
+                        <span class="add_rem_flight rem_flight4" onclick="hideMulti(4)">-</span>
+                        <span class="add_rem_flight add_flight4" onclick="showMulti(4)">+</span>
+                    </div>
+
+                </div>
+
+                <div class="air_multi_seperator air_flight_5">
+                    <h3>Flight 5</h3>
+                    <div class="rs_form_row rs_origin_row">
+                        <input name="rs_o_city5" class="from autosuggest rs_from" value="Enter a City or Airport" onclick="$(this).val(&quot;&quot;);" autocomplete="off">
+                    </div>
+
+                    <div class="rs_form_row rs_destination_row">
+                        <input name="rs_d_city5" class="to autosuggest rs_to" value="Enter a City or Airport" onclick="$(this).val(&quot;&quot;);" autocomplete="off">
+                    </div>
+
+                    <div class="rs_mobi">
+                        <div class="rs_mobi_date_container rs_mobi_in">
+                            <div class="rs_mobi_title">Check-in</div>
+                            <div class="rs_date_chk_in rs_mobi5">
+                                <div class="rs_mobi_chk_day">Day</div>
+                                <div class="rs_mobi_chk_month">Month</div>
+                            </div>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="rs_form_row rs_date rs_chk_in_row">
+                        <div class="rs_date_input_container">
+                            <input name="rs_chk_in5" class="rs_chk_in" value="Depart" readonly="readonly">
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                    <div class="rs_form_row">
+                        <span class="add_rem_flight rem_flight5" onclick="hideMulti(5)">-</span>
+                    </div>
+
+                </div>
+                <div class="rs_form_row rs_rooms_row">
+                    <select name="rs_adults" class="rs_adults_input pax"></select>
+                </div>
+                <div class="rs_form_row rs_rooms_row">
+                    <select name="rs_children" class="rs_child_input pax"></select>
+                </div>
+                <div class="rs_form_row rs_rooms_row rs_no_margin">
+                    <select name="cabin_class" class="rs_select_skin_activated rs_select_box rs_cabin_box">
+                        <option selected="" value="">Cabin Class</option>
+                        <option value="economy">Economy/Coach</option>
+                        <option value="premium">Premium Economy</option>
+                        <option value="business">Business</option>
+                        <option value="first">First</option>
+                    </select>
+                </div>
+                <div class="rs_button_row">
+                        <button type="submit" class="rs_search">Search</button>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+    $(".rs_tabs").on("click", function(){
+        var futureTab = $(this).data("tab"),
+            $selectedForm = $("."+futureTab);
+        if ($selectedForm.hasClass("rs_searchbox_hide")) {
+            $selectedForm.removeClass('rs_searchbox_hide').siblings("form").addClass("rs_searchbox_hide");
+        }
+    });
+
+});
+</script>
+
+
+</div>
               
 
             </td>
@@ -259,6 +855,8 @@
     
     
     
+
+    
     
   
   </span>
@@ -285,7 +883,7 @@
       <a href="/english/advertise.html" title="Advertising Info">Advertising Info</a>
     
     <br><br>
-    <p>Copyright © 1998-2014 USATourist.com, LLC ®<br>All Rights Reserved</p>
+    <p>Copyright © 1998-2016 USATourist.com, LLC ®<br>All Rights Reserved</p>
   </div>
   
 
@@ -311,7 +909,7 @@
 
 <div id="footerAD">
   
-    <a href="http://www.usatouristdiscounts.com/usatourist/" rel="nofollow" target="outside"><img title="2012 Discounts Leaderboard" border="0" alt="USAtourist's 2013 Hotel and Car Rental Discounts.  Save up to 30% instantly." vspace="10" src="http://images.usatourist.com/uploadedImages/Web_Content/Advertisements/USATourist_Discounts/LB-Generic2012(1).jpg" width="728" height="90"></a>
+    <a href="http://www.usatouristdiscounts.com/usatourist/" rel="nofollow" target="outside"><img title="2012 Discounts Leaderboard" border="0" alt="USAtourist's Hotel and Car Rental Discounts.  Save up to 30% instantly." vspace="10" src="http://images.usatourist.com/uploadedImages/Web_Content/Advertisements/USATourist_Discounts/LB-Generic2012(1).jpg" width="728" height="90"></a>
   
 </div>
 </div>
