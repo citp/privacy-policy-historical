@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laneige.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514102756id_/http%3A//www.laneige.com/us/en/regulation/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laneige.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129204123id_/http%3A//www.laneige.com/us/en/regulation/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy : LANEIGE
 
