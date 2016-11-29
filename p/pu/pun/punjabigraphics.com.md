@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punjabigraphics.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603204238id_/http%3A//www.punjabigraphics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punjabigraphics.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129223327id_/http%3A//www.punjabigraphics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PunjabiGraphics.com
 
