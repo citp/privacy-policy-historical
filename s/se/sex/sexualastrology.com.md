@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexualastrology.com privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306041312id_/http%3A//www.sexualastrology.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexualastrology.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129130641id_/http%3A//www.sexualastrology.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Sexual Astrology - Privacy Statement
 
@@ -26,7 +26,7 @@ Google AdSense Cookie:
 This website uses cookies to personalize ads. (Google AdSense) For more information on Google AdSense go to Google's Ads Preference Manager available here: <http://www.google.com/ads/preferences/>. 
 
 You may opt-out of the Google Adsense partner network cookie at:   
-<http://www.google.com/privacy_ads.html>. 
+<https://www.google.com/settings/ads/plugin>. 
 
 However, the opt-out option utilizes a cookie. If you clear your browsers cookies you opt-out cookie will be deleted as well and not maintained. In order to resolve this visit Google browser plug-in at: <http://www.google.com/ads/preferences/plugin>
 
@@ -56,4 +56,4 @@ SexualAstrology.com may store and disclose personal information as allowed or re
 
 **Tell us what you think.**
 
-Our goal is to respect your privacy. To help us improve our privacy policies, please give us your [ feedback](https://web.archive.org/web/20160306041312id_/http%3A//www.sexualastrology.com/contact.html). We welcome your comments and questions. 
+Our goal is to respect your privacy. To help us improve our privacy policies, please give us your [ feedback](https://web.archive.org/web/20161129130641id_/http%3A//www.sexualastrology.com/contact.html). We welcome your comments and questions. 
