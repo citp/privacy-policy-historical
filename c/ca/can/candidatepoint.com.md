@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candidatepoint.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530143411id_/http%3A//candidatepoint.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candidatepoint.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129032930id_/http%3A//candidatepoint.com/privacy.php) for the most accurate reproduction.*
 
 # CandidatePoint | Privacy Policy
 
