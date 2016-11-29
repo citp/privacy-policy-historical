@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sisigames.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321201636id_/http%3A//www.sisigames.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sisigames.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129092714id_/http%3A//www.sisigames.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
