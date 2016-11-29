@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sputniknews.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617004238id_/http%3A//sputniknews.com/docs/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sputniknews.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129220558id_/https%3A//sputniknews.com/docs/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Sputnik International
 
