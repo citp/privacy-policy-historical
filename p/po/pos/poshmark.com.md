@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poshmark.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505170432id_/https%3A//poshmark.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poshmark.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129224544id_/https%3A//poshmark.com/privacy) for the most accurate reproduction.*
 
 # Poshmark
 
