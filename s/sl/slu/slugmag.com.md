@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slugmag.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411061445id_/http%3A//www.slugmag.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slugmag.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129011729id_/http%3A//www.slugmag.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy – SLUG Magazine
 
