@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geebo.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408105436id_/http%3A//geebo.com/pages/view/id/2-privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geebo.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129200243id_/https%3A//geebo.com/pages/view/id/2-privacy-policy-) for the most accurate reproduction.*
 
-# Online Classifieds Housing, Employment, Vehicles, Rentals, Roommates, Resumes, Construction Equipment, Farm Equipment
+# Privacy Policy at Geebo
 
 ### Privacy Policy
 
