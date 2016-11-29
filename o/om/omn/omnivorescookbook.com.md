@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omnivorescookbook.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601125127id_/http%3A//omnivorescookbook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnivorescookbook.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129020842id_/http%3A//omnivorescookbook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Omnivore's Cookbook
 
