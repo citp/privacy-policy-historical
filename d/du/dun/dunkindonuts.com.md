@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunkindonuts.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504131909id_/http%3A//www.dunkindonuts.com/content/dunkindonuts/en/help/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunkindonuts.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129113051id_/https%3A//www.dunkindonuts.com/dunkindonuts/en/help/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Dunkin' Donuts
 
@@ -84,7 +84,7 @@ Your privacy is very important to us.  We generally won’t disclose your Perso
 
 
   
-We may disclose your Personal Information to third-party service providers to provide us with services such as website hosting, professional services, including information technology services and related infrastructure, customer service, e-mail delivery, auditing and other similar services.   
+We may disclose your Personal Information to third-party service providers to provide us with services such as website hosting, professional services, including information technology services and related infrastructure, customer service, e-mail delivery, auditing and other similar services.  
 
 
   
@@ -92,7 +92,7 @@ We may disclose your Personal Information to third-party service providers to pr
 
 
   
-We may disclose personal Information to our affiliates (“Affiliates”) for the purposes described in this Privacy Policy, including for marketing purposes, and to be consistent with our goal of providing our consumers with the superior product and consumer experience that our customers have come to expect from us around the globe.  Affiliates are those companies that are under common control of our parent company Dunkin’ Brands, Inc.   
+We may disclose personal Information to our affiliates (“Affiliates”) for the purposes described in this Privacy Policy, including for marketing purposes, and to be consistent with our goal of providing our consumers with the superior product and consumer experience that our customers have come to expect from us around the globe.  Affiliates are those companies that are under common control of our parent company Dunkin’ Brands, Inc.  
 
 
   
@@ -100,7 +100,7 @@ We may disclose personal Information to our affiliates (“Affiliates”) for th
 
 
   
-We may disclose your Personal Information to third parties in order to perform services you request or functions you initiate, such as when you post information and materials on message boards and forums, including on our Facebook Page.   When you post information in a public forum it becomes public information.  In addition, we may disclose your Personal Information in order to identify you to anyone to whom you send communications through the DD Online Services, including through our gifting program.   
+We may disclose your Personal Information to third parties in order to perform services you request or functions you initiate, such as when you post information and materials on message boards and forums, including on our Facebook Page.   When you post information in a public forum it becomes public information.  In addition, we may disclose your Personal Information in order to identify you to anyone to whom you send communications through the DD Online Services, including through our gifting program.  
 
 
   
@@ -108,7 +108,7 @@ We may disclose your Personal Information to third parties in order to perform s
 
 
   
-We may disclose your information to a third party in connection with a corporate reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock, including in connection with any bankruptcy or similar proceedings.   
+We may disclose your information to a third party in connection with a corporate reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock, including in connection with any bankruptcy or similar proceedings.  
 
 
   
@@ -124,7 +124,7 @@ Franchise Applications**
 
 
   
-Finally, we may disclose the personal information you submit on a franchise application to our business units, agents, parent company, Affiliates and to third parties as part of our consideration of that application and to help conduct our franchise marketing efforts.  We require our agents to respect our privacy practices and not use your personal information for purposes other than to carry out our instructions.   
+Finally, we may disclose the personal information you submit on a franchise application to our business units, agents, parent company, Affiliates and to third parties as part of our consideration of that application and to help conduct our franchise marketing efforts.  We require our agents to respect our privacy practices and not use your personal information for purposes other than to carry out our instructions.  
 
 
 **4.      _How We May Use And Disclose Other Information We Collect_**  
@@ -135,17 +135,17 @@ Similarly, we generally use Other Information for any purpose not prohibited by 
 
 
   
-Where we combine Other Information with Personal Information in a way that can identify you or be used to identify you personally, we will treat that information as Personal Information, subject to the provisions of this Privacy Policy.    
+Where we combine Other Information with Personal Information in a way that can identify you or be used to identify you personally, we will treat that information as Personal Information, subject to the provisions of this Privacy Policy.   
 
 
 **5.      _How To Manage Your Account Information_**  
 
 
   
-You can visit the account section of the DD Online Services website to manage and correct any factual inaccuracies in the information we have on file about you.   
+You can visit the account section of the DD Online Services website to manage and correct any factual inaccuracies in the information we have on file about you.  
 
 
-**6.     _How We Protect Your Personal Information_**  
+**6.      _How We Protect Your Personal Information_**  
 
 
   
@@ -154,14 +154,14 @@ With respect to payment card information and other Personal Information collecte
 
 
   
-Unfortunately, no system or online transmission of data can be guaranteed to be 100% secure and you should always take appropriate security measures to protect your Personal Information, including ensuring that you have up-to-date antivirus software.  If you believe that your Dunkin’ Donuts account or any information you provided to us is no longer secure, please notify us immediately through the Contact Us information provided below.    
+Unfortunately, no system or online transmission of data can be guaranteed to be 100% secure and you should always take appropriate security measures to protect your Personal Information, including ensuring that you have up-to-date antivirus software.  If you believe that your Dunkin’ Donuts account or any information you provided to us is no longer secure, please notify us immediately through the Contact Us information provided below.   
 
 
 **7.   _Our Policy on Cookies, Interest-Based Advertising and “Do Not Track”  _**  
 ** **  
 What Are Cookies?
 
-Cookies are small text files placed in your computer browser directories to store your information about your use of the DD Online Services and your activities online (collectively, “Cookies”).  A Cookie will typically contain the name of the domain (internet location) from which the Cookie has come, the “lifetime” of the Cookie (i.e. when does it expire), and a value, usually a randomly generated unique number.  To find out more about Cookies, including how to see what Cookies have been set on your device and how to manage and delete them, visit **_[www.allaboutcookies.org](http://www.allaboutcookies.org/)_**.
+Cookies are small text files placed in your computer browser directories to store your information about your use of the DD Online Services and your activities online (collectively, “Cookies”).  A Cookie will typically contain the name of the domain (internet location) from which the Cookie has come, the “lifetime” of the Cookie (i.e. when does it expire), and a value, usually a randomly generated unique number.  To find out more about Cookies, including how to see what Cookies have been set on your device and how to manage and delete them, visit  ** _[www.allaboutcookies.org](http://www.allaboutcookies.org/)_**.
 
 How We Use Cookies
 
@@ -183,14 +183,12 @@ We support the Self-Regulatory Principles for Online Behavioral Advertising of t
 
 Opting Out of Interest-Based Advertisements
 
-If you want to “opt out” of receiving online interest-based advertisements, please follow the instructions at [www.aboutads.info/choices](http://www.aboutads.info/choices), or  <http://www.networkadvertising.org/choices/>.  An “opt-out” Cookie will be placed on your device indicating that you do not want to receive interest-based advertisements.  If you delete Cookies on your device generally, you will need to opt-out again. 
+If you want to “opt out” of receiving online interest-based advertisements, please follow the instructions at [www.aboutads.info/choices](http://www.aboutads.info/choices), or  <http://www.networkadvertising.org/choices/>.  An “opt-out” Cookie will be placed on your device indicating that you do not want to receive interest-based advertisements.  If you delete Cookies on your device generally, you will need to opt-out again. 
 
  Please note that when you “opt-out” of receiving interest-based advertisements, this does not mean you will no longer see advertisements from us or on the DD Online Services.  It means that the online ads that you do see will not be based on your particular interests. 
 
 In addition, please note that certain third parties that we do not control may use Data Collection Technologies on the DD Online Services.  When you “opt-out” of receiving interest-based advertisements through one of the links above, these Data Collection Technologies may still collect information about your use of the DD Online Services, including for analytics and fraud prevention as well as any other purpose permitted under the Principles.  When we use the term “Data Collection Technologies” we are referring to any technology that collects information about your use of the DD Online Services and potentially about your activities when you leave the Services and visit other sites on the Internet.   
 
-
-**8.      _Social Networking And Third Party Sites_**
 
   
 When you link to the DD Online Services through any social networking or third party sites, applications or services, please remember that you are bound by the privacy policy of the social network or third-party site, application or service, and we do not control and are not responsible for the privacy practices of such sites. You should consult the privacy policy of such sites to determine the information practices of those sites.  
@@ -206,7 +204,7 @@ Dunkin’ Donuts recognizes the importance of protecting the privacy of children
   
 If a child under the age of thirteen (13) has provided us with personally identifiable information through the DD Online Services, we ask that a parent or guardian e-mail us at customerservice@dunkinbrands.com, and we will delete the child’s information from our records.
 
-**10.    _  International_**  
+**10.     _  International_**  
 
 
   
@@ -214,7 +212,7 @@ This English-language Privacy Policy is Dunkin’ Donuts’ official statement o
 
 **11.      _Contact Us_**
 
-If you have any questions regarding our privacy practices, you can email us at [customerservice@dunkinbrands.com](mailto:customerservice@dunkinbrands.com). You also can telephone us at 1-800-859-5339, send us a fax at 1-781-737-4000, or you can write to us at Dunkin’ Donuts Customer Service, Dunkin’ Brands, Inc., 130 Royall Street, Canton, MA 02021.  
+If you have any questions regarding our privacy practices, you can email us at[customerservice@dunkinbrands.com](mailto:customerservice@dunkinbrands.com). You also can telephone us at 1-800-859-5339, send us a fax at 1-781-737-4000, or you can write to us at Dunkin’ Donuts Customer Service, Dunkin’ Brands, Inc., 130 Royall Street, Canton, MA 02021.  
 
 
 ©2006-2014. DD IP Holder LLC name, design, logos and related marks are registered trademarks of DD IP Holder LLC. All rights reserved.
