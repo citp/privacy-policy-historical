@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthyblenderrecipes.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616071321id_/http%3A//healthyblenderrecipes.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyblenderrecipes.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129040545id_/http%3A//healthyblenderrecipes.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Blender Girl
 
@@ -100,7 +100,7 @@ If you would like to review your Personal Information, if you have a comment, qu
 
   1. E-mail: You can e-mail us at help@healthyblenderrecipes.com
   2. By Telephone: You may call us at. If you call after normal business hours, please leave a message and your telephone number. We will get back to you as quickly as possible. Normal office hours are Monday through Friday, 8:30 a.m. to 5:30 p.m. Central Time.
-  3. By U.S. Mail: Send mail to The Blender Girl, ATTN: PRIVACY DEPARTMENT at 10638 Chiquita Street, Toluca Lake, CA 91602.
+  3. By U.S. Mail: Send mail to The Blender Girl, ATTN: PRIVACY DEPARTMENT at 11271 Ventura Blvd Ste 315, Studio City, CA 91604.
 
 
 
