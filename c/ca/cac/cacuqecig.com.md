@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cacuqecig.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312035333id_/http%3A//www.cacuqecig.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cacuqecig.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129111640id_/http%3A//www.cacuqecig.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 ### 6 Third party links
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the contents and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedbacks about these sites. Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://cacuq.mez100.cn:8022/term-condition](https://web.archive.org/term-condition). By using our site, you consent to our [privacy policy](https://web.archive.org/privacy-policy). If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the contents and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedbacks about these sites. Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.cacuqecig.com/term-condition](https://web.archive.org/term-condition). By using our site, you consent to our [privacy policy](https://web.archive.org/privacy-policy). If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
 ### 7 Contacting us
 
