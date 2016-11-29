@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakspectator.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611235628id_/http%3A//www.pkhope.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakspectator.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129223035id_/http%3A//www.pkhope.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Pakistani Spectator
 
