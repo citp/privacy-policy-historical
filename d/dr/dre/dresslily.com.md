@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dresslily.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608140826id_/http%3A//www.dresslily.com/m-article-id-27.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dresslily.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129231158id_/http%3A//www.dresslily.com/m-article-id-27.htm) for the most accurate reproduction.*
 
-# Privacy Policy - DressLily.com|article
+# Privacy Policy - DressLily.com
 
 DressLily.com respects the privacy of our visitors/customers, which is important to us. We take your online safety seriously. To better serve you and make you clearly understand your information at our site, we explain our privacy policy below. **1.The information we collect**  
 DressLily believes it's important for you to know what types of information we collect when you use our site. The information includes Email, Name, Company Name, Street Address, Post Code, City, Country, Telephone Number, Password and so on. We collect this information in several different ways, to begin with, we use cookies that are needed to compile aggregated non-personally identifiable information about the visitors to our web site. Personally identifiable information consists of information that is unique to you, such as credit card numbers and bank account numbers. **2.The use of information**  
