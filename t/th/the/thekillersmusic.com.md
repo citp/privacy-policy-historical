@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thekillersmusic.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511171020id_/http%3A//www.thekillersmusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekillersmusic.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129082903id_/http%3A//www.thekillersmusic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
