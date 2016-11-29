@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intimateweddings.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520044108id_/http%3A//www.intimateweddings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intimateweddings.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129030452id_/http%3A//www.intimateweddings.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Intimate Weddings - Small Wedding Blog - DIY Wedding Ideas for Small and Intimate Weddings - Real Small Weddings
 
