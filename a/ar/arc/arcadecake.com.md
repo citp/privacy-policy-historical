@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arcadecake.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327220442id_/http%3A//www.arcadecake.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadecake.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130001303id_/http%3A//www.arcadecake.com/privacy-policy) for the most accurate reproduction.*
 
-# ArcadeCake | Privacy Policy
+# Privacy Policy - ArcadeCake
 
 ArcadeCake PRIVACY POLICY
 
