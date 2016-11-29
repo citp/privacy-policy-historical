@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emeals.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623200512id_/http%3A//emeals.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emeals.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129090551id_/https%3A//emeals.com/about/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
