@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesouthern.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515090903id_/http%3A//thesouthern.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesouthern.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129200601id_/http%3A//thesouthern.com/privacy) for the most accurate reproduction.*
 
 # Privacy | thesouthern.com
 
