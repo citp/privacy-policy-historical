@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctiva.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526002433id_/https%3A//www.auctiva.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctiva.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129222824id_/https%3A//www.auctiva.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Auctiva Privacy
 
@@ -24,7 +24,7 @@ We take your privacy seriously. You have the right to limit the use of your emai
 
 ### California Law
 
-Under California law, state residents have the right to request in writing from any business with whom they have a business relationship, (1) a list of categories of personal information, such as name, address email address and the type of services provided to the customer, that a business has disclosed to a third party, if any (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information please email us at [help@auctiva.com](mailto:help@auctiva.com) or send a written request to Auctiva Corporation, 360 E. 6th St., Chico, CA 95928. 
+Under California law, state residents have the right to request in writing from any business with whom they have a business relationship, (1) a list of categories of personal information, such as name, address email address and the type of services provided to the customer, that a business has disclosed to a third party, if any (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information please email us at [help@auctiva.com](mailto:help@auctiva.com) or send a written request to Auctiva Corporation, 527 Flume St., Chico, CA 95928. 
 
 We will respond with thirty (30) days after the receipt of your request. We are only required to provide this information once per calendar year per customer. 
 
@@ -34,7 +34,7 @@ By submitting personal information to us or using our site, you agree that we ma
 
 ### Removal from our Database
 
-To request removal from the database, simply [file a support request](https://web.archive.org/web/20160526002433id_/https%3A//www.auctiva.com/help/requesthelp.aspx) and we will be happy to remove your information immediately. Every email sent to you from Auctiva will also include a link to remove your email address from the mail server. If you request that we modify or remove all of your personal information, we will promptly do so, to the extent possible. Once your personal information has been removed you will not be able to use our services unless you re-register. 
+To request removal from the database, simply [file a support request](https://web.archive.org/web/20161129222824id_/https%3A//www.auctiva.com/help/requesthelp.aspx) and we will be happy to remove your information immediately. Every email sent to you from Auctiva will also include a link to remove your email address from the mail server. If you request that we modify or remove all of your personal information, we will promptly do so, to the extent possible. Once your personal information has been removed you will not be able to use our services unless you re-register. 
 
 ### Children
 
