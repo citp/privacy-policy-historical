@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallstreetmojo.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615134635id_/http%3A//www.wallstreetmojo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallstreetmojo.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129202010id_/http%3A//www.wallstreetmojo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wallstreetmojo.com
 
@@ -52,14 +52,3 @@ WallstreetMojo.com reserves the right to change this policy at any time. Please 
 ## Problems or complaints with Privacy Policy
 
 If you have any comments or issues related to our privacy policy, please do reach out to us at [contact us](http://www.wallstreetmojo.com/contact/).
-
-The following two tabs change content below.
-
-  * Bio
-  * Latest Posts
-
-
-
-#### Dheeraj Vaidya
-
-worked as JPMorgan Equity Analyst, ex-CLSA India Analyst ; edu qualification - cleared all 3 CFA exams, FRM Charterholder, IIT Delhi, IIML; This is my personal blog that aims to help students and professionals become awesome in Financial Analysis. Here, I share secrets about the best ways to analyze Stocks, buzzing IPOs, M&As, Private Equity, Startups, Valuations and Entrepreneurship.
