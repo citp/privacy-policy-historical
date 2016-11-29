@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camelclips.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519095401id_/http%3A//www.camelclips.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camelclips.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129152100id_/http%3A//www.camelclips.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,7 +27,7 @@
   7. Public Forums & Other Public Areas: 
     1. If at any time during Your visit to the Site, You enter into a public forum or interactive communication feature such as, registration requests, chat sessions, or discussion boards, You have exited Our Site. We do not provide such features on Our Site, therefore, You understand and agree that the Site is not responsible for any content shared or distributed via such interactive features.
   8. Our Commitment to Data Security. 
-    1. We take measures to protect the transmission of all sensitive user information. We make every effort to ensure the integrity and security of Our network and systems. Nevertheless, We cannot guarantee that Our security measures will prevent third-party â€˜hackers' from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals, We are unable to guarantee that Our security is one hundred percent (100%) breach-proof. You assume the risk of such breaches to the extent that they occur despite Our reasonable security measures.
+    1. We take measures to protect the transmission of all sensitive user information. We make every effort to ensure the integrity and security of Our network and systems. Nevertheless, We cannot guarantee that Our security measures will prevent third-party 'hackers' from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals, We are unable to guarantee that Our security is one hundred percent (100%) breach-proof. You assume the risk of such breaches to the extent that they occur despite Our reasonable security measures.
   9. Where to Direct Questions About Our Privacy Policy. 
     1. If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [support@adultwebmasternet.com](mailto:support@adultwebmasternet.com?subject=Privacy%20Policy%20Question%20in%20regards%20to%20camelclips.com%20site).
 
