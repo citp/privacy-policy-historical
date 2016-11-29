@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the oceanconservancy.org privacy policy that was archived on 2016-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160515092257id_/http%3A//www.oceanconservancy.org/who-we-are/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oceanconservancy.org privacy policy that was archived on 2016-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161130002611id_/http%3A//www.oceanconservancy.org/who-we-are/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:fb="http://ogp.me/ns/fb#" class=" js"><head>
 
@@ -18,11 +18,11 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '1240:0';
-CONVIO.pageSessionID = 'BCC09FFBEA8E570D4B6B262F92793D93.app260b';
+CONVIO.pageSessionID = '1CCEE0340449D576E4A017B85F4D29DF.app203b';
 CONVIO.pageSessionName = 'JSESSIONID';
 </script>
 
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1463304177411"></script>
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1480465571621"></script>
 <script type="text/javascript">
 
 
@@ -99,7 +99,6 @@ deleteCookie("CONVIO.referrer");
 </head>
 <body>
 
-
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5L34PX"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -109,7 +108,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5L34PX');</script>
 <!-- End Google Tag Manager -->
-
 
 <div id="pagewrapper">
 <div class="header" id="hdr-global">
@@ -171,7 +169,6 @@ if (!Y) {
 
 
 </div>
-
 </div>
 
 <!-- Site Global Navigation --> 
@@ -233,7 +230,6 @@ if (!Y) {
 
 
 </div>
-
 
 </div><!-- hdr-global -->
 
@@ -475,7 +471,7 @@ CONVIO.user.isAnonymous = true;
 			Ocean Conservancy makes careful use of your support, and holds high ratings from charity watchdogs.
 		</div>
 		<div class="badges">
-			<a href="http://charityreports.bbb.org/public/seal.aspx?id=1818572011" target="_blank"><img src="http://www.oceanconservancy.org/assets/img/badge-bbb.png" width="102" height="39" alt="BBB Accredited Charity"></a> <!-- <a href="http://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3451" target="_blank"><img src="https://secure.oceanconservancy.org/images/content/pagebuilder/Charity-Navigator-4Stars.jpg" width="151" height="39" alt="Charity Navigator - your guide to intelligent giving"></a> -->
+			<a href="http://charityreports.bbb.org/public/seal.aspx?id=1818572011" target="_blank"><img src="http://www.oceanconservancy.org/assets/img/badge-bbb.png" width="102" height="39" alt="BBB Accredited Charity"></a> <a href="http://www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=3451" target="_blank"><img src="https://secure.oceanconservancy.org/images/content/pagebuilder/Charity-Navigator-4Stars.jpg" width="151" height="39" alt="Charity Navigator - your guide to intelligent giving"></a>
 		</div>
 	</div>
 
@@ -610,14 +606,36 @@ color: white;
 #social-media-icons li {
 float: left;
 }
---></style>
+-->
+  
+
+  .btn-donate-now-35 input[type="submit"] {
+  color: white;
+  background: url(/assets/img/btn-donate-now-35.png);
+  background-position: -21px 0;
+  font-size: 15px;
+  text-align: center;
+  padding: 0;
+  height: 36px;
+  border: 0;
+  display: block;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 2px #2B4;
+  width: 123px;
+}
+
+.btn-donate-now-35 input[type="submit"]:hover {
+  background-position: -21px -50px;
+  height: 35px;
+}
+</style>
 <div id="ftr-global" class="footer">
 <div class="col col_1">
 <div class="nav">
 
 <ul>
 <li><strong>Our Solutions</strong>
-								<br>
+                <br>
 <ul>
 <li><a href="http://www.oceanconservancy.org/our-work/marine-debris/">Trash Free Seas</a></li>
 <li><a href="http://www.oceanconservancy.org/our-work/fisheries/">Sustainable Fisheries</a></li>
@@ -669,105 +687,90 @@ float: left;
 </div>
 <div class="col col_3">
 <div class="promo promo-donate-ftr cf">
+
+
+
 <script type="text/javascript">// <![CDATA[
 function footerUpdate() {
   "use strict";
-  // be sure to update the form radio button values to their corresponding Convio level IDs //
-  var df_id = 6080;//5300;
-  var val = "", level_id = 0, i = 0, return_url = "";
-  var donate_amount_options = document.getElementsByName('footer_donate_amount');
-
-  for (i = 0; i < donate_amount_options.length; i = i + 1) {
-    if (donate_amount_options[i].checked === true) {
-      level_id = donate_amount_options[i].value;
-    }
-  }
-
-  return_url = 'http://act.oceanconservancy.org/site/Donation2?df_id=' + df_id + '&amp;s_src=donation-footer&amp;Level=' + level_id + '';
-
-  if (document.getElementById('footer_dnt_other').checked === true) {
-    return_url = return_url + '&amp;PREFILL_AMOUNT=' + document.getElementById('footer_dnt_other_val').value;
-  }
-
-  document.getElementById('donationFormLink').href = return_url;
+  document.getElementById('footer_dnt_other').value = document.getElementById('footer_dnt_other_val').value;
 }
 // ]]></script>
-<div id="form-donate-footer">
-<strong>Your support brings science to the ocean's toughest challenges—please select a gift amount:</strong>
-  <form name="donateFooterForm">
 
-<table class="form-donate-amount" border="0">
-<tbody>
-<tr>
-<td>
-<div class="field field-radio">
-              <input id="footer_dnt_50" name="footer_donate_amount" type="radio" value="8885" onchange="footerUpdate()">
-              <label for="footer_dnt_50">$50</label>
-            </div>
-</td>
-<td>
-<div class="field field-radio">
-              <input id="footer_dnt_75" name="footer_donate_amount" type="radio" value="8886" onchange="footerUpdate()">
-              <label for="footer_dnt_75">$75</label>
-            </div>
-</td>
-<td>
-<div class="field field-radio">
-              <input id="footer_dnt_100" name="footer_donate_amount" type="radio" value="8887" onchange="footerUpdate()">
-              <label for="footer_dnt_100">$100</label>
-            </div>
-</td>
-</tr>
-<tr>
-<td>
-<div class="field field-radio checked">
-              <input id="footer_dnt_500" name="footer_donate_amount" type="radio" value="8888" onchange="footerUpdate()">
-              <label for="footer_dnt_500">$500</label>
-            </div>
-</td>
-<td>
-<div class="field field-radio">
-              <input id="footer_dnt_1000" name="footer_donate_amount" type="radio" value="8889" onchange="footerUpdate()">
-              <label for="footer_dnt_1000">$1,000</label>
-            </div>
-</td>
-<td>
-<div class="field field-radio"></div>
-</td>
-</tr>
-<tr>
-<td id="different_amount" rowspan="3">
-<div class="field field-txt">
-              <input id="footer_dnt_other" class="hidden" name="footer_donate_amount" type="radio" value="8891">
-              <label class="label-style-a" for="footer_dnt_other_val">or Enter a Different Amount <br><span class="note">($10 minimum)</span></label>
-              <input id="footer_dnt_other_val" type="text" onfocus="javascript:document.getElementById('footer_dnt_other').checked = true;" onblur="footerUpdate()" onchange="footerUpdate()">
-            </div>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="btn btn-donate-now-35"><a id="donationFormLink" name="donationFormLink" href="http://act.oceanconservancy.org/site/Donation2?s_src=donation-footer&amp;df_id=5880&amp;s_src=donation-footer&amp;Level=8604">Continue</a></div>
-</form>
+
+<div id="form-donate-footer">
+  <strong>Your support brings science to the ocean's toughest challenges—please select a gift amount:</strong>
+  <form name="donateFooterForm" action="https://donate.oceanconservancy.org/ea-action/action" method="GET">
+
+  <input name="ea.client.id" value="1991" type="hidden">
+  <input name="ea.campaign.id" value="55960" type="hidden">
+  <input name="utm_campaign" value="Fundraising" type="hidden">
+  <input name="utm_source" value="EngagingNetworks" type="hidden">
+  <input name="ea.tracking.id" value="16WAXAWXXX" type="hidden">
+  <input name="utm_content" value="preselects" type="hidden">
+  <input name="utm_medium" value="Website" type="hidden">
+
+  <table class="form-donate-amount" border="0"><tbody><tr>
+    <td><div class="field field-radio">
+      <input id="footer_dnt_50" name="Donation Amount" type="radio" value="50">
+      <label for="footer_dnt_50">$50</label>
+    </div></td>
+    <td><div class="field field-radio">
+      <input id="footer_dnt_75" name="Donation Amount" type="radio" value="75">
+      <label for="footer_dnt_75">$75</label>
+    </div></td>
+    <td><div class="field field-radio">
+      <input id="footer_dnt_100" name="Donation Amount" type="radio" value="100">
+      <label for="footer_dnt_100">$100</label>
+    </div></td>
+  </tr><tr>
+    <td><div class="field field-radio checked">
+      <input id="footer_dnt_500" name="Donation Amount" type="radio" value="500">
+      <label for="footer_dnt_500">$500</label>
+    </div></td>
+    <td><div class="field field-radio">
+      <input id="footer_dnt_1000" name="Donation Amount" type="radio" value="1000">
+      <label for="footer_dnt_1000">$1,000</label>
+    </div></td>
+    <td><div class="field field-radio"></div></td>
+  </tr><tr>
+    <td id="different_amount" rowspan="3"><div class="field field-txt">
+      <input id="footer_dnt_other" class="hidden" name="Donation Amount" type="radio" value="0">
+      <label class="label-style-a" for="footer_dnt_other_val">or Enter a Different Amount <br><span class="note">($10 minimum)</span></label>
+      <input id="footer_dnt_other_val" type="text" onfocus="javascript:document.getElementById('footer_dnt_other').checked = true;" onblur="footerUpdate()" onchange="footerUpdate()">
+    </div></td>
+  </tr></tbody></table>
+
+  <div class="btn btn-donate-now-35">
+    <input type="submit" id="donationFormLink" name="donationFormLink" value="Continue">
+  </div>
+  
+  </form>
+</div>
+
 </div>
 </div>
-</div>
+
 <div class="copy">
-<p>© Copyright 2016 Ocean Conservancy • Ocean Conservancy, International Coastal Cleanup, Ocean Action Network, Trash Free Seas, Trash Free Seas Alliance and Rippl are registered trademarks of Ocean Conservancy.</p>
-<p>Ocean Conservancy is a 501(c)3 — Donations are 100% tax-deductible as allowed by law. • <a href="mailto:membership@oceanconservancy.org">membership@oceanconservancy.org</a> • 800-519-1541 • <a href="http://www.oceanconservancy.org/who-we-are/privacy-policy.html">Privacy Policy</a> • <a href="http://www.oceanconservancy.org/who-we-are/legal-information.html">Legal Information</a></p>
+  <p>© Copyright 2016 Ocean Conservancy • Ocean Conservancy, International Coastal Cleanup, Ocean Action Network, Trash Free Seas and Trash Free Seas Alliance are registered trademarks of Ocean Conservancy.</p>
+  <p>Ocean Conservancy is a 501(c)3 — Donations are 100% tax-deductible as allowed by law. • <a href="mailto:membership@oceanconservancy.org">membership@oceanconservancy.org</a> • 800-519-1541 • <a href="http://www.oceanconservancy.org/who-we-are/privacy-policy.html">Privacy Policy</a> • <a href="http://www.oceanconservancy.org/who-we-are/legal-information.html">Legal Information</a></p>
 </div>
+
 </div>
+
 <script src="//c.shpg.org/193/sp.js"></script>
 <script type="text/javascript">// <![CDATA[
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName("script")[0];
-a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0022/6334.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+  setTimeout(function(){var a=document.createElement("script");
+  var b=document.getElementsByTagName("script")[0];
+  a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0022/6334.js?"+Math.floor(new Date().getTime()/3600000);
+  a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 // ]]></script>
 <!-- ftr-global -->
 
 
 
 </div>
+
 <div id="poweredBy-461473580" style="display: inline;">
 
 
@@ -828,6 +831,6 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 
  
 
-<!-- 10.12.0.30:8901 -->
+<!-- 10.12.0.39:8900 -->
 
 </div></body></html>
