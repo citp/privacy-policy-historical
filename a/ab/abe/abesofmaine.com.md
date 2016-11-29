@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abesofmaine.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624103913id_/http%3A//www.abesofmaine.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abesofmaine.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129180911id_/http%3A//www.abesofmaine.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Abe's of Maine Privacy Policy - Cameras and Electronics since 1979!
 
