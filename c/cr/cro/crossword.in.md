@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crossword.in privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604122404id_/http%3A//www.crossword.in/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crossword.in privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129113112id_/http%3A//www.crossword.in/privacy_policy) for the most accurate reproduction.*
 
 # Crossword
 
