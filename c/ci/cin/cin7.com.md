@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cin7.com privacy policy that was archived on 2016-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160123003444id_/http%3A//www.cin7.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cin7.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129225215id_/https%3A//www.cin7.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cin7
 
 **General**
 
-Datum Connect Limited ( **we** , **us** or **our** ) takes Your privacy very seriously and respects the integrity of personal information You provide us as a user of Cin7.  We will hold and use personal information provided by You in accordance with the privacy principles contained in the Privacy Act 1993, and as set out in our Privacy Policy below. Any terms used but not defined in this Privacy Policy have the meaning given to those terms in the Cin7 Terms of Use.
+Cin7 Limited ( **we** , **us** or **our** ) takes Your privacy very seriously and respects the integrity of personal information You provide us as a user of Cin7.  We will hold and use personal information provided by You in accordance with the privacy principles contained in the Privacy Act 1993, and as set out in our Privacy Policy below. Any terms used but not defined in this Privacy Policy have the meaning given to those terms in the Cin7 Terms of Use.
 
-**Collection of information  
+ **Collection of information  
 ****  
 ** We may collect the following types of information about users of Cin7:
 
@@ -17,11 +17,11 @@ Datum Connect Limited ( **we** , **us** or **our** ) takes Your privacy very ser
 
 You must obtain the consent of any third person whose personal information You provide to us.
 
-**Security**
+ **Security**
 
-When we collect personal information we will take reasonable steps to keep that information secure and to protect it from misuse or loss and from unauthorised access, modification or disclosure. Personal information You provide to us is stored in New Zealand on a secure server and we use secure firewalls. Please note however that total security of data transmission over the internet cannot be guaranteed as being completely secure. Hence, we cannot guarantee and we do not warrant the security of information transmitted to us over the internet and You acknowledge that You use the Services and provide information at Your own risk.
+When we collect personal information we will take reasonable steps to keep that information secure and to protect it from misuse or loss and from unauthorised access, modification or disclosure. Personal information You provide to us is stored on a secure server and we use secure firewalls. Please note however that total security of data transmission over the internet cannot be guaranteed as being completely secure. Hence, we cannot guarantee and we do not warrant the security of information transmitted to us over the internet and You acknowledge that You use the Services and provide information at Your own risk.
 
-**Use of information**
+ **Use of information**
 
 We may use the information we collect:
 
@@ -36,7 +36,7 @@ We may use the information we collect:
 
 
 
-**Disclosure of information**
+ **Disclosure of information**
 
 We will treat all personal information we collect in confidence, and we will not disclose information we collect other than in the following circumstances:
 
@@ -48,15 +48,15 @@ We will treat all personal information we collect in confidence, and we will not
 
 Notwithstanding the above, we may disclose aggregate information and other information that does not personally identify You to such third parties as we may see fit.
 
-**Partners and advertisers**
+ **Partners and advertisers**
 
 We do not control the practices of content providers, partners and advertisers connected with Cin7 and to whom You provide personal information whilst using the Services. Our Website may contain links to other sites, which may not follow the same privacy policies as us. We recommend that You check any relevant privacy policies before providing Your personal information to any third party.
 
-**Changes to this Privacy Policy  
+ **Changes to this Privacy Policy  
 ****  
 ** We reserve the right to change this Privacy Policy at any time. We will make every effort to communicate these changes to You via email or notification via the Website.
 
-**Holding and correcting your personal information**
+ **Holding and correcting your personal information**
 
 Any personal information You provide will be held by us, or our agent. **  
 **  
