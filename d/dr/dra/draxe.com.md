@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the draxe.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611090107id_/http%3A//draxe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draxe.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129233320id_/https%3A//draxe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dr. Axe
 
