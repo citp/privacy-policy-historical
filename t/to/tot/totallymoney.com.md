@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totallymoney.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506031418id_/http%3A//www.totallymoney.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallymoney.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129174720id_/http%3A//www.totallymoney.com/info/privacy-policy) for the most accurate reproduction.*
 
 # TotallyMoney.com - Privacy Policy
 
@@ -6,13 +6,14 @@
 
 ### 1\. About TotallyMoney.com
 
-The website [www.TotallyMoney.com](https://www.totallymoney.com/) ( **Site** ) is operated by Media Ingenuity Ltd trading as TotallyMoney.com ( **we** ). Media Ingenuity Ltd, together with MI Money Ltd are part of the Media Ingenuity Group ( **MI Group** ). Aside from owning and operating the Media Ingenuity brand, the Media Ingenuity Group also owns and operates the brands Fluid ([fluid.co.uk](http://fluid.co.uk/)), Granite ([www.granitecard.co.uk](http://www.granitecard.co.uk/)) and Luma ([www.luma.co.uk](http://www.luma.co.uk/)) ( **MI Group Brands** ).
+The website [www.TotallyMoney.com](https://www.totallymoney.com/) ( **Site** ) is operated by Media Ingenuity Ltd trading as TotallyMoney.com ( **we** ). Media Ingenuity Ltd, together with MI Money Ltd are part of the Media Ingenuity Group ( **MI Group** ). Aside from owning and operating the Media Ingenuity brand, the Media Ingenuity Group also owns and operates the brands Fluid ([fluid.co.uk](http://fluid.co.uk/)), Granite ([www.granitecard.co.uk](http://www.granitecard.co.uk/)) and Lightbulb ([www.lightbulb.co.uk](http://www.lightbulb.co.uk/)) ( **MI Group Brands** ).
 
 For the purpose of the Data Protection Act 1998 (Act), the data controller is Media Ingenuity Ltd (ICO Registration Number Z1096594) of Churchill House, 142-146 Old Street, London, EC1V 9BW.
 
 The Act imposes regulations on how we collect, store and process your personal information. As required by the Act, we are registered as a data controller – details of which can be found online at <https://ico.org.uk/>. This privacy policy explains:
 
   * What personal information we collect from you
+  * Our use of Cookies
   * How we store your information
   * How we use your information
   * To whom we disclose your information
@@ -28,9 +29,9 @@ We may collect and process the following information about you:
 
 **2.1** | Information that you provide by filling in our online forms or which you may subsequently provide when visiting our Site. The provision of our service may also require us to store the information you give us, together with details of your financial information – and to combine the information you provide on separate visits to our Site. We may also ask you for information when you report a problem online.  
 ---|---  
-**2.2** | Details of your transactions carried out through our Site. This includes the fulfilment of your requests by our third party providers – either a broker or an intermediary (Service Provider) – or directly through a provider, such as a mortgage company (Product Provider).  
+**2.2** | Details of your transactions carried out through our Site. This includes the fulfilment of your requests by our third party providers – either a loan broker or an eligibility screening service provided by a Credit Reference Agencies (Service Provider) – or directly through a credit provider, such as a credit card, bank or mortgage company (Product Provider).  
 **2.3** | Details of your visits to our Site including traffic, location and other communication data – and the resources that you access.  
-**2.4** | Information about your computer including, where available, your IP address, operating system and browser type. This is used for system administration; to report aggregate information to our advertisers; and to enable us to analyse trends of behaviour. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.  
+**2.4** | Information about your computer including, where available, your IP address, operating system and browser type. This is used for system administration; to report aggregate information to our advertisers; and to enable us to analyse trends of behaviour. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.  
 **2.5** | If you contact us, we may keep a record of that correspondence. For research purposes, we may also sometimes ask you to complete a survey, although you do not have to respond.  
   
 ### 3\. Cookies
@@ -50,7 +51,7 @@ We may collect and process the following information about you:
   
 ### 4\. Where do we store your personal data?
 
-**4.1** | All of the information that you give us is stored on secure servers. We will periodically review this information to ensure that we do not keep it for any longer than is necessary. The maximum period we will retain your personal information will be six years, unless a longer period is prescribed by law.  
+**4.1** | All of the information that you give us is stored on secure servers. We will periodically review this information to ensure that we do not keep it for any longer than is necessary. The maximum period we will retain your personal information will be six years, unless a longer or shorter period is prescribed by law.  
 ---|---  
 **4.2** | The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (EEA). It may also be processed by one of our third-party providers, who offer support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all the steps necessary to ensure that your data is treated securely – and in accordance with this privacy policy and all relevant statutory requirements.  
 **4.3** | The internet is not a secure medium. However, we have put in place various security procedures to protect your information. Firewalls are used to block unauthorised traffic to the servers – and the actual servers are located in a secure location which can only be accessed by authorised personnel. We use industry-standard encryption technology to ensure that all your personal and transactional information is encrypted before transmission to certain Product Providers or Service Providers. Our security policies are in place to safeguard your privacy from unauthorised access or improper use – and we will continue to enhance our security as and when new technology becomes available.  
@@ -71,12 +72,12 @@ We may collect and process the following information about you:
   
 ### 6\. Where do we disclose your information to third parties?
 
-**6.1** | By submitting information to our Site, you are consenting for your data to be used by us – and our third party providers. This consent applies to both ordinary personal data and sensitive personal data, such as information about your health, debts, criminal proceedings or convictions.  
+**6.1** | By submitting information to our Site, you are consenting for your data to be used by us and our third party providers in order to fulfil your request in accordance with the Terms and Conditions of our services. This consent may apply to both ordinary personal data and sensitive personal data, such as information about your health, debts, criminal proceedings or convictions as required by the credit card or loan providers to assess your suitability and affordability for their products.  
 ---|---  
 **6.2** | Before you provide us with any information about other people, you must get their permission first. This applies to both ordinary and sensitive personal data. In submitting their details, you are confirming to us that you have their permission to do so and that they understand how their information will be used under the terms of this privacy policy.  
-**6.3** | Please be aware that once you use our Site or our services, you will be regarded as having given your consent for us to disclose your personal information to the following parties:  | **(a)** | If you apply for a product or service through our Site, we will need to disclose the information you enter to the relevant Product Provider or Service Provider. This information is necessary to process your application. The Product Provider or Service Provider will contact you by electronic means email, or by telephone, to deal with your application or enquiry. We will hold all personal information in confidence and only use it to assist you with your application – with certain exceptions which are detailed in this privacy policy.  
+**6.3** | Please be aware that once you use our Site or our services, you will be regarded as having given your consent for us to disclose your personal information to the following parties:  | **(a)** | If you apply for a product or service through our Site, we will need to disclose the information you enter to the relevant Product Provider or Service Provider. This information is necessary to process your application. The Product Provider or Service Provider will contact you by electronic means, email, or by telephone, to deal with your application or enquiry. We will hold all personal information in confidence and only use it to assist you with your application – with certain exceptions which are detailed in this privacy policy.  
 ---|---  
-**(b)** | If you apply for a credit-based product through our Site, our Product Provider or Service Provider may use your personal information to perform a search with a credit reference agency for **ID verification and validation purposes and fraud prevention activities.** You will be asked to consent to this before your application is submitted.  
+**(b)** | If you apply for a credit-based product through our Site, our Product Provider or Service Provider may use your personal information to perform an eligibility or full credit search with a credit reference agency for **ID verification and validation purposes, credit assessment and fraud prevention activities**. You will be asked to consent to this before your application is submitted.  
 **(c)** | Where you have applied for a loan or mortgage, our Product Providers may also forward your details to a credit reference agency who will then carry out a credit check on you before providing the loan. You will be asked to consent to this before your application is submitted.  
 **(d)** | For the purpose of compliance monitoring by The Financial Conduct Authority, Information Commissioner and/or other regulatory/governing bodies it is our legal obligation to disclose or share your personal data. This is also the case when we want to enforce or apply our terms of use and other agreements; to protect the rights, property or safety of Media Ingenuity Group staff, customers – or others. This includes exchanging information with other companies and organisations for the purposes of **ID verification and validation** , fraud protection and credit risk reduction.  
 **(e)** | As defined in section 1159 of the UK Companies Act 2006, we may also disclose your personal information to any member of the Media Ingenuity Group – which means our subsidiaries, as well as our ultimate holding company and its subsidiaries. We may disclose your personal information to any member of the Media Ingenuity Group – which means our subsidiaries, as well as our ultimate holding company and its subsidiaries.  
