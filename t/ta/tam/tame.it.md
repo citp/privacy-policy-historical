@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tame.it privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928161909id_/https%3A//tame.it/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tame.it privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129133412id_/https%3A//tame.it/privacy) for the most accurate reproduction.*
 
 # Tame | Privacy
 
