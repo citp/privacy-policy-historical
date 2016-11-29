@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsgames24.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614170738id_/http%3A//www.girlsgames24.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsgames24.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129163039id_/http%3A//www.girlsgames24.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Girls Games 24
 
@@ -13,6 +13,10 @@ Girlgames24.com is safe place to play free games for girls.
 **No IP address and logging**
 
 Your IP address is not used to gather broad demographic information and we do not track your general visiting paterns (how many pages you view while at one website, downloads, etc). There is no system on our server to store / process information about our traffic or users. Normal log files are disabled on our server, the current log level is set on EMERG, meaning the server will only create an emergency log file in the event of a server crash. We are here to create a safe and free girl game experience!
+
+**Sharing Of Information**
+
+There are no scripts or programs running on our server that store your information. We allow our third party advertisers to host scripts on our webpages. Third party advertisers might collect, store and use your information. These scripts are not property of our game portal website and are subject to the privacy policy of the third party. Find the links to the third party privacy policies in the sections below to learn more.
 
 **Third Party Advertising**
 
