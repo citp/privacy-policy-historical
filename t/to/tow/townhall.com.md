@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the townhall.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617141324id_/http%3A//media.townhall.com/townhall/privacypolicy/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the townhall.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129014617id_/http%3A//media.townhall.com/townhall/privacypolicy/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy v2 revised 1-31-15 FINAL.doc
 
