@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the totallymoney.com privacy policy that was archived on 2016-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160506031418id_/http%3A//www.totallymoney.com/info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the totallymoney.com privacy policy that was archived on 2016-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161129174720id_/http%3A//www.totallymoney.com/info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -14,7 +14,7 @@
 	<link rel="canonical" href="https://www.totallymoney.com/info/privacy-policy/">
 
 	<!-- Load Main Stylesheet -->
-	<link rel="stylesheet" href="https://s3-eu-west-1.amazonaws.com/tm-static-site/assets/css/style.css">
+	<link rel="stylesheet" href="/assets/css/style.css?v=1">
 
 </head>
 <body>
@@ -33,7 +33,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
         <!-- LOGO -->
         <a class="TM-nav__logo" href="https://www.totallymoney.com">
-            <img src="https://s3-eu-west-1.amazonaws.com/tm-static-site/assets/images/totallymoney-strap.svg" alt="Totally Money">
+            <img src="https://s3-eu-west-1.amazonaws.com/tm-static-site/assets/images/totallymoney-strap.svg" alt="TotallyMoney.com — Better Credit Comparison">
         </a>
 
         <input class="TM-nav__trigger" type="checkbox" id="tm-header-menu-toggler">
@@ -46,8 +46,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <input class="TM-nav__trigger" type="checkbox" id="tm-header-cards-toggler">
 
                 <!-- Link -->
-                <label for="tm-header-cards-toggler" class="MS-less-only"> Credit Cards </label>
-                <a href="https://www.totallymoney.com/credit-cards/" class="ML-plus-only">Credit Cards</a>
+                <label for="tm-header-cards-toggler" class="only-M-less"> Credit Cards </label>
+                <a href="https://www.totallymoney.com/credit-cards/" class="only-L-plus">Credit Cards</a>
 
                 <!-- Dropdown -->
                 <div class="TM-nav__dropdown">
@@ -78,8 +78,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <input class="TM-nav__trigger" type="checkbox" id="tm-header-loans-toggler">
 
                 <!-- Link -->
-                <label for="tm-header-loans-toggler" class="MS-less-only">Loans </label>
-                <a href="https://www.totallymoney.com/loans/" class="ML-plus-only">Loans</a>
+                <label for="tm-header-loans-toggler" class="only-M-less">Loans </label>
+                <a href="https://www.totallymoney.com/loans/" class="only-L-plus">Loans</a>
 
                 <!-- Dropdown -->
                 <div class="TM-nav__dropdown">
@@ -100,11 +100,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!-- MORTGAGES -->
 
             <li class="TM-nav__menu__entry">
-            <input class="TM-nav__trigger" type="checkbox" id="tm-header-mortgages-toggler">
+                <input class="TM-nav__trigger" type="checkbox" id="tm-header-mortgages-toggler">
 
                 <!-- Link -->
-                <label for="tm-header-mortgages-toggler" class="MS-less-only">Mortgages</label>
-                <a href="http://www.totallymoney.com/mortgages/" class="ML-plus-only">Mortgages</a>
+                <label for="tm-header-mortgages-toggler" class="only-M-less">Mortgages</label>
+                <a href="http://www.totallymoney.com/mortgages/" class="only-L-plus">Mortgages</a>
 
                 <!-- Dropdown -->
                 <div class="TM-nav__dropdown">
@@ -125,26 +125,34 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
             </li>
 
-            <!-- ABOUT -->
+            <!-- Eligibility Score-->
 
             <li class="TM-nav__menu__entry">
-            <input class="TM-nav__trigger" type="checkbox" id="tm-header-about-toggler">
+                <input class="TM-nav__trigger" type="checkbox" id="tm-header-fes-toggler">
 
                 <!-- Link -->
-                <label for="tm-header-about-toggler" class="MS-less-only">About</label>
-                <a href="https://www.totallymoney.com/info/about-us/" class="ML-plus-only">About</a>
+                <label for="tm-header-fes-toggler" class="only-M-less">Eligibility Score</label>
+                <a href="http://www.totallymoney.com/free-eligibility-score/" class="only-L-plus">Eligibility Score</a>
                 <!-- Dropdown -->
                 <div class="TM-nav__dropdown">
-                    <a title="How we can help you" href="https://www.totallymoney.com/info/how-we-can-help-you/">How we can help you</a>
-                    <a title="Why we're different" href="https://www.totallymoney.com/info/why-we-are-different/">Why we're different</a>
-                    <a title="In the media" href="https://www.totallymoney.com/info/in-the-media/">In the media</a>
+                    <a data-gtm-event="eligibilityScore-headerNav-freeScorePage" title="Free Eligibility Score" href="http://www.totallymoney.com/free-eligibility-score">
+                        <p>Get Your Free Eligibility Score</p>
+                        Sign up now, no card details required
+                    </a>
                 </div>
             </li>
+
+            <li class="TM-nav__menu__entry TM-nav__menu__entry--login">
+                <a title="Log in to your account" data-gtm-event="eligibilityScore-headerNav-accountLoginPage" href="http://www.totallymoney.com/myaccount/login" class="only-L-plus">Login</a>
+            </li>
+
+        
+
         </ul>
 
         <!-- Mobile menu trigger and overlay -->
 
-        <label for="tm-header-menu-toggler" class="TM-nav__mobile-trigger MS-less-only"></label>
+        <label for="tm-header-menu-toggler" class="TM-nav__mobile-trigger only-M-less"></label>
 
         <div class="TM-nav__mobile-overlay"></div>
     </header>
@@ -162,12 +170,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<a title="Cookies" href="http://www.totallymoney.com/info/cookie-policy/">Cookies</a>
 	<a title="Contact" href="http://www.totallymoney.com/info/contact/">Contact</a>
 	<a title="Contact" href="http://www.totallymoney.com/info/complaints/">Complaints</a>
+	<a title="Contact" href="http://www.totallymoney.com/info/terms-of-use/">Terms of use</a>
 </div>
 		<section class="panel">
 			<div class="content">
 				<div class="text">
 					<h3>1. About TotallyMoney.com</h3>
-					<p>The website <a href="https://www.TotallyMoney.com" target="_blank">www.TotallyMoney.com</a> (<strong>Site</strong>) is operated by Media Ingenuity Ltd trading as TotallyMoney.com (<strong>we</strong>). Media Ingenuity Ltd, together with MI Money Ltd are part of the Media Ingenuity Group (<strong>MI Group</strong>). Aside from owning and operating the Media Ingenuity brand, the Media Ingenuity Group also owns and operates the brands Fluid (<a href="http://fluid.co.uk" target="_blank">fluid.co.uk</a>), Granite (<a href="http://www.granitecard.co.uk" target="_blank">www.granitecard.co.uk</a>) and Luma (<a href="http://www.luma.co.uk" target="_blank">www.luma.co.uk</a>) (<strong>MI Group Brands</strong>).</p>
+					<p>The website <a href="https://www.TotallyMoney.com" target="_blank">www.TotallyMoney.com</a> (<strong>Site</strong>) is operated by Media Ingenuity Ltd trading as TotallyMoney.com (<strong>we</strong>). Media Ingenuity Ltd, together with MI Money Ltd are part of the Media Ingenuity Group (<strong>MI Group</strong>). Aside from owning and operating the Media Ingenuity brand, the Media Ingenuity Group also owns and operates the brands Fluid (<a href="http://fluid.co.uk" target="_blank">fluid.co.uk</a>), Granite (<a href="http://www.granitecard.co.uk" target="_blank">www.granitecard.co.uk</a>) and Lightbulb (<a href="http://www.lightbulb.co.uk" target="_blank">www.lightbulb.co.uk</a>) (<strong>MI Group Brands</strong>).</p>
 
 					<p>For the purpose of the Data Protection Act 1998 (Act), the data controller is Media Ingenuity Ltd (ICO Registration Number Z1096594) of Churchill House, 142-146 Old Street, London, EC1V 9BW.</p>
 
@@ -175,10 +184,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 					<ul>
 						<li><a href="#section2">What personal information we collect from you</a></li>
-						<li><a href="#section3">How we store your information</a></li>
-						<li><a href="#section4">How we use your information</a></li>
-						<li><a href="#section5">To whom we disclose your information</a></li>
-						<li><a href="#section6">Your rights regarding your personal information.</a></li>
+						<li><a href="#section3">Our use of Cookies</a></li>
+						<li><a href="#section4">How we store your information</a></li>
+						<li><a href="#section5">How we use your information</a></li>
+						<li><a href="#section6">To whom we disclose your information</a></li>
+						<li><a href="#section7">Your rights regarding your personal information.</a></li>
 					</ul>
 
 					<p>Any changes we make to our privacy policy in the future will be posted on this page and, where appropriate, we will also notify you by email. Questions, comments and requests regarding this privacy policy are welcomed – and should be sent to Media Ingenuity Ltd, Churchill House, 142-146 Old Street, London, EC1V 9BW or <a href="mailto:feedback@totallymoney.com">feedback@totallymoney.com</a>.</p>
@@ -196,7 +206,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 							</tr>
 							<tr>
 								<td class="legaltable__location"><strong>2.2</strong></td>
-								<td class="legaltable__content">Details of your transactions carried out through our Site. This includes the fulfilment of your requests by our third party providers – either a broker or an intermediary (Service Provider) – or directly through a provider, such as a mortgage company (Product Provider).</td>
+								<td class="legaltable__content">Details of your transactions carried out through our Site. This includes the fulfilment of your requests by our third party providers – either a loan broker or an eligibility screening service provided by a Credit Reference Agencies (Service Provider) – or directly through a credit provider, such as a credit card, bank or mortgage company (Product Provider).</td>
 							</tr>
 							<tr>
 								<td class="legaltable__location"><strong>2.3</strong></td>
@@ -204,7 +214,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 							</tr>
 							<tr>
 								<td class="legaltable__location"><strong>2.4</strong></td>
-								<td class="legaltable__content">Information about your computer including, where available, your IP address, operating system and browser type. This is used for system administration; to report aggregate information to our advertisers; and to enable us to analyse trends of behaviour. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.</td>
+								<td class="legaltable__content">Information about your computer including, where available, your IP address, operating system and browser type. This is used for system administration; to report aggregate information to our advertisers; and to enable us to analyse trends of behaviour. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.</td>
 							</tr>
 							<tr>
 								<td class="legaltable__location"><strong>2.5</strong></td>
@@ -280,7 +290,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<tbody>
 							<tr>
 								<td class="legaltable__location"><strong>4.1</strong></td>
-								<td class="legaltable__content">All of the information that you give us is stored on secure servers. We will periodically review this information to ensure that we do not keep it for any longer than is necessary. The maximum period we will retain your personal information will be six years, unless a longer period is prescribed by law.</td>
+								<td class="legaltable__content">All of the information that you give us is stored on secure servers. We will periodically review this information to ensure that we do not keep it for any longer than is necessary. The maximum period we will retain your personal information will be six years, unless a longer or shorter period is prescribed by law.</td>
 							</tr>
 							<tr>
 								<td class="legaltable__location"><strong>4.2</strong></td>
@@ -364,7 +374,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 							<tr>
 								<td class="legaltable__location"><strong>6.1
 								</strong></td>
-								<td class="legaltable__content">By submitting information to our Site, you are consenting for your data to be used by us – and our third party providers. This consent applies to both ordinary personal data and sensitive personal data, such as information about your health, debts, criminal proceedings or convictions.</td>
+								<td class="legaltable__content">By submitting information to our Site, you are consenting for your data to be used by us and our third party providers in order to fulfil your request in accordance with the Terms and Conditions of our services. This consent may apply to both ordinary personal data and sensitive personal data, such as information about your health, debts, criminal proceedings or convictions as required by the credit card or loan providers to assess your suitability and affordability for their products.</td>
 							</tr>
 							<tr>
 								<td class="legaltable__location"><strong>6.2</strong></td>
@@ -378,11 +388,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 											<tr>
 												<td class="legaltable__location"><strong>(a)
 												</strong></td>
-												<td class="legaltable__content">If you apply for a product or service through our Site, we will need to disclose the information you enter to the relevant Product Provider or Service Provider. This information is necessary to process your application. The Product Provider or Service Provider will contact you by electronic means email, or by telephone, to deal with your application or enquiry. We will hold all personal information in confidence and only use it to assist you with your application – with certain exceptions which are detailed in this privacy policy.</td>
+												<td class="legaltable__content">If you apply for a product or service through our Site, we will need to disclose the information you enter to the relevant Product Provider or Service Provider. This information is necessary to process your application. The Product Provider or Service Provider will contact you by electronic means, email, or by telephone, to deal with your application or enquiry. We will hold all personal information in confidence and only use it to assist you with your application – with certain exceptions which are detailed in this privacy policy.</td>
 											</tr>
 											<tr>
 												<td class="legaltable__location"><strong>(b)</strong></td>
-												<td class="legaltable__content">If you apply for a credit-based product through our Site, our Product Provider or Service Provider may use your personal information to perform a search with a credit reference agency for <strong>ID verification and validation purposes and fraud prevention activities.</strong> You will be asked to consent to this before your application is submitted.</td>
+												<td class="legaltable__content">If you apply for a credit-based product through our Site, our Product Provider or Service Provider may use your personal information to perform an eligibility or full credit search with a credit reference agency for <strong>ID verification and validation purposes, credit assessment and fraud prevention activities</strong>. You will be asked to consent to this before your application is submitted.</td>
 											</tr>
 											<tr>
 												<td class="legaltable__location"><strong>(c)</strong></td>
@@ -467,7 +477,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="content">
 		<div class="fb">
 			<a title="Like us on Facebook" href="https://www.facebook.com/TotallyMoney-198972143477605/timeline/" target="_blank">
-				More than 20,000 people like us <br>on Facebook – talk to your friends
+				More than 30,000 people like us <br>on Facebook – talk to your friends
 			</a>
 		</div>
 		<div class="tw">
@@ -479,54 +489,58 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="shade"></div>
 
 </section>
-	<footer>
-	<div class="content">
-		<div class="meta">
-			<div class="meta__logo">
-				<a class="" title="TotallyMoney.com" href="https://www.totallymoney.com">
-					<img class="" src="https://s3-eu-west-1.amazonaws.com/tm-static-site/assets/images/totallymoney.svg" alt="">
-				</a>
-			</div>
-			<p>We believe that our technology platform can drive a better and fairer credit market for consumers.</p>
-		</div>
-		<div class="services">
-			<h3>Services</h3>
-			<a title="Credit Cards" href="https://www.totallymoney.com/credit-cards/">Credit Cards</a>
-			<a title="Loans" href="https://www.totallymoney.com/loans/">Loans</a>
-			<a title="Mortgages" href="http://www.totallymoney.com/mortgages/">Mortgages</a>
-		</div>
-		<div class="company">
-			<h3>Company</h3>
-			<a title="Our Story" href="http://www.totallymoney.com/info/our-story/">Our Story</a>
-			<a title="Technology" href="http://www.totallymoney.com/info/financial-technology/">Technology</a>
-			<a title="Brands" href="http://www.totallymoney.com/info/innovative-credit/">Innovation</a>
-			<a title="Marketing" href="http://www.totallymoney.com/info/efficient-marketing/">Marketing</a>
-			<a title="CSR" href="http://www.totallymoney.com/info/corporate-social-responsibility/">CSR</a>
-			<a title="Blog" href="http://www.totallymoney.com/blog/">Blog</a>
-		</div>
-		<div class="careers">
-			<h3>Join</h3>
-			<a title="Careers" href="https://www.totallymoney.com/info/careers/">Careers</a>
-			<a title="Life at TotallyMoney.com" href="https://www.totallymoney.com/info/life-at-totallymoney/">Life at TM</a>
-			<a title="Technology" href="https://www.totallymoney.com/info/technology/">Technology</a>
-			<a title="Business Development" href="https://www.totallymoney.com/info/business-development/">Business</a>
-			<a title="Marketing" href="https://www.totallymoney.com/info/marketing/">Marketing</a>
-			<a title="Creative" href="https://www.totallymoney.com/info/creative/">Creative</a>
-		</div>
-		<div class="policies">
-			<h3>Legal</h3>
-			<a title="Privacy" href="http://www.totallymoney.com/info/privacy-policy/">Privacy</a>
-			<a title="Terms and Conditions" href="http://www.totallymoney.com/info/terms-and-conditions/">T&amp;Cs</a>
-			<a title="Cookies" href="http://www.totallymoney.com/info/cookie-policy/">Cookies</a>
-			<a title="Contact" href="http://www.totallymoney.com/info/contact/">Contact</a>
-			<a title="Contact" href="http://www.totallymoney.com/info/complaints/">Complaints</a>
-		</div>
-		<div class="small-print">
+	<footer class="tm-footer">
+	<div class="tm-footer-content">
+
+		<div class="tm-footer-meta">
+	<div class="tm-footer-meta__logo">
+		<a class="" title="TotallyMoney.com" href="https://www.totallymoney.com">
+			<img class="" src="https://s3-eu-west-1.amazonaws.com/tm-static-site/assets/images/totallymoney.svg" alt="">
+		</a>
+	</div>
+	<p>We believe that our technology platform can drive a better and fairer credit market for consumers.</p>
+</div>
+<div class="tm-footer-nav tm-footer-nav--services">
+	<h3>Services</h3>
+	<a title="Credit cards" href="https://www.totallymoney.com/credit-cards/">Credit cards</a>
+	<a title="Loans" href="https://www.totallymoney.com/loans/">Loans</a>
+	<a title="Mortgages" href="http://www.totallymoney.com/mortgages/">Mortgages</a>
+	<a title="Guides" href="http://www.totallymoney.com/guides/">Guides</a>
+	<a title="Your money" href="http://www.totallymoney.com/news/">Your money</a>
+	<a title="About us" href="http://www.totallymoney.com/info/about-us">About Us</a>
+
+</div>
+<div class="tm-footer-nav tm-footer-nav--company">
+	<h3>Company</h3>
+	<a title="Our story" href="http://www.totallymoney.com/info/our-story/">Our story</a>
+	<a title="Technology" href="http://www.totallymoney.com/info/financial-technology/">Technology</a>
+	<a title="Brands" href="http://www.totallymoney.com/info/innovative-credit/">Innovation</a>
+	<a title="Marketing" href="http://www.totallymoney.com/info/efficient-marketing/">Marketing</a>
+	<a title="CSR" href="http://www.totallymoney.com/info/corporate-social-responsibility/">CSR</a>
+	<a title="Blog" href="http://www.totallymoney.com/blog/">Blog</a>
+</div>
+<div class="tm-footer-nav tm-footer-nav--careers">
+	<h3>Join</h3>
+	<a title="Careers" href="http://www.totallymoney.com/info/careers/">Careers</a>
+	<a title="Life at TotallyMoney.com" href="http://www.totallymoney.com/info/life-at-totallymoney/">Life at TM</a>
+	<a title="Technology" href="http://www.totallymoney.com/info/technology/">Technology</a>
+	<a title="Business Development" href="http://www.totallymoney.com/info/business-development/">Business</a>
+	<a title="Marketing" href="http://www.totallymoney.com/info/marketing/">Marketing</a>
+	<a title="Creative" href="http://www.totallymoney.com/info/creative/">Creative</a>
+</div>
+<div class="tm-footer-nav tm-footer-nav--legal">
+	<h3>Legal</h3>
+	<a title="Privacy" href="http://www.totallymoney.com/info/privacy-policy/">Privacy</a>
+	<a title="Terms and conditions" href="http://www.totallymoney.com/info/terms-and-conditions/">T&amp;Cs</a>
+	<a title="Cookies" href="http://www.totallymoney.com/info/cookie-policy/">Cookies</a>
+	<a title="Contact" href="http://www.totallymoney.com/info/contact/">Contact</a>
+	<a title="Contact" href="http://www.totallymoney.com/info/complaints/">Complaints</a>
+	<a title="Contact" href="http://www.totallymoney.com/info/terms-of-use/">Terms of use</a>
+</div>
+		
+		<div class="tm-footer-small-print">
 			<p>
-				 
-			</p>
-			<p>
-				The product information is obtained from independent sources and rates may vary depending on your financial circumstances. While we make every effort to ensure that information is up to date, you should always confirm the terms of the offer with the product provider. We do not give financial advice. We provide this service free of charge but may receive commission or payment from credit card issuers and loan and mortgage providers for introductions or assistance with preparatory work. Should you choose to proceed, our partners may charge you fees for their products or services. TotallyMoney.com is owned and operated by Media Ingenuity Ltd which is registered in England and Wales (Company Registration Number 06205695). Media Ingenuity Ltd is an Appointed Representative of MI Money Ltd, which is authorised and regulated by the Financial Conduct Authority in respect of consumer credit related activities (FCA FRN: 511936). Media Ingenuity Ltd. and MI Money Ltd. act as credit brokers, not credit lenders. Trading Address: Churchill House, 142-146 Old Street, London EC1V 9BW. Registered Office: Eastcastle House, 27-28 Eastcastle Street, London, W1W 8DH. Registered in England and Wales. Credit is available, subject to status, only to UK residents aged 18 or over.
+				TotallyMoney.com is owned and operated by Media Ingenuity Ltd which is registered in England and Wales (Company Registration Number 06205695). Media Ingenuity Ltd is an Appointed Representative of MI Money Ltd, which is authorised and regulated by the Financial Conduct Authority in respect of consumer credit related activities (FCA FRN: 511936). Media Ingenuity Ltd. and MI Money Ltd. act as credit brokers, not credit lenders. Trading Address: Churchill House, 142-146 Old Street, London EC1V 9BW. Registered Office: Eastcastle House, 27-28 Eastcastle Street, London, W1W 8DH. Registered in England and Wales. Credit is available, subject to status, only to UK residents aged 18 or over.
 			</p>
 		</div>
 	</div>
