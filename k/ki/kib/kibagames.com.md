@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kibagames.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623013332id_/http%3A//www.kibagames.com/Statics/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kibagames.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129154309id_/http%3A//www.kibagames.com/Statics/Privacy-Policy) for the most accurate reproduction.*
 
 # Games for Kids, Girls & Boys - Free Online Games at KibaGames.com
 
