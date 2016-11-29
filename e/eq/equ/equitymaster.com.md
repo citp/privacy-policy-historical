@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the equitymaster.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416062048id_/https%3A//www.equitymaster.com/help/privacy.html%3Futm_source%3Dhomepage%26utm_medium%3Dwebsite%26utm_campaign%3Dnewsletters%26utm_content%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equitymaster.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129194553id_/https%3A//www.equitymaster.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Equitymaster
-
-Privacy Policy  
-
 
 Maintaining the privacy of user's information is important to us. This privacy statement outlines how we collect information from you, when you register as a user at [www.Equitymaster.com](http://www.equitymaster.com/) (site or website) or when you subscribe to our online services and what we do with that information. 
 
@@ -18,7 +15,7 @@ When you browse through the pages of the website, read or download information, 
 
 
 
-This information we collect relates to your server or PC rather than you yourself. 
+This information we collect relates to your server or PC rather than you yourself.
 
 The information we collect will be used within Equitymaster to help us improve our online services keeping in mind your needs, and to help us to provide you faster navigation and access to the various sections of the website. We may disclose this information to other persons for these purposes or for related purposes, including to information technology companies who assist us in constructing, designing and maintaining the website. 
 
@@ -36,15 +33,19 @@ We may also contact you to follow up on your order or request, or to provide you
 
 We may share information we collect via the website to other members of the Equitymaster Group who may use the same to provide you with information on various products and services which may be of interest to you. 
 
-If you want to find out what personal information (if any) we hold in respect of you which has been collected through the website, or if you wish to update or correct your personal information, please contact us. 
+If you want to find out what personal information (if any) we hold in respect of you which has been collected through the website, or if you wish to update or correct your personal information, please contact us.
 
-**Collection of information** The user represents that he is fully aware that in the course of using this website or in the process of subscribing to the products and services or part of it, Equitymaster may obtain information relating to the user, including information about his/her credit card and personal information for facilitating payment on auto debit basis which is of a confidential nature. Equitymaster does not collect personal information about the user except when such users specifically provide such information on a voluntary basis. For example, such information may be collected through the registration process for subscribing to services or in connection with contest submission, message boards, suggestions & votings/ polling activities. This information may be stored by Equitymaster or its Affiliate and used by Equitymaster and will be kept confidential. Personal information on users will not be sold or otherwise transferred to unaffiliated third parties without the approval of the user. 
+### Collection of information
 
-**Privacy commitments**   
+The user represents that he is fully aware that in the course of using this website or in the process of subscribing to the products and services or part of it, Equitymaster may obtain information relating to the user, including information about his/her credit card and personal information for facilitating payment on auto debit basis which is of a confidential nature. Equitymaster does not collect personal information about the user except when such users specifically provide such information on a voluntary basis. For example, such information may be collected through the registration process for subscribing to services or in connection with contest submission, message boards, suggestions & votings/ polling activities. This information may be stored by Equitymaster or its Affiliate and used by Equitymaster and will be kept confidential. Personal information on users will not be sold or otherwise transferred to unaffiliated third parties without the approval of the user. 
+
+### Privacy commitments
+
 Equitymaster is strongly committed to protecting the privacy of its users and has taken all necessary and reasonable measures to protect the confidentiality of the users information and its transmission through the world wide web and it shall not be held liable for disclosure of the confidential information when in accordance with this Privacy Commitment or in terms of the agreements, if any, with the users. Employees of Equitymaster will not discuss the business affairs of any user with any other employee, except on a strict need-to-know basis. 
 
-**Use of Information**   
-Equitymaster undertakes not to disclose the information provided by the users to any person, unless such action is necessary to: 
+### Use of Information
+
+Equitymaster undertakes not to disclose the information provided by the users to any person, unless such action is necessary to:
 
   * Conform to legal requirements or comply with legal process such as requests of the government, court, tribunal, authority or other regulatory agency and/or required by any law; 
   * Protect and defend Equitymaster or its Affiliates' rights, interests or property; 
@@ -61,46 +62,55 @@ Further, some of the user information is maintained in Equitymaster's marketing 
 
 Equitymaster may inform advertisers of information on user's behavior and characteristics showing interest in various areas of the Equitymaster website as well as number of users that have been exposed to or clicked on their advertising banner. Equitymaster will provide only aggregate data from such analysis done by it to third parties. Also, users should be aware that Equitymaster may sometimes permit third parties to offer subscription and/or registration-based services through Equitymaster. Equitymaster is not responsible for any actions or policies of such third parties and users should check the applicable privacy policy of such party when providing personally identifiable information. 
 
-**Opt-Out**   
+### Opt-Out
+
 If, at any time after registering for information or subscribing to any of our services, you wish to discontinue receiving information from us or you wish to opt out of our marketing or promotional emails, phone calls or discontinue receiving any other direct communication from us, please either click on the "unsubscribe" link available in the service/promotional/marketing emails or send us your request to unsubscribe at [info@equitymaster.com](mailto:info@equitymaster.com?subject=Privacy%20Policy%20Unsubscribe)
 
-**Policy against advertising Equitymaster website using unsolicited email messages**
+### Policy against advertising Equitymaster website using unsolicited email messages
 
-Equitymaster ensures that all emails promoting [www.equitymaster.com](http://www.equitymaster.com/) or its services or the domains owned by it are sent only to subscribers who have agreed to receive such messages. Equitymaster prohibits any advertising of its brand and Website using unsolicited email messages. Any non compliance with this policy would cause partnership termination and/or affiliate account termination. 
+Equitymaster ensures that all emails promoting [www.equitymaster.com](http://www.equitymaster.com/) or its services or the domains owned by it are sent only to subscribers who have agreed to receive such messages. Equitymaster prohibits any advertising of its brand and Website using unsolicited email messages. Any non compliance with this policy would cause partnership termination and/or affiliate account termination.
 
-If you feel that you have received unsolicited emails from Equitymaster and would like to register a compliant, please contact us at [info@equitymaster.com](mailto:info@equitymaster.com?subject=Privacy%20Policy%20Unsubscribe). We will on a best effort basis investigate all complaints related to unsolicited email messages. 
+If you feel that you have received unsolicited emails from Equitymaster and would like to register a compliant, please contact us at [info@equitymaster.com](mailto:info@equitymaster.com?subject=Privacy%20Policy%20Unsubscribe). We will on a best effort basis investigate all complaints related to unsolicited email messages.
 
-**Security**   
+### Security
+
 The user shall cooperate with Equitymaster in order to ensure the security of the information, and we recommend that the users necessarily choose their passwords carefully such that no unauthorized access is made by a third party. The users should undertake not to disclose their password to anyone or keep any written or other record of the password such that a third party could access it. 
 
-**Payment through credit card**   
+### Payment through credit card
+
 In case of subscription to services through online card payments including on auto debit, Equitymaster may obtain private information from the Subscriber including but not limited to date of birth, card number, card expiry date and such other details as may be required by the online payment gateway or as required under any law for the time being in force. 
 
 In such cases, Equitymaster shall take all measures including following such security practices and procedures designed to protect all private information obtained from the Subscriber from unauthorised access, damage, use, modification, disclosure or impairment, as may be deemed necessary and reasonable or as may specified by any law for the time being in force. 
 
-**Cookies :**   
+### Cookies :
+
 Users are also aware that non-personal information and data may be automatically collected through the standard operation of Equitymaster's internet servers or through the use of "cookies." "Cookies" are small text files a web site can use to recognize repeat users, facilitate the user's ongoing access to and use of the site and allow a site to track usage behavior and compile aggregate data that will allow content improvements and targeted advertising 
 
-Cookies are not programs that come onto a user's system and damage files. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site. Users are also hereby being made aware that Equitymaster cannot control the use of cookies or the resulting information by advertisers or third parties hosting data for Equitymaster. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature; however, users should note that cookies may be necessary to provide the user with certain features (e.g., customized delivery of information) available from Equitymaster. 
+Cookies are not programs that come onto a user's system and damage files. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site. Users are also hereby being made aware that Equitymaster cannot control the use of cookies or the resulting information by advertisers or third parties hosting data for Equitymaster. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature; however, users should note that cookies may be necessary to provide the user with certain features (e.g., customized delivery of information) available from Equitymaster.
 
 Equitymaster reserves the right to change this policy at any time by notifying users of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
 
-**Third Party Advertising**   
+### Third Party Advertising
+
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
 
 Please note that this Privacy Statement does not extend to third party sites linked to this website. 
 
-**Amendments**   
-Equitymaster reserves the right to modify the whole or some sections of this Privacy Statement at any time. Please check this statement from time to time for any changes. 
+### Amendments
 
-**References**
+Equitymaster reserves the right to modify the whole or some sections of this Privacy Statement at any time. Please check this statement from time to time for any changes.
+
+### References
 
   * to 'you, 'your' and 'yours' are references to the person(s) accessing this website. 
   * to 'we', 'us' and 'our' are references to mean individually and collectively Equitymaster, Quantum, Agora & its directors, officers and employees. 
 
 
 
-**Contact**   
+### Contact
+
+### 
+
 You may contact us at:   
 103, Regent Chambers,   
 Above Status Restaurant,   
