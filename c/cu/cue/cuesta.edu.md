@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuesta.edu privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611214706id_/http%3A//www.cuesta.edu/community/maps_safety/security_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuesta.edu privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129012236id_/http%3A//www.cuesta.edu/community/maps_safety/security_policy.html) for the most accurate reproduction.*
 
 # Cuesta College :: Community :: Security and Personal Privacy
 
