@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the backlinko.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613073332id_/http%3A//backlinko.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinko.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129193817id_/http%3A//backlinko.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Backlinko
+# Privacy Policy
 
 **Privacy Policy**
 
