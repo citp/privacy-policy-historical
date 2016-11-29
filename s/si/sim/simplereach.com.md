@@ -1,18 +1,24 @@
-> *The following text is extracted and transformed from the simplereach.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323034111id_/http%3A//www.simplereach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplereach.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129133350id_/http%3A//www.simplereach.com/privacy) for the most accurate reproduction.*
 
 # SimpleReach | Privacy Policy
 
 This Privacy Policy applies to [http://www.simplereach.com](http://www.simplereach.com/) as well as the SimpleReach Applications, Dashboard, and Platform (the “SimpleReach Services” or “Services”) owned and operated by SimpleReach, Inc (“SimpleReach” or “we”). SimpleReach is committed to respecting and protecting your privacy. To that end, we have prepared this privacy policy (“Privacy Policy”) to describe our information gathering and dissemination practices and our data protection practices for the Site and Services; it does not apply to other online or offline SimpleReach sites, products or services. The terms “SimpleReach,” “we,” “us,” and “our” refer to SimpleReach, Inc. and its affiliates. The terms “you,” “your,” and “yours” refer to the user utilizing the marketing website [http://www.simplereach.com](http://www.simplereach.com/) and/or any of the SimpleReach Services as a customer and/or end user as defined in this Privacy Policy. This Privacy Policy also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.
 
-###  TRUSTe 
+### EU-U.S. Privacy Shield
 
-The TRUSTe certification covers our collection, use, and disclosure of information we collect through our marketing website [http://www.simplereach.com](http://www.simplereach.com/) and the SimpleReach Services. The use of information collected through the SimpleReach Services shall be limited to the purpose of providing the service for which the Client has engaged SimpleReach, Inc.
+SimpleReach participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. SimpleReach is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
 
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+SimpleReach is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. SimpleReach complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
-###  U.S.—E.U. / Swiss Safe Harbor 
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, SimpleReach is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, SimpleReach may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-SimpleReach complies with the U.S. – E.U. Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union member countries and Switzerland. SimpleReach has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to certification, please visit <http://www.export.gov/safeharbor/>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the Privacy Shield website at <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+### U.S. - Swiss Safe Harbor Framework
+
+SimpleReach complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. SimpleReach has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view SimpleReach’s certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
 
 ### Collection of Information
 
@@ -47,29 +53,31 @@ SimpleReach may use customer information for several general purposes:
 
 The SimpleReach Services improve and develop as we receive and collect more information on usage of the SimpleReach Services and end user browsing patterns and preferences. SimpleReach will use information that you provide or that we collect from your use of a SimpleReach Service to analyze and develop our marketing strategy, Site, SimpleReach Services, and proprietary algorithms for the benefit of all SimpleReach Service customers.
 
-###  Information Sharing and Disclosure 
+### Information Sharing and Disclosure
 
 We will not sell or rent customers’ or end users’ personally identifiable information to third parties except as described in this Privacy Policy. We may disclose your personally identifiable information to other companies or people under any of the following circumstances:
 
   * When we have your consent to share the information.
-  * If sharing the information is reasonably necessary to provide a product or service that you have requested (if your information is shared with third parties we will only provide the information reasonably needed to deliver the service, and ask that such companies do not use your information for any other purpose).
+  * If sharing the information is reasonably necessary to provide a product or service that you have requested (if your information is shared with third parties we will only provide the information reasonably needed to deliver the service, and ask that such companies do not use your information for any other purpose). These services may include data analysis and information sharing.
   * To keep you up to date on the latest product announcements, software updates, special offers, or other information we think you would like to hear about either from us or from our business partners (unless you have opted out of these types of communications by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page, or you can contact us at [info@simplereach.com](mailto:info@simplereach.com) .
-  * As required by law, such as to comply with a subpoena or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+  * In certain situations, SimpleReach may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may also disclose you personal information as required by law, such as to comply with a subpoena or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
   * In connection with a sale or merger with another entity or if SimpleReach should ever file for bankruptcy or have its assets sold to another entity.
 
 
 
 SimpleReach may also share non-personally identifiable information with third parties.
 
-###  Choice 
+### Choice
 
 You may also decline to share certain information with SimpleReach, in which case SimpleReach may not be able to provide to you some of the features and functionality found on the Services. You may update, correct, or delete your profile information and preferences at any time by editing your profile on the Site. Please note that while your changes are reflected promptly in active user databases, we may retain all information you submit for a variety of purposes, including backups and archiving, prevention of fraud and abuse, and analytics. You may also modify the cookie settings on your Web browser or mobile device to limit the information you share.
 
 To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.
 
-###  Access 
+### Access
 
-You may correct, amend, or delete your personally identifiable information by editing your profile on the Site or emailing us at [info@simplereach.com](mailto:info@simplereach.com) . We will respond to your request within a reasonable timeframe.
+Upon request SimpleReach will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at [info@simplereach.com](mailto:info@simplereach.com) .
+
+You may access, correct, amend, or delete your personally identifiable information by editing your profile on the Site or emailing us at [info@simplereach.com](mailto:info@simplereach.com) . We will respond to your request within a reasonable timeframe.
 
 ### Data Retention
 
@@ -87,7 +95,7 @@ We use Local Storage, such as HTML5, to store content information and preference
 
 ### Log Files
 
-As is true of most websites, we gather certain information automatically from visitors to our marketing website, [http://www.simplereach.com](http://www.simplereach.com/) and store it in log files. This information may include Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
+As is true of most websites, we gather certain information automatically from visitors to our marketing website, [http://www.simplereach.com](http://www.simplereach.com/) and store it in log files. This information may include Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site.
 
 We do not link this automatically collected data to other information we collect about you.
 
@@ -113,9 +121,9 @@ We are committed to protecting personally identifiable information from loss, mi
 
 ### Your Consent to this Privacy Policy
 
-By using this Site and/or any of the SimpleReach Services, you agree to this Privacy Policy. We may occasionally update or modify this Privacy Policy, at our sole discretion. The date of the most recent update of this document will always be displayed at the beginning of this page. If we change our Privacy Policy, we will post those changes on the Site located at <http://www.simplereach.com/privacy>. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users via email (if an email address has been provided) or display a notice on the Site. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personally identifiable information we collect. Your continued use of this Site and/or a Service constitutes your agreement to this Privacy Policy and any updates.
+By using this Site and/or any of the SimpleReach Services, you agree to this Privacy Policy. We may occasionally update or modify this Privacy Policy, at our sole discretion. The date of the most recent update of this document will always be displayed at the beginning of this page. If we change our Privacy Policy, we will post those changes on the Site located at <http://www.simplereach.com/privacy>. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users via email (if an email address has been provided) or display a notice on the Site. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personally identifiable information we collect. Your continued use of this Site and/or a Service constitutes your agreement to this Privacy Policy and any updates.
 
-###  Contacting SimpleReach 
+### Contacting SimpleReach
 
 If you have any questions, comments, or concerns about this Privacy Policy, please contact us at:
 
@@ -126,4 +134,4 @@ If you have any questions, comments, or concerns about this Privacy Policy, plea
 
 
 
-Last updated: 10/27/15 
+Last updated: 9/8/16
