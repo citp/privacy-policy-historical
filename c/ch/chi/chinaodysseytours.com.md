@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinaodysseytours.com privacy policy that was archived on 2016-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160307205521id_/http%3A//www.chinaodysseytours.com/privacy_security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinaodysseytours.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129234040id_/http%3A//www.chinaodysseytours.com/privacy_security.htm) for the most accurate reproduction.*
 
 # Privacy & Security | China Odyssey Tours
 
