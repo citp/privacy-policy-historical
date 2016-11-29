@@ -1,347 +1,190 @@
-<!--The following is the downloaded HTML source of the nicktube.com privacy policy that was archived on 2016-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160520095417id_/http%3A//nicktube.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nicktube.com privacy policy that was archived on 2016-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161129231802id_/http%3A//nicktube.com/info/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-	<title>NickTube - High speed video experience with HD Quality</title>
-	<meta name="author" content="Nicktube">
-	<!-- META DATA -->
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta name="viewport" content="width=device-width, user-scalable=0">
-	 <meta name="description" content="High speed video experience with HD Quality Youtube Videos even it's blocked in your area, No Need any software proxy or VPN , just surf &amp; enjoy">
-    <meta name="keywords" content="songspk, Nicktube, nick tube, nicktube.com, download mp3 songs, bollywood mp3 songs, indian music, download indian songs, latest bollywood mp3 songs, mp3 songs, songs.pk, apniisp.com">
-    <meta name="google-site-verification" content="AFLEO2bZ2J39iUQ0o5rFRimWzIbO1wrl74w84WqjAkz8">
-<link rel="shortcut icon" type="image/x-icon" href="http://nicktube.com/favicon.ico">
-	<meta name="Author" content="Nicktube">
-	<!-- FACEBOOK META TAGS -->
-		<meta property="og:type" content="website">
-	<meta property="og:url" content="http://nicktube.com">
-	<meta property="og:title" content="NickTube - High speed video experience with HD Quality">
-	<meta property="og:description" content="High speed video experience with HD Quality Youtube Videos even it's blocked in your area, No Need any software proxy or VPN , just surf &amp; enjoy">
-	<meta property="og:image" content="">
- 
-	
+<!DOCTYPE html><html lang="en"><head>
+<title>Information - privacy-policy</title>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	
-	<!-- STYLESHEETS -->
-        <link rel="stylesheet" type="text/css" href="http://nicktube.com/themes/css/main.css?ver=3.2">
+<!-- ads verification code -->
+<meta name="verification" content="e66b27c49c57a558538b76ca2d882c08">
 
-<link rel="stylesheet" type="text/css" href="http://nicktube.com/themes/css/slick.css">
-  <link rel="stylesheet" href="http://nicktube.com/themes/css/bootstrap.css" type="text/css">
-	<link rel="stylesheet" type="text/css" href="http://nicktube.com/themes/css/slick-theme4963.css?ver=1.1">
-
-	    <link rel="stylesheet" type="text/css" href="http://nicktube.com/themes/css/nick-default.css?ver=3.2"> 
-    <link rel="stylesheet" type="text/css" href="http://nicktube.com/themes/css/medialibraries.css?ver=3.0">
-	<link rel="stylesheet" type="text/css" href="http://nicktube.com/themes/css/appmedialibraries.css?ver=1.9">
-    <link rel="stylesheet" type="text/css" href="http://nicktube.com/themes/css/jquery-ui.css">
-
-	    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-    <!-- SCRIPTS -->
-
-	<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=&amp;version=v2.0"></script><script type="text/javascript" src="http://nicktube.com/themes/js/jquery.js"></script>
-	<script type="text/javascript" src="http://nicktube.com/themes/js/login.js"></script>
-	<script type="text/javascript" src="http://nicktube.com/themes/js/jquery-ui.js"></script>
-	<script type="text/javascript" src="http://nicktube.com/themes/js/slick.min.js"></script>
-		<script src="http://nicktube.com/themes/js/bootstrap.js"></script>
-
-	
-	<script type="text/javascript">
-		$(document).ready(function() {
-    	    
-    	    //Code To Animate Expand 
-			animateExpand();			function animateExpand() {
-				$("#expand").animate({opacity:"0.5"});
-				$("#rell").animate({opacity:"0.5"});
-				$("#rell").animate({opacity:"1"});
- 				$("#expand").animate({opacity:"1"}, 500, animateExpand);
-			}
-						
-			if( $("#rightbar").css('display') != 'none' )
-				$('.menu').dropit();
-			
-			$('.modaltrigger').leanModal({ top: 110, overlay: 0.45, closeButton: ".hidemodal" });
-			
-			$('.show-more').click(function(e){
-				$('#about').css({'height':'auto','overflow':'visible','background':'transparent'});
-				$(this).remove();
-			});	
-			
-			$('.section').click(function(e){
-				e.preventDefault();
-				// get target element
-				sectionId= $(this).attr('rel');
-				// hide the current element
-				selectedId=$('.link-selected').attr('rel');
-				$('#'+selectedId).slideUp();
-				
-				$('.section').each(function(e){
-					$(this).removeClass('link-selected');
-				});
-				
-				$(this).addClass('link-selected');
-				
-				$('#'+sectionId).slideDown();
-			});	
-								       		
-      		      		
-      		// Custom autocomplete instance.
-			$.widget( "app.autocomplete", $.ui.autocomplete, {
-		
-				// Which class get's applied to matched text in the menu items.
-				options: {
-					highlightClass: "bold-text"
-				},
-		
-				_renderItem: function( ul, item ) {
-
-					// Replace the matched text with a custom span. This
-					// span uses the class found in the "highlightClass" option.
-					var re = new RegExp( "(" + this.term + ")", "gi" ),
-						cls = this.options.highlightClass,
-						template = "<b>$1</b>",
-						label = item.label.replace( re, template ),
-						$li = $( "<li/>" ).appendTo( ul );
-			
-					// Create and return the custom menu item content.
-					$( "<a/>" ).attr( "href", "#" )
-							   .html( label )
-							   .appendTo( $li );
-			
-					return $li;
-			
-				}
-		
-			});
-      		
-      		$( ".autocomplete" ).autocomplete({
-			   source: function (request, response) {
-					$.getJSON("http://suggestqueries.google.com/complete/search?callback=?",{ 
-						'hl':'en','q':request.term,'client':'youtube','ds':'yt','gl':'us' 
-						},function(data){
-							var suggestions = [];
-							$.each(data[1], function(key, val) {
-								suggestions.push(val[0]);
-							});
-							suggestions.length = 6;  
-							response(suggestions);					
-                	});
-                
-				},
-				search: function( event, ui ){
-					
-				},
-				response: function( event, ui ){
-					
-				},
-				select: function( event, ui ) {
-					$("input[name=q]").val(ui.item.value);
-					$('#search').submit();
-				},
-				minLength: 3,
-				delay: 50
-			});
-			
-								
-		});
-		
-		 		 
-		
-	</script>	
-
-
-     <style>
-    	#leftbar{
-    		width: 650px;
-    	}
-    	
-    	.search .details{
-    		width: 450px;
-    	}
-    </style>
-    
-
-    
-    <style type="text/css">
-    	#tip-bar{
-    		position: absolute;
-			display: block;
-			width: 100%;
-			height: 55px;
-			line-height: 55px;
-			top: 0px;
-			left: 0px;
-			background: #FDFFF1;
-			border-bottom: 1px solid #e2e2e2;
-			font-size: 1.2em;
-			z-index: 3;
-    	}
-    	
-    	#tip-bar #canvas .close{
-    		display: block;
-			width: 22px;
-			height: 22px;
-			background: #707070;
-			text-align: center;
-			font-weight: bold;
-			margin-top: 17px;
-			float: right;
-			border-radius: 11px;
-			color: #ffffff;
-			line-height: 20px;
-			font-size: 1.1em;
-			cursor: pointer;
-    	}
-    	
-    	#tip-bar #canvas .try-now{
-    		background: #3b5998;
-    		color: #fff;
-    		padding: 5px 15px;
-    		text-decoration: none;
-    		margin-left: 0px;
-    		margin-right: 15px;
-    		font-weight: bold;
-    	}
-    	
-	
-    </style>   
-   
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="dns-prefetch" href="//clients1.google.com/complete/search">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1.0">
+<meta name="description" content="High speed video experience with HD Quality Youtube Videos even it's blocked in your area, No Need any software proxy or VPN , just surf &amp; enjoy">
+<meta name="keywords" content="songspk, download mp3 songs, bollywood mp3 songs, indian music, download indian songs, latest bollywood mp3 songs, mp3 songs, songs.pk, apniisp.com">
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<link href="//fonts.googleapis.com/css?family=Roboto:400,500,300" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1/themes/flick/jquery-ui.css">
+<link rel="stylesheet" type="text/css" href="/static/default/css/style.css">
+<link href="/static/favicon.ico" type="image/x-icon" rel="shortcut icon">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4&amp;appId=451173081630351"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//c1.popads.net/pop.js"></script><script type="text/javascript" async="" src="//c2.popads.net/pop.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js" type="text/javascript"></script>
+<script type="text/javascript">var site_url = "http://nicktube.com/";</script>
 </head>
 <body>
-<div id="fb-root"></div>
-	<script>(function(d, s, id) {
-	  var js, fjs = d.getElementsByTagName(s)[0];
-	  if (d.getElementById(id)) return;
-	  js = d.createElement(s); js.id = id;
-	  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=&version=v2.0";
-	  fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));</script>
-	<!-- TOP BAR -->
-	<a class="show-nav" href="javascript:void(0);"><span id="i-nav-display">Menu</span></a>
-	<div class="anim"></div>
-	<div id="topbar">
-		<div id="header_convas">
-			<!-- LOGO -->
-			<a href="http://nicktube.com" class="logo"></a>
-			<!-- SEARCH -->
 
-				 						
-			<form method="GET" action="http://nicktube.com/search" id="search">
-				<input type="text" name="q" placeholder="Search Youtube Videos" class="autocomplete">
-				<input type="submit" value="">
-			</form>
-		<div class="col-md-3" style="float:right">
-           <div class="sectionLogin">
-               
+<!-- PopAds.net Popunder Code for nicktube.com -->
+<script type="text/javascript" data-cfasync="false">
+//<![CDATA[
+  var _pop = _pop || [];
+  _pop.push(['siteId', 602406]);
+  _pop.push(['minBid', 0]);
+  _pop.push(['popundersPerIP', 0]);
+  _pop.push(['delayBetween', 0]);
+  _pop.push(['default', false]);
+  _pop.push(['defaultPerDay', 0]);
+  _pop.push(['topmostLayer', false]);
+  (function() {
+    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+    var s = document.getElementsByTagName('script')[0]; 
+    pa.src = '//c1.popads.net/pop.js';
+    pa.onerror = function() {
+      var sa = document.createElement('script'); sa.type = 'text/javascript'; sa.async = true;
+      sa.src = '//c2.popads.net/pop.js';
+      s.parentNode.insertBefore(sa, s);
+    };
+    s.parentNode.insertBefore(pa, s);
+  })();
+//]]>
+</script>
+<!-- PopAds.net Popunder Code End -->
 
-            
-              <div class="loginButton">
-                <div class="hidden-xs">
-                  <a class="button-white" data-toggle="modal" data-target="#upload" style="margin-right: 5px; float: left;margin-left: -85px; cursor: pointer;">Upload</a>
-                </div>
-             </div>  
-              <div class="loginButton">
-              	<div class="hidden-xs">
-             
-                <a class="button-white" data-toggle="modal" data-target="#myModal" style="margin-right: 5px; cursor: pointer;">Login</a>
-
-                   <!-- Modal -->
-               </div>
-              </div>
-                          </div>   
-          </div>  
-        </div>
-      </div>
-
-
-                     <div class="modal fade" id="upload" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                  <div class="modal-dialog">
-                    <div class="modal-content">
-                      <!--div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                        <!--h4 class="modal-title" id="myModalLabel" style="color: red ">By uploading , you agree to be bound by all Pakistan's applicable laws and regulations. Any user promoting videos containing Religious Hatred contents will be banned and reported to Info@nicktube.com</h4>
-                      </div-->
-                      <div class="modal-body">
-                        <a href="https://accounts.google.com/o/oauth2/auth?response_type=code&amp;redirect_uri=http%3A%2F%2Fnicktube.com%2F&amp;client_id=221898617710-ipmm0g4qvcg7k65v6ldd9ioloqpa0dem.apps.googleusercontent.com&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.login+email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.upload+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutubepartner+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.force-ssl&amp;access_type=offline&amp;approval_prompt=auto" class="btn btn-danger">Login with Google</a>
-                      </div>
-                      <div class="modal-footer">
-                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                      </div>
+<!-- STRAT HEADER -->
+<header class="navbar navbar-fixed-top navbar-yt">
+    <div class="container">
+		<div class="row">
+			<div class="navbar-header">
+                <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+                    <i class="flaticon-circles47" style="font-size:20px"></i>
+                </button>
+                <a href="http://nicktube.com/" class="navbar-brand"><img src="/static/default/imgs/logo.png" alt=""></a>
+            </div>
+            <div class="col-md-7 col-sm-7 col-xs-12">
+                <form action="http://nicktube.com/search" method="get" class="search" id="main-search">
+                    <div class="input-group group-search" id="group-search">
+                      <input type="text" name="q" id="q" class="form-control" value="" placeholder="Search YouTube Videos / YouTube URL">
+                      <span class="input-group-btn">
+                        <button class="btn btn-default" type="submit" style="height: 34px;"><i class="flaticon-search74"></i></button>
+                      </span>
                     </div>
-                  </div>
-                </div>
+                </form>
+            </div>
+            <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+    			
+                
+                <ul class="nav navbar-nav navbar-right">
+                    
+                    <li class="dropdown"> 
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                        
+                        <span calss="hidden-desktop"><i class="fa fa-bars"></i> Categories</span>
+                        <span class="caret"></span>
+                      </a>
+                      <ul class="dropdown-menu" role="menu">
+                        <li><a href="category?id=27"><i class="flaticon-badges3"></i><span>Education</span></a></li>
+                        <li><a href="category?id=40"><i class="flaticon-ufo"></i> <span>Sci-Fi/Fantasy</span></a></li>
+                        <li><a href="category?id=28"><i class="flaticon-chemistry36"></i> <span>Science &amp; Technology</span></a></li>
+                        <li><a href="category?id=17"><i class="flaticon-sport40"></i> <span>Sports</span></a></li>
+                        <li><a href="category?id=24"><i class="flaticon-videocamera17"></i> <span>Entertainment</span></a></li>
+                        <li><a href="category?id=23"><i class="flaticon-mostache"></i> <span>Comedy</span></a></li>
+                        <li><a href="category?id=25"><i class="flaticon-microphones46"></i> <span>News &amp; Politics</span></a></li>
+                        <li><a href="category?id=1"><i class="flaticon-clipboards6"></i> <span>Film &amp; Animation</span></a></li>
+                        <li><a href="category?id=10"><i class="flaticon-soundwaves3"></i> <span>Music</span></a></li>
+                      </ul>
+                    </li>
+                </ul>
 
-                    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                  <div class="modal-dialog">
-                    <div class="modal-content">
-                      <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
-                        <h4 class="modal-title" id="myModalLabel">By accessing and using this Site, you agree to be bound by all Pakistan's applicable laws and regulations. Any user promoting videos containing Religious Hatred contents will be banned and reported to Info@nicktube.com</h4>
-                      </div>
-                      <div class="modal-body">
-                        <a href="https://accounts.google.com/o/oauth2/auth?response_type=code&amp;redirect_uri=http%3A%2F%2Fnicktube.com%2F&amp;client_id=221898617710-ipmm0g4qvcg7k65v6ldd9ioloqpa0dem.apps.googleusercontent.com&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.login+email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.upload+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutubepartner+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fyoutube.force-ssl&amp;access_type=offline&amp;approval_prompt=auto" class="btn btn-danger">Login with Google</a>
-                      </div>
-                      <div class="modal-footer">
-                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-								
-					
-	
-	
-	<!-- CATEGORY MENU -->
-	<div class="category-menu">
-		<div id="canvaser" style="overflow: visible; position: relative;">
-			<span class="title">Categories</span>
-			<a href="http://nicktube.com/category/activisim" class="each">Activisim</a><a href="http://nicktube.com/category/animation" class="each">Film &amp; Animation</a><a href="http://nicktube.com/category/comedy" class="each">Comedy</a><a href="http://nicktube.com/category/gaming" class="each">Gaming</a><a href="http://nicktube.com/category/movies" class="each">Movies</a><a href="http://nicktube.com/category/music" class="each">Music</a><a href="http://nicktube.com/category/news" class="each">News &amp; Politics</a><a href="http://nicktube.com/category/people" class="each">People &amp; Blog</a><a href="http://nicktube.com/category/shows" class="each">Shows</a><a href="http://nicktube.com/category/sports" class="each">Sports</a><a href="http://nicktube.com/category/trailers" class="each">Trailers</a>			<a href="javascript:void(0);" class="each more-categories">More..</a>
-			<span class="category-dropdown" style="display: none;">
-				<a href="http://nicktube.com/category/auto-vehicles" class="each">Autos &amp; Vehicles</a><a href="http://nicktube.com/category/education" class="each">Education</a><a href="http://nicktube.com/category/entertainment" class="each">Entertainment</a><a href="http://nicktube.com/category/howto" class="each">Howto &amp; Style</a><a href="http://nicktube.com/category/pets-animals" class="each">Pets &amp; Animals</a><a href="http://nicktube.com/category/science" class="each">Science &amp; Technology</a>			</span>
+            </nav></div>
+		    
 		</div>
-	</div>
-	<section>
-	<div class="container">
-		
-		<h1>Privacy Policy for www.Nicktube.com</h1><br>
-              <p>If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@nicktube.com.</p><br>
-              
-              <p>At NickTube, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.nicktube.com and how it is used.</p><br>
-              
-              <h3>Log Files</h3>
-              <p>Like many other Web sites, www.nicktube.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.</p><br>
-              
-              <h3>Cookies and Web Beacons</h3>
-              <p>www.nicktube.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.</p><br>
-              
-              <h3>DoubleClick DART Cookie</h3>
-              <p>.:: Google, as a third party vendor, uses cookies to serve ads on www.nicktube.com.</p><br>
-              <p>.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to www.nicktube.com and other sites on the Internet. </p><br>
-              <p>.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html</p><br>
-              
-              Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....... <p></p><br>
-              <h3>Google Adsense </h3>
-                   
-              <p>These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.nicktube.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.</p><br>
-              
-              <p>www.nicktube.com has no access to or control over these cookies that are used by third-party advertisers.</p><br>
-              
-              <p>You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.nicktube.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</p><br>
-              
-              <p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.</p><br>
-        
+	
+</header>
+
+<script type="text/javascript" src="//pl12642674.puserving.com/4c/81/48/4c8148b0868f5dbe813db0742eea3be1.js"></script><div class="container">
+	<div class="row no-gutter">
+		<div class="col-md-8" id="channelsContainer">
+	        <div class="yt-block p-md">
+	            <h3>Privacy Policy</h3> <hr>
+	            <div><strong>What information do we collect?</strong></div>
+	            <p>When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.</p>
+	            <p>We do not store or share usernames, profile pics or any other private information except user id &amp; email (which is public). We take privacy very seriously. </p>
+	            <p>Our site relies on oAuth and you will never be encouraged or asked to share your password under any circumstances. You can de-authorize our application anytime by visiting Privacy section in your Facebook profile settings.</p>
+
+	            <div><strong>What do we use your information for?</strong></div> 
+				<p>Any of the information we collect from you may be used in one of the following ways: <br><br>; To send product updates<br><br>The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.</p>
+
+				<div><strong>Do we use cookies?</strong></div> 
+				<p>We do use cookies but over SSL only.</p>
+
+				<div><strong>Do we disclose any information to outside parties?</strong></div>
+				<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+
+				<div><strong>Childrens Online Privacy Protection Act Compliance</strong></div>
+				<p>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</p>
+				<div><strong>Online Privacy Policy Only</strong></div> 
+				<p>This online privacy policy applies only to information collected through our website and not to information collected offline.</p>
+				<div><strong>Your Consent</strong></div>
+				<p>By using our site, you consent to our <a style="text-decoration:none; color:#3C3C3C;" href="privacy.php" target="_blank">web site privacy policy</a></p>
+				<div><strong>Changes to our Privacy Policy</strong></div> 
+				<p>If we decide to change our privacy policy, we will post those changes on this page. </p>
+
+				<div><strong>Contacting Us</strong></div> 
+				<p>If there are any questions regarding this privacy policy you may contact us using the information below. </p>
+				http://nicktube.com/<br>info@nicktube.com
+	        </div>
+		</div>
+	    <div class="col-md-4">
+	        <div class="yt-block m-b-lg">
+    <div class="p-lg">
+        <div class="fb-like" data-href="http://nicktube.com/" data-width="280" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
     </div>
-</section><!-- FOOTER -->
-<div id="footer">
-	<div id="canvas" class="canvas_var">
-		<a class="links" href="/">Home</a><span class="separator">|</span><a class="links" href="http://nicktube.com/terms">Terms of Use</a><span class="separator">|</span><a class="links" href="http://nicktube.com/privacy">Privacy Policy</a><span class="separator">|</span><a class="links" href="http://nicktube.com/contact">Contact Us</a>
-		<span class="copyright">Copyright © 2014-2015, All Rights Reserved</span>
-		<span class="from">By using this site you are agreeing to our terms of service.</span>
-	</div>
 </div>
+<div class="yt-block">
+    <div class="p-sm p-t-md">
+        <div class="ad ad300 m-b-lg" align="center">
+            <iframe src="http://creative.wwwpromoter.com/28523?d=300x250" width="300" height="250" style="border: none;" frameborder="0" scrolling="no"></iframe>        </div>
+        <div class="ad ad300 m-b-lg" align="center">
+           <iframe src="http://creative.wwwpromoter.com/28523?d=300x250" width="300" height="250" style="border: none;" frameborder="0" scrolling="no"></iframe>        </div>
+    </div>
+</div>	    </div>
+	</div>
+</div><!-- START FOOTER -->
+<footer id="footer">
+    <div class="container">
+        <div class="col-md-8">
+            <ul class="footer-nav">
+                <li><a href="http://nicktube.com/">Home</a></li>
+                <li><a href="http://nicktube.com/info/privacy-policy">Privacy Policy</a></li>
+                <li><a href="http://nicktube.com/info/terms-of-services">Terms of Service</a></li>
+                <li><a href="http://nicktube.com/info/advertisement">Advertisement</a></li>
+            </ul>
+<!--             <a href="#" class="btn btn-default" role="button">Content location: United States</a>
+ -->        </div>
+        <div class="col-md-4">
+            <div class="copyrights">Copyright © 2014-2016, All Rights Reserved</div>
+        </div>
+<!--         <div class="col-md-8" id="country">
+          <div class="row"><a href="af">Afghanistan</a></div></div><br><br><div class="col-md-3"><div class="row"><a href="ax">Åland Islands</a></div><div class="row"><a href="al">Albania</a></div><div class="row"><a href="dz">Algeria</a></div><div class="row"><a href="as">American Samoa</a></div><div class="row"><a href="ad">Andorra</a></div><div class="row"><a href="ao">Angola</a></div><div class="row"><a href="ai">Anguilla</a></div><div class="row"><a href="aq">Antarctica</a></div><div class="row"><a href="ag">Antigua and Barbuda</a></div><div class="row"><a href="ar">Argentina</a></div><div class="row"><a href="am">Armenia</a></div><div class="row"><a href="aw">Aruba</a></div><div class="row"><a href="au">Australia</a></div><div class="row"><a href="at">Austria</a></div><div class="row"><a href="az">Azerbaijan</a></div></div><br><br><div class="col-md-3"><div class="row"><a href="bs">Bahamas</a></div><div class="row"><a href="bh">Bahrain</a></div><div class="row"><a href="bd">Bangladesh</a></div><div class="row"><a href="bb">Barbados</a></div><div class="row"><a href="by">Belarus</a></div><div class="row"><a href="be">Belgium</a></div><div class="row"><a href="bz">Belize</a></div><div class="row"><a href="bj">Benin</a></div><div class="row"><a href="bm">Bermuda</a></div><div class="row"><a href="bt">Bhutan</a></div><div class="row"><a href="bo">Bolivia, Plurinational State of</a></div><div class="row"><a href="ba">Bosnia and Herzegovina</a></div><div class="row"><a href="bw">Botswana</a></div><div class="row"><a href="bv">Bouvet Island</a></div><div class="row"><a href="br">Brazil</a></div></div><br><br><div class="col-md-3"><div class="row"><a href="io">British Indian Ocean Territory</a></div><div class="row"><a href="bn">Brunei Darussalam</a></div><div class="row"><a href="bg">Bulgaria</a></div><div class="row"><a href="bf">Burkina Faso</a></div><div class="row"><a href="bi">Burundi</a></div><div class="row"><a href="kh">Cambodia</a></div><div class="row"><a href="cm">Cameroon</a></div><div class="row"><a href="ca">Canada</a></div><div class="row"><a href="cv">Cape Verde</a></div><div class="row"><a href="ky">Cayman Islands</a></div><div class="row"><a href="cf">Central African Republic</a></div><div class="row"><a href="td">Chad</a></div><div class="row"><a href="cl">Chile</a></div><div class="row"><a href="cn">China</a></div><div class="row"><a href="cx">Christmas Island</a></div></div><br><br><div class="col-md-3"><div class="row"><a href="cc">Cocos (Keeling) Islands</a></div><div class="row"><a href="co">Colombia</a></div><div class="row"><a href="km">Comoros</a></div><div class="row"><a href="cg">Congo</a></div><div class="row"><a href="cd">Congo, the Democratic Republic of the</a></div><div class="row"><a href="ck">Cook Islands</a></div><div class="row"><a href="cr">Costa Rica</a></div><div class="row"><a href="ci">Côte d'Ivoire</a></div><div class="row"><a href="hr">Croatia</a></div><div class="row"><a href="cu">Cuba</a></div><div class="row"><a href="cy">Cyprus</a></div><div class="row"><a href="cz">Czech Republic</a></div><div class="row"><a href="dk">Denmark</a></div><div class="row"><a href="dj">Djibouti</a></div><div class="row"><a href="dm">Dominica</a></div></div><br><br><div class="col-md-3"><div class="row"><a href="do">Dominican Republic</a></div><div class="row"><a href="ec">Ecuador</a></div><div class="row"><a href="eg">Egypt</a></div><div class="row"><a href="sv">El Salvador</a></div><div class="row"><a href="gq">Equatorial Guinea</a></div><div class="row"><a href="er">Eritrea</a></div><div class="row"><a href="ee">Estonia</a></div><div class="row"><a href="et">Ethiopia</a></div><div class="row"><a href="fk">Falkland Islands (Malvinas)</a></div><div class="row"><a href="fo">Faroe Islands</a></div><div class="row"><a href="fj">Fiji</a></div><div class="row"><a href="fi">Finland</a></div><div class="row"><a href="fr">France</a></div><div class="row"><a href="gf">French Guiana</a></div><div class="row"><a href="pf">French Polynesia</a></div></div><br><br><div class="col-md-3"><div class="row"><a href="tf">French Southern Territories</a></div><div class="row"><a href="ga">Gabon</a></div><div class="row"><a href="gm">Gambia</a></div><div class="row"><a href="ge">Georgia</a></div><div class="row"><a href="de">Germany</a></div><div class="row"><a href="gh">Ghana</a></div><div class="row"><a href="gi">Gibraltar</a></div><div class="row"><a href="gr">Greece</a></div><div class="row"><a href="gl">Greenland</a></div><div class="row"><a href="gd">Grenada</a></div><div class="row"><a href="gp">Guadeloupe</a></div><div class="row"><a href="gu">Guam</a></div><div class="row"><a href="gt">Guatemala</a></div><div class="row"><a href="gg">Guernsey</a></div><div class="row"><a href="gn">Guinea</a></div></div><br><br><div class="col-md-3"><div class="row"><a href="gw">Guinea-Bissau</a></div><div class="row"><a href="gy">Guyana</a></div><div class="row"><a href="ht">Haiti</a></div><div class="row"><a href="hm">Heard Island and McDonald Islands</a></div><div class="row"><a href="va">Holy See (Vatican City State)</a></div><div class="row"><a href="hn">Honduras</a></div><div class="row"><a href="hk">Hong Kong</a></div><div class="row"><a href="hu">Hungary</a></div><div class="row"><a href="is">Iceland</a></div><div class="row"><a href="in">India</a></div><div class="row"><a href="id">Indonesia</a></div><div class="row"><a href="ir">Iran, Islamic Republic of</a></div><div class="row"><a href="iq">Iraq</a></div><div class="row"><a href="ie">Ireland</a></div><div class="row"><a href="im">Isle of Man</a></div></div><br><br><div class="col-md-3"><div class="row"><a href="il">Israel</a></div><div class="row"><a href="it">Italy</a></div><div class="row"><a href="jm">Jamaica</a></div><div class="row"><a href="jp">Japan</a></div><div class="row"><a href="je">Jersey</a></div><div class="row"><a href="jo">Jordan</a></div><div class="row"><a href="kz">Kazakhstan</a></div><div class="row"><a href="ke">Kenya</a></div><div class="row"><a href="ki">Kiribati</a></div><div class="row"><a href="kp">Korea, Democratic People's Republic of</a></div><div class="row"><a href="kr">Korea, Republic of</a></div><div class="row"><a href="kw">Kuwait</a></div><div class="row"><a href="kg">Kyrgyzstan</a></div><div class="row"><a href="la">Lao People's Democratic Republic</a></div><div class="row"><a href="lv">Latvia</a></div></div><br><br><div class="col-md-3"><div class="row"><a href="lb">Lebanon</a></div><div class="row"><a href="ls">Lesotho</a></div><div class="row"><a href="lr">Liberia</a></div><div class="row"><a href="ly">Libyan Arab Jamahiriya</a></div><div class="row"><a href="li">Liechtenstein</a></div><div class="row"><a href="lt">Lithuania</a></div><div class="row"><a href="lu">Luxembourg</a></div><div class="row"><a href="mo">Macao</a></div><div class="row"><a href="mk">Macedonia, the former Yugoslav Republic of</a></div><div class="row"><a href="mg">Madagascar</a></div><div class="row"><a href="mw">Malawi</a></div><div class="row"><a href="my">Malaysia</a></div><div class="row"><a href="mv">Maldives</a></div><div class="row"><a href="ml">Mali</a></div><div class="row"><a href="mt">Malta</a></div></div><br><br><div class="col-md-3"><div class="row"><a href="mh">Marshall Islands</a></div><div class="row"><a href="mq">Martinique</a></div><div class="row"><a href="mr">Mauritania</a></div><div class="row"><a href="mu">Mauritius</a></div><div class="row"><a href="yt">Mayotte</a></div><div class="row"><a href="mx">Mexico</a></div><div class="row"><a href="fm">Micronesia, Federated States of</a></div><div class="row"><a href="md">Moldova, Republic of</a></div><div class="row"><a href="mc">Monaco</a></div><div class="row"><a href="mn">Mongolia</a></div><div class="row"><a href="me">Montenegro</a></div><div class="row"><a href="ms">Montserrat</a></div><div class="row"><a href="ma">Morocco</a></div><div class="row"><a href="mz">Mozambique</a></div><div class="row"><a href="mm">Myanmar</a></div></div><br><br><div class="col-md-3"><div class="row"><a href="na">Namibia</a></div><div class="row"><a href="nr">Nauru</a></div><div class="row"><a href="np">Nepal</a></div><div class="row"><a href="nl">Netherlands</a></div><div class="row"><a href="an">Netherlands Antilles</a></div><div class="row"><a href="nc">New Caledonia</a></div><div class="row"><a href="nz">New Zealand</a></div><div class="row"><a href="ni">Nicaragua</a></div><div class="row"><a href="ne">Niger</a></div><div class="row"><a href="ng">Nigeria</a></div><div class="row"><a href="nu">Niue</a></div><div class="row"><a href="nf">Norfolk Island</a></div><div class="row"><a href="mp">Northern Mariana Islands</a></div><div class="row"><a href="no">Norway</a></div><div class="row"><a href="om">Oman</a></div></div><br><br><div class="col-md-3"><div class="row"><a href="pk">Pakistan</a></div><div class="row"><a href="pw">Palau</a></div><div class="row"><a href="ps">Palestinian Territory, Occupied</a></div><div class="row"><a href="pa">Panama</a></div><div class="row"><a href="pg">Papua New Guinea</a></div><div class="row"><a href="py">Paraguay</a></div><div class="row"><a href="pe">Peru</a></div><div class="row"><a href="ph">Philippines</a></div><div class="row"><a href="pn">Pitcairn</a></div><div class="row"><a href="pl">Poland</a></div><div class="row"><a href="pt">Portugal</a></div><div class="row"><a href="pr">Puerto Rico</a></div><div class="row"><a href="qa">Qatar</a></div><div class="row"><a href="re">Réunion</a></div><div class="row"><a href="ro">Romania</a></div></div><br><br><div class="col-md-3"><div class="row"><a href="ru">Russian Federation</a></div><div class="row"><a href="rw">Rwanda</a></div><div class="row"><a href="bl">Saint Barthélemy</a></div><div class="row"><a href="sh">Saint Helena</a></div><div class="row"><a href="kn">Saint Kitts and Nevis</a></div><div class="row"><a href="lc">Saint Lucia</a></div><div class="row"><a href="mf">Saint Martin (French part)</a></div><div class="row"><a href="pm">Saint Pierre and Miquelon</a></div><div class="row"><a href="vc">Saint Vincent and the Grenadines</a></div><div class="row"><a href="ws">Samoa</a></div><div class="row"><a href="sm">San Marino</a></div><div class="row"><a href="st">Sao Tome and Principe</a></div><div class="row"><a href="sa">Saudi Arabia</a></div><div class="row"><a href="sn">Senegal</a></div><div class="row"><a href="rs">Serbia</a></div></div><br><br><div class="col-md-3"><div class="row"><a href="sc">Seychelles</a></div><div class="row"><a href="sl">Sierra Leone</a></div><div class="row"><a href="sg">Singapore</a></div><div class="row"><a href="sk">Slovakia</a></div><div class="row"><a href="si">Slovenia</a></div><div class="row"><a href="sb">Solomon Islands</a></div><div class="row"><a href="so">Somalia</a></div><div class="row"><a href="za">South Africa</a></div><div class="row"><a href="gs">South Georgia and the South Sandwich Islands</a></div><div class="row"><a href="es">Spain</a></div><div class="row"><a href="lk">Sri Lanka</a></div><div class="row"><a href="sd">Sudan</a></div><div class="row"><a href="sr">Suriname</a></div><div class="row"><a href="sj">Svalbard and Jan Mayen</a></div><div class="row"><a href="sz">Swaziland</a></div></div><br><br><div class="col-md-3"><div class="row"><a href="se">Sweden</a></div><div class="row"><a href="ch">Switzerland</a></div><div class="row"><a href="sy">Syrian Arab Republic</a></div><div class="row"><a href="tw">Taiwan, Province of China</a></div><div class="row"><a href="tj">Tajikistan</a></div><div class="row"><a href="tz">Tanzania, United Republic of</a></div><div class="row"><a href="th">Thailand</a></div><div class="row"><a href="tl">Timor-Leste</a></div><div class="row"><a href="tg">Togo</a></div><div class="row"><a href="tk">Tokelau</a></div><div class="row"><a href="to">Tonga</a></div><div class="row"><a href="tt">Trinidad and Tobago</a></div><div class="row"><a href="tn">Tunisia</a></div><div class="row"><a href="tr">Turkey</a></div><div class="row"><a href="tm">Turkmenistan</a></div></div><br><br><div class="col-md-3"><div class="row"><a href="tc">Turks and Caicos Islands</a></div><div class="row"><a href="tv">Tuvalu</a></div><div class="row"><a href="ug">Uganda</a></div><div class="row"><a href="ua">Ukraine</a></div><div class="row"><a href="ae">United Arab Emirates</a></div><div class="row"><a href="gb">United Kingdom</a></div><div class="row"><a href="us">United States</a></div><div class="row"><a href="um">United States Minor Outlying Islands</a></div><div class="row"><a href="uy">Uruguay</a></div><div class="row"><a href="uz">Uzbekistan</a></div><div class="row"><a href="vu">Vanuatu</a></div><div class="row"><a href="ve">Venezuela, Bolivarian Republic of</a></div><div class="row"><a href="vn">Viet Nam</a></div><div class="row"><a href="vg">Virgin Islands, British</a></div><div class="row"><a href="vi">Virgin Islands, U.S.</a></div></div><br><br><div class="col-md-3"><div class="row"><a href="wf">Wallis and Futuna</a></div><div class="row"><a href="eh">Western Sahara</a></div><div class="row"><a href="ye">Yemen</a></div><div class="row"><a href="zm">Zambia</a></div><div class="row"><a href="zw">Zimbabwe</a></div>        </div> -->
+    </div>
 
-  <script src="http://nicktube.com/static/s.js"></script>
 
-<!-- GOOGLE ANALYTICS -->	
-  <script>
+</footer>
+
+<script data-cfasync="false" type="text/javascript" src="//clksite.com/adServe/banners?tid=20804_29038_9&amp;type=footer&amp;size=728x90"></script>
+<!-- <script data-cfasync='false' type='text/javascript' src='//clksite.com/adServe/banners?tid=20804_29038_9&type=footer&size=728x90'></script>
+ -->
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+
+<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/static/default/js/app.js"></script>
+ <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -351,197 +194,53 @@
   ga('send', 'pageview');
 
 </script>
-<!-- end-->
-<!-- Start Alexa Certify Javascript -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=451173081630351";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<!-- 
 <script type="text/javascript">
-_atrk_opts = { atrk_acct:"lnask1aklw00al", domain:"nicktube.com",dynamic: true};
-(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
-</script>
-	<!-- AddThis Smart Layers BEGIN -->
-	<!-- Go to http://www.addthis.com/get/smart-layers to customize -->
-	
-	<script type="text/javascript">
-	  var left = 0;
-	  var callback = function(smartlayer){
-		if (left==1){
-			$('.addthis-smartlayers').hide();
-		} 
-	  };	
-	
-	  if( $(window).width() < 1000 ){	
-		  addthis.layers({
-			'theme' : 'transparent',
-			'share' : {
-			  'position' : 'right',
-			  'numPreferredServices' : 5
-			} 
-		  },callback);
-	  }else{
-	  		addthis.layers({
-			'theme' : 'transparent',
-			'share' : {
-			  'position' : 'left',
-			  'numPreferredServices' : 5
-			} 
-		  },callback);
-	  
-	  }
-	</script>
-	<!-- AddThis Smart Layers END -->
-	<script type="text/javascript">
-    	$(document).ready(function(){
-    	
-    		$('.mobile-nav').click(function(e){
-				$('.mobile-menu').toggle();    		
-    		});
-    	
-    	
-    	
+$(document).ready(function(){
+    
+    if( getCookie('hide_my_ad') == 'yes' ){
+        $("#adBlock").remove();
+    }
+    
+    $("#adBlock").on('click',function(e){
+        setCookie('hide_my_ad','yes',8);
+     
+    });
+    
+});
 
-			
-						
-			// Custom autocomplete instance.
-			$.widget( "app.autocomplete", $.ui.autocomplete, {
-		
-				// Which class get's applied to matched text in the menu items.
-				options: {
-					highlightClass: "bold-text"
-				},
-		
-				_renderItem: function( ul, item ) {
+function setCookie(cname, cvalue, hours) {
+    var d = new Date();
+    d.setTime(d.getTime() + (hours * 60 * 60 * 1000));
+    var expires = "expires="+d.toUTCString();
+    document.cookie = cname + "=" + cvalue + "; " + expires;
+}
 
-					// Replace the matched text with a custom span. This
-					// span uses the class found in the "highlightClass" option.
-					var re = new RegExp( "(" + this.term + ")", "gi" ),
-						cls = this.options.highlightClass,
-						template = "<b>$1</b>",
-						label = item.label.replace( re, template ),
-						$li = $( "<li/>" ).appendTo( ul );
-			
-					// Create and return the custom menu item content.
-					$( "<a/>" ).attr( "href", "#" )
-							   .html( label )
-							   .appendTo( $li );
-			
-					return $li;
-			
-				}
-		
-			});
-			
-			$( ".autocomplete" ).autocomplete({
-			   source: function (request, response) {
-					$.getJSON("http://suggestqueries.google.com/complete/search?callback=?",{ 
-						'hl':'en','q':request.term,'client':'youtube','ds':'yt','gl':'us' 
-						},function(data){
-							var suggestions = [];
-							$.each(data[1], function(key, val) {
-								suggestions.push(val[0]);
-							});
-							suggestions.length = 6;  
-							response(suggestions);					
-                	});
-                
-				},
-				search: function( event, ui ){
-					
-				},
-				response: function( event, ui ){
-					
-				},
-				select: function( event, ui ) {
-					$("input[name=q]").val(ui.item.value);
-					$('#search').submit();
-				},
-				minLength: 3,
-				delay: 50
-			});
-			
-						
-						
-				if( $(window).height() > 550 ){
-					if( localStorage ) {
-													$('#canvaser').prepend('<span class="title">Personalized</span><a href="history" class="each history-button">Recently Viewed</a>');
-												}	
-				}
-			
-	
-			
-			    	
-    		var leftOffset = 0;
-    		$('.show-nav').click(function(e){
-    			
-    			e.preventDefault();
-    			
-				if(left==0){
-					leftOffset = $("#canvas").offset().left;
-					if ( window.matchMedia('(min-width: 1250px)').matches && window.matchMedia('(max-width: 1300px)').matches ){
-						$('[id=canvas]').css("margin-left", "230px");
-					}else if( window.matchMedia('(min-width: 1300px)').matches ){
-						bodyWidth = $('body').innerWidth();
-						margins = parseInt( parseInt( parseInt(bodyWidth) - 200 - 1010 ) / 2 ) + parseInt(200);
-						console.log(margins);
-						$('[id=canvas]').css("margin-left", ""+margins+"px");
-					}
-					$('.category-menu').show();
-					$('.addthis-smartlayers').hide();
-					left = 1;
-				}else{
-					if ( window.matchMedia('(min-width: 1250px)').matches && window.matchMedia('(max-width: 1300px)').matches){
-					   $('[id=canvas]').css("margin-left", leftOffset);
-					}else if( window.matchMedia('(min-width: 1300px)').matches ){
-					   $('[id=canvas]').css("margin-left", leftOffset);
-					}
-					$('.category-menu').hide();
-					$('.addthis-smartlayers').show();
-					left = 0;
-				}
-				
-			});
-    	
-			$('.more-categories,.category-dropdown').mouseenter(function(){
-				$('.category-dropdown').show();
-			}).mouseleave(function(){
-				$('.category-dropdown').hide();
-			});
+function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length);
+        }
+    }
+    return "";
+}
 
-			$('.more-categories').click(function(e){
-				e.preventDefault();
-				$('.category-dropdown').toggle();
-			});
-			$("#expand").click(function(e) {
-  			    e.preventDefault(); // if desired...
-				expand();
-	   		});
-			
-						
-			
-		});
-		
-		var bottom = false;  
-		var lowerbottom = false;
-		
-			
-		
-		$(window).scroll(function() {
-		   if($(window).scrollTop() + $(window).height() > $(document).height() - 200) {
-		   		if( bottom == false ){
-		   			load_recommendations();
-		   			bottom = true;	
-		   		}
-		   }
-		});
-		
-				
-		$(window).bind('scroll', function() {
-			 if ($(window).scrollTop() > 50) {
-				 $('#topbar').addClass('topbar-scroll');
-			 }
-			 else {
-				 $('#topbar').removeClass('topbar-scroll');
-			 }
-		});
-		
 </script>
 
-</body></html>
+<img src="http://placehold.it/300x250" id="adBlock" alt=""> --></body></html>
