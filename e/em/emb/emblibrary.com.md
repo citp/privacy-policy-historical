@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the emblibrary.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603233923id_/http%3A//www.emblibrary.com/EL/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emblibrary.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129224114id_/http%3A//www.emblibrary.com/EL/Privacy.aspx) for the most accurate reproduction.*
 
 # Machine Embroidery Designs at Embroidery Library! - Privacy Policy
 
 ## Privacy Statement for Embroidery Library Inc.  
-This page was last edited on 09/30/2015
+This page was last edited on 06/3/2016
 
 [ ](https://privacy.truste.com/privacy-seal/Embroidery-Library,-Inc-/validation?rid=cdcab7e9-fd0c-404b-956e-a21ac1f31096 "TRUSTe online privacy certification")
 
@@ -81,6 +81,8 @@ This page was last edited on 09/30/2015
 >  We don't store credit card information, other than that required by the Credit Card companies, for any use other than processing the credit card transactions.
 > 
 > If a customer purchases a gift certificate through our site, we will ask customers for the name and email address of the intended recipient.  This information is used to send an email to the recipient of the certificate notifying them of the gift.
+> 
+> Embroidery Library, Inc. stores this information for the sole purpose of sending this one-time email. 
 > 
 > Our store maintains a list of receipts or Order History for each customer.  This information is accessible by logging in to the store and then clicking on the Order History link located in the right margin of the Lobby page or at the top of your Basket page. This information is for your convenience.  It is not available to anyone else.  
 >  Your credit card information is not stored in your Order History. 
