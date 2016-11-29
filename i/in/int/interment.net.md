@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interment.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608054151id_/http%3A//www.interment.net/statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interment.net privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129040550id_/http%3A//www.interment.net/statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Cemetery Records Online
 
@@ -36,11 +36,7 @@ When clicking on advertising and/or affiliate links for these companies, visitor
 
 These companies are:
 
->   * MyFamily.com
->   * OneGreatFamily.com
->   * Amazon.com
->   * Origins.net
->   * KindredKonnections.com
+>   * GenealogyBank.com
 >   * Google.com
 > 
 
