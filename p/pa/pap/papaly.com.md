@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papaly.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509093321id_/https%3A//papaly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papaly.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129034140id_/https%3A//papaly.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Papaly
 
@@ -39,7 +39,7 @@ This online privacy policy applies only to information collected through our web
 
 ### Your Consent
 
-By using our site, you consent to our websites privacy policy
+By using our site, you consent to our website's privacy policy. Papaly uses some third-party services including but not limited to Google's Places API. By using Papaly, you also agree to be bound by the [Google Privacy Policy](https://www.google.com/policies/privacy).
 
 ### Changes to our Privacy Policy
 
