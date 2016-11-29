@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the storyboardthat.com privacy policy that was archived on 2016-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160610215101id_/http%3A//www.storyboardthat.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the storyboardthat.com privacy policy that was archived on 2016-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161129104349id_/http%3A//www.storyboardthat.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     
@@ -70,7 +70,11 @@ body {
         src: local('Open Sans Semibold Italic'), local('OpenSans-SemiboldItalic'), url(//themes.googleusercontent.com/static/fonts/opensans/v8/PRmiXeptR36kaC0GEAetxn5HxGBcBvicCpTp6spHfNo.woff) format('woff');
     }
 </style>
-<script src="https://js-agent.newrelic.com/nr-952.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+    var GeoServer = "https://geo.storyboardthat.com";
+
+    var StripeJSKey = "pk_live_XJJF9ZNxKZAVtu0F6ILLvokx";
+
     function WritePrettyDate(utcDate, placementId)
     {
         var d = new Date(utcDate);
@@ -108,7 +112,7 @@ body {
     {
         try
         {
-            
+
             ga('send', 'pageview', url);
         }
         catch (err)
@@ -122,13 +126,15 @@ body {
 
     //https://raw.githubusercontent.com/rgrove/lazyload/master/lazyload.js
     LazyLoad = function (e) { function u(t, n) { var r = e.createElement(t), i; for (i in n) { if (n.hasOwnProperty(i)) { r.setAttribute(i, n[i]) } } return r } function a(e) { var t = r[e], n, o; if (t) { n = t.callback; o = t.urls; o.shift(); i = 0; if (!o.length) { n && n.call(t.context, t.obj); r[e] = null; s[e].length && l(e) } } } function f() { var n = navigator.userAgent; t = { async: e.createElement("script").async === true }; (t.webkit = /AppleWebKit\//.test(n)) || (t.ie = /MSIE|Trident/.test(n)) || (t.opera = /Opera/.test(n)) || (t.gecko = /Gecko\//.test(n)) || (t.unknown = true) } function l(i, o, l, p, d) { var v = function () { a(i) }, m = i === "css", g = [], y, b, w, E, S, x; t || f(); if (o) { o = typeof o === "string" ? [o] : o.concat(); if (m || t.async || t.gecko || t.opera) { s[i].push({ urls: o, callback: l, obj: p, context: d }) } else { for (y = 0, b = o.length; y < b; ++y) { s[i].push({ urls: [o[y]], callback: y === b - 1 ? l : null, obj: p, context: d }) } } } if (r[i] || !(E = r[i] = s[i].shift())) { return } n || (n = e.head || e.getElementsByTagName("head")[0]); S = E.urls.concat(); for (y = 0, b = S.length; y < b; ++y) { x = S[y]; if (m) { w = t.gecko ? u("style") : u("link", { href: x, rel: "stylesheet" }) } else { w = u("script", { src: x }); w.async = false } w.className = "lazyload"; w.setAttribute("charset", "utf-8"); if (t.ie && !m && "onreadystatechange" in w && !("draggable" in w)) { w.onreadystatechange = function () { if (/loaded|complete/.test(w.readyState)) { w.onreadystatechange = null; v() } } } else if (m && (t.gecko || t.webkit)) { if (t.webkit) { E.urls[y] = w.href; h() } else { w.innerHTML = '@import "' + x + '";'; c(w) } } else { w.onload = w.onerror = v } g.push(w) } for (y = 0, b = g.length; y < b; ++y) { n.appendChild(g[y]) } } function c(e) { var t; try { t = !!e.sheet.cssRules } catch (n) { i += 1; if (i < 200) { setTimeout(function () { c(e) }, 50) } else { t && a("css") } return } a("css") } function h() { var e = r.css, t; if (e) { t = o.length; while (--t >= 0) { if (o[t].href === e.urls[0]) { a("css"); break } } i += 1; if (e) { if (i < 200) { setTimeout(h, 50) } else { a("css") } } } } var t, n, r = {}, i = 0, s = { css: [], js: [] }, o = e.styleSheets; return { css: function (e, t, n, r) { l("css", e, t, n, r) }, js: function (e, t, n, r) { l("js", e, t, n, r) } } }(this.document)
+
+
 </script>
 
 
 
 <script>
-    LazyLoad.css(['/content/css/sbt-bootstrap.min.css?time=636011893382234469'], null);
-</script><link href="/content/css/sbt-bootstrap.min.css?time=636011893382234469" rel="stylesheet" class="lazyload" charset="utf-8">
+    LazyLoad.css(['/content/css/sbt-bootstrap.min.css?time=636159730861126911'], null);
+</script><link href="/content/css/sbt-bootstrap.min.css?time=636159730861126911" rel="stylesheet" class="lazyload" charset="utf-8">
     
 
 <title>Storyboard That Privacy Policy | Clever Prototypes </title>
@@ -151,7 +157,7 @@ body {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <meta charset="utf-8">                                 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"d5fcfd0404","applicationID":"4478974","transactionName":"ZlUHN0BWX0UABxZeWl8fJABGXl5YTiUAWEBFcwoNRkVeWg0BEBhFQ1kTAlFO","queueTime":15,"applicationTime":39,"ttGuid":"CC8685D379AF8D2E","agent":""}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(e,n){return function(){o(e,[(new Date).getTime()].concat(a(arguments)),null,n)}}var o=e("handle"),i=e(2),a=e(3);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var c=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],u=["addPageAction"],f="api-";i(c,function(e,n){newrelic[n]=r(f+n,"api")}),i(u,function(e,n){newrelic[n]=r(f+n)}),n.exports=newrelic,newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),o("err",[e,(new Date).getTime()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?c(e,a,i):i()}function t(t,r,o){e&&e(t,r,o);for(var i=n(o),a=l(t),c=a.length,u=0;c>u;u++)a[u].apply(i,r);var s=f[m[t]];return s&&s.push([w,t,r,i]),i}function p(e,n){g[e]=l(e).concat(n)}function l(e){return g[e]||[]}function d(e){return s[e]=s[e]||o(t)}function v(e,n){u(e,function(e,t){n=n||"feature",m[t]=n,n in f||(f[n]=[])})}var g={},m={},w={on:p,emit:t,get:d,listeners:l,context:n,buffer:v};return w}function i(){return new r}var a="nr@context",c=e("gos"),u=e(2),f={},s={},p=n.exports=o();p.backlog=f},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!b++){var e=y.info=NREUM.info,n=s.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){u(m,function(n,t){e[n]||(e[n]=t)});var t="https"===g.split(":")[0]||e.sslForHttp;y.proto=t?"https://":"http://",c("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+e.agent,n.parentNode.insertBefore(r,n)}}}function o(){"complete"===s.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=e("handle"),u=e(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},e(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-952.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=n.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader"]);</script>  
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">  
     
 	<meta name="HandheldFriendly" content="true"><!-- old BB -->
 	<meta name="MobileOptimized" content="width"> <!-- old IE -->
@@ -167,31 +173,31 @@ body {
 
 <link rel="canonical" href="http://www.storyboardthat.com/about/privacy">
     
-<link rel="shortcut icon" href="/content/site_images/logos/favicons/favicon.ico">
+<link rel="shortcut icon" href="//sbt.blob.core.windows.net/site-images/site-pages/favicons/favicon.ico">
 
-<link rel="apple-touch-icon" sizes="57x57" href="/content/site_images/logos/favicons/apple-touch-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="114x114" href="/content/site_images/logos/favicons/apple-touch-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="72x72" href="/content/site_images/logos/favicons/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="144x144" href="/content/site_images/logos/favicons/apple-touch-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="60x60" href="/content/site_images/logos/favicons/apple-touch-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="120x120" href="/content/site_images/logos/favicons/apple-touch-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="76x76" href="/content/site_images/logos/favicons/apple-touch-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="152x152" href="/content/site_images/logos/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="57x57" href="//sbt.blob.core.windows.net/site-images/site-pages/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="//sbt.blob.core.windows.net/site-images/site-pages/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="//sbt.blob.core.windows.net/site-images/site-pages/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="//sbt.blob.core.windows.net/site-images/site-pages/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="//sbt.blob.core.windows.net/site-images/site-pages/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="//sbt.blob.core.windows.net/site-images/site-pages/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="//sbt.blob.core.windows.net/site-images/site-pages/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="//sbt.blob.core.windows.net/site-images/site-pages/favicons/apple-touch-icon-152x152.png">
 
-<link rel="icon" type="image/png" href="/content/site_images/logos/favicons/favicon-196x196.png" sizes="196x196">
-<link rel="icon" type="image/png" href="/content/site_images/logos/favicons/favicon-160x160.png" sizes="160x160">
-<link rel="icon" type="image/png" href="/content/site_images/logos/favicons/favicon-96x96.png" sizes="96x96">
-<link rel="icon" type="image/png" href="/content/site_images/logos/favicons/favicon-32x32.png" sizes="32x32">
-<link rel="icon" type="image/png" href="/content/site_images/logos/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="//sbt.blob.core.windows.net/site-images/site-pages/favicons/favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="//sbt.blob.core.windows.net/site-images/site-pages/favicons/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="//sbt.blob.core.windows.net/site-images/site-pages/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="//sbt.blob.core.windows.net/site-images/site-pages/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="//sbt.blob.core.windows.net/site-images/site-pages/favicons/favicon-16x16.png" sizes="16x16">
 
 <meta name="application-name" content="Storyboard That">
 <meta name="msapplication-TileColor" content="#E8F5FF">
-<meta name="msapplication-TileImage" content="/content/site_images/logos/favicons/mstile-144x144.png">
-<meta name="msapplication-square70x70logo" content="/content/site_images/logos/favicons/mstile-70x70.png">
-<meta name="msapplication-square144x144logo" content="/content/site_images/logos/favicons/mstile-144x144.png">
-<meta name="msapplication-square150x150logo" content="/content/site_images/logos/favicons/mstile-150x150.png">
-<meta name="msapplication-square310x310logo" content="/content/site_images/logos/favicons/mstile-310x310.png">
-<meta name="msapplication-wide310x150logo" content="/content/site_images/logos/favicons/mstile-310x150.png">
+<meta name="msapplication-TileImage" content="//sbt.blob.core.windows.net/site-images/site-pages/favicons/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="//sbt.blob.core.windows.net/site-images/site-pages/favicons/mstile-70x70.png">
+<meta name="msapplication-square144x144logo" content="//sbt.blob.core.windows.net/site-images/site-pages/favicons/mstile-144x144.png">
+<meta name="msapplication-square150x150logo" content="//sbt.blob.core.windows.net/site-images/site-pages/favicons/mstile-150x150.png">
+<meta name="msapplication-square310x310logo" content="//sbt.blob.core.windows.net/site-images/site-pages/favicons/mstile-310x310.png">
+<meta name="msapplication-wide310x150logo" content="//sbt.blob.core.windows.net/site-images/site-pages/favicons/mstile-310x150.png">
 
     <!--Google Analytics (centralized)-->
 
@@ -207,6 +213,17 @@ body {
         m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
     })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
+    //var canonical_link;
+    //try
+    //{
+    //    canonical_link = jQuery('link[rel=canonical]').attr('href').split(location.hostname)[1] || undefined;
+    //}
+    //catch (e)
+    //{
+    //    canonical_link = undefined;
+    //}
+
+
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-30881432-1']);
     _gaq.push(['_addOrganic', 'google', 'q', true, 'google images', '/imgres?']);
@@ -214,16 +231,22 @@ body {
     _gaq.push(['_trackPageview']);
 
     ga('create', 'UA-30881432-1', 'auto');
-    ga('send', 'pageview');
-
-    
 </script>
+
+
+<script>
+    
+    ga('send', 'pageview');
+</script>
+
+
+
 
 
 <!-- Google Translate-->
 <meta name="google-translate-customization" content="b48ad1e3754d78ce-163611a472da88ae-g9428d2ea18090eae-16">
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js" class="lazyload" charset="utf-8"></script><script src="//code.jquery.com/jquery-migrate-1.2.1.min.js" class="lazyload" charset="utf-8"></script><script src="/sbtjs/corefiles.min.js?time=636011893382234469" class="lazyload" charset="utf-8"></script></head>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js" class="lazyload" charset="utf-8"></script><script src="/sbtjs/corefiles.min.js?time=636159730861126911" class="lazyload" charset="utf-8"></script></head>
 <body>
     <!-- Fixed navbar -->
     <header class="navbar navbar-default sbt-nav" role="navigation">
@@ -274,7 +297,7 @@ body {
 <div class="top-callout-bar">
     <div class="row">
         <div class="col-md-12 ">
-            <span style="text-align:left; font-size:.95em; float:left; color:white; padding-left:0px; font-weight:bold; margin-left:-10px;">OVER 2,000,000 STORYBOARDS CREATED!</span>
+            <span style="text-align:left; font-size:.95em; float:left; color:white; padding-left:0px; font-weight:bold; margin-left:-10px;">OVER 2,500,000 STORYBOARDS CREATED!</span>
             <span style="float:right">
                 <b style="font-size:.95em">FREE TRIAL</b>
                 <a class="btn btn-xs btn-default" href="/education/learn-more-about-classroom-portals">For Teachers</a> 
@@ -297,6 +320,7 @@ body {
 
         <h1>PRIVACY POLICY</h1>
 
+        <div class="alert alert-info" style="text-align:center">For our educational edition, please also see our <a href="/about/privacy-for-schools">school / student privacy policy</a>.</div>
         <h2>Introduction</h2>
         <p>This privacy policy (“Policy”) is designed to inform users of the Storyboard That service, including all associated websites (collectively, the “Service”) about how Clever Prototypes, LLC (“Clever Prototypes,” “we” or “us”) gathers and uses personal information collected by us in connection with the Service.  We will take reasonable steps to protect user privacy consistent with the guidelines set forth in this policy and with applicable U.S. laws.  In this policy, “user” or “you” means any person using or otherwise benefiting from the Service or otherwise submitting personal information to Clever Prototypes via the Service.  BY ACCESSING OR USING THE SERVICE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THIS PRIVACY POLICY.  IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THE SERVICE.</p>
 
@@ -383,25 +407,64 @@ body {
 
     
 
-        <div class="top-callout-bar no-print" style="background-color:#ffffff">
-        <div class="row">
-            <div class="col-md-12 " style="text-align:center; padding:10px; font-size:1.2em;">
-                <b style="color:black; font-size:24px">
-                    Try our Other Websites!
-                </b>
-                <br>
-                <br>
+    
+<div class="product-callout-bar no-print" style="background-color:#f2f2f2; border-top:1px solid #c6c6c6">
+    <div class="row">
+        <div class="col-md-12 " style="text-align:center; padding:10px; font-size:1.2em;">
+            <b style="color:black; font-size:24px">
 
-                <a href="http://www.photosforclass.com" target="_blank">Photos For Class</a> –
-                Search for School-Safe, Creative Commons Photos! (<i>It Even Cites for You!</i>)
-                <br>
+                Explore Our Articles and Examples
+            </b>
+            <br>
+            <br>
+            <b style="color:black;">Teacher Resources</b>
+–  
+<a href="/articles/education/teacher-resources">Teacher Guides and Lesson Plans </a> 
+• 
+<a href="/blog/e/topic/education">Ed Tech Blog</a>
 
-                <a href="http://www.quickrubric.com" target="_blank">Quick Rubric</a>
-                – Easily Make and Share Great Looking Rubrics!
-                <div class="white-space-single"></div>
-            </div>
+<br>
+
+<b style="color:black;">Business Resources</b>
+–  
+<a href="/articles/b/business-resources">All Business Resources</a>
+• 
+<a href="/articles/b/product-development-resources">Product Development</a>
+• 
+<a href="/articles/b/negotiation-resources">Negotiation</a>
+•
+<a href="/articles/b/business-frameworks">Business Frameworks</a>
+
+
+
+<br>
+
+<b style="color:black;">Film Resources</b>
+–  
+	<a href="/articles/f/film-and-video-resources">Film and Video Resources</a>
+
+            <div class="white-space-single"></div>
         </div>
     </div>
+
+    <div class="row">
+        <div class="col-md-12 " style="text-align:center; padding:10px; font-size:1.2em;">
+            <b style="color:black; font-size:24px">
+                Try Our Other Websites!
+            </b>
+            <br>
+            <br>
+            <a href="http://www.photosforclass.com" target="_blank">Photos for Class</a> 
+–  Search for School-Safe, Creative Commons Photos! (<i>It Even Cites for You!</i>)
+
+<br>
+
+<a href="http://www.quickrubric.com" target="_blank">Quick Rubric</a>
+– Easily Make and Share Great Looking Rubrics!
+            <div class="white-space-single"></div>
+        </div>
+    </div>
+</div>
 
 
 
@@ -440,7 +503,8 @@ body {
                     <br>
 
                     <li><a href="/articles/education/teacher-resources">Teacher Guides &amp; Lesson Plans</a>  </li>
-
+                    <br>
+                    <li><a href="/blog/e/topic/education">Ed Blog</a>  </li>
                     
                     
                 </ul>
@@ -452,7 +516,9 @@ body {
                 <ul>
                     <li><a href="/business/learn-more-about-corporate-portals">Free Trial</a>  </li>
                     <br>
-                    <li><a href="/articles/business/business-resources">Business Articles</a>  </li>
+                    <li><a href="/articles/b/business-resources">Business Articles</a>  </li>
+                    <br>
+                    <li><a href="/storyboarding-workshops-and-team-building-activities">Workshops</a>  </li>
                     
                 </ul>
                 <br>
@@ -487,11 +553,13 @@ body {
                 <ul>
                     
                         <li><a href="/help-and-faqs/storyboard-copyright-faq"> Storyboard Copyright FAQ</a></li>
-                    
-                    <br>
-                    <li><a href="/about/privacy">Privacy Policy</a>  </li>
                     <br>
                     <li><a href="/about/terms-of-use">Terms of Use</a> </li>
+                    <br>
+                    <li><a href="/about/privacy">Privacy Policy</a>  </li>
+                    
+                    <br>
+                    <li><a href="/about/privacy-for-schools">School / Student Privacy</a> </li>
                 </ul>
                 <br>
             </div>
@@ -540,6 +608,10 @@ body {
 
 
 <script>
+    var GeoServer = "https://geo.storyboardthat.com";
+
+    var StripeJSKey = "pk_live_XJJF9ZNxKZAVtu0F6ILLvokx";
+
     function WritePrettyDate(utcDate, placementId)
     {
         var d = new Date(utcDate);
@@ -577,7 +649,7 @@ body {
     {
         try
         {
-            
+
             ga('send', 'pageview', url);
         }
         catch (err)
@@ -591,6 +663,8 @@ body {
 
     //https://raw.githubusercontent.com/rgrove/lazyload/master/lazyload.js
     LazyLoad = function (e) { function u(t, n) { var r = e.createElement(t), i; for (i in n) { if (n.hasOwnProperty(i)) { r.setAttribute(i, n[i]) } } return r } function a(e) { var t = r[e], n, o; if (t) { n = t.callback; o = t.urls; o.shift(); i = 0; if (!o.length) { n && n.call(t.context, t.obj); r[e] = null; s[e].length && l(e) } } } function f() { var n = navigator.userAgent; t = { async: e.createElement("script").async === true }; (t.webkit = /AppleWebKit\//.test(n)) || (t.ie = /MSIE|Trident/.test(n)) || (t.opera = /Opera/.test(n)) || (t.gecko = /Gecko\//.test(n)) || (t.unknown = true) } function l(i, o, l, p, d) { var v = function () { a(i) }, m = i === "css", g = [], y, b, w, E, S, x; t || f(); if (o) { o = typeof o === "string" ? [o] : o.concat(); if (m || t.async || t.gecko || t.opera) { s[i].push({ urls: o, callback: l, obj: p, context: d }) } else { for (y = 0, b = o.length; y < b; ++y) { s[i].push({ urls: [o[y]], callback: y === b - 1 ? l : null, obj: p, context: d }) } } } if (r[i] || !(E = r[i] = s[i].shift())) { return } n || (n = e.head || e.getElementsByTagName("head")[0]); S = E.urls.concat(); for (y = 0, b = S.length; y < b; ++y) { x = S[y]; if (m) { w = t.gecko ? u("style") : u("link", { href: x, rel: "stylesheet" }) } else { w = u("script", { src: x }); w.async = false } w.className = "lazyload"; w.setAttribute("charset", "utf-8"); if (t.ie && !m && "onreadystatechange" in w && !("draggable" in w)) { w.onreadystatechange = function () { if (/loaded|complete/.test(w.readyState)) { w.onreadystatechange = null; v() } } } else if (m && (t.gecko || t.webkit)) { if (t.webkit) { E.urls[y] = w.href; h() } else { w.innerHTML = '@import "' + x + '";'; c(w) } } else { w.onload = w.onerror = v } g.push(w) } for (y = 0, b = g.length; y < b; ++y) { n.appendChild(g[y]) } } function c(e) { var t; try { t = !!e.sheet.cssRules } catch (n) { i += 1; if (i < 200) { setTimeout(function () { c(e) }, 50) } else { t && a("css") } return } a("css") } function h() { var e = r.css, t; if (e) { t = o.length; while (--t >= 0) { if (o[t].href === e.urls[0]) { a("css"); break } } i += 1; if (e) { if (i < 200) { setTimeout(h, 50) } else { a("css") } } } } var t, n, r = {}, i = 0, s = { css: [], js: [] }, o = e.styleSheets; return { css: function (e, t, n, r) { l("css", e, t, n, r) }, js: function (e, t, n, r) { l("js", e, t, n, r) } } }(this.document)
+
+
 </script>
 
 
@@ -600,8 +674,8 @@ body {
 
 
 <script type="text/javascript">
-    LazyLoad.js(['//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js', '//code.jquery.com/jquery-migrate-1.2.1.min.js', '/sbtjs/corefiles.min.js?time=636011893382234469'], null);
-    </script>
+    LazyLoad.js(['//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js', '/sbtjs/corefiles.min.js?time=636159730861126911'], null);
+</script>
 
 
 
@@ -633,15 +707,10 @@ Remarketing tags may not be associated with personally identifiable information 
 
 
 
+<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
 
 
-
-
-
-
-
-
-
-
-
+<script type="text/javascript">
+    window.cookieconsent_options = { "message": "This website uses cookies to ensure you get the best experience on our website", "dismiss": "Got it!", "learnMore": "More info", "link": "http://www.storyboardthat.com/about/privacy", "theme": "CookieConsent" };
+</script>
 </body></html>
