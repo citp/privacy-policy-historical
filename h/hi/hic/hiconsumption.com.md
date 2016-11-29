@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiconsumption.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608142048id_/http%3A//hiconsumption.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiconsumption.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129044727id_/http%3A//hiconsumption.com/privacy) for the most accurate reproduction.*
 
 # Privacy | HiConsumption
 
@@ -46,11 +46,15 @@ In operating the Site, Company may include registration, online surveys, and oth
 
 (f) ACCESS TO INFORMATION. Unfortunately, we do not maintain any procedures for you to review or request changes to the information that we collect about you, except that you may request that we remove all information about you from our database by contacting us in accordance with Section 6.1 below.
 
-## 4\. SECURITY
+## 4. Affiliate Disclosure
+
+HiConsumption is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. This means that HiConsumption may earn a commission when visitors purchase an item off of Amazon.com, after clicking a referral link from HiConsumption.com.
+
+## 5\. SECURITY
 
 The Site has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration.
 
-## 5\. WEBSITE AREAS BEYOND COMPANY’S CONTROL
+## 6\. WEBSITE AREAS BEYOND COMPANY’S CONTROL
 
 5.1. PUBLIC FORUMS  
 The Site may include interactive forums such as reviews, message boards and chat rooms. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
@@ -58,7 +62,7 @@ The Site may include interactive forums such as reviews, message boards and chat
 5.2. THIRD PARTY WEBSITES  
 The Site may contain links to other websites. If you choose to visit other websites, we are not responsible for the privacy practices or content of those other websites, and it is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their policies.
 
-## 6\. CONTACT INFORMATION AND POLICY UPDATES
+## 7\. CONTACT INFORMATION AND POLICY UPDATES
 
 6.1. CONTACTING US  
 If you have any questions about this Policy, our practices related to this Site, or if you would like to have us remove your information from our database please feel contact us at the following:
