@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostthename.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421125112id_/http%3A//www.hostthename.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostthename.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129145546id_/http%3A//www.hostthename.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Host The Name
 
