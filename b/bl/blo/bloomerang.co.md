@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bloomerang.co privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919134147id_/https%3A//bloomerang.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomerang.co privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129115600id_/https%3A//bloomerang.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bloomerang
 
 This privacy policy explains how Bloomerang uses and protects any information that you may give us when you use this website. We are committed to ensuring that your privacy is protected. We love privacy! Should you submit any information to us via forms found on this website, you can be assured that it will only be used in accordance with what is stated on this page. We are nice people and we only wish the best for you.
 
-**What we collect:**
+ **What we collect:**
 
 We may collect the following information:
 
@@ -18,12 +18,12 @@ We may collect the following information:
 
 
 
-**What we do with the information we gather:**
+ **What we do with the information we gather:**
 
 We ask for your information in order to understand your needs and to deliver content that we believe you’ll find valuable.
 
   * We may use the information to improve our products.
-  * We may periodically send promotional emails about new product features, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * We may periodically send promotional emails about new product features, special offers or other information which we think you may find interesting using the email address which you have provided.
     * We send two email newsletters per month.
     * We send invitations to attend one of our weekly educational webinars.
     * We may let you know about a cool event coming up in your area.
@@ -34,11 +34,11 @@ We ask for your information in order to understand your needs and to deliver con
 
 
 
-**Security:**
+ **Security:**
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**How we use cookies:**
+ **How we use cookies:**
 
 A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree (by way of your website browser), the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
@@ -50,13 +50,13 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 Real cookies are delicious. We’d rather be talking more about them.
 
-**Links to other websites:**
+ **Links to other websites:**
 
 Our website contains links to other websites. We like to link to our customers, partners and trusted friends. Their websites are lovely and contain a lot of valuable information.
 
 Once you click a link and leave our website, know that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. We aren’t too worried about this since we try to only associate with nice people.
 
-**Controlling your personal information:**
+ **Controlling your personal information:**
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
