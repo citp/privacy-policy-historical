@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ppa.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608002107id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppa.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129030830id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670) for the most accurate reproduction.*
 
 # PPA Privacy Policy | PPA
 
