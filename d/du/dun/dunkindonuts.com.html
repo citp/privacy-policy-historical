@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the dunkindonuts.com privacy policy that was archived on 2015-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150504131909id_/http%3A//www.dunkindonuts.com/content/dunkindonuts/en/help/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dunkindonuts.com privacy policy that was archived on 2016-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161129113051id_/https%3A//www.dunkindonuts.com/dunkindonuts/en/help/privacypolicy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head><script src="https://s7.addthis.com/js/250/addthis_widget.js#username=xa-4d1402905a5ecad7"></script><script src="https://www.mapquestapi.com/search/v2/radius?callback=jsonp1580472222920&amp;key=Gmjtd%7Clu6t2luan5%252C72%253Do5-larsq&amp;origin=174.129.228.67&amp;radius=200&amp;hostedData=mqap.33454_DunkinDonuts&amp;maxMatches=1&amp;ambiguities=ignore"></script><script async="" src="http://www.dunkindonuts.com/libs/wcm/stats/tracker.js?path=/content/dunkindonuts/en/help/privacypolicy&amp;_=1580472222785"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head><script src="https://s7.addthis.com/js/250/addthis_widget.js#username=xa-4d1402905a5ecad7"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.dunkindonuts.com/libs/wcm/stats/tracker.js?path=/content/dunkindonuts/en/help/privacypolicy&amp;_=1580373813486"></script>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="keywords" content="">
@@ -12,7 +12,7 @@
  
     
 
-    <meta name="viewport" content="target-densitydpi=device-dpi">
+    <meta name="viewport" content="width=device-width">
     
     <meta http-equiv="description" content="Dunkin' Donuts Privacy Policy">
     <meta property="og:description" content="Dunkin' Donuts Privacy Policy">
@@ -35,7 +35,7 @@
 <script type="text/javascript">
     {
         window.setTimeout(function() {
-            $CQ.getScript("http://www.dunkindonuts.com/libs/wcm/stats/tracker.js?path=/content/dunkindonuts/en/help/privacypolicy");
+            $CQ.getScript("https://www.dunkindonuts.com/libs/wcm/stats/tracker.js?path=\x2Fcontent\x2Fdunkindonuts\x2Fen\x2Fhelp\x2Fprivacypolicy");
         }, 1);
     }
     </script>
@@ -58,6 +58,17 @@
 
     
     
+
+    
+    <script type="text/javascript">
+        if (self === top) {
+            var antiClickjack = document.getElementById("antiClickjack");
+            antiClickjack.parentNode.removeChild(antiClickjack);
+        } else {
+            top.location = self.location;
+        }
+	</script>
+	
     <script src="https://www.google.com/uds/api?file=uds.js&amp;v=1.0" type="text/javascript"></script>
     <link href="https://www.google.com/uds/css/gsearch.css" rel="stylesheet" type="text/css">
     <link href="https://www.google.com/uds/solutions/videobar/gsvideobar.css" rel="stylesheet" type="text/css">
@@ -92,7 +103,7 @@
 
 
 <script type="text/javascript">
-<!--
+
     // See http://docs.jquery.com/Plugins/Validation/validate#toptions 
     // for validate methos options
     var required = "Please enter {0} to proceed.";
@@ -333,11 +344,27 @@
         CQ.I18n.getMessage("APP247")
     );
     
-//-->
+	$.validator.addMethod("validPromoChars", function(value, element) {
+		var re = /^[^!\"$%&\(\)\*\+:;<=>\?#@`\[\\\]\^_\{|\}~]*$/
+		return this.optional(element) || re.test(value);
+		},
+		CQ.I18n.getMessage("APP247")
+	);
 </script>
  
     
-</head>
+<script type="text/javascript"> 
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()
+{ (i[r].q=i[r].q||[]).push(arguments)}
+
+,i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-63718010-1', 'auto');
+ga('send', 'pageview');
+</script></head>
+
 
 
 
@@ -459,23 +486,36 @@
         
         
             <div id="messages">
-                <div id="dd_logo" onclick="location = '/content/dunkindonuts/en.html'"></div>
-        
-                <!--<div id="languageDiv">
-                    <a href="/content/dunkindonuts/es.html"><img src="/content/dam/Dunkin_Donuts/company/es.gif" alt="En Espanol" title="En Espanol"/></a>
-                   <a href="/content/dunkindonuts/en.html"><img src="/content/dam/Dunkin_Donuts/company/en.gif" alt="English" title="English"/></a>
-                </div>-->
+                 <div style="height: 76px; float: left; left: -4px; position: relative; top: 2px; width: 186px;" onclick="location = '/content/dunkindonuts/en.html'"> 
+				<img src="/etc/designs/dunkindonuts/images/dunkin_logo.jpg" alt="Dunkin Donuts"> </div>
+        		<div>
+        		 
+
+
+
+
+
+
+ 
+  
+
+                
+
+
+
+
+               </div>
                 <div id="languageDiv">
-                    <a href="/dunkindonuts/en.html">English</a>
+                    <a alt="english" href="/dunkindonuts/en.html">English</a>
                     <span> | </span>
-                    <a href="/dunkindonuts/es.html">Español</a>
+                    <a alt="espanol" href="/dunkindonuts/es.html">Español</a>
                 </div>
                
                 <div id="changingLocation" class="twoLines">
                 
                
                 
-                    <div class="logout"><a href="/dunkindonuts/en/signin.html"><span class="welcomeText">Sign-In</span></a></div>
+                    <div class="logout"><a alt="signin" href="/dunkindonuts/en/signin.html"><span class="welcomeText">Sign-In</span></a><span> | </span><a alt="signup" href="/dunkindonuts/en/responsive/dunkin_email.html"><span class="welcomeText">Sign-Up</span></a></div>
                 
                 
                     
@@ -536,7 +576,7 @@
 	       var units = 'm';
 	       var url =  	'https://www.mapquestapi.com/search/v2/radius';
 	       var key = decodeURI('Gmjtd|lu6t2luan5%2C72%3Do5-larsq');
-	       var origin = '174.129.228.67';
+	       var origin = '207.241.231.145';
 	       var radius = '200';
 	       var hostedData = 'mqap.33454_DunkinDonuts';
 	        
@@ -556,7 +596,7 @@
 <div id="location">
     <div id="locationView">
         <span class="locationText">United States</span>
-        <a href="#" class="changeText" id="changeLocation">changelocation.txt</a>
+        <a alt="changeLocation" href="#" class="changeText" id="changeLocation">changelocation.txt</a>
     </div>
     <div id="locationEdit" style="display:none;">
         <div id="locationInputWrapper">
@@ -566,8 +606,8 @@
              </span>        	
         </div>
         <div id="bottomlinks">
-        <a href="#" class="changeText" id="locationUpdateCancel">changelocation.cancel</a>
-        <a href="#" class="changeText" id="locationUpdate">changelocation.updatelocation</a>
+        <a alt="cancel" href="#" class="changeText" id="locationUpdateCancel">changelocation.cancel</a>
+        <a alt="update" href="#" class="changeText" id="locationUpdate">changelocation.updatelocation</a>
         </div>
     </div>
 </div>
@@ -588,7 +628,7 @@ $(document).ready(function () {
 
 
 </script>
-<input type="hidden" name="date" value="Mon May 04 09:19:09 EDT 2015">
+<input type="hidden" name="date" value="Tue Nov 29 06:30:13 EST 2016">
 
 
 <input type="hidden" name="redirect_location" value="/content/dunkindonuts/en/help/privacypolicy.html"><div class="form">
@@ -609,6 +649,7 @@ $(document).ready(function () {
     
 
     
+
 
 
 
@@ -672,7 +713,7 @@ $(document).ready(function(){
             
      
             <ul id="main_nav" class="menuHoriz">
-                <li id="Coffee"><a href="/dunkindonuts/en/coffee.html" class="navBtn" id="coffeeBtn"><span class="navBtn_label" id="navlabel_coffee">COFFEE</span> <span class="undertext">Dunkin' Difference, Products</span></a><ul id="menuSubCoffee" class="menuVert" style="display: none;">
+                <li id="Coffee"><a alt="Coffee" href="/dunkindonuts/en/coffee.html" class="navBtn" id="coffeeBtn"><span class="navBtn_label" id="navlabel_coffee">COFFEE</span> <span class="undertext">Dunkin' Difference, Products</span></a><ul id="menuSubCoffee" class="menuVert" style="display: none;">
                 <div class="submenu_container">
                     <div class="menuContentContainer">
                         <div class="menuContent">                     
@@ -683,15 +724,15 @@ $(document).ready(function(){
                     
                     
                    
-                   <a href="/dunkindonuts/en/coffee.html">What Are You Drinkin'?</a>
+                   <a alt="What Are You Drinkin'?" href="/dunkindonuts/en/coffee.html">What Are You Drinkin'?</a>
                    
                             
                    
-                   <a href="/dunkindonuts/en/coffee/didyouknow.html">It Can Only Be Dunkin'</a>
+                   <a alt="It Can Only Be Dunkin'" href="/dunkindonuts/en/coffee/didyouknow.html">It Can Only Be Dunkin'</a>
                    
                             
                    
-                   <a href="/dunkindonuts/en/coffee/coffeebrewingtips.html">Coffee Brewing Tips</a>
+                   <a alt="Coffee Brewing Tips" href="/dunkindonuts/en/coffee/coffeebrewingtips.html">Coffee Brewing Tips</a>
                    
                             
                     </div>
@@ -702,46 +743,49 @@ $(document).ready(function(){
                     
                     
                    
-                   <a href="/dunkindonuts/en/menu/beverages/hotbeverages/coffee.html">Coffee</a>
+                   <a alt="Coffee" href="/dunkindonuts/en/menu/beverages/hotbeverages/coffee.html">Coffee</a>
                    
                             
                    
-                   <a href="/dunkindonuts/en/menu/beverages/hotbeverages/specialitycoffee/espresso.html">Espresso</a>
+                   <a alt="Espresso" href="/dunkindonuts/en/menu/beverages/hotbeverages/specialitycoffee/espresso.html">Espresso</a>
                    
                             
                    
-                   <a href="/dunkindonuts/en/menu/beverages/hotbeverages/specialitycoffee/cappuccino.html">Cappuccino</a>
+                   <a alt="Cappuccino" href="/dunkindonuts/en/menu/beverages/hotbeverages/specialitycoffee/cappuccino.html">Cappuccino</a>
                    
                             
                    
-                   <a href="/dunkindonuts/en/menu/beverages/hotbeverages/specialitycoffee/latte.html">Latte</a>
+                   <a alt="Latte" href="/dunkindonuts/en/menu/beverages/hotbeverages/specialitycoffee/latte.html">Latte</a>
                    
                             
                     </div>
                 
                     <div class="submenu_col" id="col3">
                         
-                        <span class="colHeader">K-Cups Subscription</span>
+                        <span class="colHeader">Dunkin' Creamers</span>
                     
                     
                    
-                   <a href="/dunkindonuts/en/responsive/kcup_subscription.html">Subscribe</a>
+                   <a alt="Coffee Creamers" target="_blank" href="http://www.dunkincreamer.com">Coffee Creamers</a>
+                   <div class="new_window_link"></div>
                    
                             
                     </div>
                 
                  <div class="promo_col" id="col4">
                      <div id="promoHeader">
-                         <img src="/content/dam/Dunkin_Donuts/mainnav/shop-online updated.jpg" width="134px" height="110px" style="cursor: pointer;" onclick="location = 'http://shop.dunkindonuts.com'">
+                         <img alt="promoHeader" src="/content/dam/Dunkin_Donuts/mainnav/shop-online updated.jpg" width="134px" height="110px" style="cursor: pointer;" onclick="location = 'http://shop.dunkindonuts.com?ecid=PRF-DD-1&amp;pa=PRF-DD-1'">
                      </div>
-                     <div id="promoTag"><span class="promoBody">Your favorite Dunkin' Coffee, Gifts, and more.<a href="http://shop.dunkindonuts.com">Learn More</a></span></div>
+                     
+                     	<div id="promoTag"><span class="promoBody">Your favorite Dunkin' Coffee, Gifts, and more.<a alt="Your favorite Dunkin' Coffee, Gifts, and more." href="http://shop.dunkindonuts.com?ecid=PRF-DD-1&amp;pa=PRF-DD-1">Shop Now</a></span></div>
+                                          
                  </div>
                  
                         </div>
                     </div>                 
                  </div>
             </ul></li>
-                <li id="Menu"><a href="/dunkindonuts/en/menu.html" class="navBtn" id="menuBtn"><span class="navBtn_label" id="navlabel_menu">MENU</span> <span class="undertext">Beverages, Food, Nutrition</span></a><ul id="menuSubMenu" class="menuVert" style="display: none;">
+                <li id="Menu"><a alt="Menu" href="/dunkindonuts/en/menu.html" class="navBtn" id="menuBtn"><span class="navBtn_label" id="navlabel_menu">MENU</span> <span class="undertext">Beverages, Food, Nutrition</span></a><ul id="menuSubMenu" class="menuVert" style="display: none;">
                 <div class="submenu_container">
                     <div class="menuContentContainer">
                     <div class="menuContent">
@@ -752,19 +796,19 @@ $(document).ready(function(){
                     
                     
                    
-                   <a href="/dunkindonuts/en/menu/beverages/hotbeverages.html">Hot Beverages</a>
+                   <a alt="Hot Beverages" href="/dunkindonuts/en/menu/beverages/hotbeverages.html">Hot Beverages</a>
                    
                             
                    
-                   <a href="/dunkindonuts/en/menu/beverages/icedbeverages.html">Iced Beverages</a>
+                   <a alt="Iced Beverages" href="/dunkindonuts/en/menu/beverages/icedbeverages.html">Iced Beverages</a>
                    
                             
                    
-                   <a href="/dunkindonuts/en/menu/beverages/frozenbeverages.html">Frozen Beverages</a>
+                   <a alt="Frozen Beverages" href="/dunkindonuts/en/menu/beverages/frozenbeverages.html">Frozen Beverages</a>
                    
                             
                    
-                   <a href="/dunkindonuts/en/menu/beverages/athomebrewing.html">At Home Brewing</a>
+                   <a alt="At Home Brewing" href="/dunkindonuts/en/menu/beverages/athomebrewing.html">At Home Brewing</a>
                    
                             
                     </div>
@@ -775,19 +819,19 @@ $(document).ready(function(){
                     
                     
                    
-                   <a href="/dunkindonuts/en/menu/food/bakery.html">Bakery</a>
+                   <a alt="Bakery" href="/dunkindonuts/en/menu/food/bakery.html">Bakery</a>
                    
                             
                    
-                   <a href="/dunkindonuts/en/menu/food/sandwiches/breakfastsandwiches.html">Breakfast Sandwiches</a>
+                   <a alt="Breakfast Sandwiches" href="/dunkindonuts/en/menu/food/sandwiches/breakfastsandwiches.html">Breakfast Sandwiches</a>
                    
                             
                    
-                   <a href="/dunkindonuts/en/menu/food/sandwiches/Bakery_Sandwiches.html">Bakery Sandwiches</a>
+                   <a alt="Bakery Sandwiches" href="/dunkindonuts/en/menu/food/sandwiches/Bakery_Sandwiches.html">Bakery Sandwiches</a>
                    
                             
                    
-                   <a href="/dunkindonuts/en/menu/food/More.html">More</a>
+                   <a alt="More" href="/dunkindonuts/en/menu/food/More.html">More</a>
                    
                             
                     </div>
@@ -795,32 +839,32 @@ $(document).ready(function(){
                     <div class="submenu_col" id="col3">
                         
                                 
-                                <a href="/dunkindonuts/en/menu/nutrition.html"><span class="colHeader">Nutrition</span></a>
+                                <a alt="Nutrition" href="/dunkindonuts/en/menu/nutrition.html"><span class="colHeader">Nutrition</span></a>
                                 
                         
                     
                    
-                   <a href="/dunkindonuts/en/menu/nutrition/nutrition_catalog.html">Nutrition Catalog</a>
+                   <a alt="Nutrition Catalog" href="/dunkindonuts/en/menu/nutrition/nutrition_catalog.html">Nutrition Catalog</a>
                    
                             
                    
-                   <a href="/dunkindonuts/en/menu/nutrition/ddsmart.html">DDSMART<sup>®</sup></a>
+                   <a alt="DDSMART<sup>®</sup>" href="/dunkindonuts/en/menu/nutrition/ddsmart.html">DDSMART<sup>®</sup></a>
                    
                             
                     </div>
                 
                     <div class="promo_col" id="col4">
                            <div id="promoHeader">
-                               <img src="/content/dam/Dunkin_Donuts/promotiles/w12014/something-fresh_tile.jpg" width="140px" height="110px" style="cursor: pointer;" onclick="location = '/content/dunkindonuts/en/menu/beverages/hotbeverages/coffee/hot_coffee.html'">
+                               <img alt="promoHeader" src="/content/dam/Dunkin_Donuts/mainnav/something-fresh_tile.jpg" width="140px" height="110px" style="cursor: pointer;" onclick="location = '/content/dunkindonuts/en/menu/beverages/hotbeverages/coffee/hot_coffee.html'">
                            </div>
-                           <div id="promoTag"><span class="promoBody">Something fresh is always brewin’ here®<a href="/dunkindonuts/en/menu/beverages/hotbeverages/coffee/hot_coffee.html">Learn More</a></span></div>
+                           <div id="promoTag"><span class="promoBody">Something fresh is always brewin’ here®<a alt="Something fresh is always brewin’ here®" href="/dunkindonuts/en/menu/beverages/hotbeverages/coffee/hot_coffee.html">Learn More</a></span></div>
                        </div>
                     
                         </div>
                     </div>
                 </div>
             </ul></li>
-                <li id="Stores"><a href="/dunkindonuts/en/stores.html" class="navBtn" id="storesBtn"><span class="navBtn_label" id="navlabel_stores">RESTAURANTS</span> <span class="undertext">Locations, Details, Careers</span></a><ul id="menuSubStores" class="menuVert" style="display: none;">
+                <li id="Stores"><a alt="Stores" href="/dunkindonuts/en/stores.html" class="navBtn" id="storesBtn"><span class="navBtn_label" id="navlabel_stores">RESTAURANTS</span> <span class="undertext">Locations, Details, Careers</span></a><ul id="menuSubStores" class="menuVert" style="display: none;">
                 <div class="submenu_container">
                 <div class="menuContentContainer">
                     <div class="menuContent">
@@ -841,15 +885,15 @@ $(document).ready(function(){
                     
                     
                    
-                   <a class="clearfloat" href="/dunkindonuts/en/tripplanner.html">Trip Planner</a>
+                   <a alt="Trip Planner" class="clearfloat" href="/dunkindonuts/en/tripplanner.html">Trip Planner</a>
                    
                             
                    
-                   <a class="clearfloat" href="/dunkindonuts/en/ddcareers.html">Careers</a>
+                   <a alt="Careers" class="clearfloat" href="/dunkindonuts/en/ddcareers.html">Careers</a>
                    
                             
                    
-                   <a class="clearfloat left_float" target="_blank" href="http://www.dunkinfranchising.com">Franchising</a>
+                   <a alt="Franchising" class="clearfloat left_float" target="_blank" href="http://www.dunkinfranchising.com">Franchising</a>
                    <div class="new_window_link"></div>
                    
                             
@@ -857,11 +901,14 @@ $(document).ready(function(){
                     </div>
                     <div class="promo_col" id="col4">
                            <div id="promoHeader">
-                               <img src="/content/dam/Dunkin_Donuts/mainnav/FunPaced.jpg" width="134px" height="110px" style="cursor: pointer;" onclick="location = '/content/dunkindonuts/en/ddcareers.html'">
+                               <img alt="promoHeader" src="/content/dam/Dunkin_Donuts/mainnav/FunPaced.jpg" width="134px" height="110px" style="cursor: pointer;" onclick="location = '/content/dunkindonuts/en/ddcareers.html'">
                            </div>
                            <div id="promoTag">
                             <span class="promoBody">Hungry for an<br> Opportunity?
-                            <a href="/dunkindonuts/en/ddcareers.html">Learn More</a></span>
+                            
+                            
+                     			<a alt="Learn More" href="/dunkindonuts/en/ddcareers.html">Learn More</a></span>
+                     		
                            </div>
                        </div>
                     
@@ -869,7 +916,7 @@ $(document).ready(function(){
                     </div>
                 </div>
             </ul></li>
-                <li id="Shop"><a href="http://shop.dunkindonuts.com/?ccaid=ddptddst" class="navBtn" id="shopBtn"><span class="navBtn_label" id="navlabel_shop">SHOP ONLINE</span> <span class="undertext">Coffee, Merchandise, Gifts</span></a><ul id="menuSubShop" class="menuVert" style="display: none;">
+                <li id="Shop"><a alt="Shop" href="http://shop.dunkindonuts.com?ecid=PRF-DD-3&amp;pa=PRF-DD-3" class="navBtn" id="shopBtn"><span class="navBtn_label" id="navlabel_shop">SHOP ONLINE</span> <span class="undertext">Coffee, Merchandise, Gifts</span></a><ul id="menuSubShop" class="menuVert" style="display: none;">
                 <div class="submenu_container" id="shop_plate">
                 <div class="menuContentContainer">
                         <div class="menuContent">
@@ -877,58 +924,38 @@ $(document).ready(function(){
                     <div class="submenu_col" id="col1">
                         
                                 
-                                <a target="_blank" href="http://shop.dunkindonuts.com/?ccaid=ddptddst"><span class="colHeader">Shop Home Page</span></a>
+                                <a alt="Shop Home Page" target="_blank" href="http://shop.dunkindonuts.com?ecid=PRF-DD-4&amp;pa=PRF-DD-4"><span class="colHeader">Shop Home Page</span></a>
                                 <div class="new_window_link externalIcon"></div>
                                 
                         
                     
                    
-                   <a target="_blank" href="http://shop.dunkindonuts.com/coffee_1997_p01_01/?CCAID=DDSTDDCF">Coffee</a>
+                   <a alt="Home Page" target="_blank" href="http://shop.dunkindonuts.com?ecid=PRF-DD-5&amp;pa=PRF-DD-5">Home Page</a>
                    <div class="new_window_link"></div>
                    
                             
                    
-                   <a target="_blank" href="http://shop.dunkindonuts.com/coffee-k-cup_1997-4294959643_p01_01/">K-Cups</a>
+                   <a alt="Coffee" target="_blank" href="http://shop.dunkindonuts.com/?v=coffee&amp;ecid=PRF-DD-6&amp;pa=PRF-DD-6">Coffee</a>
                    <div class="new_window_link"></div>
                    
                             
                    
-                   <a target="_blank" href="http://shop.dunkindonuts.com/tea_4294959869-4294959900_p01_01/?CCAID=DDSTDDTEA">Tea</a>
+                   <a alt="K-Cups" target="_blank" href="http://shop.dunkindonuts.com/?v=k-cup-pods&amp;ecid=PRF-DD-7&amp;pa=PRF-DD-7">K-Cups</a>
                    <div class="new_window_link"></div>
                    
                             
                    
-                   <a target="_blank" href="http://shop.dunkindonuts.com/drinkware_363_p01_01/?CCAID=DDSTDDdw">Cups &amp; Mugs</a>
+                   <a alt="Tea" target="_blank" href="http://shop.dunkindonuts.com/?v=tea&amp;ecid=PRF-DD-8&amp;pa=PRF-DD-8">Tea</a>
                    <div class="new_window_link"></div>
                    
                             
                    
-                   <a target="_blank" href="http://shop.dunkindonuts.com/shop-all-dunkin-donuts-apparel_4149_p01_04/?CCAID=DDSTDDAP">Apparel</a>
+                   <a alt="Cups &amp; Mugs" target="_blank" href="http://shop.dunkindonuts.com/?v=drinkware&amp;ecid=PRF-DD-9&amp;pa=PRF-DD-9">Cups &amp; Mugs</a>
                    <div class="new_window_link"></div>
                    
                             
                    
-                   <a target="_blank" href="http://shop.dunkindonuts.com/dd-extras_4294959869_p01_01/?CCAID=DDSTDDEX">DD Extras</a>
-                   <div class="new_window_link"></div>
-                   
-                            
-                   
-                   <a target="_blank" href="http://shop.dunkindonuts.com/subscription/?CCAID=DDSTDDSO">Subscription Orders</a>
-                   <div class="new_window_link"></div>
-                   
-                            
-                   
-                   <a target="_blank" href="http://shop.dunkindonuts.com/gift-ideas/?CCAID=DDSTDDGF">Gift Ideas</a>
-                   <div class="new_window_link"></div>
-                   
-                            
-                   
-                   <a target="_blank" href="http://shop.dunkindonuts.com/best/?CCAID=DDSTDDB">Best Sellers</a>
-                   <div class="new_window_link"></div>
-                   
-                            
-                   
-                   <a target="_blank" href="https://www.dunkindonuts.com/content/dunkindonuts/en/ddcard.html">DD Card</a>
+                   <a alt="Subscriptions" target="_blank" href="http://shop.dunkindonuts.com/?v=subscriptions&amp;ecid=PRF-DD-10&amp;pa=PRF-DD-10">Subscriptions</a>
                    <div class="new_window_link"></div>
                    
                             
@@ -940,16 +967,21 @@ $(document).ready(function(){
                     
                     
                    
-                   <a href="/dunkindonuts/en/help/privacypolicy.html"></a>
+                   <a alt="" href="/dunkindonuts/en/help/privacypolicy.html"></a>
                    
                             
                     </div>
                 
                     <div class="promo_col" id="col4">
                            <div id="promoHeader">
-                               <img src="/content/dam/Dunkin_Donuts/mainnav/shop-online updated.jpg" width="134px" height="110px" style="cursor: pointer;" onclick="location = 'http://shop.dunkindonuts.com/?ccaid=ddptddst'">
+                               <a href="http://shop.dunkindonuts.com?ecid=PRF-DD-11&amp;pa=PRF-DD-11">
+                               <img alt="promoHeader" src="/content/dam/Dunkin_Donuts/mainnav/shop-online updated.jpg" width="134px" height="110px" style="cursor: pointer;">
+                               </a>
                            </div>
-                           <div id="promoTag"><span class="promoBody">Your favorite Dunkin' Coffee, Gifts &amp; more! <a href="http://shop.dunkindonuts.com/?ccaid=ddptddst">Learn More</a></span></div>
+                           
+                           
+		                     	<div id="promoTag"><span class="promoBody">Your favorite Dunkin' Coffee, Gifts &amp; more! <a alt="Learn More" href="http://shop.dunkindonuts.com?ecid=PRF-DD-11&amp;pa=PRF-DD-11">Shop Now</a></span></div>
+		                    
                        </div>
                     
                     <div class="legal">     </div>
@@ -958,7 +990,7 @@ $(document).ready(function(){
                     </div>
                 </div>
             </ul></li>
-                <li id="Card"><a href="/dunkindonuts/en/ddcard.html" class="navBtn" id="cardBtn"><span class="navBtn_label" id="navlabel_ddcard">DD CARD</span> <span class="undertext">Buy, Register, Recharge</span></a><ul id="menuSubCard" class="menuVert" style="display: none;">
+                <li id="Card"><a alt="Card" href="/dunkindonuts/en/ddcard.html" class="navBtn" id="cardBtn"><span class="navBtn_label" id="navlabel_ddcard">DD CARD</span> <span class="undertext">Buy, Register, Reload</span></a><ul id="menuSubCard" class="menuVert" style="display: none;">
                 <div class="submenu_container" id="card_plate">
                 <div class="menuContentContainer">
                         <div class="menuContent">
@@ -968,23 +1000,23 @@ $(document).ready(function(){
                     <!-- Column one start -->
                     
                                 
-                                <a href="/dunkindonuts/en/ddcard.html"><span class="colHeader">Buy a Card</span></a>
+                                <a alt="Buy a Card" href="/dunkindonuts/en/ddcard/buyacard.html"><span class="colHeader">Buy a Card</span></a>
                                 
                         
                     
                    
-                   <a href="/dunkindonuts/en/help/privacypolicy.html"></a>
+                   <a alt="" href="/dunkindonuts/en/help/privacypolicy.html"></a>
                    
                     
                     <!-- Column one start -->
                     
                                 
-                                <a href="/dunkindonuts/en/ddperks/manage_my_cards/card_registration.html"><span class="colHeader">Register a Card</span></a>
+                                <a alt="Register a Card" href="/dunkindonuts/en/ddperks/manage_my_cards/card_registration.html"><span class="colHeader">Register a Card</span></a>
                                 
                         
                     
                    
-                   <a href="/dunkindonuts/en/mlanding.html">Download the DD Mobile® App</a>
+                   <a alt="Download the DD Mobile<sup>®</sup> App" href="/dunkindonuts/en/mlanding.html">Download the DD Mobile<sup>®</sup> App</a>
                    
                     
                 </div>
@@ -994,7 +1026,7 @@ $(document).ready(function(){
                     <!-- Column one start -->
                     
                                 
-                                <a href="/dunkindonuts/en/ddperks/manage_my_cards.html"><span class="colHeader">Manage My Cards</span></a>
+                                <a alt="Manage My Cards" href="/dunkindonuts/en/ddperks/manage_my_cards.html"><span class="colHeader">Manage My Cards</span></a>
                                 
                         
                     
@@ -1016,14 +1048,17 @@ $(document).ready(function(){
 
 				
 
-<a href="/dunkindonuts/en/ddcard/rechargecard.html">Recharge My Card</a>
+<a href="/dunkindonuts/en/ddcard/rechargecard.html">Reload My Card</a>
                     
                     </div>
+					
                     <div class="promo_col" id="col4">
                            <div id="promoHeader">
-                               <img src="/content/dam/Dunkin_Donuts/mainnav/NavThumb-DDCard.jpg" width="134px" height="110px" style="cursor: pointer;" onclick="location = '/content/dunkindonuts/en/responsive/ddperks/splashpage.html'">
+                               <a href="/dunkindonuts/en/responsive/ddperks/splashpage.html">
+                               	<img alt="promoHeader" src="/content/dam/Dunkin_Donuts/mainnav/NavThumb-DDCard.jpg" width="134px" height="110px" style="cursor: pointer;">
+                        		</a>
                            </div>
-                           <div id="promoTag"><span class="promoBody">Every swipe or tap gets you closer to a free beverage in any size.<a href="/dunkindonuts/en/responsive/ddperks/splashpage.html">Join Now</a></span></div>
+                           <div id="promoTag"><span class="promoBody">Every swipe or tap gets you closer to a free beverage in any size.<a alt="Get Started" href="/dunkindonuts/en/responsive/ddperks/splashpage.html">Get Started</a></span></div>
                        </div>
                     
                         </div>
@@ -1032,7 +1067,7 @@ $(document).ready(function(){
             </div></ul></li>
                 <!-- <li id="Perks"><a href="/content/dunkindonuts/en/ddperks.html" class="navBtn" id="perksBtn"><span class="navBtn_label" id="navlabel_perks">DD PERKS<sup>&#174;</sup> </span> <span class="undertext">Sign In, Create Account, Overview</span></a></li> -->
                
-               		<li id="Perks"><a href="/dunkindonuts/en/responsive/ddperks/splashpage.html" class="navBtn" id="perksBtn"><span class="navBtn_label" id="navlabel_perks">DD PERKS<sup>®</sup></span> <span class="undertext">Earn points and get rewards</span></a><ul id="menuSubPerks" class="menuVert" style="display: none;">
+               		<li id="Perks"><a alt="Perks" href="/dunkindonuts/en/responsive/ddperks/splashpage.html" class="navBtn" id="perksBtn"><span class="navBtn_label" id="navlabel_perks">DD PERKS<sup>®</sup></span> <span class="undertext">Earn points and get rewards</span></a><ul id="menuSubPerks" class="menuVert" style="display: none;">
              
                 
                 <div class="menuitem">
@@ -1055,10 +1090,11 @@ $(document).ready(function(){
 
 
 <div class="submenu_container perks_container" id="perks_plate">
+    <img class="submenu-left-image" src="/etc/designs/dunkindonuts/images/DD-Homepage-Hover-Latte-Slice.jpg" alt="Dunkin Donuts" style="float: left; position: absolute;">
       <div class="menuContentContainer">
               <div class="menuContent">
       <div class="h_promo">
-        <img src="/content/dam/Dunkin_Donuts/Dunkin UpDDate/DD-Homepage-Hover.jpg" style="cursor: pointer;" onclick="location = '/content/dunkindonuts/en/ddperks.html'">
+        <img alt="h_promo" src="/content/dam/Dunkin_Donuts/Dunkin UpDDate/DD-Homepage-Hover.jpg" style="cursor: pointer;" onclick="location = '/content/dunkindonuts/en/ddperks.html'">
       </div>
       <div class="perks_menu">
       <div class="submenu_col" id="col1">
@@ -1079,7 +1115,7 @@ $(document).ready(function(){
 
           <!-- Column one end -->
           
-    
+
       </div>
       
       
@@ -1103,7 +1139,7 @@ $(document).ready(function(){
 
     
     
-    
+   
     
     
     
@@ -1139,7 +1175,8 @@ $(document).ready(function(){
 <input type="hidden" id="signinvalue" name="signinvalue" value="/content/dunkindonuts/en/signin.html">
 <input type="hidden" id="signupvalue" name="signupvalue" value="/content/dunkindonuts/en/responsive/ddperks/splashpage.html">    
 <input type="hidden" id="myhiddenvalue" name="myhiddenvalue">
-    <div class="form">
+
+ <div class="form">
 </div>
 
           <div class="signinend1 end">
@@ -1175,7 +1212,7 @@ $(document).ready(function(){
          $("#fildAStore").val('');
         });
         
-         $("#fildAStore").val('Enter City & State or your ZIP en');
+         $("#fildAStore").val('Enter City & State or your ZIP');
     });
     </script>
 </div>
@@ -1206,9 +1243,9 @@ $(document).ready(function(){
 
                 
 
-<div class="breadcrumbcurrentpage"><div class="previous"><a href="/dunkindonuts/en.html">
+<div class="breadcrumbcurrentpage"><div class="previous"><a alt="title" href="/dunkindonuts/en.html">
         Home</a>
-         &gt; <a href="/dunkindonuts/en/help.html">
+         &gt; <a alt="title" href="/dunkindonuts/en/help.html">
         Help</a>
         &nbsp;&gt;&nbsp;</div><div class="current">
     Privacy Policy</div>
@@ -1260,57 +1297,88 @@ $(document).ready(function(){
 
 
 <div>
-    <div class="parsys centerPar"><div class="text parbase section">
-<p><b>THIS PRIVACY POLICY APPLIES TO YOUR ACCESS AND USE OF THE DUNKIN’ DONUTS ONLINE SERVICES, INCLUDING USE OF OUR WEBSITES, MOBILE APPLICATIONS, LOYALTY PROGRAM, STORED VALUE CARDS AND OTHER ONLINE PROGRAMS (“DD ONLINE SERVICES”). BY DOWNLOADING OR USING ANY OF THE DD ONLINE SERVICES, YOU ARE AGREEING THAT YOU HAVE READ AND AGREE TO BE BOUND BY THIS PRIVACY POLICY.&nbsp; IF YOU DISAGREE WITH ANY PART OF THIS PRIVACY POLICY, THEN PLEASE DO NOT USE ANY OF THE DD ONLINE SERVICES.</b><br>
+    <div class="parsys centerPar"><div class="text product_desc_recomend parbase section">
+
+
+
+
+
+ 
+  
+
+                
+
+
+
+
+<div class="recommendation"><p><b>THIS PRIVACY POLICY APPLIES TO YOUR ACCESS AND USE OF THE DUNKIN’ DONUTS ONLINE SERVICES, INCLUDING USE OF OUR WEBSITES, MOBILE APPLICATIONS, LOYALTY PROGRAM, STORED VALUE CARDS AND OTHER ONLINE PROGRAMS (“DD ONLINE SERVICES”). BY DOWNLOADING OR USING ANY OF THE DD ONLINE SERVICES, YOU ARE AGREEING THAT YOU HAVE READ AND AGREE TO BE BOUND BY THIS PRIVACY POLICY.&nbsp; IF YOU DISAGREE WITH ANY PART OF THIS PRIVACY POLICY, THEN PLEASE DO NOT USE ANY OF THE DD ONLINE SERVICES.</b><br>
 <br>
 We want you to enjoy every visit to DunkinDonuts.com, whether you’re there to look around, order coffee, join our loyalty program, or tell us about your last trip to one of our shops, as well as every experience with DD Online Services.&nbsp; We do collect information about you and we may share that information with third parties in certain circumstances, so please read on for more details about how we use personal information we collect about you when you use the DD Online Services.<br>
 </p>
-
 <p><br>
 Dunkin’ Donuts controls and operates its business and the DD Online Services from within the United States of America.&nbsp; Our online privacy practices are governed by the laws of the United States and the Commonwealth of Massachusetts, which may differ from privacy laws in your state or home country.&nbsp; By submitting your personal information to us or our agents, through the use of the DD Online Services, you consent to the transfer of your personal information to any country and its use and disclosure in accordance with applicable U.S. Federal and State laws and with this Privacy Policy.<br>
 </p>
-
 <p><br>
 We may change our Privacy Policy, so please check this page from time to time, as your continued use of the DD Online Services, after we publish our changes, indicates your acceptance of any changed terms.<br>
 </p>
-
 <p><br>
 You can jump to specific areas of our Privacy Policy by clicking on the links below, or you can read on for the full Privacy Policy:</p>
-
 <p>&nbsp;</p>
 
-
-
+        </div>
+        
 </div>
-<div class="text parbase section">
-<p><a href="#whatcollect">What Kind of Information We Collect</a><br>
-<a href="#howuse">How We Use the Personal Information We Collect</a><br>
-<a href="#howdisclose">How We May Disclose the Personal Information We Collect</a><br>
-<a href="#howdisclose2">How We May Use and Disclose Other Information We Collect</a><br>
-<a href="#manageaccount">How to Manage Your Account Information</a><br>
-<a href="#howprotect">How We Protect Your Personal Information</a><br>
-<a href="#cookiespolicy">Our&nbsp;Policy on Cookies, Interest-Based Advertising and "Do Not Track"</a><br>
-<a href="#social">Social Networking and Third Party Sites</a><br>
-<a href="#rightsCA">Rights of Individual California Users</a><br>
-<a href="#children">Children’s Online Privacy</a><br>
-<a href="#international">International</a><br>
-<a href="#contact">Contact Us</a></p>
+<div class="text product_desc_recomend parbase section">
 
+
+
+
+
+ 
+  
+
+                
+
+
+
+
+<div class="recommendation"><p><a alt="What Kind of Information We Collect" href="#whatcollect">What Kind of Information We Collect</a><br>
+<a alt="How We Use the Personal Information We Collect" href="#howuse">How We Use the Personal Information We Collect</a><br>
+<a alt="How We May Disclose the Personal Information We Collect" href="#howdisclose">How We May Disclose the Personal Information We Collect</a><br>
+<a alt="How to Manage Your Account Information" href="#howdisclose2">How We May Use and Disclose Other Information We Collect</a><br>
+<a alt="" href="#manageaccount">How to Manage Your Account Information</a><br>
+<a alt="How We Protect Your Personal Information" href="#howprotect">How We Protect Your Personal Information</a><br>
+<a alt="Policy on Cookies Interest-Based Advertising" href="#cookiespolicy">Our&nbsp;Policy on Cookies, Interest-Based Advertising and "Do Not Track"</a><br>
+<a alt="Social Networking and Third Party Sites" href="#social">Social Networking and Third Party Sites</a><br>
+<a alt="Rights of Individual California Users" href="#rightsCA">Rights of Individual California Users</a><br>
+<a alt="Children’s Online Privacy" href="#children">Children’s Online Privacy</a><br>
+<a alt="International" href="#international">International</a><br>
+<a alt="Contact Us" href="#contact">Contact Us</a></p>
 <p>&nbsp;</p>
 
-
-
+        </div>
+        
 </div>
-<div class="text parbase section">
-<p><a name="whatcollect"></a></p>
+<div class="text product_desc_recomend parbase section">
 
-<p><b>1.&nbsp;&nbsp; &nbsp;<u>What Kind Of Information We Collect </u></b><br>
+
+
+
+
+ 
+  
+
+                
+
+
+
+
+<div class="recommendation"><p></p>
+<p id="whatcollect" tabindex="-1"><b>1.&nbsp;&nbsp; &nbsp;<u>What Kind Of Information We Collect</u></b><br>
 </p>
-
 <p><br>
 Whether accessing the DD Online Services&nbsp; from your home computer or while on the run from your smart phone or tablet, Dunkin’ Donuts and its agents may collect some information that identifies you or relates to you as an individual (<b>“Personal Information</b>”), such as your:<br>
 </p>
-
 <ul>
 <li>name;</li>
 <li>mailing address;</li>
@@ -1324,10 +1392,8 @@ Whether accessing the DD Online Services&nbsp; from your home computer or while 
 <li>if you are applying for a franchise, date of birth, social security number, contact and employment information.<br>
 </li>
 </ul>
-
 <p><br>
 In addition, we may collect other types of data elements (“<b>Other Information</b>”) that do not reveal your identity or that do not relate directly to you or any other individual, such as:</p>
-
 <ul>
 <li>&nbsp;browser and device information, including operating system;</li>
 <li>demographic information and other information provided by you that we may combine with other users of the DD Online Services or use on its own;</li>
@@ -1335,26 +1401,34 @@ In addition, we may collect other types of data elements (“<b>Other Informatio
 <li>aggregated information such as “click stream” information such as entry and exit points for the DD Online Services (including referring URLs or domains), certain DD Online Services traffic statistics, page views, and impressions; and</li>
 <li>information collected through cookies, pixel tags and other technologies described in more detail later in this Privacy Policy.</li>
 </ul>
-
 <p><br>
 In addition, when users request pages on the DD Online Services, our servers automatically log the IP address of the particular user.&nbsp; The IP address is a unique number assigned to your computer in order to identify it whenever you are surfing the Web.<br>
 </p>
-
 <p>&nbsp;</p>
 
-
-
+        </div>
+        
 </div>
-<div class="text parbase section">
-<p><a name="howuse"></a></p>
+<div class="text product_desc_recomend parbase section">
 
-<p><b>2.&nbsp;&nbsp; &nbsp;<u>How We Use The Personal Information We Collect</u></b><br>
+
+
+
+
+ 
+  
+
+                
+
+
+
+
+<div class="recommendation"><p></p>
+<p id="howuse" tabindex="-1"><b>2.&nbsp;&nbsp; &nbsp;<u>How We Use The Personal Information We Collect</u></b><br>
 </p>
-
 <p><br>
 We may use Personal Information about you for purposes described in this Privacy Policy or as otherwise disclosed to you through the DD Online Services.&nbsp; For example, we may use Personal Information to:<br>
 </p>
-
 <ul>
 <li>process and manage your purchase and use of our products and services;</li>
 <li>respond to your inquiries or requests, and to post your comments or statements on message boards or in our online forums;</li>
@@ -1365,271 +1439,308 @@ We may use Personal Information about you for purposes described in this Privacy
 <li>further our business purposes, such as to perform data analysis, audits, fraud monitoring and prevention, to enhance, improve or modify the DD Online Services, to identify usage trends, determine the effectiveness of our promotional campaigns and to operate and expand our business activities; and</li>
 <li>assist in the assessment of&nbsp; your application for a Dunkin’ Donuts franchise.</li>
 </ul>
-
 <p>&nbsp;</p>
-
 <p>We may send you “transactional or relationship” communications to you, such as notices to facilitate a transaction you have conducted or messages that provide information about your existing account, using various electronic communication, including email and mobile communications.&nbsp; You must opt-in to receive email and mobile communications (other than “transactional or relationship” communications referenced above), including SMS text messages from Dunkin' Donuts.&nbsp; Any opt-in will be subject to this Privacy Policy and we'll only email you, send you mobile alerts or SMS text messages if you opt-in to receive them from us.&nbsp; If, at any time, you decide you would rather not receive these types of communications from Dunkin' Donuts, you can opt-out by clicking the unsubscribe link at the bottom of any Dunkin' Donuts email or update the Contact Preferences for your Dunkin' Donuts account.</p>
-
 <p>&nbsp;</p>
 
-
-
+        </div>
+        
 </div>
-<div class="text parbase section">
-<p><a name="howdisclose"></a></p>
+<div class="text product_desc_recomend parbase section">
 
-<p><b>3.&nbsp;&nbsp; &nbsp;<u>How We May Disclose Personal Information We Collect</u></b><br>
+
+
+
+
+ 
+  
+
+                
+
+
+
+
+<div class="recommendation"><p></p>
+<p id="howdisclose" tabindex="-1"><b>3.&nbsp;&nbsp; &nbsp;<u>How We May Disclose Personal Information We Collect</u></b><br>
 </p>
-
 <p>&nbsp;</p>
-
 <p>Your privacy is very important to us.&nbsp; We generally won’t disclose your Personal Information to anyone outside of Dunkin’ Donuts or our sister brand Baskin-Robbins, except in the following circumstances.<br>
 </p>
-
 <p><br>
 <b>Service Providers</b><br>
 </p>
-
 <p><br>
-We may disclose your Personal Information to third-party service providers to provide us with services such as website hosting, professional services, including information technology services and related infrastructure, customer service, e-mail delivery, auditing and other similar services. <br>
+We may disclose your Personal Information to third-party service providers to provide us with services such as website hosting, professional services, including information technology services and related infrastructure, customer service, e-mail delivery, auditing and other similar services.<br>
 </p>
-
 <p><br>
 <b>Affiliates</b><br>
 </p>
-
 <p><br>
-We may disclose personal Information to our affiliates (“Affiliates”) for the purposes described in this Privacy Policy, including for marketing purposes, and to be consistent with our goal of providing our consumers with the superior product and consumer experience that our customers have come to expect from us around the globe.&nbsp; Affiliates are those companies that are under common control of our parent company Dunkin’ Brands, Inc. <br>
+We may disclose personal Information to our affiliates (“Affiliates”) for the purposes described in this Privacy Policy, including for marketing purposes, and to be consistent with our goal of providing our consumers with the superior product and consumer experience that our customers have come to expect from us around the globe.&nbsp; Affiliates are those companies that are under common control of our parent company Dunkin’ Brands, Inc.<br>
 </p>
-
 <p><br>
 <b>To Perform Services You Request</b><br>
 </p>
-
 <p><br>
-We may disclose your Personal Information to third parties in order to perform services you request or functions you initiate, such as when you post information and materials on message boards and forums, including on our Facebook Page.&nbsp;&nbsp; When you post information in a public forum it becomes public information.&nbsp; In addition, we may disclose your Personal Information in order to identify you to anyone to whom you send communications through the DD Online Services, including through our gifting program. <br>
+We may disclose your Personal Information to third parties in order to perform services you request or functions you initiate, such as when you post information and materials on message boards and forums, including on our Facebook Page.&nbsp;&nbsp; When you post information in a public forum it becomes public information.&nbsp; In addition, we may disclose your Personal Information in order to identify you to anyone to whom you send communications through the DD Online Services, including through our gifting program.<br>
 </p>
-
 <p><br>
-<b>Corporate Transactions or Events </b><br>
+<b>Corporate Transactions or Events</b><br>
 </p>
-
 <p><br>
-We may disclose your information to a third party in connection with a corporate reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock, including in connection with any bankruptcy or similar proceedings. <br>
+We may disclose your information to a third party in connection with a corporate reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock, including in connection with any bankruptcy or similar proceedings.<br>
 </p>
-
 <p><br>
 <b>Other Legal Reasons</b><br>
 </p>
-
 <p><br>
 In addition, we may use or disclose your Personal Information as we deem necessary or appropriate: (1) under applicable law, including laws outside your country of residence; (2) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (3) to comply with subpoenas and other legal processes; (4) to pursue available remedies or limit damages we may sustain; (5)&nbsp;to protect our operations or those of any of our Affiliates; (6) to protect the rights, privacy, safety or property of Dunkin’ Donuts, our Affiliates, you and others; and (7) to enforce our terms and conditions.<br>
 </p>
-
 <p><b><br>
 Franchise Applications</b><br>
 </p>
-
 <p><br>
-Finally, we may disclose the personal information you submit on a franchise application to our business units, agents, parent company, Affiliates and to third parties as part of our consideration of that application and to help conduct our franchise marketing efforts.&nbsp; We require our agents to respect our privacy practices and not use your personal information for purposes other than to carry out our instructions. <br>
+Finally, we may disclose the personal information you submit on a franchise application to our business units, agents, parent company, Affiliates and to third parties as part of our consideration of that application and to help conduct our franchise marketing efforts.&nbsp; We require our agents to respect our privacy practices and not use your personal information for purposes other than to carry out our instructions.<br>
 </p>
-
 <p>&nbsp;</p>
 
-
-
+        </div>
+        
 </div>
-<div class="text parbase section">
-<p><a name="howdisclose2"></a></p>
+<div class="text product_desc_recomend parbase section">
 
-<p><b>4.&nbsp;&nbsp; &nbsp;<u>How We May Use And Disclose Other Information We Collect</u></b><br>
+
+
+
+
+ 
+  
+
+                
+
+
+
+
+<div class="recommendation"><p></p>
+<p id="howdisclose2" tabindex="-1"><b>4.&nbsp;&nbsp; &nbsp;<u>How We May Use And Disclose Other Information We Collect</u></b><br>
 </p>
-
 <p><br>
 Similarly, we generally use Other Information for any purpose not prohibited by law.&nbsp; In particular, we may collect, compile, store, publish, promote, report, sell, or otherwise disclose or use any and all Other Information, provided that such information does not personally identify you.&nbsp; The Other Information that we collect generally will not personally identify you or be correlated to you individually for external purposes. &nbsp;<br>
 </p>
-
 <p><br>
-Where we combine Other Information with Personal Information in a way that can identify you or be used to identify you personally, we will treat that information as Personal Information, subject to the provisions of this Privacy Policy.&nbsp; <br>
+Where we combine Other Information with Personal Information in a way that can identify you or be used to identify you personally, we will treat that information as Personal Information, subject to the provisions of this Privacy Policy.&nbsp;<br>
 </p>
-
-<p><br>
-<br>
-</p>
-
-
-
+<p>&nbsp;</p>
+        </div>
+        
 </div>
-<div class="text parbase section">
-<p><b><a name="manageaccount"></a></b></p>
+<div class="text product_desc_recomend parbase section">
 
-<p><b>5.&nbsp;&nbsp; &nbsp;<u>How To Manage Your Account Information</u></b><br>
+
+
+
+
+ 
+  
+
+                
+
+
+
+
+<div class="recommendation"><p></p>
+<p id="manageaccount" tabindex="-1"><b>5.&nbsp;&nbsp; &nbsp;<u>How To Manage Your Account Information</u></b><br>
 </p>
-
 <p><br>
-You can visit the account section of the DD Online Services website to manage and correct any factual inaccuracies in the information we have on file about you. <br>
+You can visit the account section of the DD Online Services website to manage and correct any factual inaccuracies in the information we have on file about you.<br>
 </p>
-
 <p>&nbsp;</p>
 
-
-
+        </div>
+        
 </div>
-<div class="text parbase section">
-<p><b><a name="howprotect"></a>6.&nbsp;&nbsp; &nbsp;<u>How We Protect Your Personal Information</u></b><br>
-</p>
+<div class="text product_desc_recomend parbase section">
 
+
+
+
+
+ 
+  
+
+                
+
+
+
+
+<div class="recommendation"><p></p>
+<p id="howprotect" tabindex="-1"><b>6.&nbsp;&nbsp; &nbsp;<u>How We Protect Your Personal Information</u></b><br>
+</p>
 <p><br>
 Dunkin’ Donuts has implemented reasonable safeguards designed to prevent loss, misuse and unauthorized access, disclosure or modification of Personal Information provided or collected through our DD Online Services. &nbsp;<br>
 With respect to payment card information and other Personal Information collected through our DD Online Services, we use Secure Socket Layer Technology or SSL to encrypt or scramble that information during transmission.<br>
 </p>
-
 <p><br>
-Unfortunately, no system or online transmission of data can be guaranteed to be 100% secure and you should always take appropriate security measures to protect your Personal Information, including ensuring that you have up-to-date antivirus software.&nbsp; If you believe that your Dunkin’ Donuts account or any information you provided to us is no longer secure, please notify us immediately through the Contact Us information provided below.&nbsp; <br>
+Unfortunately, no system or online transmission of data can be guaranteed to be 100% secure and you should always take appropriate security measures to protect your Personal Information, including ensuring that you have up-to-date antivirus software.&nbsp; If you believe that your Dunkin’ Donuts account or any information you provided to us is no longer secure, please notify us immediately through the Contact Us information provided below.&nbsp;<br>
 </p>
-
-<p><br>
-<br>
-</p>
-
-
-
-</div>
-<div class="text parbase section">
-<p><a name="cookiespolicy"></a></p>
-
-<p><b>7.&nbsp;<u>Our Policy on Cookies, Interest-Based Advertising and “Do Not Track”&nbsp;</u></b><br>
-<b>&nbsp;</b><br>
-What Are Cookies?</p>
-
 <p>&nbsp;</p>
 
-<p style="margin-left: 40.0px;" class="StandardL1">Cookies are small text files placed in your computer browser directories to store your information about your use of the DD Online Services and your activities online (collectively, “Cookies”). &nbsp;A Cookie will typically contain the name of the domain (internet location) from which the Cookie has come, the “lifetime” of the Cookie (i.e. when does it expire), and a value, usually a randomly generated unique number. &nbsp;To find out more about Cookies, including how to see what Cookies have been set on your device and how to manage and delete them, visit <b><u><a href="http://www.allaboutcookies.org/">www.allaboutcookies.org</a></u></b>.</p>
-
-<p class="StandardL1">&nbsp;</p>
-
-<p class="StandardL1">How We Use Cookies</p>
-
-<p class="StandardL1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-</p>
-
-<p style="margin-left: 40.0px;" class="StandardL1">We use Cookies so that we can improve your online experience – for example, by remembering you when you come back to visit us, and making the content you see more relevant to you. Cookies also enable us to track online purchases made through the DD Online Services.</p>
-
-<p class="StandardL1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-Your Control of Cookies</p>
-
-<p class="StandardL1">&nbsp;</p>
-
-<p style="margin-left: 40.0px;" class="StandardL1">If you do not wish to receive Cookies or wish to manage when you accept Cookies in general, you may set your browser to reject Cookies or to alert you when a Cookie is placed on your computer. &nbsp;Although you are not required to accept our Cookies, if you set your browser to reject Cookies, you may not be able to use all of the features and functionality of the DD Online Services.&nbsp; The Help feature on most browsers will tell you how to prevent your browser from accepting new Cookies, how to have the browser notify you when you receive a new Cookie, or how to disable Cookies altogether. &nbsp;If you block or otherwise reject our Cookies, you may lose some of the functionality of our site.&nbsp; For example, you may not be able to add items to your Shopping Cart, proceed to Checkout, or use any products and services that require you to sign in.</p>
-
-<p class="StandardL1">&nbsp;</p>
-
-<p class="StandardL1">Online Advertising</p>
-
-<p class="StandardL1">&nbsp;</p>
-
-<p style="margin-left: 40.0px;" class="StandardL1">The DD Online Services also use Cookies and other technologies such as pixel tags, web beacons and clear GIF files (collectively, “Data Collection Technologies”) to help manage our online advertising program. These Data Collection Technologies are provided by our ad management partners and other third parties.</p>
-
-<p style="margin-left: 40.0px;" class="StandardL1">&nbsp;</p>
-
-<p style="margin-left: 40.0px;" class="StandardL1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-In addition, we and our ad management partners may use these Data Collection Technologies to track the actions of users of the DD Online Services, to measure statistics of our marketing efforts, and to deliver advertisements on the DD Online Services that may be more relevant to individual consumers and that will improve the consumer experience on the DD Online Services. &nbsp;For example, if you give us your zip code and we thus know you live in an area where a particular in-store promotion is going on (such as a new snack offering), we may deliver to you an advertisement that is specific to that promotion.</p>
-
-<p style="margin-left: 40.0px;" class="StandardL1">&nbsp;</p>
-
-<p style="margin-left: 40.0px;" class="StandardL1">We support the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance (“Principles”).&nbsp; This means that we allow you to exercise choice regarding the collection of information about your online activities over time and across third-party websites for online interest based advertising purposes. &nbsp;More information about these Principles can be found at www.aboutads.info/.&nbsp;</p>
-
-<p class="StandardL1">&nbsp;</p>
-
-<p class="StandardL1">&nbsp;</p>
-
-<p class="StandardL1">Opting Out of Interest-Based Advertisements</p>
-
-<p class="StandardL1">&nbsp;</p>
-
-<p style="margin-left: 40.0px;" class="StandardL1">If you want to “opt out” of receiving online interest-based advertisements, please follow the instructions at <a href="http://www.aboutads.info/choices">www.aboutads.info/choices</a>, or &nbsp;<a href="http://www.networkadvertising.org/choices/">http://www.networkadvertising.org/choices/</a>. &nbsp;An “opt-out” Cookie will be placed on your device indicating that you do not want to receive interest-based advertisements. &nbsp;If you delete Cookies on your device generally, you will need to opt-out again.&nbsp;</p>
-
-<p style="margin-left: 40.0px;" class="StandardL1">&nbsp;</p>
-
-<p style="margin-left: 40.0px;" class="StandardL1">&nbsp;Please note that when you “opt-out” of receiving interest-based advertisements, this does not mean you will no longer see advertisements from us or on the DD Online Services.&nbsp; It means that the online ads that you do see will not be based on your particular interests.&nbsp;</p>
-
-<p style="margin-left: 40.0px;" class="StandardL1">&nbsp;</p>
-
-<p style="margin-left: 40.0px;">In addition, please note that certain third parties that we do not control may use Data Collection Technologies on the DD Online Services.&nbsp; When you “opt-out” of receiving interest-based advertisements through one of the links above, these Data Collection Technologies may still collect information about your use of the DD Online Services, including for analytics and fraud prevention as well as any other purpose permitted under the Principles. &nbsp;When we use the term “Data Collection Technologies” we are referring to any technology that collects information about your use of the DD Online Services and potentially about your activities when you leave the Services and visit other sites on the Internet.&nbsp;<br>
-</p>
-
-<p style="margin-left: 40.0px;"><br>
-</p>
-
-
-
+        </div>
+        
 </div>
-<div class="text parbase section">
-<p><b><a name="social"></a></b></p>
+<div class="text product_desc_recomend parbase section">
 
-<p><b>8.&nbsp;&nbsp; &nbsp;<u>Social Networking And Third Party Sites</u></b></p>
 
+
+
+
+ 
+  
+
+                
+
+
+
+
+<div class="recommendation"><p></p>
+<p id="cookiespolicy" tabindex="-1"><b>7.&nbsp;<u>Our Policy on Cookies, Interest-Based Advertising and “Do Not Track”&nbsp;</u></b><br>
+<b>&nbsp;</b><br>
+What Are Cookies?</p>
+<p>&nbsp;</p>
+<p>Cookies are small text files placed in your computer browser directories to store your information about your use of the DD Online Services and your activities online (collectively, “Cookies”). &nbsp;A Cookie will typically contain the name of the domain (internet location) from which the Cookie has come, the “lifetime” of the Cookie (i.e. when does it expire), and a value, usually a randomly generated unique number. &nbsp;To find out more about Cookies, including how to see what Cookies have been set on your device and how to manage and delete them, visit&nbsp;<b><u><a alt="allaboutcookies" href="http://www.allaboutcookies.org/">www.allaboutcookies.org</a></u></b>.</p>
+<p>&nbsp;</p>
+<p>How We Use Cookies</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+</p>
+<p>We use Cookies so that we can improve your online experience – for example, by remembering you when you come back to visit us, and making the content you see more relevant to you. Cookies also enable us to track online purchases made through the DD Online Services.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+Your Control of Cookies</p>
+<p>&nbsp;</p>
+<p>If you do not wish to receive Cookies or wish to manage when you accept Cookies in general, you may set your browser to reject Cookies or to alert you when a Cookie is placed on your computer. &nbsp;Although you are not required to accept our Cookies, if you set your browser to reject Cookies, you may not be able to use all of the features and functionality of the DD Online Services.&nbsp; The Help feature on most browsers will tell you how to prevent your browser from accepting new Cookies, how to have the browser notify you when you receive a new Cookie, or how to disable Cookies altogether. &nbsp;If you block or otherwise reject our Cookies, you may lose some of the functionality of our site.&nbsp; For example, you may not be able to add items to your Shopping Cart, proceed to Checkout, or use any products and services that require you to sign in.</p>
+<p>&nbsp;</p>
+<p>Online Advertising</p>
+<p>&nbsp;</p>
+<p>The DD Online Services also use Cookies and other technologies such as pixel tags, web beacons and clear GIF files (collectively, “Data Collection Technologies”) to help manage our online advertising program. These Data Collection Technologies are provided by our ad management partners and other third parties.</p>
+<p>&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+In addition, we and our ad management partners may use these Data Collection Technologies to track the actions of users of the DD Online Services, to measure statistics of our marketing efforts, and to deliver advertisements on the DD Online Services that may be more relevant to individual consumers and that will improve the consumer experience on the DD Online Services. &nbsp;For example, if you give us your zip code and we thus know you live in an area where a particular in-store promotion is going on (such as a new snack offering), we may deliver to you an advertisement that is specific to that promotion.</p>
+<p>&nbsp;</p>
+<p>We support the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance (“Principles”).&nbsp; This means that we allow you to exercise choice regarding the collection of information about your online activities over time and across third-party websites for online interest based advertising purposes. &nbsp;More information about these Principles can be found at www.aboutads.info/.&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Opting Out of Interest-Based Advertisements</p>
+<p>&nbsp;</p>
+<p>If you want to “opt out” of receiving online interest-based advertisements, please follow the instructions at&nbsp;<a alt="aboutads" href="http://www.aboutads.info/choices">www.aboutads.info/choices</a>, or &nbsp;<a alt="networkadvertising" href="http://www.networkadvertising.org/choices/">http://www.networkadvertising.org/choices/</a>. &nbsp;An “opt-out” Cookie will be placed on your device indicating that you do not want to receive interest-based advertisements. &nbsp;If you delete Cookies on your device generally, you will need to opt-out again.&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;Please note that when you “opt-out” of receiving interest-based advertisements, this does not mean you will no longer see advertisements from us or on the DD Online Services.&nbsp; It means that the online ads that you do see will not be based on your particular interests.&nbsp;</p>
+<p>&nbsp;</p>
+<p>In addition, please note that certain third parties that we do not control may use Data Collection Technologies on the DD Online Services.&nbsp; When you “opt-out” of receiving interest-based advertisements through one of the links above, these Data Collection Technologies may still collect information about your use of the DD Online Services, including for analytics and fraud prevention as well as any other purpose permitted under the Principles. &nbsp;When we use the term “Data Collection Technologies” we are referring to any technology that collects information about your use of the DD Online Services and potentially about your activities when you leave the Services and visit other sites on the Internet.&nbsp;<br>
+</p>
+<p>&nbsp;</p>
+
+        </div>
+        
+</div>
+<div class="text product_desc_recomend parbase section">
+
+
+
+
+
+ 
+  
+
+                
+
+
+
+
+<div class="recommendation"><p></p>
+<p id="social" tabindex="-1"><b>8.&nbsp;&nbsp; &nbsp;<u>Social Networking And Third Party Sites</u></b></p>
 <p><br>
 When you link to the DD Online Services through any social networking or third party sites, applications or services, please remember that you are bound by the privacy policy of the social network or third-party site, application or service, and we do not control and are not responsible for the privacy practices of such sites. You should consult the privacy policy of such sites to determine the information practices of those sites.<br>
 </p>
-
 <p>&nbsp;</p>
 
-
-
+        </div>
+        
 </div>
-<div class="text parbase section">
-<p><b><a name="children"></a></b></p>
+<div class="text product_desc_recomend parbase section">
 
-<p><b>9.&nbsp;&nbsp; &nbsp;<u>Children’s Online Privacy</u></b><br>
+
+
+
+
+ 
+  
+
+                
+
+
+
+
+<div class="recommendation"><p></p>
+<p id="children" tabindex="-1"><b>9.&nbsp;&nbsp; &nbsp;<u>Children’s Online Privacy</u></b><br>
 </p>
-
 <p><br>
 Dunkin’ Donuts recognizes the importance of protecting the privacy of children.&nbsp; We will not knowingly collect any personally identifiable information from children under the age of thirteen (13).&nbsp; When a user discloses personal information on the DD Online Services, the user is representing to us that he or she is at least thirteen (13) years of age. &nbsp;<br>
 </p>
-
 <p><br>
 If a child under the age of thirteen (13) has provided us with personally identifiable information through the DD Online Services, we ask that a parent or guardian e-mail us at customerservice@dunkinbrands.com, and we will delete the child’s information from our records.</p>
-
 <p>&nbsp;</p>
 
-
-
+        </div>
+        
 </div>
-<div class="text parbase section">
-<p><a name="international"></a></p>
+<div class="text product_desc_recomend parbase section">
 
-<p><b>10.&nbsp;&nbsp; <u>&nbsp;International</u></b><br>
+
+
+
+
+ 
+  
+
+                
+
+
+
+
+<div class="recommendation"><p></p>
+<p id="international" tabindex="-1"><b>10.&nbsp;&nbsp;&nbsp;<u>&nbsp;International</u></b><br>
 </p>
-
 <p><br>
 This English-language Privacy Policy is Dunkin’ Donuts’ official statement of its&nbsp; DD Online Services privacy practices.&nbsp; In case of any inconsistency between this English-language Privacy Policy and its translation into another language, this English-language document prevails.</p>
-
 <p>&nbsp;</p>
-
-
-
+        </div>
+        
 </div>
-<div class="text parbase section">
-<p><b><a name="contact"></a></b></p>
+<div class="text product_desc_recomend parbase section">
 
-<p><b>11.&nbsp;&nbsp; &nbsp;<u>Contact Us</u></b></p>
 
+
+
+
+ 
+  
+
+                
+
+
+
+
+<div class="recommendation"><p></p>
+<p id="contact" tabindex="-1"><b>11.&nbsp;&nbsp; &nbsp;<u>Contact Us</u></b></p>
 <p>&nbsp;</p>
-
-
-<p>If you have any questions regarding our privacy practices, you can email us at <a href="mailto:customerservice@dunkinbrands.com">customerservice@dunkinbrands.com</a>. You also can telephone us at 1-800-859-5339, send us a fax at 1-781-737-4000, or you can write to us at Dunkin’ Donuts Customer Service, Dunkin’ Brands, Inc., 130 Royall Street, Canton, MA 02021.<br>
+<p>If you have any questions regarding our privacy practices, you can email us at<a alt="Contact Us" href="mailto:customerservice@dunkinbrands.com">customerservice@dunkinbrands.com</a>. You also can telephone us at 1-800-859-5339, send us a fax at 1-781-737-4000, or you can write to us at Dunkin’ Donuts Customer Service, Dunkin’ Brands, Inc., 130 Royall Street, Canton, MA 02021.<br>
 </p>
-
 <p>&nbsp;</p>
-
 <p>©2006-2014. DD IP Holder LLC name, design, logos and related marks are registered trademarks of DD IP Holder LLC. All rights reserved.</p>
-
 <p><br>
 Last updated:<b>&nbsp;</b>January 2014</p>
 
-
-
+        </div>
+        
 </div>
 
 </div>
@@ -1675,14 +1786,14 @@ Last updated:<b>&nbsp;</b>January 2014</p>
     
   <div class="relatedLink">
     <div style="float: left;">
-        <a href="/dunkindonuts/en/help.html" target="_self">Help</a>
+        <a alt="Help" href="/dunkindonuts/en/help.html" target="_self">Help</a>
     </div>
     
   </div>
 
   <div class="relatedLink">
     <div style="float: left;">
-        <a href="/dunkindonuts/en/help/terms.html" target="_self">Terms of Use</a>
+        <a alt="Terms of Use" href="/dunkindonuts/en/help/terms.html" target="_self">Terms of Use</a>
     </div>
     
   </div>
@@ -1757,7 +1868,8 @@ function getUrlParams() {
 </script>
 
 
-<a name="searchResultUP"></a>
+<a alt="searchResult" name="searchResultUP"></a>
+
     <form id="searchForm" action="/dunkindonuts/en/search.html">
     <div class="search">
         <div class="inputSearchDiv">
@@ -1767,10 +1879,11 @@ function getUrlParams() {
             <span class="btnlabel">GO</span>
             <span class="btnaction btnArrow"></span>
         </button>
-        <input type="hidden" name="date" value="Mon May 04 09:19:09 EDT 2015">
+        <input type="hidden" name="date" value="Tue Nov 29 06:30:13 EST 2016">
         
         </div>
     </form>
+
 
 
 </div>
@@ -1783,9 +1896,9 @@ function getUrlParams() {
 </script>
 
 <div class="addthis_toolbox addthis_default_style ">
-<a class="addthis_button_preferred_1"></a>
-<a class="addthis_button_preferred_2"></a>
-<a href="https://www.addthis.com/bookmark.php?v=250&amp;username=xa-4d1402905a5ecad7" class="addthis_button_compact"> </a>
+<a alt="addthis_button_1" class="addthis_button_preferred_1"></a>
+<a alt="addthis_button_2" class="addthis_button_preferred_2"></a>
+<a alt="addthis_button_compact" href="https://www.addthis.com/bookmark.php?v=250&amp;username=xa-4d1402905a5ecad7" class="addthis_button_compact"> </a>
 </div>
 
 <!-- AddThis Button END -->
@@ -1799,13 +1912,17 @@ function getUrlParams() {
                  <div id="footerlistMenu">
                  <ul>
                 
-                         <li><div class="clearfloat"><div class="floatLeft"><a href="/dunkindonuts/en/responsive/ddperks/splashpage.html">DD Perks</a></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="DD Perks" href="/dunkindonuts/en/responsive/ddperks/splashpage.html">DD Perks
+                         </a></div></div></li>
                             
-                         <li><div class="clearfloat"><div class="floatLeft"><a href="/dunkindonuts/en/ddperks/manage_my_cards.html">Manage Card</a></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Manage Card" href="/dunkindonuts/en/ddperks/manage_my_cards.html">Manage Card
+                         </a></div></div></li>
                             
-                         <li><div class="clearfloat"><div class="floatLeft"><a href="/dunkindonuts/en/createprofilesimple.html">Get Our Newsletter</a></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Get Our Newsletter" href="/dunkindonuts/en/createprofilesimple.html">Get Our Newsletter
+                         </a></div></div></li>
                             
-                         <li><div class="clearfloat"><div class="floatLeft"><a href="/dunkindonuts/en/mlanding.html">Download the DD Mobile<sup>®</sup> App</a></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Download the DD Mobile<sup>®</sup> App" href="/dunkindonuts/en/mlanding.html">Download the DD Mobile<sup>®</sup> App
+                         </a></div></div></li>
                             
                                 
                            
@@ -1817,15 +1934,20 @@ function getUrlParams() {
                  <div id="footerlistMenu">
                  <ul>
                 
-                         <li><div class="clearfloat"><div class="floatLeft"><a href="/dunkindonuts/en/help/contactus.html">Contact Us</a></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Contact Us" href="/dunkindonuts/en/help/contactus.html">Contact Us
+                         </a></div></div></li>
                             
-                         <li><div class="clearfloat"><div class="floatLeft"><a href="/dunkindonuts/en/stores.html">Dunkin' Donuts Locations</a></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Dunkin' Donuts Locations" href="/dunkindonuts/en/stores.html">Dunkin' Donuts Locations
+                         </a></div></div></li>
                             
-                         <li><div class="clearfloat"><div class="floatLeft"><a href="/dunkindonuts/en/menu/nutrition/nutrition_catalog.html">Nutrition Catalog </a></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Nutrition Catalog " href="/dunkindonuts/en/menu/nutrition/nutrition_catalog.html">Nutrition Catalog 
+                         </a></div></div></li>
                             
-                         <li><div class="clearfloat"><div class="floatLeft"><a href="/dunkindonuts/en/menu/nutrition/ddsmart.html">DDSMART<sup>®</sup></a></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="DDSMART<sup>®</sup>" href="/dunkindonuts/en/menu/nutrition/ddsmart.html">DDSMART<sup>®</sup>
+                         </a></div></div></li>
                             
-                         <li><div class="clearfloat"><div class="floatLeft"><a target="_blank" href="http://www.earthcam.com/usa/newyork/timessquare/?cam=tstwo">Times Square Webcam</a></div><div class="new_window_link"></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Times Square Webcam" target="_blank" href="http://www.earthcam.com/usa/newyork/timessquare/?cam=tstwo">Times Square Webcam
+                         <img src="/etc/designs/dunkindonuts/clientlib/images/btn_ic_newwindow_right.jpg" alt="opens in a new window"></a></div></div></li>
                             
                                 
                            
@@ -1837,13 +1959,17 @@ function getUrlParams() {
                  <div id="footerlistMenu">
                  <ul>
                 
-                         <li><div class="clearfloat"><div class="floatLeft"><a target="_blank" href="http://www.facebook.com/DunkinDonuts">Facebook</a></div><div class="new_window_link"></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Facebook" target="_blank" href="http://www.facebook.com/DunkinDonuts">Facebook
+                         <img src="/etc/designs/dunkindonuts/clientlib/images/btn_ic_newwindow_right.jpg" alt="opens in a new window"></a></div></div></li>
                             
-                         <li><div class="clearfloat"><div class="floatLeft"><a target="_blank" href="http://www.youtube.com/user/dunkindonuts">YouTube</a></div><div class="new_window_link"></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="YouTube" target="_blank" href="http://www.youtube.com/user/dunkindonuts">YouTube
+                         <img src="/etc/designs/dunkindonuts/clientlib/images/btn_ic_newwindow_right.jpg" alt="opens in a new window"></a></div></div></li>
                             
-                         <li><div class="clearfloat"><div class="floatLeft"><a target="_blank" href="http://twitter.com/dunkindonuts">Twitter</a></div><div class="new_window_link"></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Twitter" target="_blank" href="http://twitter.com/dunkindonuts">Twitter
+                         <img src="/etc/designs/dunkindonuts/clientlib/images/btn_ic_newwindow_right.jpg" alt="opens in a new window"></a></div></div></li>
                             
-                         <li><div class="clearfloat"><div class="floatLeft"><a href="/DDBlog.html">Dunkin' Blog</a></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Dunkin' Blog" target="_blank" href="http://news.dunkindonuts.com/blog">Dunkin' Blog
+                         <img src="/etc/designs/dunkindonuts/clientlib/images/btn_ic_newwindow_right.jpg" alt="opens in a new window"></a></div></div></li>
                             
                                 
                            
@@ -1855,15 +1981,20 @@ function getUrlParams() {
                  <div id="footerlistMenu">
                  <ul>
                 
-                         <li><div class="clearfloat"><div class="floatLeft"><a target="_blank" href="http://shop.dunkindonuts.com/?CCAID=DDPTDDHO">Shop Home Page</a></div><div class="new_window_link"></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Shop Home Page" target="_blank" href="http://shop.dunkindonuts.com?ecid=PRF-DD-12&amp;pa=PRF-DD-12">Shop Home Page
+                         <img src="/etc/designs/dunkindonuts/clientlib/images/btn_ic_newwindow_right.jpg" alt="opens in a new window"></a></div></div></li>
                             
-                         <li><div class="clearfloat"><div class="floatLeft"><a target="_blank" href="http://shop.dunkindonuts.com/coffee_1997_p01_01/?CCAID=DDSTDDCF">Coffee</a></div><div class="new_window_link"></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Coffee" target="_blank" href="http://shop.dunkindonuts.com/?v=coffee&amp;ecid=PRF-DD-13&amp;pa=PRF-DD-13">Coffee
+                         <img src="/etc/designs/dunkindonuts/clientlib/images/btn_ic_newwindow_right.jpg" alt="opens in a new window"></a></div></div></li>
                             
-                         <li><div class="clearfloat"><div class="floatLeft"><a target="_blank" href="http://shop.dunkindonuts.com/tea_4294959869-4294959900_p01_01/?CCAID=DDSTDDTEA">Tea </a></div><div class="new_window_link"></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Tea " target="_blank" href="http://shop.dunkindonuts.com/?v=tea&amp;ecid=PRF-DD-14&amp;pa=PRF-DD-14">Tea 
+                         <img src="/etc/designs/dunkindonuts/clientlib/images/btn_ic_newwindow_right.jpg" alt="opens in a new window"></a></div></div></li>
                             
-                         <li><div class="clearfloat"><div class="floatLeft"><a target="_blank" href="http://shop.dunkindonuts.com/drinkware_363_p01_01/?CCAID=DDSTDDdw">Cups &amp; Mugs</a></div><div class="new_window_link"></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Cups &amp; Mugs" target="_blank" href="http://shop.dunkindonuts.com/?v=drinkware&amp;ecid=PRF-DD-15&amp;pa=PRF-DD-15">Cups &amp; Mugs
+                         <img src="/etc/designs/dunkindonuts/clientlib/images/btn_ic_newwindow_right.jpg" alt="opens in a new window"></a></div></div></li>
                             
-                         <li><div class="clearfloat"><div class="floatLeft"><a target="_blank" href="http://shop.dunkindonuts.com/shop-all-dunkin-donuts-apparel_4149_p01_04/?CCAID=DDSTDDAP">Apparel</a></div><div class="new_window_link"></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Subscriptions" target="_blank" href="http://shop.dunkindonuts.com/?v=subscriptions&amp;ecid=PRF-DD-16&amp;pa=PRF-DD-16">Subscriptions
+                         <img src="/etc/designs/dunkindonuts/clientlib/images/btn_ic_newwindow_right.jpg" alt="opens in a new window"></a></div></div></li>
                             
                                 
                            
@@ -1875,15 +2006,20 @@ function getUrlParams() {
                  <div id="footerlistMenu">
                  <ul>
                 
-                         <li><div class="clearfloat"><div class="floatLeft"><a href="/dunkindonuts/en/company.html">Company Snapshot</a></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Company Snapshot" href="/dunkindonuts/en/company.html">Company Snapshot
+                         </a></div></div></li>
                             
-                         <li><div class="clearfloat"><div class="floatLeft"><a href="/dunkindonuts/en/ddcareers.html">Careers</a></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Careers" href="/dunkindonuts/en/ddcareers.html">Careers
+                         </a></div></div></li>
                             
-                         <li><div class="clearfloat"><div class="floatLeft"><a target="_blank" href="http://www.dunkinfranchising.com/aboutus/franchise/franchise-home.html">Franchising</a></div><div class="new_window_link"></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Franchising" target="_blank" href="http://www.dunkinfranchising.com/aboutus/franchise/franchise-home.html">Franchising
+                         <img src="/etc/designs/dunkindonuts/clientlib/images/btn_ic_newwindow_right.jpg" alt="opens in a new window"></a></div></div></li>
                             
-                         <li><div class="clearfloat"><div class="floatLeft"><a target="_blank" href="http://www.dunkinbrands.com/">Dunkin' Brands</a></div><div class="new_window_link"></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Dunkin' Brands" target="_blank" href="http://www.dunkinbrands.com/">Dunkin' Brands
+                         <img src="/etc/designs/dunkindonuts/clientlib/images/btn_ic_newwindow_right.jpg" alt="opens in a new window"></a></div></div></li>
                             
-                         <li><div class="clearfloat"><div class="floatLeft"><a href="/dunkindonuts/en/help.html">Customer Service</a></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Customer Service" href="/dunkindonuts/en/help.html">Customer Service
+                         </a></div></div></li>
                             
                                 
                            
@@ -1895,15 +2031,20 @@ function getUrlParams() {
                  <div id="footerlistMenu">
                  <ul>
                 
-                         <li><div class="clearfloat"><div class="floatLeft"><a href="/dunkindonuts/en/company/global.html">Global Presence</a></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Global Presence" href="/dunkindonuts/en/company/global.html">Global Presence
+                         </a></div></div></li>
                             
-                         <li><div class="clearfloat"><div class="floatLeft"><a target="_blank" href="http://news.dunkindonuts.com/">Press Room</a></div><div class="new_window_link"></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Press Room" target="_blank" href="http://news.dunkindonuts.com/">Press Room
+                         <img src="/etc/designs/dunkindonuts/clientlib/images/btn_ic_newwindow_right.jpg" alt="opens in a new window"></a></div></div></li>
                             
-                         <li><div class="clearfloat"><div class="floatLeft"><a href="/dunkindonuts/en/promotions.html">Contests &amp; Promos</a></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Contests &amp; Promos" href="/dunkindonuts/en/promotions.html">Contests &amp; Promos
+                         </a></div></div></li>
                             
-                         <li><div class="clearfloat"><div class="floatLeft"><a target="_blank" href="http://www.dunkinbrands.com/responsibility">Responsibility</a></div><div class="new_window_link"></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Responsibility" target="_blank" href="http://www.dunkinbrands.com/responsibility">Responsibility
+                         <img src="/etc/designs/dunkindonuts/clientlib/images/btn_ic_newwindow_right.jpg" alt="opens in a new window"></a></div></div></li>
                             
-                         <li><div class="clearfloat"><div class="floatLeft"><a target="_blank" href="http://www.dunkinbrands.com/foundation">Foundation</a></div><div class="new_window_link"></div></div></li>
+                         <li><div class="clearfloat"><div class="floatLeft"><a alt="Foundation" target="_blank" href="http://www.dunkinbrands.com/foundation">Foundation
+                         <img src="/etc/designs/dunkindonuts/clientlib/images/btn_ic_newwindow_right.jpg" alt="opens in a new window"></a></div></div></li>
                             
                                 
                            
@@ -1928,11 +2069,11 @@ function getUrlParams() {
     <div class="arod_logo">
     
          
-            <img src="/etc/designs/dunkindonuts/images/arod_logo.jpg">
+            <img alt="America runs on dunkin" src="/etc/designs/dunkindonuts/images/arod_logo.jpg">
                  
         
     </div>
-    <span id="copyrightText" class="legal">© 2011. DD IP Holder LLC. All rights reserved. &nbsp;&nbsp;<a href="/dunkindonuts/en/help/terms.html">Terms of Use</a>|<a href="/dunkindonuts/en/help/privacypolicy.html">Privacy Policy</a>|<a href="/dunkindonuts/en/help/privacypolicy.html#cookiespolicy">Your Ad Choices</a>|<a href="/dunkindonuts/en/help/terms.html#californiasupply">CA Transparency in Supply Chains Act</a></span>
+    <span id="copyrightText" class="legal">© 2016. DD IP Holder LLC. &nbsp;&nbsp;<a alt="Terms of Use" href="/dunkindonuts/en/help/terms.html">Terms of Use</a>|<a alt="Privacy Policy" href="/dunkindonuts/en/help/privacypolicy.html">Privacy Policy</a>|<a alt="Your Ad Choices" href="/dunkindonuts/en/help/privacypolicy.html#cookiespolicy">Your Ad Choices</a>|<a alt="CA Transparency in Supply Chains Act" href="/dunkindonuts/en/help/terms.html#californiasupply">CA Transparency in Supply Chains Act</a></span>
 </div>
     <div id="partners_header">Dunkin' Donuts is the proud partner of</div>
     
@@ -1941,8 +2082,88 @@ function getUrlParams() {
         <div class="partnersLogosPar parsys iparsys"><div class="iparys_inherited"><div class="partnersLogosPar parsys iparsys"><div class="parbase teaser section">
 
 
-           <script type="text/javascript">{initializeTeaserLoader([{"path":"/content/campaigns/dunkindonuts/footer/dallas","name":"dallas","campainName":"footer","id":"footer_dallas","segments":["/etc/segmentation/dunkindonuts/Footer/dallas"],"tags":[]},{"path":"/content/campaigns/dunkindonuts/footer/boston","name":"boston","campainName":"footer","id":"footer_boston","segments":["/etc/segmentation/dunkindonuts/Footer/boston"],"tags":[]},{"path":"/content/campaigns/dunkindonuts/footer/new_york","name":"new_york","campainName":"footer","id":"footer_new_york","segments":["/etc/segmentation/dunkindonuts/Footer/new_york"],"tags":[]},{"path":"/content/campaigns/dunkindonuts/footer/national","name":"national","campainName":"footer","id":"footer_national","segments":[],"tags":[]}], "first", "_content_dunkindonuts_en_jcr_content_partnersLogosPar_teaser", "false", "http://www.dunkindonuts.com/libs/wcm/stats/tracker.js");
-        }</script><div id="_content_dunkindonuts_en_jcr_content_partnersLogosPar_teaser" class="campaign campaign-footer"></div></div>
+           <script type="text/javascript">{initializeTeaserLoader([{"path":"/content/campaigns/dunkindonuts/footer/dallas","name":"dallas","campainName":"footer","id":"footer_dallas","segments":["/etc/segmentation/dunkindonuts/Footer/dallas"],"tags":[]},{"path":"/content/campaigns/dunkindonuts/footer/boston","name":"boston","campainName":"footer","id":"footer_boston","segments":["/etc/segmentation/dunkindonuts/Footer/boston"],"tags":[]},{"path":"/content/campaigns/dunkindonuts/footer/new_york","name":"new_york","campainName":"footer","id":"footer_new_york","segments":["/etc/segmentation/dunkindonuts/Footer/new_york"],"tags":[]},{"path":"/content/campaigns/dunkindonuts/footer/national","name":"national","campainName":"footer","id":"footer_national","segments":[],"tags":[]}], "first", "_content_dunkindonuts_en_jcr_content_partnersLogosPar_teaser", "false", "https://www.dunkindonuts.com/libs/wcm/stats/tracker.js");
+        }</script><div id="_content_dunkindonuts_en_jcr_content_partnersLogosPar_teaser" class="campaign campaign-footer"><noscript><div class="par parsys"><div class="parbase partnersLogo image section">
+
+
+
+
+
+ 
+  
+
+                
+
+
+<a href="http://www.jetblue.com/" target="_blank"><img title="Jet Blue" alt="Jet Blue" class="cq-dd-image" src="/content/campaigns/dunkindonuts/footer/national/_jcr_content/par/partnerslogo_1.img.jpg/dunkindonuts"></a>
+<script type="text/javascript"> 
+$(document).ready (function() {
+    var width = 0;
+    var logos = document.getElementById("parnters_logos");
+    var imgs = logos.getElementsByTagName("img");
+    for (i=0; i<imgs.length; i++){
+        width = width + imgs[i].offsetWidth + 10;
+    }
+    if(imgs.length>=1){        
+        imgs[0].style.marginLeft = 88+ "px";
+    }
+});
+</script></div>
+<div class="parbase partnersLogo image section">
+
+
+
+
+
+ 
+  
+
+                
+
+
+<a href="http://www.baskinrobbins.com" target="_blank"><img title="Baskin Robbins logo" alt="Baskin Robbins logo" class="cq-dd-image" src="/content/campaigns/dunkindonuts/footer/national/_jcr_content/par/partnerslogo_0.img.jpg/dunkindonuts"></a>
+<script type="text/javascript"> 
+$(document).ready (function() {
+    var width = 0;
+    var logos = document.getElementById("parnters_logos");
+    var imgs = logos.getElementsByTagName("img");
+    for (i=0; i<imgs.length; i++){
+        width = width + imgs[i].offsetWidth + 10;
+    }
+    if(imgs.length>=1){        
+        imgs[0].style.marginLeft = 88+ "px";
+    }
+});
+</script></div>
+<div class="parbase partnersLogo image section">
+
+
+
+
+
+ 
+  
+
+                
+
+
+<a href="http://liverpoolfc.com/" target="_blank"><img title="Liverpool logo" alt="Liverpool logo" class="cq-dd-image" src="/content/campaigns/dunkindonuts/footer/national/_jcr_content/par/partnerslogo_2.img.png/dunkindonuts"></a>
+<script type="text/javascript"> 
+$(document).ready (function() {
+    var width = 0;
+    var logos = document.getElementById("parnters_logos");
+    var imgs = logos.getElementsByTagName("img");
+    for (i=0; i<imgs.length; i++){
+        width = width + imgs[i].offsetWidth + 10;
+    }
+    if(imgs.length>=1){        
+        imgs[0].style.marginLeft = 88+ "px";
+    }
+});
+</script></div>
+
+</div>
+</noscript></div></div>
 </div>
 </div>
 </div>
@@ -1969,7 +2190,7 @@ $(window).load(function () {
 </script>
     </div>
     
-<div id="scTagOutput" style="display:none;"><a style="position:fixed;bottom:0;left:0;width:6px;height:6px;display:block;background:#FF6200;" id="scdebuglnk" href="javascript:scShowTagDebugList();"></a><ul id="scDebugList" style="display:none;"><li>SiteCatylist tag not found in xml.</li><li><a name="sculanchor"></a>pathname: /web/20150504131909id_/http%3A//www.dunkindonuts.com/content/dunkindonuts/en/help/privacypolicy.html</li></ul></div>
+<div id="scTagOutput" style="display:none;"><a style="position:fixed;bottom:0;left:0;width:6px;height:6px;display:block;background:#FF6200;" id="scdebuglnk" href="javascript:scShowTagDebugList();"></a><ul id="scDebugList" style="display:none;"><li>SiteCatylist tag not found in xml.</li><li><a name="sculanchor"></a>pathname: /web/20161129113051id_/https%3A//www.dunkindonuts.com/dunkindonuts/en/help/privacypolicy.html</li></ul></div>
 
 <!-- SiteCatalyst code version: H.22.1.
 Copyright 1996-2010 Adobe, Inc. All Rights Reserved
@@ -1978,7 +2199,7 @@ More info available at http://www.omniture.com -->
 
  
 <script type="text/javascript">
-    ddScServer = "164.109.96.224";
+    ddScServer = "10.70.15.170";
     ddScLoggedIn = "false";
     ddScUserId = "";
 </script> 
