@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the odu.edu privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530162123id_/http%3A//www.odu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odu.edu privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130060447id_/http%3A//www.odu.edu/privacy) for the most accurate reproduction.*
 
 # Internet Privacy Statement - Old Dominion University
-
-  * [ODU Home](https://web.archive.org/)
-  * Internet Privacy Statement
-
-
 
 We reserve the right to amend our Internet Privacy Policy and Internet Privacy Policy Statement at any time without notice.
 
