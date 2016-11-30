@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the magisto.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315001653id_/https%3A//www.magisto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magisto.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130141535id_/https%3A//www.magisto.com/privacy) for the most accurate reproduction.*
 
 # Magisto | Privacy
 
 Privacy Policy
 
-Last Updated December 2015 
+Last Updated April 2016 
 
 Magisto is committed to respecting the privacy rights and concerns of all users of its Services. As such, we have established and implemented this Privacy Policy to inform visitors to the Site and users of the Services how we use and protect the information we collect through the Services. By accessing the Site or using any of the Services, you consent to Magisto’s collection, use, storage, deletion and disclosure of information relating to you as set forth in this Privacy Policy. If not specifically defined herein, capitalized terms have the meaning given to them in the Magisto Terms of Service, which are available at http://www.magisto.com/tos 
 
@@ -63,7 +63,7 @@ Magisto has put into place security measures in an effort to protect personal in
 By registering you agree to receive promotional messages from Magisto. If at any time you wish to stop receiving promotional information from Magisto, you may opt out by:   
 
 
-  1. E-Mailing us at support@magisto.com
+  1. Contacting us on [www.magisto.com/support](https://web.archive.org/web/20161130141535id_/https%3A//www.magisto.com/support)
   2. Writing us at: Customer Service, 3 Hamazmera St., POB 2038, Ness-Ziona 74120, Israel
   3. Accessing your registration information and checking the box that allows you to opt out of receiving promotional emails.
 
@@ -76,6 +76,8 @@ Magisto appreciates the importance of safeguarding the privacy of your Personal 
 ### Cookies
 
 Cookies are small files that are stored on your computer. We use cookies to help optimize your use of the Site. For example, we use cookies to customize our home page for you and to better display pages according to your browser type. When you make a purchase cookies allow us to better maintain the status of your account. We do not use cookies to store any personal information about you. 
+
+As you browse the Magisto website or use the Magisto application, we or third parties may use cookies, web beacons and similar technologies to collect or receive information from the website, application or other Internet sites in order to understand what you are interested in. We or our display advertising partners may use such information in order to target advertising to you, whether on Magisto or on third party sites and applications. You may “opt-out” of having your information used to tailor ads to you in this way by (a) opting out of advertisement targeting by Facebook on [http://www.aboutads.info/choices](http://www.aboutads.info/choices/) and (b) opting out of Google's use of cookies by visiting Google's ad settings at <http://www.google.com/settings/ads>. 
 
 ### Do Not Track
 
@@ -95,7 +97,7 @@ Magisto members or users can link to other webs of third parties that provide us
 
 ### Control of Your Information
 
-You may update or delete your personal information or modify your account preferences for the Services by accessing the account interface provided through the Services. You may also e-mail us at support@magisto.com. Please note that if you disable your account, we will keep your contact information on file, and may retain other account information for a reasonable period of time afterward for the purpose of internal account management and fraud prevention activities. 
+You may update or delete your personal information or modify your account preferences for the Services by accessing the account interface provided through the Services. You may also contact us on [www.magisto.com/support](https://web.archive.org/support). Please note that if you disable your account, we will keep your contact information on file, and may retain other account information for a reasonable period of time afterward for the purpose of internal account management and fraud prevention activities. 
 
 ### Security Measures
 
@@ -122,7 +124,7 @@ You and Magisto acknowledge that these Terms are entered into between you and Ma
 If you have any questions or concerns about this privacy statement or would like to contact us for any reason, you can do the following:   
 
 
-  1. 1\. E-Mailing us at support@magisto.com or 
+  1. 1\. Send us a message on [www.magisto.com/support](https://web.archive.org/support) or 
   2. 2\. Writing us at: Customer Service, 3 Hamazmera St., POB 2038, Ness-Ziona 74120, Israel 
 
 
