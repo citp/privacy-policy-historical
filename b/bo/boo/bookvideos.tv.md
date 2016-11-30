@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookvideos.tv privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326182825id_/http%3A//www.smartshoot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookvideos.tv privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130022103id_/http%3A//www.smartshoot.com/privacy-policy) for the most accurate reproduction.*
 
 # Start Photography & Video Production projects on SmartShoot
 
