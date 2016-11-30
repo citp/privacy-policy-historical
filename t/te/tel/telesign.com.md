@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the telesign.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606112805id_/https%3A//www.telesign.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telesign.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130172334id_/https%3A//www.telesign.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - TeleSign
 
-This notice was last updated on May 23, 2016.
+TeleSign’s Privacy Notice (telesign.com)
+
+This notice was last updated on May 17, 2016. 
 
 **Why has the Privacy Notice Changed?**
 
-The primary change reflected below is the removal of the reference to the Safe Harbor Framework which was invalidated by the Court of Justice of the European Union in October 2015.  As a result, European and U.S. regulators and diplomats have been working to develop a replacement to address European data protection requirements.  In February 2016, the EU and U.S. announced the “EU-U.S. Privacy Shield” as a proposed successor to the Safe Harbor Framework.  TeleSign will evaluate the EU-U.S. Privacy Shield program once it is finalized.   Until then we wanted all visitors to our website to clearly understand that by using our website and services, personal information may be sent to our facilities in the United States and elsewhere. Click [here to view the previous Privacy Notice](http://telesign.com/privacy-notice-old).
+The primary change reflected below is the removal of the reference to the Safe Harbor Framework which was invalidated by the Court of Justice of the European Union in October 2015.  As a result, European and U.S. regulators and diplomats have been working to develop a replacement to address European data protection requirements.  In February 2016, the EU and U.S. announced the “EU-U.S. Privacy Shield” as a proposed successor to the Safe Harbor Framework.  TeleSign will evaluate the EU-U.S. Privacy Shield program once it is finalized.   Until then we wanted all visitors to our website to clearly understand that by using our website and services, personal information may be sent to our facilities in the United States and elsewhere. Click [here to view the previous Privacy Notice](http://telesign.wpengine.com/privacy-notice-old).
 
-**Privacy Notice  Overview**  
+**Privacy Notice Overview**  
 TeleSign is committed to respecting and protecting your privacy and strives to keep your personal information secure. This policy covers the collection and use of information obtained through the websites on which this notice appears as well as the information we collect and process at the direction of our clients and through their use of our services. By helping you understand our Privacy Notice, we intend to open the way to better communications and service. If you have questions or complaints regarding our privacy notice or practices, please contact us via one of the methods provided below.
 
 **Personal Information Collected**  
@@ -53,8 +55,7 @@ When we collect your personal information, we may use it for:
 
 Your personal information is also used to provide you with information regarding your account and the products or services you purchase from TeleSign. Collecting your personal information enables us to better understand your needs and interests, improves our service, and personalizes communications.
 
-We will retain personal information collected through our websites and the information we process on behalf of our clients only for as long as needed to provide services described in this privacy policy.
-
+We will retain personal information collected through our websites and the information we process on behalf of our clients only for as long as needed to provide services described in this privacy policy.  
 **Cookies and Other Technologies**  
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use both session cookies and persistent cookies. A session cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. We use session cookies to make it easier for you to navigate our sites. We use persistent cookies to remember you, so you don’t have to log in every time you use our websites.  Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our sites.  You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. If you reject cookies, you may still use our sites, but your ability to use some areas of our sites, such as contests or surveys, will be limited.
 
