@@ -1,92 +1,49 @@
-> *The following text is extracted and transformed from the wacom.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617022824id_/http%3A//www.wacom.com/en-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wacom.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201005134id_/http%3A//www.wacom.com/en-ca/privacy) for the most accurate reproduction.*
 
-# Privacy | Wacom
+# Privacy
 
-**Wacom Technology Corporation, LLC**  
-1311 SE Cardinal Court  
-Vancouver, WA 98683  
-(360) 896-9833 
+Last Updated: 12 October 2015
 
-Wacom Technology Corporation (WTC) respects your individual privacy and is committed to adhering to the highest industry standards for the protection of your personal information. This policy is effective as of February 2007 and applies to all information collected through the World Wide Web and other channels.
+This Privacy Policy explains how information about you is collected, used and shared by Wacom Technology Corporation ("Wacom," "we," or "us"). This Privacy Policy applies to information we collect when you use our website and online products and services (collectively, the "Services") or when you otherwise interact with us. 
 
-  * What personally identifiable information is collected by WTC or by any third party through our site;
-  * How WTC uses this information;
-  * With whom WTC may share this information;
-  * What choices are available to you as a user of the site with respect to collection, use and distribution of the information;
-  * What types of security procedures are in place to protect the loss, misuse or alteration of information under our control; and
-  * How you can correct any inaccuracies in the information.
+  * **1\. Information Collection and Use**  
+We collect information from our users at several different points on our Services. 
+    * **Information that Is Automatically Collected when You Use the Services**  
+We automatically collect anonymous, aggregate information when you access or use our Services. We store information that we collect through log files to create a profile of our users. Log files record internet protocol (IP) addresses, browser types, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track a customer's movement in the aggregate, and gather broad demographic information for aggregate use. A profile stores information detailing how individual customers use our Services. This information is used to (a) provide, maintain and improve our Services; (b) monitor and analyze website trends, administer the website, track users' movements, and gather broad demographic information for aggregate use; (c) link or combine with information we get from others to help understand your needs and provide you with better service; and (d) carry out any other purpose for which the information was collected. 
+    * **Information that Is Collected by Cookies**  
+A cookie is a piece of data stored on a user's hard drive containing information about that user. Cookies enable us to track and target the interests of our users to enhance the experience on our Services, and provide advertisements, content or features that match user profiles or interests. For more information about how Wacom uses Cookies and your choices regarding Cookies, please see our Cookie policy here. 
+    * **Information You Submit to Wacom**  
+We collect information you provide to us. For example, we collect information when you create an account, participate in any interactive features of the Services, make a purchase, apply for a job, communicate with us via third party social media sites, register products you purchase from us, request customer support or otherwise communicate with us. The types of information we may collect include your name, address, phone number, email address, gender, ethnicity, veteran status, disability status, information regarding product you purchased, purchase transaction and any other information you choose to provide. We may use information you submit for various purposes, including to: (a) communicate with you by sending you technical notices, updates, security alerts and support and administrative messages; (b) respond to your comments, questions and requests and provide customer service; (c) fulfill and deliver your products and services orders, process transactions and send you related information; and (d) carry out any other purpose for which the information was collected. We use a third party payment processor to process purchase transactions. We do not collect or store financial information, such as credit card number or other payment methods. 
+    * **Information We Collect from Other Sources**  
+We may also obtain information from other sources and combine that with information we collect through our Services. For example, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site.
+    * **Tell-A-Friend**  
+If a user elects to use our referral service for informing a friend about our website, we ask them for the friend's name and email address. We will automatically send the friend an email inviting him/her to visit the website. We store this information for the purpose of sending this one-time email. The friend may contact us to request the removal of this information from this database. 
+    * **Promotions and News**  
+We may use information about you to communicate with you about products, services, offers, promotions, and events offered by Wacom and others, and provide news and information we think will be of interest to you. You may opt out of receiving promotional emails from us by following the instructions in those emails or by deactivating it within your My account/Manage profile/Manage preferences. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
+    * **Advertising and Analytics Services Provided by Others**  
+We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](https://web.archive.org/web/20161201005134id_/http%3A//www.wacom.com/en-ca/www.aboutads.info/choices). 
+Wacom is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries. 
+  * **2\. Information Sharing**  
 
-
-
-  1. **Information Collection and Use**
-
-WTC collects information from our users at several different points on its website. First, we collect anonymous, aggregate information (such as domain name or IP address) from all visitors to the site. This type of information is never linked to any personally identifiable information and is only used in the aggregate to generate statistical reports about the use of our site. For purposes of this Privacy Statement, "Personally Identifiable Information" refers to information that can directly identify an individual; for example, such information may include an individual's name, mailing address, phone number or email address.
-
-    1. **Information that Is Automatically Collected**
-
-We use IP address information that is not directly linked to Personally Identifiable Information. This information is used to analyze website trends, administer the website, track users' movements, and gather broad demographic information for aggregate use.
-
-    2. **Information that Is Collected by Cookies**
-
-A cookie is a piece of data stored on a user's hard drive containing information about that user. Cookies enable us to track and target the interests of our users to enhance the experience on our website.
-
-    3. **Information that Is Actively Submitted to Wacom**
-
-Throughout the site, users are prompted for contact information (such as name and email address) so that we can communicate with our users. This information is also used to fulfill order and registration requests. To pay for an order, a user must provide contact information (such as name and shipping address) and financial information (such as a credit card number and its expiration date). This information is used for billing purposes, with the help of our business partner, and to fill users' orders. If we have trouble processing an order, this contact information is used to get in touch with the user. Financial information is not retained longer than necessary to complete the transaction.
-
-    4. **Tell-A-Friend**
-
-If a user elects to use our referral service for informing a friend about our website, we ask them for the friend's name and email address. We will automatically send the friend an email inviting him/her to visit the website. We store this information for the purpose of sending this one-time email. The friend may contact us to request the removal of this information from this database.
-
-  2. **Personal Information of Children Under 13**
-
-WTC complies with the requirements of the Childrens Online Privacy Protection Act (COPPA) and the FTC's Rule interpreting COPPA (16 CFR § 512). This site is not directed to children and we do not knowingly collect any personally identifiable information from children under 13 years of age through this site.
-
-  3. **Use of Your Personal Information**
-
-WTC does not sell, rent, or share customer information to or with any third party not affiliated with or owned by WTC, except service providers who may assist WTC in such areas as data storage and order processing. WTC will never give or sell your personal information to be used for the purposes of sending you unsolicited commercial offers (such as spam) from any third party. We may need to contact you for purposes other than marketing, as for example regarding the status of the WTC site or your account (you may not opt-out of these kinds of communications).
-
-  4. **Use of Aggregate Information**
-
-We store information that we collect through log files to create a profile of our users. Log files record internet protocol (IP) addresses, browser types, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track a customer's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. A profile is stored information detailing how individual customers use the site. It is used solely for internal purposes, to help us improve the experience of our customers. We do not share your profile with any third parties.
-
-  5. **Disclosure of Personal Information As Required By Law**
-
-We will disclose personal information when required by law, or if we have a good-faith belief that such action is necessary to 
-
-(a) comply with a current judicial proceeding, a court order or legal process served on us, 
-
-(b) protect and defend our rights, 
-
-(c) protect the rights, property, and other interests of our users or others.
-
-  6. **Business Transitions**
-
-In the event WTC goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, and our customers' personal information may be part of the assets transferred, customers will be notified via prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If, as a result of the business transition, your personally identifiable information will be used in a manner materially different from that stated at the time of collection, you will be notified consistent with our Notification of Changes section.
-
-  7. **Links**
-
-This Web site contains links to other sites. WTC is not responsible for the privacy practices or content of these other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by WTC.
-
-  8. **Security**
-
-WTC takes commercially reasonable precautions to protect your information, including your PHI. For example, we encrypt sensitive communications through our site with 128-bit encryption, the industry standard for strong encryption. However, given the nature of the Internet and the fact that network security measures are not infallible, we cannot guarantee the security of your information.
-
-When registering for access to a secure area of the site, we will ask you to select a username and password. We recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also, remember to sign out of the registered site and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence when accessing your computer.
-
-If you have any questions about the security at our site, you can send a message to the webmaster at [webmaster@wacom.com](mailto:webmaster@wacom.com).
-
-  9. **Correcting, Updating, Deleting and Deactivating Personal Information**
-
-If your personally identifiable information changes, you may contact us to correct, update, delete or deactivate our record of your personally identifiable information.
-
-  10. **Notification of Changes**
-
-If we decide to change our privacy policy, we will prominently post a notice on the main page and other pages to alert you about the change.
-
-If the privacy policy changes materially so that we are going to use your personally identifiable information in a manner different from that stated at the time of collection, we will notify you via e- mail, if we have an e-mail address on file for you, and give you a choice as to whether or not we may use your information in this different manner. However, if you deleted and deactivated your account, then you will not be contacted and your personal information will not be used in this new manner. In addition, if we make any material changes in our privacy practices that affect customer information already stored in our database, we will post a prominent notice on our Web site notifying customers of the change. In some cases where we post a notice we will also email customers, who have opted to receive communications from us, notifying them of the changes in our privacy practices. -
+    * **Sharing of Your Personal Information**  
+Wacom does not sell, rent, or share customer information to or with any third party not affiliated with or owned by Wacom, except service providers, vendors and consultants who need access to such information to carry out work on our behalf. For instance, we may share information about you with other companies that use this information to help us and other companies prevent fraudulent transactions. We will never give or sell your personal information to be used for the purposes of sending you unsolicited commercial offers (such as spam) from any third party, without your consent.
+    * **Sharing of Your Personal Information As Required By Law**  
+We will disclose personal information when required by law, or if we have a good-faith belief that such action is necessary to: 
+      * comply with a current judicial proceeding, a court order or legal process served on us, or as otherwise required by any applicable law, rule or regulation;
+      * protect and defend our rights, including but not limited to our user agreements or policies; or
+      * protect the rights, property, safety and other interests of our users or others.
+      * Sharing of your Personal Information During Business Transitions
+  
+We may share information about you in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company.
+  * **3\. Links**  
+This Web site contains links to other sites. Wacom is not responsible for the privacy practices or content of these other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Wacom.
+  * **4\. Security**  
+Wacom takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and disclosure. When registering for access to a secure area of the site, we will ask you to select a username and password. We recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also, remember to sign out of the registered site and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence when accessing your computer. If you have any questions about the security at our site, you can send a message to the webmaster at [webmaster@wacom.com](mailto:webmaster@wacom.com).
+  * **5\. Correcting, Updating, Deleting and Deactivating Personal Information**  
+If your personally identifiable information changes, you may contact us at [insert email address] to correct, update, delete or deactivate our record of your personally identifiable information, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
+  * **6\. Changes and Notice of Changes**  
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.
+  * **7\. Contact Us**  
+If you have any questions about this Privacy Policy, please contact us at: [webmaster@wacom.com](mailto:webmaster@wacom.com).
 
 
-
-
-This site uses cookies. By continuing to browse the site you are consenting to their use.
