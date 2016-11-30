@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letssingit.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402134227id_/http%3A//www.letssingit.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letssingit.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130212212id_/http%3A//www.letssingit.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,9 +16,29 @@ LetsSingIt does not sell, rent, or trade your personal information with any thir
 
 ## Cookies
 
-Cookies are small text files that are used by many sites to store or transfer information between the main site and the computer you use to access the site. These cookies are stored in a special folder in your temporary internet files directory. LetsSingIt uses cookies in parts of the website. 
+Cookies are small text files that are used by almost any website to store or transfer information between a website and the browser you use to access the website. These cookies are stored in a special folder in the temporary internet files directory of your browser. LetsSingIt also uses cookies: 
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. You can opt-out of third-party cookies at [networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). 
+1\. Service cookies
+
+These cookies are essential to make the website work properly. For example, information about your location and device is saved into a cookie and is used to present the site optimized for your location and device. 
+
+2\. Analytics cookies
+
+These cookies are used to monitor visitor behaviour on our website to help us improve our information and services. This collected information is combined with data from thousands of other users to create an overall picture of website use, This information is never identified individually or personally and is not linked to any other information we store about you. 
+
+3\. Social media cookies
+
+LetsSingIt gives you the option to share content on social media sites Facebook, Google+ and Twitter. These sites make use of cookies, for example to verify if you're logged in to their site. 
+
+4\. Advertising cookies
+
+LetsSingIt will show you advertisements which are placed by ad networks. An ad network is an organization charged with the representation of advertising space for the purpose of maximizing revenue and minimizing administrative costs through aggregation. Ad networks make use of cookies for tracking purposes and personalizing the advertisements they place. For example; cookies are used to track which advertisements you've already seen to avoid that you will always see the same advertisements. 
+
+Controlling cookies with your browser
+
+Your browser gives you the ability to manage cookies to suit you. In your browser you can set up rules to manage cookies on a site-by-site basis, giving you more fine-grained control over your privacy. What this means is that you can disallow cookies from all sites except those that you trust. Your browser has also an option to clear your browsing data that includes the option to delete cookies and other site and plug-in data, including data stored on your device by the Adobe Flash Player (commonly known as Flash cookies).
+
+Some browsers offer an incognito browse mode. Use this mode when you don't want your website visits or downloads to be recorded in your browsing and download histories. Any cookies created while in incognito mode are deleted after you close all incognito windows. 
 
 ## Advertisers
 
