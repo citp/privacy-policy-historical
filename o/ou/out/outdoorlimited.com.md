@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outdoorlimited.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404043512id_/https%3A//www.outdoorlimited.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorlimited.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130073040id_/http%3A//www.outdoorlimited.com/terms_privacy.asp%23content) for the most accurate reproduction.*
 
-# Terms: Privacy
+# Outdoor Limited Your Ammo Super Store | Terms & Privacy
 
 **Privacy Policy**
 
@@ -67,7 +67,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20160404043512id_/https%3A//www.outdoorlimited.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20161130073040id_/http%3A//www.outdoorlimited.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
