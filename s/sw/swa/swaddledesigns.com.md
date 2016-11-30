@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swaddledesigns.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514112409id_/http%3A//www.swaddledesigns.com/company-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swaddledesigns.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130204751id_/http%3A//www.swaddledesigns.com/company-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,7 +78,7 @@ To update us with your preferences, you may contact us using one of the followin
 
   * Call 1-855-792-3353, or
   * E-mail privacy@SwaddleDesigns.com, or
-  * Send your request to SwaddleDesigns, 480 Andover Park East, Seattle, WA 98188
+  * Send your request to SwaddleDesigns, 500 Andover Park East, Seattle, WA 98188
 
 
 
