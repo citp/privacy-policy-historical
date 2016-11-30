@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baslerweb.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530134540id_/http%3A//www.baslerweb.com/en/disclaimer-of-liability-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baslerweb.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130200027id_/http%3A//www.baslerweb.com/en/disclaimer-of-liability-privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Basler
 
