@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the aescripts.com privacy policy that was archived on 2016-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160612201256id_/http%3A//aescripts.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aescripts.com privacy policy that was archived on 2016-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161130220544id_/http%3A//aescripts.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-952.min.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQUDU1JbARABXFNaBwMCXg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),s.on(m,function(){this.bstStart=Date.now()}),s.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(17)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;d>r;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||10>p)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;d>a;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(15),a=t(16);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[w[n]];return u&&u.push([v,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",w[n]=e,e in f||(f[e]=[])})}var m={},w={},v={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return v}function i(){return new r}var a="nr@context",s=t("gos"),c=t(15),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!g++){var t=y.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(w,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(15),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var m=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-952.min.js"},v=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:m,features:{},xhrWrappable:v};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),s("mark",["firstbyte",a()],null,"api");var g=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQUDU1JbARABXFNaBwMCXg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
 <title>Privacy Policy / Terms of Use - aescripts + aeplugins - aescripts.com</title>
 <meta name="description" content="&nbsp;">
 
@@ -13,37 +13,39 @@
 <link rel="icon" href="http://aescripts.com/skin/frontend/default/pluginsio/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://aescripts.com/skin/frontend/default/pluginsio/favicon.ico" type="image/x-icon">
 <link rel="image_src" type="image/jpeg" href="http://www.domain.com/path/icon-facebook.gif">
-<link rel="stylesheet" type="text/css" href="http://aescripts.com/js/solrsearch/autocomplete.css">
-<link rel="stylesheet" type="text/css" href="http://aescripts.com/skin/frontend/default/pluginsio/css/styles.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://aescripts.com/skin/frontend/default/pluginsio/aw_blog/css/style.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://aescripts.com/skin/frontend/default/default/iceberg/videogallery/css/videogallery.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://aescripts.com/skin/frontend/default/pluginsio/css/magestore/giftvoucher.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://aescripts.com/skin/frontend/default/default/css/downloadplus.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://aescripts.com/skin/frontend/default/default/solrsearch/css/style.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://aescripts.com/skin/frontend/default/pluginsio/css/print.css" media="print">
-<script type="text/javascript" src="http://aescripts.com/js/prototype/prototype.js" rel="main"></script>
-<script type="text/javascript" src="http://aescripts.com/js/lib/ccard.js" rel="main"></script>
-<script type="text/javascript" src="http://aescripts.com/js/prototype/validation.js" rel="main"></script>
-<script type="text/javascript" src="http://aescripts.com/js/scriptaculous/builder.js" rel="main"></script>
-<script type="text/javascript" src="http://aescripts.com/js/scriptaculous/effects.js" rel="main"></script>
-<script type="text/javascript" src="http://aescripts.com/js/scriptaculous/controls.js" rel="main"></script>
-<script type="text/javascript" src="http://aescripts.com/js/varien/js.js" rel="main"></script>
-<script type="text/javascript" src="http://aescripts.com/js/varien/form.js" rel="main"></script>
-<script type="text/javascript" src="http://aescripts.com/js/mage/translate.js" rel="main"></script>
-<script type="text/javascript" src="http://aescripts.com/js/mage/cookies.js" rel="main"></script>
-<script type="text/javascript" src="http://aescripts.com/js/iceberg/lightbox/lightbox.js" rel="main"></script>
-<script type="text/javascript" src="http://aescripts.com/skin/frontend/default/pluginsio/js/pluginsio.js" rel="main"></script>
-<script type="text/javascript" src="http://aescripts.com/js/solrsearch/autocomplete.js"></script>
-<script type="text/javascript" src="http://aescripts.com/skin/frontend/default/pluginsio/js/magestore/giftvoucher.js"></script>
-<script type="text/javascript" src="http://aescripts.com/skin/frontend/default/pluginsio/js/ajaxsearch.js"></script>
-<script type="text/javascript" src="http://aescripts.com/skin/frontend/base/default/magemonkey/monkey.js"></script>
+<link rel="stylesheet" type="text/css" href="http://aescripts.com/js/solrsearch/autocomplete.css?v=1">
+<link rel="stylesheet" type="text/css" href="http://aescripts.com/skin/frontend/default/pluginsio/css/styles.css?v=1" media="all">
+<link rel="stylesheet" type="text/css" href="http://aescripts.com/skin/frontend/default/pluginsio/aw_blog/css/style.css?v=1" media="all">
+<link rel="stylesheet" type="text/css" href="http://aescripts.com/skin/frontend/default/default/iceberg/videogallery/css/videogallery.css?v=1" media="all">
+<link rel="stylesheet" type="text/css" href="http://aescripts.com/skin/frontend/default/pluginsio/css/magestore/giftvoucher.css?v=1" media="all">
+<link rel="stylesheet" type="text/css" href="http://aescripts.com/skin/frontend/default/default/css/downloadplus.css?v=1" media="all">
+<link rel="stylesheet" type="text/css" href="http://aescripts.com/skin/frontend/default/default/solrsearch/css/style.css?v=1" media="all">
+<link rel="stylesheet" type="text/css" href="http://aescripts.com/skin/frontend/default/pluginsio/css/print.css?v=1" media="print">
+<script type="text/javascript" src="http://aescripts.com/js/prototype/prototype.js?v=1" rel="main"></script>
+<script type="text/javascript" src="http://aescripts.com/js/lib/ccard.js?v=1" rel="main"></script>
+<script type="text/javascript" src="http://aescripts.com/js/prototype/validation.js?v=1" rel="main"></script>
+<script type="text/javascript" src="http://aescripts.com/js/scriptaculous/builder.js?v=1" rel="main"></script>
+<script type="text/javascript" src="http://aescripts.com/js/scriptaculous/effects.js?v=1" rel="main"></script>
+<script type="text/javascript" src="http://aescripts.com/js/scriptaculous/controls.js?v=1" rel="main"></script>
+<script type="text/javascript" src="http://aescripts.com/js/varien/js.js?v=1" rel="main"></script>
+<script type="text/javascript" src="http://aescripts.com/js/varien/form.js?v=1" rel="main"></script>
+<script type="text/javascript" src="http://aescripts.com/js/mage/translate.js?v=1" rel="main"></script>
+<script type="text/javascript" src="http://aescripts.com/js/mage/cookies.js?v=1" rel="main"></script>
+<script type="text/javascript" src="http://aescripts.com/js/iceberg/lightbox/lightbox.js?v=1" rel="main"></script>
+<script type="text/javascript" src="http://aescripts.com/skin/frontend/default/pluginsio/js/pluginsio.js?v=1" rel="main"></script>
+<script type="text/javascript" src="http://aescripts.com/js/jquery/jquery-1.11.1.min.js?v=1"></script>
+<script type="text/javascript" src="http://aescripts.com/js/jquery/no-conflict.js?v=1"></script>
+<script type="text/javascript" src="http://aescripts.com/js/solrsearch/autocomplete.js?v=1"></script>
+<script type="text/javascript" src="http://aescripts.com/skin/frontend/default/pluginsio/js/magestore/giftvoucher.js?v=1"></script>
+<script type="text/javascript" src="http://aescripts.com/skin/frontend/default/pluginsio/js/ajaxsearch.js?v=1"></script>
+<script type="text/javascript" src="http://aescripts.com/skin/frontend/base/default/magemonkey/monkey.js?v=1"></script>
 <link href="http://aescripts.com/rss/catalog/new/store_id/1/" title="New Products" rel="alternate" type="application/rss+xml">
 <link href="http://aescripts.com/learn/rss/index/store_id/1/" title="Learn" rel="alternate" type="application/rss+xml">
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://aescripts.com/skin/frontend/default/pluginsio/css/styles-ie.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://aescripts.com/skin/frontend/default/pluginsio/css/styles-ie.css?v=1" media="all" />
 <![endif]-->
 <!--[if lt IE 9]>
-<script type="text/javascript" src="http://aescripts.com/skin/frontend/default/pluginsio/js/html5shiv.js"></script>
+<script type="text/javascript" src="http://aescripts.com/skin/frontend/default/pluginsio/js/html5shiv.js?v=1"></script>
 <![endif]-->
 
 <script type="text/javascript">
@@ -84,7 +86,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
         })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-        ga('create', 'UA-852966-9', 'auto');  // Replace with your property ID.
+        ga('create', 'UA-852966-9', 'auto');
         ga('send', 'pageview');
                 ga('require', 'ecommerce');   // Load the ecommerce plug-in.
                 //]]>
@@ -117,16 +119,16 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 		
 				<ul id="latest">
 			<span>Latest </span>
-										<li><a href="http://aescripts.com/easy-bake/">Easy Bake</a></li>			
-							<li><a href="http://aescripts.com/learn/what-is-genetic-modification/">What is genetic modification?</a></li>			
-							<li><a href="http://aescripts.com/flash-buffer-pro/">Flash Buffer Pro</a></li>			
-							<li><a href="http://aescripts.com/learn/burnin-coal-micro-video-art/">Burnin’ Coal / Micro Video Art</a></li>			
-							<li><a href="http://aescripts.com/squall/">Squall</a></li>			
-							<li><a href="http://aescripts.com/learn/courvoisier-cognac-360-vr-toast-of-paris/">Courvoisier Cognac 360/VR Toast of Paris</a></li>			
-							<li><a href="http://aescripts.com/layer-storage/">Layer Storage</a></li>			
-							<li><a href="http://aescripts.com/learn/watch-dogs-2-trailer-cinematic-reveal/">Watch Dogs 2 Trailers</a></li>			
-							<li><a href="http://aescripts.com/pq-fui-toys/">PQ FUI Toys 2</a></li>			
-							<li><a href="http://aescripts.com/learn/brothers-cleaners/">Brothers Cleaners</a></li>			
+										<li><a href="http://aescripts.com/wrinkled-foam-texture-pack-for-animation-composer/">Wrinkled Foam Texture Pack For Animation Composer</a></li>			
+							<li><a href="http://aescripts.com/learn/the-simulation-group-explainer/">The Simulation Group Explainer</a></li>			
+							<li><a href="http://aescripts.com/regular-wall-texture-pack-for-animation-composer/">Regular Wall Texture Pack For Animation Composer</a></li>			
+							<li><a href="http://aescripts.com/learn/polezsky---smiling-hunter/">Polezsky - Smiling Hunter</a></li>			
+							<li><a href="http://aescripts.com/smooth-stone-texture-pack-for-animation-composer/">Smooth Stone Texture Pack For Animation Composer</a></li>			
+							<li><a href="http://aescripts.com/learn/beats-are-not-at-peaks-tutorial/">Tutorial: Beats are not at peaks</a></li>			
+							<li><a href="http://aescripts.com/rough-stone-texture-pack-for-animation-composer/">Rough Stone Texture Pack For Animation Composer</a></li>			
+							<li><a href="http://aescripts.com/learn/percolate--system-of-record/">Percolate ‘System of Record’</a></li>			
+							<li><a href="http://aescripts.com/smooth-wood-texture-pack-for-animation-composer/">Smooth Wood Texture Pack For Animation Composer</a></li>			
+							<li><a href="http://aescripts.com/learn/monsters-of-the-deep-tutorial---360-video-from-2d-photoshop/">Monsters of the Deep Tutorial | 360 Video from 2D PhotoShop</a></li>			
 					</ul>
 				<ul id="sharing" class="sharing">
 			<li>
@@ -244,10 +246,17 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <a href="http://aescripts.com/after-effects/3d/bending-warping/">
 <span>Bending/Warping</span>
 </a>
-</li><li class="level2 nav-3-2-3">
+</li><li class="level2 nav-3-2-3 parent">
 <a href="http://aescripts.com/after-effects/3d/camera/">
 <span>Camera</span>
 </a>
+<ul class="level2">
+<li class="level3 nav-3-2-3-1 first last">
+<a href="http://aescripts.com/after-effects/3d/camera/3d-camera-solver/">
+<span>3D Camera Solver</span>
+</a>
+</li>
+</ul>
 </li><li class="level2 nav-3-2-4">
 <a href="http://aescripts.com/after-effects/3d/distribution/">
 <span>Distribution</span>
@@ -300,9 +309,13 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <a href="http://aescripts.com/after-effects/3d/stereo-3d/">
 <span>Stereo 3D</span>
 </a>
-</li><li class="level2 nav-3-2-17 last">
+</li><li class="level2 nav-3-2-17">
 <a href="http://aescripts.com/after-effects/3d/text/">
 <span>Text</span>
+</a>
+</li><li class="level2 nav-3-2-18 last">
+<a href="http://aescripts.com/after-effects/3d/tracking/">
+<span>Tracking</span>
 </a>
 </li>
 </ul>
@@ -311,55 +324,85 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <span>Animation</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-3-3-18 first">
+<li class="level2 nav-3-3-19 first parent">
 <a href="http://aescripts.com/after-effects/animation/assistant/">
 <span>Assistant</span>
 </a>
-</li><li class="level2 nav-3-3-19">
+<ul class="level2">
+<li class="level3 nav-3-3-19-2 first">
+<a href="http://aescripts.com/after-effects/animation/assistant/animation-composer/">
+<span>Animation Composer</span>
+</a>
+</li><li class="level3 nav-3-3-19-3">
+<a href="http://aescripts.com/after-effects/animation/assistant/monkey/">
+<span>Monkey</span>
+</a>
+</li><li class="level3 nav-3-3-19-4">
+<a href="http://aescripts.com/after-effects/animation/assistant/rigfast/">
+<span>RigFast</span>
+</a>
+</li><li class="level3 nav-3-3-19-5 last">
+<a href="http://aescripts.com/after-effects/animation/assistant/text/">
+<span>Text</span>
+</a>
+</li>
+</ul>
+</li><li class="level2 nav-3-3-20">
 <a href="http://aescripts.com/after-effects/animation/camera/">
 <span>Camera</span>
 </a>
-</li><li class="level2 nav-3-3-20">
+</li><li class="level2 nav-3-3-21">
 <a href="http://aescripts.com/after-effects/animation/cel-animation/">
 <span>Cel Animation</span>
 </a>
-</li><li class="level2 nav-3-3-21">
+</li><li class="level2 nav-3-3-22 parent">
 <a href="http://aescripts.com/after-effects/animation/character-animation/">
 <span>Character Animation</span>
 </a>
-</li><li class="level2 nav-3-3-22">
+<ul class="level2">
+<li class="level3 nav-3-3-22-6 first">
+<a href="http://aescripts.com/after-effects/animation/character-animation/head-rigging/">
+<span>Head Rigging</span>
+</a>
+</li><li class="level3 nav-3-3-22-7 last">
+<a href="http://aescripts.com/after-effects/animation/character-animation/lip-sync/">
+<span>Lip-Sync</span>
+</a>
+</li>
+</ul>
+</li><li class="level2 nav-3-3-23">
 <a href="http://aescripts.com/after-effects/animation/data/">
 <span>Data</span>
 </a>
-</li><li class="level2 nav-3-3-23">
+</li><li class="level2 nav-3-3-24">
 <a href="http://aescripts.com/after-effects/animation/masks/">
 <span>Masks</span>
 </a>
-</li><li class="level2 nav-3-3-24">
+</li><li class="level2 nav-3-3-25">
 <a href="http://aescripts.com/after-effects/animation/motion-graph/">
 <span>Motion Graph</span>
 </a>
-</li><li class="level2 nav-3-3-25">
+</li><li class="level2 nav-3-3-26">
 <a href="http://aescripts.com/after-effects/animation/paths/">
 <span>Paths</span>
 </a>
-</li><li class="level2 nav-3-3-26">
+</li><li class="level2 nav-3-3-27">
 <a href="http://aescripts.com/after-effects/animation/physics-simulation/">
 <span>Physics Simulation</span>
 </a>
-</li><li class="level2 nav-3-3-27">
+</li><li class="level2 nav-3-3-28">
 <a href="http://aescripts.com/after-effects/animation/procedural/">
 <span>Procedural</span>
 </a>
-</li><li class="level2 nav-3-3-28">
+</li><li class="level2 nav-3-3-29">
 <a href="http://aescripts.com/after-effects/animation/puppet-tool/">
 <span>Puppet Tool</span>
 </a>
-</li><li class="level2 nav-3-3-29">
+</li><li class="level2 nav-3-3-30">
 <a href="http://aescripts.com/after-effects/animation/sprite/">
 <span>Sprite</span>
 </a>
-</li><li class="level2 nav-3-3-30 last">
+</li><li class="level2 nav-3-3-31 last">
 <a href="http://aescripts.com/after-effects/animation/text/">
 <span>Text</span>
 </a>
@@ -370,17 +413,25 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <span>Animation Libraries</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-3-4-31 first">
+<li class="level2 nav-3-4-32 first">
 <a href="http://aescripts.com/after-effects/animation-libraries/animated-icons/">
 <span>Animated Icons</span>
 </a>
-</li><li class="level2 nav-3-4-32">
+</li><li class="level2 nav-3-4-33">
 <a href="http://aescripts.com/after-effects/animation-libraries/animated-typefaces/">
 <span>Animated Typefaces</span>
 </a>
-</li><li class="level2 nav-3-4-33 last">
+</li><li class="level2 nav-3-4-34">
+<a href="http://aescripts.com/after-effects/animation-libraries/animation-composer/">
+<span>Animation Composer</span>
+</a>
+</li><li class="level2 nav-3-4-35">
 <a href="http://aescripts.com/after-effects/animation-libraries/fui/">
 <span>Fantasy/Fake User Interface (FUI)</span>
+</a>
+</li><li class="level2 nav-3-4-36 last">
+<a href="http://aescripts.com/after-effects/animation-libraries/motion-curves/">
+<span>Motion Curves</span>
 </a>
 </li>
 </ul>
@@ -393,103 +444,114 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <span>Automation</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-3-6-34 first">
+<li class="level2 nav-3-6-37 first">
 <a href="http://aescripts.com/after-effects/automation/edit-scene-detection/">
 <span>Edit/Scene Detection</span>
 </a>
-</li><li class="level2 nav-3-6-35">
+</li><li class="level2 nav-3-6-38">
 <a href="http://aescripts.com/after-effects/automation/camera/">
 <span>Camera</span>
 </a>
-</li><li class="level2 nav-3-6-36">
+</li><li class="level2 nav-3-6-39">
 <a href="http://aescripts.com/after-effects/automation/color/">
 <span>Color</span>
 </a>
-</li><li class="level2 nav-3-6-37">
+</li><li class="level2 nav-3-6-40">
 <a href="http://aescripts.com/after-effects/automation/comps/">
 <span>Comps</span>
 </a>
-</li><li class="level2 nav-3-6-38">
+</li><li class="level2 nav-3-6-41">
 <a href="http://aescripts.com/after-effects/automation/data/">
 <span>Data</span>
 </a>
-</li><li class="level2 nav-3-6-39">
+</li><li class="level2 nav-3-6-42">
 <a href="http://aescripts.com/after-effects/automation/effects/">
 <span>Effects</span>
 </a>
-</li><li class="level2 nav-3-6-40">
+</li><li class="level2 nav-3-6-43">
 <a href="http://aescripts.com/after-effects/automation/expressions/">
 <span>Expressions</span>
 </a>
-</li><li class="level2 nav-3-6-41">
+</li><li class="level2 nav-3-6-44">
 <a href="http://aescripts.com/after-effects/automation/file-handling/">
 <span>File Handling</span>
 </a>
-</li><li class="level2 nav-3-6-42">
+</li><li class="level2 nav-3-6-45">
 <a href="http://aescripts.com/after-effects/automation/generate/">
 <span>Generate</span>
 </a>
-</li><li class="level2 nav-3-6-43">
+</li><li class="level2 nav-3-6-46">
 <a href="http://aescripts.com/after-effects/automation/import-replace/">
 <span>Import/Replace</span>
 </a>
-</li><li class="level2 nav-3-6-44">
+</li><li class="level2 nav-3-6-47">
 <a href="http://aescripts.com/after-effects/automation/keyframes/">
 <span>Keyframes</span>
 </a>
-</li><li class="level2 nav-3-6-45">
+</li><li class="level2 nav-3-6-48">
 <a href="http://aescripts.com/after-effects/automation/layers/">
 <span>Layers</span>
 </a>
-</li><li class="level2 nav-3-6-46">
+</li><li class="level2 nav-3-6-49">
 <a href="http://aescripts.com/after-effects/automation/masks-shape-layers/">
 <span>Masks/Shape Layers</span>
 </a>
-</li><li class="level2 nav-3-6-47">
+</li><li class="level2 nav-3-6-50">
 <a href="http://aescripts.com/after-effects/automation/markers/">
 <span>Markers</span>
 </a>
-</li><li class="level2 nav-3-6-48">
+</li><li class="level2 nav-3-6-51">
 <a href="http://aescripts.com/after-effects/automation/paint/">
 <span>Paint</span>
 </a>
-</li><li class="level2 nav-3-6-49">
+</li><li class="level2 nav-3-6-52">
 <a href="http://aescripts.com/after-effects/automation/parenting/">
 <span>Parenting</span>
 </a>
-</li><li class="level2 nav-3-6-50">
+</li><li class="level2 nav-3-6-53">
 <a href="http://aescripts.com/after-effects/automation/physics-simulation/">
 <span>Physics Simulation</span>
 </a>
-</li><li class="level2 nav-3-6-51">
+</li><li class="level2 nav-3-6-54">
 <a href="http://aescripts.com/after-effects/automation/presentation-tools/">
 <span>Presentation Tools</span>
 </a>
-</li><li class="level2 nav-3-6-52">
+</li><li class="level2 nav-3-6-55">
 <a href="http://aescripts.com/after-effects/automation/project-items/">
 <span>Project Items</span>
 </a>
-</li><li class="level2 nav-3-6-53">
+</li><li class="level2 nav-3-6-56">
 <a href="http://aescripts.com/after-effects/automation/proxies/">
 <span>Proxies</span>
 </a>
-</li><li class="level2 nav-3-6-54">
+</li><li class="level2 nav-3-6-57">
 <a href="http://aescripts.com/after-effects/automation/template/">
 <span>Template</span>
 </a>
-</li><li class="level2 nav-3-6-55">
+</li><li class="level2 nav-3-6-58">
 <a href="http://aescripts.com/after-effects/automation/text/">
 <span>Text</span>
 </a>
-</li><li class="level2 nav-3-6-56">
+</li><li class="level2 nav-3-6-59">
+<a href="http://aescripts.com/after-effects/automation/tracking-object-removal/">
+<span>Tracking/Object Removal</span>
+</a>
+</li><li class="level2 nav-3-6-60">
 <a href="http://aescripts.com/after-effects/automation/rendering/">
 <span>Rendering</span>
 </a>
-</li><li class="level2 nav-3-6-57">
+</li><li class="level2 nav-3-6-61 parent">
 <a href="http://aescripts.com/after-effects/automation/rigging/">
 <span>Rigging</span>
 </a>
-</li><li class="level2 nav-3-6-58 last">
+<ul class="level2">
+<li class="level3 nav-3-6-61-8 first last">
+<a href="http://aescripts.com/after-effects/automation/rigging/head-rigging/">
+<span>Head Rigging</span>
+</a>
+</li>
+</ul>
+</li><li class="level2 nav-3-6-62 last">
 <a href="http://aescripts.com/after-effects/automation/versioning/">
 <span>Versioning</span>
 </a>
@@ -504,11 +566,11 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <span>Editing</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-3-8-59 first">
+<li class="level2 nav-3-8-63 first">
 <a href="http://aescripts.com/after-effects/editing/edit-scene-detection/">
 <span>Edit/Scene Detection</span>
 </a>
-</li><li class="level2 nav-3-8-60 last">
+</li><li class="level2 nav-3-8-64 last">
 <a href="http://aescripts.com/after-effects/editing/story/">
 <span>Story</span>
 </a>
@@ -523,11 +585,11 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <span>Expressions</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-3-10-61 first">
+<li class="level2 nav-3-10-65 first">
 <a href="http://aescripts.com/after-effects/expressions/editing-managing/">
 <span>Editing/Managing</span>
 </a>
-</li><li class="level2 nav-3-10-62 last">
+</li><li class="level2 nav-3-10-66 last">
 <a href="http://aescripts.com/after-effects/expressions/optimization/">
 <span>Optimization</span>
 </a>
@@ -538,82 +600,82 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <span>Image</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-3-11-63 first">
+<li class="level2 nav-3-11-67 first">
 <a href="http://aescripts.com/after-effects/image/bit-depth/">
 <span>Bit Depth</span>
 </a>
-</li><li class="level2 nav-3-11-64">
+</li><li class="level2 nav-3-11-68">
 <a href="http://aescripts.com/after-effects/image/channel/">
 <span>Channel</span>
 </a>
-</li><li class="level2 nav-3-11-65">
+</li><li class="level2 nav-3-11-69">
 <a href="http://aescripts.com/after-effects/image/color-correction/">
 <span>Color Correction</span>
 </a>
-</li><li class="level2 nav-3-11-66">
+</li><li class="level2 nav-3-11-70">
 <a href="http://aescripts.com/after-effects/image/data-visualization/">
 <span>Data Visualization</span>
 </a>
-</li><li class="level2 nav-3-11-67">
+</li><li class="level2 nav-3-11-71">
 <a href="http://aescripts.com/after-effects/image/degradation/">
 <span>Degradation</span>
 </a>
-</li><li class="level2 nav-3-11-68">
+</li><li class="level2 nav-3-11-72">
 <a href="http://aescripts.com/after-effects/image/distortion/">
 <span>Distortion</span>
 </a>
-</li><li class="level2 nav-3-11-69">
+</li><li class="level2 nav-3-11-73">
 <a href="http://aescripts.com/after-effects/image/extention/">
 <span>Extention</span>
 </a>
-</li><li class="level2 nav-3-11-70">
+</li><li class="level2 nav-3-11-74">
 <a href="http://aescripts.com/after-effects/image/film-stock-emulation/">
 <span>Film Stock Emulation</span>
 </a>
-</li><li class="level2 nav-3-11-71">
+</li><li class="level2 nav-3-11-75">
 <a href="http://aescripts.com/after-effects/image/fractals/">
 <span>Fractals</span>
 </a>
-</li><li class="level2 nav-3-11-72">
+</li><li class="level2 nav-3-11-76">
 <a href="http://aescripts.com/after-effects/image/generate/">
 <span>Generate</span>
 </a>
-</li><li class="level2 nav-3-11-73 parent">
+</li><li class="level2 nav-3-11-77 parent">
 <a href="http://aescripts.com/after-effects/image/keying/">
 <span>Keying</span>
 </a>
 <ul class="level2">
-<li class="level3 nav-3-11-73-1 first last">
+<li class="level3 nav-3-11-77-9 first last">
 <a href="http://aescripts.com/after-effects/image/keying/clean-plate-creation/">
 <span>Clean Plate Creation</span>
 </a>
 </li>
 </ul>
-</li><li class="level2 nav-3-11-74">
+</li><li class="level2 nav-3-11-78">
 <a href="http://aescripts.com/after-effects/image/lens-effects/">
 <span>Lens Effects</span>
 </a>
-</li><li class="level2 nav-3-11-75">
+</li><li class="level2 nav-3-11-79">
 <a href="http://aescripts.com/after-effects/image/object-removal/">
 <span>Object Removal</span>
 </a>
-</li><li class="level2 nav-3-11-76">
+</li><li class="level2 nav-3-11-80">
 <a href="http://aescripts.com/after-effects/image/paint/">
 <span>Paint</span>
 </a>
-</li><li class="level2 nav-3-11-77">
+</li><li class="level2 nav-3-11-81">
 <a href="http://aescripts.com/after-effects/image/pixelation/">
 <span>Pixelation</span>
 </a>
-</li><li class="level2 nav-3-11-78">
+</li><li class="level2 nav-3-11-82">
 <a href="http://aescripts.com/after-effects/image/procedural/">
 <span>Procedural</span>
 </a>
-</li><li class="level2 nav-3-11-79">
+</li><li class="level2 nav-3-11-83">
 <a href="http://aescripts.com/after-effects/image/scaling-enhancement/">
 <span>Scaling/Enhancement</span>
 </a>
-</li><li class="level2 nav-3-11-80 last">
+</li><li class="level2 nav-3-11-84 last">
 <a href="http://aescripts.com/after-effects/image/spill-suppression/">
 <span>Spill Suppression</span>
 </a>
@@ -632,7 +694,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <span>Rotoscoping</span>
 </a>
 </li><li class="level1 nav-3-15">
-<a href="http://aescripts.com/after-effects/stock-footage-3/">
+<a href="http://aescripts.com/after-effects/stock-footage-5/">
 <span>Stock Footage</span>
 </a>
 </li><li class="level1 nav-3-16 parent">
@@ -640,48 +702,52 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <span>Text</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-3-16-81 first">
+<li class="level2 nav-3-16-85 first">
 <a href="http://aescripts.com/after-effects/text/3d/">
 <span>3D</span>
 </a>
-</li><li class="level2 nav-3-16-82">
+</li><li class="level2 nav-3-16-86">
 <a href="http://aescripts.com/after-effects/text/animated-font/">
 <span>Animated Font</span>
 </a>
-</li><li class="level2 nav-3-16-83">
+</li><li class="level2 nav-3-16-87">
 <a href="http://aescripts.com/after-effects/text/animation/">
 <span>Animation</span>
 </a>
-</li><li class="level2 nav-3-16-84">
+</li><li class="level2 nav-3-16-88">
+<a href="http://aescripts.com/after-effects/text/conversion/">
+<span>Conversion</span>
+</a>
+</li><li class="level2 nav-3-16-89">
 <a href="http://aescripts.com/after-effects/text/credit-roll/">
 <span>Credit Roll</span>
 </a>
-</li><li class="level2 nav-3-16-85">
+</li><li class="level2 nav-3-16-90">
 <a href="http://aescripts.com/after-effects/text/karaoke/">
 <span>Karaoke</span>
 </a>
-</li><li class="level2 nav-3-16-86">
+</li><li class="level2 nav-3-16-91">
 <a href="http://aescripts.com/after-effects/text/generate/">
 <span>Generate</span>
 </a>
-</li><li class="level2 nav-3-16-87">
+</li><li class="level2 nav-3-16-92">
 <a href="http://aescripts.com/after-effects/text/language/">
 <span>Language</span>
 </a>
-</li><li class="level2 nav-3-16-88">
+</li><li class="level2 nav-3-16-93">
 <a href="http://aescripts.com/after-effects/text/search-update-rename/">
 <span>Search/Update/Rename</span>
 </a>
-</li><li class="level2 nav-3-16-89">
+</li><li class="level2 nav-3-16-94">
 <a href="http://aescripts.com/after-effects/text/spell-check/">
 <span>Spell Check</span>
 </a>
-</li><li class="level2 nav-3-16-90">
+</li><li class="level2 nav-3-16-95">
 <a href="http://aescripts.com/after-effects/text/subtitles/">
 <span>Subtitles</span>
 </a>
-</li><li class="level2 nav-3-16-91 last">
-<a href="http://aescripts.com/after-effects/text/typemonkey-9/">
+</li><li class="level2 nav-3-16-96 last">
+<a href="http://aescripts.com/after-effects/text/typemonkey-13/">
 <span>TypeMonkey</span>
 </a>
 </li>
@@ -695,79 +761,79 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <span>Utilities</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-3-18-92 first">
+<li class="level2 nav-3-18-97 first">
 <a href="http://aescripts.com/after-effects/utilities/collect-files/">
 <span>Collect Files</span>
 </a>
-</li><li class="level2 nav-3-18-93">
+</li><li class="level2 nav-3-18-98">
 <a href="http://aescripts.com/after-effects/utilities/color/">
 <span>Color</span>
 </a>
-</li><li class="level2 nav-3-18-94">
+</li><li class="level2 nav-3-18-99">
 <a href="http://aescripts.com/after-effects/utilities/duplicate/">
 <span>Duplication</span>
 </a>
-</li><li class="level2 nav-3-18-95">
+</li><li class="level2 nav-3-18-100">
 <a href="http://aescripts.com/after-effects/utilities/file-handling/">
 <span>File Handling</span>
 </a>
-</li><li class="level2 nav-3-18-96">
+</li><li class="level2 nav-3-18-101">
 <a href="http://aescripts.com/after-effects/utilities/footage/">
 <span>Footage</span>
 </a>
-</li><li class="level2 nav-3-18-97">
+</li><li class="level2 nav-3-18-102">
 <a href="http://aescripts.com/after-effects/utilities/group-collaboration/">
 <span>Group Collaboration</span>
 </a>
-</li><li class="level2 nav-3-18-98">
+</li><li class="level2 nav-3-18-103">
 <a href="http://aescripts.com/after-effects/utilities/import-export/">
 <span>Import/Export</span>
 </a>
-</li><li class="level2 nav-3-18-99">
+</li><li class="level2 nav-3-18-104">
 <a href="http://aescripts.com/after-effects/utilities/launcher/">
 <span>Launcher</span>
 </a>
-</li><li class="level2 nav-3-18-100">
+</li><li class="level2 nav-3-18-105">
 <a href="http://aescripts.com/after-effects/utilities/organization/">
 <span>Organization</span>
 </a>
-</li><li class="level2 nav-3-18-101">
+</li><li class="level2 nav-3-18-106">
 <a href="http://aescripts.com/after-effects/utilities/pixel-bender/">
 <span>Pixel Bender</span>
 </a>
-</li><li class="level2 nav-3-18-102">
+</li><li class="level2 nav-3-18-107">
 <a href="http://aescripts.com/after-effects/utilities/preferences/">
 <span>Preferences</span>
 </a>
-</li><li class="level2 nav-3-18-103">
+</li><li class="level2 nav-3-18-108">
 <a href="http://aescripts.com/after-effects/utilities/project/">
 <span>Project</span>
 </a>
-</li><li class="level2 nav-3-18-104">
+</li><li class="level2 nav-3-18-109">
 <a href="http://aescripts.com/after-effects/utilities/quality-control/">
 <span>Quality Control</span>
 </a>
-</li><li class="level2 nav-3-18-105">
+</li><li class="level2 nav-3-18-110">
 <a href="http://aescripts.com/after-effects/utilities/rendering/">
 <span>Rendering</span>
 </a>
-</li><li class="level2 nav-3-18-106">
+</li><li class="level2 nav-3-18-111">
 <a href="http://aescripts.com/after-effects/utilities/scripting-tools/">
 <span>Scripting Tools</span>
 </a>
-</li><li class="level2 nav-3-18-107">
+</li><li class="level2 nav-3-18-112">
 <a href="http://aescripts.com/after-effects/utilities/search/">
 <span>Search</span>
 </a>
-</li><li class="level2 nav-3-18-108">
+</li><li class="level2 nav-3-18-113">
 <a href="http://aescripts.com/after-effects/utilities/sort/">
 <span>Sort</span>
 </a>
-</li><li class="level2 nav-3-18-109">
+</li><li class="level2 nav-3-18-114">
 <a href="http://aescripts.com/after-effects/utilities/text/">
 <span>Text</span>
 </a>
-</li><li class="level2 nav-3-18-110 last">
+</li><li class="level2 nav-3-18-115 last">
 <a href="http://aescripts.com/after-effects/utilities/video-mapping/">
 <span>Video Mapping</span>
 </a>
@@ -812,9 +878,13 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <a href="http://aescripts.com/premiere-pro/automation/audio/">
 <span>Audio</span>
 </a>
-</li><li class="level2 nav-4-3-3 last">
+</li><li class="level2 nav-4-3-3">
 <a href="http://aescripts.com/premiere-pro/automation/import-export/">
 <span>Import/Export</span>
+</a>
+</li><li class="level2 nav-4-3-4 last">
+<a href="http://aescripts.com/premiere-pro/automation/tracking-object-removal/">
+<span>Tracking/Object Removal</span>
 </a>
 </li>
 </ul>
@@ -823,23 +893,23 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <span>Image</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-4-4-4 first">
+<li class="level2 nav-4-4-5 first">
 <a href="http://aescripts.com/premiere-pro/image/color-correction/">
 <span>Color Correction</span>
 </a>
-</li><li class="level2 nav-4-4-5">
+</li><li class="level2 nav-4-4-6">
 <a href="http://aescripts.com/premiere-pro/image/distortion/">
 <span>Distortion</span>
 </a>
-</li><li class="level2 nav-4-4-6">
+</li><li class="level2 nav-4-4-7">
 <a href="http://aescripts.com/premiere-pro/image/film-stock-emulation/">
 <span>Film Stock Emulation</span>
 </a>
-</li><li class="level2 nav-4-4-7">
+</li><li class="level2 nav-4-4-8">
 <a href="http://aescripts.com/premiere-pro/image/pixelation/">
 <span>Pixelation</span>
 </a>
-</li><li class="level2 nav-4-4-8 last">
+</li><li class="level2 nav-4-4-9 last">
 <a href="http://aescripts.com/premiere-pro/image/channel/">
 <span>Channel</span>
 </a>
@@ -854,20 +924,28 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <span>Text</span>
 </a>
 </li><li class="level1 nav-4-7">
+<a href="http://aescripts.com/premiere-pro/tracking/">
+<span>Tracking</span>
+</a>
+</li><li class="level1 nav-4-8">
 <a href="http://aescripts.com/premiere-pro/transitions/">
 <span>Transitions</span>
 </a>
-</li><li class="level1 nav-4-8 last parent">
+</li><li class="level1 nav-4-9 parent">
 <a href="http://aescripts.com/premiere-pro/utilities/">
 <span>Utilities</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-4-8-9 first last">
+<li class="level2 nav-4-9-10 first last">
 <a href="http://aescripts.com/premiere-pro/utilities/import-export/">
 <span>Import/Export</span>
 </a>
 </li>
 </ul>
+</li><li class="level1 nav-4-10 last">
+<a href="http://aescripts.com/premiere-pro/stereo-3d/">
+<span>Stereo 3D</span>
+</a>
 </li>
 </ul>
 </li><li class="level0 nav-5 parent">
@@ -1158,86 +1236,102 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <span>Casey Baker</span>
 </a>
 </li><li class="level2 nav-13-2-26">
+<a href="http://aescripts.com/authors/c-e/chris-joyce/">
+<span>Chris Joyce</span>
+</a>
+</li><li class="level2 nav-13-2-27">
 <a href="http://aescripts.com/authors/c-e/chris-roe/">
 <span>Chris Roe</span>
 </a>
-</li><li class="level2 nav-13-2-27">
+</li><li class="level2 nav-13-2-28">
 <a href="http://aescripts.com/authors/c-e/cihan-balunak/">
 <span>Cihan Balunak</span>
 </a>
-</li><li class="level2 nav-13-2-28">
+</li><li class="level2 nav-13-2-29">
+<a href="http://aescripts.com/authors/c-e/cody-sorgenfrey/">
+<span>Cody Sorgenfrey</span>
+</a>
+</li><li class="level2 nav-13-2-30">
 <a href="http://aescripts.com/authors/c-e/collin-brooks/">
 <span>Collin Brooks</span>
 </a>
-</li><li class="level2 nav-13-2-29">
+</li><li class="level2 nav-13-2-31">
 <a href="http://aescripts.com/authors/c-e/cragl-vfx-tools/">
 <span>cragl vfx tools</span>
 </a>
-</li><li class="level2 nav-13-2-30">
+</li><li class="level2 nav-13-2-32">
 <a href="http://aescripts.com/authors/c-e/creative-impatience/">
 <span>Creative Impatience</span>
 </a>
-</li><li class="level2 nav-13-2-31">
+</li><li class="level2 nav-13-2-33">
 <a href="http://aescripts.com/authors/c-e/crossphere/">
 <span>CROSSPHERE</span>
 </a>
-</li><li class="level2 nav-13-2-32">
+</li><li class="level2 nav-13-2-34">
+<a href="http://aescripts.com/authors/c-e/crunchy/">
+<span>Crunchy</span>
+</a>
+</li><li class="level2 nav-13-2-35">
 <a href="http://aescripts.com/authors/c-e/daniel-fredley/">
 <span>Daniel Fredley</span>
 </a>
-</li><li class="level2 nav-13-2-33">
+</li><li class="level2 nav-13-2-36">
 <a href="http://aescripts.com/authors/c-e/dataclay/">
 <span>Dataclay</span>
 </a>
-</li><li class="level2 nav-13-2-34">
+</li><li class="level2 nav-13-2-37">
 <a href="http://aescripts.com/authors/c-e/dave-jacobson/">
 <span>Dave Jacobson</span>
 </a>
-</li><li class="level2 nav-13-2-35">
+</li><li class="level2 nav-13-2-38">
 <a href="http://aescripts.com/authors/c-e/david-seitz/">
 <span>David Seitz</span>
 </a>
-</li><li class="level2 nav-13-2-36">
+</li><li class="level2 nav-13-2-39">
 <a href="http://aescripts.com/authors/c-e/david-torno/">
 <span>David Torno</span>
 </a>
-</li><li class="level2 nav-13-2-37">
+</li><li class="level2 nav-13-2-40">
+<a href="http://aescripts.com/authors/c-e/deadlock-studio/">
+<span>Deadlock Studio</span>
+</a>
+</li><li class="level2 nav-13-2-41">
 <a href="http://aescripts.com/authors/c-e/dillon/">
 <span>Dillon</span>
 </a>
-</li><li class="level2 nav-13-2-38">
+</li><li class="level2 nav-13-2-42">
 <a href="http://aescripts.com/authors/c-e/dtdt-works/">
 <span>DT Design Technologies</span>
 </a>
-</li><li class="level2 nav-13-2-39">
+</li><li class="level2 nav-13-2-43">
 <a href="http://aescripts.com/authors/c-e/e-and-l-tools/">
 <span>E&amp;L Tools</span>
 </a>
-</li><li class="level2 nav-13-2-40">
+</li><li class="level2 nav-13-2-44">
 <a href="http://aescripts.com/authors/c-e/ebberts-zucker/">
 <span>Ebberts + Zucker</span>
 </a>
-</li><li class="level2 nav-13-2-41">
+</li><li class="level2 nav-13-2-45">
 <a href="http://aescripts.com/authors/c-e/edgar-huanca/">
 <span>Edgar Huanca</span>
 </a>
-</li><li class="level2 nav-13-2-42">
+</li><li class="level2 nav-13-2-46">
 <a href="http://aescripts.com/authors/c-e/eduardo-iglesias/">
 <span>Eduardo Iglesias</span>
 </a>
-</li><li class="level2 nav-13-2-43">
+</li><li class="level2 nav-13-2-47">
 <a href="http://aescripts.com/authors/c-e/efx/">
 <span>EFX</span>
 </a>
-</li><li class="level2 nav-13-2-44">
+</li><li class="level2 nav-13-2-48">
 <a href="http://aescripts.com/authors/c-e/eofain-ptorrez/">
 <span>Eofain PTorrez</span>
 </a>
-</li><li class="level2 nav-13-2-45">
+</li><li class="level2 nav-13-2-49">
 <a href="http://aescripts.com/authors/c-e/erwin-santacruz/">
 <span>Erwin Santacruz</span>
 </a>
-</li><li class="level2 nav-13-2-46 last">
+</li><li class="level2 nav-13-2-50 last">
 <a href="http://aescripts.com/authors/c-e/escuelacine-com-scripts/">
 <span>EscuelaCine.com Scripts</span>
 </a>
@@ -1248,135 +1342,151 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <span>F-L</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-13-3-47 first">
-<a href="http://aescripts.com/authors/f-l/fabiantheblind/">
-<span>fabiantheblind</span>
+<li class="level2 nav-13-3-51 first">
+<a href="http://aescripts.com/authors/f-l/fabian-moron-zirfas/">
+<span>Fabian Morón Zirfas</span>
 </a>
-</li><li class="level2 nav-13-3-48">
+</li><li class="level2 nav-13-3-52">
 <a href="http://aescripts.com/authors/f-l/fxphd/">
 <span>fxphd</span>
 </a>
-</li><li class="level2 nav-13-3-49">
+</li><li class="level2 nav-13-3-53">
 <a href="http://aescripts.com/authors/f-l/fixel-algorithms/">
 <span>Fixel Algorithms</span>
 </a>
-</li><li class="level2 nav-13-3-50">
+</li><li class="level2 nav-13-3-54">
 <a href="http://aescripts.com/authors/f-l/flame/">
 <span>Flame</span>
 </a>
-</li><li class="level2 nav-13-3-51">
+</li><li class="level2 nav-13-3-55">
 <a href="http://aescripts.com/authors/f-l/francois-tarlier/">
 <span>François Tarlier</span>
 </a>
-</li><li class="level2 nav-13-3-52">
+</li><li class="level2 nav-13-3-56">
 <a href="http://aescripts.com/authors/f-l/froggy-team/">
 <span>Froggy Team</span>
 </a>
-</li><li class="level2 nav-13-3-53">
+</li><li class="level2 nav-13-3-57">
 <a href="http://aescripts.com/authors/f-l/gabriel-grenier/">
 <span>Gabriel Grenier</span>
 </a>
-</li><li class="level2 nav-13-3-54">
+</li><li class="level2 nav-13-3-58">
 <a href="http://aescripts.com/authors/f-l/gilad-glasberg/">
 <span>Gilad Glasberg</span>
 </a>
-</li><li class="level2 nav-13-3-55">
+</li><li class="level2 nav-13-3-59">
 <a href="http://aescripts.com/authors/f-l/greg-gunn/">
 <span>Greg Gunn</span>
 </a>
-</li><li class="level2 nav-13-3-56">
+</li><li class="level2 nav-13-3-60">
+<a href="http://aescripts.com/authors/f-l/hernan-torrisi/">
+<span>Hernan Torrisi</span>
+</a>
+</li><li class="level2 nav-13-3-61">
 <a href="http://aescripts.com/authors/f-l/hiroyuki-sato/">
 <span>Hiroyuki Sato</span>
 </a>
-</li><li class="level2 nav-13-3-57">
+</li><li class="level2 nav-13-3-62">
 <a href="http://aescripts.com/authors/f-l/ian-haigh/">
 <span>Ian Haigh</span>
 </a>
-</li><li class="level2 nav-13-3-58">
+</li><li class="level2 nav-13-3-63">
 <a href="http://aescripts.com/authors/f-l/illo/">
 <span>ILLO</span>
 </a>
-</li><li class="level2 nav-13-3-59">
+</li><li class="level2 nav-13-3-64">
+<a href="http://aescripts.com/authors/f-l/imagineer-systems/">
+<span>Imagineer Systems</span>
+</a>
+</li><li class="level2 nav-13-3-65">
 <a href="http://aescripts.com/authors/f-l/immanuel-morales/">
 <span>Immanuel Morales</span>
 </a>
-</li><li class="level2 nav-13-3-60">
+</li><li class="level2 nav-13-3-66">
 <a href="http://aescripts.com/authors/f-l/invisible-chainsaw/">
 <span>Invisible Chainsaw</span>
 </a>
-</li><li class="level2 nav-13-3-61">
+</li><li class="level2 nav-13-3-67">
 <a href="http://aescripts.com/authors/f-l/jacob-danell/">
 <span>Jacob Danell</span>
 </a>
-</li><li class="level2 nav-13-3-62">
+</li><li class="level2 nav-13-3-68">
 <a href="http://aescripts.com/authors/f-l/jakob-schindegger/">
 <span>Jakob Schindegger</span>
 </a>
-</li><li class="level2 nav-13-3-63">
+</li><li class="level2 nav-13-3-69">
 <a href="http://aescripts.com/authors/f-l/jae-tools/">
 <span>Jae Tools</span>
 </a>
-</li><li class="level2 nav-13-3-64">
+</li><li class="level2 nav-13-3-70">
 <a href="http://aescripts.com/authors/f-l/jake-and-dan/">
 <span>Jake and Dan</span>
 </a>
-</li><li class="level2 nav-13-3-65">
+</li><li class="level2 nav-13-3-71">
 <a href="http://aescripts.com/authors/f-l/jeremy-cox/">
 <span>Jeremy Cox</span>
 </a>
-</li><li class="level2 nav-13-3-66">
+</li><li class="level2 nav-13-3-72">
 <a href="http://aescripts.com/authors/f-l/joachim-holler/">
 <span>Joachim Holler</span>
 </a>
-</li><li class="level2 nav-13-3-67">
+</li><li class="level2 nav-13-3-73">
 <a href="http://aescripts.com/authors/f-l/jordan-steele/">
 <span>Jordan Steele</span>
 </a>
-</li><li class="level2 nav-13-3-68">
+</li><li class="level2 nav-13-3-74">
 <a href="http://aescripts.com/authors/f-l/julian-herrera/">
 <span>Julian Herrera</span>
 </a>
-</li><li class="level2 nav-13-3-69">
+</li><li class="level2 nav-13-3-75">
 <a href="http://aescripts.com/authors/f-l/justified-type/">
 <span>Justified Type</span>
 </a>
-</li><li class="level2 nav-13-3-70">
+</li><li class="level2 nav-13-3-76">
 <a href="http://aescripts.com/authors/f-l/khanyu-inc/">
 <span>Khanyu Inc.</span>
 </a>
-</li><li class="level2 nav-13-3-71">
+</li><li class="level2 nav-13-3-77">
 <a href="http://aescripts.com/authors/f-l/keller-io/">
 <span>Keller.io</span>
 </a>
-</li><li class="level2 nav-13-3-72">
+</li><li class="level2 nav-13-3-78">
 <a href="http://aescripts.com/authors/f-l/kevin-schires/">
 <span>Kevin Schires</span>
 </a>
-</li><li class="level2 nav-13-3-73">
-<a href="http://aescripts.com/authors/f-l/koji-color-32/">
+</li><li class="level2 nav-13-3-79">
+<a href="http://aescripts.com/authors/f-l/koji-color-62/">
 <span>Koji Color</span>
 </a>
-</li><li class="level2 nav-13-3-74">
+</li><li class="level2 nav-13-3-80">
+<a href="http://aescripts.com/authors/f-l/kyle-martinez/">
+<span>Kyle Martinez</span>
+</a>
+</li><li class="level2 nav-13-3-81">
+<a href="http://aescripts.com/authors/f-l/late-for-dinner-studios/">
+<span>Late for Dinner Studios</span>
+</a>
+</li><li class="level2 nav-13-3-82">
 <a href="http://aescripts.com/authors/f-l/laurence-yates/">
 <span>Laurence Yates</span>
 </a>
-</li><li class="level2 nav-13-3-75">
+</li><li class="level2 nav-13-3-83">
 <a href="http://aescripts.com/authors/f-l/liam-hill/">
 <span>Liam Hill</span>
 </a>
-</li><li class="level2 nav-13-3-76">
+</li><li class="level2 nav-13-3-84">
 <a href="http://aescripts.com/authors/f-l/lie-p9/">
 <span>Lie_P9</span>
 </a>
-</li><li class="level2 nav-13-3-77">
+</li><li class="level2 nav-13-3-85">
 <a href="http://aescripts.com/authors/f-l/llcheesell/">
 <span>llcheesell</span>
 </a>
-</li><li class="level2 nav-13-3-78">
+</li><li class="level2 nav-13-3-86">
 <a href="http://aescripts.com/authors/f-l/lloyd-alvarez/">
 <span>Lloyd Alvarez</span>
 </a>
-</li><li class="level2 nav-13-3-79 last">
+</li><li class="level2 nav-13-3-87 last">
 <a href="http://aescripts.com/authors/f-l/luke-letellier/">
 <span>Luke Letellier</span>
 </a>
@@ -1387,127 +1497,151 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <span>M-P</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-13-4-80 first">
+<li class="level2 nav-13-4-88 first">
 <a href="http://aescripts.com/authors/m-p/mahmoud-elsafy/">
 <span>Mahmoud Elsafy</span>
 </a>
-</li><li class="level2 nav-13-4-81">
+</li><li class="level2 nav-13-4-89">
 <a href="http://aescripts.com/authors/m-p/maltaannon-tools/">
 <span>Maltaannon Tools</span>
 </a>
-</li><li class="level2 nav-13-4-82">
+</li><li class="level2 nav-13-4-90">
 <a href="http://aescripts.com/authors/m-p/mamoworld/">
 <span>mamoworld</span>
 </a>
-</li><li class="level2 nav-13-4-83">
+</li><li class="level2 nav-13-4-91">
 <a href="http://aescripts.com/authors/m-p/mario-brauer/">
 <span>Mario Brauer</span>
 </a>
-</li><li class="level2 nav-13-4-84">
+</li><li class="level2 nav-13-4-92">
+<a href="http://aescripts.com/authors/m-p/marco-sanasi/">
+<span>Marco Sanasi</span>
+</a>
+</li><li class="level2 nav-13-4-93">
 <a href="http://aescripts.com/authors/m-p/marcus-eckert-as/">
 <span>Marcus Eckert AS</span>
 </a>
-</li><li class="level2 nav-13-4-85">
+</li><li class="level2 nav-13-4-94">
 <a href="http://aescripts.com/authors/m-p/markus-bergelt/">
 <span>Markus Bergelt</span>
 </a>
-</li><li class="level2 nav-13-4-86">
+</li><li class="level2 nav-13-4-95">
 <a href="http://aescripts.com/authors/m-p/markus-feder/">
 <span>Markus Feder</span>
 </a>
-</li><li class="level2 nav-13-4-87">
+</li><li class="level2 nav-13-4-96">
+<a href="http://aescripts.com/authors/m-p/mathieu-glatigny/">
+<span>Mathieu Glatigny</span>
+</a>
+</li><li class="level2 nav-13-4-97">
 <a href="http://aescripts.com/authors/m-p/matthew-butler/">
 <span>Matthew Butler</span>
 </a>
-</li><li class="level2 nav-13-4-88">
+</li><li class="level2 nav-13-4-98">
 <a href="http://aescripts.com/authors/m-p/matthias-guntrum/">
 <span>Matthias Guntrum</span>
 </a>
-</li><li class="level2 nav-13-4-89">
+</li><li class="level2 nav-13-4-99">
 <a href="http://aescripts.com/authors/m-p/matt-gravish/">
 <span>Matt Gravish</span>
 </a>
-</li><li class="level2 nav-13-4-90">
+</li><li class="level2 nav-13-4-100">
 <a href="http://aescripts.com/authors/m-p/matt-tillman/">
 <span>Matt Tillman</span>
 </a>
-</li><li class="level2 nav-13-4-91">
+</li><li class="level2 nav-13-4-101">
 <a href="http://aescripts.com/authors/m-p/mediapreview-fx/">
 <span>mediapreview fx</span>
 </a>
-</li><li class="level2 nav-13-4-92">
+</li><li class="level2 nav-13-4-102">
+<a href="http://aescripts.com/authors/m-p/mekajiki/">
+<span>Mekajiki</span>
+</a>
+</li><li class="level2 nav-13-4-103">
 <a href="http://aescripts.com/authors/m-p/mettle/">
 <span>Mettle</span>
 </a>
-</li><li class="level2 nav-13-4-93">
+</li><li class="level2 nav-13-4-104">
 <a href="http://aescripts.com/authors/m-p/michael-cardeiro/">
 <span>Michael Cardeiro</span>
 </a>
-</li><li class="level2 nav-13-4-94">
+</li><li class="level2 nav-13-4-105">
 <a href="http://aescripts.com/authors/m-p/michael-delaney/">
 <span>Michael Delaney</span>
 </a>
-</li><li class="level2 nav-13-4-95">
+</li><li class="level2 nav-13-4-106">
 <a href="http://aescripts.com/authors/m-p/michel-pensas/">
 <span>Michel Pensas</span>
 </a>
-</li><li class="level2 nav-13-4-96">
+</li><li class="level2 nav-13-4-107">
 <a href="http://aescripts.com/authors/m-p/mike-overbeck/">
 <span>Mike Overbeck</span>
 </a>
-</li><li class="level2 nav-13-4-97">
+</li><li class="level2 nav-13-4-108">
 <a href="http://aescripts.com/authors/m-p/mike-udin/">
 <span>Mike Udin</span>
 </a>
-</li><li class="level2 nav-13-4-98">
+</li><li class="level2 nav-13-4-109">
 <a href="http://aescripts.com/authors/m-p/mini-kiwi/">
 <span>Mini Kiwi</span>
 </a>
-</li><li class="level2 nav-13-4-99">
+</li><li class="level2 nav-13-4-110">
+<a href="http://aescripts.com/authors/m-p/mister-horse/">
+<span>Mister Horse</span>
+</a>
+</li><li class="level2 nav-13-4-111">
+<a href="http://aescripts.com/authors/m-p/mistis-fonts/">
+<span>Misti's Fonts</span>
+</a>
+</li><li class="level2 nav-13-4-112">
 <a href="http://aescripts.com/authors/m-p/modio/">
 <span>Modio</span>
 </a>
-</li><li class="level2 nav-13-4-100">
+</li><li class="level2 nav-13-4-113">
 <a href="http://aescripts.com/authors/m-p/momcilo-stojkovic/">
 <span>Momcilo Stojkovic</span>
 </a>
-</li><li class="level2 nav-13-4-101">
+</li><li class="level2 nav-13-4-114">
 <a href="http://aescripts.com/authors/m-p/motion-boutique/">
 <span>Motion Boutique</span>
 </a>
-</li><li class="level2 nav-13-4-102">
+</li><li class="level2 nav-13-4-115">
 <a href="http://aescripts.com/authors/m-p/motion-geeks/">
 <span>Motion Geeks</span>
 </a>
-</li><li class="level2 nav-13-4-103">
+</li><li class="level2 nav-13-4-116">
 <a href="http://aescripts.com/authors/m-p/mr-journey/">
 <span>Mr. Journey</span>
 </a>
-</li><li class="level2 nav-13-4-104">
+</li><li class="level2 nav-13-4-117">
 <a href="http://aescripts.com/authors/m-p/nab/">
 <span>Nab</span>
 </a>
-</li><li class="level2 nav-13-4-105">
+</li><li class="level2 nav-13-4-118">
+<a href="http://aescripts.com/authors/m-p/nataworkstudio/">
+<span>nataworkstudio</span>
+</a>
+</li><li class="level2 nav-13-4-119">
 <a href="http://aescripts.com/authors/m-p/nik-ska/">
 <span>Nik Ska</span>
 </a>
-</li><li class="level2 nav-13-4-106">
+</li><li class="level2 nav-13-4-120">
 <a href="http://aescripts.com/authors/m-p/oleg-yarko/">
 <span>Oleg Yarko</span>
 </a>
-</li><li class="level2 nav-13-4-107">
+</li><li class="level2 nav-13-4-121">
 <a href="http://aescripts.com/authors/m-p/orrin-zucker/">
 <span>Orrin Zucker</span>
 </a>
-</li><li class="level2 nav-13-4-108">
+</li><li class="level2 nav-13-4-122">
 <a href="http://aescripts.com/authors/m-p/othercubed/">
 <span>OtherCubed</span>
 </a>
-</li><li class="level2 nav-13-4-109">
+</li><li class="level2 nav-13-4-123">
 <a href="http://aescripts.com/authors/m-p/paul-tuersley/">
 <span>Paul Tuersley</span>
 </a>
-</li><li class="level2 nav-13-4-110 last">
+</li><li class="level2 nav-13-4-124 last">
 <a href="http://aescripts.com/authors/m-p/peter-quinn/">
 <span>Peter Quinn</span>
 </a>
@@ -1518,67 +1652,71 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <span>Q-R</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-13-5-111 first">
+<li class="level2 nav-13-5-125 first">
 <a href="http://aescripts.com/authors/q-r/quarterlight-pictures/">
 <span>Quarterlight Pictures</span>
 </a>
-</li><li class="level2 nav-13-5-112">
+</li><li class="level2 nav-13-5-126">
 <a href="http://aescripts.com/authors/q-r/real-creations/">
 <span>Real Creations</span>
 </a>
-</li><li class="level2 nav-13-5-113">
+</li><li class="level2 nav-13-5-127">
 <a href="http://aescripts.com/authors/q-r/redefinery/">
 <span>redefinery</span>
 </a>
-</li><li class="level2 nav-13-5-114">
+</li><li class="level2 nav-13-5-128">
 <a href="http://aescripts.com/authors/q-r/rebusfilm/">
 <span>Rebus Film</span>
 </a>
-</li><li class="level2 nav-13-5-115">
+</li><li class="level2 nav-13-5-129">
 <a href="http://aescripts.com/authors/q-r/red-giant/">
 <span>Red Giant</span>
 </a>
-</li><li class="level2 nav-13-5-116">
+</li><li class="level2 nav-13-5-130">
 <a href="http://aescripts.com/authors/q-r/reduxfx-productions/">
 <span>ReduxFX</span>
 </a>
-</li><li class="level2 nav-13-5-117">
+</li><li class="level2 nav-13-5-131">
 <a href="http://aescripts.com/authors/q-r/remco-janssen/">
 <span>Remco Janssen</span>
 </a>
-</li><li class="level2 nav-13-5-118">
+</li><li class="level2 nav-13-5-132">
 <a href="http://aescripts.com/authors/q-r/remi-monedi/">
 <span>Rémi Monedi</span>
 </a>
-</li><li class="level2 nav-13-5-119">
+</li><li class="level2 nav-13-5-133">
 <a href="http://aescripts.com/authors/q-r/rendertom/">
 <span>renderTom</span>
 </a>
-</li><li class="level2 nav-13-5-120">
+</li><li class="level2 nav-13-5-134">
 <a href="http://aescripts.com/authors/q-r/robert-sarosi/">
 <span>Robert Sarosi</span>
 </a>
-</li><li class="level2 nav-13-5-121">
+</li><li class="level2 nav-13-5-135">
 <a href="http://aescripts.com/authors/q-r/rob-womack/">
 <span>Rob Womack</span>
 </a>
-</li><li class="level2 nav-13-5-122">
+</li><li class="level2 nav-13-5-136">
 <a href="http://aescripts.com/authors/q-r/roe-media/">
 <span>Roe Media</span>
 </a>
-</li><li class="level2 nav-13-5-123">
+</li><li class="level2 nav-13-5-137">
 <a href="http://aescripts.com/authors/q-r/roman-zander/">
 <span>Roman Zander</span>
 </a>
-</li><li class="level2 nav-13-5-124">
+</li><li class="level2 nav-13-5-138">
 <a href="http://aescripts.com/authors/q-r/rowbyte/">
 <span>Rowbyte</span>
 </a>
-</li><li class="level2 nav-13-5-125">
+</li><li class="level2 nav-13-5-139">
+<a href="http://aescripts.com/authors/q-r/rune-gangso/">
+<span>Rune Gangsø</span>
+</a>
+</li><li class="level2 nav-13-5-140">
 <a href="http://aescripts.com/authors/q-r/ryan-cashman/">
 <span>Ryan Cashman</span>
 </a>
-</li><li class="level2 nav-13-5-126 last">
+</li><li class="level2 nav-13-5-141 last">
 <a href="http://aescripts.com/authors/q-r/ryan-ragle/">
 <span>Ryan Ragle</span>
 </a>
@@ -1589,111 +1727,131 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <span>S-Z 0-9</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-13-6-127 first">
+<li class="level2 nav-13-6-142 first">
 <a href="http://aescripts.com/authors/s-z-0-9/scott-garner/">
 <span>Scott Garner</span>
 </a>
-</li><li class="level2 nav-13-6-128">
+</li><li class="level2 nav-13-6-143">
 <a href="http://aescripts.com/authors/s-z-0-9/scott-higgs/">
 <span>Scott Higgs</span>
 </a>
-</li><li class="level2 nav-13-6-129">
+</li><li class="level2 nav-13-6-144">
 <a href="http://aescripts.com/authors/s-z-0-9/salahuddin-taha/">
 <span>Salahuddin Taha</span>
 </a>
-</li><li class="level2 nav-13-6-130">
+</li><li class="level2 nav-13-6-145">
 <a href="http://aescripts.com/authors/s-z-0-9/sander-van-dijk/">
 <span>Sander van Dijk</span>
 </a>
-</li><li class="level2 nav-13-6-131">
+</li><li class="level2 nav-13-6-146">
 <a href="http://aescripts.com/authors/s-z-0-9/sebas-and-clim/">
 <span>Sebas and Clim</span>
 </a>
-</li><li class="level2 nav-13-6-132">
+</li><li class="level2 nav-13-6-147">
 <a href="http://aescripts.com/authors/s-z-0-9/sebastien-lavoie/">
 <span>Sébastien Lavoie</span>
 </a>
-</li><li class="level2 nav-13-6-133">
+</li><li class="level2 nav-13-6-148">
 <a href="http://aescripts.com/authors/s-z-0-9/sebastien-perier/">
 <span>Sébastien Perier</span>
 </a>
-</li><li class="level2 nav-13-6-134">
+</li><li class="level2 nav-13-6-149">
+<a href="http://aescripts.com/authors/s-z-0-9/songz-meng/">
+<span>Songz Meng</span>
+</a>
+</li><li class="level2 nav-13-6-150">
 <a href="http://aescripts.com/authors/s-z-0-9/specular/">
 <span>Specular</span>
 </a>
-</li><li class="level2 nav-13-6-135">
+</li><li class="level2 nav-13-6-151">
+<a href="http://aescripts.com/authors/s-z-0-9/struttura/">
+<span>STRUTTURA</span>
+</a>
+</li><li class="level2 nav-13-6-152">
 <a href="http://aescripts.com/authors/s-z-0-9/sugkyu/">
 <span>Sugkyu</span>
 </a>
-</li><li class="level2 nav-13-6-136">
+</li><li class="level2 nav-13-6-153">
 <a href="http://aescripts.com/authors/s-z-0-9/sunrise-moon/">
 <span>SUNRISE MOON</span>
 </a>
-</li><li class="level2 nav-13-6-137">
+</li><li class="level2 nav-13-6-154">
+<a href="http://aescripts.com/authors/s-z-0-9/superluminal/">
+<span>Superluminal</span>
+</a>
+</li><li class="level2 nav-13-6-155">
+<a href="http://aescripts.com/authors/s-z-0-9/surround-media/">
+<span>Surround Media</span>
+</a>
+</li><li class="level2 nav-13-6-156">
 <a href="http://aescripts.com/authors/s-z-0-9/tangent-fx/">
 <span>Tangent FX</span>
 </a>
-</li><li class="level2 nav-13-6-138">
+</li><li class="level2 nav-13-6-157">
 <a href="http://aescripts.com/authors/s-z-0-9/takumi-kashima/">
 <span>Takumi Kashima</span>
 </a>
-</li><li class="level2 nav-13-6-139">
+</li><li class="level2 nav-13-6-158">
 <a href="http://aescripts.com/authors/s-z-0-9/that-studio/">
 <span>That Studio</span>
 </a>
-</li><li class="level2 nav-13-6-140">
+</li><li class="level2 nav-13-6-159">
 <a href="http://aescripts.com/authors/s-z-0-9/the-drawing-room/">
 <span>The Drawing Room</span>
 </a>
-</li><li class="level2 nav-13-6-141">
+</li><li class="level2 nav-13-6-160">
 <a href="http://aescripts.com/authors/s-z-0-9/timecore/">
 <span>Timecore</span>
 </a>
-</li><li class="level2 nav-13-6-142">
+</li><li class="level2 nav-13-6-161">
 <a href="http://aescripts.com/authors/s-z-0-9/tony-banik/">
 <span>Tony Banik</span>
 </a>
-</li><li class="level2 nav-13-6-143">
+</li><li class="level2 nav-13-6-162">
 <a href="http://aescripts.com/authors/s-z-0-9/tyler-swanson/">
 <span>Tyler Swanson</span>
 </a>
-</li><li class="level2 nav-13-6-144">
+</li><li class="level2 nav-13-6-163">
 <a href="http://aescripts.com/authors/s-z-0-9/vaporstack-tools/">
 <span>vaporstack tools</span>
 </a>
-</li><li class="level2 nav-13-6-145">
+</li><li class="level2 nav-13-6-164">
 <a href="http://aescripts.com/authors/s-z-0-9/vfx-wizard/">
 <span>VFX Wizard</span>
 </a>
-</li><li class="level2 nav-13-6-146">
+</li><li class="level2 nav-13-6-165">
 <a href="http://aescripts.com/authors/s-z-0-9/victoria-nece/">
 <span>Victoria Nece</span>
 </a>
-</li><li class="level2 nav-13-6-147">
+</li><li class="level2 nav-13-6-166">
+<a href="http://aescripts.com/authors/s-z-0-9/video-narco/">
+<span>Video Narco</span>
+</a>
+</li><li class="level2 nav-13-6-167">
 <a href="http://aescripts.com/authors/s-z-0-9/vinhson-nguyen/">
 <span>VinhSon Nguyen</span>
 </a>
-</li><li class="level2 nav-13-6-148">
+</li><li class="level2 nav-13-6-168">
 <a href="http://aescripts.com/authors/s-z-0-9/vurb/">
 <span>Vurb</span>
 </a>
-</li><li class="level2 nav-13-6-149">
+</li><li class="level2 nav-13-6-169">
 <a href="http://aescripts.com/authors/s-z-0-9/wlazinski-matthieu/">
 <span>Wlazinski Matthieu</span>
 </a>
-</li><li class="level2 nav-13-6-150">
+</li><li class="level2 nav-13-6-170">
 <a href="http://aescripts.com/authors/s-z-0-9/zack-lovatt/">
 <span>Zack Lovatt</span>
 </a>
-</li><li class="level2 nav-13-6-151">
+</li><li class="level2 nav-13-6-171">
 <a href="http://aescripts.com/authors/s-z-0-9/zhiqiang-li/">
 <span>Zhiqiang Li</span>
 </a>
-</li><li class="level2 nav-13-6-152">
+</li><li class="level2 nav-13-6-172">
 <a href="http://aescripts.com/authors/s-z-0-9/3d-yuvsoft/">
 <span>3D YUVsoft</span>
 </a>
-</li><li class="level2 nav-13-6-153 last">
+</li><li class="level2 nav-13-6-173 last">
 <a href="http://aescripts.com/authors/s-z-0-9/908video-plugins/">
 <span>908video Plugins</span>
 </a>
@@ -1717,7 +1875,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 			
 				<li class="level0 first"><a href="http://aescripts.com/forums/"><span>Discussion Forums</span></a></li>
 				<li class="level0"><a href="http://aescripts.com/knowledgebase/"><span>Knowledge Base</span></a></li>	
-				<li class="level0"><a href="http://aescripts.com/contact/"><span>Contact</span></a></li>				
+				<li class="level0"><a href="https://aescripts.com/contact/"><span>Contact</span></a></li>				
 			</ul>	
 		</li>
 	</ul>
@@ -1745,7 +1903,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
        	<script type="text/javascript">
         //<![CDATA[
             var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
-            var SolrBridgeAutocomplete = new SolrBridgeSearch('search',{id:'autocomplete',target:'#search_mini_form',inputid:'search',containerid:'search_mini_form',boxWidth:469,searchTextPlaceHolder:'',currencySign:'&nbsp;$&nbsp;',currencycode:'USD',ajaxBaseUrl:'http://aescripts.com',searchResultUrl:'http://aescripts.com/search',viewAllResultText:'View all search results for %s',categoryText:'Categories',viewAllCategoryText:'View all categories >>',viewAllBrandsText:'View all brands >>',keywordsText:'Keywords',productText:'product',productsText:'products',brandText:'Brands',storetimestamp:'1465747976',storeid:'1',customergroupid:'0',categoryRedirect:'0',showBrand:'0',showBrandAttributeCode:'manufacturer',displaykeywordsuggestion:'true',displayResultOfText:'Search results for %s',displayResultOfInsteadText:'Search results for %s instead',currencyPos:'before',displayThumb:'0',allowFilter:'1',categoryLimit:'3',brandLimit:'3',fromPriceText:'from',ajaxprice:0});
+            var SolrBridgeAutocomplete = new SolrBridgeSearch('search',{id:'autocomplete',target:'#search_mini_form',inputid:'search',containerid:'search_mini_form',boxWidth:469,searchTextPlaceHolder:'',currencySign:'&nbsp;$&nbsp;',currencycode:'USD',ajaxBaseUrl:'http://aescripts.com',searchResultUrl:'http://aescripts.com/search',viewAllResultText:'View all search results for %s',categoryText:'Categories',viewAllCategoryText:'View all categories >>',viewAllBrandsText:'View all brands >>',keywordsText:'Keywords',productText:'product',productsText:'products',brandText:'Brands',storetimestamp:'1480525544',storeid:'1',customergroupid:'0',categoryRedirect:'0',showBrand:'0',showBrandAttributeCode:'manufacturer',displaykeywordsuggestion:'true',displayResultOfText:'Search results for %s',displayResultOfInsteadText:'Search results for %s instead',currencyPos:'before',displayThumb:'0',allowFilter:'0',categoryLimit:'3',brandLimit:'3',fromPriceText:'from',ajaxprice:0});
         //]]>
         </script> 
     </div>
@@ -1772,8 +1930,15 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <li style="li: padding: 5px; margin: 10px;"><strong>Links to Independent Websites.</strong><br><br>a. The Site may display links to independent, third-party websites, including those independent websites administered by Authors or their affiliates.&nbsp; We are not responsible for any information that third-party websites collect from you.</li>
 <li style="li: padding: 5px; margin: 10px;"><strong>Minors.</strong><br><br>a. This website is intended for adults only, and we will not knowingly collect personal information from minors under thirteen (13) years of age. If you are a parent or legal guardian of a minor under age thirteen (13) who you believe has submitted personal information to this site, please contact us immediately.</li>
 </ol>
-<h4><a name="list"></a></h4>
-<p>&nbsp;</p>
+<p><strong><span style="font-size: medium;">Terms of Use</span> - Last Updated Sep 22, 2016</strong></p>
+<p>These terms govern your use of our website or software including any plugins, scripts, applications, subscriptions, instruction manuals, and any related documentation (collectively&nbsp;“<strong>Software</strong>”). By using the Software, you agree to these terms.&nbsp;</p>
+<ol>
+<li style="li: padding: 5px; margin: 10px;"><strong>Eligibility</strong> - You must be at least 13 years old to use the Software. You may not use the&nbsp;Software for any illegal or unauthorized purpose. You agree to comply with all laws, rules and regulations (for example, federal, state, local and provincial) applicable to your use of the&nbsp;Software and your Content created using the Software, including but not limited to, copyright laws. </li>
+<li style="li: padding: 5px; margin: 10px;"><strong>Rights</strong> - You retain all rights and ownership of your content. We do not claim ownership of any content that you create using the Software.</li>
+<li style="li: padding: 5px; margin: 10px;"><strong>Privacy</strong> - The Privacy Policy above governs any personal information you provide to us. By using the Software you agree to the terms of the Privacy Policy.</li>
+<li style="li: padding: 5px; margin: 10px;"><strong>Availability</strong> - Pages describing the&nbsp;Software are accessible worldwide but this does not mean all&nbsp;Software or&nbsp;Software features are always available. We may block access to certain&nbsp;Software (or certain&nbsp;Software features or content) if these terms of use are violated or abused, in our sole discretion. Software is not available in all languages.</li>
+<li style="li: padding: 5px; margin: 10px;"><strong style="box-sizing: border-box; border: 0px; margin: 0px; padding: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-weight: bold; font-stretch: inherit; font-size: 16px; line-height: inherit; font-family: adobe-clean, sans-serif; vertical-align: baseline; color: #3f4c56; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;"></strong><strong>Additional Terms</strong> - Individual products are also subject to the additional terms&nbsp; “License Terms” which are linked on each product page directly under the price. Any content that we provide to you (such as Software, documentation, sample projects, etc.) are licensed, not sold, to you, and may be subject to Additional Terms. New Additional Terms may be added from time to time.</li>
+</ol>
 <h4><span style="font-size: medium;">How we use cookies</span></h4>
 <p>A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.</p>
 <p>We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.</p>
@@ -1876,11 +2041,11 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 |
 <li><a href="http://aescripts.com/about/">About</a></li>
 |
-<li><a href="http://aescripts.com/privacy-policy/">Privacy Policy</a></li>
+<li><a href="http://aescripts.com/privacy-policy/">Privacy &amp; Terms</a></li>
 |
 <li><a href="http://aescripts.com/subscription/">Notification Subscription</a></li>
 |
-<li><a href="http://aescripts.com/contact/">Contact</a></li>
+<li><a href="https://aescripts.com/contact/">Contact</a></li>
 </ul>            <ul id="payment-icons">
                 <li>Paypal</li>
                 <li>American Express</li>
@@ -1892,5 +2057,5 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 </footer>
 
 	</div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a3a35b342d","applicationID":"18280258","transactionName":"ZABTZhEECEZWVhJYCl1KZEAKSg9bU1AeHxVbFQ==","queueTime":0,"applicationTime":84,"atts":"SEdQEFkeG0g=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a3a35b342d","applicationID":"18280258","transactionName":"ZABTZhEECEZWVhJYCl1KZEAKSg9bU1AeHxVbFQ==","queueTime":0,"applicationTime":105,"atts":"SEdQEFkeG0g=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
