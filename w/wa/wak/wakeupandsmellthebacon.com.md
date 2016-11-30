@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wakeupandsmellthebacon.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616071323id_/http%3A//www.kraftrecipes.com/about/PrivacyNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakeupandsmellthebacon.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130223322id_/http%3A//www.kraftrecipes.com/about/NewPrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Kraft Site Privacy Notice - Kraft Recipes
+# Kraft Site New Privacy Policy - Kraft Recipes
 
-### Effective Date: June 1st, 2016
+### Effective Date: September 1st, 2016
 
 Your privacy is important to us. At The Kraft Heinz Company (“Kraft Heinz”), we recognize that visitors to our site may be concerned about the information they provide to us and how we handle that information. This Privacy Notice describes the types of information we collect from and about you when you visit any of our websites where this policy is posted (or the mobile optimized version of the website) (each a “Site”). This Privacy Notice also explains how we may use and disclose such information, as well as your ability to control certain uses of it. By using the Site, you agree to the collection, use, and disclosure of your personal information as described in this Privacy Notice. If you do not, please do not use the Site. 
 
@@ -115,4 +115,4 @@ Attention: Consumer Relations
 1-800-543-5335  
 9 a.m. - 5 p.m. Eastern Time, Monday through Friday, excluding holidays. 
 
-[E-mail us](http://kraftfoods.custhelp.com/app/contact/sa/1). We would be happy to answer your questions or hear your concerns. 
+[E-mail us](http://kraftfoods.custhelp.com/app/contact/sa/1). We would be happy to answer your questions or hear your concerns.
