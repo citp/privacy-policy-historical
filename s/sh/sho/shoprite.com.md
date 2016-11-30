@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the shoprite.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416091317id_/http%3A//www.shoprite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoprite.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130044002id_/http%3A//www.shoprite.com/privacy-policy) for the most accurate reproduction.*
 
-# ShopRite Privacy Policy - ShopRite
+# Privacy Policy – ShopRite
 
-**At ShopRite, Your Privacy is Our Priority!**
+## At ShopRite, Your Privacy is Our Priority!
 
-Wakefern Food Corp./ShopRite is committed to protecting the privacy of our customers
+#### Wakefern Food Corp./ShopRite is committed to protecting the privacy of our customers
 
-* * *
-
-This Privacy Policy is a part of the Terms & Conditions of this website (the “Website”) which are binding on all Website users and participants in the ShopRite® Price Plus® Club. The ShopRite®, ShopRite Partners in Caring®, Price Rite®, and Wakefern Food Corp. websites are operated by MyWebGrocer on behalf of Wakefern Food Corp. (“Wakefern”). Please review MyWebGrocer’s privacy policy posted at [********http://www.shoprite.com/mywebgrocer-privacy-policy/********](http://www.shoprite.com/mywebgrocer-privacy-policy/) to understand how your information is collected and used by MyWebGrocer on our sites. Please also review the privacy policy of Third Solutions LLC, which maintains and operates the digital receipts service available to ShopRite® Price Plus® Club participants at [**https://shoprite.myreceipts.com**](https://shoprite.myreceipts.com/)
+This Privacy Policy is a part of the Terms & Conditions of this website (the “Website”) which are binding on all Website users and participants in the ShopRite® Price Plus® Club. The ShopRite®, ShopRite Partners in Caring®, Price Rite®, and Wakefern Food Corp. websites are operated by MyWebGrocer on behalf of Wakefern Food Corp. (“Wakefern”). Please click here to review [MyWebGrocer’s privacy policy ](http://www.shoprite.com/mywebgrocer-privacy-policy/)to understand how your information is collected and used by MyWebGrocer on our sites.
 
 Wakefern’s policy is to respect and protect your privacy. Wakefern therefore exercises precautions to maintain the confidentiality of information that you provide to us.
 
