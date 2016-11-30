@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the narutofan.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607233718id_/http%3A//www.viz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narutofan.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130043950id_/http%3A//www.viz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy // Viz
 
 ## VIZ Media Privacy Policy
 
-Effective Date September 24, 2007 (last updated May 1, 2013)
+Effective Date September 24, 2007 (last updated October 25, 2016)
 
 * * *
 
@@ -28,7 +28,7 @@ This policy describes our privacy practices for our websites, mobile websites, s
 
 **Third Party Information** : We might collect a friend's email address to send them an electronic postcard. We may also collect contact information to get a parent's consent if a minor wants to use our site.
 
-**Other Information** : If you use our Sites, we may collect information about the browser or platform you are using. We might track the pages you visit. We might look at what site you came from, or what site you visit when you leave us. We collect this information using the tracking tools described here.  
+**Other Information** : If you use our Sites, we may collect information about the browser or platform you are using. We might track the pages you visit. We might look at what site you came from, or what site you visit when you leave us. We collect this information using the tracking tools described below.  
   
 **How We Collect Information**
 
@@ -46,9 +46,9 @@ This policy describes our privacy practices for our websites, mobile websites, s
 
 
 
-**We collect information from you passively.** We use tracking tools like browser cookies and web beacons. To learn more about these tools click here.
+**We collect information from you passively.** We use tracking tools like browser cookies and web beacons. To learn more about these tools click described below.
 
-**Some of our Sites and applications use analytics software, including Display Advertising.** You can opt-out of analytics software and personalized ads/recommendations from Flurry by clicking [here](http://www.flurry.com/user-opt-out.html). You can opt-out of Google Analytics for Display Advertising by using the [Ads Preferences Manager](https://www.google.com/settings/u/0/ads/?hl=en&sig=ACi0TCiXfE-h214dkoG5felTGgYsZ1rbdfjsTz6U4tuYCSNMpkhsRHSBA1XfvGQdoBElG9XSAZNLXbTWaCW7RllbEl-nQVHMKgu49nqrIB9yYrawQ1LxA6qldP_VeeH06P5lzodVg9TZzZt0Ww0UKZqQvqwuJN5oyY3-5yw2noQSFB_vN8Azbg65-lfSdnlEKXmk6YWWO6Tv). You may also want to implement the [Google Analytics opt-out browser add-on](https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh?hl=en).  
+**Some of our Sites and applications use analytics software, including Display Advertising.** You can opt-out of analytics software and personalized ads/recommendations from Flurry by clicking [here](https://dev.flurry.com/secure/optOut.do "https://dev.flurry.com/secure/optOut.do"). You can opt-out of Google Analytics for Display Advertising by using the [Ads Preferences Manager](https://www.google.com/settings/u/0/ads/?hl=en&sig=ACi0TCiXfE-h214dkoG5felTGgYsZ1rbdfjsTz6U4tuYCSNMpkhsRHSBA1XfvGQdoBElG9XSAZNLXbTWaCW7RllbEl-nQVHMKgu49nqrIB9yYrawQ1LxA6qldP_VeeH06P5lzodVg9TZzZt0Ww0UKZqQvqwuJN5oyY3-5yw2noQSFB_vN8Azbg65-lfSdnlEKXmk6YWWO6Tv). You may also want to implement the [Google Analytics opt-out browser add-on](https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh?hl=en).  
   
 **How We Use Information**
 
@@ -111,7 +111,7 @@ No
 
 No  
   
-**With our business partners.** For example, we might share information with a business partner who is running a joint promotion with us. We might also share information to trusted business partners whose products we think you would like. To opt out of having your information shared, see the Your Choicessection below.
+**With our business partners.** For example, we might share information with a business partner who is running a joint promotion with us. We might also share information to trusted business partners whose products we think you would like. To opt out of having your information shared, see the Your Choices section below.
 
 | 
 
@@ -121,7 +121,7 @@ In some circumstances
 
 | 
 
-To stop receiving our promotional emails, [email us](mailto:optout@viz.com)opt-out request. When logged in to certain of our Sites, registered users can also change their options at the Your Account page.
+To stop receiving our promotional emails, [email us](mailto:optout@viz.com) opt-out request. When logged in to certain of our Sites, registered users can also change their options at the Your Account page.
 
 To opt out of having us share your information with third parties for their promotional purposes, please [email us](mailto:optout@viz.com). If you accept an offer from one of them after you opt out, we will share your information with that specific party.
 
@@ -131,7 +131,7 @@ You can choose whether or not to share personal information. If you choose not t
 
 | 
 
-You can [email us](mailto:privacypolicy@viz.com)or write to us at:
+You can [email us](mailto:privacypolicy@viz.com) or write to us at:
 
 Online Manager (Privacy Issue) VIZ Media   
 1355 Market Street, Suite #200   
@@ -144,7 +144,7 @@ San Francisco, CA 94103
 
 The sites on which this policy appears are not intended for children under 13. We take steps on these sites to avoid collecting information online from children under 13. In some cases, children may give us information without us knowing about it. If you are a parent or legal guardian and believe that your child under 13 has provided us with personally identifiable information, please [email us](mailto:privacypolicy@viz.com). If you want to write, use the address listed above. Please mark your inquiries to the attention of "COPPA - Information Request" and include your email and phone number.
 
-Learn more about how to protect your child online. Read the [helpful information provided by the FTC](http://www.onguardonline.gov/). This information includes this [consumer education bulletin](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm).  
+Learn more about how to protect your child online. Read the [helpful information provided by the FTC](https://www.consumer.ftc.gov/features/feature-0002-parents).   
   
 **Security**
 
@@ -166,7 +166,7 @@ Our sites contain links to third party sites. If you click on one of those links
 
 If you live in California and have an established business relationship with us, you can request a list of the personal information we have shared with third parties for their marketing purposes. We will also give you a list of the third parties that have received your information. You can make a request one time each year.
 
-To exercise your rights, you can [email us](mailto:privacypolicy@viz.com)or write to us at the address in the "More Questions" section, above. Mention in your letter that you are making a "California Shine the Light" inquiry. We will respond within 30 days.  
+To exercise your rights, you can [email us ](mailto:privacypolicy@viz.com)or write to us at the address in the "More Questions" section, above. Mention in your letter that you are making a "California Shine the Light" inquiry. We will respond within 30 days.  
   
 **Updating Personal Information**
 
