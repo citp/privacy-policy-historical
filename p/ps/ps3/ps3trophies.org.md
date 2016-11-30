@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ps3trophies.org privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318173511id_/http%3A//www.playstationtrophies.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ps3trophies.org privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130100637id_/http%3A//www.playstationtrophies.org/privacy.php) for the most accurate reproduction.*
 
 # PlaystationTrophies.org - Privacy Policy
 
