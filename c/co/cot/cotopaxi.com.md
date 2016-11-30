@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cotopaxi.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421015629id_/https%3A//www.cotopaxi.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cotopaxi.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130205857id_/https%3A//www.cotopaxi.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Cotopaxi - Gear For Good
+# Privacy Policy – Cotopaxi
 
 Cotopaxi is committed to protecting the privacy of visitors of this web site and registered users. At Cotopaxi, we want you to have an enjoyable shopping experience. And while it is necessary for us to collect certain personal information, which you consent to collect by accessing or registering on this web site, we respect and protect your right to privacy as set forth in this Privacy Policy.
 
