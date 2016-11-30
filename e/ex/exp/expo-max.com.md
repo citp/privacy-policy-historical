@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expo-max.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402160531id_/http%3A//www.expo-max.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expo-max.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130192849id_/http%3A//expo-max.com/privacy) for the most accurate reproduction.*
 
 # expo-MAX Privacy Policy
 
