@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestfreewebresources.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524082540id_/http%3A//www.bestfreewebresources.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestfreewebresources.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130183549id_/http%3A//www.bestfreewebresources.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Web Resources
 
