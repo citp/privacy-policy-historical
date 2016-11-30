@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamersnexus.net privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323125148id_/http%3A//www.gamersnexus.net/policies/1218-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamersnexus.net privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130112908id_/http%3A//www.gamersnexus.net/policies/1218-privacy) for the most accurate reproduction.*
 
-# GN Privacy & Use Policy | Gamers Nexus - Gaming PC Builds & Hardware Benchmarks
+# GN Privacy & Use Policy | GamersNexus - Gaming PC Builds & Hardware Benchmarks
 
 Our staff grew up on the internet, so we value the idea of anonymity and privacy. For this reason, it is our objective -- with the launch of GN 3.0 in 2013 -- to inform you precisely what data we use and why we use it.
 
