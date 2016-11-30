@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northampton.ac.uk privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617193813id_/http%3A//www.northampton.ac.uk/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northampton.ac.uk privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130054346id_/http%3A//www.northampton.ac.uk/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | The University of Northampton
 
@@ -6,7 +6,7 @@
 
 This policy explains what types of personal information will be gathered when you visit the University of Northampton’s website, and how this information will be used. Please note that this policy applies to the University’s main web pages (i.e. those in www.northampton.ac.uk).
 
-Colleges, divisions, faculties, departments, schools, institutes, academic services, libraries and collections of the University may run and maintain their own websites on the northampton.ac.uk domain (these will be identified as www.name.northampton.ac.uk or name.northampton.ac.uk). These sites may carry their own privacy policy or provide additional information relating to their activities, which will supersede or supplement this Privacy Policy. 
+Colleges, divisions, faculties, departments, schools, institutes, academic services, libraries and collections of the University may run and maintain their own websites on the northampton.ac.uk domain (these will be identified as www.name.northampton.ac.uk or name.northampton.ac.uk). These sites may carry their own privacy policy or provide additional information relating to their activities, which will supersede or supplement this Privacy Policy.
 
 If you follow a link to any other website, please check their policies before you submit any personal information to those websites.
 
@@ -41,6 +41,10 @@ The Data Protection Act 1998 gives you the right to access information held abou
 ## Changes to our Privacy Policy
 
 Any changes we may make to our Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by email.
+
+## Links
+
+This website contains links to other sites. Please be aware that the University does not claim any responsibility for the privacy practices of such other sites. The University encourages users to be aware and read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
 
 ## Contact
 
