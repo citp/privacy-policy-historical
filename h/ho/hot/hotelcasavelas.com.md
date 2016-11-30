@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelcasavelas.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619003652id_/http%3A//www.hotelcasavelas.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelcasavelas.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130115753id_/http%3A//www.hotelcasavelas.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,6 @@
   * [Meetings](http://www.hotelcasavelas.com/meetings/meetings.aspx "Meetings")
   * [Weddings](http://www.hotelcasavelas.com/weddings/weddings.aspx "Weddings")
   * [Spa](http://www.hotelcasavelas.com/spa/spa.aspx "Spa")
-  * [Summer](http://www.hotelcasavelas.com/promotions.aspx#summersale2016 "Summer")
 
 
 
