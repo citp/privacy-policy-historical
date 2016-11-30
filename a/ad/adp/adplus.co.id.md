@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adplus.co.id privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622123052id_/http%3A//www.adplus.co.id/main/standard-page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adplus.co.id privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130103406id_/http%3A//adplus.co.id/main/standard-page/privacy-policy) for the most accurate reproduction.*
 
 # ADPLUS The Most Leading Digital Media Network in Indonesia
 
