@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aerohive.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615015635id_/http%3A//www.aerohive.com/legal/aerohive-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aerohive.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130225014id_/http%3A//www.aerohive.com/legal/aerohive-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Aerohive Networks
 
@@ -142,9 +142,9 @@ Please contact Aerohive with any questions or comments about this Privacy Policy
 
 Attention: Legal Department  
 Aerohive Networks  
-330 Gibraltar Drive  
-Sunnyvale, CA 94089
+1011 McCarthy Blvd.  
+Milpitas, CA 95035
 
 “Aerohive,” “HiveManager,” and “HiveOS” are registered trademarks of Aerohive Networks, Inc. All rights reserved.
 
-[back to top](http://www.aerohive.com/privacy.html#top)
+back to top
