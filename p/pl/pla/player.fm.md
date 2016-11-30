@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the player.fm privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217035723id_/https%3A//player.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the player.fm privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130193023id_/http%3A//player.fm/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -24,7 +24,7 @@ We may collect, store and use the following kinds of personal information:
 
 #### Cookies
 
-A cookie consists of a piece of text sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
+A cookie consists of a piece of text sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
 
 We may use both “session” cookies and “persistent” cookies on the website. We will use these cookies to: keep track of you whilst you navigate the website, enable our website to recognise you when you visit, capture information for the purposes of improving your experience and the quality of our website as a whole, and to personalise your experience while on the site.
 
@@ -68,7 +68,7 @@ We will not without your express consent provide your personal information to an
 
 #### Disclosures
 
-We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out is privacy policy. In addition, we may disclose your personal information:
+We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out is privacy policy. In addition, we may disclose your personal information: 
 
   * to the extent that we are required to do so by law;
   * in connection with any legal proceedings or prospective legal proceedings;
@@ -126,3 +126,4 @@ If you have any questions about this privacy policy or our treatment of your per
     East Sussex
     England
     BN3 6HA
+    
