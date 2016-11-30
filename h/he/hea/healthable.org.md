@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthable.org privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604152044id_/http%3A//www.healthable.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthable.org privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201004626id_/http%3A//www.healthable.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,13 +6,13 @@
 
 Internet privacy is an issue that we take very seriously. Healthable is committed to protecting your privacy. We believe it is important for you to know what information is being collected about you, how that information is being used, with whom it is being shared, and how to contact us if you have additional questions or concerns.
 
- **What information does Healthable collect, and how is it used?**
+**What information does Healthable collect, and how is it used?**
 
 Information gathered online can generally be categorized as either anonymous or personally identifiable. Anonymous information is information that cannot be traced back to a specific individual. For example, Healthable knows what searches are queried each day at each of its Web sites but does not know the names, e-mail addresses or phone numbers of the people searching.
 
 Personally identifiable information is information which allows us to identify you. This information can include your name, address, phone number, email address, etc. It is our belief that you will find it beneficial at times to provide us with certain personal information so that your experience with Healthable is more personally relevant to you and/or delivered directly to you (e.g., via newsletter).
 
- **Who Collects Anonymous Information on Healthable**
+**Who Collects Anonymous Information on Healthable**
 
 Currently, Healthable, DoubleClick (a division of Google) and various advertisers and other ad technology companies collect anonymous information on Healthable. These are Healthable’s partners. Information collected includes the visitor’s ISP domain name (e.g., whether the user is logged on from aol.com or whitehouse.gov), referral data (e.g., the address of the last URL a user visited prior to clicking through to the Healthable web site), and browser and platform type (e.g., Microsoft Internet Explorer 6.0 browser on a Windows XP platform). In addition, Healthable and other partners collect anonymous information on search queries and pages viewed, which is generally associated with a browser’s cookie (see below for more on cookies).
 
@@ -26,7 +26,7 @@ At that site you can also review the privacy policies of those Ad Servers. For u
 
 California and Canadian users: California and Canadian law requires that we notify you about our practices related to disclosing or sharing information with third parties, which we do in this Privacy Policy. Our practices and opt-out mechanisms are not limited to Californian and Canadian users, but apply to all users. If you would like more information about any rights you may have, you may notify us via email.
 
- **Use of ‘Cookies’**
+**Use of ‘Cookies’**
 
 Healthable and the partners listed above use browser cookies to anonymously associate collected information with a specific computer browser. If you have provided personally-identifiable information to a third-party, that third-party may be able to associate anonymous information collected on Healthable and stored via the third-party’s cookie with your identity, though utilizing this information to target specific individuals is considered against self-regulatory practices per the Network Advertising Initiative and is rarely if ever done. Cookies are a standard Internet technology that allows a web server to both store and retrieve information on a user’s system.
 
@@ -34,11 +34,11 @@ Healthable and partner web servers automatically ask new users whether their bro
 
 If a user accepts a Healthable or partner cookie, but would later like to remove it from his or her computer, he or she can just remove it from the browser. Use of cookies allows Healthable and its partners to monitor traffic flow, patterns of travel within and through the sites, and to dynamically personalize content and advertising.
 
- **Web Beacons**
+**Web Beacons**
 
 Some Healthable web pages use web beacons in conjunction with cookies to compile aggregate statistics about web site usage. A web beacon is an electronic image, called an action tag, or single pixel (1×1), or clear GIF. Web beacons enable Healthable or a partner to place or read a cookie (subject to the user’s permission per the above section), as well as collect the time and date of a page view, and a description of the page where the web beacon is placed. Users have the option to render some web beacons unusable by rejecting their associated cookies.
 
- **Third-party Media Companies**
+**Third-party Media Companies**
 
 We use third-party advertising companies and exchanges to serve ads. These third-party ad servers and exchange providers may use web beacons and cookies to help present, better target, and measure the effectiveness of their advertisements, using data (such as sites visited and browser type) gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience.
 
@@ -46,7 +46,7 @@ If you would like more information about this practice, as well as your choices 
 
 Our sponsors and advertisers have agreed that they will not collect any personally identifiable information from our site visitors while they are on Healthable. If you click on an advertisement on Healthable and visit a site maintained by one of our sponsors or advertisers, please be aware that we are not responsible for the privacy practices of those sites. You should read the privacy policies of each site you visit to determine what information that site may be collecting about you.
 
- **Gathering and Use of Personally Identifiable Information**
+**Gathering and Use of Personally Identifiable Information**
 
 We collect personally identifiable information that you provide to us when you sign up for a newsletter or other service, when you register as a member of Healthable and/or when you update your member profile. We use the personally identifiable information that you supply to provide you with the specific services you select, to conduct market and advertising research where your personal information may be anonymized and matched with similarly anonymized third-party data to enable aggregate analysis, and to send you emails about web site updates, which may include new features and enhanced functionality.
 
@@ -58,7 +58,7 @@ This option may be made available through Healthable’s registration and/or thr
 
 As a general rule, Healthable does not make a practice of de-identifying personal information on any kind of regular schedule.
 
- **With whom does Healthable share the information it collects?**
+**With whom does Healthable share the information it collects?**
 
 Other than when shared under contract and with confidentiality and security provisions or for research purposes as when your information is anonymized, Healthable does not provide third-party access to your personal information except in the aggregate and only after the information has been de-identified. Healthable will not disclose the contact or demographic information of any individual user to advertisers or any other outside organization without the express permission of the individual.
 
@@ -66,7 +66,7 @@ Healthable uses third-party companies to serve ads when you visit our web site. 
 
 Healthable also does work with third-parties to “append” information to the personal information Healthable collects (e.g., to append age or gender based on a user’s email address). Healthable stores the information it collects on its servers and employs industry-recognized security measures to protect it. On a regular basis, Healthable does employ third-parties to verify and audit its security measures.
 
- **E-mail Choice/Opt-Out**
+**E-mail Choice/Opt-Out**
 
 Each e-mail newsletter and special offer sent by Healthable contains an easy, automated way for you to cease receiving our e-mail newsletters. One click of the mouse is all that is required — the system automatically excludes you from future mailings without needing additional human intervention. To unsubscribe, click the “unsubscribe” link in the footer of any e-mail newsletter from Healthable.
 
@@ -74,15 +74,15 @@ If you do not have Internet access, please reply to your Healthable e-mail and t
 
 Members of Healthable may also elect to receive News Alerts and Blog Alerts via email. To change mailing frequency, or to unsubscribe from New Alerts or Blog Alerts, Healthable Members should log into their account to update their preferences.
 
- **User Research**
+**User Research**
 
 On occasion, Healthable will make available to potential advertisers and research firms aggregated results from research it has conducted on its user base. Once again, Healthable will only provide such demographic information on an aggregated basis and does not disclose individual member profiles without user consent.
 
- **Special Policy With Regards to Information from Children under Thirteen**
+**Special Policy With Regards to Information from Children under Thirteen**
 
 In accordance with the Federal Children’s Online Privacy Protection Act of 1998 (COPPA), Healthable will never knowingly request personally identifiable information from anyone under the age of 13 without parental consent. When we do receive information (with parental consent) from users under the age of 13, we will never voluntarily share their personally identifiable information with third parties, regardless of their stated preference given at registration.
 
- **Effective: July 2014. Material changes to this policy will be posted here.**
+**Effective: July 2014. Material changes to this policy will be posted here.**
 
 If you have additional questions, please contact us [contact@healthable.org](mailto:contact@healthable.org). Please note that while we are happy to answer general questions, in order to protect the privacy of our users, we do not answer specific questions about the information collected about specific users (including users who may request access to the information collected on them).
 
