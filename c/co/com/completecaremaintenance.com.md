@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the completecaremaintenance.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622044019id_/http%3A//www.completecaremaintenance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the completecaremaintenance.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130041607id_/http%3A//completecaremaintenance.com/privacy-policy) for the most accurate reproduction.*
 
 # NJ Office Cleaning Services | Warehouse Cleaning Services
 
