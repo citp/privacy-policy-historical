@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the kemet.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629155512id_/http%3A//www.kemet.com/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kemet.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130190000id_/http%3A//www.kemet.com/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # privacy-policy
 
-​We at KEMET have created this privacy statement in order to demonstrate our commitment to your privacy. As individuals, we expect others to respect our privacy and you should expect nothing less of us. Here are our information-gathering and dissemination practices for our website: www.kemet.com.
+​​We at KEMET have created this privacy statement in order to demonstrate our commitment to your privacy. As individuals, we expect others to respect our privacy and you should expect nothing less of us. Here are our information-gathering and dissemination practices for our website: www.kemet.com.​
 
-### Why Do We Ask For Information From You?
+### Why Do We Ask For Information From You​?
 
-We want to use identifying information that you provide us to allow us to serve you better. We need this information to personalize your experience on our website, to selectively communicate with you, or to complete a business process with you.
+We want to use identifying information that you provide us to allow us to serve you better. We need this information to personalize your experience on our website, to selectively communicate with you, or to complete a business process with you.​​
 
 ### What Kinds Of Information Do We Ask You To Provide?
 
@@ -30,8 +30,9 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 ### Profile Removal
 
-We periodically remove individual profiles created on our site with extended periods of inactivity, typically 2 years.
+We periodically remove individual profiles created on our site with extended periods of inactivity, typically 2 years.​  
+
 
 ### Links To Other Sites
 
-This site contains links to other sites; www.kemet.com is not responsible for the privacy practices or the content of such Web sites. ​​​​
+This site contains links to other sites; kemet.com is not responsible for the privacy practices or the content of such Web sites. ​​​​
