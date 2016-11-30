@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matcotools.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602072953id_/http%3A//www.matcotools.com/customercare/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matcotools.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130190213id_/http%3A//www.matcotools.com/customercare/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policies | Matco Tools Customer Service
 
