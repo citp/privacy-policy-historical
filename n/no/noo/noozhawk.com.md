@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the noozhawk.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324204214id_/http%3A//www.noozhawk.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noozhawk.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130052355id_/https%3A//www.noozhawk.com/privacy_policy) for the most accurate reproduction.*
 
-# Santa Barbara News and Information - Noozhawk.com
+# Privacy Policy - Noozhawk.com
 
 Welcome to [Noozhawk](http://www.noozhawk.com/ "Noozhawk").
 
