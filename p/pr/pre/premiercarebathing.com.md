@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiercarebathing.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514101739id_/http%3A//www.premiercarebathing.com/content/components/modals/privacy-policy/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiercarebathing.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130103107id_/http%3A//www.premiercarebathing.com/content/components/modals/privacy-policy/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Premier Care in Bathing®
 
@@ -38,4 +38,4 @@ This privacy policy applies only to this web site. This site contains many hyper
 
 Questions About Our Privacy Policy
 
-If you have any questions about this privacy policy or concerns about the way Premier Care uses personal data, please contact us via the "Contact Us" link on the home page. If you would like to unsubscribe from the database and the uses described in this policy, please visit www.premiercarebathing.com/email-opt-out/ or write to us at 2330A S. Nova Rd. South Daytona, FL 32119.
+If you have any questions about this privacy policy or concerns about the way Premier Care uses personal data, please contact us via the "Contact Us" link on the home page. If you would like to unsubscribe from the database and the uses described in this policy, please visit www.premiercarebathing.com/email-opt-out/ or write to us at 34750 Van Dyke Ave, Sterling Heights MI 48312.
