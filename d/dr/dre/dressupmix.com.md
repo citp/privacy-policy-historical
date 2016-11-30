@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressupmix.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602105555id_/http%3A//dressupmix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupmix.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130122502id_/http%3A//dressupmix.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
