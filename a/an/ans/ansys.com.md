@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ansys.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609062140id_/http%3A//www.ansys.com/Footer/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansys.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130174553id_/http%3A//www.ansys.com/Footer/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | ANSYS
 
 This Privacy Policy covers the following:
 
@@ -32,7 +32,7 @@ Top 
 
 The Site is owned and operated by ANSYS, Inc. ANSYS, Inc. is incorporated in Delaware, USA. We refer to ANSYS, Inc., together with its group companies, as “we”, “us” or “our” in this Privacy Policy.
 
-You can find details of all of our group companies by visiting [Contacts and Locations](https://web.archive.org/About-ANSYS/Contacts-and-Locations).
+You can find details of all of our group companies by visiting [Contacts and Locations](https://web.archive.org/About-ANSYS/contacts-and-locations).
 
 Top
 
