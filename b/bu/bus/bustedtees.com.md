@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bustedtees.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415000206id_/http%3A//www.bustedtees.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustedtees.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130134723id_/http%3A//www.bustedtees.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Summary - Brain Buster Enterprises, LLC | BustedTees
 
@@ -84,8 +84,8 @@ We may occasionally update our Privacy Policy to reflect changes in our practice
 If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/privacy/policy), or our information practices, please contact us by email or postal mail below:
 
 Brain Buster Enterprises, LLC  
-65 W 13th Street, apt. 2D  
-New York , New York 10011  
+36 E 20th ST FL 8  
+New York , New York 10003  
 United States of America  
 
 
