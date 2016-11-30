@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangahit.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520130535id_/http%3A//www.mangahit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangahit.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130210835id_/http%3A//www.mangahit.com/privacy-policy) for the most accurate reproduction.*
 
 # MangaHit.com - Read Manga Online For Free
 
