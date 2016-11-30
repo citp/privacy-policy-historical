@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dget.nic.in privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314064455id_/http%3A//www.dget.nic.in/content/innerpage/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dget.nic.in privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130143711id_/http%3A//www.dget.nic.in/content/innerpage/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy:: Directorate General of Training (DGT)
 
