@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maac.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416063301id_/http%3A//www.maac.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maac.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130101301id_/http%3A//www.maac.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Website Privacy Policy - Mid-America Apartment Communities
 
 This Site (this "Site") is owned and operated by MAA, Inc. ("MAA"). This Privacy Statement sets forth MAA's Privacy Policy ("Policy") for this Site. MAA has created this Privacy Statement in order to demonstrate and inform you of our firm commitment to privacy. The following Policy describes how we collect, protect and use information we receive from visitors to our Site. This Policy applies only to information collected through this Site and not to information collected offline or through any other websites (even if affiliated with MAA).
 
