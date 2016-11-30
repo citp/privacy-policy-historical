@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the eriksbikeshop.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501083459id_/http%3A//www.eriksbikeshop.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eriksbikeshop.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130010214id_/http%3A//www.eriksbikeshop.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Erik's Online Privacy Policy
+# Online Privacy Policy | ERIK'S
 
-## Erik's Bike and Board Guarantee
+## ERIK'S Bike • Board • Ski Guarantee
 
-Erik's Bike and Board will not sell, share, trade, or give away personal information that is received regarding our customers. We are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience.  
-**Please read on for more details about Erik's Bike and Board's privacy policy.**
+ERIK'S will not sell, share, trade, or give away personal information that is received regarding our customers. We are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience.  
+**Please read on for more details about ERIK'S privacy policy.**
 
 ### What information do we collect? How do we use it?
 
