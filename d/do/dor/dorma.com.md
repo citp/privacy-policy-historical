@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dorma.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607224421id_/http%3A//www.dorma.com/us/en/privacy-statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dorma.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130160824id_/http%3A//www.dorma.com/us/en/privacy-statement/index.html) for the most accurate reproduction.*
 
 # DORMA Legals & Privacy | Privacy Statement
 
