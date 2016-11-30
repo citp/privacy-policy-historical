@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the thetoyshop.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608185102id_/http%3A//www.thetoyshop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetoyshop.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130050113id_/http%3A//www.thetoyshop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Entertainer
 
-**TheToyShop.com** is a trading name of The Entertainer (Amersham) Ltd. Registered in the United Kingdom. 
+## Privacy Policy
 
-**TheToyShop.com** is committed to protecting your privacy. We have taken all the essential measures to make sure that any information you give us, including credit card details, remains private and secure and that your payment and registration information is processed with total confidentiality.
+TheToyShop.com is a trading name of The Entertainer (Amersham) Ltd. Registered in the United Kingdom.
 
-When you place orders or access account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, as required by the UK Data Protection Act 1998, we follow strict security procedures in the storage and disclosure of information, which you have given us, to prevent unauthorised access.
-
-If you have any further questions about our credit card security policies, please contact us. Click on the contact us tab at the top of this page. Note: If you still have questions about shopping online, but want to enjoy the benefits of shopping at thetoyshop.com, call our Customer Services Department on **0844 800 5100** (International +44 (0)1494 737002) to place an order.
+TheToyShop.com is committed to protecting your privacy. We have taken all the essential measures to make sure that any information you give us, including credit card details, remains private and secure and that your payment and registration information is processed with total confidentiality. When you place orders or access account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, as required by the UK Data Protection Act 1998, we follow strict security procedures in the storage and disclosure of information, which you have given us, to prevent unauthorised access. We will not retain information that you provide to us for longer than is appropriate and will delete or amend your information upon request. If you have any further questions about our credit card security policies, please contact us. Click on the contact us tab at the top of this page. Note: If you still have questions about shopping online, but want to enjoy the benefits of shopping at thetoyshop.com, call our Customer Services Department on 0844 800 5100 (International +44 (0)1494 737002) to place an order.
 
 ### What information do we gather and what do we do with it?
 
@@ -18,22 +16,20 @@ Our website uses cookies which also collect information. A cookie is a piece of 
 
 The 'help' menu in most web browsers will tell you how you can be informed when you receive a new cookie or how to disable cookies altogether. However, we recommend that you leave cookies turned on as they allow you to access some of the most useful features of thetoyshop.com.
 
-When you use this site and have not advised us to the contrary, you are agreeing that we may use your personal information for the purposes set out in this statement.
+We may use your data in order to personalise your use of this site to improve your experience when using this site and to draw your attention to products and services which we can provide to you. We may also share your data with our affiliated companies, marketing companies and with third parties who may have goods or services which we believe may be of interest to you.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law.
+[Click here](https://web.archive.org/terms) to read our Terms and Conditions, we may vary the terms and conditions from time to time. The terms and conditions that govern any activity on this site shall be those displayed on the site at the time of the activity.
 
-### What if you think we have incorrect information, or you would like a copy of the information we hold about you?
+### What to do if you think we have incorrect information, or you would like a copy of the information we hold about you?
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A fee of £10 will be payable. If you would like a copy of the information held on you, please write to: 
-
-**The Customer Services Manager  
-The Entertainer (Amersham) Ltd.   
-Boughton Business Park   
-Bell Lane   
-Little Chalfont   
-Bucks HP6 6GL**
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write or e-mail us as soon as possible to the above address. We will correct any information which was found to be incorrect promptly.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A fee of £10 will be payable. If you would like a copy of the information held on you, please write to:   
+The Customer Services Manager  
+The Entertainer (Amersham) Ltd.  
+Boughton Business Park  
+Bell Lane  
+Little Chalfont  
+Bucks HP6 6GL  
+If you believe that any information we are holding on you is incorrect or incomplete, please write or e-mail us as soon as possible to the above address. We will promptly correct any information which was foundto be incorrect.
 
 ### Other websites
 
