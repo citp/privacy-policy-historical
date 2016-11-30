@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebwelove.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630184342id_/http%3A//contactanycelebrity.com/cac/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebwelove.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201005459id_/http%3A//contactanycelebrity.com/cac/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Contact Any Celebrity ::
 
@@ -71,9 +71,9 @@ West Hollywood, CA 90069-4507
 
 Contact Any Celebrity is concerned about the safety and security of our customers. We have put a number of technological protections in place including state-of-the-art encryption to ensure that our transaction process is safe and that our customers’ information is secure.
 
-## **[7-Day Free Trial on All Accounts!](https://contactanycelebrity.com/cac/checkout)**
+## **[7-Day Free Trial on All Memberships!](https://contactanycelebrity.com/cac/checkout)**
 
-Annual (VIP) Subscription
+Annual (VIP) Membership
 
 $197
 
@@ -133,7 +133,7 @@ Priority VIP Service
 
 Best Rate - No Monthly Charges
 
-Monthly (Basic) Subscription
+Monthly (Basic) Membership
 
 $47
 
