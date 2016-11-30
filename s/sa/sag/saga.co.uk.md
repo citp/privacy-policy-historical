@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saga.co.uk privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627065449id_/http%3A//www.saga.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saga.co.uk privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130205048id_/http%3A//www.saga.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Saga Group Data Protection Privacy Policy - Saga
 
@@ -38,7 +38,7 @@ When it comes to your privacy we never compromise. We will always be clear about
 
 Saga plc., together with its subsidiaries, being the various groups of companies that Saga plc. ultimately owns including the Saga Leisure group, Acromas Insurance Co Ltd and Destinology.
 
-Companies within the Saga group (“Saga”) use a variety of well-known brand and trading names including, but not limited to, Saga, Titan Travel, Saga Healthcare, Saga Freedom, Direct Choice Insurance Services Limited, Claimfast, and Metromail. Details of the relevant companies can be obtained from the Group Data Protection Officer at Enbrook Park, Sandgate, Kent CT20 3SE.
+Companies within the Saga group (“Saga”) use a variety of well-known brand and trading names including, but not limited to, Saga, Titan Travel, Saga Healthcare, Saga Freedom, Direct Choice, Claimfast, Metromail and Bennetts. Details of the relevant companies can be obtained from the Group Data Protection Officer at Enbrook Park, Sandgate, Kent CT20 3SE.
 
 Saga ("we","us") are committed to protecting your privacy. We comply with the principles of the Data Protection Act 1998 and aim to maintain best-practice standards in our processing of personal and/or sensitive personal data."   
 **  
