@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishatl.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329100926id_/http%3A//wishatl.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishatl.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130033815id_/http%3A//wishatl.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Wish Atlanta
 
