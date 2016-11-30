@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aloha.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403003146id_/https%3A//aloha.com/shop/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aloha.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130063954id_/https%3A//aloha.com/about/privacy) for the most accurate reproduction.*
 
-# ALOHA
+# Privacy Policy | ALOHA
 
 **Last Updated: 11/18/2013**
 
