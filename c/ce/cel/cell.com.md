@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cell.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024011038id_/http%3A//www.elsevier.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cell.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130152326id_/http%3A//www.elsevier.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Elsevier is committed to maintaining your confidence and trust with respect to the privacy of the personal information we collect from you. Please read this privacy policy carefully to understand our practices about how we collect, use and share your personal information. ** **
+Elsevier is committed to maintaining your confidence and trust with respect to the privacy of the personal information we collect from you. Please read this privacy policy carefully to understand our practices about how we collect, use and share your personal information. ****
 
- **About our Privacy Policy**
+**About our Privacy Policy**
 
 This privacy policy describes how the personal information that is collected when you visit the Elsevier website, application or product that posts a link to this privacy policy ("Service") will be used by the Elsevier company that owns the Service ("Elsevier," "we," "us" or "our"). This policy may be supplemented by additional privacy terms or notices set forth on certain areas of the Service.
 
@@ -31,11 +31,12 @@ If you choose to register and sign in by using a third party account (such as yo
 
  _Information Collected Automatically_
 
-  * The Service also automatically collects, through our servers and the use of cookies (small text files sent to your computer), web beacons (also known as clear or single pixel .gifs) and other technologies, information that tells us how you use the Service, such as:
-  * Internet Protocol ("IP") address used to connect your computer to the Internet; 
-  * Computer, device and connection information, such as browser type and version, operating system, mobile platform and unique device identifier ("UDID") and other technical identifiers; 
-  * Uniform Resource Locator ("URL") click stream data, including date and time stamp, referring and exit URLs, search terms you used, and pages you visited or searched for on the Service; and 
-  * For location-aware services, the physical location of your device in order to provide you with more relevant content for where you are in the world. 
+The Service also automatically collects, through our servers and the use of cookies (small text files sent to your computer), web beacons (also known as clear or single pixel .gifs) and other technologies, information that tells us how you use the Service, such as:
+
+  * Internet Protocol ("IP") address used to connect your computer to the Internet;
+  * Computer, device and connection information, such as browser type and version, operating system, mobile platform and unique device identifier ("UDID") and other technical identifiers;
+  * Uniform Resource Locator ("URL") click stream data, including date and time stamp, referring and exit URLs, search terms you used, and pages you visited or searched for on the Service; and
+  * For location-aware services, the physical location of your device in order to provide you with more relevant content for where you are in the world.
 
 
 
@@ -47,14 +48,14 @@ You can control cookies through your browser's settings and other tools. However
 
 We may use your personal information to:
 
-  * Provide the Service to you, such as allow access to or delivery of our products or services, process or fulfill an order or transaction, or administer surveys or promotional programs; 
-  * Respond to your requests, inquiries, comments or concerns; 
-  * Provide technical, product and other support and help keep the Service working, safe and secure; 
-  * Offer you customized content and individualized personalization of the Service to make it more relevant to your interests and needs; 
-  * Enhance, evaluate and improve the Service, its advertisements and promotional campaigns and our products and services and to develop new products and services; 
-  * Identify and analyze usage trends, including for the purposes of research, audits, reporting and paying royalties and license fees to third-party content providers; 
-  * Notify you about changes or updates to the Service and our products and services; and 
-  * Provide you special offers, promotions, surveys and other information about the Service as well as products, events and services of ours, our affiliates and non-affiliated third parties such as societies and sponsors. 
+  * Provide the Service to you, such as allow access to or delivery of our products or services, process or fulfill an order or transaction, or administer surveys or promotional programs;
+  * Respond to your requests, inquiries, comments or concerns;
+  * Provide technical, product and other support and help keep the Service working, safe and secure;
+  * Offer you customized content and individualized personalization of the Service to make it more relevant to your interests and needs;
+  * Enhance, evaluate and improve the Service, its advertisements and promotional campaigns and our products and services and to develop new products and services;
+  * Identify and analyze usage trends, including for the purposes of research, audits, reporting and paying royalties and license fees to third-party content providers;
+  * Notify you about changes or updates to the Service and our products and services; and
+  * Provide you special offers, promotions, surveys and other information about the Service as well as products, events and services of ours, our affiliates and non-affiliated third parties such as societies and sponsors.
 
 
 
@@ -64,9 +65,9 @@ We may on occasion also match or combine the personal information that you provi
 
 We may share your personal information with:
 
-  * Relevant agents, representatives, joint venturers, and entities for which we are acting as an agent, licensee or publisher, such as societies and sponsors; 
-  * Applicable suppliers and service providers, including editors, reviewers, credit card processors, customer support, email service providers, mailing houses and shipping agents, and IT service providers; and 
-  * All of our affiliates, trading names and divisions within the Elsevier group of companies worldwide (for a list, visit <http://www.elsevier.com/about/at-a-glance>), 
+  * Relevant agents, representatives, joint venturers, and entities for which we are acting as an agent, licensee or publisher, such as societies and sponsors;
+  * Applicable suppliers and service providers, including editors, reviewers, credit card processors, customer support, email service providers, mailing houses and shipping agents, and IT service providers; and
+  * All of our affiliates, trading names and divisions within the Elsevier group of companies worldwide (for a list, visit [http://www.elsevier.com/about](https://www.elsevier.com/about "About Elsevier")),
 
 
 
@@ -86,7 +87,7 @@ We also may need to disclose your personal information:
 
 
 
-The Service may let you post and share personal information, comments, materials and other content. Any information you disclose publicly may be collected and used by others, may be indexable by search engines, and might not be able to be removed. Please be careful when disclosing personal information in these public areas. 
+The Service may let you post and share personal information, comments, materials and other content. Any information you disclose publicly may be collected and used by others, may be indexable by search engines, and might not be able to be removed. Please be careful when disclosing personal information in these public areas.
 
  **Your Choices and Communications Preferences**
 
