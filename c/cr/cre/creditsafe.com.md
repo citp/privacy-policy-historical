@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditsafe.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522212810id_/http%3A//www.creditsafe.com/about-us/creditsafe-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditsafe.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130092839id_/http%3A//www.creditsafe.com/about-us/creditsafe-privacy-notice) for the most accurate reproduction.*
 
 # Creditsafe Privacy Notice
 
