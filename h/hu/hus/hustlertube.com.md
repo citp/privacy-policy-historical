@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hustlertube.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424123317id_/http%3A//www.hustler.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hustlertube.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130024635id_/http%3A//www.hustler.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for LFP, Inc
 
