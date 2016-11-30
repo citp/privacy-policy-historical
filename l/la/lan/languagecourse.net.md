@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the languagecourse.net privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610213247id_/http%3A//www.languagecourse.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the languagecourse.net privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130090908id_/http%3A//www.languagecourse.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,4 +32,4 @@ According to national privacy regulations, you are entitled to receive informati
 
 **6\. Contact for Privacy Issues**
 
-For questions regarding the collection, processing or use of your personal data, information, correction, blocking or erasure of data, and revocation of granted permissions, please contact LanguageCourse S.L. Ronda Sant Pere 16, 3. 08010 Barcelona (Spain) 
+For questions regarding the collection, processing or use of your personal data, information, correction, blocking or erasure of data, and revocation of granted permissions, please contact LanguageCourse S.L. c/ Casp 17 - 8º. 08010 Barcelona (Spain) 
