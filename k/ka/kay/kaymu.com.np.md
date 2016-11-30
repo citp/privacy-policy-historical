@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaymu.com.np privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623232107id_/http%3A//www.kaymu.com.np/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaymu.com.np privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130144201id_/http%3A//www.kaymu.com.np/privacy-policy) for the most accurate reproduction.*
 
 # Kaymu - Privacy and Confidentiality
 
@@ -28,8 +28,8 @@ We may further anonymize data about users of the Site generally and use it for v
 
 ## Our Disclosure of Your Information
 
-We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone’s rights, property or safety. Such information will be disclosed in accordance with applicable laws and regulations. We may also share your personal information:  
-1\. Third parties to provide joint content and services (like registration, transactions and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications. These third parties will use this information to send you marketing communications only if you’ve requested their services.
+We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property or safety. Such information will be disclosed in accordance with applicable laws and regulations. We may also share your personal information:  
+1\. Third parties to provide joint content and services (like registration, transactions and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications. These third parties will use this information to send you marketing communications only if you've requested their services.
 
 2\. Service providers under contract who help with our business operations (such as fraud investigations, bill collection, affiliate and rewards programs and customer support).
 
@@ -51,11 +51,11 @@ We may pass your details to other companies in our group. We may also pass your 
 
 ## No Spam, Spyware or Spoofing
 
-We and our users do not tolerate spam. Make sure to set your ‘Kaymu’ communication preferences so we communicate to you as you prefer. You are not licensed to contact other ‘Kaymu’ users without their express consent. To report ‘Kaymu’ -related spam or spoof emails to ‘Kaymu’, please report it to us. You may not use our communication tools to send spam or otherwise send content that would breach our User Agreement.
+We and our users do not tolerate spam. Make sure to set your 'Kaymu' communication preferences so we communicate to you as you prefer. You are not licensed to contact other 'Kaymu' users without their express consent. To report 'Kaymu' -related spam or spoof emails to 'Kaymu', please report it to us. You may not use our communication tools to send spam or otherwise send content that would breach our User Agreement.
 
 ## Account Protection
 
-Your password is the key to your account. Use unique numbers, letters and special characters, and do not disclose your ‘Kaymu’ password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify ‘Kaymu’ and change your password.
+Your password is the key to your account. Use unique numbers, letters and special characters, and do not disclose your 'Kaymu' password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify 'Kaymu' and change your password.
 
 ## Security
 
