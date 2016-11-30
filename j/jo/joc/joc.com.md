@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joc.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207151142id_/http%3A//www.joc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joc.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130045647id_/http%3A//www.joc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | JOC.com
+# Privacy Policy
 
 _Effective: February 15, 2010_
 
@@ -38,7 +38,7 @@ Your Choices
 
 You have a choice about and control over:
 
-**Connecting directly with other companies** for marketing purposes. In addition to providing you with our own editorial content, we offer you the opportunity to access others' branded content and expertise. When you choose to take advantage of that content or expertise, you choose to have your name and contact details transferred directly to that other company. We will put you in direct contact with another company or companies when you choose to:
+ **Connecting directly with other companies** for marketing purposes. In addition to providing you with our own editorial content, we offer you the opportunity to access others' branded content and expertise. When you choose to take advantage of that content or expertise, you choose to have your name and contact details transferred directly to that other company. We will put you in direct contact with another company or companies when you choose to:
 
 Register for certain registration-only, or "gated" communities or gated Journal of Commerce web pages. Access to technical resources provided or sponsored by another company is contingent on your agreement that your contact details may be shared with the other company. We may track your interest in that company's content or our own content over time and disclose your interest to that company.
 
@@ -48,19 +48,19 @@ Register for a virtual event with a number of exhibitors. We may give your name 
 
 Attend one of our face-to-face events. Exhibitors may be given an attendance list for the event. It is up to you, however, to decide whether to leave your business card or allow your RFID-enabled badge to be read by a particular exhibitor – the badges cannot be read remotely. A sponsor of a special, sponsored conference session will also be given information about you if you choose to attend that company's session.
 
-**Receiving email marketing messages from us.**
+ **Receiving email marketing messages from us.**
 
 You may opt out of our email marketing lists by following the directions at the bottom of our promotional emails. Please note that we have a number of brands and products and allow you to opt out selectively. To remove a specific email address from all email marketing from all JOC Group, Inc. marketing lists, [joc@halldata.com](mailto:joc@halldata.com) .
 
 Please note that you may receive email marketing messages from us about other companies' offerings as part of a list rental or partner marketing programs - but only if you have given us permission to do so. We do not disclose your contact details to the partners, and we do not sell your data. You have the option of contacting the other company directly if you click on the links within the email. To opt out of our partner marketing programs, you may follow the instructions at the bottom of any email we send you as part of the program.
 
-**Whether your account information is up to date.** Please help us keep your account information up to date. To contact us about a print subscription, or to cancel the subscription, please visit the [Member Center.](http://www.joc.com/become-joc-member)
+ **Whether your account information is up to date.** Please help us keep your account information up to date. To contact us about a print subscription, or to cancel the subscription, please visit the [Member Center.](http://www.joc.com/become-joc-member)
 
-**More Information About Cookies**
+ **More Information About Cookies**
 
 You also have choices about cookies:
 
-**Our cookies.** We place cookies that identify you, or allow third parties to do so on our behalf, for the following purposes:
+ **Our cookies.** We place cookies that identify you, or allow third parties to do so on our behalf, for the following purposes:
 
   * to recognize you automatically when you return to a gated community, if you choose.
   * to understand your interests in content, both our own and that of other companies, on our web sites.
@@ -74,7 +74,7 @@ You may use the tools in your browser to decline, disable, or delete any cookies
 
 You will still be able to log on to a gated community if you decline or delete our persistent cookie that enables automatic recognition. If you disable the session cookie for one of our gated sites you may remain on the site but you will not be able to access (download) any gated content. You must accept the session cookie used to manage access to registration-only online events for the duration of your participation in the event.
 
-**Third party advertising cookies.** We allow other companies to serve ads on our web pages. We do not control their use of cookies or other data collection technologies or practices.
+ **Third party advertising cookies.** We allow other companies to serve ads on our web pages. We do not control their use of cookies or other data collection technologies or practices.
 
   * The Journal of Commerce currently allows the following third party ad servers to serve ads on our web pages: [DoubleClick](http://www.doubleclick.com/privacy/index.aspx), the [BBN Business to Business Network, Inc.](http://bbnnetworks.com/), powered by [24/7 RealMedia Inc.](http://www.247realmedia.com/EN-US/); Please visit each of their websites for more information about the technologies they use and their privacy practices.
   * Many of the third party ad serving companies that may serve ads to our websites are members of the [Network Advertising Initiative](http://www.networkadvertising.org/). For more useful information about cookies and [a single place to turn off targeted ad serving](http://www.networkadvertising.org/managing/opt_out.asp) from any of its [members](http://www.networkadvertising.org/participating/), please visit the Network Advertising Initiative. We may add or change the list of Third Party Advertisers from time to time without changing the effective date of the Statement itself. We urge you to check this section for changes regularly.
