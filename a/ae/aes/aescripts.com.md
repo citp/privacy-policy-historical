@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aescripts.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612201256id_/http%3A//aescripts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aescripts.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130220544id_/http%3A//aescripts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Terms of Use - aescripts + aeplugins - aescripts.com
 
@@ -53,7 +53,17 @@ a. This website is intended for adults only, and we will not knowingly collect p
 
 
 
-#### 
+**Terms of Use \- Last Updated Sep 22, 2016**
+
+These terms govern your use of our website or software including any plugins, scripts, applications, subscriptions, instruction manuals, and any related documentation (collectively “ **Software** ”). By using the Software, you agree to these terms. 
+
+  1. **Eligibility** \- You must be at least 13 years old to use the Software. You may not use the Software for any illegal or unauthorized purpose. You agree to comply with all laws, rules and regulations (for example, federal, state, local and provincial) applicable to your use of the Software and your Content created using the Software, including but not limited to, copyright laws. 
+  2. **Rights** \- You retain all rights and ownership of your content. We do not claim ownership of any content that you create using the Software.
+  3. **Privacy** \- The Privacy Policy above governs any personal information you provide to us. By using the Software you agree to the terms of the Privacy Policy.
+  4. **Availability** \- Pages describing the Software are accessible worldwide but this does not mean all Software or Software features are always available. We may block access to certain Software (or certain Software features or content) if these terms of use are violated or abused, in our sole discretion. Software is not available in all languages.
+  5. ******Additional Terms** \- Individual products are also subject to the additional terms  “License Terms” which are linked on each product page directly under the price. Any content that we provide to you (such as Software, documentation, sample projects, etc.) are licensed, not sold, to you, and may be subject to Additional Terms. New Additional Terms may be added from time to time.
+
+
 
 #### How we use cookies
 
