@@ -1,104 +1,158 @@
-> *The following text is extracted and transformed from the wegotserved.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407162126id_/http%3A//www.wegotserved.com/2008/11/09/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegotserved.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201002840id_/http%3A//www.wegotserved.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - We Got Served
+# We Got Served - Privacy Policy
 
-We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
+This is the privacy notice of We Got Served Ltd. In this document, “we” or “us” refer to We Got Served Ltd.
 
-**(1) What information do we collect?**  
+We are company number 6756172,  registered in the United Kingdom.
+
+Our registered office is at The Woodlands, Silverstone, Towcester, NN12 8TS UK.
+
+This is a notice to tell you our policy about all information that we record about you. It covers both information that could identify you and information that could not.
+
+We are extremely concerned to protect your privacy and confidentiality. We understand that all users of our web site are quite rightly concerned to know that their data will not be used for any purpose unintended by them, and will not accidentally fall into the hands of a third party.
+
+We regret that if there are one or more points below with which you are not happy, your only recourse is to leave our web site immediately.
+
+Except as set out below, we do not share, or sell, or disclose to a third party, any personally identifiable information collected at this site.
+
+Here is a list of the information we collect from you, either through our web site or because you give it to us in some other way, and why it is necessary to collect it:
+
+### 1\. Business and personal information
+
+This includes basic identification and contact information, such as your name and contact details and also includes all information given to us in the course of your business and ours, such as information you give us in your capacity as our client. We undertake to preserve the confidentiality of the information and of the terms of our relationship. It is not used for any other purpose. We expect you to reciprocate this policy.
+
+This information is used:
+
+  * to provide you with the services which you request;
+  * for verifying your identity for security purposes;
+  * for marketing our services and products;
+  * information which does not identify any individual may be used in a general way by us or third parties, to provide class information, for example relating to demographics or usage of a particular page or service.
 
 
-We may collect, store and use the following kinds of personal data:
 
-(a) information about your computer and about your visits to and use of this website (including your [IP](http://www.wegotserved.com/the-knowledge/ip/ "Glossary: IP") address, geographical location, browser type, referral source, length of visit and number of page views);
+We keep information, which forms part of our business record for a minimum of six years. That is because we may need it in some way to support a claim or defence in court. That is also the period within which our tax collecting authorities may demand to know it.
 
-(b) information that you provide to us for the purpose of registering with us (including your name, email address and IP address used to register with us);
+### 2\. Market place information
 
-(c) information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters (including your email address);
+When we obtain information from you specifically to enable you to buy a service offered on our web site by some other person, we assume that in giving us your information, you are also giving us permission to pass it to the relevant person.
 
-(d) any other information that you choose to send to us;
+### 3\. Your domain name and e-mail address
 
-**(2)  Cookies**
+This information is recognised by our servers and the pages that you visit are recorded. We shall not under any circumstances, divulge your e-mail address to any person who is not an employee or contractor of ours and who does not need to know, either generally or specifically. This information is used:
 
-A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
-
-We may use both “session” cookies and “persistent” cookies on the website.  We will use the session cookies to: keep track of you whilst you navigate the website; We will use the persistent cookies to: enable our website to recognise you when you visit;
-
-Session cookies will be deleted from your computer when you close your browser.  Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
-
-We use Google Analytics to analyse the use of this website.  Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers.  The information generated relating to our website is used to create reports about the use of the website. Google will store this information.  Google's privacy policy is available at: <http://www.google.com/privacypolicy.html>.  
+  * to correspond with you or deal with you as you expect;
+  * in a collective way not referable to any particular individual, for the purpose of quality control and improvement of our site;
+  * to send you news about the services to which you have signed up;
+  * to tell you about other of our services or services of sister web sites.
 
 
-Our advertisers may also send you cookies.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, [click here](http://www.google.co.uk/privacy_ads.html).
+### 4\. Information you post on our website
 
-Most browsers allow you to refuse to accept cookies.  (For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.)  This will, however, have a negative impact upon the usability of many websites.
+Information you send to us by posting to a forum or blog or in your advertisement, is stored on our servers. We do not specifically use that information except to allow it to be read, but you will see in our terms and conditions that we reserve a right to use it in any way we decide.
 
-**(4) Disclosures**
+### 5\. Website usage information
 
-We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
+We may use software embedded in our website (such as JavaScript) to collect information about pages you view and how you have reached them, what you do when you visit a page, the length of time you remain on the page, and how we perform in providing content to you. We do not presently associate such information with an identifiable person.
 
-In addition, we may disclose information about you:
+### 6\. Financial information relating to your credit cards
 
-(a) to the extent that we are required to do so by law;
+This information is never taken by us either through our website or otherwise. At the point of payment, you are transferred to a secure page on the website of Shopify/PayPal or some other reputable payment service provider. That page may be dressed in our “livery”, but it is not controlled by us. Our staff and contractors never have access to it.
 
-(b) in connection with any legal proceedings or prospective legal proceedings;
+### 7\. Note on padlock symbols and other trust marks
 
-(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and
+Many companies offer certification and an icon or other small graphic to prove to site visitors that the site is safe. Some certify to a high level of safety. Others are more concerned to take our money than to provide a useful service. We do not handle information about your credit card so do not subscribe to any such service.
 
-(d) to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling.
+### 8\. Third party advertising
 
-Except as provided in this privacy policy, we will not provide your information to third parties.
+Third parties may advertise on our web site. In doing so, those parties, their agents or other companies working for them may use technology that automatically collects your IP address when they send an advertisement that appears on our site to your browser. They may also use other technology such as cookies or JavaScript to personalise the content of, and to measure the performance of their adverts. We do not have control over these technologies or the data that these parties obtain. Accordingly, this privacy notice does not cover the information practices of these third parties.
 
-**(5)  International data transfers**
+### 9\. Third party content
 
-Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
+Our web site is a publishing medium in that anyone may register and then publish information about himself or some other person. We do not moderate or control what is posted. If you complain about any of the content on our web site, we shall investigate your complaint. If we feel, it may be justified, we shall remove it while we investigate. Free speech is a fundamental right, so we have to make a judgment as to whose right will be obstructed: yours, or that of the person who posted the content which offends you. If we think, your complaint is vexatious or without any basis, we shall not correspond with you about it.
 
-If you are in the European Economic Area (EEA), information which you provide may be transferred to countries (including the United States),  which do not have data protection laws equivalent to those in force in the EEA.
+### 10\. Information we obtain from third parties
 
-In addition, personal information that you submit for publication on the website will be published on the internet and may be available, via the internet, around the world.
+Although we do not disclose your personal information to any third party (except as set out in this notice), we do receive data which is indirectly made up from your personal information, from software services such as Google Analytics and others. No such information is identifiable to you.
 
-You expressly agree to such transfers of personal information.
+### 11\. Content you provide to us with a view to be used by third party
 
-**(6)  Security of your personal data**
+If you provide information to us with a view to it being read, copied, downloaded or used by other people, we accept no responsibility for what that third party may do with it. It is up to you to satisfy yourself about the privacy level of every person who might see your information. If it is available to all the World, you have no control whatever as to how it is used.
 
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
+### 12\.  Cookies
 
-We will store all the personal information you provide on our secure (password- and firewall- protected) servers. All electronic transactions you make to or receive from us will be encrypted.
+Cookies are small text files that are placed on your computer’s hard drive through your web browser when you visit any web site. They are widely used to make web sites work, or work more efficiently, as well as to provide information to the owners of the site.
 
-Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+Like all other users of cookies, we may request the return of information from your computer when your browser requests a web page from our server. Cookies enable our web server to identify you to us, and to track your actions and the pages you visit while you use our website. The cookies we use may last for a single visit to our site (they are deleted from your computer when you close your browser), or may remain on your computer until you delete them or until a defined period of time has passed.
 
-You are responsible for keeping your password and user details confidential. We will not ask you for your password.
+Although your browser software enables you to disable cookies, we recommend that you allow the use of cookies in order to take advantage of the features of our website that rely on their use. If you prevent their use, you will not be able to use all the functionality of our website. Here are the ways we use cookies:
 
-**(7)  Policy amendments**
+  * to record whether you have accepted the use of cookies on our web site. This is solely to comply with the law. If you have chosen not to accept cookies, we will not use cookies for your visit, but unfortunately, our site will not work well for you.
+  * to allow essential parts of our web site to operate for you.
+  * to operate our content management system.
+  * to operate the online notification form – the form that you use to contact us for any reason. This cookie is set on your arrival at our web site and deleted when you close your browser.
+  * to enhance security on our contact form. It is set for use only through the contact form. This cookie is deleted when you close your browser.
+  * to collect information about how visitors use our site. We use the information to improve your experience of our site and enable us to increase sales. This cookie collects information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from, and the pages they visited.
+  * to record that a user has viewed a webcast. It collects information in an anonymous form. This cookie expires when you close your browser.
+  * to record your activity during a web cast. An example is as to whether you have asked a question or provided an opinion by ticking a box. This information is retained so that we can serve your information to you when you return to the site. This cookie will record an anonymous ID for each user, but it will not use the information for any other purpose. This cookie will last for three months, when it will delete automatically.
+  * to store your personal information so that you do not have to provide it afresh when you visit the site next time. This cookie will last for 90
+  * to enable you to watch videos we have placed on YouTube. YouTube will not store personally identifiable cookie information when you use YouTube’s privacy-enhanced mode.
 
-We may update this privacy policy from time-to-time by posting a new version on our website.  You should check this page occasionally to ensure you are happy with any changes.
 
-We may also notify you of changes to our privacy policy by email.
 
-**(8) Your rights**
+.
 
-You may instruct us to provide you with any personal information we hold about you.  Provision of such information may be subject to the payment of a fee.
+### 13\. Sending a message to our support system
 
-You may instruct us not to process your personal data for marketing purposes by email  at any time.  (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.)
+When you send a message, we collect the data you have given to us in that message in order to obtain confirmation that you are entitled to receive the information and to provide to you the information you need. We record your request and our reply in order to increase the efficiency of our business / organisation.
 
-**(9)  Third party websites**
+### 14\. Complaining
 
-The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
+When we receive a complaint, we record all the information you have given to us. We use that information to resolve your complaint. If your complaint reasonably requires us to contact some other person, we may decide to give to that other person some of the information contained in your complaint. We do this as infrequently as possible, but it is a matter for our sole discretion as to whether we do give information, and, if we do, what that information is.
 
-**(10)  Updating information**
+We may also compile statistics showing information obtained from this source to assess the level of service we provide, but not in a way that could identify you or any other person.
 
-Please let us know if the personal information which we hold about you needs to be corrected or updated.
+### 15\. Job application and employment
 
-**(11)   Contact**
+If you send us information in connection with a job application, we may keep it for up to three years in case we decide to contact you at a later date.
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email at terry [at] wegotserved.co.uk or by mail at
+If we employ you, we collect information about you and your work from time to time throughout the period of your employment. This information will be used only for purposes directly relevant to your employment. After your employment has ended, we will keep your file for six years before destroying or deleting it.
 
-We Got Served,  
-7 The Woodlands,   
-Silverstone,   
-Northamptonshire  
-NN12 8TS  
-UK
+### 16\. Marketing information
 
-[](http://www.facebook.com/wegotserved)
+With your permission we may pass your email address and name to selected associates whom we consider may provide services or products you would find useful. You may opt out of this service at any time by instructing us at http://www.wegotserved.com.
+
+### 17\. Re-marketing
+
+We may use re-marketing from time to time. This involves Google or some other supplier placing a tag or marker on your website in order to be able to serve to you an advert for our products / services when you visit some other website.
+
+### 18\. Affiliate information
+
+This is information given to us by you in your capacity as an affiliate of us or a customer or client of ours. Such information is retained for business use only. We undertake to preserve the confidentiality of the information and of the terms of our relationship. It is not used for any other purpose. We expect any affiliate to agree to reciprocate this policy. As an exception to this, we have the right to disclose your first name and URL of your affiliate connection to other affiliates and to any other person or organisation, on and off site. The reason is solely to enable us to mention winners and others whose performance as an affiliate is in some way outstanding.
+
+### 19\. Use of site by children
+
+We do not market to children, nor do we sell products or services for purchase by children. We do sell products and services for end use by children, but for purchase by adults. If you are under 18, you may use our site only with consent from a parent or guardian.
+
+### 20\. Disclosure to Government and their agencies
+
+We are subject to the law like everyone else. We may be required to give information to legal authorities if they so request or if they have the proper authorisation such as a search warrant or court order.
+
+### 21\. Compliance with the law
+
+This confidentiality policy has been compiled so as to comply with the law of every jurisdiction in which we aim to do business. If you think it fails to satisfy the law of your country, we should like to hear from you, but ultimately it is your choice as to whether you wish to use our website.
+
+### 22\. Review or update personally identifiable information
+
+At any time you may review or update the personally identifiable information that we hold about you, by contacting us at the address below. To better safeguard your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information.
+
+### 23\. Removal of your information
+
+If you wish us to remove personally identifiable information from our web site, you may contact us at http://www.wegotserved.com/contact/. To better safeguard your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information.
+
+### 24\. Data may be “processed” outside the UK
+
+Our web sites are hosted in the USA and Canada. We may also use outsourced services in countries outside the EU from time to time in other aspects of our business. Accordingly data obtained within the UK may be “processed” outside the UK and data obtained in any other country may be processed within or outside that country.
+
+If you have any question regarding the privacy policy, please contact us.
