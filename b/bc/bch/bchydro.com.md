@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the bchydro.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208215219id_/http%3A//bchydro.com/siteinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bchydro.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130203217id_/http%3A//www.bchydro.com/siteinfo/privacy.html%3FWT.ac_id%3Dhp_footer_privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
-_Protecting your personal information is an obligation BC Hydro takes seriously. Any personal information we collect is handled in accordance with the British Columbia Freedom of Information and Protection of Privacy Act (FOIPPA)._
+_Protecting your personal information is an obligation BC Hydro takes seriously._
 
-_BC Hydro only discloses customer personal information to third parties in accordance with applicable laws. BC Hydro serves customers in accordance with the Electric Tariff regulated by the British Columbia Utilities Commission and in compliance with the Hydro and Power Authority Act. If you have any questions about how your personal information is handled, please[contact us](https://web.archive.org/contact.html) or call BC Hydro at 604 224 9376 (Greater Vancouver), 1 800 224 9376 (Other Areas).  
+_BC  Hydro only discloses customer personal information to third parties in accordance with applicable laws. BC Hydro serves customers in accordance with the Electric Tariff regulated by the British Columbia Utilities Commission and in compliance with the Hydro and Power Authority Act. If you have any questions about how your personal information is handled, please [contact us](https://web.archive.org/contact.html) or call BC Hydro at 604 224 9376 (Greater Vancouver), 1 800 224 9376 (Other Areas).  
 _
 
 ### What is considered personal information
 
-Under FOIPPA, personal information includes recorded information about an identifiable individual, such as name, address, phone number, email address and credit card information. Business contact information is not considered “personal” information.
+Under FOIPPA, personal information includes recorded information about an identifiable individual, such as name, address, phone number, email address and credit card information. Business contact information is not considered "personal" information.
 
 ### What information we collect from you
 
@@ -19,11 +19,11 @@ Keep your user ID and password confidential. Be wary of emails that ask for pers
 
 Please also note that when you send us electronic mail, we collect your email address, your internet IP address and your message so that we may reply to you. We recommend that sensitive personal information not be sent unencrypted over the Internet or by e-mail.
 
-In addition, when you visit our website, the web server collects a small amount of information to facilitate the operation and security of our website. This information may include browser type, Internet domain name and IP address. Some information, such as your Internet domain name or IP address, may identify you. This information is not accessed by anyone except in accordance with FOIPPA.
+In addition, when you visit our website, the web server collects a small amount of information to facilitate the operation and security of our website. This information may include browser type, your domain address from your Internet service provider and IP address. We use this information to optimize our website and make system improvements. In some casses, we may associate your IP address with other information you provide when using our website, such as your login information.
 
 ### Cookies
 
-bchydro.com uses both persistent and session cookies. These are files that your web browser stores on your computer. The persistent cookie remains on your computer after your session is completed. It does not store any personally identifiable information. It stores a unique identifier so we may track our website visitors at an aggregate level; a persistent cookie is also used to remember you next time you visit but only if you choose “remember me” on the log in form (and this is completely optional). You may delete the cookie by clearing if from your browser. The session cookie remains only when you are logged into bchydro.com. It enables the website to know who you are when moving from one web page to the next. This cookie automatically gets erased when you log out or close your browser.
+bchydro.com uses both persistent and session cookies. These are files that your web browser stores on your computer. The persistent cookie remains on your computer after your session is completed. It does not store any personally identifiable information. It stores a unique identifier so we may track our website visitors at an aggregate level; a persistent cookie is also used to remember you next time you visit but only if you choose "remember me" on the log in form (and this is completely optional). You may delete the cookie by clearing if from your browser. The session cookie remains only when you are logged into bchydro.com. It enables the website to know who you are when moving from one web page to the next. This cookie automatically gets erased when you log out or close your browser.
 
 ### Contests & Surveys
 
@@ -47,7 +47,7 @@ We request information from you on our event registration or order forms. Here y
 
 ### Security
 
-For your account on bchydro.com, we use industry standard Secure Socket Layer (SSL) encryption technology (128-bit), to protect your personal information. All of our online services go through a vigorous security review to ensure you stay protected.
+For your account on bchydro.com, we use industry standard Transport Layer Security (TLS) encryption technology (128-bit), to protect your personal information. All of our online services go through a vigorous security review to ensure you stay protected.
 
 ### Links to other websites
 
@@ -65,7 +65,7 @@ In some cases BC Hydro sends outbound emails and although we limit the personal 
 
 ### Text Message or Short Message Service (SMS)
 
-BC Hydro is collecting your personal information (mobile number and email address) in support of its mandate under the _Hydro and Power Authority Act_ , the _Clean Energy Act_ , and the BC Hydro Electric Tariff regulated by the BC Utilities Commission under the _Utilities Commission Act_. Your information will only be used to send you messages about energy conservation and related promotions. No data will be stored outside of Canada. If you have any questions about how your personal information is handled, please contact us or call BC Hydro at 604 224 9376 (Greater Vancouver), 1 800 224 9376 (Other Areas). If you decide that you are no longer interested in receiving mobile alerts from us, simply text “STOP” to “POWER” (76397) to unsubscribe.
+BC Hydro is collecting your personal information (mobile number and email address) in support of its mandate under the _Hydro and Power Authority Act_ , the _Clean Energy Act_ , and the BC Hydro Electric Tariff regulated by the BC Utilities Commission under the _Utilities Commission Act_. Your information will only be used to send you messages about energy conservation and related promotions. No data will be stored outside of Canada. If you have any questions about how your personal information is handled, please contact us or call BC Hydro at 604 224 9376 (Greater Vancouver), 1 800 224 9376 (Other Areas). If you decide that you are no longer interested in receiving mobile alerts from us, simply text "STOP" to "POWER" (76397) to unsubscribe.
 
 ### Changes to our privacy policy
 
