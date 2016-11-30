@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigtitstokyo.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607230929id_/http%3A//bigtitstokyo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtitstokyo.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130065844id_/http%3A//www.bigtitstokyo.com/privacy) for the most accurate reproduction.*
 
 # BigTitsTokyo.com - Privacy Statement
 
