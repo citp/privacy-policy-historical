@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unilad.co.uk privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617184129id_/http%3A//www.unilad.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unilad.co.uk privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130204348id_/http%3A//www.unilad.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - UNILAD
 
@@ -10,7 +10,7 @@ For the purpose of the Data Protection Act 1998 (the  **Act** ), the data contr
 
 This policy only applies to our site. If you leave our site via a link or otherwise, you will be subject to the policy of that website provider. We have no control over that policy or the terms of the website and you should check their policy before continuing to access the site.
 
-**Information we may collect from you.**
+ **Information we may collect from you.**
 
 We may collect and process the following data about you:
 
@@ -21,7 +21,7 @@ We may collect and process the following data about you:
 
 
 
-**IP addresses and Cookies.**
+ **IP addresses and Cookies.**
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual and we will not collect personal information in this way.
 
@@ -36,15 +36,15 @@ We may obtain information about your general internet usage by using a cookie fi
 
 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
 
-**Where we store your personal data.**
+ **Where we store your personal data.**
 
 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-_All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone._
+ _All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone._
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-**Uses made of the information.**
+ **Uses made of the information.**
 
 We use information held about you in the following ways:
 
@@ -60,7 +60,7 @@ We may also use your data, or permit selected third parties to use your data, to
 
 If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data.
 
-**Disclosure of your information.**
+ **Disclosure of your information.**
 
 We may disclose your personal information to third parties:
 
@@ -69,20 +69,20 @@ We may disclose your personal information to third parties:
 
 
 
-**Your rights.**
+ **Your rights.**
 
 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at enquiries@unilad.co.uk
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-**Access to information.**
+ **Access to information.**
 
 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-**Changes to our privacy policy.**
+ **Changes to our privacy policy.**
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. However, we advise that you check this page regularly to keep up to date with any necessary changes.
 
-**Contact.**
+ **Contact.**
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to enquiries@unilad.co.uk
