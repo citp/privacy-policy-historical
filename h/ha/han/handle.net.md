@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handle.net privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607005259id_/http%3A//www.handle.net/privacy_policy_hnet.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handle.net privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130125836id_/http%3A//www.handle.net/privacy_policy_hnet.html) for the most accurate reproduction.*
 
 # Handle.Net Registry
 
