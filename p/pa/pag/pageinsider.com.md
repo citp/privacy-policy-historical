@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pageinsider.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618170413id_/http%3A//www.pageinsider.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageinsider.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130204423id_/http%3A//www.pageinsider.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,7 +62,3 @@ This policy was last modified on 8/07/2011
 ##  11\. Contacting Us
 
 **11.1** If there are any questions regarding this privacy policy you may [**contact us**](https://web.archive.org/Contact).
-
-**Site Disclaimer:**
-
-All trademarks are the property of their respective owners. The facts, figures, reviews, records, stats, and other data presented on this page is for suggestion and information purposes only. PageInsider.com is not responsible for any incorrect or incomplete information. PageInsider.com does not take responsibility for any user-reviews of websites inside its resource and reserves the right to keep or remove those. It is highly recommended that you review all the data for accuracy.
