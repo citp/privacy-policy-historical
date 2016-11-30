@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allheart.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606145511id_/http%3A//www.allheart.com/privacy/a/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allheart.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130170915id_/http%3A//www.allheart.com/privacy/a/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | allheart.com
 
@@ -30,7 +30,7 @@ Our shopping carts (including credit card information) are secured using Secure 
 
 If you order one of our products or services, we will collect and maintain your name, email address, mailing address, telephone or mobile number, product selections, credit card number in an encrypted file (or check or money order information, if using such payment methods while ordering via mail), order number, referring URL, IP address and a password, as well as the recipient's name, address, telephone or mobile number and email address, if different from the customer. We collect this, and other information, as disclosed in this Policy, in order to fill your order, to communicate with you or the recipient of the order about your order, as appropriate, and to send you promotional materials.
 
-When individuals send email inquiries to Scrubs AC, Inc., the return email address is used to answer the email inquiry we receive and may be used to send those individuals promotional materials.
+When individuals send email inquiries to Scrubs AC, Inc., the return email address is used to answer the email inquiry we receive and may be used to send those individuals promotional materials. Individuals entering sweepstakes or contests will receive promotional emails.
 
 All promotional emails include opt-out links. If you would like to opt-out of promotional emails, click:
 
