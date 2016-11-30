@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the onlinebigbrother.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503030848id_/http%3A//www.onlinebigbrother.com/onlinebigbrother-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinebigbrother.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130081122id_/http%3A//www.onlinebigbrother.com/onlinebigbrother-privacy-policy) for the most accurate reproduction.*
 
-# Onlinebigbrother Privacy PolicyBig Brother Canada Spoilers | OnlineBigBrother Live Feed Updates
+# Onlinebigbrother Privacy PolicyBig Brother 18 Spoilers | OnlineBigBrother Live Feed Updates
 
 Privacy Policy for onlinebigbrother.com
 
 The privacy of our visitors to onlinebigbrother.com is important to us.  
 
 
-[ ](http://cbs-allaccess.7eer.net/c/130370/175673/3065)
+[](https://cbs-allaccess.7eer.net/c/130370/314224/3065)
 
 At onlinebigbrother.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit onlinebigbrother.com, and how we safeguard your information. We never sell your personal information to third parties.
 
