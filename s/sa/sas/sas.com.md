@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sas.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611184539id_/http%3A//www.sas.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sas.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130090215id_/http%3A//www.sas.com/en_us/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | SAS
 
@@ -112,7 +112,7 @@ By using SAS' website, you signify your assent to this Privacy Statement.
 
 ### How to Contact Us
 
-Should you have comments or questions about this Privacy Statement, you may e-mail us at: [privacy@sas.com](mailto:%20privacy@sas.com). You may also contact us via postal mail at the following address:
+Should you have comments or questions about this Privacy Statement, you may e-mail us at: privacy@sas.com. You may also contact us via postal mail at the following address:
 
 SAS Institute Inc.  
 SAS Campus Drive  
