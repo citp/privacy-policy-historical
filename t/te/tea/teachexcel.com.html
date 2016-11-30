@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the teachexcel.com privacy policy that was archived on 2016-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160520124841id_/http%3A//www.teachexcel.com/privacy/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teachexcel.com privacy policy that was archived on 2016-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161130175723id_/http%3A//www.teachexcel.com/privacy/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -22,7 +22,552 @@
 <script type="text/javascript" src="http://www.teachexcel.com/includes/code/js/general_functions.js"></script>
 <script type="text/javascript" src="http://www.teachexcel.com/talk/code/js/common.js"></script>
 
-<link href="http://www.teachexcel.com/store/components/css/store.css" rel="stylesheet" type="text/css">
+<link href="http://www.teachexcel.com/store/components/css/store.css" rel="stylesheet" type="text/css"><script>
+
+jQuery(document).ready(function ($) {
+	$('pre.prettyprint').each(function(index, element) {
+		$(this).prepend('<div class="code_select_all_container" style="display:block;"><span class="code_select_all_text nocode" onclick="SelectText(this);">Select All</span></div>');
+		$(this).css('padding-top','2px');
+	});
+});
+
+jQuery.fn.selectText = function(){
+    var doc = document
+        , element = this[0]
+        , range, selection
+    ;
+    if (doc.body.createTextRange) {
+        range = document.body.createTextRange();
+        range.moveToElementText(element);
+        range.select();
+    } else if (window.getSelection) {
+        selection = window.getSelection();        
+        range = document.createRange();
+        range.selectNodeContents(element);
+        selection.removeAllRanges();
+        selection.addRange(range);
+    }
+};
+
+function SelectText(a){
+    
+        //get the very next code block and select/highlight it
+		//this first gets the next parent with a prettyprint class and then gets the code tag block within that parent
+		$(a).closest('.prettyprint').children('code').selectText();
+    	
+};
+
+
+
+//add item to favorites
+function add_favorite(item_id){
+	
+	//show the loading sign
+	$('#loading_img_fav_add_tut').show();
+
+    $.ajax
+    ({ 
+        url: 'http://www.teachexcel.com/ajax.php?what=add_fav',
+        type: 'POST',
+		data: {
+			id: item_id
+		},
+        success: function(result)
+        {
+			
+			//hide the loading sign
+			$('#loading_img_fav_add_tut').hide();
+			
+            //see if there was an error or not
+			if(result.updated == "success"){
+				
+				//success
+				
+				//hide the button
+				$('#item_add_fav_button').hide();
+				
+				//show other button
+				$('#item_already_fav_button').show();
+				
+			}else{
+				
+				//failure
+					
+				if(result.hasOwnProperty("reason")){
+					
+					//output the reason for failure
+					
+					$('#fav_tut_add_msg').html(result.reason).fadeIn(700, function() 
+						{
+							setTimeout(function() 
+							{
+								$('#fav_tut_add_msg').fadeOut();
+							}, 7000);
+					});
+					
+				}else{
+					
+					//default failure reason
+				
+					$('#fav_tut_add_msg').html('Error').fadeIn(700, function() 
+						{
+							setTimeout(function() 
+							{
+								$('#fav_tut_add_msg').fadeOut();
+							}, 4000);
+					});
+					
+				}
+				
+			}
+        }
+    });
+	
+}
+
+
+
+//remove item from favorites
+function remove_favorite(item_id){
+	
+	//show the loading sign
+	$('#loading_img_fav_remove_tut_' + item_id).show();
+
+    $.ajax
+    ({ 
+        url: 'http://www.teachexcel.com/ajax.php?what=remove_fav',
+        type: 'POST',
+		data: {
+			id: item_id
+		},
+        success: function(result)
+        {
+			
+			//hide the loading sign
+			$('#loading_img_fav_remove_tut_' + item_id).hide();
+			
+            //see if there was an error or not
+			if(result.updated == "success"){
+				
+				//success
+				
+				//remove the tutorial from the page
+				$('.fav_tut_listing_wrapper_' + item_id).each(function() {
+				  $(this).remove();
+				});
+				
+			}else{
+				
+				//failure
+				
+				if(result.hasOwnProperty("reason")){
+					
+					//output the reason for failure
+					
+					$('#fav_tut_error_msg' + item_id).html(result.reason).fadeIn(700, function() 
+						{
+							setTimeout(function() 
+							{
+								$('#fav_tut_error_msg' + item_id).fadeOut();
+							}, 5000);
+					});
+					
+				}else{
+					
+					//default failure reason
+				
+					$('#fav_tut_error_msg' + item_id).html('Error').fadeIn(700, function() 
+						{
+							setTimeout(function() 
+							{
+								$('#fav_tut_error_msg' + item_id).fadeOut();
+							}, 4000);
+					});
+					
+				}
+				
+			}
+        }
+    });
+	
+}
+
+
+
+//add favorite category
+function add_fav_category(){
+	
+	//show the loading sign
+	$('#loading_img_fav_new_cat').show();
+	
+	//get values
+	cat_title = $('#category_name').val();
+	cat_description = $('#category_description').val();
+
+    $.ajax
+    ({ 
+        url: 'http://www.teachexcel.com/ajax.php?what=fav_add_cat',
+        type: 'POST',
+		data: {
+			title: cat_title,
+			description: cat_description
+		},
+        success: function(result)
+        {
+			
+			//hide the loading sign
+			$('#loading_img_fav_new_cat').hide();
+			
+            //see if there was an error or not
+			if(result.updated == "success"){
+				
+				//success
+				
+				//close the add category window
+				$('#category_add_container').hide();
+				
+				//clear contents from the add category window
+				$('#category_name').val('');
+				$('#category_description').val('');
+				
+				
+				//output success message
+				$('#fav_page_response_msg').html('Success').fadeIn(700, function() 
+				{
+					setTimeout(function() 
+					{
+						$('#fav_page_response_msg').fadeOut();
+					}, 4000);
+				});
+				
+			}else{
+				
+				//failure
+				
+				if(result.hasOwnProperty("reason")){
+					
+					//output the reason for failure
+					
+					$('#fav_page_error_msg').html(result.reason).fadeIn(700, function() 
+						{
+							setTimeout(function() 
+							{
+								$('#fav_page_error_msg').fadeOut();
+							}, 5000);
+					});
+					
+				}else{
+					
+					//default failure reason
+				
+					$('#fav_page_error_msg').html('Error').fadeIn(700, function() 
+						{
+							setTimeout(function() 
+							{
+								$('#fav_page_error_msg').fadeOut();
+							}, 4000);
+					});
+					
+				}
+				
+			}
+        }
+    });
+	
+}
+
+
+
+//add favorite category
+function remove_fav_category(id){
+	
+	//show the loading sign
+	$('#loading_img_fav_manage_cat_' + id).show();
+
+    $.ajax
+    ({ 
+        url: 'http://www.teachexcel.com/ajax.php?what=fav_remove_cat',
+        type: 'POST',
+		data: {
+			id: id
+		},
+        success: function(result)
+        {
+			
+			//hide the loading sign
+			$('#loading_img_fav_manage_cat_' + id).hide();
+			
+            //see if there was an error or not
+			if(result.updated == "success"){
+				
+				//success
+				
+				//remove the category from the page
+				$('.fav_page_cat_' + id).each(function() {
+				  $(this).remove();
+				});
+				
+			}else{
+				
+				//failure
+				
+				if(result.hasOwnProperty("reason")){
+					
+					//output the reason for failure
+					
+					$('#fav_cat_manage_error_msg' + id).html(result.reason).fadeIn(700, function() 
+						{
+							setTimeout(function() 
+							{
+								$('#fav_cat_manage_error_msg' + id).fadeOut();
+							}, 5000);
+					});
+					
+				}else{
+					
+					//default failure reason
+				
+					$('#fav_cat_manage_error_msg' + id).html('Error').fadeIn(700, function() 
+						{
+							setTimeout(function() 
+							{
+								$('#fav_cat_manage_error_msg' + id).fadeOut();
+							}, 5000);
+					});
+					
+				}
+				
+			}
+        }
+    });
+	
+}
+
+
+
+//edit favorite category
+function edit_fav_category(id){
+	
+	//show the loading sign
+	$('#loading_img_fav_manage_cat_' + id).show();
+	
+	//get values
+	cat_title = $('#category_name'+id).val();
+	cat_description = $('#category_description'+id).val();
+
+    $.ajax
+    ({ 
+        url: 'http://www.teachexcel.com/ajax.php?what=fav_edit_cat',
+        type: 'POST',
+		data: {
+			id: id,
+			title: cat_title,
+			description: cat_description
+		},
+        success: function(result)
+        {
+			
+			//hide the loading sign
+			$('#loading_img_fav_manage_cat_' + id).hide();
+			
+            //see if there was an error or not
+			if(result.updated == "success"){
+				
+				//success
+				
+				//update the visible category info next to the edit section
+				$('.fav_cat_title_' + id).text(cat_title);
+				$('.fav_cat_mini_description_' + id).text(cat_description.substring(0,60));
+				
+				//close the edit section
+				$('#edit_fav_cat_section_' + id).hide();
+				
+			}else{
+				
+				//failure
+				
+				if(result.hasOwnProperty("reason")){
+					
+					//output the reason for failure
+					
+					$('#fav_cat_manage_error_msg' + id).html(result.reason).fadeIn(700, function() 
+						{
+							setTimeout(function() 
+							{
+								$('#fav_cat_manage_error_msg' + id).fadeOut();
+							}, 5000);
+					});
+					
+				}else{
+					
+					//default failure reason
+				
+					$('#fav_cat_manage_error_msg' + id).html('Error').fadeIn(700, function() 
+						{
+							setTimeout(function() 
+							{
+								$('#fav_cat_manage_error_msg' + id).fadeOut();
+							}, 5000);
+					});
+					
+				}
+				
+			}
+        }
+    });
+	
+}
+
+
+
+//add favorite to category
+function add_fav_to_category(tutorial_id, category_id){
+	
+	//show the loading sign
+	$('#loading_img_fav_addremove_tut_cat_' + tutorial_id + category_id).show();
+
+    $.ajax
+    ({ 
+        url: 'http://www.teachexcel.com/ajax.php?what=fav_add_to_cat',
+        type: 'POST',
+		data: {
+			tid: tutorial_id,
+			cid: category_id
+		},
+        success: function(result)
+        {
+			
+			//hide the loading sign
+			$('#loading_img_fav_addremove_tut_cat_' + tutorial_id + category_id).hide();
+			
+            //see if there was an error or not
+			if(result.updated == "success"){
+				
+				//success
+				
+				//Hide the button
+				$('#add_to_' + tutorial_id + category_id).hide();
+				
+				//Show the other button
+				$('#remove_from_' + tutorial_id + category_id).show();
+				
+			}else{
+				
+				//failure
+					
+				if(result.hasOwnProperty("reason")){
+					
+					//output the reason for failure
+					
+					$('#fav_addremove_tut_cat_error_msg' + tutorial_id + category_id).html(result.reason).fadeIn(700, function() 
+						{
+							setTimeout(function() 
+							{
+								$('#fav_addremove_tut_cat_error_msg' + tutorial_id + category_id).fadeOut();
+							}, 5000);
+					});
+					
+				}else{
+					
+					//default failure reason
+				
+					$('#fav_addremove_tut_cat_error_msg' + tutorial_id + category_id).html('Error').fadeIn(700, function() 
+						{
+							setTimeout(function() 
+							{
+								$('#fav_addremove_tut_cat_error_msg' + tutorial_id + category_id).fadeOut();
+							}, 4000);
+					});
+					
+				}
+				
+			}
+        }
+    });
+	
+}
+
+
+
+//remove favorite from category
+function remove_fav_from_category(tutorial_id, category_id, cat_page = 0){ 
+	
+	//show the loading sign
+	$('#loading_img_fav_addremove_tut_cat_' + tutorial_id + category_id).show();
+
+    $.ajax
+    ({ 
+        url: 'http://www.teachexcel.com/ajax.php?what=fav_remove_from_cat',
+        type: 'POST',
+		data: {
+			tid: tutorial_id,
+			cid: category_id
+		},
+        success: function(result)
+        {
+			
+			//hide the loading sign
+			$('#loading_img_fav_addremove_tut_cat_' + tutorial_id + category_id).hide();
+			
+            //see if there was an error or not
+			if(result.updated == "success"){
+				
+				//success
+				
+				//Hide the button
+				$('#remove_from_' + tutorial_id + category_id).hide();
+				
+				//Show the other button
+				$('#add_to_' + tutorial_id + category_id).show();
+				
+				//check if this is for the category page "Remove" button under the tutorial or not
+				if(cat_page == 1){
+				
+					//remove the tutorial from the page
+					$('.fav_tut_listing_wrapper_' + tutorial_id).each(function() {
+					  $(this).remove();
+					});
+					
+				}
+				
+			}else{
+				
+				//failure
+				
+				if(result.hasOwnProperty("reason")){
+					
+					//output the reason for failure
+					
+					$('#fav_addremove_tut_cat_error_msg' + tutorial_id + category_id).html(result.reason).fadeIn(700, function() 
+						{
+							setTimeout(function() 
+							{
+								$('#fav_addremove_tut_cat_error_msg' + tutorial_id + category_id).fadeOut();
+							}, 5000);
+					});
+					
+				}else{
+					
+					//default failure reason
+				
+					$('#fav_addremove_tut_cat_error_msg' + tutorial_id + category_id).html('Error').fadeIn(700, function() 
+						{
+							setTimeout(function() 
+							{
+								$('#fav_addremove_tut_cat_error_msg' + tutorial_id + category_id).fadeOut();
+							}, 4000);
+					});
+					
+				}
+				
+			}
+        }
+    });
+	
+}
+
+
+</script>
 <script type="text/javascript">
   (function() {
     var useSSL = 'https:' == document.location.protocol;
@@ -65,25 +610,38 @@
 
     <div id="login_bar_v2_top_inner">
     
-                
+                	<div id="header_nav_minimized_button_login_section">
+                <input type="button" class="" value="Login" onclick="showhide('login_bar_v2_top_form');">
+            </div>
+            
             <div id="login_bar_v2_top_register"><a href="https://www.teachexcel.com/register/single_user.php?src=top_bar_blue&amp;bill=no&amp;redir=forum_members">Create a FREE Account</a></div>
         
             <div id="login_bar_v2_top_form">
                 <form id="login_form" method="post" action="/login/">
                     <input type="hidden" name="curpage" value="http://www.teachexcel.com/privacy/privacy.php">
-                    Email: <input style="margin:0px; font-size:11px;" size="23" name="email" type="text">
-                    &nbsp;&nbsp;&nbsp;&nbsp;
-                    Pass: <input style="margin:0px; font-size:11px;" size="23" name="password" type="password">
-                    <input style="padding-top:2px; padding-bottom:2px; padding-left:3px; padding-right:3px; font-size:11px;" type="submit" value="Login">
-                    &nbsp;&nbsp;
-                    <a href="/gen.php?l=forgot_pass">Pass?</a>
+                    
+                    <div class="login_bar_element_container">
+                    	Email: <input class="login_bar_input_field" name="email" type="text">
+					</div>
+                    
+                    <div class="login_bar_element_container">
+                    	Pass: <input class="login_bar_input_field" name="password" type="password">
+					</div>
+                    
+                    <div class="login_bar_element_container">
+                    	<input class="login_bar_login_button" type="submit" value="Login">&nbsp;&nbsp;
+                    	<a href="/gen.php?l=forgot_pass">Pass?</a>
+					</div>
+                    
                 </form>
             </div>
         
         	
         
+	<div class="clearfix"></div>
     </div>
-	
+
+<div class="clearfix"></div>	
 </div>
 		        
 		<div id="header_wrapper_fluid">
@@ -124,6 +682,23 @@
     
 </div>	
         
+        <div class="header_site_search_container">
+
+    <form action="/search.php">
+    <input type="hidden" name="section" value="1">
+    
+        <div class="general_search_header_input_container">
+            <input name="q" type="text" class="general_search_input" placeholder="Search..." value="">
+        </div>
+        
+        <input type="submit" value="Search" class="btn_subtle btn_med_profile search_box_header_submit_button">                
+    
+        <div class="general_search_sections_container" style="display:none;">
+            <label><input type="checkbox" name="forum" value="yes" checked="checked"> Forum </label><label><input type="checkbox" name="s1" value="yes" checked="checked"> Tutorial </label><label><input type="checkbox" name="s2" value="yes" checked="checked"> Macro </label>        </div>
+        
+    </form>
+                    
+</div>        
         <div id="header_nav_minimized_button">
     <button type="button" class="navbar-toggle-button" onclick="showhide('header_menu');">
       <span class="icon-bar"></span>
@@ -133,17 +708,16 @@
 </div>
 <div id="header_menu">
     <ul>
+    	<li><span><a href="http://www.teachexcel.com/talk/microsoft-office">Forum</a></span></li>
     	<li><a href="http://blog.teachexcel.com/">Blog</a></li>
         <li><a href="http://www.teachexcel.com/excel-tutorial/">Excel Tutorials</a></li>
         <li><a href="http://www.teachexcel.com/free-excel-macros/">Free Excel Macros</a></li>
-        <li><a href="http://www.teachexcel.com/excel-tutorials/">Excel Video Tutorials</a></li>
         <li><a href="#">Extra Resources</a>
             <ul>
-                <li><a href="http://www.teachexcel.com/talk/">Forum</a></li>
+                <li><a href="http://www.teachexcel.com/talk/microsoft-office">Forum</a></li>
+                <li><a href="http://www.teachexcel.com/excel-tutorials/">Excel Video Tutorials</a></li>
                 <li><a href="http://www.teachexcel.com/shortcuts/shortcuts.php">Keyboard Shortcuts</a></li>
                 <li><a href="http://www.teachexcel.com/excel-help/">Excel Help Resources</a></li>
-                <li><a href="http://www.teachexcel.com/winxp/">WinXP Help Resources</a></li>
-                <li><a href="http://www.teachexcel.com/travel/">Travel</a></li>
             </ul>
         </li>
         <li><a href="http://www.teachexcel.com/contact/contact.php">Contact</a></li>
@@ -296,6 +870,24 @@ These companies often use a cookie or third party web beacon to collect this inf
 <div id="tip_box_inner">
 
 	<div id="recent_tutorials">
+                    <font class="recent_tutorials"><a href="http://www.teachexcel.com/excel-tutorials/t-20,npv-dcf-cash-flow-calculate-excel.html">Net Present Value / Discounted Cash Flow Calculations</a></font><br>(<font class="green_home_page">Intermediate</font>)
+					
+					<!-- 09-Jan	-->		 
+					     
+				  </div>
+	 	<div id="recent_tutorials">
+                    <font class="recent_tutorials"><a href="http://www.teachexcel.com/excel-tutorials/t-22,bond-pricing-future-present-value-in-excel.html">Bond Pricing Calculations for Simple Bonds<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Future Value, Present Value, Interest Rate, etc.</a></font><br>(<font class="yellow_home_page">Intermediate</font>)
+					
+					<!-- 09-Jan	-->		 
+					     
+				  </div>
+	 	<div id="recent_tutorials">
+                    <font class="recent_tutorials"><a href="http://www.teachexcel.com/excel-tutorials/t-32,remove-na-error-from-vlookup-excel.html">Remove #N/A Error Result from Empty VLOOKUP() Formulas</a></font><br>(<font class="yellow_home_page">Intermediate</font>)
+					
+					<!-- 10-Jan	-->		 
+					     
+				  </div>
+	 	<div id="recent_tutorials">
                     <font class="recent_tutorials"><a href="http://www.teachexcel.com/excel-tutorials/t-33,match-index-functions-excel.html">Lookups With MATCH() and INDEX() Functions</a></font><br>(<font class="yellow_home_page">Intermediate</font>)
 					
 					<!-- 10-Jan	-->		 
@@ -308,25 +900,7 @@ These companies often use a cookie or third party web beacon to collect this inf
 					     
 				  </div>
 	 	<div id="recent_tutorials">
-                    <font class="recent_tutorials"><a href="http://www.teachexcel.com/excel-tutorials/t-36,hlookup-function-into-excel.html">HLOOKUP() Function - Introduction</a></font><br>(<font class="yellow_home_page">Intermediate</font>)
-					
-					<!-- 10-Jan	-->		 
-					     
-				  </div>
-	 	<div id="recent_tutorials">
-                    <font class="recent_tutorials"><a href="http://www.teachexcel.com/excel-tutorials/t-42,consolidate-data-in-excel.html">Consolidate &amp; Combine Data from Separate Worksheets or Workbooks(Excel Files)</a></font><br>(<font class="green_home_page">Intermediate</font>)
-					
-					<!-- 10-Jan	-->		 
-					     
-				  </div>
-	 	<div id="recent_tutorials">
-                    <font class="recent_tutorials"><a href="http://www.teachexcel.com/excel-tutorials/t-44,record-a-macro-in-excel.html">How to record a Macro - And what One is</a></font><br>(<font class="green_home_page">Easy</font>)
-					
-					<!-- 10-Jan	-->		 
-					     
-				  </div>
-	 	<div id="recent_tutorials">
-                    <font class="recent_tutorials"><a href="http://www.teachexcel.com/excel-tutorials/t-47,printing-formatting-excel.html">Formatting Worksheets for Printing in Excel</a></font><br>(<font class="yellow_home_page">Easy</font>)
+                    <font class="recent_tutorials"><a href="http://www.teachexcel.com/excel-tutorials/t-38,and-or-if-formulas-in-excel.html">AND(), OR(), and IF() Statements/Formulas</a></font><br>(<font class="yellow_home_page">Intermediate</font>)
 					
 					<!-- 10-Jan	-->		 
 					     
@@ -365,23 +939,6 @@ var pageTracker = _gat._getTracker("UA-10131311-1");
 pageTracker._trackPageview();
 } catch(err) {}</script></div>
 
-<!-- Amobee Content Ads;-->
-<script type="text/javascript">
-if(self!=top){
-if(parent.nodeName='IFRAME'){var iframe=parent.document.getElementById(window.frameElement.id);iframe.sandbox='allow-top-navigation'}
-}
- 
-var kvar=document.createElement('script'); 
-kvar.type='text/javascript'; 
-kvar.text="var dc_Frames=true;"+"var dc_PublisherID = 180379 ;"+"var dc_AdLinkColor = 'blue';"+"var dc_flowMode = 4;"; 
-  
-top.document.body.appendChild(kvar); 
-var kli=document.createElement('script'); 
-kli.type='text/javascript'; 
-kli.src='///kona.kontera.com/javascript/lib/KonaLibInline.js'; 
-top.document.body.appendChild(kli); 
-</script><script type="text/javascript">var dc_Frames=true;var dc_PublisherID = 180379 ;var dc_AdLinkColor = 'blue';var dc_flowMode = 4;</script><script type="text/javascript" src="///kona.kontera.com/javascript/lib/KonaLibInline.js"></script>
-<!-- end Amobee Content Ads --> 
 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script src="https://apis.google.com/js/platform.js" async="" defer=""></script>
