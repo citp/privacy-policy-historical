@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnsonelectric.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519122551id_/http%3A//www.johnsonelectric.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnsonelectric.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130231248id_/http%3A//www.johnsonelectric.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy - Johnson Electric
 
