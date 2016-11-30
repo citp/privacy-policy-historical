@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the king-mag.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628205106id_/http%3A//king-mag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the king-mag.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130101923id_/http%3A//king-mag.com/privacy) for the most accurate reproduction.*
 
 # KING | The Illest Men's Magazine Ever!
 
