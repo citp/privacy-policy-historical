@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ytdownloader.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424043703id_/http%3A//ytdownloader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ytdownloader.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130085957id_/http%3A//ytdownloader.com/privacy-policy) for the most accurate reproduction.*
 
 # YTDownloader - Privacy Policy
 
