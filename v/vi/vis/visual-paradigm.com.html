@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the visual-paradigm.com privacy policy that was archived on 2016-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160507022426id_/https%3A//www.visual-paradigm.com/aboutus/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the visual-paradigm.com privacy policy that was archived on 2016-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161130092841id_/https%3A//www.visual-paradigm.com/aboutus/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<title>Privacy Statement of Visual Paradigm</title>
@@ -7,13 +7,13 @@
 	<meta name="keywords" content="uml tools,uml case tool,free uml,uml tools download,eclipse uml plug in,netbeans uml plugin,object relational mapping tools,uml tools for linux,java uml,.net uml,c++ uml,c# uml,uml diagrams,class diagram,sequence diagram,textual analysis,crc cards,organization policy,statement of practices,accuracy of personal data,retention of personal data,disclosure of personal data">
 	<meta name="robots" content="all">
 	<meta http-equiv="imagetoolbar" content="false">
-<link rel="stylesheet" href="/pageres/312/vp2009.css">
+<link rel="stylesheet" href="/pageres/331/vp2009.css">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700">
-<link rel="stylesheet" href="/pageres/312/aboutus.css">
+<link rel="stylesheet" href="/pageres/331/aboutus.css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=003804233899660490967:di3myyv14jk"></script><script type="text/javascript" src="/script/jquery-1.8.3.min.js"></script>
-<script type="text/javascript" src="/pageres/toolbar_312.js"></script>
-<script type="text/javascript" src="/pageres/jquery.extends_312.js"></script>
-<script type="text/javascript" src="/pageres/utils_312.js"></script>
+<script type="text/javascript" src="/pageres/toolbar_331.js"></script>
+<script type="text/javascript" src="/pageres/jquery.extends_331.js"></script>
+<script type="text/javascript" src="/pageres/utils_331.js"></script>
 </head>
 <body class="style5">
 	<div class="section-header">
@@ -26,14 +26,37 @@
 <li><a class="pm-support headerItem" href="/support/">Support</a></li>
 <li><a class="pm-pricing headerItem" href="/shop/">Pricing</a></li>
 <li><a class="pm-try headerItem" href="/download/">Try Now</a></li>
-<li class="menu-item-search-dummy">
+<li><a class="pm-request headerItem" href="/demo/request.jsp">Request Demo</a></li>
+<li style="position: relative;">
+			<span class="search-icon">Search</span>
+			<div class="search-box">
 <script>
+	var hideSearchBoxTimer = null;
   (function() {
 	  window.__gcse = {
 			  callback: function() {
-				  setTimeout(function() {
-				  	$(".menu-item-search-dummy").removeClass("menu-item-search-dummy");
-				  }, 300);
+					$(".search-icon").click(function() {
+						$(".search-box").addClass("search-box-shown");
+						$("#header input.gsc-input").focus();
+					});
+					$("#header input.gsc-input").focus(function() {
+						if (hideSearchBoxTimer!=null) {
+							clearTimeout(hideSearchBoxTimer);
+							hideSearchBoxTimer = null;
+						}
+					})
+					$("#header input.gsc-input").blur(function() {
+						hideSearchBoxTimer = setTimeout(function() { 
+							$(".search-box").removeClass("search-box-shown"); 
+							hideSearchBoxTimer = null; 
+						}, 250);
+					});
+					if ($.browser.chrome || $.browser.webkit) {
+						$(window).resize(function() {
+							$("body > table.gssb_c").css({'margin-left': 725});
+						});
+						$(window).resize();
+					}
 			  }
 	  };
     var cx = '003804233899660490967:di3myyv14jk';
@@ -47,6 +70,7 @@
   })();
 </script>
 <gcse:searchbox-only resultsurl="/search/" enablehistory="true"></gcse:searchbox-only>
+			</div>
 		</li>
 	</ul>
 </div>
@@ -197,6 +221,7 @@
 			</li><li><a href="/download/">Try Now</a>
 		</li></ul>
 		<ul>
+			<li><a href="/support/documents/">Documentations</a></li>
 			<li><a href="/solution/">Solutions</a></li>
 			<li><a href="/aboutus/contactus.jsp">Contact us</a></li>
 		</ul>
