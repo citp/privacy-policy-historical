@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxing.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319001517id_/http%3A//www.boxing.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxing.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130035416id_/http%3A//www.boxing.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy and Terms of Use
 
