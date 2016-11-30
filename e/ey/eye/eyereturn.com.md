@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eyereturn.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315150900id_/http%3A//eyereturnmarketing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyereturn.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130155716id_/http%3A//eyereturnmarketing.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy And Opt Out | Eyereturn Marketing
+# Privacy Policy And Opt Out - Eyereturn Marketing
 
 Our commitment to privacy: Eyereturn Marketing Inc. (“Eyereturn”), understands that protecting the privacy and confidentiality of your information is important to you. This Privacy Code governs the collection, use and disclosure of your information in any form, whether written or electronic, by Eyereturn. This Privacy Code explains what information may be collected from you and how it is used. It also explains how you can ask questions, make suggestions, and express concerns about our privacy practices.
 
@@ -37,6 +37,10 @@ We may track and analyze Non-PII usage and browsing patterns of visitors to cus
 **Statistical IDs**
 
 Statistical IDs are created via an algorithm using non-personally identifiable and pseudonymous information about a computer or device. The information used may include the operating system, user-agent string, Web browser, approximate location, installed fonts, and similar information. This information makes your computer or device distinct enough for our systems to determine within a reasonable probability that they are encountering the same computer or device. These IDs are not used to target advertisements, and are only used for campaign analytics and reporting purposes.  It should be noted that browser controls do not affect statistical IDs. Statistical IDs rapidly become obsolete, and generally lose their linkage to a distinct device in less than one month.
+
+**Third Party Data**
+
+We may receive information about consumers from third parties to enable targeted advertising on the website(s) and application(s) that we support. The collection and use of that data is governed by the privacy policy and legal terms of the data collector and the website using the data; it is not governed by Eyereturn Marketing.
 
 ### SENSITIVE INFORMATION
 
