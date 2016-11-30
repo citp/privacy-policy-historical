@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the informa.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223045154id_/http%3A//www.informa.com/Generic-content/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informa.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130150319id_/http%3A//informa.com/generic-content/privacy-policy) for the most accurate reproduction.*
 
 # Informa.com - Privacy Policy
 
-  * [Terms & Conditions](https://web.archive.org/generic-content/terms-conditions/)
+  * [Terms & Conditions](https://web.archive.org/generic-content/terms--conditions/)
   * [Privacy Policy](https://web.archive.org/generic-content/privacy-policy/)
   * [Accessibility](https://web.archive.org/generic-content/accessibility/)
 
@@ -46,11 +46,11 @@ You can find out more about the use of cookies and how you can remove them by go
 
 **Hyperlinks**
 
-This Website contains links to other websites, including without limitation those websites of companies within the Informa plc which form part of the Academic & Scientific, Professional and Commercial Divisions. Their inclusion cannot be taken to imply any endorsement or validation by us of the content of the said websites. Informa plc is not responsible for the privacy practices, nor do we accept any liability in connection with the content of such websites including those of our group companies which have their own privacy policies tailored for the particular business practices and sectors in which they operate.
+This Website contains links to other websites, including without limitation those websites of companies within the Informa PLC which form part of the Academic & Scientific, Professional and Commercial Divisions. Their inclusion cannot be taken to imply any endorsement or validation by us of the content of the said websites. Informa PLC is not responsible for the privacy practices, nor do we accept any liability in connection with the content of such websites including those of our group companies which have their own privacy policies tailored for the particular business practices and sectors in which they operate.
 
 **Changes/Updates to Privacy Policy**
 
-In order to keep up with changing legislation and best practice, we may revise this Privacy Policy at any time without notice so please check back periodically so that you are aware of any changes. This Privacy Policy should be read in conjunction with and is subject to our Terms ([Click here to view the Terms & Conditions](https://web.archive.org/generic-content/terms-conditions/ "Terms & conditions")).
+In order to keep up with changing legislation and best practice, we may revise this Privacy Policy at any time without notice so please check back periodically so that you are aware of any changes. This Privacy Policy should be read in conjunction with and is subject to our Terms ([Click here to view the Terms & Conditions](https://web.archive.org/generic-content/terms--conditions/ "Terms & conditions")).
 
 **Contact Us**
 
