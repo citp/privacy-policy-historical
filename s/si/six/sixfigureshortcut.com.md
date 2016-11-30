@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixfigureshortcut.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515223924id_/http%3A//www.jamesfrancis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixfigureshortcut.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130031715id_/http%3A//www.jamesfrancis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Information Marketing Blog - By James Francis
 
