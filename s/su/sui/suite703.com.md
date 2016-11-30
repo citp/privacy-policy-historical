@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suite703.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606094541id_/http%3A//www.suite703.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suite703.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130213136id_/http%3A//www.suite703.com/privacypolicy.html) for the most accurate reproduction.*
 
 # None
 
