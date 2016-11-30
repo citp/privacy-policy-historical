@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emulator-zone.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410061839id_/http%3A//www.emulator-zone.com/doc.php/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emulator-zone.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130093756id_/http%3A//www.emulator-zone.com/doc.php/privacy.html) for the most accurate reproduction.*
 
 # The Emulator Zone - Privacy Statement
 
