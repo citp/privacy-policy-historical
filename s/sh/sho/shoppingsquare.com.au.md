@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shoppingsquare.com.au privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612202021id_/http%3A//www.shoppingsquare.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppingsquare.com.au privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130084429id_/http%3A//www.shoppingsquare.com.au/privacy.php) for the most accurate reproduction.*
 
 # Online Shopping @ Shopping Square.COM.AU Online Bargain & Discount Shopping Square
 
-[Home](https://web.archive.org/web/20160612202021id_/http%3A//www.shoppingsquare.com.au/) > Privacy Policy
+[Home](https://web.archive.org/web/20161130084429id_/http%3A//www.shoppingsquare.com.au/) > Privacy Policy
 
 ### Privacy Policy
 
