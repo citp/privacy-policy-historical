@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the sleeptrain.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323205554id_/http%3A//www.sleeptrain.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleeptrain.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130095158id_/http%3A//www.sleeptrain.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Sleep Train
 
 ## Archive
 
+  * [May 6, 2015](http://www.sleeptrain.com/legal-privacy-policy-may-2015.html)
   * [November 20, 2014](http://www.sleeptrain.com/legal-privacy-policy-nov-2014.html)
   * [December 2, 2013](http://www.sleeptrain.com/legal-privacy-policy-02Dec2013.html)
   * [January 22, 2013](http://www.sleeptrain.com/legal-privacy-policy-22Jan13.html)
@@ -18,11 +19,11 @@
 
 [Your California Privacy Rights](http://www.sleeptrain.com/legal-california-privacy-rights.html)
 
-**Last Updated: May 6, 2015**
+**Last Updated: June 16, 2016**
 
-At Sleep Train we are committed to ensuring the privacy of our customers. This privacy policy explains Sleep Train’s privacy practices, including those of our Web site located at www.sleeptrain.com (“Site”), for our customers who purchase our products and services. By using our Site, you consent to the terms of this privacy policy.
+At Sleep Train we are committed to ensuring the privacy of our customers. This privacy policy explains Sleep Train’s privacy practices, including those of our Web site located at www.sleeptrain.com (“Site”), for our customers who purchase our products and services. The Site is owned and operated by The Sleep Train, Inc., a wholly owned subsidiary of Mattress Firm, Inc.  By using our Site, you consent to the terms of this privacy policy
 
-This policy does not apply to the Customer Ratings and Reviews Terms of Use. Please [click here](http://www.sleeptrain.com/bazaarvoice-terms-conditions.html) to access the Customer Ratings and Reviews Terms of Use. 
+This policy does not apply to the Customer Ratings and Reviews Terms of Use. Please [click here](http://www.sleeptrain.com/bazaarvoice-terms-conditions.html) to access the Customer Ratings and Reviews Terms of Use.
 
 **What is Personal Information?**
 
@@ -36,13 +37,13 @@ You provide personal information to us in a number of ways when you visit our Si
 
 **How We Use Personal Information**
 
-In general, we use personal information to process your requests or transactions and provide you with high-quality products and services or to inform you about other products or services we think will be of interest. For example, we use your information to deliver products or provide services you have purchased. When we use personal information in our internal marketing efforts, we provide you with choices (See Choice below) and do not disclose the information to third parties except as described in this privacy policy. We may also receive information from third parties with whom we have business relationships, and will combine this information with the other personal information we maintain about you. In such cases, this privacy policy governs this information.
+In general, we use personal information to process your requests or transactions and provide you with high-quality products and services or to inform you about other products or services we think will be of interest. For example, we use your information to deliver products or provide services you have purchased and to send you marketing communications regarding products, services, surveys and promotions. For example, we may use your personal and non-personal information to: 1) fulfill your requests for products and services; 2) provide you with targeted offers and advertising; 3) contact you with information and promotional materials and offers from Sleep Train as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties; 4) contact you if there is a problem with your order; 5) ask you to review your in-store experience; 6) review Site usage and operations; 7) conduct marketing research and/or analysis in order to optimize our search engine marketing strategies; and 8) verify or supplement your personal information with information from third party sources in order to guard against fraud. When we use personal information in our internal marketing efforts, we provide you with choices (See Choice below) and do not disclose the information to third parties except as described in this privacy policy. We may also receive information from third parties with whom we have business relationships, and will combine this information with the other personal information we maintain about you. In such cases, this privacy policy governs this information.
 
-Pixel tags on our site may be used to collect information about your visit, included the pages you view, the features you use, the links you click, and other actions you take in connection with the site.  This information may include your computer's IP address, your browser type, your operating system, date and time information, and other technical information about your computer.  We may also track certain information about the identity of the website you visited immediately before coming to our site. 
+Pixel tags on our site may be used to collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the site.  This information may include your computer's IP address, your browser type, your operating system, date and time information, and other technical information about your computer.  We may also track certain information about the identity of the website you visited immediately before coming to our site. . 
 
-Pixel tags and cookies in our emails to you may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us.
+Pixel tags and cookies in our emails to you may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us
 
-We also work with business partners that use tracking technologies to deliver advertisements on our behalf across the Internet.  These companies may collect information about your visits to our site and your inter action with our advertising and other communications.
+We also work with business partners that use tracking technologies to deliver advertisements on our behalf across the Internet.  These companies may collect information about your visits to our site and your interaction with our advertising and other communications.
 
 We may combine the information we collect through cookies and pixel tags with other information we have collected from you. This information may be used to improve our website, to personalize your online experience, to help us deliver information to you, to determine the effectiveness of our advertising, and for other internal business purposes.
 
@@ -113,7 +114,7 @@ We have put into place reasonable security measures in an effort to protect pers
 
 **Choice**
 
-We give you the following options to opt-out of receiving communications from us or to request that we correct or delete your personal information: (1) contact our customer service department by phone at 800-919-2337 (2) email us at [customerservice@sleeptrain.com](mailto:customerservice@sleeptrain.com); or (3) write to us at the following address with your request:
+We give you the following options to opt-out of receiving communications from us or to request that we correct or delete your personal information: (1) contact our customer service department by phone at 800-919-2337 (2) email us at [customerservice@sleeptrain.com](mailto:customerservice@sleeptrain.com); or (3) write to us at the following address with your request:
 
 **Sleep Train**  
 Attn: Digital Manager  
@@ -128,4 +129,4 @@ We will periodically modify our Privacy Policy so that it remains relevant and c
 
 **Your Comments or Concerns**
 
-We welcome your feedback. If you have any comments or concerns about this privacy policy or would like to contact us for any reason, you may reach a customer service representative via e-mail at [customerservice@sleeptrain.com](mailto:customerservice@sleeptrain.com) or by phone at 1-800-919-2337.
+We welcome your feedback. If you have any comments or concerns about this privacy policy or would like to contact us for any reason, you may reach a customer service representative via e-mail at [customerservice@sleeptrain.com](mailto:customerservice@sleeptrain.com) or by phone at 1-800-919-2337.
