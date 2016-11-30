@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iheartquizzes.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329094141id_/http%3A//www.iheartquizzes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iheartquizzes.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130081807id_/http%3A//www.iheartquizzes.com/privacy) for the most accurate reproduction.*
 
 # iHeartQuizzes
 
