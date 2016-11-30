@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playingfungames.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418095203id_/http%3A//www.playingfungames.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playingfungames.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130023513id_/http%3A//www.playingfungames.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
