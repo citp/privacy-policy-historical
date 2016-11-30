@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webupd8.org privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319000743id_/http%3A//www.webupd8.org/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webupd8.org privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130074653id_/http%3A//www.webupd8.org/p/privacy.html) for the most accurate reproduction.*
 
 # Web Upd8: Ubuntu / Linux blog: Privacy
 
