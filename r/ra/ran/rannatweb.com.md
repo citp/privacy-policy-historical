@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rannatweb.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503055951id_/http%3A//www.rannatweb.com/poly/%3Fgoto%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rannatweb.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130101247id_/http%3A//www.rannatweb.com/poly/%3Fgoto%3Dpolicy) for the most accurate reproduction.*
 
 # ثيمات موبايل - برامج موبايل - ثيمات نوكيا - ألعاب موبايل - افلام بلوتوث - mp3 نغمات جوال - رنات موبايل - رنات
 
