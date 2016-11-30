@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iup.edu privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616210946id_/http%3A//www.iup.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iup.edu privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130205751id_/http%3A//www.iup.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Privacy - Indiana University of Pennsylvania
 
@@ -18,17 +18,17 @@ You have the ability to accept or decline cookies by modifying the settings on y
 
 ## Using our Search Engine
 
-Our search engine is powered by a piece of hardware supplied by Google (a Google Mini). The Google hardware indexes our site using the same algorithms used by google.com. All search requests on our main website are handled by the Google Mini, and no search information is passed to any third party (including Google).
+Our search engine is powered by Google Custom Search. In order for this search engine to work, search information is passed to Google.
 
-## Find People/On-Line Directory Service
+## Find People/OnLine Directory Service
 
-Our [on-line directory service](http://search.people.iup.edu/ "Find People") provides only personal information that has been authorized by those listed.
+Our [online directory service](http://search.people.iup.edu/ "Find People") provides only personal information that has been authorized by those listed.
 
-At your request, your address information can be changed, restricted, or removed from the on-line directory. Employees should contact the [Office of Human Resources](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=197983&libID=198000 "Human Resources"); students can change their information by [logging into URSA](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=195450&libID=195467 "URSA").
+At your request, your address information can be changed, restricted, or removed from the on-line directory. Employees should contact the [Office of Human Resources](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=197983&libID=198000 "Human Resources"); students can change their information by [logging into MyIUP](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=195450&libID=195467 "URSA").
 
 ## On-Line Forms
 
-Information entered into on-line forms on this website (aside from search forms) may be delivered to its recipients by e-mail. E-mail is not a secure form of communication, and it is possible, though unlikely, that your information could be intercepted and read by a third party while in transit.
+Information entered into online forms on this website (aside from search forms) may be delivered to its recipients by e-mail. E-mail is not a secure form of communication, and it is possible, though unlikely, that your information could be intercepted and read by a third party while in transit.
 
 If you do not feel comfortable with the possibility of your information being intercepted by a third party, please feel free to contact the appropriate office by mail or by phone. Contact information is provided at the bottom of every page on the site.
 
