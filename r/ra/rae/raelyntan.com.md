@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the raelyntan.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601161907id_/http%3A//raelyntan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raelyntan.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130223538id_/http%3A//raelyntan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The following Privacy Policy governs the online information collection practices of RAELYN TAN, INC. “COMPANY,” “we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the RaelynTan.com website (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
+Effective Date: 13 July 2016
+
+The following Privacy Policy governs the online information collection practices of RT INDUSTRIES, INC. “COMPANY,” “we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the RaelynTan.com website (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
 Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
 
-RaelynTan.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party.
+RaelynTan.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party.
 
 How we gather information from users
 
