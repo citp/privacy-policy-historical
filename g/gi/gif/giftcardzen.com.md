@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftcardzen.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604100517id_/https%3A//giftcardzen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftcardzen.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130054300id_/https%3A//giftcardzen.com/privacy) for the most accurate reproduction.*
 
 # Giftcard Zen - Buy, Sell, and Trade Gift Cards Online
 
@@ -112,7 +112,8 @@ You can contact us about this privacy statement by writing or email us at the ad
 
 Giftcard Zen 
 
-45 W Jefferson St. 
+101 N 1st Ave   
+Ste. 3000 
 
 Phoenix, AZ 85003
 
