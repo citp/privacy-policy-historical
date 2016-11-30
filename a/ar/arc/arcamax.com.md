@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcamax.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612144532id_/http%3A//www.arcamax.com/reference/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcamax.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130190821id_/http%3A//arcamax.com/reference/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Reference | ArcaMax Publishing
 
@@ -15,7 +15,7 @@ ArcaMax Publishing, Inc. is fully compliant with the 2004 Federal "CAN SPAM" act
 
 We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies, please go to <http://www.networkadvertising.org/choices> or <http://aboutads.info/choices>.
 
-Here is a a list of suppliers authorized to place and read cookies on our properties (including websites and emails), as well as information on how to opt-out through their privacy policies.
+Here is a list of suppliers authorized to place and read cookies on our properties (including websites and emails), as well as information on how to opt-out through their privacy policies.
 
 Criteo: The purpose of Criteo’s service is to find visitors to Criteo’s advertising clients’ properties in order to send them personalized emails or serve personalized ads. Criteo uses cookies to single out users and personalize ads from their browsing experience. To learn more or opt out of Criteo display: <http://www.criteo.com/privacy/>. To learn more or opt out of Criteo email: <http://privacy.criteoemail.com/privacy/policy>
 
