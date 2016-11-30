@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the matcotools.com privacy policy that was archived on 2016-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160602072953id_/http%3A//www.matcotools.com/customercare/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the matcotools.com privacy policy that was archived on 2016-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161130190213id_/http%3A//www.matcotools.com/customercare/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head><link type="text/css" rel="stylesheet" href="/javax.faces.resource/theme.css.xhtml?ln=primefaces-aristo"><link type="text/css" rel="stylesheet" href="/javax.faces.resource/css/all.css.xhtml?ln=default"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WBH8SP"></script><script type="text/javascript" src="/javax.faces.resource/jsf.js.xhtml?ln=javax.faces"></script>
 	<title>Privacy Policies | Matco Tools Customer Service</title>
@@ -34,6 +34,9 @@
 	maximum-scale = 1.0 retains dimensions instead of zooming in if page width &lt; device width -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"><script type="text/javascript" src="/javax.faces.resource/js/vendor-standalone/modernizr-2.6.2.min.js.xhtml?ln=default"></script><script type="text/javascript" src="/javax.faces.resource/js/vendor-standalone/jquery-1.11.3.min.js.xhtml?ln=default"></script>
+			<!-- SumoMe initialization -->
+			<script type="text/javascript" src="//load.sumome.com/" data-sumo-site-id="1f7b561b85610fe12365c3dc4a171e3143c258602b79d89c08e5edf0ede511a0" async="async"></script>
+		
 		<!-- iGoDigital PI collect initialization -->
 		<script type="text/javascript" src="//matco.collect.igodigital.com/collect.js"></script>
 	
@@ -46,7 +49,19 @@
 			
 			dataLayer.push({'event': 'standardGatc'});
 			dataLayer.push({'event': 'gaEcommerceDone'});
-		</script><script type="text/javascript" async="" src="//cdn.mouseflow.com/projects/76d3aeb5-f750-4498-bb0f-8d8e24ae708e.js"></script></head>
+		</script>
+		
+		<!--  Clickjacking defense for legacy browsers -->
+		
+		
+		<script type="text/javascript">
+		    if (self === top) {
+		        var antiClickjack = document.getElementById("antiClickjack");
+		        antiClickjack.parentNode.removeChild(antiClickjack);
+		    } else {
+		        top.location = self.location;
+		    }
+		</script></head>
 
 <body class="page-category" id="page_Id">
 		<noscript>
@@ -78,13 +93,13 @@
 							<li id="an-phone"><a href="tel:+1-866-289-8665">866-289-8665</a></li>
 						</ul>
 					</div>
-					<div class="drop-top welcome-account"><i class=" fa fa-user visible-xs-inline"> My Account</i></div>
-					<div id="account-selection" class="col-sm-9 drop-expand">
-						<ul id="account-nav" class="list-unstyled" style="float: none;">
-								<li><a href="/account/login/" class="gradient">Sign In or Create Account</a></li>
-								<li><a class="gradient" href="/catalog/wishlist/">Wish List</a></li>
-						</ul>
-					</div>
+						<div class="drop-top welcome-account"><i class=" fa fa-user visible-xs-inline"> <span>My Account</span></i></div>
+						<div id="account-selection" class="col-sm-9 drop-expand">
+							<ul id="account-nav" class="list-unstyled" style="float: none;">
+									<li><a href="/account/login/" class="gradient">Sign In or Create Account</a></li>
+									<li><a class="gradient" href="/catalog/wishlist/">Wish List</a></li>
+							</ul>
+						</div>
 				</div>
 			</div>
         </div>
@@ -101,48 +116,47 @@
 				<div id="tagline" class="col-md-7 col-sm-10 col-xs-18">
 					Service. <strong>Trust.</strong> Results. <sup>®</sup>
 				</div>
-				<div id="search" class="col-md-5 col-sm-18 col-xs-14 col-xs-offset-2 col-sm-offset-0 search-hide">
-					<form id="catalogSearch" action="/catalog/search/" method="post" data-parsley-validate="data-parsley-validate">
-						<input id="txt-search" type="text" name="searchText">
-				        <div class="submit"><input id="btn-search" type="submit" name="btn-search" value="Search" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" onclick="mojarra.jsfcljs(document.getElementById('null'),{'btn-search':'btn-search','searchText':'searchText'},'');return false">
-			            </div>
-					</form>
-				</div>
+					<div id="search" class="col-md-5 col-sm-18 col-xs-14 col-xs-offset-2 col-sm-offset-0 search-hide">
+						<form id="catalogSearch" action="/catalog/search/" method="post" data-parsley-validate="data-parsley-validate">
+							<input id="txt-search" type="text" name="searchText">
+					        <div class="submit"><input id="btn-search" type="submit" name="btn-search" value="Search" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" onclick="mojarra.jsfcljs(document.getElementById('null'),{'btn-search':'btn-search','searchText':'searchText'},'');return false">
+				            </div>
+						</form>
+					</div>
 			</div>
 		</div>
 	</div>
-
-	<nav class="navbar navbar-default">
-		<div class="container">
-			<div class="pull-right">
-				<button type="button" class="search-icon" data-target="#search"><i class="fa fa-search"></i></button>
+		<nav class="navbar navbar-default">
+			<div class="container">
+				<div class="pull-right">
+					<button type="button" class="search-icon" data-target="#search"><i class="fa fa-search"></i></button>
+				</div>
+				<div class="navbar-header pull-left">
+					
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+						<div>☰ Menu </div>
+	            	</button>
+				</div>
+							
+				<div id="navbar" class="navbar-collapse collapse">
+					
+					<ul class="nav navbar-nav">
+						<li style="visibility:visible !important"><a href="/catalog/">Tool Catalog</a></li>
+						<li style="visibility:visible !important"><a href="/find-a-distributor/">Find Distributor</a></li>
+						<li><a href="http://blog.matcotools.com">Blog</a></li>
+						<li><a href="/tech-ed/">Tech ED</a></li>
+						<li style="visibility:visible !important"><a href="http://www.matcotools.com/franchise/">Own a Franchise</a></li>
+						<li><a href="/catalog/new/">What's New</a></li>
+					</ul>
+					<ul class="nav navbar-nav navbar-right">
+	              		<li id="mn-viewcart" class="empty"><a href="/catalog/shopping-cart/" class="cart-small">
+								<span id="mn-icon">0</span>
+								<span id="mn-txt">Cart</span></a>
+						</li>
+					</ul>
+				</div>
 			</div>
-			<div class="navbar-header pull-left">
-				
-				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-					<div>☰ Menu </div>
-            	</button>
-			</div>
-						
-			<div id="navbar" class="navbar-collapse collapse">
-				
-				<ul class="nav navbar-nav">
-					<li style="visibility:visible !important"><a href="/catalog/">Tool Catalog</a></li>
-					<li style="visibility:visible !important"><a href="/find-a-distributor/">Find Distributor</a></li>
-					<li><a href="http://blog.matcotools.com">Blog</a></li>
-					<li><a href="/tech-ed/">Tech ED</a></li>
-					<li style="visibility:visible !important"><a href="http://www.matcotools.com/franchise/">Own a Franchise</a></li>
-					<li><a href="/catalog/new/">What's New</a></li>
-				</ul>
-				<ul class="nav navbar-nav navbar-right">
-              		<li id="mn-viewcart" class="empty"><a href="/catalog/shopping-cart/" class="cart-small">
-							<span id="mn-icon">0</span>
-							<span id="mn-txt">Cart</span></a>
-					</li>
-				</ul>
-			</div>
-		</div>
-	</nav>
+		</nav>
 
 			<div id="section-header" class="container">
 			</div>
@@ -162,42 +176,42 @@
 			   		<div id="navtog0" class="collapse-load collapse in" aria-expanded="true">
 				   		<ul class="nav nav-pills nav-stacked navtog">
 								<li id="id_1.1">		
-									<!--  rendered=&quot;true&quot;  disabled=&quot;false&quot; --><a id="menuList:0:staticPages:0:j_idt75" name="menuList:0:staticPages:0:j_idt75" href="/customercare/">
+									<!--  rendered=&quot;true&quot;  disabled=&quot;false&quot; --><a id="menuList:0:staticPages:0:j_idt84" name="menuList:0:staticPages:0:j_idt84" href="/customercare/">
 					                		Customer Service Home
 											</a>
 				                </li>
 								<li id="id_1.2">		
-									<!--  rendered=&quot;true&quot;  disabled=&quot;false&quot; --><a id="menuList:0:staticPages:1:j_idt75" name="menuList:0:staticPages:1:j_idt75" href="/customercare/warranty-info/">
+									<!--  rendered=&quot;true&quot;  disabled=&quot;false&quot; --><a id="menuList:0:staticPages:1:j_idt84" name="menuList:0:staticPages:1:j_idt84" href="/customercare/warranty-info/">
 					                		Warranty Info
 											</a>
 				                </li>
 								<li id="id_1.3">		
-									<!--  rendered=&quot;true&quot;  disabled=&quot;false&quot; --><a id="menuList:0:staticPages:2:j_idt75" name="menuList:0:staticPages:2:j_idt75" href="/customercare/product-returns/">
+									<!--  rendered=&quot;true&quot;  disabled=&quot;false&quot; --><a id="menuList:0:staticPages:2:j_idt84" name="menuList:0:staticPages:2:j_idt84" href="/customercare/product-returns/">
 					                		Return Procedure and Policies
 											</a>
 				                </li>
 								<li id="id_1.4" class="active">		
-									<!--  rendered=&quot;true&quot;  disabled=&quot;true&quot; --><a id="menuList:0:staticPages:3:j_idt75" name="menuList:0:staticPages:3:j_idt75" href="/customercare/privacy-policy/">
+									<!--  rendered=&quot;true&quot;  disabled=&quot;true&quot; --><a id="menuList:0:staticPages:3:j_idt84" name="menuList:0:staticPages:3:j_idt84" href="/customercare/privacy-policy/">
 					                		Privacy Policies
 											</a>
 				                </li>
 								<li id="id_1.5">		
-									<!--  rendered=&quot;true&quot;  disabled=&quot;false&quot; --><a id="menuList:0:staticPages:4:j_idt75" name="menuList:0:staticPages:4:j_idt75" href="/customercare/terms/">
+									<!--  rendered=&quot;true&quot;  disabled=&quot;false&quot; --><a id="menuList:0:staticPages:4:j_idt84" name="menuList:0:staticPages:4:j_idt84" href="/customercare/terms/">
 					                		Terms and Conditions
 											</a>
 				                </li>
 								<li id="id_1.6">		
-									<!--  rendered=&quot;true&quot;  disabled=&quot;false&quot; --><a id="menuList:0:staticPages:5:j_idt75" name="menuList:0:staticPages:5:j_idt75" href="/customercare/shipping/">
+									<!--  rendered=&quot;true&quot;  disabled=&quot;false&quot; --><a id="menuList:0:staticPages:5:j_idt84" name="menuList:0:staticPages:5:j_idt84" href="/customercare/shipping/">
 					                		Shipping Options
 											</a>
 				                </li>
 								<li id="id_1.7">		
-									<!--  rendered=&quot;true&quot;  disabled=&quot;false&quot; --><a id="menuList:0:staticPages:6:j_idt75" name="menuList:0:staticPages:6:j_idt75" href="/customercare/contact-info/">
+									<!--  rendered=&quot;true&quot;  disabled=&quot;false&quot; --><a id="menuList:0:staticPages:6:j_idt84" name="menuList:0:staticPages:6:j_idt84" href="/teched/contact.jsp">
 					                		Contact Information
 											</a>
 				                </li>
 								<li id="id_1.8">		
-									<!--  rendered=&quot;true&quot;  disabled=&quot;false&quot; --><a id="menuList:0:staticPages:7:j_idt75" name="menuList:0:staticPages:7:j_idt75" href="/customercare/faq/">
+									<!--  rendered=&quot;true&quot;  disabled=&quot;false&quot; --><a id="menuList:0:staticPages:7:j_idt84" name="menuList:0:staticPages:7:j_idt84" href="/customercare/faq/">
 					                		Frequently Asked Questions
 											</a>
 				                </li>
@@ -419,7 +433,7 @@
 		<hr>
 		<div class="row">
 			<div id="trade" class="col-md-18 footer-info">
-				<p>© 2016 Matco Tools, A Division of Danaher Corp. All Rights Reserved</p>
+				<p>© 2016 Matco Tools, A Division of Fortive Corp. All Rights Reserved</p>
 				<p><small>*Ranked by Entrepreneur Magazine, Tools Distribution Category years 2007, 2008, 2010, 2011, 2012. <br>This information is not intended as an offer to sell, or the solicitation of an offer to buy, a franchise. It is for information purposes only. An offer is made only by Franchise Disclosure Document (FDD). Currently, the following states regulate the offer and sale of franchises: California, Hawaii, Illinois, Indiana, Maryland, Michigan, Minnesota, New York, North Dakota, Oregon, Rhode Island, South Dakota, Virginia, Washington, and Wisconsin. If you are a resident of, or wish to acquire a franchise for a [Matco Tools distributorship] to be located in, one of these states or a country whose laws regulate the offer and sale of franchises, we will not offer you a franchise unless and until we have complied with applicable pre-sale registration and disclosure requirements in your jurisdiction. <br>Minnesota state franchise registration number F-2705.</small></p>
 			</div>
 		</div>
@@ -429,15 +443,7 @@
 	
 	<!-- Bootstrap -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
-	<script type="text/javascript">
-		var _mfq = _mfq || [];
-		(function() {
-			var mf = document.createElement("script");
-			mf.type = "text/javascript"; mf.async = true;
-			mf.src = "//cdn.mouseflow.com/projects/76d3aeb5-f750-4498-bb0f-8d8e24ae708e.js";
-			document.getElementsByTagName("head")[0].appendChild(mf);
-		})();
-	</script>
+
 	
 	<!-- Google Remarketing, Google Analytics, and Marketo -->
 	<script type="text/javascript">
