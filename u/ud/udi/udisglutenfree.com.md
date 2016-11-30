@@ -1,84 +1,101 @@
-> *The following text is extracted and transformed from the udisglutenfree.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608015023id_/http%3A//udisglutenfree.com/udis-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udisglutenfree.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130191100id_/http%3A//udisglutenfree.com/udis-privacy-policy) for the most accurate reproduction.*
 
-# UDIS Privacy Policy | Udi’s® Gluten Free Bread
+# UDIS Privacy Policy - Udi’s® Gluten Free BreadUdi’s® Gluten Free Bread
 
-PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS SITE
+**Pinnacle Foods Inc.**
 
-Thank you for visiting our udisglutenfree.com website (“Site”) and reviewing our privacy policy (“Privacy Policy”). Udi’s Gluten Free, a division of GFA Brands, Inc., a Boulder Brands Company, and its subsidiaries and affiliated companies, (together, “we,” “us,” “our,” or “Udi’s”) care about your privacy. This Privacy Policy outlines the type of Personal Information that is collected by Udi’s from consumers and how we use and protect it. This Privacy Policy also tells you what to do if you do not want your Personal Information used for marketing purposes, and how you can change information you have already provided to us. This Privacy Policy applies to this Site. It does not apply to banners, sweepstakes or promotions sponsored by third parties in which Udi’s participates.
+**Privacy Policy**
 
-Your Consent to This Privacy Policy  
-By providing Udi’s with Personal Information, you acknowledge that you agree with the terms of our current Privacy Policy as posted here. If you do not agree with any term in this Privacy Policy, please do not provide any Personal Information through this Site. If you choose not to provide Personal Information, you may not be able to do certain things, like access particular areas of our websites, enter sweepstakes or contests, request samples, or send us e-mail.
+Your privacy is important to us. As such, we provide this privacy policy (this “Policy”) explaining our online information practices and the choices you can make about the way your information is collected and used at this Pinnacle Foods Inc. (“Pinnacle”, “we” or “us”) site, and among Pinnacle’s affiliated and operated websites, which includes any online or mobile sites, applications or services owned, operated or offered by or on behalf of Pinnacle that collect data and display these terms (each a “Site”, collectively the “Sites”).
 
-Collection of Personal Information  
-As used in this Privacy Policy, “Personal Information” means personally identifiable information such as your name, street address, telephone number, credit card information, birth date, gender, username or screen name, photograph, and email address.
+**The Information We Collect**
 
-When you provide us with Personal Information, you are authorizing us to use that information in accordance with the terms of this Privacy Policy, which includes your right to limit our use of your Personal Information (see Contact Information).
+Pinnacle collects many types of information in order to operate effectively and provide you the best products, services and experiences we can. This information includes:
 
-We may also collect Personal Information from you about a third party (e.g., a website might allow you to send an electronic “post card” to a friend, in which case we will need that person’s name and e-mail address). Please note that we use such information only for the specified purpose (e.g., to mail the post card) and we will not contact the third party again unless and until the third party contacts us.
+  * Information you provide (such as your e-mail address, first and last name, home address or telephone number);
+  * Information collected automatically (for example, we may use cookies, web beacons and similar technologies that collect non-personal information about your use of our sites, such as your IP address and information about your computer and web browser);
+  * Information collected from other sources (for example, we may collect information from commercially available sources such as data aggregators and public databases).
 
-How We Use Your Information  
-When you supply us with your Personal Information we will use it for the express purpose for which it was collected (e.g., to enter you in a sweepstakes or to send you a sample), and we also may make use of such Personal Information as described below. Personal Information collected as a result of your use of this Site may be used by the brand responsible for the Site or promotion, as well as by our other brands, to contact you regarding other products and services which may be of interest to you (including those we may offer jointly with other companies). At any time, however, you may opt out of such contact. (See Contact Information)
 
-We may share your Personal Information with third-party service providers that assist us in maintaining, operating and improving this Site. For example, at times we may retain third parties to analyze data we collect, including Personal Information, to help us improve our products and our web sites. In addition, if you order a product or service from us, we may provide Personal Information to suppliers and other third parties to enable delivery of such product or service. These third parties, including suppliers, are not authorized by us to use your Personal Information in any other way.
 
-We may supplement the information that you provide to us with other information that we receive from third parties. We do this for marketing purposes in order to provide the most appropriate products and services to meet your needs.
+**How We Use Your Personal Information**
 
-We may also transfer, sell or assign your Personal Information to any entity to which we divest all or a portion of our business (for example, in connection with our sale of a brand), to the extent that you provided such information to the specific portion of our business (or brand) that is being divested, or otherwise in connection with a merger, consolidation, change in control, reorganization or liquidation of all or a portion of our business.
+Pinnacle uses the information we collect for many important purposes, including to:
 
-Finally, please note that we will release your Personal Information if required to do so to protect our business interests, to comply with law enforcement, or in response to a search warrant, subpoena or court order.
+  * Improve our products and services and deliver services you request;
+  * Provide you with news, updates, coupons, special offers and respond to your questions and comments;
+  * Process job applications submitted online;
+  * Share or post reviews of our products and services;
+  * Enter you in sweepstakes, contests, and other promotions and notify you of the results; and
+  * Contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-Other Information We Collect Online  
-Even if you do nothing during your visit but browse through the Site, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit:  
-• The Internet domain (for example, “xcompany.com” if you use a private Internet access account, or “yourschool.edu” if you connect from a university’s domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our Site;  
-• The type of browser and operating system used to access our Site;  
-• The date and time you access our Site; and  
-• The pages you visit.
 
-Site measurement statistics may be used to personalize your Site experience, as well as to evaluate statistics about usage of the Site. This is to ensure that our Site presents the best web experience for visitors.
 
-You may have heard of “cookies,” which are files or pieces of information that are stored by your browser on your computer’s hard drive. Udi’s may use cookies to collect other information during your visit to our Site, such as the particular Site areas you visit and the products or services you buy through our Site. We collect this information to better tailor our Site and our products to your interests and needs. Cookies may also be used to help speed up your future activities at our Site. For example, a cookie can help us recognize that you have provided Personal Information to us and refrain from requesting the same information a second time.
+**Geo-location Information**
 
-Most browsers are initially set to accept cookies. If you’d prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. Refusal of cookies may result in an inability to visit certain areas of the Site or to receive personalized information when you visit the Site.
+If you are accessing a Site from a mobile device or through a mobile application, you may be asked to share your geo-location information with us so we can customize your experience on our Sites. If you agree to such collection, you will be able to turn off such data collection at any time by accessing the privacy settings of your mobile device and/or through the settings in the applicable mobile application.
 
-Privacy of Children Online  
-Udi’s recognizes there are unique issues raised about the protection of our children’s privacy over the Internet. The statements in this Privacy Policy generally about our collection and use of Personal Information also apply to our treatment of personal information from children under the age of thirteen, with the added protection of the special rules that follow. We encourage parents of children under 13 to regularly check and monitor their children’s use of e-mail and other activities on line.
+**Mobile Device Advertising and Tracking**
 
-Although this Site is not targeting children under the age of 13, all Udi’s web sites are designed to comply with the requirements of the Children’s Online Privacy Protection Act (COPPA) and Children’s Advertising Review Unit (CARU) guidelines for web sites gathering identifiable information from children (under age 13). Consistent with these requirements and guidelines, and provided that we have been given accurate information by the child when asked, we do NOT:  
-• collect personally identifiable off-line contact information without prior parental consent;  
-• distribute personally identifiable information to third parties without prior parental consent;  
-• ask children to divulge more information than is needed to participate in the activity;  
-• use or disclose online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child’s request and will not be used for other purposes without prior parental consent; or  
-• enable children to publicly post or otherwise distribute personally identifiable contact information without prior parental consent.
+We, our third party service providers, advertisers, advertising networks and platforms, agencies, or our partners may also be collecting identifiers designed to enable advertising on your mobile device. However, depending on your device, you may be able to reset your mobile device’s advertising identifier at any time by accessing the device’s privacy settings. In addition, when using a mobile application you may receive tailored in-application advertisements. Each operating system, iOS for Apple phones, Android for Android devices and Windows for Microsoft devices, provides its own instructions on how to prevent the delivery of tailored in-application advertisements. You may review the support materials and/or the privacy settings for the respective operating systems in order to opt-out of tailored in-application advertisements.
 
-Parents can always ask to review any Personal Information about their child that may have been collected at one of our sites, have us delete any such Personal Information, and/or instruct us not to collect or use such Personal Information about their child in the future. To do so, simply contact us following the procedure outlined below in the “Contact Information” section.
+**Information from Social Networks and Platforms**
 
-If we change the kinds of information we collect, change how we use the information collected or offer the information to new and different third parties, we will send a new notice and request for parental consent.
+Some of our Sites contain links to or integrations with other sites such as Facebook, Twitter, Instagram, Pinterest, YouTube, LinkedIn etc., whose information practices may be different than ours. When you engage with our content on or through third party social networking sites, plug-ins or applications, you may allow us to have access to certain Personally Identifiable Information and Non-Personally Identifiable Information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, user files like photos and videos, your list of friends, people you follow and/or who follow you, the posts or the ‘likes’ you make, etc.) to deliver the content or as part of the operation of the Site. We may also obtain Non-Personally Identifiable Information (e.g., content viewed and information about advertisements within the content you have been shown or may have clicked on through third-party platforms) from your interaction with our content.
 
-Security of Information  
-We take reasonable precautions to keep your Personal Information secure. All personally identifiable information is subject to restricted access in an effort to prevent unauthorized access, modification or misuse. Notwithstanding our efforts, the Internet and world wide web have inherent security risks. We cannot promise or guaranty, and you should not expect, that Personal Information, personal searches, and other communications will always remain secure. You should take care with regard to how you handle and disclose Personal Information.
+Through some social networking sites’ privacy settings, you can control what information you share. For a description on how social networking sites handle your information, please refer to their privacy policies and terms of use.
 
-How You May Access and Change Certain Information That We Collect.  
-The first time that you provide us with registration information through our Site, you will be able to decide whether you want to subscribe to emails or newsletters. After your first use, you can change your initial choices by contacting customer service email at cservice@boulderbrands.com. Each commercial email that we send to you will offer you the opportunity to opt-out of continuing to receive such messages. We may take up to 10 days to process your opt-out requests. In some instances, we may have already shared your information with one of our authorized third parties before you changed your email and newsletter choices. In those cases, you may have to directly contact those third parties and follow their steps to opt-out of receiving their communications.
+**How We Share Your Personal Information**
 
-Notice to California residents  
-California residents have the right to request information from us regarding the manner that we may share personal information with affiliated companies and other third parties for their direct marketing purposes. To find out what and how we share such information, you may send us an email request at cservice@boulderbrands.com or mail a request to: 1600 Pearl St., Suite 300, Boulder, CO 80302, and receive the following information:  
-1\. The categories of information we disclosed to third parties for their direct marketing purposes during the preceding year;  
-2\. The names and addresses of the third parties who received information for their direct marketing purposes; and  
-3\. Examples of the products and services subject to the third parties direct marketing programs, if the nature of the third parties’ business cannot be determined from their names.
+Pinnacle does not sell, rent, lease or disclose your personal information to unaffiliated third parties. We may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your personally identifiable information is not transferred to the third party. Pinnacle may also share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Pinnacle, and they are required to maintain the confidentiality of your information.
 
-Notice to Site Visitors Located Outside of the United States  
-For those Site visitors located outside of the United States, your personal information may, at times, be accessible by individuals who are located worldwide, including in countries that do not afford the same level of data protection as provided in your country. By providing us with your personal information, you are consenting to our use of it in accordance with this Privacy Policy, including, but not limited to, the transfer of your personal information across international boundaries to jurisdictions anywhere in the world as permitted by local law.
+In addition, we may disclose information where we think it’s necessary to investigate or prevent an actual or suspected crime or injury to ourselves or others, if required by law, or in response to a request from law enforcement authorities or other government officials.
 
-Changes in Our Policy  
-Udi’s reserves the right to change or remove this Privacy Policy at our discretion. We will post any new policy here and we encourage you to visit this area frequently to stay informed.
+During the normal course of our business, Pinnacle may sell or purchase assets or equity. If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. Should a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personally identifiable information provided through this Site in a manner that is consistent with this Policy.
 
-Contact Information  
-Please write to us at:  
-GFA Brands, Inc.  
-1600 Pearl St.  
-Suite 300  
-Boulder, CO 80302  
-Email address: cservice@boulderbrands.com  
-Phone: (201) 421-3970
+**How We Protect Your Information  **
 
-Please contact us if you have any comments or questions about this Privacy Policy or to report any violations of the Privacy Policy. We will respond to you within 24 to 48 hours in most cases.
+Pinnacle takes reasonable precautions to secure your personal information from unauthorized access, use or disclosure. Pinnacle maintains safeguards to protect your personal information such as:
+
+  * Storing data in controlled facilities;
+  * Company-wide training on privacy and data security;
+  * Limiting access to personal information to employees who need that access to perform their jobs; and
+  * HTTPS encryption.
+
+
+
+Users are warned, however, that the Internet and electronic databases may be subject to interception, and you provide such information at your own risk.
+
+**Choice and Control Over Your Personal Information**
+
+You are ultimately in control of the personal information you provide to us on our sites. To change how Pinnacle contacts you, to correct or change your information or to cancel your registration with us, email our Online Team at [webmaster@pinnaclefoodscorp.com](mailto:webmaster@pinnaclefoodscorp.com).
+
+**Your California Privacy Rights**
+
+The California Civil Code allows California residents to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. To make such a request, contact us at [webmaster@pinnaclefoodscorp.com](mailto:webmaster@pinnaclefoodscorp.com) and include the words “CA Privacy Request” in the subject line, or, you may write us at:
+
+Pinnacle Consumer Relations
+
+PO Box 971
+
+Miami, Florida 33152
+
+**Children’s Privacy**
+
+Our sites are intended for general audiences and Pinnacle is mindful of the need to protect the privacy of children under the age of 13. At Sites or areas of Sites directed to children under the age of 13, Pinnacle follows the guidelines established by the Children’s Advertising Review Unit and the requirements under the Children’s Online Privacy Protection Act (COPPA).
+
+We may ask visitors to enter a birthdate to restrict those who are underage from accessing certain Sites, areas or features. Pinnacle does not collect and store personal information online from children who are under the age of 13 without the consent of a parent or a legal guardian, except as authorized by law and described in this Policy. In any Site or area of a Site directed to children under 13, Pinnacle does not require children to disclose more information than reasonably necessary to participate in online activities.
+
+Pinnacle may collect a child’s first name and e-mail address without parental consent for the sole purpose of responding to a one-time question or request from a child, or in connection with certain sweepstakes or contests, but Pinnacle will promptly delete this information after providing a response or at the end of the promotion. When a child under 13 seeks to participate in an activity that will require multiple online contacts, such as signing up for an online newsletter, or for certain internal marketing activities, Pinnacle may also ask the child for a parent’s or guardian’s e-mail address to notify them and obtain permission or provide them with an opportunity to opt-out of that activity. Pinnacle may collect additional personally identifiable information from a child, such as the child’s address, in connection with special offers, sweepstakes, contests, and games, so it can award prizes. Upon proper identification, any parent can review any personal information we have collected from their child, if we are still maintaining the information in our operational database. They may also request that the information be deleted from our database, and refuse to permit further collection or use of their child’s information. If you are a parent and wish to exercise these rights, please contact the Online Team at [webmaster@pinnaclefoodscorp.com](mailto:webmaster@pinnaclefoodscorp.com).
+
+**Your Ability to Control Cookies and Similar Technologies**
+
+This Site uses session “cookies” to help you personalize your online experience. We may also use cookies to comply with COPPA in connection with age-screening. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page.
+
+You can set your Internet browser or operating system settings to stop accepting new cookies, to receive notice when you receive a new cookie, to disable existing cookies, to omit images (which will disable pixel tags) or adjust your tracking preferences. Note that the opt-out will apply only to the browser that you are using when you elect to opt out of advertising cookies. Check the “Tools” or “Help” tab on your browser to learn how to change your cookie and other tracking preferences.
+
+**Updates to our Policy**
+
+From time to time, we may change or update portions of this Policy. We will notify you about material changes in the way we treat personally identifiable information by sending an email message to the email address you most recently provided to us or by prominently posting a notice on our Site. We encourage you to periodically check back and review this Policy so that you always will know what information we collect, how we use it, and with whom we share it.
+
+_The Privacy Statement posted on this Site was updated on July 27, 2016._
