@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eventscribe.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331075239id_/http%3A//www.cadmiumcd.com/cadmiumcd/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventscribe.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130173658id_/http%3A//www.cadmiumcd.com/cadmiumcd/privacy.asp) for the most accurate reproduction.*
 
-# Meeting Education Made Easy | CadmiumCD
+# Event Management Software | CadmiumCD
 
 Your information, privacy and security are our priority. We do not share or sell your data to anyone. CadmiumCD clients have exclusive rights and ownership to their data. This Privacy Statement explains how your personal information is gathered and used by CadmiumCD and the affiliated partner companies listed on our Web site. 
 
