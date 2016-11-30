@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the photos-public-domain.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614213415id_/http%3A//www.photos-public-domain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photos-public-domain.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130070016id_/http%3A//www.photos-public-domain.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Photos Public Domain
 
-## [Privacy Policy](http://www.photos-public-domain.com/privacy-policy/)
+### Privacy Policy
+
+Posted in: 
 
 Photos-Public-Domain.com respects the privacy of all of its users and is committed to protecting such privacy in accordance with this Privacy Policy. This Privacy Policy explains our treatment of your personally identifiable information collected in connection with your activities on this site. This Privacy Policy also explains how you can ask questions and make suggestions about our privacy practices. We urge you to read this Privacy Policy carefully and to check back periodically as this Privacy Policy may change from time to time. 
 
