@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architonic.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616083836id_/https%3A//www.architonic.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architonic.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130233404id_/https%3A//www.architonic.com/en/privacy) for the most accurate reproduction.*
 
 # Architonic | Privacy
 
