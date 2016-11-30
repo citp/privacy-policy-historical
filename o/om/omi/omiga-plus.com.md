@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the omiga-plus.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417052451id_/http%3A//omiga-plus.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omiga-plus.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130021542id_/http%3A//omiga-plus.com/privacy.html) for the most accurate reproduction.*
 
 # Omiga Plus - Your tool for a clean desktop
-
-**Omiga Plus,** a product belonging to Taiwan Shui Mu Chih Ching Technology Limited, ("Ominga Plus") takes your privacy very seriously. Please read the following to learn more about Omiga Plus's Privacy Policy ("Policy"). This Policy details how Omiga Plus receives, collects and uses information in connection with our website and software provided on the website (the website and software collectively referred to herein as "Site"). 
 
 Collection and Use of Information
 
@@ -34,4 +32,4 @@ From time to time, Omiga Plus may revise this Policy. Omiga Plus will post the r
 
 Change or Removal of Information
 
-If a user's e-mail address changes or you wish you remove your e-mail address, you can contact us at: [omigaplus@gmail.com](mailto:omigaplus@gmail.com) with the request or by contacting us at the contact information listed below. 
+If a user's e-mail address changes or you wish you remove your e-mail address, you can contact us at: omigaplus-client@gmail.com with the request or by contacting us at the contact information listed below. 
