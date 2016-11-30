@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adf01.net privacy policy that was archived on 2016-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160308033421id_/https%3A//www.adfish.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adf01.net privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130154701id_/https%3A//www.adfish.com/privacy.php) for the most accurate reproduction.*
 
 # Adfish - A premium CPA network
 
