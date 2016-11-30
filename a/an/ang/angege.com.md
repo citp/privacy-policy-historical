@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the angege.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605054345id_/http%3A//paypopup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angege.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130175725id_/http%3A//paypopup.com/privacy.php) for the most accurate reproduction.*
 
 # Targeted Internet Advertising
 
   |  |   
 ---  
-| [Home](https://web.archive.org/web/20160605054345id_/http%3A//paypopup.com/index.php) | [Advertisers](https://web.archive.org/web/20160605054345id_/http%3A//paypopup.com/advertisers.php) | [Publishers](https://web.archive.org/web/20160605054345id_/http%3A//paypopup.com/webmasters_affiliate_program.php) | [Resellers](https://web.archive.org/web/20160605054345id_/http%3A//paypopup.com/traffic_resellers.php) | [Technology](https://web.archive.org/web/20160605054345id_/http%3A//paypopup.com/advertising_technology.php) | [Company](https://web.archive.org/web/20160605054345id_/http%3A//paypopup.com/company.php)  
+| [Home](https://web.archive.org/web/20161130175725id_/http%3A//paypopup.com/index.php) | [Advertisers](https://web.archive.org/web/20161130175725id_/http%3A//paypopup.com/advertisers.php) | [Publishers](https://web.archive.org/web/20161130175725id_/http%3A//paypopup.com/webmasters_affiliate_program.php) | [Resellers](https://web.archive.org/web/20161130175725id_/http%3A//paypopup.com/traffic_resellers.php) | [Technology](https://web.archive.org/web/20161130175725id_/http%3A//paypopup.com/advertising_technology.php) | [Company](https://web.archive.org/web/20161130175725id_/http%3A//paypopup.com/company.php)  
 ---|---|---|---|---|---  
 |  | 
 
