@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freepressjournal.in privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402213453id_/http%3A//www.freepressjournal.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepressjournal.in privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130095203id_/http%3A//www.freepressjournal.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Freepress Journal
+# Privacy Policy | Free Press Journal
 
 Free Press Journal respects the privacy of everyone who visits the website of Free Press Journal Group. We would like to inform you regarding the way we would use your personal data. Free Press Journal recommends you to read this privacy policy so that you understand our approach towards the use of your personal data. By submitting your personal data to us, you will be treated as having given your permission – where necessary and appropriate – for disclosures referred to in this policy. Free Press Journal uses your Personal Information only for providing and improving the Site.
 
