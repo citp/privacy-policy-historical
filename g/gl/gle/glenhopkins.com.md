@@ -1,73 +1,101 @@
-> *The following text is extracted and transformed from the glenhopkins.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811092620id_/http%3A//glenhopkins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glenhopkins.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130193553id_/http%3A//www.glenhopkins.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Glen Hopkins
+# Privacy Policy | Glen Hopkins, Coldwell Banker Marquise Realty, Brokerage*
 
-We respect your interest in your privacy and as a result we have created this informational disclosure.
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. We understand the power that the Internet holds for changing your life and making things easier for you. These benefits are at risk if people are concerned about their personal privacy. We are committed to providing you with an Internet experience that respects and protects your personal privacy choices and concerns. In general, we gather information about all of our users collectively. We only use such information anonymously and in the aggregate. This information helps us determine what is most beneficial for our users, and how we can continually create a better overall experience for you. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-We collect and use personal information for many purposes, including but not limited to, billing; product and service fulfillment; to better understand our customer needs; to provide a better website, products and services; to communicate with customers and potential customers regarding our products and services and third party products and services.
+**Personal Information**
 
-Generally, your private information will only be disclosed to our owners, employees, independent contractors, subsidiaries, partners, affiliates, attorneys, consultants, business associates, service providers, suppliers and agents, acting on our behalf or request. This general rule, and disclosures in specific situations, is more particularly described below.
+This website functionality requires/requests users to provide contact information (such as their email address) and personal information (such as their names, address phone numbers, and property details). The user’s contact and personal information is used to contact said user when necessary and requested, but is primarily used to collect personal information necessary to effectively market and to sell the property of sellers, to locate, assess and qualify properties for buyers and to otherwise provide professional services to clients and customers.
 
-You must be at least 18 years old to access this website. We do not direct this website to persons under 18, nor do we knowingly collect any personal information from children under the age of thirteen.
+**Information Collection and Use**
 
-**Information Collected by our ISP**
+When subscribing to a newsletter or filling out a form, as appropriate, we collect the information you enter, including but not limited to, your name, email address, mailing address, phone number or other details to help you with your experience.
 
-The hosting provider for this Internet site (as with any Internet site) has the ability to record various information, including domain name, pages accessed, date and time of access, web browser type and computer operating system, and referring information, and to disclose this information. This is most commonly done by providing access to raw server logs. For more information you should perform an Internet search on ‘server logs’ or ‘raw server logs.’ We may have access to our raw server logs and access reports prepared by our hosting provider.
+We may use the information we collect from you in the following ways:
 
-**Financial Information for Billing Purposes**
+**•**  To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-We sell products and services. When sales are made financial information must be disclosed. This information can include any number of facts you are asked to provide, but most commonly includes your name, financial / credit card information, billing address, and email address. Generally, this purchase information will be provided by you to a third party payment processor and we do not receive your financial / credit card information.
+       **•**  To allow us to better service you in responding to your customer service requests
 
-In the event we do receive financial / credit card information, we will not disclose it to anyone unless disclosure is required by law or a court order, or unless disclosure is required to address an issue implicated by the financial transaction. If you claim that your financial information was used to make a purchase you did not authorize, details about the financial transaction may be disclosed to law enforcement and anyone else we deem necessary to address the matter.
+       **•**  To administer a contest, promotion, survey or other website feature
 
-**Use of eMail Addresses and other Contact Information**
+       **•**  To send periodic emails regarding your interest for property listings and services
 
-An important part of our services includes being able to provide information to you. As a result, you expressly consent to receiving communications from us via email, fax, telephone, mail, or any other delivery method.
+This website is the sole owner of the information collected. We will not sell, share, trade or rent this information to others in ways different from what is disclosed in this statement. This website collects information from our users at several different points on our website. We ONLY collect personal information necessary to effectively market and to sell the property of sellers, to locate, assess and qualify properties for buyers and to otherwise provide professional services to clients and customers. We do not sell, trade, transfer, rent or exchange your personal information with anyone. We do not disclose information about your individual visits to this website, or personal information that you provide, such as your name, address, e-mail address, telephone number, etc., to any outside parties, except when we believe the law requires it.
 
-As a customer you are agreeing to receive information about the product or service you purchased. This may include, but is not limited to, information about product or service updates, new features, or information we believe you may find interesting.
+**Home Worth / Dream Home / Neighbourhood Buzzer / Free Real Estate Reports**
 
-We may also send you information about other products and services our company offers.
+Since this website is a Real Estate website, we give you the OPTION of requesting FREE Real Estate Information about real estate properties. Your personal Information is stored on our secure database. We ONLY collect personal information necessary to effectively market and to sell the property of sellers, to locate, assess and qualify properties for buyers and to otherwise provide professional services to clients and customers. We do not sell, trade, transfer, rent or exchange your personal information with anyone.
 
-At the time of a purchase, any information submitted by the buyer will be used solely for the purpose of completing the transaction, delivering the product and addressing any customer service issues.
+**Email links**
 
-We may sell, provide, or transfer you email address to others.
+This website provides an email address link located on the ‘Contact Us’ page so that you may email us directly with any questions or comments you may have. This website reads all messages received and makes efforts to respond promptly. In addition to replying to your comment or inquiry, we may also file your email for future reference regarding improvements to our website or discard the information. Your personal information is not shared, traded, sold, or exchanged with any third parties without your express permission.
 
-We may allow advertising to our customers, or engage in joint ventures, which result in your receiving advertisements from selected third parties and us receiving compensation for doing so.
+**Do we use 'cookies'?**
 
-**Identification of Purchasers**
+Yes. Cookies are small files that a website or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the website's or service provider's systems to recognize your browser and capture and remember certain information. They are used to help us understand your preferences based on previous or current website activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about website traffic and website interaction so that we can offer better website experiences and tools in the future.
 
-If you purchase one of our products or services, you authorize us to use your name and identification information in advertising or promotions.
+This website uses the following cookies:
 
-We also use personal information in an aggregate form (i.e., not individually attributable to you) for business analysis, operational, marketing and other promotional purposes.
+## 1. Google Analytics
 
-**Cookies**
+This cookie allows us to see information on user website activities including, but not limited to page views, source and time spent on websites. The information is depersonalised and is displayed as numbers, meaning it cannot be tracked back to individuals. This will help to protect your privacy. Using Google Analytics we can see what content is popular on our website, and strive to give you more of the things you enjoy reading and watching.
 
-Cookies may be used to keep track of referred affiliate commissions and to monitor access to our website. You consent to any future use of cookies for testing purposes and the use of cookies for publicly available data to gather statistics for the purpose of determining which search engines, referring sites, key words, etc., bring visitors to our website, which pages visitors are most interested in, what web browsers are used, etc. Various providers may be used for this purpose. The purpose is obtain information that will help promote the website, make the website more interesting and useful to visitors, and to identify areas where improvement is needed.
+## 2. Google AdWords
 
-Additionally, various third party information suppliers and other entities that provide information for this website, or for use by us, may use cookies. Examples include, but are not necessarily limited to billing providers, third party advertisers, and third party resources we promote.
+Using Google AdWords code, we are able to see which pages helped lead to contact form submissions. This allows us to make better use of our paid search budget.
 
-**Remarketing**
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer, Google Chrome, Safari, Firefox and other browsers) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
 
-We also uses 3rd party vendor re-marketing tracking cookies, including Facebook tracking pixels.This means we will continue to show ads to you on Facebook. As always we respect your privacy and are not collecting any identifiable information through the use of Facebook’s or any other 3rd party remarketing system.
+If you disable cookies, some features will be disabled, however, it won't affect the user experience that makes your website experience more efficient. Some of our services may or may not function properly as a result of disabling cookies.
 
-The third-party vendors, including Facebook whose services we use – will place cookies on web browsers in order to serve ads based on past visits to our website. – Third party vendors, including Facebook, use cookies to serve ads based on a user’s prior visits to your website. This allows us to make special offers and continue to market our services to those who have shown interest in our service.
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. You can find more information here: https://support.google.com/adwordspolicy/answer/1316548?hl=en 
 
-**Disclosure by Necessity**
+**Third Party Disclosure**
 
-Private information may be disclosed if required by a court order, statute, law, or regulation.
+We do not sell, trade, or otherwise transfer to outside parties, your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our website policies, or protect ours or others' rights, property, or safety. 
 
-Information is subject to disclosure to address a claim that you are violating the terms of any agreement pertaining to your use of your use this website or our products or services, or rights of any third party.
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-Information is also subject to disclosure if we believe that disclosure is necessary to identify, contact or bring an action against someone who may be causing injury to or interfering (either intentionally or unintentionally) with our rights or property, your rights or property, other users of our website, products or services, or anyone else.
+**Canada Anti-Spam Law (CASL)**
 
-As we continue to develop our business, we or our affiliates may sell or buy other businesses or entities, or we may merge with another company, or be bought by another company. In such transactions, personal information may be one of the transferred assets.
+CASL is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
-Your information may be stored and processed in any country in which we maintain facilities or conduct operations. By using our website, products and services, you consent to any such transfer of information outside of your country.
+We collect your email address in order to:
 
-After your account becomes inactive your information may remain in our databases, computers, and archives, and cannot reasonably be expunged.
+       **•**  Send information, respond to inquiries, and/or other requests or questions.
 
-**Policy Changes**
+       **•**  Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
 
-These policies may be amended by us at any time and without notice, but will be posted at this page.
+To be in accordance with CASL we agree to the following:
 
-You agree that your continued use of our websites, product or service after that date will constitute your consent and acceptance of the amendment.
+       **•**  NOT use false, or misleading subjects or email addresses
+
+       **•**  Identify the message as an advertisement in some reasonable way
+
+       **•**  Include the physical address of our business or website headquarters
+
+       **•**  Monitor third party email marketing services for compliance, if one is used.
+
+       **•**  Honor opt-out/unsubscribe requests quickly
+
+       **•**  Allow users to unsubscribe by using the link at the bottom of each email
+
+**Opt-Out**
+
+This website provides users the opportunity to opt-out from our mailing list from their accounts. To do this, click on our ‘Unsubscribe’ link found on the following pages: Neighborhood Buzzer/Home Worth/Dream Home/FREE Real Estate Reports. You will be automatically removed from our subscription list upon unsubscribing.
+
+**Notification of Changes**
+
+This policy may be revised over time as new features are added to the website. We will post those changes so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check this website for information about revisions to our privacy policy. We will notify you directly if there is a material change in our privacy practices. We will take commercially reasonable measures to obtain written or active e-mail consent from the user, if this website is going to be using the information collected from the user in a manner different from that stated at the time of collection. We will also post the changes in our privacy statement 10 days prior to a change.
+
+**Legal Disclaimer**
+
+We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process serviced on our website.
+
+**Contacting Us**
+
+If you have any questions regarding our privacy policy please send us an [Email(Click Here)](https://web.archive.org/node/add/contactSite) and we will be pleased to assist.
+
+Last Edited on 2016-01-21
