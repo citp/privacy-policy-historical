@@ -1,27 +1,27 @@
-> *The following text is extracted and transformed from the hudson.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018233905id_/http%3A//us.hudson.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hudson.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130204303id_/http%3A//us.hudson.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - US | Hudson
 
 ## 1.    WHO WE ARE
 
-We are Hudson Global, Inc.  This privacy statement is made by us and also on behalf of our affiliates, subsidiaries and related corporate entities (together, Hudson).  Our head office is at 4th & 5th Floors, 560 Lexington Avenue, New York, NY 10022.
+We are Hudson Global, Inc.  This privacy statement is made by us and also on behalf of our affiliates, subsidiaries and related corporate entities (together, Hudson).  Our head office is at 1325 Avenue of the Americas, 12th Floor, New York, NY 10019.
 
 References to “we”, “us”, “our” and “ours” in this privacy statement means Hudson.
 
 ## 2.    OUR WEBSITES
 
-We operate a number of websites globally (Websites) which contain basic information on the global capabilities of Hudson. Our Websites also provides links to investor information and websites serving our country operations.
+We operate a number of websites globally (websites) which contain basic information on the global capabilities of Hudson. Our websites also provide links to investor information and websites serving our country operations.
 
 ## 3.    INFORMATION ABOUT VISITORS TO OUR WEBSITES
 
-We gather general information about the use of our Websites, such as which areas users visit most frequently and which services users access the most. We only use aggregated data when analyzing usage patterns of our website and which cannot identify individual visitors to our Websites. This information helps us determine what is most beneficial for our users and how we can continually create a better overall online experience. We may share this general information within Hudson and also with our business partners so that they too may understand how our Websites are used.  Please see our [cookie policy](https://web.archive.org/cookiepolicy) on our Websites for more information.
+We gather general information about the use of our websites, such as which areas users visit most frequently and which services users access the most. We only use aggregated data when analyzing usage patterns of our website and cannot identify individual visitors to our websites. This information helps us determine what is most beneficial for our users and how we can continually create a better overall online experience. We may share this general information within Hudson and also with our business partners so that they too may understand how our websites are used.  Please see our [cookie policy](https://web.archive.org/cookiepolicy) on our websites for more information.
 
 ## 4.    COLLECTION OF YOUR PERSONAL INFORMATION
 
-  * **Guest users of our Websites**  
+  * **Guest users of our websites**  
 If you are not registered with us, the information we collect about you is limited. Please refer to the preceding paragraph which details the anonymous information that we collect.
   * **Registered users**  
-When you register with Hudson, either online via one of our Websites or in person at one of our offices, then you are giving us permission to use your personal data to consider you for opportunities related to our services in conjunction with our clients, and to share those data within Hudson and with our clients. We may ask for certain information from you, including, but not limited to: your name, address, email address, date of birth, gender, education, skills and qualifications, employment history (including remuneration details), references, job requirements (including location, salary sought, job industry, job title) plus any other information you may volunteer to us as part of the registration process or which is contained in your resume/CV.
+When you register with Hudson, either online via one of our websites or in person at one of our offices, then you are giving us permission to use your personal data to consider you for opportunities related to our services in conjunction with our clients, and to share those data within Hudson and with our clients. We may ask for certain information from you, including, but not limited to: your name, address, email address, date of birth, gender, education, skills and qualifications, employment history (including remuneration details), references, job requirements (including location, salary sought, job industry, job title) plus any other information you may volunteer to us as part of the registration process or which is contained in your resume/CV.
   * **Inquiry form/email inquiries**  
 If you are an employer and would like to make an inquiry with a Hudson consultant via our online ‘Employer Inquiry’ box, we may collect certain information from you, including, but not limited to: your name, your job title, your company name, your email address, your phone number, plus any other information you may volunteer to us as part of your inquiry.
 
@@ -36,7 +36,7 @@ We reserve the right to delete any sensitive personal information which you may 
 
 ## 5.    HOW WE USE YOUR PERSONAL INFORMATION
 
-You can browse our Websites, and search for jobs without disclosing personal information about yourself. ‘Personal information’ means any information that may be used to identify you, examples of which are mentioned in the preceding paragraphs.
+You can browse our websites, and search for jobs without disclosing personal information about yourself. ‘Personal information’ means any information that may be used to identify you, examples of which are mentioned in the preceding paragraphs.
 
 If you choose to register with Hudson, either online via one of our Websites or in person at one of our offices, we may use your personal information to contact you via e-mail, telephone, direct mail or other communication formats to provide you with information or services that you have requested.
 
@@ -45,7 +45,7 @@ We will use your personal information to fulfil your requests for information an
   * to inform you of new services we will be providing;
   * to send you requested information on our services;
   * for research or marketing purposes; or
-  * to administer our Websites to help us improve our services.
+  * to administer our websites to help us improve our services.
 
 
 
@@ -57,7 +57,7 @@ If you choose to unsubscribe from our mailing lists, we will require sufficient 
 
 ## 6.    DISCLOSING INFORMATION
 
-Hudson will not disclose the personal information that you provide or details of your individual visits to our Websites to any unrelated third parties except as provided for in this privacy statement and under the following limited circumstances:
+Hudson will not disclose the personal information that you provide or details of your individual visits to our websites to any unrelated third parties except as provided for in this privacy statement and under the following limited circumstances:
 
   * as necessary for job applications or other recruitment services that you have requested, with your consent;
   * when we believe the law requires it;
@@ -76,7 +76,7 @@ Hudson is committed to protecting the security of your personal information. We 
 
   * unauthorized access;
   * improper use or disclosure;
-  * unauthorised modification or alteration; and
+  * unauthorized modification or alteration; and
   * unlawful destruction or accidental loss.
 
 
@@ -85,7 +85,7 @@ However, the Internet is an open system and Hudson cannot guarantee that the per
 
 All our employees and agents who have access to or are involved in the processing of personal information respect the confidentiality of personal information.
 
-Our Websites may include links to external websites operated by other organisations. They may collect personal information from visitors to their site. Hudson cannot guarantee the content or privacy practices of any external websites and does not accept responsibility for those websites.
+Our websites may include links to external websites operated by other organizations. They may collect personal information from visitors to their site. Hudson cannot guarantee the content or privacy practices of any external websites and does not accept responsibility for those websites.
 
 ## 8.    COOKIES
 
@@ -101,14 +101,14 @@ As Hudson is a global business, from time to time, we may transfer your personal
 
 ## 11.  CHANGES TO THIS PRIVACY STATEMENT
 
-If we decide to change our privacy commitment, we will post those changes on our Websites so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.
+If we decide to change our privacy commitment, we will post those changes on our websites so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.
 
 ## 12.  CONSENT
 
-By accessing the Websites and/or submitting your personal information, you consent to the use of your information as set out in this privacy statement.
+By accessing the websites and/or submitting your personal information, you consent to the use of your information as set out in this privacy statement.
 
 ## 13.  QUESTIONS
 
-If you have any questions about how your personal information is used, or if you want to access, correct or remove your personal information, please send an email to [inquiry@hudson.com](mailto:inquiry@hudson.com). You may also write to us at: Hudson Global, Inc, 5th Floor, 560 Lexington Avenue, New York, NY 10022.
+If you have any questions about how your personal information is used, or if you want to access, correct or remove your personal information, please send an email to [inquiry@hudson.com](mailto:inquiry@hudson.com). You may also write to us at: Hudson Global, Inc, 1325 Avenue of the Americas, 12th Floor, New York, NY 10019.
 
-_Last updated August 2013_
+_Last updated February 2016_
