@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the grc.org privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611220249id_/https%3A//www.grc.org/legal.aspx%3Fpage%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grc.org privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130232330id_/http%3A//www.grc.org/legal.aspx%3Fpage%3D1) for the most accurate reproduction.*
 
 # Gordon Research Conferences - Web Site Legal Notices - Privacy Policy
 
 ### Introduction
 
-  1. This Privacy Policy relates to information gathered from online visitors to the Gordon Research Conferences ("GRC") website. By visiting this website, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and the [Terms and Conditions of Use](https://web.archive.org/web/20160611220249id_/https%3A//www.grc.org/legal.aspx?page=0).
+  1. This Privacy Policy relates to information gathered from online visitors to the Gordon Research Conferences ("GRC") website. By visiting this website, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and the [Terms and Conditions of Use](https://web.archive.org/web/20161130232330id_/http%3A//www.grc.org/legal.aspx?page=0).
 
   2. BY PROVIDING INFORMATION TO GRC VIA THIS WEBSITE, YOU ARE DEEMED TO CONSENT TO THE COLLECTION, STORAGE, USE AND DISSEMINATION OF SUCH INFORMATION AS DESCRIBED IN THIS PRIVACY POLICY.
 
@@ -26,7 +26,7 @@ GRC only collects information that individual visitors provide voluntarily. In a
     * providing a forum for career networking and career advancement; and
     * supporting and encouraging young scientists as they establish initial scientific and personal contacts.
 
-(See the GRC [Mission Statement](https://web.archive.org/web/20160611220249id_/https%3A//www.grc.org/about.aspx?page=1))
+(See the GRC [Mission Statement](https://web.archive.org/web/20161130232330id_/http%3A//www.grc.org/about.aspx?page=1))
 
 In connection with an application to attend a conference, or your services on a GRC board or committee (e.g., the Board of Trustees, the Finance Committee, the Conference Evaluation Committee) GRC will collect and store information specific to your identity (i.e., "Personally Identifiable Information," or "PII"). PII may also be collected and stored if you provide it in the course of a visit to the GRC website and/or in connection with a request for information from GRC.
 
