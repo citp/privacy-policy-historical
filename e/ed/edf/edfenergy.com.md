@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edfenergy.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427000605id_/https%3A//www.edfenergy.com/terms-conditions/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edfenergy.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130221837id_/https%3A//www.edfenergy.com/terms-conditions/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | EDF Energy
 
