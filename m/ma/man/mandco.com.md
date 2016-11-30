@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mandco.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609214132id_/http%3A//www.mandco.com/customer-service/privacy-and-security/privacy%252C-security-and-cookie-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandco.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130064338id_/http%3A//www.mandco.com/customer-service/privacy-and-security/privacy%252C-security-and-cookie-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | M&Co ™
 
