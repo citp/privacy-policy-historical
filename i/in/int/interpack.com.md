@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the interpack.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531200220id_/http%3A//www.interpack.com/cgi-bin/md_interpack/lib/pub/tt.cgi/Privacy_Policy.html%3Foid%3D996%26lang%3D2%26ticket%3Dg_u_e_s_t) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interpack.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130211415id_/http%3A//www.interpack.com/cgi-bin/md_interpack/lib/pub/tt.cgi/Privacy_Policy.html%3Foid%3D996%26lang%3D2%26ticket%3Dg_u_e_s_t) for the most accurate reproduction.*
 
-# Privacy Policy -- Processes and packaging - Leading trade fair
+# Privacy Policy --
 
 ## Data Protection Regulations of Messe Düsseldorf GmbH   
-As from 29.04.2016 
+As from 16.11.2016 
 
 The present data protection regulations make equal reference to both men and women. For the purpose of simplification, only the male form is used. 
 
@@ -15,10 +15,10 @@ Can the Cookies be blocked?
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) to disable existing cookies; or (iii) to set your browser to automatically reject any cookies. However, please be aware that if you disable or reject cookies, some features and services on our Sites may not work properly because we may not be able to recognize and associate you with your Messe Duesseldorf account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests.
 
 Instructions for blocking or allowing Cookies in Popular Web Browsing Software:  
-[Internet Explorer 7 und 8](http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies)  
+[Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)  
 [Firefox](https://support.mozilla.org/en-US/kb/block-websites-storing-site-preferences?esab=a&s=blocking+cookies&r=2&as=s)  
 [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)  
-[Apple Safari](https://support.apple.com/kb/ph5042?locale=de_DE)  
+[Apple Safari](https://support.apple.com/kb/PH19214?viewlocale=en_US&locale=de_DE)  
 [AboutCookies.org](http://www.aboutcookies.org/legal-notices/cookies/)
 
 ## 2\. Data protection with special applications
