@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lingscars.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612132327id_/http%3A//www.lingscars.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lingscars.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130071856id_/http%3A//www.lingscars.com/privacy.php) for the most accurate reproduction.*
 
 # CAR LEASING CHEAP NEW UK CARS FOR LEASE CONTRACT HIRE CAR LEASING
 
@@ -120,63 +120,55 @@ Best Before: 17/08/2007
   
 **Latest BBC NEWS from LING in CHINGLISH!**
 
-**LATEST:  ** _Andy Murray announces Ivan Lendl has rejoined male gender human bleing's coaching team before Aegon Championships at Queen's Club. Chop chop baby!_ \- news replorted 12:23
+**LATEST:  ** _CIA chief John Brennan warns Donald Trump that ending Iran nuclear deal would be "disastrous"._ \- news replorted 06:00
 
-**LATEST:  ** A witness to shooting attacking gay nightclub in Orlando, lah, Florida, lah, says bloody man saw multiple human bliengs with gunshot wounds. Eating rice!!  \- news replorted 12:17
+**LATEST:  ** The FA scrapped 2001 scheme meant to ensure children were protected from sexual abuse. What the hell I mean??!!  \- news replorted 05:12
 
-_A gay pride event passes off peacefully in Kiev as thousands of old bill bobbys officers deployed to stop far-right extremists from targeting it. Pass chopsticks!!_ \- news replorted 11:48
+_What issues facing Welsh-go-go-gochly sheep friendly human bliengs Ambulance service (???) I wan' service , I wan' you tellibly lovely custlingmer give me damn velly damn good service and how does it work? Here is animated guide. What the hell I mean??!!_ \- news replorted 03:19
 
-**Uefa opens disciplinary proceedings against Russia's silly kick-kick game Union after crowd disturbances at Euro 2016 match between Province of Engrish running-dogs and Russia. Ai-yaa!!!** \- news replorted 11:25
+**Too many young women being shut out of workplace by lack of support, lah, charity says. Eating rice!!** \- news replorted 03:08
 
-_**A man who was inside Florida nightclub as it came under attack says bloody man ran out of back door of building when bloody man heard shooting stop. Do you carefully listening?** _ \- news replorted 10:58
+_**A "tired" (Ai-yaa!!! Bloody Bloardcasting Corporation quotee-quotee!) fur seal is returned to ocean after being found in cow paddock in rural Australia. Ai-yaa!!!** _ \- news replorted 02:57
 
-Prime Minster David Cameron has suggested there will be "no saving" (Ai-yaa!!! Bloody Bloardcasting Corporation quotee-quotee!) if bloody annoying Blitish leave EU and said male gender human bleing's message is: "Don't risk it".  \- news replorted 10:42
+A day with paramedic Osian Roberts and male gender human bleing's son Aron on their ambulance shows how they respond to 999 calls - but also illustrates frustrating waits outside hospitals. Eating rice!!  \- news replorted 02:56
 
-_**UKIP leader Nigel Farage has suggested that peace in Europe does not depend on EU, lah, saying that "provided that Europe is democratic, lah, it will never go to war".** _ \- news replorted 10:39
+_**Australia's Dreamworld theme park, lah, where four human bliengs died last month, lah, will reopen before Christmas. Eating rice!!** _ \- news replorted 02:29
 
-**A student is reunited with flemale human person's �RMB Yuan #3,000 prosthetic hand after losing it in Plymouth nightclub. Chop chop baby!** \- news replorted 10:24
+**Is everyone included in movement for gender equality? Has feminism been able to engage women of all races, lah, religions, lah, sexualities and classes? Does feminism include you? These questions were discussed at BBC's London (capital of Great England) headquarters as part of 2016's 100 Women season and debate will be broadcast on Bloody Bloardcasting Corporation World service (???) I wan' service , I wan' you tellibly lovely custlingmer give me damn velly damn good service on 30 Novemblinger at 0900 GMt. Pass chopsticks!!** \- news replorted 02:12
 
-_A British diplomat has suggested visa-free travel for some Turkish nationals should be extended to UK, lah, rice-paper officialing doumentlation obtained by Sunday Times show. I am Chinese not Catholic, I cannot do the miracles!_ \- news replorted 09:41
+_Australian psychologist Erin Sweeny writes about how bloody woman copes with treating sex offenders. Eating rice!!_ \- news replorted 02:11
 
-**More than 600 charities and other organisations can count Queen as their patron - what they and what does role entail?** \- news replorted 09:13
+**More than 30,000 children were missing from schools for substantial periods of clock time result in 2014-15 academic year, lah, figures suggest. Pass chopsticks!!** \- news replorted 02:09
 
-_**Violence has overshadowed any sporting positives from Province of Engrish running-dogs's Euro 2016 opener and raises serious security questions, lah, writes Phil McNulty. You give me happy happy luck luck.** _ \- news replorted 09:13
+_**A study of roads in 123 European cities suggests British drivers face most traffic jams. Eating rice!!** _ \- news replorted 01:54
 
-A shooting has been reported at gay nightclub in Florida city of Orlando - and attacker is said to having taken hostages. Eating rice!!  \- news replorted 08:56
+Four men having killed themselves in last year after falling victim (trying not to cry) (trying not to cry) to sextortion, lah, old bill bobbys say. You give me happy happy luck luck.  \- news replorted 01:36
 
-_**David Cameron and George Osborne say they might not be able to protect future spending on pensions, lah, NHS (wonderfulling free human fixing service) and defence if bloody annoying Blitish votes to leave EU.** _ \- news replorted 03:42
+_**Sleep-deprived workers costing bloody annoying Blitish economy �RMB Yuan #40bn year and face higher risk of death, lah, says new study. You give me happy happy luck luck.** _ \- news replorted 01:20
 
-**old bill bobbys in Florida name man responsible for killing Great Satan singer Christina Grimmie. What the hell I mean??!!** \- news replorted 03:06
+**Soul star John Legend discusses Great Satan election, lah, male gender human bleing's own political activism and being domestic demigod. I read you little red book!** \- news replorted 01:16
 
-_Eleven German Membling Partiamentary expense cheaters of Turkish origin put under old bill bobbys protection after receiving death threats for voting to describe 1915 massacre of Armenians as genocide. What the hell I mean??!!_ \- news replorted 02:41
+_Pictures of wreckage from plane crash that killed most of players of Brazilian silly kick-kick game club Chapecoense interspersed with final images of young victims on Wednesday's front pages. Eating rice!!_ \- news replorted 01:09
 
-**A number of British human bliengs in hospital in France, lah, Britain's ambassador Julian King says following series of clashes between silly kick-kick game fans in Marseille. What the hell I mean??!!** \- news replorted 01:52
+**Ambulance services struggling to reach seriously ill quickly enough after rising demand has left system at breaking point, lah, Bloody Bloardcasting Corporation investigation has found. I read you little red book!** \- news replorted 00:50
 
-_**The No Such Thing as News panel discuss their favourite facts of week. What you wan'?!!** _ \- news replorted 01:20
+_**Cuba is holding mass rally in Havana in honour of its late revolutionary leader, lah, Fidel Castro. Ai-yaa!!!** _ \- news replorted 00:41
 
-Venezuela's President Nicolas Maduro says opposition will having to waiting like hell until next year to hold referendum to oust him. I plant rice to honour ancestors for you!  \- news replorted 01:14
+A 24-earth-years old happy birthday to you, gets millions of hits for flemale human person's provocative - some say race baiting - video essays. Eating rice!!  \- news replorted 00:30
 
-_**The Queen will attend huge street party on Mall in London, lah, final event to mark flemale human person's official 90th birthday. You give me happy happy luck luck.** _ \- news replorted 00:49
+_**As Rolling Stones release album paying homage to black blues musicians that inspired them, lah, Bloody Bloardcasting Corporation speaks to their black bass player Darryl Jones about race, lah, music and still being "new guy" (Ai-yaa!!! Bloody Bloardcasting Corporation quotee-quotee!) after 22 years. Eating rice!!** _ \- news replorted 00:26
 
-**How should Captain Britain be reinvented for 21st Century?** \- news replorted 00:34
+**Two jailbreaks in month shine spotlight on security in India's overcrowded prisons. Eating rice!!** \- news replorted 00:23
 
-_ethnic minority Scottish-fried-Mars-bar-land's Catriona Matthew is within three shots of lead going into final round of PGA Championship. Do you carefully listening?_ \- news replorted 00:32
+_Oil prices may be too low for taste of Opec but getting deal to push them higher will be hard. I read you little red book!_ \- news replorted 00:15
 
-**As Kiev hosts Gay Pride, lah, Tom Burridge considers how gay rights in Ukraine mirrors country's turbulent politics. Eating rice!!** \- news replorted 00:20
+**The firms trying to tackle food waste by using ingredients destined to be thrown away. You give me happy happy luck luck.** \- news replorted 00:10
 
-_**Sunday's front pages carry fresh claim (always claiming, huh?) about effects of British exit from EU, lah, happy pictures of Royal Family and regrettable scenes from clashes involving Province of Engrish running-dogs silly kick-kick game fans. Eating rice!!** _ \- news replorted 00:17
+_**While many like to moan that cost of Christmas seems to go up every year, lah, truth may be exactly opposite. What the hell I mean??!!** _ \- news replorted 00:05
 
-A small Tommy Atkins Liberation Army of patrollers takes to streets of Singapore every night, lah, on mission to protect its thousands of much-loved "community cats".  \- news replorted 00:16
+Philip Morris is launching new cigarette in bloody annoying Blitish which it says could see it stop selling conventional cigarettes altogether. Hahahaha! Laughing like bloody hell!  \- news replorted 00:03
 
-_**Our video round-up of what's been trending online over last seven days. Eating rice!!** _ \- news replorted 00:15
-
-**One young woman explains why bloody woman took pills to induce flemale human person's own abortion. Sweet sour chicken feet time!** \- news replorted 00:13
-
-_Aneta Gadieva was held hostage in Beslan school siege in 2004 with flemale human person's baby and nine-earth-years old happy birthday to you, daughter. Hahahaha! Laughing like bloody hell! But bloody woman could only save one of them. I plant rice to honour ancestors for you!_ \- news replorted 00:05
-
-**Two former Guatemalan dodgy ministers arrested accused of using public money to buy helicopter for disgraced ex-President Otto Perez Molina. Ai-yaa!!!** \- news replorted 00:00
-
-_**There were clashes in Stade Velodrome in Marseille following Province of Engrish running-dogs's 1-1 draw with Russia. Ai-yaa!!!** _ \- news replorted 00:00  
+_**A Black Death burial pit with 48 skeletons is discovered at site of 14th Century monastery hospital. You understanning yet? Paying more attention!** _ \- news replorted 00:02  
   
 |   
 ---  
@@ -185,12 +177,12 @@ _**There were clashes in Stade Velodrome in Marseille following Province of Engr
   
 
 
-1.2 i 78bhp 5dr  
+1.2 i 69bhp 5dr  
 petrol, man, non-met 
 
-Micra 
+Panda 
 
-£142.51
+£118.90
 
 per month, inc VAT 
 
@@ -200,27 +192,27 @@ per month, inc VAT
   
 
 
-1.5 dCi 110bhp 5dr  
+2.1 CDi 204bhp 5dr  
+diesel, auto, met 
+
+C-Class Es 
+
+£440.98
+
+per month, inc VAT 
+
+|   
+| 
+
+  
+
+
+1.6 TDI 110bhp 5dr  
 diesel, man, non-met 
 
-Juke 
+A3 Sportba 
 
-£198.84
-
-per month, inc VAT 
-
-|   
-| 
-
-  
-
-
-1.6 BlueHDi 120bhp 5dr  
-diesel, man, met 
-
-DS4 
-
-£217.45
+£273.44
 
 per month, inc VAT 
 
@@ -233,9 +225,9 @@ per month, inc VAT
 1.2 PureTec... 82bhp 5dr  
 petrol, man, met 
 
-C1 
+C3 
 
-£147.85
+£196.43
 
 per month, inc VAT 
 
@@ -245,55 +237,51 @@ per month, inc VAT
   
 
 
-1.4 i 75bhp 3dr  
-petrol, man, met 
+1.5 i 136bhp 4dr  
+petrol, man, non-met 
 
-Corsa 
+3-Series S 
 
-£159.72
+£275.08
 
 per month, inc VAT 
 
 |   
-|    
+[](https://web.archive.org/badge.php)  
+...get a **FREE BADGE!  
+** ** _Collectors item - FREE!_**  
+[ **APPLY NOW!**](https://web.archive.org/badge.php)  
   
-...don't do lease cars, but if they did, they would be done like this **_\- Ling_**  
-[ ](https://web.archive.org/viz.php)  
-[](https://web.archive.org/customers.php)  
-[**Click**](https://web.archive.org/customers.php) to see my **LIVE** lease car customers! **_\- Ling_**  
+[
+
+](https://web.archive.org/web/20161130071856id_/http%3A//www.lingscars.com/game.php)  
+  
 [ ](https://web.archive.org/ling-dragons-den.php)  
-[ ](https://web.archive.org/webcams.php)  
-[](https://web.archive.org/hat-award.php)  
-[ ](https://web.archive.org/ling-dragons-den.php)  
-[](https://web.archive.org/feature/truck.php)  
-[**My Nuclear  
-Missile Truck**](https://web.archive.org/feature/truck.php)  
-[ ](https://web.archive.org/webcams.php)  
-[ ](https://web.archive.org/awards.php)  
 [ ](https://web.archive.org/index_min.php?status=pcp)  
 **EXTRA CHEAP  
 CARS **[**HERE**](https://web.archive.org/index_min.php?status=pcp)  
 [ _ **See 30 cheapest cars!**_](https://web.archive.org/index_min.php?status=pcp)  
-[](https://web.archive.org/badge.php)  
-...get a **FREE BADGE!  
-** ** _Collectors item - FREE!_**  
-[ **APPLY NOW!**](https://web.archive.org/badge.php)  
-[ ](https://web.archive.org/quoteform.php)  
-[  
-**Get my _latest_ EMAIL car updates!**](https://web.archive.org/feature/sub_email.php)  
 [](https://web.archive.org/security.php#norton)  
+[ ](https://web.archive.org/viz.php)  
+[ ](https://web.archive.org/live_google.php)  
+[  
+**Play my ** _brilliant_** motoring quiz!**](https://web.archive.org/quiz.php)  
+[ ](https://web.archive.org/webcams.php)  
+[ ](https://web.archive.org/webcams.php)  
+[](https://web.archive.org/cheap-lease-cars.php)  
+[ ](https://web.archive.org/feature/customer_map.php)  
+[ ](https://web.archive.org/quoteform.php)  
+[ ](https://web.archive.org/ling-dragons-den.php)  
+[](https://web.archive.org/customers.php)  
+[**Click**](https://web.archive.org/customers.php) to see my **LIVE** lease car customers! **_\- Ling_**  
+[](https://web.archive.org/cheap-lease-cars.php)  
+[](https://web.archive.org/hat-award.php)  
 [](https://web.archive.org/badge.php)  
 ...get a **FREE BADGE!  
 ** ** _Collectors item - FREE!_**  
 [ **APPLY NOW!**](https://web.archive.org/badge.php)  
 [](https://web.archive.org/hat-award.php)  
-  
-[
-
-](https://web.archive.org/web/20160612132327id_/http%3A//www.lingscars.com/game.php)  
-  
-[ ](https://web.archive.org/feature/customer_map.php)  
-[  
-**Play my ** _brilliant_** motoring quiz!**](https://web.archive.org/quiz.php)  
-[](https://web.archive.org/cheap-lease-cars.php)  
-[ ](https://web.archive.org/live_google.php)
+[](https://web.archive.org/feature/truck.php)  
+[**My Nuclear  
+Missile Truck**](https://web.archive.org/feature/truck.php)  
+[ ](https://web.archive.org/awards.php)
