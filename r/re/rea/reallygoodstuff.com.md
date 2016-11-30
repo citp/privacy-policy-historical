@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reallygoodstuff.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605030014id_/http%3A//www.reallygoodstuff.com/privacy/a/customer_service_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reallygoodstuff.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130021243id_/http%3A//www.reallygoodstuff.com/privacy/a/customer_service_privacy) for the most accurate reproduction.*
 
 # Privacy
 
