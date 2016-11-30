@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ptotoday.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608153611id_/http%3A//www.ptotoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptotoday.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130022511id_/http%3A//www.ptotoday.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Effective June 15, 2013
 
-School Family Media, Inc., the owner of this ptotoday.com website, has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website, ptotoday.com, as well as for our affiliated website: schoolfamilynights.com
+School Family Media, Inc., the owner of this PTOtoday.com website, has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website, PTOtoday.com, as well as for our affiliated website: SchoolFamilyNights.com
 
 #### **IP Addresses and Cookies**
 
