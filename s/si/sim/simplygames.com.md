@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the simplygames.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408184324id_/http%3A//www.simplygames.com/terms-conditions%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplygames.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130044425id_/http%3A//www.simplygames.com/terms-conditions%23privacy) for the most accurate reproduction.*
 
 # Terms and Conditions/Privacy Policy | SimplyGames
-
-### About SimplyGames
 
 Originally launched in 1998, SimplyGames is one of the longest-established online retailers of video games. In 2009 we were voted in the top 5 of UK online video game retailers. We despatch thousands of orders every week and have hundreds of thousands of satisfied customers. SimplyGames has won acclaim with customers and suppliers alike and in 2008 and we were given a glowing report in 'Web User' Magazine with a 4/5 rating. Simply Games is a leader in its field and at the heart of everything is our focus on value and customer service.
 
