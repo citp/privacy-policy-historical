@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachexcel.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520124841id_/http%3A//www.teachexcel.com/privacy/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachexcel.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130175723id_/http%3A//www.teachexcel.com/privacy/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - TeachExcel.com - Excel Video Tutorials Free
 
