@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the brooklyntabernacle.org privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121000356id_/http%3A//www.brooklyntabernacle.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooklyntabernacle.org privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130110418id_/http%3A//www.brooklyntabernacle.org/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | The Brooklyn Tabernacle
 
-This privacy notice discloses the privacy practices for [The Brooklyn Tabernacle](http://www.brooklyntabernacle.org/). This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
+This privacy notice discloses the privacy practices for [The Brooklyn Tabernacle](http://www.brooklyntabernacle.org/). This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
-  1. What personally identifiable information is collected from you through the web site and how it is used.
-  2. What choices are available to you regarding the use of your data.
-  3. The security procedures in place to protect the misuse of your information.
-  4. How you can correct any inaccuracies in the information.
+  1. What personally identifiable information is collected from you through the web site and how it is used. 
+  2. What choices are available to you regarding the use of your data. 
+  3. The security procedures in place to protect the misuse of your information. 
+  4. How you can correct any inaccuracies in the information. 
 
 
 
@@ -27,7 +27,7 @@ Unless you ask us not to, we may contact you via email in the future to tell you
 
 **Your Access to and Control Over Information**
 
-** ** You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website: 
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website: 
 
   * See what data we have about you, if any. 
   * Change/correct any data we have about you. 
@@ -40,10 +40,10 @@ Unless you ask us not to, we may contact you via email in the future to tell you
 
 **Security**
 
-** ** We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. 
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. 
 
 Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page. 
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately[via email](mailto:cto@brooklyntabernacle.org).**
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately  [via email](https://web.archive.org/the-church/contact-us).**
