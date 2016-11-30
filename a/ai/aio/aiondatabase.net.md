@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiondatabase.net privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629221542id_/http%3A//aiondatabase.net/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiondatabase.net privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130092347id_/http%3A//aiondatabase.net/us/privacy) for the most accurate reproduction.*
 
 # Item - Aion Database 1.0
 
