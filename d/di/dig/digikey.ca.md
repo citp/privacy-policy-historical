@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digikey.ca privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630043207id_/http%3A//www.digikey.ca/en/help/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digikey.ca privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130064404id_/http%3A//www.digikey.ca/en/help/Privacy) for the most accurate reproduction.*
 
 # Privacy Statement | DigiKey Electronics
 
@@ -52,7 +52,7 @@ Digi-Key will share customer information with government agencies if required by
 
 **4\. Other Information Practices**
 
- **Security** – Digi-Key takes commercially reasonable steps to protect data, particularly financial information, transmitted through the Web Site. Digi-Key, however, cannot be responsible for and does not warrant the security of any information you transmit over the Internet, including using the Web Site. Digi-Key's site is equipped with Secure Sockets Layer (SSL) technology. Browsers that support the SSL encryption technology are called _secure browsers_. **Online orders to Digi-Key must be placed from a secure browser.** Your browser will automatically enter the secure mode when you make purchases. If you **do not** have a _secure browser_ or would like to place orders using a method other than the Web Site, please review the [Ordering FAQs](http://www.digikey.ca/en/help/ordering-faqs) for alternative ordering methods.
+ **Security** – Digi-Key takes commercially reasonable steps to protect data, particularly financial information, transmitted through the Web Site. Digi-Key, however, cannot be responsible for and does not warrant the security of any information you transmit over the Internet, including using the Web Site. Digi-Key's site is equipped with Secure Sockets Layer (SSL) technology. Browsers that support the SSL encryption technology are called _secure browsers_. **Online orders to Digi-Key must be placed from a secure browser.** Your browser will automatically enter the secure mode when you make purchases. If you **do not** have a _secure browser_ or would like to place orders using a method other than the Web Site, please review the [Ordering FAQs](https://web.archive.org/en/help/ordering-faqs) for alternative ordering methods.
 
 **Access to Personal Information for Reviewing, Editing, and/or Removing** \- If you wish to discuss this Privacy Statement and the information we collect, you may contact us at the address provided in this Privacy Statement.
 
@@ -60,9 +60,9 @@ Digi-Key will share customer information with government agencies if required by
 
 **Do Not Track** \- Presently the Web Site does not honor “do not track” settings on web browsers and does not offer you the opportunity to request that we not track your use of its services.
 
-**Changes to this Policy** \- We may revise this Privacy Statement from time to time. The most current version of the Privacy Statement will govern our use of your information and will always be available. Please check this [Privacy Statement](http://www.digikey.ca/en/help/Privacy) often for changes. By continuing to access or use the Web Site after those changes become effective, you agree to be bound by the revised Privacy Statement and acknowledge that the revised Policy Statement applies to all information held by Digi-Key.
+**Changes to this Policy** \- We may revise this Privacy Statement from time to time. The most current version of the Privacy Statement will govern our use of your information and will always be available. Please check this [Privacy Statement](https://web.archive.org/en/help/Privacy) often for changes. By continuing to access or use the Web Site after those changes become effective, you agree to be bound by the revised Privacy Statement and acknowledge that the revised Policy Statement applies to all information held by Digi-Key.
 
-**Contacting Us** – If you have questions about our use of information, please contact us using the [Communications Center](http://www.digikey.ca/en/help/contact-us) (forms-based method of communicating with Digi-Key), or by contacting us at:
+**Contacting Us** – If you have questions about our use of information, please contact us using the [Communications Center](https://web.archive.org/en/help/contact-us) (forms-based method of communicating with Digi-Key), or by contacting us at:
 
 Digi-Key Electronics  
 701 Brooks Avenue South   
