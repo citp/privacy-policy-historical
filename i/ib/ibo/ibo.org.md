@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibo.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616182116id_/http%3A//www.ibo.org/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibo.org privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130184306id_/http%3A//www.ibo.org/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # IB privacy policy - International Baccalaureate®
 
