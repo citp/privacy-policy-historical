@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the syslint.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404124745id_/https%3A//syslint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syslint.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130011312id_/https%3A//syslint.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Syslint
+# Privacy Policy - Syslint.com
 
 This Privacy Statement describes the ways we collect information from and about you, and what we do with the information, so that you may decide whether or not to provide information to us. Generally, we may collect information about you in two ways: 
 
@@ -9,7 +9,7 @@ This Privacy Statement describes the ways we collect information from and about 
 
 
 
-##### Information We Collect
+#### Information We Collect
 
 We collects certain information from and about its users in three ways:
 
@@ -19,14 +19,14 @@ We collects certain information from and about its users in three ways:
 
 
 
-##### Disclosure
+#### Disclosure
 
 We do not disclose information about your individual visits with any other company. Information such as your name, address, email address, telephone numbers, etc. are not gathered or used by Real Web Host or any of its partners. We do collect information from website submissions only. This information is limited to your email which is used to confirm submissions or notify of changes to listings that may affect a website within our directory. Syslint may share such information in response to any legal processes, such as a court order, or in special cases such as a physical threat to you or others. Otherwise, this information is kept in secure confidentiality.
 
-##### Security
+#### Security
 
 We use various security measures to protect the information we collect, as appropriate to the type of information, including encryption, firewalls, and access controls.
 
-##### Sensitive Information
+#### Sensitive Information
 
 We will not intentionally collect or maintain, and do not want you to provide, any information regarding your medical or health condition, race or ethnic origin, political opinions, religious or philosophical beliefs or other sensitive information.
