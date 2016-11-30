@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mavi.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610194345id_/http%3A//us.mavi.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mavi.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130135358id_/http%3A//us.mavi.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Information Privacy Policy at Mavi
 
