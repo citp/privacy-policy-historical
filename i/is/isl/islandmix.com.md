@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the islandmix.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611235020id_/http%3A//www.islandmix.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandmix.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130143235id_/http%3A//www.islandmix.com/policy) for the most accurate reproduction.*
 
 # IslandMix
 
