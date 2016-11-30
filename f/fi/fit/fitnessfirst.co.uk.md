@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fitnessfirst.co.uk privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606180730id_/http%3A//www.fitnessfirst.co.uk/about-us--terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessfirst.co.uk privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130030134id_/http%3A//www.fitnessfirst.co.uk/about-us--terms/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Our Privacy Policy and Data Processing| Fitness First
 
 ### Information collected and how it is used
 
