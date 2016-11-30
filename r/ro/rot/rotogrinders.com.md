@@ -1,53 +1,6 @@
-> *The following text is extracted and transformed from the rotogrinders.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930054834id_/https%3A//rotogrinders.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotogrinders.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130122948id_/https%3A//rotogrinders.com/static/privacy-policy) for the most accurate reproduction.*
 
 # RotoGrinders: The Daily Fantasy Sports Authority
-
-[Rotogrinders.com | Daily Fantasy Games Advice, Community, and Rankings](https://rotogrinders.com/)
-
-  * Menu
-  * [Rotogrinders.com | Daily Fantasy Games Advice, Community, and Rankings](https://rotogrinders.com/)
-  *   * Sign In or Sign Up
-  * Daily Research
-  * Search
-  *     * FanDuel 
-    * DraftKings 
-    * Articles 
-    * Blogs 
-    * [Podcasts](https://rotogrinders.com/podcasts)
-    * [RotoAcademy](https://rotogrinders.com/rotoacademy)
-    * [LineupBuilder](https://rotogrinders.com/lineup-builder)
-    * [ GrindersLive ](https://rotogrinders.com/live)
-    * [Sign Up](https://rotogrinders.com/sign-up)
-    * [Sign In](https://rotogrinders.com/sign-in?from=https%3A%2F%2Frotogrinders.com%2Fstatic%2Fprivacy-policy)
-  *     * [FanDuel Review](https://rotogrinders.com/reviews/fanduel-promocode-115)
-    * [FanDuel Research Tools](https://rotogrinders.com/offers/nfl?site=fanduel)
-    * [FanDuel NFL Strategy](https://rotogrinders.com/articles/fanduel_nfl_Strategy-239686)
-    * [FanDuel NBA Strategy](https://rotogrinders.com/articles/fanduel_nba_Strategy-239702)
-    * [FanDuel MLB Strategy](https://rotogrinders.com/articles/fanduel_mlb_Strategy-239696)
-  *     * [News](https://rotogrinders.com/articles/category/news)
-    * By Sport 
-    * [Promotions & Industry](https://rotogrinders.com/articles/category/industry)
-    * [Strategy](https://rotogrinders.com/articles/category/strategy)
-    * [Championship Coverage](https://rotogrinders.com/pages/RotoGrinders_Championship_Coverage-100358)
-    * [Interviews](https://rotogrinders.com/articles/category/interviews)
-    * [DFS Timeline](https://rotogrinders.com/static/daily-fantasy-sports-timeline)
-  *     * [ NFL](https://rotogrinders.com/articles/category/nfl)
-    * [ MLB](https://rotogrinders.com/articles/category/mlb)
-    * [ NBA](https://rotogrinders.com/articles/category/nba)
-    * [ NHL](https://rotogrinders.com/articles/category/nhl)
-    * [ CFB](https://rotogrinders.com/articles/category/cfb)
-    * [ CBB](https://rotogrinders.com/articles/category/cbb)
-    * [ PGA](https://rotogrinders.com/articles/category/pga)
-  *     * [Daily Research](https://rotogrinders.com/offers/mlb?site=fanduel)
-    * [Main Forum](https://rotogrinders.com/threads/category/main)
-    * [All Forums](https://rotogrinders.com/forums)
-    * Rankings 
-    * Reviews 
-    * [Starting Lineups](https://rotogrinders.com/lineups/mlb?site=fanduel)
-    * [Incentives](https://rotogrinders.com/incentives)
-    * Search 
-
-
 
 RotoGrinders understands your desire to have your personal information protected. We respect your concerns about privacy and describe below the types of information we collect, how we may use it, and with whom we may share it. Please contact us at support@rotogrinders.com with any questions you may have.
 
