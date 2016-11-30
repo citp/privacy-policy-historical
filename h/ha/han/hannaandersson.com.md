@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hannaandersson.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620201618id_/http%3A//www.hannaandersson.com/Static.asp%3Fpg%3D201) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hannaandersson.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130151927id_/http%3A//www.hannaandersson.com/Static.asp%3Fpg%3D201) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT
 
@@ -51,7 +51,7 @@ Information that is collected is used in the following ways:
  •To confirm and process your order.   
  •To contact you regarding updates to your order.   
  •To provide the Services.   
- •To send you information regarding website and product updates, special promotions, new store openings, etc. Marketing information may be provided via mail or email.   
+ •To send you information regarding website and product updates, special promotions, new store openings, etc. Marketing information may be provided via mail or email.  
  •To comply with regulatory requirements for the maintenance of records.  
  •To conduct internal reviews of our Services and to help us better understand visitors' and customers' uses of our Services.  
  •To tailor our product offering and marketing promotions and make your shopping experience more enjoyable and convenient.  
