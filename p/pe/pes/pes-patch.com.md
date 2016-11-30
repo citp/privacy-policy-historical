@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pes-patch.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612165849id_/http%3A//www.pes-patch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pes-patch.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130022057id_/http%3A//www.pes-patch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PES Patch
 
@@ -45,3 +45,6 @@ The Use of  Advertising on PES-Patch.com
 We use third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.
 
 Any changes we may make to our privacy policy in the future will be posted on this page.
+
+ **Important:** All patches on site are created to be used only with a legal copy of the game.  
+You agree to use the site only if you own the game.
