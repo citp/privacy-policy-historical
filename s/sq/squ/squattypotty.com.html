@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the squattypotty.com privacy policy that was archived on 2016-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160629054223id_/http%3A//www.squattypotty.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the squattypotty.com privacy policy that was archived on 2016-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161130134501id_/http%3A//www.squattypotty.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <meta charset="utf-8">
@@ -37,16 +37,151 @@
         
         <link rel="stylesheet" href="/media/static/styles/font-awesome.min.css">
         <link rel="stylesheet" href="/media/static/styles/animations.css">
-        <link rel="stylesheet" href="/media/static/CACHE/css/67cd67e56591.css" type="text/css">
+        <link rel="stylesheet" href="/media/static/CACHE/css/8f427bc4d7f6.css" type="text/css">
 
         
-        <script type="text/javascript" src="/media/static/CACHE/js/a2a4ee9115e3.js"></script>
+        <script type="text/javascript" src="/media/static/CACHE/js/4d54b08b7bd0.js"></script>
+        <script>
+          $(function(){
+            $('.products .image').matchHeight(true);
+            $('.products .name').matchHeight(true);
+            $('.products .price-box').matchHeight(true);
+            $('.products').matchHeight(true);
+
+            function price_update(){
+              var $price = $(this).parents('.product').find('.price');
+              var price_change = $(this).find(":selected").data('price-change');
+              var initial = $price.data('initial');
+              if(price_change) {
+                $price.find('strong').text('$'+(initial+price_change));
+              } else {
+                $price.find('strong').text('$'+initial);
+              }
+            }
+
+            var $product_selectors = $('.products [name="productname"]');
+            $product_selectors.change(price_update);
+            $product_selectors.each(price_update);
+          });
+        </script>
         <script src="/nexus/media/experiments/js/experiments.js"></script>
         
         
         
         
         
+        <script>
+var AJAX = {
+    // handle a form submission including updating the cart quantity
+    updatestatus : function(json, result_target, count_target) {
+        var result = json.results;
+        if (result == "Success") {
+            $(result_target).html('<p></p>'
+        		+ '<div class="alert alert-success">'
+        			+ '<strong>Added To Cart:</strong> '
+        			+ 'Proceed to the '
+        			+ '<a href="/shop/cart/">shopping cart</a>.'
+        		+ '</div>').addClass("status-updated");
+        }
+
+        // tell jQuery to update the page
+        errors = json.errors;
+        if (errors.length > 0) {
+        	$(result_target).html('').addClass("status-updated");
+        	
+            for (var i = 0; i < errors.length; i++) {
+                wich = errors[i][0];
+                err = errors[i][1];
+                $(result_target).append('<p></p>' 
+            		+ '<div class="alert alert-danger">'
+	            		+ '<strong>Error:</strong> '
+	            		+ err
+            		+ '</div>');
+            }
+        }
+        else
+        {
+          $('.basketTotal').html('$' + parseFloat(json.cart_total).toFixed(2));
+          $('.basketItems').html(json.cart_count);
+          id = 'quickcart-item-' + json.id;
+elm = document.getElementById(id);
+if (!elm) {
+
+    try
+    {
+        list = document.getElementById('quickcart-items');
+        if (list)
+        {
+            elm = document.createElement('li');
+            elm.setAttribute('id', id);
+            list.appendChild(elm);
+        }
+    }
+    catch(err) {}
+
+    try
+    {
+        price = document.getElementById('quickcart-price');
+        if (price)
+        {
+            price.innerHTML = json.name +" Added!";
+        }
+    }
+    catch(err) {}
+}
+
+if (elm)
+    elm.innerHTML = json.name + ': ' + json.item_count;
+
+			// Load quickcart script to show items in cart, if they have the app installed
+          if ($('#quickcart').length > 0) {
+          	update_cart();
+          }
+        }
+    },
+
+    validate : function(formArray, jqForm, target) {
+        var qty = 0;
+        for (var i = 0; i < formArray.length; i++) {
+            var element = formArray[i];
+            if (element.name == 'quantity') {
+                qty = eval(element.value);
+            }
+        }
+
+        if (!qty > 0) {
+            $(target).html('Choose a valid quantity');
+            return false;
+        }
+        return true;
+    }
+};
+
+// Hook the submit to the add to cart form.  Degrades to a standard submit
+// if no javascript
+$(function() {
+    $('form[action="/shop/add/"] button[name=addcart]').click(function(){
+        var f =  $(this).closest('form');
+        var s = f.find('.statusupdate');
+        f.ajaxSubmit({
+            url : '/shop/cart/add/ajax/',
+            type : 'POST',
+            beforeSubmit : function(formArray, jqForm) {
+                s.html('<p></p>'
+                		+ '<div class="alert alert-info">' 
+                		+ '<strong>Please wait .... </strong>'
+                		+ '</div>');
+                return AJAX.validate(formArray, jqForm, s);
+            },
+            dataType : 'json',
+            success : function(json) {
+                AJAX.updatestatus(json, s, '#more-cart-info .cartcount');
+            }
+        });
+        return false;
+    });
+});
+</script>
         
         <!--[if lt IE 9]>
             <script type="text/javascript" src="/media/static/scripts/html5shiv.js"></script>
@@ -122,7 +257,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
                 <div class="promo-text pull-left">
                     <a href="/free-shipping/">
-                      <b>FREE SHIPPING</b> to Contiguous US
+                        <b>FREE SHIPPING</b>&nbsp;on orders over $19.99
                     </a>
                 </div>
                 <div class="promo-text pull-left">
@@ -133,13 +268,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
                 <div class="social-media pull-right">
                     <ul class="list-unstyled">
-                        <li class="square facebook"><a href="https://www.facebook.com/squattypotty" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                        <li class="square google"><a href="https://plus.google.com/101716418942211763308?prsrc=3" rel="publisher" target="_blank" style="text-decoration:none;"><i class="fa fa-google-plus-square" alt="Google+"></i></a></li>
-                        <li class="square twitter"><a href="https://twitter.com/squattypotty" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                        <li class="square pinterest"><a href="https://www.pinterest.com/squattypotty/" target="_blank"><i class="fa fa-pinterest-p"></i></a></li>
-                        <li class="square instagram"><a href="http://instagram.com/squattypotty/" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                        <li class="square youtube"><a href="https://www.youtube.com/user/MySquattyPotty" target="_blank"><i class="fa fa-youtube"></i></a></li>
-                        <li class="square mail"><a href="/contact/"><i class="fa fa-envelope"></i></a></li>
                         
                         <li class="login">
   <a href="/accounts/login/">Login</a>
@@ -170,7 +298,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="row">
                     <nav class="left-top-menu col-sm-4 hidden-sm hidden-xs pull-left">
                         
-<ul class="None nav menu menu-1"><li class=" menu-item menu-first menu-odd dropdown-submenu "><a href="/5-problems-with-sitting-on-your-toilet/">Get Educated</a><ul class="dropdown-menu menu-sub"><li class=" menu-item menu-first menu-odd  "><a href="/faqs/">FAQs</a></li><li class=" menu-item menu-even  "><a href="/medical-case-studies/">Medical Case Studies</a></li><li class=" menu-item menu-odd  "><a href="/newsletter/subscribe/">Newsletters</a></li><li class=" menu-item menu-even  "><a href="/about/">The Family</a></li><li class=" menu-item menu-last menu-odd  "><a href="/videos/">Videos</a></li></ul></li><li class=" menu-item menu-active menu-last menu-even dropdown-submenu active"><a href="/shop/">Shop</a><ul class="dropdown-menu menu-sub"><li class=" menu-item menu-first menu-odd  "><a href="/shop/product/ecco/">Ecco</a></li><li class=" menu-item menu-even  "><a href="/shop/category/gifts/">Gifts</a></li><li class=" menu-item menu-odd  "><a href="/shop/product/good-move/">Good Move! Colon Care</a></li><li class=" menu-item menu-even  "><a href="/shop/product/porta-squatty/">Porta-Squatty</a></li><li class=" menu-item menu-odd  "><a href="/shop/product/refresh-it-bidet/">Refresh-it Bidet</a></li><li class=" menu-item menu-even  "><a href="/shop/category/slims/">Slim</a></li><li class=" menu-item menu-odd  "><a href="/shop/product/sweet-loo-potty-spray/">Sweet-Loo Potty Spray</a></li><li class=" menu-item menu-even  "><a href="/shop/product/i-pooped-today-t-shirt/">T-Shirts</a></li><li class=" menu-item menu-last menu-odd  "><a href="/shop/product/tao-bamboo-adjustable/">Tao Bamboo</a></li></ul></li></ul>
+<ul class="None nav menu menu-1"><li class=" menu-item menu-first menu-odd dropdown-submenu "><a href="/5-problems-with-sitting-on-your-toilet/">Get Educated</a><ul class="dropdown-menu menu-sub"><li class=" menu-item menu-first menu-odd  "><a href="/faqs/">FAQs</a></li><li class=" menu-item menu-even  "><a href="/medical-case-studies/">Medical Case Studies</a></li><li class=" menu-item menu-odd  "><a href="/newsletter/subscribe/">Newsletters</a></li><li class=" menu-item menu-even  "><a href="/about/">The Family</a></li><li class=" menu-item menu-last menu-odd  "><a href="/videos/">Videos</a></li></ul></li><li class=" menu-item menu-last menu-even dropdown-submenu "><a href="/shop/">Shop</a><ul class="dropdown-menu menu-sub"><li class=" menu-item menu-first menu-odd  "><a href="/shop/product/ecco/">Ecco Original Squatty Potty Stool</a></li><li class=" menu-item menu-even  "><a href="/shop/category/gifts/">Gifts</a></li><li class=" menu-item menu-odd  "><a href="/shop/product/good-move/">Good Move! Colon Care</a></li><li class=" menu-item menu-even  "><a href="/shop/category/merch/">Merch</a></li><li class=" menu-item menu-odd  "><a href="/shop/product/porta-squatty-foldable/">Porta-Squatty</a></li><li class=" menu-item menu-even  "><a href="/shop/product/refresh-it-bidet/">Refresh-it Bidet</a></li><li class=" menu-item menu-odd  "><a href="/shop/category/slims/">Slim</a></li><li class=" menu-item menu-even  "><a href="/shop/product/tao-bamboo-adjustable/">Tao Bamboo</a></li><li class=" menu-item menu-last menu-odd  "><a href="/shop/product/unicorn-gold-spray/">Unicorn Gold Potty Spray</a></li></ul></li></ul>
 
                     </nav> <!-- end of nav .top-menu -->
 
@@ -187,7 +315,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                     <nav class="right-top-menu col-sm-4 hidden-sm hidden-xs pull-right">
                         
-<ul class="None nav menu menu-2"><li class=" menu-item menu-first menu-odd  "><a href="/press/">Press</a></li><li class=" menu-item menu-last menu-even dropdown-submenu "><a href="/success-stories/">Reviews</a><ul class="dropdown-menu menu-sub"><li class=" menu-item menu-first menu-odd  "><a href="/independent-reviews/">Independent Reviews</a></li><li class=" menu-item menu-last menu-even  "><a href="/success-stories/">Success Stories</a></li></ul></li></ul>
+<ul class="None nav menu menu-2"><li class=" menu-item menu-first menu-odd  "><a href="/press/">Press</a></li><li class=" menu-item menu-last menu-even dropdown-submenu "><a href="/success-stories/">Reviews</a><ul class="dropdown-menu menu-sub"><li class=" menu-item menu-first menu-odd  "><a href="/independent-reviews/">Independent Reviews</a></li><li class=" menu-item menu-even  "><a href="/success-stories/">Success Stories</a></li><li class=" menu-item menu-last menu-odd  "><a href="/user-experience/">User Experience</a></li></ul></li></ul>
 
                     </nav> <!-- end of nav .top-menu -->
 
@@ -199,7 +327,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <a href="javascript:void(0);" id="main-menu"><span><i class="fa fa-bars"></i>MENU</span></a>
                             <div id="menu-list">
                                 
-<ul class="None nav menu menu-3"><li class=" menu-item menu-first menu-odd dropdown-submenu "><a href="#">Contact</a><ul class="dropdown-menu menu-sub"><li class=" menu-item menu-first menu-odd  "><a href="/contact-us/">Contact</a></li><li class=" menu-item menu-even  "><a href="/returns-and-exchanges/">Returns &amp; Exchanges</a></li><li class=" menu-item menu-last menu-odd  "><a href="/free-shipping/">Shipping &amp; Deliveries</a></li></ul></li><li class=" menu-item menu-even dropdown-submenu "><a href="#">Get Educated</a><ul class="dropdown-menu menu-sub"><li class=" menu-item menu-first menu-odd  "><a href="/medical-case-studies/">Medical Case Studies</a></li><li class=" menu-item menu-even  "><a href="/press/">Press</a></li><li class=" menu-item menu-odd  "><a href="/about/">The Family</a></li><li class=" menu-item menu-last menu-even  "><a href="/videos/">Videos</a></li></ul></li><li class=" menu-item menu-odd dropdown-submenu "><a href="#">Reviews</a><ul class="dropdown-menu menu-sub"><li class=" menu-item menu-first menu-odd  "><a href="/independent-reviews/">Independent Reviews</a></li><li class=" menu-item menu-last menu-even  "><a href="/success-stories/">Success Stories</a></li></ul></li><li class=" menu-item menu-active menu-last menu-even  active"><a href="/shop/">Shop</a></li></ul>
+<ul class="None nav menu menu-3"><li class=" menu-item menu-first menu-odd dropdown-submenu "><a href="#">Contact</a><ul class="dropdown-menu menu-sub"><li class=" menu-item menu-first menu-odd  "><a href="/contact-us/">Contact</a></li><li class=" menu-item menu-even  "><a href="/returns-and-exchanges/">Returns &amp; Exchanges</a></li><li class=" menu-item menu-last menu-odd  "><a href="/free-shipping/">Shipping &amp; Deliveries</a></li></ul></li><li class=" menu-item menu-even dropdown-submenu "><a href="#">Get Educated</a><ul class="dropdown-menu menu-sub"><li class=" menu-item menu-first menu-odd  "><a href="/medical-case-studies/">Medical Case Studies</a></li><li class=" menu-item menu-even  "><a href="/press/">Press</a></li><li class=" menu-item menu-odd  "><a href="/about/">The Family</a></li><li class=" menu-item menu-last menu-even  "><a href="/videos/">Videos</a></li></ul></li><li class=" menu-item menu-odd dropdown-submenu "><a href="#">Reviews</a><ul class="dropdown-menu menu-sub"><li class=" menu-item menu-first menu-odd  "><a href="/independent-reviews/">Independent Reviews</a></li><li class=" menu-item menu-last menu-even  "><a href="/success-stories/">Success Stories</a></li></ul></li><li class=" menu-item menu-last menu-even  "><a href="/shop/">Shop</a></li></ul>
 
                             </div>
                         </div>
@@ -341,7 +469,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </a>
   </li>
   <li>
-    <a href="http://www.squatty-potty.cz/" target="_blank" title="Poland Global Retailer">
+    <a href="http://www.squattypotty.com.pl/" target="_blank" title="Poland Global Retailer">
       <img class="img-responsive" src="/media/static/styles/images/poland-flag.png" alt="Poland">
     </a>
   </li>
@@ -395,7 +523,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <li class="button"><a href="/store-locator/">All Retailers</a></li>
   <div class="clearfix"></div>
 </ul>
-
                     <div class="clearfix"></div>
                 </article>
                 <article class="col-lg-3 col-md-4 col-sm-12 affiliate">
@@ -537,6 +664,7 @@ src="https://www.facebook.com/tr?id=422711587931190&ev=PageView&noscript=1"
     
     <!-- Start of LiveChat (www.livechatinc.com) code -->
     <script type="text/javascript">
+      if ($(window).width() >= 768) {
     window.__lc = window.__lc || {};
     window.__lc.license = 7614671;
     (function() {
@@ -544,6 +672,7 @@ src="https://www.facebook.com/tr?id=422711587931190&ev=PageView&noscript=1"
         lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
     })();
+      }
     </script>
     <!-- End of LiveChat code -->
     
