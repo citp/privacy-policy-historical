@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splashthat.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524102702id_/https%3A//splashthat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splashthat.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130075731id_/https%3A//splashthat.com/privacy) for the most accurate reproduction.*
 
 # Splash - Privacy Policy
 
