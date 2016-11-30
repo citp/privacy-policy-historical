@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ehow.co.uk privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630214911id_/http%3A//www.ehow.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehow.co.uk privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130031529id_/http%3A//www.ehow.co.uk/privacy.html) for the most accurate reproduction.*
 
 # eHow | How to Videos, Articles, & More - Discover the expert in you. | eHow UK
 
 **Effective Date: February 2, 2011**
 
-We are Demand Media, Inc (" **Demand Media** ", "we", "us" or "our").
+We are Leaf Group, Ltd (" **Leaf Group** ", "we", "us" or "our").
 
-Demand Media is committed to protecting your privacy and providing a safe online experience for all our users. This Privacy Policy (" **Privacy Policy** " or the " **Policy** ") sets out how we use and process your personal information (meaning any information about you which is personally identifiable or can be related back to you like your name or email address) (" **PII** ") that we have access to when you use the services we provide at [http://www.ehow.co.uk](http://www.ehow.co.uk/), which includes all of the ehow.co.uk articles and videos and other services we provide on the website (collectively, the "Site"). Please read the complete Policy below and contact us if you have any questions.
+Leaf Group is committed to protecting your privacy and providing a safe online experience for all our users. This Privacy Policy (" **Privacy Policy** " or the " **Policy** ") sets out how we use and process your personal information (meaning any information about you which is personally identifiable or can be related back to you like your name or email address) (" **PII** ") that we have access to when you use the services we provide at [http://www.ehow.co.uk](http://www.ehow.co.uk/), which includes all of the ehow.co.uk articles and videos and other services we provide on the website (collectively, the "Site"). Please read the complete Policy below and contact us if you have any questions.
 
 Because protecting your privacy is important to us, we adhere to the Safe Harbor Agreement concerning the transfer of personal data from the European Union ("EU") to the United States of America. Accordingly, we follow the Safe Harbor Principles published by the U.S. Department of Commerce ("Principles") with respect to all PII that we receive. If there is any conflict between the policies in this statement and the Principles, the Principles will govern. This statement outlines our general policy and practices for implementing the Principles, including the types of information we receive, how we use it, and the choices affected individuals have regarding our use of, and their ability to correct, that information.
 
@@ -29,7 +29,7 @@ If you are not comfortable with this Privacy Policy, please do not provide us wi
 
 You should review your privacy settings on your Facebook account because those settings determine and govern what PII may be made available to us when you access the Site. While Facebook Login allows us to access a variety of information about you based on your Facebook account’s privacy settings, we only access PII which we feel is useful to enhance your experience of the Site, including your name, gender and location.
 
-If you formerly maintained a user profile on the Site through a predecessor user registration form, that user profile will no longer be accessible. Demand Media will only retain former user profile information to the extent we feel it is necessary to contact you and keep you updated about material changes to the Site.
+If you formerly maintained a user profile on the Site through a predecessor user registration form, that user profile will no longer be accessible. Leaf Group will only retain former user profile information to the extent we feel it is necessary to contact you and keep you updated about material changes to the Site.
 
 We may collect any information you enter on the Site or give us in any other way (such as through an email, survey, or letter). The information that we collect varies depending upon how you use our Site. 
 
@@ -61,14 +61,14 @@ Our cookies do not collect PII that you provide to us during the registration pr
 
 **Retention of Information**. We retain information for as long as is necessary. We advise that you keep your own, separate back-up records of any of your PII or other information.
 
-  3. Does Demand Media Share Information With Other Parties? 
+  3. Does Leaf Group Share Information With Other Parties? 
 
 We share information with third parties, but only as described in this Section 3.
 
     * **Advertisers and Others**. We share non-personally identifiable information with advertisers, service providers, and other persons with whom we conduct business. Similarly, these advertisers, service providers, and other persons may share with us non-PII about you that they have independently gathered or acquired. 
     * **Third Party Services**. We contract with affiliated and non-affiliated third parties to provide services to us or to you on our behalf. Examples include providing marketing assistance, providing customer service, sending emails to you, removing repetitive information from customer lists, and analysing data. These third parties may have access to your PII, but will be required to use this information solely in connection with these authorised business activities. 
     * **Business Transfer**. As we develop our business, we might sell or buy businesses or their assets, or engage in transfers, acquisitions, mergers, restructurings, changes of control or similar transactions. In such transactions, customer information generally is one of the transferred business assets, and your PII may be subject to such a transfer. Also, in the unlikely event of a bankruptcy, PII may be transferred to a bankruptcy trustee or debtor in possession and then to a subsequent purchaser. 
-    * **Affiliates**. We may share PII, non-PII and other information with our corporate affiliates. Some of our most significant affiliates are identified on the website of our parent company, Demand Media, Inc. [http://www.demandmedia.com](http://www.demandmedia.com/). Corporate affiliates are those entities that we control, are controlled by us, or are under common control with us and any joint venture in which any of the controlled entities may participate from time to time. Any use of your information by our corporate affiliates is subject to this Policy or another policy no less protective of your privacy. Conversely, we may obtain information about you from our corporate affiliates or from your visits to other websites that we or our corporate affiliates control. 
+    * **Affiliates**. We may share PII, non-PII and other information with our corporate affiliates. Some of our most significant affiliates are identified on the website of our parent company, Leaf Group, Ltd. [http://www.leafgroup.com](http://www.leafgroup.com/). Corporate affiliates are those entities that we control, are controlled by us, or are under common control with us and any joint venture in which any of the controlled entities may participate from time to time. Any use of your information by our corporate affiliates is subject to this Policy or another policy no less protective of your privacy. Conversely, we may obtain information about you from our corporate affiliates or from your visits to other websites that we or our corporate affiliates control. 
     * **Compliance and Safety**. We may release user information when we believe release is appropriate to: 
       * comply with applicable law, and to respond to legal requests and to respond to or otherwise address written complaints of copyright infringement; 
       * make disclosures under programs intended to prevent potential crimes or investigate persons; 
@@ -84,7 +84,7 @@ We share information with third parties, but only as described in this Section 3
 
 The Site contains links to other sites. We are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of every web site that collects your PII. This Policy applies only to information collected by the Site.
 
-  6. What Does Demand Media Do When This Privacy Policy Changes? 
+  6. What Does Leaf Group Do When This Privacy Policy Changes? 
 
 We reserve the right to change our Policy at any time. Non-material changes and clarifications will take effect immediately. If we make non-material changes, we will indicate at the top of this page the revised Policy's new effective date. If we make material changes, we will notify you by email or through notice on the home page of the Site, and will also indicate so at the top of this page. The material changes will take effect 30 days after such notice. We encourage you to refer to this Policy at least every 30 days to check for material changes to this Policy.
 
@@ -98,13 +98,13 @@ Any transfer of your PII is done in circumstances ensuring that your data is pro
 
 We utilize the self-assessment approach to assure our compliance with our privacy statement. We periodically verify that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented, and in conformity with the Principles. We encourage interested persons to raise any concerns with us using the contact information below. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this policy.
 
-**Privacy Concerns**. If you have any concern or complaint about privacy at the Site, please contact us at Demand Media, Inc. Legal Department, 15801 NE 24th Street, Bellevue, WA 98008, U.S.A or email us at [legal@demandmedia.com](mailto:legal@demandmedia.com). We will do our best to respond to you in a timely and professional manner to answer your questions and resolve your concerns. In the unfortunate and unlikely event that we cannot resolve your concerns, we have contracted with BBBOnline as a dispute resolution provider. You can contact the BBBOnline at <http://www.bbbonline.org/consumer/complaint.asp> and follow their guidelines for initiating their dispute resolution procedures. 
+**Privacy Concerns**. If you have any concern or complaint about privacy at the Site, please contact us at Leaf Group, Ltd. Legal Department, 15801 NE 24th Street, Bellevue, WA 98008, U.S.A or email us at [legal@leafgroup.com](mailto:legal@leafgroup.com). We will do our best to respond to you in a timely and professional manner to answer your questions and resolve your concerns. In the unfortunate and unlikely event that we cannot resolve your concerns, we have contracted with BBBOnline as a dispute resolution provider. You can contact the BBBOnline at <http://www.bbbonline.org/consumer/complaint.asp> and follow their guidelines for initiating their dispute resolution procedures. 
 
 **Customer Services**. For customer service matters (including questions relating to this Policy), you may email via our [contact form](http://help.ehow.com/home).
 
 
 
 
-Demand Media and eHow are registered trademarks of Demand Media, Inc. in the United States and other countries.
+Leaf Group and eHow are registered trademarks of Leaf Group, Ltd. in the United States and other countries.
 
-Copyright © 2016. Demand Media, Inc.
+Copyright © 2016. Leaf Group, Ltd.
