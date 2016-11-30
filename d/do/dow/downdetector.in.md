@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downdetector.in privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603142739id_/http%3A//downdetector.in/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downdetector.in privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130230034id_/http%3A//downdetector.in/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement and policy Down Detector
 
