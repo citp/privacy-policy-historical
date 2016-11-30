@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govtjobswall.in privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617031458id_/http%3A//www.govtjobswall.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtjobswall.in privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130194929id_/https%3A//www.govtjobswall.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Latest Govt Jobs 2016
 
