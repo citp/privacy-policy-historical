@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fashion71.net privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516041535id_/http%3A//www.fashion71.net/privacy-security-a45.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashion71.net privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130162724id_/http%3A//www.fashion71.net/privacy-security-a45.html) for the most accurate reproduction.*
 
-# Privacy & Security_Policies_Wholesale clothing from China fashion online shop. Cheap Korean fashion clothes, high heels shoes, T shirts, dresses and clothing on sale.
+# Privacy & Security_Policies_Wholesale clothing, Wholesale Clothes Online From China
 
 At first, our target is to make your shopping experience safe, convenient and care-free. Our privacy and security programs make sure that every transaction made at is 100% safe and guaranteed.
 
