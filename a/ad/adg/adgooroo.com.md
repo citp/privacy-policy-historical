@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adgooroo.com privacy policy that was archived on 2016-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160108043604id_/http%3A//www.adgooroo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adgooroo.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130172212id_/https%3A//www.adgooroo.com/privacy-policy) for the most accurate reproduction.*
 
 # AdGooroo Privacy Policy | AdGooroo
 
@@ -10,7 +10,7 @@ This privacy policy applies solely to the Web site pages located at www.AdGooroo
 
 **Information Collection**
 
-****AdGooroo collects personally identifiable information from our users of this Site in certain sections of the Site, such as our Contact Us forms, Webinar sign-up forms, and Whitepaper download forms. Typically the information collected is name, company, email address, and phone number.
+AdGooroo collects personally identifiable information from our users of this Site in certain sections of the Site, such as our Contact Us forms, Webinar sign-up forms, and Whitepaper download forms. Typically the information collected is name, company, email address, and phone number.
 
 If you submit a resume or otherwise seek employment with AdGooroo, we may collect your employment and professional history.
 
