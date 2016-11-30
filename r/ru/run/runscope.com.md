@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the runscope.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403210301id_/https%3A//www.runscope.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runscope.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130051110id_/https%3A//www.runscope.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy · Runscope
+# Privacy Policy · Runscope API Testing & Monitoring
 
 ## Runscope Privacy Policy
 
