@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tunnel2towers.org privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518192715id_/http%3A//tunnel2towers.org/wp-content/uploads/2015/11/Tunnel-To-Towers-Donor-Privacy-Policy-2015.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tunnel2towers.org privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130132929id_/http%3A//tunnel2towers.org/wp-content/uploads/2015/11/Tunnel-To-Towers-Donor-Privacy-Policy-2015.pdf) for the most accurate reproduction.*
 
 # Stephen Siller Tunnel to Towers Foundation Donor Privacy Policy
 
