@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myschoolgist.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317042314id_/http%3A//www.myschoolgist.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myschoolgist.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130213514id_/http%3A//www.myschoolgist.com.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nigeria Universities, Polytechnics and Colleges News
 
@@ -6,11 +6,11 @@ At [MySchoolGist](http://www.myschoolgist.com.ng/ "MySchoolGist"), the privacy o
 
 ### What Information do We Collect?
 
-  * **Personal identification information**  
+  *  **Personal identification information**  
 We may collect personal identification information from users in a variety of ways, including, but not limited to, when users visit our site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
-  * **Non-personal identification information**  
+  *  **Non-personal identification information**  
 We may collect non-personal identification information about users whenever they interact with our Site. Non-personal identification information may include the internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
-  * **Web browser cookies**  
+  *  **Web browser cookies**  
 Our Site may use “cookies” to enhance user experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 
@@ -19,13 +19,13 @@ Our Site may use “cookies” to enhance user experience. User’s web browser 
 
 MySchoolGist may collect and use users personal information for the following purposes:
 
-  * **To improve our website**  
+  *  **To improve our website**  
 We may use feedback you provide to improve our tutorials, design, products and services.
-  * **To personalize user experience**  
+  *  **To personalize user experience**  
 We may use information in the aggregate to understand how our users as a group use the services and resources provided on our Site.
-  * **To improve customer service**  
+  *  **To improve customer service**  
 Your information helps us to more effectively respond to your customer service requests and support needs.
-  * **To send periodic emails**  
+  *  **To send periodic emails**  
 We may use the email address to respond to their inquiries, questions, and/or other requests. If user decides to opt-in to our mailing list, they will receive emails that may include news, updates, related product or service information, etc. If at any time the user would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or user may contact us via our Site.
 
 
@@ -46,7 +46,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Ads appearing on our site may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-**Google Adsense**  
+ **Google Adsense**  
 Some of the ads may be served by Google. Google, as a third party vendor, uses cookies to serve ads on www.myschoolgist.com.ng. Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.myschoolgist.com.ng and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](http://www.google.com/policies/privacy/ads/ "Google ad and content network privacy policy"). MySchoolGist has no access to or control over these cookies that are used by third-party advertisers.
 
 ### Online Privacy Policy Only
