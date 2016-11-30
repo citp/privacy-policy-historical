@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucalgary.ca privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623205022id_/http%3A//www.ucalgary.ca/policies/files/policies/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucalgary.ca privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130115119id_/http%3A//www.ucalgary.ca/policies/files/policies/privacy-policy.pdf) for the most accurate reproduction.*
 
 # University Policy
 
