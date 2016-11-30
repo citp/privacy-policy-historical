@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tascaparts.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616151731id_/http%3A//www.tascaparts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tascaparts.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130145954id_/http%3A//www.tascaparts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ Tasca Automotive Group promises never to sell, share or rent your name, email, 
 
 We collect aggregate, non- identifiable information on visits made to our website in order to improve the content of our site and user experience. 
 
-We also collect, when you place an order, your name, address, email, and other information necessary to process your order and contact you. Return addresses on email inquiries will be used to provide responses, but for no other purpose. 
+We also collect, when you place an order, your name, address, email, and other information necessary to process your order and contact you.  
 
 Vehicle Identification Numbers (VINs) are used only to obtain the correct parts for a particular vehicle through our Electronic Parts Catalog system (EPC). No personal information is extracted using an EPC.
 
