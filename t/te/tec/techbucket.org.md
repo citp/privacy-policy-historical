@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techbucket.org privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611235415id_/http%3A//www.techbucket.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techbucket.org privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130181349id_/http%3A//www.techbucket.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tech Bucket
 
