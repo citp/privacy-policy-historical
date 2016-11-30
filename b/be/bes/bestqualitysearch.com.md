@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestqualitysearch.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611142059id_/http%3A//bestqualitysearch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestqualitysearch.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130230610id_/http%3A//bestqualitysearch.com/privacy.php) for the most accurate reproduction.*
 
 # Bestqualitysearch
 
