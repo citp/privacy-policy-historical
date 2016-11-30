@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the physics-astronomy.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223070325id_/http%3A//www.physics-astronomy.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physics-astronomy.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130151321id_/http%3A//www.physics-astronomy.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Physics-Astronomy
 
@@ -32,5 +32,3 @@
 
 
 **           By using this site, you signify your assent to the [physicsbyumer.blogspot.com](http://physicsbyumer.blogspot.com/) Privacy Policy. If you do not agree to this policy, please do not use [physicsbyumer.blogspot.com](http://physicsbyumer.blogspot.com/) site. We reserve the right to make changes in this policy at any time. Please check the policy each time you use our web site to ensure you are aware of any changes in our privacy practices. Our privacy policy will indicate the date it was last updated.**
-
-**_This post was written by[Umer Abrar](https://www.facebook.com/umar.abrar1). To contact the author of this post, write to mirzavadoodulbaig@gmail.com or add him/follow him on facebook :_**
