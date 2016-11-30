@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123-free-download.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322153338id_/http%3A//www.123-free-download.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123-free-download.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130070351id_/http%3A//www.123-free-download.com/privacy.html) for the most accurate reproduction.*
 
 # legal disclaimer
 
