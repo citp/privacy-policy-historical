@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racenet.com.au privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323005440id_/https%3A//www.racenet.com.au/RIS-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racenet.com.au privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130092906id_/https%3A//www.racenet.com.au/RIS-Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # Racing Internet Services Privacy Policy
 
