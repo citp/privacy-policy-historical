@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamerlaunch.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619115655id_/http%3A//www.gamerlaunch.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerlaunch.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130050334id_/http%3A//www.gamerlaunch.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GamerLaunch Guild, Clan & Team Hosting
 
@@ -41,8 +41,8 @@ If you do not wish to receive marketing or promotional materials from Gamer Laun
 
 If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with Gamer Launch, please feel free to contact Gamer Launch at the following address:
 
-3423 Piedmont Rd NE,  
-Atlanta, GA 30305
+8010 Roswell Rd,  
+Atlanta, GA 30350
 
 Or feel free to contact Gamer Launch at the following e-mail address: [support@gamerlaunch.com](mailto:support@gamerlaunch.com).
 
