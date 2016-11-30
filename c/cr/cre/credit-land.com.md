@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the credit-land.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614133504id_/http%3A//www.credit-land.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credit-land.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130051754id_/http%3A//www.credit-land.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Statement - Credit-Land.com
 
@@ -56,10 +56,10 @@ We reserve the right to change this privacy policy as we deem necessary or appro
 
 **Questions or comments?**
 
-If you have questions or comments about Credit-Land.com, Inc.'s privacy policy, contact us via any of the ways described in the [Contact Us](https://web.archive.org/web/20160614133504id_/http%3A//www.credit-land.com/contact-us.php) page.
+If you have questions or comments about Credit-Land.com, Inc.'s privacy policy, contact us via any of the ways described in the [Contact Us](https://web.archive.org/web/20161130051754id_/http%3A//www.credit-land.com/contact-us.php) page.
 
 [
 
 We look forward to servicing you online!
 
-](https://web.archive.org/web/20160614133504id_/http%3A//www.credit-land.com/contact-us.php)
+](https://web.archive.org/web/20161130051754id_/http%3A//www.credit-land.com/contact-us.php)
