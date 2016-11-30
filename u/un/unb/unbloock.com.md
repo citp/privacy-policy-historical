@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the unbloock.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509224226id_/http%3A//www.webproxyproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unbloock.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130185951id_/http%3A//www.webproxyproject.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy [Web Proxy Project]
 
-Our online services and websites are designed to be used anonymously and we are not interested in names, addresses, or other information providing insight into the identities of our visitors. We create statistics about visitors that browse our websites and therefor we log some details that come from your browser, such as the user agent you use, the ip address, the operating system, etc. As far as we use this information, it is handled anonymously.
+Our online services and websites are designed to be used anonymously and we are not interested in names, addresses, or other information providing insight into the identities of our visitors. As almost any website owner, we create statistics about visitors that browse our websites and therefor we log some details that come from your browser, such as the user agent you use, the ip address, the operating system, etc. As far as we use this information, it is handled anonymously.
 
 ### What information is logged on your websites ?
 
-As most web servers do, also our web servers may log all the HTTP requests made to our websites. The data recorded includes information provided by your browser (user agent and referring page) as well as the requested URI, the time and date and your IP address. The data recorded in these logs may be used for detecting, preventing and reporting abuse, but also for statistical purposes.
+As most web servers do, also our web servers may log all the HTTP requests made to our websites. The data recorded includes information provided by your browser (user agent and referring page) as well as the requested URI, the time and date and your IP address. The data recorded in these logs may be used for detecting, preventing and reporting abuse, but also for statistical purposes. You can read more about web servers log files on the [Apache HTTP Server's Log Files Section](http://httpd.apache.org/docs/1.3/logs.html).
 
 ### In which event the logged data will be disclosed ?
 
@@ -14,15 +14,30 @@ Any violations of our terms of use may result in the disclosure of the data reco
 
 ### Do you use cookies or web beacons on your websites ?
 
-Our websites may store a cookie on your computer, if allowed by your browser's privacy settings (for more information on configuring your browser, see [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=1) or the documentation for your browser). The cookie used by our websites uniquely identifies you to the server and allows our websites to remember your preferences and recommend you useful web pages, products or links.
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising (for example Google AdSense) and analytics partners who may combine it with other information you’ve provided to them or they’ve collected from your use of their services. Read more about [how Google uses data when you use our partners' sites or apps](http://www.google.com/intl/en/policies/privacy/partners/). Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the internet
 
 ### Do you use third-party advertisers on your websites ?
 
-Yes, our websites may also use third-party advertising partners, such as [Google Adsense](https://www.google.com/adsense/localized-terms) or [BuySellAds](https://buysellads.com/). Advertisers may send you cookies or use web beacons. Obviously we have no control over cookies, web beacons or the information collected by our advertisers. You should consult the third-party advertiser's privacy policy for more information on their practices. We may also advertise other websites and services with banners or text-links hosted in our server.
+Yes, our websites may also use third-party advertising partners, such as Google Adsense or BuySellAds. Advertisers may send you cookies or use web beacons. Obviously we have no control over cookies, web beacons or the information collected by our advertisers. You should consult the third-party advertiser's privacy policy for more information about their practices. We may also advertise other websites and services with banners (images) or text-links hosted in our server.
+
+More useful information you should know:
+
+  * [How Google uses cookies in advertising →](https://www.google.com/policies/technologies/ads/)
+  * [Read the Google Privacy Policy →](https://www.google.com/intl/en/policies/privacy/)
+
+
 
 ### Do you use web analytics software in your websites?
 
-Yes, our websites may use Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Read the [Google Analytics TOS](http://www.google.com/analytics/terms/us.html).
+Yes, our websites may use [Google Analytics](http://www.google.com/analytics/), a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Read the [ToS of Google Analytics](http://www.google.com/analytics/terms/us.html).
+
+### Do you use social buttons in your websites?
+
+Yes, our websites may use social buttons provided by [AddToAny](https://www.addtoany.com/privacy) or [ShareThis](http://www.sharethis.com/legal/privacy/). Social media buttons are very useful to quickly allow users to share a web page within their favorite social networks like Facebook, Twitter, Linkedin, etc. We believe that having these social buttons in a website may increase the social shares and thus also gain new users. We may also use [Facebook Social Plugins](https://developers.facebook.com/docs/plugins) or [Twitter Buttons](https://dev.twitter.com/web/overview) to share a web page. You should consult their privacy policy for more info on their practices.
+
+### Do you collect user email addresses?
+
+We may offer to the visitors to subscribe to our newsletters for free, so we can keep updated all our subscribers with news related to our services, products and also with special offers for third-party free and commercial services. The email addresses that have subscribed to our newsletters are not shared with third-party companies. We use SendinBlue marketing platform to manage the newsletters and the subscribers. Feel free to read more about [SendinBlue privacy policy](https://www.sendinblue.com/legal/privacypolicy/).
 
 ### Do you log the proxy activity on web proxy services ?
 
@@ -34,4 +49,6 @@ The web proxy service we provide may attempt to forward third-party cookies from
 
 ### OTHER SERVICES
 
-[Check HTTP Headers](http://www.webproxyproject.com/check-http-headers/) [Online Network Tools](http://www.pingdnswhois.com/) [Boost MP3 Volume Online](http://www.mp3louder.com/) [Open Multiple URLs](http://www.openallurls.com/) [Estimate Website Worth](http://www.siteworthtraffic.com/) [Fastest Web Proxy](http://www.hideoxy.com/)
+[Check HTTP Headers](http://www.webproxyproject.com/check-http-headers/) [Change Static Dynamic IP](http://www.webproxyproject.com/change-static-dynamic-ip/) [User-Agent String](http://www.webproxyproject.com/user-agent-string/) [Boost MP3 Volume Online](http://www.mp3louder.com/) [Open Multiple URLs](http://www.openallurls.com/) [Estimate Website Worth](http://www.siteworthtraffic.com/) [Fastest Web Proxy](http://www.hideoxy.com/)
+
+### ADVERTISEMENT
