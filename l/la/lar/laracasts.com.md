@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laracasts.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407010239id_/https%3A//laracasts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laracasts.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130225031id_/https%3A//laracasts.com/privacy) for the most accurate reproduction.*
 
 # Laracasts Privacy Policy
 
@@ -11,7 +11,7 @@ This privacy policy discloses the privacy practices for laracasts.com. This priv
 
 
 
-####  Information Collection, Use, and Sharing 
+###  Information Collection, Use, and Sharing 
 
 We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. 
 
@@ -19,7 +19,7 @@ We will use your information to respond to you, regarding the reason you contact
 
 Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. 
 
-####  Your Access to and Control Over Information 
+###  Your Access to and Control Over Information 
 
 You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website: 
 
@@ -30,7 +30,7 @@ You may opt out of any future contacts from us at any time. You can do the follo
 
 
 
-####  Security 
+###  Security 
 
 We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. 
 
@@ -38,15 +38,15 @@ Wherever we collect sensitive information (such as credit card data), that infor
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
 
-####  Registration 
+###  Registration 
 
 In order to use this website, a user must first complete the registration form. During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest. At your option, you may also provide demographic information (such as gender or age) about yourself, but it is not required. 
 
-####  Links 
+###  Links 
 
 This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information. 
 
-####  Updates 
+###  Updates 
 
 Our Privacy Policy may change from time to time and all updates will be posted on this page. 
 
