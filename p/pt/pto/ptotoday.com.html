@@ -1,30 +1,31 @@
-<!--The following is the downloaded HTML source of the ptotoday.com privacy policy that was archived on 2016-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608153611id_/http%3A//www.ptotoday.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ptotoday.com privacy policy that was archived on 2016-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161130022511id_/http%3A//www.ptotoday.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
 	<!-- Mobile First allow touch zooming responsive design -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <!-- Head content -->
-	  <base href="http://www.ptotoday.com/privacy">
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="description" content="Helping Parent Leaders Make Schools Great">
-  <title>Privacy Policy</title>
-  <link href="/templates/ptotodayorg/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-  <link rel="stylesheet" type="text/css" href="/media/plg_jchoptimize/assets2/jscss.php?f=d4a8f703e2e60e7b66e85f702488979e&amp;type=css&amp;gz=nz&amp;d=1&amp;i=0">
-  
-  
-  
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,300,600,900" type="text/css">
-  <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="application/javascript" src="/media/plg_jchoptimize/assets2/jscss.php?f=402571b860885cd1efc8ae92ad140789&amp;type=js&amp;gz=nz&amp;d=1&amp;i=0"></script>
-  
-  
-  
-  
-  
-  
-  
-  <script type="text/javascript">
+		<base href="http://www.ptotoday.com/privacy">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="description" content="The #1 resource for school parent groups. PTOtoday.com has expert advice, free programs, tools, tips, and tons of ideas to help make parent groups successful and schools great.">
+	<title>Privacy Policy</title>
+	<link href="/templates/ptotodayorg/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+	<link rel="stylesheet" type="text/css" href="/media/plg_jchoptimize/assets2/jscss.php?f=577f5dc530c35cf38bce7e8b4ed4dfa5&amp;type=css&amp;gz=nz&amp;d=1&amp;i=0">
+	
+	
+	
+	
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,300,600,900" rel="stylesheet" type="text/css">
+	<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="application/javascript" src="/media/plg_jchoptimize/assets2/jscss.php?f=d98dd271f04b244c7b0867a48c1e1c04&amp;type=js&amp;gz=nz&amp;d=1&amp;i=0"></script>
+	
+	
+	
+	
+	
+	
+	
+	<script type="text/javascript">
 
 		jQuery(function($) {
 			SqueezeBox.initialize({});
@@ -32,18 +33,47 @@
 				parse: 'rel'
 			});
 		});
-		function jModalClose() {
+
+		window.jModalClose = function () {
 			SqueezeBox.close();
-		}
-  </script>
-  <script type="text/javascript">
+		};
+		
+		// Add extra modal close functionality for tinyMCE-based editors
+		document.onreadystatechange = function () {
+			if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
+			{
+				if (typeof window.jModalClose_no_tinyMCE === 'undefined')
+				{	
+					window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
+					
+					jModalClose = function () {
+						if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+		
+				if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
+				{
+					if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
+					window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
+		
+					SqueezeBox.close = function () {
+						if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+			}
+		};
+		
+	</script>
+	<script type="text/javascript">
 				/*<![CDATA[*/
 					var jax_live_site = 'http://www.ptotoday.com/index.php';
-					var jax_token_var='ba8a4488de18c3db6c12a2603edb63a9';
+					var jax_token_var='d7b08b80a736a1e50b32d8cbdf61e41d';
 				/*]]>*/
 				</script><script type="text/javascript" src="/plugins/system/azrul.system/pc_includes/ajax_1.5.pack.js"></script>
-  <meta property="og:title" content="Privacy Policy">
-  <meta property="og:description" content="Helping Parent Leaders Make Schools Great">
+	<meta property="og:title" content="Privacy Policy">
+	<meta property="og:description" content="The #1 resource for school parent groups. PTOtoday.com has expert advice, free programs, tools, tips, and tons of ideas to help make parent groups successful and schools great.">
 
 
 	<script type="text/javascript">
@@ -155,17 +185,14 @@
 	<header id="header">
 
 		<div class="container">
-                                        
-                    
-                                                    
-                          <div id="ad-slot" class="banner-ad">
-                            <script type="text/javascript">
-                            googletag.display('ad-slot');
-                            </script>
-                          </div>
-
-
-                    			<div class="header-holder">
+						
+											
+				<div id="ad-slot" class="banner-ad">
+					<script type="text/javascript">
+					googletag.display('ad-slot');
+					</script>
+				</div>
+						<div class="header-holder">
 				
 
 <div class="custom">
@@ -220,9 +247,17 @@ jQuery(document).ready(function() {
 
 			</div>
 			<div class="header-frame">
+				<button type="button" class="navbar-toggle mobile-visible" data-toggle="collapse" data-target="#navbar-collapse-main" aria-expanded="true">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
 				<div class="logo"><a href="http://www.ptotoday.com/"><img src="http://www.ptotoday.com/templates/ptotodayorg/images/logo.png" alt="PTOToday"></a></div>
 				<div class="slogan"><a href="http://www.ptotoday.com/">Helping Parent Leaders Make Schools Great</a></div>
-				                                
+
+				
+				                
 <style type="text/css">
 
 /* */
@@ -474,113 +509,105 @@ nav#nav a {
 text-decoration: none;
 }
 </style>
-
-
-
-    <div class="nav-collapse  header-frame">
-            <nav id="nav">
-                    <ul class="accordion">
-                            <li>
-                                    <div>
-                                            <a class="opener" href="/parent-involvement"><span>POPULAR TOPICS</span></a>
-                                            <div class="slide">
-                                                    <ul>
-                                                            <li><a href="/parent-involvement" onclick="pageTracker._trackEvent('topnav', 'click', 'parent-involvement');">Parent Involvement</a></li>
-                                                            <li><a href="/fundraising" onclick="pageTracker._trackEvent('topnav', 'click', 'fundraising');">Fundraising</a></li>
-                                                            <li><a href="/events-and-programs" onclick="pageTracker._trackEvent('topnav', 'click', 'events-and-programs-populartopics');">Event &amp; Program Ideas</a></li>
-                                                            <li><a href="/teacher-appreciation" onclick="pageTracker._trackEvent('topnav', 'click', 'teacher-appreciation');">Teacher Appreciation</a></li>
-                                                            <li><a href="/planning-and-organization" onclick="pageTracker._trackEvent('topnav', 'click', 'planning-and-organization-populartopics');">Planning/Organization</a></li>
-                                                            <li><a href="/bylaws-nonprofit" onclick="pageTracker._trackEvent('topnav', 'click', 'bylaws-nonprofit-populartopics');">Bylaws/Nonprofit</a></li>
-                                                            <li><a href="/meetings-roberts-rules" onclick="pageTracker._trackEvent('topnav', 'click', 'meetings-roberts-rules-populartopics');">Meetings/Robert's Rules</a></li>
-                                                            <li><a href="/topics-a-z" onclick="pageTracker._trackEvent('topnav', 'click', 'topics-a-z');">Topics A to Z</a></li>
-                                                    </ul>
-                                            </div>
-                                    </div>
-                            </li>
-                            <li>
-                                    <div>
-                                            <a class="opener" href="/freeprograms"><span>PTO ESSENTIALS</span></a>
-                                            <div class="slide">
-                                                    <ul>
-                                                            <li><a href="/freeprograms" onclick="pageTracker._trackEvent('topnav', 'click', 'Free Programs Home');">Free Programs</a></li>
-                                                            <li><a href="/yellowpages" onclick="pageTracker._trackEvent('topnav', 'click', 'yellowpages');">Find a Vendor</a></li>
-                                                            <li><a href="/events" onclick="pageTracker._trackEvent('topnav', 'click', 'expos-ptoessentials');">PTO Today Expos</a></li>
-                                                            <li><a href="/sfn" onclick="pageTracker._trackEvent('topnav', 'click', 'ep-school-family-night');">School Family Nights</a></li>
-                                                            <li><a href="/insurance" onclick="pageTracker._trackEvent('topnav', 'click', 'insurance');">Insurance</a></li>
-                                                            <li><a href="/finance-manager" onclick="pageTracker._trackEvent('topnav', 'click', 'finance-manager');">Finance Manager Software</a></li>
-                                                            <li><a href="/volunteer-manager" onclick="pageTracker._trackEvent('topnav', 'click', 'volunteer-builder');">Volunteer Manager Software</a></li>
-                                                            <li><a href="/parentexpress" onclick="pageTracker._trackEvent('topnav', 'click', 'parentexpress');">Parent Express Email</a></li>
-                                                    </ul>
-                                            </div>
-                                    </div>
-                            </li>
-                            <li>
-                                    <div>
-                                            <a class="opener" href="/startup-guide"><span>GETTING STARTED</span></a>
-                                            <div class="slide">
-                                                    <ul>
-                                                            <li><a href="/startup-guide" onclick="pageTracker._trackEvent('topnav', 'click', 'startup-guide-gettingstarted');">Startup Toolkit</a></li>
-                                                            <li><a href="/bylaws-nonprofit" onclick="pageTracker._trackEvent('topnav', 'click', 'bylaws-nonprofit-gettingstarted');">Bylaws/Nonprofit</a></li>
-                                                            <li><a href="/new-leader-kit" onclick="pageTracker._trackEvent('topnav', 'click', 'new-leader-kit');">New Leader Kit</a></li>
-                                                            <li><a href="/president" onclick="pageTracker._trackEvent('topnav', 'click', 'president-gettingstarted');">Presidents Page</a></li>
-                                                            <li><a href="/treasurer" onclick="pageTracker._trackEvent('topnav', 'click', 'treasurer-gettingstarted');">For Treasurers</a></li>
-                                                    </ul>
-                                            </div>
-                                    </div>
-                            </li>
-                            <li>
-                                    <div>
-                                            <a class="opener" href="/filesharing"><span>SHARE AND SWAP</span></a>
-                                            <div class="slide">
-                                                    <ul>
-                                                            <li><a href="/filesharing" onclick="pageTracker._trackEvent('topnav', 'click', 'filesharing-shareandswap');">File Exchange</a></li>					
-                                                            <li><a href="/boards/35-auctions/166521-2015-ultimate-donation-list" onclick="pageTracker._trackEvent('topnav', 'click', '2015-ultimate-donation-list');">Ultimate Donation List</a></li>
-                                                            <li><a href="/pto-today-clip-art-gallery" onclick="pageTracker._trackEvent('topnav', 'click', 'clip-art');">Clip Art Gallery</a></li>
-                                                            <li><a href="/answers" onclick="pageTracker._trackEvent('topnav', 'click', 'answers');">Ask a Question</a></li>
-                                                            <li><a href="/boards" onclick="pageTracker._trackEvent('topnav', 'click', 'boards');">Message Boards</a></li>
-                                                            <li><a href="/share-your-story" onclick="pageTracker._trackEvent('topnav', 'click', 'share-your-story');">Share Your Story</a></li>
-                                                                                                                </ul>
-                                            </div>
-                                    </div>
-                            </li>
-                            <li>
-                                    <div>
-                                            <a class="opener" href="/resourceguide"><span>FIND A VENDOR</span></a>
-                                                <div class="slide">
-                                                    <ul>
-                                                            <li><a href="/resourceguide" onclick="pageTracker._trackEvent('topnav', 'click', 'findvendor');">Find a Vendor</a></li>
-                                                            <li><a href="/resourceguide/category/fundraising" onclick="pageTracker._trackEvent('topnav', 'click', 'vendor-fundraising');">Fundraising</a></li>
-                                                            <li><a href="/resourceguide/category/products-and-services" onclick="pageTracker._trackEvent('topnav', 'click', 'vendor-products-and-services');">Products and Services</a></li>
-                                                            <li><a href="/resourceguide/category/playgrounds-and-recreation" onclick="pageTracker._trackEvent('topnav', 'click', 'vendor-playgrounds-and-recreation');">Playgrounds and Recreation</a></li>
-                                                            
-<!--                                                            <li><a href="/freeprograms" onclick="pageTracker._trackEvent('topnav', 'click', 'Free Programs Home');">Free Programs</a></li>
-                                                            <li><a href="/filesharing" onclick="pageTracker._trackEvent('topnav', 'click', 'filesharing-browseby');">Downloadable</a></li>-->
-                                                    </ul>
-                                                </div>
-                                    </div>
-                            </li>
-                    </ul>
-            </nav>
-    </div>
-
-
+<div class="collapse navbar-collapse header-frame" id="navbar-collapse-main">
+	<nav id="nav">
+		<ul class="accordion">
+			<li>
+				<div>
+					<a class="opener" href="/parent-involvement"><span>POPULAR TOPICS</span></a>
+					<div class="slide">
+						<ul>
+							<li><a href="/parent-involvement" onclick="pageTracker._trackEvent('topnav', 'click', 'parent-involvement');">Parent Involvement</a></li>
+							<li><a href="/fundraising" onclick="pageTracker._trackEvent('topnav', 'click', 'fundraising');">Fundraising</a></li>
+							<li><a href="/events-and-programs" onclick="pageTracker._trackEvent('topnav', 'click', 'events-and-programs-populartopics');">Event &amp; Program Ideas</a></li>
+							<li><a href="/pto-today-articles/article/8195-back-to-school-boot-camp" onclick="pageTracker._trackEvent('topnav', 'click', 'back-to-school');">Back to School</a></li>
+							<li><a href="/planning-and-organization" onclick="pageTracker._trackEvent('topnav', 'click', 'planning-and-organization-populartopics');">Planning/Organization</a></li>
+							<li><a href="/bylaws-nonprofit" onclick="pageTracker._trackEvent('topnav', 'click', 'bylaws-nonprofit-populartopics');">Bylaws/Nonprofit</a></li>
+							<li><a href="/meetings-roberts-rules" onclick="pageTracker._trackEvent('topnav', 'click', 'meetings-roberts-rules-populartopics');">Meetings/Robert's Rules</a></li>
+							<li><a href="/topics-a-z" onclick="pageTracker._trackEvent('topnav', 'click', 'topics-a-z');">Topics A to Z</a></li>
+						</ul>
+					</div>
+				</div>
+			</li>
+			<li>
+				<div>
+					<a class="opener" href="/freeprograms"><span>PTO ESSENTIALS</span></a>
+					<div class="slide">
+						<ul>
+							<li><a href="/freeprograms" onclick="pageTracker._trackEvent('topnav', 'click', 'Free Programs Home');">Free Programs</a></li>
+							<li><a href="/yellowpages" onclick="pageTracker._trackEvent('topnav', 'click', 'yellowpages');">Find a Vendor</a></li>
+							<li><a href="/events" onclick="pageTracker._trackEvent('topnav', 'click', 'expos-ptoessentials');">PTO Today Expos</a></li>
+							<li><a href="/sfn" onclick="pageTracker._trackEvent('topnav', 'click', 'ep-school-family-night');">School Family Nights</a></li>
+							<li><a href="/insurance" onclick="pageTracker._trackEvent('topnav', 'click', 'insurance');">Insurance</a></li>
+							<li><a href="/finance-manager" onclick="pageTracker._trackEvent('topnav', 'click', 'finance-manager');">Finance Manager Software</a></li>
+							<li><a href="/volunteer-manager" onclick="pageTracker._trackEvent('topnav', 'click', 'volunteer-builder');">Volunteer Manager Software</a></li>
+							<li><a href="/parentexpress" onclick="pageTracker._trackEvent('topnav', 'click', 'parentexpress');">Parent Express Email</a></li>
+						</ul>
+					</div>
+				</div>
+			</li>
+			<li>
+				<div>
+					<a class="opener" href="/startup-guide"><span>GETTING STARTED</span></a>
+					<div class="slide">
+						<ul>
+							<li><a href="/startup-guide" onclick="pageTracker._trackEvent('topnav', 'click', 'startup-guide-gettingstarted');">Startup Toolkit</a></li>
+							<li><a href="/bylaws-nonprofit" onclick="pageTracker._trackEvent('topnav', 'click', 'bylaws-nonprofit-gettingstarted');">Bylaws/Nonprofit</a></li>
+							<li><a href="/new-leader-kit" onclick="pageTracker._trackEvent('topnav', 'click', 'new-leader-kit');">New Leader Kit</a></li>
+							<li><a href="/president" onclick="pageTracker._trackEvent('topnav', 'click', 'president-gettingstarted');">Presidents Page</a></li>
+							<li><a href="/treasurer" onclick="pageTracker._trackEvent('topnav', 'click', 'treasurer-gettingstarted');">For Treasurers</a></li>
+						</ul>
+					</div>
+				</div>
+			</li>
+			<li>
+				<div>
+					<a class="opener" href="/filesharing"><span>SHARE AND SWAP</span></a>
+					<div class="slide">
+						<ul>
+							<li><a href="/filesharing" onclick="pageTracker._trackEvent('topnav', 'click', 'filesharing-shareandswap');">File Exchange</a></li>
+							<li><a href="/boards/35-auctions/166521-2015-ultimate-donation-list" onclick="pageTracker._trackEvent('topnav', 'click', '2015-ultimate-donation-list');">Ultimate Donation List</a></li>
+							<li><a href="/pto-today-clip-art-gallery" onclick="pageTracker._trackEvent('topnav', 'click', 'clip-art');">Clip Art Gallery</a></li>
+							<li><a href="/answers" onclick="pageTracker._trackEvent('topnav', 'click', 'answers');">Ask a Question</a></li>
+							<li><a href="/boards" onclick="pageTracker._trackEvent('topnav', 'click', 'boards');">Message Boards</a></li>
+							<li><a href="/share-your-story" onclick="pageTracker._trackEvent('topnav', 'click', 'share-your-story');">Share Your Story</a></li>
+													</ul>
+					</div>
+				</div>
+			</li>
+			<li>
+				<div>
+					<a class="opener" href="/resourceguide"><span>FIND A VENDOR</span></a>
+						<div class="slide">
+							<ul>
+								<li><a href="/resourceguide" onclick="pageTracker._trackEvent('topnav', 'click', 'findvendor');">Find a Vendor</a></li>
+								<li><a href="/resourceguide/category/fundraising" onclick="pageTracker._trackEvent('topnav', 'click', 'vendor-fundraising');">Fundraising</a></li>
+								<li><a href="/resourceguide/category/products-and-services" onclick="pageTracker._trackEvent('topnav', 'click', 'vendor-products-and-services');">Products and Services</a></li>
+								<li><a href="/resourceguide/category/playgrounds-and-recreation" onclick="pageTracker._trackEvent('topnav', 'click', 'vendor-playgrounds-and-recreation');">Playgrounds and Recreation</a></li>
+																							</ul>
+						</div>
+				</div>
+			</li>
+		</ul>
+	</nav>
+</div>
 			</div><!-- End Header Frame -->
 		</div>
 	</header>
                 
             
-                                                    <div class="row page-title page-title-img">
-                    <div class="container">
-                        <h1 class="topic-heading">Privacy Policy</h1>
-                    </div>
-                </div>
+                                    			<div class="row page-title page-title-img">
+				<div class="container">
+					<h1 class="topic-heading">Privacy Policy</h1>
+				</div>
+			</div>
             <div class="topics">
                                                 <div class="container ajax-container">
                     <div class="topic-column no-left-pad no-right-pad no-top-pad">
-                                                                                <div id="system-message-container">
+                                                						<div id="system-message-container">
 	</div>
 
-                                		
+								
 <table class="contentpaneopen ws_contentpaneopen">
 <tbody><tr>
 		<td class="contentheading" width="100%">
@@ -609,7 +636,7 @@ text-decoration: none;
 <div>
 <!--<div style="margin-left: 28px; margin-right: 30px; font-size: 12px; line-height: 14px;">-->
 	<p class="sub">Effective June 15, 2013</p>
-	<p>School Family Media,  Inc., the owner of this ptotoday.com website, has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website, ptotoday.com, as well as for our affiliated website: schoolfamilynights.com<br><br></p>
+	<p>School Family Media,  Inc., the owner of this PTOtoday.com website, has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website, PTOtoday.com, as well as for our affiliated website: SchoolFamilyNights.com<br><br></p>
 
 	<h4><strong>IP Addresses and Cookies</strong></h4>
 	<p>We use your IP address to help diagnose problems with our server, and to administer our website. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site.<br><br></p>
@@ -671,17 +698,14 @@ text-decoration: none;
 	<p>This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.</p>
 	<div style="margin-left:20px">
 		<ol>
-			<li>You can send email to <span id="cloak42546"><a href="mailto:info@ptotoday.com">info@ptotoday.com</a></span><script type="text/javascript">
- //<!--
- document.getElementById('cloak42546').innerHTML = '';
- var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
- var path = 'hr' + 'ef' + '=';
- var addy42546 = '&#105;nf&#111;' + '&#64;';
- addy42546 = addy42546 + 'pt&#111;t&#111;d&#97;y' + '&#46;' + 'c&#111;m';
- var addy_text42546 = '&#105;nf&#111;' + '&#64;' + 'pt&#111;t&#111;d&#97;y' + '&#46;' + 'c&#111;m';
- document.getElementById('cloak42546').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy42546 + '\'>'+addy_text42546+'<\/a>';
- //-->
- </script></li>
+			<li>You can send email to <span id="cloakd0719d157321257f4c269db6eb0e75be"><a href="mailto:info@ptotoday.com">info@ptotoday.com</a></span><script type="text/javascript">
+				document.getElementById('cloakd0719d157321257f4c269db6eb0e75be').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addyd0719d157321257f4c269db6eb0e75be = '&#105;nf&#111;' + '&#64;';
+				addyd0719d157321257f4c269db6eb0e75be = addyd0719d157321257f4c269db6eb0e75be + 'pt&#111;t&#111;d&#97;y' + '&#46;' + 'c&#111;m';
+				var addy_textd0719d157321257f4c269db6eb0e75be = '&#105;nf&#111;' + '&#64;' + 'pt&#111;t&#111;d&#97;y' + '&#46;' + 'c&#111;m';document.getElementById('cloakd0719d157321257f4c269db6eb0e75be').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyd0719d157321257f4c269db6eb0e75be + '\'>'+addy_textd0719d157321257f4c269db6eb0e75be+'<\/a>';
+		</script></li>
 			<li>You can call the following telephone number: 1-800-644-3561 X208<br><br></li>
 		</ol>
 	</div>
@@ -691,17 +715,14 @@ text-decoration: none;
 	<p>PTO Today<br>
 	100 Stonewall Blvd, Suite 3<br>
 	Wrentham, MA 02093<br>
-	<span id="cloak98668"><a href="mailto:info@ptotoday.com">info@ptotoday.com</a></span><script type="text/javascript">
- //<!--
- document.getElementById('cloak98668').innerHTML = '';
- var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
- var path = 'hr' + 'ef' + '=';
- var addy98668 = '&#105;nf&#111;' + '&#64;';
- addy98668 = addy98668 + 'pt&#111;t&#111;d&#97;y' + '&#46;' + 'c&#111;m';
- var addy_text98668 = '&#105;nf&#111;' + '&#64;' + 'pt&#111;t&#111;d&#97;y' + '&#46;' + 'c&#111;m';
- document.getElementById('cloak98668').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy98668 + '\'>'+addy_text98668+'<\/a>';
- //-->
- </script></p>
+	<span id="cloakf534aa4e2a745042105eb937d8c043e0"><a href="mailto:info@ptotoday.com">info@ptotoday.com</a></span><script type="text/javascript">
+				document.getElementById('cloakf534aa4e2a745042105eb937d8c043e0').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addyf534aa4e2a745042105eb937d8c043e0 = '&#105;nf&#111;' + '&#64;';
+				addyf534aa4e2a745042105eb937d8c043e0 = addyf534aa4e2a745042105eb937d8c043e0 + 'pt&#111;t&#111;d&#97;y' + '&#46;' + 'c&#111;m';
+				var addy_textf534aa4e2a745042105eb937d8c043e0 = '&#105;nf&#111;' + '&#64;' + 'pt&#111;t&#111;d&#97;y' + '&#46;' + 'c&#111;m';document.getElementById('cloakf534aa4e2a745042105eb937d8c043e0').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyf534aa4e2a745042105eb937d8c043e0 + '\'>'+addy_textf534aa4e2a745042105eb937d8c043e0+'<\/a>';
+		</script></p>
 </div> </td>
 </tr>
 
@@ -710,28 +731,30 @@ text-decoration: none;
 <span class="article_separator">&nbsp;</span>
 
                     </div>
-                    <div class="sidebar-column hidden-mobile no-right-pad right-sidebar">
-                                                	<div class="widget widget-quick_signup" id="quick_signup-1042">
+                    <div class="sidebar-column hidden-mobile no-right-pad right-sidebar ">
+                        	<div class="widget widget-quick_signup" id="quick_signup-1042">
 				
 <script>
-	function submitSignupForm() {
-		if (validateNews()) {
+	function submitSignupForm_1042(task) {
+		var email = document.forms.newsletter_signup_1042.jform_email.value;
+		if (validateNews_1042()) {
 			var original_url = "http://email.ptotoday.com/public/?q=direct_add&fn=Public_DirectAddForm&id=betpcqiszopohblvuccelhgoinncbfk&createCookie=1&list1=0bc403ec000000000000000000000006e0f3";
+			var url = original_url + '&email=' + email;
 			var req = new Request.HTML({
 				method: 'get',
-				url: original_url + '&email=' + $('jform_email').value,
+				url: url,
 				onRequest: function() {},
 				onComplete: function(response) {
-					var submitButton = document.getElementById('signup');
+					var submitButton = document.forms.newsletter_signup_1042.signup;
 					submitButton.disabled = true;
 					pageTracker._trackEvent('footer_newsletter_module', 'click', 'email_signup'); 
-					document.forms.newsletter_signup.submit();
+					document.forms.newsletter_signup_1042.submit();
 				}
 			}).send();
 		}
 	}
 
-	function echeck(str) {
+	function echeck_1042(str) {
 		var at="@"
 		var dot="."
 		var lat=str.indexOf(at)
@@ -767,16 +790,18 @@ text-decoration: none;
 		return true;
 	}
 
-	function validateNews() {
+	function validateNews_1042() {
 		var continueSubmit = true;
 		var errorMessages = '';
 
-		if (document.newsletter_signup.jform_email.value === '' ) {
+		var email = document.forms.newsletter_signup_1042.jform_email.value;
+		
+		if (email === '') {
 			errorMessages += "Please fill in your email address\n";
 			continueSubmit = false;
 		}
 
-		if (document.newsletter_signup.jform_email.value !== '' && !echeck(document.newsletter_signup.jform_email.value)) {
+		if (email !== '' && !echeck_1042(email)) {
 			errorMessages += "Your email address doesn't appear valid\n";
 			continueSubmit = false;
 		}
@@ -784,21 +809,24 @@ text-decoration: none;
 		if (!continueSubmit) {
 			alert(errorMessages);
 		}
+		
 		return continueSubmit;
 	}
 </script>
 
-<form action="/inforequest/task/email/check/newssign" method="POST" id="newsletter_signup" name="newsletter_signup" class="email-form">
+
+<form action="/inforequest/task/email/check/newssign" method="POST" id="newsletter_signup_1042" name="newsletter_signup" class="email-form">
 	<fieldset>
 		<label for="newsletter" class="newsletter-title">Weekly Newsletter</label>
 		<div class="email-box">
-			<input id="signup" name="signup" type="submit" value="SIGN UP" onclick="submitSignupForm(); return false;">
+			<input id="signup" name="signup" type="submit" value="SIGN UP" onclick="submitSignupForm_1042(); return false;">
 			<div class="text">
 				<input id="jform_email" name="jform[email]" type="email" placeholder="Enter email" onblur="if (this.value === '') this.value='Enter Email';" onfocus="if (this.value === 'Enter Email') this.value='';">
 			</div>
 		</div>
 	</fieldset>
-	<input type="hidden" name="ba8a4488de18c3db6c12a2603edb63a9" value="1">	<input type="hidden" name="start" value="L3ByaXZhY3k=">
+	<input type="hidden" name="d7b08b80a736a1e50b32d8cbdf61e41d" value="1">    <input type="hidden" name="jform[is_active]" id="jform_is_active" value="1">
+	<input type="hidden" name="start" value="L3ByaXZhY3k=">
 </form>
 	</div>
 	
@@ -852,6 +880,7 @@ text-decoration: none;
 					<li><a onclick="pageTracker._trackEvent('shortcuts', 'click', 'middle-school');" href="/middle-school">Middle School</a><br></li>
 					<li><a onclick="pageTracker._trackEvent('shortcuts', 'click', 'the-principal');" href="/the-principal">The Principal</a><br></li>
 					<li><a onclick="pageTracker._trackEvent('shortcuts', 'click', 'communications');" href="/communications">Communications</a><br></li>
+                                        <li><a onclick="pageTracker._trackEvent('shortcuts', 'click', 'volunteers');" href="/volunteers">Volunteer Recruitment</a><br></li>
 				</ul>
 			</div>
 		</li>
@@ -954,7 +983,7 @@ jQuery(document).ready(function() {
 			</div>
 		</div>
 	</footer>
-        
+    
 	
 	<script type="text/javascript">
 var _gaq=_gaq||[];
@@ -970,7 +999,7 @@ var pageTracker;
 setTimeout(function(){
     pageTracker = _gat._createTracker('UA-332558-1');
     pageTracker._initData();
-}, 1000);
+}, 2000);
 </script>
 <!-- Google Code for Remarketing Tag -->
 <!--------------------------------------------------
