@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indexexchange.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623234221id_/http%3A//www.indexexchange.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indexexchange.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130050415id_/http%3A//www.indexexchange.com/privacy) for the most accurate reproduction.*
 
-# Index Exchange
+# Privacy
 
 The following discloses the information gathering and dissemination practices of Index Exchange. This privacy policy applies to all personal information received by the Company whether in electronic, paper or verbal format.
 
