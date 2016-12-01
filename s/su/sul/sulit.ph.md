@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sulit.ph privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321040018id_/http%3A//sulit.ph/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sulit.ph privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201011450id_/http%3A//sulit.ph/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # Privacy Policy of Sulit.PH | Buy and Sell Philippines
 
