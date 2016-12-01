@@ -1,27 +1,31 @@
-> *The following text is extracted and transformed from the deltastock.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326063112id_/http%3A//www.deltastock.com/english/about-us/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltastock.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201192431id_/http%3A//www.deltastock.com/english/about-us/privacy_policy.asp) for the most accurate reproduction.*
 
-# Privacy Policy | Client Data Protection | Deltastock
+# Privacy and Personal Data Protection Policy | Deltastock
 
-### Privacy Statement
+### Administration of Personal Data
 
 Deltastock is committed to ensuring the privacy of non-public information and personal data provided by all clients of the company as well as all visitors to and users of the website [www.deltastock.com](http://www.deltastock.com/) (the website). 
 
-Please read the following Privacy Policy to understand how Deltastock collects, uses, discloses, and protects the non-public information and personal data provided by you.
+Please read the following Privacy and Personal Data Protection Policy (the Policy) to understand how Deltastock collects, uses, discloses, and protects the non-public information and personal data provided by you.
 
 Deltastock will only use the non-public information and personal data it gathers in accordance with this Policy and the relevant regulation.
 
+Your personal data shall be administered entirely by Deltastock AD, whose address is: 6th Floor, Area E, Megapark Office Building, 115G Tsarigradsko Shose Blvd., Sofia 1784, Bulgaria, which is an administrator of personal data and is registered with the Bulgarian Commission for Personal Data Protection under number 97916.
+
 ### Collection of Information
 
-If a prospective client decides to open an account with Deltastock, there is certain information that will be required from them. This information includes, but is not limited to, personal data such as name, address, date and place of birth, phone number and other contact details, passport details, employment details, assets and liabilities, as well as other necessary financial information.
+If a prospective client decides to open an account with Deltastock, there is certain information that will be required from them. This information includes, but is not limited to, personal data such as name, address, date and place of birth, phone number and other contact details, passport details, employment details, as well as other necessary financial information. The purpose for the collection of this information is to identify the prospective client and to assess whether the service requested by them is appropriate, before entering into an agreement.
 
-From time to time Deltastock may request further information to help improve the services it provides and also to fulfill its regulatory duty to maintain the data through which it individualises a website user as its client in current form and volume.
+From time to time Deltastock may request further information which will, on one hand, help improve the services it provides, and, on the other, is necessary in order to fulfill the regulatory duty to maintain the data through which it individualises a website user as its client in current form and volume.
 
 Deltastock collects information from the following direct sources:
 
   * online application form for opening an account for trading in financial instruments;
   * documents necessary for opening an account for trading in financial instruments;
   * transactions made online related to the services offered by Deltastock;
-  * email correspondence to and from Deltastock;
+  * Declaration for the purposes of the automatic exchange of financial information pursuant to Art. 142t, para. 1 of the Bulgarian Tax and Social Security Procedure Code (TSSPC);
+  * Declaration under Art. 4, para. 7 and Art. 6, para. 5, item 3 of MAMLA;
+  * email and chat correspondence as well as telephone communication to and from Deltastock;
   * visits to Deltastock's website;
   * Internet Protocol (IP) address;
   * browser type;
@@ -31,20 +35,20 @@ Deltastock collects information from the following direct sources:
 
 
 
-Deltastock collects information indirectly through the use of cookies, which are information packages sent by the web server to the user’s web browser, and which are sent back by the browser each time it accesses the same server. These information packages are saved and stored on the user’s computer by the web browser. Cookies provide operational data which can be used to improve the user's interaction with the website.
+Deltastock collects information indirectly through the use of cookies, which are addressed below in this Policy.
 
 To ensure the security of information transfer, Deltastock uses an SSL certificate to encrypt information transmitted by or to the visitor through the website.
 
-### Use of Information
+### Use of Information and Purposes of Processing Personal Data
 
 Deltastock uses the non-public personal information containing personal data collected from clients in order to establish and service clients' accounts for trading in financial instruments.
 
-Deltastock will use the data collected from the client to establish their identity in accordance with the applicable law, as well as to enter into an agreement with the client for providing the services offered by the company. The data gathered will also be used to classify the client as a retail or unprofessional client – and with regard to this, to provide them with the legally established set of documents and other information.
+Deltastock will use the data collected from the client to establish their identity in accordance with the applicable law, as well as to enter into an agreement with the client for providing the services offered by the company. The data gathered will also be used to classify the client as a retail or unprofessional client – and with regard to this, to provide them with the legally established set of documents and other information, as well as to determine the client’s tax status for the purposes of the automatic exchange of financial information in the field of taxation.
 
-Unless the client is informed otherwise, the non-public information and personal data that Deltastock holds is also used for:
+Unless the client is informed otherwise, the non-public information and personal data that Deltastock holds and processes is also used for:
 
   * reviewing the client’s ongoing needs;
-  * AML (anti-money laundering) measures and fraud prevention;
+  * AML (anti-money laundering) and fraud prevention;
   * enhancing customer service and products;
   * providing ongoing information or opportunities that Deltastock believes may be of interest to the client.
 
@@ -62,7 +66,32 @@ Depending on the product or service concerned and particular restrictions on con
 
 
 
-If the client does not wish Deltastock to use their personal information, they should inform the company in writing. If the client decides to do so, Deltastock may not be able to provide them with information about services and/or products requested by them, and also the products and services themselves; and with regard to this, Deltastock will have no liability to the client in respect of the same.
+### Access to Information
+
+Any client, after submitting a written request, is entitled to access the personal data collected about them by Deltastock. In the cases where the right of access granted to an individual may also lead to disclosure of personal data of third parties, Deltastock is obligated to provide to the relevant client access only to the part of the data referring solely to them. When exercising their right of access, any client of Deltastock is entitled to request at any time:
+
+  * a confirmation as to whether or not data relating to them is being processed, information as to the purposes of such processing, the categories of data concerned, and the recipients or categories of recipients to whom the data is disclosed;
+  * a notification to the client, in an intelligible form, containing their personal data which is being processed, as well as any available information about their source;
+  * information concerning the logic involved in any automated processing of personal data.
+
+
+
+Any client is entitled to require, at any time, from Deltastock to:
+
+  * erase, rectify or block their personal data whose processing does not comply with the legal requirements;
+  * notify any third parties to whom their personal data has been disclosed of any erasure, rectification, or blocking carried out in compliance with the previous item, unless this is impossible or involves a disproportionate effort.
+
+
+
+Any client to whom the personal data refers is entitled to:
+
+  * object before Deltastock against the processing of their personal data in the presence of legal grounds for that; when such an objection is justified, the personal data of the relevant client may no longer be processed;
+  * object against the processing of their personal data for the purposes of direct marketing;
+  * be informed before their personal data is disclosed for the first time to third parties or used on their behalf for the purposes of direct marketing, and to be given the opportunity to object to such disclosure or use.
+
+
+
+If the client does not wish Deltastock to process their personal data, they should inform the company in writing. In that case, Deltastock may not be able to provide them with information about services and/or products requested by them, and also the products and services themselves; and with regard to this, Deltastock will have no liability to the client in respect of the same.
 
 ### Updating or Deleting Client Data
 
@@ -76,7 +105,7 @@ Deltastock will change or delete a client’s personal data in accordance with t
 
 To make using the website as straightforward as possible and to improve the services it offers, Deltastock uses cookies and IP addresses.
 
-Cookies are information packages sent by the web server to the user’s or client’s Internet browser, and which are sent back by the browser each time it accesses the same server. These information packages are saved and stored on the user’s or client’s computer by the Internet browser.
+Cookies are information packages sent by the web server to the user’s or client’s Internet browser, and which are sent back by the browser each time it accesses the same server. These information packages are saved and stored on the user’s or client’s computer by the Internet browser. Cookies provide operational information which can be used to improve the user’s interaction with the website.
 
 There are two main types of cookies:
 
@@ -87,13 +116,13 @@ There are two main types of cookies:
 
 Deltastock would like to inform its clients and website users that it uses Google Analytics to analyse the use of the website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers. The information gathered relating to the website is used to create reports about the use of the website. Google will store this information. Google’s Privacy Policy can be found here: <http://www.google.com/privacypolicy.html>.
 
-Deltastock uses cookies to:
+### Deltastock uses cookies to:
 
-  * gather information about the journey across the website of website users and clients of the financial services offered by the company;
+  * gather information about the journey across the website of website users and clients;
   * ensure client and user security on the website;
   * store login details for the website;
   * temporarily store data input into the calculators, tools, illustrations, and demonstrations provided by the company on the website;
-  * store information about users’ marketing and product preferences, which helps improve targeting;
+  * store information about users’ marketing and product preferences, which helps improve the marketing strategy;
   * store information about users’ dwell time on the website;
   * evaluate the website’s advertising and promotional effectiveness (the data collected by Deltastock is anonymous, and is not shared with any third parties).
 
@@ -134,11 +163,11 @@ Any secure online services the user or client has subscribed to with Deltastock 
 
 ### IP Address
 
-An IP address is a unique number that identifies the user’s or client’s computer while connected to the Internet. IP addresses are not linked to personal information. Besides for purpose of identification of the user’s or client’s computer, Deltastock also uses IP addresses to analyse overall user behaviour and preferences on the website.
+An IP address is a unique number that identifies the user’s or client’s computer while connected to the Internet. IP addresses are not linked to personal information nor are they personal data. Besides for purpose of identification of the user’s or client’s computer, Deltastock also uses IP addresses to analyse overall user behaviour and preferences on the website.
 
 ### Protection of Information
 
-Clients' non-public information and personal data are kept in a secure and strictly confidential manner, and are accessed and used only by employees who service the client's account.
+Clients' non-public information and personal data are kept in a secure and strictly confidential manner; thay are accessed and used only by employees who service the client's account, as well as by employees who exercise controlling functions.
 
 Deltastock uses advanced security software and technology to ensure a safe and secure trading environment and to protect clients' non-public personal, financial and trading information.
 
@@ -150,9 +179,9 @@ The client has no obligation to provide any part of their non-public information
 
 The client’s refusal to provide the information or personal data requested by Deltastock may result in Deltastock's inability to open or maintain the client's account for trading in financial instruments, or to provide financial services to them.
 
-### Amendments to Privacy Policy
+### Amendments to the Privacy and Data Protection Policy
 
-Any changes to this Privacy Policy will be published promptly on Deltastock's website and will serve as notification to clients.
+Any changes to this Policy will be published promptly on Deltastock's website and will serve as notification to clients.
 
 ### Client Consent
 
