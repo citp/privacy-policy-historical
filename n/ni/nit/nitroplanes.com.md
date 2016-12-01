@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitroplanes.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313143032id_/http%3A//www.nitroplanes.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitroplanes.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201093618id_/http%3A//www.nitroplanes.com/privacypolicy.html) for the most accurate reproduction.*
 
 # NitroPlanes.com - Shop for the Best R/C Planes RC Airplane Electric Brushless Nitro Gas Jet Aircraft RC Quadcopters RC Drones DJI Phantom UAV
 
@@ -10,6 +10,8 @@ share, or rent information to any outside parties.
 **What information do we collect?**
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
+
+**What is Free Local Store Pickup?**   If you are located in Southern California, you may purchase your items online and pick up the order at our Pico Rivera, CA location (Zip Code 90660). This allows you to save on shipping and have your order in 1-2 business days! You will receive a confirmation email to confirm that the order is available and ready to be picked up. All local store pick ups must present a valid ID that matches the name on the order. All orders must be picked up within 5 business days or the order will be canceled. 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
@@ -66,7 +68,7 @@ As part of the California Online Privacy Protection Act, all users of our site m
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.nitroplanes.com/teandco.html](https://web.archive.org/web/20160313143032id_/http%3A//www.nitroplanes.com/terms_and_conditions.htm)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.nitroplanes.com/teandco.html](https://web.archive.org/web/20161201093618id_/http%3A//www.nitroplanes.com/terms_and_conditions.htm)
 
 **Your Consent**
 
