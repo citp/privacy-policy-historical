@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technologietrudeau.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531182031id_/http%3A//www.technologietrudeau.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technologietrudeau.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201064853id_/http%3A//www.technologietrudeau.com/privacy) for the most accurate reproduction.*
 
 # Social2Search.com | Privacy
 
@@ -99,9 +99,9 @@ Our policy only addresses the use and disclosure of information we collect from 
 
 The Service may also enable you to interact (whether directly or through link) with third party websites and services that are not owned or controlled by us ("Third Party Services"). We are not responsible for the privacy practices or the content of any Third Party Services. Please be aware that the Third Party Services may collect Personal Information from you. Accordingly, we encourage you to read the terms and conditions and privacy policy of each Third Party Services that you choose to use or interact with.
 
-### Advertising
+### Advertising, New Tab and Default Search
 
-You may view and manage your advertising preferences at any time by accessing your account settings available by clicking on the icons via the Social2Search ads widget. You can choose to opt out of advertising at any time by visiting your account settings. We partner with a third party to either display advertising on the Social2Search Product. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. Please note this does not opt you out of being served ads. You will continue to receive generic ads. As long as your browser retains the Social2Search opt-out cookie, Social2Search won't serve ads to your browser.
+You may view and manage your advertising preferences at any time by accessing your account settings available by clicking on the icons via the Social2Search widget. You can choose to opt out of advertising at any time by visiting your account settings. For New Tab and Default Search settings, visit the browser settings to return to the original New Tab and Default Search. We partner with a third party to either display advertising, new tab and default search on the Social2Search Product. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising, new tab and default search based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by contacting us at [feedback@social2search.com](mailto:feedback@social2search.com). Please note this does not opt you out of being served ads. You will continue to receive generic ads. As long as your browser retains the Social2Search opt-out cookie, Social2Search won't serve ads to your browser.
 
 ### User Rights
 
