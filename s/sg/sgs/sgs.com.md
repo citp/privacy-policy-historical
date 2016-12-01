@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgs.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605145115id_/http%3A//www.sgs.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgs.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201051650id_/http%3A//sgs.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SGS
 
@@ -14,7 +14,7 @@ However, in order to better provide you with products and services, certain SGS 
 
 **Non-Personally Identifiable Information** refers to information that is statistical in nature only and that does not, by itself, identify a specific individual or entity, and which depends upon the visiting you do on the SGS Group company websites. For example, this information may include the domain from which you access the Internet, the date and time you access any SGS Group company website, and the Internet address of the website from which you linked directly to any SGS Group company website. This information is used in an aggregate form to make the SGS Group company websites more useful and attractive to its users.
 
-"This website may also use, on some pages, the HotJar Analysis and Feedback tool. The HotJar service helps us analyze how visitors use our websites. It reveals the online behavior and feedback of our website's visitors. By combining both A) Analysis and B) Feedback tools, Hotjar gives us the 'big picture' of how to improve our website visitor’s experience and the site’s performance. We do not collect through the HotJar service or transfer to HotJar any Personal Identifiable Information. We only use the HotJar service to record, for some visitors on some websites and on a completely anonymous basis, information such as mouse clicks, mouse movements, scrolling activity as well as non-Personally Identifiable Information text you type in some of our websites. Information about the browser (type, version, screen size, etc.), basic information about the user (IP address, language, time zone) and data containing mouse movements, clicks, scroll events and keystrokes are sent to HotJar. No personal data is sent. Hotjar uses a variety of services hosted by third parties, such as Google Analytics and Optimizely. These services may collect information sent by your browser as part of a web page request, such as cookies or your IP request. For information on how Google Analytics and Optimizely collect and use your information, please refer to their privacy policies. Keystrokes from password fields and fields marked as “sensitive” are never recorded or sent over the network. For more information see HotJar’s Privacy Policy at <https://www.hotjar.com/privacy>. You can choose to disable the HotJar service at <https://www.hotjar.com/opt-out>.”
+This website may also use, on some pages, the HotJar Analysis and Feedback tool. The HotJar service helps us analyze how visitors use our websites. It reveals the online behavior and feedback of our website's visitors. By combining both A) Analysis and B) Feedback tools, Hotjar gives us the 'big picture' of how to improve our website visitor’s experience and the site’s performance. We do not collect through the HotJar service or transfer to HotJar any Personal Identifiable Information. We only use the HotJar service to record, for some visitors on some websites and on a completely anonymous basis, information such as mouse clicks, mouse movements, scrolling activity as well as non-Personally Identifiable Information text you type in some of our websites. Information about the browser (type, version, screen size, etc.), basic information about the user (IP address, language, time zone) and data containing mouse movements, clicks, scroll events and keystrokes are sent to HotJar. No personal data is sent. Hotjar uses a variety of services hosted by third parties, such as Google Analytics and Optimizely. These services may collect information sent by your browser as part of a web page request, such as cookies or your IP request. For information on how Google Analytics and Optimizely collect and use your information, please refer to their privacy policies. Keystrokes from password fields and fields marked as “sensitive” are never recorded or sent over the network. For more information see HotJar’s Privacy Policy at <https://www.hotjar.com/privacy>. You can choose to disable the HotJar service at <https://www.hotjar.com/opt-out>.
 
 ### Does SGS share the information it receives?
 
@@ -22,7 +22,7 @@ Information about our clients is an important part of our business and SGS is no
 
   1. By transfer to other SGS Group companies where it is necessary to meet the purpose for which you have submitted the information. By submitting data on any SGS Group company website, you are providing explicit consent to trans-border transmission of data collected on that website. 
   2. By transfer to third party agents and subcontractors which perform certain functions on behalf of SGS, such as picking up and delivering samples, fulfilling inspection orders, sending email, removing repetitive information from client lists, analysing data and processing credit card payments. These parties only have access to such information as necessary to perform their functions and may not use it for any other purpose. 
-  3. For any reason if, in SGS' sole discretion, SGS believes it is reasonable to do so, including: to satisfy any laws, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact or bring legal action against someone who may be violating our [Terms of Access](https://web.archive.org/en/terms-of-access)[ ](https://web.archive.org/en/sitecore/content/universal/shared-sitemap-content/sgs/terms-of-access)or other terms and conditions; or to otherwise protect the SGS Group of companies.
+  3. For any reason if, in SGS' sole discretion, SGS believes it is reasonable to do so, including: to satisfy any laws, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact or bring legal action against someone who may be violating our [Terms of Access](https://web.archive.org/en/terms-of-access)[ ](https://web.archive.org/en/terms-of-access)or other terms and conditions; or to otherwise protect the SGS Group of companies.
 
 
 
@@ -39,7 +39,7 @@ Regarding the information held about you by SGS, you may, for example, request u
 
 We also welcome questions and your comments about our data protection policy.
 
-### How to contact us?
+### How to contact us
 
 At any time using one of the methods below:
 
@@ -51,8 +51,6 @@ At any time using one of the methods below:
 
 (iv) by calling us: + 41 22 739 91 11
 
-  
 SGS continually strives to improve its service to its customers and to its potential customers.
 
-  
 Page last modified on February 5, 2016
