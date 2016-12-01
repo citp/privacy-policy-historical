@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petroleum.nic.in privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607075918id_/http%3A//www.petroleum.nic.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petroleum.nic.in privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201083854id_/http%3A//petroleum.nic.in/privacy.html) for the most accurate reproduction.*
 
 # Ministry of Petroleum & Natural Gas
 
