@@ -1,15 +1,16 @@
-<!--The following is the downloaded HTML source of the thumbtack.com privacy policy that was archived on 2016-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616052009id_/https%3A//www.thumbtack.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thumbtack.com privacy policy that was archived on 2016-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161201214451id_/https%3A//www.thumbtack.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class=""><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="Content-Style-Type" content="text/css"><meta http-equiv="Content-Script-Type" content="text/javascript"><meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script async="" src="//s.btstatic.com/tag.js#site=GYp4tcM"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcGVFRQGwUJVFlWBQM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><title>Privacy Policy - Thumbtack</title><meta property="fb:app_id" content="131357050011"><meta property="og:url" content="https://www.thumbtack.com/privacy"><meta property="og:title" content="Privacy Policy - Thumbtack"><meta property="og:type" content="website"><meta property="og:site_name" content="Thumbtack"><link rel="image_src" href="https://static4.thumbtackstatic.com/theme/images/thumbtack2.png"><meta property="og:image:secure_url" content="https://static4.thumbtackstatic.com/theme/images/thumbtack2.png"><meta name="omg:cute" href="https://static5.thumbtackstatic.com/media/puppies/pup.jpg"><link rel="icon" href="/favicon.ico"><link rel="apple-touch-icon" href="/apple-touch-icon-152x152.png"><link rel="stylesheet" type="text/css" media="all" href="https://static8.thumbtackstatic.com/_assets/styles/release/legacy-css/base/primo/font-face/icons-350665ef.css.gz"><link rel="stylesheet" type="text/css" media="all" href="https://static4.thumbtackstatic.com/_assets/styles/release/legacy-css/base/primo/core-8e7d98a7.css.gz"><link rel="stylesheet" type="text/css" media="all" href="https://static6.thumbtackstatic.com/_assets/styles/release/legacy-css/base/primo/static/terms-privacy-ac193aed.css.gz"><script type="text/javascript">
+<!DOCTYPE html><html lang="en" class=""><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta http-equiv="Content-Style-Type" content="text/css"><meta http-equiv="Content-Script-Type" content="text/javascript"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="dropbox-domain-verification" content="0gjo970nvgw9"><title>Privacy Policy - Thumbtack</title><meta property="fb:app_id" content="131357050011"><meta property="og:url" content="https://www.thumbtack.com/privacy"><meta property="og:title" content="Privacy Policy - Thumbtack"><meta property="og:type" content="website"><meta property="og:site_name" content="Thumbtack"><link rel="image_src" href="https://static4.thumbtackstatic.com/theme/images/thumbtack2.png"><meta property="og:image" content="https://static5.thumbtackstatic.com/media/logos/thumbtack_logomark_200x200.png"><meta property="og:image:secure_url" content="https://static5.thumbtackstatic.com/media/logos/thumbtack_logomark_200x200.png"><meta property="og:image:width" content="200"><meta property="og:image:height" content="200"><meta property="og:image:type" content="image/png"><meta name="omg:cute" href="https://static5.thumbtackstatic.com/media/puppies/pup.jpg"><link rel="icon" href="/favicon.ico"><link rel="apple-touch-icon" href="/apple-touch-icon-152x152.png"><link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32"><link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16"><link rel="manifest" href="/manifest.json"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#f27802 "><meta name="msapplication-TileColor" content="#ff0000 "><meta name="msapplication-TileImage" content="/mstile-144x144.png"><meta name="theme-color" content="#ffffff "><link rel="stylesheet" media="all" href="https://static8.thumbtackstatic.com/_assets/styles/release/legacy-css/base/primo/font-face/icons-350665ef.css.gz"><link rel="stylesheet" media="all" href="https://static4.thumbtackstatic.com/_assets/styles/release/legacy-css/base/primo/core-b06a1ff5.css.gz"><link rel="stylesheet" media="all" href="https://static6.thumbtackstatic.com/_assets/styles/release/legacy-css/base/primo/static/terms-privacy-ac193aed.css.gz"><link rel="stylesheet" media="all" href="https://static2.thumbtackstatic.com/_assets/styles/release/legacy-css/thumbprint/pages/banner-app-upsell-9e59f948.css.gz"><script async="" src="//s.btstatic.com/tag.js#site=GYp4tcM"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
                         TT_FB_KEY = "131357050011";
             TT_MOBILE = false;
         </script></head><body id="" class="primo primo-avenir primo-responsive primo-fluid "><!--[if !(IE 9)]>--><script>
     (function(){
-        var svgFile = "https:\/\/static.thumbtackstatic.com\/_assets\/svg\/release\/symbol\/svg\/sprite.symbol-44dd6b51.svg.gz";
+        var svgFile = "https:\/\/static.thumbtackstatic.com\/_assets\/svg\/release\/symbol\/svg\/sprite.symbol-063c04f9.svg.gz";
         var xhr = new XMLHttpRequest();
         xhr.open("GET", svgFile);
-        xhr.setRequestHeader("Content-Type", "text/xml");
+        // Use text/plain instead of text/xml http://stackoverflow.com/a/13030629
+        xhr.setRequestHeader("Content-Type", "text/plain");
         xhr.onreadystatechange = function () {
             if (xhr.readyState !== XMLHttpRequest.DONE) {
                 return;
@@ -41,10 +42,495 @@
                 "></polygon><polygon points="70 9.95015528 66.2917961 12 67 7.65835921 64 4.58359214 68.145898
                 3.95015528 70 0 71.854102 3.95015528 76 4.58359214 73 7.65835921 73.7082039 12
                 "></polygon></clipPath></defs></svg><div global-header="" class="glorious-header 
-    " data-section="header"><div class="wrapper"><div class="row header-row"><div class="header-logo"><a href="/"><img class="GlobalHeader-fallbackLogo" src="https://static1.thumbtackstatic.com/media/logos/thumbtack_brand_152x24.svg" width="152" height="24" alt="Thumbtack"></a></div><div class="header-middle-container"></div><div class="header-navigation "><a href="/pro" rel="nofollow" aura-track="home page/clicked join as a pro" aura-track-on="click" class="gray-link">Join as a Pro</a><a href="/choose-account" rel="nofollow" aura-track="home page/clicked sign up" aura-track-on="click" class="gray-link">Sign Up</a><a href="/login" rel="nofollow" aura-track="home page/clicked log in" aura-track-on="click" class="gray-link log-in-link">Log In</a></div></div></div><input type="checkbox" id="mobile-navigation-toggle" class="mobile-navigation-toggle"><label for="mobile-navigation-toggle" class="mobile-navigation-trigger"></label><div class="glorious-navigation-wrapper
+        " data-section="header"><div class="wrapper"><div class="row header-row"><div class="header-logo"><a href="/"><img class="GlobalHeader-fallbackLogo" src="https://static1.thumbtackstatic.com/media/logos/thumbtack_brand_152x24.svg" width="152" height="24" alt="Thumbtack"></a></div><div class="header-middle-container"></div><div class="header-navigation "><a href="/pro" rel="nofollow" aura-track="home page/clicked join as a pro" aura-track-on="click" class="gray-link">Join as a Pro</a><a href="/choose-account" rel="nofollow" aura-track="home page/clicked sign up" aura-track-on="click" class="gray-link">Sign Up</a><a href="/login" rel="nofollow" aura-track="home page/clicked log in" aura-track-on="click" class="gray-link log-in-link">Log In</a></div></div></div><input type="checkbox" id="mobile-navigation-toggle" class="mobile-navigation-toggle "><label for="mobile-navigation-toggle" class="mobile-navigation-trigger "></label><div class="glorious-navigation-wrapper
     "><div class="glorious-navigation
         "><div class="wrapper browse-wrapper" data-browse-container=""><ul class="navigation-row"><li class="about"><a href="/about"><span>About</span></a></li><li class="jobs"><a href="/jobs"><span>Jobs</span></a></li><li class="team"><a href="/team/"><span>Team</span></a></li><li class="blog"><a href="/blog"><span>Blog</span></a></li><li class="team/engineering"><a href="/team/engineering"><span>Engineering</span></a></li><li class="press"><a href="/press"><span>Press</span></a></li><li class="mobile-navigation-item GlobalHeader-loginLink"><a href="/pro" rel="nofollow" aura-track="home page/clicked join as a pro" aura-track-on="click">Join as a Pro</a></li><li class="mobile-navigation-item GlobalHeader-loginLink"><a href="/choose-account" rel="nofollow" aura-track="home page/clicked sign up" aura-track-on="click">Sign Up</a></li><li class="mobile-navigation-item GlobalHeader-loginLink"><a href="/login" rel="nofollow" aura-track="home page/clicked log in" aura-track-on="click">Log In</a></li></ul></div></div></div></div>
 
+    <div class="wrapper content">
+        <div class="dynamic-row">
+            <div class="column-9 body-text">
+                <div class="privacy-2016-10-24" id="2016-10-24">
+                    <h1>Privacy Policy</h1>
+
+<p><em>Last Updated: October 24, 2016</em></p>
+
+<p>Thumbtack, Inc. ("Thumbtack," "we," "our," or "us") values your
+  privacy. In this Privacy Policy ("Policy"), we describe the information we collect, how
+  we use it, and when and with whom we share it. This Policy applies to all sites, mobile
+  applications, and other online services (collectively, "Platform") made available by
+  Thumbtack. This Policy applies only to information collected on or through the
+  Platform. It does not apply to information collected or obtained by or through any
+  other means (including, without limitation, information collected offline, in person,
+  over the telephone and/or by mail, or from third parties outside the Platform).
+  Undefined capitalized terms used herein shall have the definitions as set forth in
+  our <a href="http://www.thumbtack.com/terms">
+            Terms of Use</a>. By accessing or using the Platform, you
+  agree to this Policy. IF YOU DO NOT AGREE TO THIS POLICY,
+  PLEASE DO NOT ACCESS OR USE THE PLATFORM.</p>
+
+<h3>KEY TERMS</h3>
+
+<p>Please review the <a href="/terms/#key-terms">"Key Terms" section in the Terms of Use</a>.</p>
+
+<h3>INFORMATION WE COLLECT</h3>
+
+<p>How we collect and store information depends on how you access
+  and use the Platform. We collect information in multiple ways including when you
+  provide information directly to us, when you permit third parties to provide
+  information to us, and when we passively collect information from you, such as
+  information collected from your browser or device.</p>
+
+<p class="c2 c6"><em>Information You Provide Directly to Us</em></p>
+
+<p>We may collect information from you during your use or access of
+  the Platform, such as:</p>
+
+<ul class="c4 lst-kix_an48178t9320-0 start">
+    <li>When you register for an Account;</li>
+    <li>When you participate in polls or surveys;</li>
+    <li>When you enroll for electronic newsletters;</li>
+    <li>When you request a quote or other information;</li>
+    <li>When you submit or respond to a quote;</li>
+    <li>When you make a purchase;</li>
+    <li>When you fill out any forms;</li>
+    <li>When you enter a sweepstakes or contest, or register for a
+    promotion;</li>
+    <li>When you transmit User Content;</li>
+    <li>When you download or use one of our mobile applications;
+    or</li>
+    <li>When you otherwise communicate with us or other users through
+    the Platform.</li>
+</ul>
+
+<p>This list is illustrative, not exhaustive; the
+  Privacy Policy applies to <em>all</em> use
+  of the Platform.</p>
+<p>The information you provide directly to us may concern you or
+  others and may include, but is not limited to: (a) name; (b) zip code; (c) email
+  address; (d) home or business telephone number; (e) home, business or mailing address;
+  (f) demographic information (e.g., gender, age, political preference,
+  education, race or ethnic origin, and other information relevant to user surveys and/or
+  offers); (g) date of birth; (h) insurance information; (i) photographs;
+  (j) information about your project, request or need; (k) video or audio files;
+  (l) in certain circumstances, payment and/or identity verification information. and/or
+  (m) any other content you include in private communications with other users through
+  the Platform or communications with us. It may
+  also include information specific to services you are requesting or offering through
+  the Platform, such as a business name, service description, qualifications and
+  credentials. You are not required to provide us with such information, but certain
+  features of the Platform may not be accessible or available, absent the provision of
+  the requested information.</p>
+
+<p><em>Information from Affiliates, Social Networking
+  Sites, and other Non-affiliated Third Parties</em></p>
+
+<p>We may collect information about you or others through Thumbtack
+  affiliates or through non-affiliated third parties. For example, you may be able to
+  access the Platform through a social networking account, such as Facebook. If you
+  access the Platform through your Facebook account, you may allow us to have access to
+  certain information in your Facebook profile. This may include your name, profile
+  picture, gender, networks, user IDs, list of friends, location, date of birth, email
+  address, photos, videos, people you follow and/or who follow you, and/or your posts or
+  "likes." </p>
+
+<p>Social networking sites, such as Facebook, have their own policies
+  for handling your information. For a description of how these sites may use and
+  disclose your information, including any information you make public, please consult the
+  sites' privacy policies. We have no control over how any third-party site uses or
+  discloses the personal information it collects about you.</p>
+
+<p>We may also collect information about you or others through
+  non-affiliated third parties. For example, to the extent permitted by law, we may, in
+  our sole discretion, ask for and collect supplemental information from third parties,
+  such as information about your credit from a credit bureau, or information to verify
+  your identity or trustworthiness, or for other fraud or safety protection purposes. We
+  may combine information that we collect from you through the Platform with information
+  that we obtain from such third parties and information derived from any other products
+  or services we provide.</p>
+
+<p><em>Information That is Passively or Automatically
+  Collected</em></p>
+
+<p><em>Device/Usage Information.</em> We and our
+  third-party service providers, which include ad networks and analytics companies
+  including DoubleClick and Google Analytics, may use cookies, web beacons, and other
+  tracking technologies to collect information about the computers or devices (including
+  mobile devices) you use to access the Platform. As described further below, we may
+  collect and analyze information including but not limited to (a) browser type; (b) ISP
+  or operating system; (c) domain name; (d) access time; (e) referring or exit pages; (f)
+  page views; (g) IP address; (h) unique device identifiers (e.g. IDFA or Android ID);
+  and (i) the type of device that you use. We may also track how frequently you access or
+  use the Platform. We use this information (including the information collected by our
+  third-party service providers) for Platform analytics (including to
+  determine which portions of the Platform are used most frequently and what
+  our users like/do not like), to assist in determining relevant advertising (both on and
+  off the Platform), to evaluate the success of our advertising campaigns, and as
+  otherwise described in this Policy.</p>
+
+<p><em>Location Information.</em> When you use the
+  Platform, we may collect general location information (such as IP address). If you
+  install our mobile app, we may ask you to grant us access to your mobile device's
+  geolocation data. If you grant such permission, we may collect information about your
+  precise geolocation, and we may use that information to improve the Platform, including
+  providing you with location-based features (e.g. for identification of Pro Services
+  available near you). To deliver customized content and advertising, we may share your
+  location information with our agents, vendors, or advertisers. If you access the
+  Platform through a mobile device and you do not want your device to provide us with
+  location-tracking information, you can disable the GPS or other location-tracking
+  functions on your device, provided your device allows you to do this. See your device
+  manufacturer's instructions for further details. If you
+  disable certain functions, you may be unable to use certain parts of the
+  Platform.</p>
+
+<p><em>Cookies and Other Electronic Technologies.</em>
+  We and our third-party service providers may use cookies, clear GIFs, pixel tags,
+  and other technologies that help us better understand user behavior, personalize
+  preferences, perform research and analytics, and improve the Platform. These
+  technologies, for example, may allow us to tailor the Platform to your needs, save your
+  password in password-protected areas, track the pages you visit, help us manage
+  content, and compile statistics about Platform usage. We also use certain of these
+  technologies to deliver advertisements through the Platform that may interest you. We
+  or our third-party service providers also may use certain of these technologies in
+  emails to our customers to help us track email response rates, identify when our emails
+  are viewed, and track whether our emails are forwarded.</p>
+
+<p>We may also use local shared objects (also known as "Flash
+  cookies") to assist in delivering special content, such as video clips or animation.
+  Flash cookies are stored on your device, but they are not managed through your web
+  browser. To learn more about how to manage Flash cookies, you can visit the Adobe
+  website and make changes at the Global Privacy Settings Panel.</p>
+
+<p>You can choose to accept or decline cookies. Most web browsers
+  automatically accept cookies, but your browser may allow you to modify your browser
+  settings to decline cookies if you prefer. If you disable cookies, you may be prevented
+  from taking full advantage of the Platform, because it may not function properly. Flash
+  cookies operate differently than browser cookies, and cookie management tools available
+  in a web browser may not affect flash cookies. As we adopt additional technologies, we
+  may also gather additional information through other methods.</p>
+
+<h3>HOW THUMBTACK USES THE INFORMATION WE
+  COLLECT</h3>
+<p>We may use your information for any of the following
+  reasons:</p>
+<ul>
+    <li>For the purposes for which you provided it;</li>
+    <li>To enable you to use the services available through the
+    Platform, including registering you for our services and verifying your identity and
+    authority to use our services;</li>
+    <li>For customer support and to respond to your
+    inquiries;</li>
+    <li>For internal record-keeping purposes;</li>
+    <li>To administer surveys, sweepstakes, promotions, or
+    contests;</li>
+    <li>To process billing and payment including sharing with
+    third-party payment gateways and payment service providers in connection with the
+    Platform;</li>
+    <li>To improve and maintain the Platform and for product
+    development;</li>
+    <li>To address fraud or safety concerns, or to investigate
+    complaints or suspected fraud or wrongdoing;</li>
+    <li>To periodically send promotional emails regarding new
+    products from Thumbtack, special offers from Thumbtack, or other information that may
+    interest you;</li>
+    <li>With your consent, to contact you by text message regarding
+    certain services or information you have requested;</li>
+    <li>With your consent, to contact you by
+    telephone or text message regarding Platform
+    features, improvements, or other products and services that may interest
+    you;</li>
+    <li>For Thumbtack's market research purposes, including, but not
+    limited to, the customization of the Platform according to your
+    interests;</li>
+    <li>To contact you about goods and services that may interest you
+    or with information about your use of the Platform;</li>
+    <li>For other research and analytical purposes; and</li>
+    <li>To resolve disputes, to protect ourselves and other users of
+    the Platform, and to enforce any legal terms that govern your use of the
+    Platform.</li>
+</ul>
+
+<p>We may combine information that we collect from you through the
+  Platform with information that we obtain from affiliated and nonaffiliated third
+  parties, and information derived from any other products or services we
+  provide.</p>
+
+<p>We may aggregate and/or de-identify information collected through
+  the Platform. We may use de-identified or aggregated data for any purpose, including
+  without limitation for research and marketing purposes and may also share such data
+  with any third parties, including without limitation, advertisers, promotional
+  partners, sponsors, event promoters, and/or others.</p>
+
+<p>We may, either directly or through third parties we engage to
+    provide services to us, review, scan, or analyze your communications
+    with other users exchanged via the Platform for fraud prevention, risk assessment,
+    regulatory compliance, investigation, product development, research and customer
+    support purposes. For example, as part of our fraud prevention efforts,
+    we may scan and analyze messages to prevent fraud or improper actions.
+    We may also scan, review or analyze messages for research and product development
+    purposes, as well as to debug, improve and expand product offerings. By using the
+    Platform, you consent that Thumbtack, in its sole discretion, may, either directly
+    or through third parties we engage to provide services to us, review, scan, analyze, and
+    store your communications, whether done manually or through automated means.</p>
+
+<h3>WHEN THUMBTACK DISCLOSES YOUR INFORMATION</h3>
+
+<p>Unless otherwise described in this Policy, we may also share the
+  information that we collect from you through the Platform as follows:</p>
+
+<ul>
+    <li><em>Affiliates.</em> We may share your
+    information with any Thumbtack affiliates.</li>
+    <li><em>Consent.</em> We may disclose your
+    information to nonaffiliated third parties based on
+    your consent to do so. Such consent includes the disclosure of your information (a)
+    in order to provide services or products that you have requested (please see below
+    for more details); (b) when we have your permission; or (c) as described in this
+    Policy, the Terms of Use, or any other legal terms governing your use of the
+    Platform.</li>
+    <li><em>Service Providers</em>. We may provide
+    access to your information to select third parties who
+    perform services on our behalf. These third parties provide a variety of services to
+    us including without limitation billing, sales, marketing, advertising, market
+    research, fulfillment, data storage, analysis and processing, identity verification,
+    fraud and safety protection and legal services. As we retain new service
+    providers, we generally seek contractual assurances from these service providers that
+    they will not use your information in any manner other than to help us provide you
+    with the services and products available from Thumbtack.</li>
+    <li><em>Legal Requirements</em>. We may disclose
+    your information when required by law or when we believe in good faith
+    that such disclosure is necessary to: (a) comply with subpoenas, court orders, or
+    other legal process we receive; (b) establish or exercise our legal rights including
+    enforcing and administering agreements with users; or
+        (c)defend Thumbtack against legal
+    claims.If we are required by law to disclose your
+    information, we will use commercially reasonable efforts to notify you unless
+    (a) we believe in our sole discretion that providing notice could create a risk of
+    injury or death, or that harm or fraud could be directed to Thumbtack or users; or
+    (b) we are precluded from providing notice by law. We will attempt to provide the
+    notice by email if you have given us an email address. If you do not challenge the disclosure
+    request, we may be legally required to turn over your information.</li>
+
+    <li><em>Protection of Thumbtack and Others</em>.
+    We may disclose your information when we believe it appropriate to investigate,
+    prevent, or take action regarding possible illegal activities, suspected fraud,
+    situations involving potential threats to the physical safety of any person,
+    violations of the Terms of Use or any other legal
+    terms governing use of the Platform, and/or to protect our rights and property and
+    the rights and property of other users.</li>
+
+    <li><em>Business Transfers</em>. As we continue
+    to develop our business, we may sell, buy, merge or partner with other companies or
+    businesses, or sell some or all of our assets. In such transactions or where there is
+    any change of control of Thumbtack, user information may be among the transferred
+    assets.</li>
+
+    <li><em>App Store Providers</em>. We may provide
+    your identity and mobile device identifier to third-party app store providers (for
+    example, the Apple App Store) to allow you to download our mobile apps.</li>
+
+    <li><em>Academics and Research</em>. We may
+    provide information about users to third parties for academic and research purposes,
+    in anonymized or aggregated form.</li>
+</ul>
+
+<p>Please be advised that some information you provide will be
+  publicly accessible. For instance, registration for an Account requires that you
+  provide us with your name. If you register through Facebook, the Platform will use the
+  name associated with your Facebook account. Your name (full name, or in
+  some instances, your first name and last initial) may be visible to other users.
+  Depending on the circumstances, your name may be
+  attached to your Content or information, such as scheduling of Pro Services, service
+  requests, reviews, participating in discussions or forums, messaging, and profile
+  information. Certain other people, including other users with whom you have interacted
+  via the Platform, will see information about you that is attached to your name. For
+  example (but without limitation), if you are a Customer Member seeking Pro Services, the
+  description you provide of your desired services, along with your name, will be
+  shown to some Pro Members
+  registered in the relevant category along with your name. Thus, other users may be able
+  to personally identify you based on Content you provide.</p>
+
+<p>We invite you to post Content on or through our Platform, including,
+    but not limited to, your comments,pictures, and any other information. However, please
+    be careful and responsible whenever you are online. If you choose to post User Content
+    on or through the Platform, such as through Member-to-Member messaging or through our
+    review boards, forums, blogs, or other postings, that information: (a) may be or may
+    become publicly available; (b) may be collected and used by third parties without
+    our knowledge; and (c) may be used in a manner that may violate this Policy, the law,
+    or your personal privacy.</p>
+
+<h3>ONLINE ANALYTICS AND TAILORED ADVERTISING</h3>
+
+<p><em>Analytics</em></p>
+
+<p>We may use third-party web analytics services on the Platform, such
+  as those of Google Analytics. These service providers use the sort of technology
+  described in the Information That Is Passively or Automatically Collected section above
+  to help us analyze how users use the Platform, including by noting the third-party
+  website from which you arrive. The information collected by the technology will be
+  disclosed to or collected directly by these service providers, who use the information
+  to evaluate your use of the Platform. We also use Google Analytics for certain purposes
+  related to advertising, as described in the following section. To prevent Google
+  Analytics from using your information for analytics, you may install the
+  <a href="https://tools.google.com/dlpage/gaoptout">
+          Google Analytics Opt-Out Browser Add-on</a>.</p>
+
+<p><em>Tailored Advertising</em></p>
+
+<p>Third parties whose products or services are accessible or marketed
+  via the Platform may also place cookies or other tracking technologies on your
+  computer, mobile phone, or other device to collect information about your use of
+  the Platform in order to (a) inform, optimize, and serve marketing content based on
+  past visits to our websites and other sites and (b) report how our marketing content
+  impressions, other uses of marketing services, and interactions with these marketing
+  impressions and marketing services are related to visits to our websites. We also allow
+  other third parties(e.g., ad networks and ad servers such as Google
+  Analytics, DoubleClick, Facebook and others) to serve tailored marketing
+  to you and to access their own cookies or other tracking technologies on your computer,
+  mobile phone, or other device you use to access the Platform. We neither have access
+  to, nor does this Policy govern, the use of cookies or other tracking technologies that
+  may be placed on your computer, mobile phone, or other device you use to access the
+  Platform by non-affiliated, third-party ad technology, ad servers, ad networks or any
+  other non-affiliated third parties. Those parties that use these technologies may offer
+  you a way to opt out of targeted advertising as described below. You may receive
+  tailored advertising on your computer through a web browser. Cookies may be associated
+  with de-identified data linked to or derived from data you voluntarily have submitted
+  to us (e.g., your email address) that we may share with a service provider in hashed,
+  non-human-readable form.</p>
+
+<p>If you are interested in more information about tailored browser
+  advertising and how you can generally control cookies from being put on your computer
+  to deliver tailored marketing, you may visit the <a class="c0" href="http://www.networkadvertising.org/choices">
+            Network Advertising Initiative's Consumer Opt-Out
+            Link</a> and/or the <a href="http://www.aboutads.info/choices">
+            Digital Advertising Alliance's Consumer Opt-Out Link</a> to
+  opt-out of receiving tailored advertising from companies that participate in those
+  programs. To opt out of Google Analytics for Display Advertising or customize Google
+  Display Network ads, you can visit the <a href="https://www.google.com/settings/ads">
+            Google Ads Settings page</a>. Please note that to the extent advertising
+  technology is integrated into the Platform, you may still receive advertising content
+  even if you opt out of tailored advertising. In that case, the advertising content will
+  just not be tailored to your interests. Also, we do not control any of the above
+  opt-out links and are not responsible for any choices you make using these mechanisms
+  or the continued availability or accuracy of these mechanisms. If your browsers are
+  configured to reject cookies when you visit this opt-out page, or you subsequently
+  erase your cookies, use a different computer or change web browsers,
+  your NAI or DAA opt-out may no longer be effective.
+  Additional information is available on NAI's and DAA's websites, accessible by the above
+  links.</p>
+
+<p>When using a mobile application you may also receive tailored
+  in-application advertising content. Each operating system-iOS for Apple devices,
+  Android for Android devices, and Windows for Microsoft devices-provides its own
+  instructions on how to prevent the delivery of tailored in-application marketing
+  content. You may review the support materials and/or the privacy settings for the
+  respective operating systems in order to opt-out of tailored in-application
+  advertising. For any other devices and/or operating systems, please visit the privacy
+  settings for the applicable device or contact the applicable platform
+  operator.</p>
+
+<h3>CALIFORNIA DO-NOT-TRACK DISCLOSURE</h3>
+
+<p>Thumbtack is committed to providing you with meaningful choices
+    about the information collected on our Platform for third party purposes. That is why
+    we have provided links (above) to the NAI "Consumer Opt-Out" link, the DAA opt-out link,
+    and a Google opt-out link. However, Thumbtack does not currently recognize or respond to
+    browser-initiated Do-Not-Track signals, as the Internet industry is currently still working
+    on Do-Not-Track standards, implementations and solutions.</p>
+
+<h3>PRIVACY OF MINORS</h3>
+
+<p>Our Services are not designed for minors under 18. Only persons 18 years of age or older
+    may use the Platform. If we discover that an individual under 18 has provided us with personal
+    information, we will close the account and delete the personal information to the extent
+    required by the Children's Online Privacy Protection Act. We may, where permitted by law,
+    retain certain information internally for purposes described in this Policy.</p>
+
+<h3>SECURITY</h3>
+
+<p>We employ appropriate physical, procedural and technological security measures, which
+    are reasonably designed to help protect your personal information from unauthorized access
+    or disclosure. Thumbtack may use encryption, passwords, and physical security measures to
+    help protect your personal information against unauthorized access and disclosure. No
+    security measures, however, are 100% failsafe. Therefore, we do not promise and cannot
+    guarantee, and thus you should not expect, that your personal information or private
+    communications will not be collected, disclosed and/or used by others. You should take
+    steps to protect against unauthorized access to your password, phone, and computer by, among
+    other things, signing off after using a shared computer, choosing a robust password
+    that nobody else knows or can easily guess, keeping your log-in and password private, and
+    not recycling passwords from other websites or accounts. Thumbtack is not responsible for
+    the unauthorized use of your information nor for any lost, stolen, or compromised passwords,
+    or for any activity on your Account via unauthorized password activity.</p>
+
+<h3>LINKS TO EXTERNAL PLATFORMS</h3>
+
+<p>The Platform may contain links to other websites or resources over
+    which Thumbtack does not have any control. Such links do not constitute an endorsement
+    by Thumbtack of those external websites. You acknowledge that Thumbtack is providing
+    these links to you only as a convenience, and further agree that Thumbtack is not
+    responsible for the content of such external websites or the protection and privacy of
+    information you provide while visiting such external websites.</p>
+
+<h3>UPDATING, DELETING, AND CORRECTING YOUR INFORMATION</h3>
+
+<p>You may review, correct and delete certain information about you by
+    logging in to the Platform and navigating to your preferences page in "Your Dashboard."
+    You must promptly update your Account information if it changes or is inaccurate. Upon
+    your request, we will close your Account and remove your profile information from view
+    as soon as reasonably possible. We may retain information from closed Accounts in order
+    to comply with the law, prevent fraud, collect any fees owed, resolve disputes,
+    troubleshoot problems, assist with any investigations of any user, enforce our Terms of
+    Use, and/or for any other purposes otherwise permitted by law that we deem necessary in
+    our sole discretion. You should understand, however, that once you transmit User
+    Content through the Platform, you may not be able to change or remove it. Once we have
+    deactivated or removed your Account, you agree that Thumbtack will not be responsible to
+    you for retaining information related to your Account.</p>
+
+<h3>YOUR
+    CHOICES REGARDING EMAIL COMMUNICATIONS</h3>
+
+<p>We may send periodic promotional or informational emails to you.
+    You may opt out of such communications by following the opt-out instructions contained
+    in the email. Please note that it may take up to 10 business days for us to process
+    opt-out requests. If you opt out of receiving emails about recommendations or other
+    information we think may interest you, we may still send you emails about your Account
+    or any services you have requested or received from us.</p>
+
+<h3>CHANGES TO THIS POLICY</h3>
+
+<p>THIS POLICY IS CURRENT AS OF THE EFFECTIVE DATE SET FORTH ABOVE.
+    THUMBTACK MAY, IN ITS SOLE AND ABSOLUTE DISCRETION, CHANGE THIS POLICY AT ANY TIME.
+    THUMBTACK WILL POST ITS UPDATED POLICY ON THE PLATFORM, SEND YOU A MESSAGE OR OTHERWISE
+    NOTIFY YOU WHEN YOU ARE LOGGED INTO YOUR ACCOUNT IN ADVANCE OF THE NEW EFFECTIVE DATE.
+    THUMBTACK ENCOURAGES YOU TO REVIEW THIS POLICY REGULARLY FOR ANY CHANGES. YOUR CONTINUED
+    ACCESS TO OR USE OF THE PLATFORM WILL BE SUBJECT TO THE TERMS OF THE THEN-CURRENT POLICY.</p>
+
+<h3>CONSENT TO TRANSFER</h3>
+
+<p>Our computer systems are currently based in the United States, so
+    your personal data will be processed by us in the United States, where data protection
+    and privacy regulations may not offer the same level of protection as in other parts of
+    the world, such as the European Union. If you create an Account with the Platform as a
+    visitor from outside the United States, by using the Platform, you agree to this Policy
+    and you consent to the transfer of all such information to the United States, which may
+    not offer a level of protection equivalent to that required in the European Union or
+    certain other countries, and to the processing of that information as described in this
+    Policy.</p>
+
+<h3 class="c2 c10">CONTACT US</h3>
+
+<p>If you have any questions about the Privacy Policy or the Platform,
+  please contact us by sending an email to
+    <a href="mailto:support@thumbtack.com">support@thumbtack.com</a>, or by writing to:
+  Thumbtack, Inc., 360 9th Street, San Francisco, CA 94103.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="wrapper">
+        <hr>
+        <h2>Previous Version</h2>
+        <hr>
+    </div>
     <div class="wrapper content">
         <div class="dynamic-row">
             <div class="column-9 body-text">
@@ -67,7 +553,7 @@
 
 <h3>KEY TERMS</h3>
 
-<p>Please review the <a href="/terms/#key-terms">"Key Terms" section in the Terms of Use</a>.</p>
+<p>Please review the <a href="/terms/#key-terms-2015">"Key Terms" section in the Terms of Use</a>.</p>
 
 <h3>INFORMATION WE COLLECT</h3>
 
@@ -411,19 +897,19 @@
   advertising. For any other devices and/or operating systems, please visit the privacy
   settings for the applicable device or contact the applicable platform
   operator.</p>
-<h3 id="h.oj99dz47l86a">CALIFORNIA DO-NOT-TRACK DISCLOSURE</h3>
+<h3>CALIFORNIA DO-NOT-TRACK DISCLOSURE</h3>
 <p>Thumbtack is committed to providing you with meaningful choices
   about the information collected on our Platform for third party purposes. That is why
   we have provided links below to the NAI "Customer Opt-out" link, DAA opt-out link, a
   Google opt-out link. However, Thumbtack does not currently recognize or respond to
   browser-initiated Do-Not-Track signals, as the internet industry is currently still
   working on Do-Not-Track standards, implementations and solutions.</p>
-<h3 id="h.l90zp2r3uw5t">CHILDREN'S PRIVACY</h3>
+<h3>CHILDREN'S PRIVACY</h3>
 <p>Our Services are not designed for children under 18. Only persons
   18 years of age or older may use the Platform. If we discover that an individual under
   18 has provided us with personal information, we will close the account
   and delete such information.</p>
-<h3 id="h.j5tmod6340yy">SECURITY</h3>
+<h3>SECURITY</h3>
 <p>We employ appropriate physical, procedural and technological
   security measures, which are reasonably designed to help protect your personal
   information from unauthorized access or disclosure. Thumbtack may
@@ -461,7 +947,7 @@
   Content through the Platform, you may not be able to change or remove it. Once we have
   deleted or removed your Account, you agree that Thumbtack will not be responsible to
   you for retaining information related to your Account.</p>
-<h3><a name="h.ha13kgrd5v2" id="h.ha13kgrd5v2"></a>YOUR
+<h3>YOUR
   CHOICES REGARDING EMAIL COMMUNICATIONS</h3>
 <p>We may send periodic promotional or informational emails to you.
   You may opt out of such communications by following the opt-out instructions contained
@@ -478,7 +964,7 @@
   OF THE NEW EFFECTIVE DATE. THUMBTACK ENCOURAGES YOU TO REVIEW THIS POLICY REGULARLY FOR
   ANY CHANGES. YOUR CONTINUED ACCESS TO OR USE OF THE PLATFORM WILL BE SUBJECT TO THE
   TERMS OF THE THEN-CURRENT POLICY.</p>
-<h3><a name="h.v402mil6i8f2" id="h.v402mil6i8f2"></a>CONSENT TO TRANSFER</h3>
+<h3>CONSENT TO TRANSFER</h3>
 <p>Our computer systems are currently based in the United States, so
   your personal data will be processed by us in the United States, where data protection
   and privacy regulations may not offer the same level of protection as in other parts of
@@ -488,7 +974,7 @@
   not offer an equivalent level of protection of that required in the European Union or
   certain other countries, and to the processing of that information as described in this
   Policy.</p>
-<h3 class="c2 c10"><a name="h.8ubhq8cn4nwp" id="h.8ubhq8cn4nwp"></a>CONTACT US</h3>
+<h3 class="c2 c10">CONTACT US</h3>
 <p>If you have any questions about the Privacy Policy or the Platform,
   please contact us by sending an email to
     <a href="mailto:support@thumbtack.com">support@thumbtack.com</a>, or by writing to:
@@ -539,15 +1025,11 @@
                     <ul class="GlobalFooter-linkSection-linkList B3-S" ng-class="{'is-collapsed': $footerActiveSection !== 'customers'}">
                         <li><a href="/how-it-works">How it works</a></li>
                         <li><a href="/safety">Safety</a></li>
-                                                    <li>
-                                <a href="https://itunes.apple.com/us/app/thumbtack-accomplish-your/id852703300?mt=8">
-                                    iPhone app
-                                </a>
-                            </li>
+                        <li><a href="https://r.yoz.io/Z3.c.r">iPhone app</a></li>
                         <li><a href="/near-me">Services Near Me</a></li>
                         <li><a href="/prices">Cost Estimates</a></li>
-                        <li><a href="/theme/moving">Moving Guides</a></li>
-                                            </ul>
+                        <li><a href="/service-guides">Service Guides</a></li>
+                    </ul>
                 </div>
                 <div class="
                                             column-2
@@ -559,7 +1041,9 @@
                         <li><a href="/pros/how-thumbtack-works">How it works</a></li>
                         <li><a href="/pro">Sign up</a></li>
                         <li><a href="/pros">Pro center</a></li>
-                        <li><a href="/pros/why-join#pro-stories">Success stories</a></li>
+                        <li><a href="/pros/why-join#pro-stories">
+                            Success stories
+                        </a></li>
                                                     <li><a href="/pro-app">
                                 Mobile app
                             </a></li>
@@ -578,12 +1062,7 @@
 
                         <li>
                             <a href="https://help.thumbtack.com">
-                                Help center
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://help.thumbtack.com?vw=ct">
-                                Contact Thumbtack
+                                Help Center
                             </a>
                         </li>
                     </ul>
@@ -613,14 +1092,12 @@
             </div>
         </div>
     </div>
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/4.13.1/lodash.min.js"></script><script>
-    // TODO(giles): this is for Backbone 0.9 compatibility. Remove if we can upgrade Backbone or
-    // delete it entirely.
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://static7.thumbtackstatic.com/_assets/javascript/release/legacy-js/jquery/jquery.browser-c000434a.js.gz"></script><script src="//cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.0.0/jquery-migrate.min.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/4.13.1/lodash.min.js"></script><script>
     _.contains = _.includes;
-</script><script type="text/javascript" src="https://static6.thumbtackstatic.com/_assets/javascript/release/bundles/foundation_bundle-6b3b21fa.js.gz"></script><script type="text/javascript">
+</script><script src="https://static6.thumbtackstatic.com/_assets/javascript/release/bundles/foundation_bundle-6b3b21fa.js.gz"></script><script>
     _createTTNamespace(
         false,
-        {"2015_11_add_hercule_to_signup":{"bucket":"robot","data":[]}},
+        [],
         {"primo":true},
         []
     );
@@ -633,10 +1110,9 @@
                 }
             }
             var data = {
-                key: "k9dt9i6vlsjd845sapnau9j7a4n6fhj0m1hv51tto6o1ps3o39",
+                key: "1igft8hphmhlp4rqnponi0asvavv98ce5s4d5vnrhdngi9vps2ku",
                 tags: {},
                 data: metrics,
-                view: "static_privacy",
             };
             $.post(
                 '/ajax/responsiveness',
@@ -650,20 +1126,20 @@
             $(document).ready(function() {
                                 postResponsivenessMetrics()
 
-                $(window).load(function() {
+                $(window).on('load', function() {
                                         window.setTimeout(function() {
                         postResponsivenessMetrics()
                     }, 0);
                 });
             });
         }
-    </script><script src="https://static6.thumbtackstatic.com/_assets/javascript/release/bundles/bundle-47f243b1.js.gz"></script><script type="text/javascript">
+    </script><script src="https://static6.thumbtackstatic.com/_assets/javascript/release/bundles/bundle-c67ad36e.js.gz"></script><script>
         TT.domReady(function() {
             TT.loggedin = false;
 
             
             
-                            $.ajax({
+                                            $.ajax({
                                             url: "https://static8.thumbtackstatic.com/media/primo/fonts/AvenirNextDemi.woff",
                                         beforeSend: function(xhr) {
                         xhr.overrideMimeType("application/octet-stream");
@@ -671,13 +1147,13 @@
                     success: function(data) {
                         $("<link />", {
                             "rel": "stylesheet",
-                            "href":
-                                "https://static4.thumbtackstatic.com/_assets/styles/release/legacy-css/base/primo/font-face/avenir-next-bd2ae205.css.gz"
+                            "href": "https://static4.thumbtackstatic.com/_assets/styles/release/legacy-css/base/primo/font-face/avenir-next-bd2ae205.css.gz"
                         }).appendTo("head");
                     }
                 });
 
-                                var MTIProjectId = "a212b055-e197-4bd2-a1a6-652454312d1e";
+                // Required for tracking font usage.
+                var MTIProjectId = "a212b055-e197-4bd2-a1a6-652454312d1e";
                 var mtiTracking = document.createElement("script");
                 mtiTracking.type = "text/javascript";
                 mtiTracking.async = "true";
@@ -692,9 +1168,10 @@
             })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
             ga('create', 'UA-6981433-1', 'auto');
+            ga('require', 'GTM-PCGNZW');
             ga('send', 'pageview');
-        </script><script type="text/javascript">
-                var signalCoData = {};
+        </script><script>
+        var signalCoData = {};
         
         (function () {
             var tagjs = document.createElement("script");
@@ -703,11 +1180,12 @@
             tagjs.src = "//s.btstatic.com/tag.js#site=GYp4tcM";
             s.parentNode.insertBefore(tagjs, s);
         })();
-    </script><noscript><iframe src="//s.thebrighttag.com/iframe?c=GYp4tcM" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></noscript><div id="preload"></div><script type="text/javascript">
+    </script><noscript><iframe src="//s.thebrighttag.com/iframe?c=GYp4tcM" width="1" height="1" frameborder="0"
+            scrolling="no" marginheight="0" marginwidth="0"></iframe></noscript><div id="preload"></div><script>
         $(window).on("load", function() {
             TT.initPiede();
         });
-    </script><script type="text/javascript">
+    </script><script>
         $(document).ready(function() {
 
             
@@ -717,6 +1195,6 @@
         });
     </script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d4b68e51ca","applicationID":"6908422","transactionName":"MQYAMBRWWUVVB0FYWAhMIREVQ1hbGxBBbV4IAA4RAlJEakINUEZEOjAWBRJeVGZVA1BnXgMU","queueTime":0,"applicationTime":37,"atts":"HUEXRlxMShoWBRcLTBse","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
 
 </body></html>
