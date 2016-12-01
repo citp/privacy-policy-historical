@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the didigames.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605172108id_/http%3A//www.didigames.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the didigames.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201040013id_/http%3A//www.didigames.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Didigames.com Privacy Policy & Terms of Use
 
