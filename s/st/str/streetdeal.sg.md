@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetdeal.sg privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510064753id_/http%3A//www.streetdeal.sg/home/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetdeal.sg privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201182618id_/http%3A//www.streetdeal.sg/home/info/privacy) for the most accurate reproduction.*
 
 # Deals, Discounts Singapore | StreetDeal.sg
 
@@ -103,3 +103,14 @@ If at any time you would like to **unsubscribe** from our mailing list, please u
 Whether you're a new or loyal customer, restaurant owner, marketer, publisher, media member or job seeker we'd like to stay connected and want to hear from you!
 
 Please contact us via our [contact page](http://www.streetdeal.sg/home/info/contact).
+
+Asia Deal Group Pte Ltd  
+305 Alexandra Road,  
+#05-15 Vantage Automotive Centre  
+159942 Singapore
+
+For all payments processed via a European acquirer, please contact:  
+ADG Online Ltd  
+1-4 Argyll Street,  
+W1F 7LD,  
+London UK 
