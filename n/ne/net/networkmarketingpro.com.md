@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the networkmarketingpro.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505231814id_/http%3A//networkmarketingpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkmarketingpro.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201154955id_/http%3A//networkmarketingpro.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Network Marketing Pro® | Free MLM Training
+# Privacy Policy | Network Marketing Pro
 
   1. **HOW WE PROTECT YOUR PRIVACY.**  
 This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
