@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyertown.ca privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610223423id_/https%3A//corp.flipp.com/flipp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyertown.ca privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201192813id_/https%3A//corp.flipp.com/flipp/privacy) for the most accurate reproduction.*
 
 # Flipp - Reimagine the Weekly Shopping Experience
 
