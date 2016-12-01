@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trepup.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620035906id_/http%3A//www.trepup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trepup.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201133114id_/http%3A//www.trepup.com/privacy) for the most accurate reproduction.*
 
-# Trepup Data Policy
+# Trepup data policy
 
 Your privacy is important to us and we strive to take reasonable care to protect the information we receive from you. We created this policy to tell you about the kind of information we collect from you, how we use it, and what options you have to limit our use of your information. 
 
@@ -128,8 +128,4 @@ We do our best to keep your information safe, but we cannot guarantee that your 
 
 We may update this policy from time to time, and if we do, we will post any changes on this page. If we believe that a revision is material, we may notify you. We further reserve the right to determine the most appropriate manner of providing notifications to you, and you agree to receive notices electronically if we so choose. You are advised to review the policy periodically. Your continued access or use of Trepup once a revision becomes effective will mean that you accept the revised policy and agree to be bound by such policy. If you do not agree to the revised policy, please stop using Trepup. 
 
-Effective: 1 May 2015 
-
-Grow your business on Trepup, the world's business network.
-
-It works for others, it will work for you too.
+Effective: 1 May 2016 
