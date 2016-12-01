@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resource-packs.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617154549id_/http%3A//www.resource-packs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resource-packs.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201163532id_/http%3A//www.resource-packs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Texture Packs
 
