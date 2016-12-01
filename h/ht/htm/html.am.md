@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the html.am privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421074424id_/http%3A//www.html.am/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the html.am privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201171209id_/http%3A//www.html.am/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
