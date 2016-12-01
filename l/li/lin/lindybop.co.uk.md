@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lindybop.co.uk privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527154027id_/https%3A//www.lindybop.co.uk/privacy-policy-i4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindybop.co.uk privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201185532id_/http%3A//www.lindybop.co.uk/privacy-policy-i4) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,14 +35,14 @@ We may use your personal information to send you promotional information about t
 
 If you would like a copy of the information held on you please write to: 
 
-Melza Ltd   
-Lancaster Road   
-Carnaby Industrial Estate   
-Bridlington   
-East Riding of Yorkshire   
-YO15 3QY   
+Lindy Bop  
+3D Basil Chambers  
+65 High Street  
+Manchester  
+M4 1FS  
 United Kingdom
 
+  
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
 For information on our Cookie Policy, please [CLICK HERE](https://www.lindybop.co.uk/cookies).
