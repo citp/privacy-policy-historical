@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the qbcc.qld.gov.au privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618112603id_/http%3A//www.qbcc.qld.gov.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qbcc.qld.gov.au privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201195624id_/http%3A//www.qbcc.qld.gov.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Queensland Building and Construction Commission
 
 ### About this policy
 
-The Queensland Building and Construction Commission manages personal information in line with the[ _Information Privacy Act 2009_ (PDF)](https://www.qbcc.qld.gov.au/sites/default/files/Information%20Privacy%20Act%202009.pdf).
+The Queensland Building and Construction Commission manages personal information in line with the[ _Information Privacy Act 2009_ (PDF)](http://www.qbcc.qld.gov.au/sites/default/files/Information%20Privacy%20Act%202009.pdf).
 
 This Privacy Policy describes the personal information that may be collected and used by the QBCC. We collect and manage your personal information from you when you:
 
@@ -126,19 +126,19 @@ Any enquiries can be directed to 139 333 or email [rti@qbcc.qld.gov.au](mailto:r
 
 ### Access to Personal Information  
 
-If you would like to access any of your personal information that is held by QBCC you can make an [Information Privacy](https://www.qbcc.qld.gov.au/apply-get-your-personal-information-information-privacy-application) application.
+If you would like to access any of your personal information that is held by QBCC you can make an [Information Privacy](http://www.qbcc.qld.gov.au/apply-get-your-personal-information-information-privacy-application) application.
 
 ### Amending your Personal Information
 
-You may [apply to amend documents](https://www.qbcc.qld.gov.au/requesting-amendment-your-personal-information) containing your personal information held by QBCC, where you believe relevant information is inaccurate, misleading, out of date or incomplete. 
+You may [apply to amend documents](http://www.qbcc.qld.gov.au/requesting-amendment-your-personal-information) containing your personal information held by QBCC, where you believe relevant information is inaccurate, misleading, out of date or incomplete. 
 
 ### Making a privacy complaint
 
-If you believe there has been a breach of your personal information involving QBCC you may [lodge a privacy complaint](https://www.qbcc.qld.gov.au/making-privacy-complaint). 
+If you believe there has been a breach of your personal information involving QBCC you may [lodge a privacy complaint](http://www.qbcc.qld.gov.au/making-privacy-complaint). 
 
 ### Right to Information
 
-All information held by the QBCC may be subject to [application for access](https://www.qbcc.qld.gov.au/right-information-application) under the _Right to Information Act 2009_ (RTI Act).
+All information held by the QBCC may be subject to [application for access](http://www.qbcc.qld.gov.au/right-information-application) under the _Right to Information Act 2009_ (RTI Act).
 
 #### More information
 
