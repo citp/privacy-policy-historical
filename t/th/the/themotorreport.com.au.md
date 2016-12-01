@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themotorreport.com.au privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610203118id_/http%3A//www.themotorreport.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themotorreport.com.au privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201231458id_/http%3A//www.themotorreport.com.au/privacy-policy) for the most accurate reproduction.*
 
 # TMR Help
 
@@ -68,10 +68,6 @@ If you have any complaints relating to online privacy issues on The Motor Report
 
 If we decide to change the The Motor Report's Privacy Policy, we will post those changes here.
 
-******
-
 #### Maximum of 5 cars selected.
 
 Please remove one of the below. 
-
-**
