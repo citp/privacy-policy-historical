@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatefatburner.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404151314id_/http%3A//www.ultimatefatburner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatefatburner.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201022832id_/http%3A//www.ultimatefatburner.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
