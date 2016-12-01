@@ -1,66 +1,253 @@
-> *The following text is extracted and transformed from the good.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328184540id_/https%3A//www1.good.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the good.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201033411id_/http%3A//us.blackberry.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - United States
 
-### GOOD CUSTOMER PRIVACY POLICY
+BlackBerry Limited and its subsidiary companies and affiliates (“BlackBerry”) are committed to and have a long-standing policy of maintaining the privacy and security of your personal information which is information about an identifiable individual (as defined by applicable privacy or data protection laws).
 
-Good Technology, Inc. and our affiliated companies ("Good," "us" or "we") rely on you, our customers, for our success. Before using our products, services or our website ([http://www.good.com](http://www.good.com/), or "Website") we want you to know what information we may collect that identifies you personally, what we do with that information, and your choices about how that information will be used. We respect your right to privacy, and we've created this Customer Privacy Policy (our "Privacy Policy") to address these important issues. By requesting information about our products or services or visiting our Website, you are accepting the practices described in this Privacy Policy.
+This Privacy Policy explains BlackBerry’s practices with respect to the processing of your personal information which includes the collection, use, processing, transfer, storage or disclosure of your personal information, except where a BlackBerry subsidiary or affiliate has published its own separate privacy policy. In addition, agreements or notices associated with a particular BlackBerry product, service, software or website (“BlackBerry Offering”) may provide additional information about BlackBerry’s processing of your personal information (“Notice”). The application of this Privacy Policy remains subject to applicable laws including legislation, regulations and the orders of any courts or other lawful authorities, other lawful requests or legal processes. Where applicable, the data controller in respect of your personal information is the BlackBerry entity with whom you have entered into an agreement.
 
-### Why Do We Collect Personally Identifiable Information?
+  1. BlackBerry’s accountability
+  2. BlackBerry’s purposes for using your personal information
+  3. Your consent
+    1. When obtaining consent is not required
+    2. Children
+    3. Aggregated or anonymous information
+  4. Types of information processed
+    1. Account and membership information
+    2. Applications
+    3. Cloud-based or back-up data
+    4. Cookies or similar technologies
+    5. Financial information
+    6. General usage data
+    7. Location information
+    8. Quality assurance and customer service
+    9. Third party information
+  5. BlackBerry’s processing of your personal information
+    1. Retention
+    2. International operations and onward transfers
+    3. Marketing communications from BlackBerry
+    4. Service-related communications from BlackBerry
+    5. Information sharing
+    6. Third Party Offerings
+  6. Accuracy of your personal information
+  7. Safeguarding your personal information
+    1. Your obligations to safeguard your personal information
+  8. BlackBerry’s ongoing efforts to be transparent
+  9. You can access your personal information
+  10. Questions or concerns? How to contact us
+    1. Managing your preferences
+    2. Changes to this Privacy Policy
 
-Good provides innovative wireless enterprise solutions to our customers. If you request information about our products or services, we'll collect information that identifies you so that we can respond to your request. Likewise, if you order our products, services, product support, or related information, we'll collect your personally identifiable information so that we can fulfill your orders and provide you with requested product support. We'll use your personally identifiable information to let you know about upcoming products, services, software, events, promotions, contests, webinars, and other information we think you'd like to hear about. From time to time we may provide you with information about products of other companies that can add value to your Good products or services, and you may be contacted to participate in product or market research so that we can better understand and respond to your needs.
-
-### What Personally Identifiable Information Do We Collect and How Do We Use It?
-
-The information we collect about you will depend on your relationship with Good. We will share your information with Good's affiliated companies and those third party companies (for example, service carriers, authorized resellers, support providers, consultants, and companies who help us process your transactions - our "Supply Chain") that help sell our products and services, provide wireless services through our products, provide related products or services, or customer support. We've provided examples below, describing how Good or a third party company on our behalf will collect and use your personally identifiable information. If you have any questions or concerns at any time about how your personally identifiable information will be collected or used, please contact us at: [privacy@good.com](mailto:privacy@good.com)
-
-#### We will collect and use personally identifiable information in the following ways:
-
-  * Provide You With Information About Our Products or Services: If you want additional information about our products or services, you'll be asked to provide certain personal information so that a sales representative from Good or an authorized reseller can contact you. This information will include your name, email address, telephone number, ZIP code or post code and country code.
-  * To Purchase Good Products or Services: When you purchase Good products or services you'll be asked for information to facilitate that transaction. That information will include your name, job title, phone, fax, email address, shipping and billing addresses, and payment information. If you're responsible for payment, this will include your credit card type, number, expiration date, and your name as it appears on the card. That information will be shared by Good with our Supply Chain to help us process your order and payment. If you place an order for wireless service through Good, we'll request the information required by the carrier, and we'll understand that you've given us permission to transmit your order and personally identifiable information (including financial and other information) to a prospective service carrier so that carrier can perform a credit check and make decisions regarding service. If a company (usually your employer) is paying for products or services you receive, we may provide information to your employer (such as your name, the products and services you received, and the date service was activated) to allow your employer to cross-reference the products and services being paid for, and to verify that the appropriate number of licenses have been approved. If product will be shipped to you, we'll provide information to the company that ships the product on our behalf.
-  * To Provide You With Product Support and Facilitate Returns: If you purchase product support from Good, we'll use your email address and telephone number to provide you with that support, including emailing you service updates from time to time. The product support will be provided by Good and our Supply Chain.
-  * We do not access the content of your email or attachments that you send or receive using our products or services. If we provide support for your product, it is possible for us to tell if the device you're using is disconnected from the server, and to know the number of email messages you have pending, although we only access that information if needed to provide you with product support. In extremely rare situations, if you're experiencing difficulty with your Good product or service and our troubleshooting techniques do not resolve the issue, we might ask you to forward the application or content that appears to be causing the issue. You can always choose whether or not to do so. Information that you provide us for product support purposes will not be used for any other reason. 
-  * If you need to return a product you purchased from Good, we'll use the information you provide to allow us and our Supply Chain to facilitate the return.
-  * To Provide You With Related Information: We may provide personally identifiable information about you to other third party companies to help process event registration, do market research, and engage in joint promotional activities with companies that have products that can add value to your Good products or services (for example with handheld device manufacturers). We do not share personal information with advertisers or marketing organizations, except for those that assist us with marketing.
-  * When You Visit Our Website: The information we gather about you (if any) when you visit our Website depends on which part you visit. When visiting the Good Store, we use session cookies that temporarily identify you during your visit. Cookies are small bits of information that are stored on your computer and used to recognize and track a user's identity and avoid repetitive requests for the same information. When you order products or services from the Good Store we'll collect and share the information needed to process your order (see: "To Purchase Good Products or Services," above). If you purchase service online via the Good Store, Good may forward a cookie containing personally identifiable information to a carrier designated by you, to allow that carrier to evaluate and provide you with the requested service. The cookie will include no more information than that listed above (under "To Purchase Good Products or Services"). Once your order is complete, the session cookie is deleted at Good. Most browsers can tell you how to prevent your computer from accepting new cookies, how to disable cookies entirely, or notify you when you receive a new cookie. You can decide not to accept cookies when you visit the Good Store, but you may not be able to take advantage of all of the features of the Good Store and you may have to repeat information you previously provided. In addition, the Good Store may track aggregate user information (rather than personally identifiable information) to help us improve the user experience. For example, we may track the aggregate number of keystrokes and length of time it takes for on-line users to make a purchase at the Good Store, so that we can streamline and improve the shopping experience.
-  * If you visit the Channel Partner portion of our Website you'll be asked to provide a user name and password for authentication. The partner portion of our Website does not otherwise track personally identifiable information. Neither the partner portion of our Website, or the rest of our Website, uses cookies. The rest of our Website may track aggregate user information, to help us improve the user experience. For example, we may track aggregate user information by industry, to enhance the responsiveness of our Website to the industries being served.
-  * Good's Website contains links to other websites. We do not share your personal information with those websites and we are not responsible for their privacy practices. We encourage you to learn about the privacy policies of those other companies.
-  * Our Website is not intended for, or directed to, anyone under the age of 13. Any person who provides personal information to Good through any part of the Website represents that they are at least 13 years of age or older.
-  * Other Important Uses: We may disclose personal information if required by applicable law, if we have a good-faith belief that such disclosure is necessary to comply with legal process or public policy, or to protect the public, an individual's personal safety, or the property or interests of Good. Under such circumstances, we may be prohibited from providing notice of the disclosure, and we reserve the right not to provide such notice in our sole discretion.
-  * As our business evolves, Good may sell, transfer or otherwise share some or all of its assets, including personal information, in connection with a merger, reorganization, or sale of assets, or in the event of bankruptcy. In such an event, personal and anonymous information may be one of the assets transferred.
 
 
+####  2\. BlackBerry’s purposes for using your personal information 
 
-### Choice
+When you use a BlackBerry Offering, correspond with BlackBerry, enter a contest sponsored by BlackBerry or otherwise interact with BlackBerry, BlackBerry may process your personal information for the following purposes:
 
-We want you to know that you can choose not to provide us with any information that identifies you personally. If you make that decision however, we won't be able to provide you with our products or services. Each e-mail message that Good sends you for marketing purposes will give you the choice of "opting-out" from receiving similar emails in the future. If you don't opt out from receiving such future emails, we'll assume that we can continue to contact you for marketing and related purposes. If you choose to provide us with information that identifies you personally, and you later want to change how we use that information, please let us know by sending an email to: [privacy@good.com](mailto:privacy@good.com) If you change your request regarding how we can use your personally identifiable information, we will honor your most recent request. Personal information you provide cannot currently be deleted entirely, but we will honor any request not to contact you further.
+  * to understand and meet your needs and preferences, and to provide you with BlackBerry Offerings, e.g.:
+    * for purposes related to the billing, activation, provision, maintenance, support, trouble shooting, resolving of disputes, deactivation, repair, refurbishment, replacement, upgrade or update of BlackBerry Offerings;
+    * to ensure BlackBerry Offerings are technically functioning as intended and to help identify and troubleshoot issues;
+    * to fulfill or enforce Notices applicable to a BlackBerry Offering;
+    * to manage or respond to your inquiries;
+  * to develop new and enhance existing BlackBerry Offerings including to communicate with you about them using various means, e.g. to make available or send to you:
+    * upgrades or updates, or notices of upgrades or updates of BlackBerry Offerings or third party content or related products, services and software;
+    * notices of promotions and upcoming events;
+  * to manage and develop our business and operations, e.g.:
+    * to detect, monitor, investigate, mitigate or attempt to prevent fraud and technical or security issues or to protect BlackBerry property;
+    * to allow for business continuity and disaster recovery operations;
+    * to enforce BlackBerry’s legal rights;
+    * for statistical purposes;
+  * to meet legal and regulatory requirements and to respond to emergency situations, e.g.:
+    * to respond to court orders, warrants or other lawful requests or legal processes;
+    * to provide emergency assistance in situations that may threaten the life or physical safety of you or others; or
+  * for any other purposes for which you have consented, such as those that may be set out in Notices, and other purposes as permitted or required by any applicable law.
 
-### Access and Accuracy
 
-Good will use reasonable efforts to keep your personal information accurate. Please help us ensure that the information you provide is accurate and up-to-date, as it will help us serve you better. You can update your personally identifiable information by contacting us at: [privacy@good.com](mailto:privacy@good.com).
 
-### Security
+top
 
-Good has taken reasonable steps to secure the information you provide. For example, Good uses physical, electronic and administrative safeguards, including advanced firewall and password protection for our databases, which is designed to protect the security of data. The Good Store uses industry-standard Secure Sockets Layer (SSL) encryption on all web pages where your personal information is required. This is designed to protect the confidentiality of your personal information while it is transmitted over the internet. If you use a personal credit card to make payment, we will show only the last digits of your credit card when we verify your order. Good uses advanced encryption for all email and attachments that are sent or received using Good's products or services.
+####  3\. Your consent 
 
-### Miscellaneous
+Before using BlackBerry Offerings, you may be required to agree to an applicable Notice that may contain additional information regarding BlackBerry's processing of your personal information. Your agreement to the Notice or use of BlackBerry Offerings indicates your consent for BlackBerry to process your personal information for BlackBerry's identified purposes.
 
-Good's Customer Privacy Policy is incorporated into Good's Terms of Use. If there is any conflict between Good's Terms of Use and this Privacy Policy, the Terms of Use will prevail. We may update this Privacy Policy from time to time, and if we do, we will notify you of changes by posting a notice on our Website. The changes will become effective when posted, and your continued use of any of our products, services, or the Website will signify your acceptance of the new terms. If you do not accept the changes, please immediately discontinue use of our products, services and the Website. Please check back frequently to review our Customer Privacy Policy and to stay informed about how we treat personally identifiable information that we collect.
+**a) When obtaining consent is not required**
 
-Good Technology complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Good Technology has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Good Technology's certification page, please visit [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/). Personally identifiable information that is provided or gathered by Good is controlled primarily by Good Technology, Inc, 430 N. Mary Avenue, Suite 200, Sunnyvale, CA 94085, USA. This Customer Privacy Policy is effective May 10, 2004.
+In certain circumstances, your personal information may be processed without your consent depending on the jurisdiction and any applicable laws. For example, BlackBerry may not seek consent:
 
-### Privacy Complaints by European Union Citizens:
+  * in the case of an emergency where the life, health or security of an individual may be threatened;
+  * when legal, medical, or security reasons make it impossible or impractical to seek consent;
+  * when information is necessary for the detection and prevention of fraud;
+  * when disclosure is to a lawyer representing BlackBerry;
+  * to collect a debt;
+  * to comply with a subpoena, warrant or other court order, lawful request or legal process; or
+  * as may be otherwise required or permitted by law.
 
-In compliance with the Safe Harbor Principles, Good commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Good at:
 
-Attn. Information Security Officer  
-430 N. Mary Avenue, Suite 200  
-Sunnyvale, CA 94085
 
-Good has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Good Technology, you may contact the BBB EU SAFE HARBOR program at the address below:
+**b) Children**
 
-Council of Better Business Bureaus, Inc.  
-BBB EU SAFE HARBOR  
-Web: [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints)
+BlackBerry does not knowingly process personal information from individuals under the age of 13 without the consent of their parent or legal guardian.
 
-© 2012 Good Technology, Inc. All Rights Reserved.
+**c) Aggregated or anonymous information**
+
+BlackBerry reserves the right to process, sell, trade or rent aggregated or anonymous information that is not associated with or linked to an identifiable individual.
+
+top
+
+####  4\. Types of information processed 
+
+The types of information that BlackBerry may process can vary. For example:
+
+**a) Account and membership information:** Information processed could include your name, postal address, email address, telephone number, BlackBerry ID, device identifier information such as your BlackBerry PIN, airtime service provider information, communications with BlackBerry and any recorded complaints. BlackBerry may also process your account credentials, passwords, profile information and other information you provide to facilitate the BlackBerry Offerings you use.
+
+**b) Applications:** In some cases, BlackBerry may process information about applications used on your device including Third Party Offerings (i.e. applications, products, services, software, websites or content provided by a third party, including an airtime service provider or application developer, that may be used in conjunction with BlackBerry Offerings, but are not offered, operated or supported by BlackBerry). Also, if you choose to use Third Party Offerings with your BlackBerry account or device, certain information may be collected and disclosed to the third party, or from the third party to BlackBerry, in order to facilitate or improve the services and functionality provided.
+
+**c) Cloud-based or back-up data:** If you use a cloud-based or back-up and restore service provided by or on behalf of BlackBerry, information from your device or account including contacts, email addresses, calendar, memo, tasks, display pictures, status messages, media files and other on-device information may be sent to BlackBerry in order to facilitate or improve the use, remote access and restoration of that data on your device through the service provided.
+
+**d) Cookies or similar technologies:** A cookie is a small text file or piece of data that is downloaded to and stored on your computer or device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes the cookie. As part of BlackBerry's Offerings, BlackBerry may use different types of cookies or similar technologies ("Cookies") from time to time. Certain Cookies are **_necessary_** to facilitate your use of BlackBerry Offerings (such as when you use a shopping basket) or to protect both you and BlackBerry when you sign-in to certain services (such as storing your credentials to make it easier whenever you want to use BlackBerry Offerings or to confirm that you are logged in). Other Cookies are more **_performance_** -related such as for analytics or contextual purposes to help us understand how users engage with BlackBerry Offerings so we can provide new and enhanced BlackBerry Offerings (such as which pages or features are most popular). Some Cookies are more **_function_** -related and help personalize your experience and make BlackBerry Offerings easier to use (such as your language or jurisdiction preferences), or to help BlackBerry display personalized content to you. Other Cookies or similar technologies may be used for **_targeted advertising_** purposes (e.g. certain BlackBerry Offerings may be supported by advertising revenue and display advertisements and promotions which may be targeted against non-personally identifiable attributes or aggregate data collected by BlackBerry, and BlackBerry or our service providers may place such advertising on BlackBerry Offerings). Anonymized or aggregated information about usage of BlackBerry Offerings may be provided in a form that does not personally identify you to our service providers as part of analytics services and to help manage online advertising. Most browsers are initially set to accept Cookies, but you can usually change your browser settings to refuse Cookies or to indicate when a Cookie is being sent. You can typically remove or block browser Cookies using the settings in your browser, but that may impact your ability to use certain BlackBerry Offerings as they may not work well or at all with Cookies disabled. Choosing to continue without disabling Cookies indicates your consent to BlackBerry's use of Cookies in accordance with this Privacy Policy. Please visit the section below on **"Managing your preferences"** for more information on managing BlackBerry's use of Cookies.
+
+**e) Financial information:** If you purchase a product, service, software or customer support directly from BlackBerry or our service providers, BlackBerry may process credit card or other payment information and use it to facilitate billing and credit services and conduct credit checks, as applicable. Similarly, BlackBerry may process payment or other financial information when you use Near Field Communications functionality on your BlackBerry device.
+
+**f) General usage data:** In some cases, information like technical properties and general usage information of software and hardware utilized in conjunction with a BlackBerry Offering might be processed when you use such products, services or software (e.g. type of web browser, referring or exit web pages, operating system version, hardware model of your device or personal computer platform, IP address), or when you use a BlackBerry troubleshooting tool (e.g. basic usage statistics or information about your device including event logs, application configurations, battery life, radio or Wi-Fi signal levels, device reset and memory or system performance information).
+
+**g) Location information:** When you use BlackBerry Offerings, enable data services, use the browser or location-based functionality on your device, location information associated to your device (e.g. Global Positioning System (GPS) or similar satellite triangulation information, carrier or tower ID, the BSSID (Broadcast Service Set Identifier) and MAC address (Media Access Control address) of Wi-Fi access points, and signal strength of visible Wi-Fi hotspots or wireless towers) may be communicated to BlackBerry or our service providers. If BlackBerry collects and subsequently stores such information, it will be in a form that does not personally identify you (e.g. BlackBerry does not maintain a system that would link specific individuals to a BSSID). BlackBerry may process such information to provide you with or facilitate the provision of information and location-based services (e.g. mapping services, measuring traffic congestion, location-sensitive promotions or coupons). If you choose to use location-based services, you agree that such geographic location information may be processed to provide you with such services. You may manage through the settings on your device either the overall settings for your device's GPS or location functionality or individual settings for each application. If you choose to use location-based services or other applications to disclose your location to other persons or entities, you assume responsibility for the risks involved in doing so, and it is your responsibility to use them appropriately and according to applicable law. If you use Third Party Offerings which provide location-based services, please review the third party's terms and conditions and privacy policy regarding how your location and personal information will be processed, and how to opt-out of any location-based services and advertising provided by the third party.
+
+**h) Quality assurance and customer service:** Your customer service telephone calls with BlackBerry and BlackBerry's service providers may be recorded or monitored for quality assurance and customer service purposes such as to assist in addressing your inquiries, troubleshooting, training and analytics to identify trends and make improvements to BlackBerry Offerings.
+
+**i) Third party information:** If necessary to fulfill BlackBerry's identified purposes, BlackBerry may combine the information you submit to BlackBerry with information obtained from other sources or Third Party Offerings. For example, BlackBerry may receive personal information about you from third parties involved in providing you with the products, services, software and websites you are utilizing, such as from your airtime service provider to facilitate the wireless services you are utilizing or in some cases from a Third Party Offering vendor regarding applications used on your device. BlackBerry treats all such personal information in accordance with this Privacy Policy and the terms and conditions between BlackBerry and such third parties, if any, may also apply. However, the third party's own use of your personal information in such cases will be determined by your agreement(s) with the third party, unless that third party is a BlackBerry service provider.
+
+Some of this information would not by itself identify you to BlackBerry or be personally identifiable and is therefore considered non-personal information. If BlackBerry combines any such non-personal information with other personal information available to BlackBerry, the combined information will be treated as personal information in accordance with this Privacy Policy.
+
+top
+
+####  5\. BlackBerry's processing of your personal information 
+
+**a) Retention**
+
+BlackBerry retains personal information as long as necessary for the fulfillment of BlackBerry's identified purposes or as otherwise necessary to comply with applicable laws. When personal information is no longer necessary or relevant for BlackBerry's identified purposes, or required by applicable laws, BlackBerry will take steps to have it deleted, destroyed, erased, aggregated or made anonymous. Consistent with good business practice, BlackBerry continues to evolve our controls, schedules and practices for information and records retention and destruction which apply to your personal information.
+
+**b) International operations and onward transfers**
+
+BlackBerry has an international presence, with offices and facilities in multiple jurisdictions. Except where a BlackBerry subsidiary or affiliate has its own separate privacy policy, all of BlackBerry's international operations and onward transfers are subject to this Privacy Policy.
+
+You agree that, to be able to better serve you and facilitate the use or functioning of BlackBerry Offerings, your personal information may be collected, used, processed, transferred or stored by or on behalf of BlackBerry in multiple jurisdictions including Canada, the United States, the European Economic Area, Singapore and any other country where BlackBerry or our service providers have offices or facilities, including countries which may be outside the region in which you are situated and may have different privacy or data protection legislation, and may therefore be subject to the laws of these countries. If you are a resident of the European Economic Area or a country which restricts data transfers outside of that jurisdiction or region without your consent, you consent to your personal information being transferred outside of the European Economic Area or your country for processing or storage by or on behalf of BlackBerry.
+
+Given the international nature of our business, BlackBerry may also be required to disclose or otherwise provide access to your communications data, including the contents of your communications, and other information under the laws of countries where BlackBerry, our service providers, affiliates and data are located. By using BlackBerry Offerings, you consent to our compliance with applicable laws including any legal process that BlackBerry believes requires that we produce or provide access to your communications data and other information.
+
+**c) Marketing communications from BlackBerry**
+
+BlackBerry may communicate with you by a variety of means, such as using the email address(es) that you associate to your BlackBerry device or your unique device identifier (e.g. PIN). BlackBerry may communicate information, surveys, marketing materials, advertisements or customized content which has been personalized to try to make it more relevant to you as part of your existing business relationship with BlackBerry. For example, we may do so where you have not unsubscribed from receiving such communications and it is permitted by law, where you have explicitly agreed to receive such communications, where you use free services which rely upon advertising (including targeted advertising based on profile information), or through utilizing aggregated data or data that has been made anonymous. BlackBerry may ask you from time to time if you would like to receive from BlackBerry or authorized third parties selected by BlackBerry additional announcements, news, offers or event invitations regarding BlackBerry and BlackBerry Offerings. You may also choose to provide BlackBerry with information in response to various BlackBerry promotions. If you agree to participate in contests, surveys, giveaways, reviews, or other promotions that BlackBerry sponsors or co-sponsors, please ensure that you read the Notice that may be associated with these initiatives in order to obtain further details about how your personal information will be managed. Typically, an unsubscribe mechanism is included with every BlackBerry marketing or commercial communication. Please visit the section below on **"Managing your preferences"** for more information on managing marketing or commercial communications from BlackBerry.
+
+**d) Service-related communications from BlackBerry**
+
+BlackBerry may also send you certain service-related communications. For example, BlackBerry may send a welcome email or message when you first register your device to inform you about the service and its terms, to notify you of important changes, to tell you how to manage your credentials or account, to provide service infrastructure notifications or information about upgrades or updates, to provide warranty information, product recall information, safety or security information, or for surveys of current or former users. Because such service-related communications are important to your use of BlackBerry Offerings, you may not opt-out of receiving these communications.
+
+**e) Information sharing**
+
+In accordance with this Privacy Policy, BlackBerry may share your personal information within BlackBerry or with our service providers. BlackBerry may also share information with our financial, insurance, legal, accounting or other advisors that provide professional services to BlackBerry. BlackBerry may also share information in a manner consistent with this Privacy Policy with third parties involved in providing BlackBerry Offerings to you including airtime service providers, authorized resellers, distributors, merchants of record or payment processors, subcontractors or entities participating in BlackBerry's supply or repair chains.
+
+In certain situations where you purchase or use a Third Party Offering (e.g. paid content subscription service, downloaded application), BlackBerry may share certain information with the third party for purposes of providing you with the product, service or software and your information will then be subject to the third party's privacy policy. We encourage all our users to learn about the privacy practices of such third parties before agreeing to purchase or obtain their products, services or software.
+
+BlackBerry uses contractual or other means to provide a comparable level of protection while the information is being processed by our service providers. It is BlackBerry's policy to enter into confidentiality obligations with any third party that obtains confidential information including personal information from BlackBerry. For example, except where BlackBerry is required or permitted by law to disclose personal information, our service providers to whom we provide your personal information typically agree to hold the information in confidence and only use the information for the purposes for which it was provided or to comply with applicable laws.
+
+In the event of the sale of all or a portion of BlackBerry's assets, BlackBerry may provide personal information to the third party purchaser.
+
+BlackBerry may utilize third parties (e.g. advertising networks) to target advertisements at non-personally identifiable attributes or aggregated data that is derived from profile data processed by BlackBerry, and provide such third parties with general statistics relating to the advertisements delivered. Please visit the section below on **"Managing your preferences"** for more information on managing marketing or commercial communications from BlackBerry.
+
+**f) Third Party Offerings**
+
+BlackBerry does not own or operate all the applications or services that you download and use on your device or through other BlackBerry Offerings. When you download or utilize Third Party Offerings, personal information from your device or other BlackBerry Offerings may be accessed by such third parties. For example, a Third Party Offering might access on-device data such as contacts, calendar entries, email, location-based information, or it may access or share files or data stored on the device (including with additional Third Party Offerings). You should review the privacy policies and any agreements with such third parties to understand how your personal information will be treated by those entities, as BlackBerry is not responsible for your dealings with third parties or their applications, products, services or software. BlackBerry does not directly control how such third parties process any personal information they collect in connection with the Third Party Offerings you use.
+
+In some cases, you may adjust the permissions granted to Third Party Offerings. You should periodically review these permissions including default permissions, as well as the Options or Settings menu on your device, in order to learn more about its security and available controls.
+
+top
+
+####  6\. Accuracy of your personal information 
+
+BlackBerry takes reasonable steps to ensure that personal information is sufficiently accurate, complete and up-to-date. BlackBerry also depends on you to update or correct your personal information whenever necessary.
+
+top
+
+####  7\. Safeguarding your personal information 
+
+BlackBerry continues to evolve our physical, organizational and technological measures used to protect your personal information against loss or theft, unauthorized access, alteration or disclosure appropriate to its level of sensitivity. For example, if a BlackBerry website requests your name and password, it will have a variety of security measures in place that are designed to protect against the loss, misuse and unauthorized alteration of the personal information submitted to BlackBerry. Through BlackBerry's Code of Business Standards and Principles, BlackBerry employees are made aware of the importance of appropriately and securely handling personal information, to keep it in secure locations and systems, and to limit access to personal information to those with a need to know it for business reasons.
+
+In addition, certain BlackBerry systems and processes are externally certified on a regular basis (e.g. certification to _ISO/IEC 27001:2005 Information Security Management System_ standard).
+
+**a) Your obligations to safeguard your personal information**
+
+You also have an obligation to safeguard your personal information. You can reduce risk of unauthorized access to your personal information by using common sense security practices. For example, you are responsible for utilizing appropriate security measures to control access to your device and computer system, such as creating a strong password that cannot be easily guessed by others (e.g. by including punctuation marks, numbers, capital and lowercase letters, and choosing a password of an appropriate length and which does not include your name or account name), using different passwords for different services and using up-to-date antivirus software.
+
+As noted above, in some cases, you may adjust the permissions granted to Third Party Offerings. You should periodically review these permissions including default permissions, as well as the Options or Settings menu on your device, in order to learn more about its security and available controls.
+
+If you return, sell, discard, or transfer your device or other BlackBerry product to another person or entity (such as providing your device to BlackBerry or another entity for repair, refurbishment or replacement), you should ensure that the device and any associated accessories and peripherals are removed or securely wiped of any personal information or other sensitive data they might contain (e.g. SIM cards, microSD cards). You should also disassociate your device from all email accounts and other data services so that email and data are no longer directed to the device (e.g. push services, emails delivered through the BlackBerry Internet Service, remote backup). Otherwise, your personal information may be available to a subsequent user of the device, and you may incur subscription and network data charges. You may learn more about how to take steps to protect yourself through the Options or Settings menu on your device, searching support articles online at [www.blackberry.com](http://www.blackberry.com/), or by contacting your airtime service provider.
+
+top
+
+####  8\. BlackBerry's ongoing efforts to be transparent 
+
+BlackBerry continues to make available information to help our users better understand BlackBerry's processing of personal information and how to exercise choices regarding the use of your personal information through various channels including this Privacy Policy, applicable Notices and additional information that may be made available from time to time on various BlackBerry websites or on your device.
+
+top
+
+####  9\. You can access your personal information 
+
+Upon written request, BlackBerry will inform you whether or not it holds personal information about you and provide you with access to your information within a reasonable timeframe and at minimal or no cost in accordance with applicable laws. If you identify an inaccuracy or incompleteness in your personal information, BlackBerry will amend your information and notify any third parties as required by applicable laws.
+
+In certain situations and depending on applicable laws, BlackBerry may not be able to provide access to all of the personal information that it holds about you. For example, BlackBerry may not provide access to information if doing so:
+
+  * would likely reveal personal information about a third party;
+  * could reasonably be expected to threaten the life or security of another individual;
+  * would reveal BlackBerry or third party confidential information;
+  * includes information that is protected by solicitor or attorney client privilege; or
+  * includes information that was processed in relation to the investigation of a breach of an agreement or a contravention of a law.
+
+
+
+In order to safeguard your personal information from unauthorized access, BlackBerry may ask that you provide sufficient information to identify yourself prior to providing access to your personal information.
+
+Depending on the circumstances and applicable laws, BlackBerry may refuse to process certain access requests (e.g. access requests that are unreasonably repetitive or systematic, would be extremely impractical or require disproportionate technical effort).
+
+top
+
+####  10\. Questions or concerns? How to contact us 
+
+BlackBerry welcomes your questions or comments regarding this Privacy Policy and the way we process your personal information. If you have any questions, concerns or wish to request access to your personal information pursuant to applicable privacy or data protection laws, please contact BlackBerry either by email or in writing and we will use commercially reasonable efforts to respond:
+
+  * by email:[ privacyoffice@blackberry.com](mailto:privacyoffice@blackberry.com), or
+  * write to one of the following BlackBerry offices closest to you:
+    * **_BlackBerry Privacy Office c/o BlackBerry (attention Legal Department), 2200 University Avenue East, Waterloo, Ontario, Canada N2K 0A7_**
+    * **_BlackBerry Privacy Office c/o BlackBerry (attention Legal Department), 200 Bath Road, Slough, Berkshire, United Kingdom SL1 3XE_**
+    * **_BlackBerry Privacy Office c/o BlackBerry (attention Legal Department), 1 International Business Park, The Synergy Building, 2nd Floor, Singapore 609917_**
+
+
+
+**a) Managing your preferences**
+
+Generally, you may withdraw at any time your consent for BlackBerry to process your personal information in accordance with this Privacy Policy, subject to legal or contractual restrictions and reasonable notice. For example, although you can use BlackBerry Offerings for some purposes without providing us with any personal information, BlackBerry may need to process personal information for some services, including those that require payment or involve an ongoing relationship such as registration or subscription services. As such, BlackBerry may continue to use your personal information as may be required to provide you with requested services, and to the extent that BlackBerry is contractually obligated to do so or as necessary to enforce any contractual obligations you may have with BlackBerry. If you refuse to provide BlackBerry with the information it requires or later contact us in writing at one of the addresses above to withdraw your consent to use and disclose this information, BlackBerry may no longer be able to provide you with your BlackBerry Offerings.
+
+**Marketing or commercial communications:** You may unsubscribe from receiving marketing or commercial communications about BlackBerry or BlackBerry® products, services and software by:
+
+  * clicking the unsubscribe link at the end of any marketing or commercial communication from BlackBerry;
+  * by indicating your preference at <http://www.blackberry.com/unsubscribe>; or
+  * by writing to **_BlackBerry Privacy Office c/o BlackBerry (attention Legal Department), 2200 University Avenue East, Waterloo, Ontario, Canada, N2K 0A7_** and advising what particular types of marketing or commercial communications you no longer wish to receive.
+
+
+
+**Cookies:** As noted above, you may also opt-out of BlackBerry's use of Cookies through one of the following methods:
+
+  * Change your browser settings to refuse Cookies or to indicate when a Cookie is being sent.
+  * Remove or block browser Cookies using the settings in your browser, but that may impact your ability to use certain BlackBerry Offerings as they may not work well or at all with Cookies disabled.
+  * Opt-out directly from certain **_performance_** Cookies at <http://metrics.blackberry.com/optout.html>.
+
+
+
+**b) Changes to this Privacy Policy**
+
+BlackBerry will occasionally update this Privacy Policy so that it remains relevant and current with changing technologies, applicable laws, our evolving business practices and the needs of our users. BlackBerry encourages you to periodically review this Privacy Policy to stay informed of how BlackBerry manages your personal information. If any changes are made to this Privacy Policy, BlackBerry will revise the "Last Updated" date that is indicated on the Privacy Policy.
+
+If material changes are made that impact you, we will notify users by placing a prominent notice at [www.blackberry.com/legal](https://web.archive.org/legal.html). Depending on the circumstances, we may also decide to send users a notice electronically. If you continue to use your BlackBerry Offerings after notice of the change has been given, you will be deemed to have accepted such changes.
+
+Last Updated 2014-09
+
+top
