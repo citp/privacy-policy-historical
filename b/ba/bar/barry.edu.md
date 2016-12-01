@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barry.edu privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624005434id_/http%3A//www.barry.edu/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barry.edu privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201214518id_/http%3A//www.barry.edu/main/privacy.html) for the most accurate reproduction.*
 
 # Website Privacy Policy : Barry University, Miami Shores, Florida
 
@@ -33,3 +33,5 @@ You can unsubscribe from future emails from Barry University by visiting [http:/
 ## Security
 
 Barry University operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.
+
+[Text Message Disclaimer](https://web.archive.org/main/text-message-disclaimer.html)
