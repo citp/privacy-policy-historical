@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovemyfire.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629231546id_/http%3A//www.lovemyfire.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovemyfire.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201020708id_/http%3A//www.lovemyfire.com/privacy-policy.html) for the most accurate reproduction.*
 
 # LoveMyFire.com Privacy Policy
 
@@ -24,13 +24,13 @@ LoveMyFire.com uses cookies (small file placed on your computer to identify your
 
 LoveMyFire.com uses advertisements to support this site. These third-party advertising companies serve ads when you visit our website. These companies may use information (NOT including your name, address, email address, or telephone number) about your visits to this and other websites, in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit: <http://www.networkadvertising.org/>
 
-Google, as a third party vendor, uses cookies to serve ads on this website: LoveMyFire.com. Google's use of the "DoubleClick DART cookie" enables it to serve ads to our users based on their visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy](http://www.google.com/policies/privacy/ads/).
+Google, as a third party vendor, uses cookies to serve ads on this website: LoveMyFire.com. Google's use of the "DoubleClick DART cookie" enables it to serve ads to our users based on their visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy](https://www.google.com/policies/privacy/).
 
 For other cookies, you can choose to disable or selectively turn off these cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with this site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
  **Google Search Box**
 
-The search box on this web site ("Search Box") is powered by Google Inc ("Google"). You acknowledge and agree that [Google's privacy policy](http://www.google.com/policies/privacy/ads/) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy.
+The search box on this web site ("Search Box") is powered by Google Inc ("Google"). You acknowledge and agree that [Google's privacy policy](https://www.google.com/policies/privacy/) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy.
 
  **Protection of Your Information**
 
