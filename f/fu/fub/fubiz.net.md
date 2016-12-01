@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fubiz.net privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625234539id_/http%3A//www.fubiz.net/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fubiz.net privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201013840id_/http%3A//www.fubiz.net/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice – Fubiz Media
 
