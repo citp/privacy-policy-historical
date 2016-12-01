@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plr.me privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625133709id_/http%3A//www.plr.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plr.me privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201202157id_/http%3A//www.plr.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
