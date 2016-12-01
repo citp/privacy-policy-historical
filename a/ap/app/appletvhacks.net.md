@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the appletvhacks.net privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610211027id_/http%3A//www.appletvhacks.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appletvhacks.net privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201171013id_/http%3A//www.appletvhacks.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Apple TV Hacks
 
 **Privacy Policy** ****
 
-This privacy statement covers all websites of [Dreamattic S.A.](http://www.dreamattic.com/) (“Dreamattic”).
+This privacy statement covers all websites of[Dreamattic S.A.](http://www.dreamattic.com/) (“Dreamattic”).
 
 At Dreamattic, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit websites and services (“Services”) published by Dreamattic and how we safeguard your information. Please read this statement carefully before proceeding to access our **** sites. **By using the Services you agree to the terms of this Privacy Policy.**
 
-**We never sell your personal information to third parties.**
+ **We never sell your personal information to third parties.**
 
-**Information we collect** ****
+ **Information we collect** ****
 
 Dreamattic is the sole owner of the information collected on its websites. Dreamattic may collect information from our users at several different points:
 
-  * **Log Files**
+  *  **Log Files**
 
 
 
@@ -22,7 +22,7 @@ As with most other websites, we collect and use the data contained in log files.
 
 Dreamattic’s purpose in collecting non-personally identifying information is to better understand how our visitors use the website.
 
-  * **Cookies**
+  *  **Cookies**
 
 
 
@@ -32,7 +32,7 @@ We may use both session ID cookies and persistent cookies. For the session ID co
 
 By setting a cookie on one of Dreamattic sites, users will not have to log in a password more than once, thereby saving time while logging to services or programs. We store a cookie on each user’s machine that contains a username and encrypted password. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-  * **Comments**
+  *  **Comments**
 
 
 
@@ -44,37 +44,37 @@ Dreamattic allows readers to post comments to our online content. Under the Digi
 
 Dreamattic sites contain links to other sites. Please be aware that Dreamattic is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Dreamattic.
 
-  * **Third Party Advertising** **and Cookies** ****
+  *  **Third Party Advertising** **and Cookies** ****
 
 
 
 Some of our third party advertising partners may distribute cookies to users in advertisements that are provided to us. Dreamattic has no access to or control over these cookies once we have given permission for them to set cookies for advertising. These advertisers may be engaging in online behavioral advertising as defined by the Digital Advertising Alliance and FTC. This privacy statement covers the use of cookies by Dreamattic and does not cover the use of cookies by any advertisers.
 
-  * **Mailing List**
+  *  **Mailing List**
 
 
 
 Dreamattic may launch a mailing list for some or all of its sites. In order to sign up to receive regular emails from a site’s mailing list, users must submit information including a valid email address and demographic information such as location and interests. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular emails from the site, including new articles added to the site as well as emails from third party site sponsors. If you do not wish to receive emails from third party advertisers, do not sign up for the mailing list.
 
-  * **Business Transitions**
+  *  **Business Transitions**
 
 
 
 In the event Dreamattic goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
 
-  * **Legal Disclaimer**
+  *  **Legal Disclaimer**
 
 
 
 Though we make every effort to preserve user privacy, Dreamattic may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on any of our sites.
 
-  * **Notification of Changes**
+  *  **Notification of Changes**
 
 
 
 Whenever Dreamattic changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-  * **Contact Information**
+  *  **Contact Information**
 
 
 
