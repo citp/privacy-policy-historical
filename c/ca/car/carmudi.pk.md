@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carmudi.pk privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618095514id_/http%3A//www.carmudi.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carmudi.pk privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201062312id_/http%3A//www.carmudi.pk/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY Carmudi Pakistan
 
