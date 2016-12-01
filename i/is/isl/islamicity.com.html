@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the islamicity.com privacy policy that was archived on 2016-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611223531id_/http%3A//www.islamicity.com/support/PrivacyPolicy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the islamicity.com privacy policy that was archived on 2016-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161201185937id_/http%3A//www.islamicity.com/support/PrivacyPolicy.shtml) for the most accurate reproduction.-->
 
 <html><head>
 <title>IslamiCity.com - Privacy Policy</title>
@@ -12,643 +12,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td> 
-	<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-
-	<script type="text/javascript">
-
-	function autoclose()
-
-
-	{
-
-			//alert('autoclose() started running!');
-			//alert(autoCloseCount);
-			//autoCloseCount = autoCloseCount + 1
-			//if (window.document.frm2.arrow_clicked.value == 1)
-			if (0)
-			{
-				//alert('skip autoclose 1');
-				//uncomment this line if you want to prevent the auto drop down - this is step 2 of 2 - see point 43234243
-				//return false;
-			}
-			else
-			{
-
-
-				//if ( window.document.frm1x.user_typing.value == 'x' )
-				if ( 0 )
-				{
-					alert('skip autoclose 2');
-					return false;
-				}
-				//alert('ok');
-				$("#panel").slideToggle("slow");
-				$(this).toggleClass("active");
-				changeImage();
-				return false;
-			}
-	}
-
-	$(document).ready(function(){
-
-			$(".btn-slide").click(function(){
-				$("#panel").slideToggle("slow");
-				$(this).toggleClass("active"); return false;
-			});
-
-
-		
-
-			//comment this line if you want to prevent the auto drop down - this is step 1 of 2 - see point 43234243
-			$("#panel").slideToggle("slow");
-			$(this).toggleClass("active");
-
-			drop_down_timer = window.setTimeout('autoclose()', 13000);
-
-		
-
-	});
-
-	</script>
-
-	
-
-
-	<script>
-
-	
-		var imageURL = "/asp/currentdrive/images/down_expand.png?up";
-	
-
-	if (document.images) {
-		 var clock = new Image();
-		 clock.src = "/asp/currentdrive/images/down_expand.png?up";
-
-		 var cup = new Image();
-		 cup.src = "/asp/currentdrive/images/down_expand.png?down";
-	}
-
-	function changeImage() {
-		 if (document.images) {
-			  if (imageURL == "/asp/currentdrive/images/down_expand.png?down") imageURL = "/asp/currentdrive/images/down_expand.png?up";
-			  else imageURL = "/asp/currentdrive/images/down_expand.png?down";
-
-			 document.myImage.src = imageURL;
-		 }
-	}
-
-	</script>
-<script language="JavaScript" src="/global/scripts/popUp1.js" type="text/javascript"></script>
-	<style type="text/css">
-
-
-body
-	{	margin: 0 auto;	padding: 0;}
-
-a:focus
-	{	outline: none;}
-
-.slide
-	{	margin: 0;	padding: 0;	font-size: 10pt;}
-
-.active
-	{	background-position: right 12px;}
-
-
-
-</style>
-
-
-
-
-<div style="background-color:EE9E8ED;" id="panel"><!-- expanding put content here -->
-
-	<form name="frm1"><input type="hidden" value="0" name="arrow_clicked"></form>
-
-	<center>
-
-	<!-- Script for Donation sumbit form -->
-<style>
-
-</style>
-	<script>
-		function SetDonation()
-		{
-
-
-			var Amount;
-			var minAmountweCanProcess;
-			var QS;
-			var window_properties;
-
-			// set defaults ...........................................................
-
-			minAmountweCanProcess = 5;
-			window_properties = "width=820,height=700,scrollbars=1,status=1,resizable=1";
-
-			// get user input .........................................................
-
-			//alert(window.document.frm100);
-			Amount 			= window.document.frm100.hAmount.value;
-			//alert(Amount);
-			//validations
-
-			// Check to see if an amount is available .................................
-
-			if ( Amount == "" )
-			{
-				alert('Please select or enter a donation amount.');
-				return false;
-			}
-			else
-			{
-				// Amount is available................................................
-				// Check to see if it is numeric.
-
-				if (!IsNumeric(Amount) )
-				{
-					alert('Please enter a valid donation amount.\n\nPlease use only numbers and a dot. \n\nEx: 10.00\n25.00' + 'The dollar amount you have currently entered is ' + '"' + Amount + '"');
-					return false;
-				}
-				else
-				{
-
-					// Amount is available and it's numeric...........................
-					// Check to see if it is less than the min. amount we can take.
-
-					if ( Amount <= minAmountweCanProcess )
-					{
-						alert('Unfortunately, we cannot process donations when it\'s less than $' + minAmountweCanProcess + '.00\n\nWe are sorry for the inconvenience this may have caused.');
-						return false;
-					}
-
-				}
-
-
-			}
-
-
-			answer = confirm('Dear donor,\nPlease confirm the following;\n\nYour Donation Amount: $' + Amount + '\n\nIf this information is correct, please select [OK] to continue,\notherwise please select [CANCEL]');
-
-			if (answer)
-
-			{
-				// build the proper QueryString and ba'den pop the secure donation window
-
-
-
-
-				QS= "https://www.islamicity.com/donation/donationForm.asp?fullwindow=1&Type=2&SuggestedAmount="+Amount
-
-				//var donationwindow = window.open (QS,'',window_properties);
-
-				top.location.href= QS
-			}
-
-		}
-
-
-		function IsNumeric(input)
-		{
-			return (input - 0) == input && input.length > 0;
-		}
-
-
-	</script>
-
-<!-- end donation form submit script -->
-
-
-
-	<style>
-		#panel
-			{	background-image:url('http://www.islamicity.com/asp/currentdrive/design1/images/TopBackground.jpg');	height:160px;	display: none;}
-
-		.bottom_table
-			{background-image:url('http://www.islamicity.com/asp/currentdrive/design1/images/BottomBackground.jpg');}
-
-	</style>
-	<!--<table id="Table_01" width='889' height="160" border="0"  cellpadding="0" cellspacing="0">-->
-	<!--<table id="" border="0"  height="160" cellpadding="0" cellspacing="0">
-			<tr>
-				<td >-->
-
-					<!--<a href='/donation/Ramadan2015Drive/'><img border=0 width='889' height='160' src='http://www.islamicity.com/asp/currentdrive/design1/images/Top.jpg'></a>-->
-
-
-<!-- Start CSS -->
-
-
-
-	<!--[if IE 8]>
-	<style type="text/css">
-		.main {
-			height:220px;
-			cellpadding:0;
-			cellspacing:0;
-			border:0;
-			align:center;
-			}
-		.text-drive{
-			font-size:16px;
-			font-family:"Helvetica","arial","sans-serif";
-			color: #000000;
-			text-align:left;
-			line-height:24px;
-			/*text-shadow:2px 2px #fff;*/
-			font-weight:bold;
-			}
-		.text{
-			font-size:14;
-			font-family:"Helvetica","arial","sans-serif";
-			color: #000000;
-			text-align:left;
-			line-height:18px;
-			/*text-shadow:1px 1px #fff;*/
-			font-weight:normal;
-			padding-right:24px;
-			margin-right:250px;
-			}
-		.frm-right {
-				position:absolute;
-				display:block;
-				top:22px;
-				height:48px;
-				right:0px;
-				float:right;
-			}
-			.frm-right > form {
-				display:block;
-			}
-			.frm-right {
-				display:block;
-				margin:0 auto;
-				text-align:left;
-				width:auto;
-			}
-			.paypal {
-				position:absolute;
-				float:right;
-				display:flex;
-				margin:0 auto;
-				top:80px;
-				right:19px;
-			}
-	</style>
-	<![endif]-->
-
-<style type="text/css">
-
-	.main {
-		height:220px;
-		cellpadding:0;
-		cellspacing:0;
-		border:0;
-		text-align:left;
-		position:absolute;
-		float:left;
-	}
-
-	.dropdown-container {
-		display:block;
-		margin:0px;
-		padding:20px;
-		border:0;
-		text-align:left;
-		min-height:120px;
-		position:absolete;
-		top:-10px;
-	}
-
-	.text-drive{
-		font-size:19px;
-		font-family:"Helvetica","arial","sans-serif";
-		color: #000000;
-		text-align:left;
-		line-height:24px;
-		/*text-shadow:2px 2px #fff;*/
-		font-weight:bold;
-	}
-	.text{
-		font-size:16;
-		font-family:"Helvetica","arial","sans-serif";
-		color: #000000;
-		text-align:left;
-		line-height:18px;
-		/*text-shadow:1px 1px #fff;*/
-		font-weight:normal;
-		padding-right:24px;
-	}
-	.donateamount{
-		font-size:11;
-		font-family:"Helvetica","arial","sans-serif";
-		color: #000000;
-		/*text-shadow:1px 1px #fff;*/
-		font-weight:bold;
-	}
-	.text-lm{
-		font-size:14.5;
-		font-family:"Helvetica","arial","sans-serif";
-		color: #000000;
-		line-height:34px;
-		/*text-shadow:1px 1px #fff;*/
-		font-weight:bold;
-	}
-	.form{
-		padding:0px;
-		margin:0px;
-		line-height:0px;
-		border:0px;
-		white-space:nowrap;
-	}
-	.donatebutton {
-		position:relative;
-	}
-
-	/* Large desktop */
-
-	@media (min-width: 979px) {
-
-	.frm-left {
-		display:inline-block;
-		max-width:70%;
-		float:left;
-	}
-	.frm-right {
-		display:inline-block;
-		max-width:30%;
-		max-height:100px;
-	}
-	.paypal {
-		position:relative;
-		float:right;
-		display:flex;
-		margin:0 auto;
-		top:-43px;
-		right:15px;
-	}
-
-	}
-
-/* Portrait tablet to landscape and desktop */
-
-	@media (min-width: 768px) and (max-width: 979px) {
-
-	.frm-left {
-		display:inline-block;
-		max-width:66%;
-		float:left;
-	}
-	.frm-right {
-		display:inline-block;
-		max-width:33%;
-		max-height:100px;
-	}
-	.paypal {
-		position:relative;
-		float:right;
-		display:flex;
-		margin:0 auto;
-		top:-43px;
-		right:5px;
-	}
-
-	}
-
-/* Landscape phone to portrait tablet */
-
-	@media (max-width: 767px) {
-
-	.frm-left {
-		display:inline-block;
-	}
-	.frm-right {
-		position:relative;
-		display:block;
-		width:100%;
-	}
-	.frm-right > form {
-		display:none;
-	}
-	.frm-right {
-		display:block;
-		margin:0 auto;
-		text-align:center;
-		width:auto;
-	}
-	.paypal {
-		position:absolute;
-		display:block;
-		margin:0 auto;
-		text-align:center;
-		width:100px;
-		top:-29px;
-		left:95px;
-	}
-	.text-drive{
-		overflow:hidden;
-		white-space:nowrap;
-		visibility:hidden;
-		height:1px;
-}
-	}
-
-	/* Landscape phones and down */
-	@media (max-width: 480px) {
-
-	.html {
-		-webkit-text-size-adjust : none;
-		text-size-adjust		:none;
-		}
-
-		.text-lm{
-		line-height:34px;
-	}
-	.paypal {
-		position:absolute;
-		display:block;
-		margin:0 auto;
-		width:100px;
-		top:-37px;
-		left:85px;
-	}
-	.paypal-img {
-		height:19px;
-		width:64px;
-	}
-	.text-drive{
-		overflow:hidden;
-		white-space:nowrap;
-		visibility:hidden;
-		height:1px;
-}
-	.frm-left {
-		display:inline-block;
-		width:290PX;
-	}
-
-</style>
-
-<!-- end CSS -->
-
-
-
-
-<!-- expanding put content here -->
-<!-- Start of DROPDOWN inner content -->
-<div class="dropdown-container" style="background-color:#FBFBFB;margin:-10px !important;">
-
-	<div class="frm-left">
-		<div class="text-drive">
-			HELP SHARE THE ISLAMIC MESSAGE OF PEACE!
-			<!--HELP SHARE THE ISLAMIC MESSAGE OF PEACE WITH THE WORLD!
-			HELP THE WORLD UNDERSTAND THE ISLAMIC MESSAGE OF PEACE!-->
-		</div>
-
-			<div class="text">
-				DEAR ISLAMICITY VISITOR, Since 1995, more than 220 million visitors have accessed the Quran, Hadith, articles, videos and more! We are supported only by visitors like you. Your donation today will help sustain our non-profit effort throughout the year.
-			</div>
-			<div class="text-lm">
-				<a target="_top" href="http://www.islamicity.com/donation/Ramadan2016Drive/" style="text-decoration:none; color: #0a8cd8;align: left; ">Learn More
-				</a>
-					<br>
-			</div>
-	</div>
-<!--FORM STARTS HERE-->
-	<div class="frm-right">
-		<form class="form" name="frm100" method="POST" action="" onsubmit="return false;">
-			<input type="hidden" value="" name="hAmount">
-			<p>
-				<input type="radio" value="1000" name="R1" onclick="window.document.frm100.T1.value='';window.document.frm100.hAmount.value=this.value;"><font class="donateamount"> $1000</font>
-				&nbsp;&nbsp;&nbsp;
-				<input type="radio" value="500" name="R1" onclick="window.document.frm100.T1.value='';window.document.frm100.hAmount.value=this.value;"><font class="donateamount"> $500</font>
-				&nbsp;&nbsp;&nbsp;
-				<input type="radio" value="100" name="R1" onclick="window.document.frm100.T1.value='';window.document.frm100.hAmount.value=this.value;"><font class="donateamount"> $100</font>
-				&nbsp;&nbsp;&nbsp;
-				<input type="radio" value="50" name="R1" onclick="window.document.frm100.T1.value='';window.document.frm100.hAmount.value=this.value;"><font class="donateamount"> $50</font>
-			</p><p>
-				<input type="radio" value="V5" name="R1" onclick="window.document.frm100.hAmount.value='';"><font class="donateamount"> Other</font>
-				<input type="text" name="T1" size="8" onchange="window.document.frm100.hAmount.value=this.value;">
-				<font class="donateamount"> $USD</font>
-				<font class="donateamount" style="color:orange;">&nbsp;&nbsp;&nbsp;&nbsp;Ex: 10.00</font>
-			</p>
-			<p>
-				<input class="btn btn-success donatebutton" type="button" value="Donate Now »" name="B1" onclick="SetDonation();">
-			</p>
-		</form>
-<!--FORM ENDS HERE-->
-
-			<a class="paypal" target="_top" href="http://www.islamicity.com/donate/PaypalCodeCombine2.asp"><img class="paypal-img" border="0" src="https://www.islamicity.com/global/images/photo/Banners/DonatePaypal44a__118x27.JPG">
-			</a>
-
-	</div>
-</div>
-<!-- end of DROPDOWN innner content -->
-
-<!--
-				</td>
-		</tr>
-</table>
--->
-
-
-
-
-
-	</center>
-
-</div>
-
-
-
-
-
-			<table width="100%" class="bottom_table" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td>
-					<a href="http://www.islamiCity.com"><img src="http://www.islamicity.com/asp/currentDrive/Design1/images/IslamiCityLogo.png" border="0"></a>
-					</td>
-
-					<td width="100%" valign="top">
-						<center>
-
-
-							<!--
-<a href='#' class='btn-slide' ><img   src='/asp/currentdrive/designMessage_geo_2_US/images/TabUpBown.png' border=0></a><br>
-<iframe style='display:inline;' src='http://www.islamicity.com/asp/tempdev/currentdrive/lastdonations.htm' width='150' height='25' scrolling="no" frameBorder="0"></iframe>
--->
-
-
-<!--<a href='#' class='btn-slide' ><img   src='/asp/currentdrive/designMessage_geo_2_US/images/TabUpBown.png' border=0></a><br>-->
-
-
-
-<table id="Table_01" width="566" height="52" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td rowspan="5" width="106" height="51" background="/asp/currentdrive/images/BottomPart_011.png?ddsds" align="right"></td>
-		<td colspan="7"><img src="/asp/currentdrive/images/BottomPart_02.jpg" width="399" height="2" alt=""></td>
-		<td rowspan="5"><a href="#" class="btn-slide"><img border="0" name="myImage" onclick="window.document.frm1.arrow_clicked.value=1;changeImage();" src="/asp/currentdrive/images/down_expand.png?up" width="61" height="51" alt=""></a></td>
-	</tr>
-	<tr bgcolor="white"><td colspan="2" rowspan="3"><img src="/asp/currentdrive/images/BottomPart_04.jpg" width="8" height="34" alt=""></td>
-		<td rowspan="3"><iframe frameborder="0" scrolling="no" src="/asp/currentdrive/images/progress.asp?force_money=" width="302" height="34" alt=""></iframe></td>
-		<td colspan="4"><img src="/asp/currentdrive/images/BottomPart_06.jpg" width="89" height="3" alt=""></td>
-	</tr>
-	<tr>
-		<td rowspan="2" bgcolor="WHITE"><img src="/asp/currentdrive/images/BottomPart_07.jpg" width="6" height="31" alt=""></td>
-		<td colspan="2" bgcolor="WHITE"><a href="http://www.islamicity.com/donation/Ramadan2016Drive/" target="_top"><img border="0" src="/asp/currentdrive/images/BottomPart_08.jpg" width="70" height="30" alt=""></a></td>
-		<td rowspan="3" bgcolor="WHITE"><img src="/asp/currentdrive/images/BottomPart_09.jpg" width="13" height="46" alt=""></td>
-	</tr>
-	<tr>
-		<td colspan="2"><img src="/asp/currentdrive/images/BottomPart_10.jpg" width="70" height="1" alt=""></td>
-	</tr>
-	<tr>
-		<td bgcolor="white"><img src="/asp/currentdrive/images/BottomPart_11.jpg" width="4" height="15" alt=""></td>
-		<td bgcolor="white" colspan="4">
-		<!--<img src="/asp/currentdrive/images/BottomPart_12.gif" width="314" height="15" alt="">-->
-		<style>
-		.progresstable
-		{
-			font-size:10px;
-		}
-		</style>
-		<table background="/asp/currentdrive/images/BottomPart_12.gif" cellspacing="0" cellpadding="0" width="314" height="15" class="progresstable">
-			<tbody><tr>
-				<td width="20%" align="right"><font color="black">$35K</font></td>
-				<td width="20%" align="right"><font color="black">$70K</font></td>
-				<td width="20%" align="right"><font color="black">$105K</font></td>
-				<td width="20%" align="right"><font color="black">$140K</font></td>
-				<td width="20%" align="right"><font color="black">$175K</font></td>
-			</tr>
-		</tbody></table>
-		</td>
-		<td bgcolor="white"><img src="/asp/currentdrive/images/BottomPart_13.jpg" width="68" height="15" alt=""></td>
-	</tr>
-	<tr>
-		<td><img src="/asp/currentdrive/images/spacer.gif" width="106" height="1" alt=""></td>
-		<td><img src="/asp/currentdrive/images/spacer.gif" width="4" height="1" alt=""></td>
-		<td><img src="/asp/currentdrive/images/spacer.gif" width="4" height="1" alt=""></td>
-		<td><img src="/asp/currentdrive/images/spacer.gif" width="302" height="1" alt=""></td>
-		<td><img src="/asp/currentdrive/images/spacer.gif" width="6" height="1" alt=""></td>
-		<td><img src="/asp/currentdrive/images/spacer.gif" width="2" height="1" alt=""></td>
-		<td><img src="/asp/currentdrive/images/spacer.gif" width="68" height="1" alt=""></td>
-		<td><img src="/asp/currentdrive/images/spacer.gif" width="13" height="1" alt=""></td>
-		<td><img src="/asp/currentdrive/images/spacer.gif" width="61" height="1" alt=""></td>
-	</tr>
-</tbody></table>
-
-
-
-
-						</center>
-					</td>
-
-					<td>
-					<a href="http://www.islamiCity.com"><img src="http://www.islamicity.com/asp/currentDrive/Design1/images/Bismillaha.png" border="0"></a>
-					</td>
-				</tr>
-			</tbody></table>
-			
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
 
 <script type="text/javascript">
@@ -709,9 +73,18 @@ GA_googleAddSlot("ca-pub-8566254639019283", "IM1.0_468x60");
 GA_googleFetchAds();
 </script>
 		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		  <tbody><tr>
+			<td><!--- @@@ S T A R T SITE HEADER TABLE--->
+
+		<script language="JavaScript" src="/Global/Scripts/popUp1.js" type="text/javascript"></script><form target="formWindow" action="" name="frmP" method="POST"></form>
+		<script language="JavaScript" src="/global/scripts/InitializeHeader.js" type="text/javascript"></script>
+		<script type="text/javascript">window.document.write(sHeaderHTML)</script><table width="100%" border="0" cellspacing="0" cellpadding="0" background="/global/images/space.gif">        <tbody><tr>		<td><a href="https://web.archive.org/web/20011216185546/http://islamicity.com"><img src="/global/images/logos/istanbul_title.gif" border="0"></a><img src="/global/images/globe.gif"></td>          	<td><div align="right"><img src="/global/images/BesmeAllah.gif"></div></td>        </tr></tbody></table>
+
+			  <!--- @@@ E N D SITE HEADER TABLE---></td>
+		  </tr>
 	
 
-	  <tbody><tr>
+	  <tr>
 		<td nowrap=""><!--- @@@ S T A R T FAVORITES TABLE--->
 
 	  
@@ -736,7 +109,7 @@ GA_googleFetchAds();
 				<div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFFF" class="header">
 
 	<!--- @@@ S T A R T DATE SCRIPT--->
-	June&nbsp;11, 2016 | Ramadan&nbsp;6, 1437
+	December&nbsp;1, 2016 | Rabi` Al-Awwal&nbsp;2, 1438
 
 				  </font></div>
 			  </td>
@@ -922,7 +295,7 @@ function Validate(){
   <tr>
     <td width="5">
     </td>
-    <td width="155" class="leftnav1" onmouseout="this.bgColor=''" onmouseover="this.bgColor='#0E00B3'"><a href="http://www.islamicity.com/mosque/pillars.shtml" class="leftnav1"><div class="leftnav1text">Pillars
+    <td width="155" class="leftnav1" onmouseout="this.bgColor=''" onmouseover="this.bgColor='#0E00B3'"><a href="http://www.islamicity.org/5550/pillars-of-faith/" class="leftnav1"><div class="leftnav1text">Pillars
             of Islam</div></a>
     </td>
   </tr>
@@ -931,7 +304,7 @@ function Validate(){
 <tr class="leftnav1row">
     <td width="5">
     </td>
-    <td width="155" class="leftnav1" onmouseout="this.bgColor=''" onmouseover="this.bgColor='#0E00B3'"><nobr><a href="http://www.islamicity.com/Ramadan/" class="leftnav1"><div class="leftnav1text"><font color="#FF9933">Ramadan
+    <td width="155" class="leftnav1" onmouseout="this.bgColor=''" onmouseover="this.bgColor='#0E00B3'"><nobr><a href="http://www.islamicity.org/topics/ramadan" class="leftnav1"><div class="leftnav1text"><font color="#FF9933">Ramadan
       Info Center</font></div></a></nobr>
     </td>
   </tr>
@@ -939,7 +312,7 @@ function Validate(){
   <tr class="leftnav1row">
     <td width="5">
     </td>
-    <td width="155" class="leftnav1" onmouseout="this.bgColor=''" onmouseover="this.bgColor='#0E00B3'"><nobr><a href="http://www.islamicity.com/mosque/hajj/" class="leftnav1"><div class="leftnav1text"><font color="#FF9933">Hajj
+    <td width="155" class="leftnav1" onmouseout="this.bgColor=''" onmouseover="this.bgColor='#0E00B3'"><nobr><a href="http://www.islamicity.org/topics/hajj" class="leftnav1"><div class="leftnav1text"><font color="#FF9933">Hajj
         Info Center</font></div></a></nobr>
 
     </td>
@@ -966,7 +339,7 @@ function Validate(){
     <td class="leftnav1" width="5">
     </td>
     <td width="155" class="leftnav1" onmouseout="this.bgColor=''" onmouseover="this.bgColor='#0E00B3'"><nobr>
-            <a href="http://www.islamicity.com/PrayerTimes/" class="leftnav1"><div class="leftnav1text">Prayer Times</div></a>
+            <a href="http://www.islamicity.org/PrayerTimes/" class="leftnav1"><div class="leftnav1text">Prayer Times</div></a>
             </nobr>
     </td>
   </tr>
@@ -980,7 +353,7 @@ function Validate(){
   <tr class="leftnav1row">
     <td width="5">
     </td>
-    <td width="155" class="leftnav1" onmouseout="this.bgColor=''" onmouseover="this.bgColor='#0E00B3'"><nobr><a href="http://www.islamicity.com/QuranSearch/" class="leftnav1" title="Comprehensive Quran Search"><div class="leftnav1text">Quran
+    <td width="155" class="leftnav1" onmouseout="this.bgColor=''" onmouseover="this.bgColor='#0E00B3'"><nobr><a href="http://www.islamicity.org/QuranSearch/" class="leftnav1" title="Comprehensive Quran Search"><div class="leftnav1text">Quran
       Search
                   </div></a>
                   </nobr>
@@ -1193,7 +566,7 @@ recitation and memorization of the Holy Quran"><div class="leftnav1text">Quran M
   <tr class="leftnav1row">
     <td width="5">
     </td>
-    <td width="155" class="leftnav1" onmouseout="this.bgColor=''" onmouseover="this.bgColor='#0E00B3'"><a href="http://www.islamicity.com/communications/chat/" class="leftnav1"><div class="leftnav1text">Discussion
+    <td width="155" class="leftnav1" onmouseout="this.bgColor=''" onmouseover="this.bgColor='#0E00B3'"><a href="http://www.islamicity.org/forum/" class="leftnav1"><div class="leftnav1text">Discussion
       Forums</div></a></td>
   </tr>
 
@@ -1353,7 +726,7 @@ recitation and memorization of the Holy Quran"><div class="leftnav1text">Quran M
 <tr class="leftnav1row">
     <td width="5">
     </td>
-    <td width="155" class="leftnav1" onmouseout="this.bgColor=''" onmouseover="this.bgColor='#0E00B3'"><nobr><a href="http://www.islamicity.com/Ramadan/" class="leftnav1"><div class="leftnav1text">Ramadan
+    <td width="155" class="leftnav1" onmouseout="this.bgColor=''" onmouseover="this.bgColor='#0E00B3'"><nobr><a href="http://www.islamicity.org/topics/ramadan/" class="leftnav1"><div class="leftnav1text">Ramadan
       Info Center</div></a></nobr>
     </td>
   </tr>
@@ -1362,7 +735,7 @@ recitation and memorization of the Holy Quran"><div class="leftnav1text">Quran M
   <tr class="leftnav1row">
     <td width="5">
     </td>
-    <td width="155" class="leftnav1" onmouseout="this.bgColor=''" onmouseover="this.bgColor='#0E00B3'"><nobr><a href="http://www.islamicity.com/mosque/hajj/" class="leftnav1"><div class="leftnav1text">Hajj
+    <td width="155" class="leftnav1" onmouseout="this.bgColor=''" onmouseover="this.bgColor='#0E00B3'"><nobr><a href="http://www.islamicity.org/topics/hajj/" class="leftnav1"><div class="leftnav1text">Hajj
         Info Center</div></a></nobr>
 
     </td>
