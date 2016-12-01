@@ -1,96 +1,65 @@
-> *The following text is extracted and transformed from the shortlist.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604103656id_/http%3A//www.shortlist.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shortlist.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201091217id_/http%3A//www.shortlist.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ShortList Magazine
 
-### **What Information We Collect**
+**The purpose of this statement is to explain to you what personal information we collect and how we may use it.**
 
-You will be required to register with us to use certain features on the website and/or to receive the email service (together referred to as the Services). When you register, we will collect personal information about you (such as your name, age, gender, email address, and home and work postcodes). This data allows us to provide a personalised service to you. By registering, you agree to us accessing and collecting such personal information about you. We will create an account for your use of the Services based on the information you give (an Account). We may also ask that you provide other information to us for your Account. You are under no obligation to provide any such information. However, if you choose to withhold requested information, we may not be able to provide you with the Services.
+**1.          About Us**
 
-Please remember that you are responsible for keeping your Services password confidential, and you are responsible for all activities that occur on your Account whether or not authorised by you. Please notify us immediately of any unauthorised use of your password or Account or any other breach of security. We cannot be liable for any loss or damage which results from the disclosure of your password contrary to these Terms.
+**This website (http://www.Shortlist.com/) is owned and operated by Shortlist Media Ltd, a company registered in England no. 06246263, having its registered offices at Jubilee House, 92 Lincoln Road, Peterborough, PE1 2SN.**
 
-### **How We Store and Process Your Information**
+**Shortlist Media Ltd is committed to protecting your privacy and maintaining the security of any personal information received from you. We strictly adhere to the requirements of the data protection legislation in the UK and we are registered on the Data Protection Public Register number Z2425006.**
 
-For technical, analytic and processing reasons only, information we collect may be transferred to, stored and processed by our service providers or other reputable third party organisations, some of which may be situated outside the European Economic Area "EEA". In addition, if you use our Services while you are outside the EEA, your information may be transferred outside the EEA in order to provide you with those Services. None of these third parties will have any right to use the information other than to provide technical, analytic or data processing services for us in accordance with this Privacy Policy. By using the Services, you agree to the collection, transfer, storage or processing of information about you for these purposes.
+**2.          Information we collect about You**
 
-### **How Your Information Is Used**
+**When you register on our website we may collect your name, address, email address, date of birth, postcode and telephone number. This allows us to process your registration.**
 
-We will use the information you provide to us in one or more of the following ways only:
+**We do not collect sensitive information about you except when you specifically knowingly provide it and have consented to this.**
 
-  * to monitor, develop and improve the Services and your use of the Services;
-  * to assist in and administer the provision of Services to you (i.e. to despatch emails to you, or to provide you with password reminders, or notify you that a particular service has been suspended for maintenance);
-  * to process and deal with any complaints or enquiries made about or by you;
-  * to contact you about a submission you have made to the Services; and/or
-  * to understand customer trends and patterns.
+**3.          What we do with your Information**
 
+**We use your personal information to update you about new products/services by post and email. We will only contact you with your consent.   You are entitled to withhold this consent and opt out from receiving such communications at any time by selecting the appropriate box on the web form that collects your details. You can also update these options by contacting us by email at privacy@Shortlist.com or by post to Chief Information Security Officer, Shortlist Media Ltd., 26-34 Emerald Street, London, WC1N 3QA. We will always provide you with a way of opting out of receiving future marketing messages from us, each time we send them to you.**
 
+**4.          Sharing your Information with Third Parties**
 
-### **When We May Contact You**
+**We may from time to time provide your personal information to third parties for the purposes of providing you with our services. These third party providers include payment processors, providers of card validation services, credit referencing providers and service providers who assist us with hosting our marketing campaigns. They do not decide what is done with your data and only process it on our behalf. These third parties may be located outside the European Economic Area; however we only use providers that provide adequate protection for your information at all times.**
 
-We may contact you:
+**We will not for provide your data to other third parties for marketing purposes unless you have specifically consented to this when you first provided your data to us. You are entitled to decline receiving such 3rd party communications by selecting the appropriate box on the web form that collects your details or at any subsequent time by contacting us by email at privacy@Shortlist.com or by post to Chief Information Security Officer, Shortlist Media Ltd., 26-34 Emerald Street, London, WC1N 3QA.**
 
-  * in relation to the functioning of any service you have signed up for in order to ensure that we can deliver the service to you;
-  * where you have opted to receive regular emails from us;
-  * in relation to any contribution you have made to the Services;
-  * to inform you of the results of a competition you have entered;
-  * to invite you to participate in surveys about the Services (participation is always voluntary); and/or
-  * for marketing purposes where you have specifically agreed to that contact.
+**5.          Cookies**
 
+**This website uses cookies. For more information about what cookies are, what we use them for and how you can delete them, please read our cookies policy**
 
+**(http://www.shortlist.com/cookies)**
 
-We will only ever contact you by email, using the email address that you provide to us.
+**6.          How we Protect your Information**
 
-### **Will I Be Contacted For Marketing Purposes?**
+**We follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access to, and loss, misuse or alteration of your personal information in accordance with the UK data protection legislation. These include firewalls and virus checking procedures.**
 
-If you have opted to receive one of our regular emails we will from time to time:
+**You are responsible for keeping any confidential passwords or other login or access details which you select or which we allocate to you secret. Whilst we take steps to ensure the security of your information, there is a risk that any information transmitted over the Internet and stored on a computer may be intercepted or accessed by an unauthorised party. If you think that someone has accessed your information held by us without your permission or gained unauthorised access to your login details, you must notify us at privacy@Shortlist.com.**
 
-  * send you information by email about existing and new services, products and special offers from us; and/or
-  * send you information by email about related products or services of selected third parties that may be of interest to you.
+**7.          Correcting your Information**
 
+**You are entitled under Data Protection law to require that we update your personal information to ensure it is up-to-date and accurate. In order to maintain the accuracy of the information we hold, you can update your personal details by sending us an email to privacy@Shortlist.com.**
 
+**8.          Obtaining a copy of your Information**
 
-These emails will only ever come from us, even when they refer to third party products or services. You will be able to opt out of receiving these emails but if you opt out we will have to stop sending you any sort of email.
+**You are entitled to receive a copy of the information we hold about you in exchange for payment of the required £10 fee. You can do this by contacting privacy@Shortlist.com.**
 
-### **Will We Share Your Personal Information With Anyone Else?**
+**9.          How long we hold your Data for**
 
-We guarantee that the personal information that we collect from you will never be shared with another organisation for marketing purposes unless you specifically agree to allow it. The permission will be made clear through a tick box on a competition or offer. The sponsor will be clearly named in the text next to the tick box and if the box is not ticked no data will be shared. If you do choose to tick the box the data will only be shared with the sponsor and will only be used by that sponsor for their own marketing purposes. The only case in which another organisation will have access to your information is to analyse or process it as described under the heading "How We Store and Process Your Information" above. No organisation will be allowed to use your information for its own purposes without your permission.
+**Some of the information you provide to us will be necessary to carry out repeated tasks, such as verifying your identity or payment details when signing in to use an account or providing our goods and services to you or you using an online checkout. We will keep this information for as long as you remain a registered user of any of our sites and for so long as reasonably necessary.**
 
-### **Keeping Our Records Accurate**
+**10.        Links to Third Party Websites**
 
-We aim to keep our information about you as accurate as possible, but we depend on you to update your personal information whenever necessary. You can review, change or delete the details you have supplied to us at any time by logging into your account directly or clicking on the change details link on the bottom of every email .If you have any other query relating to your information, please contact us as set out below.
+**Our website contains links to other websites belonging to third parties which are not covered by this privacy policy. If you want to click through to a third party website, please make sure that you read the privacy policy for that website.**
 
-### **Your rights**
+**11.        Updates to this Policy**
 
-You have the right to request a copy of the personal information we hold about you and to have any inaccuracies corrected. We charge £10 for information requests and we will ask you to prove your identity with two 2 pieces of approved photographic identification. We will use reasonable efforts to supply, correct or delete personal information about you on our files. Please address requests and questions about this or any other question about this Privacy Policy to The Information Protection Officer, ShortList Media Ltd, 26-34 Emerald Street, London, WC1N 3QA.
+**We may update this Policy at any time without notice. We will tell you that we have updated the policy by emailing you at the email address you have provided to us and/or by posting an announcement on the website. By continuing to use the website after we have emailed you or posted a notice informing you of an update, you accept the changes to this Policy.**
 
-### **Updates to this Privacy Policy**
+**12.        Contacting Us**
 
-We reserve the right from time to time to change or update this Privacy Policy. All changes will be published on the Services. Each change will become effective on publication and you will be deemed to be aware of and bound by it. You should therefore review this Privacy Policy regularly to ensure that you are up-to-date with the current terms of the Privacy Policy.
+**If you have any questions about privacy, or wish to update your details or have them removed from our mailing list at any time, please contact us using privacy@Shortlist.com.**
 
-### **IP Addresses, Cookies and Web Beacons**
-
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This information is limited to statistical data about our users' browsing actions and patterns, and does not identify any individual.
-
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that helps us to improve the Services and to deliver a better and more personalised service. They enable us to:
-
-  * identify who you are and to access your account information;
-  * estimate our audience size and patterns;
-  * control how often visitors see similar ads; and
-  * track preferences and to improve and update the Services.
-
-
-
-You may refuse to accept cookies by activating the setting on your Internet browser which allows you to refuse the setting of cookies. You can also delete cookies that have been installed on your hard drive – consult your software manual for further help. However, if you select the refuse setting, or delete cookies, you may be unable to access certain parts of the Services. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
-
-### **How to opt out of receiving email from us**
-
-If you no longer wish to receive emails from us simply click on the unsubscribe link included in every email. Alternatively you can send an unsubscribe request to online@shortlist.com with "Unsubscribe" specified in the subject line.
-
-### **Security**
-
-We have installed security measures to ensure that any personal data entered on the Services is protected against loss, misuse or alteration. However, due to the nature of the Internet, we cannot guarantee the protection of your personal information and we cannot be responsible for any outcomes resulting from a breach of security when the Services are used.
-
-### **Contacting Us and Cancellation of Registration**
-
-If you have any questions or comments about this Privacy Policy or would like to cancel your Account, please contact: The Information Protection Officer, ShortList Media Ltd, 26-34 Emerald Street, London, WC1N 3QA.
-
-This Privacy Policy was last updated on 7th September, 2011.
+**Privacy statement updated August  2016.**
