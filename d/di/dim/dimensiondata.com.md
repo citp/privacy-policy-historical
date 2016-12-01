@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dimensiondata.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610050207id_/http%3A//www.dimensiondata.com/global/policies/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dimensiondata.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201080248id_/http%3A//www.dimensiondata.com/global/policies/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Dimension Data Privacy Policy
 
@@ -172,4 +172,4 @@ This privacy policy was last updated on 15 March 2016.
 
 Copyright © 2016 Dimension Data Holdings plc
 
-All Rights Reserved
+All Rights Reserved..
