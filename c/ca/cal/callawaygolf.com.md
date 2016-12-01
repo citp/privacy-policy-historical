@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callawaygolf.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623160021id_/http%3A//www.callawaygolf.com/on/demandware.store/Sites-CG-Site/en_US/CustomerService-Show%3Ffid%3Dlegal%26cid%3Dlegal-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callawaygolf.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201052020id_/http%3A//www.callawaygolf.com/on/demandware.store/Sites-CG-Site/en_US/CustomerService-Show%3Ffid%3Dlegal%26cid%3Dlegal-privacy-policy) for the most accurate reproduction.*
 
 # Customer Service | Callaway
 
