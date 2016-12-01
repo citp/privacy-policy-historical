@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movixhub.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615004808id_/http%3A//www.movixhub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movixhub.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201111613id_/http%3A//wowmovix.movixhub.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy - MovixHub
 
