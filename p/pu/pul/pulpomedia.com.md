@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pulpomedia.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613005218id_/http%3A//www.pulpomedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulpomedia.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201035923id_/http%3A//www.pulpomedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pulpo Media
 
@@ -71,7 +71,7 @@ Many browsers can be modified to prevent automatic acceptance and notify you eve
 
 We employ reasonable measures to protect the security of information that we collect. Unfortunately, no transmission of information and no data storage can be guaranteed to be completely secure and unauthorized access to data, hardware or software failure, and other factors may compromise data security. As a result, while we strive to protect your PII, we cannot guarantee or warrant the security of any such information, and you provide any information at your own risk.
 
-We retain PII for as long as necessary to fulfill the delivery of advertising; administer transactions; conduct research and analysis, product development and reporting; comply with the law or legal process; protect or defend the legal rights of the Company, its employees, agents, advertisers, publishers or other contractors (including enforcement of agreements); protect against fraud or for risk management purposes; protect the rights, property or safety of the Company or the public; or as required or permitted by law or with your consent. We may retain Non-PII indefinitely.  
+In connection with our services, we generally retain PII and non-PII for marketing purposes for up to six (6) months after the interaction with the browser. We may retain PII and non-PII thereafter if doing so is required by law, or in our belief is reasonably necessary to: (1) comply with the law or legal process; (2) protect or defend the legal rights of the Company, its employees, agents, advertisers, publishers or other contractors (including enforcement of agreements); (3) protect against fraud or for risk management purposes; or (4) protect the rights, property or safety of the Company or the public. Additionally, we may aggregate non-PII for reporting and analysis purposes, and that aggregated data may be stored indefinitely.  
  
 
 ## CALIFORNIA PRIVACY RIGHTS
