@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the londoncyclist.co.uk privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610223428id_/http%3A//www.londoncyclist.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londoncyclist.co.uk privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201184516id_/http%3A//www.londoncyclist.co.uk/about/privacy) for the most accurate reproduction.*
 
-# Privacy and Cookies
+# Privacy and Cookies - London Cyclist
 
 As the site (and its associated services) grow, it has become a necessity to have a privacy page. This clears up a little bit about how we use data, how we protect it and so forth. It also has some terms and conditions that apply to our competitions. If there’s anything you’d like clarifying then I’m reachable at any time via the contact page on London Cyclist.
 
