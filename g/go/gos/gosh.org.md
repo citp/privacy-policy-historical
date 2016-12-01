@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosh.org privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521110438id_/http%3A//www.gosh.org/hidden-pages/privacy-and-data-protection-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosh.org privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201014357id_/http%3A//www.gosh.org/privacy-and-data-protection-statement) for the most accurate reproduction.*
 
 # Privacy and Data Protection Statement | Great Ormond Street Hospital Children's Charity
 
@@ -93,7 +93,9 @@ We may collect your personal information for a number of reasons, such as:
 • where it is required or authorised by law; and  
 • assessing your personal information for the purposes of credit risk reduction or fraud prevention (regrettably some people target charities for illegal purposes such as money laundering and, quite rightly, we are required to monitor financial activity and report suspected fraud to the appropriate authorities).
 
-We may supplement or add to the information we hold about you with information that is available through, or we receive from, other sources e.g. public registers. This allows us to assess the accuracy of the information we hold about you in order to send you relevant information and promote those fundraising opportunities that we believe you are most likely to be interested in. 
+We may supplement or add to the information we hold about you with information that is available through, or we receive from, other sources e.g. public registers, third party information services such as Experian Mosaic. This allows us to send you the most relevant information and promote those fundraising opportunities that we believe you are most likely to be interested in.  
+
+[Access further information on Experian Mosaic](http://www.experian.co.uk/marketing-services/products/mosaic-uk.html). 
 
 We may contact you for marketing purposes by mail, e-mail, telephone, mobile telephone, text or social messaging; in some cases, this will require getting your permission. We may also send you service communications via e-mail, text or social posting, for example where you place an order for goods or services on our website, or if you have made a donation by text. 
 
@@ -191,7 +193,7 @@ Back to top
 
 ## 13\. Changes to the policy
 
-This policy replaces all previous versions and is correct as of May 2016. We will regularly review and update this Privacy and Data Protection Statement and will update, modify, add or remove sections at our discretion. Any changes will be notified to you either via e-mail or through an announcement on our website and your continued use of our website, any of our services and/or the continued provision of personal information after we have posted the changes to these terms will be taken to mean you are in agreement with those changes.
+This policy replaces all previous versions and is correct as of August 2016. We will regularly review and update this Privacy and Data Protection Statement and will update, modify, add or remove sections at our discretion. Any changes will be notified to you either via e-mail or through an announcement on our website and your continued use of our website, any of our services and/or the continued provision of personal information after we have posted the changes to these terms will be taken to mean you are in agreement with those changes.
 
 Back to top
 
