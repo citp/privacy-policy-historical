@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the design-reuse.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430032647id_/http%3A//www.design-reuse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the design-reuse.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201152816id_/http%3A//www.design-reuse.com/privacy) for the most accurate reproduction.*
 
 # Design And Reuse, The System-On-Chip Design Resource - IP, Core, SoC
 
