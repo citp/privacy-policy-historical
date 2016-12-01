@@ -1,88 +1,152 @@
-> *The following text is extracted and transformed from the appfog.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107004518id_/https%3A//phpfog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appfog.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201060818id_/https%3A//www.ctl.io/legal/privacy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy - CenturyLink Cloud
 
-This Privacy Policy was last revised on October 29, 2009.
+_Updated: March 17th, 2016_
 
-PHP Fog, Inc. ("PHP Fog," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by PHP Fog when you use the PHP Fog Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. Our basic principles are:
+[](https://privacy.truste.com/privacy-seal/validation?rid=234500f1-1409-4b88-912e-5a85c2adc4ac "TRUSTe Privacy Certification")
 
-  * We won't spam you or sell your personal information to others.
-  * You control how we send most messages to you.
-  * You control who you share your Applications with.
-  * We will not use or share your information with anyone except as described in this Privacy Policy.
+We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the www.ctl.io website (“Website”) produced and maintained by CenturyLink Cloud (collectively, “CenturyLink Cloud,” “Company,” “we,” “us,” or “our”) and the services and products made available on such Website such as our Client Management section (the “Control Panel”). The use of information collected through our service shall be limited to the purpose of providing the service for which CenturyLink Cloud’s customers (each, a “Client”) have engaged it. We have established this privacy policy (“Privacy Policy”) to let you know the kinds of personal information we may gather during your visit to the Website and during the course of your use of our services and products, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.
 
+Please be advised that the practices described in this Privacy Policy apply only to information gathered online by us when you visit our Website, when you sign up to use our services or products in the Client Management section of the Website (the “Control Panel”), when you log into our services, and when you execute programs or scripts on our servers. It does not apply to (1) information that you may submit to us offline, (2) information you store on our services or products, or (3) websites maintained by other companies or organizations to which we may link.
 
+**By visiting our Website or using our services and products, you are accepting the practices described in our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Website or our services and products.**
 
-We will only collect, use, and share your information as we describe in this Privacy Policy or as you give us express permission to do. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://web.archive.org/terms_of_service).
+If you have any questions about this Privacy Policy or don’t see your concerns addressed here, you should contact us by email at [privacy@ctl.io](mailto:privacy@ctl.io).
 
-## Information We Collect
+CenturyLink Cloud has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
 
-**User-Provided Information:** You provide us information about yourself, such as your name and e-mail address, when you register for an account with the Service. You also provide us information in the Content and Application(s) you post to the Service. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. If you sign up for a paid subscription to the Service, we will ask you for your credit card information, which we store in encrypted form.
+The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.ctl.io and our service platform control.ctl.io.
 
-**Cookies Information:** When you visit the Service, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets PHP Fog help you log in faster and enhance your navigation through the site. A cookie may also convey anonymous information about how you browse the Service to us. A cookie does not collect personal information about you. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
-**Log File Information:** Log file information is automatically reported by your browser each time you access a web page. When you use the Service, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
+CenturyLink Cloud complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. CenturyLink Cloud has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view CenturyLink Cloud’s certification, please visit <http://www.export.gov/safeharbor/>
 
-**Clear Gifs Information:** When you use the Service, we may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your PHP Fog account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make PHP Fog better for our users.
+## What Information About Me Is Collected and Stored?
 
-## How We Use Your Information
+Company adheres to the highest standards of ethical practices in all of our operations and is dedicated to protecting the privacy of all visitors to our Website and users of our services and products. **Our Privacy Policy is simple: Except as disclosed below, we don't sell, barter, give away, or rent your personal information to any company outside of Company.**
 
-We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service.
+### Personal Information
 
-By providing PHP Fog your email address, you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers. If you do not want to receive such email messages, you may opt out or change your preferences in your "My Account page".
+For purposes of registration and use of our services, we collect identifiable information about you and your authorized users such as subscriber name, subscriber website, user ID, email address, telephone numbers, billing information (such as credit card number), and demographic information such as zip code (“Personal Information”). We also collect and store information that you enter into the Control Panel of the Website or that you provide through our help desk, customer service representatives, or requests for more information. Registration may also be required and Personal Information may also be collected in certain portions of the Website in which you specifically and knowingly provide such information (e.g. blog comments, if any). We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database.
 
-Following termination or deactivation of your account, PHP Fog may retain your profile information, Content, and Application for a commercially reasonable time for backup, archival, or audit purposes. Furthermore, PHP Fog may retain and continue to use indefinitely all Content contained in your communications to other users or posted to public or semi-public areas of the Service after termination or deactivation of your account.
+More specifically, we collect the following Personal Information in the following circumstances: (1) when you visit our Website, we collect your IP address, HTTP referrer information and requested pages, and we log such information into plain text and SQL databases; (2) when you sign up for our services or products, we collect your IP address, HTTP referrer information, requested pages, username, email address, URLs, billing and mailing addresses, and credit card (number, expiration date, and CCV) or paypal billing information, and we log such information into plain text and SQL databases; (3) if you log into our services via SSH and SFTP, we collect your IP address, reverse DNS information and initial commands, and we log such information into secured local and remote text files and SQL databases; (4) if you execute programs or script on our servers, we collect the user, script name and binaries used, and we log such information into secured local and remote text files and SQL databases; and (5) if you submit issues via email or any other support system, we collect your IP address, username, URLs and email address; (6) if you choose to add new users to your account.
 
-If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person's email address and automatically send an email invitation. PHP Fog stores this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service. Your friend may contact us to request that we remove this information from our database at privacy@phpfog.com.
+### Anonymous Information
 
-PHP Fog may use certain information about you and/or your Application internally for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing content.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, analytics, and site functionality.
 
-PHP Fog reserves the right, but has no obligation, to monitor or remove the Content you post on the Service if in our sole opinion such Content violates, or may violate, any applicable law or our Terms of Service, or to protect or defend our rights or property or those of any third party. PHP Fog also reserves the right to remove Content upon the request of any third party.
+### Tracking Technologies
 
-We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Service; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our Service; (d) monitor aggregate metrics such as activity, traffic, and demographic patterns; (e) diagnose or fix technology problems reported by our users or engineers that are associated with certain IP addresses; and (f) help you efficiently access your information after you sign in; and (h) track Content and users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act.
+Technologies such as: cookies, beacons, tags and scripts are used by CenturyLink Cloud and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-## How We Share Your Information
+We use cookies to remember users’ settings (e.g. language preference) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. To manage Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
-Personally Identifiable Information: PHP Fog will not rent or sell your personally identifiable information to others. PHP Fog may share your personally identifiable information with third parties solely for the purpose of providing the Service to you (for instance, to process your credit card transactions). If we do this, such third parties’ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of PHP Fog (for instance, on servers in the cloud).
+We and third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information.
 
-As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution.
+Various browsers may offer their own management tools for removing HTML5 LSOs.
 
-If you invite another user to share your Application, we will share the Application and associated Content with that user. You can change your Application sharing settings at any time in you app resource page. Any Content that you voluntarily disclose for posting to public areas of the Service becomes available to the public. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other users have copied or saved that information.
+We partner with a third party to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/) ). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
-By subscribing to or enabling an Add-on, you grant PHP Fog permission to share your Application, Content, and user information with the Add-on Provider as necessary in order to provide you the Add-on. We cannot control third parties’ use of your information. If you do not want your information to be collected by or shared with an Add-on Provider, you can choose not to subscribe to or enable Add-ons.
+### Is Information Collected From Children?
 
-Except as otherwise described in this Privacy Policy, PHP Fog will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our [Terms of Service](https://web.archive.org/web/20111107004518id_/https%3A//phpfog.com/tos), take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of PHP Fog, our users or others.
+This is not a Website directed to children under the age of 13, and Company does not knowingly collect Personal Information from children under 13 years of age. If you are under 13 years of age you should not use this Website, and under no circumstance should you send information about yourself to Company. If Company discovers that a child under the age of 13 has provided Company with Personal Information, Company will immediately delete that child’s information from the Website.
 
-Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain PHP Fog services.
+### How We Use Your Information?
 
-## How We Protect Your Information
+We use the information we learn from you to help us personalize and continually improve your experience on the Website. We use the information to fulfill support requests, deliver products and services, process payments, communicate with you about products, services, promotional offers, update our records and generally maintain your accounts with us. We also use this information to improve our Control Panel, prevent or detect fraud or abuses of our Website and, as described below, enable third parties to carry out technical, logistical or other functions on our behalf. Except as disclosed in this Privacy Policy, we do not use or disclose information about your individual visits to our Website or your Personal Information collected online to any companies not affiliated with us.
 
-PHP Fog uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information and implement your Application sharing settings.  We cannot, however, ensure or warrant the security of any information you transmit to PHP Fog or store on the Service, and you do so at your own risk.
+### Customer Service and Feedback
 
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information at all times.
+We may use your Personal Information to fulfill support requests, provide customer service/support, track your compliance with the Company’s Acceptable Use Policy, or for feedback purposes (to the extent that is explained when you provide the information). In the event we plan to publicly post any of your Personal Information on the Website, we will request your permission to provide such posting.
 
-## Compromise of Personal Information
+### Use of Anonymous Information
 
-In the event that personal information is compromised as a result of a breach of security, PHP Fog will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
+We use Anonymous Information to help us determine how people use parts of the Website and who our users are so we can improve our Website and ensure that it is as appealing as we can make it for as many people as possible. We may also use or share Anonymous Information (or other information, other than Personal Information) in any other manner that we deem appropriate or necessary.
 
-## Your Choices About Your Information
+### Third-Party Agents
 
-You may, of course, decline to submit personally identifiable information through the Service, in which case PHP Fog may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by logging in to your account on http://phpfog.com. You can review and correct the information about you that PHP Fog keeps on file by contacting us directly at support@phpfog.com.
+We occasionally have third party agents, subsidiaries, affiliates and partners that perform functions on our behalf, such as marketing, analytics, credit card processing, providing customer service/support, fraud protection, etc. These entities have access to the Personal Information needed to perform their functions and are contractually obligated to maintain the confidentiality and security of that Personal Information. They are restricted from using, selling, distributing or altering this data in any way other than to provide the requested services to Company.
 
-## Children's Privacy
+### Emergency Situations
 
-Protecting the privacy of young children is especially important. For that reason, PHP Fog does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register as Members. No one under age 13 is allowed to provide any personal information to or on PHP Fog. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at privacy@phpfog.com.
+We may also use or disclose Personal Information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or the Website; (b) protect and defend the our rights or property, the Website or our users, and © act under emergency circumstances to protect the personal safety of us, our affiliates, agents, or the users of the Website or the public, or respond to a government request. We do not sell your Personal Information to third parties.
 
-## Links to Other Web Sites
+### What Steps Are Taken To Keep Personal Information Secure?
 
-We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding.
+We are concerned with the security of the Personal Information associated with you. We have implemented commercially reasonable measures to prevent unauthorized access to your Personal Information. These measures include policies, procedures, employee training, physical access and technical measures relating to data access controls. In addition, we use standard security protocols and mechanisms such as secure socket layer technology (SSL) in the transmission of certain sensitive Personal Information, such as credit card information and login credentials.
 
-## Notification Procedures
+While we try our best to safeguard your Personal Information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. If you have any questions about security on our Web site, you can contact us at [privacy@ctl.io](mailto:privacy@ctl.io). 
 
-It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on the Service, as determined by PHP Fog in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
+### Data Retention
 
-## Changes to Our Privacy Policy
+We comply with the following data retention policies with respect to your Personal Information: (1) we permanently retain in an encrypted format of your billing information; (2) we may permanently retain your forum and weblog contributions; and (3) we may permanently retain your support emails, web logs and accounting logs, though we reserve the right to destroy such information after a period of six months. We will retain and use your Personal Information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements. If you wish to cancel your account or request that we no longer use your Personal Information to provide you services contact us at [privacy@ctl.io](mailto:privacy@ctl.io).
 
-If we change our privacy policies and procedures, we will post those changes on the Service to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
+### Your Obligations to Keep Your Access Rights Secure
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at privacy@phpfog.com, or send mail to: PHP Fog, Inc., Privacy, 2732 SE 18th Ave, Portland, OR, 97202.
+You promise to: (a) provide true, accurate, current and complete information about yourself and your business as prompted by the Website's Control Panel (such information being the "Registration Data") and (b) maintain and promptly update the Registration Data to keep it true, accurate, current and complete. If you provide any information that is untrue, inaccurate, not current or incomplete, or Company has reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, Company has the right to suspend or terminate your account and refuse any and all current or future use of the Website (or any portion thereof). You are entirely responsible for the security and confidentiality of your password and account. Furthermore, you are entirely responsible for any and all activities that occur under your account. You agree to immediately notify us of any unauthorized use of your account or any other breach of security of which you become aware. You are responsible for taking precautions and providing security measures best suited for your situation and intended use of the services and Website. Please note that anyone able to provide your Personal Information will be able access your account so you should take reasonable steps to protect this information.
+
+If your Personal Information changes, or you wish to deactivate your account, you may correct, delete inaccuracies, or deactivate it by making changes within the user profile section of the Website or by contacting us at [privacy@ctl.io](mailto:privacy@ctl.io). We will respond to your change request within thirty (30) days.
+
+### Information Related to Data Collected through the Control Panel
+
+Company collects information under the direction of its Clients, and has no direct relationship with the individuals whose Personal Information it processes.
+
+We collect information for our Clients. If you are a customer of one of our Clients and would no longer like to be contacted by that Client which uses our service, please contact the Client that you interact with directly.
+
+### Service Provider, Sub-Processors/Onward Transfer
+
+Company may transfer Personal Information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Privacy Policy regarding notice and choice and the service agreements with our Clients.
+
+### Access to Data Controlled by our Clients
+
+Company has no direct relationship with the individuals whose Personal Information it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate Personal Information should direct his query to the relevant Company Client (the data controller). If the Client requests Company to remove the Personal Information, we will respond to their request within thirty (30) days.
+
+### Data Retention
+
+Company will retain Personal Information we process on behalf of our Clients for as long as needed to provide services to each Client. Company will retain and use this Personal Information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements. 
+
+### What Happens When I Link To or From Another Web Site?
+
+This Website may contain links to other websites operated by affiliates of Company or third parties. Please be advised that the practices described in this Privacy Policy for Company do not apply to information gathered through these other websites. These other sites may also send their own cookies to you, collect your data or solicit your Personal Information. Always be aware of all websites you visit. We are not responsible for the actions and privacy policies of third parties and other websites. We encourage you to be aware of when you leave this Website and read the privacy policies of each and every website that you visit.
+
+### Public Areas, Chat Rooms and Newsgroups
+
+Our Website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@ctl.io](mailto:privacy@ctl.io). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+### Testimonials
+
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@ctl.io](mailto:privacy@ctl.io).
+
+### Social Media Features and Widgets
+
+Our Website includes social media features, such as the Facebook ‘Like’ button, and widgets, such as the ‘Share’ button, or interactive mini-programs that run on our Website (collectively, “Features”). These Features may collect your IP address, which page you are visiting on our Website, and may set a cookie to enable the Feature to function properly. Features are either hosted by a third party or hosted directly on our Website. Your interactions with these Features are governed by the Privacy Policy of the company providing it.
+
+### Governing Law/Assignment
+
+The Website is published in the United States of America (the “U.S.”). We make every effort to protect the Personal Information of all users of the Website. We attempt to comply with local data protection and consumer rights laws to the extent they may apply to our services. If you are uncertain whether this Privacy Policy conflicts with the applicable local privacy laws where you are located, you should not submit your Personal Information to us.
+
+We may change ownership or corporate organization while providing the Website and services. As a result, please be aware that we may transfer your information to another company that is affiliated with us or with which we have merged or by which we have been acquired. Under such circumstances, Company would to the extent possible require the acquiring party to follow the practices described in this Privacy Policy, as it may be amended from time to time. You will be notified via email and/or a prominent notice on our Website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your Personal Information.
+
+### Notice to European Users
+
+If you are located within the European Union, you should be aware that your Personal Information will be transferred to the U.S. and Canada, the laws of which may be deemed by the European Union to have inadequate data protection. If you are located in a country outside the U.S. and voluntarily submit Personal Information to us, you thereby consent to the general use of such information as provided in this Privacy Policy and to the transfer of that information to, and/or storage of that information in, the U.S.and Canada.
+
+### Changes to This Policy
+
+We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice on this Website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+### How Do I Opt-Out
+
+You may always opt-out of receiving future email messages and newsletters from Company. We provide you with the opportunity to opt-out of receiving communications from us at the point where we request information about you or by following the unsubscribe link located at the bottom of each communication.
+
+### Your California Privacy Rights
+
+California Civil Code Section 1798.83 permits customers of Company who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [privacy@ctl.io](mailto:privacy@ctl.io.com).
+
+### Contact Us
+
+CenturyLink Cloud  
+1100 112th Avenue NE Suite 400  
+Bellevue, WA 98004  
+[1.877.388.4373](tel:18773884373)
