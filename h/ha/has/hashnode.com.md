@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hashnode.com privacy policy that was archived on 2016-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160304224600id_/https%3A//hashnode.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hashnode.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201021524id_/https%3A//hashnode.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hashnode
+
+* * *
 
 Hashnode, operated by LinearBytes Inc., located at 8 The Green, Suite #4582, Dover, DE 19901 ("Hashnode," "we," or "our"), recognizes the importance of your personal privacy. Therefore, we have created this Privacy Policy so that you know how we use and disclose your information when you make it available to us. The Privacy Policy below discloses our practices regarding information collection and usage for the website located at hashnode.com and the related mobile website (collectively, the "Websites"), and the service provided thereon (the "Service").
 
