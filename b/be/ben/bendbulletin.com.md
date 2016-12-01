@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bendbulletin.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612084757id_/http%3A//www.bendbulletin.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bendbulletin.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201111310id_/http%3A//www.bendbulletin.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
