@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shopwithmemama.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612143458id_/http%3A//shopwithmemama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopwithmemama.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201200622id_/http%3A//shopwithmemama.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Shop With Me Mama
 
-This Privacy Policy governs the manner in which Shop with Me Mama collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.shopwithmemama.com](http://www.shopwithmemama.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Shop with Me Mama.
+This Privacy Policy governs the manner in which Shop with Me Mama collects, uses, maintains and discloses information collected from users ( _each, a “User”_ ) of the [http://www.shopwithmemama.com](http://www.shopwithmemama.com/) website ( _“Site”_ ). This privacy policy applies to the Site and all products and services offered by Shop with Me Mama.
 
 **Personal identification information**
 
@@ -14,7 +14,7 @@ We may collect non-personal identification information about Users whenever they
 
 **Web browser cookies**
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. The user may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 **How we use collected information**
 
@@ -39,17 +39,17 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 **Sharing your personal information**
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third-party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
 **Third party websites**
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Here is a url for more information about this practice and to know your choices about not having this information used by these companies: <http://www.networkadvertising.org/managing/opt_out.asp>
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. Here is an URL for more information about this practice and to know your choices about not having this information used by these companies: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 **Advertising**
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile nonpersonal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
 **Compliance with children’s online privacy protection act**
 
@@ -68,7 +68,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [Shop with Me Mama](http://www.shopwithmemama.com/)  
 [http://www.shopwithmemama.com](http://www.shopwithmemama.com/)  
-Kelso, Washington 98626  
+Moore, Idaho 83255  
 shopwithme52@yahoo.com
 
-This document was last updated on June 23, 2011
+This document was last updated on September 16, 2016
