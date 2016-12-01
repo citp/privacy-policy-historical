@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the amsa.gov.au privacy policy that was archived on 2016-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616013233id_/https%3A//www.amsa.gov.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amsa.gov.au privacy policy that was archived on 2016-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161201083004id_/http%3A//amsa.gov.au/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -218,7 +218,7 @@
             </p>
           <p>For more information see our <a href="/privacy/complete-privacy-policy/index.asp">complete Privacy Policy</a>.<br>
             </p>
-          <p>AMSA’s information management tool for general stakeholders is called  the AMSA Community Directory. Please read the <a href="/privacy/documents/privacy-policy-acd.pdf" target="_blank" title="ACD policy pdf">AMSA Community  Directory</a> Policy.</p>
+          <p>AMSA’s information management tool for general stakeholders is called  the AMSA Community Directory. Please read the <a href="/privacy/documents/privacy-policy-acd.pdf" target="_blank" title="ACD policy pdf" onclick="_gaq.push(['_trackEvent', 'PDF', 'Download', '/privacy/documents/privacy-policy-acd.pdf']);">AMSA Community  Directory</a> Policy.</p>
           <h4>How to contact us or the Privacy Commissioner</h4>
           <p>For further information you can submit an email via the <a href="/contact-us/index.asp">contact  us</a> page, or alternatively you can write to us at: <br>
           </p>
@@ -274,6 +274,21 @@
 	<div class="scroll-to-top hidden" onclick="">
         <span><img src="/design/images/icon-scroll.png" alt="Scroll to top"> &nbsp; Back to top</span>
    	</div>
+
+<!-- Google Analytics PDF download tracking -->
+<script type="text/javascript">
+$(document).ready(function() {  
+	
+    $("a[href$='pdf']").each(function(index) {
+      pdfLabel = $(this).attr('href');
+      pdfOnClick = "_gaq.push(['_trackEvent', 'PDF', 'Download', '" + pdfLabel + "']);";
+      $(this).attr("onClick", pdfOnClick);
+    });
+	
+	
+});
+</script>
+
 
 
 
