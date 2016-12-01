@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 300mbdownload.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613104026id_/http%3A//www.300mbdownload.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 300mbdownload.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201185329id_/http%3A//www.300mbdownload.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 300mbdownload.com
 
