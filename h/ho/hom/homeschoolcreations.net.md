@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeschoolcreations.net privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612105717id_/http%3A//www.homeschoolcreations.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeschoolcreations.net privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201123925id_/http%3A//www.homeschoolcreations.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
