@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdmixtapes.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606133017id_/http%3A//hdmixtapes.com/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdmixtapes.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201060815id_/http%3A//hdmixtapes.com/Privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ We may enter into strategic marketing alliances or partnerships with third parti
 
 We may enter into strategic marketing alliances or partnerships with third parties who may be given access to personal information including your name, address, telephone number and e-mail for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with strategic marketing alliances or partnerships, we will retain all ownership rights to the information, and we will not share information regarding your social security number or other personal financial data that we may have.
 
-You may request access to all your personally identifiable information that we collect online and maintain in our database by [contacting us](http://hdmixtapes.com/Contact_us).
+You may request access to all your personally identifiable information that we collect online and maintain in our database by [contacting us](http://www.hdmixtapes.com/Contact_us).
 
 We may provide aggregate information about our customers, sales, Web site traffic patterns and related Web site information to our affiliates or reputable third parties, but this information will not include personally identifying data, except as otherwise provided in this Privacy Policy.
 
