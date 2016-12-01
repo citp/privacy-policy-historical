@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctorwhotv.co.uk privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314193859id_/http%3A//www.doctorwhotv.co.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorwhotv.co.uk privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201094813id_/http%3A//www.doctorwhotv.co.uk/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
