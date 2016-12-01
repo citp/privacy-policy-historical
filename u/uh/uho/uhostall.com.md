@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhostall.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327043453id_/http%3A//www.uhostall.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhostall.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201231716id_/http%3A//www.uhostall.com/privacy.php) for the most accurate reproduction.*
 
 # U Host All | Privacy Policy
 
