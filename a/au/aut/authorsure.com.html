@@ -1,136 +1,20 @@
-<!--The following is the downloaded HTML source of the authorsure.com privacy policy that was archived on 2016-03-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160314071619id_/http%3A//www.authorsure.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the authorsure.com privacy policy that was archived on 2016-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161201021418id_/http%3A//www.authorsure.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 <meta charset="UTF-8">
-<title>Privacy</title><meta name="robots" content="noindex,nofollow,noarchive,noodp,noydir">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy</title>		<meta name="robots" content="noindex,nofollow,noarchive,noodp,noydir">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="AuthorSure » Feed" href="http://feeds.feedburner.com/authorsure">
 <link rel="alternate" type="application/rss+xml" title="AuthorSure » Comments Feed" href="http://feeds.feedburner.com/commentsforauthorsure">
 <link rel="canonical" href="http://www.authorsure.com/privacy">
 		<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/www.authorsure.com\/wp-includes\/js\/wp-emoji.js?ver=7026e80cda62e87d42a1f27e74ac5018","twemoji":"http:\/\/www.authorsure.com\/wp-includes\/js\/twemoji.js?ver=7026e80cda62e87d42a1f27e74ac5018"}};
-			( function( window, document, settings ) {
-	var src, ready;
-
-	/**
-	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
-	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
-	 *
-	 * @since 4.2.0
-	 *
-	 * @param type {String} Whether to test for support of "simple" or "flag" emoji.
-	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
-	 */
-	function browserSupportsEmoji( type ) {
-		var canvas = document.createElement( 'canvas' ),
-			context = canvas.getContext && canvas.getContext( '2d' ),
-			stringFromCharCode = String.fromCharCode,
-			tone;
-
-		if ( ! context || ! context.fillText ) {
-			return false;
-		}
-
-		/*
-		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
-		 * it doesn't work when the font is bolder than 500 weight. So, we
-		 * check for bold rendering support to avoid invisible emoji in Chrome.
-		 */
-		context.textBaseline = 'top';
-		context.font = '600 32px Arial';
-
-		if ( 'flag' === type ) {
-			/*
-			 * This works because the image will be one of three things:
-			 * - Two empty squares, if the browser doesn't render emoji
-			 * - Two squares with 'A' and 'U' in them, if the browser doesn't render flag emoji
-			 * - The Australian flag
-			 *
-			 * The first two will encode to small images (1-2KB data URLs), the third will encode
-			 * to a larger image (4-5KB data URL).
-			 */
-			context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
-			return canvas.toDataURL().length > 3000;
-		} else if ( 'diversity' === type ) {
-			/*
-			 * This tests if the browser supports the Emoji Diversity specification, by rendering an
-			 * emoji with no skin tone specified (in this case, Santa). It then adds a skin tone, and
-			 * compares if the emoji rendering has changed.
-			 */
-			context.fillText( stringFromCharCode( 55356, 57221 ), 0, 0 );
-			tone = context.getImageData( 16, 16, 1, 1 ).data.toString();
-			context.fillText( stringFromCharCode( 55356, 57221, 55356, 57343 ), 0, 0 );
-			// Chrome has issues comparing arrays, so we compare it as a  string, instead.
-			return tone !== context.getImageData( 16, 16, 1, 1 ).data.toString();
-		} else {
-			if ( 'simple' === type ) {
-				/*
-				 * This creates a smiling emoji, and checks to see if there is any image data in the
-				 * center pixel. In browsers that don't support emoji, the character will be rendered
-				 * as an empty square, so the center pixel will be blank.
-				 */
-				context.fillText( stringFromCharCode( 55357, 56835 ), 0, 0 );
-			} else {
-				/*
-				 * To check for Unicode 8 support, let's try rendering the most important advancement
-				 * that the Unicode Consortium have made in years: the burrito.
-				 */
-				context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
-			}
-			return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
-		}
-	}
-
-	function addScript( src ) {
-		var script = document.createElement( 'script' );
-
-		script.src = src;
-		script.type = 'text/javascript';
-		document.getElementsByTagName( 'head' )[0].appendChild( script );
-	}
-
-	settings.supports = {
-		simple:    browserSupportsEmoji( 'simple' ),
-		flag:      browserSupportsEmoji( 'flag' ),
-		unicode8:  browserSupportsEmoji( 'unicode8' ),
-		diversity: browserSupportsEmoji( 'diversity' )
-	};
-
-	settings.DOMReady = false;
-	settings.readyCallback = function() {
-		settings.DOMReady = true;
-	};
-
-	if ( ! settings.supports.simple || ! settings.supports.flag || ! settings.supports.unicode8 || ! settings.supports.diversity ) {
-		ready = function() {
-			settings.readyCallback();
-		};
-
-		if ( document.addEventListener ) {
-			document.addEventListener( 'DOMContentLoaded', ready, false );
-			window.addEventListener( 'load', ready, false );
-		} else {
-			window.attachEvent( 'onload', ready );
-			document.attachEvent( 'onreadystatechange', function() {
-				if ( 'complete' === document.readyState ) {
-					settings.readyCallback();
-				}
-			} );
-		}
-
-		src = settings.source || {};
-
-		if ( src.concatemoji ) {
-			addScript( src.concatemoji );
-		} else if ( src.wpemoji && src.twemoji ) {
-			addScript( src.twemoji );
-			addScript( src.wpemoji );
-		}
-	}
-
-} )( window, document, window._wpemojiSettings );
-		</script><script src="http://www.authorsure.com/wp-includes/js/twemoji.js?ver=7026e80cda62e87d42a1f27e74ac5018" type="text/javascript"></script><script src="http://www.authorsure.com/wp-includes/js/wp-emoji.js?ver=7026e80cda62e87d42a1f27e74ac5018" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.authorsure.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.authorsure.com/wp-includes/js/wp-emoji-release.min.js?ver=4.6.1" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -145,18 +29,21 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="form-storm-css" href="http://www.authorsure.com/wp-content/plugins/form-storm/form-storm.css?ver=7026e80cda62e87d42a1f27e74ac5018" type="text/css" media="all">
-<link rel="stylesheet" id="eleven40-pro-theme-css" href="http://www.authorsure.com/wp-content/themes/eleven40-pro/style.css?ver=7026e80cda62e87d42a1f27e74ac5018" type="text/css" media="all">
-<link rel="stylesheet" id="google-font-css" href="//fonts.googleapis.com/css?family=Lora%3A400%2C700%7COswald%3A400&amp;ver=7026e80cda62e87d42a1f27e74ac5018" type="text/css" media="all">
+<link rel="stylesheet" id="form-storm-css" href="http://www.authorsure.com/wp-content/plugins/form-storm/form-storm.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="eleven40-pro-theme-css" href="http://www.authorsure.com/wp-content/themes/eleven40-pro/style.css?ver=2.0" type="text/css" media="all">
+<link rel="stylesheet" id="google-font-css" href="//fonts.googleapis.com/css?family=Lora%3A400%2C700%7COswald%3A400&amp;ver=2.4.2" type="text/css" media="all">
 <link rel="stylesheet" id="ls-google-fonts-css" href="http://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900%7COpen+Sans:300%7CIndie+Flower:regular%7COswald:300,regular,700&amp;subset=latin%2Clatin-ext" type="text/css" media="all">
-<link rel="stylesheet" id="layerslider-css" href="http://www.authorsure.com/wp-content/plugins/genesis-club-pro/slider/static/css/layerslider.css?ver=7026e80cda62e87d42a1f27e74ac5018" type="text/css" media="all">
-<link rel="stylesheet" id="authorsure-css" href="http://www.authorsure.com/wp-content/plugins/authorsure/styles/public.css?ver=7026e80cda62e87d42a1f27e74ac5018" type="text/css" media="all">
-<link rel="stylesheet" id="dashicons-css" href="http://www.authorsure.com/wp-includes/css/dashicons.css?ver=7026e80cda62e87d42a1f27e74ac5018" type="text/css" media="all">
-<link rel="stylesheet" id="genesis-club-display-css" href="http://www.authorsure.com/wp-content/plugins/genesis-club-pro/styles/display.css?ver=7026e80cda62e87d42a1f27e74ac5018" type="text/css" media="all">
+<link rel="stylesheet" id="layerslider-css" href="http://www.authorsure.com/wp-content/plugins/genesis-club-pro/slider/static/css/layerslider.css?ver=5.6.10" type="text/css" media="all">
+<link rel="stylesheet" id="authorsure-css" href="http://www.authorsure.com/wp-content/plugins/authorsure/styles/public.css?ver=2.3" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="http://www.authorsure.com/wp-includes/css/dashicons.min.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="genesis-club-display-css" href="http://www.authorsure.com/wp-content/plugins/genesis-club-pro/styles/display.css?ver=4.39" type="text/css" media="all">
 <link rel="stylesheet" id="genesis-club-fonts-css" href="http://fonts.googleapis.com/css?family=Vampiro+One&amp;subset=latin" type="text/css" media="all">
-<link rel="stylesheet" id="footer-credits-css" href="http://www.authorsure.com/wp-content/plugins/genesis-club-pro/styles/footer-credits.css?ver=7026e80cda62e87d42a1f27e74ac5018" type="text/css" media="all">
-<link rel="stylesheet" id="genesis-extender-minified-css" href="http://www.authorsure.com/wp-content/uploads/genesis-extender/plugin/genesis-extender-minified.css?ver=7026e80cda62e87d42a1f27e74ac5018" type="text/css" media="all">
-<script type="text/javascript" src="http://www.authorsure.com/wp-content/plugins/form-storm/form-storm.js?ver=7026e80cda62e87d42a1f27e74ac5018"></script>
+<link rel="stylesheet" id="footer-credits-css" href="http://www.authorsure.com/wp-content/plugins/genesis-club-pro/styles/footer-credits.css?ver=4.39" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="http://www.authorsure.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.3.2" type="text/css" media="all">
+<script type="text/javascript" src="http://www.authorsure.com/wp-content/plugins/form-storm/form-storm.js?ver=4.6.1"></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://www.authorsure.com/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
 <link rel="https://api.w.org/" href="http://www.authorsure.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.authorsure.com/xmlrpc.php?rsd">
 <link rel="alternate" type="application/json+oembed" href="http://www.authorsure.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.authorsure.com%2Fprivacy">
@@ -164,7 +51,7 @@ img.emoji {
 <script type="text/javascript" src="http://www.authorsure.com/wp-content/plugins/audio-player/assets/audio-player.js?ver=2.0.4.6"></script>
 <script type="text/javascript">AudioPlayer.setup("http://www.authorsure.com/wp-content/plugins/audio-player/assets/player.swf?ver=2.0.4.6", {width:"290",animation:"yes",encode:"yes",initialvolume:"60",remaining:"no",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"E5E5E5",text:"333333",leftbg:"CCCCCC",lefticon:"333333",volslider:"666666",voltrack:"FFFFFF",rightbg:"B4B4B4",rightbghover:"999999",righticon:"333333",righticonhover:"FFFFFF",track:"FFFFFF",loader:"009900",border:"CCCCCC",tracker:"DDDDDD",skip:"666666",pagebg:"FFFFFF",transparentpagebg:"yes"});</script>
 <script type="text/javascript" src="http://www.authorsure.com/wp-content/plugins/html5-and-flash-video-player/swfobject.js"></script>
-<style type="text/css">img#wpstats{display:none}</style><link rel="Shortcut Icon" href="http://www.authorsure.com/wp-content/themes/eleven40-pro/images/favicon.ico" type="image/x-icon">
+<style type="text/css">img#wpstats{display:none}</style><link rel="icon" href="http://www.authorsure.com/wp-content/themes/eleven40-pro/images/favicon.ico">
 <link rel="pingback" href="http://www.authorsure.com/xmlrpc.php">
 <script type="text/javascript">
 
@@ -188,41 +75,8 @@ img.emoji {
     po.src = 'https://apis.google.com/js/plusone.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
   })();
-</script><!--[if lt IE 9]><script src="http://www.authorsure.com/wp-content/themes/genesis/lib/js/html5shiv.js"></script><![endif]-->
-		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-		<script type="text/javascript">
-(function(url){
-	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
-	var addEvent = function(evt, handler) {
-		if (window.addEventListener) {
-			document.addEventListener(evt, handler, false);
-		} else if (window.attachEvent) {
-			document.attachEvent('on' + evt, handler);
-		}
-	};
-	var removeEvent = function(evt, handler) {
-		if (window.removeEventListener) {
-			document.removeEventListener(evt, handler, false);
-		} else if (window.detachEvent) {
-			document.detachEvent('on' + evt, handler);
-		}
-	};
-	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
-	var logHuman = function() {
-		var wfscr = document.createElement('script');
-		wfscr.type = 'text/javascript';
-		wfscr.async = true;
-		wfscr.src = url + '&r=' + Math.random();
-		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
-		for (var i = 0; i < evts.length; i++) {
-			removeEvent(evts[i], logHuman);
-		}
-	};
-	for (var i = 0; i < evts.length; i++) {
-		addEvent(evts[i], logHuman);
-	}
-})('//www.authorsure.com/?wordfence_logHuman=1&hid=41FA9F89E773C0F39052559B97CBE2A7');
-</script>
+</script>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		
 <!-- Jetpack Open Graph Tags -->
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy">
@@ -234,9 +88,8 @@ img.emoji {
 <meta property="og:image" content="https://s0.wp.com/i/blank.jpg">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary">
-<style type="text/css" id="syntaxhighlighteranchor"></style>
 </head>
-<body class="page page-id-429 page-template-default content-sidebar eleven40-blue unknown-os unknown-browser override" itemscope="" itemtype="http://schema.org/WebPage"><div class="site-container"><header class="site-header" itemscope="" itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><div class="site-title"><a href="http://www.authorsure.com/" title="AuthorSure" style="text-indent:0;background:none"><img src="http://www.authorsure.com/wp-content/themes/eleven40/images/blue/logo.png" alt="AuthorSure Logo"></a></div></div><div class="widget-area header-widget-area"><section id="nav_menu-3" class="widget widget_nav_menu"><div class="widget-wrap"><nav class="nav-header" itemscope="" itemtype="http://schema.org/SiteNavigationElement"><ul id="menu-secondary" class="menu genesis-nav-menu"><li id="menu-item-416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-416"><a href="http://www.authorsure.com/about" itemprop="url"><span itemprop="name">About</span></a></li>
+<body class="page page-id-429 page-template-default content-sidebar eleven40-blue" itemscope="" itemtype="http://schema.org/WebPage"><div class="site-container"><header class="site-header" itemscope="" itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><div class="site-title"><a href="http://www.authorsure.com/" title="AuthorSure" style="text-indent:0;background:none"><img src="http://www.authorsure.com/wp-content/themes/eleven40/images/blue/logo.png" alt="AuthorSure Logo"></a></div></div><div class="widget-area header-widget-area"><section id="nav_menu-3" class="widget widget_nav_menu"><div class="widget-wrap"><nav class="nav-header" itemscope="" itemtype="http://schema.org/SiteNavigationElement"><ul id="menu-secondary" class="menu genesis-nav-menu"><li id="menu-item-416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-416"><a href="http://www.authorsure.com/about" itemprop="url"><span itemprop="name">About</span></a></li>
 <li id="menu-item-399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-399"><a href="http://www.authorsure.com/donate" itemprop="url"><span itemprop="name">Donate</span></a></li>
 <li id="menu-item-425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-425"><a href="http://www.authorsure.com/download" itemprop="url"><span itemprop="name">Download</span></a></li>
 </ul></nav></div></section>
@@ -246,8 +99,7 @@ img.emoji {
 <li id="menu-item-124" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-124"><a href="http://www.authorsure.com/category/faq" itemprop="url"><span itemprop="name">FAQ</span></a></li>
 <li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="http://www.authorsure.com/help" itemprop="url"><span itemprop="name">Get Help</span></a></li>
 <li id="menu-item-149" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-149"><a href="http://www.authorsure.com/category/tutorials" itemprop="url"><span itemprop="name">Video Tutorials</span></a></li>
-<li class="right rss"><a rel="nofollow" href="http://feeds.feedburner.com/authorsure">Posts</a><a rel="nofollow" href="http://feeds.feedburner.com/commentsforauthorsure">Comments</a></li></ul></div></nav><aside class="widget-area custom-post-sidebar genesis-before-content-sidebar-wrap"><section id="genesis-club-slider-2" class="widget widget_genesis-club-slider"><div class="widget-wrap"><div id="layerslider_1" class="ls-wp-container" style="width:1150px;height:80px;margin:0 auto;margin-bottom: 0px;"><div class="ls-slide" data-ls="transition2d:23;"><img src="http://images.authorsure.com/slideshow/slider-01.png" class="ls-bg" alt="Slide background"></div><div class="ls-slide" data-ls="transition2d:23;"><img src="http://images.authorsure.com/slideshow/slider-02.png" class="ls-bg" alt="Slide background"></div><div class="ls-slide" data-ls="transition2d:23;"><img src="http://images.authorsure.com/slideshow/slider-03.png" class="ls-bg" alt="Slide background"></div><div class="ls-slide" data-ls="transition2d:23;"><img src="http://images.authorsure.com/slideshow/slider-04.png" class="ls-bg" alt="Slide background"></div><div class="ls-slide" data-ls="transition2d:23;"><img src="http://images.authorsure.com/slideshow/slider-05.png" class="ls-bg" alt="Slide background"></div><div class="ls-slide" data-ls="transition2d:23;"><img src="http://images.authorsure.com/slideshow/slider-06.png" class="ls-bg" alt="Slide background"></div><div class="ls-slide" data-ls="transition2d:23;"><img src="http://images.authorsure.com/slideshow/slider-07.png" class="ls-bg" alt="Slide background"></div><div class="ls-slide" data-ls="transition2d:23;"><img src="http://images.authorsure.com/slideshow/slider-08.png" class="ls-bg" alt="Slide background"></div><div class="ls-slide" data-ls="transition2d:23;"><img src="http://images.authorsure.com/slideshow/slider-09.png" class="ls-bg" alt="Slide background"></div><div class="ls-slide" data-ls="transition2d:23;"><img src="http://images.authorsure.com/slideshow/slider-10.png" class="ls-bg" alt="Slide background"></div><div class="ls-slide" data-ls="transition2d:23;"><img src="http://images.authorsure.com/slideshow/slider-11.png" class="ls-bg" alt="Slide background"></div><div class="ls-slide" data-ls="transition2d:23;"><img src="http://images.authorsure.com/slideshow/slider-12.png" class="ls-bg" alt="Slide background"></div><div class="ls-slide" data-ls="transition2d:23;"><img src="http://images.authorsure.com/slideshow/slider-13.png" class="ls-bg" alt="Slide background"></div><div class="ls-slide" data-ls="transition2d:23;"><img src="http://images.authorsure.com/slideshow/slider-14.png" class="ls-bg" alt="Slide background"></div></div></div></section>
-</aside><div class="content-sidebar-wrap"><main class="content"><div class="breadcrumb" itemprop="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList"><span class="breadcrumb-link-wrap" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="http://www.authorsure.com/" itemprop="item"><span itemprop="name">Home</span></a></span> <span aria-label="breadcrumb separator">/</span> Privacy</div><article class="post-429 page type-page status-publish entry" itemscope="" itemtype="http://schema.org/CreativeWork"><header class="entry-header"><h1 class="entry-title" itemprop="headline">Privacy</h1> 
+<li class="right rss"><a rel="nofollow" href="http://feeds.feedburner.com/authorsure">Posts</a><a rel="nofollow" href="http://feeds.feedburner.com/commentsforauthorsure">Comments</a></li></ul></div></nav><p class="site-description" itemprop="description">Google Authorship Markup for Your WordPress Site</p><div class="content-sidebar-wrap"><main class="content"><div class="breadcrumb" itemprop="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList"><span class="breadcrumb-link-wrap" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="http://www.authorsure.com/" itemprop="item"><span itemprop="name">Home</span></a></span> <span aria-label="breadcrumb separator">/</span> Privacy</div><article class="post-429 page type-page status-publish entry" itemscope="" itemtype="http://schema.org/CreativeWork"><header class="entry-header"><h1 class="entry-title" itemprop="headline">Privacy</h1> 
 </header><div class="entry-content" itemprop="text"><p>The AuthorSure.com website will collect personal details that you provide to us  for the purposes of providing you with services and/or information. In providing such services and/or information to you we will only use your data in accordance with the terms of the following statement.</p>
 <p>If you feel that we are not abiding by this privacy policy, please contact us.</p>
 <h3>Information Collection and Use</h3>
@@ -309,49 +161,36 @@ We'll add questions with answers as and when we are asked. As the plugin is new,
 				</ul>
 		</div></section>
 		<section id="recent-comments-2" class="widget widget_recent_comments"><div class="widget-wrap"><h4 class="widget-title widgettitle">Recent Comments</h4>
-<ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">Russell</span> on <a href="http://www.authorsure.com/827/wordpress-username-security#comment-12101">How To Hide Your WordPress Username</a></li><li class="recentcomments"><span class="comment-author-link"><a href="http://brianmahoney.ca" rel="external nofollow" class="url">Brian</a></span> on <a href="http://www.authorsure.com/827/wordpress-username-security#comment-12100">How To Hide Your WordPress Username</a></li><li class="recentcomments"><span class="comment-author-link">Russell</span> on <a href="http://www.authorsure.com/827/wordpress-username-security#comment-12082">How To Hide Your WordPress Username</a></li><li class="recentcomments"><span class="comment-author-link"><a href="http://brianmahoney.ca" rel="external nofollow" class="url">Brian</a></span> on <a href="http://www.authorsure.com/827/wordpress-username-security#comment-12081">How To Hide Your WordPress Username</a></li><li class="recentcomments"><span class="comment-author-link"><a href="https://www.medusajuice.co.uk/" rel="external nofollow" class="url">Ash Mitchell</a></span> on <a href="http://www.authorsure.com/827/wordpress-username-security#comment-11753">How To Hide Your WordPress Username</a></li></ul></div></section>
+<ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href="http://www.techliet.com/" rel="external nofollow" class="url">Gudtalent</a></span> on <a href="http://www.authorsure.com/337/how-to-set-up-a-gravatar-image-for-use-in-your-author-box#comment-13551">How To Set Up A Gravatar Image For Use In Your Author Box</a></li><li class="recentcomments"><span class="comment-author-link"><a href="http://inhongdang.com.vn" rel="external nofollow" class="url">Mary</a></span> on <a href="http://www.authorsure.com/901/display-all-author-bios-with-a-custom-sort-order#comment-13549">Display All Author Bios With A Custom Sort Order</a></li><li class="recentcomments"><span class="comment-author-link">Russell</span> on <a href="http://www.authorsure.com/827/wordpress-username-security#comment-12101">How To Hide Your WordPress Username</a></li><li class="recentcomments"><span class="comment-author-link"><a href="http://brianmahoney.ca" rel="external nofollow" class="url">Brian</a></span> on <a href="http://www.authorsure.com/827/wordpress-username-security#comment-12100">How To Hide Your WordPress Username</a></li><li class="recentcomments"><span class="comment-author-link">Russell</span> on <a href="http://www.authorsure.com/827/wordpress-username-security#comment-12082">How To Hide Your WordPress Username</a></li></ul></div></section>
 </aside></div></div></div><div class="footer-widgets"><div class="wrap"><div class="footer-widgets-1 widget-area"><section id="text-6" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Please Google+ This Site</h4>
 			<div class="textwidget"><!-- Google+ Button -->
 <div class="g-plusone" data-annotation="inline" data-width="300" data-href="http://www.authorsure.com"></div></div>
 		</div></section>
 </div><div class="footer-widgets-2 widget-area"><section id="tag_cloud-3" class="widget widget_tag_cloud"><div class="widget-wrap"><h4 class="widget-title widgettitle">Tags</h4>
-<div class="tagcloud"><a href="http://www.authorsure.com/tag/author-box" class="tag-link-16" title="4 topics" style="font-size: 22pt;">Author Box</a>
-<a href="http://www.authorsure.com/tag/byline" class="tag-link-10" title="4 topics" style="font-size: 22pt;">byline</a>
-<a href="http://www.authorsure.com/tag/html5" class="tag-link-8" title="1 topic" style="font-size: 8pt;">html5</a>
-<a href="http://www.authorsure.com/tag/menu" class="tag-link-9" title="1 topic" style="font-size: 8pt;">menu</a>
-<a href="http://www.authorsure.com/tag/relauthor" class="tag-link-7" title="4 topics" style="font-size: 22pt;">rel=author</a>
-<a href="http://www.authorsure.com/tag/relpublisher" class="tag-link-12" title="1 topic" style="font-size: 8pt;">rel=publisher</a></div>
+<div class="tagcloud"><a href="http://www.authorsure.com/tag/author-box" class="tag-link-16 tag-link-position-1" title="4 topics" style="font-size: 22pt;">Author Box</a>
+<a href="http://www.authorsure.com/tag/byline" class="tag-link-10 tag-link-position-2" title="4 topics" style="font-size: 22pt;">byline</a>
+<a href="http://www.authorsure.com/tag/html5" class="tag-link-8 tag-link-position-3" title="1 topic" style="font-size: 8pt;">html5</a>
+<a href="http://www.authorsure.com/tag/menu" class="tag-link-9 tag-link-position-4" title="1 topic" style="font-size: 8pt;">menu</a>
+<a href="http://www.authorsure.com/tag/relauthor" class="tag-link-7 tag-link-position-5" title="4 topics" style="font-size: 22pt;">rel=author</a>
+<a href="http://www.authorsure.com/tag/relpublisher" class="tag-link-12 tag-link-position-6" title="1 topic" style="font-size: 8pt;">rel=publisher</a></div>
 </div></section>
 </div><div class="footer-widgets-3 widget-area"><section id="advancedrecentposts-2" class="widget widget_advancedrecentposts"><div class="widget-wrap"><h4 class="widget-title widgettitle">From Our Blog</h4>
 <ul class="advanced-recent-posts"><li><span class="date"></span> <a href="http://www.authorsure.com/492/how-your-search-engine-results-could-look" title="How Your Search Engine Results Could Look">How Your Search Engine Results Could Look</a></li><li><span class="date"></span> <a href="http://www.authorsure.com/543/author-box-text-not-aligned-with-image" title="Author Box Text Not Aligned With Image">Author Box Text Not Aligned With Image</a></li><li><span class="date"></span> <a href="http://www.authorsure.com/609/author-page-makeover-more-layout-options" title="Author Page Makeover - More Layout Options">Author Page Makeover - More Layout Options</a></li><li><span class="date"></span> <a href="http://www.authorsure.com/622/skype-call-button-on-the-author-page" title="Skype Call Button on the Author Page">Skype Call Button on the Author Page</a></li><li><span class="date"></span> <a href="http://www.authorsure.com/719/welcome-to-google-authorship" title="Welcome To Google Authorship ">Welcome To Google Authorship </a></li></ul></div></section>
-</div></div></div><footer class="custom-footer" role="contentinfo" itemscope="itemscope" itemtype="http://schema.org/WPFooter"><section id="footer_copyright-2" class="widget widget_footer_copyright"><div class="widget-wrap"><div class="footer-return small return-center"><a rel="nofollow" href="#" onclick="window.scrollTo(0,0); return false;">Return To Top</a></div><div class="footer-credits small footer-center"><span class="footer-credits"><ul id="menu-footer-menu" class="menu"><li id="menu-item-896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-896"><a href="http://www.authorsure.com/changelog" itemprop="url">AuthorSure v2.1</a></li>
+</div></div></div><footer class="custom-footer" role="contentinfo" itemscope="itemscope" itemtype="http://schema.org/WPFooter"><section id="footer_copyright-2" class="widget widget_footer_copyright"><div class="widget-wrap"><div class="footer-return return-center small"><a rel="nofollow" href="#" onclick="window.scrollTo(0,0); return false;">Return To Top</a></div><div class="footer-credits footer-center single"><div class="footer-credits-menu small"><ul id="menu-footer-menu" class="menu"><li id="menu-item-896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-896"><a href="http://www.authorsure.com/changelog" itemprop="url">AuthorSure v2.1</a></li>
 <li id="menu-item-885" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-885"><a href="http://www.authorsure.com/about" itemprop="url">About</a></li>
 <li id="menu-item-887" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-429 current_page_item menu-item-887"><a href="http://www.authorsure.com/privacy" itemprop="url">Privacy</a></li>
 <li id="menu-item-888" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-888"><a href="http://www.authorsure.com/terms" itemprop="url">Terms</a></li>
-</ul></span>&nbsp;<span class="copyright">Copyright © 2011-2016 Purple Parasol</span><span><br><span class="address">PO Box 85&nbsp;·&nbsp;Hatherleigh&nbsp;·&nbsp;Okehampton&nbsp;·&nbsp;Devon&nbsp;·&nbsp;EX20 3WH&nbsp;·&nbsp;UK</span>&nbsp;<span class="telephone">+44 1837 811833</span></span></div></div></section><section id="footer_trademarks-2" class="widget widget_footer_trademarks"><div class="widget-wrap"><a href="http://www.captionpix.com" title="Easy captioning of Images"><img src="http://images.captionpix.com/layout/footer-graphic.png" alt="CaptionPix Plugin" title="Easy captioning of Images"></a>
+</ul></div><div class="footer-credits-copyright small"><span class="copyright">Copyright © 2011-2016 Purple Parasol</span></div><div class="footer-credits-contact small"><span class="address">PO Box 85&nbsp;·&nbsp;Hatherleigh&nbsp;·&nbsp;Okehampton&nbsp;·&nbsp;Devon&nbsp;·&nbsp;EX20 3WH&nbsp;·&nbsp;UK</span><span class="telephone">+44 1837 811833</span></div></div></div></section><section id="footer_trademarks-2" class="widget widget_footer_trademarks"><div class="widget-wrap"><a href="http://www.captionpix.com" title="Easy captioning of Images"><img src="http://images.captionpix.com/layout/footer-graphic.png" alt="CaptionPix Plugin" title="Easy captioning of Images"></a>
 <a href="http://www.slickrflickr.com/" title="Slickr Flickr WordPress Plugin for easy Flickr slideshows and galleries"><img src="http://images.diywebmastery.com/logos/slickr-flickr-logo.png" alt="Slickr Flickr Plugin" title="Slickr Flickr WordPress Plugin for easy Flickr slideshows and galleries"></a>
 <a href="http://www.subscriptionboss.com" title="Integrate Payment Recurring Payments with Infusionsoft Subscriptions and Payment Plans"><img src="http://images.diywebmastery.com/logos/subscriptionboss-logo.png" alt="SubscriptionBoss Plugin" title="Integrate Payment Recurring Payments with Infusionsoft Subscriptions and Payment Plans"></a>
 <a href="http://www.wpwhoosh.com" target="_blank"><img src="http://images.wpwhoosh.com/layout/wpwhoosh-header.png" alt="WP Whoosh PLugin"></a>
-</div></section></footer><!-- end .custom-footer --></div><script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=7026e80cda62e87d42a1f27e74ac5018"></script>
-<script type="text/javascript" src="http://www.authorsure.com/wp-includes/js/wp-embed.js?ver=7026e80cda62e87d42a1f27e74ac5018"></script>
-<script type="text/javascript" src="http://www.authorsure.com/wp-content/plugins/genesis-club-pro/slider/static/js/greensock.js?ver=7026e80cda62e87d42a1f27e74ac5018"></script>
-<script type="text/javascript" src="http://www.authorsure.com/wp-includes/js/jquery/jquery.js?ver=7026e80cda62e87d42a1f27e74ac5018"></script>
-<script type="text/javascript" src="http://www.authorsure.com/wp-includes/js/jquery/jquery-migrate.js?ver=7026e80cda62e87d42a1f27e74ac5018"></script>
-<script type="text/javascript" src="http://www.authorsure.com/wp-content/plugins/genesis-club-pro/slider/static/js/layerslider.kreaturamedia.jquery.js?ver=7026e80cda62e87d42a1f27e74ac5018"></script>
-<script type="text/javascript" src="http://www.authorsure.com/wp-content/plugins/genesis-club-pro/slider/static/js/layerslider.transitions.js?ver=7026e80cda62e87d42a1f27e74ac5018"></script>
-<script data-cfasync="false" type="text/javascript">var lsjQuery = jQuery;</script><script data-cfasync="false" type="text/javascript">
-lsjQuery(document).ready(function() {
-if(typeof lsjQuery.fn.layerSlider == "undefined") { lsShowNotice('layerslider_1','jquery'); }
-else {
-lsjQuery("#layerslider_1").layerSlider({skinsPath: 'http://www.authorsure.com/wp-content/home/wpbutton/public_html/wp-content/plugins/genesis-club-pro/slider/static/skins/'})
-}
-});
-</script><script type="text/javascript" src="http://stats.wp.com/e-201611.js" async="" defer=""></script>
+</div></section></footer><!-- end .custom-footer --></div><script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201648"></script>
+<script type="text/javascript" src="http://www.authorsure.com/wp-includes/js/wp-embed.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://stats.wp.com/e-201648.js" async="" defer=""></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:3.9.4',blog:'32761294',post:'429',tz:'0',srv:'www.authorsure.com'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:4.3.2',blog:'32761294',post:'429',tz:'0',srv:'www.authorsure.com'} ]);
 	_stq.push([ 'clickTrackerInit', '32761294', '429' ]);
 </script>
-
 
 </body></html>
