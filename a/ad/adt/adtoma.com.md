@@ -1,72 +1,81 @@
-> *The following text is extracted and transformed from the adtoma.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118000039id_/http%3A//www.adtoma.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtoma.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201102551id_/http%3A//www.adtoma.com/privacy) for the most accurate reproduction.*
 
-# Adtoma AB | Privacy Policy
+# Privacy Policy – Adtoma AB
 
-[ ](https://web.archive.org/)
+## **Signia Group Privacy Policy  **
 
-* * *
+##### Updated: 6th of July 2016
 
-  
+The Signia Group (Consisting of the companies Signia Creative Intelligence AB, Adtoma AB, Admore Mediasales AB, 500 Magazines AB and Dagens PS AB) is committed to the protection of personal information of the users of its websites. Signia Group Staff and external processors who have access to personal information, and are associated with the processing of that information, are obligated to respect the privacy and confidentiality of information. This Privacy Policy is only applicable to the websites operated by the Signia Group in Europe and where the servers are located in Europe.
 
+### What is personal data and other definitions
 
-Please note that Adtoma’s privacy practices as described below do not apply to the privacy policies or practices of other Adtoma affiliates.
+**Personal data** shall mean any information relating to an identified or identifiable natural person; an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his or her physical, physiological, mental, economic, cultural or social identity;
 
-## Privacy Policy for Information Use at this Website
+**Processing of personal data** shall mean any operation or set of operations which is performed upon personal data, whether or not by automatic means, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction.
 
-www.adtoma.com  
-Effective Date 01/05/2010
+**The data subject’s consent** shall mean any freely given specific and informed indication of his or her wishes by which the data subject signifies his or her agreement to personal data relating to him or her being processed.
 
-Adtoma provide business systems for publishers to manage their digital advertising sales and delivery.
+### Information Collection
 
-Click here for more information about our products and services.
+If you visit Signia Group websites to read or download information, the Signia Group collects and stores only the following information that is automatically recognized: the date and time, the originating IP address, the domain name, the type of browser and operating system used (if provided by the browser), the URL of the referring page (if provided by the browser), the object requested and the completion status of the request.
 
-If you have questions regarding this statement about how information is collected and used at this website, you should contact [info@adtoma.com](mailto:info@adtoma.com) by clicking on the link.
+More information is collected and logged for advanced features, such as placing an order on Signia Group web servers for online payments, downloading, subscribing to a Signia Group newsletter or using the personalization features.
 
-Adtoma’s main offices are located at:
+### **  
+** Use of Collected Information
 
-Nybrogatan 15  
-114 39, Stockholm  
-Sweden
+Anonymous information is collected from visits to Signia Group websites to measure user activity on these websites. This includes analyzing these logs periodically to measure the traffic through the servers, the number of pages visited and the level of demand for pages and topics of interest, and to help the Signia Group provide better customer service. The logs may be preserved indefinitely and used at any time and in any way to prevent security breaches and to ensure the integrity of the data on the servers. This information is collected through the use of various technologies, including “cookies”.
 
-## COLLECTION AND USE OF PERSONAL INFORMATION
+Moreover, the following information is associated with the cookie: IP address, session number, customer ID (first name, last name and job function) and identification number for online payments, if used. If the user has chosen to “remember login and password”, those two items are encrypted and also associated with the cookie. When a registered user returns to the site without logging in, the ID stored in the cookie is used to track the user (unless the user manually deleted the cookie, at which point the server will automatically create another cookie upon next login if the user choses the “remember login and password” option). If you do not want your transaction details used in this manner, you can disable cookies in your browser. (For more information see Cookie Policy).
 
-You may be asked to provide personal information in certain fields on this website. The personal information collected on this site is used for the purpose for which it is requested:
+Please note that the personal information recorded when you voluntarily registered, is extracted in an anonymous format and then analyzed at an aggregate level to help the Signia Group understand trends and patterns. None of this information is reviewed at an individual level, nor associated with any other personal information.
 
-  1. Resumes are requested for job applicants and are used to evaluate the candidate. Resumes are not used for any other purpose and are not shared with any entity unrelated to Adtoma. Resumes for individuals not hired are disposed of when they are either no longer under consideration or are considered outdated (usually no longer than one year).
-  2. Contact information for potential clients or persons seeking business information is collected in order to contact those persons to provide information about our services. This information may be stored on our servers in the United States. Such information is usually deleted as space requires or in the normal course of business, but can be amended or deleted upon request. To update your information, please contact your account manager or sales representative.
-  3. Contact information, such as your name, address, telephone number, or email address, submitted by existing customers with questions, concerns, complaints, or technical support questions, is used only to respond to those inquiries. This contact information may be stored on our servers in the United States. Such information is usually deleted as space requires or in the normal course of business. To update your information, please contact your account manager.
-  4. When you sign up for an email newsletter or alerts about our products and services, Adtoma will use your email address to deliver the newsletter or alerts requested.
-  5. In order to obtain materials for certain materials directly from our website, you have to register at this site. During the registration process, you may be asked for certain information, which may include your name, your email address, the company for which you work, and your country. This registration information is used to validate users when they visit the site. It is also used to send you additional promotional information about our services.
+### How do we treat e-mails you send us?
 
+Many of our web pages have a “Contact” button, which sometimes activates your e-mail software and invites you to send your comments to a specific functional mailbox, or communicate with us.  
+When you send such a message, your personal data is collected only to the extent necessary to reply. If the management team of the mailbox is unable to answer your question, it will forward your e-mail to another service.  
+If you have any questions about the processing of your e-mail and related personal data, do not hesitate to include them in your message.
 
+### **  
+** Your Choice
 
-## COLLECTION AND USE OF NON-PERSONAL INFORMATION
+Registration on Signia Group websites is optional. If you choose not to register or actively provide personal information, you can still use Signia Group websites. However, certain features that require registration may be unavailable (for example, online purchases or e-mail alerts).
 
-The Adtoma.com website uses cookies. A “cookie” is a small text file that contains a string of alphanumeric characters. There are two types of cookies that may be used at the Adtoma.com website: a persistent cookie and a session cookie. A persistent cookie gets entered by your Web browser into the “Cookies” folder on your computer and remains in this “Cookies” folder after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. A session cookie is held temporarily in your computer’s memory and disappears after you close your browser or shut off your computer. The Adtoma.com website may also use Web beacons (also called “clear GIFs” or “pixel tags”) in conjunction with cookies. Web beacons are small strings of code that are placed in a Web page.
+Signia Group websites may enable you to communicate with other users and to post information accessible by others. You should be aware that when you choose to use these services, Signia Group has no control over the use of this information by these users.
 
-If you have arrived at this website by clicking on a banner ad for one of our products or services, a session cookie may be used. This cookie will contain an identification number for the ad that you clicked on, or will contain an identification number for the site that you were visiting when you clicked on the banner ad. This session cookie helps Adtoma’s Marketing Department determine which of our ads attract the most visitors. If, after you arrive at our site, you choose to request further information from us about our products and services, the personal information that you provide in that request will be linked to the information in the session cookie. This also helps Adtoma’s Marketing Department measure the effectiveness of our advertising. This “linking” will not be used to target future advertisements to you or to send you emails about future goods and services. You will receive emails about our products only if you tell us on the product request page that you want us to send them to you. Because this is a session cookie, it will disappear once you have closed your browser. If you return to our site via another one of our ads, you will appear as a new visitor unless and until you provide further personal information.
+You may also choose to receive promotional or marketing information from other organizations. When you do so, the Signia Group will only disclose your name and physical and electronic addresses to them. However, you should note that these organizations may follow privacy policies and practices which may be different from those of the Signia Group. At any time you can ask the Signia Group not to further disclose your name and addresses by sending an e-mail to the relevant contacts indicated on the website where you registered.
 
-The Adtoma.com website may use persistent cookies, Web beacons and information collected in our log files (such as Internet Protocol Address, referring URLs, etc.) about your activity at this site to better understand how the website is used, resolve technical problems, and enhance your experience at this site. Information from website analysis cookies or about website usage is not combined with information from any other Adtoma cookie. We use a third-party email technology to send emails that you have agreed to receive. Web beacons are used in those email messages to measure the effectiveness of our advertising.
+When you log in to any of the Signia Group websites, Signia Group provides a personalized URL (link) that brings you to a personalized web page. By using this option, you agree to let Signia Group collect information about your session visits. This information helps the Signia Group provide you with information that matches your interests.
 
-In addition, Adtoma may serve ads on this and other websites using our own or third party ad-serving technology. In doing so, one of our ad servers will place or read a unique ad-serving cookie on your computer and will use non-personal information about your browser and your activity at this site to serve ads on this and other sites. The ad-serving cookie is a persistent cookie.
+### **  
+** Links
 
-## INFORMATION SHARING OR DISCLOSURE
+Throughout the Signia Group websites, you may find links to other third-party websites. Please note that the Signia Group is not responsible for the privacy policies or content on third-party websites.
 
-In the event that we contract with a third party to provide some part of the information or service that you have requested, Adtoma may provide your information to such third party, or such third party may collect information from you on our behalf. By written agreement, these third parties are required to implement similar security measures and to process your information only as authorized by Adtoma to fulfill the service(s) that they have been contracted to provide. Other than these entities, who act on our behalf, information you provide at this site will not be transferred to unrelated third parties, unless we have your permission to do so. However, please note that personal information provided to this site may be subject to disclosure pursuant to judicial or other government subpoenas, warrants or orders.
+Signia Group websites may also include links to third-party web servers for online payments, which may have different privacy policies. You are therefore encouraged to review their privacy policies, when visiting these websites.
 
-## CONFIDENTIALITY AND SECURITY
+### How long do we keep your data?
 
-Adtoma has implemented reasonable security measures in order to protect both personal and non-personal information from loss, misuse and unauthorized access, disclosure, alteration or destruction. Our employees are made aware of and are accountable for compliance with these procedures.
+We keep data only as long as necessary for the purpose the data is collected.
 
-## CHANGES TO THIS PRIVACY POLICY
+### **  
+** Individual Access and Right to Correction
 
-We may amend this privacy policy from time to time as we add new products and services, as we improve our current offerings, and as technologies change. If we make any material or substantive changes in our treatment of information collected at this site ([www.adtoma.com](http://www.adtoma.com/)), we will notify you by posting a clear and conspicuous notice of these changes on our website and in this privacy policy.
+You can ask the Signia Group whether it is keeping personal information about you, and you can also request to receive a copy of that personal information. As a safeguard against abuse the Signia Group will ask you to provide proof of your identity before providing you with any personal information. If you are not able to do so, the Signia Group reserves the right to refuse to send you the personal information.
 
-## CHANGES IN CORPORATE STRUCTURE
+You may request at any time that the Signia Group corrects your personal information in its records. You may also request the deletion of such information, except when it has been collected for a specific purpose for which you have given your consent, for the performance of a contract to which you are a party, or in order to comply with a legal obligation. For such requests, please send an e-mail to the relevant contacts indicated on the website where you registered.
 
-If all or part of the company is sold, merged or otherwise transferred to another entity, the information that you have provided at this site may be transferred as part of that transaction. However, Adtoma will take reasonable steps to assure that such information is used in a manner consistent with the Adtoma privacy policy under which it was collected.
+### **  
+** Notification of Changes
 
-  
+As the Signia Group creates new services that may generate a need to amend this privacy policy statement, you will find here the previous privacy policy statement.
 
+### Privacy Support
 
-* * *
+If you have any inquiries about our privacy policy statement, please contact:  
+Signia Creative Intelligence AB  
+Narvavägen 7, SE-114 60 Stockholm, Sweden  
+E-mail: [info@signia.se](mailto:info@signia.se)
+
+This website uses cookies to improve your experience. [Privacy Policy](http://www.adtoma.com/privacy/) We'll assume you're ok with this, but you can opt-out if you wish. Accept
