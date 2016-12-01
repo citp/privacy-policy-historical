@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the buildtraffic.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603192721id_/http%3A//buildtraffic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildtraffic.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201212604id_/http%3A//buildtraffic.com/privacy.html) for the most accurate reproduction.*
 
 # BuildTraffic.com - Privacy Policy
 
-| [](https://web.archive.org/web/20160603192721id_/http%3A//buildtraffic.com/index.html "Back to Home") |   
+| [](https://web.archive.org/web/20161201212604id_/http%3A//buildtraffic.com/index.html "Back to Home") |   
 ---|---  
   
   
