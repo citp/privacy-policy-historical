@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hdwallpaperia.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324213348id_/http%3A//hdwallpaperia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpaperia.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201071604id_/http%3A//hdwallpaperia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - High Definition : Widescreen Wallpapers
+# Privacy Policy – High Definition : Widescreen Wallpapers
 
 It is our intention at **hdwallpaperia.com** to manage your personal information in an open and transparent way.
 
