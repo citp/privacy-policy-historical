@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the playoverwatch.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627160334id_/http%3A//us.blizzard.com/company/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playoverwatch.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201122934id_/http%3A//us.blizzard.com/company/about/privacy.html) for the most accurate reproduction.*
 
 # Blizzard Entertainment:Privacy Policy
+
+Privacy Policy 
+
+Privacy Policy 
 
 ### Blizzard Entertainment® Online Privacy Policy
 
