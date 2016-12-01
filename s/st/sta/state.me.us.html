@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the state.me.us privacy policy that was archived on 2016-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160603012140id_/http%3A//www.maine.gov/portal/policies/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the state.me.us privacy policy that was archived on 2016-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161201034315id_/http%3A//www.maine.gov/portal/policies/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us" dir="ltr" class="no-js"><!-- InstanceBegin template="/Templates/inside2016.dwt" codeOutsideHTMLIsLocked="false" --><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -86,9 +86,43 @@
 			<li><a href="/portal/help/index.html" class="help">Help</a></li>
 			<!-- put this code where you'd like your intranet link to appear -->
 
-                        
-                        
-                        
+                        <!--#set var="intranet" value="false" -->
+                        <!--#if expr="$HTTP_X_FORWARDED_FOR=/24\.39\.63\./" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/24\.39\.63\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED=/192\.168\.[0-9]+\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/192\.168\.[0-9]+\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/10\.[0-9]+\.[0-9]+\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/10\.[0-9]+\.[0-9]+\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/198\.182\.162\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/198\.182\.162\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/198\.182\.163\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/198\.182\.163\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/72\.12\.82\.97/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/72\.12\.82\.106/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/72\.12\.82\.97/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/72\.12\.82\.106/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/172\.21\.(128|129|130|131|132|133|134|135)\./" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/172\.21\.(128|129|130|131|132|133|134|135)\./" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#endif -->
+                        <!--#if expr="$intranet = true" -->
+                                <li class="intranet-flag"><a href="http://inet.state.me.us">Intranet</a></li>
+                        <!--#endif -->
 
 
 
@@ -98,7 +132,6 @@
 </div> <!--End Header-->
 <div id="content" class="clearfix">
 	
-
 	<div id="navigation" class="sb-slidebar sb-left">
 		<div id="sidesearch">
 			<div id="searchbg">
@@ -124,9 +157,43 @@
 			<li class="nav-about"><a href="/portal/about_me/">About Maine</a></li>
 			 <!-- put this code where you'd like your intranet link to appear -->
                         
-                        
-                        
-                        
+                        <!--#set var="intranet" value="false" -->
+                        <!--#if expr="$HTTP_X_FORWARDED_FOR=/24\.39\.63\./" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/24\.39\.63\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED=/192\.168\.[0-9]+\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/192\.168\.[0-9]+\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/10\.[0-9]+\.[0-9]+\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/10\.[0-9]+\.[0-9]+\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/198\.182\.162\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/198\.182\.162\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/198\.182\.163\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/198\.182\.163\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/72\.12\.82\.97/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/72\.12\.82\.106/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/72\.12\.82\.97/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/72\.12\.82\.106/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/172\.21\.(128|129|130|131|132|133|134|135)\./" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/172\.21\.(128|129|130|131|132|133|134|135)\./" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#endif -->
+                        <!--#if expr="$intranet = true" -->
+                                <li class="nav-intranet"><a href="http://inet.state.me.us">Intranet</a></li>
+                        <!--#endif -->
 
 
 
@@ -271,7 +338,7 @@
 				<li><a href="/portal/CAS/">Citizen Alert System</a></li>
 				<li><a href="/portal/subscriptions/email.html">Email/Text Alerts</a></li>
 				<li><a href="http://www.211maine.org/">211 Maine</a></li>
-				<li><a href="http://www.511maine.gov/">511 Maine</a></li>
+				<li><a href="http://www.newengland511.org/">511 Maine</a></li>
 				<li><a href="http://www.maine911.com/">911 Maine</a></li>
 			</ul>
 			<h3>Tools</h3>
@@ -282,21 +349,7 @@ function googleTranslateElementInit() {new google.translate.TranslateElement({pa
 	<div class="footer-column fcflickr">
 		<h3>Share Your Photos with Maine.gov</h3>
 		<!-- Change the line below to flickr_2015.html from flickr.html--> 
-		
-<div id="carousel" class="es-carousel-wrapper">
-<div class="es-carousel">
-<ul>
-<li id="fimage"><a href="https://www.flickr.com/photos/grsmithimages/24965538034/"><img style="zIndex:4999" class="hovahpopovah" id="24965538034" title="Late Afternoon Kezar Lake" data-who="GR Smith" src="https://farm2.staticflickr.com/1454/24965538034_c23533f3a2_q.jpg"></a></li>
-<li id="fimage"><a href="https://www.flickr.com/photos/65039623@N05/26392987581/"><img style="zIndex:4999" class="hovahpopovah" id="26392987581" title="Intrepid Explorers on the Golf Course" data-who="massbat (moved to Maine)" src="https://farm2.staticflickr.com/1537/26392987581_58e8298824_q.jpg"></a></li>
-<li id="fimage"><a href="https://www.flickr.com/photos/minidoxie/24944721033/"><img style="zIndex:4999" class="hovahpopovah" id="24944721033" title="Perkins Cove" data-who="erich352011" src="https://farm2.staticflickr.com/1639/24944721033_e304bbfc42_q.jpg"></a></li>
-<li id="fimage"><a href="https://www.flickr.com/photos/vickilundphotography/24887746782/"><img style="zIndex:4999" class="hovahpopovah" id="24887746782" title="Happy Fence Saturday" data-who="Vicki Lund Photography" src="https://farm2.staticflickr.com/1630/24887746782_3c6c89a556_q.jpg"></a></li>
-<li id="fimage"><a href="https://www.flickr.com/photos/65039623@N05/25156332743/"><img style="zIndex:4999" class="hovahpopovah" id="25156332743" title="SS Crusher" data-who="massbat (moved to Maine)" src="https://farm2.staticflickr.com/1581/25156332743_44db437c5e_q.jpg"></a></li>
-<li id="fimage"><a href="https://www.flickr.com/photos/89837144@N03/24964666905/"><img style="zIndex:4999" class="hovahpopovah" id="24964666905" title="Winter in Maine" data-who="JBPTrains2012" src="https://farm2.staticflickr.com/1564/24964666905_d2581d51a3_q.jpg"></a></li>
-
-</ul>
-</div>
-</div>
-
+		<!--#include virtual="/portal/inc/flickr_2015.inc" -->
 		<p><a href="http://www.flickr.com/groups/mainegov/pool/">Visit our photo stream</a></p>
 		<div class="visitmaine">
 			<p><br>
