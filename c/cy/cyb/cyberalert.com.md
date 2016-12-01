@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberalert.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615000932id_/http%3A//www.cyberalert.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberalert.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201045804id_/http%3A//www.cyberalert.com/privacy_policy.html) for the most accurate reproduction.*
 
 # CyberAlert®: Press Clipping, Broadcast Monitoring, and Web Clipping Service
 
