@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goashipyard.co.in privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602012708id_/http%3A//www.goashipyard.co.in/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goashipyard.co.in privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201071734id_/http%3A//goashipyard.co.in/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy : Goa Shipyard
 
