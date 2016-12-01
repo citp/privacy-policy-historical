@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopfactorydirect.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621212502id_/http%3A//shopfactorydirect.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopfactorydirect.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201113257id_/http%3A//shopfactorydirect.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Shop Factory Direct - Furniture, Bedroom Sets, Living Room, Dining Room, Bathroom, Portable Spas
+# Shop Factory Direct - Furniture, Bedroom, Living Room, Dining Room, Bathroom
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
 
@@ -34,4 +34,4 @@ Our site collects information using an order form for interested parties to requ
 **Legal Disclaimer**  
 We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, or to comply with a legal process served on our Web site.
 
-**Use of this site constitutes acceptance of our Terms of Use. Copyright 2007 - 2013 by ShopFactoryDirect Inc. All rights reserved.**
+**Use of this site constitutes acceptance of our Terms of Use. Copyright 2007 - 2016 by ShopFactoryDirect Inc. All rights reserved.**
