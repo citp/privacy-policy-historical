@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the cepro.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509004907id_/http%3A//www.cepro.com/site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cepro.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201125805id_/http%3A//www.cepro.com/site/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - CE Pro
 
 ## EH Publishing, Inc. is committed to protecting your privacy to ensure a safe and enjoyable online experience.
 
-**EH Publishing, Inc.**  
+**EH Publishing, Inc. d.b.a EH Media**  
 **Privacy Policy**  
-**Latest Revision: March 2016**
+**Latest Revision: October 2016**
 
-Our site visitors' privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site. This Privacy Policy describes the policies of the publishers of this web site, EH Publishing, Inc., ("EH" or "we"), and its divisions, regarding the collection, use, disclosure and protection of the following types of information:
+Our site visitors' privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site. This Privacy Policy describes the policies of the publishers of this web site, EH Publishing, Inc. d.b.a EH Media, ("EH" or "we"), and its divisions, regarding the collection, use, disclosure and protection of the following types of information:
 
-  * Information obtained when you ("you" or "User") visit EH Publishing, Inc.’s network of web sites. (this "Site", including CommercialIntegrator.com, CEPro.com, CampusSafetyMagazine.com, SecuritySales.com, ElectronicHouse.com, prosoundweb.com, mnec.com, mmh.com, logisticsmgmt.com, scmr.com, supplychain247.com and all TechDecisions Websites (k-12, HigherEd, Corporate,)), worshipfacilities.com, worshiptechdirector.com.
+  * Information obtained when you ("you" or "User") visit EH Publishing, Inc. d.b.a EH Media’s network of web sites. (this "Site", including CommercialIntegrator.com, CEPro.com, CampusSafetyMagazine.com, SecuritySales.com, ElectronicHouse.com, prosoundweb.com, mnec.com, mmh.com, logisticsmgmt.com, scmr.com, supplychain247.com and all TechDecisions Websites (k-12, HigherEd, Corporate,)), worshipfacilities.com, worshiptechdirector.com.
   * Information collected at branded landing pages (not necessarily on our domains) related to each of the site(s), and information collected at 3rd party sites (such as Facebook) with your consent.
   * Information obtained through e-mail communications with you related to the site(s).
 
@@ -38,18 +38,18 @@ We use Personally Identifiable Information collected on this Site for the follow
 
 
 
-We also may use your information to better understand our Users and to improve our Site. For example, we may use this information to determine what portions of this Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site. We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of this Site. We may use the information you provide us to send you e-mail, fax and other communications on behalf of EH Publishing, Inc., and our affiliates. These communications may include e-mail newsletters, as well as offers for other EH Publishing, Inc. services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from EH Publishing, Inc . We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us.
+We also may use your information to better understand our Users and to improve our Site. For example, we may use this information to determine what portions of this Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site. We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of this Site. We may use the information you provide us to send you e-mail, fax and other communications on behalf of EH Publishing, Inc., and our affiliates. These communications may include e-mail newsletters, as well as offers for other EH Publishing, Inc. d.b.a EH Media services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from EH Publishing, Inc. d.b.a EH Media We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us.
 
 ### Disclosing of Your Information: To Whom and When
 
 We may disclose aggregated, anonymous statistics about many Users, and individual information that is not Personally Identifiable Information without restriction as long as no individual is identifiable by the information disclosed, and otherwise will not disclose your Personally Identifiable Information except as follows:
 
   * Name and/or business name and title (but not information by which you may be contacted (i.e. name, postal address, telephone number, fax number and e-mail address ) in representative lists of our magazine circulation and/or web site membership, but not for further use or dissemination by the recipient.
-  * Portions of this Site and any connected, branded or affiliated landing pages may be provided as "Premium" or "Sponsored" content. Premium or Sponsored content, including downloads and resources are made available to Users on the condition that we may share certain portions of the User's registration information (generally email and other direct contact information) with the Premium or Sponsored content's sponsors and advertisers, and/or their service providers. We will always disclose when you are registering or being provided with Premium or Sponsored content. EH Publishing’s sponsors and advertisers are contractually obligated to provide a method for our users to unsubscribe or opt-out from any further communications.
+  * Portions of this Site and any connected, branded or affiliated landing pages may be provided as "Premium" or "Sponsored" content. Premium or Sponsored content, including downloads and resources are made available to Users on the condition that we may share certain portions of the User's registration information (generally email and other direct contact information) with the Premium or Sponsored content's sponsors and advertisers, and/or their service providers. We will always disclose when you are registering or being provided with Premium or Sponsored content. EH Publishing, Inc. d.b.a EH Media’s sponsors and advertisers are contractually obligated to provide a method for our users to unsubscribe or opt-out from any further communications.
   * To other third parties (and/or to their service providers on their behalf) to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. Third parties are contractually obligated to provide you with the ability to unsubscribe, or opt-out of any further communications.
-  * To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving EH Publishing, Inc. or this Site.
+  * To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving EH Publishing, Inc. d.b.a EH Media or this Site.
   * When we believe such disclosure is required by law, regulation or securities exchange requirement or for the protection of persons or property. Disclosure is necessary to accomplish the purpose for which you provide it.
-  * To other EH Publishing, Inc. member companies for any uses consistent with those disclosed in this Privacy Policy.
+  * To other EH Publishing, Inc. d.b.a. EH Media member companies for any uses consistent with those disclosed in this Privacy Policy.
 
 
 
@@ -61,13 +61,13 @@ We use reasonable safeguards to protect Personally Identifiable Information we c
 
 You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, or by contacting us directly. However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process.
 
-### Links to Non-EH Publishing Sites
+### Links to Non-EH Publishing d.b.a EH Media Sites
 
 This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites.
 
 ### Our sites are owned and operated by:
 
-EH Publishing, Inc. 111 Speen St., Framingham, MA 01701
+EH Publishing, Inc. d.b.a EH Media 111 Speen St., Framingham, MA 01701
 
 508-663-1500
 
