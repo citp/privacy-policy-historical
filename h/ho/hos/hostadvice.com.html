@@ -1,25 +1,26 @@
-<!--The following is the downloaded HTML source of the hostadvice.com privacy policy that was archived on 2016-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160515111659id_/http%3A//hostadvice.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hostadvice.com privacy policy that was archived on 2016-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161202002925id_/https%3A//hostadvice.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" class="language-en is-ltr"><head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
             <meta name="viewport" content="width=device-width">
-        <base href="http://hostadvice.com">
+        <base href="https://hostadvice.com">
     <meta name="msvalidate.01" content="8796E4069B454ECD85084E94D2FD4BF5">
     <meta name="msvalidate.01" content="8048B43DF18CCE001C350CB8B37B1A60">
     <meta name="msvalidate.01" content="C328ADBA2532CD540C812CADFE347783">
 
     
     <link rel="profile" href="http://gmpg.org/xfn/11">
-    <link rel="pingback" href="http://hostadvice.com/xmlrpc.php">
+    <link rel="pingback" href="https://hostadvice.com/xmlrpc.php">
 
     <link href="/favicon.png?v=4" rel="shortcut icon" type="image/x-icon">
+    <link href="/notifications/manifest.json" rel="manifest">
 
     <!--[if IE]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-            <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+            <script type="text/javascript">
             window['translations']={};window['translations']["Read More"]='Read More';
 window['translations']["Less"]='Less';
 window['translations']["More"]='More';
@@ -87,16 +88,16 @@ window['translations']["ad_topbar_button_text"]='Check';
 
         </script>
     
-<!-- This site is optimized with the Yoast SEO plugin v3.2.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v3.3.4 - https://yoast.com/wordpress/plugins/seo/ -->
 <title>Privacy Policy | Host Advice</title>
-<link rel="canonical" href="http://hostadvice.com/privacy-policy/">
+<link rel="canonical" href="https://hostadvice.com/privacy-policy/">
 <link rel="publisher" href="https://plus.google.com/102359238660843185047/posts">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="website">
-<meta property="og:image" content="http://hostadvice.com/wp-content/themes/bestwh/img/social-default.png">
+<meta property="og:image" content="https://static.hostadvice.com/wp-content/themes/bestwh/img/social-default.png">
 <meta property="og:title" content="Privacy Policy | Host Advice">
 <meta property="og:description" content="What information do we collect? You may choose to visit our site anonymously; however, when you register on our site, place an order, subscribe to our newsletter, respond to a survey, or fill out a form, we collect pertinent information. You may be asked to enter your name, e-mail address, mailing address, phone number, or [...]Continue →">
-<meta property="og:url" content="http://hostadvice.com/privacy-policy/">
+<meta property="og:url" content="https://hostadvice.com/privacy-policy/">
 <meta property="og:site_name" content="Host Advice">
 <meta property="fb:app_id" content="1620716398209793">
 <meta name="twitter:card" content="summary">
@@ -104,25 +105,26 @@ window['translations']["ad_topbar_button_text"]='Check';
 <meta name="twitter:title" content="Privacy Policy | Host Advice">
 <meta name="twitter:site" content="@hostadvicecom">
 <meta name="twitter:creator" content="@hostadvicecom">
-<meta name="twitter:image" content="http://hostadvice.com/wp-content/themes/bestwh/img/social-default.png">
+<meta name="twitter:image" content="https://static.hostadvice.com/wp-content/themes/bestwh/img/social-default.png">
 <!-- / Yoast SEO plugin. -->
 
-<link rel="alternate" type="application/rss+xml" title="Host Advice » Feed" href="http://hostadvice.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="Host Advice » Comments Feed" href="http://hostadvice.com/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title="Host Advice » Privacy Policy Comments Feed" href="http://hostadvice.com/privacy-policy/feed/">
-<link rel="stylesheet" id="fonts-css" href="http://hostadvice.com/wp-content/themes/bestwh/fonts.css?ver=3.1.63" type="text/css" media="all">
-<link rel="stylesheet" id="style-default-css" href="http://hostadvice.com/wp-content/themes/bestwh/style.css?ver=3.1.63" type="text/css" media="all">
-<link rel="https://api.w.org/" href="http://hostadvice.com/wp-json/">
+<link rel="alternate" type="application/rss+xml" title="Host Advice » Feed" href="https://hostadvice.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Host Advice » Comments Feed" href="https://hostadvice.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Host Advice » Privacy Policy Comments Feed" href="https://hostadvice.com/privacy-policy/feed/">
+<link rel="stylesheet" id="fonts-css" href="https://hostadvice.com/wp-content/themes/bestwh/fonts.css?ver=3.3.8.8" type="text/css" media="all">
+<link rel="stylesheet" id="style-default-css" href="https://static.hostadvice.com/wp-content/themes/bestwh/style.css?ver=3.3.8.8" type="text/css" media="all">
+<link rel="https://api.w.org/" href="https://hostadvice.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://hostadvice.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://hostadvice.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.4.3">
-<link rel="shortlink" href="http://hostadvice.com/?p=561">
-<link rel="alternate" type="application/json+oembed" href="http://hostadvice.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fhostadvice.com%2Fprivacy-policy%2F">
-<link rel="alternate" type="text/xml+oembed" href="http://hostadvice.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fhostadvice.com%2Fprivacy-policy%2F&amp;format=xml">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://static.hostadvice.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.5.4">
+<link rel="shortlink" href="https://hostadvice.com/?p=561">
+<link rel="alternate" type="application/json+oembed" href="https://hostadvice.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhostadvice.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://hostadvice.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhostadvice.com%2Fprivacy-policy%2F&amp;format=xml">
     <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/jojicnfhgajfeddfalfahidfeicmmdgo">
-    
+    <style type="text/css" id="syntaxhighlighteranchor"></style>
+
     <script type="text/javascript">
-        var ajaxUrl_ht = 'http://hostadvice.com/wp-admin/admin-ajax.php';
+        var ajaxUrl_ht = 'https://hostadvice.com/wp-admin/admin-ajax.php';
     </script>
 
     <meta name="google-site-verification" content="5znn6Dk06kyiORnUsqdaN8-1H9Z14cBAKz3AJFI8TL4">
@@ -134,12 +136,12 @@ window['translations']["ad_topbar_button_text"]='Check';
        "@context" : "http://schema.org",
        "@type" : "WebSite",
        "name" : "Host Advice",
-       "url" : "http://hostadvice.com/"
+       "url" : "https://hostadvice.com/"
     }
     </script>
 
     
-<script async="" type="text/javascript" src="//hostadvice.disqus.com/count.js"></script><script async="" src="//static.hotjar.com/c/hotjar-108612.js?sv=5"></script><script type="text/javascript" charset="utf-8" async="" defer="" src="https://front.optimonk.com/public/9750/js/preload.js"></script></head>
+<script async="" type="text/javascript" src="//hostadvice.disqus.com/count.js"></script></head>
 
 
 <body class="page page-id-561 page-template page-template-page-templates page-template-common-page page-template-page-templatescommon-page-php language-en is-ltr">
@@ -148,7 +150,7 @@ window['translations']["ad_topbar_button_text"]='Check';
 <div id="fb-root"></div>
 
 <script type="application/ld+json">
-{"@context":"http:\/\/schema.org","@type":"Organization","name":"Host Advice","alternateName":"Host Advice","url":"http:\/\/hostadvice.com\/","logo":"http:\/\/hostadvice.com\/wp-content\/themes\/bestwh\/img\/logo2.png","sameAs":["https:\/\/www.facebook.com\/hostadvice","https:\/\/plus.google.com\/+Hostadvice","https:\/\/twitter.com\/hostadvicecom"]}</script>
+{"@context":"http:\/\/schema.org","@type":"Organization","name":"Host Advice","alternateName":"Host Advice","url":"https:\/\/hostadvice.com\/","logo":"https:\/\/hostadvice.com\/wp-content\/themes\/bestwh\/img\/logo2.png","sameAs":["https:\/\/www.facebook.com\/hostadvice","https:\/\/plus.google.com\/+Hostadvice","https:\/\/twitter.com\/hostadvicecom"]}</script>
 <div class="body_inner clearfix">
     <div class="ajax-loader-overlay"></div>
     <div class="container no-xs-padding">
@@ -161,139 +163,350 @@ window['translations']["ad_topbar_button_text"]='Check';
                 <i class="fa fa-search fa-flip-horizontal"></i>
             </button>
             
-            <a class="logo" href="http://hostadvice.com/" title="Host Advice" rel="home">
-                <img src="http://hostadvice.com/wp-content/themes/bestwh/img/logo.png" alt="Host Advice">
+            <a class="logo" href="https://hostadvice.com/" title="Host Advice" rel="home">
+                <img src="https://static.hostadvice.com/wp-content/themes/bestwh/img/logo.png" alt="Host Advice">
             </a>
 
             <div class="language-selector">
                 <div class="current-language">
-                    en<span class="flag flag-en"></span>
+                    en<span class="flag flag-gb"></span>
                 </div>
-                <div class="available-languages">
-                    
-                        
-                                                <a href="http://ru.hostadvice.com/privacy-policy/" title="русский">
-                            <span class="flag flag-ru"></span>
-                        </a>
-                    
-                                                <a href="http://es.hostadvice.com/privacy-policy/" title="español">
+                                <!-- languages selector -->
+                <div class="available-languages row">
+                                            <a href="javascript:void(0)" title="English" class="col-xs-4 col-sm-3 header-language-select selected-language">
+                            <span class="flag flag-gb"></span>
+                            English                        </a>
+                                            <a href="https://es.hostadvice.com/privacy-policy/" title="español" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-es"></span>
-                        </a>
-                    
-                                                <a href="http://fr.hostadvice.com/privacy-policy/" title="français">
+                            español                        </a>
+                                            <a href="https://ru.hostadvice.com/privacy-policy/" title="русский" class="col-xs-4 col-sm-3 header-language-select ">
+                            <span class="flag flag-ru"></span>
+                            русский                        </a>
+                                            <a href="https://fr.hostadvice.com/privacy-policy/" title="français" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-fr"></span>
-                        </a>
-                    
-                                                <a href="http://it.hostadvice.com/privacy-policy/" title="italiano">
+                            français                        </a>
+                                            <a href="https://it.hostadvice.com/privacy-policy/" title="italiano" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-it"></span>
-                        </a>
-                    
-                                                <a href="http://he.hostadvice.com/privacy-policy/" title="עברית">
+                            italiano                        </a>
+                                            <a href="https://he.hostadvice.com/privacy-policy/" title="עברית" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-il"></span>
-                        </a>
-                    
-                                                <a href="http://de.hostadvice.com/privacy-policy/" title="Deutsch">
+                            עברית                        </a>
+                                            <a href="https://de.hostadvice.com/privacy-policy/" title="Deutsch" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-de"></span>
-                        </a>
-                    
-                                                <a href="http://pt.hostadvice.com/privacy-policy/" title="português">
+                            Deutsch                        </a>
+                                            <a href="https://pt.hostadvice.com/privacy-policy/" title="português" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-pt"></span>
-                        </a>
-                    
-                                                <a href="http://pl.hostadvice.com/privacy-policy/" title="polski">
+                            português                        </a>
+                                            <a href="https://pl.hostadvice.com/privacy-policy/" title="polski" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-pl"></span>
-                        </a>
-                    
-                                                <a href="http://ko.hostadvice.com/privacy-policy/" title="한국어">
+                            polski                        </a>
+                                            <a href="https://ko.hostadvice.com/privacy-policy/" title="한국어" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-kr"></span>
-                        </a>
-                    
-                                                <a href="http://nl.hostadvice.com/privacy-policy/" title="Nederlands">
+                            한국어                        </a>
+                                            <a href="https://nl.hostadvice.com/privacy-policy/" title="Nederlands" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-nl"></span>
-                        </a>
-                    
-                                                <a href="http://tr.hostadvice.com/privacy-policy/" title="Türkçe">
+                            Nederlands                        </a>
+                                            <a href="https://tr.hostadvice.com/privacy-policy/" title="Türkçe" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-tr"></span>
-                        </a>
-                    
-                                                <a href="http://id.hostadvice.com/privacy-policy/" title="Bahasa Indonesia">
+                            Türkçe                        </a>
+                                            <a href="https://id.hostadvice.com/privacy-policy/" title="Bahasa Indonesia" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-id"></span>
-                        </a>
-                    
-                                                <a href="http://ar.hostadvice.com/privacy-policy/" title="العربية">
+                            Bahasa Indonesia                        </a>
+                                            <a href="https://ar.hostadvice.com/privacy-policy/" title="العربية" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-arl"></span>
-                        </a>
-                    
-                                                <a href="http://zh.hostadvice.com/privacy-policy/" title="中文">
+                            العربية                        </a>
+                                            <a href="https://zh.hostadvice.com/privacy-policy/" title="中文" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-cn"></span>
-                        </a>
-                    
-                                                <a href="http://ja.hostadvice.com/privacy-policy/" title="日本語">
+                            中文                        </a>
+                                            <a href="https://ja.hostadvice.com/privacy-policy/" title="日本語" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-jp"></span>
-                        </a>
-                    
-                                                <a href="http://cs.hostadvice.com/privacy-policy/" title="čeština">
+                            日本語                        </a>
+                                            <a href="https://cs.hostadvice.com/privacy-policy/" title="čeština" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-cz"></span>
-                        </a>
-                    
-                                                <a href="http://da.hostadvice.com/privacy-policy/" title="dansk">
+                            čeština                        </a>
+                                            <a href="https://da.hostadvice.com/privacy-policy/" title="dansk" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-dk"></span>
-                        </a>
-                    
-                                                <a href="http://vi.hostadvice.com/privacy-policy/" title="Tiếng Việt">
+                            dansk                        </a>
+                                            <a href="https://vi.hostadvice.com/privacy-policy/" title="Tiếng Việt" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-vn"></span>
-                        </a>
-                    
-                                                <a href="http://bg.hostadvice.com/privacy-policy/" title="български">
+                            Tiếng Việt                        </a>
+                                            <a href="https://bg.hostadvice.com/privacy-policy/" title="български" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-bg"></span>
-                        </a>
-                    
-                                                <a href="http://sv.hostadvice.com/privacy-policy/" title="svenska">
+                            български                        </a>
+                                            <a href="https://sv.hostadvice.com/privacy-policy/" title="svenska" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-se"></span>
-                        </a>
-                    
-                                                <a href="http://el.hostadvice.com/privacy-policy/" title="Ελληνικά">
+                            svenska                        </a>
+                                            <a href="https://el.hostadvice.com/privacy-policy/" title="Ελληνικά" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-gr"></span>
-                        </a>
-                    
-                                                <a href="http://uk.hostadvice.com/privacy-policy/" title="українська">
+                            Ελληνικά                        </a>
+                                            <a href="https://uk.hostadvice.com/privacy-policy/" title="українська" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-ua"></span>
-                        </a>
-                    
-                                                <a href="http://th.hostadvice.com/privacy-policy/" title="ไทย">
+                            українська                        </a>
+                                            <a href="https://th.hostadvice.com/privacy-policy/" title="ไทย" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-th"></span>
-                        </a>
-                    
-                                                <a href="http://ro.hostadvice.com/privacy-policy/" title="română">
+                            ไทย                        </a>
+                                            <a href="https://ro.hostadvice.com/privacy-policy/" title="română" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-ro"></span>
-                        </a>
-                    
-                                                <a href="http://hr.hostadvice.com/privacy-policy/" title="hrvatski">
+                            română                        </a>
+                                            <a href="https://hr.hostadvice.com/privacy-policy/" title="hrvatski" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-hr"></span>
-                        </a>
-                    
-                                                <a href="http://sk.hostadvice.com/privacy-policy/" title="slovenčina">
+                            hrvatski                        </a>
+                                            <a href="https://sk.hostadvice.com/privacy-policy/" title="slovenčina" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-sk"></span>
-                        </a>
-                    
-                                                <a href="http://hu.hostadvice.com/privacy-policy/" title="magyar">
+                            slovenčina                        </a>
+                                            <a href="https://hu.hostadvice.com/privacy-policy/" title="magyar" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-hu"></span>
-                        </a>
-                    
-                                                <a href="http://fi.hostadvice.com/privacy-policy/" title="suomi">
+                            magyar                        </a>
+                                            <a href="https://fi.hostadvice.com/privacy-policy/" title="suomi" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-fi"></span>
-                        </a>
-                    
-                                                <a href="http://lt.hostadvice.com/privacy-policy/" title="lietuvių">
+                            suomi                        </a>
+                                            <a href="https://lt.hostadvice.com/privacy-policy/" title="lietuvių" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-lt"></span>
-                        </a>
-                    
-                                                <a href="http://sr.hostadvice.com/privacy-policy/" title="Српски">
+                            lietuvių                        </a>
+                                            <a href="https://sr.hostadvice.com/privacy-policy/" title="Srpski" class="col-xs-4 col-sm-3 header-language-select ">
                             <span class="flag flag-rs"></span>
-                        </a>
+                            Srpski                        </a>
                                     </div>
+                <!-- languages selector -->
 
             </div>
+
+            <!-- currencies -->
+            <div class="header-currency-selector">
+                <div class="current-currency">
+                    USD                </div>
+                <div class="available-currencies row">
+                                         
+                        <a class="col-xs-4 header-currency-select selected-currency">
+                            $                            &nbsp;
+                            <span class="hcs-full-name">
+                                United States dollar                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="EUR">
+                            €                            &nbsp;
+                            <span class="hcs-full-name">
+                                Euro                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="GBP">
+                            £                            &nbsp;
+                            <span class="hcs-full-name">
+                                British pound                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="AED">
+                            AED                            &nbsp;
+                            <span class="hcs-full-name">
+                                United Arab Emirates dirham                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="ARS">
+                            ARS                            &nbsp;
+                            <span class="hcs-full-name">
+                                Argentine peso                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="AUD">
+                            AU$                            &nbsp;
+                            <span class="hcs-full-name">
+                                Australian dollar                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="BGN">
+                            BGN                            &nbsp;
+                            <span class="hcs-full-name">
+                                Bulgarian lev                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="BRL">
+                            R$                            &nbsp;
+                            <span class="hcs-full-name">
+                                Brazilian real                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="CAD">
+                            CA$                            &nbsp;
+                            <span class="hcs-full-name">
+                                Canadian dollar                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="CHF">
+                            CHF                            &nbsp;
+                            <span class="hcs-full-name">
+                                Swiss franc                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="CLP">
+                            CLP                            &nbsp;
+                            <span class="hcs-full-name">
+                                Chilean peso                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="CNY">
+                            CN¥                            &nbsp;
+                            <span class="hcs-full-name">
+                                Chinese yuan                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="COP">
+                            COP                            &nbsp;
+                            <span class="hcs-full-name">
+                                Colombian peso                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="CZK">
+                            CZK                            &nbsp;
+                            <span class="hcs-full-name">
+                                Czech koruna                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="DKK">
+                            DKK                            &nbsp;
+                            <span class="hcs-full-name">
+                                Danish krone                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="EGP">
+                            EGP                            &nbsp;
+                            <span class="hcs-full-name">
+                                Egyptian pound                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="HKD">
+                            HK$                            &nbsp;
+                            <span class="hcs-full-name">
+                                Hong Kong dollar                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="HUF">
+                            HUF                            &nbsp;
+                            <span class="hcs-full-name">
+                                Hungarian forint                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="IDR">
+                            IDR                            &nbsp;
+                            <span class="hcs-full-name">
+                                Indonesian rupiah                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="ILS">
+                            ₪                            &nbsp;
+                            <span class="hcs-full-name">
+                                Israeli new shekel                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="INR">
+                            ₹                            &nbsp;
+                            <span class="hcs-full-name">
+                                Indian rupee                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="JPY">
+                            ¥                            &nbsp;
+                            <span class="hcs-full-name">
+                                Japanese yen                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="KRW">
+                            ₩                            &nbsp;
+                            <span class="hcs-full-name">
+                                South Korean won                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="MXN">
+                            MX$                            &nbsp;
+                            <span class="hcs-full-name">
+                                Mexican peso                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="MYR">
+                            MYR                            &nbsp;
+                            <span class="hcs-full-name">
+                                Malaysian ringgit                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="NOK">
+                            NOK                            &nbsp;
+                            <span class="hcs-full-name">
+                                Norwegian krone                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="NZD">
+                            NZ$                            &nbsp;
+                            <span class="hcs-full-name">
+                                New Zealand dollar                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="PLN">
+                            PLN                            &nbsp;
+                            <span class="hcs-full-name">
+                                Polish złoty                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="RON">
+                            RON                            &nbsp;
+                            <span class="hcs-full-name">
+                                Romanian leu                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="RUB">
+                            RUB                            &nbsp;
+                            <span class="hcs-full-name">
+                                Russian ruble                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="SAR">
+                            SAR                            &nbsp;
+                            <span class="hcs-full-name">
+                                Saudi riyal                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="SEK">
+                            SEK                            &nbsp;
+                            <span class="hcs-full-name">
+                                Swedish krona                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="SGD">
+                            SGD                            &nbsp;
+                            <span class="hcs-full-name">
+                                Singapore dollar                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="THB">
+                            ฿                            &nbsp;
+                            <span class="hcs-full-name">
+                                Thai baht                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="TRY">
+                            TRY                            &nbsp;
+                            <span class="hcs-full-name">
+                                Turkish lira                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="TWD">
+                            NT$                            &nbsp;
+                            <span class="hcs-full-name">
+                                New Taiwan dollar                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="UAH">
+                            UAH                            &nbsp;
+                            <span class="hcs-full-name">
+                                Ukrainian hryvnia                            </span>
+                        </a>
+                     
+                        <a class="col-xs-4 header-currency-select " data-currency="ZAR">
+                            ZAR                            &nbsp;
+                            <span class="hcs-full-name">
+                                South African rand                            </span>
+                        </a>
+                                    </div>
+            </div>
+            <!-- currencies -->
 
                         <form method="get" class="big-input-form companies-search-form">
     <div class="big-input-container">
@@ -306,7 +519,7 @@ window['translations']["ad_topbar_button_text"]='Check';
     </div>
 </form>            
                         <nav class="header_big_nav_wrapper">
-                <div class="menu-main-navigation-container"><ul id="main_nav" class="menu"><li id="menu-item-392" class="not-clickable-link2 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-392"><a href="http://hostadvice.com/hosting-companies/">Reviews</a>
+                <div class="menu-main-navigation-container"><ul id="main_nav" class="menu"><li id="menu-item-392" class="not-clickable-link2 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-392"><a href="https://hostadvice.com/hosting-companies/">Reviews</a>
 <ul class="sub-menu">
 	<li id="menu-item-12248" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12248"><a href="/hosting-companies/"><i class="fa fa-star"></i>Best Web Hosting</a></li>
 	<li id="menu-item-9820" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9820"><a href="/hosting-companies/shared-hosting/"><i class="fa fa-users"></i>Shared Hosting</a></li>
@@ -324,17 +537,20 @@ window['translations']["ad_topbar_button_text"]='Check';
 </li>
 <li id="menu-item-10755" class="not-clickable-link menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10755"><a href="#">Tools</a>
 <ul class="sub-menu">
-	<li id="menu-item-1667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1667"><a href="http://hostadvice.com/tools/whois/"><i class="fa fa-eye"></i>Who Is Hosting?</a></li>
-	<li id="menu-item-7580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7580"><a href="http://hostadvice.com/marketshare/"><i class="fa fa-pie-chart"></i>Market Share 2016</a></li>
-	<li id="menu-item-9817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9817"><a href="http://hostadvice.com/tools/hosting-hood/"><i class="fa fa-bullseye"></i>Hosting Hood</a></li>
+	<li id="menu-item-1667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1667"><a href="https://hostadvice.com/tools/whois/"><i class="fa fa-eye"></i>Who Is Hosting?</a></li>
+	<li id="menu-item-7580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7580"><a href="https://hostadvice.com/marketshare/"><i class="fa fa-pie-chart"></i>Market Share 2016</a></li>
+	<li id="menu-item-9817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9817"><a href="https://hostadvice.com/tools/hosting-hood/"><i class="fa fa-bullseye"></i>Hosting Hood</a></li>
+	<li id="menu-item-23096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23096"><a href="https://hostadvice.com/web-hosting-advisor/"><i class="fa fa-lightbulb-o"></i>Web Hosting Advisor</a></li>
+	<li id="menu-item-26601" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26601"><a href="https://hostadvice.com/tools/web-hosting-comparison/"><i class="fa fa-compress"></i>Web Hosting Comparison</a></li>
 </ul>
 </li>
-<li id="menu-item-554" class="blog menu-item menu-item-type-taxonomy menu-item-object-category menu-item-554"><a href="http://hostadvice.com/blog/">Blog</a></li>
-<li id="menu-item-604" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-604"><a href="http://hostadvice.com/guide/web-hosting-101/">How To</a></li>
+<li id="menu-item-554" class="blog menu-item menu-item-type-taxonomy menu-item-object-category menu-item-554"><a href="https://hostadvice.com/blog/">Blog</a></li>
+<li id="menu-item-21939" class="submit-review-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-21939"><a href="https://hostadvice.com/submit-hosting-company-review/">Write a Review</a></li>
+<li id="menu-item-18525" class="orange menu-item menu-item-type-post_type menu-item-object-page menu-item-18525"><a href="https://hostadvice.com/hot-coupons/"><i class="fa fa-fire"></i>Hot Coupons</a></li>
 </ul></div>            </nav>
 
             <div id="navbar-collapse-menu" class="navbar-collapse collapse" style="height: 0;">
-                <div class="menu-main-navigation-container"><ul id="menu-main-navigation" class="menu"><li class="not-clickable-link2 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-392"><a href="http://hostadvice.com/hosting-companies/">Reviews</a>
+                <div class="menu-main-navigation-container"><ul id="menu-main-navigation" class="menu"><li class="not-clickable-link2 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-392"><a href="https://hostadvice.com/hosting-companies/">Reviews</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12248"><a href="/hosting-companies/"><i class="fa fa-star"></i>Best Web Hosting</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9820"><a href="/hosting-companies/shared-hosting/"><i class="fa fa-users"></i>Shared Hosting</a></li>
@@ -352,13 +568,16 @@ window['translations']["ad_topbar_button_text"]='Check';
 </li>
 <li class="not-clickable-link menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10755"><a href="#">Tools</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1667"><a href="http://hostadvice.com/tools/whois/"><i class="fa fa-eye"></i>Who Is Hosting?</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7580"><a href="http://hostadvice.com/marketshare/"><i class="fa fa-pie-chart"></i>Market Share 2016</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9817"><a href="http://hostadvice.com/tools/hosting-hood/"><i class="fa fa-bullseye"></i>Hosting Hood</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1667"><a href="https://hostadvice.com/tools/whois/"><i class="fa fa-eye"></i>Who Is Hosting?</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7580"><a href="https://hostadvice.com/marketshare/"><i class="fa fa-pie-chart"></i>Market Share 2016</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9817"><a href="https://hostadvice.com/tools/hosting-hood/"><i class="fa fa-bullseye"></i>Hosting Hood</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23096"><a href="https://hostadvice.com/web-hosting-advisor/"><i class="fa fa-lightbulb-o"></i>Web Hosting Advisor</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26601"><a href="https://hostadvice.com/tools/web-hosting-comparison/"><i class="fa fa-compress"></i>Web Hosting Comparison</a></li>
 </ul>
 </li>
-<li class="blog menu-item menu-item-type-taxonomy menu-item-object-category menu-item-554"><a href="http://hostadvice.com/blog/">Blog</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-604"><a href="http://hostadvice.com/guide/web-hosting-101/">How To</a></li>
+<li class="blog menu-item menu-item-type-taxonomy menu-item-object-category menu-item-554"><a href="https://hostadvice.com/blog/">Blog</a></li>
+<li class="submit-review-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-21939"><a href="https://hostadvice.com/submit-hosting-company-review/">Write a Review</a></li>
+<li class="orange menu-item menu-item-type-post_type menu-item-object-page menu-item-18525"><a href="https://hostadvice.com/hot-coupons/"><i class="fa fa-fire"></i>Hot Coupons</a></li>
 </ul></div>            </div>
             
             <div class="clear"></div>
@@ -371,7 +590,7 @@ window['translations']["ad_topbar_button_text"]='Check';
             <div class="location_info">
                 <span style="font-weight: normal">You are in:</span>
                 <span>
-                    <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" rel="index up" title="Go to Host Advice" href="http://hostadvice.com" class="home"><span itemprop="title">Host Advice</span></a> </span><i class="fa fa-chevron-right"></i><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"> <a itemprop="url" rel="" title="Go to Privacy Policy" href="http://hostadvice.com/privacy-policy/" class="post post-page current-item"><span itemprop="title">Privacy Policy</span></a></span>                </span>
+                    <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" rel="index up" title="Go to Host Advice" href="https://hostadvice.com" class="home"><span itemprop="title">Host Advice</span></a> </span><i class="fa fa-chevron-right"></i><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"> <a itemprop="url" rel="" title="Go to Privacy Policy" href="https://hostadvice.com/privacy-policy/" class="post post-page current-item"><span itemprop="title">Privacy Policy</span></a></span>                </span>
             </div>
                         <div id="container" class="clearfix">
     <div class="row">
@@ -380,7 +599,7 @@ window['translations']["ad_topbar_button_text"]='Check';
                 <div class="box-shadow">
                     <div class="box">
                         
-                                                                                        <article id="post-561" class="post-561 page type-page status-publish hentry">
+                                                                                        <article id="post-561" class="post-561 page type-page status-publish">
 
                                     
                                     
@@ -432,15 +651,15 @@ window['translations']["ad_topbar_button_text"]='Check';
 
         <div class="col-md-3 col-sm-4">
             <nav>
-                <div class="menu-common-pages-menu-container"><ul id="menu-common-pages-menu" class="menu"><li id="menu-item-513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-513"><a href="http://hostadvice.com/about-us/">About Us<span class="common-page-menu-arrow"></span><br> <small>Learn About Host Advice</small></a></li>
-<li id="menu-item-512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-512"><a href="http://hostadvice.com/faq/">FAQ<span class="common-page-menu-arrow"></span><br> <small>Got a question? Your answer is here</small></a></li>
-<li id="menu-item-518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518"><a href="http://hostadvice.com/contact-us/">Contact Us<span class="common-page-menu-arrow"></span><br> <small>Contact us if you have something to say</small></a></li>
-<li id="menu-item-514" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-514"><a href="http://hostadvice.com/write-for-us/">Become an Author<span class="common-page-menu-arrow"></span><br> <small>Write for us</small></a></li>
-<li id="menu-item-1657" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1657"><a href="http://hostadvice.com/submit-web-host/">Submit Your Web Host<span class="common-page-menu-arrow"></span><br> <small>Get traffic &amp; authentic reviews</small></a></li>
-<li id="menu-item-556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a href="http://hostadvice.com/terms-of-service/">Terms of Service<span class="common-page-menu-arrow"></span><br> <small>Just so we’re clear ah?</small></a></li>
-<li id="menu-item-566" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-561 current_page_item menu-item-566"><a href="http://hostadvice.com/privacy-policy/">Privacy Policy<span class="common-page-menu-arrow"></span><br> <small>The utmost respect for your privacy</small></a></li>
-<li id="menu-item-565" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-565"><a href="http://hostadvice.com/disclosure/">Disclosure<span class="common-page-menu-arrow"></span><br> <small>Your gain is our gain</small></a></li>
-<li id="menu-item-1541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1541"><a href="http://hostadvice.com/human-sitemap/">Human Sitemap<span class="common-page-menu-arrow"></span><br> <small></small></a></li>
+                <div class="menu-common-pages-menu-container"><ul id="menu-common-pages-menu" class="menu"><li id="menu-item-513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-513"><a href="https://hostadvice.com/about-us/">About Us<span class="common-page-menu-arrow"></span><br> <small>Learn About Host Advice</small></a></li>
+<li id="menu-item-512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-512"><a href="https://hostadvice.com/faq/">FAQ<span class="common-page-menu-arrow"></span><br> <small>Got a question? Your answer is here</small></a></li>
+<li id="menu-item-518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518"><a href="https://hostadvice.com/contact-us/">Contact Us<span class="common-page-menu-arrow"></span><br> <small>Contact us if you have something to say</small></a></li>
+<li id="menu-item-514" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-514"><a href="https://hostadvice.com/write-for-us/">Become an Author<span class="common-page-menu-arrow"></span><br> <small>Write for us</small></a></li>
+<li id="menu-item-1657" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1657"><a href="https://hostadvice.com/submit-web-host/">Submit Your Web Host<span class="common-page-menu-arrow"></span><br> <small>Get traffic &amp; authentic reviews</small></a></li>
+<li id="menu-item-556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a href="https://hostadvice.com/terms-of-service/">Terms of Service<span class="common-page-menu-arrow"></span><br> <small>Just so we’re clear ah?</small></a></li>
+<li id="menu-item-566" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-561 current_page_item menu-item-566"><a href="https://hostadvice.com/privacy-policy/">Privacy Policy<span class="common-page-menu-arrow"></span><br> <small>The utmost respect for your privacy</small></a></li>
+<li id="menu-item-565" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-565"><a href="https://hostadvice.com/disclosure/">Disclosure<span class="common-page-menu-arrow"></span><br> <small>Your gain is our gain</small></a></li>
+<li id="menu-item-1541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1541"><a href="https://hostadvice.com/human-sitemap/">Human Sitemap<span class="common-page-menu-arrow"></span><br> <small></small></a></li>
 </ul></div>            </nav>
         </div><!-- #secondary -->
     </div>
@@ -457,10 +676,10 @@ window['translations']["ad_topbar_button_text"]='Check';
             <select class="language-selector">
                                     <option data-href="http://hostadvice.com/privacy-policy/" selected="selected" value="en">
                         English                    </option>
-                                    <option data-href="http://ru.hostadvice.com/privacy-policy/" value="ru">
-                        русский                    </option>
                                     <option data-href="http://es.hostadvice.com/privacy-policy/" value="es">
                         español                    </option>
+                                    <option data-href="http://ru.hostadvice.com/privacy-policy/" value="ru">
+                        русский                    </option>
                                     <option data-href="http://fr.hostadvice.com/privacy-policy/" value="fr">
                         français                    </option>
                                     <option data-href="http://it.hostadvice.com/privacy-policy/" value="it">
@@ -516,11 +735,17 @@ window['translations']["ad_topbar_button_text"]='Check';
                                     <option data-href="http://lt.hostadvice.com/privacy-policy/" value="lt">
                         lietuvių                    </option>
                                     <option data-href="http://sr.hostadvice.com/privacy-policy/" value="sr">
-                        Српски                    </option>
+                        Srpski                    </option>
                             </select>
         </div>
         <div class="select select-large select-block">
             <select class="currency-selector">
+                                    <option selected="selected" value="USD">
+                        USD                    </option>
+                                    <option value="EUR">
+                        EUR                    </option>
+                                    <option value="GBP">
+                        GBP                    </option>
                                     <option value="AED">
                         AED                    </option>
                                     <option value="ARS">
@@ -547,14 +772,8 @@ window['translations']["ad_topbar_button_text"]='Check';
                         DKK                    </option>
                                     <option value="EGP">
                         EGP                    </option>
-                                    <option value="EUR">
-                        EUR                    </option>
-                                    <option value="GBP">
-                        GBP                    </option>
                                     <option value="HKD">
                         HKD                    </option>
-                                    <option value="HRK">
-                        HRK                    </option>
                                     <option value="HUF">
                         HUF                    </option>
                                     <option value="IDR">
@@ -567,8 +786,6 @@ window['translations']["ad_topbar_button_text"]='Check';
                         JPY                    </option>
                                     <option value="KRW">
                         KRW                    </option>
-                                    <option value="MAD">
-                        MAD                    </option>
                                     <option value="MXN">
                         MXN                    </option>
                                     <option value="MYR">
@@ -577,20 +794,12 @@ window['translations']["ad_topbar_button_text"]='Check';
                         NOK                    </option>
                                     <option value="NZD">
                         NZD                    </option>
-                                    <option value="PEN">
-                        PEN                    </option>
-                                    <option value="PHP">
-                        PHP                    </option>
-                                    <option value="PKR">
-                        PKR                    </option>
                                     <option value="PLN">
                         PLN                    </option>
                                     <option value="RON">
                         RON                    </option>
                                     <option value="RUB">
                         RUB                    </option>
-                                    <option value="RSD">
-                        RSD                    </option>
                                     <option value="SAR">
                         SAR                    </option>
                                     <option value="SEK">
@@ -605,14 +814,6 @@ window['translations']["ad_topbar_button_text"]='Check';
                         TWD                    </option>
                                     <option value="UAH">
                         UAH                    </option>
-                                    <option selected="selected" value="USD">
-                        USD                    </option>
-                                    <option value="UYU">
-                        UYU                    </option>
-                                    <option value="VEF">
-                        VEF                    </option>
-                                    <option value="VND">
-                        VND                    </option>
                                     <option value="ZAR">
                         ZAR                    </option>
                             </select>
@@ -630,13 +831,16 @@ window['translations']["ad_topbar_button_text"]='Check';
             <div class="footer_content row">
 
                 <section class="hidden-xs col-md-3 col-sm-6" id="footer-categories-col">
-                    <h4 class="footer_h4">Categories</h4>
+                    <h4 class="footer_h4">Useful</h4>
                     <nav>
-                        <div class="menu-footer-categories-container"><ul id="menu-footer-categories" class="footer_nav"><li id="menu-item-570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-570"><a href="http://hostadvice.com/hosting-companies/">Best Web Hosting</a></li>
-<li id="menu-item-1668" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1668"><a href="http://hostadvice.com/tools/whois/">Who Is Hosting?</a></li>
-<li id="menu-item-12433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12433"><a href="http://hostadvice.com/marketshare/">Web Hosting Market Share</a></li>
+                        <div class="menu-footer-categories-container"><ul id="menu-footer-categories" class="footer_nav"><li id="menu-item-570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-570"><a href="https://hostadvice.com/hosting-companies/">Best Web Hosting</a></li>
+<li id="menu-item-1668" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1668"><a href="https://hostadvice.com/tools/whois/">Who Is Hosting?</a></li>
+<li id="menu-item-12433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12433"><a href="https://hostadvice.com/marketshare/">Web Hosting Market Share</a></li>
 <li id="menu-item-571" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-571"><a href="/blog/">Host Advice Blog</a></li>
-<li id="menu-item-1660" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1660"><a href="http://hostadvice.com/submit-web-host/">Submit Your Web Host</a></li>
+<li id="menu-item-1660" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1660"><a href="https://hostadvice.com/submit-web-host/">Submit Your Web Host</a></li>
+<li id="menu-item-21252" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21252"><a href="/company-dashboard">Edit your company profile</a></li>
+<li id="menu-item-22679" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22679"><a href="https://hostadvice.com/submit-hosting-company-review/">Write a Review</a></li>
+<li id="menu-item-23095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23095"><a href="https://hostadvice.com/claim-web-hosting/">Claim Web Hosting</a></li>
 </ul></div>                    </nav>
                     <!-- #footer-navigation -->
 
@@ -646,13 +850,14 @@ window['translations']["ad_topbar_button_text"]='Check';
                 <section class="hidden-xs col-md-3 col-sm-6" id="footer-fyi-col">
                     <h4 class="footer_h4">FYI</h4>
                     <nav>
-                        <div class="menu-footer-fyi-container"><ul id="menu-footer-fyi" class="footer_nav"><li id="menu-item-416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-416"><a href="http://hostadvice.com/about-us/">About Us</a></li>
-<li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="http://hostadvice.com/contact-us/">Contact Us</a></li>
-<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="http://hostadvice.com/terms-of-service/">Terms of Service</a></li>
-<li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="http://hostadvice.com/faq/">FAQ</a></li>
-<li id="menu-item-567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-567"><a href="http://hostadvice.com/disclosure/">Disclosure</a></li>
-<li id="menu-item-568" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-561 current_page_item menu-item-568"><a href="http://hostadvice.com/privacy-policy/">Privacy Policy</a></li>
-<li id="menu-item-1542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1542"><a href="http://hostadvice.com/human-sitemap/">Human Sitemap</a></li>
+                        <div class="menu-footer-fyi-container"><ul id="menu-footer-fyi" class="footer_nav"><li id="menu-item-416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-416"><a href="https://hostadvice.com/about-us/">About Us</a></li>
+<li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="https://hostadvice.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="https://hostadvice.com/terms-of-service/">Terms of Service</a></li>
+<li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="https://hostadvice.com/faq/">FAQ</a></li>
+<li id="menu-item-567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-567"><a href="https://hostadvice.com/disclosure/">Disclosure</a></li>
+<li id="menu-item-568" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-561 current_page_item menu-item-568"><a href="https://hostadvice.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-1542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1542"><a href="https://hostadvice.com/human-sitemap/">Human Sitemap</a></li>
+<li id="menu-item-18529" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18529"><a href="https://hostadvice.com/guide/web-hosting-101/">How To</a></li>
 </ul></div>                    </nav>
                     <!-- #footer-navigation -->
                 </section>
@@ -690,6 +895,12 @@ window['translations']["ad_topbar_button_text"]='Check';
             <div id="footer-supported-languages" class="row">
                 <div class="select select-large select-block col-sm-6 col-md-3">
                     <select class="currency-selector">
+                                                    <option selected="selected" value="USD">
+                                USD                            </option>
+                                                    <option value="EUR">
+                                EUR                            </option>
+                                                    <option value="GBP">
+                                GBP                            </option>
                                                     <option value="AED">
                                 AED                            </option>
                                                     <option value="ARS">
@@ -716,14 +927,8 @@ window['translations']["ad_topbar_button_text"]='Check';
                                 DKK                            </option>
                                                     <option value="EGP">
                                 EGP                            </option>
-                                                    <option value="EUR">
-                                EUR                            </option>
-                                                    <option value="GBP">
-                                GBP                            </option>
                                                     <option value="HKD">
                                 HKD                            </option>
-                                                    <option value="HRK">
-                                HRK                            </option>
                                                     <option value="HUF">
                                 HUF                            </option>
                                                     <option value="IDR">
@@ -736,8 +941,6 @@ window['translations']["ad_topbar_button_text"]='Check';
                                 JPY                            </option>
                                                     <option value="KRW">
                                 KRW                            </option>
-                                                    <option value="MAD">
-                                MAD                            </option>
                                                     <option value="MXN">
                                 MXN                            </option>
                                                     <option value="MYR">
@@ -746,20 +949,12 @@ window['translations']["ad_topbar_button_text"]='Check';
                                 NOK                            </option>
                                                     <option value="NZD">
                                 NZD                            </option>
-                                                    <option value="PEN">
-                                PEN                            </option>
-                                                    <option value="PHP">
-                                PHP                            </option>
-                                                    <option value="PKR">
-                                PKR                            </option>
                                                     <option value="PLN">
                                 PLN                            </option>
                                                     <option value="RON">
                                 RON                            </option>
                                                     <option value="RUB">
                                 RUB                            </option>
-                                                    <option value="RSD">
-                                RSD                            </option>
                                                     <option value="SAR">
                                 SAR                            </option>
                                                     <option value="SEK">
@@ -774,14 +969,6 @@ window['translations']["ad_topbar_button_text"]='Check';
                                 TWD                            </option>
                                                     <option value="UAH">
                                 UAH                            </option>
-                                                    <option selected="selected" value="USD">
-                                USD                            </option>
-                                                    <option value="UYU">
-                                UYU                            </option>
-                                                    <option value="VEF">
-                                VEF                            </option>
-                                                    <option value="VND">
-                                VND                            </option>
                                                     <option value="ZAR">
                                 ZAR                            </option>
                                             </select>
@@ -791,9 +978,9 @@ window['translations']["ad_topbar_button_text"]='Check';
 
                 
                 <div class="pull-right hosted-on-footer">
-                    <a href="http://hostadvice.com/go/hosting/3955" title="FastComet" target="_blank" data-ga-event="footer-hosted-on">
+                    <a href="https://hostadvice.com/hosting-company/fastcomet-reviews/" title="FastComet" target="_blank" rel="nofollow" data-ga-event="footer-hosted-on">
                         <span>Hosted on</span>
-                        <img src="http://hostadvice.com/wp-content/themes/bestwh/img/hosted-on-fastcomet.png" alt="FastComet">
+                        <img src="https://static.hostadvice.com/wp-content/themes/bestwh/img/hosted-on-fastcomet.png" alt="FastComet">
                     </a>
                 </div>
                 <!--end of center-->
@@ -836,133 +1023,57 @@ window['translations']["ad_topbar_button_text"]='Check';
         // ]]>
         </script>
         
-<!-- T: /common/alternatives-popup- -->
+<!-- T: /common/alternatives-popup- !!-->
 <div id="alternatives-popup" data-post-id="561">
     <div class="alternatives-popup-content">
-        <h1>Was <span></span> not quite right?<br>Here are the best alternatives:</h1>
+        <h2>Was <span></span> not quite right?<br>Here are the best alternatives:</h2>
 
         <div class="row">
-                            <div class="col-xs-4" data-host-id="1191">
-                    <img src="http://hostadvice.com/wp-content/uploads/2014/04/Siteground1.png" title="SiteGround" class="company-logo">
-
-                    <div class="rating-holder">
-                        <div class="like-unlike-holder clearfix">
-                                <span class="pull-left red-hand">2</span>
-                                <span class="pull-right green-hand">242</span>
-                        </div>
-                            <div class="fr stars_holder  ">
-
-        <div class="empty-stars">
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-        </div>
-
-        <div class="stars" style="width: 98%;">
-            <div class="full-stars">
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-            </div>
-        </div>
-            </div>
-                        </div>
-
-                    <div class="min-price">
-                        From                        <strong>$3.95</strong>
-                        / month                    </div>
-
-                    <a class="orange_button" rel="nofollow" target="_blank" href="http://hostadvice.com/go/hosting/1191?altpo" title="SiteGround">
-                        <i class="fa fa-chevron-circle-right"></i>
-                        Visit SiteGround                    </a>
-                </div>
-                            <div class="col-xs-4" data-host-id="3955">
-                    <img src="http://hostadvice.com/wp-content/uploads/2014/12/black-logo-624x111.png" title="FastComet" class="company-logo">
-
-                    <div class="rating-holder">
-                        <div class="like-unlike-holder clearfix">
-                                <span class="pull-left red-hand">2</span>
-                                <span class="pull-right green-hand">219</span>
-                        </div>
-                            <div class="fr stars_holder  ">
-
-        <div class="empty-stars">
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-        </div>
-
-        <div class="stars" style="width: 98%;">
-            <div class="full-stars">
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-            </div>
-        </div>
-            </div>
-                        </div>
-
-                    <div class="min-price">
-                        From                        <strong>$2.95</strong>
-                        / month                    </div>
-
-                    <a class="orange_button" rel="nofollow" target="_blank" href="http://hostadvice.com/go/hosting/3955?altpo" title="FastComet">
-                        <i class="fa fa-chevron-circle-right"></i>
-                        Visit FastComet                    </a>
-                </div>
-                            <div class="col-xs-4" data-host-id="1405">
-                    <img src="http://hostadvice.com/wp-content/uploads/2014/04/interserver-logo.png" title="Interserver" class="company-logo">
-
-                    <div class="rating-holder">
-                        <div class="like-unlike-holder clearfix">
-                                <span class="pull-left red-hand">2</span>
-                                <span class="pull-right green-hand">179</span>
-                        </div>
-                            <div class="fr stars_holder  ">
-
-        <div class="empty-stars">
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-        </div>
-
-        <div class="stars" style="width: 95%;">
-            <div class="full-stars">
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-            </div>
-        </div>
-            </div>
-                        </div>
-
-                    <div class="min-price">
-                        From                        <strong>$4.95</strong>
-                        / month                    </div>
-
-                    <a class="orange_button" rel="nofollow" target="_blank" href="http://hostadvice.com/go/hosting/1405?altpo" title="Interserver">
-                        <i class="fa fa-chevron-circle-right"></i>
-                        Visit Interserver                    </a>
-                </div>
-                            <div class="col-xs-4" data-host-id="771">
-                    <img src="http://hostadvice.com/wp-content/uploads/2014/02/a2hosting1.jpg" title="A2 Hosting" class="company-logo">
+                            <div class="col-xs-4" data-host-id="476">
+                    <img src="https://static.hostadvice.com/wp-content/uploads/2013/12/logo-imh.png" title="InMotion Hosting" class="company-logo">
 
                     <div class="rating-holder">
                         <div class="like-unlike-holder clearfix">
                                 <span class="pull-left red-hand">4</span>
-                                <span class="pull-right green-hand">112</span>
+                                <span class="pull-right green-hand">123</span>
+                        </div>
+                            <div class="fr stars_holder  ">
+
+        <div class="empty-stars">
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+        </div>
+
+        <div class="stars" style="width: 92%;">
+            <div class="full-stars">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+            </div>
+        </div>
+            </div>
+                        </div>
+
+                    <div class="min-price">
+                        From                        <strong>$3.49</strong>
+                        / month                    </div>
+
+                    <a class="orange_button" rel="nofollow" target="_blank" href="https://hostadvice.com/go/host/476?altpo" title="InMotion Hosting">
+                        <i class="fa fa-chevron-circle-right"></i>
+                        Visit InMotion Hosting                    </a>
+                </div>
+                            <div class="col-xs-4" data-host-id="771">
+                    <img src="https://static.hostadvice.com/wp-content/uploads/2014/02/a2hosting-1-624x165.jpg" title="A2 Hosting" class="company-logo">
+
+                    <div class="rating-holder">
+                        <div class="like-unlike-holder clearfix">
+                                <span class="pull-left red-hand">11</span>
+                                <span class="pull-right green-hand">177</span>
                         </div>
                             <div class="fr stars_holder  ">
 
@@ -990,16 +1101,127 @@ window['translations']["ad_topbar_button_text"]='Check';
                         From                        <strong>$3.92</strong>
                         / month                    </div>
 
-                    <a class="orange_button" rel="nofollow" target="_blank" href="http://hostadvice.com/go/hosting/771?altpo" title="A2 Hosting">
+                    <a class="orange_button" rel="nofollow" target="_blank" href="https://hostadvice.com/go/host/771?altpo" title="A2 Hosting">
                         <i class="fa fa-chevron-circle-right"></i>
                         Visit A2 Hosting                    </a>
+                </div>
+                            <div class="col-xs-4" data-host-id="1921">
+                    <img src="https://static.hostadvice.com/wp-content/uploads/2014/08/hostwinds.png" title="Hostwinds" class="company-logo">
+
+                    <div class="rating-holder">
+                        <div class="like-unlike-holder clearfix">
+                                <span class="pull-left red-hand">5</span>
+                                <span class="pull-right green-hand">182</span>
+                        </div>
+                            <div class="fr stars_holder  ">
+
+        <div class="empty-stars">
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+        </div>
+
+        <div class="stars" style="width: 95%;">
+            <div class="full-stars">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+            </div>
+        </div>
+            </div>
+                        </div>
+
+                    <div class="min-price">
+                        From                        <strong>$4.50</strong>
+                        / month                    </div>
+
+                    <a class="orange_button" rel="nofollow" target="_blank" href="https://hostadvice.com/go/host/1921?altpo" title="Hostwinds">
+                        <i class="fa fa-chevron-circle-right"></i>
+                        Visit Hostwinds                    </a>
+                </div>
+                            <div class="col-xs-4" data-host-id="470">
+                    <img src="https://static.hostadvice.com/wp-content/uploads/2013/12/HostPapa-Logo-4-Colour-4-1.png" title="HostPapa" class="company-logo">
+
+                    <div class="rating-holder">
+                        <div class="like-unlike-holder clearfix">
+                                <span class="pull-left red-hand">6</span>
+                                <span class="pull-right green-hand">108</span>
+                        </div>
+                            <div class="fr stars_holder  ">
+
+        <div class="empty-stars">
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+        </div>
+
+        <div class="stars" style="width: 93%;">
+            <div class="full-stars">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+            </div>
+        </div>
+            </div>
+                        </div>
+
+                    <div class="min-price">
+                        From                        <strong>$2.95</strong>
+                        / month                    </div>
+
+                    <a class="orange_button" rel="nofollow" target="_blank" href="https://hostadvice.com/go/host/470?altpo" title="HostPapa">
+                        <i class="fa fa-chevron-circle-right"></i>
+                        Visit HostPapa                    </a>
                 </div>
                     </div>
     </div>
 </div>
-<!-- /T: /common/alternatives-popup- --><script type="text/javascript" src="http://hostadvice.com/wp-content/plugins/bwp-minify/cache/minify-b1-jquery-de15ef11db91387fe7093dfff19fd015.js?ver=1463303923"></script>
-<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
+<!-- /T: /common/alternatives-popup- --><script type="text/javascript" src="https://static.hostadvice.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-content/plugins/tweetthis/assets/js/tweet-this-box.js?ver=4.5.4"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-content/themes/bestwh/js/vendor/bootstrap.min.js?ver=1.0"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-content/themes/bestwh/js/vendor/modernizr.min.js?ver=4.5.4"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-content/themes/bestwh/js/vendor/colorbox/jquery.colorbox-min.js?ver=1.5.9"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-content/themes/bestwh/js/vendor/jquery.sharrre.js?ver=3.3.8.8"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-content/themes/bestwh/js/vendor/jquery.customSelect.js?ver=4.5.4"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-content/themes/bestwh/js/main/page.js?ver=3.3.8.8"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-content/themes/bestwh/js/main/device.js?ver=3.3.8.8"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-content/themes/bestwh/js/main/includes.js?ver=3.3.8.8"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-content/themes/bestwh/js/main/template.js?ver=3.3.8.8"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-content/themes/bestwh/js/main/form.js?ver=3.3.8.8"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-content/themes/bestwh/js/vendor/jquery.cookie.js?ver=4.5.4"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-includes/js/wp-a11y.min.js?ver=4.5.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No search results.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-content/themes/bestwh/js/components/companies-search.js?ver=3.3.8.8"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-content/themes/bestwh/js/components/date-picker.js?ver=3.3.8.8"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-content/themes/bestwh/js/components/more.js?ver=3.3.8.8"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-content/themes/bestwh/js/components/ratings.js?ver=3.3.8.8"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-content/themes/bestwh/js/components/share-buttons.js?ver=3.3.8.8"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-content/themes/bestwh/js/components/tabs.js?ver=3.3.8.8"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-content/themes/bestwh/js/components/tooltips.js?ver=3.3.8.8"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-content/themes/bestwh/js/partials/newsletter-popup.js?ver=3.3.8.8"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-content/themes/bestwh/js/partials/newsletter-subscribe.js?ver=3.3.8.8"></script>
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?ver=4.5.4"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-content/themes/bestwh/js/main/script.js?ver=3.3.8.8"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-content/themes/bestwh/js/main/companies-search.js?ver=3.3.8.8"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-content/themes/bestwh/js/helpers/disqus-helper.js?ver=3.3.8.8"></script>
+<script type="text/javascript" src="https://static.hostadvice.com/wp-includes/js/wp-embed.min.js?ver=4.5.4"></script>
     <script>
 
         (function (i, s, o, g, r, a, m) {
@@ -1016,7 +1238,7 @@ window['translations']["ad_topbar_button_text"]='Check';
 
         ga('create', 'UA-51533564-1', 'hostadvice.com');
 
-                ga('set', 'expId', '1ZqT6x-RTam9v6EXlV6bbg');
+                ga('set', 'expId', 'Q3Dom4R4Q2uVpbIj13YDhA');
         ga('set', 'expVar', '0');
         
         ga('send', 'pageview');
@@ -1024,11 +1246,16 @@ window['translations']["ad_topbar_button_text"]='Check';
     </script>
 
         <!-- Start of LiveChat (www.livechatinc.com) code -->
+
+    
+
     <script type="text/javascript">
         jQuery(function ($) {
             if ($(window).width() < 768) {
                 return false;
             }
+
+            //delayed load livechat
             setTimeout(function () {
                 window.__lc = window.__lc || {};
                 window.__lc.license = 6869021;
@@ -1040,40 +1267,11 @@ window['translations']["ad_topbar_button_text"]='Check';
                     var s = document.getElementsByTagName('script')[0];
                     s.parentNode.insertBefore(lc, s);
                 })();
-
             }, 7000);
         });
     </script>
     <!-- End of LiveChat code –>
 
-<!-- Hotjar Tracking Code for hostadvice.com -->
-    <script>
-
-        (function (h, o, t, j, a, r) {
-            h.hj = h.hj || function () {
-                    (h.hj.q = h.hj.q || []).push(arguments)
-                };
-            h._hjSettings = {hjid: 108612, hjsv: 5};
-            a = o.getElementsByTagName('head')[0];
-            r = o.createElement('script');
-            r.async = 1;
-            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
-            a.appendChild(r);
-        })(window, document, '//static.hotjar.com/c/hotjar-', '.js?sv=');
-    </script>
-
-    <script type="text/javascript">
-        (function (e, a) {
-            var t, r = e.getElementsByTagName("head")[0], c = e.location.protocol;
-            t = e.createElement("script");
-            t.type = "text/javascript";
-            t.charset = "utf-8";
-            t.async = !0;
-            t.defer = !0;
-            t.src = c + "//front.optimonk.com/public/" + a + "/js/preload.js";
-            r.appendChild(t);
-        })(document, "9750");
-    </script>
 
 
     <!-- Google Code for HA-Outbound Conversion Page -->
@@ -1097,7 +1295,22 @@ window['translations']["ad_topbar_button_text"]='Check';
         </noscript>
     </div>
 
-
+            <script type="text/javascript">
+            //delayed load of optimonk
+            setTimeout(function () {
+                (function (e, a) {
+                    var t, r = e.getElementsByTagName("head")[0], c = e.location.protocol;
+                    t = e.createElement("script");
+                    t.type = "text/javascript";
+                    t.charset = "utf-8";
+                    t.async = !0;
+                    t.defer = !0;
+                    t.src = c + "//front.optimonk.com/public/" + a + "/js/preload.js";
+                    r.appendChild(t);
+                })(document, "9750");
+            }, 7000);
+        </script>
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"233556de11","applicationID":"25024571","transactionName":"blUEYEQFVkRYVBBZC1cfJ1dCDVdZFlQLXQlWXktEVwNd","queueTime":0,"applicationTime":442,"atts":"QhIHFgwfRUo=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 
 </body></html>
