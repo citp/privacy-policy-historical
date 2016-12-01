@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the televisionwithoutpity.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616200906id_/http%3A//www.tribunemedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the televisionwithoutpity.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201213138id_/http%3A//www.tribunemedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Tribune Media | Privacy Policy
 
@@ -42,6 +42,8 @@ We may collect information about you during your use of the Services, including 
 We may collect and store your user ID associated with a SNS account that you use to sign in to your Tribune Media account or connect or use with the Services. When you sign in to your Tribune Media account or mobile application with your SNS account information or otherwise connect to your SNS account with the Services, you authorize Tribune Media to collect, store, and use in accordance with this Privacy Policy any and all information available to Tribune Media through the SNS interface, including without limitation any information that you have made public in connection with your SNS account, information that the SNS shares with us, or information that is disclosed as being shared during the sign-in process.
 
 We may also combine information that we collect from you with information we obtain about you from third parties and Affiliates and information derived from any other subscription, product, or service we provide.
+
+Our properties may feature Nielsen’s proprietary measurement software which will allow you to contribute to market research, like Nielsen’s TV Ratings. To learn more about the information Nielsen’s software may collect and your choices with regard to it, please [click here](http://www.nielsen.com/digitalprivacy).
 
 Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose information through the Services, such as via SNSs, on message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties.
 
