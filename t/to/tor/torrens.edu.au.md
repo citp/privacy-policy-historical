@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torrens.edu.au privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622024738id_/http%3A//www.torrens.edu.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrens.edu.au privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201073720id_/http%3A//www.torrens.edu.au/policies-and-forms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Torrens University
 
@@ -10,97 +10,97 @@ Torrens University Australia Limited provides external links as a service to use
 
 ## Torrens University Australia Privacy Statement
 
-### Introduction
+**Introduction**
 
 Torrens University Australia complies with the Privacy Act 1988 (Cwth) (Privacy Act) which protects the privacy of your personal information.
 
-[Read more](http://www.torrens.edu.au/privacy-policy#intro)
+Read More
 
-### Automatic Collection of Information
+**Automatic Collection of Information**
 
 The University automatically collects certain information when you visit our website, some of which may be capable of personally identifying you.
 
-[Read more](http://www.torrens.edu.au/privacy-policy#auto)
+Read More
 
-### Use of Cookies
+**Use of Cookies**
 
 The University’s website uses cookies. A cookie is a text file placed on your computer to help analyse how users use a website.
 
-[Read more](http://www.torrens.edu.au/privacy-policy#use)
+Read More
 
-### Personal Information
+**Personal Information**
 
 Personal identifying information you supply whether on-line via online application forms, surveys, enquiries and email or over the phone or in hardcopy will be used by University staff in conducting the business of the University.
 
-[Read more](http://www.torrens.edu.au/privacy-policy#personal)
+Read More
 
-### Types of Personal Information
+**Types of Personal Information**
 
 The personal information the University collects and hold generally includes your name, address, date of birth, and contact details (such as your phone number and email address).
 
-[Read more](http://www.torrens.edu.au/privacy-policy#type)
+Read More
 
-### Use of Personal Information
+**Use of Personal Information  
+**
 
 The University uses the personal information you provide for a variety of reasons.
 
-[Read more](http://www.torrens.edu.au/privacy-policy#how)
+Read More
 
-### Disclosure of Personal Information
+**Disclosure of Personal Information**
 
 Information collected from you may be disclosed to third parties in limited circumstances expressly permitted in the Privacy Act, for example to State and Commonwealth Government Agencies as required or authorised by law.
 
-[Read more](http://www.torrens.edu.au/privacy-policy#discloses)
+Read More
 
-### Information Involving Other Individuals
+**Information Involving Other Individuals**
 
 During your communications with us you must not provide us with personal information ( including any sensitive information) of any other individual unless you have the express consent of that individual to do so.
 
-[Read more](http://www.torrens.edu.au/privacy-policy#info)
+Read More
 
-### Security of Information
+**Security of Information**
 
 The University takes reasonable steps (including any measure required by law) to ensure your personal information is protected from loss, misuse, interference and unauthorised access, alteration or disclosure.
 
-[Read more](http://www.torrens.edu.au/privacy-policy#security)
+Read More
 
-### Public Forums
+**Public Forums**
 
 Some University sites may have chat rooms, forums and message boards. Please remember that any information you disclose in these areas becomes public information and you should exercise caution when deciding whether to disclose your personal information.
 
-[Read more](http://www.torrens.edu.au/privacy-policy#public)
+Read More
 
-### External Links
+**External Links  
+**
 
 Some University sites contain links to other sites. The University is not responsible for the privacy practices or the content of such websites.
 
-[Read more](http://www.torrens.edu.au/privacy-policy#external)
+Read More
 
-### Accuracy, access and correction
+**Accuracy, access and correction**
 
 The University takes all reasonable steps to ensure that the personal information that it collects and hold is accurate, complete and up-to-date. However, the University relies on you to advise us of any changes to your personal information to help us maintain our records.
 
-[Read more](http://www.torrens.edu.au/privacy-policy#accuracy)
+Read More
 
-### Complaints
+**Complaints**
 
 If you wish to make a complaint about a breach of this Privacy Statement or the Privacy Act 1988(Cth) you can contact us using the contact details below. You will need to provide us with sufficient details regarding your complaint as well as any supporting evidence and/or information.
 
-[Read more](http://www.torrens.edu.au/privacy-policy#what)
+Read More
 
-### Revisions to the Privacy Statement
+**Revisions to the Privacy Statement**
 
 The University reserves the right to revise this Privacy Statement or any part of it from time to time. Please review this Privacy Statement periodically for changes.
 
-[Read more](http://www.torrens.edu.au/privacy-policy#revisions)
+Read More
 
-### Contact us
+**Contact us**
 
-If you have any questions or concerns about the University’s Privacy Statement or its implementation, please [contact us](http://www.torrens.edu.au/contact-us) or call +61 8 8113 7888.
+If you have any questions or concerns about the University’s Privacy Statement or its implementation, please [contact us](https://web.archive.org/contact-us) or call +61 8 8113 7888.
 
-[Read more](http://www.torrens.edu.au/privacy-policy#contact)
-
-* * *
+Read More
 
 ### Introduction
 
@@ -110,11 +110,9 @@ Torrens University Australia complies with the Privacy Act 1988 (Cwth) (Privacy 
 
 The University automatically collects certain information when you visit our website, some of which may be capable of personally identifying you. Such information includes the type of browser you are using, the type of operating system you are using, your IP address and how you use our website.
 
-* * *
-
 ### Use of Cookies
 
-The University’s website uses cookies. A cookie is a text file placed on your computer to help analyse how users use a website. A cookie will typically contain the name of the domain from which the cookie has come, your IP address, the "lifetime" of the cookie, and a value (usually a randomly generated unique number). Cookies helps us to provide you with a good experience when you browse our website and also allow us to improve our website and services.
+The University’s website uses cookies. A cookie is a text file placed on your computer to help analyse how users use a website. A cookie will typically contain the name of the domain from which the cookie has come, your IP address, the “lifetime” of the cookie, and a value (usually a randomly generated unique number). Cookies helps us to provide you with a good experience when you browse our website and also allow us to improve our website and services.
 
 The University may use cookies in the following ways:
 
@@ -126,21 +124,15 @@ The University may use cookies in the following ways:
 
 You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our website if cookies are disabled.
 
-* * *
-
 ### Personal Information
 
 Personal identifying information you supply whether on-line via online application forms, surveys, enquiries and email or over the phone or in hardcopy will be used by University staff in conducting the business of the University. Such uses include matters relating to student administration, provision of services to you, responding to your enquiries, and providing you with information about our courses and services.
-
-* * *
 
 ### Types of Personal Information
 
 The personal information the University collects and hold generally includes your name, address, date of birth, and contact details (such as your phone number and email address). With your express consent, the University may also collect and hold certain sensitive information relating to your racial or ethnic origins or your health for the purposes of providing services or assistance to you and to meet our reporting obligations to State and Australian Government agencies.
 
 Your personal information, including sensitive information, will only be used for purposes consistent with the original purposes of collection. By law, you are not required to provide the University with your personal information. However, if you do not do so, you may not receive the full benefit of the complete range of services offered by the University.
-
-* * *
 
 ### Use of Personal Information
 
@@ -157,8 +149,6 @@ The University uses the personal information you provide to:
   * Any other purposes identified at the time of collecting your information.
 
 
-
-* * *
 
 ### Disclosure of Personal Information
 
@@ -182,8 +172,6 @@ The transfer of your personal information to an overseas service provider may re
 
 Other than as stated above the University will not share, rent, or sell your personal information. If there are other situations in which the University wishes to use your personal information, it will seek your express consent.
 
-* * *
-
 ### Information Involving Other Individuals
 
 During your communications with us you must not provide us with personal information (including any sensitive information) of any other individual unless you have the express consent of that individual to do so.
@@ -192,11 +180,9 @@ If you do provide us with such information about another individual, you:
 
   * Must tell that individual that you will be providing their information to the University and that the University will handle their information in accordance with the University’s Privacy Policy
   * Must provide that individual with a copy of (or refer them to) this Privacy Statement, and
-  * Warrant that you have that individual's consent to provide their information to us.
+  * Warrant that you have that individual’s consent to provide their information to us.
 
 
-
-* * *
 
 ### Security of Information
 
@@ -204,19 +190,13 @@ The University takes reasonable steps (including any measure required by law) to
 
 However, data protection and security measures are never completely secure and, despite the measures the University has put in place, the University cannot guarantee the security of your information. You must take care to ensure you protect your personal information (for example, by protecting any usernames and passwords, etc.) and you should notify us as soon as possible after you become aware of any security breaches.
 
-* * *
-
 ### Public Forums
 
 Some University sites may have chat rooms, forums and message boards. Please remember that any information you disclose in these areas becomes public information and you should exercise caution when deciding whether to disclose your personal information.
 
-* * *
-
 ### External Links
 
 Some University sites contain links to other sites. The University is not responsible for the privacy practices or the content of such websites.
-
-* * *
 
 ### Accuracy, Access and Correction
 
@@ -226,15 +206,11 @@ The University will, on request, provide you with access to the personal informa
 
 To request access to your personal information or, if you wish to update or correct your personal information, please contact us via the contact details provided below.
 
-* * *
-
 ### Complaints
 
 If you wish to make a complaint about a breach of this Privacy Statement or the Privacy Act 1988(Cth) you can contact us using the contact details below. You will need to provide us with sufficient details regarding your complaint as well as any supporting evidence and/or information.
 
 The University will refer your complaint to our Privacy Officer who will investigate the issue and determine the steps (if any) that the University will undertake to resolve your complaint. The University will contact you if it requires any additional information from you and will notify you in writing of the outcome of the investigation. If you are not satisfied with the University’s determination, you can contact the University to discuss your concerns or complain to the Australian Privacy Commissioner via [www.oaic.gov.au. ](http://www.oaic.gov.au./)
-
-* * *
 
 ### Revisions to the Privacy Statement
 
@@ -242,10 +218,6 @@ The University reserves the right to revise this Privacy Statement or any part o
 
 Your continued use of our website, services or provision of further personal information to us once you have been notified of the revised Privacy Statement constitutes your deemed acceptance of the revised Privacy Statement.
 
-* * *
-
 ### Contact us
 
-If you have any questions or concerns about the University’s Privacy Statement or its implementation, please [contact us](http://www.torrens.edu.au/contact-us) or call +61 8 8113 7888.
-
-* * *
+If you have any questions or concerns about the University’s Privacy Statement or its implementation, please [contact us](https://web.archive.org/contact-us) or call +61 8 8113 7888.
