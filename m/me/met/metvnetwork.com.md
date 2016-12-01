@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metvnetwork.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520065842id_/http%3A//www.metv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metvnetwork.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201222656id_/https%3A//www.metv.com/privacy-policy) for the most accurate reproduction.*
 
-# MeTV Network | Privacy Policy
+# Privacy Policy
 
 We take your electronic privacy seriously. Questions regarding this statement or our practices should be directed to the MeTV.com Privacy Coordinator by email at [feedback-metv@metvnetwork.com](mailto:metvnetwork@weigelbroadcasting.com). You may also send inquiries by mail to:
 
