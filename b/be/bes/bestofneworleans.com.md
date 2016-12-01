@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestofneworleans.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413101822id_/http%3A//www.bestofneworleans.com/gambit/PrivacyStatement/Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestofneworleans.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201164845id_/http%3A//www.bestofneworleans.com/gambit/PrivacyStatement/Page) for the most accurate reproduction.*
 
-# Privacy Statement | Gambit - New Orleans News and Entertainment
+# Privacy Statement | Gambit Weekly - New Orleans News and Entertainment
 
 **Privacy Policy of Gambit Communications, Inc.**  
 _Last Updated on April   19, 2014_   
