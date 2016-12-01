@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbsradio.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507051615id_/http%3A//bbsradio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbsradio.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201094636id_/http%3A//bbsradio.com/privacy) for the most accurate reproduction.*
 
 # BBS Radio Privacy Policy - Information Disclosure Policies
 
@@ -20,7 +20,7 @@ BBSRadio.com (corporately known as BBS Network Inc and herein referred to as BBS
 
 Newsletters:
 
-  * BBS Radio Newsletters are intended to keep users informed of new features that are available on our website. They are also used to send out information that we feel our users would appreciate. Our policy is to send our email announcements or newsletters _only to those specific individuals that signed up for them_. If you receive an email and want to be removed from the newsletter, we provide instructions on how to unsubscribe, so that you will not receive any other messages from BBS Radio in the future. If instructions are not provided within the email, please send us an email at [newsletter@BBSRadio.com](mailto:newsletter@BBSRadio.com "to ask questions and get answers about the BBS Radio Newsletter"), asking to be removed, and it will be done within 24 hours. Our telephone numbers are provided all throughout the website. Please visit [management](https://bbsradio.com/about "Visit the About section to learn all about BBS Radio, it's management and operations") whenever you have a concern, and we'll be most happy to speak with you personally.
+  * BBS Radio Newsletters are intended to keep users informed of new features that are available on our website. They are also used to send out information that we feel our users would appreciate. Our policy is to send our email announcements or newsletters _only to those specific individuals that signed up for them_. If you receive an email and want to be removed from the newsletter, we provide instructions on how to unsubscribe, so that you will not receive any other messages from BBS Radio in the future. If instructions are not provided within the email, please send us an email at [newsletter@BBSRadio.com](mailto:newsletter@BBSRadio.com "to ask questions and get answers about the BBS Radio Newsletter"), asking to be removed, and it will be done within 24 hours. Our telephone numbers are provided all throughout the website. Please visit [management](http://bbsradio.com/about "Visit the About section to learn all about BBS Radio, it's management and operations") whenever you have a concern, and we'll be most happy to speak with you personally.
 
 
 
