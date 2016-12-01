@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mensmagazine.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602183502id_/http%3A//www.mensmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensmagazine.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201032239id_/http%3A//www.mensmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Mens Magazine
 
