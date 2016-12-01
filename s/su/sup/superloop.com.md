@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the superloop.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430160527id_/http%3A//superloop.com/global-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superloop.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201205222id_/http%3A//superloop.com/global-privacy-policy.html) for the most accurate reproduction.*
 
 # Superloop - Global Privacy Policy
 
-Superloop Ltd and its subsidiaries are committed to protecting the privacy of your personal information. This policy explains how we collect, use, share hold and retain your personal information as required in the normal course and scope of our business or permitted by law (including the Privacy Act 1988 (Australia) and the Personal Data Protection Act (No. 26 of 2012) (Singapore)). We may update this policy from time to time by posting the revised version on our website.
+Superloop Ltd and its subsidiaries are committed to protecting the privacy of your personal information. This policy explains how we collect, use, share hold and retain your personal information as required in the normal course and scope of our business or permitted by law (including the Privacy Act 1988 (Australia), Personal Data (Privacy) Ordinance (Cap 486) (Hong Kong) and the Personal Data Protection Act (No. 26 of 2012) (Singapore)). We may update this policy from time to time by posting the revised version on our website.
 
   
 
@@ -110,4 +110,4 @@ All accesses to pages on our websites are "logged". The logged information conta
 
 Your personal information can be accessed by contacting us at privacy@superloop.com. We take all reasonable steps to ensure that the personal information we hold about you is accurate, complete and up-to-date. You can access and correct most of your personal information by contacting us at privacy@superloop.com if you wish to access or correct personal information that we hold about you.
 
-If you have an enquiry regarding privacy, or you wish to raise a complaint, you can contact the Privacy Officer by email at privacy@superloop.com or by telephone on 07 3088 5999 (AU) or 9101 1433 (SG). Alternatively, you can write to the Privacy Officer – Superloop at the below addresses: 14-16 Church St, Fortitude Valley, QLD 4006, Australia or 3 Temasek Avenue, Centennial Tower, Level 34, Singapore 039190.
+If you have an enquiry regarding privacy, or you wish to raise a complaint, you can contact the Privacy Officer by email at privacy@superloop.com or by telephone on 07 3088 5999 (AU) or 9101 1433 (SG). Alternatively, you can write to the Privacy Officer – Superloop at the below address: Level 17, 333 Ann Street, Brisbane, 4001.
