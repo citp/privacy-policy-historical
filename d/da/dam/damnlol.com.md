@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the damnlol.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605164611id_/http%3A//www.damnlol.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damnlol.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201014649id_/http%3A//www.damnlol.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
-
-## Privacy Policy for Damn! LOL
+# Damn LOL - The best funny pictures
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us at damnlol.com{at}gmail.com
 
