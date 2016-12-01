@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcps.net privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607161215id_/http%3A//www.fcps.net/about-fcps/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcps.net privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201093310id_/http%3A//www.fcps.net/about-fcps/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -18,7 +18,7 @@ Lexington KY 40502**
 
 You can reach the district via [www.fcps.net/letstalk](https://web.archive.org/letstalk) for general questions or comments, or call our switchboard at (859) 381-4100. For technical issues or to be removed from a mailing list, please email [web.team@fayette.kyschools.us](mailto:web.team@fayette.kyschools.us). 
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or email address.
+For each visitor to our web page, our web server automatically recognizes no information regarding the domain or email address.
 
 We collect aggregate information on what pages consumers access or visit, information volunteered by the visitor, such as survey information and/or site registrations.
 
@@ -40,6 +40,6 @@ If you feel that this website is not following its stated information policy, yo
 
   * For questions: **[Pete Koutoulas](http://www.fcps.net/administration/staff-directory/k/koutoulas-pete)**
   * To report a broken link or other website issues: [Tammy Lane](https://web.archive.org/administration/staff-directory/l/lane-tammy)
-  * Updated: **April 29, 2016**
+  * Updated: **July 5, 2016**
 
 
