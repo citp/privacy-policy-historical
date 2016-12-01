@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eqservers.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314044152id_/https%3A//www.eqservers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eqservers.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201022443id_/https%3A//www.eqservers.com/privacy.php) for the most accurate reproduction.*
 
 # EqServers LLC's Privacy Policy
 
