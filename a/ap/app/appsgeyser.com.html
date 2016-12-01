@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the appsgeyser.com privacy policy that was archived on 2016-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160623142342id_/https%3A//www.appsgeyser.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the appsgeyser.com privacy policy that was archived on 2016-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161201190842id_/https%3A//www.appsgeyser.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <title>AppsGeyser - Create Android Apps from any web content</title>
@@ -10,7 +10,8 @@
         <meta name="geo.placename" content="Alexandria">
         <meta name="geo.position" content="38.799972;-77.05069">
         <meta name="ICBM" content="38.799972, -77.05069">
-        <link rel="stylesheet" type="text/css" href="/css/style.css">
+                    <meta name="robots" content="nofollow">
+                <link rel="stylesheet" type="text/css" href="/css/style.css">
         <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.2.0/build/cssreset/reset-min.css">
         <link rel="stylesheet" type="text/css" href="/css/header.css">
         <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
@@ -21,7 +22,7 @@
         <!--[if IE 7]>
             <link href="/css/style-ie7.css" media="all" rel="stylesheet" type="text/css" />
         <![endif]-->
-        <script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery.js" type="text/javascript"></script>
+        <script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NFSPN8"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery.js" type="text/javascript"></script>
         <script src="/js/jquery-jvert-tabs-1.1.4.js" type="text/javascript"></script>
         <script>
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -35,24 +36,125 @@
         </script>
     </head>
     <body bgcolor="white" lang="RU">
-<script type="text/javascript">
-  var is_ssl = ("https:" == document.location.protocol);
-  var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
-  document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script>
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NFSPN8"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-NFSPN8');</script>
+    <!-- End Google Tag Manager -->
+    
+<style>
+    #overflowForBanner {
+        position: absolute;
+        background-color: #000000;
+        opacity: 0.3;
+        z-index: 800;
+        display: none;
+    }
 
-<script type="text/javascript">
-  var feedback_widget_options = {};
+    .ctaClose {
+        position: absolute;
+        width: 30px;
+        right: 10px;
+        top: 10px;
+        cursor: pointer;
+    }
 
-  feedback_widget_options.display = "overlay";
-  feedback_widget_options.company = "appsgeyser";
-  feedback_widget_options.placement = "left";
-  feedback_widget_options.color = "#f89c21";
-  feedback_widget_options.style = "question";
+    .supportPopup {
+        display: none;
+        position: absolute;
+        width: 660px;
+        left: 50%;
+        margin-left: -330px;
+        top: 20%;
+        background-color: #fff;
+        border: 5px solid #f89c21;
+        z-index: 9999;
+        border-radius: 5px;
+    }
 
-	var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
+    .supportButton {
+        position: fixed;
+        left: -2px;
+        top: 20%;
+        background-color: #f89c21;
+        color: #fff;
+        font-size: 20px;
+        writing-mode: tb-rl;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        cursor: pointer;
+        height: 80px;
+        text-align: center;
+        font-weight: bold;
+        border: 2px solid #fff;
+        border-left: none;
+        z-index: 9999;
+        font-family: PFHandbookProRegular;
+
+    }
+
+    .supportFrame{
+        border: none;
+        width: 640px;
+        height: 480px;
+        margin: auto;
+    }
+
+    .supportButtonText{
+        padding: 5px;
+    }
+
+</style>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script>
+    jQuery(function ($) {
+
+        function closeCTA() {
+            $("#overflowForBanner").hide();
+            $("#ctaBanner").hide();
+        }
+
+        function showCTA() {
+            $("#overflowForBanner").css("height", $('body').height());
+            $("#overflowForBanner").css("width", $('body').width());
+            $("#overflowForBanner").show();
+            $("#ctaBanner").show();
+        }
+
+
+        $('.ctaClose').on('click', function () {
+            closeCTA();
+        });
+
+        $('.supportButton').on('click', function () {
+            showCTA();
+        });
+
+    });
+
 </script>
-<script src="/js/custom-text-iframe-feedback.js"></script>
+
+<style>
+
+</style>
+
+<div class="supportButton">
+    <div class="supportButtonText">SUPPORT</div>
+</div>
+
+<div id="overflowForBanner">
+</div>
+
+<div id="ctaBanner" class="supportPopup">
+    <img src="/img/ic_close_black_24dp_2x.png" class="ctaClose">
+    <iframe class="supportFrame" src="/support/frame"></iframe>
+</div>
+
+
 <script src="/js/jquery-ui-1.10.3.custom.min.js"></script>
 
         <div class="body">
@@ -156,7 +258,8 @@ border-bottom-right-radius: 8px;">CREATE APP</a>
                         <div class="row-main" style="color: #666666; font-family: PFHandbookProRegular, sans-serif;">
 
                             <div class="logo-img">
-                                <a class="" href="/"><img alt="App Maker – App Creation FREE Software" title="App Maker – App Creation FREE Software" src="/img/new_mainpage/logo.png"></a>
+                                <a class="" href="/">
+                                    <img alt="App Maker – App Creation FREE Software" title="App Maker – App Creation FREE Software" src="/img/new_mainpage/logo.png"></a>
                             </div>
                             <div class="top-menu head-m" style="">
 
@@ -263,14 +366,14 @@ border-bottom-right-radius: 8px;">CREATE APP</a>
                                         }
                                     </style>
 
-                                    <ul id="menu">
-                                        <li class=" ">
-                                            <a href="/" title="App Maker – App Creation FREE Software" alt="App Maker – App Creation FREE Software" style="text-decoration: none;">HOME</a>
+                                    <ul id="menu" class="ui-menu ui-widget ui-widget-content ui-corner-all" role="menu" tabindex="0" aria-activedescendant="ui-id-7">
+                                        <li class="ui-menu-item" role="presentation">
+                                            <a href="/" title="App Maker – App Creation FREE Software" alt="App Maker – App Creation FREE Software" style="text-decoration: none;" id="ui-id-1" class="ui-corner-all" tabindex="-1" role="menuitem">HOME</a>
                                         </li>
-                                        <li class=" ">
-                                            <a href="http://www.appsgeyser.com/create/start" title="App Maker – App Creation FREE Software" alt="App Maker – App Creation FREE Software" style="text-decoration: none;">BUILD APP</a>
-                                            <ul class="menu-parent animated fadeIn">
-                                                <div class="btnsblock">
+                                        <li class="ui-menu-item" role="presentation">
+                                            <a href="http://www.appsgeyser.com/create/start" title="App Maker – App Creation FREE Software" alt="App Maker – App Creation FREE Software" style="text-decoration: none;" aria-haspopup="true" id="ui-id-2" class="ui-corner-all" tabindex="-1" role="menuitem"><span class="ui-menu-icon ui-icon ui-icon-carat-1-e"></span>BUILD APP</a>
+                                            <ul class="menu-parent animated fadeIn ui-menu ui-widget ui-widget-content ui-corner-all" role="menu" aria-hidden="true" aria-expanded="false" style="display: none;">
+                                                <div class="btnsblock ui-menu-item" role="presentation">
                                                     <li class="child">
                                                         <a href="http://www.appsgeyser.com/create-business-app">Business</a>
                                                     </li>
@@ -285,7 +388,7 @@ border-bottom-right-radius: 8px;">CREATE APP</a>
                                                     </li>
                                                 </div>
 
-                                                <div class="btnsblock">
+                                                <div class="btnsblock ui-menu-item" role="presentation">
 
                                                     <li class="child">
                                                         <a href="http://www.appsgeyser.com/create-youtube-app">YouTube</a>
@@ -300,41 +403,43 @@ border-bottom-right-radius: 8px;">CREATE APP</a>
                                                         <a href="http://www.appsgeyser.com/gamemaker">Gamemaker</a>
                                                     </li>
                                                 </div>
-                                                <li class="child more">
-                                                    <a href="http://www.appsgeyser.com/create/start/#all-templates" style="text-transform: lowercase;">more</a>
+                                                <li class="child more ui-menu-item" role="presentation">
+                                                    <a href="http://www.appsgeyser.com/create/start/#all-templates" style="text-transform: lowercase;" id="ui-id-8" class="ui-corner-all" tabindex="-1" role="menuitem">more</a>
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li class=" ">
-                                            <a href="http://www.appsgeyser.com/gamemaker" title="App Maker – App Creation FREE Software" alt="App Maker – App Creation FREE Software" style="text-decoration: none;">GAMEMAKER</a>
+                                        <li class="ui-menu-item" role="presentation">
+                                            <a href="http://www.appsgeyser.com/gamemaker" title="App Maker – App Creation FREE Software" alt="App Maker – App Creation FREE Software" style="text-decoration: none;" id="ui-id-3" class="ui-corner-all" tabindex="-1" role="menuitem">GAMEMAKER</a>
                                         </li>
-                                        <li class=" ">
-                                            <a href="http://www.appsgeyser.com/showcase" title="App Maker – App Creation FREE Software" alt="App Maker – App Creation FREE Software" style="text-decoration: none;">SHOWCASE</a>
+                                        <li class="ui-menu-item" role="presentation">
+                                            <a href="http://www.appsgeyser.com/showcase" title="App Maker – App Creation FREE Software" alt="App Maker – App Creation FREE Software" style="text-decoration: none;" id="ui-id-4" class="ui-corner-all" tabindex="-1" role="menuitem">SHOWCASE</a>
                                         </li>
-                                        <li class=" ">
-                                            <a href="http://www.appsgeyser.com/blog" title="App Maker – App Creation FREE Software" alt="App Maker – App Creation FREE Software" style="text-decoration: none;">BLOG</a>
-                                            <ul class="menu-parent animated fadeIn">
-                                                <li class="child">
-                                                    <a href="http://www.appsgeyser.com/blog/category/app-ideas/">App Ideas</a>
+                                        <li class="ui-menu-item" role="presentation">
+                                            <a href="http://www.appsgeyser.com/blog" title="App Maker – App Creation FREE Software" alt="App Maker – App Creation FREE Software" style="text-decoration: none;" aria-haspopup="true" id="ui-id-5" class="ui-corner-all" tabindex="-1" role="menuitem"><span class="ui-menu-icon ui-icon ui-icon-carat-1-e"></span>BLOG</a>
+                                            <ul class="menu-parent animated fadeIn ui-menu ui-widget ui-widget-content ui-corner-all" role="menu" aria-hidden="true" aria-expanded="false" style="display: none;">
+                                                <li class="child ui-menu-item" role="presentation">
+                                                    <a href="http://www.appsgeyser.com/blog/category/app-ideas/" id="ui-id-9" class="ui-corner-all" tabindex="-1" role="menuitem">App Ideas</a>
                                                 </li>
-                                                <li class="child">
-                                                    <a href="http://www.appsgeyser.com/blog/category/how-to-make-an-app/">App Creation</a>
+                                                <li class="child ui-menu-item" role="presentation">
+                                                    <a href="http://www.appsgeyser.com/blog/category/how-to-make-an-app/" id="ui-id-10" class="ui-corner-all" tabindex="-1" role="menuitem">App Creation</a>
                                                 </li>
-                                                <li class="child">
-                                                    <a href="http://www.appsgeyser.com/blog/category/app-marketing/">App Marketing</a>
+                                                <li class="child ui-menu-item" role="presentation">
+                                                    <a href="http://www.appsgeyser.com/blog/category/app-marketing/" id="ui-id-11" class="ui-corner-all" tabindex="-1" role="menuitem">App Marketing</a>
                                                 </li>
-                                                <li class="child">
-                                                    <a href="http://www.appsgeyser.com/blog/category/app-monetization/">App Monetization</a>
+                                                <li class="child ui-menu-item" role="presentation">
+                                                    <a href="http://www.appsgeyser.com/blog/category/app-monetization/" id="ui-id-12" class="ui-corner-all" tabindex="-1" role="menuitem">App Monetization</a>
                                                 </li>
-                                                <li class="child more">
-                                                    <a href="http://www.appsgeyser.com/blog/" style="text-transform: lowercase;">more</a>
+                                                <li class="child more ui-menu-item" role="presentation">
+                                                    <a href="http://www.appsgeyser.com/blog/" style="text-transform: lowercase;" id="ui-id-13" class="ui-corner-all" tabindex="-1" role="menuitem">more</a>
                                                 </li>
                                             </ul>
 
                                         </li>
-
-                                        <li class=" ">
-                                            <a href="http://www.appsgeyser.com/support" title="App Maker – App Creation FREE Software" alt="App Maker – App Creation FREE Software" style="text-decoration: none;">SUPPORT</a>
+                                        <li class="ui-menu-item" role="presentation">
+                                            <a href="http://www.appsgeyser.com/community/" title="App Maker – App Creation FREE Software" alt="App Maker – App Creation FREE Software" style="text-decoration: none;" id="ui-id-6" class="ui-corner-all" tabindex="-1" role="menuitem">COMMUNITY</a>
+                                        </li>
+                                        <li class="ui-menu-item" role="presentation">
+                                            <a href="http://www.appsgeyser.com/support" title="App Maker – App Creation FREE Software" alt="App Maker – App Creation FREE Software" style="text-decoration: none;" id="ui-id-7" class="ui-corner-all ui-state-focus" tabindex="-1" role="menuitem">SUPPORT</a>
                                         </li>
 
 
@@ -1130,7 +1235,7 @@ strictly prohibited.</span></p>
 <div class="footer">
     <div class="footer-centered">
         <div class="left_footer_block">
-            <span class="appgeysercopyright">Copyright © <a href="http://www.besttoolbars.net/">Besttoolbars</a>, 2016</span>
+            <span class="appgeysercopyright">Copyright © <a href="http://www.besttoolbars.net/e-commerce/search-engines-serp-injection/">E-commerce Search Engines, SERP Injection</a>, 2016</span>
             <ul class="infolinks">
                 <li><a href="/privacy" class="firstelement">Privacy Policy</a></li>
                 <li><a href="/tos" class="">Terms of Service</a></li>
@@ -1156,7 +1261,7 @@ strictly prohibited.</span></p>
                                     <li><a href="/support" class="">FAQ</a></li>
 
                                     <li><a href="/free_resources" class="">Tutorials</a></li>
-                                    <li><a href="http://getsatisfaction.com/appsgeyser" class="">Community</a></li>
+                                    <li><a href="http://www.appsgeyser.com/community/" class="">Community</a></li>
                                     <li><a href="/custom" class="">Custom Development</a></li>
                                 </ul>
                             </li>
@@ -1175,7 +1280,6 @@ strictly prohibited.</span></p>
                                     <li><a href="http://www.appsgeyser.com/blog" class=""><img title="Free android app builder blog" alt="Free android app builder blog" src="/img/blogger.png">&nbsp;Blog</a></li>
                                     <li><a href="http://twitter.com/appsgeyser" class=""><img title="Free android app builder feed" alt="Free android app builder feed" src="/img/twitter.png">&nbsp;Twitter</a></li>
                                     <li><a href="http://www.facebook.com/#!/pages/AppsGeyser/167531533267957" class=""><img title="Free android app builder page" alt="Free android app builder page" src="/img/facebook.png">&nbsp;Facebook</a></li>
-                                    <li><a href="http://appsgeyser.us2.list-manage.com/subscribe?u=c0bfac433b3370568ec982aee&amp;id=c3c040ff1c" class=""><img title="Free android app maker subscribe" alt="Free android app maker subscribe" src="/img/email.png">&nbsp;Newsletter</a></li>
 				    <li><a href="https://www.youtube.com/channel/UCLEr8ccBCfPVV_MylmzI_Lg" class=""><img title="Free android app maker channel" alt="Free android app maker channel" src="/img/youtebe_16.jpg">&nbsp;YouTube</a></li>
 				    <li><a href="https://plus.google.com/110545245797583733042" class=""><img title="Free android app creator profile" alt="Free android app creator profile" src="/img/google_16.gif">&nbsp;Google+</a></li>
 
@@ -1213,6 +1317,5 @@ strictly prohibited.</span></p>
 </script>
 <noscript><div><img src="//mc.yandex.ru/watch/22613605" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
-
 
 </body></html>
