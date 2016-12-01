@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsim.in privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606000220id_/http%3A//dsim.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsim.in privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201232815id_/http%3A//dsim.in/privacy-policy) for the most accurate reproduction.*
 
 # Advance Digital Marketing Training Program
 
