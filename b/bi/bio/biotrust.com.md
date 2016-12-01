@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biotrust.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610195124id_/http%3A//www.biotrust.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biotrust.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201044342id_/http%3A//www.biotrust.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | BioTRUST
+# BioTrust Nutrition | Privacy Policy
 
 **What information do we collect?**
 
@@ -16,13 +16,13 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google�
 
 Any of the information we collect from you may be used in one of the following ways:
 
-• To improve customer service  
+• To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
-• To process transactions  
+• To process transactions  
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.
 
-• To send periodic emails
+• To send periodic emails
 
 The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
 
@@ -40,7 +40,7 @@ After a transaction, your private information (credit cards, social security num
 
 **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. You can opt-out of cookie tracking from your computer.
+Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. You can opt-out of cookie tracking from your computer.
 
 **Do we disclose any information to outside parties?**
 
@@ -54,7 +54,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 We require that all e-mails promoting BioTrust.com or its subsidiaries are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brands and Web sites using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.
 
-If you feel you’ve been sent unsolicited emails promoting one or more of our brands or websites and would like to register a complaint, please email support@nullbiotrust.com. We will immediately investigate all allegations made related to unsolicited messages.
+If you feel you've been sent unsolicited emails promoting one or more of our brands or websites and would like to register a complaint, please email us. We will immediately investigate all allegations made related to unsolicited messages.
 
 **California Online Privacy Protection Act Compliance**
 
@@ -93,7 +93,7 @@ BioTrust Nutrition, LLC
 111 Congress Ave; Suite 400  
 Austin, TX 78701  
 USA  
-support@nullbiotrust.com  
+support@biotrust.com  
 1-800-766-5086
 
 If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](https://secure.trust-guard.com/disputesystem/disputeresolution.php).
