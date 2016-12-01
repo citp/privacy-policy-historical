@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pacifichost.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621094228id_/http%3A//www.pacifichost.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacifichost.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201070439id_/http%3A//www.pacifichost.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy Information by PacificHost
 
@@ -64,9 +64,9 @@ Add2Net, Inc.
 
 Pacifichost Division
 
-1360 N. Hancock Street
+1908 N. Enterprise Street
 
-Anaheim, CA 92807 
+Orange, CA 92865 
 
 Or via email at [Support@Pacifichost.com](mailto:support@Pacifichost.com)
 
@@ -88,14 +88,14 @@ Add2Net, Inc.
 
 Pacifichost Division
 
-1360 N. Hancock Street
+1908 N. Enterprise Street
 
-Anaheim, CA 92807
+Orange, CA 92865
 
 ## Revisions to This Policy
 
 Pacifichost reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Any revision, amendment, or modification will be posted on our web site: www.Pacifichost.com.
 
-Version 4.0 - 111413
+Version 4.1 - 081816
 
-© Copyright 2000 – 2013 – Add2Net, Inc. All Rights Reserved. 
+© Copyright 2000 – 2016 – Add2Net, Inc. All Rights Reserved. 
