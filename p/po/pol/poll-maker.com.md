@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poll-maker.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611114515id_/http%3A//www.poll-maker.com/Security-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poll-maker.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201184607id_/http%3A//www.poll-maker.com/Security-Privacy) for the most accurate reproduction.*
 
 # Security and Privacy Policy
 
