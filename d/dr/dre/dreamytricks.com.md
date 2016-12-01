@@ -1,46 +1,57 @@
-> *The following text is extracted and transformed from the dreamytricks.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123174155id_/http%3A//www.dreamytricks.com/opanda_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamytricks.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201014506id_/http%3A//www.dreamytricks.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dreamy Tricks
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+This Privacy Policy governs the manner in which Dreamy Tricks collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.dreamytricks.net website (“Site”). This privacy policy applies to the Site and all products and services offered by Dreamy Tricks.
 
-**What personal information do we collect from the people that visit our blog, website or app?**
+**Personal identification information**
 
-When using our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
+We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-**How do we use your information?**
+**Non-personal identification information**
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, unlock the content, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-  * To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested
-  * To improve our website in order to better serve you.
-  * To allow us to better service you in responding to your customer service requests.
-  * To administer a contest, promotion, survey or other site feature.
-  * To send periodic emails regarding your order or other products and services.
+**Web browser cookies**
 
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
+**How we use collected information**
 
-**Do we use ‘cookies’?**
+Dreamy Tricks may collect and use Users personal information for the following purposes:
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-
-We use cookies to:
-
-  * Understand and save user’s preferences for future visits.
-  * Memorize the users who have unlocked access to premium content.
+  * _To improve customer service_  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
 
 
-If you disable cookies off, some features will be disabled. It will affect the users experience and some of our services will not function properly.
+**How we protect your information**
 
-**Third Party Disclosure**
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+**Sharing your personal information**
 
-**Third party links**
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+**Third party websites**
 
-If there are any questions regarding this privacy policy you may contact us.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+
+**Changes to this privacy policy**
+
+Dreamy Tricks has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+**Your acceptance of these terms**
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Contacting us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+[Dreamy Tricks](http://www.dreamytricks.net/)  
+**http://www.dreamytricks.net**  
+dreamytricks@gmail.com
+
+This document was last updated on December 28, 2014
