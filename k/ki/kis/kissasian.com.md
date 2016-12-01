@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kissasian.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231230943id_/http%3A//kissasian.com/Message/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissasian.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201221511id_/http%3A//kissasian.com/Message/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
