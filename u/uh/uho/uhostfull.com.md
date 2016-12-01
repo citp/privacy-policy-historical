@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhostfull.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617144817id_/http%3A//www.uhostfull.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhostfull.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201232039id_/http%3A//www.uhostfull.com/privacy.php) for the most accurate reproduction.*
 
 # U Host Full | Privacy Policy
 
