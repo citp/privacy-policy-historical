@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the logstash.net privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417133043id_/https%3A//www.elastic.co/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logstash.net privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201220356id_/https%3A//www.elastic.co/legal/privacy-policy) for the most accurate reproduction.*
 
 # Elastic.co Privacy Policies | Elastic
 
-Not for editing
+Not for editing 
 
- **Effective Date: February 17, 2016**
+**Effective Date: February 17, 2016**
 
 THANK YOU FOR VISITING [WWW.ELASTIC.CO](http://www.elastic.co/) (TOGETHER WITH ALL ASSOCIATED WEBSITES LINKED TO SUCH WEBSITE BY ELASTICSEARCH, INC., ITS SUBSIDIARIES AND AFFILIATED COMPANIES, THE "SITE"), WHICH IS OWNED AND OPERATED BY ELASTICSEARCH, INC. AND/OR ITS AFFILIATES (COLLECTIVELY, “ELASTIC”, “WE” OR “US”). THIS PRIVACY POLICY (“PRIVACY POLICY”) EXPLAINS HOW ELASTIC COLLECTS AND USES INFORMATION THAT YOU SUBMIT TO US WHILE VISITING AND/OR USING THE SITE. 
 
@@ -125,3 +125,5 @@ In its sole discretion, Elastic may transfer, sell or assign your Personal Data 
 The headings used for the sections in this Privacy Policy are for convenience and reference purposes only and shall in no way affect the meaning or interpretation of this Privacy Policy. The obligations and rights set forth in this Privacy Policy shall survive any termination or expiration of your use of the Site. 
 
 Please contact us at [legal@elastic.co](mailto:legal@elastic.co) if you have any questions regarding this Privacy Policy. 
+
+[View this privacy policy in Japanese](https://web.archive.org/jp/legal/privacy-policy).
