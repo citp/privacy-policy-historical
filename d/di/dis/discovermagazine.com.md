@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discovermagazine.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616180204id_/http%3A//www.kalmbach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovermagazine.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201191420id_/http%3A//www.kalmbach.com/privacy) for the most accurate reproduction.*
 
 # Kalmbach Publishing Co. - Privacy Policy updated 052014
 
