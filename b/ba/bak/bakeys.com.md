@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakeys.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524220007id_/http%3A//www.bakeys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakeys.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201185550id_/http%3A//www.bakeys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BAKEYS
 
@@ -70,4 +70,7 @@ Bakeys Foods Private Limited
 Musheerabad, Hyderabad: 500 020, Telengana.  
 URL: www.bakeys.com,  
 Email: info@bakeys.com,  
+For all general info, bulk orders and international enquiries write to- info@bakeys.com  
+For cancelltion of orders within India write to – support@bakeys.com  
+For Marketing / invetments write to – marketing@bakeys.com  
 Tel: 9393762080
