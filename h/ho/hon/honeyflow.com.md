@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honeyflow.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524015109id_/http%3A//www.honeyflow.com/extras/privacy-policy/p/8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honeyflow.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201051847id_/https%3A//www.honeyflow.com/extras/privacy-policy/p/8) for the most accurate reproduction.*
 
 # BeeInventive's Privacy Policy - Flow™ Hive
 
