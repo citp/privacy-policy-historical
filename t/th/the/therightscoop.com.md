@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the therightscoop.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613195743id_/http%3A//www.therightscoop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therightscoop.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201125744id_/http%3A//therightscoop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » The Right Scoop -
+# Privacy Policy - The Right Scoop
 
 ## Your Privacy
 
