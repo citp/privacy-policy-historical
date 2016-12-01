@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wantitbuyit.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516133138id_/http%3A//www.wantitbuyit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wantitbuyit.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201032556id_/http%3A//www.wantitbuyit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
