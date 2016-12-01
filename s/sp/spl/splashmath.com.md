@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splashmath.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322005407id_/https%3A//www.splashmath.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splashmath.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201031215id_/https%3A//www.splashmath.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Splash Math
 
@@ -87,4 +87,4 @@ If you have any questions or concerns regarding privacy on our Website, please s
 
 Effective Date: December 1, 2015
 
-Joy Deep Nath: [joydeep@splashmath.com](mailto:joydeep@splashmath.com) 100 W El Camino Real Ste #72, Mountain View, CA 94040. Phone: +1 855 979 8948
+Joy Deep Nath: [joydeep@splashmath.com](mailto:joydeep@splashmath.com) 100 W EI Camino Real, Ste #72 Mountain View CA - 94040. Phone: +1 855 979 8948
