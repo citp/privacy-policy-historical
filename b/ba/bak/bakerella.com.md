@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bakerella.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607155154id_/http%3A//www.bakerella.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakerella.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201231259id_/http%3A//www.bakerella.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy « bakerella.com
+# Privacy Policy – bakerella.com
 
 This privacy notice discloses the privacy practices for Bakerella.com. By using the Bakerella website, you are consenting to the practices described in this privacy policy, which may also be modified from time to time by us and updated on this page.
 
