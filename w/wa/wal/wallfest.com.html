@@ -1,0 +1,501 @@
+<!--The following is the downloaded HTML source of the wallfest.com privacy policy that was archived on 2016-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161201110512id_/http%3A//wallfest.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US"><head>
+	
+<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://wallfest.com/xmlrpc.php">
+
+<title>Privacy Policy | WallFest</title>
+
+<!-- All in One SEO Pack 2.2.6.2 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<meta name="description" itemprop="description" content="Our team at Media Source is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and">
+
+<link rel="canonical" href="http://wallfest.com/privacy-policy/">
+<!-- /all in one seo pack -->
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="WallFest » Feed" href="http://wallfest.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="WallFest » Comments Feed" href="http://wallfest.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="WallFest » Privacy Policy Comments Feed" href="http://wallfest.com/privacy-policy/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/wallfest.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://wallfest.com/wp-includes/js/wp-emoji-release.min.js?ver=4.6.1" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="http://wallfest.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1.2" type="text/css" media="all">
+<link rel="stylesheet" id="tp_twitter_plugin_css-css" href="http://wallfest.com/wp-content/plugins/recent-tweets-widget/tp_twitter_plugin.css?ver=1.0" type="text/css" media="screen">
+<link rel="stylesheet" id="ace_responsive-css" href="http://wallfest.com/wp-content/plugins/simple-embed-code/css/ace-video-container.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="http://wallfest.com/wp-content/themes/smartblog/css/bootstrap.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="http://wallfest.com/wp-content/themes/smartblog/css/font-awesome.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="theme-style-css" href="http://wallfest.com/wp-content/themes/smartblog-child/style.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="responsive-css" href="http://wallfest.com/wp-content/themes/smartblog/css/responsive.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="redux-google-fonts-themepixels_options-css" href="http://fonts.googleapis.com/css?family=Noto+Serif%3A400%2C700%2C400italic%2C700italic&amp;ver=1461617663" type="text/css" media="all">
+<script type="text/javascript" src="http://wallfest.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://wallfest.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<link rel="https://api.w.org/" href="http://wallfest.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://wallfest.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://wallfest.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.6.1">
+<link rel="shortlink" href="http://wallfest.com/?p=214">
+<link rel="alternate" type="application/json+oembed" href="http://wallfest.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwallfest.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://wallfest.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwallfest.com%2Fprivacy-policy%2F&amp;format=xml">
+<style type="text/css">
+.header-style-one .logo, .header-style-two .logo, .header-style-three .logo { margin-top: 15px; }.header-style-one .logo, .header-style-two .logo, .header-style-three .logo { margin-bottom: 15px; }.header-style-two .primary-menu > li > a { height: 100px; line-height: 98px; }.header-style-two .header-search-btn { line-height: 100px; }.sticky-header .sticky-menu > li > a { height: 80px; line-height: 78px; }.sticky-header .sticky-header-search-btn { line-height: 80px; }                                    
+</style>
+<!--[if lt IE 9]><script src="http://wallfest.com/wp-content/themes/smartblog/js/html5.js"></script><![endif]--><link rel="shortcut icon" href="http://wallfest.com/wp-content/uploads/2016/03/wallfest-favicon.png">		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<style type="text/css" title="dynamic-css" class="options-output">body{font-family:"Noto Serif";font-weight:normal;font-style:normal;}</style>
+</head>
+<body class="page page-id-214 page-template-default fullwidth">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-53370814-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<div id="wrapper" class="clearfix">
+
+	
+<header id="sticky-header" class="sticky-header">
+	<div class="container">
+		<div class="sticky-header-inner clearfix">
+			
+			
+<div class="logo">
+			<a href="http://wallfest.com/" rel="home">
+			<img src="http://wallfest.com/wp-content/uploads/2016/03/wallfest-logo.jpg" alt="WallFest" class="std-logo">
+					</a>
+	</div><!-- End .logo -->
+			<nav class="sticky-navigation clearfix">
+
+									<ul id="menu-main" class="sticky-menu sf-menu"><li id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-10 sf-normal-menu"><a href="http://wallfest.com/">Home</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14 sf-normal-menu"><a href="http://wallfest.com/category/trends/">TREND WALL</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12 sf-normal-menu"><a href="http://wallfest.com/category/editorspicks/">PICK WALL</a></li>
+<li id="menu-item-1007" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1007 sf-normal-menu"><a href="/videos">VID WALL</a></li>
+</ul>				
+									<div class="sticky-header-search-icon">
+						<a class="sticky-header-search-btn overlay-search-trigger" href="#"><i class="fa fa-search"></i></a>
+					</div><!-- End .sticky-header-search-icon -->
+				
+			</nav><!-- End .sticky-navigation -->
+
+			<div class="sticky-mobile-menu-icons clearfix">
+				<a href="#" class="primary-mobile-trigger"><i class="fa fa-bars"></i></a>
+			</div><!-- End .sticky-mobile-menu-icons -->
+
+		</div>
+	</div>
+</header><!-- End #sticky-header -->
+	<div class="header-wrapper">
+		
+		
+<div class="top-bar-wrapper">
+	<div class="container">
+		<div class="top-bar-inner clearfix">
+			
+			<div class="top-bar-left clearfix">
+				
+<nav class="top-navigation clearfix">
+	</nav><!-- End .top-navigation -->			</div><!-- End .top-bar-left -->
+
+			<div class="top-bar-right clearfix">
+
+									<div class="top-bar-search-icon">
+						<a href="" class="top-search-btn overlay-search-trigger"><i class="fa fa-search"></i></a>
+					</div>
+								
+				<div class="top-bar-social clearfix"><ul class="social-icons social-squared"><li><a href="https://twitter.com/WallFest_" class="social-twitter" data-toggle="tooltip" data-placement="bottom" title="Twitter"><i class="fa fa-twitter"></i><i class="fa fa-twitter"></i></a></li><li><a href="http://www.facebook.com/618240831595136/" class="social-facebook" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i class="fa fa-facebook"></i><i class="fa fa-facebook"></i></a></li></ul></div>
+			</div><!-- End .top-bar-right -->
+
+							<div class="top-mobile-menu-icon clearfix">
+					<span class="top-mobile-menu-trigger-desc">Top Menu</span>
+					<span class="top-mobile-menu-trigger"><i class="fa fa-bars"></i></span>
+				</div><!-- End .top-mobile-menu-icon -->
+			
+		</div>
+	</div>
+</div><!-- End .top-bar-wrapper -->
+
+<div class="top-mobile-navigation clearfix">
+	<div class="container">
+		<div class="top-mobile-navigation-inner">
+			
+
+	<div class="mobile-menu-search">
+		<form role="search" method="get" class="form-inline" action="http://wallfest.com/">
+			<div class="form-group has-search-icon">
+				<input type="search" class="form-control" placeholder="Search" value="" name="s">
+				<span class="fa fa-search form-control-search" aria-hidden="true"></span>
+			</div>
+		</form>
+	</div>
+		</div>
+	</div>
+</div><!-- End .top-mobile-navigation -->
+		
+		
+<header id="header" class="header-style-two">
+	<div class="container">
+		<div class="header-inner clearfix">
+			
+			
+<div class="logo">
+			<a href="http://wallfest.com/" rel="home">
+			<img src="http://wallfest.com/wp-content/uploads/2016/03/wallfest-logo.jpg" alt="WallFest" class="std-logo">
+					</a>
+	</div><!-- End .logo -->
+			
+<nav class="primary-navigation clearfix">
+	
+			<ul id="menu-main-1" class="primary-menu sf-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-10 sf-normal-menu"><a href="http://wallfest.com/">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14 sf-normal-menu"><a href="http://wallfest.com/category/trends/">TREND WALL</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12 sf-normal-menu"><a href="http://wallfest.com/category/editorspicks/">PICK WALL</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1007 sf-normal-menu"><a href="/videos">VID WALL</a></li>
+</ul>	
+			<div class="header-search-icon">
+			<a class="header-search-btn overlay-search-trigger" href="#"><i class="fa fa-search"></i></a>
+		</div><!-- End .header-search-icon -->
+	
+</nav><!-- End .primary-navigation -->
+			<div class="primary-mobile-menu-icons clearfix">
+				<a href="#" class="primary-mobile-trigger"><i class="fa fa-bars"></i></a>
+			</div><!-- End .primary-mobile-menu-icons -->
+
+		</div>
+	</div><!-- End .container -->
+</header><!-- End #header -->
+								<div class="init-sticky-header"></div>
+					
+	</div><!-- End .header-wrapper -->
+	
+	
+	
+	
+	
+	<div class="main-wrapper clearfix">
+		<div id="main" class="container">
+			<div class="row">
+				
+				<div id="primary" class="content-area col-md-8 content-left">
+					<div id="content" role="main">
+
+						
+							
+<article id="post-214" class="post-entry clearfix post-214 page type-page status-publish hentry">
+	<div class="post-box">
+					<div class="post-header clearfix">
+				<div class="post-info-wrap">
+					<h1 class="post-title">Privacy Policy</h1>
+											<div class="post-meta clearfix">
+							<ul><li><i class="fa fa-user"></i><a href="http://wallfest.com/author/contactthestyler-com/" rel="author">[email&nbsp;protected]</a></li><li><i class="fa fa-clock-o"></i><time class="entry-date published" datetime="2014-07-22T05:46:08+00:00">July 22, 2014</time></li><li><i class="fa fa-eye"></i><span>7690 Views</span></li><li><a href="#" class="tp-post-like" data-post_id="214" title="Like"><i class="fa fa-heart-o"></i>&nbsp;25</a></li><li><i class="fa fa-comments"></i><a href="http://wallfest.com/privacy-policy/#respond" class="comments-link">Leave a comment</a></li></ul>						</div>
+									</div>
+			</div><!-- End .post-header -->
+						<div class="post-content">
+			<p>Our team at Media Source is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.</p>
+<p><strong>General</strong></p>
+<p>Our users are free to visit and enjoy our content at no personal obligation; users can exit the site whenever they so choose and do not need to reveal any personal information about themselves. There are some services offered that users may want to take advantage of, and it’s possible they will be required to disclose some personal information, including but not limited to, their first and last name, home address, email address, telephone numbers and birthday. It is also possible that other information will be collected on other applicable pages within our sites. If any users do choose to submit information to us directly or to a third party via our site, they can be assured that we will never sell or lease their personal information except;</p>
+<ol>
+<li>for special promotions which may be offered on occasion on our sites in conjunction with a third party service provider in order to fulfill any deals or promotions that the user signed up for</li>
+<li>to third party service providers we have partnered with so we may provide services our users requested</li>
+<li>following a notice posted on a relevant page on our site that collects personal information following a transaction that notifies the user and discloses the purchase</li>
+</ol>
+<p>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank"><strong>http://www.networkadvertising.org/managing/opt_out.asp</strong></a></p>
+<p><strong>Cookies</strong></p>
+<p>To make our content and site as a whole as relevant as possible, we will collect information that identifies your browser type, user agent, IP address or other information. We will never track and store any personally identifiable information. We are able to do this by placing small files or cookies on your computer when you browser through our sites. Cookies are simply small pieces of data that include an anonymous unique identifier that travels to your browser and is stored on your hard drive. Users have the ability to delete and/or clear cookies whenever they so choose, and cookies in no way cause any damage to a computer. They simply enable a more efficient, relevant browsing experience.</p>
+<p><strong>Disclosure of User Information for Legal Purposes</strong></p>
+<p>Federal and state laws requires that from time to time we may be obligated to share personal user information (review Cookies section) that are pursuant to judicial subpoenas or warrants. We also reserve the right to use and share personal information we collect in order to investigate and prevent any activity deemed illegal, fraudulent or may cause physical harm to another person.</p>
+<p><strong>External Links</strong></p>
+<p>Our site’s pages will contain links to third party websites that be be unrelated to the content we have created and own. Please understand that we are not responsible for the privacy practices of any and all third party companies and websites. It is always recommended to review the privacy policies of all websites you enter to ensure you are fully protected under the law.</p>
+<p><strong>Children</strong></p>
+<p>Federal law mandates that we cannot collect any personally identifiable information that originates from a child under the age of thirteen without full consent from that child’s parent of guardian. Therefore we will never collect any information if we know or deem the user to be under the age of thirteen.</p>
+<p><strong>Advertising</strong></p>
+<p>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">http://www.networkadvertising.org/managing/opt_out.asp</a></p>
+					</div><!-- End .post-content -->
+					<div class="post-footer">
+				<ul class="social-icons social-squared"><li><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwallfest.com%2Fprivacy-policy%2F" class="social-facebook" data-toggle="tooltip" data-placement="top" title="Share on Facebook"><i class="fa fa-facebook"></i><i class="fa fa-facebook"></i></a></li><li><a href="https://twitter.com/share?url=http%3A%2F%2Fwallfest.com%2Fprivacy-policy%2F&amp;text=Privacy Policy" class="social-twitter" data-toggle="tooltip" data-placement="top" title="Share on Twitter"><i class="fa fa-twitter"></i><i class="fa fa-twitter"></i></a></li><li><a href="https://plus.google.com/share?url=http%3A%2F%2Fwallfest.com%2Fprivacy-policy%2F" class="social-google-plus" data-toggle="tooltip" data-placement="top" title="Share on Google Plus"><i class="fa fa-google-plus"></i><i class="fa fa-google-plus"></i></a></li><li><a href="https://pinterest.com/pin/create/bookmarklet/?media=&amp;url=http%3A%2F%2Fwallfest.com%2Fprivacy-policy%2F&amp;is_video=false&amp;description=Privacy Policy" class="social-pinterest" data-toggle="tooltip" data-placement="top" title="Share on Pinterest"><i class="fa fa-pinterest"></i><i class="fa fa-pinterest"></i></a></li><li><a href="http://www.linkedin.com/shareArticle?url=http%3A%2F%2Fwallfest.com%2Fprivacy-policy%2F&amp;title=Privacy Policy" class="social-linkedin" data-toggle="tooltip" data-placement="top" title="Share on Linkedin"><i class="fa fa-linkedin"></i><i class="fa fa-linkedin"></i></a></li><li><a href="http://digg.com/submit?url=http%3A%2F%2Fwallfest.com%2Fprivacy-policy%2F&amp;title=Privacy Policy" class="social-digg" data-toggle="tooltip" data-placement="top" title="Share on Digg"><i class="fa fa-digg"></i><i class="fa fa-digg"></i></a></li><li><a href="mailto:?subject=Privacy Policy&amp;body=http%3A%2F%2Fwallfest.com%2Fprivacy-policy%2F" class="social-email" data-toggle="tooltip" data-placement="top" title="Share by Email"><i class="fa fa-envelope-o"></i><i class="fa fa-envelope-o"></i></a></li></ul>			</div><!-- End .post-footer -->
+			</div><!-- End .post-box -->
+</article><!-- End #post-## -->
+							
+
+<div class="comment-form-wrapper">
+					<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title"></h3><h2 class="section-title"><span>Leave a Reply</span></h2> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/privacy-policy/#respond" style="display:none;">Cancel reply</a></small>				<form action="http://wallfest.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate="">
+					<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><div class="row"><div class="form-group col-md-12"><label for="comment">Your Comment <span class="required">*</span></label> <textarea id="comment" class="form-control" name="comment" rows="8" aria-describedby="form-allowed-tags" aria-required="true"></textarea></div></div><div class="row"><div class="form-group col-md-6"><label for="author">Name <span class="required">*</span></label> <input id="author" class="form-control" name="author" type="text" value="" aria-required="true"></div>
+<div class="form-group col-md-6"><label for="email">Email <span class="required">*</span></label> <input id="email" class="form-control" name="email" type="text" value="" aria-describedby="email-notes" aria-required="true"></div>
+<div class="form-group col-md-12"><label for="url">Website</label> <input id="url" class="form-control" name="url" type="text" value=""></div></div>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="btn btn-squared btn-primary" value="Submit Comment"> <input type="hidden" name="comment_post_ID" value="214" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+</p>				</form>
+					</div><!-- #respond -->
+		</div><!-- End .comment-form-wrapper -->
+						
+					</div><!-- End #content -->
+				</div><!-- End #primary -->
+
+				<aside id="secondary" class="sidebar col-md-4 sidebar-right" role="complementary">
+					<div class="sidebar-inner clearfix">
+						
+<div id="calendar-4" class="sidebar-widget widget_calendar clearfix"><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar">
+	<caption>December 2016</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://wallfest.com/2016/11/">« Nov</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="3" class="pad">&nbsp;</td><td id="today">1</td><td>2</td><td>3</td><td>4</td>
+	</tr>
+	<tr>
+		<td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td>
+	</tr>
+	<tr>
+		<td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td>
+	</tr>
+	<tr>
+		<td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td>
+	</tr>
+	<tr>
+		<td>26</td><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td>
+		<td class="pad" colspan="1">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></div><div id="text-16" class="sidebar-widget widget_text clearfix">			<div class="textwidget"><script type="text/javascript">
+    var cachebuster=new Date().getTime();
+    document.write('<SCR' + 'IPT SRC="http://ib.adnxs.com/ttj?id=7385250&size=300x600&pagetype=ros&promo_sizes=&cb=' + cachebuster + '" TYPE="text/javascript"></SCR' + 'IPT>');
+</script><script src="http://ib.adnxs.com/ttj?id=7385250&amp;size=300x600&amp;pagetype=ros&amp;promo_sizes=&amp;cb=1580463900541" type="text/javascript"></script>
+</div>
+		</div><div id="text-17" class="sidebar-widget widget_text clearfix">			<div class="textwidget"><script type="text/javascript">
+    var cachebuster=new Date().getTime();
+    document.write('<SCR' + 'IPT SRC="http://ib.adnxs.com/ttj?id=7385207&size=300x250&pagetype=ros&promo_sizes=&cb=' + cachebuster + '" TYPE="text/javascript"></SCR' + 'IPT>');
+</script><script src="http://ib.adnxs.com/ttj?id=7385207&amp;size=300x250&amp;pagetype=ros&amp;promo_sizes=&amp;cb=1580463900542" type="text/javascript"></script>
+</div>
+		</div><div id="text-18" class="sidebar-widget widget_text clearfix">			<div class="textwidget"><script type="text/javascript">
+    var cachebuster=new Date().getTime();
+    document.write('<SCR' + 'IPT SRC="http://ib.adnxs.com/ttj?id=7385177&size=160x600&pagetype=ros&promo_sizes=&cb=' + cachebuster + '" TYPE="text/javascript"></SCR' + 'IPT>');
+</script><script src="http://ib.adnxs.com/ttj?id=7385177&amp;size=160x600&amp;pagetype=ros&amp;promo_sizes=&amp;cb=1580463900543" type="text/javascript"></script></div>
+		</div>					</div>
+				</aside><!-- End #secondary -->
+
+				
+			</div>
+		</div>
+	</div><!-- End .main-wrapper -->
+	
+
+
+
+	<div class="footer-wrapper">
+
+		<div style="margin: 10px auto; max-width: 728px;" class="bottom-ad" <div=""><script type="text/javascript">
+    var cachebuster=new Date().getTime();
+    document.write('<SCR' + 'IPT SRC="http://ib.adnxs.com/ttj?id=7385274&size=728x90&pagetype=ros&promo_sizes=&cb=' + cachebuster + '" TYPE="text/javascript"></SCR' + 'IPT>');
+</script><script src="http://ib.adnxs.com/ttj?id=7385274&amp;size=728x90&amp;pagetype=ros&amp;promo_sizes=&amp;cb=1580463900544" type="text/javascript"></script>
+</div>
+		</div>
+		<!--<div style="width: 100%; text-align: center;">
+					<div style="display: inline-block;">
+					</div>
+				</div>-->
+
+					<footer id="footer" class="clearfix">
+				<div class="container">
+					<div class="footer-inner clearfix">
+						<div class="row">
+
+															<div class="col-md-3">
+									<div id="calendar-5" class="footer-widget widget_calendar clearfix"><div class="calendar_wrap"><table id="wp-calendar">
+	<caption>December 2016</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://wallfest.com/2016/11/">« Nov</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="3" class="pad">&nbsp;</td><td id="today">1</td><td>2</td><td>3</td><td>4</td>
+	</tr>
+	<tr>
+		<td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td>
+	</tr>
+	<tr>
+		<td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td>
+	</tr>
+	<tr>
+		<td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td>
+	</tr>
+	<tr>
+		<td>26</td><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td>
+		<td class="pad" colspan="1">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></div>								</div>
+							
+															<div class="col-md-3">
+											<div id="recent-posts-2" class="footer-widget widget_recent_entries clearfix">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://wallfest.com/jennifer-lopez-promotes-shades-of-blue-in-all-pink-get-up/">Jennifer Lopez Promotes ‘Shades of Blue’ In All Pink Get-Up</a>
+						</li>
+					<li>
+				<a href="http://wallfest.com/kim-kardashian-shows-up-in-custom-made-balmain-dress/">Kim Kardashian Shows Up In Custom Made Balmain Dress</a>
+						</li>
+					<li>
+				<a href="http://wallfest.com/bella-hadids-all-red-london-look/">Bella Hadid’s All Red London Look</a>
+						</li>
+					<li>
+				<a href="http://wallfest.com/khloe-kardashian-garners-attention-at-book-signing-with-sultry-bodysuit/">Khloe Kardashian Garners Attention At Book Signing With Sultry Bodysuit</a>
+						</li>
+					<li>
+				<a href="http://wallfest.com/kim-kardashian-west-poses-for-her-forbes-photoshoot-in-all-balmain/">Kim Kardashian-West Poses For Her Forbes Photoshoot In All Balmain</a>
+						</li>
+				</ul>
+		</div>										</div>
+							
+															<div class="col-md-3">
+									<div id="recent-comments-2" class="footer-widget widget_recent_comments clearfix"><h3 class="widget-title">Recent Comments</h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">lisette pulver</span> on <a href="http://wallfest.com/kylie-jenner-rocks-an-orange-look-for-the-plt-x-usa-launch-event/#comment-3438">Kylie Jenner Rocks An Orange Look For The PLT X USA Launch Event</a></li><li class="recentcomments"><span class="comment-author-link">Ilana Hosking</span> on <a href="http://wallfest.com/kylie-jenner-rocks-an-orange-look-for-the-plt-x-usa-launch-event/#comment-3437">Kylie Jenner Rocks An Orange Look For The PLT X USA Launch Event</a></li><li class="recentcomments"><span class="comment-author-link">Aiko Yau</span> on <a href="http://wallfest.com/kylie-jenner-rocks-an-orange-look-for-the-plt-x-usa-launch-event/#comment-3436">Kylie Jenner Rocks An Orange Look For The PLT X USA Launch Event</a></li><li class="recentcomments"><span class="comment-author-link">jolene payton</span> on <a href="http://wallfest.com/kylie-jenner-rocks-an-orange-look-for-the-plt-x-usa-launch-event/#comment-3435">Kylie Jenner Rocks An Orange Look For The PLT X USA Launch Event</a></li><li class="recentcomments"><span class="comment-author-link">tara shaner</span> on <a href="http://wallfest.com/kylie-jenner-rocks-an-orange-look-for-the-plt-x-usa-launch-event/#comment-3434">Kylie Jenner Rocks An Orange Look For The PLT X USA Launch Event</a></li><li class="recentcomments"><span class="comment-author-link">Evelia Bouldin</span> on <a href="http://wallfest.com/check-out-rihannas-all-blue-balmain-attire/#comment-3428">Check Out Rihanna’s All Blue Balmain Attire</a></li><li class="recentcomments"><span class="comment-author-link">dominique wayman</span> on <a href="http://wallfest.com/check-out-rihannas-all-blue-balmain-attire/#comment-3429">Check Out Rihanna’s All Blue Balmain Attire</a></li></ul></div>								</div>
+							
+															<div class="col-md-3">
+									<div id="categories-3" class="footer-widget widget_categories clearfix"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-3"><a href="http://wallfest.com/category/editorspicks/">the Picks</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://wallfest.com/category/seasonalfashion/">the Seasons</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="http://wallfest.com/category/trends/">the Trends</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://wallfest.com/category/uncategorized/">Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-679"><a href="http://wallfest.com/category/videos/">Videos</a>
+</li>
+		</ul>
+</div>								</div>
+							
+						</div>
+					</div>
+				</div>
+			</footer><!-- End #footer -->
+		
+					<div class="footer-bottom">
+				<div class="container">
+					<div class="footer-bottom-inner clearfix">
+
+						<div class="footer-social clearfix"><ul class="social-icons social-squared social-rounded social-colored"><li><a href="http://www.facebook.com/618240831595136/" class="social-twitter" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i><i class="fa fa-twitter"></i></a></li><li><a href="https://twitter.com/WallFest_" class="social-facebook" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i><i class="fa fa-facebook"></i></a></li></ul></div>
+						<div class="copyright clearfix">
+							2016 © WallFest.com
+
+<p><a href="http://wallfest.com/privacy-policy/">Privacy Policy</a></p>						</div><!-- End .copyright -->
+
+					</div>
+				</div>
+			</div><!-- End .footer-bottom -->
+		
+	</div><!-- End .footer-wrapper -->
+
+<!-- End #wrapper -->
+
+
+<div class="overlay-search clearfix">
+	<div class="overlay-search-inner">
+		<form action="http://wallfest.com/" class="overlay-search-form" role="search" method="get">
+			<input type="search" class="form-control" name="s" value="" autocomplete="off" placeholder="To search type and hit enter...">
+		</form>
+	</div>
+	<a href="#" class="overlay-search-close">×</a>
+</div><!-- End .overlay-search -->
+	<a href="#" class="scroll-to-top"><i class="fa fa-arrow-up"></i></a>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var ajax_var = {"url":"http:\/\/wallfest.com\/wp-admin\/admin-ajax.php","nonce":"0b4bf3cb09"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://wallfest.com/wp-content/themes/smartblog/js/post-like.js?ver=1.0"></script>
+<script type="text/javascript" src="http://wallfest.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/wallfest.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://wallfest.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.1.2"></script>
+<script type="text/javascript" src="http://wallfest.com/wp-content/themes/smartblog/js/bootstrap.min.js?ver=1.0"></script>
+<script type="text/javascript" src="http://wallfest.com/wp-content/themes/smartblog/js/plugins.js?ver=1.0"></script>
+<script type="text/javascript" src="http://wallfest.com/wp-content/themes/smartblog/js/custom.js?ver=1.0"></script>
+<script type="text/javascript" src="http://wallfest.com/wp-includes/js/comment-reply.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://wallfest.com/wp-includes/js/wp-embed.min.js?ver=4.6.1"></script>
+
+
+<div id="sidr-primary">
+
+	<a href="#" class="sidr-primary-close">Close</a>
+
+			<ul id="menu-main-2" class="primary-mobile-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-10"><a href="http://wallfest.com/">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14"><a href="http://wallfest.com/category/trends/">TREND WALL</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12"><a href="http://wallfest.com/category/editorspicks/">PICK WALL</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1007"><a href="/videos">VID WALL</a></li>
+</ul>	
+			<div class="mobile-menu-search">
+			<form role="search" method="get" class="form-inline" action="http://wallfest.com/">
+				<div class="form-group has-search-icon">
+					<input type="search" class="form-control" placeholder="Search" value="" name="s">
+					<span class="fa fa-search form-control-search" aria-hidden="true"></span>
+				</div>
+			</form>
+		</div>
+		
+</div><!-- End #sidr-primary -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a55938d632","applicationID":"25320004","transactionName":"NAEHMEIEDURVUxEMCQ1LJAdEDAxZG0AEAgM=","queueTime":0,"applicationTime":303,"atts":"GEYERgoeHko=","errorBeacon":"bam.nr-data.net","agent":""}</script><script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
+
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: wallfest.com @ 2016-12-01 11:05:12 by W3 Total Cache --></body></html>
