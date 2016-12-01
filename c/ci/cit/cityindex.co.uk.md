@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityindex.co.uk privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021033158id_/http%3A//www.cityindex.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityindex.co.uk privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201054607id_/http%3A//www.cityindex.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Spread Betting | CFD Trading | CFDs | City Index
 
@@ -10,7 +10,20 @@ The purpose of this policy is to explain to you what personal information we col
 
 **How we check your identity** To comply with money laundering regulations we need to confirm the name and address of our customers. We may ask you to provide physical forms of identity verification when you open your account. Alternatively, we may use a credit reference agency to verify your identity. Our search is not seen or used by lenders to assess your ability to obtain credit.
 
-**Using your personal information** The personal information we hold is only used for establishing and managing your account, to help us identify you when you contact us and supplying you with information regarding opportunities that we believe may be of interest to you. As a result we may send you marketing material from time to time by email, telephone, fax or other electronic messaging service unless you indicate to us that you would prefer not to receive it. If you do not wish to receive this information, please contact us.
+**Using your personal information** The personal information we hold may be used for establishing and managing your account, reviewing your ongoing needs, enhancing customer service and products and providing ongoing information or opportunities that we believe may be relevant to you. As a result, we may send you marketing material from time to time by email, telephone, SMS or other electronic messaging services. If you do not wish to receive this information, please contact us by emailing our customer service team at [support@cityindex.co.uk](mailto:support@cityindex.co.uk "Contact us").
+
+Depending on the product or service concerned and particular restrictions on sensitive information, personal information may be disclosed to:
+
+  * other companies within GAIN Capital who provide financial and other services;
+  * service providers and specialist advisers who have been contracted to provide us with administrative, financial, insurance, research or other services;
+  * introducing brokers with whom we have a mutual relationship (any of whom may be within or outside the European Economic Area) and who have introduced you to us;
+  * courts, tribunals and regulatory authorities as agreed or authorised by law
+  * credit providers, credit reporting or reference agencies; and
+  * anyone authorised by an individual, as specified by that individual or the contract
+
+
+
+Generally, we require that organisations outside GAIN Capital who handle or obtain personal information as service providers acknowledge the confidentiality of this information, undertake to respect any individual’s right to privacy and comply with the Data Protection Principles and this policy.
 
 **Joint Applicants** You should only give us personal information about someone else (such as a joint applicant) with their permission. Where information is provided by you about someone else, or someone discloses information about you, it may be added to any personal information that is already held by us and it will be used in the ways described in this privacy notice. Sometimes, when you open a joint account or product, this may mean that your personal data will be shared with the other applicant. For example, transactions made by you will be seen by your joint account holder and vice versa.
 
