@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the koreanmall.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518181347id_/http%3A//koreanmall.com/app/company/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koreanmall.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201114250id_/http%3A//www.koreanmall.com/app/company/policy) for the most accurate reproduction.*
 
-# Korean Online Shopping Mall | Kpop, Korean Cosmetic, women clothing, men clothing, Korean bag, Korean wallet, Korean accessories, Korean shoes, Korean watch, Korean jewelry, Korean Skin Care, Korean Makeup, Korean cleanser, Korean Body Care, Korean Hair Care, Men Cosmetics, Korean Groceries, Korean Processed Foods, Korean Healthy Foods, Korean Clothing, Korean Accessories, Korean Toys, Korean Games,Korean Baby, Korean Maternity, Korean Bedding, Korean Furniture, Deco, Korean Kitchen, Korean Dining, Korean Stationery, Korean ELECTRONICS, Sports Clothing, Ball, Hiking, Camping, Fishing, Golf, Swimming, Ski, Bicycle, Inline, Cars, CD, DVD,k pop, Lowest Price, Worldwide fast shipping available By Koreanmall, 코리안몰
+# Koreanmall | 코리안몰
 
 | 
 
