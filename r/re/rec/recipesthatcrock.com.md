@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the recipesthatcrock.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323182634id_/http%3A//www.recipesthatcrock.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipesthatcrock.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201152616id_/http%3A//www.recipesthatcrock.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure, Disclaimer & Privacy Policies - Recipes That Crock!
 
 ## Disclosure Information
 
-This blog is a personal blog written and edited by me, Aunt Lou and occasionally Puddie. (We don’t have a staff)  For questions about this blog, please contact [recipethatcrock@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=recipesthatcrock@gmail.com).
+This blog is a personal blog written and edited by me, Aunt Lou and occasionally Puddie. (We don’t have a staff)  For questions about this blog, please contact [cris@recipesthatcrock.com](mailto:cris@recipesthatcrock.com) .
 
 This blog accepts forms of cash advertising, sponsorship, or other forms of compensation, such as free products to review and giveaway. (Mama likes to pay the bills and the fam likes free stuff)
 
