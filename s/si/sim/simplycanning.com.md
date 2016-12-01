@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplycanning.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608013059id_/http%3A//www.simplycanning.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplycanning.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201184915id_/http%3A//www.simplycanning.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Simply Canning - ie the legal stuff.
 
@@ -61,3 +61,8 @@ If you do not agree to Simply Canning's Privacy Policy as posted here on this we
 **Your use of this site indicates acceptance of this privacy policy.**
 
 Return from [Return from Privacy Policy to Simply Canning Home](http://www.simplycanning.com/)
+
+## Books and Classes  
+
+
+[](http://www.simplycanning.com/canning-basics.html "Go to Home Canning Basics Course.  Gain Confidence and a full pantry with this class.")
