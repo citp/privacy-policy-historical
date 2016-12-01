@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merakilane.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513221913id_/http%3A//www.merakilane.com/legal-stuff) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merakilane.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201134858id_/http%3A//www.merakilane.com/legal-stuff) for the most accurate reproduction.*
 
 # DISCLOSURE, PRIVACY, & COPYRIGHT POLICIES - Meraki Lane
 
