@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hamiltonbroadway.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615051909id_/http%3A//www.hamiltonbroadway.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamiltonbroadway.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201053143id_/http%3A//www.hamiltonbroadway.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## What information do we collect?
 
-We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.
+We collect information from you when you register on our site, subscribe to our newsletter, request theater directions or fill out a form.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, physical address and/or telephone number. You may, however, visit our site anonymously.
+When ordering or registering on our site, or requesting theater directions, as appropriate, you may be asked to enter your: name, e-mail address, physical address and/or telephone number. You may, however, visit our site anonymously.
 
 * * *
 
