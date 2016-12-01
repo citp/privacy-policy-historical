@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanaru.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331135745id_/http%3A//fanaru.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanaru.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201175258id_/http%3A//fanaru.com/privacy.php) for the most accurate reproduction.*
 
 # fanaru.com | Privacy Policy
 
