@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nonib.com.au privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323025947id_/http%3A//www.nonib.com.au/privacy-policy/w1/i1001340) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonib.com.au privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201010659id_/http%3A//www.nonib.com.au/privacy-policy/w1/i1001340) for the most accurate reproduction.*
 
 # Privacy Policy | Womens Clothes Online | Noni B
 
@@ -18,7 +18,7 @@ We collect personal information to keep you up to date with any important change
 
 Sharing information with third parties
 
-Noni B does not share, sell or trade your personal information gathered online with third parties. Personal information collected online will only be disclosed within our corporate group for marketing purposes. We may however need to provide your personal information to third parties so that they may provide us with certain services, for example, mailing letters and brochures. In this case your information is always treated as confidential.
+Noni B does not share, sell or trade your personal information gathered online with third parties. Personal information collected online will only be disclosed within our corporate group for marketing purposes. We may however need to provide your personal information to third parties to perform services on our behalf, such as Google Adwords, mailing letters and brochures. In this case your information is always treated as confidential.
 
 How can I review my choices about receiving promotional communication? 
 
@@ -31,13 +31,13 @@ We take all reasonable steps to maintain the security and integrity of your pers
 
 Security
 
-Any personal information that you submit will be protected by our secure server. We might, on occasions, use this information to notify you of any important changes to our site or any special promotions that may be of interest to you. However, [www.nonib.com.au](http://www.nonib.com.au/scripts/redir.asp?link=http%3A%2F%2Fwww.nonib.com.au) will not to sell or trade your personal information to any third party organisations or individuals without your consent other than third party suppliers in the delivery of services you have agreed to accept from [www.nonib.com.au](http://www.nonib.com.au/scripts/redir.asp?link=http%3A%2F%2Fwww.nonib.com.au) or if we are requested to do so by a law enforcement agency in relation to a suspected breach of any law. 
+Any personal information that you submit will be protected by our secure server. We might, on occasions, use this information to notify you of any important changes to our site or any special promotions that may be of interest to you. However, [www.nonib.com.au](http://www.nonib.com.au/scripts/redir.asp?link=http://www.nonib.com.au) will not to sell or trade your personal information to any third party organisations or individuals without your consent other than third party suppliers in the delivery of services you have agreed to accept from [www.nonib.com.au](http://www.nonib.com.au/scripts/redir.asp?link=http://www.nonib.com.au) or if we are requested to do so by a law enforcement agency in relation to a suspected breach of any law. 
 
 Online ordering security
 
-Protecting your personal and order information is a priority at Noni B. As such we have created a secure transaction environment. We use Secure Sockets Layer (SSL) technology – Our On-line Ordering system is the industry standard for encryption technology – to protect your online order information. SSL encrypts all information including your credit card and all personal information passed from you to [www.nonib.com.au](http://www.nonib.com.au/scripts/redir.asp?link=http%3A%2F%2Fwww.nonib.com.au). Encryption provides you with security and peace of mind when your browser and local network supports the use of encrypted data transmissions. 
+Protecting your personal and order information is a priority at Noni B. As such we have created a secure transaction environment. We use Secure Sockets Layer (SSL) technology – Our On-line Ordering system is the industry standard for encryption technology – to protect your online order information. SSL encrypts all information including your credit card and all personal information passed from you to [www.nonib.com.au](http://www.nonib.com.au/scripts/redir.asp?link=http://www.nonib.com.au). Encryption provides you with security and peace of mind when your browser and local network supports the use of encrypted data transmissions. 
 
-By using the [www.nonib.com.au](http://www.nonib.com.au/scripts/redir.asp?link=http%3A%2F%2Fwww.nonib.com.au) site, you are consenting to the collection of information by [www.nonib.com.au](http://www.nonib.com.au/scripts/redir.asp?link=http%3A%2F%2Fwww.nonib.com.au).
+By using the [www.nonib.com.au](http://www.nonib.com.au/scripts/redir.asp?link=http://www.nonib.com.au) site, you are consenting to the collection of information by [www.nonib.com.au](http://www.nonib.com.au/scripts/redir.asp?link=http://www.nonib.com.au).
 
 How can I contact Noni B?
 
