@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the white-wolf.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527054856id_/http%3A//www.white-wolf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the white-wolf.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201060907id_/http%3A//www.white-wolf.com/privacy) for the most accurate reproduction.*
 
 # White Wolf Publishing - World of Darkness
 
