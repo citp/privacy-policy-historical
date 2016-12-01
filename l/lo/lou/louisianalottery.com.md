@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the louisianalottery.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323142545id_/https%3A//louisianalottery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the louisianalottery.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201223908id_/https%3A//louisianalottery.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Louisiana Lottery
 
@@ -38,7 +38,8 @@ This form does NOT collect any personally identifiable information. Answers to t
  _Using the "Find A Retailer" Page From a Mobile Device_  
 If you access the "Find A Retailer" Page from a mobile device, you will be given the option to enable your device?s GPS in order to find a retailer(s) near your exact location. This information is used only to deliver tailored search results and is not stored. If you prefer not to share your location, utilize the zip code search option instead. Depending upon your device and settings, once you have granted permission to enable GPS, it may remain in effect until you change it.
 
- **User Age Requirements**  
+ **User Age Requirements**
+
 The Louisiana Lottery does not knowingly collect information from children. Club Lotteaux registrants and Facebook promotion participants are required to be at least 21 years of age.
 
  **Dissemination of Information Collected**
@@ -71,6 +72,6 @@ The Louisiana Lottery may revise this Privacy Policy from time to time without n
 
  **Contacting the Lottery**
 
-If you should have any questions about our Privacy Policy, the practices of this site or your dealings with this site, or if you believe that your personal information is being used for a purpose other than what is outlined in this policy, please contact the Louisiana Lottery Corporation at 555 Laurel Street, Baton Rouge, LA  70801 or by emailing info@louisianalottery.com.
+If you should have any questions about our Privacy Policy, the practices of this site or your dealings with this site, or if you believe that your personal information is being used for a purpose other than what is outlined in this policy, please contact the Louisiana Lottery Corporation at 555 Laurel Street, Baton Rouge, LA 70801 or by emailing info@louisianalottery.com.
 
  _Rev. 8/10/2012_
