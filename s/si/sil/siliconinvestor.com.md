@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the siliconinvestor.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325203126id_/http%3A//www.siliconinvestor.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconinvestor.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201090116id_/http%3A//www.siliconinvestor.com/privacy.aspx) for the most accurate reproduction.*
 
 # Silicon Investor (SI) -- The First Internet Community
 
-Privacy Policy | [Terms of Use](https://web.archive.org/web/20160325203126id_/http%3A//www.siliconinvestor.com/terms.aspx)   
+Privacy Policy | [Terms of Use](https://web.archive.org/web/20161201090116id_/http%3A//www.siliconinvestor.com/terms.aspx)   
   
   
-Silicon Investor is strongly committed to protecting the privacy of its user community.   
+Silicon Investor is strongly committed to protecting the privacy of its user community. 
+
 The intent of this privacy policy is to detail the information Silicon Investor may gather about individuals who visit its Web sites, how that information is used, and Silicon Investor's disclosure practices. Please note that this policy applies only to Silicon Investor's Web sites and not to the Web sites of other companies or organizations to which we provide links. 
 
 **Site Usage Information**  
