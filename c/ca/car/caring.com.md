@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the caring.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403070317id_/https%3A//www.caring.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caring.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201111127id_/https%3A//www.caring.com/about/privacy) for the most accurate reproduction.*
 
-# Senior Care: Housing, Home Care, Community, Articles
+# Caring.com Privacy Policy | Caring.com
 
 ## Last Updated: August 11, 2015
 
