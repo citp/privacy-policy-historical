@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the seventhgeneration.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610065443id_/http%3A//www.seventhgeneration.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seventhgeneration.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201090311id_/http%3A//www.seventhgeneration.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Seventh Generation
 
-Seventh Generation (SG) is committed to protecting your personal privacy. We have created our Privacy Policy in order to outline the type of information that is collected when using our site or shopping online with SG, how we protect it and how you can elect to change your information. The following statement discloses our information gathering and dissemination practices for our Web sites: [www.seventhgeneration.com](http://www.seventhgeneration.com/ "www.seventhgeneration.com") and [shop.seventhgeneration.com ](http://shop.seventhgeneration.com/)(the "SG Sites").
+Seventh Generation (SG) is committed to protecting your personal privacy. We have created our Privacy Policy in order to outline the type of information that is collected when using our site or shopping online with SG, how we protect it and how you can elect to change your information. The following statement discloses our information gathering and dissemination practices for our Web sites: [www.seventhgeneration.com](http://www.seventhgeneration.com/ "www.seventhgeneration.com") (the "SG Sites").
 
 The SG Sites contain links to third-party Web sites. SG is not responsible for the privacy practices or the content of such Web sites. We encourage our users to be aware when they leave the SG Sites and to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by the SG Sites.
 
