@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intownwebdesign.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521025832id_/http%3A//www.intownwebdesign.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intownwebdesign.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201020831id_/http%3A//www.intownwebdesign.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
