@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the motorstown.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324125717id_/http%3A//www.motorstown.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorstown.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201134702id_/http%3A//www.motorstown.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Photo of the day:
 
-[ ](http://www.motorstown.com/873-volkswagen-lupo.html)
+[ ](http://www.motorstown.com/584-citroen-c2.html)
 
 | 
 
