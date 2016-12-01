@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the computermania.co.za privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329224312id_/http%3A//www.computermania.co.za/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computermania.co.za privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201200609id_/http%3A//www.computermania.co.za/privacy.aspx) for the most accurate reproduction.*
 
-# Home
+# Computer Mania > Home
 
-Computer Mania is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Computer Mania Web site and governs data collection and usage. By using the Computer Mania website, you consent to the data practices described in this statement.
+Computer Mania is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Computer Mania site and governs data collection and usage. By using the Computer Mania site, you consent to the data practices described in this statement.
 
 Collection of your Personal Information
 
-Computer Mania collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Computer Mania also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+Computer Mania collects personally identifiable information, such as your email address, name, home or work address or telephone number. Computer Mania also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-There is also information about your computer hardware and software that is automatically collected by Computer Mania. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Computer Mania for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Computer Mania Web site.
+There is also information about your computer hardware and software that is automatically collected by Computer Mania. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by Computer Mania for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Computer Mania site.
 
 Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Computer Mania public message boards, this information may be collected and used by others. Note: Computer Mania does not read any of your private online communications.
 
