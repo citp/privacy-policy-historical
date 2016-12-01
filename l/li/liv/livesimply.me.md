@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livesimply.me privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609225554id_/http%3A//livesimply.me/disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livesimply.me privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201100724id_/http%3A//livesimply.me/disclosure-policy) for the most accurate reproduction.*
 
 # Disclosure Policy - Live Simply
 
@@ -38,43 +38,11 @@ If you would like to find out more about cookies you can visit [http://www.abou
 
 **Facebook** – Cookies and pixels are used to understand and deliver ads and make them more relevant to you. We may also use a cookie to learn whether someone who saw an ad on Facebook later visited our website.
 
-## HOTJAR
-
-Pinch of Yum uses a software called Hotjar. [Hotjar’s privacy policy](https://www.hotjar.com/privacy) explains in detail how Hotjar is used.
-
-This information is automatically collected while a visitor navigates and interacts with the content on our site. The sole purpose of collecting this information is to improve the user experience.
-
-Through the Hotjar tracking code embedded on our website, the information collected includes:
-
-### DEVICE-SPECIFIC DATA
-
-The following information may be collected through your device and browser:
-
-  * your device’s IP address (collected and stored in an anonymized format)
-  * device screen size
-  * device type (unique device identifiers) and bowser information
-  * geographic location (country only)
-  * preferred language used to display the webpage
-
-
-
-### LOG DATA
-
-Hotjar automatically record information which is created upon using www.livesimply.me. Data includes:
-
-  * referring domain
-  * pages visited
-  * geographic location (country only)
-  * preferred language used to display the webpage
-  * date and time when website pages were accessed
-
-
-
 ## DOUBLECLICK DART COOKIE
 
 Google, as a third party vendor, uses cookies to serve ads on www.livesimply.me.  
 Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.livesimply.me and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL –<http://www.google.com/privacy_ads.html>
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <https://www.google.com/policies/privacy/>
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include…
 
