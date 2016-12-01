@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lolprofile.net privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502110559id_/http%3A//lolprofile.net/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolprofile.net privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201135801id_/http%3A//lolprofile.net/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LoLProfile
 
@@ -53,4 +53,4 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [contact us page](http://lolprofile.net/home/contactus)
 
-This document was last updated on November 27, 2014
+This document was last updated on September 12th 2016 
