@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kekaku.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603223408id_/http%3A//www.kekaku.com/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kekaku.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201041139id_/http%3A//www.kekaku.com/about) for the most accurate reproduction.*
 
-# Kekaku - About Site Kekaku
+# Kekaku - About Site
 
 Your privacy is critically important to us. At kekaku we have a few fundamental principles:
 
