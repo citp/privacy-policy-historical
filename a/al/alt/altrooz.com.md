@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altrooz.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603093025id_/http%3A//altrooz.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altrooz.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201103059id_/http%3A//altrooz.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Altrooz | Privacy Policy
 
@@ -6,142 +6,58 @@
 
 ### Please review our privacy policy so we can bring you the best advertising experience possible
 
-  * #### What kids of information do we collect?
+Altrooz is committed to protecting consumer privacy and to clearly informing users about the collection and use of information when using our services. As a result, we have put together this Privacy Policy to explain how we collect and use certain information. This Privacy Policy and the opt-out choices below apply to Altrooz's mobile advertising products and services (collectively, our “Service”). This Privacy Policy also applies to our company websites located at www.altrooz.com, (collectively, our “Website”). 
 
-Depending on which Services you use, we collect different kinds of information from or about you.  
+##### Our Business
 
+Altrooz is a mobile advertising company. We use our proprietary technology to offer advertising solutions to our clients, which includes working with advertisers to deliver their advertising campaigns across our network of mobile publishers and application (“app”) developers (our “Platform”). 
 
-  * #### Things you do and information you provide.
+##### Information Collection and Sharing
 
-We collect the content and other information you provide when you use our Services, including when you sign up for an account, create or share, and message or communicate with others. This can include information in or about the content you provide, such as your location or the date an app was shared. We also collect information about how you use our Services, such as the types of content you view or engage with or the frequency and duration of your activities.  
+Website Data Collection. Altrooz is the sole owner of the information collected on our Websites. The information may consist of both Personally Identifiable Information (“PII”) and Non-Personally Identifiable Information (“Non-PII”), and is collected in order to conduct business with current and prospective business clients. PII is information about a specific individual (i.e. name, contact information, or billing information) that is used to identify that individual. We do not sell or rent data collected via our Websites to other parties, but we may provide it to third parties as necessary to conduct our business operations and to our customers for the performance of our Services, or we may disclose such data as otherwise described in this policy. Altrooz uses these data to provide requested information to prospective clients, to establish self-service advertiser and publisher accounts, and otherwise as necessary to conduct our business. If you would like to review or request changes to PII that you have submitted through our Websites, or would like to request that we not share your PII with third parties, please contact us using the information below. 
 
+Data Collected On Our Platform and from Partners. Altrooz collects Non-PII from across our Platform. This data, which may include anonymous identifiers associated with your mobile device and the precise location of your device (i.e. GPS or Wi-Fi data if you enable these services), does not identify you personally, and may come from such sources like your mobile web browser, or the apps that you use. We use a variety of technologies to collect this data, including “cookies,” which are small text files that can be stored on your browser. We may also collect and/or use information collected by our partners and shared with us, and data from third party business partners. We use this Non-PII (including device identifiers) along with our technology to perform a variety of tasks, such as improving the relevance of the ads, identifying possible relationships among different browsers and devices, limiting the number of times a specific advertisement is presented to the same mobile device (frequency capping), providing an advertisement to only certain types of mobile devices, or providing a report to a client on the number of its advertisements that were clicked. We may share this Non-PII with clients, vendors, and other companies with whom we conduct business, and as otherwise described in this policy. We may also use some of this data to provide interest-based advertising, as discussed more fully below. 
 
-  * #### Things others do and information they provide.
+Other Information Sharing. Altrooz’s affiliated entities covered by this policy may share data with each other or with other affiliated entities. We may also share any aggregate or de-identified information with our partners. We may disclose information, including PII, when in our sole judgment we are required to do so by law, regulation, or when such action is necessary to comply with a current judicial proceeding, a court order or legal process. Additionally, there may be times where we will need to disclose information to protect our system or our rights or to ensure your safety or the safety of others. We may also transfer all or some of the data discussed in this policy, in connection with a corporate merger, acquisition, partial or total sale of assets, bankruptcy, or any other corporate change. 
 
-We also collect content and information that other people provide when they use our Services, including information about you, such as when they send a message to you.  
+##### Interest-Based Advertising and Opt Out
 
+Altrooz works with its clients to provide ads that are likely to be more interesting and more relevant to mobile device users. One way we do this is by using our technology, along with Non-PII related to your mobile device that is gathered across different sources. Examples of this data, which does not identify you personally (Non-PII), may include things like mobile websites you have visited or mobile apps that you use, preferences that you may have provided to your app provider or to Altrooz (as in a survey), information collected by our partners and other third parties and shared with us, device identifiers, or location information (i.e. GPS or Wi-Fi data if you have enabled those services). We may link an identifier to additional data from other partners to provide us with some information about users’ likely interests (for example, that a user seems to be interested in purchasing a new car). When we have such information, the ads that we display to that user can be more relevant to his or her interests. 
 
-  * #### Your networks and connections.
+Altrooz adheres to the Digital Advertising Alliance’s Self-Regulatory Principles. For more information about these Principles and the choices provided to you, you can visit www.aboutads.info. If you would like to opt out of the use of data for in-app advertisements, please download and use the appropriate Truste Ad Privacy Manager applications below based on your device’s operating system: 
 
-We collect information about the people and groups you are connected to and how you interact with them, such as the people you communicate with the most or the groups you like to share with. We also collect contact information you provide if you upload, sync or import this information (such as an address book) from a device.  
+  * [iOS Ad Privacy Manager](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=551047372&mt=8)  
 
+  * [Android Ad Privacy Manager](https://play.google.com/store/apps/details?id=com.truste.mobile.consumer&feature=search_result)
 
 
 
+##### Links to Third-Party Websites and Third-Party Content Websites
 
-  * #### Device information.
+Our Websites may contain links to other websites, such as sites providing news coverage of the company, to partner sites for case studies, and to industry association sites of which Altrooz is a member. Altrooz is not responsible for the privacy notices or practices of these third-party websites. Ads. We may also provide ads that link to third-party sites, third-party apps, or other third-party content (“Third-Party Content”). This Privacy Policy does not extend to Third-Party Content, or any services offered on Third-Party Content. 
 
-We collect information from or about the computers, phones, or other devices where you install or access our Services, depending on the permissions you’ve granted. We may associate the information we collect from your different devices, which helps us provide consistent Services across your devices. Here are some examples of the device information we collect: 
+##### Data Collection On Behalf Of Third Parties
 
-Attributes such as the operating system, hardware version, device settings, file and software names and types, battery and signal strength, and device identifiers. 
+We may, on behalf of our clients and partners, collect information from end users. This may occur, for example, if someone submits information in response to an ad that we provide on behalf of an advertising client. Such information may consist of PII, non-PII, or both. In such situations, we collect the information and provide it to our client, and it will be subject to that client’s privacy practices. 
 
-Device locations, including specific geographic locations, such as through GPS, Bluetooth, or WiFi signals. 
+Children´s Privacy If you believe your child has provided Altrooz with personal information, such as by registering at one of Altrooz´s websites, and you would like to have the data removed, please contact us using the contact information below. 
 
-Connection information such as the name of your mobile operator or ISP, browser type, language and time zone, mobile phone number and IP address.
+Security Altrooz takes steps to protect the security of information that we collect. To that end, we have designed and deployed hardware, software, and networking solutions in an effort to reasonably secure and protect access to our systems and data. 
 
-  * #### Information from websites and apps that use our Services.
+United States-European Union Safe Harbor and United States-Swiss Safe Harbor Altrooz is based in the United States, and, regardless of where you use our services or otherwise provide information to us, the information may be transferred to and maintained on servers located in the U.S. Please note that any information we obtain about you will be stored in accordance with U.S. privacy laws, regulations, and standards, which may not be equivalent to the laws in your country of residence. By using our Services or by providing us with your information, you consent to this collection, transfer, storage, and processing of information to and in the United States. 
 
-We collect information when you visit or use third-party websites and apps that use our Services. This includes information about the websites and apps you visit, your use of our Services on those websites and apps, as well as information the developer or publisher of the app or website provides to you or us.  
+For users of Altrooz provided in the EU, please be aware that your data may be transferred to Altrooz group entities and third parties located in countries that are not considered by the European Commission or other governmental agencies to offer adequate protection of your personal data. For these cases, Altrooz has put into place safeguards to ensure adequate protection of your data, such as (and to the extent applicable) European Commission-approved standard contractual clauses, your consent or other safeguards. 
 
+##### Changes to Privacy Policy
 
-  * #### Information from third-party partners.
+Altrooz is committed to continually examining and reviewing its privacy practices, and may make changes to its Privacy Policy. In the event that any changes that we believe are material are made to the company´s privacy practices, we will post a revised Privacy Policy on this website. 
 
-We receive information about you and your activities on and off Altrooz from third-party partners, such as information from a partner when we jointly offer services or from an advertiser about your experiences or interactions with them.  
+##### Questions and Concerns
 
+If you have any questions or concerns about our privacy practices, you may contact us: 
 
-
-
-
-  * #### Provide, improve and develop services.
-
-We are passionate about creating engaging and customized experiences for people. We use all of the information we have to help us provide and support our Services. Here’s how: 
-
-We are able to deliver our Services, personalize content, and make suggestions for you by using this information to understand how you use and interact with our Services and the people or things you’re connected to and interested in on and off our Services.
-
-We also use information we have to provide shortcuts and suggestions to you. For example, we are able to suggest certain apps for you to download based on the apps that your friends have and share. You can also control which apps are visible to other users of our Service.
-
-When we have location information, we use it to tailor our Services for you and others, like helping you to discover which apps are being used by teachers within 50 miles or kilometers of your location.
-
-We conduct surveys and research, test features in development, and analyze the information we have to evaluate and improve products and services, develop new products or features, and conduct audits and troubleshooting activities.
-
-  * #### Communicate with you.
-
-We use your information to send you marketing communications, communicate with you about our Services and let you know about our policies and terms. We also use your information to respond to you when you contact us.  
-
-
-  * #### Show and measure ads and services.
-
-We use the information we have to improve our advertising and measurement systems so we can show you relevant ads on and off our Services and measure the effectiveness and reach of ads and services.  
-
-
-  * #### Promote safety and security.
-
-We use the information we have to help verify accounts and activity, and to promote safety and security on and off of our Services, such as by investigating suspicious activity or violations of our terms or policies. We work hard to protect your account using teams of engineers, automated systems, and advanced technology such as encryption and machine learning.  
-
-
-
-
-
-  1. collecting info             
-  2. media             
-  3. your info             
-  4.  sharing             
-  5. faq             
-
-
-
-  * #### Sharing on our Services.
-
-People use our Services to connect and share with others. We make this possible by sharing your information in the following ways:
-
-When you share and communicate using our Services, you choose the audience who can see what you share. For example, when you post a question in AppBullseye, you select the audience for the post, such as a customized group of individuals, all of your Friends, or members of a Group. Likewise, when you use our messaging features, you also choose the people who receive your message.
-
-Public Information is any information you share with a public audience. Public information is available to anyone on or off our Services and can be seen or accessed through online search engines, APIs, and offline media, such as on TV.
-
-In some cases, people you share and communicate with may download or re-share this content with others on and off our Services. When you comment on another person’s post in AppBullseye, that person’s post can be shared with other users who you may not know. If their audience is public, your comment will also be public.
-
-  * #### People that see content others share about you.
-
-Other people may use our Services to share content about you with the audience they choose. For example, people may share an app you posted, or share information about you that you shared with them. If you have concerns with someone’s post, please report the incident to [privacy@altrooz.com](mailto:privacy@altrooz.com) so we can investigate.  
-
-
-  * #### Sharing with Third-Party Partners and Customers.
-
-We work with third party companies who help us provide and improve our Services or who use advertising or related products, which makes it possible to operate our companies and provide free services to people around the world.  
-
-
-  * #### Types of Third-Parties we can share information with about you:
-
-Advertising, Measurement and Analytics Services (Non-Personally Identifiable Information Only).
-
-We want our advertising to be as relevant and interesting as the other information you find on our Services. With this in mind, we use all of the information we have about you to show you relevant ads. We do not share information that personally identifies you (personally identifiable information is information like name or email address that can by itself be used to contact you or identifies who you are) with advertising, measurement or analytics partners unless you give us permission. We may provide these partners with information about the reach and effectiveness of their advertising without providing information that personally identifies you, or if we have aggregated the information so that it does not personally identify you.  
-For example, we may tell an advertiser how its ads performed, or how many people viewed their ads or installed an app after seeing an ad, or provide non-personally identifying demographic information (such as 25 year old female, in Madrid, who likes software engineering) to these partners to help them understand their audience or customers.  
-We transfer information to vendors, service providers, and other partners who globally support our business, such as providing technical infrastructure services, analyzing how our Services are used, measuring the effectiveness of ads and services, providing customer service, facilitating payments, or conducting academic research and surveys. These partners must adhere to strict confidentiality obligations in a way that is consistent with this Data Policy and the agreements we enter into with them.
-
-
-
-
-  * #### How can I manage or delete information about me?
-
-We store data for as long as it is necessary to provide products and services to you and others, including those described above. Information associated with your account will be kept until your account is deleted, unless we no longer need the data to provide products and services.
-
-You can delete your account any time. When you delete your account, we delete things you have posted, such as your comments, favorites or ratings. To delete your account please send a request to feedback@appbullseye.com requesting your account to be deleted. Keep in mind that information that others have shared about you is not part of your account and will not be deleted when you delete your account.
-
-  * #### How do we respond to legal requests or prevent harm?
-
-We may access, preserve and share your information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. We may also access, preserve and share information when we have a good faith belief it is necessary to: detect, prevent and address fraud and other illegal activity; to protect ourselves, you and others, including as part of investigations; or to prevent death or imminent bodily harm. 
-
-For example, we may provide information to third-party partners about the reliability of your account to prevent fraud and abuse on and off of our Services. Information we receive about you, including financial transaction data related to purchases may be accessed, processed and retained for an extended period of time when it is the subject of a legal request or obligation, governmental investigation, or investigations concerning possible violations of our terms or policies, or otherwise to prevent harm. We also may retain information from accounts disabled for violations of our terms for at least a year to prevent repeat abuse or other violations of our terms.
-
-  * #### How will we notify you of changes to this policy?
-
-We’ll notify you before we make changes to this policy and give you the opportunity to review and comment on the revised policy before continuing to use our Services.  
-
-
-  * #### How to contact Altrooz with questions?
-
-If you have questions about this policy, you can reach us at [privacy@altrooz.com.](mailto:privacy@altrooz.com)  
-
-
-
-
+Altrooz, Inc.  
+85 Liberty Ship Way, Suite 208  
+Sausalito, CA 94965  
+(415) 215-1760  
+[privacy@altrooz.com](mailto:privacy@altrooz.com)
