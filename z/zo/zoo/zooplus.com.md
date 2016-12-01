@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zooplus.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602221812id_/http%3A//www.zooplus.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooplus.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201011552id_/http%3A//www.zooplus.com/content/privacy) for the most accurate reproduction.*
 
 # Pet Supplies, Pet Food, and Pet Products on Sale Now at zooplus.com
 
@@ -31,6 +31,11 @@ Cookies are alphanumeric means of identification that are transferred onto your 
 
 During your shopping session at zooplus we transfer a permanent cookie onto your hard drive. This allows our systems to save the shopping cart while you are shopping with us. Please be advised that permanent cookies are mandatory for shopping with zooplus. We ensure you that no other information will be stored in our systems. 
 
-To read our full Cookie Usage Policy, click [here](http://www.zooplus.com/content/cookies).
+To read our full Cookie Usage Policy, click [here](http://www.zooplus.com/content/cookies)
 
-08 September 2015
+**Optimizely**  
+In order to continuously improve our website, we perform A / B testing. We do this by using the web analytics service provided by the company Optimizely, Inc. (https://www.optimizely.com).   
+We know how important it is to keep all personal information confidential and Optimizely never collects personal data. Your browsing data is anonymous and never includes any personally identifiable information. Data collected on website usage is transmitted anonymously to an Optimizely server in USA and stored there.   
+You can disable Optimizely by following the instructions here: http://www.optimizely.com/opt_out.
+
+Munich, 23. June 2016
