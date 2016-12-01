@@ -1,64 +1,17 @@
-> *The following text is extracted and transformed from the plugable.com privacy policy that was archived on 2007-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070710011551id_/http%3A//www.textdrive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plugable.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201214320id_/http%3A//plugable.com/privacy) for the most accurate reproduction.*
 
-# TextDrive Privacy Policy
+# Privacy | Plugable
 
-TextDrive, Inc (hereinafter the “Companies”) respects individual privacy and value the confidence of their customers, employees, consumers, business partners and others. The Companies strive to collect, use and disclose personal information in a manner consistent with the laws of the countries in which they do business, and pride themselves on upholding the highest ethical standards in their business practices. This General Privacy Policy (the “Policy”) sets forth the privacy principles that the Companies follow.
+Your privacy and the confidentiality of your personal and business data is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of your information. The following outlines our policy.
 
-## Information that we capture
-
-### All visitors to our site
-
-Visitors to our site have their IP address, HTTP refferrer information and requested pages logged into plain text and SQL databases.
-
-### Participants in our forum and weblog commenting
-
-Participants in our forum and weblog commenting have their IP address, HTTP refferrer information and requested pages logged into plain text and SQL databases. They can optionally include their First, Last or Full name; an email address; a web site URL; and other optional information that can be included in specific fields or in a general text area.
-
-### Customers that sign up for our services
-
-Customers that sign up for our services have their IP address, HTTP refferrer information and requested pages logged into plain text and SQL databases, in addition to their “username”, email address, URL, billing and mailing addresses, and credit card (number, expiration data and CCV) or paypal billing informations.
-
-### Clients that log into our servers via SSH and SFTP
-
-Clients that log into our servers via SSH and SFTP have their IP addresses, reverse DNS information and initial commands logged into secured local and remote text files and SQL databases.
-
-### Clients that execute programs or script on our servers
-
-Clients that execute programs or script on our servers have the user, script name and binaries used logged into secured local and remote text files and SQL databases.
-
-### Clients that submit issues via email or any support system
-
-Have their IP address, username, URLs and email addresses captured. 
-
-## Our Data and Information Retention Policies
-
-  * Web access logs are retained for 60 days
-  * Personal, financial and billing information are permanently retained in an encrypted format.
-  * Forum and weblog contributions may be permanently retained.
-  * System accounting and execution logs are retained for 30 days and then destroyed.
-  * Support emails, logs and may be retained but TextDrive reserves the right to destroy them after a period of 6 months.
+  * We collect personally non-identifiable data via Google Analytics Advertising features, Bing Analytics, as well as website visitor information for Facebook Advertising. These use cookies to collect aggregated data from all users of the site. We do this to help us gain greater insights about our website traffic and thereby provide a better user experience. (“Aggregated data” can include but is not limited to data such as search queries, keyword data, geographic data etc. for the purpose of demographic and other analysis).
+  * If you would like to disable cookies there are programs and settings that can enable you to visit our site anonymously. You can also opt out of Google’s Advertising data collection by clicking [here](https://tools.google.com/dlpage/gaoptout/). Please follow Microsoft’s steps to opt out of targeted advertising from Bing [here](https://choice.microsoft.com/en-US/opt-out). If you would like to opt out of Facebook Ads targeting, please refer to this [link](https://www.facebook.com/help/568137493302217).
+  * Unless otherwise specified, it is assumed that this data is confidential to you, will not be visible to potential competitors or other users of the site.
+  * We retain non-aggregated information only as long as necessary for the fulfillment of services to you and your account on the Plugable Technologies website.
+  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
+  * We will protect personal and trade information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+  * We will make readily available to customers information about our policies and practices relating to the management of personal and trade information. It’s in our interest to insure trust by being transparent about how your data is used.
+  * We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal and trade information is protected and maintained.
+  * If you subscribe to the Plugable Technologies blog via email, you may unsubscribe from that service at any time by following the links provided at the bottom of the email.
 
 
-
-## Sharing your information with third parties
-
-We don’t without either your explicit permissions or under court order.
-
-## Complaints and compliance issues
-
-Complaints and compliance issues can be directed to:
-
-**TextDrive Inc**  
-7770 Regents Road   
-Suite 113-562   
-San Diego   
-California 92122  
-Attention: Privacy Office
-
-1-858-964-0724 (La Jolla, California, USA)  
-1-617-395-8798 (Cambridge, Massachusetts, USA)  
-1-604-628-0267 (Vancouver, British Columbia, Canada)  
-+2 (0) 7078 7518 (London, United Kingdom)  
-1-866-294-6577 (Toll Free)
-
-legal@textdrive.com
