@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historynet.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514055515id_/http%3A//www.historynet.com/historynet-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historynet.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201182600id_/http%3A//www.historynet.com/historynet-privacy-policy) for the most accurate reproduction.*
 
 # HistoryNet Privacy Policy | HistoryNet
 
