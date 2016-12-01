@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3jelly.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603061543id_/http%3A//www.3jelly.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3jelly.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201232020id_/http%3A//www.3jelly.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 3 Jelly , Privacy Policy And Terms- Free Unlimited Hosting
 
