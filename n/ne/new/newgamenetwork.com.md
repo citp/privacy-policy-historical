@@ -1,41 +1,32 @@
-> *The following text is extracted and transformed from the newgamenetwork.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405050536id_/http%3A//www.newgamenetwork.com/page/3/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newgamenetwork.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201173310id_/http%3A//www.newgamenetwork.com/page/3/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | New Game Network
+# Privacy Policy | New Game Network
 
-Last modified: January 16, 2012
+Last modified: November 28, 2016
 
 * * *
 
-We respect and are committed to protecting your privacy. This Privacy Policy lets you know how your personal information is processed and used at **New Game Network**. We take extraordinary steps to use your personal information only in ways that are compatible with this Privacy Policy.
+We respect and are committed to protecting your privacy. This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-_Information Collection_  
+_Information Collection_
 
-**New Game Network** is the sole owner of the information collected from our website. We do not, or will not sell, share, or rent this information to others in ways different from what is disclosed in our privacy statement below.
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. When registering on our site, as appropriate, you may be asked to enter your email address or other details to help you with your experience.
 
-_Cookies_  
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested; To administer a contest, promotion, survey or other site feature.
 
-A cookie is a piece of data stored on the visitor's hard drive containing information about the visitor. Advertisers connected to **New Game Network** at times require cookies to tract statistics about products and locations, but at no time are these linked to any personal identification. At this time, **New Game Network** uses cookies only for login convenience.
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
 
-_Log Files_
+_Cookies_  
+We use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site. Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. If you turn cookies off, some features will be disabled.
 
-**New Game Network** keeps log files on broad fields to analyze trends, track user movements, and gather data for demographic locations. This is not attached in anyway to visitor's personal identification.
+_Log Files_  
+New Game Network keeps log files on broad fields to analyze trends, track user movements, and gather data for demographic locations. This is not attached in anyway to visitor's personal identification.
 
-_Sharing_
+_Contests_  
+From time-to-time our site requests information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
-At this time, **New Game Network** does not share any private information about ourselves or our visitors with advertisers, merchants, or any other third party.
+_Links_  
+This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 
-_Links_
-
-Links to other sites outside of **New Game Network** do not apply to this privacy statement. We are not responsible for privacy policies of other websites linked to **New Game Network**. Please read the privacy statement of each website linked to  **New Game Network** for information and data use for visitor's personal identification. Our privacy statement applies solely to **New Game Network.**
-
-_Contests_
-
-At any particular time, **New Game Network** may conduct contests for our visitors. Visitor participation for these contests is voluntary, and in no way requires the visitor to give out personal information when choosing not to enter in the contest. Collected information may include contact information and demographic information, such as name, e-mail, address, state, ect. This information will be used to notify the winners and award prizes.
-
-_Sending to a Friend_
-
-When a visitor chooses to send News, Articles, Reviews, ect, to a friend, the names and e-mail addresses are not logged. **New Game Network** will send the friend a one-time e-mail inviting them to visit our site. **New Game Network** will never send another e-mail to the visitor or friend for any purpose.
-
-_Changes of our Policy_
-
-If and when our policy statement changes, visitors with Memberships in our databases will be notified of the changes, and provided a link to this page to view the changes. If a visitor decides that our policy does not benefit them, they can use the opt-out option at anytime.
+_Changes of Privacy Policy_  
+Users can be notified of any Privacy Policy changes by visiting this Privacy Policy Page.
