@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maine.edu privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616032606id_/http%3A//www.maine.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maine.edu privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201093508id_/http%3A//www.maine.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - University of Maine System
 
