@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the roaminghunger.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017101939id_/http%3A//roaminghunger.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roaminghunger.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201143524id_/http%3A//roaminghunger.com/pages/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Roaming Hunger
+# Privacy Policy - Roaming Hunger
 
 **Last Updated: September 16, 2015**
 
-This Privacy Policy explains how information about you is collected, used and disclosed by Roaming Hunger, Inc. (" **Company"** ). This Privacy Policy applies to information we collect when you use our websites, mobile applications and other online products and services that link to this Privacy Policy (collectively, the " **Services** ") or when you otherwise interact with us. 
+This Privacy Policy explains how information about you is collected, used and disclosed by Roaming Hunger, Inc. (" **Company"** ). This Privacy Policy applies to information we collect when you use our websites, mobile applications and other online products and services that link to this Privacy Policy (collectively, the " **Services** ") or when you otherwise interact with us.
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy. 
 
@@ -20,7 +20,7 @@ When you access or use our Services, we automatically collect information about 
 
   * **Log Information:** We collect log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services. 
   * **Device Information:** We collect information about the computer or mobile device you use to access our Services, as provided to us by your computer or mobile device in standard web interactions, including the hardware model, operating system and version, unique device identifiers and mobile network information. 
-  * **Location Information:** We may collect information about your location of your device when you affirmatively provide it to us following our request for such information. For more details, please see "Your Choices" below. 
+  * **Location Information:** We may collect information about your location of your device when you affirmatively provide it to us following our request for such information. For more details, please see "Your Choices" below.
   * **Information Collected by Cookies and Other Tracking Technologies:** We and our service providers use various technologies to collect information, including cookies and web beacons. Cookies are small data files stored in your computer’s or device’s memory that help us improve our Services and your experience, see which areas and features of our Services are popular and count visits. Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits and understand usage and campaign effectiveness. For more information about cookies, and how to disable them, please see "Your Choices" below. 
 
 
@@ -34,20 +34,20 @@ We may also obtain information from other sources and combine that with informat
 We may use information about you for various purposes, including to:
 
   * Provide, maintain and improve our Services;
-  * Provide and deliver the products and services you request, process transactions and send you related information, including confirmations and invoices, 
+  * Provide and deliver the products and services you request, process transactions and send you related information, including confirmations and invoices,
   * Send you technical notices, updates, security alerts and support and administrative messages;
   * Respond to your comments, questions and requests and provide customer service;
-  * Communicate with you about products, services, offers, promotions, rewards, and events offered by Company and others, and provide news and information we think will be of interest to you; 
+  * Communicate with you about products, services, offers, promotions, rewards, and events offered by Company and others, and provide news and information we think will be of interest to you;
   * Monitor and analyze trends, usage and activities in connection with our Services; 
-  * Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Company and others; 
-  * Personalize and improve the Services and provide advertisements, content or features that match user profiles or interests; 
+  * Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Company and others;
+  * Personalize and improve the Services and provide advertisements, content or features that match user profiles or interests;
   * Facilitate contests, sweepstakes and promotions and process and deliver entries and rewards;
-  * Link or combine with information we get from others to help understand your needs and provide you with better service; and 
+  * Link or combine with information we get from others to help understand your needs and provide you with better service; and
   * Carry out any other purpose for which the information was collected.
 
 
 
-Company is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries, where you may not have the same rights as you do under local law. Where this is the case, we will take appropriate measures to protect information about you in accordance with this Privacy Policy. 
+Company is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries, where you may not have the same rights as you do under local law. Where this is the case, we will take appropriate measures to protect information about you in accordance with this Privacy Policy.
 
 ## Sharing of Information
 
@@ -66,7 +66,7 @@ We may also share aggregated or de-identified information, which cannot reasonab
 
 ## Security
 
-Company takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. 
+Company takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
 
 ## Social Sharing Features
 
@@ -74,7 +74,7 @@ The Services may offer social sharing features and other integrated tools (such 
 
 ## Advertising and Analytics Services Provided by Others
 
-We may allow others to provide analytics services and serve advertisements on our behalf across the Internet and in applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked and conversion information. This information may be used by Company and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](https://web.archive.org/web/20151017101939id_/http://roaminghunger.com/pages/privacy_policy/www.aboutads.info/choices). 
+We may allow others to provide analytics services and serve advertisements on our behalf across the Internet and in applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked and conversion information. This information may be used by Company and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](https://web.archive.org/web/20161201143524id_/http%3A//roaminghunger.com/pages/www.aboutads.info/choices).
 
 We may also work with third party social platforms, such as Facebook, to serve ads to you as part of a customized campaign, unless you notify us that you prefer not to have information about you used in this way by following the instructions provided by Facebook or such applicable third party social platform. 
 
@@ -82,7 +82,7 @@ We may also work with third party social platforms, such as Facebook, to serve a
 
 _Account Information_
 
-You may update, correct or delete information about you at any time by logging into your online account, emailing us at [support@roaminghunger.com](https://web.archive.org/web/20151017101939id_/http://roaminghunger.com/pages/privacy_policy/support@roaminghunger.com) or calling us at 800-568-9370. If you wish to delete or deactivate your account, please email us at support@roaminghunger.com but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time. 
+You may update, correct or delete information about you at any time by logging into your online account, emailing us at [support@roaminghunger.com](mailto:support@roaminghunger.com) or calling us at 800-568-9370. If you wish to delete or deactivate your account, please email us at [support@roaminghunger.com](mailto:support@roaminghunger.com) but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time. 
 
 _Location Information_
 
@@ -94,7 +94,7 @@ Most web browsers are set to accept cookies by default. If you prefer, you can u
 
 _Promotional Communications_
 
-You may opt out of receiving promotional emails or text messages from Company by following the instructions in those emails or text messages or by emailing us at support@roaminghunger.com. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations. 
+You may opt out of receiving promotional emails or text messages from Company by following the instructions in those emails or text messages or by emailing us at [support@roaminghunger.com](mailto:support@roaminghunger.com). If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations. 
 
 _Mobile Push Notifications/Alerts_
 
@@ -102,4 +102,4 @@ With your consent, we may send promotional and non-promotional push notification
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at: 8228 W Sunset Blvd, Suite B, West Hollywood, CA 90046, by phone at 800-568-9370 or by email at [support@roaminghunger.com](https://web.archive.org/web/20151017101939id_/http://roaminghunger.com/pages/privacy_policy/support@roaminghunger.com). 
+If you have any questions about this Privacy Policy, please contact us at: 8228 W Sunset Blvd, Suite B, West Hollywood, CA 90046, by phone at 800-568-9370 or by email at [support@roaminghunger.com](mailto:support@roaminghunger.com). 
