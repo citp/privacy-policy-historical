@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cari.com.my privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528164338id_/http%3A//www.cari.com.my/cooperate/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cari.com.my privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201194331id_/http%3A//www.cari.com.my/cooperate/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # CARI - Privacy Policy
 
