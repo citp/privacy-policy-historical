@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowfall.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525132110id_/http%3A//crowfall.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowfall.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201173254id_/https%3A//crowfall.com/privacy) for the most accurate reproduction.*
 
 # Crowfall - Throne War MMO | Privacy Policy 1.1
 
@@ -107,4 +107,4 @@ If you have any questions about our privacy practices or this Privacy Policy, pl
 
 **_Terms of Use_**
 
-Please read the [Terms of Use](https://web.archive.org/terms/) governing the use of the Site and the Company Features.
+Please read the [Terms of Use](https://web.archive.org/web/20161201173254id_/http://crowfall.com/terms/) governing the use of the Site and the Company Features.
