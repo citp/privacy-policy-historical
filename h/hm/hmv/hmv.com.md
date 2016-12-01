@@ -1,124 +1,165 @@
-> *The following text is extracted and transformed from the hmv.com privacy policy that was archived on 2007-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070514233709id_/http%3A//www.amazon.ca/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D918814) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hmv.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201143720id_/http%3A//www.hmv.com/privacy-policy) for the most accurate reproduction.*
 
-# Amazon.ca: Help > Privacy and Security > Amazon.ca Privacy Notice
+# Privacy and Cookies Policy | hmv.com
 
-Vous voulez voir cette page en français ? [Cliquez ici](https://web.archive.org/gp/help/customer/display.html?ie=UTF8&nodeId=918814&lang=fr%5FCA).
+### **Privacy and Cookies Policy**
 
- **Amazon.ca Privacy Notice**
+hmv.com is a website operated by HMV Online Limited incorporated and registered in England with company number 08510351, whose registered office is at 7 RIVER COURT, BRIGHOUSE BUSINESS VILLAGE, BRIGHOUSE ROAD, MIDDLESBROUGH, TS2 1RT and whose principal place of business is at MERMAID HOUSE, PUDDLE DOCK, BLACKFRIARS, LONDON, EC4V 3DB.
 
- **Last Updated: April 21, 2006** ([Click here](https://web.archive.org/gp/help/customer/display.html?nodeId=200038080) to see what's changed.)
+We respect your right to privacy. This Privacy and Cookies Policy (‘Privacy and Cookies Policy’) sets out how HMV Ecommerce Limited, HMV Digital Limited, HMV Online Limited and Pure HMV Loyalty Limited, and our affiliates (‘we’, ‘us’, or ‘our’), collect and use your personal information, and your choices for managing your information preferences.
 
-Amazon.ca knows you care how information about you is used and shared, and we appreciate your trust that we'll do so carefully and sensibly. This notice describes our privacy policy. **By visiting Amazon.ca, you're accepting the practices described in this Privacy Notice.**
+This Privacy and Cookies Policy describes the information practices associated with our websites: hmv.com, store.hmv.com, hmvdigital.com, fopp.com and purehmv.com/gb/home.aspx (‘Websites’), and the Pure HMV Loyalty Limited loyalty card programme (‘Loyalty Card’).
 
-  * What Personal Information About Customers Does Amazon.ca Gather?
-  * What About Cookies?
-  * Does Amazon.ca Share the Information It Receives?
-  * How Secure Is Information About Me?
-  * What About Third-Party Advertisers and Links to Other Web sites?
-  * Which Information Can I Access?
-  * What Choices Do I Have?
-  * Are Children Allowed to Use Amazon.ca?
-  * Does Amazon.ca Participate in the Safe Harbour Program?
-  * Conditions of Use, Notices, and Revisions
-  * Examples of Information Collected
+Please read this Privacy and Cookie Policy carefully. By using our Websites or participating in our Loyalty Card programme, you agree to the terms of this Privacy and Cookies Policy. If you do not agree to the terms of this Privacy and Cookies Policy, please stop using our Websites and/or Loyalty Card immediately.
 
+**PRIVACY**
 
+We will at all times only collect and process your personal information in accordance with the Data Protection Act 1998, the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended, and any other applicable data protection legislation.
 
-**What Personal Information About Customers Does Amazon.ca Gather?**
+**What information do we collect and how do we collect it?**
 
-The information we learn from customers helps us personalize and continually improve your shopping experience at Amazon.ca. Here are the types of information we gather.
+We may collect, store and use the following kinds of personal information:
 
-  * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. Click here to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you.
-  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Amazon.ca. Click here to see examples of the information we receive. A number of [companies](https://web.archive.org/gp/help/customer/display.html?nodeId=918820/) offer utilities designed to help you visit Web sites anonymously. Although we won't be able to provide you with a personalized experience at Amazon.ca if we can't recognize you, we want you to be aware these tools exist.
-  * **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Amazon.ca if your computer supports such capabilities. Also, in an effort to avoid sending unnecessary messages to our customers, we compare our customer list to lists received from other companies. If you don't want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences](https://web.archive.org/gp/gss/ccp/).
-  * **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive.
+a)    information about your computer and about your visits to and use of our Websites (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths;
 
+b)    information that you provide to us when registering with any of our Websites (including your email address);
 
+c)     information that you provide when completing your profile on any of our Websites (including your name and date of birth);
 
-**What About Cookies?**
+d)    information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters (including your name and email address);
 
-  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser, to enable our systems to recognize your browser and to provide features such as [1-Click](https://web.archive.org/gp/help/customer/display.html?nodeId=918690/) purchasing, personalized greetings, and storage of items in your Shopping Cart between visits.
-  * The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of Amazon.ca's coolest features, and we recommend you leave them turned on.
+e)    information relating to any purchases you make of our goods or any other transactions that you enter into through any of our Websites (including your name, address, telephone number, email address and card details);
 
+f)      information that you provide when you register with our Loyalty Card (including your name, address, telephone, e-mail and mobile contact details);
 
+g)    information that you provide when you use our Loyalty Card, in whatever form, when you buy products or services from us or our participating retailers (e.g. in-store, online, by phone), or take part in promotions, competitions, customer surveys and questionnaires;
 
-**Does Amazon.ca Share the Information It Receives?**
+h)    information about your use of our Loyalty Card and purchases, including your credit or debit card details;
 
-Information about our customers is an important part of our business, and we're not in the business of selling it to others. We share customer information only as described below and with subsidiaries Amazon.com, Inc., controls that are either subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. 
+i)      information that you give us when you contact us in writing or by phone; and
 
-  * **Affiliated Businesses We Do Not Control:** We work closely with our affiliated businesses. In some cases, these businesses may operate stores at Amazon.ca or sell offerings to you at Amazon.ca. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party.
-  * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
-  * **Promotional Offers:** Sometimes, we send offers to selected groups of Amazon.ca customers on behalf of other businesses. When we do this, we don't give that business your name and address. If you don't want to receive such offers, please adjust your [Customer Communication Preferences](https://web.archive.org/gp/gss/ccp/).
-  * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Amazon.com.ca, Inc. or substantially all of its assets are acquired, customer information of course will be one of the transferred assets. 
-  * **Protection of Amazon.ca and Others:** We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our [Conditions of Use](https://web.archive.org/gp/help/customer/display.html?nodeId=918816/) and other agreements; or protect the rights, property, or safety of Amazon.ca, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit-risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
-  * **With Your Consent:** Other than as set out above, you'll receive notice when information about you might go to third parties, and you'll have an opportunity to choose not to share the information.
+j)      any other personal information that you choose to send to us.
 
+Finally, we may receive information about you from third parties (such as credit reference agencies) who are legally entitled to disclose that information.
 
+**How do we use your information?**
 
-**How Secure Is Information About Me?**
+By using our Websites or Loyalty Card, you agree that your information may be used by us and by carefully selected third parties chosen by us for any of the following purposes:
 
-  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you enter.
-  * We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
-  * It's important for you to protect against unauthorized access to your password and your computer. Be sure to sign off when you've finished using a shared computer. [Click here](https://web.archive.org/gp/help/customer/display.html?nodeId=918808/) for more information on how to sign off.
+a)    to manage and improve your experience of our Loyalty Card;
 
+b)    to provide you with a personalised browsing experience when using our Websites;
 
+c)     to fulfil any contractual agreements between you and us;
 
-**What About Third-Party Advertisers and Links to Other Web sites?**
+d)    when we have your consent, to send you details (including by post, phone, fax, e-mail or SMS) of other products and services (including those of participating retailers or third parties) which we think may interest you, or to conduct market research;
 
-Our site may include third-party advertising and links to other Web sites. We do not provide any personally identifiable customer information to these advertisers or third-party Web sites.
+e)    to manage and operate any account that you hold with us; 
 
-These third-party Web sites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on our Web site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party Web sites are not covered by this Privacy Notice. Please contact them directly for more information about their privacy practices. In addition, the Network Advertising Initiative offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection.
+f)      to understand your shopping behaviour in order to develop and improve our products and services;
 
-**Which Information Can I Access?**
+g)    to check and verify your identity and prevent and detect crime; and
 
-Amazon.ca gives you access to a broad range of information about your account and your interactions with Amazon.ca for the limited purpose of viewing and, in certain cases, updating that information. Click here to see some examples. This list will change as our Web site evolves. 
+h)    to comply with legal and regulatory requirements.
 
-**What Choices Do I Have?**
+**Disclosing your information**
 
-  * As discussed above, you always can choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Amazon.ca features as Customer Reviews and Wish Lists.
-  * You can add or update certain information on pages such as those listed in the "Which Information Can I Access?" section, above. When you update information, we usually keep a copy of the prior version for our records.
-  * If you don't want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences](https://web.archive.org/gp/gss/ccp/). (If you don't want to receive [Conditions of Use](https://web.archive.org/gp/help/customer/display.html?nodeId=918816/) and other legal notices from us, such as this Privacy Notice, those notices still will govern your use of Amazon.ca, and it's your responsibility to review them for changes.)
-  * The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you won't be able to use such important features as [1-Click ordering](https://web.archive.org/gp/help/customer/display.html?nodeId=918690/), if you don't use cookies.
-  * [Click here](https://web.archive.org/gp/help/customer/display.html?nodeId=918820/) to explore products that offer anonymous browsing.
+We will share your information with our group companies (listed under **Contact us** ), and with our participating retailers and service providers of our Loyalty Card. Participating retailers may use your details to help us manage and administer our Loyalty Cards.
 
+We use your information only as set out in this Privacy and Cookies Policy and will not sell, rent or pass your information on to others for marketing purposes without your express consent (see section entitled **Marketing and Research** below).
 
+We may, however, share aggregated data with third parties in order to develop and enhance our Loyalty Cards. This is statistical data which will not include information that could identify any individual.
 
-**Are Children Allowed to Use Amazon.ca?**
+We may also release account information where we believe in good faith that this release is reasonably necessary to comply with the law.
 
-Amazon.ca does not sell products for purchase by children. We sell children's products for purchase by adults. If you're under 18, you may use Amazon.ca only with the involvement of a parent or guardian.
+We may also disclose your information to third parties in connection with the sale, transfer or disposal of our business, provided that they continue to use your information substantially in accordance with the terms of this Privacy and Cookies Policy.
 
-**Does Amazon.ca Participate in the Safe Harbour Program?**
+**Data Transfers**
 
-Any personal information provided to or to be gathered by Amazon.ca is controlled by Amazon.com.ca, Inc. of 1200 12th Avenue South, Seattle, WA 98144. Amazon.com, Inc. and its controlled U.S. subsidiaries, including Amazon.com.ca, Inc., are participants in the Safe Harbour program developed by the U.S. Department of Commerce and the European Union. These Amazon Group companies have certified that they adhere to the Safe Harbour Privacy Principles agreed upon by the U.S. and the E.U. If you would like to contact Amazon.com and its controlled U.S. subsidiaries directly about the Safe Harbour program, please send an e-mail to safeharbour@amazon.com.
+We (or third parties acting on our behalf) may store or process information that we collect about you within the European Economic Area.
 
-**Conditions of Use, Notices, and Revisions**
+**Security of your information**
 
-If you choose to visit Amazon.ca, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Amazon.ca, please [contact us](https://web.archive.org/gp/help/customer/display.html?nodeId=915404/), and we'll try to resolve it. 
+We follow strict technical and organisation security procedures in the storage and disclosure of information, which you have given us. This is to prevent the loss, unauthorised access or unlawful processing of your personal information. We keep your information confidential and store it on a secure server which is password protected and hidden behind a firewall from the outside world.
 
-Our business changes constantly, and our Privacy Notice and the [Conditions of Use](https://web.archive.org/gp/help/customer/display.html?nodeId=918816/) will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+However, whilst we have used our best efforts to ensure the security of your data, please be aware that we cannot guarantee the security of information transmitted over the Internet.
 
-Related Practices and Information 
+**Marketing and research**
 
-  * [Conditions of Use](https://web.archive.org/gp/help/customer/display.html?nodeId=918816/)
-  * [Amazon.ca Charter of Rights](https://web.archive.org/gp/help/customer/display.html?nodeId=918828/)
-  * [Help department](https://web.archive.org/gp/help/customer/display.html?nodeId=915400/)
+With your consent, we may contact you:
 
+a)    with offers and information about our products or services;
 
+b)    with offers and information about participating retailers' products or services; and
 
-**Examples of Information Collected**
+c)     for customer research, e.g. to help improve our services.
 
- **Information You Give Us**
+You may indicate your consent to the above when signing up to our Loyalty Card or on our Websites by ticking boxes indicating your consent.
 
-You provide most such information when you search, buy, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; make an order; provide information in [Your Account](https://web.archive.org/gp/css/homepage.html/) (and you might have more than one, if you've used more than one e-mail address when shopping with us); communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; compile Wish Lists or other gift registries; and provide and rate reviews. As a result of those actions, you might supply us with such information as your name, address, and telephone number; credit card information; names of people to whom purchases have been shipped, including address and telephone number; names of people (with addresses and telephone numbers) listed in [1-Click](https://web.archive.org/gp/help/customer/display.html?nodeId=918690/) settings; content of reviews and e-mails to us; and financial information.
+You may opt-out from receiving marketing communications at any time by:
 
-**Automatic Information**
+a)    following the opt-out instructions contained in the communications that we send you, such as clicking on the "unsubscribe" link on any email newsletter that we send to you;
 
-Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information, such as browser type and version, operating system, and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features such as Bestseller Lists; the full Uniform Resource Locators (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; and the telephone number used to call our customer service number. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+b)    changing your marketing preferences when logging into your account online at each Website (as relevant); or
 
-**Information from Other Sources**
+c)     emailing us at the relevant email address in the Contact Us section below.
 
-Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers. 
+**What are your rights?**
 
-**Information You Can Access**
+You have the right to contact us by writing to us at the appropriate address below in order to find out what information we hold about you (please note that a £10 fee will be payable) or to access, cancel or correct any information that we hold about you.
 
-Examples of information you can currently access easily at Amazon.ca include up-to-date information regarding recent orders, personally identifiable information (including name, e-mail, password, communications preferences, address book, and 1-Click settings), payment settings (including credit card information, gift certificate, gift card, and check balances), e-mail notification settings, Wish Lists, and recommendations. 
+**Cookies & Other Tracking Technologies**
+
+Our Websites uses cookies and other tracking technologies to collect information about your online preference. Cookies are small pieces of information sent by a web server to a web browser which allows the server to uniquely identify the browser on each page.
+
+We use the following categories of cookies on our Websites:
+
+**Strictly Necessary Cookies**
+
+These cookies are essential in order to enable you to move around our Websites and use its features. The information collected by these cookies relate to the operation of our Websites, for example website scripting language and security tokens to maintain secure areas of our Websites.
+
+**Performance Cookies**
+
+These cookies collect anonymous information about how you use our Websites, for example which pages you visit most often, whether you receive any error messages, and how you arrive at our Websites. Information collected by these cookies is used only to improve your use of our Websites and never to identify you. These cookies are sometimes placed by third-party providers of web traffic analysis services, such as Google Analytics.
+
+**Functionality Cookies**
+
+These cookies remember choices you make, for example, the country you visit our website from, your language and any changes you have made to text size or other parts of web pages that you can customise, in order to improve your experience of our Websites and to make your visits more tailored and enjoyable. The information these cookies collect may be anonymised and cannot be used to track your browsing activity on other websites.
+
+**Targeting or Advertising Cookies**
+
+These cookies collect information about your browsing habits in order to make advertising more relevant to you and your interests. They are also used to limit the number of times you see an advert as well as help measure the effectiveness of an advertising campaign. These cookies are usually placed by third party advertising networks. They remember the websites you visit and that information is shared with other parties such as advertisers.
+
+Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
+
+We use Google Analytics. For information on how Google processes and collects your information in regard to this product and how you can opt-out, please see  [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/).
+
+**MANAGING COOKIES**
+
+Most internet browsers are automatically set up to accept cookies. However, if you want to refuse or delete any cookies (or similar technologies), please refer to the help and support area on your internet browser for instructions on how to block or delete cookies. Please note you may not be able to take advantage of all the features of our websites, including certain personalised features, if you delete or disable cookies.
+
+For more information on managing cookies, please go to [www.allaboutcookies.org](http://www.allaboutcookies.org/), or visit [www.youronlinechoices.com](http://www.youronlinechoices.com/)www.youronlinechoices.eu which has further information about behavioural advertising and online privacy.
+
+**Links to other websites**
+
+This privacy and cookie policy does not cover the links within our Websites linking to other websites. We encourage you to read the privacy statements on the other websites you visit.
+
+**Changes to this Privacy and Cookies Policy**
+
+We may update or amend this Privacy and Cookies Policy from time to time to comply with law or to meet our changing business requirements. Any updates or amendments will be posted on this page. We recommend you regularly review this page to ensure that you are always aware of our information practices and any changes to them. By continuing to use any of the Websites or our Loyalty Card, you agree to be bound by the terms of these updates and amendments.
+
+**Contact us**
+
+If you have any questions about how we collect, store and use your information, you may contact us as below.
+
+For queries relating to **HMV Retail Limited** (‘hmv’ and ‘fopp’ branded retail stores within England, Scotland, Wales, Isle of Man and Guernsey, but excluding all other HMV branded retail stores in any other territory worldwide including for the avoidance of doubt the Republic of Ireland and Northern Ireland), the data controller in respect of your information is HMV Retail Limited, Mermaid House, Puddle Dock, London, EC4V 3DB; store.service@hmv.co.uk.
+
+For queries relating **HMV Ecommerce Limited** (hmv.store.com), the data controller in respect of your information is HMV Ecommerce Limited, Mermaid House, Puddle Dock, Blackfriars, London, EC4V 3DB; website.service@hmv.co.uk.
+
+For queries relating **HMV Digital Limited** (hmvdigital.com), the data controller in respect of your information is HMV Digital Limited, 7 River Court, Brighouse Business Village Brighouse Road, Middlesbrough, TS2 1RT; customer.service@hmv.co.uk.
+
+For queries relating **HMV Online Limited** (hmv.com), the data controller in respect of your information is HMV Online Limited, 7 River Court, Brighouse Business Village Brighouse Road, Middlesbrough, TS2 1RT; store.service@hmv.co.uk.
+
+For queries relating to **Pure HMV Loyalty Limited** (purehmv.com/gb/home.aspx), the data controller in respect of your information is Pure HMV Loyalty Limited, 363 Oxford Street, London W1C 2LA; [customer.service@purehmv.com](mailto:customer.service@purehmv.com).
+
+Version: July 2016
