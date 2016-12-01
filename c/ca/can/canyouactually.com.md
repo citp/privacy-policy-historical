@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canyouactually.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608025347id_/http%3A//canyouactually.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canyouactually.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201074528id_/http%3A//canyouactually.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
