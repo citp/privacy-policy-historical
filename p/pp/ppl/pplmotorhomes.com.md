@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pplmotorhomes.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323142005id_/http%3A//www.pplmotorhomes.com/gotopage/privacy-policy-sales.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pplmotorhomes.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201141917id_/http%3A//www.pplmotorhomes.com/gotopage/privacy-policy-sales.htm) for the most accurate reproduction.*
 
 # PPL Privacy Policy - PPL Motor Homes
 
