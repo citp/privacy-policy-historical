@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctl.io privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629212611id_/https%3A//www.ctl.io/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctl.io privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201060818id_/https%3A//www.ctl.io/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CenturyLink Cloud
 
