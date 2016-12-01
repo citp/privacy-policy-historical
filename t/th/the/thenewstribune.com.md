@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenewstribune.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618194003id_/http%3A//www.thenewstribune.com/customer-service/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewstribune.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201041022id_/http%3A//www.thenewstribune.com/customer-service/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Privacy Policy | TheNewsTribune.com & The News Tribune
 
