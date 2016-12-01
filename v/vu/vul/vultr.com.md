@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vultr.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422173954id_/https%3A//www.vultr.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vultr.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201180300id_/https%3A//www.vultr.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Vultr.com
 
@@ -72,4 +72,4 @@ We offer our Members the opportunity to access or modify information provided du
 
 If you have any questions about this Privacy Policy or the practices described herein, you may contact us at <http://www.vultr.com/contact/>
 
-## Get started in the SSD Cloud !
+## Get started in the SSD Cloud!
