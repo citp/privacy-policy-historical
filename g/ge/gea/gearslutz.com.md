@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gearslutz.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601164743id_/https%3A//www.gearslutz.com/board/faq.php%3Ffaq%3Dvb_faq%23faq_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearslutz.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201042330id_/https%3A//www.gearslutz.com/board/faq.php%3Ffaq%3Dvb_faq%23faq_pp) for the most accurate reproduction.*
 
 # Gearslutz Pro Audio Community - FAQ: Site FAQ
 
