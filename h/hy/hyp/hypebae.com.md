@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypebae.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530190336id_/http%3A//hypebae.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypebae.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201110306id_/http%3A//hypebae.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HYPEBAE
 
@@ -91,7 +91,7 @@ We use SSL certificates to help secure the 101 Sites. However, we make no repres
 
 ###  13\. California Online Privacy Protection Act 
 
-We are not located in California, but we do permit California residents to access our websites and order from us. It is our intent to comply with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the act. In summary, you must presume that we collect electronic information from all visitors. You may contact us at info@hypebeast.com with any questions. 
+We are not located in California, but we do permit California residents to access our websites and order from us. It is our intent to comply with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the act. In summary, you must presume that we collect electronic information from all visitors. You may contact us at [info@hypebeast.com](mailto:info@hypebeast.com) with any questions. 
 
 ###  14\. Amendments 
 
@@ -103,9 +103,9 @@ If you do not agree with the revised/updated Privacy Policy, you must immediatel
 
 
 
-###  16\. Contact 
+###  15\. Contact 
 
-Any inquiries about your rights under this Privacy Policy, or any other matters regarding your privacy, can be directed to info@hypebeast.com. You have the right to request access to and/or correction of your personal data held by us. If you wish to make such request, please contact us by email at [info@hypebeast.com] and marking “Attention: Personal Data Access / Correction Request” on your correspondence. 
+Any inquiries about your rights under this Privacy Policy, or any other matters regarding your privacy, can be directed to [info@hypebeast.com](mailto:info@hypebeast.com). You have the right to request access to and/or correction of your personal data held by us. If you wish to make such request, please contact us by email at [info@hypebeast.com] and marking “Attention: Personal Data Access / Correction Request” on your correspondence. 
 
 Last Updated Date: Nov 6, 2015 
 
