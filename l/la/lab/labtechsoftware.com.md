@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labtechsoftware.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509051724id_/http%3A//www.labtechsoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labtechsoftware.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201192145id_/http%3A//www.labtechsoftware.com/privacy) for the most accurate reproduction.*
 
 # LabTech Software Privacy Policy
 
