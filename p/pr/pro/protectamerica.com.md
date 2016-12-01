@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608170650id_/http%3A//www.protectamerica.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201041231id_/http%3A//www.protectamerica.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Protect America
 
@@ -6,7 +6,7 @@
 
 **Effective:** May 17, 2005
 
-**Last Updated:** April 08, 2015
+**Last Updated:** July 25, 2016
 
 [Protect America](https://web.archive.org/ "Protect America Home Security | www.protectamerica.com"), Inc. ("PAI") is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this Web site. http://www.protectamerica.com
 
@@ -18,7 +18,7 @@ Technologies such as: cookies, beacons, tags and scripts are used by PAI and our
 
 We use cookies to remember users’ settings and authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-We use Local Storage Objects (LSOs) such as HTML5 or Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information.
+Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information.
 
 Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
@@ -56,7 +56,7 @@ If you register with one of PAI's affiliates online, they may use this informati
 
 ### Access to Personally Identifiable Information and Choice/Opt-out
 
-If you purchase a product/service or request more information on our products/services but do not wish to receive any additional marketing materials from PAI you may "opt-out" on our [unsubscribe page](http://www.protectamerica.com/unsubscribe.htm "Unsubscribe from E-mails from Protect America"). If your personally identifiable information changes you make the change by emailing our Customer Support at [support@protectamerica.com](mailto:support@protectamerica.com "Protect America | Email: Support"), by contacting us by telephone: 1.800.951.5111 or postal mail at the contact information listed below.
+If you purchase a product/service or request more information on our products/services but do not wish to receive any additional marketing materials from PAI you may "opt-out" on our [unsubscribe page](http://www.protectamerica.com/unsubscribe.htm "Unsubscribe from E-mails from Protect America"). If your personally identifiable information changes you make the change by emailing our Customer Support at [support@protectamerica.com](mailto:support@protectamerica.com "Protect America | Email: Support"), by contacting us by telephone: 1.800.951.5111 or postal mail at the contact information listed below. If requested to remove data we will respond within a reasonable timeframe.
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at support@protectamerica.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
