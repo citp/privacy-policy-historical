@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityweekly.net privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624125918id_/http%3A//www.cityweekly.net/utah/PrivacyPolicyTermsofUse/Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityweekly.net privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201164422id_/http%3A//www.cityweekly.net/utah/PrivacyPolicyTermsofUse/Page) for the most accurate reproduction.*
 
 # Privacy Policy / Terms of Use | Salt Lake City Weekly
 
