@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aflac.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314190251id_/https%3A//www.aflac.com/about-aflac/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aflac.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201201944id_/https%3A//www.aflac.com/about-aflac/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Aflac Privacy Policy
 
@@ -181,8 +181,8 @@ Columbus, Georgia 31999
 800.992.3522
 
 CAIC  
-2801 Devine Street  
-Columbia, South Carolina 29205  
+1600 Williams St.  
+Columbia, South Carolina 29201  
 800.433.3036
 
 **Mailing and Email Address**
