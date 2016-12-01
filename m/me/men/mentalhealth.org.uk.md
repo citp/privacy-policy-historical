@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mentalhealth.org.uk privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607162448id_/https%3A//www.mentalhealth.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentalhealth.org.uk privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201034809id_/http%3A//www.mentalhealth.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Mental Health Foundation
 
@@ -24,7 +24,7 @@ We may continue to process your personal data after you have ceased to be regist
 
 As a charity we rely on a variety of methods to keep our supporters engaged and informed about our work. We may use data collected to keep supporters and stakeholders up to date about our pioneering projects, tips on looking after your own mental health and how they can help support our work. 
 
-We respect our stakeholders and supporter’s communication preferences. If you would like to update your communication preferences, you can do so at any time by emailing [supporter@mentalhealth.org.uk](http://supporter@mentalhealth.org.uk/) or by calling **020 7803 1121**.
+We respect our stakeholders and supporter’s communication preferences. If you would like to update your communication preferences, you can do so at any time by emailing [supporter@mentalhealth.org.uk](mailto:supporter@mentalhealth.org.uk) or by calling **020 7803 1121**.
 
 All information you provide is stored in accordance with the Data Protection Act.  We do not pass personal information on to third parties for commercial use.  
 
@@ -60,13 +60,20 @@ You can donate to the Mental Health Foundation via SMS/text message throughout t
 
 ###### Current single gift text codes
 
-  * To make a £3 donation to Mental Health Foundation text THRIVE to 70030 
-  * To make a £3 donation to Mental Health Foundation text CONNECT to 70030 
-  * To make a £3 donation to Mental Health Foundation text HOW TO to 70030 
+  * To make a £3 donation to Mental Health Foundation text THRIVE to 70300 
+  * To make a £3 donation to Mental Health Foundation text CONNECT to 70300 
+  * To make a £3 donation to Mental Health Foundation text HOW TO to 70300
+  * To make a £5 donation to Mental Health Foundation text FIVER to 70100 
 
 
 
 Your gift will be used where the need is greatest.
+
+###### Our TIPS text service
+
+For some practical tips to manage your own mental health in these unpredictable times text TIPS to 70300 to receive regular updates from the Mental Health Foundation.
+
+Although the texts are free to receive, you will be charged your standard network rate when you text 70300. By texting this number you consent to us keeping you up to date on how you can donate to us, and how you can get involved in our activities including fundraising, unless you tell us otherwise by emailing [supporter@mentalhealth.org.uk](mailto:supporter@mentalhealth.org.uk). You can stop communication at any time by texting STOP to 70300.
 
 #### Regular gift 
 
@@ -97,4 +104,4 @@ We use a company called Vir2 to provide a text helpline for dealing with any iss
 
 #### Contact us 
 
-If you have any queries relating to this Privacy Policy, please contact us either by email at [supporter@mentalhealth.org.uk](http://supporter@mentalhealth.org.uk/) or by writing to us at Mental Health Foundation, Colechurch House, 1 London Bridge Walk, London, SE1 2SX.
+If you have any queries relating to this Privacy Policy, please contact us either by email at [supporter@mentalhealth.org.uk](mailto:supporter@mentalhealth.org.uk) or by writing to us at Mental Health Foundation, Colechurch House, 1 London Bridge Walk, London, SE1 2SX.
