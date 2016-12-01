@@ -1,54 +1,59 @@
-> *The following text is extracted and transformed from the hollandandbarrett.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605042218id_/http%3A//www.hollandandbarrett.com/info/private-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollandandbarrett.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201141627id_/http%3A//www.hollandandbarrett.com/info/private-cookie-policy) for the most accurate reproduction.*
 
 # Holland & Barrett - the UK’s Leading Health Retailer> Privacy & cookie policy
 
 At Holland & Barrett we make every effort to ensure we protect your personal information.
 
-This www.hollandandbarrett.com (the “Website") is owned and operated by Holland & Barrett Retail Limited (the “Company” “we” “us”, or “Holland & Barrett”). This Data and Privacy Policy (“Policy”), in conjunction with our [Terms and Conditions](https://web.archive.org/info/terms-conditions), explains how Holland & Barrett may use the information we collect about you, as well as the rights you have over any personal information we hold about you. Please read this Policy and our [Terms and Conditions](https://web.archive.org/info/terms-conditions) carefully; by accessing the Website you confirm to have understood and agreed to them.
+This site, www.hollandandbarrett.com (the "Website") is owned and operated by Holland & Barrett Retail Limited. In this Privacy Policy (“Policy”), the terms "Holland & Barrett", "we", "us" and "our" mean Holland & Barrett Retail Limited and other companies within the same group, and include their terrestrial stores and the Website. 
+
+This Policy, in conjunction with our [Terms and Conditions](https://web.archive.org/info/terms-conditions), explains how Holland & Barrett may use the information we collect about you, as well as the rights you have over any personal information we hold about you.
+
+Please read this Policy and our [Terms and Conditions](https://web.archive.org/info/terms-conditions) carefully; by accessing the Website you confirm to have understood and agreed to them.
 
 If you have questions or complaints regarding our privacy policy or practices, please contact us at [customerservices@hollandandbarrett.com](mailto:customerservices@hollandandbarrett.com) or write to us at Customer Services, Holland & Barrett Retail Limited, Samuel Ryder House, Barling Way, Eliot Park, Nuneaton, Warwickshire, CV10 7RH.
 
 ## **Information we collect**
 
-We collect information about you (such as your name, email address, phone number shipping address and credit card information) when you:
+We collect information about you (such as your name, email address, phone number shipping address, transaction details and credit card information) when you:
 
   * visit the Website;
   * register on or buy products on the Website;
+  * use your rewards for life card;
   * take part in our promotions, competitions, customer surveys and questionnaires; or
   * contact us via e-mail, phone or letter.
 
 
 
-We may choose to add to this data by collecting information from other sources such as the electoral roll.  This additional data helps us to check the accuracy of the data we hold about you and to send you the most relevant offers and promotions.
+We may choose to add to this data by collecting information from other sources such as Information Service Companies. This additional data helps us to check the accuracy of the data we hold about you and to send you the most relevant offers and promotions.
 
 ## **How we use your information**
 
-We collect your personal information to help Holland & Barrett to better understand you and to enable us to personalise the Website, offers and promotions to your needs.  We use your information to:
+We collect your personal information to help Holland & Barrett better understand you and to enable us to personalise your experience with Holland & Barrett, including offers, promotions and services to meet your needs. We use your information to:
 
-  * manage, develop and improve the Website;
   * personalise our services, offers and promotions to you;
-  * operate your account;
-  * process your orders and allocate Rewards for Life points to your account;
-  * tell you about important changes to the Website and our offers;
+  * operate your online account and your rewards for life account;
+  * process your online orders and in-store purchases;
+  * tell you about important changes to Holland & Barrett;
   * develop and improve our products and services;
   * manage promotions, competitions, customer surveys and questionnaires; and
-  * check and verify your identity, and prevent or detect crime.  
-In performing checks your information may be disclosed to credit reference agencies, who may keep a record of that information. This is not a credit check and your credit rating will not be affected.
+  * check and verify your identity, and prevent or detect crime.
 
 
 
-From time to time, we may share your personal information across the Holland & Barrett group of companies so they can provide you with relevant products and services.  However, this data will never be shared with any other business outside of the Holland & Barrett group of companies or as otherwise outlined in this Policy.
+(In performing such checks, your information may be disclosed to credit reference agencies who keep a record of that information, but these are not credit checks and your credit rating will not be affected.) 
 
-## **Rewards for Life information**
+From time to time, we may also share your information with carefully selected partners to enable them to help us provide you with the best service from Holland & Barrett. However, we will never give permission for any of these partners to contact you directly with marketing information unless we have your consent and all our parties adhere to strict data protection policies. 
 
-We access the information recorded through the use of your Rewards for Life card to help us improve our service to you and to make our communications more relevant.
+## **Rewards for life Information**
 
-## **Marketing and customer research**
+We access the information recorded through the use of your rewards for life card to help us improve our service to you and to make our communications more relevant.
 
-With your prior agreement, we may contact you:
+## **Marketing and Customer Research**
+
+With your prior agreement, we may contact you by email, post, SMS or phone:
 
   * with details of offers and information about Holland & Barrett products or services;
-  * with offers and information about products or services from selected partners, or  for customer research e.g. to help improve our services or the Website.
+  * with offers and information about products or services from selected partners, or for customer research e.g. to help improve our services, products, stores or the Website.
 
 
 
@@ -57,7 +62,8 @@ It is entirely your choice if you wish to receive or not receive this informatio
 You may choose to no longer receive marketing information from us by:
 
   * amending your options within the "Your Details" section of ["My Account"](https://web.archive.org/my-account/login.jsp?myaccount=true) on the Website;
-  * clicking on the "unsubscribe" link on the bottom of any of our e-mails;
+  * clicking on the "unsubscribe" link on the bottom of any of our e-mails to opt of email communications;
+  * amending your options within the Holland & Barrett Mobile App;
   * calling us on 0370 606 6606; or
   * writing to us at Holland & Barrett Retail Limited, Samuel Ryder House, Barling Way, Eliot Park, Nuneaton, Warwickshire, CV10 7RH.
 
@@ -153,7 +159,7 @@ We will retain your information for as long as your account is active or as need
 
 ## **Changes to our policy**
 
-This Policy replaces all previous versions and is correct as of **25th July 2014**.  We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by means of a prominent notice on this Website prior to the change becoming effective. We encourage you to periodically review this page and our Website for the latest information on our privacy practices.
+This Policy replaces all previous versions and is correct as of **29th July 2016**.  We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by means of a prominent notice on this Website prior to the change becoming effective. We encourage you to periodically review this page and our Website for the latest information on our privacy practices.
 
 ## **Contacting us**
 
