@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urldab.net privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422153923id_/http%3A//www.dmninf.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urldab.net privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201124521id_/http%3A//www.dmninf.net/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
