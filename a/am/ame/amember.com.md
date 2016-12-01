@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amember.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606195746id_/http%3A//www.amember.com/p/main/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amember.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201031127id_/http%3A//www.amember.com/p/main/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | aMember
 
@@ -54,10 +54,8 @@ Please email any questions about Privacy Policy to: [support@cgi-central.net](ma
 
 ### Hear what **others** have to say
 
-I have been using the aMember platform for over six years to host my Macintosh Training membership site. The software is very fast, and full of features. From getting subscribers signed up to creating email auto-responders, customizing form options and protecting all kinds of content, these guys do it well. I love aMember not only for it's features but for the support they have provided over the years. Alex and his team are constantly improving and updating the application. The interface they created is easy to navigate, allowing me to make changes to my offers and programs quickly.
+**I have been using the aMember platform for over six years** to host my Macintosh Training membership site. The software is very fast, and full of features. From getting subscribers signed up to creating email auto-responders, customizing form options and protecting all kinds of content, these guys do it well. I love aMember not only for it's features but for the support they have provided over the years. Alex and his team are constantly improving and updating the application. The interface they created is easy to navigate, allowing me to make changes to my offers and programs quickly.
 
-* * *
-
-Just a quick note to express my appreciation for Amember software and the support of the team behind it. I've been using Amember for many years. Its been a solid performer for my sites and I wouldn't use anything else. Loads of features. Handles just about any job I can throw at it on drawpj.com
+**aMember is one of the most important tools** we use at MyThemeShop to manage almost everything. Having 370K plus users comes with its challenges and aMember has been able to handle the users, the transactions, the downloads, the security – flawlessly. On top of that, aMember support is professional and quick. Having aMember and their support is like having a dedicated team of professionals to help you every step of the way. It integrates with WordPress, and if it works for us, it can work for anyone offering any digital products to any number of users. We can't recommend aMember enough.
 
 [More Testimonials…](https://web.archive.org/forum/forums/testimonials.20/)
