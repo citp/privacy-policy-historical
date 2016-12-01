@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mydotcomrade.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404204707id_/http%3A//mydotcomrade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydotcomrade.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201041029id_/http%3A//mydotcomrade.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | My Dot Comrade
+# privacy policy | My Dot Comrade
 
 All images on MyDotComrade.com are either submitted to MyDotComrade.com by email or are readily available in various places on the Internet and believed to be in public domain. Images posted are believed to be posted within our rights according to the U.S. Copyright Fair Use Act (title 17, U.S. Code.) MyDotComrade.com respects the intellectual property rights of others and expects its users to do the same. It is MyDotComrade.com’s policy, in appropriate circumstances and at its discretion, to disable and/or terminate the accounts of users who repeatedly infringe or are repeatedly charged with infringing the copyrights or other intellectual property rights of others.
 
