@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the jpmilfs.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603212847id_/http%3A//www.jpmilfs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpmilfs.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201095300id_/http%3A//jpmilfs.com/privacy) for the most accurate reproduction.*
 
-# jpmilfs.com - Privacy Statement
+# JPMilfs.com - Privacy Statement
 
 **Our Commitment To Privacy**
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our home page and at every point where personally identifiable information may be requested.
 
-This notice applies to all information collected or submitted on jpmilfs.com and all websites in the network.
+This notice applies to all information collected or submitted on JPMilfs.com and all websites in the network.
 
 **What information do we collect?**
 
