@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourbabynamer.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331221757id_/http%3A//www.ourbabynamer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourbabynamer.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201035858id_/http%3A//www.ourbabynamer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,4 +16,4 @@ Changes To Our Privacy PolicyThis privacy policy will be updated as necessary. A
 
 Contact UsWe welcome your questions and comments. Please feel free to Contact Us if you have any questions or concerns about this Privacy Policy. 
 
-Gatorade was named for the University of Florida Gators where it was first developed.  [More](https://web.archive.org/baby-picks-this-week.html)
+The Guinness Book of Records holds the record for being the book most often stolen from Public Libraries.  [More](https://web.archive.org/baby-picks-this-week.html)
