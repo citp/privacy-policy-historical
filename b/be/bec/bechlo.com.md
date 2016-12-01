@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bechlo.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814005338id_/http%3A//www.bechlo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bechlo.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201054823id_/http%3A//bechlo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bechlo.com
+# Privacy Policy
 
-This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the Bechlo.com website (“[http://www.bechlo.com](https://web.archive.org/web/20150814005338id_/http://www.bechlo.com/privacy-policy/%5C)“) work and to keep it safe (details below). In formal terms, www.bechlo.com, acting itself and through its subsidiaries, is the “data controller” of your personal information. This policy is effective from 23th July 2012.
+This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the Bechlo.com website (“[http://www.bechlo.com](http://web.archive.org/web/20140704000311/http://www.bechlo.com/privacy-policy/%5C)“) work and to keep it safe (details below). In formal terms, www.bechlo.com, acting itself and through its subsidiaries, is the “data controller” of your personal information. This policy is effective from 23th July 2012.
 
 **Collection:-** Information posted on Bechlo.com is obviously publicly available. We collect and store the following personal information:  
 • email address, physical contact information, and (depending on the service used) sometimes financial information;  
@@ -21,12 +21,12 @@ This privacy policy describes how we handle your personal information. We collec
 • Bechlo.com also reserves the right to make use of the personal information in any investigation or judicial process relating to fraud on account of such transactions during the period Bechlo.com retains such information.  
 • We may also disclose personal information to enforce our policies, respond to claims that a posting or other content violates other’s rights, or protects anyone’s rights, property or safety.  
 • We may also share personal information with:  
-\- Corporate affiliates who help detect or prevent potentially illegal acts and provide joint services (Our corporate affiliates will market  
+– Corporate affiliates who help detect or prevent potentially illegal acts and provide joint services (Our corporate affiliates will market  
 only to users who ask them to).  
-\- Service providers who help with our business operations.  
+– Service providers who help with our business operations.  
 **Using Information from Bechlo.com**. You may use personal information gathered from Bechlo.com only to follow up with another user about a specific posting, not to send spam/ phishing or collect personal information from someone who hasn’t agreed to that.
 
-**Access, Modification, and Deletion.** You can see, modify or erase your personal information by reviewing your posting or account status page. Contact customer support at [admin@bechlo.com](https://web.archive.org/web/20150814005338id_/http://www.bechlo.com/privacy-policy/%5C) to review any personal information we store that is not available on Bechlo.com. This service is provided without taking any charge. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies; and prevent bad guys from coming back.
+**Access, Modification, and Deletion.** You can see, modify or erase your personal information by reviewing your posting or account status page. Contact customer support at [admin@bechlo.com](http://web.archive.org/web/20140704000311/http://www.bechlo.com/privacy-policy/%5C) to review any personal information we store that is not available on Bechlo.com. This service is provided without taking any charge. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies; and prevent bad guys from coming back.
 
 **Data Security.** We use a number of mechanisms (encryption, passwords, and physical security) to protect the security and integrity of your personal information against unauthorized access and disclosure. Unfortunately, no data transmission over the internet can be guaranteed to be completely secure. So while we strive to protect such information, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once any personal information comes into our possession, we will take reasonable steps to protect that information from misuse and loss and from unauthorized access, modification or disclosure.
 
