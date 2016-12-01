@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ppfinder.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618001509id_/http%3A//www.ppfinder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppfinder.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201042906id_/http%3A//www.ppfinder.com/privacy) for the most accurate reproduction.*
 
 # People search - Find people over the internet for free - White Pages
 
