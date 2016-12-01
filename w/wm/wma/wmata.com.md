@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wmata.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530072045id_/http%3A//wmata.com/about_metro/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmata.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201105943id_/http%3A//www.wmata.com/about_metro/privacy.cfm) for the most accurate reproduction.*
 
 # Metro - About Metro - Privacy and Data Use Policy
 
-Outlined below is Metro's privacy policy governing personal data collected on this website. Metro also has a broader [corporate privacy policy](https://web.archive.org/about_metro/docs/9.2.2_Privacy_Policy.pdf) protecting the privacy of individuals who are the subjects of records maintained in Metro's [systems of records](https://web.archive.org/about_metro/sorn_documents.cfm). See [explanations for ](https://web.archive.org/web/20160530072045id_/http%3A//wmata.com/about_metro/routine_Uses_in_SORN.pdf)[general routine uses within the systems of records notices](https://web.archive.org/web/20160530072045id_/http%3A//wmata.com/about_metro/routine_Uses_in_SORN.pdf). Metro interprets and applies this privacy policy consistent with the federal Privacy Act, 5 U.S.C. § 552a, and federal practice.
+Outlined below is Metro's privacy policy governing personal data collected on this website. Metro also has a broader [corporate privacy policy](https://web.archive.org/about_metro/docs/9.2.2_Privacy_Policy.pdf) protecting the privacy of individuals who are the subjects of records maintained in Metro's [systems of records](https://web.archive.org/about_metro/sorn_documents.cfm). See [explanations for ](https://web.archive.org/web/20161201105943id_/http%3A//www.wmata.com/about_metro/routine_Uses_in_SORN.pdf)[general routine uses within the systems of records notices](https://web.archive.org/web/20161201105943id_/http%3A//www.wmata.com/about_metro/routine_Uses_in_SORN.pdf). Metro interprets and applies this privacy policy consistent with the federal Privacy Act, 5 U.S.C. § 552a, and federal practice.
 
 ## Summary
 
@@ -59,7 +59,7 @@ Personal information is information that can identify an individual, such as:
 
 
 
-We are required to release personal information if it is subpoenaed by a court or grand jury. We may also provide statistics based on the information automatically collected from your visit to federal, state, and city officials.
+We are required to release personal information in response to a valid court order or a judge-signed subpoena.
 
 **Employment Application Information**
 
