@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotcams.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607155241id_/http%3A//www.hotcams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotcams.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201230608id_/http%3A//www.hotcams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Hotcams - Privacy Policy
 
