@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frooxi.com privacy policy that was archived on 2015-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150823104536id_/http%3A//www.frooxi.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frooxi.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201041334id_/http%3A//www.frooxi.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
 
 # Privacy Policy - Frooxi
 
