@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govtjobsx.in privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423030706id_/http%3A//www.govtjobsx.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtjobsx.in privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201093842id_/http%3A//www.govtjobsx.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Govtjobx
 
