@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seocopywriting.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608014026id_/http%3A//seocopywriting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seocopywriting.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201171755id_/http%3A//seocopywriting.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SEO Copywriting
 
@@ -29,5 +29,9 @@ The information presented in our programs is for the exclusive use of SuccessWor
 Portland, OR 97209  
 (503) 922-3627  
 [http://www.seocopywriting.com](http://www.seocopywriting.com/)
+
+Write hypnotic content. Skyrocket your profits. 
+
+I’ve been teaching writers for over 18 years. Want to learn my secrets? Sign up for free tips.
 
 Scroll to top
