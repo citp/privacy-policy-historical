@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arborday.org privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416111630id_/http%3A//www.arborday.org/generalinfo/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arborday.org privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201144546id_/https%3A//www.arborday.org/generalinfo/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -14,7 +14,7 @@ When you supply a mailing address, we may send you periodic mailings with inform
 
 ### Cookies
 
-Our shopping system uses temporary cookies to enable you to add items to your shopping cart. No personal data is collected through the use of cookies. [More about that.](https://web.archive.org/web/20160416111630id_/http%3A//www.arborday.org/generalinfo/nocookies.cfm)
+Our shopping system uses temporary cookies to enable you to add items to your shopping cart. No personal data is collected through the use of cookies. [More about that.](https://web.archive.org/web/20161201144546id_/https%3A//www.arborday.org/generalinfo/nocookies.cfm)
 
 ### Children
 
@@ -22,7 +22,7 @@ The Arbor Day Foundation has a long-standing commitment to helping children lear
 
 ### Shipping
 
-All trees delivered as part of our [membership packages](https://web.archive.org/shopping/memberships/memberships.cfm?membership=trees) are shipped for free. Shipping costs for our [nursery trees](https://web.archive.org/shopping/trees/) are $9.95 for any order under $50. Orders over $50 are shipped for free. 
+All trees delivered as part of our [membership packages](https://web.archive.org/shopping/memberships/memberships.cfm?membership=trees) are shipped for free. Shipping costs for our [nursery trees](https://web.archive.org/shopping/trees/) are $9.95 for any order under $60. Orders over $60 are shipped for free. 
 
 Trees are shipped at the [right time for planting](https://web.archive.org/TreeInfo/ShippingSchedule.cfm) where you live. Credit cards are charged no more than 30 days prior to shipment.
 
@@ -44,7 +44,7 @@ All refunds will be provided as a credit to the credit card used at the time of 
 
 We use Affiliate Technology's services to help website owners drive visitors to arborday.org. You can learn more about that program by visiting: [https://arborday.affiliatetechnology.com/](https://web.archive.org/linkout.cfm?Destination=https://arborday.affiliatetechnology.com/)
 
-Questions regarding our privacy policy may be [directed to our webmaster](https://web.archive.org/web/20160416111630id_/http%3A//www.arborday.org/generalinfo/index.cfm) or mailed to:
+Questions regarding our privacy policy may be [directed to our webmaster](https://web.archive.org/web/20161201144546id_/https%3A//www.arborday.org/generalinfo/index.cfm) or mailed to:
 
 The Arbor Day Foundation  
 211 North 12th Street  
