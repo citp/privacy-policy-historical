@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalpropertyguide.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405020238id_/http%3A//www.globalpropertyguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalpropertyguide.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201202126id_/http%3A//www.globalpropertyguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Global Property Guide
 
@@ -6,11 +6,25 @@ This privacy policy states what we will do with your personal data once you have
 
 ### Use of personal information
 
-Some information, such as your email address, may be used by the Global Property Guide to contact you with our newsletters. Your personal information will not be used for any purpose not directly related to the Global Property Guide’s business offering. You will not be contacted by sales people. At any point you can unsubscribe from any or all of our communications by clicking the unsubscribe link which we make available on all our communications. If you have problems doing this you can contact us on 020 7490 0588 or 632 867 4220
+When you sign up for our newsletter, any communications you receive will be from The Global Property Guide and you can at any time decide to stop receiving them by clicking the unsubscribe link. You will not be contacted by sales people.
+
+An unsubscribe link is at the base of all emails. There is also a My Profile link at the top right of all Global Property Guide pages where your newsletter/advertising preferences can be altered by entering the email address at which you are receiving these emails. If you have problems doing this you can contact us on 44 (0) 117 376 3832 or email us on help@globalpropertyguide.com.
+
+The same applies when you provide information to post articles on The Global Property Guide, or when you provide information to continue using the site after reaching the limit of "free-to-use without signing up". The registration process is primarily used by us as a second opportunity to offer you our newsletter, and to offer you advertising emails (primarily property listings/offers). Both the newsletter and the advertising emails are entirely optional, and if you do not accept to receive these, the details you have submitted will not be used except for internal data analysis purposes, and for granting you full access to the site. 
 
 ### Resale or disclosure of information to third parties
 
-The Global Property Guide is free to use, and therefore supported by advertising. If you have opted-in to our third party offers, we may on occasion email you offers from specially selected advertisers. We will never sell or pass on any of your data to third parties. Any communications you receive willbe from The Global Property Guide and you can at any time decide to stop receiving third party offers by clicking the unsubscribe link.
+If you have opted in to receive third party advertising offers by email, we may email you offers from specially selected advertisers. These will almost exclusively be property listings. There may also be advertising offers on site which include a form soliciting personal information. If you respond to offers from these advertisers, for instance by expressing interest by filling in a form either attached to the email or on the Global Property Guide site, the personal information you have submitted in that form will then be passed to the advertiser, and in return we may receive compensation from the advertiser.
+
+You can opt out of receiving such advertising emails at any time by altering your newsletter preferences, as described in the previous section.
+
+In addition, we may disclose your personal information to a third party:
+
+  * In the event we sell or buy any business or assets (in which case we may disclose your personal data to the prospective seller or buyer of such a business or assets)
+  * If our business or substantially all of its assets are acquired by a third party (in which case personal data held about customers will be one of the transferred assets)
+  * If we have a duty to disclose your personal data in order to comply with a legal request, or in order to enforce any of our terms and conditions
+
+
 
 ### Browser information collected on the website
 
