@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelmuse.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606002224id_/http%3A//www.travelmuse.com/about/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelmuse.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201070342id_/http%3A//www.travelmuse.com/about/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
