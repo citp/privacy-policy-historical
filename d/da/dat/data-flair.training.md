@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the data-flair.training privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606173534id_/http%3A//data-flair.training/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the data-flair.training privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201223838id_/http%3A//data-flair.training/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Overview | DataFlair
 
-User privacy is very important for Data-flair.com and takes it seriously and is committed to protect your privacy as a user of our website. We have made all possible efforts to ensure your information is secure. All information collected, what we do with it, and what you can do about it is covered in this privacy policy. You can use this information to decide about your privacy.
+User privacy is very important for Data-flair.training and takes it seriously and is committed to protect your privacy as a user of our website. We have made all possible efforts to ensure your information is secure. All information collected, what we do with it, and what you can do about it is covered in this privacy policy. You can use this information to decide about your privacy.
 
 ## About us and the website
 
-Data-flair.com provides online training, consulting services, consultancy and implementation for big data, Hadoop ecosystem, Apache Spark, Scala, Storm, Core Java, business Intelligence, Kafka, HBase, cloud technologies and other niche technologies. We help candidates in carving their career.
+Data-flair.training provides online training, consulting services, consultancy and implementation for big data, Hadoop ecosystem, Apache Spark, Scala, Storm, Core Java, business Intelligence, Kafka, HBase, cloud technologies and other niche technologies. We help candidates in carving their career.
 
 ## Data-flair Information Practices
 
@@ -30,16 +30,16 @@ Sharing of Data-flair training materials and site credentials to your friends, a
 
 ## Copyright information
 
-All the contents present on web pages of data-flair.com can be used to copy or take print, if it is being used for personal use only. Data-flair holds the copyright to all the materials and contents that are available on this website, unless otherwise indicated. For using contents or materials present on this site, a written permission must be obtained from the copyright holder for any use of this material other than for purposes permitted by law.
+All the contents present on web pages of data-flair.training can be used to copy or take print, if it is being used for personal use only. Data-flair holds the copyright to all the materials and contents that are available on this website, unless otherwise indicated. For using contents or materials present on this site, a written permission must be obtained from the copyright holder for any use of this material other than for purposes permitted by law.
 
 ## Personal Information Policy
 
 Sharing your personal information  
-Users who purchase any of the courses available on Data-flair may be asked for testimonial regarding their experience in learning that course and it will be displayed on our website along with photos and videos, and also may be shared on our social media channels like Linkedin, Facebook, Google+, Twitter, YouTube or Flickr or can email them to our customers. Users must be aware that their publicly identifiable details could be used to send promotional, unsolicited messages. DataFlair is not responsible for any such personal information that users have chosen to display. If any user does not want his picture testimonials to be displayed, he/she can write a mail to info@data-flair.com informing the same.
+Users who purchase any of the courses available on Data-flair may be asked for testimonial regarding their experience in learning that course and it will be displayed on our website along with photos and videos, and also may be shared on our social media channels like Linkedin, Facebook, Google+, Twitter, YouTube or Flickr or can email them to our customers. Users must be aware that their publicly identifiable details could be used to send promotional, unsolicited messages. DataFlair is not responsible for any such personal information that users have chosen to display. If any user does not want his picture testimonials to be displayed, he/she can write a mail to info@data-flair.training informing the same.
 
 ## Correcting Personal Information
 
-If user finds that his information we are holding is incorrect or not complete, he can send us a mail with the correct details at info@data-flair.com.
+If user finds that his information we are holding is incorrect or not complete, he can send us a mail with the correct details at info@data-flair.training.
 
 ## Changes to Privacy Policy
 
@@ -47,8 +47,8 @@ The privacy policy terms are subject to change from time to time and we hold the
 
 ## Removing Personal Information
 
-If any user would like to remove his account, he can write as mail at info@data-flair.com mentioning the same.
+If any user would like to remove his account, he can write as mail at info@data-flair.training mentioning the same.
 
 ## Privacy Policy Queries
 
-If any user has any query regarding Data-flair Privacy Policy, they can write to info@data-flair.com
+If any user has any query regarding Data-flair Privacy Policy, they can write to info@data-flair.training
