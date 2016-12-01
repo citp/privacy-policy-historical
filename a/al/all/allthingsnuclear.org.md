@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allthingsnuclear.org privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531213709id_/http%3A//www.ucsusa.org/about/ucs-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthingsnuclear.org privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201020403id_/http%3A//www.ucsusa.org/about/ucs-privacy-statement.html) for the most accurate reproduction.*
 
 # UCS Privacy Statement | Union of Concerned Scientists
 
