@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loginto.org privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604153649id_/http%3A//www.loginto.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loginto.org privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201190755id_/http%3A//www.loginto.org/privacy-policy) for the most accurate reproduction.*
 
 # Loginto.org Privacy Policy
 
