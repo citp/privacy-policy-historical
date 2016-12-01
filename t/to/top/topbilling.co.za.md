@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topbilling.co.za privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619055055id_/http%3A//www.topbilling.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topbilling.co.za privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201095442id_/http%3A//topbilling.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Top Billing Privacy Policy
 
@@ -56,7 +56,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20160619055055id_/http%3A//www.topbilling.com/terms-and-conditions.php) section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.topbilling.com.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20161201095442id_/http%3A//topbilling.com/terms-and-conditions.php) section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.topbilling.com.
 
 **Your Consent**
 
