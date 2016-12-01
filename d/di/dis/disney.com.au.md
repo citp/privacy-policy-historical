@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disney.com.au privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623173651id_/https%3A//disneyprivacycenter.com/privacy-policy-translations/english) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disney.com.au privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201233132id_/https%3A//disneyprivacycenter.com/privacy-policy-translations/english) for the most accurate reproduction.*
 
 # Privacy Policy - Disney Privacy Center
 
@@ -8,7 +8,7 @@ Our privacy policy is designed to provide transparency into our privacy practice
 
 ## **Privacy Policy**
 
-Last Modified: December 11, 2015
+Last Modified: October 18, 2016
 
 This privacy policy describes the treatment of information provided or collected on the sites where this privacy policy is posted. It also explains the treatment of information provided or collected on applications we make available on third-party sites or platforms if disclosed to you in connection with use of the application. We follow this privacy policy in accordance with local law in the places where we operate.
 
@@ -114,7 +114,7 @@ The security, integrity and confidentiality of your information are extremely im
 
 #### 8\. Data Transfers, Storage and Processing Globally
 
-We operate globally and may transfer your personal information to individual companies of The Walt Disney Family of Companies or third parties in locations around the world for the purposes described in this privacy policy. Wherever your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your personal information. Additionally, when using or disclosing personal information transferred from the European Union, we abide by the Safe Harbor Principles as set forth by the U.S. Department of Commerce, use standard contract clauses approved by the European Commission, adopt other means under European Union law for ensuring adequate safeguards, or obtain your consent. We also apply the substantive requirements of the Safe Harbor Principles when transferring personal information from Australia.
+We operate globally and may transfer your [personal information](https://disneyprivacycenter.com/privacy-policy-translations/english/#def_Personalinformation) to individual companies of [The Walt Disney Family of Companies](https://disneyprivacycenter.com/privacy-policy-translations/english/#def_TheWaltDisneyFamilyofCompanies) or third parties in locations around the world for the purposes described in this privacy policy. Wherever your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your personal information. Additionally, when using or disclosing personal information transferred from the European Union, we use standard contractual clauses approved by the European Commission, adopt other means under European Union law for ensuring adequate safeguards, or obtain your consent. We also apply the substantive requirements of standard contractual clauses when transferring personal information from Australia.
 
 #### 9\. Changes to this Privacy Policy
 
