@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anglia.ac.uk privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403151917id_/http%3A//ww2.anglia.ac.uk/ruskin/en/home/tools/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anglia.ac.uk privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201134605id_/http%3A//www.anglia.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies - Anglia Ruskin University
 
@@ -151,3 +151,7 @@ In this context Anglia Ruskin University informs all persons taking part in univ
 #### Changes to this Privacy Policy
 
 Anglia Ruskin University may from time to time change this Privacy Policy or change, modify or withdraw access to this Site at any time with or without notice. However if this Privacy Policy is changed in a material, adverse way, Anglia Ruskin University will post a notice advising of such change at the beginning of this policy. We recommend that you revisit this Privacy Policy from time to time to learn of any such changes to this Privacy Policy. 
+
+Untitled Page
+
+ **We use cookies on the ARU website to improve your browsing experience, monitor how our site is used, and to aid us with advertising our services.** By continuing to use our site, you're agreeing to us placing cookies outlined in our [privacy policy](https://web.archive.org/privacy-and-cookies) on your device. 
