@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigpoint.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329030108id_/https%3A//legal.bigpoint.com/privacy-policy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigpoint.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201180036id_/https%3A//legal.bigpoint.com/privacy-policy/en) for the most accurate reproduction.*
 
 # BIGPOINT INC. - PRIVACY POLICY - EFFECTIVE DATE: SEPTEMBER 30, 2015
 
@@ -80,8 +80,8 @@ We reserve the right to change this privacy policy from time to time. If we chan
 If you have questions or concerns about this Privacy Policy, contact us at privacy@bigpoint.net or write us:  
 Bigpoint Inc.  
 Attention Privacy  
-580 California Street 12th Floor  
-San Francisco CA 94104  
+PO Box 218  
+Fallbrook, CA 92088  
 USA  
 Please remember to provide your User-ID, e-mail address and, if necessary, the relevant Game name(s).
 
