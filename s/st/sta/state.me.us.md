@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the state.me.us privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603012140id_/http%3A//www.maine.gov/portal/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.me.us privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201034315id_/http%3A//www.maine.gov/portal/policies/privacy.html) for the most accurate reproduction.*
 
 # Maine.gov: Privacy Policy
 
   1. [Home](https://web.archive.org/portal/index.html)
-  2. » [Web Policies](https://web.archive.org/web/20160603012140id_/http%3A//www.maine.gov/portal/policies/index.html)
+  2. » [Web Policies](https://web.archive.org/web/20161201034315id_/http%3A//www.maine.gov/portal/policies/index.html)
   3. » Privacy Policy
 
 
