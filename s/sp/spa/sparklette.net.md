@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparklette.net privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613091402id_/http%3A//sparklette.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparklette.net privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201202132id_/http%3A//sparklette.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sparklette MagazineSparklette Magazine
 
