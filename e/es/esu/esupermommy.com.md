@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esupermommy.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615102442id_/http%3A//www.esupermommy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esupermommy.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203004505id_/http%3A//www.esupermommy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Experience of a Super Mommy
 
@@ -22,3 +22,9 @@ Links
 This Web site contains links to other sites. Please be aware that I am not responsible for the privacy practices of other sites that you wish to visit. I encourage my users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 If you have any questions, concerns or suggestions regarding my privacy policy, please contact me by filling up the [contact form](http://www.esupermommy.com/contact-the-administrator/ "esupermommy contact form").
+
+_
+
+[](https://www.pinterest.com/pin/create/button/)
+
+_
