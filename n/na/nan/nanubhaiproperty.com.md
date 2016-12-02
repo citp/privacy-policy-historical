@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nanubhaiproperty.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608112917id_/http%3A//www.nanubhaiproperty.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanubhaiproperty.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202055553id_/http%3A//www.nanubhaiproperty.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy is subject to the terms of the Site Policy (User agreement) on NanuBhaiProperty.com
 
