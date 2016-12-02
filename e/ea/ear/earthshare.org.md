@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthshare.org privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613102254id_/http%3A//www.earthshare.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthshare.org privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202172759id_/http%3A//www.earthshare.org/privacy-policy.html) for the most accurate reproduction.*
 
 # About: EarthShare’s Donor Privacy Policy
 
@@ -12,4 +12,8 @@ Visitors to the EarthShare Web site remain anonymous. EarthShare does not requir
 
 We use a number of web analytics products to optimize our website, including Google Analytics and Google Website Optimizer.  These tools do not require our site visitors to identify themselves, and they do not provide us any personally identifiable information about our visitors that is not supplied voluntarily. Our goal in using analytics is to understand what parts of our website you like and which parts need work.  We encourage you to accept cookies when surfing our website so we can do our job of providing you useful information as effectively as possible.
 
-**EarthShare welcomes[comments and questions](mailto:info@earthshare.org) about this policy. Please contact [Robin Perkins](mailto:info@earthshare.org) via email or (800) 875.3863 if you wish to review or correct any personal information you've provided to us. We are committed to protecting our donors, and will make every reasonable effort to keep your information secure.**
+**EarthShare welcomes[comments and questions](mailto:info@earthshare.org) about this policy. Please contact [us via email](mailto:info@earthshare.org) or (800) 875.3863 if you wish to review or correct any personal information you've provided to us. We are committed to protecting our donors, and will make every reasonable effort to keep your information secure.
+
+EarthShare's current financials, [Conflict of Interest Policy](https://web.archive.org/Financial_Reports/EarthShare_ConflictPolicy.pdf), and [financial reports and 990](http://www.earthshare.org/financials-reports.html) are also available online for review.
+
+**
