@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunbot.net privacy policy that was archived on 2016-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160113224901id_/http%3A//www.gunbot.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunbot.net privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202012845id_/http%3A//gunbot.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
