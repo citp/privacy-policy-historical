@@ -1,25 +1,29 @@
-> *The following text is extracted and transformed from the mrdonn.org privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613210950id_/http%3A//www.mrdonn.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrdonn.org privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202074755id_/http%3A//www.mrdonn.org/privacypolicy.html) for the most accurate reproduction.*
 
 # MrDonn.org - Privacy Policy
 
-> **Privacy Policy**
+> **Privacy Policy / Cookie Policy / Affiliate Disclosure**
 > 
 > **[mrdonn.org](http://www.mrdonn.org/index.html) does not collect information on visitors to its Website. **
 > 
-> **However, Google, as a third party vendor, uses cookies to serve ads on our site.**  
+> **Google, as a third party vendor, uses cookies to serve ads on our site.**  
 > 
->   * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website.
+>   * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website. These ads are provided by [Google](http://www.google.com/) via the [Google AdSense program.](http://www.google.com/adsense) mrdonn.org does not select the ads or control the content of ads provided by Google via the Google AdSense program. 
 > 
 >   * Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our site and/or other sites on the Internet.
 > 
->   * Users may opt out of the use of the [DoubleClick cookie](http://www.google.com/ads/preferences/html/opt-out.html) for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/). (Alternatively, users can opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/). 
+>   * Users may opt out of the use of the [DoubleClick cookie](http://www.google.com/ads/preferences/html/opt-out.html) for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/). 
 > 
 > 
 
 > 
-> The only ads we use on our website, mrdonn.org, are ads provided by [Google](http://www.google.com/) via the [Google AdSense program.](http://www.google.com/adsense)
+> **mrdonn.org is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.**
 > 
-> **Privacy Policy Regarding Children**
+> **Amazon, as a third party vendor, uses cookies to serve ads on our site.** Mrdonn.org does select the ads and does control their content, but mrdonn.org does not control the cookies used by Amazon. [Click here to reach the Amazon.com interest based advertising policies and opp out options](https://www.amazon.com/b/?&node=5160028011). 
+> 
+> **Alternately, users can opt out of these and other third-party vendors' use of cookies for interest based advertising by visiting** [**aboutads.info**](http://www.aboutads.info/) **.  **
+> 
+>  **Privacy Policy Regarding Children**
 > 
 > **mrdonn.org does not:**
 > 
@@ -46,4 +50,4 @@
 > 
 > Collect personally identifiable information.   If it does begin collecting such information, prior consent will be obtained from the users of the site, options will be provided to not provide such information, and the uses of the information will be specified. If information will be divulged to third parties, users will be notified prior to collecting the information.
 > 
-> For helpful information on internet safety, Google offers information at the  Google Family Safety Center: <http://www.google.com/familysafety/>
+> For helpful information on internet safety, Google offers information at the  Google Family Safety Center: <http://www.google.com/familysafety/> 
