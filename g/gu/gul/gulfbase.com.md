@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gulfbase.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618135014id_/http%3A//www.gulfbase.com/home/page%3Fpageid%3D35) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulfbase.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202075613id_/http%3A//www.gulfbase.com/home/page%3Fpageid%3D35) for the most accurate reproduction.*
 
 # GulfBase.com - Privacy
 
@@ -6,13 +6,13 @@
 
 ### **Effective: October 29th, 2008**
 
-Your privacy is important to us. Market Information Trading Co. has created this privacy statement in order to demonstrate our firm commitment to privacy. This privacy policy governs the information collection practices of [www.gulfbase.com ](https://web.archive.org/web/20160618135014id_/http%3A//www.gulfbase.com/).
+Your privacy is important to us. Market Information Trading Co. has created this privacy statement in order to demonstrate our firm commitment to privacy. This privacy policy governs the information collection practices of [www.gulfbase.com ](https://web.archive.org/web/20161202075613id_/http%3A//www.gulfbase.com/).
 
 We have established this Statement as a means to communicate our information gathering and dissemination practices to our customers and visitors. This online privacy policy describes how we use, disclose and protect personal information that you share with us. "Personal information" is information that enables us to identify you, such as your name and e-mail address. By using this Site, you agree to this Privacy Policy.
 
 GulfBase.com is a Licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users trust and confidence in the internet by promoting the use of fair information practices. Because www.gulfbase.com wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have any questions or concerns regarding this statement, you should first contact us at [[email protected]](https://web.archive.org/web/20160618135014id_/http%3A//www.gulfbase.com/cdn-cgi/l/email-protection) . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at:
+If you have any questions or concerns regarding this statement, you should first contact us at [[email protected]](https://web.archive.org/web/20161202075613id_/http%3A//www.gulfbase.com/cdn-cgi/l/email-protection) . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at:
 
 <http://watchdog.truste.com/pvr.php?page=complaint>
 
@@ -86,7 +86,7 @@ Our site provides users the opportunity to opt-out, at any time, of receiving pr
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please send them to [[email protected]](https://web.archive.org/web/20160618135014id_/http%3A//www.gulfbase.com/cdn-cgi/l/email-protection) or write to us at the following address:
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please send them to [[email protected]](https://web.archive.org/web/20161202075613id_/http%3A//www.gulfbase.com/cdn-cgi/l/email-protection) or write to us at the following address:
 
 Market Information Trading Co. (GB Privacy)
 
