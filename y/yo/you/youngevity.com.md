@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngevity.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515223510id_/http%3A//www.youngevity.com/index.cfm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngevity.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202065355id_/http%3A//youngevity.com/index.cfm/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Official Site
 
