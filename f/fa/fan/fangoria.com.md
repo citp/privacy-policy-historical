@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fangoria.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615171420id_/http%3A//www.fangoria.com/new/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fangoria.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202044457id_/http%3A//www.fangoria.com/new/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FANGORIA®
 
