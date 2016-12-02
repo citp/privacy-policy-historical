@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peejeshare.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324211029id_/https%3A//www.hostwinds.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peejeshare.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202090745id_/https%3A//www.hostwinds.com/privacy.php) for the most accurate reproduction.*
 
 # Hostwinds Privacy Policy
 
@@ -50,10 +50,11 @@ Downloads are solely for personal, noncommercial use. Copies of download can onl
 
 ### CONTACTING US
 
-Please contact us if you have comments or questions about any of our policies or our website. For information about your payment or order, please contact us at 1-918-960-0191 we are available by phone 24/7/365. 
+Please contact us if you have comments or questions about any of our policies or our website. For information about your payment or order, please contact us at 1-206-886-0665 we are available by phone 24/7/365. 
 
 Our mailing address is:  
-304 Reunion Center  
-9 East 4th Street  
-Tulsa, Ok 74103  
-918-960-0191
+12101 Tukwila International Blvd   
+3rd Floor, Suite 320   
+Seattle, WA 98168   
+206-886-0665  
+
