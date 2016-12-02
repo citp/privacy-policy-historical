@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamenerdz.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305104345id_/http%3A//www.gamenerdz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamenerdz.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202195240id_/http%3A//www.gamenerdz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,7 +22,7 @@ We require this information to understand your needs and provide you with a bett
   * Internal record keeping.
   * We may use the information to improve our products and services.
   * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+  * From time to time, we may also use your information to contact you, via email, for market research purposes. We may use the information to customize the website according to your interests.
 
 
 
