@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cheezhead.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607234605id_/http%3A//www.recruiting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheezhead.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202072634id_/https%3A//www.recruiting.com/privacy) for the most accurate reproduction.*
 
-# Recruiting.com Privacy Statement - Recruiting.com
+# Privacy Statement - Recruiting.com
 
 Recruiting.com has created this privacy statement in order to demonstrate our firm commitment to the privacy of our visitors and users. We give our best effort to ensure that the information that you submit to us remains private, and that information is utilized only for the purposes described herein. The following discloses our information gathering and dissemination practices for Recruiting.com.
 
@@ -26,7 +26,7 @@ Recruiting.com offers an electronic e-mail newsletter for employers who utilize 
 
 ## Feedback
 
-Please [send feedback](mailto:kyle@recruiting.com) to the webmaster. We appreciate the opportunity to hear from you, and we review all of your comments. All feedback that is submitted to us becomes the property of Recruiting.com, and we may utilize it for other purposes, including, but not limited to, marketing.
+Please [send feedback](mailto:marketing@recruiting.com) to the webmaster. We appreciate the opportunity to hear from you, and we review all of your comments. All feedback that is submitted to us becomes the property of Recruiting.com, and we may utilize it for other purposes, including, but not limited to, marketing.
 
 ## Security
 
