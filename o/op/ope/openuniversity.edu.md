@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openuniversity.edu privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606042802id_/http%3A//www.openuniversity.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openuniversity.edu privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202084040id_/http%3A//www.openuniversity.edu/privacy) for the most accurate reproduction.*
 
 # Privacy | The Open University
 
