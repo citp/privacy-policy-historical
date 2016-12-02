@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robcubbon.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608020311id_/http%3A//robcubbon.com/privacy-policy-ftc-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robcubbon.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202034227id_/http%3A//robcubbon.com/privacy-policy-ftc-disclaimer) for the most accurate reproduction.*
 
 # Privacy Policy & FTC Disclaimer - Build an Online Business Brand with Personal Freedom | Rob Cubbon
 
