@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the befonts.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621034735id_/http%3A//befonts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the befonts.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203003819id_/http%3A//befonts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Fonts
 
