@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the hired.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623175618id_/https%3A//hired.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hired.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202161314id_/https%3A//hired.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hired
+
+Version 2.2
+
+Last Revised: July 29, 2016
+
+Hired, Inc. (“Hired”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at hired.com (the “Site”) and online service (“Service”).
+
+* * *
 
 ## 1\. Questions; Contacting Hired; Reporting Violations
 
@@ -37,9 +45,9 @@ If you are a non-U.S. user of the Site, by visiting the Site and providing us wi
 
 
 
-### B. Information You Provide To Facebook And Other Social Networking Sites
+### B. Information You Provide From Facebook And Other Social Networking Sites
 
-If you are not currently registered as a user of the Service, and you click on “Sign In” using Facebook, LinkedIn, GitHub, Angellist, or another SNS that we support, you will first be asked to enter your SNS credentials and then be given the option to register for the Service. In this case, we may receive information from that SNS to make it easier for you to create an Account on the Site. Any information that we collect from your SNS account may depend on the privacy settings you have with that SNS, so please consult the SNS’s privacy and data practices.
+If you are not currently registered as a user of the Service, and you click on “Sign In” using Facebook, Google, LinkedIn, GitHub, Angellist, or another SNS that we support, you will first be asked to enter your SNS credentials and then be given the option to register for the Service. In this case, we may receive information from that SNS to make it easier for you to create an Account on the Site. Any information that we collect from your SNS account may depend on the privacy settings you have with that SNS, so please consult the SNS’s privacy and data practices.
 
 ### C. Information Collected Via Technology
 
@@ -54,11 +62,13 @@ If you are not currently registered as a user of the Service, and you click on �
 
 ### D. Information Collected From You About Others
 
-If you decide to invite a third party to create an Account, we will collect your and the third party’s names and e-mail addresses in order to send an e-mail and follow up with the third party. We rely upon you to obtain whatever consents from the third party that may be required by law to allow us to access and upload the third party’s names and e-mail addresses as required above. You or the third party may contact us at help@hired.com to request the removal of this information from our database. Also, when you invite friends to the Service, we will access your Address Book and we will import your contacts names and phone numbers in order to facilitate the invitation. The e-mail that is sent to your friends will come from your e-mail address so that your friends know that you want to invite them to visit the Site. We do not store any passwords you provide as part of the contact import process. We also collect some settings that help us to interpret your data, such as the language and keyboard settings that you have established.
+If you decide to invite a third party to create an Account, we will collect your and the third party’s names and e-mail addresses in order to send an e-mail and follow up with the third party. We may maintain this information indefinitely in our database and may also use this information to help us establish networks of contacts, document relationships, facilitate referrals, and improve our services. We may also use this information to show you and other users that you may know each other or have shared contacts. We rely upon you to obtain whatever consents from the third party that may be required by law to allow us to access and upload the third party’s names and e-mail addresses as required above. You or the third party may contact us at help@hired.com to request the removal of this information from our database. The e-mail that is sent to your friends will come from your e-mail address so that your friends know that you want to invite them to visit the Site.
 
-### E. Google Id
+### E. Information Collected From Address Book and Contact Importing
 
-We allow you to use your Google ID to set up an Account. If you wish to use your Google account you are taken to the Google website to login to your account and this information is then shared with us for the sole purpose of setting up your Account.
+You may use our address book and contacts importer to upload your contacts from other services into Hired. When you import your contacts, we may indefinitely store the contact information in our database, including your contacts' names, e-mails, phone numbers, locations, and relationships to you. We do not store any passwords you provide as part of the contact import process.
+
+After we import your contacts, we will use this information to help us establish networks of contacts, document relationships, facilitate referrals, and improve our services. We may also use this information to show you and other users that you may know each other or have shared contacts. We rely upon you to obtain whatever consents from the relevant third parties that may be required by law to allow us to access and upload the third parties’ names, e-mail addresses, and other contact information. You or such a third party may contact us at help@hired.com to request the removal of this information from our database.
 
 ### F. Information Collected From Third Party Companies
 
