@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mhupa.gov.in privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520084017id_/http%3A//mhupa.gov.in/User_Panel/UserView.aspx%3FTypeID%3D1045) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhupa.gov.in privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202083824id_/http%3A//mhupa.gov.in/User_Panel/UserView.aspx%3FTypeID%3D1045) for the most accurate reproduction.*
 
 # Ministry of Housing and Urban Poverty Alleviation,Government Of India - Privacy Policy
+
+What's New / Upcoming Events
 
 [Ministry of Housing and Urban Poverty Alleviation](https://web.archive.org/Default.aspx "Ministry of Housing and Urban Poverty Alleviation") > Privacy Policy
 
