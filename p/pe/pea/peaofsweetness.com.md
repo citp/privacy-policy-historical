@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peaofsweetness.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610052838id_/http%3A//peaofsweetness.com/pr-friendly/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peaofsweetness.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202085844id_/http%3A//peaofsweetness.com/pr-friendly/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pea of Sweetness
 
