@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the comodoca.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618015348id_/https%3A//www.comodo.com/repository/privacy_agreement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comodoca.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202075712id_/https%3A//enterprise.comodo.com/privacy-statement) for the most accurate reproduction.*
 
-# Policies and Practices of the Comodo Companies - Privacy Statement
+# Enterprise Comodo User Trust Privacy Statement | Privacy Policy
 
-This privacy statement describes the policies and practices of the different Comodo companies, including Comodo CA Limited, Comodo Group, Inc., Comodo Security Solutions, Inc., DNS.COM LLC and eVouch LLC (collectively and individually referred to herein as "Comodo"), in collecting, using, and safeguarding the private information that may be obtained through use of each company's products, services and websites. Questions about this privacy policy may be submitted by an email to [privacy@comodo.com](mailto:privacy@comodo.com). This privacy policy applies to each of the Comodo entities, but not to Comodo's partners or affiliates, which may have separate privacy policies.
+This privacy statement describes the policies and practices of the different Comodo companies, including Comodo CA Limited, Comodo Group, Inc., Comodo Security Solutions, Inc., DNS.COM LLC and eVouch LLC (collectively and individually referred to herein as “Comodo”), in collecting, using, and safeguarding the private information that may be obtained through use of each company’s products, services and websites. Questions about this privacy policy may be submitted by an email to [privacy@comodo.com](mailto:privacy@comodo.com). This privacy policy applies to each of the Comodo entities, but not to Comodo’s partners or affiliates, which may have separate privacy policies.
 
 **Information Collection**
 
@@ -14,21 +14,21 @@ In the event that third party features and functionalities are incorporated in o
 
 **Services**
 
-Enrolling in Comodo's subscription service may require a customer to provide certain personal information and enter into a Subscriber Agreement. Nothing herein is intended to modify the terms in the Subscriber Agreement.
+Enrolling in Comodo’s subscription service may require a customer to provide certain personal information and enter into a Subscriber Agreement. Nothing herein is intended to modify the terms in the Subscriber Agreement.
 
 **Product Download**
 
-Downloading a product will often require the input of personal information. This information will be used by Comodo or its affiliates to contact the customer about Comodo's products and services, including product updates and associated promotional material. This information may also be used as collated general demographic information to improve Comodo's products and services.
+Downloading a product will often require the input of personal information. This information will be used by Comodo or its affiliates to contact the customer about Comodo’s products and services, including product updates and associated promotional material. This information may also be used as collated general demographic information to improve Comodo’s products and services.
 
 **Cookies**
 
-A cookie is a piece of data stored on a computer's hard disk containing information about the owner. Comodo may employ the use of cookies for measuring the success of advertising and affiliate network membership. Our partners may use cookies. Comodo does not exercise any access or control of such cookies.
+A cookie is a piece of data stored on a computer’s hard disk containing information about the owner. Comodo may employ the use of cookies for measuring the success of advertising and affiliate network membership. Our partners may use cookies. Comodo does not exercise any access or control of such cookies.
 
-Comodo's websites use Google Analytics, a web analytics service provided by Google, Inc. ("Google"), to evaluate the use of the Comodo site. Google Analytics places a third party cookie on your computer that is then used to compile reports of visitor traffic and internet usage. Google analytics does not have a database of individual profiles for each visitor and only collects aggregate data.
+Comodo’s websites use Google Analytics, a web analytics service provided by Google, Inc. (“Google”), to evaluate the use of the Comodo site. Google Analytics places a third party cookie on your computer that is then used to compile reports of visitor traffic and internet usage. Google analytics does not have a database of individual profiles for each visitor and only collects aggregate data.
 
 **Re-Targeting**
 
-Comodo permits the operation of a retargeting consumer marketing program, including, but not limited to, the provision of anonymous consumer information to a third-party provider of such a program. A link to the Network Advertising Initiative’s consumer opt-out page is located at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and allows the consumer to opt-out of such retargeting programs.
+Comodo permits the operation of a retargeting consumer marketing program, including, but not limited to, the provision of anonymous consumer information to a third-party provider of such a program. A link to the Network Advertising Initiative’s consumer opt-out page is located at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp?key5sk1=ae8e31ea73e8985207d5af86930b9a29a05692ad) and allows the consumer to opt-out of such retargeting programs.
 
 **Log Files**
 
@@ -36,7 +36,7 @@ Comodo uses log files comprising of non-personally identifiable information to a
 
 **Sharing**
 
-Comodo will share aggregated demographic and other information with our partners and affiliates. Information provided to Comodo will be protected by Comodo and not sold or rented to any unrelated third parties without the express consent of the information provider, except that Comodo may disclose data to its affiliates and business partners who have established similar privacy standards, when legally obligated to do so, or if disclosure is required to protect the rights over Comodo, Comodo's customers, or the users of Comodo's services. Comodo may also share aggregate demographic data that does not contain any personally identifiable information.
+Comodo will share aggregated demographic and other information with our partners and affiliates. Information provided to Comodo will be protected by Comodo and not sold or rented to any unrelated third parties without the express consent of the information provider, except that Comodo may disclose data to its affiliates and business partners who have established similar privacy standards, when legally obligated to do so, or if disclosure is required to protect the rights over Comodo, Comodo’s customers, or the users of Comodo’s services. Comodo may also share aggregate demographic data that does not contain any personally identifiable information.
 
 Validation is an essential step in receiving a Certificate from Comodo CA. This validation may require verifying your information with a third party as described in the Comodo CPS. Comodo CA may disclose the information provided to the extent necessary to verify the certificate application.
 
@@ -54,7 +54,7 @@ Comodo provides the ability to send emails to your email contacts. You can use t
 
 **Security**
 
-Comodo protects information both online and off-line. The transmission of information, including any payment information, is encrypted and protected using [Secure Sockets Layer (SSL)](http://www.instantssl.com/). Stored customer information is kept in a secure environment where access is restricted to employees who need the information to perform a specific job (for example billing administration or the development team). Employees are required to use password-protected screen-savers and keep their computers up-to-date.
+Comodo protects information both online and off-line. The transmission of information, including any payment information, is encrypted and protected using [Secure Sockets Layer (SSL)](http://www.instantssl.com/?key5sk1=ae8e31ea73e8985207d5af86930b9a29a05692ad). Stored customer information is kept in a secure environment where access is restricted to employees who need the information to perform a specific job (for example billing administration or the development team). Employees are required to use password-protected screen-savers and keep their computers up-to-date.
 
 **Permissions**
 
@@ -62,7 +62,7 @@ With your express permission, certain Comodo applications, such as Comodo Mobile
 
 **Choice / Opt out**
 
-Customers may occasionally receive information on products, services, and special deals from Comodo or may receive informational newsletters. Customers are given the opportunity to 'opt-out' of having information used for purposes not directly related to the Comodo service at the point where the information is requested. Customers may also elect not to receive additional promotional communications using the opt-out link provided in each promotional email or by emailing [optout@comodo.com](mailto:optout@comodo.com). Customers may not opt-out of receiving service announcement updates as they contain important security information about the services. 
+Customers may occasionally receive information on products, services, and special deals from Comodo or may receive informational newsletters. Customers are given the opportunity to ‘opt-out’ of having information used for purposes not directly related to the Comodo service at the point where the information is requested. Customers may also elect not to receive additional promotional communications using the opt-out link provided in each promotional email or by emailing [optout@comodo.com](mailto:optout@comodo.com). Customers may not opt-out of receiving service announcement updates as they contain important security information about the services.
 
 **Amendments**
 
