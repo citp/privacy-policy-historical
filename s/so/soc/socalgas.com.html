@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the socalgas.com privacy policy that was archived on 2016-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160405103752id_/https%3A//www.socalgas.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the socalgas.com privacy policy that was archived on 2016-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161202232746id_/https%3A//www.socalgas.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js ng-scope" lang="en" ng-controller="AppCtrl"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
     <meta http-equiv="X-UA-Compatible" content="IE=EDGE">
@@ -22,21 +22,6 @@
 
     
       
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
 
   
@@ -204,7 +189,7 @@ a.vertical_text:hover, a.vertical_text:focus, a.vertical_text:active { text-deco
 #oo_overlay.no_loading, #oo_invitation_overlay.no_loading, #oo_waypoint_overlay.no_loading { background: white; opacity: 0.5; filter: alpha(opacity=50); }
 @media print { #oo_bar, .oo_feedback_float, #oo_tab { display: none; } }</style><script type="text/javascript" src="https://web.archive.org/web/20160405002726/https://interface.us.q-go.net/socalgas/?tpl=suggestions"></script><style id="herocss" type="text/css">[class*=-hero] > .outer > .container:first-child { min-height:nullpx;}</style></head>
   
-<body class="body alternate ng-pageslide-body-closed" style="right: 0px; left: 0px;">
+<body class="body  ng-pageslide-body-closed" style="right: 0px; left: 0px;">
   
     
   
@@ -301,9 +286,9 @@ a.vertical_text:hover, a.vertical_text:focus, a.vertical_text:active { text-deco
 
   
 
-  <!---
+  <!--
 The following code is Copyright 1998-2015 Opinionlab, Inc. All rights reserved. Unauthorized use is prohibited. This product and other products of OpinionLab, Inc. are protected by U.S. Patent No. 6606581, 6421724, 6785717 B1 and other patents pending. http://www.opinionlab.com
----->
+-->
 <!-- MAIN OL STYLESHEET -->
 <script language="javascript" type="text/javascript" src="/src/onlineopinionV5/oo_style.js"></script>
 <!-- MAIN OL ENGINE -->
@@ -324,29 +309,109 @@ The following code is Copyright 1998-2015 Opinionlab, Inc. All rights reserved. 
   
 
   
+ 
   
   
     
-    
-      
         
-        
-        
-      
+  
   
     
   
 
   
+   
+  
+   
+  
+  
+      
+        
+  
+ 
+  
+  
+  
+  
+  
+    
+    
+    
+    
+  
+  
+  
+
+  
+    
+   
+  
+  
+    
+      
+    
+  
+  
+
   
     
    
 
-   
   
     
   
 
+  <script type="text/ng-template" id="mRGLModal">
+    
+      <div class="modal-header">
+        <h3 class="modal-title">Report a Gas Leak
+          
+            <div class="round-button">
+              <div class="round-button-circle">
+                <a href="#" class="round-button" ng-click="cancel()">X</a>
+              </div>
+            </div>  
+          
+        </h3>
+      </div>  
+    
+    <div class="modal-body">
+      <div>
+	<p>
+		If you suspect a natural gas leak, evacuate the area immediately and from a safe location call us at:</p>
+	<p style="text-align: center;">
+		
+  
+
+  
+    
+   
+
+  
+    
+  
+
+  
+    
+      <a href="tel:1-800-427-2200">1-800-427-2200</a>
+    
+    
+  
+  
+</p>
+	<p>
+		For additional information, see <a href="https://www.socalgas.com/stay-safe/emergency-information/natural-gas-leaks"> How to Recognize and Respond to a Natural Gas Leak</a>.</p>
+</div>
+
+    </div>
+    <div class="modal-footer">
+      <button class="btn btn-primary" type="button" ng-click="ok()">Close</button>
+    </div>      
+  </script>
+      
+
+    
+  
   <header role="banner">
     <nav class="navbar navbar-default" role="navigation">
       <div class="container">
@@ -354,7 +419,7 @@ The following code is Copyright 1998-2015 Opinionlab, Inc. All rights reserved. 
           <div class="col-xs-12">
             <div class="row top">
               <div class="row-same-height">
-                
+
                 <div class="col-xs-5 col-xs-height">
                   <a href="https://www.socalgas.com/home" class="logolink" title="Southern California Gas Company, A Sempra Energy utility">
                     <span class="sr-only">Link to homepage</span> <span class="logo"></span>
@@ -369,24 +434,21 @@ The following code is Copyright 1998-2015 Opinionlab, Inc. All rights reserved. 
                     <ul class="list-inline pull-right util">
                       
                         <li>
-                          <a href="#" class="en-red" ng-click="reportGasLeak($event,'Report a Gas Leak')">
+                          <a href="#" class="en-red" ng-click="genericLaunchModal('mRGLModal')">
                             <span></span> <span>Report a Gas Leak</span>
                           </a>
                         </li>
                       
-                      
-                      
-                        
-                        <li>
-                          <a href="//www.socalgas.com/espanol/">
-                            <span></span>
-                            <span>
-                              En Español                              
-                            </span>
-                          </a>
-                        </li>                      
-                      
-
+                                            
+                      <li>
+                        <a href="https://www.socalgas.com/es/privacy-policy">
+                          <span></span>                          
+                          <span>
+                            En Español                              
+                          </span>
+                        </a>
+                      </li>                      
+                    
                       
                         <li>
                           <a href="https://www.socalgas.com/about-us/contact-us" class="">
@@ -416,7 +478,7 @@ The following code is Copyright 1998-2015 Opinionlab, Inc. All rights reserved. 
                         <div class="input-group">
                           <input id="siteref" type="hidden" value="Global" name="siteref">
                           <input id="referrer" type="hidden" value="prod" name="referrer">
-                          <input type="search" id="overlayQuery" class="form-control qgoSuggestEnabled" maxlength="128">
+                          <input type="search" id="overlayQuery" class="form-control qgoSuggestEnabled" maxlength="128" autocomplete="OFF">
                           <span class="input-group-btn">
                             <button class="btn btn-default" id="submitlink" type="button">Go</button>
                           </span>
@@ -426,276 +488,390 @@ The following code is Copyright 1998-2015 Opinionlab, Inc. All rights reserved. 
                 </div>
               </div>
             </div>
-            <div class="row mainmenu">
-              <div class="collapse navbar-collapse">
-                <ul class="nav navbar-nav">
-                  
-                  
-                    <li class="dropdown">
-                      <a href="https://www.socalgas.com/pay-bill" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                        <span></span> <span>Pay Bill</span>
-                      </a>
-                      
-                        
-                        
-                      
 
-                      <ul class="dropdown-menu">
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/pay-bill/my-account">My Account</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/pay-bill/ways-to-pay">Ways to Pay</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/pay-bill/need-more-time-to-pay">Need More Time to Pay?</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/pay-bill/understanding-your-bill">Understanding Your Bill</a>
-                          </li>
-                        
-                      </ul>
-                    </li>
-                  
-                    <li class="dropdown">
-                      <a href="https://www.socalgas.com/schedule-service" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                        <span></span> <span>Schedule Service</span>
-                      </a>
-                      
-                        
-                        
-                      
+            
+              
+            
 
-                      <ul class="dropdown-menu">
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/schedule-service/pilot-relight">Pilot Relight</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://pubsvc.socalgas.com/service/transferService.html">Moving? Transfer Service</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://pubsvc.socalgas.com/service/startService.html">Start Service</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://pubsvc.socalgas.com/service/stopService.html">Stop Service </a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://pubsvc.socalgas.com/service/serviceRequest.html">Schedule a Service Appointment</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://pubsvc.socalgas.com/service/viewCancel.html">Look Up Your Start-Service Request</a>
-                          </li>
-                        
-                      </ul>
-                    </li>
-                  
-                    <li class="dropdown">
-                      <a href="https://www.socalgas.com/stay-safe" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                        <span></span> <span>Stay Safe</span>
-                      </a>
-                      
-                        
-                        
-                      
 
-                      <ul class="dropdown-menu">
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/stay-safe/emergency-information">Emergency Information</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/stay-safe/safety-and-prevention">Safety &amp; Prevention</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/stay-safe/pipeline-and-storage-safety">Pipeline &amp; Storage Safety</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/stay-safe/methane-emissions">Methane Emissions</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/stay-safe/safety-brochures">Safety Brochures</a>
-                          </li>
-                        
-                      </ul>
-                    </li>
-                  
-                    <li class="dropdown">
-                      <a href="https://www.socalgas.com/save-money-and-energy" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                        <span></span> <span>Save Money &amp; Energy</span>
-                      </a>
-                      
-                        
-                        
-                      
 
-                      <ul class="dropdown-menu">
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/save-money-and-energy/rebates-and-incentives">Rebates &amp; Incentives</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/save-money-and-energy/assistance-programs">Assistance Programs</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/save-money-and-energy/energy-saving-tips-tools">Energy Saving Tips &amp; Tools</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/save-money-and-energy/solar-water-heating">Solar Water Heating</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/save-money-and-energy/natural-gas-vehicles">Natural Gas Vehicles</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/save-money-and-energy/advanced-meter">Advanced Meter</a>
-                          </li>
-                        
-                      </ul>
-                    </li>
-                  
-                    <li class="dropdown">
-                      <a href="https://www.socalgas.com/for-your-business" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                        <span></span> <span>For Your Business</span>
-                      </a>
-                      
-                        
-                        
-                      
 
-                      <ul class="dropdown-menu">
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/for-your-business/business-my-account">Business My Account</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/for-your-business/natural-gas-vehicles">Natural Gas Vehicles for Business</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/for-your-business/energy-savings">Energy Savings</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/for-your-business/builder-services">Builder Services</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/for-your-business/energy-market-services">Energy Market Services</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/for-your-business/air-quality-services">Air Quality Services</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/for-your-business/power-generation">Power Generation </a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/for-your-business/education-and-training">Education &amp; Training</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/for-your-business/agriculture">Agriculture</a>
-                          </li>
-                        
-                      </ul>
-                    </li>
-                  
-                    <li class="dropdown">
-                      <a href="https://www.socalgas.com/smart-energy" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                        <span></span> <span>Smart Energy</span>
-                      </a>
-                      
-                        
-                        
-                      
 
-                      <ul class="dropdown-menu">
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/smart-energy/success-stories/point-loma">Point Loma Wastewater Treatment Plant</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/smart-energy/benefits-of-natural-gas">Benefits of Natural Gas</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/smart-energy/success-stories">Success Stories</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/smart-energy/technology-and-investments">Technology &amp; Investments</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/smart-energy/sustainability-at-socalgas">Sustainability at SoCalGas</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/smart-energy/presentations-webinars">Presentations &amp; Webinars</a>
-                          </li>
-                        
-                      </ul>
-                    </li>
-                  
-                    <li class="dropdown">
-                      <a href="https://www.socalgas.com/our-community" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                        <span></span> <span>Our Community</span>
-                      </a>
-                      
-                        
-                        
-                      
 
-                      <ul class="dropdown-menu">
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/our-community/promoting-education-workforce-development">Promoting Education &amp; Workforce Development</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/our-community/protecting-preserving-the-environment">Protecting &amp; Preserving the Environment</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/our-community/supporting-active-military-veterans">Supporting Active Military &amp; Veterans</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/our-community/encouraging-emergency-preparedness-safety">Encouraging Emergency Preparedness &amp; Safety</a>
-                          </li>
-                        
-                          <li>
-                            <a href="https://www.socalgas.com/our-community/supporting-economic-community-business-development">Supporting Economic &amp; Business Development</a>
-                          </li>
-                        
-                      </ul>
-                    </li>
-                  
-                </ul>
-              </div>
-            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+ 
+
+
+
+
+<div class="row mainmenu">
+  <div class="collapse navbar-collapse">
+    <ul class="nav navbar-nav">
+      
+        <li class="dropdown">
+          <a href="https://www.socalgas.com/pay-bill" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            <span></span> <span>Pay Bill</span>
+          </a>
+          
+            
+            
+          
+
+          <ul class="dropdown-menu">
+            
+              <li>
+                <a href="https://www.socalgas.com/pay-bill/my-account">My Account</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/pay-bill/ways-to-pay">Ways to Pay</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/pay-bill/need-more-time-to-pay">Need More Time to Pay?</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/pay-bill/understanding-your-bill">Understanding Your Bill</a>
+              </li>
+            
+          </ul>
+        </li>
+      
+        <li class="dropdown">
+          <a href="https://www.socalgas.com/schedule-service" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            <span></span> <span>Schedule Service</span>
+          </a>
+          
+            
+            
+          
+
+          <ul class="dropdown-menu">
+            
+              <li>
+                <a href="https://www.socalgas.com/stay-safe/emergency-information/natural-gas-leaks-ma">Report a Gas Leak</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/schedule-service/pilot-relight">Pilot Relight</a>
+              </li>
+            
+              <li>
+                <a href="https://pubsvc.socalgas.com/service/transferService.html">Moving? Transfer Service</a>
+              </li>
+            
+              <li>
+                <a href="https://pubsvc.socalgas.com/service/startService.html">Start Service</a>
+              </li>
+            
+              <li>
+                <a href="https://pubsvc.socalgas.com/service/stopService.html">Stop Service </a>
+              </li>
+            
+              <li>
+                <a href="https://pubsvc.socalgas.com/service/serviceRequest.html">Schedule a Service Appointment</a>
+              </li>
+            
+              <li>
+                <a href="https://pubsvc.socalgas.com/service/viewCancel.html">Look Up Your Start-Service Request</a>
+              </li>
+            
+          </ul>
+        </li>
+      
+        <li class="dropdown">
+          <a href="https://www.socalgas.com/stay-safe" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            <span></span> <span>Stay Safe</span>
+          </a>
+          
+            
+            
+          
+
+          <ul class="dropdown-menu">
+            
+              <li>
+                <a href="https://www.socalgas.com/stay-safe/emergency-information">Emergency Information</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/stay-safe/safety-and-prevention">Safety &amp; Prevention</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/stay-safe/pipeline-and-storage-safety">Pipeline &amp; Storage Safety</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/stay-safe/methane-emissions">Methane Emissions</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/stay-safe/safety-brochures">Safety Brochures</a>
+              </li>
+            
+          </ul>
+        </li>
+      
+        <li class="dropdown">
+          <a href="https://www.socalgas.com/save-money-and-energy" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            <span></span> <span>Save Money &amp; Energy</span>
+          </a>
+          
+            
+            
+          
+
+          <ul class="dropdown-menu">
+            
+              <li>
+                <a href="https://www.socalgas.com/save-money-and-energy/rebates-and-incentives">Rebates &amp; Incentives</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/save-money-and-energy/assistance-programs">Assistance Programs</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/save-money-and-energy/energy-saving-tips-tools">Energy Saving Tips &amp; Tools</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/save-money-and-energy/solar-water-heating">Solar Water Heating</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/save-money-and-energy/natural-gas-vehicles">Natural Gas Vehicles</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/save-money-and-energy/advanced-meter">Advanced Meter</a>
+              </li>
+            
+          </ul>
+        </li>
+      
+        <li class="dropdown">
+          <a href="https://www.socalgas.com/for-your-business" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            <span></span> <span>For Your Business</span>
+          </a>
+          
+            
+            
+          
+
+          <ul class="dropdown-menu">
+            
+              <li>
+                <a href="https://www.socalgas.com/for-your-business/business-my-account">Business My Account</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/for-your-business/natural-gas-vehicles">Natural Gas Vehicles for Business</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/for-your-business/energy-savings">Energy Savings</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/for-your-business/builder-services">Builder Services</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/for-your-business/energy-market-services">Energy Market Services</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/for-your-business/air-quality-services">Air Quality Services</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/for-your-business/power-generation">Power Generation </a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/for-your-business/education-and-training">Education &amp; Training</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/for-your-business/agriculture">Agriculture</a>
+              </li>
+            
+          </ul>
+        </li>
+      
+        <li class="dropdown">
+          <a href="https://www.socalgas.com/smart-energy" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            <span></span> <span>Smart Energy</span>
+          </a>
+          
+            
+            
+          
+
+          <ul class="dropdown-menu">
+            
+              <li>
+                <a href="https://www.socalgas.com/smart-energy/reliable-natural-gas-for-the-future">Reliable Natural Gas for the Future</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/smart-energy/benefits-of-natural-gas">Benefits of Natural Gas</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/smart-energy/success-stories">Success Stories</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/smart-energy/technology-and-investments">Technology &amp; Investments</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/smart-energy/sustainability-at-socalgas">Sustainability at SoCalGas</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/smart-energy/presentations-webinars">Presentations &amp; Webinars</a>
+              </li>
+            
+          </ul>
+        </li>
+      
+        <li class="dropdown">
+          <a href="https://www.socalgas.com/our-community" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            <span></span> <span>Our Community</span>
+          </a>
+          
+            
+            
+          
+
+          <ul class="dropdown-menu">
+            
+              <li>
+                <a href="https://www.socalgas.com/our-community/promoting-education-workforce-development">Promoting Education &amp; Workforce Development</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/our-community/protecting-preserving-the-environment">Protecting &amp; Preserving the Environment</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/our-community/supporting-active-military-veterans">Supporting Active Military &amp; Veterans</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/our-community/encouraging-emergency-preparedness-safety">Encouraging Emergency Preparedness &amp; Safety</a>
+              </li>
+            
+              <li>
+                <a href="https://www.socalgas.com/our-community/supporting-economic-business-development">Supporting Economic &amp; Business Development</a>
+              </li>
+            
+          </ul>
+        </li>
+      
+    </ul>
+  </div>
+</div>
+
           </div>
         </div>
         
@@ -717,22 +893,10 @@ The following code is Copyright 1998-2015 Opinionlab, Inc. All rights reserved. 
     </nav>
   </header>
 
-       
-       
-    
-  
-   
+
   <div class="main">  
     
       
-
-
-
-
-
-
-
-
 	
 
 	
@@ -758,6 +922,28 @@ The following code is Copyright 1998-2015 Opinionlab, Inc. All rights reserved. 
     
   
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
   
@@ -776,23 +962,6 @@ The following code is Copyright 1998-2015 Opinionlab, Inc. All rights reserved. 
 
   
 
-  
-    <section class="scg-breadcrumb">
-      <div class="outer">
-        <div class="container">
-          <div class="col-xs-12 breadcrumb-container">
-            <div class="pull-left">
-              <ol class="breadcrumb">
-                
-                  <li><a href="https://www.socalgas.com/home" title="Home">Home</a></li>
-                
-                  <li class="active">Privacy Policy</li>
-                </ol>
-            </div>            
-          </div>
-        </div>
-      </div>
-    </section>    
   
 
   
@@ -859,10 +1028,13 @@ The following code is Copyright 1998-2015 Opinionlab, Inc. All rights reserved. 
   
   
   
-  <section class="scg-text-component">
-    <div class="outer">
-    	<div class="container container-white">
-      		<p>
+    
+    
+      
+      <section class="scg-text-component">
+        <div class="outer">
+          <div class="container container-white">
+            <p>
 	Southern California Gas Company (“SoCalGas”) is committed to keeping our visitors informed about how we use the information we gather on our web site, at our mobile optimized web site, and in our mobile apps (collectively, the “web site”). By using our web site or obtaining any product or service through our web site, you agree to the collection and use of information as set forth in this policy. If you do not agree to this policy, please do not use the web site.</p>
 <p>
 	Please be aware that other sites accessible through SoCalGas’s web site have their own privacy policies and data collection, use, and disclosure practices. The information practices of those other sites linked to SoCalGas’s web site are not covered by this privacy policy.</p>
@@ -983,9 +1155,12 @@ The following code is Copyright 1998-2015 Opinionlab, Inc. All rights reserved. 
 <p>
 	<strong><em>Last updated February 5, 2016</em></strong></p>
 
-      	</div>
-    </div>
-  </section>  
+          </div>
+        </div>
+      </section>
+    
+  
+    
 
   
   
@@ -1011,7 +1186,39 @@ The following code is Copyright 1998-2015 Opinionlab, Inc. All rights reserved. 
 
   
     
+    
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
     
   
@@ -1025,9 +1232,15 @@ The following code is Copyright 1998-2015 Opinionlab, Inc. All rights reserved. 
     
   <footer role="contentinfo" class="footer">
     <div class="container">
-        <div class="row footer-first">
+      <div class="row footer-first">
         
         <div class="col-sm-8 col-xs-12 explore">
+            
+          
+            
+                        
+            
+          
           <h3 class="h3">Explore SoCalGas</h3>
           
           
@@ -1056,31 +1269,39 @@ The following code is Copyright 1998-2015 Opinionlab, Inc. All rights reserved. 
             
               
             
-          <li><a href="https://www.socalgas.com/about-us">About Us</a></li><li><a href="https://www.socalgas.com/more-languages">More Languages</a></li><li><a href="https://www.socalgas.com/careers">Careers</a></li><li><a href="https://www.socalgas.com/newsroom">Newsroom</a></li><li><a href="http://www.socalgas.com/pref-center.shtml" target="_blank">Newsletter </a></li><li><a href="https://www.socalgas.com/regulatory">Rates &amp; Regulatory</a></li><li><a href="https://www.socalgas.com/accessibility">Accessibility Center</a></li><li><a href="https://www.socalgas.com/site-map">Site Map</a></li><li><a href="https://www.socalgas.com/mobile-app">Mobile App</a></li><li><a href="#" target="_blank">Feedback</a></li></ul>
+              
+            
+          <li><a href="https://www.socalgas.com/about-us">About Us</a></li><li><a href="https://www.socalgas.com/careers">Careers</a></li><li><a href="https://www.socalgas.com/newsroom">Newsroom</a></li><li><a href="http://www.socalgas.com/pref-center.shtml" target="_blank">Newsletter </a></li><li><a href="https://www.socalgas.com/more-languages">More Languages</a></li><li><a href="https://www.socalgas.com/accessibility">Accessibility Center</a></li><li><a href="https://www.socalgas.com/site-map">Site Map</a></li><li><a href="https://www.socalgas.com/mobile-app">Mobile App</a></li><li><a href="#" target="_blank">Feedback</a></li><li><a href="https://www.alisoupdates.com/main" target="_blank">Aliso Updates</a></li><li><a href="https://www.socalgas.com/regulatory">Rates &amp; Regulatory</a></li></ul>
         </div>
         <div class="col-sm-4 col-xs-12">
+            
+          
+            
+                        
+            
+                  
           <h3 class="h3">Connect with Us*</h3>
           <ul class="list-unstyled socialmedia">
             
             
                         
             
-          <li data-sort-desktop="1" data-sort-mobile="1"><a href="http://facebook.com/socalgas" target="_blank">
+          <li data-sort-desktop="1" data-sort-mobile="1"><a href="https://facebook.com/socalgas" target="_blank">
               <span></span>
               <span>Facebook</span>
-            </a></li><li data-sort-desktop="2" data-sort-mobile="3"><a href="http://youtube.com/socalgas" target="_blank">
+            </a></li><li data-sort-desktop="2" data-sort-mobile="3"><a href="https://youtube.com/socalgas" target="_blank">
               <span></span>
-              <span>You Tube</span>
-            </a></li><li data-sort-desktop="3" data-sort-mobile="2"><a href="http://twitter.com/socalgas" target="_blank">
+              <span>YouTube</span>
+            </a></li><li data-sort-desktop="3" data-sort-mobile="2"><a href="https://twitter.com/socalgas" target="_blank">
               <span></span>
               <span>Twitter</span>
-            </a></li><li data-sort-desktop="4" data-sort-mobile="4"><a href="http://instagram.com/socalgas" target="_blank">
+            </a></li><li data-sort-desktop="4" data-sort-mobile="4"><a href="https://instagram.com/socalgas" target="_blank">
               <span></span>
               <span>Instagram</span>
             </a></li></ul>
-        </div>
-        
+        </div>        
       </div>
+      
       <div class="row">
         <div class="col-xs-12">
         
@@ -1100,14 +1321,55 @@ The following code is Copyright 1998-2015 Opinionlab, Inc. All rights reserved. 
                         
           </ul>
           
-          <p>Southern California Gas Company is a subsidiary of Sempra Energy<sup><span style="font-size: .8em;">®</span></sup>. © 1998 - 2016 Southern California Gas Company. SoCalGas<sup><span style="font-size: .8em;">®</span></sup> is
-          a registered trademark of Southern California Gas Company.  The trademarks used herein are the property of their respective owners.  All rights reserved.</p>
-          <p><sup>*</sup>By clicking these links, you will leave socalgas.com and transfer directly to the website of a third party provider which is not part of 
-          Southern California Gas Company.  The Terms and Conditions and Privacy Policy on that website will apply.</p>
-          <div style="height: 15em;"></div>
+          
+          
+            
+            
+            
+            
+          
+
+          
+  
+
+  
+    
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+   
+
+  
+  
+  
+    
+      
+      <p>
+	<sup>*</sup>By clicking these links, you will leave socalgas.com and transfer directly to the website of a third party which is not part of Southern California Gas Company. The Terms and Conditions and Privacy Policy on that website will apply.</p>
+<p>
+	Southern California Gas Company is a subsidiary of Sempra Energy<sup><span style="font-size: .8em;">®</span></sup>. © 1998 - 2016 Southern California Gas Company. SoCalGas<sup><span style="font-size: .8em;">®</span></sup> is a registered trademark of Southern California Gas Company. The trademarks used herein are the property of their respective owners. All rights reserved.</p>
+<p>
+	&nbsp;</p>
+
+    
+    
+  
+    
+
+  
+  
+                   
         </div>
       </div>
     </div>
+    
     <!-- Scroll Top html block -->
     <div id="scroll-top" scroll-top="" class="scroll-top-padding" style="display: none;">
         <div class="fa fa-caret-up"></div>
@@ -1125,7 +1387,7 @@ The following code is Copyright 1998-2015 Opinionlab, Inc. All rights reserved. 
                     <label class="sr-only" for="search">Search</label>
                     <div class="input-group">
                       
-                      <input type="search" id="overlayQuery2" class="form-control qgoSuggestEnabled" maxlength="128">
+                      <input type="search" id="overlayQuery2" class="form-control qgoSuggestEnabled" maxlength="128" autocomplete="OFF">
                       <span class="input-group-btn">
                         <button class="btn btn-default" id="submitlink2" type="button">Go</button>
                       </span>
@@ -1141,268 +1403,287 @@ The following code is Copyright 1998-2015 Opinionlab, Inc. All rights reserved. 
                     </li>
 
                     
+                      
                     
-                      <li class="item-with-ul">
-                        <a href="https://www.socalgas.com/pay-bill">
-                          <span></span> <span>Pay Bill</span>
-                        </a>
-                        
-                          
-                          
-                        
 
-                        <ul style="display: none;">
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/pay-bill/my-account">My Account</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/pay-bill/ways-to-pay">Ways to Pay</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/pay-bill/need-more-time-to-pay">Need More Time to Pay?</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/pay-bill/understanding-your-bill">Understanding Your Bill</a>
-                            </li>
-                          
-                        </ul>
-                      <span class="touch-button"><i class="navicon"><!-- &#9660;//--></i></span></li>
-                    
-                      <li class="item-with-ul">
-                        <a href="https://www.socalgas.com/schedule-service">
-                          <span></span> <span>Schedule Service</span>
-                        </a>
-                        
-                          
-                          
-                        
+  
 
-                        <ul style="display: none;">
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/schedule-service/pilot-relight">Pilot Relight</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://pubsvc.socalgas.com/service/transferService.html">Moving? Transfer Service</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://pubsvc.socalgas.com/service/startService.html">Start Service</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://pubsvc.socalgas.com/service/stopService.html">Stop Service </a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://pubsvc.socalgas.com/service/serviceRequest.html">Schedule a Service Appointment</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://pubsvc.socalgas.com/service/viewCancel.html">Look Up Your Start-Service Request</a>
-                            </li>
-                          
-                        </ul>
-                      <span class="touch-button"><i class="navicon"><!-- &#9660;//--></i></span></li>
-                    
-                      <li class="item-with-ul">
-                        <a href="https://www.socalgas.com/stay-safe">
-                          <span></span> <span>Stay Safe</span>
-                        </a>
-                        
-                          
-                          
-                        
 
-                        <ul style="display: none;">
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/stay-safe/emergency-information">Emergency Information</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/stay-safe/safety-and-prevention">Safety &amp; Prevention</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/stay-safe/pipeline-and-storage-safety">Pipeline &amp; Storage Safety</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/stay-safe/methane-emissions">Methane Emissions</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/stay-safe/safety-brochures">Safety Brochures</a>
-                            </li>
-                          
-                        </ul>
-                      <span class="touch-button"><i class="navicon"><!-- &#9660;//--></i></span></li>
-                    
-                      <li class="item-with-ul">
-                        <a href="https://www.socalgas.com/save-money-and-energy">
-                          <span></span> <span>Save Money &amp; Energy</span>
-                        </a>
-                        
-                          
-                          
-                        
 
-                        <ul style="display: none;">
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/save-money-and-energy/rebates-and-incentives">Rebates &amp; Incentives</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/save-money-and-energy/assistance-programs">Assistance Programs</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/save-money-and-energy/energy-saving-tips-tools">Energy Saving Tips &amp; Tools</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/save-money-and-energy/solar-water-heating">Solar Water Heating</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/save-money-and-energy/natural-gas-vehicles">Natural Gas Vehicles</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/save-money-and-energy/advanced-meter">Advanced Meter</a>
-                            </li>
-                          
-                        </ul>
-                      <span class="touch-button"><i class="navicon"><!-- &#9660;//--></i></span></li>
-                    
-                      <li class="item-with-ul">
-                        <a href="https://www.socalgas.com/for-your-business">
-                          <span></span> <span>For Your Business</span>
-                        </a>
-                        
-                          
-                          
-                        
 
-                        <ul style="display: none;">
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/for-your-business/business-my-account">Business My Account</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/for-your-business/natural-gas-vehicles">Natural Gas Vehicles for Business</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/for-your-business/energy-savings">Energy Savings</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/for-your-business/builder-services">Builder Services</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/for-your-business/energy-market-services">Energy Market Services</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/for-your-business/air-quality-services">Air Quality Services</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/for-your-business/power-generation">Power Generation </a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/for-your-business/education-and-training">Education &amp; Training</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/for-your-business/agriculture">Agriculture</a>
-                            </li>
-                          
-                        </ul>
-                      <span class="touch-button"><i class="navicon"><!-- &#9660;//--></i></span></li>
-                    
-                      <li class="item-with-ul">
-                        <a href="https://www.socalgas.com/smart-energy">
-                          <span></span> <span>Smart Energy</span>
-                        </a>
-                        
-                          
-                          
-                        
+  
+ 
 
-                        <ul style="display: none;">
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/smart-energy/success-stories/point-loma">Point Loma Wastewater Treatment Plant</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/smart-energy/benefits-of-natural-gas">Benefits of Natural Gas</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/smart-energy/success-stories">Success Stories</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/smart-energy/technology-and-investments">Technology &amp; Investments</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/smart-energy/sustainability-at-socalgas">Sustainability at SoCalGas</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/smart-energy/presentations-webinars">Presentations &amp; Webinars</a>
-                            </li>
-                          
-                        </ul>
-                      <span class="touch-button"><i class="navicon"><!-- &#9660;//--></i></span></li>
-                    
-                      <li class="item-with-ul">
-                        <a href="https://www.socalgas.com/our-community">
-                          <span></span> <span>Our Community</span>
-                        </a>
-                        
-                          
-                          
-                        
 
-                        <ul style="display: none;">
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/our-community/promoting-education-workforce-development">Promoting Education &amp; Workforce Development</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/our-community/protecting-preserving-the-environment">Protecting &amp; Preserving the Environment</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/our-community/supporting-active-military-veterans">Supporting Active Military &amp; Veterans</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/our-community/encouraging-emergency-preparedness-safety">Encouraging Emergency Preparedness &amp; Safety</a>
-                            </li>
-                          
-                            <li>
-                              <a href="https://www.socalgas.com/our-community/supporting-economic-community-business-development">Supporting Economic &amp; Business Development</a>
-                            </li>
-                          
-                        </ul>
-                      <span class="touch-button"><i class="navicon"><!-- &#9660;//--></i></span></li>
+
+
+
+  <li class="item-with-ul">
+    <a href="https://www.socalgas.com/pay-bill">
+      <span></span> <span>Pay Bill</span>
+    </a>
+    
+      
+      
+    
+
+    <ul style="display: none;">
+      
+        <li>
+          <a href="https://www.socalgas.com/pay-bill/my-account">My Account</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/pay-bill/ways-to-pay">Ways to Pay</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/pay-bill/need-more-time-to-pay">Need More Time to Pay?</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/pay-bill/understanding-your-bill">Understanding Your Bill</a>
+        </li>
+      
+    </ul>
+  <span class="touch-button"><i class="navicon"><!-- &#9660;//--></i></span></li>
+
+  <li class="item-with-ul">
+    <a href="https://www.socalgas.com/schedule-service">
+      <span></span> <span>Schedule Service</span>
+    </a>
+    
+      
+      
+    
+
+    <ul style="display: none;">
+      
+        <li>
+          <a href="https://www.socalgas.com/stay-safe/emergency-information/natural-gas-leaks-ma">Report a Gas Leak</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/schedule-service/pilot-relight">Pilot Relight</a>
+        </li>
+      
+        <li>
+          <a href="https://pubsvc.socalgas.com/service/transferService.html">Moving? Transfer Service</a>
+        </li>
+      
+        <li>
+          <a href="https://pubsvc.socalgas.com/service/startService.html">Start Service</a>
+        </li>
+      
+        <li>
+          <a href="https://pubsvc.socalgas.com/service/stopService.html">Stop Service </a>
+        </li>
+      
+        <li>
+          <a href="https://pubsvc.socalgas.com/service/serviceRequest.html">Schedule a Service Appointment</a>
+        </li>
+      
+        <li>
+          <a href="https://pubsvc.socalgas.com/service/viewCancel.html">Look Up Your Start-Service Request</a>
+        </li>
+      
+    </ul>
+  <span class="touch-button"><i class="navicon"><!-- &#9660;//--></i></span></li>
+
+  <li class="item-with-ul">
+    <a href="https://www.socalgas.com/stay-safe">
+      <span></span> <span>Stay Safe</span>
+    </a>
+    
+      
+      
+    
+
+    <ul style="display: none;">
+      
+        <li>
+          <a href="https://www.socalgas.com/stay-safe/emergency-information">Emergency Information</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/stay-safe/safety-and-prevention">Safety &amp; Prevention</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/stay-safe/pipeline-and-storage-safety">Pipeline &amp; Storage Safety</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/stay-safe/methane-emissions">Methane Emissions</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/stay-safe/safety-brochures">Safety Brochures</a>
+        </li>
+      
+    </ul>
+  <span class="touch-button"><i class="navicon"><!-- &#9660;//--></i></span></li>
+
+  <li class="item-with-ul">
+    <a href="https://www.socalgas.com/save-money-and-energy">
+      <span></span> <span>Save Money &amp; Energy</span>
+    </a>
+    
+      
+      
+    
+
+    <ul style="display: none;">
+      
+        <li>
+          <a href="https://www.socalgas.com/save-money-and-energy/rebates-and-incentives">Rebates &amp; Incentives</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/save-money-and-energy/assistance-programs">Assistance Programs</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/save-money-and-energy/energy-saving-tips-tools">Energy Saving Tips &amp; Tools</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/save-money-and-energy/solar-water-heating">Solar Water Heating</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/save-money-and-energy/natural-gas-vehicles">Natural Gas Vehicles</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/save-money-and-energy/advanced-meter">Advanced Meter</a>
+        </li>
+      
+    </ul>
+  <span class="touch-button"><i class="navicon"><!-- &#9660;//--></i></span></li>
+
+  <li class="item-with-ul">
+    <a href="https://www.socalgas.com/for-your-business">
+      <span></span> <span>For Your Business</span>
+    </a>
+    
+      
+      
+    
+
+    <ul style="display: none;">
+      
+        <li>
+          <a href="https://www.socalgas.com/for-your-business/business-my-account">Business My Account</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/for-your-business/natural-gas-vehicles">Natural Gas Vehicles for Business</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/for-your-business/energy-savings">Energy Savings</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/for-your-business/builder-services">Builder Services</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/for-your-business/energy-market-services">Energy Market Services</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/for-your-business/air-quality-services">Air Quality Services</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/for-your-business/power-generation">Power Generation </a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/for-your-business/education-and-training">Education &amp; Training</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/for-your-business/agriculture">Agriculture</a>
+        </li>
+      
+    </ul>
+  <span class="touch-button"><i class="navicon"><!-- &#9660;//--></i></span></li>
+
+  <li class="item-with-ul">
+    <a href="https://www.socalgas.com/smart-energy">
+      <span></span> <span>Smart Energy</span>
+    </a>
+    
+      
+      
+    
+
+    <ul style="display: none;">
+      
+        <li>
+          <a href="https://www.socalgas.com/smart-energy/reliable-natural-gas-for-the-future">Reliable Natural Gas for the Future</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/smart-energy/benefits-of-natural-gas">Benefits of Natural Gas</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/smart-energy/success-stories">Success Stories</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/smart-energy/technology-and-investments">Technology &amp; Investments</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/smart-energy/sustainability-at-socalgas">Sustainability at SoCalGas</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/smart-energy/presentations-webinars">Presentations &amp; Webinars</a>
+        </li>
+      
+    </ul>
+  <span class="touch-button"><i class="navicon"><!-- &#9660;//--></i></span></li>
+
+  <li class="item-with-ul">
+    <a href="https://www.socalgas.com/our-community">
+      <span></span> <span>Our Community</span>
+    </a>
+    
+      
+      
+    
+
+    <ul style="display: none;">
+      
+        <li>
+          <a href="https://www.socalgas.com/our-community/promoting-education-workforce-development">Promoting Education &amp; Workforce Development</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/our-community/protecting-preserving-the-environment">Protecting &amp; Preserving the Environment</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/our-community/supporting-active-military-veterans">Supporting Active Military &amp; Veterans</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/our-community/encouraging-emergency-preparedness-safety">Encouraging Emergency Preparedness &amp; Safety</a>
+        </li>
+      
+        <li>
+          <a href="https://www.socalgas.com/our-community/supporting-economic-business-development">Supporting Economic &amp; Business Development</a>
+        </li>
+      
+    </ul>
+  <span class="touch-button"><i class="navicon"><!-- &#9660;//--></i></span></li>
+
                     
                     
                     
@@ -1410,23 +1691,20 @@ The following code is Copyright 1998-2015 Opinionlab, Inc. All rights reserved. 
                                        
                     
                       <li>
-                        <a href="#" class="en-red" ng-click="reportGasLeak($event,'Report a Gas Leak')">
+                        <a href="#" class="en-red" ng-click="genericLaunchModal('mRGLModal')">
                           <span></span> <span>Report a Gas Leak</span>
                         </a>
                       </li>
                     
-
                     
-                      
-                      <li>
-                        <a href="//www.socalgas.com/espanol/">
-                          <span></span>
-                          <span>
-                            En Español                              
-                          </span>
-                        </a>
-                      </li>
-                                           
+                    <li>
+                      <a href="https://www.socalgas.com/es/privacy-policy">
+                        <span></span>
+                        <span>
+                          En Español                              
+                        </span>
+                      </a>
+                    </li>
 
                     
                       <li>
