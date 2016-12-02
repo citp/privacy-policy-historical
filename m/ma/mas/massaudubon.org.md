@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massaudubon.org privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623234120id_/http%3A//www.massaudubon.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massaudubon.org privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202200233id_/http%3A//www.massaudubon.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
