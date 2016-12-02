@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regents.ac.uk privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604152021id_/http%3A//www.regents.ac.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regents.ac.uk privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202041850id_/http%3A//www.regents.ac.uk/privacy-statement) for the most accurate reproduction.*
 
 # Regent's University London
 
