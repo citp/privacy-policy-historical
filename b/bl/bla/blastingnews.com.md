@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blastingnews.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624214800id_/http%3A//www.blastingnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blastingnews.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202153701id_/http%3A//www.blastingnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Blasting News
 
