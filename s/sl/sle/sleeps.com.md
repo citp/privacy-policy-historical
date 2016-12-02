@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleeps.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515190204id_/http%3A//www.sleeps.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleeps.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202220023id_/http%3A//www.sleeps.com/policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
