@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dealsofamerica.com privacy policy that was archived on 2016-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160618151240id_/http%3A//www.dealsofamerica.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dealsofamerica.com privacy policy that was archived on 2016-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161202162826id_/https%3A//www.dealsofamerica.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <!--[if lt IE 9]>
@@ -12,9 +12,9 @@
 <meta name="robots" content="index,follow">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="google-site-verification" content="v_TSbhZUAgiUwPQLB7g1YZqTxuTj_XDPRtX2qqu0Zq0">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e982913d31/cloudflare.min.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=088620b277/cloudflare.min.js"></script><script type="text/javascript">
 //<![CDATA[
-try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"c8a1e2e7fcfac02141b5726b19c022ea",petok:"f1b7c61b7870bf49fa0b58f9dfe9566c5a80c865-1466262785-1800",zone:"dealsofamerica.com",rocket:"0",apps:{"ga_key":{"ua":"UA-644631-1","ga_bs":"2"}},sha2test:0}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e982913d31/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"2a394196c828bc8332a41fa845e83c23",petok:"f14ace6e947ab45de5574b3b009aeb2112fa0b57-1480696106-1800",zone:"dealsofamerica.com",rocket:"0",apps:{"ga_key":{"ua":"UA-644631-1","ga_bs":"2"}}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=088620b277/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
 //]]>
 </script>
 <link rel="icon" href="//www.dealsofamerica.com/favicon.png" type="image/x-icon">
@@ -109,8 +109,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 </ul>
 </li></ul>
 </li>
-<li><a href="//www.dealsofamerica.com/local-deals/" target="_self"><strong>Local Deals</strong></a>
-</li>
+ 
 <li><a href="//www.dealsofamerica.com/free-after-rebates.php" target="_self">Freebies</a>
 </li>
  
@@ -129,83 +128,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 </div>
  
 <script data-cfasync="false">
-
-    $(function () {
-        $('#loginform').submit(function (e) {
-            return true;
-        });
-
-        $('.modaltrigger').leanModal({top: 110, overlay: 0.45, closeButton: ".hidemodal"});
-        $('.modaltrigger1').leanModal({top: 110, overlay: 0.45, closeButton: ".hidemodal"});
-
-        var productid = "";
-        var username = "";
-
-    });
-
-    $(document).ready(function () {
-        captchaCheck();
-
-        $("#registerHere").submit(function (e) {
-            e.preventDefault();
-            $.ajax({
-                type: 'POST',
-                data: {
-                    "is_ajax": "true",
-                    "submit": $("#login_submit").val(),
-                    "email": $("#email").val(),
-                    "password": $("#password").val(),
-                    "remember_me": $("#remember_me").is(':checked'),
-                    "return_url": $("#return_url").val()
-                },
-                url: '//www.dealsofamerica.com/deals/includes/LoginSignUPpage1.php',
-                success: function (data) {
-                    var json = JSON.parse(data);
-                    if (json.error == 'email') {
-                        $("#email_error").html(json.message);
-                        return false;
-                    } else if (json.error == 'pwd') {
-                        $("#pwd_error").html(json.message);
-                        return false;
-                    } else if (json.error == 'success') {
-                        window.location.href = json.url;
-                        return true;
-                    }
-                }
-            });
-            return false;
-        });
-    });
-
-
-    function captchaCheck()
-    {
-        var post_url = "//www.dealsofamerica.com/deals/includes/CapchaCreation.php";
-
-        $.ajax({
-            type: 'POST',
-            url: post_url,
-            success: function (msg) {
-                var json = $.parseJSON(msg);
-                var responseVal = json[0].capchaVal;
-                $("#capcha").val("");
-                $("#capchaValue").val(responseVal);
-                $("#capchaValue1").val(responseVal);
-                $("#capchaValue2").val(responseVal);
-            }
-        });
-    }
-
     var is_logged_in = false;
-    function login_check(ele) {
-        if (is_logged_in) {
-            return true;
-        } else {
-            $("#return_url").val($(ele).attr('href'));
-            displayLogin();
-            return false;
-        }
-    }
 </script>
 <div class="login-container-outer tbf_login" id="login_or_signup_modal" style="display:none;">
 <div class="login-container-inner post" id="popclose">
@@ -224,26 +147,26 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <div class="col-md-12">
 <div>
 <span>
-<p id="email_error" style="font-size: 12px;font-weight: bolder;color: red;margin: 0px 0px 0px 2px;">
-</p>
+<span id="err-email" class="login-signup-error-message" style="font-size: 12px;font-weight: bolder;color: red;margin: 0px 0px 0px 2px;">
+</span>
 <input name="email" id="email" value="" class="login-input" type="email" placeholder="Email" required="">
 </span>
 </div>
 <div>
 <span>
-<p id="pwd_error" style="font-size: 12px;font-weight: bolder;color: red;margin: 0px 0px 0px 2px;">
-</p>
+<span id="err-password" class="login-signup-error-message" style="font-size: 12px;font-weight: bolder;color: red;margin: 0px 0px 0px 2px;">
+</span>
 <input name="password" id="password" value="" class="login-input" type="password" placeholder="Password" required="">
 </span>
 </div>
 <div>
 <span style="font-size:14px;">
-<input name="remember_me" id="remember_me" type="checkbox" value="1"> Remember Me
+<input type="checkbox" name="remember_me" id="remember_me" value="1"> Remember Me
 </span>
 </div>
 <div>
 <span>
-<input class="btn modal-login-button" style="margin-left: 0px; width:100px; height:45px; font-size: 1.2em; font-weight: normal;" value="Log In" name="submit" type="submit" id="login_submit">
+<input type="submit" value="Log In" id="submit" name="submit" class="btn modal-login-button" style="margin-left: 0px; width:100px; height:45px; font-size: 1.2em; font-weight: normal;background: #3399cc !important;border-radius:4px;border: 0px !important;">
 <input type="hidden" name="return_url" id="return_url" value="">
 </span>
 </div>
@@ -251,12 +174,12 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 </form>
 </div>
 <div class="login-container-right">
-<a style="" class="help" href="//www.dealsofamerica.com/deals/account/sendpassword.php"><font color="#1569C7">Forgot password?</font></a>
-<a class="help" style="" href="//www.dealsofamerica.com/deals/account/ContactUs.php"><font color="#1569C7">Contact us</font></a>
+<a style="" class="help" href="//www.dealsofamerica.com/deals/account/sendpassword.php"><span color="#1569C7">Forgot password?</span></a>
+<a class="help" style="" href="//www.dealsofamerica.com/deals/account/ContactUs.php"><span color="#1569C7">Contact us</span></a>
 </div>
 <div style="clear: both;"></div>
 <div class="login-container-bottom">
-Don't have an account? <a href="#login_or_signup_modal1" class="xit1 modaltrigger1"><label onclick="displaySignup()"><font color="#1569C7" style="cursor:pointer;"> Sign up for one here!</font></label></a>
+Don't have an account? <a href="#login_or_signup_modal1" style="text-decoration:none;" class="modaltrigger1 xit1"><span onclick="displaySignup()" style="cursor:pointer;color:#1569C7;"> Sign up for one here!</span></a>
 </div>
 </div>
 </div>
@@ -268,8 +191,8 @@ Don't have an account? <a href="#login_or_signup_modal1" class="xit1 modaltrigge
 <div id="login_message" style="display:none;"></div>
  
 <form id="loginform" name="signup" action="//www.dealsofamerica.com/deals/includes/LoginSignUPpage1.php" method="post">
-<font color="red">
-</font>
+<span id="err-signup" class="login-signup-error-message" style="color:red;">
+</span>
 <div class="sign_up_from">
 <span class="span_td fb_btn_container">
 <a href="//www.dealsofamerica.com/deals/includes/fbconfig.php"><img src="//www.dealsofamerica.com/images/fb_btn.png" width="225px" style="margin-bottom: 6px;margin-left:20px;" alt="Signup with Facebook"></a>
@@ -277,31 +200,30 @@ Don't have an account? <a href="#login_or_signup_modal1" class="xit1 modaltrigge
 <div class="login_divider sign_up_area"><span class="txt">or </span></div>
 <div class="div_tr">
 <span class="span_td">
-<p></p>
+<span id="err-name" class="login-signup-error-message"></span>
 <input name="name" id="name" value="" class="login-input " type="text" placeholder="Name" required="">
 </span><span class="span_td"></span>
 </div>
 <div class="div_tr">
 <span class="span_td">
-<p></p>
-<input name="email" value="" class="login-input" id="email" type="email" placeholder="Email or Username" required="">
+<span id="err-email1" class="login-signup-error-message"></span>
+<input name="email" value="" class="login-input" id="email1" type="email" placeholder="Email or Username" required="">
 </span>
 </div>
 <div class="div_tr">
 <span class="span_td">
-<p></p>
-<input name="password" value="" class="login-input" type="password" id="password" placeholder="Password" required="">
+<span id="err-password1" class="login-signup-error-message"></span>
+<input name="password" value="" class="login-input" type="password" id="password1" placeholder="Password" required="">
 <small style="float: right;color: #B5B5B5;">Please enter 8 characters or more</small>
-<p>
-<span class="span_td">
+</span><span class="span_td">
  
 </span>
-</p></span></div>
+</div>
 <div class="div_tr">
 <span class="span_td">
-<p>
-</p>
-<input name="passconf" value="" class="login-input" type="password" id="password" placeholder="Confirm Password" required="">
+<span id="err-passconf" class="login-signup-error-message">
+</span>
+<input name="passconf" value="" class="login-input" type="password" id="passconf" placeholder="Confirm Password" required="">
 </span>
 <span class="span_td">
  
@@ -309,253 +231,34 @@ Don't have an account? <a href="#login_or_signup_modal1" class="xit1 modaltrigge
 </div>
 <div class="div_tr">
 <span class="span_td">
-<p>
-</p>
+<span id="err-capcha" class="login-signup-error-message">
+</span>
 <input type="hidden" name="capchaValue" id="capchaValue">
 <input type="text" value="" style="width: 140px;" name="capcha" id="capcha" class="login-input" placeholder="Type Captcha">
-<input style="width: 138px;-moz-box-shadow: 0px 10px 14px -7px #276873;
-                                   -webkit-box-shadow: 0px 10px 14px -7px #276873;
-                                   box-shadow: 0px 10px 14px -7px #276873;
-
-                                   background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #599bb3), color-stop(1, #408c99));
-                                   background:-moz-linear-gradient(top, #599bb3 5%, #408c99 100%);
-                                   background:-webkit-linear-gradient(top, #599bb3 5%, #408c99 100%);
-                                   background:-o-linear-gradient(top, #599bb3 5%, #408c99 100%);
-                                   background:-ms-linear-gradient(top, #599bb3 5%, #408c99 100%);
-                                   background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
-                                   filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#599bb3', endColorstr='#408c99',GradientType=0);
-
-                                   background-image:url(//www.dealsofamerica.com/images/bg.jpg);
-
-                                   font-style:italic;
-
-                                   -moz-border-radius:8px;
-                                   -webkit-border-radius:8px;
-                                   border-radius:8px;
-
-                                   display:inline-block;       
-                                   color:#COCOCO;
-                                   font-family:arial;
-                                   font-size:20px;
-                                   font-weight:bold;
-                                   padding:5px 5px;
-                                   text-decoration:none;
-                                   margin-top:2px;
-                                   padding-top:2px;
-                                   letter-spacing:13px;
-                                   text-shadow:0px 1px 0px #3d768a;
-                                   text-align:center;" name="capchaValue1" id="capchaValue1" disabled="">
-<img src="//www.dealsofamerica.com/images/refresh.gif" onclick="captchaCheck()">
+<input class="captcha-img-code" name="capchaValue1" id="capchaValue1" disabled="">
+<img class="captcha-refresh" src="//www.dealsofamerica.com/images/refresh.gif" alt="refresh captcha" onclick="captchaCheck()">
 </span>
 </div>
 <div class="div_tr">
 <span class="span_td">
-<input name="checkbox" type="checkbox" value="checked" class="" id="checkbox" checked="checked">&nbsp;<font color="#000000">Subscribe to the Hot Deal Alert Newsletter
-Get notifications of new ads &amp; hot deals in your inbox. Its FREE, and we don't share your email address!</font>
+<input name="checkbox" type="checkbox" value="checked" class="" id="checkbox" checked="checked">&nbsp;<span style="font-size:12px;color:#000;">Subscribe to the Hot Deal Alert Newsletter
+Get notifications of new ads &amp; hot deals in your inbox. Its FREE, and we don't share your email address!</span>
 </span>
 </div>
 <div class="div_tr">
 <span class="span_td">
-<input class="btn modal-login-button" style="margin-left: 0px; width:100px; height:45px; font-size: 1.2em; font-weight: normal;" value="Sign Up" name="submit" type="submit">
+<input id="submit1" class="btn modal-login-button" style="margin-left: 0px; width:100px; height:45px; font-size: 1.2em; font-weight: normal;border-radius:4px;" value="Sign Up" name="submit" type="submit">
 </span>
 </div>
 </div>
 </form>
 </div>
-<div class="login-container-right">
-</div>
+<div class="login-container-right"></div>
 <div style="clear: both;"></div>
-<div class="login-container-bottom" style="margin-top:-30%;height:32px;"><font color="black" size="1" style="margin-left:-37%;">By Clicking 'SignUp' you indicate that you have read and agreed to terms and service</font></div>
+<div class="login-container-bottom" style="margin-top:-26%;height:32px;"><span style="color:#000;margin-left:-37%;">By Clicking 'SignUp' you indicate that you have read and agreed to terms and service</span></div>
 </div>
 </div>
-<script type="text/javascript" data-cfasync="false">
-    var window_width = $(window).width();
-    var username = "";
-    var emailStatus1 = "";
-    var pwd = "";
-    var capchaVal = "";
-    var emailStatus = "";
-    var pwd = "";
-    var cpwd = "";
-
-    var capchaVal = "";
-    var pwdlength = "";
-    var manage = "";
-    var createAlert = "";
-
-    if (username == "login" || emailStatus1 == "Please Enter Valid Email" || pwd == 'Password is Incorrect' || manage == 'login' || createAlert == 'login') {
-//alert(username);
-        (function ($) {
-            $.fn.extend({
-                leanModal: function (options) {
-                    var defaults = {
-                        top: 100,
-                        overlay: 0.5,
-                        closeButton: null
-                    };
-                    var overlay = $("<div id='lean_overlay'></div>");
-                    console.log($(this));
-                    $("body").append(overlay);
-                    options = $.extend(defaults, options);
-                    return this.each(function () {
-
-                        var o = options;
-                        //var modal_id = $(this).attr("href");
-                        var modal_id = "#login_or_signup_modal";
-
-                        $("#lean_overlay").click(function () {
-                            close_modal(modal_id)
-                        });
-                        $(o.closeButton).click(function () {
-                            close_modal(modal_id)
-                        });
-                        var modal_height = $(modal_id).outerHeight();
-                        var modal_width = $(modal_id).outerWidth();
-                        $("#lean_overlay").css({
-                            "display": "block",
-                            opacity: 0
-                        });
-                        $("#lean_overlay").fadeTo(200, o.overlay);
-                        $(modal_id).css({
-                            "display": "block",
-                            "position": "fixed",
-                            "opacity": 0,
-                            "z-index": 11000,
-                            "left": 50 + "%",
-                            "margin-left": -(modal_width / 2) + "px",
-                            "top": 50 + "px"
-                        });
-                        $(modal_id).fadeTo(200, 1);
-                        //e.preventDefault();
-                    })
-
-
-                    function closepopUp(modal_id) {
-                        $("#lean_overlay").fadeOut(200);
-                        $(modal_id).css({
-                            "display": "none"
-                        })
-                    }
-                }
-
-            })
-        })(jQuery);
-
-    }
-    else if (emailStatus == "The email already existed." || pwd == "Password must be 8 characters" || cpwd == "Passwords don't match" || capchaVal == "capcha does not match" || pwdlength == "Password must be 8 characters" || capchaVal == "Please Enter Captcha") {
-        captchaCheck();
-        (function ($) {
-            $.fn.extend({
-                leanModal: function (options) {
-
-                    var defaults = {
-                        top: 100,
-                        overlay: 0.5,
-                        closeButton: null
-                    };
-                    var overlay = $("<div id='lean_overlay'></div>");
-                    $("body").append(overlay);
-                    options = $.extend(defaults, options);
-                    return this.each(function () {
-
-                        var o = options;
-
-                        //var modal_id = $(this).attr("href");
-                        var modal_id = "#login_or_signup_modal1";
-//                            if (window_width < 800) {
-//                                alert(window_width + " leanmodal signup1");
-//                                var modal_id = "#login_or_signup_modal3";
-//                            } else {
-//                                alert(window_width + " leanmodal signup2");
-//                                var modal_id = "#login_or_signup_modal1";
-//                            }
-                        $("#lean_overlay").click(function () {
-                            close_modal(modal_id)
-                        });
-                        $(o.closeButton).click(function () {
-                            close_modal(modal_id)
-                        });
-                        var modal_height = $(modal_id).outerHeight();
-                        var modal_width = $(modal_id).outerWidth();
-                        $("#lean_overlay").css({
-                            "display": "block",
-                            opacity: 0
-                        });
-                        $("#lean_overlay").fadeTo(200, o.overlay);
-                        $(modal_id).css({
-                            "display": "block",
-                            "position": "fixed",
-                            "opacity": 0,
-                            "z-index": 11000,
-                            "left": 50 + "%",
-                            "margin-left": -(modal_width / 2) + "px",
-                            "top": 50 + "px"
-                        });
-                        $(modal_id).fadeTo(200, 1);
-                        //e.preventDefault()
-                    })
-
-
-                    function closepopUp(modal_id) {
-                        $("#lean_overlay").fadeOut(200);
-
-                        $(modal_id).css({
-                            "display": "none"
-                        })
-                    }
-                }
-
-            })
-        })(jQuery);
-
-
-    }
-
-
-    $(document).ready(function () {
-        captchaCheck();
-
-        $("#close, #exit_modal").click(function () {
-            $("#lean_overlay").fadeOut(200);
-
-            $("#login_or_signup_modal, #login_or_signup_modal1").css({
-                "display": "none"
-            });
-            $.ajax({
-                type: 'POST',
-                url: '//www.dealsofamerica.com/deals/includes/popupcloseclearsession.php',
-                success: function (data) {
-                }
-            });
-            return false;
-        });
-    });
-
-    var username = "";
-    var emailStatus = "";
-    var pwd = "";
-    var capchaVal = "";
-    var manage = "";
-    var createAlert = "";
-
-    //var username = "";
-    var pwd = "";
-    var cpwd = "";
-    var capchaVal = "";
-    var clr = "";
-
-    function displaySignup() {
-        captchaCheck();
-        $("#login_or_signup_modal").hide();
-        $('.modaltrigger1').leanModal({top: 110, overlay: 0.45, closeButton: ".hidemodal"});
-        $(".modaltrigger1").click();
-    }
-
-    function displayLogin() {
-        $(".modaltrigger").leanModal({top: 110, overlay: 0.45, closeButton: ".hidemodal"});
-        $(".modaltrigger").click();
-    }
-</script>
+<script type="text/javascript" data-cfasync="false" src="//www.dealsofamerica.com/deals/includes/js/login.js"></script>
 </header>
 <section class="col-sm-9 no-padding">
 <section id="deals-container" class="home_style home_style_black">
@@ -623,7 +326,7 @@ Get notifications of new ads &amp; hot deals in your inbox. Its FREE, and we don
 <span class="caret"></span>
 </header>
 <ul>
-<li><a onclick="_gaq.push(['_trackEvent', 'top 5 picks', 'Click', ' Northwest Territory Sierra Dome Tent 68-07050R-5 225180']);" href="https://www.dealsofamerica.com/Northwest-Territory--Sierra-Dome-Tent/225180.htm">Northwest Territory Sierra Dome Tent 68-07050R-5</a> <strong> $24.74</strong></li><li><a onclick="_gaq.push(['_trackEvent', 'top 5 picks', 'Click', ' Hauppauge Digital USB TV Tuner for Xbox One 327998']);" href="https://www.dealsofamerica.com/Hauppauge-Digital-USB-TV-Tuner-for-Xbox-One/327998.htm">Hauppauge Digital USB TV Tuner for Xbox One</a> <strong> $30.00</strong></li><li><a onclick="_gaq.push(['_trackEvent', 'top 5 picks', 'Click', ' BankAmericard Travel Rewards® Credit Card 310533']);" href="https://www.dealsofamerica.com/BankAmericard-Travel-Rewards®-Credit-Card/310533.htm">BankAmericard Travel Rewards® Credit Card</a></li><li><a onclick="_gaq.push(['_trackEvent', 'top 5 picks', 'Click', ' Dishonored: Definitive Edition for PS4 or Xbox One 330775']);" href="https://www.dealsofamerica.com/Dishonored--Definitive-Edition-for-PlayStation-4/330775.htm">Dishonored: Definitive Edition for PS4 or Xbox One</a> <strong> $14.99</strong></li><li><a onclick="_gaq.push(['_trackEvent', 'top 5 picks', 'Click', ' Toshiba 49L420U 49-inch LED 1080p HDTV 348006']);" href="https://www.dealsofamerica.com/Toshiba-49L420U-49-inch-LED-1080p-HDTV/348006.htm">Toshiba 49L420U 49-inch LED 1080p HDTV</a> <strong> $299.99</strong></li><li><a onclick="_gaq.push(['_trackEvent', 'top 5 picks', 'Click', ' $50 Microsoft Xbox Cash eGift Card (Email Delivery) 347305']);" href="https://www.dealsofamerica.com/50-Microsoft-Xbox-Cash-eGift-Card/347305.htm">$50 Microsoft Xbox Cash eGift Card (Email Delivery)</a> <strong> $40.00</strong></li> <li><a target="_self" class="text-right" href="http://www.dealsofamerica.com/hot-deals.php">More Hot Deals</a>
+<li><a onclick="_gaq.push(['_trackEvent', 'top 5 picks', 'Click', ' Perfumania Cyber Week Sale: 25% Off Site Wide + Free Shipping 328348']);" href="https://www.dealsofamerica.com/Perfumania-Cyber-Week-Sale--25-Off-Site-Wide/328348.htm">Perfumania Cyber Week Sale: 25% Off Site Wide + Free Shipping</a></li><li><a onclick="_gaq.push(['_trackEvent', 'top 5 picks', 'Click', ' LG 55UH6150 55-inch 4K Ultra HD LED Smart TV + Free $250 Dell GC 349766']);" href="https://www.dealsofamerica.com/LG-55UH6150-55-inch-4K-UHD-Smart-LED-TV/349766.htm">LG 55UH6150 55-inch 4K Ultra HD LED Smart TV + Free $250 Dell GC</a> <strong> $699.99</strong></li><li><a onclick="_gaq.push(['_trackEvent', 'top 5 picks', 'Click', ' Fitbit Charge HR Heart Rate and Activity Tracker Wristband 330779']);" href="https://www.dealsofamerica.com/Fitbit-Charge-Heart-Rate-Monitor-Activity-Tracker/330779.htm">Fitbit Charge HR Heart Rate and Activity Tracker Wristband</a> <strong> $74.99</strong></li><li><a onclick="_gaq.push(['_trackEvent', 'top 5 picks', 'Click', ' The Lord of the Rings: The Motion Picture Trilogy Extended Edition Blu-ray 153535']);" href="https://www.dealsofamerica.com/The-Lord-of-the-Rings--The-Motion-Picture-Trilogy-[Blu-ray]--2012-/153535.htm">The Lord of the Rings: The Motion Picture Trilogy Extended Edition Blu-ray</a> <strong> $26.49</strong></li><li><a onclick="_gaq.push(['_trackEvent', 'top 5 picks', 'Click', ' Nintendo Wii Fit U Bundle with Balance Board &amp; Fit Meter (Wii U) 264155']);" href="https://www.dealsofamerica.com/Wii-Fit-U-wWii-Balance-Board-accessory-and-Fit-Meter-Wii--/264155.htm">Nintendo Wii Fit U Bundle with Balance Board &amp; Fit Meter (Wii U)</a> <strong> $14.99</strong></li><li><a onclick="_gaq.push(['_trackEvent', 'top 5 picks', 'Click', ' Dayton Audio B652 6-1/2-inch 2-Way Bookshelf Speaker Pair 365362']);" href="https://www.dealsofamerica.com/Dayton-Audio-B652-6-12-inch-2-Way-Bookshelf-Speaker-Pair/365362.htm">Dayton Audio B652 6-1/2-inch 2-Way Bookshelf Speaker Pair</a> <strong> $29.80</strong></li> <li><a target="_self" class="text-right" href="http://www.dealsofamerica.com/hot-deals.php">More Hot Deals</a>
 </li>
 </ul>
 </section>
