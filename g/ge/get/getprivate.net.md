@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getprivate.net privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309081023id_/http%3A//getprivate.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getprivate.net privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202030207id_/http%3A//getprivate.net/privacy) for the most accurate reproduction.*
 
 # GetPrivate - Secure Free VPN
 
