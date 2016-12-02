@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixgram.me privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507001413id_/http%3A//pixgram.me/pages/pixgram_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixgram.me privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202025200id_/http%3A//www.pixgram.me/pages/pixgram_privacy_policy) for the most accurate reproduction.*
 
 # Pixgram Privacy Policy | instagram online viewer | instagram viewer | Free instagram viewer
 
