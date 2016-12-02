@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ziploc.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221162435id_/http%3A//www.scjbrands.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziploc.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202022841id_/http%3A//privacy.scjbrands.com/en-us) for the most accurate reproduction.*
 
 # Privacy Notice | SC Johnson
 
@@ -279,9 +279,13 @@ En cuanto a los derechos de privacidad específicos concedidos en virtud de la L
 
 Your personal information may be maintained in or be accessible from our offices at Racine, Wisconsin, USA and other locations outside of Canada.  You should be aware that privacy laws in such countries differ from the Canadian privacy laws and that in some countries your personal information may be accessed by law enforcement authorities or the courts.  If you would like to obtain more information about our policies and practices with respect to processing your personal information in such countries, please contact us as indicated in this Privacy Notice.
 
-### Canada -
+You can also learn more about third party ad serving and how to limit related advertisements at <http://youradchoices.ca/>, the official website of the Digital Advertising Alliance of Canada’s Self-Regulatory Program for Online Behavioural Advertising.
+
+### CANADA -
 
 Vos informations personnelles peuvent être conservées dans nos bureaux ou être accessibles depuis ceux-ci, situés à Racine, dans le Wisconsin, aux États-Unis et autres sites en dehors du Canada. Vous devez savoir que les lois sur le respect de la vie privée dans ces pays diffèrent des lois canadiennes sur le respect de la vie privée, et que dans certains pays, des autorités d’application de la loi ou les tribunaux peuvent accéder à vos informations personnelles. Si vous souhaitez obtenir plus d’informations sur nos politiques et pratiques relatives au traitement de vos informations personnelles dans ces pays, veuillez nous contacter, comme indiqué dans le présent Avis de confidentialité.
+
+Pour de plus amples informations au sujet des annonces publicitaires émanant de tiers et sur la façon de les limiter, consultez <http://youradchoices.ca/fr/>, le site internet officiel du programme d’autoréglementation sur la publicité comportementale en ligne  de l’Alliance de la publicité numérique du Canada.
 
 ### México -
 
