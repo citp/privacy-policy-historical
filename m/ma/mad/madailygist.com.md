@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madailygist.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614225200id_/http%3A//madailygist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madailygist.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202141608id_/http%3A//madailygist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Madailygist
 
@@ -8,7 +8,7 @@ This Privacy Policy governs the manner in which Madailygist collects, uses, main
 
 We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
- **Non-personal identification information**
+**Non-personal identification information**
 
 We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
