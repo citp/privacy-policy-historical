@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealsofsweetness.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919101624id_/http%3A//www.dealsofsweetness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsofsweetness.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202085844id_/http%3A//peaofsweetness.com/pr-friendly/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Deals of Sweetness
+# Privacy Policy - Pea of Sweetness
 
 **What information do we collect?**
 
@@ -50,7 +50,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://dealsofsweetness.com/disclosure-policy/](http://www.dealsofsweetness.com/disclosure-policy/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://peaofsweetness.com/disclosure/>
 
 **Your Consent**
 
@@ -60,13 +60,13 @@ By using our site, you consent to our [privacy policy](http://www.freeprivacypol
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
 
-This policy was last modified on March 25, 2014
+This policy was last modified on June 21, 2013
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://dealsofsweetness.com  
-dealsofsweetness@gmail.com
+http://peaofsweetness.com  
+emilee.roberts@peaofsweetness.com
 
 This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/).
