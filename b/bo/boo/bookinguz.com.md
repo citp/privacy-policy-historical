@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookinguz.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630014255id_/http%3A//www.bookinguz.com/78-all/140-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookinguz.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202031109id_/http%3A//www.bookinguz.com/78-all/140-privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -27,7 +27,7 @@ The personal information is transmitted to us in several ways:
 
 ### The use of information obtained
 
-The information provided by you when you subscribe on a voluntary mailing list, going through third-party software Site and stored on the server. Access to this information has only the administrator of our account on this service. We use this information only to send You the information on which You subscribed. To unsubscribe from receiving mailings, You need to write a request letter in the mail [This email address is being protected from spambots. You need JavaScript enabled to view it..">[info@bookinguz.com](mailto:info@bookinguz.com).](mailto:%3Cspan%20id=) This email address is being protected from spambots. You must have JavaScript enabled to view it.
+The information provided by you when you subscribe on a voluntary mailing list, going through third-party software Site and stored on the server. Access to this information has only the administrator of our account on this service. We use this information only to send You the information on which You subscribed. To unsubscribe from receiving mailings, You need to write a request letter in the mail [[info@bookinguz.com](mailto:info@bookinguz.com).](mailto:info@bookinguz.com.) This email address is being protected from spambots. You must have JavaScript enabled to view it.
 
 ### Providing information to third partiesе
 
