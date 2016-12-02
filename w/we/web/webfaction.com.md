@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webfaction.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322020941id_/https%3A//www.webfaction.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webfaction.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202090210id_/https%3A//www.webfaction.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - WebFaction
 
