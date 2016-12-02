@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the air1.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629090833id_/http%3A//www.air1.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the air1.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202053643id_/http%3A//www.air1.com/privacy.aspx) for the most accurate reproduction.*
 
 # Air1 Privacy Policy
 
@@ -52,4 +52,4 @@ _The AIR1 Privacy Policy was updated effective 1/1/2015._
 If you have questions about our privacy policy, please contact AIR1.   
 You may also send mail to Educational Media Foundation:   
 5700 West Oaks Blvd, Rocklin, CA 95765   
-Contact AIR1 at (800) 525-5683
+Contact AIR1 at (888) 937-2471
