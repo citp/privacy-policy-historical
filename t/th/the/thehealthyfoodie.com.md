@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thehealthyfoodie.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610015922id_/http%3A//thehealthyfoodie.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehealthyfoodie.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202143825id_/http%3A//thehealthyfoodie.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Healthy Foodie
+# Privacy Policy • The Healthy Foodie
 
 **Privacy Policy**
 
@@ -55,7 +55,7 @@ Please note that The Healthy Foodie may have financial relationships with some o
 
 **Limitation of Liability**
 
-The Healthy Foodie PROVIDES THE INFORMATION, SERVICES AND PRODUCTS ON THIS WEB SITES “AS IS” WITHOUT WARRANTIES OF ANY KIND. YOU AGREE THAT The Healthy Foodie SHALL NOT BE RESPONSIBLE FOR ANY CONTENT FOUND ON OUR FORUMS THAT ANY DOWNLOADING OF MATERIALS FOUND ON OR THROUGH The Healthy Foodie FORUMS IS DONE AT YOUR OWN RISK, AND THAT The Healthy Foodie IS NOT RESPONSIBLE FOR UNSOLICITED COMMUNICATIONS THAT ARISE FROM YOUR POSTINGS. The Healthy Foodie SHALL NOT BE RESPONSIBLE IN ANY MANNER FOR THE ACTS OF ANY THIRD PARTY, INCLUDING WITOUT LIMITATION, ANY THIRD PARTY AD NETWORK.
+The Healthy Foodie PROVIDES THE INFORMATION, SERVICES AND PRODUCTS ON THIS WEB SITES “AS IS” WITHOUT WARRANTIES OF ANY KIND. YOU AGREE THAT The Healthy Foodie SHALL NOT BE RESPONSIBLE FOR ANY CONTENT FOUND ON OUR FORUMS THAT ANY DOWNLOADING OF MATERIALS FOUND ON OR THROUGH The Healthy Foodie FORUMS IS DONE AT YOUR OWN RISK, AND THAT The Healthy Foodie IS NOT RESPONSIBLE FOR UNSOLICITED COMMUNICATIONS THAT ARISE FROM YOUR POSTINGS. The Healthy Foodie SHALL NOT BE RESPONSIBLE IN ANY MANNER FOR THE ACTS OF ANY THIRD PARTY, INCLUDING WITHOUT LIMITATION, ANY THIRD PARTY AD NETWORK.
 
 **Consent and Modifications to this Privacy Statement**
 
