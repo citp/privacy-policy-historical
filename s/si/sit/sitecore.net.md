@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sitecore.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616191612id_/http%3A//www.sitecore.net/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitecore.net privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202054627id_/http%3A//www.sitecore.net/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sitecore
+
+Privacy Policy
 
 ### Summary:
 
