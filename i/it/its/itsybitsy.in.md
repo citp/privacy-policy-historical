@@ -1,102 +1,51 @@
-> *The following text is extracted and transformed from the itsybitsy.in privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626223851id_/http%3A//itsybitsy.in/store/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsybitsy.in privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202020258id_/http%3A//itsybitsy.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Notice : ITSY BITSY!, Indias Hobby, Craft & Activity Store
+# Privacy Policy
 
-Privacy Policy  
+**Privacy Policy**
 
+ We value our consumer’s trust placed in our brand. We insist upon the highest standards for secure transactions and customer information privacy. Do read the following statements to learn about our information gathering & practices.
 
- We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent and we only use your information as described in the Privacy Policy. We view protection of your privacy as a very important community principle. We understand clearly that you and your Information is one of our most important assets.  
+Note: Our privacy policy is subject to change from time to time without notice. To make sure you are aware of any changes, please review this policy periodically.
 
+** ** **1\. Collection of Information – Personal & identifiable.**
 
-If you object to your Information being transferred or used in this way please do not use the Site.  
+We store collected personally identifiable information (email address, name, phone number, etc.) from our registered customers when a free account is set up with itsybitsy.in. While one can browse through our site without the registration process, for the purpose of placing an order, one has to complete the registration process by filling all the valid information. 
 
+We do use your contact information to send you intimation of new products & offers from time to time based on your previous orders placed & your interests.
 
-We respect the privacy of our customers. As we develop our online presence, we will revise our Privacy Policy to reflect our practices and to meet any legislative or other requirements. 
+** ** **2\. Use of Demographic and Profile Data**
 
-  
-Collection of Personal Information: 
+The personal information provided is used for fulfilling the services request placed by customers. To the extent we use your personal information to market our offers and new product launches, there is an option provided to opt-out of intimations. The information will also be used to resolve disputes; troubleshoot problems; promoting safe service; collect fee (owed- billing); measure interests of our products & services, Customize shopping / browsing experience; protect us against erroneous / fraudulent transactions, and other criminal activities, enforce the terms and conditions for shopping / use-age of the webpage; and as described to you at the time of collection of such relevant information.
 
-We collect information directly from you in a number of ways, some of which are described in this Privacy Statement. One way is through the use of cookies. Cookies are small files of information which save and retrieve information about your visit to our site.   
+We continually aim to improve our service and gather suggestions to improve our range offered, the data collected is also used to analyze demographic and profile data about our users and their activity on our website.  
+We identify and use your IP address to help diagnose problems, and to administer our website/ server from time to time. Your IP address is used to identify you & to gather broad demographic information.
 
+We may indulge you in taking up & completing optional online surveys, in which, the consumer’s information and demographic information (like zip code, age, or income level) will be asked. We use this data to tailor your online experience, providing you with content that we think you might be interested in & we would endeavour to display content according to your shopping and browsing preferences.
 
-TIP: If you are uncomfortable regarding cookies use, please keep in mind you can disable cookies on your computer by changing the settings in preferences or options menu in your browser.   
+** ** **Cookies**
 
+ A "cookie" is a small piece of information stored by a server on a browser, so, it can be later read back (on being required). They are useful for enabling browsers to remember information specific to any given user. Itsybitsy.in places both permanent and temporary cookies in your computer's hard drive. Itsybitsy.in's cookies do not contain any of your personally identifiable information.
 
-BUT Disabling cookies may create problems while shopping on the site, you could complete your shopping and then disable/delete cookies   
+** ** **3\. Personal information use & sharing.**
 
+We may choose to part with personal information to other corporate entities & affiliates to: help detect / prevent identity theft, fraud / other potentially illegal acts; correlate related or multiple accounts to prevent abuse of our services. This may also be used to facilitate joint or co-branded services that you request. Wherein, such services are provided by more than one corporate entity. Those entities & affiliates may not market to our customer as a result of such sharing unless it’s explicitly opted-in for.
 
-We also collect information when you voluntarily submit it to us by registering as our client/customer on our site. We will collect information generated by our webservers for the purpose of assessing the technical performance of its systems and to enhance service levels. From time to time, we may also request and you may choose to provide us with personal information through the use of the Website or through email addresses available from our Website. If you do not provide us with the personal information that we request, we may not be able to properly assess your request for service and the level of service we can provide you may be reduced to the extent that you do not provide us with relevant information.   
+Personal information may be disclosed, if required to do so, by law or in the good faith that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal processes and proceedings. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
 
+Itsybitsy.in and its affiliates will share some or all of your personal information with another business entities, should we (or our associates) plan to merge with, or be acquired by that business entity. On occurrences of such transactions, the other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information.
 
-We will not collect sensitive information about you from anyone else without your consent We at ITSY BITSY respect and value your privacy. When you buy a product from us, this privacy policy is part of the sales agreement. We may collect, use, retain or disclose information about you only for these legitimate purposes:   
+**5\. Security Measures**
 
+We attempt to all times have stringent security measures to protect the loss, misuse, & alteration of our customers information under our control. Whenever a customer changes or access their account or their information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.
 
-  * To carry out the normal commercial operations of an on-line catalogue or in-store retail business. (These may include answering your product queries, processing your order and delivering or shipping you the product, obtaining payment, and maintaining proper tax and accounting records).   
+**6\. Advertisements on Itsybitsy.in**
 
-  *  To send you catalogues, flyers and offers about the products we sell, unless you advise us not to.   
+We may use third-party advertising companies to serve ads and this will be viewed by our customers on browsing / shopping at our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-  *  To carry out any other activity which has your consent?   
+**8\. Queries / Questions?**
 
-  *  To comply with legal requirements or so that we can respond to any complaints or claims against us. When trusted third parties (such as our accountants or a delivery company) are performing a service for us or for you, we may provide them with our information about you only to the extent they need it to perform that service. We will not sell or lease information about you, with these exceptions:   
+Any Queries / Questions regarding this statement should be directed to the following address: **[info@itsybitsy.in](mailto:info@itsybitsy.in).  
+**
 
-  *  If we reorganize our company, or sell or lease our business, the new entity, owner or operator will assume any rights we have in respect of our information about you. We would obtain reasonable assurances that your privacy would continue to be respected;   
-
-  *  We may create and sell or provide data (i.e. figures on sales of a particular product in a particular month) that is in a form that does not permit you to be identified.   
-
-
-
-
-Who has access to personal information collected by ITSY BITSY ?   
-
-
-ITSY BITSY strictly controls access to your personal information to our employees who need this information in order to serve you or to employees who analyze our performance in order to measure and improve ITSY BITSY. Employees are kept up-to date with regard to the privacy and security practices of ITSY BITSY.   
-
-
-ITSY BITSY reserves the right to co-operate with local, provincial and national officials in any investigation requiring either personal information including any personal information provided online through ITSY BITSY.in or reports about lawful and unlawful user activities on the Web site. If you ask us, we will remove any information about you from our files, unless some legitimate purpose makes its reasonable for us to retain it for some additional time. We will also review our files from time to time with a view to identifying and deleting stale information.   
-
-
-The Information We Collect & How We Use It Except as provided in this Privacy Policy, we never use or share the personally identifiable information provided to us online in ways unrelated to the ways described below without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. However, we will fully cooperate should a situation arise where we are required by law or requested by a law enforcement agency to provide information about a customer.   
-
-
-General Website Usage   
-
-
-When you visit our Web Site, ITSY BITSY.in collects navigational information during each visitor's use of our Web site. This may include viewing online catalog or email promotion or voting in a survey. In the process of gathering navigational information, non-personally identifiable information (i.e. domain type, browser version, service provider and IP address) may be collected. The navigational information tells ITSY BITSY about the use of our Web site by visitors, including the areas of our site that are most visited or the time of a last visit to a page on our site. It also tells us about the technical efficiencies of our Web site and services (i.e. the time it takes a visitor to connect to our Web site or download pages).   
-
-
-The navigational information helps us better understand a visitor's experience at ITSY BITSY and improve upon that experience by recognizing and delivering more of the features, services and products our visitors prefer.   
-
-
-Submitting a Form   
-
-
-When you submit a form on our Web site to send us a comments/queries. These forms are sent electronically to ITSY BITSY and disbursed to the applicable internal departments only. The applicable department will use the information provided for the specific purpose for which it was submitted only. .
-
-Sending an Email   
-
-
-When you choose to send an email to any of the ITSY BITSY email addresses provided on our Web site, for example to send your enquiry for our products you are sending your email address. In such case, your emails are stored so that we may properly address your questions and concerns and your email address will only be used to answer the email received.   
-
-
-Our Commitment to Data Security   
-
-
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.   
-
-
-How You Can Access or Correct Your Information   
-
-
-You can access the information you provided to register for our various programs by logging into your account and accessing ‘My Account’. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
-
-Please DO NOT share your login details with others, as we will not be responsible for any discrepancies created in your account details.  
-
-
-Security Statement   
-
-
-ITSY BITSY online credit card payments are forwarded to Axis bank for processing and then returned back to our site. 
-
-JURISDICTION:
-
-The terms of this agreement are exclusively based on and subject to Indian law. You hereby consent to the exclusive jurisdiction and venue of courts in Bangalore, India in all disputes arising out of or relating to the use of this website.
+Orders - Also note, if the payment is not received within 3 days of placing an order it will be automatically cancelled. 
