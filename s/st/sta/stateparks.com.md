@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stateparks.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608042954id_/http%3A//stateparks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stateparks.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202212508id_/http%3A//www.stateparks.com/privacy.html) for the most accurate reproduction.*
 
 # America's Parks: State Parks, National Parks, along with all of the other parks - AmericasParks.com
 
