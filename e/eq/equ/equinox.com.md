@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equinox.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529070606id_/https%3A//www.equinox.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equinox.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202101219id_/https%3A//www.equinox.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
