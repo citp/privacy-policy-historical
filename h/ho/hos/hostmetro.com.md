@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostmetro.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601133246id_/http%3A//www.hostmetro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostmetro.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202084625id_/http%3A//www.hostmetro.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - HostMetro
 
@@ -12,6 +12,7 @@ We cooperate with all government and law enforcement agencies to enforce and com
 
 Any and all changes to the Privacy Policy will be updated on this page and supersedes the previous version. We suggest and encourage customers to review the Privacy Policy periodically to ensure that it is up to their standards. If, at any time, you feel we are not abiding by this Privacy Policy you can contact us via phone at 800-485-9730 or email customercare@hostmetro.com
 
-© 2015 HostMetro.com. All rights reserved. 
+© 2016 HostMetro.com. All rights reserved.  
+*See terms for complete details. 
 
 Scroll to Top
