@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edupoint.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316162428id_/http%3A//www.edupoint.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edupoint.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202200137id_/http%3A//edupoint.com/Privacy) for the most accurate reproduction.*
 
 # Edupoint.com
 
@@ -44,4 +44,4 @@ Edupoint will occasionally update this Statement of Privacy to reflect company a
 
 Contact Information
 
-Edupoint welcomes your comments regarding this Statement of Privacy. If you believe that Edupoint has not adhered to this Statement, please contact Edupoint at [host@change.me](mailto:host@change.me). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Edupoint welcomes your comments regarding this Statement of Privacy. If you believe that Edupoint has not adhered to this Statement, please contact Edupoint at [lschnoor@edupoint.com](mailto:lschnoor@edupoint.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
