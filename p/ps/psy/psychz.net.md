@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the psychz.net privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405212321id_/https%3A//www.psychz.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychz.net privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202050836id_/https%3A//www.psychz.net/privacy.html) for the most accurate reproduction.*
 
 # Psychz Networks
 
-**Psychz Networks** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.Psychz Networks.com](http://www.psychz.com/)
+**Psychz Networks** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.psychz.net](https://www.psychz.net/)
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site.
 
