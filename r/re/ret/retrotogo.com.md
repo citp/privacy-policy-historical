@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the retrotogo.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617205735id_/http%3A//www.modculturemedia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retrotogo.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202163146id_/http%3A//www.modculturemedia.com/privacy-policy.html) for the most accurate reproduction.*
 
-# The use of cookies on our sites and our privacy policy - Mod Culture
+# Mod Culture: The use of cookies on our sites and our privacy policy
 
 Like the majority of websites in the world, this one uses cookies - small text files stored on your computer by your browser, which help us to develop the site by checking traffic on the websites we run, support affiliate programs or post ads that are relevant to site users. They do not include personal information (like your name, for example) and do not damage files. 
 
@@ -126,6 +126,6 @@ We are not responsible for the privacy policies and practices of other sites eve
 
 **Further information**
 
-For further information from us on data protection and privacy or any requests concerning your personal information please [email us](https://web.archive.org/web/20160617205735id_/http%3A//www.modculturemedia.com/info@modculturemedia.com) via the Modculture Media site.
+For further information from us on data protection and privacy or any requests concerning your personal information please [email us](https://web.archive.org/web/20161202163146id_/http%3A//www.modculturemedia.com/info@modculturemedia.com) via the Modculture Media site.
 
 The comments to this entry are closed. 
