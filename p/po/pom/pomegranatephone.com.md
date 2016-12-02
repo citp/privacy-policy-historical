@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pomegranatephone.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621011631id_/http%3A//www.gov.ns.ca/govt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pomegranatephone.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202224609id_/http%3A//www.gov.ns.ca/govt/privacy) for the most accurate reproduction.*
 
 # Nova Scotia Government Website Privacy Policy Statement | novascotia.ca
 
