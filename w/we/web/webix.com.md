@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the webix.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606194521id_/http%3A//webix.com/legalnote/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webix.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202074746id_/http%3A//webix.com/legalnote/privacy-policy) for the most accurate reproduction.*
 
 # JavaScript Library Webix - Privacy Policy
 
-##### (Last updated May 1, 2012)
+##### (Last updated August 25, 2016)
 
 You agree to Webix’s Privacy Policy by using our website. The statements mentioned below concern only the content of Webix website and do not applied to any data collected offline.
 
 ### Information Collected
 
-You may visit our website without identifying yourself or revealing any personal data. If you subscribe to Webix, you should provide only your e-mail address. When buying Webix library you are asked to enter your private data onto a secured page. This data includes your full name, e-mail address, postal address, phone number and credit card information.
+You may visit our website without identifying yourself or revealing any personal data. If you subscribe to Webix blog, you should provide only your e-mail address. When you download trial Webix vercion you are asked to enter your private data. This data includes your full name, e-mail address, company name and position, phone number. We use information that you provide as part of our effort to keep you informed about Webix. When buying Webix library you are asked to enter your private data onto a secured page. This data includes your full name, e-mail address, postal address, phone number and credit card information.
 
 The email address provided by you during the acquisition of a Webix product can be used for sending out information and updates related to your order, as well as service information. If you ’don’t want to receive email notifications from Webix, you can easily unsubscribe from the Webix newsletter. The unsubscribe instructions are placed at the bottom of each email you receive.
 
