@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domaindiscover.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408070151id_/https%3A//www.tierra.net/TOS_current/privacy%3F/%234) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domaindiscover.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202081148id_/https%3A//www.tierra.net/TOS_current/privacy%3F/%234) for the most accurate reproduction.*
 
 # Put Yourself On The Web
 
