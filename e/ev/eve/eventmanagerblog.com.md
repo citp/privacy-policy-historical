@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventmanagerblog.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606203401id_/http%3A//www.eventmanagerblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventmanagerblog.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202170502id_/http%3A//www.eventmanagerblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,6 +45,7 @@
 (c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);  
 (d) to the purchaser (or prospective purchaser) of any business or asset that we are (or are contemplating) selling; and  
 (e) to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.  
+(f) to authorized third parties of sponsored content (including but not limited to EventMB ebooks, reports, webinars) and prior to your express consent to do so when you submit your data  
 5.2 Except as provided in this policy, we will not provide your personal information to third parties.
 
 6\. Security of your personal information  
@@ -85,13 +86,9 @@ this website, for the following purposes:
 12\. Remarketing  
 We may use Google’s remarketing service to target our or third party’s ads to you based on your prior use of the Site when you visit on other sites in Google’s content network.
 
-13\. Data protection registration  
-13.1 We are registered as a data controller with the UK Information Commissioner’s Office.  
-13.2 Our data protection registration number is ZA103416.
+13\. Our details  
+13.1 This website is owned and operated by Social Coup LLC.  
+13.2 We are registered in State of Nevada.  
+13.3 You can contact us by using our website contact form or by email to ‘contact at eventmanagerblog dot com’
 
-14\. Our details  
-14.1 This website is owned and operated by Social Coup Ltd.  
-14.2 We are registered in England and Wales under registration number 07600332.  
-14.4 You can contact us by using our website contact form or by email to ‘contact at eventmanagerblog dot com’
-
-Last reviewed: March 31, 2016
+Last reviewed: July 22, 2016
