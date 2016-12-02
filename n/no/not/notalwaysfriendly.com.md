@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the notalwaysfriendly.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209191350id_/http%3A//notalwaysfriendly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notalwaysfriendly.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202161239id_/https%3A//notalwaysfriendly.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Funny & Unusual Friend & Stranger Stories – Not Always Friendly
+# Privacy Policy Funny & Unusual Friend & Stranger Stories – Not Always Friendly
 
-### [Privacy Policy](http://notalwaysfriendly.com/privacy-policy)
+### [Privacy Policy](https://notalwaysfriendly.com/privacy-policy)
 
 Not Always Friendly is dedicated to maintaining visitor privacy, and therefore we generally do not collect email addresses or names in our submissions, except in the case of special giveaways and contests. In such cases, email addresses are collected only to contact winners. Under no circumstances will we reveal or sell individual visitor information unless required to do so by law.
 
