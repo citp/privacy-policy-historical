@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the shawfloors.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505173354id_/https%3A//shawfloors.com/why-shaw/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shawfloors.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202071550id_/https%3A//shawfloors.com/why-shaw/privacy-policy) for the most accurate reproduction.*
 
 # Why Shaw? | Privacy Policy | Shaw Floors
+
+##### Privacy Policy
 
 Shaw Industries, Inc. is committed to respecting the privacy of all our visitors to our Web Site. We believe it is important you know how we treat the information about you we receive on the Internet. Although we track the total number of visitors to each of our sites in an aggregate form to allow us to update and improve our sites, personally identifiable information is not extracted in this process. 
 
@@ -10,7 +12,7 @@ Shaw Industries does, however, make use of a technology called cookies, in order
 
 Unless otherwise directed, Shaw Industries does collect personal identifiable data, such as names, addresses, e-mail, addresses, and the like, from you. This information is used by Shaw Industries to conduct business with you and is not shared with other organizations for commercial purposes.
 
-Shaw Industries will respond to visitors who send us e-mail to particular addresses, for example, regarding advertising, partnering, or employment opportunities. Shaw Industries will use the information submitted in those e-mail's only to respond to the purpose specified by the sender.
+Shaw Industries will respond to visitors who send us e-mail to particular addresses, for example, regarding advertising, partnering, or employment opportunities. Shaw Industries will use the information submitted in those e-mails only to respond to the purpose specified by the sender.
 
 Shaw Industries does not sell the information gathered on our site to any third parties. All information gathered here will be used only by Shaw Industries for internal marketing analysis and to improve our products, services and web sites including social media sites.
 
@@ -24,4 +26,4 @@ Online security is important to us, so we have taken precautions to make the ent
 
 
 
-Shaw Industries, Inc. 2002-2015. All rights reserved.
+Shaw Industries, Inc. 2002-2016. All rights reserved.
