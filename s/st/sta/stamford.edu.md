@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stamford.edu privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526125109id_/http%3A//www.stamford.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stamford.edu privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203002942id_/http%3A//www.stamford.edu/content/privacy-policy) for the most accurate reproduction.*
 
-# STAMFORD INTERNATIONAL UNIVERSITY
+# Privacy Policy - Stamford International University
 
 The capitalized terms used herein have the same meanings as used in the Terms of Service for this Website, unless otherwise defined herein. This privacy policy forms part of the Agreement and governs how STIU uses Users’ Personal Information (as defined below) on the Website. By using the Website, User consents collection and use of User’s Personal Information, as set out in this Privacy Policy As used herein, the term “Personal Information” means any information that relates to User and that could be used, either directly or indirectly, to identify User.
 
