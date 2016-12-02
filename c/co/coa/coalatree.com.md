@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coalatree.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415113931id_/http%3A//www.coalatree.com/info/privacy-policy/2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coalatree.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202054042id_/http%3A//www.coalatree.com/info/privacy-policy/2) for the most accurate reproduction.*
 
 # Privacy Policy - Coalatree Organics
 
