@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tapinto.net privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430035930id_/https%3A//www.tapinto.net/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapinto.net privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202043444id_/https%3A//www.tapinto.net/pages/privacy-policy) for the most accurate reproduction.*
 
-# Local News NJ & NY | Community, Sports, Police & Fire - TAPinto
+# Privacy Policy - TAPinto
 
 **PRIVACY POLICY**  
 for TAPinto.net
