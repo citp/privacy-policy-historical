@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acuitybrands.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611031305id_/http%3A//www.acuitybrands.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuitybrands.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202121020id_/http%3A//www.acuitybrands.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Personal and Financial Info - Acuity Brands
 
 Effective: November 1, 2011
 
