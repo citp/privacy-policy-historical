@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blacknight.ie privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410160059id_/https%3A//www.blacknight.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacknight.ie privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202090250id_/https%3A//www.blacknight.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Hosting and Domains
 
@@ -15,7 +15,7 @@ Our postal address is:
 
 **1\. Introduction**
 
-We at Blacknight Internet Solutions Ltd respect your right to privacy and comply with our obligations under the Data Protection Acts 1988 and 2002. The purpose of this Website Privacy Policy is to outline how we deal with any personal data you provide to us while visiting this website (*.blacknight.com) . Naturally, if you are not happy with this Website Privacy Policy you should not use this website. 
+We at Blacknight Internet Solutions Ltd respect your right to privacy and comply with our obligations under the Data Protection Acts 1988 and 2002. We are registered with the Irish DPC ([DATA PROTECTION COMMISSIONER](https://www.dataprotection.ie/ "Data Protection Commissioner")) Ref Number: 8053/A. The purpose of this Website Privacy Policy is to outline how we deal with any personal data you provide to us while visiting this website (*.blacknight.com) . Naturally, if you are not happy with this Website Privacy Policy you should not use this website. 
 
 By visiting this website, you are accepting the terms of this Website Privacy Policy. Any external links to other websites are clearly identifiable as such, and we are not responsible for the content or the privacy policies of these other websites. 
 
