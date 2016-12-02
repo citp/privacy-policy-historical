@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the payless.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614114830id_/http%3A//www.payless.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payless.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202234031id_/http%3A//www.payless.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Payless ShoeSource Privacy Policy
 
 As described in this Privacy Policy, Payless values our customers and respects their privacy. In this policy we use 'we' to mean Payless, Inc. We are part of Payless, Inc., details of the other members of the group can be found [here.](http://www.paylesscorporate.com/)
 
-By visiting any part of our web sites (the "site"), you consent to the policies and practices described in this Privacy Policy and the [Terms & Conditions](http://www.payless.com/terms.html) of our sites, which are incorporated herein by reference.
+By visiting any part of our web sites (the "site"), you consent to the policies and practices described in this Privacy Policy and the [Terms & Conditions](https://www.payless.com/terms.html) of our sites, which are incorporated herein by reference.
 
 * * *
 
@@ -114,7 +114,7 @@ We may collect additional information about you from our joint marketing partner
 > 
 > We may capture and record certain information regarding your location and use (also known as “Geo-Location" or "Location-Data") through your store purchase and online or mobile site interactions. This allows us provide you with the services or functionality offered by our programs.
 > 
-> We may link your Geo-Location to other information that you provide to us or that may be accessed in connection with your use of our programs or sites. Our ability to offer certain functionality through our online or mobile application is based on your use and acceptance, which may include associated information to third-parties. Please reference our [Terms & Conditions](http://www.payless.com/terms.html) for more information on the use of our specific programs.
+> We may link your Geo-Location to other information that you provide to us or that may be accessed in connection with your use of our programs or sites. Our ability to offer certain functionality through our online or mobile application is based on your use and acceptance, which may include associated information to third-parties. Please reference our [Terms & Conditions](https://www.payless.com/terms.html) for more information on the use of our specific programs.
 
 * * *
 
@@ -201,7 +201,7 @@ We may use your personal information to contact you if you participate in a swee
 > 
 > #### Legal Requirements & Compliance
 > 
-> We reserve the right to release account and other personal information about you when we believe release is appropriate to comply with the law, in response to legal process and law enforcement requests, to enforce or apply our [Terms & Conditions](http://www.payless.com/terms.html) and other agreements, or to protect our rights, property, safety or other interests those of our parent company, affiliates and shareholders, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+> We reserve the right to release account and other personal information about you when we believe release is appropriate to comply with the law, in response to legal process and law enforcement requests, to enforce or apply our [Terms & Conditions](https://www.payless.com/terms.html) and other agreements, or to protect our rights, property, safety or other interests those of our parent company, affiliates and shareholders, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
 * * *
 
@@ -308,7 +308,6 @@ If you receive home mailings, promotional emails, marketing communications, text
 > 
 > **Online**
 > 
->   * visiting us at <https://www.payless.com/unsubscribe>
 >   * clicking 'Unsubscribe' at the bottom of an email you receive from us
 > 
 
@@ -345,9 +344,7 @@ For any questions, concerns or other request please contact us by:
 **Phone:**
 
   * 1-877-474-6379 (Toll-free in U.S. and Canada)  
-7:30 AM - 12:00 AM CST Monday - Saturday  
-9:30 AM - 12:00 AM CST Sunday  
-
+7:30 AM - 12:00 AM CST Monday - Sunday 
 
 **Mail:**
 
@@ -374,4 +371,4 @@ We reserve the right to change our Privacy Policy as our business changes. If ou
 
 If you would like a permanent record of this privacy policy please print a copy.
 
-Last updated on November 1, 2015.
+Last updated on October 25, 2016.
