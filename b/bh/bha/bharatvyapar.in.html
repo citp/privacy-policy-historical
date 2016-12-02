@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bharatvyapar.in privacy policy that was archived on 2016-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608063031id_/http%3A//www.bharatvyapar.in/Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bharatvyapar.in privacy policy that was archived on 2016-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161202124727id_/http%3A//www.bharatvyapar.in/Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -134,17 +134,7 @@
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
                     <h3 class="modal-title" id="myModalLabel">Post Your Requirement</h3>
                 </div>
-                <meta name="robots">
-<style>
-    .requirements .form-group {
-        margin-bottom: 5px;
-    }
-
-    #ui-id-1.ui-autocomplete {
-        z-index: 9999;
-    }
-</style>
-<script>
+                <script>
     jQuery(document).ready(function ($) {
         $("#redProduct").autocomplete({
             source: function (request, response) {
@@ -163,7 +153,6 @@
             minLength: 1,
             maxRows: 5,
             select: function (event, ui) {
-                //alert("You picked '" + ui.item.label + "' with an ID of " + ui.item.id +" "+this.Value);
                 $('#Productid').val(ui.item.id);
             },
             open: function () {
@@ -226,17 +215,12 @@
 
         $("#sendbtn").click(function (e) {
             if (ValidateInquiry()) {
-                //alert($("#Product").val() + +$("#AppUserID").val() + +$("#Productid").val() + +$("#Requirementdetail").val() + +$("#UserName").val() + +$("#Mobile").val() + +$("#EmailAddress").val());
                 $("#updtImgsend").show();
                 $("#sendbtn").attr("disabled", "disabled");
                 var InquiryDetails = {
                     Product: $('#redProduct').val(),
                     Productid: $('#Productid').val(),
                     Requirementdetail: $('#Requirementdetail').val(),
-                    //Quantity: $('#Quantity').val(),
-                    //QuantityType: $('#QuantityType').val(),
-                    //WantToPurchase: $('#WantToPurchase').val(),
-                    //SaluteType: $('#SaluteType').val(),
                     UserName: $('#UserName').val(),
                     AppUserID: $('#AppUserID').val(),
                     Mobile: $('#Mobile').val(),
@@ -250,78 +234,49 @@
                     data: JSON.stringify(InquiryDetails),
                     contentType: 'application/json; charset=utf-8',
                     success: function (data) {
-                        $("#getInquiry-" + InquiryDetails.ProductId).removeClass('inquiry-btn').addClass("SendInqbtn");
-                        $("#Message").val('');
-                        $("#updtImgsend").hide();
-                        //var loading_dialog = $('#myModal');
-                        //loading_dialog.modal('hide');
-
-                        $("#sendbtn").attr("enable", "enable");
-
-                        $("#sendbtn").removeAttr('disabled');
-                        $("#redProduct").val('');
-                        $("#Requirementdetail").val('');
-
-                        $("#Submit_details").addClass(" in");
-                        document.getElementById('Submit_details').style.display = 'block';
-
-                        $("#ReqClose").click();
-                    }
+                        window.location.replace('http://bharatvyapar.in/Thankyou');
+                      }
                 });
             }
         });
-
-
-
     });
-
 
 </script>
 <div class="modal-body requirements">
 <form action="/Requirement/Requirements" method="post">        <div class="form-group input-group">
             <span class="input-group-addon">I am looking for </span>
-            
             <input type="text" name="Product" id="redProduct" placeholder="Product Name / Service" required="required" class="form-control typeahead">
-            
             <input type="hidden" id="AppUserID" name="AppUserID" value="">
-            <input type="hidden" id="Productid" name="Productid" aria-required="false" value="0">
+            <input type="hidden" id="Productid" name="Productid" value="0">
 
         </div>
         <div class="form-group">
             <h4>Requirement in detail</h4>
             <textarea name="Requirementdetail" id="Requirementdetail" class="form-control" placeholder="Enter Product Specification / Usage" rows="3"></textarea>
-            
         </div>
-        <label id="validateMessage" style="display: none; color: red;" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">Please enter your requirement</label>
+        <label id="validateMessage" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 display_none">Please enter your requirement</label>
         <h4>Your Contact Details :</h4>
         <div class="form-group input-group">
             <span class="input-group-addon"><i class="fa fa-user"></i></span>
             <input type="text" name="UserName" id="UserName" class="form-control" required="required" placeholder="Enter Your Name" value="">
-            
         </div>
-        <label id="validateName" style="display: none; color: red;" class="label col-xs-12 col-sm-12 col-md-12 col-lg-12">Please enter your Name</label>
+        <label id="validateName" class="label col-xs-12 col-sm-12 col-md-12 col-lg-12 display_none">Please enter your Name</label>
         <div class="form-group input-group">
             <span class="input-group-addon"><i class="fa fa-phone"></i></span>
             <input type="text" name="Mobile" id="Mobile" class="form-control" placeholder="Enter Your Mobile Number" value="" required="required">
-            
-
         </div>
-        <label id="validateMobile" style="display: none; color: red;">Please enter your Mobile</label>
-        <label id="validateMobileVal" style="display: none; color: red;">Please enter valid mobile number</label>
+        <label id="validateMobile" class="display_none">Please enter your Mobile</label>
+        <label id="validateMobileVal" class="display_none">Please enter valid mobile number</label>
         <div class="form-group input-group">
             <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-            <input type="text" name="Mobile" id="EmailAddress" required="required" placeholder="Enter Your Email-id" value="" onblue="Getdetialbyemail" class="form-control">
-            
+            <input type="text" name="Mobile" id="EmailAddress" required="required" placeholder="Enter Your Email-id" value="" onchange="Getdetialbyemail" class="form-control">
         </div>
-        <label id="validateEmail" style="display: none; color: red;">Please enter your valid Email-Address</label>
+        <label id="validateEmail" class="display_none">Please enter your valid Email-Address</label>
 </form></div>
 <div class="modal-footer">
     <button type="button" class="btn btn-green" id="ReqClose" data-dismiss="modal">Close</button>
     <button type="button" id="sendbtn" class="btn btn-green">Send</button>
 </div>
-
-
-
 <script>
     jQuery(document).ready(function ($) {
         $('#EmailAddress').blur(function () {
@@ -366,7 +321,6 @@
                 });
             }
         });
-
     });
 </script>
 
@@ -391,11 +345,7 @@
         </div>
     </div>
 
-    <style>
-    #ui-id-2 {
-        z-index: 1000;
-    }
-</style>
+    
 <script>
     function deletecook() {
         var cookies = document.cookie.split(";");
@@ -423,12 +373,12 @@
 </script>
 
 <script type="application/javascript">
-    $(document).ready(function () {
-        $.post("http://ip-api.com/json", function (data, status) {
-            //alert("Data: " + data.city + "\nStatus: " + status);
-            $("#scityname").html(data.city);
-        });
-    });
+    //$(document).ready(function () {
+    //    $.post("http://ip-api.com/json", function (data, status) {
+    //        //alert("Data: " + data.city + "\nStatus: " + status);
+    //        $("#scityname").html(data.city);
+    //    });
+    //});
 
     $(document).ready(function () {
         var url = window.location.href;
@@ -528,13 +478,13 @@
                 </div>
 
                 <div class="col-md-6 col-sm-6 col-xs-12 user-account text-right">
-                    <a href="http://admin.bharatvyapar.in/login">Login</a>&nbsp;|&nbsp;
-                    <a href="http://admin.bharatvyapar.in/signup">Registration</a>&nbsp;&nbsp;&nbsp;&nbsp;
-                    <a href="https://www.facebook.com/pages/Bharat-Vyapar/704490466307279" target="_blank"><i class="fa fa-facebook"></i></a>&nbsp;&nbsp;
-                    <a href="https://twitter.com/bharatvyapar" target="_blank"><i class="fa fa-twitter"></i></a>&nbsp;&nbsp;
-                    <a href="https://www.pinterest.com/bharatvyapar/" target="_blank"><i class="fa fa-pinterest"></i></a>&nbsp;&nbsp;
-                    <a href="https://www.youtube.com/channel/UCD2N9l1XrNFx_MuMkrehBsw/" target="_blank"><i class="fa fa-youtube-square"></i></a>&nbsp;&nbsp;
-                    <a href="https://plus.google.com/u/0/+BharatvyaparIn/posts" target="_blank"><i class="fa fa-google-plus"></i></a>
+                    <a href="http://admin.bharatvyapar.in/login" rel="nofollow">Login</a>&nbsp;|&nbsp;
+                    <a href="http://admin.bharatvyapar.in/signup" rel="nofollow">Registration</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="https://www.facebook.com/bharatvyaparb2b" target="_blank" rel="nofollow"><i class="fa fa-facebook"></i></a>&nbsp;&nbsp;
+                    <a href="https://twitter.com/bharatvyapar" target="_blank" rel="nofollow"><i class="fa fa-twitter"></i></a>&nbsp;&nbsp;
+                    <a href="https://www.pinterest.com/bharatvyapar/" target="_blank" rel="nofollow"><i class="fa fa-pinterest"></i></a>&nbsp;&nbsp;
+                    <a href="https://www.youtube.com/channel/UCD2N9l1XrNFx_MuMkrehBsw/" target="_blank" rel="nofollow"><i class="fa fa-youtube-square"></i></a>&nbsp;&nbsp;
+                    <a href="https://plus.google.com/u/0/+BharatvyaparIn/posts" target="_blank" rel="nofollow"><i class="fa fa-google-plus"></i></a>
                 </div>
                 <!--<div class="clear"></div>-->
             </div>
@@ -557,7 +507,7 @@
                             <i class="fa fa-list"></i>
                         </a>
                         <div class="pull-right requireBtn">
-                            <a id="inqbtnnew1" style="cursor: pointer;" class="postBtn defaultButton">Post Buy Requirements</a>
+                            <a id="inqbtnnew1" class="postBtn defaultButton cursor_pointer">Post Buy Requirements</a>
                         </div>
                     </div>
                     <div class="pull-right requireBtn">
@@ -568,10 +518,12 @@
                                     <li class="active"><a href="http://www.bharatvyapar.in/">Home</a></li>
                                     <li><a href="http://admin.bharatvyapar.in/login">Suppliers</a></li>
                                     <li><a href="http://admin.bharatvyapar.in/login">Buyers</a></li>
+                                    <li class="active"><a href="http://www.bharatvyapar.in/Blog">Blog</a></li>
                                     <li class="desktophide"><a href="http://admin.bharatvyapar.in/login">Login</a></li>
                                     <li class="desktophide"><a href="http://admin.bharatvyapar.in/signup">Register</a></li>
                                     <li><a href="http://www.bharatvyapar.in/contactus">Contact Us</a></li>
-                                    <li><a id="inqbtnnew" class="postBtn defaultButton">Post Buy Requirement</a></li>
+                                    <li><a id="inqbtnnew" onclick="ModelPopupOpen();" class="postBtn defaultButton cursor_pointer">Post Buy Requirement</a></li>
+                                   
                                 </ul>
                             </div>
                             <!--/.nav-collapse -->
@@ -589,10 +541,6 @@
                     </div>
                     <div class="clear"></div>
                 </div>
-
-
-               
-                <!-- /.main-menu -->
             </div>
         </div>
         <!-- /.container -->
@@ -702,23 +650,11 @@
         <div class="col-md-4 col-sm-4 col-xs-12">
 <div class="sidebar noBottomPadding">
     <h3 class="sidebar-title">Latest Leads</h3>
-        <div role="tabpanel" class="tab-pane active" id="sales">
-                <div class="lead-post">
-                    <a>Solar Lantern Cashing</a>
-                    <p>May 20 2016  7:02PM</p>
-                </div>
-            <div class="lead-post-readmore" style="margin-bottom:3px;">
-                <a href="http://admin.bharatvyapar.in/login">
-                    <h4>View All</h4>
-                </a>
-            </div>
-
-        </div>
 </div>
             <div class="sidebar">
     <h3 class="sidebar-title">We are on social</h3>
     <div class="socialLinks">
-        <a href="https://www.facebook.com/pages/Bharat-Vyapar/704490466307279" target="_blank" title="Facebook"><i class="fa fa-facebook-square"></i></a>
+        <a href="https://www.facebook.com/bharatvyaparb2b" target="_blank" title="Facebook"><i class="fa fa-facebook-square"></i></a>
         <a href="https://twitter.com/bharatvyapar" target="_blank" title="Twitter"><i class="fa fa-twitter-square"></i></a>
         <a href="https://www.pinterest.com/bharatvyapar/" target="_blank" title="Pinterest"><i class="fa fa-pinterest-square"></i></a>
         <a href="https://www.youtube.com/channel/UCD2N9l1XrNFx_MuMkrehBsw/" target="_blank" title="Youtube Square"><i class="fa fa-youtube-square"></i></a>
@@ -745,7 +681,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 footerPart">
-                    <img class="img-responsive" src="/AppNew_Themes/images/flogo.png" width="164" height="60" alt="BharatVypar.in nayi soch naya vyapar">
+                    <img class="img-responsive" src="/css_js/images/logo.png" width="164" height="60" alt="BharatVypar.in nayi soch naya vyapar">
                     <p>Bharat Vyapar is India's leading B2B directory for Indian Manufacturers, Indian Suppliers, Exporters, Wholesalers and for Small &amp; Medium Businesses.</p>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6 col-xs-12 footerPart">
@@ -761,8 +697,8 @@
                 <div class="col-lg-2 col-md-3 col-sm-6 col-xs-12 footerPart">
                     <h4>Buy On Bharat Vyapar</h4>
                     <ul class="footerMenu">
-                        <li><a href="http://www.bharatvyapar.in/feedback">Get quotations</a></li>
-                        <li><a href="http://www.bharatvyapar.in/feedback">Find local sellers</a></li>
+                        <li><a href="http://www.bharatvyapar.in/GetQuotations">Get quotations</a></li>
+                        <li><a href="http://www.bharatvyapar.in/LocalSellers">Find local sellers</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6 col-xs-12 footerPart">
@@ -817,7 +753,19 @@
     
 
     
-    <script src="/bundles/jquery?v=JirSu_aYgjrg9ID3jhumx40AnvRh3EEDe3SrnJSYbAU1"></script>
+    <script src="/bundles/jquery?v=Kjvmj6HiMcRp4dB2YD4tHT5bQYVghvk_D5NddMD0o3Q1"></script><div id="sidr-main" class="sidr right"><div class="sidr-inner">
+                                <ul class="sidr-class-nav sidr-class-navbar-nav">
+                                    <li class="sidr-class-active"><a href="http://www.bharatvyapar.in/">Home</a></li>
+                                    <li><a href="http://admin.bharatvyapar.in/login">Suppliers</a></li>
+                                    <li><a href="http://admin.bharatvyapar.in/login">Buyers</a></li>
+                                    <li class="sidr-class-active"><a href="http://www.bharatvyapar.in/Blog">Blog</a></li>
+                                    <li class="sidr-class-desktophide"><a href="http://admin.bharatvyapar.in/login">Login</a></li>
+                                    <li class="sidr-class-desktophide"><a href="http://admin.bharatvyapar.in/signup">Register</a></li>
+                                    <li><a href="http://www.bharatvyapar.in/contactus">Contact Us</a></li>
+                                    <li><a id="sidr-id-inqbtnnew" onclick="ModelPopupOpen();" class="sidr-class-postBtn sidr-class-defaultButton sidr-class-cursor_pointer">Post Buy Requirement</a></li>
+                                   
+                                </ul>
+                            </div></div><div id="sidr-main2" class="sidr left"><div class="sidr-inner">undefined</div></div>
 
     
     <a href="javascript:" id="return-to-top"><i class="fa fa-angle-up"></i></a>
