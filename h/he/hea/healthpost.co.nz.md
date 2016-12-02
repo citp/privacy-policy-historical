@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthpost.co.nz privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608100330id_/http%3A//www.healthpost.co.nz/customer-service/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthpost.co.nz privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202194323id_/http%3A//www.healthpost.co.nz/customer-service/privacy-security) for the most accurate reproduction.*
 
 # Online Privacy & Security Policy | HealthPost NZ
 
@@ -100,9 +100,11 @@ No method of transmission over the Internet, or method of electronic storage, is
 
 Please ensure you sign out when you have finished visiting www.healthpost.co.nz, especially if you access our website from a shared computer.
 
-We use Payment Express to process all credit card payments. For more info, please refer to their [ privacy policy.](http://www.paymentexpress.com/about/about_paymentexpress/privacy_policy.html)
+We use Payment Express to process all credit card payments. For more info, please refer to their [privacy policy.  
+](http://www.paymentexpress.com/about/about_paymentexpress/privacy_policy.html)
 
-[](http://www.paymentexpress.com/ "visit Payment Express website")
+[  
+](http://www.paymentexpress.com/about/about_paymentexpress/privacy_policy.html)
 
 #### **Linking to Third-Party Websites**
 
