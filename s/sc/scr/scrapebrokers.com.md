@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrapebrokers.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516104147id_/http%3A//scrapebrokers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapebrokers.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202071703id_/http%3A//scrapebrokers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ScrapeBrokers - Your buddy in a mad SEO World
 
@@ -57,7 +57,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below or the [**helpdesk**](http://www.scrapebrokers.com/support)
 
-http://scrapebrokers.com
+> [ScrapeBrokers Proven SEO Resources:](https://scrapebrokers.com/)
 
 United Kingdom  
 contact@scrapebrokers.com
