@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the motherearthliving.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323232924id_/http%3A//www.motherearthliving.com/help/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherearthliving.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202204045id_/https%3A//www.motherearthliving.com/store/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-## Ogden Publications, Inc. Privacy Policy
+# Mother Earth Living - Privacy Policy
 
 Ogden Publications, Inc. (collectively referred to in this Privacy Statement as "we," "us," or "Ogden Publications, Inc.") recognize the importance of protecting the privacy of all information provided by users of our websites, subscribers to our magazines, registrants for our events, recipients of our e-mail newsletters and all of our customers. We created this policy with a fundamental respect for our users’ right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by Ogden Publications, Inc. A current list of our publications, websites, and products can be found at <http://www.ogdenpubs.com/>.
 
@@ -24,7 +22,7 @@ If users wish to subscribe to our email messages, we ask for contact information
 
 **Onsite**
 
-We may also automatically collect non-personally identifiable information when you visit our website, such as online behavior and your computer, mobile or other device. The information collected may include, without limitation, the make, model, settings, specifications (e.g., CPU speed, connection speed, browser type, operating system, device identifier) and geographic location of you and/or your computer, mobile or other device, as well as date/time stamp, IP address, pages visited, time of visits, content viewed, ads viewed, the site(s), application(s), destination(s), and/or service(s) you arrived from, and other clickstream data. 
+We may also automatically collect non-personally identifiable information when you visit our website, such as online behavior and your computer, mobile or other device. The information collected may include, without limitation, the make, model, settings, specifications (e.g., CPU speed, connection speed, browser type, operating system, device identifier) and geographic location of you and/or your computer, mobile or other device, as well as date/time stamp, IP address, pages visited, time of visits, content viewed, ads viewed, the site(s), application(s), destination(s), and/or service(s) you arrived from, and other clickstream data.
 
 **Sweepstakes, Giveaways, Contests, Surveys, and Other Promotions**
 
@@ -36,7 +34,7 @@ At some of our sites, we offer interactive and community features such as discus
 
 **Email This Article**
 
-If users elect to use our referral service for informing a friend about our articles, sites and services, we may ask them for the friend's name and email address. Ogden Publications, Inc. will store and use this information to send the friend an invitation. This information may also be used to provide information about our company and related products and services. The friend may contact us as specified in the subsequent message to request that no further communications be sent. 
+If users elect to use our referral service for informing a friend about our articles, sites and services, we may ask them for the friend's name and email address. Ogden Publications, Inc. will store and use this information to send the friend an invitation. This information may also be used to provide information about our company and related products and services. The friend may contact us as specified in the subsequent message to request that no further communications be sent.
 
 **Communications with Us**
 
@@ -119,4 +117,4 @@ Corporate Communications
 Ogden Publications, Inc.  
 1503 SW 42nd Street  
 Topeka, KS 66609  
-785-274-4300 
+785-274-4300
