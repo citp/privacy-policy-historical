@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thevaluestore.in privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407135935id_/http%3A//www.thevaluestore.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevaluestore.in privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202192604id_/http%3A//www.thevaluestore.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
