@@ -1,69 +1,75 @@
-> *The following text is extracted and transformed from the state.va.us privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214230055id_/http%3A//www.state.va.us/portal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.va.us privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202163326id_/https%3A//www.virginia.gov/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Internet Privacy Policy - Commonwealth of Virginia
 
-**Virginia Information Providers Network Authority**
+### Information we collect and how we use it
 
-**Privacy Statement**
+The following information explains the Internet Privacy Policy and practice for the Virginia.gov website, but shall not be interpreted as a contract of any nature, either stated or implied. We reserve the right to amend our Internet Privacy Policy statement at any time without notice. Note that this policy only applies to pages on the [virginia.gov](https://virginia.gov/) website. The website has links to those operated by other government agencies, nonprofit organizations and private businesses. When you move via such links to another website, this policy will not apply.
 
-Data Collection | Cookies | Live Help Privacy | Child Privacy Act |   
-Contact Us
+Date of last revision: Sept. 23, 2016
 
-The following represents practices and procedures of the Virginia Information Providers Network (VIPNet) Authority as approved by its Board of Directors. The VIPNet Authority reserves the right to change these practices and procedures at any time without prior notice. The following is not intended and should not be interpreted as a contract of any nature, either stated or implied.
+If you have questions about this privacy statement or the practices of this website, please contact us at [virginiawebmaster@vita.virginia.gov](mailto:virginiawebmaster@vita.virginia.gov).
 
-Individuals who visit the Virginia Information Providers Network are important to us. Because visitors to our Web site are important, we do not capture personal information about them without their permission. We endeavor to ensure that we collect only the minimum amount of information needed to meet the purpose for which the network was created. 
+### Protection of information via established security procedures
 
-VIPNet may be required to collect personal information, such as a user's name and address, because of legal requirements or in order to provide customer services. In doing so we are subject to the requirements for administering information systems as established in the Virginia Privacy Protection Act, Chapter 26 of Title 2.1 of the _Code of Virginia_. Pages that appear after you click on a link may be controlled by a different agency or entity, whose practices are not under the VIPNet Authority's control.
+We maintain security standards and procedures to prevent unauthorized removal or alteration of data, to ensure that this service remains available to all users, and to prevent unauthorized attempts to upload or change information or otherwise cause damage.
 
-We do collect personal information directly from individuals who volunteer to subscribe to one or more of VIPNet’s premium services. Collecting personal information is necessary in order for VIPNet to deliver the services requested. 
+**WARNING** : Unauthorized attempts to modify any information on this website, to defeat or circumvent security features or to utilize this system for other than its intended purposes are prohibited and may result in criminal prosecution. Information on attempts to circumvent security measures will be traced and released to the appropriate legal authorities (such as the Virginia State Police) to investigate suspected or alleged criminal activity.
 
-Fostering and maintaining the public's trust is a cornerstone of VIPNet. We appreciate the trust and confidence that you place in us by providing requested personal information. 
+* * *
 
-**_Use, collection, and retention of customer information at the Virginia Information Providers Network_**
+## Virginia.gov Internet Privacy Policy
 
-For each visitor, we collect information about the Internet Protocol (IP) address, type of browser used, the date and time of the visit, and the IP addresses of the locations to which the visitor linked during his or her visit to our Web site. This information is strictly used for statistical reporting purposes. 
+### Virginia law
 
-We collect, retain and use personal information about our customers, other than mentioned above, only when they volunteer to subscribe to a VIPNet premium service. We only collect, retain and use personal information where we believe it is essential (and allowed by law) to administer our business and to provide products, services and other opportunities requested by our customers.
+We protect our records in accordance with our obligations as defined by applicable Virginia statutes, including, but not limited to, the “Government Data Collection and Dissemination Practices Act,” Chapter 38 of Title 2.2 of the Code of Virginia (§ 2.2-3800 and 2.2-3803), “Administration of systems including personal information; Internet privacy policy; exceptions” Code of Virginia, § 2.2-3803, the “Virginia Freedom of Information Act” § 2.2-3700, et seq., and by any applicable U.S. federal laws. Any personal information that is collected and retained is maintained in compliance with statute.
 
-**_Use of "Cookies"_**
+### Information we collect
 
-"Cookies" are small files either stored on a server or sent back to a visiting computer. In certain applications user information is stored as "cookies" of the type that are then sent back and stored on the user's computer. Any application or web page that uses cookies will identify itself as such. This information is handled in the same way as other user information obtained by VIPNet. No user information is gathered through cookies except for that needed to run the specific application.
+We collect only the minimum amount of information needed to provide services. If you do nothing during your visit to the [virginia.gov](https://virginia.gov/) website but browse or download information, we automatically collect and store the following information about your visit:
 
-**_Restrictions on the disclosure of customer information_**
+  1. The Internet domain and IP address from which you accessed our site;
+  2. The type of browser and operating system you used;
+  3. The date and time you visited this site;
+  4. The pages visited; and
+  5. If you arrived from another website, the address of that website.
 
-We do not sell or rent our subscribers’ information to any outside company or organization. We do not reveal specific information about subscribers or other personally identifiable data to unaffiliated third parties for their independent use, except if required to do so by the Virginia Freedom of Information Act or other law.
 
-**_Protection of information via established security procedures_**
 
-We maintain security standards and procedures regarding unauthorized access to customer information to prevent unauthorized removal or alteration of data. 
+The information in our web logs is not personally identifiable, and no attempt is made to link it with the individuals that browse our website.
 
-**_Maintenance of accurate information_**
+If, during your visit, you send us an e-mail message, we will collect the e-mail address and contents of the message, including audio, video and graphic information formats you send us. This may be to respond to you, to address issues you identify, to further improve our website or to forward your message to another agency for appropriate action.
 
-We have established procedures to ensure that information is as accurate and current as is practical to enable us to conduct business with you. Although we strive to do things right the first time, we also respond to requests to correct inaccurate information in a timely manner.
+We do collect personal information directly from individuals who volunteer to complete forms or participate in surveys, in order to deliver the services requested. We only collect, retain and use personal information where we believe it is essential to administer our business and to provide products, services and other opportunities requested by our customers.
 
-**_Limiting employee access to information_**
+### How the collected information is used
 
-Our network manager is instructed to limit employee access to personally identifiable information to only those employees who need access in order to perform their assigned duties. The network manager is instructed to enforce with its staff their responsibilities in protecting subscriber’s information.
+Your input is used to improve the content of our web services and to help us understand how people are using our pages. Routing information is used to send requested web pages to your computer for viewing. Transaction routing information is used primarily in a statistical summary format to assess content and server performance. We may share this summary information with our business partners when needed.
 
-**_Privacy issues relating to the Federal Child Privacy Act_**
+We may keep your information indefinitely, but we ordinarily delete routing information regularly after the web page is transmitted. However, on rare occasions when a “hacker” attempts to breach computer security, logs and any other relevant information in our possession may be shared with law enforcement agencies.
 
-The Federal Child Privacy Act regulates Web site's collection of personal information on users under 18 years of age. We do not intentionally collect such information on anyone we know to be under 18 years of age. If such information is inadvertently obtained, the minor's parent or legal guardian may [contact VIPNet](mailto:customerservice@vipnet.org) for a description of the specific types of personal information collected from the child and the options available to them under [law](http://www4.law.cornell.edu/uscode/15/ch91.html#PC91) to ensure their child's safety.
+Optional information is retained in accordance with the records retention schedule at the Library of Virginia.
 
-**_Privacy issues relating to the Live Chat service_**
+Under the “Virginia Freedom of Information Act” (FOIA), any records in our possession at the time of a “Freedom of Information Request” might be subject to inspection by or disclosure to members of the public. However, identifiable personal information will be removed prior to such release in accordance with FOIA.
 
-The Live Chat service is the My Virginia portal's live customer service application that allows visitors to talk with customer service representatives in real-time. Certain information is collected and maintained in regards to the Live Chat service. In addition to IP address, browser type, date and time of the visit, and the referring web page, transcripts of the chats are saved for statistical, demographic, and/or customer service purposes. Some information is also collected through chat surveys on a volunteer basis. 
+### Restrictions on the disclosure of customer information
 
-**_Changes_**
+We do not sell or rent our subscribers’ information to any outside company or organization. We do not reveal specific information about users or other personally identifiable data to unaffiliated third parties for their independent use, except if required to do so by FOIA or other law.
 
-VIPNet reserves the right to change this privacy policy as necessary. 
+### Cookies
 
-**_Contact us_**
+“Cookies” are small files either stored on a server or sent back to a visiting computer. In certain applications user information is stored as cookies, which are then sent back to and stored on the user’s computer. Some sections of the website use cookies to customize the information presented to you. Cookies are also used to aggregate site usage information to help us improve our users’ experience.
 
-We welcome your comments and invite you to contact us if you have any questions or concerns by contacting us:
+### Copyright
 
-Virginia Information Providers Network Authority  
-ATTN: Christopher Doss  
-110 South 7th Street, Suite 135   
-Richmond, VA 23219  
-or  
-[CDoss@VipnetBoard.state.va.us](mailto:%20CDoss@VipnetBoard.state.va.us)
+The copyright to the [virginia.gov](https://virginia.gov/) website is owned by the Commonwealth of Virginia and pages are marked with the notice “© Commonwealth of Virginia.” Permission is granted to website visitors to make fair use of the contents, as per <http://www.copyright.gov/fls/fl102.html>. If you are in doubt about whether your use constitutes fair use, please send a request for explicit permission to copy the contents by emailing [virginiawebmaster@vita.virginia.gov](mailto:virginiawebmaster@vita.virginia.gov).
+
+### Linking Policy
+
+This website contains links to external websites and pages containing information created and maintained by public and private organizations. The inclusion of a link to an external website is not intended as an endorsement of any product or service offered or referenced on the linked website, the organizations sponsoring said website, or any views that might be expressed or referenced in the website. Links to external websites and pages may be removed or replaced at any time without notice.
+
+### Disclaimer
+
+Neither the Commonwealth of Virginia nor any state employee warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or outdated. Any person or entity that relies on any information obtained from this system does so at his or her own risk.
+
+Reference herein to any specific commercial products, processes or services by trade name, trademark, manufacturer or other mark does not constitute or imply its endorsement, recommendation or favoring by the Commonwealth of Virginia. The information and statements contained on this site shall not be used for the purposes of advertising, nor to imply the endorsement or recommendation of the Commonwealth of Virginia.
