@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pa.gov privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622135121id_/http%3A//www.pa.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pa.gov privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203005646id_/http%3A//www.pa.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PA.GOV
+
+#### Please note: The commonwealth’s online privacy policy will be updated on January 4, 2017. View the new policy ([PDF](https://www.scribd.com/document/333009542/20170104-Updated-Privacy-Policy)).
 
 ### PRIVACY POLICY
 
