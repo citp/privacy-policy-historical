@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativekkids.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618192003id_/http%3A//creativekkids.com/adsense-privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativekkids.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202112033id_/http%3A//creativekkids.com/adsense-privacy-policy-2) for the most accurate reproduction.*
 
 # Adsense Privacy Policy - Creative K Kids
 
