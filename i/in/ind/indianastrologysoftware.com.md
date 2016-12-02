@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianastrologysoftware.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619224444id_/https%3A//www.indianastrologysoftware.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianastrologysoftware.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202155316id_/https%3A//www.indianastrologysoftware.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - IndianAstrologySoftware.com
 
@@ -73,10 +73,12 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 This astrology software suite is a combination of 8 different astrology software products, ideal for business users.
 
+[](http://www.indianastrologysoftware.com/business/astrology-software-suite.php)
+
 ### This Astrology Software Suite Contains:
 
   * Lifesign 14.0 
-  * SoulMate 10.0 
+  * SoulMate 11.0 
   * GemFinder 11.0 
   * YearGuide 3.0 
   * DigiTell 9.0 
@@ -92,9 +94,13 @@ This astrology software suite is a combination of 8 different astrology software
 
 Get A Quote
 
+[Know More](http://www.indianastrologysoftware.com/business/astrology-software-suite.php)
+
 ## StarClock ME Ultimate
 
 This mobile astrology software includes Horoscope Matching,Prasna, Muhurtha and lots more. Available in Android and Java.
+
+[](http://www.indianastrologysoftware.com/professional/mobile-astrology-software-ultimate.php)
 
 ### Key Features: 
 
@@ -112,6 +118,8 @@ This mobile astrology software includes Horoscope Matching,Prasna, Muhurtha and 
 *Requires Android 2.2 & above
 
 Get A Quote
+
+[Know More](http://www.indianastrologysoftware.com/professional/mobile-astrology-software-ultimate.php)
 
 ## Like us on Facebook
 
