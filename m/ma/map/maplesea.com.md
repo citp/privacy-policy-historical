@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the maplesea.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329150704id_/http%3A//www.playpark.com/sg/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maplesea.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202174203id_/http%3A//www.playpark.com/sg/page/privacy) for the most accurate reproduction.*
 
 # PlayPark Privacy Policy
+
+* * *
 
 * * *
 
@@ -172,3 +174,6 @@ If you have any questions or concerns about our privacy policies, please contact
 * * *
 
 [Back to Support Page](http://support.playpark.com/en)
+
+  
+
