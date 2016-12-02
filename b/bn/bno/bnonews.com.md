@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bnonews.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628233516id_/http%3A//bnonews.com/news/index.php/news/id260) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnonews.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202010921id_/http%3A//bnonews.com/news/index.php/news/id260) for the most accurate reproduction.*
 
 # Privacy Policy - BNO News
 
