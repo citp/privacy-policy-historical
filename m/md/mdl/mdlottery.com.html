@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mdlottery.com privacy policy that was archived on 2016-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606193759id_/http%3A//www.mdlottery.com/about-us/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mdlottery.com privacy policy that was archived on 2016-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161202225618id_/http%3A//www.mdlottery.com/about-us/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -19,6 +19,8 @@
 <script type="text/javascript" src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
 <script type="text/javascript" src="http://js.mdlottery.com/wp-content/themes/MDL_2014/js/jquery.cookie.js"></script>
 <script type="text/javascript" src="https://code.createjs.com/createjs-2015.11.26.min.js"></script>
+<script type="text/javascript" src="/wp-content/themes/MDL_2014/js/iframeResizer.min.js"></script>
+
 <script type="text/javascript">
 var is_firefox = navigator.userAgent.toLowerCase().indexOf('firefox') > -1;
 console.log(is_firefox);
@@ -391,19 +393,48 @@ $(document).ready(function() {
 <script type="text/javascript">
 
 
-var powerball_jackpot_num = '$123';
+var powerball_jackpot_num = '$54';
+var powerball_jackpot = parseInt(powerball_jackpot_num.substring(1));
+var powerball_threshold_num = '$150';
+var powerball_threshold = parseInt(powerball_threshold_num.substring(1));
 var powerball_jackpot_type = 'MILLION';
-var powerball_drawing_date = 'Wednesday, 06/08/2016';
+var powerball_drawing_date = 'Saturday 12/03/2016';
 
 
-var megamillions_jackpot_num = '$260';
+var megamillions_jackpot_num = '$30';
+var megamillions_jackpot = parseInt(megamillions_jackpot_num.substring(1));
+var megamillions_threshold_num = '$100';
+var megamillions_threshold = parseInt(megamillions_threshold_num.substring(1));
 var megamillions_jackpot_type = 'MILLION';
-var megamillions_drawing_date = 'Tuesday, 06/07/2016';
+var megamillions_drawing_date = 'Friday 12/02/2016';
 
 
-var multimatch_jackpot_num = '$625,000';
+var multimatch_jackpot_num = '$800,000';
+var multimatch_jackpot = parseInt(multimatch_jackpot_num.substring(1));
+var multimatch_threshold_num = '$900';
+var multimatch_threshold = parseInt(multimatch_threshold_num.substring(1));
 var multimatch_jackpot_type = '';
-var multimatch_drawing_date = 'Monday, 06/06/2016';
+var multimatch_drawing_date = 'Monday 12/05/2016';
+
+
+$(document).ready(function(e) {
+	
+	if(multimatch_jackpot < multimatch_threshold && multimatch_jackpot_type == "THOUSAND") {
+		console.log('Removed Multimatch Slide');
+		$('.soliloquy-id-36119-multimatchjackpot').remove();
+	}
+	
+	if(megamillions_jackpot < megamillions_threshold) {
+		console.log('Removed Megamillions Slide');
+		$('.soliloquy-id-36119-megamillionsjackpot').remove();
+	}
+	
+	if(powerball_jackpot < powerball_threshold) {
+		console.log('Removed Powerball Slide: ' + powerball_jackpot + ' < ' + powerball_threshold);
+		$('.soliloquy-id-36119-powerballjackpot').remove();
+	}
+
+});
 </script>
 <script type="text/javascript">
   var disqus_developer = 1; 
@@ -423,18 +454,27 @@ function trackSoliloquy(link)
 
 function trackInternalLink(link, category, action) 
 {
+	try { ga('send', 'event', category, action, link); } catch(err){}
 	try { _gaq.push(['_trackEvent', category , action]); } catch(err){}
 	window.location = link.href;
 }
 
 function trackOutboundLink(link, category, action) 
 {
+	try { ga('send', 'event', category, action, link); } catch(err){}
 	try { _gaq.push(['_trackEvent', category , action]); } catch(err){}
 	window.open(link.href);
 }
 
 $(document).ready(function(){ 
 
+	$('iframe.autoSize').iFrameResize( {
+		checkOrigin:false,
+	 	resizedCallback:function(messageData){
+         	$('html,body').scrollTop(0);
+        }
+		} );
+	
   $('.video-popup').magnificPopup({type:'iframe'});
   
 	/* remove wordpress width and height from images in a post */
@@ -553,7 +593,8 @@ $(document).ready(function(){
 <li id="menu-item-27909" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-27909"><a href="http://www.mdlottery.com/winners/">Winners</a>
 <ul class="sub-menu">
 	<li id="menu-item-28047" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28047"><a href="http://www.mdlottery.com/winners/how-to-claim/">How to Claim</a></li>
-	<li id="menu-item-31914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31914"><a href="http://www.mdlottery.com/winners/xcap/">Expanded Cashing Authority Program – By City</a></li>
+	<li id="menu-item-31914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31914"><a href="http://www.mdlottery.com/winners/xcap/">Expanded Cashing Authority Program – By City &amp; By Retailer</a></li>
+	<li id="menu-item-55140" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55140"><a href="https://rewards.mdlottery.com/drawings">Second Chance Drawings</a></li>
 </ul>
 </li>
 <li id="menu-item-27839" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-27839"><a href="http://www.mdlottery.com/mdlottery-tv/">MDLottery TV</a>
@@ -565,9 +606,9 @@ $(document).ready(function(){
 	<li id="menu-item-27867" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27867"><a href="http://www.mdlottery.com/mdlottery-tv/how-to-play/">Winners</a></li>
 </ul>
 </li>
-<li id="menu-item-27840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-27840"><a href="http://www.mdlottery.com/retailercorner/">Retailer Corner</a>
+<li id="menu-item-27840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-27840"><a target="_blank" href="http://www.mdlottery.com/retailercorner/">Retailer Corner</a>
 <ul class="sub-menu">
-	<li id="menu-item-36017" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36017"><a href="http://www.mdlottery.com/veterans/">Veterans</a></li>
+	<li id="menu-item-36017" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36017"><a target="_blank" href="http://www.mdlottery.com/veterans/">Veterans</a></li>
 </ul>
 </li>
 <li id="menu-item-27841" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-27841"><a href="http://www.mdlottery.com/about-us/">About Us</a>
@@ -813,37 +854,37 @@ $(document).ready(function(e) {
     	<a href="/games/multi-match"><img src="http://cdn.mdlottery.com.s3.amazonaws.com/_theme_assets/images/game_logos/multi_match.png" alt="Multi-Match"></a>
     </div>
    <div class="info">
-        <h3><span style="color:#999999;">$625,000</span> </h3>
+        <h3><span style="color:#999999;">$800,000</span> </h3>
     </div> 
     <div class="date">
-   	 	Next Drawing: Mon 06/06/2016    </div>
+   	 	Next Drawing: Mon 12/05/2016    </div>
 </div>
 <div class="gold_gradient rounded jackpot">
     <div class="logo">
     	<a href="/games/mega-millions"><img src="http://cdn.mdlottery.com.s3.amazonaws.com/_theme_assets/images/game_logos/mega_millions.png" alt="Mega Millions"></a>
     </div>
     <div class="info">
-        <h3><span style="color:#990000;">$260</span> MILLION</h3>
+        <h3><span style="color:#990000;">$30</span> MILLION</h3>
     </div> 
     <div class="date">
-   	 	Next Drawing: Tue 06/07/2016    </div>
+   	 	Next Drawing: Fri 12/02/2016    </div>
 </div>
 <div class="gold_gradient rounded jackpot">
     <div class="logo">
     	<a href="/games/powerball"><img src="http://cdn.mdlottery.com.s3.amazonaws.com/_theme_assets/images/game_logos/powerball.png" alt="Powerball"></a>
     </div>
     <div class="info">
-        <h3><span style="color:#0f5094;">$123</span> MILLION</h3>
+        <h3><span style="color:#0f5094;">$54</span> MILLION</h3>
     </div> 
     <div class="date">
-   	 	Next Drawing: Wed 06/08/2016    </div>
+   	 	Next Drawing: Sat 12/03/2016    </div>
 </div>
 </div>
 </div>
 <!-- /CALL-OUTS //-->
     
    <div id="mlr_callout">
-    <a href="www.mdlottery.com/rewards"><img id="banner_preview_40326" src="/wp-content/uploads/2015/09/Static_MLR_Graphic_SignUp_300x122_V1.jpg"></a>
+    <a href="http://holiday.mdlottery.com/dash/?utm_source=funzone&amp;utm_campaign=holiday"><img id="banner_preview_56181" src="http://www.mdlottery.com/wp-content/uploads/2016/11/ShoppingCartDash_FunZone_Mobile_300x122.jpg"></a>
   
 	</div>
     
@@ -854,20 +895,20 @@ $(document).ready(function(e) {
 	<div id="latest_news">
 		 <div class="post">
 	<div class="thumb">
-		<a href="http://www.mdlottery.com/montgomery-county-cook-enjoys-sizzling-keno-prize/" title="View post"><img src="http://www.mdlottery.com/wp-content/uploads/2015/08/Keno_thumb-150x120.png" class="attachment-75x75 wp-post-image" alt="Keno_thumb"></a>
+		<a href="http://www.mdlottery.com/virginia-woman-crosses-border-for-10000-maryland-lottery-win/" title="View post"><img src="http://www.mdlottery.com/wp-content/uploads/2014/05/Scratch-off_thumb-150x120.jpg" class="attachment-75x75 wp-post-image" alt="Scratch-off"></a>
 	</div>
 	<div class="info">
-		<h5><a href="http://www.mdlottery.com/montgomery-county-cook-enjoys-sizzling-keno-prize/" title="View post">Montgomery County Cook Enjoys Sizzling Keno Prize</a></h5>
-		<p>» <a href="http://www.mdlottery.com/montgomery-county-cook-enjoys-sizzling-keno-prize/" title="View post">Read full story</a></p>
+		<h5><a href="http://www.mdlottery.com/virginia-woman-crosses-border-for-10000-maryland-lottery-win/" title="View post">Virginia Woman Crosses Border for $10,000 Maryland Lottery Win</a></h5>
+		<p>» <a href="http://www.mdlottery.com/virginia-woman-crosses-border-for-10000-maryland-lottery-win/" title="View post">Read full story</a></p>
 	</div>
 	</div>
 		 <div class="post">
 	<div class="thumb">
-		<a href="http://www.mdlottery.com/megaplier-delivers-15000-mega-millions-prize-for-clarksburg-resident/" title="View post"><img src="http://www.mdlottery.com/wp-content/uploads/2014/03/Mega-Millions-thumb-150x120.jpg" class="attachment-75x75 wp-post-image" alt="Mega Millions thumb"></a>
+		<a href="http://www.mdlottery.com/cash4life-detailed-results-120116/" title="View post"></a>
 	</div>
 	<div class="info">
-		<h5><a href="http://www.mdlottery.com/megaplier-delivers-15000-mega-millions-prize-for-clarksburg-resident/" title="View post">Megaplier Delivers $15,000 Mega Millions Prize for Clarksburg Resident</a></h5>
-		<p>» <a href="http://www.mdlottery.com/megaplier-delivers-15000-mega-millions-prize-for-clarksburg-resident/" title="View post">Read full story</a></p>
+		<h5><a href="http://www.mdlottery.com/cash4life-detailed-results-120116/" title="View post">Cash4Life Detailed Results – 12/01/16</a></h5>
+		<p>» <a href="http://www.mdlottery.com/cash4life-detailed-results-120116/" title="View post">Read full story</a></p>
 	</div>
 	</div>
 		
@@ -878,7 +919,7 @@ $(document).ready(function(e) {
 
      <div id="sidebar_ad">
      
-<a href="http://www.mdlottery.com/winning-numbers/numbers-finder/"><img id="banner_preview_36298" src="http://www.mdlottery.com/wp-content/uploads/2015/06/NumbersFinder-REV_sidebar.jpg"></a>
+<a href="http://www.mdlottery.com/games/scratchoffs/?ticket=282"><img id="banner_preview_55737" src="http://www.mdlottery.com/wp-content/uploads/2016/10/MarylandScratchOff_V3_House_300x250.jpg"></a>
   
 	</div>
 	
@@ -927,9 +968,15 @@ $(document).ready(function(e) {
 	<div id="snapshots_archive_wrapper">
             <select id="archive-dropdown-month" name="archive-dropdown-month" onchange="document.location.href=this.options[this.selectedIndex].value;"> 
                 <option value="">Select Month</option> 
-                	<option value="http://www.mdlottery.com/2016/06/"> June 2016 &nbsp;(17)</option>
+                	<option value="http://www.mdlottery.com/2016/12/"> December 2016 &nbsp;(8)</option>
+	<option value="http://www.mdlottery.com/2016/11/"> November 2016 &nbsp;(92)</option>
+	<option value="http://www.mdlottery.com/2016/10/"> October 2016 &nbsp;(86)</option>
+	<option value="http://www.mdlottery.com/2016/09/"> September 2016 &nbsp;(107)</option>
+	<option value="http://www.mdlottery.com/2016/08/"> August 2016 &nbsp;(90)</option>
+	<option value="http://www.mdlottery.com/2016/07/"> July 2016 &nbsp;(87)</option>
+	<option value="http://www.mdlottery.com/2016/06/"> June 2016 &nbsp;(96)</option>
 	<option value="http://www.mdlottery.com/2016/05/"> May 2016 &nbsp;(115)</option>
-	<option value="http://www.mdlottery.com/2016/04/"> April 2016 &nbsp;(85)</option>
+	<option value="http://www.mdlottery.com/2016/04/"> April 2016 &nbsp;(84)</option>
 	<option value="http://www.mdlottery.com/2016/03/"> March 2016 &nbsp;(94)</option>
 	<option value="http://www.mdlottery.com/2016/02/"> February 2016 &nbsp;(92)</option>
 	<option value="http://www.mdlottery.com/2016/01/"> January 2016 &nbsp;(107)</option>
@@ -1022,41 +1069,44 @@ $(document).ready(function(e) {
                
                <select name="cat" id="cat" class="postform" onchange="if ( this.options[this.selectedIndex].value > 0 ) document.location.href=&quot;http://www.mdlottery.com/?cat=&quot;+this.options[this.selectedIndex].value;">
 	<option value="-1">Select Category</option>
-	<option class="level-0" value="1989">5 Card Cash&nbsp;&nbsp;(7)</option>
-	<option class="level-0" value="3">Bonus Match 5&nbsp;&nbsp;(323)</option>
+	<option class="level-0" value="1989">5 Card Cash&nbsp;&nbsp;(11)</option>
+	<option class="level-0" value="3">Bonus Match 5&nbsp;&nbsp;(366)</option>
 	<option class="level-0" value="2725">Cash4Life&nbsp;&nbsp;(5)</option>
-	<option class="level-0" value="2724">Cash4Life Detailed Results&nbsp;&nbsp;(37)</option>
+	<option class="level-0" value="2724">Cash4Life Detailed Results&nbsp;&nbsp;(89)</option>
 	<option class="level-0" value="7">Commission Meetings&nbsp;&nbsp;(25)</option>
 	<option class="level-0" value="1354">Cruise For Cash&nbsp;&nbsp;(43)</option>
 	<option class="level-0" value="1353">Double Play&nbsp;&nbsp;(9)</option>
 	<option class="level-0" value="4">Events&nbsp;&nbsp;(120)</option>
-	<option class="level-0" value="6">Keno&nbsp;&nbsp;(107)</option>
-	<option class="level-0" value="5">Lottery Update&nbsp;&nbsp;(76)</option>
-	<option class="level-0" value="8">Maryland Lottery&nbsp;&nbsp;(96)</option>
-	<option class="level-0" value="9">Mega Millions&nbsp;&nbsp;(238)</option>
-	<option class="level-0" value="1252">Mega Millions Detailed Results&nbsp;&nbsp;(565)</option>
+	<option class="level-0" value="6">Keno&nbsp;&nbsp;(134)</option>
+	<option class="level-0" value="5">Lottery Update&nbsp;&nbsp;(82)</option>
+	<option class="level-0" value="8">Maryland Lottery&nbsp;&nbsp;(130)</option>
+	<option class="level-0" value="2786">Maryland State Fair&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="9">Mega Millions&nbsp;&nbsp;(247)</option>
+	<option class="level-0" value="1252">Mega Millions Detailed Results&nbsp;&nbsp;(616)</option>
 	<option class="level-0" value="2440">MMC Detailed Results&nbsp;&nbsp;(10)</option>
-	<option class="level-0" value="1772">Monopoly&nbsp;&nbsp;(22)</option>
+	<option class="level-0" value="1772">Monopoly&nbsp;&nbsp;(25)</option>
 	<option class="level-0" value="2427">Monopoly Millionaires’ Club&nbsp;&nbsp;(12)</option>
-	<option class="level-0" value="10">Multi-Match&nbsp;&nbsp;(97)</option>
-	<option class="level-0" value="1251">Multi-Match Detailed Results&nbsp;&nbsp;(556)</option>
-	<option class="level-0" value="2127">My Lottery Rewards&nbsp;&nbsp;(65)</option>
+	<option class="level-0" value="10">Multi-Match&nbsp;&nbsp;(107)</option>
+	<option class="level-0" value="1251">Multi-Match Detailed Results&nbsp;&nbsp;(607)</option>
+	<option class="level-0" value="2127">My Lottery Rewards&nbsp;&nbsp;(73)</option>
 	<option class="level-0" value="1991">Photos&nbsp;&nbsp;(210)</option>
-	<option class="level-0" value="11">Pick 3&nbsp;&nbsp;(50)</option>
-	<option class="level-0" value="1139">Pick 4&nbsp;&nbsp;(19)</option>
+	<option class="level-0" value="11">Pick 3&nbsp;&nbsp;(55)</option>
+	<option class="level-0" value="1139">Pick 4&nbsp;&nbsp;(23)</option>
 	<option class="level-0" value="13">Poll&nbsp;&nbsp;(5)</option>
-	<option class="level-0" value="14">Powerball&nbsp;&nbsp;(290)</option>
-	<option class="level-0" value="1253">Powerball Detailed Results&nbsp;&nbsp;(565)</option>
-	<option class="level-0" value="15">Promotions&nbsp;&nbsp;(157)</option>
-	<option class="level-0" value="16">Racetrax&nbsp;&nbsp;(90)</option>
+	<option class="level-0" value="14">Powerball&nbsp;&nbsp;(312)</option>
+	<option class="level-0" value="1253">Powerball Detailed Results&nbsp;&nbsp;(616)</option>
+	<option class="level-0" value="15">Promotions&nbsp;&nbsp;(165)</option>
+	<option class="level-0" value="16">Racetrax&nbsp;&nbsp;(105)</option>
+	<option class="level-0" value="2813">Ravens 2016 Winners&nbsp;&nbsp;(3)</option>
 	<option class="level-0" value="17">Ravens Cash Fantasy&nbsp;&nbsp;(171)</option>
 	<option class="level-0" value="1912">Ravens Cash Fantasy Winners Spotlight&nbsp;&nbsp;(13)</option>
-	<option class="level-0" value="1785">Responsible Gambling&nbsp;&nbsp;(10)</option>
-	<option class="level-0" value="18">Scratch-off&nbsp;&nbsp;(1,640)</option>
+	<option class="level-0" value="1785">Responsible Gambling&nbsp;&nbsp;(11)</option>
+	<option class="level-0" value="18">Scratch-off&nbsp;&nbsp;(1,821)</option>
+	<option class="level-0" value="2825">Subscriptions&nbsp;&nbsp;(1)</option>
 	<option class="level-0" value="2049">The Price Is Right&nbsp;&nbsp;(11)</option>
-	<option class="level-0" value="1886">Top 40 Scratch-offs&nbsp;&nbsp;(182)</option>
-	<option class="level-0" value="1522">Video&nbsp;&nbsp;(167)</option>
-	<option class="level-0" value="19">Winners&nbsp;&nbsp;(2,356)</option>
+	<option class="level-0" value="1886">Top 40 Scratch-offs&nbsp;&nbsp;(199)</option>
+	<option class="level-0" value="1522">Video&nbsp;&nbsp;(170)</option>
+	<option class="level-0" value="19">Winners&nbsp;&nbsp;(2,653)</option>
 </select>
         </div>  
     </div>
@@ -1071,13 +1121,13 @@ $(document).ready(function(e) {
 <a href="http://www.mdlottery.com/events/"><img id="banner_preview_36155" src="http://cdn.mdlottery.com/call_outs/Events%20Calendar_footer.png"></a>
 </li>
 <li class="grey_back rounded">
-<a href="http://www.mdlottery.com/latest-news/top-40-scratch-offs-2/"><img id="banner_preview_36154" src="http://cdn.mdlottery.com/call_outs/ScratchOffsTop40-footer.png"></a>
-</li>
-<li class="grey_back rounded">
 <a href="http://www.mdlottery.com/games/2nd-chance-contests/"><img id="banner_preview_36156" src="http://cdn.mdlottery.com/call_outs/2nd%20Chance_footer.png"></a>
 </li>
 <li class="grey_back rounded">
 <a href="http://www.mdlottery.com/mdlottery-tv/"><img id="banner_preview_36157" src="http://cdn.mdlottery.com/call_outs/MDLotteryTV_footer.png"></a>
+</li>
+<li class="grey_back rounded">
+<a href="http://www.mdlottery.com/latest-news/top-40-scratch-offs-2/"><img id="banner_preview_36154" src="http://cdn.mdlottery.com/call_outs/ScratchOffsTop40-footer.png"></a>
 </li>
 </ul>    
 		<ul id="footer_nav" class=""><li id="menu-item-27728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27728"><a href="http://www.mdlottery.com/">Home</a></li>
@@ -1158,7 +1208,7 @@ $(document).ready(function(e) {
     <div class="phone_anti">
     <br>
     <h4>Benefits</h4>
-    <p><strong>More than $14.4 billion in revenue to the State of Maryland since its inception in 1973.</strong></p>
+    <p><strong>More than $15.01 billion in revenue to the State of Maryland since its inception in 1973.</strong></p>
   <br>
     <h4>Business Information</h4>
     <p><a href="http://mlgca.com/annual-report/">Annual Report</a><br>
@@ -1176,6 +1226,7 @@ $(document).ready(function(e) {
     <p>A 24-hour resource for those struggling with a gambling problem.</p>
     </div>
     <p>For confidential help or information at any time about gambling problems, please visit <a href="http://www.mdgamblinghelp.org" target="_blank">mdgamblinghelp.org</a> or call <a href="tel:18004262537">1-800-GAMBLER</a>.</p>
+    <p><a href="/about-us/"><img src="/wp-content/themes/MDL_2014/images/footer/changingMD.png" alt="Changing Maryland" data-pin-nopin="true"></a></p>
     </div>
 </div>
 
@@ -1191,6 +1242,7 @@ $(document).ready(function(e) {
         
         </div>
 </div>
+<!--2016-12-02 17:56:19 //-->
         <script type="text/javascript">
         // <![CDATA[
         var disqus_shortname = 'marylandlottery';
@@ -1287,7 +1339,8 @@ var _wpcf7 = {"loaderUrl":"http:\/\/www.mdlottery.com\/wp-content\/plugins\/cont
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-27909"><a href="http://www.mdlottery.com/winners/"><div></div>Winners</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28047"><a href="http://www.mdlottery.com/winners/how-to-claim/"><div></div>How to Claim</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31914"><a href="http://www.mdlottery.com/winners/xcap/"><div></div>Expanded Cashing Authority Program – By City</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31914"><a href="http://www.mdlottery.com/winners/xcap/"><div></div>Expanded Cashing Authority Program – By City &amp; By Retailer</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55140"><a href="https://rewards.mdlottery.com/drawings"><div></div>Second Chance Drawings</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-27839"><a href="http://www.mdlottery.com/mdlottery-tv/"><div></div>MDLottery TV</a>
@@ -1299,9 +1352,9 @@ var _wpcf7 = {"loaderUrl":"http:\/\/www.mdlottery.com\/wp-content\/plugins\/cont
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27867"><a href="http://www.mdlottery.com/mdlottery-tv/how-to-play/"><div></div>Winners</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-27840"><a href="http://www.mdlottery.com/retailercorner/"><div></div>Retailer Corner</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-27840"><a target="_blank" href="http://www.mdlottery.com/retailercorner/"><div></div>Retailer Corner</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36017"><a href="http://www.mdlottery.com/veterans/"><div></div>Veterans</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36017"><a target="_blank" href="http://www.mdlottery.com/veterans/"><div></div>Veterans</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-27841"><a href="http://www.mdlottery.com/about-us/"><div></div>About Us</a>
@@ -1334,12 +1387,14 @@ var _wpcf7 = {"loaderUrl":"http:\/\/www.mdlottery.com\/wp-content\/plugins\/cont
 		</ul>
 	</div>
 	
+<!-- YAHOO RE-TARGETING PIXEL //-->
+&nbsp;<img src="https://sp.analytics.yahoo.com/spp.pl?a=10000&amp;.yp=10010029" style="position:absolute; top:-10px;">
+<!-- /YAHOO RE-TARGETING PIXEL //-->
 
 
 
 
-
-<!--71 //-->
-<!--71 queries in 1.090  seconds. //-->
-<!--61 //-->
-<!--27928944 //--></body></html>
+<!--68 //-->
+<!--68 queries in 0.982  seconds. //-->
+<!--81 //-->
+<!--28214480 //--></body></html>
