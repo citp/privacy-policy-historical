@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the researchandmarkets.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622034555id_/http%3A//www.researchandmarkets.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the researchandmarkets.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202045758id_/http%3A//www.researchandmarkets.com/info/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Research and Markets
 
 Research and Markets knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Research and Markets, you are accepting the practices described in this Privacy Notice. 
 
-##### What personal information about customers does Research and Markets gather?
+## What personal information about customers does Research and Markets gather?
 
 The information we learn from customers helps us personalise and continually improve your delivery of business information. 
 
-##### Here are the types of information we gather:
+## Here are the types of information we gather:
 
 _Information You Give Us:_ We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customising future shopping for you, improving our products, and communicating with you. 
 
@@ -20,17 +20,17 @@ _E-mail Communications:_ To help us make e-mails more useful and interesting, we
 
 _Information from Other Sources:_ We might receive information about you or your organisation from other sources and add it to our account information.
 
-##### What about Cookies?
+## What about Cookies?
 
 Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognise your browser and to provide additional features such personalised information, and storage of items in your Shopping Cart between visits. 
 
 The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of Research and Markets’ coolest features, and we recommend that you leave them turned on. 
 
-##### How secure is information about me?
+## How secure is information about me?
 
 We protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
 
-##### Opt-in/Opt-out
+## Opt-in/Opt-out
 
 If you do not want to receive e-mail or other mail from us, please visit: [Unsubscribe Page](https://web.archive.org/unsubscribe.asp)
 
