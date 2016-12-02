@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fabletics.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608134945id_/http%3A//www.fabletics.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabletics.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202113231id_/http%3A//www.fabletics.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Fabletics
 
-Your privacy is very important to us. This privacy policy addresses how Just Fabulous, Inc., and its affiliated brand Fabletics, collects and uses information you provide. By visiting www.Fabletics.com (this "Site"), and providing your information to us, you agree to accept the practices described in this privacy policy.
+Your privacy is very important to us. This privacy policy addresses how TechStyle, Inc. (f/k/a Just Fabulous, Inc.), and its subsidiary Fabletics LLC and affiliated brands (collectively, "Fabletics") collect and use information you provide. By visiting www.fabletics.com (this "Site"), and providing your information to us, you agree to accept the practices described in this Privacy Policy. 
 
 WHAT INFORMATION IS COLLECTED  
 We group the collection of user information into two categories: personal, which is information identifiable to a specific member, and aggregate, which is general demographic information that does not identify any individual member. Personal information may include your name, email address, mailing address, credit card information and phone number. We may also collect certain demographic information such as your site preferences, age, gender, geographical location, language, time zone, income and education (some of the information we ask for may be optional). Fabletics may use or disclose aggregate information for any purpose.
@@ -16,6 +16,7 @@ HOW IS THIS INFORMATION SHARED:
 There are certain circumstances in which we may share your personal information with certain third parties without further notice to you, as set forth below:
 
   * We may share information about you with trusted third parties in order to improve your consumer experience. These third parties may contact you about products, services or promotions you may be interested in, or to otherwise improve your customer experience with this Site.
+  * We may share information about you, such as your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us via our third-party advertising partners and its service providers, in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partners will make the data we provide to it anonymous. To learn more about the use of this information or to make choices about receiving personalized advertising provided by third parties, please visit the Network Advertising Initiative by clicking [here.](http://www.networkadvertising.org/choices)
   * As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, your information may be part of the transferred assets.
   * When we believe in good faith that disclosure is necessary to protect the rights, property and safety of Fabletics, its users or the public.
   * As required by law, to comply with a judicial proceeding or court order, to exercise our rights, or to defend against any claims.
@@ -57,20 +58,57 @@ This Privacy Policy shall not apply to any unsolicited information you provide t
 CALIFORNIA RESIDENTS  
 If you are a California resident and have an established business relationship with us, you can request a notice disclosing the categories of personal information we have shared with third parties, for the third parties’ direct marketing purposes, during the preceding calendar year. To request a notice, please submit your request to Just Fabulous, Inc., Attn: Fabletics Legal Department, California Shine the Light Inquiry, 800 Apollo Drive, El Segundo, CA 90245. 
 
-U.S.-EU SAFE HARBOR DATA PROTECTION  
-Fabletics recognizes that the European Union ("EU") has implemented omnibus data protection regimes established pursuant to the European Data Protection Directive (95/46/EC). Among other things, this law requires "adequate protection" for the transfer of certain individually identifiable data about individuals in EU member countries to Fabletics’ operations in the United States of America ("U.S."). Fabletics complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of Personal Information from EU member countries. Fabletics has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program and to view Fabletics’ certification, please visit [http://www.fabletics.com/safe-harbor.htm](https://web.archive.org/safe-harbor.htm)
+EU-US PRIVACY SHIELD PROGRAM  
+Fabletics complies with the EU-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries. Fabletics has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/welcome>
 
-AMENDMENTS OR MODIFICATIONS TO THIS POLICY  
-We reserve the right to amend this policy at any time without prior notice. Notice of any change will be posted on this Site. Please check this page periodically for changes. Your continued use of the Site after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+TYPES OF DATA COLLECTED UNDER THE EU-US PRIVACY SHIELD  
+Personal data such as your name, email address, mailing address, credit card information, phone number and IP address are collected. This personal data is used for the following purposes: to process and fulfill orders, communicate with you about orders, any Fabletics service, marketing and sales, internal research, and compliance with federal, state and local laws and regulations. Fabletics also collects aggregate data such as your Site preferences, sizes, age, gender, geographical location, language, time zone, income and education. This aggregate data is used for the following purposes: marketing and sales activities, to optimize shopping experience and types of goods sold, internal research, partnerships or agreements with affiliates, agents and business partners, and to describe our Services to current and prospective business partners. 
+
+ShoeDazzle.com, Inc. (d/b/a ShoeDazzle) collects the following types of personal data: name, email address, mailing address, credit card information, phone number and IP address. The following aggregate data may also be collected: Site preferences, age, gender, geographical location, language, time zone, income and education. 
+
+TechStyle, Inc. (f/k/a Just Fabulous, Inc.) (d/b/a JustFab) collects the following types of personal data: name, email address, mailing address, credit card information, phone number and IP address. The following aggregate data may also be collected: Site preferences, age, gender, geographical location, language, time zone, income and education. 
+
+Personal Retailing, Inc. (d/b/a FabKids) collects the following types of personal data: name, email address, mailing address, credit card information, phone number and IP address. The following aggregate data may also be collected: Site preferences, age, gender, geographical location, language, time zone, income and education. 
+
+WHO WE SHARE INFORMATION WITH UNDER THE EU-US PRIVACY SHIELD  
+Fabletics may disclose personal and non-personally identifiable aggregate data with affiliates, subsidiaries, business partners, advertisers and vendors. The purpose for disclosure to affiliates, subsidiaries and business partners is to improve customer experience, for internal research and marketing and sales purposes. We may share information with advertisers and vendors to comply with lawful agreements and for advertising purposes. Fabletics retains potential liability in cases of onward transfer of information to third parties.
+
+Fabletics may also be required to disclose personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
+
+Individuals will be notified by Fabletics in the event it uses or discloses information for a purpose other than that for which the information was originally collected or discloses information to a non-agent third party. Notice may take a variety of forms, including through amendments or modifications to this Privacy Policy. 
+
+ACCESSING AND UPDATING YOUR PERSONAL INFORMATION  
+You have the right to access, correct or delete personal data which has been provided to Fabletics. At any time, you may update or correct your online account information by logging into your account and navigating to the "My Account" page or by contacting us. You may also delete your personal data by contacting us to deactivate your account, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time. 
+
+If you do not want Fabletics to use or disclose your information or provide your information to third parties for marketing and sales purposes, please contact Fabletics at the address provided below under “Inquiries or Complaints Regarding the EU-US Privacy Shield Program”. If you have already received a non-administrative communication that you did not wish to receive, you may opt-out by clicking the unsubscribe link or by following the instructions included in the communication. 
+
+INQUIRIES OR COMPLAINTS REGARDING THE EU-US PRIVACY SHIELD PROGRAM  
+In compliance with the EU-US Privacy Shield Principles, Fabletics commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this Privacy Policy should first contact Fabletics at:   
+JustFab (UK), Ltd.
+
+Attn: Legal Department/Privacy  
+Antony Stokes, VP & International General Counsel  
+8-10 Dryden Street, First Floor  
+London, WC2E9NA  
+United Kingdom
+
+Fabletics has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint. There is no charge to consumers for calling or using this independent dispute resolution mechanism.
+
+Under certain limited conditions, European Union individuals may be able to invoke binding arbitration before the Privacy Shield Panel to be created by the U.S. Department of Commerce and the European Commission.
+
+Fabletics is subject to the jurisdiction and investigatory and enforcement powers of the Federal Trade Commission (FTC). 
+
+AMENDMENTS OR MODIFICATIONS TO THIS PRIVACY POLICY  
+We reserve the right to amend this Privacy Policy at any time without prior notice. Notice of any change will be posted on this Site. Please check this page periodically for changes. Your continued use of the Site after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy. 
 
 CONTACT US  
-If you have any questions regarding the use of our site or privacy policy, please contact us at:
+If you have any questions regarding the use of our Site or Privacy Policy, please contact us at:
 
-JustFab  
-Attn: Fabletics Legal Department/Privacy   
-800 Apollo Drive  
+Fabletics LLC  
+Attn: Legal Department/ Privacy  
+800 Apollo Street  
 El Segundo, CA 90245  
 Or 
 
-1-844-322-5384  
+1-866-337-0906  
 
