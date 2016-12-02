@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neoperl.net privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421030704id_/http%3A//www.neoperl.net/en/oem/legalinformation/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neoperl.net privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202013049id_/http%3A//www.neoperl.net/en/oem/legalinformation/privacypolicy.html) for the most accurate reproduction.*
 
 # NEOPERL: General Terms & Conditions
 
