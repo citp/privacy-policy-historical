@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianmetal.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624011945id_/http%3A//www.asianmetal.com/about/privacyPolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianmetal.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202034913id_/http%3A//www.asianmetal.com/about/privacyPolicy.shtml) for the most accurate reproduction.*
 
 # Asian Metal--About Us
 
