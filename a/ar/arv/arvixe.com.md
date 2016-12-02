@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the arvixe.com privacy policy that was archived on 2016-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160120062303id_/https%3A//www.arvixe.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arvixe.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202084959id_/https%3A//www.arvixe.com/pp.php) for the most accurate reproduction.*
 
 # Arvixe Privacy Policy
 
-Last Updated:  **April 3rd, 2012**
+Last Updated:  **April 5th, 2016**
 
-Arvixe, LLC ("Arvixe") is committed to upholding the integrity, privacy, and security of customer and/or user ("Customer") information. In addition, Arvixe complies with the U.S.-EU Safe Harbor and the U.S.-Switzerland Safe Harbor Framework as set forth by the United States Department of Commerce, the European Union, and Switzerland (for more information on the Safe Harbor Program please visit [http://export.gov/safeharbor/](http://export.gov/safeharbor)). This Privacy Policy serves to establish our commitment to Customer privacy and security, as well as explain the policies and procedures Arvixe adheres to regarding the collection and use of Customer data.
+Arvixe, LLC ("Arvixe") is committed to upholding the integrity, privacy, and security of customer and/or user ("Customer") information. This Privacy Policy serves to establish our commitment to Customer privacy and security, as well as explain the policies and procedures Arvixe adheres to regarding the collection and use of Customer data.
 
 **Privacy:** Arvixe is devoted to creating and nurturing a trusting relationship with its Customers, built on the knowledge that any personal information collected is kept private and secure. In undertaking this commitment, Arvixe will do everything in its capacity to ensure that the integrity of its Customer's privacy is upheld.
 
@@ -16,7 +16,7 @@ The personal information collected by Arvixe from Customers varies depending on 
 
 Arvixe also makes use of log files in order to track information such as internet protocol (IP) addresses, browser type, internet service provider (ISP), platform type and date/time stamps. Included in the log files, Arvixe gathers information that can be used in trend analysis, administration of the site, and overall demography tracking; this information is gathered through the counting of clicks and not linked to personally identifiable information.
 
-**Use of Information:** Arvixe uses collected information for a variety of purposes. These purposes include completing transactions for service, to best respond to user support or sales inquiries, to notify or alert customers of events relevant to their service, and to better accommodate the overall needs of Arvixe customers. To this end, Arvixe may need to share some of the data collected with banking institutions, outside contractors, or trusted affiliates. This information will not be transferred to any of the aforementioned parties unless they are proven to subscribe to the Safe Harbor Principles or are, themselves, subject to the EU Directive on Data Protection and thereby provide the same level of privacy protection required by the Safe Harbor Principles.
+**Use of Information:** Arvixe uses collected information for a variety of purposes. These purposes include completing transactions for service, to best respond to user support or sales inquiries, to notify or alert customers of events relevant to their service, and to better accommodate the overall needs of Arvixe customers. To this end, Arvixe may need to share some of the data collected with banking institutions, outside contractors, or trusted affiliates.
 
 Information collected by Arvixe may also be used to evaluate the adequacy of current systems of marketing and sales, as well as provide insight into the effectiveness of potential changes within these systems. Under no circumstances will Arvixe share this information with a third party for compensation or for free, unless the Customer specifically authorizes the disclosure.
 
@@ -37,10 +37,6 @@ It is important to note that the websites linked to by Arvixe are not, nor shoul
 **Customer Responsibility:** It is the responsibility of the Customer to securely store their login information, such as usernames and passwords, or any other information necessary to access their private information maintained within the Arvixe systems.
 
 It should be noted that there are programs, such as key-loggers and viruses, that can intercept this information from the computers used to access your Arvixe account. Caution should be taken when using computers other than your own, especially on those used by a number of other users, such as in public.
-
-**Safe Harbor:** Arvixe complies with the U.S.-EU Safe Harbor and U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries or Switzerland. Arvixe has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. We are committed to resolving any complaints about the privacy, collection, or use of your personal information, as such, anybody with inquiries or complaints regarding this privacy policy should first contact Arvixe at privacy@arvixe.com.
-
-Arvixe has further committed to refer unresolved privacy complaints under the U.S.-EU and U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU and Switzerland Safe Harbor Program, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Arvixe, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
 **Questions:** Questions regarding the Arvixe Privacy Policy may be directed to **privacy@arvixe.com**.
 
