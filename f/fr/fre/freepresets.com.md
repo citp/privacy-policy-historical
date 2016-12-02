@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepresets.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620081746id_/http%3A//presetslightroom.com/%3Fpage_id%3D2836) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepresets.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202181036id_/http%3A//presetslightroom.com/%3Fpage_id%3D2836) for the most accurate reproduction.*
 
 # Terms of Use / Privacy Policy | Presetpro | Beautiful Lightroom Presets & Photoshop Actions
 
