@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audioenglish.net privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611015527id_/http%3A//www.audioenglish.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audioenglish.net privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202075243id_/http%3A//www.audioenglish.org/privacy_policy.php) for the most accurate reproduction.*
 
 # AudioEnglish.org Privacy Policy
 
