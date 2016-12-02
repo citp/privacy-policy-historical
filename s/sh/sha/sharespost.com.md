@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sharespost.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605031238id_/http%3A//sharespost.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharespost.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202043618id_/http%3A//sharespost.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - SharesPost
+# Privacy Policy
 
-This Privacy Policy is incorporated by reference into the SharesPost [User Agreement](https://web.archive.org/legal/terms-of-use/). The term " **SharesPost** **Financial** ," " **we** ," and " **us** " includes SharesPost Financial Corporation and its affiliates and subsidiaries. The Privacy Policy explains how SharesPost may:
+This Privacy Policy is incorporated by reference into the SharesPost [User Agreement](https://web.archive.org/legal/terms-of-use/). The term “ **SharesPost** **Financial** ,” “ **we** ,” and “ **us** ” includes SharesPost Financial Corporation and its affiliates and subsidiaries. The Privacy Policy explains how SharesPost may:
 
   * collect,
   * use, and
@@ -10,7 +10,7 @@ This Privacy Policy is incorporated by reference into the SharesPost [User Agree
 
 
 
-information we obtain through the "Service" as defined in the [User Agreement](https://web.archive.org/legal/terms-of-use/).
+information we obtain through the “Service” as defined in the [User Agreement](https://web.archive.org/legal/terms-of-use/).
 
 ## The Service Collects Your Information
 
@@ -142,7 +142,7 @@ By using the Service or providing Personal Information to us, you agree that we 
 
 By using the Service, you will transfer data to the United States.
 
- **If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and processing globally. By providing your information you consent to any transfer and processing in accordance with this Privacy Policy.**
+**If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and processing globally. By providing your information you consent to any transfer and processing in accordance with this Privacy Policy.**
 
 ## Update Your Information or Pose a Question or Suggestion
 
