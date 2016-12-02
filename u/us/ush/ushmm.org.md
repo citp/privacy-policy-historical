@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ushmm.org privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628140354id_/https%3A//www.ushmm.org/copyright-and-legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ushmm.org privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202134250id_/https%3A//www.ushmm.org/copyright-and-legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — United States Holocaust Memorial Museum
 
@@ -70,7 +70,7 @@ The Museum may occasionally provide an online interactive program for children u
 
 If the Museum becomes aware that a child has posted personally identifiable information on any of our web pages, we will delete the information as soon as practical.
 
-The Museum is concerned about protecting children’s privacy, and we encourage parents to contact us with any questions or concerns they may have via the web form at [ushmm.org/information/contact-the-museum](https://www.ushmm.org/information/contact-the-museum). Parents may also use this web address to request the deletion of any collected personal information about their children under the age 13.
+The Museum is concerned about protecting children’s privacy, and we encourage parents to contact us with any questions or concerns they may have via the web form at [ushmm.org/information/contact-the-museum](https://web.archive.org/information/contact-the-museum). Parents may also use this web address to request the deletion of any collected personal information about their children under the age 13.
 
 ## Financial Information
 
