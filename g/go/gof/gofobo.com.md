@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gofobo.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408133808id_/https%3A//gofobo.com/main/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofobo.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202182524id_/https%3A//www.gofobo.com/main/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,9 +24,9 @@ Finally, we will disclose your personally identifiable information if we reasona
 
 By default, we will send you weekly updates of various site information including new movies, screenings, sweepstakes, contests, events and a variety of transactional e-mails, such as when users post comments to your profile and the occasional site announcement.
 
-You have full control regarding which of these e-mails you want to receive. To change your options, simply click "My Account" at the top right corner of any page and then select "Edit Profile."
+You have full control regarding which of these e-mails you want to receive. To change your options, simply click "My Account" at the top right corner of any page and then select " Edit Profile."
 
-Some e-mails that are sent, such as "Screening Updates" and "Event Reminder," are automatically generated because you have participated in a contest and/or downloaded a ticket for a movie screening. By participating in a contest or downloading a free ticket, you agree to receive these e-mails even if you have previously opted out of our e-mail list.
+Some e-mails that are sent, such as "Screening Updates" and " Event Reminder," are automatically generated because you have participated in a contest and/or downloaded a ticket for a movie screening. By participating in a contest or downloading a free ticket, you agree to receive these e-mails even if you have previously opted out of our e-mail list.
 
 #### REFER A FRIEND.
 
@@ -74,7 +74,7 @@ You have the ability to cancel your membership at any time. If you no longer wis
 
 #### CONTACT.
 
-If you have any questions about this privacy statement, the practices of this Web site or your dealings with this Web site, please send your comments to us by using the "Contact Us" link at the bottom of every page.
+If you have any questions about this privacy statement, the practices of this Web site or your dealings with this Web site, please send your comments to us by using the " Contact Us " link at the bottom of every page.
 
 #### DISPUTE RESOLUTION.
 
