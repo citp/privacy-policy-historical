@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texasattorneygeneral.gov privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323031335id_/https%3A//texasattorneygeneral.gov/agency/site-policies%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasattorneygeneral.gov privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202083523id_/https%3A//www.texasattorneygeneral.gov/agency/site-policies%23privacy) for the most accurate reproduction.*
 
 # Agency - Site Policies
 
@@ -109,7 +109,7 @@ Additional information on accessibility programs in Texas is available from the 
 _If you have questions about this policy or believe that we have acted in violation of this policy, please send your concerns through our[contact page](https://web.archive.org/contact-form/) or write or call us at:_
 
 > Office of the Attorney General  
->  Public Information & Assistance Division, MC-027  
+>  Constituent Affairs Division, MC-027  
 >  P.O. Box 12548  
 >  Austin, TX 78711-2548  
 >  Tele: (512) 463-2007 or (800) 252-8011
