@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteground.co.uk privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617201508id_/https%3A//www.siteground.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteground.co.uk privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202055535id_/https%3A//www.siteground.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # SiteGround Web Hosting - Privacy Policy
 
