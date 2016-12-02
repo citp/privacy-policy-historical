@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexintheuk.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601064234id_/http%3A//app.sexintheuk.com/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexintheuk.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202210355id_/http%3A//app.sexintheuk.com/help/privacy.cfm) for the most accurate reproduction.*
 
 # SexInTheUK :: SexInTheUK Member Privacy Policy
 
