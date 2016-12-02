@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mblife.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616115139id_/http%3A//www.mblife.com/support/en/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mblife.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202200131id_/http%3A//www.mblife.com/support/en/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - MBLife.com - Personalized Diamond Gifts
 
