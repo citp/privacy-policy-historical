@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techworld.com.au privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616185157id_/http%3A//www.techworld.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techworld.com.au privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202042156id_/http%3A//www.techworld.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TechWorld
 
