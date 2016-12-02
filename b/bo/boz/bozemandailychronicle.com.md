@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bozemandailychronicle.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515024605id_/http%3A//www.bozemandailychronicle.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bozemandailychronicle.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202104616id_/http%3A//www.bozemandailychronicle.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | bozemandailychronicle.com
 
@@ -14,7 +14,7 @@ When you visit one of the Company’s websites, the Company collects and stores 
 
 This Privacy Policy is subject to change from time to time by the Company and your continued use of the Company’s internet products means you agree to, without modification, the revisions. Should you object to any such modifications to this Privacy Policy or become dissatisfied with the Company’s internet products in any way, your only option is to immediately discontinue use of those products. Otherwise, continuing to use the service after the effective date means that you agree to be bound by the changes, without modification.
 
-If you would like to discuss any concerns that you may have regarding this Privacy Policy, please contact [mcohen@pioneernewspapers.com](mailto:mcohen@pioneernewspapers.com)
+If you would like to discuss any concerns that you may have regarding this Privacy Policy, please contact ejohnston@pioneernewsgroup.com.
 
 ## Information we collect
 
@@ -34,7 +34,7 @@ In addition, advertisers may elect to use other advertising companies to serve t
 
 ## Behavioral Targeting
 
-From time to time, the Company or its business partners may use collected data to optimize our offers of products and services to you. If you desire not to participate in this effort, please contact [mcohen@pioneernewspapers.com](mailto:mcohen@pioneernewspapers.com) with your request to opt out.
+From time to time, the Company or its business partners may use collected data to optimize our offers of products and services to you. If you desire not to participate in this effort, please contact ejohnston@pioneernewsgroup.com with your request to opt out.
 
 ## Affiliated sites, linked sites and advertisements
 
@@ -46,10 +46,10 @@ For certain electronic commerce services on our websites, such as placing classi
 
 ## State and Federal Privacy Rights
 
-In certain jurisdictions, you may have the right to receive: a) information identifying any third-party company(ies) to whom our Company may have disclosed personal information pertaining to you and your family for that company’s direct marketing purposes; b) a description of the categories of personal information disclosed; and c) other enumerated information. To obtain such information, please e-mail your request to [mcohen@pioneernewspapers.com](mailto:mcohen@pioneernewspapers.com).
+In certain jurisdictions, you may have the right to receive: a) information identifying any third-party company(ies) to whom our Company may have disclosed personal information pertaining to you and your family for that company’s direct marketing purposes; b) a description of the categories of personal information disclosed; and c) other enumerated information. To obtain such information, please e-mail your request to ejohnston@pioneernewsgroup.com.
 
 ## Revisions
 
 From time to time, and without notice, the Company may revise the policies set out herein. The effective date of the current policy is set out below the title and all users our the Company’s websites are bound to the terms and conditions in effect as of the date of use.
 
-If you have any questions or comments about our policies, we may be reached at Mark Cohen, Pioneer Newspapers, Inc., 221 First Avenue West, Suite 405, Seattle, WA 98119; tel. 206-284-4424.
+If you have any questions or comments about our policies, we may be reached at Eric Johnston, Pioneer News Group, Inc., 221 First Avenue West, Suite 405, Seattle, WA 98119; tel. 206-284-4424.
