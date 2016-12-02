@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the professorshouse.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404191857id_/http%3A//www.professorshouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the professorshouse.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202221411id_/http%3A//www.professorshouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Professor's House
+
+## Privacy Policy
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -66,7 +68,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 #### Google
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. [https://support.google.com/adwordspolicy/answer/1316548?hl=en](https://support.google.com/adwordspolicy/answer/6008942?hl=en&rd=1 "https://support.google.com/adwordspolicy/answer/1316548?hl=en")
 
 We use Google AdSense Advertising on our website.
 
