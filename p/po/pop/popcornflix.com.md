@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popcornflix.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603224404id_/http%3A//www.popcornflix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popcornflix.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202032929id_/http%3A//www.popcornflix.com/privacy.html) for the most accurate reproduction.*
 
 # Popcornflix | Watch Free Movies Online
 
