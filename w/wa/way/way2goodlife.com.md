@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the way2goodlife.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605031939id_/http%3A//www.way2goodlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2goodlife.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202033012id_/http%3A//www.way2goodlife.com/privacy-policy) for the most accurate reproduction.*
 
 # ONLINE PRIVACY POLICY AGREEMENT - Way 2 Goodlife
 
@@ -76,3 +76,5 @@ Through the use of this website, you are hereby accepting the terms and conditio
 If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email, telephone number or mailing address.
 
  **Email:** [way2goodlife@gmail.com](mailto:way2goodlife@gmail.com)
+
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.way2goodlife.com%2Fprivacy-policy%2F&media=&description=ONLINE%20PRIVACY%20POLICY%20AGREEMENT)
