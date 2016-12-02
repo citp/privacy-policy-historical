@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idt.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326004609id_/http%3A//www.idt.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idt.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202063001id_/http%3A//www.idt.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IDT
 
