@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webtexttool.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518224130id_/http%3A//www.webtexttool.com/privacy-policy-webtexttool) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtexttool.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202051434id_/http%3A//webtexttool.com/privacy-policy-webtexttool) for the most accurate reproduction.*
 
-# Privacy policy webtexttool - webtexttool.
+# Privacy policy webtexttool - webtexttool
 
 This privacy policy (“Policy”) describes how we collect, protect and use the personally identifiable information (“Personal Information”) you (“User”, “you” or “your”) provide on the http://webtexttool.com website and any of its products or services (collectively, “Website” or “Services”) owned and operated by Internetnerd group BV (“Internetnerd group BV”, “us”, “we” or “our”). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
