@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americasbestvalueinn.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515090635id_/http%3A//americasbestvalueinn.com/pnp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americasbestvalueinn.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202130928id_/http%3A//www.americasbestvalueinn.com/pnp.html) for the most accurate reproduction.*
 
 # Vantage Hospitality Group, Inc. Privacy Policy
 
