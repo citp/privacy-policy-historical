@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wppionline.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528044138id_/http%3A//www.wppionline.com/Privacy-Policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wppionline.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202075101id_/http%3A//www.wppionline.com/Privacy-Policy.shtml) for the most accurate reproduction.*
 
 # WPPI - Privacy Policy
 
