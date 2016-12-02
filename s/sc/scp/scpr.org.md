@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scpr.org privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522193912id_/http%3A//www.scpr.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scpr.org privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202035703id_/http%3A//www.scpr.org/privacy) for the most accurate reproduction.*
 
 # Your Privacy Rights | 89.3 KPCC
 
@@ -12,9 +12,9 @@ You have come to this page from a Web site produced by Southern California Publi
     * Demographic and profile information
     * Credit card information
   * Your California Privacy Rights
-  * [Contact SCPR](https://web.archive.org/web/20160522193912id_/http%3A//www.scpr.org/contact)
-  * [Consent](https://web.archive.org/web/20160522193912id_/http%3A//www.scpr.org/consent)
-  * [Effective Date](https://web.archive.org/web/20160522193912id_/http%3A//www.scpr.org/effective)
+  * [Contact SCPR](https://web.archive.org/web/20161202035703id_/http%3A//www.scpr.org/contact)
+  * [Consent](https://web.archive.org/web/20161202035703id_/http%3A//www.scpr.org/consent)
+  * [Effective Date](https://web.archive.org/web/20161202035703id_/http%3A//www.scpr.org/effective)
 
 
 
