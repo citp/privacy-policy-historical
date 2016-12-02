@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmaversus.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612234123id_/http%3A//mmaversus.com/2013/07/05/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmaversus.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203004303id_/http%3A//mmaversus.com/2013/07/05/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | mma versus
 
