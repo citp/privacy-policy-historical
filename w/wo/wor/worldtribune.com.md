@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldtribune.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505201611id_/http%3A//www.worldtribune.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtribune.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202123528id_/http%3A//www.worldtribune.com/about-2/privacy) for the most accurate reproduction.*
 
-# Privacy | World Tribune
+# Privacy – World Tribune: Window on the Real World
 
 **What information do we collect?**
 
