@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the planethollywoodresort.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607090811id_/http%3A//www.totalrewards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planethollywoodresort.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202185927id_/http%3A//www.totalrewards.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Caesars Entertainment Corporation
 
-**Revised: November 17, 2012**
+**Revised: November 3, 2015**
 
 **Corporate Privacy Policy**
 
@@ -15,8 +15,6 @@
 **Opting Out of Direct Mail**
 
 **Caesars Windsor Privacy Policy**
-
-If you prefer that we not share your personal information with Third Parties, please[click here](http://app.harrahs-marketing.com/glba/unsub/unsub.cfm?s=GLBA)‚ and follow the instructions provided.
 
 * * *
 
@@ -88,7 +86,7 @@ We may also disclose your Personal Information to third parties for the followin
 
 **Your Choice to Share Information**
 
-If you are a Total Rewards customer and prefer that we not share your Personal Information with our Joint Marketing Partners, please [click here](https://www.totalrewards.com/mytotalrewards/?showglba=true%EF%BF%BD-profile)‚ and follow the instructions provided.
+If you are a Total Rewards customer and prefer that we not share your Personal Information with our Joint Marketing Partners, please follow these instructions: First, [click here](https://www.totalrewards.com/mytotalrewards/?showglba=true) to log in to your account. Next, go to your “Profile”, scroll down to “Preferences” and click on “Edit Settings.” Click “Manage My Preferences” to continue. Scroll to the bottom and check the box labeled “Do not share my personal information with non-affiliates to market their products & services to me.” Click “Save Changes” to ensure your preference settings are set.
 
 If you are not a Total Rewards customer or if you prefer to opt out by mail from having your Personal Information shared with our Joint Marketing Partners, please [click here to download the opt-out form](http://www.totalrewards.com/images/aboutUs/Privacy_Policy_Form.pdf)([PDF](http://get.adobe.com/reader/)), complete it and mail it to:
 
@@ -138,7 +136,7 @@ You will be removed from the mailing list within 7 days of receiving your reques
 
 **OPTING OUT OF DIRECT MAIL POLICY**
 
-We may from time to time send promotional materials to you by direct mail. If you do not want to receive promotional materials by direct mail from us, please visit the customer service center at any Total Rewards Casino or call 1-800-CAESARS (223-7277). Your name and address will be removed from that mailing list within 30 days after your request.
+We may from time to time send promotional materials to you by direct mail. If you do not want to receive promotional materials by direct mail from us, please visit the customer service center at any Total Rewards Casino or call 1-800-342-7724, Prompt 2. Your name and address will be removed from that mailing list within 30 days after your request.
 
 **YOUR CHOICE TO SHARE INFORMATION**
 
@@ -173,8 +171,7 @@ If you are a customer who utilizes our credit or check cashing, counter check ac
 
 
 **Annual Notices**  
-We will inform you of our Privacy Policy at least once a year, as long as you are a current  
-Financial Services customer of ours. If you no longer have a customer relationship with us, we will continue to follow our Privacy Policy, but you will not receive annual notices from us in the future. Our current form of notice with additional information about our privacy practices and choices you can make about how we share your information can be foundhere.
+We will inform you of our Privacy Policy at least once a year, as long as you are a current Financial Services customer of ours. If you no longer have a customer relationship with us, we will continue to follow our Privacy Policy, but you will not receive annual notices from us in the future. Our current form of notice with additional information about our privacy practices and choices you can make about how we share your information can be found [here](http://caesarscorporate.com/wp-content/uploads/2014/09/2015-GLBA-Final.pdf). If you prefer that we not share your personal information, please [click here](https://www.totalrewards.com/content/cet-tr/en/contact-us/preferences.html)‚ log in to your Total Rewards online account and then click on “Manage My Preferences.” You can update your sharing preferences on this page. Click “Save Changes” when you are finished. If you do not yet have a Total Rewards online account, [click here](https://www.totalrewards.com/mytotalrewards/#set-up) to create one.
 
 **Material Changes to Our Privacy Policy**
 
@@ -207,7 +204,7 @@ You may provide us with Personal Information when you use the Site or websites o
 
 **Cookies and Other Technologies**
 
-We use cookies and other technologies on our Sites. Cookies are small text files offered to your computer by servers in order to keep track of your browser as you navigate the Site. Cookies may be stored on your hard drive in which case they remain on your hard drive until deleted, or in temporary memory in which case they are deleted when you shut down your browser or turn off your computer. We may use cookies and similar technologies to identify who you are and may use them when you visit our Site, click on our ads, or open our emails. Cookies also enable us to remember your user preferences for our Site. In addition, if you choose to provide us with Personal Information, we may store some items of your Personal Information and use it with the Traffic Data to better personalize your experience on our Site. Cookies and other technologies may also be used for site maintenance and analysis, performing network communications, authenticating users, serving contextual advertisements, and protecting against fraud and theft. We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests.  To opt out of our cookies used for this online advertising, [click here](http://dtmc.caesars.com/adinfo/choice/prod/?type=fpc&cid=2981&cname=Caesars%20Entertainment&cmagic=7ea4e7&clogo=caesars.jpg&loc=us&lang=en-us).   You can block or remove cookies using your Internet browser’s settings. If you block or remove cookies, your ability to perform certain transactions, use certain functionality, and access certain content on our Site may be affected.
+We use cookies and other technologies on our Sites. Cookies are small text files offered to your computer by servers in order to keep track of your browser as you navigate the Site. Cookies may be stored on your hard drive in which case they remain on your hard drive until deleted, or in temporary memory in which case they are deleted when you shut down your browser or turn off your computer. We may use cookies and similar technologies to identify who you are and may use them when you visit our Site, click on our ads, or open our emails. Cookies also enable us to remember your user preferences for our Site. In addition, if you choose to provide us with Personal Information, we may store some items of your Personal Information and use it with the Traffic Data to better personalize your experience on our Site. Cookies and other technologies may also be used for site maintenance and analysis, performing network communications, authenticating users, serving contextual advertisements, and protecting against fraud and theft. We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests.  To opt out of Caesars cookies used for this online advertising, [click here](http://dtmc.caesars.com/adinfo/choice/prod/?type=fpc&cid=2981&cname=Caesars%20Entertainment&cmagic=7ea4e7&clogo=caesars.jpg&loc=us&lang=en-us).   To opt out of Total Rewards cookies used for this online advertising, [click here](http://dtmc.totalrewards.com/adinfo/choice/prod/?type=fpc&cid=2981&cname=Total%20Rewards&cmagic=7ea4e7&clogo=caesars.jpg&loc=us&lang=en-us).   You can block or remove cookies using your Internet browser’s settings. If you block or remove cookies, your ability to perform certain transactions, use certain functionality, and access certain content on our Site may be affected.
 
 Third-party advertising companies that work with us may also use cookies and other similar technologies to collect Non-Personal Information to provide you with advertisements that are likely to be of interest to you.   To learn more, or to opt-out of receiving online display advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices).
 
@@ -239,7 +236,7 @@ You may install and download our applications without providing any personal inf
 
 **UNSUBSCRIBING FROM EMAIL**
 
-If you are a Total Rewards member and would prefer not to receive further emails from us,[click here](https://www.totalrewards.com/)to sign in and update your profile.
+If you are a Total Rewards member and would prefer not to receive further emails from us, you may click on the “unsubscribe” link found on the bottom of all our email communications. You can also unsubscribe at any customer service center at any Total Rewards Casino or by calling 1-800-342-7724, Prompt 2.
 
 If you are not a Total Rewards member and would prefer not to receive further emails from us, you may click on the “unsubscribe” link found on the bottom of all our email communications.
 
@@ -247,7 +244,7 @@ If you are not a Total Rewards member and would prefer not to receive further em
 
 **OPTING OUT OF DIRECT MAIL POLICY**
 
-We may from time to time send promotional materials to you by direct mail. If you do not want to receive promotional materials by direct mail from us, please visit the customer service center at any Total Rewards Casino or call 1-800-CAESARS (223-7277). Your name and address will be removed from that mailing list within 30 days after your request.
+We may from time to time send promotional materials to you by direct mail. If you do not want to receive promotional materials by direct mail from us, please visit the customer service center at any Total Rewards Casino or call 1-800-342-7724, Prompt 2. Your name and address will be removed from that mailing list within 30 days after your request.
 
 * * *
 
