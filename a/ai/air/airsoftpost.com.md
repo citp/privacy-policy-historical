@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airsoftpost.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630220759id_/http%3A//www.evike.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airsoftpost.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202043329id_/http%3A//www.evike.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Evike.com Airsoft Superstore
+# Privacy Policy | Evike.com
 
 #### Last Updated: 5/24/2016
 
@@ -10,7 +10,7 @@ PARTIES TO THE AGREEMENT. Evike.com ("Company," "us," or "we") respects the priv
 
 ### 2\. AGREEMENT TO TERMS OF PRIVACY POLICY AND TERMS OF USE
 
-AGREEMENT TO TERMS. All activities in which you may engage on this website are voluntary. You are not required to provide any personal information to us unless you choose to access features on this site which require the information. If you do not agree with the terms of this policy or other terms of use on this website, then you should immediately exit this website and discontinue using the site. If you do not agree with the terms of our privacy policy and our [terms of use](http://www.evike.com/terms-of-use/), please do not provide us with personal information, and leave this website. The terms of use of this site are expressly incorporated herein by reference and made a part of this policy. By using the website, you signify that you agree to the terms of this privacy policy as well as to our terms of use.
+AGREEMENT TO TERMS. All activities in which you may engage on this website are voluntary. You are not required to provide any personal information to us unless you choose to access features on this site which require the information. If you do not agree with the terms of this policy or other terms of use on this website, then you should immediately exit this website and discontinue using the site. If you do not agree with the terms of our privacy policy and our [terms of use](https://web.archive.org/terms-of-use/), please do not provide us with personal information, and leave this website. The terms of use of this site are expressly incorporated herein by reference and made a part of this policy. By using the website, you signify that you agree to the terms of this privacy policy as well as to our terms of use.
 
 ### 3\. EFFECTIVE DATE OF AND CHANGES TO PRIVACY POLICY
 
