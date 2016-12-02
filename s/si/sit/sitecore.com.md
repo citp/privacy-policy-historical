@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the sitecore.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201055729id_/http%3A//www.sitecore.net/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitecore.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202054627id_/http%3A//www.sitecore.net/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sitecore
 
-## Summary:
+Privacy Policy
+
+### Summary:
 
 Here is the short version of our Privacy Policy for those who don’t have the time to read the whole thing:
 
@@ -11,15 +13,15 @@ Here is the short version of our Privacy Policy for those who don’t have the t
 
 
 
-## **The whole thing:**
+### The whole thing:
 
 This privacy policy sets out how Sitecore Corporation A/S, a Danish limited liability company with company registration no. (CVR) 26032512 (“Sitecore”), and its affiliated entities, use and protect the information that you provide on, or that is otherwise collected through, the Sitecore Website. This policy is based on our fundamental goal to provide our visitors with quality information and resources while maintaining individual anonymity and personal privacy. Sitecore may change this policy periodically by posting the modified policy on the Sitecore Website. You should check this page from time to time to ensure that you continue to agree with the terms of this policy. Your use of the Sitecore Website means that you accept this privacy policy.
 
-### **The Sitecore websites**
+### The Sitecore websites
 
-“Sitecore Website” as used in this policy means SITECORE.NET, including all subdomains thereunder. The Sitecore Website is owned, provided by and controlled by Sitecore and its affiliated entities.
+“Sitecore Website” as used in this policy means SITECORE.NET, including all subdomains thereunder. The Sitecore Website is owned, provided by and controlled by Sitecore and its affiliated entities and housed on servers including in the United States, Europe, South America and Asia. “Computer” refers to the physical or virtual hardware including mobile device you may use to visit the Sitecore Website.
 
-### **The information we collect**
+### The information we collect
 
 This notice applies to all information collected or submitted on the Sitecore Website. When you access the Sitecore Website, some information is automatically collected as specified below. No other information is collected through the Sitecore Website unless you deliberately decide to send it to us (e.g., by clicking on a link to send us an e-mail), which is also specified below. 
 
@@ -40,32 +42,34 @@ This notice applies to all information collected or submitted on the Sitecore We
 
 
 
-### **The way we use information**
+### The way we use information
 
-Client Information is used to route the requested web page to your computer for viewing; in theory, the requested web page and the routing information could be discerned by other entities involved in transmitting the requested page to you - we do not control the privacy practices of those entities. We may keep Client Information obtained from our systems indefinitely after the web page is transmitted.
+Client Information is used to route the requested web page to your computer for viewing; in theory, the requested web page and the routing information could be discerned by other entities involved in transmitting the requested page to you - we do not control the privacy practices of those entities. We may use Client Information to analyze trends, administer the Sitecore Website, track user movement, and gather broad aggregate demographic information for reporting and sponsorship purposes. From time to time, we may also use non-identifiable aggregate information to better design and operate the Sitecore Website.  We may keep Client Information obtained from our systems indefinitely after the web page is transmitted and use such information to help improve the products or services we offer.
 
 Essential Technical Information and Nonessential Technical Information help us respond to your request in an appropriate format (or in a personalized manner) and helps us plan website improvements. Additionally, on rare occasions when a "hacker" attempts to breach computer security, logs of Automatically Collected Access Information are collected to permit a security investigation and in such cases may be forwarded together with any other relevant information in our possession to law enforcement agencies.
 
 Optional Information enables us to provide services or information tailored more specifically to your needs, and also allows us to plan website improvements. We may use incomplete Optional Information you have provided to contact you for the purpose of offering additional assistance.
 
-### **Use of Personally Identifiable Information**
+### Personally Identifiable Information
 
-We take your privacy very seriously. Any information constituting personally identifiable information, whether about yourself or someone else (hereinafter “Personally Identifiable Information”), is only used to complete your specific request, and we do not share or otherwise distribute Personally Identifiable Information with outside parties except to the extent necessary to complete that request, or in response to a validly-issued subpoena, court order, or other legal process, or when necessary to establish or exercise our legal rights or defend against legal claims made by you or on your behalf. In such instances we would seek confidential treatment of any of your Personally Identifiable Information so disclosed, but there is no guarantee that confidential treatment can be obtained.
+Personally identifiable information, which includes Client Information, whether about yourself or someone else (hereinafter “Personally Identifiable Information”), is used to complete your specific request and to help improve the products or services we offer. We do not share or otherwise distribute Personally Identifiable Information with outside parties except to the extent necessary to complete that request, or in response to a validly-issued subpoena, court order, or other legal process, or when necessary to establish or exercise our legal rights or defend against legal claims made by you or on your behalf. In such instances we would seek confidential treatment of any of your Personally Identifiable Information so disclosed, but there is no guarantee that confidential treatment can be obtained.
 
 Finally, we agree that we will never use or share Personally Identifiable Information provided to us by you in any way that violates or is otherwise unrelated to the means described in this policy, without providing you with both a clear notice on the Sitecore Website and an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
 So that we may best serve you, you are responsible for ensuring that all Personally Identifiable Information you provide on the Sitecore Website is maintained and kept current.
 
-### **Registration**
+### Registration
 
 In order to use some features of the Sitecore Website, you must first complete the registration process. Registration may also occur via your LinkedIn, Facebook or Google account. As part of the registration, you are required to provide certain Personally Identifiable Information as set forth under “Optional Information” above. Further, you acknowledge that when you provide credentials to access or authenticate your account via Facebook.com, Linked-in.com, or other third party services, Sitecore is not responsible for the security of your password, credentials, or other Personally Identifiable Information stored or provided by such services.
 
-### **Cookies**
+### Cookies
 
 The Sitecore Website uses "cookies".
 
 **What is a cookie?**  
 A cookie is a small text file, which is stored on your computer by the Sitecore Website in order to recognize your computer at recurring visits. We send cookies to your computer when you use the Sitecore Website, respond to online surveys or polls, or request information.
+
+A Flash cookie (or locally shared object) is a data file placed on a Device via the Adobe Flash plug-in that may be built-in to or downloaded by you to your Device.  HTML5 cookies can be programmed through HTML5 local storage.
 
 The cookie may transmit information via your browser with a purpose of authenticating or identifying the computer (via e.g., the IP address) or the user. Cookies may contain information such as registration data and user preferences, but would not get access to your Personal Identifiable Information with cookies. When a server receives a request from a computer which stores a cookie from the Sitecore Website, the server is able to use the information stored in the cookie in combination with the information stored on the server. A cookie generally would not collect information from your computer and cannot carry any virus or other damaging files.
 
@@ -81,11 +85,16 @@ The information Sitecore collects via cookies (the “Cookie Information”) per
 
 The cookies enable Sitecore to remember your settings, thereby avoiding having to ask for the specific information each time you visit.
 
-**Third parties - do you use them?**  
-Some of the cookies we use on the Sitecore Website are from third parties that help us advertise, serve content, and measure the impact of our website. Such third parties can be divided into the following categories:
+Web beacons and Browser web storage 
 
-  * Advertising: We use third party vendors, including Google, to display ads on sites on the internet. These vendors may use third party cookies to serve ads based on a user's prior visits to the Sitecore Website.
-  * Analytics: We sometimes use cookies from third parties, including Google Analytics, Brightcove, and Coveo, to enable us a) to perform analyses of information on location, interests and the like to learn about our visitors and b) to measure the performance of our website and website content.
+We also use browser web storage and web beacons.  Browser storage enables websites to store data in a browser on a device. When used in "local storage" mode, it enables data to be stored across sessions (for example, so that the data are retrievable even after the browser has been closed and reopened).  A web beacon is an electronic file that signals when a webpage, advertisement, video, other content, an email, or a newsletter has been viewed. Sitecore uses web beacons in conjunction with cookies to collect data that helps us better understand how visitors move from page to page within websites. 
+
+**Third parties - do you use them?**  
+Some of the web beacons and cookies we use on the Sitecore Website are from third parties that help us advertise, serve content, communicate with you and measure the impact of our website. Such third parties can be divided into the following categories:
+
+  * Advertising: We use third party vendors, including Google and their DoubleClick subsidiary as well as Twitter, to display ads on sites across the internet. These vendors may use third party cookies to serve ads based on a user's prior visits to the Sitecore Website. 
+  * Analytics: We sometimes use cookies from third parties, including Google Analytics, Brightcove, Twitter and Coveo, to enable us a) to perform analyses of information on location, interests and the like to learn about our visitors and b) to measure the performance of our website and website content.
+  * Messaging: We use technology provided by a third party, Live Chat, Inc., to enable visitors to communicate with Sitecore. Live Chat, Inc. uses cookies to enable the messaging technology provided on the Sitecore website.
   * Social: Some third party cookies enable the visitors of the Sitecore Website to use social media features, like sharing, sending or recommending pages to others. Such third parties include Addthis (provided by AddThis, Inc.), Youtube (provided by YouTube LLC), Facebook (provided by Facebook, Inc.), and LinkedIn (provided by LinkedIn Corp.).
 
 
@@ -105,6 +114,7 @@ All browsers permit that you reject and/or delete cookies either one at a time o
   7. iPhone, iPad and other equipment from Apple; - [click to see page.](http://support.apple.com/kb/HT1677?viewlocale=en_US&locale=en_US)
   8. All phones and other equipment on Android; - [click to see page.](http://timeread.hubpages.com/hub/How-to-delete-internet-cookies-on-your-Droid-or-any-Android-device)
   9. All phones and other equipment on Windows 7 - [click to see page.](http://www.wingadgetnews.com/delete-internet-cookies-cache-browsing-history-windows-phone-7)
+  10. For information on disabling Flash cookies go to Adobe's web site www.adobe.com.  
 
 
 
@@ -114,20 +124,20 @@ Additionally, you may opt out of Google's use of cookies by visiting the [Googl
 
 You may specifically opt-out of data being collected and used by Google Analytics by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout?hl=en).
 
-### **Web statistics & shared data**
+### Providing information is your choice 
 
-We collect and use IP addresses to analyze trends, administer the Sitecore Website, track user movement, and gather broad aggregate demographic information for reporting and sponsorship purposes. From time to time, we may also use non-identifiable aggregate information to better design the Sitecore Website.
+There is no legal requirement for you to provide any information at the Sitecore Website. However, the Sitecore Website will not work without routing information and the essential technical information, and we do not look for or respond to "do not track" signals. Failure of your browser to provide nonessential technical information will not prevent your use of the Sitecore Website but may prevent certain features from working. For any Optional Information that is requested at the Sitecore Website, failure to provide the requested information will mean that the particular feature or service associated with that part of the web page may not be available to you.
 
-### **Providing information is your choice  **
+If you would like Sitecore to correct, amend or delete information about you held by Sitecore, you can email: [webmaster@sitecore.net](mailto:webmaster@sitecore.net).  If you are a user of a third party website which is powered by Sitecore, please contact that third party website for instructions on how to correct, amend or delete information about you.
 
-There is no legal requirement for you to provide any information at the Sitecore Website. However, the Sitecore Website will not work without routing information and the essential technical information. Failure of your browser to provide nonessential technical information will not prevent your use of the Sitecore Website but may prevent certain features from working. For any Optional Information that is requested at the Sitecore Website, failure to provide the requested information will mean that the particular feature or service associated with that part of the web page may not be available to you.
-
-### **Scope of Policy; Third Party websites**
+### Scope of Policy; Third Party websites
 
 This policy does not apply to entities that are not owned or controlled by Sitecore.
 
 The Sitecore Website may contain links to other third party websites. Please be aware that Sitecore does not claim any responsibility for the privacy practices of these third party sites. If you visit them we recommend that you read their privacy policy statements and take reasonable precautions when sharing your Personally Identifiable Information on such third party websites.
 
-### **How to contact us  **
+### How to contact us 
 
 Should you have other questions or concerns about our privacy policies and practices, please contact Sitecore or send us an e-mail at [webmaster@sitecore.net](mailto:webmaster@sitecore.net)
+
+Last updated:  February 10, 2016
