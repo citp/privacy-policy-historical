@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finovate.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318010404id_/http%3A//finovate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finovate.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202080959id_/http%3A//finovate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Finovate
 
