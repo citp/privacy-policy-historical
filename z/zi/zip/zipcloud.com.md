@@ -1,119 +1,602 @@
-> *The following text is extracted and transformed from the zipcloud.com privacy policy that was archived on 2012-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120825111918id_/http%3A//www.zipcloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipcloud.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202170943id_/http%3A//www.zipcloud.com/terms%23privacy) for the most accurate reproduction.*
 
-# ZipCloud :: Privacy Policy
+# Terms and Conditions
 
-  * #### Updated and Effective as of November 25, 2010
+**ZipCloud Terms and Conditions and License Agreement**
 
-This Privacy Policy applies to ZipCloud (ZC) collection and use of personally identifying information ("Personal Information") that we may gather when you visit our Website, purchase, license, or Use ZC Products or Services, or contact us. By Using ZC Products or Services, you expressly consent to the collection, processing, and use of your Personal Information according to this Privacy Policy. 
+These are the terms you agree to when you use ZipCloud. They explain (i) what’s allowed when using our Services; (ii) the rights you have as a user of our Services; (iii) the rights ZipCloud has if you do something which is not allowed when using our Services; and (iv) many other important terms. This is a legal contract between you and ZipCloud and it is important that you read it carefully. If there is anything you do not understand in this Agreement, please [ contact us ](https://web.archive.org/contact-us). 
 
-Our Terms and Conditions of Use discuss how we handle, encrypt, and protect the data you choose to store on our servers (and any related data) ("Backup Data"), as well as other matters. All provisions of the Terms and Conditions of Use are incorporated into this document by reference. 
+**Quick Links**
 
-  * #### Definitions
+Eligibility, Registration and Account Security
 
-All of the terms used in this Privacy Policy have the same meanings as are defined in our Terms and Conditions of Use. 
+Eligibility and Registration: This section describes the eligibility criteria we require from all of our users. When you register to use our Services, we need to make sure that you are able to legally contract with ZipCloud, for example, you are old enough and not in a country, or a person, subject to sanctions which ZipCloud is prohibited from contracting with. 
 
-  * #### Why ZC Collects Personal Information
+Changes to the Terms and Services 
 
-ZC collects your Personal Information at a variety of points, including when you place an order, download a new product or update, register a license, request services, store Backup Data, confer with one of our customer support technicians, or take part in other activities on our Website. During these interactions we will collect Personal Information relevant to your transaction with ZC, such as your name, mailing address, phone number, e-mail address, employment information, and credit card, banking or billing information, along with information about the ZC Products or Services you license, such as the activation code, date of purchase, and information relating to a support issue. ZC will use your Personal Information to send you messages through desktop alerts, SMS/Text messaging, email, etc. concerning updates to ZC Products or Services. Please be aware that if you choose not to provide us with your Personal Information, we may not be able to, or may choose not to, make ZC Products or Services available to you. 
+We always want to deliver the best to our customers and must comply with law. This means that we might, every so often, need to make changes to our Services or this Agreement. Unless the change is required immediately for legal or security reasons, we will provide you with prior notice of the change and, if the change adversely impacts you, you will have a right to terminate the Services following the change.
 
-  * #### Regarding Children
+Your License and Your Use of the Services 
 
-ZC Products or Services are not marketed to or intended for use by individuals who cannot legally bind a contract. Accordingly, ZC does not intentionally gather any Personal Information about visitors or customers who are under the age of 18. If you are under the age of 18 or otherwise lack the capacity to enter into a binding contract, do not use our Website or services yourself. Please ask an adult to establish an account with us instead. 
+In exchange for the various rights ZipCloud grants you under this Agreement, there are certain things we require from you and certain obligations and restrictions we need you to comply with. Most importantly, you need to purchase a service plan for each device you want to back-up using our service and, if you reach the storage limit for your plan, either upgrade your plan or purchase additional storage before you will be able to backup additional data. 
 
-  * #### Cookies and Other Technologies
+We also need to prohibit certain activities which could affect our other users or which are unlawful. You are required to use the Services in accordance with our  Acceptable Use Policy . 
 
-ZC uses "cookies" and other technologies to collect data that enable us to better understand and improve the usability, performance and effectiveness of our Website. Cookies are files sent to your browser and stored on your computer. If you do not want ZC to send cookies to your browser, you can set your browser options to reject cookies or to notify you when a Website tries to put a cookie into your browser software. Rejecting cookies may affect your ability to use some features of ZC Products or Services. 
+[ Support ](http://support.zipcloud.com/)
 
-ZC gathers general information about visits to our Website, the files you have marked for backup, the configuration of your computer and your computer’s interaction with ZC, and stores this information in log files. ZC uses this information to understand traffic and downloads on our Website, enabling us to improve the site, provide the best online experience possible, and improve our ability to serve our customers. 
+We provide 24/7 technical support by email and chat, and 24 hour billing support by phone. You can purchase priority support to ensure your response is prioritised. 
 
-To install ZC Products or Services on your computer, you must be an "Authorized Administrator." By installing ZC Products or Services on your computer, you grant ZC the right to back-up any and/or all of the files on the computer regardless of who might be the creator, originator, editor, or otherwise the owner of those files. You assume sole responsibility for ZC receiving access to and backing-up those files. 
+Term and Automatic Renewal 
 
-  * #### Sharing Your Personal Information
+Our service plans are all for a fixed period of time (e.g. 1 month, 6 months, 12 months or 24 months) unless otherwise expressly provided. To ensure your computer and important files remain backed up, these terms will automatically renew 15 days before the end of your current service plan. This section explains this process in more detail to ensure that your files are backed up by ZipCloud for as long as you want them to be! 
 
-ZC will not provide unaffiliated third parties with access to your email address or other contact information. ZC or the ZC Affiliates may, from time to time, share with you information about other products and services that we think you may find to be of interest. If you wish to change the types of communications you receive from us, you may do so by modifying your profile at www.MyPCBackup.com, by emailing your request to us at [support@zipcloud.com](mailto:support@zipcloud.com), or by clicking on an appropriate link in any ZC email communication to you. 
+Pricing, Billing and Payment 
 
-ZC may disclose your Personal Information to third parties if we believe that such action is necessary to (1) comply with a law, regulation, or governmental or judicial warrant, rule, or order; (2) protect and defend the rights or property of ZC; (3) enforce the ZC Terms and Conditions of Use and/or this Privacy Policy. ZC may also provide access to your Backup Data to government authorities if ZC suspects or believes that the data contain child pornography or other prohibited data, or that the data or the ZC Products or Services are being used for illegal purposes. ZC will provide access to your Backup Data to your surviving spouse and/or your executor upon presentation of a death certificate and identification which ZC reasonably believes to be valid and sufficient, or in response to a court order, warrant, subpoena or other judicial or administrative legal process. 
+ZipCloud offers a great range of service plans providing Services to suit everyone’s needs and at prices to suit everyone’s pockets. The service charges you pay are based on the service plan you choose, the number of devices you wish to back-up and any additional services you order. All payments are taken, in advance, for the full term of your service plan (e.g., monthly, 6, 12 or 24 months).
 
-  * #### How We Communicate with You
+Cancellation and Termination 
 
-ZC may, from time to time, send you emails, or desktop alerts or other communications containing the following types of information: notifications of detected problems with your service; notifications concerning the expiration of your account; activity status reports; service and software upgrade notices; notices concerning new or related products or services from ZC or other providers, enhancements, and price changes, notifications regarding suspected unlawful or inappropriate use, and requests for feedback on your ZC Products or Services. 
+Even though we do not want you to, we know that one day you might want to leave ZipCloud. You can cancel your account at any time by following the process described here and receive a pro-rata refund of fees paid for your remaining service term. After your first 30 days, we are unable to refund fees for additional services where you terminate without cause. If your use of the Services is in breach of key terms of this Agreement or would be detrimental to our servers or networks, ZipCloud may terminate your use of the Services without refund. 
 
-  * #### Security for Your Personal Information
+Use of your data
 
-ZC has security measures in place to protect against the loss, misuse, and alteration of your Personal Information in our customer database. Personal Information provided to ZC is stored in secure facilities with access restricted to authorized personnel only. Although we make good faith efforts to store the Personal Information we collect in a secure operating environment that is not accessible to unauthorized users, we cannot guarantee complete security. 
+This section of the Agreement describes how we store the data you voluntarily choose to back-up with us. Unless we are required by law to retain your data for a longer period, we delete your backup data, or place it in the queue for deletion, within approximately (i) twenty-four (24) hours of you deleting your data through your use of the Services; (ii) in those limited circumstances where ZipCloud may have to terminate your account, twenty-four (24) hours of such termination; and (iii) thirty (30) days of you choosing not to renew, or not paying for renewal of, your Services. Once your data has been queued for deletion, it cannot be retrieved by ZipCloud.
 
-To provide secure credit card processing when ordering from us, orders placed on our Website are processed through a payment gateway which operates under its own privacy policy. If you choose to purchase or license ZC Products or Services online using a credit card, the credit card information is sent to ZC using SSL (Secure Socket Layer) encryption, an industry-standard method for protecting data as it travels over the Internet, or a similar encryption technology that may become accepted as an industry standard or better encryption method, in the future ("Transmission Encryption"). To learn more about our credit card processing vendors and their respective privacy and other policies (which are incorporated by reference into the ZC Privacy Policy and Terms or Use by reference) email us at [support@zipcloud.com](mailto:support@zipcloud.com). 
+We also receive information from you when you create an account in order to provide the Services, and from other interactions with you, and more detail on how we use this data is contained in our [ Privacy Policy](https://web.archive.org/terms#privacy). 
 
-ZC encrypts the files that we process before they leave your computer. ZC uses SSL or similar Transmission Encryption technology before sending your files to our data centers. Your encrypted backup files transmitted to our servers are stored in facilities with access restricted to authorized personnel only. ZC does not encrypt the file names or file type information. 
+Liability
 
-By Using the ZC Product that permits you to download your backed up files to any computer that has a connection to the Internet you understand that ZC will be decrypting these files before they leave ZC’s servers and that once decrypted these files can be reviewed by anyone who may be able to access them. 
+ZipCloud works hard to perform its Services to you and, if we do not or if something goes wrong, you may have a right to monetary remedies from ZipCloud. 
 
-ZC will not decrypt your files unless i) it reasonably believes that it must do so to troubleshoot problems with the ZC Products or Services or ii) it reasonably believes it must do so in order to comply with a law, subpoena, warrant, order, or a certification requirement, such as the requirements of 18 U.S.C. § 2703. 
+Handling Disputes
 
-However, if you elect to Use ZC Products or Services that permit you to access Backup Data from an Internet enabled computer other than by using ZC Software on your registered computer, then your Backup Data will be decrypted by ZC in its data center and sent to you in a decrypted form via public infrastructure. You election to use such products or services may make the contents of these files to accessible to individuals or entities other than you and those you intend. By using such products and services, you knowingly accept this risk. 
+We do our best to keep our customers satisfied and, if you have a complaint or concern about the Services you are receiving, we would like you to [contact us](https://web.archive.org/contact-us). If ZipCloud cannot adequately deal with your dispute, you may escalate your dispute to the courts or to an alternative dispute resolution body.
 
-  * #### How You Can Access Or Correct Your Personal Information
+These Terms and Conditions and License Agreement (the “Agreement”) are an agreement between JDI Backup Limited, doing business as ZipCloud (“ZipCloud,” “we” or “our”) and you (“you,” “yourself,” “User” or “Customer”). This Agreement sets forth the terms and conditions of your use of all ZipCloud products and services (collectively, the “Services”). Within the scope of such Services, this Agreement refers to both (i) your service plan; and (ii) any additional services you order to supplement your service plan, as further described at [Our Services & Prices](https://web.archive.org/planprice-information). By accessing, using, registering for or receiving any of the Services, you are agreeing to the terms set out below and in our Privacy PolicyAcceptable Use Policy and  Copyright Policy (“Policies”) which are incorporated into this Agreement. Additional terms may apply to certain Services that you purchase. In such cases, those additional terms also apply in addition to this Agreement. **If you do not accept and agree to these Terms and Conditions and our Policies then you must not access or use the Services.**
 
-You can access selected Personal Information that we collect online by selecting the "My Account" tab on our home page and logging in. We use this procedure to better safeguard your information. You can correct factual errors in your Personal Information on our Web site or by sending a request (to [support@zipcloud.com](mailto:support@zipcloud.com)) that credibly shows error. To protect your privacy and security, we take commercially reasonable steps to verify your identity before granting access or making corrections. 
+ZipCloud may modify this Agreement, from time to time to reflect changes in or requirements of the law or  modifications or updates to the Services. ZipCloud will notify you if such change materially affects your rights under this Agreement. Changes will not apply retrospectively and, unless the change is required immediately for legal or security reasons, notice of the modified terms will be provided a reasonable period prior to the changes taking effect. If you do not agree to be bound by this Agreement, our Policies or any subsequent modifications, you must stop using the Services (see  Cancellation and Termination).
 
-  * #### European Personal Identifiable Information
+  1. **Eligibility, Registration and Account Security**
 
-The Personal Information we collect from individuals or equipment located in the European Economic Area ("European Personal Information") may be processed on servers in the United States. 
 
-ZC has selected the Safe Harbor mechanism as the means for complying with its obligations under the EU Data Privacy Directive 95/46/EC and Member State implementing legislation to provide adequate safeguards for the privacy and security of European Personal Information transferred out of the European Economic Area. 
 
-  * #### Definitions Applicable to European Personal Information
+  1. The Services are intended solely for users who are eighteen (18) years of age or older (or over the age of majority in your country if it is higher than 18). If you are under eighteen (18) years of age (or, if higher than 18, the age of majority in your country) and register to use the Services or access the Services, you are in breach of this Agreement. By registering for or using the Services, you represent and warrant that you are at least eighteen (18) years of age and are over the age of majority in your country of residence. 
 
-The following definitions apply to ZC's policies pertaining to protection of privacy and security interests in European Personal Information. 
+  2. If you are registering for and using the Services on behalf of another party, entity or organization, you warrant and represent that you are authorized to bind such party, entity or organization to this Agreement and to act on behalf of such party, entity or organization with respect to any actions you take in connection with the Services. 
 
-"ZC" means ZC, Inc., its subsidiaries and its predecessors and successors. 
+  3. You agree to provide accurate and complete information when you register for the Services and you agree to keep such information accurate and complete during the entire time that you use the Services. You are solely responsible for maintaining the confidentiality of your username and password.
 
-"Personal Information" means any information or set of information that identifies or could readily be used by ZC or its agents to identify an individual. Personal Information does not include information that is encoded or anonymized, or publicly available information that has not been combined with non-public Personal Information. 
+  4. If you have designated a person to have access to your Backup Data (as defined in >Use of Your Backup Data) (whether by email, by registering such person with ZipCloud or by granting such person access to your username and password) or if someone else is paying for your Services, you are authorizing ZipCloud to give such designated person or the person paying for the Services, as appropriate, access to your Backup Data, including, without limitation, in the event of your death or incapacity
 
-"Sensitive European Personal Information" means European Personal Information that reveals race, ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, or that concerns health or sex life. 
 
-  * #### Privacy Principles Applicable to European Personal Information
 
-ZC will process European Personal Information in accordance with the following principles: 
+  2. **Prohibited Persons**
 
-    * NOTICE. Where ZC collects Personal Information directly from individuals in the EEA, we will inform them about the purposes for which we collect and use their Personal Information, the types of non-agent third parties to which ZC may disclose that information, and the choices and means, if any, ZC offers individuals for limiting the use and disclosure of their Personal Information. Notice will be provided in clear and conspicuous language when individuals are first asked to provide Personal Information to ZC, or as soon as practicable thereafter, and in any event before ZC uses the information for a purpose other than that for which it was originally collected. 
-    * CHOICE. Where ZC collects Personal Information directly from individuals in the EEA, ZC will offer individuals the opportunity to choose (opt-out) whether their Personal Information is (a) to be disclosed to a non-agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. For Sensitive Personal Information, ZC will give individuals the opportunity to affirmatively and explicitly (opt-in) consent to the disclosure of the information to a non-agent third party or the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. ZC will provide individuals with commercially reasonable mechanisms to exercise their choices. 
-    * ONWARD TRANSFERS TO AGENTS. ZC will obtain assurances from its agents that they will safeguard Personal Information through measures consistent with this Privacy Policy. Examples of appropriate assurances that may be provided by agents include: a contract obligating the agent to provide at least the same level of protection as is required by the relevant Safe Harbor Principles, the agent registering to participate in the Safe Harbor mechanism, or another method of assurance deemed adequate by the European Commission. Where ZC has knowledge that an agent is using or disclosing Personal Information in a manner contrary to this Privacy Policy, ZC will take commercially reasonable steps to prevent or stop the unauthorized use or disclosure. 
-    * SECURITY. ZC will take commercially reasonable steps to protect Personal Information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction. 
-    * DATA INTEGRITY. ZC will use Personal Information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. ZC will take commercially reasonable steps to ensure that Personal Information is relevant to its intended use, accurate, complete, and current to the extent appropriate for its intended use. 
-    * ACCESS. Upon request, ZC will grant individuals commercially reasonable access to Personal Information that it holds about them. In addition, ZC will take commercially reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. 
-    * ENFORCEMENT. ZC will conduct compliance audits of its practices to verify adherence to this Privacy Policy. Any employee that ZC determines is in violation of this Privacy Policy will be subject to disciplinary action up to and including termination of employment. 
 
-  * #### Dispute Resolution
 
-Any questions or concerns regarding the use or disclosure of Personal Information should be directed to ZC at the address given below. ZC will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Information in accordance with the principles contained in this Privacy Policy. In order to comply with the European Union’s Safe Harbor Principles, ZC commits to the resolution of complaints about your privacy and our collection or use of your personal information. We have committed to resolve any complaints by European Union citizens relating to this policy, which cannot be resolved directly with our company, through BBB EU Safe Harbor, a dispute resolution procedure administered by the Council of Better Business Bureaus, Inc. 
 
-If you have any questions regarding this policy, please contact ZC at the address given below. 
+Certain entities and individuals are prohibited from using the Services pursuant to trade and economic sanctions and export and control laws imposed by the U.S. or other governments. For example, the U.S. Department of the Treasury, through the Office of Foreign Assets Control (“OFAC”), prohibits U.S. companies and their subsidiaries from engaging in all or certain commercial activities with certain sanctioned countries (each a “Sanctioned Country”) and certain individuals, organizations, entities, or domain names including without limitation, certain “Specially Designated Nationals” (“SDN”) listed by OFAC.  You are prohibited from registering or signing up with, subscribing to, or using the Services if you are located in a Sanctioned Country or are listed as, or associated with an SDN, as determined by ZipCloud in its sole discretion. Registration, signing-up or using the Services from any Sanctioned Country is a material violation of this Agreement, and grounds for immediate account termination by ZipCloud without the right to recover any of your data.
 
-If you do not receive acknowledgment of your complaint or your complaint is not satisfactorily addressed by ZC, you should then contact: 
+  3. **ZipCloud License and Use of the Services**
 
-Council of Better Business Bureaus, Inc.   
-BBB EU Safe Harbor   
-4200 Wilson Boulevard, Suite 800   
-Arlington, VA 22203   
-Phone: 703-276-0100   
-Web: [www.bbb.org](http://www.bbb.org/)   
-Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
 
-  * #### Severability
 
-This Privacy Policy shall apply to the fullest extent permitted by applicable law. If for any reason any provision of this Privacy Policy is held to be invalid or unenforceable to any extent under applicable law, then (i) such provision will be interpreted, construed, or reformed to the extent reasonably required to render it valid, enforceable, and consistent with the original intent underlying such provision and (ii) such invalidity or unenforceability will not affect the validity or enforceability of any other provision of this Privacy Policy and all such provisions shall remain in full force and effect. 
+  1. **Scope of License**. ZipCloud grants you a personal, non-exclusive, non-transferable, limited and revocable license to install the ZipCloud software necessary to use the Services (the “ZipCloud Software”) only on the number of devices for which you have paid the applicable fees and taxes and for the duration of your service plan. Each subscription grants you the right to install the software and use ZipCloud to back-up on **one** device at a time. You may transfer your license from one device to another by [contacting us](https://web.archive.org/contact-us) If you wish to use the Services on multiple devices, you must obtain a separate license for each device or a multi-device license by purchasing a separate service plan. This license permits you to use the ZipCloud Software for the sole and exclusive purpose of using the Services. We reserve all other rights to the ZipCloud Software. **Your license to use the ZipCloud Software is subject to the limitations set out in this section of the Agreement. If you do not agree with the terms of this license, you must**cancel your account and stop accessing the Services.
 
-  * #### ZC Contact information
+  2. **Limitations on your right to use.** Unless expressly allowed **** by law, you may not reverse engineer, decompile, or disassemble the ZipCloud Software. You may not rent, lease, lend or transfer the ZipCloud Software, or host the ZipCloud Software for third parties. The ZipCloud Software is licensed as a single integral product and may not be separated for use on more than one computer. The ZipCloud Software may include copy protection technology to prevent the unauthorized copying of the ZipCloud Software or may require original media for use of the ZipCloud Software on the computer. It is illegal to make unauthorized copies of the ZipCloud Software or to circumvent any copy protection technology included in the ZipCloud Software. **You shall use the Services only in accordance with our**Acceptable Use Policy **.**
 
-If you have any questions or comments, please contact us at [support@zipcloud.com](mailto:support@zipcloud.com). Although we strongly prefer email communication, you may also send regular postal mail to: 
+  3. **Restrictions on Access to Services.** You are only allowed to access the Services through the interfaces and protocols provided or authorized by ZipCloud. You agree that you will not access the Services through unauthorized means, such as unlicensed software clients. 
+
+  4. **Storage restrictions on your use of the Services.** If you exceed the storage limit for the service plan you have purchased, e.g. 75GB for the Home/ Pro Plan, you will not be able to back up additional files unless you upgrade your plan, purchase additional storage, or remove files to free up storage space. We calculate whether you have reached the storage limits for the service plan you elected, based upon the greater of the storage amount shown on your computer or the storage amount maintained by ZipCloud, excluding the benefits of any data compression, file duplication or similar techniques performed by ZipCloud. 
+
+  5. **Redistribution.** You may not redistribute the Services or provide others with access to, or use of, them, unless you have entered into a separate reseller agreement or other agreement with ZipCloud that expressly authorizes you to engage in this activity. You may ask ZipCloud for permission to have business or reseller use and distribution of ZipCloud Software by [contacting us](https://web.archive.org/contact-us).
+
+  6. **Trial Licenses**. If you received a free trial or evaluation license, ZipCloud grants you a non-exclusive, non-transferable, limited license to use the Services during the trial or evaluation period in accordance with this Agreement. The free trial and evaluation license is only valid for your use of the Services on one device and is limited to one trial license or evaluation license per calendar year per device. Your license to use the Services will terminate upon the expiration or termination of such trial or evaluation period. If you have any marketing codes that allow you to extend the term of your trial you must enter such codes at the time of your initial purchase in order for them to be applied to your account.
+
+  7. **Compatibility with the ZipCloud Software.** You are responsible, at your own expense, for all computers, telecommunication equipment, software, access to the Internet, and communications networks required to use the Services. ZipCloud is not responsible for any delays or failures in the Services due to a failure of any computers, telecommunication equipment, software, access to the Internet, or communications networks necessary to use the Services outside it control.
+
+  8. **Maintenance of the ZipCloud Software.** From time to time, ZipCloud may make improvements, upgrades or modifications to the ZipCloud Software available to its customers. Please see  Modification and Updates to the Services.
+
+  9. **Technical Support Services**. Except as described otherwise in paragraph (j) below, ZipCloud will provide 24/7 technical support via [email](mailto:support@zipcloud.com) and [online chat](http://support.zipcloud.com/) for the current version of the ZipCloud Software (“Technical Support Services”). You will be required to provide as much information as possible to aid our investigation into any issues or problems. By utilizing ZipCloud’s Technical Support Services, you grant ZipCloud permission to access your account and device, if necessary, to resolve your issue. You agree and understand that in order to resolve an issue; ZipCloud may require access to license keys of which you are solely responsible for providing. 
+
+  10. **Ineligibility for Technical Support Services.** ZipCloud will not provide Technical Support Services if (a) you are in breach of this Agreement; or (b) the need for Technical Support Services is due to (i) your failure to operate the ZipCloud Software within the systems requirements provided to you; (ii) any modification or attempted modification of the ZipCloud Software by you or any third party outside of ZipCloud’s control; or (iii) your failure or refusal to implement ZipCloud changes recommended by ZipCloud. 
+
+
+
+  4. **Modification and Updates of the Services**
+
+
+
+  1. ZipCloud may, from time to time, change the Services and any aspect or feature of the Services if considered necessary for security or legal reasons, to ensure the operability of the Services, to reflect advancements in technology or to enhance the features we are able to offer our customers. **You hereby consent to automatic updates to the Services you have installed on your computer.**
+
+  2. If ZipCloud modifies the Services in a material way, we will provide you with advance notice of the changes so that you have an opportunity to stop using the Services and cancel your account. In accordance with our Cancellation and Termination provisions, you will receive a pro rata refund for any fees paid in advance for full months of Services not yet rendered where such change adversely affects your use of the Services during the then current service term. This does not affect your 30 day money-back guarantee and, therefore, if you cancel within 30 days of starting or renewing the Services, as a result of a change made by ZipCloud, you will receive a full refund. 
+
+
+
+  5. **Term and Automatic Renewal**
+
+
+
+
+**For all monthly subscription plans, please see paragraph b. For all other service plans, please see paragraph a.**
+
+  1. **Initial Term and Automatic Renewal**. The initial term of the Services is: (i) in respect of your service plan, the initial period you have chosen to pay for on the payments page at the time you purchased the Services (e.g. either 1 month, 6 months, 12 months or 24 months); and (ii) in respect of all additional services, 12 months (the “Initial Term”). Except in the case of trial licenses, the Services will automatically renew for the same term (each a “Renewal Term”) as you initially ordered, as shall be further summarised for you in the Renewal Notice (described below). If you do not want your term to renew, you must  cancel before the end of the Initial Term or any Renewal Term or else your credit card will be charged in accordance with paragraph 6c (Pricing, Billing and Payment). The Initial Term and any Renewal Terms shall be collectively referred to as the “Term.” Each Renewal Notice shall be provided to you, approximately thirty (30) days prior to your card being charged which, as described in Pricing, Billing and Payment, will be charged fifteen (15) days prior to the end of the then current Term. The Renewal Notice will be sent to the email address you have registered for your ZipCloud account and notice of auto renewal will appear in your control panel. It is your responsibility to ensure that the email address and other personal details ZipCloud holds for you are current at all times.
+
+  2. **Monthly Subscriptions.** All monthly subscriptions will renew automatically each month until you cancel your account. 
+
+  3. **Discount Promotions.** If you receive a discount promotion on your Initial Term or first month’s subscription, your Services will automatically renew at the then current non-discounted price listed on our pricing page. To see our current rates, go to [Our Services & Prices.](https://web.archive.org/planprice-information) You acknowledge, agree, and authorize ZipCloud to automatically charge the applicable fee to your credit card in accordance with paragraph 6c (Pricing, Billing and Payment). 
+
+  4. **Exceptions to Automatic Renewal.** If you are in dispute with ZipCloud or have previously requested a chargeback that we have successfully challenged, your Services will not automatically renew at the end of your existing service term.
+
+
+
+  6. **Pricing, Billing and Payment**
+
+
+
+  1. **Pricing.** Pricing. We may change our prices from time to time and will display the new rates on [Our Services & Prices](https://web.archive.org/planprice-information2) page. Price changes only take effect on renewal of your service plan and will apply for the duration of your Renewal Term. We will provide you with reasonable notice of the new price before charging you. Your Renewal Notice will always state the current renewal price. It is your responsibility to periodically review your account and ensure your contact information with JustCloud is up to date for receipt of notices. To see our current rates, go to [Our Services & Prices](https://web.archive.org/planprice-information) page, or the Subscriptions & Billing section in your Account. 
+
+  2. **Billing Process**. Our service charges will be calculated based on the service plan you choose, the number of devices you wish to back up plus any charges for additional services you have ordered. If the Services you purchase from ZipCloud are billed on a monthly basis, you will be billed in full month increments. 
+
+  3. **Payments.** You agree to pay ZipCloud, during the Initial Term or each month as applicable depending on your choice of service plan, all fees for the Services, as set forth on the payments page at the time you order the Services. Prior to expiry of your Initial Term or current Renewal Term, you will receive notice of the amount of fees due for the subsequent term via a Renewal Notice sent to you by email and/ or your control panel. As set out in Term and Automatic Renewal, Renewal Notices will not be provided to you if you are on a monthly plan. You acknowledge, agree, and authorize ZipCloud to automatically charge the applicable fee to your credit card for each month or Renewal Term (as applicable), unless you cancel the Services. All charges will be taken fifteen (15) days prior to the date of renewal; for example, for monthly subscription plans, your credit card will be charged fifteen (15) days before the end of your monthly cycle for these Services. If the credit card on file with ZipCloud has expired or does not permit automatic renewals, you must contact ZipCloud to renew the Services. If you do not renew your Services within thirty (30) days, your Backup Data will be queued for deletion. Once your data has been queued for deletion, it cannot be retrieved by ZipCloud. **You are responsible for ensuring that your billing information with ZipCloud is accurate**. 
+
+  4. **Currency.** ZipCloud offers the ability to pay for Services in a number of different currencies. If your local currency is not supported by ZipCloud, the price payable for Services will be converted, using the applicable exchange rate, at the time of purchase. In the event of any refund of fees being due to you in accordance with the terms of this Agreement, such refund will be converted using the applicable exchange rate at the time of refund. ZipCloud is not liable for any discrepancies or shortfalls in these amounts as a result of a change in the exchange rate.
+
+  5. **VAT.** VAT (Value Added Tax) is a tax on consumer spending within the territory of an European Member (E.U.) State. VAT is included in all GBP and Euro prices displayed on the ZipCloud site. 
+
+  6. **Billing Issues and Support**. You must notify us about any billing problems or discrepancies as soon as you become aware of them. We will make every effort to assist you with any billing queries, please contact our 24/7 [billing support centre](http://support.zipcloud.com/). In particular, please always contact ZipCloud before attempting a chargeback. 
+
+
+
+  7. **Cancellation, Termination and Refunds**
+
+
+
+  1. **If you choose to cancel your account.** You may cancel the Services at any time during the Term, including where there is a change to the Services or this Agreement which you do not agree with [by emailing cancel@zipcloud.com](mailto:cancel@zipcloud.com). If you choose to exercise this right to cancel, you will be entitled to a refund as follows: 
+
+
+
+
+i. If you do choose to leave ZipCloud within thirty (30) days of registering for or renewing your Services, you will receive a full refund of all fees paid. 
+
+ii. If you choose to leave after this thirty (30) day period, you will receive a prorated refund of any fees already paid for full months of Services not yet rendered. In these circumstances, ZipCloud is unable to offer a refund of any fees paid for additional services. 
+
+iii. If you choose to leave after this thirty (30) day period as a result of a change to the Services or this Agreement which adversely affects you and which you do not agree with, you will receive a prorated refund of any fees already paid for full months of Services not yet rendered (including fees paid for additional services).
+
+  2. **Termination by ZipCloud.** ZipCloud may suspend or terminate your Services if ZipCloud reasonably believes that (i) you are in breach of the ZipCloud License and Use of the Services,Prohibited Persons and Intellectual Property sections or if you are in material breach of any other section of this Agreement or our Policies; or (ii) if your continued use of the Services may damage, disable or impair our servers or networks. Such termination may be immediate and without notice. You are not eligible for a refund of any amounts paid if ZipCloud terminates your account in accordance with this paragraph b. 
+
+
+
+  3. **Effects of Cancellation or Termination**. Upon cancellation or termination: (i) you shall immediately cease any and all use of the Services; and (ii) you will not have access to or be able to retrieve any of your Backup Data (i.e. data that you have backed-up using the Services – see Use of your Backup Data for more information). **Prior to cancelling your account, you must retrieve all of your Back-up Data if you do not want to lose it.**
+
+
+
+  8. **Use of your Personal Information**
+
+
+
+  1. **Collection and Use of Personal Information**. ZipCloud will collect, use and transfer your personal information in accordance with the terms of our Privacy Policy, which is incorporated herein by reference. 
+
+  2. **HIPAA Disclaimer.** ZipCloud’s services do not comply with the U.S. Health Insurance Portability and Accountability Act (“HIPAA”). You are solely responsible for compliance with all applicable laws governing the privacy and security of personal data, including medical or other sensitive data. You acknowledge that the Services are not appropriate for the storage or control of access to sensitive data, such as information about children or medical or health information. ZipCloud does not control or monitor the information or data you store on, or transmit through, our Services. We specifically disclaim any representation or warranty that the Services, as offered, comply with HIPAA. Customers requiring secure storage of “Protected Health Information” as defined under HIPAA are expressly prohibited from using this Service for such purposes. Storing and permitting access to “protected health information,” is a material violation of this Agreement, and grounds for immediate account termination by ZipCloud. ZipCloud does not sign “Business Associate Agreements” and you agree that ZipCloud is not a Business Associate or subcontractor or agent of yours pursuant to HIPAA. If you have questions about the security of your data, [email us](mailto:support@zipcloud.com).
+
+
+
+  9. **Use of your Backup Data**
+
+
+
+  1. **Collection and Use of Backup Data.** ZipCloud will collect and process the data that you have backed up using the Services (“Backup Data”) in accordance with this section of the Agreement. We store and protect the data you upload using our Services so that you have this available to you as and when you need it while you are a user of our Services. We hold such data as a data processor and store this data solely in order to provide the Service in accordance with this Agreement. We may transfer your data to our third party service provider whose cloud storage we utilize to provide the Service. By installing ZipCloud on to your device, you grant ZipCloud the right to back-up any of the files on that device regardless of who might be the creator, originator, editor, or otherwise the owner of those files. You assume sole responsibility for ZipCloud receiving access to and backing-up those files. 
+
+  2. **Updates to the Backup Data.** To provide the Services, ZipCloud routinely scans your computer in order to detect new, modified, or deleted data files that require further action to complete backup and restore operations up to your service plan’s storage limit. The Services also catalogue the number and total storage size of various file types on your computer. The Services inspect file headers and related information in order to confirm that each file type is properly represented by its file extension. 
+
+  3. **Managing your ZipCloud Services and the use of your Backup Data** _._ You acknowledge and agree that where ZipCloud licenses the Services to an entity or organization, or where an entity or organization makes the Services available to you, the entity or organization so licensed or giving you access may grant multiple individuals rights related to the management and use of the Services and the Backup Data, without any notice to you. These rights may enable one or more persons to: view, access or change Backup Data; determine who can access the account, Backup Data,; determine who is responsible financially for the account; and other similar actions. 
+
+  4. **Access to your Backup Data if you die and in other circumstances.** ZipCloud will provide access to your Backup Data to your surviving spouse and/or your executor upon the presentation of a death certificate and identification which ZipCloud reasonably believes to be valid and sufficient, or in response to a court order, warrant, subpoena or other judicial or administrative legal process.
+
+  5. **Encryption and Disclosure**. Except as otherwise provided, the contents of your files are encrypted before they are transmitted to ZipCloud’s data center and are stored on encrypted drives. You may elect to use the option that permits you to decrypt and download Backup Data from any Internet enabled device. You understand that by electing to access your files from a device other than the one you used to create the Backup Data, Backup Data **will be sent to you in a decrypted format** via public infrastructure. **You acknowledge that this may cause the contents of these files to become accessible to individuals other than you and that you accept this risk.** You further acknowledge that depending upon the Services you use or the features of the Services you use, accessing your Backup Data from certain Internet enabled devices may not be possible.
+
+
+
+
+ZipCloud will not decrypt your files unless (i) it reasonably believes that it must do so to troubleshoot problems with the Services, or (ii) it reasonably believes it must do so in response to governmental or legal requests (such as a subpoena, search warrant, or court order), or as otherwise required to comply with applicable law. ZipCloud may also provide access to your data to government authorities if ZipCloud reasonably suspects or believes that the data contains child pornography or other prohibited data or that the data is otherwise being used for illegal purposes. 
+
+  6. **Storage and Export of Backup Data.** By using the Services, you freely and specifically give ZipCloud your consent to export your Backup Data to the U.S. You understand that data stored in the U.S. may be subject to lawful requests by the courts or law enforcement authorities in the U.S.
+
+  7. **Retention of Backup Data.** A copy of your Backup Data will be saved to an encrypted driver operated by ZipCloud or a third party provider that ZipCloud has contracted with to provide such service. The Services periodically scan for changes or additions to these files and create an encrypted copy of a modified or newly designated file up to your service plan’s storage limit. You will not be able to restore a file if: (i) the Services have not completed copying the file, (ii) the file has been changed but not yet backed up, or (iii) the file, folder, or disc drives have not been designated for backup. ZipCloud does not maintain a secondary copy of your Backup Data. If you are unable to restore a file due to ZipCloud’s error, ZipCloud will undertake commercially reasonable efforts to create a replacement backup from the files stored on your computer with your permission. You agree that if you i) designate that a file should no longer be backed up, ii) delete a file from your computer, iii) move a file to a location on your computer that is not marked for backup, iv) delete a device from your Services account, v) cancel the Services; (vi) are unable to access the Services, or vii) terminate or allow your Services to expire, for any reason, that the affected files may not be available to you should you wish to restore them. 
+
+  8. **Deletion of Backup Data**. Unless we are required by law to retain your data for a longer period, ZipCloud will delete your Backup Data, or place it in the queue for deletion, within approximately: (i) twenty-four (24) hours of you deleting any such data through your use of the Services; (ii) twenty-four (24) hours of ZipCloud terminating your account in accordance with the terms of this Agreement; and (iii) thirty (30) days of you choosing not to renew your Services, including where we are unable to charge your card upon renewal, or cancelling your account. 
+
+
+
+  10. **Intellectual Property**
+
+
+
+
+All trademarks, service marks or other similar items utilized by the Services are the property of their respective owners, including, without limitation, JDI Backup Limited. The ownership of all intellectual property rights relating to the Services shall remain with JDI Backup Limited and its licensors. You agree not to take any action to jeopardize, limit, or interfere in any manner with ZipCloud’s or its licensor's intellectual property rights.
+
+  11. **Limited Warranty**
+
+
+
+
+EXCEPT AS EXPRESSLY PROVIDED IN THIS AGREEMENT AND TO THE EXTENT PERMITTED IN ACCORDANCE WITH APPLICABLE LAW, JUSTCLOUD AND ITS AFFILIATES, EMPLOYEES, AGENTS, SUPPLIERS AND LICENSORS DISCLAIM ALL WARRANTIES OF ANY KIND FOR THE SERVICES PROVIDED HEREUNDER. 
+
+  12. **Disclaimer**
+
+
+
+  1. You acknowledge and agree that any use of the Services, including any information or content obtained through the Services, is at your own risk. You further acknowledge and agree that ZipCloud exercises no control over, and accepts no responsibility for, the content of the information as it passes through network hubs and points of presence or the Internet, other than on ZipCloud controlled equipment. 
+
+  2. **You are responsible for protecting your copy of the files you backup with the Services. Whilst our technology is advanced, it is not infallible and you should therefore retain copies of the data you back-up with the Services. You understand that files that you backup may not be usable due to corruption from viruses, software malfunctions or other causes outside of ZipCloud’s control.**
+
+
+
+  13. **Limitation of Liability**
+
+
+
+  1. JUSTCLOUD’S LIABILITY TO YOU IS NOT LIMITED OR EXCLUDED (A) WHERE AND TO THE EXTENT SUCH LIABILITY CANNOT BE LIMITED OR EXCLUDED IN ACCORDANCE WITH APPLICABLE LAW AND (B) FOR ALL EUROPEAN NON-BUSINESS CUSTOMERS, TO THE EXTENT THAT SUCH LOSS ARISES FROM JUSTCLOUD’S FAILURE TO PROVIDE THE SERVICES USING REASONABLE SKILL AND CARE. IN ALL OTHER CIRCUMSTANCES, JUSTCLOUD OR ITS DIRECTORS, EMPLOYEES, AGENTS, CONTRACTORS, DISTRIBUTORS OR SUPPLIERS WILL NOT BE LIABLE TO YOU OR TO ANY THIRD PARTY FOR ANY LOST PROFITS, INTERRUPTION OF BUSINESS, OR ANY SPECIAL, INDIRECT, INCIDENTAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL DAMAGES OF ANY KIND ARISING OUT OF (I) INTERRUPTION TO OR UNAVAILABILITY OF THE SERVICES; (II) BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE, WHICH MAY BE TRANSMITTED TO OR THROUGH THE SERVICE BY ANY THIRD PARTY; (III) ANY ERRORS OR OMISSIONS IN ANY CONTENT OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF YOUR USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE BACK-UP, STORED OR MADE AVAILABLE VIA THE SERVICES, AND/OR (IV) THE DISCLOSURE OF INFORMATION PURSUANT TO THIS AGREEMENT OR PRIVACY POLICY, AND JUSTCLOUD’S LIABILITY TO YOU OR ANY THIRD PARTY CLAIMING THROUGH YOU, FOR ANY CAUSE WHATSOEVER, AND REGARDLESS OF THE FORM OF THE ACTION, IS LIMITED TO THE AMOUNT OF FEES PAID, IF ANY, BY YOU IN THE TWELVE MONTHS PRIOR TO THE CLAIM (OR FOR ANY INITIAL TERM OR RENEWAL TERM OF MORE THAN 12 MONTHS, THE FEES PAID FOR THAT INITIAL TERM OR RENEWAL TERM). 
+
+  2. ZipCloud will have no liability for delays or failures in the Services caused by your failure to comply with the requirements set out in Paragraph 3g (Compatibility with the ZipCloud Software).
+
+  3. The terms of this paragraph shall survive any termination of this Agreement.
+
+
+
+  14. **Governing Law and Arbitration for users outside of the European Union**
+
+
+
+  1. The laws of the Commonwealth of Massachusetts apply to this Agreement, including any dispute arising out of or in connection with it or relating to your use of the Services.
+
+  2. If a dispute arising under or relating to this Agreement is brought for arbitration, it shall be resolved by final and binding arbitration conducted before a single arbitrator, chosen by ZipCloud, pursuant to the commercial arbitration rules of the Commercial Dispute Resolution Procedures and the Supplementary Procedures for Consumer Related Disputes (collectively, “AAA Rules”) of the American Arbitration Association (“AAA”), as modified by this Agreement, and shall be administered by the AAA. The arbitration before the AAA shall proceed solely on an individual basis without the right for any claims to be arbitrated on a class action basis or on bases involving claims brought in a purported representative capacity on behalf of others. All issues are for the arbitrator to decide, including the scope of this arbitration clause, but the arbitrator is bound by the terms of this Agreement. The arbitration will be held at the AAA location chosen by ZipCloud in Massachusetts. In the event you are able to demonstrate that the costs of arbitration will be prohibitive as compared to the costs of litigation, ZipCloud will pay as much of your filing, administrative, and arbitrator fees in connection with the arbitration as the arbitrator deems necessary to prevent the arbitration from being cost-prohibitive. If, however, the arbitrator finds that either the substance of your claim or the relief sought is improper or not warranted, as measured by the standards set forth in the Federal Rule of Civil Procedure 11(b), then the payment of arbitration costs shall be governed by the AAA Rules. In such case, you agree to reimburse ZipCloud for all monies previously disbursed by it that are otherwise your obligation to pay under the AAA Rules. If the arbitrator grants relief to you that is equal to or greater than the value of your demand, ZipCloud shall reimburse you for your reasonable attorneys' fees and expenses incurred for the arbitration. 
+
+
+
+  15. **Governing Law and Jurisdiction for users in the European Union**
+
+    1. For users in the European Union, this Agreement, and any non-contractual obligations arising out of, or in relation to it, shall be governed by and construed in accordance with the laws of England and Wales subject only to any mandatory provisions of consumer law in the country in which you reside. The United Nations Convention on Contracts for the International Sale of Goods as well as any other similar law, regulation or statute in effect in any other jurisdiction shall not apply. 
+
+    2. You and ZipCloud irrevocably agree that the courts of the country in which you reside shall have non-exclusive jurisdiction to settle any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with this Agreement or its subject matter or formation. 
+
+    3. Alternatively, you may raise the dispute with an alternative dispute resolution body via the [EU Commission’s Online Dispute Resolution (ODR) Platform](https://webgate.ec.europa.eu/odr/). 
+
+  16. **Assignment and Delegation by ZipCloud**
+
+
+
+
+ZipCloud may, in its sole discretion, transfer or assign all or part of its rights under this Agreement, and may novate or transfer all or any portion of its duties and obligations under this Agreement. ZipCloud may engage subcontractors or agents in performing its duties and exercising its rights hereunder, without your consent. If you do not agree with any transfer or assignment under this paragraph 16, you should discontinue your use of the Services and cancel your account. 
+
+  17. **Assignment and Delegation by You**
+
+
+
+
+You may only assign or part with any of your rights under this Agreement following a satisfactory credit check of the person you wish to transfer your rights to and completion by them by the ZipCloud sign-up process. If you wish to transfer your rights to a third party, please [contact us](https://web.archive.org/contact-us).
+
+  18. **Notices**
+
+
+
+
+Notices relating to your Services and the terms of this Agreement will be provided to you via the email address you have registered for your ZipCloud account. **It is your responsibility to ensure that the personal details ZipCloud holds for you are current at all times.**
+
+  19. **Entire Agreement**
+
+
+
+
+This Agreement (including the items incorporated by reference and modifications that may be made from time to time by ZipCloud), constitute the entire agreement between ZipCloud and you regarding the Services, and supersedes all prior agreements between you and ZipCloud regarding the subject matters hereof. Any item or service furnished by ZipCloud in furtherance of the Services shall be covered by this Agreement unless otherwise explicitly provided. Should there be any conflict in terms between this Agreement and any other document, the terms set forth in this Agreement shall govern. Any references that are singular or plural and any references that are masculine, feminine, or neutral in gender, are meant to be used interchangeably as the context of the sentence might imply.
+
+  20. **Severability**
+
+
+
+
+This Agreement will be enforced to the fullest extent permitted by applicable law. If for any reason any provision of this Agreement is held to be invalid or unenforceable under applicable law to any extent, then (i) such provision will be interpreted, construed, or reformed to the extent reasonably required to render it valid, enforceable, and consistent with the original intent underlying such provision and (ii) such invalidity or unenforceability will not affect the validity or enforceability of any other provision of this Agreement and all such provisions shall remain in full force and effect. 
+
+  21. **No Waiver**
+
+
+
+
+ZipCloud reserves its right to take all legal steps available to enforce this Agreement. ZipCloud’s failure to exercise any right or remedy hereunder shall not operate as a present or future waiver of such provision or of ZipCloud’s rights to enforce such right or remedy in the future. No waiver of any provisions of this or any other Agreement with ZipCloud shall be effective unless expressly stated in writing and signed by both parties. 
+
+  22. **ZipCloud Contact information**
+
+
+
+
+If you have any questions or comments, please contact us at [support@zipcloud.com](mailto:support@zipcloud.com) or postal mail to: 
+
+ZipCloud 
+
+JDI Back-up Ltd (Just Cloud)
+
+5A Little Park Farm Road
+
+Segensworth
+
+Fareham
+
+Hants
+
+PO15 5SJ
+
+UK - 0844 445 7768
+
+EU - +44 844 445 7768
+
+US - 1-888-320-5483
+
+AU - 1800 072 780
+
+CA \- 1-888-778-6107
+
+JDI Backup Limited. Company Number 7488961
+
+Last modified on 02-12-2016
+
+Updated and Effective as of May 16, 2016
+
+**ZipCloud Privacy Policy**
+
+**Quick Links**
+
+General
+
+This section explains the purpose of this Privacy Policy and why we need it. It also explains how changes will be made to this Privacy Policy, if required.
+
+What Data Do We Collect
+
+We collect a range of information so that we can provide the best services to our users. This includes basic information we need to register your account, such as your name, email address and payment data, and also other information which helps us tailor the services to meet your needs. This section describes the different types of data we collect and how we collect it. Terms relating to the data you store in the cloud when using our Services are set out in our [Terms and Conditions](https://web.archive.org/terms) . 
+
+How We Use Your Data
+
+Whether it be maintaining your account or improving your user experience, we only use your data for the purpose of providing the services. The ways in which we use your data is listed here.
+
+How We Disclose Your Information
+
+From time to time, we might share your information with our affiliates and third party service providers. This section describes the circumstances where this might be necessary.
+
+How We Communicate with You
+
+We want to stay in touch with our users to keep them up to date on all of the latest news at ZipCloud, including new Services and changes to our terms or pricing. The various methods by which we can keep in touch are explored here.
+
+How We Protect Your Data
+
+We explain the measures we implement to keep your data secure here. 
+
+Your Options
+
+We want to make sure you are happy with the way your data is being used. We aim to provide you with access to your information upon request and, unless we are not allowed to for legal reasons, we will make changes to data if you tell us it is wrong. Your Options for controlling your data, and the way we communicate with you, is described here.
+
+Your EU Data Protection Rights
+
+If you are a user in the EU, please see this section for additional information about where your data is stored and transferred and how you can access your data.
+
+Third Party Links and Services
+
+The Services may contain links to third party websites and your use of these links may result in the collection, processing or sharing of information about you. We describe this in more detail here.
+
+Dispute Resolution 
+
+We do our best to keep our customers satisfied and, if you have a complaint or concern about the Services you are receiving, we would like you to [contact us](https://web.archive.org/contact-us). If ZipCloud cannot adequately deal with your dispute, the other options available to you are explained here.
+
+ZipCloud’s Contact Information
+
+Our contact information is set out here. We always love to hear from you!
+
+ **General**
+
+_Personal Information._ **** This Privacy Policy applies to the personal data of users that is collected or used by JDI Backup Limited, doing business as ZipCloud (“ZipCloud”) as set forth more fully below (the “Personal Information”). You should also read our  [ Terms and Conditions](https://web.archive.org/terms), Billing Terms, Acceptable Use Policy and DMCA Policy which are incorporated herein by reference. When you use our Services, you are agreeing to our rules and policies regarding your data and you expressly consent to us collecting, processing and using and storing your Personal Information, as described below. 
+
+_  
+Data you back-up using our services._ **** We hold any personal data you voluntarily choose to back up or store using the Just Cloud Services (“Backup Data”) as a data processor and we store this data solely in order to provide the Services. The terms relating to our storage of Backup Data are set out in the Use of your Back-Up Data section of our [Terms and Conditions](https://web.archive.org/terms).
+
+_Changes to this Privacy Policy._ ZipCloud may modify this Privacy Policy, from time to time to reflect changes in or requirements of the law or modifications or updates to the Services made in accordance with our [Terms and Conditions](https://web.archive.org/terms) . ZipCloud will notify you if such change materially affects your rights under this Privacy Policy. Changes will not apply retrospectively and, unless the change is required immediately for legal reasons, notice of the modified terms will be provided a reasonable period prior to the changes taking effect. **If you do not accept and agree to this Privacy Policy, then you must not access or use the Services** (see [Cancellation and Termination](https://web.archive.org/web/20161202170943id_/http%3A//www.zipcloud.com/cancellation)).
+
+**What Personal Information Do We Collect**
+
+_Information you give us._ When you sign up for a ZipCloud account, we keep the basic account information you give us, like your name, email address, telephone number, password and payment information. We also collect and store your Personal Information as you use the Services and each time you interact with ZipCloud, for example, when you update information in your control panel, communicate with us by telephone or email, order or download new Services, register a licence or change your device and complete forms on our website. We also store information about the Services you purchase, such as the activation code, date of purchase, and information relating to any support issue. 
+
+_Automatic Information_. We may collect information about the device you access the Services from, such as the IP address or other unique device identifiers. If you access your ZipCloud account from a mobile device, that mobile device may also provide us with details of your location. Most mobile devices allow you to disable this functionality. ZipCloud uses "cookies" and other technologies to collect data that enable us to better understand and improve the usability, performance and effectiveness of our website. Cookies are files sent to your browser and stored on your computer.  ZipCloud uses cookies to gather general information about your visits to our website, the files you have designated for backup, the configuration of your computer and your computer’s interaction with the Services, and stores this information in log files. ZipCloud uses this information to understand traffic and downloads on our website, enabling us to improve the website, provide the best online experience possible, and improve our customer service. 
+
+We use the following types of cookies on our site: 
+
+  * Strictly necessary cookies - These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website and remembering which files you have marked for backup. Without these cookies, services you have asked for, like security or e-billing, cannot be provided.
+
+
+
+  * Performance cookies - These cookies collect information about how you use the website. These cookies don’t collect information that identifies you and are only used to improve how the website works.
+
+
+
+  * Functionality cookies - These cookies allow the website to remember choices you make, such as the configuration of your computer, to provide enhanced, more personal features. 
+
+
+
+  * Advertising cookies - These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are placed on the website by advertisers and advertising networks, with our permission. They remember that you have visited the site and this information is shared with other organisations such as advertisers. ZipCloud uses analytics data and the DoubleClick cookies for advertising purposes. You may opt out of the DoubleClick cookie by visiting the  [Google advertising opt-out page](http://www.google.com/privacy_ads.html) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](http://tools.google.com/dlpage/gaoptout) Google has additional information available about their [Policy for Advertising based on Interests and Location ](https://support.google.com/adwordspolicy/answer/143465?hl=en-GB). 
+
+
+
+  * Other Technologies - We may also use other Internet technologies, such as web beacons or pixel tags and other similar technologies, to deliver or communicate with cookies and analyze your use of the Services. We also may include web beacons in e-mail messages so that we know when you have opened an email message received from ZipCloud. 
+
+
+
+
+You may disable cookies by changing the settings on your browser. Check the help menu in your browser for further information. Remember that if you disable cookies it is likely to affect how our website works and you may not be able to access or use certain areas of our website or functionality. Unless you have adjusted your browser setting so that it will refuse cookies, our system will place cookies when you log on to our website.
+
+_Personal Information regarding children._ The Services are not intended for use by individuals who cannot enter a legally binding a contract. Accordingly, ZipCloud does not intentionally gather any Personal Information about individuals who are under the age of eighteen (18). **If you are under eighteen (18) years of age or otherwise lack the capacity to enter into a binding contract do not use our Services**. If ZipCloud becomes aware that it has collected Personal Information from someone under the age of majority, such information will be deleted immediately.
+
+The Personal Information we collect as described in this,  What Data Do We Collect section, is controlled by JDI Backup Limited, 5A Little Park Farm Road, Segensworth, Fareham, Hampshire, PO15 5SJ, United Kingdom. 
+
+**How We Use Your Personal Information**
+
+We use your Personal Information to provide you with the Services, administer your ZipCloud account, send you information about the Services (including updates and modifications), process payments, generate and review reports and data about our user base and Service usage patterns, analyze the accuracy, effectiveness, usability, or popularity of the Services, improve the content and features of the Services and allow us to personalize the content and advertising that you see on the Services. In order to do so, we may use your Personal Information to contact you through desktop alerts, SMS/Text messaging, email and live chat.
+
+If you wish to change the way we use your data, see Your Options below. Please be aware that if you choose not to provide us with certain Personal Information, we may not be able to make Services available to you.
+
+ **How We Disclose Your Personal Information**
+
+We don’t sell or share any Personal Information with unaffiliated third parties, except as provided in this Privacy Policy. We may share your information in the following circumstances:
+
+_Third Party Service Providers._ We engage third parties to perform certain functions on our behalf. They will have access to your data to the extent needed to perform their functions, but may not use it for other purposes. We require all third parties to process your data in accordance with this Privacy Policy and as permitted by applicable data protection laws.
+
+_Partners and Sponsors._ Some of the Services are offered or promoted to our customers in conjunction with a partner or sponsor, or another brand or company within The Endurance International Group, Inc. corporate family. To the extent permitted by applicable law, sometimes we might share your information with other third parties with a view to offering you other products and services that we think you may find to be of interest. If you do not wish to receive such offers, please use the unsubscribe link on the email communication you receive or contact us at [](mailto:support@zipcloud.com)[support@zipcloud.com](mailto:support@zipcloud.com).
+
+ _Sale of Business._ If ZipCloud is involved in a merger, acquisition, or sale of all or a material portion of its assets, change in corporate control, or insolvency or bankruptcy proceedings, you will be notified via email or a prominent notice will be placed on the website of any such change in ownership or use of your Personal Information as well as any choices you may have regarding your Personal Information. 
+
+  
+_Compliance with Laws and Policies._ ZipCloud reserves the right to disclose your Personal Information to third parties if we believe that such action is necessary to (1) comply with a law, regulation, or governmental or judicial warrant, rule, order or subpoena; (2) protect and defend the rights or property of ZipCloud; or (3) enforce the ZipCloud Terms and Conditions, including this Privacy Policy. 
+
+**How We Communicate with You**
+
+ZipCloud may, from time to time, send you emails, desktop alerts or other communications, including: (1) notifications of detected problems with your Service; (2) notifications concerning the expiration of your account; (3) activity status reports; (4) service and software upgrade notices; (5) notices concerning new or related Services from ZipCloud (or other service providers as discussed in this Privacy Policy); (6) notices concerning enhancements to the Services; (7) price change notices for the Services; (8) notifications regarding suspected unlawful or inappropriate use; and (9) requests for feedback on the Services.
+
+If you wish to change the types of communications you receive from us or opt out of receiving any future communications, you can do so. See  Your Options below.
+
+**How We Protect Your Data**
+
+_General_. ZipCloud has security measures in place to protect against the loss, misuse, and alteration of your data. Personal Information provided to ZipCloud is stored in secure facilities with access restricted to authorized personnel only. Although we make good faith efforts to store the Personal Information we collect in a secure operating environment that is not accessible to unauthorized users, we cannot guarantee complete security.   
+  
+
+
+_Secure Payments._ To provide secure credit card processing when ordering from us, orders placed on our website are processed through a payment gateway which operates under its own privacy policy. If you choose to purchase or license the Services online using a credit card, the credit card information is sent to ZipCloud using SSL (Secure Socket Layer) encryption, an industry-standard method for protecting data as it travels over the Internet, or a similar encryption technology that may become accepted as an industry standard, or better encryption method, in the future. To learn more about our credit card processing vendors and their respective privacy and other policies which apply when you make a payment through their services, please review the terms of their own privacy policies
+
+  
+**Your Options**
+
+_Email Communications._ If you wish to change the types of communications you receive from us or opt out of receiving any future communications, you may do so by modifying your profile on your control panel, by emailing your request to us at [ support@zipcloud.com ](mailto:support@zipcloud.com), or by clicking on the appropriate link in any ZipCloud email communication that you receive. 
+
+_Correcting Your Personal Information_. You can access the Personal Information that we collect via your control panel. You can correct factual errors in your Personal Information on your control panel or by sending a request to  [ support@zipcloud.com ](mailto:support@zipcloud.com). Please provide sufficient details regarding the error. To protect your privacy and security, we take commercially reasonable steps to verify your identity before granting access or making any corrections to your Personal Information.
+
+**Your EU Data Protection Rights**
+
+_Location of Personal Information and Transfers._ ZipCloud processes Personal Information on our servers in many countries around the world. We may process your Personal Information on a server located outside the country where you live. By using the Services, you freely and specifically give ZipCloud your consent to export your Personal Information outside of the EEA, including to the US and understand that data stored outside of the EEA may be subject to lawful requests by the courts or law enforcement authorities in thecountries in which it is stored. 
+
+_Access Requests_. You have the right to request a copy of the your Personal Information we hold about you. ZipCloud will take commercially reasonable steps to provide you with such access and to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete.
+
+**Third Party Links and Services**
+
+  
+ZipCloud may provide links to other third party websites as a convenience to you (collectively, the “Third Party Websites”). Please exercise care when visiting any Third Party Websites. The Third Party Websites have separate and independent privacy policies, notices and terms of use which govern your use of such websites and their use of any information they collect, we recommend you read these policies carefully. ZipCloud disclaims all liability for Personal Information you provide to any Third Party Websites.  
+ 
+
+ **Dispute Resolution**
+
+Any questions or concerns regarding the use or disclosure of Personal Information should be directed to ZipCloud at the address given below. ZipCloud will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Information in accordance with the principles contained in this Privacy Policy. 
+
+If ZipCloud is unable to resolve your complaint, you can escalate the issue in accordance with the dispute resolution procedure set out in the  [Terms and Conditions](https://web.archive.org/terms).  
+  
+
+
+**ZipCloud Contact Information**
+
+If you have any questions or comments, please contact us at [support@zipcloud.com](mailto:support@zipcloud.com) or at the address listed below: JDI Backup Ltd   
+5A Little Park Farm Road,.   
+Segensworth, Fareham  
+Hampshire   
+PO15 5SJ   
+United Kingdom
+
+## 
+
+**ZipCloud Acceptable Use**
+
+This Acceptable Use Policy ("AUP") governs your use of the Services and is incorporated by reference into ZipCloud’s [Terms and Conditions and License Agreement](https://web.archive.org/terms). Unless otherwise stated, defined terms in this AUP have the meanings provided in the Terms and Conditions. ZipCloud may modify the AUP at any time without notice. 
+
+The Services provided by ZipCloud may only be used for lawful purposes. You agree to comply with all applicable laws, rules and regulations in connection with your use of the Services. ZipCloud reserves the right to refuse service to anyone. Any material that in our judgment violates this AUP in any manner may be removed from our servers (or otherwise disabled), with or without notice. 
+
+**Prohibited Uses**
+
+      1. Use of the Services to infringe another party's intellectual property rights is prohibited. This includes, but is not limited to, the unauthorized storage of movies, music, books, photographs, software/warez, or any other copyrighted or other protected work. Any account found to be infringing on the intellectual property rights of others will be suspended or access to the alleged infringing material will be disabled. Any account found to be in repeated violation will be suspended or terminated. 
+
+      2. Content that is potentially harmful to minors, as determined in ZipCloud’s sole discretion, is strictly forbidden, including but not limited to, child pornography or any material perceived to be connected to the exploitation of children. Just Cloud Services may not be used to store, backup, or distribute any such material and any account found to be storing such materials, as determined by ZipCloud in its sole discretion will be suspended immediately without notice. ZipCloud will report incidents of child exploitation to law enforcement as required by law.
+
+      3. ZipCloud Services may not be used to store computer viruses and malware;
+
+      4. We reserve the right to refuse service to anyone. Any material that, in our judgment, violates our [Terms and Conditions and License Agreement](https://web.archive.org/terms) or this AUP in any manner may be removed from our servers (or otherwise disabled), with or without notice.  
+
+
+
+
+
+ZipCloud shall have the right in its sole discretion to deny use of and access to all or any portion of ZipCloud Services to users who are deemed by ZipCloud to be using the Services in violation of law or the ZipCloud Terms and Conditions and License Agreement, including but not limited to suspending or terminating a user's account with ZipCloud and the license to use the ZipCloud Services. 
+
+##  **Copyright Infringement Policy**                
+
+ZipCloud takes intellectual property rights very seriously and it is our policy to respond to clear notices of alleged copyright infringement. This Copyright Infringement Policy describes the information that should be present in these notices. It is designed to make submitting notices of alleged infringement to us as straightforward as possible while reducing the number of notices that we receive that are fraudulent or difficult to verify. 
+
+To file a notice of alleged infringement with us, you must provide a written notice that includes your full contact information and sets forth the items specified below. 
+
+  1. The name, address, phone number, email address (if available) and physical or electronic signature of the copyright owner or a person authorized to act on the copyright owner’s behalf;
+
+  2. Identification of the copyrighted work(s);
+
+  3. Identification of the infringing material you are asking us to remove or disable, and the Internet location of the infringing material;
+
+  4. A statement that you have a good faith belief that use of the disputed material is not authorized by the copyright owner, its agent or the law; and
+
+  5. A statement that the information in the complaint is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+  6. Your signature
+
+
+
+
+Please email the signed notification to abuse@zipcloud.com.
+
+Alternatively, you may mail the signed notification to the following address:
 
 ZipCloud  
-Unit 6, Fulcrum 2   
-Solent Way, Whiteley   
-Hampshire   
-PO15 7FN   
-United Kingdom 
+5A Little Park Farm Road  
+Segensworth, Fareham  
+Hampshire  
+PO15 5SJ  
+United Kingdom
+
+Please note that you will be liable for damages (including costs and attorneys' fees) if you materially misrepresent that material is infringing your copyright. Accordingly, if you are not sure whether material available online infringes your copyright, we suggest that you first contact an attorney.
+
+ZipCloud may respond to take-down notices by removing or disabling access to the allegedly infringing material and/or by terminating services. If we remove or disable access in response to such a notice, we will make a good-faith attempt to contact the owner or administrator of the affected site or content.
+
+ZipCloud may document notices of alleged infringement it receives and/or on which we action is taken. As with all legal notices, a copy of the notice may be made available to the public and sent to one or more third parties who may make it available to the public.
+
+**Content Review Policy and Procedure**
+
+**Prohibited Content**
+
+ZipCloud strictly forbids the backing up, storing, and sharing of any prohibited content. Prohibited content includes, but is not limited to: 
+
+  1. Child exploitation 
+  2. Illegal content 
+  3. Copyright infringing content 
+  4. Pornographic content 
 
 
 
+ZipCloud enforces content recognition and filtering and a manual review of files backed up and stored. 
+
+**Takedown Policy**
+
+ZipCloud enforces a strict Takedown policy. ZipCloud reserves the right to remove, delete and terminate any account where files have been identified to have breach our terms. 
+
+If any account that has been proven to have breached our terms the account will automatically lock and all stored data deleted within 8 hours, any evidence will be forwarded to the correct authorities. 
+
+The users, Name, Address, IP Address, Computer Motherboard Serial Number, Hard Drive Serial Number and Mac Address will be added to a Black List. The said Black List enforces than any entities on the list are prevented from using the ZipCloud service. 
+
+All cases where ZipCloud has used its Takedown Policy where it deems that, Child exploitation has been uploaded will immediately report the account holder to the relevant authorities such as the National Center for Missing & Exploited Children's ("NCMEC") "CyberTipline.", and judicial law enforcement. 
+
+Law Enforcement Response, ZipCloud will cooperate with all law enforcement requests and any court order including subpoenas, search warrants, discovery orders and any other valid court order. ZipCloud will provide any merchants such as Visa, Mastercard, Amex and PayPal with its written policy concerning response to contact from law enforcement agencies regarding prohibited content stored or distributed through its service. 
+
+(If you spot any prohibited content please report this immediately to *** Please enable javascript to email us ***) 
+
+**Fair Usage Policy**
+
+If you have purchased a ZipCloud product or service prior to July 2015, then you agreed to comply with the Fair Usage Policy. 
+
+We monitor the usage of our heaviest account users, a dynamic margin is calculated based on averages which, should a user fall into, we may require them to cease backup delete some data to free up some cloud backup space. 
+
+Our dynamic limit is currently 950GB, this figure is calculated every 3 months. We take the average amount of data in Gigabytes queued for backup by our top users. There is a 50GB margin that users can backup into before their backup is actually capped. So the full amount of backup a user could do at the moment is 1TB. Once the total amount of data backed up is under 1TB, the backup will continue automatically until it reaches the 1TB limit again. 
