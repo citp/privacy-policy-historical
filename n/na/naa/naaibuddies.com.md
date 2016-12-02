@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naaibuddies.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622031408id_/http%3A//local.naaibuddies.com/help/privacy.cfm%3Fwldsite%3D21613) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naaibuddies.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202114134id_/http%3A//local.naaibuddies.com/help/privacy.cfm%3Fwldsite%3D21613) for the most accurate reproduction.*
 
 # NaaiBuddies.com :: NaaiBuddies.com Member Privacy Policy
 
