@@ -1,11 +1,14 @@
-> *The following text is extracted and transformed from the captaincookscasino.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618165237id_/http%3A//www.captaincookscasino.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the captaincookscasino.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202173015id_/http%3A//www.captaincookscasino.eu/privacy) for the most accurate reproduction.*
 
 # Security : Captain Cooks Casino Privacy Policy
 
 [HOME](https://web.archive.org/) »  **Privacy Policy**
 
-  1. **Recording of Communications**  
-To improve our services and protect the interests of our Players, all telephone calls are recorded for security purposes.
+  1. **Collection of Personal Details**  
+Details that may be collected and held for processing include: 
+    1. Information that identifies you, such as your name, address, date of birth and gender;
+    2. Your email address;
+    3. Your telephone number
   2. **Processing of Personal Details**  
 Any personal data received in regards to an account holder and/or registrant is: 
     1. Processed in accordance with the rights of the Account Holder concerned
@@ -25,13 +28,14 @@ Captain Cooks Casino website works by using cookies and Active X components for 
     1. To identify the Account Holder's preferred language so it is automatically selected when the Account Holder returns to Captain Cooks Casino;
     2. For analysis of the Captain Cooks Casino website traffic so as to allow us to make suitable improvements.
     3. The operation of the games (such as the flash casino)
-  7. Captain Cooks Casino guarantees: 
+  7. **Captain Cooks Casino guarantees:**
     1. Not to sell, give away, or otherwise communicate your personal or corporate information to any other persons or companies.
     2. To use your personal data to provide you with information or materials only if you requested it.
-    3. We provide all our customers with the opportunity to remove your information from our database, at your request.
 
 
 
 The Casino Rewards Group does not endorse spam. Only registered real or guest players that have chosen to click on the "Opt In" button on campaigns or who have entered their email address on a giveaway competition are placed on our email lists. 
 
 If you would like to unsubscribe from our mailing list please click here: <http://cr.crnewsletter.com/main/unsub.asp>
+
+**A Note To International Users:** Please be aware that information we collect will be transferred to, processed and stored in overseas locations. The data protection laws may differ from those of the country in which you are located, and your personal information may be subject to access requests from governments, courts, or law enforcement in the respective countries. By using our services or providing us with any information, you consent to this transfer, processing and storage of your information in overseas locations. 
