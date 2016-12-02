@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grahamandgreen.co.uk privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607233432id_/http%3A//www.grahamandgreen.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grahamandgreen.co.uk privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202034328id_/http%3A//www.grahamandgreen.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Security
+# Cookie, Privacy and Security Policy | Graham and Green
 
 **Cookies**
 
@@ -39,10 +39,9 @@ We continually strive to improve our standards of customer care at Graham & Gree
 
 If you have any further queries, please do not hesitate to contact us on the information below.
 
-_Web Customer Service    
-Unit G14, The Perfume Factory_  
- _140 Wales Farm Road_  
- _Park Royal_  
- _London, W3 6UG_
+_Customer Service    
+Graham and Green_  
+ _92 Walcot Street_  
+ _Bath, BA1 5BG_
 
-[web.support@grahamandgreen.co.uk](mailto:web.support@grahamandgreen.co.uk)
+[mailorder@grahamandgreen.co.uk](mailto:mailorder@grahamandgreen.co.uk)
