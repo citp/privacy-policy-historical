@@ -1,72 +1,75 @@
-> *The following text is extracted and transformed from the state.pa.us privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609205903id_/http%3A//www.state.pa.us/papower/cwp/view.asp%3Fa%3D3%26q%3D414879) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.pa.us privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203005646id_/http%3A//www.pa.gov/privacy-policy) for the most accurate reproduction.*
 
-# PA Login: Pennsylvania PowerPort Privacy Policy
+# Privacy Policy | PA.GOV
 
-Thank you for visiting the Commonwealth of Pennsylvania’s website.  We are committed to maintaining your privacy.  This policy addresses the collection, security and access to information that may be obtained through the use of our site.  This policy covers the following topics:
+#### Please note: The commonwealth’s online privacy policy will be updated on January 4, 2017. View the new policy ([PDF](https://www.scribd.com/document/333009542/20170104-Updated-Privacy-Policy)).
 
-  * Information Collected 
-  * Public Disclosure 
-  * Access to User Profiles 
-  * Choice 
-  * Cookies 
-  * Security 
-  * Link Disclaimer 
-  * Information Disclaimer
+### PRIVACY POLICY
 
+Thank you for visiting the Commonwealth of Pennsylvania’s website. We are committed to maintaining your privacy. This policy addresses the collection, security and access to information that may be obtained through the use of our site. This policy covers the following topics:
 
+— Information Collected  
+— Public Disclosure  
+— Access to User Profiles  
+— Choice  
+— Cookies  
+— Security  
+— Link Disclaimer  
+— Information Disclaimer
 
-**Information Collected  
-** As part of standard internet practice we collect the following information when you visit our sites:
+### INFORMATION COLLECTED
 
-  * Your domain name; for example, "xcompany.com" if you use a private internet access account, or "yourschool.edu", if you are connecting from a university domain; 
-  * Your IP address, a number automatically assigned to your computer when you are using the internet; 
-  * The type of browser and operating system used to access our site; 
-  * The Internet address of the website from which you linked directly to our site; 
-  * The pages you visit within the Commonwealth’s site; and 
-  * The links made to other websites through this site.
+As part of standard Internet practice we collect the following information when you visit our sites:
 
+— Your domain name; for example, “xcompany.com” if you use a private internet access account, or “yourschool.edu”, if you are connecting from a university domain;  
+— Your IP address, a number automatically assigned to your computer when you are using the Internet;  
+— The type of browser and operating system used to access our site;  
+— The Internet address of the website from which you linked directly to our site;  
+— The pages you visit within the commonwealth’s site; and  
+— The links made to other websites through this site.
 
+This information is collected for statistical analysis using standard third-party software programs to create summary statistics. The statistics are used for the purpose of determining what information is of most and least interest to all visitors and identifying system performance or problem areas. This information is not collected for commercial marketing purposes. The Commonwealth does not sell information collected online. Any personally identifiable information (PII) that you voluntarily provide will be collected. PII may include an email address or any other information you submit via a website when completing an application, form, or survey online. The information collected, whether or not personally identifiable, is not limited to text characters and may include audio, video, and other graphic formats you send us. Information is retained in accordance with existing laws and other Commonwealth policies.
 
-This information is collected for statistical analysis using standard third-party software programs to create summary statistics. The statistics are used for the purpose of determining what information is of most and least interest to all visitors and identifying system performance or problem areas. This information is not collected for commercial marketing purposes.  The Commonwealth does not sell information collected online.  
+### PUBLIC DISCLOSURE
 
-Any personally identifiable information that you voluntarily provide will be collected.  Personally identifiable information may include an email address or any other information you submit via a website when completing an application, form, or survey online.
+As a general rule, the Commonwealth does not disclose any personally identifiable information collected online except where you have given us permission, or where the information is public information under the Pennsylvania Right to Know Law 65 P.S. 67.101, et seq., or other applicable laws. Visitors should be aware that information collected by the Commonwealth on its websites may be subject to public disclosure if such information is a public record, or to other examination and inspection if the information is not otherwise protected.
 
-The information collected, whether or not personally identifiable, is not limited to text characters and may include audio, video and other graphic formats you send us.  Information is retained in accordance with existing laws and other Commonwealth policies. 
+### ACCESS TO USER PROFILES
 
-**Public Disclosure**     
-As a general rule, the Commonwealth does not disclose any personally identifiable information collected online except where you have given us permission, or where the information is public information under the Pennsylvania Right to Know Act 65 P.S. 66.1 
+Any personally identifiable information you enter in a user profile will be open and accessible to you for review and modification.
 
-_et seq_
+### CHOICE
 
-., or other applicable laws.  Visitors should be aware that information collected by the Commonwealth on its websites may be subject to examination and inspection, if such information is a public record and not otherwise protected from disclosure. 
+You may decline participation in any activity that asks for information (i.e., surveys or emails). Your choice to not participate will have no effect on your ability to view information on the Commonwealth’s websites.
 
-**Access to User Profiles  
-** Any personally identifiable information you enter in a user profile will be open and accessible to you for review and modification.
+### COOKIES
 
-**Choice  
-** You may decline participation in any activity that asks for information (i.e., surveys or emails).  Your choice to not participate will have no effect on your ability to view information on the Commonwealth’s websites. 
+We may customize your browsing experience by using “cookies” to store a randomly generated identifying tag on your computer. (Cookies are simple text files stored by your web browser and they provide a method of distinguishing among visitors to the websites.) You can refuse the cookie or delete the cookie file from your computer at any time by using any one of a number of widely available methods.
 
-**Cookies**  
-We may customize your browsing experience by using “cookies” to store a randomly generated identifying tag on your computer.  (Cookies are simple text files stored by your web browser and they provide a method of distinguishing among visitors to the websites.)  You can refuse the cookie or delete the cookie file from your computer at any time by using any one of a number of widely available methods. 
+Commonwealth policy does not allow for the use of persistent cookies. Cookies created on your computer by using our websites do not contain personally identifiable information and do not compromise your privacy or security.
 
-Commonwealth policy does not allow for the use of persistent cookies.  Cookies created on your computer by using our websites do not contain personally identifiable information and do not compromise your privacy or security. 
+### SECURITY
 
-**Security  
-** As part of our continuing commitment to the security of electronic content as well as the electronic transmission of information, the Commonwealth has taken steps to safeguard the submission of information by implementing detailed technology and security policies, which can be viewed at the Office of Administration, Office for Information Technology website ([http://www.oit.state.pa.us/oaoit/cwp/view.asp?a=722&q=203395&pm=1](http://www.oit.state.pa.us/oaoit/cwp/view.asp?a=722&q=203395&pm=1)).    
-Security measures have been integrated into the design, implementation and day-to-day operations of the entire operating environment. 
+As part of our continuing commitment to the security of electronic content as well as the electronic transmission of information, the Commonwealth has taken steps to safeguard the submission of information by implementing detailed technology and security policies, which can be viewed at the Office of Administration, Office for Information Technology website. Security measures have been integrated into the design, implementation and day-to-day operations of the entire operating environment.
 
-In certain instances, you may receive or create a password to access or submit personal information.  You should not divulge your password to anyone. The Commonwealth will never ask you for your password in an unsolicited phone call or e-mail.  When you are finished with sites that are password protected, you should exit the page. 
+In certain instances, you may receive or create a password to access or submit personal information. You should not divulge your password to anyone. The Commonwealth will never ask you for your password in an unsolicited phone call or e-mail. When completed with browsing any commonwealth websites, it is strongly recommended that the user logout (where applicable) and quit the web browser to remove any temporary data that may have been stored in the browser.
 
-**Link Disclaimer  
-** The Commonwealth provides links to government agencies and other organizations.  A link does not constitute an endorsement of content, viewpoint, policies, products or services of that website. 
+When contacting the Commonwealth through any method of communication (phone call, email, web form, etc.) you must determine whether the method of communication is adequately secure for your purposes prior to providing any PII or other confidential information. Any PII or confidential information sent by the user is sent at the users own risk.
 
-Once you link to another website not maintained by the Commonwealth, you are subject to the terms and conditions of that website, including but not limited to its privacy policy.  You will be notified prior to exiting the Commonwealth website.
+### LINK DISCLAIMER
 
-**Information Disclaimer  
-** Information provided on the Commonwealth’s websites is intended to allow the public immediate access to public information.  While all attempts are made to provide accurate, current and reliable information we recognize the possibility of human and/or mechanical error.  Therefore, the Commonwealth of Pennsylvania, its employees, officers and agencies expressly deny any warranty of the accuracy, reliability or timeliness of any information published by this system and shall not be held liable for any losses caused by reliance upon the accuracy, reliability or timeliness of such information.  Any person who relies upon such information obtained from this system does so at his or her own risk. 
+The Commonwealth provides links to government agencies and other organizations. A link does not constitute an endorsement of content, viewpoint, policies, products, or services of that web site.
 
-**Contact Information**  
-If you have any questions or comments about the information presented in this Privacy Policy, you can contact the Commonwealth Office of Administration/Office for Information Technology as follows:  
+Once you link to another web site not maintained by the Commonwealth, you are subject to the terms and conditions of that website, including but not limited to its privacy policy. You will be notified prior to exiting the commonwealth website.
+
+### INFORMATION DISCLAIMER
+
+Information provided on the commonwealth’s websites is intended to allow the public immediate access to public information. While all attempts are made to provide accurate, current, and reliable information we recognize the possibility of human and/or mechanical error. Therefore, the Commonwealth of Pennsylvania, its employees, officers, and agencies expressly disclaim any warranty of the accuracy, reliability, or timeliness of any information published by this system and shall not be held liable for any losses caused by reliance upon the accuracy, reliability, or timeliness of such information. Any person who relies upon such information obtained from this system does so at his or her own risk.
+
+### CONTACT INFORMATION
+
+If you have any questions or comments about the information presented in this Privacy Policy, you can contact the Commonwealth’s Office of Administration, Office for Information Technology as follows:
+
 By Fax: 717-787-4523  
 By Mail: 209 Finance Building, Harrisburg, PA 17120  
-By Email: [ra-oaitb@state.pa.us](mailto:ra-oaitb@state.pa.us)
+By Email: RA-ITCentral@pa.gov
