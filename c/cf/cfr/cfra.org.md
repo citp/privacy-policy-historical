@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfra.org privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629234759id_/http%3A//www.cfra.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfra.org privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202075217id_/http%3A//www.cfra.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Center for Rural Affairs
 
