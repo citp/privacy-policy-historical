@@ -1,65 +1,60 @@
-> *The following text is extracted and transformed from the weloveservers.net privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316065119id_/https%3A//www.weloveservers.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weloveservers.net privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202090745id_/https%3A//www.hostwinds.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - We Love Servers
+# Hostwinds Privacy Policy
 
-**The Information We Collect**
+### PROMISE
 
-This notice applies to all information collected on the WELOVESERVERS website, or submitted to WELOVESERVERS at any time through any of our services on the website.
+HOSTWINDS.COM is committed to maintaining your trust and confidence. The following online privacy policy is intended to protect and secure the personally identifiable information (any information by which you can be identified) you provide to us online.
 
-Personally Identifiable Information – When visiting WELOVESERVERS`s Web site and signing-up for or using an WELOVESERVERS powered service, Affiliate Program or Reporting Abuse, you may choose to supply WELOVESERVERS with information that identifies you personally. This information may include your name and contact information, as well as other demographic or commerce related information.
+In addition, HOSTWINDS.COM will not send you e-mail that you have not agreed to receive. We may periodically send you e-mail announcing news and event information. If you choose to supply your postal address in an online form, you may receive mailings from us as well. 
 
- **Cookies**
+### NO SHARING POLICY
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser‟s “help” file. We set a persistent cookie to store your passwords, so you don‟t have to enter it more than once.
+HOSTWINDS.COM will never sell, rent, lease or exchange your personal information with other organizations. HOSTWINDS.COM assures you that the identity of all who contact us through this Web site will be kept confidential.
 
-Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+### SECURITY
 
-If you reject cookies, you may still use our site, but you will be asked to enter your username and password again every time you closed your browser or your session has timed out.
+HOSTWINDS.COM is committed to ensuring the security of your personal information. To prevent unauthorized access, maintain data accuracy, and ensure the proper use of information, we have established and implemented appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
- **Log Files**
+HOSTWINDS.COM uses Internet Encryption Software, Secure Socket Layer (SSL) Protocol when collecting or transferring sensitive data such as credit card information. Any information you enter is encrypted at your browser, sent over the public Internet in encrypted form, and then de-encrypted at our server. Once we receive your credit card information, it is accessible only to a small number of trusted HOSTWINDS.COM employees who have been specially trained in processing this information. 
 
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+### COOKIES
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users‟ movements around the site and to gather demographic information about our user base as a whole.
+From time to time, we may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your browser from a Web server and stored on your computer's hard drive. A cookie can't read data off your hard drive or read cookie files created by other sites. 
 
-We do not link this automatically-collected data to personally identifiable information. IP addresses are tied to personally identifiable information to prevent and block abusers to keep using our services such as members who violates our terms of service.
+Cookies do not damage your system. We use cookies to recognize you when you return to our sites, or to identify which areas of our network of Web sites you have visited (i.e. e-commerce sites, etc.). We may use this information to better personalize the content you see on our sites. 
 
-We use a third-party tracking service that uses cookies and log files to track non-personally identifiable information about visitors to our site in the aggregate of usage and volume statistics to determine how our users navigate through our website and to know how many users are using our services demographically.
+Many Web sites place cookies on your hard drive. You can choose whether to accept cookies by changing the settings of your browser. Your browser can refuse all cookies, or show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be diminished and some features may not work as intended. 
 
- **The Way We Use Information**
+### CHILDREN'S ONLINE PRIVACY
 
-We use the information you provide about yourself or others to complete the transaction for which it is intended. This may include administering a service such as registration, email, forum, etc., or contacting you if you have indicated your permission to do so by agreeing to accept further notification and service announcement from us on your member profile page. You can choose to opt-out of receiving any further notification from your member profile page. We do not share this information with outside parties without your permission.
+We are concerned about the privacy of young children and do not knowingly collect any personal information from a child under 13. We encourage you to become involved with your child's access to the Internet and to our site in order to ensure that his or her privacy is well protected.
 
- **Communications From The Site**
+To read more about online safety and how to become more involved with your child's online experience, visit the Federal Trade Commission Web site. You may also benefit from the information and resources available on ProtectKids.com. 
 
-When we receive email, we use return email addresses to reply with the information requested. Such addresses are not used for any other purpose and are not shared with outside parties. When supplying contact information to WELOVESERVERS you can indicate your preference if you would like to be contacted to receive information and updates about our services by logging in to your WELOVESERVERS account, going to your member profile page and choose not to receive any further notification emails from us or other information pertaining to WELOVESERVERS.
+### BILLING POLICY
 
-Information you submit to us will not be used for this purpose unless you indicate this as your preference. When supplying contact information to WELOVESERVERS you can indicate your preference on your members profile page to participate in the WELOVESERVERS program if you would like to receive special offers from other companies that we think may be of interest to you through our periodically newsletter. Information you submit to us will not be used for this purpose unless you elect to participate in the WELOVESERVERS program or otherwise consent.
+We accept Visa, MasterCard, Discover, and American Express. All online orders are processed through 128 bit SSL encryption to protect your credit card information during your online transaction. All prices and figures are listed in US Dollars. 
 
-You will receive a confirmation email from us when placing an order on our site and paying through one of our trusted 3rd parties such as PayPal. They only share back information with us about the transaction such as your name, item ordered, email address, etc.
+### RETURN POLICY
 
- **Personally identifiable information:**
+See our Guarantees page for our return guarantees.
 
-WELOVESERVERS does not share, sell, rent, or trade PII with third parties for their promotional purposes except with your consent as described in this privacy policy.
+### ACCOUNT POLICY
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described within this privacy policy without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+HOSTWINDS.COM reserves the right to de-activate or remove any user accounts provided at www.hostwinds.com without notice if user has provided wrong information, has violated common Internet policies or if the account has been inactive for more than 60 days.
 
- **How You Can Access Or Correct Your Information**
+### DOWNLOAD LICENSE
 
-You can access all your personally identifiable information that we collect online and maintain by logging into your password-protected account and selecting to update your Profile or Personal Info. We use this procedure to better safeguard your information. You can also correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+Downloads are solely for personal, noncommercial use. Copies of download can only be stored on computers or devices owned by the person or entity that purchased the download. Additional licenses of downloads can be purchases from www.hostwinds.com. 
 
- **Legal Disclaimer**
+### CONTACTING US
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site
+Please contact us if you have comments or questions about any of our policies or our website. For information about your payment or order, please contact us at 1-206-886-0665 we are available by phone 24/7/365. 
 
- **Security**
+Our mailing address is:  
+12101 Tukwila International Blvd   
+3rd Floor, Suite 320   
+Seattle, WA 98168   
+206-886-0665  
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-If you have any questions about security on our Web site, you can send email us at support@weloveservers.net
-
- **Changes in this Privacy Statement**
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
