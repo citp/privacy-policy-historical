@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the eyeslipsface.co.uk privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414175524id_/http%3A//www.eyeslipsface.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeslipsface.co.uk privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202124131id_/http%3A//www.eyeslipsface.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # Makeup and Cosmetics | elf Cosmetics | EyesLipsFace.com | Privacy Policy
 
 **e.l.f. Cosmetics Privacy Policy**
 
-**This Privacy Policy was last updated on: 15 September 2015**
+**This Privacy Policy was last updated on: 17 May 2016**
 
-www.eyeslipsface.co.uk (the Website) is brought to you by J.A. Cosmetics US, Inc. ("we"). This Privacy Policy describes the types of personal and other information we collect on the Website, how we use such information and to whom and under what circumstances we may disclose it. By accessing the Website on any computer, mobile phone, tablet, or other device (collectively, “Device”), you agree to the terms of this Privacy Policy and acknowledge that your information will be collected by J.A. Cosmetics US, Inc. a company established in the United States. If you do not agree to the policy, please do not use the Website.
+www.eyeslipsface.co.uk (the Website) is brought to you by e.l.f. Cosmetics, Inc. ("we"). This Privacy Policy describes the types of personal and other information we collect on the Website, how we use such information and to whom and under what circumstances we may disclose it. By accessing the Website on any computer, mobile phone, tablet, or other device (collectively, “Device”), you agree to the terms of this Privacy Policy and acknowledge that your information will be collected by e.l.f. Cosmetics, Inc.. a company established in the United States. If you do not agree to the policy, please do not use the Website.
 
 We may modify this Privacy Policy at any time. If we decide to change this Privacy Policy, we will post those changes on our Website. We encourage you to periodically review our Privacy Policy to stay informed about how we are using the information we collect.
 
