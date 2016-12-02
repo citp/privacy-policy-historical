@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the viewsoniceurope.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623065103id_/http%3A//www.viewsoniceurope.com/uk/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewsoniceurope.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202220554id_/http%3A//www.viewsoniceurope.com/uk/policy) for the most accurate reproduction.*
 
-# Privacy Policy - ViewSonic
+# Privacy Policy - Support - ViewSonic
+
+## Privacy Policy & Cookies
 
 Please find below the Privacy Policy for the Website operated by ViewSonic Europe Ltd. ViewSonic is committed to protecting your privacy and treats the handling of personal data seriously. The Privacy Policy below details how ViewSonic will treat your personal data after it has been collected by ViewSonic through your use of the Website. ViewSonic maintains the privacy of your information using security technologies and adhere to policies that prevent unauthorised use of your personal information. By using this Website, you consent to the collection and use of your information.
 
@@ -11,10 +13,9 @@ Websites you link to from ViewSoniceurope.com may have their own privacy policy 
     1. When you search for or request details on services or products from the Website, for example, registering a ViewSonic product online or entering a competition.
     2. Via unconditional data capture measures such as the use of cookies and studying the pages you read frequently (please see further at Clause 3 below).
     3. Via your individual IP location. This is a necessary function of the Website that enables ViewSonic to return details of information you have searched for, and in order for ViewSonic to diagnose problems with its server and to administer the website.
-  3. 3\. ViewSonic uses a third party tool Google Analytics, to analyse traffic on the Website. Google Analytics does not create individual profiles for visitors. Unlike some tracking services, Google Analytics does not have a database of individual profiles for each visitor. Google Analytics only collects aggregate data.
+  3. ViewSonic uses a third party tool Google Analytics, to analyse traffic on the Website. Google Analytics does not create individual profiles for visitors. Unlike some tracking services, Google Analytics does not have a database of individual profiles for each visitor. Google Analytics only collects aggregate data.
   4. **_Cookies_**  
-Like many web sites today, ViewSonic uses small text files (cookies) to support features like login and allow trusted media partners to analyse aggregated site usage . A cookie is a small piece of information sent by a web server to store on a web browser. This is useful for having the browser remember some specific information. The table below explains the cookies we use and why.  
-Cookie | Name | Purpose | More Information  
+Like many web sites today, ViewSonic uses small text files (cookies) to support features like login and allow trusted media partners to analyse aggregated site usage . A cookie is a small piece of information sent by a web server to store on a web browser. This is useful for having the browser remember some specific information. The table below explains the cookies we use and why. Cookie | Name | Purpose | More Information  
 ---|---|---|---  
 ViewSonic | __viewsonic-location, __cookie-consent | ViewSonic uses this cookie to remember the ViewSonic corporate website of the country/region you would like to visit, and preference of setting up cookies. |    
 Google Analytics | __utma, __utmb, __utmc, __utmz | Like many services, Google Analytics uses first-party cookies to track visitor interactions. These cookies are used to store information, such as what time the current visit occurred, whether the visitor has been to the site before, and what site referred the visitor to the web page. Browsers do not share first-party cookies across domains. | View the [Google Privacy Policy](http://www.google.com/analytics/learn/privacy.html)  
@@ -39,6 +40,10 @@ By disclosing your personal information via the Website, over the telephone or v
 
 ### Contact
 
-If you have any questions or concerns about the information ViewSonic holds about you may write to ViewSonic at ViewSonic Europe Ltd., Level 10, Tower 42, 25 Old Broad Street London, EC2N 1HQ United Kingdom.
+If you have any questions or concerns about the information ViewSonic holds about you may write to ViewSonic at ViewSonic Europe Ltd., 1st Floor Salamanca Place, 9 Albert Embankment ,London, SE1 7SP, United Kingdom.
 
-Document date: 24/01/2013
+Document date: 14/07/2016
+
+Select up to 3 product to compare their specifications.
+
+3 in the list already
