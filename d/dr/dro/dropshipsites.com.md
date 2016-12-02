@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropshipsites.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601061839id_/http%3A//www.dropshipsites.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropshipsites.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202070841id_/http%3A//www.dropshipsites.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Drop Ship Sites - Privacy Policy
 
