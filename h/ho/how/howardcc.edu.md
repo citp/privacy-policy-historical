@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howardcc.edu privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602054326id_/http%3A//www.howardcc.edu/about-us/consumer-information/privacy-statement/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howardcc.edu privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202123456id_/http%3A//www.howardcc.edu/about-us/consumer-information/privacy-statement/privacy.html) for the most accurate reproduction.*
 
 # College Security, Privacy, & Accessibility Policies | Howard Community College
 
