@@ -1,70 +1,49 @@
-> *The following text is extracted and transformed from the host4asp.net privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920004337id_/http%3A//host4asp.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the host4asp.net privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202090907id_/https%3A//host4asp.net/privacy-policy) for the most accurate reproduction.*
 
-# Host4ASP.NET Privacy policy - Host4ASP.NET
+# Privacy Policy - Host4ASP.NET
 
-Host4ASP.NET declares great importance to customer’s privacy protection. This privacy policy shows how we collect and use customers’ personal information. Customers who access the Sites or Services consent to our privacy policy by default.  
- 
+Host4ASP.NET regards customers' privacy as the most important matter. We work out this Privacy Policy to show how we collect and use customers' information as well as make a commit for the security and privacy of customers' information. We guarantee that we will never violate this policy.
 
-**Information Disclosure**  
- 
+### Information Collected
 
-Host4ASP.NET promises not to disclose or share customers’ personal information with the third party vendors without permission, except for special conditions when we need to provide necessary information to resolve a service request, to comply with federal or state law or subpoenas, or to comply with liquidation or mergers and acquisition-related activities.  
- 
+Customers are required to provide some personal information when signing up the hosting service. The information includes name, address, email, and phone number, and this type of collected information is used to finish the registration and manage each member's account. Besides, there is also some other information necessary for signing up the service, like credit card and PayPal account. When submitting the order, customers need to offer the credit card number or PayPal account information. 
 
-**Aggregate Statistics**  
- 
+We use the collected information for multiple purposes, including the service transaction, sales inquiries, support inquiries, and the notification of service. In this case, we have to disclose the information to the banking institutions, affiliates, and contractors. We strictly protect your information from sharing by the third parties, unless under some special conditions. For instance, if customers cooperate with the company to promote a certain service, the company needs to provide a part of customer's personal information, such as the username, name, and address. The information is used for the purpose of enabling customers and the company access to the results of the promotion.
 
-In special circumstances, such as doing a survey, Host4ASP.NET may share aggregate statistics, but not personally identifiable information, with partners or other third parties.   
- 
+### Domain Registration
 
-**Personal Information**  
- 
+Frankly, customer's domain registration information legally has to be published to the public. The information is stored in a database named as WHOIS. Everyone can access to the WHOIS database and view the registration information of each registrant. However, some people may intentionally steal the domain registration information and make use of it to do something illegal. To address this problem, the company uses the alternative information to replace the true information so that customer's domain registration information is not able to be seen by others.
 
-Host4ASP.NET provides online purchasing service. As long as customers complete the online order forms, they can experience our hosting services. Customers need to record all their personal contact and account information when filling out our forms. Host4ASP.NET promises that we only use customers’ contact and account information to provide hosting services.  
- 
+### Social Media
 
-**Security**  
- 
+Host4ASP.NET is connected with Google+, Twitter, and Facebook, which include some social media features, like the Like Button of Facebook and the comment section included in each social media. Those features may collect your IP address and track which page you have visited. When making comments to a post, it probably discloses some personal information to public. In this case, customers need to be cautious about their individual information and don't disclose too much privacy when signing up a social media. 
 
-Host4ASP.NET takes Customer’s information security seriously by utilizing standard security measures to prevent Customer Data from unauthorized access. These measures (including policies, employee training, physical access and system protocols and mechanisms) contribute to the secure exchange and transmission of sensitive data. In particular, sensitive information, such as credit card numbers collected for financial transactions, is encrypted before the transmission.   
- 
+### Customer Surveys
 
-Host4ASP.NET has to declare that we cannot predict the unexpected cases, such as loss, misuse, and alteration of the data or whatever. But we still try our best to protect the security of customer’s information. In case of an accident, Host4ASP.NET will inform the affected customer of transgression by email, fax, or, if necessary, U.S. Mail. Generally speaking, Host4ASP.NET will send the notification promptly, unless some unexpected case happens, for example, the notification stands to impede a criminal investigation. Under such circumstances, Host4ASP.NET may have to wait until such a notification no longer compromises the investigation.  
- 
+We keep doing customer surveys regularly and encourage our customers to actively join in those surveys. In the survey, customers are required to provide some important information that is used to help us improve the service. In some cases, the survey may be conducted by the third parties. However, we make a solemn promise to remain customer's personal information and responses extremely confidential. Note that customers have the right to determine whether participate in the survey or not. Participation in the customer survey is completely voluntary.
 
-**Service Announcement**  
- 
+We aggregate the information that we have received from the responding to our customer surveys to create broader responses to the survey questions. For example, the information is about age, gender, hobbies, education, residence, job, or the geographic information. Based on the collected information, we will improve our services and do the best to meet customers' expectations. Thus, customers are able to enjoy more efficient, reliable and trust-worthy services. Meanwhile, the aggregated information does us a favor to develop new products and services. Note that, the aggregated information and the non-personal information may be shared with third parties.
 
-In case that customer service may be affected by scheduled or unscheduled maintenance, we may need to send out a strictly service-related announcement. These emails are not optional and are more likely to act as a professional notification rather than promotion.  
- 
+### Data Security
 
-**Legal Disclaimer**  
- 
+We try our best to keep security of customers' information with the help of industry standard security measure to protect the exchange and transmission of the sensitive data. For some particularly sensitive information, like the credit card number, we encrypt it before transmitting it to our server. And also, we make every effort to ensure the security and integrity of the network and any facilities. In this case, we can guarantee to prevent the private information from stealing and damaging for the breakdown of network. For any information under our control, we make a commitment to take a series security measures to protect the information.
 
-Host4ASP.NET is dedicated to maintaining the integrity of our Customer’s privacy. But in some special conditions, such as suspended or reported fraudulent and/or illegal behaviors which may result in or probable to result in a subpoena, court order, or another applicable legal process, we may disclose the needed personal information. 
+### Legal Disclaimer
 
-This Privacy Policy is only to be applied to Customer data collected by Host4ASP.NET. The websites linked to by Host4ASP.NET are not, nor should they ever be assumed, associated with or regulated under this Privacy Policy. And we encourage your further inspection of the Privacy Policy of any website that collects your personal information.  
- 
+Although we are responsible for maintaining the integrity of customer's privacy, we must offer the personal information to the court order or the applicable legal process in the event of illegal behaviors. We declare that we are not responsible for the information loss and damage caused by some special reasons beyond our control, like natural disaster, military conflict, and illegal behaviors. And if customers misoperate the website and have not produced a backup for the data, we assume no responsibility for the data loss or information loss.
 
-**Customer Responsibility**  
- 
+### Children's Privacy
 
-It’s important to note that Customers should take the responsibility to safely store their login information, like user names and passwords, or any other information necessary to access private information maintained within the Host4ASP.NET systems.
+Our website is appropriate for people of all ages, but we are not directly towards children under 13 and don't collect any personal information from children themselves. If we are aware that there is personal information collected from a child under 13, we will take measures to delete the information. We suggest that children who are able to send individual information to the company or some other services online to do it after acquiring a permission from their parents.
 
-We have to note that there are some programs, such as key-loggers and viruses that can intercept the information from the computers used to enter your Host4ASP.NET account. So Customers should be cautious when using computers other than your own one, especially on those public computers used by different people.
+### Your Responsibility
 
-**Safe Harbor**  
- 
+You need to attach great importance to your individual information like the username and password and don't disclose them to others. In addition, when accessing to some public forums, you need to be cautious about your private information and prevent it from leaking. To keep security of your login information, we suggest you to modify your password regularly and set the password as complicated as possible. Host4ASP.NET allows you to modify, update, and access to your personal information through the control panel, any subject to certain exceptions need to be prescribed by law. You can also modify, update, and access to your personal information by contacting our support staffs via phone, email, and live chat. Please keep updating your contact information and make sure that you are able to receive the information.
 
-Host4ASP.NET complies with the U.S.-EU Safe Harbor and U.S.-Swiss Safe Harbor Framework, which are put forward by the U.S. Department of Commerce, concerning the collection, use, and retention of personal information from European Union member countries or Switzerland. Host4ASP.NET has certified that it complies with the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. We are dedicated to resolving any complaints about the privacy, collection, or use of your personal information. Customers who have inquiries or complaints about this privacy policy should first contact Host4ASP.NET at support@Host4ASP.NET.com.
+### Privacy Policy Revision
 
-Host4ASP.NET has been further devoted to referring unresolved privacy complaints under the U.S.-EU and U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU and Switzerland Safe Harbor Program, operated by the Council of Better Business Bureaus. If you don’t receive prompt acknowledgement of your complaint, or if your complaint is not resolved satisfactorily by Host4ASP.NET, please visit the BBB EU SAFE HARBOR website at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+Host4ASP.NET reserves the right to revise, amend, or modify this Privacy Policy in any circumstances and at any time. For any revision, amendment, or modification of this Privacy Policy, we will provide you with prior notification in time. We suggest you to keep reviewing this page more often than not.
 
-**Policy Changes**  
- 
+### Contact Us for Any Questions
 
-Host4ASP.NET may upgrade this privacy policy at any time. Once upgraded, we will renew the "Last update" date at the bottom of this page. Your continued use of this website and hosting service indicates that you understand and agree to this privacy policy as well as its updates.
-
-Lastly, if there’s any question about this policy and its implementation, please send an email to **support@host4asp.net**. Our sales team is willing to help you out. 
-
-Last updated: Tuesday, July 30, 2013
+If you have any problems about this Privacy Policy, please email support@host4asp.net and let us relieve your confusion.
