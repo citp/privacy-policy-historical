@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vidmax.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512031901id_/http%3A//vidmax.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidmax.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202205059id_/http%3A//vidmax.com/privacy) for the most accurate reproduction.*
 
-# VidMax.com | Videos to the Max!
+# Privacy Policy | VidMax.com
 
 Vidmax.com is committed to user privacy in our products and services. This policy outlines our personal information handling practices. If you give us personal information, we will treat it according to this policy. 
 
