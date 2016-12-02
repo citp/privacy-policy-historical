@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copblock.org privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603011518id_/http%3A//www.copblock.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copblock.org privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202065132id_/http%3A//www.copblock.org/privacy-policy) for the most accurate reproduction.*
 
 # Cop Block Privacy Statement | Cop Block
 
