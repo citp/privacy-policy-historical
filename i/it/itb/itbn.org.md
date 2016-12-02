@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itbn.org privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630050307id_/http%3A//www.tbn.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itbn.org privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202054551id_/http%3A//www.tbn.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
