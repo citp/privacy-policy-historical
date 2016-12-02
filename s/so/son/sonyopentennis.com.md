@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonyopentennis.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614021519id_/http%3A//miamiopen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonyopentennis.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202195345id_/http%3A//www.miamiopen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,11 +6,9 @@ PRIVACY POLICY
 
 IMG Worldwide Miami Open Privacy Policy
 
-Effective Date: March 21, 2016  
-  
+Effective Date: March 21, 2016
 
-
-This Privacy Statement describes how information about you is collected, used, and disclosed by IMG Worldwide, Inc.,  and our parents, subsidiaries and affiliates (collectively, "IMG Worldwide," "we" or "us") when you attend the Miami Open ("Miami Open") events, access or use our Miami Open website (collectively, the "Service"), or otherwise interact with us in connection with Miami Open. Please note that we may have different privacy statements with respect to certain parents, subsidiaries, affiliates, programs, or activities, and in those cases, this Privacy Statement will not apply.
+This Privacy Statement describes how information about you is collected, used, and disclosed by IMG Worldwide, LLC,  and our parents, subsidiaries and affiliates (collectively, "IMG Worldwide," "we" or "us") when you attend the Miami Open ("Miami Open") events, access or use our Miami Open website (collectively, the "Service"), or otherwise interact with us in connection with Miami Open. Please note that we may have different privacy statements with respect to certain parents, subsidiaries, affiliates, programs, or activities, and in those cases, this Privacy Statement will not apply.
 
 INFORMATION COLLECTION
 
