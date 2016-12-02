@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the something2offer.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210210125id_/http%3A//something2offer.com/about/blog-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the something2offer.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202154236id_/http%3A//something2offer.com/about/blog-privacy-policy) for the most accurate reproduction.*
 
-# Blog Privacy Policy - Something 2 OfferSomething 2 Offer
+# Blog Privacy Policy - Something 2 Offer
+
+[ ](https://www.facebook.com/sharer/sharer.php?s=100&p\[url\]=http://something2offer.com/about/blog-privacy-policy/)
+
+_This site uses affiliate links within posts, sidebar ads, and in post ads. All proceeds go to support our family._
 
 Everyone wants to know how safe their information is and what do you do with my name and email if I enter your giveaway, right? First off I am selfish and will not share your name or email with anyone besides the company that is offering the giveaway IF I have disclosed this before the sign-up. Otherwise it is safe to know that I will be in control of your emails and guard them from third-party advertisers.
 
@@ -12,4 +16,6 @@ When you click on links that take you away from Something 2 Offer that new site 
 
 Blog comments just like tweets and Facebook posts are PUBLIC. If you do not want others to see this information publicly then do not leave a comment. If you need to contact me privately then by all means please do so.
 
-[](http://www.shareasale.com/r.cfm?b=697397&u=722456&m=55858&urllink=&afftrack=)
+[ ](http://www.jdoqocy.com/click-7220902-12007919-1415996766000)
+
+[ ](https://www.facebook.com/sharer/sharer.php?s=100&p\[url\]=http://something2offer.com/about/blog-privacy-policy/)
