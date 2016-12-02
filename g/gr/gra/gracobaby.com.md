@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gracobaby.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614102942id_/http%3A//www.gracobaby.com/customerservice/pages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gracobaby.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202134743id_/http%3A//www.gracobaby.com/customerservice/pages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Graco
 
