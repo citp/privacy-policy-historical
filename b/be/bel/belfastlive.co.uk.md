@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the belfastlive.co.uk privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502132303id_/http%3A//www.belfastlive.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belfastlive.co.uk privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202084751id_/http%3A//www.belfastlive.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Belfast Live: Latest Belfast News, sport & celebrity gossip
-
-## PRIVACY STATEMENT
 
 IN RELATION TO ALL WEBSITES AND WEBSITE SERVICES OFFERED BY MGN LIMITED
 
