@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gipl.in privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505204941id_/http%3A//www.gipl.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gipl.in privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202094035id_/http%3A//gipl.in/privacy-policy.php) for the most accurate reproduction.*
 
 # Guj Info Petro Limited (GIPL) - Total IT Solutions Provider
 
