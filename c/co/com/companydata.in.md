@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companydata.in privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608073236id_/http%3A//companydata.in/privacy-policy/327540.py) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companydata.in privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202130109id_/http%3A//companydata.in/privacy-policy/327540.py) for the most accurate reproduction.*
 
 # Privacy policy - Company Data
 
