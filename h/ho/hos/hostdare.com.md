@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostdare.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607174817id_/http%3A//hostdare.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostdare.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202145732id_/http%3A//hostdare.com/privacy.html) for the most accurate reproduction.*
 
 # Hosting Plan
 
