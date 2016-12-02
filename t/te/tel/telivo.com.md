@@ -1,23 +1,21 @@
-> *The following text is extracted and transformed from the telivo.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627210006id_/http%3A//www.telivo.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telivo.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202064308id_/https%3A//www.lcn.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Domain names, web hosting & more
+# Privacy Policy - LCN.com
 
-Telivo Ltd. are committed to protecting your privacy. We will only use the information that we collect about you lawfully, in accordance with the Data Protection Act 1998.
+## Privacy policy
 
-## Why do we collect information?
+LCN are committed to protecting your privacy. We will only use the information that we collect about you lawfully, in accordance with the Data Protection Act 1998.
 
-We collect information about you for two reasons: 
+**We collect information about you for two reasons:**
 
   1. to track the contents of your shopping basket and process your order
   2. to provide you with the best possible service by analysing usage trends
 
 
 
-## How do we use this information?
+LCN under no circumstances send out unsolicited e-mails and will always give you the chance to refuse any marketing e-mail from us.
 
-Telivo Ltd. under no circumstances send out unsolicited e-mails and will always give you the chance to refuse any marketing e-mail from us including the telivo newsletter.
-
-The type of information we will collect about you includes:
+**The type of information we will collect about you includes:**
 
   * Your name
   * Postal address
@@ -27,22 +25,42 @@ The type of information we will collect about you includes:
 
 
 
-## What information do we collect?
+We only require information that is necessary for transactions; you have the option to withhold any personal information that is not required for the transaction. LCN does not pass on or sell any information we hold about you to third parties except where we have an obligation to do so as part of our terms of service see clauses 21.10, 21.11 and 21.12 and/or for the purpose of gathering feedback from customers to help improve the service see clause 41.11 of our [terms and conditions](https://web.archive.org/terms_and_conditions). We will never collect sensitive information about you without your explicit consent.
 
-We only require information that is necessary for transactions; you have the option to withhold any personal information that is not required for the transaction.
+The information we hold will be accurate and up to date. You can check the information that we hold about you by letter. If you find any inaccuracies we will delete or correct it promptly.
 
-Telivo Ltd. does not pass on or sell any information we hold about you to third parties.
-
-We will never collect sensitive information about you without your explicit consent.
-
-The information we hold will be accurate and up to date. You can check the information that we hold about you by e-mailing us at [privacy@telivo.com](mailto:privacy@telivo.com). If you find any inaccuracies we will delete or correct it promptly. We follow the stringent rules of the Data Protection Act 1998 and we, therefore, ensure that information about you is not damaged, destroyed or disclosed to a third party without your permission. However, to uphold this you must confirm you identity before we will disclose any information to you.
-
-## How do we keep the information secure?
+We follow the stringent rules of the Data Protection Act 1998 and we, therefore, ensure that information about you is not damaged, destroyed or disclosed to a third party without your permission. However, to uphold this you must confirm you identity before we will disclose any information to you.
 
 The personal information which we hold will be held securely in accordance with our internal security policy and the law.
 
-## Do we transfer the information we collect abroad?
+If we intend to transfer your information outside the EEA (European Economic Area) we will always obtain your consent first.
 
-If we intend to transfer your information outside the EEA (European Economic Area) we will always obtain your consent first. We may use technology to save information on your computer through a session cookie that allows us to track your user and shopping basket details. You can usually modify your browser settings to prevent cookies being created/set, however by doing this you will not be able to order from our site.
+We may use technology to save information on your computer through a session cookie that allows us to track your user and shopping basket details.
 
-If you have any questions/comments about privacy, you should e-mail us at [privacy@telivo.com](mailto:privacy@telivo.com).
+You can usually modify your browser settings to prevent cookies being created/set, however by doing this you will not be able to order from our site.
+
+#### Trustpilot
+
+We have implemented the Trustpilot automatic feedback service to collect feedback from our customers as part of our commitment to improving our services. Trustpilot will only contact LCN customers for an initial feedback request, unless the customer is a registered user of Trustpilot. The following details are provided to Trustpilot for them to send the feedback request.
+
+  * Customer name
+  * LCN Order reference
+  * Customer e-mail address
+
+
+
+After the initial feedback request, no further requests are sent.
+
+#### Google Analytics
+
+We have implemented the Google Analytics to assess & improve the performance of our website. Google Analytics uses cookies to track usage across multiple visits.
+
+#### Google Remarketing
+
+We have implemented the Google remarketing tool. When you browse our website we allow Google to collect non-identifiable information about your visit by setting a cookie. This information may be used to display relevant advertisements, based on a user's prior visits to our website, on the Google network, other Google sources (e.g. Gmail) and on third party sites on the Internet.
+
+We do not provide Google with any personally identifiable information.
+
+## Questions & comments
+
+If you have any questions / comments about privacy, you should use the ticketing system on the [contact us page](https://web.archive.org/contact) or send a letter marked **FAO: Privacy**.
