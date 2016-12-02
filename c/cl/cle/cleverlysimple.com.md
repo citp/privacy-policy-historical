@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cleverlysimple.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605140656id_/http%3A//www.cleverlysimple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverlysimple.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202024608id_/http%3A//www.cleverlysimple.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Cleverly Simple®
 
 **What information do we collect?**
 
@@ -34,11 +34,11 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 .:: Google, as a third party vendor, uses cookies to serve ads on www.cleverlysimple.com.
 
-.:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to www.cleverlysimple.com and other sites on the Internet. 
+.:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to www.cleverlysimple.com and other sites on the Internet.
 
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html 
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….   
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….  
 Google Adsense  
 Commission Junction  
 Linkshare  
