@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the compiere.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608185939id_/http%3A//www.aptean.com/en/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compiere.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202233113id_/http%3A//www.aptean.com/en/Privacy-Statement) for the most accurate reproduction.*
 
-# Privacy Statement - Effective as of January 28, 2016 - Aptean - Enterprise Software Solutions - Business Software Applications, Software Products and Services
+# Privacy Statement - Effective as of October 3, 2016 - Aptean - Enterprise Software Solutions - Business Software Applications, Software Products and Services
 
 ## COMMITTED TO PROTECTING YOUR INFORMATION
 
@@ -8,7 +8,7 @@ Aptean is committed to protecting personal information that we collect from you 
 
 This Privacy Statement covers the information practices of websites that link to this Privacy Statement, including without limitation: Aptean.com, Aptean.co.uk, Aptean.fr, Aptean.de, Aptean.es, Aptean.cn, and Aptean.jp (collectively referred to as “Aptean’s websites”, “our websites” or “the Company’s websites”). Within this Privacy Statement, “Aptean” “we” and “our” means any one or all of the Aptean group of companies, including without limitation those listed at the bottom of this Privacy Statement.
 
-Please read this Privacy Statement carefully to understand our policies and practices regarding your personal information and how we will treat it. If you do not agree with our policies and practices, you should not use our websites. By accessing or using one of the websites, you are agreeing to this Privacy Statement. This Privacy Statement may change from time to time (see [Changes to this Statement ](http://www.aptean.com/privacy-statement#changestopolicy)). Your continued use of our websites after we make changes is deemed to be acceptance of those changes, so please check the Privacy Statement periodically for updates.
+Please read this Privacy Statement carefully to understand our policies and practices regarding your personal information and how we will treat it. If you do not agree with our policies and practices, you should not use our websites. By accessing or using one of the websites, you are agreeing to this Privacy Statement. This Privacy Statement may change from time to time (see [Changes to this Statement](http://www.aptean.com/privacy-statement#changes)). Your continued use of our websites after we make changes is deemed to be acceptance of those changes, so please check the Privacy Statement periodically for updates.
 
 ## COLLECTION OF INFORMATION 
 
@@ -39,7 +39,7 @@ Domain name information that we collect is not used to personally identify you a
 
 We use your personal information to respond to your inquiries or to process your requests (such as to receive promotional materials). We also use it to administer our websites and for internal operations, including work planning, management and strategic decision making, troubleshooting, data analysis and hygiene, for updating and validating databases, product development, testing, research, statistical and survey purposes.
 
-We may also use your personal information to provide you, and/or permit selected third parties to provide you, with information about products, services, promotions or events that may interest you. Aptean and these selected third parties may contact you by telephone, mail or by other means for these purposes. We and our selected third parties will only contact you by electronic means (e-mail or SMS) if you have consented to this in advance. If you do not want us to use your data in the manner described in this paragraph, or to pass your details on to third parties for marketing purposes, [_please tell us_](http://www.aptean.com/privacy-statement#yourrights).
+We may also use your personal information to provide you, and/or permit selected third parties to provide you, with information about products, services, promotions or events that may interest you. Aptean and these selected third parties may contact you by telephone, mail or by other means for these purposes. We and our selected third parties will only contact you by electronic means (e-mail or SMS) if you have consented to this in advance. If you do not want us to use your data in the manner described in this paragraph, or to pass your details on to third parties for marketing purposes, [please tell us](http://www.aptean.com/privacy-statement#yourrights).
 
 We may share your personal information with other companies that are involved directly in providing services to us.We will only share personal information about you that is reasonably necessary for the other companies to have in order to provide their services to Aptean. These companies are contractually bound to use personal information we share with them only to perform the services we have engaged them to provide. We may also share your information with selected third parties including business partners for the performance of any contract we enter into with them.
 
@@ -47,7 +47,7 @@ We will release information about you if you direct us to do so, if we are requi
 
 ## YOUR RIGHTS
 
-If you provide us with personal information, you shall have the right, on reasonable prior written notice to inspect, change, amend, or delete such information by sending an email to[ info@aptean.com](mailto:info@aptean.com).
+If you provide us with personal information, you shall have the right, on reasonable prior written notice to inspect, change, amend, or delete such information by sending an email to [ info@aptean.com](mailto:info@aptean.com).
 
 You have the right to ask us not to process your personal information for marketing purposes. You can exercise your right to prevent such processing by indicating your preferences on the forms we use to collect your data.You can also exercise the right at any time by contacting us at [info@aptean.com](mailto:info@aptean.com) or at the following address:
 
@@ -56,7 +56,7 @@ Aptean Marketing Department,
 Alpharetta, Georgia 30022   
 USA
 
-You may also manage your receipt of marketing communications by clicking on the “unsubscribe” link located on the bottom of Aptean’s marketing emails. 
+You may also manage your receipt of marketing communications by clicking on the “unsubscribe” link located on the bottom of Aptean’s marketing emails.
 
 ## LINKS TO OTHER SITES
 
@@ -68,7 +68,7 @@ We maintain strict physical, electronic, and administrative safeguards that are 
 
 ## WHERE WE STORE YOUR PERSONAL INFORMATION
 
-Aptean primarily stores the information we collect in the United States. To facilitate Aptean’s global operations, staff who work for Aptean and/or our suppliers may transfer and access such information from locations around the world, including any countries in which we have operations. A list of Aptean’s global offices at the date of this Privacy Statement is available [here](http://www.aptean.com/company/locations). 
+Aptean primarily stores the information we collect in the United States. To facilitate Aptean’s global operations, staff who work for Aptean and/or our suppliers may transfer and access such information from locations around the world, including any countries in which we have operations. A list of Aptean’s global offices at the date of this Privacy Statement is available [here](http://www.aptean.com/company/locations).
 
 By providing your personal information, you agree to this transfer, storing and/or processing. We will take all steps reasonably necessary to ensure that your personal information is treated securely and in accordance with this Privacy Statement.
 
@@ -82,11 +82,11 @@ Our websites are not intended for persons under 13 years of age. By using our we
 
 ## QUESTIONS 
 
-If you have any questions, comments or suggestions about our personal information practices or about this Privacy Statement, please feel free to send us an e-mail at[ info@aptean.com](mailto:info@aptean.com).
+If you have any questions, comments or suggestions about our personal information practices or about this Privacy Statement, please feel free to send us an e-mail at [ info@aptean.com](mailto:info@aptean.com).
 
 ## APTEAN GROUP OF COMPANIES
 
-The Aptean group includes but is not limited to the following companies: Aptean Inc; Aptean Systems, LLC; ActivPlant Corporation; AssetPoint LLC: CDC Software Canada Limited; Pivotal Corporation dba Aptean Canada Corporation; Computron Software, LLC; CoreTrac, Inc.; Medworxx, Inc; Aptean Limited; Respond Group Limited trading as Aptean; Aptean Systems UK Limited; Computron Software Limited; Medworxx UK Limited; Aptean Iberica S.L.U; IMI Holdings Ireland Limited trading as Aptean; Pivotal Technologies Corporation trading as Aptean; Aptean GmbH; Aptean France S.A; Saratoga Systems SARL trading as Aptean; Aptean Poland, sp.zoo; Aptean OY; Aptean Nederland B.V.; CDC Software (Denmark) ApS; Ross System N.V.; Aptean AB; Saratoga Systems AB; Aptean Software Private Limited; Aptean India Private Limited; Aptean (Australia) Pty Ltd; CDC Software Japan KK trading as Aptean; Consona Japan Company Ltd trading as Aptean; Cimnet Systems Asia Pacific Limited trading as Aptean; CDC Software Asia Corp trading as Aptean; Consona Shenzhen Limited trading as Aptean; GEN2 Enterprise Software (Pty) Ltd; Procurement Network (Pty) Ltd; Procurement Network (Pty) Ltd. and CDC Software Singapore Pte Ltd. 
+The Aptean group includes but is not limited to the following companies: Aptean Inc; Aptean Systems, LLC; ActivPlant Corporation; Advanced Public Safety, Inc; AssetPoint LLC: CDC Software Canada Limited; Pivotal Corporation dba Aptean Canada Corporation; Computron Software, LLC; CoreTrac, Inc; Medworxx, Inc; Aptean Limited; Respond Group Limited trading as Aptean; Aptean Systems UK Limited; Computron Software Limited; Medworxx UK Limited; Aptean Iberica S.L.U; IMI Holdings Ireland Limited trading as Aptean; Pivotal Technologies Corporation trading as Aptean; Aptean GmbH; Aptean France S.A; Saratoga Systems SARL trading as Aptean; Aptean Poland, sp.zoo; Aptean OY; Aptean Nederland B.V.; CDC Software (Denmark) ApS; Ross System N.V.; Aptean AB; Saratoga Systems AB; Aptean Software Private Limited; Aptean India Private Limited; Aptean (Australia) Pty Ltd; CDC Software Japan KK trading as Aptean; Consona Japan Company Ltd trading as Aptean; Cimnet Systems Asia Pacific Limited trading as Aptean; CDC Software Asia Corp trading as Aptean; Consona Shenzhen Limited trading as Aptean; GEN2 Enterprise Software (Pty) Ltd; Procurement Network (Pty) Ltd; Procurement Network (Pty) Ltd.; CDC Software Singapore Pte Ltd; StarDyne Technologies Inc; StarDyne Technologies US Inc; Vadim Computer Management Group; Vadim Municipal Software Inc; Diamond Software Inc; Diamond Municipal Software Inc; The Tempest Development Group Inc; United Systems Technology, Inc; USTI Canada, Inc; WorkTech Inc; Stone Orchard Inc; Dreamstalk Studios Inc, Yfactor Inc and GQ Life Sciences, Inc..
 
 ## CHANGES TO THIS STATEMENT
 
