@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vedicfolks.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122211046id_/http%3A//www.vedicfolks.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vedicfolks.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202024103id_/http%3A//www.vedicfolks.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -76,6 +76,3 @@ By telephone:
 +91 9176777137, 9176777597
 
 By Email: [support@vedicfolks,com](mailto:support@harvestapp.com)
-
-
-
