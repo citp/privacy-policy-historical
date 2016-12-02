@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsi.org privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629071236id_/http%3A//www.hsi.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsi.org privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202070007id_/http%3A//www.hsi.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Humane Society International
 
@@ -6,7 +6,7 @@ January 1, 2010
 
 Humane Society International (HSI) is committed to your right to privacy and to keeping your personal information private. You can visit the Humane Society International web site without telling us who you are or revealing any identifying information about yourself. However, because our web site includes areas in which visitors can provide personally identifying information, we have developed this Privacy Policy to inform you of our policies and practices regarding information we collect about you.
 
-This Privacy Policy governs the URL [http://www.hsi.org](http://www.hsi.org/) and certain electronic communications sent out by HSI. This web site is owned and operated by Humane Society International for the benefit of its members and other visitors interested in the protection of all animals. Our headquarters is located at 2100 L Street, NW, Washington, DC 20037 USA. HSI reserves the right to modify or amend this Privacy Policy at any time and for any reason. Any changes to this Privacy Policy will be preceded by a notice posted to this Privacy Policy at least ten (10) days prior to the effective date of such change.
+This Privacy Policy governs the URL [http://www.hsi.org](http://www.hsi.org/) and certain electronic communications sent out by HSI. This web site is owned and operated by Humane Society International for the benefit of its members and other visitors interested in the protection of all animals. Our headquarters is located at 1255 23rd Street, NW, Suite 450, Washington, DC 20037 USA. HSI reserves the right to modify or amend this Privacy Policy at any time and for any reason. Any changes to this Privacy Policy will be preceded by a notice posted to this Privacy Policy at least ten (10) days prior to the effective date of such change.
 
 ## How we collect information about you
 
@@ -37,4 +37,4 @@ From time to time, we may make such voluntary information, excluding credit card
 ** HSI uses generally accepted, industry-standard security systems, software, and encryption technologies -- Secure Sockets Layer (SSL) -- for the secure transfer of personal and financial data and to protect against unauthorized access to HSI servers, equipment, and other components of our online presence. This includes using industry-standard security systems to protect credit card processing information. Our web servers are hosted off-site at multiple, physically secure facilities with limited access.
 
 **Contacting HSI  
-** If you would like to contact HSI about correcting information we might have collected, or if you have any questions about this Privacy Policy, please e-mail us at [info@hsi.org](mailto:info@hsi.org) or write to us at Webmaster, HSI, 2100 L Street, NW, Washington, DC 20037 USA.
+** If you would like to contact HSI about correcting information we might have collected, or if you have any questions about this Privacy Policy, please e-mail us at [info@hsi.org](mailto:info@hsi.org) or write to us at Webmaster, HSI, 1255 23rd Street, NW, Suite 450, Washington, DC 20037 USA.
