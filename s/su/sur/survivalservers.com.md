@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the survivalservers.com privacy policy that was archived on 2015-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150721074533id_/http%3A//survivalservers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survivalservers.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202231727id_/https%3A//survivalservers.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Survival Servers
 
