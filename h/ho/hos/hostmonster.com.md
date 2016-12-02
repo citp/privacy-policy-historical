@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostmonster.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124024026id_/http%3A//www.hostmonster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostmonster.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202084659id_/https%3A//www.hostmonster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HostMonster
 
