@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the consumerdepot.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209174850id_/http%3A//consumerdepot.com/pg_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerdepot.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202201710id_/http%3A//www.consumerdepot.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# Consumer Depot Electronics & Computer Liquidator
-
-## SEARCH
-
-## BROWSE CATEGORIES
-
-## JOIN MAILING LIST
+# Consumer Depot
 
 **Security**   
 To guard against credit card fraud, we offer secure online ordering using the latest Secure Sockets Layer (SSL) encryption technology. The connection between your browser and our servers is encrypted with industry-standard SSL technology, which scrambles ordering information so that only your browser and our servers can decipher it. To use this option you must have a browser that supports SSL, such as later versions of Microsoft Internet Explorer or Mozilla Firefox. 
@@ -27,7 +21,7 @@ Consumer Depot LLC
 3332 Powell Avenue  
 Nashville, TN 37204 
 
-  * Our e-mail address for general information is [support@consumerdepot.com ](mailto:support@consumerdepot.com)
+  * Our e-mail address for general information is [ support@consumerdepot.com ](mailto:support@consumerdepot.com)
   * Our telephone number is 615-263-0282 
   * Our fax number is 615-851-2126 
 
@@ -35,14 +29,4 @@ Nashville, TN 37204
 
 **Access to Your Information**
 
-By using our Web site, you consent to the collection and use of this information by Consumer Depot described in this Policy. If we change our privacy policy we will post any change on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-© Copyright 1997 - 2013 Consumer Depot, LLC. All rights reserved.
-
-[](https://web.archive.org/web/20151209174850id_/http%3A//consumerdepot.com/pg_categories.asp?id=MPP&manfid=AP)
-
-## FEATURED PRODUCTS
-
-[](https://web.archive.org/web/20151209174850id_/http%3A//consumerdepot.com/pg_protection_plan.asp)
-
-## CERTIFICATIONS
+By using our Web site, you consent to the collection and use of this information by Consumer Depot described in this Policy. If we change our privacy policy we will post any change on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
