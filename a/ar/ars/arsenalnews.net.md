@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arsenalnews.net privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406234002id_/http%3A//www.arsenalnews.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arsenalnews.net privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202072410id_/http%3A//arsenalnews.net/privacypolicy) for the most accurate reproduction.*
 
 # Arsenal News - Privacy Policy
 
