@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hostclear.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506051219id_/https%3A//www.hostclear.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostclear.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202103721id_/https%3A//www.hostclear.com/privacy) for the most accurate reproduction.*
 
-# Privacy - HostClear
+# Vita privata - HostClear
 
 #### 1\. Who We Are
 
