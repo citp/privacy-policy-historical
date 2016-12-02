@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sosnc.gov privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523193920id_/http%3A//www.sosnc.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sosnc.gov privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202234429id_/https%3A//www.sosnc.gov/privacy) for the most accurate reproduction.*
 
 # North Carolina Secretary of State
 
@@ -26,4 +26,4 @@ The North Carolina Department of the Secretary of State website may contain link
 
 If you have any questions or comments about the North Carolina Department of the Secretary of State privacy policy, please forward them to Department of the Secretary of State, P.O. Box 29622, Raleigh, NC 27626-0622, or email them to Please enable Javascript to view.
 
-[Return to Secretary of State Home Page](https://web.archive.org/web/20160523193920id_/http://www.sosnc.gov/thepage.aspx)
+[Return to Secretary of State Home Page](https://web.archive.org/web/20161202234429id_/http://sosnc.gov/thepage.aspx)
