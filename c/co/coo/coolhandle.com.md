@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolhandle.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606055425id_/http%3A//www.coolhandle.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolhandle.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202091946id_/http%3A//www.coolhandle.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web Hosting by CoolHandle.com
 
