@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the access-board.gov privacy policy that was archived on 2015-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206142157id_/http%3A//www.access-board.gov/the-board/policies/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the access-board.gov privacy policy that was archived on 2016-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161203213846id_/https%3A//www.access-board.gov/the-board/policies/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us" dir="ltr"><head>
         <meta name="template-revision" content="$Rev$">
@@ -11,26 +11,72 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js" type="text/javascript"></script>
 
         <!-- The following JDOC Head tag loads all the header and meta information from your site config and content. -->
-          <base href="http://www.access-board.gov/the-board/policies/privacy-policy">
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="author" content="Bruce Bailey">
-  <meta name="generator" content="Joomla! - Open Source Content Management">
-  <title>Privacy Policy - United States Access Board</title>
-  <link href="/templates/accessboard/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-  <link rel="stylesheet" href="/media/com_attachments/css/attachments_hide.css" type="text/css">
-  <link rel="stylesheet" href="/media/com_attachments/css/attachments_list.css" type="text/css">
-  <link rel="stylesheet" href="/media/com_finder/css/finder.css" type="text/css">
-  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
-  <script src="/media/system/js/core.js" type="text/javascript"></script>
-  <script src="/media/system/js/caption.js" type="text/javascript"></script>
-  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
-  <script src="/media/com_attachments/js/attachments_refresh.js" type="text/javascript"></script>
-  <script src="/media/com_finder/js/autocompleter.js" type="text/javascript"></script>
-  <script type="text/javascript">
-window.addEvent('load', function() {
+        	<base href="https://www.access-board.gov/the-board/policies/privacy-policy">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="author" content="Bruce Bailey">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Privacy Policy - United States Access Board</title>
+	<link href="/templates/accessboard/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+	<link href="/media/system/css/modal.css" rel="stylesheet" type="text/css">
+	<link href="/media/com_attachments/css/attachments_hide.css" rel="stylesheet" type="text/css">
+	<link href="/media/com_attachments/css/attachments_list.css" rel="stylesheet" type="text/css">
+	<link href="/media/com_finder/css/finder.css" rel="stylesheet" type="text/css">
+	<script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+	<script src="/media/system/js/core.js" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+	<script src="/media/system/js/modal.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+	<script src="/media/com_attachments/js/attachments_refresh.js" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/media/com_finder/js/autocompleter.js" type="text/javascript"></script>
+	<script type="text/javascript">
+
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($('a.modal').get(), {
+				parse: 'rel'
+			});
+		});
+
+		window.jModalClose = function () {
+			SqueezeBox.close();
+		};
+		
+		// Add extra modal close functionality for tinyMCE-based editors
+		document.onreadystatechange = function () {
+			if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
+			{
+				if (typeof window.jModalClose_no_tinyMCE === 'undefined')
+				{	
+					window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
+					
+					jModalClose = function () {
+						if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+		
+				if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
+				{
+					if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
+					window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
+		
+					SqueezeBox.close = function () {
+						if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+			}
+		};
+		
+jQuery(window).on('load',  function() {
 				new JCaption('img.caption');
 			});
-  </script>
+jQuery(function($){ $(".hasTooltip").tooltip({"html": true,"container": "body"}); });
+	</script>
 
 
         <link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet" type="text/css">
@@ -53,7 +99,7 @@ window.addEvent('load', function() {
 
         
         <!-- Add the Universal Federated Analytics code -->
-        <script type="text/javascript" id="_fed_an_ua_tag" src="/templates/accessboard/js/Universal-Federated-Analytics-Min.1.0.js?agency=USAB"></script>
+        <script type="text/javascript" id="_fed_an_ua_tag" src="/templates/accessboard/js/Universal-Federated-Analytics-Min.js?agency=USAB"></script>
     </head>
     <body>
         <a id="skipto" href="#main-container">Skip to Content</a>
@@ -74,7 +120,7 @@ window.addEvent('load', function() {
 
 		// Set the input value if not already set.
 		if (!document.id('mod-finder-searchword').getProperty('value')) {
-			document.id('mod-finder-searchword').setProperty('value', 'Search...');
+			document.id('mod-finder-searchword').setProperty('value', 'Search ...');
 		}
 
 		// Get the current value.
@@ -82,7 +128,7 @@ window.addEvent('load', function() {
 
 		// If the current value equals the default value, clear it.
 		document.id('mod-finder-searchword').addEvent('focus', function() {
-			if (this.getProperty('value') == 'Search...') {
+			if (this.getProperty('value') == 'Search ...') {
 				this.setProperty('value', '');
 			}
 		});
@@ -123,19 +169,18 @@ window.addEvent('load', function() {
 	<div class="finder">
 		<input type="text" name="q" id="mod-finder-searchword" class="shadow inputbox" title="Search" size="25" value=""><button class="shadow button finder" type="submit"><img src="/templates/accessboard/images/search-button.png" alt="Search"></button>
 						<ul id="tax-category">
-			<li><input id="search-section" type="radio" name="t[]" value="402" checked="true"><label for="search-section">Search Policies</label></li>
+			<li><input id="search-section" type="radio" name="t[]" value="746" checked="true"><label for="search-section">Search Policies</label></li>
 			<li><input id="search-all" type="radio" name="t[]" value=""><label for="search-all">Search entire site</label></li>
 			<!-- <input type="radio" name="t[]" value="196">Standard</input> -->
 		</ul>
-				<input type="hidden" name="Itemid" value="360">	</div>
+					</div>
 </form>
 
                     </div>
                             </div>
             <span class="clear"></span>
                             <div id="top-menu">
-                    
-<ul class="menu">
+                    <ul class="nav menu">
 <li class="item-181 alias-parent-active"><a href="/the-board">The Board</a></li><li class="item-167"><a href="/guidelines-and-standards">Guidelines &amp; Standards</a></li><li class="item-107"><a href="/training">Training</a></li><li class="item-109"><a href="/aba-enforcement">Enforcement</a></li><li class="item-106"><a href="/research">Research</a></li></ul>
 
                 </div>
@@ -144,49 +189,73 @@ window.addEvent('load', function() {
                 <div class="content-container">
 			<div class="breadcrumbs">
 			
-<div class="breadcrumbs">
-<a href="/" class="pathway">Home</a> &gt; <a href="/the-board" class="pathway">The Board</a> &gt; <a href="/the-board/policies" class="pathway">Policies</a> &gt; <span>Privacy Policy</span></div>
+<ul itemscope="" itemtype="https://schema.org/BreadcrumbList" class="breadcrumb">
+			<li class="active">
+			<span class="divider icon-location"></span>
+		</li>
+	
+				<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+									<a itemprop="item" href="/" class="pathway"><span itemprop="name">Home</span></a>
+				
+									<span class="divider">
+						&gt;					</span>
+								<meta itemprop="position" content="1">
+			</li>
+					<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+									<a itemprop="item" href="/the-board" class="pathway"><span itemprop="name">The Board</span></a>
+				
+									<span class="divider">
+						&gt;					</span>
+								<meta itemprop="position" content="2">
+			</li>
+					<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+									<a itemprop="item" href="/the-board/policies" class="pathway"><span itemprop="name">Policies</span></a>
+				
+									<span class="divider">
+						&gt;					</span>
+								<meta itemprop="position" content="3">
+			</li>
+					<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem" class="active">
+				<span itemprop="name">
+					Privacy Policy				</span>
+				<meta itemprop="position" content="4">
+			</li>
+		</ul>
 
 		</div>
-		
-<div id="system-message-container">
-</div>
+		<div id="system-message-container">
+	</div>
+
 			<div class="large-sidebar right internal">
 					<div class="moduletop"></div>
 		<div class="module">
 					<h3>The Board </h3>
-				
-<ul class="menu">
-<li class="item-1236 alias-parent-active"><a href="/the-board">Mission </a></li><li class="item-1229"><a href="/the-board/members">Board Members</a></li><li class="item-1230"><a href="/board-meeting/cat_listevents/-">Board Meetings </a></li><li class="item-1231"><a href="/the-board/conference-space">Conference Space </a></li><li class="item-1232"><a href="/the-board/budget-and-performance">Budget and Performance </a></li><li class="item-1244"><a href="/the-board/board-history">Board History </a></li><li class="item-1522"><a href="/the-board/rulemaking">Rulemaking </a></li><li class="item-1234"><a href="/the-board/laws">Laws </a></li><li class="item-1235 alias-parent-active deeper parent"><a href="/the-board/policies">Policies </a><ul><li class="item-1237"><a href="/the-board/policies/accessibility-statement">Accessibility Statement</a></li><li class="item-1238"><a href="/the-board/policies/fragrance-free-environment">Fragrance-Free Environment</a></li><li class="item-1239"><a href="/the-board/policies/freedom-of-information-act-foia">Freedom of Information Act</a></li><li class="item-1240"><a href="/the-board/policies/information-quality">Information Quality</a></li><li class="item-1241"><a href="/the-board/policies/plain-language">Plain Language</a></li><li class="item-1242 active"><a href="/the-board/policies/privacy-policy">Privacy Policy</a></li><li class="item-1243"><a href="/the-board/policies/reasonable-accommodation-procedures">Reasonable Accommodation Procedures</a></li><li class="item-1756"><a href="/the-board/policies/shutdown-plan">Shutdown Plan</a></li></ul></li></ul>
+				<ul class="nav menu">
+<li class="item-1236 alias-parent-active"><a href="/the-board">Mission </a></li><li class="item-1229"><a href="/the-board/members">Board Members</a></li><li class="item-1230"><a href="/board-meeting">Board Meetings </a></li><li class="item-1231"><a href="/the-board/conference-space">Conference Space </a></li><li class="item-1232"><a href="/the-board/budget-and-performance">Budget and Performance </a></li><li class="item-1244"><a href="/the-board/board-history">Board History </a></li><li class="item-1522"><a href="/the-board/rulemaking">Rulemaking </a></li><li class="item-1234"><a href="/the-board/laws">Laws </a></li><li class="item-1235 alias-parent-active deeper parent"><a href="/the-board/policies">Policies </a><ul class="nav-child unstyled small"><li class="item-1237"><a href="/the-board/policies/accessibility-statement">Accessibility Statement</a></li><li class="item-1238"><a href="/the-board/policies/fragrance-free-environment">Fragrance-Free Environment</a></li><li class="item-1239"><a href="/the-board/policies/freedom-of-information-act-foia">Freedom of Information Act</a></li><li class="item-1240"><a href="/the-board/policies/information-quality">Information Quality</a></li><li class="item-1241"><a href="/the-board/policies/plain-language">Plain Language</a></li><li class="item-1242 current active"><a href="/the-board/policies/privacy-policy">Privacy Policy</a></li><li class="item-1243"><a href="/the-board/policies/reasonable-accommodation-procedures">Reasonable Accommodation Procedures</a></li><li class="item-1756"><a href="/the-board/policies/shutdown-plan">Shutdown Plan</a></li></ul></li></ul>
 		</div>
 		<div class="modulebottom"></div>
 	
 		</div>
 		<div class="left main-content">
 			<div class="no-sidebar">
-				<div class="item-page">
-
-	<h2>
-			Privacy Policy		</h2>
-
-	<ul class="actions">
-						<li class="print-icon">
-			<a href="/the-board/policies/privacy-policy?tmpl=component&amp;print=1&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/accessboard/images/system/printButton.png" alt="Print"></a>			</li>
-		
-					<li class="email-icon">
-			<a href="/component/mailto/?tmpl=component&amp;template=accessboard&amp;link=0bda52ed1a49d60c271cf09f8f3d1afb2fa7121d" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/templates/accessboard/images/system/emailButton.png" alt="Email"></a>			</li>
-		
-		
+				<div class="item-page" itemscope="" itemtype="https://schema.org/Article">
+	<meta itemprop="inLanguage" content="en-US">
 	
-	</ul>
-
-
-
-
-
-
-
-<div class="attachmentsContainer">
+		
+			<div class="page-header">
+					<h2 itemprop="headline">
+				Privacy Policy			</h2>
+									</div>
+							                            <ul class="actions">
+                                    <li class="print-icon"> <a href="/the-board/policies/privacy-policy?tmpl=component&amp;print=1&amp;page=" title="Print article < Privacy Policy >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/accessboard/images/system/printButton.png" alt="Print"></a> </li>
+                                                    <li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=accessboard&amp;link=6fee6db43a066efc5a3b95d21beeafeb76aab323" title="Email this link to a friend" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow"><img src="/templates/accessboard/images/system/emailButton.png" alt="Email"></a> </li>
+                                            </ul>
+    			
+	
+	
+				
+								<div itemprop="articleBody">
+		<div class="attachmentsContainer">
 
 <div class="attachmentsList" id="attachmentsList_com_content_default_133"></div>
 
@@ -213,9 +282,10 @@ window.addEvent('load', function() {
 <h3>Links to Other Sites</h3>
 <p>Our website has links to many other Federal agencies and non-commercial sites.&nbsp; Once you link to another site, you are subject to the privacy policy of the other site.</p>
 <h3>Contact for Further Information</h3>
-<p>If you have questions or comments about the Board’s privacy policy, please contact us.</p>
+<p>If you have questions or comments about the Board’s privacy policy, please contact us.</p>	</div>
+
 	
-</div>
+							</div>
 	
 		</div>
 			</div>
@@ -240,9 +310,8 @@ window.addEvent('load', function() {
 
                                             </div>
                                         <div class="right">
-                        
-<ul class="menu">
-<li class="item-500"><a href="/contact-us">Contact Us</a></li><li class="item-147"><a href="/the-board/policies/accessibility-statement">Accessibility Statement</a></li><li class="item-144"><a href="/sitemap">Sitemap</a></li><li class="item-148"><a href="/the-board/budget-and-performance">Budget and Performance</a></li><li class="item-145"><a href="/en-español/sobre-el-consejo-de-acceso">En Español</a></li><li class="item-364"><a href="/the-board/budget-and-performance/equal-employment-opportunity-eeo-data">No Fear Act Data</a></li><li class="item-146 active"><a href="/the-board/policies/privacy-policy">Privacy Policy</a></li><li class="item-151"><a href="/the-board/policies/freedom-of-information-act-foia">Freedom of Information </a></li></ul>
+                        <ul class="nav menu">
+<li class="item-500"><a href="/contact-us">Contact Us</a></li><li class="item-147"><a href="/the-board/policies/accessibility-statement">Accessibility Statement</a></li><li class="item-144"><a href="/sitemap">Sitemap</a></li><li class="item-148"><a href="/the-board/budget-and-performance">Budget and Performance</a></li><li class="item-145"><a href="/en-español/sobre-el-consejo-de-acceso">En Español</a></li><li class="item-364"><a href="/the-board/budget-and-performance/equal-employment-opportunity-eeo-data">No Fear Act Data</a></li><li class="item-146 current active"><a href="/the-board/policies/privacy-policy">Privacy Policy</a></li><li class="item-151"><a href="/the-board/policies/freedom-of-information-act-foia">Freedom of Information </a></li></ul>
 
                     </div>
                                     </div>
@@ -250,25 +319,21 @@ window.addEvent('load', function() {
                                             <h4>Partner Sites</h4>
                         <div class="footer-link-list">
                             <ul class="weblinks">
-<li>
-	<a href="http://www.disability.gov" rel="no follow">disability.gov</a>			<p><img src="/images/external-link.png" alt="Link to external site" border="0"></p>	
-	</li>
-<li>
-	<a href="http://www.usa.gov" rel="no follow">usa.gov</a>			<p><img src="/images/external-link.png" border="0" alt="Link to external site"></p>	
-	</li>
-<li>
-	<a href="http://www.regulations.gov/#!searchResults;rpp=25;so=DESC;sb=docId;po=0;a=ATBCB;dct=PR+FR+N;dkt=R" rel="no follow">regulations.gov</a>			<p><img src="/images/external-link.png" alt="Link to external site" border="0"></p>	
-	</li>
-<li>
-	<a href="http://www.federalregister.gov/agencies/architectural-and-transportation-barriers-compliance-board" rel="no follow">federalregister.gov</a>			<p><img src="/images/external-link.png" alt="Link to external site" border="0"></p>	
-	</li>
-</ul>
+			<li>
+			<a href="http://www.disability.gov" rel="nofollow">disability.gov</a><p><img src="/images/external-link.png" alt="Link to external site" border="0"></p>		</li>
+			<li>
+			<a href="http://www.usa.gov" rel="nofollow">usa.gov</a><p><img src="/images/external-link.png" border="0" alt="Link to external site"></p>		</li>
+			<li>
+			<a href="http://www.regulations.gov/#!searchResults;rpp=25;so=DESC;sb=docId;po=0;a=ATBCB;dct=PR+FR+N;dkt=R" rel="nofollow">regulations.gov</a><p><img src="/images/external-link.png" alt="Link to external site" border="0"></p>		</li>
+			<li>
+			<a href="http://www.federalregister.gov/agencies/architectural-and-transportation-barriers-compliance-board" rel="nofollow">federalregister.gov</a><p><img src="/images/external-link.png" alt="Link to external site" border="0"></p>		</li>
+	</ul>
 
                         </div>
                                     </div>
                 <span class="clear"></span>
             </div>
         </div>
-    
+            
 
 </body></html>
