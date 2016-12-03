@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ekomi-us.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212084137id_/http%3A//www.ekomi-us.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekomi-us.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203120539id_/http%3A//www.ekomi-us.com/us/privacy) for the most accurate reproduction.*
 
-# Privacy | eKomi
+# eKomi | Seller Ratings & Product Ratings and Reviews - Collect more authentic Reviews
 
 Your privacy is important to eKomi. Please find below our Privacy Policy that covers how we collect, use, disclose, transfer, and store your information according to the applicable US Data Protection and other applicable laws. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.
 
@@ -57,7 +57,7 @@ For our website we use “cookies.” Using “cookies” enables our web server
 
 We use your e-mail address in order to complete and confirm the registration on our website via a confirmation e-mail.
 
-Only if you consent will your e-mail address be used by us to send you our newsletter or other offers which might be of interest. You may withdraw your consent and discontinue receiving e-mails from our company at any time. Full particulars of your right of withdrawal can be found under the paragraph  “Right of Withdrawal & Right of Objection.”
+Only if you consent will your e-mail address be used by us to send you our newsletter or other offers which might be of interest. You may withdraw your consent and discontinue receiving e-mails from our company at any time. Full particulars of your right of withdrawal can be found under the paragraph “Right of Withdrawal & Right of Objection.”
 
 **6\. Right of access, amendment, blocking and deletion of data**
 
@@ -74,7 +74,7 @@ eKomi, Inc.
 Beverly Hills, CA 90210  
 USA
 
-Call us at: 1 844-356-6487
+Call us at: 1 844-356-6487
 
 Email us: dataprotection@ekomi-us.com
 
