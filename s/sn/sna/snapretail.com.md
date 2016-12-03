@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapretail.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611011056id_/http%3A//www.snapretail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapretail.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203045723id_/http%3A//www.snapretail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SnapRetail
 
