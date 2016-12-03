@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the seopartner.com privacy policy that was archived on 2016-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160307155608id_/http%3A//www.seopartner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seopartner.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203223632id_/http%3A//seopartner.com/privacy) for the most accurate reproduction.*
 
-# SuperFastBusiness Privacy Notice — SEOPartner
+# SEOPartner Privacy Notice — SEOPartner
 
-[last updated December 2015]
+[last updated May 2016]
 
-This Privacy Notice should be read in conjunction with our [terms and conditions](http://www.seopartner.com/terms/).
+This Privacy Notice should be read in conjunction with our [terms and conditions](http://seopartner.com/terms/).
 
 **Our privacy commitment**  
-If you are visiting this page you may have been directed from one of Our Websites . We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with any website controlled by SuperFastBusiness. We hold the privacy of your personal information in the highest regard. This notice sets out how we collect, use and safeguard your personal information to assist you in making informed decisions when using oursites. This policy will be continuously assessed against new technologies, business practices and our customers’ needs.  
-SuperFastBusiness complies with Australian privacy law.
+If you are visiting this page you may have been directed from one of Our Websites . We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with any website controlled by SEOPartner. We hold the privacy of your personal information in the highest regard. This notice sets out how we collect, use and safeguard your personal information to assist you in making informed decisions when using oursites. This policy will be continuously assessed against new technologies, business practices and our customers’ needs.  
+SEOPartner complies with Australian privacy law.
 
 **Changes to this Privacy Notice**  
 We may change this Privacy Notice from time to time. If/when changes are made, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. Please be assured that if the terms of our Privacy Notice change in the future, we will not use your personal information in a manner that is materially inconsistent with this Privacy Notice without your prior consent.
 
 **Your Consent**  
-By using Our Website you consent to our collection and use of your personal information as described in this Privacy Notice. The Privacy Notice that applies to you is that notice that is current when you provide information to us or we collect personal information. 
+By using Our Website you consent to our collection and use of your personal information as described in this Privacy Notice. The Privacy Notice that applies to you is that notice that is current when you provide information to us or we collect personal information.
 
 **What Information Do We Collect?**  
 When you visit these websites you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Our Website use information collected on an aggregate basis as you and others browse Our Website.
@@ -41,7 +41,7 @@ Credit cards are processed via either Paypal or a Bank merchant facility and sto
 If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
 
 **Testimonials**  
-If you provide us with a testimonial, you give us your consent for the use of your name and the Service to be displayed on Our Website or in our other marketing material, together with the content of the testimonial that you provide. 
+If you provide us with a testimonial, you give us your consent for the use of your name and the Service to be displayed on Our Website or in our other marketing material, together with the content of the testimonial that you provide.
 
 **Collecting sensitive information**  
 We do not actively collect sensitive information about you, including information about your health, racial or ethnic origin, political opinions, religious beliefs, sexual orientation or criminal history. We will take steps to appropriately protect any sensitive information we do receive.
@@ -82,7 +82,7 @@ We may provide links to other websites or use social networking services such as
 
 **Our Commitment To Data Security:**  
 Please note that your information will be stored and processed on our computers in Australia and the United States. The laws on holding personal data in Australia and the United States may be less stringent than the laws of your Country of residence or citizenship. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.  
-If we work with contractors outside Australia to assist us in delivering Services to you, we require those contractors to adhere to our requirements and obligations around the security of your personal information. 
+If we work with contractors outside Australia to assist us in delivering Services to you, we require those contractors to adhere to our requirements and obligations around the security of your personal information.
 
 **Choice/Opt-In/Opt-Out**  
 This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible.
@@ -100,14 +100,6 @@ In the event that the web site (or a substantial portion of its assets) is acqui
 You may request access to all your personally identifiable information that we collect online and maintain in our database by issuing a ticket at [www.SuperFastHelp.com](http://www.superfasthelp.com/)
 
 **Problems?**  
-If you have any concerns about our use of your personal information, please write to us at: 
+If you have any concerns about our use of your personal information, please contact us and let us know what the problem is. We will respond to your concerns as soon as we can.
 
-SuperFastBusiness  
-P O Box 876  
-Spit Junction  
-NSW 2088  
-Australia 
-
-and let us know what the problem is. We will respond to your concerns within 30 days. 
-
-If you are not happy with how we manage your concerns, you can contact the Australian Privacy Commission, available at [http://www.oaic.gov.au](http://www.oaic.gov.au/). 
+If you are not happy with how we manage your concerns, you can contact the Australian Privacy Commission, available at [http://www.oaic.gov.au](http://www.oaic.gov.au/).
