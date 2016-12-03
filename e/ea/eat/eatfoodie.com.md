@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatfoodie.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530124453id_/http%3A//eatfoodie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatfoodie.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203224234id_/http%3A//eatfoodie.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Eat Foodie
 
