@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enagic.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610105820id_/http%3A//www.enagic.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enagic.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203171418id_/http%3A//www.enagic.com/privacypolicy.php) for the most accurate reproduction.*
 
 # www.Enagic.com Privacy Policy
 
@@ -13,4 +13,4 @@ The Company collects information from independent distributors during the applic
 
 The Company does not sell or trade the information collected. The Company only shares information as permitted or required by law and with third-party vendors (eg. merchant card processing company) for our everyday business purposes such as merchant card processing companies. Outside of these parameters, the Company will only share your information with your permission. 
 
-For questions or concerns regarding this policy, please use our [contact form](https://web.archive.org/contact.php) or call 866-261-9500.
+For questions or concerns regarding this policy, please use our [contact form](https://www.enagic.com/contact.php) or call 866-261-9500.
