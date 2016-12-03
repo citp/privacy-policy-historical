@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9rasa.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317094455id_/http%3A//www.9rasa.com/static/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9rasa.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203084622id_/http%3A//9rasa.com/static/privacy-policy.htm) for the most accurate reproduction.*
 
 # 99labels.com | privacy-policy
 
