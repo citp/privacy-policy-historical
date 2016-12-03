@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e71fanatics.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617064526id_/http%3A//www.e71fanatics.com/2008/07/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e71fanatics.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203145703id_/http%3A//www.e71fanatics.com/2008/07/privacy-policy.html) for the most accurate reproduction.*
 
 # Nokia E71 Blog For Fanatics: Privacy Policy
 
