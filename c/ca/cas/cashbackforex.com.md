@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cashbackforex.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323160600id_/https%3A//www.cashbackforex.com/en-US/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashbackforex.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203072135id_/https%3A//www.cashbackforex.com/en-US/privacy.aspx) for the most accurate reproduction.*
 
-# Your Privacy Is Our Priority | CashBackForex Support Team
+# Privacy
 
 CashBackForex is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the CashBackForex Web site and governs data collection and usage. By using the CashBackForex website, you consent to the data practices described in this statement.
 
