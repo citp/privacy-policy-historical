@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studyblue.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617142225id_/http%3A//www.studyblue.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyblue.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203154353id_/http%3A//www.studyblue.com/about/legal/privacy) for the most accurate reproduction.*
 
-# Privacy | STUDYBLUE | Make online flashcards & notes.
+# StudyBlue | Privacy
 
 Last updated February 29, 2016.
 
