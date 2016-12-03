@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eaton.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622134418id_/http%3A//www.eaton.com/Eaton/OurCompany/PrivacyPolicy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eaton.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203072341id_/http%3A//www.eaton.com/Eaton/OurCompany/PrivacyPolicy/index.htm) for the most accurate reproduction.*
 
 # Privacy, Cookies and Data Protection Policy
 
@@ -91,8 +91,48 @@ We maintain certain administrative, technical and physical safeguards to help pr
 **9\. CONSENT TO PROCESSING AND TRANSFER OF PERSONAL DATA**  
 Given that Eaton includes entities located all over the World, processing your Personal Data and usage data necessarily involves the transmission of data on an international basis. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that Personal Data and usage data we collect may be transferred to and processed in the United States. By using the Sites, or providing us with any personal data, you consent to the collection, processing, maintenance and transfer of such personal data and usage data to Eaton affiliated entities in the United States or in other countries, save their compliance with the applicable personal data protection laws.
 
-**10\. SAFE HARBOR**  
-Eaton complies with Directive 95/46/EC of the European Parliament and the Council on the Protection of Individuals with Regard to Processing of Personal Data and on the Free Movement of Such Data (the “EU Directive”), as well as the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Data from European Union member countries and Switzerland. Eaton has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement established by the U.S. Department of Commerce (the “Safe Harbor Principles”) applicable to Personal Data transferred from EU members and Switzerland to U.S. recipients. To learn more about the Safe Harbor program, and to view the company's certification, please visit <http://www.export.gov/safeharbor/>.
+**10\. EU-US PRIVACY SHIELD**
+
+**Eaton Corporation EU Privacy Shield Certification Information**
+
+Eaton Corporation complies with the EU-US Privacy Shield Framework Principles (including the Supplemental Principles) as set forth by the U.S. Department of Commerce.
+
+Eaton Corporation has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Notice and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+
+Eaton Corporation is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). In that regard, we certify that we comply with the seven EU-US Privacy Shield Framework Principles set forth by the United States Department of Commerce, in relation to personal data collected in the European Union.
+
+To learn more about the Privacy Shield program, the Privacy Shield Principles and to view our certification page, please visit the U.S. Department of Commerce’s Privacy Shield List by clicking on the following link: <http://www.commerce.gov/privacyshield/>
+
+**Dispute Resolution**
+
+In compliance with the EU-US Privacy Shield Principles, Eaton Corporation commits to resolve complaints about your privacy and our collection or use of your Personal Data. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Data in accordance with this Policy.
+
+Individuals with inquiries or complaints regarding this Privacy Notice, or any Data Protection and Privacy related concerns should first contact Eaton Corporation at:
+
+Eaton Corporation  
+Global Data Protection and Privacy Office  
+1000 Eaton Boulevard  
+Cleveland, Ohio 44122
+
+or
+
+via email to: [dataprotection@eaton.com](mailto:dataprotection@eaton.com)
+
+Eaton Corporation commits to cooperate with the EU Data Protection Authorities (DPAs) in both HR Data and Non HR Data related queries.
+
+In the event the individual is unable to resolve his or her concern through the Company’s Global Data Protection and Privacy Office, the individual can contact the EU Data Protection Authorities (DPAs).
+
+Please find further information from the EU Data Protection Authorities in the below link:
+
+<http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>.
+
+Under certain conditions, more fully described on the Privacy Shield website ([https://www.privacyshield.gov](https://www.privacyshield.gov/)), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+**Accountability for Onward Transfer**
+
+Eaton Corporation is responsible for the processing of Personal Data it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. Eaton Corporation complies with the Privacy Shield Principles for all onward transfers of Personal Data from the EU, including the onward transfer liability provisions.
+
+Please note that, in certain situations, Eaton Corporation may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 **11\. CHILDREN**  
 The Sites are not directed to children under 13. We do not knowingly collect personally identifiable data from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her personal data without the parent/guardian’s consent. If we become aware that we have unknowingly collected personally identifiable data from a child under the age of 13, we will delete such personal data from our records.
