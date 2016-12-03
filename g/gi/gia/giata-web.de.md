@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giata-web.de privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628023920id_/http%3A//www.giata.com/service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giata-web.de privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203110242id_/http%3A//www.giata.com/service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GIATA
 
@@ -42,7 +42,7 @@ You may withdraw the permission to the storage of your personal data, e-mail add
 
 You have the right to be informed about your person-related data, their origin and addressee and the purpose of data processing as well as the right to correction, blocking or deletion of those data at any time and free of charge. 
 
-For further questions and questions concerning person-related data, feel free to contact us via our [contact form](http://www.giata.com/service/kontakt/?L=ftp:/webmaster:007jr@007jr.com/SR.php "Opens internal link in new window"). 
+For further questions and questions concerning person-related data, feel free to contact us via our [contact form](http://www.giata.com/service/contact-us/ "Opens internal link in new window"). 
 
 #### **Privacy Policy for the use of** **Google Analytics**
 
