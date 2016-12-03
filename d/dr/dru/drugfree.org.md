@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugfree.org privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604061538id_/http%3A//www.drugfree.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugfree.org privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203143839id_/http%3A//www.drugfree.org/privacy) for the most accurate reproduction.*
 
 # Privacy - Partnership for Drug-Free Kids
 
@@ -32,7 +32,7 @@ Online donors are also offered the option of choosing to let the Partnership for
 
 To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-Registration and donor data is maintained in a highly secure environment by Stripe. Stripe provides technology services to many non-profit organizations and is considered a market leader in this sector. The Partnership for Drug-Free Kids uses Stripe’s services to maintain our registrant (member) donor, story submissions and Mailchimp for email newsletter database. We use Stripe because of their commitment to the highest levels of security and confidentiality in dealing with our registrant and donor data. Stripe does not retain, share, store or use personally identifiable information for any secondary purposes.
+Registration and donor data is maintained in a highly secure environment by the third-party service provider, Blackbaud, Inc. Blackbaud, Inc. provides technology services to many non-profit organizations and is considered a market leader in this sector. The Partnership for Drug-Free Kids uses this service to maintain our email and news service registrants, and donor information. We use Blackbaud, Inc. because of their commitment to the highest levels of security and confidentiality in dealing with our registrant and donor data. Blackbaud, Inc. does not retain, share, store or use personally identifiable information for any secondary purposes.
 
 ### Choice/Opt-Out, Correcting/Updating Information
 
@@ -58,7 +58,7 @@ The Partnership for Drug-Free Kids reserves the right to terminate your account 
 
 ### eNewsletter Sign-up
 
-We use Mailchimp for email communication. Mailchimp is an email marketing service provider. Our eNewsletter sign-up section requires you to enter your email address to sign up for email newsletters. When you choose to sign up for one of our email newsletters, your email address is used solely to provide the newsletter to which you subscribe. Your email address won’t be shared with any outside organizations or individuals without your express permission. Whenever you do receive a mailing from us you will always find an easy method to unsubscribe within the contents of the email.
+We use Blackbaud, Inc. for email communication. Our eNewsletter sign-up section requires you to enter your email address to sign up for email newsletters. When you choose to sign up for one of our email newsletters, your email address is used solely to provide the newsletter to which you subscribe. Your email address won’t be shared with any outside organizations or individuals without your express permission. Whenever you do receive a mailing from us you will always find an easy method to unsubscribe within the contents of the email.
 
 ### Online Surveys
 
@@ -80,5 +80,5 @@ Please contact us if you have any questions, concerns, or comments about our pri
 
 The Partnership for Drug-Free Kids may at any time revise this Privacy Policy by updating this posting. You are bound by any such revisions and should therefore periodically visit this page to review the then current Privacy Policy to which you are bound.
 
-**Updated: May 17, 2014  
+**Updated:  July 22, 2016  
 **
