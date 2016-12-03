@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatsingapore.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606195547id_/http%3A//www.expatsingapore.com/content/view/13/32) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatsingapore.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203010621id_/http%3A//www.expatsingapore.com/content/view/13/32) for the most accurate reproduction.*
 
 # ExpatSingapore - Privacy Statement
 
