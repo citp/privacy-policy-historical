@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appscase.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108071738id_/http%3A//www.appscase.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appscase.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203163656id_/http%3A//www.appscase.com/privacy.html) for the most accurate reproduction.*
 
 # AppsCases
 
