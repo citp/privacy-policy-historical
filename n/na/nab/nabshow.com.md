@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nabshow.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614103922id_/http%3A//www.nabshow.com/attend/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabshow.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203183042id_/http%3A//www.nabshow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NAB Show
 
@@ -37,5 +37,3 @@ The information provided is "as is" with all faults and without warranty of any 
 NAB has provided directories of information and links to other internet sites only for the convenience of World-Wide Web users, and is not responsible for the materials, activities or content of other sites. NAB does not endorse, warrant or guarantee any products or services described or offered at these companies, addresses or websites.
 
 NAB reserves the right to modify this Privacy Policy at any time without prior notice.  Your continued use of this website shall constitute your acceptance of the privacy policy.
-
-[](https://web.archive.org/attend/find-your-community "Find Your Community")
