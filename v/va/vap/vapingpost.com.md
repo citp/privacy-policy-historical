@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vapingpost.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621185944id_/http%3A//www.vapingpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapingpost.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203131239id_/http%3A//www.vapingpost.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Vaping Post
 
@@ -70,7 +70,7 @@ Users are advised to take caution and good judgement before clicking any shorten
 
   * [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents)
   * [Privacy and Electronic Communications Regulations 2003](http://www.legislation.gov.uk/uksi/2003/2426/contents/made)
-  * [Privacy and Electronic Communications Regulations 2003 – The Guide](http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide.aspx)
+  * [Privacy and Electronic Communications Regulations 2003 – The Guide](https://ico.org.uk/for-organisations/guide-to-pecr/introduction/what-are-pecr/)
   * [Twitter Privacy Policy](http://twitter.com/privacy)
   * [Facebook Privacy Policy](http://www.facebook.com/about/privacy/)
   * [Google Privacy Policy](http://www.google.com/privacy.html)
