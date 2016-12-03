@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wabash.edu privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605025653id_/http%3A//wabash.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wabash.edu privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203132420id_/http%3A//www.wabash.edu/privacy) for the most accurate reproduction.*
 
 # Wabash College: Privacy Statement for www.wabash.edu Crawfordsville, Indiana
 
