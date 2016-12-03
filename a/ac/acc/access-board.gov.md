@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the access-board.gov privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206142157id_/http%3A//www.access-board.gov/the-board/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the access-board.gov privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203213846id_/https%3A//www.access-board.gov/the-board/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - United States Access Board
-
-##  Privacy Policy 
 
 Thank you for visiting the Access Board’s website and reviewing our privacy policy.  Our privacy policy is clear:  We will collect **no** personal information about you when you visit our website unless you choose to provide that information to us.  Here is how we handle information about your visit to our website:
 
@@ -33,7 +31,7 @@ You have the option of signing up for email notification of important events or 
 
 The Access Board is responsible for enforcing the Architectural Barriers Act (ABA), which requires access to facilities designed, built, altered, or leased with Federal funds.  The Board enforces this law through the investigation of complaints filed by the public about the lack of access to a facility.  Our enforcement regulations prohibit us from disclosing the identity of complainants without their written permission.  We do not create individual profiles with the information you provide or give it to any private organizations.
 
-The only other means of submitting information to us is by sending us an email message.  A posted [email directory](http://www.access-board.gov/contact-us) lists the various Access Board mailboxes noted on our website.  If you choose to provide us with personal information in an email message, we will use such information only to respond to your message and to get you the information you have requested.  However, comments which are emailed to the Board in response to notices of proposed rulemaking are placed in a docket for public inspection at the Board’s office and may be posted on the Board’s website as well.
+The only other means of submitting information to us is by sending us an email message.  A posted [email directory](https://www.access-board.gov/contact-us) lists the various Access Board mailboxes noted on our website.  If you choose to provide us with personal information in an email message, we will use such information only to respond to your message and to get you the information you have requested.  However, comments which are emailed to the Board in response to notices of proposed rulemaking are placed in a docket for public inspection at the Board’s office and may be posted on the Board’s website as well.
 
 ### Links to Other Sites
 
