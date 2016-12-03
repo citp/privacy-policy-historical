@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quoteimg.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604070541id_/http%3A//quoteimg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quoteimg.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203190030id_/http%3A//quoteimg.com/privacy) for the most accurate reproduction.*
 
 # Contact Quotes
 
