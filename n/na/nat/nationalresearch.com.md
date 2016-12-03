@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nationalresearch.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329111641id_/http%3A//www.nationalresearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalresearch.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203172512id_/http%3A//www.nationalresearch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | National Research Corporation
+# National Research Corporation Privacy Policy | National Research Corporation
 
 National Research Corporation is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the National Research Corporation Web site and governs data collection and usage. By using the National Research Corporation website, you consent to the data practices described in this statement.
 
