@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netfleet.com.au privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610160610id_/http%3A//www.netfleet.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netfleet.com.au privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203222347id_/http%3A//www.netfleet.com.au/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Buy & Sell Domains | Netfleet: Australia's No.1 Domain Name Trading Platform
 
