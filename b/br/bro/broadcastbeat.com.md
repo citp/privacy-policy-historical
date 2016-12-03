@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the broadcastbeat.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410175517id_/http%3A//www.broadcastbeat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadcastbeat.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203192808id_/http%3A//www.broadcastbeat.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 2016 NAB Show News by Broadcast Beat. Official NAB Show Media Partner for NAB 2016 and Producer of NAB Show LIVE.
+# Privacy Policy – 2016 NAB Show New York & SMPTE News by Broadcast Beat. Official Broadcaster of NAB Show.
 
 What information does Broadcast Beat Magazine collect?
 
@@ -52,7 +52,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.broadcastbeat.com
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.broadcastbeat.com](http://www.broadcastbeat.com/)
 
 Your Consent
 
@@ -66,7 +66,7 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.broadcastbeat.com  
+[www.broadcastbeat.com](http://www.broadcastbeat.com/)  
 Fort Lauderdale, FL 33309  
 USA  
 855-44-BBEAT
