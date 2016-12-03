@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradingacademy.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612180146id_/http%3A//www.tradingacademy.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingacademy.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203060758id_/http%3A//www.tradingacademy.com/policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Online Trading Academy
 
