@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the icio.us privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420060958id_/http%3A//delicious.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icio.us privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203052146id_/http%3A//del.icio.us/privacy) for the most accurate reproduction.*
 
 # Delicious
 
 ## Welcome to Delicious!
 
-Delicious Media, Inc. provides Delicious - the service that enables users to collect and discover web content through our website located at www.delicious.com and by using related applications and the Delicious bookmarklet extension for your internet browser. For simplicity, we'll refer to any or all of this as the "Service".
+Delicious Media, Inc. provides Delicious - the service that enables users to collect and discover web content through our website located at del.icio.us and by using related applications and the Delicious bookmarklet extension for your internet browser. For simplicity, we'll refer to any or all of this as the "Service".
 
 We provide this Privacy Policy so you know what we do regarding the collection, use and disclosure of personal information we receive from users of the Service. This Privacy Policy applies only to information that you provide to us through the Service. Your use of the Service is your consent to the collection, disclosure, transfer, processing, storage and other uses of your information as described in this Privacy Policy.
 
