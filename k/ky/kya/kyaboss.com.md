@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kyaboss.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619205050id_/http%3A//www.kyaboss.com/privacy-policy-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kyaboss.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203072406id_/http%3A//www.kyaboss.com/privacy-policy-terms-of-use) for the most accurate reproduction.*
 
 # Privacy Policy & Terms Of Use - KyaBoss
 
