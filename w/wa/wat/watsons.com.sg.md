@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the watsons.com.sg privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610132147id_/http%3A//www.watsons.com.sg/policyPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watsons.com.sg privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203040542id_/http%3A//www.watsons.com.sg/policyPrivacy) for the most accurate reproduction.*
 
 # Privacy Policy | Watsons Singapore
 
-**Privacy Statement**
+**PRIVACY STATEMENT**
 
 **Our Pledge**
 
@@ -20,7 +20,7 @@ When you visit the site, we will record your visit only and will not collect any
 
 **Types of Personally Identifiable Information Collected**
 
-At times, you may be asked to provide your personally identifiable information (“Personal Data”)  including, but not limited to: Name, gender, age, telephone number, fax number, home address, email address, credit card information, bank account number, education level, occupation, household income, interests, and favourite activities etc. in order to enjoy the services we offer. Specific purposes for which your Personal Data may be used are set out in our Personal Information Collection Statement under section 6 below, including the use of Personal Data for direct marketing. 
+At times, you may be asked to provide your personally identifiable information (“Personal Data”)  including, but not limited to: Name, gender, age, telephone number, fax number, home address, email address, credit card information, bank account number, education level, occupation, household income, interests, and favourite activities etc. in order to enjoy the services we offer. Specific purposes for which your Personal Data may be used are set out in our Personal Information Collection Statement under section 6 below, including the use of Personal Data for direct marketing.
 
 **Security and Protection Your Personal Data**
 
@@ -44,65 +44,71 @@ In this PICS, the following terms shall have the following meaning:
 
 You agree that all the Personal Data provided by you to us may be used and retained by us for the following purposes and for other purposes as may be agreed between you and us or required by law from time to time:
 
-  *  Providing the Services;
-  * Analyzing, verifying and / or checking your credit, payment and / or status in relation to the provision of the Services
-  * Processing any payment instructions, direct debit facilities and / or credit facilities requested by you.
-  * Enabling the daily operation of your account and / or the collection of amounts outstanding in your account in relation to the Services;
-  * Carrying out data sorting and analysis to enable us to better understand your characteristics and buying behaviour and to provide other services better tailored to your needs, and to assist us in selecting good and services that are likely to be of interest to you;
-  * Providing you with regular communications from us with details of the Services and its benefits;
-  * The normal management, operation and maintenance of the performance of the Services;
+   •   Providing the Services;
 
+   •   Analyzing, verifying and / or checking your credit, payment and / or status in relation to the provision of the Services
 
+   •   Processing any payment instructions, direct debit facilities and / or credit facilities requested by you.
 
-·         Research for service improvement and designing new, or improving existing, Services provided by us, our subsidiaries or our affiliates to you;
+   •   Enabling the daily operation of your account and / or the collection of amounts outstanding in your account in relation to the Services;
 
-  *  Aggregated behavioural analysis
-  * Investigation of complaints and suspected suspicious transactions;
-  * Prevention or detection of crime;
-  * Disclosure as required by law.
+   •   Carrying out data sorting and analysis to enable us to better understand your characteristics and buying behaviour and to provide other services better tailored to your needs, and to assist us in selecting good and services that are likely to be of interest to you;
 
+   •   Providing you with regular communications from us with details of the Services and its benefits;
 
+   •   The normal management, operation and maintenance of the performance of the Services;
 
-·         We would also like to use your Personal Data (including your name, telephone number, address and email address and other information provided to us when you register) for direct marketing to you (whether by post, email, phone, SMS or the like) in relation to:
+   •   Research for service improvement and designing new, or improving existing, Services provided by us, our subsidiaries or our affiliates to you; 
 
-  * Offers and promotions from us;
-  * Offers and promotions offered by our subsidiaries and our affiliates;
-  * Offers and promotions from other companies within Hutchison Whampoa Limited, in relation to telecommunication goods and/or services, e-commerce services, insurance products and services, hotel and tourism services and real property and related services;
-  * Other offers and promotions from the third party merchants that we cooperate with to provide benefits to our customers in relation to the following types of products or services:
+   •   Aggregated behavioural analysis
 
+   •   Investigation of complaints and suspected suspicious transactions;
 
+   •   Prevention or detection of crime;
 
-·         Retail Goods or Services (as defined above)
+   •   Disclosure as required by law.
 
-·         Financial, insurance, banking and credit cards;
+We would also like to use your Personal Data (including your name, telephone number, address and email address and other information provided to us when you register) for direct marketing to you (whether by post, email, phone, SMS or the like) in relation to:
 
-·         Transportation, travel and accommodation;
+   a.   Offers and promotions from us;
 
-·         Sports, leisure, recreation and entertainment;
+   b.   Offers and promotions offered by our subsidiaries and our affiliates;
 
-·         Telecommunications products and services;
+   c.   Offers and promotions from other companies within Hutchison Whampoa Limited, in relation to telecommunication goods and/or services, e-commerce services, insurance products and services, hotel and tourism services and real property and related services;
 
-·         E-commerce (including trading and payment platforms and online auctions)
+   d.   Other offers and promotions from the third party merchants that we cooperate with to provide benefits to our customers in relation to the following types of products or services:
 
-Please note that we cannot so use your Personal Data unless we have received your consent.  
+         •   Retail Goods or Services (as defined above)
 
+         •   Financial, insurance, banking and credit cards;
 
-We may disclose and transfer (whether in Singapore, or Hong Kong or other countries in which we/our subsidiaries and affiliates operate)) to our agents  or contractors under a duty of confidentiality to us who provide administrative, data processing, research and marketing, distribution, telecommunications, professional or other similar services to us and to any of our actual or proposed assignees or transferees of our rights with respect to you in connection with a merger, sale or transfer (whether of assets or shares), to use, hold, process or retain such Personal Data for the purposes mentioned in paragraphs [6.4 and 6.5] above on our behalf.
+         •   Transportation, travel and accommodation;
+
+         •   Sports, leisure, recreation and entertainment;
+
+         •   Telecommunications products and services;
+
+         •   E-commerce (including trading and payment platforms and online auctions)
+
+Please note that we cannot so use your Personal Data unless we have received your consent.
+
+We may disclose and transfer (whether in Singapore, or Hong Kong or other countries in which we/our subsidiaries and affiliates operate)) to our agents  or contractors under a duty of confidentiality to us who provide administrative, data processing, research and marketing, distribution, telecommunications, professional or other similar services to us and to any of our actual or proposed assignees or transferees of our rights with respect to you in connection with a merger, sale or transfer (whether of assets or shares), to use, hold, process or retain such Personal Data for the purposes mentioned in paragraphs [6.4 and 6.5] above on our behalf.
 
 **Access to and Correction of Information**
 
 You have the right to:
 
-  * Check whether we hold any of your Personal Data;
-  * Access your Personal Data held by us;
-  * Ask us to correct or update any Personal Data which is inaccurate;
-  * Ascertain our policies and practices (from time to time) in relation to Personal Data.
-  * Opt out from receiving direct marketing materials from us at any time
+   i.   Check whether we hold any of your Personal Data;
 
+   ii.  Access your Personal Data held by us;
 
+   iii. Ask us to correct or update any Personal Data which is inaccurate;
 
-In accordance with the Act, we have the right to charge you a reasonable fee for the processing of any Personal Data access request.  
+   iv. Ascertain our policies and practices (from time to time) in relation to Personal Data.
 
+   v.  Opt out from receiving direct marketing materials from us at any time
+
+   vi. In accordance with the Act, we have the right to charge you a reasonable fee for the processing of any Personal Data access request.
 
 Nothing in this PICS shall limit your rights under the Act.
 
@@ -110,8 +116,8 @@ Any requests in relation to the above shall be in writing (sent by post or email
 
 Name: Lai Mei Ling
 
-Email: [dpo@watsons.com.sg](mailto:dpo@watsons.com.sg)
+Email: [dpo@watsons.com.sg](mailto:dpo@watsons.com.sg)
 
 Address: 80 Anson Road, #10-00 Fuji Xerox Building, Singapore 079907
 
-If you want to access and/or correct your personally identifiable information which you have given us via Internet, you may change this through the website by logging-in to your personal profile. 
+If you want to access and/or correct your personally identifiable information which you have given us via Internet, you may change this through the website by logging-in to your personal profile.
