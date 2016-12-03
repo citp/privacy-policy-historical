@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebusinesscenter.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521225630id_/http%3A//www.homebusinesscenter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebusinesscenter.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203152747id_/http%3A//www.homebusinesscenter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
