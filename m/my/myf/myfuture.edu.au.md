@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfuture.edu.au privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401181511id_/http%3A//myfuture.edu.au/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfuture.edu.au privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203082309id_/https%3A//myfuture.edu.au/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | myfuture
 
@@ -36,7 +36,14 @@ You may refuse the use of cookies by selecting the appropriate settings on your 
 
 **(c) Registration on the Website**
 
-The personal information collected by Us if you register on the Website will include the month and year of your birth, gender, career stage, school type and post code and may include, at your option, your first and last name. In all cases and at all times, this personal information will only be used to review how users use the Website with a view to continuous improvement of the Website, including the provision of personalised content and to optimise the user experience.
+The personal information collected by Us if you register on the Website:
+
+  * will include the month and year of your birth, gender, career stage and post code. We may use this personal information to review Website usage patterns in order to assist us to optimise the user experience (e.g. providing personalised content); and
+
+
+  * may include, at your option, your email address and your first and last name. If you provide your email address to Us, We may communicate with you about myfuture. If at any time you no longer wish to receive such communications, please contact Us at privacy@esa.edu.au. 
+
+
 
 **(d) Emails and electronic forms**
 
@@ -98,4 +105,4 @@ If at any time you:
 
 If you would like to know more about your rights under Australian privacy laws, please refer to the website of the Office of the Australian Information Commissioner [www.oaic.gov.au](http://www.oaic.gov.au/). 
 
-This Privacy Policy was last updated on 26 October 2015.
+This Privacy Policy was last updated on 4 April 2016.
