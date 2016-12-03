@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swiftcover.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324015345id_/http%3A//www.swiftcover.com/security/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiftcover.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203075401id_/http%3A//www.swiftcover.com/security/privacy) for the most accurate reproduction.*
 
 # Cheap Car Insurance, Online Car Insurance Quotes UK. Privacy | swiftcover.com
 
