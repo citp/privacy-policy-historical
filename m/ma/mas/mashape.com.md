@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mashape.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403152043id_/https%3A//www.mashape.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mashape.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203091309id_/https%3A//www.mashape.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Mashape - Powering API Driven Software
+# Privacy | Mashape - Powering APIs, Microservices and Serverless Software
 
 We care about your privacy
 
