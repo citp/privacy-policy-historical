@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalgeneral.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623043708id_/http%3A//www.nationalgeneral.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalgeneral.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203192252id_/http%3A//www.nationalgeneral.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - National General Insurance
 
@@ -114,6 +114,3 @@ Top  
 This policy is effective August 10, 2009. We reserve the right to alter this privacy policy at our discretion. Any change to this policy will be posted on our web sites in a timely manner.
 
 Top  
-
-  
-* This policy applies to the following National General Insurance companies: National General Insurance Company Online, Inc., National General Insurance Marketing, Inc., GM Motor Club, Inc., Homestate County Mutual Insurance Company – Administered by Integon National Insurance Company, Integon Casualty Insurance Company, Integon General Insurance Corporation, Integon Indemnity Corporation, Integon National Insurance Company, Integon Preferred Insurance Company, MIC General Insurance Corporation, National General Assurance Company, National General Insurance Company, and New South Insurance Company.
