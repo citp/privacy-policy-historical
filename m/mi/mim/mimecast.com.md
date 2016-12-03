@@ -1,30 +1,26 @@
-> *The following text is extracted and transformed from the mimecast.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226224023id_/https%3A//www.mimecast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mimecast.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203112306id_/http%3A//www.mimecast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement | Mimecast
 
 ## Privacy Policy
 
-Welcome to Mimecast!  Mimecast is a global company, with offices in Europe, North America, Australia and South Africa.  We serve companies that have offices in those jurisdictions and across the world.  Our website (the “Site”), located at [www.mimecast.com](http://www.mimecast.com/), provides information about our service and is operated by Mimecast Limited.  This Privacy Policy describes how Mimecast uses and protects information collected through the Site and our marketing practices generally.
+Welcome to Mimecast! Mimecast is a global company, with offices in Europe, North America, Australia and South Africa. We serve companies that have offices in those jurisdictions and across the world. Our website (the "Site"), located at [www.mimecast.com](http://www.mimecast.com/), provides information about our service and is operated by Mimecast Limited. This Privacy Policy describes how Mimecast uses and protects information collected through the Site and our marketing practices generally. To note, if your company engages Mimecast to provide Mimecast’s service, your company and Mimecast will enter into a separate agreement that will, among other things, govern the use of all of the information and data collected and maintained by Mimecast in connection with the operation of the service, including data collected through certain features made available to customers through the Site. Any agreement between your company and Mimecast will take precedence over any conflicting provision in this Privacy Policy. If you have questions about this Privacy Policy or otherwise, you can reach us using the contact information provided below. We reserve the right to change this Privacy Policy from time to time but will use your information only as described in this Privacy Policy at the time your information was collected.
 
-To note, if your company engages Mimecast to provide Mimecast’s service, your company and Mimecast will enter into a separate agreement that will, among other things, govern the use of all of the information and data collected and maintained by Mimecast in connection with the operation of the service, including data collected through certain features made available to customers through the Site.  Any agreement between your company and Mimecast will take precedence over any conflicting provision in this Privacy Policy. 
-
-If you have questions about this Privacy Policy or otherwise, you can reach us using the contact information provided below. We reserve the right to change this Privacy Policy from time to time but will use your information only as described in this Privacy Policy at the time your information was collected.
-
-This Privacy Policy was last updated on 05 October, 2015.
+This Privacy Policy was last updated on 1st August, 2016.
 
 ## Information collected automatically
 
-When you visit the Site, our systems automatically collect certain information about your visit, such as the type of internet browser you use, the website from which you have come to the Site and your IP address (the unique address which identifies your computer on the internet).  We use automatically collected information to assist us in providing and improving the Site and to collect broad demographic information for aggregate use.  We do not use automatically collected information to learn any information about you personally.  We may use such information to identify specific companies that are interested in our services and to market to those companies generally.
+When you visit the Site, our systems automatically collect certain information about your visit, such as the type of internet browser you use, the website from which you have come to the Site and your IP address (the unique address which identifies your computer on the internet). We use automatically collected information to assist us in providing and improving the Site and to collect broad demographic information for aggregate use. We do not use automatically collected information to learn any information about you personally. We may use such information to identify specific companies that are interested in our services and to market to those companies generally.
 
-We (or our vendors) may collect non-personal information using cookies, pixel tags, web beacons, embedded web links, and similar technologies.  All of such information tells about how the website is being used and helps us tailor our website to the needs of our visitors.  We may receive reports by our vendors on an individual as well as aggregated basis. We do this to improve our marketing and the services we offer you.
+We (or our vendors) may collect non-personal information using cookies, pixel tags, web beacons, embedded web links, and similar technologies. All of such information tells about how the website is being used and helps us tailor our website to the needs of our visitors. We may receive reports by our vendors on an individual as well as aggregated basis. We do this to improve our marketing and the services we offer you.
 
-We may also use automatically collected information to target advertising for our service on third party sites. For that targeting, we (or our vendors) may use cookies and web beacons to gather information about your activities on the Site in order to provide you advertising based upon your browsing activities on the Site.  You can choose to reject certain collection technologies (such as cookies) but then you might not be able to take advantage of many of our features.  You can read more about cookies [here](https://web.archive.org/cookie-information/).  Mimecast does not collect information about your online activities across different web sites, over time. Accordingly, Mimecast does not currently respond to “do not track” browser requests.
+We may also use automatically collected information to target advertising for our service on third party sites. For that targeting, we (or our vendors) may use cookies and web beacons to gather information about your activities on the Site in order to provide you advertising based upon your browsing activities on the Site. You can choose to reject certain collection technologies (such as cookies) but then you might not be able to take advantage of many of our features. You can read more about cookies [here](https://www.mimecast.com/cookie-information/). Mimecast does not collect information about your online activities across different web sites, over time. Accordingly, Mimecast does not currently respond to “do not track” browser requests.
 
-Our Site may include certain social media features (such as a “share” or “like” button).  Those features are provided by the applicable social media platform (such as Twitter or Facebook).  Where information is collected through the social media feature, the use of that information is governed by the privacy policy published by the social media platform that provides the feature.
+Our Site may include certain social media features (such as a “share” or “like” button). Those features are provided by the applicable social media platform (such as Twitter or Facebook). Where information is collected through the social media feature, the use of that information is governed by the privacy policy published by the social media platform that provides the feature.
 
 ## Collecting Personal Information
 
-**“Personal Information”** is information that is used to identify a discrete individual person. We may collect Personal Information in a variety of ways including:
+“ **Personal Information** ” is information that is used to identify a discrete individual person. We may collect Personal Information in a variety of ways including:
 
   * Through web pages on the Site (e.g. when you request a white paper or complete a form for general or partner inquiries);
   * Through responses to an online, email or electronic promotion or survey;
@@ -56,7 +52,7 @@ We use your Personal Information in a number of ways including:
 
 We may obtain information from third parties to combine with the Personal Information we have gathered as described in this Policy, in order to improve our marketing activities and to ensure the details we hold are relevant and up-to-date. Also, if we provide a means for you to refer a third party to the Site, we may send the third party an email on your behalf with details about the Site.  Mimecast will not use the third party’s information for any other purpose.
 
-You can unsubscribe to emails by following the unsubscribe instructions on any email communications sent to you, or you can email us at [global-privacy@mimecast.com](mailto:global-privacy@mimecast.com "Privacy email") or by post at the address provided below.  We provide additional information about your controls below.
+You can unsubscribe to emails by following the unsubscribe instructions on any email communications sent to you, or you can email us at [privacy@mimecast.com](mailto:privacy@mimecast.com) or by post at the address provided below.  We provide additional information about your controls below.
 
 ## Information Sharing and Disclosure
 
@@ -71,11 +67,11 @@ You can unsubscribe to emails by following the unsubscribe instructions on any e
 
 ## Storage and transfer of your Personal Information
 
-We may transfer your Personal Information to our affiliates, which may process your Personal Information outside the European Economic Area; provided our affiliates will process information in accordance with this Privacy Policy and certain contractual obligations established to protect your Personal Information.
+At Mimecast, we are committed to maintaining the security of the information we collect from activity on this website and from other marketing efforts. We have therefore implemented technology and security policies and procedures that are intended to reduce the risk of accidental destruction or loss, or the unauthorized disclosure or access to such information.
+
+Please note that information may be collected from this website by any of our affiliates. We may transfer your Personal Information amongst our affiliates, which may process your Personal Information outside the European Economic Area. However, all of our affiliates will process information in accordance with this Privacy Policy and with the Privacy Principles set forth in the EU Data Protection Directive. Mimecast complies with the principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
 
 The controller of your information is Mimecast Limited or the subsidiary of Mimecast Limited that collected your information.
-
-Concerning information collected or processed by our subsidiary in the United States, Mimecast North America, Inc. complies with the U.S. – EU Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from European Union member countries and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certificate, please visit [http://www.export.gov/safeharbor.](http://www.export.gov/safeharbor)
 
 ## Security
 
@@ -87,7 +83,8 @@ The Site may, from time to time, make blogs, message boards, news groups or othe
 
 ## External links
 
-The Site may, from time to time, contain links to external sites.  We are not responsible for the privacy policies or the content of such sites and you should familiarize yourself with such policies upon use of such sites.
+The Site may, from time to time, contain links to external sites.  We are not responsible for the privacy policies or the content of such sites and you should familiarize yourself with such policies upon use of such sites.   
+
 
 ## Your controls
 
@@ -101,13 +98,12 @@ You are in control of the personal information you provide to Mimecast.  You ma
 
 Upon written request, we will provide you with a copy of all of the Personal Information about you that we possess.  Additionally, if you wish to correct or update the Personal Information we hold relating to you or you no longer wish to receive marketing or promotional material, we will make such changes on request. Please see the contact information below.
 
-To note, we will retain your Personal Information for as long as is necessary in keeping with the purposes for which we collect it and to comply with our legal obligations. 
+To note, we will retain your Personal Information for as long as is necessary in keeping with the purposes for which we collect it and to comply with our legal obligations.    
+
 
 ## Contacting us
 
-General Privacy Inquiries:  Please submit any questions, concerns or comments you have about this Privacy Policy or any requests concerning your Personal Information by email to [global-privacy@mimecast.com](mailto:global-privacy@mimecast.com "Privacy Email").   
-
-Safe Harbor Inquiries:  If you have any questions, concerns or complaints specifically related to Mimecast’s participation in the Safe Harbor program, please direct them to [global-privacy@mimecast.com](mailto:global-privacy@mimecast.com "Privacy Email"), or to:
+General Privacy Inquiries:  Please submit any questions, concerns or comments you have about this Privacy Policy or any requests concerning your Personal Information by email to [privacy@mimecast.com](mailto:privacy@mimecast.com).   
 
 Mimecast North America, Inc.  
 Attn: Legal Department  
