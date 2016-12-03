@@ -1,60 +1,66 @@
-> *The following text is extracted and transformed from the freesitesignup.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429003034id_/http%3A//www.freesitesignup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesitesignup.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203132554id_/http%3A//www.theclickagency.com/privacy-policy) for the most accurate reproduction.*
 
-# Free Cash-Pulling Websites Company - Privacy Policy
+# Privacy Policy | The Click Agency
 
-Privacy Policy
+This site (the “Site”) is owned by Snack Media, LLC, a Texas limited liability company (“us,” “we,” or “Company”). We created this Privacy Policy (“Privacy Policy”) to explain how we use the information we collect on the Site. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
-This website agrees to share with you the details of the privacy policy to ensure your understanding of how your information is protected. When the website guarantees a 100% privacy guaranteed, the details of this privacy guarantee are detailed on this page.
+This privacy policy sets out how **Snack Media, Inc. **uses and protects any information that you give Snack Media, Inc.  when you use this website.
 
-If you have any questions or concerns after reading through this information, you should first contact us by [clicking here](https://web.archive.org/support.php?group=joinsite). 
+**Snack Media, Inc.** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-**Information Retained**
+**Snack Media, Inc.  **may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from December 25th, 2013.
 
-When you enter your name and email address, this information is retained by this website for purpose of communicating with you regarding information that may be of benefit and interest to you. The information may be shared with qualified 3rd parties to also provide information that this website feels will be of benefit to you to help you make more money online. All qualified 3rd parties have their own system of email removal to ensure that you can stop receiving offers at any time. This website uses certain 3rd party tracking tools in order to improve the user experience and these programs may track your location by IP address. 
+**What we collect**
 
-**3rd Party Companies Used**
+We may collect the following information:
 
-This policy governs the privacy of information submitted to this website and does not cover the privacy of information submitted to any software, toolbars, or any other application that may be downloaded from this website. For any links that reference other sites where you get information, products, or services, the privacy policy of those sites will govern the privacy of the information you submit to them. 
-
-**Order Processing Privacy**
-
-This website uses various 3rd party companies such as Clickbank, Paypal, etc., in order to facilitate order processing and payment of affiliate commissions. These companies alert this website when orders have been processed but do not share your credit card or checking account numbers with this website. This website may share order confirmation information with 3rd party companies that this website feels have products or services that can be of benefit to you. If you find that these offers are not of interest, you will always have the option to remove your email from the mailings.
-
-**Responses of Email Inquiries**
-
-Any responses of email inquiries or customer support ticket submissions are retained by this website for the sole purpose of answering your inquiry and your information will not be shared with any third parties. 
-
-**Testimonials Information**
-
-By submitting any testimonial information, you agree that your name, email, address, audio, video, photo, images, or any other submitted information is the property of This website and are granting this website full and unlimited license to use such information in the publicity of This website, including but not limited to posting on this website, print materials, using in radio commercials, or on TV. This website takes no responsibility if, as a result of posting your testimonial information, third party companies or individuals contact you using the information you provided. 
-
-**Disclosure Upon Legal Requirement**
-
-Under legal order by any state or federal agency as to your activity on this website, your information will be disclosed in order to comply with all legal authorities. This information disclosed may include your logon information, activity online, forum posts, questions submitted and other information on your activity. 
-
-**Cookies**
-
-This website may use cookies for tracking of various user activities, including but not limited to your paths through this website, time on this website, number of times returned, etc. These cookies are typically stored in your web browser. The only information obtained from reading cookies is the information originally stored by our website. This website has no access to any of your files or personal information stored on your computer. 
-
-**Newsletter**
-
-This website retains your information when you submit to get the newsletter, for a free website, or for any other offer directly provided by this website. You will have the option to change your subscription settings at any time. This information may be shared with qualified 3rd party providers of resources this website feels will be of benefit to you in making money online. All qualified providers give you the option of stopping or changing email preferences at any time.
-
-**Minimum Age For Use**
-
-The minimum age for use of this This website is 18 years old. If you are not at least 18 years old, do not use this website. You must immediately leave, cease all use, and immediately unsubscribe from any email correspondence coming from this website. 
-
-**Questions**
-
-You can contact the company by mail at: 
-
-Free Cash-Pulling Websites Company Websites c/o Top Tier Solutions  
-701 North Green Valley Parkway Suite 200  
-Henderson, NV 89074 
-
-Or via email by [clicking here](https://web.archive.org/support.php?group=joinsite).   
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
-**Modifications To Privacy Policy**
 
-Periodically, when there are updates to this privacy policy, they will be posted to this document, immediately available on the internet. This website reserves the right to update at any time this privacy policy and the new policy will take immediate effect upon posting to this website. 
+**What we do with the information we gather**
+
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
+
+
+
+**Security**
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, **** we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+**How we use cookies**
+
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**Links to other websites**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Controlling your personal information**
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at kit@superaffiliate.com.
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to **  Snack Media, Inc. 1725 Patton, Garland TX  75042.**
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
