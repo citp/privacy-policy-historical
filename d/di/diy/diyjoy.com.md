@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diyjoy.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531112643id_/http%3A//diyjoy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyjoy.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203020556id_/http%3A//diyjoy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DIY Joy
 
@@ -94,8 +94,8 @@ THIS POLICY WAS LAST MODIFIED ON  **07 May 2015**
 
 IF THERE ARE ANY QUESTIONS REGARDING THIS PRIVACY POLICY YOU MAY CONTACT US USING THE INFORMATION BELOW.
 
-Blue Rose Media, LLC / dba DIYWays.com  
-300 W. BEECH ST. #1810  
+Blue Rose Media, LLC / dba diyjoy.com  
+832 5TH AVE. #6  
 SAN DIEGO, CA 92101  
 UNITED STATES OF AMERICA  
 diy [@] countryrebel [dot] com  
