@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exactseek.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619222824id_/http%3A//www.exactseek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exactseek.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203040617id_/http%3A//www.exactseek.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy: ExactSeek.com
 
@@ -26,7 +26,7 @@ Advertisers and partners may also use their own cookies. We do not control the u
 
 Your personal information is stored in a protected directory. Access is restricted to ExactSeek staff.
 
-ExactSeek does **not** store any credit card information. Purchases made on ExactSeek are processed either by PayPal or 2Checkout.com.
+ExactSeek does **not** store any credit card information. Purchases made on ExactSeek are processed either by PayPal or Stripe.com.
 
 ## Change of Ownership
 
@@ -40,19 +40,19 @@ ExactSeek may amend this policy from time to time. If significant changes are ma
 
 ExactSeek offers four types of site listings - Standard, Featured, Paid Inclusion and Local Search. The information collected for each of these services, and how that information is used, is noted below:
 
-• **Standard Listings:** Email address and URL. Used in our newsletters (opt-in only). Email addresses and URL details are also provided to InternetSeer for their free web monitoring service. URL only provided to EntireWeb.com for inclusion in their search engine index.
+• **Standard Listings:** Email address and URL. Used in our newsletters (opt-in only). URL only provided to EntireWeb.com for inclusion in their search engine index.
 
 • **Featured Listings:** Email address, URL, Title, Description and Keyword term. Your email address is NOT shared. 
 
 • **Paid Inclusion Listings:** Email address and URL. Your email address is not shared, but your site URL is provided to Entireweb.com for inclusion in their search engine index. 
 
-• **Local Search Listings:** Business Name, Address, City, State, Zip, Phone number, business email address, URL and Category. All information is public. Your billing email address is kept private. 
+• **Traffic Listings:** Email address, URL and Category. All information is public. Your billing email address is kept private. 
 
 ExactSeek Standard listings are free and the information collected is not shared with third parties, except as noted above. However, we may disclose personal information collected, if we have received your permission beforehand or in very special circumstances, such as when we believe that the law requires such disclosure or other special cases described below.
 
-Membership is required under a valid, verified email address in order for you to submit your website to our free Standard Listing program. Upon the creation of a new member account, and in lieu of a site submission fee, you will be subscribed to one of our newsletter publications, SiteProNews or SEO-News, and provided a free subscription to the InternetSeer Web site monitoring service.
+Membership is required under a valid, verified email address in order for you to submit your website to our free Standard Listing program. Upon the creation of a new member account, and in lieu of a site submission fee, you will be subscribed to one of our newsletter publications, ExactSeek News, or SiteProNews.
 
-Your use of ExactSeek's services constitutes a business relationship wherein we provide a promotion service for your website(s). In exchange, ExactSeek reserves the right to use the contact information collected during site submission to deliver notices regarding changes or updates to our service, to provide free newsletters (SiteProNews, SEO-News), to inform you of additions to the Jayde Online Network of web sites, or to send announcements and carefully screened offers and information on behalf of our partners or advertisers.
+Your use of ExactSeek's services constitutes a business relationship wherein we provide a promotion service for your website(s). In exchange, ExactSeek reserves the right to use the contact information collected during site submission to deliver notices regarding changes or updates to our service, to provide free newsletters (ExactSeek News, SiteProNews), to inform you of additions to the Jayde Online Network of web sites, or to send announcements and carefully screened offers and information on behalf of our partners or advertisers.
 
 You may remove yourself from any or all of our newsletter, notice and announcement mailings at anytime using the unsubscribe methods provided in those mailings. Any mailing received from our company is clearly identified and includes a valid email address and unsubscribe link which you can use to remove yourself from future mailings. If you encounter problems in this regard, contact [**abuse [at] exactseek.com**](mailto:abuse@exactseek.com). Our turnaround time for responding to unsubscribe requests is generally 1 business day.
 
