@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hushmail.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529075342id_/https%3A//www.hushmail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hushmail.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203043145id_/https%3A//www.hushmail.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -93,6 +93,10 @@ We do not include any personal data in cookies. We do not share cookie informati
 We take reasonable steps to ensure that the third-party services we use do not share information with other third parties. You should, however, verify this yourself by reviewing each site’s Privacy Policy.
 
 Most web browsers give you the ability to accept or decline the use of cookies through the browser preferences. If you disable the use of cookies you will be able to browse our website. You will, however, be unable to sign in to your account. If you have enabled your browser’s **Do Not Track** option, you will still be able to sign in to your account.
+
+### Communications from us
+
+We may send emails to you both with respect to the creation and maintenance of your Hushmail account and with information that may be useful in your usage of the account. We will include instructions on how to unsubscribe from receiving the informational emails if you decide you do not want to receive any such future emails from us.
 
 ### Advertising
 
