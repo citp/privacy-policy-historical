@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tektonic.net privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618081822id_/http%3A//tektonic.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tektonic.net privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203203033id_/http%3A//tektonic.net/privacypolicy.html) for the most accurate reproduction.*
 
 # TekTonic - Terms of Service
 
