@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tigerfunk.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608155529id_/http%3A//tigerfunk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerfunk.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203145619id_/http%3A//tigerfunk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | TigerFunk
+# Privacy policy | Tiger Funk
 
 [Home](http://tigerfunk.com/) Privacy policy
 
@@ -22,7 +22,7 @@
 
   * #### Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
 
-  * #### Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
+  * #### Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting aboutads.info.)
 
 
 
