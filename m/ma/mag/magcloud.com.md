@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the magcloud.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604150152id_/http%3A//www.magcloud.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magcloud.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203024143id_/http%3A//www.magcloud.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy. Book publishing services | Blurb Books
 
-### Privacy Policy | Your Privacy Rights
+### PRIVACY POLICY
 
-Blurb, Inc, a company incorporated in Delaware (File Number 3949786) and located at 580 California Street, Suite 300, San Francisco, CA 94104, United States (“Blurb”, “us” or “we”) respects the privacy of the visitors to its Website located at http://www.blurb.com (“Website”), and users of its Services. This Privacy Policy informs you of our policies and practices regarding the collection, use, storage and disclosure of any Personal Information and Anonymous Information you submit to us through our Website or Services. Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms set forth in the Blurb Terms and Conditions that you can find at [Terms and Conditions](http://www.blurb.com/terms) and which incorporate this Privacy Policy by reference. 
+Effective Date: 09/22/16 
+
+Blurb, Inc, a company incorporated in Delaware (File Number 3949786) and located at 580 California Street, Suite 300, San Francisco, CA 94104, United States (“Blurb”, “us” or “we”) respects the privacy of the visitors to its Website located at http://www.blurb.com (the “Website”), and users of its Services. This Privacy Policy informs you of our policies and practices regarding the collection, use, storage and disclosure of any Personal Information and Anonymous Information you submit to us through the Website or Services. It also describes your choices regarding use, access and correction of your personal information. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Blurb. Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms set forth in the Blurb Terms and Conditions that you can find at [Terms and Conditions](http://www.blurb.com/terms) and which incorporate this Privacy Policy by reference. 
 
 “Personal Information” is any information that allows us (or others) to identify an individual person and would include (for example) your name, address, email address, IP Address or phone number, as well as other non-public information that is associated with or directly linked to such information.
 
-An “Internet protocol address” or “IP Address” is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP Address stays the same from browser session to browser session; but if you use a consumer Internet access provider, your IP Address probably varies from session to session. We track IP Addresses solely in conjunction with session Cookies to analyze our web page flow and to determine the appropriate language settings for you based on your region if you did not previously indicate. You can find out more about the Cookies [and other tracking technologies] that we use and the purposes for which we use them in the section below headed 'Cookies'.
+An “Internet protocol address” or “IP Address” is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP Address stays the same from browser session to browser session; but if you use a consumer Internet access provider, your IP Address probably varies from session to session. We track IP Addresses solely in conjunction with session Cookies to analyze our web page flow and to determine the appropriate language settings for you based on your region if you did not previously indicate. You can find out more about the Cookies and other tracking technologies that we use and the purposes for which we use them in the section below headed 'Cookies'.
 
 “Anonymous Information” means information or a combination of information that does not relate to or identify individual persons.
 
-We collect and use Personal Information and Anonymous Information as described in this Privacy Policy.
-
-We respect your right to privacy and will only process Personal Information (including any sensitive personal data) you provide us in accordance with the UK Data Protection Act 1998 (the Act) and any other applicable privacy laws. For the purposes of these laws, the data controller is [Blurb, Inc]
+We collect and use Personal Information and Anonymous Information as described in this Privacy Policy. We respect your right to privacy and will only process Personal Information (including any sensitive personal data) you provide us in accordance with the UK Data Protection Act 1998 (the Act) and any other applicable privacy laws. For the purposes of these laws, the data controller is Blurb, Inc.
 
 #### User Consent
 
@@ -22,21 +22,23 @@ Please read this Privacy Policy carefully. By accessing and using our Website an
 
 #### International Transfers
 
-**Your Personal Information will be transferred to the to be processed by Blurb, Inc., [and other third party data processors] for the purposes identified in this Privacy Policy.**
+**Your Personal Information will be processed by Blurb, Inc., and other third party data processors for the purposes identified in this Privacy Policy.**
 
-**By accessing or using our Website or Services or otherwise providing Personal Information to us, you consent to the processing, transfer and storage of information in and to the United States [and the other countries identified] for these purposes. Please be aware that countries, which are located outside the EEA, may not offer the same level of data protection as countries located in the EEA, although our collection, storage and use of your Personal Information will continue to be governed by this Privacy Policy.**
+**By accessing or using our Website or Services or otherwise providing Personal Information to us, you consent to the processing, transfer and storage of information in and to the United States for these purposes. Please be aware that countries, which are located outside the EEA, may not offer the same level of data protection as countries located in the EEA, although our collection, storage and use of your Personal Information will continue to be governed by this Privacy Policy.**
 
-In relation to all transfers of your Personal Information to the United States, Blurb participates in and complies with both the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the United States Department of Commerce regarding the collection, use, and retention of Personal Information from European Union member countries and Switzerland. Blurb has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Blurb’s certification, please visit http://www.export.gov/safeharbor/.
+Blurb participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Blurb is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at https://www.privacyshield.gov/list.
+
+Blurb is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Blurb complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Blurb is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Blurb may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+
+Under certain conditions, more fully described on the Privacy Shield website https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+Blurb complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Blurb has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Blurb’s certification, please visit https://safeharbor.export.gov/swisslist.aspx.
 
 You may revoke your consent at any time by contacting Blurb (address below) or by deleting the Personal Information you have submitted through our Website or Services.
-
-#### Dispute Resolution
-
-As part of our [participation](https://www.export.gov/safehrbr/list.aspx) in the Safe Harbor scheme, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. 
-
-Please click [here](http://www.truste.com/about-TRUSTe/contact-us) for fax and postal mail information. TRUSTe's Dispute Resolution process is only available in English. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request. 
-
-TRUSTe information page - http://www.truste.com/about-TRUSTe/contact-us
 
 #### Collection of Personal Information
 
@@ -47,7 +49,7 @@ The Personal Information we gather from you helps us learn about your visit to t
 We collect Personal Information that you submit to us voluntarily through our Website or Services.
 
   * When you register on the Website, we will collect your full name and username, a password, and an email address. We use these data to create your account and to provide the Services to you. 
-  * When you use the Service, we collect your user ID, email address and IP address. We collect this information to better tailor the features, performance and support of our products and services. 
+  * When you use the Service, we collect your user ID, email address and IP address. We also collect your social security number (SSN) or tax identification number (TIN) (which ever is applicable) specifically for our Set Your Profit (SYP) program. We collect this information to better tailor the features, performance and support of our products and services. 
   * When you create your profile on the Website after registering, we will collect on an optional basis other Personal Information, such as information about your hobbies, interests, additional contact information, etc. You do not have to provide this additional information but if you do, we will use this information to better tailor the features, performance and support of our products and services. 
   * When you order products or services on the Website, we will collect all information necessary to complete the transaction, including your name, credit card information, billing information and shipping information. 
   * When you subscribe to a Blurb newsletter, we will collect your email address to provide you with promotional information about our services where you have agreed to receive such communications. You may unsubscribe from the newsletter service at any time by following the unsubscribe instructions provided in the newsletter you receive or by contacting us. 
@@ -60,7 +62,21 @@ We collect Personal Information that you submit to us voluntarily through our We
 
 
 
+We may also collect, from you, the following personal information about your contacts:
+
+  * Name and address of a gift recipient, in order to fulfill a purchase order
+
+
+
+When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided.
+
+If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at support@blurb.com.
+
 Please note that Content that you use for your Books or that you contribute to other Members for their Books might also contain Personal Information. Please be mindful that such Content may be made available to others (including through the use of the Book preview functionality) as content of your Books or the Books of other Members to which you contributed Content and that you therefore should only use and contribute Content that you are comfortable sharing under these conditions and for which you have obtained (where applicable) all necessary and valid consents to share and disclose such Content.
+
+#### Personal Information Collected Via the Service Platform
+
+Blurb collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients.
 
 #### Personal Information Collected Via Tracking Technology
 
@@ -84,33 +100,39 @@ If you provide feedback on any of our products and services to us, we may use su
 
 Except as otherwise stated in this Privacy Policy, we do not trade, rent, or share your Personal Information with third parties and we will not disclose financial information that is part of your Personal Information unless you ask us to do so.
 
-We may share your Personal Information with third parties to provide you with the products and services that we offer you through the Website or Services. These third parties are required not to use your Personal Information other than to provide the products and services requested by Blurb and are bound by confidentiality agreements with regard to their use of such information. You expressly consent to the sharing of your Personal Information with our contractors and third party service providers for the sole purpose of providing products and services to you.
+We may share your Personal Information with third parties to provide you with the products and services that we offer you through the Website or Services for payment processing, shipping and distribution processing, account inquiries, and marketing analytics. These third parties are required not to use your Personal Information other than to provide the products and services requested by Blurb and are bound by confidentiality agreements with regard to their use of such information. You expressly consent to the sharing of your Personal Information with our contractors and third party service providers for the sole purpose of providing products and services to you.
 
 If you use the Book Preview functionality of the Services, any Personal Information contained in the Book Content of the Book(s) for which you have selected Book Preview will be made publicly available to visitors of the Website, including search engines.
 
 We may enter into co-branding or co-promotional agreements with third parties pursuant to which we may share Personal Information with such third parties. For example, we may enter into agreements with Partner Companies pursuant to which we provide the Partner Companies with a URL and a customer registration page co-branded with, or private labeled by, the Partner Companies, and the Partner Companies distributes and promotes the URL to its customers. A Partner Company may have access to Personal Information that we collect from their customers. As a result, if you register on the Website or use our Services through a Partner Company, we may provide your Personal Information to the Partner Company. Please note, however, that we do not control the privacy practices of these third parties.
 
-If another company acquires our company or our assets, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.
-
-Regardless of any choices you make regarding your Personal Information (as described below), we may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on Blurb; or (b) to protect and defend the rights or property of Blurb or users of our Services.
+If another company acquires our company or our assets, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy. Regardless of any choices you make regarding your Personal Information (as described below), we may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on Blurb; (b) to protect and defend the rights or property of Blurb or users of our Services; or (c) lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 #### Your Privacy Rights
 
+Upon request Blurb will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by logging in to your account and updating your personal information and confirming it by selecting the ‘Save’ button, contacting us at support@blurb.com, or by completing this form. We will respond to your request within a reasonable timeframe.
+
+Blurb acknowledges that you have the right to access your personal information. Blurb has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct their query to the Blurb Client Support at support@blurb.com. If requested to remove data we will respond within a reasonable timeframe. We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client.
+
 You have the right to access information held about you. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. You also have the right to ask us to update and correct any out-of-date or incorrect personally identifiable information that we hold about you free of charge.
 
-#### Cookies
+In certain circumstances we may be required by law to retain your personal information, or may need to retain your personal information in order to continue providing a service.
+
+#### Cookies and Tracking Technologies
+
+Blurb and its partners use cookies or similar technologies to analyze trends, administer the Website, track users’ movements around the Website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our Website or service.
 
 We may use Cookies to collect information about you.
 
-####  **_What is a cookie_ **
+####  **_What is a cookie?_ **
 
-“Cookies” are small pieces of information that a web site sends to your computer’s hard drive while you are viewing a web site. For example, we may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Website or Services. Persistent Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, some areas of the Website or Services may not work properly. We encode our Cookies so that only we can interpret the information stored in them. For more information about removing or rejecting Cookies, please see " Your Choices Regarding Your Personal Information " below.
+“Cookies” are small pieces of information that a web site sends to your computer’s hard drive while you are viewing a web site. For example, we may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Website or Services. Persistent Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, some areas of the Website or Services may not work properly. We encode our Cookies so that only we can interpret the information stored in them. For more information about removing or rejecting Cookies, please see "Your Choices Regarding Your Personal Information" below.
 
 Blurb may also collect information via clear gifs or web beacons (also known as "tracking pixels") that help us better manage content on Website and Services by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to Cookies, and are used to track the online movements of Web users. In contrast to Cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages.
 
 ####  **_How do we use cookies?_ **
 
-Cookies do lots of different jobs on our Website, such as letting you navigate between pages efficiently, remembering your preferences, remembering your email and password, letting us analyze how well our Website is performing, and improving your experience. [They also help ensure that adverts you see whilst you are on our Website are more relevant to you and your interests]
+Cookies do lots of different jobs on our Website, such as letting you navigate between pages efficiently, remembering your preferences, remembering your email and password, letting us analyze how well our Website is performing, and improving your experience. They also help ensure that advertisements you see whilst you are on our Website are more relevant to you and your interests
 
 ####  **_What cookies do we use?_ **
 
@@ -118,7 +140,7 @@ Below we have provided a list of the categories of Cookies found on our Website,
 
 We use the following types of Cookies:
 
-**Stricly Necessary Cookies** We use a number of Cookies, which are essential to the operation of our Website and Services. For example, these types of Cookies [enable you to log into secure areas of the Services, provide the necessary security when you access our Website or Services, and help ensure the content of the pages you request load quickly. Without these cookies, services that you have asked for cannot be provided. 
+**Stricly Necessary Cookies** We use a number of Cookies, which are essential to the operation of our Website and Services. For example, these types of Cookies enable you to log into secure areas of the Services, provide the necessary security when you access our Website or Services, and help ensure the content of the pages you request load quickly. Without these cookies, services that you have asked for cannot be provided. 
 
 **Functional Cookies:** Functional Cookies are ones that we set to help the Services work the way you expect them to. Some Cookies are necessary to enable you to move around our Website and/or to use the Services. Without these Cookies, we can't provide the Services you have asked for, like processing payments made via our online store. 
 
@@ -130,6 +152,8 @@ As described below, you may disable any of these functional Cookies; but if you 
 
 ####  _Advertising and Web Analytic Tools_
 
+As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site.
+
 We use third-party advertising and/or web analytics companies to serve ads and/or to provide us web analytics when you visit our Website or Services. These companies may use information about your visits to this and other websites (e.g., through the use of Cookies) in order to provide advertisements about goods and services of interest to you, to provide us analyses of how our Website is used. Although we do not authorize these third parties to collect your Personal Information from our Website or Services, they may associate data collected about your use of our Website or Services with the Personal Information they have collected about you from other websites.
 
 For more information about third-party advertising and how to exercise your choices regarding advertising customization by third-party ad networks on our Services, visit the Network Advertising Initiative's website here.
@@ -138,9 +162,9 @@ For more information about third-party advertising and how to exercise your choi
 
 In case IP-anonymization is activated on this website, your IP Address will be truncated within the area of Member States of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases the whole IP Address will be first transferred to a Google server in the USA and truncated there. The IP-anonymization is active on this Website.
 
-Google will use this information on behalf of the operator of this website for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing them other services relating to website activity and Internet usage.
+Google will use this information on behalf of the operator of this Website for the purpose of evaluating your use of the Website, compiling reports on website activity for website operators and providing them other services relating to Website activity and Internet usage.
 
-The IP Address that your Browser conveys within the scope of Google Analytics will not be associated with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You can also opt-out from being tracked by Google Analytics with effect for the future by downloading and installing Google Analytics Opt-out Browser Add-on for your current web browser: http://tools.google.com/dlpage/gaoptout?hl=en
+The IP Address that your Browser conveys within the scope of Google Analytics will not be associated with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this Website. You can also opt-out from being tracked by Google Analytics with effect for the future by downloading and installing Google Analytics Opt-out Browser Add-on for your current web browser: http://tools.google.com/dlpage/gaoptout?hl=en
 
 For further information please visit:
 
@@ -186,17 +210,27 @@ Here’s how to do it:
 
 Please note that if you choose to remove or reject Cookies, this could affect the availability and functionality of the Services. For further information about cookies, including how to refuse Cookies, please visit www.allaboutcookies.org .You may change any of the Personal Information in your account by editing your online profile or by sending an email to us at the email address set forth below.
 
-**Behavioral Advertising Targeting:** If you would like to opt out of third-party advertising behavior collection and use from your use of our Website, you may do so via the Network Advertising Initiative at http://www.networkadvertising.org/managing/opt_out.asp . 
+**Behavioral Advertising Targeting:** We partner with a third party to display advertising on the Website and to manage our advertising on other sites. Our third party partners may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/) or if located in the European Union click [here.](http://www.youronlinechoices.eu/)
+
+If you would like to opt out of third-party advertising behavior collection and use from your use of our Website, you may do so via the Network Advertising Initiative at http://www.networkadvertising.org/managing/opt_out.asp .
 
 Please note that if you choose to turn off behavioral advertising it does not mean you will no longer receive advertising on the Services. However, it does mean that the display advertising that you use may not be tailored to your likely interests of preferences on the web browser you are currently using. Using this tool only applies to online behavioral advertising and will not affect other services.
 
 #### Regarding Minors
 
-Minors under 13 require the consent of their legal guardian to use the Website and Services. We do not intentionally gather Personal Information about visitors who are under the age of 13.
+If you have reason to believe that a child under the age of 13 has provided Personal Information to us, please contact us, and we will endeavor to delete that information and terminate the child's account from our databases. We do not intentionally gather Personal Information about visitors who are under the age of 13.
 
 #### Other Sites
 
 Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. We have no control over, do not review, and cannot be responsible for these outside websites or their content. Please be aware that the terms of our Privacy Policy do not apply to these outside websites.
+
+#### Mobile Application
+
+When you download and use our Services, we automatically collect information on the type of device you use, operating system version, and the device identifier (or “UDID”).
+
+We do not ask you for, access or track any location based information from your mobile device at any time while downloading or using our Mobile Apps or services.
+
+We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile app.
 
 #### Security
 
@@ -206,18 +240,20 @@ Blurb has implemented industry-standard electronic means of protecting your Pers
 
 Except as provided elsewhere in this Privacy Policy, Blurb limits access to Personal Information in electronic databases to those persons (including employees and contractors) in Blurb’s organization who have a business need for such access. Lastly, we conduct periodic internal audits and vulnerability scans to ensure compliance with these security measures and generate security incident logs that track Information useful in screening for attempted abuse of or unauthorized access to your Personal Information.
 
-Even though Blurb has taken significant steps to ensure that your Personal Information is not intercepted, accessed, used, or disclosed by unauthorized persons, you should know that Blurb cannot fully eliminate security risks associated with Personal Information.
+Even though Blurb has taken significant steps to ensure that your Personal Information is not intercepted, accessed, used, or disclosed by unauthorized persons, you should know that Blurb cannot fully eliminate security risks associated with Personal Information. If you have any questions about the security of your personal information, you can contact us at support@blurb.com.
 
 #### Contact Us
 
 Should you have any questions or concerns regarding this Privacy Policy, please contact us through Customer Support or:
 
 Blurb, Inc.   
-Attention: Chief Operating Officer   
+Attention: Legal Department   
 580 California Street, Suite 300   
 San Francisco, CA 94104   
 USA 
 
 #### Privacy Policy Updates
 
-This Privacy Statement is a living document. As part of the Blurb Terms and Conditions, this Privacy Policy is subject to reasonable amendments, for example to fulfill new statutory regulations or in case of new services, in accordance with the terms of the Terms and Conditions. If we make material changes to this Privacy Policy that expand our rights to use your Personal Information, we will notify you to seek your consent either through email, or a prominent posting on our Website, or as otherwise required by law.
+This Privacy Statement is a living document. As part of the Blurb Terms and Conditions, this Privacy Policy is subject to reasonable amendments, for example to fulfill new statutory regulations or in case of new services, in accordance with the terms of the Terms and Conditions. If we make material changes to this Privacy Policy that expand our rights to use your Personal Information, we will notify you to seek your consent either through email, or a prominent posting on our Website, or as otherwise required by law. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=22187f25-459f-4ff1-be21-f747b9ba9e26 "TRUSTe Privacy")
