@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hentaifit.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524211133id_/http%3A//hentaifit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentaifit.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203101453id_/http%3A//hentaifit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Watch Free Anime Hentai Videos stream
+# Privacy Policy - Hentai Tube
 
 This document details important information regarding the use and disclosure of User Data collected on HentaiFit.com
 
