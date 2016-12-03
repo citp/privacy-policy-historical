@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the watsons.com.sg privacy policy that was archived on 2016-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160610132147id_/http%3A//www.watsons.com.sg/policyPrivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the watsons.com.sg privacy policy that was archived on 2016-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161203040542id_/http%3A//www.watsons.com.sg/policyPrivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#" class="js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths linux chrome chrome69 webkit webkit5" lang="en"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -15,7 +15,7 @@
 <meta name="keywords" content="">
 <meta name="robots" content="index,follow">
 
-<script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MR4F7J"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgQBV1dUGwcBVFBSAQM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(13)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script><link rel="shortcut icon" href="/_ui/desktop/theme-igc/img/favicon.ico" type="image/x-icon">
+<script src="https://js-agent.newrelic.com/nr-974.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MR4F7J"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgQBV1dUGwcBVFBSAQM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(14)(a),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=s(n,"nr@wrapped",function(){return c(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&c.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(14)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(14)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(w=-w,x.data=w)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(14)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,g),g.prototype=p.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var w=1,x=document.createTextNode(w);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],c])}f(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],c),l}finally{f(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<n.length;s++)c=n[s],a=t[c],r(a)||(t[c]=e(a,f?c+o:o,i,c))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){s(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",c=t("gos"),s=t(12),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!w++){var t=g.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(v,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;g.proto=n?"https://":"http://",c("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=g.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(12),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var m=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-974.min.js"},y=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:m,features:{},xhrWrappable:y};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),c("mark",["firstbyte",a()],null,"api");var w=0},{}]},{},["loader",2,7]);</script><link rel="shortcut icon" href="/_ui/desktop/theme-igc/img/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/_ui/desktop/theme-igc/img/favicon.ico" type="image/x-icon">
 <link rel="apple-touch-icon" sizes="144x144" href="/_ui/desktop/theme-igc/touch-icon/apple-touch-icon-144x144.png?v=3">
 <link rel="apple-touch-icon" sizes="114x114" href="/_ui/desktop/theme-igc/touch-icon/apple-touch-icon-114x114.png?v=3">
@@ -629,14 +629,7 @@ $(document).ready(
 	}
 	
 </script>
-
-                  <script async="" src="https://ds-aksb-a.akamaihd.net/aksb.min.js"></script><script type="text/javascript">
-                    var w=window;
-                    if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document,AKSB=AKSB||{};AKSB.q=[];AKSB.mark=function(a,b){AKSB.q.push(["mark",a,b||(new Date).getTime()])};AKSB.measure=function(a,b,c){AKSB.q.push(["measure",a,b,c||(new Date).getTime()])};AKSB.done=function(a){AKSB.q.push(["done",a])};AKSB.mark("firstbyte",(new Date).getTime());AKSB.prof={custid:"300236",ustr:"UNKNOWN",originlat:0,clientrtt:1,ghostip:"104.96.220.23",
-                    ipv6:false,pct:10,clientip:"204.236.235.245",requestid:"515ba8a",protocol:"",blver:7,akM:"a",akN:"ae",akTT:"O",akTX:"1",akTI:"515ba8a",ai:"247750",ra:""};(function(a){var b=d.createElement("script");b.async="async";b.src=a;a=d.getElementsByTagName("script");a=a[a.length-1];a.parentNode.insertBefore(b,
-                    a)})(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")};
-                  </script>
-                  </head>
+</head>
 <body class="language-en " style="null">
 <div id="browserRec-popBg" style="display:none"></div>
 	<div id="browserPopUpDiv" class="browserProPopUp browserRec" style="display: none;">
@@ -793,6 +786,11 @@ $(document).ready(
 					<ul class="clearfix" style="width: 180px;">
 						<li class="dropdown-col-text">
 									<ul>
+												<li class="top-level"><a href="/free_travel_kit#" title="FREE Panadol Travel Kit">FREE Panadol Travel Kit</a></li>
+												<li class="top-level"><a href="/voltaren#" title="Voltaren Exclusive Promotion">Voltaren Exclusive Promotion</a></li>
+												<li class="top-level"><a href="/spendnredeem#" title="Watsons Brand X Hutchgo">Watsons Brand X Hutchgo</a></li>
+												<li class="top-level"><a href="/nicotinellkit#" title="FREE Nicotinell Stop Smoking Kit">FREE Nicotinell Stop Smoking Kit</a></li>
+												<li class="top-level"><a href="/zika#" title="About Zika">About Zika</a></li>
 												<li class="top-level"><a href="http://www.watsons.com.sg/Product-Categories/Baby/Milk-powder-%26-food/c/060400##" title="Baby Milk Powder Special">Baby Milk Powder Special</a></li>
 												<li class="top-level"><a href="/Weekly_Promotions#" title="Weekly Offers!">Weekly Offers!</a></li>
 												</ul>
@@ -1030,14 +1028,14 @@ $(document).ready(
 			
 				
 					
-						<ul>
-							<li class="price">
-								<span class="lineouter"><span class="lineinner">S$19.90</span></span>
-								<br>
-								<span class="discount-price">S$16.90</span>
-							</li>
-						</ul>
 					
+						
+							<ul>
+								<li style="color:#E5009F;" class="price_grey">
+									S$19.90
+								</li>
+							</ul>
+						
 					
 				
 			
@@ -1046,7 +1044,8 @@ $(document).ready(
 		
 			<div class="l">
 			    <ul class="product_active ">
-	<li><span class="tagRedBg">GWP</span></li>
+	<li><span class="tagRedBg">2 FOR $29.90</span></li>
+		<li><span class="tagRedBg">GWP</span></li>
 		</ul>
 
 				 		
@@ -1083,7 +1082,7 @@ $(document).ready(
 	Skin</a>
 <div class="dropdown-nav" style="left: -90px;">
 				<div class="dropdown-nav-box">
-					<ul class="clearfix" style="width: 330px;">
+					<ul class="clearfix" style="width: 510px;">
 						<li class="dropdown-col-text">
 									<ul>
 												<li class="top-level"><a href="/Product-Categories/Skin/Derma-Sensitive/c/020100#" title="DERMA/SENSITIVE">DERMA/SENSITIVE</a></li>
@@ -1102,6 +1101,11 @@ $(document).ready(
 												<li class="top-level"><a href="/Product-Categories/Skin/Beauty-Implements/c/021500#" title="BEAUTY IMPLEMENTS">BEAUTY IMPLEMENTS</a></li>
 												<li class="top-level"><a href="/Product-Categories/Skin/Gift-Sets/c/021600#" title="GIFT SETS">GIFT SETS</a></li>
 												<li class="top-level"><a href="/Product-Categories/Skin/Face-mask-%26-eye-mask/c/020900#" title="FACE MASK &amp; EYE MASK">FACE MASK &amp; EYE MASK</a></li>
+												</ul>
+										</li>
+							<li class="dropdown-col-text">
+									<ul>
+												<li class="top-level"><a href="/Product-Categories/Skin/K-Beauty/c/021700#" title="K-BEAUTY">K-BEAUTY</a></li>
 												</ul>
 										</li>
 							<li class="dropdown-col-promo">
@@ -1239,7 +1243,7 @@ $(document).ready(
 							<li class="price">
 								<span class="lineouter"><span class="lineinner">S$49.00</span></span>
 								<br>
-								<span class="discount-price">S$39.00</span>
+								<span class="discount-price">S$42.00</span>
 							</li>
 						</ul>
 					
@@ -1266,7 +1270,7 @@ $(document).ready(
 	
 	<li class="l">
 	    <ul class="product_active ">
-	<li><span class="tagGreenBg">EXTRA 80 POINTS</span></li>
+	<li><span class="tagGreenBg">60 BONUS POINTS</span></li>
 		</ul>
 
 		 		
@@ -1459,14 +1463,14 @@ $(document).ready(
 			
 				
 					
+						<ul>
+							<li class="price">
+								<span class="lineouter"><span class="lineinner">S$21.90</span></span>
+								<br>
+								<span class="discount-price">S$16.40</span>
+							</li>
+						</ul>
 					
-						
-							<ul>
-								<li style="color:#E5009F;" class="price_grey">
-									S$21.90
-								</li>
-							</ul>
-						
 					
 				
 			
@@ -1475,8 +1479,7 @@ $(document).ready(
 		
 			<div class="l">
 			    <ul class="product_active ">
-	<li><span class="tagRedBg">3 FOR 33% OFF MIX &amp; MATCH</span></li>
-		<li><span class="tagRedBg">GWP</span></li>
+	<li><span class="tagRedBg">GWP</span></li>
 		</ul>
 
 				 		
@@ -1527,7 +1530,6 @@ $(document).ready(
 																	<li><a href="/Product-Categories/Hair/Shampoo/Professional/c/040107#" title="Professional">Professional</a></li>
 																	<li><a href="/Product-Categories/Hair/Shampoo/Oil-Based/c/040108#" title="Oil-Based">Oil-Based</a></li>
 																	<li><a href="/Product-Categories/Hair/Shampoo/Silicone-Sulphate-free/c/040109#" title="Silicone/Sulphate free">Silicone/Sulphate free</a></li>
-																	<li><a href="/Product-Categories/Hair/Shampoo/For-Him/c/040110#" title="For Him">For Him</a></li>
 																	</ul>
 																</li>
 							<li class="dropdown-col-text">
@@ -1719,7 +1721,7 @@ $(document).ready(
 		
 			<div class="l">
 			    <ul class="product_active ">
-	<li><span class="tagRedBg">3 FOR $59.90</span></li>
+	<li><span class="tagRedBg">2 FOR $35</span></li>
 		<li><span class="tagRedBg">GWP</span></li>
 		</ul>
 
@@ -2145,19 +2147,14 @@ $(document).ready(
 		
 		
 			
+				<ul>
+					<li class="price">
+						<span class="lineouter"><span class="lineinner">S$8.30</span></span>
+						<br>
+						<span class="discount-price">S$6.22</span>
+					</li>
+				</ul>
 			
-				
-					
-					
-						
-							<ul>
-								<li style="color:#E5009F;" class="price_grey">
-									S$8.30
-								</li>
-							</ul>
-						
-					
-				
 			
 		
 		
@@ -2165,6 +2162,7 @@ $(document).ready(
 			<div class="l">
 			    <ul class="product_active ">
 	<li><span class="tagRedBg">GWP</span></li>
+		<li><span class="tagRedBg">SAVE 25%</span></li>
 		</ul>
 
 				 		
@@ -2201,20 +2199,18 @@ $(document).ready(
 	Lifestyle</a>
 <div class="dropdown-nav" style="left: -90px;">
 				<div class="dropdown-nav-box">
-					<ul class="clearfix" style="width: 510px;">
+					<ul class="clearfix" style="width: 330px;">
 						<li class="dropdown-col-text">
 									<ul>
 
 																	<li class="top-level"><a href="/Product-Categories/Lifestyle/Home/c/070100#" title="HOME">HOME</a></li>
 																	<li><a href="/Product-Categories/Lifestyle/Home/Travel/c/070103#" title="Travel">Travel</a></li>
 																	<li><a href="/Product-Categories/Lifestyle/Home/Household/c/070104#" title="Household">Household</a></li>
-																	<li><a href="/Product-Categories/Lifestyle/Home/Electrical-Electronic/c/070101#" title="Electrical / Electronic">Electrical / Electronic</a></li>
 																	</ul>
 																<ul>
 
 																	<li class="top-level"><a href="/Product-Categories/Lifestyle/Apparels/c/070200#" title="APPARELS">APPARELS</a></li>
 																	<li><a href="/Product-Categories/Lifestyle/Apparels/Fashion-accessories/c/070201#" title="Fashion accessories">Fashion accessories</a></li>
-																	<li><a href="/Product-Categories/Lifestyle/Apparels/Footwear/c/070202#" title="Footwear">Footwear</a></li>
 																	<li><a href="/Product-Categories/Lifestyle/Apparels/Accessories/c/070204#" title="Accessories">Accessories</a></li>
 																	</ul>
 																<ul>
@@ -2222,28 +2218,21 @@ $(document).ready(
 																	<li class="top-level"><a href="/Product-Categories/Lifestyle/Travel-Essentials/c/070400#" title="TRAVEL ESSENTIALS">TRAVEL ESSENTIALS</a></li>
 																	<li><a href="/Product-Categories/Lifestyle/Travel-Essentials/Disposable-Underwear/c/070401#" title="Disposable Underwear">Disposable Underwear</a></li>
 																	</ul>
-																</li>
-							<li class="dropdown-col-text">
-									<ul>
+																<ul>
 
 																	<li class="top-level"><a href="/Product-Categories/Lifestyle/Gifts/c/070500#" title="GIFTS">GIFTS</a></li>
-																	<li><a href="/Product-Categories/Lifestyle/Gifts/Toy-%26-games/c/070502#" title="Toy &amp; games">Toy &amp; games</a></li>
 																	<li><a href="/Product-Categories/Lifestyle/Gifts/Plush/c/070503#" title="Plush">Plush</a></li>
-																	<li><a href="/Product-Categories/Lifestyle/Gifts/Stationery/c/070505#" title="Stationery">Stationery</a></li>
 																	<li><a href="/Product-Categories/Lifestyle/Gifts/Gifts-for-Her/c/070506#" title="Gifts for Her">Gifts for Her</a></li>
-																	<li><a href="/Product-Categories/Lifestyle/Gifts/Gifts-for-Toddlers-and-Children/c/070508#" title="Gifts for Toddlers and Children">Gifts for Toddlers and Children</a></li>
 																	<li><a href="/Product-Categories/Lifestyle/Gifts/Gift-under-%2410/c/070510#" title="Gift under $10">Gift under $10</a></li>
 																	<li><a href="/Product-Categories/Lifestyle/Gifts/Gift-under-%2430/c/070511#" title="Gift under $30">Gift under $30</a></li>
 																	</ul>
 																<ul>
 
-																	<li class="top-level"><a href="/Product-Categories/Lifestyle/eStore-Exclusive-Promotions/c/070600#" title="ESTORE EXCLUSIVE PROMOTIONS">ESTORE EXCLUSIVE PROMOTIONS</a></li>
+																	<li class="top-level"><a href="/Product-Categories/Lifestyle/Character/c/070800#" title="CHARACTER">CHARACTER</a></li>
 																	</ul>
 																<ul>
 
-																	<li class="top-level"><a href="/Product-Categories/Lifestyle/Character/c/070800#" title="CHARACTER">CHARACTER</a></li>
-																	<li><a href="/Product-Categories/Lifestyle/Character/Spongebob/c/070702#" title="Spongebob">Spongebob</a></li>
-																	<li><a href="/Product-Categories/Lifestyle/Character/Minion/c/070701#" title="Minion">Minion</a></li>
+																	<li class="top-level"><a href="/Product-Categories/Lifestyle/Christmas-Gifting/c/Christmas Gifting#" title="CHRISTMAS GIFTING">CHRISTMAS GIFTING</a></li>
 																	</ul>
 																</li>
 							<li class="dropdown-col-promo">
@@ -2374,14 +2363,19 @@ $(document).ready(
 		
 		
 			
-				<ul>
-					<li class="price">
-						<span class="lineouter"><span class="lineinner">S$19.90</span></span>
-						<br>
-						<span class="discount-price">S$14.93</span>
-					</li>
-				</ul>
 			
+				
+					
+						<ul>
+							<li class="price">
+								<span class="lineouter"><span class="lineinner">S$19.90</span></span>
+								<br>
+								<span class="discount-price">S$13.90</span>
+							</li>
+						</ul>
+					
+					
+				
 			
 		
 		
@@ -2389,7 +2383,6 @@ $(document).ready(
 			<div class="l">
 			    <ul class="product_active ">
 	<li><span class="tagRedBg">GWP</span></li>
-		<li><span class="tagRedBg">SAVE 25%</span></li>
 		</ul>
 
 				 		
@@ -2447,32 +2440,29 @@ $(document).ready(
 					<ul class="clearfix" style="width: 360px;">
 						<li class="dropdown-col-text">
 									<ul>
-												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:AVALON%20ORGANICS&amp;text=##" title="Avalon Organics">Avalon Organics</a></li>
-												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:WATSONS&amp;text=##" title="Watsons">Watsons</a></li>
+												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:WATSONS&amp;text=##" title="WATSONS">WATSONS</a></li>
 												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:DHC&amp;text=##" title="DHC">DHC</a></li>
 												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:DR.%20WU&amp;text=##" title="DR.WU">DR.WU</a></li>
-												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:MAJOLICA%20MAJORCA&amp;text=##" title="Majolica Majorca">Majolica Majorca</a></li>
-												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:MA%20CHERIE&amp;text=##" title="Ma Cherie">Ma Cherie</a></li>
+												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:MAJOLICA%20MAJORCA&amp;text=##" title="MAJOLICA MAJORCA">MAJOLICA MAJORCA</a></li>
+												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:MA%20CHERIE&amp;text=##" title="MA CHERIE">MA CHERIE</a></li>
 												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:KORDEL'S&amp;text=##" title="KORDEL'S">KORDEL'S</a></li>
-												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:SLIMSPA&amp;text=##" title="SlimSpa">SlimSpa</a></li>
-												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:COLLA-E&amp;text=##" title="COLLA-e">COLLA-e</a></li>
-												<li class="top-level"><a href="#" title="BAUSCH &amp; LOMB">BAUSCH &amp; LOMB</a></li>
+												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:SLIMSPA&amp;text=##" title="SLIMSPA">SLIMSPA</a></li>
+												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:COLLA-E&amp;text=##" title="COLLA-E">COLLA-E</a></li>
 												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:KOTEX&amp;text=##" title="KOTEX">KOTEX</a></li>
 												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:BIORE&amp;text=##" title="BIORE">BIORE</a></li>
 												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:TSUBAKI&amp;text=##" title="TSUBAKI">TSUBAKI</a></li>
 												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:ORGANIX&amp;text=##" title="ORGANIX">ORGANIX</a></li>
 												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:MARC ANTHONY&amp;text=##" title="MARC ANTHONY">MARC ANTHONY</a></li>
 												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:DAENG GI MEO RI&amp;text=##" title="DAENG GI MEO RI">DAENG GI MEO RI</a></li>
+												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:BIO ESSENCE&amp;text=##" title="BIO ESSENCE">BIO ESSENCE</a></li>
+												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:BATISTE&amp;text=##" title="BATISTE">BATISTE</a></li>
 												</ul>
 										</li>
 							<li class="dropdown-col-text">
 									<ul>
-												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:BIO ESSENCE&amp;text=##" title="BIO ESSENCE">BIO ESSENCE</a></li>
-												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:BATISTE&amp;text=##" title="BATISTE">BATISTE</a></li>
 												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:PHYTO&amp;text=##" title="PHYTO">PHYTO</a></li>
 												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:LIESE&amp;text=##" title="LIESE">LIESE</a></li>
 												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:CURE&amp;text=##" title="CURE">CURE</a></li>
-												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:BEAUTYBIOTICS&amp;text=##" title="BEAUTYBIOTICS">BEAUTYBIOTICS</a></li>
 												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:JORUBI&amp;text=##" title="JORUBI">JORUBI</a></li>
 												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:BIODERMA&amp;text=##" title="BIODERMA">BIODERMA</a></li>
 												<li class="top-level"><a href="/Product-Categories/c/Product_Categories?q=:masterBrandName:masterBrandName:CLIO##" title="CLIO">CLIO</a></li>
@@ -2483,7 +2473,7 @@ $(document).ready(
 							</ul>
 				</div>
 				</div>
-			</li><li class="brand-list-holder">
+			</li><li class="brand-list-holder bgnone">
 			<em class="naviArrow"></em>
 			<a href="/b/brandList" rel="" id="8796093744188" class="scroll-brand-trigger" title="Brands">
 	Brands</a>
@@ -2495,14 +2485,19 @@ $(document).ready(
 </div>
 					<div class="scroll-pane" id="divIscrollBrand" style="height: 330px;">
 						<ul>
-							<li><a href="/Default-Preview-Brand/All-Brands/21ST%20CENTURY/c/21ST-CENTURY" title="21ST CENTURY">21ST CENTURY</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/ACTI-TAPE/c/ACTI-TAPE" title="ACTI-TAPE">ACTI-TAPE</a></li>
+							<li><a href="/Default-Preview-Brand/All-Brands/HAIRPRO%20BY%20WATSONS/c/HAIRPRO-BY-WATSONS" title="HAIRPRO BY WATSONS">HAIRPRO BY WATSONS</a></li>
+							<li><a href="/Default-Preview-Brand/All-Brands/NATURALS%20BY%20WATSONS/c/NATURALS-BY-WATSONS" title="NATURALS BY WATSONS">NATURALS BY WATSONS</a></li>
+							<li><a href="/Default-Preview-Brand/All-Brands/TARGET%20PRO%20BY%20WATSONS/c/TARGET-PRO-BY-WATSONS" title="TARGET PRO BY WATSONS">TARGET PRO BY WATSONS</a></li>
+							<li><a href="/Default-Preview-Brand/All-Brands/WATSONS/c/WATSONS" title="WATSONS">WATSONS</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/ADIDAS/c/ADIDAS" title="ADIDAS">ADIDAS</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/AFRIN/c/AFRIN" title="AFRIN">AFRIN</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/ALPECIN/c/ALPECIN" title="ALPECIN">ALPECIN</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/ASIENCE/c/ASIENCE" title="ASIENCE">ASIENCE</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/ATORREGEAD/c/ATORREGEAD" title="ATORREGE AD+">ATORREGE AD+</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/AVALON%20ORGANICS/c/AVALON-ORGANICS" title="AVALON ORGANICS">AVALON ORGANICS</a></li>
+							<li><a href="/Default-Preview-Brand/All-Brands/AVEENO/c/AVEENO" title="AVEENO">AVEENO</a></li>
+							<li><a href="/Default-Preview-Brand/All-Brands/227510/c/227510" title="AVEENO BABY">AVEENO BABY</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/BANANA%20BOAT/c/BANANA-BOAT" title="BANANA BOAT">BANANA BOAT</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/BATISTE/c/BATISTE" title="BATISTE">BATISTE</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/BAUSCH%20&amp;%20LOMB/c/BAUSCH-%2526-LOMB" title="BAUSCH &amp; LOMB">BAUSCH &amp; LOMB</a></li>
@@ -2531,6 +2526,7 @@ $(document).ready(
 							<li><a href="/Default-Preview-Brand/All-Brands/CANESTEN/c/CANESTEN" title="CANESTEN®">CANESTEN®</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/CANMAKE/c/CANMAKE" title="CANMAKE">CANMAKE</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/CARDIPRIN/c/CARDIPRIN" title="CARDIPRIN">CARDIPRIN</a></li>
+							<li><a href="/Default-Preview-Brand/All-Brands/CEBION/c/CEBION" title="CEBION">CEBION</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/CETAPHIL/c/CETAPHIL" title="CETAPHIL">CETAPHIL</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/CIELO%20MOUSSE/c/CIELO-MOUSSE" title="CIELO MOUSSE">CIELO MOUSSE</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/CLAIROL/c/CLAIROL" title="CLAIROL">CLAIROL</a></li>
@@ -2539,14 +2535,17 @@ $(document).ready(
 							<li><a href="/Default-Preview-Brand/All-Brands/CLEAR/c/CLEAR" title="CLEAR">CLEAR</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/CLEARBLUE/c/CLEARBLUE" title="CLEARBLUE">CLEARBLUE</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/CLIO/c/CLIO" title="CLIO">CLIO</a></li>
+							<li><a href="/Default-Preview-Brand/All-Brands/COLAB/c/COLAB" title="COLAB">COLAB</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/COLGATE/c/COLGATE" title="COLGATE">COLGATE</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/COLLA-E/c/COLLA-E" title="COLLA-E">COLLA-E</a></li>
+							<li><a href="/Default-Preview-Brand/All-Brands/COLLAGEN%20BY%20WATSONS/c/COLLAGEN-BY-WATSONS" title="COLLAGEN BY WATSONS">COLLAGEN BY WATSONS</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/CURE/c/CURE" title="CURE">CURE</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/CUREL/c/CUREL" title="CUREL">CUREL</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/DAENG%20GI%20MEO%20RI/c/DAENG-GI-MEO-RI" title="DAENG GI MEO RI">DAENG GI MEO RI</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/DARLIE/c/DARLIE" title="DARLIE">DARLIE</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/DCS/c/DCS" title="DCS">DCS</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/DEQUADIN/c/DEQUADIN" title="DEQUADIN">DEQUADIN</a></li>
+							<li><a href="/Default-Preview-Brand/All-Brands/DERMAVEEN/c/DERMAVEEN" title="DERMAVEEN">DERMAVEEN</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/DETTOL/c/DETTOL" title="DETTOL">DETTOL</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/DHC/c/DHC" title="DHC">DHC</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/DOLLY%20WINK/c/DOLLY-WINK" title="DOLLY WINK">DOLLY WINK</a></li>
@@ -2554,6 +2553,7 @@ $(document).ready(
 							<li><a href="/Default-Preview-Brand/All-Brands/DR.%20WU/c/DR-WU" title="DR. WU">DR. WU</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/DUREX/c/DUREX" title="DUREX">DUREX</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/EAU%20THERMALE%20AVENE/c/EAU-THERMALE-AVENE" title="EAU THERMALE AVENE">EAU THERMALE AVENE</a></li>
+							<li><a href="/Default-Preview-Brand/All-Brands/227514/c/227514" title="ECOSTORE">ECOSTORE</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/ECOTOOLS/c/ECOTOOLS" title="ECOTOOLS">ECOTOOLS</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/EFAMOL/c/EFAMOL" title="EFAMOL">EFAMOL</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/ELANCYL/c/ELANCYL" title="ELANCYL">ELANCYL</a></li>
@@ -2574,6 +2574,7 @@ $(document).ready(
 							<li><a href="/Default-Preview-Brand/All-Brands/GLUCERNA/c/GLUCERNA" title="GLUCERNA">GLUCERNA</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/GlucosCare/c/GlucosCare" title="GLUCOSCARE®">GLUCOSCARE®</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/GREENLIFE/c/GREENLIFE" title="GREENLIFE">GREENLIFE</a></li>
+							<li><a href="/Default-Preview-Brand/All-Brands/22793/c/22793" title="HADA LABO">HADA LABO</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/HANSAPLAST/c/HANSAPLAST" title="HANSAPLAST">HANSAPLAST</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/HEAD%20&amp;%20SHOULDERS/c/HEAD-%2526-SHOULDERS" title="HEAD &amp; SHOULDERS">HEAD &amp; SHOULDERS</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/HEAVY%20ROTATION/c/HEAVY-ROTATION" title="HEAVY ROTATION">HEAVY ROTATION</a></li>
@@ -2657,6 +2658,7 @@ $(document).ready(
 							<li><a href="/Default-Preview-Brand/All-Brands/SCHOLL/c/SCHOLL" title="SCHOLL">SCHOLL</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/SEBAMED/c/SEBAMED" title="SEBAMED">SEBAMED</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/SENOKOT/c/SENOKOT" title="SENOKOT">SENOKOT</a></li>
+							<li><a href="/Default-Preview-Brand/All-Brands/SEVEN%20SEAS/c/SEVEN-SEAS" title="SEVEN SEAS">SEVEN SEAS</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/SHAKLEE/c/SHAKLEE" title="SHAKLEE">SHAKLEE</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/SILKPRO/c/SILKPRO" title="SILKPRO">SILKPRO</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/SILKYGIRL/c/SILKYGIRL" title="SILKYGIRL">SILKYGIRL</a></li>
@@ -2682,7 +2684,6 @@ $(document).ready(
 							<li><a href="/Default-Preview-Brand/All-Brands/VASELINE/c/VASELINE" title="VASELINE">VASELINE</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/VEET/c/VEET" title="VEET">VEET</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/VENUS/c/VENUS" title="VENUS">VENUS</a></li>
-							<li><a href="/Default-Preview-Brand/All-Brands/WATSONS/c/WATSONS" title="WATSONS">WATSONS</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/WEBBER%20NATURALS/c/WEBBER-NATURALS" title="WEBBER NATURALS">WEBBER NATURALS</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/WHITE%20FORMULA/c/WHITE-FORMULA" title="WHITE FORMULA">WHITE FORMULA</a></li>
 							<li><a href="/Default-Preview-Brand/All-Brands/WOODWARD'S/c/WOODWARD%2527S" title="WOODWARD'S">WOODWARD'S</a></li>
@@ -2693,10 +2694,7 @@ $(document).ready(
 				</div>
 				</div>
 			</li>
-	<li class="bgnone">
-			<a href="Product-Categories/Clearance/Clearance/c/Clearance#" rel="" id="8796351988796" title="Clearance">
-	Clearance</a>
-</li></ul>
+	</ul>
 				<div class="ribbon-dx"><img src="/_ui/desktop/theme-igc/img/asw/ribbon_dx.png"></div>
 			</div>
 		</div>
@@ -2859,90 +2857,90 @@ $(document).ready(
 		</div>
 		<!-- <div class="span12 pag-faq">-->
 		<div class="span12 bgDotTop">
-			<div class="content"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size: medium;"><b style="mso-bidi-font-weight:normal"><span style="font-family: &quot;Gotham Rounded Book&quot;;">Privacy Statement</span></b></span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-size:
-10.0pt;font-family:&quot;Gotham Rounded Book&quot;">&nbsp;</span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;
-font-family:&quot;Gotham Rounded Book&quot;">Our Pledge </span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">We  are committed to safeguarding your privacy and ensuring your personal  data is protected. We therefore make sure that our policies and  practices in relation to personal data comply with the requirements of  the Personal Data Protection Act 2012 (the “Act”) under the laws of  Singapore.</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">&nbsp;</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;
-font-family:&quot;Gotham Rounded Book&quot;">Privacy Policy</span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">This  privacy policy applies to www.watsons.com.sg (“the Site”) and to  personal data collected about you by Watsons (“we”, “us” or “our”).  Watsons is a member of the A. S. Watson group of companies (“ASW  Group”). By using the Site, you are agreeing to the terms of this  privacy policy. If you do not agree with any term of this policy, please  do not use the Site.</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">&nbsp;</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Please  note that this Privacy Policy may be amended from time to time by  posting the updated version here on the Site. You are advised to check  it on a regular basis.</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">&nbsp;</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;
-font-family:&quot;Gotham Rounded Book&quot;">Collection of Personally Identifiable Information </span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">When  you visit the site, we will record your visit only and will not collect  any personally identifiable information (i.e. information that is about  you and identifies you) from you unless otherwise stated. We use  cookies and similar technologies to collect data about your use of the  Site. For your information, Cookies are small computer files that can be  stored on your computer for the purposes of obtaining configuration  information and analysing your browsing habits. They can save you from  registering again when re-visiting a web site and are commonly used to  track your preferences in relation to the subject matter of the web  site. You may refuse to accept Cookies (by modifying the relevant  Internet options or browsing preferences of your computer system), but  if you do so you may not be able to utilize or activate certain  available functions on our Site.</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">&nbsp;</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;
-font-family:&quot;Gotham Rounded Book&quot;">Types of Personally Identifiable Information Collected </span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">At times, you may be asked to provide your personally identifiable information (“Personal Data”)<span style="mso-spacerun:yes">&nbsp; </span>including,  but not limited to: Name, gender, age, telephone number, fax number,  home address, email address, credit card information, bank account  number, education level, occupation, household income, interests, and  favourite activities etc. in order to enjoy the services we offer.  Specific purposes for which your Personal Data may be used are set out  in our Personal Information Collection Statement under section 6 below,  including the use of Personal Data for direct marketing. </span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">&nbsp;</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;
-font-family:&quot;Gotham Rounded Book&quot;">Security and Protection Your Personal Data</span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">All  personal data you provide to us is secured on our website with  restricted access by authorized personnel only. We maintain appropriate  administrative, technical and physical safeguards to protect the  personal data you provide to us against accidental, unlawful or  unauthorised destruction, loss, alteration, access, disclosure or use  and other unlawful forms of processing</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">&nbsp;</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">The  Site may contain hyperlinks to other websites provided by third  parties. We do not control these third party websites or any of the  content contained on those websites. Once you have left our website, we  cannot be responsible for the protection and privacy of any information  which you provide. You should exercise caution and look at the privacy  statement for the website you visit.</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">&nbsp;</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;
-font-family:&quot;Gotham Rounded Book&quot;">Personal Information Collection Statement (“PICS”)</span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">As  a Watsons customer, it may be necessary for you to provide us with your  Personal Data when you apply to us and / or continue to subscribe with  us for a service and / or product ("Services"). If your Personal Data is  incomplete or incorrect, we may not be able to provide or continue to  provide the Services to you.</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">We  shall keep your Personal Data confidential at all times. Our policies  and practices with respect to the collection, use, retention,  disclosure, transfer, security and access of Personal Data will be in  accordance with the laws of Singapore and are as set out in this PICS.</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">&nbsp;</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">In this PICS, the following terms shall have the following meaning:</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">"Our affiliates" - means companies within Hutchison Whampoa Limited, which operate Retail Goods or Services business.</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">"Our  subsidiaries" - means all the retail and manufacturing divisions  operating under A. S. Watson Group offering goods or services to  consumers, including health &amp; beauty products, food and groceries,  water and beverages, wine and electronics and electrical appliances.</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">"Retail  Goods or Services" - means sales of goods or provision of services in  relation to any of the following (whether through physical or online  channels): food &amp; beverages, restaurants, catering, groceries and  household products, general merchandise, health &amp; beauty,  pharmaceutical products, fragrance &amp; cosmetics, wine and liquor,  cigarette and cigar, stationery, books and paper products, confectionary  &amp; toys, clothing, shoes, baby products, pets products, fashion  accessories, bags &amp; luggage, jewellery, watches, furniture, plants  and accessories, sports &amp; leisure equipment, phones &amp; mobile  devices, electronics &amp; electrical appliances, computer software and  games, fuel, motor vehicle service.</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">&nbsp;</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">You  agree that all the Personal Data provided by you to us may be used and  retained by us for the following purposes and for other purposes as may  be agreed between you and us or required by law from time to time:</span></p>    <ul><li><span style="font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-mso-bidi-font-family:Symbol"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;</span></span></span><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Providing the Services;</span></li><li><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Analyzing, verifying and / or checking your credit, payment and / or status in relation to the provision of the Services</span></li><li><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Processing any payment instructions, direct debit facilities and / or credit facilities requested by you.</span></li><li><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Enabling  the daily operation of your account and / or the collection of amounts  outstanding in your account in relation to the Services;</span></li><li><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Carrying  out data sorting and analysis to enable us to better understand your  characteristics and buying behaviour and to provide other services  better tailored to your needs, and to assist us in selecting good and  services that are likely to be of interest to you;</span></li><li><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Providing you with regular communications from us with details of the Services and its benefits;</span></li><li><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">The normal management, operation and maintenance of the performance of the Services;</span></li></ul>            <p class="MsoListParagraphCxSpMiddle" style="margin-bottom:0cm;margin-bottom:
-.0001pt;mso-add-space:auto;text-indent:-18.0pt;line-height:normal;mso-list:
-l1 level1 lfo1"><span style="font-size:10.0pt;font-family:
-Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Research  for service improvement and designing new, or improving existing,  Services provided by us, our subsidiaries or our affiliates to you;</span></p>        <ul><li><span style="font-size:10.0pt;font-family:
-Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;</span></span></span><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Aggregated behavioural analysis</span></li><li><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Investigation of complaints and suspected suspicious transactions;</span></li><li><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Prevention or detection of crime;</span></li><li><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Disclosure as required by law.</span></li></ul>  <p class="MsoListParagraphCxSpMiddle" style="margin-bottom:0cm;margin-bottom:
-.0001pt;mso-add-space:auto;text-indent:-18.0pt;line-height:normal;mso-list:
-l1 level1 lfo1"><span style="font-size:10.0pt;font-family:
-Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">We  would also like to use your Personal Data (including your name,  telephone number, address and email address and other information  provided to us when you register) for direct marketing to you (whether  by post, email, phone, SMS or the like) in relation to:</span></p>        <ul><li><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Offers and promotions from us;</span></li><li><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Offers and promotions offered by our subsidiaries and our affiliates;</span></li><li><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Offers  and promotions from other companies within Hutchison Whampoa Limited,  in relation to telecommunication goods and/or services, e-commerce  services, insurance products and services, hotel and tourism services  and real property and related services;</span></li><li><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Other  offers and promotions from the third party merchants that we cooperate  with to provide benefits to our customers in relation to the following  types of products or services:</span></li></ul>  <p class="MsoListParagraphCxSpMiddle" style="margin-top:0cm;margin-right:0cm;
-margin-bottom:0cm;margin-left:2.0cm;margin-bottom:.0001pt;mso-add-space:auto;
-text-indent:-18.0pt;line-height:normal;mso-list:l1 level1 lfo1"><span style="font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Retail Goods or Services (as defined above)</span></p>  <p class="MsoListParagraphCxSpMiddle" style="margin-top:0cm;margin-right:0cm;
-margin-bottom:0cm;margin-left:2.0cm;margin-bottom:.0001pt;mso-add-space:auto;
-text-indent:-18.0pt;line-height:normal;mso-list:l1 level1 lfo1"><span style="font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Financial, insurance, banking and credit cards;</span></p>  <p class="MsoListParagraphCxSpMiddle" style="margin-top:0cm;margin-right:0cm;
-margin-bottom:0cm;margin-left:2.0cm;margin-bottom:.0001pt;mso-add-space:auto;
-text-indent:-18.0pt;line-height:normal;mso-list:l1 level1 lfo1"><span style="font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Transportation, travel and accommodation;</span></p>  <p class="MsoListParagraphCxSpMiddle" style="margin-top:0cm;margin-right:0cm;
-margin-bottom:0cm;margin-left:2.0cm;margin-bottom:.0001pt;mso-add-space:auto;
-text-indent:-18.0pt;line-height:normal;mso-list:l1 level1 lfo1"><span style="font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Sports, leisure, recreation and entertainment;</span></p>  <p class="MsoListParagraphCxSpMiddle" style="margin-top:0cm;margin-right:0cm;
-margin-bottom:0cm;margin-left:2.0cm;margin-bottom:.0001pt;mso-add-space:auto;
-text-indent:-18.0pt;line-height:normal;mso-list:l1 level1 lfo1"><span style="font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Telecommunications products and services;</span></p>  <p class="MsoListParagraphCxSpMiddle" style="margin-top:0cm;margin-right:0cm;
-margin-bottom:0cm;margin-left:2.0cm;margin-bottom:.0001pt;mso-add-space:auto;
-text-indent:-18.0pt;line-height:normal;mso-list:l1 level1 lfo1"><span style="font-size:10.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">E-commerce (including trading and payment platforms and online auctions)</span></p>  <p class="MsoListParagraphCxSpLast" style="margin-top:0cm;margin-right:0cm;
-margin-bottom:0cm;margin-left:2.0cm;margin-bottom:.0001pt;mso-add-space:auto;
-line-height:normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">&nbsp;</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Please note that we cannot so use your Personal Data unless we have received your consent.</span><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;"><br></span></p>    <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">We  may disclose and transfer (whether in Singapore, or Hong Kong or other  countries in which we/our subsidiaries and affiliates operate)) to our  agents<span style="mso-spacerun:yes">&nbsp; </span>or contractors under a  duty of confidentiality to us who provide administrative, data  processing, research and marketing, distribution, telecommunications,  professional or other similar services to us and to any of our actual or  proposed assignees or transferees of our rights with respect to you in  connection with a merger, sale or transfer (whether of assets or  shares), to use, hold, process or retain such Personal Data for the  purposes mentioned in paragraphs [6.4 and 6.5] above on our behalf.</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">&nbsp;</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;
-font-family:&quot;Gotham Rounded Book&quot;">Access to and Correction of Information</span></b></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">You have the right to:</span></p>          <ul><li><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Check whether we hold any of your Personal Data;</span></li><li><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Access your Personal Data held by us;</span></li><li><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Ask us to correct or update any Personal Data which is inaccurate;</span></li><li><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Ascertain our policies and practices (from time to time) in relation to Personal Data.</span></li><li><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Opt out from receiving direct marketing materials from us at any time</span></li></ul>    <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">In  accordance with the Act, we have the right to charge you a reasonable  fee for the processing of any Personal Data access request.</span><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;"><br></span></p>    <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Nothing in this PICS shall limit your rights under the Act.</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">&nbsp;</span><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;"><br></span></p>    <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Any  requests in relation to the above shall be in writing (sent by post or  email) to the address below. Should you have any enquiries concerning  our Privacy Policy Statement, please feel free to contact our Data  Protection officer:</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">&nbsp;</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Name: Lai Mei Ling</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Email:&nbsp;</span><a href="mailto:dpo@watsons.com.sg" style="font-family: Calibri, sans-serif; font-size: 11pt;">dpo@watsons.com.sg</a></p>    <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">Address: 80 Anson Road, #10-00 Fuji Xerox Building, Singapore 079907</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">&nbsp;</span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">If  you want to access and/or correct your personally identifiable  information which you have given us via Internet, you may change this  through the website by logging-in to your personal profile. </span></p>  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot;">&nbsp;</span></p></div></div>
+			<div class="content"><p><strong>PRIVACY STATEMENT</strong></p>
+<p>&nbsp;</p>
+<p><strong>Our Pledge</strong></p>
+<p>We are committed to safeguarding your privacy and ensuring your personal data is protected. We therefore make sure that our policies and practices in relation to personal data comply with the requirements of the Personal Data Protection Act 2012 (the “Act”) under the laws of Singapore.</p>
+<p>&nbsp;</p>
+<p><strong>Privacy Policy</strong></p>
+<p>This privacy policy applies to www.watsons.com.sg (“the Site”) and to personal data collected about you by Watsons (“we”, “us” or “our”). Watsons is a member of the A. S. Watson group of companies (“ASW Group”). By using the Site, you are agreeing to the terms of this privacy policy. If you do not agree with any term of this policy, please do not use the Site.</p>
+<p>&nbsp;</p>
+<p>Please note that this Privacy Policy may be amended from time to time by posting the updated version here on the Site. You are advised to check it on a regular basis.</p>
+<p>&nbsp;</p>
+<p><strong>Collection of Personally Identifiable Information</strong></p>
+<p>When you visit the site, we will record your visit only and will not collect any personally identifiable information (i.e. information that is about you and identifies you) from you unless otherwise stated. We use cookies and similar technologies to collect data about your use of the Site. For your information, Cookies are small computer files that can be stored on your computer for the purposes of obtaining configuration information and analysing your browsing habits. They can save you from registering again when re-visiting a web site and are commonly used to track your preferences in relation to the subject matter of the web site. You may refuse to accept Cookies (by modifying the relevant Internet options or browsing preferences of your computer system), but if you do so you may not be able to utilize or activate certain available functions on our Site.</p>
+<p>&nbsp;</p>
+<p><strong>Types of Personally Identifiable Information Collected</strong></p>
+<p>At times, you may be asked to provide your personally identifiable information (“Personal Data”) &nbsp;including, but not limited to: Name, gender, age, telephone number, fax number, home address, email address, credit card information, bank account number, education level, occupation, household income, interests, and favourite activities etc. in order to enjoy the services we offer. Specific purposes for which your Personal Data may be used are set out in our Personal Information Collection Statement under section 6 below, including the use of Personal Data for direct marketing.</p>
+<p>&nbsp;</p>
+<p><strong>Security and Protection Your Personal Data</strong></p>
+<p>All personal data you provide to us is secured on our website with restricted access by authorized personnel only. We maintain appropriate administrative, technical and physical safeguards to protect the personal data you provide to us against accidental, unlawful or unauthorised destruction, loss, alteration, access, disclosure or use and other unlawful forms of processing</p>
+<p>&nbsp;</p>
+<p>The Site may contain hyperlinks to other websites provided by third parties. We do not control these third party websites or any of the content contained on those websites. Once you have left our website, we cannot be responsible for the protection and privacy of any information which you provide. You should exercise caution and look at the privacy statement for the website you visit.</p>
+<p>&nbsp;</p>
+<p><strong>Personal Information Collection Statement (“PICS”)</strong></p>
+<p>As a Watsons customer, it may be necessary for you to provide us with your Personal Data when you apply to us and / or continue to subscribe with us for a service and / or product ("Services"). If your Personal Data is incomplete or incorrect, we may not be able to provide or continue to provide the Services to you.</p>
+<p>&nbsp;</p>
+<p>We shall keep your Personal Data confidential at all times. Our policies and practices with respect to the collection, use, retention, disclosure, transfer, security and access of Personal Data will be in accordance with the laws of Singapore and are as set out in this PICS.</p>
+<p>&nbsp;</p>
+<p>In this PICS, the following terms shall have the following meaning:</p>
+<p>&nbsp;</p>
+<p>"Our affiliates" - means companies within Hutchison Whampoa Limited, which operate Retail Goods or Services business.</p>
+<p>&nbsp;</p>
+<p>"Our subsidiaries" - means all the retail and manufacturing divisions operating under A. S. Watson Group offering goods or services to consumers, including health &amp; beauty products, food and groceries, water and beverages, wine and electronics and electrical appliances.</p>
+<p>&nbsp;</p>
+<p>"Retail Goods or Services" - means sales of goods or provision of services in relation to any of the following (whether through physical or online channels): food &amp; beverages, restaurants, catering, groceries and household products, general merchandise, health &amp; beauty, pharmaceutical products, fragrance &amp; cosmetics, wine and liquor, cigarette and cigar, stationery, books and paper products, confectionary &amp; toys, clothing, shoes, baby products, pets products, fashion accessories, bags &amp; luggage, jewellery, watches, furniture, plants and accessories, sports &amp; leisure equipment, phones &amp; mobile devices, electronics &amp; electrical appliances, computer software and games, fuel, motor vehicle service.</p>
+<p>&nbsp;</p>
+<p>You agree that all the Personal Data provided by you to us may be used and retained by us for the following purposes and for other purposes as may be agreed between you and us or required by law from time to time:</p>
+<p>&nbsp;</p>
+<p>&nbsp; &nbsp;• &nbsp; Providing the Services;</p>
+<p>&nbsp; &nbsp;• &nbsp; Analyzing, verifying and / or checking your credit, payment and / or status in relation to the provision of the Services</p>
+<p>&nbsp; &nbsp;• &nbsp;&nbsp;Processing any payment instructions, direct debit facilities and / or credit facilities requested by you.</p>
+<p>&nbsp; &nbsp;• &nbsp;&nbsp;Enabling the daily operation of your account and / or the collection of amounts outstanding in your account in relation to the Services;</p>
+<p>&nbsp; &nbsp;• &nbsp;&nbsp;Carrying out data sorting and analysis to enable us to better understand your characteristics and buying behaviour and to provide other services better tailored to your needs, and to assist us in selecting good and services that are likely to be of interest to you;</p>
+<p>&nbsp; &nbsp;• &nbsp;&nbsp;Providing you with regular communications from us with details of the Services and its benefits;</p>
+<p>&nbsp; &nbsp;• &nbsp;&nbsp;The normal management, operation and maintenance of the performance of the Services;</p>
+<p>&nbsp; &nbsp;• &nbsp;&nbsp;Research for service improvement and designing new, or improving existing, Services provided by us, our subsidiaries or our affiliates to you;&nbsp;</p>
+<p>&nbsp; &nbsp;• &nbsp;&nbsp;Aggregated behavioural analysis</p>
+<p>&nbsp; &nbsp;• &nbsp; Investigation of complaints and suspected suspicious transactions;</p>
+<p>&nbsp; &nbsp;• &nbsp;&nbsp;Prevention or detection of crime;</p>
+<p>&nbsp; &nbsp;• &nbsp;&nbsp;Disclosure as required by law.</p>
+<p>&nbsp;</p>
+<p>We would also like to use your Personal Data (including your name, telephone number, address and email address and other information provided to us when you register) for direct marketing to you (whether by post, email, phone, SMS or the like) in relation to:</p>
+<p>&nbsp;</p>
+<p>&nbsp; &nbsp;a. &nbsp; Offers and promotions from us;</p>
+<p>&nbsp; &nbsp;b. &nbsp;&nbsp;Offers and promotions offered by our subsidiaries and our affiliates;</p>
+<p>&nbsp; &nbsp;c. &nbsp;&nbsp;Offers and promotions from other companies within Hutchison Whampoa Limited, in relation to telecommunication goods and/or services, e-commerce services, insurance products and services, hotel and tourism services and real property and related services;</p>
+<p>&nbsp; &nbsp;d. &nbsp;&nbsp;Other offers and promotions from the third party merchants that we cooperate with to provide benefits to our customers in relation to the following types of products or services:</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• &nbsp; Retail Goods or Services (as defined above)</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• &nbsp;&nbsp;Financial, insurance, banking and credit cards;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• &nbsp;&nbsp;Transportation, travel and accommodation;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• &nbsp;&nbsp;Sports, leisure, recreation and entertainment;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• &nbsp;&nbsp;Telecommunications products and services;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• &nbsp;&nbsp;E-commerce (including trading and payment platforms and online auctions)</p>
+<p>&nbsp;</p>
+<p>Please note that we cannot so use your Personal Data unless we have received your consent.</p>
+<p>&nbsp;</p>
+<p>We may disclose and transfer (whether in Singapore, or Hong Kong or other countries in which we/our subsidiaries and affiliates operate)) to our agents &nbsp;or contractors under a duty of confidentiality to us who provide administrative, data processing, research and marketing, distribution, telecommunications, professional or other similar services to us and to any of our actual or proposed assignees or transferees of our rights with respect to you in connection with a merger, sale or transfer (whether of assets or shares), to use, hold, process or retain such Personal Data for the purposes mentioned in paragraphs [6.4 and 6.5] above on our behalf.</p>
+<p>&nbsp;</p>
+<p><strong>Access to and Correction of Information</strong></p>
+<p>You have the right to:</p>
+<p>&nbsp; &nbsp;i. &nbsp; Check whether we hold any of your Personal Data;</p>
+<p>&nbsp; &nbsp;ii. &nbsp;Access your Personal Data held by us;</p>
+<p>&nbsp; &nbsp;iii. Ask us to correct or update any Personal Data which is inaccurate;</p>
+<p>&nbsp; &nbsp;iv. Ascertain our policies and practices (from time to time) in relation to Personal Data.</p>
+<p>&nbsp; &nbsp;v. &nbsp;Opt out from receiving direct marketing materials from us at any time</p>
+<p>&nbsp; &nbsp;vi. In accordance with the Act, we have the right to charge you a reasonable fee for the processing of any Personal Data access request.</p>
+<p>&nbsp;</p>
+<p>Nothing in this PICS shall limit your rights under the Act.</p>
+<p>&nbsp;</p>
+<p>Any requests in relation to the above shall be in writing (sent by post or email) to the address below. Should you have any enquiries concerning our Privacy Policy Statement, please feel free to contact our Data Protection officer:</p>
+<p>&nbsp;</p>
+<p>Name: Lai Mei Ling</p>
+<p>Email: <a href="mailto:dpo@watsons.com.sg">dpo@watsons.com.sg</a></p>
+<p>Address: 80 Anson Road, #10-00 Fuji Xerox Building, Singapore 079907</p>
+<p>&nbsp;</p>
+<p>If you want to access and/or correct your personally identifiable information which you have given us via Internet, you may change this through the website by logging-in to your personal profile.</p></div></div>
 	</div>
 	
 	<script type="text/javascript">
@@ -2971,7 +2969,7 @@ normal"><span style="font-size:10.0pt;font-family:&quot;Gotham Rounded Book&quot
 					<input class="input-btn-custom search-btn" type="button" id="eNewsletterSubmitBtnId" value="Subscribe" name="eNewsletterSubmitBtnId">
 				</div>
 				<div><span class="error-msg" id="eNewsletterErrorSpanId" style="display:none"></span></div>
-			<input type="hidden" name="CSRFToken" value="9df42237-f9e0-401f-800a-1544afdef694">
+			<input type="hidden" name="CSRFToken" value="1e292d09-684b-4e08-9f8d-7581a9fbf8eb">
 </form></div>
 	</div>
 
@@ -3198,5 +3196,5 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 <!-- End Google Tag Manager -->
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"4101062","applicationTime":112,"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"fe2d9d0472","transactionName":"Y1dRNUBYXBICBhFcDFodYBFAUFwGIAoLQRFbXl8EQBZ2BAUEEFkXZFNUBHFWXBURCglZBkYdVARG","agent":"","errorBeacon":"bam.nr-data.net"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"4101062","applicationTime":111,"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"fe2d9d0472","transactionName":"Y1dRNUBYXBICBhFcDFodYBFAUFwGIAoLQRFbXl8EQBZ2BAUEEFkXZFNUBHFWXBURCglZBkYdVARG","agent":"","errorBeacon":"bam.nr-data.net"}</script>
 </body></html>
