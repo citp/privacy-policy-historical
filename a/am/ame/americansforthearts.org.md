@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americansforthearts.org privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613095439id_/http%3A//www.americansforthearts.org/node/28440) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americansforthearts.org privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203221331id_/http%3A//www.americansforthearts.org/node/28440) for the most accurate reproduction.*
 
 # Americans for the Arts Privacy Statement | Americans for the Arts
 
