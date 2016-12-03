@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 007names.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505012035id_/https%3A//www.007names.com/statements/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 007names.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203032724id_/https%3A//007names.com/statements/privacy.xhtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
