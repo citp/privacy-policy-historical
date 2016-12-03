@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viatrading.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619050549id_/http%3A//www.viatrading.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viatrading.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203092316id_/http%3A//www.viatrading.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Via Trading Corporation
 
@@ -8,11 +8,7 @@ This is the web site of Via Trading Corporation.
 
 Our physical and mailing address is:
 
-  * Via Trading Corporation
-  * 2520 Industry Way
-  * Lynwood, CA, 90262
-
-
+Via Trading Corporation2520 Industry WayLynwood, CA, 90262 
 
 We can be reached via e-mail at [sales@viatrading.com](mailto:sales@viatrading.com) or by telephone at **877-202-3616** (+323-214-8914 from overseas).
 
