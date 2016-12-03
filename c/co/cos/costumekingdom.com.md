@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the costumekingdom.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401201810id_/http%3A//www.costumekingdom.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumekingdom.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203051759id_/http%3A//www.costumekingdom.com/t-privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# privacy
 
 ### Our Commitment to Privacy
 
@@ -10,8 +10,7 @@ Costumekingdom Inc. respects our customers’ privacy and is committed to collec
 
 This policy has been last updated July 13th, 2007. If this policy changes in the future, we will let you know by posting any changes in this web page or by communicating directly with you. The revised Internet Private Policy will be displayed via a link on this website so that you will know what types of information we gather.
 
-#### WHAT KIND OF ONLINE INFORMATION DO WE COLLECT?  
-
+#### WHAT KIND OF ONLINE INFORMATION DO WE COLLECT?
 
 We do collect some limited information about your visit but none of this information is personally identifiable to you.
 
