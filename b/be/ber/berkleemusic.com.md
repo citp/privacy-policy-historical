@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the berkleemusic.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906101702id_/https%3A//online.berklee.edu/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berkleemusic.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203200932id_/https%3A//online.berklee.edu/about/privacy) for the most accurate reproduction.*
 
-# Berklee Online
+# Berklee Online - Music Degree, Certificates, Courses
 
 Please read this Privacy Policy carefully before using online.berklee.edu ("Web site"), an Internet site maintained by Berklee College of Music, Inc. ("Berklee"). Your use of the Web site serves as your acceptance of this Privacy Policy and consent to Berklee's collection and use of the information you provide as set forth in the Privacy Policy. Please note that this Privacy Policy applies only to the Web site, and not to other Web sites operated by other companies or organizations to which we may link. When you link to any other Web sites from the Web site, this policy no longer applies and Berklee has no control of the activities of those Web sites. Also this Privacy Policy does not apply to any information that Berklee may collect from you in any manner other than online. 
 
@@ -30,7 +30,7 @@ Generally, Berklee only uses personal information collected from and about its u
 
 ### Information Sharing with Non-Affiliated Third Parties
 
-Because Berklee Online values all customer relationships, it will not disclose customers' nonpublic personal information to nonaffiliated third parties, except as described in this policy or as otherwise permitted by law. We DO NOT allow any email harvesting. If you feel you have been contacted in error by a party other than Berklee Online, please contact Student Support at [ support@berkleemusic.com. ](mailto:support@berkleemusic.com)
+Because Berklee Online values all customer relationships, it will not disclose customers' nonpublic personal information to nonaffiliated third parties, except as described in this policy or as otherwise permitted by law. We DO NOT allow any email harvesting. If you feel you have been contacted in error by a party other than Berklee Online, please contact Student Support at [ support@online.berklee.edu. ](mailto:support@online.berklee.edu)
 
 ### Cookies and IP Addresses
 
@@ -42,7 +42,7 @@ To provide relevant information not found on the Web site and to provide a great
 
 ### Opt-Out
 
-If you do not want Berklee to send you e-mail or regular mail about our products and/or services, you can opt-out at the time we collect the information. If you are receiving e-mails or regular mail and at a later date you choose to opt-out and have your name removed from Berklee's e-mailing list, you can do so by using the link included with a Berklee e-mail or by sending an e-mail to [ support@berkleemusic.com. ](mailto:support@berkleemusic.com) Berklee Online will occasionally send email announcing changes or enhancements to our site or services. If you do not wish to receive these announcements, please notify [ support@berkleemusic.com ](mailto:support@berkleemusic.com) that you wish to opt-out of all announcements. 
+If you do not want Berklee to send you e-mail or regular mail about our products and/or services, you can opt-out at the time we collect the information. If you are receiving e-mails or regular mail and at a later date you choose to opt-out and have your name removed from Berklee's e-mailing list, you can do so by using the link included with a Berklee e-mail or by sending an e-mail to [ support@online.berklee.edu. ](mailto:support@online.berklee.edu) Berklee Online will occasionally send email announcing changes or enhancements to our site or services. If you do not wish to receive these announcements, please notify [ support@online.berklee.edu ](mailto:support@online.berklee.edu) that you wish to opt-out of all announcements. 
 
 Students enrolled in a course or program with Berklee Online must be opted in to receive all email communications. Most communication between Berklee Online and it's student body is conducted in this manner.
 
@@ -59,7 +59,7 @@ In order to ensure all students are kept up to date on the happenings of the onl
 
 ### Reviewing and Changing Personal Information
 
-You may at any time review and/or update the contact information we have for you or inform us that you want us to remove such information from our database by contacting us at [support@berkleemusic.com.](mailto:support@berkleemusic.com)
+You may at any time review and/or update the contact information we have for you or inform us that you want us to remove such information from our database by contacting us at [support@online.berklee.edu.](mailto:support@online.berklee.edu)
 
 You must provide us with information on the activities you participated in which requested personal information. Before we can change or delete any information, we require that you provide us with proof of your name and address. Once we receive such proof, we will immediately delete or modify your information and refrain from collecting any other personally identifiable information from you, if you request. Please note, however, that there may be some residual information that may remain in our databases that may or may not contain personally identifiable information. We will not provide this information to any third party, or use it for any commercial purpose.
 
@@ -69,7 +69,7 @@ Consistent with the Children's Online Privacy Protection Act ("COPPA"), Berklee 
 
 ### Contacting the Web Site
 
-If you have any questions about this Privacy Policy, the practices of this Web site, or your dealings with this Web site, please contact [support@berkleemusic.com](mailto:support@berkleemusic.com) or by mail:   
+If you have any questions about this Privacy Policy, the practices of this Web site, or your dealings with this Web site, please contact [support@online.berklee.edu](mailto:support@online.berklee.edu) or by mail:   
 Berklee Media   
 Berklee College of Music   
 1140 Boylston Street   
