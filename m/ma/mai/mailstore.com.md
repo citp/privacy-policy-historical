@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the mailstore.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417162451id_/http%3A//www.mailstore.com/en/legal-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailstore.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203153807id_/http%3A//www.mailstore.com/en/legal-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 
-    PRIVACY POLICY
+    PRIVACY POLICY 
     
     § 1 Overview
     
@@ -11,7 +11,7 @@
     
     § 2 Automatic Data Gathering
     
-    Due to technical reasons, the following data transferred by your internet browser is stored:
+    The following data transferred by your internet browser is stored:
     
     * browser type and version
     * operating system
@@ -20,7 +20,7 @@
     * date and time of the access
     * internet protocol (IP) address
     
-    This anonymous data is stored separately from any personal data you may have provided, so that no conclusions can be drawn about a specific person; it is evaluated for statistical purposes, enabling us to provide optimal internet presence and services. Once the data is evaluated it is deleted from our system.
+    The data is evaluated to enable us to optimize our internet presence and services.
     
     § 3 Inventory Data
     
@@ -34,14 +34,17 @@
     
     1. Personal data required for making our products available to customers and data needed for accounting purposes (usage data) is used for contract execution. Falling into this category is information concerning user identification, information about the period and the scope of use as well as information about which telecommunication services you use. Usage data for accounting purposes (accounting data) can be passed on to other service providers or third parties, as long as the information is required to settle accounts with the user. After the full amount owed by the user is paid, all such usage and accounting data is deleted. If, due to legal, statutory or contractual retention periods, deletion is prohibited, data is blocked instead.
     
-    2. Usage data is also used for promotions, market research or demand-actuated design of our offers for the creation of user profiles using pseudonyms. You are entitled to prohibit the use of your usage data for such purposes. User profiles are kept separately from personal data.
+    2. Usage data is also used for promotions, market research or demand-actuated design of our offers for the creation of user profiles. You are entitled to prohibit the use of your usage data for such purposes.
     
     3. In individual cases, by order of the appropriate authorities, usage data may be made available to be used as necessary for criminal prosecution, averting of danger through state police departments, performing legal tasks of the German federal and state constitution protection agencies, the German Federal Intelligence Service (Bundesnachrichtendienst, BND), the German Military Counter-Intelligence Service (Militaerischer Abschirmdienst, MAD), or for the protection of intellectual property rights.
+    
     § 5 Information Regarding Cookies
     
     1. Cookies are used to recognize users revisiting our site and using one of our offers multiple times. Cookies are small text files that your internet browser stores on your machine. Upon revisiting our site, these cookies provide information to automatically recognize you by reading your IP address stored in the cookies. Information contained in the cookies is used to optimize our offers and provide you easy access to our site.
     
-    2. You can prevent your browser from storing cookies onto your hard drive by disabling cookies in the browser settings. However, this may limit the functionality of our offers.
+    2. In addition, we are setting cookies to record your visit to our website. This enables third party service providers such as social networks to provide you with interest-based advertisement on their websites.
+    
+    3. You can prevent your browser from storing cookies onto your hard drive by disabling cookies in the browser settings. Alternatively, you may deactivate third-party cookies in your browser. However, this may limit the functionality of our offers.
     
     § 6 Using Google Analytics
     
