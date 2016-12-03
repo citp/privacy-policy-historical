@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karndean.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516162501id_/http%3A//www.karndean.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karndean.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203113018id_/http%3A//www.karndean.com/en/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | USA
 
