@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunsandammo.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528015652id_/http%3A//www.imoutdoors.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunsandammo.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203080348id_/http%3A//www.imoutdoors.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Outdoor Sportsman Group
 
