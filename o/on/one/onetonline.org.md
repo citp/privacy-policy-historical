@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onetonline.org privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608121225id_/http%3A//www.onetonline.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onetonline.org privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203011326id_/http%3A//www.onetonline.org/help/privacy) for the most accurate reproduction.*
 
 # Privacy and Security Statement
 
@@ -20,7 +20,7 @@ The above information is used by software programs on our website to create summ
 
 You also may decide to send us personally-identifying information, for example, your mailing address, in an electronic mail message requesting that information be mailed to you. Information collected in this manner is used solely for responding to requests for information or records. We may forward your email to other government employees who are better able to respond to you.
 
-#### If you link to other sites outside of O*NET OnLine (<http://www.onetonline.org/>):
+#### If you link to other sites outside of O*NET OnLine (<https://www.onetonline.org/>):
 
 Our website has many links to other sites. When you follow a link to any of these sites, you are no longer on our site and are subject to the privacy policy of the new site.
 
