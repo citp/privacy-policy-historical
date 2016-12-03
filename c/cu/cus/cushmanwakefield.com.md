@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cushmanwakefield.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011425id_/http%3A//www.cushmanwakefield.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cushmanwakefield.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203155647id_/http%3A//www.cushmanwakefield.com/en/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Cushman & Wakefield
 
@@ -26,7 +26,7 @@ When you register with us we ask for information such as your name, email addres
 
 ### Use of cookies, web beacons and other devices
 
-For information about how we use cookies, web beacons and other devices to monitor users’ behaviour, please see our Cookie Policy at www.cushmanwakefield.com/cookies-policy (may change)
+For information about how we use cookies, web beacons and other devices to monitor users’ behavior, please see our Cookie Policy at www.cushmanwakefield.com/cookies-policy (may change)
 
 ### How do we use your information for marketing?
 
@@ -54,4 +54,4 @@ We may update our Privacy Policy from time to time. If we make a material change
 
 ### Unsubscribe/changing your mailing preferences
 
-If you have received an e-mail or e-mails from Cushman & Wakefield that you no longer wish to receive, log into your C&W account to change your mailing preferences or unsubscribe from all mailings. If you have any queries about how we use your account information contact us at web.manager@cushwake.com. 
+If you have received an e-mail or e-mails from Cushman & Wakefield that you no longer wish to receive please contact us at web.manager@cushwake.com. 
