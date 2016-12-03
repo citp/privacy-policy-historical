@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the pedianetwork.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406102310id_/http%3A//www.pedianetwork.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pedianetwork.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203232032id_/http%3A//pedianetwork.com/privacy.html) for the most accurate reproduction.*
 
 # PediaNetwork® - The Encyclopedia Network - Privacy Statement
 
-  
+## The PediaNetwork® 2016 Simplified Privacy Statement
 
-
-### The PediaNetwork® 2014 Simplified Privacy Statement
-
-The PediaNetwork® is owned and operated by Pedia, Inc. The PediaNetwork® welcomes you as a customer and respect your rights of privacy. We recognize that you visit our Web sites and purchase our products and services because you trust that we will stand behind our promises. In turn, we pledge our commitment to treating your personal information responsibly. The PediaNetwork® has established the following policies to assure you that we are committed to protecting your privacy. Also please visit the PediaNetwork® [Children's Privacy Policy & Statement](https://web.archive.org/web/20160406102310id_/http%3A//www.pedianetwork.com/privacy_child.html) section of our website to learn how we make our PediaNetwork® Websites safer for kids and compliant with the Children's Online Privacy Protection Act. 
+The PediaNetwork® is owned and operated by PediaNetwork, Inc. The PediaNetwork® welcomes you as a customer and respect your rights of privacy. We recognize that you visit our Web sites and purchase our products and services because you trust that we will stand behind our promises. In turn, we pledge our commitment to treating your personal information responsibly. The PediaNetwork® has established the following policies to assure you that we are committed to protecting your privacy. Also please visit the PediaNetwork® [Children's Privacy Policy & Statement](https://web.archive.org/web/20161203232032id_/http%3A//pedianetwork.com/privacy_child.html) section of our website to learn how we make our PediaNetwork® Websites safer for kids and compliant with the Children's Online Privacy Protection Act. 
 
 By using our Products and Services, you agree, without limitation or qualification, to be bound by this Privacy Policy or any other privacy or data collection policy applicable to any individual PediaNetwork® Web site and to receive any required legal notices regarding our privacy practices through the continuous posting of a clear and conspicuous link to the current version of this Privacy Policy throughout the PediaNetwork® near the bottom of most pages. If you become an inactive user, we will adhere to the policies and practices as described in this Privacy Policy and Statement, which may be revised from time to time. 
 
@@ -93,7 +90,7 @@ Please submit any inquiries to us at:
 
 OR WRITE TO 
 
-PEDIA, Inc.  
+PediaNetwork  
 5942 Edinger Ave, Ste. 113 - 280  
 Huntington Beach, CA 92649
 
