@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lsc.edu privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504204922id_/http%3A//www.lsc.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsc.edu privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203100145id_/http%3A//www.lsc.edu/privacy) for the most accurate reproduction.*
 
 # Privacy - Lake Superior College|Duluth, MN Lake Superior College|Duluth, MN
 
