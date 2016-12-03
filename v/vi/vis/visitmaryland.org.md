@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitmaryland.org privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514110222id_/http%3A//www.visitmaryland.org/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitmaryland.org privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203022701id_/http%3A//www.visitmaryland.org/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Visit Maryland
 
