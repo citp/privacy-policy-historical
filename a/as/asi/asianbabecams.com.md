@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianbabecams.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507012518id_/http%3A//www.asianbabecams.com/support.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianbabecams.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203031420id_/http%3A//asianbabecams.com/support.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Live Asian Cams and Asian Cam Sex @ AsianBabeCams.com
 
