@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ektron.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607133458id_/http%3A//www.episerver.com/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ektron.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203210311id_/http%3A//www.episerver.com/legal-agreements/legal/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - Epi
+# Privacy Statement - Episerver
 
 Episerver AB is committed to protecting your integrity. This privacy statement describes how data is collected and used on the website www.Episerver.com. This policy does not apply to other online or offline Episerver AB sites, products or services. By visiting this website, you consent to the principles for collection and usage of information described in this privacy statement.
 
@@ -24,7 +24,7 @@ A cookie is a small text file that visited websites save on your computer. Cooki
 
 Name | Domain | Purpose  
 ---|---|---  
-Episerver.CMO.LPO | [www.Episerver.com](http://www.episerver.com/) | Visitor behaviour and navigation for [Episerver CMO](https://web.archive.org/products/add-on-store/Episerver-CMO/)  
+Episerver.CMO.LPO | [www.Episerver.com](http://www.episerver.com/) | Visitor behaviour and navigation for [Episerver CMO](https://web.archive.org/partners/add-on-store/Episerver-CMO/)  
 ASP.NET_SessionId | [www.Episerver.com](http://www.episerver.com/) | This session cookie is essential for the website to operate and is set upon your arrival to the site. This cookie is deleted when you close the browser.  
 BIGipServerwww.Episerver.com  
 _HTTP_Pool | [www.Episerver.com](http://www.episerver.com/) | Used for load balancing purposes.  
@@ -66,7 +66,7 @@ Google can transfer the collected information to a third party if it is required
 
 ### Episerver CMO
 
-To be able to optimize the content of the website we are using [Episerver CMO](https://web.archive.org/products/add-on-store/Episerver-CMO/) for campaign handling and optimization. Episerver CMO collect information in an anonymous form (aggregated) about how visitors use the website, for example, the number of page views, how visitors have arrived at the website, and the number of visits.
+To be able to optimize the content of the website we are using [Episerver CMO](https://web.archive.org/partners/add-on-store/Episerver-CMO/) for campaign handling and optimization. Episerver CMO collect information in an anonymous form (aggregated) about how visitors use the website, for example, the number of page views, how visitors have arrived at the website, and the number of visits.
 
 ## Changes to this Privacy Statement
 
