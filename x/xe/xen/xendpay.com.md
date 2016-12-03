@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xendpay.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318044748id_/https%3A//www.xendpay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xendpay.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203030028id_/http%3A//www.xendpay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Xendpay
 
@@ -41,7 +41,7 @@ While we take reasonable measures to keep your information secure, we cannot gua
 
 ### Prevention and detection of crime
 
-Xendpay and our products and services are subject to the Money Laundering Regulations 2007 and regulation by HM Revenue and Customs. Some of our products and services are also subject to regulation by the [Financial Conduct Authority](https://web.archive.org/web/20150318044748id_/https%3A//www.xendpay.com/fca "FCA financial conduct authority") (FCA).
+Xendpay and our products and services are subject to the Money Laundering Regulations 2007 and regulation by HM Revenue and Customs. Some of our products and services are also subject to regulation by the [Financial Conduct Authority](https://web.archive.org/web/20161203030028id_/http%3A//www.xendpay.com/fca "FCA financial conduct authority") (FCA).
 
 We may be required by the Money Laundering Regulations 2007, by HM Revenue & Customs, by the FCA or other regulatory bodies, by the police or other law enforcement agencies, by a court or otherwise by law to use your information in the detection, prevention or prosecution of crime, tax evasion or fraud.
 
@@ -53,9 +53,9 @@ Our website may contain links to other websites of interest. However, if you use
 
 You may choose to restrict the collection or use of your personal information in the following ways.
 
-If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us via the [Contact form](https://web.archive.org/web/20150318044748id_/https%3A//www.xendpay.com/contact-us "Contact RationalFX by email").
+If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us via the [Contact form](https://web.archive.org/web/20161203030028id_/http%3A//www.xendpay.com/contact-us "Contact RationalFX by email").
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please contact us via our [Contact form](https://web.archive.org/web/20150318044748id_/https%3A//www.xendpay.com/contact-us).
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please contact us via our [Contact form](https://web.archive.org/web/20161203030028id_/http%3A//www.xendpay.com/contact-us).
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, using the above form. We will promptly correct any information found to be incorrect.
 
@@ -93,4 +93,4 @@ Further information concerning cookies and how to manage them to suit your prefe
 
 ### How to contact us
 
-If you have any questions about our Privacy Policy or your information, please contact us in writing to Legal & Compliance, Xendpay, Holland House, Bury Street, London EC3A 5AW or email us via the [Contact form](https://web.archive.org/web/20150318044748id_/https%3A//www.xendpay.com/contact-us).
+If you have any questions about our Privacy Policy or your information, please contact us in writing to Legal & Compliance, Xendpay, Level 32, One Canada Square, Canary Wharf, London E14 5AB or email us via the [Contact form](https://web.archive.org/web/20161203030028id_/http%3A//www.xendpay.com/contact-us).
