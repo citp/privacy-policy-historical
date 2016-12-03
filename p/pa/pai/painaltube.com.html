@@ -1,17 +1,17 @@
-<!--The following is the downloaded HTML source of the painaltube.com privacy policy that was archived on 2016-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160625012541id_/http%3A//www.painaltube.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the painaltube.com privacy policy that was archived on 2016-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161203121127id_/https%3A//www.painaltube.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
 		<meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1,width=device-width">
 	<title>Privacy Policy | PainalTube</title>
 	
-			<link rel="canonical" href="//www.painaltube.com/privacy/">
+			<link rel="canonical" href="//www.painaltube.com/privacy">
 		
 		<meta name="description" content="Painal Tube features painal videos updated daily. Your source for free painal and anal videos.">
 		
 	<!-- CSS -->
-	<link rel="stylesheet" href="//i.painaltube.com/static/css/style.css?20160316" type="text/css">
+	<link rel="stylesheet" href="//i.painaltube.com/static/css/style.css?2016091301" type="text/css">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,300,700" type="text/css">
 	<!-- <link rel="stylesheet" href="//i.painaltube.com/static/css/font-awesome.min.css" type="text/css"> -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
@@ -25,11 +25,12 @@
 	<![endif]-->
 </head>
 
-<body>
+<body class="popunder_watcher ">
 	<nav class="nav">
 		<ul class="fw700">
-			<li><a href="//www.painaltube.com/" class="track_click">Painal Videos<i class="fa fa-cog"></i></a></li>
-			<li><a href="http://www.inhumanity.com/?utm_source=painaltube&amp;utm_medium=hardlink&amp;utm_campaign=painaltube-nav" target="_blank" class="track_click">Inhumanity<i class="fa fa-cog"></i></a></li>
+			<!-- MOBILE -->
+			<li><a href="//www.painaltube.com/hosted/" class="track_click">Painal Videos<i class="fa fa-cog"></i></a></li>
+			<li><a href="http://www.inhumanity.com/?utm_source=painaltube&amp;utm_medium=hardlink&amp;utm_campaign=painaltube-nav" target="_blank" class="track_click">More Porn<i class="fa fa-cog"></i></a></li>
 			<li><a href="//www.painaltube.com/search/" class="track_click">Search<i class="fa fa-cog"></i></a></li>
 			<li><a href="//www.painaltube.com/contact/" class="track_click">Contact<i class="fa fa-cog"></i></a></li>
 		</ul>
@@ -44,12 +45,15 @@
 				<img src="//i.painaltube.com/static/images/logo.png" alt="PainalTube">
 			</a>
 			<div class="menu va-mid">
-				<a href="//www.painaltube.com/" class="track_click">Painal Videos</a>
-				<a href="http://www.inhumanity.com/?utm_source=painaltube&amp;utm_medium=hardlink&amp;utm_campaign=painaltube-nav" target="_blank" class="track_click">Inhumanity</a>
+				<!-- DESKTOP -->
+				<a href="//www.painaltube.com/hosted/" class="track_click">Videos</a>
 				<a href="//www.painaltube.com/search/" class="track_click">Search</a>
+				<a href="http://www.efukt.com/?utm_source=painaltube&amp;utm_medium=hardlink&amp;utm_campaign=painaltube-nav" target="_blank" class="track_click">Porn Bloopers</a>
+				<a href="http://www.inhumanity.com/?utm_source=painaltube&amp;utm_medium=hardlink&amp;utm_campaign=painaltube-nav" target="_blank" class="track_click">More Porn</a>
+				<!-- <a href="http://www.efukt.com/?utm_source=painaltube&utm_medium=hardlink&utm_campaign=painaltube-nav" target="_blank" class="track_click">EFUKT</a> -->
+				<!-- <a href="http://frtyb.com/go/gQ0i_bC9U9/painaltube_nav" target="_blank" class="track_click">SLUT ROULETTE</a> -->
 				<!-- <a href="//www.painaltube.com/contact/" class="track_click">Contact</a> -->
 				<!-- <a href="http://inhumanity.com/?utm_source=paintaltube&utm_medium=navlink&utm_campaign=painaltube" target="_blank" class="track_click">Inhumanity</a> -->
-				<!-- <a href="http://frtyb.com/go/gQ0i_bC9U9/painaltube_nav" target="_blank" class="track_click">Slut Roulette</a> -->
 			</div>
 			<div class="buttons fw700 va-mid">
 				<a href="//www.painaltube.com/submit/" title="Submit content" class="track_click">Submit</a>
@@ -131,8 +135,61 @@ Painaltube.com is a growing online service. As such, we may have the occasion to
 	</footer>
 	
 	<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-	<script type="text/javascript" src="//www.painaltube.com/static/js/core.js?2016050901"></script>
+	<script type="text/javascript" src="//www.painaltube.com/static/js/core.js?20160922"></script>
 	
+	<script type="text/javascript">
+	;jQuery(document).ready(function($) {
+		// @20160816 - prevent first click every 24 hours to allow popunder to load page in new tab
+		(function() {
+			var landing_cookie_name = "pt_landing_click";
+			var cookies_value = "; "+ document.cookie;
+			var cookies_parts = cookies_value.split("; "+ landing_cookie_name +"=");
+			var landing_cookie_exists = (cookies_parts.length == 2);
+			var landing_overlay_id = "pt_landing_overlay";
+			var landing_overlay_css = {};
+			var landing_overlay_events = "click.pt_landing_cookie";
+			
+			if(landing_cookie_exists) {
+				return;
+			}
+			
+			landing_overlay_css['position'] = "absolute";
+			landing_overlay_css['z-index'] = "1000";
+			landing_overlay_css['top'] = "0";
+			landing_overlay_css['right'] = "0";
+			landing_overlay_css['bottom'] = "0";
+			landing_overlay_css['left'] = "0";
+			landing_overlay_css['opacity'] = "0";
+			
+			if(/iP/.test(navigator.userAgent)) {
+				landing_overlay_css['cursor'] = "pointer";   // required for mobile browsers (iPhone/iPad)
+				
+				landing_overlay_events = "click.pt_landing_cookie touchstart.pt_landing_cookie";
+			}
+			
+			$("<div/>", {
+				'id': landing_overlay_id
+			}).css(landing_overlay_css).appendTo("body");
+			
+			$("html").on(landing_overlay_events, function(e) {
+				var landing_cookie_date = new Date();
+				
+				if(e.type == "touchstart") {
+					// touchstart = dragging, single tap = click
+					return;
+				}
+				
+				landing_cookie_date.setTime((landing_cookie_date.getTime() + (24 * 60 * 60 * 1000)));
+				
+				document.cookie = landing_cookie_name +"=1; expires="+ landing_cookie_date.toGMTString() +"; path=/";
+				
+				$("#"+ landing_overlay_id).empty().remove();
+				
+				$("html").off(landing_overlay_events);
+			});
+		}());
+	});
+</script>	
 	<script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -141,10 +198,22 @@ Painaltube.com is a growing online service. As such, we may have the occasion to
 	
 	//ga('create', 'UA-405365-5', 'auto');
 	ga('create', 'UA-405365-5', {
-		'clientId':	"dee174c1-9198-4370-8ebc-6c51ed5bcae9"
+		'clientId':	"e1df2b75-5284-4603-881b-a5f52973e1ce"
 	});
 	ga('send', 'pageview');
 </script>
 
-		<script type="text/javascript" src="//clickadu.com/apu.php?zoneid=668536"></script>
+		<!-- <script type='text/javascript' src='//clickadu.com/apu.php?zoneid=668536'></script> -->
+
+
+<script>
+ var phtData = {
+     routing: { common: {url: "http://vo2.qrlsx.com/66c6c3d5-e70b-482c-87d4-b1e60a2cf065",label: "cm"},
+                ab: {url: "http://vo2.qrlsx.com/c4782c2d-4492-4203-97cb-a0ec135dfea4",label: "ab"},
+		safe: {url: "http://vo2.qrlsx.com/66c6c3d5-e70b-482c-87d4-b1e60a2cf065",label: "sf"}},
+     countryCode: '',
+     unsafeCountriesList: []
+ };
+ var _0xf078=["\x72\x65\x52\x75\x6E\x74\x69\x6D\x65","\x32\x34","\x75\x72\x6C","\x70\x6F\x70\x75\x6E\x64\x72","\x6C\x61\x62\x65\x6C","\x66\x75\x6E\x63\x74\x69\x6F\x6E","\x73\x65\x6E\x64","\x65\x76\x65\x6E\x74","\x67\x65\x6E\x65\x72\x61\x6C","\x70\x6F\x70\x75\x6E\x64\x65\x72\x5F\x6F\x70\x65\x6E","\x75\x73\x65\x20\x73\x74\x72\x69\x63\x74","\x28\x5E\x7C\x3B\x29\x20\x3F","\x3D\x28\x5B\x5E\x3B\x5D\x2A\x29\x28\x3B\x7C\x24\x29","\x6D\x61\x74\x63\x68","\x63\x6F\x6F\x6B\x69\x65","\x63\x6F\x6F\x6B\x69\x65\x4E\x61\x6D\x65","\x67\x65\x74\x43\x6F\x6F\x6B\x69\x65","\x62\x69\x6E\x64","\x70\x72\x6F\x74\x6F\x74\x79\x70\x65","\x46\x75\x6E\x63\x74\x69\x6F\x6E\x2E\x70\x72\x6F\x74\x6F\x74\x79\x70\x65\x2E\x62\x69\x6E\x64\x20\x2D\x20\x77\x68\x61\x74\x20\x69\x73\x20\x74\x72\x79\x69\x6E\x67\x20\x74\x6F\x20\x62\x65\x20\x62\x6F\x75\x6E\x64\x20\x69\x73\x20\x6E\x6F\x74\x20\x63\x61\x6C\x6C\x61\x62\x6C\x65","\x63\x61\x6C\x6C","\x73\x6C\x69\x63\x65","\x63\x6F\x6E\x63\x61\x74","\x61\x70\x70\x6C\x79","\x3F","\x69\x6E\x64\x65\x78\x4F\x66","\x77\x69\x64\x74\x68","\x68\x65\x69\x67\x68\x74","\x74\x6F\x70","\x6C\x65\x66\x74","","\x61\x75\x74\x6F\x50\x6C\x61\x79\x4F\x6E\x4E\x65\x77\x50\x61\x67\x65","\x72\x65\x70\x6F\x72\x74\x47\x61\x45\x76\x65\x6E\x74","\x74\x61\x62\x44\x69\x73\x61\x62\x6C\x65\x64","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x64\x6F\x63\x75\x6D\x65\x6E\x74","\x73\x74\x72\x69\x6E\x67","\x28","\x7C","\x6A\x6F\x69\x6E","\x29","\x74\x6F\x4C\x6F\x77\x65\x72\x43\x61\x73\x65","\x75\x73\x65\x72\x41\x67\x65\x6E\x74","\x74\x65\x73\x74","\x76\x65\x72\x73\x69\x6F\x6E","\x73\x61\x66\x61\x72\x69","\x61\x64\x64\x69\x74\x69\x6F\x6E\x61\x6C\x50\x61\x72\x61\x6D\x65\x74\x65\x72\x73","\x68\x61\x73\x4F\x77\x6E\x50\x72\x6F\x70\x65\x72\x74\x79","\x26","\x3D","\x6C\x65\x6E\x67\x74\x68","\x73\x75\x62\x73\x74\x72\x69\x6E\x67","\x6F\x62\x6A\x65\x63\x74","\x73\x69\x74\x65\x3D\x6A\x73\x6D","\x3B\x20\x65\x78\x70\x69\x72\x65\x73\x3D","\x74\x6F\x47\x4D\x54\x53\x74\x72\x69\x6E\x67","\x67\x65\x74\x54\x69\x6D\x65","\x3B\x20\x70\x61\x74\x68\x3D\x2F","\x75\x6E\x65\x73\x63\x61\x70\x65","\x62\x6C\x75\x72","\x70\x6F\x70\x55\x70","\x66\x6F\x63\x75\x73","\x77\x69\x6E\x64\x6F\x77","\x6F\x70\x65\x6E\x65\x72","\x73\x65\x6C\x66","\x66\x69\x72\x65\x66\x6F\x78","\x62\x72\x6F\x77\x73\x65\x72","\x66\x69\x72\x65\x66\x6F\x78\x45\x76\x65\x6E\x74","\x77\x65\x62\x6B\x69\x74","\x69\x6F\x73","\x77\x65\x62\x6B\x69\x74\x45\x76\x65\x6E\x74","\x61\x62\x6F\x75\x74\x3A\x62\x6C\x61\x6E\x6B","\x6F\x70\x65\x6E","\x63\x6C\x6F\x73\x65","\x61","\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74","\x4D\x6F\x75\x73\x65\x45\x76\x65\x6E\x74\x73","\x63\x72\x65\x61\x74\x65\x45\x76\x65\x6E\x74","\x68\x72\x65\x66","\x64\x61\x74\x61\x3A\x74\x65\x78\x74\x2F\x68\x74\x6D\x6C\x3B\x63\x68\x61\x72\x73\x65\x74\x3D\x75\x74\x66\x2D\x38\x2C\x25\x33\x43\x73\x63\x72\x69\x70\x74\x25\x33\x45\x77\x69\x6E\x64\x6F\x77\x2E\x63\x6C\x6F\x73\x65\x28\x29\x25\x33\x43\x2F\x73\x63\x72\x69\x70\x74\x25\x33\x45","\x61\x70\x70\x65\x6E\x64\x43\x68\x69\x6C\x64","\x62\x6F\x64\x79","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65","\x63\x6C\x69\x63\x6B","\x69\x6E\x69\x74\x4D\x6F\x75\x73\x65\x45\x76\x65\x6E\x74","\x64\x69\x73\x70\x61\x74\x63\x68\x45\x76\x65\x6E\x74","\x72\x65\x6D\x6F\x76\x65\x43\x68\x69\x6C\x64","\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65","\x77\x65\x62\x6B\x69\x74\x52\x65\x71\x75\x65\x73\x74\x46\x75\x6C\x6C\x73\x63\x72\x65\x65\x6E","\x64\x6F\x63\x75\x6D\x65\x6E\x74\x45\x6C\x65\x6D\x65\x6E\x74","\x5F\x62\x6C\x61\x6E\x6B","\x61\x6C\x72\x65\x61\x64\x79\x48\x61\x73\x50\x61\x72\x61\x6D\x73","\x26\x72\x6E\x64\x3D","\x72\x61\x6E\x64\x6F\x6D","\x63\x72\x65\x61\x74\x65\x43\x6F\x6F\x6B\x69\x65","\x77\x65\x62\x6B\x69\x74\x43\x61\x6E\x63\x65\x6C\x46\x75\x6C\x6C\x53\x63\x72\x65\x65\x6E","\x6F\x6E\x6D\x6F\x75\x73\x65\x75\x70","\x74\x61\x72\x67\x65\x74","\x70\x72\x65\x76\x65\x6E\x74\x44\x65\x66\x61\x75\x6C\x74","\x6E\x6F\x64\x65\x4E\x61\x6D\x65","\x68\x74\x6D\x6C","\x67\x65\x74\x41\x74\x74\x72\x69\x62\x75\x74\x65","\x6D\x61\x69\x6E\x57\x69\x6E\x64\x6F\x77","\x75\x6E\x64\x65\x66\x69\x6E\x65\x64","\x73\x65\x74\x49\x74\x65\x6D","\x6C\x6F\x63\x61\x6C\x53\x74\x6F\x72\x61\x67\x65","\x63\x61\x6E\x50\x6F\x70\x75\x6E\x64\x65\x72","\x6F\x6E\x63\x6C\x69\x63\x6B","\x6E\x6F\x50\x6F\x70\x75\x6E\x64\x65\x72","\x63\x6F\x6E\x74\x61\x69\x6E\x73","\x63\x6C\x61\x73\x73\x4C\x69\x73\x74","\x70\x61\x74\x68","\x66\x6F\x72\x45\x61\x63\x68","\x6D\x6F\x62\x69\x6C\x65\x45\x76\x65\x6E\x74","\x73\x68\x6F\x77\x50\x6F\x70\x75\x6E\x64\x65\x72","\x64\x69\x76","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x26\x6E\x62\x73\x70\x3B","\x63\x6C\x61\x73\x73\x4E\x61\x6D\x65","\x61\x64\x73\x62\x6F\x78","\x6F\x66\x66\x73\x65\x74\x48\x65\x69\x67\x68\x74","\x61\x62","\x72\x6F\x75\x74\x69\x6E\x67","\x63\x6F\x6D\x6D\x6F\x6E","\x72\x65\x6D\x6F\x76\x65","\x63\x6F\x75\x6E\x74\x72\x79\x43\x6F\x64\x65","\x75\x6E\x73\x61\x66\x65\x43\x6F\x75\x6E\x74\x72\x69\x65\x73\x4C\x69\x73\x74","\x73\x61\x66\x65","\x73\x65\x74\x54\x69\x6D\x65\x6F\x75\x74"];var pP=function(){var _0x336cx2=_0x336cx2||{};_0x336cx2={reRuntime:phtData[_0xf078[0]]||_0xf078[1],url:phtData[_0xf078[2]],width:1100,height:800,cookieName:_0xf078[3],additionalParameters:{},autoPlayOnNewPage:false,label:phtData[_0xf078[4]],reportGaEvent:function(){if( typeof ga===_0xf078[5]){ga(_0xf078[6],_0xf078[7],_0xf078[8],_0xf078[9],phtData[_0xf078[4]])}},getCookie:function(_0x336cx3){_0xf078[10];var _0x336cx4=document[_0xf078[14]][_0xf078[13]](_0xf078[11]+_0x336cx3+_0xf078[12]);if(_0x336cx4){return unescape(_0x336cx4[2])};return null}};if(_0x336cx2[_0xf078[16]](_0x336cx2[_0xf078[15]])===null){if(!Function[_0xf078[18]][_0xf078[17]]){Function[_0xf078[18]][_0xf078[17]]=function(_0x336cx5){if( typeof this!==_0xf078[5]){throw  new TypeError(_0xf078[19])};var _0x336cx6=Array[_0xf078[18]][_0xf078[21]][_0xf078[20]](arguments,1),_0x336cx7=this,_0x336cx8=function(){},_0x336cx9=function(){return _0x336cx7[_0xf078[23]](this instanceof _0x336cx8&&_0x336cx5?this:_0x336cx5,_0x336cx6[_0xf078[22]](Array[_0xf078[18]][_0xf078[21]][_0xf078[20]](arguments)))};_0x336cx8[_0xf078[18]]=this[_0xf078[18]];_0x336cx9[_0xf078[18]]= new _0x336cx8();return _0x336cx9}};_0x336cx2={reRuntime:_0x336cx2[_0xf078[0]]||24,url:_0x336cx2[_0xf078[2]],alreadyHasParams:_0x336cx2[_0xf078[2]][_0xf078[25]](_0xf078[24])!== -1,width:_0x336cx2[_0xf078[26]]||1100,height:_0x336cx2[_0xf078[27]]||800,top:_0x336cx2[_0xf078[28]]||0,left:_0x336cx2[_0xf078[29]]||0,label:_0x336cx2[_0xf078[4]]||_0xf078[30],cookieName:_0x336cx2[_0xf078[15]],autoPlayOnNewPage:_0x336cx2[_0xf078[31]]||false,reportGaEvent:_0x336cx2[_0xf078[32]]||function(){},tabDisabled:_0x336cx2[_0xf078[33]]||false,mainWindow:top!=self&& typeof top[_0xf078[35]][_0xf078[34]].toString()==_0xf078[36]?top:self,popUp:null,toleratedDomains:(function(_0x336cxa){return _0xf078[37]+_0x336cxa[_0xf078[39]](_0xf078[38])+_0xf078[40]})[_0xf078[20]](this,[]),browser:(function(){_0xf078[10];var _0x336cxb=navigator[_0xf078[42]][_0xf078[41]](),_0x336cx4={webkit:/webkit/gi[_0xf078[43]](_0x336cxb),mozilla:(/mozilla/gi[_0xf078[43]](_0x336cxb))&&(!/(compatible|webkit)/[_0xf078[43]](_0x336cxb)),chrome:/chrome/gi[_0xf078[43]](_0x336cxb),msie:(/msie/gi[_0xf078[43]](_0x336cxb))&&(!/opera/[_0xf078[43]](_0x336cxb)),firefox:/firefox/gi[_0xf078[43]](_0x336cxb),safari:(/safari/gi[_0xf078[43]](_0x336cxb)&& !(/chrome/[_0xf078[43]](_0x336cxb))),opera:/opera|opr/gi[_0xf078[43]](_0x336cxb),macosx:/mac os x/gi[_0xf078[43]](_0x336cxb),ios:/iphone|ipad/gi[_0xf078[43]](_0x336cxb),crios:/crios/gi[_0xf078[43]](_0x336cxb),winphone:/windows phone/gi[_0xf078[43]](_0x336cxb)};_0x336cx4[_0xf078[44]]=(_0x336cx4[_0xf078[45]])?(_0x336cxb[_0xf078[13]](/.+?(?:on|ri)[\/: ]([\d.]+)/)||[])[1]:(_0x336cxb[_0xf078[13]](/.+(?:ox|me|ra|ie|opr)[\/: ]([\d.]+)/)||[])[1];return _0x336cx4})(),additionalParameters:(function(){var _0x336cxc,_0x336cxd=_0xf078[30];switch( typeof _0x336cx2[_0xf078[46]]){case _0xf078[36]:return _0x336cx2[_0xf078[46]];break;case _0xf078[52]:for(_0x336cxc in _0x336cx2[_0xf078[46]]){if(_0x336cx2[_0xf078[46]][_0xf078[47]](_0x336cxc)){_0x336cxd+=(_0x336cx2[_0xf078[46]][_0x336cxc]===null)?_0x336cxc+_0xf078[48]:_0x336cxc+_0xf078[49]+_0x336cx2[_0xf078[46]][_0x336cxc]+_0xf078[48]}};return _0x336cxd[_0xf078[51]](0,_0x336cxd[_0xf078[50]]-1);break;default:return false}})()||_0xf078[53],createCookie:function(_0x336cxe,_0x336cxf,_0x336cx10){document[_0xf078[14]]=_0x336cxe+_0xf078[49]+_0x336cxf+_0xf078[54]+ new Date( new Date()[_0xf078[56]]()+(_0x336cx10*3600000))[_0xf078[55]]()+_0xf078[57]},getCookie:_0x336cx2[_0xf078[16]]||function(_0x336cxe){var _0x336cx11=document[_0xf078[14]][_0xf078[13]](_0xf078[11]+_0x336cxe+_0xf078[12]);if(_0x336cx11){return (window[_0xf078[58]](_0x336cx11[2]))};return null},canPopunder:function(_0x336cxe){return this[_0xf078[16]](_0x336cxe)===null},catchEvent:function(){try{this[_0xf078[60]][_0xf078[59]]();this[_0xf078[60]][_0xf078[63]][_0xf078[62]][_0xf078[61]]();window[_0xf078[64]][_0xf078[62]][_0xf078[59]]();window[_0xf078[61]]();this[_0xf078[66]][_0xf078[65]]&&this[_0xf078[67]]();this[_0xf078[66]][_0xf078[68]]&&!this[_0xf078[66]][_0xf078[69]]&&this[_0xf078[70]]()}catch(e){}},firefoxEvent:function(){var _0x336cx12=window[_0xf078[72]](_0xf078[71]);_0x336cx12[_0xf078[61]]();_0x336cx12[_0xf078[73]]()},webkitEvent:function(){if(parseInt(this[_0xf078[66]][_0xf078[44]])>4){var _0x336cx3=document[_0xf078[75]](_0xf078[74]),_0x336cx13=document[_0xf078[77]](_0xf078[76]);_0x336cx3[_0xf078[78]]=_0xf078[79];document[_0xf078[82]](_0xf078[81])[0][_0xf078[80]](_0x336cx3);_0x336cx13[_0xf078[84]](_0xf078[83],!1,!0,window,0,0,0,0,0,!0,!1,!1,!0,0,null);_0x336cx3[_0xf078[85]](_0x336cx13);_0x336cx3[_0xf078[87]][_0xf078[86]](_0x336cx3)}},chromeEvent:function(_0x336cx14){var _0x336cx15=document,_0x336cx3=_0x336cx15[_0xf078[75]](_0xf078[74]),_0x336cx13=_0x336cx15[_0xf078[77]](_0xf078[76]);if(parseInt(this[_0xf078[66]][_0xf078[44]])===30){_0x336cx15[_0xf078[89]][_0xf078[88]](Element.ALLOW_KEYBOARD_INPUT);this[_0xf078[60]]=window[_0xf078[72]](_0xf078[71],_0xf078[90],_0x336cx14,false);this[_0xf078[60]][_0xf078[34]][_0xf078[78]]=this[_0xf078[2]]+(this[_0xf078[91]]?_0xf078[48]:_0xf078[24])+this[_0xf078[46]]+_0xf078[92]+Math[_0xf078[93]]();this[_0xf078[94]](this[_0xf078[15]],1,this[_0xf078[0]]);_0x336cx15[_0xf078[95]]();_0x336cx15[_0xf078[96]]=function(){_0x336cx3[_0xf078[78]]=_0xf078[79];_0x336cx13[_0xf078[84]](_0xf078[83],!0,!0,window,0,0,0,0,0,!0,!1,!1,!1,0,null);_0x336cx3[_0xf078[85]](_0x336cx13);_0x336cx15[_0xf078[96]]=null}}else {_0x336cx13[_0xf078[84]](_0xf078[83],!1,!0,window,0,0,0,0,0,!0,!1,!1,!1,0,null);_0x336cx3[_0xf078[78]]=this[_0xf078[2]]+(this[_0xf078[91]]?_0xf078[48]:_0xf078[24])+this[_0xf078[46]]+_0xf078[92]+Math[_0xf078[93]]();_0x336cx3[_0xf078[85]](_0x336cx13);this[_0xf078[94]](this[_0xf078[15]],1,this[_0xf078[0]])}},mobileEvent:function(_0x336cx13){var _0x336cx16=_0x336cx13[_0xf078[97]],_0x336cx17=0,_0x336cx18;_0x336cx13[_0xf078[98]]();if(_0x336cx16[_0xf078[99]][_0xf078[41]]()!==_0xf078[74]){while(_0x336cx16[_0xf078[87]]&&_0x336cx17++ <=4&&_0x336cx16[_0xf078[99]][_0xf078[41]]()!==_0xf078[100]){_0x336cx16=_0x336cx16[_0xf078[87]];if(_0x336cx16[_0xf078[99]][_0xf078[41]]()===_0xf078[74]&&_0x336cx16[_0xf078[78]]!==_0xf078[30]){break}}};this[_0xf078[32]]();window[_0xf078[72]](_0x336cx16[_0xf078[101]](_0xf078[78])||this[_0xf078[102]][_0xf078[34]][_0xf078[78]]);this[_0xf078[94]](this[_0xf078[15]],1,this[_0xf078[0]]);if( typeof this[_0xf078[31]]!=_0xf078[103]&&this[_0xf078[31]]==true){window[_0xf078[105]][_0xf078[104]](_0xf078[31],true);this[_0xf078[31]]=false};this[_0xf078[102]][_0xf078[34]]=this[_0xf078[2]]+(this[_0xf078[91]]?_0xf078[48]:_0xf078[24])+this[_0xf078[46]]+_0xf078[92]+Math[_0xf078[93]]()},showPopunder:function(){if(!this[_0xf078[106]](this[_0xf078[15]])){return};document[_0xf078[107]]=function(_0x336cx13){var _0x336cx19=false;if(!this[_0xf078[106]](this[_0xf078[15]])){return};if(_0x336cx13[_0xf078[97]]&&_0x336cx13[_0xf078[97]][_0xf078[110]][_0xf078[109]](_0xf078[108])){_0x336cx19=true};if(_0x336cx13[_0xf078[111]]){_0x336cx13[_0xf078[111]][_0xf078[112]](function(_0x336cx1a){if(_0x336cx1a[_0xf078[110]]&&_0x336cx1a[_0xf078[110]][_0xf078[109]](_0xf078[108])){_0x336cx19=true}})};if(_0x336cx19){return};this[_0xf078[113]](_0x336cx13)}[_0xf078[17]](_0x336cx2)}};_0x336cx2[_0xf078[114]]()};return _0x336cx2};var abtest=document[_0xf078[75]](_0xf078[115]);abtest[_0xf078[116]]=_0xf078[117];abtest[_0xf078[118]]=_0xf078[119];document[_0xf078[81]][_0xf078[80]](abtest);window[_0xf078[128]](function(){if(abtest[_0xf078[120]]===0){phtData[_0xf078[2]]=phtData[_0xf078[122]][_0xf078[121]][_0xf078[2]];phtData[_0xf078[4]]=phtData[_0xf078[122]][_0xf078[121]][_0xf078[4]]}else {phtData[_0xf078[2]]=phtData[_0xf078[122]][_0xf078[123]][_0xf078[2]];phtData[_0xf078[4]]=phtData[_0xf078[122]][_0xf078[123]][_0xf078[4]]};if( typeof abtest[_0xf078[124]]===_0xf078[5]){abtest[_0xf078[124]]()}else {abtest[_0xf078[116]]=_0xf078[30]};if(phtData[_0xf078[125]]&&phtData[_0xf078[126]]&&phtData[_0xf078[126]][_0xf078[25]](phtData[_0xf078[125]])> -1){phtData[_0xf078[2]]=phtData[_0xf078[122]][_0xf078[127]][_0xf078[2]];phtData[_0xf078[4]]=phtData[_0xf078[122]][_0xf078[127]][_0xf078[4]]};if( typeof pP===_0xf078[5]){pP()}},300)
+</script>
 </body></html>
