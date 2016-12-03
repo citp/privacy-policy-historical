@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeremedyshop.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612105003id_/http%3A//www.homeremedyshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeremedyshop.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203081857id_/http%3A//homeremedyshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Home Remedies - Natural & Herbal Cures Made at HomeHome Remedies – Natural & Herbal Cures Made at Home
 
