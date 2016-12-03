@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggingtrendz.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617054819id_/http%3A//www.bloggingtrendz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingtrendz.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203100832id_/http%3A//www.bloggingtrendz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blogging Trendz
 
@@ -19,3 +19,5 @@ bloggingtrendz@gmail.com
 Harry Goyal
 
 Updates on 14 January 2015
+
+Check Your Domain's Ranking
