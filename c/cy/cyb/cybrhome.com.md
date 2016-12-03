@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cybrhome.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621155114id_/http%3A//www.cybrhome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybrhome.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203051249id_/http%3A//www.cybrhome.com/privacy) for the most accurate reproduction.*
 
-# CybrHome
+# Privacy Policy
 
 Thank you for using CybrHome! We wrote this policy to help you understand what information we collect, how we use it, and what choices you have. Because we’re an internet company, some of the concepts below are a little technical, but we’ve tried our best to explain things in a simple and clear way. We welcome your questions and comments on this policy.
 
