@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the supermicro.com.tw privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406050430id_/http%3A//www.supermicro.com.tw/about/policies/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supermicro.com.tw privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203171644id_/https%3A//www.supermicro.com/about/policies/privacy.cfm) for the most accurate reproduction.*
 
-# Super Micro Computer, Inc. - About Supermicro | Privacy
+# Privacy Policy | Terms and Conditions | About Supermicro - Super Micro Computer, Inc.
 
 We Respect Your Privacy
 
