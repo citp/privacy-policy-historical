@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccmixter.org privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529023738id_/http%3A//ccmixter.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccmixter.org privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203231123id_/http%3A//ccmixter.org/privacy) for the most accurate reproduction.*
 
 # ccMixter - CCMIXTER PRIVACY POLICY
 
