@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intelore.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509014008id_/http%3A//www.intelore.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelore.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203233027id_/http%3A//www.intelore.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Intelore :: Privacy Policy
 
