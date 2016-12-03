@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vydia.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605235608id_/http%3A//vydia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vydia.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203130206id_/http%3A//vydia.com/privacy-policy) for the most accurate reproduction.*
 
 # Vydia Privacy Policy
 
 PRIVACY POLICY
 
-Last Updated: February 16, 2016
+Last Updated: July 2016
 
 VYDIA recognizes that its users value their privacy and we take your privacy seriously. This Privacy Policy (as defined below) explains our privacy practices, including what types of information we collect from you and how we may use it, our rights to share and disclose such information to third parties and how you can review and modify information that you provide to us and your preferences regarding our use and disclosure of such information.
 
@@ -76,6 +76,7 @@ This is the privacy policy (“Privacy Policy”) for (a) the website located [w
 
       7. For other purposes disclosed at the time you provide us with the Personal Information or which are reasonably necessary to provide the Services or other related product and/or service requested.
 
+      8. In the event of a content ownership conflict and/or dispute, the contact information you provide may be shared with a third-party.
 
 
     2. User. In addition, except as prohibited by the terms and conditions of any applicable Third Party Platform (e.g., Facebook, etc.), we may use the Additional Information for many purposes, including, without limitation, the following:
