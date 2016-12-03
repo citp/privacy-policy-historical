@@ -1,42 +1,47 @@
-<!--The following is the downloaded HTML source of the shipway.in privacy policy that was archived on 2016-02-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160206210413id_/http%3A//shipway.in/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shipway.in privacy policy that was archived on 2016-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161203064620id_/https%3A//shipway.in/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" prefix="og: http://ogp.me/ns#"><head>
-       
+<!DOCTYPE html><html><head>
+
+<!---- new relic codeestarts -->
+
+<script src="https://js-agent.newrelic.com/nr-974.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),s.on(m,function(){this.bstStart=Date.now()}),s.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(17)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;c<s;c++)a[c].apply(i,r);var u=f[w[n]];return u&&u.push([v,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",w[n]=e,e in f||(f[e]=[])})}var m={},w={},v={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return v}function i(){return new r}var a="nr@context",s=t("gos"),c=t(15),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!g++){var t=y.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(w,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(15),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var m=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-974.min.js"},v=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:m,features:{},xhrWrappable:v};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),s("mark",["firstbyte",a()],null,"api");var g=0},{}]},{},["loader",2,10,4,3]);
+;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"f48b50f5bf",applicationID:"25591357",sa:1}
+</script>
+
+
+
+
+<!-- new relic code ends -->
+
+         
        <meta charset="utf-8">
        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Courier Tracking and Shipment status Notifications - Shipway.in</title><meta name="keywords" content="ship way, gtt, go to track, track shipment, track package, track dhl,track bludart, fedex tracking, delhivery tracking, track gati, fedex, ecom"><meta name="description" content="Shipway is courier tracking tool where users can track shipments and get Notified by SMS/Email. Merchants can use shipway for courier tracking on their website and send courier notifications to their customers.">       
-	<link rel="icon" href="onj-images/favicon.ico">
-
-	<link href="onj-css/style.css" rel="stylesheet" type="text/css" media="all">
-
+<title>Courier Tracking and Shipment status Notifications, Order Reviews - Shipway.in</title><meta name="keywords" content="ship way, gtt, go to track, track shipment, track package, track dhl,track bludart, fedex tracking, delhivery tracking, track gati, fedex, ecom, shipment tracking, site reviews"><meta name="description" content="Shipway is courier tracking tool where users can track shipments and get Notified by SMS/Email. Merchants can use shipway for courier tracking on their website and send courier notifications to their customers.">		
+		      
+		<link rel="icon" href="http://shipway.in/onj-images/favicon.ico">
+		<link href="http://shipway.in/onj-css/mstyle.css" rel="stylesheet" type="text/css" media="all"> 
 	<!--fonts-->
-                <link href="http://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
-		<link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-		
+        <link href="http://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
 	<!--//fonts-->
-		<link href="onj-css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
-                
-                
-		<link href="onj-css/font/css/font-awesome.css" rel="stylesheet" type="text/css" media="all">
-                <!--<link href="https://googledrive.com/host/0BzwcjxLnfZ5XOEpkdUNleFdGTEE/" rel="stylesheet" type="text/css" media="all" />-->
-	<!-- for-mobile-apps -->
-               
+		<link href="http://shipway.in/onj-css/materialize.css" rel="stylesheet" type="text/css" media="all">        
+		<link href="http://shipway.in/onj-css/font/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all">        
+		<link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<!-- for-mobile-apps -->       
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 	<!-- //for-mobile-apps -->
 	<!-- js -->
-	
-		<script type="text/javascript" src="onj-js/jquery.min.js"></script>
-	<script type="text/javascript" src="onj-js/bootstrap.min.js"></script>	
-			
+		<script type="text/javascript" src="http://shipway.in/onj-js/jquery.min.js"></script>
+		<script src="http://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/js/materialize.min.js"></script>		
 	<!-- js -->
-	<!-- start-smooth-scrolling -->
-		<script type="text/javascript" src="onj-js/move-top.js"></script>
-		<script type="text/javascript" src="onj-js/easing.js"></script>
+	<!-- start-smooth-scrolling
+		<script type="text/javascript" src="onj-js/move-top.js"></script> 
+		<script type="text/javascript" src="http://shipway.in/onj-js/easing.js"></script>-->
 		<script type="text/javascript">
-			jQuery(document).ready(function($) {
+			/*jQuery(document).ready(function($) {
 				$(".scroll").click(function(event){		
 					 event.preventDefault();
                                          var top_var = '';
@@ -51,7 +56,7 @@
                                         
 					$('html,body').animate({scrollTop:top_var - 30},1000);
 				});
-			});
+			}); */
 		</script>
 	<!-- start-smooth-scrolling -->	
 	
@@ -74,10 +79,18 @@
 				}
                                
 				$('#courier_div').toggle();
+				if(!$('#courier_div').is(':visible'))
+		{  
+			 jQuery('.oj-cl').show();     
+		}
+		else
+		{
+	   jQuery('.oj-cl').hide();
+	   }
 			       $('#courier').val(courier);
 				   var image ="<img src='"+$( "#img"+courier ).attr("src") +"'/>";
 				   var value = $( "#button"+courier ).text(); 
-				   // alert (image+value);
+				    // alert (image+value);
 				   $('#selectpicker').html(image+value);
 	                           $( ".onj" ).css( "backgroundColor",'#faf9f7');
 	                           //$( "#button1").css( 'color','red');
@@ -96,61 +109,55 @@
 		  ga('create', 'UA-54602672-1', 'auto');
 		  ga('send', 'pageview');
 		</script>
-                <script>
-                  $(document).ready(function() {
-                     $(".nav1 li").click(function(){
-                             $("div .collapse").removeClass( "in" , 3000 );
-                      });
-                  });
-                </script>
+		<script>
+		  $( document ).ready(function(){
+			 $(".button-collapse").sideNav();		
+			  $('ul.tabs').tabs('select_tab', 'tab_id');
+		  })
+		</script>
+		<script type="text/javascript">
+			function scroll(){
+			//var element_to_scroll_to = document.getElementById('price');
+
+			//element_to_scroll_to.scrollIntoView();
+			}
+		</script>		
 </head>
 <body>
-<nav class="navbar navbar-default navbar-fixed-top">
-  <div class="container-fluid">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#onj">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-	  <!-- logo -->
-		<a href="/">
-		<div class="header-left">
-                        <img src="images/shipway_logo.png" class="img-responsive off-hover" alt="shipway.in">
-			<img src="images/shipway_logo_hover.png" class="img-responsive on-hover" alt="shipway.in" style="display:none;">
+	<header>	
+		<div class="navbar-fixed">
+			<nav>
+				<div class="container">
+					<div class="nav-wrapper">
+					  <a href="http://shipway.in/" class="brand-logo">
+						<img src="http://shipway.in/images/shipway_logo.png" class="off-hover" alt="shipway.in">
+						<img src="http://shipway.in/images/shipway_logo_hover.png" class="on-hover" alt="shipway.in" style="display:none;">
+					  </a>
+					  <a href="http://shipway.in/" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+					  <ul class="right hide-on-med-and-down">
+						<!-- <li><a href="http://shipway.in/media" class="waves-effect waves-light">Media</a></li> --> 
+						<li><a href="http://shipway.in/payment" class="waves-effect waves-light">Pricing</a></li>
+						<li><a href="/faq.php" class="waves-effect waves-light">FAQs</a></li>
+						<li><a href="http://shipway.in/admin/" target="_blank" class="waves-effect waves-light">Login</a></li>
+						<li><a href="http://shipway.in/admin/index.php/auth/register" target="_blank" class="waves-effect waves-light">Register</a></li>
+						<li><a href="http://shipway.in/contact.php" class="waves-effect waves-light">Contact</a></li>
+                        <li class="trial"><a href="http://shipway.in/admin/index.php/auth/register" target="_blank" class="btn waves-effect waves-light">7 days Free Trial!</a></li>
+					  </ul>
+					  <ul class="side-nav" id="mobile-demo"> 
+						<!-- <li><a href="http://shipway.in/media" class="waves-effect waves-light">Media</a></li> -->
+						<li><a href="http://shipway.in/payment" class="waves-effect waves-light"><i class="material-icons">attach_money</i>Pricing</a></li>
+						<li><a href="faq.php" class="waves-effect waves-light"><i class="material-icons">help</i>FAQs</a></li>
+						<li><a href="http://shipway.in/admin/" target="_blank" class="waves-effect waves-light"><i class="material-icons">lock_outline</i>Login</a></li>
+						<li><a href="http://shipway.in/admin/index.php/auth/register" target="_blank" class="waves-effect waves-light"><i class="material-icons">person_add</i>Register</a></li>
+						<li><a href="http://shipway.in/contact.php" class="waves-effect waves-light"><i class="material-icons">contact_phone</i>Contact</a></li>
+                                              <!--   <li class="trial"><a href="" class="btn waves-effect waves-light">7 days Free Trial</a></li> -->
+					  </ul>
+					</div>
+				</div>	
+			</nav>
 		</div>
-		</a>
-	   <!-- //logo -->	
-    </div>
-
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse onj-up" id="onj">
-      <ul class="nav navbar-nav navbar-right nav1" style="display:block;overflow:visible;">
-        <li class="dropdown">
-      <!--   <li><a  style="color:red;font-weight:bold;" href="/rakhi" >Ship Your Rakhi</a></li>
-				<li><a class="scroll" href="/#track">Track Now</a></li>
-				<li><a class="scroll" href="/#pro">Shipway Pro</a></li> -->
-                                </li><li><a class="scroll" href="/#price">Pricing</a></li>				
-				<li><a href="HTTP_SERVERSadmin/" target="_blank">Login</a></li>
-				<li><a href="HTTP_SERVERSadmin/index.php/auth/register" target="_blank">Register</a></li>						
-				<li><a href="HTTP_SERVERScontact.php">Contact</a></li>		
-		 
-       </ul> 
-	</div> 
-	</div>
-	
-</nav>	
-<script type="text/javascript">
-function scroll(){
-//var element_to_scroll_to = document.getElementById('price');
-
-element_to_scroll_to.scrollIntoView();
-}
-</script>
-
-<div class="clearfix"></div><!-- about -->
+	</header>
+<!-- about -->
 <div class="about">
 	<div class="container">
 		<div class="about-grids">
@@ -198,138 +205,203 @@ element_to_scroll_to.scrollIntoView();
 	</div>
 </div>
 <!-- //about -->
-<style>
-.fb-like{
-	height: 20px;
-	overflow: hidden;
-} 
-.social{vertical-align:baseline;width:20px;margin-left:5px;}
-.footer a{color: #aaaaaa;font-size: 14px;text-decoration: none;font-weight: 300;line-height: 1.6;}
-.footer h4{color: #aaaaaa;line-height: 1.6;}
-.footer{position: relative;}
-
-@media (max-width: 800px){
-       .footer-grids{display:block!important;}
-       .oj-show{display:none;}
-}
-</style>
-<!-- footer -->
-<div class="footer">
-	<div class="container">
-		<div class="footer-grids" style="display:none;">
-			 <div class="footer-left">
-				<ul style="float:left;">
-					<li><a href="privacy.php">Privacy Policy</a></li>
-					<li><a href="cancellation.php">Cancellation</a></li>
-					<li><a href="terms.php">Terms &amp; Conditions</a></li>
-					<li><a href="HTTP_SERVERSplugins/shipway-order-tracking-notify/#!/downloads">Downloads</a></li>
-					<!--  <li><a href="contact.html">CONTACT</a></li> -->
-				</ul>
-			</div> 
-                        <div class="footer-center">
-				<div class="fb-like" data-href="https://www.facebook.com/shipway.in?fref=ts" data-width="225px " data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
-                                 <a href="https://www.facebook.com/shipway.in?fref=ts" target="_blank"><img src="/images/social/facebook-icon.png" alt="Facebook" class="social"></a>
+<footer class="page-footer">
+	  <div class="container">
+		<div class="row f-top" style="padding-bottom: 10px;">
+			<ul class="collapsible hide-on-med-and-up" data-collapsible="accordion">
+				<li>
+				  <div class="collapsible-header"><i class="material-icons">place</i>Tracking Couriers</div>
+				  <div class="collapsible-body">
+					<div class="col l3 s6">
+						<a href="/tnt" alt="TNT Track" title="TNT Tracking" target="_blank">TNT</a>	
+						<a href="/dhl" alt="DHL Track" title="DHL Tracking" target="_blank">DHL</a>	
+						<a href="/aramex" alt="Aramex Track" title="Aramex Tracking" target="_blank">Aramex</a>
+						<a href="/bluedart" alt="Bluedart Track" title="Bluedart Tracking" target="_blank">Bluedart</a>
+						<a href="/delhivery" alt="Delhivery Track" title="Delhivery Tracking" target="_blank">Delhivery</a>
+						<a href="/future_supply_chains" alt="Future Supply Chains Track" title="Future Supply Chains Tracking" target="_blank">Future Supply Chains</a>
+						<a href="/shree_maruti_courier" alt="Shree Maruti Courier Track" title="Shree Maruti Courier Tracking" target="_blank">Shree Maruti Courier</a>
+					</div>
+					<div class="col l3 s6">				
+						<a href="/dtdc" alt="DTDC Track" title="DTDC Tracking" target="_blank">DTDC</a>
+						<a href="/fedex" alt="Fedex Track" title="Fedex Tracking" target="_blank">Fedex</a>
+						<a href="/dotzot" alt="Dotzot Track" title="Dotzot Tracking" target="_blank">Dotzot</a>
+						<a href="/ecom_express" alt="Ecom Express Track" title="Ecom Express Tracking" target="_blank">Ecom Express</a>
+						<a href="/first_flight" alt="First Flight Track" title="First Flight Tracking" target="_blank">First Flight</a>
+						<a href="/shree_tirupati_courier" alt="Shree Tirupati Courier Track" title="Shree Tirupati Courier Tracking" target="_blank">Shree Tirupati Courier</a>
+						<a href="/delnet_express" alt="Delnet Express Track" title="Delnet Express Tracking" target="_blank">Delnet Express</a>
+					</div>
+					<div class="col l3 s6">
+							<a href="/ups" alt="UPS Track" title="UPS Tracking" target="_blank">UPS</a>
+						<a href="/gati" alt="Gati Track" title="Gati Tracking" target="_blank">Gati</a>
+						<a href="/ondot" alt="Ondot Track" title="Ondot Tracking" target="_blank">Ondot</a>
+						<a href="/gojavas" alt="Gojavas Track" title="Gojavas Tracking" target="_blank">Gojavas</a>
+						<a href="/india_post" alt="India Post Track" title="India Post Tracking" target="_blank">India Post</a>
+						<a href="/trackon" alt="Trackon Track" title="Trackon Tracking" target="_blank">Trackon</a>
+						<a href="/go_rush" alt="Go Rush Track" title="Go Rush Tracking" target="_blank">Go Rush</a>
+					</div>
+					<div class="col l3 s6">
+						<a href="/red_express" alt="Red Express Track" title="Red Express Tracking" target="_blank">Red Express</a>												
+						<a href="/xpress_bees" alt="Xpress Bees Track" title="Xpress Bees Tracking" target="_blank">Xpress Bees</a>	
+						<a href="/cj_korea_express" alt="CJ Korea Express Track" title="CJ Korea Express Tracking" target="_blank">CJ Korea Express</a>					
+						<a href="/ondot_pickspeed" alt="Ondot Pickspeed Track" title="Ondot Pickspeed Tracking" target="_blank">Ondot Pickspeed</a>
+						<a href="/the_professional_couriers" alt="The Professional Track" title="The Professional Tracking" target="_blank">The Professional</a>
+						<a href="/overnite_express" alt="Overnite Express Track" title="Overnite Express Tracking" target="_blank">Overnite Express</a>
+						<a href="/bombino_express" alt="Bombino Express Track" title="Bombino Express Tracking" target="_blank">Bombino Express</a>
+					</div>
+				  </div>
+				</li>
+				<li>
+				  <div class="collapsible-header"><i class="material-icons">play_for_work</i>Downloads</div>
+				  <div class="collapsible-body">
+					<a href="http://www.magentocommerce.com/magento-connect/shipway-courier-tracking-and-notification.html" target="_blank">Magento</a>
+					<a href="https://wordpress.org/support/plugin/shipway-shipment-tracking-and-notify" target="_blank">Wordpress</a>
+					<a href="http://www.opencart.com/index.php?route=extension/extension/info&amp;extension_id=22367&amp;filter_search=shipway" target="_blank">Opencart</a>
+					<a href="http://marketplace.cs-cart.com/add-ons/integrations/cscart-shipway-courier-tracking-and-notify.html" target="_blank">CS Cart</a>
+					<a href="https://apps.shopify.com/shipway-tracking-notification-and-order-reviews" target="_blank">Shopify</a>
+					<a href="/documentation/#!/downloads">Downloads</a>
+				  </div>
+				</li>
+				<li>
+				  <div class="collapsible-header"><i class="material-icons">info_outline</i>Information</div>
+				  <div class="collapsible-body">
+					<a href="http://shipway.in/media">Media</a>
+					<a href="/privacy">Privacy Policy</a>
+					<a href="/cancellation">Cancellation</a>
+					<a href="/terms">Terms &amp; Conditions</a>
+					<a href="/faq">FAQs</a>
+				  </div>
+				</li>
+				<li>
+				  <div class="collapsible-header"><i class="material-icons">person_outline</i>My account</div>
+				  <div class="collapsible-body">
+					<a class="scroll" href="http://shipway.in/payment">Pricing</a>			
+					<a href="/admin/" target="_blank">Login</a>
+					<a href="/admin/auth/register" target="_blank">Register</a>				
+					<a href="/contact">Contact</a>
+				  </div>
+				</li>
+				<li>
+				  <div class="collapsible-header"><i class="material-icons">share</i>Social</div>
+				  <div class="collapsible-body" style="padding-top: 10px;padding-left:10px;">
+					<!-- <div class="fb-like" data-href="https://www.facebook.com/shipway.in?fref=ts" data-width="225px " data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div> --><a href="https://www.facebook.com/shipway.in?fref=ts&amp;ref=br_tf" target="_blank"><img src="http://shipway.in/onj-images/fb-like.png" alt="Facebook Like" style="margin-bottom: 10px;"></a>
+                    <a href="https://www.youtube.com/watch?v=6jecthgw_LQ&amp;feature=youtu.be" target="_blank"><img src="http://shipway.in/onj-images/youtube.jpeg" alt="youtube"></a>                                
+				  </div>
+				</li>
+			</ul>
+			<div class="col l6 col m12 col s12 hide-on-small-and-down">
+			<h6 style="padding:0 0.75rem;">Tracking Couriers</h6>
+				<div class="col l3 s6">
+						<a href="/tnt" alt="TNT Track" title="TNT Tracking" target="_blank">TNT</a>	
+						<a href="/dhl" alt="DHL Track" title="DHL Tracking" target="_blank">DHL</a>	
+						<a href="/aramex" alt="Aramex Track" title="Aramex Tracking" target="_blank">Aramex</a>
+						<a href="/bluedart" alt="Bluedart Track" title="Bluedart Tracking" target="_blank">Bluedart</a>
+						<a href="/delhivery" alt="Delhivery Track" title="Delhivery Tracking" target="_blank">Delhivery</a>
+						<a href="/future_supply_chains" alt="Future Supply Chains Track" title="Future Supply Chains Tracking" target="_blank">Future Supply C...</a>
+						<a href="/shree_maruti_courier" alt="Shree Maruti Courier Track" title="Shree Maruti Courier Tracking" target="_blank">Shree Maruti Co...</a>
+					</div>
+					<div class="col l3 s6">				
+						<a href="/dtdc" alt="DTDC Track" title="DTDC Tracking" target="_blank">DTDC</a>
+						<a href="/fedex" alt="Fedex Track" title="Fedex Tracking" target="_blank">Fedex</a>
+						<a href="/dotzot" alt="Dotzot Track" title="Dotzot Tracking" target="_blank">Dotzot</a>
+						<a href="/ecom_express" alt="Ecom Express Track" title="Ecom Express Tracking" target="_blank">Ecom Express</a>
+						<a href="/first_flight" alt="First Flight Track" title="First Flight Tracking" target="_blank">First Flight</a>
+						<a href="/shree_tirupati_courier" alt="Shree Tirupati Courier Track" title="Shree Tirupati Courier Tracking" target="_blank">Shree Tirupati C...</a>
+						<a href="/delnet_express" alt="Delnet Express Track" title="Delnet Express Tracking" target="_blank">Delnet Express</a>
+					</div>
+					<div class="col l3 s6">
+							<a href="/ups" alt="UPS Track" title="UPS Tracking" target="_blank">UPS</a>
+						<a href="/gati" alt="Gati Track" title="Gati Tracking" target="_blank">Gati</a>
+						<a href="/ondot" alt="Ondot Track" title="Ondot Tracking" target="_blank">Ondot</a>
+						<a href="/gojavas" alt="Gojavas Track" title="Gojavas Tracking" target="_blank">Gojavas</a>
+						<a href="/india_post" alt="India Post Track" title="India Post Tracking" target="_blank">India Post</a>
+						<a href="/trackon" alt="Trackon Track" title="Trackon Tracking" target="_blank">Trackon</a>
+						<a href="/go_rush" alt="Go Rush Track" title="Go Rush Tracking" target="_blank">Go Rush</a>
+					</div>
+					<div class="col l3 s6">
+						<a href="/red_express" alt="Red Express Track" title="Red Express Tracking" target="_blank">Red Express</a>												
+						<a href="/xpress_bees" alt="Xpress Bees Track" title="Xpress Bees Tracking" target="_blank">Xpress Bees</a>	
+						<a href="/cj_korea_express" alt="CJ Korea Express Track" title="CJ Korea Express Tracking" target="_blank">CJ Korea Express</a>					
+						<a href="/ondot_pickspeed" alt="Ondot Pickspeed Track" title="Ondot Pickspeed Tracking" target="_blank">Ondot Pickspeed</a>
+						<a href="/the_professional_couriers" alt="The Professional Track" title="The Professional Tracking" target="_blank">The Professional</a>
+						<a href="/overnite_express" alt="Overnite Express Track" title="Overnite Express Tracking" target="_blank">Overnite Express</a>
+						<a href="/bombino_express" alt="Bombino Express Track" title="Bombino Express Tracking" target="_blank">Bombino Express</a>
+						
+					</div>
 			</div>
-			<div class="footer-right">
-				<!--<p>Copyright &copy; 2015 <a href="http://www.onjection.com/home" target="_blank"> ONjection Solutions</a></p>
-<p>Powered by Shipway Technology Pvt. Ltd.</p>-->
-			</div>
-			<div class="clearfix"></div>
-		</div>
-
-	
-	<div class="row oj-show" style="padding-bottom: 10px;">
-			<div class="col-lg-6 col-md-6 col-sm-12">
-			<h4 style="padding:0 15px;">Tracking Couriers</h4>
-				<div class="col-lg-3">
-					<a href="HTTP_SERVERStnt" alt="TNT Track" title="TNT Tracking" target="_blank"><p>TNT</p></a>	
-					<a href="HTTP_SERVERSdhl" alt="DHL Track" title="DHL Tracking" target="_blank"><p>DHL</p></a>	
-					<a href="HTTP_SERVERSaramex" alt="Aramex Track" title="Aramex Tracking" target="_blank"><p>Aramex</p></a>
-					<a href="HTTP_SERVERSbluedart" alt="Bluedart Track" title="Bluedart Tracking" target="_blank"><p>Bluedart</p></a>
-					<a href="HTTP_SERVERSdelhivery" alt="Delhivery Track" title="Delhivery Tracking" target="_blank"><p>Delhivery</p></a>
-				</div>
-				<div class="col-lg-3">				
-					<a href="HTTP_SERVERSdtdc" alt="DTDC Track" title="DTDC Tracking" target="_blank"><p>DTDC</p></a>
-					<a href="HTTP_SERVERSfedex" alt="Fedex Track" title="Fedex Tracking" target="_blank"><p>Fedex</p></a>
-					<a href="HTTP_SERVERSdotzot" alt="Dotzot Track" title="Dotzot Tracking" target="_blank"><p>Dotzot</p></a>
-					<a href="HTTP_SERVERSecom_express" alt="Ecom Express Track" title="Ecom Express Tracking" target="_blank"><p>Ecom Express</p></a>
-					<a href="HTTP_SERVERSfirst_flight" alt="First Flight Track" title="First Flight Tracking" target="_blank"><p>First Flight</p></a>
-				</div>
-				<div class="col-lg-3">
-				<a href="HTTP_SERVERSups" alt="UPS Track" title="UPS Tracking" target="_blank"><p>UPS</p></a>
-					<a href="HTTP_SERVERSgati" alt="Gati Track" title="Gati Tracking" target="_blank"><p>Gati</p></a>
-					<a href="HTTP_SERVERSondot" alt="Ondot Track" title="Ondot Tracking" target="_blank"><p>Ondot</p></a>
-					<a href="HTTP_SERVERSgojavas" alt="Gojavas Track" title="Gojavas Tracking" target="_blank"><p>Gojavas</p></a>
-					<a href="HTTP_SERVERSindia_post" alt="India Post Track" title="India Post Tracking" target="_blank"><p>India Post</p></a>
-				</div>
-				<div class="col-lg-3">
-					<a href="HTTP_SERVERSred_express" alt="Red Express Track" title="Red Express Tracking" target="_blank"><p>Red Express</p></a>												
-					<a href="HTTP_SERVERSxpress_bees" alt="Xpress Bees Track" title="Xpress Bees Tracking" target="_blank"><p>Xpress Bees</p></a>	
-					<a href="HTTP_SERVERScj_korea_express" alt="CJ Korea Express Track" title="CJ Korea Express Tracking" target="_blank"><p>CJ Korea Express</p></a>					
-					<a href="HTTP_SERVERSondot_pickspeed" alt="Ondot Pickspeed Track" title="Ondot Pickspeed Tracking" target="_blank"><p>Ondot Pickspeed</p></a>
-					<a href="HTTP_SERVERSthe_professional_couriers" alt="The Professional Track" title="The Professional Tracking" target="_blank"><p>The Professional</p></a>
-				</div>
-			</div>
-			<div class="col-lg-6 col-md-6 col-sm-12">
-				<div class="col-lg-3">
-					<h4>Downloads</h4>
-					<a href="http://www.magentocommerce.com/magento-connect/shipway-courier-tracking-and-notification.html" target="_blank"><p>Magento</p></a>
-					<a href="https://wordpress.org/support/plugin/shipway-shipment-tracking-and-notify" target="_blank"><p>Wordpress</p></a>
-					<a href="http://www.opencart.com/index.php?route=extension/extension/info&amp;extension_id=22367&amp;filter_search=shipway" target="_blank"><p>Opencart</p></a>
-					<a href="http://marketplace.cs-cart.com/add-ons/integrations/cscart-shipway-courier-tracking-and-notify.html" target="_blank"><p>CS Cart</p></a>
+			<div class="col l6 col m12 col s12 hide-on-small-and-down">
+				<div class="col l3 s6">
+					<h6>Downloads</h6>
+					<a href="http://www.magentocommerce.com/magento-connect/shipway-courier-tracking-and-notification.html" target="_blank">Magento</a>
+					<a href="https://wordpress.org/support/plugin/shipway-shipment-tracking-and-notify" target="_blank">Wordpress</a>
+					<a href="http://www.opencart.com/index.php?route=extension/extension/info&amp;extension_id=22367&amp;filter_search=shipway" target="_blank">Opencart</a>
+					<a href="http://marketplace.cs-cart.com/add-ons/integrations/cscart-shipway-courier-tracking-and-notify.html" target="_blank">CS Cart</a>
+					<a href="https://apps.shopify.com/shipway-tracking-notification-and-order-reviews" target="_blank">Shopify</a>
+					<a href="/documentation/#!/downloads">Downloads</a>
+					<a href="/documentation/#!/downloads">Documentation</a>
+					
 					
 				</div>
-				<div class="col-lg-3">
-					<h4>Information</h4>
-					<a href="privacy.php"><p>Privacy Policy</p></a>
-					<a href="cancellation.php"><p>Cancellation</p></a>
-					<a href="terms.php"><p>Terms &amp; Conditions</p></a>
-					<a href="HTTP_SERVERSplugins/shipway-order-tracking-notify/#!/downloads"><p>Downloads</p></a>
+				<div class="col l3 s6">
+					<h6>Information</h6>
+					<a href="http://shipway.in/media">Media</a>
+					<a href="http://shipway.in/privacy">Privacy Policy</a>
+					<a href="http://shipway.in/cancellation">Cancellation</a>
+					<a href="http://shipway.in/terms">Terms &amp; Conditions</a>
+					<a href="http://shipway.in/faq" target="_blank">FAQs</a>
+					<a href="http://shipway.in/blog" target="_blank">Blog</a>
+					<a href="http://shipway.in/courier" target="_blank">All Couriers</a>
 				</div>
-				<div class="col-lg-3">
-					<h4>My account</h4>
-					<a class="scroll" href="/#price"><p>Pricing</p></a>			
-					<a href="HTTP_SERVERSadmin/" target="_blank"><p>Login</p></a>
-					<a href="HTTP_SERVERSadmin/index.php/auth/register" target="_blank"><p>Register</p></a>				
-					<a href="HTTP_SERVERScontact.php"><p>Contact</p></a>
+				<div class="col l3 s6">
+					<h6>My account</h6>
+					<a class="scroll" href="http://shipway.in/payment">Pricing</a>			
+					<a href="/admin/" target="_blank">Login</a>
+					<a href="/admin/auth/register" target="_blank">Register</a>				
+					<a href="/contact">Contact</a>
+					<a href="http://shipway.in/advertise">Advertise</a> 
+					<a href="http://shipway.in/business_partners">Business Partners</a>
 				</div>
-			<div class="col-lg-3">
-                                        <h4>Social</h4>
-					<div class="fb-like" data-href="https://www.facebook.com/shipway.in?fref=ts" data-width="225px " data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div><br>
-                                        <a href="https://www.youtube.com/watch?v=6jecthgw_LQ&amp;feature=youtu.be" target="_blank"><img src="onj-images/youtube.jpeg"></a>
-                                 
+			<div class="col l3 s6">
+                    <h6>Social</h6>
+					<!-- <div class="fb-like" data-href="https://www.facebook.com/shipway.in?fref=ts" data-width="225px " data-layout="button" data-action="like" data-show-faces="false" data-share="false" style="margin-bottom: 10px;"></div> -->
+					<a href="https://www.facebook.com/shipway.in?fref=ts&amp;ref=br_tf" target="_blank"><img src="http://shipway.in/onj-images/fb-like.png" alt="Facebook Like" style="margin-bottom: 10px;"></a>
+                         <a href="https://www.youtube.com/watch?v=6jecthgw_LQ&amp;feature=youtu.be" target="_blank"><img src="http://shipway.in/onj-images/youtube.jpeg" alt="Youtube"></a>                                
 			</div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-					
-					
+				<script>/* (function(d, s, id) {
+				  var js, fjs = d.getElementsByTagName(s)[0];
+				  if (d.getElementById(id)) return;
+				  js = d.createElement(s); js.id = id;
+				  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+				  fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk')); */</script>
+										
 				</div>
-			</div>
-	
+			</div>	
 		<hr style="border-top: 1px solid #aaa;" class="oj-show">
 		<div class="row oj-show">
-			<div class="col-lg-6">
-				<p style="color:#aaaaaa;">Powered by Shipway Technology Pvt. Ltd.</p>
+			<div class="col l4">
+				<span style="color:#aaaaaa;">Powered by Shipway Technology Pvt. Ltd.</span>
 			</div>
-			<div class="col-lg-6" style="text-align:right;">
+			<div class="col l5">
+				<a href="http://www.onjection.com/" target="_blank" title="ONjection Solutions"><span style="color:#aaaaaa;">Developed by Onjection Solutions - Enterprise Ecommerce Solutions</span></a>
+			</div>
+			<div class="col l3" style="text-align:right;padding-left:0;">
 				<a href="https://www.facebook.com/shipway.in?fref=ts" target="_blank"><i class="fa fa-facebook-square"></i> Find us on Facebook</a>&nbsp;&nbsp;
-                             <a href="https://www.linkedin.com/company/shipway" target="_blank"><i class="fa fa-linkedin-square"></i> Follow us on LinkedIn</a>
+                <a href="https://www.linkedin.com/company/shipway" target="_blank"><i class="fa fa-linkedin-square"></i> Follow us on LinkedIn</a>
 			</div>
 		</div>
-	
-	
-	</div>
-	
-	
-</div>
-<!-- //footer -->
-
-<script type="text/javascript" src="onj-js/onpagejs.js"></script>
-<script type="text/javascript" src="js/jquery.flexisel.js"></script>
+	  </div>
+    </footer>
+<script type="text/javascript" src="http://shipway.in/onj-js/onpagejs.js"></script>
+<script type="text/javascript" src="http://shipway.in/onj-js/jquery.flexisel.js"></script>	
+<script src="http://shipway.in/onj-js/waypoints.min.js"></script>
+<script src="http://shipway.in/onj-js/jquery.counterup.min.js"></script> 
+<script>
+    jQuery(document).ready(function( $ ) {
+        $('.counter').counterUp({
+            delay: 20,
+            time: 1500
+        });
+    });
+</script>
 
 </body></html>
