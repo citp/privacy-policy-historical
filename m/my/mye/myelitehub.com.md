@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myelitehub.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627050920id_/http%3A//elitemarketingpro.com/compliance/emp-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myelitehub.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204002300id_/http%3A//elitemarketingpro.com/compliance/emp-privacy.html) for the most accurate reproduction.*
 
 # Elite Marketing Pro - Privacy Policy
 
 ## How We Protect Your Privacy
 
-This website privacy policy tells you how we collect, use, and protect your personal information. By visiting our website (https://elitemarketingpro.com), you accept and agree to the terms and conditions of this website privacy policy. In particular, you consent to our collection and use of your personal information as described in this website privacy policy.
+This website privacy policy tells you how we collect, use, and protect your personal information. By visiting our website (http://elitemarketingpro.com), you accept and agree to the terms and conditions of this website privacy policy. In particular, you consent to our collection and use of your personal information as described in this website privacy policy.
 
 ## Minors
 
@@ -124,4 +124,4 @@ United States
 
 This website privacy policy was last updated on August 28, 2014.
 
-This document is Copyright © 2008-2014 Law Office of Michael E. Young PLLC, and licensed for use by the owner of this website at https://elitemarketingpro.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+This document is Copyright © 2008-2014 Law Office of Michael E. Young PLLC, and licensed for use by the owner of this website at http://elitemarketingpro.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
