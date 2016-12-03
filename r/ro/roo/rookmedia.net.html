@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rookmedia.net privacy policy that was archived on 2016-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617071548id_/https%3A//rookmedia.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rookmedia.net privacy policy that was archived on 2016-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161203164623id_/https%3A//www.rookmedia.net/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -195,7 +195,7 @@
                 </div>
                 <div class="rightContent fltrt">
                     <div id="quotesHolder">
-	<img src="https://web.archive.org/web/20160617071548id_/https://rookmedia.net/images/quotes/q_v7.jpg" id="quotes_img" border="0" alt="quotes_img">
+	<img src="https://web.archive.org/web/20161203164623id_/https://www.rookmedia.net/images/quotes/q_v2.jpg" id="quotes_img" border="0" alt="quotes_img">
 </div>
 <script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">
 	var picPaths = ['../images/quotes/q_v1.jpg','../images/quotes/q_v2.jpg','../images/quotes/q_v3.jpg','../images/quotes/q_v4.jpg','../images/quotes/q_v5.jpg','../images/quotes/q_v6.jpg','../images/quotes/q_v7.jpg'
@@ -215,15 +215,15 @@
             </div>
         </section>
         <section id="footer" class="clearfix">
-    <div id="btmls" class="fltlt">
+	<div id="btmls" class="fltlt">
         <ul>
             <li><a href="/" id="rookmediaIcon">ROOKMEDIA.NET</a></li>
             <li>© Copyright 2016. All Rights Reserved</li> 
         </ul>
     </div>
-
+    
     <div id="btmrs" class="fltrt">
-        <ul>
+    	<ul>
             <li><a href="../privacy/">Privacy</a></li>
             <li>|</li>
             <li><a href="../terms/">Terms of Service</a></li>
@@ -233,56 +233,40 @@
             <li><a href="http://www.facebook.com/pages/RookMedianet/135754919828005" id="fbIcon">facebook</a></li>
             <li><a href="https://twitter.com/RookMedia" id="twtIcon">Twitter</a></li>
         </ul>
-    </div>
-
+	</div>
+    
 </section>
 <script type="text/javascript" src="../js/jquery-1.8.2.min.js"></script>
 <script type="text/javascript">
 
-    $(document).ready(function () {
+$(document).ready(function(){
+	
+	$(".smallContent").hover(function(){
+		$(this).find("img").animate({ opacity: 0.8 }, 500 ).animate({ opacity: 1 }, 500 );
+	},function(){
+		
+	});
 
-        $(".smallContent").hover(function () {
-            $(this).find("img").animate({opacity: 0.8}, 500).animate({opacity: 1}, 500);
-        }, function () {
-
-        });
-
-
-        $(".rightContent a.dblock").hover(function () {
-            $(this).find(".opacEffect").animate({opacity: 0.8}, 500).animate({opacity: 1}, 500);
-        }, function () {
-
-        });
-
-        $(".topBox").hover(function () {
-            $(this).animate({opacity: 0.8}, 500).animate({opacity: 1}, 500);
-        }, function () {
-
-        });
-
-        $(".btmrightNav").eq(1).addClass("btmLast");
-
+	
+	$(".rightContent a.dblock").hover(function(){
+		$(this).find(".opacEffect").animate({ opacity: 0.8 }, 500 ).animate({ opacity: 1 }, 500 );
+	},function(){
+		
+	});
+	
+		$(".topBox").hover(function(){
+		$(this).animate({ opacity: 0.8 }, 500 ).animate({ opacity: 1 }, 500 );
+	},function(){
+		
+	});
+	
+	$(".btmrightNav").eq(1).addClass("btmLast");
+	
 //	document.title = "RookMedia.net";
-    });
+});
 </script>
-<!--<script type="text/javascript">
-
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-29559601-1']);
-    _gaq.push(['_setDomainName', 'rookmedia.net']);
-    _gaq.push(['_trackPageview']);
-
-    (function () {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-
-</script>-->
-<script> (function (i, s, o, g, r, a, m) {
+<script>
+	(function (i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;
         i[r] = i[r] || function () {
             (i[r].q = i[r].q || []).push(arguments)
@@ -293,7 +277,9 @@
         m.parentNode.insertBefore(a, m)
     })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
     ga('create', 'UA-78952061-1', 'auto');
-    ga('send', 'pageview');</script>    </div>
+    ga('send', 'pageview');
+</script>
+    </div>
 
 
 </body></html>
