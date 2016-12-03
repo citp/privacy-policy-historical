@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the graphpad.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608024030id_/http%3A//www.graphpad.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphpad.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203150922id_/http%3A//graphpad.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - graphpad.com
+# graphpad.com
 
 **Your information with GraphPad Software, Inc. is secure.** We will never release your personal information to any other company or agency.
 
