@@ -1,38 +1,32 @@
-> *The following text is extracted and transformed from the ducksters.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601191040id_/http%3A//www.ducksters.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ducksters.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203110156id_/http%3A//www.ducksters.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Ducksters: Privacy Policy
 
-www.ducksters.com does not collect personally identifiable online contact information. There is no way to enter in or post personal information of any type online on the website. 
+www.ducksters.com does not collect personally identifiable contact information on the website. www.ducksters.com does not send newsletters or conduct contests. 
 
 **Regarding Email Addresses**
 
-We do not sell email addresses to third parties. Emails from children under will be deleted after responding to their questions. 
+If you send us an email with personal information, we will not sell your email address to third parties or use it to send you a newsletter. If we receive an email we believe is from a child under the age of 13, we will delete the email after responding. 
 
 **Parent Rights**
 
 Although we don't believe we collect any personal information on children, if a parent or guardian feels we have personal information regarding their child they may request that we delete the information at mail@ducksters.com. 
 
-**Third Party Vendors**
+**Links to Other Sites**
 
-**Privacy Policy Regarding Google Adsense as a third party vendor:**
+Some content on www.ducksters.com may be hosted and served by third parties. Also, www.ducksters.com may contain links to third party web sites that www.ducksters.com does not control. We are not responsible for the privacy policies or the data collection practices of third party sites. 
 
-www.ducksters.com currently uses the [Google Adsense](http://www.google.com/adsense/) ad network to serve ads on our site. [Google](http://www.google.com/) uses the DART cookie to enable it to serve ads to users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/privacy/ads/). You can also visit the [Google Privacy Policy page](http://www.google.com/intl/en/policies/privacy/). 
+**Privacy Policy Regarding Analytics**
 
-Google Adsense may use online behavioral advertising (OBA) and/or multisite advertising. Cookies may be used by the Google Adsense ads to collect information about goods and services that interest you. This information may be used to serve you specific ads for products and services that you have previously shown interest in. You can opt out of some of these cookies at the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). 
+www.ducksters.com currently uses a program called Google Analytics to track various website metrics such as the number of visiters, browser type, operating system, visitor location, the number of pages each visitor views, etc. A cookie may be placed on your computer to help track this information. This information cannot be used to determine the identity of the user. We only use these statistics as support for internal operations to track the overall health of the website. 
 
-As added protection, www.ducksters.com is tagged with Google Webmaster Tools for Child-Directed Treatment. 
+**Advertising**
 
-**Privacy Policy Regarding Media.net as a third party vendor:** www.ducksters.com may also use the [Media.net](http://www.media.net/) ad network to serve ads on the site. Media.net may use cookies to gather some non-personally identifiable information. You can read their privacy policy [here](http://www.media.net/privacy-policy). You can opt out of their cookies [here](http://www.aboutads.info/choices/). 
+www.ducksters.com works with network advertisers to serve advertisements on www.ducksters.com. These advertising providers may set and access their own tracking technologies on your device (such as cookies and web beacons). They may also collect or have access to your device identifier and usage information. Your Device Identifier will be used only to support internal operations. www.ducksters.com may share Usage Information about visitors with third party vendors such as advertising networks and analytics providers for similar purposes. 
 
-**Privacy Policy Regarding Reptide Media as a third party vendor:** www.ducksters.com may also use the [Reptide Media](http://www.reptidemedia.com/) ad network to serve ads on the site. Reptide Media may use cookies to gather some non-personally identifiable information. You can read their privacy policy [here](http://www.reptidemedia.com/privacy.html). 
+**Adsense Search**
 
-**Privacy Policy Regarding SuperAwesome as a third party vendor:** www.ducksters.com may also use the [SuperAwesome](http://www.superawesome.tv/en/privacy-policy%20rel=) ad network to serve ads on the site. SuperAwesome may use cookies to gather some non-personally identifiable information. You can read their privacy policy [here](http://www.superawesome.tv/en/privacy-policy). 
-
-**Privacy Policy Regarding Sekindo.com as a third party vendor:** www.ducksters.com may also use the [RevenueVids.com](http://www.sekindo.com/) ad network to serve ads on the site. RevenueVids.com may use cookies to gather some non-personally identifiable information. You can read their privacy policy [here](http://frontend.sekindo.com/privacy-policy/). 
-
-**Privacy Policy Regarding Analytics:**
-
-Ducksters currently uses a program called Google Analytics to track various website metrics such as the number of visiters, browser type, operating system, visitor location, the number of pages each visitor views, etc. A cookie may be placed on your computer to help track this information. This information cannot be used to determine the identity of the user. We only use these statistics as support for internal operations to track the overall health of the website. You can go here to view the [Google Analytics Privacy Overview](http://www.google.com/intl/en_uk/analytics/privacyoverview.html). 
+www.ducksters.com currently uses the Google Adsense search engine as a search for our site. When you use the search engine you will be moved to another site (google.com) that will be subject to Google's own privacy policy. 
 
 **Updates**
 
@@ -40,9 +34,11 @@ Our Privacy Policy may change from time to time and all updates will be posted o
 
 **Contact Ducksters Regarding Privacy Policy Questions**
 
-If you have any questions or concerns regarding our privacy policy please contact us at mail@ducksters.com. 
+If you have any questions or concerns regarding our privacy policy please contact us at mail@ducksters.com or at: 
 
-**Last Updated: 5/11/16**
+Technological Solutions, Inc. 4015 Sunridge Road Raleigh, NC 27613 
+
+**Last Updated: 6/23/16**
 
 Back to [**Ducksters**](https://web.archive.org/) Home Page
 
