@@ -1,190 +1,277 @@
-> *The following text is extracted and transformed from the f-secure.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628230747id_/http%3A//www.f-secure.com/en_US/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the f-secure.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203050841id_/https%3A//www.f-secure.com/en_US/web/legal/privacy) for the most accurate reproduction.*
 
-# F-Secure Legal Terms and Privacy
+# Privacy policy for services | F-Secure
 
-This Personal Data Policy is given by F-Secure Corporation, a Finnish publicly listed corporation with Business ID 0705579-2 (“F-Secure”, “we”, “our”). This policy also applies to all subsidiaries of F-Secure Corporation. 
+##  In brief
 
-This Personal Data Policy describes the principles and practices that apply to our processing of Personal Data in our business operations. 
+  * We have a culture of respecting your privacy.
+  * We need to process certain data to provide you with our services.
+  * Whenever feasible, we make your data anonymous or near-anonymous.
+  * We know security.
 
-As a public listed company, operating in a field of content security, we seek to provide you with a safe and secure user experience. We will seek to ensure that the Personal Data you submit to us remains private, and that such Personal Data is only used for the purposes set out in this policy, service specific terms or notices, license terms and the agreement(s) in place between you and us, as applicable in relation to data collected. 
 
-## Summary in Brief
 
-  * We will only collect Personal Data based on your consent and/or where we have a valid reason to do so.
-  * We will process Personal Data in personally identifiable format only where necessary to do so. We process any data you have submitted in anonymous format unless there is a valid reason to retain such data in identifiable format. We will also purposefully restrict our own visibility to your personal content that we are processing on your behalf, so as to protect your privacy.
-  * We will not disclose your Personal Data to third parties, except as provided in this Personal Data Policy in general and in the agreement(s) between you and us in particular.
-  * We will take the actions that this Personal Data Policy and the applicable mandatory laws require, so as to protect the security of the Personal Data we collect from you.
+Our guiding principles for processing your personal data are [here](https://web.archive.org/web/20161027031059id_/https://www.f-secure.com/en_US/web/legal/principles).
 
+##  Structure
 
+This privacy policy is given by F-Secure Corporation, a Finnish publicly listed corporation with Business ID 0705579-2 ("F-Secure", "we", "our", "us"). All our subsidiaries also apply this policy.
 
-The remainder of this policy describes our Personal Data handling practices in more detail. However, please note that due to the generic nature of this Personal Data Policy, some sections herein may not apply to you, or may apply to you only partially, depending on the services and software that you use and on your other interaction with us. 
+Our data collection can be categorized as follows:
 
-## 1\. DEFINITIONS
+  * **Service data** ; the data that we automatically process to provide you with the services that you have requested. This also includes the data that you actively submit to us when subscribing to our services. This is explained in this policy.
+  * **Security data** ; anonymous data that we need to collect to keep you secure. Such data is processed separately from any other data in accordance to our [Security Cloud privacy policy](https://web.archive.org/web/20161027031059id_/https://www.f-secure.com/en_US/web/legal/privacy/security-cloud).
+  * **Analytics data** ; additional anonymous or pseudonymous data that we collect to learn when and how our services are found and used. This is explained here.
 
-This Personal Data Policy contains terms that have a specific meaning.
 
-"Client", “you”, means a private user or a corporate user or other data subject who purchases, registers for use or uses our Services and who may have submitted personally identifiable information through the following venues: i) through the use of our Services (including web applications), ii) Websites, iii) telephone, iv) email communications, v) registration forms or vi) other similar connections.
 
-"Personal Data" means any information on a private individual and any information on his/her personal characteristics or personal circumstances, where these are identifiable as concerning him/her or the members of his/her family or household. This may include, for example, name, email and mailing address and telephone number, billing and account information, contact information, and other information incidental to the Services and provision thereof. 
+This _Privacy policy for services_ describes how we process our customers' personal data. It also complements service-specific privacy statements as well as our license terms and other, shorter notices on case-specific data collection (e.g. support tools). Depending on what F-Secure services you use and how much you interact with us, some sections of this policy may not apply to you or may apply to you only in part.
 
-"Services" means any products or services of F-Secure such as software, web applications or any other services or products manufactured or distributed by F-Secure, including any related support services. 
+##  Definitions
 
-"Session Data" means, inter alia, Website usage information, such as the type of Internet browser and operating system used, the domain name of the site from which a person browsing the Internet came, the date, time and duration of the visit, number of visits, average time spent on the Website, pages viewed, and number of cookies accumulated. Session Data is typically collected via cookies. 
+This is what we mean when we make certain references within this policy.
 
-“Subcontractors” means any subcontractor of F-Secure, which F-Secure uses to provide its Services.
+"Client", "you", refers to a private or corporate user or any other data subjects who buy, register for use, or use our services and who may have submitted personally identifiable information to us. This information may have been submitted through the use of our services (including web solutions), web sites, telephone, e-mail, registration forms, or other similar channels.
 
-“Technical data” means security related data, technical, statistical and analysis data, data relating to software applications and technical user environment, metadata on files you are handling via our Services (i.e. type (e.g. digital photo, text document etc.), size and number of files, header information, dates of their creation, modification and deletion), and other similar data.
+"Personal data" refers to any information on private individuals and their personal characteristics or circumstances, which are identifiable to them or their family or household members. This information may include names, e-mail and mailing addresses, telephone numbers, billing and account information, and other information incidental to the services and their provisioning.
 
-"Website" means http://www.f-secure.com –site or any other website hosted by F-Secure or under F-Secure’s control, and its respective sub-sites together with the respective content available from that site and sub-sites. For the purposes of clarity: whereas Website(s) may contain links to third-party sites, this Personal Data Policy does not cover data collected by such third-party sites. 
+"Services" refer to any services or products that are manufactured or distributed by F-Secure, including software, web solutions, tools, and related support services.
 
-## 2\. CONSENTS
+"Web site" refers to the [www.f-secure.com](http://www.f-secure.com/) web site or any other web site that F-Secure hosts or controls, including sub-sites and browser-based service portals.
 
-Based on the fact that you are our Client, by reason of law and/or on based on the following consents we have the right to process Personal Data pertaining to you. 
+##  What do we collect?
 
-You acknowledge and consent that by communicating with F-Secure or its business partners relating to our Services, by filling out a form or survey, registering to use our Services, by submitting information in our web applications, by entering a contest or sweepstakes, by registering your email address with us or emailing us, we have the right to process Personal Data pertaining to you. We may also collect Personal Data from you at certain points on the Website that state that Personal Data is being collected.
+We typically need to ask at least for your email address, phone number, and name to be able to provide our services. The individual services also collect additional data directly both on our service and from your device and related data traffic. In cases of such automated collection, the focus of data collection is on our services, not on your private data.
 
-You further consent that F-Secure may further disclose or transfer any of the Personal Data to its affiliates, subcontractors, distributors and partners located in the EEA or outside the EEA as set out below.   
-Please note that our respective agreements with you define the consents in greater detail. 
+The adjoining service and interaction-specific policies explain in more detail the personal data collected per service type.
 
-## 3\. TYPES OF PERSONAL DATA PROCESSED
+If there is no specific policy for a service or interaction, this main ‘privacy policy for services' document shall apply.
 
-We collect Personal Data only when necessary.
+##  What do we do with it?
 
-We process any data you have submitted in anonymous format unless there is a valid reason to retain such data in identifiable format (e.g. license management or Service maintenance and support). We will also purposefully restrict our own visibility to your own data that we are processing on your behalf so as to protect your privacy.  
-When you become our Client, we collect Personal Data that is necessary to provide the Services to you, such as your contact information and billing information, your name and email address, mail address, telephone number, country, language and age. 
+This list describes the general purposes for the collected personal data.
 
-You also may need to choose a password or you might be assigned with a unique identifier, which will be used to identify you as an authorized user and to manage the Services. 
+  * **Customer journey.** To identify authorized users and check customer qualifications, process and track transactions such as administering accounts, shipping, invoicing, and managing licenses;
+  * **Deliver, fix, and enhance.** To deliver our services to you, maintain and develop our services and web sites, and to provide help and support for the services;
+  * **Analyze.** To track how our services are acquired and used so that we can improve the services, manage your customer relationship, and approach you with relevant messages;
+  * **Communicate.** To send you information relating to the services, conduct customer surveys, arrange competitions, advertise and market our services to you;
+  * **Regulatory.** To prevent fraudulent activities, remove or stop sharing of illegal or infringing material, and comply with legal or regulatory requirements.
 
-In order to process a purchase transaction, to manage and provide you with the Services and to be better able to serve you, we may also collect information about the relevant Service purchase(s) such as number of purchased licenses, purchase history, distribution partner tendering the Services to you, device identification data, data on technical environment (e.g. operating system) the Service is used in, and, in the case of storage and sharing services, Service usage data.
 
-When providing you with support services, we may need to collect and process data on malware infections and relevant email identification data in a personally identifiable format, where you have provided such data to us.
 
-Some of the above data may be provided to us by the distribution partner or corporate entity tendering the Services to you.  
-Information collected when visiting our Website is explained in more detail in section 10 below. 
+The adjoining service and interaction-specific policies explain in more detail the specific purposes for the collected personal data.
 
-## 4\. HOW PERSONAL DATA IS USED
+##  Why we need to process your data
 
-###   
-4.1 General
+By using our services, you are our client. Because of this relationship, we have a right to process relevant personal data.
 
-We use the Personal Data in order to:  
-a) identify the authorized users and check customer qualifications, process and track your transactions based on agreement(s) between you and us (such as issuing invoices, administering accounts, shipping, collecting and processing payments), and for license management purposes;  
-b) record your use and purchases of the Services as our Client to enable us to communicate with you about the Services for customer relationship management purposes;  
-c) manage the Services and the Website and diagnose technical matters;   
-d) provide, maintain, enhance and ensure the functioning of the Services;  
-e) provide help and assistance for the Services and provide you with support Services;   
-f) send you information about the Services (e.g. to inform you of new versions and features) via direct messaging or other means of communication;   
-g) arrange competitions and send you surveys asking questions about your customer experience;  
-h) personalize our Website for you;  
-i) pursue Service and business development;   
-j) effect a corporate transaction, in connection with the sale, merger, spin-off, or other corporate reorganization of our corporation, where the information is provided to the new controlling entity in regular course of business; and  
-k) comply with, and as permitted by, any legal or regulatory requirements or provisions. 
+Such data processing may occur when you communicate with us or our business partners relating to our services, install and use our services, fill out a form or survey, register to use our services, submit information through our web solutions, enter a contest or sweepstakes, register your e-mail address with us, or send us e-mail.
 
-### 4.2 Marketing Activities
+We need to automatically collect and process relevant personal data for our services to work, to enhance them, and to provide them to you. Due to the nature of our services, it is impossible to completely avoid data collection without preventing the services from functioning. As such processing is inseparable from the services we provide to you, this gives us a valid need to process your data and legal authorization to do so. However, we seek to give you as much control as possible. For example, we may ask you for your separate consent for some data collected or provide a possibility to opt out from non-critical data collection.
 
-From time to time, we may market, sell, extend promotions, special offers and other information relating to i) the Services as well as ii) services of those companies with which we have a commercial relationship. We will only do so if you have granted us permission to do so or we are otherwise able to do so under applicable law. In addition, we will closely adhere to applicable laws when undertaking the above activities. We may utilize our subcontractors and partners to undertake the above activities on our behalf. Upon your request, we will immediately remove you from our direct marketing list. 
+While some of our services have dedicated privacy policies to help you better understand the data collected by that particular service, we consider you a client of F-Secure, not a client of the individual service. Hence, data collected by different services (e.g. SAFE) and interactions (e.g. contacting support) are combined to your F-Secure account. However, we do not aggregate data against our specific privacy promises (for example, we maintain a hands-off approach to your traffic inside our VPN service).
 
-### 4.3 Session Data
+##  Transfers
 
-We use Session Data to better understand how our Website is navigated, where and how many visitors arrive at specific pages, the length and frequency of stays at our Website, the variety of searches of our Website's database, and the types of browsers and computer operating systems used by our visitors. We use this information to improve our Website content and ease of use and to personalize and improve your individual viewing experiences on our Website. Please note that when processing Session Data, we do not process it in personally identifiable manner. 
+We do much ourselves, but also have partners to help us provide our services. This also means that we need to exchange data with our partners. When doing so, we take great care in sharing only the necessary personal data.
 
-We may generate statistics and aggregate reports for internal use and for sharing with F-Secure group companies, partners and advertisers. These statistics and aggregate reports will not contain any Personal Data. 
+We have explained below the two main instances of such personal data exchanges.
 
-## 5\. TRANSFER OF PERSONAL DATA
+###  1) Subcontracting
 
-  
+We may disclose some of your personal data to subcontractors and F-Secure group companies who provide parts of our services that you use.
 
+Where our clients' personal data needs to be disclosed to our subcontractors, we require, in our contracts with them, that they use such information solely for providing their agreed services (for example, to solve a support case, to send it to logistic partners for product delivery, or to send marketing mails on our behalf). We require such subcontractors to act in a manner consistent with this privacy policy and applicable laws. Whenever possible, we anonymize the data sent.
 
-### 5.1 To Whom We Transfer Personal Data
+###  2) Sales and marketing
 
-From time to time, we may disclose Personal Data relating to you to those Subcontractors and F-Secure group companies who provide the Services (or parts thereof) regarding which you have entered into an agreement with F-Secure. We will share with these companies only such Personal Data that they necessarily need to work with. We transfer all Personal Data electronically.   
-Where our Clients’ Personal Data needs to be disclosed to our Subcontractors, We require, in our contracts with them, that they use such information solely for the purpose of providing services to F-Secure, and under the strict instructions of F-Secure, and with respect to that information, to act in a manner consistent with this Personal Data Policy, your agreements with us and the mandatory laws applicable to F-Secure. 
+We exchange (both disclose and receive) some of your personal data with our distribution partners (resellers of corporate IT services, operators, webstores, etc,), who market, sell and distribute our services. We provide these companies access to such personal data that they need for their agreed activities. The logic of this data sharing is to provide a seamless customer experience. This includes activities such as customer management, service support and problem resolution, direct marketing, and invoicing. Our distribution partners must also comply with the agreements and legislation when handling your personal data.
 
-To ensure better availability and provisioning of Services in various time zones and during different times of day, some of these entities are located in countries outside the EEA. Where personal data is transferred from EEA to outside EEA, F-Secure will safeguard the security and integrity of the transferred Personal Data by appropriate means as required by the law. We will do this by imposing appropriate technical and/or contractual safeguards with regard to relevant Subcontractors and F-Secure group companies (e.g. by using data transfer clauses approved by European Union). 
+Most of our distribution partners may have a pre-existing customer relationship with you and are processing your personal data as an independent entity. In such cases, both F-Secure and the distribution partner have separate customer data entries on your customer relationship that are subject to our respective policies.
 
-From time to time, we disclose Personal Data to our distribution partners, from whom you have purchased the Services. We will share with these companies only such Personal Data that is necessarily needed by such distribution partners for purposes of undertaking their agreed activities, but not exceeding those listed above in section 4. The commercial parties to whom we transfer Personal Data are also bound by agreements and by legislation to safeguard the Personal Data. 
+###  International transfers
 
-We may also disclose your Personal Data to ensure the availability of the Services and the Website according to our rights under the appropriate agreements, license terms or applicable legislation; to protect ourselves against liability or prevent fraudulent activity; or where it is necessary to permit us to pursue available remedies or limit any damages that we may sustain. Kindly note that we will take these kind of activities only if and to the extent the applicable law allows.
+Some of our affiliates, subcontractors, distributors, and partners are located outside the European Economic Area to ensure the global reach and availability of our services. When we transfer personal data outside the European Economic Area, we secure such transfers of personal data according to the requirements of the law. We do this by imposing appropriate technical and contractual safeguards on relevant subcontractors and F-Secure group companies, for example by using data transfer clauses that are approved by the European Union. We only do global or cross-border data transfers for a good reason and after assessing the resulting privacy risk.
 
-We may also disclose your Personal Data to effect a corporate transaction, in connection with the possible sale, merger, spin-off, or other corporate reorganization of F-Secure, where the information is provided to the new controlling entity in regular course of business. 
+More importantly, we store more sensitive customer data within Finland and the European Economic Area and keep it under our own control.
 
-We may also disclose your Personal Data to our insurers and to governmental regulatory agencies if and when allowed by applicable laws. 
+###  Other disclosures
 
-Please note that there are circumstances not covered by this Personal Data Policy, where the use or disclosure of Personal Data may be justified or permitted, or where we may be obligated to disclose information without consent. Such circumstances may include to comply with an order or warrant issued by or an order made by a court, person or body with authority in relevant jurisdiction to compel the production of information, or to comply with the court rules relating to the production of records. 
+There are circumstances not covered by this privacy policy where the use or disclosure of personal data may be justified or permitted, or where we may be obligated by applicable laws to disclose information without acquiring your consent or independent of service provisioning.
 
-### 5.2 To Whom We Do Not Transfer Personal Data
+One example includes complying with a court order or a warrant issued by the authorities in the relevant jurisdiction to compel the production of information. We weigh each disclosure requirement carefully and take the possibility of such disclosure requests into account when deciding where and how we store your personal data.
 
-We will not sell, rent, or lease your Personal Data to any third parties. Hence, for example, we do not sell your email addresses or your name and personal demographic information to mass marketers. 
+Disclosing your personal data may also be justified to protect ourselves against liability or to prevent fraudulent activity, or where it is necessary to solve or contain an ongoing problem. In any such action, we will act according to the applicable laws.
 
-## 6\. RETAINING PERSONAL DATA
+We may also need to transfer your personal data as part of a corporate transaction, such as a sale, merger, spin-off, or other corporate reorganization of F-Secure, where the information is provided to the new controlling entity in the regular course of business.
 
-We will retain your Personal Data in our databases in accordance with our data retention policies and applicable laws. This period may extend beyond the end of your relationship with us, but it will be only as long as it is necessary for us to retain such data. For example, we may need or be required to retain information regarding your purchase of the Services and your payment for the same. We may also need to retain certain information to prevent fraudulent activity; to permit us to pursue available remedies or to limit any damages that we may sustain; to have sufficient information to respond to any issues that may arise later; because of agreements between you and us; or if the law requires it. 
+We may also disclose your personal data to our insurers and to governmental regulatory agencies if so required by applicable laws.
 
-## 7\. PROTECTING PERSONAL DATA
+##  Retention
 
-We apply strict security measures and physical, administrative and technical safeguards to help protect the confidentiality and integrity of the Personal Data when transferring, storing or processing such data. We apply these security measures and safeguards to reduce the risk of loss, misuse or unauthorized access, disclosure or modification of the Personal Data. 
+We retain your personal data in our databases in line with our data retention practices.
 
-Your Personal Data will be stored in secured locations and on servers controlled by us, located either at our offices or at the offices of our Subcontractors, as described below. Only authorized personnel on register with correct user-identification and password are allowed and able to access the relevant information systems. The data is physically secured in an internal and/or external fully classed data centers/facilities, with appropriate identification procedures. Where our Clients’ Personal Data needs to be disclosed to our Subcontractors, we require, in our contracts with them, that they protect all Personal Data in a manner consistent with this Personal Data Policy and applicable laws. If you choose to contact us through the Website or via emails, you should be aware that any information transmitted electronically via the Internet might not be secure. 
+The default rule under Finnish – and many other applicable – laws, is that personal data should be deleted or anonymized once we no longer need it for the purpose it was collected.
 
-## 8\. ACCESSING AND MODIFYING YOUR PERSONAL DATA
+Consequently, we store the personal data of our customers for varying durations, depending on the type of data. This also means that we may retain your personal data beyond the end of your client relationship with us, but only as long as we continue to have a valid reason. Typical reasons include:
 
-We seek to ensure that Personal Data is as accurate, complete and current as is necessary for the purposes for which we use such information. We encourage you to inform us if details of your Personal Data are changed (such as change of address or email address).
+  * to allow us to pursue available remedies or to limit any damages that we may sustain (e.g. due to an ongoing dispute or investigation)
+  * to solve or contain a recurring problem or to have enough information to respond to future issues (e.g. your support ticket related to a problem that was not permanently corrected during your customership)
+  * to uphold agreements between you and us (e.g. you continue to subscribe to our other services)
+  * to prevent fraudulent activity (e.g. to enforce a ban on our community)
+  * if applicable laws require us to store the data (e.g. to keep track of your purchase and the payment of our services)
+  * to communicate with you (e.g. keeping your personal data stored for the grace period after the end of your subscription or sending you communications after your customership if you have elected to receive them).
 
-If you wish to correct your Personal Data, which you can indicate as incorrect, you can do so by contacting us.  
-At any time, you have the right to ask us to provide a copy of the Personal Data that you have supplied and that is retained by us. We have the right to charge a small fee for this service according to the applicable laws. 
 
-## 9\. TECHNICAL DATA
 
-Our Services may also collect certain technical data related to your use of the Services. Technical data is collected and processed by F-Secure for the purposes of enabling us to provide you with the Services and for research and development purposes. Technical data is processed separately from personally identifiable data. Consequently, technical data is processed in a non-personally identifiable manner and F-Secure undertake efforts to render as anonymous and/or obfuscate any Personal Data contained in such data. Technical data is processed in a personally identifiable manner only with your express consent or where we are unable to deliver our relevant Services to you without processing such data in personally identifiable format.   
-Depending on the type of Service, you may allow/disallow some technical data being sent, while some of the technical data needs to be sent for respective features of the Services to function properly. F-Secure may further disclose or transfer any of the technical data to its affiliates, sub-contractors, distributors and partners. 
+We do not seek to store your customer account data indefinitely. Once there has been no activity in any of our services related with your customer account or in our community for a set time, we delete your account. We will contact you in advance of such deletion so that we do not delete your account against your wishes.
 
-## 10\. WEBSITES
+For more sensitive data relating to specific services, we have separate retention practices.
 
-###   
-10.1 General
+Data that does not contain personal data (e.g. security data and aggregate analytical data) is retained as long as such data is needed and is useful for the purpose it was collected.
 
-When you visit our Website, we collect Session Data about you in non-personally identifiable format in a number of ways, including tracking your activities through your IP address in the Website or most-recently-visited URL. However, we do not collect any personally identifiable information about you unless you voluntarily submit such information to us, for example by purchasing an F-Secure product, filling out a form or survey, entering a contest or sweepstakes, registering your email address with us or emailing us. 
+##  Data security
 
-### 10.2 Cookies
+We apply strict security measures to protect the confidentiality and integrity of your personal data when transferring, storing or processing it.
 
-When you access our Website, it may seek to place cookies on your computer to collect Session Data. A cookie contains a unique identification number that identifies the Website visitor's browser. Cookies help us recognize your browser when you visit our Website again. Please note that unless a visitor specifically informs us of his/her identity, we will not know who the individual visitor is.
+We use physical, administrative and technical security measures to reduce the risk of loss, misuse or unauthorized access, disclosure or modification of your personal data.
 
-Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or prompt you before accepting a cookie from the sites you visit. 
+We store your personal data on secure servers that are located either at our offices, at the offices of our subcontractors, or at fully classed data centers. Only authorized personnel can access the information on these servers. Where our clients' personal data needs to be disclosed to our subcontractors, we require them to process and protect personal data in a manner consistent with this privacy policy and applicable laws. If you contact us through our web site or via e-mail, be aware that any information that is sent via the Internet might not be secure.
 
-If you decide not to accept our cookies, you may not be able to access our Website or use related Website services. 
+##  Your rights
 
-### 10.3 Third Parties Advertising on Our Website or Together with Our Services
+We seek to keep your personal data accurate, complete, and up to date.
 
-Separate from any permission you provide during the process of your relation to us as a Client, we do not share any Personal Data about you with third-party advertisers unless you give us permission to do so. However, we may share non-personally identifiable information collected via cookies to our advertising or business partners. Such advertisers may seek to use cookies to track Session Data about the ads you have seen and types of things in which you appear interested. For information about accessing the advertiser links, see below. 
+Some of our services portals allow you to update your customer information. For such, you should update any changes to your personal data, for example, change of address or e-mail address. If you cannot update the changes yourself, you may inform us of the necessary changes.
 
-### 10.4 Purchasing F-Secure Products and Services
+You can contact us for more details about how your personal data is processed or to cancel your consent. Our contact information is included in this policy. You can unsubscribe from receiving marketing messages by following the instructions that are included in each message.
 
-When purchasing our products and/or services from our e-store; your associated Personal Data and associated payment and billing information shall be processed by us as explained above in this policy. However, we do not store your payment card information submitted in our e-store. Such information will be instead provided to the selected payment provider and shall be processed under such payment provider's privacy policies. 
+You have the right to ask us what personal data we have on you.
 
-Depending on where you are located, the e-store may alternatively be operated by our distribution partner. In such case, this is indicated in the e-store and the processing of your Personal Data disclosed in connection to the license purchase is governed primarily by the terms and privacy policies of such distribution partner as well as the applicable laws relating to such license purchase 
+If you wish to minimize the data we collect when providing our services to you, we provide you the possibility to opt out from non-critical data collection. The same applies to our communications.
 
-### 10.5 Links
+##  Third parties
 
-For your convenience, our Website provides links to other sites. When you click on one of these links, you are leaving our Website and entering another site. We are not responsible for such third-party sites. You should carefully review the privacy statements of any other sites that you visit, because those privacy statements will apply to your visit to such other sites and may be significantly different from our policy.
+Our services and websites may embed or interoperate with third-party services.
 
-We are not responsible for the privacy policies and practices of any linked website. 
+The most prevalent such scenarios are the following:
 
-## 11\. CHANGES TO POLICY
+  * **Webstore.** Our webstore is partially run by a third-party reseller. While the data you enter in the registration phase is handled under F-Secure policies, our webstore providers' policies apply to the actual purchase and related activities.
+  * **Device location queries.** When you query the location of your device via our services, the provider of maps needs to process the related geographical data. On the publication date of this policy, F-Secure uses Google maps in our device location and search features. Google privacy policies shall apply accordingly to your use of the features.
+  * **External features.** Where the third-party service is a visible, separately branded part of your user experience, such third-party services' privacy policies apply in lieu of this policy.
 
-We will change or supplement this Personal Data Policy from time to time. We will post an appropriate notice of changes to the Personal Data Policy in the Website. If we make significant changes to our statement, we may also notify you by other means, such as posting a notice on our home page or sending an email. Personal Data Policy changes will apply to the information collected from the date we post the revised Personal Data Policy to the Website, as well as to existing information held by us. 
 
-## 12\. CONTACT INFORMATION FOR MATTERS RELATED TO PERSONAL DATA
 
-If you have any questions or concerns about the matters discussed in this Personal Data Policy, please contact:
+##  Sources
+
+While we collect the majority of the above-mentioned data directly from you or your device, we also receive data from our affiliates, distribution partners (such as operators), and corporate entities from whom you have purchased the services. Such entities may be our resellers, but also include our external webstore partners. We also acquire some basic personal data (order data on purchases) and aggregate analytical data from app stores in which our services are sold. Such other sources may further include subcontractors who have provided you with support services, or advertising partners who have assisted us in conducting our marketing activities.
+
+We do this to create a seamless customer experience and to have the necessary information for solving support cases.
+
+Typical examples of this kind of "third-party collection" are:
+
+  * collection of your data from registration information that you have submitted to our external webstore,
+  * we acquire your contact data from previous sign-in data from our operator reseller partner providing our service to you, and
+  * when you use your social media account to register to our services, we collect the e-mail address from your account to enable us to authenticate your registration and to contact you.
+
+
+
+##  Analytics
+
+###  In brief
+
+  * To provide services that our customers need, we analyze how our services are used.
+  * We look at trends among our users, not at individual users.
+  * We do this on our web site and in our products.
+  * You can choose whether you want to participate.
+
+
+
+###  In full
+
+**Why we do this.** We want to give you a more personal customer experience and provide you with even better services in the future. For that we need to track usage patterns and customer segments in aggregate. For example, what features are used most, where the service fails, what needs fixing, and how you found out about our services.
+
+**What we collect.** Data analytics running in our services include things like the Internet browser that you use, elements clicked, timestamps, general location, device identifier and relations between devices / users / user groups, service operation time, device metrics (such as phone model and operation system, language), partial IP address, service errors, problematic files and service performance data, how you interact with our services (such as which features are used and how often), the domain name from which you connect to the service and the service features that you use, effectiveness of our commercials, installation success, installation and activation paths, performance, operation environment, connections, data routing, quota, as well as other similar data.
+
+Data analytics running on our web sites are described in a [dedicated policy](https://web.archive.org/web/20161027031059id_/https://www.f-secure.com/en_US/web/legal/privacy/website).
+
+**How we treat such data.** We are interested in the needs and behavior of our customers as part of a group, not in the names of those customers. When analyzing data inside F-Secure, we transfer the collected analytics data to statistics, demographics, and customer segments. We treat the collected analytics data as anonymous and have safeguards to prevent the identification of individual customers.
+
+**We keep the full data set safe.** We use the full set of collected data only internally and do not give it to others.
+
+**Some data is exchanged.** Because of the technical environment (that is, the Internet, the app store ecosystem, and social media), we are not able to do all of the data analytics collection and activities ourselves. We have to exchange some pseudonymous data (such as "Android marketing identifier" and other like identifiers) with our online analytics and marketing partners. Data on your actions may be shared in the following scenarios, for example:
+
+  * We use data aggregators to enable you to access our product through other applications and to track the immediately following actions. In such cases, the data created from such activity is shared to the relevant parties.
+  * Our subcontractors that provide us with analytics services may also create and publish aggregate reports on the data that they have collected. The statistics and aggregate reports do not contain any data that could be linked to any individual person.
+
+
+
+This is a necessary evil in almost all digital analytics and marketing activities. The only way this may be visible to you is in the types of ads you see when browsing or using our applications, but it has no impact on the amount of ads you see in your online life.
+
+**We do not sacrifice your privacy.** Where we differ from most companies doing this is in that we understand how the ecosystem works and go through great pains to select our few partners with care, removing all data that is not absolutely necessary for the above purpose. You can naturally opt out from the collection of analytics data at any time via the service settings.
+
+We also limit such added analytics only to the surface of our services and keep them at arm's length from the core privacy areas of our services. For example, we do not have any external analytics in our [security cloud](https://web.archive.org/web/20161027031059id_/https://www.f-secure.com/en_US/web/legal/privacy/security-cloud) or in the traffic inside our [VPN service](https://web.archive.org/freedome).
+
+##  Marketing
+
+###  In brief
+
+  * We aim to keep our marketing relevant.
+  * The marketing permission links the aggregated results of data analytics to your account.
+  * You can adjust your marketing choices in your subscription portal.
+
+
+
+###  In full
+
+**Our marketing activities**
+
+We hope to send you relevant news, advice, offers, and other marketing communications. These help you get more our of our services and to protect your online life.
+
+**Firstly;** with your consent, we send you direct marketing communications to your email or similar contact information that we have for you (e.g. you have indicated that you wish to receive our newsletters when subscribing to our service or when participating in a competition).
+
+**Secondly;** in addition to direct marketing communications, we may also send you communications related to services, unless you have asked not to receive such communications.
+
+**Thirdly;** we do marketing on the Internet, through third-party apps, and through other channels.
+
+We seek to make our marketing communications relevant to you. Where allowed by your service and browser settings, we profile you based on your interaction with our services, web sites and the data collected via our online and in-app marketing activities. In so doing, we aggregate data, use pseudonyms and take other measures to keep our marketing analytics non-intrusive.
+
+When you give permission for direct marketing, we connect the results of data analysis to you, so we can better serve you. You can request to be removed from our marketing communications at any time.
+
+We may use our subcontractors and partners to undertake marketing activities on our behalf. Our marketing communications relate primarily to our services. In some cases, they may also relate to services of our distribution partners that relate to our services. However, our business models do not rely on selling your personal data to third-party mass marketers. For us, you are not a product. For us, you are a customer.
+
+**Your choices with analytics and marketing**
+
+We have sought to create a mutually beneficial solution by pairing your level of engagement with us and how accurate our analytical data is on your account.
+
+By default, the analytics data you contribute to us is treated as anonymous. However, if we have your permission to send you "tips and offers" on how to better use our services, we will connect some of the information derived from the analytics data to you in order to give you more relevant tips and offers.
+
+If you opt out from receiving our "tips and offers", then any analytics data you submit is only used for building better products, but the link between analytics data and your customer account is severed.
+
+You can choose on a service-per-service basis whether you want to contribute to our analytics activities. The choice of whether you wish to have "tips and offers" from us and have derivative information from the analytics data connected to you is common for all services that you have under the same F-Secure user account. You can further adjust such settings from your subscription center, which we will gradually make available to all our services.
+
+We really appreciate it if you help us improve our services. However, if you want to minimize all data traffic towards F-Secure, we respect that. Those of our services that employ additional analytics allow you to opt out from subsequent collection of such non-essential data collection.
+
+If you have opted out from all analytics data collection, our messaging to you will be only based on the service data collection (the data we collect in any case to provide you with the services) and our tips are likely to be less relevant.
+
+If you are against the collection of any data analytics, the more wholesale method for preventing online advertisers from profiling your mobile device usage is to reset the advertising identifier from time to time and to turn on the do-not-track setting in your device settings or use [our privacy product](https://web.archive.org/freedome).
+
+##  Changes
+
+This version of the policy clarifies, updates, and replaces the previous policy. To continue keeping this policy up to date, we will make changes and additions to this from time to time also in the future.
+
+We will publish the changed privacy policy on our web site. If the changes are significant, we may also notify you by other means, such as posting a notice on our home page or sending an e-mail. Any changes will apply starting from the date that we publish the revised privacy policy on our web site.
+
+##  Contact information
+
+If you have any questions or concerns about the matters discussed in this privacy policy, please contact:
 
 F-Secure Corporation  
-Tammasaarenkatu 7   
-PL 24,   
-00181 Helsinki   
-Finland  
-Tel. +358 9 2520 0700  
-_
+Tammasaarenkatu 7  
+PL 24  
+00181 Helsinki  
+Finland
 
-Copyright © F-Secure 2010
+<http://www.f-secure.com/support>
 
-_
+© F-Secure, December 2015
