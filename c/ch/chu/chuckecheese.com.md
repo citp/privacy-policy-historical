@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chuckecheese.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424061613id_/http%3A//www.chuckecheese.com/terms-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chuckecheese.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203203253id_/https%3A//www.chuckecheese.com/terms-and-privacy) for the most accurate reproduction.*
 
 # Terms and Privacy - Chuck E. Cheese's
 
@@ -14,7 +14,7 @@ CEC Entertainment makes a special effort to encourage children to consult with t
 
 We do not seek to acquire information specifically from children under the age of 13 on the Chuck E. Cheese's website.
 
-CEC Entertainment has received TRUSTe’s Privacy and Children’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website [www.chuckecheese.com](https://www.chuckecheese.com/) and our mobile applications.
+CEC Entertainment has received TRUSTe’s Privacy and Children’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website [www.chuckecheese.com](https://www.chuckecheese.com/).
 
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions.
 
