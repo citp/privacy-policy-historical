@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the first-avenue.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604102732id_/http%3A//first-avenue.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the first-avenue.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203041316id_/http%3A//first-avenue.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | First Avenue
 
 ### **Privacy Policy and Terms of Use**
 
-At First Avenue Night Club and the 7th Street Entry and its affiliated sites, including first-avenue.com, we understand that your privacy is important, and provide this Privacy Policy  to explain what information we collect from you, and how that information is used.
+At First Avenue Night Club and the 7th Street Entry, and First Avenue Presents, and its affiliated sites, including first-avenue.com and turfclubt.net, among others, we understand that your privacy is important, and provide this Privacy Policy  to explain what information we collect from you, and how that information is used.
 
 Please check back for Policy updates, which will be indicated by a change in the date listed at the top of this page. This privacy policy incorporates terms of use.
 
@@ -41,8 +41,8 @@ THEREFORE, WE WILL DO NEITHER.
 
 ### YOU CAN EXPECT:
 
-  1. at the most a weekly email update
-  2. exclusive ticket giveaways
+  1. A twice-weekly email update about newly announced shows, and shows we have coming up
+  2. Exclusive ticket giveaways and special content for you
 
 
 
