@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breedersclub.net privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608000804id_/http%3A//breedersclub.net/classifieds/modules.php%3Fmod%3DExtra_Pages%26pg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breedersclub.net privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204003739id_/http%3A//breedersclub.net/classifieds/modules.php%3Fmod%3DExtra_Pages%26pg%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 
 **Introduction.**  
-We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. We won't send you any unsolicited e-mail ("spam"). This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Please take time to read our [Terms of Use](https://web.archive.org/web/20160608000804id_/http%3A//breedersclub.net/classifieds/modules.php?mod=Extra_Pages&pg=terms).
+We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. We won't send you any unsolicited e-mail ("spam"). This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Please take time to read our [Terms of Use](https://web.archive.org/web/20161204003739id_/http%3A//breedersclub.net/classifieds/modules.php?mod=Extra_Pages&pg=terms).
 
 **1\. Collection of Data.**  
 Our registration process requires only a valid e-mail address and a unique user ID and password. Providing us with other information is at your option. Please take note that your user name, e-mail address, or other submissions that you make on this site may contain your real name or other personally identifiable information and, as a result, may appear on this site. Like many web sites, we may also automatically receive general information that is contained in our server log files such as your IP address and cookie information. Information about how advertising may be served on this site (if at all) is set forth below.
@@ -18,10 +18,10 @@ We may use Data to customize and improve your user experience on this site. We w
 Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings. Advertisements may appear on our web site and, if so, may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement.
 
 **4\. Children.**  
-We do not allow persons who are ages thirteen or younger to become members of this site. For more information, please contact [our webmaster](https://web.archive.org/web/20160608000804id_/http%3A//breedersclub.net/classifieds/index.php?page=feedback).
+We do not allow persons who are ages thirteen or younger to become members of this site. For more information, please contact [our webmaster](https://web.archive.org/web/20161204003739id_/http%3A//breedersclub.net/classifieds/index.php?page=feedback).
 
 **5\. Editing or Deleting Your Account Information.**  
-We provide you with the ability to edit the information in your user account information that you provided to us in registration by using [your personal page configuration area](https://web.archive.org/web/20160608000804id_/http%3A//breedersclub.net/classifieds/index.php?page=account). You may request deletion of your user account by contacting [our webmaster](https://web.archive.org/web/20160608000804id_/http%3A//breedersclub.net/classifieds/index.php?page=feedback). Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted. Please see our [Terms of Use](https://web.archive.org/web/20160608000804id_/http%3A//breedersclub.net/classifieds/modules.php?mod=Extra_Pages&pg=terms) for more information.
+We provide you with the ability to edit the information in your user account information that you provided to us in registration by using [your personal page configuration area](https://web.archive.org/web/20161204003739id_/http%3A//breedersclub.net/classifieds/index.php?page=account). You may request deletion of your user account by contacting [our webmaster](https://web.archive.org/web/20161204003739id_/http%3A//breedersclub.net/classifieds/index.php?page=feedback). Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted. Please see our [Terms of Use](https://web.archive.org/web/20161204003739id_/http%3A//breedersclub.net/classifieds/modules.php?mod=Extra_Pages&pg=terms) for more information.
 
 **6\. Changes to this Privacy Policy.**  
 We may make changes to this Policy from time to time. We will notify you of substantial changes to this Policy either by posting a prominent announcement on our site and/or by sending a message to the e-mail address you have provided to us that is contained within your user settings.
@@ -32,4 +32,4 @@ We may make changes to this Policy from time to time. We will notify you of subs
 
 **9.REFUND POLICY.** If there is an error in your payment or your bill, we will refund the card used within 5-7 business days. For questions email us at service@breedersclub.net. 
 
-**10\. Contact Information.** If you have any questions about this Policy or our web site, please feel free to contact [our webmaster](https://web.archive.org/web/20160608000804id_/http%3A//breedersclub.net/classifieds/index.php?page=feedback)
+**10\. Contact Information.** If you have any questions about this Policy or our web site, please feel free to contact [our webmaster](https://web.archive.org/web/20161204003739id_/http%3A//breedersclub.net/classifieds/index.php?page=feedback)
