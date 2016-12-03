@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whig.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512213249id_/http%3A//www.whig.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whig.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203102010id_/http%3A//www.whig.com/privacy) for the most accurate reproduction.*
 
 # This Web Site's Privacy Policy - Herald-Whig -
 
