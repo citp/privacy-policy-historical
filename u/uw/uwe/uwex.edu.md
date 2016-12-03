@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwex.edu privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617164021id_/http%3A//www.uwex.edu/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwex.edu privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203060347id_/http%3A//www.uwex.edu/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - UW-Extension
 
