@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the alldata.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531170413id_/http%3A//www.alldata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alldata.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203020224id_/http%3A//www.alldata.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ALLDATA
 
 ##  [ALLDATA.com Privacy Policy   
-Updated May, 2013](https://web.archive.org/privacy-policy "ALLDATA.com Privacy Policy")
+Updated May, 2013]( "ALLDATA.com Privacy Policy")
 
 Updated May, 2013
 
@@ -25,6 +25,13 @@ The Web Site may use third party products and services to gather traffic statist
 
 You may opt out of receiving Act-On cookies at:  
 [www.act-on.com/privacy-policy](http://www.act-on.com/privacy-policy)
+
+You may opt out of receiving Google Analytics cookies at:  
+[Google Analytics opt-outs](https://tools.google.com/dlpage/gaoptout/)
+
+You may opt out of receiving CoreMotives cookies at:  
+<http://coremotives.com/privacy-statement> or  
+<http://www.ibm.com/privacy/us/en/>
 
 **Contact Us**
 
