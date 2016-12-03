@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cottonon.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620143345id_/http%3A//cottonon.com/AU/customer-service/privacy-policy.html%3Fregion%3DAU) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottonon.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203082836id_/http%3A//cottonon.com/AU/customer-service/privacy-policy.html%3Fregion%3DAU) for the most accurate reproduction.*
 
 # Privacy Policy | Cotton On
 
@@ -73,4 +73,5 @@ If you have any questions about our Privacy Policy or if you have a complaint, p
 
 **Mail:** The Privacy Officer, Cotton On Group, 14 Shepherd Court, North Geelong, Victoria 3215  
 **Phone:** 1800 420 176 (from within Australia)   
-**Email:** [privacyofficer@cottonon.com](mailto:privacyofficer@cottonon.com)  
+**Email:** [privacyofficer@cottonon.com](mailto:privacyofficer@cottonon.com)    
+Please note that the above email address should not be used for recruitment enquiries. Please direct all recruitment enquiries to recruitment@cottonon.com.au
