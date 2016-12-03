@@ -1,75 +1,43 @@
-> *The following text is extracted and transformed from the uptime.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228171346id_/http%3A//www.maintenanceresources.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uptime.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203231951id_/https%3A//uptime.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Uptime.com
 
-**Maintenance Resources Privacy Policy**
+Here at Uptime.com, we take your privacy seriously and will only collect and/or use the information below in accordance with this Privacy Policy (“Policy”). By visiting our website and/or enrolling in our services, you agree to be bound by the terms of this Policy.
 
-[Home](http://www.maintenanceresources.com/index.html) | [ Products Showcase](http://www.maintenanceresources.com/productsshowcase/index.htm) | [ Reference Library](http://www.maintenanceresources.com/referencelibrary/index.htm) | [ PEM Publications](http://www.maintenanceresources.com/subscriptioncenter/index.htm) | [CMMS Links](http://www.maintenanceresources.com/cmms/index.htm) | [PEM Links](http://www.maintenanceresources.com/pemlinks/index.htm) | [FAQ](http://www.maintenanceresources.com/faqpage.html) | [Contact Us](mailto:info@maintenanceresources.com)
+### How We Collect Your Information
 
-Info Products Sites, the provider of Maintenance Resources (the "Services"), has created this Privacy Policy to explain our information-gathering and dissemination practices. Your use of our Services confirms your acknowledgement and acceptance of the terms of this Privacy Policy.
+The amount and type of information we gather depends on your level of interaction with Uptime.com. By visiting our website or enrolling in our services, you agree to permit Uptime.com to collect, retain, and use personal and non-personal information as well as cookies from you in the matter set forth in this Policy. When you register for an account, enroll in our services, complete customer surveys, or enable your browser to accept cookies, we receive data from you. This information may be used by us in the manner set forth herein.
 
-### I. What information we do and do not collect
+### What Information We Collect & How We Use This Information
 
-### \- Personally Identifiable Information
+**Non-personal Information:**  
+In order to better understand the needs and of our visitors and customers and to provide you with the best possible service, Uptime.com may collect your non-personal information. This information is just basic data that does not include any information that can be used to identify you. Some examples of non-personal information are the date and time you visited Uptime.com, how you reached our site, the sections of the site that you visited, and whether or not you logged in. You agree that Uptime.com may collect, use, and release non-personal information to third parties for any purpose.
 
-We only obtain and retain personally identifiable information that you give to us and certain related transactional information which we collect based on your use of our Services. For example, you might supply your name and email address by contacting us or placing an order on line or by telephone 
+**Personal Information**  
+Your personal information includes all of the data you provide us when you sign up for an account or enroll in our services, including your name, email address, home and business address, telephone number, and payment information.
 
-### \- Non-Personally Identifiable Information
+Uptime.com will only collect and use this personal information to enroll you in our services and process your transaction. Uptime.com will only disclose this information to its employees, contractors, and affiliated entities and organizations that are necessary to process your transaction and provide you with our services. Your personal information will not be shared by Uptime.com or its employees, contractors, and affiliated entities and organizations for any other purpose. Uptime.com will take reasonable measures necessary to protect your personal information from disclosure.
 
-When you visit our Services, we do not collect data about who you are or any other personally identifiable information except as described above. We do, however, collect certain non-personally identifiable information about you based upon your activity on our website. We may collect machine data such as processor type, processor speed, operating system type, browser type, audio devices, modem devices, and video cards. This information may include the Web site's Uniform Resource Locator ("URL") that you just came from, which URL you next go to, what browser you are using, and your Internet Protocol ("IP") address.
+We will not store your credit or debit card information without your express consent. The storage of this financial information is encrypted and will only be accessed by Uptime.com and its employees to process payment for our services, pursuant to the terms and conditions of your enrollment in our services. Uptime.com will not disclose your credit or debit card information to third parties.
 
-### \- Cookies
+Uptime.com will not lease or sell any of your personal information to a third party. In the event of a subpoena, court order, or request of the government or a regulatory authority, Uptime.com reserves the right to disclose any such personal information necessary to comply with such subpoena, court order, request, or applicable law.
 
-Cookies are small data files that are sent from our servers to your computer during a browsing session. In order to make our Service more responsive to the needs of our visitors, we may use cookies to assign your Internet browser a unique random number, a sort of anonymous user ID that is stored in a file on your computer. By using a cookie, we are able to automatically identify your browser and track your use of our Service and our web pages. Most web browsers automatically accept cookies by default, but contain an option for you to turn off the acceptance of cookies if you prefer. You can also delete cookie files from your computer after they have been stored.
+From time to time we may use your personal information to contact you via email regarding updates to our services or new promotions and services that we offer. You may unsubscribe from these communications at any time.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For example, Google, as a third party vendor, uses cookies to serve ads to our Service, and those ads place cookies on your computer. However, those cookies do not reveal any of your personally identifiable information. Google provides information about their advertising and privacy, including how to opt out of the use of their [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) at the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+### Cookies
 
-### \- Children's Information
+Cookies are data that is stored in your browser while you surf the web. When you visit a website, cookies are sent to the server to let the website know your previous browsing history. We may use cookies to track your use of Uptime.com in order to provide you with a more personalized experience. You may elect to not accept our use of cookies by choosing the appropriate setting on your browser. However, without cookies, you may not be able to experience some of the features of Uptime.com.
 
-In compliance with the Children's Online Privacy Protection Act and fair information practices, we do not intentionally collect any personally identifiable information from children.
+### Content from Third Parties
 
-### II. How do we use the information we collect?
+This Policy covers the use of cookies and your personal and non-personal information by Uptime.com only. Any third-party content on Uptime.com, including, but not limited to, advertisements is not governed by this Policy. You must refer directly to the privacy policy of each third party with respect to the potential use of your personal/non-personal information and cookies.
 
-### \- Personally Identifiable Information
+### Changes to this Policy
 
-We may use your email address to contact you regarding account issues and as a way of letting you know about new features of our Service.
+We reserve the right to modify this Policy at any time in the sole and absolute discretion of Uptime.com. Changes to this Policy will be effective when posted to this page and your continued use of Uptime.com’s website and its services shall constitute your acceptance to such changes. Uptime.com shall not be required to notify you in writing when changes are made to this Police. We recommend that you check this page periodically to stay up to day on any modifications made to this Policy. 
 
-We do not sell, rent, loan, or otherwise share personally identifiable information, including email lists, with third parties.
+### Applicability
 
-We may be required by law, court order, governmental agency, or law enforcement authority to disclose whatever personally identifiable information we may have collected from you. We may also disclose your information to law enforcement authorities investigating suspected illegal activity.
+This Agreement shall apply to Uptime.com and its successors and assignees. You acknowledge that Uptime.com’s successors and assignees, if any, shall have the right to use your personal and non-personal information as set forth in this Policy.
 
-We do not combine personally identifiable information with any of the non-personally identifiable information gathered through the use of cookies.
-
-### \- Non-Personally Identifiable Information
-
-We compile and analyze non-personally identifiable information on an aggregated basis. For example, we may know that ninety people visited this Privacy Policy yesterday or how long the average visitor spent using our Services last month. But we do not link this information with any of the personally identifiable information that we collect from you.
-
-We may also use this non-personally identifiable information to conduct internal research on our visitors' demographics, interests, and behavior to better understand and serve our visitors.
-
-We also pass the aggregated data (but not your personally identifiable information) to advertising agencies and firms that conduct site analysis, such as Google Analytics, in order to help such companies feed advertising to our Services in the most efficient manner.
-
-We do not restrict the recipients of any non-personally identifiable information from using that information.
-
-We do not monitor third party use of the information we share with them. However, none of that information can be used by third parties to identify you.
-
-### III. How long do we retain the information we collect from you?
-
-We retain your Maintenance Resources account information and the aggregated non-personally identifiable information we collect from you indefinitely. 
-
-### IV. Can you request that we purge from our system the information we collect from you?
-
-We do not currently have any procedure by which users can request that we purge the information we collect from them. However, the only personally identifiable information we collect is the Maintenance Resources account information. You may change (or delete) your Maintenance Resources account information at any time, although in doing so it does not necessarily mean that the original account information will be deleted from our servers.
-
-### V. What measures do we take to protect the security of the information you submit?
-
-Our website, and all of the data related to the Services, reside on servers maintained by a commercial hosting company. That company takes certain precautions to protect the servers from intrusion, including securing the facilities in which the servers are located and maintaining a firewall to protect against unauthorized access. None of these measures is foolproof; and we do not monitor the web hosting company's facilities or procedures to determine its compliance with the security procedures it says it employs.
-
-### VI. How will you know of changes to this Privacy Policy?
-
-We reserve the right to change this Privacy Policy to comply with applicable laws, to improve your experience, or to reflect any general change in our policy. Any changes we make to this Privacy Policy will be posted to this web page. We will not send you messages informing you of these changes, so you are responsible for checking this web page frequently. You are encouraged to print or download a copy of this document for your permanent records.
-
-### VII. How can you contact us if you have any questions?
-
-If you have any questions about our Privacy Policy or our practices or procedures with regard to personally identifiable information, you should contact us at [Contact Us](mailto:mr@maintenanceresources.com) or by postal mail at: 1983 North Hunt Street, Terre Haute, IN 47805, USA, or by telephone at 812.877.7119 ** **.
-
-Effective date of this Privacy Policy: December 17, 2009
+**Last Updated:** February 26th, 2015
