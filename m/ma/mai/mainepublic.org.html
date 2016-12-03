@@ -1,0 +1,745 @@
+<!--The following is the downloaded HTML source of the mainepublic.org privacy policy that was archived on 2016-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161203044905id_/http%3A//mainepublic.org/privacy-statement) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" class="no-js"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-974.min.js"></script><script type="text/javascript" async="" src="//stream.publicbroadcasting.net/analytics/aacw.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYHV1dVGwIBVFlVBQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),s.on(m,function(){this.bstStart=Date.now()}),s.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(17)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;c<s;c++)a[c].apply(i,r);var u=f[w[n]];return u&&u.push([v,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",w[n]=e,e in f||(f[e]=[])})}var m={},w={},v={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return v}function i(){return new r}var a="nr@context",s=t("gos"),c=t(15),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!g++){var t=y.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(w,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(15),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var m=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-974.min.js"},v=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:m,features:{},xhrWrappable:v};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),s("mark",["firstbyte",a()],null,"api");var g=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta property="og:description" content="Maine Public is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement">
+<meta property="og:url" content="http://mainepublic.org/privacy-statement">
+<meta property="og:type" content="article">
+<meta property="og:image" content="http://mediad.publicbroadcasting.net/spacer.gif">
+<meta property="twitter:card" content="summary">
+<link rel="shortcut icon" href="http://mediad.publicbroadcasting.net/p/mpbn/files/201609/favicon.ico" type="image/vnd.microsoft.icon">
+<meta content="Privacy Statement" about="/privacy-statement" property="dc:title">
+<meta property="twitter:site" content="@MPBNnews">
+<meta property="og:title" content="Privacy Statement">
+<meta name="description" content="Maine Public is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement">
+<link rel="canonical" href="/privacy-statement">
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+<meta name="Generator" content="Drupal 7 (http://drupal.org)">
+<link rel="shortlink" href="/node/1672">
+<meta name="has_audio" content="0">
+<meta name="nid" content="1672">
+<meta name="category" content="none">
+<meta name="programs" content="none">
+<link href="http://mediad.publicbroadcasting.net/spacer.gif" rel="image_src">
+    <title>Privacy Statement | Maine Public</title>
+    <link type="text/css" rel="stylesheet" href="http://mainepublic.org/sites/mainepublic.org/files/css/css_zXr1pRkjUmFHX10b6Pv5_DqzyewvdLNQ8QgccGQIRQQ.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://mainepublic.org/sites/mainepublic.org/files/css/css_ZFlaYqkiQzTmlBPX4mQeT33IFQX3nR-zpGlyqFhtTNM.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://mainepublic.org/sites/mainepublic.org/files/css/css_XHTm2cMU6sD6pzlNwtS19lgDRK8GjAz14nQaxKhle30.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://mainepublic.org/sites/mainepublic.org/files/css/css_uY1_bHNTrAu2UuUwumZ6AuPc2Egu5fV5FiJ2-fv7ySk.css" media="all">
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.header-region-outer{background-color:#FFFFFF;}.branding .tagline{color:#686868;}.branding .listen-live-toggle > a,.branding .header-utility > a,.branding .header-utility > a.trigger-nav{color:#EEEEEE;}@media screen and (min-width:641px){.branding .trigger-nav{background:#474747;}}@media screen and (max-width:640px){.branding .header-utility > a.trigger-nav,.active-menu .branding .header-utility > a.trigger-nav{color:#777777;}}#listen-live .listen-live-toggle{background-color:#00A4DF;}#listen-live .listen-live-btn{background-color:transparent;color:#EEEEEE;}@media screen and (min-width:640px){#listen-live .listen-live-btn{background-color:#00A4DF;}}.branding .give{background:#d8292f;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:300,700,700italic,900,italic,regular&amp;subset=latin" media="all">
+<link type="text/css" rel="stylesheet" href="http://mainepublic.org/sites/mainepublic.org/files/css/css_ffQOEf5iMOwbnH_MtLeto5vh6Ex3mALTc88htZEHtZM.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://mainepublic.org/sites/mainepublic.org/files/css/css_kSPzAwLa00EQeWxqskzc1UFkRC2qWjDROsX-PDuawIM.css" media="all">
+    <script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/mpbn/files/js/js_xSpMA4ArVcBKOZ43sPqNRk0gxQZdDVifw27pIUCzWU0.js"></script>
+<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/mpbn/files/js/js_P9u0bgloveAIlc2kutVCUB_xMaRV3YHWhSVHD3IN5tM.js"></script>
+<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/mpbn/files/js/js_-WcrGf3pH5GnSWA1Y-B28tyjknNjFr4asJklCZQ5NUA.js"></script>
+<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/mpbn/files/js/js_ZcZajqjC7KCS8_A2dOG5Y53mBT4KJLE7BiKX15HUv7g.js"></script>
+<script type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/mpbn/files/js/js_SEp4NIM2PD1RhjC3_NDUBbtmniv0x9btV0ghmYjWhNo.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src="//stream.publicbroadcasting.net/analytics/aacw.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/mpbn/files/js/js_FyJuo1e2Es-uJ5tABbNBqzk3V7BVne0hueY_EEWorU8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"responso","theme_token":"OHcq_teiEZbMVUmFHjkJIAFJO-Qgrn5KmZxX9Qu_Iw0","js":{"0":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/magnific-popup\/jquery.magnific-popup.min.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/foundation\/foundation.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/foundation\/foundation.topbar.js":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.js":1,"sites\/all\/modules\/custom\/pi_media_types\/pi_audio\/js\/pi-audio.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/pi-hull.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/jquery.innerfade.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/jquery.jplayer.min.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/main.js":1,"\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"sites\/all\/modules\/custom\/responsive_ads\/js\/main.js":1,"sites\/all\/modules\/custom\/pi_ajax_links_api\/nprogress\/nprogress.js":1,"sites\/all\/modules\/custom\/pi_ajax_links_api\/pi_ajax_links_api.js":1,"sites\/all\/modules\/custom\/npr_entities\/npr_fields\/npr_image_gallery\/js\/npr-image-gallery.js":1,"sites\/all\/modules\/custom\/npr_river\/assets\/npr-river.js":1,"sites\/all\/modules\/custom\/pi_assets\/plugins\/images\/js\/popup.js":1,"sites\/all\/modules\/custom\/pi_guide\/js\/pi_guide_schedule_selector.js":1,"sites\/all\/modules\/custom\/pi_content_types\/pi_live_event\/js\/iframe.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/modernizr.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/media.match.min.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/matchMedia.addListener.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/enquire.min.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/fastclick.js":1,"1":1,"sites\/all\/modules\/custom\/pi_content_types\/pi_program\/treatments\/program-promo\/program-promo.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.mediaqueries.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.scripts.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.responsiveimages.js":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/datetimepicker\/jquery.timepicker.min.js":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/datetimepicker\/bootstrap-datepicker.min.js":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/datetimepicker\/jquery.datepair.min.js":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/validation\/jquery.mask.min.js":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/validation\/jquery.validate.min.js":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/typeahead\/typeahead.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.helpers.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.filters.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.event.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.tag.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.location.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.organization.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.recurrence.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.category.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.image.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.sponsor.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.validation.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.overrides.js":1,"sites\/all\/modules\/custom\/audity\/audity\/dsplayer.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"sites\/all\/libraries\/magnific-popup\/magnific-popup.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/pi_hull\/pi_outrigger\/css\/pi_outrigger.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_guide.css":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/css\/jplayer.npr.css":1,"sites\/all\/modules\/custom\/pi_npr_story\/css\/pi_npr_story.css":1,"sites\/all\/modules\/custom\/pi_views\/pi_reports_views\/css\/pi_reports.css":1,"sites\/all\/modules\/custom\/pi_menus\/css\/flexiMenu.css":1,"sites\/all\/modules\/custom\/responsive_footer\/responsive-footer.admin.css":1,"0":1,"http:\/\/fonts.googleapis.com\/css?family=Lato:300,700,700italic,900,italic,regular\u0026subset=latin":1,"sites\/all\/modules\/custom\/audity\/audity\/css\/audity.css":1,"sites\/all\/modules\/custom\/pi_ajax_links_api\/pi_ajax_links_api.css":1,"sites\/all\/modules\/custom\/pi_ajax_links_api\/nprogress\/nprogress.css":1,"sites\/all\/modules\/custom\/pi_content_types\/pi_program\/treatments\/program-promo\/program-promo.css":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/typeahead\/typeahead.css":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/datetimepicker\/jquery.timepicker.css":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/datetimepicker\/bootstrap-datepicker3.standalone.min.css":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.css":1,"sites\/all\/modules\/custom\/npr_entities\/npr_fields\/npr_image_gallery\/css\/npr-image-gallery.css":1,"sites\/all\/themes\/responso\/css\/icon-fonts.css":1,"sites\/all\/themes\/responso\/css\/screen.css":1}},"chartbeat":{"uid":33583,"domain":"mainepublic.org"},"googleCSE":{"cx":"010251366440257945544:tas7yop6b8e","language":"","resultsWidth":600,"domain":"www.google.com"},"audityConfig":{"station":{"listenLabel":"Listen Live"},"streams":[{"desc":"Maine Public","name":0,"url":"http:\/\/playerservices.streamtheworld.com\/api\/livestream-redirect\/WMEAFM.mp3","data":{"type":"composer2","ucs":"51827df0e1c88009d6967a22"}},{"desc":"Maine Public Classical","name":1,"url":"http:\/\/playerservices.streamtheworld.com\/api\/livestream-redirect\/WMEA_CLASSICAL.mp3","data":{"type":"composer2","ucs":"52d6908ae1c88b7fb0008dce"}}],"analytics":{"acct":"aacw"},"ads":{"network":"101967251","units":{"audio":"mpbn_player_audio","display":"mpbn_player_display","leavebehind":"mpbn_player_leavebehind"}}},"responsive_ads":{"networkCode":"101967251","prefix":"mpbn","adUnitTypes":{"leaderboard":{"note":"Only shows above 1024; shows 970x90 or 728x90.","sizes":[{"viewportSize":[0,0],"slotSize":[]},{"viewportSize":[1024,200],"slotSize":[[970,90],[970,50],[728,90]]}]},"medium":{"note":"Won't be served on screens smaller than 640x480.","sizes":[{"viewportSize":[0,0],"slotSize":[]},{"viewportSize":[640,200],"slotSize":[300,250]}]},"tablet":{"note":"Won't be served on screens smaller than 640x480 or larger than 1024x768","sizes":[{"viewportSize":[0,0],"slotSize":[]},{"viewportSize":[640,200],"slotSize":[728,90]},{"viewportSize":[1024,200],"slotSize":[]}]},"mobile":{"note":"Won't be served on screens larger than 640x480.","sizes":[{"viewportSize":[0,0],"slotSize":[320,50]},{"viewportSize":[640,200],"slotSize":[]}]}},"adUnits":[{"name":"leaderboard_1","type":"leaderboard","width":728,"height":90},{"name":"player_display","type":"leaderboard","width":728,"height":90},{"name":"medium_1","type":"medium","width":300,"height":250},{"name":"medium_2","type":"medium","width":300,"height":250},{"name":"medium_3","type":"medium","width":300,"height":250},{"name":"tablet_1","type":"tablet","width":728,"height":90},{"name":"mobile_1","type":"mobile","width":320,"height":50}],"placements":{"leaderboard_1":"main#content","medium_1":".node .field-name-body","medium_2":".node .field-name-body","medium_3":".node .field-name-body","tablet_1":"main#content","mobile_1":"#block-pi-responsive-ads-mobile-1 .content"},"persistentPlacements":[],"targeting":{"id":"1672","type":"page","tags":[],"category":"","programs":[]}},"tms_meta":{"has_audio":"0","programs":"none","category":"none","nid":1672},"responsive_utilities":{"body_classes":"html not-front not-logged-in no-sidebars page-node page-node- page-node-1672 node-type-page fixed-header","custom_vars":{"nid":{"name":"nid","slot":8,"scope_id":3},"pop":{"name":"pop","slot":9,"scope_id":3},"author":{"name":"author","slot":11,"scope_id":3},"keywords":{"name":"tags","slot":12,"scope_id":3},"org_id":{"name":"org_id","slot":13,"scope_id":3},"brand":{"name":"CP_Station","slot":14,"scope_id":2},"has_audio":{"name":"Has_Inline_Audio","slot":15,"scope_id":3},"programs":{"name":"Program","slot":16,"scope_id":3},"category":{"name":"Category","slot":10,"scope_id":3},"datePublished":{"name":"PublishedDate","slot":17,"scope_id":3},"wordCount":{"name":"WordCount","slot":18,"scope_id":3},"story_id":{"name":"API_Story_Id","slot":19,"scope_id":3},"pmp_guid":{"name":"pmp_guid","slot":20,"scope_id":3}},"pagetype_vars":[{"page_type":"Content\/About","regex_pattern":"\/about(-us)?\/?$","pattern_name":"Core Publisher About Page"},{"page_type":"Events","regex_pattern":"\/events(\/|$)","pattern_name":"Core Publisher Events Page"},{"page_type":"People","regex_pattern":"\/people(\/|$)","pattern_name":"Core Publisher People Page"},{"page_type":"Playlist","regex_pattern":"\/search_playlists\/?$","pattern_name":"Core Publisher Playlist Page"},{"page_type":"Program","regex_pattern":"\/programs(\/|$)","pattern_name":"Core Publisher Program Page"},{"page_type":"Schedule","regex_pattern":"\/schedule(\/|$)","pattern_name":"Core Publisher Schedule Page"},{"page_type":"Search","regex_pattern":"\/search\/google\/?","pattern_name":"Core Publisher Search GSA Page"},{"page_type":"Story","regex_pattern":"\/post\/|\/webclip\/","pattern_name":"Core Publisher Story Page"},{"page_type":"Streaming","regex_pattern":"\/listen(-live)?\/?(#|$)","pattern_name":"Core Publisher Listen Live Page"}],"media_queries":{"mobile":"all and (max-width: 40em)","tablet":"screen and (min-width: 40.063em) and (max-width: 64em)","desktop":"screen and (min-width: 64.063em)"}},"pi_ajax_links_api":{"selector":"#page-document","trigger":"a.ajax-link,#page-wrapper a,a.logo,a.mobile-teaser-link,.dropdown a","negative_triggers":".dropdown .back a,.mobile .not-click \u003e a,#toolbar a,a.lightbox,.jp-interface a,.header .not-click \u003e a,.page-admin a,.page-block-factory a,a.give,.social-share a,#change-station,#rss-tablequeue a,a[href^=\"mailto:\"],.popup,a[href^=\"#\"],a:not([href]),ul.tabs\u003eli\u003ea,ul.contextual-links a,#table-queue-fleximenu a[target=\"_blank\"],.delete-button","scripts_included":0,"html5":1,"vpager":1}});
+//--><!]]>
+</script>
+    <meta name="viewport" content="width=device-width">
+  </head>
+
+  <body class="html not-front not-logged-in page-node page-node- page-node-1672 node-type-page fixed-header">
+    <header role="banner" class="header">
+  <div class="skiptocontent"><a href="#main-content">skip to main content</a></div>
+    <div class="region region-header">
+    <div id="block-baby-bear-baby-bear-header" class="block block-baby-bear">
+
+    
+  <div class="content">
+    
+<div class="header-region-outer">
+  <section class="header-region-inner row">
+    <div class="branding large-12 columns">
+      <div class="brand-inner-wrapper">
+        <a href="/" rel="home" class="logo" title="Maine Public Home"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/mpbn/files/201609/PrimaryLogo_RGB.png" alt="Maine Public logo" title="Maine Public Home"></a>         <div class="tagline">
+                  </div>
+      </div>
+      <div class="header-utility">
+        <a class="trigger-nav" href="#">
+          <span class="icon-list"></span>
+          <span class="menu-text">Site Menu</span>
+        </a>
+        <a class="give" href="https://www.callswithoutwalls.com/pledgeCart3/#/campaign/ADF0CB77-2EF2-4CD5-A73E-6879D1CB6CFA/source/" target="_blank">
+  Donate</a>
+      </div>
+    </div>
+  </section>
+</div>
+  </div>
+</div>
+  </div>
+</header>
+    <div class="nav-wrapper mobile">
+      <nav>
+        <div class="top-bar contain-to-grid" data-topbar="">
+          <ul class="title-area">
+            <li class="toggle-topbar menu-icon">
+              <a href="#">Menu</a>
+            </li>
+          </ul>
+          <section class="top-bar-section">
+            <div class="table-queue" id="table-queue-fleximenu">
+  <ul class="menu dropdown">
+<li>
+<a href="/">Home</a>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/news">News</a>
+<ul class="dropdown">
+<li class="left">
+<a href="/term/maine">Maine</a>
+</li>
+<li class="left">
+<a href="/term/your-vote-2016">Your Vote 2016</a>
+</li>
+<li class="left">
+<a href="/term/mic">Steve Mistler's Off Mic Blog</a>
+</li>
+<li class="left">
+<a href="/category/politics">Politics</a>
+</li>
+<li class="left">
+<a href="/category/business">Business and Economy</a>
+</li>
+<li class="left">
+<a href="/category/science">Environment and Outdoors</a>
+</li>
+<li class="left">
+<a href="/term/health">Health</a>
+</li>
+<li class="left">
+<a href="/term/courts-and-crime">Courts and Crime</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/programs">Radio</a>
+<ul class="dropdown">
+<li class="left">
+<a href="/schedule">Maine Public Radio Schedule</a>
+</li>
+<li class="left">
+<a href="/schedule/classical">Maine Public Classical Schedule</a>
+</li>
+<li class="left">
+<a href="/where-hear-maine-public-radio">Where to Hear Maine Public Radio</a>
+</li>
+<li class="left">
+<a href="/where-hear-maine-public-classical">Where to Hear Maine Public Classical </a>
+</li>
+<li class="left">
+<a href="/programs">Radio Programs A-Z</a>
+</li>
+<li class="left">
+<a href="/programs/poems-here">Poems From Here</a>
+</li>
+<li class="left">
+<a href="/programs/maine-calling">Maine Calling</a>
+</li>
+<li class="left">
+<a href="/programs/maine-things-considered">Maine Things Considered</a>
+</li>
+<li class="left">
+<a href="/programs/day-maine">This Day in Maine</a>
+</li>
+<li class="left">
+<a href="/programs/morning-edition">Morning Edition</a>
+</li>
+<li class="left">
+<a href="/programs/speaking-maine">Speaking in Maine</a>
+</li>
+<li class="left">
+<a href="/programs/morning-classical-music-robin-rilette-0">Morning Classical Music with Robin Rilette</a>
+</li>
+<li class="left">
+<a href="/programs/tune">In Tune with Sara Willis</a>
+</li>
+<li class="left">
+<a href="/programs/jazz-tonight-rich-tozier">Jazz Tonight with Rich Tozier</a>
+</li>
+<li class="left">
+<a href="/programs/down-memory-lane">Down Memory Lane</a>
+</li>
+<li class="left">
+<a href="/programs/2-pm-public-affairs-programs">2:00 PM Public Affairs</a>
+</li>
+<li class="left">
+<a href="/node/39720">Voices of Giving</a>
+</li>
+<li class="left">
+<a href="/programs/music-moves-me">Music That Moves ME</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="http://video.mainepublic.org" target="_blank">Television</a>
+<ul class="dropdown">
+<li class="left">
+<a href="/mpbn-tv-schedule">Maine Public Television Schedule</a>
+</li>
+<li class="left">
+<a href="/where-watch-maine-public-television">Where to Watch Maine Public Television</a>
+</li>
+<li class="left">
+<a href="/programs/maine-public-community-films">Community Films</a>
+</li>
+<li class="left">
+<a href="http://video.mainepublic.org/show/out-and-about/" target="_blank">Out and About</a>
+</li>
+<li class="left">
+<a href="http://video.mainepublic.org/show/maine-sense-place/" target="_blank">A Maine Sense of Place</a>
+</li>
+<li class="left">
+<a href="http://video.mainepublic.org" target="_blank">PBS Video On-Demand/Passport</a>
+</li>
+<li class="left">
+<a href="/post/maine-public-passport">What is Maine Public Passport</a>
+</li>
+<li class="left">
+<a href="/post/high-school-quiz-show">High School Quiz Show</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/rss">Podcasts</a>
+<ul class="dropdown">
+<li class="left">
+<a href="/programs/day-maine">This Day in Maine</a>
+</li>
+<li class="left">
+<a href="/programs/poems-here">Poems from Here</a>
+</li>
+<li class="left">
+<a href="/programs/maine-calling">Maine Calling</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/schedule">Program Guide</a>
+<ul class="dropdown">
+<li class="left">
+<a href="/node/32146">Experience Magazine</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/topic/education">Education</a>
+<ul class="dropdown">
+<li class="left">
+<a href="/term/maine-education-project">Maine Education Project</a>
+</li>
+<li class="left">
+<a href="/term/raise-your-voice">Raise Your Voice</a>
+</li>
+<li class="left">
+<a href="http://mpbn.pbslearningmedia.org/">Maine Public-PBS Learning Media</a>
+</li>
+<li class="left">
+<a href="http://steminme.org/resources/" target="_blank">STEM Resource Bank</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/community-calendar">Events</a>
+<ul class="dropdown">
+<li class="left">
+<a href="/community-calendar">Community Calendar</a>
+</li>
+<li class="left">
+<a href="/node/39720">Voices of Giving 2016</a>
+</li>
+<li class="left">
+<a href="http://mainepublic.org/node/39398">SPEAK to ME</a>
+</li>
+<li class="left">
+<a href="/cuba">Visit Cuba with Maine Public</a>
+</li>
+<li class="left">
+<a href="/post/maine-public-digital-boot-camps">Digital Boot Camps</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/mission-maine-public-broadcasting-network">About</a>
+<ul class="dropdown">
+<li class="left">
+<a href="/support-0">Support</a>
+</li>
+<li class="left">
+<a href="/post/business-support">Business Support</a>
+</li>
+<li class="left">
+<a href="/post/major-giving">Major Giving</a>
+</li>
+<li class="left">
+<a href="/people/category/6">People</a>
+</li>
+<li class="left">
+<a href="/contact-us">Contact Us</a>
+</li>
+<li class="left">
+<a href="/topic/careers-maine-public">Careers</a>
+</li>
+<li class="left">
+<a href="/node/31761">Directions</a>
+</li>
+<li class="left">
+<a href="/topic/maine-public-board-trustees">Board of Trustees</a>
+</li>
+<li class="left">
+<a href="/community-advisiory-board">Community Advisory Board</a>
+</li>
+<li class="left">
+<a href="/charting-bold-future">Charting a Bold Future Campaign</a>
+</li>
+<li class="left">
+<a href="/strategic-plan-2013-2018">Strategic Plan 2013-2018</a>
+</li>
+<li class="left">
+<a href="/topic/maine-public-finances">Maine Public Finances</a>
+</li>
+<li class="left">
+<a href="/jim-dowe-internship-fund">Jim Dowe Public Media Internship</a>
+</li>
+<li class="left">
+<a href="/code-ethics">Code of Ethics</a>
+</li>
+<li class="left">
+<a href="/air-guidelines">On-Air Guidelines</a>
+</li>
+<li class="left">
+<a href="/annual-cpb-local-content-and-service-reports">CPB Annual Content Report</a>
+</li>
+<li class="left">
+<a href="/executive-management-team">Management Team</a>
+</li>
+<li class="left">
+<a href="/maine-public-diversity-policy">Diversity Policy</a>
+</li>
+<li class="left">
+<a href="/social-media-guidelines">Social Media Guidelines</a>
+</li>
+<li class="left">
+<a href="https://www.fcc.gov/media/radio/nature-of-educational-broadcasting" target="_blank">FCC Public Broadcasting Guidelines</a>
+</li>
+<li class="left">
+<a href="/topic/press-releases">Press Releases</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/search/google">Search</a>
+</li>
+</ul>
+</div>
+          </section>
+        </div>
+      </nav>
+    </div>
+      <div class="region region-persistent">
+    <div id="block-audity-audity" class="block block-audity">
+
+    
+  <div class="content">
+      </div>
+</div>
+  </div>
+    <div id="page-wrapper">
+            <div id="page-document" role="document" class="page">
+  <div class="nav-wrapper">
+    <nav>
+      <div class="top-bar contain-to-grid" data-topbar="">
+        <ul class="title-area">
+          <li class="toggle-topbar menu-icon">
+            <a href="#">Menu</a>
+          </li>
+        </ul>
+        <section class="top-bar-section">
+          <div class="table-queue" id="table-queue-fleximenu">
+  <ul class="menu dropdown">
+<li>
+<a href="/">Home</a>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/news">News</a>
+<ul class="dropdown">
+<li class="left">
+<a href="/term/maine">Maine</a>
+</li>
+<li class="left">
+<a href="/term/your-vote-2016">Your Vote 2016</a>
+</li>
+<li class="left">
+<a href="/term/mic">Steve Mistler's Off Mic Blog</a>
+</li>
+<li class="left">
+<a href="/category/politics">Politics</a>
+</li>
+<li class="left">
+<a href="/category/business">Business and Economy</a>
+</li>
+<li class="left">
+<a href="/category/science">Environment and Outdoors</a>
+</li>
+<li class="left">
+<a href="/term/health">Health</a>
+</li>
+<li class="left">
+<a href="/term/courts-and-crime">Courts and Crime</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/programs">Radio</a>
+<ul class="dropdown">
+<li class="left">
+<a href="/schedule">Maine Public Radio Schedule</a>
+</li>
+<li class="left">
+<a href="/schedule/classical">Maine Public Classical Schedule</a>
+</li>
+<li class="left">
+<a href="/where-hear-maine-public-radio">Where to Hear Maine Public Radio</a>
+</li>
+<li class="left">
+<a href="/where-hear-maine-public-classical">Where to Hear Maine Public Classical </a>
+</li>
+<li class="left">
+<a href="/programs">Radio Programs A-Z</a>
+</li>
+<li class="left">
+<a href="/programs/poems-here">Poems From Here</a>
+</li>
+<li class="left">
+<a href="/programs/maine-calling">Maine Calling</a>
+</li>
+<li class="left">
+<a href="/programs/maine-things-considered">Maine Things Considered</a>
+</li>
+<li class="left">
+<a href="/programs/day-maine">This Day in Maine</a>
+</li>
+<li class="left">
+<a href="/programs/morning-edition">Morning Edition</a>
+</li>
+<li class="left">
+<a href="/programs/speaking-maine">Speaking in Maine</a>
+</li>
+<li class="left">
+<a href="/programs/morning-classical-music-robin-rilette-0">Morning Classical Music with Robin Rilette</a>
+</li>
+<li class="left">
+<a href="/programs/tune">In Tune with Sara Willis</a>
+</li>
+<li class="left">
+<a href="/programs/jazz-tonight-rich-tozier">Jazz Tonight with Rich Tozier</a>
+</li>
+<li class="left">
+<a href="/programs/down-memory-lane">Down Memory Lane</a>
+</li>
+<li class="left">
+<a href="/programs/2-pm-public-affairs-programs">2:00 PM Public Affairs</a>
+</li>
+<li class="left">
+<a href="/node/39720">Voices of Giving</a>
+</li>
+<li class="left">
+<a href="/programs/music-moves-me">Music That Moves ME</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="http://video.mainepublic.org" target="_blank">Television</a>
+<ul class="dropdown">
+<li class="left">
+<a href="/mpbn-tv-schedule">Maine Public Television Schedule</a>
+</li>
+<li class="left">
+<a href="/where-watch-maine-public-television">Where to Watch Maine Public Television</a>
+</li>
+<li class="left">
+<a href="/programs/maine-public-community-films">Community Films</a>
+</li>
+<li class="left">
+<a href="http://video.mainepublic.org/show/out-and-about/" target="_blank">Out and About</a>
+</li>
+<li class="left">
+<a href="http://video.mainepublic.org/show/maine-sense-place/" target="_blank">A Maine Sense of Place</a>
+</li>
+<li class="left">
+<a href="http://video.mainepublic.org" target="_blank">PBS Video On-Demand/Passport</a>
+</li>
+<li class="left">
+<a href="/post/maine-public-passport">What is Maine Public Passport</a>
+</li>
+<li class="left">
+<a href="/post/high-school-quiz-show">High School Quiz Show</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/rss">Podcasts</a>
+<ul class="dropdown">
+<li class="left">
+<a href="/programs/day-maine">This Day in Maine</a>
+</li>
+<li class="left">
+<a href="/programs/poems-here">Poems from Here</a>
+</li>
+<li class="left">
+<a href="/programs/maine-calling">Maine Calling</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/schedule">Program Guide</a>
+<ul class="dropdown">
+<li class="left">
+<a href="/node/32146">Experience Magazine</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/topic/education">Education</a>
+<ul class="dropdown">
+<li class="left">
+<a href="/term/maine-education-project">Maine Education Project</a>
+</li>
+<li class="left">
+<a href="/term/raise-your-voice">Raise Your Voice</a>
+</li>
+<li class="left">
+<a href="http://mpbn.pbslearningmedia.org/">Maine Public-PBS Learning Media</a>
+</li>
+<li class="left">
+<a href="http://steminme.org/resources/" target="_blank">STEM Resource Bank</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/community-calendar">Events</a>
+<ul class="dropdown">
+<li class="left">
+<a href="/community-calendar">Community Calendar</a>
+</li>
+<li class="left">
+<a href="/node/39720">Voices of Giving 2016</a>
+</li>
+<li class="left">
+<a href="http://mainepublic.org/node/39398">SPEAK to ME</a>
+</li>
+<li class="left">
+<a href="/cuba">Visit Cuba with Maine Public</a>
+</li>
+<li class="left">
+<a href="/post/maine-public-digital-boot-camps">Digital Boot Camps</a>
+</li>
+</ul>
+</li>
+<li class="dd has-dropdown not-click">
+<a href="/mission-maine-public-broadcasting-network">About</a>
+<ul class="dropdown">
+<li class="left">
+<a href="/support-0">Support</a>
+</li>
+<li class="left">
+<a href="/post/business-support">Business Support</a>
+</li>
+<li class="left">
+<a href="/post/major-giving">Major Giving</a>
+</li>
+<li class="left">
+<a href="/people/category/6">People</a>
+</li>
+<li class="left">
+<a href="/contact-us">Contact Us</a>
+</li>
+<li class="left">
+<a href="/topic/careers-maine-public">Careers</a>
+</li>
+<li class="left">
+<a href="/node/31761">Directions</a>
+</li>
+<li class="left">
+<a href="/topic/maine-public-board-trustees">Board of Trustees</a>
+</li>
+<li class="left">
+<a href="/community-advisiory-board">Community Advisory Board</a>
+</li>
+<li class="left">
+<a href="/charting-bold-future">Charting a Bold Future Campaign</a>
+</li>
+<li class="left">
+<a href="/strategic-plan-2013-2018">Strategic Plan 2013-2018</a>
+</li>
+<li class="left">
+<a href="/topic/maine-public-finances">Maine Public Finances</a>
+</li>
+<li class="left">
+<a href="/jim-dowe-internship-fund">Jim Dowe Public Media Internship</a>
+</li>
+<li class="left">
+<a href="/code-ethics">Code of Ethics</a>
+</li>
+<li class="left">
+<a href="/air-guidelines">On-Air Guidelines</a>
+</li>
+<li class="left">
+<a href="/annual-cpb-local-content-and-service-reports">CPB Annual Content Report</a>
+</li>
+<li class="left">
+<a href="/executive-management-team">Management Team</a>
+</li>
+<li class="left">
+<a href="/maine-public-diversity-policy">Diversity Policy</a>
+</li>
+<li class="left">
+<a href="/social-media-guidelines">Social Media Guidelines</a>
+</li>
+<li class="left">
+<a href="https://www.fcc.gov/media/radio/nature-of-educational-broadcasting" target="_blank">FCC Public Broadcasting Guidelines</a>
+</li>
+<li class="left">
+<a href="/topic/press-releases">Press Releases</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/search/google">Search</a>
+</li>
+</ul>
+</div>
+        </section>
+      </div>
+    </nav>
+  </div>
+
+  <div id="player" class="player">
+      </div>
+
+  
+  
+  
+  
+  <div class="row">
+    <main id="content" role="main" class="main-content small-12 columns">
+      <article class="story">
+        <a id="main-content"></a>
+                            <h1 id="page-title" class="title page-title">Privacy Statement</h1>
+                  
+                                    
+        
+        
+        
+        
+        
+        
+                    <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1672" class="node node-page node-promoted full row" about="/privacy-statement" typeof="sioc:Item foaf:Document">
+  <div class="large-12 columns">
+            
+  </div>
+
+  <div class="content">
+    <div class="medium-9 columns">
+      <div class="field field-name-field-image-gallery field-type-image field-label-hidden"><div class="field-items"></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div>Maine Public is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Maine Public Web site and governs data collection and usage. By using the Maine Public website, you consent to the data practices described in this statement.</div> <div>&nbsp;</div> <div><strong>Collection of your Personal Information</strong></div> <div>&nbsp;</div> <div>Maine Public collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Maine Public also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.</div> <div>&nbsp;</div> <div>There is also information about your computer hardware and software that is automatically collected by Maine Public. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Maine Public for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Maine Public Web site.</div> <div>&nbsp;</div> <div>Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Maine Public public message boards, this information may be collected and used by others. Note: Maine Public does not read any of your private online communications.</div> <div>&nbsp;</div> <div>Maine Public encourages you to review the privacy statements of Web sites you choose to link to from Maine Public so that you can understand how those Web sites collect, use and share your information. Maine Public is not responsible for the privacy statements or other content on Web sites outside of the Maine Public and Maine Public family of Web sites.</div> <div>&nbsp;</div> <div><strong>Use of your Personal Information</strong></div> <div>&nbsp;</div> <div>Maine Public collects and uses your personal information to operate the Maine Public Web site and deliver the services you have requested. Maine Public also uses your personally identifiable information to inform you of other products or services available from Maine Public and its affiliates. Maine Public may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.</div> <div>&nbsp;</div> <div>Maine Public does not sell, rent or lease its customer lists to third parties. In addition, Maine Public may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Maine Public, and they are required to maintain the confidentiality of your information.</div> <div>&nbsp;</div> <div>Maine Public does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.</div> <div>&nbsp;</div> <div>Maine Public keeps track of the Web sites and pages our customers visit within Maine Public, in order to determine what Maine Public services are the most popular. This data is used to deliver customized content and advertising within Maine Public to customers whose behavior indicates that they are interested in a particular subject area.</div> <div>&nbsp;</div> <div>Maine Public Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Maine Public or the site; (b) protect and defend the rights or property of Maine Public; and, (c) act under exigent circumstances to protect the personal safety of users of Maine Public, or the public.</div> <div>&nbsp;</div> <div><strong>Use of Cookies</strong></div> <div>&nbsp;</div> <div>The Maine Public Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.</div> <div>&nbsp;</div> <div>One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Maine Public pages, or register with Maine Public site or services, a cookie helps Maine Public to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Maine Public Web site, the information you previously provided can be retrieved, so you can easily use the Maine Public features that you customized.</div> <div>&nbsp;</div> <div>You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Maine Public services or Web sites you visit.</div> <div>&nbsp;</div> <div><strong>Security of your Personal Information</strong></div> <div>&nbsp;</div> <div>Maine Public secures your personal information from unauthorized access, use or disclosure. Maine Public secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.</div> <div>&nbsp;</div> <div><strong>Changes to this Statement</strong></div> <div>&nbsp;</div> <div>Maine Public will occasionally update this Statement of Privacy to reflect company and customer feedback. Maine Public encourages you to periodically review this Statement to be informed of how Maine Public is protecting your information.</div> <div>&nbsp;</div> <div><strong>Contact Information</strong></div> <div>&nbsp;</div> <div>Maine Public welcomes your comments regarding this Statement of Privacy. If you believe that Maine Public has not adhered to this Statement, please e-mail webmaster@mainepublic.org. We will use commercially reasonable efforts to promptly determine and remedy the problem.</div> </div></div></div>    </div>  
+
+  </div>
+
+  
+</div>
+  </div>
+</div>
+  </div>
+              </article>
+    </main>
+  </div>
+
+      <section class="post-content">
+      <div>
+          <div class="region region-post-content">
+    <div id="block-pi-responsive-ads-mobile-1" class="block block-pi-responsive-ads">
+
+    
+  <div class="content">
+      </div>
+</div>
+  </div>
+      </div>
+    </section>
+  
+  <div class="bottom-ads">
+    <div class="bottom-ads-inner"></div>
+  </div>
+</div>
+
+<footer class="footer" role="contentinfo">
+  <div class="row">
+    <div class="footer-affiliate-container small-centered columns">
+                  <div class="region region-footer">
+    <div id="block-pi-table-queue-auxiliarylinksfooter" class="block block-pi-table-queue">
+
+    
+  <div class="content">
+    <div class="table-queue" id="table-queue-auxiliarylinksfooter">
+  <div class="item-list"><ul class="auxiliary-links"><li class="first"><span>© 2016 Maine Public</span></li>
+<li><a href="http://mainepublic.org/support-0" target="_self">Support</a></li>
+<li><a href="http://mainepublic.org/contact-us" target="_self">Contact Us</a></li>
+<li><a href="http://mainepublic.org/maine-public-broadcasting-network-website-terms-use" target="_self">Terms of Use</a></li>
+<li><a href="http://mainepublic.org/privacy-statement" target="_self">Privacy Statement</a></li>
+<li class="last"><a href="http://mainepublic.org/topic/careers-mpbn" target="_self">Careers</a></li>
+</ul></div></div>
+  </div>
+</div>
+  </div>
+          </div>
+  </div>
+</footer>
+      <script type="text/javascript">
+  var _sf_async_config=Drupal.settings.chartbeat;
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+ (function ($) { $(document).foundation({ topbar: { custom_back_text: true, back_text: 'back', mobile_show_parent_link: true } }); }(jQuery));
+//--><!]]>
+</script>
+    </div>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"15ba4da3e8","applicationID":"1108724","transactionName":"NlMBMhAECEZRAU1eDg8ZNhQLSg9bVAdBGREJRg==","queueTime":0,"applicationTime":14,"ttGuid":"","agentToken":"","atts":"GhQCRFgeG0g=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
