@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aupair.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405135723id_/https%3A//www.aupair.com/en/p-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aupair.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203204813id_/https%3A//www.aupair.com/en/p-privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy Agreement. - AuPair.com
 
-AuPair.com highly values the protection of your privacy and security. Aupair.com respects the legislation concerning privacy and personal data protection. AuPair.com abides by the governing laws of the Federal Republic of Germany and the European Union legislation.
+AuPair.com highly values the protection of your privacy and security. AuPair.com respects the legislation concerning privacy and personal data protection. AuPair.com abides by the governing laws of the Federal Republic of Germany and the European Union legislation.
 
 This Privacy Policy provides the user with all the measures taken to protect his/her privacy. Hereinafter are described, for the users and the visitors of AuPair.com website, the type of data collected, the reasons and the ways in which the data are treated and processed.
 
