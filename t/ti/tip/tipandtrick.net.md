@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipandtrick.net privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623081320id_/http%3A//www.tipandtrick.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipandtrick.net privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203055323id_/http%3A//www.tipandtrick.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tip and Trick
 
