@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codota.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322100049id_/http%3A//assets.codota.com/terms/codota_privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codota.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203212951id_/http%3A//assets.codota.com/terms/codota_privacy.pdf) for the most accurate reproduction.*
 
 # 
 
