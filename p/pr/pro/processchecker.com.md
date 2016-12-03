@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the processchecker.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530011140id_/http%3A//www.processchecker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the processchecker.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204005515id_/http%3A//www.processchecker.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Processchecker.com
 
