@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muscatdaily.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606002420id_/http%3A//www.muscatdaily.com/Archive/Stories-Files/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muscatdaily.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203170616id_/http%3A//www.muscatdaily.com/Archive/Stories-Files/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy- Muscatdaily
 
