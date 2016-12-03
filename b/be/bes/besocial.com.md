@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the besocial.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515115839id_/http%3A//www.besocial.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besocial.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203040110id_/http%3A//www.besocial.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BeSocial
 
@@ -12,7 +12,7 @@ Created: July 23, 2015
 
 Last Updated: July 23, 2015
 
-Belgrano, Ltd. respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the website, BeSocial.com ("Website") and our practices for collecting, using, keeping, protecting, and disclosing that information. 
+Protranstech BV DBA Netherlands Besloten vennootschap respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the website, BeSocial.com ("Website") and our practices for collecting, using, keeping, protecting, and disclosing that information. 
 
 This policy applies to information we collect:
 
