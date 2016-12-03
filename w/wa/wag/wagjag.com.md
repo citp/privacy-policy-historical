@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wagjag.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616201050id_/http%3A//metroland.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wagjag.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203055006id_/http%3A//metroland.com/privacy-policy) for the most accurate reproduction.*
 
 # Metroland Media | Privacy Policy
 
@@ -98,7 +98,7 @@ If you do not wish to receive Marketing Offers, you may opt-out at any time from
   * follow the instructions at the bottom of any email Marketing Offer you receive.
   * inform your telemarketer at the time you are called with a Marketing Offer.
   * call Customer Service at 1-866-287-6732 and request that your personal information not be used for Marketing Offers.
-  * email Customer Service at [privacyofficer@metroland.com](mainto:privacyofficer@metroland.com) and request that your personal information not be used for Marketing Offers.
+  * email Customer Service at [privacyofficer@metroland.com](mailto:privacyofficer@metroland.com) and request that your personal information not be used for Marketing Offers.
 
 
 
