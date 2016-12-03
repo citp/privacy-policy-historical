@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eloquii.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410150920id_/http%3A//www.eloquii.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eloquii.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203084111id_/http%3A//www.eloquii.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ELOQUII
 
@@ -38,8 +38,9 @@ We use your Information to:
   * contact you or the product recipient(s) in the event of order delay or difficulty,
   * deliver information through the various communication channels you have provided to us about our products or the Site, including adding you to our email list or to our customer phone and mail marketing list when you register for an account or make a purchase
   * send information about events, surveys, promotions and possibly contests to you,
+  * send text messages, with your consent, about events, surveys, promotions and other offers to you,
   * tailor your experience on the Site to your interests,
-  * develop and improve our products, services, and the Site, and
+  * develop and improve our products, services, and the Site, including fraud prevention and
   * respond to your inquiries.
 
 
@@ -50,6 +51,8 @@ We will use the Personal Information you provide in a career profile, including 
 
 With respect to emails we will use your Personal Information to send you exclusive information about special offers, media events, new products and much more. If at any time you would like to stop future delivery of emails from us, please follow the removal instructions located at the end of each message. Please note, however, that your request not to receive email information will not preclude us from contacting you by email or otherwise regarding questions we have about your purchase and other operational emails, such as shipping information.
 
+You may elect to receive text messages from us. When you sign up to receive text messages, we will send you information about special offers, new products and more. You may opt out of receiving text messages at any time by texting STOP to 33233. For more information about text messages, see our [Terms and Conditions.](http://www.eloquii.com/terms-of-use.html)
+
 We use the Personal Information collected on our Social Media Pages to send communications regarding our products, services, and promotions; to respond to your inquiries; to conduct surveys, sweepstakes or contests; to analyze your activity on our Social Media Pages and to develop our products and services.
 
 We may anonymize and aggregate data collected through the Site and use it for any purpose. Such information does not identify you inpidually.
@@ -58,15 +61,17 @@ Back to Top
 
 ### What Information does ELOQUII share with third parties?
 
-We may use third party vendors to assist us with the Site and our e-commerce business (“Third Party Vendors”). Some examples of the assistance that may be provided by third party service providers are: monitoring and analyzing Site activity, operations and marketing assistance, hosting the Site, assisting us with our Social Media Pages, processing orders, running promotions and events and surveys, maintaining our database, processing employment applications, providing fraud prevention services and administering and monitoring emails. It is possible that some of these service providers will be located outside of the United States. We will share your Information with these Third Party Vendors only as necessary for them to perform their functions and to the extent permitted by law. Use of your Information by these Third Party Vendors is governed by their own privacy policies and procedures and not by this Privacy Policy.
+**Vendors and Service Providers.** We may use third party vendors to assist us with the Site and our e-commerce business (“ **Third Party Vendors** ”). Some examples of the assistance that may be provided by third party service providers are: monitoring and analyzing Site activity, operations and marketing assistance, hosting the Site, assisting us with our Social Media Pages, processing orders, running promotions and events and surveys, maintaining our database, processing employment applications, providing fraud prevention services and administering and monitoring emails. It is possible that some of these service providers will be located outside of the United States. We will share your Information with these Third Party Vendors only as necessary for them to perform their functions and to the extent permitted by law. Use of your Information by these Third Party Vendors is governed by their own privacy policies and procedures and not by this Privacy Policy.
 
-We may share your Information with any of our parent companies, subsidiaries, joint ventures, or other companies under common control with us.
+**Parents and Affiliates.** We may share your Information with any of our parent companies, subsidiaries, joint ventures, or other companies under common control with us.
 
-When you send an email from the Site to a friend, we will send the recipient of the email your email address, message, and your selected outfit or item(s). We may include an opportunity for the recipient to sign up to receive promotional materials from us.
+**Cooperative Databases.** In connection with the distribution of our print catalogs and other marketing materials, we participate in cooperative data sharing databases. The participants of these databases provide customer names, mailing addresses and information about their customers’ purchasing history to the database vendor which allows the database participants to segment and/or obtain access to potentially interested parties to which they may wish to target their own promotions. If you do not wish to have your name, email address and mailing address released to these cooperative databases, you can opt-out by sending an email to [marketing@eloquii.com](mailto:marketing@eloquii.com).
 
-As we develop our businesses, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, financing due diligence, bankruptcy, receivership sale of assets, dissolution, transition of service to another provider, or similar event, some or all of the Information may be part of the transferred assets.
+**Email Referrals** When you send an email from the Site to a friend, we will send the recipient of the email your email address, message, and your selected outfit or item(s). We may include an opportunity for the recipient to sign up to receive promotional materials from us.
 
-To the extent permitted by law, we may also disclose Information when required by law, court order, or other government or law enforcement authority or regulatory agency, or whenever we believe that disclosing such information is necessary or advisable, for example, to protect the rights, property, or safety of us or others.
+**Business Transactions** As we develop our businesses, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, financing due diligence, bankruptcy, receivership sale of assets, dissolution, transition of service to another provider, or similar event, some or all of the Information may be part of the transferred assets.
+
+**Legal Requirements.** To the extent permitted by law, we may also disclose Information when required by law, court order, or other government or law enforcement authority or regulatory agency, or whenever we believe that disclosing such information is necessary or advisable, for example, to protect the rights, property, or safety of us or others.
 
 Back to Top
 
@@ -120,7 +125,7 @@ Back to Top
 
 ### Updates to Privacy Policy
 
-This Privacy Policy is effective as of the date stated at the bottom of this Privacy Policy. We may change this Privacy Policy from time to time, and will post any changes on the Site as they go into effect. By accessing the Site after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes. Please refer back to this Privacy Policy on a regular basis.
+This Privacy Policy is effective as of the date stated at the top of this Privacy Policy. We may change this Privacy Policy from time to time, and will post any changes on the Site as they go into effect. By accessing the Site after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes. Please refer back to this Privacy Policy on a regular basis.
 
 Back to Top
 
@@ -135,4 +140,4 @@ If you have additional questions or would like more information regarding our in
 
 
 
-This privacy policy was last updated December 18, 2015. 
+This privacy policy was last updated September 20, 2016. 
