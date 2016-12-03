@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alexarankingoptimization.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611164735id_/http%3A//alexarankingoptimization.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexarankingoptimization.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203150238id_/http%3A//alexarankingoptimization.com/index.php/privacy) for the most accurate reproduction.*
 
 # AlexaRankingOptimization.com : Alexa Traffic Exchange Platform
 
@@ -23,7 +23,7 @@ It may be necessary, if required by law or judicial or governmental investigatio
 
 * * *
 
-**1202**  
+**1208**  
 Total Websites Optimized
 
 |              | 
