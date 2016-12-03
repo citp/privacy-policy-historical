@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluesombrero.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618154041id_/http%3A//www.bluesombrero.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluesombrero.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203064922id_/http%3A//www.bluesombrero.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Blue Sombrero
 
