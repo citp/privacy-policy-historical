@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youthcentral.vic.gov.au privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420182845id_/http%3A//www.youthcentral.vic.gov.au/know-your-rights/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthcentral.vic.gov.au privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203131856id_/http%3A//www.youthcentral.vic.gov.au/know-your-rights/privacy) for the most accurate reproduction.*
 
 # Privacy Laws | What Are Privacy Laws? - Youth Central
 
@@ -67,7 +67,7 @@ If you're not satisfied **** with the way the organisation responds you have t
 
 ### 3\. If a Solution Fails or Isn't Possible
 
-If a solution to the problem is not possible, or if an attempt at a solution fails, your complaints may go to the [Victorian Civil and Administrative Appeals Tribunal (VCAT)](http://www.vcat.vic.gov.au/), the official body for complaint and dispute resolution in Victoria.
+If a solution to the problem is not possible, or if an attempt at a solution fails, your complaints may go to the [Victorian Civil and Administrative Appeals Tribunal (VCAT)](https://www.vcat.vic.gov.au/), the official body for complaint and dispute resolution in Victoria.
 
 ### 4\. What Happens if You Win the Dispute
 
@@ -86,14 +86,14 @@ The Office of the Commissioner for Privacy and Data Protection (formerly Priva
 
 It is an independent organisation whose goal is to get privacy better understood and respected, both inside and outside the Victorian Government.
 
-As part of this goal, the [Office of the Commissioner for Privacy and Data Protection's website](http://www.privacy.vic.gov.au/ "Privacy Victoria Website \(external link\)") (new window) has heaps of information about privacy, how to protect it, and what you can do if you think your privacy has been breached.
+As part of this goal, the [Office of the Commissioner for Privacy and Data Protection's website](https://www.cpdp.vic.gov.au/ "Privacy Victoria Website \(external link\)") (new window) has heaps of information about privacy, how to protect it, and what you can do if you think your privacy has been breached.
 
 ## Who Else Protects Your Privacy?
 
 There are other organisations in Australia that protect your privacy within other jurisdictions.
 
-  * The [Victorian Health Services Commissioner](http://www.health.vic.gov.au/hsc "Health Services Commissioner's website \(external link\)") (new window) protects the privacy of health information under the _Health Records Act_
-  * The [Federal Privacy Commissioner](http://www.privacy.gov.au/ "Privacy Australia Website \(external link\)") (new window) protects personal information held by federal government agencies, like Centrelink or the Tax Office, and private companies in Australia 
+  * The [Victorian Health Services Commissioner](http://www.health.vic.gov.au/hsc/ "Health Services Commissioner's website \(external link\)") (new window) protects the privacy of health information under the _Health Records Act_
+  * The [Federal Privacy Commissioner](https://www.oaic.gov.au/ "Privacy Australia Website \(external link\)") (new window) protects personal information held by federal government agencies, like Centrelink or the Tax Office, and private companies in Australia 
 
 
 
@@ -104,5 +104,5 @@ If you have a privacy complaint that relates to either the actions of the Federa
  **[Office of the Commissioner for Privacy and Data Protection](https://www.cpdp.vic.gov.au/)**  
 Regulating the way that the Victorian government and local councils collect and handle personal information, and handling complaints about the way your personal information has been handled.
 
- **[Victorian Civil and Administrative Appeals Tribunal (VCAT)](http://www.vcat.vic.gov.au/)**  
+ **[Victorian Civil and Administrative Appeals Tribunal (VCAT)](https://www.vcat.vic.gov.au/)**  
 Low cost, accessible and independent dispute resolution service available to all Victorians.
