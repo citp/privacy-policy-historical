@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skilljar.com privacy policy that was archived on 2016-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160206171430id_/https%3A//www.skilljar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skilljar.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203101428id_/https%3A//www.skilljar.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Skilljar
 
@@ -113,4 +113,4 @@ Please also feel free to contact us at legal@skilljar.com if you have any questi
 
 ### Your California Privacy Rights
 
-Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, certain information about the types of personal information the business has shared with third parties for those third parties’ direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year. You may make one request each year by emailing us at legal@skilljar.com or writing us at Skilljar Inc., 206 1st Ave S. #220, Seattle, WA 98104.
+Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, certain information about the types of personal information the business has shared with third parties for those third parties’ direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year. You may make one request each year by emailing us at legal@skilljar.com or writing us at Skilljar Inc., 512 2nd Ave, Suite #200, Seattle WA 98104.
