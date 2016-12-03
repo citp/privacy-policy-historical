@@ -1,106 +1,112 @@
-> *The following text is extracted and transformed from the clickability.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419081424id_/http%3A//www.clickability.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickability.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203154605id_/http%3A//uplandsoftware.com/privacy) for the most accurate reproduction.*
 
-# Clickability by Upland - Clickability
+# Privacy - Upland Software
 
-This privacy statement (“Privacy Policy”) covers all websites owned and operated by Clickability, Inc. (“Clickability”, “we”, “us”, “our”).  Clickability knows that you care about how your personal information is used and shared, and we take your privacy seriously.  Please read the following to learn more about our privacy policy.  By visiting the Clickability websites, submitting personal information or using any of our products or services, you are accepting the practices outlined in this Privacy Policy.
+**_Upland Software_**  
+**_Effective on July 23, 2015_**
 
-### What Does This Privacy Policy Cover?
+This privacy statement describes how Upland Software, Inc. (“Upland”, “We” or “Our”) collects and uses the personal information you provide on our Websites.  This also covers the Platforms within the aforementioned Websites and our Mobile Applications Tenrox Mobile and FileBound Touch.   This privacy statement describes the choices available to you regarding our use of your personal information and how you can access and modify this information.
 
-This Privacy Policy covers Clickability’s treatment of personal information that Clickability gathers when you are on the Clickability websites and when you use Clickability products or services.  Also, this Privacy Policy covers Clickability’s treatment of any personal information that Clickability’s business partners share with Clickability.  This policy does not apply to the practices of third parties that Clickability does not own or control, or to individuals that Clickability does not employ or manage.
+Upland Software, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) viewable on the validation page available by clicking the TRUSTe seal.  The TRUSTe program covers only information that is collected through our Websites, Platforms and Mobile Applications.  It does not cover information that may be collected through downloadable software and via support portals that link from the Websites except for the EclipsePPM Community.  If you have questions or complaints regarding our privacy statement or practices, please contact us at [privacy@uplandsoftware.com](mailto:privacy@uplandsoftware.com).  If you are not satisfied with our response, you can contact [TRUSTe here](http://uplandsoftware.com/privacy/).
 
-### What Personal Information About Users Does Clickability Collect?
+Upland Software Inc. complies with the U.S. – E.U. Safe Harbor Framework and the U.S. – Swiss Harbor as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union member countries and Switzerland.  Upland Software Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement.  To learn more about the Safe Harbor program and to view the Upland Software Inc. certification, visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/).
 
-Our primary goal in collecting personal information is to personalize and improve our websites and services. We collect the following types of personal information from users:
+## Collection and Use of Personal Information
 
-A)  Information You Provide to Us: 
+**We collect the following personal information from you:**
 
-    º We may receive and store any personal information you enter on our websites or provide to us in any other way. You can choose not to provide us with certain personal information, but then you may not be able to take advantage of certain site functionality and services.  The personal information you provide may be used for such purposes as responding to your requests for certain products and services, customizing the content you see, and communicating with you about specials, sales offers and new products.  We use links throughout our websites to provide you with the opportunit    y to contact us via e-mail for a variety of purposes (including without limitation business development, general inquiries and human resource inquires). Your human resource information will not be shared with a third party without your express consent.  We also collect and use personal information in the context of the services we provide to our customers.
+  * Contact information such as name, email address, mailing address and phone number
+  * As is true of most websites, we automatically gather information about your computer, such as your IP address, browser type, referring/exit pages and operating system, and general geo location (we do not collect precise geo location).  We may combine this automatically collected data with other information we collect about you.  We do this to improve marketing and analytics.
+  * Unique identifiers such as social security number, employee identification numbers and employee records
+  * Device identifiers such as system and performance information when you download and use our Mobile Applications
 
-    º Registration: Users of certain Clickability services must complete a registration form.  As part of this registration form, we require your first and last name, your e-mail address and other information as required by the specific registration form.
 
-B)   Automatic Information:
 
-    º We may receive and store certain types of information whenever you interact with us online.  Clickability may automatically receive and record certain “traffic data” on our server logs from your browser including your IP address, Clickability cookie information, and the page you requested.  Clickability uses this traffic data to help diagnose problems with its server, analyze trends and administer the websites.   
+You can log in to some of our Platforms by using sign-in services through our Client’s website.  These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up forms.
 
-    º We may capture information when you visit our websites for aggregate statistical analysis and website customization.  Aggregate statistical analysis means that we review trends based on information as a whole, but does not do so in an effort to identify the individual identity of the visitor. We collect your domain name (e.g. whether you are logged on from generic.com), referral data (e.g. we record the last URL you visited prior to clicking to a Clickability website), as well as browser and platform type (e.g., a Microsoft browser on a Macintosh platform). We also count, track and aggregate your activity into our analysis of general traffic flows at our websites (e.g., tracking where traffic comes from, how traffic flows within our websites etc.).
+Note that when you are using the Platforms, Upland collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal information it processes.
 
-    º  Many companies offer programs that help you to visit websites anonymously.  While Clickability will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
+**We use this information to:**
 
-(C)   E-mail Communications:
+  * Send you requested product or service information
+  * Respond to customer service requests
+  * Send you a newsletter and/or marketing emails
 
-    º  We may receive a confirmation when you open an e-mail from Clickability if your computer supports this type of program, in order to help us make e-mails more interesting and helpful.  We may also send out e-mails with news or promotions.  If you do not want to receive e-mail or other mail from us, please follow the instructions contained in that e-mail.
 
-### What about Cookies?
 
-     º  Cookies are alphanumeric identifiers that we may transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our websites are visited and by how many people.  Clickability cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your e-mail address is.  
+We use mobile analytics software to allow us to better understand the functionality of our mobile software on your phone.  This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from.  We do not link the information we store within the analytics software to any personally identifiable information you submit within the Mobile Applications.
 
-    º  The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies.  We strongly recommend that you leave the cookies activated, however, because cookies enable you to use some of Clickability’s products and services.
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider.  These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
-### Will Clickability Share Any of the Information it Receives?
+**Choice/Opt-Out**
 
-We neither rent nor sell your personal information to anyone.  We share your personal information only with your consent or as described below:
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [info@uplandsoftware.com](mailto:info@uplandsoftware.com).
 
-    º  Affiliated Business We Do Not Control:
+If you are a Client and would like to update your account, please contact us at [info@uplandsoftware.com](mailto:info@uplandsoftware.com).
 
-We are affiliated with a variety of businesses and work closely with them.  You can easily recognize when an affiliated business is associated with your transaction.  We will only share personal information that is necessary for the affiliate to complete the transaction.  We require our affiliates to provide the same level of privacy protection that we do and they do not have the right to share or use personal information for any purpose other than for an authorized transaction.
+If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly.  We may transfer personal information to companies that help us provide our service.  Transfers to subsequent third parties are covered by the service agreements with our Clients.
 
-    º Personnel:
+## Information Sharing
 
-Our personnel (including, for the avoidance of doubt, consultants and/or contractors) may have access to user information while carrying out their duties in the normal course of our company business.
+We will share your personal information with third parties only in the ways that are described in this privacy statement.  We do not sell your personal information to third parties.
 
-    º  Agents:
+We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service.  These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-We employ other companies and people to perform tasks on our behalf and need to share your personal information with them to provide products or services to you.  You hereby consent to our sharing of your personal information for the above purposes. 
+We may also disclose your personal information:
 
-    º Business Transfers:
+  * as required by law such as to comply with a subpoena or similar legal process,
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or respond to a government request,
+  * if Upland is involved in a merger, acquisition or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Websites of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+  * to any other third-party with your prior consent to do so.
 
-In some cases, we may choose to buy or sell assets.  In these types of transactions, user information is typically one of the business assets that is transferred.  Moreover, if Clickability, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred or acquired by a third party.
 
-   º Protection of Clickability and Others:
 
-We may release personal information when we believe in good faith that release is necessary to comply with that law; enforce or apply our Terms and Conditions and other agreements; or protect the rights, property, or safety of Clickability, our employees, our users or others.  This includes exchanging personal information with other companies and organizations for fraud protection and credit risk reduction.
+## Cookies and Other Tracking Technologies
 
-### Is Information About Me Secure?
+Technologies such as cookies, beacons, tags and scripts are used by Upland and our marketing partners, affiliates, analytics and business support service providers.  These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole.  We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-For users of certain Clickability services, your Clickability account information is protected by a password for your privacy and security.  You need to work to protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer.
+We use Local Storage Objects (LSOs) such as HTML5 and Flash to store content information and preferences.  Third parties with whom we partner to provide certain features on our site or to display advertising based upon your web browsing activity use LSOs such as HTML 5 and Flash to collect and store information.  Various browsers may offer their own management tools for removing HTML5 LSOs.  To manage Flash LSOs, please click the link below.
 
-    º  We use industry-standard Secure Socket Layer (SSL) software to protect the security of your personal information during transmission, which encrypts all of the personal information you input.
+<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
-    º  Only Clickability employees who need personal information to perform a specific job are granted access to it.  All of our employees are kept up to date on our privacy and security practices.
+## Customer Testimonials, Comments and Reviews
 
-### What Information Can I Access?
+We post customer testimonials, comments, and reviews on our Websites, which may contain personal information.  We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial.  If you wish to change or delete your testimonial, you can contact us at [info@uplandsoftware.com](mailto:info@uplandsoftware.com).
 
-For users of certain Clickability services, you can access your personal information on our websites and correct, amend, or delete personal information that is inaccurate.
+Our Websites also offers publicly accessible blogs or community forums.  You should be aware that any information you provide in these areas may be read, collected and used by others who access them.  To request removal of your personal information from our blog or community forum, contact us at [info@uplandsoftware.com](mailto:info@uplandsoftware.com).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-### What Choices Do I Have?
+## Links to Other Websites
 
-    º  As stated previously, you can always opt not to disclose personal information, but then you may be unable to use certain features on our websites or certain Clickability services.
+Our Website includes links to other websites whose privacy practices may differ from those of Upland.  If you submit personal information to any of those sites, your information is governed by their privacy statements.  We encourage you to carefully read the privacy statement of any website you visit.
 
-    º  For users of certain Clickability services, you may be able to add or update certain personal information.  When you update personal information, however, we often maintain a copy of the unrevised personal information in our records.  Please note that some personal information may remain in our records after deletion of your account.  
+Our Websites include Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our sites.  These Features may collect your IP address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly.  Social Media Features and Widgets are either hosted by a third-party or hosted directly on our website.  Your interactions with these Features are governed by the privacy statement of the company providing it.
 
-    º  If you do not wish to receive e-mail from us, please follow the instructions contained in that e-mail.  Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Clickability websites and applicable services, and you are responsible for reviewing such legal notices for changes.
+## Security
 
-    º  As explained earlier, the “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features. 
+The security of your personal information is important to us.  We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  Sensitive information such as user name and password used during log in is transmitted over the internet by using Secure Socket Layer (SSL) encryption.
 
-### Does Clickability Collect Personal Information from Children?
+No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-Clickability does not specifically collect personal information from children under 13 years of age.
+If you have any questions about security on our Websites, Platforms and Mobile Applications, you can contact us at [info@uplandsoftware.com](mailto:info@uplandsoftware.com).
 
-### Conditions of Use
+## Additional Policy Information
 
-If you decide to visit the Clickability websites, your visit and any possible dispute over privacy are subject to this Privacy Policy and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of California state law.
+## Updating/Accessing/Amending/Correcting Personal Information
 
-### Third Party Websites
+If your personal information changes or you no longer desire our service, you may correct, update, amend, delete, remove or deactivate it by making the change within your specific application instance, by emailing our Customer Support at [info@uplandsoftware.com,](mailto:info@uplandsoftware.com) or by contacting us by postal mail at the contact information listed below.  We will respond to your request to access within 2 days.
 
-The Clickability websites and services may permit you to link to other websites on the Internet, and other websites may contain links to the Clickability websites.  These other websites are not under Clickability control.  The privacy and security practices of websites linked to or from the Clickability websites and services are not covered by this Privacy Policy, and Clickability is not responsible for the privacy or security practices or the content of such websites.
+Since Upland has no direct relationship with the individuals whose personal data it processes, an individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to Upland’s Client (the data controller).  If the Client requests us to remove the data, we will respond to their request within 30 days.
 
-### Changes to this Privacy Policy
+We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.  We will also retain personal information we process on behalf of our Clients in the aforementioned manner.
 
-Clickability may amend this Privacy Policy from time to time, at its sole discretion.  Use of personal information we collect now is subject to the Privacy Policy in effect at the time such personal information is used.  If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Clickability websites so you are always aware of what personal information we collect, how we use it, and under what circumstances if any, it is disclosed.
+**Notification of Privacy Statement Changes**
 
-### Questions or Concerns
+We may update this privacy statement to reflect changes to our information practices.  If we make any material changes, we will notify you by email (sent to the email address specified in your account) or by means of a notice on this website prior to the change becoming effective.  We encourage you to periodically review this page for the latest information on our privacy practices.
 
-If you have any questions or concerns regarding privacy at the Clickability websites, please send a detailed message to privacy@uplandsoftware.com.  Your privacy is important to us and we will make every effort to resolve your concerns. 
+## Contact Information
 
-Effective Date of This Privacy Policy  
-This Privacy Policy is effective as of July 12, 2007.
+You can contact us via email at [info@uplandsoftware.com](mailto:info@uplandsoftware.com) or by writing us at the address below:
+
+Upland Software, Inc.  
+401 Congress Avenue, Suite 1850  
+Austin, Texas 78701
