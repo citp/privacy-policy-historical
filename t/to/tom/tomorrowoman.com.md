@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomorrowoman.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626192038id_/http%3A//www.tomorrowoman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomorrowoman.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203065537id_/http%3A//tomorrowoman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TomorroWoman
 
