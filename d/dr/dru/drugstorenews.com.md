@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugstorenews.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611231212id_/http%3A//www.drugstorenews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugstorenews.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203105516id_/http%3A//www.drugstorenews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Drug Store News
 
