@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slb.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628020041id_/https%3A//www.slb.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slb.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203111644id_/https%3A//www.slb.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Schlumberger General Web Site Privacy Statement | Schlumberger
 
