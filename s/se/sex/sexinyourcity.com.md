@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexinyourcity.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412192152id_/http%3A//fucknow.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy%26id%3Dfucknow%26prg%3D1%26tour%3D1%26pg%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexinyourcity.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203142600id_/http%3A//www.fucknow.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy%26id%3Dphppc_fnow%26prg%3D1%26tour%3D1%26pg%3D1) for the most accurate reproduction.*
 
 # 
 
