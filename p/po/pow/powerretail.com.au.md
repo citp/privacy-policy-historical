@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the powerretail.com.au privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529231301id_/http%3A//www.powerretail.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerretail.com.au privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203161425id_/http%3A//www.powerretail.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Power Retail
+# Privacy Policy |
 
 Privacy Policy
 
