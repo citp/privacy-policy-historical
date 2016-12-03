@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the drugfree.org privacy policy that was archived on 2016-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160604061538id_/http%3A//www.drugfree.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the drugfree.org privacy policy that was archived on 2016-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161203143839id_/http%3A//www.drugfree.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 <meta charset="UTF-8">
@@ -8,14 +8,12 @@
 <link rel="pingback" href="http://www.drugfree.org/xmlrpc.php">
 
 
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=273916269452880"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PL9TN5"></script><script crossorigin="" src="https://d37gvrvc0wt4s1.cloudfront.net/js/v1.8/rollbar.min.js"></script><script src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js" data-apikey="8573398d17bf08207b8a0fb9539fe36a"></script>
 
-
-
-
-
+ 
 
 <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=273916269452880"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PL9TN5"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug4BVFBbGwAAVlhSAAg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(13)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
 <!--  Mobile viewport scale -->
 <meta content="initial-scale=1.0, maximum-scale=1.0, user-scalable=yes" name="viewport">
@@ -33,10 +31,17 @@
 <meta name="twitter:title" content="Privacy - Partnership for Drug-Free Kids">
 <!-- / Yoast SEO plugin. -->
 
+<link rel="dns-prefetch" href="//www.drugfree.org">
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//widget.clipix.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//netdna.bootstrapcdn.com">
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.drugfree.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
-			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.drugfree.org/wp-includes/js/wp-emoji-release.min.js?ver=4.4.2" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.drugfree.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.drugfree.org/wp-includes/js/wp-emoji-release.min.js?ver=4.6.1" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -51,393 +56,105 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="dk_speakout_widget_css-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/speakout/css/widget.css?ver=4.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="awts_css-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/awesome-team-showcase/includes/front-style.css?ver=4.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="bbp-default-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.4-5380" type="text/css" media="screen">
-<link rel="stylesheet" id="bbpressmoderationstyle-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/bbpressmoderation/style.css?ver=4.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="bp-legacy-css-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/buddypress/bp-templates/bp-legacy/css/buddypress.css?ver=2.0.2" type="text/css" media="screen">
-<link rel="stylesheet" id="cptchpr_stylesheet-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/captcha-pro/css/style.css?ver=4.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="dashicons-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/css/dashicons.min.css?ver=4.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="cptchpr_desktop_style-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/captcha-pro/css/desktop_style.css?ver=4.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="events-manager-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.53" type="text/css" media="all">
-<link rel="stylesheet" id="jquery-ui-standard-css-css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/smoothness/jquery-ui.css?ver=4.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="smartcat_team_default_style-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/smartcat_our_team/inc/style/sc_our_team.css?ver=1.0" type="text/css" media="all">
-<link rel="stylesheet" id="jfb-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/wp-fb-autoconnect/style.css?ver=4.2.1" type="text/css" media="all">
-<link rel="stylesheet" id="woodojo_tabs-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/woodojo/bundled/woodojo-tabs/assets/css/style.css?ver=4.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="woodojo-social-widgets-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/woodojo/bundled/woodojo-social-widgets/assets/css/style.css?ver=4.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="style-fancybox-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/themes/drugfree/js/fancybox2/jquery.fancybox.css?ver=4.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="drugfree-fonts-css" href="http://fonts.googleapis.com/css?family=Libre+Baskerville%3A400%2C700%2C400italic&amp;ver=1.2" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css?ver=1.2" type="text/css" media="all">
-<link rel="stylesheet" id="canvas-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/themes/canvas/style.min.css?ver=1.2" type="text/css" media="all">
-<link rel="stylesheet" id="drugfree-theme-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/themes/drugfree/style.min.css?ver=1465020936" type="text/css" media="all">
-<link rel="stylesheet" id="select2-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/themes/drugfree/lib/css/select2.min.css?ver=1.2" type="text/css" media="all">
+<link rel="stylesheet" id="dk_speakout_widget_css-css" href="http://www.drugfree.org/wp-content/plugins/speakout/css/widget.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="awts_css-css" href="http://www.drugfree.org/wp-content/plugins/awesome-team-showcase/includes/front-style.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="bbp-default-css" href="http://www.drugfree.org/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.4-5380" type="text/css" media="screen">
+<link rel="stylesheet" id="bbpressmoderationstyle-css" href="http://www.drugfree.org/wp-content/plugins/bbpressmoderation/style.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="bp-legacy-css-css" href="http://www.drugfree.org/wp-content/plugins/buddypress/bp-templates/bp-legacy/css/buddypress.css?ver=2.0.2" type="text/css" media="screen">
+<link rel="stylesheet" id="cptchpr_stylesheet-css" href="http://www.drugfree.org/wp-content/plugins/captcha-pro/css/style.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="http://www.drugfree.org/wp-includes/css/dashicons.min.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="cptchpr_desktop_style-css" href="http://www.drugfree.org/wp-content/plugins/captcha-pro/css/desktop_style.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="events-manager-css" href="http://www.drugfree.org/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.53" type="text/css" media="all">
+<link rel="stylesheet" id="smartcat_team_default_style-css" href="http://www.drugfree.org/wp-content/plugins/smartcat_our_team/inc/style/sc_our_team.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="jfb-css" href="http://www.drugfree.org/wp-content/plugins/wp-fb-autoconnect/style.css?ver=4.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="woodojo_tabs-css" href="http://www.drugfree.org/wp-content/plugins/woodojo/bundled/woodojo-tabs/assets/css/style.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="woodojo-social-widgets-css" href="http://www.drugfree.org/wp-content/plugins/woodojo/bundled/woodojo-social-widgets/assets/css/style.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="drugfree-fonts-css" href="http://fonts.googleapis.com/css?family=Libre+Baskerville%3A400%2C700%2C400italic&amp;ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="canvas-css" href="http://www.drugfree.org/wp-content/themes/canvas/style.min.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="drugfree-theme-css" href="http://www.drugfree.org/wp-content/themes/drugfree/style.min.css?ver=1480775919" type="text/css" media="all">
+<link rel="stylesheet" id="select2-css" href="http://www.drugfree.org/wp-content/themes/drugfree/lib/css/select2.min.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-ui-css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css?ver=1.11.4" type="text/css" media="all">
 <!--[if lte IE 8]>
-<link rel='stylesheet' id='drugfree-ie8-css'  href='http://drugfree.scdn1.secure.raxcdn.com/wp-content/themes/drugfree/css/lte-ie8.min.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='drugfree-ie8-css'  href='http://www.drugfree.org/wp-content/themes/drugfree/css/lte-ie8.min.css?ver=1.2' type='text/css' media='all' />
 <![endif]-->
 <!--[if IE 9]>
-<link rel='stylesheet' id='drugfree-ie9-css'  href='http://drugfree.scdn1.secure.raxcdn.com/wp-content/themes/drugfree/css/ie9.min.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='drugfree-ie9-css'  href='http://www.drugfree.org/wp-content/themes/drugfree/css/ie9.min.css?ver=1.2' type='text/css' media='all' />
 <![endif]-->
-<link rel="stylesheet" id="drugfree-widgets-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/drugfree/css/drugfree-widgets.css?ver=1.3" type="text/css" media="all">
-<link rel="stylesheet" id="woo-layout-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/themes/canvas/css/layout.css?ver=4.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="gforms_reset_css-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/gravityforms/css/formreset.min.css?ver=1.9.18" type="text/css" media="all">
-<link rel="stylesheet" id="gforms_formsmain_css-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/gravityforms/css/formsmain.min.css?ver=1.9.18" type="text/css" media="all">
-<link rel="stylesheet" id="gforms_ready_class_css-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/gravityforms/css/readyclass.min.css?ver=1.9.18" type="text/css" media="all">
-<link rel="stylesheet" id="gforms_browsers_css-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/gravityforms/css/browsers.min.css?ver=1.9.18" type="text/css" media="all">
-<link rel="stylesheet" id="drugfree-print-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/themes/drugfree/css/print.min.css" type="text/css" media="print">
-<link rel="stylesheet" id="jetpack_css-css" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.9.6" type="text/css" media="all">
+<link rel="stylesheet" id="drugfree-widgets-css" href="http://www.drugfree.org/wp-content/plugins/drugfree/css/drugfree-widgets.css?ver=1.5" type="text/css" media="all">
+<link rel="stylesheet" id="woo-layout-css" href="http://www.drugfree.org/wp-content/themes/canvas/css/layout.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="drugfree-print-css" href="http://www.drugfree.org/wp-content/themes/drugfree/css/print.min.css" type="text/css" media="print">
+<link rel="stylesheet" id="jetpack_css-css" href="http://www.drugfree.org/wp-content/plugins/jetpack/css/jetpack.css?ver=3.9.6" type="text/css" media="all">
 <!--[if lt IE 9]>
-<link href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/themes/canvas/css/non-responsive.css" rel="stylesheet" type="text/css" />
+<link href="http://www.drugfree.org/wp-content/themes/canvas/css/non-responsive.css" rel="stylesheet" type="text/css" />
 <style type="text/css">.col-full, #wrapper { width: 960px; max-width: 960px; } #inner-wrapper { padding: 0; } body.full-width #header, #nav-container, body.full-width #content, body.full-width #footer-widgets, body.full-width #footer { padding-left: 0; padding-right: 0; } body.fixed-mobile #top, body.fixed-mobile #header-container, body.fixed-mobile #footer-container, body.fixed-mobile #nav-container, body.fixed-mobile #footer-widgets-container { min-width: 960px; padding: 0 1em; } body.full-width #content { width: auto; padding: 0 1em;}</style>
 <![endif]-->
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var dk_speakout_widget_js = {"ajaxurl":"http:\/\/www.drugfree.org\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/speakout/js/widget.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-content/plugins/speakout/js/widget.js?ver=4.6.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var BP_DTheme = {"accepted":"Accepted","close":"Close","comments":"comments","leave_group_confirm":"Are you sure you want to leave this group?","mark_as_fav":"Favorite","my_favs":"My Favorites","rejected":"Rejected","remove_fav":"Remove Favorite","show_all":"Show all","show_all_comments":"Show all comments for this thread","show_x_comments":"Show all %d comments","unsaved_changes":"Your profile has unsaved changes. If you leave the page, the changes will be lost.","view":"View"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/buddypress/bp-templates/bp-legacy/js/buddypress.js?ver=2.0.2"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-content/plugins/buddypress/bp-templates/bp-legacy/js/buddypress.js?ver=2.0.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var BP_Confirm = {"are_you_sure":"Are you sure?"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/buddypress/bp-core/js/confirm.min.js?ver=2.0.2"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-content/plugins/buddypress/bp-core/js/confirm.min.js?ver=2.0.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var cptchpr_vars = {"nonce":"5d0aa2ac49","ajaxurl":"http:\/\/www.drugfree.org\/wp-admin\/admin-ajax.php","enlarge":"0","is_la_pro":""};
+var cptchpr_vars = {"nonce":"a35b11dc81","ajaxurl":"http:\/\/www.drugfree.org\/wp-admin\/admin-ajax.php","enlarge":"0","is_la_pro":""};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/captcha-pro/js/front_end_script.js?ver=4.4.2"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-content/plugins/captcha-pro/js/front_end_script.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4"></script>
+<script type="text/javascript">
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-includes/js/wp-a11y.min.js?ver=4.6.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No search results.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var EM = {"ajaxurl":"http:\/\/www.drugfree.org\/wp-admin\/admin-ajax.php","locationajaxurl":"http:\/\/www.drugfree.org\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"mm\/dd\/yy","ui_css":"http:\/\/www.drugfree.org\/wp-content\/plugins\/events-manager\/includes\/css\/ui-lightness.css","show24hours":"0","is_ssl":"","bookingInProgress":"Please wait while the booking is being submitted.","tickets_save":"Save Ticket","bookingajaxurl":"http:\/\/www.drugfree.org\/wp-admin\/admin-ajax.php","bookings_export_save":"Export Bookings","bookings_settings_save":"Save Settings","booking_delete":"Are you sure you want to delete?","bb_full":"Sold Out","bb_book":"Purchase Now","bb_booking":"Purchasing...","bb_booked":"Purchase Submitted","bb_error":"Purchase Error. Try again?","bb_cancel":"Cancel","bb_canceling":"Canceling...","bb_cancelled":"Cancelled","bb_cancel_error":"Cancellation Error. Try again?","txt_search":"Search Events","txt_searching":"Searching...","txt_loading":"Loading...","event_reschedule_warning":"Are you sure you want to reschedule this recurring event? If you do this, you will lose all booking information and the old recurring events will be deleted.","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash.","disable_bookings_warning":"Are you sure you want to disable bookings? If you do this and save, you will lose all previous bookings. If you wish to prevent further bookings, reduce the number of spaces available to the amount of bookings you currently have","booking_warning_cancel":"Are you sure you want to cancel your purchase?","cache":"1","mb_redirect":"http:\/\/www.drugfree.org\/?post_type=page&p=38319","mb_empty_cart":"Are you sure you want to empty your cart?"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.53"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/events-manager-pro/includes/js/events-manager-pro.js?ver=4.4.2"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/smartcat_our_team/inc/script/hc.js?ver=1.0"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/smartcat_our_team/inc/script/carousel.js?ver=1.0"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/smartcat_our_team/inc/script/sc_our_team.js?ver=1.0"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/woodojo/bundled/woodojo-tabs/assets/js/functions.js?ver=1.0.0"></script>
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54e7686f03b1462d"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/gravityforms/js/jquery.json.js?ver=1.9.18"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=1.9.18"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.53"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-content/plugins/events-manager-pro/includes/js/events-manager-pro.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-content/plugins/smartcat_our_team/inc/script/hc.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-content/plugins/smartcat_our_team/inc/script/carousel.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-content/plugins/smartcat_our_team/inc/script/sc_our_team.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-content/plugins/woodojo/bundled/woodojo-tabs/assets/js/functions.js?ver=1.0.0"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-content/plugins/drugfree/js/drugfree-breaking-news.js?ver=1.0"></script>
 <link rel="https://api.w.org/" href="http://www.drugfree.org/wp-json/">
 <link rel="alternate" type="application/json+oembed" href="http://www.drugfree.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.drugfree.org%2Fprivacy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://www.drugfree.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.drugfree.org%2Fprivacy%2F&amp;format=xml">
 
 	<script type="text/javascript">var ajaxurl = 'http://www.drugfree.org/wp-admin/admin-ajax.php';</script>
 
-<script type="text/javascript">
-jQuery(document).ready(function($) {
-	var foo = 'wmode=transparent';
-
-$('iframe').attr('src', function(index, attr) {
-    return attr + '&' + foo;
-});  
-
-$('.job_description').hide();
-
-$('.grey_button a').toggle(function() {
-    $(this)
-        .closest('li')
-        .find('.job_description')
-        .slideDown();
-    return false;
-}, function() {
-    $(this)
-        .closest('li')
-        .find('.job_description')
-        .slideUp();
-    return false;
-});
-
-$('a .img_plus').click(function() { 
-      var _this = $(this);
-      var current = _this.attr('src');
-      var swap = _this.attr('data-swap');     
-     _this.attr('src', swap).attr('data-swap',current);   
-});  
-
-
- $('.gchoice_2_0').click(function () {
-	$('#field_2_47').hide();
-        $('#field_2_46').hide();
-        $('#field_2_48').hide();
-		$('#field_2_26').hide();
-	});
-  $('.gchoice_2_1').click(function () {
-	$('#field_2_47').css('display','list-item');
-        $('#field_2_46').hide();
-        $('#field_2_48').hide();
-        $('#field_2_26').hide();
-											
-    	});
- $('.gchoice_2_2').click(function () {
-	$('#field_2_47').hide();
-        $('#field_2_46').css('display','list-item');
-        $('#field_2_48').css('display','list-item');
-	$('#field_2_26').css('display','list-item');										
-    	});
-	$('#tb-box4-box1,#tb-box4-box2,#tb-box4-box3').hide();
-		$('.bw-box-1-inner, .bw-box-2-inner, .bw-box-3-inner, .bw-box-4-inner').hide();	
-		$('.bw-box-1-outer').mouseenter(function () {
-			$('.bw-box-1-inner').fadeIn();										
-        });
-	    $('.bw-box-1-inner-text').mouseleave(function () {		
-			$('.bw-box-1-inner').fadeOut(300);										
-        });				
-		$('.bw-box-2-outer').mouseenter(function () {
-			$('.bw-box-2-inner').fadeIn();										
-        });
-	    $('.bw-box-2-inner-text').mouseleave(function () {		
-			$('.bw-box-2-inner').fadeOut(300);										
-        });	
-		$('.bw-box-3-outer').mouseenter(function () {
-			$('.bw-box-3-inner').fadeIn();										
-        });
-	    $('.bw-box-3-inner-text').mouseleave(function () {		
-			$('.bw-box-3-inner').fadeOut(300);												
-        });	
-		$('.bw-box-4-outer').mouseenter(function () {
-			$('.bw-box-4-inner').fadeIn();										
-        });
-	    $('.bw-box-4-inner').mouseleave(function () {		
-			$(this).fadeOut();										
-        });
-		$('.bw-box-2,.bw-box-3,.bw-box-4').hide();
-	
-		$('.teen-brain-link').first().addClass('active');		
-		$('.teen-brain-link').mouseenter(function () {			
-			$(this).animate({left: '-40px'}, 300);										
-        });		    			
-		$('.teen-brain-link').mouseleave(function () {
-			$(this).animate({left: '0px'}, 300);								
-        });	
-		$('#tb-box2,#tb-box3,#tb-box4').hide();		
-		$('.tb-main-container').css({'background-image':'url(/wp-content/uploads/2014/06/t-brain-bg-5.jpg)','background-repeat':'no-repeat'});
-		$('#slider-div1').click(function () {
-			$('#tb-box1').show();
-			$('.tb-main-container').css({'background-image':'url(/wp-content/uploads/2014/06/t-brain-bg-5.jpg)','background-repeat':'no-repeat'});		
-			$('.link-container').find('.teen-brain-link');
-			$(this).removeClass('teen-brain-link').addClass('teen-brain-link-active');
-			$('#slider-div2,#slider-div3,#slider-div4').removeClass('teen-brain-link-active').addClass('teen-brain-link');		
-			$('#tb-box2,#tb-box3,#tb-box4').hide();	
-			$('#tb-box2-box1-grow').css({'width':'111px','height':'48px', top:'-70px', left:'5px','font-size':'14px'});
-			$('#tb-box2-box2-grow').css({'width':'93px','height':'28px', top:'-165px', left:'110px','font-size':'14px'});
-			$('#tb-box2-box3-grow').css({'width':'120px','height':'28px', top:'-177px', left:'250px','font-size':'14px'});	
-			$('#tb-box2-box4-grow').css({'width':'113px','height':'30px', top:'-122px', left:'310px','font-size':'14px'});	
-			$('#tb-box4-box1,#tb-box4-box2,#tb-box4-box3').hide();									
-    	});	
-		$('#slider-div2').click(function () {
-			$('#tb-box2').show();
-			$('.tb-main-container').css({'background-image':'url(/wp-content/uploads/2014/06/t-brain-bg-3.jpg)','background-repeat':'no-repeat'});
-			$('#tb-box2-box1-grow').css('display','block').animate({height: '63px',width: '147px', fontSize:'18px', top:'-80px', left:'5px'},2000);
-			$('#tb-box2-box2-grow').css('display','block').animate({height: '36px',width: '121px', fontSize:'18px', top:'-187px', left:'90px'},2000);
-			$('#tb-box2-box3-grow').css('display','block').animate({height: '36px',width: '156px', fontSize:'18px', top:'-205px', left:'230px'},2000);
-			$('#tb-box2-box4-grow').css('display','block').animate({height: '19px',width: '79px', fontSize:'11px', top:'-150px', left:'355px'},2000);
-			$('.link-container').find('.teen-brain-link');
-			$(this).removeClass('teen-brain-link').addClass('teen-brain-link-active');
-			$('#slider-div1').removeClass('teen-brain-link-active').removeClass('active').addClass('teen-brain-link');
-			$('#slider-div3,#slider-div4').removeClass('teen-brain-link-active').addClass('teen-brain-link');		
-			$('#tb-box1,#tb-box3,#tb-box4').hide();	
-			$('#tb-box4-box1,#tb-box4-box2,#tb-box4-box3').hide();											
-   		 });	 	
-		$('#slider-div3').click(function () {
-			$('#tb-box3').show();
-			$('.tb-main-container').css('background-image','url(/wp-content/uploads/2014/06/t-brain-bg-1.jpg)').css('background-repeat','no-repeat');
-			$('.link-container').find('.teen-brain-link');
-			$(this).removeClass('teen-brain-link').addClass('teen-brain-link-active');
-			$('#slider-div2').removeClass('teen-brain-link-active').addClass('teen-brain-link');
-			$('#slider-div1').removeClass('teen-brain-link-active').removeClass('active').addClass('teen-brain-link');
-			$('#slider-div4').removeClass('teen-brain-link-active').addClass('teen-brain-link');
-			$('#tb-box1,#tb-box2,#tb-box4').hide();	
-			$('#tb-box2-box1-grow').css({'width':'111px','height':'48px', top:'-70px', left:'5px','font-size':'14px'});
-			$('#tb-box2-box2-grow').css({'width':'93px','height':'28px', top:'-165px', left:'110px','font-size':'14px'});
-			$('#tb-box2-box3-grow').css({'width':'120px','height':'28px', top:'-177px', left:'250px','font-size':'14px'});	
-			$('#tb-box2-box4-grow').css({'width':'113px','height':'30px', top:'-122px', left:'310px','font-size':'14px'});	
-			$('#tb-box4-box1,#tb-box4-box2,#tb-box4-box3').hide();												
-    	});
-		$('#slider-div4').click(function () {
-			$('#tb-box4').show();
-			$('.tb-main-container').css({'background-image':'url(/wp-content/uploads/2014/06/t-brain-bg-4.jpg)','background-repeat':'no-repeat'});
-			$('.link-container').find('.teen-brain-link');
-			$(this).removeClass('teen-brain-link').addClass('teen-brain-link-active');
-			$('#slider-div2,#slider-div3').removeClass('teen-brain-link-active').addClass('teen-brain-link');		
-			$('#slider-div1').removeClass('teen-brain-link-active').removeClass('active').addClass('teen-brain-link');
-			$('#tb-box4-box1,#tb-box4-box2,#tb-box4-box3').fadeIn(1000);
-			$('#tb-box1,#tb-box2,#tb-box3').hide();	
-			$('#tb-box2-box1-grow').css({'width':'111px','height':'48px', top:'-70px', left:'5px','font-size':'14px'});
-			$('#tb-box2-box2-grow').css({'width':'93px','height':'28px', top:'-165px', left:'110px','font-size':'14px'});
-			$('#tb-box2-box3-grow').css({'width':'120px','height':'28px', top:'-177px', left:'250px','font-size':'14px'});	
-			$('#tb-box2-box4-grow').css({'width':'113px','height':'30px', top:'-122px', left:'310px','font-size':'14px'});										
-    	
-														
-    	});
-		
-		$('#helplineFormBtn').click(function () {
-			$('#helplineForm').show();
-											
-    	});
-		$('.close-help-form').click(function () {
-			$('#helplineForm').hide();
-											
-    	});
-  //on load
-    hideDiv();
-
-    //on resize
-    $(window).resize(function(){
-        hideDiv();
-
-    });
-		
-  function hideDiv(){
-
-    if ($(window).width() < 750) {
-
-            $('.slides-mobile').show();
-
-    }else{
-
-        $('.slides-mobile').hide();
-
-    }
-
-}
-	$(function() {
-		var slider  = $('#slider');
-		slider.slider({
-			value: 0,
-			slide: function(event, ui) { //When the slider is sliding
-				var value  = slider.slider('value'),
-					brainSprite = $('.brainSprite');						
-				
-				if(value <= 1) { 
-					brainSprite.css('background-position', '0 0');
-				} 
-				else if (value <= 3) {
-					brainSprite.css('background-position', '0 -165px');
-				}
-				else if (value <= 6) {
-					brainSprite.css('background-position', '0 -330px');
-				}
-				else if (value <= 9) {
-					brainSprite.css('background-position', '0 -495px');
-				}
-				else if (value <= 12) {
-					brainSprite.css('background-position', '0 -660px');
-				}
-				else if (value <= 15) {
-					brainSprite.css('background-position', '0 -825px');
-				}
-				else if (value <= 18) {
-					brainSprite.css('background-position', '0 -990px');
-				}					
-				else if (value <= 21) {
-					brainSprite.css('background-position', '0 -1155px');
-				}
-				else if (value <= 24) {
-					brainSprite.css('background-position', '0 -1320px');
-				}
-				else if (value <= 27) {
-					brainSprite.css('background-position', '0 -1485px');
-				}
-				else if (value <= 30) {
-					brainSprite.css('background-position', '0 -1650px');
-				}
-				else if (value <= 33) {
-					brainSprite.css('background-position', '0 -1815px');
-				}
-				else if (value <= 36) {
-					brainSprite.css('background-position', '0 -1980px');
-				}
-				else if (value <= 39) {
-					brainSprite.css('background-position', '0 -2145px');
-				}
-				else if (value <= 42) {
-					brainSprite.css('background-position', '0 -2310px');
-				}
-				else if (value <= 45) {
-					brainSprite.css('background-position', '0 -2475px');
-				}
-				else if (value <= 48) {
-					brainSprite.css('background-position', '0 -2640px');
-				}
-				else if (value <= 51) {
-					brainSprite.css('background-position', '0 -2805px');
-				}
-				else if (value <= 54) {
-					brainSprite.css('background-position', '0 -2970px');
-				}
-				else if (value <= 57) {
-					brainSprite.css('background-position', '0 -3135px');
-				}
-				else if (value <= 60) {
-					brainSprite.css('background-position', '0 -3300px');
-				}
-				else if (value <= 63) {
-					brainSprite.css('background-position', '0 -3465px');
-				}
-				else if (value <= 66) {
-					brainSprite.css('background-position', '0 -3630px');
-				}
-				else if (value <= 69) {
-					brainSprite.css('background-position', '0 -3795px');
-				}
-				else if (value <= 72) {
-					brainSprite.css('background-position', '0 -3960px');
-				}
-				else if (value <= 75) {
-					brainSprite.css('background-position', '0 -4125px');
-				}
-				else if (value <= 78) {
-					brainSprite.css('background-position', '0 -4290px');
-				}
-				else if (value <= 81) {
-					brainSprite.css('background-position', '0 -4455px');
-				}
-				else if (value <= 85) {
-					brainSprite.css('background-position', '0 -4620px');
-				}
-				else if (value <= 88) {
-					brainSprite.css('background-position', '0 -4785px');
-				} 
-				else if (value <= 91) {
-					brainSprite.css('background-position', '0 -4950px');
-				} 
-				else if (value <= 94) {
-					brainSprite.css('background-position', '0 -5115px');
-				}
-				else {
-					brainSprite.css('background-position', '0 -5280px');
-				
-				};
-			},				
-		});
-	});	
-});
-</script>
         <style>
             #sc_our_team a,
             .sc_our_team_lightbox .name,
@@ -494,18 +211,27 @@ $('a .img_plus').click(function() {
 		</style>
 				<style type="text/css">
 			.em-coupon-code { width:150px; }
-			#em-coupon-loading { display:inline-block; width:16px; height: 16px; margin-left:4px; background:url(http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/events-manager-pro/includes/images/spinner.gif)}
+			#em-coupon-loading { display:inline-block; width:16px; height: 16px; margin-left:4px; background:url(http://www.drugfree.org/wp-content/plugins/events-manager-pro/includes/images/spinner.gif)}
 			.em-coupon-message { display:inline-block; margin:5px 0px 0px 105px; text-indent:22px; }
-			.em-coupon-success { color:green; background:url(http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/events-manager-pro/includes/images/success.png) 0px 0px no-repeat }
-			.em-coupon-error { color:red; background:url(http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/events-manager-pro/includes/images/error.png) 0px 0px no-repeat }
+			.em-coupon-success { color:green; background:url(http://www.drugfree.org/wp-content/plugins/events-manager-pro/includes/images/success.png) 0px 0px no-repeat }
+			.em-coupon-error { color:red; background:url(http://www.drugfree.org/wp-content/plugins/events-manager-pro/includes/images/error.png) 0px 0px no-repeat }
 			.em-cart-coupons-form .em-coupon-message{ margin:5px 0px 0px 0px; }
 			#em-coupon-loading { margin-right:4px; }	
 		</style>
 		
-<link rel="dns-prefetch" href="//i0.wp.com">
-<link rel="dns-prefetch" href="//i1.wp.com">
-<link rel="dns-prefetch" href="//i2.wp.com">
-<style type="text/css">img#wpstats{display:none}</style>
+<script>
+    var _rollbarConfig = {
+        accessToken: "3c63014d4d5e43ff9e97892198d25273",
+        captureUncaught: true,
+        payload: {
+            environment: "production"
+        }
+    };
+    // Rollbar Snippet
+    !function(r){function o(e){if(t[e])return t[e].exports;var n=t[e]={exports:{},id:e,loaded:!1};return r[e].call(n.exports,n,n.exports,o),n.loaded=!0,n.exports}var t={};return o.m=r,o.c=t,o.p="",o(0)}([function(r,o,t){"use strict";var e=t(1).Rollbar,n=t(2);_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://d37gvrvc0wt4s1.cloudfront.net/js/v1.8/rollbar.min.js";var a=e.init(window,_rollbarConfig),i=n(a,_rollbarConfig);a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,i)},function(r,o){"use strict";function t(r){return function(){try{return r.apply(this,arguments)}catch(o){try{console.error("[Rollbar]: Internal error",o)}catch(t){}}}}function e(r,o,t){window._rollbarWrappedError&&(t[4]||(t[4]=window._rollbarWrappedError),t[5]||(t[5]=window._rollbarWrappedError._rollbarContext),window._rollbarWrappedError=null),r.uncaughtError.apply(r,t),o&&o.apply(window,t)}function n(r){var o=function(){var o=Array.prototype.slice.call(arguments,0);e(r,r._rollbarOldOnError,o)};return o.belongsToShim=!0,o}function a(r){this.shimId=++s,this.notifier=null,this.parentShim=r,this._rollbarOldOnError=null}function i(r){var o=a;return t(function(){if(this.notifier)return this.notifier[r].apply(this.notifier,arguments);var t=this,e="scope"===r;e&&(t=new o(this));var n=Array.prototype.slice.call(arguments,0),a={shim:t,method:r,args:n,ts:new Date};return window._rollbarShimQueue.push(a),e?t:void 0})}function l(r,o){if(o.hasOwnProperty&&o.hasOwnProperty("addEventListener")){var t=o.addEventListener;o.addEventListener=function(o,e,n){t.call(this,o,r.wrap(e),n)};var e=o.removeEventListener;o.removeEventListener=function(r,o,t){e.call(this,r,o&&o._wrapped?o._wrapped:o,t)}}}var s=0;a.init=function(r,o){var e=o.globalAlias||"Rollbar";if("object"==typeof r[e])return r[e];r._rollbarShimQueue=[],r._rollbarWrappedError=null,o=o||{};var i=new a;return t(function(){if(i.configure(o),o.captureUncaught){i._rollbarOldOnError=r.onerror,r.onerror=n(i);var t,a,s="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(t=0;t<s.length;++t)a=s[t],r[a]&&r[a].prototype&&l(i,r[a].prototype)}return r[e]=i,i})()},a.prototype.loadFull=function(r,o,e,n,a){var i=function(){var o;if(void 0===r._rollbarPayloadQueue){var t,e,n,i;for(o=new Error("rollbar.js did not load");t=r._rollbarShimQueue.shift();)for(n=t.args,i=0;i<n.length;++i)if(e=n[i],"function"==typeof e){e(o);break}}"function"==typeof a&&a(o)},l=!1,s=o.createElement("script"),u=o.getElementsByTagName("script")[0],p=u.parentNode;s.crossOrigin="",s.src=n.rollbarJsUrl,s.async=!e,s.onload=s.onreadystatechange=t(function(){if(!(l||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){s.onload=s.onreadystatechange=null;try{p.removeChild(s)}catch(r){}l=!0,i()}}),p.insertBefore(s,u)},a.prototype.wrap=function(r,o){try{var t;if(t="function"==typeof o?o:function(){return o||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._wrapped){r._wrapped=function(){try{return r.apply(this,arguments)}catch(o){throw o._rollbarContext=t()||{},o._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=o,o}},r._wrapped._isWrap=!0;for(var e in r)r.hasOwnProperty(e)&&(r._wrapped[e]=r[e])}return r._wrapped}catch(n){return r}};for(var u="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError".split(","),p=0;p<u.length;++p)a.prototype[u[p]]=i(u[p]);r.exports={Rollbar:a,_rollbarWindowOnError:e}},function(r,o){"use strict";r.exports=function(r,o){return function(t){if(!t&&!window._rollbarInitialized){var e=window.RollbarNotifier,n=o||{},a=n.globalAlias||"Rollbar",i=window.Rollbar.init(n,r);i._processShimQueue(window._rollbarShimQueue||[]),window[a]=i,window._rollbarInitialized=!0,e.processPayloads()}}}}]);
+    // End Rollbar Snippet
+</script>
+
 <!-- Custom CSS Styling -->
 <style type="text/css">
 #logo .site-title, #logo .site-description { display:none; }
@@ -552,34 +278,26 @@ ul.nav li a, #navigation ul.rss a, #navigation .cart-contents, #navigation ul.rs
 </style>
 
 <!-- Custom Favicon -->
-<link rel="shortcut icon" href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/uploads/2014/05/favicon1.png">
+<link rel="shortcut icon" href="http://www.drugfree.org/wp-content/uploads/2014/05/favicon1.png">
 
 <!-- Custom Stylesheet -->
-<link href="http://drugfree.scdn1.secure.raxcdn.com/wp-content/themes/canvas/custom.css" rel="stylesheet" type="text/css">
-			<link rel="stylesheet" id="custom-css-css" type="text/css" href="http://www.drugfree.org/?custom-css=1&amp;csblog=1&amp;cscache=6&amp;csrev=200">
-			<link rel="stylesheet" href="/wp-content/themes/drugfree/css/drugfree.css?v=1.5">
+<link href="http://www.drugfree.org/wp-content/themes/canvas/custom.css" rel="stylesheet" type="text/css">
 
-<!--State Agencies-->
-<script type="text/javascript" src="/wp-content/themes/drugfree/js/stateAgencies.js"></script>
+<style id="custom-css-css">/*
+Welcome to Custom CSS!
+
+To learn how this works, see http://wp.me/PEmnE-Bt
+*/</style>
+
+
+        
+
+<!-- Styling for various elements -->
+<link rel="stylesheet" href="/wp-content/themes/drugfree/css/drugfree.css?v=1.6">
 
 <!-- Top Menu Styling -->
-<link rel="stylesheet" href="/wp-content/themes/drugfree/css/menu_new.css?v=1.2">
+<link rel="stylesheet" href="/wp-content/themes/drugfree/css/menu_new.css?v=1.3">
 
-
-<style type="text/css">
-/*body.page-id-5694 #field_2_2 li.gchoice_2_1 { display: none; }
-body.page-id-5694 #field_2_2 li.gchoice_2_2_2 { display: none; }*/
-</style>
-
-<script>
-jQuery( document ).ready(function( $ ) {
-  $('.donate-type:contains("Other")').hide();
-});
-</script>
-
-<!-- Place this code in the head section of your page or before the close body tag -->
-<!--<script id='ClipixWidgetApiScript' type='text/javascript' src="//widget.clipix.com/ScriptWidget.js?version=1.5&counter=on&iconType=67&language=en&shape=horizontal"></script>
--->
 
 <script type="application/ld+json">
 { "@context" : "http://schema.org",
@@ -591,7 +309,7 @@ jQuery( document ).ready(function( $ ) {
 	"https://youtube.com/user/drugfreechannel",
         "https://plus.google.com/102958729736577994310/posts",
 	"http://instagram.com/thepartnership"],
-	"logo" : "http://drugfree.scdn1.secure.raxcdn.com/wp-content/themes/drugfree/images/Partnership-Logo-TM.gif" 
+	"logo" : "http://www.drugfree.org/wp-content/themes/drugfree/images/Partnership-Logo-TM.gif"
 }
 </script>
 
@@ -612,106 +330,52 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-
-<!-- addthis share icons with clipix integration -->
-<!--<div id="pdfa_addthis_toolbox" class="addthis_toolbox">
-    <div class="custom_images">
-        <div class="atwrap at-fb">
-            <a class="addthis_button_facebook">
-            	<img src="/wp-content/themes/drugfree/images/at-fb.png" width="48" height="48" border="0" alt="Share to Facebook" />
-            </a>
-        </div>
-        <div class="atwrap at-tw"><a class="addthis_button_twitter"><img src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/themes/drugfree/images/at-tw.png" width="48" height="48" border="0" alt="Share to Twitter" /></a></div>
-        <div class="atwrap at-em"><a class="addthis_button_email"><img src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/themes/drugfree/images/at-em.png" width="48" height="48" border="0" alt="Share with E-mail" /></a></div>
-        <div class="atwrap at-pr"><a class="addthis_button_print"><img src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/themes/drugfree/images/at-pr.png" width="48" height="48" border="0" alt="Print" /></a></div>
-        <div class="atwrap at-more"><a class="addthis_button_more"><img src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/themes/drugfree/images/at-more.png" width="48" height="48" border="0" alt="More..." /></a></div>
-        <div class="atwrap at-clipix">
-            <a><div id='ClipixWidgetApiContainer' usecustomimage="1" style="visibility: visible!important;"><img src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/themes/drugfree/images/clipix_share_logo_2.png" /></div></a>
-        </div>
-    </div>
-    <div id="at-hide"><div><span>Hide</span></div></div>
-</div>
-<div id="at-show"><div><span>Show</span></div></div>-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div id="header-wrap">
-	<div id="top">
+    	<div id="top">
 		<div class="col-full">
-			<h3 class="top-menu">Top Menu</h3><ul id="top-nav" class="nav top-navigation fl"><li id="menu-item-14" class="stay-informed menu-item menu-item-type-custom menu-item-object-custom first-menu-item menu-item-14"><a href="/subscriptions/"><span class="envelope"></span> Stay Informed</a><div id="subscribe-submenu" class="menu-submenu">
-		<div class="inner">
-		<p>Get the latest news from<br>Partnership for Drug-Free Kids</p>
-		<!-- Begin MailChimp Signup Form -->
+			<h3 class="top-menu">Top Menu</h3><ul id="top-nav" class="nav top-navigation fl"><li id="menu-item-14" class="stay-informed menu-item menu-item-type-custom menu-item-object-custom first-menu-item menu-item-14"><a href="http://dfk.convio.net/site/Survey?ACTION_REQUIRED=URI_ACTION_USER_REQUESTS&amp;SURVEY_ID=1162"><span class="envelope"></span> Stay Informed</a><div id="subscribe-submenu" class="menu-submenu">
+    <div class="inner">
+    <p>Get the latest news from<br>Partnership for Drug-Free Kids</p>
 
-		<div id="mc_embed_signup">
-			<form action="http://drugfree.us2.list-manage.com/subscribe/post?u=fe8b33972f29b8e3f893baefc&amp;id=34168a2307" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
-				<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" required="" placeholder="Enter your email address">
-				<input type="checkbox" value="8" name="group[41][8]" id="mce-group[41]-41-0" checked="" style="display: none;">
-			    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-			    <p style="position: absolute; left: -5000px;"><input type="text" name="b_fe8b33972f29b8e3f893baefc_34168a2307" tabindex="-1" value=""></p>
-			    <p><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button blue rounded"></p>
-			</form>
-		</div>
-		<!--End mc_embed_signup-->
-		</div>
-		</div></li>
+    <!-- Begin BB Signup Form -->
+
+    <div id="mc_embed_signup">
+        <form method="POST" action="http://dfk.convio.net/site/Survey?ACTION_REQUIRED=URI_ACTION_USER_REQUESTS&amp;SURVEY_ID=1162">
+
+        <div class="appArea">
+
+            <input type="hidden" name="cons_info_component" id="cons_info_component" value="t">
+
+            <input type="text" name="cons_email" id="cons_email" class="email" required="" placeholder="Enter your email address" size="35" maxlength="255">
+
+            <div style="display:none">
+                <input type="text" name="denySubmit" id="denySubmit" value="" alt="This field is used to prevent form submission by scripts.">&nbsp;Please leave this field empty
+            </div>
+
+            <p>
+                <input type="submit" name="ACTION_SUBMIT_SURVEY_RESPONSE" id="ACTION_SUBMIT_SURVEY_RESPONSE" value="SUBSCRIBE" class="Button">&nbsp;&nbsp;
+                </p><div style="display:none">
+                <input type="reset" name="reset" id="reset" value="Reset Answers" class="Button">&nbsp;&nbsp;
+                <input type="submit" name="ACTION_CANCEL_RESPONSE_SUBMIT" id="ACTION_CANCEL_RESPONSE_SUBMIT" value="Cancel" class="Button">
+                </div>
+            <p></p>
+
+            <input type="hidden" name="SURVEY_ID" id="SURVEY_ID" value="1162">
+
+        
+    </div></form>
+    <!--End BB Form  -->
+</div><!--inner->
+</div><!--subscribe-submenu--></div></div></li>
 <li id="menu-item-34661" class="news-nav menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-34661"><a href="http://www.drugfree.org/the-newsroom/">News</a>
 <ul class="sub-menu">
-	<li id="menu-item-34662" class="menu-item menu-item-type-custom menu-item-object-custom first-menu-item menu-item-34662"><a href="/newsroom">Partnership News Blog</a></li>
-	<li id="menu-item-38502" class="menu-item menu-item-type-custom menu-item-object-custom last-menu-item menu-item-38502"><a href="/join-together/">Join Together News Service</a></li>
+	<li id="menu-item-34662" class="menu-item menu-item-type-custom menu-item-object-custom first-menu-item menu-item-34662"><a href="/newsroom">Partnership News</a></li>
+	<li id="menu-item-38502" class="menu-item menu-item-type-custom menu-item-object-custom last-menu-item menu-item-38502"><a href="/news-service/">Latest Drug &amp; Alcohol News</a></li>
 </ul>
 </li>
-<li id="menu-item-39784" class="donate menu-item menu-item-type-custom menu-item-object-custom last-menu-item menu-item-39784"><a href="https://www.drugfree.org/donate/">Donate Now</a><div id="donate-submenu" class="menu-submenu">
-		<div class="inner">
-                <div class="gf_browser_unknown gform_wrapper" id="gform_wrapper_1"><form method="post" enctype="multipart/form-data" id="gform_1" action="/privacy/">
-                        <div class="gform_heading">
-                            <span class="gform_description">Select your gift to make a difference<br> in the lives of kids and families:</span>
-                        </div>
-                        <div class="gform_body"><ul id="gform_fields_1" class="gform_fields top_label form_sublabel_below description_below"><li id="field_1_2" class="gfield gfield_price gfield_price_1_2 gfield_product_1_2 field_sublabel_below field_description_below"><label class="gfield_label">&nbsp;</label><div class="ginput_container ginput_container_radio"><ul class="gfield_radio" id="input_1_2"><li class="gchoice_1_2_0"><input name="input_2" type="radio" value="$30|30" id="choice_1_2_0" tabindex="1"><label for="choice_1_2_0" id="label_1_2_0">$30</label></li><li class="gchoice_1_2_1"><input name="input_2" type="radio" value="$100|100" id="choice_1_2_1" tabindex="2"><label for="choice_1_2_1" id="label_1_2_1">$100</label></li><li class="gchoice_1_2_2"><input name="input_2" type="radio" value="$250|250" id="choice_1_2_2" tabindex="3"><label for="choice_1_2_2" id="label_1_2_2">$250</label></li><li class="gchoice_1_2_3"><input name="input_2" type="radio" value="$1000|1000" id="choice_1_2_3" tabindex="4"><label for="choice_1_2_3" id="label_1_2_3">$1000</label></li><li class="gchoice_1_2_4"><input name="input_2" type="radio" value="Other|0" id="choice_1_2_4" tabindex="5"><label for="choice_1_2_4" id="label_1_2_4">Other</label></li></ul></div></li><li id="field_1_3" class="gfield gform_hidden field_sublabel_below field_description_below"><input name="input_3" id="input_1_3" type="hidden" class="gform_hidden" value="0"></li>
-                            </ul></div>
-        <div class="gform_footer top_label"> <input type="submit" id="gform_submit_button_1" class="gform_button button" value="Donate" tabindex="6" onclick="if(window[&quot;gf_submitting_1&quot;]){return false;}  window[&quot;gf_submitting_1&quot;]=true;  "> 
-            <input type="hidden" class="gform_hidden" name="is_submit_1" value="1">
-            <input type="hidden" class="gform_hidden" name="gform_submit" value="1">
-            
-            <input type="hidden" class="gform_hidden" name="gform_unique_id" value="">
-            <input type="hidden" class="gform_hidden" name="state_1" value="WyJ7XCIyXCI6W1wiY2Q2MDczNzIxZDNkZGMyNzA2MmFmNTcyY2ExMzNlODVcIixcImU2NDY4YzFjODQ5MGQzYjFhYjlhNzc5OTRhMjQ0NmIwXCIsXCI1OWZiY2EzMjAzODU5ZjNiODkyM2IzMzE5MzEzYTFjNVwiLFwiNDE5NDliZTFkOWZmZGEwZWRiMWJhMjA2OTE2YWE5ZDdcIixcImU5MWEwZWMzNWEyZjJjYzk0ZjU0YTdjNWNkYjJkYTQ1XCJdfSIsImYxNDMwOWFlZmQxMTY1NDI3NmMxMWYzODFhM2I0ZmUwIl0=">
-            <input type="hidden" class="gform_hidden" name="gform_target_page_number_1" id="gform_target_page_number_1" value="0">
-            <input type="hidden" class="gform_hidden" name="gform_source_page_number_1" id="gform_source_page_number_1" value="1">
-            <input type="hidden" name="gform_field_values" value="">
-            
-        </div>
-                        </form>
-                        </div></div>
-		</div></li>
+<li id="menu-item-39784" class="donate menu-item menu-item-type-custom menu-item-object-custom last-menu-item menu-item-39784"><a href="/donate/">Donate Now</a><div id="donate-submenu" class="menu-submenu">
+            <div class="inner"></div>
+            </div></li>
 </ul>		</div>
 	</div><!-- /#top -->
 
@@ -728,57 +392,55 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		</div>
 	</div>
 
-<nav id="navigation" class="col-full nav-wrap"><section class="menus"><span class="helpline"><a href="http://www.drugfree.org/get-help/helpline/">HELPLINE</a>: <a href="http://www.drugfree.org/get-help/helpline/">1-855-DRUGFREE</a></span><ul id="main-nav" class="nav fl"><li class="stay-informed menu-item menu-item-type-custom menu-item-object-custom first-menu-item menu-item-14"><a href="/subscriptions/"><span class="envelope"></span> Stay Informed</a><div id="subscribe-submenu" class="menu-submenu">
-		<div class="inner">
-		<p>Get the latest news from<br>Partnership for Drug-Free Kids</p>
-		<!-- Begin MailChimp Signup Form -->
+<nav id="navigation" class="col-full nav-wrap"><section class="menus"><span class="helpline"><a href="http://www.drugfree.org/get-help/helpline/">HELPLINE</a>: <a href="http://www.drugfree.org/get-help/helpline/">1-855-DRUGFREE</a></span><ul id="main-nav" class="nav fl"><li class="stay-informed menu-item menu-item-type-custom menu-item-object-custom first-menu-item menu-item-14"><a href="http://dfk.convio.net/site/Survey?ACTION_REQUIRED=URI_ACTION_USER_REQUESTS&amp;SURVEY_ID=1162"><span class="envelope"></span> Stay Informed</a><div id="subscribe-submenu" class="menu-submenu">
+    <div class="inner">
+    <p>Get the latest news from<br>Partnership for Drug-Free Kids</p>
 
-		<div id="mc_embed_signup">
-			<form action="http://drugfree.us2.list-manage.com/subscribe/post?u=fe8b33972f29b8e3f893baefc&amp;id=34168a2307" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
-				<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" required="" placeholder="Enter your email address">
-				<input type="checkbox" value="8" name="group[41][8]" id="mce-group[41]-41-0" checked="" style="display: none;">
-			    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-			    <p style="position: absolute; left: -5000px;"><input type="text" name="b_fe8b33972f29b8e3f893baefc_34168a2307" tabindex="-1" value=""></p>
-			    <p><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button blue rounded"></p>
-			</form>
-		</div>
-		<!--End mc_embed_signup-->
-		</div>
-		</div></li>
+    <!-- Begin BB Signup Form -->
+
+    <div id="mc_embed_signup">
+        <form method="POST" action="http://dfk.convio.net/site/Survey?ACTION_REQUIRED=URI_ACTION_USER_REQUESTS&amp;SURVEY_ID=1162">
+
+        <div class="appArea">
+
+            <input type="hidden" name="cons_info_component" id="cons_info_component" value="t">
+
+            <input type="text" name="cons_email" id="cons_email" class="email" required="" placeholder="Enter your email address" size="35" maxlength="255">
+
+            <div style="display:none">
+                <input type="text" name="denySubmit" id="denySubmit" value="" alt="This field is used to prevent form submission by scripts.">&nbsp;Please leave this field empty
+            </div>
+
+            <p>
+                <input type="submit" name="ACTION_SUBMIT_SURVEY_RESPONSE" id="ACTION_SUBMIT_SURVEY_RESPONSE" value="SUBSCRIBE" class="Button">&nbsp;&nbsp;
+                </p><div style="display:none">
+                <input type="reset" name="reset" id="reset" value="Reset Answers" class="Button">&nbsp;&nbsp;
+                <input type="submit" name="ACTION_CANCEL_RESPONSE_SUBMIT" id="ACTION_CANCEL_RESPONSE_SUBMIT" value="Cancel" class="Button">
+                </div>
+            <p></p>
+
+            <input type="hidden" name="SURVEY_ID" id="SURVEY_ID" value="1162">
+
+        
+    </div></form>
+    <!--End BB Form  -->
+</div><!--inner->
+</div><!--subscribe-submenu--></div></div></li>
 <li class="news-nav menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-34661"><a href="http://www.drugfree.org/the-newsroom/">News</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom first-menu-item menu-item-34662"><a href="/newsroom">Partnership News Blog</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom last-menu-item menu-item-38502"><a href="/join-together/">Join Together News Service</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom first-menu-item menu-item-34662"><a href="/newsroom">Partnership News</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom last-menu-item menu-item-38502"><a href="/news-service/">Latest Drug &amp; Alcohol News</a></li>
 </ul>
 </li>
-<li class="donate menu-item menu-item-type-custom menu-item-object-custom last-menu-item menu-item-39784"><a href="https://www.drugfree.org/donate/">Donate Now</a><div id="donate-submenu" class="menu-submenu">
-		<div class="inner">
-                <div class="gf_browser_unknown gform_wrapper" id="gform_wrapper_1"><form method="post" enctype="multipart/form-data" id="gform_1" action="/privacy/">
-                        <div class="gform_heading">
-                            <span class="gform_description">Select your gift to make a difference<br> in the lives of kids and families:</span>
-                        </div>
-                        <div class="gform_body"><ul id="gform_fields_1" class="gform_fields top_label form_sublabel_below description_below"><li id="field_1_2" class="gfield gfield_price gfield_price_1_2 gfield_product_1_2 field_sublabel_below field_description_below"><label class="gfield_label">&nbsp;</label><div class="ginput_container ginput_container_radio"><ul class="gfield_radio" id="input_1_2"><li class="gchoice_1_2_0"><input name="input_2" type="radio" value="$30|30" id="choice_1_2_0" tabindex="1"><label for="choice_1_2_0" id="label_1_2_0">$30</label></li><li class="gchoice_1_2_1"><input name="input_2" type="radio" value="$100|100" id="choice_1_2_1" tabindex="2"><label for="choice_1_2_1" id="label_1_2_1">$100</label></li><li class="gchoice_1_2_2"><input name="input_2" type="radio" value="$250|250" id="choice_1_2_2" tabindex="3"><label for="choice_1_2_2" id="label_1_2_2">$250</label></li><li class="gchoice_1_2_3"><input name="input_2" type="radio" value="$1000|1000" id="choice_1_2_3" tabindex="4"><label for="choice_1_2_3" id="label_1_2_3">$1000</label></li><li class="gchoice_1_2_4"><input name="input_2" type="radio" value="Other|0" id="choice_1_2_4" tabindex="5"><label for="choice_1_2_4" id="label_1_2_4">Other</label></li></ul></div></li><li id="field_1_3" class="gfield gform_hidden field_sublabel_below field_description_below"><input name="input_3" id="input_1_3" type="hidden" class="gform_hidden" value="0"></li>
-                            </ul></div>
-        <div class="gform_footer top_label"> <input type="submit" id="gform_submit_button_1" class="gform_button button" value="Donate" tabindex="6" onclick="if(window[&quot;gf_submitting_1&quot;]){return false;}  window[&quot;gf_submitting_1&quot;]=true;  "> 
-            <input type="hidden" class="gform_hidden" name="is_submit_1" value="1">
-            <input type="hidden" class="gform_hidden" name="gform_submit" value="1">
-            
-            <input type="hidden" class="gform_hidden" name="gform_unique_id" value="">
-            <input type="hidden" class="gform_hidden" name="state_1" value="WyJ7XCIyXCI6W1wiY2Q2MDczNzIxZDNkZGMyNzA2MmFmNTcyY2ExMzNlODVcIixcImU2NDY4YzFjODQ5MGQzYjFhYjlhNzc5OTRhMjQ0NmIwXCIsXCI1OWZiY2EzMjAzODU5ZjNiODkyM2IzMzE5MzEzYTFjNVwiLFwiNDE5NDliZTFkOWZmZGEwZWRiMWJhMjA2OTE2YWE5ZDdcIixcImU5MWEwZWMzNWEyZjJjYzk0ZjU0YTdjNWNkYjJkYTQ1XCJdfSIsImYxNDMwOWFlZmQxMTY1NDI3NmMxMWYzODFhM2I0ZmUwIl0=">
-            <input type="hidden" class="gform_hidden" name="gform_target_page_number_1" id="gform_target_page_number_1" value="0">
-            <input type="hidden" class="gform_hidden" name="gform_source_page_number_1" id="gform_source_page_number_1" value="1">
-            <input type="hidden" name="gform_field_values" value="">
-            
-        </div>
-                        </form>
-                        </div></div>
-		</div></li>
+<li class="donate menu-item menu-item-type-custom menu-item-object-custom last-menu-item menu-item-39784"><a href="/donate/">Donate Now</a><div id="donate-submenu" class="menu-submenu">
+            <div class="inner"></div>
+            </div></li>
 <li class="login"><a href="#">Login</a><div id="login-submenu" class="menu-submenu">
 		<div class="inner">
 		<form name="loginform" id="loginform" action="http://www.drugfree.org/wp-login.php" method="post">
 			
 			<p class="login-username">
-				<label for="user_login">Username</label>
+				<label for="user_login">Username or Email</label>
 				<input type="text" name="log" id="user_login" class="input" value="" size="20">
 			</p>
 			<p class="login-password">
@@ -796,18 +458,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <span class="fbLoginButton"><script type="text/javascript">//<!--
             document.write('<fb:login-button scope="email,publish_actions,user_about_me" v="2" size="large" onlogin="jfb_js_login_callback();">Login with Facebook</fb:login-button>');
         //--></script><fb:login-button scope="email,publish_actions,user_about_me" v="2" size="large" onlogin="jfb_js_login_callback();">Login with Facebook</fb:login-button></span><!--Premium Add-On #4476, version 33-->
-<div class="login_spinner" style="display:none; margin-top:7px; text-align:center;"><img src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/wp-fb-autoconnect/assets/spinner_white.gif" alt="Please Wait..."></div></div>
+<div class="login_spinner" style="display:none; margin-top:7px; text-align:center;"><img src="http://www.drugfree.org/wp-content/plugins/wp-fb-autoconnect/assets/spinner_white.gif" alt="Please Wait..."></div></div>
 		</div></li><li class="register"><a href="http://www.drugfree.org/register/">Register</a></li></ul></section></nav><section id="breaking-news" class="sidebar widget-area full-width"></section><div id="logo">
-<a href="http://www.drugfree.org/" title="Where Families Find Answers"><img src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/uploads/2016/05/logo-30thAnnivWebNoTag-323x73-300x68.png" alt="Partnership for Drug-Free Kids"></a>
+<a href="http://www.drugfree.org/" title="Where Families Find Answers"><img src="http://www.drugfree.org/wp-content/uploads/2016/05/logo-30thAnnivWebNoTag-323x73-300x68.png" alt="Partnership for Drug-Free Kids"></a>
 </div>
 <nav id="primary-navigation" class="full-width nav-wrap"><section class="menus"><ul id="primary-nav" class="nav fl"><li id="menu-item-54166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children first-menu-item menu-item-54166"><a href="http://www.drugfree.org/about/">About</a>
 <ul class="sub-menu">
-	<li id="menu-item-54174" class="menu-item menu-item-type-custom menu-item-object-custom first-menu-item menu-item-54174"><a href="http://www.drugfree.org/about/about-us/">What We Do</a></li>
+	<li id="menu-item-54174" class="menu-item menu-item-type-custom menu-item-object-custom first-menu-item menu-item-54174"><a href="http://www.drugfree.org/about/mission">What We Do</a></li>
 	<li id="menu-item-54167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54167"><a href="http://www.drugfree.org/about/our-history/">Our Story</a></li>
 	<li id="menu-item-54168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54168"><a href="http://www.drugfree.org/about/our-people/">Our People</a></li>
 	<li id="menu-item-54169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54169"><a href="http://www.drugfree.org/about/our-partners/">Our Partners</a></li>
 	<li id="menu-item-54170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54170"><a href="http://www.drugfree.org/about/careers/">Careers</a></li>
-	<li id="menu-item-54171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54171"><a href="http://www.drugfree.org/2014-annual-report">Annual Report &amp; Financials</a></li>
+	<li id="menu-item-56999" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56999"><a href="http://www.drugfree.org/2015-annual-report">Annual Report &amp; Financials</a></li>
 	<li id="menu-item-54172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54172"><a href="http://www.drugfree.org/about/faq/">FAQ</a></li>
 	<li id="menu-item-54173" class="menu-item menu-item-type-post_type menu-item-object-page last-menu-item menu-item-54173"><a href="http://www.drugfree.org/about/contact/">Contact</a></li>
 </ul>
@@ -824,9 +486,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<li id="menu-item-5835" class="menu-item menu-item-type-custom menu-item-object-custom last-menu-item menu-item-5835"><a href="/videos">Media Gallery</a></li>
 </ul>
 </li>
-<li id="menu-item-5761" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5761"><a href="http://www.drugfree.org/get-help/">Get Help</a>
+<li id="menu-item-55534" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-55534"><a href="http://www.drugfree.org/get-help">Get Help</a>
 <ul class="sub-menu">
-	<li id="menu-item-54042" class="menu-item menu-item-type-post_type menu-item-object-page first-menu-item menu-item-54042"><a href="http://www.drugfree.org/get-help/">Start Here</a></li>
+	<li id="menu-item-55533" class="menu-item menu-item-type-post_type menu-item-object-page first-menu-item menu-item-55533"><a href="http://www.drugfree.org/get-help">Start Here</a></li>
 	<li id="menu-item-34673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34673"><a href="http://www.drugfree.org/get-help/helpline/">Speak to a Specialist</a></li>
 	<li id="menu-item-48132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48132"><a href="http://www.drugfree.org/think-child-using/">I Think My Child Is Using</a></li>
 	<li id="menu-item-48767" class="menu-item menu-item-type-post_type menu-item-object-page last-menu-item menu-item-48767"><a href="http://www.drugfree.org/know-child-using/">I Know My Child Is Using</a></li>
@@ -835,38 +497,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li id="menu-item-5763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5763"><a href="http://www.drugfree.org/get-involved/">Get Involved</a>
 <ul class="sub-menu">
 	<li id="menu-item-54623" class="menu-item menu-item-type-custom menu-item-object-custom first-menu-item menu-item-54623"><a target="_blank" href="http://medicineabuseproject.org/">Medicine Abuse Project</a></li>
-	<li id="menu-item-37977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37977"><a href="http://www.drugfree.org/advocacy/">Advocacy</a></li>
-	<li id="menu-item-40687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40687"><a href="http://www.drugfree.org/alliances/">Local Alliances</a></li>
-	<li id="menu-item-54625" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-54625"><a target="_blank" href="http://www.drugfree.org/breakingpoints/">Host a Film Screening</a></li>
+	<li id="menu-item-56234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56234"><a href="http://www.drugfree.org/action-center/">Advocate for Change</a></li>
+	<li id="menu-item-40687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40687"><a href="http://www.drugfree.org/alliances/">Find a Local Alliance</a></li>
+	<li id="menu-item-54625" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-54625"><a target="_blank" href="http://www.drugfree.org/breakingpoints/#purchase">Host a Film Screening</a></li>
 	<li id="menu-item-39783" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39783"><a href="https://www.drugfree.org/donate/">Donate Now</a><div id="donate-submenu" class="menu-submenu">
-		<div class="inner">
-                <div class="gf_browser_unknown gform_wrapper" id="gform_wrapper_1"><form method="post" enctype="multipart/form-data" id="gform_1" action="/privacy/">
-                        <div class="gform_heading">
-                            <span class="gform_description">Select your gift to make a difference<br> in the lives of kids and families:</span>
-                        </div>
-                        <div class="gform_body"><ul id="gform_fields_1" class="gform_fields top_label form_sublabel_below description_below"><li id="field_1_2" class="gfield gfield_price gfield_price_1_2 gfield_product_1_2 field_sublabel_below field_description_below"><label class="gfield_label">&nbsp;</label><div class="ginput_container ginput_container_radio"><ul class="gfield_radio" id="input_1_2"><li class="gchoice_1_2_0"><input name="input_2" type="radio" value="$30|30" id="choice_1_2_0" tabindex="1"><label for="choice_1_2_0" id="label_1_2_0">$30</label></li><li class="gchoice_1_2_1"><input name="input_2" type="radio" value="$100|100" id="choice_1_2_1" tabindex="2"><label for="choice_1_2_1" id="label_1_2_1">$100</label></li><li class="gchoice_1_2_2"><input name="input_2" type="radio" value="$250|250" id="choice_1_2_2" tabindex="3"><label for="choice_1_2_2" id="label_1_2_2">$250</label></li><li class="gchoice_1_2_3"><input name="input_2" type="radio" value="$1000|1000" id="choice_1_2_3" tabindex="4"><label for="choice_1_2_3" id="label_1_2_3">$1000</label></li><li class="gchoice_1_2_4"><input name="input_2" type="radio" value="Other|0" id="choice_1_2_4" tabindex="5"><label for="choice_1_2_4" id="label_1_2_4">Other</label></li></ul></div></li><li id="field_1_3" class="gfield gform_hidden field_sublabel_below field_description_below"><input name="input_3" id="input_1_3" type="hidden" class="gform_hidden" value="0"></li>
-                            </ul></div>
-        <div class="gform_footer top_label"> <input type="submit" id="gform_submit_button_1" class="gform_button button" value="Donate" tabindex="6" onclick="if(window[&quot;gf_submitting_1&quot;]){return false;}  window[&quot;gf_submitting_1&quot;]=true;  "> 
-            <input type="hidden" class="gform_hidden" name="is_submit_1" value="1">
-            <input type="hidden" class="gform_hidden" name="gform_submit" value="1">
-            
-            <input type="hidden" class="gform_hidden" name="gform_unique_id" value="">
-            <input type="hidden" class="gform_hidden" name="state_1" value="WyJ7XCIyXCI6W1wiY2Q2MDczNzIxZDNkZGMyNzA2MmFmNTcyY2ExMzNlODVcIixcImU2NDY4YzFjODQ5MGQzYjFhYjlhNzc5OTRhMjQ0NmIwXCIsXCI1OWZiY2EzMjAzODU5ZjNiODkyM2IzMzE5MzEzYTFjNVwiLFwiNDE5NDliZTFkOWZmZGEwZWRiMWJhMjA2OTE2YWE5ZDdcIixcImU5MWEwZWMzNWEyZjJjYzk0ZjU0YTdjNWNkYjJkYTQ1XCJdfSIsImYxNDMwOWFlZmQxMTY1NDI3NmMxMWYzODFhM2I0ZmUwIl0=">
-            <input type="hidden" class="gform_hidden" name="gform_target_page_number_1" id="gform_target_page_number_1" value="0">
-            <input type="hidden" class="gform_hidden" name="gform_source_page_number_1" id="gform_source_page_number_1" value="1">
-            <input type="hidden" name="gform_field_values" value="">
-            
-        </div>
-                        </form>
-                        </div></div>
-		</div></li>
-	<li id="menu-item-35779" class="menu-item menu-item-type-post_type menu-item-object-page last-menu-item menu-item-35779"><a href="http://www.drugfree.org/ways-to-give/">Other Ways to Give</a></li>
+            <div class="inner"></div>
+            </div></li>
+	<li id="menu-item-56079" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56079"><a href="http://www.drugfree.org/winterwish">Attend Winter Wish Gala</a></li>
+	<li id="menu-item-35779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35779"><a href="http://www.drugfree.org/ways-to-give/">Other Ways to Give</a></li>
+	<li id="menu-item-55704" class="menu-item menu-item-type-custom menu-item-object-custom last-menu-item menu-item-55704"><a href="http://dfk.convio.net/site/Survey?ACTION_REQUIRED=URI_ACTION_USER_REQUESTS&amp;SURVEY_ID=1162">Sign Up to Stay Informed</a></li>
 </ul>
 </li>
 <li id="menu-item-5708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children last-menu-item menu-item-5708"><a href="http://www.drugfree.org/community/">Community</a>
 <ul class="sub-menu">
 	<li id="menu-item-38082" class="menu-item menu-item-type-custom menu-item-object-custom first-menu-item menu-item-38082"><a href="/category/parent-blog/">Parent Blog</a></li>
-	<li id="menu-item-38083" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38083"><a href="/community/parent-support-network/">Parent Support Network</a></li>
 	<li id="menu-item-5846" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5846"><a href="/stories-of-hope">Stories of Hope</a></li>
 	<li id="menu-item-5847" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5847"><a href="/memorials">Memorials</a></li>
 	<li id="menu-item-5715" class="menu-item menu-item-type-post_type menu-item-object-page last-menu-item menu-item-5715"><a href="http://www.drugfree.org/forums/">Forums</a></li>
@@ -879,19 +523,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<input type="submit" id="searchsubmit" value="Search">
 				</div>
 			</form></section></nav></div>
+
 <div id="wrapper">
+    <div id="inner-wrapper">
 
-	<div id="inner-wrapper">
+    <h3 class="nav-toggle icon"><a href="#navigation">Navigation</a></h3>
 
-<h3 class="nav-toggle icon"><a href="#navigation">Navigation</a></h3>
+<!-- #content Starts -->
+<div id="content" class="col-full">
 
-    <!-- #content Starts -->
-	    <div id="content" class="col-full">
+    <div id="main-sidebar-container">
 
-    	<div id="main-sidebar-container">
-
-            <!-- #main Starts -->
-                        <section id="main">
+        <!-- #main Starts -->
+        <section id="main">
 <div class="breadcrumb breadcrumbs woo-breadcrumbs"><div class="breadcrumb-trail"><a href="http://www.drugfree.org" title="Partnership for Drug-Free Kids" rel="home" class="trail-begin">Home</a> <span class="sep">/</span> <span class="trail-end">Privacy</span></div></div><article class="post-29549 page type-page status-publish hentry">
 
 		<header>
@@ -913,7 +557,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>Online donors are also offered the option of choosing to let the Partnership for Drug-Free Kids contact them via email in the future.</p>
 <h3>Registrant and Donor Database</h3>
 <p>To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.</p>
-<p>Registration and donor data is maintained in a highly secure environment by Stripe. Stripe provides technology services to many non-profit organizations and is considered a market leader in this sector. The Partnership for Drug-Free Kids uses Stripe’s services to maintain our registrant (member) donor, story submissions and Mailchimp for email newsletter database. We use Stripe because of their commitment to the highest levels of security and confidentiality in dealing with our registrant and donor data. Stripe does not retain, share, store or use personally identifiable information for any secondary purposes.</p>
+<p>Registration and donor data is maintained in a highly secure environment by the third-party service provider, Blackbaud, Inc. Blackbaud, Inc.&nbsp;provides technology services to many non-profit organizations and is considered a market leader in this sector. The Partnership for Drug-Free Kids uses this service&nbsp;to maintain our email and news service registrants, and donor information. We use Blackbaud, Inc.&nbsp;because of their commitment to the highest levels of security and confidentiality in dealing with our registrant and donor data. Blackbaud, Inc.&nbsp;does not retain, share, store or use personally identifiable information for any secondary purposes.</p>
 <h3>Choice/Opt-Out, Correcting/Updating Information</h3>
 <p>If you would like to request access to review, update, change or delete your profile information you have supplied, you may do so by sending an email to <a href="mailto:webmaster@drugfree.org">webmaster@drugfree.org</a>.</p>
 <p>Additional options for contacting the Partnership for Drug-Free Kids include:</p>
@@ -927,7 +571,7 @@ New York, NY 10010</p>
 <h3>Registration Termination</h3>
 <p>The Partnership for Drug-Free Kids reserves the right to terminate your account if it learns that you have provided false or misleading registration information.</p>
 <h3>eNewsletter Sign-up</h3>
-<p>We use Mailchimp for email communication.<span class="st"> Mailchimp is an email marketing service provider.</span> Our eNewsletter sign-up section requires you to enter your email address to sign up for email newsletters. When you choose to sign up for one of our email newsletters, your email address is used solely to provide the newsletter to which you subscribe. Your email address won’t be shared with any outside organizations or individuals without your express permission. Whenever you do receive a mailing from us you will always find an easy method to unsubscribe within the contents of the email.</p>
+<p>We use Blackbaud, Inc.&nbsp;for email communication. Our eNewsletter sign-up section requires you to enter your email address to sign up for email newsletters. When you choose to sign up for one of our email newsletters, your email address is used solely to provide the newsletter to which you subscribe. Your email address won’t be shared with any outside organizations or individuals without your express permission. Whenever you do receive a mailing from us you will always find an easy method to unsubscribe within the contents of the email.</p>
 <h3>Online Surveys</h3>
 <p>Our occasional online surveys ask visitors for contact information (like email or mailing address). We use contact data from our surveys to send the user information about the Partnership for Drug-Free Kids and its activities. Users may opt-out of receiving future mailings (see the Choice/Opt-out section below). Other data collected by online surveys is used to educate the Partnership for Drug-Free Kids about the interests and concerns of its supporters and general site visitors concerning the Partnership for Drug-Free Kids mission, programs and events. This information is not shared with other organizations. The Partnership for Drug-Free Kids operates email discussion and contact lists to reach its members who request such information. Such services are run both by the Partnership for Drug-Free Kids and contracted vendors. These email addresses, whether housed on the Partnership for Drug-Free Kids servers or those of our third-party contractor, are never shared with any other organization and users may opt out of participating or receiving email information from the Partnership for Drug-Free Kids at any time. Instructions are contained within each email sent.</p>
 <h3>“Tell-A-Friend,” “Email Others”, “Tell Others”</h3>
@@ -938,108 +582,45 @@ New York, NY 10010</p>
 <p>Please contact us if you have any questions, concerns, or comments about our privacy policies or practices so we can address them: (212) 315-8799 or email us at <a href="mailto:webmaster@drugfree.org">webmaster@drugfree.org</a>.</p>
 <h3>Changes to Privacy Policy</h3>
 <p>The Partnership for Drug-Free Kids may at any time revise this Privacy Policy by updating this posting. You are bound by any such revisions and should therefore periodically visit this page to review the then current Privacy Policy to which you are bound.</p>
-<p><strong>Updated: May 17, 2014<br>
+<p><strong>Updated:&nbsp;July 22, 2016<br>
 </strong></p>
 	</section><!-- /.entry -->
 	<div class="fix"></div>
 </article><!-- /.post -->
-            </section><!-- /#main -->
-            
-            <aside id="sidebar">
+        </section><!-- /#main -->
+        
+        <aside id="sidebar">
+<div id="drugfree_stay_informed-7" class="widget widget_drugfree_stay_informed">
 
-		<div id="woo_tabs-4" class="widget widget_woo_tabs"> 		<div id="tabs">
 
-            <ul class="wooTabs">
-                                <li class="popular"><a href="#tab-pop">Popular</a></li>                <li class="latest"><a href="#tab-latest">Recent</a></li>                <li class="comments"><a href="#tab-comm">Comments</a></li>                            </ul>
+    <h3 class="widget-title">Stay Informed<span class="envelope"></span></h3>
 
-            <div class="clear"></div>
+    <!-- Begin BB Signup Form -->
+    <form method="POST" action="http://dfk.convio.net/site/Survey">
+        <div class="mc-field-group">
+            <p class="widget-description">Get the news and information you need to begin helping a loved one.</p>
 
-            <div class="boxes box inside">
+            <input type="hidden" name="cons_info_component" id="cons_info_component" value="t">
 
-	            
-                                <ul id="tab-pop" class="list">
-                    		<li>
-			<a href="http://www.drugfree.org/join-together/addiction-experts-battle-stigma-attached-medication-assisted-treatment/" title="Addiction Experts Battle Stigma Attached to Medication-Assisted Treatment"><img src="http://i0.wp.com/www.drugfree.org/wp-content/uploads/2016/05/Addiction-Experts-Battle-Stigma-Attached-to-Medication-Assisted-Treatment-Join-Together-News-Service-from-the-Partnership-for-Drug-Free-Kids-96x96.jpg" alt="" width="96" height="96" class="woo-image thumbnail"></a>			<a title="Addiction Experts Battle Stigma Attached to Medication-Assisted Treatment" href="http://www.drugfree.org/join-together/addiction-experts-battle-stigma-attached-medication-assisted-treatment/">Addiction Experts Battle Stigma Attached to Medication-Assisted Treatment</a>
-			<span class="meta">May 18, 2016</span>
-			<div class="fix"></div>
-		</li>
-				<li>
-						<a title="Senate Bill Would Place Fee on Opioid Drugs to Fund Addiction Treatment" href="http://www.drugfree.org/join-together/senate-bill-place-fee-opioid-drugs-fund-addiction-treatment/">Senate Bill Would Place Fee on Opioid Drugs to Fund Addiction Treatment</a>
-			<span class="meta">May 25, 2016</span>
-			<div class="fix"></div>
-		</li>
-				<li>
-			<a href="http://www.drugfree.org/join-together/prescriptions-opioid-painkillers-decline/" title="Prescriptions for Opioid Painkillers on the Decline"><img src="http://i2.wp.com/www.drugfree.org/wp-content/uploads/2016/05/Prescriptions-for-Opioid-Painkillers-on-the-Decline-Join-Together-News-Service-from-the-Partnership-for-Drug-Free-Kids-1-96x96.jpg" alt="" width="96" height="96" class="woo-image thumbnail"></a>			<a title="Prescriptions for Opioid Painkillers on the Decline" href="http://www.drugfree.org/join-together/prescriptions-opioid-painkillers-decline/">Prescriptions for Opioid Painkillers on the Decline</a>
-			<span class="meta">May 24, 2016</span>
-			<div class="fix"></div>
-		</li>
-				<li>
-						<a title="Opioid Use Increases Chronic Pain, Rat Study Finds" href="http://www.drugfree.org/join-together/opioid-use-increases-chronic-pain-rat-study-finds/">Opioid Use Increases Chronic Pain, Rat Study Finds</a>
-			<span class="meta">May 31, 2016</span>
-			<div class="fix"></div>
-		</li>
-				<li>
-			<a href="http://www.drugfree.org/join-together/poison-control-centers-report-jump-childrens-e-cigarette-exposures/" title="Poison Control Centers Report Jump in Children’s E-Cigarette Exposures"><img src="http://i0.wp.com/www.drugfree.org/wp-content/uploads/2016/05/Poison-Control-Centers-Report-Jump-in-Children’s-E-Cigarette-Exposures-Join-Together-News-Service-at-the-Parnership-for-Drug-Free-Kids-96x96.jpg" alt="" width="96" height="96" class="woo-image thumbnail"></a>			<a title="Poison Control Centers Report Jump in Children’s E-Cigarette Exposures" href="http://www.drugfree.org/join-together/poison-control-centers-report-jump-childrens-e-cigarette-exposures/">Poison Control Centers Report Jump in Children’s E-Cigarette Exposures</a>
-			<span class="meta">May 10, 2016</span>
-			<div class="fix"></div>
-		</li>
-		                </ul>
-                                                <ul id="tab-latest" class="list">
-                    	<li>
-		<a href="http://www.drugfree.org/newsroom/statement-marcia-lee-taylor-confirmed-opioid-abuse-death-prince/" title="Statement from Marcia Lee Taylor on Confirmed Opioid Abuse, Death of Prince"><img src="http://i1.wp.com/www.drugfree.org/wp-content/uploads/2016/06/Prince-96x96.jpg" alt="" width="96" height="96" class="woo-image thumbnail"></a>		<a title="Statement from Marcia Lee Taylor on Confirmed Opioid Abuse, Death of Prince" href="http://www.drugfree.org/newsroom/statement-marcia-lee-taylor-confirmed-opioid-abuse-death-prince/">Statement from Marcia Lee Taylor on Confirmed Opioid Abuse, Death of Prince</a>
-		<span class="meta">June 2, 2016</span>
-		<div class="fix"></div>
-	</li>
-		<li>
-		<a href="http://www.drugfree.org/join-together/senators-allow-doctors-treat-500-patients-time-buprenorphine/" title="Senators: Allow Doctors to Treat 500 Patients at a Time With Buprenorphine"><img src="http://i1.wp.com/www.drugfree.org/wp-content/uploads/2016/06/Senators-Allow-Doctors-to-Treat-500-Patients-at-a-Time-With-Buprenorphine-Join-Together-News-Service-at-the-Partnership-for-Drug-Free-Kids-96x96.jpg" alt="" width="96" height="96" class="woo-image thumbnail"></a>		<a title="Senators: Allow Doctors to Treat 500 Patients at a Time With Buprenorphine" href="http://www.drugfree.org/join-together/senators-allow-doctors-treat-500-patients-time-buprenorphine/">Senators: Allow Doctors to Treat 500 Patients at a Time With Buprenorphine</a>
-		<span class="meta">June 2, 2016</span>
-		<div class="fix"></div>
-	</li>
-		<li>
-				<a title="Majority of Americans Support Increasing Legal Age to Buy Tobacco" href="http://www.drugfree.org/join-together/majority-americans-support-increasing-legal-age-buy-tobacco/">Majority of Americans Support Increasing Legal Age to Buy Tobacco</a>
-		<span class="meta">June 2, 2016</span>
-		<div class="fix"></div>
-	</li>
-		<li>
-				<a title="Many Hip and Knee Replacement Patients Take Opioid Painkillers Months After Surgery" href="http://www.drugfree.org/join-together/many-hip-knee-replacement-patients-take-opioid-painkillers-months-surgery/">Many Hip and Knee Replacement Patients Take Opioid Painkillers Months After Surgery</a>
-		<span class="meta">June 2, 2016</span>
-		<div class="fix"></div>
-	</li>
-		<li>
-				<a title="U.S. Efforts to Eliminate Cocaine in Colombia a Bad Return on Investment: Study" href="http://www.drugfree.org/join-together/u-s-efforts-eliminate-cocaine-colombia-bad-return-investment-study/">U.S. Efforts to Eliminate Cocaine in Colombia a Bad Return on Investment: Study</a>
-		<span class="meta">June 2, 2016</span>
-		<div class="fix"></div>
-	</li>
-	                </ul>
-                                				<ul id="tab-comm" class="list">
-                    				<li class="recentcomments">
-					<img alt="" src="http://0.gravatar.com/avatar/62996fabd007e9edc4dcb2b2e21fe656?s=96&amp;d=mm&amp;r=g" srcset="http://0.gravatar.com/avatar/62996fabd007e9edc4dcb2b2e21fe656?s=192&amp;d=mm&amp;r=g 2x" class="avatar avatar-96 photo" height="96" width="96">					<a href="http://www.drugfree.org/what-i-wish-i-had-done-differently-with-my-addicted-son/#comment-116462" title="Francie on What I Wish I Had Done Differently with My Addicted Son">Francie: Hi,
-Over the last 7 months we have discovered our...</a>
-					<div class="fix"></div>
-				</li>
-							<li class="recentcomments">
-					<img alt="" src="http://0.gravatar.com/avatar/38982a7452cc1122f4b802771e2bf18c?s=96&amp;d=mm&amp;r=g" srcset="http://0.gravatar.com/avatar/38982a7452cc1122f4b802771e2bf18c?s=192&amp;d=mm&amp;r=g 2x" class="avatar avatar-96 photo" height="96" width="96">					<a href="http://www.drugfree.org/a-mothers-love-and-hate-for-her-addicted-son/#comment-116460" title="natalie wallace on A Mother's Love and Hate for Her Addicted Son">natalie wallace: As I write this my 35 year old son is in a coma fr...</a>
-					<div class="fix"></div>
-				</li>
-							<li class="recentcomments">
-					<img alt="" src="http://2.gravatar.com/avatar/25fee9ae0c97a13a5d2440347810fc5b?s=96&amp;d=mm&amp;r=g" srcset="http://2.gravatar.com/avatar/25fee9ae0c97a13a5d2440347810fc5b?s=192&amp;d=mm&amp;r=g 2x" class="avatar avatar-96 photo" height="96" width="96">					<a href="http://www.drugfree.org/join-together/addiction-experts-battle-stigma-attached-medication-assisted-treatment/#comment-116458" title="Richard Ries MD on Addiction Experts Battle Stigma Attached to Medication-Assisted Treatment">Richard Ries MD: Actually Harvard researchers, as part of the NIDA ...</a>
-					<div class="fix"></div>
-				</li>
-							<li class="recentcomments">
-					<img alt="" src="http://0.gravatar.com/avatar/cf3b028c0bce2cd5d85ba0a0e986748a?s=96&amp;d=mm&amp;r=g" srcset="http://0.gravatar.com/avatar/cf3b028c0bce2cd5d85ba0a0e986748a?s=192&amp;d=mm&amp;r=g 2x" class="avatar avatar-96 photo" height="96" width="96">					<a href="http://www.drugfree.org/join-together/fda-advisory-panel-votes-favor-approving-new-opioid-painkiller/#comment-116444" title="meltee on FDA Advisory Panel Votes in Favor of Approving New Opioid Painkiller">meltee: I've read a few of your comments and you do not s...</a>
-					<div class="fix"></div>
-				</li>
-							<li class="recentcomments">
-					<img alt="" src="http://0.gravatar.com/avatar/3b56e5e842e95d020ef8a166199782df?s=96&amp;d=mm&amp;r=g" srcset="http://0.gravatar.com/avatar/3b56e5e842e95d020ef8a166199782df?s=192&amp;d=mm&amp;r=g 2x" class="avatar avatar-96 photo" height="96" width="96">					<a href="http://www.drugfree.org/join-together/senators-allow-doctors-treat-500-patients-time-buprenorphine/#comment-116442" title="Lori on Senators: Allow Doctors to Treat 500 Patients at a Time With Buprenorphine">Lori: It's not necessarily a good idea. There needs to ...</a>
-					<div class="fix"></div>
-				</li>
-			                </ul>
-                                
-            </div><!-- /.boxes -->
+            <input type="text" name="cons_email" id="cons_email" class="email" required="" placeholder="Enter your email address" maxlength="255">
 
-        </div><!-- /wooTabs -->
+            <div style="display:none">
+                <input type="text" name="denySubmit" id="denySubmit" value="" alt="This field is used to prevent form submission by scripts.">&nbsp;Please leave this field empty
+            </div>
 
-        </div>         <div id="drugfree_cta-9" class="widget widget_drugfree_cta"><h3 class="widget-title"><span>DONATE</span></h3><h4 class="widget-subtitle"><span>&amp; MAKE A DIFFERENCE</span></h4><div class="content"><p>We work every day to reduce teen substance abuse and support families impacted by addiction.</p></div><a href="/donate" title="GIVE NOW" class="button blue rounded" target="_self">GIVE NOW</a></div><div id="drugfree_parent_survival_guide-3" class="widget widget_drugfree_parent_survival_guide">
+
+
+            <input type="hidden" name="SURVEY_ID" id="SURVEY_ID" value="1162">
+            <center><input type="submit" name="ACTION_SUBMIT_SURVEY_RESPONSE" id="ACTION_SUBMIT_SURVEY_RESPONSE" value="SIGN ME UP" class="button blue rounded">
+            </center>
+
+        </div>
+
+
+    </form>
+     <!--End BB Form  -->
+
+</div><div id="drugfree_cta-9" class="widget widget_drugfree_cta"><h3 class="widget-title"><span>DONATE</span></h3><h4 class="widget-subtitle"><span>&amp; MAKE A DIFFERENCE</span></h4><div class="content"><p>We work every day to reduce teen substance abuse and support families impacted by addiction.</p></div><a href="/donate" title="GIVE NOW" class="button blue rounded" target="_self">GIVE NOW</a></div><div id="drugfree_parent_survival_guide-3" class="widget widget_drugfree_parent_survival_guide">
 		<p class="widget-title">Parent Survival Guide</p>
 		<p class="widget-content">Tips for raising drug-free kids.</p>
 		<span class="widget-button"><a href="/the-parent-toolkit/">Read More</a></span>
@@ -1063,33 +644,36 @@ Over the last 7 months we have discovered our...</a>
 
 						
 						<li>
-							<a href="https://www.facebook.com/partnershipdrugfree/posts/10153718592935292" title="Posted June 02, 2016" target="_blank">
-								Too many families have lost someone they love to a drug overdose. In fact, today, 128 families are grieving, and today’s toxicology report adds one …							</a>
+							<a href="https://www.facebook.com/partnershipdrugfree/posts/10154192104020292" title="Posted December 01, 2016" target="_blank">
+								Thank you! Your generosity helped us exceed our $5,000 #GivingTuesday goal and ensures families will continue to get the tools, resources and answers …							</a>
 						</li>
 
 						
 						<li>
-							<a href="https://www.facebook.com/partnershipdrugfree/posts/10153716602915292" title="Posted June 01, 2016" target="_blank">
-								What are High-Intensity Drug Trafficking Area programs doing to combat the heroin epidemic? Find out here…							</a>
+							<a href="https://www.facebook.com/partnershipdrugfree/posts/10154187456025292" title="Posted November 30, 2016" target="_blank">
+								We've almost reached $10,000 for #GivingTuesday, and that includes the support from each Partnership employee! That's how much we believe in the work …							</a>
 						</li>
 
 						
 						<li>
-							<a href="https://www.facebook.com/partnershipdrugfree/posts/10153705685770292" title="Posted May 27, 2016" target="_blank">
-								It is important that we put a face on the drug overdose epidemic in the United States. 129ADay is honoring the individuals lost to drug overdose by sh…							</a>
+							<a href="https://www.facebook.com/partnershipdrugfree/posts/10154186926020292" title="Posted November 29, 2016" target="_blank">
+								We asked "Why do you choose to support the Partnership for Drug-Free Kids this #GivingTuesday?" Here are some reasons why...
+
+http://ow.ly/j8rW3064W9I							</a>
 						</li>
 
 						
 						<li>
-							<a href="https://www.facebook.com/partnershipdrugfree/posts/10153701808130292" title="Posted May 25, 2016" target="_blank">
-								With graduation parties and Memorial Day BBQs taking place this weekend, it’s an important time to talk with your kids about alcohol. Learn more...
-…							</a>
+							<a href="https://www.facebook.com/partnershipdrugfree/posts/10154182357845292" title="Posted November 29, 2016" target="_blank">
+								One day. So many reasons to give. Help support the Partnership for Drug-Free Kids today on #GivingTuesday! http://ow.ly/j8rW3064W9I
+
+#socialgood #phil…							</a>
 						</li>
 
 						
 						<li>
-							<a href="https://www.facebook.com/partnershipdrugfree/posts/10153699821025292" title="Posted May 24, 2016" target="_blank">
-								A grandparent= part parent, part teacher, part everyday hero to the kids affected by the heroin epidemic							</a>
+							<a href="https://www.facebook.com/partnershipdrugfree/posts/10154184413785292" title="Posted November 28, 2016" target="_blank">
+								This Giving Tuesday, a global day of giving fueled by the power of social media, share why you choose to support the Partnership. We invite you to hel…							</a>
 						</li>
 
 						
@@ -1102,239 +686,297 @@ Over the last 7 months we have discovered our...</a>
 							<li><a href="https://twitter.com/drugnews" class="twitter-follow-button" data-show-count="true" data-show-screen-name="true" data-lang="en" target="_blank">Follow @drugnews</a></li>
 
 						
-							<li>@<a class="tweet-url username" href="http://twitter.com/Thunderdunk53" rel="external" target="_blank">Thunderdunk53</a> He is truly missed. What a spirit! We are grateful for the support your family has shown us.</li>
+							<li>RT @<a class="tweet-url username" href="http://twitter.com/Botticelli44" rel="external" target="_blank">Botticelli44</a>: <a class="tweet-url hashtag" href="http://twitter.com/search?q=%23CuresAct" rel="external" target="_blank">#CuresAct</a> passed House &amp;moves to the Senate. Includes the $1 billion @<a class="tweet-url username" href="http://twitter.com/POTUS" rel="external" target="_blank">POTUS</a> called for to expand access to lifesaving pre…</li>
 
 						
-							<li>Partnership President reacts to confirmed <a class="tweet-url hashtag" href="http://twitter.com/search?q=%23opioid" rel="external" target="_blank">#opioid</a> abuse, death of <a class="tweet-url hashtag" href="http://twitter.com/search?q=%23Prince" rel="external" target="_blank">#Prince</a> <a class="tweet-url tweek-link" href="https://t.co/HCavGoSpAq" rel="external" target="_blank">https://t.co/HCavGoSpAq</a> <a class="tweet-url hashtag" href="http://twitter.com/search?q=%23RIPPrince" rel="external" target="_blank">#RIPPrince</a> <a class="tweet-url hashtag" href="http://twitter.com/search?q=%23129aDay" rel="external" target="_blank">#129aDay</a> <a class="tweet-url hashtag" href="http://twitter.com/search?q=%23howmanyfamilies" rel="external" target="_blank">#howmanyfamilies</a></li>
+							<li>We are grateful for your support @<a class="tweet-url username" href="http://twitter.com/BillEduTheater" rel="external" target="_blank">BillEduTheater</a> and admire the work you do to advocate for families impacted by th… <a class="tweet-url tweek-link" href="https://t.co/YPkZbxD2hQ" rel="external" target="_blank">https://t.co/YPkZbxD2hQ</a></li>
 
 						
-							<li>Senators: Allow Doctors to Treat 500 Patients at a Time With Buprenorphine <a class="tweet-url tweek-link" href="https://t.co/MCGPdyghn9" rel="external" target="_blank">https://t.co/MCGPdyghn9</a> via <a class="tweet-url hashtag" href="http://twitter.com/search?q=%23JoinTogetherNews" rel="external" target="_blank">#JoinTogetherNews</a> <a class="tweet-url hashtag" href="http://twitter.com/search?q=%23MAT" rel="external" target="_blank">#MAT</a></li>
+							<li>Thank you! Your generosity helped us exceed our $5,000 <a class="tweet-url hashtag" href="http://twitter.com/search?q=%23GivingTuesday" rel="external" target="_blank">#GivingTuesday</a> goal and ensures families will continue to ge… <a class="tweet-url tweek-link" href="https://t.co/BCdarJ0L2H" rel="external" target="_blank">https://t.co/BCdarJ0L2H</a></li>
 
 						
-							<li>RT @<a class="tweet-url username" href="http://twitter.com/stevedamish_ENT" rel="external" target="_blank">stevedamish_ENT</a>: What <a class="tweet-url hashtag" href="http://twitter.com/search?q=%23Prince" rel="external" target="_blank">#Prince</a> &amp; so many OD victims in <a class="tweet-url hashtag" href="http://twitter.com/search?q=%23Brockton" rel="external" target="_blank">#Brockton</a> area have in common: <a class="tweet-url hashtag" href="http://twitter.com/search?q=%23fentanyl" rel="external" target="_blank">#fentanyl</a>. @<a class="tweet-url username" href="http://twitter.com/drugnews" rel="external" target="_blank">drugnews</a> <a class="tweet-url tweek-link" href="https://t.co/uftVMsUjPJ" rel="external" target="_blank">https://t.co/uftVMsUjPJ</a> https…</li>
+							<li>RT @<a class="tweet-url username" href="http://twitter.com/DrLeanaWen" rel="external" target="_blank">DrLeanaWen</a>: We must treat <a class="tweet-url hashtag" href="http://twitter.com/search?q=%23substanceuse" rel="external" target="_blank">#substanceuse</a> disorders with same urgency as we do other diseases--Secretary Vilsack closing the final <a class="tweet-url hashtag" href="http://twitter.com/search?q=%23MHCBS" rel="external" target="_blank">#MHCBS</a>…</li>
 
 						
 				
 				</ul><!-- /#tab-tw -->
 			</div><!-- /.boxes -->
  		</div><!-- /#tabs -->
-		</div><div id="drugfree_stay_informed-7" class="widget widget_drugfree_stay_informed">
-		<h3 class="widget-title">Stay Informed<span class="envelope"></span></h3>
-		<form action="http://drugfree.us2.list-manage.com/subscribe/post?u=fe8b33972f29b8e3f893baefc&amp;id=34168a2307" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
-			<div class="mc-field-group">
-				<p class="widget-description">Get the latest news from the Partnership for Drug-Free Kids</p>
-				<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Enter Your Email"><br>
-        <input type="checkbox" value="8" name="group[41][8]" id="mce-group-id" checked="" style="display: none;">
-				<hr class="widget-line">
-				<div class="input-wrap">
-					<input class="pickid" type="radio" name="pickid" value="8" checked="checked">Stay Informed Newsletter<br>
-					<input class="pickid" type="radio" name="pickid" value="2">Join Together Newsletter (daily)<br>
-					<input class="pickid" type="radio" name="pickid" value="4">Join Together Newsletter (weekly)<br>
-				</div>
-				<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button blue rounded">
-			</div>
-				<div id="mce-responses" class="clear">
-				<div class="response" id="mce-error-response" style="display:none"></div>
-				<div class="response" id="mce-success-response" style="display:none"></div>
-			</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-			<div style="position: absolute; left: -5000px;"><input type="text" name="b_fe8b33972f29b8e3f893baefc_58cc5b89cf" value=""></div>
-		</form>
-
-		<script>
-		jQuery(function() {
-			// On click change the form action
-			jQuery('.pickid').on('change', function() {
-
-				if (this.value == '8') {
-					var group_value = '8';
-					var group_name = 'group[41][8]';
-				} else if (this.value == '2') {
-					var group_value = '2';
-					var group_name = 'group[37][2]';
-				} else {
-					var group_value = '4';
-					var group_name = "group[37][4]";
-				}
-				jQuery('#mce-group-id').attr({
-					'value' : group_value,
-					'name' : group_name
-					});
-			});
-		});
-		</script>
-
-
 		</div></aside><!-- /#sidebar -->
 
-		</div><!-- /#main-sidebar-container -->
+    </div><!-- /#main-sidebar-container -->
 
-		
-    </div><!-- /#content -->
-	
-	</div><!-- /#inner-wrapper -->
+    
+</div><!-- /#content -->
+
+</div><!-- /#inner-wrapper -->
 </div><!-- /#wrapper -->
 <div class="fix"></div><!--/.fix-->
 
 
 <footer id="footer" class="col-full">
-	<div id="footer-top">
-		<div id="widget-wrap">
-			
-			<section id="footer-full-width" class="sidebar widget-area col-full">
-				<section id="drugfree_key_findings-7" class="widget widget_drugfree_key_findings"><span class="title-wrap"><h3 class="widget-title"><span>Key Findings*</span></h3></span><div class="findings-single"><div class="image"><div class="inner"><img width="172" height="100" src="http://i2.wp.com/www.drugfree.org/wp-content/uploads/2014/05/seventyeight-headphones.jpg?resize=172%2C100" class="key-findings-image wp-post-image" alt="seventy eight percent headphones graphic"></div></div><div class="content"><p>78 percent of teens say they have friends who use marijuana regularly.</p>
+    <div id="footer-top">
+        <div id="widget-wrap">
+            
+            <section id="footer-full-width" class="sidebar widget-area col-full">
+                <section id="drugfree_key_findings-7" class="widget widget_drugfree_key_findings"><span class="title-wrap"><h3 class="widget-title"><span>Key Findings*</span></h3></span><div class="findings-single"><div class="image"><div class="inner"><img width="172" height="100" src="http://www.drugfree.org/wp-content/uploads/2014/05/KF_mariju2.png" class="key-findings-image wp-post-image" alt="KF_mariju2"></div></div><div class="content"><p>When forced to choose, a majority of parents identify the number one place where it should be permissible to advertise marijuana as "nowhere."</p>
+<pre>*Drugfree Marijuana Survey</pre>
+</div><div class="share"><a href="#">Share <span class="share-icon"></span></a><div class="share-wrap"><div class="inner"><div class="fb-share-button share-button" data-type="button" data-href="http://www.drugfree.org/key-findings/forced-choose-majority-parents-identify-number-one-place-permissible-advertise-marijuana-nowhere/"></div><a name="twitter_share" data-count="none" href="https://twitter.com/share" class="twitter-share-button share-button" data-text="When forced to choose, a majority of parents identify the number one place where it should be permissible to advertise marijuana as &quot;nowhere.&quot;
+
+*Drugfree Marijuana Survey http://www.drugfree.org/wp-content/uploads/2014/05/KF_mariju2.png" data-url="http://www.drugfree.org">Tweet</a></div><!-- .inner --></div><!-- .share-wrap --></div><!-- .share --></div><div class="findings-single"><div class="image"><div class="inner"><img width="172" height="100" src="http://www.drugfree.org/wp-content/uploads/2014/05/fortyPercent.jpg" class="key-findings-image wp-post-image" alt="marijuana forty percent graphic"></div></div><div class="content"><p>"Heavy" use of marijuana among teens is up 40 percent since 2008.</p>
+<pre>*PATS 2013</pre>
+</div><div class="share"><a href="#">Share <span class="share-icon"></span></a><div class="share-wrap"><div class="inner"><div class="fb-share-button share-button" data-type="button" data-href="http://www.drugfree.org/key-findings/heavy-use-marijuana-among-teens-60-percent-since-2008/"></div><a name="twitter_share" data-count="none" href="https://twitter.com/share" class="twitter-share-button share-button" data-text="&quot;Heavy&quot; use of marijuana among teens is up 40 percent since 2008.
+
+
+*PATS 2013 http://www.drugfree.org/wp-content/uploads/2014/05/fortyPercent.jpg" data-url="http://www.drugfree.org">Tweet</a></div><!-- .inner --></div><!-- .share-wrap --></div><!-- .share --></div><div class="findings-single"><div class="image"><div class="inner"><img width="172" height="100" src="http://www.drugfree.org/wp-content/uploads/2014/05/KF_general3.png" class="key-findings-image wp-post-image" alt="KF_general3"></div></div><div class="content"><p>90 percent of addictions start in the teen years.</p>
+<pre>*2012 CASA Columbia</pre>
+</div><div class="share"><a href="#">Share <span class="share-icon"></span></a><div class="share-wrap"><div class="inner"><div class="fb-share-button share-button" data-type="button" data-href="http://www.drugfree.org/key-findings/90-percent-addictions-start-teen-years/"></div><a name="twitter_share" data-count="none" href="https://twitter.com/share" class="twitter-share-button share-button" data-text="90 percent of addictions start in the teen years.
+*2012 CASA Columbia http://www.drugfree.org/wp-content/uploads/2014/05/KF_general3.png" data-url="http://www.drugfree.org">Tweet</a></div><!-- .inner --></div><!-- .share-wrap --></div><!-- .share --></div><div class="findings-single last"><div class="image"><div class="inner"><img width="172" height="100" src="http://www.drugfree.org/wp-content/uploads/2014/05/seventyeight-headphones.jpg" class="key-findings-image wp-post-image" alt="seventy eight percent headphones graphic"></div></div><div class="content"><p>78 percent of teens say they have friends who use marijuana regularly.</p>
 <pre>*PATS 2013</pre>
 </div><div class="share"><a href="#">Share <span class="share-icon"></span></a><div class="share-wrap"><div class="inner"><div class="fb-share-button share-button" data-type="button" data-href="http://www.drugfree.org/key-findings/69-percent-teens-say-friends-use-marijuana-regularly/"></div><a name="twitter_share" data-count="none" href="https://twitter.com/share" class="twitter-share-button share-button" data-text="78 percent of teens say they have friends who use marijuana regularly.
 
-*PATS 2013 http://i2.wp.com/www.drugfree.org/wp-content/uploads/2014/05/seventyeight-headphones.jpg?resize=172%2C100" data-url="http://www.drugfree.org">Tweet</a></div><!-- .inner --></div><!-- .share-wrap --></div><!-- .share --></div><div class="findings-single"><div class="image"><div class="inner"><img width="172" height="100" src="http://i0.wp.com/www.drugfree.org/wp-content/uploads/2014/05/KF_general3.png?resize=172%2C100" class="key-findings-image wp-post-image" alt="KF_general3"></div></div><div class="content"><p>90 percent of addictions start in the teen years.</p>
-<pre>*2012 CASA Columbia</pre>
-</div><div class="share"><a href="#">Share <span class="share-icon"></span></a><div class="share-wrap"><div class="inner"><div class="fb-share-button share-button" data-type="button" data-href="http://www.drugfree.org/key-findings/90-percent-addictions-start-teen-years/"></div><a name="twitter_share" data-count="none" href="https://twitter.com/share" class="twitter-share-button share-button" data-text="90 percent of addictions start in the teen years.
-*2012 CASA Columbia http://i0.wp.com/www.drugfree.org/wp-content/uploads/2014/05/KF_general3.png?resize=172%2C100" data-url="http://www.drugfree.org">Tweet</a></div><!-- .inner --></div><!-- .share-wrap --></div><!-- .share --></div><div class="findings-single"><div class="image"><div class="inner"><img width="172" height="100" src="http://i1.wp.com/www.drugfree.org/wp-content/uploads/2014/05/KF_drugs2.png?resize=172%2C100" class="key-findings-image wp-post-image" alt="KF_drugs2"></div></div><div class="content"><p>One in four teens has misused or abused a prescription drug at least once in their lifetime.</p>
-<pre>*PATS 2013</pre>
-</div><div class="share"><a href="#">Share <span class="share-icon"></span></a><div class="share-wrap"><div class="inner"><div class="fb-share-button share-button" data-type="button" data-href="http://www.drugfree.org/key-findings/one-four-teens-misused-abused-prescription-drug-least-lifetime/"></div><a name="twitter_share" data-count="none" href="https://twitter.com/share" class="twitter-share-button share-button" data-text="One in four teens has misused or abused a prescription drug at least once in their lifetime.
+*PATS 2013 http://www.drugfree.org/wp-content/uploads/2014/05/seventyeight-headphones.jpg" data-url="http://www.drugfree.org">Tweet</a></div><!-- .inner --></div><!-- .share-wrap --></div><!-- .share --></div></section>            </section>
+        </div><!-- #widget-wrap -->
+    </div><!-- #footer-top -->
 
-*PATS 2013 http://i1.wp.com/www.drugfree.org/wp-content/uploads/2014/05/KF_drugs2.png?resize=172%2C100" data-url="http://www.drugfree.org">Tweet</a></div><!-- .inner --></div><!-- .share-wrap --></div><!-- .share --></div><div class="findings-single last"><div class="image"><div class="inner"><img width="172" height="100" src="http://i1.wp.com/www.drugfree.org/wp-content/uploads/2014/05/KF_general4.png?resize=172%2C100" class="key-findings-image wp-post-image" alt="KF_general4"></div></div><div class="content"><p>The estimated cost of illicit drug and alcohol use in America is $428 billion dollars a year in costs related to crime, lost work productivity and health care.</p>
-<pre>*NIDA</pre>
-</div><div class="share"><a href="#">Share <span class="share-icon"></span></a><div class="share-wrap"><div class="inner"><div class="fb-share-button share-button" data-type="button" data-href="http://www.drugfree.org/key-findings/estimated-cost-illicit-drug-alcohol-use-america-428-billion-dollars-year-costs-related-crime-lost-work-productivity-health-care/"></div><a name="twitter_share" data-count="none" href="https://twitter.com/share" class="twitter-share-button share-button" data-text="The estimated cost of illicit drug and alcohol use in America is $428 billion dollars a year in costs related to crime, lost work productivity and health care.
+        <div id="footer-lower">
 
-*NIDA http://i1.wp.com/www.drugfree.org/wp-content/uploads/2014/05/KF_general4.png?resize=172%2C100" data-url="http://www.drugfree.org">Tweet</a></div><!-- .inner --></div><!-- .share-wrap --></div><!-- .share --></div></section>			</section>
-		</div><!-- #widget-wrap -->
-	</div><!-- #footer-top -->
+        <div class="inner">
 
-		<div id="footer-lower">
+            <div id="copyright" class="col-left">
+                <p>© 2016 Partnership for Drug-Free Kids | <a href="/privacy">Privacy Policy</a> |  <a href="/terms">Terms of Use</a> |  <a href="/sitemap">Site Map</a></p>
+                <p class="sag">Thanks to SAG-AFTRA and its members for their ongoing generosity and support of the organization and our cause.</p>
+            </div>
 
-		<div class="inner">
+            <aside id="footer-5" class="widget-area col-right">
+                <section id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-top-menu-container"><ul id="menu-top-menu" class="menu"><li class="stay-informed menu-item menu-item-type-custom menu-item-object-custom first-menu-item menu-item-14"><a href="http://dfk.convio.net/site/Survey?ACTION_REQUIRED=URI_ACTION_USER_REQUESTS&amp;SURVEY_ID=1162"><span class="envelope"></span> Stay Informed</a><div id="subscribe-submenu" class="menu-submenu">
+    <div class="inner">
+    <p>Get the latest news from<br>Partnership for Drug-Free Kids</p>
 
-			<div id="copyright" class="col-left">
-				<p>© 2016 Partnership for Drug-Free Kids | <a href="/privacy">Privacy Policy</a> |  <a href="/terms">Terms of Use</a> |  <a href="/sitemap">Site Map</a></p>
-				<p class="sag">Thanks to SAG-AFTRA and its members for their ongoing generosity and support of the organization and our cause.</p>
-			</div>
+    <!-- Begin BB Signup Form -->
 
-			<aside id="footer-5" class="widget-area col-right">
-				<section id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-top-menu-container"><ul id="menu-top-menu" class="menu"><li class="stay-informed menu-item menu-item-type-custom menu-item-object-custom first-menu-item menu-item-14"><a href="/subscriptions/"><span class="envelope"></span> Stay Informed</a><div id="subscribe-submenu" class="menu-submenu">
-		<div class="inner">
-		<p>Get the latest news from<br>Partnership for Drug-Free Kids</p>
-		<!-- Begin MailChimp Signup Form -->
+    <div id="mc_embed_signup">
+        <form method="POST" action="http://dfk.convio.net/site/Survey?ACTION_REQUIRED=URI_ACTION_USER_REQUESTS&amp;SURVEY_ID=1162">
 
-		<div id="mc_embed_signup">
-			<form action="http://drugfree.us2.list-manage.com/subscribe/post?u=fe8b33972f29b8e3f893baefc&amp;id=34168a2307" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
-				<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" required="" placeholder="Enter your email address">
-				<input type="checkbox" value="8" name="group[41][8]" id="mce-group[41]-41-0" checked="" style="display: none;">
-			    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-			    <p style="position: absolute; left: -5000px;"><input type="text" name="b_fe8b33972f29b8e3f893baefc_34168a2307" tabindex="-1" value=""></p>
-			    <p><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button blue rounded"></p>
-			</form>
-		</div>
-		<!--End mc_embed_signup-->
-		</div>
-		</div></li>
+        <div class="appArea">
+
+            <input type="hidden" name="cons_info_component" id="cons_info_component" value="t">
+
+            <input type="text" name="cons_email" id="cons_email" class="email" required="" placeholder="Enter your email address" size="35" maxlength="255">
+
+            <div style="display:none">
+                <input type="text" name="denySubmit" id="denySubmit" value="" alt="This field is used to prevent form submission by scripts.">&nbsp;Please leave this field empty
+            </div>
+
+            <p>
+                <input type="submit" name="ACTION_SUBMIT_SURVEY_RESPONSE" id="ACTION_SUBMIT_SURVEY_RESPONSE" value="SUBSCRIBE" class="Button">&nbsp;&nbsp;
+                </p><div style="display:none">
+                <input type="reset" name="reset" id="reset" value="Reset Answers" class="Button">&nbsp;&nbsp;
+                <input type="submit" name="ACTION_CANCEL_RESPONSE_SUBMIT" id="ACTION_CANCEL_RESPONSE_SUBMIT" value="Cancel" class="Button">
+                </div>
+            <p></p>
+
+            <input type="hidden" name="SURVEY_ID" id="SURVEY_ID" value="1162">
+
+        
+    </div></form>
+    <!--End BB Form  -->
+</div><!--inner->
+</div><!--subscribe-submenu--></div></div></li>
 <li class="news-nav menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-34661"><a href="http://www.drugfree.org/the-newsroom/">News</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom first-menu-item menu-item-34662"><a href="/newsroom">Partnership News Blog</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom last-menu-item menu-item-38502"><a href="/join-together/">Join Together News Service</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom first-menu-item menu-item-34662"><a href="/newsroom">Partnership News</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom last-menu-item menu-item-38502"><a href="/news-service/">Latest Drug &amp; Alcohol News</a></li>
 </ul>
 </li>
-<li class="donate menu-item menu-item-type-custom menu-item-object-custom last-menu-item menu-item-39784"><a href="https://www.drugfree.org/donate/">Donate Now</a><div id="donate-submenu" class="menu-submenu">
-		<div class="inner">
-                <div class="gf_browser_unknown gform_wrapper" id="gform_wrapper_1"><form method="post" enctype="multipart/form-data" id="gform_1" action="/privacy/">
-                        <div class="gform_heading">
-                            <span class="gform_description">Select your gift to make a difference<br> in the lives of kids and families:</span>
-                        </div>
-                        <div class="gform_body"><ul id="gform_fields_1" class="gform_fields top_label form_sublabel_below description_below"><li id="field_1_2" class="gfield gfield_price gfield_price_1_2 gfield_product_1_2 field_sublabel_below field_description_below"><label class="gfield_label">&nbsp;</label><div class="ginput_container ginput_container_radio"><ul class="gfield_radio" id="input_1_2"><li class="gchoice_1_2_0"><input name="input_2" type="radio" value="$30|30" id="choice_1_2_0" tabindex="1"><label for="choice_1_2_0" id="label_1_2_0">$30</label></li><li class="gchoice_1_2_1"><input name="input_2" type="radio" value="$100|100" id="choice_1_2_1" tabindex="2"><label for="choice_1_2_1" id="label_1_2_1">$100</label></li><li class="gchoice_1_2_2"><input name="input_2" type="radio" value="$250|250" id="choice_1_2_2" tabindex="3"><label for="choice_1_2_2" id="label_1_2_2">$250</label></li><li class="gchoice_1_2_3"><input name="input_2" type="radio" value="$1000|1000" id="choice_1_2_3" tabindex="4"><label for="choice_1_2_3" id="label_1_2_3">$1000</label></li><li class="gchoice_1_2_4"><input name="input_2" type="radio" value="Other|0" id="choice_1_2_4" tabindex="5"><label for="choice_1_2_4" id="label_1_2_4">Other</label></li></ul></div></li><li id="field_1_3" class="gfield gform_hidden field_sublabel_below field_description_below"><input name="input_3" id="input_1_3" type="hidden" class="gform_hidden" value="0"></li>
-                            </ul></div>
-        <div class="gform_footer top_label"> <input type="submit" id="gform_submit_button_1" class="gform_button button" value="Donate" tabindex="6" onclick="if(window[&quot;gf_submitting_1&quot;]){return false;}  window[&quot;gf_submitting_1&quot;]=true;  "> 
-            <input type="hidden" class="gform_hidden" name="is_submit_1" value="1">
-            <input type="hidden" class="gform_hidden" name="gform_submit" value="1">
-            
-            <input type="hidden" class="gform_hidden" name="gform_unique_id" value="">
-            <input type="hidden" class="gform_hidden" name="state_1" value="WyJ7XCIyXCI6W1wiY2Q2MDczNzIxZDNkZGMyNzA2MmFmNTcyY2ExMzNlODVcIixcImU2NDY4YzFjODQ5MGQzYjFhYjlhNzc5OTRhMjQ0NmIwXCIsXCI1OWZiY2EzMjAzODU5ZjNiODkyM2IzMzE5MzEzYTFjNVwiLFwiNDE5NDliZTFkOWZmZGEwZWRiMWJhMjA2OTE2YWE5ZDdcIixcImU5MWEwZWMzNWEyZjJjYzk0ZjU0YTdjNWNkYjJkYTQ1XCJdfSIsImYxNDMwOWFlZmQxMTY1NDI3NmMxMWYzODFhM2I0ZmUwIl0=">
-            <input type="hidden" class="gform_hidden" name="gform_target_page_number_1" id="gform_target_page_number_1" value="0">
-            <input type="hidden" class="gform_hidden" name="gform_source_page_number_1" id="gform_source_page_number_1" value="1">
-            <input type="hidden" name="gform_field_values" value="">
-            
-        </div>
-                        </form>
-                        </div></div>
-		</div></li>
-</ul></div></section>			</aside>
+<li class="donate menu-item menu-item-type-custom menu-item-object-custom last-menu-item menu-item-39784"><a href="/donate/">Donate Now</a><div id="donate-submenu" class="menu-submenu">
+            <div class="inner"></div>
+            </div></li>
+</ul></div></section>            </aside>
 
-			<div class="fix"></div><!--/.fix-->
+            <div class="fix"></div><!--/.fix-->
 
-			<div id="credits" class="col-left">
-				<div class="col-1 col-left">
-					<a href="http://give.org/charity-reviews/national/human-services/partnership-for-drug-free-kids-in-new-york-ny-1350" target="_blank"><i class="bbb"></i></a>
-				</div>
-				<div class="col-2 col-left">
-					<p><!--Partnership for Drug-Free Kids meets and adheres to the BBB Wise Giving Alliance standards of conduct for charities.--><a href="http://www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=4301#.VGIqfssd-M8" target="_blank"><img src="/wp-content/themes/drugfree/images/footer-charity-navigator.png" border="0" width="162" height="43"></a></p>
-				</div>
- 
- 				                <style type="text/css">
-				#footer #footer-lower #credits { padding-right: 0; }
-				#footer #footer-lower #credits .col-2 { width: 60%; }
-				#footer #footer-lower #credits .col-3 { margin-top: 0; width: 20%; text-align: center; }
-				</style>
-						
+            <div id="credits" class="col-left">
+                <div class="col-1 col-left">
+                    <a href="http://give.org/charity-reviews/national/human-services/partnership-for-drug-free-kids-in-new-york-ny-1350" target="_blank"><i class="bbb"></i></a>
+                </div>
+                <div class="col-2 col-left">
+                    <p><!--Partnership for Drug-Free Kids meets and adheres to the BBB Wise Giving Alliance standards of conduct for charities.--><a href="http://www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=4301#.VGIqfssd-M8" target="_blank"><img src="/wp-content/themes/drugfree/images/footer-charity-navigator.png" border="0" width="162" height="43"></a></p>
+                </div>
+
+
                 <div class="col-3 col-left">
                     <p><img src="/wp-content/themes/drugfree/images/best-logo.png" border="0" width="55" height="92"></p>
                 </div>
-                
-	
-			</div><!-- #credits -->
 
-			<aside id="footer-6" class="widget-area col-left">
-				<div class="col-3 col-left smile">
+
+            </div><!-- #credits -->
+
+            <aside id="footer-6" class="widget-area col-left">
+                <div class="col-3 col-left smile">
 							<p>Shop at AmazonSmile and Amazon will make a donation to the Partnership<a href="http://smile.amazon.com/ch/13-3413627" target="_blank"><i class="amazon"></i></a></p>
-						 </div>			</aside>
+						 </div>            </aside>
 
-			<aside id="footer-7" class="widget-area col-right" style="position:relative; left:50px;">
-				<section id="drugfree_social_icons-5" class="widget widget_drugfree_social_icons"><h3 class="widget-title"><span>Connect With Us</span></h3><ul class="social-icons"><li class="icon"><a href="https://twitter.com/drugnews?utm_source=Drugfree%2BHomepage&amp;utm_medium=Twitter%2BIcon&amp;utm_campaign=Home%2C%2BTwitter%2BIcon" title="Twitter" target="_blank"><span class="twitter-icon social-icon"></span></a></li><li class="icon"><a href="https://facebook.com/partnershipdrugfree?utm_source=Drugfree%2BHomepage&amp;utm_medium=Facebook%2BIcon&amp;utm_campaign=Home%2C%2BFacebook%2BIcon" title="Facebook" target="_blank"><span class="facebook-icon social-icon"></span></a></li><li class="icon"><a href="https://youtube.com/user/drugfreechannel?utm_source=Drugfree%2BHomepage&amp;utm_medium=YouTube%2BIcon&amp;utm_campaign=Home%2C%2BYouTube%2BIcon" title="YouTube" target="_blank"><span class="youtube-icon social-icon"></span></a></li><li class="icon"><a href="http://instagram.com/thepartnership?utm_source=Drugfree%2BHomepage&amp;utm_medium=Instagram%2BIcon&amp;utm_campaign=Home%2C%2BInstagram%2BIcon" title="Instagram" target="_blank"><span class="instagram-icon social-icon"></span></a></li><li class="icon"><a href="https://plus.google.com/102958729736577994310/posts?utm_source=Drugfree%2BHomepage&amp;utm_medium=Googleplus%2BIcon&amp;utm_campaign=Home%2C%2BInstagram%2BIcon" title="GooglePlus" target="_blank"><span class="googleplus-icon social-icon"></span></a></li></ul></section><a href="/drug-guide/mobile-app/" class="get-mobile-app-btn">GET THE APP</a>
-			</aside>
+            <aside id="footer-7" class="widget-area col-right" style="position:relative; left:50px;">
+                <section id="drugfree_social_icons-5" class="widget widget_drugfree_social_icons"><h3 class="widget-title"><span>Connect With Us</span></h3><ul class="social-icons"><li class="icon"><a href="https://twitter.com/drugnews?utm_source=Drugfree%2BHomepage&amp;utm_medium=Twitter%2BIcon&amp;utm_campaign=Home%2C%2BTwitter%2BIcon" title="Twitter" target="_blank"><span class="twitter-icon social-icon"></span></a></li><li class="icon"><a href="https://facebook.com/partnershipdrugfree?utm_source=Drugfree%2BHomepage&amp;utm_medium=Facebook%2BIcon&amp;utm_campaign=Home%2C%2BFacebook%2BIcon" title="Facebook" target="_blank"><span class="facebook-icon social-icon"></span></a></li><li class="icon"><a href="https://youtube.com/user/drugfreechannel?utm_source=Drugfree%2BHomepage&amp;utm_medium=YouTube%2BIcon&amp;utm_campaign=Home%2C%2BYouTube%2BIcon" title="YouTube" target="_blank"><span class="youtube-icon social-icon"></span></a></li><li class="icon"><a href="http://instagram.com/thepartnership?utm_source=Drugfree%2BHomepage&amp;utm_medium=Instagram%2BIcon&amp;utm_campaign=Home%2C%2BInstagram%2BIcon" title="Instagram" target="_blank"><span class="instagram-icon social-icon"></span></a></li><li class="icon"><a href="https://plus.google.com/102958729736577994310/posts?utm_source=Drugfree%2BHomepage&amp;utm_medium=Googleplus%2BIcon&amp;utm_campaign=Home%2C%2BInstagram%2BIcon" title="GooglePlus" target="_blank"><span class="googleplus-icon social-icon"></span></a></li></ul></section><a href="/drug-guide/mobile-app/" class="get-mobile-app-btn">GET THE APP</a>
+            </aside>
 
 
-		</div><!-- .inner -->
+        </div><!-- .inner -->
 
-	</div><!-- #footer-lower -->
+    </div><!-- #footer-lower -->
 </footer>
 
 <script>
-jQuery( document ).ready(function( $ ) {
-    $('#tabs .boxes a[title="As Drug Courts Expand, Critics Say They Aren’t Reaching Those in Greatest Need"]').parent('li').hide();
+    //Youtube vids - autoplay & sound off
+    var v = document.getElementById('player');
 
-    $('form#gform_1 input[type=radio]').click( function(e) {
-	  
-	  var amt = '?amount=';
-	  var sel = $(this).attr('value');
-	  var sel_split = sel.split("|");
-	  var sel_amt = sel_split[1];
-	  
-	  if(sel_amt == 0) { 
-	  	sel_amt = 'Other';
-	  } else {
-		sel_amt = '%24' + sel_amt;
-	  }
-	  
-	  window.location.href = "https://www.drugfree.org/donate/"+amt + sel_amt;
-	  //window.location = "https://www.drugfree.org/donate/"+amt + sel_amt;
-    //$('#gform_submit_button_1').trigger('click');
-  });
-  
-  $('form#gform_1 input[type=submit]').click( function(e) {  
-	  e.preventDefault();
-	  
-	  if( !$("form#gform_1 input[name='input_2']:checked").val() ) {
-		window.location.href = "https://www.drugfree.org/donate/";	  
-	  }
-  });
-  
+    if (v) {
+        var vid_id = v.getAttribute('video_id');
+
+        //This code loads the IFrame Player API code asynchronously.
+        var tag = document.createElement('script');
+        tag.src = 'http://www.youtube.com/player_api';
+        var firstScriptTag = document.getElementsByTagName('script')[0];
+        firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+        // This function creates an <iframe> (and YouTube player) after the API code downloads.
+        var player;
+
+        function onYouTubePlayerAPIReady() {
+            player = new YT.Player('player', {
+                playerVars: {
+                    'autoplay': 1,
+                    'controls': 1,
+                    'autohide': 1,
+                    'wmode': 'opaque',
+                    'rel': 0
+                },
+                videoId: vid_id,
+                events: {
+                    'onReady': onPlayerReady
+                }
+            });
+        }
+
+        // The API will call this function when the video player is ready.
+        function onPlayerReady(event) {
+            event.target.mute();
+        }
+    }
+</script>
+
+<style>
+.slideshow-window {
+    padding-top: 10% !important;
+    padding-bottom: 10% !important;
+}
+
+
+
+    a.plus-minus {width:34px;height:34px;background: url("wp-content/uploads/2015/12/heroin-plus-minus-dropdown.jpg") 0 0;}
+    .heroin_italic_title {font-size: 30px; font-family: Libre Baskerville, serif; margin:10px 0 25px 0;}
+    .blue-box-img {float: left; height: 195px;background: #fff;;margin:10px 0 0 0;}
+    .top_blue_box_div {float:left; width:55%;margin: 0 60px -30px 0;}
+    .heroin_blue_top_box {
+        border: none;
+        padding: 0px 0px 0px 0px;
+        margin-bottom: 35px; }
+    p.heroin_blue_box_text_top {color: #000000!important; font-size: 21px!important; line-height: 26px!important;padding: 5px 0 5px 0!important;}
+
+    .heroin_blue_top_box a {
+        color: #000 !important;
+    }
+
+    .heroin_blue_box_bottom {background: #2a68bd!important; padding: 20px 40px 0 40px!important;}
+
+    .heroin_blue_box_bottom p.heroin_blue_box_text_bottom {color: #2a68bd; font-size: 21px; line-height: 26px;padding: 0 0 10px 0;}
+
+    ul.heroin_margin_40t_20b {
+        margin: 20px 0 0px 0;
+    }
+    ul.heroin_margin_40t_20b li.heroin_list {width: 100%; margin: 0 0 0 -30px; list-style-type: none!important;}
+    .grey_button {float: left; width: 34px; margin: 0 20px 34px 0;}
+    .heroin_subtitle {font-size: 2.1rem; width: 100%; line-height: 36px;}
+    .heroin_image_title {float: left; width: 46%; margin: 0 48px 0 0;}
+    .heroin_content_box {float: left; width: 46%;}
+    hr.mb20 {margin: 20px 0 40px 0;}
+    .heroin_blue_divider {width: 100%; margin: 0 0 40px 0; height: 2px; background: #00e1f0;}
+    ul.list_mtb40 {margin: 40px 0; width: 100%}
+    .heroin_blue_box_botton {background: #00e1f0; padding: 20px 40px 0px 40px;}
+    .heroin_fl_100w {float: left; width: 100%;}
+    ul.heroin_bottom_list li.heroin_bottom_list_item {list-style-image: url("/wp-content/uploads/2015/12/heroin-blue-bullet.jpg");}
+    ul.list_mtb40 li.heroin_list {width: 100%; margin: 0 0 0 -30px; list-style-type: none!important;}
+    @media only screen
+    and (min-device-width : 414px)
+    and (max-device-width : 736px)
+    and (orientation : portrait) {
+        .jetpack-image-container img.aligncenter {display:none!important;}
+        .top_blue_box_div {float:left; width:100%;margin: 0 5px -5px 0;} .heroin_italic_title {line-height:28px;}
+        .heroin_content_box {float: none;width: 100%;}
+        .heroin_image_title {float: none;width: 100%;}
+        .heroin_italic_title {padding-bottom:100px;}
+    @media only screen
+    and (min-device-width : 414px)
+    and (max-device-width : 736px)
+    and (orientation : landscape) {.blue-box-img {position:absolute;left:320px;}.jetpack-image-container img.aligncenter {display:none!important;}.heroin_italic_title {padding-bottom:140px;}
+                                   .hidta-logo{position:absolute;top:205px;}}
+    @media only screen
+    and (min-device-width : 320px)
+    and (max-device-width : 568px)
+    and (orientation : portrait) {
+        .jetpack-image-container img.aligncenter {display:none!important;;}
+        .top_blue_box_div {float:left; width:100%;margin: 0 5px -5px 0;} .heroin_italic_title {line-height:28px;}
+        .heroin_content_box {float: none;width: 100%;}
+        .heroin_image_title {float: none;width: 100%;}
+        .heroin_italic_title {padding-bottom:100px;}
+    @media only screen
+    and (min-device-width : 320px)
+    and (max-device-width : 568px)
+    and (orientation : landscape){
+        .blue-box-img {position:absolute;left:320px;}.jetpack-image-container img.aligncenter {display:none!important;}.heroin_italic_title {padding-bottom:140px;}
+        .hidta-logo{position:absolute;top:205px;}}
+    @media only screen
+    and (min-device-width : 375px)
+    and (max-device-width : 667px)
+    and (orientation : portrait) {
+        .jetpack-image-container img.aligncenter {display:none;}
+        .top_blue_box_div {float:left; width:100%;margin: 0 5px -5px 0;} .heroin_italic_title {line-height:28px;}
+        .heroin_content_box {float: none;width: 100%;}
+        .heroin_image_title {float: none;width: 100%;}
+        .heroin_italic_title {padding-bottom:120px;}
+        .hidta-logo{position:absolute;top:300px;}}
+    @media only screen
+    and (min-device-width : 375px)
+    and (max-device-width : 667px)
+    and (orientation : landscape) {.jetpack-image-container img.aligncenter {display:none!important;}.heroin_italic_title {padding-bottom:140px;}
+                                   .hidta-logo{position:absolute;top:205px;}}
+    @media only screen
+    and (min-device-width : 360px)
+    and (max-device-width : 640px)
+    and (orientation : portrait) {.jetpack-image-container img.aligncenter {display:none!important;}.heroin_italic_title {padding-bottom:140px;}
+                                  .hidta-logo{position:absolute;top:310px;}}
+    @media only screen
+    and (min-device-width : 360px)
+    and (max-device-width : 640px)
+    and (orientation : landscape) {.blue-box-img {position:absolute;left:370px;}}
+</style>
+
+
+<script>
+jQuery(document).ready(function ($) {
+
+/* JPD added on 2/1/16 to force require the story + memorials submissions story boxes  */
     $('textarea[name="_drugfree_memorial_story"], textarea[name="_drugfree_story_story"]').attr('required', 'required');
-  
+
+/* JPD added on 2/3/16 to add a message under the label   */
     $('label[for="_drugfree_memorial_story"], label[for="_drugfree_story_story"]').after('<p style="padding: 10px 0; font-weight: 400; font-style: italic; font-family: Arial; color: #808080; line-height: 1.4; font-size: 12px">Use the text editor to the right to include your story. If this is left blank, nothing will show up on the site.</p>');
 
-  
 });
 </script>
 
 
-<!-- Generated in 2.343 seconds. (217 q) -->
+<!-- Generated in 0.257 seconds. (121 q) -->
 
 	
 <!-- WP-FB AutoConnect Premium Init v4.2.1 (NEW API) -->
@@ -1348,7 +990,7 @@ jQuery( document ).ready(function( $ ) {
             cookie: true,
             xfbml: true,
             oauth: true,
-            channelUrl: 'http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/wp-fb-autoconnect/assets/channel.html' 
+            channelUrl: 'http://www.drugfree.org/wp-content/plugins/wp-fb-autoconnect/assets/channel.html' 
         });
                     
       };
@@ -1366,7 +1008,7 @@ jQuery( document ).ready(function( $ ) {
           <input type="hidden" name="redirectTo" value="/privacy/">
           <input type="hidden" name="access_token" id="jfb_access_token" value="0">
           <input type="hidden" name="fbuid" id="jfb_fbuid" value="0">
-          <input type="hidden" id="autoconnect_nonce" name="autoconnect_nonce" value="cc4a9f5d8f"><input type="hidden" name="_wp_http_referer" value="/privacy/">          <input type="hidden" name="rememberme" id="fb_rememberme" value="0"><input type="hidden" name="premnum" id="premnum" value="4476_4476">   
+          <input type="hidden" id="autoconnect_nonce" name="autoconnect_nonce" value="c382b0ca7b"><input type="hidden" name="_wp_http_referer" value="/privacy/">          <input type="hidden" name="rememberme" id="fb_rememberme" value="0"><input type="hidden" name="premnum" id="premnum" value="4476_4476">   
      </form>
 
         <script type="text/javascript">//<!--
@@ -1420,94 +1062,29 @@ if( rememberme && rememberme.checked ) document.getElementById('fb_rememberme').
         })
     }
     //--></script>
-    	<div style="display:none">
-	<div class="grofile-hash-map-62996fabd007e9edc4dcb2b2e21fe656">
-	</div>
-	<div class="grofile-hash-map-38982a7452cc1122f4b802771e2bf18c">
-	</div>
-	<div class="grofile-hash-map-25fee9ae0c97a13a5d2440347810fc5b">
-	</div>
-	<div class="grofile-hash-map-cf3b028c0bce2cd5d85ba0a0e986748a">
-	</div>
-	<div class="grofile-hash-map-3b56e5e842e95d020ef8a166199782df">
-	</div>
-	</div>
-<!-- Woo Tabs Widget -->
-<script type="text/javascript">
-jQuery(document).ready(function(){
-	// UL = .wooTabs
-	// Tab contents = .inside
-
-	var tag_cloud_class = '#tagcloud';
-
-	//Fix for tag clouds - unexpected height before .hide()
-	var tag_cloud_height = jQuery( '#tagcloud').height();
-
-	jQuery( '.inside ul li:last-child').css( 'border-bottom','0px' ); // remove last border-bottom from list in tab content
-	jQuery( '.wooTabs').each(function(){
-		jQuery(this).children( 'li').children( 'a:first').addClass( 'selected' ); // Add .selected class to first tab on load
-	});
-	jQuery( '.inside > *').hide();
-	jQuery( '.inside > *:first-child').show();
-
-	jQuery( '.wooTabs li a').click(function(evt){ // Init Click funtion on Tabs
-
-		var clicked_tab_ref = jQuery(this).attr( 'href' ); // Strore Href value
-
-		jQuery(this).parent().parent().children( 'li').children( 'a').removeClass( 'selected' ); //Remove selected from all tabs
-		jQuery(this).addClass( 'selected' );
-		jQuery(this).parent().parent().parent().children( '.inside').children( '*').hide();
-
-		jQuery( '.inside ' + clicked_tab_ref).fadeIn(500);
-
-		 evt.preventDefault();
-
-	})
-})
-</script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/wp-external-links/js/wp-external-links.js?ver=1.80"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/comment-reply.min.js?ver=4.4.2"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.4-5380"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/droppable.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/progressbar.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/selectable.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/spinner.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/tooltip.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/effect-blind.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/effect-bounce.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/effect-clip.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/effect-drop.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/effect-explode.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/effect-fade.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/effect-fold.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/effect-highlight.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/effect-pulsate.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/effect-size.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/effect-scale.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/effect-shake.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/effect-slide.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/jquery/ui/effect-transfer.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201622"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/themes/drugfree/js/fancybox2/jquery.fancybox.pack.js?ver=1.0.0"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/themes/drugfree/lib/js/jquery.flexslider-min.js?ver=1.2"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/themes/drugfree/lib/js/select2.min.js?ver=1.2"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/themes/drugfree/js/functions.js?ver=1.2"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/themes/drugfree/js/menu.js?ver=1.2"></script>
+    <script type="text/javascript" src="http://www.drugfree.org/wp-includes/js/comment-reply.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.4-5380"></script>
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201648"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-content/themes/drugfree/lib/js/jquery.flexslider-min.js?ver=1.2"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-content/themes/drugfree/lib/js/select2.min.js?ver=1.2"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-content/themes/drugfree/js/functions.js?ver=1.2"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-content/themes/drugfree/js/menu.js?ver=1.2"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-content/themes/drugfree/js/jquery-ui-widgets-plugin-custom-code.js?ver=1.2"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-content/themes/drugfree/js/footer.js?ver=1.2"></script>
 <script type="text/javascript" src="//widget.clipix.com/ScriptWidget.js?version=1.5&amp;counter=off&amp;iconType=61&amp;language=en&amp;shape=off&amp;lightmode=on"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-includes/js/wp-embed.min.js?ver=4.4.2"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/captcha-pro/js/buddypress_script_before_2.1.js?ver=4.4.2"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/drugfree/js/drugfree-stay-informed.js?ver=1465020936"></script>
-<script type="text/javascript" src="http://drugfree.scdn1.secure.raxcdn.com/wp-content/plugins/drugfree/js/drugfree-key-findings.js?ver=1.0"></script>
-<script type="text/javascript"> if(typeof gf_global == 'undefined') var gf_global = {"gf_currency_config":{"name":"United States Dollar","symbol_left":"$","symbol_right":"","symbol_padding":" ","thousand_separator":",","decimal_separator":".","decimals":2,"american_express":true},"base_url":"http:\/\/www.drugfree.org\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"http:\/\/www.drugfree.org\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 1) {} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type="text/javascript"> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [1, 1]) } ); </script>			
+<script type="text/javascript" src="http://www.drugfree.org/wp-includes/js/wp-embed.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-content/plugins/captcha-pro/js/buddypress_script_before_2.1.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-content/plugins/drugfree/js/drugfree-stay-informed.js?ver=1480775919"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-content/plugins/drugfree/js/drugfree-key-findings.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.drugfree.org/wp-content/themes/canvas/includes/js/widget-woo-tabs.js?ver=1.0"></script>
+
             <script>
 			jQuery( document ).ready(function( $ ) {
-				
+
 				var ww = $(window).width();
-				
+
 				// load the toolbox after a timeout since we need addthis to finish loading first
 				if( ww > 400 ) {
 					setTimeout(function() {
@@ -1516,7 +1093,7 @@ jQuery(document).ready(function(){
 						});
 					}, 7000);
 				}
-				
+
 				// hide the addthis sidebar
 				$('#at-hide').click( function() {
 					setTimeout(function() {
@@ -1524,7 +1101,7 @@ jQuery(document).ready(function(){
 						$('#pdfa_addthis_toolbox').animate({
 							left: '-48px'
 						});
-						
+
 						// slide in the arrow that can display the toolbox again
 						setTimeout(function() {
 							$('#at-show').animate({
@@ -1533,7 +1110,7 @@ jQuery(document).ready(function(){
 						}, 1500);
 					}, 500);
 				});
-				
+
 				// show the addthis sidebar after it is hidden
 				$('#at-show').click( function() {
 					setTimeout(function() {
@@ -1541,7 +1118,7 @@ jQuery(document).ready(function(){
 						$('#at-show').animate({
 							left: '-10px'
 						});
-						
+
 						// slide in the arrow that can display the toolbox again
 						setTimeout(function() {
 							$('#pdfa_addthis_toolbox').animate({
@@ -1550,86 +1127,111 @@ jQuery(document).ready(function(){
 						}, 1500);
 					}, 500);
 				});
-				
+
 				// set the urls
 				var page_url = window.location.href;
 				var fb_url = "http://graph.facebook.com/?id="+page_url;
-				var tw_url = "https://cdn.api.twitter.com/1/urls/count.json?url="+page_url;
+				var tw_url = "http://urls.api.twitter.com/1/urls/count.json?url="+page_url;
 				var at_url = "http://api-public.addthis.com/url/shares.json?url="+page_url;
-			
+
 				get_stats( fb_url, 1, '.addthis_button_facebook' );
 				get_stats( tw_url, 0, '.addthis_button_twitter' );
 				get_stats( at_url, 0, '.addthis_button_more' );
-				
+
 				// ajax
 				function get_stats(the_url, count_pos, append_to){
 					$.ajax({
 						url: the_url,
 						dataType: 'jsonp',
 						success: function(data){
-							
+
 							var items = [];
 							var share_count = 0;
-							
+
 							$.each( data, function( key, val ) {
 								items.push( val );
 							});
-							
+
 							share_count = items[ count_pos ];
-							
+
 							if ( share_count > 0 ) {
 							  $( "<span />", {
 								"class": "share-counter",
 								html: abbrNum( share_count , 2)
 							  }).appendTo( append_to );
 							}
-							
+
 						}
 					});
 				};
-				
+
 				// abbreviate the numbers
 				function abbrNum(number, decPlaces) {
 					decPlaces = Math.pow(10,decPlaces);
 					var abbrev = [ "k", "m", "b", "t" ];
-				
+
 					for (var i=abbrev.length-1; i>=0; i--) {
 						var size = Math.pow(10,(i+1)*3);
 						if(size <= number) {
 							 number = Math.round(number*decPlaces/size)/decPlaces;
-							 
+
 							 if((number == 1000) && (i < abbrev.length - 1)) {
 								 number = 1;
 								 i++;
 							 }
-				
+
 							 number += abbrev[i];
-				
+
 							 break;
 						}
 					}
 					return number;
 				}
-	
+
 			});
 			</script>
-            
-			           
 
-		
-	<script type="text/javascript" src="http://stats.wp.com/e-201622.js" async="" defer=""></script>
-<script type="text/javascript">
-	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:3.9.6',blog:'68640154',post:'29549',tz:'-4',srv:'www.drugfree.org'} ]);
-	_stq.push([ 'clickTrackerInit', '68640154', '29549' ]);
+	
+<script>
+jQuery(document).ready(function ($) {
+
+    //force user to type something for search bar
+
+    $("#searchform").submit(function(e){
+
+        if( $('#s').val() == 'Search for anything here...' ||
+            $('#s').val() == '') {
+            alert( "Please type in text to search" );
+            e.preventDefault();
+        }
+    });
+
+})
+
 </script>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-<div id="fb-root"></div><script>(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=273916269452880";fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54e7686f03b1462d" async="async"></script>
-<!-- KnowClick tags – DrugFree.org -->
-<script type="text/javascript" async="" src="https://kc13v.voice-of-customers.com/cdn/voc51759e9eb2992/script.js"></script>
-<!-- END KnowClick tags – DrugFree.org -->
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9ccff6300c","applicationID":"3029079","transactionName":"Y1RTNhFZXUcFBkZeW1oecAEXUVxaSxVTUFE=","queueTime":0,"applicationTime":2611,"atts":"TxNQQFlDTkk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script>!function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (!d.getElementById(id)) {
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//platform.twitter.com/widgets.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }
+    }(document, "script", "twitter-wjs");</script>
+<div id="fb-root"></div><script>(function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id))
+            return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=273916269452880";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54e7686f03b1462d" async=""></script>
+
+
 </body></html>
