@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rezlive.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624052811id_/http%3A//rezlive.com/staticpagesrezlive/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rezlive.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203201855id_/http%3A//rezlive.com/staticpagesrezlive/privacypolicy.php) for the most accurate reproduction.*
 
-# RezLive.com - An Award Winning B2B Global Reservation System by Travel Designer Group
+# RezLive.com | Privacy Policy
 
 ### General Policy
 
