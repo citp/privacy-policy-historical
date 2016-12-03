@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchesonnet.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611003048id_/http%3A//www.watchesonnet.com/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchesonnet.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203100412id_/http%3A//www.watchesonnet.com/privacy-security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
