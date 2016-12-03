@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tintup.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504065410id_/http%3A//www.tintup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tintup.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203021335id_/http%3A//www.tintup.com/privacy) for the most accurate reproduction.*
 
-# TINT Privacy Policy
+# Privacy Policy | TINT: Create Authentic Stories in Moments
 
 **Privacy Policy**
 
