@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealer.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615200029id_/http%3A//www.dealer.com/company/dealer-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealer.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203083647id_/http%3A//www.dealer.com/company/dealer-com-privacy-policy) for the most accurate reproduction.*
 
 # Dealer.com Privacy Policy -Dealer.com
 
