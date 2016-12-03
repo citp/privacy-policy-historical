@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernwpthemes.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625012528id_/http%3A//modernwpthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernwpthemes.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203074519id_/http%3A//modernwpthemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Modern WP Themes
 
@@ -38,3 +38,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**  
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [info@modernwpthemes.com](mailto:info@modernwpthemes.com)
+
+  
+
