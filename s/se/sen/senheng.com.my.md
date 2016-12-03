@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the senheng.com.my privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229022350id_/http%3A//www.senheng.com.my/content/2-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senheng.com.my privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203194954id_/http%3A//www.senheng.com.my/content/2-privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice - Senheng
+# Privacy Notice - SENHENG ELECTRIC (KL) SDN BHD (296691-X)
 
 This privacy notice explains how we, Senheng Electric (KL) Sdn. Bhd (Company No. 296691-X) process your personal data. 
 
