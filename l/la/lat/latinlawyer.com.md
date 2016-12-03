@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latinlawyer.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612225208id_/http%3A//latinlawyer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinlawyer.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203013913id_/http%3A//latinlawyer.com/privacy) for the most accurate reproduction.*
 
 # Latin Lawyer
 
@@ -8,9 +8,9 @@ _By submitting personal data to us and/or by using our website you give your con
 
 We are LAW BUSINESS RESEARCH LIMITED. We are registered in England and Wales and have our registered office at:
 
-27 / 28 Eastcastle Street  
-London  
-W1W 8DH  
+Law Business Research  
+87 Lancaster Road   
+London, W11 1QQ  
 Company Number: 03281866 
 
 #### Scope of privacy and cookie policy
