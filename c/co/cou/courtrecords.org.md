@@ -1,102 +1,53 @@
-> *The following text is extracted and transformed from the courtrecords.org privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208202509id_/http%3A//www.courtrecords.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courtrecords.org privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203205639id_/http%3A//www.courtrecords.org/privacy.php) for the most accurate reproduction.*
 
-# CourtRecords.org
+# Privacy Policy - CourtRecords.org
 
-CIS Nationwide ("we" or "our" or "us") values the relationship that it has with its customers and is always committed to responsible information handling practices.
+Effective: July 14, 2015
 
-This privacy policy is intended to inform you about the types of information gathered by us when you visit any of our websites listed at [www.cisnationwide.com/websites](http://www.cisnationwide.com/websites.html) (each, a "Site"). Although our business and Sites have unique services and offerings, they share a similar privacy philosophy. We follow these privacy principles in our conduct in the collection, use, release and security of customer information both online and offline:
+This privacy policy is intended to inform you about the types of information gathered by CourtRecords ("we" or "us") when you use CourtRecords.org (the "Site"), how we use and safeguard that information, and the degree to which you may control the maintenance and sharing of your information.
 
-Providing you with means to [CONTACT US](mailto:privacy@cisnationwide.com) about privacy-related issues. The following Privacy Policy describes the information and privacy practices for us.
+Please note: if you are reviewing or accessing CourtRecords’ services via a third party website not under our control (such as an affiliate website), that website may have its own privacy policy. Please be sure to review that third party’s privacy policy, as its terms may differ from ours.
 
-Our Sites contain links to other websites operated by third parties. If you should click-through to these third party websites, please note that you are leaving our Site and that this privacy policy will no longer apply to any subsequent transactions that you engage with such third party websites. If this occurs, then we encourage you to read the privacy policies of those third-party websites to learn how they collect and use information about you.
+### INFORMATION COLLECTION
 
-To assist you with reading through our Privacy Policy, we have provided answers to questions that you may find most important:
+When you use the Site, we will not collect any personally identifiable information about you unless you choose to provide that information to us. 
 
- **Information Collection** When you visit a Site, we will not collect any personally identifiable information about you unless you choose to provide such information to us.
+#### Log Files
 
-If you choose to register to use a Site, and depending on which of the available options you select, we may ask you to provide certain personally identifiable information such as your name and email address. You will also be asked to provide credit card or other payment information and a billing address if you choose to purchase a product or service available on a Site. We use this information as required to provide you with the services you have requested.
+We may automatically and through third-party tracking services (e.g., Google Analytics) gather certain non-personally identifiable information about your use of our websites and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamps, and related data. We use this information, which does not identify individual users, solely to improve the quality of the Site. Out of respect for your privacy, we do not link this automatically-collected data to personally identifiable information.
 
-We do not directly collect or store any personal financial information provided in connection with your purchase of products or services
+#### Cookies
 
-We store information regarding any searches (" **search history** ") you may make on our Sites for sixty (60) days, after which time we delete such information. We may access your search history in order to send promotional emails. If you would not like to receive such promotional emails, please see our Notifications & Opt-Out paragraph below.
+We use both session ID cookies and tracking cookies. We use session cookies to make it easier for you to use the Site. A session ID cookie expires when you close your browser. We use tracking cookies to better understand how you use the Site, and to enhance your user experience. A tracking cookie remains on your hard drive for an extended period of time. You are free to decline cookies, but by doing so, you may not be able to take full advantage of all of our offerings. We do not link the information we store in cookies to any personally identifiable information you submit while using the Site.
 
-Please note that all personal financial information required to complete your purchase (such as your credit card number) will be provided to and/or collected by a third party vendor, such as ClickBank, who will process payments and complete transactions.
+### INFORMATION DISCLOSURE AND OPT-OUT
 
- **How to Update or Change Your Information or Preferences** We want your information and preferences to be accurate and complete. You may request access to any personal information and preferences that you have provided to us and correct, modify or update such information and/or preferences by sending an email with your request to [privacy@cisnationwide.com](mailto:privacy@cisnationwide.com).
+#### Disclosure
 
->Notifications & Opt-Out If you choose to register to use a Site, we will send you a welcome email including information about the Site and your registration. 
+We understand how highly our users value the privacy and security of their personally identifiable information. We will disclose information collected from and about you to the following entities for the following purposes: (1) to our related companies, service providers and suppliers, to enable them to fulfill a product or service request or to perform a business, professional or technical support function for us; (2) as necessary if we believe that there has been a violation of our Terms of Service or of our rights or the rights of any third party; and (3) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law.
 
-We may send you emails notifying you about new or upcoming products or services, news about the Site, information about changing or updating your Site registration information, and changes to the Site's terms of service, and promotional materials and offers from our company as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties.
+We may also sell, rent or lease your personal information to our marketing partners, advertisers or other third parties. If you would prefer that we not share your personal information with such third parties, please contact us.
 
-Out of respect for your privacy, if you no longer wish to receive these emails, you may opt-out of receiving them by following the instructions included in each email, or by emailing us at [privacy@cisnationwide.com](mailto:privacy@cisnationwide.com).
+In order to make the Site as useful as possible to all users, we may display comments you make on a record, along with the name you have associated with your comment, on the Site. We do not associate your comments with your personally identifiable information unless you choose to include your name with your comment. However, please be advised that if you choose to submit a comment, it will be publicly displayed on the Site. You should therefore take care not to include any information in or with any comment which you do not wish to be made public.
 
-We will take reasonable steps to implement your request to opt out. However, please note that due to production and mailing timelines, it may take around six weeks to make the requested change and, until that change takes effect, you may still receive promotional information from us.
+We may also display the subject (phone number, email address, etc.) of any searches you perform. We do not associate these results with any personally identifiable information. 
 
-**Log Files** As noted above, we automatically and through third-party tracking services (e.g., Google Analytics) gather certain non-personally identifiable information about your use of our Sites and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamps, and related data. We use this information, which does not identify individual users, solely to analyze trends, administer the Sites, track users' movements around the Site and gather demographic information about our user base as a whole, and to improve our quality of our services. Out of respect for your privacy, we do not link this automatically-collected data to personally identifiable information.
+#### Opt-Out
 
-**Cookies** Our Websites use cookies to simulate a continuous connection - cookies let us "remember" information about your preferences and allow you to move within our Websites without reintroducing yourself. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use both session ID cookies and tracking cookies. We use session cookies to make it easier for you to navigate the Site. A session ID cookie expires when you close your browser. We use tracking cookies to better understand how you use our Sites, and to enhance your user experience. A tracking cookie remains on your hard drive for an extended period of time. In addition, our vendor ClickBank may place a cookie on the Site to recognize the website that referred you to the Site. You are free to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all of our offerings. Check the "Help" menu of your browser to learn how to change your cookie preferences. We do not link the information we store in cookies to any personally identifiable information you submit while on our website.
+As a courtesy, we provide you with a method of removing certain information about you from the Site. Please [click here](https://web.archive.org/assets/data_opt_out_form.pdf) to access our Opt-Out form.
 
-**Web Beacons** Emails sent to you by us or our partners may include "web beacons". Web beacons are unique identifiers that gather certain non-personally identifiable information, and which allow us to better understand how you interact with these emails. For example, web beacons allow us to determine whether and when an email has been opened, and what links within those emails have been clicked. We use the information gathered by these web beacons simply to improve the quality of the information we provide to you. If you prefer not to provide this non-personally identifiable information to us, you may configure your email program to avoid downloading, displaying or otherwise accessing HTML emails or HTML images.
+#### Business Transitions
 
-**Information Sharing** We understand how highly our users value the privacy and security of their personally identifiable information. We will only disclose information collected from and about you, including but not limited to, your searches performed and results received, to the following entities for the following purposes:(1) to our related companies, service providers and suppliers, if the disclosure will enable them to fulfill a product or service request or to perform a business, professional or technical support function for us; (2) as necessary if we believe that there has been a violation of our terms of service or of our rights or the rights of any third party; and (3) to respond to a valid court order, subpoena, government investigation, or as otherwise required by law. We also reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful. We may release certain personal information when we believe that such release is reasonably necessary to protect the rights, property, and safety of others and ourselves. We may also release personal information in the event of a corporate sale, merger, reorganization, dissolution or similar event..
+In the event the Site goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, any personally identifiable information we have on record will likely be among the assets transferred. The transferred personally identifiable information will remain subject to the provisions of this Privacy Policy or any subsequent updated versions.
 
-We may also sell, rent or lease your personal information to our marketing partners, advertisers or other third parties. If you would prefer that we not share your personal information with such third parties, please contact us at [privacy@cisnationwide.com](mailto:privacy@cisnationwide.com).
+### INFORMATION SECURITY
 
-**Information Security** We employ encryption and other security measures to protect the loss, misuse, and alteration of the information under our control. Whenever you provide us or our partners with sensitive or confidential information, we or our partners will take commercially reasonable steps to protect such information by establishing a secure connection with your web browser, such as employing a security technology known as a secure-socket-layer ("SSL") to protect the transmission of such information.
+We employ encryption and other security measures to protect the loss, misuse, and alteration of the information under our control. Whenever you provide us or our partners with sensitive or confidential information, we or our partners will take commercially reasonable steps to protect such information by establishing a secure connection with your web browser. However, please be advised that while we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent unauthorized access, hacking, data loss, or other breaches from ever occurring. You transmit information to us at your own risk.
 
-However, please be advised that while we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent unauthorized access, hacking, data loss, or other breaches from ever occurring. You transmit information to us at your own risk.
+### CHANGES TO PRIVACY POLICY
 
-**Information Disclosure Legal Disclaimer** We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on us as provided in greater detail above.
+We may periodically update this policy, and will post the updated policy on the Site. 
 
-Business Transitions In the event we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, any personally identifiable information we have on record will likely be among the assets transferred. The transferred personally identifiable information will remain subject to the provisions of this privacy policy or any subsequent updated versions.
+### Contact Us
 
-**Children** We do not direct our Sites to, nor do we knowingly collect any personal information from, children under the age of thirteen.
-
-**Third Party Websites** The Sites may contain links to third-party websites, which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these sites. Accordingly, we recommend that you review the privacy policy posted on any site that you may access through the Site.
-
-#### Removing Your Information From Our Databases
-
-Our databases are maintained by third party data vendors that we do not operate or control and we are merely a licensee to the information in their databases. Accordingly, we do not guarantee the accuracy of our search results. Please note that under the [Fair Credit Reporting Act ("FCRA"), 15 U.S.C. § 1681 et seq., as amended](http://www.ftc.gov/os/statutes/fcradoc.pdf), an individual may opt-out of having certain of their information included in Data if one of these conditions exists: (1) You are a state, local or federal law enforcement officer or public official and your position exposes you to a threat of death or serious bodily harm; or (2) you are a victim of identity theft; or (3) you are at risk of physical harm; or (4) you have evidence the record is incorrect or expunged. To opt-out, submit the following information:
-
-1) A written explanation for the opt out request. Identify the specific location of Your Data on our Website, and where your personal Data is publicly available, identify one of the four conditions You enabling you to opt-out of having your personal Data removed, and describe why such personal Data that is publicly available is inaccurate and harmful.
-
-2) Copy of your current driver's license or state identification (this information is necessary in order for us to authenticate that the request is being made by the individual to whom the information belongs to)
-
-#### All requests must include:
-
-  * Full name and date of birth
-  * Aliases, if any
-  * Current address
-  * Previous addresses
-  * Phone
-  * Email address
-
-
-
-3) Specific complete details of the records you are requesting to be removed
-
-4) Include a print out of the records you wish to have suppressed.
-
-5) Copies of any applicable court orders, if any.
-
-You may request to opt-out by submitting your information to the following fax number:
-
-Opt Out Compliance Department Fax: 1-888-446-1229
-
-**IMPORTANT NOTE:** Unsigned or incomplete requests will not be processed.
-
-**> >> This Fax Number is for opt-out requests _ONLY_.** Please click [HERE](http://www.courtrecords.org/#) to submit a customer service request for any other issues.
-
-**Or mail them to:**
-
-Opt Out Compliance Department  
-P.O. Box 990142  
-Boston, MA 02117
-
-**Note & Disclaimer:** We will use good faith efforts to help prevent your non-public record information from being distributed. We cannot provide any assurance that information that is otherwise public record information, such as court records, will be withheld. Although most information is usually removed or blocked permanently, we do not guarantee the information will not be available again in the future from other sources or our site.
-
-_Please Note:_ The Opt-out Compliance Department does not manage any customer related issues, please contact our customer support for all customer related matters.
-
-**Changes to Privacy Policy** We may periodically update this policy, and will post a notice of such updates on the Sites. We will attempt to notify you of material updates by sending a notice to an email address you may have provided to us, and by placing a prominent notice on the Sites.
-
-**Contact Us** If you have any concerns about this policy, or any CIS Nationwide products or services, please contact us at [privacy@cisnationwide.com](mailto:privacy@cisnationwide.com).
+If you have any questions or concerns about this Privacy Policy, please [click here](http://www.courtrecords.org/contact) to access our contact form.
