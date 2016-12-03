@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the openmp.org privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122192500id_/http%3A//openmp.org/wp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openmp.org privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203215144id_/http%3A//www.openmp.org/about/privacy) for the most accurate reproduction.*
 
-# OpenMP.org » OpenMP ARB Privacy Policy
-
-### [OpenMP ARB Privacy Policy](http://openmp.org/wp/privacy/ "Permanent Link: OpenMP ARB Privacy Policy")
+# OpenMP ARB Privacy Policy - OpenMP
 
 Your privacy is very important to the OpenMP Architecture Review Board (ARB). Our goal is to treat your personal information with the utmost respect and in accordance with this Privacy Policy. Please review it for information about how information collected on this site and at events is used. By using this site, you agree to the terms of this Privacy Policy.
 
@@ -28,6 +26,4 @@ The OpenMP Architecture Review Board reserves the right to modify or supplement 
 
 ## **Contacting us regarding this policy**
 
-In order to continually monitor and strengthen our privacy procedure, we can be contacted at **info** _(at)_ **OpenMP.org** if you have questions about privacy that were not answered here. We welcome any suggestions.
-
-Last updated on September 27, 2012    
+In order to continually monitor and strengthen our privacy procedure, we can be [contacted here](https://web.archive.org/about/contact-us/) if you have questions about privacy that were not answered here. We welcome any suggestions.
