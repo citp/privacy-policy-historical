@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klip.in privacy policy that was archived on 2016-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160125200028id_/http%3A//klip.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klip.in privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203020803id_/http%3A//klip.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Using Klip.in
 
