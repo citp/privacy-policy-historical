@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iuhealth.org privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608020951id_/http%3A//iuhealth.org/patients/notice-of-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iuhealth.org privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203085250id_/http%3A//iuhealth.org/patients/notice-of-privacy-policy) for the most accurate reproduction.*
 
 # Notice of Privacy Practices | IU Health
 
