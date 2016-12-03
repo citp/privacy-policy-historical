@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topsite.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615074401id_/http%3A//www.topsite.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsite.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203123113id_/http%3A//www.topsite.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # TopSite - Privacy Policy
 
