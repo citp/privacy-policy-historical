@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the etcareers.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627133808id_/http%3A//www.etcareers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etcareers.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203015036id_/http%3A//www.etcareers.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | etcareers.com
-
-Privacy Policy 
 
 We will always honor and respect your data and will not collect data and information that is not within the realm of reasonable use.
 
@@ -22,13 +20,7 @@ To improve our website:
 
 (we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-  
-To process transactions: 
-
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
-
-  
-To send periodic emails: 
 
 The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. 
 
@@ -81,3 +73,5 @@ By using our site, you consent to our online privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
 This policy was last modified on 10/13/2012 
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
