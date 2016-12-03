@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingtonway.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407050232id_/https%3A//www.weddingtonway.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingtonway.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203223240id_/https%3A//www.weddingtonway.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Weddington Way
 
@@ -94,10 +94,3 @@ VIII. Questions or Concerns
 If you have any questions or concerns regarding our privacy policies, please send us a detailed message to support@weddingtonway.com. We will make every effort to resolve your concerns.
 
 Effective Date: October 16, 2015
-
-Find everything you need to outfit your bridal party, and get your friends to join in on the fun! 
-
-This email is already registered.  
-
-
-Already a member? Login
