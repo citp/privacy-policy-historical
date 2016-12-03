@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rsa-mmm.org privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103150512id_/http%3A//rsa-mmm.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsa-mmm.org privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203074017id_/http%3A//rsa-mmm.org/privacy_policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY / MMM Republic of South Africa - Official Website
+# PRIVACY POLICY / MMM Republic of South Africa — Official Website
 
 Privacy Policy  
 MMM South Africa respects the privacy of all its users and is committed to guard it in all respects. To find out how user information collected at the website is protected, please read the following private policy document.
