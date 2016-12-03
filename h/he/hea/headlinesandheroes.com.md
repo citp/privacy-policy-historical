@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the headlinesandheroes.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520231928id_/http%3A//headlinesandheroes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headlinesandheroes.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203072527id_/http%3A//headlinesandheroes.com/privacy-policy) for the most accurate reproduction.*
 
-# Gifts for Men - Privacy Policy
+# Headlines & Heroes - Privacy Policy
 
 HEADLINESANDHEROES.COM PRIVACY POLICY  
 Updated September 12, 2011
