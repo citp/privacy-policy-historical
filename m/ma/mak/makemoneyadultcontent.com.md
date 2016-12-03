@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makemoneyadultcontent.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525164128id_/http%3A//makemoneyadultcontent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemoneyadultcontent.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203073431id_/http%3A//makemoneyadultcontent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Make Money Adult content
 
@@ -32,7 +32,10 @@ Google Analytics employs cookies to define user sessions, which allows for the c
 
 If you want, you can opt out by turning off cookies in the preferences settings in your web browser.
 
-You can always reach me at [Contact US](http://makemoneyadultcontent.com/contact-us/) for any queries. I will be quick to reply.Like us on FaceBook: 
+  
+You can always reach me at [Contact US](http://makemoneyadultcontent.com/contact-us/) or through **contact@makemoneyadultcontent.com** for any queries. I will be quick to reply. 
+
+Like us on FaceBook: 
 
 Follow us on Twitter: 
 
