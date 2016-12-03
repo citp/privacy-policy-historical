@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transparentlabs.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116021705id_/http%3A//transparentlabs.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transparentlabs.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203144959id_/http%3A//transparentlabs.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Transparent Labs
 
