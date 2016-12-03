@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glutenfreeliving.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606175856id_/http%3A//www.glutenfreeliving.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glutenfreeliving.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203232434id_/http%3A//www.glutenfreeliving.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gluten-Free Living
 
@@ -38,7 +38,7 @@ We also may use “clear GIFs” (aka, web bugs, email bugs, “web beacons” o
 
 Our server may automatically collect data about your server’s Internet address when you visit us. This information, known as an Internet Protocol address, or IP Address, is a number that’s automatically assigned to your computer by your Internet service provider whenever you’re on the Internet. When you request pages from our Site, our servers may log your IP Address and sometimes your domain name. Our server may also record the referring page that linked you to us (e.g., another web site or a search engine); the pages you visit on this Site; the website you visit after this Site; the ads you see and/or click on; other information about the type of web browser, computer, platform, related software and settings you are using; any search terms you have entered on this Site or a referral site; and other web usage activity and data logged by our web servers. We use this information for internal system administration, to help diagnose problems with our server, administer our Site, and identify our users. We may also use such technologies to remember user preferences or minimize the need for you to re-enter information. Such information may also be used to gather broad demographic information, such as country of origin and Internet Service Provider. We may also link this information with your Personal Information.
 
-Any or all of these activities with regard to webite Usage Information may be performed on our behalf by our service providers.
+Any or all of these activities with regard to website Usage Information may be performed on our behalf by our service providers.
 
 Third parties (including, but not limited to, software vendors, advertisers, content providers, and fulfillment companies) may also use certain “tracking” technologies by or through the Site. We have no control over what information such third parties track or collect, and we have no responsibility or liability for any tracking, data collection, or other activities of such third parties.
 
