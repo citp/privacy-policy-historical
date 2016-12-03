@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolingu.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608015702id_/http%3A//www.toolingu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolingu.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203230945id_/http%3A//toolingu.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Tooling U-SME
 
