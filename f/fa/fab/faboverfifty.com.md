@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faboverfifty.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612025020id_/http%3A//www.faboverfifty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faboverfifty.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203072111id_/http%3A//www.faboverfifty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FabOverFifty.com
 
@@ -24,7 +24,7 @@ We may collect the following information: 
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
-. To improve [the](https://web.archive.org/web/20160612025020id_/http://) Site, including content, public user profiles, usability, offers
+. To improve [the](https://web.archive.org/web/20161203072111id_/http://) Site, including content, public user profiles, usability, offers
 
 . To notify you about products, services and exclusive offers which we think will interest you. To contact you for surveys about subjects of great interest to you  
 
