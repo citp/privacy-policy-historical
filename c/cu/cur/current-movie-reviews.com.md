@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the current-movie-reviews.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617142356id_/http%3A//www.current-movie-reviews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the current-movie-reviews.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203172034id_/http%3A//www.current-movie-reviews.com/privacy) for the most accurate reproduction.*
 
 # Privacy — CMR
 
