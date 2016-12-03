@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsp.gov privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520113529id_/https%3A//www.tsp.gov/sitehelp/content/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsp.gov privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203030204id_/https%3A//www.tsp.gov/sitehelp/content/privacyPolicy.html) for the most accurate reproduction.*
 
 # TSP: Website Privacy Policy
 
