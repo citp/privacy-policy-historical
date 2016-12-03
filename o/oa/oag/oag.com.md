@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oag.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512224050id_/http%3A//www.oag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oag.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203082213id_/http%3A//www.oag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
