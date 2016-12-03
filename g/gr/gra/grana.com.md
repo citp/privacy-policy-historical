@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grana.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528090458id_/http%3A//www.grana.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grana.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203080806id_/http%3A//www.grana.com/privacy) for the most accurate reproduction.*
 
 # GRANA: Wardrobe essentials made from the world’s best fabrics
 
