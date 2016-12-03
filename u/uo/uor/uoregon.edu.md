@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uoregon.edu privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610043456id_/http%3A//registrar.uoregon.edu/records-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uoregon.edu privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203145831id_/http%3A//registrar.uoregon.edu/records-privacy) for the most accurate reproduction.*
 
 # Student Records Privacy Policy | Office of the Registrar
 
@@ -134,9 +134,9 @@ Your request to place or remove the restriction is effective no later than two w
 
 The restriction of information is permanent until you request, in writing, that it be removed. The restriction will remain in place even after you have stopped attending or have graduated.
 
-### Requesting Letters of Reference or Recommendation from Faculty or Staff
+### Requesting Written or Verbal References or Recommendations from Faculty or Staff
 
-Students who request letters of reference or recommendation from University of Oregon faculty or staff members need to do so in writing. Such letters or statements are most effective if they contain specific information about your academic or work performance; this type of information is considered "non-directory" information and cannot be released without the signed written consent of the student, according to the Family Educational Rights and Privacy Act (FERPA) and the University of Oregon Student Records Policy.
+Students who request written or verbal references or recommendations from University of Oregon faculty or staff members need to do so in writing. Such letters or statements are most effective if they contain specific information about your academic or work performance; this type of information is considered "non-directory" information and cannot be released without the signed written consent of the student, according to the Family Educational Rights and Privacy Act (FERPA) and the University of Oregon Student Records Policy.
 
 The Office of the Registrar has composed a FERPA-compliant authorization to release form that may be used when requesting references/recommendations. The completed and signed [Student Reference Request Form](https://web.archive.org/sites/registrar2.uoregon.edu/files/pdf/StudentReferenceRequestForm.pdf) may be mailed, faxed, or sent as a PDF to the faculty or staff member from whom you are requesting the reference/recommendation.
 
