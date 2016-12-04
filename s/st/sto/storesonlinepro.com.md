@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storesonlinepro.com privacy policy that was archived on 2016-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160304120448id_/http%3A//crexendo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storesonlinepro.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204150634id_/http%3A//crexendo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,3 +23,6 @@ See the privacy policy of each of Crexendo Business Solutions, Inc.’s products
 You understand and agree that Crexendo, Inc. as well as any sites operated by our subsidiaries and related companies(including but not limited to Crexendo Business Solutions, Inc.) shall not be liable for any direct, indirect, incidental, consequential or exemplary damages, including but not limited to, damages for loss of profits, data or other intangible losses (even if the owners of this site have been advised of the possibility of such damages), resulting from the use or the inability to use the product(s) and or service(s) or any misuse of the product(s) and or service(s) in a manner not in accordance with their intended use.
 
 See the terms of use of each of Crexendo Business Solutions, Inc.’s products or services for the usage terms related to that particular product or service.
+
+  
+
