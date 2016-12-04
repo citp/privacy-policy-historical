@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kegsteakhouse.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407230836id_/https%3A//www.kegsteakhouse.com/privacy/%23siteContent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kegsteakhouse.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204064300id_/https%3A//www.kegsteakhouse.com/privacy/%23siteContent) for the most accurate reproduction.*
 
 # Privacy | The Keg Steakhouse + Bar
 
 * #### Acceptance of Policy
 
-Your access to and use of the Website is subject to the Website’s [Terms of Use](https://kegsteakhouse.com/terms-of-use/), of which the Policy forms a part, and all applicable laws. By accessing and using the Website, you accept the Policy and consent to its terms and as otherwise described to you at the time of collection of your personal information. If you do not agree to be bound by these terms and conditions, please do not access or use the features of this Website. We may in our sole discretion, at any time and without any notice to you, revise or amend the terms and conditions of the Policy by posting an amended Policy on the Website. You should therefore periodically check back for such amendments and we recommend that you also print a copy of the Policy for your records. By continuing to access and use the Website, you agree to the terms of the then current Policy, as amended.
+Your access to and use of the Website is subject to the Website’s [Terms of Use](https://www.kegsteakhouse.com/terms-of-use/), of which the Policy forms a part, and all applicable laws. By accessing and using the Website, you accept the Policy and consent to its terms and as otherwise described to you at the time of collection of your personal information. If you do not agree to be bound by these terms and conditions, please do not access or use the features of this Website. We may in our sole discretion, at any time and without any notice to you, revise or amend the terms and conditions of the Policy by posting an amended Policy on the Website. You should therefore periodically check back for such amendments and we recommend that you also print a copy of the Policy for your records. By continuing to access and use the Website, you agree to the terms of the then current Policy, as amended.
 
 * #### Consent
 
