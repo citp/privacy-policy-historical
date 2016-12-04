@@ -1,33 +1,32 @@
-> *The following text is extracted and transformed from the laughstub.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606194822id_/http%3A//www.laughstub.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laughstub.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204223326id_/http%3A//www.laughstub.com/privacy.cfm) for the most accurate reproduction.*
 
 # LaughStub
 
-  * [Venues](https://web.archive.org/venues "View Venues in your Area")
   * [Comedians](https://web.archive.org/comedians "View Upcoming Shows from your Favorite Comedians")
-  * [Sell](http://www.crowdtorch.com/why-crowdtorch.shtml?i_cid=70100000000SoFGAA0 "Sell tickets")
-  * [Affiliates](http://www.crowdtorch.com/ticketing-affiliate-program.shtml "Affiliates")
+  * [Sell](http://vendini.com/specialties/comedy/ "Work With The LaughStub Team")
+  * [Affiliates](http://vendini.com/affiliates "Affiliates")
 
 
 
 **Current Location:** Everywhere Change Location
 
-  * [Everywhere](https://web.archive.org/web/20160606194822id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=00000)
-  * [Boston, MA](https://web.archive.org/web/20160606194822id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=02108)
-  * [Chicago, IL](https://web.archive.org/web/20160606194822id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=60290)
-  * [Denver, CO](https://web.archive.org/web/20160606194822id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=80214)
-  * [Ft Lauderdale, FL](https://web.archive.org/web/20160606194822id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=33301)
-  * [Las Vegas, NV](https://web.archive.org/web/20160606194822id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=89101)
-  * [Los Angeles, CA](https://web.archive.org/web/20160606194822id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=90001)
-  * [Louisville, KY](https://web.archive.org/web/20160606194822id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=40201)
-  * [Miami, FL](https://web.archive.org/web/20160606194822id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=33112)
-  * [Milwaukee, WI](https://web.archive.org/web/20160606194822id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=53201)
-  * [New York, NY](https://web.archive.org/web/20160606194822id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=10001)
-  * [Orange County, CA](https://web.archive.org/web/20160606194822id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=92612)
-  * [Palm Beach, FL](https://web.archive.org/web/20160606194822id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=33480)
-  * [Pittsburgh, PA](https://web.archive.org/web/20160606194822id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=15202)
-  * [San Jose, CA](https://web.archive.org/web/20160606194822id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=95101)
-  * [Seattle, WA](https://web.archive.org/web/20160606194822id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=98101)
-  * [Toronto, ON](https://web.archive.org/web/20160606194822id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=M5V9G9)
+  * [Everywhere](https://web.archive.org/web/20161204223326id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=00000)
+  * [Boston, MA](https://web.archive.org/web/20161204223326id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=02108)
+  * [Chicago, IL](https://web.archive.org/web/20161204223326id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=60290)
+  * [Denver, CO](https://web.archive.org/web/20161204223326id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=80214)
+  * [Ft Lauderdale, FL](https://web.archive.org/web/20161204223326id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=33301)
+  * [Las Vegas, NV](https://web.archive.org/web/20161204223326id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=89101)
+  * [Los Angeles, CA](https://web.archive.org/web/20161204223326id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=90001)
+  * [Louisville, KY](https://web.archive.org/web/20161204223326id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=40201)
+  * [Miami, FL](https://web.archive.org/web/20161204223326id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=33112)
+  * [Milwaukee, WI](https://web.archive.org/web/20161204223326id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=53201)
+  * [New York, NY](https://web.archive.org/web/20161204223326id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=10001)
+  * [Orange County, CA](https://web.archive.org/web/20161204223326id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=92612)
+  * [Palm Beach, FL](https://web.archive.org/web/20161204223326id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=33480)
+  * [Pittsburgh, PA](https://web.archive.org/web/20161204223326id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=15202)
+  * [San Jose, CA](https://web.archive.org/web/20161204223326id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=95101)
+  * [Seattle, WA](https://web.archive.org/web/20161204223326id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=98101)
+  * [Toronto, ON](https://web.archive.org/web/20161204223326id_/http%3A//www.laughstub.com/privacy.cfm?setLoc=M5V9G9)
 
 
 
@@ -166,7 +165,7 @@ The technologies we use for this automatic data collection may include:
     * **Flash Cookies.** Certain features of our Services may use local storage, such as "Flash cookies" to collect and store information about your preferences and navigation to, from and on our Websites. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, see Choices about How We Use and Disclose Your Information.
     * **Web Beacons.** Pages on our Services and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs). Web beacons differ from cookies in that the information is not stored on your hard drive, but invisibly embedded on web pages or in email. Web beacons permit us to track online movements of web users -- for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). This enables Vendini to provide a website experience more tailored to your preferences and interests.
 
-At this time we do not respond to browser ‘do not track' signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted. You can learn about how you can adjust your browser's settings to limit or disable cookies and other tracking technologies by visiting the section below titled "Choices about How We Use and Disclose Your Information."
+At this time we do not respond to browser â€˜do not track' signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted. You can learn about how you can adjust your browser's settings to limit or disable cookies and other tracking technologies by visiting the section below titled "Choices about How We Use and Disclose Your Information."
 
 ## Advertising and Analytics
 
