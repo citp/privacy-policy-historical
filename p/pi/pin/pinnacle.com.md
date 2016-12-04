@@ -1,51 +1,57 @@
-> *The following text is extracted and transformed from the pinnacle.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619085612id_/http%3A//www.pinnacle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinnacle.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204162708id_/https%3A//www.pinnacle.com/en/privacy-policy) for the most accurate reproduction.*
 
-# PDSi | Privacy Policy
+# Pinnacle Sports Privacy Policy | Understand how our privacy policy works
 
-We at Pinnacle Data Systems, Inc. (PDSi) are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information (Personal Information) you share with us.
+• monitoring transactions for the purposes of preventing fraud, irregular betting, money laundering and fraud;
 
-PDSi has developed this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information.
+• legal and/or regulatory reasons. 
 
-Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address, an e-mail address or other contact information, whether at work or at home. In general, you can visit PDSi's Web pages without telling us who you are or revealing any Personal Information about yourself.
+### 4\. What is your assurance?
 
-If you choose to provide us with your Personal Information on the Web, we may transfer that information, within PDSi or to PDSi's third party service providers.
+a. Pinnacle assures you that your personal data is:
 
-### Cookies and Other Tracking Technologies
+• processed in accordance with your rights;
 
-Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
+• processed fairly and lawfully;
 
-You may set most browsers to notify you if you receive a cookie or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Web site.
+• obtained only for the above purposes;
 
-Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics.
+• adequate, relevant and not excessive for its purpose;
 
-To protect your privacy, we have adopted the following principles:
+• kept in a secure manner; and
 
-### Notice
+• not kept longer than is necessary for its purposes.
 
-Where PDSi collects Personal Information on the Web, we intend to post a purpose statement that explains why Personal Information is collected and whether we plan to share such Personal Information outside of PDSi or with those working on PDSi's behalf. PDSi does not intend to transfer Personal Information without your consent to third parties who are not acting on PDSi's behalf unless such transfer is legally required. PDSi will take reasonable steps to ensure third parties acting on PDSi's behalf are obligated to protect Personal Information in the same manner as PDSi agrees to protect Personal Information.
+b. Pinnacle shall take all reasonable steps to ensure that your information is kept secure and protected. In this regards, we maintain appropriate technical and organizational measures to protect your data against unauthorized or unlawful processing.
 
-### Choice
+c. Your emails are stored on the Amazon cloud. We do not store any of your personal details in this cloud. We recommend that you send all personal documents to [compliance@pinnacle.com](mailto:compliance@pinnacle.com). All items mailed to the listed address are stored on our internal servers.
 
-You may choose whether or not to provide Personal Information to PDSi. The notice we intend to provide on the Web site where PDSi collects Personal Information should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of PDSi's Web site, but you may be unable to access certain options, offers and services that involve our interaction with you.
+a. For fraud detection and control purposes, you agree that Pinnacle has the right to transfer your personal data to third parties, including but not limited to third party suppliers such as ID and address verification system providers, payment service providers and financial institutions.
 
-### Correct/Update Personal Information
+b. Furthermore, Pinnacle reserves the right to disclose your personal data to relevant third parties when Pinnacle has reasonable grounds to suspect irregularities involving your account.
 
-PDSi wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide you with a means of contacting PDSi should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information to privacyonline@pinnacle.com, and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
+c. Some of the data processors engaged to process your personal data may be based outside of the European Economic Area (EEA) where data protection laws are not as protective as EU law. Therefore, by browsing the Website and communicating electronically with us, you acknowledge and agree to our (or our suppliers or sub-contractors) processing your personal data outside the EEA. We will take all reasonable steps to ensure that your personal data is treated securely and is processed with appropriate care and protection and in line with applicable legal requirements.
 
-### Security
+### 6\. Disclosure of information
 
-Wherever your Personal Information may be held by PDSi or by those acting on PDSi's behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure.
+We are entitled to share the information we hold on you which includes personal data and/or betting history with the regulator, sporting bodies, financial entities such as the banks or payment suppliers and other competent authority, including the police, in order to investigate fraud, money laundering or sports integrity issues and to comply with our regulatory duties.
 
-### Children's Guidelines
+a. You have the right to require access to your own personal data and/or have the right to correct and/or erase incorrect and/or inappropriate data. The request and any other queries regarding data privacy shall be sent to: [customerservice@pinnacle.com](mailto:customerservice@pinnacle.com)
 
-We do not collect, use or disclose any online contact information or identifiable off-line contact information from anyone we know to be under 13 years of age. The PDSi Web site is not directed to children.
+b. Your request must be accompanied by copies of two forms of identification, one of which should identify you (e.g. driving licence, passport, etc) and the other should provide proof of your address (e.g. utility bill).
 
-### Your Consent
+c. Your request will be addressed upon reception of a 10 Euros fee.
 
-By using this Web site, you consent to the terms of our Online Privacy Policy and to PDSi's processing of Personal Information for the purposes given above as well as those explained where PDSi collects Personal Information on the Web. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our Web site for a reasonable period of time.
+d. It is your responsibility to maintain your personal information up to date and accurate. 
 
-### Disclaimer
+### 8\. Cookies, tags and other identifiers ("cookies")
 
-The PDSi Web site contains links to other Web sites. PDSi is not responsible for the content or privacy practices of those sites.
+a. By accepting the [Terms & Conditions](https://web.archive.org/en/termsandconditions) or by using or registering to the Service, you accept that we will use cookies.
 
-{H0168986.2}
+b. Cookies are text files containing a small amount of information that are downloaded to your device when you visit a website. They are generally used by most websites to improve your online experience and to ensure that content and functions are delivered and used more effectively.
+
+c. We use cookies as a means of collecting information from a web server for the above purposes (see section “For which purpose?”) following your use of the Website. Cookies help us to improve the Website and to deliver a better and more personalised service.
+
+d. Please be aware that it is not possible to use the Website without cookies. If additional information about our use of cookies is required, please email us at: [customerservice@pinnacle.com](mailto:customerservice@pinnacle.com). 
+
+Any changes to our Privacy Policy shall be posted on this page and any such changes will become effective upon posting the revised Privacy Policy. If we make any material or substantial changes to this Privacy Policy we will use reasonable endeavors to inform you by email, notice on the Website or other agreed communications channels. 
