@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indocontest.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407192042id_/http%3A//www.indocontest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indocontest.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204150153id_/http%3A//www.indocontest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Indo Contest | Find the Latest Blogging Contest on the NET
 
