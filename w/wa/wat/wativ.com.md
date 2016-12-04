@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wativ.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612211021id_/http%3A//wativ.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wativ.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204054409id_/http%3A//wativ.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Wativ.com
 
