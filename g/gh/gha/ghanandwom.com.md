@@ -1,69 +1,76 @@
-> *The following text is extracted and transformed from the ghanandwom.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016020824id_/http%3A//www.ghanandwom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghanandwom.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204100618id_/http%3A//www.ghanandwom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GhanaNdwom.com
+# Privacy Policy - GhanaNdwom.com
 
-**Privacy Policy**
+**What information do we collect?**
 
-This Privacy Policy governs the manner in which GhanaNdwom collects, uses, maintains and discloses information collected from users of [www.GhanaNdwom.com](http://www.generateprivacypolicy.com/account/policies/edit/www.adinkratv.com). This privacy policy solely applies to the Site and all products and services offered by GhanaNdwom.
+We collect information from you when you subscribe to our newsletter or fill out a form.
 
-**Personal identification information**  
-We may collect personal identification information from Users in a variety of ways, when Users visit our site, register on the site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users ONLY if they voluntarily submit such information to us. Users CAN always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-**Non-personal identification information**  
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+**What do we use your information for?**
 
-**Web browser cookies**  
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Any of the information we collect from you may be used in one of the following ways:
 
-**How we use collected information**  
-GhanaNdwom may collect and use Users personal information for the following purposes:
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-  * _– To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _– To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _– To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  * _– To send periodic emails_  
-We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
+; To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
+; To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.  
+; To send periodic emails  
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
-**How we protect your information**  
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+**How do we protect your information?**
 
-[](http://www.jobberman.com.gh/?utm_source=GhanaNdwom&utm_medium=Banner468X60&utm_term=FindYourDreamJob&utm_campaign=Jobseeker "Jobberman.com.gh")
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-**Sharing your personal information**  
-We do not sell, trade, or rent Users personal identification information to others.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-**Advertising**
+**Do we use cookies?**
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-**Compliance with children’s online privacy protection act** Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+We use cookies to understand and save your preferences for future visits.
 
-**Changes to this privacy policy**
+**Do we disclose any information to outside parties?**
 
-GhanaNdwom has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Your acceptance of these terms**
+**Childrens Online Privacy Protection Act Compliance**
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-**Contacting us**
+**Online Privacy Policy Only**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[GhanaNdwom](http://www.generateprivacypolicy.com/account/policies/edit/www.adinkratv.com)  
-[www.GhanaNdwom.com](http://www.generateprivacypolicy.com/account/policies/edit/www.adinkratv.com)  
-GhanaNdwom.com
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-Plot 76, 10th Avenue
+**Terms and Conditions**
 
-Tesano
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at www.GhanaNdwom.com/termsofservice
 
-Accra – Ghana
+**Your Consent**
 
-info@ghanandwom.com
+By using our site, you consent to our web site privacy policy.
 
-This document was last updated on January 4, 2014
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
+
+This policy was last modified on 15th January, 2012
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+www.GhanaNdwom.com  
+P. O. Box mc 2147  
+Takoradi 00233  
+Ghana  
+ghanandwom@gmail.com  
++233244706994
