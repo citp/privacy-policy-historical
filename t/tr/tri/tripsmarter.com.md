@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the tripsmarter.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520004452id_/http%3A//www.tripsmarter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripsmarter.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204113231id_/http%3A//www.tripsmarter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TripSmarter.Com
 
-**What information do we collect?**
+PLEASE NOTE: The Privacy Policy on this page is for Destination Network Websites and does not apply to Destination Network Apps. To view the Privacy Policy for our Apps, please visit this page: [Privacy Policy for Apps](https://www.tripsmarter.com/general/privacy-policy-apps).
+
+**What information do we collect on our Websites?**
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
@@ -62,21 +64,21 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Online Privacy Policy Only**
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+This online privacy policy applies only to information collected through our Websites and not to information collected offline or through our Apps.
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms & Conditions](http://www.tripsmarter.com/user-agreement)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our Websites at [Terms & Conditions](http://www.tripsmarter.com/user-agreement)
 
 **Your Consent**
 
-By using our site, you consent to our websites privacy policy.
+By using our site, you consent to our Website Privacy Policy.
 
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 05/15/2013.
+This policy was last modified on 06/01/2016.
 
 **Contacting Us**
 
