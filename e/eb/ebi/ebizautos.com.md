@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebizautos.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316160250id_/http%3A//www.ebizautos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebizautos.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204164252id_/http%3A//www.ebizautos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eBizAutos
 
