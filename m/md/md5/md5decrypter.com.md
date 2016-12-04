@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the md5decrypter.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617173724id_/http%3A//www.md5decrypter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the md5decrypter.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204235303id_/http%3A//md5decrypter.com/privacy.html) for the most accurate reproduction.*
 
 # md5decrypter.com | Privacy Policy
 
