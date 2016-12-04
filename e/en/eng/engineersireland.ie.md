@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engineersireland.ie privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610000743id_/http%3A//www.engineersireland.ie/About/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineersireland.ie privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204213352id_/http%3A//www.engineersireland.ie/About/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Engineers Ireland - Privacy Policy
 
@@ -24,7 +24,7 @@ We may collect and process the following data about you:
 
   * Information that you provide to us when using this Website. This includes information provided at the time of registering to use this Website, subscribing to our services or purchasing goods, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by us, or our partners and when you report a problem with the Website.
   * Information you provide to us when applying through the Website for membership of Engineers Ireland, which will typically include your name and contact details and details of your relevant educational qualifications and work experience.
-  * In bulk email campaigns including but not limited to the weekly events brief, eJournal email campaigns; email open rates, link click-thrus, deliverability and site visits. This information is kept for the sole use of quality assurance and improving our email deliverability. You can unsubscribe from any email campaign usign the links in the email footer or from your membership profile. 
+  * In bulk email campaigns including but not limited to the weekly events brief, eJournal email campaigns; email open rates, link click-thrus, deliverability and site visits. This information is kept for the sole use of quality assurance and improving our email deliverability. You can unsubscribe from any email campaign using the links in the email footer or from your membership profile. 
   * If you contact us for any reason, we may keep a record of that correspondence.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of transactions through the Website to which you are a party and of the fulfilment of your orders.
