@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indianrailwayemployee.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622195209id_/http%3A//indianrailwayemployee.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianrailwayemployee.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204012553id_/http%3A//indianrailwayemployee.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Indian Railway Employee
 
-[](http://indianrailwayemployee.com/print/1042 "Display a printer-friendly version of this page.")
+[](http://www.indianrailwayemployee.com/print/1042 "Display a printer-friendly version of this page.")
 
 _Privacy Policy for indianrailwayemployee.com_
 
@@ -31,6 +31,6 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 
 
-To protect against spam we limit the _**Comments only for the registerd users**_. Please [**register**](https://web.archive.org/user/register)[  ](https://web.archive.org/web/20160622195209id_/http%3A//indianrailwayemployee.com/content/user/register)or [**login**](https://web.archive.org/user/login) **.   **Thank you for your understanding.
+To protect against spam we limit the _**Comments only for the registerd users**_. Please [**register**](https://web.archive.org/user/register)[  ](https://web.archive.org/web/20161204012553id_/http%3A//indianrailwayemployee.com/content/user/register)or [**login**](https://web.archive.org/user/login) **.   **Thank you for your understanding.
 
 Custom Search 
