@@ -1,80 +1,79 @@
-> *The following text is extracted and transformed from the logojoy.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logojoy.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204170431id_/http%3A//logojoy.com/privacy.php) for the most accurate reproduction.*
 
-# HugeDomains.com - Privacy Policy
+# Logojoy
 
-[Home](https://www.hugedomains.com/) _ _ Privacy Policy
+This privacy statement describes how Logojoy ("we", "us") collects and uses the Personal Information you willingly provide on our Web site: Logojoy.com. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. Personal Information is information about you, that is not otherwise available to the public, that you willingly provide to Logojoy in order to use or pay for our services.
 
-**What information do we collect?**
+If you have questions or concerns regarding this policy, you should first contact us at info@Logojoy.com.
 
-We collect information from you when you register on our site, place an order or fill out a form. 
+**Collection and Use of Personal Information**
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
+In order to facilitate the operation of our site and manage your account, we collect Personal Information from you. For trial and paying customers this information may include but is not limited to, your name, email address, credit card or debit card number, your zip code, your address and phone number.
 
-**What do we use your information for?**
+Depending on the documents you create with our service we may collect Personal Information including, but not limited to, names of people you have personal or business relationships with, items you own or wish to transfer ownership of, financial matters, and personal accounts or account numbers with banks, financial institutions, merchants and vendors.
 
-Any of the information we collect from you may be used in one of the following ways: 
+**We use this information to**
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs) 
+\- Fulfill your order  
+\- Send you an order confirmation  
+\- Assess the needs of your business to determine suitable products  
+\- Respond to customer service requests  
+\- Send you a newsletter  
+\- Send you marketing communications  
+\- Respond to your questions and concerns  
+\- Improve our Web site and marketing efforts  
+\- Conduct research and analysis  
+\- Electronic and Web Browsing Information We Gather
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, browser settings, navigation through our site(s), referring/exit pages, and operating system. This information does not include Personal Information. We may use third party tools and analytical services to gather and analyze this information.
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs) 
+**Choice/Opt-Out**
 
-• To process transactions
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at info@Logojoy.com.
 
-> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+**Information Sharing**
 
-• To send periodic emails
+We will share your Personal Information with third parties only in the ways that are described in this privacy statement. We do not sell your Personal Information to third parties.
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+We may provide your Personal Information to companies that provide services to help us with our business activities such as credit/debit card processing, shipping your order or offering customer service. These companies are authorized to use your Personal Information only as necessary to provide these services to us.
 
-If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+We may also disclose your Personal Information as required by law such as to comply with a subpoena or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+If Logojoy is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information, to any other third party with your prior consent to do so.
 
-**How do we protect your information?**
+To protect against fraud and misuse of our Website and Services, we actively analyze purchases, attempted purchases and use of the Website and Services to help us identify and block individuals suspected of misuse and/or fraudulent activity. We may use that information, in conjunction with our security partners and/or law enforcement to protect Logojoy’s business and systems, your Personal Information and assist those we reasonably believe may have been victimized by such fraudulent use of the Website and Services. We may share data (including, but not limited to, suspect payment information, email addresses, IP addresses, etc.) with our payment processors, and law enforcement, in an effort to reduce fraud. You consent to the provision of this information (including keyword search data) for such investigative purposes.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+**Third Party E-Commerce Solutions Provider**
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+Our shopping cart interacts with established PCI-DSS compliant third-party credit processing vendor(s) via SSL links. They host and collect your billing information for the purpose of processing your order and subscriptions. We use an established third-party vendor via SSL links to manage processing of refunds and updates of credit card and debit card numbers and expiration dates. These companies do not use this information for any other purpose. We do not store credit card and debit card numbers on our servers or systems.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+**Cookies and Other Tracking Technologies**
 
-**Do we use cookies?**
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include Personal Information.
 
-Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+**Links to Other Web Sites**
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+Our Site may include links to other Web sites whose privacy practices may differ from those of Logojoy. If you submit Personal Information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policies of any Web site you visit.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+**Security**
 
-**Do we disclose any information to outside parties?**
+When we collect Personal Information directly from you, we follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at info@Logojoy.com
 
-Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+In order to make a purchase from us, you must use our third party credit processing vendor to finalize and pay for your order. Its privacy statement and security practices will also apply to your personal Information. We encourage you to read that privacy statement before providing your information.
 
-**Online Privacy Policy Only**
+**Additional Policy Information**
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
+To review, correct and update your personal information to ensure it is accurate, contact us at info@Logojoy.com.
 
-**Terms and Conditions**
+**Notification of Privacy Statement Changes**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+We may update this privacy statement to reflect changes to our privacy practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-**Your Consent**
+**Contact Information**
 
-By using our site, you consent to our web site privacy policy. 
+You can contact us about this privacy policy by writing or emailing us at:
 
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
-
-This policy was last modified on 1/10/2012 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
-
-HugeDomains.com
+Logojoy   
+80 John Street #3004  
+Toronto, ON M5V 3X4  
+Email: info@Logojoy.com 
