@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishpond.com.au privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522204025id_/http%3A//www.fishpond.com.au/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishpond.com.au privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204055815id_/http%3A//www.fishpond.com.au/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@
     1. Ensuring the privacy of your information; and
     2. Holding all personal information collected by us in accordance with the requirements of the Privacy Act 1993 and any other applicable privacy legislation.
   2. **1.2 Application of this Privacy Policy:**
-    1. Personal information submitted on this website ("Site") (e.g. where you make a purchase); and
+    1. Personal information submitted on this website ("Site"); and
     2. Any information automatically retrieved during visits to this Site.
 By visiting the Site, you consent to us collecting such information and using it, in accordance with this Privacy Policy.
   3. **1.3 Changes to Privacy Policy:** Fishpond may modify, alter or otherwise change this Privacy Policy from time to time, with or without notice to you. All such changes will be effective immediately upon the updating of the page on this Site at which the Privacy Policy is contained. You agree to check the Privacy Policy and be bound by the Privacy Policy that is in effect at the time at which you access this Site.
@@ -25,7 +25,8 @@ New Zealand
 ### COLLECTION, USE AND RETENTION OF PERSONAL INFORMATION
 
   1. **1.1 Visitors:** You may browse and access information contained on this Site without providing personally identifiable information.
-  2. **1.2 Collection of personal information:** Fishpond collects personal information (for example an individual's name, address, and information about the items you have purchased) through this Site when you make a purchase. Such information is collected for the purpose of administering your account, processing your purchases, delivering the items purchased to you, for our own internal records, and for contacting you in relation to your purchase or sending you information about goods and services that we think you may be interested in (including by electronic message). It is important that any information given to us is accurate, up to date, complete and not misleading, as we rely on the information you provide.
+  2. **1.2 Collection of personal information:** Fishpond collects personal information (for example an individual's name, address, and information about the items you have purchased) through this Site when you make a purchase. Such information is collected for the purpose of administering your account, processing your purchases, delivering the items purchased to you, for our own internal records, and for contacting you in relation to your purchase or sending you information about goods and services that we think you may be interested in (including by electronic message). It is important that any information given to us is accurate, up to date, complete and not misleading, as we rely on the information you provide. 
+    1. **eBay Valet Service:  **To make use of the Valet Service, a Fishpond account is required. Fishpond collects personal information (for example an individual's name, address and information about the items you have sent to the service) through this Site when you create an account. Fishpond will disclose to eBay information regarding eBay Valet users (for example an individual's name, email address and if applicatable eBay user name) and eBay will handle such information in accordance with [eBay's Privacy Policy](http://pages.ebay.com.au/help/policies/privacy-policy.html).
   3. **1.3 Collection of personal information by third parties:** Any third party that we use to process payments for purchases made through this Site may also collect your personal information. Please refer to the relevant third party's privacy policy for further details.
   4. **1.4 Use and disclosure of personal information:** We will hold all personal information collected through this Site in accordance with the requirements set out in the Privacy Act 1993. In particular: 
     1. Personal information will be used only for the purposes for which it is collected, and will be retained only for as long as is necessary to fulfil the purposes for which the information was collected (including any time that we are required by law to retain such information).
