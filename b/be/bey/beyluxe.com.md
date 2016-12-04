@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the beyluxe.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413121956id_/http%3A//www.beyluxe.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyluxe.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204093250id_/http%3A//beyluxe.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Beyluxe Messenger
 
 **REGISTRATION**  
-In order to use Beyluxe, you must first complete the registration form. During registration you are required to give contact information such as your email address. We use this information to contact you about services on our site in which you have expressed interest. Beyluxe and Global MSG Communication S.R.L(collectively referred to as "Beyluxe") are committed to protecting your privacy. Please read this Beyluxe Privacy Statement for all Beyluxe services that you may use. This Beyluxe Privacy Statement applies to data collected by Beyluxe through its Beyluxe site(s) and service(s). This Privacy Statement also contains a section with specific details regarding personal information collected from children.
+In order to use Beyluxe, you must first complete the registration form. During registration you are required to give contact information such as your email address. We use this information to contact you about services on our site in which you have expressed interest. Beyluxe and One Chat S.R.L(collectively referred to as "Beyluxe") are committed to protecting your privacy. Please read this Beyluxe Privacy Statement for all Beyluxe services that you may use. This Beyluxe Privacy Statement applies to data collected by Beyluxe through its Beyluxe site(s) and service(s). This Privacy Statement also contains a section with specific details regarding personal information collected from children.
 
 When you install Beyluxe or signup for an Beyluxe username, you consent to our use and disclosure of your personal information in the manner described in this Privacy Statement. This Privacy Statement is incorporated into and subject to the terms of the Beyluxe End User License Agreement ("EULA").
 
@@ -47,9 +47,9 @@ If you choose to sign up for a paid subscription service (such as permanent room
 
 We may collect information about your visit, including the pages you view, the links you click and other actions taken in connection with Beyluxe sites and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type, hardware identification and language, access times, and referring Web site addresses.
 
-Global MSG Communication S.R.L may also obtain information about you through the monitoring or recording of your activities while you are using the B program or services. You have consented to such monitoring or recording by agreeing to the provisions of the End User License Agreement when you installed or used the program. Any personal information obtained through such monitoring or recording will be treated in the same manner as all other information referenced in this Privacy Statement. Such monitoring or recording, however, will only take place under the circumstances set forth below.
+One Chat S.R.L may also obtain information about you through the monitoring or recording of your activities while you are using the B program or services. You have consented to such monitoring or recording by agreeing to the provisions of the End User License Agreement when you installed or used the program. Any personal information obtained through such monitoring or recording will be treated in the same manner as all other information referenced in this Privacy Statement. Such monitoring or recording, however, will only take place under the circumstances set forth below.
 
-Global MSG Communication S.R.L wants you to enjoy Beyluxe with the minimum of intrusions. Unfortunately, there are people who use internet chat room services like Beyluxe to harass other users or engage in criminal activity. Thus, in the course of administering Beyluxe, we may visit and monitor activity in a chat room without the knowledge of the room owner or room participants in order to determine whether any rules or polices of Beyluxe are being violated, or whether any illegal activity is taking place. However, we do not regularly monitor chat rooms. We may monitor a chat room under the following circumstances:
+One Chat S.R.L wants you to enjoy Beyluxe with the minimum of intrusions. Unfortunately, there are people who use internet chat room services like Beyluxe to harass other users or engage in criminal activity. Thus, in the course of administering Beyluxe, we may visit and monitor activity in a chat room without the knowledge of the room owner or room participants in order to determine whether any rules or polices of Beyluxe are being violated, or whether any illegal activity is taking place. However, we do not regularly monitor chat rooms. We may monitor a chat room under the following circumstances:
 
 1\. We are requested to do so by a room owner or room admin; or
 
@@ -79,7 +79,7 @@ We provide you the opportunity to 'opt-out' of having your personally identifiab
 
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or visiting http://messenger.beyluxe.com/contact (Option : Feedback) You may also contact us at:
 
-Global MSG Communication S.R.L.
+One Chat S.R.L.
 
 Register Number : J03/1692/28.08.2007
 
@@ -151,7 +151,7 @@ If you haven't receive the services for what you have paid, all what you have to
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at:
 
-Global MSG Communication S.R.L
+One Chat S.R.L
 
 Register Number : J03/1692/28.08.2007
 
