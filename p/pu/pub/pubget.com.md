@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pubget.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604151922id_/http%3A//pubget.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubget.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204160044id_/http%3A//pubget.com/policies/privacy) for the most accurate reproduction.*
 
 # Search engine for life-science PDFs - Pubget
 
