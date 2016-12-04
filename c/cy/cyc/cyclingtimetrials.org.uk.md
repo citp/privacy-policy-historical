@@ -1,47 +1,62 @@
-> *The following text is extracted and transformed from the cyclingtimetrials.org.uk privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627200916id_/http%3A//cyclingtimetrials.org.uk/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyclingtimetrials.org.uk privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204091736id_/https%3A//www.cyclingtimetrials.org.uk/pages/terms/privacy) for the most accurate reproduction.*
 
-# CTT > Host > Extensions
+# Cycling Time Trials: Privacy Policy
 
-CTT is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the CTT Web site and governs data collection and usage. By using the CTT website, you consent to the data practices described in this statement.
+This privacy policy sets out how Cycling Time Trials uses and protects any information that you give Cycling Time Trials when you use this website.
 
-Collection of your Personal Information
+Cycling Time Trials is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-CTT collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. CTT also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+Cycling Time Trials may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 16th March 2016.
 
-There is also information about your computer hardware and software that is automatically collected by CTT. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by CTT for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the CTT Web site.
+**What we collect**
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through CTT public message boards, this information may be collected and used by others. Note: CTT does not read any of your private online communications.
+We may collect the following information:
 
-CTT encourages you to review the privacy statements of Web sites you choose to link to from CTT so that you can understand how those Web sites collect, use and share your information. CTT is not responsible for the privacy statements or other content on Web sites outside of the CTT and CTT family of Web sites.
+  * name
+  * contact information including email address
+  * details of events you enter and your finishing time/position
 
-Use of your Personal Information
 
-CTT collects and uses your personal information to operate the CTT Web site and deliver the services you have requested. CTT also uses your personally identifiable information to inform you of other products or services available from CTT and its affiliates. CTT may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-CTT does not sell, rent or lease its customer lists to third parties. CTT may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, CTT may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to CTT, and they are required to maintain the confidentiality of your information.
+**What we do with the information we gather**
 
-CTT does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-CTT keeps track of the Web sites and pages our customers visit within CTT, in order to determine what CTT services are the most popular. This data is used to deliver customized content and advertising within CTT to customers whose behavior indicates that they are interested in a particular subject area.
+  * Internal record keeping.
+  * We may use the information to improve our services.
+  * We may periodically send emails about Cycling Time Trials’ activities or other information which we think you may find interesting using the email address which you have provided. 
 
-CTT Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on CTT or the site; (b) protect and defend the rights or property of CTT; and, (c) act under exigent circumstances to protect the personal safety of users of CTT, or the public.
 
-Use of Cookies
 
-The CTT Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+**Security**
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize CTT pages, or register with CTT site or services, a cookie helps CTT to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same CTT Web site, the information you previously provided can be retrieved, so you can easily use the CTT features that you customized.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the CTT services or Web sites you visit.
+**How we use cookies**
 
-Security of your Personal Information
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-CTT secures your personal information from unauthorized access, use or disclosure. CTT secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-Changes to this Statement
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-CTT will occasionally update this Statement of Privacy to reflect company and customer feedback. CTT encourages you to periodically review this Statement to be informed of how CTT is protecting your information.
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-Contact Information
+**Links to other websites**
 
-CTT welcomes your comments regarding this Statement of Privacy. If you believe that CTT has not adhered to this Statement, please contact CTT at [host@change.me](mailto:host@change.me). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Controlling your personal information**
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us c/o the National Secretary (Legal & Corporate) whose email address is [nick.sharpe@cyclingtimetrials.org.uk](mailto:nick.sharpe@cyclingtimetrials.org.uk) or by post to Wash Farm, Wash, Chapel-en-le-Frith, High Peak, SK23 0QW
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to the National Secretary (Legal & Corporate) whose email address is [nick.sharpe@cyclingtimetrials.org.uk](mailto:nick.sharpe@cyclingtimetrials.org.uk)  or by post to Wash Farm, Wash, Chapel-en-le-Frith, High Peak, SK23 0QW.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
