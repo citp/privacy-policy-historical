@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autooverload.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511102400id_/http%3A//autooverload.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autooverload.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204043319id_/http%3A//autooverload.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Auto Overload
 
@@ -48,8 +48,8 @@ To enforce our privacy policy or to comply with a legal investigation, any infor
 
 **7\. Compliance with the California Privacy Protection Act; DO NOT TRACK**
 
-If you are a California resident and have provided personal information to AutoOverload through the Web Site, you are entitled by law to request certain information regarding any disclosure that may have been made by AutoOverload to third parties of personal information for their direct marketing purposes. To make such a request, send an email to support@AutoOverload.com specifying that you seek your “California Customer Choice Privacy Notice.” Please allow thirty (30) days for a response. AutoOverload is required to respond to only one request per customer each year, and is not required to respond to requests made by means other than through the above email address.  
-We will not share your personal information with third parties for their direct marketing purposes if you request that we do not do so. If you would like more information about not having your information used by third parties, or if you would like to make such an opt-out request, you may send us an email at support@AutoOverload.com.   
+If you are a California resident and have provided personal information to AutoOverload through the Web Site, you are entitled by law to request certain information regarding any disclosure that may have been made by AutoOverload to third parties of personal information for their direct marketing purposes. To make such a request, please use our [contact form](http://autooverload.com/contact-us/) specifying that you seek your “California Customer Choice Privacy Notice.” Please allow thirty (30) days for a response. AutoOverload is required to respond to only one request per customer each year, and is not required to respond to requests made by means other than through the above email address.  
+We will not share your personal information with third parties for their direct marketing purposes if you request that we do not do so. If you would like more information about not having your information used by third parties, or if you would like to make such an opt-out request, please use our [contact form](http://autooverload.com/contact-us/).   
 You may also request to opt-out of an advertiser’s use of cookies by visiting the Network Advertising Initiative or the Digital Advertising Alliance. You may request to opt-out of Google’s use of cookies by visiting www.google.com/ads/preferences. All applicable terms on these websites will apply to your request to opt-out in addition to this Privacy Policy.  
 When contacting us, please indicate your name, address, email address, and what personal information you do not want us to share with third parties for their direct marketing purposes. Please note that there is no charge for controlling the sharing of your personal information or for processing this request. At this time, AutoOverload is unable to universally respond to “Do Not Track” or other “opt-out” mechanisms that have been activated by a user through their web browser, and except as otherwise provided herein, does not alter its policies if a user activates such mechanism.
 
@@ -63,4 +63,4 @@ This Privacy Policy is subject to modifications at any time. Any modifications w
 
 **10\. Contacting Us**
 
-If you have questions, comments, or concerns regarding anything previously stated in the privacy policy or to utilize the rights contracted here please email us support@autooverload.com
+If you have questions, comments, or concerns regarding anything previously stated in the privacy policy or to utilize the rights contracted here please use our [contact form](http://autooverload.com/contact-us/).
