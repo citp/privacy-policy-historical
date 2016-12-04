@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcusa.org privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630143313id_/http%3A//www.pcusa.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcusa.org privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204164451id_/http%3A//www.pcusa.org/privacy) for the most accurate reproduction.*
 
 # Presbyterian Church (U.S.A.) - Privacy policy
 
