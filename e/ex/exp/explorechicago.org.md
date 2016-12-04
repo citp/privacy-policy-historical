@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the explorechicago.org privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612011458id_/http%3A//www.choosechicago.com/articles/view/Privacy-Policy/176) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorechicago.org privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204033507id_/http%3A//www.choosechicago.com/articles/view/privacy-policy/176) for the most accurate reproduction.*
 
-# What to do in Chicago - Choose Chicago
+# Privacy Policy | Choose Chicago
 
 Choose Chicago® is committed to protecting the privacy of users of the Choose Chicago Web sites. The information we collect is used exclusively to facilitate services that we provide to you. We value your privacy and will take all necessary steps to protect it. 
 
