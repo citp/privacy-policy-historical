@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcplus.ca privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324014546id_/https%3A//www.pcplus.ca/loyaltyPrivacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcplus.ca privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204033244id_/https%3A//www.pcplus.ca/loyaltyPrivacy.jsp) for the most accurate reproduction.*
 
 # PC Plus
 
