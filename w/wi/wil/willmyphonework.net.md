@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the willmyphonework.net privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604142445id_/http%3A//willmyphonework.net/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willmyphonework.net privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204164555id_/http%3A//willmyphonework.net/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,6 +57,10 @@ We along with third-party vendors, such as Google use first-party cookies (such 
 
 _Opting out:_  
 _Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on._
+
+#### **Amazon Associates Program**
+
+Will My Phone Work is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com, amazon.ca, amazon.co.uk, amazon.de, amazon.fr, amazon.it, and amazon.es.
 
 ## Detailed information on the processing of Personal Data
 
