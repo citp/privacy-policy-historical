@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the trustpilot.co.uk privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503194812id_/http%3A//legal.trustpilot.co.uk/end-user-privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustpilot.co.uk privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204191148id_/http%3A//uk.legal.trustpilot.com/end-user-privacy-terms) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  * [Terms & Conditions](http://legal.trustpilot.co.uk/end-user-terms-and-conditions)
-  * [Privacy Policy](http://legal.trustpilot.co.uk/end-user-privacy-terms)
+  * [Terms & Conditions](http://uk.legal.trustpilot.com/end-user-terms-and-conditions)
+  * [Privacy Policy](http://uk.legal.trustpilot.com/end-user-privacy-terms)
 
 
 
@@ -177,7 +177,7 @@ We give you the possibility of connecting with Social Media, such as Facebook.
 
 \- Quality assurance
 
-Ensuring the quality of reviews and to prevent misuse or irregularities in con-nection with writing reviews and using the Website.
+Ensuring the quality of reviews and to prevent misuse or irregularities in connection with writing reviews and using the Website.
 
 \- Targeted advertisement:
 
@@ -191,13 +191,15 @@ Google Analytics: for statistical purposes. You can decline cookies from Google 
 
 Mixpanel: for statistical purposes. You can decline cookies from Mixpanel by clicking on this link: <https://mixpanel.com/optout/>  
 
-Facebook: Set by Facebook only if you interacts with the Facebook plugin or is already logged into Facebook from other source for the purpose of connecting and integrating with them.
+Facebook: Set by Facebook only if you interact with the Facebook plugin or is already logged into Facebook from other source for the purpose of connecting and integrating with them.
 
-Twitter: Set by Twitter only if you interacts with the Twitter plugin or is already logged into Twitter from other source for the purpose of connecting and integrating with them.
+Twitter: Set by Twitter only if you interact with the Twitter plugin or is already logged into Twitter from other source for the purpose of connecting and integrating with them.
 
-Google+: Set by Google only if you interacts with the Google+ plugin or is already logged into Google from other source for the purpose of connecting with them.
+Google+: Set by Google only if you interact with the Google+ plugin or is already logged into Google from other source for the purpose of connecting with them.
 
 Google ads: for the purpose of displaying relevant advertisements.
+
+Intercom: analytics services to help understand your usage of our services and communicate with users through behavior-driven email and in-app messages. You can decline cookies from Intercom by reading more on [ http://docs.intercom.io/pricing-and-terms/updating-your-privacy-policy](http://docs.intercom.io/pricing-and-terms/updating-your-privacy-policy)
 
 6.4 Deletion of cookies
 
@@ -231,7 +233,7 @@ Trustpilot may at any time and without notice make changes to its privacy policy
 
 In case of inquiries regarding Trustpilot's privacy policy, our processing of personal data, correction of data or your relations to us in general, you are welcome to contact Trustpilot on the following address:
 
-Trustpilot A/S, Pilestræde 58, 5th floor, 1112 Copenhagen K, Denmark, Denmark, CVR no.: 30276582, telephone: +45 69 91 12 82, Email: support@trustpilot.com.
+Trustpilot A/S, Pilestræde 58, 5th floor, 1112 Copenhagen K, Denmark, Denmark, CVR no.: 30276582, telephone: +45 88 77 76 00, email: support@trustpilot.com.
 
 November 2013
 
