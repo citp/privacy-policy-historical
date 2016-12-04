@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the emailhelpr.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521103848id_/http%3A//emailhelpr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailhelpr.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204062256id_/http%3A//emailhelpr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gmail Login and Gmail Sign in Information
-
-Privacy Policy
 
 Our Commitment To Your Privacy
 
@@ -41,6 +39,10 @@ On visiting this site, the IP address used to access the site will be logged alo
 Links to third party websites
 
 We have included links on this site for your reference. We are not responsible for the privacy policies on these websites.
+
+Email Marketing Promotion & 3rd Party Ads
+
+Users that connect to us through social login or otherwise opt into our email newsletter form expressly give their permission to email market promotions & 3rd party advertisements
 
 Alterations to this Privacy Statement
 
