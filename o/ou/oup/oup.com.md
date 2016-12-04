@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the oup.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127040227id_/http%3A//global.oup.com/privacy%3Fcc%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oup.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204135335id_/http%3A//global.oup.com/privacy%3Fcc%3Dus) for the most accurate reproduction.*
 
 # Oxford University Press - Privacy Policy
 
 ### PRIVACY POLICY
 
-Updated on: 18th December 2012  
-Effective from: 19th December 2012
+Updated on: 25 November 2015  
+Effective from: 25 November 2015 
 
 Oxford University Press ("OUP", "we", "us" or "our") is committed to protecting your privacy online. This privacy policy explains how we will do this.
 
@@ -37,7 +37,7 @@ By using our website, you are agreeing to be bound by the terms of our Cookie Po
 
 ### How do we use your information?
 
-We use information held about you in the following ways:
+We may use information held about you in the following ways:
 
 > • To ensure that content from our website is presented in the most effective manner for you and for your computer.
 > 
@@ -77,11 +77,11 @@ If any part of our business (including those of our affiliates) is sold or integ
 
 All personal and credit card information is encoded using Secure Sockets Layer (SSL) technology before being sent over the Internet. To protect your data further, your credit card information is always stored in encrypted form in a database that is away from our website database, so it is not connected to the Internet. Credit card transactions are issued a digital certificate, ensuring that your data can only be read by our transaction system as long as your browser shows its secure mode symbol (such as a key or closed lock). 
 
- We also recommend setting your browser's preferences to accept cookies and enable JavaScript™. 
+We also recommend setting your browser's preferences to accept cookies and enable JavaScript™. 
 
-As a major international publisher, committed to the widest possible dissemination of scholarship and learning, OUP has links with other organisations throughout the world. We exchange information with our overseas branches, associated companies and other parties, including distributors and sales agents.  As such, from time to time, we may transfer, store and/or process information about you at a destination outside of the European Economic Area. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. By using our website, you consent to these transfers. 
+As a major international publisher, committed to the widest possible dissemination of scholarship and learning, OUP has links with other organisations throughout the world. We exchange information with our overseas branches, associated companies and other parties, including distributors and sales agents.  As such, from time to time, we may transfer, store and/or process information about you at various locations, including locations outside of the European Economic Area. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. By using our website, you consent to these transfers. 
 
- Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+ Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. The foregoing does not impact on our obligations to you under Clause 7.4 of our Terms and Conditions if Clause 7.4 is applicable to you.
 
 ### Updating your details and contacting us
 
