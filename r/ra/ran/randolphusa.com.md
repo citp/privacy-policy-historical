@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the randolphusa.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612234613id_/http%3A//www.randolphusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randolphusa.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204151335id_/http%3A//www.randolphusa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Randolph Engineering
+# Randolph Engineering Privacy Policy
 
 **What information do we collect?**
 
@@ -76,4 +76,4 @@ Randolph, MA 02368-3902
 
 United States
 
-customerservice@randolphusa.com ****
+customerservice@randolphusa.com
