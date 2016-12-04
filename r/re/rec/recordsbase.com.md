@@ -1,70 +1,113 @@
-> *The following text is extracted and transformed from the recordsbase.com privacy policy that was archived on 2016-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160125142050id_/http%3A//www.recordsbase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recordsbase.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204034941id_/http%3A//www.recordsbase.com/privacy) for the most accurate reproduction.*
 
-# Free Online Public Records Searches Fast, Easy and Private
+# Privacy Policy | RecordsBase.com
 
-## Effective Date: January 31, 2013
+Welcome to “RecordsBase.com”, a website designed to help you find information available in public records. This privacy policy is for visitors (“you”) of the web pages at the domain www.recordsbase.com ("RecordsBase.com,” “services," or “the site”), which is owned and operated by Inflection.com, Inc. (“we” or “our”). 
 
-RecordsBase.com ("RecordsBase") operates this Website. When users peruse the free portions of the RecordsBase site, they are interacting with RecordsBase.com. When a user wishes to sign up for the RecordsBase membership (the "Members' Website"), they are interacting with, and providing information to Archives (together with its parent company, Ancestry.com Operations Inc., "Archives"). All free trials and memberships are powered by Archives.
+Archives, together with its parent company Ancestry.com Operations Inc., (“Archives”) provide all web pages at the domain members.recordsbase.com (“RecordsBase Members’ Website”). Members will be using the Records Base Members’ Website regardless of whether they are using a free trial or a purchased membership with the RecordsBase Members’ Website. For the Privacy Policy relating to the RecordsBase Members’ Website, [click here](http://members.recordsbase.com/member/privacy). 
 
-Both RecordsBase and Archives recognize that you care how information about you is used and shared. This Privacy Policy is designed to let you know how we keep your information secure and when we might disclose or share your information. We also want to let you know how you can manage and control your personal information. The policies below are applicable to the RecordsBase Website or the Members' Website and apply only to information gathered through those respective websites as indicated below. 
+This policy discusses what information these sites collect, how we use it, and the limited circumstances we may share it in. 
 
-## What This Privacy Policy Covers
+## What is covered by this privacy policy?
 
-This policy covers how RecordsBase and Archives treat the personal information that is received and/or collected , including information related to your past use of the Website and/or the Members' Website and/or Services. Personal information is information about you that is personally identifiable like your name, address, credit or debit card number, email address, or phone number, and that is not otherwise publicly available. This policy does not apply to the practices of companies that we do not own or control or to people that we do not employ or manage. 
+RecordsBase.com is a tool designed to help you find public records information about yourself and others. This site is not a consumer-reporting agency as defined by the Fair Credit Reporting Act (FCRA). Visit GoodHire.com for all your employment screening needs.
 
-## Information Collection and Use
+## What isn’t covered by this privacy policy?
 
-In order to facilitate searches and manage our business we collect personal information about you. We collect personal information about you when you voluntarily register with us, when you use the Website and/or the Members' Website and/or Services and your browser interacts with us, when you visit the Website pages or the pages of certain of our partners, and when you enter third party personal information to conduct certain searches. We may combine information that we have about you with information we obtain from business partners or other companies, such as data providers and billing companies.   
-The personal information we collect about you through these various sources may include, but is not limited to: your name, email address, IP address, address, and search log. Once you register with us and sign in to our services, you are not anonymous to us. 
+This privacy policy only applies to information collected while on the web pages at the domain www.recordsbase.com, which is owned and operated by Inflection. This policy does not apply to the practices of Archives, which interacts with users of the RecordsBase Members’ Website.
 
-By submitting your email address on our checkout page you agree that you're opting into our no-cost newsletter and email alerts service. You understand that you will receive messages that are commercial in nature. An opt-out "unsubscribe" link will be provided for your convenience in each message.   
-We collect information about your transactions with us and with some of our business partners, such as billing partners, including information about your use of search products and information we offer. 
+Further, this policy does not apply to the practices of other website domains you visit because you click a link on this site, to other Inflection services, to the practices of companies that we do not own or control, or to people that we do not employ or manage.
 
-We automatically receive and record information on our server logs from your browser, including your IP address, our cookie information, search activity, and the pages you request. 
+## We Do Not Control The Public Records Made Available
 
-We use the information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, publish search data, and provide reporting for internal and external clients. 
+This site displays public records that are available in the real world, such as criminal history records from law enforcement agencies and bankruptcy records from courts. Original copies of public records can only be changed by those entities. 
 
-## Information Sharing and Disclosure
+When users search for public records, Archives conducts the search. Inflection has no control over the records made available through the RecordsBase Members’ Website.
 
-We do not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
+## Payments to Archives and Other Products
 
-  * We provide the information to trusted partners who work on behalf of or with us. These companies may use your personal information to help communicate with you about offers from us and our marketing partners. Examples of these are third party payment processors who expedite payments on our Website and marketing partners, such as our identity theft protection partner.
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. 
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms and Conditions, or as otherwise required by law. 
-  * We transfer information about you if we are acquired by or merged with another company. In this event, we will notify you by sending a notice to the primary email address specified in your account or by placing a prominent notice on our Website before information about you is transferred and becomes subject to a different privacy policy. 
-  * We may display targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area. 
-  * We do not provide any personal information to the advertiser when you interact with or view a targeted advertisement. However, by interacting with or viewing an advertisement you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the advertisement. 
+If you choose to make a purchase or become a member of the RecordsBase Members’ Website, your purchase will be made through Archives and covered under its [terms](http://members.recordsbase.com/member/terms). 
 
-  
+## Information We Collect From All Visitors
+
+### Technical and Analytics Information
+
+We collect technical and analytics information from all visitors. This information includes your IP address, the URL that brought you to the service, and information about your device and browser.
+
+### Activity Information
+
+When you visit this site, Inflection collects information about which pages you visit.
+
+### Information collected by cookies and in the background
+
+This site makes use of tools such as cookies to collect various types of information about your activity and computer while your use the website. We only use information collected in the background to deliver and market our services — information collected by cookies and other tools is not used to augment our search results.
+
+  * **Content and preference cookies.** We use different types of cookies (both temporary and persistent) to make it easier for you to help you navigate the site, track usage of our site to improve your experience, and remember your preferences. Disabling cookies may limit your ability to use some areas of our site.
+  * **Technical and analytics data.** We use services such as Google Analytics to learn about how people discover, use, and interact with the site. 
+  * **Advertising information.** We use third party advertisers to show you ads for Inflection products on other websites. Showing you these ads involves placement of a cookie on your computer. If you would like more information about these practices and to know your choices for opting out, please visit the [Google opt out page](http://www.google.com/ads/preferences/) to opt-out of Google cookies, or the Network Advertising Initiative’s [opt out system](http://www.networkadvertising.org/choices/). We do not control the cookies and/or trackers used by the third-party resources and links provided on this site. However, we can provide visibility into the cookies and trackers used when you follow links or paths from this site to our partner site, PeopleSmart.com. For a closer look into the third-party advertising and tracking cookies involved, you can consult the [About Our Cookies](https://www.peoplesmart.com/about-our-cookies) page on PeopleSmart.com. This privacy resource provides useful information and options for opting out of these cookies.
 
 
-## Cookies
 
-We may set and access our cookies on your computer.   
-We allow other companies that show advertisements on some of our pages, to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to our cookies.   
-We do not store any personally identifiable information in our cookies. 
+## How We Use The Information We Collect
 
-## Your Ability to Edit and Delete Your Account Information and Preferences
+Your information is only used to provide and market this service to you, which includes operating the website, conducting in-house research, preventing fraud or abuse, marketing you products or services offered by us, and communicating with you and addressing your concerns.
 
-In the Members' Web site, you can edit your Account Information within the members' area by clicking "My Account" and then "Make Changes". To exclude yourself from commercial emails and alerts sent by Archives, simply click the "Unsubscribe" link provided in any commercial email message. Archives reserves the right to send you certain communications relating to our service, such as service announcements, administrative messages and customer receipts without offering you the opportunity to opt-out of receiving them. Archives allows you to suppress your personal information from living person search results displayed on the Members' Website. To do this, please submit the opt-out request form. Your request will be processed in 1 to 7 business days. 
+## We Only Share Your Information in the Following Situations
 
-## Confidentiality and Security
+**With Your Consent:** We may share your information when you give us permission.
 
-We limit access to personal information about you to employees and contractors who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
+**With Our Parent Company:** Inflection.com, Inc. owns a variety of services in addition to this site, including Identity.com, PeopleSmart.com, GoodHire.com, and other people search sites. Data collected under this privacy policy is shared with Inflection and stored alongside data from those other services. Your choices on one service may affect another service.
 
-Archives employs physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you including 128-bit SSL encryption of all credit and debit card transactions between you and our servers as well as the servers of our partners. All sensitive customer data is protected using dedicated network attached encryption devices with full PCI DSS compliant audit logging. All of our data storage is housed in secure locations allowing access to only authorized personnel who can pass a multi-factor identification process. 
+**With Service Providers:** We use certain trusted third parties to provide services for us. We only share the minimum amount of information necessary to provide the service. In addition, any third-party service provider we use is required to give your information the same protections that are outlined here in this Privacy Policy.
 
-If you use the Archives forums, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users. We are not responsible for the personally identifiable information you choose to submit in this forum. 
+**Deidentified and Aggregated Data:** We may share or disclose information we collect after deidentifying and aggregating it so it cannot be linked back to an individual person. We contractually require third parties to respect this practice.
 
-## Changes to this Privacy Policy
+**Business Transfers:** In the event that Inflection is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. However, the new entity will be bound by this privacy policy after the sale or transfer.
 
-We may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account or by placing a notice on our site. 
+**Legal Process and Emergency Circumstances:** We may disclose or preserve for future disclosure your information if we believe, after due consideration, that doing so is reasonably necessary to protect Inflection’s rights or property or to comply with a law, regulation, valid legal process, or to prevent imminent and serious bodily harm to a person.
 
-## How You Can Contact Us about Privacy Questions
+If you are a law enforcement officer seeking information from Inflection about one of our users, please reference our [Law Enforcement Guidelines](http://inflection.com/privacy/additional-privacy-resources/law-enforcement-guide) for further information.
 
-If you have questions or concerns regarding this policy, you can contact us by emailing support@recordsbase.com, calling 1-888-884-9998 or writing to us at Archives, Attn: Privacy Department, 360 W 4800 N, Provo, UT 84604. Archives maintains offices at 360 W 4800 N, Provo, UT 84604. 
+Unless prohibited from doing so by law or court order, we will do our best to provide subjects of law enforcement requests with advance notice before we disclose their information to law enforcement, if we have contact information for that person. We reserve the right to withhold advance notice where it would impede an investigation of identity theft, or in situations involving imminent physical harm or harm to minors.
 
-## To Unsubscribe from Email Communications
+## How We Retain And Protect Your Information
 
-If you would like to stop receiving marketing message emails, please click on the 'unsubscribe' link contained in any marketing message from recordsbase.com. If you are a member and would like to stop receiving newsletters, please provide us with the email address you would like to unsubscribe by emailing support@recordsbase.com or calling 1-888-884-9998. Please note that you may still receive transactional messages from us such as account and billing notices, if applicable.   
+We retain all of the information we collect or that you submit for purposes including fraud prevention, legal compliance, and to resolve disputes or enforce our agreements. 
 
+Your information is stored on secure servers in Northern California. While we use acceptable industry-standard practices to protect your information, we cannot and do not guarantee that your information will be absolutely secure.
+
+## Fraud and Abuse Prevention
+
+We partner with certain third party vendors to prevent fraud and abuse. To do this, we may use information that includes your IP address, browser, and operating systems to identify suspected fraudulent activity and block it. 
+
+## Choices And Other Privacy Information
+
+### Access and corrections
+
+You may also email our Privacy Team at [privacy@peoplesmart.com](mailto:privacy@peoplesmart.com) if you wish to access, correct, or make changes to your personal information that we possess. We will do our best to promptly respond to your request. Please be aware, we cannot update personal information appearing on public record sources. You must contact the applicable Law Enforcement Agency or Court to correct errors contained within public records.
+
+### Communication Preferences
+
+We may send you information about our products and other messages related to our people search sites, including marketing emails. You can unsubscribe by clicking on the unsubscribe link in those emails or by emailing [privacy@peoplesmart.com](mailto:privacy@peoplesmart.com) with the email address you wish to unsubscribe from. Please note that you may still receive account and billing notices, if applicable.
+
+### California’s ‘Do Not Track’ law
+
+When you browse our website, we may use trusted third-party tools to analyze website usage, monitor performance, and prevent fraud. The services do not currently respond to browser settings such as Do Not Track. Third parties, such as our fraud prevention tools, may also collect personally identifiable information from you.
+
+### California Information-Sharing Disclosure
+
+We do not share your personal information that you submit to us with third parties for direct marketing purposes without your permission.
+
+### Children’s Information
+
+This site is not directed to individuals under the age of 13 and we do not knowingly collect personal information from children under the age of 13. If we discover that we have collected personal information on a child under the age of 13 via this site, we will promptly remove it from our systems.
+
+### Contact Information
+
+We are located at 555 Twin Dolphin Drive #200, Redwood City, CA 94065. If you have any questions or concerns regarding this policy, please contact us:  
+Privacy Department  
+P.O. Box 391146  
+Omaha, NE 68139  
+[privacy@peoplesmart.com](mailto:privacy@peoplesmart.com)
+
+**Last Modified:** July 12, 2016
