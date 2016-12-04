@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newcastlepermanent.com.au privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429071849id_/https%3A//www.newcastlepermanent.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcastlepermanent.com.au privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204130308id_/https%3A//www.newcastlepermanent.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Newcastle Permanent
 
@@ -70,11 +70,11 @@ To help us reach the right people with our credit direct marketing, we may ask c
 
 If you do not want us to use your credit information for pre-screening by a credit reporting body, you can opt-out by informing those credit reporting bodies listed on your privacy consent, whose contact details are on their websites.
 
-You may contact the credit reporting bodies to advise them that you believe that you may have been a victim of fraud. For a period of 21 days after the credit reporting bodies receives your notification, the credit reporting bodies must not use or disclose that credit information. You can contact any of the following credit reporting bodies for more information:
+Each credit reporting body has a credit reporting policy about how they handle your information. You can contact any of the following credit reporting bodies for more information or to obtain copies of these policies at their websites:
 
-  * [veda.com.au](http://veda.com.au/),
-  * [dnb.com.au](http://dnb.com.au/), or
-  * [experian.com.au](http://experian.com.au/)
+  * Veda Advantage Information Services and Solutions Limited [veda.com.au](http://veda.com.au/),
+  * Dun & Bradstreet (Australia) Pty Ltd [dnb.com.au](http://dnb.com.au/), or
+  * Experian Credit Services Pty Limited [experian.com.au](http://experian.com.au/)
 
 
 
@@ -104,7 +104,8 @@ We may disclose your personal information to other organisations, for example:
 
   * our related companies;
   * external organisations that are our assignees, agents or contractors;
-  * external service providers to us, such as organisations which we use to verify your identity, payment systems operators, mailing houses and research consultants;
+  * external service providers of ours, such as payment systems operators, mercantile agents, printers, mailing houses, valuers and research consultants;
+  * entities that provide verification including on-line verification of your identity or any relevant government agency via the Document Verification Service (details of which can be found at [www.dbs.gov.au](http://www.dvs.gov.au/)) including for the purposes of the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (Cth);
   * insurers and re-insurers, where insurance is provided in connection with our services to you;
   * superannuation funds, where superannuation services are provided to you;
   * other financial institutions (for example when you apply for a loan from another finance provider and you agree to us providing information);
@@ -121,7 +122,7 @@ We may disclose your personal information to other organisations, for example:
 
 We will take reasonable steps to ensure that these organisations are bound by sufficient confidentiality and privacy obligations with respect to the protection of your personal information.
 
-Some of the recipients to whom we disclose your personal information may be based overseas. It is not practicable to list every country in which such recipients are located but it is likely that such countries will include the United Kingdom, New Zealand and Phillipines. Such overseas recipients may not be bound by the Privacy Act. If we disclose your personal information outside Australia, we will do so on the basis that the information will be used only for the purposes it was collected for.
+Some of the recipients to whom we disclose your personal information may be based overseas. It is not practicable to list every country in which such recipients are located but it is likely that such countries will include the United Kingdom, New Zealand and Philippines. Such overseas recipients may not be bound by the Privacy Act. Recipients in these circumstances may be required to disclose information we share with them under a foreign law. In those instances, we will not be responsible for that disclosure . If we disclose your personal information outside Australia, we will do so on the basis that the information will be used only for the purposes it was collected for.
 
 We will take reasonable steps to protect your personal information from misuse, loss, unauthorised access, modification, or disclosure. We do this by:
 
