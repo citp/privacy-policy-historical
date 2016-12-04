@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themesawesome.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518234759id_/http%3A//www.themesawesome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themesawesome.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204172220id_/http%3A//www.themesawesome.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Themes Awesome
+# Privacy Policy - Themes Awesome
 
 This privacy statement describes how Themes Awesome collects and uses the personal information you provide on our Web site: www.themesawesome.com[ http://www.themesawesome.com/](http://www.themesawesome.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
