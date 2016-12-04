@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bond.edu.au privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316021647id_/https%3A//bond.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bond.edu.au privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204032011id_/https%3A//bond.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Bond University
 
@@ -118,11 +118,11 @@ This privacy policy may be updated by BU from time to time.
 
 If you have any queries or concerns about BU’s privacy policy or the way in which BU handles your personal information, please contact BU’s privacy officer at:
 
- **Street address:** University Drive , Robina, QLD, 4226  
- **Postal address:** Bond University , Gold Coast, QLD, 4229  
- **Email address:** [privacy@bond.edu.au](mailto:privacy@bond.edu.au?subject=Privacy%20Feedback)  
- **Telephone:** 07 5595 3549  
- **Facsimile:** 07 5595 1025
+Address: University Drive, Robina, QLD, 4226  
+Postal address: Bond University, Gold Coast, QLD, 4229  
+Email: [privacy@bond.edu.au](mailto:privacy@bond.edu.au?subject=Privacy%20Feedback)  
+Tel: [+61 7 5595 3549](tel:+61755953549)  
+Fax: +61 7 5595 1025
 
 ### More information
 
