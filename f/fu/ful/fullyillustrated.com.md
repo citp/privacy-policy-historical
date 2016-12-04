@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullyillustrated.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619175935id_/http%3A//www.fullyillustrated.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullyillustrated.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204044412id_/http%3A//www.fullyillustrated.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fully Illustrated - The Portfolio of Michael Heald
 
