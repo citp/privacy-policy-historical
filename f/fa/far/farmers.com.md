@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmers.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630134704id_/https%3A//www.farmers.com/disclaimer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmers.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204175954id_/https%3A//www.farmers.com/disclaimer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Farmers Insurance
 
@@ -157,7 +157,7 @@ Confidentiality of Information for Domestic Violence Victims and Endangered Indi
 
 New York Insurance Law provides that if any person covered by an insurance policy delivers to the insurer a valid order of protection against another policyholder or other person covered by the policy requesting that their information be kept confidential then the insurer is prohibited for the duration of that order from disclosing to that policyholder or other person the address and telephone number of the victim, or of any person or entity providing covered services to the victim. If a child is a covered person, then the right may be asserted by the child’s parent or guardian.
 
-The request should be made by faxing a copy of the order of protection to 866-581-1410, attention Triage Team. If you are unable to fax a copy of the order, please email the request to serviceoperations@farmersinsurance.com or mail it to us at 15700 Long Vista Drive, Texas 78728 – Attention: Triage Team.
+The request should be made by faxing a copy of the order of protection to 866-581-1410, attention Triage Team. If you are unable to fax a copy of the order, please email the request to serviceoperations@farmersinsurance.com or mail it to us at 15700 Long Vista Dr. Austin, TX 78728 – Attention: Triage Team.
 
 Once a valid request has been received and implemented, a requestor may only revoke the prior request by submitting to us a written sworn statement revoking the request.
 
