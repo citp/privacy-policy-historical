@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mphonline.com privacy policy that was archived on 2016-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160610024613id_/http%3A//www.mphonline.com/disclaimer/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mphonline.com privacy policy that was archived on 2016-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161204103319id_/http%3A//www.mphonline.com/disclaimer/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_ctl00_ctl00_Head1"><title>
 	MPHONLINE.COM - Malaysia's No. 1 Online Bookstore
@@ -28,15 +28,38 @@
 	</script>
 <link href="../App_Themes/Default/StyleSheet.css" type="text/css" rel="stylesheet"></head>
 <body>
-    <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgJmD2QWAmYPZBYCZg9kFgICAw9kFgICAQ9kFgICAQ9kFggCAQ8WAh4HVmlzaWJsZWhkAgMPFgIfAGdkAgUPFgIfAGhkAgcPZBYCZg9kFgICAQ9kFgICAQ8QZA8WBWYCAQICAgMCBBYFEAUFVGl0bGUFBVRpdGxlZxAFBkF1dGhvcgUGQXV0aG9yZxAFBElTQk4FBElTQk5nEAUJUHVibGlzaGVyBQlQdWJsaXNoZXJnEAUFZUJvb2sFBWVCb29rZ2RkZCHi6g+bHS3+bv0oWPt1wkno+la1">
+    <form name="aspnetForm" method="post" action="/disclaimer/privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgJmD2QWAmYPZBYCZg9kFgICAw9kFgICAQ9kFgICAQ9kFgYCAQ8WAh4HVmlzaWJsZWhkAgMPFgIfAGdkAgUPFgIfAGhkZCJI2wCC7blbfHrAQnrnjgOZ5/Ys">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCAKsyZDxDAKzvZGADALqv7m2AwKfn5WnAwKH19JeAqPF+LMGAvOGiuYPAofHydQNuVodUtl1hsX9hIITcARTDS3BCMU=">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwK045jkDgLzhormDwKis6OkBEXbxwD2tOxmtLSLmaElSBuHEwzG">
     <div style="margin-left:auto; margin-right:auto; width:1055px">
         
     <link rel="stylesheet" href="../css/Footer.css" type="text/css">
 	<div class="top_wrapper">
 		
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300">
+    <link href="../css/jquery.countdown.css" rel="stylesheet">
+    <script src="../js/dist/jquery.countdown.js"></script>
+    <script src="../js/dist/script-Timer.js"></script>
+    <!--[if lt IE 9]>
+          <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+    <script type="text/javascript">
+        $(function () {
+            $(window).scroll(function () {
+                if ($(this).scrollTop() > 100) {
+                    $('.scrollup').fadeIn();
+                } else {
+                    $('.scrollup').fadeOut();
+                }
+            });
+
+            $('.scrollup').click(function () {
+                $("html, body").animate({ scrollTop: 0 }, 600);
+                return false;
+            });
+        });
+    </script>
     <link rel="stylesheet" href="../css/Top.css" type="text/css">
     <div class="object_floatright header_menu">
         <div class="object_floatright menu_common">
@@ -60,55 +83,173 @@
                 <img alt="Login" class="remove_img_border" src="../master/img/onoff.jpg">
             </a>
         </div>
-                
+        
     </div>
-	<div class="clearfix header_wrapper">
-		
-			
+    <div class="clearfix header_wrapper">
+        
+
+
+
+<script>
+    $(document).ready(function (e) {
+        // Get IE or Edge browser version
+        var version = detectIE();
+        var myIEVersion = '';
+
+        if (version === false) {
+            myIEVersion = '<s>IE/Edge</s>';
+        } else if (version >= 12) {
+            myIEVersion = 'Edge ' + version;
+            $('.cssHeaderText').css({ height: '35px' });
+        } else {
+            myIEVersion = 'IE ' + version;
+            $('.cssHeaderText').css({ height: '35px' });
+        }
+
+        $("#btnSearchMenu").click(function () {
+            var myCtrl = $('.dropdown-menu').is(":visible");
+
+            if (myCtrl != false)
+                $('.dropdown-menu').hide();
+            else
+                $('.dropdown-menu').show();
+        });
+
+        $('#ctl00_ctl00_ctl00_ctl00_ParentMaster_TopMaster_ctl00_hdnSearchBy').val('');
+        $('.search-panel .dropdown-menu').find('a').click(function (e) {
+            e.preventDefault();
+            $('.dropdown-menu').show();
+            var param = $(this).attr("href").replace("#", "");
+            var concept = $(this).text();
+            var ctrlID = $(this).attr('id');
+            $('.search-panel span#search_concept').html(concept);
+            if (concept != '' || concept.length > 0 || typeof (concept) != "undefined")
+                $('#ctl00_ctl00_ctl00_ctl00_ParentMaster_TopMaster_ctl00_hdnSearchBy').val(ctrlID);
+            else
+                $('#ctl00_ctl00_ctl00_ctl00_ParentMaster_TopMaster_ctl00_hdnSearchBy').val('1');
+
+            $('.input-group #search_param').val(param);
+            $('.dropdown-menu').hide();
+        });
+
+        $('#btnSearchClick').bind("click", function (e) {
+            e.preventDefault();
+            var searchInput = $('#ctl00_ctl00_ctl00_ctl00_ParentMaster_TopMaster_ctl00_txtSearch').val().trim();
+            var concept = $('#search_concept').html().trim();
+
+            if (concept == "Search by")
+                $('#ctl00_ctl00_ctl00_ctl00_ParentMaster_TopMaster_ctl00_hdnSearchBy').val('1');
+            else
+                concept = $('#ctl00_ctl00_ctl00_ctl00_ParentMaster_TopMaster_ctl00_hdnSearchBy').val();
+
+            if (searchInput == '' || searchInput.length == 0)
+                window.location.href = '/books/bookcomm.aspx';
+            else
+                window.location.href = '/books/nsearch.aspx?do=search&Cri=' +  $('#ctl00_ctl00_ctl00_ctl00_ParentMaster_TopMaster_ctl00_hdnSearchBy').val() + '&Val=' + searchInput;
+        });
+    });
+
+    /**
+     * detect IE
+     * returns version of IE or false, if browser is not Internet Explorer
+     */
+    function detectIE() {
+        var ua = window.navigator.userAgent;
+
+        // Test values; Uncomment to check result …
+
+        // IE 10
+        // ua = 'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)';
+
+        // IE 11
+        // ua = 'Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko';
+
+        // Edge 12 (Spartan)
+        // ua = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36 Edge/12.0';
+
+        // Edge 13
+        // ua = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586';
+
+        var msie = ua.indexOf('MSIE ');
+        if (msie > 0) {
+            // IE 10 or older => return version number
+            return parseInt(ua.substring(msie + 5, ua.indexOf('.', msie)), 10);
+        }
+
+        var trident = ua.indexOf('Trident/');
+        if (trident > 0) {
+            // IE 11 => return version number
+            var rv = ua.indexOf('rv:');
+            return parseInt(ua.substring(rv + 3, ua.indexOf('.', rv)), 10);
+        }
+
+        var edge = ua.indexOf('Edge/');
+        if (edge > 0) {
+            // Edge (IE 12+) => return version number
+            return parseInt(ua.substring(edge + 5, ua.indexOf('.', edge)), 10);
+        }
+
+        // other browser
+        return false;
+    }
+</script>
 <div class="header_background_main">
-	<div class="mphlogo">
-		<a href="../welcome/welcome.aspx">
-			<img src="../img/header/mphonline.png" class="remove_img_border" alt="MPHONLINE.COM – Discounts up to 50%! Malaysia's No.1 Online Bookstore with retail chains throughout Malaysia specializing in books, ebooks, gifts, stationery, toys,  IT &amp; multimedia and more.">
-		
-	</a></div><a href="../welcome/welcome.aspx">
-	<div class="Aniversary_valign">
-		
-			 <img src="../img/header/110-years-logo-FA.png" class="remove_img_border" alt="110 Years">
-	</div>
-	</a><div class="imgtruck_valign"><a href="../welcome/welcome.aspx">
-		</a><a href="../help/delivery_rates.aspx">
-			<img src="../img/header/FreeDelivery.png" class="remove_img_border" alt="Over 1 million books &amp; FREE* Delivery Available">
-		</a>
-	</div>
-	
-	
-	
+    <div class="mphlogo">
+        <a href="../welcome/welcome.aspx">
+            <img src="../img/header/mphonline.png" class="remove_img_border" alt="MPHONLINE.COM – Discounts up to 50%! Malaysia's No.1 Online Bookstore with retail chains throughout Malaysia specializing in books, ebooks, gifts, stationery, toys,  IT &amp; multimedia and more.">
+            
+    </a></div><a href="../welcome/welcome.aspx">
+    <div class="Aniversary_valign">
+        
+        <img src="../img/header/110-years-logo-FA.png" class="remove_img_border" alt="110 Years">
+    </div>
+    </a><div class="imgtruck_valign"><a href="../welcome/welcome.aspx">
+        </a><a href="../help/delivery_rates.aspx">
+            <img src="../img/header/FreeDelivery.png" class="remove_img_border" alt="Over 1 million books &amp; FREE* Delivery Available">
+        </a>
+    </div>
+    
+    
+    
+    
 </div>
 <div class="searchbar_background">
-	<div class="searchbar_content">
-		<div id="ctl00_ctl00_ctl00_ctl00_ParentMaster_TopMaster_ctl00_pSearch">
-	
-			<span class="search_span">
-				<b>Search by:</b>
-			</span>
-			<select name="ctl00$ctl00$ctl00$ctl00$ParentMaster$TopMaster$ctl00$dboSearchBy" id="ctl00_ctl00_ctl00_ctl00_ParentMaster_TopMaster_ctl00_dboSearchBy">
-		<option value="Title">Title</option>
-		<option value="Author">Author</option>
-		<option value="ISBN">ISBN</option>
-		<option value="Publisher">Publisher</option>
-		<option value="eBook">eBook</option>
-
-	</select>
-			<input name="ctl00$ctl00$ctl00$ctl00$ParentMaster$TopMaster$ctl00$txtSearch" type="text" id="ctl00_ctl00_ctl00_ctl00_ParentMaster_TopMaster_ctl00_txtSearch">
-			<input type="submit" name="ctl00$ctl00$ctl00$ctl00$ParentMaster$TopMaster$ctl00$btnSearch" value="Search" id="ctl00_ctl00_ctl00_ctl00_ParentMaster_TopMaster_ctl00_btnSearch">
-			<span class="tips_span">(
-				<a href="../help/searchtips.aspx">
-					<b>Tips:</b>
-				</a> Search Author by: Last Name, First Name)
-			</span>
-		
-</div>
-	</div>
+    <div class="searchbar_content2" align="left">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-8 col-xs-offset-2">
+                    <div class="input-group">
+                        <div class="input-group-btn search-panel cssSearchZoom">
+                            <button type="button" id="btnSearchMenu" class="btn btn-default dropdown-toggle cssButtonwidth" data-toggle="dropdown">
+                                <strong><span id="search_concept">Search by </span></strong><span class="caret"></span>
+                            </button>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="#its_equal" id="2">Author </a></li>
+                                <li><a href="#greather_than" id="3">ISBN </a></li>
+                                <li><a href="#less_than" id="4">Publisher </a></li>
+                                <li><a href="#less_than" id="5">eBook </a></li>
+                                <li class="divider"></li>
+                                <li><a href="#all" id="1">Title </a></li>
+                            </ul>
+                        </div>
+                        <input name="ctl00$ctl00$ctl00$ctl00$ParentMaster$TopMaster$ctl00$txtSearch" type="text" id="ctl00_ctl00_ctl00_ctl00_ParentMaster_TopMaster_ctl00_txtSearch" class="form-control cssHeaderText" placeholder="Enter Title, Author, ISBN or Publisher" style="border-radius: 0;">
+                        <span class="input-group-btn">
+                            <input type="hidden" name="ctl00$ctl00$ctl00$ctl00$ParentMaster$TopMaster$ctl00$hdnSearchBy" id="ctl00_ctl00_ctl00_ctl00_ParentMaster_TopMaster_ctl00_hdnSearchBy">
+                            <button type="submit" id="btnSearchClick" class="btn btn-primary cssZoom cssImagebtn">
+                                <span class="glyphicon glyphicon-search" aria-hidden="true">
+                                    <img src="../master/img/search-solid.png" alt="Search"></span></button>
+                        </span>
+                    </div>
+                </div>
+                <a href="../help/searchtips.aspx">
+                    <div class="Mytooltip">
+                        <img src="../master/img/info.png" width="20px" height="20px" class="remove_img_border" alt="Info">
+                        <span class="Mytooltiptext">Search Author by: Last Name, First Name</span>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
 </div>
 <div id="menu_wrapper">
     <div class="menu_category">
@@ -171,12 +312,12 @@
             <div class="sub_category">
                 <span>Recommended</span>
                 <ul class="greybox">
+                    <li><a href="../books/hot_titles.aspx">Hot Titles</a></li>
                     <li><a href="../offers/preorder.aspx">Pre Order</a></li>
                     <li><a href="../books/bestseller.aspx">BestSeller</a></li>
                     <li><a href="../books/prerelease.aspx">Coming Soon</a></li>
                     <li><a href="../books/newarrival.aspx">New Arrival</a></li>
                     <li><a href="../offers/modeals.aspx">MoDeals</a></li>
-                    <li><a href="../offers/factoryoutlet.aspx">Factory Outlet</a></li>
                 </ul>
             </div>
             <div class="sub_category clearfix">
@@ -323,9 +464,10 @@
         <a class="menu_title" href="../books/bookcomm.aspx">Categories</a>
     </div>
 </div>
-	</div>
-	<div class="clearfix" style="margin: 3px auto;max-width: 1054px;">
-		
+
+    </div>
+    <div class="clearfix" style="margin: 3px auto; max-width: 1054px;">
+        
     <link href="../../administrator/styles/themes/smoothness/jquery.ui.accordion.css" rel="stylesheet" type="text/css">
 	<link href="../../administrator/styles/themes/smoothness/jquery-ui.theme.min.css" rel="stylesheet" type="text/css">
 	<link href="../../administrator/styles/themes/smoothness/jquery.ui.core.css" rel="stylesheet" type="text/css">
@@ -967,7 +1109,9 @@ document.onclick=hidemenu
         </tr>
     </tbody></table>
 
-	</div>
+        
+        <a href="http://gazpo.com/downloads/tutorials/jquery/scrolltop/#" class="scrollup" title="scroll to Top" style="display: none;">Top</a>
+    </div>
 
 	</div>
 	<div class="footer">
@@ -1002,7 +1146,7 @@ document.onclick=hidemenu
 			<li>|</li>
 			<li><a href="../help/paymentoption.aspx">Payment Methods</a></li>
 			<li>|</li>
-			<li><a href="/help/career.aspx">Careers</a></li>
+			<li><a href="../help/career.aspx">Careers</a></li>
 			<li>|</li>
 			<li><a href="../help/contact.aspx">Contact Us</a></li>
 		</ul>
