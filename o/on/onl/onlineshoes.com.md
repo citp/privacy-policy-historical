@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineshoes.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624084511id_/http%3A//www.onlineshoes.com/Info/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineshoes.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204141440id_/http%3A//www.onlineshoes.com/Info/PrivacyPolicy) for the most accurate reproduction.*
 
 # OnlineShoes.com Privacy Policy
 
@@ -35,7 +35,7 @@ Information We Collect Directly From You
 
 You can visit our Site without entering any personal information and browse to your heart's content. However, if you want to make it a great shopping experience and access all of our features, promotional offers and special programs (including gift certificates), or if you want to make a purchase, we may ask for certain personal information. For example, we will collect certain personal information if you choose to join our loyalty program, if you subscribe to any of our email programs, if you participate in creating and sharing wish list information, if you write product reviews, if you choose to enter contests or sweepstakes, or if you "Like" us on Facebook. But trust us, the benefits are so worth it.
 
-Depending on the purpose, the personal information that we may collect may include (but is not limited to) your name, phone number, email address, shipping and billing addresses, zip code and credit card information. If you choose to pay with PayPal Credit®, you will be required to provide the last four digits of your social security number and your birth date (which we will use solely to process the PayPal Credit® transaction and will not keep after the transaction is completed). In addition, we may collect your purchase history, preference information (such as specific styles or brands that you prefer) and certain other demographic information that you may provide to us (such as gender, age or income range).
+Depending on the purpose, the personal information that we may collect may include (but is not limited to) your name, phone number, email address, shipping and billing addresses, zip code and credit card information. In addition, we may collect your purchase history, preference information (such as specific styles or brands that you prefer) and certain other demographic information that you may provide to us (such as gender, age or income range).
 
 User-generated content on our Site, such as product reviews, product ratings and wish lists created by users, may include personal information. Any personal information submitted with or included in the user-generated content is collected and may be posted on our Site.
 
@@ -112,5 +112,5 @@ But if you continue to have questions about how we treat your privacy (or are st
 
 **Address:**  
 OnlineShoes.com  
-1730 Minor Ave., Suite 700  
-Seattle, WA 98101 
+221 Yale Avenue N., Suite 350  
+Seattle, WA 98109 
