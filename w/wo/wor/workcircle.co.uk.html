@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the workcircle.co.uk privacy policy that was archived on 2016-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160607065333id_/http%3A//www.workcircle.co.uk/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the workcircle.co.uk privacy policy that was archived on 2016-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161204035949id_/http%3A//www.workcircle.co.uk/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://a9.com/-/spec/opensearch/1.1/">
 <!-- TradeDoubler site verification 1253612 -->
@@ -9,14 +9,13 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="verify-v1" content="fCnyNeYV39I8Nnit4whpq7SzOvoxmycKxVrTKR2ItXg=">
 
-
 <meta name="viewport" content="width=device-width">
 
 
 
 
 <link title="Workcircle Job Search" rel="search" type="application/opensearchdescription+xml" href="http://www.workcircle.co.uk/opensearch.xml">
-<link rel="stylesheet" type="text/css" href="/style.2014101401.css">
+<link rel="stylesheet" type="text/css" href="/style.2015052301.css">
 <link rel="canonical" href="/jobs/">
 
 <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
@@ -24,7 +23,7 @@ window.google_analytics_uacct = "UA-284929-13";
 
 </script>
 
-<script type="text/javascript" src="/javascript/javascript.201503132.js"></script>
+<script type="text/javascript" src="/javascript/javascript.2016101410.js"></script>
 <script type="text/javascript" src="/javascript/jquery.js"></script>
 <script type="text/javascript" src="/javascript/jquery.simplemodal.js"></script>
 <!-- <script type="text/javascript" src="/javascript/jquery.easyModal.js"></script> -->
@@ -48,7 +47,7 @@ function sticky_relocate() {
 
 $(function() {
 	if ( $(window).width() <= 479 ) {
-		go_adverts( 'GB', 2, '', '', '174.129.237.157');
+		go_adverts( 'GB', 2, '', '', '52.86.176.3');
 	}
 
 	//  $(window).scroll(sticky_relocate);
@@ -93,7 +92,7 @@ $(window).smartresize(function(){
 
 	$('#emailinjobs').width( $('#main').width() );
 	if ( window_width <= 479 ) {
-		go_adverts( 'GB', 2, '', '', '174.129.237.157');
+		go_adverts( 'GB', 2, '', '', '52.86.176.3');
 	}
 });
 </script>
@@ -125,7 +124,7 @@ _gaq.push(['_trackPageview']);
   } 
 </script>
 
-<script>(function(a){var d=document,c=d.createElement("script");c.async=!0,c.defer=!0,c.src=a,d.getElementsByTagName("head")[0].appendChild(c)})((iatDev=(window.location.href.indexOf("iatDev=1")>-1||document.cookie.indexOf("iatDev=1")>-1),"//"+(window.location.protocol=="http:"&&!iatDev?"":"s")+"data.captifymedia.com/248720.js?r="+Math.random()*1e16+"&m=1112&a=248720"+(iatDev?"&d=1":"")))</script><script async="" defer="" src="//sdata.captifymedia.com/248720.js?r=8408910126347400&amp;m=1112&amp;a=248720"></script>
+
 
 </head><body onload="">
 
@@ -268,7 +267,7 @@ Myjobmatcher does all the searching and matches you to the best jobs every day!
 <a rel="nofollow" href="http://ad.workcircle.com/adclick.php?bannerid=135&amp;zoneid=48&amp;source=&amp;dest=http%3A%2F%2Fwww.cv-library.co.uk%2Faff%2F100109&amp;ismap="><b>Click here to upload your CV</b><br>
 <br>
 <img width="140" src="http://www.cv-library.co.uk/downloads/cvl_blue_logo.jpg" style="float:right">
-and get it in front of over 6,000 top recruiters!</a>
+and get it in front of over 10,000 top recruiters!</a>
 <br>
 </div>
 
@@ -422,12 +421,14 @@ if( window_width > 959 ) {
 		$('#top_ad_unit_spacer').hide();
 		$('#mid_ad_unit_spacer').hide();
 	}
-} else if ( window_width < 479 ) {
-	//new google.ads.search.Ads(pageOptions, midblock, botblock, rhsblock, topblock);
-	new google.ads.search.Ads(pageOptions, midblock, botblock, topblock);
-	$('#top_ad_unit').hide();
-	$('#top_ad_unit_spacer').hide();
-		$('#mid_ad_unit_spacer').show();
+
+// zzzmobile - let's stop hiding the adverts on small screens
+//} else if ( window_width < 479 ) {
+//	//new google.ads.search.Ads(pageOptions, midblock, botblock, rhsblock, topblock);
+//	new google.ads.search.Ads(pageOptions, midblock, botblock, topblock);
+//	$('#top_ad_unit').hide();
+//	$('#top_ad_unit_spacer').hide();
+//		$('#mid_ad_unit_spacer').show();
 } else {
 	//new google.ads.search.Ads(pageOptions, topblock, midblock, botblock, rhsblock);
 	new google.ads.search.Ads(pageOptions, topblock, midblock, botblock);
@@ -505,13 +506,19 @@ phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substr
 
 
 
-//go_indeed( 0, 'GB', 2, '', '', '', '174.129.237.157');
-//go_adverts( 'GB', 2, '', '', '', '174.129.237.157');
+//go_indeed( 0, 'GB', 2, '', '', '', '52.86.176.3');
+//go_adverts( 'GB', 2, '', '', '', '52.86.176.3');
+
+go_topbox( 'GB', '2931667', '', '', '', 'http://rcrtx-logos.s3.amazonaws.com/deliveroo-logo.png', 1);
+go_topbox( 'GB', '2931671', '', '', '', 'http://3glj2021ko2b3puh6943xw7d.wpengine.netdna-cdn.com/wp-content/uploads/job-manager-uploads/company_logo/2016/04/talented-teacher-jobs-mind-map-2602.png', 1);
 
 
 
-go_adsense( 0, 'GB', 2, '', '', '', '174.129.237.157');
 
+go_adsense( 0, 'GB', 2, '', '', '', '52.86.176.3');
+
+
+go_totaljobs();
 </script>
 
 
