@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runningwarehouse.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623013301id_/http%3A//www.runningwarehouse.com/CustService/paymentinfo.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runningwarehouse.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204221402id_/http%3A//www.runningwarehouse.com/CustService/paymentinfo.html) for the most accurate reproduction.*
 
 # Payment Information
 
