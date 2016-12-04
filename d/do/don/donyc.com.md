@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donyc.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630101713id_/http%3A//donyc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donyc.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204062919id_/http%3A//donyc.com/privacy) for the most accurate reproduction.*
 
 # doNYC | What to do in New York City
 
