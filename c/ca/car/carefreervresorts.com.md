@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the carefreervresorts.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419033024id_/http%3A//www.carefreervresorts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carefreervresorts.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204055144id_/http%3A//www.carefreecommunities.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
-Thank you for visiting Carefree RV Resorts' website. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used on this website.
+Thank you for visiting the Sun Communities website. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used on this website.
 
 ## The Information We Collect
 
@@ -22,9 +22,9 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 
 If you prefer not to receive traditional mail or other off-line promotions from us, please contact us via email or the phone numbers listed below.
 
-Carefree RV Resorts may on occasion combine information we receive online with outside records to enhance our ability to market to you those products that may be of interest to you. If you prefer not to receive online marketing information from this website, please contact us via the email or phone number provided below.
+Sun Communities may on occasion combine information we receive online with outside records to enhance our ability to market to you those products that may be of interest to you. If you prefer not to receive online marketing information from this website, please contact us via the email or phone number provided below.
 
-Finally, Carefree RV Resorts will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
+Finally, Sun Communities will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
 ### Collection of Information by Third-Party Sites and Sponsors
 
@@ -42,9 +42,9 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 ## How to Contact Us
 
-If you have any questions or concerns about Carefree RV Resorts' online policy for this site, please contact us at the following address:
+If you have any questions or concerns about Sun Communities' online policy for this site, please contact us at the following address:
 
-Carefree RV Resorts  
+Sun Communities  
 6991 E. Camelback Road  
 Suite B-310  
 Scottsdale, AZ 85251  
@@ -54,18 +54,18 @@ Phone: (480) 423-5700
 
 ##### For general information, contact us below at:
 
-**Carefree RV Resorts Corporate Office**  
- _6991 E. Camelback Road_  
- _Suite B-310_  
- _Scottsdale, AZ 85251_
+**Sun Communities, Inc. Corporate Office**  
+ _27777 Franklin Road,_  
+ _Suite 200_  
+ _Southfield, MI 48034_
 
 ##### For corporate inquiries:
 
-Email: [info@carefreervresorts.com](mailto:info@carefreervresorts.com)  
-Phone: (480) 423-5700
+Email: [communityinfo@suncommunities.com](mailto:communityinfo@suncommunities.com)  
+Phone: (248) 208-2500
 
 ##### For customer support:
 
-Phone: (480) 361-7964
+Phone: (855) 422-4558
 
 For more information on specific parks, please visit our [RV Resorts](http://www.carefreecommunities.com/rv-parks/) page.
