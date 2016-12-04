@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coned.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531051326id_/http%3A//www.coned.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coned.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204030429id_/http%3A//coned.com/privacy) for the most accurate reproduction.*
 
 # Con Edison: privacy - Con Edison Privacy Statement
 
@@ -60,7 +60,7 @@ Con Edison's energy delivery and customer service systems are part of the critic
 
 We give you choices regarding our use and disclosure of your Customer Information to other third parties for their direct marketing purposes (except in circumstances required by law, regulation or order). If you would prefer that we do not share your Customer Information on a going-forward basis with other third parties for their direct marketing purposes, you may opt-out of this sharing by:
 
-  * [unsubscribing](https://web.archive.org/web/20160531051326id_/http%3A//www.coned.com/opt-out.asp) from the list of customer information we would share with other third parties
+  * [unsubscribing](https://web.archive.org/web/20161204030429id_/http://www.coned.com/privacy/opt-out.asp) from the list of customer information we would share with other third parties
   * unsubscribing directly from the emails sent to you by other third parties, or
   * contacting our Call Center at 718-802-6079
 
