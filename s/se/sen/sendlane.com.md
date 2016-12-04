@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sendlane.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530131241id_/https%3A//sendlane.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendlane.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204084554id_/https%3A//sendlane.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy - Sendlane
 
-* Thank you for using Sendlane´s products and services! We wrote this policy to help you understand what information we collect, how we use it, and what choices you have. When using any of our services or products, you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this privacy policy. 
+* Thank you for using Sendlane´s products and services! We wrote this policy to help you understand what information we collect, how we use it, and what choices you have.When using any of our services or products, you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this privacy policy and Sendlane´s Terms of Service. 
 
 ## 1\. What information do we collect?
 
@@ -10,7 +10,7 @@
 
 ### a. When you give it to us or give us permission to obtain it.
 
-When you sign up for or use our products, you voluntarily provide certain information about yourself. This can include your name, profile photo, email address, location, taste and lifestyle preferences, and product category preferences; and any other information that you provide.
+When you sign up for or use our products, you voluntarily provide certain information about yourself. This can include your name, profile photo, email address, location, taste and lifestyle preferences, and product category preferences; and any other information that you provide including but not limited to contact information, payment information, business information and the like.
 
 You also may give us permission to access your information via other services. For example, if you register for or log into the site via Facebook, you will be explicitly asked to approve Facebook sharing selected information - including basic information from your public profile (such as your name, gender, and locale), your email address, your friend list, and your Facebook likes - with Sendlane. If and when we add the ability to log in via other services, analogous information sharing may occur. The information we obtain from those services often depends on your settings or their privacy policies, so be sure to check what those are.
 
@@ -45,7 +45,7 @@ We use the information we collect to provide our products and services to you an
 
   * To send you updates, notifications, newsletters, marketing materials and other information that may be of interest to you.
   * To respond to your questions or comments.
-  * Credit information for purposes of purchasing Sendlane products and services shall only be used to process applicable payments and collect amounts that you owe.
+  * Credit information for purposes of purchasing Sendlane products and services shall only be used to process applicable payments and collect amounts that you owe whether on a one-time or periodic basis.
 
 
 
@@ -110,3 +110,5 @@ If you have any comments or questions regarding this Privacy Policy, or if you b
 Targetly LLC DBA Sendlane.com
 
 [support@sendlane.com](https://sendlane.desk.com/)
+
+Privacy Policy updated as of May 17, 2016
