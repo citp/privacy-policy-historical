@@ -1,7 +1,17 @@
-> *The following text is extracted and transformed from the drscholls.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606205339id_/http%3A//www.bayercare.com/privacy_statement.cfm%3Fmobile%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drscholls.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204090910id_/http%3A//www.bayercare.com/privacy_statement.cfm) for the most accurate reproduction.*
 
 # Bayer Consumer Care Products
 
+  |  | 
+
+## Privacy Statement
+
+| 
+
+[](https://web.archive.org/privacy_statement.cfm?print=1)  
+  
+---|---  
+  
 Bayer is aware that the security of your private information from the use of our website is an important concern. We take the protection of your personal data very seriously. Therefore we would like you to know what data we maintain and what data we discard. With this privacy statement, we would like to inform you about our security measures.
 
 ## Collection of Data
@@ -135,6 +145,6 @@ Bayer Business & Technology Services LLC
 U.S. Data Privacy Officer  
 100 Bayer Road  
 Pittsburgh, PA 15205  
-[E-Mail](https://web.archive.org/web/20160606205339id_/http%3A//www.bayercare.com/contactdataprotectionoffice.cfm)
+[E-Mail](https://web.archive.org/web/20161204090910id_/http%3A//www.bayercare.com/contactdataprotectionoffice.cfm)
 
 The constant development of the internet requires occasional adjustments to our privacy statement. We retain the right to make changes when necessary. 
