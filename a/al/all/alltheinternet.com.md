@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alltheinternet.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502070301id_/http%3A//www.alltheinternet.com/texis/open/allthru%3Farea%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltheinternet.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204154511id_/http%3A//www.alltheinternet.com/texis/open/allthru%3Farea%3Dprivacy) for the most accurate reproduction.*
 
-# All the Internet - Privacy Statement
+# Our privacy statement.
 
 We at All the Internet take your privacy seriously. Please read the following to learn more about our privacy policy.
 
