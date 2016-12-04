@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yesmovies.to privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525165521id_/http%3A//yesmovies.to/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesmovies.to privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204022801id_/http%3A//yesmovies.to/terms.html) for the most accurate reproduction.*
 
-# YesMovies.to - Watch HD movies online for free
+# Yesmovies - Watch FREE Movies Online & TV shows
 
 ## Terms and Conditions
 
@@ -116,6 +116,6 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us via the page below:
 
-[http://www.YesMovies.to/contact](https://web.archive.org/web/20160525165521id_/http%3A//yesmovies.to/contact.html)
+[http://www.YesMovies.to/contact](https://web.archive.org/web/20161204022801id_/http%3A//yesmovies.to/contact.html)
 
 This document was last updated on February 22, 2015
