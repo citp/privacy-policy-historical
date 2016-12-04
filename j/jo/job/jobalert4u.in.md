@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jobalert4u.in privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401220936id_/http%3A//www.jobalert4u.in/p/privacy-policy-if-you-require-any-more.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobalert4u.in privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204032008id_/http%3A//www.jobalert4u.in/p/privacy-policy-if-you-require-any-more.html) for the most accurate reproduction.*
 
 # |jobalert4u.in
+
+[ ](https://www.blogger.com/rearrange?blogID=8879670165182403231&widgetType=Text&widgetId=Text1&action=editWidget&sectionId=main "Edit")
 
 **_Privacy Policy_**
 
