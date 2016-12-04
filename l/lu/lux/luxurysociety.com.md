@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the luxurysociety.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628144006id_/http%3A//luxurysociety.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxurysociety.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204020054id_/http%3A//www.luxurysociety.com/privacy-policy) for the most accurate reproduction.*
 
-# Luxury Society - Privacy Policy
+# Luxury Society
+
+#### Privacy Policy
 
 This Website is edited and hosted by Digital Luxury Group, DLG SA, a Swiss Company incorporated under n° CHE-101.525.197 in Geneva.
 
-As LUXURY SOCIETY is a community that is all about trust we feel it is important to share our privacy policy with you. If you have any questions about this policy we can be reached by email at [privacy@luxurysociety.com](mailto:privacy@luxurysociety.com) or alternatively you can contact us at: LUXURY SOCIETY - Privacy Policy, Digital Luxury Group, DLG SA at 7 avenue Krieg, 1208 Geneva, Switzerland.
+As LUXURY SOCIETY is a community that is all about trust we feel it is important to share our privacy policy with you. If you have any questions about this policy we can be reached by email at [privacy@luxurysociety.com](mailto:privacy@luxurysociety.com) or alternatively you can contact us at: LUXURY SOCIETY - Privacy Policy, Digital Luxury Group, DLG SA at 7 avenue Krieg, 1208 Geneva, Switzerland.
 
 The Luxury Society Site contains links to other Web sites over which we have no control. We are not responsible for the privacy policies or practices of other Web sites to which you choose to link from our Sites. We encourage you to review the privacy policies of those other Web sites so you can understand how they collect, use and share your information.
 
@@ -16,7 +18,7 @@ When you enter LUXURY SOCIETY website we collect website use information as you 
 
 If you choose to use our invitation service to tell a contact about our site, we will ask you for information needed to send the invitation, such as your contact's email address. LUXURY SOCIETY stores the email addresses that Members provide so that we automatically send your contact an email or instant message and up to three reminders inviting him or her to visit the site. Recipients of invitations from LUXURY SOCIETY may contact LUXURY SOCIETY to request the removal of their information from our database.
 
-Members may also store email addresses of people they know in their internal LUXURY SOCIETY address book and may also choose to send invitations and other communications to those addresses. You may prevent LUXURY SOCIETY email invitations and other messages from being sent to any email address you control by sending a single email with the subject "BLOCK" to [privacy@luxurysociety.com](mailto:privacy@luxurysociety.com) Please note that the email must come from the account you wish to block.
+Members may also store email addresses of people they know in their internal LUXURY SOCIETY address book and may also choose to send invitations and other communications to those addresses. You may prevent LUXURY SOCIETY email invitations and other messages from being sent to any email address you control by sending a single email with the subject "BLOCK" to [privacy@luxurysociety.com](mailto:privacy@luxurysociety.com) Please note that the email must come from the account you wish to block.
 
 **Sharing Information with Third Parties**
 
@@ -30,10 +32,10 @@ We use the information we gather on Luxury Society to customize your experience 
 
 Luxury Society may use your email to communicate with you and notify you of new services, professional happenings such as events and other special offers from our partners. Luxury Society may also send you service-related announcements from time to time through the general operation of the Luxury Society Services.
 
-In addition, you may receive free informational newsletters from us relating to topics that may be of special interest to you.   
+In addition, you may receive free informational newsletters from us relating to topics that may be of special interest to you.   
 Members who no longer wish to receive updates, notifications or newsletters may choose not to by selecting 'Do not send me notification emails' in the Member profile 'Privacy Settings'. All notification emails and LUXURY SOCIETY newsletters also include the above instructions for opting-out of those communications in the future.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by emailing us [privacy@luxurysociety.com](mailto:privacy@luxurysociety.com)
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by emailing us [privacy@luxurysociety.com](mailto:privacy@luxurysociety.com)
 
 Please provide us with your exact name and address if you write to us. We will be sure your name is removed.
 
@@ -49,7 +51,7 @@ If you have a Luxury Society Member profile, other Members of Luxury Society may
 
 **Posting to Public Areas of Luxury Society**
 
-You post Content (as defined in the Luxury Society's Terms and Conditions) on the Site at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable.   
+You post Content (as defined in the Luxury Society's Terms and Conditions) on the Site at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable.   
 We have implemented commercially reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes.
 
 We cannot control the actions of other Members with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that Content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of Content may remain viewable in cached and archived pages or if other Users have copied or stored your Content.
@@ -66,10 +68,10 @@ We use cookies to improve the quality of our service by storing Member preferenc
 
 **Log files**
 
-Each time you access a page or a file from the Luxury Society website, Luxury Society will save the following data in a Log file:   
-\- Your IP address (by which your computer can be clearly identified),   
-\- The name and IP address of the computer requesting the respective page from the Luxury Society website,   
-\- The time, status, and amount of the transferred data, as well as the Internet website from which you have reached the requested page of the Luxury Society website   
+Each time you access a page or a file from the Luxury Society website, Luxury Society will save the following data in a Log file:   
+\- Your IP address (by which your computer can be clearly identified),   
+\- The name and IP address of the computer requesting the respective page from the Luxury Society website,   
+\- The time, status, and amount of the transferred data, as well as the Internet website from which you have reached the requested page of the Luxury Society website   
 \- The product and release information from your Internet browser.
 
 This Log file will be stored securely on the website using industry best practice methods for safeguarding information and server functions.
@@ -92,4 +94,4 @@ The Luxury Society website is not intended for children under 18 years of age. W
 
 If we decide to materially change our Privacy Policy for Luxury Society and Luxury Society Networking, we will post those changes through a prominent notice on the web site so that you will always know what information we gather, how we might use that information, and to whom we will disclose it.
 
-This policy became effective December, 2008, as updated on April 1st, 2014. 
+This policy became effective December, 2008, as updated on April 1st, 2014.
