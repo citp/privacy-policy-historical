@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecleverbaggers.co.uk privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428234858id_/https%3A//thecleverbaggers.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecleverbaggers.co.uk privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204204235id_/https%3A//thecleverbaggers.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Clever Baggers
 
