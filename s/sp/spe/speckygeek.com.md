@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the speckygeek.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629201729id_/http%3A//www.speckygeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speckygeek.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204184410id_/http%3A//www.speckygeek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Specky Geek
+
+[Specky Geek](http://www.speckygeek.com/)
+
+How to Start a Blog & Make Money Online, Ethically
 
 [Home](http://www.speckygeek.com/) / Privacy Policy
 
