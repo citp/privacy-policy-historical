@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the royalroads.ca privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625071955id_/http%3A//policies.royalroads.ca/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalroads.ca privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204012411id_/http%3A//policies.royalroads.ca/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Policies & Procedures
+
+## Royal Roads University Policy
+
+First implemented: 
+
+January 1, 2015
+
+Office of Oversight: 
+
+Privacy Officer
 
 Royal Roads University captures identification data from visitors to our website only for security, statistical and reporting purposes.
 
@@ -17,3 +27,8 @@ Royal Roads University
 2005 Sooke Road  
 Victoria, B.C. V9B 5Y2  
 Phone: 250-391-2600 ext.4178
+
+  * [Printer-friendly version](https://web.archive.org/print/1555 "Display a printer-friendly version of this page.")
+  * [PDF version](https://web.archive.org/printpdf/1555 "Display a PDF version of this page.")
+
+
