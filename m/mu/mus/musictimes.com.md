@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musictimes.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429184934id_/http%3A//www.musictimes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musictimes.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204040859id_/http%3A//www.musictimes.com/privacypolicy) for the most accurate reproduction.*
 
 # Music Times
 
@@ -204,10 +204,38 @@ You are solely responsible for maintaining the strict confidentiality of your Us
 
 Further, if you use any of the Communities features and functions made available on or through the Site, please remember that any Information disclosed in these venues is automatically made public and please use caution when disclosing any Personal Information in the Communities, as you do not know who will access and use your Personal Information or for what purposes. MusicTimes is in no way responsible for the accuracy, use, or misuse of any information, including Personal Information, that you disclose or receive through these venues and you should assume that any disclosure you do make in these venues will be available publicly, even without your knowledge or authorization.
 
-**b. Questions.** If you have questions about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information or Other Information, you may contact us directly by sending an email to privacy-admin@musictimes.com or please contact our Privacy Administrator at MusicTimes, 33 Whitehall St., 7th Floor, New York, New York 10004, c/o Privacy Administrator.
+**b. Questions.** If you have questions about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information or Other Information, you may contact us directly by sending an email to privacy-admin@musictimes.com or please contact our Privacy Administrator at MusicTimes, 305 Broadway Fl 7, New York, NY 10007, c/o Privacy Administrator.
 
 **c. Sole Statement:** This document is the sole statement of the Site's Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, but not limited to, machine-generated, is valid.
 
 **d. Other:** Please review our Terms of Use Agreement which governs your use of the Site. Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement.
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.
+
+  * [](https://web.archive.org/articles/74603/20161130/primavera-sound-2017-lineup-frank-ocean-arcade-fire-bon-iver-aphex-twin-headline.htm)
+
+### [Primavera Sound 2017 Lineup: Frank Ocean, Arcade Fire, Bon Iver, Aphex Twin Headline](https://web.archive.org/articles/74603/20161130/primavera-sound-2017-lineup-frank-ocean-arcade-fire-bon-iver-aphex-twin-headline.htm)
+
+  * [](https://web.archive.org/articles/74602/20161130/7-artists-headline-2017-festival-circuit-frank-ocean-arcade-fire.htm)
+
+### [7 Artists Who Should Headline 2017 Festival Circuit: Frank Ocean, Arcade Fire & More](https://web.archive.org/articles/74602/20161130/7-artists-headline-2017-festival-circuit-frank-ocean-arcade-fire.htm)
+
+  * [](https://web.archive.org/articles/74585/20161129/hangout-festival-2017-lineup-frank-ocean-chance-the-rapper-twenty-one-pilots-headline.htm)
+
+### [Hangout Festival 2017 Lineup: Frank Ocean, Chance The Rapper, Twenty One Pilots Headline](https://web.archive.org/articles/74585/20161129/hangout-festival-2017-lineup-frank-ocean-chance-the-rapper-twenty-one-pilots-headline.htm)
+
+  * [](https://web.archive.org/articles/74575/20161129/frank-ocean-headline-lovebox-northside-festivals.htm)
+
+### [Frank Ocean To Headline Lovebox, Northside Festivals, Announcing First Shows In 3 Years](https://web.archive.org/articles/74575/20161129/frank-ocean-headline-lovebox-northside-festivals.htm)
+
+  * [](https://web.archive.org/articles/74521/20161122/diplo-marshmello-young-thug-life-in-color-10-year-anniversary-miami-festival.htm)
+
+### [Diplo, Marshmello, Young Thug Headline Life In Color 10-Year Anniversary Miami Festival](https://web.archive.org/articles/74521/20161122/diplo-marshmello-young-thug-life-in-color-10-year-anniversary-miami-festival.htm)
+
+
+
+
+[](https://web.archive.org/contest)
+
+[Music Times Network is always looking for well-versed, enthusiastic contributors and interns.  
+Submit your application today!](https://web.archive.org/application/)
