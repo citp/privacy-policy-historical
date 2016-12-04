@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the spaceotechnologies.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513144735id_/http%3A//www.spaceotechnologies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spaceotechnologies.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204021032id_/https%3A//www.spaceotechnologies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At **Space-O Technologies** , we advocate transparency and lucidity; and therefore we want to give you a clear overview of how we treat your information that we receive from you via Internet. 
+##  At **Space-O Technologies** , we advocate transparency and lucidity; and therefore we want to give you a clear overview of how we treat your information that we receive from you via Internet.  
+
 
 When you visit our site, our web servers collect and track your IP address that we later use only to analyse the usage of our website by visitors so that we can better their experience by constantly improving the quality of content on our site. We do not use IP addresses, cookies or other information that we have access to (the number of visits, average time spent, pages viewed, etc.), to trace your personal identification. Hence a user ID remains unknown or anonymus to us in this scenario with only user session being monitored. 
 
