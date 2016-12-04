@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the singaporemotherhood.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405064902id_/http%3A//singaporemotherhood.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singaporemotherhood.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204145336id_/http%3A//singaporemotherhood.com/privacy) for the most accurate reproduction.*
 
-# SingaporeMotherhood: A Parenting Directory for the Singapore Parents
+# Privacy Policy – SingaporeMotherhood.com
 
-This Privacy Policy governs the manner in which Tian Dot Com Pte Ltd collects, uses, maintains and discloses information collected from users (each, a "User") of the singaporemotherhood.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Tian Dot Com Pte Ltd.
+This Privacy Policy governs the manner in which Tian Dot Com Pte Ltd collects, uses, maintains and discloses information collected from users (each, a “User”) of the singaporemotherhood.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Tian Dot Com Pte Ltd.
 
 **Personal identification information**
 
@@ -14,7 +14,7 @@ We may collect non-personal identification information about Users whenever they
 
 **Web browser cookies**
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 **How we use collected information**
 
@@ -27,7 +27,7 @@ _To personalize user experience_
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
 _To improve our Site_  
-We may use feedback you provide to improve our products and services. 
+We may use feedback you provide to improve our products and services.
 
 _To process payments_  
 We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
@@ -50,7 +50,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 **Third party websites**
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
 **Advertising**
 
