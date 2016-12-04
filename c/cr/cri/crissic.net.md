@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crissic.net privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401163002id_/http%3A//www.crissic.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crissic.net privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204233130id_/http%3A//crissic.net/privacy-policy) for the most accurate reproduction.*
 
 # Crissic - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **The Information We Collect**
 
-This notice applies to all information collected or submitted on the Crissic Solutions, LLC website. On some pages, you can order services and make requests. The types of personal information collected at these pages are:   
+This notice applies to all information collected or submitted on the Crissic Solutions website. On some pages, you can order services and make requests. The types of personal information collected at these pages are:   
 Name  
 Address  
 Email address  
@@ -26,7 +26,7 @@ Finally, we never use or share the personally identifiable information provided 
 
 **Our Commitment To Data Security**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Crissic Solutions, LLC does not store financial information or details of any off-line transactions. 
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Crissic Solutions does not store financial information or details of any off-line transactions. 
 
 **Our Commitment To Children's Privacy**
 
