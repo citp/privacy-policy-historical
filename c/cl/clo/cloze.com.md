@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cloze.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328105820id_/https%3A//www.cloze.com/app/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloze.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204225632id_/https%3A//www.cloze.com/app/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | Cloze
 
-_Last Updated: January 27, 2014_
+_Last Updated: June 10, 2016_
 
 This Privacy Policy sets forth Cloze, Inc.'s ("Cloze", "we", "us" or "our") privacy practices and procedures in connection with Cloze's websites located at cloze.com, circulate.it and all related sub-domains, tools and services ("Website", "Websites", "Site" or "Sites"). Access to the Websites is provided pursuant to the Terms of Service accessible on our Websites.  Capitalized terms used but not defined in this Privacy Policy, shall have the meaning set forth in the Terms of Service. This Privacy Policy applies solely to information collected by or in connection with this Site.  This policy does not apply to the practices of companies that Cloze does not administer, or to individuals that Cloze does not employ. 
 
@@ -52,7 +52,7 @@ By email to privacy@cloze.com.
 
 **The Cloze Services**
 
-The Websites and the Cloze Mobile Apps, and all services provided by Cloze via the Websites and/or Mobile Apps, now and as they become available (collectively, the "Services").  As part of the Services, Cloze organizes and provides efficient means to access and receive updates regarding your contacts that may have been previously dispersed over many different Third Party Platforms.  "Third Party Platforms" are social networking and email services such as Facebook, LinkedIn, Google, Twitter and other similar platforms, from which you authorize us to import your contacts and email.  Cloze's Services enable you to access, organize and receive updates about those with whom you have professional relationships, including publicly available information about your professional contacts. After your Cloze account has been setup, you may use the Services to receive updates automatically each time new information is discovered about your contacts' data from a Third Party Platform or by another Cloze user with whom you've shared contacts. 
+The Websites and the Cloze Mobile Apps, and all services provided by Cloze via the Websites and/or Mobile Apps, now and as they become available (collectively, the "Services").  As part of the Services, Cloze organizes and provides efficient means to access and receive updates regarding your contacts that may have been previously dispersed over many different Third Party Platforms.  "Third Party Platforms" are social networking, messaging, file storage, phone services, note taking, calendar and email services such as Facebook, LinkedIn, Google, Twitter, Slack, Dropbox, Microsoft Office 365, RingCentral, Evernote and other similar platforms, from which you authorize us to import, search, and access your contacts, messages, files, call records, notes, meetings, email and other similar communication records and documents.   Cloze's Services enable you to access, organize and receive updates about those with whom you have professional relationships, including publicly available information about your professional contacts. After your Cloze account has been setup, you may use the Services to receive updates automatically each time new information is discovered about your contacts' data from a Third Party Platform or by another Cloze user with whom you've shared contacts. 
 
 **What Is Personal Information?**
 
@@ -71,6 +71,8 @@ For instance, when you add a user as a Cloze Connection you will be able to view
 **Your data that remains Private Data even if you've chosen to share contact records from your Cloze Account is comprised of** : 
 
 ●      Contents of your imported email archives including, without limitation, subject, body and attachments;
+
+●      Contents of your messages, files, meetings, to dos and notes imported from Third Party Platforms, uploaded to Cloze, or created in Cloze;
 
 ●      Contact record notes;
 
