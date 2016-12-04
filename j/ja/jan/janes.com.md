@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the janes.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526203811id_/http%3A//www.janes.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janes.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204093743id_/http%3A//www.janes.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | IHS Jane's 360
 
@@ -55,7 +55,7 @@ In certain circumstances, we may permit selected third parties to use your data 
 
   * We provide aggregate information about our users in summary reports to our advertisers. The type of information included in a summary report is "3,000 people looked for part number 123 this week, and of those people 60% clicked through to a certain webpage." This aggregated information is anonymous and does not disclose to the content providers, advertisers, prospective advertisers, and partners any profile information about the individual users who saw or clicked on their reports. Employees of IHS use this aggregated information to understand usage behaviors in their efforts to create a better user experience or to optimize page designs. 
   * If you do not want use to use your data in this way, or to pass your details to third parties for marketing purposes, please modify your user information by visiting Our Website and clicking on the Manage My Account link located in the upper-right of each page of the site. 
-  * You may have your personal information removed from the system by contacting our user experience team at [webmaster@globalspec.com](mailto:webmaster@globalspec.com?subject=Remove%20personal%20information) . 
+  * You may have your personal information removed from the system by contacting our user experience team at [webmaster@ihsmarkit.com](mailto:webmaster@ihsmarkit.com?subject=Remove%20personal%20information) . 
 
 
 
@@ -69,7 +69,7 @@ Note: If you choose not to provide certain profile information when registering 
 
 #### Access and Updating of Information
 
-The instructions to review, amend, or delete your information may be found in the edit profile area on any of Our Websites. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us by sending an email to: [webmaster@globalspec.com](mailto:webmaster@globalspec.com?subject=Question%20about%20profile). 
+The instructions to review, amend, or delete your information may be found in the edit profile area on any of Our Websites. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us by sending an email to: [webmaster@ihsmarkit.com](mailto:webmaster@ihsmarkit.com?subject=Question%20about%20profile). 
 
 ###  General 
 
