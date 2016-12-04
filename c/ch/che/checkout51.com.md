@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkout51.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324140859id_/https%3A//www.checkout51.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkout51.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204074951id_/https%3A//www.checkout51.com/privacy) for the most accurate reproduction.*
 
 # Checkout 51 - Privacy Policy
 
@@ -11,8 +11,8 @@ This Privacy Policy applies to Checkout 51, wherever Checkout 51 exists, whether
 If you have any questions about this Privacy Policy or our collection, use and communication of your Personal Data, please submit a [support request](http://support.checkout51.com/anonymous_requests/new) or contact us at: 
 
 Checkout 51 Inc.  
-411 Richmond Street East, Suite 101  
-Toronto, ON, M5A 3S5, Canada
+366 Adelaide Street East, Unit 501  
+Toronto, ON, M5A 3X9, Canada
 
 ## What personal data does Checkout 51 collect?
 
