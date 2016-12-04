@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamworld876.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616121723id_/http%3A//www.jamworld876.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamworld876.net privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205005131id_/http%3A//www.jamworld876.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Jamworld876
 
