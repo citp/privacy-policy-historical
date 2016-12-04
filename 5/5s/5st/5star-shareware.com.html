@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 5star-shareware.com privacy policy that was archived on 2016-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160615223817id_/http%3A//www.5star-shareware.com/docs/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 5star-shareware.com privacy policy that was archived on 2016-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161204191832id_/http%3A//www.5star-shareware.com/docs/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy policy | 5 Star Shareware</title>
@@ -20,7 +20,7 @@
 <td align="center" id="banner">
 <script type="text/javascript"><!--
 getBannerAd("Windows")
-//--></script><a href="/Windows/Games/Platform/turtle_odyssey.html"><img src="/images/ads/odyssey-turtle.gif" border="0" width="468" height="60" alt="Turtle Odyssey"></a>
+//--></script><a href="/Windows/Utilities/Video-Editors-Utilities/wm-recorder.html"><img src="/images/ads/wmrecorder.gif" border="0" width="468" height="60" alt="WM Recorder"></a>
 </td>
 <td align="right"></td>
 </tr>
@@ -117,7 +117,7 @@ google_ad_height = 125;
 
 </tr>
 </tbody></table>
-<div id="footer"><ul><li><a href="/docs/terms.html">Terms of Use</a> | </li><li><a href="/docs/disclaimer.html">Disclaimer</a> | </li><li><a href="/docs/privacy.html">Privacy Policy</a> | </li><li><a href="/docs/about.html">About</a></li></ul><p>© 1997-2011 <a href="http://www.5star-shareware.com/">5 Star Shareware</a>. All Rights Reserved. All trademarks acknowledged.</p></div>
+<div id="footer"><ul><li><a href="/docs/terms.html">Terms of Use</a> | </li><li><a href="/docs/disclaimer.html">Disclaimer</a> | </li><li><a href="/docs/privacy.html">Privacy Policy</a> | </li><li><a href="/docs/about.html">About</a></li></ul><p>© 1997-2016 <a href="http://www.5star-shareware.com/">5 Star Shareware</a>. All Rights Reserved. All trademarks acknowledged.</p></div>
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
@@ -125,6 +125,33 @@ google_ad_height = 125;
 _uacct = "UA-689389-1";
 urchinTracker();
 </script>
+
+
+<script src="/site.js" type="text/javascript"></script>
+<script src="/scripts/jquery-3.1.1.min.js"></script>
+<script src="/scripts/featherlight-1.5.0.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="/scripts/js.cookie.js" type="text/javascript"></script>
+<script type="text/javascript">//<!--
+$(document).ready(function() {
+  if (newSite && Cookies.get('seenOldSiteWarning') !== 'seen') {
+    $('.close').click(function() {
+      $.featherlight.close();
+    });
+    setTimeout(function() {
+      $.featherlight($('#redirector'), { variant: 'ls', afterClose: function() {
+        Cookies.set('seenOldSiteWarning', 'seen', { expires: 1/96 }); // 15 minutes
+      }});
+    }, 1500);
+  }
+});
+//-->
+</script>
+<div class="lightbox" id="redirector">
+<h1>Attention!</h1>
+<p style="font-weight: bold">You are currently viewing an old and outdated version of the 5 Star website!</p>
+<p>Please click <a class="btn green" href="/">here</a> to view the new 5 Star website.</p>
+<p>Or <span class="btn grey close">here</span> to stay on the old one.</p>
+</div>
 
 
 
