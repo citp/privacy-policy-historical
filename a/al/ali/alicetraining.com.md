@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alicetraining.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524055741id_/http%3A//www.alicetraining.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alicetraining.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204220013id_/https%3A//www.alicetraining.com/home/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ALICE Training Institute
+# Privacy Policy | ALICE Training Institute
 
-### **We have updated our privacy policy as of November 1, 2015.**
+### **We have updated our privacy policy as of July 14, 2016.**
 
 ### This privacy policy describes how the ALICE Training Institute and its affiliates (collectively, “ATI” or “we”) collect, use and protect your personal information. When you submit personal information to us through our website, email, telephone or by U.S. Mail, you are consenting to the collection, use, transfer and disclosure of your personal information as described in this Privacy Policy. If you have questions about this policy please contact us through our website.
 
@@ -56,13 +56,11 @@ We have security measures in place at our physical facilities to protect against
 Please visit this Privacy Policy from time to time, as we reserve the right to periodically update it. When we change the Privacy Policy in a material way, a notice will be posted on our website along with the updated Privacy Policy. Your continued use of our website after a Privacy Policy update indicates your acceptance of the terms of the updated Privacy Policy.
 
 ### **Contact Us**  
-You can contact us by email, telephone or by U.S. Mail. When you contact us, please provide us with your contact information and a detailed description of your request or privacy concern. Please provide us with your exact name, address, telephone number, and email address at the time of your request.  
+You can contact us by email, telephone or fax. When you contact us, please provide us with your contact information and a detailed description of your request or privacy concern. Please provide us with your exact name, address, telephone number, and email address at the time of your request.  
 Contact Information:
 
 ### ALICE Training Institute  
-Attn: Privacy Compliance  
-3613 Reserve Commons Drive  
-Medina, OH 44256  
-Phone: 330-661-0106
+Phone: 330.661.0106  
+Fax 330.661.0111
 
-### Last Updated: November 1, 2015
+### Last Updated: July 14, 2016
