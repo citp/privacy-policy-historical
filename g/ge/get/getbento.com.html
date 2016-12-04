@@ -1,0 +1,386 @@
+<!--The following is the downloaded HTML source of the getbento.com privacy policy that was archived on 2016-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161204095834id_/http%3A//getbento.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+  <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" charset="utf-8" src="//v2.zopim.com/?4Jf1P5k2XqEHQActw0W0VKAJ1at4I9O2" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.gstatic.com/wcm/loader.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"e280d7b21d","agent":"","transactionName":"MlZWZUoAC0FUAk1eCwscckRWAhFbWg8WVhQVQBpcWQgLHFEEWlgWBEdbQ0tbFUBcF1hUHQ==","applicationID":"6971523","errorBeacon":"bam.nr-data.net","applicationTime":24}</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  
+  <meta property="og:image" content="http://getbento.com/static/bento_frontend/images/logo_facebook_thumbnail.858bab52e638.png" width="119" height="74">
+  
+
+  
+  <meta property="og:url" content="http://getbento.com">
+  
+
+  
+  <meta property="og:title" content="BentoBox | Restaurant Website Platform">
+  
+
+  
+  
+
+  
+  <meta name="description" content="BentoBox offers restaurants beautiful, mobile friendly websites that drive revenue and customers — complete with a simple, hospitality-focused management system, hosting and exceptional customer support.">
+  
+
+  
+  <title>BentoBox | Restaurant Website Platform</title>
+  <link rel="icon" type="image/png" href="/static/bento_frontend/img/favicon.1ed760aaa437.png">
+
+  <script src="https://use.typekit.net/lie2tkv.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+  
+    <link href="/static/bundled/style.aee57fe044bc.css" rel="stylesheet" type="text/css">
+  
+
+  
+<!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f)}})(document,window.mixpanel||[]);
+mixpanel.init("01824d25386430f5b03c398bd2d05d33");</script><!-- end Mixpanel -->
+
+
+  
+  
+
+</head>
+
+
+<body class="privacy">
+
+  
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '587945591387828');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=587945591387828&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+  
+<script type="text/javascript">
+  /* <![CDATA[ */
+  goog_snippet_vars = function() {
+    var w = window;
+    w.google_conversion_id = 948373912;
+    w.google_conversion_label = "co_BCPux7mcQmJOcxAM";
+    w.google_remarketing_only = false;
+  }
+  // DO NOT CHANGE THE CODE BELOW.
+  goog_report_conversion = function(url) {
+    goog_snippet_vars();
+    window.google_conversion_format = "3";
+    var opt = new Object();
+    opt.onload_callback = function() {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  }
+  var conv_handler = window['google_trackConversion'];
+  if (typeof(conv_handler) == 'function') {
+    conv_handler(opt);
+  }
+}
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js">
+</script>
+
+
+<!-- Google Code for Remarketing Tag -->
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 948373912;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/948373912/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<style>
+iframe[name='google_conversion_frame'] {
+    position: absolute;
+    bottom: 0;
+}
+</style>
+
+<!-- Google Code for Phone number tracking -->
+<script type="text/javascript">
+(function(a,e,c,f,g,h,b,d){var k={ak:"948373912",cl:"sHvBCOvuumkQmJOcxAM"};a[c]=a[c]||function(){(a[c].q=a[c].q||[]).push(arguments)};a[g]||(a[g]=k.ak);b=e.createElement(h);b.async=1;b.src="//www.gstatic.com/wcm/loader.js";d=e.getElementsByTagName(h)[0];d.parentNode.insertBefore(b,d);a[f]=function(b,d,e){a[c](2,b,k,d,null,new Date,e)};a[f]()})(window,document,"_googWcmImpl","_googWcmGet","_googWcmAk","script");
+
+  _googWcmGet('phoneNumber', '8773532447');
+  console.log('here');
+</script>
+
+
+  <div id="wrapper">
+    <header id="header">
+      
+      <div class="container">
+        <div class="header-holder">
+          <div class="logo">
+            <a href="/"><img src="/static/bento_frontend/images/logo.3e5144737d60.svg" alt="Bentobox"></a>
+          </div>
+          
+          <nav id="nav">
+            <a href="#" class="nav-opener"><span></span></a>
+            <div class="nav-drop">
+              <a href="#" class="nav-opener"><span></span></a>
+              <ul>
+                <li><a href="/features/">FEATURES</a></li>
+                <li><a href="/customers/">CUSTOMERS</a></li>
+                <li><a href="/company/">COMPANY</a></li>
+                <!-- <li><a href="#">BENTO EXPERTS</a></li> -->
+              </ul>
+              <a href="/signup/" class="btn btn-info">GET STARTED</a>
+              <ul class="social-networks">
+                <li><a target="_blank" href="https://twitter.com/bentoboxnyc" class="icon-twitter"></a></li>
+                <li><a target="_blank" href="https://instagram.com/getbento" class="icon-instagram"></a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/company/bentobox" class="icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/BentoBoxNYC" class="icon-facebook"></a></li>
+              </ul>
+            </div>
+          </nav>
+          
+        </div>
+      </div>
+      
+    </header>
+    <main id="main" role="main">
+    
+<div id="legal-intro" class="animated-box intro-block">
+  <div class="bg-stretch">
+  </div>
+  <div class="container">
+    <div class="full-height-block">
+      <div class="middle-block">
+        <div class="intro-text">
+          <h1>Privacy Policy</h1>
+          <nav>
+            <a href="/terms">Terms of Service</a> | <a href="/privacy" class="active">Privacy Policy</a>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="legal" class="animated-box post-block same-height-holder animated">
+    <div class="container">
+        <div class="row">
+          <h2>BentoBox Privacy Policy</h2>
+          <em>Last updated: August 29, 2016</em>
+
+          <p>We at BentoBox CMS, Inc. (“BentoBox,” “we,” “us,” or “our”) have created this privacy policy (this “Privacy Policy”) because we know that you care about how information you provide to us is used and shared.  This Privacy Policy relates to the information collection and use practices of BentoBox in connection with our Platform, which is made available to you through our Website, and the Restaurant Website(s), which are made available to you by the Restaurant.</p>
+
+          <p><strong>Description of Users and Acceptance of Terms</strong><br>
+          This Privacy Policy applies to visitors to the Website, who view only publicly-available content (the “Visitors”), customers who have signed up to access and use our Platform (the “Customers”), and restaurant guests who access and use the Restaurant Website (the “Restaurant Guests”).</p>
+
+          <p>By visiting our Website, Visitors are agreeing to the terms of this Privacy Policy and the accompanying Terms of Service. By signing up, accessing, and/or using the Platform, each Customer is agreeing to the terms of this Privacy Policy and the accompanying Terms of Service. By accessing and/or using the Restaurant Website, each Restaurant Guest is agreeing to the terms of this Privacy Policy and the accompanying Terms of Service.</p>
+
+          <p>Capitalized terms not defined in this Privacy Policy shall have the meaning set forth in our Terms of Service.</p>
+
+          <p><strong>The Information We Collect and/or Receive</strong><br>
+          In the course of operating the Website, the Platform, the Restaurant Website(s), and/or interacting with you, BentoBox will collect (and/or receive) the following types of information. You authorize us to collect and/or receive such information.</p>
+
+          <h4>1. Personal Information</h4>
+          <p>When you sign up to become a Customer, you will be required to provide us with personal information about yourself, such as your name, your business name, e-mail address and phone number. And, if you contact us via the Contact Us page, you will need to provide your name and contact information.</p>
+
+          <p>All information that we receive under this section is collectively called “Personal Information.”</p>
+
+          <p>We do not collect any Personal Information from Visitors when they use the Website, unless they provide such information voluntarily, such as by registering or sending us an e-mail or signing up for a newsletter.</p>
+
+          <h4>2. Billing Information</h4>
+
+          <p>In order to purchase a Subscription to our Platform, you will be required to provide certain information in addition to the Personal Information noted above.  Such information may include a credit card number, expiration date, billing zipcode, activation code, and similar information (collectively, the “Billing Information). Such Billing Information will be collected and processed by our Third Party Payment Vendor pursuant to the terms and conditions of their privacy policies and terms of use, and we do not obtain access to any Billing Information.</p>
+
+          <h4>3. Guest Order Information</h4>
+          <p>When Guests place an Order through the Platform, we will also collect and/or receive certain information, including but not limited to, Guest name, the products and services the Guests are seeking to purchase, and the payment information (collectively, the “Guest Order Information”). We shall use and share the Guest Order Information with the applicable Customer as reasonably necessary to provide our Platform. All payment information provided by Guests will be collected and processed by our Third Party Payment Vendor pursuant to the terms and conditions of their privacy policies and terms of use, and we do not obtain access to any Billing Information.</p>
+
+          <h4>4. Other Information</h4>
+
+          <p>In addition to the Personal Information, Guest Order Information, and the Billing Information, we may collect additional information (collectively, the “Other Information”).  Such Other Information may include:</p>
+
+          <ol type="a">
+            <li><span class="underline">From Your Activity.</span> In an ongoing effort to improve the Platform, we automatically collect certain information when Visitors visit the Website, when Customers use the Platform, and when Restaurant Guests access and use the Restaurant Website(s).  Such information includes, without limitation, IP addresses, browser type and language, referring and exit pages and URLs, date and time, amount of time spent on particular pages, what sections of the Website Visitors visit, and similar information concerning your use of the Platform.</li>
+
+            <li><span class="underline">From Cookies.</span> We collect information using “cookie” technology.  Cookies are small packets of data that a website stores on your computer’s or mobile device’s hard drive so that your computer will “remember” information about your visit.  We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them) to help us collect Other Information and to enhance your experience using the Platform.  If you do not want us to place a cookie on your hard drive, you may be able to turn that feature off on your computer or mobile device.  Please consult your Internet browser’s documentation for information on how to do this and how to delete persistent cookies.  However, if you decide not to accept cookies from us, the Platform may not function properly.</li>
+
+            <li><span class="underline">Third-Party Analytics.</span> We may use one or more third-party analytics services (such as Google Analytics) to evaluate your use of the Platform, compile reports on activity, collect demographic data, analyze performance metrics, and collect and evaluate other information relating to the Platform and mobile and Internet usage.  These third parties use cookies and other technologies to help analyze and provide us the data.  By accessing and using the Platform, you consent to the processing of data about you by these analytics providers in the manner and for the purposes set out in this Privacy Policy.</li>
+          </ol>
+
+          <p>For more information on these third parties, including how to opt out from certain data collection, please visit the sites below.  Please be advised that if you opt out of any service, you may not be able to use the full functionality of the Platform.</p>
+
+          <p>For Google Analytics, please visit <a href="https://www.google.com/analytics">https://www.google.com/analytics</a>
+
+          </p><p>For MixPanel, please visit <a href="https://mixpanel.com/">https://mixpanel.com/</a><br>
+
+          </p><p><strong>Accessing and Modifying Information and Communication Preferences</strong><br>
+          Anyone who has signed up to use the Platform may access, remove, review, and/or make changes to the same by following the instructions found on the Platform.  In addition, you may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of any BentoBox marketing e-mail.  We will use commercially reasonable efforts to process such requests in a timely manner.  You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases.  Customers cannot opt out of receiving transactional e-mails related to their account with BentoBox.</p>
+
+          <p><strong>How We Use and Share the Information</strong><br>
+          You authorize us to use the Personal Information, and the Other Information (collectively, the “Information”) to provide and improve the Website and the Platform; to solicit your feedback; and to inform you about our products and services and those of our promotional partners.</p>
+
+          <p>You also authorize us to use and/or share Information as described below.</p>
+
+          <ul>
+            <li><span class="underline">Agents, Providers and Related Third Parties.</span> We may engage other companies and individuals to perform certain business-related functions on our behalf.  Examples may include providing technical assistance, order fulfillment, customer service, and marketing assistance.  These other companies will have access to the Information only as necessary to perform their functions and to the extent permitted by law. We may also share your Information with any of our parent companies, subsidiaries, or other companies under common control with us.</li>
+
+            <li><span class="underline">Aggregated Information.</span> In an ongoing effort to better understand our Visitors, and Customers, we may analyze Personal Information with Other Information in anonymized and aggregate form in order to operate, maintain, manage, and improve the Website and the Platform and for our own research purposes.  This aggregate information does not identify you personally.</li>
+
+            <li><span class="underline">Business Transfers.</span> As we develop our businesses, we might sell or buy businesses or assets.  In the event of a corporate sale, merger, reorganization, sale of assets, dissolution, or similar event, the Information may be part of the transferred assets.</li>
+
+            <li><span class="underline">Legal Requirements.</span> We may disclose your Information if required to do so by law, or in the good faith belief that such action or disclosure is necessary or appropriate to: (i) operate the Platform, (ii) comply with any legal obligation, report unlawful activity, cooperate with law enforcement, or protect against legal liability, (iii) protect and defend our rights, property, personnel, suppliers, sponsors, agents or licensors, or (iv) protect the personal safety of vendors, users of the Platform or the public.</li>
+
+            <li><span class="underline">Third-Party Applications.</span> With your permission, third-party applications or services may access your Personal Information.  We use standard OAuth (open authorization) to enable you to give permission to share your Personal Information with other websites and services, such as Facebook and Twitter (e.g., when you agree to a pop-up requesting you to allow another application to access your account information).  We also use OAuth to allow us to share information about you that is stored by us without sharing your security credentials.</li>
+          </ul>
+
+          <p><strong>How We Protect Your Information</strong><br>
+          We take commercially reasonable steps to protect the Information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction.  Please understand, however, that no security system is impenetrable.  We cannot guarantee the security of our databases, nor can we guarantee that the information you supply will not be intercepted while being transmitted to and from us over the Internet. In particular, e-mail sent to or from the Platform may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail.</p>
+
+          <p><strong>Important Notice to Non-U.S. Residents</strong><br>
+          The Website, the Platform, the Restaurant Website(s), and their servers are operated in the United States.  Please be aware that your information, may be transferred to, processed, maintained, and used on computers, servers, and systems located outside of your state, province, country, or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction.  If you are located outside the United States and choose to use the Platform and/or the Restaurant Website(s), you hereby irrevocably and unconditionally consent to such transfer, processing, and use in the United States and elsewhere.</p>
+
+          <p><strong>External Websites</strong><br>
+          The Platform and the Website may contain links to External Sites.  BentoBox has no control over the privacy practices or the content of these External Sites.  As such, we are not responsible for the content or the privacy policies of those External Sites.  You should check the applicable third-party privacy policy and terms of use when visiting any other websites.</p>
+
+          <p><strong>Children</strong><br>
+          We do not knowingly collect Personal Information from children under the age of 13.  If you are under 13, please do not give us any Personal Information.  We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide us Personal Information without their permission.  If you have reason to believe that a child under the age of 13 has provided Personal Information to us, please contact us, and we will endeavor to delete that information from our databases.</p>
+
+          <p><strong>California Residents</strong><br>
+          Under California Civil Code Section 1798.83, California residents who have an established business relationship with BentoBox may choose to opt out of our sharing their Personal Information with third parties for direct marketing purposes.  If you are a California resident and (1) you wish to opt out; or (2) you wish to request certain information regarding our disclosure of your Personal Information to third parties for the direct marketing purposes, please send an e-mail to support@getbento.com or write to us at:</p>
+
+          <p>BentoBox CMS, Inc.<br>
+          210 Elizabeth Street, 3rd Floor,<br>
+          New York, New York, USA 10012</p>
+
+          <p>In addition, BentoBox does not monitor, recognize, or honor any opt-out or do not track mechanisms, including general web browser “Do Not Track” settings and/or signals.</p>
+
+          <p><strong>Changes to This Privacy Policy</strong><br>
+          This Privacy Policy is effective as of the date stated at the top of this Privacy Policy.  We may change this Privacy Policy from time to time. Any such changes will be posted on the Platform. By accessing the Website and/or using the Platform after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes.  Please be aware that, to the extent permitted by applicable law, our use of the Information is governed by the Privacy Policy in effect at the time we collect the Information.  Please refer back to this Privacy Policy on a regular basis.</p>
+
+          <p><strong>How to Contact Us</strong><br>
+          If you have questions about this Privacy Policy, please contact BentoBox via e-mail at <a href="mailto:support@getbento.com ">support@getbento.com</a> with “Privacy Policy” in the subject line.</p>
+      </div>
+    </div>
+</div>
+
+    </main>
+
+    
+    <footer id="footer">
+      <div class="container">
+        <div class="footer-logo hidden-xs">
+          <a href="/"><img src="/static/bento_frontend/images/footer-logo.6b2d741387c1.svg" alt="bentobox"></a>
+        </div>
+        <div class="footer-columns">
+          <div class="col">
+            <div class="footer-col">
+              <h3>Bentobox</h3>
+              <ul class="footer-links">
+                <li><a href="/features/">Features</a></li>
+                <li><a href="/customers/">Customers</a></li>
+                <li><a href="/company/">Company</a></li>
+                <!-- <li><a href="#">Bento Experts</a></li> -->
+                <li><a href="/signup/">Get Started</a></li>
+              </ul>
+            </div>
+            <div class="footer-col">
+              <h3>Features</h3>
+              <ul class="footer-links">
+                <li><a href="/features/#connect">Mobile Website</a></li>
+                <li><a href="/features/#revenue">Menu Management</a></li>
+                <li><a href="/features/#dashboard">Dashboard</a></li>
+                <li><a href="/features/#support">Customer Service</a></li>
+              </ul>
+            </div>
+            <div class="footer-col">
+              <h3>Contact us</h3>
+              <ul class="footer-links">
+                <li><a href="/signup/">Schedule a Demo</a></li>
+                <li><a href="/signup/refer/">Referral Program</a></li>
+                <li><a target="_blank" href="https://angel.co/bentobox/jobs">Jobs</a></li>
+                <li><a target="_blank" href="http://help.getbento.com/hc/en-us">Support</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col">
+            <div class="footer-col">
+              <h3>Resources</h3>
+              <ul class="footer-links">
+                <li><a href="/blog/">Blog</a></li>
+                <li><a target="_blank" href="http://help.getbento.com/hc/en-us">Help Center</a></li>
+                <li><a target="_blank" href="http://developers.getbento.com/">Developers</a></li>
+              </ul>
+            </div>
+            <div class="footer-col">
+              <ul class="social-networks">
+                <li><a target="_blank" href="https://twitter.com/bentoboxnyc" class="icon-twitter"></a></li>
+                <li><a target="_blank" href="https://instagram.com/getbento" class="icon-instagram"></a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/company/bentobox" class="icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/BentoBoxNYC" class="icon-facebook"></a></li>
+              </ul>
+              <ul class="footer-links">
+                <!-- <li><a href="#">Log in</a></li> -->
+                <li><a href="/terms/">Terms of Service</a></li>
+                <li><a href="/privacy/">Privacy Policy</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    
+  </div>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/static/bento_frontend/js/jquery-1.11.2.min.9aecea3830b6.js"><\/script>')</script><script src="/static/bento_frontend/js/jquery-1.11.2.min.9aecea3830b6.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+
+  
+    <script type="text/javascript" src="/static/bundled/site.ee1ead8ea695.js" charset="utf-8"></script>
+  
+
+  
+  
+
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-45698012-1', 'getbento.com');
+    ga('send', 'pageview');
+  </script>
+
+
+
+  <!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="//v2.zopim.com/?4Jf1P5k2XqEHQActw0W0VKAJ1at4I9O2";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>
+<!--End of Zopim Live Chat Script-->
+
+
+
+
+</body></html>
