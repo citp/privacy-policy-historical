@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aweporn.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627082839id_/http%3A//www.aweporn.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aweporn.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204203010id_/http%3A//www.aweporn.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AWEPorn.com
 
-Updated: June 27, 2016  
+Updated: December 04, 2016  
 Site: AWEPorn.com 
 
 Pursuant to our [Terms of Use](http://www.aweporn.com/page/terms/), , this document describes how we treat personal information related to your use of AWEPorn.com (the “Website”), including information you provide when using it.
