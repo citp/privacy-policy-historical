@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toocool2betrue.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315132237id_/http%3A//www.toocool2betrue.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toocool2betrue.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204185939id_/http%3A//www.toocool2betrue.com/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy
+# Privacy Policy – Design & Photography Magazine
 
 This Privacy Policy governs the manner in which Too Cool 2 Be True collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.toocool2betrue.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Too Cool 2 Be True.
 
@@ -63,6 +63,3 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [Too Cool 2 Be True](http://www.toocool2betrue.com/)  
 <http://www.toocool2betrue.com/>  
 info@toocool2betrue.com
-
-  
-
