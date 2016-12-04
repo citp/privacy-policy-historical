@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the podomatic.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614034651id_/https%3A//www.podomatic.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podomatic.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204194551id_/https%3A//www.podomatic.com/about/privacy) for the most accurate reproduction.*
 
 # PodOmatic | Best Free Podcasts
 
@@ -6,11 +6,15 @@ Thank you for visiting PodOmatic, the largest independent podcasting community. 
 
 This privacy policy applies to [https://www.podOmatic.com](https://www.podomatic.com/) (the “Website”), owned and operated by PodOmatic, Inc. (“PodOmatic”, “We”, “Our”, “Us”). This privacy policy describes how We collect and use the personal information you provide on the Website. It also describes the choices available to you regarding Our use of your personal information and how you can access and update this information. 
 
-PodOmatic, Inc. complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. PodOmatic, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the Safe Harbor program, and to view our certification page, please visit [http://www.export.gov/safeharbor](https://web.archive.org/about/privacy?target=_blank). 
+PodOmatic, Inc. complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. PodOmatic, Inc. has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield, and to view our certification page, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). 
 
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, PodOmatic, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact PodOmatic, Inc. at: [legal@podomatic.com](mailto:legal@podomatic.com) or PodOmatic, Inc. Att: Legal Department, 10 Cleveland Street, San Francisco, CA 94103 USA. 
+The Federal Trade Commission (FTC) has jurisdiction over PodOmatic's compliance with the Privacy Shield. 
 
-PodOmatic, Inc. has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20160614034651id_/https%3A//www.podomatic.com/about/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint 
+In compliance with the EU-US Privacy Shield Principles, PodOmatic, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact PodOmatic, Inc. at: [legal@PodOmatic.com](mailto:legal@PodOmatic.com) or PodOmatic, Inc. Att: Legal Department, 10 Cleveland Street, San Francisco, CA 94103 USA. 
+
+PodOmatic, Inc. has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint 
+
+Finally, as a last resort and in limited situations, EU individuals may invoke last resort binding arbitration before a Privacy Shield Panel. 
 
 PodOmatic takes your privacy seriously. We will not sell, lease, or exchange your personal data to, or otherwise share your personal data with, third-parties in ways other than described in this Privacy Policy. By using PodOmatic, including services available at the PodOmatic.com domains, you are using a service provided by PodOmatic, Inc. (collectively, the “Service”) and you agree to be bound by the Terms of Service and this Privacy Policy. Some capitalized terms used in this Privacy Policy and not otherwise defined may be defined in the Terms of Service. This Privacy Policy only addresses activities from Our servers. 
 
@@ -32,11 +36,15 @@ If you choose to continue service with PodOmatic via a paid account, PodOmatic w
 
 PodOmatic uses third party payment processors to assist it in processing your personally identifiable payment information securely. Such third party processors’ use of your personal information is governed by their respective privacy policies which may or may not contain privacy protections as protective as this privacy policy. Payments are currently processed and managed using the third party vendors below. We will inform you which payment processors are used when processing your payments. 
 
-<http://www.cybersource.com/privacy/>
+<http://www.cybersource.com/privacy/> <https://stripe.com/us/privacy>
 
 #### Server Logs
 
-When accessing web pages on the Website, PodOmatic may log your IP address, access URL, time of access, geographic location, browser type, and referral URL in order to provide Us with internal information regarding site traffic statistics. This information may also be used to identify users who are using the service for spam or other activity that is deemed in conflict with Our Terms of Service. Otherwise, this information is used in the aggregate, and is never linked back to any personal information. Comments and User Content Posted to the Website If you post any Comments or User Content on the Website, you should be aware that any personal information you choose to provide there may be read, collected, or used by other users of the Website, as well as other third parties. We cannot guarantee that other users have not made copies of and/or will not use such information outside of the Website. We are not responsible for information you choose to post in this forum. 
+When accessing web pages on the Website, PodOmatic may log your IP address, access URL, time of access, geographic location, browser type, and referral URL in order to provide Us with internal information regarding site traffic statistics. This information may also be used to identify users who are using the service for spam or other activity that is deemed in conflict with Our Terms of Service. Otherwise, this information is used in the aggregate, and is never linked back to any personal information. 
+
+#### Comments and User Content Posted to the Website
+
+If you post any Comments or User Content on the Website, you should be aware that any personal information you choose to provide there may be read, collected, or used by other users of the Website, as well as other third parties. We cannot guarantee that other users have not made copies of and/or will not use such information outside of the Website. We are not responsible for information you choose to post in this forum. 
 
 #### Social Media
 
@@ -106,7 +114,11 @@ In the event of a business transfer or sale by PodOmatic, customer information g
 
 We may release account and other personal information when We believe release is appropriate to comply with the law; enforce or apply Our Terms of Service; or protect the rights, property, or safety of PodOmatic, Our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
 
-Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
+#### Compliance with Laws and Law Enforcement
+
+We cooperate with government and law enforcement officials to enforce and comply with the law. We may be required to disclose and may disclose Your personal information in response to a lawful request by public authorities, including to meet national securities or law enforcement requirements. 
+
+Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. PodOmatic is liable for appropriate onward transfers of personal data to third parties. 
 
 * Log Files
 
@@ -169,7 +181,7 @@ If you have any questions or suggestions regarding Our privacy policy, please co
 PodOmatic is located at:  
 PodOmatic, Inc.  
 10 Cleveland Street  
-San Francisco, CA, 94103  
+San Francisco, CA, 94103, USA  
 
 
 All correspondence should be sent to:  
