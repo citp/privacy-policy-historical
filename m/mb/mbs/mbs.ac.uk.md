@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbs.ac.uk privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512012704id_/http%3A//www.mbs.ac.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbs.ac.uk privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204041406id_/http%3A//www.mbs.ac.uk/help/privacy) for the most accurate reproduction.*
 
 # Our privacy policy | Alliance MBS
 
@@ -38,9 +38,9 @@ Requests for information about our policies can be emailed to The University of 
 
 Data Guardian  
 Alliance Manchester Business School  
-Booth Street West  
+Booth Street East  
 Manchester  
-M15 6PB, UK
+M13 9SS, UK
 
 ### Terms of Service Agreement
 
