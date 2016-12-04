@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the indiegala.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212220248id_/http%3A//www.indiegala.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiegala.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204105018id_/https%3A//www.indiegala.com/privacy) for the most accurate reproduction.*
 
-# The Indie Gala | Privacy Policy
-
-### Privacy Policy
-
-Effective Date: December 5th, 2011
+# Indiegala - Privacy Policy
 
 Your privacy is important, so INDIEGALA, SRL. ("INDIEGALA," "we," "us," or "our") has created the following Privacy Policy to let you know what information we collect when you visit the Service, why we collect it and how it is used. This Privacy Policy explains the data collection and use practices of the Service; it does not apply to other online or offline INDIEGALA sites, products or services. The terms "you," "your," and "yours" refer to the customer/purchaser utilizing our Service. This Privacy Policy is governed by our Terms and Conditions. By using the Service, you consent to the data practices prescribed in this statement. We may periodically make changes to this Privacy Policy that we will include on this page. It is your responsibility to review this Privacy Policy and remain informed about any changes to it, so we encourage you to visit this page often. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms and Conditions.
 
@@ -36,7 +32,7 @@ Personal information collected on the Service may be stored and processed in the
 
 #### Children
 
-INDIEGALA will not knowingly collect personally identifiable information from any person age 13 and under. INDIEGALA encourages parents to instruct their children to never give out personal information when online. Parents who are concerned about the transfer of personal information from their children may contact us at [support@indiegala.com](mailto:support@indiegala.com) to obtain a record of any information held by INDIEGALA and have it removed at their request.
+INDIEGALA will not knowingly collect personally identifiable information from any person age 13 and under. INDIEGALA encourages parents to instruct their children to never give out personal information when online. Parents who are concerned about the transfer of personal information from their children may contact our [support team](http://support.indiegala.com/) to obtain a record of any information held by INDIEGALA and have it removed at their request.
 
 #### Links to Other Web Sites
 
@@ -48,4 +44,4 @@ By using this Service, you agree to this Privacy Policy. This is our entire and 
 
 #### Contacting INDIEGALA
 
-If you have any questions about this Privacy Policy or the privacy practices of INDIEGALA, please contact us by emailing [support@indiegala.com](mailto:support@indiegala.com).
+If you have any questions about this Privacy Policy or the privacy practices of INDIEGALA, please contact our [support team](http://support.indiegala.com/).
