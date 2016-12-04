@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the societyofrock.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609180023id_/http%3A//societyofrock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the societyofrock.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204113916id_/http%3A//societyofrock.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Society Of Rock
 
@@ -94,11 +94,11 @@ THIS POLICY WAS LAST MODIFIED ON **23 January  2015**
 
 IF THERE ARE ANY QUESTIONS REGARDING THIS PRIVACY POLICY YOU MAY CONTACT US USING THE INFORMATION BELOW.
 
-TRMI Inc. / dba ILoveClassicRock.com  
-300 W. BEECH ST. #1810  
+TRMI Inc. / dba SocietyOfRock.com  
+832 5TH AVE. #6  
 SAN DIEGO, CA 92101  
 UNITED STATES OF AMERICA  
-admin [@] countryrebel [dot] com  
+admin [@] societyofrock [dot] com  
 (949) 212-9195
 
 ### PRIVACY POLICY CUSTOMER PLEDGE
