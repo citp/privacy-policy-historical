@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educents.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531010657id_/http%3A//www.educents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educents.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204062041id_/http%3A//www.educents.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Educents
 
