@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ref-r.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608172908id_/http%3A//www.invitereferrals.com/campaign/site/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ref-r.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204082731id_/http%3A//www.invitereferrals.com/campaign/site/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Referral Program Software | Invite Referrals
 
