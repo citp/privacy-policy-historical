@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hashdoc.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407154414id_/https%3A//www.hashdoc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hashdoc.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204140409id_/https%3A//www.hashdoc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hashdoc
 
