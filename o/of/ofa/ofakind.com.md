@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ofakind.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619232132id_/http%3A//www.ofakind.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofakind.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204140904id_/http%3A//www.ofakind.com/pages/privacy) for the most accurate reproduction.*
 
 # Of a Kind | Shop hundreds of emerging fashion designers
 
