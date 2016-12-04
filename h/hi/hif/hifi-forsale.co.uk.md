@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hifi-forsale.co.uk privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615125818id_/http%3A//www.hifi-forsale.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hifi-forsale.co.uk privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204085959id_/http%3A//www.hifi-forsale.co.uk/privacy.php) for the most accurate reproduction.*
 
 # HiFi Forsale - Privacy Statement
 
@@ -6,7 +6,7 @@
 
 [](http://www.hifi-forsale.co.uk/latest-ads.php?end=1)
 
-[](http://www.petertyson.co.uk/)
+[](http://www.customelectronicdesign.co.uk/)
 
 **Privacy Statement**
 
