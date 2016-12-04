@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the districtlines.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616213420id_/https%3A//www.districtlines.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the districtlines.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204014337id_/https%3A//www.districtlines.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | District Lines
 
@@ -70,16 +70,13 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
 As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account and going to the 'My Account' page. 
 
-**Enforcement**   
-AKT, the parent company of District Lines, complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. AKT/District Lines has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view AKT's certification, please visit <http://www.export.gov/safeharbor/>. 
-
 **Your Consent**   
 By using our site, you consent to our online privacy policy. 
 
 **Changes to our Privacy Policy**   
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on 08/12/2015 
+This policy was last modified on 11/15/2016 
 
 **How to Contact Us?**   
 If there are any questions regarding this privacy policy you may contact us using the information below. 
