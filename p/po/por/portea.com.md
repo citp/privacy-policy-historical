@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portea.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620093333id_/http%3A//www.portea.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portea.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204150055id_/http%3A//www.portea.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Portea.com - Home Medical Care Service
 
@@ -26,5 +26,21 @@ Portea will communicates with you through the email you have specified. Your ema
 
   * Sending you newsletters that you have subscribed to.
   * Sending you occasional announcements about changes in portea’s policies or announcement of new promotions or services.
+
+
+
+ **7\. App Usage**
+
+We may disclose to third party services certain personally identifiable information listed below:
+
+  * Information you provide us such as name, email, mobile phone number
+  * Information we collect as you access and use our service, including device information, location and network carrier
+
+
+
+This information is shared with third party service providers so that we can:
+
+  * Personalize the app for you
+  * Perform behavioral analytics
 
 
