@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prosource.net privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529094224id_/http%3A//www.prosource.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosource.net privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204231057id_/http%3A//www.prosource.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ProSource.Net
 
