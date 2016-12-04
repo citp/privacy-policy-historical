@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aadharcards.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524171646id_/http%3A//aadharcards.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aadharcards.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204075117id_/http%3A//aadharcards.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Aadhar Cards, E-aadhaar Card Download, UIDAI, aadhaar status, aadhar cards
 
   
 This Privacy Policy governs the manner in which Aadhar card collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://aadharcards.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Aadhar card .
@@ -56,3 +56,5 @@ http://aadharcards.com/
 info@aadharcards.com
 
 ### Use Facebook to Comment on this Post
+
+Aadhar Cards, E-aadhaar Card Download, UIDAI, aadhaar status, aadhar cards © 2016 [Frontier Theme](http://ronangelo.com/frontier/)
