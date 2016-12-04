@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freemarriage.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222151056id_/http%3A//www.bizhat.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemarriage.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204055841id_/http%3A//www.bizhat.com/privacy_policy.php) for the most accurate reproduction.*
 
 # BizHat.com - Privacy Policy
 
