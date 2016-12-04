@@ -1,29 +1,36 @@
-> *The following text is extracted and transformed from the straponjane.com privacy policy that was archived on 2006-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060511235940id_/http%3A//straponjane.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the straponjane.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204133038id_/http%3A//www.straponjane.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# StrapOn Jane 2257
 
-**Our Commitment to Privacy  
-**Your privacy is very important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our home page and throughout this website, and at every point where personally identifiable information may be requested. **The Information We Collect:  
-**This notice  applies to all information collected or submitted on this website  
- ([www.StraponJane.com](http://www.straponjane.com/)) On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages may include:  
-**_Name:  
-Email Address:  
-Sex:  
-Age:  
-Country of Residence:  
-Sexual Preference: _****The Way We Use Information:  
-**The information we collect (Your name and email address) is used to provide  from time to time, special  offers and discounts for goods and services that we may provide. We DO NOT, sell, hire, lease or provide the information we collect about you to ANY other third party. The information we hold on you is strictly for our OWN use. **Our Commitment to Data Security  
-**To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, administrative, and managerial procedures to safeguard and secure the information we collect online. **How you can Access or Correct Your Information  
-**You can access all your personally identifiable information that we collect online and maintain by sending an email addressed to [CustomerServices@StrapOnJane.com](mailto:CustomerServices@StrapOnJane.com) asking us to provide you with all information that we hold about you. You must provide a valid return email address for us to action your request. We will reply to you within 7 working days from receiving your email. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error in our records. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. **How to Contact Us  
-**Should you have ANY other questions or concerns regarding these privacy policies, please send an email clearly detailing your inquiry or request to [webmaster@StraponJane.com](mailto:webmaster@StraponJane.com) **
+**Privacy Policy**
 
-Our Payment Processor’s Privacy Policy 
+This privacy policy discloses the privacy practices for www.straponjane.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
-**[Click HERE for CCBILL Privacy Policy](http://www.ccbill.com/) concerning Collected Information **
-
-Our Payment Processor’s Security Policy
-
-**[](http://www.ccbill.com/)[Click Here for CCBILL Security Policy](http://www.ibill.com/about/security.cfm)
+  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared. 
+  2. What choices are available to you regarding the use of your data. 
+  3. How you can correct any inaccuracies in the information. 
 
 
 
+**Information Collection, Use, and Sharing**    
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
+
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
+
+Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
+
+**Your Access to and Control Over Information**    
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address given on our website:
+
+  * See what data we have about you, if any
+  * Change/correct any data we have about you.
+  * Have us delete any data we have about you.
+  * Express any concern you have about our use of your data.
+
+
+
+**Updates**
+
+Our Privacy Policy may change from time to time and all updates will be posted on this page.
+
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately via[email](mailto:admin@bluepixelsprofits.com).**
