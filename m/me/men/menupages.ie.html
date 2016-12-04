@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the menupages.ie privacy policy that was archived on 2016-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160618020335id_/http%3A//www.menupages.ie/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the menupages.ie privacy policy that was archived on 2016-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161204193831id_/http%3A//www.menupages.ie/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <base href="http://www.menupages.ie/">
 <title>Privacy and Security</title>
 <meta charset="utf-8">
-<link href="/addons/themes/menupages/img/favicon.ico?time=1466215416" rel="shortcut icon" type="image/x-icon">
+<link href="/addons/themes/menupages/img/favicon.ico?time=1480880311" rel="shortcut icon" type="image/x-icon">
 
 				<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 					var APPPATH_URI = "/system/pyrocms/";
@@ -121,8 +121,12 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1441786477510-3');
             <div class="logo">
                 <a href="http://www.menupages.ie/" title="Privacy and Security" id="branding">
                     
-                                                                  
-                        <img height="90" width="250" src="http://www.menupages.ie/addons/themes/menupages/img/logo.jpg" alt="MenuPages.ie">
+                                                                                    
+                        <object id="my-flash" src="http://www.menupages.ie/addons/themes/menupages/img/xmas_mp_logo.swf" width="250" height="90">
+                            <param name="movie" value="http://www.menupages.ie/addons/themes/menupages/img/xmas_mp_logo.swf">
+                            <param name="quality" value="high">                              
+                            <img src="http://www.menupages.ie/addons/themes/menupages/img/mp_logo_xmas.png" height="90" width="250">
+                        </object>
                                           
                 </a>           
             </div>
@@ -219,6 +223,22 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1441786477510-2');
                                             19:00                                        
                 </div>
                 <select name="TimeSelect" id="TimeSelect" class="form-styled-hidden-and-clickable">
+                                                                    <option value="0:00">00:00</option>
+                                                                    <option value="0:15">00:15</option>
+                                                                    <option value="0:30">00:30</option>
+                                                                    <option value="0:45">00:45</option>
+                                                                    <option value="1:00">01:00</option>
+                                                                    <option value="1:15">01:15</option>
+                                                                    <option value="1:30">01:30</option>
+                                                                    <option value="1:45">01:45</option>
+                                                                    <option value="2:00">02:00</option>
+                                                                    <option value="2:15">02:15</option>
+                                                                    <option value="2:30">02:30</option>
+                                                                    <option value="2:45">02:45</option>
+                                                                    <option value="3:00">03:00</option>
+                                                                    <option value="3:15">03:15</option>
+                                                                    <option value="3:30">03:30</option>
+                                                                    <option value="3:45">03:45</option>
                                                                     <option value="4:00">04:00</option>
                                                                     <option value="4:15">04:15</option>
                                                                     <option value="4:30">04:30</option>
@@ -420,7 +440,7 @@ $.ajax({
         dateFormat: 'd M yy',
         minDate : new Date(),
         firstDay: 1,
-        minDate: 0,
+        minDate: 1,
         onSelect: function(date, selectInstance){
             $.post( "http://www.menupages.ie/ajax-stuff/get_filter_days", { date: date }).done(function( data ) {
                 
@@ -451,7 +471,7 @@ $.ajax({
             });
         }
     });
-    $("#datepicker").datepicker("setDate", new Date(''));
+    $("#datepicker").datepicker("setDate", new Date('2016-12-05'));
     $("#datepicker").click(function() {
           $("#datepicker").datepicker( "show" );
     });
@@ -542,17 +562,18 @@ $.ajax({
                                                                   <li><a href="http://www.menupages.ie/Dublin/south_dublin/dalkey" title="Dalkey">Dalkey</a></li>                      
                                                                   <li><a href="http://www.menupages.ie/Dublin/city_centre/dame_street" title="Dame Street">Dame Street</a></li>                      
                                                                   <li><a href="http://www.menupages.ie/Dublin/city_centre/dawson_street" title="Dawson Street">Dawson Street</a></li>                      
+                                                                  <li><a href="http://www.menupages.ie/Dublin/city_centre/georges_street" title="Georges Street">Georges Street</a></li>                      
                                                                   <li><a href="http://www.menupages.ie/Dublin/north_dublin/howth" title="Howth">Howth</a></li>                      
                                                                   <li><a href="http://www.menupages.ie/Dublin/south_dublin/rathmines" title="Rathmines">Rathmines</a></li>                      
                                                                   <li><a href="http://www.menupages.ie/Dublin/north_dublin/skerries" title="Skerries">Skerries</a></li>                      
-                                                                  <li><a href="http://www.menupages.ie/Dublin/south_dublin/dun_laoghaire" title="Dun Laoghaire">Dun Laoghaire</a></li>                      
                                                                   <li><a href="http://www.menupages.ie/Dublin/north_dublin/swords" title="Swords">Swords</a></li>                      
-                                                                  <li><a href="http://www.menupages.ie/Dublin/north_dublin/malahide" title="Malahide">Malahide</a></li>                      
+                                                                  <li><a href="http://www.menupages.ie/Dublin/south_dublin/dun_laoghaire" title="Dun Laoghaire">Dun Laoghaire</a></li>                      
                                                                   <li><a href="http://www.menupages.ie/Dublin/south_dublin/dundrum" title="Dundrum">Dundrum</a></li>                      
+                                                                  <li><a href="http://www.menupages.ie/Dublin/north_dublin/malahide" title="Malahide">Malahide</a></li>                      
                                                                   <li><a href="http://www.menupages.ie/Dublin/south_dublin/ranelagh" title="Ranelagh">Ranelagh</a></li>                      
+                                                                  <li><a href="http://www.menupages.ie/Dublin/south_dublin/rathmines" title="Rathmines">Rathmines</a></li>                      
                                                                   <li><a href="http://www.menupages.ie/Dublin/north_dublin/clontarf" title="Clontarf">Clontarf</a></li>                      
-                                                                  <li><a href="http://www.menupages.ie/Dublin/south_dublin/blackrock" title="Blackrock">Blackrock</a></li>                      
-                                                                  <li><a href="http://www.menupages.ie/Dublin/west_dublin/tallaght" title="Tallaght">Tallaght</a></li>                      
+                                                                  <li><a href="http://www.menupages.ie/Dublin/west_dublin/clondalkin" title="Clondalkin">Clondalkin</a></li>                      
                                
                           </ul>
                                                     <a class="show_all" href="/Dublin"> View All » </a>
@@ -635,11 +656,11 @@ $.ajax({
                       <li class="title_menu_sec">Cookery Schools</li>
                                               <li class="lifestyle_menu_item">
                           <div class="media">
-                            <a class="menu_main_image_lifestyle" href="/cookeryschools/ballymaloe_cookery_school" title="ballymaloe_cookery_school"><img class="media-object" src="/addons/themes/menupages/images/550x344/8_s_IMG_2514-001.JPG" alt="ballymaloe_cookery_school"></a>
+                            <a class="menu_main_image_lifestyle" href="/cookeryschools/connolly_cookery_demonstrations" title="connolly_cookery_demonstrations"><img class="media-object" src="/images/550x344/connolly.jpg" alt="connolly_cookery_demonstrations"></a>
 
                             <div class="media-body">
-                              <a class="media-heading" title="ballymaloe_cookery_school" href="/cookeryschools/ballymaloe_cookery_school">Ballymaloe Cookery School</a>
-                              <span>Shanagarry, Castlemartyr, East Cork, Cork</span>
+                              <a class="media-heading" title="connolly_cookery_demonstrations" href="/cookeryschools/connolly_cookery_demonstrations">Connolly Cookery Demonstrations</a>
+                              <span>Bluehaven Lodge Brittas Grangebellew, Drogheda, South Louth, Louth</span>
                             </div>
                           </div>
                         </li>
@@ -650,11 +671,11 @@ $.ajax({
                       <li class="title_menu_sec">Farmers Market</li>
                                               <li class="lifestyle_menu_item">
                           <div class="media">
-                            <a class="menu_main_image_lifestyle" href="/farmersmarkets/portlaoise_market" title="portlaoise_market"><img class="media-object" src="/images/550x344/88portlaoise.jpg" alt="portlaoise_market"></a>
+                            <a class="menu_main_image_lifestyle" href="/farmersmarkets/listowel_farmers_market" title="listowel_farmers_market"><img class="media-object" src="/images/550x344/78listowel.jpg" alt="listowel_farmers_market"></a>
 
                             <div class="media-body">
-                              <a class="media-heading" title="portlaoise_market" href="/farmersmarkets/portlaoise_market">Portlaoise Market</a>
-                              <span>Market Square Portlaoise, Portlaoise, North Laois, Laois</span>
+                              <a class="media-heading" title="listowel_farmers_market" href="/farmersmarkets/listowel_farmers_market">Listowel Farmers Market</a>
+                              <span>The Square Listowel, Listowel, North Kerry, Kerry</span>
                             </div>
                           </div>
                         </li>                  
@@ -671,13 +692,21 @@ $.ajax({
              <!-- top_menu end -->
              
             <div class="content">
-                <ul class="breadcrumb" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                <ul class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
         
-        <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/" title="Home" itemprop="url"><span itemprop="title">Home</span></a> <span class="divider"><i class="icon-angle-right"></i></span></li>
-                            <li class="active">Privacy and Security</li>
+        <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+            <a itemprop="item" href="/" title="Home">
+                <span itemprop="name">Home</span>
+            </a> 
+            <span class="divider"><i class="icon-angle-right"></i></span>
+        </li>
+                        <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" class="active">            
+                <span itemprop="name">Privacy and Security</span>            
+        </li>
             
 </ul>
 <!-- END OF BREADCRUMB -->
+
 
 
                   
@@ -826,14 +855,14 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1441786477510-1');
                 <div class="block orange border">
                                         <div class="recipe_home">
                         <div class="title"><span class="icon_green"><i class="icons recipes"></i></span> Recipes</div>
-                        <p class="title_recipe">Blueberry blintzes</p>
+                        <p class="title_recipe">Apricot friands</p>
                         <div class="media">
-                            <a class="pull-left" href="http://www.menupages.ie/new_recipes/recipe/blueberry-blintzes">
-                                <img class="media-object" src="/uploads/recipes/IMG-51e7af2f724ae-a4f8ceefa8c71e134fbf6a4a90162de2e7128554.jpg" alt="Blueberry blintzes" style="max-width:175px;max-height:131px;">
+                            <a class="pull-left" href="http://www.menupages.ie/new_recipes/recipe/apricot-friands">
+                                <img class="media-object" src="/uploads/recipes/IMG-51e673705c8bd-fdda0395580bc98eaea3050a3ca7714083aeffee.jpg" alt="Apricot friands" style="max-width:175px;max-height:131px;">
                             </a>
                             <div class="media-body">
-                                <p>Blintz is the Russian name for a thin pancake often wrapped around a filling</p>
-                                <p><a class="btn-orange" href="http://www.menupages.ie/new_recipes/recipe/blueberry-blintzes" title="Blueberry blintzes">View Recipes</a></p>
+                                <p>These delicate little cakes are just the thing for a summery afternoon tea treat</p>
+                                <p><a class="btn-orange" href="http://www.menupages.ie/new_recipes/recipe/apricot-friands" title="Apricot friands">View Recipes</a></p>
                             </div>
                         </div>
                     </div>
@@ -842,21 +871,21 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1441786477510-1');
                         <div class="title"><span class="icon_green"><i class="icons popular_recipes"></i></span> Popular Recipes</div>
                         <div class="tags">
                             <ul>
-                                                                    <li class="tag_1"><a href="http://www.menupages.ie/new_recipes/recipe/pumpkin-cake" title="Pumpkin cake">Pumpkin cake</a></li>
+                                                                    <li class="tag_3"><a href="http://www.menupages.ie/new_recipes/recipe/pumpkin-cake" title="Pumpkin cake">Pumpkin cake</a></li>
                                                                     <li class="tag_3"><a href="http://www.menupages.ie/new_recipes/recipe/carrot-cake-3" title="Carrot cake">Carrot cake</a></li>
-                                                                    <li class="tag_3"><a href="http://www.menupages.ie/new_recipes/recipe/-passion-cake" title=" Passion cake"> Passion cake</a></li>
+                                                                    <li class="tag_1"><a href="http://www.menupages.ie/new_recipes/recipe/-passion-cake" title=" Passion cake"> Passion cake</a></li>
                                                                     <li class="tag_2"><a href="http://www.menupages.ie/new_recipes/recipe/hazelnut-fruitcake" title="Hazelnut fruitcake">Hazelnut fruitcake</a></li>
-                                                                    <li class="tag_1"><a href="http://www.menupages.ie/new_recipes/recipe/lemon-cake" title="Lemon cake">Lemon cake</a></li>
+                                                                    <li class="tag_3"><a href="http://www.menupages.ie/new_recipes/recipe/lemon-cake" title="Lemon cake">Lemon cake</a></li>
                                                                     <li class="tag_2"><a href="http://www.menupages.ie/new_recipes/recipe/carrot-and-ginger-bread" title="Carrot and Ginger Bread">Carrot and Ginger Bread</a></li>
-                                                                    <li class="tag_3"><a href="http://www.menupages.ie/new_recipes/recipe/peach-sponge" title="Peach Sponge">Peach Sponge</a></li>
-                                                                    <li class="tag_1"><a href="http://www.menupages.ie/new_recipes/recipe/apricot-friands" title="Apricot friands">Apricot friands</a></li>
-                                                                    <li class="tag_3"><a href="http://www.menupages.ie/new_recipes/recipe/citrus-cake" title="Citrus Cake">Citrus Cake</a></li>
+                                                                    <li class="tag_2"><a href="http://www.menupages.ie/new_recipes/recipe/peach-sponge" title="Peach Sponge">Peach Sponge</a></li>
+                                                                    <li class="tag_3"><a href="http://www.menupages.ie/new_recipes/recipe/apricot-friands" title="Apricot friands">Apricot friands</a></li>
+                                                                    <li class="tag_1"><a href="http://www.menupages.ie/new_recipes/recipe/citrus-cake" title="Citrus Cake">Citrus Cake</a></li>
                                                                     <li class="tag_1"><a href="http://www.menupages.ie/new_recipes/recipe/anjou-pear-cake" title="Anjou pear cake">Anjou pear cake</a></li>
                                                                     <li class="tag_2"><a href="http://www.menupages.ie/new_recipes/recipe/berry-mousse-cake" title="Berry Mousse cake">Berry Mousse cake</a></li>
-                                                                    <li class="tag_3"><a href="http://www.menupages.ie/new_recipes/recipe/banana-walnut-bread" title="Banana &amp; walnut Bread">Banana &amp; walnut Bread</a></li>
-                                                                    <li class="tag_3"><a href="http://www.menupages.ie/new_recipes/recipe/apple-spice-bread" title="Apple &amp; spice Bread">Apple &amp; spice Bread</a></li>
-                                                                    <li class="tag_3"><a href="http://www.menupages.ie/new_recipes/recipe/hazelnut-chocolate-cake" title="Hazelnut &amp; Chocolate Cake">Hazelnut &amp; Chocolate Cake</a></li>
-                                                                    <li class="tag_3"><a href="http://www.menupages.ie/new_recipes/recipe/sponge-cake" title="Sponge Cake">Sponge Cake</a></li>
+                                                                    <li class="tag_2"><a href="http://www.menupages.ie/new_recipes/recipe/banana-walnut-bread" title="Banana &amp; walnut Bread">Banana &amp; walnut Bread</a></li>
+                                                                    <li class="tag_2"><a href="http://www.menupages.ie/new_recipes/recipe/apple-spice-bread" title="Apple &amp; spice Bread">Apple &amp; spice Bread</a></li>
+                                                                    <li class="tag_2"><a href="http://www.menupages.ie/new_recipes/recipe/hazelnut-chocolate-cake" title="Hazelnut &amp; Chocolate Cake">Hazelnut &amp; Chocolate Cake</a></li>
+                                                                    <li class="tag_2"><a href="http://www.menupages.ie/new_recipes/recipe/sponge-cake" title="Sponge Cake">Sponge Cake</a></li>
                                 
                             </ul>
                         </div>
@@ -897,18 +926,18 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1441786477510-1');
                 <div class="block brown border">
                     <div class="title"><span class="icon_green"><i class="icons popular"></i></span> Choose Popular Areas</div>
                     <ul class="block_list">
-                                                     <li style="font-size:14px;"><a href="/Dublin/city_centre/city_centre_south" title="City Centre South">City Centre South <span>(368)</span></a></li>
-                                                     <li style="font-size:14px;"><a href="/Dublin/city_centre/city_centre_north" title="City Centre North">City Centre North <span>(152)</span></a></li>
-                                                     <li style="font-size:14px;"><a href="/Dublin/temple_bar/temple_bar" title="Temple Bar">Temple Bar <span>(68)</span></a></li>
+                                                     <li style="font-size:14px;"><a href="/Dublin/city_centre/city_centre_south" title="City Centre South">City Centre South <span>(383)</span></a></li>
+                                                     <li style="font-size:14px;"><a href="/Dublin/city_centre/city_centre_north" title="City Centre North">City Centre North <span>(158)</span></a></li>
+                                                     <li style="font-size:14px;"><a href="/Dublin/temple_bar/temple_bar" title="Temple Bar">Temple Bar <span>(70)</span></a></li>
                                                      <li style="font-size:14px;"><a href="/Dublin/south_dublin/ballsbridge" title="Ballsbridge">Ballsbridge <span>(50)</span></a></li>
-                                                     <li style="font-size:14px;"><a href="/Dublin/south_dublin/dun_laoghaire" title="Dun Laoghaire">Dun Laoghaire <span>(47)</span></a></li>
-                                                     <li style="font-size:14px;"><a href="/Dublin/north_dublin/swords" title="Swords">Swords <span>(43)</span></a></li>
+                                                     <li style="font-size:14px;"><a href="/Dublin/north_dublin/swords" title="Swords">Swords <span>(46)</span></a></li>
+                                                     <li style="font-size:14px;"><a href="/Dublin/south_dublin/dun_laoghaire" title="Dun Laoghaire">Dun Laoghaire <span>(46)</span></a></li>
+                                                     <li style="font-size:14px;"><a href="/Dublin/south_dublin/dundrum" title="Dundrum">Dundrum <span>(39)</span></a></li>
                                                      <li style="font-size:14px;"><a href="/Dublin/north_dublin/malahide" title="Malahide">Malahide <span>(37)</span></a></li>
-                                                     <li style="font-size:14px;"><a href="/Dublin/south_dublin/dundrum" title="Dundrum">Dundrum <span>(35)</span></a></li>
-                                                     <li style="font-size:14px;"><a href="/Dublin/south_dublin/ranelagh" title="Ranelagh">Ranelagh <span>(29)</span></a></li>
-                                                     <li style="font-size:14px;"><a href="/Dublin/north_dublin/clontarf" title="Clontarf">Clontarf <span>(24)</span></a></li>
-                                                     <li style="font-size:14px;"><a href="/Dublin/south_dublin/blackrock" title="Blackrock">Blackrock <span>(24)</span></a></li>
-                                                     <li style="font-size:14px;"><a href="/Dublin/west_dublin/tallaght" title="Tallaght">Tallaght <span>(23)</span></a></li>
+                                                     <li style="font-size:14px;"><a href="/Dublin/south_dublin/ranelagh" title="Ranelagh">Ranelagh <span>(31)</span></a></li>
+                                                     <li style="font-size:14px;"><a href="/Dublin/south_dublin/rathmines" title="Rathmines">Rathmines <span>(29)</span></a></li>
+                                                     <li style="font-size:14px;"><a href="/Dublin/north_dublin/clontarf" title="Clontarf">Clontarf <span>(28)</span></a></li>
+                                                     <li style="font-size:14px;"><a href="/Dublin/west_dublin/clondalkin" title="Clondalkin">Clondalkin <span>(24)</span></a></li>
                          
                     </ul>
                     <p><a href="http://www.menupages.ie/Dublin" class="btn-brown pull-right" title="#">View more</a></p>
@@ -982,7 +1011,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1441786477510-0');
         </ul>
     </div>
 
-    <p><small>Copyright © 2016 MenuPages. All rights reserved. [ 0.2117 ]</small></p>
+    <p><small>Copyright © 2016 MenuPages. All rights reserved. [ 0.2076 ]</small></p>
 
 
 
