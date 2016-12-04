@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406232829id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204183600id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
 
 # Our Privacy Policy - Shareme.com respects your right to privacy
 
@@ -25,10 +25,6 @@
 
 
 ####  Top Downloads
-
-  * [Visual Fractal 1.6](https://web.archive.org/details/visual-fractal.html)
-
-With this interesting fractal software, you can...
 
   * [BootRacer 4.6.1.360](https://web.archive.org/details/bootracer.html)
 
@@ -59,94 +55,94 @@ An intelligent freeware to fix common PC...
 
 ####  New Downloads
 
-  * [Elmedia Player 6.5](https://web.archive.org/details/elmedia-player.html)
+  * [PresenTense Time Client 5.1](https://web.archive.org/details/presentense-time-client.html)
 
-Elmedia Player, a versatile media player for...
+PresenTense Time Client is a time client for...
 
-  * [Active@ KillDisk 10.1.0](https://web.archive.org/details/active--killdisk.html)
+  * [ImageConverter Plus 9.0.756.141029](https://web.archive.org/details/imageconverter-plus.html)
 
-Active@ KillDisk provides the ultimate solution...
+Image Converter Plus is the quick and easy way...
 
-  * [Eunomia Process Builder 2.8.2](https://web.archive.org/details/eunomia-process-builder.html)
+  * [pdfMachine 14.95](https://web.archive.org/details/pdfmachine.html)
 
-Eunomia Process Builder is an easy-to-use...
+Convert to PDF the quick and easy way....
 
-  * [Oxetta Report Generator 1.1](https://web.archive.org/details/oxetta-report-generator.html)
+  * [ACDSee 20.1.587](https://web.archive.org/details/acdsee.html)
 
-Report generator for C/C++ applications with...
+As the choice software for the practical...
 
-  * [SQL Job Manager 3.5.0.4](https://web.archive.org/details/sql-job-manager.html)
+  * [GSA URL Redirect PRO 1.65](https://web.archive.org/details/gsa-url-redirect-pro.html)
 
-View SQL Server jobs and scheduled jobs across...
+You can now create a lot smaller URLs with your...
 
-  * [KONIO Obfuscator 2.3](https://web.archive.org/details/konio-obfuscator.html)
+  * [Tipard PDF Converter for Mac 3.1.42](https://web.archive.org/details/tipard-pdf-converter-for-mac.html)
 
-Obfuscate C# console applications source code...
+Tipard PDF Converter for Mac can help you...
 
-  * [M4V Converter Plus 4.1.7](https://web.archive.org/details/m4v-converter-plus.html)
+  * [Free Hide IP 4.1.5.6](https://web.archive.org/details/free-hide-ip.html)
 
-M4V Converter Plus - Convert iTunes M4V...
+Free Hide IP, the best free privacy protection...
 
-  * [Tipard DVD Software Toolkit for Mac 5.0.58](https://web.archive.org/details/tipard-dvd-software-toolkit-for-mac.html)
+  * [Tipard HD Converter for Mac 5.0.26](https://web.archive.org/details/tipard-hd-converter-for-mac.html)
 
-Tipard DVD Software Toolkit for Mac can convert...
+Tipard HD Converter for Mac can convert among...
 
-  * [EWDraw CAD Component 15.8.7.3](https://web.archive.org/details/ewdraw-cad-component.html)
+  * [GSA Search Engine Ranker 11.37](https://web.archive.org/details/gsa-search-engine-ranker.html)
 
-EWDraw CAD Component is a powerful vector...
+You will never have to worry about backlinks...
 
-  * [Duplicate Video Remover Free 1.5](https://web.archive.org/details/duplicate-video-remover-free.html)
+  * [Rank Tracker Professional 8.5.3](https://web.archive.org/details/rank-tracker-professional.html)
 
-This small, but very fast program allows you to...
+19 keyword suggestion techniques, 314 search...
 
 
 
 
 ####  Recent Searches
 
-[Genesis 3d](https://web.archive.org/programs/genesis/3d), [Internet Filters Windows 7 Downloads](https://web.archive.org/programs/internet/filters-windows-7-downloads), [Konig Cctv Camera](https://web.archive.org/programs/konig/cctv-camera), [Free Dawnload Sth Vcd Player](https://web.archive.org/programs/free/dawnload-sth-vcd-player), [Encrypted Jpg](https://web.archive.org/programs/encrypted/jpg), [Sam Broad 3](https://web.archive.org/programs/sam/broad-3), [Hitachi Magic Wand %E2%80%8Breviews](https://web.archive.org/programs/hitachi/magic-wand-%e2%80%8breviews), [Wimax Chipset Beceem Bcs5250](https://web.archive.org/programs/wimax/chipset-beceem-bcs5250), [Raster Online Dwg Dxf](https://web.archive.org/programs/raster/online-dwg-dxf), [Haunted Mansion Lord Of The Mirrors](https://web.archive.org/programs/haunted/mansion-lord-of-the-mirrors), [Free Microsoft Encarta Updates](https://web.archive.org/programs/free/microsoft-encarta-updates), [Voice Message Sample](https://web.archive.org/programs/voice/message-sample), [Repair Corrupted Mbr](https://web.archive.org/programs/repair/corrupted-mbr), [Portfolio Management Weight Software](https://web.archive.org/programs/portfolio/management-weight-software), [Hypnotic Screen](https://web.archive.org/programs/hypnotic/screen)
+[Hallmark Card Studio 2007 Download](https://web.archive.org/programs/hallmark/card-studio-2007-download), [New Bible Commentary](https://web.archive.org/programs/new/bible-commentary), [Adobe Air Quiz Maker Output In Flash Exe](https://web.archive.org/programs/adobe/air-quiz-maker-output-in-flash-exe), [A Linda Rosa](https://web.archive.org/programs/a/linda-rosa), [Download Techno Beats](https://web.archive.org/programs/download/techno-beats), [Silversoft Talent](https://web.archive.org/programs/silversoft/talent), [Pdf Reader Plugin For Maxthon Browser](https://web.archive.org/programs/pdf/reader-plugin-for-maxthon-browser), [Ntfs Mft Recovery](https://web.archive.org/programs/ntfs/mft-recovery), [Fingers And Toes Numb](https://web.archive.org/programs/fingers/and-toes-numb), [Toshiba U2m Driver](https://web.archive.org/programs/toshiba/u2m-driver), [Tbil Convertor](https://web.archive.org/programs/tbil/convertor), [Downloads Pic App](https://web.archive.org/programs/downloads/pic-app), [Network Scan Gear](https://web.archive.org/programs/network/scan-gear), [Broadband Daily Usage Meter](https://web.archive.org/programs/broadband/daily-usage-meter), [Foxconn N15235 Vga](https://web.archive.org/programs/foxconn/n15235-vga)
 
 #### Latest Reviews
 
-  * [LoMag Warehouse Management ](https://web.archive.org/details/lomag-warehouse-management.html)   (Sara)
+  * [CCleaner ](https://web.archive.org/details/ccleaner.html)   (Dan Eliasi)
 
-Very good software with a nice and clean using interface! A lot of useful functions for easy warehouse management. 
+CCleaner has helped me a lot. For cleaning your computer it does what it claims to do, as it says it will, unlike some... 
 
-  * [Folx ](https://web.archive.org/details/folx.html)   (Ashley Bay)
+  * [Chameleon Startup Manager Lite ](https://web.archive.org/details/chameleon-startup-manager-lite.html)   (Bryan Wenzel)
 
-Love the way it handles all my downloads, both from regular source and torrent. Never had any issues so far. A must have app! 
+Using this software I removed many start menu items I wasn't even aware of. It seems now my computer boots a lot faster... 
 
-  * [GroupMail :: Free Edition ](https://web.archive.org/details/groupmail----free-edition.html)   (Veer Dave)
+  * [Text to Speech Maker ](https://web.archive.org/details/text-to-speech-maker.html)   (Adiel)
 
-Paid versions are a bit pricy but if you intend to use it for personal use this free version is unbeatable. It has some... 
+Software is usable for basic text to speech making but I wish it had some more voices and a intuitive using interface. 
 
-  * [Auslogics BoostSpeed ](https://web.archive.org/details/auslogics-boostspeed.html)   (Ramon)
+  * [iCash ](https://web.archive.org/details/icash.html)   (Hassan Saleem)
 
-It has lots of tools to optimize your system and internet experience. The interface is very easy to use, you don't need to... 
+I use this software every day to manage my expenses and incomes. It is easy to use and exactly what I wanted with... 
 
-  * [Xilisoft Video Editor ](https://web.archive.org/details/xilisoft-video-editor.html)   (Dan Hock)
+  * [Sublight ](https://web.archive.org/details/sublight.html)   (Bishnu)
 
-I've been looking for a good video editor and after a long time this software ends my suffering. It is a simple but... 
+Never thought there was a program like this until referred from a friend. Works really great. Has some waiting time before... 
 
-  * [Total Software Deployment ](https://web.archive.org/details/total-software-deployment.html)   (Adam)
+  * [Bus Driver ](https://web.archive.org/details/bus-driver.html)   (Abir)
 
-This tool looks promising. As far as I can tell this is the only tool that allows creating deployment packages almost for... 
+The game control is a bit sensitive on my computer but still nice one. Would love to see more levels and routes. 
 
-  * [DocuFreezer ](https://web.archive.org/details/docufreezer.html)   (Tim Eagan)
+  * [Audials Tunebite Platinum ](https://web.archive.org/details/audials-tunebite-platinum.html)   (Serena Miller)
 
-I tried everything else for converting some office files to PDF but this software did it for me. Great product and it's... 
+If you are looking for a legal way to capture online streams from sites like netflix, amazon or music from spotify this... 
 
-  * [Eusing Launcher ](https://web.archive.org/details/eusing-launcher.html)   (Azharee)
+  * [Retail Man POS ](https://web.archive.org/details/retail-man-pos.html)   (Tim Nilsson)
 
-I can easily organize all my desktop shortcut icons using this launcher. Although it works pretty good, icon and font... 
+Excellent POS software. User friendly, powerful and feature rich. Support staffs are very experienced and ready to help. I... 
 
-  * [Free OCR ](https://web.archive.org/details/free-ocr.html)   (Aron Jones)
+  * [EDB Recovery Utility ](https://web.archive.org/details/edb-recovery-utility.html)   (Steven)
 
-Cannot extract images 100% accurately. Replaces some words by unknown characters. I'd say it's accuracy rate is only 40%-45%. 
+Fantastic tool to access data from your inaccessible Exchange Server mailboxes. I am so impressed with the software's... 
 
-  * [DocPad ](https://web.archive.org/details/docpad.html)   (Hana Sawy)
+  * [GlassWire Free Firewall ](https://web.archive.org/details/glasswire-free-firewall.html)   (Chris Hong)
 
-I like the Docpad's using interface and features, especially spell checker and built in text speaker which I needed most.... 
+This firewall software is very reliable and user friendly to use. constantly monitors my network activity and instantly... 
 
 
   
