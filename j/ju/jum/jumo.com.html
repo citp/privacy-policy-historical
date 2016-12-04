@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the jumo.com privacy policy that was archived on 2013-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601042124id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jumo.com privacy policy that was archived on 2016-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161204085954id_/http%3A//www.globalgiving.co.uk/aboutus/privacypol.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
-	<title>Privacy Policy - GlobalGiving</title>  
+	<title>Privacy &amp; Cookies Policy - GlobalGiving.co.uk</title>  
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 
@@ -11,15 +11,26 @@
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 <meta http-equiv="Content-Style-Type" content="text/css">
 
+<title>Privacy &amp; Cookies Policy - GlobalGiving.co.uk</title>
 
-    <meta property="og:image" content="http://www.globalgiving.org/img/logos/gg_stacked_color_small.jpg">
+    <meta property="og:image" content="http://www.globalgiving.org/img/logos/gg_white_over_orange_pixel_1200.png">
 
 
-<link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">  
-
+<link rel="apple-touch-icon" sizes="60x60" href="https://d3lmeboybbrqpp.cloudfront.net/favicon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://d3lmeboybbrqpp.cloudfront.net/favicon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://d3lmeboybbrqpp.cloudfront.net/favicon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://d3lmeboybbrqpp.cloudfront.net/favicon/apple-touch-icon-180x180.png">
+<meta name="apple-mobile-web-app-title" content="GlobalGiving">
+<link rel="icon" type="image/png" href="https://d3lmeboybbrqpp.cloudfront.net/favicon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://d3lmeboybbrqpp.cloudfront.net/favicon/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://d3lmeboybbrqpp.cloudfront.net/favicon/favicon-32x32.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#9f00a7">
+<meta name="msapplication-TileImage" content="https://d3lmeboybbrqpp.cloudfront.net/favicon/mstile-144x144.png">
+<meta name="application-name" content="GlobalGiving">	
+	
 <!-- ****** STYLESHEETS ***** -->
-<link href="/css/styles.css" rel="stylesheet" type="text/css">   
-
+ <link href="/css/styles.css" rel="stylesheet" type="text/css">   
+ 
 <!-- patches so that they are available if necessary, empty so far --> 
 <!--[if lte IE 8]>
 <link href="/css/patches/ie_patch.css" rel="stylesheet" type="text/css"/>
@@ -32,30 +43,47 @@
 <![endif]--> 
 
 <!-- ****** JAVASCRIPT ***** -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascript/commonScripts.js"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/javascript/commonScripts.js"></script>
 
-<!-- *** GOOGLE ANALYTICS TRACKING CODE ***-->    
-<!-- Async Tracking Code - http://code.google.com/intl/en-US/apis/analytics/docs/tracking/asyncTracking.html -->
+<!-- ****** OPTIMIZELY EXPERIMENT SCRIPT ***** -->
+<script src="//cdn.optimizely.com/js/536843844.js"></script>
 <script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-1836649-1']);
-  _gaq.push(['_trackPageview']);
-  _gaq.push(['_trackPageLoadTime']); // note: only works in HTML5 browsers (Chrome & IE 9+ as of May 2011)
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-  
-  // Client Side Error Tracking - GGL-4221
-  window.onerror = function(message, file, line) { 
-     var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message; 
-     _gaq.push(['_trackEvent', 'Errors', 'Browser', sFormattedMessage, null, true]);
-  }
+   window.optimizely = window.optimizely || { data : { experiments: [ ] }} 
+   if (window.optimizely != undefined && window.optimizely.data != undefined && window.optimizely.data.experiments != undefined) {
+         for (experiment_id in window.optimizely.data.experiments){
+            variation  = window.optimizely.data.state.variationNamesMap[experiment_id];
+            if (variation != undefined){
+               experiment = window.optimizely.data.experiments[experiment_id].name.replace(/[\s,;=]/g, '_');
+               variation = variation.replace(/[\s,;=]/g, '_');
+               setCookie('abtest_optimizely_' + experiment, variation, 365, '/');
+         	}
+      	}
+   }
 </script>
 
 
+<!-- *** GOOGLE ANALYTICS TRACKING CODE ***-->    
+<!-- Google Universal Analytics -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-11171496-1', {'cookieDomain': 'globalgiving.co.uk', 'siteSpeedSampleRate': 100} );
+  ga('require', 'displayfeatures');
+  ga('require', 'linkid', 'linkid.js');
+  // Optimizely Universal Analytics Integration
+  window.optimizely = window.optimizely || [];
+  window.optimizely.push("activateUniversalAnalytics");
+  ga('send', 'pageview');
+  
+  // JS error tracking
+  window.onerror = function(message, file, line) { 
+     var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message; 
+     ga('send', 'exception', { 'exDescription': sFormattedMessage, 'exFatal': false });
+  };
+</script>
 
 
 
@@ -91,7 +119,7 @@
         
         
 
-<body id="pageId_general">
+<body id="pageId_general" class=" ">
 
 	<noscript>
 		<div id="noscript_spacer">
@@ -99,9 +127,11 @@
 		</div>  
 	</noscript> 
 	
-	<div id="headerWrapper" class="headerFooterWrapper">
+	<div id="headerWrapper" class="headerFooterWrapper fullWidth">
+	<div id="elev_priv" style="display:none;">
+	</div>
 
-	<div id="header" class="siteWrapper">
+	<div id="header" class="siteWrapper fullWidth">
 		<div id="border-top">
 		</div>
 
@@ -110,7 +140,7 @@
 				<a id="logoLink" href="/" onclick="trackHeaderClick(this);">GlobalGiving</a>
 			</div> 
             
-			<div id="topnav">
+			<div id="topnav" class="desktopOnly">
 			    
 					<a class="skip" href="#content">Skip to the content</a><span class="hideme">.</span>
 
@@ -118,7 +148,7 @@
 <div id="links">
 	<!--loading arrow-->
 	<div id="loadinglogin" style="display: none;">
-		<img src="/img/animated_gif/loading_arrow.gif" alt="Loading...">
+		<img src="https://d3lmeboybbrqpp.cloudfront.net/img/animated_gif/loading_arrow.gif" alt="Loading...">
 	</div>
 	<!--end loading arrow-->
 
@@ -127,17 +157,17 @@
         
             
         
-		<div id="login_name"></div>
-		<ul>
+		<div id="login_name" class="desktopOnly"></div>
+		<ul onclick="if (document.documentElement.clientWidth < 640) {$(this).children().toggle();}">
 			<li>
-			   <div class="cartItems" onclick="window.location.href = '/dy/cart/view/gg.html?cmd=gcart';" style="cursor:pointer;">
+			   <div class="cartItems desktopOnly" onclick="window.location.href = '/dy/cart/view/uk.html?cmd=gcart';" style="cursor:pointer;">
 			      <div class="redCircle" style="display:none;">
 			         <div class="cartItemsCount">&nbsp;</div>
 		         </div>
 	         </div>
-	         <a href="/dy/cart/view/gg.html?cmd=gcart" class="givingCartLink" onclick="trackHeaderClick(this);">giving cart</a>
+	         <a href="/dy/cart/view/uk.html?cmd=gcart" class="givingCartLink" onclick="trackHeaderClick(this);">giving basket</a>
          </li>
-			<li><a href="/dy/user/view/gg.html?cmd=showprof" class="profile" onclick="trackHeaderClick(this);">my profile</a></li>
+			<li><a href="/dy/user/view/uk.html?cmd=showprof" class="profile" onclick="trackHeaderClick(this);">my profile</a></li>
 			<li><a href="javascript:void(0);" onclick="Logout();" class="logout">logout</a></li>
 		</ul>
 	</div>  
@@ -147,15 +177,15 @@
 	<div id="nologindiv" style="display: inline;">
 		<ul>
 			<li>
-            <div class="cartItems" onclick="window.location.href = '/dy/cart/view/gg.html?cmd=gcart';" style="cursor:pointer;">
+            <div class="cartItems desktopOnly" onclick="window.location.href = '/dy/cart/view/uk.html?cmd=gcart';" style="cursor:pointer;">
                <div class="redCircle" style="display:none;">
                   <div class="cartItemsCount">&nbsp;</div>
                </div>
             </div>
-			   <a href="/dy/cart/view/gg.html?cmd=gcart" class="givingCartLink" onclick="trackHeaderClick(this);">giving cart</a>
+			   <a href="/dy/cart/view/uk.html?cmd=gcart" class="givingCartLink" onclick="trackHeaderClick(this);">giving basket</a>
 		   </li>
-			<li><span id="signupRef"><a href="/dy/v2/login/form.html?show=createAccount&amp;andthen=https%3A//web.archive.org/web/20130601042124id_/http%253A//www.globalgiving.org/aboutus/privacypol.html" class="profile">create an account</a></span></li>
-			<li><span id="loginRef"><a href="/dy/v2/login/form.html?andthen=https%3A//web.archive.org/web/20130601042124id_/http%253A//www.globalgiving.org/aboutus/privacypol.html" class="login">login</a></span></li>
+			<li><span id="signupRef"><a href="/dy/v2/login/form.html?show=createAccount&amp;andthen=https%3A//web.archive.org/web/20161204085954id_/http%253A//www.globalgiving.co.uk/aboutus/privacypol.html" class="profile">create an account</a></span></li>
+			<li><span id="loginRef"><a href="/dy/v2/login/form.html?andthen=https%3A//web.archive.org/web/20161204085954id_/http%253A//www.globalgiving.co.uk/aboutus/privacypol.html" class="login">login</a></span></li>
 		</ul>
 	</div> 
 	<!--end login area-->
@@ -163,9 +193,6 @@
 			    
 			</div>
 
-            <!-- Gift Card Holiday Callout -->
-		    
-    		    
 		    
 
 			<div id="nav"> 
@@ -215,27 +242,27 @@
 
 
  
-<div id="global_nav" class="about">
-	<div id="birdDiv" class=""> 
+<div id="global_nav" class="desktopOnly about">
+	<div id="birdDiv" class="desktopOnly"> 
 		&nbsp;
 	</div> 
 	<!--************* TABS *************-->
 	<ul id="global_nav_ul">
 		<li id="donors">
-			<a href="/index.html" onclick="trackHeaderClick(this);">Donors</a>
+			<a href="/index.html">Donors</a>
 		</li>
 		<li id="nonprofits">
-			<a href="/non-profits/" onclick="trackHeaderClick(this);">Non-Profits</a>
+			<a href="/non-profits/">Non-Profits</a>
 		</li>
 		<li id="corporate">
-			<a href="/corporate-partners/" onclick="trackHeaderClick(this);">Corporate Partners</a>
+			<a href="/corporate-partners/">Corporate Partners</a>
 		</li>
 		<li id="about">
-			<a href="/aboutus/" onclick="trackHeaderClick(this);">About</a>
+			<a href="/aboutus/">About</a>
 		</li>
 	</ul>
 </div>
-<div id="nav_about" class="aboutusHome">		
+<div id="nav_about" class="desktopOnly aboutusHome">		
         <!-- turn the correct subnav on -->
 		
 			
@@ -244,13 +271,13 @@
 		<!--************* DONOR NAV *************-->
 		<ul id="ul_donors" style="display:none;">
 		<li id="find">
-			<a href="/dy/v2/content/browse.html" onclick="trackHeaderClick(this);">Find a Project</a>
+			<a href="/dy/v2/content/browse.html">Find a Project</a>
 		</li>
 		<li id="gifts">
-			<a href="/gifts/" onclick="trackHeaderClick(this);">Gift Cards</a>
+			<a href="/gifts/">Gift Cards</a>
 		</li>
 		<li id="getInvolved">
-			<a href="/get-involved/" onclick="trackHeaderClick(this);">Get Involved</a>
+			<a href="/get-involved/">Get Involved</a>
 		</li>
 		</ul>
 		
@@ -258,48 +285,44 @@
 
 		<ul id="ul_nonprofits" style="display:none;">
 		<li id="features">
-			<a href="/non-profits/features-and-benefits/" onclick="trackHeaderClick(this);">Features &amp; Benefits</a>
+			<a href="/non-profits/features-and-benefits/">Features &amp; Benefits</a>
 		</li>
 		<li id="join">
-			<a href="/non-profits/join-globalgiving/" onclick="trackHeaderClick(this);">Join GlobalGiving</a>
+			<a href="https://www.globalgiving.org/dy/v2/pe/application/partner/uk/start.html">Join GlobalGiving</a>
 		</li>
 		<li id="manage">
-			<a href="/dy/v2/pe/dashboard/overview.html" onclick="trackHeaderClick(this);">Manage Project(s)</a>
+			<a href="/dy/v2/pe/dashboard/overview.html">Manage Project(s)</a>
 		</li>
 		<li id="tools">
-			<a href="http://tools.blog.globalgiving.org/" onclick="trackHeaderClick(this);">Tools &amp; Training</a>
+			<a href="http://blog-globalgiving.co.uk/" target="_blank">Tools &amp; Training</a>
 		</li>
 		</ul>
 		<!--************* CORPORATE PARTNER NAV *************-->
 		
 		<ul id="ul_corporate" style="display:none;">
 		<li id="services">
-			<a href="/corporate-partners/services-we-offer" onclick="trackHeaderClick(this);">Services We Offer</a>
-		</li>
-		<li id="currentPartners">
-			<a href="/corporate-partners/current-partners/" onclick="trackHeaderClick(this);">Current Partners</a>
-		</li>
-		<li id="giftcards">
-			<a href="/corporate-partners/order-gift-cards" onclick="trackHeaderClick(this);">Order Gift Cards</a>
+			<a href="/corporate-partners/">Services We Offer</a>
 		</li>
 		<li id="corportateContactus">
-			<a href="/corporate-partners/contact-us/" onclick="trackHeaderClick(this);">Contact Us</a>
+			<a href="/corporate-partners/contact-us/">Contact Us</a>
 		</li>
 		</ul>
 		<!--************* ABOUT US NAV *************-->
 		
 		<ul id="ul_about" style="display:block;"> 
 		<li id="howitworks">
-			<a href="/howitworks.html" onclick="trackHeaderClick(this);">How It Works</a>
+			<a href="/howitworks.html">How It Works</a>
 		</li>
 		<li id="team">
-			<a href="/aboutus/bios.html" onclick="trackHeaderClick(this);">Our Team</a>
+			<a href="/aboutus/bios.html">Our Team</a>
 		</li>
+		<!--
 		<li id="jobs">
-			<a href="/aboutus/jobs/" onclick="trackHeaderClick(this);">Jobs</a>
+			<a href="/aboutus/jobs/">Jobs</a>
 		</li>
+		-->
 		<li id="contactus">
-			<a href="/contactus/" onclick="trackHeaderClick(this);">Contact Us</a>
+			<a href="/contactus/">Contact Us</a>
 		</li>
 		</ul>
 		
@@ -317,7 +340,7 @@
 </div>
 
 <!--sub nav -->
-<div id="sub_menu_div">
+<div id="sub_menu_div" class="desktopOnly">
 	<!--************* DONOR TAB > SUBNAV *************-->
 	
 
@@ -348,8 +371,6 @@
     
     <!--************* CORPORATE PARTERNS > SERVICES WE OFFER > SUBNAV *************-->
         
-    
-    <!--************* CORPORATE PARTERNS > CURRENT PARTNERS > SUBNAV *************-->
     
     
     <!--************* CORPORATE PARTERNS > ORDER GIFT CARDS > SUBNAV *************-->
@@ -382,26 +403,21 @@
 	</div>   
 	
 	<div id="printedLogo" class="onlyPrinted">
-        <a href="/"><img src="https://dpqe0zkrjo0ak.cloudfront.net/img/logos/horz_gglogo_white.png" alt="GlobalGiving" border="0"></a>      
+        <a href="/"><img src="https://d3lmeboybbrqpp.cloudfront.net/img/logos/gg_horizontal_color_300.png" alt="GlobalGiving" border="0"></a>      
     </div>
     
     
 	 
 	<!-- default template -->
-	<div id="siteWrapperDiv" class="siteWrapper">	<!-- START wrapper DIV --> 
-	<div id="whiteMarginBox"> 
-		<div id="mainHeader"><!-- START top  rounded corners-->
-			<div>
-				<div> 
-				</div>
-			</div>
-		</div><!-- END top rounded corners -->
-	<div class="container_12 contentBox"> 
+	<div id="siteWrapperDiv" class="siteWrapper fullWidth">	<!-- START wrapper DIV --> 
+	<div id="whiteMarginBox" class="clear"> 
+       
+	<div class="container_12"> 
     
  		 
 	
 	<div id="breadcrumbs">
-	<a href="/index.html">Home</a>&nbsp;&gt;&nbsp;Privacy Policy
+	<a href="/index.html">Home</a>&nbsp;&gt;&nbsp;Privacy &amp; Cookies Policy
 	</div>
 
 	
@@ -413,88 +429,83 @@
 
 
 
+<!-- Style for the "what are cookie" tables inline -->
+    <style>
+        td.cookie_table {
+            border-width:1px;
+            border-style:solid;
+            margin:10px;
+            padding:10px;
+        }
+    </style>
+
   <div class="grid_12 alpha omega bigText">
-      <h1>GlobalGiving Privacy Policy</h1>
       <p>
-      <img alt="privacy policy banner" src="https://dpqe0zkrjo0ak.cloudfront.net/img/banner_collages/banner_collage2.jpg"> 
+      <img alt="privacy policy banner" src="https://d3lmeboybbrqpp.cloudfront.net/img/banner_collages/banner_collage2.jpg">
     </p>
+        <div class="clear">
+    <a name="privacyPolicy"></a>
+        <h1>Privacy &amp; Cookies Policy</h1>
   <p>
-	GlobalGiving values you and respects your privacy. We collect information to support our 
-	relationship with you, improve our services, and communicate about promotions or special 
-	services. GlobalGiving recognizes that we must maintain and use information responsibly.
+        GlobalGiving values you and respects your privacy. We collect information to support our relationship with you, improve our services, and communicate about
+        promotions or special services.  We recognise that we must maintain and use information responsibly and that comply with any laws and regulations
+        which apply to our use of your personal information (in particular the Data Protection Act 1998).
   </p>
-	<p>   
-	GlobalGiving adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward 
-	Transfer, Security, Data Integrity, and Access and Enforcement.
-	</p>
+
   <p>
-  	<a href="https://safeharbor.export.gov/list.aspx" target="_blank">We self-certify compliance with:</a><br>
-    <a href="http://www.export.gov/safeharbor" target="_blank"><img src="/img/logos/safeharbor.png"></a>  	
-  	
-  </p>  
-
-  <p>This policy describes what personal information we collect and how we use it. You can always 
-	find the most current version of our privacy policy at <a href="/aboutus/privacypol.html">www.globalgiving.org/aboutus/privacypol.html</a>. 
+    This policy describes what personal information we collect and how we use it.  You can always find the most current version of our privacy policy on this page
   </p>
- 
- <div class="yellowCallout">
-<strong>If you have any questions about our privacy policy, please contact us at <script type="text/javascript">mkaddr("privacy")</script><a href="mailto:privacy@globalgiving.org" class="email">privacy@globalgiving.org</a>.</strong> 
-</div>
- </div>
- 
- 
- <div class="grid_4 alpha bigText">
- 	<ul class="noListStyle">
-     <li><a href="#0">Information Collection</a></li>
-	 <li><a href="#1">Creating globalgiving.org Account</a></li>
-	 <li><a href="#2">Making a Donation</a></li>
-	 <li><a href="#3">Gift Cards</a></li>
-	 <li><a href="#3b">Donations in Honor/Memory of Someone</a></li>
-	 <li><a href="#4">Contests, Promotions, and Surveys</a></li>  
-	</ul>
- </div>
-  <div class="grid_4 bigText">
-  	<ul class="noListStyle">
-     <li><a href="#4a">Creating a Fundraiser or Registry</a></li>
-	 <li><a href="#5">Technical Information</a></li>
-	 <li><a href="#5a">Use of Information</a></li>
-	 <li><a href="#6">Disclosure of Information</a></li>
-	 <li><a href="#6a">Information about Children Under 13</a></li>
-	 <li><a href="#7">Viewing and Updating Your Information on GlobalGiving</a></li>
-	</ul>
-  </div>
-  <div class="grid_4 omega  bigText">
-    <ul class="noListStyle"> 	
-     <li><a href="#8">Links to Other Websites</a></li>
-	 <li><a href="#8a">Security</a></li>
-	 <li><a href="#9">Privacy Policy Updates</a></li>
-	 <li><a href="#10">Contact Us</a></li>
-	</ul>
-  </div> 
 
-    <div class="grid_12 alpha omega bigText">
+  <p>
+  </p><ul style="margin-left:160px;">
+  <li><a href="#0">Collection and Use of Personal Information</a></li>
+  <li><a href="#1">Creating a globalgiving.co.uk Account</a></li>
+  <li><a href="#2">Making a Donation</a></li>
+  <li><a href="#3">Gift Certificates</a></li>
+  <li><a href="#4">Contests, Promotions, and Surveys</a></li>
+  <li><a href="#5">What are Cookies</a></li>
+  <li><a href="#6">Disclosure of Personal Information</a></li>
+  <li><a href="#7">Viewing and Updating Your Information on GlobalGiving</a></li>
+  <li><a href="#8">Links to Other Websites</a></li>
+  <li><a href="#9">Privacy Policy Updates</a></li>
+  <li><a href="#10">Contact Us</a></li>
+  </ul>
+  <p></p>
+
+  <p>
+    By accessing or using <a href="/">www.globalgiving.co.uk</a> ('our website'), you agree to be legally bound by this Privacy Policy and our <a href="#terms">Terms and Conditions</a>
+    as they may be modified and posted on our website from time to time.
+  </p>
+
+  <p>
+    If you do not agree to this Privacy Policy then you may not use our website.
+  </p>
+
 
   <h4>
   <a name="0"></a>
-  Information Collection
+  Collection and Use of Personal Information
   </h4>
 
+  <p class="subp_h4">
+We collect personal information when you create an account or edit your account information, donate to a project, or send a gift card.  We also collect some technical information about your use of our website.  This information is used to facilitate your use of the site and your donations, to contact you when necessary, and to improve your experience.
+  </p>
+
   <p>
-	We collect information when you visit our website, create an account, edit your account 
-	information, donate to a project, or send or use a gift card. Some of this information is technical 
-	information that is automatically logged by our servers.   
-</p>
+You authorise us to use, store or otherwise process any personal information which relates to and identifies you, including (but not limited to) your name and address, to the extent reasonably necessary to provide the services which are available through our website by us, our partners, successors (including the purchaser of the whole or part of our business), associates, sub-contractors or other third parties (together our 'Associates').  These Associates may be located in countries outside the EEA that do not have laws to protect your information.  Our primary Associate is GlobalGiving Foundation located in Washington DC in the United States of America.  We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.  Further details of the companies and countries involved in processing your data will be provided on request.
+  </p>
+
+  <p>
+For the purposes of the Data Protection Act 1998, the data controller is GlobalGiving UK (registered company number: 5824642 and registered charity number 1122823, whose registered office is at 6 Great James Street, London, WC1N 3DA, United Kingdom)
+  </p>
 
   <h4>
   <a name="1"></a>
-  Creating a globalgiving.org Account
+  Creating a GlobalGiving.co.uk Account
   </h4>
 
-  <p>
-	When you create an account on our website, we collect basic information about you - your name 
-	and email address. You can choose to provide additional information, such as your mailing 
-	address, a photo, favorite projects, etc., if you create a profile or create a GlobalGiving gift 
-	registry.
+  <p class="subp_h4">
+When you create an account on our website, we collect basic information about you - your name and email address.  We collect additional personal information if you submit a profile or picture, or create a GlobalGiving gift registry.
   </p>
 
   <h4>
@@ -502,245 +513,146 @@
   Making a Donation
   </h4>
 
-  <p>
-	When you make an online donation on globalgiving.org, we collect personal information such 
-	as your name, billing address, and email address, if you have not already provided these details. 
-	We collect information about your donation, including the project you are donating to and the 
-	amount of your donation.  You may choose to provide the email address of friends that you ask 
-	us to notify about your use of the globalgiving.org website. We also collect (but do not retain) 
-	credit card numbers which are processed by a third-party payment vendor subject to the Payment 
-	Card Industry Data Security Standards. If you use PayPal or a similar service, their use of your 
-	information is based on their terms of service and policies, not ours, so we encourage you to 
-	review those policies carefully. 
-
+  <p class="subp_h4">
+When you make an online donation on globalgiving.co.uk, we collect personal information such as your name, billing address, and email address, if you have not already provided these details.  Credit card or bank account numbers are collected by our third-party payment vendor <a href="http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside','Zoom','width=800,height=800,scrollbars=yes,resizable=yes')">PayPal</a>, PayPal's use of your information is based on their terms of service and policies, which you should review.  GlobalGiving will collect only your GlobalGiving account information and donation history.  We do not collect or have access to the credit card numbers or bank account information PayPal collects to process online transactions.
   </p>
 
   <h4>
   <a name="3"></a>
-  Gift Cards
+  Gift Certificates
   </h4>
 
-  <p>
-When you give a GlobalGiving Gift Card, we collect payment and contact information about 
-you, as well as the name, email address, and mailing address of your recipient.  You may create a 
-personal message to the recipient, which is stored on our servers.  Except in the limited 
-circumstances described below, we do not read or use your personal messages.   
+  <p class="subp_h4">
+If you give a GlobalGiving gift certificate, we collect the name, email address, and mailing address of your recipient, as well as a personal message from you.  This information is collected only to facilitate this service and we use it in good faith that the recipient will not object to us using it in this way
   </p>
- <p>
-	If you are the recipient of a GlobalGiving Gift Card, we collect information from you when you 
-	redeem the Card to make a donation.  Please note that we may share this information with the 
-	individual or entity who gave you the gift card. 
-	
-	</p>
-    
-	<h4>
-	  <a name="3b"></a>
-	  Donations in Honor/Memory of Someone
-	  </h4>
-
-	  <p>
-		When you make a donation in honor or memory of a loved one, we collect payment and contact 
-		information about you, as well as the name, email address, and mailing address of the recipient.  
-		You may create a personal message to the recipient, which is stored on our servers.  Except in 
-		the limited circumstances described below, we do not read or use your personal messages. 
-	  </p>
-
 
   <h4>
   <a name="4"></a>
   Contests, Promotions, and Surveys
   </h4>
 
-  <p>
-	Periodically, GlobalGiving may invite you to participate in contests, take advantage of special 
-	promotions, and complete online surveys. If you have created a GlobalGiving account or profile, 
-	information we collect from these contests, promotions, and surveys may be associated with you 
-	personally.  
-
-  </p>   
-
-<h4>
-  <a name="4a"></a>
-  Creating a Fundraiser or Registry
-  </h4>
-
-  <p>
-	When you create a fundraiser or registry on GlobalGiving, we collect information about projects 
-	you propose or wish to support. GlobalGiving notifies the project leader when a fundraiser or 
-	registry is established for their project, but does not share your personal information with the 
-	project leader or the project.  Remember, however, that anything you post on your fundraiser site 
-	will be seen by visitors to the site. 
-  </p>  
-<p>   
-	If you donate to a registry, fundraiser, or giving group, then we will also share your name and the 
-	date and amount of your donation with the person who created the registry, fundraiser, or group.
-	</p>
+  <p class="subp_h4">
+Sometimes GlobalGiving may invite you to participate in contests, take advantage of special promotions, and complete online surveys.  The information we collect from these contests, promotions, and surveys may be associated with your individual account in order to help us improve our website and services.  This information will only be shared as described in this policy, and your answers to surveys will only be used in aggregate.
+  </p>
 
   <h4>
   <a name="5"></a>
-  Technical Information
-  </h4>
-  
-  <p> 
-	Like most websites, our servers automatically collect certain technical information when you 
-	visit our site, including your Internet Protocol address, browser type, browser language, the date 
-	and time of your visit, the referring URL, and, if you have visited our Site before, one or more 
-	cookies that may uniquely identify your browser.   We also collect information about your 
-	activities on the site, such as the pages you access.
-  </p> 
-<p>
-In order to collect this information, the site places a cookie on your hard drive. A “cookie” is a 
-small file containing a string of characters that is sent to your computer when you visit a website. 
-When you visit the website again, the cookie allows that site to recognize your browser. Cookies 
-may store user preferences and other information. You can reset your browser to refuse all 
-cookies or to indicate when a cookie is being sent. However, some website features or services 
-may not function properly without cookies.
-	</p> 
-	
-	<h4>
-  <a name="5a"></a>
-  Use of Information
+  What are Cookies
   </h4>
 
-  <p> 
-	GlobalGiving uses the personal information that you provide, and the technical information 
-	logged by our servers to process your donations, to: 
-	</p>
-	<ul>     
-	  <li>deliver the notifications described above; 
-	</li>   
-	<li>notify your friends and family about the project if you ask us to; 
-	</li>
-	<li>improve your experience (such as remembering your name, the items in your Giving 
-	Cart, or your preferences); 
-	</li>
-	<li>contact you regarding your donation(s) and other aspects of the service; </li>
-	<li>operate the site and our business; and </li>
-	<li>compile aggregate statistics that allow us to understand how visitors use our site, and to 
-	make improvements in design and content to better serve you.</li>
-		</ul>
+  <p class="subp_h4">
+We collect some technical information about how you access and use our site.  Cookies are small files that a website stores on your computer.
+We use cookies to collect information such as what type of browser you are using, the website from which you enter globalgiving.co.uk, and the pages you view as you tour our site.
+We use this information to improve your experience (such as remembering your name or the items in your Giving Basket) and to help us compile aggregate statistics that allow us to make improvements in design and content to better serve you.
+An IP address is a number that is assigned to your computer when you are using the Internet.  Like most websites, we identify your computer by its IP address.
+We use this to monitor information, such as the number of visitors that visit our website.
+  </p>
+  <h4>
+  Cookies used by GlobalGiving
+  </h4>
+  <table style="padding10px;margin-top:10px;margin-left:20px;margin-right:10px;margin-bottom:20px;">
+      <tbody><tr>
+          <td align="center" class="cookie_table" style="width:50%;"><strong>Cookie Name</strong></td><td align="center" class="cookie_table"><strong>Purpose</strong></td>
+      </tr>
+      <tr>
+          <td class="cookie_table">gg_CartId and uk_CartId</td><td class="cookie_table">used to track giving basket</td>
+      </tr>
+      <tr>
+          <td class="cookie_table">Coyote cookie</td><td class="cookie_table">used for load balancing to ensure that a user goes to the same server on subsequent page views</td>
+      </tr>
+      <tr>
+          <td class="cookie_table">JSESSIONID</td><td class="cookie_table">use to track sessions and login status on our website</td>
+      </tr>
+      <tr>
+          <td class="cookie_table">RegGive</td><td class="cookie_table">used to track registry giving</td>
+      </tr>
+      <tr>
+          <td class="cookie_table">ukLoginName and ukHasPERole and uk_rememberme</td><td class="cookie_table">used to track logged in user and determine what options to show on the top right</td>
+      </tr>
+      <tr>
+          <td class="cookie_table">ggRefCode and ukRefCode and ggConversionCode</td><td class="cookie_table">used to track referring site</td>
+      </tr>
+   <tr>
+      <td class="cookie_table">cookieWarningClosed</td><td class="cookie_table">used to track acknowledgment of the cookie warning</td>
+   </tr>
+  </tbody></table>
+  <h4>
+  Cookies used by third parties
+  </h4>
+  <table style="padding10px;margin-top:10px;margin-left:20px;margin-right:10px;margin-bottom:20px;width:97%;">
+      <tbody><tr>
+          <td align="center" class="cookie_table" style="width:50%;"><strong>Cookie Name</strong></td><td align="center" class="cookie_table"><strong>Purpose</strong></td>
+      </tr>
+      <tr>
+          <td class="cookie_table">__u*</td><td class="cookie_table">Google Analytics</td>
+      </tr>
+  </tbody></table>
+  <h4>
+      Managing Cookies
+  </h4>
+  <p class="subp_h4">
+      You can customise your browser's cookie settings to manage what cookies are sent to you or which cookies are set on your computer.
+      For more information about to manage cookies on your web browser vistit <a target="_blank" href="http://www.aboutcookies.org">www.aboutcookies.org</a>.
+  </p>
 
   <h4>
   <a name="6"></a>
   Disclosure of Personal Information
   </h4>
-  
-  <p>
-	We will share your personal information with our agents, representatives, service providers and 
-	contractors in order to process your donations, offer you services in connection with our website, 
-	communicate news and information about GlobalGiving, provide customer service, enhance and 
-	improve customers' donor experiences, and complete financial transactions. These service 
-	providers are authorized to use your information only to the extent necessary to serve these 
-	purposes, or as otherwise authorized by this policy.  
 
-  </p> 
-<p> 
-	Unless you ask us not to, we also share your personal information when you make a donation: 
-	</p>
-	<ul>
-		<li>When you donate to a registry, fundraiser, or giving group, we share your name and the 
-		date and amount of your donation with the person who created the fundraiser, registry, or 
-		group.</li>
-		<li>When you make a donation that is part of a campaign sponsored by your employer, and/or
-		when your employer is being asked to match your donation, we will share your name, email address
-		and the amount of you donation with your employer.</li>
-		<li>When you donate to a project, we share your name and contact information and the 
-		amount of your donation with the project leader.</li>
-		<li>Each time you make a donation, however, we will give you the opportunity to tell us not 
-		to share your personal information in the ways described above (except in the case of employer
-		matched donations).</li>
-	</ul> 
-	<p> If GlobalGiving merges with, or becomes an affiliate of another organization, we will ensure the 
-	confidentiality of any personal information involved in such transactions and provide notice 
-	before personal information is transferred and becomes subject to a different privacy policy.
-		</p>  
-		<p>Aside from the purposes described above, we will not disclose your personal information without 
-		your consent, unless: (1) we need to respond to a subpoena, court order or legal process; (2) an 
-		emergency situation requires disclosure before your permission can be obtained (e.g., situations 
-		involving potential threats to personal safety), or; (3) we determine that disclosure is needed to 
-		protect our rights or property, or the rights or property of another person.</p>
-		<p>We may share aggregated demographic and statistical information with our other partners. This 
-		is not linked to any personal information that can identify any individual person.  
-		</p>
-
-  		 <h4>
-		  <a name="6a"></a>
-		  Information about Children Under 13
-		  </h4>
-
-		  <p>
-			GlobalGiving.org is a general audience website, and does not collect information about a 
-			visitor's age. We do, from time to time, partner with other organizations to educate children 
-			about philanthropy in general and our work in particular.  In those cases, we do not collect 
-			personal information from a visitor on pages specifically designed for children.
-		  </p>
-
-  <h4>
-  <a name="7"></a>
-  Viewing and Updating Your Information on globalgiving.org
-  </h4>
-
-  <p>You can access your account information at any time by going to the My Account page. You can 
-make changes to your information and update your account at any time.
+  <p class="subp_h4">
+We will share your personal information with our agents, representatives, service providers and contractors in order to process your donations, offer you services in connection with our website, communicate news and information about GlobalGiving, provide customer service, enhance and improve customers' donor experiences, and complete financial transactions.   If you tell us you are a UK tax payer and ask us to collect Gift Aid on your donations, we may  share your personal information with HM Revenue and Customs in order to process Gift Aid claims.
   </p>
 
   <p>
-	You can also unsubscribe from GlobalGiving communications at any time by sending an 
-	unsubscribe email as described at the bottom of every GlobalGiving communications, or by 
-	updating your subscriptions on the My Account page.
-  </p>   
-<p>
-	When you create an account or profile on globalgiving.org, you can decide whether to make 
-	some or all of that information public or private.  You can change your choices at any time using 
-	the My Profile page.   Please note, however, that your preferences do not affect the disclosures to 
-	project leaders, or fundraisers, or giving group leaders.  So, for example, if you make a donation 
-	to a fundraiser, then we will display your name and date of your donation on the fundraiser 
-	regardless of your settings. Likewise, if you contribute to a project, we will share your name and 
-	contact information with the project leader.  In each case we will give you the opportunity to tell 
-	us not to disclose your personal information with the project leader, or publish it on the web site 
-	or in our annual report.</p>
+These third parties are provided with your information only to the extent necessary to serve these purposes, or as otherwise authorised by this policy.
+</p>
+
+  <p>
+Aside from the purposes described above, we will not disclose your personal information only in accordance with the Data Protection Act 1998, for insurance when we are legally obliged to do so, or we consider that an emergency situation requires disclosure before your permission can be obtained (e.g., situations involving potential threats to personal safety), or to protect our rights or property, or the rights or property of another person.
+  </p>
+
+  <p>
+We may share aggregated demographic and statistical information with our other partners. This will not be linked to any personal information that can identify any individual person.
+  </p>
+
+  <p>
+If (with your consent) we pass on your personal details to projects or organisations that you choose to support using our website, we are not responsible for the subsequent use of your personal information by those projects or organisations.  You should contact them directly if you wish to stop receiving further communications from them.  As with our Associates, these projects and organisations may be located in countries outside the EEA that do not have laws to protect your information.
+  </p>
+
+  <h4>
+  <a name="7"></a>
+  Viewing and Updating Your Information on globalgiving.co.uk
+  </h4>
+
+  <p class="subp_h4">
+You can access your account information at any time by going to the My Account page.  You can make changes to your information and update your account at any time.
+  </p>
+
+  <p>
+You also can unsubscribe from a GlobalGiving newsletter at any time by sending an unsubscribe email as described at the bottom of every GlobalGiving newsletter, or by updating your newsletter subscriptions on the My Account page.
+  </p>
 
   <h4>
   <a name="8"></a>
   Links to Other Websites
   </h4>
 
-  <p>
-	Other websites, including those of our partners (links to which appear on globalgiving.org), 
-	have their own privacy policies. When you provide personal information at one of those sites, 
-	you are subject to the privacy policy of the operator of that site, not the GlobalGiving privacy 
-	policy. We encourage you to read that policy before submitting any personal information.  
-
+  <p class="subp_h4">
+Other websites, including those of our partners (links to which appear on globalgiving.co.uk), have their own privacy policies.  When you provide personal information at one of those sites, you are subject to the privacy policy of the operator of that site, not the GlobalGiving privacy policy.  We encourage you to read that policy before submitting any personal information.
   </p>
 
   <p>
-	You should take additional steps to safeguard your personal information online. To learn more 
-	about how to protect yourself, visit the <a href="http://www.ftc.gov" target="_blank">Federal Trade Commission website</a>.
+We recommend that you take all appropriate steps to safeguard your personal information online.
   </p>
-  
-	 <h4>
-	  <a name="8a"></a>
-	  Security
-	  </h4>
-
-	  <p>
-		GlobalGiving understands the importance of keeping your information secure and confidential.  
-		We have implemented policies and procedures designed to help safeguard your information.  
-		When you make a donation, information about your credit card, Paypal account, or bank is 
-		transmitted using SSL. 
-	
-	  </p>
 
   <h4>
   <a name="9"></a>
   Privacy Policy Updates
   </h4>
 
-  <p>
-	Our privacy policy is regularly reviewed to make sure we continue to serve the privacy interests 
-	of our customers. If our information practices change materially, we will post the policy changes 
-	on the privacy page of this website to notify you of these changes. Please check our website 
-	periodically for more information on how we use the data we collect.
+  <p class="subp_h4">
+Our privacy policy is regularly reviewed to make sure we continue to serve the privacy interests of our customers.  If our information practices change materially, we will post the policy changes on the privacy page of this website to notify you of these changes.  Please check our website periodically for more information on how we use the data we collect.
   </p>
 
   <h4>
@@ -748,153 +660,124 @@ make changes to your information and update your account at any time.
   Contact Us
   </h4>
 
-  <p>
-	You may contact us by using the “Contact Us” links on the footer of our site. We try to reply 
-	promptly to every message we receive. This information is used to respond directly to your 
-	questions or comments. We also may file your comments and share them with our customer care 
-	team to improve our service in the future.
+  <p class="subp_h4">
+If you contact us by using the "Contact Us" links on the footer of our site, we will try to reply promptly to every message we receive.  This information is used to respond directly to your questions or comments.  We also may file your comments and share them with our customer care team to improve our service in the future.
   </p>
 
   <p>
-    If you still have questions or concerns regarding our privacy policy write us at:  
+If you still have questions or concerns regarding our privacy policy, or would like to review the information we hold about you, please email us at <script type="text/javascript" language="javascript">mkaddr('ukinfo')</script><a href="mailto:ukinfo@globalgiving.org" class="email">ukinfo@globalgiving.org</a> or write us at GlobalGiving UK, 6 Great James Street, London, WC1N 3DA, United Kingdom.
   </p>
 
-  <p>
-  GlobalGiving<br> 
-  <script type="text/javascript" language="JavaScript">
-  mkaddr("privacy","Privacy Policy Inquiry");
-  </script><a href="mailto:privacy@globalgiving.org" class="email">privacy@globalgiving.org</a>
-  <br>1023 15th Street, NW
-<br>12th Floor
-<br>Washington, DC 20005
-<br>USA<br>
-  <br>Phone: 202-232-5784
-<br>Toll Free: 1-877-605-2314
-<br>Fax: 202-315-2558 
 
-  </p>
-  
-  <div class="yellowCallout">
-<strong>If you have any questions about our privacy policy, please contact us at <script type="text/javascript">mkaddr("privacy")</script><a href="mailto:privacy@globalgiving.org" class="email">privacy@globalgiving.org</a>.</strong> 
-</div>
-  
-  <div class="pushTop10">
-  <p>
-  Last Modified:  2011/04/20
-  </p> 
-  </div>
 </div>
 
   
+<div class="clear"></div>
 </div> <!-- END container 12 for content -->
-<div id="mainFooter"><!-- START bottom  rounded corners-->
-	<div>
-		<div>
-		</div>
-	</div>
-</div><!-- END bottom  rounded corners-->
 </div> <!-- end white margin box --> 
+
 </div><!-- END wrapper DIV -->
-  
 
-<div id="footerWrapper" class="headerFooterWrapper">
-	<div id="footer" class="siteWrapper">
-        
-    		<div class="footerLine">
-	&nbsp;
-</div> 
-
-<div id="footerLinks">  
+      
+<div id="footerWrapper" class="headerFooterWrapper fullWidth desktopOnly">
+	<div id="footer" class="siteWrapper fullWidth">
+      <div class="footerLine">
+         &nbsp;
+      </div> 
+      
+     
+ 		<div id="footerLinks">  
 	<div class="container_12"> 
-		<div class="grid_12 alpha omega zeta">
+		<div class="grid_12 alpha omega">
 			<div class="grid_2 alpha">
 				<ul class="footText">
-					<li class="footTitle"><a href="/aboutus/" onclick="trackFooterClick(this);">About Us</a></li>
-					<li><a href="/aboutus/" onclick="trackFooterClick(this);">How it Works</a></li>
-					<li><a href="/aboutus/jobs/" onclick="trackFooterClick(this);">Jobs &amp; Internships</a></li>
-					<li><a href="/aboutus/bios.html" onclick="trackFooterClick(this);">Our Team</a></li>
-                    <li><a href="/aboutus/privacypol.html" onclick="trackFooterClick(this);">Privacy Policy</a></li>
-                    <li><a href="/aboutus/terms-of-service.html" onclick="trackFooterClick(this);">Terms of Service</a></li>
+					<li class="footTitle"><a href="/aboutus/" onclick="trackFooterClick(this)" ;="">About Us</a></li>
+					<li><a href="/howitworks.html" onclick="trackFooterClick(this)" ;="">How it Works</a></li>
+					<li><a href="/volunteer/" onclick="trackFooterClick(this)" ;="">Jobs and Internships</a></li>
+					<li><a href="/aboutus/bios.html" onclick="trackFooterClick(this)" ;="">Our Team</a></li>
+               <li><a href="/aboutus/privacypol.html" onclick="trackFooterClick(this)" ;="">Privacy Policy</a></li>
+               <li><a href="/aboutus/terms-of-service.html" onclick="trackFooterClick(this)" ;="">Terms of Service</a></li>
 				</ul>
 			</div>
 
 			<div class="grid_2">
 				<ul class="footText"> 
-					<li class="footTitle"><a href="/non-profits/join-globalgiving/" onclick="trackFooterClick(this);">Post A Project</a></li> 
-					<li><a href="/non-profits/join-globalgiving/" onclick="trackFooterClick(this);">Add Your Project</a></li>
-					<li><a href="/non-profits/join-globalgiving/recommend.html" onclick="trackFooterClick(this);">Recommend a Project</a></li>
-					<li><a href="/non-profits/features-and-benefits/" onclick="trackFooterClick(this);">Features &amp; Benefits</a></li>
-					<li><a href="http://tools.blog.globalgiving.org/" onclick="trackFooterClick(this);">Tools &amp; Training</a></li>
-					<li><a href="/project-leader-manual/" onclick="trackFooterClick(this);">Project Leader Manual</a></li>
+					<li class="footTitle"><a href="https://www.globalgiving.org/dy/v2/pe/application/partner/uk/start.html" onclick="trackFooterClick(this)" ;="">Post A Project</a></li> 
+					<li><a href="https://www.globalgiving.org/dy/v2/pe/application/partner/uk/start.html" onclick="trackFooterClick(this)" ;="">Add Your Project</a></li>
+                    <li><a href="/non-profits/features-and-benefits/" onclick="trackFooterClick(this)" ;="">Features &amp; Benefits</a></li>
+					<li><a href="http://tools.blog.globalgiving.org/" onclick="trackFooterClick(this)" ;="">Tools and Training</a></li>
+					<li><a href="https://www.globalgiving.org/dy/v2/pe/application/partner/uk/start.html" onclick="trackFooterClick(this)" ;="">How To Join</a></li>
+					<li><a href="/donation-and-disbursement-process/" onclick="trackFooterClick(this)" ;="">Fees &amp; Disbursements</a></li>
 				</ul>
 			</div>
 
 			<div class="grid_2">
 				<ul class="footText">
-					<li class="footTitle"><a href="/dy/v2/content/browse.html" onclick="trackFooterClick(this);">Ways To Give</a></li>
-					<li><a href="/dy/v2/content/browse.html" onclick="trackFooterClick(this);">Donate to a Project</a></li>
-					<li><a href="/gifts/" onclick="trackFooterClick(this);">Gift Cards</a></li>
-					<li><a href="/project-of-the-month-club/" onclick="trackFooterClick(this);">Project of the Month Club</a></li>
-					<li><a href="/gifts/inhonor.html" onclick="trackFooterClick(this);">Donate In Honor</a></li>
-					<li><a href="http://www.globalgiving.co.uk/" onclick="trackFooterClick(this);">GlobalGiving UK</a></li>
+					<li class="footTitle"><a href="/dy/v2/content/browse.html" onclick="trackFooterClick(this)" ;="">Ways To Give</a></li>
+					<li><a href="/dy/v2/content/browse.html" onclick="trackFooterClick(this)" ;="">Donate to a Project</a></li>
+					<li><a href="/gifts/" onclick="trackFooterClick(this)" ;="">Gift Cards</a></li>
+					<li><a href="/gifts/inhonor.html" onclick="trackFooterClick(this)" ;="">Donate In Honour</a></li>
+					<li><a href="/dy/v2/fundraiser-new/type" onclick="trackFooterClick(this)" ;="">Fundraisers</a></li>
+					<li><img src="https://d3lmeboybbrqpp.cloudfront.net/img/flags/us.gif" alt="US Flag" style="width:16px; height:11px"> <a href="https://www.globalgiving.org/" onclick="trackFooterClick(this)" ;="">GlobalGiving.org</a></li>
 				</ul>
 			</div>
-			<div class="grid_2 ">
+			<div class="grid_2">
 				<ul class="footText">
-					<li class="footTitle"><a href="/get-involved/" onclick="trackFooterClick(this);">Help &amp; Info</a></li>
-                    <li><a href="/help.html" onclick="trackFooterClick(this);">Help</a></li>
-                    <li><a href="/contactus/" onclick="trackFooterClick(this);">Contact Us</a></li>
-					<li><a href="/guaranteed/" onclick="trackFooterClick(this);">Satisfaction Guaranteed</a></li>
-					<li><a href="/aboutus/media/" onclick="trackFooterClick(this);">In the News</a></li>
-					<li><a href="/api/" onclick="trackFooterClick(this);">API &amp; Open Data</a></li>
+					<li class="footTitle"><a href="/help.html" onclick="trackFooterClick(this)" ;="">Help and Info</a></li>
+               <li><a href="/help.html" onclick="trackFooterClick(this)" ;="">Help &amp; FAQ</a></li>
+               <li><a href="/contactus/" onclick="trackFooterClick(this)" ;="">Contact us</a></li>
+               <li><a href="/seeresults.html" onclick="trackFooterClick(this)" ;="">Our Impact to Date</a></li>
+               <li><a href="http://blog-globalgiving.co.uk/">Blog</a></li>
+					<li><a href="/api/" onclick="trackFooterClick(this)" ;="">API and Open Data</a></li>
 				</ul>
 			</div>
-			
-			<div class="grid_4 zeta omega">
-    			<div class="grid_4 alpha omega zeta pushTop10">
-                    <a href="/contactus/" class="contactus" onclick="trackFooterClick(this);">Contact us <u>online</u></a> or call us at 1-202-232-5784 
-                </div>
-				
-    			<div class="grid_4 alpha omega zeta pushTop20 center">
-					<div class="trustIndicators">
-						<a href="http://www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=11648" onclick="trackFooterClick(this);" target="_blank" class="sprite-charityNavigator">Four Star Rating on Charity Navigator</a>
-						<a href="http://www.bbb.org/charity-reviews/national/other/globalgiving-foundation-in-washington-dc-3204" onclick="trackFooterClick(this);" target="_blank" class="sprite-bbb">BBB Accredited Charity</a>
-					</div>
-					
-		            <div class="socialIcons">
-		                <a href="http://www.facebook.com/GlobalGiving" onclick="trackFooterClick(this);" target="_blank" class="sprite-facebook">Like GlobalGiving</a>
-		                <a href="http://www.twitter.com/GlobalGiving" onclick="trackFooterClick(this);" target="_blank" class="sprite-twitter">Follow @GlobalGiving</a>
-		            </div>
-				</div>
-			</div>
-		</div>
-		
-		<div class="grid_12 alpha omega center">
-			<div class="newsletterSignup">
-                <div class="footLogoTitle" style="margin-right: 10px;"><a href="/newsletter/" onclick="trackFooterClick(this);">Subscribe to Our Newsletter</a></div> 
-                <form action="http://globalgiving.us1.list-manage1.com/subscribe/post?u=3cd22f53c66be5c139fe0dc7a&amp;id=7bd2052374" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" onsubmit="_gaq.push(['_trackEvent', 'Newslettler', 'Email Submitted']);">                     
-                    <div class="ctrlHolder">    
-                    <input type="text" value="e-mail" name="EMAIL" class="required email" size="35" maxlength="200" id="mce-EMAIL" style="color: #777777; padding: 2px; vertical-align: middle;" onclick="clearEmail(this);" onfocus="clearEmail(this);" onblur="fillEmail(this);"> 
-                    <input type="image" src="/img/buttons/sign_up_footer.gif" name="submitbutton" value="Submit" style="position: relative; bottom: 2px; vertical-align: middle; margin-top: 2px;">
-                    </div> 
-                </form>
+			<div class="grid_4 omega zeta">
+            <div class="grid_4 alpha omega zeta pushTop10">
+               <a href="/contactus/" class="contactus" onclick="trackFooterClick(this);">Contact us <u>online</u> or call us at +44 (0)207 242 8079</a>
             </div>
-            
-		</div>
+            <div class="grid_4 alpha omega zeta pushTop20 center">
+               <div id="footerIcons1">
+                        <a href="http://www.dfid.gov.uk"><img src="https://d3lmeboybbrqpp.cloudfront.net/img/navigation/footer/dfid_100.png" alt="DFID"></a>
+               </div>
+               <div id="footerIcons2">
+                  <a href="http://www.nominettrust.org.uk/"><img src="https://d3lmeboybbrqpp.cloudfront.net/img/navigation/footer/nominet_100.png" alt="Nominet Trust"></a><br>
+                  <a href="https://www.cafonline.org/charitysearch/Global-Giving-UK/CCRegNo1122823"><img src="https://d3lmeboybbrqpp.cloudfront.net/img/navigation/footer/CAF-footer_logo_sml.jpg" width="100" alt="CAF" style="border:6px solid white; margin-top:10px;"></a>
+               </div>
+               <div id="footerIcons3">
+                  <a href="http://www.twitter.com/GlobalGivingUK" onclick="trackFooterClick(this);" target="_blank" class="sprite-social sprite-twitter">Follow @GlobalGiving</a><br>
+                  <a href="http://www.facebook.com/GlobalGivingUK" onclick="trackFooterClick(this);" target="_blank" class="sprite-social sprite-facebook">Like GlobalGiving</a><br>
+                  <a href="http://www.pinterest.com/globalgivinguk" onclick="trackFooterClick(this);" target="_blank" class="sprite-social sprite-pinterest">Follow GlobalGiving</a>
+               </div>
+            </div>
+			</div>
 		
-		<div class="grid_12 alpha omega center smallText">
-			<!-- Site Uptime Warning: GG.org looks for the EIN. If you edit the text, change settings in Site Uptime-->
-            <a href="/aboutus/">© 2000-2013 GlobalGiving Foundation, a 501(c)3 organization (EIN: 30-0108263)</a>. &nbsp;&nbsp;&nbsp; <a href="/contactus/">1023 15th Street, NW, 12th Floor, Washington, DC 20005</a><br>
-        </div>
-        
-	</div>
-	<div class="clear">&nbsp;</div>
+         <div class="grid_12 alpha omega center">
+            <div class="newsletterSignup">
+               <div class="footLogoTitle" style="margin-right: 10px;">Subscribe to Our Newsletter</div> 
+                  <form action="//globalgiving.us1.list-manage.com/subscribe/post?u=3cd22f53c66be5c139fe0dc7a&amp;id=2b5040d4b3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" onsubmit="ga('send', 'event', 'Newsletter', 'Email Submitted', {'nonInteraction': 1});">                     
+                     <div class="ctrlHolder">
+                        <input type="text" value="e-mail" name="EMAIL" class="required email" size="35" maxlength="200" id="mce-EMAIL" style="color: #777777; padding: 2px; vertical-align: middle;" placeholder="you@example.com"> 
+                        <input type="image" src="https://d3lmeboybbrqpp.cloudfront.net/img/buttons/sign_up_footer.gif" name="submitbutton" value="Submit" style="position: relative; bottom: 2px; vertical-align: middle; margin-top: 2px;">
+                     </div> 
+                  </form>
+               </div>
+            </div>
+         
+            <div class="grid_12 alpha omega center smallText">
+            <!-- Site Uptime Warning: GG.org looks for the Registered Charity number. If you edit the text, change settings in Site Uptime-->
+               <a href="/aboutus/">© 2000-2016 GlobalGiving Foundation, (UK Registered Charity No. 1122823)</a>.
+               &nbsp;&nbsp;&nbsp;
+               <a href="/contactus/">6 Great James Street, London, WC1N 3DA, United Kingdom</a><br>
+           </div>
+           
+      </div>
+      <div class="clear">&nbsp;</div>
+   </div>
 </div>
-   
-		
-		
+	  
+	
 		<div id="border-bottom">
-		</div>       
+		</div>
 	</div>
 </div>
 
@@ -912,10 +795,12 @@ make changes to your information and update your account at any time.
 -->
    
 
+
+
  
 
 
 
 
 
-</body></html>
+</div></body></html>
