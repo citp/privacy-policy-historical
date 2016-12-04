@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the activtrak.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511100057id_/http%3A//activtrak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activtrak.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204031642id_/http%3A//activtrak.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Free Computer Monitoring Software - Easy to Install Productivity Monitoring | ActivTrak.com
+# Privacy Policy
 
 **This Privacy Policy was last updated on March 02, 2012.**
 
@@ -50,7 +50,7 @@ In order to provide you with thorough and personalized service, ActivTrak uses â
 
 Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our Websiteâ€™s most attractive features.
 
-## DISCLOSURE OF PERSONAL INFORMATIOND
+## DISCLOSURE OF PERSONAL INFORMATION
 
 Personal Information about our customers is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described immediately below.
 
