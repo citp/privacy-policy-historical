@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the updater.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530030032id_/http%3A//www.updater.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the updater.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204123646id_/http%3A//updater.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Updater
 
