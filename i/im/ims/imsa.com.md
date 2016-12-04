@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imsa.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416151952id_/http%3A//www.imsa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsa.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204092325id_/http%3A//www.imsa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | International Motor Sports Association
+# Privacy Policy | IMSA
 
 **We are always conscious and respectful of your personal privacy.**
 
@@ -82,7 +82,7 @@ As this Site is operated from the United States and our computer systems are cur
 
 By using this Site, you signify your assent to the Company Privacy Policy. If you do not agree to the Company Privacy Policy, please do not use this Site. We reserve the right, at our complete discretion, to change, modify, add, or remove portions of this policy at any time.
 
-View previous privacy policies by [CLICKING HERE](http://www.imsa.com/archived-privacy-policies).
+View previous privacy policies by [CLICKING HERE.](https://web.archive.org/sites/default/files/2013_privacypolicy_0.pdf)
 
 Contact Information International Motor Sports Association, LLC
 
@@ -92,4 +92,4 @@ Email Address:  [info@imsa.com](mailto:info@imsa.com)
 
 Effective Date: April 14, 2014
 
-© 2014 International Motor Sports Association, LLC
+© 2016 International Motor Sports Association, LLC
