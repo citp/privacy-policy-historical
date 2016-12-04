@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustpilot.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621091324id_/http%3A//legal.trustpilot.com/end-user-privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustpilot.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204164248id_/http%3A//legal.trustpilot.com/end-user-privacy-terms) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -200,15 +200,15 @@ Google Analytics: for statistical purposes. You can decline cookies from Google 
 
 Mixpanel: for statistical purposes. You can decline cookies from Mixpanel by clicking on this link: <https://mixpanel.com/optout/>
 
-Facebook: Set by Facebook only if you interacts with the Facebook plugin or is already logged into Facebook from other source for the purpose of connecting and integrating with them.
+Facebook: Set by Facebook only if you interact with the Facebook plugin or is already logged into Facebook from other source for the purpose of connecting and integrating with them.
 
-Twitter: Set by Twitter only if you interacts with the Twitter plugin or is already logged into Twitter from other source for the purpose of connecting and integrating with them.
+Twitter: Set by Twitter only if you interact with the Twitter plugin or is already logged into Twitter from other source for the purpose of connecting and integrating with them.
 
-Google+: Set by Google only if you interacts with the Google+ plugin or is already logged into Google from other source for the purpose of connecting with them.
+Google+: Set by Google only if you interact with the Google+ plugin or is already logged into Google from other source for the purpose of connecting with them.
 
 Google ads: for the purpose of displaying relevant advertisements.
 
-Intercom: analytics services to help understand your usage of our services and communicate with users through behavior-driven email and in-app messages. You can decline cookies from Intercom by reading more on [ http://docs.intercom.io/pricing-and-terms/updating-your-privacy-policy](http://docs.intercom.io/pricing-and-terms/updating-your-privacy-policy)
+Intercom: analytics services to help understand your usage of our services and communicate with users through behavior-driven email and in-app messages. You can decline cookies from Intercom by reading more on  [ http://docs.intercom.io/pricing-and-terms/updating-your-privacy-policy](http://docs.intercom.io/pricing-and-terms/updating-your-privacy-policy)
 
 6.4  Deletion of cookies
 
