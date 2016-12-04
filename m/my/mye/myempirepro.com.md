@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myempirepro.com privacy policy that was archived on 2016-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160222070017id_/http%3A//www.myempirepro.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myempirepro.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204120658id_/http%3A//www.myempirepro.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - myEmpirePRO.com
 
