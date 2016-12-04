@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the driverguide.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613081518id_/http%3A//members.driverguide.com/index.php%3Faction%3Ddoc%26page%3Dhome__docs__privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverguide.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204152716id_/http%3A//members.driverguide.com/index.php%3Faction%3Ddoc%26page%3Dhome__docs__privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 DriverGuide Privacy Policy  
-Effective on: 28 Apr 2005 
+Effective on: 1 July 2016 
 
 iCentric Corporation has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for DriverGuide.com. 
 
@@ -13,7 +13,7 @@ DriverGuide gathers two basic types of information:
 
 ### **A. Information provided to DriverGuide**
 
-In order to use many of DriverGuide's features, tools and services, we ask you to register to become a member. During this member registration process, we will ask you for personally identifiable information such as your name, email address, zip or postalcode, country, gender, year of birth, skill level and password. DriverGuide uses the information it gathers for several purposes, such as to understand more about our audience demographics, and to communicate with you if necessary. DriverGuide may email its users periodically to inform them about the status of, or upcoming changes to the site, or to inform them about changes to our privacy policy. In addition, DriverGuide may email a user at any time regarding issues with his/her account. 
+DriverGuide does not require user information to use the site and download files. However, in order to use some of the advanced features of DriverGuide, we ask you to register to become a member. During this member registration process, we will ask you for personally identifiable information such as your name, email address, zip or postalcode, country, gender, year of birth, skill level and password. DriverGuide uses the information it gathers for several purposes, such as to understand more about our audience demographics, and to communicate with you if necessary. DriverGuide may email its users periodically to inform them about the status of, or upcoming changes to the site, or to inform them about changes to our privacy policy. In addition, DriverGuide may email a user at any time regarding issues with his/her account. 
 
 Our registration form provides an option for receiving a member newsletter. Users who have selected this option may at any time opt-out of receiving newsletter mailings (see the Unsubscribe section below). 
 
@@ -37,15 +37,7 @@ For those concerned about cookies, you can configure your web browser to accept 
 
 ## **2\. Third Parties Collecting Email Addresses**
 
-The following third party companies have been authorized to collect email addresses on DriverGuide.com: 
-
-Netcreations, Inc.   
-[http://www.PostMasterDirect.com](http://www.postmasterdirect.com/)  
-379 West Broadway, Suite 202  
-New York, NY 10012  
-**Link to their privacy policy:** <http://www.postmasterdirect.com/privacy.html>
-
-Netcreations collects email addresses on a voluntary (opt-in) basis in order to provide targeted email offers and discounts to our users who wish to receive them. Users who have signed up may unsubscribe by going to http://ntcr.us/unsub. 
+None. 
 
 ## **3\. Public Forums**
 
@@ -90,7 +82,7 @@ Los Angeles, CA 90045, USA
 
 To report email abuse, please use our [Feedback Form](http://members.driverguide.com/index.php?action=feedback)
 
-Website hosted by RackSpace.com ****
+Website hosted by SoftLayer.com ****
 
 ## **11\. Premium Memberships**
 
