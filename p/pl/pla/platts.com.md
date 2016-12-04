@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the platts.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618213750id_/http%3A//marketing.platts.com/forms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platts.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204103033id_/http%3A//marketing.platts.com/forms/privacy) for the most accurate reproduction.*
 
 # Platts Privacy
 
-## Privacy and Cookie Notice for Platts
+## Privacy and Cookie Notice for S&P Global Platts
 
-What personally identifiable information (“PII”) does Platts collect about you?
+What personally identifiable information (“PII”) does S&P Global Platts collect about you?
 
   * Contact information that you provide to us, such as your name, title and organization, address, telephone number, fax number, or e-mail address.
   * Contact information obtained via other companies’ marketing lists.
@@ -12,17 +12,17 @@ What personally identifiable information (“PII”) does Platts collect about y
 
 
 
-Why does Platts collect PII?
+Why does S&P Global Platts collect PII?
 
   * To process your transactions, maintain your account, ensure your adherence to our Terms of Use, and respond to your inquiries.
-  * To provide you with information about services and products that we believe may be of interest to you offered by Platts and other parts of our parent company, McGraw Hill Financial.
+  * To provide you with information about services and products that we believe may be of interest to you offered by Platts and other parts of our parent company, S&P Global.
 
 
 
-How does Platts share your PII?
+How does S&P Global Platts share your PII?
 
   * With our vendors to perform services on our behalf.
-  * With other parts of McGraw Hill Financial whose services and products might be of interest to you.
+  * With other divisions of S&P Global whose services and products might be of interest to you.
   * Potentially in conjunction with a sale or similar transfer of a business.
   * When legally compelled or for other legal purposes.
 
@@ -34,13 +34,13 @@ If you want to limit use or sharing of your pii for marketing purposes:
 
 Submit the form below or e-mail us at: [marketingops@platts.com](mailto:marketingops@platts.com) with the following instructions:
 
-I do not want to be contacted by Platts via these methods for marketing purposes:
+I do not want to be contacted by S&P Global Platts via these methods for marketing purposes:
 
   * Your Email *
   * Email
   * Mail
   * Telephone
-  * I do not want to be contacted by Platts through any method for marketing purposes.
+  * I do not want to be contacted by S&P Global Platts through any method for marketing purposes.
 
 
 
@@ -56,7 +56,7 @@ Cookie usage
 
 **Please note that by using this site, you consent to the use of the cookies described below.**
 
-Platts or our third-party service providers may use cookies (or other anonymous tracking technologies that do not collect personally identifiable information) when you visit our web site. A “cookie” is a small text file placed on your computer or device, which helps our web site function better. We may use the following types of cookies on this web site:
+S&P Global Platts or our third-party service providers may use cookies (or other anonymous tracking technologies that do not collect personally identifiable information) when you visit our web site. A “cookie” is a small text file placed on your computer or device, which helps our web site function better. We may use the following types of cookies on this web site:
 
 “Strictly necessary” cookies, which have to be set to allow us to deliver the site to you and to provide specific services that you request from us. The services offered by this site that require cookies to function include: 
 
@@ -83,16 +83,17 @@ If you are visiting this site using a mobile device such as a smartphone or tabl
 
 Mobile apps
 
-Platts’ mobile apps obtain the information you provide when you download them. Such information may include your name, e-mail address, user name, and password. In addition, the app may collect certain information automatically, such as the type of mobile device you use, the device's unique ID and IP address, your mobile operating system, the type of browsers you use, and information about the location of your mobile device. You can stop all collection of information by the app by uninstalling it.
+S&P Global Platts’ mobile apps obtain the information you provide when you download them. Such information may include your name, e-mail address, user name, and password. In addition, the app may collect certain information automatically, such as the type of mobile device you use, the device's unique ID and IP address, your mobile operating system, the type of browsers you use, and information about the location of your mobile device. You can stop all collection of information by the app by uninstalling it.
 
 Questions and concerns
 
-To review and confirm the accuracy of your PII, or to contact us with concerns or questions, please write to: [marketingops@platts.com](mailto:marketingops@platts.com) or  
+To review and confirm the accuracy of your PII, or to contact us with concerns or questions, please write to: [marketingops@spglobal.com](mailto:marketingops@platts.com) or
+
 Privacy Official  
-Platts  
+S&P Global Platts  
 1111 Bagby #2200  
 Houston, TX 77002.
 
-[Click here](http://www.mhfi.com/privacy?amp;elqat=2&elqTrackId=dba8b1713be94d36b19b3e61a9fcd738&elqaid=2786&elqat=2) for more information about McGraw Hill Financial’s Customer Privacy Policy.
+[Click here](http://www.mhfi.com/privacy?amp;elqat=2&elqTrackId=dba8b1713be94d36b19b3e61a9fcd738&elqaid=2786&elqat=2) for more information about S&P Global’s Customer Privacy Policy.
 
 Last updated: April 2015 **.** Future revisions to this Privacy and Cookie Notice will be posted at this location.
