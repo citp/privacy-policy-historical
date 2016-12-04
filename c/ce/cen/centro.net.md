@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the centro.net privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629120647id_/http%3A//www.centro.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centro.net privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204125902id_/https%3A//www.centro.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Centro
+# Privacy Policy - Digital Advertising Planning and Buying
 
-##  PRIVACY POLICY
+## PRIVACY POLICY
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
-What information do we collect?
+**What information do we collect?**
 
 We may collect, store and use the following kinds of personal data:
 
@@ -17,19 +17,19 @@ We may collect, store and use the following kinds of personal data:
 
 We may collect, store and use non-personal data about your visits to and use of this website.
 
-Information about website visits
+**Information about website visits**
 
 We may collect information about your computer and your visits to this website such as your IP address, geographical location, browser type, referral source, length of visit and number of page views. We may use this information in the administration of this website, to improve the website’s usability, and for marketing purposes.
 
-We use cookies on this website. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
+We use cookies on this website. A [cookie](https://www.centro.net/glossary/cookie-also-known-as-an-http-cookie-web-cookie-or-browser-cookie/) is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
-We may send a cookie which may be stored on by your browser on your computer’s hard drive. We may use the information we obtain from the cookie in the administration of this website, to improve the website’s usability and for marketing purposes. We may also use that information to recognize your computer when you visit our website, and to personalize our website for you. Our advertisers may also send you cookies.
+We may send a [cookie](https://www.centro.net/glossary/cookie-also-known-as-an-http-cookie-web-cookie-or-browser-cookie/) which may be stored on by your browser on your computer’s hard drive. We may use the information we obtain from the [cookie](https://www.centro.net/glossary/cookie-also-known-as-an-http-cookie-web-cookie-or-browser-cookie/) in the administration of this website, to improve the website’s usability and for marketing purposes. We may also use that information to recognize your computer when you visit our website, and to personalize our website for you. Our advertisers may also send you cookies.
 
-We may use anonymous cookies to record non-personal information such as website activity, date and time of visit, and domain type. We may use this information for retargeting purposes.
+We may use anonymous cookies to record non-personal information such as website activity, date and time of visit, and domain type. We may use this information for [retargeting](https://www.centro.net/glossary/retargeting/) purposes.
 
 Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.) This will, however, have a negative impact upon the usability of many websites, including this one.
 
-Using your personal data
+**Using your personal data**
 
 Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
 
@@ -42,11 +42,11 @@ In addition to the uses identified elsewhere in this privacy policy, we may use 
 
 
 
-Using your non-personal data
+**Using your non-personal data**
 
-Non-personal data is collected to provide relevant and targeted advertisements through retargeting. All data is anonymous and cannot be used to identify the visitor. Retargeting recognizes that the internet browser has visited the website in the last 90 days
+Non-personal data is collected to provide relevant and targeted advertisements through [retargeting](https://www.centro.net/glossary/retargeting/). All data is anonymous and cannot be used to identify the visitor. [Retargeting](https://www.centro.net/glossary/retargeting/) recognizes that the internet browser has visited the website in the last 90 days
 
-Other disclosures
+**Other disclosures**
 
 In addition to the disclosures reasonably necessary for the purposes identified elsewhere in this privacy policy, we may disclose information about you:
 
@@ -56,18 +56,18 @@ In addition to the disclosures reasonably necessary for the purposes identified 
 
 
 
-Security of your personal data
+**Security of your personal data**
 
 We will take reasonable precautions to prevent the loss, misuse or alteration of your personal information. Of course, data transmission over the Internet is inherently insecure, and we cannot guarantee the security of data sent over the Internet.
 
-Policy amendments
+**Policy amendments**
 
 We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
 
-Third party websites
+**Third party websites**
 
 The website contains links to other websites. We are not responsible for the privacy policies of third party websites.
 
-Contact
+**Contact**
 
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to [privacy@centro.net](mailto:privacy@centro.net) or by post to Centro, Inc., 222 W. Hubbard Street, Chicago, IL 60654.
