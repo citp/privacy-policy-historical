@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourway.net privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610223910id_/http%3A//lifeyourway.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourway.net privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204210250id_/http%3A//lifeyourway.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Life Your Way
 
 The privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
