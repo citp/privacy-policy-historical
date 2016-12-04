@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agkidzone.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314052842id_/http%3A//www.agkidzone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agkidzone.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204103511id_/http%3A//www.agkidzone.com/privacy-policy) for the most accurate reproduction.*
 
 # AGKidZone Games, Online Activities, Cartoons, Coloring Pages, Videos
 
@@ -78,6 +78,6 @@ We may update this Privacy Policy at any time and any changes will be effective 
 **CONTACT US**
 
 Questions regarding this Children’s Online Privacy Policy and use of Children's Personal Information should be directed to AG by any of the following methods:  
-**By Mail:** AG Properties One American Road, Cleveland, Ohio 44144  
+**By Mail:** AG Properties One American Boulevard, Cleveland, Ohio 44145  
 **By E-mail:**[help@agkidzone.com](mailto:help@agkidzone.com)  
 **By Phone:** 866.228.2429
