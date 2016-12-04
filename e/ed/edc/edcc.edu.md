@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edcc.edu privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610004204id_/http%3A//www.edcc.edu/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edcc.edu privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204065754id_/http%3A//www.edcc.edu/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Edmonds Community College: About Our College - Privacy Policy
 
