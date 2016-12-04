@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motifinvesting.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402041336id_/https%3A//www.motifinvesting.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motifinvesting.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204120005id_/https%3A//www.motifinvesting.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Motif Investing
 
@@ -101,4 +101,4 @@ Investing in securities involves risks, you should be aware of prior to making a
 
 Motif Capital Management, Inc., is an SEC-registered investment adviser and a separate, wholly-owned subsidiary of Motif Investing, Inc., a registered broker-dealer and member SIPC.
 
-©2016 Motif Investing, Inc. All rights reserved. Build Id: Master.186
+©2016 Motif Investing, Inc. All rights reserved. Build Id: Master.220
