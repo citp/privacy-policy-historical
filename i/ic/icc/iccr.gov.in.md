@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iccr.gov.in privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515192600id_/http%3A//iccr.gov.in/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iccr.gov.in privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204215037id_/http%3A//iccr.gov.in/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Indian Council for Cultural Relations | India
+# Privacy Policy | Indian Council for Cultural Relations | Government of India
 
 As a general rule, this website does not collect Personal Information about you when you visit the site. You can generally visit the site without revealing Personal Information, unless you choose to provide such information.
 
