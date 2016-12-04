@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intheircloset.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609202240id_/http%3A//intheircloset.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intheircloset.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204125103id_/http%3A//intheircloset.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
