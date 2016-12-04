@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pldt.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611133057id_/http%3A//www.pldt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pldt.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204030723id_/http%3A//pldt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Official PLDT Website
 
