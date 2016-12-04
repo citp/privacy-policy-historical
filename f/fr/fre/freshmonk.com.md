@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshmonk.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323132608id_/http%3A//www.freshmonk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshmonk.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205004712id_/http%3A//www.freshmonk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -101,7 +101,7 @@ You can log in to our site using sign-in services such as Facebook Connect or an
 
 #### **Testimonials**
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [hello@freshmonk.com](mailto:hello@freshmonk.com)
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [support@freshmonk.com](mailto:support@freshmonk.com)
 
   
 
@@ -117,8 +117,8 @@ We may update this privacy policy to reflect changes to our information practice
 
 FreshMonk  
 91 Design Labs Pte Ltd.  
-Email: [hello@freshmonk.com](mailto:hello@freshmonk.com)  
-Telephone: +91-8130937529br>
+Email: [support@freshmonk.com](mailto:support@freshmonk.com)  
+Telephone: +91-9739062226br>
 
 _Corporate Address:_   
 10 Anson Road  
