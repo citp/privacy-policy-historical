@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokabunga.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315160709id_/https%3A//www.pokabunga.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokabunga.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204164901id_/https%3A//www.pokabunga.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Poker and Rummy Online Games – Pokabunga.com
 
