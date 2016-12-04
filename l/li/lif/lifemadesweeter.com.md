@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifemadesweeter.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612175240id_/http%3A//lifemadesweeter.com/policies-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifemadesweeter.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204152623id_/http%3A//lifemadesweeter.com/policies-terms) for the most accurate reproduction.*
 
 # Privacy and Disclosure Policy - Life Made Sweeter
 
@@ -97,7 +97,7 @@ To get your own policy, go to http://www.disclosurepolicy.org
 
 **The contents of this statement may be altered at any time, at the blog owner’s discretion.**
 
-[ ](http://lifemadesweeter.com/wp-content/uploads/2014/01/badge-large.jpg)
+[](http://cf.lifemadesweeter.com/wp-content/uploads/2014/01/badge-large.jpg)
 
 Amazon Associates disclosure:  I am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [Amazon.com](http://www.amazon.com/).
 
