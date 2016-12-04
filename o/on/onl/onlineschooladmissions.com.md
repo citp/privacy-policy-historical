@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineschooladmissions.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524162124id_/http%3A//www.onlineschooladmissions.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineschooladmissions.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204052305id_/http%3A//www.onlineschooladmissions.com/privacy.php) for the most accurate reproduction.*
 
 # Online School Admissions Privacy Policy
 
