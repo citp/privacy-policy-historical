@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssmhc.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609052226id_/http%3A//www.ssmhealth.com/system/exceptional-care/privacy-practices) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssmhc.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205160013id_/http%3A//www.ssmhealth.com/system/exceptional-care/privacy-practices) for the most accurate reproduction.*
 
 # Notice of Privacy Practices
 
