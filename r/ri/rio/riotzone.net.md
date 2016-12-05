@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the riotzone.net privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613071649id_/http%3A//legal.my.com/us/games/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riotzone.net privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205011301id_/http%3A//legal.my.com/us/games/privacy) for the most accurate reproduction.*
 
 # My.com — communication and entertainment apps: myMail, myChat, myGames, myCamera. Manage email, chat with friends, discover captivating new games, and edit your photos
 
-## Last updated: May 01, 2014
+## Last updated: July 15, 2016
 
 ## The introduction
 
 MY.COM B.V. ("Company") and its subsidiaries value the privacy and security of the information that end-users share with us by using our web site www.my.com and all of our online products and services (together "Web site"). The Privacy Policy describes the way that "Company" collects, shares, protects, or otherwise uses end-users information.
 
 By using our Web site you fully agree and obliged to comply with the terms and conditions of this Privacy Policy and explicitly consent to using of your information in accordance with the Privacy Policy.
-
-Company reserves the rights on its sole discretion to update the Privacy Policy at any reasonable times by placing a new version on Web site. Therefore, Company encourages you to periodically check back and review this Privacy Policy so that you always will keep abreast and know the changes.
 
 Company reserves the rights on its sole discretion to update the Privacy Policy at any reasonable times by placing a new version on Web site. Therefore, Company encourages you to periodically check back and review this Privacy Policy so that you always will keep abreast and know the changes.
 
@@ -77,6 +75,6 @@ This Agreement shall be governed, construed, and enforced in accordance with the
 
 ## Our contacts
 
-Should you have any questions or concerns about Privacy Policy or its execution do not hesitate to contact Company at legal@corp.my.com or at Haaksbergweg 31, Suite 4, 1101BP, Amsterdam, Netherlands.
+Should you have any questions or concerns about Privacy Policy or its execution do not hesitate to contact Company at legal@corp.my.com or at Barbara Strozzilaan 201, 1082HN, Amsterdam, the Netherlands.
 
  _Only the English version of this document has legal effect. Any translations of this document to other languages are provided for your convenience only._
