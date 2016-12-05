@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steelers.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415222711id_/http%3A//www.steelers.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelers.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205112239id_/http%3A//www.steelers.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Pittsburgh Steelers | Privacy Policy
 
@@ -10,11 +10,8 @@
 
 This privacy policy applies to the Steeler's website located at [www.steelers.com](http://www.steelers.com/) (the "Website") as well as to those providing personal information to the Pittsburgh Steelers (collectively, the "Steelers", "we", "our", or "us") via Steeler's mobile applications (the "Applications"), in person at games, at retail locations operated by the Steelers, at special events hosted by the Steelers or on social media sites or on the Steelers Online Store merchandise site (<http://shop.steelers.com/>). The purpose of this Privacy Policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
-The Pittsburgh Steelers has received TRUSTe's Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
-
-The TRUSTe program covers only information that is collected through the Websites and the official Pittsburgh Steelers mobile application, and does not cover information that may be collected through software downloaded from the Websites.
-
-If you have questions or concerns regarding this statement, you should first contact Webmaster at [feedback@fans.steelers.com](mailto:feedback@fans.steelers.com). If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider  
+ (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 When this Privacy Policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this Privacy Policy.
 
@@ -51,7 +48,7 @@ We may receive and store certain types of internet usage information whenever yo
 When you open emails from us, we may receive a confirmation noting you opened the email, if your computer supports such capabilities. We also may keep track of what emails we send you and what emails you may be receiving from our subsidiaries and affiliates. Additionally, we keep a record of what communications you have opted to receive or not to receive.
 
   
-On our email sign up page (<http://team.nfl.com/p/Steelers/PreferencePage>), we ask for preferences, such as favorite player and information you would like to hear about.
+On our email sign up page (<https://nfl.csharmony.epsilon.com/pc/clubs/steelers/Account/Register>), we ask for preferences, such as favorite player and information you would like to hear about.
 
   
 We may collect information from you in several different areas on the Website, including but not limited to those described below:
