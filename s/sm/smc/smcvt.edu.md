@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smcvt.edu privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608025557id_/http%3A//www.smcvt.edu/pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smcvt.edu privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205070002id_/http%3A//www.smcvt.edu/pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Saint Michael's College
 
@@ -18,7 +18,9 @@ College websites routinely collect and store information from online visitors to
 
 ### Cookies
 
-Cookies are pieces of information stored by your web browser on behalf of a website. Portions of this site may use cookies to carry data about your current session at the site from one web page to the next, and to provide customized content once you personalize the website. We do not forward cookies to any external parties. If you prefer not to receive cookies, you may turn them off in your browser, or may set your browser to ask you before accepting a new cookie.
+Cookies are pieces of information stored by your web browser on behalf of a website. Portions of this site may use cookies to carry data about your current session at the site from one web page to the next, and to provide customized content once you personalize the website. We use third-party service providers to serve our ads across the internet. As you browse our website, advertising cookies will be placed on your computer so that we can understand what you are interested in. This enables us to present you with retargeting advertising on other sites based on your previous interaction with our website. The techniques our partners employ do not collect personal information such as your name, email address, postal address, or telephone number. If you would like to opt out of targeted advertising from Saint Michael's College, click here. (<http://www.networkadvertising.org/choices/>)
+
+If you prefer not to receive cookies, you may turn them off in your browser, or may set your browser to ask you before accepting a new cookie. 
 
 ### Information Voluntarily Provided by You
 
