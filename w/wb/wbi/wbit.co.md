@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wbit.co privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327180400id_/http%3A//wbit.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbit.co privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205195423id_/http%3A//www.wbit.co/privacy) for the most accurate reproduction.*
 
-# privacy - wBit.co
+# privacy - uBit.co
 
 We take your privacy seriously. This policy describes what personal information we collect and how we use it.  
 (This privacy policy is applicable to the xpbitcoin.com web site) 
