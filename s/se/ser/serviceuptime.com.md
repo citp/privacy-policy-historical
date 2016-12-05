@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serviceuptime.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604150710id_/http%3A//www.serviceuptime.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serviceuptime.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205104541id_/http%3A//www.serviceuptime.com/privacy.php) for the most accurate reproduction.*
 
 # Service Uptime - Privacy Policy
 
