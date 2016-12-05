@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the waccoe.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315125150id_/http%3A//www.waccoe.com/index.php%3Fapp%3Dcore%26module%3Dglobal%26section%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waccoe.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205010657id_/http%3A//www.waccoe.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - WACCOE
+# Privacy Policy - waccoe.com
 
-**WACCOE PRIVACY POLICY**
-
-     
 **What is this Privacy Policy for?**  
 1.1 This privacy policy is for this website www.waccoe.com and served by WACCOE.COM Ltd and governs the privacy of its users who choose to use it.  
    
@@ -17,9 +14,7 @@
 
 2.3 Log files are maintained and analysed of all requests for files on this website's web servers. Log files do not capture personal information but do capture the user's IP address, which is automatically recognised by our web servers.
 
-**Our Commitment to Children's Privacy**
-
-  
+**Our Commitment to Children's Privacy**  
 3.1 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.  
    
 **Use of Cookies**  
@@ -29,7 +24,7 @@
    
 4.3 Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and its external serving vendors.  
    
-4.4 This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computer’s hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read Google's privacy policy here for further information [ <http://www.google.com/privacy.html>[ ](http://www.google.com/privacy.html)].  
+4.4 This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computer’s hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read Google's privacy policy here for further information [ [http://www.google.com/privacy.html ](http://www.google.com/privacy.html)].  
    
 4.5 Other cookies may be stored to your computer’s hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected.  
    
@@ -48,10 +43,4 @@
    
 7.2 Clicking on any such adverts will send you to the advertiser’s website through a referral program which may use cookies and will track the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your computer’s hard drive. Users should therefore note they click on sponsored external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
 
-  1.  
-  2. [Privacy Policy](http://waccoe.com/index.php?app=core&module=global&section=privacy)
-  3. [Rules](http://waccoe.com/index.php?app=forums&module=extras&section=boardrules "Rules") · 
-
-
-
-© all posts are copyright WACCOE.com.ltd and cannot be reproduced without permission or acknowledgement.
+waccoe.com, 194 Parkinson Lane, Halifax, West Yorkshire, HX1 3UW
