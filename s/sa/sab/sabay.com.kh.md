@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sabay.com.kh privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602025602id_/http%3A//sabay.com.kh/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabay.com.kh privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205234238id_/http%3A//sabay.com.kh/privacy-policy) for the most accurate reproduction.*
 
 # sabay.com – Sabay » Privacy Policy
 
