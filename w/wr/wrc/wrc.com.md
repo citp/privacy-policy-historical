@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrc.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531050312id_/http%3A//www.wrc.com/en/footer/information/privacy-policy/page/688----.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrc.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206004016id_/http%3A//www.wrc.com/en/footer/information/privacy-policy/page/688----.html) for the most accurate reproduction.*
 
 # WRC - wrc.com
 
@@ -42,13 +42,13 @@
 
 6.1 We collect information automatically through the use of "cookies". A cookie is a text file containing small amounts of information that a website can send to your browser, which may then be stored on your computer as a tag that distinguishes your computer but does not name you. Some of our Website pages use cookies to better serve you when you return to the Website. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies; however, if you do this, some of our Website may not work properly.
 
-6.2 For information about the specific cookies used on this Website, please refer to our [Cookies Policy](https://web.archive.org/web/20160531050312id_/http%3A//www.wrc.com/en/footer/information/privacy-policy/en/footer/information/privacy-policy/cookie-policy/page/3208----.html "Cookie Policy").
+6.2 For information about the specific cookies used on this Website, please refer to our [Cookies Policy](https://web.archive.org/web/20161206004016id_/http%3A//www.wrc.com/en/footer/information/privacy-policy/en/footer/information/privacy-policy/cookie-policy/page/3208----.html "Cookie Policy").
 
 ### 7\. Links to other websites and social media
 
 7.1 Where we provide links to other websites, we do so for information purposes only. The other websites are outside our control and are not covered by this Policy. If you access other websites using the links provided, the operators of these websites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
 
-7.2 On some pages of our Website, third parties that provide content, applications or plug-ins through our Website may track your use of content, applications and plug-ins or customize content, applications and plug-ins for you. For example, when you share an article using a social media sharing button on our Website (e.g., Facebook, Twitter, or Google Plus), the social network that has created the button will record that you have done this. For more information on social media plug-ins on our Website, see our [Cookies Policy](https://web.archive.org/web/20160531050312id_/http%3A//www.wrc.com/en/footer/information/privacy-policy/en/footer/information/privacy-policy/cookie-policy/page/3208----.html "Cookie Policy").
+7.2 On some pages of our Website, third parties that provide content, applications or plug-ins through our Website may track your use of content, applications and plug-ins or customize content, applications and plug-ins for you. For example, when you share an article using a social media sharing button on our Website (e.g., Facebook, Twitter, or Google Plus), the social network that has created the button will record that you have done this. For more information on social media plug-ins on our Website, see our [Cookies Policy](https://web.archive.org/web/20161206004016id_/http%3A//www.wrc.com/en/footer/information/privacy-policy/en/footer/information/privacy-policy/cookie-policy/page/3208----.html "Cookie Policy").
 
 ### 8\. Data Retention
 
