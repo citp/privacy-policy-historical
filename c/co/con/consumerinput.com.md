@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the consumerinput.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531141412id_/https%3A//www.consumerinput.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerinput.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205024006id_/https%3A//www.consumerinput.com/privacy) for the most accurate reproduction.*
 
 # None
 
-### Last modified: April 15, 2016
+### Last modified: August 23, 2016
 
 [View archived versions here](https://web.archive.org/privacy_archive/).
 
@@ -41,8 +41,6 @@ Children's Privacy
 Privacy Policy Changes
 
 Data Stored in the United States
-
-Data from EU residents
 
 Contact Us
 
@@ -155,20 +153,6 @@ If we make any changes to our privacy practices that do not materially affect in
 **Data Stored in the United States**
 
 Our servers are maintained in the United States of America. By using the Software, you freely and specifically give us your consent to export your personally identifiable information to the USA and to store and use it in the USA as specified in this Policy. You understand that our data is subject to lawful requests by the courts or law enforcement authorities in the United States.
-
-**Data from EU residents**
-
-Compete complies with the U.S. — E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Compete has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Compete's certification, please visit <http://www.export.gov/safeharbor/>.
-
-If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with the International Center for Dispute Resolution, the international division of the American Arbitration Association (ICDR/AAA), using this URL (<https://apps.adr.org/webfile>),fax to 877-304-8457, or mail to International Centre for Dispute Resolution at the following address:
-
-International Centre for Dispute Resolution   
-A Division of the American Arbitration Association   
-Case Filing Services   
-1101 Laurel Oak Road, Suite 100   
-Voorhees, NJ 08043 
-
-If you are faxing or mailing ICDR/AAA to lodge a complaint, you must use the form found at <https://apps.adr.org/webfile>. For information about ICDR/AAA, use the URL <https://go.adr.org/safeharbor>.
 
 **Contact Us**
 
