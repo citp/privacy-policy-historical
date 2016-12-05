@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bonuslink.com.my privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628020219id_/http%3A//bonuslink.com.my/EN/PrivacyNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonuslink.com.my privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205170201id_/http%3A//www.bonuslink.com.my/EN/PrivacyNotice.aspx) for the most accurate reproduction.*
 
-# PDPA Compliance :: BonusLink.....
+# PDPA Compliance :: BonusLink....
 
 **_PRIVACY NOTICE PURSUANT TO THE PERSONAL DATA PROTECTION ACT 2010_**
 
-In view of the recent enforcement of the Personal Data Protection Act 2010 ("Act") in Malaysia, BonusKad Loyalty (BonusLink) is in the midst of exercising compliance of the Act. This Privacy Notice is to help you better understand the manner in which your personal data is managed and to give you the options available to you to access or limit the use of the information provided. The Act also requires BonusLink to obtain your consent for the usage and processing of your personal data. 
+In view of the recent enforcement of the Personal Data Protection Act 2010 ("Act") in Malaysia, BonusKad Loyalty ("BonusLink", "we", "us", "our") is in the midst of exercising compliance of the Act. This Privacy Notice is to help you better understand the manner in which your personal data is managed and to give you the options available to you to access or limit the use of the information provided. By providing us your personal data and your continued use of our services, you agree to be bound by the terms and conditions below and consent to the processing of your personal data in accordance with this Privacy Notice. 
 
 **Categories of personal data that we collect**
 
@@ -38,7 +38,7 @@ The personal data previously collected from you is being, and will continue to b
 
 7\. to monitor volume and spend information 
 
-8\. to conduct market research and/or statistical analysis 
+8\. to conduct market research and/or statistical analysis including without limitation consumer behaviour 
 
 9\. to identify and (if possible) prevent fraud 
 
