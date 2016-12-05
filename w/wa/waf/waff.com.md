@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waff.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510054352id_/http%3A//www.waff.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waff.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205174553id_/http%3A//www.waff.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WAFF-TV: News, Weather and Sports for Huntsville, AL
 
