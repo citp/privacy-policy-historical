@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalhelpswap.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613162253id_/http%3A//globalhelpswap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalhelpswap.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205200844id_/http%3A//globalhelpswap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - globalhelpswap - free and low cost volunteering opportunities around the globe
 
