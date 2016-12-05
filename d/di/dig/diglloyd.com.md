@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diglloyd.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607085916id_/http%3A//diglloyd.com/site-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diglloyd.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205195504id_/http%3A//diglloyd.com/site-privacy.html) for the most accurate reproduction.*
 
 # diglloyd - Privacy Policy
 
@@ -52,7 +52,7 @@ Subscribers may request that a particular contact email be used for these purpos
 
 ###  Site access information
 
-We log and collect and retain technical information such as IP address(es), date and time of access, browser type, login username, page viewing history and similar information via cookies and other automated mechanisms.  This information usually does not personally identify you, but it is possible that it could at some point be linked with other personally identifiable information.  We use this information for analysis of web site usage patterns, bandwidth utilization and similar analysis, and/or to identify violation of Sites [terms of service](https://web.archive.org/web/20160607085916id_/http%3A//diglloyd.com/site-terms-of-use.html) (e.g. bulk downloading, unauthorized access, inappropriate linking, and similar activities that we deem at our sole discretion to be inappropriate or unwanted).
+We log and collect and retain technical information such as IP address(es), date and time of access, browser type, login username, page viewing history and similar information via cookies and other automated mechanisms.  This information usually does not personally identify you, but it is possible that it could at some point be linked with other personally identifiable information.  We use this information for analysis of web site usage patterns, bandwidth utilization and similar analysis, and/or to identify violation of Sites [terms of service](https://web.archive.org/web/20161205195504id_/http%3A//diglloyd.com/site-terms-of-use.html) (e.g. bulk downloading, unauthorized access, inappropriate linking, and similar activities that we deem at our sole discretion to be inappropriate or unwanted).
 
 We also use this information to enhance your user experience, such as display preferences for images, site readability options and similar site options and behaviors.
 
