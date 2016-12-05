@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccavenue.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604064639id_/https%3A//www.ccavenue.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccavenue.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206003113id_/https%3A//www.ccavenue.com/privacy.jsp) for the most accurate reproduction.*
 
 # CCAvenue®: Privacy Policy - India's Top Payment Gateway
 
