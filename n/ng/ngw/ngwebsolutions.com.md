@@ -1,91 +1,57 @@
-> *The following text is extracted and transformed from the ngwebsolutions.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508014831id_/http%3A//www.ngwebsolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngwebsolutions.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205093058id_/http%3A//www.ngwebsolutions.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Next Gen Web Solutions
+# Privacy Policy - Next Gen Web Solutions
 
-NGWeb Solutions wants you to understand how we collect, protect and use your personal information and the choices you have about how that information is used. This notice covers all of the information handling practices for the NGWeb Solutions companies listed at the end of this notice. However, certain departments and/or products within these companies may have more restrictive information handling practices.
+**Privacy Statement**
 
-#### Online information 
+This Privacy Statement applies to the website located at http://www.ngwebsolutions.com/ (the “Website”) which is owned and operated by NextGen Web Solutions, LLC (“Next Gen”). By using our Website, you consent to the data practices described in this Privacy Statement. If you do not agree to the terms set forth in this Privacy Statement, you may not use our Website.
 
-We at NGWeb Solutions are committed to providing you a useful and enjoyable online experience, and to protecting your personal information during your visit. When you access a NGWeb Solutions Web site (NGWeb Solutions Site), you can be sure that your information is protected by the latest security and authentication techniques. We may collect information from your visit, in order to personalize and improve upon your experience with us, but all personally identifiable information we collect is held to the standards of this privacy policy. 
+**Information Governed by this Privacy Statement**
 
-To access NGWeb Solutions products via the NGWeb Solutions Sites, you will need a browser that supports the use of Secure Sockets Layer (Netscape 4.0or greater, MS Internet Explorer 5.0 or greater, etc). This encryption technology helps ensure the authenticity of your online sessions and secures data being transmitted over the public Internet. 
+This Privacy Statement applies only to information collected through our Website, and it does not govern any information you may provide to us by phone or otherwise. “PII” means “personally identifiable information,” which is information that identifies you personally, either alone or in combination with other information available to us (including without limitation you name, address, email address, telephone number, or other personal information). “Non-PII” means “non-personally identifiable information” or other information which alone does not identify you (however, in some circumstances it may be possible for Non-PII to be combined with PII in order to identify a specific individual). We sometimes refer to both PII and Non-PII in this Privacy Statement as “Information.”
 
-If you are using Netscape Navigator, your session is secured if a key appears in the lower left corner of your screen; when the session is not secure, the key will appear broken. Internet Explorer displays a lock icon in a locked position on the status bar when you enter a secure site. When you leave a secure Web site, Internet Explorer displays a lock in an unlocked position on the status bar. If the page you are viewing uses frames, you may not see the key or lock, but can simply right-click anywhere in the frame and select “Properties”. If the Web site address (URL) starts with “https” the “s” indicates a secure site or area of the site. 
+**Collection of Your Information**
 
-When you enter a NGWeb Solutions Site, you will pass through our security “firewall” and we identify the Internet Protocol (IP) address of you computer or handheld device, the IP address won’t identify you personally, but it will let us identify the device you’re using and we store IP addresses in case we need to track a connection for security purposes. 
+_Optional Voluntary Information_. In order to request a demo, request information about our products and services, or otherwise contact us through our Website, you may be required to voluntarily submit certain PII such as your name, school or university name, company name, and email address. The use of these functions through our Website is purely optional, so you are not required to submit any PII through our Website if you do not wish to contact us for these or other purposes.
 
-NGWeb Solutions Sites use cookies in several applications for navigational purposes. A cookie is a small text file placed on your hard drive (not on the NGWeb Solutions Site) by a Web page server. Cookies make your Internet experience quicker and more convenient. You are always free to decline our cookies if your browser permits, but some parts of the NGWeb Solutions Sites may not work properly if you do. Accepting a cookie from a NGWeb Solutions Site does not give NGWeb Solutions access to any of your personally identifiable information. Also, the types of cookies we use don’t get stored permanently in your computer – they expire immediately after you close your browser and are deleted. You may be able to set up your Web browser to inform you when cookies are set or to prevent cookies from being set. 
+_Usage Data_. Next Gen may track user traffic patterns and content accessed throughout our Website. This information allows us to better tailor our content to our users’ needs and to help our affiliated companies, advertisers and property owners to better understand our audience.
 
-If you e-mail questions or comments to us, we will use your e-mail address to reply to you and we will temporarily store your e-mail address, your message and our reply for quality assurance or to satisfy applicable laws and regulations. When we collect your e-mail address this way, we won’t use it for marketing our products and services. 
+Information Sent to Us by Your Web Browser. We may collect information that is sent to us automatically by your web browser, such as your IP address, the address of the web page you were visiting when you accessed our Website, information on your operating system and browser, and the date and time of your visit. Such information does not by itself identify you personally. In addition, we may review our server logs for security purposes, such as detecting intrusions into our network.
 
-We don’t knowingly collect, maintain or use personally identifiable information on the NGWeb Solutions Sites from children under age 13, unless first complying with the Children’s Online Privacy Protection Act. If we find out we have unknowingly collected such information we will take all reasonable measures to delete that information from our system as soon as possible. We are not responsible for the collection and use of information by companies or individuals unaffiliated with us whose Web sites may contain links to ours, including vendors where you may shop. 
+**Use of Cookies and Similar Technologies**
 
-#### Information we collect and why 
+In order to improve your experience when using our Site, we or our current or future service providers may place a text file called a “cookie” on your computer, which may store preferences or other information, and may be used to help personalize your experience when using our Website. We use cookies to learn the source of traffic to our Website (including the site you were visiting before you came to our Website), and we may also use cookies to store your other preferences when using our Website. We or our third party service providers may also use other technologies to collect certain data regarding the actions of our users online, which may including “pixel tags,” which are small pieces of code embedded in emails sent to users. You can refuse cookies by turning them off in your browser. If you’ve set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. Disabling cookies may result in errors while using the Website. Because there is not yet a common standard regarding how to interpret web browser based “do not track” signals, our Website does not currently respond to undefined “do not track” signals. Our Website does not contain cookies or mechanisms to track users across their use of other websites.
 
-In order to provide you with products and services, we collect information about you from different sources: 
+**How We Use Information Collected on our Website**
 
-  * Information you provide to us on forms (such as applications), by e-mail, in writing, by telephone or through one of the NGWeb Solutions Sites.
-  * Information collected from your transactions with us or others, such as account activity. 
+Next Gen uses PII you have provided on our Website to deliver the information, product demonstrations, and services you have requested through our Website. If you request information on a product, or request a demonstration through our Website, one of our sales representatives will contact you with the information you have requested, and you will also be placed in our database to receive information regarding any of Next Gen’s products and services. We may send you emails from time to time with information on the products in which you expressed interest, information on other Next Gen products, or information regarding third party products or services we believe may be of interest to you. Next Gen may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. You may unsubscribe from emails sent by Next Gen at any time by clicking on the unsubscribe link in each email, or by sending an email to support@ngwebsolutions.com.
 
+**Sharing of Information Collected on our Website**
 
+We may use Information collected on our Website to enhance your experience using our Website, to improve our Website, for purposes related to the business of Next Gen, for marketing or promotional purposes, for any other purpose described in this Privacy Statement, or otherwise as we may disclose to you from time to time. We may use Non-PII sent to us by your web browser or by cookies to perform statistical analyses of our server logs in order to study the use of various areas of our Website. We also review IP addresses to analyze where we are getting our audience, and we may create aggregate reports on our users traffic patterns and other user data, which we may share with third parties for our business purposes.  
+Next Gen may share your PII or Non-PII collected through our Website with third parties who perform services on our behalf, such as performing statistical analysis, data storage and web hosting services, sending email or postal mail on our behalf, providing customer support, or performing other services on our behalf.
 
-#### Information safeguarding practices 
+Next Gen will disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Next Gen or the Website; (b) protect and defend the rights or property of Next Gen, our customers, users or others; (c) act under exigent circumstances to protect the personal safety of users of Next Gen, or the public; (d) to enforce any other agreements that govern your use of our Website.
 
-NGWeb Solutions understands the trust you have placed in us and is committed to the security and privacy of your personally identifiable information. 
+Information submitted to our Website is an asset of Next Gen, and will become part of our normal business records. Any information collected on our Website, including without limitation PII, may be transferred to any entity related to Next Gen in the present or future, or to another company that acquires the stock or assets of Next Gen or our current or future affiliated companies, for example, as the result of a sale, merger, reorganization, dissolution or liquidation. If such a transfer occurs, the acquiring company’s use of your PII will still be subject to this Privacy Statement, and the privacy preferences you have expressed to us.
 
-  * Our authorized employees, agents and contractors receive only the information about you they need to perform their required work.
-  * We comply with federally recognized safeguard standards including: intrusion monitoring, Secure Socket Layer, firewall monitoring, security audits, and system inspections. We safeguard data with password encryption technology.
-  * Companies that assist us in delivering our products and services are also required to protect your information and use it only for the services we ask them to perform. 
+**Security of your Personal Information**
 
+Next Gen uses reasonable measures based on the nature of PII disclosed on our Website, in an effort to secure your PII from unauthorized access, use or disclosure. Next Gen secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure.
 
+**International Users**
 
-#### Information sharing within the NGWeb Solutions affiliated companies
+If you are located outside of the United States, you understand that by using our Website, you are providing Information to Next Gen in the United States, and you hereby consent to the transfer of your Information to (and processing or other use of your information in) the United States and any other countries in which Next Gen may operate in the future or to which Next Gen may transfer your Information in accordance with this Privacy Statement. You further consent to the use of your Information for marketing purposes by Next Gen and its current or future affiliated entities, marketing partners, service providers as described in this Privacy Statement, in the United States or any other country.
 
-NGWeb Solutions does not share any information we have collected about you. Information sharing with service providers and others outside the NGWeb Solutions affiliated companies To the extent required or permitted by law, NGWeb Solutions may share the personally identifiable information we have collected from or about you with service providers and unaffiliated third parties for the following reasons: 
+**Changes to this Statement**
 
-  * To service your account and provide you with products and services you’ve requested.
-  * To comply with a legal requirement, such as a law, regulation, court order, subpoena or search warrant, or in the course of a legal proceeding.
-  * In response to your consent or request.
-  * To report to a credit bureau.
-  * We may disclose personally identifiable information to unaffiliated third parties. If you prefer we not share your personally identifiable information with unaffiliated third parties, you may instruct us not to do so by submitting to us a completed [NGWeb Solutions Privacy Option form](https://web.archive.org/privacyoption.pdf) and checking option number 2 
+Next Gen will occasionally update this Privacy Statement to reflect changes in our practices or the law. We reserve the right to update or modify this Privacy Statement at any time and without prior notice, by posting a link to the revised version of this Privacy Statement on our Website. Use of our Website following any such change constitutes your agreement that all Information collected from or about you after the revised Privacy Statement is posted will be subject to the terms of the revised Privacy Statement. If we make any material changes to this Privacy Statement, we will make additional efforts to notify you in accordance with applicable law. You may access the current version of this Privacy Statement at any time by clicking on the link marked “Privacy Statement” at the bottom of most pages of our Website. To the extent rules or guidelines affecting your use of the Website are found on other pages of the Website, those rules and guidelines are hereby incorporated by reference into this Privacy Statement. Next Gen encourages you to periodically review this Statement to be informed of how Next Gen is protecting, collecting, sharing, or otherwise using your information.
 
+**Modifying or Deleting Your Personal Information**
 
+We respect your right to make choices about the ways we collect, use, process and disclose your PII. You may update or modify your information or change your preferences at any time by sending any email to support@ngwebsolutions.com.  
+**Contact Information**
 
-#### Joint accounts 
+Next Gen welcomes your comments regarding this Privacy Statement. If you have any questions about our practices with regard to your PII or Non-PII, or if you believe that Next Gen has not adhered to this Statement, please contact Next Gen at support@ngwebsolutions.com.
 
-NGWeb Solutions will accept opt-outs from individuals or joint account holders who may make privacy choices for each other.
-
-####  Vermont residents 
-
-NGWeb Solutions will automatically manage accounts with Vermont addresses as if the account holder has selected both opt out choices described above, unless we receive your consent to share your personally identifiable information. You may provide your consent by submitting to us a completed [NGWeb Solutions Privacy Option form](https://web.archive.org/privacyoption.pdf) and checking option number 3.
-
-####  California residents 
-
-NGWeb Solutions will automatically handle accounts with California addresses as if the account holder has selected not to have information shared with unaffiliated third parties. You may provide your consent by submitting to us a completed [NGWeb Solutions Privacy Option form](https://web.archive.org/privacyoption.pdf) and checking option number 3. 
-
-#### Information about this policy 
-
-  * This policy is effective January 1, 2008.
-  * This policy applies to current and former customers.
-  * In the event of material policy changes to this policy, a new privacy notice will be sent to you.
-  * This policy is available at [http://www.ngwebsolutions.com](http://www.ngwebsolutions.com/)
-  * This policy does not apply if NGWeb Solutions provides services for another entity. In these circumstances that entity’s privacy policy will apply to the use of your personally identifiable information by that entity 
-
-
-
-#### Protecting your personally identifiable information 
-
-You are encouraged to take steps to protect your privacy by keeping passwords and personal identification numbers confidential, never disclosing personal information to unknown callers, and ensuring your Internet use is secured and protected from unauthorized access or use. If you believe you are a victim of identify theft:
-
-  * Call the Federal Social Security Administration fraud hotline: 800.269.0271
-  * File a police report with your local authorities, note the report number and officer’s name
-  * Call the Federal Trade Commission’s Identity Theft hotline: 877.IDTHEFT
-  * Contact the major national credit reporting agencies: 
-    * Experian 888.397.3742
-    * Equifax 800.525.6285
-    * Trans Union 800.680.7289
-    * Innovis 800.540.2505 
-
-
-
-This list may change at any time without notice. Please visit [http://www.ngwebsolutions.com](http://www.ngwebsolutions.com/) to review the most current version of this policy. 
+This Privacy Statement is effective on August 15, 2016.
