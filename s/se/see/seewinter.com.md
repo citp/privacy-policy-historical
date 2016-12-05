@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seewinter.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624033006id_/http%3A//www.seewinter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seewinter.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205050259id_/http%3A//www.seewinter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Clearwater Marine Aquarium
 
