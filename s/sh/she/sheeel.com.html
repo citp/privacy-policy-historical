@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sheeel.com privacy policy that was archived on 2016-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160530071412id_/http%3A//www.sheeel.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sheeel.com privacy policy that was archived on 2016-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161205015624id_/http%3A//www.sheeel.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -16,8 +16,9 @@
 <link href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Amaranth:700" rel="stylesheet" type="text/css">
 
-<link rel="stylesheet" type="text/css" href="http://sheeel-media.r.worldssl.net/media/css/36542bf1bb13928ef5031c55afa4f9fa.1458645589.css" media="all">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TBDHRF"></script><script type="text/javascript" src="http://sheeel-media.r.worldssl.net/media/js/a8b6127ad7e7542c6ea18eca91b8ec9a.1416220925.js"></script>
+<link rel="stylesheet" type="text/css" href="http://sheeel-media.r.worldssl.net/media/css/36542bf1bb13928ef5031c55afa4f9fa.1476705561.css" media="all">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TBDHRF"></script><script type="text/javascript" src="http://sheeel-media.r.worldssl.net/media/js/2a8e26ddc96adefb4f6191c6cb430eca.1478512101.js"></script>
+<script type="text/javascript" src="http://sheeel-media.r.worldssl.net/media/js/c6c72df184009819e91a182e33f91b53.1354711289.js" data-group="main"></script>
 <link rel="manifest" href="https://www.sheeel.com/chrome_res/">
 <!--[if lt IE 9]>
 <link rel="stylesheet" type="text/css" href="http://sheeel-media.r.worldssl.net/media/css/cc155ff1cdf576ce55702871eff36b26.1416923227.css" media="all" />
@@ -195,7 +196,7 @@ optionalZipCountries = ["BH","KW","OM","QA","SA","AE"];
 	(new newsletterSubscribe(30));
 
 //]]>
-</script><div class="wrapper">
+</script><div id="wrapper" class="wrapper">
         <noscript>
         <div class="global-site-notice noscript">
             <div class="notice-inner">
@@ -208,16 +209,37 @@ optionalZipCountries = ["BH","KW","OM","QA","SA","AE"];
     <div class="page">
         
 
-
-<div class="header-container">
-    <div class="header">
-
+<div class="header">
+    <div class="header-container ">
         <a href="http://www.sheeel.com/" title="Sheeel.com" class="logo default">
             Sheeel - Deals Everyday        </a>
 
-        <div id="country-switcher" class="visible-desktop">
-	<div class="marker">Marker</div>
-	<label for="select-country" title="Choose Country">Choose Country</label>
+
+
+        <div id="header-links" class="header-links default-store">
+
+            <form id="search_mini_form" action="http://www.sheeel.com/catalogsearch/result/" method="get">
+    <div id="searchSwitchContent" class="form-search switch-content country-switcher-mini-content">
+        <input id="search" type="text" placeholder="Search..." name="q" value="" class="input-text" maxlength="128">
+        <button type="submit" title="Search" class="button"><span><span>go!</span></span></button>
+        <div id="search_autocomplete" class="search-autocomplete"></div>
+        <script type="text/javascript">
+        //<![CDATA[
+            var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search...');
+            searchForm.initAutocomplete('http://www.sheeel.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+        //]]>
+        </script>
+    </div>
+</form>
+            <div class="language-currency">
+                	
+		<a class="form-language" href="http://www.sheeel.com/privacy?___store=arabic&amp;___from_store=default">عربي</a>	
+	
+                            </div>
+
+            <div id="country-switch" class="visible-desktop">
+
+	<label for="select-country" title="Choose Country"><span class="icon-map-marker"></span></label>
 	<select id="select-country" onchange="location.href=this.value">
 				        	<option selected="selected" value="http://www.sheeel.com/">Kuwait</option>
 				        	<option value="http://www.sheeel.com/ksa/">Saudi Arabia</option>
@@ -226,54 +248,34 @@ optionalZipCountries = ["BH","KW","OM","QA","SA","AE"];
 
 
 
-        <a id="countrySwitchSmall" class="country-switcher-mini hidden-desktop" href="#" title="Change country">
-            <i class="icon-flag"></i>
-        </a>
+            <a id="countrySwitchSmall" class="country-switcher-mini hidden-desktop" href="#" title="Change country">
+                <i class="icon-flag"></i>
+            </a>
 
-        <div class="quick-access">
-            <a class="how-does-it-work-link visible-desktop" href="http://www.sheeel.com/what-is-sheeel/" title="What is Sheeel?">What is Sheeel?</a>
 
-            <div class="language-currency">
-                	
-		<a class="form-language" href="http://www.sheeel.com/privacy?___store=arabic&amp;___from_store=default">عربي</a>	
-	
+            <a href="#" id="searchSwitchSmall" class="country-switcher-mini"><i class="icon-search"></i></a>
+
+            <div class="login_register non-desktop">
+                <a id="accountSwitchSmall" class="country-switcher-mini" href="https://www.sheeel.com/customer/account/login/" title="Login/Register">
+                    <i class="icon-user"></i>
+                </a>
+            </div>
+
+            <div class="login-register desktop">
+                                <a href="https://www.sheeel.com/customer/account/login/" title="Login/Register">
+                    <span>Login/Register</span>
+                </a>
                             </div>
 
-            <ul class="links">
-                <li class="login-register non-desktop">
-                    <a id="accountSwitchSmall" href="https://www.sheeel.com/customer/account/login/" title="Login/Register">
-                        <i class="icon-user"></i><span>Login/Register</span>
-                    </a>
-                </li>
-                <li class="login-register desktop">
-                                        <a href="https://www.sheeel.com/customer/account/login/" title="Login/Register">
-                        <span>Login/Register</span>
-                    </a>
-                                    </li>
 
-                
-                                                <li class="my-cart-link">
+                                                <div class="my-cart-link">
                     <a id="cartSwitch" href="http://www.sheeel.com/checkout/cart/" title="My Cart" class=""><i class="icon-shopping-cart"></i><span>My Cart</span></a>
-                                    </li>
+                                    </div>
 
-            </ul>
         </div>
-
-        <div id="countrySwitchContent" class="country-switcher-mini-content" style="display:none;">
-            <h5>Choose country</h5>
-            <ul>
-					<li>
-			<a class="current" href="http://www.sheeel.com/" title="Kuwait">
-				Kuwait			</a>
-		</li>
-					<li>
-			<a href="http://www.sheeel.com/ksa/" title="Saudi Arabia">
-				Saudi Arabia			</a>
-		</li>
-			</ul>
-        </div>
-        <div id="accountSwitchContent" class="login-register-mini-content" style="display:none;">
-                        <h5>Login or Register</h5>
+        <div id="header-hidden-content">
+            <div id="accountSwitchContent" class="login-register-mini-content" style="display:none;">
+                                    <h5>Login or Register</h5>
 <form action="https://www.sheeel.com/customer/account/loginPost/" method="post">
     <div class="block-content">
         <div class="f-left">
@@ -297,151 +299,238 @@ optionalZipCountries = ["BH","KW","OM","QA","SA","AE"];
     Forgot Your Password?</a>
 
 
-            
+                            </div>
+            <div id="countrySwitchContent" class="country-switcher-mini-content" style="display:none;">
+                <h5>Choose country</h5>
+                <ul>
+					<li>
+			<a class="current" href="http://www.sheeel.com/" title="Kuwait">
+				Kuwait			</a>
+		</li>
+					<li>
+			<a href="http://www.sheeel.com/ksa/" title="Saudi Arabia">
+				Saudi Arabia			</a>
+		</li>
+			</ul>
+            </div>
         </div>
-        <div class="nav-container">
-    <ul id="nav">
-        <li class="first-item ">
-            <a href="http://www.sheeel.com/" title="Main Deal">
-                Main Deal            </a>
-        </li>
-        <li class="more-item">
-            <a onclick="toggleContent()" class="more_toggle">More &nbsp;&nbsp;&nbsp;<span class="more-icon">+</span></a>
-            <ul class="sub-menu"></ul>
-        </li>
-                    <li class="level0 nav-1 first level-top"><a href="http://www.sheeel.com/under-5.html" class="level-top"><span>Scales</span></a></li><li class="level0 nav-2 level-top"><a href="http://www.sheeel.com/special-corner.html" class="level-top"><span>Galaxy Devices</span></a></li><li class="level0 nav-3 last level-top"><a href="http://www.sheeel.com/coupons-kwt.html" class="level-top"><span>Coupons</span></a></li>        
-    </ul>
-    <div id="clone_nav" style="display:none"></div>
 
-</div>
-
-<script type="text/javascript">    
-    var el = document.getElementById("nav");
-    //localStorage.setItem("clone_nav", el.innerHTML);
-    var initialMenu = el.innerHTML;
-    var category_length;    
-    menu_load();
-
-    function menu_load(){         
-        
-        var children = el.childElements();
-        var category = el.getElementsByClassName("level0");                
-        var width = document.body.clientWidth;
-        category_length = 4;
-
-        for(var i=2; i<4; i++){
-
-            if( (el.offsetWidth/4) < (children[i].getElementsByTagName("span")[0].offsetWidth+20) ) {
-                category_length = 3;            
-            }
-        }
-
-        if(category.length>3 || width < 480 ){
-            load_sub_menu();    
-        }else{        
-            for(var i=2; i<children.length; i++){
-                if( (el.offsetWidth/4) < (children[i].getElementsByTagName("span")[0].offsetWidth+20) ){
-                    category_length = 3;                  
-                }
-            }
-
-            if(category_length == 3 ){
-                load_sub_menu();            
-            }else{
-                document.getElementsByClassName("more-item")[0].style.display = "none";
-                document.getElementsByClassName("last")[0].style.borderRight = "none";
-                
-                children.each(function(element) {
-                    element.setStyle({"width": (100/(children.length-1)-1)+'%'});
-                });     
-            }        
-        }      
-    }
-
-    window.addEventListener("resize", function() {   
-        //el.innerHTML = localStorage.getItem("clone_nav");
-        el.innerHTML = initialMenu;
-        menu_load();        
-    }, false);
-
-    function load_sub_menu(){ 
-        
-        var children = el.childElements();                    
-        var total = children.size();    
-        var j = category_length;
-        var width = document.body.clientWidth;
-        var sub_menu = document.getElementsByClassName("sub-menu")[0];             
-        var sub_children = sub_menu.childElements();
-
-        if( width < 480 ){
-            j = 2;
-        }
-
-        if (total < 3) {
-            if(category_length == 3){                
-                el.appendChild( sub_children[0]);
-            }else{
-                if( sub_children.length > 1 ){                                
-                    el.appendChild( sub_children[0]);
-                    el.appendChild( sub_children[1]);                
-                }else if(sub_children.length == 1){
-                    el.appendChild( sub_children[0]);
-                }    
-            }
-
-            var last = children[children.length -1];
-            last.setStyle({"border": "none"});            
-        }else{
-            for(var i=children.length-1; i >= j; i--){                
-                sub_menu.insertBefore( children[i], sub_menu.firstChild );                
-            }                        
-            sub_menu.childElements().each(function(element) {
-                element.setStyle({"width": '100%'});
-            });    
-        }
-
-
-
-        var children = el.childElements();             
-        var total = children.size();            
-
-        children.each(function(element) {
-            element.setStyle({"width": (100/total-1)+'%'});
-        });    
-
-        if(total ==3 ){            
-            if(children[2].getElementsByTagName("span")[0].offsetWidth > (children[2].offsetWidth-30)){
-
-                children.each(function(element) {
-                    element.setStyle({"width": '26%'});
-                });    
-                children[2].setStyle({"width": '46%'});
-            } 
-        }
-    }
-
-    function toggleContent() {
-        // Get the DOM reference
-        var sub_menu = document.getElementsByClassName("sub-menu")[0];
-        // Toggle 
-        sub_menu.style.display == "block" ? sub_menu.style.display = "none" : 
-        sub_menu.style.display = "block"; 
-
-        var more_icon = document.getElementsByClassName("more-icon")[0];                
-        more_icon.innerHTML == "+" ? more_icon.innerHTML = "-" : more_icon.innerHTML = "+";
-        var more_item = document.getElementsByClassName("more-item")[0];
-        more_icon.innerHTML == "+" ? more_item.getElementsByTagName("a")[0].className = "more_toggle": more_item.getElementsByTagName("a")[0].className = "more-toggle";
-    }
-</script>
     </div>
+    <div id="navigation-wrapper">
+        
+<div class="navigation ">
+    <div id="nav-wrap" class="nav-container">
+        <div id="animation-hint" class="animation-hint"></div>
+        <div id="nav-container" class="main-nav nav-slider">
+            <ul id="nav" class="nav visible-links">
+                <li class="first-item ">
+                    <a href="http://www.sheeel.com/" title="Main Deal">
+                        Main Deal                    </a>
+                </li>
+                                    <li class=""><a href="http://www.sheeel.com/coupons-kwt.html"><span>Coupons</span></a></li><li class=""><a href="http://www.sheeel.com/under-5.html"><span>Tools</span></a></li><li class=""><a href="http://www.sheeel.com/special-corner.html"><span>Bella Lenses</span></a></li><li class="last"><a href="http://www.sheeel.com/extra-corner-2.html"><span>Midas</span></a></li>                                <li id="nav-more" class=" hidden">
+                    <a id="show-more" href="#">More + </a>
+                    <ul id="hidden-links" class="hidden-links" style="display: none;"></ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="navigation secondary-nav">
+    </div>
+<script type="text/javascript">
+
+    (function() {
+
+        var state = "";
+        enquire.register('(max-width: 800px)', {
+            match: function () {
+                state =  "slide";
+            },
+            unmatch: function () {
+                state =  "more";
+            }
+        });
+
+
+        //slide state
+        if(state == "slide") {
+
+            var scrollContainer = $("nav-container");
+            var activeElement = $$("#nav li.active").first();
+
+            //no scroll check?
+            //if(scrollContainer.scrollWidth <= scrollContainer.offsetWidth) { return; }
+
+            $("navigation-wrapper").addClassName("slide");
+
+            //move active to middle
+            var leftOffset;
+            if(document.dir == "rtl") {
+                leftOffset = activeElement.positionedOffset().left + scrollContainer.scrollWidth - scrollContainer.offsetWidth;
+            } else {
+                leftOffset = activeElement.positionedOffset().left;
+            }
+
+            scrollContainer.scrollLeft = leftOffset + activeElement.getWidth()/2 - scrollContainer.offsetWidth/2;
+
+            var handleScroll = function() {
+                //console.log(scrollContainer.scrollWidth - scrollContainer.offsetWidth);
+
+                if(scrollContainer.scrollLeft <= 0) {
+                    scrollContainer.addClassName("left-end")
+                    //console.log("start");
+                } else if(scrollContainer.scrollLeft >= scrollContainer.scrollWidth - scrollContainer.offsetWidth - 1) { //1px diff? padding?
+                    scrollContainer.addClassName("right-end")
+                    //console.log("end");
+                } else {
+                    scrollContainer.removeClassName("right-end");
+                    scrollContainer.removeClassName("left-end");
+                    //console.log("other");
+                }
+            };
+
+            //react on scroll start, end, middle
+            scrollContainer.observe("scroll", handleScroll);
+
+            handleScroll();
+
+
+            var ShowHint = parseInt(localStorage.getItem('shown'));
+
+            if (ShowHint) {
+                if (ShowHint < 3) {
+                    $("animation-hint").addClassName("animate");
+                    ShowHint++;
+                    localStorage.setItem('shown', ShowHint);
+                }
+            } else {
+                $("animation-hint").addClassName("animate");
+                localStorage.setItem('shown', '1');
+            }
+
+
+            //more state
+        } else {
+
+            var elements = $$("#nav li");
+            elements.pop(); // remove More li
+
+            var containerWidth = $("nav-container").getWidth();
+            var moreWidth = $("nav-more").getWidth();
+
+            //menu is breaking on this widths
+            var menuBreakes = $A([]);
+            var width = 0;
+            elements.each(function(el) {
+                width += el.getWidth();
+                //menuBreakes.push(el.positionedOffset().left + el.getWidth());
+                menuBreakes.push(width);
+            });
+
+            //number above means no break
+            var currentBreak = elements.length;
+
+            var handleMore = function() {
+
+                var newBreak = elements.length;
+
+                //resolve newBreak value
+                menuBreakes.each(function(breakk, i) {
+                    if(breakk > containerWidth - moreWidth) {
+                        newBreak = i;
+                        throw $break;
+                    }
+                });
+
+                //console.log(newBreak, currentBreak);
+
+                //if currentBreak isn't changed, do nothing
+                if(newBreak === currentBreak) {
+                    return;
+
+                    //restore from more
+                } else if(newBreak > currentBreak) {
+                    var moreElements = $$("#nav-more ul li");
+
+                    for(var i = 0; i < newBreak-currentBreak; i++) {
+                        $("nav-more").insert({
+                            before: moreElements[i]
+                        });
+                    }
+
+                    //move to more
+                } else {
+
+                    for(var i = currentBreak-1; i >= newBreak; i--) {
+                        $$("#nav-more ul")[0].insert({
+                            top: elements[i]
+                        });
+                    }
+                }
+
+                if(newBreak == elements.length) {
+                    $("nav-more").addClassName("hidden");
+                } else {
+                    $("nav-more").removeClassName("hidden");
+                }
+
+                currentBreak = newBreak;
+            }
+
+            //initial state
+            handleMore();
+
+            //hadle more on resize
+            var timer = false;
+            Event.observe(window, "resize", function() {
+                if(timer) {
+                    clearTimeout(timer);
+                }
+
+                timer = setTimeout( function() {
+                    containerWidth = $("nav-container").getWidth();
+                    handleMore();
+                }, 200);
+            });
+
+
+            $("show-more").observe("click", function (event) {
+                event.preventDefault();
+                $("hidden-links").toggle();
+            });
+
+        }
+
+
+    })();
+
+</script>    </div>
+
 </div>
 
 <script type="text/javascript">
     //<![CDATA[
+
+    enquire.register('(max-width: 599px)', {
+        match: function () {
+            $j('#searchSwitchContent').hide();
+            $j('#header-hidden-content').prepend($j('#search_mini_form'));
+        },
+        unmatch: function () {
+            $j('#header-links').prepend($j('#search_mini_form'));
+            $j('#searchSwitchContent').show();
+        }
+    });
+
+
+
     var country = $('countrySwitchSmall');
     var account = $('accountSwitchSmall');
+    var search = $('searchSwitchSmall');
     var countryContent = $('countrySwitchContent');
     var accountContent = $('accountSwitchContent');
+    var searchContent = $('searchSwitchContent');
+
 
     function resetSwitcher(element, content) {
         if (element.hasClassName('active')) {
@@ -453,6 +542,7 @@ optionalZipCountries = ["BH","KW","OM","QA","SA","AE"];
     country.observe('click', function (event) {
         event.preventDefault();
         resetSwitcher(account, accountContent);
+        resetSwitcher(search, searchContent);
         this.toggleClassName('active');
         countryContent.toggle();
     });
@@ -460,9 +550,41 @@ optionalZipCountries = ["BH","KW","OM","QA","SA","AE"];
     account.observe('click', function (event) {
         event.preventDefault();
         resetSwitcher(country, countryContent);
+        resetSwitcher(search, searchContent);
         this.toggleClassName('active');
         accountContent.toggle();
     });
+    search.observe('click', function (event) {
+        event.preventDefault();
+        resetSwitcher(account, accountContent);
+        resetSwitcher(country, countryContent);
+        this.toggleClassName('active');
+        searchContent.toggle();
+    });
+
+    var setOffset = function() {
+        HeadPos = $('navigation-wrapper').getBoundingClientRect().top;
+        HeadHeight = $('navigation-wrapper').getHeight();
+    };
+
+    setOffset();
+
+
+    var myScrollFunc = function() {
+
+        var y = window.scrollY;
+
+        if (y > HeadPos) {
+            $("wrapper").addClassName("fixed-nav");
+            $("wrapper").setAttribute("style", "padding-top: " + HeadHeight + "px;");
+
+        } else {
+            $("wrapper").removeClassName("fixed-nav");
+            $("wrapper").setAttribute("style", "padding-top: 0;");
+        }
+    };
+
+    window.addEventListener("scroll", myScrollFunc);
     //]]>
 </script>
 
@@ -559,22 +681,26 @@ optionalZipCountries = ["BH","KW","OM","QA","SA","AE"];
 		<ul id="mobile-menu-bottom">
 			
 											<li style="width:49%" class="first ">
-					<a href="http://www.sheeel.com/under-5.html" title="Scales">
-						Scales					</a>
-				</li>
-															<li style="width:49%" class="">
-					<a href="http://www.sheeel.com/special-corner.html" title="Galaxy Devices">
-						Galaxy Devices					</a>
-				</li>
-															<li style="width:49%" class="last ">
 					<a href="http://www.sheeel.com/coupons-kwt.html" title="Coupons">
 						Coupons					</a>
+				</li>
+															<li style="width:49%" class="">
+					<a href="http://www.sheeel.com/under-5.html" title="Tools">
+						Tools					</a>
+				</li>
+															<li style="width:49%" class="">
+					<a href="http://www.sheeel.com/special-corner.html" title="Bella Lenses">
+						Bella Lenses					</a>
+				</li>
+															<li style="width:49%" class="last ">
+					<a href="http://www.sheeel.com/extra-corner-2.html" title="Midas">
+						Midas					</a>
 				</li>
 									</ul>
 	</div>
         <div class="footer-container">
         <div class="footer-banner">
-        <p><a href="https://itunes.apple.com/us/app/thouqi/id1114514057?mt=8" target="_blank"><img src="http://sheeel-media.r.worldssl.net/media/wysiwyg/Thouqi/0-weu-d1-f196bf18374c843d4bd2b07d27ffc867.jpg" alt=""></a></p>    </div>
+        <p><a href="http://www.thouqi.com" target="_blank"><img src="http://sheeel-media.r.worldssl.net/media/wysiwyg/Thouqi/Sheeel-Size.jpg" alt=""></a></p>    </div>
         <div class="absolute-top-footer-container">
         <div class="absolute-top-footer">
             <div class="newsletter-subscribe">
@@ -678,6 +804,10 @@ optionalZipCountries = ["BH","KW","OM","QA","SA","AE"];
     </div>    
     
 </div>
+<div id="popup-product-view"></div>
+<script>
+    new Addcart();
+</script>
         <!-- Google Code for Remarketing Tag -->
 <!--------------------------------------------------
 Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
