@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hark.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629221444id_/http%3A//www.hark.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hark.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206002541id_/http%3A//hark.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hark
 
