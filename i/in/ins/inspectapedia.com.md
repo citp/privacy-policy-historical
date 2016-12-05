@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspectapedia.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524165157id_/http%3A//www.inspectapedia.com/Admin/InspectApedia_Policies.php%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspectapedia.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205152957id_/http%3A//inspectapedia.com/Admin/InspectApedia_Policies.php%23Privacy) for the most accurate reproduction.*
 
 # Accuracy Pledge: Technical Accuracy of Articles and Reporting Without Bias are Guaranteed at InspectAPedia.com
 
@@ -20,7 +20,7 @@ To assure that information presented at our website is accurate and un-biased, a
   * **We will cite our information sources** within the text of articles and at the end of articles where we list references and resources. Contributors or any other email correspondents who wish to remain anonymous may of course do so, though to avoid a charge of invention we may keep an offline private record of correspondence.
   * **We solicit technical and peer reviewers** of website content from industry experts and other professionals. Where possible identify technical reviewers at the end of each article and provide contact information for them. Since technical research and data can always be improved, we invite and will act quickly on reports of error or inaccuracy. **
 
-Any reader who knows or believes that there is a mistake or error, inaccuracy, or incompleteness in our website content is asked to[contact us by email](https://web.archive.org/Admin/Contact_InspectApedia.php)
+Any reader who knows or believes that there is a mistake or error, inaccuracy, or incompleteness in our website content is asked to[contact us by email](https://web.archive.org/Admin/Contact-InspectApedia.php)
 
 **. We will research the question raised and making any appropriate corrections, additions, or amendments we can discover under the aegis of providing helpful and accurate information to our readers.
   * **Accuracy and safety - editorial policy:** we remain cordial to and inviting of views from all correspondents, and we specifically invite technical comment, opinion, suggestions for corrections or additions to our website material in order that it can be more complete and more accurate. 
@@ -31,7 +31,7 @@ However opinions that are profane, unsubstantiated, or that we cannot substantia
   * Some [InspectAPedia.com](https://web.archive.org/index.php) articles include links to relevant books or other publications for sale through Amazon.com, for which the website may receive a commission. Typical annual revenue received from such book sales is less than $200. We do not sell products, parts, or other items. If we include links to expert consultants or service providers, there is no fee associated with accepting such listings.
   * **InspectAPedia.com welcomes comments, suggestions, or complaints** about errors that merit correction in our website content. That notice is posted frequently throughout the website. 
 
-We name and give credit to correspondents who offer corrections or content additions except where such correspondents ask to remain anonymous. Readers who wish to offer a comment, suggestion, or correction to our content or who are concerned with InspectAPedia's journalistic integrity can reach the editor/publisher using the information at [CONTACT.](https://web.archive.org/Admin/Contact_InspectApedia.php)
+We name and give credit to correspondents who offer corrections or content additions except where such correspondents ask to remain anonymous. Readers who wish to offer a comment, suggestion, or correction to our content or who are concerned with InspectAPedia's journalistic integrity can reach the editor/publisher using the information at [CONTACT.](https://web.archive.org/Admin/Contact-InspectApedia.php)
 
 
 
@@ -72,7 +72,7 @@ The terms of those websites and not ours governs use of their material.
 
 ### Notice for Copyright Violation or Intellectual Property Rights Violation
 
-If you think that your work has been copied here, at InspectApedia.com in a manner that violates your copyright or intellectual property rights, please [CONTACT](https://web.archive.org/Admin/Contact_InspectApedia.php) us and provide the information below:
+If you think that your work has been copied here, at InspectApedia.com in a manner that violates your copyright or intellectual property rights, please [CONTACT](https://web.archive.org/Admin/Contact-InspectApedia.php) us and provide the information below:
 
   1. An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest;
   2. A description of the copyrighted work or other intellectual property that you claim has been infringed;
@@ -104,7 +104,7 @@ The copyright infringement outline below is from Wikipedia (10/30/10) and author
 > 
 > _For electronic and audio-visual media under copyright, unauthorized reproduction and distribution is also commonly referred to as piracy._
 
-**_Penalties for copyright infringement_** may potentially be very costly for the individual or their employer. An award of up to $150,000 for each act of willful infringement may be levied. When in doubt regarding the use of materials, seek copyright permission. [CONTACT](https://web.archive.org/Admin/Contact_InspectApedia.php) us and obtain written (or email) permission before copying or using any of our website material.
+**_Penalties for copyright infringement_** may potentially be very costly for the individual or their employer. An award of up to $150,000 for each act of willful infringement may be levied. When in doubt regarding the use of materials, seek copyright permission. [CONTACT](https://web.archive.org/Admin/Contact-InspectApedia.php) us and obtain written (or email) permission before copying or using any of our website material.
 
 _Information in the copyright points outlined above was determined by web search as a copyright violation model, by web search 10/30/2010, at Yahoo, http://info.yahoo.com/copyright/us/details.html, and from Wikipedia http://en.wikipedia.org/wiki/Copyright, and from policies written by Georgetown University at http://policies.georgetown.edu/copyright/sections/permissions/_
 
@@ -116,7 +116,7 @@ _Information in the copyright points outlined above was determined by web search
 
 **There are no listing fees & no conflicts of interest.** We reserve the right to list or not list individuals or companies and to provide notice of consumer compliments or complaints. Also see our [ADVERTISING POLICY](https://web.archive.org/Admin/InspectApedia_Policies.php#Advertising) and [LINK EXCHANGE POLICY](https://web.archive.org/Admin/InspectApedia_Policies.php#LinkExchange)
 
-**Qualified experts** in the fields discussed at this website (and suitable for the directories listed at [CONSULTANTS & EXPERTS DIRECTORIES](https://web.archive.org/Consultants_Directory.php)), inspectors, forensic engineers, construction & environmental investigators and laboratories: if you are qualified to serve residential or commercial properties and if you are committed to working without actual or apparent conflict of interest (your company does not inspect, test, and also remediate or repair buildings) you may qualify to be listed in this directory without charge.
+**Qualified experts** in the fields discussed at this website (and suitable for the directories listed at [CONSULTANTS & EXPERTS DIRECTORIES](https://web.archive.org/Expert-Consultants-Directory.php)), inspectors, forensic engineers, construction & environmental investigators and laboratories: if you are qualified to serve residential or commercial properties and if you are committed to working without actual or apparent conflict of interest (your company does not inspect, test, and also remediate or repair buildings) you may qualify to be listed in this directory without charge.
 
 **The content at this website** is provided by [InspectAPedia.com®](https://web.archive.org/index.php) as a public service and without any conflicts of interest. This directory receives no support from ASHI, CAHI, CREIA, nor other any home inspection nor from any real estate firm nor any other business, listed or not listed, at our website. The author reserves the right to list or not list individual or companies and to provide notice of consumer compliments or complaints.
 
@@ -154,7 +154,7 @@ Technical reference books on various environmental and building or construction 
   * We may elect to block advertisements which we discover or readers inform us are associated with bad business practices, false-advertising, or junk science.
   * We do not accept advertising nor list products for which there is not supporting unbiased research on their effectiveness and proper application.
   * **[Inspect APedia.com](https://web.archive.org/index.php)** is a privately-operated public-information website/encyclopedia. We reserve the right to approve or disapprove any requests for service provider listings.
-  * Our contact information for technical website content correction or comments about the Google advertisements appearing on some of our web pages is at [Contact Us](https://web.archive.org/Admin/Contact_InspectApedia.php)
+  * Our contact information for technical website content correction or comments about the Google advertisements appearing on some of our web pages is at [Contact Us](https://web.archive.org/Admin/Contact-InspectApedia.php)
 
 
 
@@ -184,30 +184,30 @@ InspectAPedia.com provides these bookmarking links as a convenience to our users
 Green link shows where you are in this article series.
 
   * [InspectAPedia.com HOME](https://web.archive.org/index.htm "InspectAPedia.com Free Building and Environmental Diagnosis Encyclopedia")
-  * [AIR CONDITIONING & HEAT PUMPS](https://web.archive.org/aircond/Air_Conditioning.php)
+  * [AIR CONDITIONING & HEAT PUMPS](https://web.archive.org/aircond/Air-Conditioning.php)
   * [BOOKSTORE](https://web.archive.org/Admin/InspectAPedia_Bookstore.php)
-  * [ELECTRICAL](https://web.archive.org/electric/Building_Electrical_Systems.php)
-  * [ENERGY SAVINGS](https://web.archive.org/Energy/Energy_Savings.php)
-  * [ENVIRONMENT](https://web.archive.org/Environment/Environment_Building.php)
-  * [EXTERIORS](https://web.archive.org/exterior/Building_Exteriors.php)
-  * [HEATING](https://web.archive.org/heat/Building_Heating_Systems.php)
-  * [HOME INSPECTION](https://web.archive.org/home_inspection/Home_Inspection.php)
-  * [INDOOR AIR QUALITY](https://web.archive.org/BestPractices/IAQ_Best_Practices.php)
-  * [INSULATION](https://web.archive.org/insulation/Insulation_Inspection.php)
-  * [INTERIORS](https://web.archive.org/interiors/Building_Interiors.php)
-  * [MOLD INSPECT/TEST/CLEANUP](https://web.archive.org/mold/Building_Mold_Contamination.php)
-  * [NOISE](https://web.archive.org/noise_diagnosis/House_Noise_Diagnosis.php)
-  * [ODORS](https://web.archive.org/odor_diagnosis/Odor_Diagnosis_Cure.php)
-  * [PLUMBING](https://web.archive.org/plumbing/Building_Plumbing.php)
-  * [ROOFING](https://web.archive.org/roof/Roof_Install_Inspect_Repair.php)
-  * [SEPTIC SYSTEMS](https://web.archive.org/septic/Septic_Systems.php)
-  * [SOLAR ENERGY](https://web.archive.org/Solar/Solar_Energy.php)
-  * [STRUCTURE](https://web.archive.org/structure/Building_Structures.php)
-  * [VENTILATION](https://web.archive.org/ventilation/Building_Ventilation.php)
-  * [WATER SUPPLY](https://web.archive.org/water/Water_Information.php)
+  * [ELECTRICAL](https://web.archive.org/electric/Building-Electrical-Systems.php)
+  * [ENERGY SAVINGS](https://web.archive.org/Energy/Energy-Savings.php)
+  * [ENVIRONMENT](https://web.archive.org/Environment/Building-Environment.php)
+  * [EXTERIORS](https://web.archive.org/exterior/Building-Exteriors.php)
+  * [HEATING](https://web.archive.org/heat/Building-Heating-Systems.php)
+  * [HOME INSPECTION](https://web.archive.org/home_inspection/Home-Inspection.php)
+  * [INDOOR AIR QUALITY](https://web.archive.org/BestPractices/IAQ-Best-Practices.php)
+  * [INSULATION](https://web.archive.org/insulation/Insulation-in-Buildings.php)
+  * [INTERIORS](https://web.archive.org/interiors/Building-Interiors.php)
+  * [MOLD INSPECT/TEST/CLEANUP](https://web.archive.org/mold/Building-Mold-Contamination.php)
+  * [NOISE](https://web.archive.org/noise_diagnosis/Building-Noise-Diagnosis.php)
+  * [ODORS](https://web.archive.org/odor_diagnosis/Odor-Diagnosis-Cure.php)
+  * [PLUMBING](https://web.archive.org/plumbing/Building-Plumbing.php)
+  * [ROOFING](https://web.archive.org/roof/Roof-Install-Inspect-Repair.php)
+  * [SEPTIC SYSTEMS](https://web.archive.org/septic/Septic-Systems.php)
+  * [SOLAR ENERGY](https://web.archive.org/Solar/Solar-Energy.php)
+  * [STRUCTURE](https://web.archive.org/structure/Building-Structures.php)
+  * [VENTILATION](https://web.archive.org/ventilation/Building-Ventilation.php)
+  * [WATER SUPPLY](https://web.archive.org/water/Water-Information.php)
   * [ACCURACY & PRIVACY POLICIES](https://web.archive.org/Admin/InspectApedia_Policies.php)
-  * [EXPERT DIRECTORY](https://web.archive.org/home_inspection/Home_Inspectors_Directory.htm)
-  * [CONTACT](https://web.archive.org/Admin/Contact_InspectApedia.php)
+  * [EXPERT DIRECTORY](https://web.archive.org/home_inspection/Home_Inspectors_Directory.php)
+  * [CONTACT](https://web.archive.org/Admin/Contact-InspectApedia.php)
   * **FAQs** below discusses field reports of problems & solutions for this topic
 
 
