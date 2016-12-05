@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therapservices.net privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508075927id_/http%3A//www.therapservices.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therapservices.net privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205073845id_/https%3A//www.therapservices.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Therap
 
