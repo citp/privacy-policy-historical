@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the godandscience.org privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405150706id_/http%3A//godandscience.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godandscience.org privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205162050id_/http%3A//godandscience.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Evidence for God from Science
 
 ## General Privacy Policies
 
-_Evidence for God from Science_ does not release any kind of personal information collected from the website to any entity outside our organization. This information includes, but is not limited to e-mail addresses, correspondence, and site statistics. Writing to the ministry will not add your name, e-mail, or any other personal information to any list (including our own). You must specifically [request to be added to any lists](https://web.archive.org/web/20160405150706id_/http%3A//godandscience.org/newsletter.html). Now here is the legal/technical stuff:
+_Evidence for God from Science_ does not release any kind of personal information collected from the website to any entity outside our organization. This information includes, but is not limited to e-mail addresses, correspondence, and site statistics. Writing to the ministry will not add your name, e-mail, or any other personal information to any list (including our own). You must specifically [request to be added to any lists](https://web.archive.org/web/20161205162050id_/http%3A//godandscience.org/newsletter.html). Now here is the legal/technical stuff:
 
 ## About Us
 
@@ -157,5 +157,5 @@ NAV |  Navigation and clickstream data is collected.
 INT |  Interactive data is collected.   
 PRE |  Preference information is collected.   
   
-http://www.godandscience.org/privacy.html  
+http://godandscience.org/privacy.html  
 Last Modified February 20, 2012
