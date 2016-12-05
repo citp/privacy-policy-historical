@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareup.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616213901id_/http%3A//www.shareup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareup.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205190216id_/http%3A//www.shareup.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Shareup Networks
 
