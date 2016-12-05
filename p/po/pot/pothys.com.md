@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pothys.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620030021id_/https%3A//www.pothys.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pothys.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205085726id_/https%3A//www.pothys.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Silk sarees: Silk Saree Online | Online saree shopping | E-shopping for silk sarees
+# Privacy Policy | Pothys – Aalayam of Silks
 
 ### What information do we collect?
 
