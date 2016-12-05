@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lbi.co.uk privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623180754id_/http%3A//www.digitaslbi.com/uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbi.co.uk privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205074402id_/http%3A//www.digitaslbi.com/uk/privacy) for the most accurate reproduction.*
 
 # Privacy Statement and Cookie Information - DigitasLBi
 
