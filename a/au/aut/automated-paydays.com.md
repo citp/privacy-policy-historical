@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automated-paydays.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402054356id_/http%3A//www.automated-paydays.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automated-paydays.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205042318id_/http%3A//www.automated-paydays.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Automated Paydays
 
