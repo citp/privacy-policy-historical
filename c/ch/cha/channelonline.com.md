@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channelonline.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420235808id_/https%3A//cbsi.secure.force.com/CBSi/articles/FAQ/Privacy-Policy-Highlights%3Ftemplate%3Dtemplate_mobilepp%26referer%3Dmobilepp.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelonline.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205165607id_/https%3A//cbsi.secure.force.com/CBSi/articles/FAQ/Privacy-Policy-Highlights%3Ftemplate%3Dtemplate_mobilepp%26referer%3Dmobilepp.com) for the most accurate reproduction.*
 
 # CBSi Privacy Policy
 
