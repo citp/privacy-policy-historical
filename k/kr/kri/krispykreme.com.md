@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krispykreme.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508142217id_/http%3A//www.krispykreme.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krispykreme.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205054045id_/https%3A//www.krispykreme.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Krispy Kreme - Privacy Policy
 
@@ -86,4 +86,4 @@ This privacy policy is effective as of January 28, 2014. We reserve the right to
 
 ###  Contacting Krispy Kreme
 
-If you have questions or need further information, please send us an e-mail to the following address: [customer@krispykreme.com](mailto:customer@krispykreme.com). You may also contact us by mail at the following address: Krispy Kreme Doughnut Corporation, Attn: Customer Experience, P.O. Box 83, Winston-Salem, NC 27102. 
+If you have questions or need further information, please send us an e-mail to the following address: krispykreme@casupport.com. You may also contact us by mail at the following address: Krispy Kreme Doughnut Corporation, Attn: Customer Experience, P.O. Box 83, Winston-Salem, NC 27102. 
