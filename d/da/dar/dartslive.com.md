@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dartslive.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326220850id_/http%3A//www.dartslive.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dartslive.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206005435id_/http%3A//www.dartslive.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | DARTSLIVE
 
@@ -113,6 +113,13 @@ We use Cookies on our website for: the improvement of convenience for customers;
 2. Usage of Google Analytics
 
 For the purpose of improvement of services, we collect access information on our website through the use of Google Analytics. Google Analytics is a tool that collects user information through Cookies. The methods of collecting and using the access information are as described in the Google Analytics Terms of Service and Google privacy policy. For more details, please refer to the [Google Analytics website.](http://www.google.com/intl/en/analytics/privacyoverview.html) For the avoidance of doubt, we will not be responsible for any damage arising from use of the Google Analytics services.
+
+#### 14） Our iPhone and Android Apps
+
+To enhance the convenience of our customers and the quality of our services, we use an external service below:
+
+Profile Passport by Blogwatcher Inc.  
+[Handling of Information:](http://www.blogwatcher.co.jp/english/sp/lb_information.html)
 
 Revised: June 24, 2013  
 DARTSLIVE Co., Ltd.
