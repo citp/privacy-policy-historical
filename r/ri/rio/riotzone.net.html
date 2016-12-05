@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the riotzone.net privacy policy that was archived on 2016-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160613071649id_/http%3A//legal.my.com/us/games/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the riotzone.net privacy policy that was archived on 2016-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161205011301id_/http%3A//legal.my.com/us/games/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en_US" class=" js ph-backgroundsize ph-csstransforms3d ph-csstransitions ph-no-svg ph-classlist ph-raf ph-transitionend ph-dpr ph-no-mediadpr ph-no-retina ph-no-mobile"><head>
     <meta charset="UTF-8">
@@ -8,16 +8,17 @@
     <meta name="MobileOptimized" content="320">
     <meta name="HandheldFriendly" content="true">
     <meta id="viewport" name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <link rel="stylesheet" type="text/css" href="/css/legal.css?v=2013-12-05-15-00">
-    <link href="//img.staticmy.com/s/v/i/16/images/favicon/favicon.ico" type="image/x-icon" rel="shortcut icon">
-    <link href="//img.staticmy.com/s/v/i/16/images/favicon/favicon_iphone.png" rel="apple-touch-icon">
-    <link href="//img.staticmy.com/s/v/i/16/images/favicon/favicon_ipad.png" sizes="76x76" rel="apple-touch-icon">
-    <link href="//img.staticmy.com/s/v/i/16/images/favicon/favicon_iphone@2x.png" sizes="114x114" rel="apple-touch-icon">
-    <link href="//img.staticmy.com/s/v/i/16/images/favicon/favicon_ipad@2x.png" sizes="152x152" rel="apple-touch-icon">
-    <link href="//img.staticmy.com/s/v/i/16/images/favicon/favicon_ipad@2x.png" rel="image_src">
+    <link rel="stylesheet" type="text/css" href="/css/legal.css?v=20161118.1605-10">
+    <link href="//img.staticmy.com/s/v/i/16/images/favicon/favicon.ico?v=20161118.1605-10" type="image/x-icon" rel="shortcut icon">
+    <link href="//img.staticmy.com/s/v/i/16/images/favicon/favicon_iphone.png?v=20161118.1605-10" rel="apple-touch-icon">
+    <link href="//img.staticmy.com/s/v/i/16/images/favicon/favicon_ipad.png?v=20161118.1605-10" sizes="76x76" rel="apple-touch-icon">
+    <link href="//img.staticmy.com/s/v/i/16/images/favicon/favicon_iphone@2x.png?v=20161118.1605-10" sizes="114x114" rel="apple-touch-icon">
+    <link href="//img.staticmy.com/s/v/i/16/images/favicon/favicon_ipad@2x.png?v=20161118.1605-10" sizes="152x152" rel="apple-touch-icon">
+    <link href="//img.staticmy.com/s/v/i/16/images/favicon/favicon_ipad@2x.png?v=20161118.1605-10" rel="image_src">
     <link rel="canonical" href="https://legal.my.com/us/games/privacy/">
-<script type="text/javascript" async="" src="//ssl.google-analytics.com/ga.js"></script><script defer="" async="" type="text/javascript" src="//img.staticmy.com/p/mch/d/0.9.9/external.min.js"></script></head>
-<body>
+    <script type="text/javascript" async="" src="//ssl.google-analytics.com/ga.js"></script><script src="/js/jquery.min.js?v=20161118.1605-10"></script>
+<script defer="" async="" type="text/javascript" src="//img.staticmy.com/p/mch/d/0.9.10/external.min.js"></script></head>
+<body style="">
 <div class="mcBg"></div>
 
     <script>
@@ -25,7 +26,7 @@
             "auth":             0,
             "with_layout":      1,
             "lang":             "en_US",
-            "langs_available":  "en_US,de_DE,fr_FR,tr_TR,pl_PL",
+            "langs_available":  "en_US,de_DE,fr_FR,tr_TR,pl_PL,ru_RU",
             "set_lang_url":     "/lang/",
             "navigation_project_logo": "home",
             "background":              "mcBg4,mcBg5",
@@ -41,9 +42,13 @@
 <![endif]-->
 
 <script>
-    if (typeof window.__GMCS === "undefined") {
-        window.__GMCS = {};
-    }
+    window.__GMCS = window.__GMCS || {};
+    window.__GMC = window.__GMC || {
+        callbacks: [],
+        whenLoaded: function (callback) {
+            window.__GMC.callbacks.push(callback);
+        }
+    };
 </script>
 
 <div class="mcTop">
@@ -116,22 +121,29 @@
     <% if (GMCS.auth) { %>
 
         <span itemscope itemtype="ht<%%>tp://schema.my.com/ph-profilemenu">
-            <a itemprop="signinurl" href="//<%= GMCS.Hosts.account %>/login/?continue=<%= encodeURIComponent(GMCS['continue']) %>&lang=<%= encodeURIComponent(GMCS.lang) %>">
-                <span itemprop="name"><%= __('Log in') %></span>
-                <meta itemprop="cls" content="js_navigation__login_btn" />
-            </a>
+            <% if (GMCS.navigation_ps_only) { %>
+                <a itemprop="signinurl" href="//<%= Hosts.auth %>/social/ps?continue=<%= encodeURIComponent(GMCS['continue']) %>&lang=<%= encodeURIComponent(GMCS.lang) %>">
+                    <span itemprop="name"><%= __('Log in') %></span>
+                    <meta itemprop="cls" content="js_navigation__login_ps_btn mcTop_LoginPs" />
+                </a>
+            <% } else { %>
+                <a itemprop="signinurl" href="//<%= Hosts.account %>/login/?continue=<%= encodeURIComponent(GMCS['continue']) %>&lang=<%= encodeURIComponent(GMCS.lang) %>">
+                    <span itemprop="name"><%= __('Log in') %></span>
+                    <meta itemprop="cls" content="js_navigation__login_btn" />
+                </a>
+            <% } %>
             <% if (GMCS.current_mc_user && GMCS.current_mc_user.user_id) { %>
                 <a itemprop="profileurl">
                     <span itemprop="login"><%= Utils.html_escape(Utils.buildUserNick(GMCS.current_mc_user)) %></span>
-                    <meta itemprop="avatar" content="//<%= GMCS.Hosts.avt %>/<%= GMCS.current_mc_user.user_id %>.45.jpeg" />
+                    <meta itemprop="avatar" content="//<%= Hosts.avt %>/<%= GMCS.current_mc_user.user_id %>.45.jpeg" />
                 </a>
                 <span itemscope itemprop="item">
-                    <a href="https://<%= GMCS.Hosts.account %>/profile/userinfo/" itemprop="url">
-                        <span itemprop="name"><%= __('Profile') %></span>
+                    <a href="https://<%= Hosts.account %>/profile/userinfo/" itemprop="url">
+                        <span itemprop="name"><%= __('My Account') %></span>
                     </a>
                 </span>
                 <span itemscope itemprop="item">
-                    <a href="https://<%= GMCS.Hosts.auth %>/logout?continue=<%= encodeURIComponent(GMCS['continue']) %>" itemprop="url">
+                    <a href="https://<%= Hosts.auth %>/logout?continue=<%= encodeURIComponent(GMCS['continue']) %>" itemprop="url">
                         <span itemprop="name"><%= __('Log out') %></span>
                         <meta itemprop="cls" content="js_navigation__logout_btn" />
                     </a>
@@ -150,7 +162,7 @@
             var lang = langs[i];
         %>
             <span itemscope itemprop="item">
-                <a href="//<%= GMCS.Hosts.account %>/change_language/?code=<%= lang.code %>&continue=<%= encodeURIComponent(lang.url) %>" itemprop="url">
+                <a href="//<%= Hosts.account %>/change_language/?code=<%= lang.code %>&continue=<%= encodeURIComponent(lang.url) %>" itemprop="url">
                     <span itemprop="name"><%= lang.name %></span>
                     <meta itemprop="iconCls" content="mcFlag mcFlag-<%= lang.code %>">
                 </a>
@@ -159,11 +171,32 @@
     </span>
     <% } %>
 
-</script>
-    <div class="js_navigation_ph" style="visibility: hidden">
-        <script>window.__PHS = {responsive: true, theme: 'dark'};</script>
-        <img src="https://r.my.com/d16722803.gif?sz=40&amp;rnd=176272732&amp;ts=1465802209&amp;sz=40" style="width:0;height:0;position:absolute;visibility:hidden;" alt="">
+    <% if (shares.length) { %>
+    <span itemscope itemtype="ht<%%>tp://schema.my.com/ph-sharingmenu">
+        <%
+        for (var i = 0; i < shares.length; i++) {
+            var share = shares[i];
+        %>
+            <span itemscope itemprop="item">
+                <meta itemprop="cls" content="js_navigation__share_btn js_navigation__share_btn-<%= share.code %>" />
+                <a href="#" itemprop="url">
+                    <span itemprop="name"><%= share.name %></span>
+                    <meta itemprop="iconCls" content="mcShare mcShare-<%= share.code %>">
+                </a>
+            </span>
+        <% } %>
+    </span>
+    <% } %>
 
+</script>
+    <div class="js_navigation_ph">
+        <script>
+            window.__PHS = window.__PHS || {
+                responsive: true,
+                theme: 'dark'
+            };
+        </script>
+        <img src="https://r.my.com/d16722803.gif?sz=40&amp;rnd=208593121&amp;ts=1480900381&amp;sz=40" style="width:0;height:0;position:absolute;visibility:hidden;" alt="">
 
 
 
@@ -177,22 +210,6 @@
 			ph.games.items = [
 				
 					{
-						title: 'Armored Warfare',
-						url: '//aw.my.com/?lang=en_US',
-						image: '//games.my.com/uploads/2015/07/01/9bfbf54.png',
-						image_x2: '//games.my.com/uploads/2015/07/01/270f3e0.png',
-						counter: ''
-					},
-				
-					{
-						title: 'Skyforge',
-						url: '//sf.my.com/?lang=en_US',
-						image: '//games.my.com/uploads/2015/07/01/356fe31.png',
-						image_x2: '//games.my.com/uploads/2015/07/01/1fd50f2.png',
-						counter: ''
-					},
-				
-					{
 						title: 'Revelation Online',
 						url: 'https://ro.my.com/about?lang=en_US',
 						image: '//games.my.com/uploads/2016/06/10/5b52d32.png',
@@ -201,10 +218,26 @@
 					},
 				
 					{
-						title: 'World of Speed',
-						url: '//wos.my.com/?lang=en_US',
-						image: '//games.my.com/uploads/2015/07/01/a16090c.png',
-						image_x2: '//games.my.com/uploads/2015/07/01/bd82768.png',
+						title: 'Armored Warfare',
+						url: '//aw.my.com/?lang=en_US',
+						image: '//games.my.com/uploads/2015/07/01/9bfbf54.png',
+						image_x2: '//games.my.com/uploads/2015/07/01/270f3e0.png',
+						counter: ''
+					},
+				
+					{
+						title: 'CLOUD PIRATES',
+						url: 'https://pirates.my.com/en/about?lang=en_US',
+						image: '//games.my.com/uploads/2016/08/31/0964d02.png',
+						image_x2: '//games.my.com/uploads/2016/08/31/0513ec2.png',
+						counter: ''
+					},
+				
+					{
+						title: 'Skyforge',
+						url: '//sf.my.com/?lang=en_US',
+						image: '//games.my.com/uploads/2016/10/06/0be64a2.png',
+						image_x2: '//games.my.com/uploads/2016/10/06/cfbb44f.png',
 						counter: ''
 					},
 				
@@ -225,10 +258,10 @@
 					},
 				
 					{
-						title: 'Might and Glory',
-						url: '//mg.my.com/en/?lang=en_US',
-						image: '//games.my.com/uploads/2015/09/10/28066e2.png',
-						image_x2: '//games.my.com/uploads/2015/09/10/8569c5a.png',
+						title: 'Juggernaut Champions',
+						url: '//jch.my.com/en/?lang=en_US',
+						image: '//games.my.com/uploads/2016/10/10/f3eccfe.png',
+						image_x2: '//games.my.com/uploads/2016/10/10/3b71d1e.png',
 						counter: ''
 					},
 				
@@ -273,18 +306,26 @@
 					},
 				
 					{
-						title: 'Lucky Fields',
-						url: '//lucky-fields.my.com/en/?lang=en_US',
-						image: '//games.my.com/uploads/2015/07/01/df7ca4d.png',
-						image_x2: '//games.my.com/uploads/2015/07/01/774780c.png',
-						counter: ''
-					},
-				
-					{
 						title: 'Jungle Clash',
 						url: '//jc.my.com/en/?lang=en_US',
 						image: '//games.my.com/uploads/2016/04/25/8e8710a.png',
 						image_x2: '//games.my.com/uploads/2016/04/25/7f719bd.png',
+						counter: ''
+					},
+				
+					{
+						title: 'Planet Of Heroes',
+						url: 'https://moba.my.com/?lang=en_US',
+						image: '//games.my.com/uploads/2016/08/10/3761c14.png',
+						image_x2: '//games.my.com/uploads/2016/08/10/5ca373d.png',
+						counter: ''
+					},
+				
+					{
+						title: 'Might and Glory',
+						url: '//mg.my.com/en/?lang=en_US',
+						image: '//games.my.com/uploads/2015/09/10/28066e2.png',
+						image_x2: '//games.my.com/uploads/2015/09/10/8569c5a.png',
 						counter: ''
 					}
 				
@@ -292,11 +333,11 @@
 		}(window.__PHS || (window.__PHS = {}));
 	</script>
 
-<style>.ph-font-preloader{position:absolute;left:-100px;top:-100px;width:1px;height:1px;overflow:hidden;font-family:Open sans}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-bold-webfont.eot");src:local('Open Sans Bold'),local('OpenSans-Bold'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-bold-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-bold-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-bold-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-bold-webfont.svg#open_sansbold") format('svg');font-weight:700;font-style:normal}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-bolditalic-webfont.eot");src:local('Open Sans Bold Italic'),local('OpenSans-BoldItalic'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-bolditalic-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-bolditalic-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-bolditalic-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-bolditalic-webfont.svg#open_sansbold_italic") format('svg');font-weight:700;font-style:italic}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-extrabold-webfont.eot");src:local('Open Sans Extrabold'),local('OpenSans-Extrabold'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-extrabold-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-extrabold-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-extrabold-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-extrabold-webfont.svg#open_sansextrabold") format('svg');font-weight:800;font-style:normal}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-extrabolditalic-webfont.eot");src:local('Open Sans Extrabold Italic'),local('OpenSans-ExtraboldItalic'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-extrabolditalic-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-extrabolditalic-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-extrabolditalic-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-extrabolditalic-webfont.svg#open_sansextrabold_italic") format('svg');font-weight:800;font-style:italic}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-italic-webfont.eot");src:local('Open Sans Italic'),local('OpenSans-Italic'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-italic-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-italic-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-italic-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-italic-webfont.svg#open_sansitalic") format('svg');font-weight:400;font-style:italic}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-light-webfont.eot");src:local('Open Sans Light'),local('OpenSans-Light'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-light-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-light-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-light-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-light-webfont.svg#open_sanslight") format('svg');font-weight:300;font-style:normal}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-lightitalic-webfont.eot");src:local('Open Sans Light Italic'),local('OpenSansLight-Italic'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-lightitalic-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-lightitalic-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-lightitalic-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-lightitalic-webfont.svg#open_sanslight_italic") format('svg');font-weight:300;font-style:italic}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-regular-webfont.eot");src:local('Open Sans'),local('OpenSans'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-regular-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-regular-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-regular-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-regular-webfont.svg#open_sansregular") format('svg');font-weight:400;font-style:normal}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-semibold-webfont.eot");src:local('Open Sans Semibold'),local('OpenSans-Semibold'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-semibold-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-semibold-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-semibold-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-semibold-webfont.svg#open_sanssemibold") format('svg');font-weight:600;font-style:normal}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-semibolditalic-webfont.eot");src:local('Open Sans Semibold Italic'),local('OpenSans-SemiboldItalic'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-semibolditalic-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-semibolditalic-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-semibolditalic-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.9/blocks/ph-fonts/__open-sans/opensans-semibolditalic-webfont.svg#open_sanssemibold_italic") format('svg');font-weight:600;font-style:italic}.portal-headline{position:relative;z-index:1;display:block;height:60px;min-width:640px;background:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAA8CAQAAAAN+BhxAAAANklEQVR4AWP678vEwABG/5kY/sEY/8GMf6iMv0jK/kMYEDYaCVOJYCAp/odmAh7DIXoxXPUfAJkUMHka4s/LAAAAAElFTkSuQmCC") 0 100% repeat-x}.portal-headline_dark{background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAA8CAYAAACn8dD6AAAAZElEQVR4AX1PhQ2EQBDc2SNEKY3+S/gaeDh3RyYjWeNLnDeTfVpQDnQAECIrIBsZKgCpcgMZGEqamwKI7C1eYBbwIleULlBVK0mIgQwBcpcvBkx/G+TOHJiFIzcVTv7KqRsgzwyFDjp67z2jNgAAAABJRU5ErkJggg==")}.portal-headline_mobile{height:44px;min-width:320px;background-size:auto 44px}.ph-menu{display:table;width:100%;height:60px;color:#333;font:11px/14px 'Open Sans',sans-serif;padding:0;box-sizing:border-box}.portal-headline_mobile .ph-menu{height:44px;min-width:320px;padding:0}.ph-menu__left{display:table-cell;padding-left:12px;text-align:left;vertical-align:top;width:1%}.portal-headline_mobile .ph-menu__left{padding-left:1px}.ph-menu__center{text-align:center}.ph-menu__center,.ph-menu__right{display:table-cell;vertical-align:top}.ph-menu__right{padding-right:15px;text-align:right;width:1%}.portal-headline_mobile .ph-menu__right{padding-right:3px}.ph-menu__left__inner,.ph-menu__center__inner,.ph-menu__right__inner{display:block;position:relative;height:60px;white-space:nowrap}.ph-menu__left__inner__leg,.ph-menu__center__inner__leg,.ph-menu__right__inner__leg{display:inline-block;height:0;overflow:hidden;visibility:hidden}.portal-headline_mobile .ph-menu__left__inner,.portal-headline_mobile .ph-menu__center__inner,.portal-headline_mobile .ph-menu__right__inner{height:44px}</style><div class="ph-font-preloader">f</div><div id="portal-headline" class="portal-headline portal-headline_allnew portal-headline_dark"><div class="ph-menu"><div class="ph-menu__left"><div class="ph-menu__left__inner"></div></div><div class="ph-menu__center"><div class="ph-menu__center__inner"><i class="ph-menu__center__inner__leg">s</i></div></div><div class="ph-menu__right"><div class="ph-menu__right__inner"></div></div></div></div><div id="ph-links" style="display:none;"><a id="ph-link_mail" href="https://r.my.com/n202698503?sz=40&amp;rnd=176272732"></a><a id="ph-link_games" href="https://r.my.com/n202698504?sz=40&amp;rnd=176272732"></a></div><script>
+<style>.ph-font-preloader{position:absolute;left:-100px;top:-100px;width:1px;height:1px;overflow:hidden;font-family:Open sans}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-bold-webfont.eot");src:local('Open Sans Bold'),local('OpenSans-Bold'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-bold-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-bold-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-bold-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-bold-webfont.svg#open_sansbold") format('svg');font-weight:700;font-style:normal}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-bolditalic-webfont.eot");src:local('Open Sans Bold Italic'),local('OpenSans-BoldItalic'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-bolditalic-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-bolditalic-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-bolditalic-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-bolditalic-webfont.svg#open_sansbold_italic") format('svg');font-weight:700;font-style:italic}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-extrabold-webfont.eot");src:local('Open Sans Extrabold'),local('OpenSans-Extrabold'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-extrabold-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-extrabold-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-extrabold-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-extrabold-webfont.svg#open_sansextrabold") format('svg');font-weight:800;font-style:normal}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-extrabolditalic-webfont.eot");src:local('Open Sans Extrabold Italic'),local('OpenSans-ExtraboldItalic'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-extrabolditalic-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-extrabolditalic-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-extrabolditalic-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-extrabolditalic-webfont.svg#open_sansextrabold_italic") format('svg');font-weight:800;font-style:italic}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-italic-webfont.eot");src:local('Open Sans Italic'),local('OpenSans-Italic'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-italic-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-italic-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-italic-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-italic-webfont.svg#open_sansitalic") format('svg');font-weight:400;font-style:italic}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-light-webfont.eot");src:local('Open Sans Light'),local('OpenSans-Light'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-light-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-light-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-light-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-light-webfont.svg#open_sanslight") format('svg');font-weight:300;font-style:normal}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-lightitalic-webfont.eot");src:local('Open Sans Light Italic'),local('OpenSansLight-Italic'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-lightitalic-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-lightitalic-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-lightitalic-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-lightitalic-webfont.svg#open_sanslight_italic") format('svg');font-weight:300;font-style:italic}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-regular-webfont.eot");src:local('Open Sans'),local('OpenSans'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-regular-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-regular-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-regular-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-regular-webfont.svg#open_sansregular") format('svg');font-weight:400;font-style:normal}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-semibold-webfont.eot");src:local('Open Sans Semibold'),local('OpenSans-Semibold'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-semibold-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-semibold-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-semibold-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-semibold-webfont.svg#open_sanssemibold") format('svg');font-weight:600;font-style:normal}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-semibolditalic-webfont.eot");src:local('Open Sans Semibold Italic'),local('OpenSans-SemiboldItalic'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-semibolditalic-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-semibolditalic-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-semibolditalic-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-semibolditalic-webfont.svg#open_sanssemibold_italic") format('svg');font-weight:600;font-style:italic}.portal-headline{position:relative;z-index:1;display:block;height:60px;min-width:640px;background:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAA8CAQAAAAN+BhxAAAANklEQVR4AWP678vEwABG/5kY/sEY/8GMf6iMv0jK/kMYEDYaCVOJYCAp/odmAh7DIXoxXPUfAJkUMHka4s/LAAAAAElFTkSuQmCC") 0 100% repeat-x}.portal-headline_dark{background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAA8CAYAAACn8dD6AAAAZElEQVR4AX1PhQ2EQBDc2SNEKY3+S/gaeDh3RyYjWeNLnDeTfVpQDnQAECIrIBsZKgCpcgMZGEqamwKI7C1eYBbwIleULlBVK0mIgQwBcpcvBkx/G+TOHJiFIzcVTv7KqRsgzwyFDjp67z2jNgAAAABJRU5ErkJggg==")}.portal-headline_mobile{height:44px;min-width:320px;background-size:auto 44px}.ph-menu{display:table;width:100%;height:60px;color:#333;font:11px/14px 'Open Sans',sans-serif;padding:0;box-sizing:border-box}.portal-headline_mobile .ph-menu{height:44px;min-width:320px;padding:0}.ph-menu__left{display:table-cell;padding-left:12px;text-align:left;vertical-align:top;width:1%}.portal-headline_mobile .ph-menu__left{padding-left:1px}.ph-menu__center{text-align:center}.ph-menu__center,.ph-menu__right{display:table-cell;vertical-align:top}.ph-menu__right{padding-right:15px;text-align:right;width:1%}.portal-headline_mobile .ph-menu__right{padding-right:3px}.ph-menu__left__inner,.ph-menu__center__inner,.ph-menu__right__inner{display:block;position:relative;height:60px;white-space:nowrap}.ph-menu__left__inner__leg,.ph-menu__center__inner__leg,.ph-menu__right__inner__leg{display:inline-block;height:0;overflow:hidden;visibility:hidden}.portal-headline_mobile .ph-menu__left__inner,.portal-headline_mobile .ph-menu__center__inner,.portal-headline_mobile .ph-menu__right__inner{height:44px}</style><div class="ph-font-preloader">f</div><div id="portal-headline" class="portal-headline portal-headline_allnew portal-headline_dark"><div class="ph-menu"><div class="ph-menu__left"><div class="ph-menu__left__inner"></div></div><div class="ph-menu__center"><div class="ph-menu__center__inner"><i class="ph-menu__center__inner__leg">s</i></div></div><div class="ph-menu__right"><div class="ph-menu__right__inner"></div></div></div></div><div id="ph-links" style="display:none;"><a id="ph-link_mail" href="https://r.my.com/n202698503?sz=40&amp;rnd=208593121"></a><a id="ph-link_games" href="https://r.my.com/n202698504?sz=40&amp;rnd=208593121"></a></div><script>
 (function (s) {
 	var themes = { light: 'dark', dark: 'light' };
-	s.staticDir = '//img.staticmy.com/p/mch/d/0.9.9/';
-	s.externalJS = '//img.staticmy.com/p/mch/d/0.9.9/external';
+	s.staticDir = '//img.staticmy.com/p/mch/d/0.9.10/';
+	s.externalJS = '//img.staticmy.com/p/mch/d/0.9.10/external';
 	s.project = "allnew";
 	s.enableProjects = true;
 	s.theme = themes.hasOwnProperty(s.theme) ? s.theme : 'light';
@@ -333,7 +374,7 @@ s.defer="defer";s.async="async";s.type="text/javascript";s.src=h.settings.extern
     </div>
 </div>
 
-<script src="//games.my.com/js/inf/header.js?v=20160601.1850-01"></script>
+    <script src="//games.my.com/build/js/inf/header.js?v=20161129.1056-31"></script>
 
 <script>
     (function() {
@@ -346,7 +387,7 @@ s.defer="defer";s.async="async";s.type="text/javascript";s.src=h.settings.extern
             );
         }
     })();
-</script><div class="mcLayout mcLayout_page mcBg4 mcTHolder"><div class="mcTRow mcTRow_main"><div class="mcHolder">
+</script><div class="mcLayout mcLayout_page mcBg5 mcTHolder"><div class="mcTRow mcTRow_main"><div class="mcHolder">
 
 <!-- /inf::header -->
 
@@ -359,20 +400,20 @@ s.defer="defer";s.async="async";s.type="text/javascript";s.src=h.settings.extern
     <div class="mcLegal_crumbs">
         <span class="mcLegal_crumbsArr"><a href="/us/">Legal Documentation</a></span>
         <span class="mcLegal_crumbsArr"><a href="/us/games/">myGames</a></span>
-        <span>Privacy Policy</span>
+        <span>PRIVACY POLICY</span>
     </div>
 
     <div class="mcLegal_text">
 
 <div class="mcTabs_wrapper js-mcTabs">
-    <div class="mcSelect js-mcSelect" tabindex="0">Privacy Policy</div>
+    <div class="mcSelect js-mcSelect" tabindex="0">PRIVACY POLICY</div>
 
     <div class="mcLegal_chapters">
         <ul class="mcTabs js-mcTabs">
-                <li class="selected"><a href="https://legal.my.com/us/games/privacy/">Privacy Policy</a></li>
-                <li class=""><a href="https://legal.my.com/us/games/eula/">Application EULA</a></li>
-                <li class=""><a href="https://legal.my.com/us/games/tou/">Terms Of Use</a></li>
-                <li class=""><a href="https://legal.my.com/us/games/payments/">Payment Terms</a></li>
+                <li class="selected"><a href="https://legal.my.com/us/games/privacy/">PRIVACY POLICY</a></li>
+                <li class=""><a href="https://legal.my.com/us/games/eula/">APPLICATION EULA</a></li>
+                <li class=""><a href="https://legal.my.com/us/games/tou/">TERMS OF USE</a></li>
+                <li class=""><a href="https://legal.my.com/us/games/payments/">PAYMENT TERMS</a></li>
         </ul>
     </div>
 </div>
@@ -418,7 +459,7 @@ $(function(){
     });
 })
 </script>
-<h1>PRIVACY POLICY</h1><h2>Last updated: May&nbsp;01, 2014</h2><h2>The introduction</h2><p>MY.COM B.V. ("Company") and its subsidiaries value the privacy and security of the information that end-users share with us by using our web site www.my.com and all of our online products and services (together "Web site"). The Privacy Policy describes the way that "Company" collects, shares, protects, or otherwise uses end-users information.</p><p>By using our Web site you fully agree and obliged to comply with the terms and conditions of this Privacy Policy and explicitly consent to using of your information in accordance with the Privacy Policy.</p><p>Company reserves the rights on its sole discretion to update the Privacy Policy at any reasonable times by placing a new version on Web site. Therefore, Company encourages you to periodically check back and review this Privacy Policy so that you always will keep abreast and know the changes.</p><p>Company reserves the rights on its sole discretion to update the Privacy Policy at any reasonable times by placing a new version on Web site. Therefore, Company encourages you to periodically check back and review this Privacy Policy so that you always will keep abreast and know the changes.</p><h2>The Data Company collects</h2><p>The information ("Data") that collected by Company includes the data which does not directly enable Company to identify any user as an individual ("non-personal data") and information which may identify end-user ("personal data"). Company may use tools or third party analytical software to automatically collect and use certain data. The types of the non-personal data Company may collect and use include, but are not limited to: (a) device properties, including, but not limited to unique device identifier or other device identifier; (b) device software platform and firmware; (c) geographical data such as zip code, area code and location; (d) game score and achievements; (e) e-mail address; (f) some specific information about end-user that indirectly may referred to the individual, including any data related to user experience; (g) type of operating system end-users are using; (h) data of end-user services Internet provider (IP address) and/or (i) other data as reasonably required by Company to enhance Web site. If you arrive at the Websites via a link from another website, the URL of the linking website and the URL of any website that you link to next will also be collected.</p><p>Likely situation when users provide the Company with information which may (in total) indentify user, including but not limited to user's name, e-mail address, phone number, photo or other image, sex, birth date, address and etc. By providing a personal data, the user consent that the Company have the right to collect and process the personal data for the purpose of analyzing usage of the Company's services, advertisement serving, develop the services, providing customer and technical support, to send notice and etc. The Company has the right to combine personal and non-personal data.</p><p>Company does not verify correctness and cannot be able to examine of any end-user's personal data.</p><h2>The reasons that Company collects Data</h2><p>Company uses this information in the aggregate to analyze usage of Web site. The information also helps Company to improve quality of its online services and products, provide customize communications and advertisement.</p><h2>Disclosure and Transfer of Data</h2><p>Company may use the collected Data to analyze usage of the services, advertisement serving, managing and providing the services and products. For these purposes Company may disclose Data to partners with whom the Company has contractual obligations and/or which have their own specific serving technologies and payment services. The providers of payment service have the right to process Data for the purpose of the offering of the payment-transaction service whenever you purchase something from Web site.</p><p>You acknowledge and agree that the analytics utilized by Company's partners may combine the Data collected with other information they have independently collected from other services or products relating to your activities. These partners collect and use information under their own privacy policies. They may not use your Data for their own marketing purposes.</p><p>Company may also disclose your Data to third parties when Company has a reason to believe that a disclosure is necessary to address potential or actual injury or interference with Company's (its subsidiaries) intellectual property, operations, users or others who may be harmed or may suffer loss or damage, or Company acknowledges that such disclosure is necessary to protect Company's (its subsidiaries) rights, combat fraud and/or comply with a judicial proceeding, court order, or legal process served on Company or its subsidiaries.</p><p>Company has the right to disclose data in response to legal process, for example, in response to a Court order. Company may also disclose such information in response to a law enforcement agency's request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law.</p><p>Company may transfer Data about end-users in cases Company or one of its business units are acquired by, sold to, or merged with another company.</p><h2>User profile settings</h2><p>Each user, creating your own profile in the Web site, has the ability to manage personal profile settings, including but not limited: changing the look of the personal profile, add into the profile the desired information, restrict access to the profile of a third party. Therefore you can choice about who has access to your Data.</p><h2>Security measures</h2><p>Company and its subsidiaries will protect Data in a manner that is consistent with this Privacy Policy by, for instance, not using the information for any purpose other than to carry out the services they are performing for.</p><p>Although the Company takes appropriate measures to safeguard against unauthorized disclosures of Data, the Company cannot assure user that Data collected will never be disclosed in a manner that is inconsistent with this Privacy Policy and providing security measures are perfect or impenetrable.</p><p>The user acknowledge that any data that user discloses throughout the forums, blogs, charts or the like is public information cannot be considered as privacy and be saved from disclosure.</p><h2>Cookies and other technical information</h2><p>Company may send "cookies" to your computer or use similar technologies to enhance your online experience at its Web site and across the Internet. "Cookies" are files that can identify you as a unique customer and store your personal preferences as well as technical information (including click through and click stream data). Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). Company may also use "beacons" that monitor your use of Web site. Beacons are small strings of code that provide a method for delivering a graphic image on a Web page for the purpose of transferring data, such as the IP (Internet Protocol) address of the computer that downloaded the page on which the Web beacon appears, the URL (Uniform Resource Locator) of the page on which the beacon appears, the time the page containing the beacon was viewed, the types of browser that fetched the beacon and the identification number of any cookie on the computer previously placed by that server. On their own, cookies or Web beacons do not contain or reveal any personally identifiable information. However, if you choose to furnish personally identifiable information, this information can be linked to the data stored in the cookies or beacons. By accepting this Privacy Policy, you specifically agree to our use of cookies and Web beacons as described herein. You may adjust your browser to reject cookies from Company.</p><h2>Data alteration and retention</h2><p>Company retains the Data collected in accordance with Privacy Policy for the period necessary to execute the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. Thereafter if Date collected is no longer needed for purposes specified in this Privacy Policy, Company deletes all aforementioned Data in its possession.</p><p>In any case the user may delete the personal data in two ways by:</p><ul><li>removing it by himself using an access to the service;</li><li>sending the Company a notice in writing which contain sufficient information to identify the user. The notice will be processed as soon as possible.</li></ul><p>If Data is changed or deleted, Company may still retain some of the data to resolve disputes, enforce Company user agreements, and comply with technical and legal requirements and constraints related to the security service.</p><h2>International data processing</h2><p>Because Company operates internationally, the Company may store and process Your data within BVI and other countries worldwide.</p><h2>Governing Law</h2><p>This Agreement shall be governed, construed, and enforced in accordance with the laws of England and Wales, without regard to its conflict of laws rules.</p><h2>Our contacts</h2><p>Should you have any questions or concerns about Privacy Policy or its execution do not hesitate to contact Company at legal@corp.my.com or at Haaksbergweg 31, Suite 4, 1101BP, Amsterdam, Netherlands.</p><p><em>Only the English version of this document has legal effect. Any translations of this document to other languages are provided for your convenience only.</em></p><p></p>    </div>
+<h1>PRIVACY POLICY</h1><h2>Last updated: July&nbsp;15, 2016</h2><h2>The introduction</h2><p>MY.COM B.V. ("Company") and its subsidiaries value the privacy and security of the information that end-users share with us by using our web site www.my.com and all of our online products and services (together "Web site"). The Privacy Policy describes the way that "Company" collects, shares, protects, or otherwise uses end-users information.</p><p>By using our Web site you fully agree and obliged to comply with the terms and conditions of this Privacy Policy and explicitly consent to using of your information in accordance with the Privacy Policy.</p><p>Company reserves the rights on its sole discretion to update the Privacy Policy at any reasonable times by placing a new version on Web site. Therefore, Company encourages you to periodically check back and review this Privacy Policy so that you always will keep abreast and know the changes.</p><h2>The Data Company collects</h2><p>The information ("Data") that collected by Company includes the data which does not directly enable Company to identify any user as an individual ("non-personal data") and information which may identify end-user ("personal data"). Company may use tools or third party analytical software to automatically collect and use certain data. The types of the non-personal data Company may collect and use include, but are not limited to: (a) device properties, including, but not limited to unique device identifier or other device identifier; (b) device software platform and firmware; (c) geographical data such as zip code, area code and location; (d) game score and achievements; (e) e-mail address; (f) some specific information about end-user that indirectly may referred to the individual, including any data related to user experience; (g) type of operating system end-users are using; (h) data of end-user services Internet provider (IP address) and/or (i) other data as reasonably required by Company to enhance Web site. If you arrive at the Websites via a link from another website, the URL of the linking website and the URL of any website that you link to next will also be collected.</p><p>Likely situation when users provide the Company with information which may (in total) indentify user, including but not limited to user's name, e-mail address, phone number, photo or other image, sex, birth date, address and etc. By providing a personal data, the user consent that the Company have the right to collect and process the personal data for the purpose of analyzing usage of the Company's services, advertisement serving, develop the services, providing customer and technical support, to send notice and etc. The Company has the right to combine personal and non-personal data.</p><p>Company does not verify correctness and cannot be able to examine of any end-user's personal data.</p><h2>The reasons that Company collects Data</h2><p>Company uses this information in the aggregate to analyze usage of Web site. The information also helps Company to improve quality of its online services and products, provide customize communications and advertisement.</p><h2>Disclosure and Transfer of Data</h2><p>Company may use the collected Data to analyze usage of the services, advertisement serving, managing and providing the services and products. For these purposes Company may disclose Data to partners with whom the Company has contractual obligations and/or which have their own specific serving technologies and payment services. The providers of payment service have the right to process Data for the purpose of the offering of the payment-transaction service whenever you purchase something from Web site.</p><p>You acknowledge and agree that the analytics utilized by Company's partners may combine the Data collected with other information they have independently collected from other services or products relating to your activities. These partners collect and use information under their own privacy policies. They may not use your Data for their own marketing purposes.</p><p>Company may also disclose your Data to third parties when Company has a reason to believe that a disclosure is necessary to address potential or actual injury or interference with Company's (its subsidiaries) intellectual property, operations, users or others who may be harmed or may suffer loss or damage, or Company acknowledges that such disclosure is necessary to protect Company's (its subsidiaries) rights, combat fraud and/or comply with a judicial proceeding, court order, or legal process served on Company or its subsidiaries.</p><p>Company has the right to disclose data in response to legal process, for example, in response to a Court order. Company may also disclose such information in response to a law enforcement agency's request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law.</p><p>Company may transfer Data about end-users in cases Company or one of its business units are acquired by, sold to, or merged with another company.</p><h2>User profile settings</h2><p>Each user, creating your own profile in the Web site, has the ability to manage personal profile settings, including but not limited: changing the look of the personal profile, add into the profile the desired information, restrict access to the profile of a third party. Therefore you can choice about who has access to your Data.</p><h2>Security measures</h2><p>Company and its subsidiaries will protect Data in a manner that is consistent with this Privacy Policy by, for instance, not using the information for any purpose other than to carry out the services they are performing for.</p><p>Although the Company takes appropriate measures to safeguard against unauthorized disclosures of Data, the Company cannot assure user that Data collected will never be disclosed in a manner that is inconsistent with this Privacy Policy and providing security measures are perfect or impenetrable.</p><p>The user acknowledge that any data that user discloses throughout the forums, blogs, charts or the like is public information cannot be considered as privacy and be saved from disclosure.</p><h2>Cookies and other technical information</h2><p>Company may send "cookies" to your computer or use similar technologies to enhance your online experience at its Web site and across the Internet. "Cookies" are files that can identify you as a unique customer and store your personal preferences as well as technical information (including click through and click stream data). Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). Company may also use "beacons" that monitor your use of Web site. Beacons are small strings of code that provide a method for delivering a graphic image on a Web page for the purpose of transferring data, such as the IP (Internet Protocol) address of the computer that downloaded the page on which the Web beacon appears, the URL (Uniform Resource Locator) of the page on which the beacon appears, the time the page containing the beacon was viewed, the types of browser that fetched the beacon and the identification number of any cookie on the computer previously placed by that server. On their own, cookies or Web beacons do not contain or reveal any personally identifiable information. However, if you choose to furnish personally identifiable information, this information can be linked to the data stored in the cookies or beacons. By accepting this Privacy Policy, you specifically agree to our use of cookies and Web beacons as described herein. You may adjust your browser to reject cookies from Company.</p><h2>Data alteration and retention</h2><p>Company retains the Data collected in accordance with Privacy Policy for the period necessary to execute the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. Thereafter if Date collected is no longer needed for purposes specified in this Privacy Policy, Company deletes all aforementioned Data in its possession.</p><p>In any case the user may delete the personal data in two ways by:</p><ul><li>removing it by himself using an access to the service;</li><li>sending the Company a notice in writing which contain sufficient information to identify the user. The notice will be processed as soon as possible.</li></ul><p>If Data is changed or deleted, Company may still retain some of the data to resolve disputes, enforce Company user agreements, and comply with technical and legal requirements and constraints related to the security service.</p><h2>International data processing</h2><p>Because Company operates internationally, the Company may store and process Your data within BVI and other countries worldwide.</p><h2>Governing Law</h2><p>This Agreement shall be governed, construed, and enforced in accordance with the laws of England and Wales, without regard to its conflict of laws rules.</p><h2>Our contacts</h2><p>Should you have any questions or concerns about Privacy Policy or its execution do not hesitate to contact Company at legal@corp.my.com or at Barbara Strozzilaan 201, 1082HN, Amsterdam, the Netherlands.</p><p><em>Only the English version of this document has legal effect. Any translations of this document to other languages are provided for your convenience only.</em></p><p></p>    </div>
 
                 </div>
                 <div class="mcSidebar">
@@ -430,7 +471,12 @@ $(function(){
         <ul>
                 <li>
                     <a href="https://legal.my.com/us/general/tos/">
-                        Terms of Service
+                        TERMS OF SERVICE
+                    </a>
+                </li>
+                <li>
+                    <a href="https://legal.my.com/us/general/privacy/">
+                        PRIVACY POLICY
                     </a>
                 </li>
         </ul>
@@ -440,17 +486,17 @@ $(function(){
         <ul>
                 <li>
                     <a href="https://legal.my.com/us/mail/privacy/">
-                        Privacy Policy
+                        PRIVACY POLICY
                     </a>
                 </li>
                 <li>
                     <a href="https://legal.my.com/us/mail/eula/">
-                        Application EULA
+                        APPLICATION EULA
                     </a>
                 </li>
                 <li>
                     <a href="https://legal.my.com/us/mail/tou/">
-                        Terms Of Use
+                        TERMS OF USE
                     </a>
                 </li>
         </ul>
@@ -459,28 +505,23 @@ $(function(){
         <h2>myGames</h2>
         <ul>
                 <li>
-                    Privacy Policy
+                    PRIVACY POLICY
                 </li>
                 <li>
                     <a href="https://legal.my.com/us/games/eula/">
-                        Application EULA
+                        APPLICATION EULA
                     </a>
                 </li>
                 <li>
                     <a href="https://legal.my.com/us/games/tou/">
-                        Terms Of Use
+                        TERMS OF USE
                     </a>
                 </li>
                 <li>
                     <a href="https://legal.my.com/us/games/payments/">
-                        Payment Terms
+                        PAYMENT TERMS
                     </a>
                 </li>
-        </ul>
-    </div>
-    <div class="mcLegal_chaptersBlock">
-        <h2>myChat</h2>
-        <ul>
         </ul>
     </div>
     <div class="mcLegal_chaptersBlock">
@@ -488,12 +529,32 @@ $(function(){
         <ul>
                 <li>
                     <a href="https://legal.my.com/us/maps/tou/">
-                        Terms Of Use and EULA
+                        TERMS OF USE AND EULA
                     </a>
                 </li>
                 <li>
                     <a href="https://legal.my.com/us/maps/privacy/">
-                        Privacy Policy
+                        PRIVACY POLICY
+                    </a>
+                </li>
+        </ul>
+    </div>
+    <div class="mcLegal_chaptersBlock">
+        <h2>myWidget</h2>
+        <ul>
+                <li>
+                    <a href="https://legal.my.com/us/mywidget/user-agreement/">
+                        USER AGREEMENT
+                    </a>
+                </li>
+        </ul>
+    </div>
+    <div class="mcLegal_chaptersBlock">
+        <h2>MRS</h2>
+        <ul>
+                <li>
+                    <a href="https://legal.my.com/us/mrs/agreement/">
+                        ONLINE PROMOTION AGREEMENT
                     </a>
                 </li>
         </ul>
@@ -523,11 +584,11 @@ if (__GMCS.with_layout) {
             <div class="mcFooter_in">
                 <a href="//my.com/" class="mcFooter_logo">
                     <% if (GMCS.theme == 'white') { %>
-                        <img src="//<%= GMCS.Hosts.games %>/img/common/logo-footer.png" alt="MY.COM" class="desktop">
-                        <img src="//<%= GMCS.Hosts.games %>/img/common/logo-footer-large.png" alt="MY.COM" class="mobile">
+                        <img src="//<%= Hosts.games %>/img/common/logo-footer.png" alt="MY.COM" class="desktop">
+                        <img src="//<%= Hosts.games %>/img/common/logo-footer-large.png" alt="MY.COM" class="mobile">
                     <% } else { %>
-                        <img src="//<%= GMCS.Hosts.games %>/img/common/logo-footer-white.png" alt="MY.COM" class="desktop">
-                        <img src="//<%= GMCS.Hosts.games %>/img/common/logo-footer-white-large.png" alt="MY.COM" class="mobile">
+                        <img src="//<%= Hosts.games %>/img/common/logo-footer-white.png" alt="MY.COM" class="desktop">
+                        <img src="//<%= Hosts.games %>/img/common/logo-footer-white-large.png" alt="MY.COM" class="mobile">
                     <% } %>
                 </a>
                 <ul class="mcFooter_menu">
@@ -565,7 +626,7 @@ if (__GMCS.with_layout) {
 
 <!-- /inf::footer -->
 
-    <img src="http://r.my.com/d2629734.gif?rnd=156395500&amp;ts=1465802209" style="width:0;height:0;position:absolute;" alt="">
+    <img src="http://r.my.com/d2629734.gif?rnd=133504365&amp;ts=1480900381" style="width:0;height:0;position:absolute;" alt="">
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
