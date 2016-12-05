@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the offernation.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415193129id_/http%3A//www.offernation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offernation.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206005703id_/http%3A//offernation.com/privacy) for the most accurate reproduction.*
 
 # Offer Nation - Privacy
-
-Privacy
 
 The purpose of this Privacy Policy is to let you know what kinds of information we may gather about you, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of the information. 
 
