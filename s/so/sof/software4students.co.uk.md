@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the software4students.co.uk privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507032101id_/http%3A//www.software4students.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the software4students.co.uk privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205090546id_/http%3A//www.software4students.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Software4Students
 
