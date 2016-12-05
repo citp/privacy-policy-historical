@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diffen.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613055030id_/http%3A//www.diffen.com/difference/Diffen%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diffen.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206001834id_/http%3A//www.diffen.com/difference/Diffen%3APrivacy_policy) for the most accurate reproduction.*
 
 # Diffen:Privacy policy - Difference and Comparison | Diffen
 
@@ -45,13 +45,21 @@ Diffen uses third-party advertising companies (such as Google) to serve ads when
 
 
 
-Other third parties whose resources are requested by web pages on Diffen include Twitter and Facebook. In the future we may add other third-party widgets. All these services set their own cookies, which they [can use to track you](http://techcrunch.com/2012/06/13/facebook-exchange/) and build a profile. Each of these companies may also sell the information they compile to third parties. 
+Other third parties whose resources are requested by web pages on Diffen include Twitter and Facebook. We may add other third-party widgets at any time. All these services set their own cookies, which they [can use to track you](http://techcrunch.com/2012/06/13/facebook-exchange/) and build a profile. Each of these companies may also sell the information they compile to third parties. 
 
 Diffen's content delivery network (CDN), such as CloudFlare, may also set cookies. 
 
 The list of third parties identified in this privacy policy is not exhaustive. Diffen reserves the right to work with any third party services, which may or may not use cookies. 
 
 You can choose to disable cookies from Diffen or selectively from any of the third parties or advertising vendors (such as Google) by changing your browser settings or using other software tools. If you disable Diffen.com cookies, you will be unable to log in to the website but will still be able to use a lot of the site's functionality. 
+
+Advertising companies, including those who work with Diffen to show ads to our readers, use cookies to track interests of users across websites. Opting out of this interest-based advertising can be done on the following pages: 
+
+  * <http://www.networkadvertising.org/choices/>
+  * <http://www.aboutads.info/>
+  * <http://youronlinechoices.eu/>
+
+
 
 **Passwords**
 
@@ -82,7 +90,7 @@ Diffen's policy does not permit public distribution of such information under an
 
 ##  Sharing information with third parties 
 
-Diffen will not sell or share private information, such as email addresses, with third parties, unless you agree to release this information, or it is required by law to release the information. (please read about 3rd party cookies above.) 
+Diffen will not sell or share private information, such as email addresses, with third parties, unless you agree to release this information, or it is required by law to release the information. An exception to this is the use of third-party cookies as explained above. 
 
 ##  Security of information 
 
