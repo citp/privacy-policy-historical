@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatfinder.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325124256id_/http%3A//www.expatfinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatfinder.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205130328id_/http%3A//www.expatfinder.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -42,3 +42,6 @@ We may amend this policy from time to time. If we make any substantial changes i
 
 **Questions or Suggestions**  
 If you have questions or suggestions email us at [contact@expatfinder.com](mailto:contact@expatfinder.com)
+
+### Purchase your relocation   
+City Guide Now
