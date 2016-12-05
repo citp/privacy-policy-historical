@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmat.org.in privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520000549id_/http%3A//www.nmat.org.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmat.org.in privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205124932id_/http%3A//www.nmat.org.in/privacy-policy-2016) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ By using this Website you expressly agree to the use and disclosure of your pers
 
 ## Storage of Information
 
-Any information provided to GMAC or gathered by GMAC pursuant to this privacy policy will be stored by GMAC and its service providers, including as follows: Greenclouds Education Solutions Pvt Ltd located at 6708 DLF City Phase IV, Gurgaon Haryana 122002 India for test registration and administration and web site administration. Personal information will be transmitted to Pearson VUE located at 5601 Green Valley Drive, Bloomington, Minnesota in the United States for exam administration; and to the Graduate Management Admission Council, located at P.O. Box 2969, Reston, VA 20195 in the United States for administration, security, research and marketing purposes. 
+Any information provided to GMAC or gathered by GMAC pursuant to this privacy policy will be stored by GMAC and its service providers, including as follows: Greenclouds Education Solutions Pvt Ltd located at 6708 DLF City Phase IV, Gurgaon Haryana 122002 India for test registration, customer support, and administration and web site administration; Pearson India Education Services Private Limited located at 301 3rd Floor, JMD Regent Plaza, MG Road, Near Guru Dhronacharya Metro Station, Gurgaon – 122002 India for test registration, administration and scoring; and Value First Digital Media Pvt. Ltd., B 13 14, Sector 32 Institutional Area, Delhi, India for sms communications with test takers. Personal information will be transmitted to Pearson VUE located at 5601 Green Valley Drive, Bloomington, Minnesota in the United States for exam administration; and to the Graduate Management Admission Council, located at P.O. Box 2969, Reston, VA 20195 in the United States for administration, business operations, customer support, security, research and marketing purposes. 
 
 If you have questions about this Privacy Policy, please contact us at: NMATprivacy@gmac.com and phone 09213027791 or by Postal Mail: Graduate Management Global Connection (India) Private Limited, Suite # 303, Suncity Business Tower, Golf Course Road, Sector 54, Gurgaon 122 002 India. 
 
@@ -24,7 +24,7 @@ For NMAT test takers, we and our service providers require certain information t
 
 We collect your photo and identification card information. For test security purposes, GMAC and its service providers may compare photographs provided by individuals that register for the NMAT exam with what is collected at the time of testing. GMAC may also use video monitoring at test centers for test security purposes. 
 
-If you consent to participating in a school search service, we will collect certain personal information related to your business school plans and may share your personal information (including your name and email address) with graduate management institutions and strategic partners and they may contact you as part of their marketing outreach. If you consent to participating in surveys and other research, we will use your personal information for survey and other research purposes. Only anonymous, aggregated information is reported in our research reports. 
+If you consent to participating in a school search service, we will collect certain personal information related to your business school plans and may share your personal information (including your name and email address) and score range with graduate management institutions and strategic partners and they may contact you as part of their marketing outreach. If you consent to participating in surveys and other research, we will use your personal information for survey, product development and other research purposes. Only anonymous, aggregated information is reported in our research reports . 
 
 **Cookies, Pixels, IP Addresses:** We use temporary and long term cookies, pixels, web logs, and IP addresses to collect statistical and preference information regarding your interaction with our web sites and track your usage to tailor information and advertising for you to provide a better user experience. 
 
@@ -40,15 +40,15 @@ You can block the use of cookies via your browser, however this may limit your u
 
 ## Information Use 
 
-We use the information we collect from this Website to register you for the NMAT exam, administer the exam, provide you the services or products you request, to customize and improve those services and products and the website, for marketing purposes and for research and development purposes. 
+We use the information we collect from this Website to register you for the NMAT exam, administer the exam, provide you the services or products you request, to customize and improve those services and products and the website, for business operations, customer support, marketing purposes and for research and development purposes. 
 
-We share your information with GMGC, our parent company, GMAC located in the United States and our service providers who require the information in order to complete their duties. GMAC uses service providers to register you for the test, administer the test, collect payment information and for other duties as needed related to the operation and administration of this Website and products and services. 
+We share your information with GMGC, with our parent company, GMAC located in the United States, and our service providers who require the information in order to complete their duties. GMAC uses service providers to register you for the test, administer the test, provide customer support, collect payment information and for other duties as needed related to the operation and administration of this Website and products and services. 
 
 For individuals seeking a disability accommodation, your sensitive medical personal information is needed to process and review requests by GMAC and its service providers. 
 
-For school search services participants, your information will be provided to schools, other institutions and strategic partners that provide graduate management education services or information when you have indicated your interest in receiving such information. 
+For school search services participants, your contact and background information including your score range will be provided to schools, other institutions and strategic partners that provide graduate management education services or information when you have indicated your interest in receiving such information. 
 
-When you register on the Website and create a profile, we may use your information for research purposes in an anonymous, aggregated format. 
+When you register on the Website and create a profile, we may use your information for research and development purposes in an anonymous, aggregated format. 
 
 We use information collected by cookies and pixels to facilitate your use of the Website, to administer and improve the Website, for marketing and for research and development purposes. 
 
@@ -74,7 +74,7 @@ To protect the security and integrity of the exam, certain information cannot be
 
 GMAC and its service providers have developed security programs that consists of administrative, technical, and physical safeguards to protect your information from unauthorized loss, use, disclosure, alteration, or destruction. This includes the use of encryption such as SSL when transferring your information. 
 
-You may request that we inactivate your account at any time by contacting Customer Service [link] . You should be aware that account deletion requests may limit your ability to use our services for an extended period of time. As indicated above, information related to your testing, including test scores and records, cannot be altered or destroyed. It may take up to 90 days to fully inactivate or delete your account due to the complexity of the process. You may also change your marketing preferences concerning certain products and services such as school search services by contacting NMATsupport@gmac.com 
+You may request that we inactivate your account at any time by contacting Customer Service nmatsupport@gmac.com. You should be aware that account deletion requests may limit your ability to use our services for an extended period of time. As indicated above, information related to your testing, including test scores and records, cannot be altered or destroyed. It may take up to 90 days to fully inactivate or delete your account due to the complexity of the process. You may also change your marketing preferences concerning certain products and services such as school search services by contacting nmatsupport@gmac.com 
 
 ## External Links 
 
@@ -82,19 +82,19 @@ The Website contains links to other independently run web sites that are not con
 
 ## Contact Us 
 
-If you have any questions concerning this Website and privacy, please contact us at: NMATsupport@gmac.com or NMATprivacy@gmac.com or call 09213027791. 
+If you have any questions concerning this Website and privacy, please contact us at: nmatsupport@gmac.com or nmatprivacy@gmac.com or call 09213027791. 
 
 ## Grievance Officer 
 
   *     * Name:
     * Grievance officer
   *     * Address:
-    * Graduate Management Global Connection (India) Private Limited, Suite # 303, Suncity Business Tower, Golf Course Road, Sector 54, Gurgaon 122 002 India
+    * Graduate Management Global Connection (India) Private Limited, Suite # 303, SuncityBusiness Tower, Golf Course Road, Sector 54, Gurgaon 122 002 India
   *     * Email:
-    * NMATprivacy@gmac.com
+    * nmatprivacy@gmac.com
   *     * Phone:
     * 09213027791
   *     * Time:
-    * Mon to Fri (9:00 to 18:00)
+    * Mon to Fri (9:00 to 18:00) IST
   * 
 
