@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the answersingenesis.org privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322233038id_/https%3A//answersingenesis.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the answersingenesis.org privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205103638id_/https%3A//answersingenesis.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Answers in Genesis
 
@@ -82,7 +82,7 @@ Back to Top
 
 ## Offsite Links
 
-The Answers in Genesis website—and other websites owned and operated by Answers in Geneis—may contain links to third party websites that are not owned or controlled by Answers in Genesis. Consequently, Answers in Genesis has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third-party websites. In addition, Answers in Genesis does not and cannot censor or edit the content of any third-party site. By using our website, you expressly release Answers in Genesis from any and all liability arising from your use of any third-party websites. Accordingly, we encourage you to be aware when you leave the Answers in Genesis website and to read the terms and conditions and privacy policy of each other website that you visit.
+The Answers in Genesis website—and other websites owned and operated by Answers in Genesis—may contain links to third party websites that are not owned or controlled by Answers in Genesis. Consequently, Answers in Genesis has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third-party websites. In addition, Answers in Genesis does not and cannot censor or edit the content of any third-party site. By using our website, you expressly release Answers in Genesis from any and all liability arising from your use of any third-party websites. Accordingly, we encourage you to be aware when you leave the Answers in Genesis website and to read the terms and conditions and privacy policy of each other website that you visit.
 
 The hyperlinks on this website are provided as an additional resource only and should not be seen as an endorsement, approval, or agreement with any information or resources offered at sites accessed through our site. No inference or assumption should be made and no representation should be inferred that Answers in Genesis is connected with, operates, or controls these websites.
 
@@ -106,7 +106,7 @@ If you have questions or concerns about any information on this page, please fee
 
 View our [GuideStar](http://www.guidestar.org/organizations/33-0596423/answers-genesis-kentucky.aspx) ministry information profile.
 
-View our [2014 Annual Report](https://cdn-assets.answersingenesis.org/doc/articles/about/annual-report-2014.pdf) (PDF).
+View our [2016 Annual Report](https://cdn-assets.answersingenesis.org/doc/articles/about/annual-report-2016.pdf) (PDF).
 
 For more information, see our [Published Content Use Policy and Guidelines](https://web.archive.org/about/use-policy/) and [Statement of Accountability](https://web.archive.org/about/soa/). 
 
@@ -114,4 +114,4 @@ Thank you!
 
 Back to Top 
 
-Last Updated: 01/24/2013
+Last Updated: 04/13/2016
