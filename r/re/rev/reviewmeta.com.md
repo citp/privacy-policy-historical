@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the reviewmeta.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623123106id_/http%3A//reviewmeta.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewmeta.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205055158id_/http%3A//reviewmeta.com/blog/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ReviewMeta Blog
 
-  
-
+_April 28th, 2016_
 
 This Site is operated by Consumer Truth, Inc. (“Consumer Truth”). This Privacy Policy explains how this Site treats “personal information” that we gather from visitors and how we use it. Please, also read our Terms of Use for better understanding of Privacy Policy.
 
