@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the coop.com.au privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404122943id_/http%3A//www.coop.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coop.com.au privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205232953id_/http%3A//www.coop.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Coupon Deals
+# Privacy Policy
 
 This Privacy Policy applies to The University Co-operative Bookshop Limited trading as The Co-op (The Co-op) and each of its related bodies corporate (as defined in the Corporations Act 2001 (Cth)), who are collectively referred to as "the Co-op", "we” or "us". Our contact details are:
 
 **Postal Address:**  
-PO Box 54  
-Broadway NSW 2007  
-AUSTRALIA
+Level 1,  
+15 Foster Street  
+Surry Hills NSW 2010
 
 **E-mail:** [privacy@coop.com.au ](mailto:privacy@coop.com.au)
 
