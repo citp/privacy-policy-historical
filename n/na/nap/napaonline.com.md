@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the napaonline.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610155416id_/https%3A//www.napaonline.com/napa/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napaonline.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205011101id_/https%3A//www.napaonline.com/napa/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NAPA Auto Parts
 
@@ -100,7 +100,7 @@ Please note that when you order products and services from NAPA Online we will u
 
 ### What are "cookies" and how are they used by NAPA Online
 
-"Cookies" are pieces of information that our website can send to your browser and which can later be stored on your computer's hard drive so that we can recognize you when you return. All pages on NAPA Online where you are prompted to log in or that are customizable require that you accept cookies. We may also use ads on our website that contain cookies. Our cookies do not contain any personally identifying information, but they do enable us to provide features such as storing items in your shopping cart between visits and creating a personalized website based on your particular vehicle. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that.
+"Cookies" are pieces of information that our website can send to your browser and which can later be stored on your computer's hard drive so that we can recognize you when you return. All pages on NAPA Online where you are prompted to log in or that are customizable require that you accept cookies. We may also use ads on our website that contain cookies. Our cookies do contain personally identifying information, such as email address, that enables us to provide features such as storing items in your shopping cart between visits and creating a personalized website based on your particular vehicle. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that.
 
 * * *
 
