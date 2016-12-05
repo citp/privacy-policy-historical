@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the germany-visa.org privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408033843id_/http%3A//www.germany-visa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the germany-visa.org privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205060037id_/http%3A//www.germany-visa.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Germany VISA
 
@@ -20,7 +20,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 germany-visa.org may collect and use Users personal information for the following purposes:
 
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
 
 
