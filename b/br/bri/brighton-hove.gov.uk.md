@@ -1,18 +1,22 @@
-> *The following text is extracted and transformed from the brighton-hove.gov.uk privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607161140id_/http%3A//www.brighton-hove.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighton-hove.gov.uk privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205013341id_/http%3A//www.brighton-hove.gov.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies | Brighton & Hove City Council
 
-**Brighton & Hove City Council collects, holds and processes a considerable amount of information, including personal information. We need this information to provide our services.**
+Brighton & Hove City Council collects, holds and processes a considerable amount of information, including personal information. We need this information to provide our services.
 
 We know this information is important to our residents and we take our responsibilities under the [Data Protection Act](https://www.gov.uk/data-protection/the-data-protection-act) seriously. We make sure that any personal information collected and used is done so appropriately, correctly and safely.
 
 This page tells you how Brighton & Hove City Council uses your personal information.
 
-For full details of our policies and guidelines, and to make a request for information, please check [our Data Protection page](http://www.brighton-hove.gov.uk/content/council-and-democracy/about-your-council/data-protection-act-1998).
+For full details of our policies and guidelines, and to make a request for information, please check [our Data Protection page](https://www.brighton-hove.gov.uk/content/council-and-democracy/about-your-council/data-protection-act-1998).
+
+## Cookies on our website
+
+We use [cookies](https://www.brighton-hove.gov.uk/content/about-website/cookies-our-website) to gather information about how our website is used to help us maintain and develop our services. For example we monitor what pages and links are most popular.
 
 ## Requesting your data
 
-If you wish to request your own personal data via a Subject Access Request (SAR) please visit [our data protection page](http://www.brighton-hove.gov.uk/content/council-and-democracy/about-your-council/data-protection-act-1998). Further information on the Data Protection Act may be found on the [Information Commissioner's Office (ICO) Website. ](http://www.ico.org.uk/ " This link will open in a new browser window - opens in a new browser window")
+If you wish to request your own personal data via a Subject Access Request (SAR) please visit [our data protection page](https://www.brighton-hove.gov.uk/content/council-and-democracy/about-your-council/data-protection-act-1998). Further information on the Data Protection Act may be found on the [Information Commissioner's Office (ICO) Website. ](http://www.ico.org.uk/ " This link will open in a new browser window - opens in a new browser window")
 
 ## Your personal data
 
@@ -46,7 +50,7 @@ We do our own data matching, using names, dates of birth and address. We will co
 
 ### Other uses of data
 
-All Local Authorities have a duty to improve the health of the population they serve. To help with this, we use data and information from a range of sources including hospitals to understand more about the nature and causes of disease and ill-health in the area.
+All Local Authorities have a duty to improve the health of the population they serve. To help with this, we use data and information from a range of source data, including hospitals and data collected at the registration of a birth or death to understand more about the health and care needs in the area.
 
 For some regulated services your application may be published and potentially discussed in open committee. This will always be made clear on any relevant application forms and supporting documentation.
 
@@ -62,31 +66,12 @@ Most CCTV cameras located around the cities highways and public spaces are opera
 
 ## Electoral Register
 
-The Electoral Register for Brighton & Hove is a separate legal entity from the council and is separately notified with the Information Commissioner as a data controller as **Superintendent Registrar Brighton & Hove Registration District,** registration Number **Z5908457**.
-
-## Website cookies
-
-The Brighton & Hove City Council website uses cookies to work.
-
-  * We use cookies to remember settings you have chosen, like website translation and font size, and actions you have taken, for example submitting a form. This means you don’t need to re-enter this information each time you visit a new web page.
-
-  * We use cookies to gather information about how our website is used to help us maintain and develop our services. For example we monitor what pages and links are most popular.
-
-  * We do not use cookies to personally identify you or collect information about you as an individual.
-
-
-
-
-You can decide what cookies are allowed and delete cookies at any time by adjusting settings on your web browser. Please be aware that restricting cookies may have an impact upon the functionality of our website. Scroll down to our summary of terms below to find out more about cookies.
-
-Where personal data is requested through forms, the data is only used for the purpose stated on the form and will not be given or sold to any third parties.
-
-This privacy policy only covers the Brighton & Hove City Council website at [www.brighton-hove.gov.uk](http://www.brighton-hove.gov.uk/). Websites linked to and from this site are not covered by this policy. External sites linked to from our website include our social media sites. Go to our [external links disclaimer](http://www.brighton-hove.gov.uk/content/about-website/external-links-disclaimer) for more information.
+The Electoral Register for Brighton & Hove is a separate legal entity from the council and is separately notified with the Information Commissioner as a data controller as Superintendent Registrar Brighton & Hove Registration District, registration Number Z5908457.
 
 ## Related information
 
-  * [Statement of ownership](http://www.brighton-hove.gov.uk/content/about-website/statement-ownership)
-  * [Freedom of information](http://www.brighton-hove.gov.uk/content/council-and-democracy/about-your-council/freedom-information)
-  * [External links disclaimer](http://www.brighton-hove.gov.uk/content/about-website/external-links-disclaimer)
+  * [Statement of ownership](https://www.brighton-hove.gov.uk/content/about-website/statement-ownership)
+  * [Freedom of information](https://www.brighton-hove.gov.uk/content/council-and-democracy/about-your-council/freedom-information)
+  * [External links disclaimer](https://www.brighton-hove.gov.uk/content/about-website/external-links-disclaimer)
 
 
