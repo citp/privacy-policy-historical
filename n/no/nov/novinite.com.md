@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novinite.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609184244id_/http%3A//www.novinite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novinite.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205080053id_/http%3A//www.novinite.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Novinite.com - Sofia News Agency
 
@@ -43,3 +43,9 @@ Given that the Internet is a global environment, using the Internet to collect a
 **Questions or Suggestions**
 
 If you have questions or suggestions concerning your personal information or any queries with regard to these practices, please contact us by e-mail [here](http://www.novinite.com/about/contact_us). 
+
+## [Ups & Downs](http://www.novinite.com/view_updown.php?updown_id=405)
+
+Bulgaria's Minimum Wage Goes Up Next Year
+
+Bulgaria Still Waiting for Its Auto Manufacturing Plant
