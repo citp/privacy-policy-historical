@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the washingtonbanglaradio.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611150931id_/http%3A//www.washingtonbanglaradio.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtonbanglaradio.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205032453id_/http%3A//www.washingtonbanglaradio.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WBRi | Washington Bangla Radio on internet
 
@@ -94,10 +94,4 @@ This policy was last modified on November 15, 2015 21:14 Eastern Standard Time (
 
  **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-WBRi Inc.  
-20423 Cabana Drive  
-Germantown, MD 20876  
-USA  
-Contact us online from: [www.washingtonbanglaradio.com/contact](http://www.washingtonbanglaradio.com/contact)
+If there are any questions regarding this privacy policy you may contact us us online from: [www.washingtonbanglaradio.com/contact](http://www.washingtonbanglaradio.com/contact)
