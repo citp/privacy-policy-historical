@@ -1,177 +1,245 @@
-> *The following text is extracted and transformed from the insideedition.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112193129id_/http%3A//www.insideedition.com/popups/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insideedition.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205165556id_/https%3A//cbsi.secure.force.com/CBSi/articles/FAQ/Privacy-Policy%3Ftemplate%3Dtemplate_mobilePrivacy%26referer%3Dmobileprivacy.com) for the most accurate reproduction.*
 
-# Privacy Policy - InsideEdition.com
+# CBSi Privacy Policy
 
-## Effective Date
+**Last Modified: May 28, 2015** Click to review [previous version](https://cbsi.secure.force.com/CBSi/template_archive_pp_05262015).
 
-The most recent version of this Privacy Policy, as revised, is effective as of July 22, 2008. 
+ **Note:** The CBS Interactive Privacy Policy has been updated. Please review the updated privacy policy carefully before using the CBS Interactive Web Services. By using any of the CBS Interactive Web Services, you consent to the terms of the updated Privacy Policy.
 
-This Privacy Policy applies only to InsideEdition.com (however accessed and/or used), whether via personal computers, mobile devices, or otherwise), which is owned or controlled by CBS Television Distribution, a division of CBS Studios Inc. ("Company," "we," "our" or "us"), or other interactive features that are accessible or downloadable through InsideEdition.com and that post a link to this Privacy Policy (collectively, the "Web Site"). This Privacy Policy only covers information collected at the Web Site, and does not cover any information collected at any other web site or offline by Company (unless specifically stated). The purpose of this Privacy Policy is to disclose to you what information we may collect on the Web Site, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you may have regarding our collection, use, and disclosure of such information. 
-
-Please read this Privacy Policy carefully. In addition, please review our [Terms of Use](https://web.archive.org/popups/terms.php), which govern your use of the Web Site. 
-
-## Table of Contents
-
-  * Types Of Information That May Be Collected
-    * Web Site Usage Information & Device Identifiers
-    * Information You Provide Us
-    * Information From Other Sources
-    * Send To A Friend
-  * How Information May Be Collected
-    * Cookies
-    * Web Beacons
-  * How We Use The Information Collected
-  * Third-Party Ad Serving & Audience and Traffic Measurement Services
-  * With Whom Information May Be Shared
-    * Third Parties Providing Services on Our Behalf
-    * When You Agree to Receive Offers From Third Parties
-    * Sweepstakes, Contest & Promotions
-    * Business Transfers
-    * Legal Protection and Law Enforcement
-  * Canceling Your Newsletter Subscription
-  * Third Party Content and Links To Other Web Sites
-  * Consent To Transfer
-  * California Visitors
-  * Security
-  * A Special Note For Parents Concerning Privacy
-  * Notification Of Changes And Your Acceptance Of The Privacy Policy
-
-
-
-## TYPES OF INFORMATION THAT MAY BE COLLECTED | Return to Top
-
-The following are the types of information we may collect: 
-
-### Web Site Usage Information & Device Identifiers
-
-We may receive and store certain types of web site usage information whenever you visit or interact with the Web Site. For example, we may collect the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other similar information. We may also collect your IP address or some other unique identifier for the particular device you use to access the Internet, as applicable (collectively referred to herein as a "Device Identifier"). A Device Identifier is a number that is automatically assigned to your computer, your cell phone, or other device used to access the Internet, and our computers identify your device by its Device Identifier. We may associate your Device Identifier with the personal information you provide. When analyzed, web site usage information helps us determine how visitors arrive at the Web Site, what type of content is most popular, what type of content you may find most relevant, and what type of visitors are interested in particular kinds of content and advertising. 
-
-### Information You Provide Us
-
-We may ask you to provide us with two types of information: (1) personal information, which is information that could reasonably be used to identify you personally, such as your name, e-mail address and physical address; and (2) demographic information, such as gender, zip code, or similar information. We may collect this information at various places and forms on the Web Site, including registration forms for newsletters and other e-mail communications, when you communicate or otherwise interact with us, when you submit information to us (whether or not the information is intended to be posted on the Web Site), or when you enter or participate in contests, sweepstakes, surveys or voting or when you purchase a product or service through the Web Site. Providing us with information about yourself is your choice, and you can always choose not to provide certain information, but then you may not be able to take advantage of some of the Web Site's features. 
-
-### Information from Other Sources
-
-We may receive information about you from other sources; for example, we may obtain geographic or demographic information, or information regarding your possible interests, from third parties. We may use this information for a variety of purposes, including to enhance our ability to serve you and to tailor content and ads we serve to you. We may combine the information we receive from those other sources with information we collect through the Web Site. In those cases, we will apply this Privacy Policy to any personal information received, unless otherwise specifically disclosed by us at the time you provide your personal information. 
-
-### Send To A Friend
-
-If you send a friend a communication from the Web Site, the information you provide (names, e-mail addresses, phone numbers, etc.) is used on a one-time basis to facilitate the communication and is not used for any other marketing purpose, unless we obtain additional consent. 
+[Click here](https://cbsi.secure.force.com/CBSi/articles/FAQ/mPrivacy-Policy-FAQ?template=template_mobilepp&referer=mobilepp.com&data=&cfs=default) for more information about the updates and to review the previous version.
 
 * * *
 
-## HOW INFORMATION MAY BE COLLECTED | Return to Top
+Welcome to the network of interactive services provided by CBS Interactive Inc., its affiliates and its subsidiaries (collectively “CBS Interactive,” “us,” or “we”). CBS Interactive is committed to protecting your privacy. CBS Interactive owns, operates, or provides access to, several interactive web sites, mobile and connected TV applications , or other online interactive features and services that provide an authorized link or URL to this Privacy Policy (collectively "CBS Interactive Services", or "Services"). 
 
-### Cookies
+This Privacy Policy describes, among other things, the types of information collected about you when you visit the CBS Interactive Services; how your information may be used and when it may be disclosed; how you can control the use and disclosure of your information; and how your information is protected. Trust is a cornerstone of our mission at CBS Interactive. We are committed to gaining and maintaining your trust by following a core set of [Privacy Principles](https://cbsi.secure.force.com/CBSi/articles/FAQ/mPrivacy-Principals?template=template_mobilepp&referer=mobilepp.com&data=&cfs=default).
 
-The Web Site uses standard technology called "cookies," which are small data files that are transferred to your computer (or other Internet-accessing device) when you visit the Web Site and allow your browser to accept cookies. Cookies automatically identify your web browser to the Web Site whenever you visit the Web Site, and may make navigating and using the Web Site easier for you. Also, by tracking how and when you use the Web Site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Web Site are based on data obtained from cookies. Additionally, accepting cookies may allow you to, among other things, personalize your experience on the Web Site. Cookies may also allow the Web Site to present to you advertising that may be of interest to you as well as limit how often you see certain ads that may detract from your user experience on our Web Site. If you do not want to allow information to be collected through the use of cookies, you can generally opt out of providing this information by setting your browser to reject cookies. However, please be aware that some areas of the Web Site may not provide you with an acceptable user experience if you have disabled the use of cookies. 
+  
+    
+1\. Scope of Privacy Policy
 
-### Web Beacons
+This Privacy Policy applies to information, including contact information, collected about you by the CBS Interactive Services. Please review this Privacy Policy carefully. In addition, please review our [Terms of Use; ](https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSInteractive-Terms-of-Use?template=template_tougl&referer=tougl.com)which governs your use of the CBS Interactive Services.
 
-The Web Site and any communications sent by the Web Site may contain electronic images (generally, single-pixel ".gif" images) called "web beacons." These web beacons allow Company and third parties to monitor and collect certain information about the viewer of the web page, web-based document, e-mail message, or other communication, such as the type of browser requesting the web beacon, the Device Identifier of the device that the web beacon is sent to and the time the web beacon was viewed. Company's use of web beacons on its Web Site, include, without limitation, the following: 
+  
+2\. Information Collected
 
-  * counting unique users (actually, unique web browsers), visits and page views;
-  * monitoring traffic and conversion patterns through our various product and service offerings on the Web Site. For example, web beacons may be integrated into a merchandise product page as well as the subsequent shopping cart, transaction and verification pages; 
-  * personalizing your experience when you visit the Web Site, including the advertising and content you see; and
-  * determining whether or not messages were opened, links were clicked or notifications/offers were acted upon.
+ _ _Information you provide directly to CBS Interactive Services__. You are not required to provide information about yourself when you visit a CBS Interactive Services. CBS Interactive Web Sites may ask you for different types of information when you register for certain services, access various content or features, or directly contact the Services including:
 
+• Contact information, such as name, email address, postal address, phone number, facsimile number, and mobile number;  
+ 
 
+• User name, password, and password reminder questions and answers;  
+ 
+
+• Age and date of birth;  
+ 
+
+• Other demographic information, such as gender, job information, and postal code;  
+ 
+
+• Public information, including profile information, you provide to the CBS Interactive Services for publication, such as your user name, comments, likes, interests, status, pictures and the address of your website;  
+ 
+
+• Communications preferences, such as which newsletters you would like to receive;  
+ 
+
+• Search queries;  
+ 
+
+• In limited circumstances, payment and identity verification information, such as credit card number, social security number or comparable national identifiers, and driver's license number where needed for payment, to complete a particular transaction, or to access a particular service (e.g., contests or paid subscriptions);  
+ 
+
+• Contact information about others when you provide information about others or refer a friend to a particular website or service (note: such information is used solely to facilitate the communications requested);  
+ 
+
+• Information posted in community discussions and other interactive online features;  
+ 
+
+• Correspondence you send to us; and  
+ 
+
+• Information collected about you offline (including via facsimile, mail, or in person for sweepstakes entrance forms).  
+ 
+
+__Information we collect automatically on CBS Interactive Services__. CBS Interactive Services may collect certain information automatically, including: 
+
+• Your browser type and operating system;  
+ 
+
+• Your Internet Protocol (IP) address, which is the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area;  
+ 
+
+• Websites you visited before and after visiting a CBS Interactive Services;  
+ 
+
+• Web pages and advertisements you view and links you click on within CBS Interactive Services;  
+ 
+
+• Unique identifiers, including mobile device identification numbers that can identify the physical location of such devices in accordance with applicable law;  
+ 
+
+• Information about your interactions with audio and video content, such as the type of content listened to (including music applications such as iTunes, Spotify and Last.fm) and content viewed, and information about your interactions with email messages, such as the links clicked on and whether the messages were opened or forwarded;  
+ 
+
+• Upon request, your bandwidth speed and information about the software programs installed on your computer including registry key information; and  
+ 
+
+• Standard server log information.  
+ 
+
+__Information we obtain from other sources__. Where permitted by applicable law, we may collect information about you from other sources, including through interactive applications (e.g., mobile devices, third party services, and embedded audio and video players), from co-branded partners and websites (e.g., on our Facebook pages), and from commercially available sources (e.g., data aggregators and public databases). The following are examples of information we may collect from other sources:
+
+• Name, postal address, and telephone number;  
+ 
+
+• Demographic data, such as age, gender, and income level;  
+ 
+
+• If you access third party services (e.g., Facebook, Google+ or Twitter) through a CBS Interactive Service, or if you access a CBS Interactive Service via a third party service, your username and password for those services and other information available about or collected from you on those services, as described in our overview of [Video Services and Social Networking Policy](https://cbsi.secure.force.com/CBSi/articles/FAQ/mThird-Party-Social-Networking-Services?template=template_mobilepp&referer=mobilepp.com&data=&cfs=default)  
+ 
+
+• Your interests and purchase behavior;  
+ 
+
+• Publicly-observed data, such as activities on blogs, videos, and other online postings; and  
+ 
+
+• Other navigation data, such as web sites visited and advertisements viewed or clicked on.  
+ 
+
+This Privacy Policy does not cover the practices of third parties, including those that may disclose information to CBS Interactive.
+
+ _ _Combining Information__. Please note that all of the information we collect about you may be combined, including to help us tailor our communications to you and to develop rich online content and services across the CBS Interactive Services.
+
+  
+    
+3\. Use of Information
+
+We only use payment and identity verification information, such as credit card numbers, driver's license numbers, social security numbers, or comparable national identifiers as necessary for completing a particular transaction or fulfilling a service (e.g., paid subscriptions or awarding prizes to contest winners) or as otherwise required by law.
+
+We generally use other information we collect about you to:
+
+• Fulfill your requests for products, services, and information, including to send you electronic newsletters, authorize a purchase, and complete a transaction that you have requested;  
+ 
+
+• Enable you to participate in features such as surveys, polls, sweepstakes, and message boards;  
+ 
+
+• Provide you with electronic newsletters, information, special offers and promotional materials on behalf of CBS Interactive Services, companies within our corporate family, and third parties, in accordance with applicable law;  
+ 
+
+• Analyze the use of CBS Interactive Services and information about visitors to our Services to understand and improve our service offerings and, in accordance with our sharing policies, discussed below, to produce or disclose anonymous or aggregated data and statistics that might help third parties develop their own products and service offerings;  
+ 
+
+• Customize the content you see when you visit a CBS Interactive Services;  
+ 
+
+• Prevent potentially prohibited or illegal activities and otherwise in accordance with CBS Interactive's [Terms of Use](https://cbsi.secure.force.com/CBSi/articles/FAQ/CBS-Interactive--Terms-of-Use?categories=CBS_Interactive%3AmTOU&popup=false&referer=mobileTerms.com&retURL=%2FCBSi%2Fapex%2Fknowledgehome%3Freferer%3DmobileTerms.com&template=template_mobileTerms); and  
+ 
+
+• For any other purposes disclosed to you at the time we collect your information or pursuant to your consent.  
+ 
+
+  
+4\. Disclosure of Information
+
+CBS Interactive is committed to maintaining your trust and we want you to understand when and with whom we may share information collected about you.
+
+ 
+
+• __With your consent.__ With your consent, we may share your contact information with third party marketing partners. For example, CBS Interactive Services such as ZDNet.com and TechRepublic.com offer free access to relevant services (e.g., webcasts and white papers) if you allow your information to be shared with third parties so that they can contact you by email, telephone, postal mail or other common communication methods about their products or services.  
+ 
+
+• __Authorized third  party service providers.__ We share your contact information with third party vendors who help us with specialized services, including customer support, email and text message deployment, business analytics, marketing, suppression list management and data processing. These third parties are allowed to use your contact information to help us provide our services and not for any other purpose. Also, authorized third party service providers may collect non-contact information about your visits to our Services with cookies, web beacons and other similar technologies that may be used to deliver advertisements or marketing tailored to your interests. For more information, visit our overview on [cookies, web beacons and other technologies (including Do Not Track)](https://cbsi.secure.force.com/CBSi/articles/FAQ/mCookies-Web-Beacons-and-Other-Similar-Technologies?template=template_mobilepp&referer=mobilepp.com&data=&cfs=default)  
+ 
+
+• __Sweepstakes, contests, or promotions.__ When you choose to enter a sweepstakes, contest, or other promotion, and in accordance with the terms and conditions of the promotions, your information may be disclosed to our sponsors and third parties who help design, administer and implement the promotion, including in connection with winner selection, prize fulfillment and aggregated data analysis. Your information also may be disclosed as required by law, such as on a winners list. Further, by entering a promotion, you are agreeing to the official rules that govern that promotion, including allowing our sponsors to use your name, voice, and likeness in advertising and marketing associated with the promotion in accordance with applicable law. All terms applicable to the particular promotion will be made available to you at the time you enter the promotion.  
+ 
+
+• __Co-Branded Partners.__ Co-Branded Partners are third parties with whom a CBS Interactive Service may jointly offer a service or feature. You can tell when you are accessing a service or feature offered by a Co-Branded Partner because the Co-Branded Partner's name will be featured prominently. You may be asked to provide information about yourself to register for a service offered by a Co-Branded Partner. In doing so, you may be providing your information to both us and the Co-Branded Partner, or we may share your information with the Co-Branded Partner. Please note that the Co-Branded Partner's privacy policy may also apply to its use of your information.  
+ 
+
+• __CBS Interactive Services and other CBS businesses.__ CBS Interactive and other business units of CBS Corporation, our parent company, continue to expand their online presence in order to offer users rich and deep interactive experiences. Where permitted by law, we may share information we collect about you within the family of [CBS Interactive Services ](http://www.cbsinteractive.com/brands/)and with [CBS Corporation](http://www.cbscorporation.com/), our parent company, and other [CBS-affiliated companies](http://www.cbscorporation.com/portfolio.php), so that we can provide you with information about products and services that might interest you.  
+
+• __Business transfers.__ We may share your information in connection with a substantial corporate transaction, such as the sale of a CBS Interactive Service, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.  
+ 
+
+• __Legal requirements.__ We may disclose information about our users, including contact information, to respond to subpoenas, court orders, legal process, and other law enforcement measures, and to comply with other legal obligations, such as [FCC requirements](https://cbsi.secure.force.com/CBSi/articles/FAQ/mRadio-and-FCC-Requirements?template=template_mobilepp&referer=mobilepp.com&data=&cfs=default).  
+ 
+
+• __Protect our Services and users.__ We may disclose information to protect and defend the legal rights, interests, and safety of CBS Interactive Services, other CBS companies, and their employees, agents, and contractors (including enforcing our agreements); to protect the safety and security of users of the Services and members of the public; and as otherwise disclosed in our [Terms of Use](https://cbsi.secure.force.com/CBSi/articles/FAQ/CBS-Interactive--Terms-of-Use?categories=CBS_Interactive%3AmTOU&popup=false&referer=mobileTerms.com&retURL=%2FCBSi%2Fapex%2Fknowledgehome%3Freferer%3DmobileTerms.com&template=template_mobileTerms).  
+ 
+
+Please note that we may share information with advertisers as described in our overview of [CBS Interactive Online Advertising](https://cbsi.secure.force.com/CBSi/articles/FAQ/mOnline-Advertising?template=template_mobilepp&referer=mobilepp.com&data=&cfs=default). In addition, information collected about your interactions with audio and video content may be shared with third parties, including social networking services, such as Facebook, and video measurement and subscription services, including Nielsen TV Rating, as described in our [Video Services and Social Networking Policy](https://cbsi.secure.force.com/CBSi/articles/FAQ/mThird-Party-Social-Networking-Services?template=template_mobilepp&referer=mobilepp.com&data=&cfs=default). Finally, we also may share aggregated or anonymized information with third parties, to help us develop content and services we hope will interest you or to help these third parties develop their own products and service offerings including targeted marketing as described in our overview of [Third Party Online Advertising](https://cbsi.secure.force.com/CBSi/articles/FAQ/mThird-Party-Online-Advertising?template=template_mobilepp&referer=mobilepp.com&data=&cfs=default).  
+    
+5\. Your Choices
+
+You can choose to enjoy content and features on CBS Interactive Services without providing us directly with any information about you; however, as described above, some information may be collected automatically or be requested so that you can take advantage of certain features and services offered on CBS Interactive Services.
+
+You can opt out of receiving commercial email or text messages from a particular CBS Interactive Services or other service by following the instructions contained in any such message or by [contacting us directly](https://cbsi.secure.force.com/CBSi/submitcase?template=template_mobilepp&referer=mobilepp.com&cfs=SFS_TOU_PP&data). Please note that even if you unsubscribe to commercial messages, we may still need to send you communications relating to your use of the CBS Interactive Web Sites, such as service announcements.
+
+You also have choices about whether cookies and other similar technologies are placed on your computer or mobile device. For more information, visit our overview on [cookies, web beacons and other similar technologies](https://cbsi.secure.force.com/CBSi/articles/FAQ/mCookies-Web-Beacons-and-Other-Similar-Technologies?template=template_mobilepp&referer=mobilepp.com&data=&cfs=default) (including Do Not Track).
+
+You also may choose to opt out of use of data that our authorized third party service providers or we collect about your visits to our business partners’ websites that may be used to deliver advertisements tailored to your interests. To opt out, visit the [CBS Interactive Business Partner Advertising Opt-Out](https://cbsi.secure.force.com/CBSi/articles/FAQ/CBS-Interactive-Business-Partner-Advertising-Opt-Out?retURL=%2FCBSi%2Fapex%2Fknowledgehome%3Freferer%3Dmobilepp.com%26data%3D&popup=false&categories=CBS_Interactive%3AmPrivacy&template=template_mobilepp&referer=mobilepp.com&data=&cfs=SFS_TOU_PP) page.
+
+Finally, you also have choices about the collection and use of your information by third parties to display relevant advertisements, as described in our overview of Third Party Online Advertising.
+
+  
+6\. Access
+
+If you choose to share contact information with us, you may have the opportunity to update that information on a CBS Interactive Service. You also may update or amend your information by [contacting us](https://cbsi.secure.force.com/CBSi/articles/FAQ/mContact-Information?template=template_mobilepp&referer=mobilepp.com). If you ask us to shut down your account or delete your information, we will disable your account within a reasonable period of time. Please note that we may need to retain some information about you in order to satisfy our legal and security obligations. For example, some of your information may remain in back-up storage even if you ask us to delete it. In some cases, you may be entitled under local laws to access or object to the processing of information that we hold relating to you.
+
+  
+7\. Protection of Information
+
+We are committed to protecting your information. We have adopted commercially reasonable technical, administrative, and physical procedures to help protect your information from loss, misuse, unauthorized access, and alteration. Please note that no data transmission or storage can be guaranteed to be 100% secure. We want you to feel confident using CBS Interactive Services but we cannot ensure or warrant the security of any information you transmit to us. Please refer to the [U.S. Federal Trade Commission's web site](http://www.ftc.gov/bcp/menus/consumer/data/idt.shtm) for information on how to protect yourself from identity theft.
+
+  
+8\. Transfer of Data Internationally
+
+CBS Interactive is headquartered in the United States and has affiliate offices and partners in other countries. Please be aware that information you provide to us or that we obtain as a result of your use of the CBS Interactive Services may be collected in your country and subsequently transferred to the United States or another country in accordance with applicable law. The privacy and data protection laws in the country to which your information is transferred may not be equivalent to such laws in your country of residence. By using and participating in any CBS Interactive Services or providing us with your information, you consent to the collection, international  
+transfer, storage, and processing of your information.
+
+  
+9\. Visitors from Outside the United States
+
+For additional information about CBS Interactive's privacy practices, as well as our affiliate offices and partners in some of the other countries where we operate, please click on the appropriate link for your jurisdiction: [Australia](https://cbsi.secure.force.com/CBSi/articles/FAQ/mInformation-for-Visitors-from-Australia?template=template_mobilepp&referer=mobilepp.com&data=&cfs=default), [Canada](https://cbsi.secure.force.com/CBSi/articles/FAQ/mInformation-for-Visitors-from-Canada?template=template_mobilepp&referer=mobilepp.com&data=&cfs=default), the [United Kingdom](https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Information-for-Visitors-from-the-United-Kingdom?template=template_privacygl&referer=privacygl.com&data=&cfs=default).
+
+  
+10\. California Visitors
+
+For additional information for residents of the State of California [click here](https://cbsi.secure.force.com/CBSi/articles/FAQ/CBS-Interactive-Information-for-Visitors-from-California?retURL=%2FCBSi%2Fapex%2Fknowledgehome%3Freferer%3Dmobilepp.com%26data%3D&popup=false&categories=CBS_Interactive%3AmPrivacy&template=template_mobilepp&referer=mobilepp.com&data=&cfs=SFS_TOU_PP).
+
+  
+11\. Privacy Protections for Children
+
+Most CBS Interactive Services are intended for a general audience and do not knowingly collect or store contact information about children under the age of 13. Some CBS Interactive Services may ask for your full date of birth date to ensure that they are not collecting information from children under 13 or to identify when additional steps may need to be taken when information has been collected from children under 18. In those instances where a CBS Interactive Service has actual knowledge that it collects information from children or offers a service directed toward children as defined under applicable laws, it will comply with those laws. To read about our privacy policy for children, please see the [Children's Privacy Policy](https://cbsi.secure.force.com/CBSi/articles/FAQ/mChildrens-Privacy-Policy?template=template_mobilepp&referer=mobilepp.com&data=&cfs=default).
+
+  
+12\. User-Generated Content
+
+Some CBS Interactive Services enable users to submit their own content for use in contests, blogs, on-air radio and TV broadcasts, online audio and video streams, videos, message boards, and other functions. Publication of User Generated Content on the CBS Interactive Services is subject to our [Terms of Use](https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Terms-of-Use?template=template_tougl&referer=tougl.com&data=&cfs=default). Please remember that any information you disclose becomes public information and exercise caution when choosing to disclose your contact, financial, and other information in a submission. We cannot prevent such information from being used in a manner that may violate this Privacy Policy, the law, or your personal privacy and safety. You should also be aware that we may also engage a third party to provide some of the services associated with the blogs, message boards and similar functions. This third party will collect and host the information that you submit to the CBS Interactive Services but will not use any of this information for purposes other than providing the service.
+
+  
+13\. Third Party Websites and Services
+
+Please note that some CBS Interactive Services may contain links to other websites and services. We are not responsible for the privacy practices of those websites, and we recommend that you review the privacy policies of each website that you visit. When you select a link to a third party web site from one of the CBS Interactive Services (e.g., if you link to PayPal to pay for a product or service offered by a CBS Interactive Service), you will be leaving the CBS Interactive Service. Any information that you disclose on the third party website will be governed by that website's privacy policy.
+
+  
+14\. Changes to This Privacy Policy
+
+We may update this Privacy Policy to reflect changes in our practices and service offerings. If we modify our Privacy Policy, we will update the "Last Modified Date" and such changes will be effective upon posting. If we make any material changes in the way we use your information, we will notify you by email through the email address you most recently provided to us or by prominently posting a prominent notice of the changes on the CBS Interactive Services.
+
+  
+15\. Questions
+
+If you have questions regarding this Privacy Policy, please [contact us](https://cbsi.secure.force.com/CBSi/submitcase?template=template_mobilepp&referer=mobilepp.com&cfs=default) and we will endeavor to respond to your request within a reasonable period of time. You may also submit questions or comments using the postal address listed below:
+
+ **CBS Interactive Inc.**  
+235 Second Street  
+San Francisco, CA 94105  
+Attn: Legal Department
+
+For international users, please [select this link](https://cbsi.secure.force.com/CBSi/articles/FAQ/mContact-Information?template=template_mobilepp&referer=mobilepp.com&data=&cfs=default) to find the address of your closest CBS Interactive office. We are committed to working with you to obtain a fair resolution of any privacy concern.
 
 * * *
-
-## HOW WE USE THE INFORMATION COLLECTED | Return to Top
-
-The information you provide to us may be used to: 
-
-  * Send you newsletters, e-mails and/or other communications for which you have registered;
-  * Contact you about the Web Site, including, without limitation, in our discretion to notify you of changes to this Privacy Policy, the Web Site's [Terms of Use](https://web.archive.org/popups/terms.php), or other policies that affect your use of the Web Site; 
-  * Confirm or fulfill an order you have made;
-  * Provide special offers or promotional materials to you on behalf of us or third parties;
-  * Contact you with regard to a sweepstakes, contest or promotion in which you have participated;
-  * Authorize a purchase or complete a transaction that you have requested, i.e., to deliver the products or other services that you ordered, and, if necessary, to invoice you; 
-  * Monitor or improve the Web Site;
-  * Administer the Web Site's systems and for other internal business purposes;
-  * Customize the advertising and content you see;
-  * Comply with and monitor compliance with our Terms of Use and other applicable agreements and polices;
-  * Generate story ideas for Inside Edition; and
-  * For other purposes disclosed when you provide your information.
-
-
-
-Moreover, if you submit to Company and/or the Web Sites comments, photographs, videos, music, text or other content, it maybe published online or offline (including on-air, on a CD or DVD, through wireless distribution, and transmission of soft copies, or any other media or format currently existing or hereafter developed), and we may publish your name, voice, likeness and other personal information in connection with publishing the content or a portion of the content, and we may use the content and any excerpt from the content in connection with advertising, marketing, publicity and promotional activities. Please also see "Information You Submit" in our [Terms of Use](https://web.archive.org/popups/terms.php), which governs any content you submit through the Web Sites. 
-
-Please note that information submitted to the Web Site via the "contact us" or "Submit Your Story" feature or other similar mechanisms will not necessarily receive a response. We will not use any such information you provide to contact you for marketing purposes unrelated to your request, although we may contact you regarding your submission. 
-
-* * *
-
-## THIRD-PARTY AD SERVING & AUDIENCE AND TRAFFIC MEASUREMENT SERVICES | Return to Top
-
-The Web Site may use third party network advertisers to serve advertisements on the Web Site and may use a traffic measurement service to analyze traffic on the Web Site. Network advertisers are third parties that display advertisements based on your visits to the Web Site and other web sites you have visited. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. Although advertisers and other companies do not have access to cookies set by the Web Site, the Web Site's third party ad network providers, the advertisers, the sponsors, and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have cookies enabled in your browser or they may otherwise have access to non-personal information. These third party cookies, are set to, among other things, help deliver advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies and web beacons are governed by each third party's specific privacy policy, not this one. While we may use a variety of companies to serve advertisements on the Web Site, you may wish to visit <http://www.networkadvertising.org/managing/opt_out.asp>, which provides information regarding the "opt-out" procedures of certain third party ad servers we may use. 
-
-* * *
-
-## WITH WHOM INFORMATION MAY BE SHARED | Return to Top
-
-We do not share your personal information with third parties for those third parties' marketing purposes unless you opt-in to such sharing at the time you provide your personal information. We may share non-personal information, such as aggregate user statistics, demographic information, and web site usage information with third parties. In addition, we may share your information as disclosed at the time you provide your information, as set forth in this Privacy Policy and in the following circumstances: 
-
-### Third parties providing services on our behalf
-
-We employ third parties to perform functions on our behalf; examples include hosting or operating Web Site, sending e-mail and/or other communications, removing repetitive information from customer lists, data analysis, marketing assistance, and customer service. These third parties may have access to your personal information for the purpose of performing such functions on the Web Site's behalf. 
-
-### When You Agree To Receive Information From Third Parties
-
-You may be presented with an opportunity to receive information and/or marketing offers from third party(s). If you do not agree to have your personal information shared, your personal information will not be shared with such third party(s) for direct marketing purposes. If you do agree to have your personal information shared, your personal information will be disclosed to such third party(s) and all information you disclose will be subject to the privacy policy and practices of such third party(s). We are not responsible for the privacy policies and practices of such third party(s) and, therefore, you should review the privacy policies and practices of such third party(s) prior to agreeing to receive such information from third party(s). If you later decide that you no longer want to receive communication from a third party, you will need to contact that third party directly. 
-
-### Sweepstakes, Contests and Promotions
-
-We may offer sweepstakes, contests, and other promotions through the Web Site that may require registration. If you choose to enter a sweepstakes, contest or other promotion, your personal information may be disclosed to third parties in connection with the administration of such promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law, such as on a winners list. Also, by entering a promotion, you are agreeing to the official rules that govern that promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the promotion to use your name, voice and/or likeness in advertising or marketing associated with the promotion. 
-
-### Business Transfers
-
-Company may share the information collected through the Web Site with and among its parent, subsidiaries and affiliates. Company or any of it assets, including the Web Site, may be sold, or other transactions may occur in which your personal information is one of the key business assets for the transaction. In such a case, your personal information may be one of the business assets we transfer. Hence, Company reserves the right to disclose and transfer user information, including personal information, in connection with a corporate merger, consolidation, restructuring, the sale of substantially all of our assets, or other corporate change. 
-
-### Legal Protections and Law Enforcement
-
-We may disclose information about our users, including your personal information, in the event we are required to respond to subpoenas, court orders, legal process or other valid law enforcement measures; to comply with a legal obligation; at the request of governmental authorities conducting an investigation; to verify or enforce compliance with the policies governing the Web Site and applicable laws; or to protect the legal rights, interests, or safety of the Web Site, our users or others. We may also use Device Identifiers to identify users, and may do so in cooperation with copyright owners, internet service providers, wireless service providers or law enforcement agencies in our discretion. Such disclosures may be carried out without notice to you. 
-
-* * *
-
-## CANCELING YOUR E-MAIL SUBSCRIPTION | Return to Top
-
-You may cancel your e-mail subscription by clicking on the unsubscribe link found under the Newsletter Section of the Web Site. 
-
-* * *
-
-## THIRD PARTY CONTENT AND LINKS TO OTHER WEB SITES | Return to Top
-
-When you are on the Web Site you may be directed to other sites that are operated and controlled by third parties that are beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Web Site onto a different web site. This includes links from advertisers, sponsors and partners that may use the Web Site's logo as part of a co-branding agreement. These other web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a web site that is linked from our Web Site, you should consult that web site's privacy policy before providing any personal information. 
-
-* * *
-
-## CONSENT TO TRANSFER | Return to Top
-
-The Web Site is operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using the Web Site or providing us with your information, you consent to this transfer. 
-
-* * *
-
-## CALIFORNIA VISITORS | Return to Top
-
-Residents of the State of California may request a list of all third parties to which the Web Site has disclosed certain information during the preceding year for the third parties' direct marketing purposes, if any. If you are a California resident and want such a list, please [contact us](https://web.archive.org/popups/contact.php). For all requests, you must put the statement "Your California Privacy Rights" in the body of your request and include the Web Site's name, "InsideEdition.com," as well as your name, street address, city, state, and zip code. Please note that we will not accept requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information. 
-
-* * *
-
-## SECURITY | Return to Top
-
-Company incorporates reasonable safeguards to help protect and secure your personal information. However, no data transmission over the Internet, or wireless transmission, or electronic storage of information can be guaranteed to be 100% secure. Please note that Company cannot ensure or warrant the security of any information you transmit to Company via its Web Site, and you do so at your own risk. 
-
-* * *
-
-## A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY | Return to Top
-
-The Web Site is a general audience web site. We do not knowingly collect any personal information from children younger than the age of thirteen (13) on the Web Site and we will delete any information later determined to be from a user younger than thirteen (13). 
-
-* * *
-
-## NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY | Return to Top
-
-By using the Web Site, you acknowledge your agreement to the terms of this Privacy Policy. From time to time, Company may update this Privacy Policy. However, Company will use your personal information in a manner consistent with the Privacy Policy in effect at the time you submitted the information, unless you consent to the new or revised policy. 
