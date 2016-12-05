@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gvoconference.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606000102id_/http%3A//www.gvoconference.com/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gvoconference.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205092530id_/http%3A//www.gvoconference.com/legal/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
