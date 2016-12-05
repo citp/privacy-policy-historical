@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the istartpageing.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119030903id_/http%3A//www.istartpageing.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istartpageing.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205191508id_/http%3A//istartpageing.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
