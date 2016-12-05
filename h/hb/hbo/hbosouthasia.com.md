@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hbosouthasia.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630021756id_/http%3A//www.hbosouthasia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hbosouthasia.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205124124id_/http%3A//www.hbosouthasia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of HBO Southasia - English Movie Timings.
 
@@ -102,4 +102,4 @@ This Policy and your use of this website shall be governed in all respects by th
 
 HBO South Asia reserves the right, at its discretion, to update, change, modify, add, or remove portions of this Policy at any time, in accordance with future developments, industry trends and/or any changes in legal or regulatory requirements. You should check our website http://www.hboasia.com periodically for any updates/changes. Your continued use of our site following the posting of updates/changes to this Policy will mean that you accept the same.
 
-HBO & Home Box Office are service marks of Home Box Office, Inc. Used with permission. 
+HBO & HBO HD are service marks of Home Box Office, Inc. Used under license. 
