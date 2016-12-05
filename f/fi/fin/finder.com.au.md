@@ -1,50 +1,89 @@
-> *The following text is extracted and transformed from the finder.com.au privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630015806id_/http%3A//www.finder.com.au/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finder.com.au privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205231023id_/https%3A//www.finder.com.au/terms-and-conditions) for the most accurate reproduction.*
 
 # Terms of Use, Disclaimer & Privacy Policy
 
   1. These are the Terms and Conditions of use of the website. By using the website, you agree to abide by these Terms and Conditions of Use.
-  2. Hive Empire Pty Ltd (ABN 18 118 725 125) trading as finder.com.au provides factual information, general advice and services on financial products as a Corporate Authorised Representative (432664) of Advice Evolution Pty Ltd AFSL 342880. Please [refer to our FSG - Financial Products](http://www.finder.com.au/resources/Finder-Financial-Services-Guide.pdf). We also provide general advice on credit products under our own Credit Licence ACL 385509. Please [refer to our Credit Guide](http://www.finder.com.au/resources/Hive_Empire_Credit.pdf) for more information. We are also a Corporate Authorised Representative of Countrywide Tolstrup Financial Services Group Pty Ltd. ABN 51 586 953 292 AFSL 244436 for the provision of general advice on general insurance products. Please [refer to our FSG - General Insurance](http://www.finder.com.au/resources/Finder-Financial-Services-Guide-for-General-Insurance.pdf).
-  3. finder.com.au is an information service that provides you with the tools and information you need to compare a wide range of products, providers and services. We do not provide information on all available products, providers or services so please appreciate that there may be other options available to you then the products, providers or services covered by our service. You should consider seeking financial advice and consider your own personal financial circumstances when comparing products.
+  2. Hive Empire Pty Ltd (ABN 18 118 725 125) trading as finder.com.au ("finder") provides factual information, general advice and services on financial products as a Corporate Authorised Representative (432664) of Advice Evolution Pty Ltd AFSL 342880. Please [refer to our FSG - Financial Products](https://www.finder.com.au/resources/Finder-Financial-Services-Guide.pdf). We also provide general advice on credit products under our own Credit Licence ACL 385509. Please [refer to our Credit Guide](https://www.finder.com.au/resources/Hive_Empire_Credit.pdf) for more information. We are also a Corporate Authorised Representative of Countrywide Tolstrup Financial Services Group Pty Ltd. ABN 51 586 953 292 AFSL 244436 for the provision of general advice on general insurance products. Please [refer to our FSG - General Insurance](https://www.finder.com.au/resources/Finder-Financial-Services-Guide-for-General-Insurance.pdf).
+  3. finder is an information service that provides you with the tools and information you need to compare a wide range of products, providers and services. We do not provide information on all available products, providers or services so please appreciate that there may be other options available to you then the products, providers or services covered by our service. You should consider seeking financial advice and consider your own personal financial circumstances when comparing products.
   4. We are not a product manufacturer nor are we owned by a bank, insurer or product manufacturer. While in some cases we may provide you with general financial product advice we don't, and won't, recommend specific providers, products or services. We want to provide you with the information and confidence to make an informed decision but we don't know enough about you to provide you with personal advice about your specific needs or circumstances.
   5. In order to provide you with quotes, comparisons, factual information or advice we may need to collect some basic information about you such as your age, gender and occupation. By clicking "quote" or "enquiry" buttons you're authorising us to provide your information to an adviser or broker who will call you to provide you with personal advice about your options and available products. By doing this you are also consenting to us retaining your personal information so that we can contact you about other relevant services that we think might interest you (but you can "opt out" of this process at any time by simply withdrawing your consent).
   6. We compare insurance data, basic information such as interest rates and application fees. We do not assess if a particular product is suitable for you. Providing or obtaining an estimated insurance quote through us does not guarantee you can get the insurance. Acceptance by insurance companies is based on things like occupation, health and lifestyle.
-  7. By providing you with the ability to apply for a credit card or loan we are not guaranteeing that your application will be approved. Your application for credit products is subject to the Provider's terms and conditions as well as their application and lending criteria. 
+  7. By providing you with the ability to apply for a credit card or loan we are not guaranteeing that your application will be approved. Your application for credit products is subject to the Provider's terms and conditions as well as their application and lending criteria.
   8. We endeavour to ensure that the information and other content on our website is accurate and current but we can't guarantee the accuracy or currency of the information on which we've relied. We suggest that you use your own judgment and read the Product Disclosure Statement before you make any decision about a financial product covered by our site. If you find an error in our data please let us know and we'll correct our site.
-  9. To the extent permitted by law, Hive Empire disclaims all liability to any person in relation to use of the website, and you waive all claims against Hive Empire in relation to your use of the website. Hive Empire accepts no liability for any interference with or damage to a user's computer, software or data occurring in connection with or relating to the website or its use or any website linked to this website, and does not represent or warrant that applications initiated through the website will in fact be received or made to the intended recipient. Users are advised to confirm the application by other means.
-  10. The website includes links to other websites operated by community, business and government. These linked websites will have their own terms and conditions of use and you should familiarise yourself with these. All linked websites are linked "as is" and Hive Empire does not sponsor, endorse or necessarily approve of any material on websites linked from or to this site; does not make any warranties or representations regarding the quality, accuracy, merchantability or fitness for purpose of any material on websites linked from or to this site; does not make any warranties or representations that material on other websites to which this site is linked does not infringe the intellectual property rights of any person anywhere in the world; and does not authorise the infringement of any intellectual property rights contained in material in other websites by linking the website to those other websites.
-  11. If you have a complaint or dispute in relation our service, please email our complaints handling office using the following email address: [complaints@hiveempire.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=complaints@hiveempire.com)
+  9. To the extent permitted by law, finder disclaims all liability to any person in relation to use of the website, and you waive all claims against finder in relation to your use of the website. finder accepts no liability for any interference with or damage to a user's computer, software or data occurring in connection with or relating to the website or its use or any website linked to this website, and does not represent or warrant that applications initiated through the website will in fact be received or made to the intended recipient. Users are advised to confirm the application by other means.
+  10. The website includes links to other websites operated by community, business and government. These linked websites will have their own terms and conditions of use and you should familiarise yourself with these. All linked websites are linked "as is" and finder does not sponsor, endorse or necessarily approve of any material on websites linked from or to this site; does not make any warranties or representations regarding the quality, accuracy, merchantability or fitness for purpose of any material on websites linked from or to this site; does not make any warranties or representations that material on other websites to which this site is linked does not infringe the intellectual property rights of any person anywhere in the world; and does not authorise the infringement of any intellectual property rights contained in material in other websites by linking the website to those other websites.
+  11. If you have a complaint or dispute in relation our service, please email our complaints handling office using the following email address: [complaints@finder.com.au](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=complaints@hiveempire.com)
   12. The information and data on the website is subject to change without notice.
-  13. Hive Empire may revise the Terms and Conditions of Use at any time by updating this posting.
-  14. Unless expressly stated otherwise, Hive Empire claims copyright ownership of all material on the website. You may download, display, print and reproduce this material in unaltered form (attaching a copy of this notice) for your personal, non-commercial use. Hive Empire reserves the right to revoke such permission at any time. Apart from this permission and uses permitted under the Copyright Act 1968 (Cth), all other rights are reserved.
+  13. finder may revise the Terms and Conditions of Use at any time by updating this posting.
+  14. Unless expressly stated otherwise, finder claims copyright ownership of all material on the website. You may download, display, print and reproduce this material in unaltered form (attaching a copy of this notice) for your personal, non-commercial use. finder reserves the right to revoke such permission at any time. Apart from this permission and uses permitted under the Copyright Act 1968 (Cth), all other rights are reserved.
 
 
 
 ### Selection & ordering of products
 
-  1. Regarding the ordering of products, we believe there is no perfect order nor perfect ranking system. Our products are therefore displayed in no particular order or ranking and instead we provide functionality for users to self-select and compare products. There is no particular basis or system of awards or ratings for the products on this site.
+  1. We believe there is no perfect order or perfect ranking system for the products we list on our Site so we've provided you with the functionality to self-select, re-order and compare products. Please don't interpret the order in which products appear on our Site as any endorsement or recommendation from us. There is no particular basis or system of awards or ratings for the products on this Site. We're happy to provide you with the tools you need to make better decisions, but we'd like you to make your own decisions and compare and assess products based on your own preferences, circumstances and needs.
   2. The products listed in the tables on our website are selected based on a number of features including but not limited to:
 
 
-  * Features: including, but not limited to interest rates, annual fees and penalty fees.
-  * Offers: the availability of offers in relation to particular products.
-  * Access: whether a financial institution is offering a particular product at a particular time.
+  *  **Features** : including, but not limited to interest rates, annual fees and penalty fees.
+  *  **Offers** : the availability of offers in relation to particular products.
+  *  **Access** : whether a financial institution is offering a particular product at a particular time.
 
 
 
 ### Important information
 
-  1. Comparisons are not intended to be comprehensive of the market of available products and the not all providers in the market will always be included in our comparisons.
-  2. Where products appear on this site they should not be taken as ranking or endorsing any particular product above another in terms of its suitability for your use. 
-  3. The identification of a group of products, as ‘Top’ or ‘Best’ is a reflection of user preferences based on current website data. On a regular basis, analytics drive the creation of a list of popular products. Where these products are grouped, they appear in no particular order.
-  4. Financial products compared do not compare features that may be relevant to you in your choices about which product to utilise.
-  5. Where it is stated on this site that we have analysed offers in the market, the process of analysis is restricted to the information subsequently disclosed and may not be suitable for your personal circumstances.
-  6. Where our site links to particular products or displays 'Enquire now' or "Go to site' buttons, we may receive a commission, referral fee or payment in relation to your clicking of this link. In some cases we may receive remuneration for referring you to an adviser or product issuer. These arrangements vary but if you are referred to an adviser they will tell you what referral arrangements are in place.
+  *  **Range** : Comparisons are not intended to be comprehensive of the market of available products and not all providers in the market  included in our comparisons.
+  *  **Ranking:**  Where products appear on this Site they should not be taken as ranking or endorsing any particular product above another in terms of its suitability for your use.
+  *  **Preferences:**  The identification of a group of products, as ‘Top’ or ‘Best’ is a reflection of user preferences based on current website data. On a regular basis, analytics drive the creation of a list of popular products. Where these products are grouped, they appear in no particular order.
+  *  **Qualification:**  Financial products compared do not compare features that may be relevant to you in your choices about which product to utilise. Where we state that we have analysed offers in the market, the process of analysis is restricted to the information subsequently disclosed and may not be suitable for your personal circumstances.
+  *  **Remuneration:**  Where our Site links to particular products or displays 'Enquire now' or "Go to Site' buttons, we may receive a commission, referral fee or payment in relation to your clicking of this link. In some cases we may receive remuneration for referring you to an adviser or product issuer. These arrangements vary but if you are referred to an adviser they  tell you what referral arrangements are in place.
+  *  **Deals and Offers:  **For offers, coupons, deals and discounts, we work hard to ensure that the product and promotional information on our site is current and correct at the time of publication, but providers may subsequently restrict offers, apply additional terms or only have limited qualities available. **All deals and offers are subject to availability**. Always check the provider's website before applying for, or purchasing, anything.
 
 
 
-### Privacy policy
 
-Hive Empire Pty Ltd (ABN 18 118 725 125) trading as finder.com.au is an information service that provides you with the tools and information you need to compare a wide range of products, providers and services. We take your privacy seriously. We have published this policy to show we manage the personal information you provide to us when using our services.
+## Obtaining your Credit Score
+
+You can obtain your current Credit Score from our Site but you need to register to ensure you can be appropriately identified.
+
+Rest assured that we take your privacy seriously. Please read our [](https://www.finder.com.au/terms-and-conditions) to understand how we use and secure the personal information you provide to us when using our Services.
+
+We will only ask you for the information we need to provide you with the services,  and information you request from us. In order to obtain your C, you need to be adequately identified and your information verified with the Document Verification Service (http://www.dvs.gov.au). Where we retain your information, it will only be the information you have provided to us or the information you have asked us to source from third-parties and provide to you.
+
+Generally, your personal information will only be collected and used with your express permission, but we will retain and use aggregated and non-personally identifiable data for other purposes.
+
+Rest assured that we will, and do, take reasonable steps to protect the personal information we hold from misuse, loss or unauthorised use.
+
+We won't ask you for personal information about someone else, but if you provide us with information about another person, you need to ensure that you are authorised to disclose that information to us.
+
+###  **Registration and Responsibilities.  **
+
+To obtain your Credit Score or use our secure Services you must
+
+  * be at least eighteen (18) years of age;
+  * have not previously been suspended or removed from our Site;
+  *   * comply with these Terms and any relevant laws.
+
+
+
+ **Registration**. In most cases, you can engage with our Site anonymously. But, if you want to access some features of our Site to obtain your Credit Score or register for NBN updates, you need to be a registered user.
+
+To register for an account, you need to provide certain identifying information about yourself, including but not limited to your email address and other contact information and create a user name and password.
+
+By applying for your Credit Score, you're agreeing to provide current and accurate information about yourself and authorising us to access the Document Verification Service to confirm that information.
+
+Remember, the  community is built on us all being direct, honest and open, so by registering as a user you are agreeing to conduct yourself in accordance with these Terms.
+
+ **Responsibility**. You are responsible for your account, your information and the integrity and security of your account.
+
+It's best not to share your account details but, if you do share your information with anyone else, you're authorizing them to act on your behalf and authorizing us to accept their submissions and instructions.
+
+If you are worried that your account is not secure, please email [privacy@finder.com.au](mailto:support@finder.com) and we'll help you solve that problem.
+
+## Privacy policy
+
+Hive Empire Pty Ltd (ABN 18 118 725 125) trading as finder.com.au ("finder") is an information service that provides you with the tools and information you need to compare a wide range of products, providers and services. We take your privacy seriously. We have published this policy to show we manage the personal information you provide to us when using our services.
 
 In order to provide you with information, tools and other services we may collect and retain "Personal Information" that may identify you or contribute to identifying you. "Personal Information" can include information such as your name, email address, your photo, contact details and, in some cases, general financial information. We will not collect your personal information unless it's necessary to provide the information, advice or service you've requested and, where possible, you'll be able to use our services anonymously.
 
@@ -64,6 +103,8 @@ When you use our service (or while you're accessing our services) we may collec
 
 
 We provide general advice and comparative information about a range of financial and credit products and can help you connect with businesses that provide relevant products and services. The financial services laws often require us to collect some personal information to provide these services and, if you choose not to provide this information, then there is a chance that the information or advice you receive may not be suitable.
+
+In order to obtain your C, you need to be adequately identified and your information verified with the Document Verification Service (http://www.dvs.gov.au) so we will collect, retain and share the information required in order to provide you with your Credit Score.
 
 We prefer to collect personal information about an individual only from that individual but when you use our services you may provide us with personal information about someone else. We won't ask you for personal information about someone else unless it's needed to provide you with the service, advice or information you've requested but if you provide us with information about another person, you need to ensure that you are authorised to disclose that information to us. It's your responsibility to ensure that they understand how we will collect, use or disclose the information you provide. You need to take reasonable steps to ensure that they understand that we will not take any additional steps to confirm their understanding of these issues.
 
@@ -120,7 +161,7 @@ Although we will take reasonable steps to make sure that the personal informati
 
 We will only ask for the information we need to provide you with services, advice and information you request from us. Where we retain your information, it will only be information you provide to us and it will only be collected and used with your express permission. Rest assured that we will, and do, take reasonable steps to protect the personal information we hold and prevent the misuse, loss or unauthorised use of the information we hold. We will also take reasonable steps to destroy or permanently de-identify personal information that we do not need or no longer need to retain.
 
-Although Hive Empire maintains a regular plan of recovery in the event of the loss of data stored in relation to products and for the purposes of compliance with internal dispute resolution procedures, we do not routinely store individual personal data except with your express permission. Please be aware that when you engage with us via social media, in a forum or by email you may be providing us with some of your personal information such as names, addresses, phone numbers or email addresses. This information, which may identify you, is generally not retained by us for our broader use.
+Although finder maintains a regular plan of recovery in the event of the loss of data stored in relation to products and for the purposes of compliance with internal dispute resolution procedures, we do not routinely store individual personal data except with your express permission. Please be aware that when you engage with us via social media, in a forum or by email you may be providing us with some of your personal information such as names, addresses, phone numbers or email addresses. This information, which may identify you, is generally not retained by us for our broader use.
 
  **We believe in openness**
 
@@ -130,14 +171,13 @@ This document sets out our approach to the management of personal information a
 
 If we hold personal information about you, and in many cases we won't, you can request access to the information we hold. We will not restrict your access to the information unless:
 
-  * providing access would pose a serious and imminent threat to someone's life or health;
   * providing access would pose a serious threat to someone's life or health; or
   * providing access would have an unreasonable impact upon someone else's privacy; or
   * the request for access is frivolous or vexatious; or
   * the information relates to existing or anticipated legal proceedings between you and us;
   * providing access would prejudice our negotiations; or
   * providing access would be unlawful; or
-  * denying access is required or authorised by or under law.; or
+  * denying access is required or authorised by or under law; or
   * providing access would be prejudicial or commercially sensitive.
 
 
@@ -152,10 +192,9 @@ We only collect the information you provide to us so, to a great extent, when yo
 
 Unless you choose to provide disclose your personal information, or instruct us to do so, the personal information we hold will be secured on our servers and not be transferred elsewhere. There are some exceptions, but we won't transfer personal information to a foreign country unless:
 
-  * We believes that the recipient of the information is subject to a law or arrangements that are substantially similar to the Australian Privacy Principles; or
+  * We believe that the recipient of the information is subject to a law or arrangements that are substantially similar to the Australian Privacy Principles; or
   * you consent to the transfer; or
-  * the transfer is necessary for the performance of a contract between you and us, or for the implementation of pre-contractual measures taken in response to your request; or
-  * he transfer is necessary for the conclusion or performance of a contract concluded by you;
+  * the transfer is necessary for the performance of a contract between you and us, or for the implementation of pre-contractual measures taken in response to your request.
 
 
 
@@ -163,7 +202,7 @@ We will not transfer information contrary to this policy or without your consent
 
  **How to provide feedback or request access**
 
-We believe in openness and we are committed to ensuring that we respect the privacy of those using the exceptional services we provide. If you want to arrange access to your information or have questions about privacy or the use of this site, contact us at [privacy@hiveempire.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=privacy@hiveempire.com)
+We believe in openness and we are committed to ensuring that we respect the privacy of those using the exceptional services we provide. If you want to arrange access to your information or have questions about privacy or the use of this site, contact us at **privacy@finder.com.au**
 
 If you have a complaint, you can use the same address or write directly to the Privacy Officer who will try to:
 
@@ -176,6 +215,6 @@ If you have a complaint, you can use the same address or write directly to the P
 
 This policy will be updated from time to time and become effective the moment it is posted on our site. If you subsequently use our site or services you are deemed to have a accepted the amended policy
 
- **Version Date: 21 October 2015**
+ **Version Date: 4 December  2016**
 
-Please note that if the responding officer determines with good reason that your message is spam within the meaning of the Spam Act 2003 (Cth), Hive Empire reserves the right not to respond to any message you send and to block your use of this website from the IP address where the spam originates and reserves the right to claim compensation under the appropriate legislation.
+Please note that if the responding officer determines with good reason that your message is spam within the meaning of the Spam Act 2003 (Cth), finder reserves the right not to respond to any message you send and to block your use of this website from the IP address where the spam originates and reserves the right to claim compensation under the appropriate legislation.
