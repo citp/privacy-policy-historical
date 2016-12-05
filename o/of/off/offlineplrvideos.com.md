@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offlineplrvideos.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411015835id_/http%3A//offlineplrvideos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offlineplrvideos.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205123019id_/http%3A//offlineplrvideos.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
