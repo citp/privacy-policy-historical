@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketfly.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408052408id_/http%3A//start.ticketfly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketfly.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205082518id_/http%3A//start.ticketfly.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Ticketfly
 
