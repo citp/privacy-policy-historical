@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attendanceondemand.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614225316id_/http%3A//www.attendanceondemand.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attendanceondemand.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205191529id_/http%3A//www.attendanceondemand.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Attendance on Demand time and attendance systems
 
@@ -64,4 +64,4 @@ We do not intentionally collect information from children under 13 on the Site. 
 ### Updating Your Information
 
 You can update your information in the following ways:  
-By postal mail to: Attention: Privacy, Attendance on Demand, Inc., 20000 Victor Parkway, Suite 200, Livonia, MI 48152, by phone at 248-476-0008 or to opt-out utilize the Unsubscribe option at the bottom of your newsletter.
+By postal mail to: Attention: Privacy, Attendance on Demand, Inc., 23206 Commerce Drive, Suite 100,, Farmington Hills, MI 48335, by phone at 248-476-0008 or to opt-out utilize the Unsubscribe option at the bottom of your newsletter.
