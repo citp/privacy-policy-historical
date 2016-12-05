@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cainer.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612050950id_/http%3A//www.cainer.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cainer.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205233938id_/http%3A//www.cainer.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ###  Privacy Policy
 
-[Cookies Policy](https://web.archive.org/web/20160612050950id_/http%3A//www.cainer.com/cookies.html) page / [How to Manage Cookies](https://web.archive.org/web/20160612050950id_/http%3A//www.cainer.com/cookiesmanage.html) page.
+[Cookies Policy](https://web.archive.org/web/20161205233938id_/http%3A//www.cainer.com/cookies.html) page / [How to Manage Cookies](https://web.archive.org/web/20161205233938id_/http%3A//www.cainer.com/cookiesmanage.html) page.
 
 Our Site, and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.
 
@@ -16,7 +16,7 @@ In some cases, you may voluntarily provide personal information in response to a
 
 ###  Cookies
 
-Jonathan Cainer's Zodiac Forecasts, as well as most sites on the Internet, use "cookies" to enhance your experience on the web. To learn more about cookie, what they are, why we use them and how to opt out of using them please visit our [Cookie Policy](https://web.archive.org/web/20160612050950id_/http%3A//www.cainer.com/cookies.html) page.
+Jonathan Cainer's Zodiac Forecasts, as well as most sites on the Internet, use "cookies" to enhance your experience on the web. To learn more about cookie, what they are, why we use them and how to opt out of using them please visit our [Cookie Policy](https://web.archive.org/web/20161205233938id_/http%3A//www.cainer.com/cookies.html) page.
 
 If you have any additional questions about Jonathan Cainer's Zodiac Forecasts dedication to consumer privacy, please contact [privacy@cainer.com](mailto:privacy@cainer.com)
 
