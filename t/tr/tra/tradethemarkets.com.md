@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradethemarkets.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402171656id_/http%3A//www.tradethemarkets.com/public/department12.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradethemarkets.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205013516id_/http%3A//www.tradethemarkets.com/public/department12.cfm) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
