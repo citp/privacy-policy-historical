@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postadsdaily.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528191544id_/http%3A//www.postadsdaily.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postadsdaily.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205070957id_/http%3A//www.postadsdaily.com/privacy.php) for the most accurate reproduction.*
 
 # PostAdsDaily.com > Post Free Ads, get Traffic & Make Money Online!
 
@@ -31,6 +31,11 @@ What happens if the Privacy Policy Changes? We will let our Visitors and Authori
 
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
-[](http://trafficmarketplace.org/?rid=1480)
+[](http://www.rotateurls.com/index.php?referid=viralaff)
+
+  
+
+
+PostAdsDaily.com is NOT a Pyramid Scheme, MLM or a get-rich-quick program. We don't require you to have a website or sell any product to use our service. We do not require you to refer anyone to our site to use our service. You won't get rich by using our internet advertising program.
 
 © Copyright 2008-2016 **PostAdsDaily.com** _All Rights Reserved_
