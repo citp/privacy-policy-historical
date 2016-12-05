@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the woodworkersjournal.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612194414id_/http%3A//www.woodworkersjournal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodworkersjournal.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205130112id_/http%3A//www.woodworkersjournal.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Woodworking |Videos | Plans | How To
+# Privacy - Woodworking | Videos | Plans | How To
 
 Our website and Your Privacy
 
