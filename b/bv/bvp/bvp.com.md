@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bvp.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412214020id_/https%3A//www.bvp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bvp.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205180636id_/https%3A//www.bvp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bessemer Venture Partners
 
