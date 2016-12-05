@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rgraph.net privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607042446id_/http%3A//www.rgraph.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rgraph.net privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205112345id_/http%3A//www.rgraph.net/privacy) for the most accurate reproduction.*
 
 # The RGraph privacy policy
 
-[](https://web.archive.org/)
+**_Recommend RGraph:_**
 
  
 
@@ -11,11 +11,11 @@
   
 
 
-This privacy policy sets out how RGraph Commercial Licensing uses and protects any information that you give it when you use this website. 
+This privacy policy sets out how RGraph donations uses and protects any information that you give it when you use this website. 
 
-RGraph Commercial Licensing is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
+RGraph donations is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
 
-RGraph Commercial Licensing may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 2012. 
+RGraph donations may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 2012. 
 
 ## How we use cookies
 
