@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the santaanita.com privacy policy that was archived on 2016-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160605034356id_/http%3A//www.santaanita.com/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the santaanita.com privacy policy that was archived on 2016-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161205231014id_/http%3A//www.santaanita.com/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
 	<meta charset="UTF-8">
@@ -82,9 +82,9 @@ img.emoji {
 		(function(e){if(typeof define==="function"&&define.amd){define(["jquery"],e)}else{e(jQuery)}})(function(e){function n(e){return u.raw?e:encodeURIComponent(e)}function r(e){return u.raw?e:decodeURIComponent(e)}function i(e){return n(u.json?JSON.stringify(e):String(e))}function s(e){if(e.indexOf('"')===0){e=e.slice(1,-1).replace(/\\"/g,'"').replace(/\\\\/g,"\\")}try{e=decodeURIComponent(e.replace(t," "))}catch(n){return}try{return u.json?JSON.parse(e):e}catch(n){}}function o(t,n){var r=u.raw?t:s(t);return e.isFunction(n)?n(r):r}var t=/\+/g;var u=e.cookie=function(t,s,a){if(s!==undefined&&!e.isFunction(s)){a=e.extend({},u.defaults,a);if(typeof a.expires==="number"){var f=a.expires,l=a.expires=new Date;l.setDate(l.getDate()+f)}return document.cookie=[n(t),"=",i(s),a.expires?"; expires="+a.expires.toUTCString():"",a.path?"; path="+a.path:"",a.domain?"; domain="+a.domain:"",a.secure?"; secure":""].join("")}var c=t?undefined:{};var h=document.cookie?document.cookie.split("; "):[];for(var p=0,d=h.length;p<d;p++){var v=h[p].split("=");var m=r(v.shift());var g=v.join("=");if(t&&t===m){c=o(g,s);break}if(!t&&(g=o(g))!==undefined){c[m]=g}}return c};u.defaults={};e.removeCookie=function(t,n){if(e.cookie(t)!==undefined){e.cookie(t,"",e.extend({},n,{expires:-1}));return true}return false}});
 
 		</script>
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+	<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
-<body class="page page-id-34 page-template page-template-page-templates page-template-interior page-template-page-templatesinterior-php group-blog masthead-fixed footer-widgets singular antialiased breadcrumb-normal full-width">
+<body class="page page-id-34 page-template page-template-page-templates page-template-interior page-template-page-templatesinterior-php normal-site pegasus-promo group-blog masthead-fixed footer-widgets singular antialiased breadcrumb-normal full-width">
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T89ZLF"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -258,7 +258,19 @@ Arcadia, California 91007 </p>
 				<script type="text/javascript" id="lbscript246128" src="https://www.benchmarkemail.com/code/lbformnew.js?mFcQnoBFKMQYp361LmEl1OZXUawFafLCrc4BpeDpy3tHNHYysVoPng%253D%253D"></script><noscript>Please enable JavaScript <br /></noscript>
 				<!-- END: Benchmark Email Signup Form Code -->
 			</div>
-		</div>
+			<div id="nl-form-signup"></div>
+<!--[if lte IE 8]>
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+<![endif]-->
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+<script>
+  hbspt.forms.create({ 
+    portalId: '468127',
+    target:'#nl-form-signup',
+    formId: 'd882a85b-f537-42a7-86cc-d0ce5596a54d',
+    inlineMessage: '<p>Thank you for signing up for our newsletter!</p>'
+  });
+</script>		</div>
 	</div><!-- #footer-sidebar -->
 </div><!-- #supplementary -->
 			
@@ -341,7 +353,7 @@ var ajaxURL = {"ajaxurl":"http:\/\/www.santaanita.com\/wp-admin\/admin-ajax.php"
 		jQuery(document).ready(function($) {
 			$('.sa-eletter').colorbox({
 				inline:true,
-				href: $('#eLetterWrap')
+				href: $('#nl-form-signup')
 			});
 		});
 	</script>
@@ -361,6 +373,35 @@ var ajaxURL = {"ajaxurl":"http:\/\/www.santaanita.com\/wp-admin\/admin-ajax.php"
 	ga('linker:autoLink', ['sap.ticketmob.com']);
 	
 	ga('send', 'pageview');
+	
+	
+	/* Hack for GA Footer Logo Tracking */
+	jQuery('body').on('click', 'footer .ga-event', function(e) {
+		
+		var classList = jQuery(this).attr('class').split(/\s+/);
+		var eventLabel = '';
+		var aLink = jQuery(this).find('a').attr('href');
+		
+		jQuery.each(classList, function(i, v){
+			switch (v){
+				case 'ga-budweiser': eventLabel = 'Budweiser'; break;	
+				case 'ga-pepsi': eventLabel = 'Pepsi'; break;
+				case 'ga-sanmanuel': eventLabel = 'SanManuel'; break;
+				case 'ga-mathis-brothers': eventLabel = 'MathisBrothers'; break;
+				case 'ga-rusnak': eventLabel = 'Rusnak'; break;
+			}
+		});
+				
+		if(eventLabel != ''){
+			ga('send', {
+				'hitType':			'event',	// Required.
+				'eventCategory':		'PartnerLogo',	// Required.
+				'eventAction':		'Click',	// Required.
+				'eventLabel':		eventLabel,
+				'eventValue':		0
+			});
+		}
+	});
 	
 	/* Hack for GA Event Tracking for a particular URL */
 	jQuery(document).ready(function($) {
