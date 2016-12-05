@@ -1,185 +1,123 @@
-<!--The following is the downloaded HTML source of the cigar.com privacy policy that was archived on 2015-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906100625id_/http%3A//www.cigar.com/help/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cigar.com privacy policy that was archived on 2016-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161205153539id_/http%3A//www.cigar.com/help/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" dir="ltr" class=" "><head>
+<!DOCTYPE html><html lang="en" dir="ltr" style="" class="audio no-ie8compat history pointerevents postmessage video audioloop webaudio cookies formattribute placeholder beacon scriptasync localstorage svgasimg no-touchevents fontface oninput formvalidation no-localizednumber mediaqueries matchmedia backgroundsize cssanimations borderimage boxshadow borderradius boxsizing csstransforms no-overflowscrolling csstransitions positionfixed datauri safari no-touch"><head>
 	<meta charset="utf-8"> 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Privacy Policy - Cigar.com</title>
 	<meta name="verify-v1" content="mo2D7fHZvn1DDQsCiwG/JrPGtj+M70/PcoMrtVOcAqE=">
 	<meta name="google-site-verification" content="r7rX6ld__1wilH4eY4OQa-B_ANqieXBTIKa5k5lOPZ8">
 		<meta property="og:image" content="http://www.cigar.com/theme/ccom/social/fb_cigar_com.png?v=1">
 		<meta property="og:description" content="Shop premium cigars, humidors, samplers, pipes, pipe tobacco, and accessories at Cigar.com. Huge cigar selection at great prices everyday.">
-		<meta property="og:url" content="http://www.cigar.com/help/privacy-policy/">
+		<meta property="og:url" content="http://www.cigar.com/help/privacy-policy">
 	<meta property="og:title" content="Privacy Policy - Cigar.com">
-		<meta name="robots" content="noarchive">
-	<link rel="canonical" href="/help/privacy-policy/">
-		<link rel="alternate" href="/mobile/help/privacy-policy/" media="only screen and (max-width: 640px)">  
+	<link rel="canonical" href="http://www.cigar.com/help/privacy-policy">
+		<link rel="alternate" href="http://www.cigar.com/mobile/help/privacy-policy" media="only screen and (max-width: 640px)">
 
 
 
-
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://cdn.ywxi.net/js/1.js"></script><script>
-    var WTF = {
-        jqMobileConfig: {
-            ajaxEnabled: false,
-            autoInitializePage: false,
-            hashListeningEnabled: false
-        },
-        page: {
-            internetexplorer: -1
-        },
-        settings: {},
-        verbiage: {
-            cart: {
-                cart: {
-                    pageSuccess : {
-                        notifySuccess: null
-                    }
-                }
-            }
-        },
-        theme: {
-            path: null
-        },
-        scriptQueue: ( function (queue) {
-            queue.unshift = function (fn) {
-                Array.prototype.unshift.call(this, fn);
-                this.execute();
-            };
-
-            queue.push = function (fn) {
-                Array.prototype.push.call(this, fn);
-                this.execute();
-            };
-
-            queue.execute = function () {
-                if (typeof jQuery !== "undefined") {
-                    jQuery(function () {
-                        while (!!queue.length) {
-                            queue.shift().call(window);
-                        }
-                    });
-                }
-            };
-
-            return queue;
-        }( [] ) ),
-        onProductImgError: function (size) {
-            var matches;
-
-            if (this.nodeName !== "IMG") {
-                return;
-            }
-
-            this.onerror = null;
-
-            size = size
-                || this.getAttribute("width")
-                || (!!(matches = this.src.match(/\/\d{2,}\//)) ? matches[0].slice(1, matches[0].length - 1) : null);
-
-            if (size) {
-                this.src = WTF.missingImageUrl.replace("{0}", size);
-            }
-        }
-    };
-    
-    window.onerror = function (msg, url, lineNumber) {
-        return; //BNM 2015-08-11, when we are ready to start tackling these errors, remove this return statement.
-        var exclusions, data,
-            args = Array.prototype.slice.call(arguments);
-
-        // It was hard to find any info about this on the web;
-        // but we do in fact have cases of an event object being passed.
-        // https://code.google.com/p/chromium/issues/detail?id=8939
-        if (typeof msg === "object" && msg.type) {
-            lineNumber = args[2] = 0;
-            url = args[1] = msg.srcElement.src || window.location.href;
-            msg = args[0] = msg.type;
-        }
-
-        // Remove white noise from cross-domain script errors
-        // https://bugsnag.com/blog/script-error
-        if (/Script error/i.test(msg) && !url && lineNumber === 0) {
-            return;
-        }
-
-        // Remove white noise from scripts not loading (404) due to network connectivity
-        if (/Unexpected token </i.test(msg)) {
-            return;
-        }
-
-        // Remove getComputedStyle chrome bug
-        if (msg.indexOf("getComputedStyle") > -1) {
-            return;
-        }
-
-        // Remove white noise from external/foreign code
-        // http://stackoverflow.com/questions/8936795/uncaught-error-error-calling-method-on-npobject
-        if (url && url.indexOf("cigar.com") === -1 || msg.indexOf("NPObject") > -1) {
-            return;
-        }
-
-        exclusions = [
-            "secure.livechatinc.com",
-            "youtube.com"
-        ].join("|").replace(/\./g, "\\.");
-
-        // Remove white noise from external sites that still have cigar.com in the url somewhere
-        if (new RegExp(exclusions, "i").test(url)) {
-            return;
-        }
-
-        // Newer implementations have additional arguments
-        data = args.join(",");
-
-        if (WTF.atlas) {
-            WTF.atlas.error(data);
-        } else {
-            WTF.scriptQueue.push(function () {
-                WTF.atlas.error(data);
-            });
-        }
-    };
-</script>
-
-<script>WTF.cookie={BIGLIST:"BigList",CART_GUID:"CartGuid",CART_ITEM_COUNT:"CartItemCount",CONSOLE_DEBUG:"ConsoleDebug",FOOTER_GEOLOCATION_PROMO:"footer-geolocation-promo",PREFERRED_MOBILE_EXPERIENCE:"PreferredMobileExperience",SEARCH_VIEW:"SearchView",SITEWIDE_BANNER:"Banner",SWEEPSTAKES:"ci-sweepstakes",USER_DISPLAY_NAME:"UserDisplayName"};WTF.page.httpStatusCode=200;WTF.scriptVersion="mmQAE0e7rRzCYQ";WTF.missingImageUrl="http://img.cigar.com/content/widget/photoviewer/iris/wd{0}/missing.jpg";WTF.theme.path="/theme/ccom";WTF.verbiage.cart.cart.pageSuccess.notifySuccess="You will be notified via email when {0} is back in stock.";</script>
-
-<!--[if lt IE 6]><script type="text/javascript">WTF.page.internetexplorer = 5;</script><![endif]-->
-<!--[if IE 6]><script type="text/javascript">WTF.page.internetexplorer = 6;</script><![endif]-->
-<!--[if IE 7]><script type="text/javascript">WTF.page.internetexplorer = 7;</script><![endif]-->
-<!--[if IE 8]><script type="text/javascript">WTF.page.internetexplorer = 8;</script><![endif]-->
-<!--[if IE 9]><script type="text/javascript">WTF.page.internetexplorer = 9;</script><![endif]-->
-
-
-
-<link rel="shortcut icon" href="/favicon.ico?v=e0_KszE10gg">
-<link rel="icon" sizes="57x57" href="/apple-touch-icon-57x57-precomposed.png?v=HMpjh95l0gg">
-<link rel="icon" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png?v=vHwZit5l0gg">
-<link rel="icon" sizes="120x120" href="/apple-touch-icon-120x120-precomposed.png?v=vtTRkd5l0gg">
-<link rel="icon" sizes="152x152" href="/apple-touch-icon-152x152-precomposed.png?v=_9BKl95l0gg">
-
-<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152-precomposed.png?v=_9BKl95l0gg">
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144-precomposed.png?v=Li5Zld5l0gg">
-<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120-precomposed.png?v=vtTRkd5l0gg">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png?v=4DY6j95l0gg">
-<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76-precomposed.png?v=8SKOjN5l0gg">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png?v=vHwZit5l0gg">
-<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57-precomposed.png?v=HMpjh95l0gg">
-<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-57x57-precomposed.png?v=HMpjh95l0gg">
-
-<link href="/theme/ccom/css/combined.css?v=W50jQ9v5BqV9jyjFjXnL1v2dfJAHSOHZWlZI4GrQ6I81" rel="stylesheet">
-<link href="/theme/ccom/css/combined-help.css?v=8-fGBNHAGr5EQuw6v-gENTDwjK63UOVxgl9iGUvOMLc1" rel="stylesheet"><noscript><link rel="stylesheet" href="/assets/css/noscript.css?v=8NX1f9Yi0gg" /></noscript>
-
-
-<!--[if lte IE 7]>
-    <style type="text/css">#warning{display:block !important;}</style>
-<![endif]-->
 
 
 <!--[if lte IE 8]>
-    <noscript>
-        <style type="text/css">#warning{display:block !important; }#warning .warning-support{display:none !important;}</style>
-    </noscript>
+<script src="/theme/ccom/js/head-legacy.js?v=7SkLC1fVFyziNQuiGAGs0H4snc4ZEgZCFwLpHTEfnzU1"></script>
 <![endif]-->
+
+<!--[if gte IE 9]><!-->
+<script type="text/javascript" async="" src="https://cdn.ywxi.net/js/1.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script src="/theme/ccom/js/head.js?v=V8Eczg7MnXzxQjaNOJw2a9LWzbXd_rlD5NO7RXH54281"></script>
+<!--<![endif]-->
+
+<script>var WTF={"initializer":"ready","jqMobileConfig":{"ajaxEnabled":false,"autoInitializePage":false,"hashListeningEnabled":false},"page":{"httpStatusCode":200,"currentArea":"home","currentController":"help","currentAction":"privacy_policy","products":[],"order":{},"productReferral":"browse","department":"","name":"home:help:privacy-policy","events":{"pageview-session-start":{"timeStamp":"16-12-05"}}},"settings":{"missingImageUrl":"http://img.cigar.com/content/widget/photoviewer/iris/wd{0}/missing.jpg","scriptVersion":"cYcFv01ToMi9yg","themePath":"/theme/ccom","analytics":{"adroit":{"isHomePageTracking":true,"homePageMerchantId":"1073627","merchantId":"938203","adId":"158808"},"adroller":{"advertisingId":"3MIO7VEH5FFZNCZB37ZA6M","pixelId":"VREJLA5ZFZHZJLPCWE3YE6"},"amazon":{"merchantId":""},"bing":{"id":""},"conversant":{"id":"","type":"","sourceKey":""},"google":{"trackingId":"UA-27643891-17","apiKey":"AIzaSyDGlgUnTHbwOWgDihhrZG3p2tPvk0LTApg"},"havenhome":{"trackingId":"250055"},"omniture":{"accountNumber":"cigarcom-prod","_channelDomain":"Shopping Feeds|pricegrabber.com,shopzilla.com","linkInternalFilters":"javascript:,cigar.com, #","trackingServer":"metrics.cigar.com","trackingServerSecure":"smetrics.cigar.com"},"onetag":{"trackingId":"C1928C47551BD4"},"quantcast":{"id":"p-_yXk-TKZdKS66"},"hivewyre":{"id":""}},"net":{"domain":"cigar.com"},"splitTest":{"receiptTrackingKey":"ccomThankYou"},"ajaxErrorMessage":"An error occured while proccessing the request.\n Please try again or contact customer service.","isHideFormLabels":false,"isMobile":false},"verbiage":{"cart":{"cart":{"pageSuccess":{"notifySuccess":"You will be notified via email when {0} is back in stock."}}},"sitewide":{"name":"Cigar.com"}}};</script>
+<script>
+    
+    WTF.cookies = {"BIGLIST":"BigList","CART_GUID":"CartGuid","CART_ITEM_COUNT":"CartItemCount","CONSOLE_DEBUG":"ConsoleDebug","NEW_USER_TIME_STAMP":"NewUserTimeStamp","PREFERRED_MOBILE_EXPERIENCE":"PreferredMobileExperience","SEARCH_VIEW":"SearchView","SITEWIDE_BANNER":"Banner","SITEWIDE_PROMO_BANNER":"PromoBanner","SWEEPSTAKES":"ci-sweepstakes","SOURCE_KEY":"SourceKey","TEST_SITE_TABS":"SplitTest_IsSiteTabsEnabled","USER_DISPLAY_NAME":"UserDisplayName","WEB_ANALYTICS_USER":"WebAnalyticsUser"};
+
+    (function (queue) {
+        var args,
+            state = "pending";
+
+        WTF.state = function () {
+            return state;
+        }
+
+        WTF.done = function (fn) {
+            if (state === "pending") {
+                queue.push(fn);
+            } else {
+                fn.apply(WTF, args);
+            }
+
+            return WTF;
+        };
+
+        WTF.resolve = function () {
+            if (state !== "pending") {
+                return WTF;
+            }
+            
+            state = "resolved";
+            args = [].slice.call(arguments);
+
+            while (!!queue.length) {
+                queue.shift().apply(WTF, args);
+            }
+
+            return WTF;
+        };
+    }( [] ) );
+
+    WTF.onProductImgError = function (size) {
+        var matches;
+
+        if (this.nodeName !== "IMG") {
+            return;
+        }
+
+        this.onerror = null;
+
+        size = size
+            || this.getAttribute("width")
+            || (!!(matches = this.src.match(/\/\d{2,}\//)) ? matches[0].slice(1, matches[0].length - 1) : null);
+
+        if (size) {
+            this.src = WTF.settings.missingImageUrl.replace("{0}", size);
+        }
+    };
+    
+
+    WTF.page.products.forEach(function(product){
+        WTF.page.products["p" + product.id] = product;
+    });
+
+    WTF.addProducts = function(products){
+        WTF.page.products = WTF.page.products.concat(products);
+
+        products.forEach(function(product){
+            WTF.page.products["p" + product.id] = product;
+        });
+    };
+    
+    WTF.customer = Cookies.getJSON(WTF.cookies.WEB_ANALYTICS_USER);
+</script>
+
+
+
+<link rel="shortcut icon" href="/favicon.ico?v=W6hVAQEz0wg">
+<link rel="icon" sizes="57x57" href="/apple-touch-icon-57x57-precomposed.png?v=">
+<link rel="icon" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png?v=">
+<link rel="icon" sizes="120x120" href="/apple-touch-icon-120x120-precomposed.png?v=">
+<link rel="icon" sizes="152x152" href="/apple-touch-icon-152x152-precomposed.png?v=">
+
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152-precomposed.png?v=">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144-precomposed.png?v=">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120-precomposed.png?v=">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png?v=">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76-precomposed.png?v=">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png?v=">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57-precomposed.png?v=">
+<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-57x57-precomposed.png?v=">
+
+
+<link href="/theme/ccom/css/combined.css?v=ApJhjbOJVs82FMc2lIVgb58ooICQUlR1y5hKhE_yqo41" rel="stylesheet">
+<link href="/theme/ccom/css/combined-help.css?v=8-fGBNHAGr5EQuw6v-gENTDwjK63UOVxgl9iGUvOMLc1" rel="stylesheet"><noscript><link rel="stylesheet" href="/assets/css/noscript.css?v=8NX1f9Yi0gg" /></noscript>
 
 
 
@@ -194,81 +132,135 @@
 </script>
 
 
+
 <!--[if lte IE 8]>
-<script src="/theme/ccom/js/combined-legacy.js?v=3In3C5-09N_UVjQ30FWQUVm20NFQI4ZYX1M9SoHK5to1"></script>
+<script src="/theme/ccom/js/main-legacy.js?v=QOmGhjsIlavcxAivI0mGoHa6sS-S1iR_IRq8F7wnc3g1"></script>
 <![endif]-->
 
 
 <!--[if gte IE 9]><!-->
-<script src="/theme/ccom/js/combined.js?v=eQ5pgEa9v6lddmWa2p-gfri0vz8Ut44Z2NNDQP-p1E01"></script>
+<script src="/theme/ccom/js/main.js?v=y_xdynsRWxoCSGZqJiZ13Zg62RMlyQD3hSmjeFGpEEg1"></script><style>.mboxDefault { visibility:hidden; }</style>
 <!--<![endif]-->
+
 <script type="text/javascript">
     var RecaptchaOptions = {
         theme: 'white'
     };
 </script>
 
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+    <script>
+        var __lc = {};
+        __lc.license = 5672771;
+
+        (function() {
+            var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+            lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+        })();
+    </script>
+
+
+<script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
+
+<script defer="" async="" src="/theme/ccom/js/analytics.js?v=2KSxYpn3gJumOSH9Pilt3qpn2thLq0fG2WDI3ek5bBw1"></script>
+    
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "url": "http://www.cigar.com",
+        "name" : "Cigar.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "http://www.cigar.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+      }
+    </script>
+
+                    <script async="" src="https://ds-aksb-a.akamaihd.net/aksb.min.js"></script><script type="text/javascript">
+                      var w=window;
+                      if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document,AKSB=AKSB||{};AKSB.q=[];AKSB.mark=function(a,b){AKSB.q.push(["mark",a,b||(new Date).getTime()])};AKSB.measure=function(a,b,c){AKSB.q.push(["measure",a,b,c||(new Date).getTime()])};AKSB.done=function(a){AKSB.q.push(["done",a])};AKSB.mark("firstbyte",(new Date).getTime());AKSB.prof={custid:"125508",ustr:"UNKNOWN",originlat:0,clientrtt:3,ghostip:"184.28.17.32",
+                      ipv6:false,pct:10,clientip:"52.4.48.181",requestid:"4c9bf7e",protocol:"",blver:10,akM:"b",akN:"ae",akTT:"O",akTX:"1",akTI:"4c9bf7e",ai:"285173",ra:"",pmgn:"",pmgi:"",pmp:""};(function(a){var b=
+                      d.createElement("script");b.async="async";b.src=a;a=d.getElementsByTagName("script");a=a[a.length-1];a.parentNode.insertBefore(b,a)})(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")};
+                    </script>
+                    </head>
 <body id="home_help_privacy-policy" data-area="home" data-controller="help" data-action="privacy-policy">
-	<div id="page-wrap" data-init="" data-role="page" class="wrap" data-area="home" data-controller="help" data-action="privacy-policy">
-	  <div id="warning" class="margins">
+    <div id="page-wrap" data-wtf="" data-role="page" class="wrap" data-area="home" data-controller="help" data-action="privacy-policy">
+	  <div id="warning" data-wtf="" class="padding">
     <div class="warning-inner">
         <div class="warning-support">
             <div class="warning-support-header">Your web browser is no longer supported.</div>
             <div class="p">
-                <span>Cigar.com is commited to providing you with the best web experience possible. </span>
+                <span>Cigar.com is committed to providing you with the best web experience possible. </span>
                 <span class="warning-browser-specific">
                 <!--[if lte IE 5]>
-                    <b>You are currently using Internet Explorer version 5 or lower.</b>
+                    <span>Internet Explorer version 5.5 is no longer supported by Microsoft.</span>
                 <![endif]-->
                 <!--[if IE 6]>
-                    <b>You are currently using Internet Explorer version 6.</b>
+                    <span>Internet Explorer version 6 is no longer supported by Microsoft.</span>
                 <![endif]-->
                 <!--[if IE 7]>
-                    <b>You are currently using Internet Explorer version 7.</b>
+                    <span>Internet Explorer version 7 is no longer supported by Microsoft.</span>
                 <![endif]-->
-                <!--[if IE 8]>
-                    <strong>You are currently using Internet Explorer version 8.</strong>
+                <!--[if lte IE 7]>
+                    <strong>Please update your version of Internet Explorer or switch to one of the other browsers listed below.</strong>
                 <![endif]-->
                 </span>
-                <span>Please upgrade to a modern web browser.</span>
             </div>
         </div>
         <noscript>
             <div class="warning-support-header">Your browser configuration requires JavaScript.</div>
             <div class="p">
-                Cigar.com is commited to providing you with the best web experience possible. 
-                Please <a href="https://www.google.com/search?q=enable+javascript&amp;rlz=1C1CHFX_enUS499US499&amp;oq=enable+javascript&amp;aqs=chrome..69i57j0l5.2858j0j7&amp;sourceid=chrome&amp;espv=210&es_sm=93&ie=UTF-8" target="_blank">enable JavaScript</a> or upgrade to a modern web browser. 
+                Cigar.com is committed to providing you with the best web experience possible. 
+                <!--[if IE 8]>
+                    <span>You are currently using Internet Explorer version 8.</span>
+                <![endif]-->
+                <strong>Please <a href="https://www.google.com/search?q=enable+javascript&amp;rlz=1C1CHFX_enUS499US499&amp;oq=enable+javascript&amp;aqs=chrome..69i57j0l5.2858j0j7&amp;sourceid=chrome&amp;espv=210&amp;es_sm=93&amp;ie=UTF-8" target="_blank">enable JavaScript</a> or upgrade to a modern web browser. </strong>
             </div>
         </noscript>
         <div class="warning-browsers">
-            <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" class="first-child" rel="nofollow">
-                <img src="/assets/img/icon/browser-internet-explorer.png" widht="30" height="30" alt="Internet Explorer Browser Icon">
+            <a id="warning-internetexplorer" href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" class="first-child" rel="nofollow">
+                <img src="/assets/img/icon/browser-internet-explorer.png" width="30" height="30" alt="Internet Explorer Browser Icon">
                 <b>Internet Explorer</b>
                 <span>by Microsoft</span>
             </a>
-            <a href="https://www.google.com/intl/en/chrome/browser/" rel="nofollow">
-                <img src="/assets/img/icon/browser-chrome.png" widht="30" height="30" alt="Chrome Browser Icon">
+            <a id="warning-chrome" href="https://www.google.com/intl/en/chrome/browser/" rel="nofollow">
+                <img src="/assets/img/icon/browser-chrome.png" width="30" height="30" alt="Chrome Browser Icon">
                 <b>Chrome</b>
                 <span>by Google</span>
             </a>
-            <a href="https://www.mozilla.org/en-US/firefox/new/" rel="nofollow">
-                <img src="/assets/img/icon/browser-firefox.png" widht="30" height="30" alt="Firefox Browser Icon">
+            <a id="warning-firefox" href="https://www.mozilla.org/en-US/firefox/new/" rel="nofollow">
+                <img src="/assets/img/icon/browser-firefox.png" width="30" height="30" alt="Firefox Browser Icon">
 			    <b>Firefox</b>
                 <span>by Mozilla</span>
             </a>
-            <a href="http://www.apple.com/safari/" class="last-child" rel="nofollow">
-                <img src="/assets/img/icon/browser-safari.png" widht="30" height="30" alt="Safari Browser Icon">
+            <a id="warning-safari" href="http://www.apple.com/safari/" class="last-child" rel="nofollow">
+                <img src="/assets/img/icon/browser-safari.png" width="30" height="30" alt="Safari Browser Icon">
                 <b>Safari</b>
                 <span>by Apple</span>
             </a>
         </div>
     </div>
+    <a href="#" class="ui-btn ui-btn-e ui-icon-delete ui-btn-icon-notext ui-alt-icon ui-btn-right"><span class="icon-s icon-s-delete-icon"></span>Close</a>
 </div>
-	  
+
+
+<!--[if lte IE 7]>
+    <style type="text/css">#warning{display:block !important;}#warning-safari{display:none;}</style>
+<![endif]-->
+
+
+<!--[if lte IE 8]>
+    <noscript>
+        <style type="text/css">#warning{display:block !important; }#warning-safari{display:none;}#warning .warning-support{display:none !important;}</style>
+    </noscript>
+<![endif]-->
+
 	  <div id="boostbar-wrap" class="wrap">
     <div id="boostbar" class="container touch-links">
-        <div id="boostbar-promo"><em>Free Shipping</em> everyday on orders over $125 • 3 Days or less!</div>
+            <div id="boostbar-promo"><em>Free Shipping</em> everyday on orders over $149 • 3 Days or less!</div>
+
         
         <ul id="boostbar-links">
             <li class="nojs"><a href="#email-signup" data-dialog="email-signup" data-width="420" data-dialog-class="email-signup" id="subscribeLink">Email Sign Up</a></li>
@@ -280,91 +272,90 @@
         
 
 <div id="email-signup" class="email-signup-modal" style="display:none;">
-<form action="https://www.cigar.com/email/subscribe/?returnUrl=%2faccessories%2fguillotine-cutters%2f%3ff_Brand%3dXikar%26f_Cutter%2bMax%2bCut%2bRing%2bGauge%3d70%26f_Price%2bRange%3d%252425%2b-%2b%252450%26f_Cutter%2bBlade%2bCount%3d2" method="post">        <input type="hidden" name="Confirm" value="true">
+<form action="https://www.cigar.com/email/subscribe/" data-wtf="form email-signup-redirect" method="post">        <input type="hidden" name="Confirm" value="true">
 		<p>Stay connected and sign-up for emails to get exclusive deals and event info.</p>
-		<label class="required" for="SignupEmail-modal">Your Email Address</label>
+		<label class="required" for="SignupEmail-modal">Enter Your Email Address</label>
         <div class="form-row">
             <div class="ui-input-text">
-		        <input type="email" id="SignupEmail-modal" name="EmailAddress" required="">
+		        <input type="email" id="SignupEmail-modal" name="EmailAddress" required="" placeholder="Enter Your Email Address">
             </div>
             <span class="field-validation-valid" data-valmsg-for="EmailAddress" data-valmsg-replace="true"></span>
         </div>
-		<label class="required" for="SignupConfirmEmail-modal">Confirm Email Address</label>
+		<label class="required" for="SignupConfirmEmail-modal">Confirm Your Email Address</label>
         <div class="form-row">
             <div class="ui-input-text">
-		        <input type="email" id="SignupConfirmEmail-modal" name="ConfirmEmailAddress" class="validate-confirm" data-confirm="SignupEmail-modal" required="">
+		        <input type="email" id="SignupConfirmEmail-modal" name="ConfirmEmailAddress" class="validate-confirm-email" data-confirm="SignupEmail-modal" required="" placeholder="Confirm Your Email Address">
             </div>
             <span class="field-validation-valid" data-valmsg-for="ConfirmEmailAddress" data-valmsg-replace="true"></span>
         </div>
         <div class="caption">
-            By submitting this form you certify that the recipients of this email are of legal age to purchase tobacco products.
+            By submitting this form you certify that the recipients of this email are 21 years of age or older.
         </div>
 		<div class="email-signup-submit">
             <button class="btn btn-lrg btn-a btn-subscribe" type="submit" name="SignupSubmit"><span>Subscribe</span></button>
 		</div>
-</form></div>
+<input type="hidden" name="returnUrl" value="/web/20161205153539id_/http%3A//www.cigar.com/help/privacy-policy"></form></div>
 
     </div>
 </div>
 	  <div id="header-wrap" class="wrap">
 			<header id="header" class="container">
 				<ul id="header-account">
-		<li class="header-account-link"><a class="link" href="https://www.cigar.com/account/login/?returnUrl=%252fhelp%252fprivacy-policy%252f">Sign In</a></li>
+		<li class="header-account-link"><a class="link" href="https://www.cigar.com/account/login/?returnUrl=%252fhelp%252fprivacy-policy" rel="nofollow">Sign In</a></li>
 	<li class="header-account-link header-account-link-account">
-        <a class="link" href="https://www.cigar.com/account/">Your Account <span class="ui-icon ui-icon-triangle-1-s"></span></a>
+        <a class="link" href="https://www.cigar.com/account/" rel="nofollow">Your Account<span></span></a>
         <div class="header-account-menu">
-                <a class="btn btn-big btn-d" href="https://www.cigar.com/account/login/?returnUrl=%252fhelp%252fprivacy-policy%252f"><span>Sign In</span></a>
-                <div>New Customer? <a href="https://www.cigar.com/account/login/?returnUrl=%252fhelp%252fprivacy-policy%252f">Register</a></div>
+                <a class="btn btn-big btn-d" href="https://www.cigar.com/account/login/?returnUrl=%252fhelp%252fprivacy-policy" rel="nofollow"><span>Sign In</span></a>
+                <div>New Customer? <a href="https://www.cigar.com/account/login/?returnUrl=%252fhelp%252fprivacy-policy" rel="nofollow">Register</a></div>
             <ul>
-		        <li><a href="https://www.cigar.com/account/">My Account</a></li>
-                <li><a href="/account/settings/">Account Info</a></li>
-		        <li><a href="/account/address/">Address Book</a></li>
-		        <li><a href="/account/payment/">Payment Types</a></li>
-		        <li><a href="/account/gift-card/">Gift Cards</a></li>
-		                    <li><a href="/account/favorites/">Favorites</a></li>
-		    		    	        		        <li><a href="/account/customer-service/">Customer Service</a></li>
-		        <li><a href="/account/order-history/">Order History</a></li>
-		        <li><a href="/account/order-history/purchases/">Recently Purchased</a></li>
-			    <li><a href="/account/forum/">Forum</a></li>
+		        <li><a href="https://www.cigar.com/account/" rel="nofollow">My Account</a></li>
+                <li><a href="/account/settings/" rel="nofollow">Account Info</a></li>
+		        <li><a href="/account/address/" rel="nofollow">Address Book</a></li>
+		        <li><a href="/account/payment/" rel="nofollow">Payment Types</a></li>
+		        <li><a href="/account/gift-card/" rel="nofollow">Gift Cards</a></li>
+		                    <li><a href="/account/favorites/" rel="nofollow">Favorites</a></li>
+		    		    	        		        <li><a href="/account/customer-service/" rel="nofollow">Customer Service</a></li>
+		        <li><a href="/account/order-history/" rel="nofollow">Order History</a></li>
+		        <li><a href="/account/order-history/purchases/" rel="nofollow">Recently Purchased</a></li>
+			    <li><a href="/account/forum/" rel="nofollow">Forum</a></li>
             </ul>
         </div>
     </li>
-	<li class="header-account-cart"><a href="http://www.cigar.com/checkout/login/?returnUrl=%2fcheckout%2f">Checkout &gt;</a></li>
-	<li class="header-account-cart"><a href="http://www.cigar.com/cart/"><span>Cart</span><strong></strong></a></li>
+	<li class="header-account-cart"><a href="http://www.cigar.com/checkout/login/?returnUrl=%2fcheckout%2f" rel="nofollow">Checkout &gt;</a></li>
+	<li class="header-account-cart"><a href="http://www.cigar.com/cart/" rel="nofollow"><span>Cart</span><strong></strong></a></li>
 </ul>
 
 <ul id="header-links">
-        <li><a class="link" href="https://www.cigar.com/account/login/?returnUrl=%252fhelp%252fprivacy-policy%252f">Sign In</a></li>
-    <li><a href="https://www.cigar.com/account/">Account</a></li>
+        <li><a class="link" href="https://www.cigar.com/account/login/?returnUrl=%252fhelp%252fprivacy-policy" rel="nofollow">Sign In</a></li>
+    <li><a href="https://www.cigar.com/account/" rel="nofollow">Account</a></li>
     <li class="nojs"><a href="#email-signup" data-dialog="email-signup" data-width="420" data-dialog-class="email-signup" id="subscribeLink">Email Sign Up</a></li>
         <li><a href="http://www.cigar.com/help/request-catalog/">Request a Catalog</a></li>
     <li><a href="http://www.cigar.com/help/">Help</a></li>
     <li><span class="phone-cs" title="Call our Customer Service line for any questions or concerns">800.357.9800</span></li>
 </ul>
-				
+
 				
 				
 
 				<a id="header-logo" href="http://www.cigar.com/" title="Home">
-				   	<img src="//img.cigar.com/content/sitewide/logo/logo.svg" width="240" height="70" alt="Cigar.com">
+				   	<img src="//img.cigar.com/content/sitewide/logo/Winter.png" width="295" height="62" alt="Cigar.com - The Home for Cigar Enthusiasts">
 
 				</a>
-				
-                    <div id="header-promo"><em>Free Shipping</em>3 Days or less! • Orders over $125</div>
 
-				<form id="header-search" class="header-search" method="get" action="/search/" data-init="form">
+                    <div id="header-promo"><em>Free Shipping</em>3 Days or less! • Orders over $149</div>
+
+				<form class="header-search" method="get" action="/search/" data-wtf="form header-search">
     <div class="ui-input-search header-autocomplete">
-        <input id="header-autocomplete" type="text" name="q" placeholder="Search Keyword" autocomplete="off" maxlength="75">
+        <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input id="header-autocomplete" type="text" name="q" placeholder="Search Keyword" value="" autocomplete="off" maxlength="75" class="ui-autocomplete-input">
     </div><button class="btn btn-go " type="submit"><span>Go</span></button>
 
         <a id="header-advanced" class="textlink-underlined nojs" href="/search/advanced/">Advanced</a>
-</form>
+<ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="display: none;"></ul></form>
 
-				
-				<nav id="nav" data-init="mega-menu">
-	<ul>
-        <li class="nav-home"><a href="http://www.cigar.com/" title="Home"><span>Home</span></a></li>
-        <li><a href="http://www.cigar.com/brands/cigars/">List of Brands</a></li>
+				<nav id="nav" data-wtf="mega-menu">
+	<ul class="nav-hoverdelay">
+        <li class="nav-home"><a id="nav-home-link" href="http://www.cigar.com/" title="Home"><span>Home</span></a></li>
+        <li><a id="nav-biglist-link" href="http://www.cigar.com/brands/cigars/">List of Brands</a></li>
 		
 
         <li class="nav-item-0 nav-item ">
@@ -376,78 +367,81 @@
                             <tr>
                                     <td>
                                             <div><span>Shop by Strength</span></div>
-<ul>                                                    <li><a href="/cigars/mild-cigars/">Mild</a></li>
-                                                    <li><a href="/cigars/mild-medium-cigars/">Mild-Medium</a></li>
-                                                    <li><a href="/cigars/medium-cigars/">Medium</a></li>
-                                                    <li><a href="/cigars/medium-full-cigars/">Medium-Full</a></li>
-                                                    <li><a href="/cigars/full-cigars/">Full</a></li>
+<ul>                                                    <li id="nav0-column1-link1470"><a href="/cigars/mild-cigars/">Mild</a></li>
+                                                    <li id="nav0-column1-link1471"><a href="/cigars/mild-medium-cigars/">Mild-Medium</a></li>
+                                                    <li id="nav0-column1-link1473"><a href="/cigars/medium-cigars/">Medium</a></li>
+                                                    <li id="nav0-column1-link1472"><a href="/cigars/medium-full-cigars/">Medium-Full</a></li>
+                                                    <li id="nav0-column1-link1469"><a href="/cigars/full-cigars/">Full</a></li>
 </ul>                                            <div><span>Shop by Origin</span></div>
-<ul>                                                    <li><a href="/cigars/nicaraguan-cigars/">Nicaragua</a></li>
-                                                    <li><a href="/cigars/dominican-cigars/">Dominican Republic</a></li>
-                                                    <li><a href="/cigars/honduran-cigars/">Honduras</a></li>
-                                                    <li><a href="/cigars/american-cigars/">United States</a></li>
-                                                    <li><a href="/cigars/cuban-cigars/">Cuba (Pre-Embargo)</a></li>
-                                                    <li><a href="/cigars/bahamian-cigars/">Bahamas </a></li>
-</ul>                                    </td>
+<ul>                                                    <li id="nav0-column1-link1475"><a href="/cigars/nicaraguan-cigars/">Nicaragua</a></li>
+                                                    <li id="nav0-column1-link1480"><a href="/cigars/dominican-cigars/">Dominican Republic</a></li>
+                                                    <li id="nav0-column1-link1478"><a href="/cigars/honduran-cigars/">Honduras</a></li>
+                                                    <li id="nav0-column1-link1477"><a href="/cigars/american-cigars/">United States</a></li>
+                                                    <li id="nav0-column1-link1479"><a href="/cigars/bahamian-cigars/">Bahamas </a></li>
+                                                    <li id="nav0-column1-link1770"><a href="http://www.cigar.com/cigars/cuban-cigars/">Cuba (pre-embargo)</a></li>
+</ul>                                            <div><a href="http://www.cigar.com/cigars/cigar-aficionado-top-25-cigars-of-2015/" style="font-weight:bold;color:#004E72">Cigar Aficionado Top 25 Cigars of 2015</a></div>
+                                            <div><a href="http://www.cigar.com/favorites/" style="font-weight:bold;color:#004E72">Search Wish Lists</a></div>
+                                    </td>
                                     <td>
                                             <div><span>Suggestions</span></div>
-<ul>                                                    <li><a href="/cigars/house-favorite-cigars/">House Favorite Cigars</a></li>
-                                                    <li><a href="/cigars/best-value-cigars/">Best Value Cigars</a></li>
-                                                    <li><a href="/cigars/best-top-shelf-cigars/">Best Top-Shelf Cigars</a></li>
-                                                    <li><a href="/cigars/best-full-bodied-cigars/">Best Full-Bodied Cigars</a></li>
-                                                    <li><a href="/cigars/best-medium-bodied-cigars/">Best Medium-Bodied Cigars</a></li>
-                                                    <li><a href="/cigars/best-mild-bodied-cigars/">Best Mild-Bodied Cigars</a></li>
-                                                    <li><a href="/cigars/best-infused-cigars/">Best Infused Cigars</a></li>
-                                                    <li><a href="/cigars/best-golf-cigars/">Best Golf Cigars</a></li>
-                                                    <li><a href="/cigars/best-wedding-cigars/">Best Wedding Cigars</a></li>
+<ul>                                                    <li id="nav0-column2-link1484"><a href="/cigars/house-favorite-cigars/">House Favorite Cigars</a></li>
+                                                    <li id="nav0-column2-link1482"><a href="/cigars/best-value-cigars/">Best Value Cigars</a></li>
+                                                    <li id="nav0-column2-link1486"><a href="/cigars/best-top-shelf-cigars/">Best Top-Shelf Cigars</a></li>
+                                                    <li id="nav0-column2-link1485"><a href="/cigars/best-full-bodied-cigars/">Best Full-Bodied Cigars</a></li>
+                                                    <li id="nav0-column2-link1487"><a href="/cigars/best-medium-bodied-cigars/">Best Medium-Bodied Cigars</a></li>
+                                                    <li id="nav0-column2-link1490"><a href="/cigars/best-mild-bodied-cigars/">Best Mild-Bodied Cigars</a></li>
+                                                    <li id="nav0-column2-link1489"><a href="/cigars/best-infused-cigars/">Best Infused Cigars</a></li>
+                                                    <li id="nav0-column2-link1483"><a href="/cigars/best-golf-cigars/">Best Golf Cigars</a></li>
+                                                    <li id="nav0-column2-link1488"><a href="/cigars/best-wedding-cigars/">Best Wedding Cigars</a></li>
 </ul>                                            <div><span>Categories</span></div>
-<ul>                                                    <li><a href="/brands/cigars/">Premium Cigars</a></li>
-                                                    <li><a href="/cigars/machine-mades/">Machine Mades</a></li>
-                                                    <li><a href="/cigars/seconds/">Seconds</a></li>
-                                                    <li><a href="/samplers/shop-all-samplers/">Cigar Samplers</a></li>
-                                                    <li><a href="/expert-reviews/">Expert Reviews</a></li>
-                                                    <li><a href="/brands/1099/cigar-com-house-blends/">House Blends</a></li>
-                                                    <li><a href="/cigars/luxury-collection/">Luxury Collection</a></li>
-                                                    <li><a href="/samplers/club/">Cigar of the Month Club</a></li>
-                                                    <li><a href="/cigars/new-arrivals/">New Arrivals</a></li>
-                                                    <li><a href="/cigars/top-selling-mazos/">Top-Selling Mazos</a></li>
-                                                    <li><a href="/cigars/limited-edition-cigars/">Limited Edition Cigars</a></li>
+<ul>                                                    <li id="nav0-column2-link1524"><a href="/brands/cigars/">Premium Cigars</a></li>
+                                                    <li id="nav0-column2-link1527"><a href="/cigars/machine-mades/">Machine Mades</a></li>
+                                                    <li id="nav0-column2-link1521"><a href="/cigars/seconds/">Seconds</a></li>
+                                                    <li id="nav0-column2-link1520"><a href="/samplers/shop-all-samplers/">Cigar Samplers</a></li>
+                                                    <li id="nav0-column2-link1528"><a href="/expert-reviews/">Expert Reviews</a></li>
+                                                    <li id="nav0-column2-link1525"><a href="/brands/1099/cigar-com-house-blends/">House Blends</a></li>
+                                                    <li id="nav0-column2-link1529"><a href="/cigars/luxury-collection/">Luxury Collection</a></li>
+                                                    <li id="nav0-column2-link1530"><a href="/samplers/club/">Cigar of the Month Club</a></li>
+                                                    <li id="nav0-column2-link1522"><a href="/cigars/new-arrivals/">New Arrivals</a></li>
+                                                    <li id="nav0-column2-link1523"><a href="/cigars/top-selling-mazos/">Top-Selling Mazos</a></li>
+                                                    <li id="nav0-column2-link1526"><a href="/cigars/limited-edition-cigars/">Limited Edition Cigars</a></li>
+                                                    <li id="nav0-column2-link1899"><a href="/cigars/cigar-com-signature-blends/">CIGAR.com Signature Blends</a></li>
 </ul>                                    </td>
                                     <td>
                                             <div><span>Price Per Cigar</span></div>
-<ul>                                                    <li><a href="/cigars/cigars-under-3/">Under $3</a></li>
-                                                    <li><a href="/cigars/cigars-from-3-to-5-99/">$3 to $5.99</a></li>
-                                                    <li><a href="/cigars/cigars-from-6-to-9-99/">$6 to $9.99</a></li>
-                                                    <li><a href="/cigars/cigars-10-and-above/">$10 and above</a></li>
+<ul>                                                    <li id="nav0-column3-link1494"><a href="/cigars/cigars-under-3/">Under $3</a></li>
+                                                    <li id="nav0-column3-link1492"><a href="/cigars/cigars-from-3-to-5-99/">$3 to $5.99</a></li>
+                                                    <li id="nav0-column3-link1493"><a href="/cigars/cigars-from-6-to-9-99/">$6 to $9.99</a></li>
+                                                    <li id="nav0-column3-link1495"><a href="/cigars/cigars-10-and-above/">$10 and above</a></li>
 </ul>                                            <div><span>Shop by Wrapper</span></div>
-<ul>                                                    <li><a href="/cigars/connecticut-cigars/">Connecticut</a></li>
-                                                    <li><a href="/cigars/habano-cigars/">Habano</a></li>
-                                                    <li><a href="/cigars/maduro-cigars/">Maduro</a></li>
-                                                    <li><a href="/cigars/cameroon-cigars/">Cameroon</a></li>
-                                                    <li><a href="/cigars/sumatra-cigars/">Sumatra</a></li>
+<ul>                                                    <li id="nav0-column3-link1500"><a href="/cigars/connecticut-cigars/">Connecticut</a></li>
+                                                    <li id="nav0-column3-link1498"><a href="/cigars/habano-cigars/">Habano</a></li>
+                                                    <li id="nav0-column3-link1501"><a href="/cigars/maduro-cigars/">Maduro</a></li>
+                                                    <li id="nav0-column3-link1497"><a href="/cigars/cameroon-cigars/">Cameroon</a></li>
+                                                    <li id="nav0-column3-link1499"><a href="/cigars/sumatra-cigars/">Sumatra</a></li>
 </ul>                                    </td>
                                     <td>
                                             <div><span>Top Brands</span></div>
-<ul>                                                    <li><a href="/brands/1004/5-vegas/?type=Cigars">5 Vegas Cigars</a></li>
-                                                    <li><a href="/brands/1011/acid-cigars/?type=Cigars">ACID Cigars</a></li>
-                                                    <li><a href="/brands/1015/alec-bradley/?type=Cigars">Alec Bradley Cigars</a></li>
-                                                    <li><a href="/brands/1026/arturo-fuente-cigars/?type=Cigars">Arturo Fuente Cigars</a></li>
-                                                    <li><a href="/brands/1028/ashton/?type=Cigars">Ashton Cigars</a></li>
-                                                    <li><a href="/brands/1138/cohiba/?type=Cigars">Cohiba Cigars</a></li>
-                                                    <li><a href="/brands/1162/davidoff/?type=Cigars">Davidoff Cigars</a></li>
-                                                    <li><a href="/brands/1005/diesel/?type=Cigars">Diesel Cigars</a></li>
-                                                    <li><a href="/brands/1317/la-gloria-cubana/?type=Cigars">La Gloria Cubana Cigars</a></li>
-                                                    <li><a href="/brands/1344/macanudo/?type=Cigars">Macanudo Cigars</a></li>
-                                                    <li><a href="/brands/1371/montecristo/?type=Cigars">Montecristo Cigars</a></li>
-                                                    <li><a href="/brands/1392/oliva/?type=Cigars">Oliva Cigars</a></li>
-                                                    <li><a href="/brands/1404/padron/?type=Cigars">Padron Cigars</a></li>
-                                                    <li><a href="/brands/1443/punch-cigars/?type=Cigars">Punch Cigars</a></li>
-                                                    <li><a href="/brands/1456/rocky-patel-cigars/?type=Cigars">Rocky Patel Cigars</a></li>
-                                                    <li><a href="/brands/1458/romeo-y-julieta/?type=Cigars">Romeo y Julieta Cigars</a></li>
+<ul>                                                    <li id="nav0-column4-link1503"><a href="/brands/1004/5-vegas/?type=Cigars">5 Vegas Cigars</a></li>
+                                                    <li id="nav0-column4-link1504"><a href="/brands/1011/acid-cigars/?type=Cigars">ACID Cigars</a></li>
+                                                    <li id="nav0-column4-link1508"><a href="/brands/1015/alec-bradley/?type=Cigars">Alec Bradley Cigars</a></li>
+                                                    <li id="nav0-column4-link1507"><a href="/brands/1026/arturo-fuente-cigars/?type=Cigars">Arturo Fuente Cigars</a></li>
+                                                    <li id="nav0-column4-link1506"><a href="/brands/1028/ashton/?type=Cigars">Ashton Cigars</a></li>
+                                                    <li id="nav0-column4-link1509"><a href="/brands/1138/cohiba/?type=Cigars">Cohiba Cigars</a></li>
+                                                    <li id="nav0-column4-link1512"><a href="/brands/1162/davidoff/?type=Cigars">Davidoff Cigars</a></li>
+                                                    <li id="nav0-column4-link1513"><a href="/brands/1005/diesel/?type=Cigars">Diesel Cigars</a></li>
+                                                    <li id="nav0-column4-link1511"><a href="/brands/1317/la-gloria-cubana/?type=Cigars">La Gloria Cubana Cigars</a></li>
+                                                    <li id="nav0-column4-link1515"><a href="/brands/1344/macanudo/?type=Cigars">Macanudo Cigars</a></li>
+                                                    <li id="nav0-column4-link1517"><a href="/brands/1371/montecristo/?type=Cigars">Montecristo Cigars</a></li>
+                                                    <li id="nav0-column4-link1505"><a href="/brands/1392/oliva/?type=Cigars">Oliva Cigars</a></li>
+                                                    <li id="nav0-column4-link1516"><a href="/brands/1404/padron/?type=Cigars">Padron Cigars</a></li>
+                                                    <li id="nav0-column4-link1514"><a href="/brands/1443/punch-cigars/?type=Cigars">Punch Cigars</a></li>
+                                                    <li id="nav0-column4-link1510"><a href="/brands/1456/rocky-patel-cigars/?type=Cigars">Rocky Patel Cigars</a></li>
+                                                    <li id="nav0-column4-link1518"><a href="/brands/1458/romeo-y-julieta/?type=Cigars">Romeo y Julieta Cigars</a></li>
 </ul>                                    </td>
 
     <td class="nav-menu-img">
-        <a href="/cigars/free-rocky-sampler/"><img src="//img.cigar.com/content/sitewide/nav/gr-cigars-SP-RPASST47.jpg" alt="" title="Shop Now"></a>
+        <a href="http://www.cigar.com/promotions/clearance/" data-promotion="megamenu-cigars"><img src="//img.cigar.com/content/sitewide/nav/gr-cigars-clearance1612.jpg" alt="" title="Shop Now"></a>
     </td>
                             </tr>
                         </tbody>
@@ -462,37 +456,39 @@
                         <tbody>
                             <tr>
                                     <td>
-                                            <div><span>Promotions</span></div>
-<ul>                                                    <li><a href="/promotions/daily-cigar-deal/">Daily Cigar Deal</a></li>
-                                                    <li><a href="/cigar-sprint-sale/">Cigar Sprint Sale</a></li>
-                                                    <li><a href="/promotions/clearance/?t=Cigars">Cigars</a></li>
-                                                    <li><a href="/promotions/clearance/?t=Samplers">Samplers</a></li>
-                                                    <li><a href="/promotions/clearance/?v=50" style="font-weight:bold;color:#004E72">Clearance</a></li>
-</ul>                                    </td>
+                                            <div><a href="http://www.cigar.com/cigar-sprint-sale/" style="color:#004E72">Cigar Sprint Sale</a></div>
+                                            <div><a href="http://www.cigar.com/promotions/daily-cigar-deal/" style="color:#004E72">Daily Cigar Deal</a></div>
+                                            <div><a href="http://www.cigar.com/promotions/clearance/?v=150" style="font-weight:bold;color:#004E72">Clearance</a></div>
+                                    </td>
                                     <td>
                                             <div><span>Categories</span></div>
-<ul>                                                    <li><a href="/promotions/deal-of-the-week/">Deal of the Week</a></li>
-                                                    <li><a href="/expert-picks/">Expert Picks</a></li>
-                                                    <li><a href="/specials/you-pick/perfect-10-samplers/">Perfect 10 Samplers</a></li>
-                                                    <li><a href="/specials/pick-group/you-pick-3/">You Pick 3 Offer</a></li>
-                                                    <li><a href="/promotions/big-brand-box-deals/">Big Brand Box Deals</a></li>
-                                                    <li><a href="/promotions/gurkha-guerrilla-warfare/">Gurkha Guerrilla Warfare</a></li>
-                                                    <li><a href="/promotions/closeout-cigars/">Closeout Cigars</a></li>
+<ul>                                                    <li id="nav1-column2-link1533"><a href="http://www.cigar.com/promotions/cyber-monday-mazo-mayhem/?slide=1&amp;v=60 ">Deal of the Week</a></li>
+                                                    <li id="nav1-column2-link1536"><a href="/expert-picks/">Expert Picks</a></li>
+                                                    <li id="nav1-column2-link1539"><a href="/specials/pick-group/you-pick-3/">You Pick 3 Offer</a></li>
+                                                    <li id="nav1-column2-link1537"><a href="/promotions/big-brand-box-deals/">Big Brand Box Deals</a></li>
+                                                    <li id="nav1-column2-link1534"><a href="/promotions/gurkha-guerrilla-warfare/">Gurkha Guerrilla Warfare</a></li>
+                                                    <li id="nav1-column2-link1538"><a href="/promotions/closeout-cigars/">Closeout Cigars</a></li>
+                                                    <li id="nav1-column2-link1802"><a href="http://www.cigar.com/specials/pick-group/perfect-10-samplers/">Perfect 10 Samplers</a></li>
+                                                    <li id="nav1-column2-link1862"><a href="http://www.cigar.com/samplers/shop-all-samplers/">Shop All Samplers</a></li>
+                                                    <li id="nav1-column2-link1900"><a href="/promotions/cigar-com-mazo-mayhem/">CIGAR.com Mazo Mayhem</a></li>
+                                                    <li id="nav1-column2-link1920"><a href="/specials/pick-group/custom-sampler/">Build Your Own Custom Sampler</a></li>
 </ul>                                    </td>
                                     <td>
                                             <div><span>Free Items &amp; Upgrades</span></div>
-<ul>                                                    <li><a href="/cigars/free-rocky-sampler/">10 FREE Rocky Patels</a></li>
-                                                    <li><a href="/cigars/free-gift-card/">FREE $20 Gift Card</a></li>
-                                                    <li><a href="/promotions/5-free-cohibas/">5 FREE Cohibas</a></li>
-                                                    <li><a href="/promotions/ashtray-sampler-upgrade/">Ashtray Sampler Upgrade</a></li>
-                                                    <li><a href="/promotions/free-perdomo-mug-combo/">FREE Perdomo Mug Combo</a></li>
-                                                    <li><a href="/promotions/free-camacho-ashtray/">FREE Camacho Ashtray</a></li>
-                                                    <li><a href="/promotions/free-sancho-panza-5pk/">FREE Sancho Panza 5pk</a></li>
-                                                    <li><a href="/promotions/free-rocks-glass-set/">FREE Rocks Glass Set</a></li>
+<ul>                                                    <li id="nav1-column3-link1912"><a href="/promotions/cohiba-luxury-sampler-only-5/">Cohiba Sampler Only $5</a></li>
+                                                    <li id="nav1-column3-link1918"><a href="/promotions/free-cao-flint-lighter/">FREE CAO Flint Lighter</a></li>
+                                                    <li id="nav1-column3-link2041"><a href="/promotions/sancho-panza-5-pack-only-5/">Sancho Panza 5-Pack Only $5</a></li>
+                                                    <li id="nav1-column3-link2034"><a href="/promotions/free-drew-estate-15-cigar-collection/">FREE Drew Estate 15-Cigar Collection</a></li>
+                                                    <li id="nav1-column3-link2039"><a href="/promotions/acid-dual-torch-lighter-only-5/">ACID Lighter Only $5</a></li>
+                                                    <li id="nav1-column3-link2035"><a href="/promotions/free-oliva-10-cigar-collection/">FREE Oliva 10-Cigar Collection</a></li>
+                                                    <li id="nav1-column3-link2040"><a href="/promotions/ashton-triple-jet-lighter-only-5/">Ashton Lighter Only $5</a></li>
+                                                    <li id="nav1-column3-link2036"><a href="/promotions/free-macanudo-lighter/">FREE Macanudo Lighter</a></li>
+                                                    <li id="nav1-column3-link2037"><a href="/promotions/5-vegas-collectors-can-only-5/">5 Vegas Collector's Can Only $5</a></li>
+                                                    <li id="nav1-column3-link2038"><a href="/promotions/free-ave-maria-morning-star-collection/">FREE Ave Maria Morning Star Collection</a></li>
 </ul>                                    </td>
 
     <td class="nav-menu-img">
-        <a href="/promotions/clearance/?v=50"><img src="//img.cigar.com/content/sitewide/nav/hero-promotions-clearance.jpg" alt="" title="Shop Now"></a>
+        <a href="http://www.cigar.com/promotions/free-cao-flint-lighter/" data-promotion="megamenu-promotions"><img src="//img.cigar.com/content/sitewide/nav/gr-promotions-M-OHLIT1.jpg" alt="" title="Shop Now"></a>
     </td>
                             </tr>
                         </tbody>
@@ -508,40 +504,39 @@
                             <tr>
                                     <td>
                                             <div><span>Samplers</span></div>
-<ul>                                                    <li><a href="/samplers/featured-samplers/">Featured Samplers</a></li>
-                                                    <li><a href="/samplers/best-selling-samplers/">Best-Selling Samplers</a></li>
-                                                    <li><a href="/samplers/brand-samplers/">Brand Samplers</a></li>
-                                                    <li><a href="/samplers/gift-samplers/">Gift Samplers</a></li>
-                                                    <li><a href="/specials/you-pick/perfect-10-samplers/">Perfect 10 Samplers</a></li>
-                                                    <li><a href="/specials/pick-group/custom-sampler/">Custom Sampler</a></li>
-                                                    <li><a href="/samplers/shop-all-samplers/">Shop All Samplers</a></li>
-                                                    <li><a href="/samplers/club/">Cigar of the Month Club</a></li>
+<ul>                                                    <li id="nav2-column1-link1364"><a href="/samplers/featured-samplers/">Featured Samplers</a></li>
+                                                    <li id="nav2-column1-link1367"><a href="/samplers/best-selling-samplers/">Best-Selling Samplers</a></li>
+                                                    <li id="nav2-column1-link1564"><a href="/samplers/brand-samplers/">Brand Samplers</a></li>
+                                                    <li id="nav2-column1-link1366"><a href="/samplers/gift-samplers/">Gift Samplers</a></li>
+                                                    <li id="nav2-column1-link1422"><a href="http://www.cigar.com/specials/pick-group/perfect-10-samplers/">Perfect 10 Samplers</a></li>
+                                                    <li id="nav2-column1-link1365"><a href="/specials/pick-group/custom-sampler/">Custom Sampler</a></li>
+                                                    <li id="nav2-column1-link1369"><a href="/samplers/shop-all-samplers/">Shop All Samplers</a></li>
+                                                    <li id="nav2-column1-link1565"><a href="/samplers/club/">Cigar of the Month Club</a></li>
 </ul>                                    </td>
                                     <td>
                                             <div><span>Top-Selling Samplers</span></div>
-<ul>                                                    <li><a href="/samplers/90821/thirfty-fifty-sampler-ii/">Thrifty Fifty Sampler II </a></li>
-                                                    <li><a href="/samplers/90650/rocky-patel-connecticut-collection/">Rocky Patel Connecticut Collection </a></li>
-                                                    <li><a href="/samplers/65478/opulent-churchill-collection/">Opulent Churchill Collection</a></li>
-                                                    <li><a href="/samplers/66126/thrifty-thirty-sampler-ii/">Thrifty Thirty Sampler II </a></li>
-                                                    <li><a href="/samplers/90691/top-rated-bakers-dozen-ii/">Top-Rated Baker's Dozen II</a></li>
-                                                    <li><a href="/samplers/65592/timeless-ten-collection/">Timeless Ten Collection</a></li>
-                                                    <li><a href="/samplers/94050/diesel-big-haul-sampler/">Diesel Big-Haul Sampler</a></li>
-                                                    <li><a href="/samplers/92485/thrifty-fifty-big-ring-gurkha-edition/">Thrifty Fifty Big Ring Gurkha Edition</a></li>
-                                                    <li><a href="/samplers/72010/nub-anthology-sampler/">Nub Anthology Sampler</a></li>
-                                                    <li><a href="/samplers/90793/broadleaf-beauties-collection/">Broadleaf Beauties Collection</a></li>
+<ul>                                                    <li id="nav2-column2-link1557"><a href="/samplers/90821/thirfty-fifty-sampler-ii/">Thrifty Fifty Sampler II </a></li>
+                                                    <li id="nav2-column2-link1560"><a href="/samplers/90650/rocky-patel-connecticut-collection/">Rocky Patel Connecticut Collection </a></li>
+                                                    <li id="nav2-column2-link1561"><a href="/samplers/65478/opulent-churchill-collection/">Opulent Churchill Collection</a></li>
+                                                    <li id="nav2-column2-link1559"><a href="/samplers/104113/thrifty-thirty-sampler-iii/">Thrifty Thirty Sampler III</a></li>
+                                                    <li id="nav2-column2-link1562"><a href="/samplers/103350/top-rated-bakers-dozen-iii/#p-203116">Top-Rated Baker's Dozen III</a></li>
+                                                    <li id="nav2-column2-link1554"><a href="/samplers/65592/timeless-ten-collection/">Timeless Ten Collection</a></li>
+                                                    <li id="nav2-column2-link1563"><a href="/samplers/94050/diesel-big-haul-sampler/">Diesel Big-Haul Sampler</a></li>
+                                                    <li id="nav2-column2-link1558"><a href="/samplers/72010/nub-anthology-sampler/">Nub Anthology Sampler</a></li>
+                                                    <li id="nav2-column2-link1556"><a href="/samplers/90793/broadleaf-beauties-collection/">Broadleaf Beauties Collection</a></li>
 </ul>                                    </td>
                                     <td>
                                             <div><span>Shop by Price</span></div>
-<ul>                                                    <li><a href="/search/?s=Score_Asc&amp;v=30&amp;f_Price+Range=Under+%2425&amp;t=Samplers">Under $25</a></li>
-                                                    <li><a href="/search/?s=Score_Asc&amp;v=30&amp;f_Price+Range=%2425+-+%2450&amp;t=Samplers">$25 to $50</a></li>
-                                                    <li><a href="/search/?s=Score_Asc&amp;v=30&amp;f_Price+Range=%2450+-+%2475&amp;t=Samplers">$50 to $75</a></li>
-                                                    <li><a href="/search/?s=Score_Asc&amp;v=30&amp;f_Price+Range=%2475+-+%24100&amp;t=Samplers">$75 to $100</a></li>
-                                                    <li><a href="/search/?s=Score_Asc&amp;v=30&amp;f_Price+Range=%24100+-+%24200&amp;t=Samplers">$100 to $200</a></li>
-                                                    <li><a href="/search/?s=Score_Asc&amp;v=30&amp;f_Price+Range=Over+%24200&amp;t=Samplers">$200 and above</a></li>
+<ul>                                                    <li id="nav2-column3-link1548"><a href="/search/?s=Score_Asc&amp;v=30&amp;f_Price+Range=Under+%2425&amp;t=Samplers">Under $25</a></li>
+                                                    <li id="nav2-column3-link1551"><a href="/search/?s=Score_Asc&amp;v=30&amp;f_Price+Range=%2425+-+%2450&amp;t=Samplers">$25 to $50</a></li>
+                                                    <li id="nav2-column3-link1547"><a href="/search/?s=Score_Asc&amp;v=30&amp;f_Price+Range=%2450+-+%2475&amp;t=Samplers">$50 to $75</a></li>
+                                                    <li id="nav2-column3-link1549"><a href="/search/?s=Score_Asc&amp;v=30&amp;f_Price+Range=%2475+-+%24100&amp;t=Samplers">$75 to $100</a></li>
+                                                    <li id="nav2-column3-link1552"><a href="/search/?s=Score_Asc&amp;v=30&amp;f_Price+Range=%24100+-+%24200&amp;t=Samplers">$100 to $200</a></li>
+                                                    <li id="nav2-column3-link1550"><a href="/search/?s=Score_Asc&amp;v=30&amp;f_Price+Range=Over+%24200&amp;t=Samplers">$200 and above</a></li>
 </ul>                                    </td>
 
     <td class="nav-menu-img">
-        <a href="/samplers/96639/95-rated-showcase-sampler/#p-186224"><img src="//img.cigar.com/content/sitewide/nav/gr-samplers-SP-CIGASST320.jpg" alt="" title="Shop Now"></a>
+        <a href="http://www.cigar.com/expert-picks/362/expert-picks-christmas-lights/" data-promotion="megamenu-samplers"><img src="//img.cigar.com/content/sitewide/nav/gr-samplers-SP-CGTEAM72-1.jpg" alt="" title="Shop Now"></a>
     </td>
                             </tr>
                         </tbody>
@@ -549,45 +544,49 @@
                 </div>
         </li>
         <li class="nav-item-3 nav-item ">
-            <a href="/gifts/">Gifts</a>
+            <a href="/sale/">Sale</a>
 
                 <div class="nav-menu">
                     <table>
                         <tbody>
                             <tr>
                                     <td>
-                                            <div><span>Top-Selling Gifts</span></div>
-<ul>                                                    <li><a href="/samplers/davidoff-samplers/">Davidoff Samplers</a></li>
-                                                    <li><a href="/samplers/padron-samplers/">Padron Samplers</a></li>
-                                                    <li><a href="/samplers/travel-humidor-combos/">Travel Humidor Combos</a></li>
-                                                    <li><a href="/accessories/xikar/?t=Cutters">Xikar Cutters</a></li>
-                                                    <li><a href="/accessories/s-t-dupont/">S.T. Dupont Lighters</a></li>
-                                                    <li><a href="/samplers/gift-samplers/">Sampler Boxes</a></li>
-                                                    <li><a href="/accessories/luxury-humidors/">Luxury Humidors</a></li>
+                                            <div><span style="font-weight:bold;color:#333333">SALE DEPARTMENT</span></div>
+<ul>                                                    <li id="nav3-column1-link1973"><a href="/sale/big-brand-bargains/">Big Brand Bargains</a></li>
+                                                    <li id="nav3-column1-link1974"><a href="/sale/last-chance-items/">Last Chance Items</a></li>
+                                                    <li id="nav3-column1-link1975"><a href="/sale/new-markdowns/">New Markdowns</a></li>
+                                                    <li id="nav3-column1-link1994"><a href="/sale/bundles-of-savings/">Bundles of Savings</a></li>
+                                                    <li id="nav3-column1-link2033"><a href="/promotions/luxury-collection-holiday-sale/">Luxury Collection Sale</a></li>
 </ul>                                    </td>
                                     <td>
-                                            <div><span>Gifts by Occasion</span></div>
-<ul>                                                    <li><a href="/gifts/groomsman-gifts/">Groomsman Gifts</a></li>
-                                                    <li><a href="/gifts/new-baby-cigars/">New Baby Cigars</a></li>
-                                                    <li><a href="/gifts/birthday-cigars/">Birthday Cigars</a></li>
-</ul>                                            <div><span>Gifts by Price</span></div>
-<ul>                                                    <li><a href="/gifts/gifts-under-50/">Under $50</a></li>
-                                                    <li><a href="/gifts/gifts-under-100/">$50 to $100</a></li>
-                                                    <li><a href="/gifts/gifts-over-100/">$100 and above</a></li>
-</ul>                                    </td>
-                                    <td>
-                                            <div><span>Gifts by Recipient</span></div>
-<ul>                                                    <li><a href="/gifts/aficionado-gifts/">Aficionado</a></li>
-                                                    <li><a href="/gifts/bargain-buyer-gifts/">Bargain Buyer</a></li>
-                                                    <li><a href="/gifts/beginner-gifts/">Beginner</a></li>
-                                                    <li><a href="/gifts/gadget-guy/">Gadget Guy</a></li>
-</ul>                                            <div><a href="/samplers/club/">Cigar of the Month Club</a></div>
-                                            <div><a href="/gifts/gift-card/">Gift Cards</a></div>
-                                            <div><a href="http://www.cigar.com/favorites/">Search Wish Lists</a></div>
+                                            <div><span style="font-weight:bold;color:#333333">SHOP BY TYPE</span></div>
+<ul>                                                    <li id="nav3-column2-link1979"><a href="/sale/box-sale/">Box Sale</a></li>
+                                                    <li id="nav3-column2-link1977"><a href="/sale/sampler-sale/">Sampler Sale</a></li>
+                                                    <li id="nav3-column2-link1978"><a href="/sale/accessory-sale/">Accessory Sale</a></li>
+</ul>                                            <div><a href="/promotions/clearance/" style="color:#004E72">CLEARANCE</a></div>
                                     </td>
+                                    <td>
+                                            <div><a href="/gifts/gift-guide-christmas-edition/" style="color:#004E72">GIFT GUIDE: CHRISTMAS EDITION</a></div>
+                                            <div><span style="font-weight:bold;color:#333333">GIFTS BY PRICE</span></div>
+<ul>                                                    <li id="nav3-column3-link1970"><a href="/gifts/gifts-under-50/">Gifts Under $50</a></li>
+                                                    <li id="nav3-column3-link1969"><a href="/gifts/gifts-under-100/">Gifts Under $100</a></li>
+                                                    <li id="nav3-column3-link1968"><a href="/gifts/gifts-over-100/">Gifts Over $100</a></li>
+</ul>                                            <div><a href="/gifts/gift-card/" style="color:#004E72">GIFT CARDS</a></div>
+                                            <div><a href="/samplers/club/" style="color:#004E72">CIGAR OF THE MONTH CLUB</a></div>
+                                    </td>
+                                    <td>
+                                            <div><span style="font-weight:bold;color:#333333">SHOP FOR</span></div>
+<ul>                                                    <li id="nav3-column4-link1996"><a href="/gifts/aficionado-gifts/">Aficionado</a></li>
+                                                    <li id="nav3-column4-link1998"><a href="/gifts/bargain-buyer-gifts/">Bargain Buyer</a></li>
+                                                    <li id="nav3-column4-link1997"><a href="/gifts/beginner-gifts/">Beginner</a></li>
+                                                    <li id="nav3-column4-link1999"><a href="/gifts/small-batch-coffee/">Coffee Fanatic</a></li>
+                                                    <li id="nav3-column4-link2000"><a href="/gifts/groomsman-gifts/">Groomsman</a></li>
+                                                    <li id="nav3-column4-link2001"><a href="/gifts/birthday-cigars/">Birthday</a></li>
+                                                    <li id="nav3-column4-link2002"><a href="/gifts/new-baby-cigars/">It's a Boy/It's a Girl</a></li>
+</ul>                                    </td>
 
     <td class="nav-menu-img">
-        <a href="/samplers/gift-samplers/"><img src="//img.cigar.com/content/sitewide/nav/gr-gifts-sp-nubasst17.jpg" alt="" title="Shop Now"></a>
+        <a href="http://www.cigar.com/cigars/85319/rocky-patel-the-edge-fumas/" data-promotion="megamenu-sale"><img src="//img.cigar.com/content/sitewide/nav/gr-sale-RP-FUMAS.jpg" alt="" title="Shop Now"></a>
     </td>
                             </tr>
                         </tbody>
@@ -603,71 +602,70 @@
                             <tr>
                                     <td>
                                             <div><span>Top-Selling Brands</span></div>
-<ul>                                                    <li><a href="http://www.cigar.com/accessories/xikar/?=&amp;s=Price_Desc">Xikar</a></li>
-                                                    <li><a href="/accessories/colibri/">Colibri</a></li>
-                                                    <li><a href="/accessories/daniel-marshall/">Daniel Marshall</a></li>
-                                                    <li><a href="/accessories/s-t-dupont/">S.T. Dupont</a></li>
-                                                    <li><a href="/accessories/zippo/">Zippo</a></li>
+<ul>                                                    <li id="nav4-column1-link1386"><a href="http://www.cigar.com/accessories/xikar/?=&amp;s=Price_Desc">Xikar</a></li>
+                                                    <li id="nav4-column1-link1381"><a href="/accessories/colibri/">Colibri</a></li>
+                                                    <li id="nav4-column1-link1388"><a href="/accessories/daniel-marshall/">Daniel Marshall</a></li>
+                                                    <li id="nav4-column1-link1387"><a href="/accessories/s-t-dupont/">S.T. Dupont</a></li>
+                                                    <li id="nav4-column1-link1467"><a href="/accessories/zippo/">Zippo</a></li>
 </ul>                                            <div><a href="/accessories/lighters/">Lighters</a></div>
-<ul>                                                    <li><a href="/accessories/torch-lighters-1-flame/">Single Flame</a></li>
-                                                    <li><a href="/accessories/torch-lighters-2-flame/">Double Flame</a></li>
-                                                    <li><a href="/accessories/torch-lighters-3-flame/">Triple Flame</a></li>
-                                                    <li><a href="/accessories/torch-lighters-3-flames-and-above/">3 Flames and above</a></li>
-                                                    <li><a href="/accessories/soft-flame-lighters/">Soft Flame</a></li>
+<ul>                                                    <li id="nav4-column1-link1632"><a href="/accessories/torch-lighters-1-flame/">Single Flame</a></li>
+                                                    <li id="nav4-column1-link1634"><a href="/accessories/torch-lighters-2-flame/">Double Flame</a></li>
+                                                    <li id="nav4-column1-link1630"><a href="/accessories/torch-lighters-3-flame/">Triple Flame</a></li>
+                                                    <li id="nav4-column1-link1631"><a href="/accessories/torch-lighters-3-flames-and-above/">3 Flames and above</a></li>
+                                                    <li id="nav4-column1-link1633"><a href="/accessories/soft-flame-lighters/">Soft Flame</a></li>
 </ul>                                            <div><a href="/accessories/cutters/">Cutters</a></div>
-<ul>                                                    <li><a href="/accessories/guillotine-cutters/">Guillotine</a></li>
-                                                    <li><a href="/accessories/punch-cutters/">Punch</a></li>
-                                                    <li><a href="/accessories/v-cut-cutters/">V-Cut</a></li>
-                                                    <li><a href="/accessories/scissor-cutters/">Scissor</a></li>
+<ul>                                                    <li id="nav4-column1-link1628"><a href="/accessories/guillotine-cutters/">Guillotine</a></li>
+                                                    <li id="nav4-column1-link1627"><a href="/accessories/punch-cutters/">Punch</a></li>
+                                                    <li id="nav4-column1-link1629"><a href="/accessories/v-cut-cutters/">V-Cut</a></li>
+                                                    <li id="nav4-column1-link1626"><a href="/accessories/scissor-cutters/">Scissor</a></li>
 </ul>                                    </td>
                                     <td>
                                             <div><span>Humidification Brands</span></div>
-<ul>                                                    <li><a href="/accessories/humi-care/">Humi-Care </a></li>
-                                                    <li><a href="/accessories/boveda/">Boveda</a></li>
-                                                    <li><a href="/accessories/cigar-oasis/">Cigar Oasis</a></li>
-                                                    <li><a href="/accessories/zederkoff/">Zederkoff</a></li>
+<ul>                                                    <li id="nav4-column2-link1593"><a href="/accessories/humi-care/">Humi-Care </a></li>
+                                                    <li id="nav4-column2-link1594"><a href="/accessories/boveda/">Boveda</a></li>
+                                                    <li id="nav4-column2-link1595"><a href="/accessories/cigar-oasis/">Cigar Oasis</a></li>
+                                                    <li id="nav4-column2-link1592"><a href="/accessories/zederkoff/">Zederkoff</a></li>
 </ul>                                            <div><span>Humidor Support</span></div>
-<ul>                                                    <li><a href="/accessories/crystal-gel-jars/">Crystal Gel Jars</a></li>
-                                                    <li><a href="/accessories/electronic-humidifiers/">Electronic Humidifiers</a></li>
-                                                    <li><a href="/accessories/passive-humidifiers/">Passive Humidifiers</a></li>
-                                                    <li><a href="/accessories/hygrometers/">Hygrometers</a></li>
-                                                    <li><a href="/humidification/38280/humi-care-16-oz-cigar-juice/">Cigar Juice</a></li>
-                                                    <li><a href="/humidification/66696/humi-care-seasoning-wipes/">Seasoning Wipes</a></li>
+<ul>                                                    <li id="nav4-column2-link1599"><a href="/accessories/crystal-gel-jars/">Crystal Gel Jars</a></li>
+                                                    <li id="nav4-column2-link1601"><a href="/accessories/electronic-humidifiers/">Electronic Humidifiers</a></li>
+                                                    <li id="nav4-column2-link1600"><a href="/accessories/passive-humidifiers/">Passive Humidifiers</a></li>
+                                                    <li id="nav4-column2-link1602"><a href="/accessories/hygrometers/">Hygrometers</a></li>
+                                                    <li id="nav4-column2-link1598"><a href="/humidification/38280/humi-care-16-oz-cigar-juice/">Cigar Juice</a></li>
+                                                    <li id="nav4-column2-link1597"><a href="/humidification/66696/humi-care-seasoning-wipes/">Seasoning Wipes</a></li>
 </ul>                                            <div><a href="/accessories/humidification/">Shop All Humidification</a></div>
                                     </td>
                                     <td>
                                             <div><span>Humidor Brands</span></div>
-<ul>                                                    <li><a href="/accessories/daniel-marshall/">Daniel Marshall</a></li>
-                                                    <li><a href="http://www.cigar.com/accessories/davidoff/">Davidoff</a></li>
-                                                    <li><a href="/accessories/diamond-crown-humidors/">Diamond Crown</a></li>
-                                                    <li><a href="/accessories/evanston-humidors/">Evanston</a></li>
-                                                    <li><a href="/accessories/southport-humidors/">Southport</a></li>
+<ul>                                                    <li id="nav4-column3-link1606"><a href="/accessories/daniel-marshall/">Daniel Marshall</a></li>
+                                                    <li id="nav4-column3-link1716"><a href="http://www.cigar.com/accessories/davidoff-humidors/">Davidoff</a></li>
+                                                    <li id="nav4-column3-link1609"><a href="/accessories/diamond-crown-humidors/">Diamond Crown</a></li>
+                                                    <li id="nav4-column3-link1607"><a href="/accessories/evanston-humidors/">Evanston</a></li>
+                                                    <li id="nav4-column3-link1608"><a href="/accessories/southport-humidors/">Southport</a></li>
 </ul>                                            <div><span>Humidor Capacity</span></div>
-<ul>                                                    <li><a href="/accessories/humidor-capacity-under-25/">Under 25</a></li>
-                                                    <li><a href="/accessories/humidor-capacity-25-to-50/">25 to 50</a></li>
-                                                    <li><a href="/accessories/humidor-capacity-50-to-100/">50 to 100</a></li>
-                                                    <li><a href="/accessories/humidor-capacity-100-to-250/">100 to 250</a></li>
-                                                    <li><a href="/accessories/humidor-capacity-250-and-above/">250 and above</a></li>
+<ul>                                                    <li id="nav4-column3-link1614"><a href="/accessories/humidor-capacity-under-25/">Under 25</a></li>
+                                                    <li id="nav4-column3-link1610"><a href="/accessories/humidor-capacity-25-to-50/">25 to 50</a></li>
+                                                    <li id="nav4-column3-link1612"><a href="/accessories/humidor-capacity-50-to-100/">50 to 100</a></li>
+                                                    <li id="nav4-column3-link1611"><a href="/accessories/humidor-capacity-100-to-250/">100 to 250</a></li>
+                                                    <li id="nav4-column3-link1613"><a href="/accessories/humidor-capacity-250-and-above/">250 and above</a></li>
 </ul>                                            <div><span>Humidor Price</span></div>
-<ul>                                                    <li><a href="/accessories/humidor-price-under-50/">Under $50</a></li>
-                                                    <li><a href="/accessories/humidor-price-50-to-100/">$50 to $100</a></li>
-                                                    <li><a href="/accessories/humidor-price-100-to-200/">$100 to $200</a></li>
-                                                    <li><a href="/accessories/humidor-price-200-and-above/">$200 and above</a></li>
+<ul>                                                    <li id="nav4-column3-link1617"><a href="/accessories/humidor-price-under-50/">Under $50</a></li>
+                                                    <li id="nav4-column3-link1616"><a href="/accessories/humidor-price-50-to-100/">$50 to $100</a></li>
+                                                    <li id="nav4-column3-link1618"><a href="/accessories/humidor-price-100-to-200/">$100 to $200</a></li>
+                                                    <li id="nav4-column3-link1615"><a href="/accessories/humidor-price-200-and-above/">$200 and above</a></li>
 </ul>                                            <div><a href="/accessories/humidors/">Shop All Humidors</a></div>
                                     </td>
                                     <td>
                                             <div><a href="/accessories/ashtrays/">Ashtrays</a></div>
-<ul>                                                    <li><a href="/accessories/small-ashtrays/">Small</a></li>
-                                                    <li><a href="/accessories/medium-ashtrays/">Medium</a></li>
-                                                    <li><a href="/accessories/large-ashtrays/">Large</a></li>
+<ul>                                                    <li id="nav4-column4-link1637"><a href="/accessories/small-ashtrays/">Small</a></li>
+                                                    <li id="nav4-column4-link1635"><a href="/accessories/medium-ashtrays/">Medium</a></li>
+                                                    <li id="nav4-column4-link1636"><a href="/accessories/large-ashtrays/">Large</a></li>
 </ul>                                            <div><a href="/accessories/travel-cases/">Travel Cases</a></div>
                                             <div><a href="/accessories/butane/">Butane</a></div>
-                                            <div><a href="/accessories/benchmade-knives/">Benchmade Knives</a></div>
                                             <div><a href="/accessories/other/">Other</a></div>
                                     </td>
 
     <td class="nav-menu-img">
-        <a href="http://www.cigar.com/accessories/xikar/?=&amp;s=Price_Desc"><img src="//img.cigar.com/content/sitewide/nav/gr-accessories-xikar-cgca59.jpg" alt="" title="Shop Now"></a>
+        <a href="http://www.cigar.com/accessories/humi-care/" data-promotion="megamenu-accessories"><img src="//img.cigar.com/content/sitewide/nav/gr-accessories-humicare-new.jpg" alt="" title="Shop Now"></a>
     </td>
                             </tr>
                         </tbody>
@@ -683,40 +681,39 @@
                             <tr>
                                     <td>
                                             <div><span>Top-Selling Pipes</span></div>
-<ul>                                                    <li><a href="/brands/1496/stanwell/?type=Pipes">Stanwell</a></li>
-                                                    <li><a href="/brands/1414/peterson/?type=Pipes">Peterson</a></li>
-                                                    <li><a href="/brands/1470/savinelli/?type=Pipes">Savinelli</a></li>
-                                                    <li><a href="/brands/1556/big-ben-pipes/?type=Pipes">Big Ben</a></li>
-                                                    <li><a href="/brands/1388/nording/?type=Pipes">Nording</a></li>
-                                                    <li><a href="/brands/1201/drew-estate/?type=Pipes">Drew Estate</a></li>
-                                                    <li><a href="/brands/1553/missouri-meerschaum/?type=Pipes">Missouri Meerschaum</a></li>
-                                                    <li><a href="/brands/2051/forseti-pipes/?type=Pipes">Forseti</a></li>
+<ul>                                                    <li id="nav5-column1-link1644"><a href="/brands/1496/stanwell/?type=Pipes">Stanwell</a></li>
+                                                    <li id="nav5-column1-link1650"><a href="/brands/1414/peterson/?type=Pipes">Peterson</a></li>
+                                                    <li id="nav5-column1-link1646"><a href="/brands/1470/savinelli/?type=Pipes">Savinelli</a></li>
+                                                    <li id="nav5-column1-link1651"><a href="/brands/1556/big-ben-pipes/?type=Pipes">Big Ben</a></li>
+                                                    <li id="nav5-column1-link1647"><a href="/brands/1388/nording/?type=Pipes">Nording</a></li>
+                                                    <li id="nav5-column1-link1645"><a href="/brands/1201/drew-estate/?type=Pipes">Drew Estate</a></li>
+                                                    <li id="nav5-column1-link1648"><a href="/brands/1553/missouri-meerschaum/?type=Pipes">Missouri Meerschaum</a></li>
+                                                    <li id="nav5-column1-link1649"><a href="/brands/2051/forseti-pipes/?type=Pipes">Forseti</a></li>
 </ul>                                            <div><a href="/brands/pipes/">Shop All Pipes</a></div>
                                     </td>
                                     <td>
                                             <div><span>Top-Selling Tobacco</span></div>
-<ul>                                                    <li><a href="/brands/1084/captain-black/?type=Pipe+Tobacco">Captain Black</a></li>
-                                                    <li><a href="/brands/1062/borkum-riff/?type=Pipe+Tobacco">Borkum Riff</a></li>
-                                                    <li><a href="/brands/1320/lane-limited/?type=Pipe+Tobacco">Lane Limited</a></li>
-                                                    <li><a href="/brands/1204/dunhill/?type=Pipe+Tobacco">Dunhill</a></li>
-                                                    <li><a href="/brands/1162/davidoff/?type=Pipe+Tobacco">Davidoff</a></li>
-                                                    <li><a href="/brands/1201/drew-estate/?type=Pipe+Tobacco">Drew Estate</a></li>
-                                                    <li><a href="/brands/1081/cao/?type=Pipe+Tobacco">CAO</a></li>
+<ul>                                                    <li id="nav5-column2-link1656"><a href="/brands/1084/captain-black/?type=Pipe+Tobacco">Captain Black</a></li>
+                                                    <li id="nav5-column2-link1653"><a href="/brands/1062/borkum-riff/?type=Pipe+Tobacco">Borkum Riff</a></li>
+                                                    <li id="nav5-column2-link1658"><a href="/brands/1320/lane-limited/?type=Pipe+Tobacco">Lane Limited</a></li>
+                                                    <li id="nav5-column2-link1657"><a href="/brands/1204/dunhill/?type=Pipe+Tobacco">Dunhill</a></li>
+                                                    <li id="nav5-column2-link1654"><a href="/brands/1162/davidoff/?type=Pipe+Tobacco">Davidoff</a></li>
+                                                    <li id="nav5-column2-link1652"><a href="/brands/1201/drew-estate/?type=Pipe+Tobacco">Drew Estate</a></li>
 </ul>                                            <div><a href="/brands/pipe-tobacco/">Shop All Pipe Tobacco</a></div>
                                     </td>
                                     <td>
                                             <div><span>Pipe Accessories</span></div>
-<ul>                                                    <li><a href="/pipes/pipe-ashtrays/">Pipe Ashtrays</a></li>
-                                                    <li><a href="/pipes/pipe-cleaners/">Pipe Cleaners</a></li>
-                                                    <li><a href="/pipes/pipe-lighters/">Pipe Lighters</a></li>
-                                                    <li><a href="/pipes/pipe-pouches/">Pipe Pouches</a></li>
-                                                    <li><a href="/pipes/pipe-tools/">Pipe Tools</a></li>
-                                                    <li><a href="/pipes/pipe-filters/">Pipe Filters</a></li>
+<ul>                                                    <li id="nav5-column3-link1396"><a href="/pipes/pipe-ashtrays/">Pipe Ashtrays</a></li>
+                                                    <li id="nav5-column3-link1395"><a href="/pipes/pipe-cleaners/">Pipe Cleaners</a></li>
+                                                    <li id="nav5-column3-link1394"><a href="/pipes/pipe-lighters/">Pipe Lighters</a></li>
+                                                    <li id="nav5-column3-link1393"><a href="/pipes/pipe-pouches/">Pipe Pouches</a></li>
+                                                    <li id="nav5-column3-link1391"><a href="/pipes/pipe-tools/">Pipe Tools</a></li>
+                                                    <li id="nav5-column3-link1398"><a href="/pipes/pipe-filters/">Pipe Filters</a></li>
 </ul>                                            <div><a href="/pipes/pipe-samplers/">Pipe Samplers</a></div>
                                     </td>
 
     <td class="nav-menu-img">
-        <a href="/brands/1496/stanwell/?type=Pipes"><img src="//img.cigar.com/content/sitewide/nav/gr-pipes-Stanwell.jpg" alt="" title="Shop Now"></a>
+        <a href="http://www.cigar.com/pipes/pipe-lighters/" data-promotion="megamenu-pipes"><img src="//img.cigar.com/content/sitewide/nav/gr-pipes-lighters.jpg" alt="" title="Shop Now"></a>
     </td>
                             </tr>
                         </tbody>
@@ -727,45 +724,43 @@
             <a href="/community/">Community</a>
 
                 <ul class="nav-menu">
-                        <li><a href="http://forum.cigar.com/">Cigar.com Forum</a></li>
-                        <li><a href="/cigar-newsletter/">Newsletter</a></li>
+                        <li><a href="http://forum.cigar.com/">CIGAR.com Forum</a></li>
+                        <li><a href="/cigar-newsletter/">CIGAR.com Newsletter</a></li>
                         <li><a href="/articles/">Featured Content</a></li>
+                        <li><a href="http://www.cigar.com/video/">Videos</a></li>
+                        <li><a href="http://www.cigar.com/expert-reviews/">Expert Reviews</a></li>
                 </ul>
         </li>
 
 
-        <li class="nav-mycart"><a id="header-mycart" href="http://www.cigar.com/cart/"><span>Cart</span><strong id="cart-items" data-init=""></strong></a></li>
+        <li class="nav-mycart"><a id="header-mycart" href="http://www.cigar.com/cart/"><span>Cart</span><strong id="cart-items" data-wtf="">(0)</strong></a></li>
 	</ul>
 </nav>
 
-
-				
-
-				<div id="header-cart" data-init="fixable" data-containment="#header" data-fixable-class="fixable-minicart" class="header-cart header-cart-hidden">
-					<div class="header-cart-title">My Shopping Cart</div>
-					<a class="header-cart-close" href="javascript:void(0);" title="Close"><span class="ui-icon ui-icon-closethick"></span></a>
-					<div class="header-cart-items" id="header-cart-items">
-						
-					</div>
-				</div>
-
-
+				<div style="display: none;"></div><div id="header-cart" data-wtf="" data-fixable="true" data-containment="#header" data-fixable-class="fixable-minicart" class="header-cart header-cart-hidden">
+    <div class="header-cart-title">My Shopping Cart</div>
+    <a class="header-cart-close" href="javascript:void(0);" title="Close"><span class="ui-icon ui-icon-closethick"></span></a>
+    <div class="header-cart-items" id="header-cart-items">
+        
+    </div>
+</div>
                 
-                <div id="sitewide-banners" data-init="" style="display:none;"></div>
+                
+<div id="sitewide-banners" data-wtf="" style="display:none;" data-promotion="sitewide-banner" data-url="/help/promo-code-exclusions/"></div>
 			</header>
 		</div>
 
 		<div id="container-wrap" class="wrap">
 			<div id="container" class="container">
-				<a id="pagetop-fixed" href="#" data-pagetop="" data-init="fixable" data-fixable-class="pagetop-fixed">Back<br>To<br>Top</a>
+				<div style="display: none;"></div><a id="pagetop-fixed" href="#" data-pagetop="" data-wtf="fixable" data-fixable-class="pagetop-fixed">Back<br>To<br>Top</a>
 
-		<div id="breadcrumbs" itemprop="breadcrumb">
-			<span typeof="v:Breadcrumb"><a title="Home" href="/" class="link" rel="v:url" property="v:title"><span class="ui-icon ui-icon-home"></span></a></span><span>&nbsp;»&nbsp;</span>
-				<span typeof="v:Breadcrumb"><a href="/help/" rel="v:url" property="v:title">Help</a></span><span>&nbsp;»&nbsp;</span>
-							<div>Privacy Policy</div> 
+    <ol id="breadcrumbs" class="clearfix" itemtype="http://schema.org/BreadcrumbList" itemscope="">
+        <li itemscope="" itemtype="http://schema.org/ListItem" itemprop="itemListElement"><a title="Home" href="http://www.cigar.com/" itemprop="item"><span class="ui-icon ui-icon-home"></span><meta itemprop="name" content="Cigar.com"><meta itemprop="position" content="1"></a></li>
+            <li itemscope="" itemtype="http://schema.org/ListItem" itemprop="itemListElement"><a href="//www.cigar.com/help/" itemprop="item"><span itemprop="name">Help</span><meta itemprop="position" content="2"></a></li>
+                    <li>Privacy Policy</li>
 
-		</div>
-					 
+    </ol>
+
 				
 
 
@@ -778,10 +773,10 @@
         <ul>
                 <li><a href="/help/contact-us/">Contact Us</a></li>
             <li><a href="/help/track-order/">Order Status</a></li>
-            <li><a href="/help/shipping/">Shipping</a></li>
+            <li><a href="/help/shipping/">Shipping Policies</a></li>
             <li><a href="/help/returns/">Returns</a></li>
             <li><a href="/help/#faq">FAQ</a></li>
-            <li><a href="/help/promo-code-exclusions/">Promotion Exclusions</a></li>
+            <li><a href="/help/promo-code-exclusions/">Promo Code Exclusions</a></li>
         </ul>
         <div>Resources</div>
         <ul>
@@ -812,298 +807,370 @@
     <div class="clearfix help-quicknav">
         <div class="column">
             <a href="#privacy-policy" data-scroll="">Privacy Policy</a>
-            <a href="#information-collected" data-scroll="">Information Collected</a>
+            <a href="#california-do-not-track" data-scroll="">Your California Privacy Rights</a>
+            <a href="#information-collected" data-scroll="">What Information We Collect</a>
             <a href="#why-we-collect" data-scroll="">Why we collect information</a>
             <a href="#how-we-collect" data-scroll="">How we collect information</a>
-            <a href="#userdata" data-scroll="">The information we collect</a>
+            <a href="#cookies" data-scroll="">Cookies</a>
             <a href="#information-usage" data-scroll="">Use of information we collect</a>
-            <a href="#change-information" data-scroll="">Change your information</a>
         </div>
         <div class="column">
-            <a href="#change-notifications" data-scroll="">Notification of changes</a>
+            <a href="#change-information" data-scroll="">Change your information</a>
             <a href="#opt-out" data-scroll="">Opt Out</a>
-            <a href="#cookies" data-scroll="">Cookies</a>
-            <a href="#california-do-not-track" data-scroll="">California "Do Not Track" Compliance</a>
+            <a href="#links-offsite" data-scroll="">Links to other sites</a>
             <a href="#security" data-scroll="">Security</a>
-<a href="#age-verification" data-scroll="">Age Verification</a>        </div>
+<a href="#age-verification" data-scroll="">Age Verification</a>            <a href="#change-notifications" data-scroll="">Notification of changes</a>
+        </div>
     </div>
     <div id="privacy-policy" class="help-topic help-topic-first">
         <h2>Privacy Policy</h2>
         <p>
-            Cigar.com is committed to protecting and respecting your privacy. The following policy outlines how we gather and use information from our customers, visitors, and guests. If you have any questions or concerns regarding this policy or if you would like to unsubscribe from receiving any communication from Cigar.com, you may <a href="/help/contact-us/">contact us</a> at any time.
-        </p>
+    The following Privacy Policy describes how we gather information from our customers and other visitors, the types of information we gather, how we use it, and how we protect it. If you have any questions or concerns regarding this policy, you may <a href="/help/contact-us/">contact us</a> at any time.
+</p>
+<p>
+    We will not sell, share, or rent your information to others in any ways different from those disclosed in this Policy.
+</p>
+<p>
+    Please take a moment to read this Privacy Policy for a better understanding of the measures we take to protect you and the information you share with us. By visiting this website, you are accepting the practices described below.
+</p>
+    </div>
+    <div id="california-do-not-track" class="help-topic">
+        <h2>Your California Privacy Rights</h2>
+            <a class="link link-underline pagetop" data-pagetop="" href="#">Top of Page<span class="ui-icon ui-icon-arrowreturnthick-1-n"></span></a>
+
         <p>
-            Maintaining your privacy is critical to us. We will not sell, share, or rent your information to others in any ways different from those disclosed in this Policy.
-        </p>
-        <p>
-            Please take a moment to read our Privacy Policy for a better understanding of the measures we take to protect you and the information you share with us. By visiting Cigar.com, you are accepting the practices described below.
-        </p>
+    "Do Not Track" (or DNT) is a preference you can set in your browser to let the websites you visit know that you do not want them to collect information about you. If you do not want your personal information shared with third parties for this purpose, you can opt out by <a href="/help/contact-us/">contacting us</a>.
+</p>
+<p>
+    We do not support "do not track" requests.
+</p>
     </div>
     <div id="information-collected" class="help-topic">
-        <h2>Information collected</h2>
+        <h2>What Information We Collect</h2>
         <p>
-            We gather and store any information you enter on our web site or give us in any other way. You can choose not to provide certain information, but you may not be able to take advantage of key features of online shopping.
-        </p>
+    We gather and store the information you enter on our web site or give us in other ways. You can choose not to provide certain information, but you may not be able to take advantage of key features of online shopping.
+</p>
+<p>
+    To process your order, we require you to supply us with your billing (credit card), shipping and contact information (email address and phone number). The transfer of this information is secure and cannot be received or read by others. Your credit card information is only shared with our bank for authorization.
+</p>
     </div>
     <div id="why-we-collect" class="help-topic">
         <h2>Why we collect information</h2>
         <p>
-            Cigar.com gathers information about our customers so that you may quickly navigate our site for products of interest, place orders, and improve your experience at Cigar.com
-        </p>
-        <p>
-            Our goal is to provide our customers with the highest level of service possible. From your first visit to our web site to the delivery of your order, we want you to be completely satisfied with the experience. By collecting information, we are able to offer you features (such as login and password information) which saves you time during the order process.
-        </p>
+    We gather information about you so that you may quickly navigate our site for products of interest and to place orders. We also gather information so that we can improve your experience at this website. By collecting information, we are able to offer you features (such as login and password information) that save you time during the order process.
+</p>
     </div>
     <div id="how-we-collect" class="help-topic">
         <h2>How we collect information</h2>
         <p>
-            During the order process and while creating an account, you are prompted to supply us with your contact, billing, and shipping information. This information must be provided in order to complete a purchase and is used to complete your order and contact you regarding your order.
-        </p>
-    </div>
-    <div id="userdata" class="help-topic">
-        <h2>The information we collect</h2>
-        <p>
-            To process your order, we require you to supply us with your correct billing, shipping and contact information (email address and phone number).
-        </p>
-        <p>
-            The transfer of this information is secure and cannot be received or read by others. Your credit card information is only shared with our bank for authorization.
-        </p>
-    </div>
-    <div id="information-usage" class="help-topic">
-        <h2>Use of information we collect</h2>
-        <p>
-            We engage third parties to perform services in connection with the operation of our business. Examples include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, web site evaluation, data analysis and, where applicable, data cleansing. We provide your personal information to these third parties, but we authorize them to use this information only in connection with the services they perform.
-        </p>
-        <div class="help-subtopic">
-            <h3>Emails</h3>
-            <p>
-                If you have selected to receive our weekly email specials by supplying your email address to Cigar.com, we will send you our exclusive weekly cigar deals special. If you choose to discontinue receipt of these specials, send a message to <a href="mailto:specials@cigar.com">specials@cigar.com</a>.
-            </p>
-            <p>
-                Additionally, we use your email address to send order confirmation emails and invoices.
-            </p>
-        </div>
-        <div class="help-subtopic">
-            <h3>Catalog Requests</h3>
-            <p>
-                You may receive printed catalogs from us. If you wish to be removed from our mailing list, <a href="/help/contact-us/">contact us</a> at any time.
-            </p>
-        </div>
-        <div class="help-subtopic">
-            <h3>Partners</h3>
-            <p>
-                Cigar.com partners with companies that offer products and services we believe may be of interest to our customers. If you purchase a product from us, we may exchange your name with another company whose products and services might interest you. If you do not want to have your name exchanged, <a href="/help/contact-us/">contact us</a> at any time.
-            </p>
-            <p>
-                We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. To learn more, or to opt-out of receiving online display advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at <a href="http://www.networkadvertising.org/choices" target="_blank">www.networkadvertising.org/choices</a>.
-            </p>
-        </div>
-    </div>
-    <div id="change-information" class="help-topic">
-        <h2>How to change your personal information</h2>
-        <p>
-            <a href="/help/contact-us/">Contact</a> Cigar.com anytime to modify your personal information. <strong>We cannot change a customer’s personal information over the phone.</strong> Additionally, you have the ability to change your personal information online anytime you log into your account.
-        </p>
-    </div>
-    <div id="change-notifications" class="help-topic">
-        <h2>Notification of Changes</h2>
-        <p>
-            If we change this Privacy Policy, such as changing the personal information we collect or how we use it, we will notify you by email.
-        </p>
-    </div>
-    <div id="opt-out" class="help-topic">
-        <h2>Opt Out</h2>
-        <p>
-            You may, at any time, opt out of receiving communication from Cigar.com. You can also <a href="/help/contact-us/">contact us</a> directly and we will take care of it for you immediately.
-        </p>
+    When you create your account, and during the order process, you are prompted to supply us with your contact, billing, and shipping information. This information must be provided in order to complete a purchase and is used to complete your order and contact you regarding your order.
+</p>
     </div>
     <div id="cookies" class="help-topic">
         <h2>Cookies</h2>
         <p>
-            Cookies are used to identify how a person arrives at Cigar.com. A cookie identifies you while you are at our website and keeps track of items in your shopping cart between visits.  Cookies never contain credit card information.  Cookies are stored locally on your computer and can only be read by Cigar.com.
-        </p>
-        <p>
-            We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests.  
-        </p>
+    We also use cookies to collect information from you. Cookies are pieces of information stored locally on your computer that are used by us and by third parties (see Google Analytics, below).
+</p>
+<p>
+    We use first party cookies to identify how you arrived at our site. A cookie identifies you while you are at our site and keeps track of items in your shopping cart between visits. We use this information to view bounce rates, content consumed, time on site, cart/conversion activity and more.
+</p>
+<p>
+    Cookies never contain credit card information.
+</p>
     </div>
-    <div id="california-do-not-track" class="help-topic">
-        <h2>California "Do Not Track" Compliance</h2>
-            <a class="link link-underline pagetop" data-pagetop="" href="#">Top of Page<span class="ui-icon ui-icon-arrowreturnthick-1-n"></span></a>
-
+    <div id="information-usage" class="help-topic">
+        <h2>How we use the information we collect</h2>
+        <div class="help-subtopic">
+    <h4>Google Analytics</h4>
+    <p>
+        We use Google Analytics and other similar services to track website visitor activity at both the aggregate and individual level. We’ve enabled user ID tracking in Google Analytics, which allows Google to track your web activity and online behavior. However, the user ID is still anonymous to us. Google uses this information to personalize advertisements to you for goods and services.
+    </p>
+    <p>
+        To learn about Google’s privacy practices, <a href="http://www.google.com/policies/privacy/">click here</a>.
+    </p>
+    <p>
+        You can opt out of having your information used by Google Analytics by installing the Google Analytics opt-out browser add-on. To access and use the Google Analytics Opt-out Browser Add-on, <a href="https://tools.google.com/dlpage/gaoptout">click here</a>.
+    </p>
+    <p>
+        We also use Adobe Analytics and Test &amp; Target to analyze and optimize the performance of our websites. To learn about Adobe’s privacy policies or to opt out of Adobe Analytics tracking, <a href="http://www.adobe.com/privacy.html">click here</a>.
+    </p>
+</div>
+<div class="help-subtopic">
+    <h4>Third Parties</h4>
+    <p>
+        We engage third parties to perform services such as payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, web site evaluation, data analysis and, where applicable, data cleansing. We provide your personal information to these third parties, but we authorize them to use this information only in connection with the services they perform.
+    </p>
+    <p>
+        To opt-out of receiving online display advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at <a href="http://www.networkadvertising.org/choices">www.networkadvertising.org/choices</a>. You can also set a Do Not Track preference in your browser.
+    </p>
+    <p>
+        We also partner with companies that offer products and services we believe may be of interest to our customers. If you purchase a product from us, we may share your name with another company whose products and services might interest you. If you do not want to have your name shared for this purpose, <a href="/help/contact-us/">contact us</a> at any time.
+    </p>
+</div>
+<div class="help-subtopic">
+    <h4>Emails</h4>
+    <p>
+        We use your email address to send order confirmation emails and invoices. If you have selected to receive our weekly email specials by supplying your email address, we will send you our exclusive weekly specials. You can opt out of receiving promotional emails from us by clicking “unsubscribe” at the bottom of any email.
+    </p>
+</div>
+<div class="help-subtopic">
+    <h4>Catalog Requests</h4>
+    <p>
+        You may receive printed catalogs from us. If you wish to be removed from our mailing list, <a href="/help/contact-us/">contact us</a> at any time.
+    </p>
+</div>
+    </div>
+    <div id="change-information" class="help-topic">
+        <h2>How to change your personal information</h2>
         <p>
-            "Do Not Track" (or DNT) is a preference you can set in your browser to let the websites you visit know that you do not want them collecting certain information about you. Cigar.com does not support "do not track" requests.
-        </p>
+    You can <a href="/help/contact-us/">contact us</a> anytime to modify your personal information. <strong>We cannot change your personal information over the phone.</strong> Additionally, you have the ability to change your personal information any time you log into your account.
+</p>
+    </div>
+    <div id="opt-out" class="help-topic">
+        <h2>Opt Out</h2>
+        <p>
+    You may, at any time, opt out of receiving communications from us, either by clicking "unsubscribe" at the bottom of any e-mail or you can <a href="/help/contact-us/">contact us</a> directly and we will take care of it for you immediately
+</p>
+    </div>
+    <div id="links-offsite" class="help-topic">
+        <h2>Links to other sites</h2>
+        <p>
+    This website may contain links to other sites. We are not responsible for the content or privacy practices of such other sites.
+</p>
     </div>
     <div id="security" class="help-topic">
         <h2>Security</h2>
         <p>
-            Cigar.com is committed to protecting your private information.  To help safeguard against unauthorized access to your personal information and to ensure that your information is used appropriately, we have put in place systems and procedures to secure the information we collect online.
-        </p>
-        <p>
-            We protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts the information you input. This industry standard encrypts all of your information, including credit card numbers, so that it cannot be read by others as the information is exchanged via the internet.
-        </p>
-        <p>
-            Additionally, it is important for you to protect against unauthorized access to your password and to your computer. If you use a shared computer, be sure to sign off and close all browsers when you are finished.
-        </p>
+    We have implemented systems and procedures to secure the information we collect online. For example, we protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts the information you input. This industry standard encrypts all of your information, including credit card numbers, so that it cannot be read by others as the information is exchanged via the Internet.
+</p>
+<p>
+    Additionally, it is important for you to protect against unauthorized access to your password and to your computer. If you use a shared computer, be sure to sign off and close all browsers when you are finished.
+</p>
     </div>
 </section>
+    <h1 class="help-header">Why do we verify your age?</h1>
     <section id="age-verification" class="help-topic">
-        <h1 class="help-header">Why do we verify your age?</h1>
         <p>
-            We are committed to only selling our products to adults who meet the legal age requirement to purchase tobacco products. As a part of meeting that commitment, we use a non-affiliated third party company, Veratad Technologies, LLC, to verify that you are who you say you are and to assure that you are of legal age to purchase our products.
-        </p>
-        <div class="help-subtopic">
-            <h3>How does Veratad’s Age Verification work?</h3>
-            <p>
-                <a target="_blank" href="http://www.veratad.com/" style="float: right; margin: 0 0 10px 10px;"><img width="262" height="57" alt="Veratad Age and Identity Verification Solutions" src="//img.cigar.com/content/help/badge-veratad.png"></a>
-                Veratad’s AgeMatch Age Verification services use multiple trusted data sources containing billions of public records to return an age validation based on the personal information you submit. This service is specifically designed to validate and protect your identity while maintaining the highest level of consumer privacy when processing online transactions.
-            </p>
-            <p>
-                Access to the public records allows Veratad to validate the information you provide and in some cases, depending on the nature of your purchase, to present a series of multiple choice questions based on non-credit related (“out-of-wallet”) historical facts about you. These facts are obtained by instantaneously scanning billions of public records from trusted data sources containing information that would not generally be found in your wallet if lost or stolen.
-            </p>
-        </div>
-        <div class="help-subtopic">
-            <h3>Is the information I provide secure?</h3>
-            <p>
-                Absolutely. Veratad’s secure 256 bit encryption technology ensures the safe delivery of the information you provide online. In addition, Veratad DOES NOT store your sensitive personal information or share (or sell) any data with other third parties. This practice assures you that unauthorized parties cannot gain access to your sensitive personal information.
-            </p>
-        </div>
-        <div class="help-subtopic">
-            <h3>What happens if I cannot be verified by the Age Verification process?</h3>
-            <p>
-                A small percentage of shoppers may not be verifiable due to limited availability of publicly available information contained within the Age Verification databases. If this happens, we will attempt to contact you via phone and email to verify your age. To do this, we typically require a copy of your driver’s license or some other form of government issued ID that verifies your date of birth.
-            </p>
-        </div>
-        <div class="help-subtopic">
-            <h3>I live outside of the U.S. Can I be verified?</h3>
-            <p>
-                Cigar.com’s use of Veratad’s Age Verification is based solely on U.S. record information and therefore verification of individuals residing outside the U.S. is un-available. <strong>Military Addresses outside of the US are acceptable.</strong> All other countries will be subject to our manual review process.
-            </p>
-        </div>
+    We do not sell our products to anyone under the age of 21. We use a non-affiliated third party company, Veratad Technologies, LLC, to verify that you are who you say you are and to confirm that you are 21 or older.
+</p>
+<div class="help-subtopic">
+    <h3>How does Veratad’s Age Verification work?</h3>
+    <p>
+        <a target="_blank" href="http://www.veratad.com/" style="float: right; margin: 0 0 10px 10px;"><img width="262" height="57" alt="Veratad Age and Identity Verification Solutions" src="//img.cigar.com/content/help/badge-veratad.png"></a>
+        Veratad’s AgeMatch Age Verification services use multiple trusted data sources containing billions of public records to return an age validation based on the personal information you submit. This service is specifically designed to validate and protect your identity while maintaining the highest level of consumer privacy when processing online transactions.
+    </p>
+    <p>
+        Access to the public records allows Veratad to validate the information you provide and in some cases, depending on the nature of your purchase, to present a series of multiple choice questions based on non-credit related (“out-of-wallet”) historical facts about you. These facts are obtained by instantaneously scanning billions of public records from trusted data sources containing information that would not generally be found in your wallet if lost or stolen.
+    </p>
+</div>
+<div class="help-subtopic">
+    <h3>Is the information I provide secure?</h3>
+    <p>
+        Veratad’s secure 256 bit encryption technology ensures the safe delivery of the information you provide online. In addition, Veratad <strong>does not</strong> store your sensitive personal information or share (or sell) any data with other third parties. This practice assures you that unauthorized parties cannot gain access to your sensitive personal information.
+    </p>
+</div>
+<div class="help-subtopic">
+    <h3>What happens if I cannot be verified by the Age Verification process?</h3>
+    <p>
+        A small percentage of shoppers may not be verifiable due to limited availability of publicly available information in the age verification databases. If this happens, we will attempt to contact you via phone and email to verify your age. We typically require a copy of your driver’s license or some other form of government issued ID that verifies your date of birth.
+    </p>
+</div>
+<div class="help-subtopic">
+    <h3>I live outside of the U.S. Can I be verified?</h3>
+    <p>
+        Our use of Veratad’s Age Verification is based solely on U.S. records and therefore verification of individuals residing outside the U.S. is unavailable, unless you are using a military address outside the U.S. Individuals in all other countries will be subject to our manual review process described in the previous section.
+    </p>
+</div>
     </section>
-
+<section>
+    <div id="change-notifications" class="help-topic">
+        <h2>Updates</h2>
+        <p>
+    We may change this Privacy Policy from time to time. If we make material changes to this Policy, we will update this page and the effective date listed below.
+</p>
+<p>
+    &nbsp;
+</p>
+<p>
+    <strong>Effective date:</strong> April 20, 2016
+</p>
+    </div>
+</section>
     </section>
 </div>
 
 			</div>
 		</div>
 
-		<div id="footer-wrap" class="wrap">
-			<footer id="footer" class="container">
-				    <div class="clearfix footer-nav-wrap">
-        <nav class="footer-nav">
-            <table>
-                <tbody>
-                    <tr>
-                            <td class="footer-links">
-                                <div>SHOP BY DEPARTMENT</div>
-                                    <ul>
-                                            <li><a href="/cigars/">Cigars</a></li>
-                                            <li><a href="/promotions/">Promotions</a></li>
-                                            <li><a href="/samplers/">Samplers</a></li>
-                                            <li><a href="/gifts/">Gifts</a></li>
-                                            <li><a href="/accessories/">Accessories</a></li>
-                                            <li><a href="/pipes/">Pipes</a></li>
-                                    </ul>
-                            </td>
-                            <td class="footer-links">
-                                <div>Customer Service</div>
-                                    <ul>
-                                            <li><a href="/help/contact-us/">Contact Us</a></li>
-                                            <li><a href="/account/login/">My Account</a></li>
-                                            <li><a href="/help/track-order/">Track Your Order</a></li>
-                                            <li><a href="/help/returns/">Return Policy</a></li>
-                                            <li><a href="/help/shipping/">Shipping Policy</a></li>
-                                            <li><a href="/help/">Help</a></li>
-                                    </ul>
-                            </td>
-                            <td class="footer-links">
-                                <div>The Company</div>
-                                    <ul>
-                                            <li><a href="/help/about-us/">About Us</a></li>
-                                            <li><a href="/community/">Community</a></li>
-                                            <li><a href="/cigar-newsletter/">Newsletter</a></li>
-                                            <li><a href="/help/">Feedback</a></li>
-                                            <li><a href="/sitemap/">Sitemap</a></li>
-                                            <li><a href="/help/privacy-policy/">Privacy Policy</a></li>
-                                    </ul>
-                            </td>
-                            <td class="footer-links">
-                                <div>Resources</div>
-                                    <ul>
-                                            <li><a href="/help/request-catalog/">Request a Catalog</a></li>
-                                            <li><a href="/email/subscribe/">Receive Email Specials</a></li>
-                                            <li><a href="/expert-reviews/">Expert Reviews</a></li>
-                                            <li><a href="/video/">Videos</a></li>
-                                            <li><a href="/favorites/">Wish Lists</a></li>
-                                            <li><a href="/articles/">Featured Content</a></li>
-                                            <li><a href="/sweepstakes/">Sweepstakes</a></li>
-                                    </ul>
-                            </td>
-                    </tr>
-                </tbody>
-            </table>
-            
-            <div class="footer-links-aside">
-                <form action="/email/subscribe/" method="post" data-init="form">
-                    <div class="footer-signup">
-                        <div class="ui-input-text">
-                            <span class="icon-l icon-l-email"></span>
-                            <input type="email" id="SignupEmail1" name="EmailAddress" placeholder="Sign Up For Emails" required="">
-                        </div>
-                        <button class="btn btn-go " type="submit"><span>Go</span></button>
-                    </div>
-                    <span class="field-validation-valid" data-valmsg-for="EmailAddress" data-valmsg-replace="true"></span>
-                </form>
-                
-                <div id="footer-socialmedia">
-					    <a href="http://www.facebook.com/CigarDotCom" target="_blank" title="Friend Us"><span class="icon-l icon-l-facebook"></span>
+        
+
+
+
+        <div id="footer-wrap" class="wrap" itemscope="" itemtype="http://schema.org/WPFooter">
+            <footer id="footer" class="container">
+                	<div class="clearfix footer-nav-wrap">
+		<nav id="footer-nav" class="footer-nav">
+			<table>
+				<tbody>
+					<tr>
+							<td id="footer-nav-column1" class="footer-links">
+								<div>SHOP BY DEPARTMENT</div>
+									<ul>
+											<li id="footer-nav-column1-link1306">
+												<a href="/cigars/">Cigars</a>
+											</li>
+											<li id="footer-nav-column1-link1307">
+												<a href="/promotions/">Promotions</a>
+											</li>
+											<li id="footer-nav-column1-link1308">
+												<a href="/samplers/">Samplers</a>
+											</li>
+											<li id="footer-nav-column1-link1309">
+												<a href="/gifts/">Gifts</a>
+											</li>
+											<li id="footer-nav-column1-link1310">
+												<a href="/accessories/">Accessories</a>
+											</li>
+											<li id="footer-nav-column1-link1311">
+												<a href="/pipes/">Pipes</a>
+											</li>
+									</ul>
+							</td>
+							<td id="footer-nav-column2" class="footer-links">
+								<div>Customer Service</div>
+									<ul>
+											<li id="footer-nav-column2-link1314">
+												<a href="/help/contact-us/">Contact Us</a>
+											</li>
+											<li id="footer-nav-column2-link1315">
+												<a href="/account/login/">My Account</a>
+											</li>
+											<li id="footer-nav-column2-link1316">
+												<a href="/help/track-order/">Track Your Order</a>
+											</li>
+											<li id="footer-nav-column2-link1317">
+												<a href="/help/returns/">Return Policy</a>
+											</li>
+											<li id="footer-nav-column2-link1318">
+												<a href="/help/shipping/">Shipping Policy</a>
+											</li>
+											<li id="footer-nav-column2-link1418">
+												<a href="/help/">Help</a>
+											</li>
+									</ul>
+							</td>
+							<td id="footer-nav-column3" class="footer-links">
+								<div>The Company</div>
+									<ul>
+											<li id="footer-nav-column3-link1319">
+												<a href="/help/about-us/">About Us</a>
+											</li>
+											<li id="footer-nav-column3-link1320">
+												<a href="/community/">Community</a>
+											</li>
+											<li id="footer-nav-column3-link1321">
+												<a href="/cigar-newsletter/">Newsletter</a>
+											</li>
+											<li id="footer-nav-column3-link1322">
+												<a href="/help/">Feedback</a>
+											</li>
+											<li id="footer-nav-column3-link1323">
+												<a href="/sitemap/">Sitemap</a>
+											</li>
+											<li id="footer-nav-column3-link1324">
+												<a href="/help/privacy-policy/">Privacy Policy</a>
+											</li>
+									</ul>
+							</td>
+							<td id="footer-nav-column4" class="footer-links">
+								<div>Resources</div>
+									<ul>
+											<li id="footer-nav-column4-link1325">
+												<a href="/help/request-catalog/">Request a Catalog</a>
+											</li>
+											<li id="footer-nav-column4-link1326">
+												<a href="/email/subscribe/">Receive Email Specials</a>
+											</li>
+											<li id="footer-nav-column4-link1328">
+												<a href="/expert-reviews/">Expert Reviews</a>
+											</li>
+											<li id="footer-nav-column4-link1449">
+												<a href="/video/">Videos</a>
+											</li>
+											<li id="footer-nav-column4-link1419">
+												<a href="/favorites/">Wish Lists</a>
+											</li>
+											<li id="footer-nav-column4-link1329">
+												<a href="/articles/">Featured Content</a>
+											</li>
+											<li id="footer-nav-column4-link1421">
+												<a href="/sweepstakes/">Sweepstakes</a>
+											</li>
+									</ul>
+							</td>
+					</tr>
+				</tbody>
+			</table>
+			
+			<div class="footer-links-aside">
+				<form action="/email/subscribe/" method="post" data-wtf="form email-signup-redirect">
+					<div class="footer-signup">
+						<div class="ui-input-text">
+							<span class="icon-l icon-l-email"></span>
+							<input type="email" id="SignupEmail1" name="EmailAddress" placeholder="Enter Your Email" required="" title="Receive Exclusive Email Offers">
+						</div>
+						<button class="btn btn-go " type="submit"><span>Go</span></button>
+					</div>
+					<span class="field-validation-valid" data-valmsg-for="EmailAddress" data-valmsg-replace="true"></span>
+				<input type="hidden" name="returnUrl" value="/web/20161205153539id_/http%3A//www.cigar.com/help/privacy-policy"></form>
+				<div id="footer-socialmedia">
+						<a href="http://www.facebook.com/CigarDotCom" target="_blank" title="Friend Us"><span class="icon-l icon-l-facebook"></span>
 					</a><a href="http://twitter.com/cigardotcom" target="_blank" title="Follow Us"><span class="icon-l icon-l-twitter"></span>
-                    </a><a href="http://www.youtube.com/user/Cigarcom1" target="_blank" title="Watch Us"><span class="icon-l icon-l-youtube"></span>
-                    </a><a href="http://forum.cigar.com/" target="_blank" title="Chat With Us"><span class="icon-l icon-l-forum"></span></a>				</div>
+					</a><a href="http://www.youtube.com/user/Cigarcom1" target="_blank" title="Watch Us"><span class="icon-l icon-l-youtube"></span>
+					</a><a href="http://forum.cigar.com/" target="_blank" title="Chat With Us"><span class="icon-l icon-l-forum"></span></a>				</div>
 
-                <a class="footer-links-sprintsale" href="/cigar-sprint-sale/"><img src="//img.cigar.com/content/sitewide/logo/sprintsale.svg" width="255" alt="Cigar Sprint Sale - Free Shipping Every Day"></a>
-            </div>
-        </nav>
-    </div>
+				<a class="footer-links-sprintsale" href="/cigar-sprint-sale/" data-promotion="footer-nav"><img src="//img.cigar.com/content/sitewide/logo/sprintsale.svg" width="255" alt="Cigar Sprint Sale - Free Shipping Every Day"></a>
+			</div>
+		</nav>
+	</div>
 
-				<div id="footer-info" data-init="" class="clearfix">
+                <div id="footer-info" data-wtf="" class="clearfix">
     <div id="footer-info-inner" class="clearfix">
         <div class="column footer-info-left">
-            <a href="#satisfaction-guaranteed" data-dialog="" data-title="100% Satisfaction Guaranteed" data-width="700"><img src="//img.cigar.com/content/sitewide/gr-100seal.png" width="236" height="102" alt="Cigar.com 100% Satisfaction Guaranteed: Free shipping 3 days or less on orders over $125"></a>
+               <a href="#satisfaction-guaranteed" data-dialog="" data-title="100% Satisfaction Guaranteed" data-width="700"><img src="//img.cigar.com/content/sitewide/gr-100seal-149-2.png?v=1" width="236" height="102" alt="Cigar.com 100% Satisfaction Guaranteed: Free shipping 3 days or less on orders over $149"></a>
         </div>
         <div class="column footer-info-copyright">
-            At Cigar.com we only sell our products to adults who meet the legal age requirement to purchase tobacco products.
-            If you are not of the legal age to purchase tobacco products, please do not enter our site.
+            Cigar.com does not sell products to anyone under the age of 21.
+            If you do not meet the minimum age requirement, please do not enter our site.
             <br><br>
                 <a href="/help/privacy-policy/#age-verification">Click here</a> for more information on how we age verify.
                 <br><br>
             800.357.9800 &nbsp;| &nbsp;<a href="/help/contact-us/">Contact Us</a><br>
-            © 2015 Cigar.com &nbsp;| &nbsp;<a href="/help/terms/">Terms of Use</a> &nbsp;| &nbsp;<a href="/help/privacy-policy/">Privacy Policy</a>
+            © 2016 Cigar.com &nbsp;| &nbsp;<a href="/help/terms/">Terms of Use</a> &nbsp;| &nbsp;<a href="/help/privacy-policy/">Privacy Policy</a>
 
-                <div class="footer-mobile"><a class="footer-mobile" href="/mobile/help/privacy-policy/?experience=mobile">Mobile Site</a></div>
+                <div class="footer-mobile"><a class="footer-mobile" href="/mobile/help/privacy-policy?experience=mobile">Mobile Site</a></div>
 
             <div class="ui-grid-a clearfix seals">
-    <div class="ui-block-a column seals-mcafee">
-        <script type="text/javascript">
-            var PDOPTS = PDOPTS || [];
-            PDOPTS['disablefloat'] = 1;
-            (function () {
-                var sa = document.createElement('script'); sa.type = 'text/javascript'; sa.async = true;
-                sa.src = ('https:' == document.location.protocol ? 'https://cdn' : 'http://cdn') + '.ywxi.net/js/1.js';
-                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sa, s);
-            })();
-        </script>
+	<div class="ui-block-a column seals-mcafee">
+		<script type="text/javascript">
+			var PDOPTS = PDOPTS || [];
+			PDOPTS['disablefloat'] = 1;
+			(function () {
+				var sa = document.createElement('script'); sa.type = 'text/javascript'; sa.async = true;
+				sa.src = ('https:' == document.location.protocol ? 'https://cdn' : 'http://cdn') + '.ywxi.net/js/1.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sa, s);
+			})();
+		</script>
 
-        <!-- McAfee Secure Trustmark for www.cigar.com -->
-        <a target="_blank" href="https://www.mcafeesecure.com/verify?host=www.cigar.com"><img class="mfes-trustmark mfes-trustmark-hover" border="0" src="//cdn.ywxi.net/meter/www.cigar.com/101.gif" width="125" height="55" title="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
-        <!-- End McAfee Secure Trustmark -->
-    </div>
-    <div class="ui-block-b column seals-norton" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
-        <script src="https://seal.verisign.com/getseal?host_name=www.cigar.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
-        <br>
-        <a href="http://www.symantec.com/ssl-certificates" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a>
-    </div>
+		<!-- McAfee Secure Trustmark for www.cigar.com -->
+		<a target="_blank" href="https://www.mcafeesecure.com/verify?host=www.cigar.com"><img class="mfes-trustmark mfes-trustmark-hover" style="border:0;" src="//cdn.ywxi.net/meter/www.cigar.com/101.gif" width="125" height="55" title="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+		<!-- End McAfee Secure Trustmark -->
+	</div>
+	<div class="ui-block-b column seals-norton" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
+		<script src="https://seal.verisign.com/getseal?host_name=www.cigar.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
+		<br>
+		<a href="http://www.symantec.com/ssl-certificates" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a>
+	</div>
 </div>
         </div>
         <div class="column footer-info-right">
@@ -1112,7 +1179,7 @@
     </div>
 
     <div id="satisfaction-guaranteed" style="display:none;">
-        <img src="//img.cigar.com/content/sitewide/gr-100seal.png" width="236" height="102" alt="Cigar.com 100% Satisfaction Guaranteed: Free shipping 3 days or less on orders over $125">
+    <img src="//img.cigar.com/content/sitewide/gr-100seal-149-2.png?v=1" width="236" height="102" alt="Cigar.com 100% Satisfaction Guaranteed: Free shipping 3 days or less on orders over $149">
         <p>
             We are serious about cigars. We are dedicated to earning your trust and loyalty every day.
             <em><strong>Your 100% satisfaction is our mission</strong></em>. Should you ever have a less than satisfactory experience,
@@ -1122,75 +1189,22 @@
     </div>
 </div>
 
-			</footer>
-		</div>
+            </footer>
+        </div>
 
-		<a id="static-footer-wrap" data-init="" class="static-footer-sprintsale" href="/cigar-sprint-sale/" style="display:none;">
+		<a id="static-footer-sprintsale" data-wtf="static-footer" href="/cigar-sprint-sale/" style="" data-promotion="static-footer">
 			<img src="//img.cigar.com/content/sitewide/static-footer/bn-sprintsale_sale.png" alt="Cigar Sprint Sale - Fast action, falling price, and free shipping">
 		</a>
 	</div>
-	
-
-<!-- Quantcast Tag -->
-<script type="text/javascript">
-    var _qevents = _qevents || [];
-    (function() { var elem = document.createElement('script'); elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js"; elem.async = true; elem.type = "text/javascript"; var scpt = document.getElementsByTagName('script')[0]; scpt.parentNode.insertBefore(elem, scpt);})();
-    _qevents.push({qacct:"p-_yXk-TKZdKS66"});
-</script>
-<noscript>
-    <div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-_yXk-TKZdKS66.gif" border="0" height="1" width="1" alt="Quantcast" /></div>
-</noscript>
-<!-- End Quantcast tag -->
+	            <noscript>
+                <div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-_yXk-TKZdKS66.gif" border="0" height="1" width="1" alt="Quantcast" /></div>
+            </noscript>
+        <img src="/assets/img/tracking/tracking-db.gif" alt="Adroit">
 
 
-<img src="/assets/img/tracking/tracking-db.gif" alt="Adroit">
-
- 
-<script>adroll_adv_id="3MIO7VEH5FFZNCZB37ZA6M";adroll_pix_id="VREJLA5ZFZHZJLPCWE3YE6";(function(){var a=window.onload;window.onload=function(){__adroll_loaded=true;var c=document.createElement("script");var b=(("https:" == document.location.protocol)?"https://s.adroll.com":"http://a.adroll.com");c.setAttribute("async", "true");c.type="text/javascript";c.src=b+"/j/roundtrip.js";((document.getElementsByTagName("head")||[null])[0]||document.getElementsByTagName("script")[0].parentNode).appendChild(c);if(a){a()}}}());</script>
+<!-- 12/5/2016 10:35:39 AM|0.0446|ROD201|GCmem 438.00 -->
 
 
 
-    <script>
-        var __lc = {};
-        __lc.license = 5672771;
 
-        (function() {
-            var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
-            lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
-        })();
-    </script>
-
-
-    <script>
-        
-        var SiteAnalytics = {};
-        WTF.settings.analyticsAccountName = "cigarcom-prod";
-            WTF.settings.analytics._channelDomain = "Shopping Feeds|pricegrabber.com,shopzilla.com";
-            WTF.settings.analytics.linkInternalFilters = "javascript:,cigar.com, #";
-            WTF.settings.analytics.trackingServer = "metrics.cigar.com";
-            WTF.settings.analytics.trackingServerSecure = "smetrics.cigar.com";
-
-        
-        var MasterTmsUdo = {},
-            sa_pageDepartment = "",
-            sa_customerId = "";
-    </script>
-<script>SiteAnalytics.evars=["s.campaign=\"cgwb01\";","s.pageName=\"home:help:privacy-policy\";","s.channel=\"help\";","s.server=\"www.cigar.com\";","s.prop1=\"home\";","s.prop2=\"privacy-policy\";","s.eVar14=\"browse\";","s.eVar38=\"corporate\";"];</script><script src="/theme/ccom/js/analytics.js?v=QsGBFYWJ238l-A1wU_wmfldhjVGh1M9hB3HuCYQkFkA1"></script><script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    ga('create', 'UA-27643891-17', 'auto');
-    ga('require', 'linkid', 'linkid.js');
-    ga('send', 'pageview');
-</script>
-
-
-<script src="//code.murdoog.com/onetag-1.3/C1928C47551BD4.js" async="" defer=""></script>
-
-<!-- 9/6/2015 6:06:25 AM|0.0135|OD101 -->
-
-
-
-</body></html>
+<div style="display: none;"></div><div class="ui-fixable fixable-minicart ui-fixable-top" style="position: fixed; top: 0px; left: 0px; margin-top: 0px;"><div class="ui-fixable-inner" style="height: 0px; padding-top: 0px; width: 1350px; padding-left: 0px;"><div class="ui-fixable-innermost"></div></div></div><div class="ui-fixable pagetop-fixed ui-fixable-top" style="position: fixed; top: 0px; left: 0px; margin-top: 0px;"><div class="ui-fixable-inner" style="height: 0px; padding-top: 0px; width: 1350px; padding-left: 0px;"><div class="ui-fixable-innermost"></div></div></div></body></html>
