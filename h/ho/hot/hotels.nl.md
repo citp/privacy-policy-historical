@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotels.nl privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607233649id_/http%3A//www.hotels.nl/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels.nl privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205071825id_/http%3A//www.hotels.nl/service/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -59,6 +59,8 @@ In[this overview](http://media.hotels.nl/conditions/cookies_hotelsnl.pdf) you ca
 We use log files, just like most standard website servers. In these log files we store data such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referral/closing pages, platform type, date/time info and the number of clicks for the purpose of trend analysis, site management, tracing user movements in data collection, tracking problems with our servers and the collection of demographic data for general use. IP addresses and the like, are not linked to personal data.
 
 
+*  ~~~~ **WhatsApp**  
+Hotels.nl stores chat conversations for the purposes of verification and research with regards to contracts and services. Hotels.nl processes the data entered by you during the chat, such as your name, address, date of birth, and your question or complaint. Conversations stored for the purposes of verification and research will be kept for up to 5 years after the point of contact.
 
 ### General
 
