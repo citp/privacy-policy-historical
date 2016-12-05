@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovelandia.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406075553id_/http%3A//www.lovelandia.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovelandia.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205223918id_/http%3A//www.lovelandia.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy
 
