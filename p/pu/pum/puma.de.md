@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puma.de privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601000732id_/http%3A//de.puma.com/de/en/privacy-policy/PRIVACY_POLICY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puma.de privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206002220id_/http%3A//de.puma.com/de/en/privacy-policy/PRIVACY_POLICY.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,7 @@ PUMA Way 1
 91074 Herzogenaurach  
 Germany
 
-**E-Mail:**[service@eu.puma.com](mailto:service@eu.puma.com)
+**E-Mail:**[service@puma.com](mailto:service@puma.com)
 
 ### **1\. Collecting Personal Data**
 
@@ -109,7 +109,7 @@ You may refuse the use of cookies by selecting the appropriate settings on your 
 
 Further information concerning data privacy can be found at _https://www.google.de/intl/en/policies/_
 
-[Disable Google Analytics](https://web.archive.org/web/20160601000732id_/http%3A//de.puma.com/de/en/privacy-policy/%E2%80%9Djavascript:gaOptout\(\)%E2%80%9D)
+[Disable Google Analytics](https://web.archive.org/web/20161206002220id_/http%3A//de.puma.com/de/en/privacy-policy/%E2%80%9Djavascript:gaOptout\(\)%E2%80%9D)
 
 ### **8\. The Facebook Like Button**
 
@@ -135,7 +135,7 @@ There is a right to information about your personal data that we store andthe ri
 
 You have the right to object to the use or processing of your data at any time. You have the right to revoke any consent you have previously granted us regarding the use of your personal data.
 
-If you wish to avail yourself of your right to information and/or the right to object to the use of your personal data, or any other questions about privacy, please send us an e-mail at: [service@eu.puma.com](mailto:service@eu.puma.com)
+If you wish to avail yourself of your right to information and/or the right to object to the use of your personal data, or any other questions about privacy, please send us an e-mail at: [service@puma.com](mailto:service@puma.com)
 
 or contact us by regular overland post:
 
