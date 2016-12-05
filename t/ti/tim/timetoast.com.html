@@ -1,48 +1,52 @@
-<!--The following is the downloaded HTML source of the timetoast.com privacy policy that was archived on 2016-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160601090530id_/http%3A//www.timetoast.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the timetoast.com privacy policy that was archived on 2016-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161205175153id_/http%3A//www.timetoast.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="no-js" data-mobile-version="false" data-beta-enabled="false"><!--<![endif]--><!--[if !IE]><!--><head><script type="text/javascript" async="" src="https://widget.intercom.io/widget/k9f0r7xr"></script><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>if(/*@cc_on!@*/false){document.documentElement.className+=' ie10 ie';}</script><!--<![endif]-->
-<!-- google_ad_section_start(weight=ignore) -->
-
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"41dc0fd2a6","applicationID":"48020","transactionName":"JQwLTEVbXQlcQhdJUwEGFhdHRlgTWFNB","queueTime":0,"applicationTime":28,"agentToken":null,"agent":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQADUkVXAAMCVA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(13)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script>
-<!-- facebook insights -->
-<meta property="fb:page_id" content="163456097039250">
+<!DOCTYPE html><html lang="en" data-mobile-version="false" data-beta-enabled="false"><!-- google_ad_section_start(weight=ignore) --><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<script type="text/javascript" async="" src="https://widget.intercom.io/widget/k9f0r7xr"></script><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"41dc0fd2a6","applicationID":"48020","transactionName":"JQwLTEVbXQlcQhdJUwEGFhdHRlgTWFNB","queueTime":0,"applicationTime":28,"agentToken":null,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQADUkVXAAMCVA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(14)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(14)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(14)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(w=-w,b.data=w)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(14)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,g),g.prototype=p.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var w=1,b=document.createTextNode(w);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[g[n]];return f&&f.push([w,n,r,i]),i}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},w={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return w}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=w.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(y,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(12),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(9);var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},g=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),w=e.exports={offset:a(),origin:v,features:{},xhrWrappable:g};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,7]);</script>
+  <!-- facebook insights -->
+  <meta property="fb:page_id" content="163456097039250">
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
 <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
-<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196">
-<link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
-<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
 <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
 <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-<meta name="msapplication-TileColor" content="#00a300">
-<meta name="msapplication-TileImage" content="/mstile-144x144.png">
-<title>Privacy Policy | Timetoast timelines</title>
-<meta name="description" content="Timetoast's free timeline maker lets you create timelines online. Make educational timelines or create a timeline for your company website. How to make a timeline? Well, it's easy as toast!">
-<meta content="authenticity_token" name="csrf-param">
-<meta content="rCgNYVC9z5iamiSuc94XO4wuBgwboay/x4DvEkotXMs=" name="csrf-token">
-<meta name="keywords" content="timeline, interactive, create, historical, time, visualization, chronology, chronological, reference">
-  <script src="//s3.amazonaws.com/timetoast-assets/assets/application-0ecd724d5c4eff866dd95c65336f24fc.js"></script>
-<script type="text/javascript">
-  if(typeof window.Timetoast === 'undefined'){
-    window.Timetoast = {}
-  };
-  window.Timetoast.settings = {
-    assetHost: "//s3.amazonaws.com/timetoast-assets", // for default images etc. Note: Not used for uploads.
-    uploadsEnabled: true
-  };
-</script>
-  <link href="//s3.amazonaws.com/timetoast-assets/assets/application-f22a1001f7b59a4f013ce7cf21f324dc.css" media="all" rel="stylesheet">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<meta name="msapplication-square70x70logo" content="/smalltile.png">
+<meta name="msapplication-square150x150logo" content="/mediumtile.png">
+<meta name="msapplication-wide310x150logo" content="/widetile.png">
+<meta name="msapplication-square310x310logo" content="/largetile.png">
+  <title>Privacy Policy | Timetoast timelines</title>
+  <meta name="description" content="Timetoast's free timeline maker lets you create timelines online. Make educational timelines or create a timeline for your company website. How to make a timeline? Well, it's easy as toast!">
+  <meta content="authenticity_token" name="csrf-param">
+<meta content="fc0oWABk2hmQIukGVohLFxGMKlVUqB/uG/5Z8NaB/JE=" name="csrf-token">
+  <meta name="keywords" content="timeline, timeline maker, interactive, create, historical, time, visualization, chronology, chronological, reference">
 
-<!-- start analytics -->
+    <script src="//s3.amazonaws.com/timetoast-assets/assets/application-1d35da0dd984501604b011b710ee888e.js"></script>
+  <script type="text/javascript">
+    if(typeof window.Timetoast === 'undefined'){
+      window.Timetoast = {}
+    };
+    window.Timetoast.settings = {
+      assetHost: "//s3.amazonaws.com/timetoast-assets", // for default images etc. Note: Not used for uploads.
+      uploadsEnabled: true
+    };
+  </script>
+
+  <meta content="initial-scale=1.0,maximum-scale=1.0" name="viewport">
+  <link href="//s3.amazonaws.com/timetoast-assets/assets/application-f1da45d7907689d980b2da992c76cf1c.css" media="all" rel="stylesheet">
+
+  <!-- start analytics -->
 <script type="text/javascript">
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -54,8 +58,22 @@
 </script>
 <!-- end analytics -->
 
+  
+    <!-- Twitter Card Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@timetoast">
+<meta name="twitter:title" content="Privacy Policy | Timetoast timelines">
+<meta name="twitter:description" content="Timetoast's free timeline maker lets you create timelines online. Make educational timelines or create a timeline for your company website. How to make a timeline? Well, it's easy as toast!">
+<meta name="twitter:image" content="http://www.timetoast.com/timetoast_timeline_maker.jpg">
+<meta name="twitter:image:alt" content="Timeline maker platforms">
+<!-- Open Graph Tags -->
+<meta property="og:site_name" content="Timetoast">
+<meta property="og:title" content="Privacy Policy | Timetoast timelines">
+<meta property="og:description" content="Timetoast's free timeline maker lets you create timelines online. Make educational timelines or create a timeline for your company website. How to make a timeline? Well, it's easy as toast!">
+<meta property="og:url" content="http://www.timetoast.com/privacy">
+<meta property="og:image" content="http://www.timetoast.com/timetoast_timeline_maker.jpg">
 
-    <script>
+        <script>
     (adsbygoogle = window.adsbygoogle || []).push({
       google_ad_client: "ca-pub-3637961829875093",
       enable_page_level_ads: true
@@ -67,218 +85,251 @@
 <!-- google_ad_section_end -->
 <body id="pages" class="privacy">
 
-  
 
-  <div id="announcements-container">
-  </div>
+  <div id="announcements-container"></div>
 
-  <!-- google_ad_section_start(weight=ignore) -->
-<header role="site-header">
-  <div class="header-container">
-    <div class="container">
-      <div class="header-logo">
-        <a href="http://www.timetoast.com/"><img alt="Timetoast logo" class="logo" src="//s3.amazonaws.com/timetoast-assets/assets/timetoast-logo-414bddc3e92dd23639c13a81d3df5040.png" title="home"></a>
+
+  <div id="react-site-header-target">
+
+    <!-- google_ad_section_start(weight=ignore) -->
+<header class="site-header container">
+  <div class="site-header__logo">
+    <a href="http://www.timetoast.com/" title="Timetoast home page">
+      <svg class="logo" enable-background="new 0 0 53.1 53.1" height="53.1px" id="Layer_1" version="1.1" viewBox="0 0 53.1 53.1" width="53.1px" x="0px" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" y="0px">
+  <rect fill="#4E4999" height="53.1" width="53.1" class="logo-fill"></rect>
+  <rect fill="#FFFFFF" height="38.158" width="4.21" x="21.174" y="8.198"></rect>
+  <rect fill="#FFFFFF" height="3.587" width="12.179" x="6.628" y="14.152"></rect>
+  <rect fill="#FFFFFF" height="38.153" width="4.192" x="27.751" y="8.189"></rect>
+  <rect fill="#FFFFFF" height="3.587" width="12.179" x="6.628" y="8.198"></rect>
+  <rect fill="#FFFFFF" height="3.587" width="12.18" x="34.293" y="14.152"></rect>
+  <rect fill="#FFFFFF" height="3.587" width="12.18" x="34.293" y="8.198"></rect>
+</svg>
+</a>  </div>
+
+  <div class="site-header__navigation site-navigation">
+
+    <div class="site-navigation__hamburger mobile-only">
+      <a class="hamburger-icon js-hamburger-icon" href="javascript:void(0);" title="Menu">
+        <div class="menu-bar"></div>
+        <div class="menu-bar"></div>
+        <div class="menu-bar"></div>
+</a>    </div>
+
+    <div class="site-navigation__navigation-items js-site-header__nav collapsed">
+
+      <div class="pointer pointer--main"></div>
+
+      <div class="site-navigation__nav-wrapper">
+        <nav class="site-navigation__nav">
+          <ul class="nav-list">
+            <!-- Note: Comments between nav items remove spacing between inline-block elements -->
+<li class="nav-item"><a href="/categories" title="Public timelines"><span>Public timelines</span></a></li><!--
+--><li class="nav-item"><a class="js-search" href="/search/timelines" title="Search public timelines"><span>Search</span></a></li><!--
+--><li class="nav-item"><a href="/accounts/sign_in" title="Sign in to your Timetoast account"><span>Sign in</span></a></li><!--
+--><li class="nav-item nav-item--special"><a href="/plans" title="Sign up for a Timetoast account"><span>Sign up</span></a></li>
+
+          </ul>
+        </nav>
       </div>
-      <nav>
-        <div class="nav-item">
-  <a class="button button--callout" href="/plans"><span>Sign up</span></a>
-</div>
-  <a class="nav-item" href="/accounts/sign_in">Sign in</a>
-<a class="nav-item search js-search" href="javascript:void(0);">
-  <span>Search</span>
-</a><a class="nav-item" href="/categories">Public timelines</a>
-      </nav>
+
     </div>
+
   </div>
+
 </header>
-
-<div class="container overflow">
-  <div class="dropdown">
-    <div class="js-menu-dropdown dropdown-menu menu-dropdown" style="display:none;">
-      <!-- nothing here -->
-    </div>
-  </div>
-</div>
-
 
 <!-- google_ad_section_end -->
 
 
-  <div class="search-content-holder">
     <div class="container">
       <div class="js-search-dropdown search-dropdown" style="display:none;">
+        <div class="search-dropdown__dismiss js-search-dismiss"></div>
         <form action="http://www.timetoast.com/search/timelines" id="cse-search-box">
   <input type="hidden" name="cx" value="partner-pub-3637961829875093:ehixnl-dg1y">
   <input type="hidden" name="cof" value="FORID:9">
   <input type="hidden" name="ie" value="UTF-8">
   <input type="text" name="q" size="20" placeholder="Start typing and hit enter">
-  <input type="submit" name="sa" value="Search" class="button button-flat button--flat-cta">
+  <input type="submit" name="sa" value="Search" class="btn btn--outline">
 </form>
 <script type="text/javascript" src="//www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
       </div>
     </div>
+
   </div>
 
-    
-  <div class="ads-fullwidth ads-fullwidth-top">
-    <div class="ads-leaderboard-centered">
-
-        <!-- Wide Top of Page -->
-        <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-3637961829875093" data-ad-slot="8806236970"></ins>
-        <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
+  <div class="container">
+        <div class="ad-slot ad-slot--1 border-bottom">
+        <div class="ad-wrapper">
 
 
-    </div>
-  </div>
-
-
-
-
-  <div id="notifications" class="notifications-container">
-    
-  </div>
-
-  <div id="content">
-    
-<div class="container">
-  <h1 class="page-title">Privacy Policy</h1>
-
-  <div class="panel panel--padded privacy">
-    <article>
-      <h2 class="panel-title">Website Visitors</h2>
-      <p> Like most website operators, Timetoast collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Timetoast’s purpose in collecting non-personally identifying information is to better understand how Timetoast’s visitors use its website. From time to time, Timetoast may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.</p>
-      <p> Timetoast also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Timetoast does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.</p>
-    </article>
-
-    <article>
-      <h2 class="panel-title">Gathering of Personally-Identifying Information</h2>
-      <p> Certain visitors to Timetoast’s websites choose to interact with Timetoast in ways that require Timetoast to gather personally-identifying information. The amount and type of information that Timetoast gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a timeline at <a href="http://www.Timetoast.com/">Timetoast.com</a> to provide a username and email address.</p>
-    </article>
-
-    <article>
-      <h2 class="panel-title">Aggregated Statistics</h2>
-      <p> Timetoast may collect statistics about the behavior of visitors to its websites. For instance, Timetoast may monitor the most popular timelines on the Timetoast.com site. Timetoast may display this information publicly or provide it to others. However, Timetoast does not disclose personally-identifying information other than as described below.</p>
-    </article>
-
-    <article>
-      <h2 class="panel-title">Protection of Certain Personally-Identifying Information</h2>
-      <p> Timetoast discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Timetoast’s behalf or to provide services available at Timetoast’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Timetoast’s websites, you consent to the transfer of such information to them. Timetoast will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Timetoast discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Timetoast believes in good faith that disclosure is reasonably necessary to protect the property or rights of Timetoast, third parties or the public at large. If you are a registered user of the Timetoast website and have supplied your email address, Timetoast may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Timetoast and our products. We expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Timetoast takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.</p>
-    </article>
-
-    <article>
-      <h2 class="panel-title">Cookies</h2>
-      <p> A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Timetoast uses cookies to help Timetoast identify and track visitors, their usage of Timetoast website, and their website access preferences. Timetoast visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Timetoast’s websites, with the drawback that certain features of Timetoast’s websites may not function properly without the aid of cookies.</p>
-    </article>
-
-
-    <article>
-      <h2 class="panel-title">Advertising</h2>
-      <p>We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.google.com/privacy_ads.html">click here</a>.</p>
-    </article>
-
-
-    <article>
-      <h2 class="panel-title">Privacy Policy Changes</h2>
-      <p> Although most changes are likely to be minor, Timetoast may change its Privacy Policy from time to time, and in Timetoast’s sole discretion. Timetoast encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Timetoast.com account, you should also check the 'your timelines' dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p>
-      <p>Last updated: 15th July, 2009</p>
-    </article>
-  </div>
-</div>
-
-  <div class="ads-fullwidth ads-fullwidth-bottom">
-    <div class="ads-leaderboard-centered">
-
-        <!-- Wide Bottom of Page -->
-        <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-3637961829875093" data-ad-slot="1310363593"></ins>
-
-
+      <!-- responsive_atf -->
+      <ins class="adsbygoogle ad" data-ad-client="ca-pub-3637961829875093" data-ad-slot="2414148973"></ins>
       <script>
       (adsbygoogle = window.adsbygoogle || []).push({});
       </script>
 
+
+  </div>
+
+
     </div>
+
+  </div>
+        <div class="skyscrapers-container">
+    <div class="ad-slot ad-slot--4">
+      <div class="ad-wrapper">
+          <div class="ad-wrapper">
+
+      <!-- atf-skyscraper-resp -->
+      <ins class="adsbygoogle ad" data-ad-client="ca-pub-3637961829875093" data-ad-slot="7085090170"></ins>
+      <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+
   </div>
 
-
-
-    <div class="clear"></div>
-  </div>
-  <!-- google_ad_section_start(weight=ignore) -->
-
-  <footer role="site-footer">
-    <div class="container">
-
-      <nav class="footer-links site-links">
-        <h3>Browse</h3>
-        <ul>
-          <li><a href="/categories">Categories</a></li>
-          <li><a href="/popular">Popular timelines</a></li>
-          <li><a href="/browse/updated_timelines">Updated timelines</a></li>
-          <li><a href="/browse/latest_timelines">Latest timelines</a></li>
-        </ul>
-      </nav>
-
-      <nav class="footer-links help-links">
-        <h3>Help</h3>
-        <ul>
-          <li><a href="/faq">FAQs</a></li>
-          <li><a href="/privacy" rel="nofollow">Privacy</a></li>
-          <li><a href="/terms">Terms &amp; conditions</a></li>
-          <li><a href="http://blog.timetoast.com">Product blog</a></li>
-          <li><a href="/about">About</a></li>
-        </ul>
-      </nav>
-
-      <nav class="footer-links misc-links">
-        <ul>
-          <li><span>Copyright © Timetoast, </span><span>All rights reserved.</span></li>
-          <li><span>Find Timetoast on </span><span><a href="http://www.facebook.com/timetoast">Facebook</a> and <a href="http://twitter.com/timetoast">Twitter</a></span></li>
-          <li>Made with ❤ in London</li>
-          <li>  Full site&nbsp;|&nbsp;<a href="/privacy?mobile=1" rel="alternate">Mobile site</a>
-</li>
-        </ul>
-      </nav>
-
-      <nav class="footer-links social-links">
-          <h3>Spread the word</h3>
-          <div class="social-link">
-            <a href="http://www.facebook.com/sharer.php?u=http://www.timetoast.com/" class="socialite facebook-like" data-href="http://www.timetoast.com/" data-send="false" data-layout="button_count" data-width="60" data-show-faces="false" rel="nofollow" target="_blank">
-              <span class="vhidden">Share on Facebook</span>
-            </a>
-          </div>
-          <div class="social-link">
-            <a href="http://twitter.com/share" class="socialite twitter-share" data-text="Create and share timelines on Timetoast" data-url="http://www.timetoast.com/" data-count="horizontal" rel="nofollow" target="_blank">
-              <span class="vhidden">Share on Twitter</span>
-            </a>
-          </div>
-          <div class="social-link">
-            <a href="https://plus.google.com/share?url=http://www.timetoast.com/" class="socialite googleplus-one" data-size="medium" annotation="bubble" data-href="http://www.timetoast.com/" rel="nofollow" target="_blank">
-              <span class="vhidden">Share on Google+</span>
-            </a>
-          </div>
-      </nav>
-
-      <div class="clearfix">
+      </div>
     </div>
-  </div></footer>
 
-  <div id="sticky_footer">
-    
-    <div id="cookie-consent-container"></div>
+    <div class="ad-slot ad-slot--5">
+      <div class="ad-wrapper">
+          <div class="ad-wrapper">
+
+      <!-- atf-skyscraper-resp -->
+      <ins class="adsbygoogle ad" data-ad-client="ca-pub-3637961829875093" data-ad-slot="7085090170"></ins>
+      <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+
   </div>
 
-  <div id="modal" class="modal hidden">
-    <div class="modal-bg"></div>
-    <div class="modal-content">
-      <a href="javascript:void(0);" class="modal-close">x</a>
-      <div class="modal-content-holder">
       </div>
     </div>
   </div>
 
-  <div id="react-dialog" class="hidden">
+
+
+  <div class="container">
+</div>
+
+  <div class="main-content">
+    
+<div class="container">
+
+  <div class="side-dockable-head-layout side-dockable-head-layout--padded">
+    <div class="side-dockable-head-layout__head">
+      <div class="head-content">
+        <h1 class="heading">Privacy policy</h1>
+      </div>
+    </div>
+    <div class="side-dockable-head-layout__body">
+
+      <h2 class="heading">01 / Website Visitors</h2>
+      <p> Like most website operators, Timetoast collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Timetoast’s purpose in collecting non-personally identifying information is to better understand how Timetoast’s visitors use its website. From time to time, Timetoast may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.</p>
+      <p> Timetoast also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Timetoast does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.</p>
+
+      <h2 class="heading">02 / Gathering of Personally-Identifying Information</h2>
+      <p> Certain visitors to Timetoast’s websites choose to interact with Timetoast in ways that require Timetoast to gather personally-identifying information. The amount and type of information that Timetoast gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a timeline at <a href="http://www.Timetoast.com/">Timetoast.com</a> to provide a username and email address.</p>
+
+      <h2 class="heading">03 / Aggregated Statistics</h2>
+      <p> Timetoast may collect statistics about the behavior of visitors to its websites. For instance, Timetoast may monitor the most popular timelines on the Timetoast.com site. Timetoast may display this information publicly or provide it to others. However, Timetoast does not disclose personally-identifying information other than as described below.</p>
+
+      <h2 class="heading">04 / Protection of Certain Personally-Identifying Information</h2>
+      <p> Timetoast discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Timetoast’s behalf or to provide services available at Timetoast’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Timetoast’s websites, you consent to the transfer of such information to them. Timetoast will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Timetoast discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Timetoast believes in good faith that disclosure is reasonably necessary to protect the property or rights of Timetoast, third parties or the public at large. If you are a registered user of the Timetoast website and have supplied your email address, Timetoast may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Timetoast and our products. We expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Timetoast takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.</p>
+
+      <h2 class="heading">05 / Cookies</h2>
+      <p> A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Timetoast uses cookies to help Timetoast identify and track visitors, their usage of Timetoast website, and their website access preferences. Timetoast visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Timetoast’s websites, with the drawback that certain features of Timetoast’s websites may not function properly without the aid of cookies.</p>
+
+      <h2 class="heading">06 / Advertising</h2>
+      <p>We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.google.com/privacy_ads.html" rel="nofollow" title="Google Advertising privacy policy">click here</a>.</p>
+
+      <h2 class="heading">07 / Privacy Policy Changes</h2>
+      <p> Although most changes are likely to be minor, Timetoast may change its Privacy Policy from time to time, and in Timetoast’s sole discretion. Timetoast encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Timetoast.com account, you should also check the 'your timelines' dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p>
+
+      <p><small>Last updated: 15th July, 2009</small></p>
+
+    </div>
+  </div>
+</div>
+  </div>
+  <!-- google_ad_section_start(weight=ignore) -->
+
+  <div class="container">
+        <div class="ad-slot ad-slot--2 border-top">
+        <div class="ad-wrapper">
+
+      <!-- responsive_btf -->
+      <ins class="adsbygoogle ad" data-ad-client="ca-pub-3637961829875093" data-ad-slot="3890882172"></ins>
+      <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+
+  </div>
+
+    </div>
+
+  </div>
+
+  <footer class="site-footer container">
+
+  <div class="site-footer__lists">
+
+    <nav class="site-footer__list">
+      <h3 class="heading">Browse</h3>
+      <ul>
+        <li><a href="/categories" title="Public timeline categories">Timeline categories</a></li>
+        <li><a href="/popular" title="Popular timelines">Popular timelines</a></li>
+        <li><a href="/browse/updated_timelines" title="Updated timelines">Updated timelines</a></li>
+        <li><a href="/browse/latest_timelines" title="Latest timelines">Latest timelines</a></li>
+      </ul>
+    </nav>
+
+    <nav class="site-footer__list">
+      <h3 class="heading">Help</h3>
+      <ul>
+        <li><a href="/faq" title="Frequently Asked Questions">FAQ</a></li>
+        <li><a href="/privacy" title="Privacy Policy">Privacy</a></li>
+        <li><a href="/terms" title="Terms and conditions">Terms &amp; conditions</a></li>
+        <li><a href="http://blog.timetoast.com" title="Product blog">Product blog</a></li>
+        <li><a href="/about" title="About Timetoast timelines">About</a></li>
+        <li><a href="/contact" title="Contact us">Contact</a></li>
+      </ul>
+    </nav>
+
+    <nav class="site-footer__list">
+      <h3 class="heading">More</h3>
+      <ul>
+        <li><span>Find us on </span><span><a href="http://www.facebook.com/timetoast" title="Timetoast Facebook page">Facebook</a> and <a href="http://twitter.com/timetoast" title="Timetoast Twitter profile">Twitter</a></span></li>
+        <li>Made with ❤ in London</li>
+        <li>  <a href="/privacy?mobile=1" rel="alternate">Switch to mobile site</a>
+</li>
+      </ul>
+    </nav>
+
+    <nav class="site-footer__list">
+        <div class="site-footer__social">
+          <a class="social-link" href="http://www.facebook.com/sharer.php?u=http://www.timetoast.com/" rel="nofollow" target="_blank" title="Share Timetoast to Facebook">
+            <svg class="social-link__icon"><use xlink:href="#icons-facebook-logo"></use></svg>
+</a>          <a class="social-link" href="http://pinterest.com/pin/create/button/?url=http://www.timetoast.com/" rel="nofollow" target="_blank" title="Pin Timetoast to Pinterest">
+            <svg class="social-link__icon"><use xlink:href="#icons-pinterest-logo"></use></svg>
+</a>          <a class="social-link" href="http://twitter.com/intent/tweet?url=http://www.timetoast.com/&amp;text=Create%20and%20share%20timelines%20on%20Timetoast" rel="nofollow" target="_blank" title="Share Timetoast to Twitter">
+            <svg class="social-link__icon"><use xlink:href="#icons-twitter-logo"></use></svg>
+</a>          <a class="social-link" href="https://plus.google.com/share?url=http://www.timetoast.com/" rel="nofollow" target="_blank" title="Share Timetoast to Google+">
+            <svg class="social-link__icon"><use xlink:href="#icons-google-plus-logo"></use></svg>
+</a>        </div>
+    </nav>
+  </div>
+
+  <div>
+    <small>Copyright © 2007-2016 Timetoast timelines, All rights reserved.</small>
+  </div>
+
+</footer>
+
+  <div id="sticky_footer">
+    
+    <div id="cookie-consent-container"></div>
   </div>
 
   <div id="toaster-react-target"></div>
@@ -294,22 +345,29 @@
         ]
       });*/
 
-      TimetoastApp.addInitializer(function(){
-        TimetoastApp.module("HeaderApp").start();
-      });
-
-      // Starting here so all apps and initializers have been declared
-      TimetoastApp.start();
-
-      Socialite.load($('.social-links'));
-      Timetoast.shared.listings.enableClicks();
       Timetoast.shared.cookieConsent.init("cookie-consent-container", {enabled: true});
+
+      var reactHeaderInfo = {
+        isloggedin: false,
+        isOnSignInPage: false,
+        isOnSignUpPage: false,
+        rootPath: 'http://www.timetoast.com/',
+        categoriesPath: '/categories',
+        accountPath: '/accounts/edit',
+        timelinesPath: '/timelines',
+        plansPath: '/plans',
+        newUserSessionPath: '/accounts/sign_in',
+        editUserRegPath: '/accounts/edit',
+        destroyUserRegPath: '/accounts/sign_out',
+        svgLogoString: "<svg class=\"logo\" enable-background=\"new 0 0 53.1 53.1\" height=\"53.1px\" id=\"Layer_1\" version=\"1.1\" viewBox=\"0 0 53.1 53.1\" width=\"53.1px\" x=\"0px\" xml:space=\"preserve\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://www.w3.org/2000/svg\" y=\"0px\">\n  <rect fill=\"#4E4999\" height=\"53.1\" width=\"53.1\" class=\"logo-fill\"/>\n  <rect fill=\"#FFFFFF\" height=\"38.158\" width=\"4.21\" x=\"21.174\" y=\"8.198\"/>\n  <rect fill=\"#FFFFFF\" height=\"3.587\" width=\"12.179\" x=\"6.628\" y=\"14.152\"/>\n  <rect fill=\"#FFFFFF\" height=\"38.153\" width=\"4.192\" x=\"27.751\" y=\"8.189\"/>\n  <rect fill=\"#FFFFFF\" height=\"3.587\" width=\"12.179\" x=\"6.628\" y=\"8.198\"/>\n  <rect fill=\"#FFFFFF\" height=\"3.587\" width=\"12.18\" x=\"34.293\" y=\"14.152\"/>\n  <rect fill=\"#FFFFFF\" height=\"3.587\" width=\"12.18\" x=\"34.293\" y=\"8.198\"/>\n<\/svg>"
+      }
+
+      Timetoast.headers.init("react-site-header-target", reactHeaderInfo);
 
     });
   </script>
     <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
-  
     <script>
     window.intercomSettings = {
       app_id: "k9f0r7xr"
@@ -318,6 +376,320 @@
   <script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/k9f0r7xr';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
 
   <!-- google_ad_section_end -->
+  <svg id="icons" style="display: none;" version="1.1"><symbol id="icons-close" viewBox="0 0 40.525 40.524">
+  <line style="fill:none;stroke:currentColor;stroke-width:3;" x1="39.464" y1="1.061" x2="1.061" y2="39.464"></line>
+  <line style="fill:none;stroke:currentColor;stroke-width:3;" x1="39.462" y1="39.463" x2="1.061" y2="1.061"></line>
+</symbol><symbol id="icons-facebook-logo" viewBox="0 0 32 32">
+  <path d="M30.7,0H1.3C0.6,0,0,0.6,0,1.3v29.3C0,31.4,0.6,32,1.3,32H17V20h-4v-5h4v-4
+	c0-4.1,2.6-6.2,6.3-6.2C25.1,4.8,26.6,5,27,5v4.3l-2.6,0c-2,0-2.5,1-2.5,2.4V15h5l-1,5h-4l0.1,12h8.6c0.7,0,1.3-0.6,1.3-1.3V1.3
+	C32,0.6,31.4,0,30.7,0z" fill="currentColor"></path>
+</symbol><symbol id="icons-full-screen" viewBox="0 0 103.843 60.175">
+<polyline style="fill:none;stroke:currentColor;stroke-width:3;" points="102.343,41.667 102.343,58.467 85.543,58.467 "></polyline>
+<polyline style="fill:none;stroke:currentColor;stroke-width:3;" points="85.542,1.5 102.342,1.5 102.342,18.3 "></polyline>
+<polyline style="fill:none;stroke:currentColor;stroke-width:3;" points="18.3,58.675 1.5,58.675 1.5,41.875 "></polyline>
+<polyline style="fill:none;stroke:currentColor;stroke-width:3;" points="1.5,18.3 1.5,1.5 18.3,1.5 "></polyline>
+</symbol><symbol id="icons-google-plus-logo" viewBox="0 0 32 32">
+  <path d="M14.7,2.5c0.3,0.2,0.5,0.4,0.9,0.7c0.3,0.3,0.6,0.7,0.9,1.1c0.3,0.4,0.5,0.9,0.7,1.5c0.2,0.6,0.3,1.2,0.3,2
+	c0,1.4-0.3,2.5-1,3.4c-0.3,0.4-0.6,0.8-1,1.1c-0.4,0.3-0.8,0.7-1.2,1c-0.2,0.2-0.5,0.5-0.7,0.8c-0.2,0.3-0.4,0.7-0.4,1.1
+	c0,0.4,0.1,0.7,0.4,1c0.2,0.3,0.4,0.5,0.6,0.7l1.4,1.1c0.9,0.7,1.6,1.4,2.2,2.2c0.6,0.8,0.9,1.9,0.9,3.2c0,1.9-0.9,3.6-2.6,5
+	c-1.8,1.5-4.4,2.3-7.8,2.3c-2.8,0-4.9-0.6-6.3-1.7C0.7,28,0,26.8,0,25.3c0-0.7,0.2-1.5,0.7-2.4c0.4-0.9,1.3-1.7,2.4-2.3
+	c1.3-0.7,2.7-1.2,4.1-1.4c1.4-0.2,2.6-0.3,3.6-0.3c-0.3-0.4-0.6-0.8-0.8-1.2c-0.3-0.4-0.4-0.9-0.4-1.5c0-0.3,0.1-0.6,0.2-0.9
+	c0.1-0.2,0.2-0.5,0.2-0.7c-0.5,0.1-0.9,0.1-1.3,0.1c-2.2,0-3.8-0.7-4.9-2C2.6,11.5,2,10.1,2,8.5c0-1.9,0.8-3.7,2.5-5.2
+	c1.1-0.9,2.3-1.5,3.6-1.8c1.2-0.2,2.4-0.4,3.5-0.4h8.1l-2.5,1.4H14.7z M16.2,25c0-1-0.3-1.9-1-2.6c-0.7-0.7-1.8-1.6-3.3-2.6
+	c-0.3,0-0.6,0-0.9,0c-0.2,0-0.7,0-1.6,0.1c-0.8,0.1-1.7,0.3-2.6,0.6c-0.2,0.1-0.5,0.2-0.9,0.3c-0.4,0.2-0.8,0.4-1.1,0.7
+	c-0.4,0.3-0.7,0.7-0.9,1.2c-0.3,0.5-0.4,1.1-0.4,1.8c0,1.4,0.6,2.5,1.9,3.4c1.2,0.9,2.9,1.3,5,1.4c1.9,0,3.4-0.4,4.4-1.2
+	C15.7,27.2,16.2,26.2,16.2,25z M10.6,13.6c1.1,0,2-0.4,2.7-1.1c0.3-0.5,0.6-1,0.7-1.5C14,10.4,14,10,14,9.6c0-1.5-0.4-3.1-1.2-4.7
+	c-0.4-0.8-0.9-1.4-1.5-1.8c-0.6-0.4-1.4-0.7-2.2-0.7c-1.1,0-2,0.5-2.7,1.3C5.7,4.6,5.4,5.5,5.4,6.6C5.4,8,5.9,9.5,6.7,11
+	c0.4,0.7,0.9,1.3,1.6,1.8C9,13.3,9.7,13.6,10.6,13.6z" fill="currentColor"></path>
+  <path d="M32,15h-4v-4h-2v4h-4v2h4v4h2v-4h4V15z" fill="currentColor"></path>
+</symbol><symbol id="icons-image-placeholder" viewBox="0 0 48.141 48.14">
+<rect x="12.599" y="12.474" style="fill:none;stroke:#5A00FF;" width="16.436" height="16.436"></rect>
+<polyline style="fill:none;stroke:#5A00FF;" points="19.105,30.353 19.105,35.665 35.541,35.665 35.541,19.229 30.297,19.229 "></polyline>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="48.141" height="48.14"></rect>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_" style="overflow:visible;"></use>
+	</clipPath>
+	<circle style="clip-path:url(#SVGID_2_);fill:none;stroke:#5A00FF;" cx="24.07" cy="24.07" r="23.57"></circle>
+</g>
+</symbol><symbol id="icons-pinterest-logo" viewBox="0 0 32 32">
+  <path d="M16,0C7.164,0,0,7.164,0,16c0,8.837,7.164,16,16,16s16-7.162,16-16C32,7.164,24.836,0,16,0z
+	 M17.652,19.562c-0.992,0-1.926-0.535-2.245-1.145c0,0-0.534,2.117-0.646,2.525c-0.398,1.445-1.569,2.891-1.659,3.008
+	c-0.063,0.082-0.204,0.057-0.219-0.053c-0.025-0.184-0.324-2.006,0.027-3.492c0.177-0.746,1.183-5.007,1.183-5.007
+	s-0.294-0.586-0.294-1.453c0-1.363,0.79-2.379,1.773-2.379c0.836,0,1.238,0.627,1.238,1.379c0,0.84-0.534,2.098-0.811,3.262
+	c-0.23,0.974,0.488,1.769,1.45,1.769c1.741,0,2.914-2.236,2.914-4.886c0-2.014-1.356-3.521-3.824-3.521
+	c-2.787,0-4.524,2.08-4.524,4.402c0,0.801,0.236,1.365,0.606,1.801c0.17,0.201,0.193,0.283,0.132,0.514
+	c-0.045,0.168-0.145,0.576-0.188,0.736c-0.061,0.234-0.25,0.316-0.46,0.23c-1.284-0.523-1.882-1.929-1.882-3.511
+	c0-2.609,2.201-5.74,6.568-5.74c3.509,0,5.818,2.539,5.818,5.266C22.611,16.869,20.606,19.562,17.652,19.562z" fill="currentColor"></path>
+</symbol><symbol id="icons-share" viewBox="0 0 46.862 51.512">
+  <path d="M44.958,6.594c-6.293,2.085-22.043,5.502-22.043,26.502" style="fill:none;stroke:currentColor;stroke-width:3;"></path>
+  <polyline points="41.331,17.513 45.028,6.325 34.915,1.346 " style="fill:none;stroke:currentColor;stroke-width:3;"></polyline>
+  <polyline points="17.973,6.764 1.5,6.764 1.5,50.012 44.747,50.012
+	44.747,27.764 " style="fill:none;stroke:currentColor;stroke-width:3;"></polyline>
+</symbol><symbol id="icons-small-square" viewBox="0 0 60.029 35.334">
+<rect x="1.5" y="1.5" style="fill:none;stroke:currentColor;stroke-width:3;" width="57.029" height="32.334"></rect>
+</symbol><symbol id="icons-square" viewBox="0 0 103.842 60.175">
+<rect x="1.5" y="1.5" style="fill:none;stroke:currentColor;stroke-width:3;" width="100.842" height="57.175"></rect>
+</symbol><symbol id="icons-timetoast-logo-large-2" viewBox="0 0 122.015 131.118">
+  <rect fill="currentColor" height="8.166" width="41.116" x="80.898" y="10.68"></rect>
+  <rect fill="currentColor" height="8.168" width="41.116" x="80.898" y="21.357"></rect>
+  <rect fill="currentColor" height="8.17" width="41.116" x="80.898"></rect>
+  <rect fill="currentColor" height="131.118" width="14.109" x="45.35"></rect>
+  <rect fill="currentColor" height="29.496" width="5.281" x="17.849" y="0.121"></rect>
+  <rect fill="currentColor" height="29.496" width="5.274" x="26.778" y="0.121"></rect>
+  <rect fill="currentColor" height="29.496" width="5.277" y="0.121"></rect>
+  <rect fill="currentColor" height="29.496" width="5.276" x="8.925" y="0.121"></rect>
+  <rect fill="currentColor" height="29.496" width="5.278" x="35.7" y="0.121"></rect>
+  <g>
+    <g>
+      <path d="M65.155,2.83c-0.746,0-1.35-0.604-1.35-1.35s0.604-1.359,1.35-1.359s1.35,0.595,1.35,1.341V1.48
+			C66.505,2.227,65.901,2.83,65.155,2.83z" fill="currentColor"></path>
+      <g>
+        <path d="M65.155,116.298c-0.746,0-1.35-0.604-1.35-1.35s0.604-1.369,1.35-1.369s1.35,0.586,1.35,1.332v0.037
+				C66.505,115.694,65.901,116.298,65.155,116.298z M65.155,111.142c-0.746,0-1.35-0.605-1.35-1.35c0-0.746,0.604-1.369,1.35-1.369
+				s1.35,0.586,1.35,1.332v0.037C66.505,110.536,65.901,111.142,65.155,111.142z M65.155,105.983c-0.746,0-1.35-0.604-1.35-1.35
+				s0.604-1.369,1.35-1.369s1.35,0.586,1.35,1.332v0.037C66.505,105.38,65.901,105.983,65.155,105.983z M65.155,100.825
+				c-0.746,0-1.35-0.604-1.35-1.35s0.604-1.369,1.35-1.369s1.35,0.586,1.35,1.332v0.037
+				C66.505,100.222,65.901,100.825,65.155,100.825z M65.155,95.667c-0.746,0-1.35-0.604-1.35-1.35s0.604-1.369,1.35-1.369
+				s1.35,0.588,1.35,1.332v0.037C66.505,95.063,65.901,95.667,65.155,95.667z M65.155,90.511c-0.746,0-1.35-0.605-1.35-1.352
+				c0-0.744,0.604-1.367,1.35-1.367s1.35,0.586,1.35,1.332v0.035C66.505,89.905,65.901,90.511,65.155,90.511z M65.155,85.353
+				c-0.746,0-1.35-0.605-1.35-1.35c0-0.746,0.604-1.369,1.35-1.369s1.35,0.586,1.35,1.332v0.037
+				C66.505,84.747,65.901,85.353,65.155,85.353z M65.155,80.194c-0.746,0-1.35-0.604-1.35-1.35s0.604-1.369,1.35-1.369
+				s1.35,0.588,1.35,1.332v0.037C66.505,79.591,65.901,80.194,65.155,80.194z M65.155,75.036c-0.746,0-1.35-0.604-1.35-1.35
+				s0.604-1.367,1.35-1.367s1.35,0.586,1.35,1.332v0.035C66.505,74.433,65.901,75.036,65.155,75.036z M65.155,69.88
+				c-0.746,0-1.35-0.605-1.35-1.35c0-0.746,0.604-1.369,1.35-1.369s1.35,0.586,1.35,1.332v0.037
+				C66.505,69.274,65.901,69.88,65.155,69.88z M65.155,64.722c-0.746,0-1.35-0.604-1.35-1.35c0-0.746,0.604-1.369,1.35-1.369
+				s1.35,0.586,1.35,1.332v0.037C66.505,64.117,65.901,64.722,65.155,64.722z M65.155,59.563c-0.746,0-1.35-0.604-1.35-1.35
+				s0.604-1.368,1.35-1.368s1.35,0.586,1.35,1.332v0.036C66.505,58.96,65.901,59.563,65.155,59.563z M65.155,54.406
+				c-0.746,0-1.35-0.604-1.35-1.351c0-0.745,0.604-1.367,1.35-1.367s1.35,0.586,1.35,1.331v0.036
+				C66.505,53.802,65.901,54.406,65.155,54.406z M65.155,49.249c-0.746,0-1.35-0.604-1.35-1.35c0-0.746,0.604-1.369,1.35-1.369
+				s1.35,0.586,1.35,1.332v0.037C66.505,48.645,65.901,49.249,65.155,49.249z M65.155,44.091c-0.746,0-1.35-0.604-1.35-1.35
+				s0.604-1.369,1.35-1.369s1.35,0.586,1.35,1.332v0.037C66.505,43.487,65.901,44.091,65.155,44.091z M65.155,38.934
+				c-0.746,0-1.35-0.604-1.35-1.351c0-0.745,0.604-1.368,1.35-1.368s1.35,0.587,1.35,1.332v0.036
+				C66.505,38.329,65.901,38.934,65.155,38.934z M65.155,33.775c-0.746,0-1.35-0.604-1.35-1.35s0.604-1.368,1.35-1.368
+				s1.35,0.586,1.35,1.331v0.037C66.505,33.172,65.901,33.775,65.155,33.775z M65.155,28.618c-0.746,0-1.35-0.604-1.35-1.351
+				c0-0.745,0.604-1.367,1.35-1.367s1.35,0.586,1.35,1.331v0.036C66.505,28.014,65.901,28.618,65.155,28.618z M65.155,23.461
+				c-0.746,0-1.35-0.605-1.35-1.351s0.604-1.368,1.35-1.368s1.35,0.586,1.35,1.332v0.036C66.505,22.855,65.901,23.461,65.155,23.461
+				z M65.155,18.303c-0.746,0-1.35-0.604-1.35-1.35s0.604-1.369,1.35-1.369s1.35,0.586,1.35,1.332v0.037
+				C66.505,17.699,65.901,18.303,65.155,18.303z M65.155,13.146c-0.746,0-1.35-0.604-1.35-1.351c0-0.745,0.604-1.368,1.35-1.368
+				s1.35,0.586,1.35,1.331v0.037C66.505,12.541,65.901,13.146,65.155,13.146z M65.155,7.988c-0.746,0-1.35-0.605-1.35-1.351
+				c0-0.746,0.604-1.368,1.35-1.368s1.35,0.586,1.35,1.332v0.036C66.505,7.383,65.901,7.988,65.155,7.988z" fill="currentColor"></path>
+        <path d="M65.155,121.438c-0.746,0-1.35-0.604-1.35-1.35s0.604-1.359,1.35-1.359s1.35,0.594,1.35,1.34v0.02
+				C66.505,120.835,65.901,121.438,65.155,121.438z" fill="currentColor"></path>
+        <path d="M65.155,126.267c-0.746,0-1.35-0.604-1.35-1.35s0.604-1.359,1.35-1.359s1.35,0.596,1.35,1.342v0.018
+				C66.505,125.663,65.901,126.267,65.155,126.267z" fill="currentColor"></path>
+        <path d="M65.155,131.118c-0.746,0-1.35-0.604-1.35-1.35s0.604-1.359,1.35-1.359s1.35,0.596,1.35,1.342v0.018
+				C66.505,130.515,65.901,131.118,65.155,131.118z" fill="currentColor"></path>
+      </g>
+    </g>
+    <g>
+      <path d="M70.369,2.83c-0.745,0-1.351-0.604-1.351-1.35s0.605-1.359,1.351-1.359s1.351,0.595,1.351,1.341V1.48
+			C71.72,2.227,71.114,2.83,70.369,2.83z" fill="currentColor"></path>
+      <g>
+        <path d="M70.369,116.298c-0.745,0-1.351-0.604-1.351-1.35s0.605-1.369,1.351-1.369s1.351,0.586,1.351,1.332v0.037
+				C71.72,115.694,71.114,116.298,70.369,116.298z M70.369,111.142c-0.745,0-1.351-0.605-1.351-1.35
+				c0-0.746,0.605-1.369,1.351-1.369s1.351,0.586,1.351,1.332v0.037C71.72,110.536,71.114,111.142,70.369,111.142z M70.369,105.983
+				c-0.745,0-1.351-0.604-1.351-1.35s0.605-1.369,1.351-1.369s1.351,0.586,1.351,1.332v0.037
+				C71.72,105.38,71.114,105.983,70.369,105.983z M70.369,100.825c-0.745,0-1.351-0.604-1.351-1.35s0.605-1.369,1.351-1.369
+				s1.351,0.586,1.351,1.332v0.037C71.72,100.222,71.114,100.825,70.369,100.825z M70.369,95.667c-0.745,0-1.351-0.604-1.351-1.35
+				s0.605-1.369,1.351-1.369s1.351,0.588,1.351,1.332v0.037C71.72,95.063,71.114,95.667,70.369,95.667z M70.369,90.511
+				c-0.745,0-1.351-0.605-1.351-1.352c0-0.744,0.605-1.367,1.351-1.367s1.351,0.586,1.351,1.332v0.035
+				C71.72,89.905,71.114,90.511,70.369,90.511z M70.369,85.353c-0.745,0-1.351-0.605-1.351-1.35c0-0.746,0.605-1.369,1.351-1.369
+				s1.351,0.586,1.351,1.332v0.037C71.72,84.747,71.114,85.353,70.369,85.353z M70.369,80.194c-0.745,0-1.351-0.604-1.351-1.35
+				s0.605-1.369,1.351-1.369s1.351,0.588,1.351,1.332v0.037C71.72,79.591,71.114,80.194,70.369,80.194z M70.369,75.036
+				c-0.745,0-1.351-0.604-1.351-1.35s0.605-1.367,1.351-1.367s1.351,0.586,1.351,1.332v0.035
+				C71.72,74.433,71.114,75.036,70.369,75.036z M70.369,69.88c-0.745,0-1.351-0.605-1.351-1.35c0-0.746,0.605-1.369,1.351-1.369
+				s1.351,0.586,1.351,1.332v0.037C71.72,69.274,71.114,69.88,70.369,69.88z M70.369,64.722c-0.745,0-1.351-0.604-1.351-1.35
+				c0-0.746,0.605-1.369,1.351-1.369s1.351,0.586,1.351,1.332v0.037C71.72,64.117,71.114,64.722,70.369,64.722z M70.369,59.563
+				c-0.745,0-1.351-0.604-1.351-1.35s0.605-1.368,1.351-1.368s1.351,0.586,1.351,1.332v0.036
+				C71.72,58.96,71.114,59.563,70.369,59.563z M70.369,54.406c-0.745,0-1.351-0.604-1.351-1.351c0-0.745,0.605-1.367,1.351-1.367
+				s1.351,0.586,1.351,1.331v0.036C71.72,53.802,71.114,54.406,70.369,54.406z M70.369,49.249c-0.745,0-1.351-0.604-1.351-1.35
+				c0-0.746,0.605-1.369,1.351-1.369s1.351,0.586,1.351,1.332v0.037C71.72,48.645,71.114,49.249,70.369,49.249z M70.369,44.091
+				c-0.745,0-1.351-0.604-1.351-1.35s0.605-1.369,1.351-1.369s1.351,0.586,1.351,1.332v0.037
+				C71.72,43.487,71.114,44.091,70.369,44.091z M70.369,38.934c-0.745,0-1.351-0.604-1.351-1.351c0-0.745,0.605-1.368,1.351-1.368
+				s1.351,0.587,1.351,1.332v0.036C71.72,38.329,71.114,38.934,70.369,38.934z M70.369,33.775c-0.745,0-1.351-0.604-1.351-1.35
+				s0.605-1.368,1.351-1.368s1.351,0.586,1.351,1.331v0.037C71.72,33.172,71.114,33.775,70.369,33.775z M70.369,28.618
+				c-0.745,0-1.351-0.604-1.351-1.351c0-0.745,0.605-1.367,1.351-1.367s1.351,0.586,1.351,1.331v0.036
+				C71.72,28.014,71.114,28.618,70.369,28.618z M70.369,23.461c-0.745,0-1.351-0.605-1.351-1.351s0.605-1.368,1.351-1.368
+				s1.351,0.586,1.351,1.332v0.036C71.72,22.855,71.114,23.461,70.369,23.461z M70.369,18.303c-0.745,0-1.351-0.604-1.351-1.35
+				s0.605-1.369,1.351-1.369s1.351,0.586,1.351,1.332v0.037C71.72,17.699,71.114,18.303,70.369,18.303z M70.369,13.146
+				c-0.745,0-1.351-0.604-1.351-1.351c0-0.745,0.605-1.368,1.351-1.368s1.351,0.586,1.351,1.331v0.037
+				C71.72,12.541,71.114,13.146,70.369,13.146z M70.369,7.988c-0.745,0-1.351-0.605-1.351-1.351c0-0.746,0.605-1.368,1.351-1.368
+				s1.351,0.586,1.351,1.332v0.036C71.72,7.383,71.114,7.988,70.369,7.988z" fill="currentColor"></path>
+        <path d="M70.369,121.438c-0.745,0-1.351-0.604-1.351-1.35s0.605-1.359,1.351-1.359s1.351,0.594,1.351,1.34v0.02
+				C71.72,120.835,71.114,121.438,70.369,121.438z" fill="currentColor"></path>
+        <path d="M70.369,126.267c-0.745,0-1.351-0.604-1.351-1.35s0.605-1.359,1.351-1.359s1.351,0.596,1.351,1.342v0.018
+				C71.72,125.663,71.114,126.267,70.369,126.267z" fill="currentColor"></path>
+        <path d="M70.369,131.118c-0.745,0-1.351-0.604-1.351-1.35s0.605-1.359,1.351-1.359s1.351,0.596,1.351,1.342v0.018
+				C71.72,130.515,71.114,131.118,70.369,131.118z" fill="currentColor"></path>
+      </g>
+    </g>
+    <g>
+      <path d="M75.583,2.83c-0.746,0-1.35-0.604-1.35-1.35s0.604-1.359,1.35-1.359s1.35,0.595,1.35,1.341V1.48
+			C76.933,2.227,76.329,2.83,75.583,2.83z" fill="currentColor"></path>
+      <g>
+        <path d="M75.583,116.298c-0.746,0-1.35-0.604-1.35-1.35s0.604-1.369,1.35-1.369s1.35,0.586,1.35,1.332v0.037
+				C76.933,115.694,76.329,116.298,75.583,116.298z M75.583,111.142c-0.746,0-1.35-0.605-1.35-1.35c0-0.746,0.604-1.369,1.35-1.369
+				s1.35,0.586,1.35,1.332v0.037C76.933,110.536,76.329,111.142,75.583,111.142z M75.583,105.983c-0.746,0-1.35-0.604-1.35-1.35
+				s0.604-1.369,1.35-1.369s1.35,0.586,1.35,1.332v0.037C76.933,105.38,76.329,105.983,75.583,105.983z M75.583,100.825
+				c-0.746,0-1.35-0.604-1.35-1.35s0.604-1.369,1.35-1.369s1.35,0.586,1.35,1.332v0.037
+				C76.933,100.222,76.329,100.825,75.583,100.825z M75.583,95.667c-0.746,0-1.35-0.604-1.35-1.35s0.604-1.369,1.35-1.369
+				s1.35,0.588,1.35,1.332v0.037C76.933,95.063,76.329,95.667,75.583,95.667z M75.583,90.511c-0.746,0-1.35-0.605-1.35-1.352
+				c0-0.744,0.604-1.367,1.35-1.367s1.35,0.586,1.35,1.332v0.035C76.933,89.905,76.329,90.511,75.583,90.511z M75.583,85.353
+				c-0.746,0-1.35-0.605-1.35-1.35c0-0.746,0.604-1.369,1.35-1.369s1.35,0.586,1.35,1.332v0.037
+				C76.933,84.747,76.329,85.353,75.583,85.353z M75.583,80.194c-0.746,0-1.35-0.604-1.35-1.35s0.604-1.369,1.35-1.369
+				s1.35,0.588,1.35,1.332v0.037C76.933,79.591,76.329,80.194,75.583,80.194z M75.583,75.036c-0.746,0-1.35-0.604-1.35-1.35
+				s0.604-1.367,1.35-1.367s1.35,0.586,1.35,1.332v0.035C76.933,74.433,76.329,75.036,75.583,75.036z M75.583,69.88
+				c-0.746,0-1.35-0.605-1.35-1.35c0-0.746,0.604-1.369,1.35-1.369s1.35,0.586,1.35,1.332v0.037
+				C76.933,69.274,76.329,69.88,75.583,69.88z M75.583,64.722c-0.746,0-1.35-0.604-1.35-1.35c0-0.746,0.604-1.369,1.35-1.369
+				s1.35,0.586,1.35,1.332v0.037C76.933,64.117,76.329,64.722,75.583,64.722z M75.583,59.563c-0.746,0-1.35-0.604-1.35-1.35
+				s0.604-1.368,1.35-1.368s1.35,0.586,1.35,1.332v0.036C76.933,58.96,76.329,59.563,75.583,59.563z M75.583,54.406
+				c-0.746,0-1.35-0.604-1.35-1.351c0-0.745,0.604-1.367,1.35-1.367s1.35,0.586,1.35,1.331v0.036
+				C76.933,53.802,76.329,54.406,75.583,54.406z M75.583,49.249c-0.746,0-1.35-0.604-1.35-1.35c0-0.746,0.604-1.369,1.35-1.369
+				s1.35,0.586,1.35,1.332v0.037C76.933,48.645,76.329,49.249,75.583,49.249z M75.583,44.091c-0.746,0-1.35-0.604-1.35-1.35
+				s0.604-1.369,1.35-1.369s1.35,0.586,1.35,1.332v0.037C76.933,43.487,76.329,44.091,75.583,44.091z M75.583,38.934
+				c-0.746,0-1.35-0.604-1.35-1.351c0-0.745,0.604-1.368,1.35-1.368s1.35,0.587,1.35,1.332v0.036
+				C76.933,38.329,76.329,38.934,75.583,38.934z M75.583,33.775c-0.746,0-1.35-0.604-1.35-1.35s0.604-1.368,1.35-1.368
+				s1.35,0.586,1.35,1.331v0.037C76.933,33.172,76.329,33.775,75.583,33.775z M75.583,28.618c-0.746,0-1.35-0.604-1.35-1.351
+				c0-0.745,0.604-1.367,1.35-1.367s1.35,0.586,1.35,1.331v0.036C76.933,28.014,76.329,28.618,75.583,28.618z M75.583,23.461
+				c-0.746,0-1.35-0.605-1.35-1.351s0.604-1.368,1.35-1.368s1.35,0.586,1.35,1.332v0.036C76.933,22.855,76.329,23.461,75.583,23.461
+				z M75.583,18.303c-0.746,0-1.35-0.604-1.35-1.35s0.604-1.369,1.35-1.369s1.35,0.586,1.35,1.332v0.037
+				C76.933,17.699,76.329,18.303,75.583,18.303z M75.583,13.146c-0.746,0-1.35-0.604-1.35-1.351c0-0.745,0.604-1.368,1.35-1.368
+				s1.35,0.586,1.35,1.331v0.037C76.933,12.541,76.329,13.146,75.583,13.146z M75.583,7.988c-0.746,0-1.35-0.605-1.35-1.351
+				c0-0.746,0.604-1.368,1.35-1.368s1.35,0.586,1.35,1.332v0.036C76.933,7.383,76.329,7.988,75.583,7.988z" fill="currentColor"></path>
+        <path d="M75.583,121.438c-0.746,0-1.35-0.604-1.35-1.35s0.604-1.359,1.35-1.359s1.35,0.594,1.35,1.34v0.02
+				C76.933,120.835,76.329,121.438,75.583,121.438z" fill="currentColor"></path>
+        <path d="M75.583,126.267c-0.746,0-1.35-0.604-1.35-1.35s0.604-1.359,1.35-1.359s1.35,0.596,1.35,1.342v0.018
+				C76.933,125.663,76.329,126.267,75.583,126.267z" fill="currentColor"></path>
+        <path d="M75.583,131.118c-0.746,0-1.35-0.604-1.35-1.35s0.604-1.359,1.35-1.359s1.35,0.596,1.35,1.342v0.018
+				C76.933,130.515,76.329,131.118,75.583,131.118z" fill="currentColor"></path>
+      </g>
+    </g>
+  </g>
+</symbol><symbol id="icons-timetoast-logo-large" viewBox="0 0 119.091 130.779">
+  <rect fill="currentColor" height="12.467" width="40.654"></rect>
+  <rect fill="currentColor" height="12.467" width="40.654" y="16.07"></rect>
+  <polygon fill="currentColor" points="119.09,3.767 119.09,0.1 80.418,0.1 80.42,18.71 80.42,22.377 80.42,28.58 119.091,28.58
+	119.091,3.767 "></polygon>
+  <rect fill="currentColor" height="3.667" width="15.131" x="61.874" y="12.801"></rect>
+  <rect fill="currentColor" height="3.667" width="15.131" x="61.874" y="6.45"></rect>
+  <rect fill="currentColor" height="3.667" width="15.131" x="61.874" y="25.502"></rect>
+  <rect fill="currentColor" height="3.668" width="15.131" x="61.874" y="19.15"></rect>
+  <rect fill="currentColor" height="3.666" width="15.131" x="61.874" y="0.1"></rect>
+  <rect fill="currentColor" height="3.669" width="15.131" x="61.874" y="44.553"></rect>
+  <rect fill="currentColor" height="3.667" width="15.131" x="61.874" y="38.203"></rect>
+  <rect fill="currentColor" height="3.666" width="15.131" x="61.874" y="57.256"></rect>
+  <rect fill="currentColor" height="3.667" width="15.131" x="61.874" y="50.904"></rect>
+  <rect fill="currentColor" height="3.666" width="15.131" x="61.874" y="31.854"></rect>
+  <rect fill="currentColor" height="3.668" width="15.131" x="61.874" y="76.306"></rect>
+  <rect fill="currentColor" height="3.666" width="15.131" x="61.874" y="69.957"></rect>
+  <rect fill="currentColor" height="3.668" width="15.131" x="61.874" y="89.007"></rect>
+  <rect fill="currentColor" height="3.668" width="15.131" x="61.874" y="82.658"></rect>
+  <rect fill="currentColor" height="3.665" width="15.131" x="61.874" y="63.606"></rect>
+  <rect fill="currentColor" height="3.668" width="15.131" x="61.874" y="108.06"></rect>
+  <rect fill="currentColor" height="3.666" width="15.131" x="61.874" y="101.71"></rect>
+  <rect fill="currentColor" height="3.666" width="15.131" x="61.874" y="120.761"></rect>
+  <rect fill="currentColor" height="3.666" width="15.131" x="61.874" y="127.113"></rect>
+  <rect fill="currentColor" height="3.668" width="15.131" x="61.874" y="114.412"></rect>
+  <rect fill="currentColor" height="3.668" width="15.131" x="61.874" y="95.359"></rect>
+  <rect fill="currentColor" height="130.47" width="14.361" x="44.146"></rect>
+</symbol><symbol id="icons-timetoast-logo-round" viewBox="0 0 102.053 102.055">
+  <circle cx="51.026" cy="51.027" r="51.026"></circle>
+  <g>
+    <g>
+      <rect fill="currentColor" height="55.311" width="6.103" x="43.233" y="28.207"></rect>
+      <rect fill="currentColor" height="5.199" width="17.653" x="22.149" y="36.838"></rect>
+      <rect fill="currentColor" height="55.303" width="6.077" x="52.768" y="28.193"></rect>
+      <rect fill="currentColor" height="5.197" width="17.653" x="22.149" y="28.207"></rect>
+      <rect fill="currentColor" height="5.199" width="17.652" x="62.251" y="36.838"></rect>
+      <rect fill="currentColor" height="5.197" width="17.652" x="62.251" y="28.207"></rect>
+    </g>
+  </g>
+</symbol><symbol id="icons-timetoast-logo-square" viewBox="0 0 53.1 53.1">
+  <rect fill="currentColor" height="38.158" width="4.21" x="21.174" y="8.198"></rect>
+  <rect fill="currentColor" height="3.587" width="12.179" x="6.628" y="14.152"></rect>
+  <rect fill="currentColor" height="38.153" width="4.192" x="27.751" y="8.189"></rect>
+  <rect fill="currentColor" height="3.587" width="12.179" x="6.628" y="8.198"></rect>
+  <rect fill="currentColor" height="3.587" width="12.18" x="34.293" y="14.152"></rect>
+  <rect fill="currentColor" height="3.587" width="12.18" x="34.293" y="8.198"></rect>
+</symbol><symbol id="icons-timetoast-logo" viewBox="0 0 91.639 87.783">
+  <g>
+    <g>
+      <rect fill="currentColor" height="87.762" width="9.683" x="33.454" y="0.021"></rect>
+      <rect fill="currentColor" height="8.25" width="28.01" y="13.717"></rect>
+      <rect fill="currentColor" height="87.75" width="9.644" x="48.581"></rect>
+      <rect fill="currentColor" height="8.248" width="28.01" y="0.021"></rect>
+      <rect fill="currentColor" height="8.25" width="28.011" x="63.628" y="13.717"></rect>
+      <rect fill="currentColor" height="8.248" width="28.011" x="63.628" y="0.021"></rect>
+    </g>
+  </g>
+</symbol><symbol id="icons-timetoast-logotype-text-only" viewBox="0 0 152.43 16.028">
+  <g>
+    <path d="M8.152,3.604v12.099H4.727V3.604H0V0.33h12.901v3.274H8.152z" style="fill:currentColor;"></path>
+    <path d="M18.673,15.703V0.33h3.469v15.373H18.673z" style="fill:currentColor;"></path>
+    <path d="M43.2,15.703V5.513l-4.012,10.19h-2.775L32.402,5.643v10.061h-3.252V0.33h4.467l4.228,10.386
+		L41.855,0.33h4.706v15.373H43.2z" style="fill:currentColor;"></path>
+    <path d="M53.593,15.703V0.33h9.736v3.23h-6.31v2.928h5.725v3.014h-5.725v2.949h6.332v3.252H53.593z" style="fill:currentColor;"></path>
+    <path d="M80.878,2.299h-5.14v13.404h-2.125V2.299h-5.141V0.325h12.406V2.299z" style="fill:currentColor;"></path>
+    <path d="M85.216,8.004c0-1.244,0.22-2.379,0.661-3.405c0.44-1.027,1.026-1.869,1.757-2.527
+		c0.73-0.657,1.551-1.167,2.461-1.529C91.007,0.181,91.954,0,92.937,0s1.931,0.181,2.842,0.542c0.91,0.362,1.73,0.872,2.461,1.529
+		c0.73,0.658,1.316,1.5,1.758,2.527c0.44,1.026,0.661,2.161,0.661,3.405c0,1.647-0.38,3.094-1.139,4.337
+		c-0.759,1.244-1.718,2.169-2.874,2.776c-1.157,0.607-2.393,0.911-3.709,0.911s-2.553-0.304-3.709-0.911s-2.114-1.532-2.873-2.776
+		C85.595,11.098,85.216,9.651,85.216,8.004z M89.011,3.546c-1.084,1.063-1.627,2.549-1.627,4.458c0,1.908,0.543,3.397,1.627,4.468
+		s2.393,1.604,3.926,1.604s2.842-0.534,3.926-1.604s1.627-2.56,1.627-4.468c0-1.909-0.543-3.395-1.627-4.458
+		c-1.084-1.062-2.393-1.594-3.926-1.594S90.095,2.483,89.011,3.546z" style="fill:currentColor;"></path>
+    <path d="M117.381,15.703l-1.671-4.295h-6.81l-1.627,4.295h-2.277l6.116-15.378h2.451l6.116,15.378H117.381z
+		 M112.285,2.538l-2.625,6.896h5.293L112.285,2.538z" style="fill:currentColor;"></path>
+    <path d="M135.123,3.817l-1.908,0.673c-0.102-0.665-0.427-1.27-0.977-1.812
+		c-0.549-0.542-1.309-0.813-2.277-0.813c-0.854,0-1.562,0.246-2.125,0.737c-0.564,0.492-0.846,1.1-0.846,1.822
+		c0,0.563,0.17,1.041,0.51,1.432c0.339,0.391,0.827,0.658,1.463,0.803l2.3,0.498c1.272,0.275,2.255,0.792,2.95,1.551
+		c0.693,0.76,1.041,1.682,1.041,2.766c0,1.244-0.492,2.313-1.476,3.21s-2.263,1.345-3.839,1.345c-1.721,0-3.068-0.451-4.045-1.355
+		c-0.977-0.903-1.544-1.978-1.703-3.221l2.039-0.65c0.087,0.925,0.448,1.706,1.084,2.342c0.637,0.637,1.504,0.954,2.604,0.954
+		c1.012,0,1.793-0.23,2.342-0.693c0.55-0.463,0.824-1.049,0.824-1.757c0-0.578-0.195-1.081-0.585-1.508
+		c-0.391-0.426-0.962-0.719-1.714-0.878l-2.19-0.478c-1.143-0.246-2.054-0.729-2.733-1.453c-0.68-0.723-1.019-1.641-1.019-2.755
+		c0-1.214,0.495-2.28,1.485-3.199c0.99-0.918,2.188-1.377,3.59-1.377c1.576,0,2.783,0.384,3.622,1.149
+		C134.378,1.916,134.906,2.806,135.123,3.817z" style="fill:currentColor;"></path>
+    <path d="M152.43,2.299h-5.14v13.404h-2.126V2.299h-5.141V0.325h12.406V2.299z" style="fill:currentColor;"></path>
+  </g>
+</symbol><symbol id="icons-timetoast-logotype" viewBox="0 0 156.746 41.892">
+  <g>
+    <path d="M8.564,22.813v12.099H5.139V22.813H0.412v-3.274h12.901v3.274H8.564z" style="fill:#232020;"></path>
+    <path d="M19.085,34.912V19.539h3.469v15.373H19.085z" style="fill:#232020;"></path>
+    <path d="M43.612,34.912v-10.19l-4.012,10.19h-2.775l-4.011-10.061v10.061h-3.252V19.539h4.467l4.228,10.386
+		l4.011-10.386h4.705v15.373H43.612z" style="fill:#232020;"></path>
+    <path d="M54.005,34.912V19.539h9.736v3.23h-6.31v2.928h5.725v3.014h-5.725v2.949h6.332v3.252H54.005z" style="fill:#232020;"></path>
+    <path d="M81.29,21.508h-5.14v13.404h-2.125V21.508h-5.141v-1.974H81.29V21.508z" style="fill:#232020;"></path>
+    <path d="M85.628,27.213c0-1.244,0.22-2.379,0.661-3.405c0.441-1.027,1.027-1.869,1.758-2.527
+		c0.729-0.657,1.551-1.167,2.461-1.529c0.911-0.361,1.857-0.542,2.842-0.542c0.982,0,1.93,0.181,2.841,0.542
+		c0.911,0.362,1.731,0.872,2.462,1.529c0.73,0.658,1.315,1.5,1.757,2.527c0.44,1.026,0.661,2.161,0.661,3.405
+		c0,1.647-0.379,3.094-1.139,4.337c-0.759,1.244-1.717,2.169-2.873,2.776c-1.158,0.607-2.394,0.911-3.709,0.911
+		c-1.316,0-2.553-0.304-3.709-0.911c-1.157-0.607-2.115-1.532-2.874-2.776C86.008,30.307,85.628,28.86,85.628,27.213z
+		 M89.424,22.755c-1.085,1.063-1.627,2.549-1.627,4.458c0,1.908,0.542,3.397,1.627,4.468c1.084,1.07,2.393,1.604,3.926,1.604
+		c1.532,0,2.841-0.534,3.926-1.604c1.084-1.07,1.627-2.56,1.627-4.468c0-1.909-0.543-3.395-1.627-4.458
+		c-1.085-1.062-2.394-1.594-3.926-1.594C91.816,21.161,90.508,21.692,89.424,22.755z" style="fill:#232020;"></path>
+    <path d="M117.793,34.912l-1.67-4.295h-6.811l-1.627,4.295h-2.277l6.117-15.378h2.451l6.115,15.378H117.793z
+		 M112.696,21.747l-2.624,6.896h5.292L112.696,21.747z" style="fill:#232020;"></path>
+    <path d="M135.535,23.026l-1.909,0.673c-0.101-0.665-0.427-1.27-0.976-1.812
+		c-0.55-0.542-1.309-0.813-2.277-0.813c-0.854,0-1.562,0.246-2.126,0.737c-0.563,0.492-0.846,1.1-0.846,1.822
+		c0,0.563,0.17,1.041,0.51,1.432c0.339,0.391,0.827,0.658,1.464,0.803l2.299,0.498c1.272,0.275,2.256,0.792,2.95,1.551
+		c0.694,0.76,1.041,1.682,1.041,2.766c0,1.244-0.491,2.313-1.476,3.21c-0.982,0.896-2.263,1.345-3.838,1.345
+		c-1.721,0-3.069-0.451-4.045-1.355c-0.977-0.903-1.545-1.978-1.703-3.221l2.039-0.65c0.086,0.925,0.447,1.706,1.084,2.342
+		c0.637,0.637,1.504,0.954,2.604,0.954c1.012,0,1.792-0.23,2.342-0.693c0.549-0.463,0.824-1.049,0.824-1.757
+		c0-0.578-0.195-1.081-0.586-1.508c-0.391-0.426-0.961-0.719-1.713-0.878l-2.191-0.478c-1.143-0.246-2.053-0.729-2.732-1.453
+		c-0.68-0.723-1.02-1.641-1.02-2.755c0-1.214,0.496-2.28,1.486-3.199c0.99-0.918,2.187-1.377,3.59-1.377
+		c1.575,0,2.783,0.384,3.621,1.149C134.79,21.125,135.318,22.015,135.535,23.026z" style="fill:#232020;"></path>
+    <path d="M152.842,21.508h-5.14v13.404h-2.126V21.508h-5.141v-1.974h12.406V21.508z" style="fill:#232020;"></path>
+  </g>
+  <rect height="7.076" style="fill:currentColor;" width="152.788" x="0"></rect>
+</symbol><symbol id="icons-twitter-logo" viewBox="0 0 32 32">
+  <path d="M32,6.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6C25.7,3.8,24,3,22.2,3
+	c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5C10.3,10.8,5.5,8.2,2.2,4.2c-0.6,1-0.9,2.1-0.9,3.3c0,2.3,1.2,4.3,2.9,5.5
+	c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1
+	c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1C2.9,27.9,6.4,29,10.1,29c12.1,0,18.7-10,18.7-18.7
+	c0-0.3,0-0.6,0-0.8C30,8.5,31.1,7.4,32,6.1z" fill="currentColor"></path>
+</symbol></svg>
 
 
 </body></html>
