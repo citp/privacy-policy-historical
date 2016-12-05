@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mivu.org privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517123205id_/http%3A//www.mivu.org/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mivu.org privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205014935id_/http%3A//www.mivu.org/Privacy-Policy) for the most accurate reproduction.*
 
 # Michigan Virtual University | MVU | Michigan Online Education > Privacy Policy
 
@@ -122,14 +122,13 @@ _MVU_ servers may be used for lawful purposes only. Transmission, storage, or di
 Violations of system or network security are prohibited and may result in criminal and civil liability. Examples include but are not limited to the following: unauthorized access, use, probing, or scanning of systems security or authentication measures, data, or traffic; interference with service to any user, host, or network including, without limitation, mail bombing, flooding, deliberate attempts to overload a system, broadcast attacks; forging of any TCP-IP packet header or any part of the header information in an email or a newsgroup posting.
 
 **Contact _Michigan Virtual University_**  
-If you have any questions about this privacy statement or the privacy practices of this website, please contact us electronically at [ **privacy at mivu dot org**](mailto:privacy@mivu.org) or write to us or call us.
+If you have any questions about this privacy statement or the privacy practices of this website, please contact us electronically at [**  Customer Care at mivu dot org**](mailto:customercare@mivu.org?subject=Customer%20Care%20at%20mivu%20dot%20org) or write to us or call us.
 
-   Vice President of Business Services  
-  _Michigan Virtual University_  
- 3101 Technology Blvd., Suite G  
- Lansing, MI 48910  
- 517.324.5350
+_Michigan Virtual University_  
+3101 Technology Blvd., Suite G  
+Lansing, MI 48910  
+888.532.5806
 
-In the event that you are concerned about how data you have provided to _MVU_ or one of its divisions through our sites and Services has been used, please contact us electronically at [ **privacy at mivu dot org**](mailto:privacy@mivu.org) or write to the postal address listed above.
+In the event that you are concerned about how data you have provided to _MVU_ or one of its divisions through our sites and services has been used, please contact us electronically at [ **Customer Care at mivu dot org**](mailto:customercare@mivu.org) or write to the postal address listed above.
 
-[Last Updated on 05/03/2016]
+[Last Updated on 05/25/2016]
