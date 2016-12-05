@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickheal.co.in privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608005607id_/http%3A//www.quickheal.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickheal.co.in privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205121028id_/http%3A//www.quickheal.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,4 +65,4 @@ Marvel Edge,Office No.7010 C & D,
 **Technical Assistance** | **:** | [ http://www.quickheal.co.in/submitticket](http://www.quickheal.co.in/submitticket)   
 **Privacy Policy for Quick Heal Mobile Products (Android)** | **:** | [ http://www.quickheal.co.in/mobile-products-android-privacy-policy](http://www.quickheal.co.in/mobile-products-android-privacy-policy)   
 **Privacy Policy for Quick Heal Mobile Products (iOS)** | **:** | [ http://www.quickheal.co.in/mobile-products-ios-privacy-policy](http://www.quickheal.co.in/mobile-products-ios-privacy-policy)   
-**Privacy Policy for Quick Heal Mobile Products (Windows)** | **:** | [ http://www.quickheal.co.in/mobile-products-windows-privacy-policy ](http://www.quickheal.co.in/mobile-products-windows-privacy-policy) 
+**Privacy Policy for Quick Heal Mobile Products (Windows)** | **:** | [ http://www.quickheal.co.in/mobile-products-windows-privacy-policy](http://www.quickheal.co.in/mobile-products-windows-privacy-policy) 
