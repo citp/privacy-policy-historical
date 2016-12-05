@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviepass.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331234705id_/https%3A//www.moviepass.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviepass.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205223107id_/https%3A//www.moviepass.com/content/privacy) for the most accurate reproduction.*
 
 # MoviePass - Privacy Policy
 
