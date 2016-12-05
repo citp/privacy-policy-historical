@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appliancezone.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528023237id_/http%3A//www.appliancezone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliancezone.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205174501id_/http%3A//www.appliancezone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Appliance Zone
 
