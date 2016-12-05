@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytoshiba.com.au privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616201727id_/http%3A//www.toshiba.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytoshiba.com.au privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205040019id_/http%3A//www.toshiba.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Toshiba Australia and New Zealand
 
@@ -8,7 +8,7 @@ Privacy Statement
 
 Privacy Policy and Notification
 
-Toshiba (Australia) Pty Limited (‘TOSHIBA’) is committed to protecting your privacy.
+Toshiba (Australia) Pty Limited and its related Toshiba group companies (‘TOSHIBA’) is committed to protecting your privacy.
 
 TOSHIBA is bound by the Australian Privacy Principles in the Privacy Act 1988 (Commonwealth) ‘Act’) and any relevant laws or codes affecting your personal information. TOSHIBA is committed to complying with the Act, the Australian Privacy Principles, and any relevant codes or other legislation. This policy outlines how TOSHIBA treats personal information that it collects and/or receives. Personal information means information or an opinion about you or could reasonably identify you such as your name, contact details, address, email addresses, payment card details and bank account details. 
 
@@ -89,7 +89,7 @@ Website: <http://www.oaic.gov.au/>
 Contact details for TOSHIBA’s privacy officer
 
 The Compliance Manager,   
-Legal and General Affairs   
+Corporate Services Division   
 Toshiba (Australia) Pty Limited   
 Postal Address: PO Box 350 North Ryde 1670   
 Email address: [privacyofficer@toshiba-tap.com](mailto:privacyofficer@toshiba-tap.com)   
