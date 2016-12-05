@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moibibiki.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521041900id_/http%3A//www.moibbk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moibibiki.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205221218id_/http%3A//www.moibbk.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy. MoiBibiki
 
