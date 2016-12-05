@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8tube.xxx privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525131954id_/http%3A//www.8tube.xxx/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8tube.xxx privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205142107id_/http%3A//www.8tube.xxx/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 8tube.xxx
 
