@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the ef.edu privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423054124id_/http%3A//www.ef.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ef.edu privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205160057id_/http%3A//www.ef.edu/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-By submitting your personal data to www.ef.com (hereinafter EF.com) you automatically accept that EF International Language Schools B.V. or any other corporate entity in the EF Group ("EF") registers and stores said personal data for the specific purposes outlined below in this Privacy Policy. You also agree to that your personal data may be transferred to and stored in a country that is not a member of the European Union or part of the European Economic Area. Please note that the reference to EF in this Privacy Policy covers all entities within the EF group of companies.
+### 1\. Your consent
+
+By submitting your personal data to www.ef.com (hereinafter EF.com) you automatically accept that EF International Language Schools B.V. or any other corporate entity in the EF Group ( **"EF"** ) registers and stores said personal data for the specific purposes outlined below in this Privacy Policy. You also agree to that your personal data may be transferred to and stored in a country that is not a member of the European Union or part of the European Economic Area. Please note that the reference to EF in this Privacy Policy covers all entities within the EF group of companies.
 
 ### 2\. Information about you
 
-When you make a reservation for a course or request brochures on our site, we will need to collect certain information about you such as your name, address, email address, sex, phone number and date of birth. We do not share personal information about you with outside parties except to the extent necessary to complete your reservation.
+When you make a reservation for a course or request brochures on our site, we will need to collect certain information about you such as your name, address, email address, sex, phone number and date of birth. We do not share personal information about you with outside parties except to the extent necessary to complete your reservation. 
 
 The personal information you provide when making a reservation or placing an order for brochures is only used to complete that reservation or order. We will not use such information in order to send updates, brochures on our new products and services or other marketing material to you, unless you have explicitly indicated this in the request form you have completed.
 
-When answering emails, we will use return email addresses. Such addresses are not used for any other purpose and are not shared with outside parties.
+When answering emails, we will use return email addresses. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
 ### 3\. Information about a friend
 
-If you wish to send a digital postcard or tell a friend about a particular program, we will ask for the recipient’s name, email address and phone number. The information provided will only be used to confirm message delivery and it will not be shared with outside parties except to the extent necessary to confirm that message.
+If you wish to send a digital postcard or tell a friend about a particular program, we will ask for the recipient’s name, email address and phone number. The information provided will only be used to confirm message delivery and it will not be shared with outside parties except to the extent necessary to confirm that message. 
 
 The information you provide to create a message is only used for that purpose and it is only disclosed to the recipient.
 
@@ -24,7 +26,7 @@ EF may gather certain usage information from EF.com, like the numbers and freque
 
 ### 5\. Children's privacy
 
-For the protection of children’s privacy, we require parental consent from users under the age of 16 who wish to make a reservation for a course.
+For the protection of children’s privacy, we require parental consent from users under the age of 16 who wish to make a reservation for a course. 
 
 ### 6\. Use of cookies
 
@@ -52,8 +54,6 @@ Moreover, it is important to be aware of that this policy only applies to EF.com
 
 If we decide to change our Privacy Policy we will post any amendments on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it to other companies.
 
-### 11. Your opinion
+### 11\. Your opinion
 
-EF.com welcomes your questions and comments about our privacy policy via our email address [webmaster@ef.com](mailto:webmaster@ef.com)
-
-Effective June 12, 2000
+If you have any questions or complaints about this Privacy Policy, please contact us by clicking [here](https://web.archive.org/legal/contact-us/).
