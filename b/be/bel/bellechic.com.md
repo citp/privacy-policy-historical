@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellechic.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326091254id_/https%3A//www.bellechic.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellechic.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205081930id_/https%3A//www.bellechic.com/about/privacy) for the most accurate reproduction.*
 
 # BelleChic
 
@@ -98,7 +98,7 @@ Chandler, AZ 85225
 
 ### Tanga is One of the Fastest Growing Companies in America
 
-**Tanga** was named to the Inc. 5000 2015 list, honored as one of the fastest-growing private companies in America. **[Learn more.](https://www.tanga.com/forum/blogs/1ed9d5611e27/tanga-named-to-inc-5000-list-of-fastest-growing-private-companies-for-second-consecutive-year) **
+**Tanga** was named to the Inc. 5000 2016 list, honored as one of the fastest-growing private companies in America. **[Learn more.](https://www.tanga.com/forum/blogs/792927fd5970/inc-magazine-names-tanga-to-inc-5000-list-of-america-s-fastest-growing-private-companies) **
 
 [](https://www.tanga.com/)
 
