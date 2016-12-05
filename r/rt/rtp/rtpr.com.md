@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtpr.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408231334id_/https%3A//rtpr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtpr.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205203222id_/https%3A//rtpr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy-Policy | Real Time Pain Relief
 
@@ -65,23 +65,70 @@ This document was last updated on March 1, 2014
 
 
 
-Receive a FREE 1.4oz FOOT Cream - Automatically Added to your Order with any retail purchase of $30 or more!
+It’s time for you to Enjoy Living Again
 
-### PAIN Cream
+### PAIN CREAM
 
-Americas Best Smelling Most Effective, Rub on Pain Relief. It's Pain Relief you can Trust.... **[ _Read More_](https://web.archive.org/pain-cream)**
+### PAIN CREAM
 
-### SPORTS Cream
+Real Time Pain Cream is effective on deep muscle pain, cramps, and over 100 types of arthritis. Real Time Pain Cream works fast, smells great, and has no negative side effects, so it’s perfect to use any time of day.  Next time you’re in pain, instead of reaching for another pill with a warning label, try Real Time Pain Cream. 
 
-Designed to soothe pain without masking the pain to a point that you do damage to your body... **[ _Read More_](https://web.archive.org/sports-cream)**
+[Click to Learn More](https://rtpr.com/pain-cream)
 
-### TARGETED Relief
+### MAXX PAIN CREAM
 
-HAND Cream, FOOT Cream, and more, no matter where it is, we have the Relief you need... **[ _Read More_](https://web.archive.org/targeted-relief)**
+### MAXX PAIN CREAM
 
-### Pain Relief MAXX
+Real Time Maxx is Real Time’s most powerful lotion! Real Time MAXX delivers fast Pain Relief to persistent, intense pain including deep muscle pain, cramps, and over 100 types of arthritis. Loaded with peppermint, Real Time MAXX provides a powerful burst of fast, minty pain relief.
 
-Our Strongest Pain Relief Formula, MAXX is the Official Pain Relief of the PBR. Pain Relief as Tough as Cowboys!... **[ _Read More_](https://web.archive.org/pain-relief-maxx)**
+[Click to Learn More](https://rtpr.com/pain-relief-maxx)
+
+### HAND PAIN CREAM
+
+### HAND PAIN CREAM
+
+Real Time Hand Cream is effective on many types of hand and wrist pains including carpal tunnel, deep muscle pains, cramps, and arthritis.  Real Time Hand Cream is made with nourishing Shea Butter and provides luxurious moisture with deep pain relief.  Apply often for soft skin and fast relief! 
+
+[Click to Learn More](https://rtpr.com/targeted-relief)
+
+### SPECIAL OFFERS
+
+### SPECIAL OFFERS
+
+Real Time Convenience and Special Offer Packages include a combination of our top pain relieving products, for home, and on the go. When you take advantage of these Specials, you’ll save at least 30%, plus receive FREE shipping! Made with Natures Ingredients, Real Time Products have no negative side effects. Take advantage of these great offers today!  
+[Click to Learn More](https://rtpr.com/shop)
+
+### FOOT PAIN CREAM
+
+### FOOT PAIN CREAM
+
+Real Time Foot Cream is effective on many types of foot and ankle pain including gout, planter fasciitis, bursitis, arthritis, and dry cracked feet. Made with Tea Tree Oil and Eucalyptus, Real Time Foot Cream delivers nourishing moisture with fast pain relief for the days that keep you on your toes.
+
+[Click to Learn More](https://rtpr.com/targeted-relief)
+
+### VEGAN PAIN RELIEF
+
+### VEGAN PAIN RELIEF
+
+Real Time SELECT gives you relief on the go for deep muscle pain, cramps, and over 100 types of arthritis. Infused with Raspberry Oil, Real Time SELECT is 100% vegan and comes in a convenient roll-on applicator. Real Time SELECT gives you pain relief on the go. 
+
+[Click to Learn More](https://rtpr.com/pain-cream)
+
+### SPORTS CREAM
+
+### SPORTS CREAM
+
+Real Time Sports Cream provides fast relief for many kinds of pain including strained muscles, Runner’s knee, Bruises, Sprains, and Cramps. Real Time Sports Cream absorbs quickly and keeps you going by relieving pain fast.
+
+[Click to Learn More](https://rtpr.com/sports-cream)
+
+### PET FORMULA
+
+### PET FORMULA
+
+Real Time Pet Formula is a revitalizing spray that helps your pet feel their best. Made with Aloe Vera and Menthol, Pet Formula provides a gentle cooling sensation. For happy pets, use Real Time Pet Formula.
+
+[Click to Learn More](https://rtpr.com/pet-formula)
 
 [**Click to Shop Online Now or Call 877-787-7180**](https://rtpr.com/shop) 
 
@@ -89,20 +136,21 @@ Our Strongest Pain Relief Formula, MAXX is the Official Pain Relief of the PBR. 
 
 What they say about Real Time Pain Relief
 
-I ran into this stuff at the Port Towns Fair in Bladensburg and gave it a try. I have a neck condition where c3 and c7 in my neck are herniated and bulging. 
+Solo me la puse en el área afectada y en 2min ya no tenía dolor.Gracias ahora estoy feliz sin dolor. 
 
-I am 74 years old and I have had elbow right and left pain for good ten years now. I tried this product and within I say a bout ten minutes I was free of pain in both arms. The next day I still was pain free. 
+I have been using the Real Time Pain Relief for a month. I have had pain in my feet(nerve damage )causes by Diabetes for the last seven years. The pain is terrible. 
 
-This is the best pain relief cream I have ever used. I have used several prescription pain creams, none have compared to RTPR cream. I have chronic arthritis in my hands, knees and hip. My mobility has greatly improved. 
+After 3 days ,I have no more pain in my elbow .....I am so very grateful to have found your site...thank you,thank you,thank you 
 
-I just ordered RTPR after using it this week-end for the first time. It is a wonderful product. My daughter ordered a sample for me because she knows the problems I have had with pain and inflammation in my shoulders and arthritis in my hands. 
+A 4.5 pound frozen chicken slid out of my upper freezer and bounced off my 2nd toe on left foot. It was excruciating pain! I hobbled quickly to the bedroom and rubbed on Real Time three times in about 10 minutes. 
 
-I have osteoarthritis in my hands; I applied this lotion to my hands while on vacation and it was like a miracle. Within minutes my hands no longer hurt. 
+A few days ago I received my order and liked it, as did my grandson on his back after I put it on him. One app did the trick after hurting for two days. He's fine now. Thank you very much. 
 
-Lord this stuff gave me relief like no other I brought this stuff and will use nothing else. I quit my pain medicine cause this helped more than my Norco helped and faster. 
+I have been dealing with a disc issue and pinched nerve in my lower back for over 18 months. After a week with RTPR, my pain is almost entirely gone. I felt better after just the first two days. 
 
-[Submit Testimonial](https://web.archive.org/web/20160408231334id_/https%3A//rtpr.com/node/add/testimonial) [View All Testimonials](https://web.archive.org/testimonials)
+[Submit Testimonial](https://web.archive.org/web/20161205203222id_/https%3A//rtpr.com/node/add/testimonial) [View All Testimonials](https://web.archive.org/testimonials)
 
 ## STAY IN TOUCH
 
-#### Call in an order, Submit a Support Ticket, Check us out on Facebook...either way, we are here to help
+#### We are always available for you. You can call us or submit a support ticket and we will get back to you!   
+Or, you can check us out on our social media pages. We want to hear from you!
