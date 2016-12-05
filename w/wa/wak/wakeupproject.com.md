@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wakeupproject.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627082222id_/http%3A//wakeupproject.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakeupproject.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205172032id_/http%3A//wakeupproject.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Wake Up Project
 
@@ -34,6 +34,8 @@ We may use your personal information to:
   * monitor, operate and maintain the Website(s) and other services offered by us on the Website(s).
 
 
+
+If you sign up for early event notification lists, you will receive future communication from the Wake Up Project. You may opt out of receiving this information at any time by following the unsubscribe link at the bottom of our emails.
 
 ##### **When we may disclose your personal information to others**
 
