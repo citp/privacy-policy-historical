@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixersize.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610074616id_/http%3A//pixersize.com/terms-of-service%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixersize.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205093657id_/http%3A//pixersize.com/terms-of-service%23privacy) for the most accurate reproduction.*
 
 # Terms of Service • pixersize.com
 
