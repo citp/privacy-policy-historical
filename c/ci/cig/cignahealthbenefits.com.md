@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cignahealthbenefits.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326025954id_/https%3A//www.cignahealthbenefits.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cignahealthbenefits.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206004121id_/https%3A//www.cignahealthbenefits.com/en/privacy) for the most accurate reproduction.*
 
-# Cigna | Privacy policy
+# Privacy policy | Cigna
 
 Skip navigation
 
@@ -10,22 +10,23 @@ You are here:
 
 ## Cigna International Health Services Data Protection Notice
 
+  
 Cigna International Health Services collects personal data, including medical data, in order to carry out its functions as an insurance broker and claims handler, provide membership services and comply with certain statutory obligations. All personal data are treated with the utmost confidentiality and with appropriate levels of security. This Notice describes our data protection procedures. Please review it carefully.  
  
 
 ### Our Commitment
 
-Cigna International Health Services BVBA (“CIHS”), with registered office located at Plantin en Moretuslei 299, 2140 Antwerp, Belgium, and with enterprise number 0414.783.183 (Register of Legal Entities Antwerp) (FSMA: 13799 A-R) and being part of the Cigna Corporation, is committed to the responsible management, use and protection of personal data of our customers, individual members, beneficiaries, providers and partners. Any personal data processed by CIHS is subject to the terms of this Notice, which supplements the [Cigna Online and Mobile Privacy Notice](http://www.cigna.com/assets/docs/privacy-notices-and-forms/final-on-line-with-incentive-language.pdf?WT.z_nav=privacyinformation%3BBody%3BOnline%20and%20Mobile%20Privacy%20Statement "Cigna Online & Mobile Privacy Notice"), the [Cigna Cookie Notice](https://www.securemediaresource.com/Public/General/Cookie_policy.pdf "Cigna Cookie Notice") and any other applicable notices made available to you.  
+Cigna International Health Services BVBA (“Cigna”), with registered office located at Plantin en Moretuslei 299, 2140 Antwerp, Belgium, and with enterprise number 0414.783.183 (Register of Legal Entities Antwerp) (FSMA: 13799 A-R) and being part of the Cigna Corporation, is committed to the responsible management, use and protection of personal data of our customers, individual members, beneficiaries, providers and partners. Any personal data processed by Cigna is subject to the terms of this Notice, which supplements the [Cigna Online and Mobile Privacy Notice](http://www.cigna.com/assets/docs/privacy-notices-and-forms/final-on-line-with-incentive-language.pdf?WT.z_nav=privacyinformation%3BBody%3BOnline%20and%20Mobile%20Privacy%20Statement "Cigna Online & Mobile Privacy Notice"), the [Cigna Cookie Notice](https://www.securemediaresource.com/Public/General/Cookie_policy.pdf "Cigna Cookie Notice") and any other applicable notices made available to you.  
  
 
 ### Personal Data Processed
 
-The data collected by CIHS include:
+The data collected by Cigna include:
 
   * Name, address, email address and birth date;
   * Financial and health information;
   * Credit or debit card number;
-  * CIHS ID;
+  * Cigna ID;
   * Password and PIN;
   * Medical claims status and information;
   * Plan information, including benefits and coverage;
@@ -41,7 +42,7 @@ How We Use Personal Data
 
 We use personal data for the following purposes:
 
-  * **Transactions.** We use personal data to complete transactions and respond to your requests, for example, to process claims or insurance payments, provide plan information, search for health care providers, ensure that you obtain the services and treatment you may need or allow you to view and print your CIHS ID card.
+  * **Transactions.** We use personal data to complete transactions and respond to your requests, for example, to process claims or insurance payments, provide plan information, search for health care providers, ensure that you obtain the services and treatment you may need or allow you to view and print your Cigna ID card.
   * **Communications.** We use personal data to send administrative information to you, for example, information regarding changes to our terms, conditions and policies, to provide you with a quote for one of our products or to send you surveys. Except as permitted by law, we will not use your personal data for marketing purposes without your prior authorization.
   * **Customer Service.** We use personal data to provide and improve customer service, including the use of chat or similar features available through our services.
   * **Conducting our business.** We use personal data to perform analysis audits and to develop new products, enhance, improve and modify our services, identify usage trends, support and/or improve the clinical programs or services we offer you, assist you in managing your health, determine the effectiveness of our promotional campaigns and continue to operate and expand our business activities.
@@ -86,7 +87,7 @@ You have the following rights regarding the personal data that we collect and/or
 ###   
 Actions You May Take
 
-If you have questions about your privacy rights, or wish to request access to or correction of your data, you can contact us at the following address or telephone number, or send us an email at [privacy.europe@cigna.com](mailto:privacy.europe@cigna.com?subject=Privacy%20-%20Cigna%20International%20Health%20Services%20BVBA%20).
+If you have questions about your privacy rights, or wish to request access to or correction of your data, you can contact us at the following address or send us an email at [privacy.europe@cigna.com](mailto:privacy.europe@cigna.com?subject=Privacy%20-%20Cigna%20International%20Health%20Services%20BVBA%20).
 
 Cigna International Health Services BVBA  
 Attn: Compliance & Privacy Officer  
