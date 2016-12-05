@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blocksi.net privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404221434id_/http%3A//www.blocksi.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blocksi.net privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205075200id_/http%3A//blocksi.net/privacy.php) for the most accurate reproduction.*
 
 # Blocksi
 
