@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asksuba.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610032813id_/http%3A//asksuba.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asksuba.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206182325id_/http%3A//asksuba.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AskSuba.Com
 
@@ -51,8 +51,8 @@ As a matter of convenience to you, the Service may provide links and hyperlinks 
 The listing of an external site does not imply endorsement of such site by us. We do not make any representations regarding the availability and performance of the Service or any of the external sites which could be provided. If You click on any advertising banner, sponsor link, or other external link from the Service, you may automatically be directed to a new third party service / browser that is not hosted or controlled by us and we are not responsible for the content, terms of use, privacy policies and practices of such third party service / browser.  
 **Access/Accuracy**
 
-To the extent that you provide us with Your Personal Information, we wish to maintain your Personal Information accurate at all times. If you need to update or correct Your Personal Information for any reason, you may send updates and corrections to us at admin@asksuba.com and we may take all reasonable efforts to incorporate the changes in your Personal Information within a reasonable period of time.  
+To the extent that you provide us with Your Personal Information, we wish to maintain your Personal Information accurate at all times. If you need to update or correct Your Personal Information for any reason, you may send updates and corrections to us at Email: [panchamithracreators@gmail.com](mailto:panchamithracreators@gmail.com) and we may take all reasonable efforts to incorporate the changes in your Personal Information within a reasonable period of time.  
 **Contacting Us**
 
-We will address any questions, comments and concerns about our online privacy practice and policy. Please write to us at admin@asksuba.com.  
-Date Updated: 06 November 2014
+We will address any questions, comments and concerns about our online privacy practice and policy. Please write to us at Email: [panchamithracreators@gmail.com](mailto:panchamithracreators@gmail.com).  
+Date Updated: 18 July 2016
