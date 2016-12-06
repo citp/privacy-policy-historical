@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beachgoldbali.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103074116id_/http%3A//www.beachgoldbali.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachgoldbali.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206035329id_/https%3A//www.beachgoldbali.com/pages/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement – Beachgold
+# Privacy Statement | Beachgold | Contemporay Resort-wear
 
 ##### 
 
