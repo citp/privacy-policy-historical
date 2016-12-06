@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityslick.net privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606171412id_/http%3A//www.cityslick.net/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityslick.net privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206045948id_/http%3A//www.cityslick.net/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CitySlick.net
 
