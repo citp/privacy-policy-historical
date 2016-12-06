@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cambridgescholars.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612073608id_/http%3A//www.cambridgescholars.com/t/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cambridgescholars.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206040300id_/http%3A//www.cambridgescholars.com/t/PrivacyPolicy) for the most accurate reproduction.*
 
 # Cambridge Scholars Publishing. Privacy Policy
 
