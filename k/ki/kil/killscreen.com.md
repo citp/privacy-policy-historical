@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the killscreen.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424160801id_/https%3A//killscreen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killscreen.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206191337id_/https%3A//killscreen.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Kill Screen
+# Privacy Policy - Kill Screen
 
 **Privacy Policy**
 
