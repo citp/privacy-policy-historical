@@ -1,54 +1,29 @@
-> *The following text is extracted and transformed from the hoodtube.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602212855id_/http%3A//hoodtube.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoodtube.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206121412id_/http%3A//www.hoodtube.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Hood Tube - Ebony Porn, Black Sex, Twerking, Cock & Pussy
 
-This document details important information regarding the use and disclosure of User Data collected onHoodTube.com.
+**Privacy policy**  
+Titan Websites, Inc. recognizes that its customers, visitors, users, and others who use Hood Tube value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the Hood Tube site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site. Please note that any video, image, or other content posted at the direction of users onto the Hood Tube site becomes published content and is not considered personally identifiable information subject to this privacy notice. 
 
-The security of your Data is very important to Pornini.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
+**The Information Titan Websites, Inc. Collects**  
+User-provided information: You provide certain personally identifiable information (such as your name and email address) to Hood Tube when choosing to participate in various activities on the sites such as uploading videos or posting messages.   
+Cookies Information: When you visit the Hood Tube site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Hood Tube uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Hood Tube site may not function properly if the ability to accept cookies is disabled.   
+Log File Information: When you use the Hood Tube site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Inteet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser 
 
-This site expressly and strictly limits its membership and/or viewing privliges to adults 18 years of age and over or having attentaind the age of majotity in their comunity. All persons who do not meet tis criteria are strictly forbiden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
+**The Way Hood Tube Retains Information**  
+To preserve the integrity of website databases, Hood Tube's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to Hood Tube, you are consenting to store that information indefinitely. 
 
-**DATA COLLECTED**
+**The Way Titan Websites, Inc. Uses Information**  
+If you submit personally identifiable information to us through the Hood Tube website, then we use your personal information to operate, maintain, and provide to you the features and functionality of the site. Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other users when you upload videos or send messages through the Hood Tube site, and other users can contact you through messages and comments. Any videos that you submit to the Hood Tube site may be redistributed through the Inteet and other media channels, and may be viewed by the general public. We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes. 
 
-Personal Information:
+**When Hood Tube Discloses Information**  
+We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures. We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant. Titan Websites, Inc. also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that, in good faith, is appropriate or necessary to enforce our terms of use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist govement enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of our company, our users or others. 
 
-  
-1\. Non-Registered users can watch videos without registering and without any information being collected and processed. Howverver the visitor's IP address will be recorded in the event that there is any misappropriationof information and/or content.  
-2\. Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.  
-3\. Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.  
-4\. Cookies: When you visit HoodTube.com, we may send one or more cookies to your computer that uniquely identifies your browser session. Pornini.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.  
-5\. Log File Information: When you visit HoodTube.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.  
-6\. Emails: If you contact us, we may keep a record of that correspondence.
+**Our Commitment to Legal-Age Usage**  
+Protecting children from adult content is especially important. For that reason, Titan Websites, Inc. does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Hood Tube site from persons under 18 years of age, and no part of our website is directed to persons under 18, or legal age according to state law. If you are under 18 years of age, then please do not use or access the Hood Tube site at any time or in any manner. If Titan Websites, Inc. leas that personally identifiable information of persons under 18 years of age has been collected, appropriate steps will be taken to delete this information. 
 
-**  
-USES**
+**In the Event of Merger, Sale, or Bankruptcy**  
+In the event that Titan Websites, Inc. is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used. 
 
-1\. Your Personally identifiable information submitted to Hoodtube.com is used to provide to the user the website's features and special personalised features.
-
-2\. Your chosen usernaname (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, at, the messages you send through the Pornini.com private mail, etc. Other Users can contact you through, private messages.
-
-3\. Any videos that you submit to HoodTube.com may be redistributed through the internet and other media channels, and may be viewed by the general public.
-
-4\. We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent.
-
-5\. We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes).
-
-6\. We analyse aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the HoodTube.com user-experience.
-
-**DISCLOSURE OF INFORMATION**
-
-1\. if under duty to do so HoodTube.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of Hoodtube.com or our subscribers or others. This includes exchanging information with other companies and organisations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is HoodTube.com's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.
-
-2\. Should you deliberatlly upload any illegal material Hoodtube.com shall forward all available information to all relevant authrities and this without notice.
-
-3\. We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
-
-**SECURITY**
-
-Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. Unfortunately, the transmission of information via the Internet is not completely secure .Hoodtube.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to HoodTube.com and you do so at your own risk.
-
-**YOUR RIGHTS**
-
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to hoodtube@gmail.com
-
-google-site-verification: google3740ea2c91a24fa9.html
+**Changes and updates to this Privacy Notice**  
+This privacy notice may be revised periodically and users are encouraged to review it periodically to stay aware of any changes. Your continued use of the Hood Tube site constitutes your agreement to this privacy notice and any future revisions. 
