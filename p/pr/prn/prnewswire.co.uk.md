@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prnewswire.co.uk privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605063014id_/http%3A//prnewswireeurope.mediaroom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prnewswire.co.uk privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206130624id_/http%3A//prnewswireeurope.mediaroom.com/privacy) for the most accurate reproduction.*
 
 # PR Newswire Privacy Policy
 
@@ -77,9 +77,9 @@ We may change the provisions of this policy from time to time and urge you to ch
 
 We collect and process data in the United States and around the globe.
 
-If you have questions about this policy, please contact [privacy@prnewswire.com](mailto:privacy@prnewswire.com) or [privacyrequests@ubm.com](mailto:privacyrequests@ubm.com).
+If you have questions about this policy, please contact [privacy@prnewswire.com](mailto:privacy@prnewswire.com)
 
-**PR Newswire Association LLC is a subsidiary of UBM plc.   Our headquarters are located at:**
+**Our headquarters are located at:**
 
 **PR Newswire Association LLC**
 
