@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usertesting.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325205839id_/https%3A//www.usertesting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usertesting.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206025544id_/https%3A//www.usertesting.com/privacy-policy) for the most accurate reproduction.*
 
 # UserTesting Privacy Policy
 
@@ -91,11 +91,19 @@ UserTesting has adopted physical, technological, and administrative procedures t
 
 By using this website or providing Personal Information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of this website.
 
-## Safe Harbor
+## Privacy Shield and Safe Harbor
 
-UserTesting complies with the U.S.-EU and US-Swiss Safe Harbor framework for the collection, use and retention of personal information from the European Union member countries and Switzerland, as set out by the U.S. Department of Commerce. UserTesting has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view UserTesting’s certification, please visit <http://www.export.gov/safeharbor/>.
+UserTesting complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. UserTesting has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. The Privacy Shield program applies to the processing of Personal Data in regards to the collection, use and retention of Personal Data from Testers located in the European Union and European Economic Area, as set out by the U.S. Department of Commerce. UserTesting has certified that it adheres to the Privacy Shield Principles of notice, choice, account ability for onward transfer, security, data integrity and purpose limitation, access, and recourse/enforcement/liability. UserTesting is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
 
-As part of our participation in the Safe Harbor program, we will resolve disputes you have with us in connection with our policies and practices through JAMS ADR. For more information and to contact JAMS ADR directly, visit [www.jamsadr.com](http://www.jamsadr.com/).
+All employees of UserTesting who handle Personal Data from the European Union are required to comply with the Privacy Shield Principles.
+
+As part of our participation in the Privacy Shield program, we will resolve disputes you have with us in connection with our policies and practices through JAMS ADR. For more information and to contact JAMS ADR directly, visit www.jamsadr.com. As a last resort and in limited situations, EU individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism.
+
+UserTesting’s accountability for Personal Data that it receives under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, UserTesting remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the Personal Data on its behalf do so in a manner inconsistent with the Principles, unless UserTesting proves that it is not responsible for the event giving rise to the damage.
+
+UserTesting encourages you to contact our Head of Privacy and Security at [privacy@usertesting.com](mailto:privacy@usertesting.com) should have any Privacy Shield-related (or general privacy-related) complaint. As further explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means. UserTesting is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+
+UserTesting complies with the US-Swiss Safe Harbor as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. UserTesting has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern.
 
 ## Changes and Updates
 
@@ -107,4 +115,4 @@ If you have questions, comments, or concerns about UserTesting or this Privacy P
 
 User Testing, Inc. 2672 Bayshore Parkway, Suite 703  Mountain View, CA 94043 _Attn: Legal Department_
 
-Last Updated: Jul. 16, 2015
+Last Updated: Sep. 27, 2016
