@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the usertesting.com privacy policy that was archived on 2016-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160325205839id_/https%3A//www.usertesting.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the usertesting.com privacy policy that was archived on 2016-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161206025544id_/https%3A//www.usertesting.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
     <meta charset="utf-8">
-<script src="https://js-agent.newrelic.com/nr-892.min.js"></script><script type="text/javascript" async="" src="//storage.googleapis.com/code.snapengage.com/js/435a0483-9fc6-4c4b-a644-cd603679e80d.js"></script><script async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5T6C9C"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"32c9c701b3","applicationID":"348677","transactionName":"cgpcEUBeCVtXQRpVEF4LRkpBWQpA","queueTime":0,"applicationTime":5,"agent":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQcAUlFACwcIUlZV"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,["addEventListener","removeEventListener"],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos");e.exports=a,o(window),"getPrototypeOf"in Object?(r(document),r(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&o(XMLHttpRequest.prototype),a.on("addEventListener-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){e=e||this;var n=a.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,a.emit("xhr-resolved",[],e));try{f.inPlace(e,p,"fn-",o)}catch(r){}}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").get("xhr"),s=t(5),c=t(16),f=c(a),u=c(s),d=NREUM.o,l=d.XHR,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=a,window.XMLHttpRequest=function(t){var e=new l(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",r,!1)}catch(n){try{a.emit("internal-error",[n])}catch(i){}}return e},i(l,XMLHttpRequest),XMLHttpRequest.prototype=l.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(5),t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-892.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+<script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script type="text/javascript" async="" src="//storage.googleapis.com/code.snapengage.com/js/435a0483-9fc6-4c4b-a644-cd603679e80d.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5T6C9C"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"32c9c701b3","applicationID":"348677","transactionName":"cgpcEUBeCVtXQRpVEF4LRkpBWQpA","queueTime":0,"applicationTime":9,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQcAUlFACwcIUlZV"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
     <title>UserTesting Privacy Policy</title>
     <meta name="author" content="UserTesting">
 
@@ -16,32 +16,40 @@
 
     
 
+    <!-- Canonical Link -->
+    <link rel="canonical" href="https://www.usertesting.com/privacy-policy">
+
     <!-- iOS bookmark icons -->
     <link rel="apple-touch-icon-precomposed" sizes="120x120" href="//assets.usertesting.com/assets/ut_marketing/global/UserTesting-touch-icon-120.png">
     <link rel="apple-touch-icon-precomposed" sizes="152x152" href="//assets.usertesting.com/assets/ut_marketing/global/UserTesting-touch-icon-152.png">
     <link href="//assets.usertesting.com/assets/ut_marketing/favicon.png" rel="icon">
 
     <!-- Font Awesome -->
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-    <link href="/atom.xml" rel="alternate" title="UserTesting" type="application/atom+xml">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
 
     <!-- Animate.CSS -->
-    
+    <link href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" rel="stylesheet">
 
-    <link rel="stylesheet" href="//assets.usertesting.com/assets/ut_marketing/application-74e17ff14ac9bcca05e6d101d5d8335b.css">
+    <!-- Owl Carousel.CSS -->
+    <link href="//cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css" rel="stylesheet">
+    <link href="//cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css" rel="stylesheet">
+
+    <link href="/atom.xml" rel="alternate" title="UserTesting" type="application/atom+xml">
+
+    <link rel="stylesheet" href="//assets.usertesting.com/assets/ut_marketing/application-1e21dbc53eae620e0e583cf890a803f6.css">
+
+    <!--Optimizely-->
+    <script src="//cdn.optimizely.com/js/506390562.js"></script>
 
     <!-- TypeKit -->
     <script src="//use.typekit.net/dcf2myu.js"></script>
     <script>try{Typekit.load();}catch(e){}</script>
-
-    <!--Optimizely-->
-    <script src="//cdn.optimizely.com/js/506390562.js"></script>
 </head>
 
 
 <body class="privacy-policy">
 
-    <!-- Google Tag Manager -->
+  <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5T6C9C"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -51,6 +59,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-5T6C9C');</script>
 <!-- End Google Tag Manager -->
 
+
+  <div class="site-wrapper">
 
     
         <div id="header_unit" class="header-unit">
@@ -130,7 +140,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <a href="/users/sign_in">Log in</a>
         </li>
         <li class="client-signup">
-            <a href="/users/sign_up?client=true">Get user feedback</a>
+            <a href="/plans">Sign Up</a>
         </li>
         <li class="tester-signup">
             <a href="/be-a-user-tester">Get paid to test</a>
@@ -315,28 +325,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
 
                         <a href="/who">
-                            Who Uses Us
+                            Overview
 
                             <span class="description">
                                 Over 34,000 customers use UserTesting
-                            </span>
-
-                        </a>
-
-                    
-                </li>
-
-    
-
-                <li class="customers">
-
-                    
-
-                        <a href="/who/case-studies">
-                            Case Studies
-
-                            <span class="description">
-                                Read success stories from UserTesting clients
                             </span>
 
                         </a>
@@ -355,6 +347,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                             <span class="description">
                                 Validate design choices and create user-friendly products
+                            </span>
+
+                        </a>
+
+                    
+                </li>
+
+    
+
+                <li class="customers">
+
+                    
+
+                        <a href="/who/product-managers">
+                            Product Managers
+
+                            <span class="description">
+                                Add user feedback to every stage of development
                             </span>
 
                         </a>
@@ -459,6 +469,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                     
 
+                        <a href="/resources/case-studies">
+                            Case Studies
+
+                            <span class="description">
+                                Read success stories from UserTesting clients
+                            </span>
+
+                        </a>
+
+                    
+                </li>
+
+    
+
+                <li class="resources">
+
+                    
+
                         <a href="/resources/webinars">
                             Webinars
 
@@ -481,7 +509,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             eBooks
 
                             <span class="description">
-                                Tons of free insights in a nice, portable package
+                                Insights on UX, CX, research, and design
+                            </span>
+
+                        </a>
+
+                    
+                </li>
+
+    
+
+                <li class="resources">
+
+                    
+
+                        <a href="/resources/whitepapers">
+                            Whitepapers
+
+                            <span class="description">
+                                Ideas for customer-centered businesses
                             </span>
 
                         </a>
@@ -622,7 +668,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
 
                         <a href="/about-us/jobs">
-                            Jobs
+                            Careers
 
                             <span class="description">
                                 Come join our team!
@@ -672,7 +718,483 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </ul>
 </nav>
 
-            <a class="menu-button" href="#back_to_top">MENU</a>
+            
+
+<nav class="mobile-menu" role="navigation">
+  <a class="menu-button" href="#">MENU</a>
+
+  <div class="menu-container">
+    <ul class="mobile-lists">
+      <li>
+        <a class="sign-in" href="/users/sign_in">
+          <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 33.7 33.7" style="enable-background:new 0 0 33.7 33.7;" xml:space="preserve">
+<style type="text/css">
+	.di1{fill:#636466;}
+</style>
+<path class="di1" d="M16.9,0C7.6,0,0,7.5,0,16.8s7.5,16.8,16.8,16.8s16.8-7.5,16.8-16.8S26.2,0,16.9,0z M19.9,23.9
+	c-0.4,0.4-0.9,0.6-1.3,0.6c-0.5,0-1-0.2-1.3-0.6c-0.7-0.7-0.7-1.9,0-2.7l2.5-2.5h-11c-1,0-1.9-0.8-1.9-1.9s0.8-1.9,1.9-1.9h11
+	l-2.5-2.5c-0.7-0.7-0.7-1.9,0-2.7c0.7-0.7,1.9-0.7,2.7,0l7,7L19.9,23.9z"></path>
+</svg>
+
+          <span>Log In</span>
+        </a>
+      </li>
+      <li>
+        <a class="client-signup" href="/users/sign_up?client=true">
+          <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 33.7 33.7" style="enable-background:new 0 0 33.7 33.7;" xml:space="preserve">
+<style type="text/css">
+	.ii3{fill:#0082CA;}
+</style>
+<path class="ii3" d="M16.8,0C7.5,0,0,7.5,0,16.8s7.5,16.8,16.8,16.8s16.8-7.5,16.8-16.8S26.1,0,16.8,0z M23.8,18.7h-5.2v5.2
+	c0,1-0.8,1.8-1.8,1.8S15,24.8,15,23.8v-5.2H9.9c-1,0-1.8-0.8-1.8-1.8S8.9,15,9.9,15H15V9.8c0-1,0.8-1.8,1.8-1.8s1.8,0.8,1.8,1.8V15
+	h5.2c1,0,1.8,0.8,1.8,1.8S24.9,18.7,23.8,18.7z"></path>
+</svg>
+
+          <span>Sign Up</span>
+        </a>
+      </li>
+      <li>
+        <a class="tester-signup" href="/be-a-user-tester">
+          <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 33.7 34.1" style="enable-background:new 0 0 33.7 34.1;" xml:space="preserve">
+<style type="text/css">
+	.ec4{fill:#82BC00;}
+</style>
+<g>
+	<path class="ec4" d="M17.9,19.2v3c1.1-0.2,1.7-0.9,1.7-1.6C19.6,19.9,18.9,19.5,17.9,19.2z"></path>
+	<path class="ec4" d="M14.2,13.9c0,0.7,0.6,1,1.6,1.3v-2.7C14.8,12.5,14.2,13.1,14.2,13.9z"></path>
+	<path class="ec4" d="M16.9,0.4C7.6,0.4,0,8,0,17.3s7.5,16.8,16.8,16.8s16.8-7.5,16.8-16.8S26.2,0.4,16.9,0.4z M17.9,25v1.1
+		c0,0.6-0.5,1-1,1c-0.6,0-1.1-0.5-1.1-1V25c-1.8-0.2-4-0.9-4.7-2c-0.1-0.2-0.2-0.5-0.2-0.7c0-0.8,0.7-1.5,1.5-1.5
+		c0.3,0,0.6,0.1,0.9,0.3c0.7,0.5,1.6,0.9,2.6,1.1v-3.6C13.5,18,11,17.2,11,14.1c0-2.3,1.8-4.2,4.8-4.5V8.4c0-0.6,0.5-1,1.1-1
+		c0.6,0,1,0.5,1,1v1.2c1.3,0.2,3.2,0.7,3.9,1.6c0.1,0.2,0.2,0.5,0.2,0.7c0,0.9-0.8,1.5-1.6,1.5c-0.1,0-0.3,0-0.4-0.1
+		c-0.7-0.2-1.4-0.7-2.1-0.9v3.2c2.3,0.6,4.9,1.5,4.9,4.5C22.8,22.7,21.2,24.7,17.9,25z"></path>
+</g>
+</svg>
+
+          <span>Get paid to test</span>
+        </a>
+      </li>
+    </ul>
+
+    
+      <ul class="product mobile-lists">
+        <li>
+            
+              <div class="dropdown-list">
+                <div class="arrow">
+                  <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 18.6 24.3" style="enable-background:new 0 0 18.6 24.3;" xml:space="preserve"><style type="text/css">.ww0{fill:#646567;}</style>
+                    <polygon class="ww0" points="0,0 0,24.3 18.6,12.2 "></polygon>
+                  </svg>
+                </div>
+                <p>Product</p>
+              </div>
+            
+
+              <ul class="subsection collapsed">
+                  
+
+                      <li>
+
+                          
+                              <a href="/product">
+                                  Overview
+                              </a>
+                          
+
+                      </li>
+
+                  
+
+                      <li>
+
+                          
+                              <a href="/product/videos-and-metrics">
+                                  Videos &amp; Metrics
+                              </a>
+                          
+
+                      </li>
+
+                  
+
+                      <li>
+
+                          
+                              <a href="/product/users">
+                                  The Users
+                              </a>
+                          
+
+                      </li>
+
+                  
+
+                      <li>
+
+                          
+                              <a href="/product/website-usability-testing">
+                                  Website Testing
+                              </a>
+                          
+
+                      </li>
+
+                  
+
+                      <li>
+
+                          
+                              <a href="/product/mobile-application-testing">
+                                  Mobile Apps
+                              </a>
+                          
+
+                      </li>
+
+                  
+
+                      <li>
+
+                          
+                              <a href="/product/diy">
+                                  DIY Tools
+                              </a>
+                          
+
+                      </li>
+
+                  
+
+                      <li>
+
+                          
+                              <a href="/faq">
+                                  FAQ
+                              </a>
+                          
+
+                      </li>
+
+                  
+              </ul>
+        </li>
+      </ul>
+    
+      <ul class="services mobile-lists">
+        <li>
+            
+              <a href="/services" class="stand-alone">
+                Services
+              </a>
+            
+
+              <ul class="subsection collapsed">
+                  
+              </ul>
+        </li>
+      </ul>
+    
+      <ul class="pricing mobile-lists">
+        <li>
+            
+              <a href="/plans" class="stand-alone">
+                Pricing
+              </a>
+            
+
+              <ul class="subsection collapsed">
+                  
+              </ul>
+        </li>
+      </ul>
+    
+      <ul class="customers mobile-lists">
+        <li>
+            
+              <div class="dropdown-list">
+                <div class="arrow">
+                  <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 18.6 24.3" style="enable-background:new 0 0 18.6 24.3;" xml:space="preserve"><style type="text/css">.ww0{fill:#646567;}</style>
+                    <polygon class="ww0" points="0,0 0,24.3 18.6,12.2 "></polygon>
+                  </svg>
+                </div>
+                <p>Who Uses Us</p>
+              </div>
+            
+
+              <ul class="subsection collapsed">
+                  
+
+                      <li>
+
+                          
+                              <a href="/who">
+                                  Overview
+                              </a>
+                          
+
+                      </li>
+
+                  
+
+                      <li>
+
+                          
+                              <a href="/who/designers">
+                                  Designers
+                              </a>
+                          
+
+                      </li>
+
+                  
+
+                      <li>
+
+                          
+                              <a href="/who/product-managers">
+                                  Product Managers
+                              </a>
+                          
+
+                      </li>
+
+                  
+
+                      <li>
+
+                          
+                              <a href="/who/marketers">
+                                  Marketers
+                              </a>
+                          
+
+                      </li>
+
+                  
+
+                      <li>
+
+                          
+                              <a href="/who/agencies">
+                                  Agencies
+                              </a>
+                          
+
+                      </li>
+
+                  
+
+                      <li>
+
+                          
+                              <a href="/who/mobile-game-developers">
+                                  Mobile Game Developers
+                              </a>
+                          
+
+                      </li>
+
+                  
+              </ul>
+        </li>
+      </ul>
+    
+      <ul class="resources mobile-lists">
+        <li>
+            
+              <div class="dropdown-list">
+                <div class="arrow">
+                  <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 18.6 24.3" style="enable-background:new 0 0 18.6 24.3;" xml:space="preserve"><style type="text/css">.ww0{fill:#646567;}</style>
+                    <polygon class="ww0" points="0,0 0,24.3 18.6,12.2 "></polygon>
+                  </svg>
+                </div>
+                <p>Resources</p>
+              </div>
+            
+
+              <ul class="subsection collapsed">
+                  
+
+                      <li>
+
+                          
+                              <a href="/resources">
+                                  Overview
+                              </a>
+                          
+
+                      </li>
+
+                  
+
+                      <li>
+
+                          
+                              <a href="/resources/case-studies">
+                                  Case Studies
+                              </a>
+                          
+
+                      </li>
+
+                  
+
+                      <li>
+
+                          
+                              <a href="/resources/webinars">
+                                  Webinars
+                              </a>
+                          
+
+                      </li>
+
+                  
+
+                      <li>
+
+                          
+                              <a href="/resources/ebooks">
+                                  eBooks
+                              </a>
+                          
+
+                      </li>
+
+                  
+
+                      <li>
+
+                          
+                              <a href="/resources/whitepapers">
+                                  Whitepapers
+                              </a>
+                          
+
+                      </li>
+
+                  
+
+                      <li>
+
+                          
+                              <a href="/resources/checklists">
+                                  Tips &amp; Checklists
+                              </a>
+                          
+
+                      </li>
+
+                  
+
+                      <li>
+
+                          
+                              <a href="/resources/industry-reports">
+                                  Industry Reports
+                              </a>
+                          
+
+                      </li>
+
+                  
+
+                      <li>
+
+                          
+                              <a href="/blog">
+                                  Blog
+                              </a>
+
+                          
+
+                      </li>
+
+                  
+              </ul>
+        </li>
+      </ul>
+    
+      <ul class="about mobile-lists">
+        <li>
+            
+              <div class="dropdown-list">
+                <div class="arrow">
+                  <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 18.6 24.3" style="enable-background:new 0 0 18.6 24.3;" xml:space="preserve"><style type="text/css">.ww0{fill:#646567;}</style>
+                    <polygon class="ww0" points="0,0 0,24.3 18.6,12.2 "></polygon>
+                  </svg>
+                </div>
+                <p>About Us</p>
+              </div>
+            
+
+              <ul class="subsection collapsed">
+                  
+
+                      <li>
+
+                          
+                              <a href="/about-us">
+                                  Overview
+                              </a>
+                          
+
+                      </li>
+
+                  
+
+                      <li>
+
+                          
+                              <a href="/about-us/executive-team">
+                                  Executive Team
+                              </a>
+                          
+
+                      </li>
+
+                  
+
+                      <li>
+
+                          
+                              <a href="/about-us/jobs">
+                                  Careers
+                              </a>
+                          
+
+                      </li>
+
+                  
+
+                      <li>
+
+                          
+                              <a href="/about-us/press">
+                                  Press
+                              </a>
+                          
+
+                      </li>
+
+                  
+
+                      <li>
+
+                          
+                              <a href="/about-us/contact-us">
+                                  Contact Us
+                              </a>
+                          
+
+                      </li>
+
+                  
+              </ul>
+        </li>
+      </ul>
+    
+  </div>
+</nav>
 
         </div>
     </header>
@@ -772,11 +1294,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <p>By using this website or providing Personal Information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of this website.</p>
 
-<h2>Safe Harbor</h2>
+<h2>Privacy Shield and Safe Harbor</h2>
 
-<p>UserTesting complies with the U.S.-EU and US-Swiss Safe Harbor framework for the collection, use and retention of personal information from the European Union member countries and Switzerland, as set out by the U.S. Department of Commerce. UserTesting has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view UserTesting’s certification, please visit <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>.</p>
+<p>UserTesting complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. UserTesting has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <a href="https://www.privacyshield.gov/">https://www.privacyshield.gov/</a>. The Privacy Shield program applies to the processing of Personal Data in regards to the collection, use and retention of Personal Data from Testers located in the European Union and European Economic Area, as set out by the U.S. Department of Commerce. UserTesting has certified that it adheres to the Privacy Shield Principles of notice, choice, account ability for onward transfer, security, data integrity and purpose limitation, access, and recourse/enforcement/liability. UserTesting is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).</p>
 
-<p>As part of our participation in the Safe Harbor program, we will resolve disputes you have with us in connection with our policies and practices through JAMS ADR. For more information and to contact JAMS ADR directly, visit <a href="http://www.jamsadr.com">www.jamsadr.com</a>.</p>
+<p>All employees of UserTesting who handle Personal Data from the European Union are required to comply with the Privacy Shield Principles.</p>
+
+<p>As part of our participation in the Privacy Shield program, we will resolve disputes you have with us in connection with our policies and practices through JAMS ADR. For more information and to contact JAMS ADR directly, visit www.jamsadr.com. As a last resort and in limited situations, EU individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism.</p>
+
+<p>UserTesting’s accountability for Personal Data that it receives under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, UserTesting remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the Personal Data on its behalf do so in a manner inconsistent with the Principles, unless UserTesting proves that it is not responsible for the event giving rise to the damage.</p>
+
+<p>UserTesting encourages you to contact our Head of Privacy and Security at <a href="mailto:privacy@usertesting.com">privacy@usertesting.com</a> should have any Privacy Shield-related (or general privacy-related) complaint. As further explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means. UserTesting is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).</p>
+
+<p>UserTesting complies with the US-Swiss Safe Harbor as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. UserTesting has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern.</p>
 
 <h2>Changes and Updates</h2>
 
@@ -803,7 +1333,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
             
 
-            <span class="updated">Last Updated: Jul. 16, 2015</span>
+            <span class="updated">Last Updated: Sep. 27, 2016</span>
 
         </div><!--end .module .module-legal-content -->
 
@@ -832,13 +1362,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
       <div class="group group-learn">
         <h4>Learn More</h4>
-        <p>Get an <a href="/product">overview</a>, watch a <a href="javascript:;" onclick="_gaq.push(['_trackEvent', 'Examples', 'Click', 'How it works: Video of visitor LINK']);window.open('https://www.usertesting.com/videos/sE%2fdl0GKLiU%3d?token=pqGGW9JZCjQjelISf1nhKHRnvRwLkCoixoZS2RGHlJU=', 'videoExample', 'top=0,left=0,resizeable=yes,location=no,status=no,scrollbars=yes,width=1350,height=800');">sample video</a>, or see our free <a href="/resources">educational resources.</a></p>
+        <p>Get an <a href="/product">overview</a>, watch a <a href="javascript:;" onclick="ga('send', 'event', 'Examples', 'click', 'How it works: Video of visitor LINK');window.open('https://www.usertesting.com/v/986ec3dc-0a69-4db5-8e54-83403d132394?encrypted_video_handle=sE_dl0GKLiU&amp;token=pqGGW9JZCjQjelISf1nhKHRnvRwLkCoixoZS2RGHlJU%3D', 'videoExample', 'top=0,left=0,resizeable=yes,location=no,status=no,scrollbars=yes,width=1350,height=800');">sample video</a>, or see our free <a href="/resources">educational resources.</a></p>
       </div>
 
       <div class="group group-trial">
         <h4>Get Started</h4>
           <div class="wrapper-button-cta ">
-
     
         <a class="button button-cta " href="/plans">
             Pricing &amp; Sign Up
@@ -852,6 +1381,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </div>
 
 </div>
+
+    
 
     
 
@@ -993,8 +1524,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 </a><li><a href="/who">
 
                                     
-                                        </a><a href="/who/case-studies">
-                                            Case Studies
+                                        </a><a href="/who/designers">
+                                            Designers
                                         </a>
                                     
 
@@ -1005,8 +1536,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <li>
 
                                     
-                                        <a href="/who/designers">
-                                            Designers
+                                        <a href="/who/product-managers">
+                                            Product Managers
                                         </a>
                                     
 
@@ -1067,7 +1598,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 </a><li><a href="/resources">
 
                                     
-                                        </a><a href="/resources/webinars">
+                                        </a><a href="/resources/case-studies">
+                                            Case Studies
+                                        </a>
+                                    
+
+                                </li>
+
+                            
+
+                                <li>
+
+                                    
+                                        <a href="/resources/webinars">
                                             Webinars
                                         </a>
                                     
@@ -1081,6 +1624,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     
                                         <a href="/resources/ebooks">
                                             eBooks
+                                        </a>
+                                    
+
+                                </li>
+
+                            
+
+                                <li>
+
+                                    
+                                        <a href="/resources/whitepapers">
+                                            Whitepapers
                                         </a>
                                     
 
@@ -1124,6 +1679,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 </li>
 
                             
+
+                                <li>
+
+                                    
+                                        <a href="/sitemap">
+                                            Sitemap
+                                        </a>
+                                    
+
+                                </li>
+
+                            
                         </ul>
 
                     
@@ -1155,7 +1722,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                                     
                                         <a href="/about-us/jobs">
-                                            Jobs
+                                            Careers
                                         </a>
                                     
 
@@ -1262,6 +1829,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 </li>
 
                             
+
+                                <li>
+
+                                    
+                                        <a href="/faq-security">
+                                            Security FAQ
+                                        </a>
+                                    
+
+                                </li>
+
+                            
                         </ul>
 
                     
@@ -1293,21 +1872,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 
-<script src="//assets.usertesting.com/assets/ut_marketing/application-3ff74b35d97b25019d7c00293e496d92.js"></script>
 
-<script>
-    // Google GAQ
-    var _gaq = _gaq || [];
-    _gaq.push(["_setAccount","UA-7271775-1"]);
-    _gaq.push(["_trackPageLoadTime"]);
-    _gaq.push(["_setDomainName", "usertesting.com"]);
-    _gaq.push(["_setAllowLinker", true]);
-    _gaq.push(["_trackPageview"]);
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
 
-    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
-    g.src=('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    s.parentNode.insertBefore(g,s)}(document,"script"));
-</script>
+
+<script src="//assets.usertesting.com/assets/ut_marketing/js.cookie-d0a1862705c7225b8de389e89df58fa9.js"></script>
+<script src="//assets.usertesting.com/assets/ut_marketing/application-fb0aad97c29e0f7dad5329ecb495ec13.js"></script>
 
 <script src="//app-sj01.marketo.com/js/forms2/js/forms2.js"></script>
 
@@ -1334,6 +1904,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 
     
+
+  </div>
 
 
 
