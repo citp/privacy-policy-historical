@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nerdpass.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505084212id_/http%3A//www.nerdpass.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdpass.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206090130id_/http%3A//www.nerdpass.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
