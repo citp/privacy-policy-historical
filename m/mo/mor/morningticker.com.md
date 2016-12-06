@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morningticker.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614211855id_/http%3A//www.morningticker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morningticker.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206064008id_/http%3A//www.morningticker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
