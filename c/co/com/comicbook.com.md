@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicbook.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601154759id_/http%3A//www.comicbook.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicbook.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206153924id_/http%3A//comicbook.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -153,7 +153,7 @@ We strive to provide you with choices regarding the Personal Information you pro
 
 
 
-We do not control third parties' collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative ("NAI") on the NAI's website.
+We do not control third parties' collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. The NAI offers the ability for you to opt-out of the behavioral advertising programs of their members by going to http://www.networkadvertising.org/choices/ or http://www.aboutads.info/choices/.
 
 Accessing and Correcting Your Information
 
