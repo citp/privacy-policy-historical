@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vancouver.ca privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625125718id_/http%3A//vancouver.ca/your-government/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vancouver.ca privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206055300id_/http%3A//vancouver.ca/your-government/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy | City of Vancouver
 
@@ -12,7 +12,7 @@ This information is only obtained if you supply it voluntarily, usually through 
 
 Any personal information we ask you to provide is collected under the authority of the Freedom of Information and Protection of Privacy Act. The information will only be used for the purpose of administering City services, informing you of our services and benefits, and for statistical purposes.
 
-If you have any questions regarding the collection and use of your personal information please contact the Director, Access to Information, 453 W 12th Avenue, Vancouver, BC or call 604-873-7999.
+If you have questions about how we collect and use your personal information, contact the director of Access to Information at 604-873-7999.
 
 ## Tracking your website visit
 
@@ -63,7 +63,7 @@ We comply with Canada's anti-spam law when you to subscribe to our email newsle
 
 When you subscribe, you authorize us to collect information about yourself solely to send you an email newsletter from time to time. You can unsubscribe at any time by clicking the unsubscribe link at the bottom of the email newsletter.
 
-You can contact us about this policy at [info@vancouver.ca](mailto:info@vancouver.ca) or City of Vancouver, 453 West 12th Avenue, Vancouver, BC, V5Y 1V4.
+If you have questions about how we collect and use your personal information, contact the director of Access to Information at 604-873-7999.
 
 ## Online transactions
 
