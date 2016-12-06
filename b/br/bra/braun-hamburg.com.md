@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the braun-hamburg.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524054559id_/http%3A//www.braun-hamburg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the braun-hamburg.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206132728id_/http%3A//www.braun-hamburg.com/privacy) for the most accurate reproduction.*
 
 # Privacy | BRAUN Hamburg
 
