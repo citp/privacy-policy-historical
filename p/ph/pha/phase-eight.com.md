@@ -1,70 +1,33 @@
-> *The following text is extracted and transformed from the phase-eight.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412024141id_/http%3A//www.phase-eight.com/fcp/content/PrivacyPolicy/content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phase-eight.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206230309id_/http%3A//www.phase-eight.com/fcp/content/PrivacyPolicy/content) for the most accurate reproduction.*
 
 # Privacy Policy | Phase Eight
 
 #### **Your Privacy Is Important To Us**
 
-Phase Eight takes your privacy very seriously. We do not use the information you provide to us to learn any more about you other than what is required to meet your orders, to provide you with a better shopping experience, or as other wise detailed in this condition. Any contact details gathered through press or customer enquiries will not be used for marketing purposes unless otherwise requested by the individual. For the purpose of the Data Protection Act 1998, the data controller is Phase Eight (Fashion & Designs) Ltd.
+Phase Eight takes your privacy very seriously. We do not use the information you provide to us to learn any more about you other than what is required to meet your orders or to provide you with a better shopping experience, or where we are under a legal obligation to do so. Any contact details gathered through press or customer enquiries will not be used for marketing purposes unless you have asked us to send these to you or consented to us sending these to you. If you do not wish to be sent marketing information please opt-out using the relevant check-box situated on the form on which we collect your data or on the form used to create your online account.
 
-##### Information we may collect from you
+Information we may collect from you 
+    
 
-We may collect and process the following data about you
+We may collect and process the following information about you:
 
-  
-
-
-  * Data which you provide when you create an online account in order to purchase products.
-  * Data which you provide when requesting any marketing information or when you enter promotions.
-  * Details of transactions you carry out through our website and of the fulfilment of your orders.
-  * Details of your visits to our site and the resources that you access.
-
-
-
-##### How we store your data
-
-We will keep the data which we collect from you on a secure server and we will fully comply with all applicable UK data protection legislation from time to time in place.
-
-  
-
-
-##### How we use your data
-
-We may also use your data to provide you with information about goods and services which may be of interest to you.
-
-  
-
-
-  * If you are an existing customer we will only contact you by email with information about goods and services similar to those which were the subject of a previous sale to you.
-  * If you are a new customer we will contact you by email only if you have consented to this.
-  * If you do not want us to use your data in this way, please tick the relevant box situated on the form on which we collect your data or on the form used to create your online account.
-
-  
-
-
-##### Cookies
-
-Changes to an European Union directive mean that we are required to ask your permission before storing non-essential cookies on your computer.
-
-A cookie is a small file that's stored on your computer by a website to remember certain information. Cookies can be used for many purposes, and some are essential to the way the website works. Cookies aren't evil.
-
-Some cookies are removed from your computer when you close your browser. These are called 'session cookies'. Others stay on your computer for longer, until they expire after a fixed time. These are called 'persistent cookies', and can be used to store information between your browsing sessions, such as your preferred settings on a website, or the items that you added to your basket on your last visit.
-
-Cookies that are strictly necessary to carry out actions which you've asked the site to do, such as adding items to your basket and checking out, are excluded from the new law. Without these cookies, the checkout process won't work and you won't be able to buy anything. We can use these cookies without explicitly asking your permission. These cookies are session cookies, and are removed when you leave the site and close your browser.
-
-This website uses cookies for the following purposes
-
-  
-
-
-  * To remember your language and country preferences on the site.
-  * To remember what you put in your basket on your last visit, so that we can keep your basket contents for you if you didn't already buy them.
-  * To track customer behaviour such as the pages visited on your way through the site, and the rate of basket abandonment. This helps us to improve the site and your browsing experience. This tracking information isn't linked to any of your personal details and doesn't let us identify you as an individual.
+  * information that you provide by filling in forms on our site, such as when you create an online account in order to purchase products, personalising our site with your preferences or requesting further services;
+  * information that you provide when requesting any marketing information, when you enter promotions, when you respond to a survey and/or when you report a problem with our site;
+  * details of transactions you carry out through our website and of the fulfilment of your orders (however we never store your payment details);
+  * details of your visits to our site and the resources that you access to visit our site (for example, URL addresses, traffic data etc.);
+  * information about yourself provided by you to us for specific purposes;
+  * if you contact us, we may keep a record of that correspondence;
+  * if you send us personal information which identifies you via email, we may keep your email and your email address to help us improve our services. 
 
 
 
-Our site also uses some third-party tools such as affiliate marketing, and recommendations and review services. These third-parties may also place cookies on the site.
+Other than as detailed above, information may be obtained about your internet usage through use of a cookie file, and further details about our use of cookies is set out in our Cookie Policy [ here](https://web.archive.org/fcp/content/Cookies/content).
 
-By continuing to use the site with your current browser settings, you consent to allow this site to use cookies.
+Sensitive personal information 
+    
 
-  
+We do not seek to collect sensitive personal information (i.e. information relating to race or ethnic origin, political opinions, religious or other beliefs, trade union membership, physical or mental health, sexual orientation or criminal records). We recommend that you do not provide such information to us, but to the extent you choose to do so this will mean that you have given explicit consent (and we have accepted) for us to use the information for the reasons set out in this policy.
 
+How we store your information 
+How we use your information 
+Access to your information 
