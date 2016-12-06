@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diybookcovers.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605025521id_/http%3A//diybookcovers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diybookcovers.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206185817id_/http%3A//diybookcovers.com/privacy) for the most accurate reproduction.*
 
 # DIY book cover templates: Make your own cover design in MS Word
 
