@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clashofclans-tools.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628023427id_/http%3A//www.clashofclans-tools.com/Contact) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clashofclans-tools.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206070620id_/http%3A//www.clashofclans-tools.com/Contact) for the most accurate reproduction.*
 
 # Contact Us
 
