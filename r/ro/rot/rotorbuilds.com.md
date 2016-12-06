@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotorbuilds.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528155003id_/http%3A//rotorbuilds.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotorbuilds.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206091322id_/http%3A//rotorbuilds.com/privacy.php) for the most accurate reproduction.*
 
 # RotorBuilds.com - Privacy Policty
 
