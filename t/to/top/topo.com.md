@@ -1,120 +1,136 @@
-> *The following text is extracted and transformed from the topo.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412221304id_/http%3A//alltrails.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topo.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206170506id_/http%3A//www.natgeomaps.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | AllTrails.com
+# Privacy Policy
 
-**Last updated on January 17, 2012.**
+**Privacy Policy - Your Privacy Right** Scope of the Privacy Policy This Web site is operated by National Geographic Maps a division of the National Geographic Society. Our websites are known as nationalgeographic.com, natgeomaps.com, and topo.com. We refer to these organizations as "National Geographic," "we" or "our." National Geographic understands the importance of our customers' privacy. Our Privacy Policy tells you what information we collect when you visit our Web site, how we use, share and protect it, what choices you have about how the information is used, and how you can access and update that information. If you do not agree to this Privacy Policy, please do not use this Web site. This Privacy Policy applies to personally identifiable information collected on the Web site where this Privacy Policy is posted. For purposes of this Privacy Policy, "personally identifiable information" means information that identifies a particular individual, such as name, postal address, e-mail address, and phone number. When other information, such as e-mail newsletter choices, magazine or product purchases, or consumer product preferences, is directly associated with personally identifiable information, this other information also becomes personally identifiable information.
 
- **AllTrails, Inc.** ( _“AllTrails”_ , _“our”_ , _“us”_ or _“we”_ ) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of [alltrails.com](http://alltrails.com/) (collectively, the _“Site”_ ) and our proprietary and co-branded applications for mobile devices (any and all of the foregoing, the _“Application”_ ). This Privacy Policy applies only to information that you provide to us through the Site and Application. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site or via the Application. You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our AllTrails [Terms of Use](https://web.archive.org/terms)
+Information Collection:
 
-As used in this policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
+**Personally Identifiable Information We Collect**   
+There are many features on this Web site for which no registration is required. However, if you are interested in obtaining information, products or services from National Geographic, or in participating in certain activities on this Web site (such as making an online purchase, subscribing to one of our magazines, becoming a member of National Geographic, making an online donation to National Geographic, or participating in sweepstakes, contests, surveys, or certain special initiatives), you may need to provide us with information about yourself. For example, if you order a product from us, we ask for your name, postal address, e-mail address, telephone number and your credit card number. If you are ordering a product as a gift for another person, we will ask you for that person's name, postal address and phone number in order to enable us to deliver the gift to the recipient. If you participate in an activity such as a survey or sweepstakes, we may also ask you to provide other types of information such as gender and personal interests, which we may associate with personally identifiable information. In addition, we may combine personally identifiable information that you have provided to us with other information that is publicly available or that we receive from other reputable sources. 
 
-Information Collection and Use
-    
+**Other Information Collected Through Technology**  
+In addition to information you choose to provide to us, we also collect non-personally identifiable information through technology to make our site more interesting and useful to you. For instance, when you come to our site, we collect your Internet Protocol ("IP") address. An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet service provider). Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses to collect information regarding the frequency with which our visitors visit various parts of our sites. We may combine this information with personally identifiable information that you have provided to us and/or with other information that is publicly available or that we receive from other reputable sources in order to make our Web site and communications more targeted to your interests. 
 
-Our primary goals in collecting information are to provide and improve our Site, Application, services, features and content, to administer your use of the Site and Application (together, the _“Service”_ ) and to enable users to enjoy and easily navigate the Site and Application.
+Our Web site also uses cookies. Cookies are small text files that are stored on a user's computer and allow web sites to remember information about users. We use cookies for a variety of purposes in order to enhance the quality of our Web site. We use transient (also called "session ID") cookies to provide continuity from page to page. A session ID cookie expires when you close your browser. We also use persistent cookies. Persistent cookies allow our online store and other parts of our Web site to recognize your browser when you return after your first visit to that part of our Web site. Cookies allow us to personalize your return visits to our site and to save you time during certain activities, such as checking out from our online store. You can choose to remove persistent cookies through your browser options. However, if you do so, your ability to use some areas of our site will be limited, such as our shopping cart feature or online games.
 
-**Personally Identifiable Information.**
+Finally, our Web site uses a variety of technical methods for tracking purposes, including clear gifs (also known as Web beacons). Clear gifs are small pieces of data that are embedded in images on the pages of Web sites. We use these technical methods to tell us what parts of our Web site you have visited or to measure the effectiveness of any searches you may do on our site. These technical methods may involve the transmission of information directly to us or to a service provider authorized by us to collect information on our behalf. We also use these technical methods in HTML e-mails that we send our visitors who have agreed to receive e-mail from us, to determine whether our visitors have opened those e-mails and/or clicked on links in those e-mails. The information from use of these technical methods may be combined with information that is personally identifiable so that we can make our Web site, and any e-mails you have agreed to receive, more interesting to you.
 
-  * In the course of using the Service, we may ask you to provide us with, or grant us access to, or permission to obtain, certain personally identifiable information that can be used to contact or identify you (“ _Personal Information_ ”). Personal Information includes, but is not limited to, your name, phone number, pictures of you, your email address, your postal address and your billing information (e.g., credit card number and billing address).
+Information Use:  
+National Geographic may use your personally identifiable information to deliver the products and services that you request, enhance your experience on our site, provide you with informational and/or promotional materials that you might find interesting, and for internal business analysis and other business purposes consistent with this policy. These uses may generally be categorized as relationship maintenance uses and promotional uses. We describe these uses in more detail below.
 
-  * In order to access certain features of the Service, you must register to create an account ( _"Account"_ ) and become a _"Member"_. In connection with registration we will collect Personal Information from you. (See “ _Information Sharing and Disclosure: Preferred Partners,_ ” below for a description of the circumstances under which we may share information, which may contain your Personal Information, with our partners). 
+**Relationship Maintenance Uses**  
+National Geographic uses your personally identifiable information to maintain and manage your account, deliver services that you have requested, and generally enhance your experience on our Web site. Collectively, we refer to these types of uses as "Relationship Maintenance Uses," and they include all of the ways in which we use your personally identifiable information to maintain and manage our relationship with you that do not involve sending promotional materials. Examples of Relationship Maintenance Uses include, but are not limited to:
 
-  * You may register directly via the Site and Application or by logging into your account with certain third party social networking services ( _“SNS”_ ) via the Site and Application, as described herein. If you decide to register through an SNS, we will extract the Personal Information and other information you have provided to the SNS (such as your “real” name, email address, profile picture and other information you choose to make publicly available via the applicable SNS) from the account you have with the applicable SNS and use that information to create your Account. The specific information that we extract may depend on the privacy settings you have with the SNS. We use your Personal Information mainly to provide the Service, complete your transactions and administer your inquiries. 
-
-  * We also collect the other information that you provide as part of registration and the administration and personalization of your profile webpage (e.g., without limitation, age, zip code (on its own) and individual preferences) ( _“Non-Identifying Information”_ ). For users of the Application, the type of Non-Identifying Information we collect also includes, but is not limited to: (i) mobile device type, device identification code and device properties; (ii) geographical data, including, but not limited to, your country of residence; and (iii) ads you click on within the Application. 
-
-  * Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other AllTrails Users (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Service and to analyze and understand how our Site, Application and Service are used. We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a product to you according to your preferences or restrictions. 
-
-  * We also use your Personal Information to contact you with AllTrails newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or via the “My Account” section of the Site. (See _“Changing or Deleting Information,”_ below.) 
-
-  * **Promotions.** From time to time we may provide you the opportunity to participate in surveys, contests or sweepstakes (collectively, _“Promotions”_ ) through the Site and Application. If you decide to participate, we will request certain Personal Information from you. Participation in these Promotions is completely voluntary and you have a choice whether or not to disclose this information. We use this information to administer your participation in each Promotion. 
-
-  * **Log Data.** When you visit the Site and Application, whether as a Member or a non-registered user just browsing (any of these, an _“AllTrails User”_ ), our servers automatically record information that your browser sends whenever you visit a website ( _“Log Data”_ ). This Log Data may include information such as your computer’s Internet Protocol ( _“IP”_ ) address, browser type or the webpage you were visiting before you came to our Site and Application, pages of our Site and Application that you visit, the time spent on those pages, information you search for on our Site and Application, access times and dates, and other statistics. We use this information to monitor and analyze use of the Site, Application and Service and for the Site and Application’s technical administration, to increase our Site and Application’s functionality and user-friendliness, and to better tailor our Site and Application to our visitors’ needs. For example, some of this information is collected so that when you visit the Site and Application again, the Site and Application will recognize you and serve advertisements and other information appropriate to your interests. We also use this information to verify that visitors to the Site and Application meet the criteria required to process their requests. 
-
-
-
-Cookies & Other Technologies
-    
-
-Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your login information for future logins to the Site and Application. Second, we utilize session ID cookies to enable certain features of the Site and Application, to better understand how you interact with the Site and Application and to monitor aggregate usage by AllTrails Users and web traffic routing on the Site and Application. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site, Application and Service and then close your browser. Third party advertisers on the Site and Application may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site and Application or all functionality of the Service. 
-
-We also use "web beacons," "pixel tags," "clear GIFs" or similar means (individually or collectively _"Web Beacons"_ ) on our Site and Application. A Web Beacon is an electronic image, often a single pixel, embedded on web pages. Web Beacons are ordinarily not visible to users. Web Beacons allow us to count the number of users who have visited certain pages of the Site and Application to deliver branded services and to generate statistics about how our Site and Application are used. 
-
-Phishing
-    
-
-Identity theft and the practice currently known as “phishing” are of great concern to AllTrails. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, login information, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission’s website. 
-
-Inviting a Friend to Use AllTrails
-    
-
-As part of the Service, Members may invite non-registered users to use the Service through use of their Accounts. Where a Member selects the option of adding one or more email addresses to an online form, the message such Member creates in the corresponding template will be sent from AllTrails to those email addresses on the Member’s behalf. These email addresses will be used only for the purpose of sending the communication to the addressee. 
-
-Information Sharing and Disclosure
-    
-
-**AllTrails Members.** We will display your Personal Information in your profile page and elsewhere on the Site and via our Service according to the preferences you set in your Account. For example, AllTrails Users will see your profile picture, name, location (city and state), the date you first registered via the Service, your Member status and your favorite activities. AllTrails Users will also see information related to your activities on the Site and Application, including, but not limited to, photos you upload, trails you create or complete, reviews of trails you post and individuals you add as friends and follow via the Service. If you would like to make the information in your profile private (i.e., not publicly viewable via the Site and Application), you may do so via the “My Profile” section of the Site and Application. Providing your Personal Information is voluntary and should correlate with the degree of interaction you want to have with others. For further information regarding “Submissions” see the AllTrails Terms of Use. 
-
-**Preferred Partners.** We may share the information you provide during registration (e.g., your username, name, email address and zip code) (“Specific Shared Data”) with certain of our partners (“Preferred Partners”) for those parties to use such Specific Shared Data to provide you with information and marketing materials about their own applications, products and services and to further enhance your use of our Service. For example, such data sharing may occur when you use an Application that is co-branded by AllTrails and one or more of our Preferred Partners. At the time of registration to use the Service, you may have the option to opt out of our sharing Specific Shared Data, with the applicable Preferred Partner. We only share Specific Shared Data with our Preferred Partners pursuant to an agreement under which the Preferred Partner is obligated to maintain and use the Specific Shared Data it receives solely for the purposes for which it was provided to the partner or in compliance with applicable law. Notwithstanding the foregoing, in the event that the Preferred Partner’s privacy policy is surfaced to you in connection with the registration process, the Preferred Partner’s privacy policy will also apply to the use of your Specific Shared Data by the Preferred Partner. 
-
-**SNSs.** The Service gives you the option to share information contained in your Account with certain SNSs (including but not limited to Twitter and Facebook). AllTrails will not share your Account information, which may contain your Personal Identifiable Information, with such SNSs unless you expressly authorize such disclosure. 
-
-**Facebook Connect.** Our Site and Application allow users to create an Account and login to the Site and Application using their Facebook account credentials through Facebook Connect. By using Facebook Connect, you are allowing AllTrails to access your Facebook account information. If you are not currently registered as a Member and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join AllTrails. We give Members the option to disable Facebook Connect at any time by accessing your Facebook account and disconnecting access to the Site, Application and Service. 
-
-**Aggregate Information and Non-Identifying Information.** We may share aggregated information that includes your Personal Information, Non-Identifying Information and Log Data with third parties for industry analysis and demographic profiling and to deliver targeted advertising about other products and services. 
-
-**Service Providers.** We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, payment processing, web analytics and improvement of the Site and Application’s features) or to assist us in analyzing how our Site, Application and Service are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. 
-
-**Compliance with Laws and Law Enforcement.** AllTrails cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of AllTrails or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable activity. 
-
-**Business Transfers.** AllTrails may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy 
-
-YOUR CALIFORNIA PRIVACY RIGHTS:
-    
-
-California Civil Code Section 1798.83 permits customers of AllTrails who are California residents to request certain information regarding its disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [privacy_at_alltrails_dot_com](mailto:privacy@alltrails.com) or write us: AllTrails, Inc., 111 Pine Street, Suite 1605, San Francisco, California 94111. 
-
-Changing or Deleting Your Information
-    
-
-All Members may review, update, correct or delete the Personal Information in their Account by contacting us or via the “My Profile” section of the Site and Application. If you completely delete all such information, then your Account may become deactivated. If you would like us to delete your Account in our system, please contact us at [privacy_at_alltrails_dot_com](mailto:privacy@alltrails.com) with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes 
-
-Security
-    
-
-AllTrails is very concerned with safeguarding your information. We employ reasonable physical, technological, and administrative security measures and attempt to ensure they are applicable under the circumstances. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
-
-We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on the Site or via the Application in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system. 
-
-International Transfer
-    
-
-Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, AllTrails transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. 
-
-Links to Other Sites or Applications
-    
-
-Our Site and Application may contain links to other websites or applications, e.g.:
-
-  * Your Account may be linked to your SNS account.
-
-  * There may be advertisements served to you within the Site and Application. 
-
-  * You may be brought to the website of our third party payment processors.
+  * Processing and tracking your membership and magazine subscriptions
+  * Processing and tracking your product orders
+  * Processing and tracking your online donations to National Geographic
+  * Providing the services you request
+  * Contacting you about the status of an order
+  * Sending you magazine renewal notifications
+  * Sending you other administrative communications
+  * Sending you surveys
+  * Sending you updates to our privacy policy
+  * Making changes to Web-based features
 
 
 
+**Promotional Uses  
+National Geographic may also use your personally identifiable information to provide you with promotional information about activities, services and products offered by us or selected third parties, including promotional material that you have requested. We strive to select trustworthy, reputable companies who offer high quality products or services of interest to you. Examples of promotional uses include, but are not limited to:**
 
-If you click on another third party link, you will be directed to that third party’s website or application. The fact that we link to a website or application is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites or applications. These other websites or applications may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit. 
+**
+  * Providing you with information about educational opportunities
+  * Providing you with promotional materials about National Geographic products and services
+  * Providing you with e-mail newsletters
+** 
 
-Our Policy Toward Children
-    
 
-The Site and Application are not directed to persons under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [privacy_at_alltrails_dot_com](mailto:privacy@alltrails.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
+National Geographic may provide you with promotional materials by postal mail, e-mail, telephone or other means. You may opt out of receiving promotional communications from us by mail, e-mail and/or telephone and in the case of e-mail, you can always opt out of receiving subsequent promotional e-mails by clicking on the unsubscribe link that we provide in every such promotional e-mail message. Please keep in mind, however, that when you purchase or request products or services from National Geographic or our licensees, promotional materials may accompany delivery of that product or service. Any opt-outs that you may make will therefore not apply to these materials because they accompany products or services that you have requested.
 
-Contacting Us
-    
+Information Sharing and Disclosure:  
+We take very seriously our responsibility to maintain your privacy with respect to your personally identifiable information. We will therefore share that information only with the following entities, and only in the manner described below.   
 
-If you have any questions about this Privacy Policy, please contact us at [privacy_at_alltrails_dot_com](mailto:privacy@alltrails.com) or at: 
 
-AllTrails, Inc. 111 Pine Street, Suite 1605 San Francisco, CA 94111
+  
+**Service Providers**  
+National Geographic contracts with other companies to provide certain services on our behalf, including credit card processing, shipping, e-mail distribution, and promotions management. We provide these companies only with the information they need to perform their services, and they are permitted to use the information only for that specific purpose or as required by law, unless any additional use or sharing of the information is separately permitted under another provision of this Privacy Policy. 
+
+  
+**National Geographic Licensees**  
+We may share your personally identifiable information with third parties that offer products and/or services under or in association with brand names of National Geographic. These third parties are called "licensees," and some examples include, but are not limited to: 
+
+  * Tour operators that offer expeditions under the National Geographic brand name
+  * The bank that issues the National Geographic Mastercard
+  * The company that offers you the National Geographic holiday greeting card program
+
+
+
+You can tell when a licensee offers one of our products or services, because our name appears on the product or on materials describing the service, or the licensee's name appears jointly with ours. These licensees are restricted by contract from using your personally identifiable information that we share with them for any marketing or promotional purpose that is not related to their National Geographic licensed product or service. To protect your rights, the use of your personally identifiable information by our licensees is subject to the same opt-out rights (and limitations upon those rights) that apply to the use of personally identifiable information by National Geographic and that are described below in the section entitled "Your Choices." However, if you choose to access or purchase a product or service that is offered by one of our licensees, that licensee may in some cases then collect your personally identifiable information subject to its own privacy practices. Because we do not control the privacy practices of our licensees, you should review their practices before you choose to access their products and services. 
+
+**Co-Branded Partners**   
+National Geographic may share your information with our partners when you engage in certain activities on our sites that they co-sponsor, such as purchasing products or services offered by our partners, electing to receive information or communications from our partners, or electing to participate in contests, sweepstakes, games or other programs sponsored in whole or in part by our partners. National Geographic may also share your personally identifiable information when you respond to promotional materials from National Geographic that authorize our partners to use your personally identifiable information for purposes such as sending you additional promotional materials, providing you a product or service, or entering you in a contest, sweepstakes or game. We refer to all these activities and requests as "Co-Branded Activities." When you participate in Co-Branded Activities, you will either be required or asked to agree that the sponsor or partner may use your personally identifiable information in accordance with the sponsor or partner's privacy practices. 
+
+**Subsidiaries and Affiliated Entities**   
+National Geographic has a number of subsidiary and affiliated entities ("Affiliates") that offer a wide range of products and services. One example is NGT, Inc., which operates the National Geographic Channel in the United States. We may share your personally identifiable information with our Affiliates so they can let you know about product and service offerings in which you might be interested. The use of your personally identifiable information by our Affiliates is subject to the same opt-out rights (and limitations upon those rights) that apply to the use of personally identifiable information by National Geographic and that are described below in the section entitled "Your Choices." 
+
+  
+**Other Third Parties for Promotional Purposes**   
+National Geographic may share your personally identifiable information with other selected third parties so that they may send you promotional materials about goods and services that they offer. When we share your information for promotional purposes, we attempt to select only reputable companies that offer high-quality products and services. You have the opportunity to opt out of our sharing your personally identifiable information with these selected third parties for promotional purposes, as described below in the section entitled "Your Choices." And we will not share your e-mail address with third parties for promotional purposes unless you consent to such sharing by affirmatively agreeing to it on our e-mail newsletter registration page or elsewhere. 
+
+  
+**Legal Purposes; Business Transactions**   
+National Geographic may disclose any user or customer information, including personally identifiable information, when we believe that doing so is required by law; may be necessary to protect the property, rights, or safety of ourselves, visitors to our Web sites, or other persons; or will help to enforce any terms of use or contest, sweepstakes, promotions, games or other rules. It may also be necessary to disclose our customers' personally identifiable information to third parties, such as credit card companies, to help resolve disputes that arise in the ordinary course of business. National Geographic may also transfer user or customer information, including personally identifiable information, in connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale. 
+
+  
+**Aggregate Information (non-personally identifiable)**   
+National Geographic may share with third parties aggregated information about you and other visitors to our Web site. When we do this, however, we make any personally identifiable information non-personally identifiable by combining it with information about other individuals or by removing characteristics that make the information personally identifiable to you. We share this information in order to improve our Web site and develop content and services that we hope will be of interest to you. 
+
+**Your Choices**   
+We understand the importance of protecting our customers' privacy, and we therefore provide you with the opportunity to opt-out of having your personally identifiable information used or disclosed for certain purposes. Receiving promotional communications from National Geographic, including our Affiliates and our licensees, is optional. If you do not wish to receive promotional communications from National Geographic, including our Affiliates and our licensees, please call or write to us at the address below. 
+
+  
+As described elsewhere in this Privacy Policy, it is also optional to allow us to share your personally identifiable information with selected reputable third parties so that they can provide you with promotional communications. If you do not wish us to do so, please call or write to us at the address below. 
+
+  
+You may also use this address and phone number to request us to update or change any of your personally identifiable information, or to request additional information regarding our disclosure of your personally identifiable information to certain third parties for promotional purposes. 
+
+Call us at General Society Information 800 NGS LINE (800 647 5463), 800 548 9797 (TDD), or outside the United States and Canada at +1 813 979 6845. 
+
+Write to us at: National Geographic Society, Attn: Marketing Services - Privacy, 1145 17th Street NW, Washington, DC 20036-4688, and include your name, address, telephone number, e-mail address and a note of instructions. 
+
+If you have previously agreed to receive e-mail and/or e-mail newsletters from us, you may use the address and phone number above to notify us that you no longer wish to receive such e-mail and/or e-mail newsletters, or you may change your preferences by going to [www.nationalgeographic.com/register.html ](http://www.nationalgeographic.com/community/register.html) and clicking on the "change your selections" link.  
+
+
+  
+As noted earlier in this Privacy Policy, National Geographic will not share your e-mail address with third parties for them to send you promotional communications unless you have opted in to such use. If you have previously opted in to such use, you may use the address and phone number above to notify us that you no longer wish to have us share your e-mail address with selected third parties for promotional purposes, or you may change your preferences by going to [www.nationalgeographic.com/register.html ](http://www.nationalgeographic.com/community/register.html) and clicking on the "change your selections" link. 
+
+  
+Because we plan our communications in advance, it may take several weeks for your request to become effective. If, due to human error, you continue to receive our communications, please contact us again and we will make every effort to correct the situation. 
+
+We may provide links on our Web site to other sites we think you will enjoy. These sites operate independently of National Geographic and have established their own privacy and security policies. We encourage you to be aware when you leave our site and to read these policies at any site you visit. 
+
+**Information Security**   
+The security and confidentiality of your information is extremely important to us, and we take a number of steps to safeguard any personally identifiable information or credit card information that you provide to us. We use data encryption technology to help protect against loss, misuse or alteration of your credit card information. Secure Socket Layers (SSLs) encrypt the credit card information sent between your computer and our database. However, no method of transmitting or storing electronic data is ever completely secure, and therefore we cannot warrant or guarantee that such information will never be accessed, used or released in a manner that is inconsistent with this policy. 
+
+**Personally Identifiable Information Contained in User Content**   
+Some sections of our Web site may allow users to post or transmit messages, comments, screen names, computer files and other materials. National Geographic does not monitor such transmissions, and therefore cannot be responsible for any personally identifiable information or other information that may be contained in such transmissions. 
+
+**Children's Privacy**   
+Other than certain sections of this Web site that are intended for visits from children under the age of 13—including [www.nationalgeographic.com/kids ](http://www.nationalgeographic.com/kids/), [www.nationalgeographic.com/ngkids ](http://www.nationalgeographic.com/ngkids/), and [www.nationalgeographic.com/ngexplorer ](http://www.nationalgeographic.com/ngexplorer/) — our Web site is a general audience site, and we do not knowingly collect information about children. Should a child whom we know to be under 13 make known to us his or her personally identifiable information, we will use that information only to respond directly to that child to inform him or her that we must have parental consent before receiving his or her personally identifiable information. 
+
+**Changes in this Privacy Policy**   
+We may amend this Privacy Policy at any time. If we make any material changes in the way we collect, use, and/or share your personally identifiable information, we will notify you by sending you an e-mail at the last e-mail address that you provided us and/or by prominently posting notice of the changes on the Web sites covered by this Privacy Policy. In any event, changes to this Privacy Policy may affect our use of personally identifiable information that you provided us prior to our notification to you of the changes. 
+
+**Contact Us  
+If you have questions or wish to send us comments about this Privacy Policy, please write us at:**
+
+**
+
+National Geographic Society  
+Attn: Marketing Services - Privacy  
+1145 17th Street NW  
+Washington, DC 20036-4688
+
+This policy was last updated April 21, 2005 
+
+**
