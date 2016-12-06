@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoursonglyrics.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503100218id_/http%3A//www.yoursonglyrics.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoursonglyrics.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207004732id_/http%3A//www.yoursonglyrics.com/privacy-policy.php) for the most accurate reproduction.*
 
 # YourSongLyrics.com - Privacy Policy
 
