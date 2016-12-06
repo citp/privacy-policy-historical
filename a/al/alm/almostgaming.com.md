@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the almostgaming.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519203145id_/http%3A//www.almostgaming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almostgaming.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206061417id_/http%3A//www.almostgaming.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,3 +11,6 @@ The information we collect is used for internal review and is then discarded, us
 With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart. You will not receive an e-mail from us unless you sign up for our newsletter.
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: Google Adsense.
+
+  *   *   *   *   *   * 
+
