@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inmatrix.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608111739id_/http%3A//inmatrix.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmatrix.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206231103id_/http%3A//inmatrix.com/privacy.shtml) for the most accurate reproduction.*
 
 # Zoom Player - Privacy Policy
 
@@ -9,7 +9,7 @@ All users who view our pages retain complete anonymity where Inmatrix is concern
 Inmatrix may use cookies to improve your web browsing experience. When you are first served an Inmatrix page, Inmatrix may assign a unique random number to your computer browser - commonly known as a "cookie." We do this to save you the trouble of entering the same data repeatedly (your user name in the forum as an example). Most web browsers automatically accept cookies, but you can usually change your browser to prevent that use if you desire. 
 
 **Disclosure**  
-Inmatrix openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to our [eMail](http://www.inmatrix.com/email.shtml). 
+Inmatrix openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to our [eMail](http://inmatrix.com/email.shtml). 
 
 Inmatrix reserves the right to change our policy from time to time. A revised policy will apply to information collected after the date the policy is changed. 
 
