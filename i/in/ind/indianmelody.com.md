@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianmelody.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530072216id_/http%3A//www.indianmelody.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianmelody.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206165816id_/http%3A//www.indianmelody.com/privacy.htm) for the most accurate reproduction.*
 
 # Indian Melody : Privacy Policy
 
