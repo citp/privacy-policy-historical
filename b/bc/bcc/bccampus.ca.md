@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bccampus.ca privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422160447id_/https%3A//bccampus.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bccampus.ca privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206013405id_/https%3A//bccampus.ca/privacy) for the most accurate reproduction.*
 
 # Privacy | BCcampus
 
@@ -134,7 +134,6 @@ Ultimately, you are responsible for maintaining the secrecy of your passwords an
 
 Should you have any further questions or concerns about the privacy of information you provide to BCcampus, please contact:
 
-**Randy Bruce  
-**Director, Operations and Chief Information Officer  
-Telephone: 604-889-3422  
-Email: [rbruce@bccampus.ca](mailto:rbruce@bccampus.ca)
+**Brian Case  
+**Manager, IT Services  
+Email: bcase@bccampus.ca
