@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolrom.com.au privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520052135id_/http%3A//coolrom.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolrom.com.au privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206074012id_/http%3A//coolrom.com.au/privacy.php) for the most accurate reproduction.*
 
 # CoolROM.com.au - Privacy Policy
 
