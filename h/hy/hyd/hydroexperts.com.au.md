@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the hydroexperts.com.au privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617181504id_/http%3A//www.hydroexperts.com.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hydroexperts.com.au privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206174426id_/http%3A//www.hydroexperts.com.au/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
   * [Home](http://www.hydroexperts.com.au/)
-  * [Privacy Policy](https://web.archive.org/privacy_policy)
+  * [Privacy Policy](https://web.archive.org/page/privacy-policy/)
 
 
 
