@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anguilla-beaches.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604183532id_/http%3A//www.anguilla-beaches.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anguilla-beaches.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206041644id_/http%3A//www.anguilla-beaches.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ A web beacon is a transparent image file used to monitor your journey around a s
 
 We may serve third-party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site. 
 
-Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy](https://support.google.com/adsense/answer/2839090?hl=en). 
 
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose. 
 
