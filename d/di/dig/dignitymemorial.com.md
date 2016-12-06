@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dignitymemorial.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610214243id_/http%3A//www.dignitymemorial.com/dm20/en_US/main/dm/about-us/privacy-policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dignitymemorial.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206120305id_/http%3A//www.dignitymemorial.com/dm20/en_US/main/dm/about-us/privacy-policy.page) for the most accurate reproduction.*
 
-# Dignity Memorial Privacy Policy for www.DignityMemorial.com - Chattanooga Funeral Home, Crematory & Florist-Valley View Chapel
+# - Gracelawn Memorial Park
 
 Service Corporation International and its subsidiaries (including regional entities operating under the Dignity Memorial®, National Cremation Society®, or other brands) (“SCI”) are committed to respecting the privacy of our clients and website visitors in a manner that would be expected of a leading provider of funeral, cemetery, and related services. We value our relationships with existing and prospective clients, and recognize that an essential element of those relationships is the trust and confidence of the families we serve.
 
@@ -48,7 +48,7 @@ The Site may contain links to other websites, and other websites may link to thi
 The Site is not intended for use by children under the age of 13. If you are under the age of 13, you may not use our Sites. If a parent or legal guardian posts an entry on behalf of a child under the age of 13 on an online guestbook or other section of the Site, the parent or legal guardian must indicate that such entry is being made on behalf of the child by the parent or legal guardian. Caution and good judgment should be used in connection with any information provided concerning the child. If we believe that any information has been posted by a child under the age of 13, we will promptly delete that information. Parents may contact us using the methods set forth below to request that information concerning their child be removed from our Site. 
 
 **_How to Contact Us_**  
-Customer questions, comments and feedback are very important to us. For privacy-related issues, [**click here**](https://web.archive.org/dm20/en_US/locations/47/4741/common/about-us/contact-us.page?) to contact us via e-mail, or write to us at: Service Corporation International, 1929 Allen Parkway, Houston, Texas 77019. 
+Customer questions, comments and feedback are very important to us. For privacy-related issues, [**click here**](https://web.archive.org/dm20/en_US/locations/52/5282/common/about-us/contact-us.page?) to contact us via e-mail, or write to us at: Service Corporation International, 1929 Allen Parkway, Houston, Texas 77019. 
 
 **_Notification of Changes to Policy_**  
 We reserve the right to modify this Privacy Policy. Whenever we decide to change this Policy, notice of the change will be posted on the Site for a reasonable period of time. Nevertheless, you should review the Privacy Policy from time to time to be sure you are aware of the most recent version. Please be assured that we will only use information in accordance with the Privacy Policy in effect at the time the information was collected.
