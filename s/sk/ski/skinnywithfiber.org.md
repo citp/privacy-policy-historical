@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skinnywithfiber.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616201424id_/http%3A//skinnywithfiber.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnywithfiber.org privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206112752id_/http%3A//skinnywithfiber.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SkinnyWithFiber
+# Privacy Policy - SkinnyWithFiber
 
 SkinnyWithFiber (“ **SkinnyWithFiber** “) operates SkinnyWithFiber.org and may operate other websites. It is SkinnyWithFiber´s policy to respect your privacy regarding any information we may collect while operating our websites.
 
