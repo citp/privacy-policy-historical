@@ -1,24 +1,24 @@
-<!--The following is the downloaded HTML source of the hydroexperts.com.au privacy policy that was archived on 2016-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617181504id_/http%3A//www.hydroexperts.com.au/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hydroexperts.com.au privacy policy that was archived on 2016-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161206174426id_/http%3A//www.hydroexperts.com.au/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html lang="en" class=""><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="keywords" content="Privacy Policy">
 <meta name="description" content="Privacy Policy - Privacy Policy">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta property="og:image" content="/assets/website_logo.png">
+<meta property="og:image" content="/assets/webshop/cms/02/2.jpg">
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:site_name" content="Hydro Experts ">
 
 
 <title>Privacy Policy</title>
 
-<link rel="canonical" href="http://www.hydroexperts.com.au/privacy_policy">
+<link rel="canonical" href="http://www.hydroexperts.com.auPrivacy Policy">
 <link rel="shortcut icon" href="http://www.hydroexperts.com.au/assets/favicon_logo.png">
-<link class="theme-selector" rel="stylesheet" type="text/css" href="/assets/themes/sherwood/css/app.css?1463115872" media="all">
-<link rel="stylesheet" type="text/css" href="/assets/themes/sherwood/css/style.css?1463115872" media="all">
-<link rel="stylesheet" type="text/css" href="/assets/themes/sherwood/css/user-override.css?1463115872" media="all"><!--added user overide css-->
-<link rel="stylesheet" type="text/css" href="/assets/themes/sherwood/plugins/fancybox/jquery.fancybox.css?1463115872">
+<link class="theme-selector" rel="stylesheet" type="text/css" href="/assets/themes/sherwood/css/app.css?1481001211" media="all">
+<link rel="stylesheet" type="text/css" href="/assets/themes/sherwood/css/style.css?1481001211" media="all">
+<link rel="stylesheet" type="text/css" href="/assets/themes/sherwood/css/user-override.css?1481001211" media="all"><!--added user overide css-->
+<link rel="stylesheet" type="text/css" href="/assets/themes/sherwood/plugins/fancybox/jquery.fancybox.css?1481001211">
 <!--<link href="//fonts.googleapis.com/css?family=Lato:400,300" rel="stylesheet" type="text/css">--><!--Remove original font-->
 <link href="//fonts.googleapis.com/css?family=Montserrat:700,400" rel="stylesheet" type="text/css"><!--Added new font-->
 
@@ -38,7 +38,7 @@
 
 </script>
 <!-- End Google Analytics -->
-</head>
+<style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
 <body id="n_content">
 <div class="wrapper-header">
 <div class="navbar navbar-inverse hidden-xs hidden-sm navbar-fixed-top" role="navigation">
@@ -46,7 +46,7 @@
         <!-- embed in ajax to avoid caching breaking page -->
         <ul class="nav navbar-nav header-nav pull-left">
             <span nloader-content-id="ff114efefe85d436ad95928964f95d94" nloader-content="PGxpPjxhIGhyZWY9Ii8iIHRpdGxlPSJIb21lIj5Ib21lPC9hPjwvbGk-DQogICAgICAgICAgICA"></span><!--<li><a href="/contact-us" title="Contact us">Contact us</a></li>-->
-            <li><a href="#" title="Contact Us" data-toggle="modal" data-target="#myModal">Contact</a></li>
+            <!--<li><a href="#" title="Contact Us" data-toggle="modal" data-target="#myModal">Contact</a></li>-->
             
             <script type="text/javascript">
             $(document).ready(function() {
@@ -78,7 +78,7 @@
     		<li>
     		    <!--<a href="http://www.hydroexperts.com.au/shipping-returns/"> Free Shipping for orders above $499! </a>-->
                 <!-- Insert countdown wording here, Javascript code below-->
-                <a href="http://www.hydroexperts.com.au/shipping-returns/" id="shippingcountdown">Checkout in 02:31:36 for same day dispatch.</a>
+                <a href="http://www.hydroexperts.com.au/shipping-returns/" id="shippingcountdown">Checkout in 02:31:33 for same day dispatch.</a>
                 <!-- Insert countdown wording here, Javascript code below-->
                 <script type="text/javascript">
                 function ShowRemainingTime() {
@@ -88,22 +88,24 @@
                   var hrs = 11-now.getHours();
                   var mins = 59-now.getMinutes();
                   var secs = 59-now.getSeconds();
+                  var secondhrs = 14-now.getHours();
                     
                   // fix negative hours on same day
                   if (hrs < 0) {
                     	hrs = hrs+24;
                 	}
-                    
-                  // Fix Friday / Saturday / Sunday as not always 24 hours
-                   if (day == 6){
+                	
+                   // Fix Friday / Saturday / Sunday as not always 24 hours 
+                  if (day == 6){
                    		hrs = hrs + 48;
                    } else if (day == 5 && now.getHours() >= 12) {
-                   		hrs = hrs + 72;
+                   		hrs = hrs + 48;
                    } else if (day == 0) {
                    		hrs = hrs + 24;
                    } else {
                    		hrs = hrs;
                    } 
+                    
                    
                    // make double digits
                 	function n(n){
@@ -112,11 +114,16 @@
                 	hrs = n(hrs);
                 	mins = n(mins);
                 	secs = n(secs);
+                	secondhrs = n(secondhrs); 
                   
                   // test conditional outputs based on remaining time
-                  if (hrs < 12) { 
+                   //if(hrs > 20 && hrs > 68){
+                  if(hrs > 20){
+                     document.getElementById("shippingcountdown").innerHTML = "Checkout in " + secondhrs + ":" + mins + ":" + secs + " for same day dispatch.";
+                    }
+                    else if (hrs < 12) { 
                   		document.getElementById("shippingcountdown").innerHTML = "Checkout in " + hrs + ":" + mins + ":" + secs + " for same day dispatch.";
-                	} else if (hrs > 12 && hrs < 24) {
+                	} else if (hrs > 12 && hrs < 20) {
                 		document.getElementById("shippingcountdown").innerHTML = "Checkout in " + hrs + ":" + mins + ":" + secs + " for next day dispatch.";
                 	} else {
                 		document.getElementById("shippingcountdown").innerHTML = "Checkout in " + hrs + ":" + mins + ":" + secs + " for next business day dispatch.";
@@ -150,8 +157,7 @@
 					<div class="form-group">
                     <input class="form-control ajax_search searchbox" style="border: 1px solid #fff;/* box-shadow: inset 0 1px 3px #fff; */border-radius: 5px;padding: 5px;/* background-color: #fff; */height: 25px;" placeholder="  Enter Keyword..." value="" id="name_search" autocomplete="off" name="kw" type="search" nsearch-init="yes" nsearch-id="0">                   </div>     
 		</form>    
-		
-		
+
 		
 		
         </div><!--/.nav-collapse -->
@@ -183,22 +189,12 @@
 										
 									</li><li class=""> <a href="https://www.facebook.com/hydroexperts">Find us on Facebook!</a>
 										
-									</li><li class=""> <a href="/shipping-returns/">Shipping &amp; Returns</a>
-										
-									</li><li class=""> <a href="/privacy_policy">Privacy Policy</a>
-										
-									</li><li class=""> <a href="/terms_of_use">Website Terms of use</a>
-										
 									</li>
 											</ul>
 									</li><li class=""> <a href="/buying/grow-guides/">Resource Library</a>
 										
-									</li><li class=""> <a href="/buying/faq/">FAQ</a>
-										
-									</li><li class=""> <a href="/wholesale">Wholesale</a>
-										
 									</li>
-							<li><a href="#" title="Contact Us" data-toggle="modal" data-target="#myModal">Contact us</a></li>
+							<!--<li><a href="#" title="Contact Us" data-toggle="modal" data-target="#myModal">Contact us</a></li>-->
 						</ul></div>  
                    </div>  
 		</div>
@@ -206,7 +202,7 @@
 		<div class="hidden-xs col-sm-2 col-md-2 col-lg-2 text-right">
 		<!--vertixy make logo section bigger-->
 			<div id="header-cart" class="btn-group">
-				<a href="https://www.hydroexperts.com.au/_mycart?tkn=cart&amp;ts=1466187302802497" class="btn btn-default" id="cartcontentsheader">
+				<a href="https://www.hydroexperts.com.au/_mycart?tkn=cart&amp;ts=1481046264089264" class="btn btn-default" id="cartcontentsheader">
 					<i class="fa fa-shopping-cart"></i>
 				</a>
 				<a href="#" class="btn btn-default dropdown-toggle" data-toggle="dropdown"> <span class="visible-md visible-inline-md"></span><span rel="a2c_item_count">0</span></a>
@@ -230,7 +226,7 @@
 					    Products</a></li>-->
 						<li><a href="#" title="Contact Us" data-toggle="modal" data-target="#myModal"><span class="icon"><i class="fa fa-envelope"></i></span><br>
 					    Contact</a></li>
-						<li><a href="https://www.hydroexperts.com.au/_mycart?tkn=cart&amp;ts=1466187302068757"><span class="icon"><i class="fa fa-shopping-cart"></i></span><br>
+						<li><a href="https://www.hydroexperts.com.au/_mycart?tkn=cart&amp;ts=1481046264569814"><span class="icon"><i class="fa fa-shopping-cart"></i></span><br>
 						Cart (<span rel="a2c_item_count">0</span>)</a></li>
 						<li><a href="/_myacct/"><span class="icon"><i class="fa fa-user"></i></span><br>
 						Account</a></li>
@@ -300,10 +296,28 @@
     				        <a href="http://www.hydroexperts.com.au/horticultural-lighting/lighting-management-unit/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Lighting Management Unit</a>
     					</li>
     							</ul>
-    					</li><li class="">
+    					</li><li class="dropdown">
     					        <a href="http://www.hydroexperts.com.au/led/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border: none;padding: 10px 0px 10px 25px; font-size: larger;">LED</a>
-    					        
-    						
+    					        <a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="http://www.hydroexperts.com.au" style="padding:0px 25px;"><i class="fa fa-chevron-down"></i></a>
+    						<ul class="dropdown-menu list-group" style="margin-left:100px;">
+    								<li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/led/black-dog-led/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Black Dog LED</a>
+    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/led/kind-led/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Kind LED</a>
+    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/led/mars-hydro/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Mars Hydro</a>
+    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/led/mojo-cow/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Mojo Cow</a>
+    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/led/philips/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Philips</a>
+    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/led/plantilium/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Plantilium</a>
+    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/led/spectrum-king/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Spectrum King</a>
+    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/led/spider-cob/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Spider COB</a>
+    					</li>
+    							</ul>
     					</li><li class="dropdown">
     					        <a href="http://www.hydroexperts.com.au/nutrient/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border: none;padding: 10px 0px 10px 25px; font-size: larger;">Nutrients</a>
     					        <a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="http://www.hydroexperts.com.au" style="padding:0px 25px;"><i class="fa fa-chevron-down"></i></a>
@@ -315,23 +329,25 @@
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
     				        <a href="http://www.hydroexperts.com.au/nutrients/dutch-master/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Dutch Master</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
-    				        <a href="http://www.hydroexperts.com.au/nutrients/ozi-magic/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Ozi Magic</a>
-    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
     				        <a href="http://www.hydroexperts.com.au/nutrients/general-hydroponics/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">General Hydroponics</a>
+    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/nutrients/green-house-powder-feeding/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Green House Powder Feeding</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
     				        <a href="http://www.hydroexperts.com.au/nutrients/grotek/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Grotek</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
     				        <a href="http://www.hydroexperts.com.au/nutrients/house-garden/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">House &amp; Garden</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/nutrients/ozi-magic/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Ozi Magic</a>
+    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/nutrients/professors-nutrients/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Professor's Nutrients</a>
+    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
     				        <a href="http://www.hydroexperts.com.au/nutrient/rock/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Rock</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
-    				        <a href="http://www.hydroexperts.com.au/nutrients/green-house-powder-feeding/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Green House Powder Feeding</a>
+    				        <a href="http://www.hydroexperts.com.au/nutrients/uber/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Uber</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
     				        <a href="http://www.hydroexperts.com.au/nutrients/growth-technology/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Growth Technology</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
     				        <a href="http://www.hydroexperts.com.au/nutrient/other/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Other</a>
-    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
-    				        <a href="http://www.hydroexperts.com.au/nutrients/uber/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Uber</a>
     					</li>
     							</ul>
     					</li><li class="dropdown">
@@ -341,13 +357,15 @@
     								<li class="lv2-li list-group-item" style="border: none;padding:0;">
     				        <a href="http://www.hydroexperts.com.au/environmental-control/carbon-filter/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Carbon Filter</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/environmental-control/climate-monitor-controller/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Climate Monitor &amp; Controller</a>
+    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
     				        <a href="http://www.hydroexperts.com.au/environmental-control/insulated-non-insulated-duct/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Insulated &amp; Non-Insulated Duct</a>
+    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/environmental-control/co2-carbon-dioxide/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">CO2 (Carbon Dioxide)</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
     				        <a href="http://www.hydroexperts.com.au/environmental-control/duct-fitting/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Duct Fitting</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
     				        <a href="http://www.hydroexperts.com.au/environmental-control/fan/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Fan</a>
-    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
-    				        <a href="http://www.hydroexperts.com.au/environmental-control/fan-controller/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Fan Controller</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
     				        <a href="http://www.hydroexperts.com.au/environmental-control/fan-duct-combo/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Fan &amp; Duct Combo</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
@@ -363,11 +381,15 @@
     					        <a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="http://www.hydroexperts.com.au" style="padding:0px 25px;"><i class="fa fa-chevron-down"></i></a>
     						<ul class="dropdown-menu list-group" style="margin-left:100px;">
     								<li class="lv2-li list-group-item" style="border: none;padding:0;">
-    				        <a href="http://www.hydroexperts.com.au/measure-analyse/nutrient-meter/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Nutrient Meter</a>
+    				        <a href="http://www.hydroexperts.com.au/measure-analyse/calibration-solutions/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Calibration Solutions</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
-    				        <a href="http://www.hydroexperts.com.au/measure-analyse/ph-control/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">PH Control</a>
+    				        <a href="http://www.hydroexperts.com.au/measure-analyse/ec-tds-meters/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">EC / TDS Meters</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
-    				        <a href="http://www.hydroexperts.com.au/measure-analyse/electrode-maintenance/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Electrode Maintenance</a>
+    				        <a href="http://www.hydroexperts.com.au/measure-analyse/ph-meters/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">pH Meters</a>
+    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/measure-analyse/ph-up-down/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">pH Up &amp; Down</a>
+    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/measure-analyse/other-meters/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Other Meters</a>
     					</li>
     							</ul>
     					</li><li class="">
@@ -392,8 +414,30 @@
     				        <a href="http://www.hydroexperts.com.au/propagation/propagation-tent-bundles/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Propagation &amp; Tent Bundles</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
     				        <a href="http://www.hydroexperts.com.au/propagation/rooting-compounds/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Rooting Compounds</a>
+    					</li>
+    							</ul>
+    					</li><li class="dropdown">
+    					        <a href="http://www.hydroexperts.com.au/pots-reservoirs/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border: none;padding: 10px 0px 10px 25px; font-size: larger;">Pots &amp; Reservoirs</a>
+    					        <a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="http://www.hydroexperts.com.au" style="padding:0px 25px;"><i class="fa fa-chevron-down"></i></a>
+    						<ul class="dropdown-menu list-group" style="margin-left:100px;">
+    								<li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/pots-reservoirs/feeder-rings/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Feeder Rings</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
-    				        <a href="http://www.hydroexperts.com.au/propagation/propgation-accessories/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Propgation Accessories</a>
+    				        <a href="http://www.hydroexperts.com.au/pots-reservoirs/flood-drain-trays/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Flood &amp; Drain Trays</a>
+    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/pots-reservoirs/geopot-fabric-pots/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Geopot Fabric Pots</a>
+    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/pots-reservoirs/pot-sets/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Pot Sets</a>
+    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/pots-reservoirs/pot-liners/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Pot Liners</a>
+    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/pots-reservoirs/mesh-pots/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Mesh Pots</a>
+    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/pots-reservoirs/nutrifield-pro-pot-systems/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Nutrifield Pro Pot Systems</a>
+    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/pots-reservoirs/heavy-duty-fabric-pots/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Heavy Duty Fabric Pots</a>
+    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/pots-reservoirs/tubs-reservoirs/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Tubs &amp; Reservoirs</a>
     					</li>
     							</ul>
     					</li><li class="dropdown">
@@ -409,11 +453,9 @@
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
     				        <a href="http://www.hydroexperts.com.au/hydroponic-systems-parts/hydroponic-water-system/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Hydroponic Water System</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
-    				        <a href="http://www.hydroexperts.com.au/hydroponic-systems-parts/irrigation-fittings/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Irrigation Fittings</a>
+    				        <a href="http://www.hydroexperts.com.au/hydroponic-systems-parts/plumbing-fittings/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Plumbing Fittings</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
-    				        <a href="http://www.hydroexperts.com.au/hydroponic-systems-parts/microtube/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Microtube</a>
-    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
-    				        <a href="http://www.hydroexperts.com.au/hydroponic-systems-parts/pots-buckets/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Pots &amp; Buckets</a>
+    				        <a href="http://www.hydroexperts.com.au/hydroponic-systems-parts/water-air-tubings/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Water &amp; Air Tubings</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
     				        <a href="http://www.hydroexperts.com.au/hydroponic-systems-parts/water-chiller-heater/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Water Chiller &amp; Heater</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
@@ -427,19 +469,17 @@
     					        <a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="http://www.hydroexperts.com.au" style="padding:0px 25px;"><i class="fa fa-chevron-down"></i></a>
     						<ul class="dropdown-menu list-group" style="margin-left:100px;">
     								<li class="lv2-li list-group-item" style="border: none;padding:0;">
-    				        <a href="http://www.hydroexperts.com.au/accessories/co2-generator/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">CO2 Generator</a>
+    				        <a href="http://www.hydroexperts.com.au/accessories/books/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Books</a>
+    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/accessories/detox-test-kits/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Detox &amp; Test Kits</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
     				        <a href="http://www.hydroexperts.com.au/accessories/fire-extinguishers/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Fire Extinguishers</a>
+    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
+    				        <a href="http://www.hydroexperts.com.au/accessories/others/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Others</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
     				        <a href="http://www.hydroexperts.com.au/accessories/pest-control/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Pest control</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
     				        <a href="http://www.hydroexperts.com.au/accessories/timers-controls/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Timers &amp; Controls</a>
-    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
-    				        <a href="http://www.hydroexperts.com.au/accessories/others/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Others</a>
-    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
-    				        <a href="http://www.hydroexperts.com.au/accessories/books/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Books</a>
-    					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
-    				        <a href="http://www.hydroexperts.com.au/accessories/detox-test-kits/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Detox &amp; Test Kits</a>
     					</li>
     							</ul>
     					</li><li class="dropdown">
@@ -471,17 +511,17 @@
     					</li>
     							</ul>
     					</li><li class="dropdown">
-    					        <a href="http://www.hydroexperts.com.au/vaporizer-herb-accessories/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border: none;padding: 10px 0px 10px 25px; font-size: larger;">Vaporizer &amp; Herb Accessories</a>
+    					        <a href="http://www.hydroexperts.com.au/vaporizer-accessories/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border: none;padding: 10px 0px 10px 25px; font-size: larger;">Vaporizer &amp; Accessories</a>
     					        <a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="http://www.hydroexperts.com.au" style="padding:0px 25px;"><i class="fa fa-chevron-down"></i></a>
     						<ul class="dropdown-menu list-group" style="margin-left:100px;">
     								<li class="lv2-li list-group-item" style="border: none;padding:0;">
-    				        <a href="http://www.hydroexperts.com.au/vaporizer-herb-accessories/herb-container/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Herb Container</a>
+    				        <a href="http://www.hydroexperts.com.au/vaporizer-accessories/herb-container/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Herb Container</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
-    				        <a href="http://www.hydroexperts.com.au/vaporizer-herb-accessories/herb-grinder/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Herb Grinder</a>
+    				        <a href="http://www.hydroexperts.com.au/vaporizer-accessories/herb-grinder/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Herb Grinder</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
-    				        <a href="http://www.hydroexperts.com.au/vaporizer-herb-accessories/magical-butter/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Magical Butter</a>
+    				        <a href="http://www.hydroexperts.com.au/vaporizer-accessories/magical-butter/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Magical Butter</a>
     					</li><li class="lv2-li list-group-item" style="border: none;padding:0;">
-    				        <a href="http://www.hydroexperts.com.au/vaporizer-herb-accessories/vaporizer/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Vaporizer</a>
+    				        <a href="http://www.hydroexperts.com.au/vaporizer-accessories/vaporizer/" class="list-group-item dropdown-toggle disabled" style=" display: inline-block; border:none;;padding: 15px 25px 15px 25px; font-size: larger;">Vaporizer</a>
     					</li>
     							</ul>
     					</li><li class="">
@@ -499,7 +539,7 @@
 	<div class="row"><div class="col-sm-12">
 
 <ul class="breadcrumb">
-    <li><a href="http://www.hydroexperts.com.au">Home</a></li><li><a href="/privacy_policy">Privacy Policy</a></li></ul>
+    <li><a href="http://www.hydroexperts.com.au">Home</a></li><li><a href="/page/privacy-policy/">Privacy Policy</a></li></ul>
 
 
 
@@ -508,9 +548,10 @@
     <p class="text-muted">
     </p>
     <hr>
-    <img src="/assets/pixel.gif" class="pull-right">
-    <img src="/assets/pixel.gif" class="pull-right">
-    
+    <!-- vertixy to remove main image from showing up-->
+    <!--<img src="/assets/webshop/cms/02/2.jpg" class="pull-right"/>-->
+    <!--<img src="/assets/pixel.gif"  class="pull-right"/>-->
+    <!-- vertixy end removal-->
     <p>
     
     
@@ -571,7 +612,13 @@
 <div class="wrapper-footer">
 	<div class="container">
 		<div class="row">
-			<div class="col-xs-12 col-sm-8">
+		    <div class="hidden-xs">
+		        <p><strong>Hydro Experts </strong>(ABN: 52 164 810 262) <span style="font-size:12px;"><span style="color:#808080;">is a wholly Australian Owned and Operated Online Hydroponics Retailer, a leading online store in providing customers with high quality and brand name products at unbeatable prices.&nbsp;</span></span><span style="color:#808080;"><span style="font-size:12px;">We cater to all types of indoor farming equipment, including Greenhouse &amp; grow room, growing lights, horticultural lighting, HID lighting, LED lights, Nutrients, greenhouse Fans, fans filter, carbon filter, water measure, Grow medium, propagation and seeding equipment, hydroponic system parts, vaporizer,&nbsp;urban farming, indoor growing, urban agriculture, hydroponic farming, aquaponic farming, Australian hydroponic, greenhouse, farming gear, gardening gear.</span></span></p>
+
+<p>&nbsp;</p>
+		    </div>
+		    <br><br>
+			<div class="hidden-xs col-sm-8">
 				<div class="row">
 					<div class="col-xs-12 col-sm-4">
 								<h4>Service</h4>
@@ -591,7 +638,7 @@
 							</div>
 				</div>
 			</div>
-			<div class="col-xs-12 col-sm-4">
+			<div class="hidden-xs col-sm-4">
 				<h4>Stay In Touch</h4>
 				<p>Subscribe to our newsletter:</p>
 				<form method="post" action="https://www.hydroexperts.com.au/subscribe">
@@ -619,7 +666,7 @@
 &nbsp;			</div>
 
 <!-- Vertixy insert security seals for mobile -->
-<div class="col-xs-12 hidden-sm hidden-md hidden-lg">
+<div class="hidden-xs hidden-sm hidden-md hidden-lg">
     <!-- Begin SSL Linking Code -->
     <div id="SSLBlock">
         <div style="text-align:center; padding-bottom:20px;">
@@ -769,9 +816,6 @@
 
 
 
-
-
-
 <!-- Custom Popup Contact Form id="myModal" -->
 <div id="myModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
@@ -827,8 +871,6 @@
 </div>
 
 
-
-
 <!-- add for tooltip on hover-->
 <script type="text/javascript">
 $(document).ready(function(){
@@ -841,17 +883,22 @@ $(document).ready(function(){
 
 
 
+
+
+
+
+
 <!-- Required Neto Scripts - DO NOT REMOVE -->
 <script type="text/javascript" src="/assets/js/util.js"></script>
-<script type="text/javascript" src="/assets/themes/sherwood/js/jquery.min.js?1463115872"></script>
-<script type="text/javascript" src="/assets/themes/sherwood/plugins/fancybox/jquery.fancybox.pack.js?1463115872"></script>
-<script type="text/javascript" src="/assets/js/neto/jquery.neto.2.36.js"></script>
-<script type="text/javascript" src="/assets/themes/sherwood/js/bootstrap.min.js?1463115872"></script>
-<script type="text/javascript" src="/assets/themes/sherwood/js/custom.js?1463115872"></script>
+<script type="text/javascript" src="/assets/themes/sherwood/js/jquery.min.js?1481001211"></script>
+<script type="text/javascript" src="/assets/themes/sherwood/plugins/fancybox/jquery.fancybox.pack.js?1481001211"></script>
+<script type="text/javascript" src="/assets/js/neto/jquery.neto.2.45.js"></script>
+<script type="text/javascript" src="/assets/themes/sherwood/js/bootstrap.min.js?1481001211"></script>
+<script type="text/javascript" src="/assets/themes/sherwood/js/custom.js?1481001211"></script>
 <!-- Plugin Scripts -->
-<script type="text/javascript" src="/assets/themes/sherwood/plugins/jquery_ui/js/jquery-ui-1.8.18.custom.min.js?1463115872"></script>
+<script type="text/javascript" src="/assets/themes/sherwood/plugins/jquery_ui/js/jquery-ui-1.8.18.custom.min.js?1481001211"></script>
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-5282cbb6476f74a0" async=""></script>
-
+<script>(function( NETO, $, undefined ) { NETO.systemConfigs = {"currency_symbol":"$"}; }( window.NETO = window.NETO || {}, jQuery ));</script>
 <!-- Analytics - DO NOT REMOVE -->
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
