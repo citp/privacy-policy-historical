@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsdb.com.my privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601102729id_/https%3A//my.jora.com/cms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsdb.com.my privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206125659id_/https%3A//my.jora.com/cms/privacy) for the most accurate reproduction.*
 
 # Jora
 
