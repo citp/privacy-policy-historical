@@ -1,69 +1,92 @@
-> *The following text is extracted and transformed from the mrfire.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403080051id_/http%3A//www.mrfire.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrfire.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206223316id_/http%3A//www.mrfire.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Statement - Joe Vitale of The Secret DVD is Law of Attraction expert and Life Coach
 
-  | 
+Hypnotic Marketing, Inc., (HMI), is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our on-line facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with Hypnotic Marketing, Inc. of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards. 
 
-[](http://www.mrfire.com/copywritingnewsletter.html)  
-For the latest copywriting tips and Unspoken Marketing Secrets, enter your email address below. 
+_**THEREFORE**_ , this Privacy Policy Agreement shall apply to Hypnotic Marketing, Inc., and thus it shall govern any and all data collection and usage thereof. Through the use of www.MrFire.com and all other HMI internet sites, you are herein consenting to the following data procedures expressed within this agreement. 
 
-| 
+_**Collection of Information**_
 
-Joe Vitale respects consumer privacy. This statement provides information about the data we collect, things done with data, and explains that we do not share data with other companies. 
+This website collects various types of information, such as:
 
-**Information gathered through cookies**
-
-We use "cookies" to establish a session identifier (in technical terms, to maintain state) and recognize a visitor from page to page so we can maintain a "shopping cart" with a list of products a visitor may wish to order. All "cookies" expire half an hour after you leave the site, unless you place an order and indicate you want us to set a cookie for your convenience so you will not have to enter order information on subsequent visits (please note that we do not save bank card data as browser cookies or on the server in any form). Because we use "cookies", if you enter your email address on one form, you will not need to type it again on certain forms. 
-
-Information gathered through forms 
-
-  * Email Address 
-  * Person's Name 
-  * Postal Address 
-  * Phone Number 
-  * Fax Number 
-  * Credit Card Information 
-
-This information is gathered when a request for a free offer or an order is placed so that it can be fulfilled properly. The visitor's name and address are required for delivery by mail. The phone number is necessary because if a question arises with an order, we need to be able to contact our customer. The email address is necessary so that we can send an acknowledgment. 
-
-  * Marketing Profile 
-
-Information we request on forms, including "tell us how you discovered this web site" is used to refine our marketing efforts so we can identify other visitors like you with minimal cost and reduce the likelihood of intruding on consumers who are not likely to be interested in our products and services. We will use the "opt-in" email address to send updates or announcements about the site and Joe Vitale's products and services if the visitor indicates interest. 
+  * Voluntarily provided information which may include your name, address, email address, billing and/or credit card information etc., which may be used when you purchase products and/or services and to deliver the services you have requested.
 
 
-**What we do with the information collected through forms**
-
-  * Contact you by email 
-  * Contact you by mail 
-  * Contact you by phone 
-  * Save to improve site 
+  * Information automatically collected when visiting our website, which may include cookies, third party tracking technologies and server logs. 
 
 
 
-We take orders and requests for free offers that are then used to ship products and free samples. The visitor's name, address, phone, fax, and email address are only used by Joe Vitale and are not shared with third parties. 
+Please rest assured that this site shall only collect personal information that you knowingly and willingly provide by way of surveys, completed membership forms, and emails. It is the intent of this site to use personal information only for the purpose for which it was requested and any additional uses specifically provided on this site. 
 
-**Changing Information**
+Hypnotic Marketing, Inc. may also have the occasion to collect anonymous demographic information that may not be unique to you and may even gather additional or other personal and/or non-personal information, such as age, gender, household income, political affiliation, race and religion, at a later time.
 
-If you wish to update or change information we've received from you, contact: 
+It is even possible that we may gather information about your computer hardware and/or software. Such collected information may include, but may not be limited to, your IP address, browser type, domain name, access time and various website addresses. The gathering of this information may be used for maintaining the quality of service we provide, as well as providing overall general statistics related to the use of our website and others. 
 
-**Email**
+It is highly recommended and suggested that you review the privacy policies and statements of any website you choose to use or frequent as a means to better understand the way in which other websites garner, make use of and share information collected. 
 
-[jgvitale@ix.netcom.com](mailto:jgvitale@ix.netcom.com)
+_**Use of Information Collected**_
 
-**Telephone and Fax**
+Hypnotic Marketing, Inc. may collect and may make use of personal information to assist in the operation of our website and to ensure delivery of the services you need and request. At times, we may find it necessary to use personally identifiable information meant to inform you of other possible products and/or services that may be available to you from www.MrFire.com and all other HMI internet sites and its subsidiaries. HMI may also be in contact with you with regards to completing surveys and/or research questionnaires related to your opinion of current or possible new services that are offered or may be offered.
 
-Telephone: +1 281-999-1110   
-Fax: +1 281-999-1313 
+Hypnotic Marketing, Inc. does not now, nor will it in the future, sell, rent or lease any of its customer lists and/or names to any third parties.
 
-**Mail**
+Hypnotic Marketing, Inc., from time to time, may feel it necessary to make contact with you on behalf of other external business partners with regards to a specific offer which may be of interest to you. If you consent or show interest in presented offers, then, at that time, specific identifiable information, such as name, email address and/or telephone number, may be shared with the third party. 
 
-Awareness Publications   
-PO Box 300792   
-Houston, TX 77230-0792   
-US 
+Hypnotic Marketing, Inc. may find it beneficial to share specific data with their trusted partners in an effort to conduct statistical analysis, provide you with email and/or postal mail, deliver support and/or arrange for deliveries to be made. Those third parties shall be strictly prohibited from making use of your personal information, other than to deliver those services which you requested, and as such they are thus required in accordance with this agreement to maintain the confidentiality of all your information. 
 
-**Site Coordinator**
+Hypnotic Marketing, Inc. may deem it necessary to follow websites and/or pages that their users may frequent in an effort to gleam what types of services and/or products may be the most popular to customers or the general public.
 
-Please contact Joe Vitale ([jgvitale@ix.netcom.com](mailto:jgvitale@ix.netcom.com)) with any questions regarding this privacy policy
+Hypnotic Marketing, Inc. may disclose your personal information, without prior notice to you, only if required to do so pursuant to applicable laws and/or in a good faith belief that such action is deemed necessary or required to:
 
-|   |   |  
+  1. Conform to decrees, laws and/or statutes or in an effort to comply with any process which may be served upon Hypnotic Marketing, Inc. and/or its website;
+
+
+  2. Safeguard and/or preserve all the rights and/or property of Hypnotic Marketing, Inc.; and
+
+
+  3. Perform under demanding conditions in an effort to safeguard the personal safety of users of www.MrFire.com and all other HMI internet sites and/or the general public. 
+
+
+
+_**Children Under Age of 13**_
+
+Hypnotic Marketing, Inc. does not knowingly collect personal identifiable information from children under the age of thirteen (13) without verifiable parental consent. If it is determined that such information has been inadvertently collected on anyone under the age of thirteen (13), we shall immediately take the necessary steps to ensure that such information is deleted from our system’s database. Anyone under the age of thirteen (13) must seek and obtain parent or guardian permission to use this website.
+
+_**Unsubscribe or Opt-Out**_
+
+All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to unsubscribe to support@mrfire.com. If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out. 
+
+_**Links to Other Web Sites**_
+
+Our website does contain links to affiliate and other websites. Hypnotic Marketing, Inc. does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. The aforementioned Privacy Policy Agreement applies only and solely to the information collected by our website. 
+
+_**Security**_
+
+Hypnotic Marketing, Inc. shall endeavor and shall take every precaution to maintain adequate physical, procedural and technical security with respect to its offices and information storage facilities so as to prevent any loss, misuse, unauthorized access, disclosure or modification of the user’s personal information under our control. 
+
+In addition, Hypnotic Marketing, Inc. is a licensee of TRUSTe. The website is secured by VeriSign. The company also uses Secure Socket Layer (SSL) for authentication and private communications in an effort to build users’ trust and confidence in the internet and website use by providing simple and secure access and communication of credit card and personal information.
+
+Furthermore, in an effort to comply with international data protection standards, our website has been certified by the Department of Commerce’s United States and the European Safe Harbor Framework in an effort to further protect our international users and members. 
+
+_**Changes to Privacy Policy Agreement**_
+
+Hypnotic Marketing, Inc. reserves the right to update and/or change the terms of our privacy policy, and as such we will post those change to our website homepage at www.MrFire.com and all other HMI internet sites, so that our users and/or visitors are always aware of the type of information we collect, how it will be used, and under what circumstances, if any, we may disclose such information. If at any point in time Hypnotic Marketing, Inc. decides to make use of any personally identifiable information on file, in a manner vastly different from that which was stated when this information was initially collected, the user or users shall be promptly notified by email. Users at that time shall have the option as to whether or not to permit the use of their information in this separate manner. 
+
+_**Acceptance of Terms**_
+
+Through the use of this website, you are hereby accepting the terms and conditions stipulated within the aforementioned Privacy Policy Agreement. If you are not in agreement with our terms and conditions, then you should refrain from further use of our sites. In addition, your continued use of our website following the posting of any updates or changes to our terms and conditions shall mean that you are in agreement and acceptance of such changes. 
+
+_**How to Contact Us**_
+
+If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email, telephone number or mailing address.
+
+**Email:** contact@mrfire.com
+
+**Telephone Number:** (888) 743-2824
+
+**Mailing Address:**
+
+Hypnotic Marketing, Inc.
+
+P.O. Box 2924 Wimberley, TX 78676-2924 
