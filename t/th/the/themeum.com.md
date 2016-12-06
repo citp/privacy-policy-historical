@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the themeum.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613121456id_/http%3A//www.themeum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeum.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206024112id_/http%3A//www.themeum.com/privacy-policy) for the most accurate reproduction.*
 
-# Themeum | Privacy Policy - Themeum
+# Privacy Policy
+
+http://www.themeum.com/wp-login.php?action=logout&redirect_to=http%3A%2F%2Fwww.themeum.com&_wpnonce=a66a242135
 
 ### Introduction
 
