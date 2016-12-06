@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scalahosting.com privacy policy that was archived on 2016-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160511083712id_/https%3A//www.scalahosting.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scalahosting.com privacy policy that was archived on 2016-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161206044731id_/https%3A//www.scalahosting.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>Privacy Policy | Scala Hosting</title>
@@ -19,13 +19,20 @@
 		<meta name="HandheldFriendly" content="True">
 		<meta name="MobileOptimized" content="320">
 
+		<!-- Social -->
+		<meta property="og:url" content="https://www.scalahosting.com/privacy-policy.html">
+		<meta property="og:title" content="Privacy Policy">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="https://www.scalahosting.com/images/social.png">
+
+
 		<!-- Web Fonts -->
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,300,500,700,400italic" type="text/css">
 
 		<!-- CSS -->
 		<link rel="stylesheet" href="/css/style_head.css" type="text/css">		
 		<!-- Jquery -->
-		<script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="//s3.amazonaws.com/ki.js/63288/exf.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" src="/js/jquery.js"></script>
+		<script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="//s3.amazonaws.com/ki.js/63288/exf.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="/js/jquery.js"></script>
 
 		<!-- IE -->
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -46,24 +53,19 @@
 		
 		
 		
-			<script>(function()  {
-				  var _fbq = window._fbq || (window._fbq = []);
-				  if (!_fbq.loaded)  {
-					var fbds = document.createElement('script');
-					fbds.async = true;
-					fbds.src = '//connect.facebook.net/en_US/fbds.js';
-					var s = document.getElementsByTagName('script')[0];
-					s.parentNode.insertBefore(fbds, s);
-					_fbq.loaded = true;
-				   }
-				  _fbq.push(['addPixelId', '1459111364333618']);
-				 } )();
-				window._fbq = window._fbq || [];
-				window._fbq.push(['track', 'PixelInitialized',  {  } ]);
-			</script>
-			<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1459111364333618&amp;ev=PixelInitialized" /></noscript>
+			<script>
+			!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+			n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+			document,'script','https://connect.facebook.net/en_US/fbevents.js');
 
-		
+			fbq('init', '1459111364333618');
+			fbq('track', "PageView");</script>
+			<noscript><img height="1" width="1" style="display:none"
+			src="https://www.facebook.com/tr?id=1459111364333618&ev=PageView&noscript=1"
+			/></noscript>
+
 		
 		<script>
 			(function(i,s,o,g,r,a,m) { i['GoogleAnalyticsObject']=r;i[r]=i[r]||function() {
@@ -90,6 +92,34 @@
 		for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d]) } ;b.__SV=1.2;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f) }  } )(document,window.mixpanel||[]);
 		mixpanel.init("969f98a1cfed90a00ab07917afe3e4d6");</script>
 
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$(document).on('click mouseenter','.main .getbubble',function(){
+
+					var thisPos = $(this).offset();
+					var parentWidth = $(this).parent('div.price').width();
+					var bubble = $(this).siblings('.bubble');
+					var bubbleWidth = bubble.width();
+
+					if( parentWidth < bubbleWidth ){
+						var bubbleLeft = ((parentWidth - bubbleWidth)/2);
+						bubble.css('left', bubbleLeft+'px' );
+					}else{
+						var bubbleLeft = ((bubbleWidth - parentWidth)/2);
+						bubble.css('left', bubbleLeft+'px' );
+					}
+
+					bubble.css('display', 'block');
+					return false;
+				});
+
+				$(document).on('mouseleave','.getbubble',function(){
+					var bubble = $(this).siblings('.bubble');
+					bubble.css('display', 'none');
+				});
+			});
+		</script>
+
 	</head>
 	<body>
 
@@ -105,14 +135,11 @@
 
 		
 		<header class="center-container">
-			<a href="/" id="logo" alt="Scala Hosting" title="Scala Hosting"><img src="/images/logo.png" onerror="this.onerror=null; this.src='/images/logo.png'" alt="Scala Hosting"></a>
+			<a href="https://www.scalahosting.com/" id="logo" alt="Scala Hosting" title="Scala Hosting"><img src="/images/logo.png" onerror="this.onerror=null; this.src='/images/logo.png'" alt="Scala Hosting"></a>
 			<span id="slogan">Scalable hosting solutions</span>
 
 						<div class="headerwrapper">
-				<a href="http://www.facebook.com/scalahosting" class="social fb" data-i-b=""></a>
-				<a href="https://www.twitter.com/ScalaHosting" class="social tw" data-i-b=""></a>
-				<a href="/blog/" class="social blog" data-i-b=""></a>
-
+				
 				<span class="phone" data-i-b="">+1 (866) 894-8284</span>
 
 				<div class="loginHolder ">
@@ -142,17 +169,17 @@
 		<nav class="mainmenu">
 			<ul class="center-container">
 				<li class="mobile close"><a id="mobilemenuclose" data-i-b="" href="#"></a></li>
-				<li class="home"><a href="/" data-i-b=""></a></li>
+				<li class="home"><a href="https://www.scalahosting.com/" data-i-b=""></a></li>
 				<li><a href="/web-hosting.html">Web Hosting</a></li>
+				<li><a href="/wordpress-hosting.html">WordPress Hosting</a></li>
 				<li><a href="/reseller-hosting.html">Reseller Hosting</a></li>
 				<li class="vps"><a href="/vps.html">VPS</a></li>
-				<li><a href="/cloud-servers.html">Cloud Servers</a></li>
-				<li><a href="/dedicated-servers.html">Dedicated Servers</a></li>
+				<li><a href="/cloud-servers.html">SSD Cloud VPS</a></li>
 				<li><a href="/domain-names.html">Domain Names</a></li>
 				<li><a href="/ssl-certificates.html">SSL Certificates</a></li>
 
 				<li class="mobile login"><a data-i-b="" href="//my.scalahosting.com/">Login</a></li>
-				<li class="mobile livechat"><div data-id="PeMcJJMzi-X" class="livechat_button"><a href="//my.scalahosting.com/submitticket.php">Submit a Ticket</a></div></li>
+				<li class="mobile livechat"><div data-id="PeMcJJMzi-X" class="livechat_button"><a rel="noindex,follow" href="//my.scalahosting.com/submitticket.php">Submit a Ticket</a></div></li>
 			</ul>
 		</nav>
 
@@ -283,40 +310,48 @@
 		<footer>
 			<section class="center-container">
 				<ul>
-					<li class="ftitle">Company</li>
-					<li><a href="/contact-us.html">Contact us</a></li>
-					<li><a href="/network-and-datacenters.html">Network and datacenters</a></li>
-					<li><a href="/affiliate.html">Affiliate program</a></li>
-					<li><a href="/blog/">Company Blog</a></li>
-					<li><a href="/privacy-policy.html">Privacy policy</a></li>
-					<li><a href="/tos.html">Terms of service</a></li>
-				</ul>
-				<ul>
 					<li class="ftitle">Hosting services</li>
 					<li><a href="/web-hosting.html">Cheap Web Hosting</a></li>
+					<li><a href="/unlimited-hosting.html">Unlimited Web Hosting</a></li>
+					<li><a href="/business-web-hosting.html">Business Web Hosting</a></li>
 					<li><a href="/reseller-hosting.html">Best Reseller Hosting</a></li>
+					<li><a href="/business-email-hosting.html">Business Email Hosting</a></li>
 					<li><a href="/vps.html">VPS With cPanel</a></li>
-					<li><a href="/cloud-servers.html">SSD Cloud Servers</a></li>
+					<li><a href="/cloud-servers.html">SSD Cloud VPS</a></li>
 					<li><a href="/dedicated-servers.html">Dedicated Servers</a></li>
+				</ul>
+				<ul>
+					<li class="ftitle">App Hosting</li>
+					<li><a href="/wordpress-hosting.html">Best WordPress Hosting</a></li>
+					<li><a href="/magento-hosting.html">Magento Hosting</a></li>
+					<li><a href="/joomla-hosting.html">Joomla Hosting</a></li>
+					<li><a href="/drupal-hosting.html">Drupal Hosting</a></li>
+					<li><a href="/prestashop-hosting.html">Best Prestashop Hosting</a></li>
 				</ul>
 				<ul>
 					<li class="ftitle">Additional services</li>
 					<li><a href="/domain-names.html">Domain Names</a></li>
 					<li><a href="/domain-reseller.html">Domain Reseller Account</a></li>
 					<li><a href="/ssl-certificates.html">SSL Certificates</a></li>
-				</ul>
-				<ul>
 					<li class="ftitle">Customer support</li>
 					<li><a href="//my.scalahosting.com/">Client area</a></li>
 					<li><a href="//my.scalahosting.com/knowledgebase.php">Knowledge base</a></li>
-					<li class="ftitle">Contact us</li>
 					<li class="socialfooter">
 						<a href="http://www.facebook.com/scalahosting" data-i-b=""></a>
 						<a href="https://www.twitter.com/ScalaHosting" data-i-b=""></a>
 						<a href="/blog/" data-i-b=""></a>
 						<a href="/contact-us.html" data-i-b=""></a>
 					</li>
-					<li>+1 (866) 894-8284</li>
+				</ul>
+				<ul>
+					<li class="ftitle">Company</li>
+					<li><a href="/contact-us.html">Contact us</a></li>
+					<li><a href="/network-and-datacenters.html">Network and datacenters</a></li>
+					<li><a href="/affiliate.html">Affiliate program</a></li>
+					<li><a href="/blog/">Company Blog</a></li>
+					<li><a href="https://www.facebook.com/scalahosting/reviews">Scala Hosting Reviews</a></li>
+					<li><a href="/privacy-policy.html">Privacy policy</a></li>
+					<li><a href="/tos.html">Terms of service</a></li>
 				</ul>
 			</section>
 
@@ -326,6 +361,7 @@
 		<script type="text/javascript" src="/js/scripts.js" async="async"></script>
 
 		
+
 		<script type="text/javascript">
 		window.__lc = window.__lc || {};
 		window.__lc.license = 1783431;
