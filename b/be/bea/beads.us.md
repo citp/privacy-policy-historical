@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beads.us privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614215845id_/http%3A//www.beads.us/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beads.us privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206020236id_/http%3A//www.beads.us/Privacy_Policy.php) for the most accurate reproduction.*
 
 # Privacy Policy and Guarantee - beads.us
 
