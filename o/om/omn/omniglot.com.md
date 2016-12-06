@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omniglot.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602043736id_/http%3A//www.omniglot.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omniglot.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206131300id_/http%3A//omniglot.com/privacy.htm) for the most accurate reproduction.*
 
 # Omniglot Privacy Policy
 
@@ -68,7 +68,7 @@ Users can set preferences for how Google advertises to you using the Google Ad S
 
 ## Contacting Us
 
-If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20160602043736id_/http%3A//www.omniglot.com/contact.htm). 
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20161206131300id_/http%3A//omniglot.com/contact.htm). 
 
 Last Edited on 27th July 2015 
 
