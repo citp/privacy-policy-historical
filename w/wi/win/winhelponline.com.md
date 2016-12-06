@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winhelponline.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603184832id_/http%3A//www.winhelponline.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winhelponline.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206214506id_/http%3A//www.winhelponline.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for winhelponline.com » Winhelponline
+# Privacy Policy for winhelponline.com - The Winhelponline Blog
 
 The privacy of our visitors to winhelponline.com is important to us. At winhelponline.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit winhelponline.com, and how we safeguard your information. We never sell your personal information to third parties.
 
