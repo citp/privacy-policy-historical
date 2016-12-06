@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfit.ca privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506030230id_/http%3A//www.myfit.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfit.ca privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206055841id_/http%3A//www.myfit.ca/privacy) for the most accurate reproduction.*
 
 # Myfit Privacy Policy
 
