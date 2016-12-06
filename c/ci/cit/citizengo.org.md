@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizengo.org privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421185210id_/http%3A//www.citizengo.org/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizengo.org privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206203106id_/http%3A//citizengo.org/en/privacy) for the most accurate reproduction.*
 
 # privacyCitizenGO
 
