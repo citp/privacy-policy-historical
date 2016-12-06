@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alltop9.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621223239id_/http%3A//www.alltop9.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltop9.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206105130id_/http%3A//www.alltop9.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AllTop9
+# Privacy Policy - All Top 9
 
 This Privacy Policy was last modified on March 19, 2014.
 
