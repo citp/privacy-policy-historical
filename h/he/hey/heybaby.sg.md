@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heybaby.sg privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628011258id_/http%3A//www.heybaby.sg/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heybaby.sg privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206234302id_/http%3A//www.heybaby.sg/privacy_statement.html) for the most accurate reproduction.*
 
 # Hey ♥ Baby - Privacy Statement
 
