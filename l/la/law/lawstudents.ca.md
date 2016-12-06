@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawstudents.ca privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908023637id_/http%3A//lawstudents.ca/forums/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawstudents.ca privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206145014id_/http%3A//lawstudents.ca/forums/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Lawstudents.ca
 
