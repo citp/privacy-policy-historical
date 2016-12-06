@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the teechip.com privacy policy that was archived on 2016-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160529125138id_/http%3A//teechip.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teechip.com privacy policy that was archived on 2016-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161206163229id_/http%3A//teechip.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -45,7 +45,7 @@ base.href = toAbsURL(base.href);
 <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 <link rel="stylesheet" href="//d2wlglcaf8cdk7.cloudfront.net/styles/012fe0b431.vendor.css">
 
-<link rel="stylesheet" href="//d2wlglcaf8cdk7.cloudfront.net/styles/a9e2160598.main.css">
+<link rel="stylesheet" href="//d2wlglcaf8cdk7.cloudfront.net/styles/16e53fc78c.main.css">
 
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js"></script>
 
@@ -74,9 +74,38 @@ base.href = toAbsURL(base.href);
 window._fbq = window._fbq || [];
 </script>
 
+
+
+<!-- New FB Pixel Setup -->
+
+
 <script>
   // Call 'track' here because all pixelIds must be added before calling 'track'
   window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+
+<script>
+  var pixelTrack  = function(event, data) {
+    var amount, campaignId, campaignUrl, ref;
+    if (data == null) {
+      data = {};
+    }
+    ref = window.__fbPixel__ || {}, amount = ref.amount, campaignId = ref.campaignId, campaignUrl = ref.campaignUrl;
+    data.campaignId || (data.campaignId = campaignId);
+    data.campaignUrl || (data.campaignUrl = campaignUrl);
+    return window.fbq('track', event, data);
+  };
+
+  window.pixelTrack = pixelTrack;
+
+  var initialEvent, pixelId, ref;
+  ref = window.__fbPixel__ || {}, pixelId = ref.pixelId, initialEvent = ref.initialEvent;
+  if (pixelId) {
+    window.fbq('init', pixelId);
+  }
+  if (initialEvent != null ? initialEvent.name : void 0) {
+    pixelTrack(initialEvent.name, initialEvent.data);
+  }
 </script>
 
 </head>
@@ -105,7 +134,7 @@ window._fbq = window._fbq || [];
     	    <!-- Collect the nav links, forms, and other content for toggling -->
     	    <div class="collapse navbar-collapse animated fadeIn" data-ng-class="collapse ? 'collapse' : ''">
 
-            <input type="hidden" data-ng-init="$root.user = undefined">
+            <input type="hidden" data-ng-init="$root.user = undefined;$root.adminType = undefined;">
 
             <!-- Admin -->
             <ul class="nav navbar-nav navbar-right animated fadeInDown" data-ng-show="$root.user === 1" ng-cloak="">
@@ -114,18 +143,57 @@ window._fbq = window._fbq || [];
                 <span class="dropdown clickable small-drop">
                   <a class="dropdown-toggle clickable icon icon-list"></a>
                   <ul class="dropdown-menu">
-                    <li>
+                    <li ng-show="$root.adminType === 2">
+                      <a data-ng-click="collapse = true" href="/orders">Orders</a>
+                      <a data-ng-click="collapse = true" href="/internal/employeeActions">My actions</a>
+                    </li>
+                    <li ng-show="$root.adminType === 5">
+                      <a data-ng-click="collapse = true" href="/internal/moderate">Moderate</a>
+                      <a data-ng-click="collapse = true" href="/internal/design_info">Design Info</a>
+                      <a data-ng-click="collapse = true" href="/campaigns_admin">Campaigns</a>
+                      <a data-ng-click="collapse = true" href="/orders">Orders</a>
+                      <a data-ng-click="collapse = true" href="/_issues">Issues</a>
+                      <a data-ng-click="collapse = true" href="/internal/employeeActions">My actions</a>
+                      <a data-ng-click="collapse = true" href="/internal/flaggedKeywords">Flagged keywords</a>
+                    </li>
+                    <li ng-show="$root.adminType === 4">
+                      <a data-ng-click="collapse = true" href="/internal/moderate">Moderate</a>
+                      <a data-ng-click="collapse = true" href="/internal/design_info">Design Info</a>
+                      <a data-ng-click="collapse = true" href="/campaigns_admin">Campaigns</a>
+                      <a data-ng-click="collapse = true" href="/orders">Orders</a>
+                      <a data-ng-click="collapse = true" href="/_issues">Issues</a>
+                      <a data-ng-click="collapse = true" href="/internal/fraudIssues">Fraud issues</a>
+                      <a data-ng-click="collapse = true" href="/internal/employeeLogs">Employee logs</a>
+                      <a data-ng-click="collapse = true" href="/internal/employeeErrors">Employee errors</a>
+                      <a data-ng-click="collapse = true" href="/internal/employeeActions">My actions</a>
+                      <a data-ng-click="collapse = true" href="/internal/flaggedKeywords">Flagged keywords</a>
+                    </li>
+                    <li ng-show="$root.adminType === 1">
                       <a data-ng-click="collapse = true" href="/internal/moderate">Moderate</a>
                       <a data-ng-click="collapse = true" href="/internal/design_info">Design Info</a>
                       <a data-ng-click="collapse = true" href="/internal/withdrawals">Withdrawals</a>
                       <a data-ng-click="collapse = true" href="/users_admin">Users</a>
                       <a data-ng-click="collapse = true" href="/campaigns_admin">Campaigns</a>
                       <a data-ng-click="collapse = true" href="/orders">Orders</a>
-                      <a data-ng-click="collapse = true" href="/top_sellers">Top Sellers</a>
+                      <a data-ng-click="collapse = true" href="/phone_contacts">Phone Contacts</a>
+                      <a data-ng-click="collapse = true" href="/_issues">Issues</a>
+                      <a data-ng-click="collapse = true" href="/internal/fraudIssues">Fraud issues</a>
+                      <a data-ng-click="collapse = true" href="/internal/employeeActions">My actions</a>
+                      <a data-ng-click="collapse = true" href="/internal/flaggedKeywords">Flagged keywords</a>
+                    </li>
+                    <li ng-show="$root.adminType === 0">
+                      <a data-ng-click="collapse = true" href="/internal/moderate">Moderate</a>
+                      <a data-ng-click="collapse = true" href="/internal/design_info">Design Info</a>
+                      <a data-ng-click="collapse = true" href="/internal/withdrawals">Withdrawals</a>
+                      <a data-ng-click="collapse = true" href="/users_admin">Users</a>
+                      <a data-ng-click="collapse = true" href="/campaigns_admin">Campaigns</a>
+                      <a data-ng-click="collapse = true" href="/orders">Orders</a>
                       <a data-ng-click="collapse = true" href="/phone_contacts">Phone Contacts</a>
                       <a data-ng-click="collapse = true" href="/_issues">Issues</a>
                       <a data-ng-click="collapse = true" href="/internal/fraudIssues">Fraud issues</a>
                       <a data-ng-click="collapse = true" href="/internal/employeeLogs">Employee logs</a>
+                      <a data-ng-click="collapse = true" href="/internal/employeeErrors">Employee errors</a>
+                      <a data-ng-click="collapse = true" href="/internal/employeeActions">My actions</a>
                       <a data-ng-click="collapse = true" href="/internal/flaggedKeywords">Flagged keywords</a>
                     </li>
                   </ul>
@@ -137,6 +205,7 @@ window._fbq = window._fbq || [];
             <ul class="nav navbar-nav animated fadeInDown" data-ng-show="$root.user === 0 &amp;&amp; $root.path !== '/checkout'" ng-cloak="">
               <li data-ng-click="collapse = true"><a href="/campaigns" data-ng-class="{ active : $root.path === '/campaigns' }">Campaigns</a></li>
               <li data-ng-click="collapse = true"><a href="/client/stats" data-ng-class="{ active : $root.path === '/stats' }">Stats</a></li>
+              <li data-ng-click="collapse = true"><a href="/client/stores" data-ng-class="{ active : $root.path === '/stores' }">Stores</a></li>
               <li data-ng-click="collapse = true"><a href="/profits" data-ng-class="{ active : $root.path === '/profits' }">Profits</a></li>
               <li data-ng-click="collapse = true"><a href="/settings" data-ng-class="{ active : $root.path === '/settings' }">Settings</a></li>
               <li data-ng-click="collapse = true"><a href="/subaccount_manage" data-ng-class="{ active : $root.path === '/subaccount_manage' }">Subaccounts</a></li>
@@ -160,6 +229,7 @@ window._fbq = window._fbq || [];
             <ul class="nav navbar-nav animated fadeInDown" data-ng-show="$root.user === 2 &amp;&amp; $root.path !== '/checkout'" ng-cloak="">
               <li data-ng-click="collapse = true"><a href="/campaigns" data-ng-class="{ active : $root.path === '/campaigns' }">Campaigns</a></li>
               <li data-ng-click="collapse = true"><a href="/client/stats" data-ng-class="{ active : $root.path === '/stats' }">Stats</a></li>
+              <li data-ng-click="collapse = true"><a href="/client/stores" data-ng-class="{ active : $root.path === '/stores' }">Stores</a></li>
               <li data-ng-click="collapse = true"><a href="/profits" data-ng-class="{ active : $root.path === '/profits' }">Profits</a></li>
               <li data-ng-click="collapse = true"><a href="/settings" data-ng-class="{ active : $root.path === '/settings' }">Settings</a></li>
               <li data-ng-click="collapse = true"><a href="/subaccount_manage" data-ng-class="{ active : $root.path === '/subaccount_manage' }">Subaccounts</a></li>
@@ -483,11 +553,11 @@ window._fbq = window._fbq || [];
     <script src="//d2wlglcaf8cdk7.cloudfront.net/bower_components/html5-history-api/history.js"></script>
     <![endif]-->
 
-    <script src="//d2wlglcaf8cdk7.cloudfront.net/scripts/8fc2d74731.vendor.js"></script>
+    <script src="//d2wlglcaf8cdk7.cloudfront.net/scripts/bb8764e0d2.vendor.js"></script>
 
     
 
-    <script src="//d2wlglcaf8cdk7.cloudfront.net/scripts/c61ecd5948.scripts.js"></script>
+    <script src="//d2wlglcaf8cdk7.cloudfront.net/scripts/fe26c89b13.scripts.js"></script>
 
     <script>
       var RavenConfig = {
@@ -508,6 +578,7 @@ window._fbq = window._fbq || [];
 
 
     
+
 
 
 </body></html>
