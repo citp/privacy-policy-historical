@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jessicainthekitchen.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619175752id_/http%3A//theblog.jessikerbakes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jessicainthekitchen.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206101455id_/http%3A//theblog.jessikerbakes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use - Jessica In The Kitchen
 
@@ -53,3 +53,5 @@ If you would like to share a recipe, please republish the instructions or direc
 Please also do not use my photo for the recipe. Please use your own photo.
 
 JESSICA IN THE KITCHEN © 2016 ALL RIGHTS RESERVED.
+
+[](https://www.pinterest.com/pin/create/button/)
