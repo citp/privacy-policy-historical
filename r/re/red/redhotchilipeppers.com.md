@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redhotchilipeppers.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611012214id_/http%3A//redhotchilipeppers.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redhotchilipeppers.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206020624id_/http%3A//redhotchilipeppers.com/legal/privacy) for the most accurate reproduction.*
 
-# Red Hot Chili Peppers
+# Privacy Policy - Red Hot Chili Peppers
 
 **Red Hot Chili Peppers** (" **Company** ," " **we** ," " **us** ") is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your Personally Identifiable Information (as defined below).  This Privacy Policy (the " **Policy** ") describes our practices in connection with Personally Identifiable Information that we collect through  **certain of our web sites, including the site from which you are linking to this Policy** ** ** (the " **Site** ").  This Policy does not govern our collection of information through any web site, or by any other means, other than through the Site; nor does this Policy govern the collection of information by any of our affiliates, or by third parties.  To the extent that you submit any Personally Identifiable Information to any third party (for example, via a third-party software application or service that is available through or included in the Site), such third party's collection, use and disclosure of such information may be governed by its privacy policy, and not by our Policy (in any event, we are not responsible for the information collection, usage and disclosure practices of third parties).
 
@@ -82,7 +82,7 @@ In some instances, we may combine Non-PII with PII (such as combining your name 
 
 Additionally, if you would like to opt-out of receiving marketing-related e-mail messages from Artist(s) or other third parties with whom we have shared PII about you hereunder, please utilize any opt-out mechanisms set forth in such third parties' or Artist(s) marketing-related e-mail messages and/or privacy policies, if any.
 
-**               g.         Contacting Us. ** ** ** If you have any questions regarding this Policy, please contact us by e-mail at [info@redhotchilipeppers.com](mailto:info@redhotchilipeppers.com), or please write to the following address:
+**               g.         Contacting Us. ** ** ** If you have any questions regarding this Policy, please contact us by e-mail at [help@rhcp.com](mailto:help@rhcp.com), or please write to the following address:
 
 Myman Greenspan Fineman Fox Rosenberg & Light, LLP
 
