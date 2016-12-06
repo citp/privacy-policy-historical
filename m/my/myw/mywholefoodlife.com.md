@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mywholefoodlife.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608011233id_/http%3A//mywholefoodlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywholefoodlife.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206073009id_/http%3A//mywholefoodlife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - My Whole Food Life
 
