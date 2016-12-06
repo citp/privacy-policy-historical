@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cineversity.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514101557id_/http%3A//www.cineversity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cineversity.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206041358id_/http%3A//cineversity.com/privacy-policy) for the most accurate reproduction.*
 
 # Cineversity - Cinema 4D Training and Tools
 
