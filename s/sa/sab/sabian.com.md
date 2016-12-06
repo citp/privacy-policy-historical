@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sabian.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530000929id_/http%3A//sabian.com/en/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabian.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206212957id_/http%3A//www.sabian.com/en/pages/privacy) for the most accurate reproduction.*
 
 # Global Privacy Policy | SABIAN Cymbals
 
