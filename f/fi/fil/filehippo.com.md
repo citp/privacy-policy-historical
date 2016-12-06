@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the filehippo.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620200336id_/http%3A//filehippo.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filehippo.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206181313id_/http%3A//filehippo.com/info/privacy) for the most accurate reproduction.*
 
-# 
+# FileHippo Privacy Policy - FileHippo.com
 
 Well Known Media Limited ("We") are committed to protecting and respecting your privacy. FileHippo is one of our trading names.
 
-This policy (together with our [terms of use](https://web.archive.org/web/20160620200336id_/http://filehippo.com/info/privacy/termsandconditions) and any other documents referred to in our terms of use and this policy) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting filehippo.com you are accepting and consenting to the practices described in this policy.
+This policy (together with our [terms of use](https://web.archive.org/web/20161206181313id_/http%3A//filehippo.com/info/termsandconditions) and any other documents referred to in our terms of use and this policy) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting filehippo.com you are accepting and consenting to the practices described in this policy.
 
 ## Information We May Collect From You
 
@@ -21,7 +21,7 @@ This information does not, however, identify you by name, and it is not necessar
 
 ## Cookies
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them (including how we and our partners collect information via the cookies that our used on our website)see our [Cookie policy](https://web.archive.org/web/20160620200336id_/http://filehippo.com/info/privacy/cookies).
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them (including how we and our partners collect information via the cookies that our used on our website)see our [Cookie policy](https://web.archive.org/web/20161206181313id_/http%3A//filehippo.com/info/cookies).
 
 ## Uses Made of the Information
 
@@ -56,7 +56,7 @@ We may share your information with selected third parties including:
 
 
 
-We may disclose your personal information to third parties if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20160620200336id_/http://filehippo.com/info/privacy/termsandconditions) and other agreements; or to protect the rights, property, or safety of Well Known Media Limited, our customers, or others. 
+We may disclose your personal information to third parties if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20161206181313id_/http%3A//filehippo.com/info/termsandconditions) and other agreements; or to protect the rights, property, or safety of Well Known Media Limited, our customers, or others. 
 
 ## Where We Store Your Personal Data
 
