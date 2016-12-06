@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the concretedecor.net privacy policy that was archived on 2016-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617150227id_/http%3A//www.concretedecor.net/about/privacy-notice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the concretedecor.net privacy policy that was archived on 2016-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161206183303id_/http%3A//www.concretedecor.net/about/privacy-notice) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-<script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.5"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+<script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.5"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -16,20 +16,18 @@ ga('send', 'pageview');
 <meta name="description" content="">
 <meta name="keywords" content=" , ,">
 <meta property="og:image" content="/CD/includes/themes/MuraBootstrap3/images/CDweb15_246x85.png">
-<meta property="og:url" content="http://www.concretedecor.net/index.cfm/about/privacy-notice/">
+<meta property="og:url" content="http://concretedecor.net/index.cfm/about/privacy-notice/">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Notice">
 <meta property="og:description" content="">
-<meta name="generator" content="Mura CMS 6.2">
+<meta name="generator" content="Mura CMS 7.0">
 <title>Privacy Notice - Concrete Decor Magazine</title>
 <link rel="stylesheet" type="text/css" href="/CD/css/mura.6.2.min.css">
 <link rel="stylesheet" type="text/css" href="/CD/css/mura.6.2.skin.css">
 <link rel="stylesheet" type="text/css" href="/CD/includes/themes/MuraBootstrap3/assets/bootstrap/css/bootstrap.css">
-<link rel="stylesheet" type="text/css" href="/CD/includes/themes/MuraBootstrap3/assets/font-awesome/css/font-awesome.css">
+<script src="https://use.fontawesome.com/6ea94b91ef.js"></script>
 <link rel="stylesheet" type="text/css" href="/CD/includes/themes/MuraBootstrap3/css/theme/theme.css">
-<script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
-<script src="http://connect.concretedecor.net/js/jquery.cookie.js"></script>
-<script src="/CD/js/jquery/jquery-ui.min.js"></script>
+<script src="/CD/includes/themes/MuraBootstrap3/js/CD-app.min.js" charset="utf-8"></script>
 <link rel="shortcut icon" href="/CD/images/favicon.ico">
 <script src="/CD/js/jquery.prettyPhoto.js" type="text/javascript"></script>
 <link rel="stylesheet" href="/CD/css/prettyPhoto.css" type="text/css" media="screen">
@@ -44,7 +42,7 @@ if($.cookie('CDNLsignupPOP')){
 console.log('CD Member');
 }
 else{console.log('not a CD Member');
-$.cookie("CDNLsignupPOP","1",{path:"/"});
+$.cookie("CDNLsignupPOP","1");
 setTimeout(function(){
 $('#CDNLsignupPOP').modal('show');
 },8000) // 8 seconds.
@@ -53,50 +51,63 @@ $('#CDNLsignupPOP').modal('show');
 </script>
 <script>
 $(document).ready(function(){
+$('.sideclick').click(function(){
+$.sidr('toggle','articlemenu');
+});
 CDEmailPOP();
 iniSidr();
 BindControl();
 $("#CDNLsignupPOP").draggable({
 handle: ".modal-header, .modal-footer"
 });
-//TrackUser();
+// add link to Online Exlcusive title //
+$('#sysOnlineExclusives >h2').wrap('<a href="http://www.concretedecor.net/blogs/decorativeconcreteonlineexclusives/"/>');
+$('.contentsTab').on('click',function(){$.sidr("toggle","articlemenu")});
+$('.mainmenuTab').on('click',function(){$.sidr("toggle","sidr")});
+// for development flag setting, displays session.development dump at top of website //
+$('.-lucee-dump').css('position','absolute');
 });// end document ready
 function ShowSurvey(){
 // if not filed survey
 if (!$.cookie('CD_Z5BB8XW') ){
 $('#myModal').modal('show');
+$.cookie('CD_Z5BB8XW','not-completed',{expires:30});
 }
 else{
 console.log('already CD survey');
 }
 }
-function TrackUser(){
-if (!sessionStorage.alreadyClicked) {
-$.ajax({
-url: '//freegeoip.net/json/',
-type: 'POST',
-dataType: 'jsonp',
-success: function(location) {
-$.ajax({url:'/CFC/location.cfc?method=logLocation',
-type: 'post',
-data:{remloc:JSON.stringify(location),site:window.location.hostname },
-success: function(data){
-console.log(location);
-},
-error: function(xhr, textStatus, error){
-console.log(xhr);
-console.log(textStatus);
-console.log(error);
-}
-});
-},
-error: function(xhr, textStatus, errorThrown){
-console.log(xhr.responseText);
-}
-});
-sessionStorage.alreadyClicked = 1;
-};
-}
+// function TrackUser(){
+// if (!sessionStorage.alreadyClicked) {
+// $.ajax({
+// url: '//freegeoip.net/json/',
+// type: 'POST',
+// dataType: 'jsonp',
+// success: function(location) {
+//
+// $.ajax({url:'/CFC/location.cfc?method=logLocation',
+// type: 'post',
+// data:{remloc:JSON.stringify(location),site:window.location.hostname },
+//
+// success: function(data){
+// console.log(location);
+// },
+// error: function(xhr, textStatus, error){
+// console.log(xhr);
+// console.log(textStatus);
+// console.log(error);
+// }
+// });
+//
+// },
+// error: function(xhr, textStatus, errorThrown){
+// console.log(xhr.responseText);
+// }
+//
+// });
+// sessionStorage.alreadyClicked = 1;
+// };
+// }
 function BindControl(){
 $(window).bind('scroll', function () { // used to fix menu at top at event scrolling //
 if ($(window).scrollTop() > 60) {
@@ -120,16 +131,12 @@ $.sidr('toggle');
 });
 $('#art-menu').sidr({name:'articlemenu',side:'left',
 onOpen: function(){
-// $('.sidicon').removeClass('glyphicon-circle-arrow-right');
-// $('.sidicon').addClass('glyphicon-circle-arrow-left');
-$('.sideclick').removeClass('glyphicon-circle-arrow-right');
-$('.sideclick').addClass('glyphicon-circle-arrow-left');
+$('.sider i.fa-chevron-circle-right').removeClass('fa-chevron-circle-right');
+$('.sider i').addClass('fa-chevron-circle-left');
 },
 onClose: function(){
-// $('.sidicon').removeClass('glyphicon-circle-arrow-left');
-// $('.sidicon').addClass('glyphicon-circle-arrow-right');
-$('.sideclick').removeClass('glyphicon-circle-arrow-left');
-$('.sideclick').addClass('glyphicon-circle-arrow-right');
+$('.sider i.fa-chevron-circle-left').removeClass('fa-chevron-circle-left');
+$('.sider i').addClass('fa-chevron-circle-right');
 }
 });
 }
@@ -139,6 +146,8 @@ $.ajax({url:'/CFC/banners.cfc?method=bannerClick',
 type: 'post',
 data: {bannerID: id, link: link},
 success: function(data){
+console.log(id);
+console.log(link);
 },
 error: function(xhr, textStatus, errorThrown){
 console.log(xhr.status);
@@ -147,7 +156,6 @@ console.log(errorThrown);
 }
 });
 ga('send', 'event', 'outbound', 'click', link);
-// window.open(link,'_blank'); // changed - included link on banner ads.
 }
 </script>
 <script>
@@ -158,7 +166,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 ga('create', 'UA-28812093-1', 'auto');
 ga('send', 'pageview');
 </script>
-</head><body id="about" class="sysPrivacyNotice"><div id="fb-root"></div>
+<link type="text/css" rel="stylesheet" href="/requirements/prettify/themes/tomorrow-night.min.css"><script src="/requirements/prettify/prettify.min.js" type="text/javascript"></script></head><body id="about" class="sysPrivacyNotice"><div id="fb-root"></div>
 <script>(function(d, s, id) {
 var js, fjs = d.getElementsByTagName(s)[0];
 if (d.getElementById(id)) return;
@@ -167,20 +175,28 @@ js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
 fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 <style>
-/*.article img{margin:10px !important;}*/
+body::-webkit-scrollbar {
+width: 1em;
+}
+.sideHeader{ border-top: thin solid black;
+border-bottom: thin solid black;
+color: #428bca;
+text-align:center;}
 div.article dl.clearfix{border-bottom:thin solid #cccccc;} /* separator for article listing. */
 body{margin:0 auto; font-size:15px; line-height: 18px;}
 figure {margin:10px;} /* this is used to reset the browsers default margins which are too large */
-@media(max-width:800px){
-.gut{padding-left:42px !important;}
-}
+/*@media(max-width:800px){*/
+.gut{padding-left:50px !important;}
+/*}*/
 #navPrimary a b:nth-child(2){display:none !important;}
 .modal-content{opacity:0.9 !important;}
 .modal-backdrop.in(opacity: .7;)
 </style>
-<script type="text/javascript" src="/CD/js/global.min.js"></script>
-<script type="text/javascript">
-initMura({
+<script src="https://use.typekit.net/jdz1tsq.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<script type="text/javascript" src="/CD/js/dist/mura.min.js?v=6836"></script>
+<script>
+Mura.init({
 loginURL:"?display=login",
 siteid:"CD",
 contentid:"31F6D885-2B10-4E2F-B0960C71229F9250",
@@ -207,7 +223,7 @@ dtLocale:"en-US"
 </script>
 <script>
 $(function(){
-mura.loader()
+Mura.loader()
 .loadcss("/requirements/prettify/themes/tomorrow-night.min.css")
 .loadjs("/requirements/prettify/prettify.min.js",
 function(){
@@ -443,53 +459,65 @@ var allowNegative = false;
 
 
 <style>
-</style>
-<div class="topnav visible-lg" style="height:20px;text-align:center;margin:0 auto 10px auto;" id="firstnav">
-<ul class="nav list-inline">
-<li class="adheader "><a class="adheader " style="border:thin black solid;" id="subscriptions" href="http://connect.concretedecor.net/sponsorship/subscribe/?subsid=CDHome" title="Free Trial Subscription" target="_blank">Trial Subscription</a>
-</li>
-<li class="adheader"><a class="adheader" id="newsletter" title="View our Newsletters" href="/subscribe/newsletter-sign-up1">Newsletter</a></li>
-<li class="adheader"><a class="adheader " id="support" href="/about/customer-support/" title="Customer Support FAQs">Customer Support</a></li>
-<li class="adheader"><a class="adheader " id="contact" href="/about/contact-us/" title="Contact Us Form">Contact Us</a></li>
-<li class="adheader"><a class="adheader" id="advertise" href="/about/advertising/" title="Advertising Information">Advertising</a>
-</li>
-<li class="adheader"><a class="adheader" href="http://connect.concretedecor.net" id="login" target="_blank" title="Advertiser Login">Log In</a>
-</li>
-<li id="translator" style="float:right;">
-<div id="google_translate_element"></div><script type="text/javascript">
-function googleTranslateElementInit() {
-new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
-}
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-</li>
-</ul>
-</div>
-<style>
 .headerContent{margin:0;padding:0;}
 #header-bar-content img{margin-right:5px;}
+.sideTab{ position: fixed;
+cursor:pointer;
+top: 120px;
+z-index: 900;
+}
+.sideways {padding: 5px 10px ;}
+.sideways li:hover{background-color:#92bd60;; }
+.sideways li{border-left:thin solid black; border-right:thin solid black; border-bottom:thin solid black;
+min-height: 20px;
+padding: 5px 5px 5px 5px;
+background-color: #f5f5f5;
+border: 1px solid #e3e3e3;
+border-radius: 4px;
+-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+}
+.popAdTab{background-color:pink;}
 </style>
-<div class="container" style="margin-top:2px;height:90px;overflow:hidden;">
+<div class="container" style="height:70px;overflow:hidden;">
 <div id="header" class="row">
-<div class="col-md-3 ">
-<img src="/CD/includes/themes/MuraBootstrap3/images/CDweb15_246x85.png" alt="Concrete Decor Magazine">
+<div class="col-md-6 col-sm-6 col-xs-6 ">
+<img style="height:68px;" src="/CD/images/CDlogoBlackType.svg" alt="Concrete Decor Magazine">
 </div>
-<div class="col-md-3 hidden-xs hidden-sm" style="headerContent">
-<div id="header-bar-content"><p><a href="http://www.concretedecor.net/blogs/decorativeconcreteonlineexclusives/top-notch-fire-station-upgrade-cemented "><img alt="Honestone Fire Station" class="image-left" height="95" src="/CD/assets/File/Honestone-80.jpg" width="80"><span id="header-bar-headline" style="color:#009BDF ;">Top notch fire station upgrade cemented</span><br>
-A coating refreshes an old fire station in Australia</a></p></div>
+<div class="social-list center hidden-sm hidden-xs col-lg-3 col-md-3" style="text-align:right;padding-top:10px;">
+<a href="https://www.facebook.com/ConcreteDecorMagazine" target="_blank" title="facebook"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i></a>
+<a href="https://www.linkedin.com/company/concrete-decor-magazine" target="_blank" title="Linked In"><i class="fa fa-linkedin fa-lg" aria-hidden="true"></i></a>
+<a href="https://twitter.com/concretedecor" target="_blank" title="Twitter"><i class="fa fa-twitter fa-lg" aria-hidden="true"></i></a>
+<a href="http://pinterest.com/concretedecor1" target="_blank" title="Pintrest"><i class="fa fa-pinterest-p fa-lg" aria-hidden="true"></i></a>
+<a href="https://www.youtube.com/channel/UCjXGgPxyfjaEP_ke5ulI_FA" target="_blank" title="YouTube"><i class="fa fa-youtube fa-lg" aria-hidden="true"></i></a>
 </div>
-<div class="col-md-3 hidden-xs hidden-sm" style="headerContent">
-<div id="header-bar-content"><p><a href="http://www.concretedecor.net/blogs/decorativeconcreteonlineexclusives/auctioning-concrete-furniture-to-support-sick-children-through-art/ "><img alt="Concrete Chaise Lounge" height="95" src="/CD/assets/Image/blogs/OnlineExclusives/2014/CherryBlossom80.jpg" style="float:left" width="80"><span id="header-bar-headline" style="color:#009BDF ;">Concrete Furniture For Life</span><br>
-Auctioning off objects supports an arts organization</a></p></div>
+<div class="col-md-3 col-sm-6 col-xs-6 ">
+<form action="/index.cfm/search-results/" id="searchForm" class="navbar-form pull-right" role="search">
+<div class="input-group ">
+<input type="text" name="Keywords" id="navKeywords" class="form-control" value="" placeholder="Search">
+<span class="input-group-btn">
+<button type="submit" class="btn btn-default">
+<i class="fa fa-search" aria-hidden="true"></i>
+</button>
+</span>
 </div>
-<div class="col-md-3 hidden-xs hidden-sm" style="headerContent">
-<div id="header-bar-content"><p><a href="http://www.concretedecor.net/blogs/decorativeconcreteonlineexclusives/art-project-is-concrete-symbol-of-new-beginnings/ "><img alt="" class="image-left" height="90" src="/CD/assets/Image/blogs/OnlineExclusives/2015/Ellie85.jpg" width="85"><span id="header-bar-headline" style="color:#009BDF ;">Ocean of Life</span><br>
-Art project is concrete symbol of new beginnings</a></p></div>
+<input type="hidden" name="display" value="search">
+<input type="hidden" name="newSearch" value="true">
+<input type="hidden" name="noCache" value="1">
+</form>
 </div>
 </div>
 </div>
+<!-- Nav tabs -->
+<div class="sideTab">
+<ul class="nav tabs-left sideways">
+<li class=" mainmenuTab center">Main Menu</li>
+<li class=" contentsTab center">Contents</li>
+</ul>
 <a href="#" class="scroll-top" title="scroll top" style="display:none;">
-<i class="glyphicon glyphicon-chevron-up"></i>
+<i class="fa fa-chevron-circle-up fa-2x" aria-hidden="true" style="margin-left:5px;"></i>
 </a>
+</div>
 <style>
 @media (max-width: 992px) {
 .navbar-header {
@@ -517,27 +545,80 @@ padding-top: 10px;
 padding-bottom: 10px;
 }
 }
+.articlemenu .nav > li > a {
+font-size: 14px;
+position: relative;
+display: block;
+padding: 5px 15px;}
+#navSide i.fa{margin-left:-10px;width:40px;}
+#navSide ul.dropdown li{padding-left:20px;}
+.rotate-180{transform: rotate(180deg);}
+#navSide b.caret{ position: absolute;
+right: 70px;
+top: 20px;}
+}
 </style>
-<script src="/CD/js/jquery.contact-buttons.js"></script>
-<script src="/CD/js/social.js"></script>
-<link rel="stylesheet" href="/CD/css/contact-buttons.css">
-<nav id="mainmenu" class="navbar navbar-inverse navbar-static-top " role="navigation" style="height:50px;z-index:100;">
-<a id="simple-menu" href="#sidr" title="Main Menu"><span id="menu-icon" class="glyphicon glyphicon-menu-hamburger" style="" aria-hidden="true"></span></a>
+<script>
+$('document').ready(function(){
+$('#navSide li.dropdown a.dropdown-toggle').click(function() {
+$(this).children('.caret').toggleClass("rotate-180");
+$(this).closest('.dropdown').find('li a').not(this).children('.caret').removeClass("rotate-180");
+});
+// copy href for folder links into data-href attributes
+$('#navSide li.dropdown a.dropdown-toggle').each(function() {
+$(this).attr('data-href', $(this).attr('href'));
+$(this).append('<b class="caret"></b>');
+});
+$('#navSide li.dropdown a.dropdown-toggle').attr('href','#');
+$('#navSide a.active').closest('ul.dropdown').addClass('active');
+$('#navSide li.dropdown a').click(function(){
+$(this).addClass('active');
+console.log($(this).parent().attr('id'));
+//$(this).parent('li').toggleClass('active');
+$('#navSide ul li.dropdown ul').not($(this).siblings('ul')).removeClass('active');
+$(this).siblings('ul').toggleClass('active');
+});// end side menu click
+$('#navSide #navHome a:first').prepend('<i class="fa fa-lg fa-home" aria-hidden="true"></i> ');
+$('#navSide #navArchives a:first').prepend('<i class="fa fa-lg fa-archive" aria-hidden="true"></i> ');
+$('#navSide #navDigital a:first').prepend('<i class="fa fa-lg fa-cloud" aria-hidden="true"></i> ');
+$('#navSide #navEducation a:first').prepend('<i class="fa fa-lg fa-graduation-cap" aria-hidden="true"></i> ');
+$('#navSide #navDepartments a:first').prepend('<i class="fa fa-lg fa-list-alt" aria-hidden="true"></i> ');
+$('#navSide #navFindProducts a:first').prepend('<i class="fa fa-lg fa-cubes" aria-hidden="true"></i> ');
+$('#navSide #navSubscribe a:first').prepend('<i class="fa fa-lg fa-envelope" aria-hidden="true"></i> ');
+$('#navSide #navAbout a:first').prepend('<i class="fa fa-lg fa-info-circle" aria-hidden="true"></i> ');
+});
+</script>
+<style>
+#navSide ul.dropdown{ display:none;}
+#navSide ul.dropdown.active{display:block;}
+/*ul.active li > a.active{color:lightgreen;}
+ul#sidr li a.active{color:lightgreen;}*/
+/*.sidr ul li { line-height:normal;}
+.sidr ul li:hover, .sidr ul li.active, .sidr ul li.sidr-class-active {
+border-top: inherit;
+line-height: normal;
+}*/
+#sidr,#articlemenu{border-right:thin solid black;}
+</style>
+<nav id="mainmenu" class="navbar navbar-inverse navbar-static-top " role="navigation" style="height:50px;">
+<a id="simple-menu" href="#sidr">
+<i class="fa fa-bars fa-2x" id="menu-icon" data-toggle="popover" data-content="Main Menu" data-placement="right"></i>
+</a>
 <div class="container">
-<div class="collapse navbar-collapse navbar-ex1-collapse">
+<div class=" navbar-collapse ">
 <div class="row">
-<div class="col-md-10">
+<div class="col-lg-11 col-md-11 hidden-sm hidden-xs ">
 <ul id="navPrimary" class="nav navbar-nav">
 <li class="first" id="navHome"><a href="/">Home</a></li>
 <li id="navArchives"><a href="/decorativeconcretearticles/">Archives</a></li>
-<li class="dropdown" id="navDigital"><a href="/digital/" class="dropdown-toggle">Digital</a>
+<li class="dropdown" id="navDigital"><a href="/digital/" class="dropdown-toggle">Digital<b class="caret"></b><b class="caret"></b></a>
 <ul class="dropdown-menu">
 <li class="first" id="navMagazine"><a href="/digital/e-digital-archive/">Magazine</a></li>
 <li id="navBlogs"><a href="/digital/blogs/">Blogs</a></li>
 <li class="last" id="navVideos"><a href="/digital/videos/">Videos</a></li>
 </ul>
 </li>
-<li class="dropdown" id="navEducation"><a href="/education/" class="dropdown-toggle">Education</a>
+<li class="dropdown" id="navEducation"><a href="/education/" class="dropdown-toggle">Education<b class="caret"></b><b class="caret"></b></a>
 <ul class="dropdown-menu">
 <li class="first" id="navBookstore"><a href="/education/bookstore/">Bookstore</a></li>
 <li id="navTraining"><a href="/education/training/">Training</a></li>
@@ -547,7 +628,7 @@ padding-bottom: 10px;
 </ul>
 </li>
 <li id="navFindProducts"><a href="/product-guide/">Find Products</a></li>
-<li class="dropdown" id="navDepartments"><a href="/departments/" class="dropdown-toggle">Departments</a>
+<li class="dropdown" id="navDepartments"><a href="/departments/" class="dropdown-toggle">Departments<b class="caret"></b><b class="caret"></b></a>
 <ul class="dropdown-menu">
 <li class="first" id="navHallOffame"><a href="/departments/hall-of-fame/">Hall of Fame</a></li>
 <li id="navBusinessIndustry"><a href="/departments/business-industry/">Business &amp; Industry</a></li>
@@ -559,19 +640,18 @@ padding-bottom: 10px;
 <li id="navOverlaysToppings"><a href="/departments/overlays-toppings/">Overlays &amp; Toppings</a></li>
 <li id="navStainingColoring"><a href="/departments/staining-coloring/">Staining &amp; Coloring</a></li>
 <li id="navStampingTexturing"><a href="/departments/stamping-texturing-concrete/">Stamping &amp; Texturing</a></li>
-<li id="navWallsHardscapes"><a href="/departments/walls-hardscapes/">Walls &amp; Hardscapes</a></li>
 <li id="navTechnology"><a href="/departments/technology/">Technology</a></li>
 <li class="last" id="navColumnists"><a href="/departments/columnists/">Columnists</a></li>
 </ul>
 </li>
-<li class="dropdown" id="navSubscribe"><a href="/subscribe/" class="dropdown-toggle">Subscribe</a>
+<li class="dropdown" id="navSubscribe"><a href="/subscribe/" class="dropdown-toggle">Subscribe<b class="caret"></b><b class="caret"></b></a>
 <ul class="dropdown-menu">
 <li class="first" id="navMagazine"><a href="/subscribe/magazine/">Magazine</a></li>
 <li id="navNewsletters"><a href="/subscribe/newsletter-sign-up1/">Newsletters</a></li>
 <li class="last" id="navTrialSubscription"><a href="/subscribe/trial-subscription/" target="_blank">Trial Subscription</a></li>
 </ul>
 </li>
-<li class="last dropdown" id="navAbout"><a href="/about/" class="dropdown-toggle">About</a>
+<li class="last dropdown active" id="navAbout"><a href="/about/" class="dropdown-toggle">About<b class="caret"></b><b class="caret"></b></a>
 <ul class="dropdown-menu">
 <li class="first" id="navMagazine"><a href="/about/magazine/">Magazine</a></li>
 <li id="navSponsorship"><a href="/about/sponsorship/" target="_blank">Sponsorship</a></li>
@@ -592,41 +672,33 @@ $("#navPrimary [href='" + value + "']").closest("li").addClass("active");
 })
 </script>
 </div>
-<div class="col-md-2 pull-right ">
-<form action="/index.cfm/search-results/" id="searchForm" class="navbar-form visible-lg " role="search" style="padding: 0 ;float:right;">
-<div class="input-group ">
-<input type="text" name="Keywords" id="navKeywords" class="form-control" value="" placeholder="Search" style="height:36px;">
-<span class="input-group-btn">
-<button type="submit" class="btn btn-default">
-<i class="fa fa-search"></i>
-</button>
-</span>
-</div>
-<input type="hidden" name="display" value="search">
-<input type="hidden" name="newSearch" value="true">
-<input type="hidden" name="noCache" value="1">
-</form>
+<div class=" hidden-lg hidden-md col-sm-8 col-xs-8" style="padding-top:10px;">
+<a href="https://www.facebook.com/ConcreteDecorMagazine" target="_blank" title="facebook"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i> </a>
+<a href="https://www.linkedin.com/company/concrete-decor-magazine" target="_blank" title="Linked In"><i class="fa fa-linkedin fa-lg" aria-hidden="true"></i></a>
+<a href="https://twitter.com/concretedecor" target="_blank" title="Twitter"><i class="fa fa-twitter fa-lg" aria-hidden="true"></i></a>
+<a href="http://pinterest.com/concretedecor1" target="_blank" title="Pintrest"><i class="fa fa-pinterest-p fa-lg" aria-hidden="true"></i></a>
+<a href="https://www.youtube.com/channel/UCjXGgPxyfjaEP_ke5ulI_FA" target="_blank" title="YouTube"><i class="fa fa-youtube fa-lg" aria-hidden="true"></i></a>
 </div>
 </div>
 </div>
 </div></nav>
-<div class="sidr" id="sidr">
-<div onclick=" $.sidr('close', 'sidr');" class="closer"><span style="color:white;">Close</span></div>
-<div class="center"><strong>Concrete Decor Magazine</strong></div>
+<div class="sidr left" id="sidr">
+<div class="center" onclick=" $.sidr('close', 'sidr');" style="height:50px;background-color:#222;color:white;font-size:20px;padding-top:15px;cursor:pointer; " data-toggle="popover" data-content="Close" data-placement="bottom">Main Menu
+<div style="height:30px;float:right;display:inline-block;"><i class="fa fa-arrow-left fa-lg " aria-hidden="true"></i></div></div>
 <div id="soHeader" style="text-align:center;display:none;">
-<img width="90%" alt="" src="/CD/includes/themes/MuraBootstrap3/images/CDweb15_246x85.png">
+<img style="width:200px;" src="/CD/images/CDlogoBlackType.svg" alt="Concrete Decor Magazine">
 </div>
 <ul id="navSide" class="nav">
-<li class="first" id="navHome"><a href="/">Home</a></li>
-<li id="navArchives"><a href="/decorativeconcretearticles/">Archives</a></li>
-<li class="dropdown" id="navDigital"><a href="/digital/" class="dropdown-toggle">Digital</a>
+<li class="first" id="navHome"><a href="/"><i class="fa fa-lg fa-home" aria-hidden="true"></i> Home</a></li>
+<li id="navArchives"><a href="/decorativeconcretearticles/"><i class="fa fa-lg fa-archive" aria-hidden="true"></i> Archives</a></li>
+<li class="dropdown" id="navDigital"><a href="#" class="dropdown-toggle" data-href="/digital/"><i class="fa fa-lg fa-cloud" aria-hidden="true"></i> Digital<b class="caret"></b></a>
 <ul class="dropdown">
 <li class="first" id="navMagazine"><a href="/digital/e-digital-archive/">Magazine</a></li>
 <li id="navBlogs"><a href="/digital/blogs/">Blogs</a></li>
 <li class="last" id="navVideos"><a href="/digital/videos/">Videos</a></li>
 </ul>
 </li>
-<li class="dropdown" id="navEducation"><a href="/education/" class="dropdown-toggle">Education</a>
+<li class="dropdown" id="navEducation"><a href="#" class="dropdown-toggle" data-href="/education/"><i class="fa fa-lg fa-graduation-cap" aria-hidden="true"></i> Education<b class="caret"></b></a>
 <ul class="dropdown">
 <li class="first" id="navBookstore"><a href="/education/bookstore/">Bookstore</a></li>
 <li id="navTraining"><a href="/education/training/">Training</a></li>
@@ -635,8 +707,8 @@ $("#navPrimary [href='" + value + "']").closest("li").addClass("active");
 <li class="last" id="navConcreteCalculator"><a href="/education/concrete-calculator1/">Concrete Calculator</a></li>
 </ul>
 </li>
-<li id="navFindProducts"><a href="/product-guide/">Find Products</a></li>
-<li class="dropdown" id="navDepartments"><a href="/departments/" class="dropdown-toggle">Departments</a>
+<li id="navFindProducts"><a href="/product-guide/"><i class="fa fa-lg fa-cubes" aria-hidden="true"></i> Find Products</a></li>
+<li class="dropdown" id="navDepartments"><a href="#" class="dropdown-toggle" data-href="/departments/"><i class="fa fa-lg fa-list-alt" aria-hidden="true"></i> Departments<b class="caret"></b></a>
 <ul class="dropdown">
 <li class="first" id="navHallOffame"><a href="/departments/hall-of-fame/">Hall of Fame</a></li>
 <li id="navBusinessIndustry"><a href="/departments/business-industry/">Business &amp; Industry</a></li>
@@ -648,19 +720,18 @@ $("#navPrimary [href='" + value + "']").closest("li").addClass("active");
 <li id="navOverlaysToppings"><a href="/departments/overlays-toppings/">Overlays &amp; Toppings</a></li>
 <li id="navStainingColoring"><a href="/departments/staining-coloring/">Staining &amp; Coloring</a></li>
 <li id="navStampingTexturing"><a href="/departments/stamping-texturing-concrete/">Stamping &amp; Texturing</a></li>
-<li id="navWallsHardscapes"><a href="/departments/walls-hardscapes/">Walls &amp; Hardscapes</a></li>
 <li id="navTechnology"><a href="/departments/technology/">Technology</a></li>
 <li class="last" id="navColumnists"><a href="/departments/columnists/">Columnists</a></li>
 </ul>
 </li>
-<li class="dropdown" id="navSubscribe"><a href="/subscribe/" class="dropdown-toggle">Subscribe</a>
+<li class="dropdown" id="navSubscribe"><a href="#" class="dropdown-toggle" data-href="/subscribe/"><i class="fa fa-lg fa-envelope" aria-hidden="true"></i> Subscribe<b class="caret"></b></a>
 <ul class="dropdown">
 <li class="first" id="navMagazine"><a href="/subscribe/magazine/">Magazine</a></li>
 <li id="navNewsletters"><a href="/subscribe/newsletter-sign-up1/">Newsletters</a></li>
 <li class="last" id="navTrialSubscription"><a href="/subscribe/trial-subscription/" target="_blank">Trial Subscription</a></li>
 </ul>
 </li>
-<li class="last active dropdown" id="navAbout"><a href="/about/" class="active dropdown-toggle">About</a>
+<li class="last active dropdown" id="navAbout"><a href="#" class="active dropdown-toggle" data-href="/about/"><i class="fa fa-lg fa-info-circle" aria-hidden="true"></i> About<b class="caret"></b></a>
 <ul class="dropdown">
 <li class="first" id="navMagazine"><a href="/about/magazine/">Magazine</a></li>
 <li id="navSponsorship"><a href="/about/sponsorship/" target="_blank">Sponsorship</a></li>
@@ -672,28 +743,13 @@ $("#navPrimary [href='" + value + "']").closest("li").addClass("active");
 </li>
 </ul>
 <ul class="nav" id="navSide2" style="border-top:none;margin-top:-15px;">
-<li style="border-bottom:none;">
-<form action="/index.cfm/search-results/" id="searchForm" class="navbar-form " role="search" style="margin:0;">
-<div class="input-group input-group-lg">
-<input type="text" name="Keywords" style="border-radus:6px;height:47px;width:auto;" id="navKeywords" class="form-control" value="" placeholder="Search">
-<span class="input-group-btn">
-<button type="submit" style="height:46px;" class="btn btn-default">
-<i class="fa fa-search"></i>
-</button>
-</span>
-</div>
-<input type="hidden" name="display" value="search">
-<input type="hidden" name="newSearch" value="true">
-<input type="hidden" name="noCache" value="1">
-</form>
-</li>
 <li class="center">
 <a href="http://www.concretedecorshow.com" target="_blank">
-<img src="http://www.concretedecorshow.com/2016/images/2016weblogoCDS.png" width="150px;" style="margin:0 auto;">
+<img src="http://www.concretedecorshow.com/2017/assets/Image/Logos/CDSwithoutYear_v3.svg" width="150px;">
 </a>
 </li>
 <li class="center">
-<a href="http://www.decorativeconcretereseller.com/site/" target="_blank">
+<a href="http://www.decorativeconcretereseller.com" target="_blank">
 <img src="http://www.decorativeconcretereseller.com/images/CDR_logo2_250.png" width="150px;" style="margin:0 auto;">
 </a>
 </li>
@@ -701,13 +757,18 @@ $("#navPrimary [href='" + value + "']").closest("li").addClass("active");
 <br>
 <br>
 </div>
-<div class="nav articlemenu sidr" id="articlemenu">
-<div onclick=" $.sidr('close', 'articlemenu');" class="closer"><span style="color:white;">Close</span></div>
-<div class="sidemenu"></div>
+<div class="nav articlemenu sidr left" id="articlemenu">
+<div class="center" style="height:35px; margin-top:10px;font-size:20px;cursor:pointer;" onclick=" $.sidr('close', 'articlemenu');" data-toggle="popover" data-content="Close" data-placement="bottom"><strong>Contents</strong>
+<div style="height:30px;float:right;display:inline-block;"><i class="fa fa-arrow-left fa-lg " aria-hidden="true"></i></div></div>
+<div class="sidemenu">
+<span style="font-size:20px;font-weight:bold;text-align:center;display:block;">
+About
+</span>
 </div>
-<div class="container">
+</div>
+<div class="gut container">
 <div class="row">
-<div class="gut col-md-9 col-xs-12">
+<div class="col-md-9 col-xs-12">
 <h1 class="pageTitle">Privacy Notice</h1>
 <div style="margin:0 100px 0 20px;">
 <p><strong>Introduction</strong><br>
@@ -783,44 +844,88 @@ Eugene, OR 97402 USA</p>
 </div>
 <div class="RBannerCol col-md-3 col-xs-12">
 <span style="margin:0;padding:0 0 0 3px;width:90%;text-align:left;font-size:10px;color:#999999;background-color:#EEEEEE;">&nbsp;&nbsp;Advertisement</span>
-<div style="width:300px;height:264px;padding-bottom:0;cursor:pointer;">
-<a href="http://www.westcoat.com/product-showcase-i-87.html?utm_source=concretedecor&amp;utm_medium=display&amp;utm_content=largerec-ec11-sc67-tc29&amp;utm_campaign=showcase-ec11-sc67-tc29" target="_blank">
-<img src="http://www.concretedecor.net/banners/May16_Westcoat_300x250.gif" title="http://www.westcoat.com/product-showcase-i-87.html?utm_source=concretedecor&amp;utm_medium=display&amp;utm_content=largerec-ec11-sc67-tc29&amp;utm_campaign=showcase-ec11-sc67-tc29" border="0" style="margin:0;padding:0;" nopin="nopin" onclick="bannerClick(192,'http://www.westcoat.com/product-showcase-i-87.html?utm_source=concretedecor&amp;utm_medium=display&amp;utm_content=largerec-ec11-sc67-tc29&amp;utm_campaign=showcase-ec11-sc67-tc29')"></a>
+<div style="width:300px;padding-bottom:0;cursor:pointer;" class="largeContainer" data-title="Husqvarna Construction Products" data-toggle="popover" data-placement="top" data-viewport=".largeContainer">
+<a href="http://www.husqvarna.com/us/construction/products/surface-preparation-products/pg-820-rc/#videos" target="_blank">
+<img src="http://www.concretedecor.net/banners/husqvarna-may12016.gif" border="0" style="margin:0;padding:0;" nopin="nopin" onclick="bannerClick(202,'http://www.husqvarna.com/us/construction/products/surface-preparation-products/pg-820-rc/#videos')"></a>
 </div>
 <br>
-<div style="width:300px;height:264px;padding-bottom:0;cursor:pointer;">
+<div style="width:300px;padding-bottom:0;cursor:pointer;" class="largeContainer" data-title="Rock Tred Corp." data-toggle="popover" data-placement="top" data-viewport=".largeContainer">
 <a href="http://www.rocktred.com" target="_blank">
-<img src="http://www.concretedecor.net/banners/RockTred300x250.jpg" title="http://www.rocktred.com" border="0" style="margin:0;padding:0;" nopin="nopin" onclick="bannerClick(313,'http://www.rocktred.com')"></a>
+<img src="http://www.concretedecor.net/banners/RockTred300x250.jpg" border="0" style="margin:0;padding:0;" nopin="nopin" onclick="bannerClick(313,'http://www.rocktred.com')"></a>
 </div>
 <br>
-<div style="width:300px;height:264px;padding-bottom:0;cursor:pointer;">
-<a href="http://www.concretepolishinghq.com/" target="_blank">
-<img src="http://www.concretedecor.net/banners/CPHQ_300x250.jpg" title="http://www.concretepolishinghq.com/" border="0" style="margin:0;padding:0;" nopin="nopin" onclick="bannerClick(160,'http://www.concretepolishinghq.com/')"></a>
+<div style="width:300px;padding-bottom:0;cursor:pointer;" class="largeContainer" data-title="Jon-Don" data-toggle="popover" data-placement="top" data-viewport=".largeContainer">
+<a href="http://www.jondon.com/scanmaskin" target="_blank">
+<img src="http://www.concretedecor.net/banners/AD_Concrete Decor Banner Ad _0115.jpg" border="0" style="margin:0;padding:0;" nopin="nopin" onclick="bannerClick(372,'http://www.jondon.com/scanmaskin')"></a>
 </div>
 <br>
-<div style="width:310px; height:450px;cursor:pointer;">
-<a href="http://www.stampcrete.com" target="_blank">
-<img src="http://www.concretedecor.net/banners/June16_Stampcrete1_150x450.png" title="http://www.stampcrete.com" style="float:left;border:thin solid white;" border="2" nopin="nopin" onclick="bannerClick(320,'http://www.stampcrete.com')"></a>
+<div style="width:310px; height:450px;cursor:pointer;" class="skycontainer">
+<a href="https://www.hpspartacote.com" target="_blank" data-toggle="popover" data-viewport=".skycontainer" data-title="LATICRETE" data-placement="top">
+<img src="http://www.concretedecor.net/banners/laticrete-sky-oct2016.jpg" style="float:left;border:thin solid white;" border="2" nopin="nopin" onclick="bannerClick(326,'https://www.hpspartacote.com')"></a>
+<a href="http://www.stampcrete.com" target="_blank" data-toggle="popover" data-viewport=".skycontainer" data-title="Stampcrete International" data-placement="top">
+<img src="http://www.concretedecor.net/banners/sealerDepot_august2016-2.png" style="float:left;border:thin solid white;" border="2" nopin="nopin" onclick="bannerClick(323,'http://www.stampcrete.com')"></a>
 </div>
 <div style="clear: both;"><br></div>
-<div style="width:310px; height:180px;cursor:pointer;">
-<a href="http://www.spinscreed.com" target="_blank">
-<img src="http://www.concretedecor.net/banners/spinscreed.jpg" style="float:left;border:thin solid white;" nopin="nopin" onclick="bannerClick(284,'http://www.spinscreed.com')" title="http://www.spinscreed.com">
+<div style="width:310px; height:180px;cursor:pointer;" class="smallcontainer">
+<a href="http://www.deco-cretesupply.com" target="_blank" data-toggle="popover" data-viewport=".smallcontainer" data-title="Deco-Crete Supply" data-placement="top">
+<img src="http://www.concretedecor.net/banners/deco-crete-small-banner.jpg" style="float:left;border:thin solid white;" nopin="nopin" onclick="bannerClick(339,'http://www.deco-cretesupply.com')">
 </a>
-<a href="http://www.deco-cretesupply.com" target="_blank">
-<img src="http://www.concretedecor.net/banners/deco-crete-small-banner.jpg" style="float:left;border:thin solid white;" nopin="nopin" onclick="bannerClick(339,'http://www.deco-cretesupply.com')" title="http://www.deco-cretesupply.com">
+<a href="http://www.nox-crete.com/" target="_blank" data-toggle="popover" data-viewport=".smallcontainer" data-title="Nox-Crete Products Corp" data-placement="top">
+<img src="http://www.concretedecor.net/banners/May15_Nox-Crete_150x180.jpg" style="float:left;border:thin solid white;" nopin="nopin" onclick="bannerClick(343,'http://www.nox-crete.com/')">
+</a>
+</div>
+<br>
+<span style="margin:0;padding:0 0 0 3px;width:90%;text-align:left;font-size:10px;color:#999999;background-color:#EEEEEE;">&nbsp;&nbsp;Advertisement</span>
+<div style="width:300px;padding-bottom:0;cursor:pointer;" class="largeContainer" data-title="CDCLarue Industries, Inc" data-toggle="popover" data-placement="top" data-viewport=".largeContainer">
+<a href="http://www.cdclarue.com/" target="_blank">
+<img src="http://www.concretedecor.net/banners/CDClarue-feb22-2016.gif" border="0" style="margin:0;padding:0;" nopin="nopin" onclick="bannerClick(354,'http://www.cdclarue.com/')"></a>
+</div>
+<br>
+<div style="width:300px;padding-bottom:0;cursor:pointer;" class="largeContainer" data-title="GranQuartz" data-toggle="popover" data-placement="top" data-viewport=".largeContainer">
+<a href="https://www.granquartz.com/Home.aspx" target="_blank">
+<img src="http://www.concretedecor.net/banners/GQ-Lavina WEB AD-042013.jpg" border="0" style="margin:0;padding:0;" nopin="nopin" onclick="bannerClick(120,'https://www.granquartz.com/Home.aspx')"></a>
+</div>
+<br>
+<div style="width:300px;padding-bottom:0;cursor:pointer;" class="largeContainer" data-title="Jon-Don" data-toggle="popover" data-placement="top" data-viewport=".largeContainer">
+<a href="http://www.jondon.com/scanmaskin" target="_blank">
+<img src="http://www.concretedecor.net/banners/AD_Concrete Decor Banner Ad _0115.jpg" border="0" style="margin:0;padding:0;" nopin="nopin" onclick="bannerClick(372,'http://www.jondon.com/scanmaskin')"></a>
+</div>
+<br>
+<div style="width:310px; height:450px;cursor:pointer;" class="skycontainer">
+<a href="http://www.stampcrete.com" target="_blank" data-toggle="popover" data-viewport=".skycontainer" data-title="Stampcrete International" data-placement="top">
+<img src="http://www.concretedecor.net/banners/stampcrete_august2016.png" style="float:left;border:thin solid white;" border="2" nopin="nopin" onclick="bannerClick(320,'http://www.stampcrete.com')"></a>
+<a href="http://www.runyonsurfaceprep.com" target="_blank" data-toggle="popover" data-viewport=".skycontainer" data-title="Runyon Surface Prep Rental &amp; Supply" data-placement="top">
+<img src="http://www.concretedecor.net/banners/RunyonFeb2016.jpg" style="float:left;border:thin solid white;" border="2" nopin="nopin" onclick="bannerClick(333,'http://www.runyonsurfaceprep.com')"></a>
+</div>
+<div style="clear: both;"><br></div>
+<div style="width:310px; height:180px;cursor:pointer;" class="smallcontainer">
+<a href="http://www.nox-crete.com/" target="_blank" data-toggle="popover" data-viewport=".smallcontainer" data-title="Nox-Crete Products Corp" data-placement="top">
+<img src="http://www.concretedecor.net/banners/May15_Nox-Crete_150x180.jpg" style="float:left;border:thin solid white;" nopin="nopin" onclick="bannerClick(343,'http://www.nox-crete.com/')">
+</a>
+<a href="http://www.deco-cretesupply.com" target="_blank" data-toggle="popover" data-viewport=".smallcontainer" data-title="Deco-Crete Supply" data-placement="top">
+<img src="http://www.concretedecor.net/banners/deco-crete-small-banner.jpg" style="float:left;border:thin solid white;" nopin="nopin" onclick="bannerClick(339,'http://www.deco-cretesupply.com')">
 </a>
 </div>
 <br>
 </div>
 </div>
 </div>
+<style>
+.footer >ul>li.socialmedia a:hover{background-color:transparent !important; }
+</style>
 <div style="clear:both;"></div>
-<div class="container " id="footsitemap">
+<div class="gut container " id="footsitemap">
 <div class="row">
-<div class="col-md-3 col-sm-12 col-xs-12 center">
-<ul class="first">
-<li><img alt="" src="/CD/includes/themes/MuraBootstrap3/images/CDweb15_246x85.png"></li>
+<div class="col-md-2 col-sm-12 col-xs-12 center footer">
+<ul class="first ">
+<li><img alt="" src="http://www.concretedecor.net/CD/images/CDlogoBlackType.svg"></li>
+<li id="translator" style="margin-top:20px;">
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</li>
 </ul>
 </div>
 <div class="col-md-2 col-sm-6 col-xs-6 about footer">
@@ -828,18 +933,17 @@ Eugene, OR 97402 USA</p>
 <li><a href="/about/magazine/">About Us</a></li>
 <li><a href="/about/privacy-notice">Privacy Policy</a></li>
 <li><a href="/about/contact-us">Contact</a></li>
-<li><a href="/about/customer-support">Customer Support</a></li>
-<li><a class="active" id="subscriptions" href="http://connect.concretedecor.net/sponsorship/subscribe/?subsid=CDHome" title="Free Trial Subscription" target="_blank">Trial Subscription </a>
-</li>
+<li><a href="/blog/press-releases">Press Releases</a></li>
+<li><a data-toggle="modal" data-target="#FeedbackModal" style="cursor:pointer;">Feedback</a></li>
 </ul>
 </div>
-<div class="col-md-3 col-sm-6 col-xs-6 advertise footer">
-<ul><strong>Advertise</strong>
-<li><a href="/about/advertising">Concrete Decor</a></li>
-<li><a href="http://www.decorativeconcretereseller.com/" target="_blank"> Concrete Decor Reseller</a></li>
-<li><a href="http://www.concretedecorshow.com/" target="_blank">Concrete Decor Show</a></li>
-<li><a href="http://www.protradepubinc.com/PTP/index.cfm/file-upload/" target="_blank">FTP Site</a></li>
-<li><button data-toggle="modal" data-target="#CDNLsignupPOP" class="btn btn-xs btn-primary">Newsletter Signup</button></li>
+<div class="col-md-2 col-sm-6 col-xs-6 about footer">
+<ul><strong>Subscriptions</strong>
+<li><a id="pirc" href="http://connect.concretedecor.net/PIRC/" title="Product Information Request Center (PIRC)" target="_blank">Product Information</a></li>
+<li><a id="verify" href="http://verify.concretedecor.net" title="Address Verification" target="_blank">Address Verification</a></li>
+<li><a data-toggle="modal" data-target="#CDNLsignupPOP" style="cursor:pointer;">Newsletter Signup</a></li>
+<li><a href="/about/customer-support">Customer Support</a></li>
+<li><a class="active" id="subscriptions" href="http://connect.concretedecor.net/sponsorship/subscribe/?subsid=CDHome" title="Free Trial Subscription" target="_blank">Trial Subscription</a></li>
 </ul>
 </div>
 <div class="col-md-2 col-sm-6 col-xs-6 events footer">
@@ -860,6 +964,14 @@ Eugene, OR 97402 USA</p>
 <li><a href="http://connect.concretedecor.net/links/youtube/index.html" target="_blank">YouTube</a></li>
 </ul>
 </div>
+<div class="col-md-2 col-sm-6 col-xs-6 advertise footer">
+<ul><a href="http://www.concretedecor.net/about/advertising/" style="color:black;"><strong>Advertise</strong></a>
+<li><a href="/about/advertising">Concrete Decor</a></li>
+<li><a href="http://www.concretedecorshow.com/" target="_blank">Concrete Decor Show</a></li>
+<li><a href="http://www.protradepubinc.com/PTP/index.cfm/file-upload/" target="_blank">FTP Site</a></li>
+<li><a href="http://connect.concretedecor.net/" target="_blank">Login</a></li>
+</ul>
+</div>
 </div>
 </div>
 <footer>
@@ -869,7 +981,7 @@ Eugene, OR 97402 USA</p>
 </div><br><br>
 </div>
 </footer>
-<div id="footer" class="footer hiddenscrollbars">
+<div id="footer" class="hidden-xs footer " style=" overflow:hidden;">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.js"></script>
 <script>
 $(window).load( function(){
@@ -894,30 +1006,30 @@ overflow: -moz-scrollbars-none;
 overflow-y: hidden;
 overflow-x: scroll;
 -webkit-overflow-scrolling: touch;
-max-height: 80px; width:100%;}
+max-height: 70px; width:100%;}
 </style>
-<div style="overflow:hidden; height:100px;overflow: -moz-scrollbars-none;">
-<div class="logos container hiddenscrollbars">
-<a href="http://www.solomoncolors.com" target="_blank">
-<img src="http://www.concretedecor.net/banners/SolomonLogo200x40.jpg" title="http://www.solomoncolors.com" class="footlogo" border="0" onclick="bannerClick(225,'http://www.solomoncolors.com')">
+<div style="overflow:hidden; height:70px;">
+<div class="logos container hiddenscrollbars" style="overflow:hidden;">
+<a href="https://www.granquartz.com/Home.aspx" target="_blank" data-title="GranQuartz" data-toggle="popover" data-placement="top" data-container="body">
+<img src="http://www.concretedecor.net/banners/granquartz_GL.jpg" class="footlogo" border="0" onclick="bannerClick(7,'https://www.granquartz.com/Home.aspx')">
 </a>
-<a href="http://www.ctscement.com/" target="_blank">
-<img src="http://www.concretedecor.net/banners/CTS_logo_draft_200x40.jpg" title="http://www.ctscement.com/" class="footlogo" border="0" onclick="bannerClick(301,'http://www.ctscement.com/')">
+<a href="http://www.jondon.com/scanmaskin" target="_blank" data-title="Jon-Don" data-toggle="popover" data-placement="top" data-container="body">
+<img src="http://www.concretedecor.net/banners/JonDon_logo_200x34px_webBlue.png" class="footlogo" border="0" onclick="bannerClick(371,'http://www.jondon.com/scanmaskin')">
 </a>
-<a href="http://www.ermatorusa.com/" target="_blank">
-<img src="http://www.concretedecor.net/banners/Ermator_logo_draft_200x40.jpg" title="http://www.ermatorusa.com/" class="footlogo" border="0" onclick="bannerClick(293,'http://www.ermatorusa.com/')">
+<a href="http://www.concretepolishingHQ.com" target="_blank" data-title="Concrete Polishing HQ" data-toggle="popover" data-placement="top" data-container="body">
+<img src="http://www.concretedecor.net/banners/CPHQ-Global-Logo-200X40.jpg" class="footlogo" border="0" onclick="bannerClick(126,'http://www.concretepolishingHQ.com')">
 </a>
-<a href="http://www.concretepolishingHQ.com" target="_blank">
-<img src="http://www.concretedecor.net/banners/CPHQ-Global-Logo-200X40.jpg" title="http://www.concretepolishingHQ.com" class="footlogo" border="0" onclick="bannerClick(126,'http://www.concretepolishingHQ.com')">
+<a href="http://www.ghostshield.com/" target="_blank" data-title="Kretetek" data-toggle="popover" data-placement="top" data-container="body">
+<img src="http://www.concretedecor.net/banners/Kretek_Ghostshield_Logo.jpg" class="footlogo" border="0" onclick="bannerClick(348,'http://www.ghostshield.com/')">
 </a>
-<a href="http://www.jondon.com/scanmaskin" target="_blank">
-<img src="http://www.concretedecor.net/banners/JonDon_logo_200x34px_webBlue.png" title="http://www.jondon.com/scanmaskin" class="footlogo" border="0" onclick="bannerClick(371,'http://www.jondon.com/scanmaskin')">
+<a href="http://www.runyonsurfaceprep.com" target="_blank" data-title="Runyon Surface Prep Rental &amp; Supply" data-toggle="popover" data-placement="top" data-container="body">
+<img src="http://www.concretedecor.net/banners/runyon2016logo.png" class="footlogo" border="0" onclick="bannerClick(334,'http://www.runyonsurfaceprep.com')">
 </a>
-<a href="https://www.granquartz.com/Home.aspx" target="_blank">
-<img src="http://www.concretedecor.net/banners/granquartz_GL.jpg" title="https://www.granquartz.com/Home.aspx" class="footlogo" border="0" onclick="bannerClick(7,'https://www.granquartz.com/Home.aspx')">
+<a href="http://www.rocktred.com" target="_blank" data-title="Rock Tred Corp." data-toggle="popover" data-placement="top" data-container="body">
+<img src="http://www.concretedecor.net/banners/RockTredLogo200.png" class="footlogo" border="0" onclick="bannerClick(253,'http://www.rocktred.com')">
 </a>
-<a href="http://www.mckinnonmaterials.com" target="_blank">
-<img src="http://www.concretedecor.net/banners/McKinnonLogo200.jpg" title="http://www.mckinnonmaterials.com" class="footlogo" border="0" onclick="bannerClick(113,'http://www.mckinnonmaterials.com')">
+<a href="http://www.concretesealersusa.com" target="_blank" data-title="Concrete Sealers" data-toggle="popover" data-placement="top" data-container="body">
+<img src="http://www.concretedecor.net/banners/CSUSA_logo_200x40.png" class="footlogo" border="0" onclick="bannerClick(377,'http://www.concretesealersusa.com')">
 </a>
 </div>
 </div>
@@ -946,10 +1058,10 @@ $('.modal .modal-body').css('height', $(window).height() * 0.8);
 });
 });
 </script>
-<div id="CDNLsignupPOP" class="modal fade">
+<div id="CDNLsignupPOP" class="modal fade ui-draggable">
 <div class="modal-dialog">
 <div class="modal-content">
-<div class="modal-header">
+<div class="modal-header ui-draggable-handle">
 <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fa fa-times-circle"></i></button>
 </div>
 <div class="modal-body">
@@ -964,19 +1076,6 @@ $('.modal .modal-body').css('height', $(window).height() * 0.8);
 <div class="clearfix"></div>
 <div class="robly_field_group"><label>Last Name:</label><input type="text" name="LNAME" id="DATA2" value=""></div>
 <div class="clearfix"></div>
-<div class="robly_field_group"><label>Company:</label><input type="text" name="DATA3" id="DATA3" value=""></div>
-<div class="clearfix"></div>
-<div class="robly_field_group"><label>Address:</label><input type="text" name="DATA20" id="DATA20" value=""></div>
-<div class="clearfix"></div>
-<div class="robly_field_group"><label>City:</label><input type="text" name="DATA21" id="DATA21" value=""></div>
-<div class="clearfix"></div>
-<div class="robly_field_group"><label>State:</label><input type="text" name="DATA24" id="DATA24" value=""></div>
-<div class="clearfix"></div>
-<div class="robly_field_group"><label>Zip/Postal Code:</label><input type="text" name="DATA25" id="DATA25" value=""></div>
-<div class="clearfix"></div>
-<div class="robly_field_group"><label>Country:</label><input type="text" name="DATA26" id="DATA26" value=""></div>
-<div class="clearfix"></div>
-<div class="robly_field_group"><label>Phone number:</label><input type="text" name="DATA13" id="DATA13" value=""></div>
 <div class="clearfix"></div>
 <div class="robly_field_group input_group"><label>Our Mailing Lists:</label><ul><li><input type="checkbox" class="sublist_fb_option" value="180577" name="sub_lists[]"><label>Concrete Decor Show Information</label></li><li><input type="checkbox" checked="" class="sublist_fb_option" value="180621" name="sub_lists[]"><label>Concrete Decor e-Newsletter</label></li><li><input type="checkbox" class="sublist_fb_option" value="180646" name="sub_lists[]"><label>General Interest</label></li></ul></div>
 <div class="clearfix"></div>
@@ -986,7 +1085,7 @@ $('.modal .modal-body').css('height', $(window).height() * 0.8);
 </form>
 </div>
 </div>
-<div class="modal-footer">
+<div class="modal-footer ui-draggable-handle">
 <button class="btn btn-default" data-dismiss="modal" aria-hidden="true">Close</button>
 </div>
 </div><!-- /.modal-content -->
@@ -1071,6 +1170,59 @@ return pattern.test(emailAddress);
 }
 </script>
 <!-- End Robly Signup Form -->
+<div class="modal fade" id="FeedbackModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+<h4 class="modal-title" id="exampleModalLabel">Feedback for Webmaster</h4>
+</div><form action="" method="post" id="feedbackForm" class="feedback">
+<div class="modal-body">
+<div class="form-group">
+<label for="subject" class="control-label">Subject:</label>
+<input type="text" class="form-control" id="subject" required="" name="subject">
+</div>
+<div class="form-group">
+<label for="message-text" class="control-label">Message:</label>
+<textarea class="form-control" id="message-text" required="" name="message"></textarea>
+</div>
+<div class="form-group">
+<label for="email" class="control-label">Email:</label>
+<input type="email" class="form-control" id="email" required="" name="email">
+</div>
+<input type="hidden" name="sendpage" value="http://concretedecor.net/index.cfm/about/privacy-notice/" id="sendpage">
+</div></form>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<button type="button" class="btn btn-primary" id="submitFB">Send message</button>
+</div>
+</div>
+</div>
+</div>
+<script>
+$(function() {
+$("button#submitFB").click(function(){
+var frm = $('form.feedback').serializeArray();
+if(frm[2]['value'] === '' || frm[1]['value']===''|| frm[0]['value']==='')	{
+alert('You must complete entire form!');
+return;
+}
+console.log(frm);
+$.ajax({
+type: "POST",
+url: "/CFC/CD.cfc?method=feedbackSubmit",
+data: frm,
+success: function(){
+alert('Thank You');
+$("#FeedbackModal").modal('hide');
+},
+error: function(jqXHR, textStatus, errorThrown) {
+console.log(textStatus, errorThrown);
+}
+});
+});
+});
+</script>
 <script src="/CD/includes/themes/MuraBootstrap3/assets/bootstrap/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="/CD/includes/themes/MuraBootstrap3/compiled/theme.min.C5F05BBF6F1070ACD829237A3D8219B2.js"></script>
 <script type="text/javascript">
@@ -1095,6 +1247,16 @@ $('document').ready(function(){
 // else{
 // window.open('CDEmailPOP.html','CDEmailPOP',"width=300,height=400") ;
 // }
+});
+$(window).load(function(){
+if (/Mobi/.test(navigator.userAgent) ===false){
+$('[data-toggle="popover"]').popover({trigger:'hover'});
+}
+// $('a').popover().hover(function () {
+// setTimeout(function () {
+// $('a').popover('hide');
+// }, 10000);
+// });
 });
 </script>
 
