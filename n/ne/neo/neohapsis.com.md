@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the neohapsis.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625022713id_/http%3A//www.cisco.com/web/siteassets/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neohapsis.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207003553id_/http%3A//www.cisco.com/web/siteassets/legal/privacy.html) for the most accurate reproduction.*
 
 # Cisco Online Privacy Statement Summary - Cisco Systems
-
-## Cisco Online Privacy Statement Summary
-
-|  | 
-
-## Trust and Transparency Center
-
-Cisco is committed to maintaining strong protections for our customers, products and company. We believe in building and maintaining trust, reducing risk and simply doing what is right.
-
-[**Learn More**](https://web.archive.org/c/en/us/about/trust-transparency-center/overview.html)
 
 _The Cisco[Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html) and this summary apply to Cisco's websites and our affiliates' websites that link to the Statement._
 
@@ -54,8 +44,9 @@ Cisco respects and is committed to protecting your personal information. Our pri
 
 ### Important Information
 
-  * We follow privacy policies and data protection practices not only to comply with the law but to earn the trust and confidence in Cisco.
-  * Cisco previously certified under the [U.S.-E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework](http://www.export.gov/safeharbor/) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland, though does not rely on the Safe Harbor in order to comply with EU law. Cisco has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Following the ruling of the European Court of Justice on October 6, 2015 regarding the validity of the Safe Harbor, and in light of evolving regulatory frameworks, Cisco may participate in other frameworks approved by relevant regulatory authorities from time to time.
+  * Our privacy and data protection policies and practices are designed to comply with applicable law and earn and maintain your trust in Cisco.
+  * Cisco is certified under the [EU-US Privacy Shield](https://www.privacyshield.gov/Program-Overview) and the [US-Swiss Safe Harbor](https://safeharbor.export.gov/swisslist.aspx) frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, processing, and cross-border transfer of personal data from the EU and Switzerland.
+  * Cisco is also certified under the APEC [Cross Border Privacy Rules system](http://www.cbprs.org/) regarding personal data handling and transfers to/from the APEC member economies. 
 
 
 
@@ -63,16 +54,4 @@ Cisco respects and is committed to protecting your personal information. Our pri
 
 To find out more about our privacy practices, see the full version of the Cisco [Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html).
 
-_Last updated: March 2016_
-
-## How to Contact Us
-
-Email: [privacy@cisco.com](mailto:privacy@cisco.com)
-
-Mail: Cisco Systems, Inc.   
-Legal Department   
-170 West Tasman Dr.   
-San Jose, CA 95134 USA
-
-|   
----|---
+_Last updated: September 2016_
