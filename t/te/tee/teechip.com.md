@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teechip.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529125138id_/http%3A//teechip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teechip.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206163229id_/http%3A//teechip.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TeeChip
 
