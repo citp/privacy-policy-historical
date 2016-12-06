@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wcing.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319041129id_/http%3A//www.wcing.com/privacy-policy-disclaimer-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcing.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206093716id_/http%3A//www.wcing.com/privacy-policy-disclaimer-2) for the most accurate reproduction.*
 
 # Privacy Policy - WCING
 
