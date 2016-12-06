@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justgetflux.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406080202id_/https%3A//justgetflux.com/news/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justgetflux.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206113245id_/https%3A//justgetflux.com/news/pages/privacy) for the most accurate reproduction.*
 
 # f.lux and Privacy
 
@@ -18,7 +18,7 @@ You can read our full legal policy, below.
 
 We at F.lux Software LLC (“Company”) know you care about the information we may collect from you and that you may provide to us and how that information is used and shared. Please read the following to learn more about our Privacy Policy. For the purposes of this Privacy Policy, “Software” means the f.lux software you are about to (or have already) downloaded and/or installed, and “Website” refers to the [justgetflux.com](https://justgetflux.com/) website and related online services operated by the Company. By using the Software in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.
 
-Remember that your use of Company’s Software is at all times subject to the [End User License Agreement](https://web.archive.org/web/20160406080202id_/https://justgetflux.com/news/pages/eula/), which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the [End User License Agreement](https://web.archive.org/web/20160406080202id_/https://justgetflux.com/news/pages/eula/).
+Remember that your use of Company’s Software is at all times subject to the [End User License Agreement](https://web.archive.org/web/20161206113245id_/https://justgetflux.com/news/pages/eula/), which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the [End User License Agreement](https://web.archive.org/web/20161206113245id_/https://justgetflux.com/news/pages/eula/).
 
 ### What does this Privacy Policy cover?
 
@@ -28,7 +28,7 @@ We do not knowingly collect or solicit personal information from anyone under th
 
 ### Will Company ever change this Privacy Policy?
 
-We’re constantly trying to improve our Software, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by placing a notice on [justgetflux.com](https://web.archive.org/web/20160406080202id_/https://justgetflux.com/news/pages/privacy/justgetflux.com), by sending you a Webpage Notification (as described in more detail below), and/or by some other means. Please note that if you’ve opted not to receive legal notices from us, those legal notices will still govern your use of the Software, and you are still responsible for reading and understanding them. If you use the Software after any changes to the Privacy Policy have been posted, that means you agree to all of the changes. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.
+We’re constantly trying to improve our Software, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by placing a notice on [justgetflux.com](https://web.archive.org/web/20161206113245id_/https://justgetflux.com/news/pages/privacy/justgetflux.com), by sending you a Notification (as described in more detail below), and/or by some other means. Please note that if you’ve opted not to receive legal notices from us, those legal notices will still govern your use of the Software, and you are still responsible for reading and understanding them. If you use the Software after any changes to the Privacy Policy have been posted, that means you agree to all of the changes. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.
 
 ### What Information does Company Collect?
 
@@ -48,9 +48,9 @@ When we collect the usage information described above, we only use this data in 
 
 ### How will Company use information that it Collects?
 
-#### Webpage Notifications
+#### Notifications
 
-From time to time, Company may send webpage notifications or messages (each, a “Webpage Notification”) to you on the device(s) on which you are using the Software as part of our automatic updates. Company may send you Webpage Notifications to highlight new features or tell you about changes to the Software. Webpage Notifications will display using your default web browser (because this is the most secure way for Company to communicate these messages to you). You may opt out of receiving Webpage Notifications by disabling Software updates.
+From time to time, Company may send Notifications or messages (each, a “Notification”) to you on the device(s) on which you are using the Software as part of our automatic updates. Company may send you Notifications to highlight new features or tell you about changes to the Software. Notifications will display using your default web browser (because this is the most secure way for Company to communicate these messages to you). You may opt out of receiving Notifications by disabling Software updates.
 
 We neither rent nor sell your information in personally identifiable form to anyone. However, we may share your information with third parties as described in this section:
 
@@ -60,13 +60,13 @@ We neither rent nor sell your information in personally identifiable form to any
 
 **Business Transfers:** We may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that would be transferred. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, information could be one of the assets transferred to or acquired by a third party.
 
-**Protection of Company and Others:** We reserve the right to access, read, preserve, and disclose any information that we believe is necessary to comply with law or court order; enforce or apply our [End User License Agreement](https://web.archive.org/web/20160406080202id_/https://justgetflux.com/news/pages/eula/) and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others.
+**Protection of Company and Others:** We reserve the right to access, read, preserve, and disclose any information that we believe is necessary to comply with law or court order; enforce or apply our [End User License Agreement](https://web.archive.org/web/20161206113245id_/https://justgetflux.com/news/pages/eula/) and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others.
 
 ### How can I be sure f.lux is safe to install?
 
 The service virustotal.com (which automatically runs a large number of anti-virus and safety checks) provides the following analysis of our software and practices:
 
-  * [flux-setup.exe for Windows](https://www.virustotal.com/en/file/99f6a5fcf8c6789ff4d69a98b6cb1af9296a76f210c01a6c8a0716ef79134f2f/analysis/1405288990/)
+  * [flux-setup.exe for Windows](https://www.virustotal.com/en/url/303eb91511fc68d2ca39f0b642b1ca7aa730cdd9cedb6110f76d94f78ac061ec/analysis/1480984776/)
   * [Flux.zip for Mac](https://www.virustotal.com/en/file/7c201bfe37cc3e670a200a60a72caf298036a6335b237bf04e17efdd9ff879ab/analysis/1402862470/)
   * [justgetflux website](https://www.virustotal.com/en/url/cb0c74a15458556a891499ecb67b05a87398be0927aaaff7c29b0f2a741884fe/analysis/)
 
