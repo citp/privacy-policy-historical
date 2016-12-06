@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goconqr.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603194214id_/https%3A//www.goconqr.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goconqr.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206100258id_/https%3A//www.goconqr.com/en/privacy_policy) for the most accurate reproduction.*
 
 # GoConqr - Privacy Policy
 
@@ -104,6 +104,14 @@ You have the right to ask us not to process your personal data for marketing pur
 You may click [ here ](https://tools.google.com/dlpage/gaoptout/) to opt out of the Google Analytics Advertising Features. 
 
 Our Service may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
+
+##  GOCONQR CAMPUS 
+
+GoConqr Campus provides businesses and educational institutions with a branded portal and Campus groups to facilitate education and knowledge sharing on the GoConqr platform. You may be invited to join a Campus on GoConqr. An institution may invite a user to a GoConqr Campus by providing that individual’s email contact details, and institutions that set up a GoConqr Campus undertake that they have permission to share that email for the purpose of setting up a GoConqr Campus. 
+
+As a Campus member, you will receive benefits which include access to Campus groups and announcements. Your Campus plan may include the ability to access resources without logging in, the ability to create private resources, an ad free GoConqr experience, and the ability to have your performance tracked and certified. Performance can only be tracked by Campus administrators and users with appropriate permissions. Your Campus License Administrator is the data controller for Campus management and reporting. 
+
+You may leave a Campus at any time, while maintaining your membership of GoConqr and access to resources that you have created. 
 
 ##  ACCESS TO INFORMATION 
 
