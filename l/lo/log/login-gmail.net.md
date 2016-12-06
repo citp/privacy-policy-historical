@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the login-gmail.net privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201150340id_/http%3A//login-gmail.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the login-gmail.net privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206105404id_/http%3A//login-gmail.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Gmail login - Privacy Policy
 
