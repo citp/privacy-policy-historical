@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the measuringflower.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607005035id_/http%3A//www.measuringflower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the measuringflower.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206095141id_/http%3A//www.measuringflower.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Measuring Flower
-
-[](http://www.measuringflower.com/wp-content/uploads/2013/12/privacy-policy.png)
 
 Your privacy is important to us, and maintaining your trust and confidence is one of our highest priorities. We respect your right to keep your personal information confidential and understand your desire to avoid unwanted solicitations. For this reason, please take a moment to look over our Privacy Policy.
 
