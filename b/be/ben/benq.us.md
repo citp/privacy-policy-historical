@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the benq.us privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530070516id_/http%3A//www.benq.us/page/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benq.us privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206223606id_/http%3A//www.benq.us/page/Privacy_Policy) for the most accurate reproduction.*
 
-# | BenQ USA
+# BenQ Privacy Policy | BenQ USA
 
 At BenQ website, we believe you have a right to know what type of information we may collect when you interact with us and our practices with respect to that information. The guidelines contained herein apply only to the BenQ websites. Sites which are linked to/from BenQ websites and via banner ads may have different policies; therefore, please review the privacy policy notices on those sites for details. In order to participate in BenQ websites, it will be necessary for you to provide certain personally identifiable information, including your name, e-mail address, age, mailing address, city, state and zip code and BenQ websites username and password. If you choose not to provide this information, you will not be able to participate in BenQ websites.
 
@@ -22,7 +22,7 @@ Notice To/Regarding Children Under the Age of 13
 
 BenQ is open only to individuals who are 13 years of age and older. If you are under 13 years of age, any information you submit will not be retained by BenQ.
 
-BenQ believes that children using the Internet require special protection, and we urge parents or guardians to explain Internet safety to their children. 
+BenQ believes that children using the Internet require special protection, and we urge parents or guardians to explain Internet safety to their children.
 
 Parents are urged to spend time online with their children to become familiar with the types of content available on the Internet. Control tools are available from online services and software manufacturers to help create a safer environment for children.
 
