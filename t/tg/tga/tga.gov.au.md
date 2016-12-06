@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tga.gov.au privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630132129id_/http%3A//www.tga.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tga.gov.au privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206120431id_/http%3A//www.tga.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Therapeutic Goods Administration (TGA)
 
@@ -6,7 +6,7 @@
 
 The TGA collects a variety of personal information in the course of performing its functions.
 
-Personal information is defined in the Privacy Act 1988 (Cth) (Privacy Act). Your personal information is protected by law under the Privacy Act, which contains Australian Privacy Principles. For more information, see the [Office of the Australian Information Commissioner website](http://www.oaic.gov.au/news-and-events/news/privacy-news/ "link to the OAIC website").
+Personal information is defined in the Privacy Act 1988 (Cth) (Privacy Act). Your personal information is protected by law under the Privacy Act, which contains Australian Privacy Principles. For more information, see the [Office of the Australian Information Commissioner website](https://www.oaic.gov.au/media-and-speeches/news/ "link to the OAIC website").
 
 The TGA is part of the Australian Government Department of Health.
 
@@ -56,43 +56,33 @@ Other information about how the TGA uses personal information for its other func
 
 ## Website analytics
 
-To improve your experience on our site, we may use 'cookies'. Cookies are an industry standard and most major web sites use them for maintaining contact with a user through a website session. A cookie is a small file supplied by the Department, and stored by the web browser software on your computer when you access our site. Cookies allow us to recognise you as an individual web user, as you browse our website. Two cookie types may be used by this website:
+We use Google Analytics reports to anonymously interpret and understand visitor behaviour. We do this to improve the efficiency and usability of this website. Google Analytics uses first-party cookies and JavaScript code to track how visitors interact with this website, including
 
-  1. **Session cookies**  
-These exist only for the duration of a web browser session with a particular website/host. All cookies will be immediately lost when you end your internet session or shut down your computer. Our copy of your information will be automatically deleted twenty minutes after you last used the system. This information is only used to help you use our website systems more efficiently, not to track your movements through the internet, or to record private information about you.
-  2. **Persistent cookies**  
-These exist for a defined period of time (usually beyond the termination of the current session) before expiring.
-
-
-
-You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.
-
-Our website may contain links to other websites. Please be aware that we are not responsible for the privacy practices of such other sites. When you go to other websites from here, we advise you to be aware and read their privacy policy.
-
-Our website uses Google Analytics, a service which transmits website traffic data to Google servers in the United States. Google Analytics does not identify individual users or associate your IP address with any other data held by Google. We use reports provided by Google Analytics to help us understand website traffic and webpage usage.
-
-By using this website, you consent to the processing of data about you by Google in the manner described in Google's Privacy Policy and for the purposes set out above. You can opt out of Google Analytics if you disable or refuse the cookie, disable JavaScript, or use the opt-out service provided by Google.
-
-tga.gov.au also uses interfaces with social media sites such as Facebook, LinkedIn, Twitter and others. If you choose to 'like' or 'share' information from this website through these services, you should review the privacy policy of that service. If you are a member of a social media site, the interfaces may allow the social media site to connect your visits to this site with other Personal Information.
-
-## Clickstream data
-
-Any system on this website that records information about you, will specifically ask your permission first.
-
-When you visit this site, the Department of Health makes a record of your visit and logs the following information for statistical or systems administration purposes:
-
-  * the user's server address 
-  * the user's top level domain name 
-  * the date and time of access to the site 
-  * pages accessed and documents downloaded 
-  * the previous site visited 
-  * type of browser used 
+  * the user's server address
+  * the user's top level domain name
+  * the date and time of access to the site
+  * pages accessed and documents downloaded
+  * the previous site visited
+  * type of browser used
+  * how they have accessed the site (for example from a search engine, a link, an advertisement) and what they did on the site.
 
 
 
 This information is analysed to show broken links in our website, bottlenecks, and other site problems. We use this information to maintain our site for your efficient use.
 
+Google Analytics [Demographic and Interest Reporting](https://support.google.com/analytics/answer/2799357?hl=en) is also enabled. This may make de-identified information such as your age, gender and affinity categories (eg educational and training interests) available as well as in-market segments and other categories based on acquisition, behaviour, and conversions metrics. These analytics do not allow us to identify an individual user.
+
+The information generated about your use of this website (including your IP address) will be transmitted to and stored by Google on servers located outside Australia. Google is based in the United States of America (USA), and details for contacting Google are available via their [Contact us page](http://www.google.com.au/intl/en/contact).
+
+By using this website, you consent to the processing of data about you by Google in the manner described in [Google's Privacy Policy](http://www.google.com.au/intl/en/policies/privacy) and for the purposes set out above. You can opt out of Google Analytics if you disable or refuse the cookie, disable JavaScript, and/or install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/).
+
+tga.gov.au also uses interfaces with social media sites such as Facebook, LinkedIn, Twitter and others. If you choose to 'like' or 'share' information from this website through these services, you should review the privacy policy of that service. If you are a member of a social media site, the interfaces may allow the social media site to connect your visits to this site with other Personal Information.
+
 No attempt will be made to identify users or their browsing activities unless legally compelled to do so, such as in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the Internet Service Provider's log files.
+
+## Cookies
+
+We use 'cookies' for maintaining contact with a user through a website session. A cookie is a small file supplied by the Department, and stored by the web browser software on your computer when you access our site. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.
 
 ## Links to other websites
 
