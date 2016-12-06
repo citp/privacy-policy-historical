@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gordonramsay.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910222728id_/https%3A//www.gordonramsayrestaurants.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gordonramsay.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206155013id_/https%3A//www.gordonramsay.com/gr/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Gordon Ramsay Restaurants
+# Privacy Policy | Gordon Ramsay
 
 ### General
 
@@ -51,7 +51,7 @@ In order to prevent unauthorised access or disclosure we have put in place suita
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site.
 
-For further information on cookies please visit [www.aboutcookies.org](http://www.aboutcookies.org/ "Go to the About Cookies site. This will open ina a new window").
+For further information on cookies please visit [www.aboutcookies.org](https://www.aboutcookies.org/ "Go to the About Cookies site. This will open ina a new window").
 
 ### How we use cookies
 
