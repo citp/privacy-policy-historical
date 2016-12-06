@@ -1,54 +1,73 @@
-> *The following text is extracted and transformed from the 99signals.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223104135id_/http%3A//99signals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99signals.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206042505id_/http%3A//www.99signals.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 99Signals.com
+# Privacy Policy | 99signals
 
-This Privacy Policy governs the manner in which 99Signals collects, uses, maintains and discloses information collected from users (each, a “User”) of the 99Signals website (“99Signals”). This privacy policy applies to the Site and all products and services offered by 99Signals.
+Thank you for visiting 99signals.com (hereinafter known as “Provider,” “us” or “we” or “the Site”). To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-Personal identification information
+We are committed to protecting your privacy and committed to developing technology that gives you the most powerful and secure online experience.
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+Billing and personal information is encrypted whenever transmitted or received online. Personal information is accessible only to staff, agents, or contractors of Provider.
 
-Non-personal identification information
+This privacy statement applies to all Provider-owned web sites and domains. This privacy statement covers personally identifiable information, anonymous data collection and aggregate reporting. Personally identifiable information is any information that is associated with your name or personal identity.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+### **What We Collect**
 
-Web browser cookies
+During either a Login / Registration or Checkout process, the types of personal information you provide to us may include, but are not limited to, name, address, phone, fax, email address, social security number, license number, date of birth, username and password, billing information, transaction, and credit card information.
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+When you browse our web site, you do so anonymously. We may log your IP address (the Internet address of your computer) to give us an idea of which part of our web site you visit and how long you spend there. But we will not link your IP address to any personal information unless you have logged in to our web site. Like many other commercial web sites, the Provider web site may use a standard technology called a “cookie” to collect information about how you use the site. Please go to “Use of Cookies” below for more information.
 
-How we use collected information
+### **How We Use It**
 
-99Signals may collect and use Users personal information for the following purposes:
+We may use your personal information for the following purposes:
 
-\- To improve customer service  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.  
-\- To process payments  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.  
-\- To run a promotion, contest, survey or other Site feature  
-To send Users information they agreed to receive about topics we think will be of interest to them.  
-\- To send periodic emails  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+  * To make the site easier for you to use by not making you enter your personal information more than once.
+  * To deliver services that you request or purchase.
+  * To help us create and publish content most relevant to you.
+  * To alert you of product upgrades, special offers, updated information and other new services provided from Provider.
+  * To provide feedback in an online survey.
+  * To participate in promotional offers.
+  * To request assistance or fill out support requests.
 
-How we protect your information
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-Our Site is in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
+### **Who We Share It With**
 
-Sharing your personal information
+We never sell or rent your personal information. Provider may disclose your personal information if required to do so by law (for example, a subpoena) or regulation, or in good faith to (a) comply with legal processes served on the site, or (b) protect the rights and property of Provider, or (c) where our records indicate fraudulent activity or other deceptive practices that a governmental agency should be made aware of, or (d) where your communication suggests possible harm to others.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+Provider may transfer information about Users if Provider is acquired by or merged with another company. Provider is not responsible for notifying User of such changes.
 
-Changes to this privacy policy
+Provider will not share your information with third parties without your permission, other than what is mentioned in this Privacy Policy. It will only be used for the purposes stated above. We use personal information to reply to inquiries, handle complaints, provide operational notices, keep records up to date to notify you via periodic e-mails of technical service issues, specials, or other related product/service information. Your information may be shared with agents or contractors of Provider for the purpose of performing service for Provider.
 
-99Signals has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+### **Internet Commerce**
 
-Your acceptance of these terms
+The online registration at Provider is designed to give you options concerning the privacy of your credit card information, name, address, e-mail and any other information you provide us. Provider is committed to data security with respect to information collected on our site. We offer the industry standard security measures available through your browser called SSL encryption.
 
-By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+### **Security of Your Personal Information**
 
-Contacting us
+Provider strictly protects the security of your personal information. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Contact form  
-sales@99Signals.com
+Your personal information is never shared outside the company without your permission, except as stated herein. Inside the company, data is stored in password-controlled servers with limited access.
+
+You also have a significant role in protecting your information. No one can see or edit your personal information without knowing your username and password, so do not share these with others.
+
+We use SSL encryption when collecting or transferring sensitive data such as credit card and personal information. Credit card numbers are only used for processing payment and are not used for other purposes. Our efforts to protect credit card fraud help protect your financial data security.
+
+### **Access to Your Personal Information**
+
+We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time by logging into your account.
+
+To protect your privacy and security, we will also take reasonable steps to verify your identity, such as password and username, before granting access to your data.
+
+### **Use of Cookies**
+
+Our web sites are not setup to track, collect or distribute personal information. Our site may generate certain kinds of non-identifying site usage data, such as number of hits and visits to our sites. This information is used for internal purposes only. The statistics contain no personal information and cannot be used to gather such information.
+
+Provider Web sites may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Provider services or Web sites you visit.
+
+### **Links**
+
+This website may contain links to other sites. Please be aware that we are not responsible for the content or privacy of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
+
+### **Problems or Complaints with Provider’s Privacy Policy**
+
+We value your comments and opinions. If you have questions, comments or a complaint about compliance with this privacy policy you may send us an email at contact@99signals.com.
