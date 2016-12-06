@@ -1,100 +1,87 @@
-> *The following text is extracted and transformed from the swift-code.org privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swift-code.org privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206225422id_/http%3A//www.bank-codes.com/privacy_policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+## Our Commitment To Privacy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Your privacy is important to us. To better protect your privacy we provide this Privacy Policy notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our home page and at every point where personally identifiably information may be requested. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This Privacy Policy was last updated on June 4, 2013. Please check this Privacy Policy periodically, as we may modify it occasionally. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+## The Information We Collect:
 
-**Information Collection and Use**
+This notice applies to all information collected or submitted on the www.bank-codes.com website. By visiting the www.bank-codes.com website, you accept the practices outlined in this Privacy Policy. 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+When you visit the www.bank-codes.com web site, we automatically collect basic information including the address of your internet service provider, the web page that directed you to our site, your web browser software and the pages you visited while on the www.bank-codes.com website. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+On some pages, you can submit ideas, make comments and requests, and register to receive materials. The types of personal information collected at these pages are your Name and Email Address. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Any ideas you may submit, including text, photo and video become the property of www.bank-codes.com. Please read carefully the Terms and Conditions prior to submitting your ideas. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+## Cookies and Web Beacons
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+www.bank-codes.com does use cookies to store information about visitors' preferences, record user-specific information on which pages the user access or visit, customize web page content based on visitors' browser type or other information that the visitor sends via their browser. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+## Log Files
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Like many other websites, www.bank-codes.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users' movement around the site, and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable. 
 
-**Security**
+## The Way We Use Information
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We use non-identifying and aggregate information (non-personal) to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
 
-**Updating Your Information**
+We only use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+## Third Party Advertising
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+We also use third party advertisements on www.bank-codes.com in order to financially support the site. Some of these ads might make use of tools such as web beacons and cookies that could potentially also send these advertisers certain information like the web browser you are using to visit the site, whether you have flash installed on your system, your IP (internet protocol), or your ISP (Internet Service Provider). Personally identifiable information data, like name, address, email, phone number or similar are NOT included. 
 
-      iii.      You may call us at: (480) 505-8800
+## DoubleClick DART Cookie
 
-       iv.      You may fax us at: (480) 505-8844
+  * * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to www.bank-codes.com.
+  * * Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to www.bank-codes.com and/or other sites on the Internet.
+  * * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/).
 
-**Sending Emails**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+You can also opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/). 
 
-**Compliance with Laws and Law Enforcement**
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google AdSense and Amazon associates. 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+## Affiliate Links - Advertising Disclosure
 
-**Third Party Service Providers**
+If you purchase a product or service linked from this site, we may receive an "affiliate commission". We are disclosing this in accordance with the Federal Trade Commission's 16 CFR, Part 255: "Guides Concerning the Use of Endorsements and Testimonials in Advertising" and also in accordance to amazon associates programme operating agreement. 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+## Amazon
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+The owner of this website is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. 
 
-**Supplementation of Information**
+## Our Commitment to Data Security
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-**Contests/Surveys**
+## Our commitment to Children’s Privacy
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Protecting the privacy of the very young is especially important to us. We do not require that children submit any personally identifiable information to use our website, play games or access special features. 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+If children submit ideas via email, we ask for only the child’s first name (or nickname) and city, in order to identify contest winners. We will only use the email address provided to respond to the child’s submission. It will not be used for any other purpose or sold or distributed to third parties. For videos and photos submitted, please do not show the child’s face or provide any other identifying information. 
 
-**Tell-A-Friend**
+## How You Can Correct Your Information
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+You can correct factual errors in any personally identifiable information by sending us a request that clearly and credibly shows error. 
 
-**What Happens to my Personal Information if I Opt Out?**
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+## Links to Third Party Websites
 
-**Transfer of Data Abroad**
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites might differ from our own.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+## Changes to this Privacy Statement
 
-**Changes in Our Practices**
+The contents of this statement may be altered at any time, at our discretion. If you have any questions regarding the privacy policy of www.bank-codes.com then you may contact us by: 
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+## How to Contact Us
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Should you have other questions or concerns about these privacy policies, please contact us at via email at info@bank-codes.com or contact us via our contact form: [www.bank-codes.com/contact-us](http://www.bank-codes.com/contact-us)
