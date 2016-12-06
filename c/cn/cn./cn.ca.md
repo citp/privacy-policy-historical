@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cn.ca privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414145722id_/http%3A//www.cn.ca/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cn.ca privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206050717id_/http%3A//www.cn.ca/en/privacy) for the most accurate reproduction.*
 
 # Privacy | cn.ca
 
