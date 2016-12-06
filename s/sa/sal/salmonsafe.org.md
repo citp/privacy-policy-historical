@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salmonsafe.org privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418193321id_/http%3A//www.salmonsafe.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salmonsafe.org privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206060139id_/http%3A//salmonsafe.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Salmon-Safe
 
