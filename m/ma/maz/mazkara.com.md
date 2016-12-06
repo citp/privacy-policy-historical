@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mazkara.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507063546id_/http%3A//www.mazkara.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazkara.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206173321id_/http%3A//www.fabogo.com/privacy-policy%3Ffabtrack%3Dfooter) for the most accurate reproduction.*
 
-# Mazkara - Privacy Policy
+# Fabogo - Privacy Policy
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -154,7 +154,7 @@ To be in accordance with CANSPAM we agree to the following:
 
 
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at unsubscribe@mazkara.com or follow the instructions at the bottom of each email and we will promptly remove you from ALL correspondence.
+If at any time you would like to unsubscribe from receiving future emails, you can email us at unsubscribe@fabogo.com or follow the instructions at the bottom of each email and we will promptly remove you from ALL correspondence.
 
 ### Note:
 
@@ -164,9 +164,9 @@ The Website Policies and Terms and Conditions may be changed or updated occasion
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-www.mazkara.com  
+www.fabogo.com  
 Creative City  
 Fujairah  
 P.O.BOX: 4422  
 United Arab Emirates  
-hello@mazkara.com Last Edited on 2015-05-06 
+hello@fabogo.com Last Edited on 2015-05-06 
