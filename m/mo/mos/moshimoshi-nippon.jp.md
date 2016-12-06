@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moshimoshi-nippon.jp privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402092040id_/http%3A//www.moshimoshi-nippon.jp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moshimoshi-nippon.jp privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206043049id_/http%3A//www.moshimoshi-nippon.jp/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | もしもしにっぽん | MOSHI MOSHI NIPPON
 
