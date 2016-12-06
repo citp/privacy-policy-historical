@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apnigari.com privacy policy that was archived on 2015-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150730001316id_/http%3A//www.apnigari.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnigari.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206021613id_/http%3A//www.apnigari.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy : Pakistan's best destination for buying and selling cars : ApniGari.com
 
