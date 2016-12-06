@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passmark.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505001722id_/http%3A//www.passmark.com/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passmark.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206232158id_/http%3A//www.passmark.com/legal/privacy-policy.htm) for the most accurate reproduction.*
 
 # PassMark Software - Privacy Policy
 
@@ -32,7 +32,7 @@ We **do not** store credit card information after completion of transactions. Pu
 
 We use non-identifying and aggregate information from our server logs to better design our website for visitors. This information is not shared with third parties.
 
-We also use [Google AdSense](https://www.google.com/adsense/), a third party advertisement vendor, on our benchmark sites (for example, cpubenchmark.com). Google AdSense uses the DART cookie which may collect information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This information is used by AdSense to serve geographically relevant or interest-based ads to visitors based on their visit to our sites and other sites using AdSense on the internet. You may read more about Google’s privacy policies or opt-out of interest-based advertising at [this page](http://www.google.com/privacy_ads.html).
+We also use [Google AdSense](https://www.google.com/adsense/), a third party advertisement vendor, on our benchmark sites (for example, cpubenchmark.com). Google AdSense uses the DART cookie which may collect information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This information is used by AdSense to serve geographically relevant or interest-based ads to visitors based on their visit to our sites and other sites using AdSense on the internet. You may read more about Google�s privacy policies or opt-out of interest-based advertising at [this page](http://www.google.com/privacy_ads.html).
 
 We use a session id cookie to identify you for the duration of your visit to our website. This information enables our shopping cart system to keep track of the products you have added to your cart. This information will automatically expire eight hours after its creation.
 
@@ -44,10 +44,10 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 ## How You Can Access Or Correct Your Information 
 
-You can access all your personally identifiable information that we collect online and maintain by contacting us. You can find out how to contact us on [this page](https://web.archive.org/web/20160505001722id_/http%3A//www.passmark.com/about/contact_us.htm). 
+You can access all your personally identifiable information that we collect online and maintain by contacting us. You can find out how to contact us on [this page](https://web.archive.org/web/20161206232158id_/http%3A//www.passmark.com/about/contact_us.htm). 
 
 You can also correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we take reasonable steps to verify your identity before granting access to information or making corrections.
 
 ## How To Contact Us
 
-Should you have other questions or concerns about our privacy policies, please [contact us](https://web.archive.org/web/20160505001722id_/http%3A//www.passmark.com/about/contact_us.htm). 
+Should you have other questions or concerns about our privacy policies, please [contact us](https://web.archive.org/web/20161206232158id_/http%3A//www.passmark.com/about/contact_us.htm). 
