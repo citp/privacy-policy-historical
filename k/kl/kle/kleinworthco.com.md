@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kleinworthco.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608151423id_/http%3A//www.kleinworthco.com/work-with-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kleinworthco.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206171028id_/http%3A//www.kleinworthco.com/work-with-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kleinworth & Co
 
@@ -60,7 +60,3 @@ Kleinworth & Co. PROVIDES THE INFORMATION, SERVICES AND PRODUCTS ON THIS WEB SIT
 
 Kleinworth & Co. is controlled, operated and administered entirely within the United States. By using Kleinworth & Co. and/or participating in the activities of Kleinworth & Co. Community, you signify your agreement to the terms of this Privacy Statement. If you do not agree with this Privacy Statement, please do not disclose any personal information through our site. Kleinworth & Co. may modify this Privacy Statement at any time, at its discretion, and modifications are effective upon being posted on this the applicable Site. You are responsible for reviewing this Privacy Statement periodically to ensure that you are aware of any changes to it.  
 This Privacy Policy is effective as of December 2013 and supersedes all earlier versions of our Privacy Policy
-
-### Join the newsletter
-
-Subscribe & save 10% off pre-sale of our new book- COMING SOON! Plus weekly recipes & projects & of course special DEALS only for subscribers! 
