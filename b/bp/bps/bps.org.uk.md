@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bps.org.uk privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607140120id_/http%3A//www.bps.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bps.org.uk privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206230527id_/http%3A//www.bps.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | BPS
 
 We are committed to safeguarding the privacy of our members and website visitors; this policy sets out how we will treat your personal information that we may collect via our website(s) or other operational processes.
 
-**(1)  What information do we collect?**
+ **(1)  What information do we collect?**
 
 We may collect, store and process the following kinds of personal information:
 
@@ -20,7 +20,7 @@ We may collect, store and process the following kinds of personal information:
 
 (f) any other information that you choose to send to us.
 
-**(2)  Cookies**
+ **(2)  Cookies**
 
 A cookie consists of a piece of text sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
@@ -38,9 +38,11 @@ We may publish Google Adsense interest-based advertisements on our website.  Th
 
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies.  For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.  Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
 
+[cookie-compliance:tac]
+
 [More information about the cookies we use](https://web.archive.org/cookie-information)
 
-**(3)  Using your personal information**
+ **(3)  Using your personal information**
 
 Personal information submitted to us will be used for the purposes specified in this privacy policy or in relevant parts of the website(s) and other Society services.
 
@@ -84,7 +86,7 @@ All our website financial transactions are handled through our payment services 
 
 We will share information with  SagePay, Secure Trading and PayPal as appropriate to the transaction been carried out only to the extent necessary for the purposes of processing payments you make via our website and dealing with complaints and queries relating to such payments.
 
-**(4)  Disclosures**
+ **(4)  Disclosures**
 
 We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
 
@@ -98,7 +100,7 @@ In addition, we may disclose your personal information:
 
 Except as provided in this privacy policy, we will not provide your information to third parties.
 
-**(5)  Security of your personal information**
+ **(5)  Security of your personal information**
 
 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
@@ -108,13 +110,13 @@ Of course, data transmission over the internet is inherently insecure, and we ca
 
 You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the website or any other Society owned online service).
 
-**(6)  Policy amendments**
+ **(6)  Policy amendments**
 
 We may update this privacy policy from time-to-time by posting a new version on our website.  You should check this page occasionally to ensure you are happy with any changes. 
 
 We may also notify you of changes to our privacy policy by email.
 
-**(7)  Your rights**
+ **(7)  Your rights**
 
 You may instruct us to provide you with any personal information we hold about you – Subject Access Rights.  Provision of such information will be subject to:
 
@@ -126,19 +128,19 @@ We may withhold such personal information to the extent permitted by law.
 
 You may instruct us not to process your personal information for marketing purposes. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-in to the use of your personal information for marketing purposes.
 
-**(8)  Third party websites**
+ **(8)  Third party websites**
 
 The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
 
-**(9)  Updating information**
+ **(9)  Updating information**
 
 Please let us know if the personal information which we hold about you needs to be corrected or updated.
 
-**(10)  Contact**
+ **(10)  Contact**
 
 If you have any questions about this privacy policy or our treatment of your personal information, write to us by [email](mailto:dpo@bps.org.uk) or post to: Data Protection Officer, The British Psychological Society, St. Andrews House, 48 Princess Road East, Leicester, LE1 7DR.
 
-**(11)  Data controller**
+ **(11)  Data controller**
 
 The data controller responsible in respect of information collected by all Society services (electronic or manual) is The British Psychological Society. 
 
