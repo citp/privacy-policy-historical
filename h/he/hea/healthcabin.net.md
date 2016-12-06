@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthcabin.net privacy policy that was archived on 2016-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160114130924id_/http%3A//www.healthcabin.net/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcabin.net privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206192817id_/http%3A//www.healthcabin.net/privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice : Healthcabin Electronic Cigarettes - Wholesale and Retail
+# Privacy Notice : HealthCabin — Global Online Retail and Wholesale Store for Hi-Tech Gadgets, Consumer Electronics, Outdoor & Fitness Products, Health & Personal Care Products.
 
 We understand that you are very concerned about the usage and sharing of your personal information. And we are very appreciated your belief on our prudence and sensitivity handling this issue. This declaration will specify our policy regarding the protection of your privacy. Our website is under the operation of healthcabin.net Inc.
 
