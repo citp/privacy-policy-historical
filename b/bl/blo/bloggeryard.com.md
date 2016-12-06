@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloggeryard.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604164526id_/http%3A//www.bloggeryard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggeryard.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206064330id_/http%3A//www.bloggeryard.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | bloggeryard
+# Privacy Policy – bloggeryard
 
 Our team here at bloggeryard.com is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.
 
