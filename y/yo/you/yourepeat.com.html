@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yourepeat.com privacy policy that was archived on 2016-04-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160421180149id_/http%3A//www.yourepeat.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yourepeat.com privacy policy that was archived on 2016-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161206065657id_/http%3A//www.yourepeat.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="hover" dir="ltr" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head>
 	<title>YouTube Repeat</title>
@@ -52,6 +52,22 @@
     <script type="text/javascript" src="http://www.yourepeat.com/resources/js/scloud.api.js?yrc=71"></script>
 	<script type="text/javascript" src="http://www.yourepeat.com/resources/js/yourepeat.js?yrc=71"></script>
 	<script type="text/javascript" src="http://www.yourepeat.com/resources/js/jquery.sharrre.min.js?yrc=71"></script>
+
+	<script type="text/javascript" src="http://www.yourepeat.com/resources/js/vortex.modern.min.js?yrc=71"></script>
+	<script type="text/javascript" src="http://www.yourepeat.com/resources/js/fingerprint2.min.js?yrc=71"></script>
+	<script type="text/javascript" src="http://www.yourepeat.com/resources/js/fingerprint_gmyze.js?yrc=71"></script>
+	<script type="text/javascript">
+	$(document).ready(function(){
+		new Fingerprint2().get(function(resultFingerprint, components){
+			var vortex = new BES.ProTrack.Vortex.Class(10890);
+			vortex.sendEvent('pageView', { site: 'yr', valvefp2: resultFingerprint });
+		});
+		FpLib.getFp(function(fp) {
+			var vortex = new BES.ProTrack.Vortex.Class(10890);
+			vortex.sendEvent('pageView', { site: 'yr', gmyzefp: fp });
+		});
+	});
+	</script>
 <script type="text/javascript" async="" src="//yourepeat.disqus.com/embed.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 <body class="no-loggin">
 		<div class="image-overlay display-none" id="image-overlay"></div>
