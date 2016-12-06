@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invisionapp.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421155052id_/https%3A//www.invisionapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invisionapp.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207002318id_/https%3A//www.invisionapp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | InVision
 
@@ -120,3 +120,18 @@ InvisionApp, Inc.
 Floor 25  
 New York, NY, 10010  
 USA
+
+Close
+
+## The World's Leading Product Design Platform, Featuring:
+
+  * High fidelity prototypes that look, feel, and act real.
+  * Custom mood and brand boards, galleries, presentations, and much more.
+  * Manage your screens and projects from one central location.
+  * Better feedback, with real-time, in-browser design collaboration.
+
+
+
+## Try Invision Now—Free
+
+### No setup fees. No requirements. No obligation.
