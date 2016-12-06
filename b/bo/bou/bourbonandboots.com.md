@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bourbonandboots.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428004336id_/http%3A//www.bourbonandboots.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bourbonandboots.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206150121id_/https%3A//www.bourbonandboots.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy – Bourbon & Boots
 
