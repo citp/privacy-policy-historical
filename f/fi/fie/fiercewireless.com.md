@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiercewireless.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321185412id_/http%3A//www.fiercemarkets.com/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiercewireless.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206053025id_/http%3A//www.fiercemarkets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FierceMarkets
 
@@ -47,5 +47,3 @@ The third party partners provide this content through FierceMarkets in return fo
 Our websites and publications contain links to outside websites. We cannot verify or vouch for the privacy policies of these sites. For events and services that require payment, we collect credit card information which is used for our billing purposes only and is not otherwise shared
 
 Finally, the online world is changing rapidly. FierceMarkets may need to update this Privacy Policy from time to time. If we make significant material changes in how we use your personal information, we’ll notify you via email. The current privacy policy will always be located on [www.fiercemarkets.com](http://www.fiercemarkets.com/). We encourage you to review it regularly.
-
-If you have any privacy questions or concerns, please contact  **[Maurice Bakley](mailto:mbakley@fiercemarkets.com)** , the company president. We take these matters seriously.
