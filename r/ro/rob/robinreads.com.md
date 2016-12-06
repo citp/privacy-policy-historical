@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robinreads.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606071614id_/http%3A//robinreads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robinreads.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206215954id_/http%3A//robinreads.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Service
 
