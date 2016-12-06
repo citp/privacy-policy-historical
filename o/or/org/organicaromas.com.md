@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organicaromas.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429012429id_/http%3A//organicaromas.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organicaromas.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206142017id_/https%3A//organicaromas.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Organic Aromas
 
@@ -51,7 +51,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.organicaromas.com/termsandconditions](http://www.freeprivacypolicy.com/www.organicaromas.com/termsandconditions)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.organicaromas.com/pages/terms-and-conditions](http://organicaromas.com/pages/terms-and-conditions)
 
  **Your Consent**
 
