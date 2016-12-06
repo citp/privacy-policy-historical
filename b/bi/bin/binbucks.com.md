@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the binbucks.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811135728id_/http%3A//binbucks.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binbucks.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206015919id_/http%3A//www.binbucks.com/site/privacy) for the most accurate reproduction.*
 
-# Bin Bucks
+# Earn Money Online By Sharing Links | URL Shortener | Shrink URL Earn Money | Binbucks.com
 
 ## Privacy Policy
 
