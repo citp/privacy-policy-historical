@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wfmynews2.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505174536id_/http%3A//www.wfmynews2.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfmynews2.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206021029id_/http%3A//www.wfmynews2.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | WFMYNEWS2.com
 
