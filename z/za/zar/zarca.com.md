@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zarca.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627080230id_/http%3A//www.zarca.com/online-survey-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zarca.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207003530id_/http%3A//www.zarca.com/online-survey-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -106,10 +106,6 @@ if you learn or suspect that our security has been breached.
 
 As we are constantly improving our services and expanding our business, we retain the right to modify this privacy policy at any time. In the event we make such changes, we will announce the changes and post the new policy on the Site. Information collected after the new policy is posted will be used in conformance with the new policy. Information gathered under the old policy will continue to be used in conformance with that policy unless we, in conjunction with the Customer, notify Survey Participants of the changes and the Survey Participant does not prohibit the use of the Information in conformance with the new policy. If we make any material changes we will notify you or our Client by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-Zarca Interactive ("Zarca") has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and these practices have been reviewed by TRUSTe for compliance with TRUSTe's [Program Requirements](http://www.truste.com/privacy-program-requirements/) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@zarca.com](mailto:privacy@zarca.com). If you are not satisfied with our response you may contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
-
-TRUSTe's certification applies to [www.zarca.com](http://www.zarca.com/) and the service platform associated with this website.
-
 **U.S.-EU and U.S.-Swiss Safe Harbor**
 
 Zarca complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Zarca has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Zarca's certification, please visit <http://www.export.gov/safeharbor/>.
@@ -122,4 +118,4 @@ If you have questions about this Privacy Policy or the Site, you may contact us 
 Suite 300  
 Herndon, VA 20171
 
-Last Updated: 12/11/2014
+Last Updated: 7/22/2016
