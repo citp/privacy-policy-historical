@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the banks-india.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619072524id_/http%3A//banks-india.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banks-india.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206115030id_/http%3A//banks-india.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Banks India 2014
+# Privacy Policy | Banks India 2016
 
 The privacy of our visitors to www.banks-india.com is important to us.  
 At www.banks-india.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit www.banks-india.com, and how we safeguard your information. We never sell your personal information to third parties.
