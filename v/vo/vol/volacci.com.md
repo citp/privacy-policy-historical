@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volacci.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611132710id_/https%3A//www.volacci.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volacci.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206110607id_/https%3A//www.volacci.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Volacci Digital Marketing
 
@@ -19,7 +19,7 @@ The information we collect may include your personal information, such as your n
 **_Web Visit_**
 
 You may visit our Websites in any of the following ways:  
-• By using your browser to navigate to our Websites including (but not limited to) [www.Volacci.com](http://www.volacci.com/), partners.Volacci.com, apps.Volacci.com, [www.bluedropawards.com](http://www.bluedropawards.com/), [www.VolacciApp.com](http://www.volacciapp.com/), tips.webdesign10.com  
+• By using your browser to navigate to our Websites including (but not limited to) [https://www.Volacci.com](https://www.volacci.com/), partners.Volacci.com, apps.Volacci.com, [www.bluedropawards.com](http://www.bluedropawards.com/), [www.VolacciApp.com](http://www.volacciapp.com/), tips.webdesign10.com  
 • By viewing an advertisement displayed on a third party website that is served content by our web server;  
 • By viewing an email that is served content by our or a third party web server.
 
