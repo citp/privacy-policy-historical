@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the whitespark.ca privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608190917id_/http%3A//www.whitespark.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitespark.ca privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206133408id_/https%3A//whitespark.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Whitespark
+# Privacy Policy - Whitespark
 
 We love our customers, and their privacy is extremely important to us.
 
 ### In a nutshell
 
-  * We don't require any personal information that we don't actually need.
+  * We don’t require any personal information that we don’t actually need.
   * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
   * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
   * We don’t store credit card information on our servers.
@@ -31,7 +31,7 @@ Whitespark may collect statistics about the behavior of visitors to its websites
 
 Whitespark discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Whitespark’s behalf or to provide services available at Whitespark’s website, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Whitespark’s website, you consent to the transfer of such information to them. Whitespark will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Whitespark discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Whitespark believes in good faith that disclosure is reasonably necessary to protect the property or rights of Whitespark, third parties or the public at large. If you are a registered user of the Whitespark website and have supplied your email address, Whitespark may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Whitespark and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Whitespark takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-### Data Storage & Security 
+### Data Storage & Security
 
 All data is stored at state-of-the-art data [Liquid Web Data Center facilities](https://www.liquidweb.com/data-centers/). All data centers are manned 24/7/365 by onsite, highly trained Heroic Support® technicians, have CCTV security cameras covering inside, outside, and all entrances to the facilities. Site entrances are controlled by electronic perimeter access cards, they are remotely monitored by a third party security company, are SSAE-16 & HIPAA compliant and Safe Harbor Certified. These data centers also feature numerous  geographic zones for added redundancy, as well as the ability to team with their US-West region to provide true Geographic Redundancy in multiple disaster-neutral US locations.
 
