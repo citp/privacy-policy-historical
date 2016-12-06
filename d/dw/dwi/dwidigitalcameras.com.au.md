@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dwidigitalcameras.com.au privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025174444id_/http%3A//www.dwidigitalcameras.com.au/astore/Privacy-Policy-W76.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwidigitalcameras.com.au privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206185638id_/http%3A//www.dwidigitalcameras.com.au/astore/Privacy-Policy-W76.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Digital World International
 
