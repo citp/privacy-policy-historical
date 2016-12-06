@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ijraset.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521150004id_/http%3A//www.ijraset.com/privacy-policy.php%3FA1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijraset.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206081114id_/http%3A//ijraset.com/privacy-policy.php%3FA1) for the most accurate reproduction.*
 
 # :: IJRASET - International Journal For Research in Applied Sciences and Engineering Technology
 
