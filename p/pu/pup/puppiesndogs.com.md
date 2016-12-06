@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puppiesndogs.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414223356id_/http%3A//www.puppiesndogs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puppiesndogs.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206033636id_/http%3A//www.puppiesndogs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
