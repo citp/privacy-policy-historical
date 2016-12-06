@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pluginsbyigor.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502114537id_/http%3A//www.pluginsbyigor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluginsbyigor.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206191628id_/http%3A//www.pluginsbyigor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Plugins By Igor
 
-This privacy policy sets out how Rich Ways LLC uses and protects any information that you give Rich Ways LLC when you use this website.
+This privacy policy sets out how Vigorous Software LLC uses and protects any information that you give Vigorous Software LLC when you use this website.
 
-Rich Ways LLC is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Vigorous Software LLC is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Rich Ways LLC may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from [date].
+Vigorous Software LLC may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from [date].
 
 **What we collect**
 
@@ -44,14 +44,14 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-**OPT-IN NOTICE:** By Participating, You Expressly “Opt In” To Receive Emails from Rich Ways LLC  
+**OPT-IN NOTICE:** By Participating, You Expressly “Opt In” To Receive Emails from Vigorous Software LLC  
 Disclosures: We may disclose information about you and your use of our Web Site and Services if we believe such disclosure is reasonably necessary: (i) to comply with the law or legal process; (ii) to protect or defend the rights or property of us or others; (iii) to enforce the Website Terms and Conditions or this Privacy Policy; and (iv) to respond to claims that the content(s) of a communication violates the rights of another. In addition we may share or transfer information about you and that you provide to us, to one or more third party entities pursuant to a sale, merger, assignment, joint venture or other transfer or disposition of a portion, or all of, the assets or stock of our company or its affiliated entities, or as otherwise provided herein. We may also disclose information to allow third party business partners and affiliates deliver marketing offers to you.
 
 **Third Party Advertising and Cookies**
 
 We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique ‘cookie’ on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit <http://www.doubleclick.net/us/corporate/privacy>.
 
-Rich Ways LLC shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please [click here](http://www.google.com/policies/privacy/). To opt out of the targeting program, please [click here](http://www.google.com/policies/privacy/).
+Vigorous Software LLC shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please [click here](http://www.google.com/policies/privacy/). To opt out of the targeting program, please [click here](http://www.google.com/policies/privacy/).
 
 **Links to other websites**
 
@@ -68,6 +68,6 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 544 E. Ogden Ave., Suite 700-187, Milwaukee, WI, USA
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 13800 P C Beach pkwy, STE 106-D #219, P C Beach, FL 32407, USA
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
