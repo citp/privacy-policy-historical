@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneytalksnews.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607003007id_/http%3A//www.moneytalksnews.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneytalksnews.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206064841id_/http%3A//www.moneytalksnews.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Money Talks News
+# Privacy Policy ‒ Money Talks News
 
 ### Privacy Policy
 
