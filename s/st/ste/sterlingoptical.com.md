@@ -1,30 +1,48 @@
-> *The following text is extracted and transformed from the sterlingoptical.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603214028id_/http%3A//www.sterlingoptical.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sterlingoptical.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206223148id_/http%3A//www.sterlingoptical.com/privacy-policy) for the most accurate reproduction.*
 
-# Sterling -- Privacy Policy
+# Privacy Policy - Sterling Optical
 
-You may be asked to voluntarily provide your name, mailing address, phone number, email address, credit card payment information or other personally identifiable information ("Personal Information"), provided by you when registering to our website, to deliver the products and services that you have requested.
+THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION.
 
-Any of the information we collect from you may be used in one of the following ways:
+PLEASE REVIEW IT CAREFULLY.
 
-  * To deliver the products and services that you have requested.
-  * To improve our website and related services.
-  * To provide you with customer service and support.
-  * To communicate with you by email, text message, postal mail, telephone and/or mobile device about products and promotions. We will also send email to confirm your order. We may need to contact you by phone, mail or email if we have any questions about your order. We may also send you periodic information about our products and promotions or through email or postal mails.
+**Effective April 14, 2003:**
+
+The privacy of your medical information is important to us. You may be aware that the US government regulators established privacy rule (“HIPPA”) governing protected health information. This notice tells you about how it may be used, and about certain rights that you have.
+
+**_Your Rights:_** Although the records containing your medical information are the physical property of New York Vision, the information belongs to you. By law, you have the right to:
+
+  * Inspect and obtain a copy of your medical information. Generally, we will respond to your request within 30 days but, under certain circumstances, we may deny your request.
+
+
+  * Request a restriction on certain uses and disclosures of your medical information; however, we are not required to agree to a requested restriction.
+
+
+  * Request an amendment of your medical information, if you believe it is inaccurate; however, we may deny your request for amendment if we believe your medical information is accurate.
+
+
+  * Request an accounting of certain disclosures we have made, if any, of your medical information.
+
+
+  * Revoke any authorization you have provided to use or disclose your medical information except to the extent that action has already been taken in reliance on such authorization.
 
 
 
-Note: If at any time you would like to unsubscribe from receiving future emails, follow the opt-out instructions contained in the body of any email message you receive.
+**_Our Duties:_** We are required by law to:
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.
+  * Maintain the privacy of your medical information.
+  * Provide you with a copy of our Notice of Privacy Practices.
 
-Cookies are small pieces of information that are stored by your browser on your computer's hard drive. We may collect information that is anonymous, such as your IP address (a number used to identify your computer on the Internet) or the type of browser you are using ("Anonymous Information"), through the use of cookies or by other means. We hope that, by using Anonymous Information, we can update the website to make it more useful to you and other users. We reserve the right to maintain, update, disclose or otherwise use Anonymous Information, without limitation.
 
-We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input that travels between your browser and our website’s servers.
 
-We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. All Personal Information is stored on our secured servers, behind a firewall at a data center with strict control data access. Any unauthorized use of the website may result in criminal and/or civil prosecution.
+**_How We May Use and Disclose Your Medical Information:_**
 
-We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
+The following are the examples of the types of uses and disclosures of your medical information that are permitted:
 
-It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
+**_Treatment:_** We may use and disclose your medical information to provide, coordinate or manage your health care and any related services. For example, we may disclose your medical information to the doctors or technicians that care for you, even if the doctors or technicians are not affiliated with NEW YORK VISION.
 
-If you have any questions or comments about this Policy or wish to update your Personal Information provided to us, please contact us by sending an email to [customerservice@sterlingoptical.com](mailto:customerservice@sterlingoptical.com?subject=Privacy%20Policy). Please provide a concise communication with complete information, including your contact information.
+**_Payment:_** Your medical information may be disclosed, as needed, to obtain payment from your insurance company or other person/party responsible for payment for services we provide to you. For example, we may disclose your medical information to your health plan to determine your eligibility or coverage for insurance benefits.
+
+**_Health Care Operations:_** We may use or disclose your medical information for our internal operations, which include activities necessary to operate the sites or programs from which you receive services. For example, we may use your medical information for quality improvement services to evaluate the care or other services provided to you. We may also use your medical information to evaluate the skills and qualifications of our health care providers, or to resolve grievances within our organization.
+
+**_Appointment Reminders and Treatment Alternatives:_** We may use and disclose your medical information to provide a reminder to you about an appointment you have with us for treatment or medical care. We may also use or disclose your medical information to tell you about or recommend possible treatment options or alternatives, or inform you of other health-related benefits and services that may be of interest to you.
