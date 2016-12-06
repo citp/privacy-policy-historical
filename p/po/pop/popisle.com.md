@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the popisle.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414011213id_/http%3A//popisle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popisle.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206081303id_/http%3A//popisle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | POP Isle
+# Privacy Policy - POP Isle
 
 **Company Practices**
 
