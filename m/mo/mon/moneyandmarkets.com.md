@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneyandmarkets.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601225748id_/http%3A//www.moneyandmarkets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyandmarkets.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206165913id_/http%3A//www.moneyandmarkets.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Money and Markets - Financial Advice | Financial Investment Newsletter — Money and Markets - Financial Advice | Financial Investment Newsletter
+# Privacy — Money and Markets - Financial Advice | Financial Investment Newsletter
 
 **PRIVACY STATEMENT**  
 Our company is committed to preserving your trust and confidence. Because your privacy is important, we have created this privacy statement in order to demonstrate this commitment. The following discloses our information gathering and dissemination practices for this website.
