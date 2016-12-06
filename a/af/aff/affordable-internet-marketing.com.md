@@ -1,57 +1,139 @@
-> *The following text is extracted and transformed from the affordable-internet-marketing.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913030835id_/http%3A//www.affordable-internet-marketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affordable-internet-marketing.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206053723id_/http%3A//www.affordable-internet-marketing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-You're here: [AIM Home](http://www.affordable-internet-marketing.com/) » [RSS Only](http://www.affordable-internet-marketing.com/rss-only/) » **Privacy Policy**
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online.  
+PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context.  
+Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-This is the web site of Affordable Internet Marketing.  
-This site is owned by Case Stevens  
-Our postal address is  
+**What personal information do we collect from the people that visit our blog, website or app?**  
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
+
+**When do we collect information?**  
+We collect information from you when you place an order, subscribe to a newsletter, respond to a survey, fill out a form or enter information on our site.
+
+**How do we use your information?**  
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+
+  * To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To improve our website in order to better serve you.
+  * To allow us to better service you in responding to your customer service requests.
+  * To administer a contest, promotion, survey or other site feature.
+  * To quickly process your transactions.
+  * To send periodic emails regarding your order or other products and services.
+
+
+
+**How do we protect visitor information?**  
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+
+We do use Malware Scanning via our hosting service.
+
+**Do we use ‘cookies’?**  
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+**We use cookies to:**
+
+      **•** Keep track of advertisements.  
+      **•** Keep track of events like pop-ups.
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+
+**If users disable cookies in their browser:**  
+If you disable cookies off, some features will be disabled It will turn off some of the features that make your site experience more efficient and some of our services will not function properly.
+
+However, you can still place orders by contacting customer service. 
+
+**Third Party Disclosure**  
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**  
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Google**  
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
+
+We occasionally use Google AdSense Advertising on our website.
+
+Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+**We have implemented the following:**
+
+      **•** DoubleClick Platform Integration
+
+We, along with third-party vendors such as Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website. 
+
+Opting out:  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+
+**California Online Privacy Protection Act**  
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy.
+
+**According to CalOPPA we agree to the following:**
+
+Users can visit our site anonymously.
+
+Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+
+Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
+
+Users will be notified of any privacy policy changes:
+
+      **•** On our Privacy Policy Page
+
+Users are able to change their personal information:
+
+      **•** By emailing us
+
+**Does our site allow third party behavioral tracking?**  
+No, we don’t, but it’s also important to note that we allow third party behavioral tracking (Google Analytics).
+
+**COPPA (Children Online Privacy Protection Act)**  
+When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+We do not specifically market to children under 13.
+
+**Fair Information Practices**  
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We will notify the users via email
+
+      **•** Within 7 business days
+
+We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+
+**CAN SPAM Act**  
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+**We collect your email address in order to:**  
+– send you valuable information you requested and  
+– to process payments.
+
+**To be in accordance with CANSPAM we agree to the following:**
+
+Every message we send to you will contain an ‘Unsbscribe’ link that, when clicked, will immediately delete your email address from our list database.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+affordable-internet-marketing.com  
 Postbus 132  
 5100 AC Dongen  
-The Netherlands
+Netherlands
 
-We can be reached via e-mail, but our email address was harvested so many times that we’ve put up a [contact form](http://www.affordable-internet-marketing.com/contact-affordable-internt-marketing-blog/).  
-You can still email us when you use ‘support’ (anything else goes straight to the black hole) before the @ sign followed by our domain name.
+[https://www.affordable-internet-marketing.com/support/](http://www.affordable-internet-marketing.com/contact-affordable-internt-marketing-blog/)
 
-**Email**  
-On our site will invite you to subscribe to our email notification service to announce new information posted at this site.  
-Sometimes we add extra information to such notifications that could be of interest to you.  
-Subscription is always 100% OPT-IN.  
-All we need is your name and email address. Your name may be only your first name or first and last name.  
-We store this data in a file that is used only to send you our notification mails.
+Last Edited on 2016, Nov 14
 
-You can always OPT-OUT!  
-In every message we send you there will always be an unsubscribe option. You can use that to delete your data from our files, permanently!  
-There’s NO WAY of reversing this.
+  
 
-**RSS Feeds**  
-You can also subscribe to our RSS feed and put the link to that feed in your feed reader. Our posts will show up there.  
-The most remarkable feature of using these RSS feeds is that they are completely anonymous! There is no way for us to detect if you’ve subscribed to our feeds.
 
-**Purchase of products**  
-The only information we obtain about you is information we need to process payments for purchases. For that matter we will use the industries standards regarding encryption.  
-Occasionally we will use this information to send you updates or messages concerning the subject of your purchase.  
-Your information collected is never revealed, sold, or made public for any reason.
+* * *
 
-**Website statistics**  
-We use website statistics that are standard in the industry.  
-Every request to any site results in some data send from the requester to that site. Servers automatically detect such information IF available.  
-We use an industry standard script to view such information that is made available on our servers.  
-For each visitor to our site, our server automatically recognizes statistics about where you came from, the pages followed, what kind of browser you use and the IP-address you have and the domain name.
+Share this post using these icons:  
 
-The information we collect is used for internal review to improve the content of our site and to customize the content and/or layout of our page for each individual browser. After doing so, the information is then discarded.
-
-There is NO WAY these scripts can detect who you are, where you live or any other personal data.  
-Besides that, although we love every one of our visitors dearly, we don’t have any interest in what you, as an individual, are doing at the site!  
-But we are more interested in what you as a herd are doing. We want to know how you got here, what pages you tend to visit, and what pages you don’t tend to visit. All with the purpose to increase the value of our site!
-
-**Other information volunteered by the visitor**  
-If you send us an email we will store your information such as name and email address until the matter you write about is solved and cleared. Thereafter we will delete your personal data unless you request us to do otherwise.
-
-In case of a survey or site registration we will store your information with the highest care for your personal data and we will only use such data for as long as strictly necessary.
-
-**Data collection of non-personally identifying information**  
-We use third-party advertising companies to serve ads when you visit our website.  
-These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.  
-If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/policies/privacy/ads/).
