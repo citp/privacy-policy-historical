@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the digicamdb.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318102659id_/http%3A//www.digicamdb.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digicamdb.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206175135id_/http%3A//www.digicamdb.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy
+
+### Privacy policy for digicamdb.com
 
 **Short version:**
 
@@ -30,7 +32,7 @@ There are links to other websites on this site. These other websites are not man
 
 ## Third Party Ads
 
-Please note that this site serves ads from third parties (such as Google) and third-party ad servers may use cookies to serve ads. Google, for example, uses the DART cookie. You should note that I have no access to or control over cookies used by third-party advertisers. To learn more about the DART cookie you may visit the Google ads privacy policy at <http://www.google.com/privacy_ads.html>
+Please note that this site serves ads from third parties (such as Google) and third-party ad servers may use cookies to serve ads. Google, for example, uses the DART cookie. You should note that I have no access to or control over cookies used by third-party advertisers. To learn more about the DART cookie you may visit the Google ads privacy policy at [google.com/policies/technologies/ads/](http://www.google.com/policies/technologies/ads/)
 
 ## Conclusion
 
@@ -38,8 +40,6 @@ By visiting and using digicamdb.com you automatically agree to this privacy poli
 
 If you have any questions regarding this privacy policy, you can contact me [here](http://www.digicamdb.com/contact/). 
 
-Kind regards, 
-
 Gregor B. 
 
-Last updated: **September 18, 2012**
+Last updated: **May 23, 2016**
