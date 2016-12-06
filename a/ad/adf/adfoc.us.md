@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adfoc.us privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625042304id_/http%3A//adfoc.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adfoc.us privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206063303id_/http%3A//adfoc.us/privacy) for the most accurate reproduction.*
 
 # AdFoc.us | Privacy Policy
 
