@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techyv.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606001706id_/http%3A//www.techyv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techyv.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206121447id_/http%3A//www.techyv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Techyv
+# Privacy Policy - Techyv.com
 
 **TECHYV PRIVACY POLICY**
 
@@ -48,7 +48,7 @@ Techyv  (“Techyv”) having a principal place of business at (Coral Sudha, No
 
 **_Website_ _Registration_**
 
-3\. In order to use some features of the Website, users must first complete a registration form. During registration, users must provide Techyv with their contact information (name and e-mail address).  
+3\. In order to use some features of the Website, users must first complete a registration form. During registration, users must provide Techyv with their contact information (name and e-mail address).
 
 **Security Measures**
 
@@ -58,15 +58,15 @@ We use IP addresses to analyze trends, administer the Website, and gather broad 
 
 We reserve the legal right to terminate any account we suspect involved in nefarious activities while Techyv will not be held responsible for any breach of personal privacy and cyber security that may arise as a result of individual interconnectivities/interaction among users on our web platform.
 
-Techyv uses security measures to protect the data it obtains through the Website against loss, destruction, manipulation, unauthorized disclosure and access by unauthorized persons. 
+Techyv uses security measures to protect the data it obtains through the Website against loss, destruction, manipulation, unauthorized disclosure and access by unauthorized persons.
 
 **_Announcements_**
 
-5\. Techyv may send service announcements to the users of the Website. Users are at liberty to unsubscribe from service announcement while Techyv will not be held liable for users' inability to unsubscribe from these service announcements or any further issue that may arise as a result of user action with regards to issues so stated herein. Furthermore, on request by our website end user to unsubscribe from our service announcement, their user account details will be deleted from our service announcement emailing list.
+5\. Techyv may send service announcements to the users of the Website. Users are at liberty to unsubscribe from service announcement while Techyv will not be held liable for users’ inability to unsubscribe from these service announcements or any further issue that may arise as a result of user action with regards to issues so stated herein. Furthermore, on request by our website end user to unsubscribe from our service announcement, their user account details will be deleted from our service announcement emailing list.
 
 **_Correction/Updating Personal Information_**
 
-6\. Users may correct, update, or remove the personally identifiable information that was provided by them to Techyv. They can do so by logging into their accounts, clicking on the button “My account”, and choosing the option "Edit Profile". They can also request a change, correction, or removal of their personally identifiable information by sending an email to our relevant email account so stated on our contact us page.
+6\. Users may correct, update, or remove the personally identifiable information that was provided by them to Techyv. They can do so by logging into their accounts, clicking on the button “My account”, and choosing the option “Edit Profile”. They can also request a change, correction, or removal of their personally identifiable information by sending an email to our relevant email account so stated on our contact us page.
 
 **_Data Retention_**
 
@@ -74,13 +74,13 @@ Techyv uses security measures to protect the data it obtains through the Website
 
 **_How Personal Identifiable Information is shared Among Third Parties and Partners_**
 
-8\. Techyv tends to acknowledge the fact that with our website users' consent, we will not trade, disclose or sell our website users personal identification information/data to either our partners or third party service providing firms who seek to market their individual service and products to our website users.
+8\. Techyv tends to acknowledge the fact that with our website users’ consent, we will not trade, disclose or sell our website users personal identification information/data to either our partners or third party service providing firms who seek to market their individual service and products to our website users.
 
 On special occasions and case scenarios, Techyv would disclose information to our partners and third party service providers who are solely assisting in the fastening business transaction or who tend to provide unique services which is solely for the benefit of our website end users. Such Third party service providers include but not limited to Clearing Houses and firms, Credit card processing firms, Product packaging, courier servicing firms etc. Furthermore, with response to a subpoena, legal process or  search warrant  Techyv, is also at liberty to offer as well as disclose all forms of personal identifiable information we deem necessary. Your privacy could also be disclosed to relevant authorities if and only if you are involved with any form of unlawful activity that violate our rules, code of conduct, privacy policies among others. This singular act is intended to defend and protect our property and right as viewed necessary under the law.
 
 **_Our Privacy Statement Modification Process_**
 
-9\. Techyv seeks to use this statement to inform our prestigious website users, partners and clients alike that we do reserve the right to modify, update or change any section, clause and aspect of this privacy policy statement of ours without any form of notification from our end. We will also endeavor to indicate the most recent date of the most current revised version of our privacy statement below all privacy policy statement page. This singular action is intended to keep you abreast with any such legal action to this regards herein stated. 
+9\. Techyv seeks to use this statement to inform our prestigious website users, partners and clients alike that we do reserve the right to modify, update or change any section, clause and aspect of this privacy policy statement of ours without any form of notification from our end. We will also endeavor to indicate the most recent date of the most current revised version of our privacy statement below all privacy policy statement page. This singular action is intended to keep you abreast with any such legal action to this regards herein stated.
 
 **_Personal Identifiable Information Access and Accuracy_**
 
