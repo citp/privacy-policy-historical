@@ -1,18 +1,8 @@
-> *The following text is extracted and transformed from the translatorsbase.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321065347id_/http%3A//www.translatorsbase.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translatorsbase.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206165430id_/http%3A//www.translatorsbase.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Translatorsbase wants to demonstrate its commitment to your privacy and has displayed its privacy statement for your review: 
-
-  1. What personally identifiable information of yours or third party personally identification is collected from you through the web site
-  2. The organization collecting the information 
-  3. How the information is used 
-  4. With whom the information may be shared 
-  5. What choices are available to you regarding collection, use and distribution of the information?
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under (Name of the Company) control 
-  7. How you can correct any inaccuracies in the information. 
-
-
 
 If you have any concerns regarding this statement, you should contact Translatorsbase's privacy administrator by email at service@Translatorsbase.com
 
