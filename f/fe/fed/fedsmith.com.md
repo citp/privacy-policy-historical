@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fedsmith.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625020406id_/http%3A//www.fedsmith.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedsmith.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207182942id_/http%3A//www.fedsmith.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : FedSmith.com
 
-FedSmith Inc. is committed to our users’ privacy. We handle information submitted to us from our users with care. By visiting and using the FedSmith Inc. Web site, you agree to the terms stated in this privacy policy.
+FedSmith Inc. is committed to our users’ privacy. We handle information submitted to us from our users with care. By visiting and using the FedSmith Inc. web site, you agree to the terms stated in this privacy policy.
 
 ### Personal information we collect from our users
 
@@ -14,7 +14,7 @@ No. FedSmith Inc. does not disclose the personal information of our users to ano
 
 ### Posting comments from our users
 
-Some parts of the FedSmith Inc. Web site are interactive, meaning our users can submit comments and information to share with other site visitors. The comments sections on our articles and our surveys offer users this capability. All comments posted to our web site can be done so anonymously. Any additional personal information a user chooses to submit when posting comments is done so at his/her own discretion and is his/her sole responsibility.
+Some parts of the FedSmith Inc. web site are interactive, meaning our users can submit comments and information to share with other site visitors. The comments sections on our articles and our surveys offer users this capability. All comments posted to our web site can be done so anonymously. Any additional personal information a user chooses to submit when posting comments is done so at his/her own discretion and is his/her sole responsibility.
 
 ### Technical/Site usage information collected
 
