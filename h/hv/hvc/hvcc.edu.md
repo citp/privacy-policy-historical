@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hvcc.edu privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620213230id_/https%3A//www.hvcc.edu/its/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hvcc.edu privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207225924id_/http%3A//www.hvcc.edu/its/docs/privacy.html) for the most accurate reproduction.*
 
 # HVCC Privacy Policy
 
@@ -24,7 +24,7 @@ When visiting [www.hvcc.edu](https://www.hvcc.edu/), Hudson Valley Community Col
 
   * the Internet Protocol address of the computer that accessed our website
   * the type of browser, its version and the operating system on which that browser is running
-  * the web page from which the _user_ accessed the current Web page
+  * the web page from which the _user_ accessed the current webpage
   * the date and time of the _user's_ request
   * the pages that were visited and the amount of time spent at each page
 
