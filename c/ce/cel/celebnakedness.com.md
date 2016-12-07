@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebnakedness.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521070859id_/http%3A//www.celebnakedness.com/tour/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebnakedness.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207191745id_/http%3A//www.celebnakedness.com/tour/privacy.php) for the most accurate reproduction.*
 
 # Celeb Nakedness Privacy Statement
 
