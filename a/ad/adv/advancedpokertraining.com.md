@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advancedpokertraining.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610105231id_/http%3A//www.advancedpokertraining.com/poker/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advancedpokertraining.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207083334id_/http%3A//www.advancedpokertraining.com/poker/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Advanced Poker Training
 
@@ -14,13 +14,13 @@ For each visitor to our Web page, our Web server automatically collects **no** i
 
 We collect aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
-With respect to cookies: We use cookies to ensure the appropriate functioning of the game. We do not use cookies to collect personal information.
+With respect to cookies: We use cookies to ensure the appropriate functioning of the game and to ensure we know who our customers are and where they are from so that we can improve our game. We do not use cookies to collect personal information other than to analyze the needs of our users related to the site and do not use the data we collect to serve ads (we do not serve ads on our site). All data we collect is either provided by you directly or in aggregate through Google Analytics.
 
 If you do not want to receive e-mail from us, just let us know. We limit email contact to information directly related to your purpose for registering at our site, such as providing you with login information, information about the products you have purchased, receipts, news about our site or poker, and other information related directly to your activities on our site.
 
 If you supply us with your postal address on-line we will only use it only for the purpose of delivering to you a product you requested. We do not distribute it to anyone else for any reason.
 
-Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them , and a description of information that we maintain about them.
+Upon request we provide site visitors with access to unique identifier information (e.g., customer number) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them , and a description of information that we maintain about them.
 
 Customers can access this information by contacting us or through their training page.
 
