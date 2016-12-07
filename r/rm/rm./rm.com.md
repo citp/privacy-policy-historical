@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rm.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626193437id_/http%3A//www.rm.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rm.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207024159id_/http%3A//www.rm.com/about/privacy) for the most accurate reproduction.*
 
 # privacy
 
