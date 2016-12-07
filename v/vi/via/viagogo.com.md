@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viagogo.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608053043id_/http%3A//www.viagogo.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viagogo.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207122209id_/http%3A//www.viagogo.com/help/privacy) for the most accurate reproduction.*
 
 # viagogo - Buy & Sell Concert, Sport & Theater Tickets
 
