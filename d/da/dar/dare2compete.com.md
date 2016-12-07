@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dare2compete.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501195606id_/http%3A//dare2compete.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dare2compete.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207024527id_/http%3A//dare2compete.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dare2Compete
 
@@ -6,7 +6,6 @@
 
 At Dare2Compete.com we recognize that privacy is important. This Privacy Policy applies to the use of website, contents and all of the services offered by Dare2Compete.com. In addition, where more detailed information is needed to explain our privacy practices, we post supplementary privacy notices to describe how particular services process personal information, which can be found along with the particular services
 
-  
 If you have any questions about this Privacy Policy, please feel free to contact us through our website at the below mentioned address or write to us at help@Dare2Compete.com
 
 #### Scope
@@ -25,28 +24,20 @@ The Privacy Policy does not apply to practices of companies Flive (Dare2Compete)
 
 We offer a number of services that require you to register for an account or provide any personal information to us. In order to provide our full range of services, we may collect the following types of information:
 
-  
 Dare2Compete site collects personally identifiable information (such as your name, email address and an account password) when you register for Dare2Compete site account or when you use certain products or services provided by Dare2Compete site. For use of some specific services, providing some specific personally identifiable information shall be compulsory/ mandatory.
 
-  
 We also offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to Dare2Compete in order to deliver the service. We process such information in accordance with this Privacy Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. 
 
-  
 Dare2Compete may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising.
 
-  
 This Privacy Policy applies to Dare2Compete contents and services only. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
 
-  
 Dare2Compete also automatically receives and records information on shared server logs from your browser including your IP address, cookie information and the page you requested.
 
-  
 In addition, when you use Dare2Compete site services, you may make some of your personal information public. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return and Dare2Compete site will not be responsible for the use or misuse of such information.
 
-  
 Email communication that you send us via the email links on the Site may be shared with company representatives, partners or employees. From time to time, we may send you service-related emails, such as a welcome email when you come in touch with the Site.
 
-  
 **We use your email address to send you:**
 
   * Password reminder and registration confirmation 
