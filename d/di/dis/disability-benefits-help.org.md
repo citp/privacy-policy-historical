@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disability-benefits-help.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616204426id_/http%3A//www.disability-benefits-help.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disability-benefits-help.org privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207015224id_/http%3A//www.disability-benefits-help.org/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Social Security Disability Help
 
@@ -10,7 +10,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 **The Information We Collect:**
 
-This notice applies to all information collected or submitted on the Social Security Disability Help website. On some pages, you can complete a free, online evaluation to be contacted by a disability attorney or advocate regarding your claim. The types of personal information collected at these pages are: 
+This notice applies to all information collected or submitted on the Disability Benefits Help website. On some pages, you can complete a free, online evaluation to be contacted by a disability attorney or advocate regarding your claim. The types of personal information collected at these pages are: 
 
   * Name
   * Address
@@ -50,8 +50,10 @@ We reserve the right to change this Privacy Policy and our related business prac
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please contact us at help@disability-benefits-help.org To remove yourself from our contact list: http://www.disability-benefits-help.org/form/unsubscribe 
+To remove yourself from our contact list: http://www.disability-benefits-help.org/form/unsubscribe 
 
 [eGenerationMarketing, Inc.](http://www.egenerationmarketing.com/)  
 326 A Street - Unit 1A  
 Boston, MA 02210 
+
+Please **DO NOT** stop by our office. Should you have other questions or concerns about these privacy policies, please contact us at privacy@egenerationmarketing.com. 
