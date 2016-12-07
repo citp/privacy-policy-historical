@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the atavist.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906125556id_/http%3A//about.atavist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atavist.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207132914id_/https%3A//atavist.com/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Atavist
+# Atavist: Privacy Policy
 
 This is the Privacy Policy for Atavist and _The Atavist Magazine,_ published March 23, 2015: (To see the previous Privacy Policy, go [here](https://magazine.atavist.com/privacy-policy-published-9-24-14/).)
 
 Atavist is committed to preserving the privacy of its readers and users. This policy outlines the handling of users’ personal information that is submitted at any point in the site. The information is used only in the ways specified when it was collected. That information is not shared in any other shape or manner otherwise.
 
-**Consent**
+### Consent
 
 By using our web site and mobile apps you consent to the use of your personal information as described in this Privacy and Data Policy. Except as set forth in this policy, your personal information will not be used for any other purpose without your consent. We will not actively collect personal Information for the purpose of sale or marketing in a way that specifically identifies the individual. In other words, we don’t sell customer lists. You may withdraw your consent to our processing of your personal information at any time. However, withdrawing consent may result in your inability to continue using our web site, apps, and/or other services.
 
@@ -54,4 +54,4 @@ If you have any questions or issues around any of these matters, email us: suppo
 
 **Legal**
 
-All stories and other information are © 2010-2015 Atavist Inc. All rights reserved.
+All stories and other information are © 2010-2016 Atavist Inc. All rights reserved.
