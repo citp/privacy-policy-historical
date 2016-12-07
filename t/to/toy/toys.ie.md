@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toys.ie privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612215004id_/http%3A//www.smythstoys.com/ie/en-ie/page/o/customerservice/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toys.ie privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207084648id_/http%3A//www.smythstoys.com/ie/en-ie/page/o/customerservice/security-and-privacy) for the most accurate reproduction.*
 
 # Top Toy Store in UK & Ireland, for Games, Outdoor & Toys Online from Smyths Superstores
 
@@ -6,7 +6,7 @@ Smyths Toys ("We") are committed to protecting and respecting your privacy.
 
 This policy (together with our [terms of use](http://www.smythstoys.com/ie/en-ie/page/o/customerservice/terms-and-conditions/) **** and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting our website you are accepting and consenting to the practices described in this policy.
 
-For the purpose of the relevant data protection legislation, the data controller is Smyths Toys HQ of Lyrr Building 1, Mervue Business Park, Galway, Ireland.
+For the purpose of the relevant data protection legislation, the data controller is Smyths Toys HQ UC of Lyrr Building 1, Mervue Business Park, Galway, Ireland.
 
 **Information we may collect from you**
 
@@ -78,7 +78,7 @@ We may disclose your personal information to third parties:
 
 In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
 
-If Smyths Toys HQ or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+If Smyths Toys HQ UC or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or [terms and conditions](http://www.smythstoys.com/ie/en-ie/page/o/customerservice/terms-and-conditions/) of sale and other agreements; or to protect the rights, property, or safety of Smyths Toys HQ our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
