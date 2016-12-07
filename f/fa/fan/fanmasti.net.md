@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fanmasti.net privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617173722id_/http%3A//fanmasti.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanmasti.net privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207114002id_/http%3A//fanmasti.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FanMasti
+# Privacy Policy
 
 fanmasti cares about how your personal information is used and shared, and we take your privacy seriously. Please read the following terms to learn more about our privacy policy. By registering to and creating account at fanmasti.tv you are accepting the practices outlined in this Privacy Policy.
 
