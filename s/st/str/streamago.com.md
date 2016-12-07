@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the streamago.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125130840id_/http%3A//www.streamago.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamago.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207015455id_/http%3A//www.streamago.com/privacy) for the most accurate reproduction.*
 
-# Streamago | Create Live Videos on iPhone & Android
+# Streamago | Livestreaming, Live Video Selfies and Video Chat on iPhone & Android
 
 Dear User,this Privacy Policy describes how and when Streamago Inc. collects and processes your personal data through the use of the Service and who it shares such information with. This informative notice can be read through the StreamagoApp application or on Streamago's website, at the following link http://www.streamago.com/privacy.html. When consulting this informative notice we invite you to keep in mind that, unless defined otherwise, capitalized terms shall have the same meaning as in the general terms of use of StreamagoApp, which we therefore invite you to read carefully.
 
