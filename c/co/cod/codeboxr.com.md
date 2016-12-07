@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeboxr.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329190931id_/http%3A//codeboxr.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeboxr.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207013200id_/http%3A//codeboxr.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Codeboxr
 
@@ -32,7 +32,7 @@ Codeboxr welcomes your comment regarding this Statement of Privacy. If you belie
 
 #### Please also read:
 
-  * [Terms & Conditions](http://codeboxr.com/tos.html)
-  * [Refund Policy](http://codeboxr.com/refund-policy.html)
+  * [Terms & Conditions](http://codeboxr.com/tos)
+  * [Refund Policy](http://codeboxr.com/refund-policy)
 
 
