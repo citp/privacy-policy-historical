@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vine.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324214237id_/https%3A//www.soap.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vine.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207122521id_/https%3A//www.soap.com/legal/privacypolicy) for the most accurate reproduction.*
 
 # Legal: Soap.com
 
