@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tethertools.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906212815id_/https%3A//www.tethertools.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tethertools.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207232047id_/https%3A//www.tethertools.com/privacy-security) for the most accurate reproduction.*
 
-# Privacy & Security | Tether Tools
+# Privacy & Security – Tether Tools
 
 This policy was last updated on December 30, 2011.
 
@@ -46,7 +46,7 @@ For more information about the companies with whom TT shares customer informatio
 
 Use of Information:
 
-We may use your information in a number of ways, including the following:
+We may use your information in a number of ways, including the following: 
 
   * To improve the content on our Web site. For example, we may use cookies to find out which parts of our site or our products are visited most often.
   * To enhance your online shopping experience.
@@ -58,7 +58,7 @@ Our Commitment to Children’s Privacy:
 
 We never collect or maintain information at our website from those we actually know are under 13, nor is any part of our website structured to attract anyone under 13.
 
-Our transaction security, combined with our privacy guarantee, should satisfy your concerns regarding online ordering. Keep in mind however that you have a number of alternate choices available for doing business with TT.
+Our transaction security, combined with our privacy guarantee, should satisfy your concerns regarding online ordering. Keep in mind however that you have a number of alternate choices available for doing business with TT. 
 
   1. You can order on-line without sending your credit card number over the Internet. Just complete our on-line order form, print, and fax it to us at 480-452-0101.
   2. If you prefer, you can call toll free 1-888-854-6565 _(in Arizona call 480-949-0808),_ then press extension #1 to place an order by telephone.
