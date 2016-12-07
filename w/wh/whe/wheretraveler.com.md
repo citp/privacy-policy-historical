@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wheretraveler.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629091541id_/http%3A//www.wheretraveler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheretraveler.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207040216id_/http%3A//www.wheretraveler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WhereTraveler
 
