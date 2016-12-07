@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sqlbi.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319042629id_/http%3A//www.sqlbi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlbi.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207051511id_/http%3A//www.sqlbi.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SQLBI
 
-### Privacy Policy of [sqlbi.com](http://www.sqlbi.com/)
+### Privacy Policy of [sqlbi.com](https://www.sqlbi.com/)
 
 This Application collects some Personal Data from its Users.
 
