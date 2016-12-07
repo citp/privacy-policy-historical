@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the it-book.org privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604202640id_/http%3A//it-book.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the it-book.org privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207124619id_/http%3A//it-book.org/privacy-policy) for the most accurate reproduction.*
 
 # Download PDF/ePub Privacy Policy | Free eBooks PDF
 
 PRIVACY POLICY
 
-Welcome to http://it-book.org (the “Site”).We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by it book (collectively, “Services”) (“Authorized Customers”).
+Welcome to http://94.23.252.90/~itbook (the “Site”).We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by it book (collectively, “Services”) (“Authorized Customers”).
 
 “Personally Identifiable Information” refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
 
@@ -34,4 +34,4 @@ Can a Visitor delete or deactivate Personally Identifiable Information collected
 
 What happens if the Privacy Policy Changes?We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
 
-Links:http://it-book.org contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+Links:http://94.23.252.90/~itbook contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
