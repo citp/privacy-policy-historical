@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itead.cc privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924162759id_/http%3A//www.itead.cc/privacy_and_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itead.cc privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207011409id_/http%3A//www.itead.cc/privacy_and_notice) for the most accurate reproduction.*
 
 # Privacy Notice
 
