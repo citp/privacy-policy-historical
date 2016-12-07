@@ -1,0 +1,117 @@
+> *The following text is extracted and transformed from the supersu.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207212453id_/http%3A//www.supersu.com/about%23privacy-policy-supersu) for the most accurate reproduction.*
+
+# About
+
+### Company Profile / CCMT
+
+_This Privacy Policy is effective August 29, 2016._
+
+SuperSU is one of the world’s most popular tool for root apps.SuperSU allows advanced management of Superuser access rights for all the apps on your device that need root. It's very popular and well known in the international security field and it has a great influence.No ads and good compatibility.It's a great tool for tech gurus, gamers and Android developers around the world. SuperSU by Chainfire and Coding Code Mobile Technology LLC join R&D , CCMT is headquartered in U.S., committed to build a green mobile Internet security. 
+
+### Privacy Policy of SuperSU
+
+_This Privacy Policy is effective August 29, 2016._
+
+At Coding Code Mobile Technology LLC (“CCMT”), we recognize that privacy is what users concerns the most. This Privacy Policy (“Policy”) applies to your use of the SuperSU applications on all platforms (the “Application” or “Applications”), the related services we provide (“Services”)
+
+#### A. INTRODUCTION
+
+Most of our apps simply do not collect and/or transmit any uniquely identifying information about you or your device at all. But some of them do, mostly by way of third party components.
+
+Please note that none of our apps structurally collect and transmit privacy sensitive data to our own servers. That's simply not something we want to do or be associated with. If any privacy sensitive information is used at all, it is generally gathered by code provided by a third party, and transmitted to their servers.
+
+This page is the same for all our apps, so all the situations sketched here should be seen as the worst case scenario if you use all of our apps together.
+
+#### B. LICENSING
+
+To check if you have a valid license for a paid app or in-app purchases, your device's serial number, IMEI, ESN, a (semi-)unique number generated at first install time, or your store account name, may be transmitted and checked against. However, for most of our apps all of this is handled (if checked at all) by the store application rather than the app itself, so please see the stores section below.
+
+#### C. STORES
+
+The stores you download and install our apps from may track all sorts of privacy-sensitive information ( e.g. when you download SuperSU at the Google Play Store, Google may collect your sensitive information. For further detail, please refer to Google Play policy). While that is not directly related to our apps, our apps may request the store to verify if you own a valid license, which in turn may cause the store application to gather and transmit privacy sensitive information to the store's servers. Please consult the policies of the store you use to download our apps from (if any).
+
+#### D. THIRD- PARTY SITES
+
+In general, the Applications, the Services and the Site (<http://www.supersu.com/> can be accessed through “how to root”) access third party information(such as your Facebook account information) through application interfaces. We may provide links to third-party Web sites, such as Facebook, as a service to our Users. When you click on links of third parties in an Application, the Services or the Site, you may leave the Application, the Services. We do not collect your information on and through and This Policy does not address, and we are not responsible for, the privacy practices of Web sites operated by third parties, whether they are linked to or otherwise accessible from an Application, the Services or the Site. The inclusion of a link or accessibility of third party Websites does not imply endorsement of such third party Website by us.
+
+We cannot control the actions of other Users with whom you share your information. We cannot, and do not, control the information you share with other Users using an Application, the Services or the Site (including via Forums) or how such other Users will use or share such information. We are not responsible for third party circumvention of our security measures.
+
+#### F. SENSITIVE INFORMATION
+
+We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, sexual orientation, criminal background or membership in past organizations, including trade union memberships) on or through an Application, the Services or the Site or otherwise to us.
+
+#### G. CHANGES
+
+Our Privacy Policy will be updated with our development of SuperSU, we will post any privacy policy changes on this page, so please review it periodically. If you do not agree to any modifications to this Policy, you could immediately stop all use of all services. Your continued use of the Application following the update of any modifications to this Policy will constitute your acceptance of the revised Policy. Please note that none of our employees or agents other than CCMT has the authority to change any of our Policies.
+
+### Privacy Policy of supersu.com
+
+_This Privacy Policy is effective August 29, 2016._
+
+At Coding Code Mobile Technology LLC (“CCMT”), we recognize that privacy is what users concern the most. This Privacy Policy (“Policy”) applies to your use of the [http://www.supersu.com](http://www.supersu.com/) ("Site"). This privacy policy applies to the Site by CCMT.
+
+CCMT (“us” or “we”) has created this Policy to explain our privacy practices so that you will understand what information about you is collected, used and disclosed with respect to the Site.
+
+By using the Site, you consent to the privacy practices described in this Policy.
+
+This Policy covers our collection, use and disclosure of your information through the Site. It does not cover any collection, use or disclosure by third parties through Web site that we do not control or own, such as Facebook, or any third party features or services made available via the Application. All trademarks, trade names, and logos of third parties featured on the Applications or the Site belong to their respective owners.
+
+#### A. WHAT KIND OF INFORMATION WE COLLECT
+
+a. Personal Information- The Personal Information include you or another person, when registering on the forum, your username and email address may be collected for authentication purpose.
+
+b. Non-personal information is data that does not allow direct association with any specific individual. Here are some examples of what Non-personal Information we may collect: 
+
+  1. When visiting our site, our server does record conventional non-personal information including your IP address, version of browser, operating system, the dates and times of your visit. We will use these data to improve the performance of our site.
+
+  2. We use Third-party analytics (such as Google Analytics) to study data, which may automatically collect your behavior, your type of browser or operating system you use, and the dates and times of your use ("log data").
+
+
+
+
+#### B. HOW WE USE COLLECTED INFORMATION
+
+a. Any of the information (Personal and Non-personal) we collect from you may be used in one of the following ways:
+
+  1. To personalize user experience- We may use Information to understand demographics, customer interest, and other trends among our Users;
+
+  2. To help develop our service- We may use Information to provide, maintain, improve and modify the Site and develop new services;
+
+  3. To improve our website-We continually strive to improve our website offerings based on the information and feedback we receive from you.
+
+
+
+
+#### C. HOW YOUR INFORMATION MAY BE DISCLOSED
+
+a. Personal Information. In general, we use session and usage data internally to serve our Users and enable them to take maximum advantage of the Website. We do not store Personal Information and therefore we do not disclose your Personal Information.
+
+b. Non-Personal Information. We may disclose Non-Personal when we use Third-party analytics (such as Google Analytics) to study data who shall comply with this privacy policy and the relevant privacy laws. We do not combine Non-Personal Information with Personal Information (such as combining your name with your unique IP address).
+
+#### D. THIRD- PARTY SITES
+
+In general, the Site access third party information (such as your Facebook account information) through application interfaces. We may provide links to third-party Websites, such as Facebook, as a service to our Users. When you click on links of third parties in the Site, you may leave the Site. We do not collect your information on and through and This Policy does not address, and we are not responsible for, the privacy practices of Web sites operated by third parties, whether they are linked to or otherwise accessible from the Site. The inclusion of a link or accessibility of third party Websites does not imply endorsement of such third party Website by us.
+
+#### E. DO WE USE COOKIES
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+We use cookies to understand and save your preferences for future visits, compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+We cannot control the actions of other Users with whom you share your information. We cannot, and do not, control the information you share with other Users using the Site (including via Forums) or how such other Users will use or share such information. We are not responsible for third party circumvention of our security measures.
+
+#### G. SECURITY
+
+CCMT is very concerned about safeguarding the confidentiality of your information. We do not collect Personal Information, and we employ administrative, physical and electronic measures designed to protect your Non-Personal Information from unauthorized access and use. Please be aware that no security measures that we take to protect your information is absolutely guaranteed to avoid unauthorized access or use of your Non-Personal Information which is impenetrable.
+
+#### H. INTERNATIONAL USERS
+
+Your Information may be stored and processed in any country where we have facilities, and by using the Site you consent to the transfer of your Information to countries, including the United States, which may be outside of your country of residence and may provide for different and less stringent data protection rules than in your country. If you object to your Information being transferred or used as described in this Policy, please do not use the Site and immediately Close the site.
+
+#### I. SENSITIVE INFORMATION
+
+We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, sexual orientation, criminal background or membership in past organizations, including trade union memberships) on or through the Site or otherwise to us.
+
+#### J. CHANGES
+
+Our Privacy Policy will be updated with our development of the site, we will post any privacy policy changes on this page, so please review it periodically. If you do not agree to any modifications to this Policy, you could immediately stop all use of all the Services. Your continued use of the Site following the posting of any modifications to this Policy will constitute your acceptance of the revised Policy. Please note that none of our employees or agents other than CCMT has the authority to vary any of our Policies.
