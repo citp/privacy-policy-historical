@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pornzoe.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503160703id_/http%3A//www.pornzoe.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornzoe.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207121131id_/http%3A//www.pornzoe.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PornZoe.com
 
-Updated: May 03, 2016  
+Updated: December 07, 2016  
 Site: PornZoe.com 
 
 Pursuant to our [Terms of Use](http://www.pornzoe.com/p/terms/), , this document describes how we treat personal information related to your use of PornZoe.com (the “Website”), including information you provide when using it.
