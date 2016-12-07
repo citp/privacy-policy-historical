@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the portevergladeswebcam.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406081424id_/http%3A//www.ptztv.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portevergladeswebcam.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207091718id_/http%3A//www.ptztv.com/about-us/privacy) for the most accurate reproduction.*
 
-# PTZtv - Scenic Webcam Solutions - Privacy
+# PTZtv - Privacy Policy
 
 **What information do we collect?**
 
-You may visit our sites anonymously and are not required to register or sign-in.
+You may visit our _free-to-view_ sites anonymously and are not required to register or sign-in. If you choose to register for our PTZtv Premium service, you will be required to provide an email address.
 
 If you choose to fill out and submit a contact or "wave request" form, you may be asked to enter your name, e-mail address or phone number.  
  
@@ -12,11 +12,14 @@ If you choose to fill out and submit a contact or "wave request" form, you may b
 Like most websites, our servers automatically record the page requests made when you visit our sites. These “server logs” typically include your web request, IP address, browser type, browser language and the date/time of your access.  
  
 
-Our InletPhotos.com and PTZtv WebcamWare websites can involve eCommerce transactions if you choose to purchase merchandise from them. Those transactions necessitate the sharing of more personal information, including credit card numbers.
+Our PTZtv Premium, PTZtv Gallery and PTZtv WebcamWare websites can involve eCommerce transactions if you choose to purchase from them. Those transactions necessitate the sharing of more personal information, including credit card numbers if that payment method is selected.  
+ 
 
-InletPhotos.com transactions are hosted and operated by SmugMug, Inc. and their privacy policy is [here](http://www.smugmug.com/aboutus/privacy/).
+PTZtv Premium transactions are handled by Tinypass/Piano and their privacy policy is [here](https://piano.io/privacy/).
 
-WebcamWare transactions are hosted and operated by CafePress, Inc. and their privacy policy is [here](http://www.cafepress.com/cp/info/help/index.aspx?page=privacy_policy.aspx).
+PTZtv Gallery transactions are handled by SmugMug, Inc. and their privacy policy is [here](http://www.smugmug.com/aboutus/privacy/).
+
+WebcamWare transactions are handled by CafePress, Inc. and their privacy policy is [here](http://www.cafepress.com/cp/info/help/index.aspx?page=privacy_policy.aspx).
 
 **How do we use your information?**
 
@@ -31,7 +34,7 @@ Any of the information we collect from you may be used in one of the following w
 
 The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
-We use your IP address to perform IP geolocation at the country of origin level.
+We use your IP address to perform IP geolocation at the country/state of origin level.
 
 **What are cookies?  
  **
@@ -51,7 +54,9 @@ In addition, our sites use cookies to compile aggregate data about site traffic 
 
 At this time, we contract with Google Analytics to provide site traffic analysis services and their privacy policy is [here](https://www.google.com/analytics/learn/privacy.html).
 
-We do not place or use PTZtv cookies on any of our webcam websites.
+Tinypass/Piano use cookies as part of their paid content access service which is used by PTZtv Premium. Use of cookies is covered in their privacy policy linked above.
+
+PTZtv does not currently place cookies on any of our webcam websites but may do so in the future for the sole purpose of saving and restoring viewer preferences and options.
 
 **Do we disclose any information to outside parties?**
 
@@ -85,6 +90,6 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on **August  11th, 2014**
+This policy was last modified on **May 1st, 2016**
 
 If you have further questions, please contact us by email to [info@ptztv.com](mailto:info@ptztv.com)
