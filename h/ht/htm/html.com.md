@@ -1,75 +1,72 @@
-> *The following text is extracted and transformed from the html.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612055941id_/http%3A//www.html.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the html.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207133448id_/http%3A//html.com/privacy) for the most accurate reproduction.*
 
-# HTML.com
+# Privacy - HTML.com
 
-HTML respects the privacy of its customers and visitors to this website. Your personal information is only collected, used and disclosed by HTML in accordance with this Privacy Policy.
+This Privacy Policy governs the manner in which html.com collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.html.com website ("Site").
 
-By using our website or purchasing our Services (as defined below), you are expressly consenting to and have knowledge of the collection, use and disclosure of personal information, as identified in this Privacy Policy. Any changes to our Privacy Policy will be posted on our website.
+### Personal identification information
 
-**1\. INFORMATION COLLECTED**
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-We only collect personal information about you when you specifically and knowingly provide it on our website or to our customer service representatives via telephone. If you request information or purchase domain name, email webhosting or other services (the "Services") you will be asked to provide personal information. This information may include your:
+### Non-personal identification information
 
-  * name 
-  * address 
-  * telephone and fax numbers 
-  * email address 
-  * username 
-  * password, and credit card information 
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
+### Web browser cookies
 
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-**2\. USE OF YOUR INFORMATION**
+### How we use collected information
 
-HTML only collects and uses your information for the following purposes:
+html.com may collect and use Users personal information for the following purposes:
 
-  * To establish and maintain a responsible commercial relationship with you and to provide ongoing service. For example, when you purchase Services, we collect information that allows us to confirm your identity and credit history so that we can accurately bill and collect payment for the Services 
-  * To understand your needs and preferences. For example, we maintain a record of the products and services you receive from us, and we may ask for additional information so that we can serve you better 
-  * To develop, enhance, market or provide products and services. For example, we analyze how our customers use our products and services, so that we can understand how to improve them. From time to time, we may review and analyze your use of our products and services to help us provide better product recommendations and special offers that we think will interest you
-  * To manage and develop our business and operations. For example, we analyze customer usage of our networks and facilities to help us manage them efficiently and plan for future growth 
-  * To meet legal and regulatory requirements. For example, we may collect information in response to a court order
-
-
-
-**3\. DISCLOSURE OF YOUR INFORMATION**
-
-There are a variety of circumstances where we may need to disclose some personal information about you. Here are some examples: We may disclose your personal information to:
-
-  * a person who, in the reasonable judgment of HTML, is seeking the information as your agent. For example, we may provide information about your account to your legal representative if we are satisfied that that individual is requesting the information on your behalf
-  * HTMLs parent companies or subsidiaries to help us serve you better and provide you with services 
-  * a company involved in supplying or selling services to you 
-  * a company or individual employed by HTML to perform functions on our behalf, such as research or data processing 
-  * an agent used by HTMLto evaluate your credit worthiness or to collect your account
-  * a credit reporting agency
-  * a public authority, agent of a public authority or law enforcement agency
+  * _To run and operate our Site_  
+We may need your information display content on the Site correctly. 
+  * _To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. 
+  * _To improve our Site_  
+We may use feedback you provide to improve our products and services. 
+  * _To run a promotion, contest, survey or other Site feature_  
+To send Users information they agreed to receive about topics we think will be of interest to them. 
+  * _To send periodic emails_  
+We may use the email address to respond to their inquiries, questions, and/or other requests. 
 
 
 
-ANY DISCLOSURE OF YOUR PERSONAL INFORMATION TO A THIRD PARTY IS CONFIDENTIAL AND THE INFORMATION SHALL BE USED ONLY FOR THE PURPOSE FOR WHICH IT WAS DISCLOSED.
+### How we protect your information
 
-**4\. RETENTION OF YOUR INFORMATION**
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-The account or membership information you provide when registering with us is stored in our secure databases as long as you are a customer of HTML. You must notify HTML if you no longer want your information to be retained by us. If you contact us with a question or comment, any information identifying you is only kept long enough for us to provide you with a response, unless we are required to keep it for a longer period of time.
+### Sharing your personal information
 
-Please note that it may be impossible to delete your information completely without some residual information remaining in our databases.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-**5\. PROTECTION OF YOUR INFORMATION**
+### Electronic newsletters
 
-In order to protect your personal information and your right to privacy, HTML: 
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-  * uses a Secure Socket Layer (SSL) Server Certificate 
-  * uses servers that are protected by firewalls, which are frequently updated to enhance security
-  * protects the confidentiality of your personal information when dealing with other companies
-  * strives tr appropriate security safeguards with respect to its databases, computer networks and systems, and will honour any request you may make for access to your personal ino keep your personal information as accurate and up-to-date as is necessary for the purposes identified above 
-  * uses otheformation
+### Third party websites
 
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
+### Advertising
 
-**6\. ACCURACY OF THE INFORMATION AND YOUR ACCESS TO IT**
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-HTML relies on the accuracy of the information provided by you, but accepts responsibility for the management and confidentiality of the personal information it collects. Please contact our Information Administrator at privacy@internetnamesforbusiness.com to: 
+### Google Adsense
 
-  * change or confirm your personal information
-  * have your information removed from our databases, or speak to someone about 's information-handling practices
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
+### Changes to this privacy policy
 
+html.com has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+### Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. This policy was generated using [privacy policies.com](http://privacypolicies.com/)
+
+### Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
+
+This document was last updated on May 27, 2016
