@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govia.com.au privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422060342id_/https%3A//www.govia.com.au/web/ssp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govia.com.au privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207232301id_/https%3A//www.govia.com.au/web/ssp/privacy-policy) for the most accurate reproduction.*
 
 # go via - Privacy Policy
 
@@ -97,7 +97,7 @@ In order to protect your credit card information we may implement tokenisation. 
 If a vehicle registered in your name is linked to a Transurban Queensland account, Transurban Queensland may disclose information about trips your vehicle makes across our roads to the account holder.  
  
 
-If your vehicle is involved in or in the vicinity of a road incident, , Transurban Queensland may disclose your personal information to emergency services, insurance providers and towing, roadside support and maintenance and logistics contractors.  This may information may include images and video footage of the incident and the vehicles involved, as well as the details of any vehicles and occupants..  A “road incident” also includes property and road damage caused by your vehicle.    
+If your vehicle is involved in or in the vicinity of a road incident, Transurban Queensland may disclose your personal information to emergency services, insurance providers and towing, roadside support and maintenance and logistics contractors.  This may information may include images and video footage of the incident and the vehicles involved, as well as the details of any vehicles and occupants.  A “road incident” also includes property and road damage caused by your vehicle.    
  
 
 Examples of where Transurban Queensland may disclose your personal information in a road incident include: 
