@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfumeemporium.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608142546id_/http%3A//www.perfumeemporium.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfumeemporium.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207154302id_/http%3A//www.perfumeemporium.com/privacy.cfm) for the most accurate reproduction.*
 
 # Perfume Emporium - Cheap Perfume, Cologne, Skincare, Makeup, Haircare, and Fragrances!
 
@@ -46,7 +46,9 @@ _CHILDREN_
 The site is not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide personal information through the site. We do not knowingly collect information from children under 13 without parental consent. Visit the Federal Trade Commission website for more information about the Children's Online Privacy Protection Act (COPPA). 
 
 _UPDATES_  
-This Privacy statement is subject to change. Please review it periodically. If we make changes to the privacy statement, we will revise the “Last Revised” date at the top of this statement. Any changes to this statement will become effective when we post the revised statement on the site. Your use of the Site following these changes means that you accept the revised statement. 
+This Privacy statement is subject to change. Please review it periodically. If we make changes to the privacy statement, we will revise the "Last Revised" date at the top of this statement. Any changes to this statement will become effective when we post the revised statement on the site. Your use of the Site following these changes means that you accept the revised statement. 
 
 _CONTACTING THE WEB SITE_  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: sales@perfumeemporium.com 
+
+Product names, logos, brands, and other trademarks featured or referred to within the http://www.perfumeemporium.com website are the property of their respective trademark holders. These trademark holders are not affiliated with Perfume Emporium, or our website. 
