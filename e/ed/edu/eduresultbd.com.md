@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eduresultbd.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606164605id_/http%3A//eduresultbd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduresultbd.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207154213id_/http%3A//eduresultbd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | eduresultbd.com
+# Privacy Policy |eduresultbd.com
 
 This Privacy Policy governs the manner in which eduresultbd.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://eduresultbd.com](http://eduresultbd.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by eduresultbd.com. **Personal identification information**
 
