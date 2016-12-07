@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printme.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509225634id_/http%3A//product-redirect.efi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printme.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207092611id_/http%3A//product-redirect.efi.com/privacy) for the most accurate reproduction.*
 
 # EFI - Privacy Policy
 
