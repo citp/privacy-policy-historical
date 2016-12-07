@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoors.org privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508020412id_/https%3A//www.outdoors.org/about/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoors.org privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207070914id_/https%3A//www.outdoors.org/about/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Appalachian Mountain Club
 
