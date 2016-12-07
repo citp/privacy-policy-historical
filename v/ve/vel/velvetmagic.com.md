@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the velvetmagic.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620002036id_/http%3A//velvetmagic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velvetmagic.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207082235id_/http%3A//velvetmagic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | VelvetMagic
-
-[Home](http://velvetmagic.com/) Privacy policy
+# Privacy policy - Velvet Magic
 
 #### If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@tigerfunk.com
 
@@ -22,7 +20,7 @@
 
   * #### Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
 
-  * #### Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
+  * #### Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting aboutads.info.)
 
 
 
