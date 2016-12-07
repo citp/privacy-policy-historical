@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fancylive.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613104002id_/http%3A//www.fancylive.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fancylive.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207055421id_/http%3A//fancylive.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
