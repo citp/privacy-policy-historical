@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the navicat.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610085443id_/http%3A//navicat.com/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navicat.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207221052id_/https%3A//www.navicat.com/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement
 
