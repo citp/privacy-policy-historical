@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegeeksclub.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606195711id_/http%3A//www.thegeeksclub.com/opanda_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegeeksclub.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207225819id_/http%3A//www.thegeeksclub.com/opanda_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Geeks Club
 
