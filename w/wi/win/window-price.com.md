@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the window-price.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523093112id_/http%3A//www.window-price.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the window-price.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207022319id_/http%3A//window-price.com/privacy) for the most accurate reproduction.*
 
 # Window Price | Save Money on Window Replacement | Privacy Policy
 
