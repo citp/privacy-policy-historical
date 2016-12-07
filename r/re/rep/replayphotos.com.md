@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the replayphotos.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417153520id_/http%3A//www.replayphotos.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replayphotos.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207032225id_/http%3A//www.replayphotos.com/privacy.cfm) for the most accurate reproduction.*
 
 # Replay Photos: Privacy Policy
 
 **Lulu Privacy Policy**
 
-Lulu Press, Inc. ("Lulu," "we," "us") respects your privacy, including the privacy of your personal information. This Privacy Policy explains what information we collect through our website at [www.replayphotos.com](http://www.replayphotos.com/), [www.Picture.com](http://www.picture.com/)and [www.lulu.com](http://www.lulu.com/) (the "Site") and our other services, and how we use this information to provide outstanding service to you. By accessing and using the Site or other services owned and/or operated by Lulu, you agree to the terms and conditions of this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, do not use the Site. If you feel that Lulu is not abiding by this Privacy Policy, you should contact us. Lulu's offices are located at 3101 Hillsborough Street, Raleigh, NC 27607. We will do our best to resolve your inquiry.
+Lulu Press, Inc. ("Lulu," "we," "us") respects your privacy, including the privacy of your personal information. This Privacy Policy explains what information we collect through our website at [www.replayphotos.com](http://www.replayphotos.com/), [www.Picture.com](http://www.picture.com/), [Custom-Prints.Lulu.com](http://custom-prints.lulu.com/), [www.LuluJr.com](http://www.lulujr.com/), and [www.lulu.com](http://www.lulu.com/) (the "Site") and our other services, and how we use this information to provide outstanding service to you. By accessing and using the Site or other services owned and/or operated by Lulu, you agree to the terms and conditions of this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, do not use the Site. If you feel that Lulu is not abiding by this Privacy Policy, you should contact us. Lulu's offices are located at 627 Davis Dr., Suite 300, Morrisville, NC 27560. We will do our best to resolve your inquiry.
 
-REVISED: August 20, 14
+REVISED: November 7, 2016
 
 **1\. Information Collected Through Our Site**
 
