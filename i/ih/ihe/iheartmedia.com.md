@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iheartmedia.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616144459id_/http%3A//iheartmedia.com/Pages/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iheartmedia.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207052332id_/http%3A//www.iheartmedia.com/Pages/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
