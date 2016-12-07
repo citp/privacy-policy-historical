@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsplayer.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003003911id_/http%3A//www.bsplayer.com/bsplayer-english/privacy-policy.html%3FBSPLAYER%3D3f256ae49b5cb00193a72ad150358f16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsplayer.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207184640id_/http%3A//www.bsplayer.com/bsplayer-english/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - BS.Player.com
 
