@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petstablished.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508114440id_/https%3A//www.petstablished.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petstablished.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207193217id_/http%3A//www.petstablished.com/privacy) for the most accurate reproduction.*
 
 # Petstablished | Manage your Animal Welfare Organization (AWO) with our easy-to-use software.
 
