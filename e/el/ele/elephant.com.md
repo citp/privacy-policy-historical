@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elephant.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607211023id_/http%3A//www.elephant.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elephant.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207155223id_/http%3A//www.elephant.com/privacy) for the most accurate reproduction.*
 
 # Elephant Auto Insurance | Privacy & Security
 
@@ -17,6 +17,10 @@ Consumer Report Information: We obtain this information from third party consume
 Transaction information: This is information about your transactions with Elephant. It includes your insurance coverages, limits, rates, and payment and claims history. It also includes information that we require for billing and payment.
 
 Website information: This information is unique to Internet transactions. It includes the website that linked you to ours, your computer operating system, and the pages you viewed on our site. Some websites, including ours, may also store “cookies” on your computer. Cookies collect technical data such as your Internet protocol (IP) address, operating system, and session ID. They may also save certain information entered by you.
+
+#### Why do you ask for my e-mail address?
+
+When you get a quote or purchase a policy, we collect your e-mail address so that we may send periodic emails to you of both promotional and transactional nature. If you no longer wish to receive promotional email communications from us, you may opt-out by following the unsubscribe link located at the bottom of each communication or by contacting us at customerservice@elephant.com.
 
 ####  Notice of Financial Information Collection and Disclosure Practices
 
