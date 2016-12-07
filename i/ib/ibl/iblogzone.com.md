@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iblogzone.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316214030id_/http%3A//www.iblogzone.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iblogzone.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207011547id_/http%3A//www.iblogzone.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,7 +25,7 @@ If you wish to disable cookies, you may do so through your individual browser op
 Specifics on Google’s [DoubleClick DART Cookie](http://www.doubleclick.com/privacy/faq.aspx):  
 * Google, as a third party vendor, uses cookies to serve ads on your site.  
 * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-* Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/privacy/ads/).
+* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 You can find additional information in Appendix A of the NAI Self-Regulatory principles for publishers (PDF). Please note that the NAI may change this sample language at any time.  
 
