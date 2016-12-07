@@ -1,27 +1,25 @@
-> *The following text is extracted and transformed from the onlineinvoices.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322103901id_/https%3A//www.onlineinvoices.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineinvoices.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207054347id_/https%3A//www.onlineinvoices.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Invoices
 
-  1. ### Who we are
+## This Privacy Policy governs what we can and cannot do with the  
+information that you provide
 
-OnlineInvoices is a secure online Billing & Accounting software service designed for small to medium business (SMEs). OnlineInvoices is based in Sydney, Australia and is located at 25 Boundary, Rd Pennant Hills, NSW 2120.
+  1. ### 1\. Who we are
 
-  2. ### OnlineInvoices protects your privacy
-
-OnlineInvoices is committed to protecting your privacy in accordance with the highest consumer protection standards.
-
-Our privacy policy is designed with you in mind, and it is integral that you have a comprehensive understanding of our information collection and usage practices, as well as full confidence that ultimately, you have control of your personal information provided to OnlineInvoices. In summary, while you should read each provision in this Privacy Policy, you note that by using the OnlineInvoices web site:
-
-    1. You agree that if you disclose your personal information to us, we may create a database record about you;
-    2. If you register on our website, download any materials or conduct any other transaction, you agree for us to collect information necessary to provide you with the service you have requested, and you agree that this information may be disclosed to service partners (who may be third parties) for those purposes;
-    3. You agree for us to use cookies on your browser (unless you remove them);
-    4. You agree that we can contact you with information about products and services which may be of interest to you (unless you have stated you do not wish to receive these communications); and
-    5. Your continued use of the OnlineInvoices web site indicates your agreement with any future changes in the OnlineInvoices Privacy Policy
-  3. ### What information is collected and how do we use it?
+    * OnlineInvoices offers you an accounting and inventory management application OnlineInvoices is based in USA and is located at in the state of Delaware is 2711 Centerville Road, Suite 400 inthe city of Wilmington, county of New Castle, zip code 19808.OnlineInvoices protects your privacy 
+    * OnlineInvoices is committed to protecting your privacy in accordance with the highest consumer protection standards.
+    * Our privacy policy is designed with you in mind, and it is integral that you have a comprehensive understanding of our information collection and usage practices, as well as full confidence that ultimately, you have control of your personal information provided to OnlineInvoices. In summary, while you should read each provision in this Privacy Policy, you note that by using the OnlineInvoices web site: 
+      * A. You agree that if you disclose your personal information to us, we may create a database record about you;
+      * B. If you register on our website, download any materials or conduct any other transaction, you agree for us to collect information necessary to provide you with the service you have requested, and you agree that this information may be disclosed to service partners (who may be third parties) for those purposes;
+      * C. You agree for us to use cookies on your browser (unless you remove them);
+      * D. You agree that we can contact you with information about products and services which may be of interest to you (unless you have stated you do not wish to receive these communications); and
+      * E. Your continued use of the OnlineInvoices web site indicates your agreement with any future changes in the OnlineInvoices Privacy Policy
+  2. ### 2\. What information is collected and how do we use it?
 
 OnlineInvoices will not collect or monitor any personal information about you without your consent. The only personal information we collect is what you tell us about yourself and information about how you use our web site. OnlineInvoices collects information from you at several different points on the site:
 
-    1. ##### New Account Registration
+    1. ##### A. New Account Registration
 
 ###### What information is collected?
 
@@ -36,15 +34,15 @@ We collect the above information for the following purposes:
       1. To identify you when you use our site in order to enjoy a customized and personalised experience.
       2. To present you with a default screen layout based on the country of location you select.
       3. As a security measure, to send you an email confirming your account registration.
-      4. To allow us to process and complete your accounting transactions.
-      5. To allow you to enjoy convenience whenever you make accounting transactions as you will not have to type the billing information repeatedly.
-      6. To send you email confirmations for accounting transactions on OnlineInvoices.
+      4. To allow us to process and complete your purchases.
+      5. To allow you to enjoy convenience whenever you make purchases as you will not have to type the billing information repeatedly.
+      6. To send you email confirmations for actions on OnlineInvoices.
       7. To further confirm your identity.
       8. To prevent credit card fraud.
       9. For our customer service agents to contact you when necessary.
       10. To send you our optional periodical updates and/or newsletters, if you have signed up for them.
       11. To send you information about products and services which may be of interest to you.
-    2. ##### Online Surveys
+    2. ##### B. Online Surveys
 
 ###### What information is collected?
 
@@ -52,11 +50,9 @@ From time to time, OnlineInvoices may conduct market research surveys either by 
 
 ###### Why do we collect it?
 
-OnlineInvoices conducts market research surveys in order to learn from you how improvements can be made to our site
+OnlineInvoices conducts market research surveys in order to learn from you how improvements can be made to our site To send you information about products and services which may be of interest to you. 
 
-To send you information about products and services which may be of interest to you.
-
-    3. ##### Customer Contact
+    3. ##### C. Customer Contact
 
 ###### What information is collected?
 
@@ -65,8 +61,8 @@ You may choose to provide feedback to OnlineInvoices, for example through email 
 ###### Why do we collect it?
 
       1. The feedback that you choose to provide is valuable in helping OnlineInvoices make improvements to our service to you. In order to follow-up on the feedback you have chosen to provide, OnlineInvoices may correspond with you using the contact information that you have provided.
-      2. To send you information about products and services which may be of interest to you.
-    4. ##### Cookies
+      2. To send you information about products and services which may be of interest to you. 
+    4. ##### D. Cookies
 
 ###### What information is collected?
 
@@ -77,35 +73,43 @@ When you visit OnlineInvoices as a Guest or account holder, a cookie is stored o
 Cookies, when stored on your computer, facilitate the following:
 
       1. Cookies allow us to save passwords and preferences for you so that you will not have to re-enter them the next time you visit. This means you will be able to enjoy conveniences such as login without having to type your login name every time you visit OnlineInvoices.
-      2. OnlineInvoices will be able to make improvements to our site based on the aggregated usage statistics collected from cookies. These aggregated usage statistics are anonymous to third parties, and may also be used by OnlineInvoices’s third party advertising companies in monitoring the effectiveness of advertisements.
-    5. ##### Other Computer Information
+      2. OnlineInvoices will be able to make improvements to our site based on the aggregated usage statistics collected from cookies. These aggregated usage statistics are anonymous to third parties, and may also be used by OnlineInvoices’s third party advertising companies in monitoring the effectiveness of advertisements. 
+    5. ##### E. Other Computer Information
 
 ###### What information is collected?
 
 Session information such as IP (Internet Protocol) addresses, browser types, operating systems are also used for OnlineInvoices’s system administration.
 
-###### Why do we collect it?
+###### Why do we collect it? 
 
-Session information will allow us to enhance your experience on OnlineInvoices by allowing us to troubleshoot technical issues as well as to improve our site usability.
+Session information will allow us to enhance your experience on OnlineInvoices by allowing us to troubleshoot technical issues as well as to improve our site usability. 
 
-  4. ### Who do we share your information with?
+  3. ### 3\. Who do we share your information with?
 
-    1. OnlineInvoices is the owner of the information collected on this site. We do not sell or rent individual personal information to third parties and have no intention to do so in the future.
-    2. We may disclose your personal information on occasion to third parties who work with us. Some of these third parties may be located outside your home country, or outside of Austraila. The information will be protected in a manner that is consistent with this Privacy Policy. Disclosure will be made in the following scenarios for the following purposes: 
-      1. ##### When third parties perform services on behalf of OnlineInvoices
+A. OnlineInvoices is the owner of the information collected on this site. We do not sell or rent individual personal information to third parties and have no intention to do so in the future.
 
-In our efforts to continually improve our site, OnlineInvoices may employ the services of third party companies to perform projects such as market research surveys on our behalf.
+B. We may disclose your personal information on occasion to third parties who work with us. Some of these third parties may be located outside your home country, or outside of USA. The information will be protected in a manner that is consistent with this Privacy Policy. Disclosure will be made in the following scenarios for the following purposes:
 
-      2. When required by law to disclose the information
-      3. With your prior express consent
-      4. To protect the rights and property of OnlineInvoices
-      5. To enable third parties to send you information about products and services which may be of interest to you
-    3. Links may be present on the OnlineInvoices site which result in you leaving the OnlineInvoices site and being taken to other third party web sites. You should note that any information that you provide to these third party web sites are not subject to the OnlineInvoices privacy policy, and we strongly recommend that you be aware of their privacy and security policies.
-    4. OnlineInvoices may also work with third parties that serve ads to this site. Information that may be disclosed to such third parties will be anonymous.
-    5. You should also note that the processing of information on the OnlineInvoices site and the transmission of transaction messages relating to accounting transactions, including your account related data, may involve transmissions over various networks (which may not be secure) and to various countries and further processing and storage of data in such countries.
-  5. ### You have control over your information!
+    1. ###### When you make purchases on OnlineInvoices
 
-    1. ##### Opt In and Opt Out Policy
+To successfully complete your purchases or otherwise implement our terms of service, your personal information is provided as needed to OnlineInvoices’s third party product and service providers or other third parties authorised by OnlineInvoices, if any. 
+    2. ###### When third parties perform services on behalf of OnlineInvoices
+
+In our efforts to continually improve our site, OnlineInvoices may employ the services of third party companies to perform projects such as market research surveys on our behalf. 
+    3. When required by law to disclose the information
+    4. With your prior express consent
+    5. To protect the rights and property of OnlineInvoices
+    6. To enable third parties to send you information about products and services which may be of interest to you
+
+C. Links may be present on the OnlineInvoices site which result in you leaving the OnlineInvoices site and being taken to other third party web sites. You should note that any information that you provide to these third party web sites are not subject to the OnlineInvoices privacy policy, and we strongly recommend that you be aware of their privacy and security policies.
+
+D. OnlineInvoices may also work with third parties that serve ads to this site. Information that may be disclosed to such third parties will be anonymous.
+
+E. You should also note that the processing of information on the OnlineInvoices site and the transmission of transaction messages relating to purchases, including your account related data, may involve transmissions over various networks (which may not be secure) and to various countries and further processing and storage of data in such countries.
+
+  4. ### 4\. You have control over your information!
+
+##### A. Opt In and Opt Out Policy
 
 You always have the option to opt in to participate in OnlineInvoices’s product and service offers. For example, you will be given the option to subscribe to OnlineInvoices’s newsletters by checking the box.
 
@@ -113,25 +117,25 @@ While OnlineInvoices hopes that you benefit from our product and service offers,
 
 We offer you the ability to opt out of receiving information of our products and services at the point of collection, or by accessing and changing your account information. Please allow some time for this request to be processed.
 
-    2. ##### Accessing your information and retention of information
+##### B. Accessing your information and retention of information
 
 You may at any time access and change your account or personal information or subscribed services. You can easily access your personal information if you login to your account with OnlineInvoices, or you can follow the links that may be provided within our subscription emails to you to manage your subscription preferences. Although we will take reasonable steps to keep your information accurate, complete and up-to-date, we request that you keep your information as current as possible so that we may continue to improve our service to you.
 
 We will only withhold your access to such information in extremely limited circumstances where it is permitted by law, such as:
 
-      1. where it might be dangerous if you were to have it;
-      2. where it might prejudice an investigation currently underway;
-      3. where it relates to court proceedings and may be subject to the discovery process;
-      4. where it may relate to a commercially sensitive decision-making process; or
-      5. where other individuals’ personal information is contained in the same record.
+    1. where it might be dangerous if you were to have it;
+    2. where it might prejudice an investigation currently underway;
+    3. where it relates to court proceedings and may be subject to the discovery process;
+    4. where it may relate to a commercially sensitive decision-making process; or
+    5. where other individuals’ personal information is contained in the same record.
 
 OnlineInvoices may (but is not obliged to) retain your information for a period of 7 years from the date you last accessed your account.
 
-    3. ##### Minors
+#####  C. Minors
 
 As we cannot distinguish the age of persons who access our site, a blanket privacy policy is applied. OnlineInvoices does not intent nor does it seek to receive any personal information from minors. Should a parent or guardian have reason to believe that a minor has provided OnlineInvoices with personal information without their prior consent, please contact us to ensure that the information is removed and unsubscribe them from any promotional contact opportunities.
 
-    4. ##### Security
+##### D. Security
 
 OnlineInvoices has implemented technology and security features to safeguard the privacy of your personal information. A secure server protects your personal information. Additionally, with OnlineInvoices, you can be assured that the information you provide to OnlineInvoices is transmitted using Secure Socket Layer (SSL) encryption. If you become aware of any security breach, please let us know as soon as possible.
 
@@ -141,15 +145,15 @@ OnlineInvoices will endeavour to take all reasonable steps to keep secure any in
 
 Please note also that OnlineInvoices may use overseas facilities to process or back up its information. As a result, we may transfer and store your personal information to our overseas facilities. However, this does not change any of our commitments to safeguard your privacy.
 
-    5. ##### Keep your password safe
+##### E. Keep your password safe
 
-You can play your part in safeguarding your personal information by never disclosing your Login password or account information to anybody. Whenever you login as a member on OnlineInvoices, particularly on somebody else’s computer or on public internet terminals, you should always logout at the end of your session. Your assistance will help us protect the privacy of your personal information.
+You can play your part in safeguarding your personal information by never disclosing your Login password or account information to anybody. Whenever you login as a member on OnlineInvoices, particularly on somebody else’s computer or on public internet terminals, you should always logout at the end of your session. Your assistance will help us protect the privacy of your personal information. OnlineInvoices cannot be held responsible for lapses in security caused by third party accesses to information as a result of your failure to keep your personal information private. Please notify us immediately if there is any unauthorised use of your account by any other internet user or any other breach of security.
 
-OnlineInvoices cannot be held responsible for lapses in security caused by third party accesses to information as a result of your failure to keep your personal information private. Please notify us immediately if there is any unauthorised use of your account by any other internet user or any other breach of security.
-
-    6. ##### Changes to the OnlineInvoices Privacy Policy
+##### F. Changes to the OnlineInvoices Privacy Policy
 
 OnlineInvoices may amend this Policy from time to time. If we make any substantial changes in any way we use your personal information, we will notify you by posting a prominent announcement on our web pages or by way of an e-mail and you will have a choice as to whether or not we may use the information in this different manner.
 
 
 
+
+#### Thank you for taking the time to understand the OnlineInvoices Privacy Policy.
