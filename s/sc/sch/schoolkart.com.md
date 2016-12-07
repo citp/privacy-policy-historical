@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the schoolkart.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604080246id_/http%3A//www.schoolkart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolkart.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207111336id_/http%3A//www.schoolkart.com/privacy-policy) for the most accurate reproduction.*
 
-# Schoolkart | Buy School Uniforms, Stationery, Sporting Goods, Reference Books Privacy Policy
+# Privacy Policy
 
 **We protect your privacy:  **Our privacy policy is simple and transparent: any information you share with us, stays with us. We do not rent, sell, lend, or otherwise distribute your personal information to anyone for any reason. This includes your contact information, as well as specific order information. We limit data access to those who really need to know. Within our organization, your personal data is accessible to only a limited number of employees with special access privileges. Although we may, from time to time, compile general demographic information based on your order, this information is shared within our organization only and has no identifiable personal data associated with it.
 
