@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatesummit.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515233911id_/http%3A//affiliatesummit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatesummit.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207212422id_/http%3A//affiliatesummit.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Affiliate Summit
 
