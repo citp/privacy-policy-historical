@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sylvan.net privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515010412id_/http%3A//www.sylvanlearning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sylvan.net privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207043812id_/http%3A//www.sylvanlearning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sylvan Learning
 
@@ -38,7 +38,7 @@ Last updated April 6, 2016
 
 ## Legal Information
 
-**Sylvan Learning, LLC** is a Delaware limited liability company with its principal place of business at 1001 Fleet Street, Baltimore, Maryland 21202 USA ("Sylvan") and is the owner and operator of [www.sylvanlearning.com](http://www.sylvanlearning.com/) and other websites, mobile applications and other distribution channels Sylvan designates from time to time (collectively, “Sites”).  Sylvan is committed to protecting the online privacy of visitors to the Sites.  
+**Sylvan Learning, LLC** is a Delaware limited liability company with its principal place of business at 4 North Park Drive, Suite 500, Hunt Valley, MD 21030 USA ("Sylvan") and is the owner and operator of [www.sylvanlearning.com](http://www.sylvanlearning.com/) and other websites, mobile applications and other distribution channels Sylvan designates from time to time (collectively, “Sites”).  Sylvan is committed to protecting the online privacy of visitors to the Sites.  
 
 This Privacy Policy (“Policy”) discloses the privacy practices for the Sites.  This Policy applies solely to information collected by Sylvan and its subsidiaries, its affiliates, and its franchisees via the Sites.  This Policy will notify you of the following:
 
@@ -133,7 +133,7 @@ _E. Business Transactions Involving Sylvan_ – Sylvan may buy other entities or
 _  
 F. Aggregate Information_ – We may disclose aggregate information, such as demographic information and our statistical analyses of such demographic information, to third parties, including advertisers or other business partners. This aggregate information is not linked to any personally identifiable information.    
 _  
-G. Other Disclosures_ – We may disclose personally identifiable information when we are required or requested to do so by law or legal process, court order or other government or law enforcement authority or regulatory agency; to enforce or apply our rights, agreements, and policies, including but not limited to this Policy and/or our [Terms of Use](https://web.archive.org/web/20160515010412id_/http%3A//www.sylvanlearning.com/cbd42005-fbf8-6fc3-aa53-ff0100839c08); and when we believe in good faith that disclosing this information is necessary or advisable, including, for example, to protect the rights, property, or safety of Sylvan, our users, or others.
+G. Other Disclosures_ – We may disclose personally identifiable information when we are required or requested to do so by law or legal process, court order or other government or law enforcement authority or regulatory agency; to enforce or apply our rights, agreements, and policies, including but not limited to this Policy and/or our [Terms of Use](https://web.archive.org/web/20161207043812id_/http%3A//www.sylvanlearning.com/cbd42005-fbf8-6fc3-aa53-ff0100839c08); and when we believe in good faith that disclosing this information is necessary or advisable, including, for example, to protect the rights, property, or safety of Sylvan, our users, or others.
 
 3\. Security \- The security of your personally identifiable information is important to us. We maintain physical, electronic, and procedural safeguards to secure your personally identifiable information.  However, there is always some risk in transmitting information electronically.  The Personal Information we collect is stored by us or by our third-party designees within databases that we or our third-party designees control.  As we deem appropriate, we use security measures consistent with industry standards, such as firewalls and encryption technology, to protect your information.  For example, when our third party payment processor asks users to enter sensitive information (such as a credit card number) in connection with making a payment, that information is encrypted.  However, we cannot guarantee the security of our or our third-party designees' databases, nor can we guarantee that information you supply won't be intercepted while being transmitted to us or our third-party designees over the Internet or that information we share with others as permitted by this Policy will always be held secure by them.
 
@@ -178,16 +178,16 @@ Changes to the Policy will take effect as soon as they are posted as described a
 
 Sylvan Learning, LLC  
 Attn: Privacy Officer  
-1001 Fleet Street  
-Baltimore, MD 21202
+4 North Park Drive, Suite 500  
+Hunt Valley, MD 21030
 
 11\. CASL Contact Information - As required under CASL, Contact Information for Sylvan, its affiliate companies, and its franchisees is:
 
 #### SYLVAN:
 
 Sylvan Learning, LLC  
-1001 Fleet Street  
-Baltimore, MD 21202 USA  
+4 North Park Drive, Suite 500  
+Hunt Valley, MD 21030  
 [www.sylvanlearning.com](http://www.sylvanlearning.com/)   
 [SLCInformationDesk@sylvanlearning.com](mailto:slcinformationdesk@sylvanlearning.com)
 
