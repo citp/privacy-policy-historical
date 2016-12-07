@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bugcomic.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608013216id_/http%3A//www.bugmartini.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugcomic.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207060350id_/http%3A//www.bugmartini.com/privacy-policy) for the most accurate reproduction.*
 
 # Bug Martini » Privacy Policy
 
-## Bug Martini Privacy Policy
+[et_pb_section admin_label=”section” transparent_background=”off” background_color=”#afdb84″ allow_player_pause=”off” inner_shadow=”off” parallax=”off” parallax_method=”off” padding_mobile=”on” make_fullwidth=”off” use_custom_width=”off” width_unit=”on” make_equal=”off” use_custom_gutter=”off” custom_padding=”80px|0px|80px|0px” custom_css_main_element=”box-shadow: 0px 1px 6.86px 0.14px rgba(0, 0, 0, 0.16),1.5px 2.598px 4.7px 0.3px rgba(0, 0, 0, 0.24);”][et_pb_row admin_label=”row” make_fullwidth=”off” use_custom_width=”off” width_unit=”on” use_custom_gutter=”off” padding_mobile=”on” allow_player_pause=”off” parallax=”off” parallax_method=”off” make_equal=”off” parallax_1=”off” parallax_method_1=”off” column_padding_mobile=”on” custom_padding=”0px|20px|0px|20px” custom_padding_tablet=”0px|0px|0px|0px” custom_padding_last_edited=”on|phone”][et_pb_column type=”4_4″][et_pb_text admin_label=”Text” background_layout=”light” text_orientation=”left” use_border_color=”off” border_color=”#ffffff” border_style=”solid” background_color=”#ffffff” custom_padding=”40px|40px|40px|40px” custom_css_main_element=”box-shadow: 0px 1px 6.86px 0.14px rgba(0, 0, 0, 0.16),1.5px 2.598px 4.7px 0.3px rgba(0, 0, 0, 0.24);” custom_padding_tablet=”20px|20px|20px|20px” custom_padding_last_edited=”on|desktop”]
 
 Short version: I do not sell or share any personal information with any companies or third parties.
 
@@ -29,3 +29,5 @@ Information is collected via cookies, which may log data regarding your visit su
 You can read the privacy policy for PulsePoint, one of the ad servers publishing ads on this site, [here](http://www.contextweb.com/privacy_policy).
 
 If you have any questions or feedback about this policy, feel free to contact me at bugcomic@gmail.com
+
+[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section]
