@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the airswift.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602085110id_/http%3A//www.airswift.com/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airswift.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207092938id_/http%3A//www.airswift.com/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Airswift
 
 **DATA PROTECTION AND PRIVACY POLICY**  
- **AIRSWIFT – DATA PROTECTION AND PRIVACY POLICY**
+**AIRSWIFT – DATA PROTECTION AND PRIVACY POLICY**
 
 **JANUARY 2016**
 
@@ -32,20 +32,20 @@ This Policy applies only to the actions of Airswift and Users with respect to th
 Without limitation, any of the following Data may be collected by this Website from time to time (and will frequently be collected by your submitting to us a copy of your CV):
 
 **3.1** personal data as defined in the Act;  
- **3.2** sensitive personal data as defined in the Act;
+**3.2** sensitive personal data as defined in the Act;
 
 **4\. Our Use of Data**  
- **4.1** Unless we are obliged or permitted by law to do so, and subject to the remainder of this Clause 4 and Clause 5, your Data will not be disclosed to third parties. This does not include our affiliates and / or other companies within our group.  
- **4.2** All personal Data is stored securely in accordance with the principles of the Act. For more details on security see Clause 11 below.  
- **4.3** Any or all of the above Data may be used by us from time to time in order to provide you with the best possible service. Specifically, Data may be stored, processed, used and disclosed by us for the following reasons and in the following ways:  
- **a)** to provide our recruitment and placement services to you and to facilitate the recruitment and placement processes;  
- **b)** to assess data about you against vacancies which we judge may be suitable for you;  
- **c)** to send your information to clients in order to seek a placement or employment or to assess your eligibility for a placement or employment;  
- **d)** to enable you to submit your CV online for placements or employment;  
- **e)** to answer your questions and enquiries;  
- **f)** to third parties where we have retained them to provide services that you or our client have requested, such as references, qualifications and criminal reference checking services, verification of the details you have provided from third party sources, psychometric evaluation or skill test;  
- **g)** to third parties who perform functions on our behalf and who also provide services to us, such as professional advisors and outsourcing partners, including business development advisers as well as IT consultants carrying out testing and development work on our business technology systems. These third parties comply with similar undertakings of privacy and confidentiality as Airswift; and  
- **h)** to regulatory or law enforcement agencies if we believe in good faith that we are required by law to disclose it in connection with the detection of crime, the collection of taxes or duties, in order to comply with any applicable law or order of a court of competent jurisdiction, or in connection with legal proceedings.
+**4.1** Unless we are obliged or permitted by law to do so, and subject to the remainder of this Clause 4 and Clause 5, your Data will not be disclosed to third parties. This does not include our affiliates and / or other companies within our group.  
+**4.2** All personal Data is stored securely in accordance with the principles of the Act. For more details on security see Clause 11 below.  
+**4.3** Any or all of the above Data may be used by us from time to time in order to provide you with the best possible service. Specifically, Data may be stored, processed, used and disclosed by us for the following reasons and in the following ways:  
+**a)** to provide our recruitment and placement services to you and to facilitate the recruitment and placement processes;  
+**b)** to assess data about you against vacancies which we judge may be suitable for you;  
+**c)** to send your information to clients in order to seek a placement or employment or to assess your eligibility for a placement or employment;  
+**d)** to enable you to submit your CV online for placements or employment;  
+**e)** to answer your questions and enquiries;  
+**f)** to third parties where we have retained them to provide services that you or our client have requested, such as references, qualifications and criminal reference checking services, verification of the details you have provided from third party sources, psychometric evaluation or skill test;  
+**g)** to third parties who perform functions on our behalf and who also provide services to us, such as professional advisors and outsourcing partners, including business development advisers as well as IT consultants carrying out testing and development work on our business technology systems. These third parties comply with similar undertakings of privacy and confidentiality as Airswift; and  
+**h)** to regulatory or law enforcement agencies if we believe in good faith that we are required by law to disclose it in connection with the detection of crime, the collection of taxes or duties, in order to comply with any applicable law or order of a court of competent jurisdiction, or in connection with legal proceedings.
 
 **4.4** From time to time we may seek your consent to process, use or disclose your information for any other purpose not listed above. We may also pass your information to, or allow access to such information to other companies in our group, whose locations can be found at www.airswift.com in order that they may use your personal information in the same way as we process, use and disclose your information as described above.
 
@@ -61,13 +61,13 @@ This Website may, from time to time, provide links to other websites. Airswift h
 **7\. Controlling Use of Your Data**
 
 **7.1** Wherever you are required to submit Data, you will be given options to restrict our use of that Data. This may include the following:  
- **7.1.1** use of Data for direct marketing purposes; and  
- **7.1.2** sharing Data with third parties.
+**7.1.1** use of Data for direct marketing purposes; and  
+**7.1.2** sharing Data with third parties.
 
 **8\. Your Right to Withhold Information**
 
 **8.1** You may access certain areas of the Website without providing any Data at all.  
- **8.2** You may restrict your internet browser’s use of Cookies. For more information see Clause 11.
+**8.2** You may restrict your internet browser’s use of Cookies. For more information see Clause 11.
 
 **9\. Use of Your Data**  
 As highlighted above, the personal information that you provide to us (including sensitive personal information) may be accessible by Airswift, its other group companies, its clients, and the third parties specified above. Some of these group companies, clients and third parties are located outside of the European Economic Area. Accordingly your personal information will be sent to or be capable of being accessed from outside the European Economic Area. When we transfer your personal information outside the European Economic Area we will take steps with the aim of ensuring that your privacy rights continue to be protected as outlined in this Policy.
