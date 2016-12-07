@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seourls.net privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508200016id_/http%3A//www.seourls.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seourls.net privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207010342id_/http%3A//www.seourls.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
