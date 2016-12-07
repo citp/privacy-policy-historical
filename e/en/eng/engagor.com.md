@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the engagor.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323190155id_/https%3A//app.engagor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engagor.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207035355id_/https%3A//app.engagor.com/privacy-policy) for the most accurate reproduction.*
 
-# Engagor | Privacy Policy
+# CX Social | Privacy Policy
 
 _Last Updated August 6th, 2012._
 
