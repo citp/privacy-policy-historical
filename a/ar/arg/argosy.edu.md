@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the argosy.edu privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402202754id_/https%3A//www.argosy.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the argosy.edu privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207035923id_/https%3A//www.argosy.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Argosy University
 
-This policy was last updated on December 20, 2014
+This policy was last updated on November 30, 2016
 
 Argosy University (Argosy University, "we" or "our") is committed to protecting any personal information that we maintain about you. Consistent with our [ Privacy Principles](http://www.edmc.edu/edmc-privacy-principles.aspx), we want you to understand what kinds of information we may collect from you, how this information may be used, the steps we take to protect it, choices you have regarding our use and disclosure of personal information about you, and other information about our privacy practices. This Privacy Policy (this "Policy") applies to the online collection of information by our websites, webpages and mobile applications that link to or otherwise adopt this Policy.
 
@@ -82,7 +82,7 @@ Some Internet browsers have begun to offer what often is referred to as "do not 
 [Firefox](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)  
 [Chrome](https://support.google.com/chrome/answer/95647?hl=en)
 
-You also can opt-out of, or make other choices concerning, the types of third party advertisements that may be targeted to you based on your browser activity by using mechanisms such as the “AdChoices” icon that may appear in advertisements that may appear on some of our sites. You can click on the “AdChoices” icon, where displayed, to exercise the choices available there. Additional information about AdChoices is available at: [www.youradchoices.com.](http://www.youradchoices.com/) Information and opt-out choices for ads placed by Google are available at: [www.google.com/settings/ads](http://www.google.com/settings/ads/anonymous).
+You also can opt-out of, or make other choices concerning, the types of third party advertisements that may be targeted to you based on your browser activity by using mechanisms such as the “AdChoices” icon that may appear in advertisements that may appear on some of our sites. You can click on the [“AdChoices”](https://info.evidon.com/pub_info/13716?v=1&nt=0&nw=false%E2%80%9D%20target=) icon, where displayed, to exercise the choices available there. Additional information about AdChoices is available at: [www.youradchoices.com.](http://www.youradchoices.com/) Information and opt-out choices for ads placed by Google are available at: [www.google.com/settings/ads](http://www.google.com/settings/ads/anonymous).
 
 **How is my information used?**
 
