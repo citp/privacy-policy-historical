@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bumble.com privacy policy that was archived on 2016-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160111134239id_/https%3A//bumble.com/en-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bumble.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207170045id_/https%3A//bumble.com/en-us/privacy) for the most accurate reproduction.*
 
 # Bumble - Privacy
 
@@ -6,7 +6,7 @@ Welcome to the Bumble Privacy Policy ("Policy")! This explains how we collect, s
 
 By downloading and installing our App, you agree that we can collect, transfer, store, disclose and use your information as described in this Policy. Bumble is a global app, and your information will be sent to and used in the United States regardless of the country you reside in, and by downloading our App you consent to such transfer. So please read very carefully!
 
-If you have any questions or comments about this Policy, please feel free to contact us at [feedback@bumble.com](mailto:feedback@bumble.com).
+If you have any questions or comments about this Policy, please feel free to contact us at [feedback@team.bumble.com](mailto:feedback@team.bumble.com).
 
 ## 1\. COLLECTION OF INFORMATION.
 
@@ -23,7 +23,7 @@ When you download the App and create an account ("Account"), we may collect cert
   * Nationality;
   * Photographs;
   * Location; and
-  * Login information and friend lists for social media accounts that you connect to your Bumble Account (this could include, for example, your Google, YouTube, Facebook, Twitter, and Instagram accounts ("Social Media Accounts")).
+  * Login information and friend lists for social media accounts that you connect to your Bumble Account (this could include, for example, your Google, YouTube, Facebook, Twitter, and Instagram accounts ("Social Media Accounts").
 
 
 
@@ -120,7 +120,7 @@ Our policy is to not disclose your Registration Information, except in the limit
 
 **Service Providers** \- We engage certain trusted third parties to perform functions and provide services to us. We may share your Registration Information with these third parties, but only for the purposes of performing these functions and providing such services.
 
- **Law and Harm** \- As we mentioned in the [Terms & Conditions](https://web.archive.org/en-us/terms), we think it is very important that all Bumblers behave whilst using the App and we may preserve or disclose any of your information, including your Registration Information, if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect our rights or property.
+ **Law and Harm** \- As we mentioned in the [Terms & Conditions](https://web.archive.org/en-us/terms), we think it is very important that all Bumblers behave whilst using the App. We will cooperate with all third parties to enforce their intellectual property or other rights. We will also cooperate with law enforcement enquiries from within or outside your country of residence. This may include preserving or disclosing any of your information, including your Registration Information, if we believe in good faith that it is necessary to comply with a law or regulation, or when we believe that disclosure is necessary to comply with a judicial proceeding, court order, or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect our rights or property or those of third parties. In such cases we may raise or waive any legal objection or right available to us.
 
  **Business Transfers** \- In the event that Bumble or any of our affiliates are involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction.
 
@@ -128,7 +128,7 @@ Our policy is to not disclose your Registration Information, except in the limit
 
 ## 4\. WHAT OTHERS MAY SEE ABOUT YOU.
 
-We think our Bumblers are awesome, and we want you to share how awesome you are with the world, so we have built certain features to enable this. Our App is designed to make it easier for you to connect with other Users and to interact with them. You might share information like the photos and messages you send or upload and any metadata provided with those messages, along with any comments or information you provide in connection with your photos.
+We think our Bumblers are awesome, and we want you to share how awesome you are with the world, so we have built certain features to enable this. Our App is designed to make it easier for you to connect with other Users and to interact with them. If you register or login to the App using your Facebook account, you are authorizing us to access certain Facebook account information, including information you make available via Facebook, your friends list, relationship status, current location and those friends you have in common with other Bumblers. You also understand that your Bumble profile and other information you make available via the App, including information you provide directly or indirectly through Facebook (i.e., your Facebook photos, your name, age, approximate location, friends you have in common with other Bumblers and other profile information), may be viewed and shared by Bumblers with individuals who may or may not be Users or via third party applications in such Bumblers’ discretion. For example, a User may recommend you as a match to his or her Facebook friends by sharing your picture, regardless of whether such friend(s) is also a User of the App. You might share information like the photos and messages you send or upload and any metadata provided with those messages, along with any comments or information you provide in connection with your photos.
 
 When using Bumble, you should assume that **anything** you post or submit on the App may be publicly-viewable and accessible, both by Users of the App and non-Users of the App. Before you post this information, be aware that this content may be searchable by search engines – nothing gets past those guys! We want our Bumblers to be careful about posting information that will eventually be made public.
 
@@ -146,11 +146,9 @@ Removed and deleted information may persist in backup copies for up to 30 days t
 
 ## 6\. OUR POLICY TOWARDS AGE.
 
-Although we want as many people as possible to enjoy our creation, you have to be at least 15 years old to use the App - sorry kids, we know Bumble is cool, but you'll have to come back when you're old enough! 
+Although we want as many people as possible to enjoy our creation, you have to be at least 18 years old to use the App - sorry kids, we know Bumble is cool, but you'll have to come back when you're old enough! 
 
-Our policy is to not market to children, minors or anyone under the age of 15. If you are less than 15 years old, we request that you do not submit information to us. If we become aware that a child, minor or anyone under the age of 15 has registered with us and provided us with personal information, we will take steps to terminate that person's registration and delete their Registration Information from Bumble. If we do delete a profile because you violated our no children rules, we may retain your email and IP address to ensure that you do not try to get around our rules by creating a new profile.
-
-If you are between the ages of 15 - 17 years of age, you will not be able to chat or share photos with anyone outside of that age bracket. If you are 18 years old or over, we do not permit you to start new conversations or share photos with anyone younger than 18.
+Our policy is to not market to children, minors or anyone under the age of 18. If you are less than 18 years old, we request that you do not submit information to us. If we become aware that a child, minor or anyone under the age of 18 has registered with us and provided us with personal information, we will take steps to terminate that person's registration and delete their Registration Information from Bumble. If we do delete a profile because you violated our no children rules, we may retain your email and IP address to ensure that you do not try to get around our rules by creating a new profile.
 
 ## 7\. CHANGES TO THIS POLICY.
 
@@ -186,9 +184,9 @@ We only use the APIs, OAuth Tokens, Widgets, or other means provided by the appl
 
 ## 10\. YOUR CALIFORNIA PRIVACY RIGHTS.
 
-California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. If you wish to find out about any rights you may have under California Civil Code section 1798.83, you can write to us at [feedback@bumble.com](mailto:feedback@bumble.com).
+California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. If you wish to find out about any rights you may have under California Civil Code section 1798.83, you can write to us at [feedback@team.bumble.com](mailto:feedback@team.bumble.com).
 
-From time to time we may disclose your contact information to third parties to allow them to market their products or services to you or for other marketing purposes. This may be information we received from you offline and online. If you want us to stop further sharing your email contact information with third parties (if we have your email contact information), you may notify us at [feedback@bumble.com](mailto:feedback@bumble.com). Please follow the instructions provided to you by third parties to unsubscribe from their messages. If you have opted-out as described above, and thereafter you chose to use a service or promotion that requires us to contact you or share your information with a third party, then your previous opt-out preferences will not apply to such service. 
+From time to time we may disclose your contact information to third parties to allow them to market their products or services to you or for other marketing purposes. This may be information we received from you offline and online. If you want us to stop further sharing your email contact information with third parties (if we have your email contact information), you may notify us at [feedback@team.bumble.com](mailto:feedback@team.bumble.com). Please follow the instructions provided to you by third parties to unsubscribe from their messages. If you have opted-out as described above, and thereafter you chose to use a service or promotion that requires us to contact you or share your information with a third party, then your previous opt-out preferences will not apply to such service. 
 
 In addition, under California law, operators of online services are required to disclose how they respond to "do not track" signals or other similar mechanisms that provide consumers the ability to exercise choice regarding the collection of personal information of a consumer over time and across third party online services, to the extent the operator engages in that collection. At this time, we do not track our Users' personal information over time and across third-party online services. This law also requires operators of online services to disclose whether third parties may collect personal information about their users' online activities over time and across different online services when the users use the operator's service. We do not knowingly permit third parties to collect personal information about an individual User's online activities over time and across different online services when using the App.
 
@@ -202,4 +200,4 @@ Thanks for reading, we hope we didn't drone on for too long!
 
 ### Effective date
 
-This Privacy Policy was last updated on 19 November 2015.
+This Privacy Policy was last updated on 22 September 2016.
