@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the nutmeg.com privacy policy that was archived on 2016-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160116090431id_/https%3A//www.nutmeg.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutmeg.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207212025id_/http%3A//www.nutmeg.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nutmeg - Nutmeg
 
 ## Privacy Policy
 
-This privacy policy sets out how Nutmeg Saving & Investment Limited, trading as Nutmeg, uses and protects any information that you give Nutmeg when you use this website.
+This privacy policy sets out how Nutmeg Saving & Investment Limited, trading as Nutmeg, uses and protects any information that you give Nutmeg.
 
-Nutmeg is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Nutmeg is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy policy.
 
-Nutmeg may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 19 August 2011.
+Nutmeg may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 30 August 2016.
 
   
 
@@ -25,6 +25,8 @@ We may collect the following information:
 
   * Other information relevant to customer surveys and/or offers
 
+  * Device information, if you use a Nutmeg mobile app
+
 
   
 
@@ -37,9 +39,11 @@ We require this information to understand your needs and provide you with a bett
 
   * We may use the information to improve our products and services.
 
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * We may periodically send promotional messages about new products, special offers or other information which we think you may find interesting using the contact information which has been provided to us.
 
   * From time to time, we may also use your information to contact you for market research purposes.  We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+
+  * From time to time, we may send customer data to third party companies with whom Nutmeg has a legal relationship, so that Nutmeg can analyse the impact of its products and services. Nutmeg will not sell any confidential customer data to third parties.
 
 
   
@@ -47,7 +51,50 @@ We require this information to understand your needs and provide you with a bett
 
 ###  Security 
 
-We are committed to ensuring that your information is secure.  In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+We are committed to ensuring that your information is secure.  In order to prevent unauthorised access or disclosure, we have put in place physical, electronic and managerial procedures to safeguard and secure the information we collect.
+
+**Sophisticated encryption**   
+When you use Nutmeg’s website or mobile app, data is transferred from your device to us. We use advanced encryption technology to keep your data secure. 
+
+**Automated logout**   
+You will automatically be logged out of Nutmeg’s website or mobile app if you are inactive for a prolonged period of time. 
+
+**Fraud**   
+Nutmeg has robust fraud screening processes to mitigate and detect fraud. 
+
+**Authentication**   
+Nutmeg’s mobile apps are protected by a passcode. Nutmeg’s iOS app is compatible with Apple Touch ID. 
+
+  
+
+
+### Recommendations
+
+There is also a lot that you can do to help us keep your account safe. We recommend that you take the following actions:
+
+**Password and Passcode**   
+Do not give your device security details, including any passwords or passcodes, to anyone else and don't store them on your device. Get in touch with us as soon as possible if you feel someone may know your login details or if you lose your device. We can then stop the service to your device. 
+
+For added security, we recommend you should set up a passcode to access your mobile device. This option can usually be found under the Settings menu on your device.
+
+**Your handset**   
+Don't leave your device unattended when logged on and watch out for people looking over your shoulder. Think carefully before jail-breaking or rooting your device. We advise against doing this as it may weaken the security of your device and expose you to additional risks.
+
+If possible, keep your mobile device’s operating system updated with the latest security patches and upgrades. Older software may have security vulnerabilities that could expose you to additional risks. You may also want to consider using a reputable brand of anti-virus software on your mobile banking device.
+
+**When Nutmeg contacts you**   
+We will never contact you to ask you to disclose your security credentials. Be cautious about opening links contained in SMS messages or emails and beware of phishing scams. 
+
+If you use Nutmeg’s mobile app, we recommend that you take these additional measures:
+
+**Passcode and TouchID**   
+Your Nutmeg app is protected by a passcode. We recommend that if you use Nutmeg’s iOS app, you use Apple Touch ID with the app. 
+
+**App store**   
+Only download mobile apps from official app stores. 
+
+**Push notifications**   
+If you choose to receive push notifications on your device, please be vigilant about who might be able to view the notifications when they appear on your device lock screen. 
 
   
 
