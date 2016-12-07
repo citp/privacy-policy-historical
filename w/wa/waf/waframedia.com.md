@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the waframedia.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624213236id_/http%3A//www.waframedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waframedia.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207115109id_/http%3A//www.waframedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Wafra media
+# Wafra Media Privacy Policy – WafraMedia
 
-> YOU ACKNOWLEDGE AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS THE GENERAL TERMS AND CONDITIONS BETWEEN YOU AND THE COMPANY AND THIS SITE (INCLUDING LIMITATIONS ON DAMAGES).
+### WAFRA MEDIA PRIVACY POLICY
 
-#####  Wafra Media | Global Privacy Policy
+> YOU ACKNOWLEDGE AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS THE GENERAL TERMS AND CONDITIONS BETWEEN YOU AND THE COMPANY AND THIS SITE (INCLUDING LIMITATIONS ON DAMAGES). 
+
+##### Wafra Media | Global Privacy Policy
 
 Wafra Media (the “Company” or “We”) is committed to protect the privacy of users who access its Website (the “Site”). This Privacy Policy Statement (the “Privacy Policy”) explains the types of information we gather and what we do with it. By using the Site, you agree to the terms and policies described in this Privacy Policy.
 
