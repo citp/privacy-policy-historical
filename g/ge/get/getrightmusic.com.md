@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getrightmusic.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610194331id_/http%3A//www.getrightmusic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getrightmusic.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207235900id_/http%3A//www.getrightmusic.com/privacy-policy) for the most accurate reproduction.*
 
 # Get Right Music
 
