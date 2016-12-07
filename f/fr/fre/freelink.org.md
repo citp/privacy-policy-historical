@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelink.org privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612183355id_/http%3A//www.freelink.org/privpolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelink.org privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207150815id_/http%3A//www.freelink.org/privpolicy.html) for the most accurate reproduction.*
 
 # Freelink.Org Privacy Policy
 
