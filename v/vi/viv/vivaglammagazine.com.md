@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vivaglammagazine.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629184419id_/http%3A//vivaglammagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivaglammagazine.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207133814id_/http%3A//vivaglammagazine.com/privacy) for the most accurate reproduction.*
 
-# Privacy – VIVA GLAM MAGAZINE
+# Privacy - VIVA GLAM MAGAZINE
+
+[](http://shareasale.com/r.cfm?b=876686&u=1241128&m=56633&urllink=&afftrack=)
 
 Protecting your private information is our priority. This Statement of Privacy applies to the www.vivaglammagazine.com and Viva Glam Magazine and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Viva Glam Magazine include www.vivaglammagazine.com and VGM. The VGM website is a Online Magazine site. By using the VGM website, you consent to the data practices described in this statement.
 
@@ -36,7 +38,7 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
 
 **3rd Party Companies**
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>  
 Security of your Personal Information
 
 To secure your personal information from unauthorized access, use or disclosure, VGM uses the following:
