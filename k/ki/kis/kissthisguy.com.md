@@ -1,48 +1,48 @@
-> *The following text is extracted and transformed from the kissthisguy.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605024804id_/http%3A//www.kissthisguy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissthisguy.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207062300id_/http%3A//www.kissthisguy.com/privacy.php) for the most accurate reproduction.*
 
 # KissThisGuy.com Privacy Notice
 
 ## Latest Misheard Stories
 
-### Artist: [2147](https://web.archive.org/web/20160605024804id_/http%3A//www.kissthisguy.com/dont-eat-the-fruit-in-the-garden-eden-misheard-48385.htm)
+### Artist: [2147](https://web.archive.org/web/20161207062300id_/http%3A//www.kissthisguy.com/dont-eat-the-fruit-in-the-garden-eden-misheard-48385.htm)
 
-### Song: [Eve](https://web.archive.org/web/20160605024804id_/http%3A//www.kissthisguy.com/dont-eat-the-fruit-in-the-garden-eden-misheard-48385.htm)
+### Song: [Eve](https://web.archive.org/web/20161207062300id_/http%3A//www.kissthisguy.com/dont-eat-the-fruit-in-the-garden-eden-misheard-48385.htm)
 
 **The Story:** Don't eat the fruit in the garden, Eden,, It wasn't in God's natural plan., You were only a rib,, And look at what you did,, To Adam, the father of Man.
 
-[Continue Reading...](https://web.archive.org/web/20160605024804id_/http%3A//www.kissthisguy.com/dont-eat-the-fruit-in-the-garden-eden-misheard-48385.htm)
+[Continue Reading...](https://web.archive.org/web/20161207062300id_/http%3A//www.kissthisguy.com/dont-eat-the-fruit-in-the-garden-eden-misheard-48385.htm)
 
-### Artist: [1021](https://web.archive.org/web/20160605024804id_/http%3A//www.kissthisguy.com/you-smell-like-goat-ill-see-you-in-hell-misheard-48384.htm)
+### Artist: [1021](https://web.archive.org/web/20161207062300id_/http%3A//www.kissthisguy.com/you-smell-like-goat-ill-see-you-in-hell-misheard-48384.htm)
 
-### Song: [You Can't Quit Me Baby](https://web.archive.org/web/20160605024804id_/http%3A//www.kissthisguy.com/you-smell-like-goat-ill-see-you-in-hell-misheard-48384.htm)
+### Song: [You Can't Quit Me Baby](https://web.archive.org/web/20161207062300id_/http%3A//www.kissthisguy.com/you-smell-like-goat-ill-see-you-in-hell-misheard-48384.htm)
 
 **The Story:** You smell like goat, I'll see you in hell
 
-[Continue Reading...](https://web.archive.org/web/20160605024804id_/http%3A//www.kissthisguy.com/you-smell-like-goat-ill-see-you-in-hell-misheard-48384.htm)
+[Continue Reading...](https://web.archive.org/web/20161207062300id_/http%3A//www.kissthisguy.com/you-smell-like-goat-ill-see-you-in-hell-misheard-48384.htm)
 
-### Artist: [306](https://web.archive.org/web/20160605024804id_/http%3A//www.kissthisguy.com/all-the-b-h-had-said-all-been-washed-misheard-48383.htm)
+### Artist: [306](https://web.archive.org/web/20161207062300id_/http%3A//www.kissthisguy.com/all-the-b-h-had-said-all-been-washed-misheard-48383.htm)
 
-### Song: [Sarah](https://web.archive.org/web/20160605024804id_/http%3A//www.kissthisguy.com/all-the-b-h-had-said-all-been-washed-misheard-48383.htm)
+### Song: [Sarah](https://web.archive.org/web/20161207062300id_/http%3A//www.kissthisguy.com/all-the-b-h-had-said-all-been-washed-misheard-48383.htm)
 
 **The Story:** All the b***h had said, all been washed in black
 
-[Continue Reading...](https://web.archive.org/web/20160605024804id_/http%3A//www.kissthisguy.com/all-the-b-h-had-said-all-been-washed-misheard-48383.htm)
+[Continue Reading...](https://web.archive.org/web/20161207062300id_/http%3A//www.kissthisguy.com/all-the-b-h-had-said-all-been-washed-misheard-48383.htm)
 
-### Artist: [156](https://web.archive.org/web/20160605024804id_/http%3A//www.kissthisguy.com/and-my-blunt-is-my-ho-now-156-misheard-48382.htm)
+### Artist: [156](https://web.archive.org/web/20161207062300id_/http%3A//www.kissthisguy.com/and-my-blunt-is-my-ho-now-156-misheard-48382.htm)
 
-### Song: [The Prisoner](https://web.archive.org/web/20160605024804id_/http%3A//www.kissthisguy.com/and-my-blunt-is-my-ho-now-156-misheard-48382.htm)
+### Song: [The Prisoner](https://web.archive.org/web/20161207062300id_/http%3A//www.kissthisguy.com/and-my-blunt-is-my-ho-now-156-misheard-48382.htm)
 
 **The Story:** And my blunt is my ho now
 
-[Continue Reading...](https://web.archive.org/web/20160605024804id_/http%3A//www.kissthisguy.com/and-my-blunt-is-my-ho-now-156-misheard-48382.htm)
+[Continue Reading...](https://web.archive.org/web/20161207062300id_/http%3A//www.kissthisguy.com/and-my-blunt-is-my-ho-now-156-misheard-48382.htm)
 
-### Artist: [246](https://web.archive.org/web/20160605024804id_/http%3A//www.kissthisguy.com/at-home-drawing-pictures-of-mounds-of-misheard-48381.htm)
+### Artist: [246](https://web.archive.org/web/20161207062300id_/http%3A//www.kissthisguy.com/at-home-drawing-pictures-of-mounds-of-misheard-48381.htm)
 
-### Song: [Jeremy](https://web.archive.org/web/20160605024804id_/http%3A//www.kissthisguy.com/at-home-drawing-pictures-of-mounds-of-misheard-48381.htm)
+### Song: [Jeremy](https://web.archive.org/web/20161207062300id_/http%3A//www.kissthisguy.com/at-home-drawing-pictures-of-mounds-of-misheard-48381.htm)
 
 **The Story:** At home, drawing pictures, Of mounds of tots, With ham on top
 
-[Continue Reading...](https://web.archive.org/web/20160605024804id_/http%3A//www.kissthisguy.com/at-home-drawing-pictures-of-mounds-of-misheard-48381.htm)
+[Continue Reading...](https://web.archive.org/web/20161207062300id_/http%3A//www.kissthisguy.com/at-home-drawing-pictures-of-mounds-of-misheard-48381.htm)
 
 ## Privacy Policy
 
@@ -88,7 +88,7 @@ The continuation of the policy below address additional personally identifiable 
 ### Your Choices
 
   * You may, of course, decline to submit personally identifiable information to KissThisGuy or affiliated sites, in which case you can still view our content and explore (surf) the site(s), but KissThisGuy and affiliates may not be able to provide certain services or features to you. 
-  * You may update or correct your personal profile information and email preferences at any time by visiting your [Profile](https://web.archive.org/web/20160605024804id_/http%3A//www.kissthisguy.com/myaccount.php). 
+  * You may update or correct your personal profile information and email preferences at any time by visiting your [Profile](https://web.archive.org/web/20161207062300id_/http%3A//www.kissthisguy.com/myaccount.php). 
 
 
 
