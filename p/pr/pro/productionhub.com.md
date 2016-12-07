@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the productionhub.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601222615id_/https%3A//www.productionhub.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productionhub.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207212221id_/https%3A//www.productionhub.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
