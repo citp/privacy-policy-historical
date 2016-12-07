@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilividlive.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531202639id_/http%3A//www.inmind.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilividlive.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207064919id_/http%3A//www.inmind.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | inMind – The Best of the Internet
 
