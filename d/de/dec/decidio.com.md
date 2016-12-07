@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decidio.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627033810id_/http%3A//www.decidio.com/termsprivacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decidio.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207111238id_/http%3A//www.decidio.com/termsprivacy.cfm) for the most accurate reproduction.*
 
 # Simplified Terms and Privacy | Decidio
 
