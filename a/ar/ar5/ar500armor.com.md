@@ -1,46 +1,234 @@
-> *The following text is extracted and transformed from the ar500armor.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416214211id_/http%3A//www.ar500armor.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ar500armor.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207065841id_/http%3A//www.ar500armor.com/privacy-policy.html) for the most accurate reproduction.*
 
-# AR500 Armor Privacy Policy
+# Privacy Policy
 
-At AR500Armor.com your privacy is our priority. We are committed to protecting your privacy at all times, in all situations. The information we collect about you while using our website is used to process your orders and to provide a more personalized experience.
+This privacy policy sets out how AR500 Armor® uses and protects any information that you give AR500 Armor® when you use this website. AR500 Armor® is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. AR500 Armor® may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-**How Do We Use the Information We Collect?**  
-When you register or checkout at AR500Armor.com, we ask you to fill out a form that requests your name, address and e-mail address as well as some demographic information such as gender and date of birth.   
-AR500armor.com will **NOT** share your data with third parties outside of law enforcement agencies with legitimate requests.
+**What we collect**
 
-Your name and address information is used solely to process orders unless your prior consent is given. Without your consent, this information will NEVER be sold, given, rented or traded to others for purposes other than order fulfillment.
+We may collect the following information:
 
-Your demographic information (gender, date of birth, etc.) will be used for several security purposes, to ensure you are who you say you are and in fact you are paying with your credit card and not someone using your stolen credit cards.
+  * Name
+  * Contact information including email address
+  * Demographic information such as postcode, preferences and interests
+  * Other information relevant to customer surveys and/or offers
 
-**Refer-A-Friend**  
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. AR500Armor.com does not store this information and uses it for the sole purpose of sending this one-time email.
 
-**Our Use of Log Files**  
-When you visit our site we automatically log your IP address, your browser type and your access times. We utilize this information to conduct site performance evaluations, to see where visitors are coming from and to keep track of click stream data (the screens our users visit on our site). This data helps us to determine what content our members find most appealing so that we can maximize your enjoyment of the site. Log files are not tied to personally identifiable information.
 
-**Site Security**  
-All AR500Armor.com employees take your personal information very seriously. All employees must learn and obey our security policies. Access to member personal information is limited to key management personnel and our member services department.
+For the exhaustive list of cookies we collect see the "List of Cookies" we collect section.
 
-**Correcting/Updating Your Personal Information**  
-After becoming an AR500Armor.com subscriber you may correct/update your personal information by clicking on the 'My Account' link at the top of any page, entering your ID, password and birth date when prompted and clicking the Edit Information button. The changes you make will be reflected in our databases instantly. If you wish to deactivate your account, you may contact our member services group through the 'Contact Us' section.
+* * *
 
-**Links To Other Sites**  
-This Web site contains links to other Web sites. Please note that when you click on one of these links, you may be leaving the AR500Armor.com and entering another Web site. These sites may independently collect or request information about you and we encourage you to read the privacy statements of these linked sites as their privacy policy will likely differ from ours.
+**What we do with the information we gather**
 
-**Communication**  
-From time to time we may send out email messages alerting you that products are available, to remind you about providing feedback or for promotional offers. In addition, you will receive communication from us 1) if you contact us for a particular reason, 2) to receive your orders, or 3) we need to contact you for administrative purposes such as winning a contest. Administrative e-mails will not contain promotional materials. If you choose to receive our News Letters, they will contain promotional materials from AR500Armor.com.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-**Legal Disclaimer**  
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
 
-**Supplementation**  
-We may correct or supplement your address information with standardized postal representation in order to ensure that your orders are delivered. We do this since we want to make sure that our customers receive their order and to lower costs associated with our products.
 
-**Contests**  
-Periodically, contests are run on our site. Sometimes contests are sponsored by our customers. To enter these contests you need only to enter your ID and password and your guess. At the time of entry, you may decide if you wish to have your first name and state posted on our site if you are the winner. Winner’s names are NEVER shared with our customers without their consent.
 
-**Our Use of Cookies**  
-Cookies are pieces of information that your browser stores on your computer's hard drive which identify you when you enter. The ability to select samples on our site is not cookie-driven. We may use session cookies to provide a seamless experience on the site and to combine with our log files so that we can understand our site traffic and analyze our demographic information in aggregate form. If you have set your browser to reject cookies, our site will not identify you when you enter and you will need to manually type in your ID and password.
+* * *
 
-**Your Feedback is Always Welcome**  
-We welcome your comments and questions about our privacy policy - or anything else you might want to talk about.
+**Security**
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+* * *
+
+**How we use cookies**
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+* * *
+
+**Links to other websites**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+* * *
+
+**Controlling your personal information**
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at Support@ar500armor.com
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 17431 North Black Canyon Hwy Phoenix, Arizona 85023.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+* * *
+
+**List of cookies we collect**
+
+The table below lists the cookies we collect and what information they store.
+
+**COOKIE name**
+
+| 
+
+**COOKIE Description**  
+  
+---|---  
+  
+**CART**
+
+| 
+
+The association with your shopping cart.  
+  
+**CATEGORY_INFO**
+
+| 
+
+Stores the category info on the page, that allows to display pages more quickly.  
+  
+**COMPARE**
+
+| 
+
+The items that you have in the Compare Products list.  
+  
+**CURRENCY**
+
+| 
+
+Your preferred currency  
+  
+**CUSTOMER**
+
+| 
+
+An encrypted version of your customer id with the store.  
+  
+**CUSTOMER_AUTH**
+
+| 
+
+An indicator if you are currently logged into the store.  
+  
+**CUSTOMER_INFO  **
+
+| 
+
+ An encrypted version of the customer group you belong to.  
+  
+**CUSTOMER_SEGMENT_IDS  **
+
+| 
+
+ Stores the Customer Segment ID  
+  
+**EXTERNAL_NO_CACHE  **
+
+| 
+
+ A flag, which indicates whether caching is disabled or not.  
+  
+**FRONTEND  **
+
+| 
+
+ You sesssion ID on the server.  
+  
+**GUEST-VIEW  **
+
+| 
+
+ Allows guests to edit their orders.  
+  
+**LAST_CATEGORY  **
+
+| 
+
+ The last category you visited.  
+  
+**LAST_PRODUCT**
+
+| 
+
+The most recent product you have viewed.  
+  
+**NEWMESSAGE**
+
+| 
+
+Indicates whether a new message has been received.  
+  
+**NO_CACHE**
+
+| 
+
+Indicates whether it is allowed to use cache.  
+  
+**PERSISTENT_SHOPPING_CART**
+
+| 
+
+A link to information about your cart and viewing history if you have asked the site.  
+  
+**POLL**
+
+| 
+
+The ID of any polls you have recently voted in.  
+  
+**POLLN**
+
+| 
+
+Information on what polls you have voted on.  
+  
+**RECENTLYCOMPARED**
+
+| 
+
+The items that you have recently compared.  
+  
+**STF**
+
+| 
+
+Information on products you have emailed to friends.  
+  
+**STORE**
+
+| 
+
+The store view or language you have selected.  
+  
+**USER_ALLOWED_SAVE_COOKIE**
+
+| 
+
+Indicates whether a customer allowed to use cookies.  
+  
+**VIEWED_PRODUCT_IDS**
+
+| 
+
+The products that you have recently viewed.  
+  
+**WISHLIST**
+
+| 
+
+An encrypted list of products added to your Wishlist.  
+  
+**WISHLIST_CNT**
+
+| 
+
+The number of items in your Wishlist.
