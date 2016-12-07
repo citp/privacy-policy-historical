@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suratdiamond.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615000953id_/http%3A//www.suratdiamond.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suratdiamond.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207220637id_/http%3A//www.suratdiamond.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
