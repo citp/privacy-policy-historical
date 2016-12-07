@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holtrenfrew.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501101144id_/http%3A//www.holtrenfrew.com/store/holt/pages/customer-care/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holtrenfrew.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207181326id_/http%3A//www.holtrenfrew.com/store/holt/pages/customer-care/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Holt Renfrew
 
@@ -178,13 +178,13 @@ We note that, in some of our Stores, customers can connect to [**www.holtrenfrew
 
 Back to Top
 
-**F. Retention & Disposal**
+**F. Transfer, Retention & Disposal**
 
 Holt Renfrew may keep records of previous purchases made by a customer, information provided to or collected from a customer, or details of any enquiries, complaints or compliments made by a customer and the response, if any.
 
-We store, access and use Personal Information in Canada. Unless there is a legal or regulatory requirement to keep such information in Canada, Personal Information may also be stored, accessed, or used outside of Canada. For example, when we engage an outside company or service provider, Personal Information may be stored, accessed or used in any country where that company or service provider is located, or from which it provides services, including for example the United States and the United Kingdom. Where Personal Information is located outside of Canada, it is subject to the laws of that jurisdiction.
+We store, access and use Personal Information in Canada. Unless there is a legal or regulatory requirement to keep such information in Canada, Personal Information may also be stored, accessed, or used outside of Canada. For example, for our business purposes, we have engaged service providers located in the U.S., U.K., India and Israel and Personal Information may be stored, accessed or used in these jurisdictions or other countries. Any such transfers are subject to contractual requirements to protect such information. Please be aware that, where Personal Information is located outside of Canada, it is subject to the laws of that jurisdiction and such laws may not be as comprehensive as the laws of Canada. 
 
-We keep your Personal Information only so long as we need it for the products and services you are using, to offer you products and services when you are a customer and for a reasonable time thereafter, or to meet any legal requirements. We have retention standards which meet these requirements. We destroy your Personal Information when it is no longer needed, or we remove your name from the information. 
+We keep your Personal Information only so long as we need it for the products and services you are using, to offer you products and services when you are a customer and for a reasonable time thereafter, or to meet any legal requirements. We have retention standards which meet these requirements. We destroy your Personal Information when it is no longer needed, or we remove your name from the information.
 
 Back to Top
 
@@ -229,8 +229,8 @@ Back to Top
 
 **J. Changes To This Privacy Policy**
 
-As Holt Renfrew regularly reviews all policies and procedures, we may change our Privacy Policy from time to time. These changes will be posted on our websites as soon as is practical. This Privacy Policy was last updated on December 11, 2015. It replaces the Privacy Policy that was dated November 13, 2015.
+As Holt Renfrew regularly reviews all policies and procedures, we may change our Privacy Policy from time to time. These changes will be posted on our websites as soon as is practical. This Privacy Policy was last updated on August 16, 2016. It replaces the Privacy Policy that was dated December 11, 2015.
 
-Date of Last Update: December 11, 2015
+Date of Last Update: August 16, 2016
 
 Back to Top
