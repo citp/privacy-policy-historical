@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the associatedbank.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316102316id_/https%3A//www.associatedbank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the associatedbank.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207182046id_/https%3A//www.associatedbank.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -93,7 +93,7 @@ Associated Bank, N.A. |  Associated Trust Company, N.A.
 Associated Financial Group, LLC |  Kellogg Asset Management, LLC®  
    
   
-To opt out, please fill out our online Opt Out Form .
+To opt out, please fill out our online .
 
 **OR**
 
