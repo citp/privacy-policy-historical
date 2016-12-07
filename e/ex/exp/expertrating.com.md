@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the expertrating.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604100026id_/http%3A//expertrating.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertrating.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207081849id_/http%3A//expertrating.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # ExpertRating - Online Certification and Employment Testing
 
-* Last Updated: January 2nd, 2015 
-
-ExpertRating Solutions (“ExpertRating”) has been awarded TRUSTe's Privacy 
+* Last Updated: July 11th, 2016 
 
 [](https://privacy.truste.com/privacy-seal/Expert-Rating-Solutions/validation?rid=ad9122a4-912d-4e3c-8009-dbfb7df8acab "TRUSTe online privacy certification")
 
@@ -28,32 +26,32 @@ ExpertRating does not send registered users’ of the Website any unsolicited me
 
 * Our commitment to data security 
 
-Your personal information is kept strictly confidential through a well organized security system which only allows access to critical information to the company's security team members. This team consists of experienced engineers and staff who are under stringent confidentiality requirements. The security system is backed by the latest technology and ensures that your personal information is fully protected. Your ExpertRating profile which is available to you in your login area is protected through a password. You are advised to keep this password confidential and to ensure that you close the browser window after logging out from ExpertRating, especially if you are using a shared computer. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, while we do our utmost to protect your personal information, ExpertRating cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make our best efforts to ensure the security of your information on our systems. 
+Your personal information is kept strictly confidential through a security system which only allows access to critical information to the company's security team members. This team consists of experienced engineers and staff who are under stringent confidentiality requirements. The security system is backed by the latest technology and ensures that your personal information is fully protected. Your ExpertRating profile which is available to you in your login area is protected through a password. You are advised to keep this password confidential and to ensure that you close the browser window after logging out from ExpertRating, especially if you are using a shared computer. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, while we do our utmost to protect your personal information, ExpertRating cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make our best efforts to ensure the security of your information on our systems. 
 
 * Our commitment to payment information (credit card number) security 
 
-ExpertRating services can be purchased online through a secure credit card transaction using any major credit card or PayPal. The ecommerce functionality on the site has been provided by [PayPal](http://www.paypal.com/) which is a trusted name in online transaction processing. When you supply your credit card information it is not retained on file by us. Moreover, the transaction takes place on the PayPal secure server which is 100% safe and encrypts the transmission of that information using secure socket layer technology (SSL). When you buy any of our services, it is treated as a one time sale and your credit card will not be charged again in the future as is the case in subscription sales. [PayPal](http://www.paypal.com/) transactions take place on the PayPal server which is a trusted name in online transaction processing. 
+ExpertRating services can be purchased online through a secure credit card transaction using any major credit card or PayPal. The ecommerce functionality on the site has been provided by [PayPal](http://www.paypal.com/) which is a trusted name in online transaction processing. When you supply your credit card information it is not retained on file by us. Moreover, the transaction takes place on the PayPal secure server which is 100% safe and encrypts the transmission of that information using secure socket layer technology (SSL). When you buy any of our services, it is treated as a sale and your credit card will not be charged again in the future as is the case in subscription sales. [PayPal](http://www.paypal.com/) transactions take place on the PayPal server which is a trusted name in online transaction processing. 
 
 * How you can access or correct your personal information 
 
-You can access, delete or change the personal information that we collect and maintain by logging in at your user account with the username and passwords assigned to your account. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at ExpertRating [Help Desk](http://www.expertrating.com/support/index.asp). 
+You can access and change the personal information that we collect and maintain by logging in at your user account with the username and passwords assigned to your account. You can delete your account and personal information by sending us a request through email or phone. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at ExpertRating [Help Desk](http://www.expertrating.com/support/index.asp). We will respond to your request within a reasonable timeframe. 
 
 The login page is at: <http://www.expertrating.com/login.asp>
 
 The users Name cannot be directly changed by you from within the login so as to prevent unauthorized use of our testing services. You must request us for a change of Name by clicking on the "request name change" link within your login area.   
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [ ExpertRating Help Desk . ](http://www.expertrating.com/support/index.asp)
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [ ExpertRating HelpDesk . ](http://www.expertrating.com/support/index.asp)
 
 * Automatically Collected Information
 
 Technologies such as: cookies, beacons, tags and scripts are used by ExpertRating. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies to recognize the user preferences upon return visits. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.   
 As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.   
-We use Local Storage Objects (LSOs) such as Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)   
+We use Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash or HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To learn how to manage privacy and storage settings for Flash cookies click [here ](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).     
 We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here ](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads.  You will continue to receive generic ads. 
 
 * Information Sharing and Disclosure 
 
 We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.   
-ExpertRating may be required by law to disclose information to law enforcement, or other government agencies under certain circumstances such as where a formal request has been made in a civil suit, court order, or subpoena served on the Website. We reserve the right to disclose information in our sole and absolute discretion, where deemed necessary to protecting the safety of our staff, users, the general public, or in protecting our intellectual property. 
+ExpertRating may be required by law to disclose information to law enforcement, or other government agencies under certain circumstances such as where a formal request has been made in a civil suit, court order, bankruptcy proceedings or subpoena served on the Website. We reserve the right to disclose information in our sole and absolute discretion, where deemed necessary to protecting the safety of our staff, users, the general public, or in protecting our intellectual property. 
 
 * Data Retention 
 
@@ -78,3 +76,9 @@ ExpertRating will do its utmost to ensure that the successor adheres to the same
 * Who should I contact if I have a Privacy related concern? 
 
 If you have any doubts or require clarifications related to the privacy of your information with us, please use our [ contact form ](http://www.expertrating.com/contact.asp) to get in touch with us. 
+
+* Contact Us 
+
+Company Name ExpertRating Solutions  
+Physical address Block D, Ground Floor, DLF IT Park, Chandigarh, India  
+Phone Number and email address +91-172-4656989, contact(at)expertrating.com
