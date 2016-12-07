@@ -1,233 +1,385 @@
-<!--The following is the downloaded HTML source of the atavist.com privacy policy that was archived on 2015-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906125556id_/http%3A//about.atavist.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the atavist.com privacy policy that was archived on 2016-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161207132914id_/https%3A//atavist.com/page/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="js"><head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width">
-	<link rel="profile" href="http://gmpg.org/xfn/11">
-	<link rel="pingback" href="http://about.atavist.com/xmlrpc.php">
-	<link rel="shortcut icon" href="http://about.atavist.com/wp-content/themes/homesite/favicon.ico">
-	<!--[if lt IE 9]>
-	<script src="http://about.atavist.com/wp-content/themes/homesite/js/html5.js"></script>
-	<![endif]-->
-	<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script>(function(){document.documentElement.className='js'})();</script>
-	<link rel="stylesheet" href="//atavist-static.s3.amazonaws.com/fonts/atlas/atlas.css">
-	<!-- <link rel="stylesheet" href="//atavist.com/static/css/v2.css"> -->
-	
-	<title>Privacy Policy - Atavist</title>
+<!DOCTYPE html><html><head>
+		<title>Atavist: Privacy Policy</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="https://atavist.com">
+		<meta property="og:title" content="Atavist">
+		<meta property="og:site_name" content="Atavist">
+		<meta name="description" content="Make a story, design it your way, share it. Sign up for free.">
+		<meta property="og:description" content="Make a story, design it your way, share it. Sign up for free.">
+		<meta property="og:image" content="https://dilhmgn2fk8rc.cloudfront.net/v2_homesite/meta/atavist-meta-image.jpg">
+		<meta property="og:image:type" content="image/png">
+		<meta property="og:image:width" content="1024">
+		<meta property="og:image:height" content="600">
+		<meta property="fb:pages" content="160447940666078">
 
-<!-- This site is optimized with the Yoast WordPress SEO plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="http://about.atavist.com/privacy-policy/">
-<meta property="og:locale" content="en_US">
-<meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy - Atavist">
-<meta property="og:description" content="This is the Privacy Policy for Atavist and The Atavist Magazine, published March 23, 2015: (To see the previous Privacy Policy, go here.) Atavist is committed to preserving the privacy of its readers and users. This policy outlines the handling of users’ personal information that is submitted at any point in the site. The information More ›">
-<meta property="og:url" content="http://about.atavist.com/privacy-policy/">
-<meta property="og:site_name" content="Atavist">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:description" content="This is the Privacy Policy for Atavist and The Atavist Magazine, published March 23, 2015: (To see the previous Privacy Policy, go here.) Atavist is committed to preserving the privacy of its readers and users. This policy outlines the handling of users’ personal information that is submitted at any point in the site. The information More ›">
-<meta name="twitter:title" content="Privacy Policy - Atavist">
-<meta name="twitter:domain" content="Atavist">
-<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/about.atavist.com\/","name":"Atavist"}</script>
-<!-- / Yoast WordPress SEO plugin. -->
+		<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script type="text/javascript">
+			/*!
+			loadCSS: load a CSS file asynchronously.
+			[c]2015 @scottjehl, Filament Group, Inc.
+			Licensed MIT
+			*/
+			(function(w){
+				"use strict";
+				/* exported loadCSS */
+				w.loadCSS = function( href, before, media ){
+					// Arguments explained:
+					// `href` [REQUIRED] is the URL for your CSS file.
+					// `before` [OPTIONAL] is the element the script should use as a reference for injecting our stylesheet <link> before
+						// By default, loadCSS attempts to inject the link after the last stylesheet or script in the DOM. However, you might desire a more specific location in your document.
+					// `media` [OPTIONAL] is the media type or query of the stylesheet. By default it will be 'all'
+					var doc = w.document;
+					var ss = doc.createElement( "link" );
+					var ref;
+					if( before ){
+						ref = before;
+					}
+					else {
+						var refs = ( doc.body || doc.getElementsByTagName( "head" )[ 0 ] ).childNodes;
+						ref = refs[ refs.length - 1];
+					}
+			
+					var sheets = doc.styleSheets;
+					ss.rel = "stylesheet";
+					ss.href = href;
+					// temporarily set media to something inapplicable to ensure it'll fetch without blocking render
+					ss.media = "only x";
+			
+					// Inject link
+						// Note: the ternary preserves the existing behavior of "before" argument, but we could choose to change the argument to "after" in a later release and standardize on ref.nextSibling for all refs
+						// Note: `insertBefore` is used instead of `appendChild`, for safety re: http://www.paulirish.com/2011/surefire-dom-element-insertion/
+					ref.parentNode.insertBefore( ss, ( before ? ref : ref.nextSibling ) );
+					// A method (exposed on return object for external use) that mimics onload by polling until document.styleSheets until it includes the new sheet.
+					var onloadcssdefined = function( cb ){
+						var resolvedHref = ss.href;
+						var i = sheets.length;
+						while( i-- ){
+							if( sheets[ i ].href === resolvedHref ){
+								return cb();
+							}
+						}
+						setTimeout(function() {
+							onloadcssdefined( cb );
+						});
+					};
+			
+					// once loaded, set link's media back to `all` so that the stylesheet applies once it loads
+					ss.onloadcssdefined = onloadcssdefined;
+					onloadcssdefined(function() {
+						ss.media = media || "all";
+					});
+					return ss;
+				};
+			}(this));			loadCSS('/static/css/bootstrap/dist/css/homesite.min.css');
+		</script><link rel="stylesheet" href="/static/css/bootstrap/dist/css/homesite.min.css" media="all">
 
-<link rel="alternate" type="application/rss+xml" title="Atavist » Feed" href="http://about.atavist.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="Atavist » Comments Feed" href="http://about.atavist.com/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title="Atavist » Privacy Policy Comments Feed" href="http://about.atavist.com/privacy-policy/feed/">
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/about.atavist.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.4"}};
-			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://about.atavist.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.4" type="text/javascript"></script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
+		<style>
+.sr-only,svg:not(:root){overflow:hidden}.nav:after,.navbar:after{clear:both}#hs-nav-fixed,.btn{background-image:none}.btn,.hs-hero h1{text-align:center}@font-face{font-family:'Atlas Grotesk Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Thin-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Thin-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Thin-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Thin-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Thin-Web.svg#AtlasGrotesk-Thin) format('svg');font-weight:100;font-style:normal;font-stretch:normal}@font-face{font-family:'Atlas Grotesk Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-ThinItalic-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-ThinItalic-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-ThinItalic-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-ThinItalic-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-ThinItalic-Web.svg#AtlasGrotesk-ThinItalic) format('svg');font-weight:100;font-style:italic;font-stretch:normal}@font-face{font-family:'Atlas Grotesk Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Light-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Light-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Light-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Light-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Light-Web.svg#AtlasGrotesk-Light) format('svg');font-weight:300;font-style:normal;font-stretch:normal}@font-face{font-family:'Atlas Grotesk Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-LightItalic-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-LightItalic-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-LightItalic-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-LightItalic-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-LightItalic-Web.svg#AtlasGrotesk-LightItalic) format('svg');font-weight:300;font-style:italic;font-stretch:normal}@font-face{font-family:'Atlas Grotesk Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Regular-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Regular-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Regular-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Regular-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Regular-Web.svg#AtlasGrotesk-Regular) format('svg');font-weight:400;font-style:normal;font-stretch:normal}@font-face{font-family:'Atlas Grotesk Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-RegularItalic-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-RegularItalic-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-RegularItalic-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-RegularItalic-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-RegularItalic-Web.svg#AtlasGrotesk-RegularItalic) format('svg');font-weight:400;font-style:italic;font-stretch:normal}@font-face{font-family:'Atlas Grotesk Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Medium-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Medium-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Medium-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Medium-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Medium-Web.svg#AtlasGrotesk-Medium) format('svg');font-weight:500;font-style:normal;font-stretch:normal}@font-face{font-family:'Atlas Grotesk Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-MediumItalic-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-MediumItalic-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-MediumItalic-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-MediumItalic-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-MediumItalic-Web.svg#AtlasGrotesk-MediumItalic) format('svg');font-weight:500;font-style:italic;font-stretch:normal}@font-face{font-family:'Atlas Grotesk Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Bold-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Bold-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Bold-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Bold-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Bold-Web.svg#AtlasGrotesk-Bold) format('svg');font-weight:700;font-style:normal;font-stretch:normal}@font-face{font-family:'Atlas Grotesk Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-BoldItalic-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-BoldItalic-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-BoldItalic-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-BoldItalic-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-BoldItalic-Web.svg#AtlasGrotesk-BoldItalic) format('svg');font-weight:700;font-style:italic;font-stretch:normal}@font-face{font-family:'Atlas Grotesk Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Black-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Black-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Black-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Black-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Black-Web.svg#AtlasGrotesk-Black) format('svg');font-weight:900;font-style:normal;font-stretch:normal}@font-face{font-family:'Atlas Grotesk Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-BlackItalic-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-BlackItalic-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-BlackItalic-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-BlackItalic-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-BlackItalic-Web.svg#AtlasGrotesk-BlackItalic) format('svg');font-weight:900;font-style:italic;font-stretch:normal}@font-face{font-family:'Atlas Typewriter Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Thin-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Thin-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Thin-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Thin-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Thin-Web.svg#AtlasTypewriter-Thin) format('svg');font-weight:100;font-style:normal;font-stretch:normal}@font-face{font-family:'Atlas Typewriter Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-ThinItalic-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-ThinItalic-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-ThinItalic-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-ThinItalic-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-ThinItalic-Web.svg#AtlasTypewriter-ThinItalic) format('svg');font-weight:100;font-style:italic;font-stretch:normal}@font-face{font-family:'Atlas Typewriter Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Light-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Light-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Light-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Light-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Light-Web.svg#AtlasTypewriter-Light) format('svg');font-weight:300;font-style:normal;font-stretch:normal}@font-face{font-family:'Atlas Typewriter Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-LightItalic-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-LightItalic-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-LightItalic-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-LightItalic-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-LightItalic-Web.svg#AtlasTypewriter-LightItalic) format('svg');font-weight:300;font-style:italic;font-stretch:normal}@font-face{font-family:'Atlas Typewriter Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Regular-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Regular-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Regular-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Regular-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Regular-Web.svg#AtlasTypewriter-Regular) format('svg');font-weight:400;font-style:normal;font-stretch:normal}@font-face{font-family:'Atlas Typewriter Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-RegularItalic-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-RegularItalic-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-RegularItalic-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-RegularItalic-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-RegularItalic-Web.svg#AtlasTypewriter-RegularItalic) format('svg');font-weight:400;font-style:italic;font-stretch:normal}@font-face{font-family:'Atlas Typewriter Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Medium-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Medium-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Medium-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Medium-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Medium-Web.svg#AtlasTypewriter-Medium) format('svg');font-weight:500;font-style:normal;font-stretch:normal}@font-face{font-family:'Atlas Typewriter Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-MediumItalic-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-MediumItalic-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-MediumItalic-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-MediumItalic-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-MediumItalic-Web.svg#AtlasTypewriter-MediumItalic) format('svg');font-weight:500;font-style:italic;font-stretch:normal}@font-face{font-family:'Atlas Typewriter Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Bold-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Bold-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Bold-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Bold-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Bold-Web.svg#AtlasTypewriter-Bold) format('svg');font-weight:700;font-style:normal;font-stretch:normal}@font-face{font-family:'Atlas Typewriter Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-BoldItalic-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-BoldItalic-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-BoldItalic-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-BoldItalic-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-BoldItalic-Web.svg#AtlasTypewriter-BoldItalic) format('svg');font-weight:700;font-style:italic;font-stretch:normal}@font-face{font-family:'Atlas Typewriter Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Black-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Black-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Black-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Black-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Black-Web.svg#AtlasTypewriter-Black) format('svg');font-weight:900;font-style:normal;font-stretch:normal}@font-face{font-family:'Atlas Typewriter Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-BlackItalic-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-BlackItalic-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-BlackItalic-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-BlackItalic-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-BlackItalic-Web.svg#AtlasTypewriter-BlackItalic) format('svg');font-weight:900;font-style:italic;font-stretch:normal}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;position:relative;min-height:100%;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;font-size:16px}nav,section{display:block}a{background:0 0;color:#4a90e2;text-decoration:none}b{font-weight:700}h1{margin:.67em 0}*,:after,:before{box-sizing:border-box}body{margin:0 0 140px;font-family:Atlas Grotesk Web,Helvetica,Helvetica Neue,Arial,sans-serif;font-weight:400;line-height:1.42857143;color:#333;background-color:#fff}.btn,h1,h3{font-family:Atlas Grotesk Web}@media only screen and (min-width:320px) and (max-width:480px){body{margin-bottom:20px}}.sr-only{border:0;height:1px;position:absolute;width:1px;margin:-1px;padding:0;clip:rect(0,0,0,0)}h1,h3{font-weight:700;line-height:1.1;color:inherit;margin-top:30px;margin-bottom:20px}.btn,.btn-link{font-weight:400}h1{font-size:28px;color:#585858}h3{font-size:16px;color:#595959;line-height:21px}p{margin:0 0 10px}ul{margin-top:0;margin-bottom:10px}.btn,.nav{margin-bottom:0}.list-unstyled{padding-left:0;list-style:none}.btn{display:inline-block;vertical-align:middle;border:2px solid transparent;white-space:nowrap;font-size:14px;line-height:1.42857143;border-radius:0;padding:5px 14px 3px}.btn-link,.btn-upgrade{border-color:transparent}.btn-upgrade{color:#fff;background-color:#4a90e2}.btn-link,.navbar-default{background-color:transparent}.btn-link{color:#4a90e2;border-radius:0;box-shadow:none}.hs-hero h1,.hs-nav-main{font-family:Atlas Typewriter Web,Menlo,Monaco,Consolas,Courier New,monospace;font-weight:200}.btn-lg{padding:10px 16px;font-size:18px;line-height:1.33;border-radius:0}.nav{padding-left:0;list-style:none}.nav:after,.nav:before{content:" ";display:table}.nav>li,.nav>li>a{position:relative;display:block}.nav>li>a{margin:0 5px}.nav>li>a.btn{display:inline-block}.navbar{position:relative;min-height:50px;border:1px solid transparent}.navbar:after,.navbar:before{content:" ";display:table}#hs-nav-fixed .show-in-downscroll,.hs-menu-other .secondary-nav-links{display:none}.navbar-brand{float:left;padding:15px;font-size:18px;line-height:20px;height:50px}.navbar-nav,.navbar-nav>li{float:left}.navbar-nav>li>a{padding-top:10px;padding-bottom:10px;line-height:20px}@media (min-width:768px){.navbar{border-radius:0}.navbar-nav{float:left;margin:0}.navbar-nav>li{float:left}.navbar-nav>li>a{padding-top:15px;padding-bottom:15px}.navbar-nav>li>.btn{padding-top:8px;padding-bottom:8px;margin-top:8px;margin-bottom:8px}}.navbar-default{border-color:transparent}.navbar-default .navbar-brand{color:#777}body{font-size:16px}.hs{margin-bottom:450px}@media (max-width:992px){.hs{margin-bottom:0}}@media (max-width:480px){.hs-generic h3,.hs-generic p{text-align:center}}.hs-generic p a,.hs-nav-links a{color:#ef7357;border-bottom:1px solid #ef7357;text-decoration:none}section.bg-gray{background-color:#f6f6f9}.hs-nav-pages.navbar-nav a{color:#9a9a9a;font-size:16px;margin:0 5px 0 0;line-height:19px}.hs-nav-pages>li>a.btn{padding-top:9px;margin-top:5px}#atavist-logo-link{padding:0}#hs-nav-fixed>*,#hs-nav>*{height:50px}#hs-nav,#hs-nav-fixed{position:absolute;top:0;left:0;width:100%;padding:10px 10px 0}#hs-nav-fixed{position:fixed;left:auto;right:0;padding-top:9px;width:auto;z-index:5000}.hs-unfixed ul{margin-right:60px}@media (max-width:768px){.hs-unfixed ul{display:none}}.hs-nav-pages a{color:#585858;padding:15px;line-height:25px}.hs-nav-pages a.btn{color:#fff}.hs-nav-menu-trigger,.hs-nav-pages{float:right}.hs-menu-icon{height:50px;width:50px;margin-left:6px;margin-right:8px}.hs-menu-line{stroke:#9a9a9a}.hs-menu-other{position:fixed;right:0;top:0;height:100%;width:460px;background-color:#fff;padding:2em;color:#585858;z-index:5001;border-left:1px solid #f2f2f2;-webkit-transform:translateX(100%);transform:translateX(100%)}.hs-menu-other .btn-link{color:#8b8b8b;padding-left:0}.hs-menu-other .btn-upgrade{margin-right:16px}.hs-menu-other .hs-nav-links{margin-top:1em}.hs-menu-other .hs-nav-links>ul{border-bottom:1px solid rgba(88,88,88,.2);padding-bottom:1em;margin-bottom:.5em}.hs-menu-other .hs-nav-links>ul:last-of-type,.hs-nav-links a#mag-logo{border-bottom:0}@media (max-width:460px){.hs-menu-other{width:100%}}.hs-nav-main{font-size:28px}.hs-closer{position:absolute;z-index:1;top:1.675rem;right:1.675rem;width:2rem;height:2rem;opacity:.7}.hs-closer:after,.hs-closer:before{content:'';position:absolute;width:100%;height:.15em;background-color:#000;top:calc(50% - .075em);left:0}.hs-closer:before{-webkit-transform:rotate(45deg);transform:rotate(45deg)}.hs-closer:after{-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}#mag-logo{margin-top:2em;display:block;width:200px}.hs-hero{padding:40px 0}.hs-hero h1{max-width:1200px;display:block;color:#585858;font-size:50.4px;line-height:1.25;padding:0 1em;margin:18px auto}@media screen and (min-width:768px){.hs-hero{padding-top:4em;padding-bottom:4em}}@media (max-width:768px){.hs-hero h1{margin-top:36px;font-size:30.8px;padding:0 .1em;font-weight:300}}.hs-generic{padding:4em}.hs-generic h3,.hs-generic p{max-width:780px;margin-left:auto;margin-right:auto}.hs-generic p{margin-top:0;margin-bottom:2em}@media (max-width:992px){.hs-generic p{width:100%}}.hs-generic .margin-top-60{margin-top:60px}@media (max-width:768px){.hs-generic{padding:1em}}
 </style>
-<link rel="stylesheet" id="twentyfifteen-fonts-css" href="//fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&amp;subset=latin%2Clatin-ext" type="text/css" media="all">
-<link rel="stylesheet" id="genericons-css" href="http://about.atavist.com/wp-content/themes/homesite/genericons/genericons.css?ver=3.2" type="text/css" media="all">
-<link rel="stylesheet" id="twentyfifteen-style-css" href="http://about.atavist.com/wp-content/themes/homesite/style.css?ver=4.2.4" type="text/css" media="all">
-<!--[if lt IE 9]>
-<link rel='stylesheet' id='twentyfifteen-ie-css'  href='http://about.atavist.com/wp-content/themes/homesite/css/ie.css?ver=20141010' type='text/css' media='all' />
-<![endif]-->
-<!--[if lt IE 8]>
-<link rel='stylesheet' id='twentyfifteen-ie7-css'  href='http://about.atavist.com/wp-content/themes/homesite/css/ie7.css?ver=20141010' type='text/css' media='all' />
-<![endif]-->
-<script type="text/javascript" src="http://about.atavist.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
-<script type="text/javascript" src="http://about.atavist.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://about.atavist.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://about.atavist.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.2.4">
-<link rel="shortlink" href="http://about.atavist.com/?p=142">
-  <style type="text/css">/*<![CDATA[*/
-    q:before {
-      content: "";
-    }
-    q:after {
-      content: "”";
-    }
-  /*]]>*/</style>
-  
-<meta name="msvalidate.01" content="18F71E22FE9C01F0AF05F68574074028">
+		<noscript>
+			<link rel="stylesheet" type="text/css" href="/static/css/bootstrap/dist/css/homesite.min.css">
+		</noscript>		
 
-<!-- Google Webmaster Tools plugin for WordPress -->
-<meta name="google-site-verification" content="rW8zHM5sAJs-K18nGgtrNZwU98xVTXRumahwGY5_7Vc">
-	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="shortcut icon" href="/favicon.ico">
+		<!-- start Mixpanel --><script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+var mpGlobal = {};
+mixpanel.init("7f21890c94dcb59578c81363edcfa920", {loaded: function() {
+}});
+</script><!-- end Mixpanel -->
+		<meta name="google-site-verification" content="rW8zHM5sAJs-K18nGgtrNZwU98xVTXRumahwGY5_7Vc">
+		<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
 
-	<!-- start Mixpanel -->
-	<script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
-for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
-mixpanel.init("7f21890c94dcb59578c81363edcfa920");</script>
-	<!-- end Mixpanel -->
-</head>
+fbq('init', '1626336347647668');
+fbq('track', "PageView");
 
-<body class="page page-id-142 page-template-default">
-	<!-- <a class="skip-link screen-reader-text" href="#content">Skip to content</a> -->
 
-	<!--[if lt IE 7]>
-        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-    <![endif]-->
-    <header id="page-header">
-        <a id="atavist-logo-link" href="//atavist.com">
-            <svg id="atavist-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132.9 43" enable-background="new 0 0 132.9 43"><path fill="#EF7357" d="M21.5 43c11.9 0 21.5-9.6 21.5-21.5s-9.6-21.5-21.5-21.5-21.5 9.6-21.5 21.5 9.6 21.5 21.5 21.5z"></path><path fill="#EF7357" d="M59.6 16.3h.1c.1.3.1.6.2.8.1.5.2 1.1.4 1.5l1.2 4.4h-3.7l1.2-4.4c.3-.7.6-2.2.6-2.3zm2.3 8.1l1.2 4.1h1.8l-4-13.8h-2.2l-4 13.8h1.7l1.1-4.1h4.4zm8.1-4v5.5c0 1.8.9 2.9 3.2 2.9.9 0 1.6-.2 2.1-.4v-1.4c-.7.2-1.1.4-2 .4-1 0-1.7-.4-1.7-1.6v-5.4h3.7v-1.4h-3.7v-2.9h-1.5v1.9c0 .7-.3 1-1 1h-2.6v1.4h3.5zm10.2 5.4c0-.5.2-.9.5-1.1.6-.5 1.9-.6 4-.7v.2c0 2.4-1.5 3.1-2.7 3.1-1.1 0-1.8-.5-1.8-1.5zm4.5 1h.1c.1 1.2.6 1.7 2 1.7h.5v-1.3h-.3c-.6 0-.7-.1-.7-.7v-4.2c0-2.4-1.4-3.5-3.6-3.5-2.3 0-3.5 1.3-3.6 2.9h1.6c.1-.7.5-1.6 2.1-1.6 1.4 0 2.1.6 2.1 2.2v.5c-2.3 0-3.9.2-4.9.8-1 .5-1.4 1.3-1.4 2.3 0 1.7 1.2 2.8 3.1 2.8 1.4 0 2.5-.7 3-1.9zm5.1-7.8l3.6 9.5h1.7l3.6-9.5h-1.5l-2.3 6.3-.4 1-.1.5h-.1l-.1-.5-.4-1-2.3-6.3h-1.7zm14.9-4.2v2.4h2.4v-2.4h-2.4zm-3 13.7h8.6v-1.4h-3.5v-8.1h-4.5v1.3h3v6.8h-3.5c-.1 0-.1 1.4-.1 1.4zm17.8-7.1h1.6c-.1-1.5-1.3-2.6-3.7-2.6-2.4 0-3.6 1.2-3.6 2.8 0 1.7 1 2.4 2.5 2.7l1.6.3c1.4.2 1.8.6 1.8 1.4 0 1-.7 1.5-2.4 1.5-1.5 0-2.2-.7-2.3-1.7h-1.6c.2 2.1 1.8 2.9 3.9 2.9 2.8 0 4-1.2 4-3 0-1.5-.8-2.3-2.9-2.7l-1.4-.2c-1.1-.2-1.6-.6-1.6-1.4 0-.9.7-1.4 2-1.4 1.2 0 2 .4 2.1 1.4zm8.1-1v5.5c0 1.8.9 2.9 3.2 2.9.9 0 1.6-.2 2.1-.4v-1.4c-.7.2-1.1.4-2 .4-1 0-1.7-.4-1.7-1.6v-5.4h3.7v-1.4h-3.7v-2.9h-1.5v1.9c0 .7-.3 1-1 1h-2.6v1.4h3.5z"></path><path fill="#fff" d="M32.7 28.9s-1.6-4.1-3.8-9.7l-1.8.8c2.2 5.6 3.8 9.6 3.8 9.7.5 1.3.3 2.1-.5 2.5-.8.4-1.4-.1-2-1.4l-5-12.9c-.4-1.1-.7-2-.3-3.5l.4-1.3.1-.2v-.1c.6-2 0-3.6-2-4.4-1.9-.8-3.5 0-4.3 2 0 .1-7.1 18.9-7.1 18.9-.7 2-.1 3.6 1.9 4.5 1.9.8 3.4 0 4.2-1.9l4.2-11.2-1.8-.8c-2.1 5.6-4.2 11.1-4.2 11.2-.5 1.3-1.2 1.8-2 1.4-.8-.4-1-1.1-.5-2.5 0-.1 7.1-18.9 7.1-18.9.5-1.4 1.2-1.9 2-1.6.7.3 1 1.1.5 2.5l-.3 1.1c-.4 1.1-.6 2.1-.5 2.8 0 .8.4 2.2.5 2.5 0 .1 5.1 13.1 5.2 13.2.8 1.9 2.3 2.7 4.3 1.8 2-.8 2.6-2.5 1.9-4.5z"></path></svg>
-        </a>
-            				<nav id="main-nav" class="main-navigation" role="navigation">
-					<a class="main-nav-label">Menu <svg class="menu-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44" enable-background="new 0 0 44 44"><path fill="#231F20" d="M22 2c11 0 20 9 20 20s-9 20-20 20-20-9-20-20 9-20 20-20m0-2c-12.2 0-22 9.8-22 22s9.8 22 22 22 22-9.8 22-22-9.8-22-22-22z"></path><line stroke="#231F20" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="12" y1="22" x2="32" y2="22" fill="none"></line><line stroke="#231F20" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="12" y1="16" x2="32" y2="16" fill="none"></line><line stroke="#231F20" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="12" y1="28" x2="32" y2="28" fill="none"></line></svg></a>
-					<div class="main-nav-wrapper">
-					<ul id="menu-main-nav" class="menu"><li id="menu-item-57" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57"><a href="//atavist.com/plans">Plans</a></li>
-<li id="menu-item-182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-182"><a href="http://about.atavist.com/built-with-atavist/">Built With Atavist</a></li>
-<li id="menu-item-183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-183"><a href="http://about.atavist.com/atavist-features/">Features</a></li>
-<li id="menu-item-141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-141"><a href="//magazine.atavist.com">The Atavist Magazine</a></li>
+</script>
+
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1626336347647668&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+	</head>
+	<body id="hs-about" class="page-basic hs ">
+		
+<nav id="hs-nav" class="navbar navbar-default hs-unfixed">
+	<a id="atavist-logo-link" href="/" class="navbar-brand">
+							<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg width="133px" height="43px" preserveAspectRatio="xMaxYMax" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="atavist-logo-fill" sketch:type="MSLayerGroup" fill="#EF7357">
+            <g id="Oval-187-+-Fill-7" sketch:type="MSShapeGroup">
+                <path d="M21.5,43 C33.3741221,43 43,33.3741221 43,21.5 C43,9.62587788 33.3741221,0 21.5,0 C9.62587788,0 0,9.62587788 0,21.5 C0,33.3741221 9.62587788,43 21.5,43 Z M32.7269687,28.9285955 C32.7130074,28.8897493 31.13937,24.7967794 28.9580838,19.2403697 L27.1504285,20.0420126 C29.3310499,25.5963035 30.9046873,29.6871545 30.9179838,29.7245881 C31.3946623,31.0340559 31.2417528,31.8484121 30.445959,32.2015588 C29.6109406,32.5716565 28.9966436,32.1055029 28.4568069,30.8165176 C28.433538,30.7614267 23.4333999,17.950678 23.410131,17.892762 C22.9873032,16.8149583 22.7459723,15.8480428 23.108966,14.348582 C23.2758367,13.8329879 23.4340647,13.3463517 23.5344531,13.036289 C23.5663646,12.9557715 23.5876389,12.8851422 23.6215449,12.8017996 L23.6109078,12.8025059 C23.628858,12.7460024 23.6421545,12.7043311 23.6421545,12.7043311 C24.2850389,10.698458 23.6687474,9.07398331 21.6855787,8.28929141 C19.7502772,7.52366942 18.1367504,8.30412357 17.3795163,10.3177659 C17.358242,10.3756819 10.2951562,29.172973 10.2752115,29.2301827 C9.59842112,31.2000348 10.1482302,32.8287473 12.165305,33.6847748 C14.0514095,34.4842989 15.6110856,33.7257398 16.3962423,31.8307548 C16.4115332,31.792615 18.5103812,26.2566877 20.6112238,20.6663759 L18.7922664,19.8943973 C16.6914239,25.4840028 14.5939055,31.0178112 14.5792794,31.0545384 C14.0573929,32.3442301 13.4111844,32.8125025 12.6107368,32.4727754 C11.7703998,32.1168036 11.6387647,31.3271676 12.1021467,30.0049865 C12.1220914,29.9477768 19.1851772,11.151192 19.2071164,11.0925697 C19.73964,9.67503894 20.4131063,9.15520704 21.2561026,9.4885775 C21.9634749,9.76826967 22.2360526,10.6377168 21.8052469,11.981793 C21.7979339,12.0051007 21.6662988,12.4684291 21.4980984,13.0603029 C21.0932209,14.1684772 20.934328,15.184127 20.9489541,15.8741756 C20.9655747,16.6595738 21.3152719,18.0650976 21.469511,18.4062372 C21.5014225,18.4761603 26.6099269,31.5468249 26.6411737,31.6209857 C27.4555825,33.5315092 28.9208537,34.2865368 30.9252968,33.3980197 C32.8000993,32.5674188 33.4143963,30.8659581 32.7269687,28.9285955 Z" id="Oval-187"></path>
+            </g>
+            <path class="atavist-logo-text" d="M59.634,16.332 L59.778,16.332 C59.85,16.602 59.922,16.89 59.976,17.16 C60.102,17.646 60.21,18.222 60.336,18.636 L61.56,23.046 L57.834,23.046 L59.058,18.636 C59.256,17.862 59.634,16.422 59.634,16.332 L59.634,16.332 Z M61.938,24.396 L63.09,28.5 L64.89,28.5 L60.84,14.73 L58.644,14.73 L54.63,28.5 L56.322,28.5 L57.456,24.396 L61.938,24.396 Z M69.984,20.364 L69.984,25.854 C69.984,27.636 70.848,28.716 73.17,28.716 C74.106,28.716 74.772,28.5 75.294,28.302 L75.294,26.952 C74.628,27.186 74.178,27.33 73.278,27.33 C72.288,27.33 71.586,26.97 71.586,25.728 L71.586,20.364 L75.294,20.364 L75.294,19.014 L71.586,19.014 L71.586,16.098 L70.092,16.098 L70.092,18.024 C70.092,18.762 69.84,19.014 69.102,19.014 L66.546,19.014 L66.546,20.364 L69.984,20.364 Z M80.226,25.818 C80.226,25.332 80.406,24.954 80.748,24.684 C81.378,24.234 82.638,24.072 84.708,23.982 L84.708,24.198 C84.708,26.556 83.178,27.348 81.972,27.348 C80.892,27.348 80.226,26.826 80.226,25.818 L80.226,25.818 Z M84.726,26.79 L84.834,26.79 C84.906,27.996 85.392,28.5 86.814,28.5 L87.318,28.5 L87.318,27.186 L86.994,27.186 C86.418,27.186 86.256,27.042 86.256,26.466 L86.256,22.254 C86.256,19.806 84.834,18.78 82.638,18.78 C80.316,18.78 79.11,20.076 79.02,21.66 L80.586,21.66 C80.64,20.94 81.108,20.04 82.638,20.04 C84.006,20.04 84.708,20.688 84.708,22.29 L84.708,22.776 C82.566,22.848 81.036,23.046 80.028,23.568 C79.038,24.054 78.606,24.846 78.606,25.908 C78.606,27.618 79.758,28.662 81.684,28.662 C83.124,28.662 84.168,27.996 84.726,26.79 L84.726,26.79 Z M89.838,19.014 L93.456,28.5 L95.184,28.5 L98.802,19.014 L97.272,19.014 L94.932,25.296 C94.788,25.71 94.662,26.07 94.572,26.34 C94.518,26.502 94.482,26.646 94.428,26.79 L94.32,26.79 C94.266,26.646 94.23,26.502 94.176,26.34 C94.086,26.07 93.96,25.71 93.816,25.296 L91.476,19.014 L89.838,19.014 Z M104.67,14.82 L104.67,17.232 L107.082,17.232 L107.082,14.82 L104.67,14.82 Z M101.736,28.5 L110.322,28.5 L110.322,27.15 L106.776,27.15 L106.776,19.014 L102.258,19.014 L102.258,20.31 L105.228,20.31 L105.228,27.15 L101.736,27.15 L101.736,28.5 Z M119.52,21.39 L121.086,21.39 C120.942,19.842 119.808,18.78 117.378,18.78 C115.02,18.78 113.814,20.022 113.814,21.57 C113.814,23.28 114.804,24 116.298,24.234 L117.864,24.504 C119.25,24.738 119.7,25.062 119.7,25.926 C119.7,26.952 118.962,27.474 117.306,27.474 C115.776,27.474 115.11,26.736 114.984,25.818 L113.418,25.818 C113.652,27.942 115.218,28.734 117.306,28.734 C120.06,28.734 121.284,27.582 121.284,25.764 C121.284,24.27 120.456,23.46 118.368,23.1 L116.982,22.866 C115.902,22.668 115.362,22.308 115.362,21.462 C115.362,20.58 116.064,20.04 117.36,20.04 C118.584,20.04 119.358,20.4 119.52,21.39 L119.52,21.39 Z M127.584,20.364 L127.584,25.854 C127.584,27.636 128.448,28.716 130.77,28.716 C131.706,28.716 132.372,28.5 132.894,28.302 L132.894,26.952 C132.228,27.186 131.778,27.33 130.878,27.33 C129.888,27.33 129.186,26.97 129.186,25.728 L129.186,20.364 L132.894,20.364 L132.894,19.014 L129.186,19.014 L129.186,16.098 L127.692,16.098 L127.692,18.024 C127.692,18.762 127.44,19.014 126.702,19.014 L124.146,19.014 L124.146,20.364 L127.584,20.364 Z" id="Atavist-2" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
+		</a><ul class="hs-nav-pages  nav navbar-nav"><a id="atavist-logo-link" href="/" class="navbar-brand">
+	    	</a><li class=""><a id="atavist-logo-link" href="/" class="navbar-brand"></a><a href="/login">Log In</a></li>
+	    	<li class=""><a href="/signup">Sign Up</a></li>
+	    </ul>
+	
+</nav>
+<nav id="hs-nav-fixed" class="navbar navbar-default">
+	     <a class="hs-nav-menu-trigger ">
+	    	<span class="sr-only">Menu</span>
+	    	<svg class="hs-menu-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44" enable-background="new 0 0 44 44"><line class="hs-menu-line" stroke="#231F20" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="12" y1="22" x2="32" y2="22" fill="none"></line><line class="hs-menu-line" stroke="#231F20" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="12" y1="16" x2="32" y2="16" fill="none"></line><line class="hs-menu-line" stroke="#231F20" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="12" y1="28" x2="32" y2="28" fill="none"></line></svg>
+	    </a>
+	    <ul class="hs-nav-pages  nav navbar-nav show-in-downscroll">
+	    	<li><a class="btn btn-lg btn-upgrade" href="/signup">Sign Up, Free</a></li>
+	    </ul>
+</nav>
+<div class="hs-menu-other">
+	<div class="hs-closer"></div>
+		<a class="btn btn-lg btn-upgrade" href="/signup">Start for Free</a> <a class="btn btn-lg btn-link" href="/login">Log In</a>
+    <nav class="hs-nav-links">
+    <ul class="list-unstyled hs-nav-main">
+        <li><a href="/">Overview</a></li>
+        <li><a href="/examples">Examples</a></li>
+        <li><a href="/for/websites">Websites</a></li>
+        <li><a href="/for/publications">For Publications</a></li>
+    </ul>    <ul class="list-unstyled secondary-nav-links">
+    <li><a href="/page/about">About Us</a></li>
+    <li><a href="/plans">Plans &amp; Features</a></li>
+    <li><a href="/page/press">Press</a></li>
+    <li><a href="https://docs.atavist.com/faq" target="_blank">FAQ</a></li>
+    <li><a href="https://docs.atavist.com" target="_blank">Help Docs</a></li>
+    <li>&nbsp;</li>
+    <li>© 2016 Atavist</li>
+    <li><a href="/page/privacy">Privacy Policy</a></li>
+    <li><a href="/page/tos">Terms of Service</a></li>
 </ul>
-					<ul class="main-nav-login">
-	                    <li><a href="//atavist.com/signup">Register</a></li>
-	                    <li><a href="//atavist.com/login">Sign In</a></li>
-	                </ul>
-				</div></nav><!-- .main-navigation -->
-			                
-    </header>
+    <ul class="list-unstyled">
+    <li>
+        <a href="//magazine.atavist.com" id="mag-logo"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 471.2 47.5" enable-background="new 0 0 471.2 47.5" fill="#585858" xml:space="preserve">
+    <path d="M2.9,19.9v-5.5h2.9C8.3,14.4,9,13.6,9,11V7.4h6.8v6.7h7.5v5.7h-7.3v7.1c0,2.2,0.6,3.2,3.6,3.2c1.1,0,2.1-0.1,3.8-0.5v5.7
+        c-1.2,0.3-3.2,0.7-6.4,0.7c-4.8,0-8.5-2.2-8.5-7.8v-8.5H2.9z"></path>
+    <path d="M41.1,22.5c0-1.2-0.2-2-0.6-2.6S39.3,19,38.4,19c-2.2,0-3.2,1.7-3.2,6v10.7h-7.6V4.3h7.6v13h0.1c0.9-1.8,2.7-3.6,6.4-3.6
+        c5.1,0,7.1,3,7.1,7.9v14.1h-7.6V22.5z"></path>
+    <path d="M63.6,36.4c-7.3,0-11.2-4.4-11.2-11.6c0-6.7,4.3-11.2,11.3-11.2c7.5,0,11.1,5.1,11.1,11.4v2h-15c0.3,3,1.6,4.1,3.8,4.1
+        c1.9,0,2.8-0.7,3.4-2.1h7.7C73.8,33.5,70.3,36.4,63.6,36.4z M63.7,18.5c-2.2,0-3.4,1.2-3.8,4.1h7.3v-0.2
+        C67.1,20.5,66.2,18.5,63.7,18.5z"></path>
+    <path d="M113.3,19.9v-5.5h2.9c2.5,0,3.2-0.7,3.2-3.4V7.4h6.8v6.7h7.5v5.7h-7.3v7.1c0,2.2,0.6,3.2,3.6,3.2c1.1,0,2.1-0.1,3.8-0.5v5.7
+        c-1.2,0.3-3.2,0.7-6.4,0.7c-4.8,0-8.5-2.2-8.5-7.8v-8.5H113.3z"></path>
+    <path d="M148.8,13.7c6.5,0,9.6,2.3,9.6,8.2v7.1c0,0.8,0.4,1.1,1.1,1.1h1v5.5h-4.8c-2.3,0-3.2-0.5-3.8-2.3h-0.1
+        c-0.9,1.4-3.1,2.8-6.1,2.8c-3.7,0-7.6-1.2-7.6-6.8c0-2.6,1.2-4.6,3.3-5.6c2.4-1.2,4.3-1.4,9.9-1.6v-0.8c0-1.7-0.8-2.8-2.5-2.8
+        c-1.6,0-2.6,0.8-2.7,2.3h-7.3C138.8,16.8,142.8,13.7,148.8,13.7z M151.3,26.7c-3.1,0.1-3.9,0.2-4.6,0.6c-0.8,0.4-1.1,1.2-1.1,2
+        c0,1.3,0.8,2,2.2,2C150.2,31.3,151.3,29.1,151.3,26.7z"></path>
+    <path d="M168.8,14.2l2.7,8.5c0.6,1.7,0.9,3.2,1.2,4.3c0.1,0.6,0.3,1.2,0.4,1.7h0.2c0.1-0.5,0.2-1,0.3-1.7c0.3-1.1,0.6-2.6,1.2-4.3
+        l2.6-8.5h7l-7.7,21.6H169l-7.3-21.6H168.8z"></path>
+    <path d="M186.8,30h6.3V19.9h-5.5v-5.7h13.1V30h4.9v5.7h-18.9V30z M201.2,3.5v7.7h-8.1V3.5H201.2z"></path>
+    <path d="M397.5,30h6.3V19.9h-5.5v-5.7h13.1V30h4.9v5.7h-18.9V30z M411.8,3.5v7.7h-8.1V3.5H411.8z"></path>
+    <path d="M230.4,19.9v-5.5h2.9c2.5,0,3.2-0.7,3.2-3.4V7.4h6.8v6.7h7.5v5.7h-7.3v7.1c0,2.2,0.6,3.2,3.6,3.2c1.1,0,2.1-0.1,3.8-0.5v5.7
+        c-1.2,0.3-3.2,0.7-6.4,0.7c-4.8,0-8.5-2.2-8.5-7.8v-8.5H230.4z"></path>
+    <path d="M306.8,13.7c6.5,0,9.6,2.3,9.6,8.2v7.1c0,0.8,0.4,1.1,1.1,1.1h1v5.5h-4.8c-2.3,0-3.2-0.5-3.8-2.3h-0.1
+        c-0.9,1.4-3.1,2.8-6.1,2.8c-3.7,0-7.6-1.2-7.6-6.8c0-2.6,1.2-4.6,3.3-5.6c2.4-1.2,4.2-1.4,9.9-1.6v-0.8c0-1.7-0.8-2.8-2.5-2.8
+        c-1.6,0-2.6,0.8-2.7,2.3h-7.2C296.9,16.8,300.9,13.7,306.8,13.7z M309.4,26.7c-3.1,0.1-3.9,0.2-4.6,0.6c-0.8,0.4-1.1,1.2-1.1,2
+        c0,1.3,0.8,2,2.2,2C308.2,31.3,309.4,29.1,309.4,26.7z"></path>
+    <path d="M322.8,36.6h7.3c0.2,1.5,1.3,2.2,3.2,2.2c2.3,0,3.4-1.3,3.4-3.6v-3h-0.2c-0.9,1.6-2.4,2.7-5.1,2.7c-6.1,0-9.3-3.6-9.3-10.3
+        c0-7.3,4-10.9,9.1-10.9c3.2,0,5,1.6,5.7,2.8h0.1v-2.4h7.2v19.2c0,6.9-3.8,10.4-11.2,10.4C325.7,43.7,323,40.6,322.8,36.6z
+         M333.3,18.8c-2.2,0-3.6,1.8-3.6,5.7s1.4,5.7,3.6,5.7c2.4,0,3.4-1.8,3.4-4.3v-2.4C336.6,20.3,335.6,18.8,333.3,18.8z"></path>
+    <path d="M358.9,13.7c6.5,0,9.6,2.3,9.6,8.2v7.1c0,0.8,0.4,1.1,1.1,1.1h1v5.5h-4.8c-2.3,0-3.2-0.5-3.8-2.3H362
+        c-0.9,1.4-3.1,2.8-6.1,2.8c-3.7,0-7.6-1.2-7.6-6.8c0-2.6,1.2-4.6,3.3-5.6c2.4-1.2,4.2-1.4,9.9-1.6v-0.8c0-1.7-0.8-2.8-2.5-2.8
+        c-1.6,0-2.6,0.8-2.7,2.3H349C349,16.8,353,13.7,358.9,13.7z M361.5,26.7c-3.1,0.1-3.9,0.2-4.6,0.6c-0.8,0.4-1.1,1.2-1.1,2
+        c0,1.3,0.8,2,2.2,2C360.3,31.3,361.5,29.1,361.5,26.7z"></path>
+    <path d="M393.1,14.2v5L383.2,30h10.2v5.7h-19.1v-5l10-10.9h-9.9v-5.7H393.1z"></path>
+    <path d="M433.1,20c-0.4-0.6-1.2-0.9-2.1-0.9c-2.2,0-3.2,1.7-3.2,6v10.7h-7.6V14.2h7.3v3.5h0.1c1.1-2.1,3-4,6.7-4c5.1,0,7.1,3,7.1,8
+        v14.1h-7.6V22.6C433.7,21.3,433.5,20.5,433.1,20z"></path>
+    <path d="M456.3,36.4c-7.3,0-11.2-4.4-11.1-11.6c0-6.7,4.4-11.2,11.4-11.1c7.5,0,11.1,5.1,11,11.5l0,2l-15-0.1c0.3,3,1.5,4.1,3.8,4.1
+        c1.9,0,2.8-0.7,3.4-2.1l7.7,0C466.5,33.6,463,36.4,456.3,36.4z M456.5,18.5c-2.2,0-3.4,1.2-3.8,4.1l7.3,0l0-0.2
+        C459.8,20.5,459,18.5,456.5,18.5z"></path>
+    <path d="M276.5,4.1l1.6,7.9c0.4,1.8,0.8,3.8,1,5.5c0.1,1,0.2,1.9,0.3,2.8h0.3c0.1-0.9,0.2-1.9,0.3-2.8c0.2-1.6,0.5-3.8,1-5.5
+        l1.6-7.8h8.9v31.7H285V15.5h-0.4l-2.7,12.3h-5.1c0,0-2.7-11.6-2.8-12.3h-0.4v20.3h-6.3V4.1H276.5z"></path>
+    <g>
+        <path d="M218.1,18.7c-1.8,0-2.8,0.6-2.8,1.5c0,0.9,0.8,1.6,2.6,1.9l4.6,0.6c3.9,0.6,5.9,2.5,5.9,5.7c0,5.1-3.9,8-10.2,8
+            c-7.6,0-10.3-3.5-10.2-7.1h6.7c0.2,1.4,1.2,2.2,3.6,2.2c2.2,0,3.4-0.6,3.4-1.6c0-0.9-1-1.6-2.4-1.8l-4.4-0.6
+            c-3.8-0.5-6.4-2.8-6.4-6.3c0-4.3,3.2-7.5,9.7-7.5c6.9,0,9.5,3.6,9.7,7.1h-6.7C221.1,19.6,220.3,18.7,218.1,18.7z"></path>
+    </g>
+    <path d="M106,3.7H94.3l-5.4,32h7.5l0.9-5.7h2.9h0h2.9l0.9,5.7h7.5L106,3.7z M98.1,24.4l0.7-5.5c0.3-2.1,0.5-4.4,0.6-6
+        c0.2-2.1,0.2-3.5,0.2-3.6h1c0,0.1,0.1,1.5,0.2,3.6c0.1,1.6,0.3,3.9,0.6,6l0.7,5.5H98.1z"></path>
+    </svg></a>
+        Visit <a href="//magazine.atavist.com" target="blank">The Atavist Magazine</a>, our team's very own, award-winning publication —&nbsp;made using Atavist. 
+    </li>
 
-
-
-
-	<div id="content" class="site-content">
-
-<section class="page-template">
-    <div class="wrapper">
-		            <h1>Privacy Policy</h1>
-            <div class="text-contents">
-            <p class="p1"><span class="s1">This is the Privacy Policy for Atavist and <i>The Atavist Magazine,</i> published March 23, 2015: (To see the previous Privacy Policy, go <a href="https://magazine.atavist.com/privacy-policy-published-9-24-14/"><span class="s2">here</span></a>.)</span></p>
-<p class="p1"><span class="s1">Atavist is committed to preserving the privacy of its readers and users. This policy outlines the handling of users’ personal information that is submitted at any point in the site. The information is used only in the ways specified when it was collected. That information is not shared in any other shape or manner otherwise.</span></p>
-<p class="p1"><span class="s1"><b>Consent</b></span></p>
-<p class="p1"><span class="s1">By using our web site and mobile apps you consent to the use of your personal information as described in this Privacy and Data Policy. Except as set forth in this policy, your personal information will not be used for any other purpose without your consent. We will not actively collect personal Information for the purpose of sale or marketing in a way that specifically identifies the individual. In other words, we don’t sell customer lists. You may withdraw your consent to our processing of your personal information at any time. However, withdrawing consent may result in your inability to continue using our web site, apps, and/or other services.</span></p>
-<p class="p1"><span class="s1"><b>Types and uses of personal information</b></span></p>
-<p class="p1"><span class="s1">In order to purchase a story or subscription from <i>The Atavist Magazine</i> or create content on Atavist, you must first create an account with a username and password. The registration system requires a valid email address, used to confirm the account. Accounts are backed up regularly, if the user changes the information on his or her account, Atavist’s stored data backups may include the user’s original information for up to six months. Separately, when any Atavist administrators are emailed, the addresses and correspondence are retained. This information is saved to respond to issues and inquiries of all types.</span></p>
-<p class="p1"><span class="s1"><b>Credit card information</b></span></p>
-<p class="p1"><span class="s1">For collecting payments for purchase of Atavist stories, we utilize the payment processing service Stripe, which stores all credit cards securely. Atavist does not store any user credit card information on our own servers.</span></p>
-<p class="p1"><span class="s1"><b>Aggregate Data Collection on Reading Habits</b></span></p>
-<p class="p1"><span class="s1">The Atavist application on iOS, Android, and other devices, as well as the Atavist web reader, may collect certain non-personally identifiable information, such as how you read and which multimedia components you take advantage of. This data is stored securely on our servers and is used to enable us to understand broad trends in how people are reading and utilizing our content, in order to better serve our readers.</span></p>
-<p class="p1"><span class="s1">If you prefer that the Atavist app not collect any anonymized information about your reading habits in our iOS apps, you can go to Settings-&gt;Apps-&gt;The Atavist-&gt;Disable Analytics Data Collection, and turn it off.</span></p>
-<p class="p1"><span class="s1"><b>Aggregate Data Collection on Atavist Feature Usage</b></span></p>
-<p class="p1"><span class="s1">Atavist may collect certain non-personally identifiable information on the users of Atavist, such as how many stories you create and publish, and which features you use. This data is stored securely on our servers and is used to enable us to understand broad trends in how people are creating content in our system, in order to better serve our readers.</span></p>
-<p class="p1"><span class="s1"><b>Mailing list</b></span></p>
-<p class="p1"><span class="s1">If you send us your email address to be added to our list, we will not share it with anyone outside of Atavist Inc. We use email addresses only to send occasional updates on our latest stories from <i>The Atavist Magazine </i>or news about Atavist, features, and stories that we think our readers might be interested in.</span></p>
-<p class="p1"><span class="s1"><b>Information sharing</b></span></p>
-<p class="p1"><span class="s1">Aggregated reading and demographic information about our audience may be shared with third parties, including browser information and traffic statistics. This data is not tied to any individual readers’ accounts or personally identifiable information.</span></p>
-<p class="p1"><span class="s1"><b>Personally identifiable information:</b></span></p>
-<p class="p1"><span class="s1">No personally identifiable information is shared with third parties, with limited exceptions, namely: We reserve the right to access, preserve, and disclose any information as we reasonably believe is necessary, in our sole discretion, to (i) satisfy any law, regulation, legal process, governmental request, or governmental order, (ii) enforce this Privacy Policy and our Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security, trust and safety, or technical issues (including exchanging information with other companies and organizations for the purposes of improving security and preventing fraud, spam, and malware), (iv) respond to user support requests, or (v) protect the rights, property, health or safety of us, our users, any third parties or the public in general, including but not limited to situations involving possible violence, suicide, or self-harm.</span></p>
-<p class="p1"><span class="s1">We believe in freedom of expression, and, to the extent reasonable, we will try to protect our community from baseless legal demands.</span></p>
-<p class="p1"><span class="s1"><b>Cookies</b></span></p>
-<p class="p1"><span class="s1">A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. Atavist uses cookies on this site. Some of the information stored in cookies is sometimes linked to readers’ accounts.</span></p>
-<p class="p1"><span class="s1">Atavist uses both short-term cookies and persistent cookies. A short-term cookie expires within a limited period of time. Session cookies are used so that readers with accounts can navigate Atavist without logging in multiple times over a short period of time. A persistent cookie remains on the user’s hard drive for an extended period of time. Persistent cookies are used to recognize account holders and present the site accordingly. Users can remove cookies by following directions provided in your Internet browser’s “help” file.</span></p>
-<p class="p1"><span class="s1"><b>Other questions or issues</b></span></p>
-<p class="p1"><span class="s1">If you have any questions or issues around any of these matters, email us: support@atavist.com.</span></p>
-<p class="p1"><span class="s1"><b>Legal</b></span></p>
-<p class="p1"><span class="s1">All stories and other information are © 2010-2015 Atavist Inc. All rights reserved.</span></p>
-            </div>
-            	
-    </div>
-</section>
-
-
-	</div><!-- .site-content -->
-
-
-
-	<footer id="page-footer">
-        <div class="wrapper">
-            <h4>Atavist <span>■ Infinite ways to tell your story.</span></h4>
-
-
-            				<nav class="main-footer-nav">
-					<div class="menu-primary-footer-container"><ul id="menu-primary-footer" class="footer-nav1"><li id="menu-item-152" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-152"><a href="//atavist.com/plans">Plans and Pricing</a></li>
-<li id="menu-item-322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-322"><a href="http://about.atavist.com/built-with-atavist/">Built With Atavist</a></li>
-<li id="menu-item-151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="http://about.atavist.com/atavist-features/">Features</a></li>
-<li id="menu-item-323" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-323"><a href="//magazine.atavist.com">The Atavist Magazine</a></li>
-</ul></div>				</nav>
-
-				<!-- <ul>
-                    <li><a href="">Plans and Pricing</a></li>
-                    <li><a href="">Features</a></li>
-                    <li><a href="">Built With Creatavist</a></li>
-                    <li><a href="">About Us</a></li>
-                </ul> -->
-			
-							<nav class="main-footer-nav2">
-					<div class="menu-secondary-footer-container"><ul id="menu-secondary-footer" class="footer-nav2"><li id="menu-item-324" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-324"><a href="http://about.atavist.com/">About Us</a></li>
-<li id="menu-item-605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-605"><a href="http://about.atavist.com/careers/">Careers</a></li>
-<li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="http://about.atavist.com/atavist-press/">Press</a></li>
-<li id="menu-item-325" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-325"><a href="//help.atavist.com/faq">FAQ</a></li>
-<li id="menu-item-146" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-146"><a href="//help.atavist.com">Help Center</a></li>
-</ul></div>				</nav>
-			
-
-            <section class="legal">
-                <small>© 2015 Atavist</small>
-                                <div class="menu-legal-container"><ul id="menu-legal" class="legalnav"><li id="menu-item-329" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-142 current_page_item menu-item-329"><a href="http://about.atavist.com/privacy-policy/">Privacy Policy</a></li>
-<li id="menu-item-421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-421"><a href="http://about.atavist.com/terms-of-service/">Terms of Service</a></li>
-</ul></div>                            </section>
-
-            				<nav class="social-footer-nav">
-					<ul>
-						<li class="social-footer-link"><a id="social-footer-twitter" target="_blank" href="https://twitter.com/atavist"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200"><path fill="#fff" d="M810.5 154.8c-123.7 0-222.6 98.9-222.6 222.6 0 19.8 0 34.6 4.9 49.5-188-9.9-351.2-98.9-465-232.5-14.8 34.6-29.7 74.2-29.7 113.7 0 79.2 39.6 148.4 98.9 188-34.6 0-69.3-9.9-103.9-29.7v4.9c0 108.8 79.2 197.9 178.1 222.6-9.9 0-29.7 4.9-54.4 4.9-14.8 0-29.7 0-44.5-4.9 29.7 89 113.8 153.4 207.8 158.3-69.3 59.4-168.2 94-272.1 94h-54.4c98.9 64.3 217.7 98.9 346.3 98.9 415.5 0 638.2-341.3 638.2-638.2v-29.7c44.5-29.7 84.1-69.3 113.8-118.7-39.6 19.8-84.1 29.7-128.6 34.6 44.5-29.7 84.1-74.2 98.9-123.7-44.5 24.7-89 44.5-143.5 54.4-44.5-39.3-103.9-69-168.2-69"></path></svg></a></li>
-                		<li class="social-footer-link"><a id="social-footer-facebook" target="_blank" href="https://www.facebook.com/atavist.inc"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200"><path fill="#fff" d="M470 1200v-546.7h-180v-213.3h186.7v-160c-6.7-180 106.6-280 266.6-280 80 0 146.7 6.7 166.7 6.7v193.3h-113.3c-86.7 0-106.7 40-106.7 106.7v133.3h213.3l-26.7 213.3h-180v546.7h-226.6z"></path></svg></a></li>
+</ul>
+    </nav>
+</div>
+		<section class="hs-hero">
+		
+		    <h1>Privacy Policy</h1>
+		</section>
+		
+		<section class="hs-generic bg-gray">
+			<div class="text-contents margin-top-60">
+				<p>This is the Privacy Policy for Atavist and <i>The Atavist Magazine,</i> published March 23, 2015: (To see the previous Privacy Policy, go <a href="https://magazine.atavist.com/privacy-policy-published-9-24-14/">here</a>.)</p>
+				
+				<p class="p1"><span class="s1">Atavist is committed to preserving the privacy of its readers and users. This policy outlines the handling of users’ personal information that is submitted at any point in the site. The information is used only in the ways specified when it was collected. That information is not shared in any other shape or manner otherwise.</span></p>
+				
+				<h3>Consent</h3>
+				
+				<p class="p1"><span class="s1">By using our web site and mobile apps you consent to the use of your personal information as described in this Privacy and Data Policy. Except as set forth in this policy, your personal information will not be used for any other purpose without your consent. We will not actively collect personal Information for the purpose of sale or marketing in a way that specifically identifies the individual. In other words, we don’t sell customer lists. You may withdraw your consent to our processing of your personal information at any time. However, withdrawing consent may result in your inability to continue using our web site, apps, and/or other services.</span></p>
+				
+				<p class="p1"><span class="s1"><b>Types and uses of personal information</b></span></p>
+				
+				<p class="p1"><span class="s1">In order to purchase a story or subscription from <i>The Atavist Magazine</i> or create content on Atavist, you must first create an account with a username and password. The registration system requires a valid email address, used to confirm the account. Accounts are backed up regularly, if the user changes the information on his or her account, Atavist’s stored data backups may include the user’s original information for up to six months. Separately, when any Atavist administrators are emailed, the addresses and correspondence are retained. This information is saved to respond to issues and inquiries of all types.</span></p>
+				
+				<p class="p1"><span class="s1"><b>Credit card information</b></span></p>
+				
+				<p class="p1"><span class="s1">For collecting payments for purchase of Atavist stories, we utilize the payment processing service Stripe, which stores all credit cards securely. Atavist does not store any user credit card information on our own servers.</span></p>
+				
+				<p class="p1"><span class="s1"><b>Aggregate Data Collection on Reading Habits</b></span></p>
+				
+				<p class="p1"><span class="s1">The Atavist application on iOS, Android, and other devices, as well as the Atavist web reader, may collect certain non-personally identifiable information, such as how you read and which multimedia components you take advantage of. This data is stored securely on our servers and is used to enable us to understand broad trends in how people are reading and utilizing our content, in order to better serve our readers.</span></p>
+				
+				<p class="p1"><span class="s1">If you prefer that the Atavist app not collect any anonymized information about your reading habits in our iOS apps, you can go to Settings-&gt;Apps-&gt;The Atavist-&gt;Disable Analytics Data Collection, and turn it off.</span></p>
+				
+				<p class="p1"><span class="s1"><b>Aggregate Data Collection on Atavist Feature Usage</b></span></p>
+				
+				<p class="p1"><span class="s1">Atavist may collect certain non-personally identifiable information on the users of Atavist, such as how many stories you create and publish, and which features you use. This data is stored securely on our servers and is used to enable us to understand broad trends in how people are creating content in our system, in order to better serve our readers.</span></p>
+				
+				<p class="p1"><span class="s1"><b>Mailing list</b></span></p>
+				
+				<p class="p1"><span class="s1">If you send us your email address to be added to our list, we will not share it with anyone outside of Atavist Inc. We use email addresses only to send occasional updates on our latest stories from <i>The Atavist Magazine </i>or news about Atavist, features, and stories that we think our readers might be interested in.</span></p>
+				
+				<p class="p1"><span class="s1"><b>Information sharing</b></span></p>
+				
+				<p class="p1"><span class="s1">Aggregated reading and demographic information about our audience may be shared with third parties, including browser information and traffic statistics. This data is not tied to any individual readers’ accounts or personally identifiable information.</span></p>
+				
+				<p class="p1"><span class="s1"><b>Personally identifiable information:</b></span></p>
+				
+				<p class="p1"><span class="s1">No personally identifiable information is shared with third parties, with limited exceptions, namely: We reserve the right to access, preserve, and disclose any information as we reasonably believe is necessary, in our sole discretion, to (i) satisfy any law, regulation, legal process, governmental request, or governmental order, (ii) enforce this Privacy Policy and our Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security, trust and safety, or technical issues (including exchanging information with other companies and organizations for the purposes of improving security and preventing fraud, spam, and malware), (iv) respond to user support requests, or (v) protect the rights, property, health or safety of us, our users, any third parties or the public in general, including but not limited to situations involving possible violence, suicide, or self-harm.</span></p>
+				
+				<p class="p1"><span class="s1">We believe in freedom of expression, and, to the extent reasonable, we will try to protect our community from baseless legal demands.</span></p>
+				
+				<p class="p1"><span class="s1"><b>Cookies</b></span></p>
+				
+				<p class="p1"><span class="s1">A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. Atavist uses cookies on this site. Some of the information stored in cookies is sometimes linked to readers’ accounts.</span></p>
+				
+				<p class="p1"><span class="s1">Atavist uses both short-term cookies and persistent cookies. A short-term cookie expires within a limited period of time. Session cookies are used so that readers with accounts can navigate Atavist without logging in multiple times over a short period of time. A persistent cookie remains on the user’s hard drive for an extended period of time. Persistent cookies are used to recognize account holders and present the site accordingly. Users can remove cookies by following directions provided in your Internet browser’s “help” file.</span></p>
+				
+				<p class="p1"><span class="s1"><b>Other questions or issues</b></span></p>
+				
+				<p class="p1"><span class="s1">If you have any questions or issues around any of these matters, email us: support@atavist.com.</span></p>
+				
+				<p class="p1"><span class="s1"><b>Legal</b></span></p>
+				
+				<p class="p1"><span class="s1">All stories and other information are © 2010-2016 Atavist Inc. All rights reserved.</span></p>
+				
+			</div>              
+		</section>
+		
+		
+		<footer id="hs-footer">
+		        <nav class="hs-nav-links">
+			        <h3>Atavist <span class="pipe">|</span> <a href="/signup">Start for Free</a></h3>
+					<ul class="list-unstyled hs-nav-main">
+					    <li><a href="/">Overview</a></li>
+					    <li><a href="/examples">Examples</a></li>
+					    <li><a href="/for/websites">Websites</a></li>
+					    <li><a href="/for/publications">For Publications</a></li>
+					</ul>					<ul class="list-unstyled">
+						<li><a href="/for/pro">For Creative Professionals</a></li>
+						<li><a href="/for/journalists-publishers">For Journalists &amp; Publishers</a></li>
+						<li><a href="/for/education">For Education</a></li>
+						<li><a href="/for/nonprofit-cultural">For Non-Profit &amp; Cultural Institutions</a></li>
+						<li><a href="/for/facebook-instant-articles">For Social</a></li>
+						<li><a href="/for/brands">For Brands</a></li>
+						<li><a href="/for/photographers">For Photographers</a></li>
+						<li><a href="/for/chefs-recipes">For Chefs &amp; Food Writers</a></li>
 					</ul>
 				</nav>
-			        </div>
-    </footer>
+				<nav class="hs-nav-links">
+					<h3>Learn More</h3>
+			        <ul class="list-unstyled secondary-nav-links">
+			            <li><a href="/page/about">About Us</a></li>
+			            <li><a href="/plans">Plans &amp; Features</a></li>
+			            <li><a href="/page/press">Press</a></li>
+			            <li><a href="https://docs.atavist.com/faq" target="_blank">FAQ</a></li>
+			            <li><a href="https://docs.atavist.com" target="_blank">Help Docs</a></li>
+			            <li>&nbsp;</li>
+			            <li>© 2016 Atavist</li>
+			            <li><a href="/page/privacy">Privacy Policy</a></li>
+			            <li><a href="/page/tos">Terms of Service</a></li>
+			        </ul>		        </nav>
+		        <nav class="hs-nav-links pull-right">
+		        	<h3>Follow Atavist</h3>
+		    	    <a id="social-footer-twitter" class="social-footer-link" target="_blank" href="https://twitter.com/atavist"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200"><path fill="#fff" d="M810.5 154.8c-123.7 0-222.6 98.9-222.6 222.6 0 19.8 0 34.6 4.9 49.5-188-9.9-351.2-98.9-465-232.5-14.8 34.6-29.7 74.2-29.7 113.7 0 79.2 39.6 148.4 98.9 188-34.6 0-69.3-9.9-103.9-29.7v4.9c0 108.8 79.2 197.9 178.1 222.6-9.9 0-29.7 4.9-54.4 4.9-14.8 0-29.7 0-44.5-4.9 29.7 89 113.8 153.4 207.8 158.3-69.3 59.4-168.2 94-272.1 94h-54.4c98.9 64.3 217.7 98.9 346.3 98.9 415.5 0 638.2-341.3 638.2-638.2v-29.7c44.5-29.7 84.1-69.3 113.8-118.7-39.6 19.8-84.1 29.7-128.6 34.6 44.5-29.7 84.1-74.2 98.9-123.7-44.5 24.7-89 44.5-143.5 54.4-44.5-39.3-103.9-69-168.2-69"></path></svg></a> <a id="social-footer-facebook" class="social-footer-link" target="_blank" href="https://www.facebook.com/atavist.inc"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200"><path fill="#fff" d="M470 1200v-546.7h-180v-213.3h186.7v-160c-6.7-180 106.6-280 266.6-280 80 0 146.7 6.7 166.7 6.7v193.3h-113.3c-86.7 0-106.7 40-106.7 106.7v133.3h213.3l-26.7 213.3h-180v546.7h-226.6z"></path></svg></a>
+		        	<hr>
+			        <ul class="list-unstyled">
+			            <li>
+			                <a href="//magazine.atavist.com" id="mag-logo"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 471.2 47.5" enable-background="new 0 0 471.2 47.5" fill="#585858" xml:space="preserve">
+			            <path d="M2.9,19.9v-5.5h2.9C8.3,14.4,9,13.6,9,11V7.4h6.8v6.7h7.5v5.7h-7.3v7.1c0,2.2,0.6,3.2,3.6,3.2c1.1,0,2.1-0.1,3.8-0.5v5.7
+			                c-1.2,0.3-3.2,0.7-6.4,0.7c-4.8,0-8.5-2.2-8.5-7.8v-8.5H2.9z"></path>
+			            <path d="M41.1,22.5c0-1.2-0.2-2-0.6-2.6S39.3,19,38.4,19c-2.2,0-3.2,1.7-3.2,6v10.7h-7.6V4.3h7.6v13h0.1c0.9-1.8,2.7-3.6,6.4-3.6
+			                c5.1,0,7.1,3,7.1,7.9v14.1h-7.6V22.5z"></path>
+			            <path d="M63.6,36.4c-7.3,0-11.2-4.4-11.2-11.6c0-6.7,4.3-11.2,11.3-11.2c7.5,0,11.1,5.1,11.1,11.4v2h-15c0.3,3,1.6,4.1,3.8,4.1
+			                c1.9,0,2.8-0.7,3.4-2.1h7.7C73.8,33.5,70.3,36.4,63.6,36.4z M63.7,18.5c-2.2,0-3.4,1.2-3.8,4.1h7.3v-0.2
+			                C67.1,20.5,66.2,18.5,63.7,18.5z"></path>
+			            <path d="M113.3,19.9v-5.5h2.9c2.5,0,3.2-0.7,3.2-3.4V7.4h6.8v6.7h7.5v5.7h-7.3v7.1c0,2.2,0.6,3.2,3.6,3.2c1.1,0,2.1-0.1,3.8-0.5v5.7
+			                c-1.2,0.3-3.2,0.7-6.4,0.7c-4.8,0-8.5-2.2-8.5-7.8v-8.5H113.3z"></path>
+			            <path d="M148.8,13.7c6.5,0,9.6,2.3,9.6,8.2v7.1c0,0.8,0.4,1.1,1.1,1.1h1v5.5h-4.8c-2.3,0-3.2-0.5-3.8-2.3h-0.1
+			                c-0.9,1.4-3.1,2.8-6.1,2.8c-3.7,0-7.6-1.2-7.6-6.8c0-2.6,1.2-4.6,3.3-5.6c2.4-1.2,4.3-1.4,9.9-1.6v-0.8c0-1.7-0.8-2.8-2.5-2.8
+			                c-1.6,0-2.6,0.8-2.7,2.3h-7.3C138.8,16.8,142.8,13.7,148.8,13.7z M151.3,26.7c-3.1,0.1-3.9,0.2-4.6,0.6c-0.8,0.4-1.1,1.2-1.1,2
+			                c0,1.3,0.8,2,2.2,2C150.2,31.3,151.3,29.1,151.3,26.7z"></path>
+			            <path d="M168.8,14.2l2.7,8.5c0.6,1.7,0.9,3.2,1.2,4.3c0.1,0.6,0.3,1.2,0.4,1.7h0.2c0.1-0.5,0.2-1,0.3-1.7c0.3-1.1,0.6-2.6,1.2-4.3
+			                l2.6-8.5h7l-7.7,21.6H169l-7.3-21.6H168.8z"></path>
+			            <path d="M186.8,30h6.3V19.9h-5.5v-5.7h13.1V30h4.9v5.7h-18.9V30z M201.2,3.5v7.7h-8.1V3.5H201.2z"></path>
+			            <path d="M397.5,30h6.3V19.9h-5.5v-5.7h13.1V30h4.9v5.7h-18.9V30z M411.8,3.5v7.7h-8.1V3.5H411.8z"></path>
+			            <path d="M230.4,19.9v-5.5h2.9c2.5,0,3.2-0.7,3.2-3.4V7.4h6.8v6.7h7.5v5.7h-7.3v7.1c0,2.2,0.6,3.2,3.6,3.2c1.1,0,2.1-0.1,3.8-0.5v5.7
+			                c-1.2,0.3-3.2,0.7-6.4,0.7c-4.8,0-8.5-2.2-8.5-7.8v-8.5H230.4z"></path>
+			            <path d="M306.8,13.7c6.5,0,9.6,2.3,9.6,8.2v7.1c0,0.8,0.4,1.1,1.1,1.1h1v5.5h-4.8c-2.3,0-3.2-0.5-3.8-2.3h-0.1
+			                c-0.9,1.4-3.1,2.8-6.1,2.8c-3.7,0-7.6-1.2-7.6-6.8c0-2.6,1.2-4.6,3.3-5.6c2.4-1.2,4.2-1.4,9.9-1.6v-0.8c0-1.7-0.8-2.8-2.5-2.8
+			                c-1.6,0-2.6,0.8-2.7,2.3h-7.2C296.9,16.8,300.9,13.7,306.8,13.7z M309.4,26.7c-3.1,0.1-3.9,0.2-4.6,0.6c-0.8,0.4-1.1,1.2-1.1,2
+			                c0,1.3,0.8,2,2.2,2C308.2,31.3,309.4,29.1,309.4,26.7z"></path>
+			            <path d="M322.8,36.6h7.3c0.2,1.5,1.3,2.2,3.2,2.2c2.3,0,3.4-1.3,3.4-3.6v-3h-0.2c-0.9,1.6-2.4,2.7-5.1,2.7c-6.1,0-9.3-3.6-9.3-10.3
+			                c0-7.3,4-10.9,9.1-10.9c3.2,0,5,1.6,5.7,2.8h0.1v-2.4h7.2v19.2c0,6.9-3.8,10.4-11.2,10.4C325.7,43.7,323,40.6,322.8,36.6z
+			                 M333.3,18.8c-2.2,0-3.6,1.8-3.6,5.7s1.4,5.7,3.6,5.7c2.4,0,3.4-1.8,3.4-4.3v-2.4C336.6,20.3,335.6,18.8,333.3,18.8z"></path>
+			            <path d="M358.9,13.7c6.5,0,9.6,2.3,9.6,8.2v7.1c0,0.8,0.4,1.1,1.1,1.1h1v5.5h-4.8c-2.3,0-3.2-0.5-3.8-2.3H362
+			                c-0.9,1.4-3.1,2.8-6.1,2.8c-3.7,0-7.6-1.2-7.6-6.8c0-2.6,1.2-4.6,3.3-5.6c2.4-1.2,4.2-1.4,9.9-1.6v-0.8c0-1.7-0.8-2.8-2.5-2.8
+			                c-1.6,0-2.6,0.8-2.7,2.3H349C349,16.8,353,13.7,358.9,13.7z M361.5,26.7c-3.1,0.1-3.9,0.2-4.6,0.6c-0.8,0.4-1.1,1.2-1.1,2
+			                c0,1.3,0.8,2,2.2,2C360.3,31.3,361.5,29.1,361.5,26.7z"></path>
+			            <path d="M393.1,14.2v5L383.2,30h10.2v5.7h-19.1v-5l10-10.9h-9.9v-5.7H393.1z"></path>
+			            <path d="M433.1,20c-0.4-0.6-1.2-0.9-2.1-0.9c-2.2,0-3.2,1.7-3.2,6v10.7h-7.6V14.2h7.3v3.5h0.1c1.1-2.1,3-4,6.7-4c5.1,0,7.1,3,7.1,8
+			                v14.1h-7.6V22.6C433.7,21.3,433.5,20.5,433.1,20z"></path>
+			            <path d="M456.3,36.4c-7.3,0-11.2-4.4-11.1-11.6c0-6.7,4.4-11.2,11.4-11.1c7.5,0,11.1,5.1,11,11.5l0,2l-15-0.1c0.3,3,1.5,4.1,3.8,4.1
+			                c1.9,0,2.8-0.7,3.4-2.1l7.7,0C466.5,33.6,463,36.4,456.3,36.4z M456.5,18.5c-2.2,0-3.4,1.2-3.8,4.1l7.3,0l0-0.2
+			                C459.8,20.5,459,18.5,456.5,18.5z"></path>
+			            <path d="M276.5,4.1l1.6,7.9c0.4,1.8,0.8,3.8,1,5.5c0.1,1,0.2,1.9,0.3,2.8h0.3c0.1-0.9,0.2-1.9,0.3-2.8c0.2-1.6,0.5-3.8,1-5.5
+			                l1.6-7.8h8.9v31.7H285V15.5h-0.4l-2.7,12.3h-5.1c0,0-2.7-11.6-2.8-12.3h-0.4v20.3h-6.3V4.1H276.5z"></path>
+			            <g>
+			                <path d="M218.1,18.7c-1.8,0-2.8,0.6-2.8,1.5c0,0.9,0.8,1.6,2.6,1.9l4.6,0.6c3.9,0.6,5.9,2.5,5.9,5.7c0,5.1-3.9,8-10.2,8
+			                    c-7.6,0-10.3-3.5-10.2-7.1h6.7c0.2,1.4,1.2,2.2,3.6,2.2c2.2,0,3.4-0.6,3.4-1.6c0-0.9-1-1.6-2.4-1.8l-4.4-0.6
+			                    c-3.8-0.5-6.4-2.8-6.4-6.3c0-4.3,3.2-7.5,9.7-7.5c6.9,0,9.5,3.6,9.7,7.1h-6.7C221.1,19.6,220.3,18.7,218.1,18.7z"></path>
+			            </g>
+			            <path d="M106,3.7H94.3l-5.4,32h7.5l0.9-5.7h2.9h0h2.9l0.9,5.7h7.5L106,3.7z M98.1,24.4l0.7-5.5c0.3-2.1,0.5-4.4,0.6-6
+			                c0.2-2.1,0.2-3.5,0.2-3.6h1c0,0.1,0.1,1.5,0.2,3.6c0.1,1.6,0.3,3.9,0.6,6l0.7,5.5H98.1z"></path>
+			            </svg></a>
+			                Visit <a href="//magazine.atavist.com" target="blank">The Atavist Magazine</a>, our team's very own, award-winning publication —&nbsp;made using Atavist. 
+			            </li>
+			        
+			        </ul>		        </nav>
+		</footer>		<script src="/static/js/dist/homesite.min.js"></script>
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    <div id="page-overlay"></div>
+			ga('create', 'UA-40296216-10', 'auto');
+			ga('send', 'pageview');
 
-    <section id="pop-up">
-    </section>
-
-<script type="text/javascript" src="http://about.atavist.com/wp-content/themes/homesite/js/skip-link-focus-fix.js?ver=20141010"></script>
-<script type="text/javascript" src="http://about.atavist.com/wp-includes/js/comment-reply.min.js?ver=4.2.4"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://about.atavist.com/wp-content/themes/homesite/js/functions.js?ver=20141212"></script>
-<script src="http://about.atavist.com/wp-content/themes/homesite/js/main.js"></script>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-40296216-10', 'auto');
-  ga('send', 'pageview');
-
-</script>
-
-
+		</script>
+	
 </body></html>
