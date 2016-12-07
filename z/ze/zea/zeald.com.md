@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zeald.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207020358id_/http%3A//www.zeald.com/About/Legal/Privacy%2BPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeald.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207193957id_/http%3A//www.zeald.com/About/Legal/Privacy%2BPolicy.html) for the most accurate reproduction.*
 
 # Zeald Privacy Policy
 
 **Last Updated:  27 June 2014**
 
-This Privacy Policy discloses the privacy practices of Zeald New Zealand Limited and its related companies (“Zeald”).  Our Privacy Policy explains:
+This Privacy Policy discloses the privacy practices of Zeald Limited and its related companies (“Zeald”).  Our Privacy Policy explains:
 
   * What information we collect, who we collect it from and why we collect it;
   * How we use that information;
@@ -131,10 +131,14 @@ You have a right to access, and ask us to correct or delete any inaccurate perso
 
 If you contact us we may, for your protection, ask you for additional information to verify your identity.  We will use all reasonable efforts to provide the access you request within 10 working days and will correct or delete any inaccurate personal information you discover unless we have to keep that information for legitimate business or legal purposes.  
 
-Please be aware that even after your request for a change or deletion of information is processed, we may keep a copy of the information that you originally provided to us in our archives for uses documented in this Privacy Policy and may for a time, retain residual information about you in backup and/or archival copies of our databases.  
+Please be aware that even after your request for a change or deletion of information is processed, we may keep a copy of the information that you originally provided to us in our archives for uses documented in this Privacy Policy and may for a time, retain residual information about you in backup and/or archival copies of our databases.
+
+## 6\. Information Security
+
+To protect your private information as you enter it on our website, Zeald use encryption, such as the Secure Socket Layer (SSL) protocol.  When you pay online by credit card, Zeald uses a PCI-DSS compliant third-party payment gateway, Payment Express to securely process the payment.  Click here to view the [Payment Express Privacy Policy](http://www.paymentexpress.com/privacy-policy)  
  
 
-## 6\. Changes
+## 7\. Changes
 
 We may occasionally change our Privacy Policy.   These changes may reflect, among other things, changes in applicable laws or regulations, changes to our data collection practices, and/or changes to our business or services
 
@@ -143,7 +147,7 @@ We will post any updated policy on this page and if the changes are significant,
 Using our services or website after a notice of the changes has been published on our website shall constitute your consent to the changed terms or practices.  We therefore encourage you to review our Privacy Policy periodically for any changes.   
  
 
-## 7\. How to contact us
+## 8\. How to contact us
 
 Zeald welcomes your feedback about our Privacy Policy.  Please send your questions, concerns or comments regarding our Privacy Policy and your requests for access to your personal information:
 
