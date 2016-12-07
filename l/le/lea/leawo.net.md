@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leawo.net privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625095707id_/http%3A//leawo.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leawo.net privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207162907id_/http%3A//www.leawo.net/privacy.html) for the most accurate reproduction.*
 
 # Leawo software - Privacy Policy
 
