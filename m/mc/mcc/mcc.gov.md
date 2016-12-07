@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcc.gov privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609050907id_/https%3A//www.mcc.gov/resources/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcc.gov privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208002839id_/https%3A//www.mcc.gov/resources/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy, Policies & Notices | Millennium Challenge Corporation
 
@@ -22,6 +22,8 @@ General log information collected may include, but is not limited to:
   * Brower used to access the site (e.g. Internet Explorer, Safari, Firefox, Chrome)
   * Date & Time of access
   * Pages viewed upon visit
+  * Demographic categories (e.g., age range and gender)
+  * Market affinity categories
 
 
 
@@ -66,7 +68,7 @@ Some pages on our site may include web content or functionality from third parti
 
   * BitsOnTheRun.com ([Privacy Policy](http://www.longtailvideo.com/privacy/));
   * cloud.typography ([Privacy Policy](http://www.typography.com/home/privacy.php));
-  * Google (main [Privacy Policy](http://www.google.com/intl/en/policies/privacy/))
+  * Google (main [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)) 
     * Charts API ([Privacy Policy](http://www.google.com/intl/en/privacy/));
     * Maps API ([Privacy Policy](http://www.google.com/intl/en/privacy/));
   * SlideshowPro.com ([Privacy Policy](http://slideshowpro.net/legal/));
@@ -111,7 +113,7 @@ Below is the current list of official MCC pages on third-party websites:
   * YouTube 
     * [MCC’s Page](http://www.youtube.com/millenniumchallenge)
     * [YouTube’s Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
-  * iTunes
+  * iTunes 
     * [MCC Podcasts](http://itunes.apple.com/us/podcast/mcc-podcasts/id311937935)
     * [iTunes Privacy Policy](http://www.apple.com/privacy/)
 
@@ -155,20 +157,20 @@ With respect to the content of this site, neither the United States Government, 
 
 ### Request for Correction (RFC)
 
-If you believe that MCC has disseminated information that does not comply with the Office of Management and Budget Information Quality Guidelines and you are directly affected by this information, then you can submit a request to have this information corrected by contacting [Rickermt@mcc.gov](mailto:Rickermt@mcc.gov). 
+If you believe that MCC has disseminated information that does not comply with the Office of Management and Budget Information Quality Guidelines and you are directly affected by this information, then you can submit a request to have this information corrected by contacting [Rickermt@mcc.gov](mailto:Rickermt@mcc.gov).
 
 Include your name, mailing address, fax number, e-mail address, telephone number, and organizational affiliation, if any. MCC needs this information to respond to your Request for Correction and contact you, if necessary.
 
-  * Describe clearly the information you believe is in error and requires correction. 
-  * Include the source of the information (for example, the name and date of the report or data product), the exact location of the error (for example, the page, figure, table, or Web page address), and a detailed description of the information to be corrected. 
-  * A copy of the specific information that the Request for Correction covers would assist the MCC in its review of your Request for Correction. 
+  * Describe clearly the information you believe is in error and requires correction.
+  * Include the source of the information (for example, the name and date of the report or data product), the exact location of the error (for example, the page, figure, table, or Web page address), and a detailed description of the information to be corrected.
+  * A copy of the specific information that the Request for Correction covers would assist the MCC in its review of your Request for Correction.
   * State specifically why the information should be corrected and, if possible, recommend specifically how it should be corrected. 
 
 
 
 ### Submitting a Request for Reconsideration (RFR)
 
-If you are dissatisfied with a MCC decision regarding your Request for Correction, you can submit a Request for Reconsideration in the web form below. To submit a Request for Reconsideration you should have already submitted a Request for Correction to MCC and received a response to that request. 
+If you are dissatisfied with a MCC decision regarding your Request for Correction, you can submit a Request for Reconsideration in the web form below. To submit a Request for Reconsideration you should have already submitted a Request for Correction to MCC and received a response to that request.
 
 ## Security Notice
 
@@ -180,7 +182,7 @@ Below are some of the steps we take to secure the information we collect:
   * Train personnel on our privacy and security policies to know requirements for compliance;
   * Secure the areas where we retain paper copies of any of the information we collect online;
   * Perform regular backups of the information we collect online to ensure against loss;
-  * Use technical controls to secure the information we collect online including, but not limited to:
+  * Use technical controls to secure the information we collect online including, but not limited to: 
     * Secure Socket Layer (SSL)
     * Encryption
     * Firewalls
