@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enhancetv.com.au privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602054600id_/https%3A//www.enhancetv.com.au/extras/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enhancetv.com.au privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207135449id_/https%3A//www.enhancetv.com.au/extras/privacy.php) for the most accurate reproduction.*
 
 # EnhanceTV - Privacy
 
