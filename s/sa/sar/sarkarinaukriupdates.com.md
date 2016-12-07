@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarkarinaukriupdates.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331234119id_/http%3A//www.sarkarinaukriupdates.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarkarinaukriupdates.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207192712id_/http%3A//www.sarkarinaukriupdates.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
