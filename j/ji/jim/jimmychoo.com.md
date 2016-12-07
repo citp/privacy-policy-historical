@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jimmychoo.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422232545id_/http%3A//www.jimmychoo.com/en/customer-services/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimmychoo.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207184419id_/http%3A//www.jimmychoo.com/en/customer-services/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,7 @@ If expressly requested, such Information may be used by the Public Authority to 
 
 **PERSONALLY IDENTIFIABLE INFORMATION**
 
-Personally Identifiable Information is provided voluntarily by you when interacting with the Site functionalities, for example when you subscribe to the Site or to the JIMMY CHOO newsletter, purchase products, take part in initiatives through the Site or request information or send communications to JIMY CHOO. 
+Personally Identifiable Information is provided voluntarily by you when interacting with the Site functionalities, for example when you subscribe to the Site or to the JIMMY CHOO newsletter, purchase products, take part in initiatives through the Site or request information or send communications to JIMMY CHOO. 
 
 Personally Identifiable Information collected and processed by JIMMY CHOO may include but is not limited to: name, gender, place and date of birth, nationality, and identification codes and contact details such as: email address, telephone numbers, billing and delivery addresses. Additionally, we may request additional information as a result of authentication or identity verification checks. 
 
