@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backstreets.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620095553id_/http%3A//www.backstreets.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backstreets.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207025259id_/http%3A//www.backstreets.com/privacy.html) for the most accurate reproduction.*
 
 # Backstreets.com: Privacy Policy
 
@@ -84,9 +84,9 @@ This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino S
   
 ---  
   
-\- [About us](https://web.archive.org/web/20160620095553id_/http%3A//www.backstreets.com/aboutus.html)  
+\- [About us](https://web.archive.org/web/20161207025259id_/http%3A//www.backstreets.com/aboutus.html)  
 Privacy Policy  
-[\- Contact Us](https://web.archive.org/web/20160620095553id_/http%3A//www.backstreets.com/contact.html)  
+[\- Contact Us](https://web.archive.org/web/20161207025259id_/http%3A//www.backstreets.com/contact.html)  
   
 |  |  |   
 ---|---|---  
@@ -99,9 +99,10 @@ Email:  
 | 
 
 [](http://www.backstreets.com/Merchant2/merchant.mvc)**  
-****[](http://www.backstreets.com/Merchant2/merchant.mvc?Screen=PROD&Product_Code=PROBOSSINHEIMERNB&Category_Code=001)  
-HEY BOSSINHEIMER!  
-****Get your own "The Spring" composition book, an exclusive reproduction by the company that made Bruce's original _River-_ era songwriting notebook. [Pre-order now](http://www.backstreets.com/Merchant2/merchant.mvc?Screen=PROD&Product_Code=PROBOSSINHEIMERNB&Category_Code=001)**
+****[](http://www.backstreets.com/Merchant2/merchant.mvc?Screen=PROD&Product_Code=CAL2017&Category_Code=070)  
+2017 CALENDARS ARE HERE  
+****Plan ahead for the new year (or for the hoildays) and grab the new official Springsteen calendar for 2017.[  
+In stock now!](http://www.backstreets.com/Merchant2/merchant.mvc?Screen=PROD&Product_Code=CAL2017&Category_Code=070)**
 
 Backstreet Records is the mailorder division of Backstreets, delivering Springsteen merchandise to fans for more than 25 years. We carry numerous collectibles, tour shirts, books, magazines, and imported CDs and records. **  
 The world's best selection of Springsteen collectibles, all available by mail.**
@@ -109,12 +110,12 @@ The world's best selection of Springsteen collectibles, all available by mail.**
 **[See all the new arrivals in our online shop](http://www.backstreets.com/Merchant2/merchant.mvc?Screen=CTGY&Store_Code=BR&Category_Code=001)**
 
   
-[](https://web.archive.org/web/20160620095553id_/http%3A//www.backstreets.com/magcontents.html)  
+[](https://web.archive.org/web/20161207025259id_/http%3A//www.backstreets.com/magcontents.html)  
 **#91 IS HERE!  
 **Our massive new issue honors a very Big Man. More than half of the 116-page, perfect bound _Backstreets_ #91 is a tribute to the life and music of... do we have to say his name?
 
 **[Full contents list  
-](https://web.archive.org/web/20160620095553id_/http%3A//www.backstreets.com/magcontents.html)**[**Subscribe now!**](http://www.backstreets.com/Merchant2/merchant.mvc?Screen=CTGY&Store_Code=BR&Category_Code=130) **  
+](https://web.archive.org/web/20161207025259id_/http%3A//www.backstreets.com/magcontents.html)**[**Subscribe now!**](http://www.backstreets.com/Merchant2/merchant.mvc?Screen=CTGY&Store_Code=BR&Category_Code=130) **  
 [Order a single copy](http://www.backstreets.com/Merchant2/merchant.mvc?Screen=PROD&Product_Code=BBI91&Category_Code=110)  
 **[**Back issues**](http://www.backstreets.com/Merchant2/merchant.mvc?Screen=CTGY&Store_Code=BR&Category_Code=110)  
   
