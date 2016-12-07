@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camsecret.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409113113id_/http%3A//www.camsecret.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camsecret.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207173529id_/http%3A//www.camsecret.com/privacy.html%3F) for the most accurate reproduction.*
 
 # CamSecret - Privacy Policy
 
