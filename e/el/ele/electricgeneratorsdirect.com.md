@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electricgeneratorsdirect.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327051000id_/http%3A//www.electricgeneratorsdirect.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricgeneratorsdirect.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207230926id_/http%3A//www.electricgeneratorsdirect.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy @ Electric Generators Direct.com - Your Online Electric Generator Superstore
 
@@ -13,9 +13,9 @@ Power Equipment Direct will not collect any personally-identifiable information 
 If you do not want your personally - identifiable information collected do not submit it to us. If you do submit personally identifiable information, we will use it in the following ways, unless stated otherwise: 
 
   * We may store and process that information to better understand your needs and how we can improve our product offerings and services.
-  * We may use that information to contact you.
-  * We will not give or sell your individual information to any outside company for its use in marketing or solicitation.
-  * Will maintain the confidentiality of your personal information, and it will only be used to support your relationship with Power Equipment Direct and its Web sites.
+  * We will not give or sell your individual information to non-related companies for use in marketing or solicitations.
+  * We may provide your information to related companies such as Build.com, Living Direct, Inc. or other companies in common ownership with Ferguson Enterprises, Inc. 
+  * Will maintain the confidentiality of your personal information, and it will only be used to support your relationship with Power Equipment Direct, its Web sites and to further develop your relationship with Power Equipment Direct and its related companies.
 
   
 Unfortunately, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy statement. By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. 
@@ -66,7 +66,7 @@ From time to time we may change our privacy policies. We will notify you of any 
 If you have any questions about this Privacy statement, the practices of this website, or your dealings with this website, you can contact: 
 
 Power Equipment Direct, Inc.   
-1325 Rodeo Drive   
+969 Veterans Parkway Suite C   
 Bolingbrook, IL 60490 
 
 You can also send an e-mail to [marketing@pedstores.com](mailto:marketing@pedstores.com). Thank you. 
