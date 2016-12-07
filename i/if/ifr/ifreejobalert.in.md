@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifreejobalert.in privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614035958id_/http%3A//ifreejobalert.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifreejobalert.in privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207073452id_/http%3A//ifreejobalert.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
