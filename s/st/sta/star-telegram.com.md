@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the star-telegram.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621031052id_/http%3A//www.star-telegram.com/customer-service/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the star-telegram.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207033657id_/http%3A//www.star-telegram.com/customer-service/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Privacy Policy | Star-Telegram.com & The Star-Telegram
 
