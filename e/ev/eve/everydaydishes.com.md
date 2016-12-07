@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everydaydishes.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608000703id_/http%3A//everydaydishes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydaydishes.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207185011id_/http%3A//everydaydishes.com/privacy) for the most accurate reproduction.*
 
 # privacy policy – Everyday Dishes
 
