@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theprintful.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410071339id_/https%3A//www.theprintful.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theprintful.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207023403id_/https%3A//www.theprintful.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
