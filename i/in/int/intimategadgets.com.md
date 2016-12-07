@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intimategadgets.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621191433id_/http%3A//www.intimategadgets.com/content/9-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intimategadgets.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207063706id_/http%3A//www.intimategadgets.com/content/9-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Intimate Gadgets
 
@@ -162,7 +162,7 @@ If you choose to send a gift certificate to one of your friends, we
 
 delivered via email. IntimateGadgets stores this information for the sole purpose of sending this gift certificate.
 
-Your friend may contact us at [cs@IntimateGadgets.com](https://web.archive.org/web/20160621191433id_/http%3A//www.intimategadgets.com/content/cs@IntimateGadgets.com) to request that we remove this information from our database.
+Your friend may contact us at [cs@IntimateGadgets.com](https://web.archive.org/web/20161207063706id_/http%3A//www.intimategadgets.com/content/cs@IntimateGadgets.com) to request that we remove this information from our database.
 
 #### CHOICE/OPT OUT
 
