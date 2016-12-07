@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aqualabtechnologies.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331222128id_/http%3A//aqualabtechnologies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aqualabtechnologies.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207061400id_/http%3A//aqualabtechnologies.com/privacy-policy) for the most accurate reproduction.*
 
-# AquaLabTechnologies.com | Privacy Policy
+# Privacy Policy | Aqua Lab Technologies
 
 Your privacy is of upmost important to us. Aqua Lab Technologies, Inc. fully understands our customers' concerns regarding the privacy of the information they share with us. We hold our customers, and the information they share with us, in the highest regard. To better protect your privacy we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. We are committed to ensuring that your personal information is properly safeguarded and to complying with all applicable federal and state privacy laws. Please take a moment to read our Privacy Policy for a better understanding of the measures that we take to protect you and the information you share with us.
 
@@ -86,8 +86,7 @@ _Marketing Purposes_
 
 Aqua Lab Technologies, Inc. may share information with carefully selected vendors and business partners who may share offers and opportunities with you based on your interests.
 
-What are your choices regarding information?   
-
+What are your choices regarding information? 
     
 
 Aqua Lab Technologies, Inc. wants to communicate with you to inform you of product specials, changes to our website, contests and surveys, or other information we think may be of interest to you. Similarly, carefully selected vendors or business partners may want to communicate with you to inform you of special offers or opportunities.
@@ -98,8 +97,7 @@ _Updating or Correcting Information_
 
 If you have created an Shopping Account on our website, you may review, update or correct your account information by accessing your Shopping Account with your password.
 
-How will you be notified of future changes to the Privacy Policy?   
-
+How will you be notified of future changes to the Privacy Policy? 
     
 
 Aqua Lab Technologies, Inc. may change or add to its Privacy Policy from time to time. For this reason, we encourage you to periodically review the Privacy Policy. For your convenience, we will post the date it was last updated at the bottom of the Privacy Policy.
