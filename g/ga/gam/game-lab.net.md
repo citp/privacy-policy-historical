@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the game-lab.net privacy policy that was archived on 2015-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150902062848id_/http%3A//game-lab.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game-lab.net privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207151341id_/http%3A//game-lab.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Game Lab Blog
+# Privacy Policy | Game Lab
 
 This Privacy Policy governs the manner in which Game Lab Blog collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://game-lab.net](http://game-lab.net/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Game Lab Blog.
 
