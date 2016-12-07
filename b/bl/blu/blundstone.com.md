@@ -1,9 +1,57 @@
-> *The following text is extracted and transformed from the blundstone.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023113856id_/http%3A//www.blundstone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blundstone.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207210007id_/http%3A//www.blundstone.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Statement - Blundstone
 
-####  Confidentiality 
+This web site is owned and operated by Blundstone Australia Pty Ltd ACN 009 475 852 and will be referred to as "We", "our" and "us" in this Internet Privacy Policy. By using this site, you agree to the Internet Privacy Policy of this web site ("the web site"), which is set out on this web site page. The Internet Privacy Policy relates to the collection and use of personal information you may supply to us through your conduct on the web site.
 
-Blundstone Australia Pty Ltd is firmly committed to your privacy. Please find following the information gathering and dissemination practices for this website **[www.blundstone.com.au](http://www.blundstone.com.au/)** Blundstone adheres to the National Privacy Principles in all its dealings with individuals in Australia. A copy of the National Privacy Principles may be obtained by following this link to the Federal Privacy Commissioners Web site **[www.privacy.gov.au](http://www.privacy.gov.au/)** **Privacy Policy Changes** Blundstone may need to change its privacy statement from time to time, due to internal changes, or in order to serve your needs better. Blundstone will use reasonable efforts to publish any such changes. **Automatically Logged Information** Your IP address is automatically logged by our Web server. We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information. **External Links** This site contains links to other sites. Blundstone is not responsible for the privacy practices or the content of such Web sites. **Security** Blundstone recognises your concern for security and will use all reasonable efforts to establish secure connections with you and to protect against loss, misuse and alteration of your personal information. **Children’s Guidelines** We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children. **1.** We will not collect, use or distribute to third parties personally identifiable information without prior verifiable parental consent. **2.** We will not give the child access to unmonitored mailing lists or other services that would give the child the ability to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent. **3.** When verifiable parental consent is not obtained, we will only use the online contact information (such as an email address) to : **a.** Respond directly to the child’s request and not use that information to re-contact the child for other purposes. **b.** Request the name or online contact info mation of a parent for the purpose of obtaining verifiable parental consent or providing parental notification. **4.** We will not entice the child to divulge more information than is needed to participate in any activity, game or service. **5.** We will provide the parent a description of the specific types of personally identifiable information collected from their child upon request. We will allow the parent to refuse further use or future online collection of personally identifiable information collected from their child. **6.** We will provide notice to children in age appropriate terms of what personally identifiable information is to be collected. **7.** We will not provide any links to websites that are unsuitable for children. **8.** We will encourage children to obtain their parents permission before sharing personal information online. **Disclaimer** Whilst Blundstone Australia Pty Ltd will use its best endeavours to comply with this privacy statement in all respects, it will not be liable to any person for any loss, cost, damage, injury, liability, claim or demand of any kind caused by or arising out of its failure to so comply. **Copyright** Blundstone Australia Pty Ltd retains copyright of all images and text on this site, and any downloading without written permission from Blundstone is not permitted, and may result in legal action. If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact **[info@blundstone.com.au](mailto:info@blundstone.com.au)**
+We reserve the right, at our discretion, to modify or remove portions of this Internet Privacy Policy at any time. This Internet Privacy Policy is in addition to any other terms and conditions applicable to the web site. We do not make any representations about third party web sites that may be linked to the web site. This Internet Privacy Policy is also separate from the Privacy Policy of Blundstone Australia Pty Ltd, which is available upon reasonable request.
 
-**[Return to Blundstone website](https://web.archive.org/)**
+We recognise the importance of protecting the privacy of information collected about visitors to our web site, in particular information that is capable of identifying an individual ("personal information"). This Internet Privacy Policy governs the manner in which your personal information, obtained through the web site, will be dealt with. This Internet Privacy Policy should be reviewed periodically so that you are updated on any changes. We welcome your comments and feedback.
+
+### Personal Information
+
+Personal information about visitors to our site is collected only when knowingly and voluntarily submitted. For example, we may need to collect such information to provide you with further services or to answer or forward any requests or enquiries. It is our intention that this policy will protect your personal information from being dealt with in any way that is inconsistent with applicable privacy laws in Australia.
+
+### Use of Information
+
+Personal information that visitors submit to our site is used only for the purpose for which it is submitted or for such other secondary purposes that are related to the primary purpose, unless we disclose other uses in this Internet Privacy Policy or at the time of collection. Copies of correspondence sent from the web site, that may contain personal information, are stored as archives for record-keeping and back-up purposes only.
+
+### Disclosure
+
+Apart from where you have consented or disclosure is necessary to achieve the purpose for which it was submitted, personal information may be disclosed in special situations where we have reason to believe that doing so is necessary to identify, contact or bring legal action against anyone damaging, injuring, or interfering (intentionally or unintentionally) with our rights or property, users, or anyone else who could be harmed by such activities. Also, we may disclose personal information when we believe in good faith that the law requires disclosure.
+
+We may engage third parties to provide you with goods or services on our behalf. In that circumstance, we may disclose your personal information to those third parties in order to meet your request for goods or services.
+
+### Security
+
+We strive to ensure the security, integrity and privacy of personal information submitted to our sites, and we review and update our security measures in light of current technologies. Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure.
+
+However, we will endeavour to take all reasonable steps to protect the personal information you may transmit to us or from our online products and services. Once we do receive your transmission, we will also make our best efforts to ensure its security on our systems.
+
+In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by us. However, we will not be held responsible for events arising from unauthorised access to your personal information.
+
+### Cookies
+
+Cookies are data that a web site transfers to an individual's hard drive for record-keeping purposes. Cookies, which are industry standard and are used by most web sites, including those operated by us, can facilitate a user's ongoing access to and use of a site. They allow us to customise the web site to your needs. If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. But you should note that Cookies may be necessary to provide you with some features of our on-line services.
+
+### Access to Information
+
+We will endeavour to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date. If, at any time, you discover that information held about you is incorrect, you may contact us to have the information corrected.
+
+In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by us.
+
+### Facebook
+
+All consumer information gained through Facebook, Facebook applications and submitted data via our promotion tab will only be used by Blundstone. Your information will never be shared or sold and will be stored in compliance with [Facebook Platform Policy](https://developers.facebook.com/policy/).
+
+### Links to other sites
+
+We provide links to web sites outside of our web sites, as well as to third party web sites. These linked sites are not under our control, and we cannot accept responsibility for the conduct of companies linked to our web site. Before disclosing your personal information on any other web site, we advise you to examine the terms and conditions of using that web site and its privacy statement.
+
+### Problems or questions
+
+If we become aware of any ongoing concerns or problems with our web sites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please [contact us](https://web.archive.org/contact-us).
+
+### Further Privacy Information
+
+For more information about privacy issues in Australia and protecting your privacy, visit the [Australian Federal Privacy Commissioner's web site](http://www.privacy.gov.au/).
