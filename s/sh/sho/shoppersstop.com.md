@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the shoppersstop.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022040745id_/http%3A//www.shoppersstop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppersstop.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207115326id_/https%3A//www.shoppersstop.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy | Shoppers Stop
 
 Shoppers Stop Limited (SSL) and its subsidiaries and divisions, including Shoppersstop.com, respect your privacy. This Privacy Policy outlines the manner your data is collected and used by SSL. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Shoppersstop.com you agree to the collection and use of your data by Shoppersstop.com in the manner provided in this Privacy Policy.
 
-If you have questions or concerns regarding this statement, you can   at (022) 6648 6648 (9:00 am to 9:00 pm) or   at [ estore@shoppersstop.com](mailto:estore@shoppersstop.com)  
-The Policy does not apply to the procedures and practices followed by entities that are not managed, owned or controlled by Shoppersstop.com or to the people that are not engaged, employed or managed by Shoppersstop.com
+If you have questions or concerns regarding this statement, you can at (022) 6648 6648 (9:00 am to 9:00 pm) or at estore@shoppersstop.com The Policy does not apply to the procedures and practices followed by entities that are not managed, owned or controlled by Shoppersstop.com or to the people that are not engaged, employed or managed by Shoppersstop.com
 
-### Through this document, we wish to make you:
+## Through this Document, We Wish to Make you:
 
   * Feel at ease while using our websites.
   * Feel confident while sharing information with us.
@@ -16,7 +15,9 @@ The Policy does not apply to the procedures and practices followed by entities t
 
 
 
-### Information that may be collected from you?
+* * *
+
+## Information that may be Collected from You?
 
 Shoppersstop.com collects the details provided by you on registration together with information we learn about you from your use of our service and your visits to our website and other websites accessible from them.
 
@@ -34,7 +35,7 @@ While you use our website, we may have automatic access to (receive and collect)
 
 
 
-**While you are transacting on our website personally identifiable information collected about you may include:**
+#### While you are transacting on our website personally identifiable information collected about you may include:
 
   * First and last name.
   * Email addresses.
@@ -46,7 +47,7 @@ While you use our website, we may have automatic access to (receive and collect)
 
 
 
-**We may also collect the following information about:**
+#### We may also collect the following information about:
 
   * The pages you visit/access.
   * The links you click on our website.
@@ -58,9 +59,11 @@ While you use our website, we may have automatic access to (receive and collect)
 
 
 
-You may terminate your account at any time by writing to us at    at [ estore@shoppersstop.com](mailto:estore@shoppersstop.com), from the email ID you have used for creating your account login, and mentioning "Please close my shopppersstop.com account" in the subject line. We will disable access to your account within 2 working days of receiving your mail. However, your information may remain stored in archive on our servers even after the deletion or termination of your account.
+You may terminate your account at any time by writing to us at at estore@shoppersstop.com, from the email ID you have used for creating your account login, and mentioning "Please close my shopppersstop.com account" in the subject line. We will disable access to your account within 2 working days of receiving your mail. However, your information may remain stored in archive on our servers even after the deletion or termination of your account.
 
-### When / How do we collect the information?
+* * *
+
+## When / How do we collect the Information?
 
 We will collect anonymous traffic information from you when you visit our website.
 
@@ -90,9 +93,11 @@ We may at certain times make chat rooms, forums, instant messenger and message b
 
 If you use a bulletin board or chat room on this website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums
 
-### How is the information used?
+* * *
 
-**We use your contact information to send you:**
+## How is the information used?
+
+#### We use your contact information to send you:
 
   * Password reminder and registration confirmation.
   * Special offers.
@@ -103,7 +108,7 @@ If you use a bulletin board or chat room on this website, you should be aware th
 
 **Note:** We send users updates upon registration, and updates regarding your order status. We also send promotional emails to inform you about new arrivals, special offers, etc.
 
-**We use your personal information to:**
+#### We use your personal information to:
 
   * Improve personalized features on our websites to enhance your shopping experience.
   * To contact you for your account / profile related matters or any other reason as may be necessary.
@@ -112,7 +117,7 @@ If you use a bulletin board or chat room on this website, you should be aware th
 
 
 
-**We use anonymous traffic information to:**
+#### We use anonymous traffic information to:
 
   * Remember you in order to deliver better and more personalized service e.g. track your entries in our promotion schemes;
   * Recognize your usage privileges to our website.
@@ -121,14 +126,18 @@ If you use a bulletin board or chat room on this website, you should be aware th
 
 
 
-### Who do we share your information with?
+* * *
+
+## Who do we share your information with?
 
 We do not share or rent your information with third parties except our agents and alliance partners
 
-Agents  
+#### Agents
+
 We use the services of our enabling partners such as outside shipping companies, resellers, business associates to fulfill orders, and credit / debit card processing companies to process the payment for goods and services ordered from Shoppersstop.com website. These entities do not retain, store, share or use personally identifiable information for any other purposes.
 
-Alliance Partners  
+#### Alliance Partners
+
 We will share your information with our alliance partners who work with us or on our behalf to help provide you the services. An alliance partner is a company or an individual who owns and manages (wholly or part of) online content on their websites powered by Shoppersstop.com.
 
 We share email addresses with agents and Alliance partners. The agents and Alliance partners use the email address to confirm the deliveries, send notices and offer services related to the service.
@@ -151,17 +160,24 @@ The security of your personal information and email address is important to us. 
 
 We follow generally accepted industry standards to protect the personal information and email address submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information and email address, we cannot guarantee its absolute security.
 
-If you have any questions about security on our website, you can at [ estore@shoppersstop.com](mailto:estore@shoppersstop.com)
+If you have any questions about security on our website, you can mail at [estore@shoppersstop.com](mailto:estore@shoppersstop.com)
 
-### What choices are available to you regarding collection, use and distribution of your information?
+* * *
+
+## What choices are available to you regarding collection, use and distribution of your information?
 
 You can accept or decline the cookies. All websites that are customizable require that you accept cookies. You must also accept cookies to register as someone for access to some of our services. For information on how to set your browser to alert you to cookies, or to reject cookies, go to http://www.cookiecentral.com/
 
-Cookies  
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this website. We do link the information we store in cookies to any personally identifiable information you submit while on our website.
+#### Cookies
 
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this
+
+website. We do link the information we store in cookies to any personally identifiable information you submit while on our website.
+
+  
 We use both session ID cookies and persistent cookies. We use session cookies to make it easier and secure for you to navigate our website. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browsers "help" file. Reference for cookies can be found at [http://www.cookiecentral.com](http://www.cookiecentral.com/)
 
+  
 We use session cookies to store the secure session and browsing preferences of the user. We set a persistent cookie to store your username and interests so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our website.
 
 If you reject cookies, you may still use our website, but your ability to use some areas of our website, will be limited. Cookies are used in the shopping bag to enable enhanced security and to ensure there is no URL based spamming.
@@ -178,20 +194,21 @@ Our web servers automatically collect limited information about your computer's 
 
 Shoppersstop.com includes links to other websites. Such websites are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can know where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the website you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these websites via a link from the website's homepage, you should contact the website directly for more information.
 
-Voluntary disclosure of information.  
+#### Voluntary disclosure of information.
+
 Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to use our websites. However, we offer some services only to visitors who do register
 
 You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. Shoppersstop.com reserves the right to send you certain service related communication, considered to be a part of your Shoppersstop.com account without offering you the facility to opt-out. You may update your information and change your account settings at any time.
 
-We provide you with the opportunity to opt-out of having your email address used for certain purposes, when we ask for this information. For example, if you purchase a product / service but do not wish to receive any additional marketing material from us, you can indicate your preferences. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by selecting your preferences in "My Account". If you still face an issue then you may  us at (022) 6648 6648 or at [ estore@shoppersstop.com](mailto:estore@shoppersstop.com)
+We provide you with the opportunity to opt-out of having your email address used for certain purposes, when we ask for this information. For example, if you purchase a product / service but do not wish to receive any additional marketing material from us, you can indicate your preferences. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by selecting your preferences in "My Account". If you still face an issue then you may Call us at (022) 6648 6648 or Mail at [estore@shoppersstop.com](mailto:estore@shoppersstop.com)
 
-If your personally identifiable information or email address change, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing our Customer Support  at [ estore@shoppersstop.com](mailto:estore@shoppersstop.com)
+If your personally identifiable information or email address change, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing our Customer Support Mail at [estore@shoppersstop.com](mailto:estore@shoppersstop.com)
 
 Upon request, we will remove / block your personally identifiable information from our database, thereby canceling your registration. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
 
 If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we collect that information and allow you to opt-out of having your information used for those purposes.
 
-### What security procedures are in place to protect information from loss, misuse or alteration?
+#### What security procedures are in place to protect information from loss, misuse or alteration?
 
 To protect your privacy and security, we will verify your identity before granting access or making changes to your personally identifying information. If you have registered your profile on Shoppersstop.com, your Shoppersstop.com ID and Password are required in order to access your profile information.
 
@@ -201,7 +218,7 @@ Although we will endeavor to safeguard the confidentiality of your personally id
 
 We follow generally accepted industry standards to protect the personal information and email addresses submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information and email address, we cannot guarantee its absolute security
 
-If you have any questions about security on our website, you can send  at [ estore@shoppersstop.com](mailto:estore@shoppersstop.com)
+If you have any questions about security on our website, you can send Mail at [estore@shoppersstop.com](mailto:estore@shoppersstop.com)
 
 All information gathered on Shoppersstop.com is securely stored within the Shoppersstop.com controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet and, of course, any information you include in a posting to the discussion areas is available to anyone with internet access.
 
@@ -209,11 +226,22 @@ However the internet is an ever evolving medium. We may revise our privacy polic
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-### How can you correct inaccuracies in the information?
+In accordance with Information Technology Act 2000 and the rules made there under, the name and contact details of the Grievance Officer are provided below:  
+Mr. Ramnath Kamath  
+UMANG TOWER, 5th floor, Off Link Road  
+Malad West- 400064  
+Maharashtra, India  
+**Email:** privacy.concern@shoppersstop.com 
+
+* * *
+
+## HOW CAN YOU CORRECT INACCURACIES IN THE INFORMATION?
 
 To correct or update any information you have provided, our websites allow you to do it online.
 
-### Policy updates
+* * *
+
+## Policy updates
 
 We reserve the right to change or update this policy at any time by placing a prominent notice on our website. Such changes shall be effective immediately upon posting to this website.
 
@@ -223,15 +251,19 @@ If we decide to make changes in our email practices, we will post those changes 
 
 You can offer your views, suggestions, if any, by submitting the filled in feedback form online.
 
-### Secure Shopping
+* * *
 
-Shopping on our website is 100% safe. We use industry standard secure systems to protect your personal and payment information. For your safety, we do not store your complete credit card details or payment information in our systems, and this is directly transmitted securely to the bank for payment processing. 
+## Secure Shopping
+
+hopping on our website is 100% safe. We use industry standard secure systems to protect your personal and payment information. For your safety, we do not store your complete credit card details or payment information in our systems, and this is directly transmitted securely to the bank for payment processing.
 
 Shoppersstop.com is concerned about the safety and security of our customers. Accordingly, we have put a number of technological protections in place to ensure that our transaction process is extremely safe and that our customers' information is secure. For enhanced security Shoppersstop.com does not store any financial information on its servers. All such information entered by you is directly received by our Banks servers and are then transmitted to your banks servers. All this is done through industry standard encryption protocol known as Secure Socket Layer (SSL). Majority of online transactions are completed without incident. However, please keep in mind that customer protection is a two-way street. When buying on any online venue, caution must always be practiced. Following are some guidelines that you should follow to ensure safe and secure online shopping experience.
 
-### Safety and Security Tips
+* * *
 
-**Protect your passwords.**
+## Safety and Security Tips
+
+#### Protect your passwords.
 
   * If using a public computer or terminal, always log out when you complete an online session.
   * Keep your passwords private. Remember, anybody who knows your password may access your account.
@@ -240,7 +272,7 @@ Shoppersstop.com is concerned about the safety and security of our customers. Ac
 
 
 
-**Be wary of unsolicited e-mail and telephone contacts.**
+#### Be wary of unsolicited e-mail and telephone contacts.
 
   * Shoppersstop.com will never e-mail or call a customer and ask that they disclose or verify their Shoppersstop.com password, credit card, or banking account number. Such information should only be submitted on the web page forms, when completing an order on Shoppersstop.com or when making updates to Your Account areas and never on phone or e-mail to us. If you receive a suspicious e-mail with a link to update your account information, do not click on the link--instead go directly to https://www.shoppersstop.com and then to your account.
   * If you are contacted by, or receive an unsolicited e-mail from an unknown entity impersonating as Shoppersstop.com or any of its sister concerns or associates, and are asked to confirm or provide your password or personal or banking information, simply disregard the request and report the incident to Shoppersstop.com for investigation.
@@ -253,11 +285,24 @@ Shoppersstop.com is concerned about the safety and security of our customers. Ac
 
 
 
-### Ensure your Personal Computer is protected
+#### Ensure your Personal Computer is protected
 
 Fraudsters send genuine-looking emails that contain viruses and Trojans (A Trojan refers to a program that appears to be safe, but hidden inside, is usually something harmful, probably a virus). These viruses / Trojans, install a malicious code on your PC without your knowledge. They extract your confidential information that fraudsters use to access your online profile / account etc.
 
-### Here are a few important action points that you should bear in mind
+#### Here are a few important action points that you should bear in mind
+
+  * Keep your PC updated with the latest anti-virus / anti-spyware software.
+  * Install a personal firewall on your PC to protect your account.
+  * Keep your PC updated with the latest security patches and, most importantly,
+  * Do not click on links or open attachments in unknown or unsolicited (spam) email
+
+
+
+## Ensure your Personal Computer is protected
+
+Fraudsters send genuine-looking emails that contain viruses and Trojans (A Trojan refers to a program that appears to be safe, but hidden inside, is usually something harmful, probably a virus). These viruses / Trojans, install a malicious code on your PC without your knowledge. They extract your confidential information that fraudsters use to access your online profile / account etc.
+
+## Here are a few important action points that you should bear in mind
 
   * Keep your PC updated with the latest anti-virus / anti-spyware software.
   * Install a personal firewall on your PC to protect your account.
