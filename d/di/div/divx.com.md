@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divx.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625072031id_/http%3A//www.divx.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divx.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207082419id_/http%3A//www.divx.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DivX.com
 
