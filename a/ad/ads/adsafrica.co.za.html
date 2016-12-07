@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the adsafrica.co.za privacy policy that was archived on 2016-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160621121400id_/http%3A//www.adsafrica.co.za/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adsafrica.co.za privacy policy that was archived on 2016-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161207172529id_/http%3A//www.adsafrica.co.za/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Free ads in South Africa - free classifieds in South Africa</title>
 	<meta name="keywords" content="">
-	<meta name="description" content="">
+    <meta name="description" content="">
 		   <meta name="ROBOTS" content="NOINDEX,NOFOLLOW">
         
 
@@ -16,7 +16,7 @@
     jQl.loadjQ('//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js');
     </script>
     <!--[if gt IE 7]><!-->
-    <link rel="stylesheet" href="//www.adsafrica.co.za/css/wdu.css?20150422" type="text/css" media="all">
+    <link rel="stylesheet" href="//www.adsafrica.co.za/css/wdu.css?201606303" type="text/css" media="all">
     <!--<![endif]-->
 	<!--[if lt IE 7]>
 	<link href="http://www.adsafrica.co.za/css/default.css?20150422" rel="stylesheet" type="text/css" />
@@ -130,6 +130,9 @@ Assist you with technical difficulties
                 
         
        
+        
+        
+
 	</div>
 	<div style="clear: both;">&nbsp;</div>
 </div>
@@ -173,11 +176,48 @@ escape(document.referrer)+((typeof(screen)=="undefined")?"":
 screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 ";"+Math.random()+
 "' alt='' title='LiveInternet' "+
-"border=0 width=31 height=31><\/a>")//--></script><a href="http://www.liveinternet.ru/click;adsafrica" target="_blank"><img src="http://counter.yadro.ru/hit;adsafrica?t45.6;r;s800*600*24;uhttps%3A//web.archive.org/web/20160621121400id_/http%253A//www.adsafrica.co.za/privacy_policy;0.4471860769680065" alt="" title="LiveInternet" border="0" width="31" height="31"></a><!--/LiveInternet-->
+"border=0 width=31 height=31><\/a>")//--></script><a href="http://www.liveinternet.ru/click;adsafrica" target="_blank"><img src="http://counter.yadro.ru/hit;adsafrica?t45.6;r;s800*600*24;uhttps%3A//web.archive.org/web/20161207172529id_/http%3A//www.adsafrica.co.za/privacy_policy/;0.6115934845328941" alt="" title="LiveInternet" border="0" width="31" height="31"></a><!--/LiveInternet-->
 
 	</span>
 </div>
     <script type="text/javascript">
+
+    function gt600(width) {
+            $('a').css('font-size', '');
+            $('.categoriesBlock').css('height', '');
+            $('li a').css('line-height', 'normal');
+            $('.sitepath a').css('line-height', 'normal');
+            $('#footer a').css('line-height', '');
+            $('.sitepath a').css('padding-right', '');
+            $('#paginator a').css('padding', '');
+            $('#counters').css('display', '');
+            $('#counters').css('margin-top', '');
+            $('#counters').css('float', '');
+            $('.ILThumb').css('padding', '');
+            $('.ILPrice').css('padding-left', '');
+            $('.ILTitle a').css('font-size', '');
+            $('#item_params').width('');
+            $('#item_params').css('margin', '');
+            $('.params_fields_label').width('');
+            $('.params_fields_value').width('');
+    }
+
+    function gt810(width) {
+            $('#page').css('margin', '0 auto');
+            $('#header').css('margin', '0 auto');
+            $('#search').show();
+            $('#menu').show();
+            $('#city').show();
+            $('.compactMenu').hide();
+            $('.compactMenuButton').hide();
+            $('.ga_horizontal').css('float', '');
+            $('.ga_horizontal').width('100%');
+            $('.item_related_list').width('100%');
+            $('#ItemsList').width('100%');
+            $('#contact_info').width('');
+            $('#sitepath').css('margin-top', '');
+    }
+
     var previous_width = 0;
     function responsiveThings() {
         var width = $(window).width();
@@ -192,42 +232,30 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
             $('#search').width('430px');
             $('#sidebar').css('float', 'right');
             $('#page').width('960px');
-            $('#page').css('margin', '0 auto');
-            $('#header').css('margin', '0 auto');
             $('#content').width('750px');
-            $('.compactMenu').hide();
-            $('.compactMenuButton').hide();
-            $('#search').show();
-            $('#menu').show();
-            $('#city').show();
-            $('#ItemsList').width('100%');
+            gt600();
+            gt810();
         }
-        if ( $(window).width() < 960 ) {
-            $('#search').show();
-            $('#menu').show();
-            $('#city').show();
+        if ( width < 960 ) {
             $('#header').width('790px');
             $('#menu').width('790px');
             $('#searchinput').width('100px');
             $('#search').width('200px');
             $('#sidebar').css('float', 'left');
             $('#page').width(width + 'px');
-            $('#page').css('margin', '0 auto');
-            $('#header').css('margin', '0 auto');
             $('#content').width(width + 'px');
-            $('.compactMenu').hide();
-            $('.compactMenuButton').hide();
-            $('#ItemsList').width('100%');
+            gt600();
+            gt810();
         }
         if ( width < 810 ) {
-            width = width - 2;
+            width = width - 8;
             $('#search').hide();
             $('#menu').hide();
             $('#city').hide();
             $('.compactMenuButton').show();
             $('#page').width(width + 'px');
             // $('#page').css('overflow', 'hidden');
-            $('#page').css('margin', '0px');
+            $('#page').css('margin', '0px 2px 0px');
             $('#header').css('margin', '0px');
             $('#sitepath').css('margin-top', '10px');
             $('#content').width(width + 'px');
@@ -238,8 +266,7 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
             $('.ga_horizontal').width(width + 'px');
             $('.item_related_list').width(width + 'px');
             // $('.ga_horizontal').css('overflow', 'hidden');
-            $('a').css('font-size', '');
-            $('.categoriesBlock').css('height', '80px');
+            gt600();
             /*
             setTimeout(function() {
                 $('.compactMenuButton').animate({ "margin-top": "-=5px" }, "slow", function() {
@@ -263,6 +290,11 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
             $('.ILPrice').css('padding-left', '2px');
             $('.ILTitle a').css('font-size', '120%');
             $('#ItemsList').width('320px');
+            //$('#item_params').width('320px');
+            //$('#item_params').css('margin', '0px');
+            //$('.params_field_label').width('150px');
+            //$('.params_field_value').width('150px');
+            //$('#contact_info').width('320px');
         }
     }
     var responsiveThingsTimeout;
