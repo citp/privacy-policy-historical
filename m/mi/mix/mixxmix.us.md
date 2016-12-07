@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixxmix.us privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528112714id_/http%3A//mixxmix.us/member/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixxmix.us privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207042601id_/http%3A//www.mixxmix.us/member/privacy.html) for the most accurate reproduction.*
 
 # MIXXMIX | Shop Korean fashion casual style clothing, bag, shoes, acc and jewelry for all
 
