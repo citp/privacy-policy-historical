@@ -1,43 +1,38 @@
-> *The following text is extracted and transformed from the ctrader.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010113id_/http%3A//www.ctrader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctrader.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207165422id_/http%3A//www.spotware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-cTrader Limited takes the issue of privacy very seriously. cTrader Ltd. would like to assure visitors to our cTrader.com website of the security, privacy and confidentiality that they would expect from a leading financial services institution.
+  
+Our Privacy Policy applies to information and data collected on our website or through our products by Spotware Systems Ltd. and its affiliated partners.
 
-**General**
+Spotware.com **does not automatically collect any personal information** from visitors to the website, and we do not request by default any identifiable information.
 
-We do not collect any personal information from anyone who is merely visiting or browsing our Website. However, personal information may be requested from visitors who choose to respond to online surveys, to send cTrader an email message or to apply for certain products and services online.
+In certain cases, such as for the opening of demo or live accounts for our various products, Spotware Systems Ltd or our partners may require specific information from you, such as your name and email address – and may use this information to help verify your identity, for any necessary correspondence, or to help us meet the specific needs of our visitors.
 
-**Email and Product Enquiry**
+If a live account is opened with any Spotware affiliated broker, **Spotware does not control information passed through their website or through any communication with them**. Please refer to the broker’s privacy policy for details.
 
-Through use of a “Feedback form”, visitors of our Website are invited to send email messages to us in order that we may respond to enquiries regarding cTrader products or services.
+**Control of your information**
 
-**Use of Cookies**
+If you would specifically not like particular information to be used as a basis for contact with you, please notify us at info@spotware.com. We will make every effort to respond in a timely manner to requests to correct inaccuracies in personal or identifiable information.
 
-A cookie is a small piece of information about an Internet session that may be created when a visitor accesses a Website. Presently, our Website uses cookies to facilitate easier navigation within the site and provide a higher level of convenience for the visitor. Your internet browser is likely to accept cookies by default, however you can set your browser to reject cookies and delete them from your system anytime. The cookies used by cTrader do not retrieve any information from the visitor's personal computer.
+**Information protection**
 
-**Improved Customer Service**
+Any personal information submitted through the website contact forms or through any of the platforms is protected by technical and organizational measures such as data encryption to help keep your information secure and current.
 
-cTrader uses the information collected from visitors to its Website to address the specific needs of those visitors and to provide better customer service, including the supply of the latest information regarding cTrader products 
+**Cookies**
 
-**Record of Communications**
+Spotware.com uses internet cookies to facilitate easier navigation throughout the website and increase visitor convenience. Your internet browser is likely to accept these cookies by default, however you can refer to your browser’s help guide if you would like to reject or delete them from your system.
 
-The information collected is also used to maintain a record of communications between cTrader and its Website visitors, and to comply with any applicable legal or regulatory requirements.
+We may use both "session" cookies and "persistent" cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website; and other uses. We will use the persistent cookies to: enable our website to recognise you when you visit; and other uses.
 
-**Employees**
+Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
 
-Selected cTrader Ltd. employees have access to the information collected in order to respond to each visitor's needs and provide that visitor with information regarding specific products in which they may have an interest. cTrader Ltd. employees are instructed to use strict standards of care when handling the personal/confidential information of customers.
+Cookies used by spotware.com do not retrieve any personal information or any information from the visitor’s computer.
 
 **Third Parties**
 
-cTrader Ltd. does not transmit any personal information collected through its Websites to any third-party marketers. However, cTrader Ltd. does offer the opportunity to its cTrader.com website visitors to link to the Web pages of third parties who provide products and services not supplied by cTrader. Once the visitor leaves the cTrader.com site, cTrader Ltd. does not receive any further information from the visitor.
+Spotware does not share, sell, or otherwise transmit any information, personal or otherwise, collected through the website, platforms, or through correspondence, with any third parties or affiliated companies. Any information is kept securely and is confidential.
 
-**Visitors**
+**Changes to this Privacy Statement**
 
-Visitors having specific questions regarding any information they have sent to cTrader Ltd. through the cTrader.com website should send an email to [info@cTrader.com](mailto:info@xTrader.com).
-
-**Changes in this Privacy Statement**
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-We reserve the right to modify this privacy statement at any time, without notification so please review it frequently.
+Spotware will post any changes made to the privacy statement on this page and through other communication mediums we deem appropriate for our users to be aware of any changes that are made which information is collected and how it is used.
