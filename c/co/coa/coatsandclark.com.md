@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coatsandclark.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608150931id_/http%3A//www.makeitcoats.com/en-us/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coatsandclark.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207230411id_/http%3A//www.makeitcoats.com/en-us/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Make It Coats
 
@@ -36,7 +36,7 @@ If Coats & Clark becomes aware that it has inadvertently gathered personal infor
 
 You have a right to review Personal Information about you that is held by Coats & Clark. To obtain a copy of your personal information, or to request deletion of all Personal Information about you in Coats & Clark’s possession,
 
-please submit your request to our Consumer Services department as set out in the “Contact Us” section of the Website.
+please submit your request to our Consumer Services department as set out in the “[Contact Us](http://www.makeitcoats.com/en-us/contactus)” section of the Website.
 
 ## Compromised Personal Information
 
