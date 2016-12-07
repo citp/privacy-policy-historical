@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happyfoxchat.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622080828id_/https%3A//happyfoxchat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyfoxchat.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207205244id_/https%3A//happyfoxchat.com/privacy-policy) for the most accurate reproduction.*
 
 # HappyFox Chat | Privacy Policy
 
