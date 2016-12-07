@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magix-website.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627232112id_/http%3A//www.magix-online.com/us/privacy-statement.217.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magix-website.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207033651id_/http%3A//www.magix-online.com/us/privacy-statement.217.html) for the most accurate reproduction.*
 
 # Privacy Statement > MAGIX Online World
 
@@ -44,9 +44,6 @@ If you access Internet pages provided by our website with this kind of plug-in, 
 
 Please consult Facebook's privacy policy for more detailed information on your rights and ways to protect your privacy and how Facebook collects and uses data, which you can read about at [http://www.facebook.com/policy.php.  
 ](http://www.facebook.com/policy.php)  
-In mobile applications we sometimes implement Ad-X technology to analyze the use of our apps. Ad-X technology uses exclusively anonymous information by means of non-persistent device ID tracking such as IDFA, as well other non-person-related tracking mechanisms and processes this data on our behalf. If you would like to opt out of Ad-X tracking or would like to find out more about how Ad-X processes information, please visit [https://ad-x.co.uk/dont_track.php.  
-](https://ad-x.co.uk/dont_track.php)
-
 **The following applies in other cases:**
 
 MAGIX or companies affiliated with MAGIX may use the information collected from you for marketing purposes, provided you have given your consent to such utilization. You can object to your data being used for commercial purposes at any time. If you wish to do so please write an email to [privacy@magix.net](mailto:privacy@magix.net).
