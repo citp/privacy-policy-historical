@@ -1,6 +1,23 @@
-> *The following text is extracted and transformed from the kingarthurflour.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525120543id_/http%3A//www.kingarthurflour.com/customerservice/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingarthurflour.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207012045id_/http%3A//www.kingarthurflour.com/customerservice/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | King Arthur Flour
+
+  * [home](https://web.archive.org/)
+  * [about](https://web.archive.org/about/)
+  * [visit](https://web.archive.org/visit/)
+  * [contact](https://web.archive.org/contact/)
+  * [ __ 800 827 6836 ](tel:8008276836)
+
+
+
+  * [Shop](https://web.archive.org/shop-home/)
+  * [Recipes](https://web.archive.org/recipes/)
+  * [Learn](https://web.archive.org/learn/)
+  * [Videos](https://web.archive.org/videos/)
+  * [Our Products](https://web.archive.org/products/)
+  * [Blog](http://blog.kingarthurflour.com/)
+
+
 
 We respect your privacy, and value the confidence you've shown in us by choosing to shop via our site.
 
