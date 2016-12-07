@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the city-journal.org privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529135240id_/http%3A//www.city-journal.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the city-journal.org privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207143504id_/http%3A//city-journal.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | City Journal
 
@@ -52,8 +52,10 @@ Third Parties. We do not control the privacy policies of third parties that have
 
 International Users. By using the Services, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States. While some of these countries may offer a different level of privacy protection, the Manhattan Institute/City Journal commits to uphold the privacy protections as explained in this Privacy Policy.
 
-Correct/Update Personal Information. If you would like to review, update, change or delete information that we have collected from you, please send an email to [rcalhoun@manhattan-institute.org](mailto:rcalhoun@manhattan-institute.org) or write to:
+Correct/Update Personal Information. If you would like to review, update, change or delete information that we have collected from you, please send an email to [asalvatore@manhattan-institute.org](mailto:asalvatore@manhattan-institute.org) or write to:
 
-Rebecca Calhoun  
-52 Vanderbilt Avenue, 2nd Floor  
+Abigail Salvatore
+
+52 Vanderbilt Avenue, 2nd Floor
+
 New York, NY 10017
