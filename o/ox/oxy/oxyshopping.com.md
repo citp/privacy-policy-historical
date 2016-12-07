@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the oxyshopping.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409042412id_/http%3A//www.oxyshopping.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxyshopping.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207152549id_/http%3A//www.oxyshopping.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy policy :: OxyShopping.com
+
+**Warning** : mysql_select_db(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in **/home/oxyshopp/public_html/includes/config.php** on line **3**
+
+**Warning** : mysql_select_db(): A link to the server could not be established in **/home/oxyshopp/public_html/includes/config.php** on line **3**
 
 ###### Oxyshopping.com Privacy policy 01.07.2011 
 
