@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drudgereport.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423102800id_/http%3A//www.intermarkets.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drudgereport.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207164723id_/http%3A//www.intermarkets.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Intermarkets Privacy Policy - Intermarkets, Inc.
 
