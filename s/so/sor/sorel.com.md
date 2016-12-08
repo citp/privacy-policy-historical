@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sorel.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514110626id_/http%3A//www.sorel.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sorel.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208191720id_/http%3A//www.sorel.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## SOREL Privacy Policy
 
 Last Updated: January 21, 2014
 
