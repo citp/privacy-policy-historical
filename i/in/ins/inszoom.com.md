@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inszoom.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606050708id_/http%3A//www.inszoom.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inszoom.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208181311id_/http%3A//www.inszoom.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # INSZoom Privacy Policy | Information Security
 
@@ -129,25 +129,3 @@ This Privacy Policy is subject to occasional revision, and if we make any materi
 LAST UPDATED – July 13, 2015.
 
 ### Contact Details
-
-**North America**  
-(Headquarters)  
-INSZoom.com Inc.  
-2603 Camino Ramon, Suite 375  
-San Ramon, California 94583  
-T : 925 244 0600  
-F : 925 244 1012
-
-**Asia**  
-(Technology and Development Center)  
-INSZoom Technology & Services (India) Pvt. Ltd.  
-Brigade Tech Park, No.134/1,  
-Block-B, 8th Floor,  
-Whitefield Main Road,  
-Bangalore – 560 066  
-Karnataka State  
-INDIA  
-T : 00-91-80-6696 9709  
-00-91-80-6696 9724  
-00-91-80-6696 9732  
-00-91-80-6532 4323
