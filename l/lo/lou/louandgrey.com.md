@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the louandgrey.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327041159id_/http%3A//www.louandgrey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the louandgrey.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208053348id_/http%3A//www.louandgrey.com/privacy) for the most accurate reproduction.*
 
 # Lou & Grey | Customer Service Privacy & Security
 
   1. [Home](https://web.archive.org/)
   2. Privacy & Security
 
-[CUSTOMER SERVICE](https://web.archive.org/customer-service) [TERMS OF SERVICE](https://web.archive.org/terms) [PRIVACY & SECURITY](https://web.archive.org/privacy) [CONTACT US](https://web.archive.org/contact-us)
+[CUSTOMER SERVICE](https://web.archive.org/customer-service) [TERMS OF USE](https://web.archive.org/terms) [PRIVACY & SECURITY](https://web.archive.org/privacy) [CONTACT US](https://web.archive.org/contact-us)
 
 ## Privacy & Security
 
@@ -85,7 +85,7 @@ We may enable users to submit their own content for blogs, customer reviews, dis
 
 ### How do I access or change information available in my account profile? __
 
-If you want to change or review the information that we make available about you in your account profile, simply sign on to www.anntaylor.com or www.LOFT.com and click on "My Account" on the navigation bar. You will then be able to change information stored in your account profile. Be sure to click "Save" when you complete your changes.
+If you want to change or review the information that we make available about you in your account profile, simply sign on to www.louandgrey.com and click on "Sign In" on the navigation bar. You will then be able to change information stored in your account profile. Be sure to click "Save" when you complete your changes. 
 
 You can also change or access this information by contacting our brands. For contact information, click here. Please be sure to include or have ready your full name, address, phone number and e-mail address.
 
@@ -147,7 +147,7 @@ Please be sure to include your full name, email address, telephone number and ma
 
 ### What are cookies? Do the Sites use cookies or other technologies? __
 
-Cookies. Cookies are a browser feature that assign a unique identification to your computer or mobile device. Cookies are typically stored on your mobile device or computer's hard drive and are used by our Sites to help us recognize your browser as a previous visitor, personalize your shopping experience and save and remember any preferences or other actions that may have been set while your browser was visiting our Sites. For example, if you place items in your online shopping cart, we may use cookies to keep those items in your cart for your future access. We may also use cookies to recognize you when you return to our Sites, provide you with access to your account information, and understand your use of our Sites so we can improve the features of our Sites and tailor communications to you. We may also use a cookie to help us confirm your receipt of, and response to, our e-mails and provide you a more personalized experience. Our cookies do not contain your name, address or any financial information.
+Cookies. Cookies are a browser feature that assign a unique identification to your computer or mobile device. Cookies are typically stored on your mobile device or computer's hard drive and are used by our Sites to help us recognize your browser as a previous visitor, personalize your shopping experience and save and remember any preferences or other actions that may have been set while your browser was visiting our Sites. For example, if you place items in your online shopping cart, we may use cookies to keep those items in your cart for your future access. We may also use cookies to recognize you when you return to our Sites, provide you with access to your account information, and understand your use of our Sites so we can improve the features of our Sites and tailor communications to you. We may also use a cookie to help us confirm your receipt of, and response to, our e-mails and provide you a more personalized experience. Our cookies do not contain your name, address or any financial information. We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, [click here.](http://dtmc.louandgrey.com/adinfo/choice/prod/?type=fpc&cid=3166&cname=Lou%20and%20Grey&cmagic=5e6d27&clogo=3166.png&loc=us&lang=en-us%27,%27_blank%27,%27status=0,toolbar=0,location=0,menubar=0,directories=0,scrollbars=1,width=921,height=758)
 
 You can refuse cookies by turning them off in your Internet or mobile browser. In order to disable cookies, please consult your browser's help section for instructions. If you turn off cookies, however, you may not be able to use some of the features of our Sites, and you will not be able to purchase from our Sites, as we will not be able to track your online order. You may still place an order by calling us at 1-800-DIAL-ANN or 1-888-LOFT-444 or 1-844-214-3434 for Lou & Grey.
 
@@ -155,13 +155,13 @@ You can refuse cookies by turning them off in your Internet or mobile browser. I
 
 We may use "pixel tags" (also called web beacons, web bugs or clear gifs), which are tiny graphic images that are placed in the code on our Sites and in our emails. Pixel tags help us analyze our customers' online behavior and measure the effectiveness of our Sites and our advertising. We work with service providers that help us track, collect and analyze this information. We use pixel tags, either alone or in conjunction with cookies, to collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the Sites. This information may include your mobile device or computer's IP address, your browser type, your operating system, date and time information, and other technical information about your computer or mobile device. We may also track certain information about the identity of the website you visited immediately before coming to our Sites as well as the identity of the websites you visit after you leave our Sites.
 
-We may also use Local Shared Objects (sometimes referred to as "flash cookies"), browser web storage (including HTML5) and application data caches. These are used to enhance your user experience, for example, by storing your user preferences and settings, and in connection with animated content on our Sites. These mechanisms operate similarly to browser cookies, but can store data more complex than simple text. To find out more about flash cookies or how to disable them, please click here http://kb2.adobe.com/cps/526/52697ee8.html.
+To find out more about flash cookies or how to disable them, please visit: <http://kb2.adobe.com/cps/526/52697ee8.html>
 
 Some web browsers may transmit "do not track" signals to the websites and other online services with which the browser communicates. There is no standard that governs what, if anything, websites should do when they receive these signals. We currently do not take action in response to these signals. If and when a standard for responding is established, we may revisit this policy on responding to these signals.
 
 By visiting our Sites, you consent to our placement of cookies, pixel tags, Local Shared Objects and other similar technologies on your computer and/or mobile device.
 
-Service providers' use of cookies and other technologies. ANN also may allow service providers to collect information about your online activities through cookies and other technologies so that these entities can provide services to us. These and other third parties may collect or receive information about your use of our services, including through the use of cookies, web beacons and other technologies, and this information may be collected over time and combined with information collected on different websites and online services. These service providers may use information about your activities on our Sites and other websites and combine that information with other information (such as an email address) to serve advertisements on our behalf across the Internet. Some of these entities may be participants in the Network Advertising Initiative and/or the Self-Regulatory Program for Online Behavioral Advertising. Both of these programs allow users to opt out of ad targeting from participating companies. To learn more, please click here http://www.networkadvertising.org/ or here http://www.aboutads.info/. To opt out, please click here http://www.networkadvertising.org/managing/opt_out.asp or http://www.aboutads.info/choices/.
+Service providers' use of cookies and other technologies. ANN also may allow service providers to collect information about your online activities through cookies and other technologies so that these entities can provide services to us. These and other third parties may collect or receive information about your use of our services, including through the use of cookies, web beacons and other technologies, and this information may be collected over time and combined with information collected on different websites and online services. These service providers may use information about your activities on our Sites and other websites and combine that information with other information (such as an email address) to serve advertisements on our behalf across the Internet. Some of these entities may be participants in the Network Advertising Initiative and/or the Self-Regulatory Program for Online Behavioral Advertising. Both of these programs allow users to opt out of ad targeting from participating companies. To learn more, please visit the following sites:[ http://www.networkadvertising.org/](http://www.networkadvertising.org/) [http://www.aboutads.info/ ](http://www.aboutads.info/)To opt out, please visit: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt) [http://www.aboutads.info/choices/ ](http://www.aboutads.info/choices/)
 
 ### How does ANN protect the security of my order information? __
 
@@ -171,7 +171,7 @@ ANN uses Secure Sockets Layer (SSL) technology to help keep your online order in
 
 Specifically, once you enter the checkout page, your computer will begin communicating with our server using SSL encryption. You can determine the security of your connection by looking at the bottom of your Internet browser window after you have accessed our Sites. SSL technology is active if there is a solid key or a closed lock. You can also double-check by looking at the URL line of your browser. When accessing a security-enhanced server, the first characters of the site address will change from "http" to "https".
 
-Some versions of browsers and some firewalls don't permit communication through security-enhanced servers like the ones we use to process orders on our Sites. If you cannot access the security-enhanced server for any reason, you can place your order by calling 1-800-DIAL-ANN or 1-888-LOFT-444.
+Some versions of browsers and some firewalls don't permit communication through security-enhanced servers like the ones we use to process orders on our Sites. If you cannot access the security-enhanced server for any reason, you can place your order by calling 1-844-214-3434.
 
 While we implement SSL technology and other security measures to protect your information, please note that no data transmitted over the Internet or any other public network can be guaranteed to be 100% secure.
 
@@ -181,7 +181,7 @@ If you are visiting our Sites from a location outside of the United States, you 
 
 ### What happens to my personal information when I place an order from outside the United States? __
 
-ANN offers customers the ability to ship orders internationally. In these cases, ANN partners with Borderfree, ("Borderfree"), a U.S.-based service provider that we have contracted with to facilitate the sale and fulfillment of international online purchases. Borderfree will process your information in accordance with its privacy policy. To learn more about Borderfree's privacy policy, please visit www.Borderfree.com/privacy.
+ANN offers customers the ability to ship orders internationally. In these cases, ANN partners with Borderfree, ("Borderfree"), a U.S.-based service provider that we have contracted with to facilitate the sale and fulfillment of international online purchases. Borderfree will process your information in accordance with its privacy policy. To learn more about Borderfree's privacy policy, please visit [www.Borderfree.com/privacy](https://web.archive.org/web/20161208053348id_/http%3A//www.louandgrey.com/www.Borderfree.com/privacy).
 
 When we identify that your order is one that will be shipped internationally, we work with Borderfree to complete your order. On the checkout page, you will be required to submit credit card and contact information to Borderfree to complete your order. Borderfree will be solely responsible for processing your financial transaction and we will not have access to your credit card information. Upon completion of your order, Borderfree will notify us of the approval of your order, and we will then ship approved orders to Borderfree. Simultaneously, Borderfree will purchase the product from us, which allows them to take title to the product(s), bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority and arrange for the product to be delivered to you. In this process, Borderfree makes the sale to you as the merchant of record. When ordering a product, you will be presented with Borderfree's terms and conditions and privacy policy to which you must agree in order to complete your transaction.
 
@@ -197,7 +197,7 @@ ANN is concerned about the privacy of young children and our Sites do not knowin
 
 ### What are my California privacy rights? __
 
-Residents of the State of California may request a list of all third parties to which ANN has disclosed personal information during the preceding year for the third parties' direct marketing purposes. If you are a California resident and want a list, you should send a request to clientservices@anninc.com or contact us at:
+Residents of the State of California may request a list of all third parties to which ANN has disclosed personal information during the preceding year for the third parties' direct marketing purposes. If you are a California resident and want a list, you should send a request to [clientservices@anninc.com](https://web.archive.org/web/20161208053348id_/http%3A//www.louandgrey.com/clientservices@anninc.com) or contact us at:
 
 ANN CLIENT SERVICES
 
@@ -211,37 +211,9 @@ You need to provide the statement "Your California Privacy Rights" in the subjec
 
 ### What if there are changes to this Privacy Policy or if I have other questions? __
 
-We may update the Privacy Policy from time to time. If we make material changes to this Privacy Policy or our information practices change in the future, we will notify you by posting the changes on our Sites. You may wish to check this section from time to time, because by visiting our Sites, you agree to accept these changes to the PrivacyExcept as otherwise mentioned herein, this Privacy Policy only addresses the use and disclosure of information we collect from you on our Sites.
+We may update the Privacy Policy from time to time. If we make material changes to this Privacy Policy or our information practices change in the future, we will notify you by posting the changes on our Sites. You may wish to check this section from time to time, because by visiting our Sites, you agree to accept these changes to the Privacy Policy except as otherwise mentioned herein, this Privacy Policy only addresses the use and disclosure of information we collect from you on our Sites.
 
 ### If you have any questions about our Privacy Policy, please contact us: __
-
-ANN CLIENT SERVICES
-
-ATTN: Senior Director, Client Contact
-
-4079 Executive Parkway, 3rd Floor
-
-Westerville, Ohio 43081
-
-Effective as of February 4, 2013.
-
-Policy. Except as otherwise mentioned herein, this Privacy Policy only addresses the use and disclosure of information we collect from you on our Sites.
-
-If you have any questions about our Privacy Policy, please contact us:
-
-ANN CLIENT SERVICES
-
-ATTN: Senior Director, Client Contact
-
-4079 Executive Parkway, 3rd Floor
-
-Westerville, Ohio 43081
-
-Effective as of February 4, 2013
-
-Except as otherwise mentioned herein, this Privacy Policy only addresses the use and disclosure of information we collect from you on our Sites.
-
-If you have any questions about our Privacy Policy, please contact us:
 
 ANN CLIENT SERVICES
 
@@ -284,7 +256,7 @@ Frequently Asked Questions About Our Privacy Policy
 
   * ### EMAIL US:
 
-**[clientservices@louandgrey.com](mailto:clientservices@louandgrey.com)   
+**[clientservices@louandgrey.com](https://web.archive.org/contact-us)   
 Please allow up to 24 hours to receive a response by us. **
 
   * ### CALL US:
