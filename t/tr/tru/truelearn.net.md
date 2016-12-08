@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truelearn.net privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413042043id_/http%3A//www.truelearn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truelearn.net privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208190836id_/http%3A//www.truelearn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TrueLearn
 
@@ -13,7 +13,11 @@ TrueLearn may use information collected to provide you with additional informati
 TrueLearn may use information collected to improve the Company’s Web sites and services.   
 TrueLearn does not share, sell, rent, or trade personally identifiable information with third parties for their promotional purposes. TrueLearn may share information collected with other companies that work on TrueLearn’s behalf.  
 If your TrueLearn subscription was purchased by a 3rd party as part of an “institutional subscription”, TrueLearn may share personally identifiable information with that 3rd party regarding your usage of TrueLearn’s services.   
-**Communications Preferences**  
+**Payment Information**
+
+Your payment and personal information is always safe. Our Secure Sockets Layer (SSL) software is the industry standard and among the best software available today for secure commerce transactions. It encrypts all of your personal information, including credit card number, name, and address, so that it cannot be read over the internet.
+
+******Communications Preferences**  
 Every marketing email from TrueLearn contains instructions on how to opt out of receiving further marketing emails from the Company.   
 **How to Contact Us**  
 Questions regarding TrueLearn’s Privacy Policy or information practices should be directed to admin@truelearn.com.
