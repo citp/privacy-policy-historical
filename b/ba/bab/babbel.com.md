@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the babbel.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615032052id_/http%3A//about.babbel.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babbel.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208164320id_/http%3A//about.babbel.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Babbel.com
 
-“Babbel” is a service offered by Lesson Nine GmbH, Bergmannstr. 5, 10961 Berlin, Germany. Through this privacy statement, Lesson Nine wishes to inform you of how your personal data are processed and in what form some of these data are made accessible for other users. All personal data are treated with the utmost care at Lesson Nine. All the necessary steps are taken to guarantee the security of these data. This privacy statement supplements the General Terms and Conditions of Business of Babbel. Please write to [privacy@babbel.com](mailto:privacy@babbel.com) if you have any queries relating to this document.
+“Babbel” is a service offered by Lesson Nine GmbH, Max-Beer-Str. 2, 10119 Berlin, Germany. Through this privacy statement, Lesson Nine wishes to inform you of how your personal data are processed and in what form some of these data are made accessible for other users. All personal data are treated with the utmost care at Lesson Nine. All the necessary steps are taken to guarantee the security of these data. This privacy statement supplements the General Terms and Conditions of Business of Babbel. Please write to [privacy@babbel.com](mailto:privacy@babbel.com) if you have any queries relating to this document.
 
 ### 1\. Which data are stored?
 
@@ -103,15 +103,11 @@ To enable Babbel users to conveniently revise their vocabulary, all practiced wo
 
 Babbel users can upload images for general use in areas such as the forum.
 
-#### 1.10. Messages
-
-All private messages between Babbel users via the Babbel website are saved on the Babbel servers. These private data are not made accessible to other users under any circumstances. The messages are deleted as soon as both communicating parties have deleted them from their mailboxes. Public messages in discussion forums are saved permanently provided you do not delete them yourself. The files remain saved even after you have terminated the service. Other users are able to recognize whether you take part in any activities within the discussion forum. Users with whom you are friends may also receive a message about your activities.
-
-#### 1.11. Newsletter & emails
+#### 1.10. Newsletter & emails
 
 We send you emails for a variety of reasons. These may include confirmations of an order or of a registration. However, communication may also concern information about our services, provided you have not revoked your consent for such usage, which you can of course do at any time at <http://www.babbel.com/users/settings/edit>. Any email messages we send are saved by us and any emails that may be regarded as business letters will not be deleted during the statutory retention period. We also record any email addresses to which a message could not be delivered in order to request an updated email address. Furthermore,In the case of our newsletter emails, we record (e.g. by means of a so-called “tracking pixel”) whether an email is opened and which links in the email are clicked on; we do so to optimize our offers and tailor their design to meet your needs. We use these data to enable us to send newsletter contents to match your profile. If you wish to object to this use of your data, you can do so by [canceling](http://www.babbel.com/users/settings/edit) our newsletters. We also use service providers from USA for sending our emails. We make sure that the statutory conditions for the cross-border use of personal details as defined by §§ 4b, 4c BDSG (German Federal Data Protection Act) are fulfilled.
 
-#### 1.12. Apps
+#### 1.11. Apps
 
 As well as our website, we also offer apps for various smartphone operating systems. Here too we collect data on the use of the application by means of software from external suppliers for the purpose of detecting and correcting errors and to improve our applications. However, no data are collected in the process from which any external supplier could directly establish any personal connection. In this way we receive aggregated information on how the apps are used and which features are especially popular, and from this information we can draw conclusions for future improvements in product development. You can prevent this analysis by “opting out”: <http://optoutmobile.com/optout/index.html> In addition, we will also be informed if apps crash - if you have enabled this through your device settings. These so-called crash reports are provided by external suppliers. However, no data are processed from which any external supplier could derive any personal connection.
 
@@ -158,7 +154,7 @@ Please note that due to caching systems, search engines, the interposition of pr
 
 The trust of our users is important to us. Lesson Nine therefore wishes to provide its users with full information on the processing of their personal data at all times. If any queries remain unanswered by this privacy statement or if more detailed information is required on any point, please contact the following address at any time:
 
-Lesson Nine GmbH, Bergmannstr. 5, 10961 Berlin, Germany
+Lesson Nine GmbH, Max-Beer-Str. 2, 10119 Berlin, Germany
 
 Email: [privacy@babbel.com](mailto:privacy@babbel.com)
 
