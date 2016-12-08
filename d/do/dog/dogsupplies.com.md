@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogsupplies.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610192759id_/http%3A//www.dogsupplies.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogsupplies.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208065609id_/http%3A//www.dogsupplies.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
