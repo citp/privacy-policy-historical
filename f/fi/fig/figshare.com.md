@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the figshare.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421074013id_/https%3A//figshare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the figshare.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208162050id_/https%3A//figshare.com/privacy) for the most accurate reproduction.*
 
-# figshare
+# figshare - Privacy
 
 We at **figshare LLP ("figshare")** respect your concerns about privacy and value the relationship we have with you. This Online Privacy Notice applies to personal information we collect on this website (the “Site”).
 
@@ -78,7 +78,7 @@ We also may use the information we obtain about you in other ways for which we p
 ## Online Tracking
 
 We may use third-party web analytics services on our Site, such as Google Analytics. These service providers help us analyze how users use our Site. The information collected for this purpose (including your IP address and other information collected by automated means) will be disclosed to or collected directly by these service providers. These service providers may retain and use anonymised, aggregated data collected from users of our Site in connection with their own businesses, including in order to improve their products and services. To learn more about opting out of data collection through Google Analytics, click the link below:  
-[Google Analytics](http://tools.google.com/dlpage/gaoptout)
+[Google Analytics](https://tools.google.com/dlpage/gaoptout)
 
 This Site is not designed to respond to “do not track” signals received from browsers.
 
@@ -136,9 +136,6 @@ E-mailing us at info@figshare.com; **or**
 Calling us at +44 (0) 20 7418 5573; **or**  
 Writing to us at:  
 **figshare llp  
-Digital Science  
-Macmillan Glasshouse Building  
-2 Trematon Walk  
-Wharfdale Road  
-London  
-NW1 9SR **
+4 Crinan Street,   
+London,   
+N1 9XW **
