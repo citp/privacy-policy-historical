@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncjrs.gov privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317031240id_/http%3A//ncjrs.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncjrs.gov privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208011447id_/https%3A//www.ncjrs.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -74,6 +74,6 @@ With respect to documents available from this Web site, neither the United State
 
 The United States Government retains a non-exclusive, irrevocable, and royalty-free license to publish or reproduce these documents for U.S. Government purposes, or to allow others to do so.
 
-These documents may be freely distributed and used for non-commercial, scientific and educational purposes. Commercial use of the documents available from this server may be protected under U.S. and foreign copyright laws. If you wish to publish or reproduce these documents for commercial purposes, please [contact us](https://web.archive.org/web/20160317031240id_/http%3A//ncjrs.gov/App/QA/SubmitQuestion.aspx) with your request.
+These documents may be freely distributed and used for non-commercial, scientific and educational purposes. Commercial use of the documents available from this server may be protected under U.S. and foreign copyright laws. If you wish to publish or reproduce these documents for commercial purposes, please [contact us](https://web.archive.org/web/20161208011447id_/https%3A//www.ncjrs.gov/App/QA/SubmitQuestion.aspx) with your request.
 
 Individual documents on this server may have different copyright conditions, and that fact will be noted with those documents.
