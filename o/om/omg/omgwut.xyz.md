@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the omgwut.xyz privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602000254id_/http%3A//omgwut.xyz/tos-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgwut.xyz privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208160750id_/http%3A//omgwut.xyz/tos-privacy-policy) for the most accurate reproduction.*
 
 # TOS & Privacy Policy | OMGWUT?
 
 ## Contents:
 
-  1. [Terms of Service](http://omgwut.xyz/tos-privacy-policy/#atospp-terms)
-  2. [Privacy Policy](http://omgwut.xyz/tos-privacy-policy/#atospp-privacy)
+  1. Terms of Service
+  2. Privacy Policy
 
 
 
@@ -53,7 +53,7 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 
 Although most changes are likely to be minor, OMGWUT? may change its Privacy Policy from time to time, and in OMGWUT’s sole discretion. OMGWUT? encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a OMGWUT.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-[Back to top](http://omgwut.xyz/tos-privacy-policy/#atospp-toc)
+Back to top
 
 
 
