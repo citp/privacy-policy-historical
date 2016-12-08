@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the binaryuno.com privacy policy that was archived on 2016-02-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160222030639id_/https%3A//www.binaryuno.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the binaryuno.com privacy policy that was archived on 2016-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161208034728id_/https%3A//www.binaryuno.com/legal/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
-<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=5"></script><script src="https://secure.quantserve.com/aquant.js?a=p-B2hJY2rcdsjLy" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MT4RVR"></script><script type="text/javascript" async="" src="//storage.googleapis.com/code.snapengage.com/js/8f4605cc-9a7b-428d-b742-5947aabf95de.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+<!DOCTYPE html><html lang="en-GB" prefix="og: http://ogp.me/ns#"><head>
+<script src="https://secure.quantserve.com/aquant.js?a=p-B2hJY2rcdsjLy" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MT4RVR"></script><script type="text/javascript" async="" src="//storage.googleapis.com/code.snapengage.com/js/8f4605cc-9a7b-428d-b742-5947aabf95de.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 /*
 var _rollbarConfig = {
     accessToken: "50d471c748244060953182e9c96cb0d1",
@@ -14,28 +14,36 @@ var _rollbarConfig = {
 !function(r){function t(e){if(o[e])return o[e].exports;var n=o[e]={exports:{},id:e,loaded:!1};return r[e].call(n.exports,n,n.exports,t),n.loaded=!0,n.exports}var o={};return t.m=r,t.c=o,t.p="",t(0)}([function(r,t,o){"use strict";var e=o(1).Rollbar,n=o(2),a="https://d37gvrvc0wt4s1.cloudfront.net/js/v1.4/rollbar.min.js";_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||a;var i=e.init(window,_rollbarConfig),l=n(i,_rollbarConfig);i.loadFull(window,document,!1,_rollbarConfig,l)},function(r,t){"use strict";function o(){var r=window.console;r&&"function"==typeof r.log&&r.log.apply(r,arguments)}function e(r){this.shimId=++u,this.notifier=null,this.parentShim=r,this.logger=o,this._rollbarOldOnError=null}function n(r,t,o){window._rollbarWrappedError&&(o[4]||(o[4]=window._rollbarWrappedError),o[5]||(o[5]=window._rollbarWrappedError._rollbarContext),window._rollbarWrappedError=null),r.uncaughtError.apply(r,o),t&&t.apply(window,o)}function a(r){var t=e;return l(function(){if(this.notifier)return this.notifier[r].apply(this.notifier,arguments);var o=this,e="scope"===r;e&&(o=new t(this));var n=Array.prototype.slice.call(arguments,0),a={shim:o,method:r,args:n,ts:new Date};return window._rollbarShimQueue.push(a),e?o:void 0})}function i(r,t){if(t.hasOwnProperty&&t.hasOwnProperty("addEventListener")){var o=t.addEventListener;t.addEventListener=function(t,e,n){o.call(this,t,r.wrap(e),n)};var e=t.removeEventListener;t.removeEventListener=function(r,t,o){e.call(this,r,t&&t._wrapped?t._wrapped:t,o)}}}function l(r,t){return t=t||o,function(){try{return r.apply(this,arguments)}catch(o){t("Rollbar internal error:",o)}}}var u=0;e.init=function(r,t){var o=t.globalAlias||"Rollbar";if("object"==typeof r[o])return r[o];r._rollbarShimQueue=[],r._rollbarWrappedError=null,t=t||{};var a=new e;return l(function(){if(a.configure(t),t.captureUncaught){a._rollbarOldOnError=r.onerror,r.onerror=function(){var r=Array.prototype.slice.call(arguments,0);n(a,a._rollbarOldOnError,r)};var e,l,u="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(e=0;e<u.length;++e)l=u[e],r[l]&&r[l].prototype&&i(a,r[l].prototype)}return r[o]=a,a},a.logger)()},e.prototype.loadFull=function(r,t,o,e,n){var a=function(){var t;if(void 0===r._rollbarPayloadQueue){var o,e,a,i;for(t=new Error("rollbar.js did not load");o=r._rollbarShimQueue.shift();)for(a=o.args,i=0;i<a.length;++i)if(e=a[i],"function"==typeof e){e(t);break}}"function"==typeof n&&n(t)},i=t.createElement("script"),u=t.getElementsByTagName("script")[0];i.src=e.rollbarJsUrl,i.async=!o,i.onload=l(a,this.logger),u.parentNode.insertBefore(i,u)},e.prototype.wrap=function(r,t){try{var o;if(o="function"==typeof t?t:function(){return t||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._wrapped){r._wrapped=function(){try{return r.apply(this,arguments)}catch(t){throw t._rollbarContext=o()||{},t._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=t,t}},r._wrapped._isWrap=!0;for(var e in r)r.hasOwnProperty(e)&&(r._wrapped[e]=r[e])}return r._wrapped}catch(n){return r}};for(var s="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError".split(","),p=0;p<s.length;++p)e.prototype[s[p]]=a(s[p]);r.exports={Rollbar:e,_rollbarWindowOnError:n}},function(r,t){"use strict";r.exports=function(r,t){return function(o){if(!o&&!window._rollbarInitialized){var e=window.RollbarNotifier,n=t||{},a=n.globalAlias||"Rollbar",i=window.Rollbar.init(n,r);i._processShimQueue(window._rollbarShimQueue||[]),window[a]=i,window._rollbarInitialized=!0,e.processPayloads()}}}}]);
 */
 </script>
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta charset="UTF-8">
 <title>Binary Uno: Privacy Policy</title>
 
-<link rel="stylesheet" href="http://www.binaryuno.com/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=3.3.5" type="text/css" media="all">
-
+<link rel="stylesheet" href="https://www.binaryuno.com/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=3.3.5" type="text/css" media="all">
+<script type="text/javascript">
+	var deprecated_wire_countries = ['France', 'United States', 'United Kingdom', 'Switzerland', 'Canada', 'Australia', 'Iraq', 'Iran, Islamic Republic Of', 'Iran', 'Yemen', 'Afghanistan', 'Syrian Arab Republic', 'Sudan', 'Korea, Democratic People\'s Republic of'];
+	var current_IP_country = "United States";	if(deprecated_wire_countries.indexOf(current_IP_country) != -1){
+		var show_wire = false;
+	}else{
+		var show_wire = true;
+	}
+</script>
+<link rel="manifest" href="/manifest.json">
 
 <!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.4 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="The privacy of our clients is one of our main concerns, therefore Binary Uno is committed to safeguard all personal information of its valued online traders.">
-<link rel="canonical" href="http://www.binaryuno.com/legal/privacy-policy/">
-<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://www.binaryuno.com/legal/privacy-policy/">
+<meta property="og:locale" content="en_GB">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Binary Uno: Privacy Policy">
 <meta property="og:description" content="The privacy of our clients is one of our main concerns, therefore Binary Uno is committed to safeguard all personal information of its valued online traders.">
-<meta property="og:url" content="http://www.binaryuno.com/legal/privacy-policy/">
+<meta property="og:url" content="https://www.binaryuno.com/legal/privacy-policy/">
 <meta property="og:site_name" content="Binary Uno">
 <!-- / Yoast WordPress SEO plugin. -->
 
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.binaryuno.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
-			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.binaryuno.com/wp-includes/js/wp-emoji-release.min.js?ver=4.4.2" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.binaryuno.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.5"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.binaryuno.com/wp-includes/js/wp-emoji-release.min.js?ver=4.4.5" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -50,24 +58,49 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="socialite-css-css" href="http://www.binaryuno.com/wp-content/plugins/wpsocialite/lib/wpsocialite.css?ver=4.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="http://www.binaryuno.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.9.3" type="text/css" media="all">
-<link rel="stylesheet" id="datepicker-css" href="http://www.binaryuno.com/wp-content/plugins/spotoption-platform/css/jdpicker.css?ver=4.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="chosen-css" href="http://www.binaryuno.com/wp-content/plugins/spotoption-platform/css/chosen.css?ver=4.4.2" type="text/css" media="all">
-<link rel="https://api.w.org/" href="http://www.binaryuno.com/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.binaryuno.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.binaryuno.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.4.2">
-<link rel="shortlink" href="http://www.binaryuno.com/?p=255">
-<link rel="alternate" type="application/json+oembed" href="http://www.binaryuno.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.binaryuno.com%2Flegal%2Fprivacy-policy%2F">
-<link rel="alternate" type="text/xml+oembed" href="http://www.binaryuno.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.binaryuno.com%2Flegal%2Fprivacy-policy%2F&amp;format=xml">
-<meta name="generator" content="WPML ver:3.3.5 stt:1,47,5;">
+<link rel="stylesheet" id="socialite-css-css" href="https://www.binaryuno.com/wp-content/plugins/wpsocialite/lib/wpsocialite.css?ver=4.4.5" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://www.binaryuno.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.9.3" type="text/css" media="all">
+<link rel="stylesheet" id="datepicker-css" href="https://www.binaryuno.com/wp-content/plugins/spotoption-platform/css/jdpicker.css?ver=4.4.5" type="text/css" media="all">
+<link rel="stylesheet" id="chosen-css" href="https://www.binaryuno.com/wp-content/plugins/spotoption-platform/css/chosen.css?ver=4.4.5" type="text/css" media="all">
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js?ver=4.4.5"></script>
+<script type="text/javascript" src="https://www.binaryuno.com/wp-content/plugins/mz-cashier/js/mz_cashier.js?ver=4.4.5"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.binaryuno.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.binaryuno.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.4.5">
+<link rel="shortlink" href="https://www.binaryuno.com/?p=255">
+<link rel="alternate" type="application/json+oembed" href="https://www.binaryuno.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.binaryuno.com%2Flegal%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.binaryuno.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.binaryuno.com%2Flegal%2Fprivacy-policy%2F&amp;format=xml">
+<meta name="generator" content="WPML ver:3.3.5 stt:1,47,2,5;">
 
 <style type="text/css">											
 </style>
+	<script type="text/javascript">
+		adroll_adv_id = "KRPNWPETKNG6PAK4LNIO2B";
+		adroll_pix_id = "TCIBBWDJ5FCYXHCMPJPZGA";
+		(function () {
+			var _onload = function(){
+				if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+				if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+				var scr = document.createElement("script");
+				var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+				scr.setAttribute('async', 'true');
+				scr.type = "text/javascript";
+				scr.src = host + "/j/roundtrip.js";
+				((document.getElementsByTagName('head') || [null])[0] ||
+				document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+			};
+			if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+			else {window.attachEvent('onload', _onload)}
+		}());
+	</script>
+	
 <script src="//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
-<script src="http://www.binaryuno.com/wp-content/themes/BinaryUno/js/functions.js?v=3"></script>
-<script src="http://www.binaryuno.com/wp-content/themes/BinaryUno/js/timezone2cookie.js"></script>
+<script src="https://www.binaryuno.com/wp-content/themes/BinaryUno/js/functions.js?v=3.1"></script>
+<script src="https://www.binaryuno.com/wp-content/themes/BinaryUno/js/timezone2cookie.js"></script>
+
+
+
+
 
 <script>
 var fontsactive = false;	 	
@@ -85,12 +118,21 @@ var fontsinactive = false;
   });
 </script>
 
-<link rel="stylesheet" href="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/reset.css" type="text/css" media="all">
-<link rel="stylesheet" href="http://www.binaryuno.com/wp-content/themes/BinaryUno/style.css?v=264" type="text/css" media="all">
-<link rel="stylesheet" href="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/css/templates.css?v=22" type="text/css" media="all">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald:400,700,300&amp;subset=latin">
+
+<link rel="stylesheet" href="https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/reset.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://www.binaryuno.com/wp-content/themes/BinaryUno/style.css?v=2" type="text/css" media="all">
+
+<!-- local style connect -->
+<!--  -->
+<link rel="stylesheet" href="https://www.binaryuno.com/wp-content/themes/BinaryUno/css/templates.css?v=1.0.2" type="text/css" media="all">
+
+<!-- cdn_style_connect -->
+<!-- <link rel="stylesheet" href="https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/css/templates.css?v=25" type="text/css" media="all"> -->
 
 
 
+<!--  -->
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -102,26 +144,1690 @@ var fontsinactive = false;
   ga('send', 'pageview');
 </script>
 
-
-<!-- Hotjar Tracking Code for www.binaryuno.com -->
-<script>
-    (function(f,b){
-        var c;
-        f.hj=f.hj||function(){(f.hj.q=f.hj.q||[]).push(arguments)};
-        f._hjSettings={hjid:34388, hjsv:4};
-        c=b.createElement("script");c.async=1;
-        c.src="//static.hotjar.com/c/hotjar-"+f._hjSettings.hjid+".js?sv="+f._hjSettings.hjsv;
-        b.getElementsByTagName("head")[0].appendChild(c); 
-    })(window,document);
-</script><script async="" src="//static.hotjar.com/c/hotjar-34388.js?sv=4"></script>
-
-</head>
+<!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f)}})(document,window.mixpanel||[]);
+mixpanel.init("bb13cde0892f68a2d623d3e805e477b9", {
+    loaded: function() {
+      mixpanel_distinct_id = mixpanel.get_distinct_id();
+            mpeUserLoggedInStatus = 'Not Logged In';
+          }
+});
+</script>
+<!-- end Mixpanel -->
+<meta name="earnify-site-verification" content="66068cce6de3c39b6349dc6db1022db20f97e2a7">
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body class="page page-id-255 page-child parent-pageid-52 page-template-default wpsocialite-scroll page-en">
 
 <style>
-@import url('http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/css/platform-overrides.css?v=18');
+@import url('https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/css/platform-overrides.css?v=54');
 </style>
+
+
+<!-- mobile header  start -->
+<!-- mobile styles  start -->
+<style type="text/css">
+	.fooer-mobile + .clear {
+		font-size: 0;
+	}
+	.fooer-mobile {
+		display: none;
+		background: #050505;
+		padding: 31px 51px;
+	}
+	.button-download-app-mobile {
+		display: none;
+		z-index: 99;
+	}
+	.mobile-logo__wrapper {
+		display: none;
+		text-align: center;
+		padding: 16px;
+		background: #000;
+	}
+	.mobile-logo {
+		width: 300px;
+		height: 61px;
+	}
+	#login-bar .menu-button__wrapper--mobile {
+		display: none;
+		height: 41px;
+		position: relative;
+		width: 58px;
+		float: left;
+		line-height: 38px;
+		z-index: 11;
+		transition: transform 0.3s linear;
+	}
+	#login-bar .menu-button__wrapper--mobile:after, #login-bar .menu-button__wrapper--mobile:before {
+		content: "";
+		display: block;
+		position: absolute;
+		width: 58px;
+		height: 10px;
+		background: #fff;
+		left: 0;
+		border-radius: 3.6px;
+	}
+	#login-bar .menu-button__wrapper--mobile:after {
+		bottom: 0;
+	}
+	#login-bar .menu-button__wrapper--mobile:before {
+		top: 0;
+	}
+	#login-bar .menu-button--mobile {
+		display: inline-block;
+		width: 58px;
+		height: 10px;
+		background: #fff;
+		border-radius: 3.6px;
+		vertical-align: middle;
+		width: 58px;
+		position: absolute;
+		top: 50%;
+		transform: translate(0, -50%);
+		-webkit-transform: translate(0, -50%);
+	}
+	.mobile-menu__container {
+		display: none;
+	}
+	.fooer-mobile__text {
+		color: #fff;
+		font-family: Lato, serif;
+		font-size: 21px;
+		line-height: 33px;
+		font-weight: 400;
+	}
+
+	/* HEADER < 992 START */
+	@media (max-width: 992px) {
+		#snapengage-button {
+			display: none !important;
+		}
+		body::-webkit-scrollbar {
+			display: none;
+		}
+		#live-chat-icon:visited, #call-back-icon:visited, .button-download-app-mobile:visited {
+			color: #fff;
+		}
+		#items .support-item,
+		.page-en #login-bar > div > div > span:before,
+		.page-es #login-bar > div > div > span:before,
+		.page-ru #login-bar > div > div > span:before {
+			display: none;
+		}
+		#login-bar .menu-button__wrapper--mobile,
+		.fooer-mobile,
+		.button-download-app-mobile,
+		.mobile-logo__wrapper,
+		.fooer-mobile {
+			display: block;
+		}
+		#login-bar #user-bar {
+			display: none;
+		}
+		#login-bar {
+			/* height: 75px; */
+			padding: 17px 50px 13px;
+		}
+		#login-bar.login_opened {
+			background: linear-gradient(to top, #0e3f72, #277cd4);
+		}
+		.inner-wrapper {
+			width: 100%;
+		}
+		#login-bar #items .login-item {
+			display: inline-block;
+			background: none !important;
+			padding: 0 !important;
+			border-radius: 3px;
+			border: 2px solid #fff;
+			width: 141px;
+			height: 45px;
+			font-family: Oswald, sans-serif;
+			font-weight: 400;
+			font-size: 30px;
+			text-align: center;
+			vertical-align: middle;
+			line-height: 42px;
+			margin-right: 30px;
+		}
+
+		#login-bar .language-menu.item {
+			background: url("https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/mobile_lang-select.png") no-repeat 100% 50% !important;
+			font-size: 0;
+			padding-right: 45px !important;
+			display: inline-block;
+			vertical-align: top;
+			line-height: 0;
+			position: relative;
+		}
+		#login-bar .language-menu.item:before {
+			content: "";
+			display: block;
+			position: absolute;
+			width: 40px;
+			height: 40px;
+			left: -13px;
+			top: 4px;
+			background: url("https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/mobile_images/flags/en.png") no-repeat 0 50%;
+			-webkit-background-size: contain;
+			background-size: contain;
+		}
+		.lang-flag {
+			width: 40px;
+			height: 40px;
+			visibility: hidden;
+		}
+		#contact-sidebar-wrapper {
+			display: block;
+			top: 545px;
+			-ms-transform:rotate(90deg);;
+			-webkit-transform:rotate(90deg);
+			transform: rotate(90deg);
+			transform-origin: 100% 0;
+			-webkit-transform-origin:100% 0;
+			-ms-transform-origin:100% 0;
+			right: -5px;
+		}
+		#live-chat-icon, #call-back-icon, .button-download-app-mobile {
+			height: 58px;
+			line-height: 49px;
+			border: 1px solid #fff;
+			border-radius: 3px;
+			background: rgba(0,0,0, 0.77) !important;
+			font-family: Lato;
+			font-size: 36px;
+			text-align: center;
+			vertical-align: middle;
+			display: inline-block;
+			margin-right: 5px;
+		}
+		#live-chat-icon {
+			width: 140px;
+		}
+		#call-back-icon img,
+		#live-chat-icon img,
+		#contact-icon {
+			display: none;
+		}#live-chat-icon:after {
+			 content: "Chat";
+			 display: block;
+			 color: #fff;
+		 }
+		#call-back-icon {
+			width: 225px;
+			display: none;
+		}
+		#call-back-icon:after {
+			content: "Click to Call";
+			display: block;
+			color: #fff;
+		}
+		.button-download-app-mobile {
+			-ms-transform:rotate(90deg);
+			-webkit-transform:rotate(90deg);
+			transform: rotate(90deg);
+			-ms-transform-origin:100% 0;
+			-webkit-transform-origin:100% 0;
+			transform-origin: 100% 0;
+			right: -11px;
+			position: fixed;
+			top: 808px;
+			line-height: 49px;
+			height: 58px;
+			color: #fff;
+			font-size: 36px;
+			width: 260px;
+		}
+		#lang-popup {
+			text-align: right;
+			background: #fff;
+			width: 130px;
+			padding: 7px;
+		}
+		#lang-popup  .a-lang-es {
+			background: url("https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/mobile_images/flags/es.png") no-repeat 0 50%;
+			-webkit-background-size: contain;
+			background-size: contain;
+		}
+		#lang-popup a.a-lang-ru {
+			background: url("https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/mobile_images/flags/ru.png") no-repeat 0 50%;
+			-webkit-background-size: contain;
+			background-size: contain;
+		}
+		#lang-popup a.a-lang-ar {
+			background: url("https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/mobile_images/flags/ar.png") no-repeat 0 50%;
+			-webkit-background-size: contain;
+			background-size: contain;
+		}
+		#lang-popup a {
+			margin-bottom: 5px;
+		}
+		#lang-popup a:last-child {
+			margin-bottom: 0;
+		}
+		#lang-popup .lang-flag {
+			display: none;
+		}
+		#login-bar .item.language-menu.open  {
+			background: url(https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/mobile_lang-select.png) no-repeat 100% 50% !important;
+			font-size: 0;
+			padding-right: 45px !important;
+			display: inline-block;
+			vertical-align: top;
+			line-height: 0;
+		}
+		.mobile-menu__container {
+			display: block;
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 710px;
+			min-height: 100vh;
+			z-index: 10;
+			background: -webkit-linear-gradient(to top, #000000,  #277cd4);
+			background: linear-gradient(to top, #000000,  #277cd4);
+			color: #fff;
+			font-family: Lato, serif;
+			padding: 80px 60px 20px;
+			transform: translate(-800px, 0);
+			-webkit-transform: translate(-800px, 0);
+			transition: transform 0.3s linear;
+		}
+		.mobile-menu__container.visible {
+			-webkit-transform: translate(0);
+			transform: translate(0);
+		}
+		.mobile-menu__title {
+			font-family: Oswald, serif;
+			text-align: center;
+			text-transform: uppercase;
+			font-weight: 300;
+			font-size: 48px;
+			line-height: 27px;
+			border-bottom: 2px solid #94c0ed;
+			border-top: 2px solid #94c0ed;
+			padding: 27px 0;
+		}
+		.menu-mobile-menu-container {
+			padding-top: 17px;
+			position: relative;
+		}
+		.mobile-menu__container .menu-item,
+		.supports__item {
+			font-family: Lato, serif;
+			font-size: 18px;
+			line-height: 18px;
+			padding: 10px 0% 16px;
+			border-bottom: 2px solid #94c0ed;
+		}
+		.mobile-menu__container .menu-item:last-child,
+		.supports__item:last-child {
+			border-bottom: none;
+		}
+		.supports__item:first-child {
+			border-top: 2px solid #94c0ed;
+		}
+		.mobile-menu__container .menu-item a{
+			color: #fff;
+		}
+		.mobile-menu__container .menu-item-has-children {
+			background: url("https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/mobile_images/mobile-menu-arrow.png") no-repeat 99% 50%;
+		}
+		.mobile-menu {
+			opacity: 1;
+			transform: translate(0 ,0);
+			-webkit-transform: translate(0 ,0);
+			transition: transform 0.2s linear, opacity 0.1s linear;
+		}
+		.mobile-menu.hidden {
+			transform: translate(-800px, 0);
+			-webkit-transform: translate(-800px, 0);
+		}
+		.mobile-menu__container .sub-menu {
+			position: absolute;
+			display: block;
+			width: 100%;
+			top: 0;
+			left: 0;
+			opacity: 0;
+			transform: translate(-800px, 0);
+			-webkit-transform: translate(-800px, 0);
+			transition: transform 0.5s linear, opacity 0.2s linear;
+		}
+		.mobile-menu__container .sub-menu.visible {
+			opacity: 1;
+			transform: translate(800px, 0);
+			-webkit-transform: translate(800px, 0);
+		}
+		.mobile-menu__button-back {
+			display: block;
+			opacity: 0;
+			font-size: 17px;
+			line-height: 17px;
+			text-transform: uppercase;
+			position: absolute;
+			top:25px;
+			left: 60px;
+			font-family: Lato;
+			transition:opacity 0.3s linear;
+			padding: 5px 0px 5px 19px;
+		}
+		.mobile-menu__button-back:before {
+			content: "";
+			display: block;
+			width: 12px;
+			height: 21px;
+			position: absolute;
+			left: 0;
+			top: 3px;
+			transform: rotate(180deg);
+			-webkit-transform: rotate(180deg);
+			transform-origin: 50% 50%;
+			-webkit-transform-origin: 50% 50%;
+			background: url("https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/mobile_images/mobile-menu-arrow.png") no-repeat 0% 50%;
+		}
+		.mobile-menu__button-back.visible {
+			opacity: 1;
+		}
+		.mobile-menu__wrapper {
+			position: fixed;
+			overflow: overlay;
+			width: 100%;
+			height: 100vh;
+			top: 0;
+			left: 0;
+			background: rgba(0,0,0, 0.6);
+			display: block;
+			z-index: -1;
+			opacity: 0;
+		}
+		.mobile-menu__wrapper.visible {
+			opacity: 1;
+			z-index: 8;
+		}
+		#login-bar .menu-button__wrapper--mobile.visible {
+			transform: translate(535px, 0);
+			-webkit-transform: translate(535px, 0);
+			position: fixed;
+			top: 17px;
+		}
+		.mobile-menu__container a,
+		.mobile-menu__container a:visited {
+			color: #fff;
+		}
+		.mobile-menu__supports {
+			padding-top: 100px;
+		}
+		#login-bar .login-popup.open {
+			background-color: transparent;
+			position: static;
+			display: block;
+			border: none;
+		}
+		#userLoginForm.bu-form input#email,
+		#userLoginForm.bu-form input#password,
+		#userLoginForm.bu-form input[type="submit"] {
+			max-width: 502px;
+			width: 100%;
+			height: 99px;
+			border-radius: 6px;
+			border: 2px solid #9eabae;
+			font-size: 36px;
+			font-family: Lato, sans-serif;
+			text-transform: none;
+			font-weight: 400;
+			line-height: 99px;
+			float: none;
+			margin-bottom: 35px;
+			padding-left: 15px;
+			-webkit-appearance: none;
+		}
+		#logintooltip {
+			width: 502px;
+			margin: 0 auto;
+			margin-bottom: 7px;
+			font-size: 18px;
+		}
+		#userLoginForm.bu-form input[type="submit"] {
+			display: none;
+			background: #1eb60e;
+			height: 110px;
+			line-height: 110px;
+			font-size: 44px;
+			font-weight: 700;
+			font-family: Oswald, serif;
+			margin: 0 auto;
+			display: block !important;
+			text-transform: uppercase;
+			border: none;
+		}
+		.login-popup .bu-form {
+			width: 100% !important;
+			padding-top: 82px !important;
+			padding-bottom: 222px !important;
+			position: relative;
+		}
+		#userLoginForm.bu-form input#password {
+			margin-bottom: 41px;
+		}
+		#userLoginForm.bu-form input#email::-webkit-input-placeholder ,
+		#userLoginForm.bu-form input#password::-webkit-input-placeholder {
+			text-transform: initial;
+		}
+
+		#userLoginForm.bu-form input#password:-moz-placeholder,
+		#userLoginForm.bu-form input#email:-moz-placeholder {
+			text-transform: initial;
+		}
+		#userLoginForm.bu-form input#email::-moz-placeholder,
+		#userLoginForm.bu-form input#password::-moz-placeholder {
+			text-transform: initial;
+		}
+
+		#userLoginForm.bu-form input#email:-ms-input-placeholder,
+		#userLoginForm.bu-form input#password:-ms-input-placeholder {
+			text-transform: initial;
+		}
+		#login-links {
+			position: absolute;
+			bottom: 68px;
+			left: 50%;
+			float: none;
+			width: 100%;
+			-webkit-transform: translate(-50%, 0);
+			transform: translate(-50%, 0);
+		}
+		#login-links a {
+			color: #fff;
+			font-size: 36px;
+			line-height: 60px;
+			display: block !important;
+			text-align: center;
+		}
+		.login-popup .data-label {
+			font-size: 36px;
+			line-height: 60px;
+			color: #fff;
+			font-weight: 700;
+			font-family: Lato, serif;
+			margin-bottom: 0;
+		}
+		.login-popup .data-info {
+			font-family: Lato, serif;
+			color: #fff;
+			font-size: 36px;
+			line-height: 60px;
+			font-weight: 400;
+		}
+		#account-popup .bu-form {
+			padding-top: 57px !important;
+			padding-left: 0 !important;
+			padding-right: 0 !important;
+			padding-bottom: 175px !important;
+			max-width: 510px;
+		}
+		#account-popup.login-popup #top-part {
+			border-bottom: none;
+			margin-bottom: 0;
+			padding-bottom: 0;
+		}
+		.login-popup .logout-butt, .login-popup .deposit-butt {
+			float: none;
+		}
+		.my_account_button,
+		.deposit_button_mobile,
+		.login-popup .bu-form .butt.logout-butt,
+		.login-popup .bu-form .butt.gray-butt,
+		.login-popup .bu-form .butt.deposit-butt {
+			display: block;
+			width: 497px;
+			height: 110px;
+			line-height: 110px;
+			font-size: 44px;
+			font-family: Oswald, seirf;
+			color: #fff;
+			text-transform: uppercase;
+			font-weight: 700;
+			border-radius: 3px;
+		}
+
+		.login-popup .bu-form .my_account_button .butt.gray-butt,
+		.login-popup .bu-form .deposit_button_mobile .butt.deposit-butt{
+			background: #1eb60e;
+		}
+		.login-popup .bu-form .butt.logout-butt {
+			position: absolute;
+			top: auto;
+			bottom: 37px;
+			background: #6c797c;
+		}
+		.my_account_button {
+			position: absolute;
+			bottom: 172px;
+			display: none;
+		}
+		.deposit_button_mobile {
+			margin-top: 29px;
+		}
+		.user-logged-in #login-bar #items .login-item {
+			padding-left: 6px !important;
+			padding-right: 6px !important;
+			width: auto;
+		}
+		.popup-call-back .popup-inner{
+			width: 100% !important;
+			max-width: 364px;
+			margin-left: 0;
+			margin-top: 0!important;
+			top: auto;
+			-webkit-transform: translate(-50%, 0);
+			-moz-transform: translate(-50%, 0);
+			-ms-transform: translate(-50%, 0);
+			-o-transform: translate(-50%, 0);
+			transform: translate(-50%, 0);
+		}
+		.popup-call-back .popup-close {
+			width: 35px;
+			height: 35px;
+			padding-left: 6px;
+			top: 18px;
+			right: 18px;
+		}
+		.popup-call-back .popup-close:before {
+			font-size: 25px;
+			line-height: 35px;
+			font-family:Lato, serif;
+		}
+		#call-back-form {
+			padding-left: 6px!important;
+			padding-right: 6px!important;
+		}
+		#call-back-form h3 {
+			text-transform: uppercase;
+			font-family:Lato, serif;
+			font-size: 16px !important;
+			line-height: 25px !important;
+			font-weight: 400;
+			color: #333;
+			width: 100% !important;
+			margin-top: 46px;
+			word-break: break-all;
+			position: relative;
+			padding-right: 20px;
+			margin-bottom: 16px;
+		}
+		#call-back-form h3:after {
+			content: '-';
+			display: block;
+			position: absolute;
+			right: 20px;
+			top: 0;
+		}
+		#call-back-form.bu-form input,
+		#call-back-form.bu-form select,
+		#call-back-form.bu-form textarea {
+			display: block;
+			float: none;
+			width: 100%;
+			height: 55px;
+			line-height: 55px;
+			font-size: 18px;
+			font-family:Lato;
+			border-radius: 3px;
+		}
+		#call-back-form.bu-form label,
+		#call-back-form.bu-form .propName {
+			font-size: 20px;
+			font-family:Lato, serif;
+			font-weight: 400;
+			margin-bottom: 4px;
+		}
+		#call-back-form.bu-form fieldset {
+			margin-bottom: 0;
+		}
+		#call-back-form.bu-form #phone_num {
+			float: right;
+			width: 226px;
+			margin-top: 34px;
+		}
+		#call-back-form.bu-form #country_prefix {
+			float: left;
+			width: 88px;
+		}
+		.popup-call-back {
+			overflow: overlay;
+			padding-top: 118px;
+			padding-bottom: 50px;
+		}
+		#call-back-form.bu-form #choose_your_topick{
+			display: none;
+		}
+		#call-back-form.bu-form #message {
+			height: 280px;
+		}
+		#call-back-form.bu-form #callback-submit-butt {
+			width: 238px;
+			height: 61px;
+			background: #1eb60e;
+			border-radius: 2px;
+			line-height: 61px;
+			font-size: 24px;
+			text-transform: uppercase;
+			font-family:Oswald, serif;
+			font-weight: 700;
+			color: #fff;
+			margin: 31px auto 0;
+			-webkit-appearance: none;
+		}
+		#call-back-form .approved {
+			display: none;
+		}
+		#call-back-form .tooltip {
+			top: 76px!important;
+		}
+		#call-back-form.bu-form select {
+			-webkit-appearance: none;
+		}
+		#call-back-form.bu-form #lname-field,
+		#call-back-form.bu-form #country-field{
+			display: none;
+		}
+	}
+	/* HEADER < 992 START */
+
+	/* HEADER < 768 START */
+
+	@media (max-width: 767px) {
+		#call-back-form .tooltip {
+			top: 57px;
+		}
+
+		.fooer-mobile__text {
+			font-size: 11.5px;
+			line-height: 18px;
+		}
+		.fooer-mobile {
+			padding: 19px 34px;
+		}
+		.mobile-logo__wrapper {
+			padding: 8px;
+		}
+		.mobile-logo {
+			width: 164px;
+			height: 33px;
+		}
+		#login-bar {
+			/* height: 42px; */
+			padding: 10px 33px 8px;
+		}
+		#login-bar .menu-button__wrapper--mobile {
+			height: 21px;
+			width: 32px;
+			line-height: 18px;
+			margin-left: -10px;
+		}
+		#login-bar .menu-button--mobile, #login-bar .menu-button__wrapper--mobile:after, #login-bar .menu-button__wrapper--mobile:before {
+			width: 32px;
+			height: 5px;
+		}
+		#login-bar #items .login-item {
+			width: 78px;
+			height: 25px;
+			font-size: 16px;
+			line-height: 23px;
+			margin-right: 18px;
+		}
+		#login-bar .language-menu.item {
+			-webkit-background-size: 18px 10px !important;
+			background-size: 18px 10px !important;
+			padding-right: 22px !important;
+			background-position: 100% 50% !important;
+		}
+		.lang-flag {
+			width: 23px;
+			height: 23px;
+		}
+		#items {
+			margin-right: -10px;
+			margin-top: -1px;
+		}
+		#contact-sidebar-wrapper {
+			top: 344px;
+		}
+		#live-chat-icon, #call-back-icon {
+			height: 32px;
+			font-size: 20px;
+			line-height: 30px;
+		}
+		#live-chat-icon {
+			width: 75px;
+		}
+		#call-back-icon {
+			width: 124px;
+		}
+		.button-download-app-mobile {
+			-webkit-transform: rotate(90deg);
+			transform: rotate(90deg);
+			-webkit-transform-origin: 100% 0;
+			transform-origin: 100% 0;
+			right: -11px;
+			position: fixed;
+			top: 496px;
+			line-height: 30px;
+			height: 32px;
+			color: #fff;
+			font-size: 20px;
+			width: 150px;
+		}
+		#login-bar .language-menu.item:before {
+			width: 20px;
+			height: 20px;
+		}
+		#login-bar .item.language-menu.open {
+			-webkit-background-size: 18px 10px !important;
+			background-size: 18px 10px !important;
+			padding-right: 22px !important;
+			background-position: 100% 50% !important;
+		}
+		#lang-popup  .a-lang-es,
+		#lang-popup  .a-lang-ru,
+		#lang-popup  .a-lang-ar {
+			font-size: 12px !important;
+			line-height: 12px;
+		}
+		#lang-popup {
+			top: 27px;
+			right: 1px;
+		}
+		.mobile-menu__container {
+			width: 392px;
+			padding: 44px 33px 20px;
+		}
+		.mobile-menu__title {
+			font-size: 26px;
+			padding: 8px 0;
+		}
+		#login-bar .menu-button__wrapper--mobile.visible {
+			-webkit-transform: translate(294px, 0);
+			transform: translate(294px, 0);
+			top: 10px;
+		}
+		.mobile-menu__container {
+			transform: translate(-400px, 0);
+			-webkit-transform: translate(-400px, 0);
+		}
+		.mobile-menu__button-back {
+			left:36px;
+			top: 9px;
+		}
+		#userLoginForm.bu-form input#email,
+		#userLoginForm.bu-form input#password {
+			max-width: 278px;
+			height: 55px;
+			line-height: 55px;
+			border: 1px solid #9eabae;
+			font-size: 20px;
+			padding-left: 12px;
+			border-radius: 3px;
+			margin-bottom: 20px;
+		}
+		#logintooltip {
+			font-size: 14px;
+			width: 278px;
+		}
+		#userLoginForm.bu-form input#password {
+			margin-bottom: 21px;
+		}
+		.login-popup .bu-form {
+			padding-top: 45px !important;
+			padding-bottom: 122px !important;
+		}
+		#userLoginForm.bu-form input[type="submit"] {
+			height: 61px;
+			line-height: 61px;
+			font-size: 24px;
+			max-width: 278px;
+			border-radius: 3px;
+		}
+		#login-links a {
+			font-size: 20px;
+			line-height: 33px;
+		}
+		#login-links {
+			bottom: 37px;
+		}
+		#account-popup .bu-form {
+			padding-top: 32px !important;
+			padding-bottom: 95px !important;
+			max-width: 288px;
+		}
+		.login-popup .data-label {
+			font-size: 20px;
+			line-height: 33px;
+		}
+		.login-popup .data-info {
+			font-size: 20px;
+			line-height: 33px;
+		}
+		.my_account_button, .deposit_button_mobile,
+		.login-popup .bu-form .butt.logout-butt,
+		.login-popup .bu-form .butt.gray-butt,
+		.login-popup .bu-form .butt.deposit-butt {
+			width: 275px;
+			height: 61px;
+			line-height: 61px;
+			font-size: 24px;
+		}
+		.deposit_button_mobile {
+			margin-top: 12px;
+		}
+		.my_account_button {
+			bottom: 95px;
+		}
+		.login-popup .bu-form .butt.logout-butt {
+			bottom: 19px;
+		}
+		.popup-Thank.You .popup-inner {
+			width: 508px;
+			margin-left: 0;
+			margin-top: 0 !important;
+			-webkit-transform: translate(-50%, -50%);
+			-moz-transform: translate(-50%, -50%);
+			-ms-transform: translate(-50%, -50%);
+			-o-transform: translate(-50%, -50%);
+			transform: translate(-50%, -50%);
+			box-shadow: none;
+			border: 1px solid #c6c4c4;
+		}
+		.popup-Thank.You  .popup-ttl {
+			background: #fff;
+		}
+		.popup-Thank.You  .popup-content {
+			font-size: 26px;
+			line-height: 35px;
+			font-family: Lato, serif;
+			padding-left: 26px;
+			padding-right: 26px;
+		}
+		.popup-Thank.You img{
+			display: none;
+		}
+		.popup-Thank.You .popup-close {
+			width: 35px;
+			height: 35px;
+			line-height: 35px;
+			top: 13px;
+			right: 11px;
+		}
+		.popup-Thank.You .popup-close:before {
+			font-family: Lato, serif;
+			font-size: 25px;
+			line-height: 35px;
+			font-weight: 700;
+		}
+	}
+	/* HEADER < 768 END */
+
+	@media (max-width: 500px) {
+		.popup-Thank.You .popup-inner  {
+			width: 361px;
+		}
+		.popup-Thank.You  .popup-content {
+			font-size: 18px;
+			line-height: 25px;
+			padding-left: 17px;
+			padding-right: 17px;
+		}
+	}
+
+	/* HEADER < 425 START */
+	@media (max-width: 425px) {
+		.popup-Thank.You .popup-inner {
+			width: 272px;
+		}
+		.popup-Thank.You .popup-close {
+			width: 26px;
+			height: 26px;
+			line-height: 26px;
+			top: 10px;
+			right: 9px;
+		}
+		.popup-Thank.You .popup-close:before {
+			line-height: 26px;
+			font-size: 17px;
+		}
+		.fooer-mobile {
+			padding: 14px 24px;
+		}
+		.mobile-logo__wrapper {
+			padding: 6px;
+		}
+		.mobile-logo {
+			width: 123px;
+			height: 25px;
+		}
+		#login-bar {
+			/* height: 32px; */
+			padding: 7px 25px 6px;
+		}
+		#login-bar .menu-button__wrapper--mobile {
+			width: 24px;
+			height: 18px;
+			line-height: 15px;
+		}
+		#login-bar .menu-button--mobile, #login-bar .menu-button__wrapper--mobile:after, #login-bar .menu-button__wrapper--mobile:before {
+			width: 24px;
+			height: 4px;
+		}
+		#login-bar #items .login-item {
+			width: 58px;
+			height: 19px;
+			font-size: 12.5px;
+			line-height: 17px;
+			margin-right: 8px;
+			border: 1px solid #fff;
+			margin-top: 1px;
+		}
+		#login-bar .language-menu.item {
+			-webkit-background-size: 14px 8px !important;
+			background-size: 14px 8px !important;
+			background-position: 100% 50% !important;
+			line-height: 0;
+		}
+		.lang-flag {
+			width: 17px;
+			height: 20px;
+			padding-right: 0;
+		}
+		#contact-sidebar-wrapper {
+			top: 310px;
+		}
+		#live-chat-icon, #call-back-icon {
+			height: 24px;
+			line-height: 22px;
+			font-size: 15px;
+		}
+		#live-chat-icon {
+			width: 57px;
+		}
+		#call-back-icon {
+			width: 93px;
+		}
+		.button-download-app-mobile {
+			height: 24px;
+			line-height: 22px;
+			font-size: 15px;
+			width: 115px;
+			top: 428px;
+		}
+		.mobile-menu__container {
+			width: 296px;
+			padding: 32px 24px 20px;
+		}
+		.mobile-menu__title {
+			font-size: 20px;
+			padding: 4px 0;
+			border-bottom: 1px solid #94c0ed;
+			border-top: 1px solid #94c0ed;
+		}
+		#login-bar .menu-button__wrapper--mobile.visible {
+			transform: translate(224px, 0);
+			-webkit-transform: translate(224px, 0);
+			top: 7px;
+		}
+		.mobile-menu__button-back {
+			font-size: 12.5px;
+			line-height: 12.5px;
+			top: 7px;
+			left: 27px;
+			padding-left: 12px;
+		}
+		.mobile-menu__button-back:before{
+			width: 8px;
+			height: 15px;
+			-webkit-background-size: contain;
+			background-size: contain;
+		}
+		.mobile-menu__container .menu-item, .supports__item {
+			border-bottom: 1px solid #94c0ed;
+			font-size: 14px;
+			line-height: 14px;
+			-webkit-background-size: 8px 15px;
+			background-size: 8px 15px;
+			padding: 6px 0px 13px;
+		}
+		.supports__item:first-child {
+			border-top: 1px solid #94c0ed;
+		}
+		.mobile-menu.hidden {
+			transform: translate(-400px, 0);
+			-webkit-transform: translate(-400px, 0);
+		}
+		.mobile-menu__container .sub-menu.visible {
+			transform: translate(400px, 0);
+			-webkit-transform: translate(400px, 0);
+		}
+		.mobile-menu__container .sub-menu {
+			transform: translate(-400px, 0);
+			-webkit-transform: translate(-400px, 0);
+		}
+		.login-popup .bu-form {
+			padding-top: 34px !important;
+			padding-bottom: 93px !important;
+		}
+		#userLoginForm.bu-form input#email, #userLoginForm.bu-form input#password {
+			max-width: 209px;
+			height: 41px;
+			line-height: 41px;
+			margin-bottom: 15px;
+			font-size: 15px;
+			padding-left: 9px;
+			border-radius: 2.5px;
+		}
+		#logintooltip {
+			width: 213px;
+			font-size: 13px;
+		}
+		#userLoginForm.bu-form input#password {
+			margin-bottom: 15px;
+		}
+		#userLoginForm.bu-form input[type="submit"] {
+			max-width: 207px;
+			height: 46px;
+			line-height: 46px;
+			border-radius: 2px;
+			font-size: 18px;
+		}
+		#login-links a {
+			font-size: 15px;
+			line-height: 25px;
+		}
+		#login-links {
+			bottom: 29px;
+		}
+		.login-popup .data-label {
+			font-size: 15px;
+			line-height: 25px;
+		}
+		.login-popup .data-info {
+			font-size: 15px;
+			line-height: 25px;
+		}
+		#account-popup .bu-form {
+			padding-top: 23px !important;
+			padding-bottom: 78px !important;
+			max-width: 213px;
+		}
+		.my_account_button, .deposit_button_mobile,
+		.login-popup .bu-form .butt.logout-butt,
+		.login-popup .bu-form .butt.gray-butt,
+		.login-popup .bu-form .butt.deposit-butt {
+			width: 207px;
+			height: 46px;
+			line-height: 46px;
+			font-size: 18px;
+		}
+		.deposit_button_mobile {
+			margin-top: 7px;
+		}
+		.my_account_button {
+			bottom: 72px;
+		}
+		.popup-call-back .popup-inner {
+			max-width: 270px;
+		}
+		.popup-call-back .popup-close {
+			width: 26px;
+			height: 26px;
+			top: 17px;
+			right: 13px;
+		}
+		.popup-call-back .popup-close:before {
+			font-size: 17px;
+			line-height: 26px;
+		}
+		#call-back-form {
+			padding-left: 0 !important;
+			padding-right: 0 !important;
+		}
+		#call-back-form h3 {
+			font-size: 12.5px!important;
+			line-height: 18px!important;
+			margin-top: 32px;
+			margin-bottom: 0;
+			padding-right: 0;
+		}
+		#call-back-form.bu-form label, #call-back-form.bu-form .propName {
+			font-size: 15px;
+			margin-bottom: -1px;
+		}
+		#call-back-form.bu-form fieldset {
+			margin-top: 9px;
+			margin-bottom: -4px;
+		}
+		#call-back-form.bu-form input, #call-back-form.bu-form select, #call-back-form.bu-form textarea {
+			height: 41px;
+			line-height: 41px;
+			font-size: 14px;
+		}
+		#call-back-form.bu-form #phone_num {
+			width: 165px;
+			margin-top: 28px;
+		}
+		#call-back-form.bu-form #country_prefix {
+			width: 67px;
+		}
+		#call-back-form.bu-form #message {
+			height: 212px;
+		}
+		#call-back-form.bu-form #callback-submit-butt {
+			width: 179px;
+			line-height: 46px;
+			height: 46px;
+			font-size:18px;
+		}
+		#call-back-form h3:after {
+			right: -3px;
+		}
+	}
+	/* HEADER < 425 END */
+
+	/* ABOUT < 992 START */
+	@media (max-width: 992px) {
+		#site-head,
+		.alignright,
+		img.alignright,
+		#footer-menu,
+		#lower-footer,
+		#trusts-m
+		{
+			display: none;
+		}
+
+		.a-lang-it,
+		.a-lang-es{
+			display:none !important;
+		}
+
+		.bupage-about .alignleft,
+		.bupage-about img.alignleft {
+			width: 100%;
+			margin: 0;
+			float: none;
+		}
+		.bupage-about.page-content.clearfix,
+		.bupage-about.page-content .shadow-wrapper {
+			padding: 0;
+			margin: 0;
+			box-shadow: none;
+		}
+		.bupage-about .shadow-wrapper .content-title {
+			padding: 0;
+			color: #6c797c;
+			font-size: 66px;
+			line-height: 88px;
+			font-family: Oswald, serif;
+			text-align: center;
+			font-weight: 300;
+		}
+		.bupage-about {
+
+		}
+		.bupage-about.page-content.clearfix {
+			padding: 23px 53px;
+		}
+		.bupage-about.padding #general-page {
+			padding: 0;
+		}
+		.bupage-about #general-page p {
+			font-size: 33px;
+			line-height: 48px;
+			color: #333;
+			font-family: Lato, serif;
+		}
+		.bupage-about #general-page p:first-child {
+			margin-top: -5px;
+		}
+		.bupage-about .bu-box {
+			width: 100%;
+			background: #6c797c;
+			border:none;
+			padding: 46px 0;
+			font-size: 33px;
+			line-height: 48px;
+			color: #fff;
+			font-weight: 400;
+			font-family: Lato, serif;
+			position: relative;
+		}
+		.bupage-about .bu-box:before,
+		.bupage-about .bu-box:after {
+			content: "";
+			display: block;
+			background: #6c797c;
+			position: absolute;
+			top: 0;
+			width: 100px;
+			height: 100%;
+		}
+		.bupage-about .bu-box:before {
+			left: -100px;
+		}
+		.bupage-about .bu-box:after {
+			right: -100px;
+		}
+	}
+	/* ABOUT < 992 END */
+
+	/* ABOUT < 768 START */
+	@media (max-width: 768px) {
+		.bupage-about .shadow-wrapper .content-title {
+			font-size: 36px;
+			line-height: 49px;
+		}
+		.bupage-about.page-content.clearfix {
+			padding: 12px 28px;
+		}
+		.bupage-about #general-page p {
+			font-size: 18px;
+			line-height: 26px;
+		}
+		.bupage-about .bu-box {
+			font-size: 18px;
+			line-height: 26px;
+			padding: 29px 0;
+		}
+	}
+	/* ABOUT < 768 END */
+
+	/* ABOUT < 425 START */
+	@media (max-width: 425px) {
+		.bupage-about .shadow-wrapper .content-title {
+			font-size: 27px;
+			line-height: 37px;
+		}
+		.bupage-about.page-content.clearfix {
+			padding: 8px 15px;
+		}
+		.bupage-about #general-page p {
+			font-size: 14px;
+			line-height: 20px;
+		}
+		.bupage-about .bu-box {
+			font-size: 14px;
+			line-height: 20px;
+			padding: 20px 0;
+		}
+	}
+	/* ABOUT < 425 END */
+
+</style>
+<!-- mobile styles  end -->
+
+<!-- mobile menu start -->
+<div class="mobile-menu__wrapper">
+	<div class="mobile-menu__container">
+		<span class="mobile-menu__button-back">BACK</span>
+		<h2 class="mobile-menu__title">
+			main menu
+		</h2>
+
+		<div class="menu-mobile-menu-container"><ul id="menu-mobile-menu" class="mobile-menu"><li id="menu-item-3337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3337"><a href="https://www.binaryuno.com/">Home page</a></li>
+<li id="menu-item-3338" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3338"><a href="https://www.binaryuno.com/register/">Open account</a></li>
+<li id="menu-item-3339" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3339"><a href="https://www.binaryuno.com/trading/">Trading room</a></li>
+<li id="menu-item-3340" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3340"><a href="#">Help</a>
+<ul class="sub-menu">
+	<li id="menu-item-3341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3341"><a href="https://www.binaryuno.com/faq/">FAQ</a></li>
+</ul>
+</li>
+<li id="menu-item-3342" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3342"><a href="#">Company</a>
+<ul class="sub-menu">
+	<li id="menu-item-3343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3343"><a href="https://www.binaryuno.com/about/">About us</a></li>
+</ul>
+</li>
+<li id="menu-item-3344" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3344"><a href="#">Legal</a>
+<ul class="sub-menu">
+	<li id="menu-item-3345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3345"><a href="https://www.binaryuno.com/legal/payment-methods/">Payment Methods</a></li>
+</ul>
+</li>
+</ul></div>		<div class="mobile-menu__supports">
+			<ul>
+				<li class="supports__item">
+					<a href="" class="supports__link" onclick="return SnapEngage.startLink();">
+						Live Chat
+					</a>
+				</li>
+				<!--<li class="supports__item">
+					<a href="" class="supports__link call-back">
+						Click To Call
+					</a>
+				</li>-->
+				<li class="supports__item">
+					<a href="/contact/" class="supports__link">
+						Contact Us
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+<!-- mobile menu end -->
+
+<!-- mobile scrits  start -->
+<script type="text/javascript">
+	document.addEventListener("DOMContentLoaded", function(event) {
+
+		var window_width = document.querySelector('#site-wrapper').offsetWidth;
+
+		if (window_width < 992){
+
+			//mobile menu logic
+			var menuItems = document.querySelectorAll('.mobile-menu__container .menu-item-has-children ');
+			var buttonLogin = document.querySelector('#login-bar #items .login-item');
+			var buttonMenu = document.querySelector('.menu-button__wrapper--mobile');
+			var buttonBack = document.querySelector('.mobile-menu__button-back');
+			var container = document.querySelector('.mobile-menu__container');
+			var langButton = document.querySelector('.item.language-menu');
+			var wrapper = document.querySelector('.mobile-menu__wrapper');
+			var callbackButton = document.querySelector('.call-back');
+			var title = document.querySelector('.mobile-menu__title');
+			var mainMenu = document.querySelector('.mobile-menu');
+			var langPopup = document.querySelector('#lang-popup');
+			var loginBar = document.querySelector('#login-bar');
+			var bodyElement = document.querySelector('body');
+			var rootMenu = mainMenu;
+			var active = mainMenu;
+
+			var removeClass = function(e, c){
+				e.classList.remove(c);
+			};
+
+			var toggleClass = function(e, c){
+				e.classList.toggle(c);
+			};
+
+			var addClass = function(e, c) {
+				e.classList.add(c);
+			};
+
+			var toggleFixed = function(e){
+				e.style.position === 'fixed' ? e.style.position = 'static' : e.style.position = 'fixed';
+			};
+
+
+			buttonLogin.addEventListener('click', function(){
+				toggleClass(loginBar, 'login_opened');
+			});
+
+			buttonBack.addEventListener('click', function(){
+				setTimeout(function(){
+					removeClass(rootMenu, 'hidden');
+				}, 400);
+				removeClass(active, 'visible');
+				removeClass(this, 'visible');
+				title.innerHTML = "MAIN MENU";
+			});
+
+			buttonMenu.addEventListener('click', function(){
+				toggleClass(container, 'visible');
+				toggleClass(wrapper, 'visible');
+				removeClass(langButton, 'open');
+				toggleClass(this, 'visible');
+				langPopup.style.display = "none";
+				setTimeout(function(){
+					removeClass(rootMenu, 'hidden');
+				}, 400);
+				removeClass(active, 'visible');
+				removeClass(buttonBack, 'visible');
+				title.innerHTML = "MAIN MENU";
+				toggleFixed(bodyElement);
+			});
+
+			wrapper.addEventListener('click', function(e){
+				if (e.target == this) {
+					toggleClass(buttonMenu, 'visible');
+					toggleClass(container, 'visible');
+					toggleClass(wrapper, 'visible');
+					setTimeout(function(){
+						removeClass(rootMenu, 'hidden');
+					}, 400);
+					removeClass(active, 'visible');
+					removeClass(buttonBack, 'visible');
+					title.innerHTML = "MAIN MENU";
+					toggleFixed(bodyElement);
+				}
+			});
+
+			callbackButton.addEventListener('click', function(e){
+				if (e.target == this) {
+					toggleClass(buttonMenu, 'visible');
+					toggleClass(container, 'visible');
+					toggleClass(wrapper, 'visible');
+					setTimeout(function(){
+						removeClass(rootMenu, 'hidden');
+					}, 400);
+					removeClass(active, 'visible');
+					removeClass(buttonBack, 'visible');
+					title.innerHTML = "MAIN MENU";
+					toggleFixed(bodyElement);
+				}
+			});
+
+			for(var i = 0; i < menuItems.length; i++) {
+				//var subMenu = menuItems[i].querySelector('.sub-menu')
+				menuItems[i].addEventListener('click', function(){
+					addClass(this.querySelector('.sub-menu'), 'visible');
+					addClass(buttonBack, 'visible');
+					addClass(mainMenu, 'hidden');
+					//this.querySelector('.sub-menu').classList.add('visible');
+
+					title.innerHTML = this.innerHTML;
+					active = this.querySelector('.sub-menu');
+				});
+			}
+
+			//main page scroll button "download app"
+			document.querySelector('.button-download-app-mobile').addEventListener('click', function(e){
+				$("html, body").animate({ scrollTop: $("#download_app").offset().top });
+				return true;
+			});
+			$('.a-lang-ru').attr('href', 'http://m.binaryuno.com/ru/');
+			$('.a-lang-ar').attr('href', 'http://m.binaryuno.com/ar/');
+			//click to call popup
+
+
+		}
+
+	});
+</script>
+
+<!-- mobile scrits  start --><!-- mobile header end -->
+
+<!-- mobile payment methods start -->
+<style type="text/css">
+	@media (max-width: 992px) {
+		.bupage-payment-methods.clearfix {
+			padding-top: 0;
+		}
+		.bupage-payment-methods .alignleft:not(img)  {
+			float: none;
+			width: 100%;
+			margin: 0;
+		}
+		.bupage-payment-methods .shadow-wrapper {
+			margin: 0;
+			box-shadow: none;
+		}
+		.mobile_payment-methods {
+			display: block !important;
+			margin: 52px auto 0;
+		}
+		.bupage-payment-methods img.alignleft {
+			display: none;
+		}
+		.bupage-payment-methods .content-title {
+			font-family: Oswald, serif;
+			font-weight: 300;
+			font-size: 66px;
+			line-height: 88px;
+			text-align: center;
+			text-transform: none;
+			color: #6c797c;
+			padding: 0;
+			margin-top: 20px;
+		}
+		.general-page.padding.bupage-payment-methods #general-page {
+			padding: 30px 46px 0;
+		}
+		.bupage-payment-methods #general-page  p {
+			color: #333;
+			font-size: 33px;
+			line-height: 48px;
+			font-family: Lato, serif;
+			font-weight: 400 !important;
+			border-bottom: 2px solid #6c797c;
+			padding-bottom: 71px;
+		}
+		/* .general-page.padding.bupage-payment-methods #general-page p:first-child:after {
+			content: "";
+			display: block;
+			width: 100%;
+			height: 2px;
+			background: #6c797c;
+			margin-top: 71px;
+		} */
+		.bupage-payment-methods #general-page  p:nth-child(6) {
+			border-bottom: none;
+			padding-bottom: 0;
+		}
+		.bupage-payment-methods #general-page  p:nth-child(6) img {
+			margin-top: 22px;
+		}
+		.bupage-payment-methods #general-page  p:nth-child(7) {
+			margin-top: 40px;
+			float: none !important;
+			width: 100% !important;
+		}
+		.bupage-payment-methods #general-page h4:nth-child(5) {
+			text-transform: uppercase;
+			margin-top: 79px;
+		}
+		.bupage-payment-methods #general-page h4:nth-child(9) {
+			text-transform: uppercase;
+		}
+		.bupage-payment-methods #general-page  p:nth-child(10)  {
+			border-bottom: none;
+			padding-bottom: 12px;
+		}
+		.bupage-payment-methods #general-page  p:nth-child(10) img{
+			margin-top: 14px;
+			margin-bottom: -26px;
+		}
+		.bupage-payment-methods #general-page  div:last-child {
+			display: none;
+		}
+		.bupage-payment-methods #general-page h4 {
+			color: #6c797c;
+			font-size: 36px;
+			line-height: 48px;
+			font-family: Oswald, serif;
+			font-weight: 400;
+			text-transform: none;
+			text-align: center;
+			margin-top: 87px;
+		}
+		.bupage-payment-methods .clear hr {
+			display: none;
+		}
+	}
+	@media (max-width: 768px) {
+		.bupage-payment-methods .content-title {
+			font-size: 36px;
+			line-height: 49px;
+			margin-top: 12px;
+		}
+		.bupage-payment-methods #general-page  p {
+			font-size: 18px;
+			line-height: 26px;
+			padding-bottom: 40px;
+			border-bottom: 1px solid #6c797c;
+		}
+		.general-page.padding.bupage-payment-methods #general-page {
+			padding: 19px 22px 0;
+		}
+		.bupage-payment-methods #general-page h4 {
+			font-size: 20px;
+			line-height: 26px;
+			margin-top: 48px;
+		}
+		.bupage-payment-methods #general-page  p:nth-child(3) img  {
+			width: 309px;
+		}
+		.bupage-payment-methods #general-page  p:nth-child(6) img {
+			width: 111px;
+		}
+		.mobile_payment-methods {
+			margin: 30px auto 0;
+		}
+		.bupage-payment-methods #general-page h4:nth-child(5) {
+			margin-top: 47px;
+		}
+		.bupage-payment-methods #general-page  p:nth-child(7) {
+			margin-top: -9px;
+		}
+		.bupage-payment-methods #general-page  p:nth-child(10) img {
+			width: 84px;
+			margin-top: -8px;
+			margin-bottom: -13px;
+		}
+	}
+	@media (max-width: 425px) {
+		.bupage-payment-methods .content-title {
+			font-size: 27px;
+			line-height: 37px;
+			margin-top: 7px;
+		}
+		.general-page.padding.bupage-payment-methods #general-page {
+			padding: 15px 13px 0;
+		}
+		.bupage-payment-methods #general-page  p {
+			font-size: 14px;
+			line-height: 20px;
+			padding-bottom: 30px;
+		}
+		.bupage-payment-methods #general-page h4 {
+			font-size: 15px;
+			line-height: 20px;
+			margin-top: 36px;
+		}
+		.bupage-payment-methods #general-page  p:nth-child(3) img {
+			width: 233px;
+		}
+		.bupage-payment-methods #general-page  p:nth-child(6) img {
+			width: 84px;
+		}
+		.bupage-payment-methods #general-page  p:nth-child(10) img {
+			width: 63px;
+		}
+		.mobile_payment-methods {
+			margin: 22px auto 0px;
+		}
+		.bupage-payment-methods #general-page h4:nth-child(5) {
+			margin-top: 32px;
+		}
+		.bupage-payment-methods #general-page  p:nth-child(6) img {
+			margin-top: -5px;
+		}
+		.bupage-payment-methods #general-page  p:nth-child(10) {
+			padding-bottom: 12px;
+			margin-bottom: 0;
+		}
+	}
+</style>
+<!-- mobile payment methods end -->
+
 
 	<div id="site-wrapper">
 		<div id="loader">
@@ -136,11 +1842,16 @@ var fontsinactive = false;
 		      
 <div id="login-bar">
     <div class="inner-wrapper">
+        <!-- mobile start -->
+        <div class="menu-button__wrapper--mobile">
+            <span class="menu-button--mobile"></span>
+        </div>
+        <!-- mobile end -->
                 <div id="items">
             <span class="item login-item">Login</span>
             <span class="item support-item" onclick="return SnapEngage.startLink();">Support Chat</span>
             <span class="item language-menu last">
-                <img class="lang-flag" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/flags/us.png">English            </span>
+                <img class="lang-flag" src="https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/flags/us.png">English            </span>
         </div>
         <div class="clear"></div>
         <div id="lang-popup" style="display:none;">    
@@ -151,13 +1862,13 @@ var fontsinactive = false;
                 <form id="userLoginForm" class="loginForm bu-form placeholder-form" method="post" action="https://spotplatform.binaryuno.com/login/login/1">
                     <div id="logintooltip"><div class="arrow-right"></div>
                         Incorrect Username or Password                    </div>
-                    <input type="hidden" name="extRedir" value="http://www.binaryuno.com/legal/privacy-policy/">
+                    <input type="hidden" name="extRedir" value="https://www.binaryuno.com/legal/privacy-policy/">
                     <input type="text" id="email" name="email" placeholder="Email">
                     <input type="password" id="password" name="password" placeholder="Password">
                     <div class="clear" style="height:4px;"></div>
                     <div id="login-links">
-                        <a id="forgot-pw-link" href="http://www.binaryuno.com/forgot-password/">Forgot Password?</a>
-                        <a id="new-acc-link" href="http://www.binaryuno.com/register/">New member? Sign up</a>
+                        <a id="forgot-pw-link" href="https://www.binaryuno.com/forgot-password/">Forgot Password?</a>
+                        <a id="new-acc-link" href="https://www.binaryuno.com/register/">New member?<span>Sign up</span></a>
                     </div>
                     <input type="submit" id="submit" class="submit butt blu-butt" value="Login">
                     <div class="clear"></div>
@@ -169,28 +1880,28 @@ var fontsinactive = false;
 
 		<div id="contact-sidebar-wrapper">
 	<a id="live-chat-icon" href="#" onclick="return SnapEngage.startLink();">
-		<img src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/sidebar/live-chat-icon-en.png" alt="contact icon">    
+		<img src="https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/sidebar/live-chat-icon-en.png" alt="contact icon">    
 	</a>    
 
 	<a id="call-back-icon" class="call-back" href="#"> 
-		<img src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/sidebar/call-back-icon-en.png" alt="contact icon">    
+		<img src="https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/sidebar/call-back-icon-en.png" alt="contact icon">    
 	</a>    
 
-	<a id="contact-icon" href="http://www.binaryuno.com/contact/">
-		<img src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/sidebar/contact-icon-en.png" alt="contact icon">
+	<a id="contact-icon" href="https://www.binaryuno.com/contact/">
+		<img src="https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/sidebar/contact-icon-en.png" alt="contact icon">
 	</a>
 </div>		<div id="site-head">
 			<div id="logo-area">
 			 <div class="inner-wrapper">
 
-			 					  			 		<a href="http://www.binaryuno.com"><img id="logo" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/logos/logo-213x52.png" alt="BinaryUno"></a>
+			 					  			 		<a href="https://www.binaryuno.com"><img id="logo" src="https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/logos/logo-213x52.png" alt="BinaryUno"></a>
 		  			 	
 		  			 
 		
 
 				<div id="site-time">
 					<span id="calendar">
-                    Monday, 22-02-16                    </span><span id="clock" class="blue">03:06:39 GMT</span>
+                    Thursday, 08-12-16                    </span><span id="clock" class="blue">03:48:40 GMT</span>
 				</div>
 				<div class="clear" style="height:1px;"></div>
 			</div>
@@ -199,44 +1910,59 @@ var fontsinactive = false;
 		<div id="main-menu">
 				<div class="inner-wrapper">
 					<div id="top-menu-wrapper">
-						<div class="menu-top-menu-container"><ul id="menu-top-menu" class="navbar"><li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://www.binaryuno.com/register/">Open Account</a></li>
-<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="http://www.binaryuno.com/trading/">Trade Now</a></li>
-<li id="menu-item-681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-681"><a href="http://www.binaryuno.com/education/">Education</a>
+						<div class="menu-top-menu-container"><ul id="menu-top-menu" class="navbar"><li id="menu-item-2837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2837"><a href="https://www.binaryuno.com/register/">Open Account</a></li>
+<li id="menu-item-2838" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2838"><a href="https://www.binaryuno.com/trading/">Trade now</a></li>
+<li id="menu-item-2839" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2839"><a href="https://www.binaryuno.com/education/">Education</a>
 <ul class="sub-menu">
-	<li id="menu-item-988" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-988"><a href="/education/">Binary V.O.D</a></li>
-	<li id="menu-item-989" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-989"><a href="/education/?active_tab=eco">Economics</a></li>
-	<li id="menu-item-990" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-990"><a href="/education/?active_tab=vos">Platform Tutorial</a></li>
-	<li id="menu-item-991" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-991"><a href="/education/?active_tab=bin">In-Depth Course</a></li>
-	<li id="menu-item-992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-992"><a href="/education/?active_tab=stgbin">Binary Strategies</a></li>
-	<li id="menu-item-993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-993"><a href="/education/?active_tab=abin">Advanced Course</a></li>
-	<li id="menu-item-994" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-994"><a href="/education/?active_tab=bbktab">Binary E-Book</a></li>
-	<li id="menu-item-1537" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1537"><a href="http://www.binaryuno.com/library/">Library</a></li>
+	<li id="menu-item-2840" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2840"><a href="/education/">Binary V.O.D</a></li>
+	<li id="menu-item-2841" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2841"><a href="/education/?active_tab=eco">Economics</a></li>
+	<li id="menu-item-2842" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2842"><a href="/education/?active_tab=vos">Platform Tutorial</a></li>
+	<li id="menu-item-2843" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2843"><a href="/education/?active_tab=bin">In-Depth Course</a></li>
+	<li id="menu-item-2844" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2844"><a href="/education/?active_tab=stgbin">Binary Strategies</a></li>
+	<li id="menu-item-2845" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2845"><a href="/education/?active_tab=abin">Advanced Course</a></li>
+	<li id="menu-item-2846" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2846"><a href="/education/?active_tab=bbktab">Binary E-Book</a></li>
+	<li id="menu-item-2847" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2847"><a href="https://www.binaryuno.com/library/">Library</a></li>
 </ul>
 </li>
-<li id="menu-item-851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-851"><a href="http://www.binaryuno.com/trading-tools/">Trading Tools</a>
+<li id="menu-item-2848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2848"><a href="https://www.binaryuno.com/trading-tools/">Trading Tools</a>
 <ul class="sub-menu">
-	<li id="menu-item-995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-995"><a href="/trading-tools/">Economic Calendar</a></li>
-	<li id="menu-item-996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-996"><a href="/trading-tools/?active_tab=pivCal">Pivot Calculator</a></li>
-	<li id="menu-item-997" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-997"><a href="/trading-tools/?active_tab=fibCal">Fibonacci Calculator</a></li>
+	<li id="menu-item-2849" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2849"><a href="/trading-tools/">Economic Calendar</a></li>
+	<li id="menu-item-2850" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2850"><a href="/trading-tools/?active_tab=pivCal">Pivot Calculator</a></li>
+	<li id="menu-item-2851" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2851"><a href="/trading-tools/?active_tab=fibCal">Fibonacci Calculator</a></li>
 </ul>
 </li>
-<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-32"><a href="http://www.binaryuno.com/faq/">Help</a>
+<li id="menu-item-2852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2852"><a href="https://www.binaryuno.com/faq/">Help</a>
 <ul class="sub-menu">
-	<li id="menu-item-998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-998"><a href="http://www.binaryuno.com/faq/">FAQ</a></li>
+	<li id="menu-item-2853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2853"><a href="https://www.binaryuno.com/faq/">FAQ</a></li>
 </ul>
 </li>
-<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.binaryuno.com/about/">About Us</a></li>
-<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://www.binaryuno.com/contact/">Contact Us</a></li>
+<li id="menu-item-2854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2854"><a href="https://www.binaryuno.com/about/">Company</a>
+<ul class="sub-menu">
+	<li id="menu-item-2855" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2855"><a href="https://www.binaryuno.com/about/">About us</a></li>
+</ul>
+</li>
+<li id="menu-item-2856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2856"><a href="https://www.binaryuno.com/contact/">Contact Us</a></li>
 </ul></div>			            
 	            	</div>
 
-	            		            		<div class="headbutton openacc"><a href="http://www.binaryuno.com/register/">Open Free Account</a></div>
+	            		            		<div class="headbutton openacc"><a href="https://www.binaryuno.com/register/">Open Free Account</a></div>
 	            	 
 
 	            	<div class="clear"></div>
 			</div>
 		</div>
 		</div> <!-- Site Head -->
+		
+<!-- mobile start -->
+<a href="/#download_app" class="button-download-app-mobile">
+	Download APP
+</a>
+<div class="mobile-logo__wrapper">
+	<a href="/" class="mobile-logo__link">
+		<img src="https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/mobile_images/mobile_logo.svg" alt="BinaryUno logo" class="mobile-logo">
+	</a>
+</div>
+<!-- mobile end -->
 
 	
 		
@@ -295,74 +2021,74 @@ var fontsinactive = false;
 
 									<div class="alignright right-side" style="margin-left:0;">
 						<form id="top5form" method="POST" action="/trading">
-<input type="hidden" name="activeTab" value="spotFollow">
-<button style="border: none;background: none;cursor: pointer; outline:none;">
-<img style="padding-top:8px;padding-bottom: 8px;" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/top5traders.png">
-</button>
+	<input type="hidden" name="activeTab" value="spotFollow">
+	<button style="border: none;background: none;cursor: pointer; outline:none;">
+					<img style="padding-top:8px;padding-bottom:8px;" src="https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/top5traders.png">
+			</button>
 </form>
 <!-- using cached data --><div id="top5" style="cursor:pointer">
   	<div class="top-trade">
 		<div class="top-area">
-      			<img class="top5-flag" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/flags/be.png">
-			<span class="top5-name">A. G.</span>
+      			<img class="top5-flag" src="https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/flags/ch.png">
+			<span class="top5-name">G. M.</span>
 		</div>
 		<div class="bottom-area">
 			<span style="float:left">#1 rank</span>
-			<span style="float:right">Followers: 255</span>
+			<span style="float:right">Followers: 822</span>
 			<div class="clear"></div>
-			<div style="float:left;">Trader Win Amount: <span class="top5-return">$85,683.86</span></div>
+			<div style="float:left; width: 100%; text-align: left;">Trader Win Amount: <span class="top5-return">$623,980.88</span></div>
       <div class="clear"></div>
 		</div>
 	</div>
   	<div class="top-trade">
 		<div class="top-area">
-      			<img class="top5-flag" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/flags/ru.png">
-			<span class="top5-name">с. я.</span>
+      			<img class="top5-flag" src="https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/flags/au.png">
+			<span class="top5-name">D. R.</span>
 		</div>
 		<div class="bottom-area">
 			<span style="float:left">#2 rank</span>
-			<span style="float:right">Followers: 162</span>
+			<span style="float:right">Followers: 1753</span>
 			<div class="clear"></div>
-			<div style="float:left;">Trader Win Amount: <span class="top5-return">$3,862.70</span></div>
+			<div style="float:left; width: 100%; text-align: left;">Trader Win Amount: <span class="top5-return">$402,750.00</span></div>
       <div class="clear"></div>
 		</div>
 	</div>
   	<div class="top-trade">
 		<div class="top-area">
-      			<img class="top5-flag" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/flags/mt.png">
-			<span class="top5-name">d. g.</span>
+      			<img class="top5-flag" src="https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/flags/sg.png">
+			<span class="top5-name">F. S.</span>
 		</div>
 		<div class="bottom-area">
 			<span style="float:left">#3 rank</span>
-			<span style="float:right">Followers: 26</span>
+			<span style="float:right">Followers: 2496</span>
 			<div class="clear"></div>
-			<div style="float:left;">Trader Win Amount: <span class="top5-return">$14,943.00</span></div>
+			<div style="float:left; width: 100%; text-align: left;">Trader Win Amount: <span class="top5-return">$927,689.81</span></div>
       <div class="clear"></div>
 		</div>
 	</div>
   	<div class="top-trade">
 		<div class="top-area">
-      			<img class="top5-flag" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/flags/lv.png">
-			<span class="top5-name">J. B.</span>
+      			<img class="top5-flag" src="https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/flags/lt.png">
+			<span class="top5-name">Z. L.</span>
 		</div>
 		<div class="bottom-area">
 			<span style="float:left">#4 rank</span>
-			<span style="float:right">Followers: 63</span>
+			<span style="float:right">Followers: 58</span>
 			<div class="clear"></div>
-			<div style="float:left;">Trader Win Amount: <span class="top5-return">$35,138.97</span></div>
+			<div style="float:left; width: 100%; text-align: left;">Trader Win Amount: <span class="top5-return">$14,062.48</span></div>
       <div class="clear"></div>
 		</div>
 	</div>
   	<div class="top-trade">
 		<div class="top-area">
-      			<img class="top5-flag" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/flags/au.png">
-			<span class="top5-name">E. L.</span>
+      			<img class="top5-flag" src="https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/flags/cz.png">
+			<span class="top5-name">V. K.</span>
 		</div>
 		<div class="bottom-area">
 			<span style="float:left">#5 rank</span>
-			<span style="float:right">Followers: 21</span>
+			<span style="float:right">Followers: 354</span>
 			<div class="clear"></div>
-			<div style="float:left;">Trader Win Amount: <span class="top5-return">$10,543.78</span></div>
+			<div style="float:left; width: 100%; text-align: left;">Trader Win Amount: <span class="top5-return">$38,496.96</span></div>
       <div class="clear"></div>
 		</div>
 	</div>
@@ -371,17 +2097,17 @@ var fontsinactive = false;
 <div id="side-edu">
 	<div class="content-title">Education</div>
 
-	<a href="http://www.binaryuno.com/education/">
+	<a href="https://www.binaryuno.com/education/">
 		<div class="side-box">
-			<img class="side-icon" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/sidebar/side-acd-ico.png">	
+			<img class="side-icon" src="https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/sidebar/side-acd-ico.png">	
 			<div class="side-ttl">Interactive Academy</div>
 			<div class="side-more blu-butt">Learn More</div>
 		</div>
 	</a>
 
-	<a href="http://www.binaryuno.com/education/">
+	<a href="https://www.binaryuno.com/education/">
 		<div class="side-box">
-			<img class="side-icon" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/sidebar/side-webnr-ico.png">	
+			<img class="side-icon" src="https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/sidebar/side-webnr-ico.png">	
 			<div class="side-ttl">Free Webinars</div>
 			<div class="side-more blu-butt">Learn More</div>
 		</div>
@@ -398,44 +2124,44 @@ var fontsinactive = false;
 
 <div class="inner-wrapper">
     <div id="trusts-m">
-         
-       <div id="trust-marquee" style="width:100%;padding-top:2px;" behavior="scroll" scrollamount="1" direction="left" width="100%">
-            <img src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/footer-seal-icons/large-footer-trusts_color.png">
-        </div> 
-            <!--  <img src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/whitespaceseals.png" /> -->
+     <!-- Countryww: United States -->    
+        <div id="trust-marquee" style="width:100%;padding-top:2px;" behavior="scroll" scrollamount="1" direction="left" width="100%">
+                       <img src="https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/footer-seal-icons/large-footer-trusts_color.png">
+                    </div> 
+            <!--  <img src="https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/whitespaceseals.png" /> -->
     </div>
 </div>
 <div id="footer-menu">
     <div class="inner-wrapper">
-        <div id="footer-nav"><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="http://www.binaryuno.com/register/">Open Account</a></li>
-<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="http://www.binaryuno.com/trading/">Trade Now</a></li>
-<li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684"><a href="http://www.binaryuno.com/education/">Education</a></li>
-<li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a href="http://www.binaryuno.com/faq/">Help</a></li>
-<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="http://www.binaryuno.com/about/">About Us</a></li>
-<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="http://www.binaryuno.com/contact/">Contact Us</a></li>
+        <div id="footer-nav"><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="https://www.binaryuno.com/register/">Open Account</a></li>
+<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="https://www.binaryuno.com/trading/">Trade Now</a></li>
+<li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684"><a href="https://www.binaryuno.com/education/">Education</a></li>
+<li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a href="https://www.binaryuno.com/faq/">Help</a></li>
+<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="https://www.binaryuno.com/about/">About Us</a></li>
+<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="https://www.binaryuno.com/contact/">Contact Us</a></li>
 </ul></div></div>
         <div id="social">
-            <ul class="wpsocialite social-buttons small"><li><a href="http://www.facebook.com/sharer.php?u=http://www.binaryuno.com/legal/privacy-policy/&amp;locale=en_US&amp;t=Privacy Policy" class="socialite facebook-like" data-lang="en_US" data-href="http://www.binaryuno.com/legal/privacy-policy/" data-send="false" data-layout="button_count" data-width="60" data-show-faces="false" rel="nofollow" target="_blank"><span class="vhidden">Share on Facebook.</span></a></li><li><a href="http://twitter.com/share" class="socialite twitter-share" data-text="Privacy Policy" data-url="http://www.binaryuno.com/legal/privacy-policy/" data-count="horizontal" data-lang="en_US" data-via="" rel="nofollow" target="_blank"><span class="vhidden">Share on Twitter.</span></a></li><li><a href="https://plus.google.com/share?url=http://www.binaryuno.com/legal/privacy-policy/" class="socialite googleplus-one" data-size="medium" data-href="http://www.binaryuno.com/legal/privacy-policy/" rel="nofollow" target="_blank"><span class="vhidden">Share on Google+</span></a></li><li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.binaryuno.com/legal/privacy-policy/&amp;title=Privacy Policy" class="socialite linkedin-share" data-url="http://www.binaryuno.com/legal/privacy-policy/" data-counter="right" rel="nofollow" target="_blank"><span class="vhidden">Share on LinkedIn</span></a></li></ul>        </div>
+            <ul class="wpsocialite social-buttons small"><li><a href="http://www.facebook.com/sharer.php?u=https://www.binaryuno.com/legal/privacy-policy/&amp;locale=en_US&amp;t=Privacy Policy" class="socialite facebook-like" data-lang="en_US" data-href="https://www.binaryuno.com/legal/privacy-policy/" data-send="false" data-layout="button_count" data-width="60" data-show-faces="false" rel="nofollow" target="_blank"><span class="vhidden">Share on Facebook.</span></a></li><li><a href="http://twitter.com/share" class="socialite twitter-share" data-text="Privacy Policy" data-url="https://www.binaryuno.com/legal/privacy-policy/" data-count="horizontal" data-lang="en_US" data-via="" rel="nofollow" target="_blank"><span class="vhidden">Share on Twitter.</span></a></li><li><a href="https://plus.google.com/share?url=https://www.binaryuno.com/legal/privacy-policy/" class="socialite googleplus-one" data-size="medium" data-href="https://www.binaryuno.com/legal/privacy-policy/" rel="nofollow" target="_blank"><span class="vhidden">Share on Google+</span></a></li><li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.binaryuno.com/legal/privacy-policy/&amp;title=Privacy Policy" class="socialite linkedin-share" data-url="https://www.binaryuno.com/legal/privacy-policy/" data-counter="right" rel="nofollow" target="_blank"><span class="vhidden">Share on LinkedIn</span></a></li></ul>        </div>
         <div style="clear:both;height:1px;"></div>
     </div>
 </div>
 <div id="lower-footer">
     <div class="inner-wrapper">
-        <div class="lower-footer-menu lower-left lowerfooter1"><div class="menu-name">Company</div><div id="lower-footer" class="lowerfooter1-container"><div class="menu-company-container"><ul id="menu-company" class="menu"><li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="http://www.binaryuno.com/about/">About Us</a></li>
-<li id="menu-item-306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-306"><a href="http://www.binaryuno.com/faq/">FAQ</a></li>
+        <div class="lower-footer-menu lower-left lowerfooter1"><div class="menu-name">Company</div><div id="lower-footer" class="lowerfooter1-container"><div class="menu-company-container"><ul id="menu-company" class="menu"><li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="https://www.binaryuno.com/about/">About Us</a></li>
+<li id="menu-item-306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-306"><a href="https://www.binaryuno.com/faq/">FAQ</a></li>
 <li id="menu-item-551" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-551"><a target="_blank" href="https://www.facebook.com/pages/Binary-Uno/932866606728082">Facebook</a></li>
-<li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="http://www.binaryuno.com/contact/">Contact Us</a></li>
-</ul></div></div></div><div class="sep"></div><div class="lower-footer-menu lower-left lowerfooter2"><div class="menu-name">Legal</div><div id="lower-footer" class="lowerfooter2-container"><div class="menu-legal-container"><ul id="menu-legal" class="menu"><li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-307"><a href="http://www.binaryuno.com/legal/terms-conditions/">Terms &amp; Conditions</a></li>
+<li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="https://www.binaryuno.com/contact/">Contact Us</a></li>
+</ul></div></div></div><div class="sep"></div><div class="lower-footer-menu lower-left lowerfooter2"><div class="menu-name">Legal</div><div id="lower-footer" class="lowerfooter2-container"><div class="menu-legal-container"><ul id="menu-legal" class="menu"><li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-307"><a href="https://www.binaryuno.com/legal/terms-conditions/">Terms &amp; Conditions</a></li>
 <li id="menu-item-661" class="upload-info menu-item menu-item-type-custom menu-item-object-custom menu-item-661"><a href="#">Compliance Documents</a></li>
-<li id="menu-item-309" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-255 current_page_item menu-item-309"><a href="http://www.binaryuno.com/legal/privacy-policy/">Privacy Policy</a></li>
-<li id="menu-item-308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-308"><a href="http://www.binaryuno.com/legal/aml-policy-kyc/">AML Policy &amp; KYC</a></li>
-<li id="menu-item-311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-311"><a href="http://www.binaryuno.com/legal/disclaimer/">Disclaimer</a></li>
-<li id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-310"><a href="http://www.binaryuno.com/legal/expiry-rates-rules/">Expiry Rates Rules</a></li>
-<li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-333"><a href="http://www.binaryuno.com/legal/withdrawal-policy/">Withdrawal Policy</a></li>
-<li id="menu-item-312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-312"><a href="http://www.binaryuno.com/legal/payment-methods/">Payment Methods</a></li>
+<li id="menu-item-309" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-255 current_page_item menu-item-309"><a href="https://www.binaryuno.com/legal/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-308"><a href="https://www.binaryuno.com/legal/aml-policy-kyc/">AML Policy &amp; KYC</a></li>
+<li id="menu-item-311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-311"><a href="https://www.binaryuno.com/legal/disclaimer/">Disclaimer</a></li>
+<li id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-310"><a href="https://www.binaryuno.com/legal/expiry-rates-rules/">Expiry Rates Rules</a></li>
+<li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-333"><a href="https://www.binaryuno.com/legal/withdrawal-policy/">Withdrawal Policy</a></li>
+<li id="menu-item-312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-312"><a href="https://www.binaryuno.com/legal/payment-methods/">Payment Methods</a></li>
 </ul></div><div id="legal-menu-2"><ul id="menu-legal-2"></ul></div></div></div><div class="sep"></div>        <div class="lower-footer-menu lower-left">
             <div class="menu-name">Contact Us</div>
-            <img src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/contact/binaryOne_contactUs_footer2.png">
+            <img src="https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/contact/binaryOne_contactUs_footer2.png">
 <!--<ul>
 <li>Company Title</li>
 <li>Company Address</li>
@@ -444,58 +2170,69 @@ var fontsinactive = false;
 </div>
 <div id="footer-buttons">
     <div class="butt green-submit opCBtn">
-        <a href="http://www.binaryuno.com/trading/">
+        <a href="https://www.binaryuno.com/trading/">
             Start Trading        </a>
     </div>
     <div class="butt blue-submit opCBtn" onclick="return SnapEngage.startLink();">
         <a href="#">Live Chat        </a>
     </div>
-    <div class="butt grey-submit opCBtn"><a href="http://www.binaryuno.com/account/?active_tab=documents">
+    <div class="butt grey-submit opCBtn"><a href="https://www.binaryuno.com/account/?active_tab=documents">
         Upload Documents    </a>
 </div>
 </div>
 <div class="clear"></div>
 <div id="disclaimer">
     <div id="dsclmr">
-        <!-- Geo: United States -->           <img src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/disclaimer14.png">
-            </div>   
+        <!-- Geo:  -->                  <img src="https://www.binaryuno.com/wp-content/themes/BinaryUno/images/footer_legal2_new.png">
+              </div>   
     <div class="clear" style="height:6px;"></div>
     
-Binary options trading involves significant risk. We strongly advise that you read our Terms &amp; Conditions. Although the risk when trading binary options is fixed for each individual trade, the trades are live and it is possible to lose an initial investment, particularly if a trader chooses to place his entire investment to a single live trade. It is highly recommended that traders choose a proper money management strategy which limits the total consecutive trades or total outstanding investment. Binary Uno is not operated from the UK and our services may not be used by UK residents. 
+
+
+
+Binary options trading involves significant risk. We strongly advise that you read our Terms &amp; Conditions. Although the risk when trading binary options is fixed for each individual trade, the trades are live and it is possible to lose an initial investment, particularly if a trader chooses to place his entire investment to a single live trade. It is highly recommended that traders choose a proper money management strategy which limits the total consecutive trades or total outstanding investment.
+<!-- Countryww: United States --><!-- Countryww: United States --></div>
 </div>
 </div>
+
+<!-- mobile footer start -->
+<div class="fooer-mobile">
+    <p class="fooer-mobile__text">
+        Binary options trading involves significant risk. We strongly advise that you read our Terms &amp; Conditions. Although the risk when trading binary options is fixed for each individual trade, the trades are live and it is possible to lose an initial investment, particularly if a trader chooses to place his entire investment to a single live trade. It is highly recommended that traders choose a proper money management strategy which limits the total consecutive trades or total outstanding investment. Binary Uno is not operated from the UK and our services may not be used by UK residents.
+    </p>
 </div>
+<!-- mobile footer end -->
+
 <div class="clear">&nbsp;</div>
 </div> <!-- Site Wrapper -->
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js?ver=4.4.2"></script>
-<script type="text/javascript" src="http://www.binaryuno.com/wp-content/plugins/wpsocialite/Socialite/socialite.min.js?ver=2.0"></script>
-<script type="text/javascript" src="http://www.binaryuno.com/wp-content/plugins/wpsocialite/wpsocialite.js?ver=1.0"></script>
-<script type="text/javascript" src="http://www.binaryuno.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+<script type="text/javascript" src="https://www.binaryuno.com/wp-content/plugins/wpsocialite/Socialite/socialite.min.js?ver=2.0"></script>
+<script type="text/javascript" src="https://www.binaryuno.com/wp-content/plugins/wpsocialite/wpsocialite.js?ver=1.0"></script>
+<script type="text/javascript" src="https://www.binaryuno.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/www.binaryuno.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+var _wpcf7 = {"loaderUrl":"https:\/\/www.binaryuno.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.binaryuno.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.9.3"></script>
+<script type="text/javascript" src="https://www.binaryuno.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.9.3"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var soload = {"lang":"en","dir":"LTR","cookieOptions":{"domain":""},"packages":{"Clock":{}},"googleFonts":{"families":["Roboto+Condensed:400,300,700:latin,latin-ext,cyrillic"]}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//spotplatform.binaryuno.com/SpotOptionPlugin.js?ver=404475"></script>
+<script type="text/javascript" src="//spotplatform.binaryuno.com/SpotOptionPlugin.js?ver=411435"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var SiteSettings = {"Streamer":"spotplug","ajaxUrl":"http:\/\/www.binaryuno.com\/wp-admin\/admin-ajax.php","timeZoneOffset":"0","ajaxCallBack":"spotplatform.binaryuno.com","platformParams":"","openAccountUrl":"","openAccountThankYouUrl":"","depositThankYouUrl":"","withdrawalThankYouUrl":"","mainSite":"http:\/\/www.binaryuno.com","FBAppScript":"","terms":{"apiLoginOnError":"Communication error","apiLoginOnFail":"Unable to login!: ","openAccountFirstName":"Please enter your firstname","openAccountLastName":"Please enter your lastname","openAccountEmail":"Please enter a valid email address","openAccountPasswordRequired":"Please provide a password","openAccountPasswordMinlength":"Your password must be at least 5 characters long","openAccountRepeatPasswordRequired":"Please provide a password","openAccountRepeatPasswordMinlength":"Your password must be at least 5 characters long","openAccountRepeatPasswordEqualTo":"Passwords must match","openAccountAcceptTerms":"Please accept our Terms","depositAmount":"Enter Deposit Amount Of At Least ","depositFirstName":"Enter First Name","depositLastName":"Enter Last Name","depositCity":"Enter City","depositAddress":"Enter Address","depositCVV2Required":"Enter a valid CVV CODE","depositCVV2Minlength":"CVV should be at list 3 numbers","depositPostCodeRequired":"Enter a valid POST CODE","depositCardNumMinlength":"Enter credit card number","depositCardNumRequired":"Credit card number should be at list 8 numbers","depositConfirm":"Are you sure you want to delete ?","depositSubmitHandlerError":"an error has occoured, please contact our support","leadBoxFirstName":"Please enter your First name","leadBoxLastName":"Please enter your Last name","leadBoxEmail":"Please enter a valid email address","personalinfoPhoneRequired":"You must enter your Phone Number","personalinfoPhoneMinlength":"Your password must be at least 6 characters long","personalinfoEmailRequired":"You must enter email address","personalinfoEmail":"Email address is invalid","personalinfoSubmitHandler":"Your information changed successfully","personalinfoOldPassword":"You must enter your password","personalinfoPasswordRequired":"You must enter a password","personalinfoPasswordMinlength":"Your password must be at least 6 characters long","personalinfoRepeatPasswordRequired":"You must enter a password","personalinfoRepeatPasswordMinlength":"Your password must be at least 6 characters long","personalinfoRepeatPasswordEqualTo":"Passwords does not match"}};
+var SiteSettings = {"Streamer":"spotplug","ajaxUrl":"https:\/\/www.binaryuno.com\/wp-admin\/admin-ajax.php","timeZoneOffset":"0","ajaxCallBack":"spotplatform.binaryuno.com","platformParams":"","openAccountUrl":"","openAccountThankYouUrl":"","depositThankYouUrl":"","withdrawalThankYouUrl":"","mainSite":"https:\/\/www.binaryuno.com","FBAppScript":"","terms":{"apiLoginOnError":"Communication error","apiLoginOnFail":"Unable to login!: ","openAccountFirstName":"Please enter your firstname","openAccountLastName":"Please enter your lastname","openAccountEmail":"Please enter a valid email address","openAccountPasswordRequired":"Please provide a password","openAccountPasswordMinlength":"Your password must be at least 5 characters long","openAccountRepeatPasswordRequired":"Please provide a password","openAccountRepeatPasswordMinlength":"Your password must be at least 5 characters long","openAccountRepeatPasswordEqualTo":"Passwords must match","openAccountAcceptTerms":"Please accept our Terms","depositAmount":"Enter Deposit Amount Of At Least ","depositFirstName":"Enter First Name","depositLastName":"Enter Last Name","depositCity":"Enter City","depositAddress":"Enter Address","depositCVV2Required":"Enter a valid CVV CODE","depositCVV2Minlength":"CVV should be at list 3 numbers","depositPostCodeRequired":"Enter a valid POST CODE","depositCardNumMinlength":"Enter credit card number","depositCardNumRequired":"Credit card number should be at list 8 numbers","depositConfirm":"Are you sure you want to delete ?","depositSubmitHandlerError":"an error has occoured, please contact our support","leadBoxFirstName":"Please enter your First name","leadBoxLastName":"Please enter your Last name","leadBoxEmail":"Please enter a valid email address","personalinfoPhoneRequired":"You must enter your Phone Number","personalinfoPhoneMinlength":"Your password must be at least 6 characters long","personalinfoEmailRequired":"You must enter email address","personalinfoEmail":"Email address is invalid","personalinfoSubmitHandler":"Your information changed successfully","personalinfoOldPassword":"You must enter your password","personalinfoPasswordRequired":"You must enter a password","personalinfoPasswordMinlength":"At least 6 characters (a-z, A-Z, 0-9 allowed)","personalinfoRepeatPasswordRequired":"You must enter a password","personalinfoRepeatPasswordMinlength":"At least 6 characters (a-z, A-Z, 0-9 allowed)","personalinfoRepeatPasswordEqualTo":"Must match the previous entry"}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.binaryuno.com/wp-content/plugins/spotoption-platform/js/api.js?ver=4.4.2"></script>
-<script type="text/javascript" src="http://www.binaryuno.com/wp-includes/js/wp-embed.min.js?ver=4.4.2"></script>
+<script type="text/javascript" src="https://www.binaryuno.com/wp-content/plugins/spotoption-platform/js/api.js?ver=4.4.5"></script>
+<script type="text/javascript" src="https://www.binaryuno.com/wp-includes/js/wp-embed.min.js?ver=4.4.5"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.binaryuno.com\/","ajax_url":"http:\/\/www.binaryuno.com\/wp-admin\/admin-ajax.php","url_type":"1"};
+var icl_vars = {"current_language":"en","icl_home":"https:\/\/www.binaryuno.com\/","ajax_url":"https:\/\/www.binaryuno.com\/wp-admin\/admin-ajax.php","url_type":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.binaryuno.com/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=4.4.2"></script>
+<script type="text/javascript" src="https://www.binaryuno.com/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=4.4.5"></script>
 <script type="text/javascript">Socialite.setup({facebook:{lang:'en_US',appId:null},twitter:{lang:'en'},googleplus:{lang:'en'},vkontakte:{apiId:''}});</script>
 
 
@@ -516,15 +2253,15 @@ var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.binaryuno.com\/
         }
     });
     } catch(err) {
-        $('.platformwrap').html('<img style="width:740px;" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/maintenance.jpg" />');
+        $('.platformwrap').html('<img style="width:740px;" src="https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/maintenance.jpg" />');
     }
 
-    complianceDocURL = 'http://www.binaryuno.com/compliance-identification-documents-upload/';
+    complianceDocURL = 'https://www.binaryuno.com/compliance-identification-documents-upload/';
 </script>
 
-<script type="text/javascript" src="http://www.binaryuno.com/wp-content/themes/BinaryUno/js/general.js?v=2"></script>
-<script type="text/javascript" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/js/jquery.marquee.min.js"></script>
-<script type="text/javascript" src="http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/js/ticker.js"></script>
+<script type="text/javascript" src="https://www.binaryuno.com/wp-content/themes/BinaryUno/js/general.js"></script>
+<script type="text/javascript" src="https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/js/jquery.marquee.min.js"></script>
+<script type="text/javascript" src="https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/js/ticker.js"></script>
 
 
 <script type="text/javascript">
@@ -567,7 +2304,7 @@ function updateClock() {
 function initclock() {
     /*
     var localTime  = Date.now();
-    var serverTime = 1.45611039981E+12;
+    var serverTime = 1481168921087.9;
     var timeDiff = serverTime - localTime;
     runMiniClock(timeDiff);
     */
@@ -675,29 +2412,29 @@ $('.logout-butt').click(function() {
 
 
 <script>
-  $('.call-back').on('click',function(e){
-     e.preventDefault();
-     html="";
-     formgood=false;             
-     if (!$(this).hasClass('active')) {
-     $.ajax({
-            type: 'POST',
-            url: '//www.binaryuno.com/wp-content/themes/BinaryUno/includes/ajax-handler.php',
-                    data: {
-                        action:'get_call_back_form',
-                        formlang:'en',
-                        eventid:''
-                    }, 
-                    success: function(result) {
-                        //location.reload();
-                        html = result;
-                    },
-                    async:   false
-               });
-     showCleanPopup(html,494,588,50,'call-back'); 
-     }    
-     $(this).addClass('active'); 
-  });
+    $('.call-back').on('click', function (e) {
+        e.preventDefault();
+        html = "";
+        formgood = false;
+        if (!$(this).hasClass('active')) {
+            $.ajax({
+                type: 'POST',
+                url: '//www.binaryuno.com/wp-content/themes/BinaryUno/includes/ajax-handler.php',
+                data: {
+                    action: 'get_call_back_form',
+                    formlang: 'en',
+                    eventid: ''
+                },
+                success: function (result) {
+                    //location.reload();
+                    html = result;
+                },
+                async: false
+            });
+            showCleanPopup(html, 494, 588, 50, 'call-back');
+        }
+        $(this).addClass('active');
+    });
 </script> <script>
 $('#top5').click(function(){
     $('#top5form').submit();
@@ -711,35 +2448,29 @@ $('#top5').click(function(){
     var sourceArray = settings['url'].split('?');
     if (sourceArray[0] == 'http://spotplatform.binaryuno.com/Login/login/1' || 
         sourceArray[0] == 'https://spotplatform.binaryuno.com/Login/login/1') {
-
         var loginSource;
         if (jQuery('.loginPopupSubmit').size() == 1) {
-            loginSource ='popup'
-            postdata = {
-                action: 'checklog',
-                user_email: jQuery('.emailTr input[name="email"]').val(),
-                user_pass: jQuery('.passwordTr input[name="password"]').val()
-            };
-        } else {
-            loginSource ='header'
-            postdata = {
-                action: 'checklog',
-                user_email: jQuery('#email').val(),
-                user_pass: jQuery('#password').val()
-            };
+            loginSource ='popup';
         }
+        var data = settings['data'];
+        loginSource ='other';
+        postdata = {
+        action: 'checklog',
+        datastring: data}
+        $('#loader').show();
         jQuery.ajax({
             type: 'POST',
-            url: '//www.binaryuno.com/wp-content/themes/BinaryUno/includes/ajax-handler.php',
+            url: 'https://www.binaryuno.com/wp-content/themes/BinaryUno/includes/ajax-handler.php',
             data: postdata,
             success: function(result) {
                 console.log(loginSource+': '+result);
                 //***get_pending_status BU-568 Shulga D
+               
                 if (result == "pending") {
-                // SO.
-                $('#userSection form.loginForm').submit(event,function(){
-                    event.preventDefault();
-                });
+                    // SO.
+                    $('#userSection form.loginForm').submit(event,function(){
+                        //event.preventDefault();
+                    });
                     var popupWidth = $('#userLoginForm').outerWidth();
                     var popupTopOffset = $('#userSection').outerHeight() + 35;
                     var html = "<div class='popup-close'></div><p class='line1'>Your account has been temporarily suspended.</p><p class='line2'>For inquires write to:  <a href='mailto:support@binaryuno.com'>support@binaryuno.com</a></p><button  class='popup-ok-close'>OK</button>";
@@ -747,26 +2478,42 @@ $('#top5').click(function(){
                     $('.popup-blocked > .popup-inner').css({'top':popupTopOffset});
                 } else if(result == "logged_in") {
                      if (loginSource == 'popup') {
-                         //location.reload();
-                         setTimeout(function(){ location.reload(); }, 1000); 
+                         setTimeout(function(){ location.reload(); }, 1000);
+                         //location.reload(); 
                      }
                 } else {
+                     $('#loader').hide();
                      $('#logintooltip').show('slow');
                 }
+                jqxhr.done(function( data, textStatus, jqxhr ) {
+                    if($('#logintooltip_popup').length){
+                        $('#logintooltip_popup').remove();
+                    }
+                    if(data.status == false){
+                        if (data.errors == 'Wrong User Name Or Password' || data.errors == 'Wrong username or password' ) {
+                            $('<div id="logintooltip_popup" style=""><div class="arrow-right"></div>'+SO.packages.Common.lang.errors.invalidLoginCredentials+'</div>').insertAfter('.popup-bg .content-title');                        
+                        } else {
+                            $('<div id="logintooltip_popup" style=""><div class="arrow-right"></div>'+data.errors+'</div>').insertAfter('.popup-bg .content-title');                        
+                        }
+                    } else {
+                        $('#logintooltip_popup').remove();
+                    }
+                });
                 //***
             },
         });
+         
     }
 });
 </script>
 
 
 <style>
-#mark{display:block;width:68px;height:68px;float:left;background:url('http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com//images/mark.png') center center no-repeat;}
+#mark{display:block;width:68px;height:68px;float:left;background:url('https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com//images/mark.png') center center no-repeat;}
 #popuptext{float: left;font-weight: 600;line-height: 18px;width: 437px;margin-left: 25px}
-#upload_documents{margin-right: -25px;margin-top: 25px;margin-bottom:10px;color: #171511;text-decoration: none;background: #0aca13 url('http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/buttons/button_uploadDocs.png') no-repeat center center;height: 37px;width: 247px;display:block;text-align:center;text-transform: uppercase;line-height: 38px;font-size: 24px;float:right;}
+#upload_documents{margin-right: -25px;margin-top: 25px;margin-bottom:10px;color: #171511;text-decoration: none;background: #0aca13 url('https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/buttons/button_uploadDocs.png') no-repeat center center;height: 37px;width: 247px;display:block;text-align:center;text-transform: uppercase;line-height: 38px;font-size: 24px;float:right;}
 .page-ru #upload_documents{font-size: 19px;}
-.popup-close {background: url('http://94d4cbc81c75a67b27aa-073c97c64346f6554c6476c556567180.r28.cf5.rackcdn.com/images/buttons/popclose.png');}
+.popup-close {background: url('https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/images/buttons/popclose.png');}
 </style>
 <script>
 $('.logout-butt').click(function(){
@@ -809,7 +2556,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <script>
-qcdata.orderid='1456110399';
+qcdata.orderid='1481168921';
 </script>
 <script type="text/javascript">
 /**
@@ -830,8 +2577,8 @@ qcdata.orderid='1456110399';
 
     function doCreateUploadsModal() {
         //console.log('doCreateUploadsModal: creating modal with upload form...');
-        var onclickinfo = "window.open('http://www.binaryuno.com/compliance-identification-documents-upload/', 'mywin', 'left=20,top=20,width=860,height=" + aHeight + ",toolbar=0,resizable=0,scrollbars=1')";
-        showUploadDocPopup('Upload Compliance & Identification Documents', '<div id="file_uploader" style="display:none"></div><form method="post" id="file-uploads" class="bu-form upload-form" action="javascript:void(0);"><table><tr><td class="propName">Upload File<br/><div><a id="upload-info" href="javascript:void(0);">Which documents do I need to upload?</a></div></td><td class="inputTd uploadTd"><input accept="image/*,.doc,.pdf,.docx" type="file" id="my-file1" name="my-file1"><input accept="image/*,.doc,.pdf,.docx" type="file" id="my-file2" name="my-file2"><input accept="image/*,.doc,.pdf,.docx" type="file" id="my-file3" name="my-file3"></td></tr><tr><td></td><td><a id="add-upload-option" href="javascript:void(0)">Add another file</a></td></tr><tr><td class="propName"></td><td class="submitTd"><input id="upload-files" class="btn btn-large btn-primary submit green-submit butt" value="Upload" type="submit"></td></tr></table><input type="hidden" name="file_upload" value="1"></form>', '50', true);
+        var onclickinfo = "window.open('https://www.binaryuno.com/compliance-identification-documents-upload/', 'mywin', 'left=20,top=20,width=860,height=" + aHeight + ",toolbar=0,resizable=0,scrollbars=1')";
+        showUploadDocPopup('Upload Compliance & Identification Documents', '<div id="file_uploader" style="display:none"></div><form method="post" id="file-uploads" class="bu-form upload-form" action="javascript:void(0);"><table><tr><td class="propName">Upload File<br/><div><a id="upload-info" href="javascript:void(0);">Which documents do I need to upload?</a></div></td><td class="inputTd uploadTd"><input accept="image/*,.doc,.pdf,.docx" type="file" id="my-file1" name="my-file1"><input accept="image/*,.doc,.pdf,.docx" type="file" id="my-file2" name="my-file2"><input accept="image/*,.doc,.pdf,.docx" type="file" id="my-file3" name="my-file3"></td></tr><tr><td></td><td><a id="add-upload-option" href="javascript:void(0)">Add another file</a></td></tr><tr><td class="propName"></td><td class="submitTd"><input id="upload-files" class="btn btn-large btn-primary submit green-submit butt" value="Upload" type="submit"></td></tr></table><input type="hidden" name="file_upload" value="1"><input type="hidden" name="formlang" value="en"></form>', '50', true);
         initUploadForm($('#file-uploads'));
     }
 
@@ -928,7 +2675,7 @@ qcdata.orderid='1456110399';
         data.append('file', $('input[name=' + fileInput.attr('name') + ']')[0].files[0]);
 
         var uploadAction = $.ajax({
-            url: "http://www.binaryuno.com/wp-content/themes/BinaryUno/includes/file-upload.php",
+            url: "https://www.binaryuno.com/wp-content/themes/BinaryUno/includes/file-upload.php",
             type: 'POST',
             data: data,
             cache: false,
@@ -1159,13 +2906,52 @@ qcdata.orderid='1456110399';
 
 
 </script>
+
+
+<!--	////////////////////////// PUSH NOTIFICATION \\\\\\\\\\\\\\\\\\\\   -->
+<script type="text/javascript" src="//cdn.pushwoosh.com/webpush/pushwoosh-web-notifications.js" async=""></script>
 <script type="text/javascript">
-//<![CDATA[
-(function() {
-var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=5';
-var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
-})();
-// ]]>
+	var Pushwoosh = Pushwoosh || [];
+	Pushwoosh.push(['init', {
+		logLevel: 'info',
+		applicationCode: '407F1-D0C18',
+		defaultNotificationTitle: 'BinaryUno',
+		defaultNotificationImage: 'https://b8e026ae03f1b8ce32ec-073c97c64346f6554c6476c556567180.ssl.cf5.rackcdn.com/logos/vertical_logo_165x187.png'	}]);
+
+	var userDetails = {
+		funnel: getCookie('ref'),
+		language: getCookie('_icl_current_language')
+	};
+
+	Pushwoosh.push(function(api) {
+		api.getTags().then(function(result) {
+			if (!result.result['Funnel'] && userDetails.funnel !== null ) {
+				return api.setTags({'Funnel': userDetails.funnel}).then(function(r) {
+					console.log('"Funnel"', r);
+				});
+			}
+			if (!result.result['Funnel language'] && userDetails.language !== null ) {
+				return api.setTags({'Funnel language': userDetails.language}).then(function(r) {
+					console.log('"Funnel language"', r);
+				});
+			}
+		}).catch(function(e) {
+			console.log('error', e);
+		});
+	});
+
+	function getCookie(name) {
+		var nameEQ = name + "=";
+		var ca = document.cookie.split(';');
+		for(var i=0;i < ca.length;i++) {
+			var c = ca[i];
+			while (c.charAt(0)==' ') c = c.substring(1,c.length);
+			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+		}
+		return null;
+	}
+
 </script>
+<!--	////////////////////////// PUSH NOTIFICATION END \\\\\\\\\\\\\\\\\\\\   -->
+
 </body></html>
