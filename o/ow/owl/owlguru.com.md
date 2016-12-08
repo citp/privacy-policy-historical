@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the owlguru.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513163942id_/http%3A//www.owlguru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owlguru.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208060635id_/http%3A//www.owlguru.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
