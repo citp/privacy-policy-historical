@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techliquidators.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608152527id_/http%3A//www.bestbuy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techliquidators.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208085900id_/http%3A//www.bestbuy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ We take your privacy seriously, and we want you to know how we collect, use, sha
 
 We want you to read the whole policy. This highlights section provides a summary of Best Buy's privacy practices, and is not the whole policy. The highlights and full privacy policy apply to Best Buy retail stores, our Web site at www.bestbuy.com, our mobile app, and other locations where we may collect personal information.
 
-#### **What we collect**
+#### **What We Collect**
 
   * We may collect personal information such as your contact, billing, and shipping information. We may also collect demographic information, such as your birthday. 
   * We collect information regarding your interactions with our Web sites and mobile apps. 
@@ -18,7 +18,9 @@ We want you to read the whole policy. This highlights section provides a summary
 
 
 
-#### **Uses of Information**
+Read more about the information we collect ›
+
+####  **Uses of Information**
 
   * **Best Buy does not sell or rent your personal information to third parties**. 
   * We use information about you to fulfill your requests, administer various programs, provide services, and for other business purposes. 
@@ -27,6 +29,9 @@ We want you to read the whole policy. This highlights section provides a summary
   * In some circumstances, Best Buy may share your information with certain third parties to perform services on our behalf.
 
 
+
+Read more about how we use the information we collect ›   
+Read more about how we share your information ›
 
 | 
 
@@ -37,14 +42,14 @@ You may choose to:
   * Stop receiving e-mail, direct mail and telephone marketing communications. 
   * Update and correct your personal information. 
 
-
+Read more about your privacy choices ›
 
 #### **Important Information**
 
   * Best Buy does not knowingly collect information online from children under 13. 
   * The Best Buy Companies value our relationship with our customers and we are committed to responsible information-handling practices. Please read our entire Privacy Policy. 
 
-
+Read more about protecting children's privacy ›
 
 #### **How To Contact Us**
 
@@ -117,7 +122,10 @@ We may receive information about you from other sources, including third parties
 
 We collect information about your interactions with us, including the type of device or browser you're using, your IP address, your browsing behavior while on our website, and the URLs of the websites you were at before you visited our site (these are called "referring URLs"). 
 
-Best Buy and our partners use technologies such as cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level.To manage Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). [ Learn more about managing cookies, Flash cookies, and other automated online information collection](https://web.archive.org/site/privacy-policy/Cookies/pcmcat338600050000.c?id=pcmcat338600050000).
+Best Buy and our partners use technologies such as cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level.
+
+[Manage Flash cookies ›](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)   
+[Learn more about managing cookies, Flash cookies, and more ›](https://web.archive.org/site/privacy-policy/Cookies/pcmcat338600050000.c?id=pcmcat338600050000)
 
 We may permit third party service providers to collect and process some information from our digital properties. We may share personal information with those providers and may have similar arrangements with interest-based advertisers. We provide more information about interest-based ads below.
 
@@ -155,9 +163,11 @@ We use the information we collect for things like:
 
 #### **Interest-Based Advertising**
 
-Learn more about [interest-based advertising](http://www.bestbuy.com/site/Help-Topics/Interest-Based-Ads/pcmcat204400050066.c?id=pcmcat204400050066). You can opt out of interest-based advertising from third party providers who follow the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising at [www.aboutads.info/choices](http://www.aboutads.info/choices/).
+You can opt out of interest-based advertising from third party providers who follow the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising at www.aboutads.info/choices.
 
-#### **Information Retention**
+[Learn more about interest-based advertising ›](https://web.archive.org/site/Help-Topics/Interest-Based-Ads/pcmcat204400050066.c?id=pcmcat204400050066)
+
+####  **Information Retention**
 
 We may retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -229,11 +239,13 @@ Our website includes ways to interact and share using social media, through feat
 
 ### TRUSTe Privacy Seal
 
-Best Buy has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with the [TRUSTe program](https://www.truste.com/privacy-certification-standards/program-requirements/). In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. The TRUSTe program covers only information that is collected through this website, www.BestBuy.com, and does not cover information that may be collected through our mobile applications or through downloadable software.
+Best Buy has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. The TRUSTe program covers only information that is collected through this website, www.BestBuy.com, and does not cover information that may be collected through our mobile applications or through downloadable software.
 
-If you have questions or concerns regarding our privacy policy or practices, please contact us at [PrivacyManager@bestbuy.com](mailto:PrivacyManager@bestbuy.com). If you are not satisfied with our response, you can [contact TRUSTe here ](https://feedback-form.truste.com/watchdog/request) . 
+If you have questions or concerns regarding our privacy policy or practices, please contact us at [PrivacyManager@bestbuy.com](mailto:PrivacyManager@bestbuy.com). If you are not satisfied with our response, you can [file a report with TRUSTe](https://feedback-form.truste.com/watchdog/request). 
 
-Contact [TRUSTe](http://www.truste.com/about-TRUSTe/contact-us%20) for fax and postal mail information. [TRUSTe's Dispute Resolution process is only available in English.]
+[Contact TRUSTe for fax and postal mail information ›](https://www.truste.com/about-TRUSTe/contact-us+/)   
+(TRUSTe's Dispute Resolution process is only available in English.)   
+[Read the TRUSTe Enterprise Privacy Certification Standards ›](https://www.truste.com/privacy-certification-standards/program-requirements/)
 
 ### Privacy Policy Updates
 
