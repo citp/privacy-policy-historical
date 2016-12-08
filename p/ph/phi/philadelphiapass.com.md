@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philadelphiapass.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606200540id_/http%3A//www.philadelphiapass.com/En/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philadelphiapass.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209002044id_/http%3A//www.philadelphiapass.com/En/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Philadelphia Pass
 
