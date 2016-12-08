@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opusdei.org privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606094928id_/http%3A//www.opusdei.org/en-us/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opusdei.org privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209002229id_/http%3A//www.opusdei.org/en-us/legal/%23privacy) for the most accurate reproduction.*
 
 # Opus Dei - Privacy policy and cookies - legal notice
 
