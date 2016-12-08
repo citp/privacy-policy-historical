@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hibike.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620145915id_/http%3A//www.hibike.com/hibikes-privacy-policy-n739) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hibike.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208172110id_/http%3A//www.hibike.com/hibikes-privacy-policy-n739) for the most accurate reproduction.*
 
 # help-info-hibikes-privacy-policy
 
