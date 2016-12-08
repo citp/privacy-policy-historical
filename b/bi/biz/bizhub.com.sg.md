@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bizhub.com.sg privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628162805id_/http%3A//www.bizhub.com.sg/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizhub.com.sg privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208122816id_/http%3A//www.bizhub.com.sg/privacypolicy) for the most accurate reproduction.*
 
-# Bizhub Asia Pte Ltd » » Privacy Policy
+# Bizhub Asia Pte Ltd » Privacy Policy » Bizhub Asia Pte Ltd
 
 ## Privacy Policy
 
@@ -12,11 +12,11 @@ Respecting the purpose sought.
 
 **Collection & Protection of Personal Data**  
 Personal data are defined as information which allows to identify the applicants and which might make it possible to contact them. These include:  
-\- Surnames and names;  
-\- Addresses;  
-\- Telephone or fax numbers;  
-\- Email addresses;  
-\- Or any information making it possible to identify applicants.
+– Surnames and names;  
+– Addresses;  
+– Telephone or fax numbers;  
+– Email addresses;  
+– Or any information making it possible to identify applicants.
 
 Bizhub Asia will only collect the personal data regarding the applicants, aside from that which they provide themselves. This means that applicants will be free to choose not to communicate personal data. However, in that event, it is important to note that if the information is essential to processing the request, their request may not be processed.  
 Your privacy is important to us. We’re committed to ensuring that your privacy is respected and maintained at all times. Bizhub Asia complies with privacy laws and Singapore’s National Privacy Principles as well as our existing obligations of confidentiality.  
@@ -30,16 +30,16 @@ Your personal information will be collected by Bizhub Asia for its own use and o
 **Collected Personal Data when attending an interview with us**  
 Personal information will be collected from you directly when you attend an interview with one of our staff members. At this time you will complete our registration paperwork or any other information in connection with your application to us for registration.  
 Personal information will also be collected when we receive:  
-\- any reference about you;  
-\- results of inquiries that we might make with your former employers, work colleagues, professional associations or registration body;  
-\- performance feedback (whether positive or negative);  
-\- complaint from or about you in the workplace;  
-\- any information about a workplace accident in which you are involved;  
-\- a response from a job advertisement – either written, verbal or email  
-\- any information about any insurance investigation, litigation, registration or professional disciplinary matter, criminal matter, inquest or inquiry in which you are involved;  
-\- you provide us with any additional information about you  
-\- the results of your work rights status;  
-\- the results of any competency or medical test;
+– any reference about you;  
+– results of inquiries that we might make with your former employers, work colleagues, professional associations or registration body;  
+– performance feedback (whether positive or negative);  
+– complaint from or about you in the workplace;  
+– any information about a workplace accident in which you are involved;  
+– a response from a job advertisement – either written, verbal or email  
+– any information about any insurance investigation, litigation, registration or professional disciplinary matter, criminal matter, inquest or inquiry in which you are involved;  
+– you provide us with any additional information about you  
+– the results of your work rights status;  
+– the results of any competency or medical test;
 
 **Collection of Personal Data when visiting our website**  
 You can visit our website and browse without the need to disclose any personal information.  
@@ -52,32 +52,32 @@ You can also view our advertisements on authorized third party recruitment websi
 
 **Uses of your personal data**  
 Your personal data may be used in connection with:  
-\- your actual or possible work placement;  
-\- checking your work rights status with any government department or body (or their agents);  
-\- where legally permitted to undertake directly or through agents criminal reference check with relevant government agencies, or credit checks.  
-\- any test or assessment (including medical tests and assessments) that you might be required to undergo;  
-\- ensuring our internal business processes are running smoothly which may include quality assurance audits, quality and services evaluations, fulfilling legal requirements and conducting confidential systems maintenance and testing; and to offer you special service offerings.
+– your actual or possible work placement;  
+– checking your work rights status with any government department or body (or their agents);  
+– where legally permitted to undertake directly or through agents criminal reference check with relevant government agencies, or credit checks.  
+– any test or assessment (including medical tests and assessments) that you might be required to undergo;  
+– ensuring our internal business processes are running smoothly which may include quality assurance audits, quality and services evaluations, fulfilling legal requirements and conducting confidential systems maintenance and testing; and to offer you special service offerings.
 
 If you are placed by us in a temporary/contract assignment, your personal data may also be used in connection with:  
-\- payment for work completed on a temporary/contract assignment  
-\- follow up with you to offer you work or ascertain your availability for work  
-\- your performance appraisals;  
-\- our assessment of your ongoing performance and prospects;  
-\- our identification of your training needs;  
-\- our management of any complaint, investigation or inquiry in which you are involved;  
-\- any insurance claim or proposal that requires disclosure of your personal information.
+– payment for work completed on a temporary/contract assignment  
+– follow up with you to offer you work or ascertain your availability for work  
+– your performance appraisals;  
+– our assessment of your ongoing performance and prospects;  
+– our identification of your training needs;  
+– our management of any complaint, investigation or inquiry in which you are involved;  
+– any insurance claim or proposal that requires disclosure of your personal information.
 
 At all times the personal information that we collect will only be collected to the extent that it is necessary to fulfill these purposes.  
 Your personal information may be disclosed to:  
-\- potential and actual employers and clients of Bizhub Asia;  
-\- referees;  
-\- other members of the Bizhub Asia group of companies;  
-\- our insurers;  
-\- any government department or body (or their agents) to verify your work rights status;  
-\- a designated, registered training provider in relation to training and personal development opportunities;  
-\- our contractors and suppliers – e.g. our I.T. contractors and database designers  
-\- any person with a lawful entitlement to obtain the information;  
-\- prospective employers to use to verify suitability for employment; and  
+– potential and actual employers and clients of Bizhub Asia;  
+– referees;  
+– other members of the Bizhub Asia group of companies;  
+– our insurers;  
+– any government department or body (or their agents) to verify your work rights status;  
+– a designated, registered training provider in relation to training and personal development opportunities;  
+– our contractors and suppliers – e.g. our I.T. contractors and database designers  
+– any person with a lawful entitlement to obtain the information;  
+– prospective employers to use to verify suitability for employment; and  
 (where permitted by law) third party providers of criminal background or credit checking services.  
 We will advise you of our intentions and gain consent before we refer your personal information to our clients for possible work opportunities.
 
