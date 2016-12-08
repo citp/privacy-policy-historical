@@ -1,119 +1,68 @@
-> *The following text is extracted and transformed from the voki.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406031513id_/http%3A//www.voki.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voki.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208141412id_/http%3A//www.voki.com/privacy) for the most accurate reproduction.*
 
-# 
+# Voki - Privacy Policy
 
-Oddcast recognizes that Voki users value their right to privacy and want to be assured that any personal information that they provide to us will be used in accordance with their wishes. Oddcast is committed to ensuring that you are fully informed as to how your personal information will be used and that it will be kept secure. 
+We respect your privacy and are committed to safeguarding any personal information that may be collected through Voki. In short, we abide by all applicable US law, we will not use the information collection for any purpose other than providing you with our services and we will not transfer your information to any third party. The following policy describes in further detail what information we collect, why we collect it, how we use such information, and the choices you have thereafter. Any capitalized terms used within this Privacy Policy and not defined will have the same meaning as they do in our [Voki Terms and Conditions of Use](http://www.voki.com/tos).
 
-**1\. What information do we collect?**
+##### 1\. INFORMATION COLLECTED AND HOW WE COLLECT IT 
 
-Oddcast may collect personal information from you relating both to your identity and personal preferences. 
+When you use Voki, we may collect personal information from you when you provide us with it. For example, this may happen when you register to use our services, when you communicate with us for purposes of customer/technical support, when you answer one of our surveys. We may also collect your contact information should you ask to be included in our mailing lists or express an interest in hearing more about our offerings. 
 
-There are a number of different ways that we may collect personal information from you:
+IT SHOULD BE STRESSED THAT WE DO NOT KNOWINGLY COLLECT OR SOLICIT PERSONAL INFORMATION FROM ANYONE UNDER THE AGE OF 13. OUR VOKI BASIC VERSION MAY BE USED WITHOUT REGISTRATION, AND OUR PAID VERSION AIMED FOR THE USE BY TEACHERS IN CLASSROOM SETTINGS ALLOW FOR THE CREATION OF STUDENT SUB-ACCOUNTS THAT DO NOT REQUIRE INDIVIDUAL REGISTRATION.IF YOU ARE UNDER 13 , PLEASE DO NOT ATTEMPT TO CONTACT US OR SEND ANY OF YOUR PERSONAL INFORMATION, INCLUDING YOUR NAME, ADDRESS, TELEPHONE NUMBER, OR EMAIL ADDRESS. PLEASE NOTIFY US IF YOU BECOME AWARE THAT WE HAVE NONETHELESS BEEN PROVIDED INFORMATION OF A MINOR UNDER THE AGE OF 13 WITHOUT PERMISSION OF THEIR GUARDIAN. IN THE EVENT THAT WE LEARN THAT WE HAVE COLLECTED PERSONAL INFORMATION FROM A CHILD UNDER THE AGE OF 13, WE WILL DELETE THAT INFORMATION AS QUICKLY AS POSSIBLE. IF YOU BELIEVE THAT WE MIGHT HAVE ANY INFORMATION FROM OR ABOUT A CHILD UNDER THE AGE OF 13, PLEASE CONTACT US AT [privacy@voki.com](mailto:privacy@voki.com).
 
-**Communications from you**  
-You may contact us providing your name and contact details and any other personal information contained in your message. 
+Additionally, when you visit our website, our web server automatically collects and aggregates information regarding your visit. This information includes your browser type, operating system, the pages that you access and the date and time of your visit. Our mobile application also collects certain information from our users automatically, including, but not limited to, the type of mobile device used, mobile operating system, the type of Internet browsers used, information about the way Voki is used, system and application software and peripherals, that is gathered periodically to facilitate the provision of software updates, product support and other services (if any) related to Voki. All of this information is collected aggregately, cannot be linked to a specific user in any way and is done to help us improve our products and offerings. To this end, we may also work with analytics companies to help us understand how Voki is being used, such as the frequency and duration of usage. No personal information is ever passed on to such 3rd party providers.
 
-**Customer Support**  
-You may contact us in respect of technical assistance you require in respect of our products or information that you would like to receive relating to our products. 
+##### 2\. WHAT WE DO OR MIGHT DO WITH THE INFORMATION COLLECTED
 
-**Email/Direct mail campaigns**  
-From time to time we may contact you directly by mail, email or telephone informing you about upgrades, new products, promotions or special offers that you may be interested in. 
+We may use the information provided to us to:
 
-**Newsletters**  
-We may send out newsletters to our customers providing them with articles and information which we believe may be of interest to you. 
+  * Provide, maintain, protect and improve Voki, and to develop new services and offerings; 
+  * Customize, measure and improve our products, services, content and advertising;
+  * Contact you from time to time with critical user or service updates or other information important to support Voki.
+  * Receive feedback and comments from you about Voki and inquire about any features you would like to see in future offerings. We may also contact you to ask for your satisfaction rate, inform you of technical issues, or offer you upgrades, promotions and additional products that you may be interested in;
+  * Send out newsletters, marketing or promotional materials and other information which we believe may be of interest to you;
+  * Bill you as applicable. Please be aware that our billing is done through use of third-party billing providers. We do not store any of your personal payment information.
+  * Evaluate your use, preferences and trends for our own internal statistical and analytical purposes;
+  * Prevent activity we determine to be potentially illegal;
+  * Enforce this Privacy Policy, our Terms of Use or any other purpose referenced herein or therein.
 
-**Registration of Products**  
-Upon registration, you will be asked to provide certain information so that we can record you as a Voki user to help us in providing you with service and information. We require that you provide certain contact information. 
+  
 
-**Purchases**  
-If you wish to purchase various character assets through Voki, we will require sufficient information to complete the purchase which may include your credit card information and your contact details. 
 
-**Surveys**  
-From time to time we may conduct surveys in respect of our products and services. Participation is optional. 
+##### 3\. DISCLOSURE OF INFORMATION 
 
-**Aggregate Information**  
-Whenever you enter our website, our web server automatically collects and aggregates information in respect of your visit. This information includes URLs or domains of referring websites, browser type, operating system, the pages that you access and the date and time of your visit. 
+We will not use your personal information for any purpose, other than those outlined in this Privacy Policy and/or in the [Voki Terms and Conditions of Use](http://www.voki.com/tos), unless we have your consent. We will not share your personal information with any other third parties without your permission, unless:
 
-**Voki Usage**  
-In order to make the services that we offer more relevent and useful, we may collect aggregate data on asset utilization and consumer preferences by user demographic. For example, if most female users prefer a certain set of characters, we may use that data to start sorting our character selection lists based on the demographic profile of a user when they are logged in to improve our service. This type of data usage will generally be aggregated, non personally identifiable, and used directly in conjunction with a service offering intended to improve user experience.
+(1) We are required to do so by law or when necessary to comply with a current judicial proceeding, a court order or legal process served on us, or when we believe in good faith that disclosure of information is necessary to prevent imminent physical harm, financial loss or to report suspected illegal activity. In all cases, such information will only be disclosed in accordance with applicable laws and regulations.
 
-**2\. Purposes for which we use information**
+(2) In the event of a sale, merger, liquidation, dissolution, reorganization or acquisition of our company so long as the party acquiring the information agrees to be bound by the terms of this Privacy Policy or similar terms.
 
-Oddcast may gather personally identifiable information about you, ONLY if you voluntarily choose to provide it yourself. If you choose not to provide required information, Oddcast may not be able to comply with your request or provide certain services. 
+In addition, we may share aggregate statistics about users, sales, traffic patterns, and other information with third parties, but these statistics will not include any personally identifiable information. 
 
-**Product Registration**  
-Information you provide upon registration will be used to keep a record of your purchases and will assist in providing assistance if you contact our customer support service. We will also use this information to inform you of any upgrades, new products or promotions that may be of interest to you. 
+##### 4\. Data Retention Policy, Managing Your Information
 
-**Product Purchases**  
-When you purchase from the Voki website, we will use your information to process payment and send you your login information. 
+If you'd like us to delete any data that you have provided via Voki, please contact us via privacy@voki.com and we will respond within a reasonable time. Please note that deletion of some or all of the data may alter our ability provide you with all Voki functionality.
 
-**Information in respect of Oddcast Products**  
-It is important for us to receive feedback from our customers and any features they would like to see in future products. We may contact you to ask you about our products and also to inform you of upgrades, technical issues, promotions and new products that you may be interested in. 
+You can also stop all collection of information through our mobile application simply uninstalling the Voki mobile app. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-**Internal Analysis**  
-We may use the information you provide us with for our own internal statistical and analytical purposes, to evaluate and profile customers, including customer preferences and purchasing trends, which we may use for marketing purposes and in respect of operations and development. 
+You can also choose to remove the tracking and collection of cookies from time to time by deleting all of the cookies from your mobile device and/or personal computer. If you do not accept cookies, however, you may not be able to use all portions of our site or all functionality of Voki.
 
-**Updating information**  
-We may contact you to ensure that the information we have in our records is still correct and to add additional information to complete your profile. 
+##### 5\. LINKS AND THIRD PARTY SERVICE PROVIDERS
 
-**3\. Sharing of information with third parties**
+Voki may link to other websites which may be hosted by our partners or by unrelated companies which we think may be of interest to you. Such websites are not governed by this Privacy Policy and we make no representation as to their practices for dealing with your personal information. We recommend that you check the privacy policy of any website at the beginning of your visit.
 
-We may use outside vendors to process payment from customers.
+##### 6\. SECURING THE INFORMATION
 
-Please be aware that this Privacy Policy does not cover the information practices exercised by other provides of products or services, advertisers, other web-sites or any other third-party which may be involved in or linked to Oddcast's business. This privacy statement does not cover the information practices of those Web sites linking information. Your personal information may be subject to different privacy practices exercised by other providers, and Oddcast is not responsible for the privacy practices exercised by any such providers. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit these providers individually to learn more about how they handle privacy. 
+We take reasonable technical and organizational measures to guard against unauthorized or unlawful processing of the information collected and against accidental loss or destruction of, or damage to, your personal data or that of other end-users. While no system is completely secure, we believe the measures implemented by our site measure up to industry standard for similar data and reduce the likelihood of security problems to a level appropriate to the type of data involved.
 
-**Legal Disclaimer**  
-Although we make every effort to preserve user privacy, we may need to disclose personal information when required to do so by law or necessary to comply with a current judicial proceeding, a court order or legal process served on our Website. 
+##### 7\. CHANGES TO THIS PRIVACY POLICY
 
-**4\. Security**
+We may change the terms of this Privacy Policy from time to time in order to reflect our practices and provide greater protection for your information. Information collected by us will be dealt with in accordance with the provisions of our policy which were in effect at the time of collection.
 
-We use commercially reasonable efforts to ensure that your information is stored and maintained in a secure environment. We have implemented procedures to ensure that your information is only made available to such designated staff as necessary to carry out the stated purposes that we have communicated to you. 
+##### 8\. ACCEPTANCE OF OUR PRIVACY POLICY
 
-**SSL Encryption**  
-Order information received by through online purchasing of Oddcast products, including credit card information, is encrypted using Secure Sockets Layer (SSL). This ensures that your information is secure as it is sent over the Internet to our server. 
+By using Voki, you are consenting to the practices relating to information collection and use that are described in this Privacy Policy. All of the information collected by Voki will be store in our secure data center located in New York City. As such, your information may be transferred to and maintained on computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-**5\. Cookies**
+##### 9\. CONTACTING US
 
-We may make use of "cookies" on our website. A cookie is a small text file that can be placed and stored on your computer's hard disc when you visit a website for record keeping purposes. A cookie itself is not designed or intended to read any information from a user's computer (other than the contents of the cookie); rather, it is an identifier used by the Web site that originally placed it on your hard drive. The actual contents of the cookie information can be retrieved by the same server to identify the computer and subsequently to customize, monitor, or regulate the use of a site based on information stored on the host server. Therefore, cookies only identify the user's computer to the Web site which may correlate other information, including personally identifying information, with the cookie. 
-
-We use cookies to allow us to automate access and the data entry functions of our website such as to correlate online ordering information for purchases you may make while at the website (if any), tailor our website to your preferences or interests, or customize promotions or marketing. In addition, cookies allow us to track use of our website to determine those areas which are useful or popular and those that are not thereby enabling us to improve and update our website effectively. 
-
-Most web browsers can either alert you to the use of cookies or refuse to accept cookies entirely. If you are not sure how to do this or whether you have this option you should consult the documentation that accompanied your web browser. You should be aware that if you elect not to accept cookies, some parts of the website may not function properly or permit access. 
-
-**6\. Links**
-
-We may offer links from our website to other websites which may be hosted by our partners or by unrelated companies which we think may be of interest to you. Such websites are not governed by this privacy policy and Oddcast makes no representation as to their practices for dealing with your personal information. We recommend that you check the privacy policy of any website at the beginning of your visit. 
-
-**7\. Chat rooms and newsgroups**
-
-Oddcast's website may have chat rooms, newsgroups, or other forums which permit individuals to interact online. Any information you transmit online in such forums will be made public and Oddcast cannot control nor is it responsible for the use any third parties may make of such information. 
-
-**8\. Children**
-
-This site is a general audience site which is neither designed nor intended to collect personal information from children who are under the age of 13. In order to ensure compliance with the provisions of the Children's Online Privacy Protection Act children under the age of 13 should not provide any personal information to this site. We ask that parents supervise their children while online. 
-
-**9\. Access, modification and accuracy of information**
-
-We take reasonable steps to ensure that the information that we receive from you is accurate and kept up to date. You have the right to access your information to verify the information that we have collected in respect of you. You also have the right to request that your information be modified or deleted, including any changes to any consents that you may have given in respect of us contacting you relating to information that you receive from us. You may also ask at any time that your preferences as to the type of communications that you receive from us are modified in order to stop receiving them or to be added to our mailing list. We will endeavor to deal with all such requests for access and modifications in a timely manner. We will not be able to comply with requests in respect of information that we may have archived as part our business operations. 
-
-**10\. Retention and storage of information**
-
-We will retain your information for a reasonable time to permit us to use it for the purposes that we have communicated to you. 
-
-We may use the services of third party companies to physically collect and store your information on our behalf. Any such companies will have to comply with the terms of this policy. 
-
-**11\. Changes to Privacy Policy**
-
-We may change the terms of this privacy policy from time to time in order to reflect our practices and provide greater protection for your information. Any change to this policy will be clearly displayed on this website. Any changes to this policy will not have retrospective effect. Information collected by us will be dealt within accordance with the provisions of our policy which were in effect at the time of collection. 
-
-**12\. Business transfers**
-
-The information that is collected by Oddcast is considered to be an asset. In the event that Oddcast, any affiliated company, division or portions of its assets are acquired by another company, such information may be one of the transferred assets. We will take reasonable steps to place a notification of such a transfer on our website. 
-
-**13\. Acceptance of terms**
-
-By using our services, accessing our website or purchasing our products you are consenting to the practices relating to information collection and use that are described in this policy. 
-
-**14\. Contact us**
-
-Any requests for access to your information, modification of your information or questions in respect of this policy should be sent to the following email address [privacy@oddcast.com](mailto:privacy@oddcast.com). 
+Any requests for access to your information, modification of your information or questions in respect of this policy should be sent to the following email address: [privacy@voki.com](mailto:privacy@voki.com). 
