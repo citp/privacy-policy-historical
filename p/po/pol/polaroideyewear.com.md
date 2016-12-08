@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polaroideyewear.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623084203id_/http%3A//polaroideyewear.com/en/legal/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polaroideyewear.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208021521id_/http%3A//polaroideyewear.com/en/legal/privacy-statement.html) for the most accurate reproduction.*
 
 # Polaroid Eyewear - PRIVACY POLICY
 
