@@ -1,67 +1,41 @@
-> *The following text is extracted and transformed from the bsimracing.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610103456id_/http%3A//www.bsimracing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsimracing.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208064653id_/http%3A//www.bsimracing.com/privacy-policy) for the most accurate reproduction.*
 
 # bsimracing
 
-## **PRIVACY POLICY for www.bsimracing.com**
-
-At Bsim we are committed to safeguarding and preserving the privacy of our visitors.
+At Bsimracing we are committed to safeguarding and preserving the privacy of our visitors.
 
 This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site.
 
 We do update this Policy from time to time so please do review this Policy regularly.
 
- **Information We Collect**
+### Privacy Policy for Bsimracing.com
 
-In running and maintaining our website we may collect and process the following data about you:
+The privacy of our visitors to Bsimracing.com is important to us.
 
-  1. Information about your use of our site including details of your visits such as pages viewed and the resources that you access. Such information includes traffic data, location data and other communication data.
-  2. Information provided voluntarily by you. For example, when you register for information or make a purchase.
-  3. Information that you provide when you communicate with us by any means.
+At Bsimracing.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit Bsimracing.com, and how we safeguard your information. We never sell your personal information to third parties.
 
+### Log Files
 
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
- **Use of Cookies  
-**Cookies provide information regarding the computer used by a visitor. We may use cookies where appropriate to gather information about your computer fin order to assist us in improving our website.
+### Cookies and Web Beacons
 
-We may gather information about your general internet use by using the cookie.  Where used, these cookies are downloaded to your computer and stored on the computer’s hard drive. Such information will not identify you personally. It is statistical data. This statistical data does not identify any personal details whatsoever
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-You can adjust the settings on your computer to decline any cookies if you wish.  This can easily be done by activating the reject cookies setting on your computer.
+We also use third party advertisements on Bsimracing.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-Our advertisers may also use cookies, over which we have no control.  Such cookies (if used) would be downloaded once you click on advertisements on our website.
+### DoubleClick DART cookies
 
- **Use of Your Information**
+We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”).
 
-We use the information that we collect from you to provide our services to you.  In addition to this we may use the information for one or more of the following purposes:
+The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.
 
-  1. To provide information to you that you request from us relating to our products or services.
-  2. To provide information to you relating to other products that may be of interest to you. Such additional information will only be provided where you have consented to receive such information.
-  3. To inform you of any changes to our website, services or goods and products.
+You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx
 
+You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
+Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-If you have previously purchased goods or services from us we may provide to you details of similar goods or services, or other goods and services, that you may be interested in.
+### Contacting Us
 
-Where your consent has been provided in advance we may allow selected third parties to use your data to enable them to provide you with information regarding unrelated goods and services which we believe may interest you.  Where such consent has been provided it can be withdrawn by you at any time.
-
- **Storing Your Personal Data**
-
-In operating our website it may become necessary to transfer data that we collect from you to locations outside of the European Union for processing and storing. By providing your personal data to us, you agree to this transfer, storing or processing. We do our upmost to ensure that all reasonable steps are taken to make sure that your data is treated stored securely.
-
-Unfortunately the sending of information via the internet is not totally secure and on occasion such information can be intercepted. We cannot guarantee the security of data that you choose to send us electronically, Sending such information is entirely at your own risk.
-
- **Disclosing Your Information**
-
-We will not disclose your personal information to any other party other than in accordance with this Privacy Policy and in the circumstances detailed below:
-
-  1. In the event that we sell any or all of our business to the buyer.
-  2. Where we are legally required by law to disclose your personal information.
-  3. To further fraud protection and reduce the risk of fraud.
-
-
-
- **Third Party Links  
-**On occasion we include links to third parties on this website. Where we provide a link it does not mean that we endorse or approve that site’s policy towards visitor privacy. You should review their privacy policy before sending them any personal data.
-
- **Contacting Us**
-
-Please do not hesitate to contact us regarding any matter relating to this Privacy Policy using the [Bsim Contact Page](http://www.bsimracing.com/contact-bsim/).
+Please do not hesitate to contact us regarding any matter relating to this Privacy Policy using the [Bsimracing Contact Page](http://www.bsimracing.com/contact-bsim/).
