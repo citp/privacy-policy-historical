@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the membean.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604173142id_/http%3A//www.membean.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membean.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208151517id_/http%3A//www.membean.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Membean
 
 Protecting your personal information is important to us 
+
+You need to sign in or sign up before continuing.
 
   1. ### Our Commitment to Your Privacy
 
