@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the star-clicks.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530021647id_/http%3A//www.star-clicks.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the star-clicks.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208063027id_/http%3A//www.star-clicks.com/privacy.asp) for the most accurate reproduction.*
 
 # Star-Clicks.com - Privacy
 
