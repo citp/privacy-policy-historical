@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wefbee.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617014903id_/http%3A//wefbee.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wefbee.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208195637id_/http%3A//wefbee.com/privacypolicy.php) for the most accurate reproduction.*
 
 # WefBee - Auto Group Poster | Auto Page Poster | Autoliker | Auto-Commenter | Fb Status Via
 
@@ -47,4 +47,4 @@
 
 Wefbee is a Facebook Auto Group Poster, Auto Page Poster, Autoliker, Auto-Commenter, Bot liker/commenter, Fb Status via tools website. You can share post in multiple groups or pages in single click with our Auto Group Poster and Auto Page Poster. Also you can update your facebook status via expensive phones.
 
-[Click here..!!](https://web.archive.org/web/20160617014903id_/http%3A//wefbee.com/about.php) to read more About Us.
+[Click here..!!](https://web.archive.org/web/20161208195637id_/http%3A//wefbee.com/about.php) to read more About Us.
