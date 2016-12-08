@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gptreasure.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222200612id_/http%3A//www.get-paid.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gptreasure.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208190754id_/http%3A//www.get-paid.com/privacy.php) for the most accurate reproduction.*
 
 # Make Money Online with Get Paid - (GPTreasure)
 
@@ -7,16 +7,16 @@ Please read this privacy policy to learn more about:
   * What personally identifiable information of yours is collected by
   * How the information is used;
   * How you can access and change your account information;
-  * How you will receive notice of changes in this privacy policy; and
+  * How you will receive notice of changes in this privacy policy;
   * How to contact Get-Paid.com
 
 
 
-To become a member of Get-Paid.com, you must register and create an account on the Get-Paid.com website. The only information that Get-Paid.com collects is the information you provide through the Get-Paid.com registration process, and the information you provide when you update your payment options. This information includes your first and last name, your email address, your Internet Protocol Address ("IP address"), and other contact information. Your IP address is recorded when you register, so that Get-Paid.com can enforce its one account per person policy and other provisions of our
+To become a member of Get-Paid.com, you must register and create an account on the Get-Paid.com website. The only information that Get-Paid.com collects is the information you provide through the Get-Paid.com registration process, and the information you provide when you update your payment options. This information includes your first and last name, your email address, your Internet Protocol Address ("IP address"), and other contact information. Your IP address is recorded when you register, so that Get-Paid.com can enforce its one account per person policy.
 
 In the event that you subscribe to or opt-in a Third-Party offer, Get-Paid.com may provide your information to the Third-Party in order to directly faciliate the relationship between you and the advertiser.
 
-Your email address may also be used for tracking purposes, when you complete offers, so that Get-Paid.com can determine that you completed the offers. Get-Paid.com will also use your email address to send you the Get-Paid.com newsletters, unless you have opted out of receiving such newsletters. You can OPTOUT anytime by going to 
+Your email address may also be used for tracking purposes, when you complete offers, so that Get-Paid.com can determine that you completed the offers. Get-Paid.com will also use your email address to send you the Get-Paid.com newsletters, unless you have opted out of receiving such newsletters. You can OPTOUT anytime by going to your profile settings.
 
 Get-Paid.com is committed to protect its users' privacy, and will not share this information with anyone else, beside in the cases mentioned above.
 
