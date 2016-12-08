@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the premiumcoding.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317025059id_/https%3A//premiumcoding.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumcoding.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208022333id_/https%3A//premiumcoding.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | PremiumCoding Store
+# PRIVACY POLICY - PremiumCoding
 
 The Premiumcoding Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. Premiumcoding references in this document to “us,” “our,” and “we”.
 
@@ -10,10 +10,10 @@ When you visit our website you may provide us with two types of information: per
 
 #### 1\. PERSONAL INFORMATION YOU CHOOSE TO PROVIDE
 
-**Registration Information**  
+ **Registration Information**  
 You will provide us information about yourself, your firm or company, and your practices when you purchase Premiumcoding products and services, register for forum support, or register for email newsletters and alerts.
 
-**Email Information**  
+ **Email Information**  
 If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
 
 #### 2\. WEBSITE USE INFORMATION
@@ -64,5 +64,3 @@ We are not responsible for the practices employed by websites linked to or from 
 #### YOUR CONSENT
 
 By using this site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on this site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
-
-This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept [Read More](https://premiumcoding.com/delovna/cookies/)
