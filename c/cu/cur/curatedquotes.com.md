@@ -1,135 +1,166 @@
-> *The following text is extracted and transformed from the curatedquotes.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521171151id_/http%3A//www.curatedquotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curatedquotes.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208032458id_/http%3A//www.curatedquotes.com/privacy) for the most accurate reproduction.*
 
-# curatedquotes.com | Privacy Policy
+# Privacy Policy for Curartedquotes.com - Curated Quotes
 
-**What information do we collect?**
+Last updated: 02/7/15
 
-We collect information from you when you register on our site or subscribe to our newsletter. 
+## Data Controller and Owner
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+Indian Summer Media,
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+michael At curatedquotes (dot) com
 
- **DoubleClick DART Cookie**
+## Types of Data collected
 
-.:: Google, as a third party vendor, uses cookies to serve ads on curatedquotes.com.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to curatedquotes.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
+Among the types of Personal Data that this Application collects, by itself or through third parties, there are:  
+Cookie, Usage Data and Email.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
-Google Adsense   
-Commission Junction   
-Widget Bucks   
-Adbrite   
-Clickbank   
-Epic / Azoogle   
-Chitika   
-Linkshare   
-Amazon   
-Kontera   
-Advertising.com   
-CPAStorm   
-Burst   
-Valueclick   
-InfoLinks   
-Vibrant Media   
-24/7 Real Media   
-Tribal Fusion   
-Casale   
-Tremor Media   
-Adify   
+Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.  
+The Personal Data may be freely provided by the User, or collected automatically when using this Application.  
+Any use of Cookies – or of other tracking tools – by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.  
+Failure to provide certain Personal Data may make it impossible for this Application to provide its services.
 
+The User assumes responsibility for the Personal Data of third parties published or shared through this Application and declares to have the right to communicate or broadcast them, thus relieving the Data Controller of all responsibility.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on curatedquotes.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+## Mode and place of processing the Data
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
+## Method of processing
 
-curatedquotes.com has no access to or control over these cookies that are used by third-party advertisers. 
+The Data Controller processes the Data of Users in proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification or unauthorized destruction of the Data.  
+The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Data Controller, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of the site (administration, sales, marketing, legal, system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Data Controller at any time.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. curatedquotes.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+## Place
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
+The Data is processed at the Data Controller headquarters, unless stated otherwise in the rest of this document.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+## Conservation Time
 
-**What do we use your information for?**
+The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request the Data Controller for their suspension or removal.
 
-Any of the information we collect from you may be used in one of the following ways: 
+## The use of the collected Data
 
-\- To personalize your experience  
-(your information helps us to better respond to your individual needs)
+The Data concerning the User is collected to allow the Application to provide its services, as well as for the following purposes:  
+Analytics, Advertising, Content commenting and Displaying content from external platforms.
 
-\- To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+The Personal Data used for each purpose is outlined in the specific sections of this document.
 
-\- To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+## Detailed information on the processing of Personal Data
 
-\- To process transactions
+Personal Data is collected for the following purposes and using the following services:
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+## Advertising
 
-\- To administer a contest, promotion, survey or other site feature
+These services allow User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this Application, possibly based on User interests.  
+This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.  
+Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside this Application. For more information, please check the privacy policies of the relevant services.
 
-\- To share with our third party marketing partners so they may send you offers for goods and services which you may find of interest
+#### Google AdSense (Google)
 
-\- To send periodic emails
+Google AdSense is an advertising service provided by Google Inc. This service uses the “Doubleclick" Cookie, which tracks use of this Application and User behavior concerning ads, products and services offered.  
+Users may decide to disable all the Doubleclick Cookies by clicking on: [google.com/settings/ads/onweb/optout?hl=en](http://www.google.com/settings/ads/onweb/optout?hl=en).
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, advertisements etc. The email address you provide to subscribe to a newsletter, receive information or enter to win a prize may be used to send you information and updates, relevant content and advertisements.
+Personal Data collected:  
+Cookie and Usage Data.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+Place of processing: USA  
+–
 
- **How do we protect your information?**
+[Privacy Policy](http://google.com/privacy/ads/)
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+#### Direct Email Marketing (DEM) (This Application)
 
-**Do we use cookies?**
+This Application uses the User Data to propose services and products provided by third parties or unrelated to the product or service provided by this Application.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Personal Data collected:  
+Email.
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+#### Direct Email Marketing (DEM) (This Application)
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+This Application uses the User Data to propose services and products provided by third parties or unrelated to the product or service provided by this Application.
 
- **Do we disclose any information to outside parties?**
+Personal Data collected:  
+Email.
 
-Other than described in this privacy policy, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, third party marketers, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+## Analytics
 
-**Third party links**
+The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+#### Google Analytics (Google)
 
- **California Online Privacy Protection Act Compliance**
+Google Analytics is a web analysis service provided by Google Inc. (“Google"). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.  
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+Personal Data collected:  
+Cookie and Usage Data.
 
- **Childrens Online Privacy Protection Act Compliance**
+Place of processing: USA  
+–
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+[Privacy Policy](http://www.google.com/intl/en/policies/privacy/)  
+–
 
- **Online Privacy Policy Only**
+[Opt Out](http://tools.google.com/dlpage/gaoptout?hl=en)
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
+## Comment Commenting
 
-**Your Consent**
+Content commenting services allow Users to make and publish their comments on the contents of this Application.  
+Depending on the settings chosen by the Owner, Users may also leave anonymous comments. If there is an email address among the Personal Data provided by the User, it may be used to send notifications of comments on the same content. Users are responsible for the content of their own comments.  
+If a content commenting service provided by third parties is installed, it may still collect web traffic data for the pages where the comment service is installed, even when users do not use the content commenting service.
 
-By using our site, you consent to our web site privacy policy. 
+#### Disqus (Disqus)
 
-**Changes to our Privacy Policy**
+Disqus is a content commenting service provided by Big Heads Labs Inc.
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+Personal Data collected:  
+Cookie and Usage Data.
 
-**Contacting Us**
+Place of processing: USA  
+–
 
-If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
+[Privacy Policy](http://docs.disqus.com/help/30/)
 
-2885 Sanford Ave  
-SW #19781  
-Grandville, MI 49418  
-USA 
+## Displaying Content from other sources
 
-curatedquotes.com 
+These services allow you to view content hosted on external platforms directly from the pages of this Application and interact with them.  
+If a service of this kind is installed, it may still collect web traffic data for the pages where the service is installed, even when users do not use it.
 
-Email:  
-contact@curatedquotes.com  
+#### Youtube video (Google)
 
+Youtube is a video content visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.
+
+Personal Data collected:  
+Cookie and Usage Data.
+
+Place of processing: USA  
+–
+
+[Privacy Policy](http://www.google.it/intl/en/policies/privacy/)
+
+## Additional information about Data collection and processing
+
+## Legal Action
+
+The User’s Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services.
+
+## Additional Information about User’s Personal Data
+
+In addition to the information in this privacy policy, this Application may provide the User with contextual information concerning particular services or the collection and processing of Personal Data.
+
+## System Logs and Maintenance
+
+For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System Logs) or use for this purpose other Personal Data (such as IP Address).
+
+## Information not contained in this policy
+
+More details concerning the collection or processing of Personal Data may be requested from the Data Controller at any time at its contact information.
+
+## The rights of Users
+
+Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Controller at the contact information set out above.
+
+This Application does not support “do not track" requests.  
+To understand if any of the third party services it uses honor the “do not track" requests, please read their privacy policies.
+
+## Changes to this privacy policy
+
+The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request the Data Controller to erase the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users.
