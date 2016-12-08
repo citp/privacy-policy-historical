@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solveerrors.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522160855id_/http%3A//www.solveerrors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solveerrors.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208192551id_/http%3A//www.solveerrors.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SolveErrors.com
 
