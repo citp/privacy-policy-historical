@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotsquares.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614034200id_/http%3A//www.dotsquares.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotsquares.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208150128id_/http%3A//www.dotsquares.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dotsquares
 
