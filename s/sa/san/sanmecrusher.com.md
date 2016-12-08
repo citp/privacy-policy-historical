@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanmecrusher.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630195224id_/http%3A//www.sanmecrusher.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanmecrusher.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208153032id_/http%3A//www.sanmecrusher.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # SANME Privacy Policyt - SANME
 
