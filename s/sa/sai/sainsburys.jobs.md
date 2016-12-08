@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sainsburys.jobs privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630023155id_/http%3A//sainsburys.jobs/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sainsburys.jobs privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208015432id_/http%3A//sainsburys.jobs/information/privacy) for the most accurate reproduction.*
 
 # Privacy - Sainsbury's Jobs
 
@@ -73,7 +73,7 @@ If you:
 
 Please contact us at:
 
-Sainsbury's HR Shared Service,  
+Sainsbury's HR Services,  
 18th Floor, Arndale House,  
 Manchester Arndale,  
 Manchester, M4 3AL
