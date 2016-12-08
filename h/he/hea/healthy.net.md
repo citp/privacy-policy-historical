@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthy.net privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018022659id_/http%3A//www.healthy.net/members/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthy.net privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208073521id_/http%3A//www.healthy.net/members/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Natural and alternative health and wellness mega-site
 
@@ -22,16 +22,22 @@ HealthWorld Online does not disclose, share, sell or trade any personal or indiv
 
 HealthWorld Online uses a secure server for any ordering and credit card information you provide. The servers use Secure Sockets Layer (SSL), an advanced encryption technology that safeguards your personal information and guarantees privacy. Our check-out process is certified secure and verified by GeoTrust (www.geotrust.com) and we are an Authorize.net certified merchant.
 
-| **"Health is a consumation of a love affair of all the organs of the body."**  
+| **"Health is a state of complete physical, mental and social well-being, and not merely the absence of disease and infirmity."**  
 ---  
   
 | 
 
-Vegan Global Fusion
+Simply Well
 
-| [Roasted Asparagus: Spring has Sprung](https://web.archive.org/scr/Column.aspx?Id=1177)  
+| [Connect with Nature](https://web.archive.org/scr/Column.aspx?Id=478)  
 ---  
-The asparagus is starting to come up and I am ready. My favorite way to eat asparagus is to snap it off and eat it raw, grazing in the garden. My next favorite way it to roast it. Roasting does an... [ more](https://web.archive.org/scr/Column.aspx?Id=1177)  
+The human body needs the touch of nature along with the touch of human skin. Yet too many people have dulled their senses and thus silenced that need. It’s easy to go several months without ever touching... [ more](https://web.archive.org/scr/Column.aspx?Id=478)  
+  
+Fabulous Functional Foods
+
+[Hazelnut Bread](https://web.archive.org/scr/Column.aspx?Id=114)  
+---  
+Imagine a bread every bit as substantial and savory as wholegrain bread, but containing no grains. Danish chef Oscar Umahro Cadogan brings us this recipe for “Hazelnut Bread” which is suitable for people... [ more](https://web.archive.org/scr/Column.aspx?Id=114)  
   
 Popular & Featured Events
 
