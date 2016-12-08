@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the directpaysystem.net privacy policy that was archived on 2016-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160216161832id_/http%3A//directpaysystem.net/docs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directpaysystem.net privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208173446id_/http%3A//sixfigureempire.com/disclaimers/privacy.html) for the most accurate reproduction.*
 
-# DIRECT PAY SYSTEM
+# PRIVACY POLICY
 
-PRIVACY POLICY
-
-**Privacy Policy For www.DIRECTPAYSYSTEM.com**
-
-Welcome to www.DirectPaySystem.com (the “Site”). We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by www.DirectPaySystem.com (collectively, “Services”) (“Authorized Customers”).
+Welcome to www.SixFigureEmpire.com (the “Site”). We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by www.SixFigureEmpire.com (collectively, “Services”) (“Authorized Customers”).
 
 “Personally Identifiable Information” refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
 
@@ -30,7 +26,7 @@ We may share aggregated information about our Visitors, including the demographi
 
 **How is Personally Identifiable Information stored?**
 
-Personally Identifiable Information collected by Direct Pay System is securely stored and is not accessible to third parties or employees of www.DirectPaySystem.com except for use as indicated above.
+Personally Identifiable Information collected by Six Figure Empire is securely stored and is not accessible to third parties or employees of www.SixFigureEmpire.com except for use as indicated above.
 
 What choices are available to Visitors regarding collection, use and distribution of the information?
 
@@ -40,13 +36,13 @@ Visitors and Authorized Customers may opt out of receiving unsolicited informati
 
 Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
-**How does www.DirectPaySystem.com use login information?**
+**How does www.SixFigureEmpire.com use login information?**
 
-www.DirectPaySystem.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
+www.SixFigureEmpire.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
 
 What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?
 
-www.DirectPaySystem.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information.
+www.SixFigureEmpire.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information.
 
 Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
 
@@ -61,11 +57,3 @@ We provide Visitors and Authorized Customers with a mechanism to delete/deactiva
 **What happens if the Privacy Policy Changes?**
 
 We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
-
-© Copyright 2013-2016, No Competition Marketing, LLC. All Rights Reserved.
-
-Direct Pay System  
-2789 E. State St.  
-Suite 185  
-Salem Ohio 44460  
-330.881.3026
