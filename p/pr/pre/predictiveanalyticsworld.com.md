@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the predictiveanalyticsworld.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322114057id_/http%3A//www.predictiveanalyticsworld.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predictiveanalyticsworld.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208030612id_/http%3A//www.predictiveanalyticsworld.com/privacy.php) for the most accurate reproduction.*
 
 # Predictive Analytics World Conference - Privacy Policy
 
