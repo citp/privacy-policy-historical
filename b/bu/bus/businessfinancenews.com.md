@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessfinancenews.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515015113id_/http%3A//www.businessfinancenews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessfinancenews.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208032358id_/http%3A//www.businessfinancenews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
