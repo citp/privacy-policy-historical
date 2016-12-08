@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codecollege.ca privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528100400id_/http%3A//codecollege.ca/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codecollege.ca privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208231517id_/http%3A//codecollege.ca/p/privacy) for the most accurate reproduction.*
 
 # Code College Privacy Policy | Code College
 
