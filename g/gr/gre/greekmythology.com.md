@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greekmythology.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615004649id_/http%3A//www.greekmythology.com/about/%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greekmythology.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208123207id_/http%3A//www.greekmythology.com/about/%23privacypolicy) for the most accurate reproduction.*
 
 # About | Contact | Disclaimer | Privacy Policy
 
