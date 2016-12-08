@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jjbsports.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516201411id_/http%3A//www.jjbsports.com/customerservices/otherinformation/securityandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jjbsports.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208131324id_/http%3A//www.jjbsports.com/customerservices/otherinformation/securityandprivacy) for the most accurate reproduction.*
 
 # Security and Privacy | JJBSports.com
-
-Look no further to find answers to some of our most frequently asked questions.
 
 We view your customer security as paramount, below is an outline of our security policy but if you have any further queries, please contact our Customer Service team. Any personal information you provide to us and from which you can be identified is stored securely and confidentially and is processed fairly and lawfully in accordance with this privacy policy
 
