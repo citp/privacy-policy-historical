@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gmi-mr.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512184233id_/http%3A//www.lightspeedgmi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmi-mr.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208081057id_/http%3A//www.lightspeedresearch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Lightspeed GMI
+# Privacy Policy - Lightspeedresearch
 
 ## Privacy Policy
 
-We have created this privacy policy in order to demonstrate our commitment to your privacy. The following discloses our practices for the collection and use of information solely in connection with the web site and service located at www.lightspeedgmi.com (the “Service”). By using or accessing the Service, you signify your assent to our Privacy Policy.
+We have created this privacy policy in order to demonstrate our commitment to your privacy. The following discloses our practices for the collection and use of information solely in connection with the web site and service located at www.lightspeedresearch.com (the “Service”). By using or accessing the Service, you signify your assent to our Privacy Policy.
 
 IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE SERVICE. THIS SERVICE IS SUBJECT TO THE TERMS OF USE.
 
