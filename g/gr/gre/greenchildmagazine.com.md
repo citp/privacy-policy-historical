@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the greenchildmagazine.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606195407id_/http%3A//www.greenchildmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenchildmagazine.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208154913id_/http%3A//www.greenchildmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.greenchildmagazine.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
-
 **Fresh Green Media, LLC Privacy Policy**  
-Updated on April 15, 2013.
+Updated on August 23, 2016
 
 At Fresh Green Media, LLC (parent company of Green Child Magazine), your privacy is important to us. This privacy policy applies to all websites, apps, services and publications provided by Fresh Green Media, LLC (FGM, LLC).
 
 We value our relationship with you and provide this policy to better protect your privacy and explain how your information is used by FGM, LLC.
 
-If you ever have any questions about our privacy policy, magazine, website or parent company FGM, LLC please feel free to contact us at info@freshgreenmediall.com or by post at the address below:
+If you ever have any questions about our privacy policy, magazine, website or parent company FGM, LLC please feel free to contact us at info@freshgreenmediallc.com or by post at the address below:
 
-**Fresh Green Media, LLC**  
+Fresh Green Media, LLC  
 P.O. Box 14423  
 Gainesville, FL 32607
 
@@ -47,11 +45,15 @@ We use cookies to understand and save your preferences for future visits and com
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Third party links.**
+**Third party links**
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**Childrens Online Privacy Protection Act Compliance**
+Affiliate Disclosure
+
+Green Child Magazine is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by linking to products we feel our readers may find helpful on [amazon.com](http://amzn.to/2beL8dO).
+
+**Children’s Online Privacy Protection Act Compliance**
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
@@ -62,5 +64,3 @@ By using our site, you consent to our websites privacy policy.
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page.
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.greenchildmagazine.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
