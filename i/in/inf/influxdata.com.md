@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the influxdata.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316202425id_/https%3A//influxdata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the influxdata.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208124032id_/https%3A//www.influxdata.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | InfluxData
 
