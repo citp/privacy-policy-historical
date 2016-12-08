@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readingeggs.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626212838id_/http%3A//readingeggs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingeggs.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208221032id_/http%3A//readingeggs.com/privacy) for the most accurate reproduction.*
 
 # Privacy – Reading Eggs
 
@@ -24,9 +24,29 @@ We may use the information we collect from you when you register, purchase produ
 
 
 
-### How do we protect visitor information?
+### Reading Eggs data storage and security
 
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+#### Limiting access to education records
+
+Education records are only accessible to users who are logged in and have been successfully authenticated by entering a username and password. Students are only able to access their own progress, and teachers can only view students from within their school.
+
+Student and teacher data can only be accessed by Blake eLearning staff and partners. Data is never shared with third parties without explicit permission.
+
+#### Management of historical data
+
+When a subscription to the application expires, we retain the data in our database. If the school would like this data to be deleted, they can contact our customer service team and we will be happy to oblige.
+
+#### Challenging the accuracy of student or teacher data
+
+If a teacher believes there is a problem with any data that has been collected, they can contact our customer service team and we will investigate the matter. If a problem is identified, we will seek a solution to fix it.
+
+#### Ensuring data is secure and protected
+
+Student and teacher data is stored in a secure database on Amazon Web Services (AWS). Access to these servers is limited to the application, and by software developers at Blake eLearning, via secure shell.
+
+Passwords for users of the system are encrypted using salt and hash technologies.
+
+All data transferred within Reading Eggs is protected by SSL. SSL is a technology that makes your data illegible in transit. If anyone were to intercept communication between our servers and your computer, they would not be able to easily decipher what was being passed back and forth.
 
 ### Do we use "cookies"?
 
@@ -76,3 +96,5 @@ This website is published by Blake Publishing, with support from 3P Learning.
 The ABC Connect trade mark is used under license by the Australian Broadcasting Corporation.
 
 This Privacy Statement has been developed in accordance with the Australian Privacy Act 1988 (Cth), the United Kingdom Privacy Protection Act 1998 and the United States Children’s Online Privacy Protection Act and Rule as administered by the Federal Trade Commission.
+
+Policy last updated: November 2016
