@@ -1,100 +1,109 @@
-> *The following text is extracted and transformed from the coachup.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411054943id_/https%3A//www.coachup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachup.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208161406id_/https%3A//www.coachup.com/privacy) for the most accurate reproduction.*
 
 # Privacy | CoachUp
 
-###### Effective on April 29, 2014
+This Privacy Policy explains how information about you is collected, used and disclosed by CoachUp, Inc. ( ** _"CoachUp,"_** **_"we," "us"_** or **_"our"_** ) when you access or use our website, mobile application and other online products and services (collectively, our "Services") or when you otherwise interact with us. 
 
-This privacy statement describes how CoachUp collects and uses the personal information You provide on our website: [coachup.com](https://www.coachup.com/). It also describes the choices available to You regarding our use of Your personal information and how You can access and update this information.
+We may change this Privacy Policy from time to time. If we make changes, we will revise the "Last Updated" date above and attempt to provide additional notice by sending an email to the address associated with your account or through our Services. We encourage you to review this Privacy Policy whenever you access or use our Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.
 
-### Collection and Use of Personal Information
+### COLLECTION OF INFORMATION
 
-We collect the following personal information from You if You choose to become a Member and register with us:
+**Information You Provide to Us**
 
-  * Contact Information such as name, email address, billing address, phone number
-  * Billing Information such as credit card number, and billing address
-  * Unique Identifiers such as user name, account number, password
-  * Demographic information such as age, education, gender, interests and zip code
-  * Additional detailed background information in connection with Background Checks (see Information Sharing section, below)
+We collect information you provide directly to us. The types of information we may collect include:
 
-
-
-In addition, as is true of most Web sites, even if You do not register or become a Member we automatically gather information about Your computer such as Your IP address, browser type, referring/exit pages, and operating system. This information does not include personally identifiable information about You, however.
-
-**We use this information to**
-
-  * Fulfill Your order
-  * Send You an order confirmation
-  * Assess the needs of Your business to determine suitable products
-  * Send You requested product or service information
-  * Send product updates or warranty information
-  * Respond to customer service requests
-  * Administer Your account
-  * Send You a newsletter
-  * Send You marketing communications
-  * Respond to Your questions and concerns
-  * Improve our Web site and marketing efforts
-  * Conduct research and analysis
-  * Choice/Opt-Out
-  * Confirm Your adherence to the CoachUp Terms of Service (“Terms”)
+  * **Account Information** , such as your name, email address, password, age, gender, postal address, phone number, photos, bio and any other information you choose to provide;
+  * **Training Information** , such as the sports and positions you play or coach, time and duration of training and training location;
+  * **Transaction Information** , such as the coaching services you purchase or offer for sale through our Services. We may also collect and store limited payment information from you, such as payment card type and expiration date and the last four digits of your payment card number; however, we do not collect or store full payment card numbers and all transactions are processed by our third party payment processor. If you offer services for sale through our Services, we will also collect your bank account information;
+  * **Information About Others** , such as photos of users receiving coaching services and the names, email addresses and other information about individuals you invite to use our Services, register to receiving coaching services or authorize to receive notifications; and
+  * **Other Information You Choose to Provide** , such as when you participate in a survey, contest, promotion, quiz or interactive area of the Services, request technical or customer support, communicate with us via third-party social media services or otherwise communicate with us.
 
 
 
-You may choose not to provide the information above, but if You do, CoachUp reserves the right to cancel Your membership and/or to stop using Your services as a CoachUp Coach. Also, You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or You can contact us at [support@coachup.com](mailto:support@coachup.com).
+**Information We Collect Automatically When You Use the Services**
 
-#### Information Sharing
+When you access or use our Services, we automatically collect information about you, including:
 
-We will share Your personal information with third parties only in the ways that are described in this privacy statement and as may be further described at the time that You provide the requested information.
+  * **Log Information:** We collect log information about your access to and use of our Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.
+  * **Device Information:** We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, unique device identifiers and mobile network information.
+  * **Location Information:** With your consent (e.g. if you permit your mobile device to send us your latitude and longitude), we will collect location information when you access or use our Services and, if permitted by your device settings, in the "background" (i.e. at times when you are not directly using our Services). For more details, please see "Your Choices" below.
+  * **Information Collected by Cookies and Other Tracking Technologies:** We and our service providers use various technologies to collect information, including cookies, web beacons, web storage and device identifiers. For more information about cookies, and how to disable them, please see "Your Choices" below.
 
-We do not sell Your personal information to third parties, however, we will provide it to third parties who need the information to process Your orders, conduct criminal background, sex offender or other checks on a Member’s credentials or personal history (“Background Checks”) or to provide services (such as for payment processing in connection with Your Membership). Any such third parties will only use Your personally identifiable information in connection with the fulfillment of Services or to perform Background Checks, or in connection with the disclosure of the results of such Background Checks as authorized by Your acceptance of our Terms, or to communicate with You about the Services.
 
-Without limiting any other provision of this Policy or our Terms, we may share (and You expressly authorize us to share): Your personal information with third-party verification service providers for the purpose of performing Background Checks that You authorize when You sign up for our Services. You also expressly authorize us to release the results of any Background Checks that we obtain relating to You with any other Member who has requested said data in connection with the Services. In particular, we reserve the right to share, and You expressly authorize us to share the results of Your Background Check with, if You are a Coach, any other Member who has engaged You for coaching services, and if You are a Coach Seeker, with any Coach who has provided or agreed to provide You or a Minor Athlete with coaching services. You may decide not to grant permission for Background Checks, or to rescind permission to do so, but if You do, CoachUp may immediately terminate Your membership without further obligation of any kind.
 
-**Because Background Checks are from third party providers, CoachUp disclaims all responsibility and liability for the results of said Background Checks.**
+**Information We Collect from Other Sources**
 
-Furthermore, we may also disclose Your personal information as required by law such as to comply with a subpoena, or similar legal process, or when we believe in good faith that disclosure is necessary to protect our rights, protect Your safety or the safety of others, investigate fraud, or respond to a government request. We also reserve the right, if CoachUp is involved in, to disclose any information You have provided to a third party who acquires CoachUp via a merger, acquisition, or sale of all or a portion of its assets. In such case, You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of Your personal information, as well as any choices You may have regarding Your personal information, to any other third party with Your prior consent to do so.
+We may also obtain information from other sources and combine that with information we collect through our Services. For example, we may collect information about you from third parties, including from other users, identity verification services, mailing list providers and publicly available sources. If you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and email address, in accordance with the authorization procedures determined by such social media site.
 
-#### Cookies and Other Tracking Technologies
+### USE OF INFORMATION
 
-We use another company to place cookies on Your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our website.
+We may use information about you for various purposes, including to:
 
-We use Remarketing with Google Analytics to advertise online.
+  * Provide, maintain and improve our Services;
+  * Provide and deliver the products and services you request, process payments and other transactions and send you related information;
+  * Manage your account and send you related information, including confirmations, updates, technical notices, security alerts and support and administrative messages;
+  * Respond to your comments, questions and requests and provide customer service;
+  * Communicate with you about products, services, offers, promotions, rewards, and events offered by CoachUp and others, and provide news and information we think will be of interest to you;
+  * Monitor and analyze data, trends, usage and activities in connection with our Services;
+  * Measure the effectiveness of advertising, content, features and activities, and perform other data analytics;
+  * Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of CoachUp and others;
+  * Personalize and improve our Services and provide advertisements, content and features that match user profiles or interests;
+  * Facilitate contests, sweepstakes and promotions and process and deliver entries and rewards;
+  * Link or combine with information we get from others to help understand your needs and provide you with a better experience; and
+  * Carry out any other purpose for which the information was collected.
 
-Third-party vendors, including Google, show CoachUp ads on sites across the Internet.
 
-CoachUp and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on past visits to our website.
 
-If You would like to opt-out of the above, please visit the Ads Preferences Manager: [HERE](https://www.google.com/settings/ads/onweb/).
+CoachUp is based in the United States and the information we collect is governed by U.S. law. By accessing or using our Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries.
 
-#### Web Beacons
+### SHARING OF INFORMATION
 
-Our web pages may also contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by our third party partners. Web beacons are used along with cookies enabling our partners to compile aggregated statistics to analyze how our website is used.
+We may share information about you as follows or as otherwise described in this Privacy Policy:
 
-We use a third party to gather information about how You and others use our website. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our website is used.
+  * With vendors, consultants and other service providers who need access to such information to carry out work or perform services on our behalf;
+  * When you create a profile, participate in the interactive areas of our Services or interact with us on third-party social media sites, certain information that you provide may be displayed publicly, such as your name, profile photo and other information you choose to provide;
+  * In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, rule, regulation or legal process;
+  * If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property or safety of CoachUp or others;
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;
+  * Between and among CoachUp and any current or future parent, subsidiary and/or affiliated company; and
+  * With your consent or at your direction.
 
-#### Links to Other Websites
 
-Our website includes links to other websites whose privacy practices may differ from those of CoachUp. If You submit personal information to any of those sites, Your information is governed by their privacy statements. We encourage You to carefully read the privacy statement of any website You visit.
 
-#### Security
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
 
-The security of Your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If You have any questions about security on our website, You can contact us at [support@coachup.com](mailto:support@coachup.com).
+### SOCIAL SHARING FEATURES
 
-We may provide two means for You to make a purchase on our website. You can either use our order form or a third party payment option. If You use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If You choose to use a third party payment option to pay for Your order, its privacy statement and security practices will apply to Your information. We encourage You to read that privacy statement.
+The Services may offer social sharing features and other integrated tools (such as the Facebook "Like" button), which let you share actions you take on our Services with other media. Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
 
-#### Additional Policy Information
+### ADVERTISING AND ANALYTICS SERVICES PROVIDED BY OTHERS
 
-Our website offers publicly accessible blogs or community forums. You should be aware that any information You provide in these areas may be read, collected, and used by others who access them.
+We may allow others to serve advertisements on our behalf and provide analytics services. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of our Services and other applications and websites, including your IP address, web browser, device type, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other applications and websites and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](https://web.archive.org/web/20161208161406id_/https%3A//www.coachup.com/www.aboutads.info/choices). Your device may also include a feature ("Limit Ad Tracking" on iOS and "Opt out of Interest-Based Ads" on Android) that allows you to opt out of having certain information collected through apps used for behavioral-advertising purposes.
 
-#### Correcting and Updating Your Personal Information
+### YOUR CHOICES
 
-To review and update Your personal information to ensure it is accurate, contact us at [support@coachup.com](mailto:support@coachup.com).
+**Account Information**
 
-#### Notification of Privacy Statement Changes
+You may access, update, correct or delete information about you at any time by accessing your account dashboard. If you wish to deactivate your account, please visit our contact page and submit a message lettin us know you would like to deactivate your account, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify You by email (sent to the e-mail address specified in Your account) or by means of a notice on this website prior to the change becoming effective. We encourage You to periodically review this page for the latest information on our privacy practices.
+**Location Information**
 
-#### Contact Information
+When you first launch any of our mobile applications that collect location information, you will be asked to consent to the application's collection of this information. If you initially consent to our collection of location information, you can subsequently stop the collection of this information at any time by changing the preferences on your mobile device. You may also stop our collection of location information by following the standard uninstall process to remove all of our mobile applications from your device.
 
-You can contact us about this privacy statement by phone: [1 (888) 680 - 4750](tel:18886804750) or email: [support@coachup.com](mailto:support@coachup.com).
+**Cookies and Web Storage**
+
+Most web browsers are set to accept cookies and web storage by default. If you prefer, you can usually choose to set your browser to remove or reject cookies and web storage. Please note that if you choose to remove or reject cookies or web storage, this could affect the availability and functionality of our Services.
+
+**Promotional Communications**
+
+You may opt out of receiving promotional emails and text messages from CoachUp by following the instructions in those emails or messages. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
+
+**Push Notifications**
+
+With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device or within our mobile applications.
+
+### CONTACT US
+
+If you have any questions about this Privacy Policy, please contact us at: 355 Congress Street 2nd Floor, Boston, MA 02210, hr@coachup.com, 1-888-680-4750.
 
 * * *
