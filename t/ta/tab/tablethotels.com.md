@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tablethotels.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612150245id_/https%3A//www.tablethotels.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tablethotels.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208135613id_/https%3A//www.tablethotels.com/en/privacy) for the most accurate reproduction.*
 
-# Tablet Hotels | Privacy Policy
+# Privacy Policy | Tablet Hotels
 
 Your privacy is important to us. This Privacy Policy tells you about Tablet's policies and practices for the collection, use and disclosure of information we collect about you through our sites and services, including the website www.tablethotels.com.
 
@@ -48,7 +48,7 @@ We may also offer you the chance to win a variety of travel or hotel-related pri
 
 ## 3\. Use of the Information We Collect
 
-### 3.1. Personal Information
+## 3.1. Personal Information
 
 We don't sell or rent your Personal Information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalize our Products and Services, content and advertising.
 
@@ -68,7 +68,7 @@ Our primary purpose in collecting Personal Information is to provide you with a 
 
 We do not and will not, at any time, request your credit card information, Member ID, password, national identification numbers or related Personal Information in a non-secure or unsolicited e-mail or telephone communication.
 
-### 3.2. Aggregated Information
+## 3.2. Aggregated Information
 
 We may use Aggregated Information to describe our user base to current or potential partners, investors and advertisers; after a survey, to understand and respond to market needs and preferences; or to make recommendations to other users of our Site. For example, if users of our Site who have traveled to a particular destination told us that they had positive experiences at a hotel in that destination, we might recommend that hotel.
 
@@ -89,7 +89,7 @@ Without limiting the above, in an effort to respect your privacy and our ability
 
 ## 5\. Storage, Retention and Protection of Personal Information
 
-### 5.1. Storage and Retention
+## 5.1. Storage and Retention
 
 If you are a Member, we store your Personal Information in [My Account](https://web.archive.org/account). You can access My Account from the home page of our Site, after logging onto our Site. My Account contains your name, e-mail address, e-mail and password settings, and related travel information. It may also contain other information so that you do not need to re-enter it each time you make a Reservation. It may also contain details about your participation in loyalty or awards programs and applicable membership numbers and other travel preferences. We also keep in My Account all other information that you have elected to provide us, such as gender, activities and lifestyle preferences and favorite hotels or destinations. 
 
@@ -103,7 +103,7 @@ We will retain your Personal Information in our databases in accordance with our
 
 Your Personal Information will be stored in secured locations and on servers controlled by Tablet, located either at our offices or at the offices of our service providers as described in "Protection of Information" below.
 
-### 5.2. Protection of Personal Information
+## 5.2. Protection of Personal Information
 
 Tablet employs physical, administrative and technical safeguards to help protect the confidentiality and integrity of Personal Information and to reduce the risk of loss, misuse, unauthorized access, disclosure or modification of Personal Information. When Personal Information is sent to our service providers, we require in our contracts with them that they protect all Personal Information in a manner consistent with the principles articulated in this Privacy Policy.
 
@@ -111,7 +111,7 @@ If you choose to contact Tablet through our Site, you should be aware that any i
 
 In communicating with you, we may send e-mail as unencrypted plain text because we are aware that most Members and Guests cannot readily process encrypted e-mail. This is done for your convenience, but with the security concern that, if misrouted or intercepted, it could be read more easily than encrypted e-mail.
 
-### 5.3. Account Protection
+## 5.3. Account Protection
 
 Your password is the key to your account. Use unique numbers, letters and special characters, and do not disclose your Tablet password to anyone. If you do share your password or your Personal Information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your Personal Information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify Tablet and change your password.
 
@@ -131,19 +131,19 @@ Please remember that we may not be able to honor your request if we are legally 
 
 ## 7\. Privacy
 
-### 7.1. Cookies Generally
+## 7.1. Cookies Generally
 
 We use "cookies" (small files placed on your hard drive) on certain of our pages to help analyze our web page flow; customize our services, content and advertising; measure promotional effectiveness; and promote trust and safety. When you first use our sites and services, Tablet may send a cookie to your computer that identifies you as a unique user. We may use session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them) to store your preferences, identify you and maintain your signed-in status, and provide you with a more personal and interactive experience. You can set your browser to refuse cookies or delete persistent cookies by following your browser's help instructions. If you choose to disable cookies, some of our services may not work properly and you may not be able to buy and sell items on Tablet.
 
 We work with companies who may use cookies and web beacons to collect anonymous information that helps us measure and improve our content and advertising effectiveness. We may share some anonymous, aggregated demographic information (like zip codes) with some of our partners, but we do not share any personally identifiable information. You may encounter cookies from third parties on certain pages of the sites that we do not control.
 
-### 7.2. Third Party Advertisers
+## 7.2. Third Party Advertisers
 
 We work with third parties to serve ads on our Site and to serve ads on sites owned or operated by other companies. Our ad servers, and those of our partners, use cookies and pixel tags in order to anonymously identify your browser. Some third-party ad companies, such as ad networks, may combine anonymous information obtained in connection with activity on our Site with information obtained from other sources and/or sites. We do not use or share any Personal Information with any of our ad server partners, media partners or ad networks without your authorization. 
 
 We use anonymous Session Data, such as the destination of your search, in order to advertise to you on our Site and on other sites. We do not sell your Session Data to any other party in connection with our ad programs but we may use it in order to run ads on behalf of others, such as travel suppliers. If you wish to opt-out of this kind of advertising, you can click on the following link http://www.networkadvertising.org/managing/opt_out.asp. None of our ad programs include any of your Personal Information. By opting out, you may still receive ads from Tablet or ads from other parties that are broadly targeted (not on the basis of your Session Data).
 
-### 7.3. Opting-Out
+## 7.3. Opting-Out
 
 As part of the registration process we give you the ability to receive via e-mail information about Products and Services, updates to our Site and customized advertisements and promotions that are targeted to your specific interests. We send this information directly ourselves or via third party service providers.
 
@@ -153,11 +153,11 @@ At any time you may change which of the communications you wish to receive or no
 
 In addition, in our e-mails and other communications we will include instructions on how to unsubscribe and inform us of preferences if you decide you do not want to receive any future marketing or promotional e-mails from us.
 
-### 7.4. Monitoring
+## 7.4. Monitoring
 
 Tablet may from time to time monitor and review any information transmitted or received through our Site, or through telephone or e-mail communications, for quality assurance and other purposes. We reserve the right to censor, edit, remove or prohibit the transmission or receipt of any information that Tablet deems inappropriate or in violation of our Terms and Conditions. During monitoring the information may be examined, recorded or copied.
 
-### 7.5. Third Parties
+## 7.5. Third Parties
 
 Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others on our sites or other sites throughout the internet, different rules may apply to their use or disclosure of the information you disclose to them. Tablet does not control the privacy policies of third-parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your Personal Information to others.
 
@@ -179,5 +179,3 @@ Tablet Inc.
 6 West 18th Street  
 New York, NY 10011 USA  
 Tablet Inc. is a Delaware, USA Corporation
-
-Back to top ↑
