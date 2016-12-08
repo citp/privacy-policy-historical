@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amny.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324155339id_/http%3A//www.amny.com/services/privacy-policy-1.6635080) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amny.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208143333id_/http%3A//www.amny.com/services/privacy-policy-1.6635080) for the most accurate reproduction.*
 
-# Privacy Policy | am New York
+# amNY - Privacy Policy | am New York
 
 Newsday LLC ("Newsday" or "we") strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience on amNY.com. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number or other information about you that could potentially identify you) subject to the terms of this privacy policy. Please note this policy applies only to information collected by Newsday through amNY.com and does not impact information collected or used by Newsday or its Affiliates through other means.
 
