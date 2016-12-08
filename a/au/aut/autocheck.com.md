@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autocheck.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622235544id_/http%3A//www.autocheck.com/vehiclehistory/autocheck/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autocheck.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208051028id_/http%3A//www.autocheck.com/vehiclehistory/autocheck/en/privacy) for the most accurate reproduction.*
 
 # Your data safety and personal privacy | AutoCheck.com
 
