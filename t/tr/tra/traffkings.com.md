@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traffkings.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317203517id_/http%3A//www.traffkings.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffkings.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208062532id_/http%3A//www.traffkings.com/privacy.php) for the most accurate reproduction.*
 
 # Adshort Lite
 
@@ -64,4 +64,4 @@ Third party links maybe be discovered on our site. These third party links have 
 
 ### 6\. Contacting us
 
-Please feel free to contact us with any questions or problems related to our Privacy Policy, also feel free to contact us with any questions related to our website via our [contact form](https://web.archive.org/web/20160317203517id_/http%3A//www.traffkings.com/contact.php) . 
+Please feel free to contact us with any questions or problems related to our Privacy Policy, also feel free to contact us with any questions related to our website via our [contact form](https://web.archive.org/web/20161208062532id_/http%3A//www.traffkings.com/contact.php) . 
