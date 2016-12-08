@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinephotoshopfree.net privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011083428id_/http%3A//www.onlinephotoshopfree.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinephotoshopfree.net privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208112419id_/http%3A//www.onlinephotoshopfree.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Online Photoshop Free
 
