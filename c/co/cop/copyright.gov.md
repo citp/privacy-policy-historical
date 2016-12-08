@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copyright.gov privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424165508id_/http%3A//copyright.gov/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copyright.gov privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208024751id_/http%3A//www.copyright.gov/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | U.S. Copyright Office
 
