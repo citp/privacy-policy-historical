@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the stunicholls.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419005321id_/http%3A//www.stunicholls.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stunicholls.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209004024id_/http%3A//www.stunicholls.com/privacy.html) for the most accurate reproduction.*
 
 # stu nicholls dot com | Privacy Policy
-
-## Privacy Policy
 
 stunicholls.com takes your privacy seriously. Please read the following information to learn more about my privacy practices.
 
@@ -15,13 +13,13 @@ stunicholls.com takes your privacy seriously. Please read the following informat
 
 I invite you to contact me if you have questions about this privacy policy.
 
-My Internet address is located at [http://www.stunicholls.com](http://www.cssplay.co.uk/)
+My Internet address is located at http://www.stunicholls.com
 
 stunicholls.com  
 Gloucester  
 Gloucestershire, United Kingdom
 
-You may contact me by e-mail at [stu@stunicholls.com](mailto:stu@stunicholls.com)
+You may contact me by e-mail at stu{at}stunicholls.com
 
 ## Dispute Resolution
 
