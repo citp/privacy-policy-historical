@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stiffia.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208095849id_/http%3A//www.stiffia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stiffia.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208064157id_/http%3A//www.stiffia.com/privacy) for the most accurate reproduction.*
 
 # Stiffia Privacy Policy
 
@@ -7,7 +7,7 @@ A note on your privacy
 
 According to the Spanish data protection laws, personal data collected on the Site as provided by You, by registration, purchasing of a membership or other forms, will be used by Manica Media, S.L. to provide You with the services requested and inform You about promotional related activities or new services related to the adult business. By providing us with such data, you consent to such use of such data and any additional use specifically included in the Registration Form.
 
-You may ask us for details on your personal data as hold by us, and you may also ask us to rectify, cancel or refuse such personal data processing by contacting Manica Media, S.L., Pau Claris, 108, atico, Barcelona, Spain, or sending an email to [support@manicamedia.com](mailto:support@manicamedia.com).
+You may ask us for details on your personal data as hold by us, and you may also ask us to rectify, cancel or refuse such personal data processing by contacting Manica Media, S.L., Roger de Lluria 125, 1-1, 08037, Barcelona, Spain, or sending an email to [support@manicamedia.com](mailto:support@manicamedia.com).
 
 We hereby inform you that we may need to disclose personal information when required by law or by Court. We do not share personal data and/or information with third parties except when specifically consented by You when registering or by specific request.
 
