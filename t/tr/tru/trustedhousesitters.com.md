@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustedhousesitters.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185331id_/http%3A//www.trustedhousesitters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedhousesitters.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209001922id_/https%3A//www.trustedhousesitters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TrustedHousesitters.com
 
@@ -8,7 +8,7 @@ We are committed to protecting and respecting your privacy. This Privacy Policy 
 
 This Privacy Policy sets out the basis on which any personal data we collect from you, or that you provide to us including personal information (together, "Information"), will be processed by us. Please read the following carefully to understand our practices regarding your personal Information and how we will treat it. If you do not agree with this Privacy Policy, please do not use our site.
 
-Data Controller: For the purposes of the Data Protection Act 1998 (the Act), the data controller is [TrustedHouseSitters](https://web.archive.org/web/20150607185331id_/) Limited.
+Data Controller: For the purposes of the Data Protection Act 1998 (the Act), the data controller is [TrustedHouseSitters](https://web.archive.org/web/20161209001922id_/) Limited.
 
 Information we may collection from you: Please do not submit your personal information to us if you are not agreeable to our collection of it. By using our site you are agreeing that we may collect and process the following Information about you (without limitation):
 
@@ -49,6 +49,6 @@ Third party privacy policies: Our site may, from time to time, contain links to 
 
 Trustedhousesitters.com uses the Google Maps API for some location based services, it's privacy policy can be viewed at [http://www.google.com/privacy.html](http://www.google.com/policies/privacy/)
 
-Access to Information: The Data Protection Act 1998 gives you the right to access Information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the Information we hold about you.
+Access to Information: The Data Protection Act 1998 gives you the right to access Information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the Information we hold about you. To request the information that we hold about you, please contact [customer services](https://web.archive.org/help/).
 
 Changes to our Privacy Policy: Any changes we may make to our Privacy Policy in the future will be posted on this page and, where we consider appropriate, we may notify you by e-mail in advance of their application.
