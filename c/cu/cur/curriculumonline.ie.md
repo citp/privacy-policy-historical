@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curriculumonline.ie privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518023235id_/http%3A//curriculumonline.ie/Footer/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curriculumonline.ie privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208122044id_/http%3A//curriculumonline.ie/Footer/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
