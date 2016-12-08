@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msde.gov.in privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621202436id_/http%3A//msde.gov.in/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msde.gov.in privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208193136id_/http%3A//msde.gov.in/privacypolicy.html) for the most accurate reproduction.*
 
 # Ministry of Skill Development And Entrepreneurship
 
