@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fivefourclothing.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530133906id_/https%3A//www.fivefourclub.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivefourclothing.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208154726id_/https%3A//www.fivefourclub.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Five Four Club | Clothes Delivered To Your Doorstep. New Hand-Picked Gear Every Month.
 
