@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geeksnack.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405171245id_/http%3A//geeksnack.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeksnack.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208010720id_/http%3A//geeksnack.com/about-geek-snack/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Geek Snack
+# Privacy Policy – Geek Snack
 
 This User Agreement and Privacy Policy governs each website, mobile site, application, and/or other service, regardless of how distributed, transmitted, published, or broadcast (each, a “Service”) provided by Geek Snack, its parent, subsidiaries and/or affiliates (“we,” “us,” or “our”) that links to this User Agreement and Privacy Policy, which is binding on all those who access, visit and/or use the Service, whether acting as an individual or on behalf of an entity, including you and all persons, entities, or digital engines of any kind that harvest, crawl, index, scrape, spider, or mine digital content by an automated or manual process or otherwise (collectively, “you” or “your”).
 
