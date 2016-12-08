@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discounttirecenters.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606075558id_/http%3A//discounttirecenters.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discounttirecenters.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208155042id_/http%3A//discounttirecenters.com/privacy_policy.php) for the most accurate reproduction.*
 
 # DTC Privacy Policy for Discount tires and wheels, truck, 4x4 and suv tires, car rims, car wheels, aftermarket wheels, custom wheels
 
