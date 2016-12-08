@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binaryuno.com privacy policy that was archived on 2016-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160222030639id_/https%3A//www.binaryuno.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binaryuno.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208034728id_/https%3A//www.binaryuno.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Binary Uno: Privacy Policy
 
