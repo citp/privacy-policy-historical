@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investni.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606192751id_/http%3A//www.investni.com/about-us/our-approach/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investni.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208141245id_/http%3A//www.investni.com/about-us/our-approach/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -71,5 +71,3 @@ If you think that our collection or use of information is unfair, misleading or 
 If you require a copy of this notice in an alternative format (including Braille, disk, audio cassette or in minority languages to meet the needs of those who are not fluent in English), then please contact the Equality Team on 028 9069 8273; Text phone 028 9069 8585 or email equality@investni.com. 
 
 * * *
-
-### Please fill in your details below
