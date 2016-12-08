@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gessato.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629170657id_/http%3A//blog.gessato.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gessato.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208033246id_/http%3A//blog.gessato.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Gessato Blog
+# Privacy Policy - Gessato Blog
 
 #### Scope of this Online Privacy Statement
 
@@ -66,22 +66,3 @@ Gessato Blog – blog.gessato.com contains links to other Web sites operated by 
 #### Children and Minors
 
 Gessato Blog – blog.gessato.com is not directed at nor targeted to children. We do not use this site to knowingly solicit personal information from or market to children. If you are under 13 years of age, you should not submit any personal information to us.
-
-### Photographers
-
-We work with photographers documenting creative stories around the world. We’re glad that you are interested in helping us convey our passion through photography.   
-Please send us an email with the subject heading "[#photographers](mailto:info@gessato.com?subject=%23photographers)", a link to your portfolio, your location and suggestions of creative subjects you would like to document for us in your area. 
-
-### Contributors
-
-We are always looking for new contributors to help us document excellence. We are recruiting writers with expertise in our main categories: design, architecture, interior design, lifestyle, art and fashion.   
-Send resume and links to previously published works with the subject heading: "[#contributors](mailto:info@gessato.com?subject=%23contributors)". Please express your area of interest, include two writing samples and social media profiles. 
-
-### Interns
-
-The internship offers recent grads and matriculated students a chance to gain valuable work experience in an engaging and fast-paced editorial environment.   
-We are looking for  
-Visual Production Interns – the role is focused on photography, design, photo-editing, image curation, and other visual media.   
-Editorial Interns – the role requires classic editorial skills, from writing and basic editing to research and reportage. Interns are required to research, compile and produce stories, contribute with their input on layout, and assist with production.Interested applicants should contact us with the subject heading: "[#interns](mailto:info@gessato.com?subject=%23interns)". Please include: An introduction about yourself and why you’d be a great fit for the job: Resume; Links to any previous work; One sample, 200-word article and/or a 10-photo fully edited and captioned photo essay; Areas of interest and short explanation why. 
-
-[Contact](mailto:info@gessato.com)
