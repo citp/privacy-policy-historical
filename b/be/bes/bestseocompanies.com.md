@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestseocompanies.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607131735id_/http%3A//www.bestseocompanies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestseocompanies.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208053520id_/http%3A//www.bestseocompanies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Best SEO Companies
 
@@ -13,7 +13,7 @@ Welcome to BestSEOCompanies.com (the “Site”).
 We understand that privacy online is important to users of our Site, especially when conducting business.  
 This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without  
 transacting business and Visitors who register to transact business on the Site and make use of the various services offered by BestSEOCompanies.com (collectively, “Services”) (“Authorized Customers”).  
- **“Personally Identifiable Information”**  
+**“Personally Identifiable Information”**  
 refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)  
 or demographic information not connected to an identified individual.
 
@@ -40,7 +40,7 @@ Cookies are used for a variety of reasons. We use Cookies to obtain information 
 
  **How does BestSEOCompanies.com use login information?**  
 BestSEOCompanies.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.  
- **What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
+**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
 BestSEOCompanies.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
 Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.  
 Our privacy policy does not cover their collection or use of this information.
