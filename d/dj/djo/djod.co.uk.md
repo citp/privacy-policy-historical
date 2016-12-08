@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the djod.co.uk privacy policy that was archived on 2015-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150207015234id_/http%3A//www.djod.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djod.co.uk privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208184850id_/http%3A//www.djod.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Oli's Blog Privacy Policy
 
 **djod.co.uk** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
