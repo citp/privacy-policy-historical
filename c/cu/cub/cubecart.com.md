@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cubecart.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603145955id_/https%3A//www.cubecart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cubecart.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208063054id_/https%3A//www.cubecart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CubeCart
 
@@ -59,16 +59,8 @@ CubeCart | ccsession | 1 Month | Essential session tracking cookie
 CubeCart | eucookie | 2 Years | Determines of EU cookie note should show or not.  
 [Google](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) | _ga | 2 years | Used to distinguish users  
 [Google](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) | _gat  | 10 minutes | Used to throttle request rate  
-[Olark](https://www.olark.com/help/cookies) | hblid | Unknown | A visitor identifier that we use only on your site to remember this visitor between visits  
-[Olark](https://www.olark.com/help/cookies) | wcsid | Unknown | A session identifier that we use only on your site to keep track of a single chat session  
-[Olark](https://www.olark.com/help/cookies) | olfsk | Unknown | Storage identifier that we use to maintain chat state across pages (e.g. message history)  
-[Olark](https://www.olark.com/help/cookies) | _okbk | Unknown | Extra state information (e.g. chat box being open/closed)  
-[Olark](https://www.olark.com/help/cookies) | _ok | Unknown | Most recent Olark site ID (security measure)  
-[Olark](https://www.olark.com/help/cookies) | _oklv | Unknown | The Olark loader version (for improved caching)  
-[Olark](https://www.olark.com/help/cookies) | _okla | Unknown | Used for caching purposes (loaded from CDN vs. loaded from our infrastructure)  
-[Olark](https://www.olark.com/help/cookies) | _okgid | Unknown | Group id the visitor is locked to  
-[Olark](https://www.olark.com/help/cookies) | _okac | Unknown | Used for caching by setting a hash for assets to determine if they have changed and if they need to be refreshed  
-[Olark](https://www.olark.com/help/cookies) | _okck | Unknown | Used to test whether the visitor's browser allows cookies to be stored  
+ZenDesk Chat | _zlcmid | 1 Year | Stores visitor's machine-id for widget's authentication  
+ZenDesk Chat | _zlcprivacy | 1 Year | Stores visitor's decision on CookieLaw  
   
 ## Disclosure of your Personal Data
 
