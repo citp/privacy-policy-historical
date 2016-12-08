@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsilove.com.au privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608180949id_/http%3A//www.dealsilove.com.au/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsilove.com.au privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208022733id_/http%3A//www.dealsilove.com.au/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily Deals for big savings by Deals I Love
 
