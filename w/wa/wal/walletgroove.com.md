@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the walletgroove.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518021140id_/http%3A//walletgroove.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walletgroove.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208115950id_/http%3A//walletgroove.com/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy
+# Privacy Policy
 
 This privacy policy sets out how WalletGroove uses and protects any information that you give us when you use this website. WalletGroove is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. WalletGroove may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from January 1, 2015.
 
@@ -18,13 +18,13 @@ Additionally, we collect non-personally identifiable information for aggregation
 
 Additionally, WalletGroove utilizes cookies to show our advertisements to you on various websites on the Internet.
 
-You may opt out of Google’s use of cookies by visiting Google’s [Ads Settings](http://www.google.com/settings/ads "Google Ads Settings").
+You may opt out of Google’s use of cookies by visiting Google’s Ads Settings.
 
 **Third Party Vendors**
 
   * Third party vendors, including Google, use cookies to serve ads based on a your prior web site visits.
   * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to WalletGroove and/or other sites on the Internet.
-  * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (or by visiting [aboutads.info](http://www.aboutads.info/).)
+  * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. (or by visiting aboutads.info.)
   * Third parties may use cookies, web beacons, and similar technologies to collect or receive information from your website and elsewhere on the internet and use that information to provide measurement services and target ads.
 
 
