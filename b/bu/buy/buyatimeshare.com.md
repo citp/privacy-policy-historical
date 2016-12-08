@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buyatimeshare.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321113700id_/http%3A//www.buyatimeshare.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyatimeshare.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208102817id_/http%3A//www.buyatimeshare.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Privacy Policy - Buy Sell and Rent Timeshares
+# Privacy Policy
 
 **Your access to and use of this website is governed by the[TERM Of USE](http://www.buyatimeshare.com/terms.asp) and the following PRIVACY NOTICE.  Please read them carefully as they constitute a legally binding agreement applicable to all users of this website.  If you do not agree with these terms, you should refrain from using this website.**
 
