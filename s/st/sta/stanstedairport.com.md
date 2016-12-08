@@ -1,85 +1,78 @@
-> *The following text is extracted and transformed from the stanstedairport.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630141250id_/http%3A//www.stanstedairport.com/help-and-advice/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanstedairport.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208235449id_/http%3A//www.stanstedairport.com/help-and-advice/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice | Stansted Airport
 
-## How we use your information
+This Privacy Policy communicates the way in which your personal data is handled by Stansted Airport and Manchester Airport Group PLC, who both act as data controllers of your personal data. Please read the following carefully to understand how we will use your personal data.
 
-This privacy notice tells you what to expect when Stansted Airport Limited collects personal information via our websites. We take our obligations with regard to your personal information seriously. This privacy notice applies to information we collect about:
+### What information do we collect and how do we use it
 
-  * People who purchase Stansted Airport products and services, e.g. car parking
-  * People who purchase third party services which are offered via Stansted Airport websites, e.g. flights and hotels;
-  * People who subscribe or register to receive information from Stansted Airport, e.g. airport newsletters;
-  * People who participate in Stansted Airport research and surveys;
-  * People who enter competitions;
-  * People who provide feedback to Stansted Airport via our websites; job applicants
-  * Visitors to our website.
+We collect personal data from you while you use our website and our services.
 
+**Purchasing products or services** \- we may collect personal data such as your name, address, flight details, email, telephone number, and car registration number.  We will use this information to supply you with the products and service and keep records about your purchases. We do not store your full payment card details on our server. We do pass your full card details over a secure encrypted link to our third party payment processor who processes your payment.  
 
+**Using our website and our services** \- we will collect statistics about your use of our services, such as what sections of the website you visit and when you arrive at the airport to check-in at meet & greet. We may also collect information about how our website and services are performing. For example, each time you use our website we may automatically collect the following information:
 
-If you are giving us your personal information in the course of purchasing, registering, or subscribing to a service or product, then we will only use your information in order to provide you with that service or for closely related purposes. We use some carefully selected third parties to help us deliver these services and products to you but they are only allowed to use your personal information to deliver the service or product you have purchased, registered or subscribed to. Some of our trusted third parties in supporting these services will transfer your information overseas, but we make sure that your information remains protected and secure.
-
-We will keep your personal information relating to services or products purchased in line with our retention policy which ensures that we keep your details for no longer than is necessary. Your information will be retained in a secure environment and access to it will be restricted according to the 'need to know' principle.
-
-When you purchase certain products and services from Stansted Airport we may send you confirmation emails; these may also include marketing which may be of interest to you. We do our best to tailor this information so that it is useful to you, but if at any time you no longer wish to receive it, you can opt out by following the instructions that we will give you with each communication.
-
-We may also share information about you with our preferred partners, but the information we share with them (e.g. your title and purpose of travel) will be anonymous and they will not be able to identify you from it.
-
-### Future communications
-
-We would like the opportunity to supply you with:
-
-  * Information about Stansted Airport, its related companies and their goods and services, and for general statistical purposes; and
-  * online and offline marketing and promotional purposes. For example, informing you of new airline routes or developments by email, or by sending you direct mail through the normal post which contains information that may be of interest to you.
+  * technical information, including the type of mobile device you use, a unique device identifier, mobile network information, your mobile operating system, the type of mobile browser you use, time zone setting;
+  * details of your use of our website including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access.
 
 
 
-If you do not wish to receive future information from us please un tick the box which asks whether you would like to opt-in to receive this information.
+**Getting in contact** \- We will also collect information about you if you take part in any of our passenger surveys or competitions, sign-up for our newsletter, or otherwise get in touch with us.
 
-### Complaints and queries
+**Building a profile** \- Where you provide your email address we will be able to link any information you provide us with and other information we collect about you to help us build a profile about you and your interests.
 
-Stansted Airport tries to meet the highest standards when collecting and using personal information. For this reason we take any complaints we receive about this seriously. We encourage people to bring it to our attention if they think our collection or use of personal information is unfair, misleading or inappropriate.
+We will use this profile to help improve our services and to keep you informed about exciting promotions, news, features and activities that we think would be of interest, and we will use your information to make sure we deliver this information to you at the best time, such as when you arrive at the airport.  
 
-### Disclosure of personal information
+We aim to create a tailored and personal experience for you to be able to self-manage your preferences and how we get in touch with marketing material. To help us with this, in every marketing email we send you are able to click on a link to provide us with further information about you and your preferences. All this information becomes part of your profile.
 
-In the majority of cases we will not disclose your personal information to others unless we have previously gained your consent. However there will be circumstances where we may disclose your personal information without your consent e.g. where we are required by law to disclose information or where the information is required to prevent or detect a crime. In the case of all disclosures we will always ensure the disclosure is legitimate and proportionate for the purpose.
+We also use CCTV at our airports for security reasons and to manage our airports, for example helping to monitor queues.
 
-## Privacy & Cookies
+### Services provided by our partners and third parties
 
-### What are cookies?
+Some of our services are provided by third parties on our behalf. In these instances your personal data will be collected by our partner and then passed to us. In some instances our partners may keep a copy of your personal data to use for their own purposes, included where permitted, for marketing. Please get in touch with the partner directly if you have any queries about how they use your personal data.
 
-Cookies are small text files which are stored on your computer when you visit certain web pages. At Stansted Airport we use cookies to understand how our sites are used which helps us to improve your overall online experience. Some of the cookies we use are necessary for some of our sites to work whilst other cookies are used to provide tailored advertising by trusted third parties. The cookies we and our third parties place on your computer do not collect personally identifiable information like your name, address or payment details. To find out more about cookies, visit www.aboutcookies.org  
-The privacy of your information is important to us and so we want to keep you well informed about cookies. We shall continue to work on initiatives in relation to recent cookie legislation to ensure you have the best experience when visiting our websites.
+When you log into our wifi our partner, Arqiva, may collect your personal data such as name, flight details, email, telephone number, MAC address, country of residence and how you got to the airport, as well as information about your usage of the wifi. This information is then passed to us to monitor and understand how our wifi is used by passengers and to be able to send you marketing.
 
-### The different types of cookies we use
+Our website may contain links to other websites of interest. We do not have any control over other websites and we are not responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not covered by this privacy policy. You should exercise caution and look at the privacy policy applicable to the website in question.
 
-Stansted Airport use the following categories of cookies on our websites:
+### Sharing your personal data
 
- **Strictly necessary** – These cookies are essential for certain features of our websites to work for example when you make payments for car parking. These cookies do not record identifiable personal information and we do not need your consent to place these cookies on your device. Without these cookies some services you have asked for cannot be provided.
+We may use the personal data we collect about you to create statistics and anonymised information to then share with third parties including ad networks, search engines and analytics providers.
 
- **Performance** – These cookies are used to collect anonymous information about how you use our websites. This information is used to help us improve our websites and understand how effective our adverts are. In some case we use trusted third parties to collect this information for us but they only use the information for the purposes explained. By using our websites, you agree that we can place these types of cookies on your device.
+We may disclose your personal data to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries. For more information about our group companies please click **[here](http://www.magworld.co.uk/magweb.nsf/Content/AboutUsAndOurAirports)** to visit our corporate website.
 
- **Functionality** – These cookies are used to provide services or remember settings to enhance your visit for example text size or other preferences. The information these cookies collect is anonymous and does not enable us to track your browsing activity on other websites. By using our websites, you agree that we can place these types of cookies on your device.
+We will always make it clear if your personal data is going to be shared with a third party for marketing, and ask you to consent to our sharing of your personal data for this purpose.
 
- **Targeting and Advertising** – These cookies are used by trusted third parties to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. Information contained in these cookies is anonymous and doesn't contain your personal information. To find out more about cookies used for targeting and advertising follow **[www.youronlinechoices.com](http://www.youronlinechoices.com/ "Your Online Choices")** and [**www.networkadvertising.org** ](http://www.networkadvertising.org/ "Network Advertising ")or contact us for further information about the trusted third parties we use.
+We may share your personal data if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, court or police request, or in order to enforce or apply our **[terms of use](https://web.archive.org/terms-and-conditions/website/ "Website")**  or **[terms and conditions of sale](https://web.archive.org/terms-and-conditions/ "Terms & Conditions")**  and other agreements; or to protect the rights, property, or safety of Manchester Airport and the Manchester Airport Group, our customers, or others. 
 
-### Managing cookies
+### Cookies
 
-If you'd prefer to restrict, block or delete cookies from Stansted Airport and our third party advertisers, or any other website, you can use your browser to do this. Each browser is different, so check the 'Help' menu of your particular browser to learn how to change your cookie preferences. If you choose to disable all cookies we cannot guarantee the performance of our websites and some features may not work as expected.
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our **[Cookie policy](https://web.archive.org/help-and-advice/policies/cookie-policy/ "Cookie Policy")**.
 
-### Links to other websites
+### Security
 
-This privacy notice does not cover the links within this site linking to other websites. We encourage you to read the privacy statements on the other websites you visit.
+All the personal data we collect about you is stored by us or our service providers on our behalf. We take steps to ensure your personal data is treated securely and in accordance with this privacy policy.  Where we have given you (or where you have chosen) a password which enables you to access certain parts of our websites, you are responsible for keeping this password confidential.  We ask you not to share a password with anyone.
 
-### Changes to this privacy notice
+In order to provide you with the products and services and our website, we may need to store or transfer your personal data to countries outside the European Economic Area, some of which do not protect privacy rights as extensively as in the United Kingdom. 
 
-We keep our privacy notice under regular review and we will place any updates on this webpage. At the start of this privacy notice we will tell you when it was last updated.
+### Your rights
 
-### How to contact us
+You have the right to ask us not to use your personal data for marketing purposes. We will usually inform you (before collecting your personal data) if we intend to use your personal data for marketing or if we intend to disclose your information to any third party for marketing. You can exercise your right to prevent such marketing by checking certain boxes on the forms we use to collect your personal data. You can also exercise the right at any time by contacting us as set out below or by clicking ‘unsubscribe’ in any marketing email.
 
-Data Protection Manager  
-Stansted Airport Limited  
-Enterprise House  
-Stansted Airport  
-Essex CM24 1QW
+You have the right to receive a copy of the personal data that we hold about you.  If you would like to make such a request please contact us at the details below or complete the Subject Access Request Form by clicking **[here](http://mag-umbraco-media-live.s3.amazonaws.com/1010/subject-access-request-form.pdf)**.
 
-This privacy notice does not provide exhaustive detail of all aspects of Stansted Airport's collection and use of personal information. However, we are happy to provide any additional information or explanation needed. Any requests for this should be sent to the contact address above.
+If you have any questions about this privacy statement, the practices of this web site or your dealings with this web site, please use the following contact point:
+
+**Data Protection Manager**
+
+**Manchester Airport**
+
+**Manchester**
+
+**M90 1QX**
+
+Or alternatively you can get in touch with us via the feedback area in our website.
+
+### Changes to this Privacy Policy
+
+We may change our security and privacy policies at any time and without notice, so we recommend that you visit this page occasionally to check what has changed. This policy was last updated in August 2016 and will be reviewed again in April 2017.
