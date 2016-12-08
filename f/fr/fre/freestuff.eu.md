@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freestuff.eu privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627172619id_/http%3A//www.freestuff.eu/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestuff.eu privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208051745id_/http%3A//www.freestuff.eu/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Free Stuff
 
 Last updated: 27th June 2016
 
-All Groove recognizes that your privacy and the protection of your personal information is important to you. All Groove takes your privacy seriously, taking every reasonable precaution to safeguard the personal information that you provide. All Groove complies fully with the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003. If you wish to find out more please visit https://ico.org.uk/ FreeStuff.eu is owned by Brandling AG and operated by All Groove Ltd ("All Groove") whose registration number at the UK Information Commissioner's Office (ICO) is . This statement discloses how All Groove helps to protect your personal information while using the FreeStuff website.
+All Groove recognizes that your privacy and the protection of your personal information is important to you. All Groove takes your privacy seriously, taking every reasonable precaution to safeguard the personal information that you provide. All Groove complies fully with the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003. If you wish to find out more please visit https://ico.org.uk/ FreeStuff.eu is owned by Brandling AG and operated by All Groove Ltd ("All Groove") whose registration number at the UK Information Commissioner's Office (ICO) is ZA100281. This statement discloses how All Groove helps to protect your personal information while using the FreeStuff website.
 
 **Third parties - marketing and relationship management**
 
@@ -51,7 +51,7 @@ By continuing to use this website you have consented to information being collec
 
 **Opting Out (Deregistration)**
 
-Should you wish to opt out of your data being used for these purposes, please [unsubscribe](https://web.archive.org/web/20160627172619id_/http%3A//www.freestuff.eu/unsubscribe.php).
+Should you wish to opt out of your data being used for these purposes, please [unsubscribe](https://web.archive.org/web/20161208051745id_/http%3A//www.freestuff.eu/unsubscribe.php).
 
 The consequences of deregistration are that your account details will be placed in a suppression file and you will not receive any further communications from FreeStuff.eu. Every email that FreeStuff.eu sends contains a link to unsubscribe and a link to this privacy policy.
 
@@ -159,8 +159,11 @@ Wowcher
   
 Gambling |  188Bet  
 AccuScore  
+Bet on Brazil  
 Betfair  
+Betsafe  
 Betsson Group  
+Betway  
 Big Lotto  
 BoyleSports  
 ComeOn  
@@ -176,26 +179,31 @@ Mansion
 MintedMobi  
 NetBet  
 Paddy Power  
+PartyCasino  
 Play Million  
 Pokies City  
 Prime Slots  
 Sky Bet  
+Sun Bets  
 Sun Bingo  
 The Football INDEX  
 Unibet  
 William Hill  
   
 General | Author Solutions  
+Ascend  
 LoveHoney  
 Rokfri  
 Sell My Story V2  
   
-Insurance | Arrangemyfuneral  
+Insurance | Allay Claims  
+Arrangemyfuneral  
 AXA SunLife  
 Consumer Helper  
 Grove Pension Ltd  
 Independent Financial Matters Registration  
 Promis Life  
+Safe and Secure  
 Smart Insurance  
   
 Personal Injury |  Accident Advice Helpline  
@@ -225,7 +233,8 @@ Cheapflights.co.uk
 Club La Costa  
 Easy Voyage  
   
-Utilities |  Economy Energy  
+Utilities |  Eco-Energy  
+Economy Energy  
 Hassle Free Boilers  
 Homebase  
 Scottish Power  
@@ -355,7 +364,7 @@ Further Information
 
 If you have questions regarding this privacy policy, please contact All Groove by following this link: 
 
-[Contact Page](https://web.archive.org/web/20160627172619id_/http%3A//www.freestuff.eu/contact.php)
+[Contact Page](https://web.archive.org/web/20161208051745id_/http%3A//www.freestuff.eu/contact.php)
 
 or by post: 
 
