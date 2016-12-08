@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalcollection.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414023158id_/http%3A//www.naturalcollection.com/help-privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalcollection.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208071818id_/http%3A//www.naturalcollection.com/help-privacy-and-security) for the most accurate reproduction.*
 
 # Help - Privacy & Security - Natural Collection
 
@@ -69,7 +69,7 @@ We take the security of your personal information very seriously. We want you to
 
 Cookies are small pieces of information in the form of text files that are sent to your browser from our web server and are stored on your computer.
 
-Cookies are essential to using the Ethical Superstore website, as they gather information on the type of platform you’re using to view our website e.g. Windows, IPhone, PS3. We use this information to optimise our website for your particular platform, so that you have the best experience no matter which platform you use. Below are some examples of how we use cookies to do this:  
+Cookies are essential to using the Ethical Superstore website, as they gather information on the type of platform you’re using to view our website e.g. Windows, iPhone, PS4. We use this information to optimise our website for your particular platform, so that you have the best experience no matter which platform you use. Below are some examples of how we use cookies to do this:  
  
 
   * To gather information which allows us to identify your platform and record sales so we may improve customer experience and identify issues on the site.
@@ -116,7 +116,7 @@ Cookies and pixels are used to understand and deliver ads and make them more rel
 Facebook website and mobile Custom Audiences use code that we place on our site to deliver targeted ads through Facebook Custom Audiences. Visit Facebook to find out more about Facebook custom audiences. 
 
   **Social Media**  
-Sites such as Facebook and Pinterest, serve cookies in order to be able to share and discuss ethicalsuperstore.com’s products on social networks.
+Sites such as Facebook and Pinterest, serve cookies in order to be able to share and discuss naturalcollection.com’s products on social networks.
 
  How do I disable cookies?   
 (Please be aware the ecommerce functionality of the site requires cookies to be turned on)
