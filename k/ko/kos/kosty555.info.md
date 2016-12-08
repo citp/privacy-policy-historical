@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kosty555.info privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324011308id_/http%3A//kosty555.info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kosty555.info privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208210438id_/http%3A//kosty555.info/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - World Of Celebs
 
