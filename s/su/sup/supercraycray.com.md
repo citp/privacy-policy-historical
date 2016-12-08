@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supercraycray.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519203019id_/http%3A//supercraycray.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercraycray.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208135751id_/http%3A//supercraycray.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SuperCrayCray
 
