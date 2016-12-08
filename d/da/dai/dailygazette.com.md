@@ -1,35 +1,62 @@
-> *The following text is extracted and transformed from the dailygazette.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011064130id_/http%3A//www.dailygazette.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailygazette.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208131941id_/http%3A//www.dailygazette.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | The Daily Gazette
 
-|   
-**Gazette Privacy Policy and Terms of Use**  
+## Privacy Policy
 
+Dailygazette.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience.  We may use personally identifiable information such as your name, e-mail address, street address, telephone number, or other information subject to the terms of this privacy policy.  Please note that this policy applies only to information collected by Dailygazette.com and does not impact information collected or used by The Daily Gazette Co. or its affiliates through other means.
 
-> The Gazette Newspapers is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At DailyGazette.net, we intend to give you as much control as possible over your personal information.
-> 
-> The purpose of our policy is to inform you about the types of information we gather about you when you visit our site(s), how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information.
-> 
-> Our site(s) may contain links to other Web sites, including Web sites directed to children. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other sites to which we provide links from our sites. You should check the applicable privacy policy of the Web site sponsor when linking to other Web sites.
+## How We Gather Information From Users
 
- ** **I. Information We Collect****
+How we collect and store information depends on the page you are visiting, the activities in which you participate and the services provided.  You can visit many pages on our site without providing any information.  Other pages may prompt you to provide information, for example when registering to access certain portions of our sites, signing up for a newspaper subscription or to make a purchase.  You may also be asked to provide information when you take part in voting on our polls, leaving comments and other interactive areas of our site.
 
-> We may request that you voluntarily supply us with personal information, including your e-mail address, postal address, home or work telephone number, credit card number. If you choose to give us personal information via the Internet that we may need -- to correspond with you, process an order or provide you with a subscription, for example -- it is our intent to let you know how we will use such information.
-> 
-> Like many other commercial sites, our site(s) may utilize a standard technology called a "cookie" to collect information about how our site is used. Cookies were designed to help a Web site recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. A cookie cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your e-mail address. Our Web site(s) may use cookies to enhance your visit. Cookies can securely store a user's password, personalize home pages, identify which parts of a site have been visited or keep track of selections, such as those selected in a "shopping cart." Our cookies may collect your domain name and track your selections through our Web pages. We only use "cookies" to gather the information indicated in this policy and do not use cookies to gather personal identifying information about you without your consent.
+Dailygazette.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors.  For example, we may log the name of your Internet Service Provider or use "cookie" technology.  The cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we include additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but doing so may limit your ability to access certain portions of the site or may require you to re-enter your user name and password. Additionally we may not be able to customize the site's features according to your preferences.
 
- **II. Disclosure to Third Parties**
+## Children's Privacy Statement
 
-> We do not share personal identifying information with any third party without your permission. We disclose only in aggregate form our statistical analyses or demographics of users to third parties, such as advertisers or other business partners. In some instances, we operate shared Web sites with businesses affiliated with us. Our privacy policy will apply to these Web sites, and our affiliates adhere to our privacy policy and will not share personal information with any third party without your permission. PLEASE BE AWARE that when you voluntarily disclose personal information (such as your name, e-mail address) in chat areas or bulletin boards to third parties, that information may be collected by others outside the control of us and may result in unsolicited messages from others.
+This children's privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information on your rights under federal law with respect to such information.
 
- **III. Security of Information**
+• We do NOT knowingly collect personally identifiable information from children under the age of thirteen. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally-identifiable information from a user under the age of thirteen, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen.
 
-> We use our best efforts to ensure the security of personal information submitted by users. When collecting credit card information for online purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it. When we collect other information from our users, it is stored in an area where the general public does not have access to it.
+• Because we do not collect any personally identifiable information from children under the age of thirteen, we also do NOT knowingly distribute such information to third parties.
 
- **IV. Use of Materials**
+• We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information.
 
-> The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may [contact us](mailto:gazette@dailygazette.net). 
+• We do NOT condition a child's participation in online activities on providing more personally identifiable information than is needed to participate in the activity.
 
-**IV. Associated Press**
+## What We Do With The Information We Collect
 
-> The following provision applies to all visitors (which shall include persons and representatives of legal entities, whether such representatives are persons or digital engines of a kind that crawls, indexes, scrapes, copies, stores or transmits digital content). By accessing this Web site or digital service, you specifically acknowledge and agree that: (i) Associated Press text, photo, graphic, audio and/or video material shall not be published, broadcast, rewritten for broadcast or publication or redistributed directly or indirectly in any medium; (ii) No Associated Press materials nor any portion thereof may be stored in a computer except for personal and non-commercial use; (iii) The Associated Press will not be held liable for any delays, inaccuracies, errors or omissions therefrom or in the transmission or delivery of all or any part thereof or for any damages arising from any of the foregoing; (iv) The Associated Press is an intended third party beneficiary of these terms and conditions and it may exercise all rights and remedies available to it; and (v) The Associated Press reserves the right to audit possible unauthorized commercial use of AP materials or any portion thereof at any time. 
+We will use your information only as permitted by law. Information that does not personally identify you may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. This information may occasionally be shared with our advertisers and business partners, but cannot be used to contact you individually.
+
+We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on Dailygazette.com to communicate with you regarding our Terms of Service and Privacy Policy, products and services offered by The Gazette and other newspaper affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest.
+
+Personally Identifiable Information collected by Dailygazette.com may also be used for other purposes including but not limited to site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site may access such information.
+
+As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or whenever we deem it appropriate or necessary to give such information to law enforcement authorities. Please note we may not provide you with notice prior to disclosure in such cases.
+
+## Your Choice To Opt Out
+
+The quality news and information on Dailygazette.com is supported by advertising revenue and a controlled program of e-mail marketing is an important element of our online publishing business. Like other Web publishers, we will sometimes send e-mail about services, features, products, special offers and unique content we believe might interest you on behalf of our advertising and promotional partners. If you prefer not to receive e-mail communications sent from us on behalf of our advertisers and promotional partners, you will be given an opportunity to opt out from receiving any more emails. Opting out will revoke your membership to Dailygazette.com. As a registered member of Dailygazette.com, you agree to receive emails from us on behalf of our advertisers.
+
+## Affiliated Sites, Linked Sites and Advertisements
+
+Dailygazette.com expects its partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a dailygazette.com page, certain content that is actually created or hosted by a third party. Also, through Dailygazette.com you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. Dailygazette.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. Dailygazette.com does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.
+
+Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose Personally Identifiable Information on our site, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Dailygazette.com and this policy.
+
+## Miscellaneous
+
+This agreement constitutes the entire agreement between Dailygazette.com and you with respect to the subject matter contained in this agreement and supersedes all previous and contemporaneous agreements, proposals and communications, written and oral. You also may be subject to additional terms and conditions that may apply when you use the products or services of a third party that are provided through any Service. In the event of any conflict between any such third party terms and conditions and these Terms of Service, these Terms of Service shall govern. This agreement shall be governed by and construed in accordance with the laws of the State of West Virginia without giving effect to any principles or conflicts of law. If any provision of this agreement shall be unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from this agreement and shall not affect the validity and enforceability of any remaining provisions.
+
+## Questions on Privacy
+
+If you have any questions about Dailygazette.com Terms of Service or Privacy Statement, please contact:
+
+Judy Patrick - Managing Editor  
+The Daily Gazette Co.  
+2345 Maxon Road Ext.  
+Schenectady, NY  
+[jpatrick@dailygazette.net](mailto:jpatrick@dailygazette.net)  
+518-395-3101
