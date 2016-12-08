@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allthearticles.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606065104id_/http%3A//www.allthearticles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthearticles.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208050218id_/http%3A//www.allthearticles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
