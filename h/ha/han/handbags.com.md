@@ -1,182 +1,94 @@
-> *The following text is extracted and transformed from the handbags.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406174223id_/http%3A//www.handbags.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handbags.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208043606id_/http%3A//www.ebags.com/help/privacypolicy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - eBags.com
 
-Our Privacy Pledge
+### Our Privacy Pledge
 
-* * *
+[](https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.ebags.com&lang=en)
 
-We understand and share your concern about privacy. We want to assure you that Handbags.com respects your privacy and treats your personal information with the highest standards of safety, security and confidentiality. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.  
-As a part of our commitment to your privacy, Handbags.com supports and adheres to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale or exchange with other marketers; (2) honor customers' requests not to share their information with other marketers; and (3) honor customers' requests not to receive mail, telephone or other solicitations from Handbags.com.
+### What type of information does eBags collect?
 
-  
+Our goal is to provide you with a safe and enjoyable shopping experience. When we collect information about you it is in an effort to create a customized and meaningful experience with the products and brands that are most relevant to you. You are free to browse the eBags site without revealing any personal information about yourself. However, once you give us your personal information, you are not anonymous to us.
 
+**Automatic Information**  
+We automatically track certain information based upon your behavior on our site. We use this information to analyze our users' behavior, interests, and demographics to better understand and serve our shoppers. This information may include the URLs, pages viewed on the site, which browser you are using and your IP address.
 
-* * *
+**What about Cookies?**  
+"Cookies" are small pieces of information that a web site will store on your computer's hard drive. eBags will use cookies to identify you during your session, make our services easier to use and to store items in your shopping cart between visits. Cookies are never used to store sensitive customer information such as names, addresses, credit card numbers or passwords. Acceptance of cookies is not a requirement to browse our site, however, our shopping cart does require the acceptance of cookies to work properly. Most browsers automatically accept cookies, but you can configure your browser to prevent that. If you would like to place an order on our site but object to or otherwise are unable to use cookies, please feel free to place your order via our toll free number: 1-800-820-6126. 
 
-###### Information We Collect
+**Personally Identifiable Information**  
+This is information that you provide to us that is specific to you. We collect information such as your name, phone number, billing information, shipping information and other personal information as indicated on the forms throughout our site. You provide such information when you make a purchase, enter a contest or sweepstakes, fill out a survey or form, provide ratings or testimonials feedback, give or redeem a gift certificate, etc. Where possible, we indicate which fields are required and which fields are optional. You can always choose not to provide information, but you may not be able to use a particular service or feature by omitting the information.
 
-We may collect information (including name, address, telephone number, email address, transaction information, credit card information and date of birth) when you:
+### Our use of your information
 
-  * Place an order on our Web site or via telephone 
-  * Return an item or make an exchange
-  * Request a catalog
-  * Give or redeem a gift certificate
-  * Receive a gift package
-  * Submit a product review
-  * Create an account at Handbags.com
-  * Sign up for Handbags.com promotional emails
-  * Enter a contest or sweepstakes
-  * Are referred to us through a marketing promotion
-  * Participate in a marketing survey, promotion or event
+We use the information we collect from you to improve our products and services and make your shopping experience more efficient and relevant. We review the actions of our visitors on an aggregate basis to determine customers' preferences. eBags also conducts analysis and research on our visitors' demographics, interests, and pages viewed based on the information provided to us during ordering, from our server log files, contests or surveys.
 
+**Contests and Sweepstakes**  
+When you enter a contest or other promotion, we may ask you for contact information such as your name, address and e-mail address in order to administer the contest, to send you promotional e-mails, notify winners and make the winners' list publicly available pursuant to certain states' laws. Your consent to such promotional use and disclosure of this information is a condition of your participation. As a condition of receiving any prize, you will be required to complete, execute and return an Affidavit of Eligibility, a Liability Release, and where lawful, a Publicity Release, for us to ensure that you are eligible to receive the prize according to the Contest Rules. In cases where the sweepstakes or promotional offer is co-branded with or sponsored by another party, we may share your information, with your consent, to that party.
 
+**E-mails**  
+It is possible to register as an email subscriber directly from our site or through another source, such as an eBags sweepstakes hosted on another site, Facebook contest, or a co-registration network. Upon registering, we will send you newsletters and e-mails featuring exclusive sales, promotions and other members-only benefits. When you join or make a purchase on eBags.com, you will automatically be subscribed to emails unless you opt-out during guest checkout. If you are a subscribed member, we will also send you emails to collect ratings and testimonials feedback related to your purchase and account status updates. If you'd rather not receive emails, please visit [Manage Email Preferences](https://web.archive.org/members/emailpreferences) to change your preferences. 
 
-Whether or not to provide such information is completely your own choice. But if you choose not to provide the information we request, you may be unable to purchase products, or access certain services, offers and content on our web site. In addition, we may need to contact you via phone, email or mail to address questions or issues specific to your order, entry, etc., even if you have opted to not receive communications from us.  
-We maintain the data that you provide us, along with a record of your purchases, in a secure database. To best serve you, we may combine this information with data that is publicly available and data that we receive from other reputable sources.  
-We also gather information about how visitors navigate through our Web site by using data gathered with "cookies" and/or “pixel tags”. This information may include the pages you visit on Handbags.com, the URL that you just came from, which URL you next go to, what Internet browser you are using and your IP address.  
-» back to top
+**Gift Certificates**  
+If you purchase a gift certificate on our site, we will ask you to provide the recipient's name and e-mail address. The recipient information you provide us will only be used to deliver the gift certificate and for no other purpose.
 
-  
+**Affiliate Program**  
+Our Affiliate Program is administered by Commission Junction. Any information collected by them is not governed by this Policy.
 
+### Does eBags share the information it receives?
 
-* * *
+The following describes some of the ways that your personally identifiable information may be disclosed:
 
-###### How We Use Your Information
+**Fulfillment**  
+During the purchase process, we will share your information with certain intermediaries (e.g. UPS, APX, USPS, FedEx, Payment Processing Service Provider, Product Manufacturers) strictly to process and ship your order.
 
-At Handbags.com, our goal is to provide you with a safe and enjoyable shopping experience, along with the best possible customer service. We use the information we collect to perform activities in support of these goals, including:
+**Promotional Offers**  
+At times we may send offers to select eBags subscribers on behalf of other parties. When we do this, we do not give that company your personally identifiable information without your consent. If you do not want to receive such communications, please visit [Manage Email Preferences](https://web.archive.org/members/emailpreferences). 
 
-  * Process and track your order 
-  * Inform you about the status of an order 
-  * Register and service your Handbags.com account
-  * Send you catalogs or promotional offers we believe will be of interest to you 
-  * Send you e-mail updates 
-  * Identify your product and service preferences 
-  * Customize our communications to you 
-  * Improve our merchandise selection and customer service
-  * Improve the overall performance and functionality of our website
-  * Administer surveys, sweepstakes, and contests
+**Agents**  
+We employ other third parties to perform services or functions on our behalf in order to improve our site, merchandising, marketing and promotional efforts, communications or other services. Those third parties include authorized contractors, consultants and other companies working with us (collectively, "agents"). They only have access to information needed to perform their functions, and may not share any information with others or use it for any other purpose than improving eBags' services and offerings. If you have made a purchase on the eBags website, we may make your name and postal address available to pre-screened companies who have specific direct mail (e.g. catalog) product or service offers that we think may be of interest to you. We only share with these pre-screened companies the individual names and postal address of customers who have actually purchased products from us. If you do not want us to share your name and postal address information, simply follow the instructions in the section below titled "Accessing and Updating Your Information." We may also receive information about you from other sources (such as demographic information and purchase history) and add it to our information in order to make our marketing efforts more efficient.
 
+**Advertisers**  
+We work with third party advertising companies to serve and track our ads. These third parties may serve other cookies. Our advertising partners use the anonymous, non-personally identifying information they collect from our site, in the aggregate, to help us better market and serve our customers. In the event that our advertisers collect any personal information on our behalf, it will not be used by them or disclosed to any third parties.
 
+**Third Party Sites**  
+You may visit other web sites, through links on our site, who may collect, use and share your personal information in accordance with their own privacy policies. The information practices of those websites linking from or to our site are not covered by this Policy, and we encourage you to be very cautious before you disclose your personal information to others. If you register for eBags on another web site or use a web site providing a service for eBags, that web site may provide personal information about you and your transactions back to eBags. It is possible that eBags could merge with or be acquired by another business entity. Should such an event occur, you should expect that eBags would share some or all of your information in order to continue to provide such products and services. Notice of such an event will be posted and we will require that the new combined entity follow the practices disclosed in this Privacy Policy.
 
-» back to top
+**Legal Requests**  
+eBags will cooperate with law enforcement inquiries. eBags reserves the right to disclose any activities or information about you to law enforcement or other government officials as we, in our sole discretion, determine necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements or other activity that is illegal or may expose us or you to legal liability.
 
-  
+### Accessing and Updating Your Information
 
+You always have the opportunity to review and change the information you provide to us by logging into the site and entering in the new information yourself. You can edit your name, contact information and preferences by logging into the Your Account section of the site. 
 
-* * *
+As a customer, subscriber or contest entrant, you will receive e-mail communications about new eBags products, special offers and requests for feedback. If you want to stop receiving our emails or to specify the communications you prefer to receive, you may unsubscribe or edit your profile at any time. You can do this through any of our emails, by visiting [Manage Email Preferences](https://web.archive.org/members/emailpreferences) or by sending us an email [help@ebags.com](mailto:help@ebags.com). 
 
-###### Information We Share with Others
+You may ask to have your account information removed from our active databases; however, because we keep track of past purchases, you cannot delete information associated with past purchases. Such information will be deactivated as soon as reasonably possible based on your account activity. Also, as a security measure we "back up" the data stored on our systems, and such prior information cannot be completely removed from our databases. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests.
 
-We contract with other companies to provide certain services, including credit card processing, order shipping, e-mail distribution, market research and promotions management. We provide these companies with only the information they need to perform their services and work closely with them to ensure that your privacy is respected and protected. These companies are prohibited by contract from using this information for their own marketing purposes or from sharing this information with anyone other than Handbags.com.  
-From time to time, we make our mailing list (names and addresses only) and general shopping activity available to reputable companies whose products we believe will be of interest to you. We do not share email addresses for this purpose. If you do not want to receive mailings from other reputable companies and prefer that we do not share any information with these companies, please contact us.  
-Handbags.com will cooperate with law enforcement inquiries. Handbags.com reserves the right to disclose any activities or information about you to law enforcement or other government officials as we, in our sole discretion, determine necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements or other activity that is illegal or may expose us or you to legal liability.  
-It is possible that Handbags.com could merge with or be acquired by another business entity. Should such an event occur, you should expect that Handbags.com would share some or all of your information in order to continue to provide products and services. Notice of such an event will be posted, as will notice of any changes to our Privacy Policy resulting from such an event.
+### Security
 
-» back to top
+The eBags Security Pledge protects you while you shop at eBags so that you never have to worry about credit card safety. We guarantee that every transaction you make at eBags will be safe. This means you pay nothing if unauthorized charges are made to your credit card as a result of shopping at eBags. eBags' servers use Secure Sockets Layer (SSL), an encryption technology that works with all modern web browsers, so that only eBags can read a buyer's personal information. We reveal only the last five digits of your credit card numbers when confirming an order. However, we will transmit the entire credit card number to the appropriate credit card company during order processing.
 
-  
+### A special note about children's privacy
 
+You must be at least 18 years old to have our permission to use this site. We do not knowingly collect, use or disclose Personally Identifiable Information about visitors under 18 years of age. If you are a minor, you can use this service only in conjunction with your parents or guardians.
 
-* * *
+### Privacy Policy Changes
 
-###### Accessing and Updating Your Information
+eBags reserves the right to change, modify, add or remove portions of this Policy at any time. Any changes will be posted in this document and will become effective immediately upon being posted unless we tell you otherwise.
 
-You always have the opportunity to review and change the information you provide to us. You can edit your name, contact information and preferences by logging into the Your Account section of the site and making changes. You can also contact us at the address and/or phone number below to make changes to your account information or to delete your account.
+### Contacting eBags
 
-» back to top
+If you have further questions about eBags' Privacy Policy or comments on how we can improve the eBags shopping experience, please do not hesitate to email us at [privacy@ebags.com](mailto:privacy@ebags.com).
 
-  
+Need more help? You can refer to our Help Center, email one of our friendly Customer Help Specialists [help@ebags.com](mailto:help@ebags.com) or call 1-800-820-6126.
 
-
-* * *
-
-###### Your Choices Regarding Communications from Handbags.com
-
-We want to communicate with you only if you want to hear from us. You can reduce or eliminate marketing and promotional e-mails and/or catalogs you receive from us by making the appropriate changes to your account. Please visit the Your Account section of Handbags.com to make these changes, or contact Handbags.com Customer Service via e-mail, phone or regular mail as noted below. You can also unsubscribe from Handbags.com promotional e-mails by clicking on the unsubscribe link found in all our marketing e-mails, or clicking the unsubscribe link at the bottom of any page on our website.  
-When you provide us your email address when placing an order, we will email you as necessary to process your order or provide customer service. For example, after you place an order at Handbags.com, you will receive an email confirmation of your order, an email confirming shipment of you package(s), and one or two e-mails requesting your feedback on the items you purchased. Recipients of our email gift cards will receive an email notifying them of the gift and instructing them how to redeem it.  
-We also use e-mail to measure customer satisfaction, and to conduct surveys and customer research. These e-mails are only sent to customers who are subscribers to our Handbags.com Insider promotional e-mails.
-
-» back to top
-
-  
-
-
-* * *
-
-###### Cookies and Pixel Tags
-
-"Cookies" are small pieces of information that a web site places on your computer's hard drive. Handbags.com uses cookies to identify you during your session, make our services easier to use and to store items in your shopping cart between visits. Cookies are never used to store sensitive customer information such as names, addresses, credit card numbers or passwords. Acceptance of cookies is not a requirement to browse our site; however, our shopping cart does require the acceptance of cookies to work properly. Most browsers automatically accept cookies, but you can configure your browser to prevent that. If you would like to place an order on our site but object to or otherwise are unable to use cookies, please feel free to place your order via our toll free number: 866-466-2247.  
-We also use pixel tags – tiny graphic images – to tell us what parts of our Web site you have visited or to measure the effectiveness of any searches you may do on our site. Pixel tags also enable us to send you email in a format you can read and let us know when you have opened an email message from us.  
-We may also contract with other companies who use cookies or other online tools such as pixel tags to measure the performance of a marketing effort on our behalf, as well as to serve and track our online advertisements. There is no personally identifiable information included in these cookies, and we these companies are contractually prohibited from using this information for their own marketing purposes or from sharing this information with anyone other than Handbags.com.  
-Cookies may also be used to serve ads on internet sites via third party vendors, including Google. Third party vendors, including Google and Teracent, may use cookies to serve ads based on a user’s visit. No personally identifying information will be collected for or used by third parties in serving ads. Users may opt out of any third party vendor cookie by visiting the Network Advertising Initiative opt out page.
-
-» back to top
-
-  
-
-
-* * *
-
-###### Security
-
-The Handbags.com Security Pledge protects you while you shop at Handbags.com so that you never have to worry about credit card safety. We guarantee that every transaction you make at Handbags.com will be safe. This means you pay nothing if unauthorized charges are made to your credit card as a result of shopping at Handbags.com. Handbags.com' servers use Secure Sockets Layer (SSL), an encryption technology that works with, common Internet browsers, such as Internet Explorer, Safari, Firefox and Chrome, so that only Handbags.com can read a customer’s personal information. We reveal only the last five digits of your credit card numbers when confirming an order. However, we will securely transmit the entire credit card number to the appropriate credit card company during order processing.
-
-» back to top
-
-  
-
-
-* * *
-
-###### Third Party Sites
-
-From time to time there may be links on our site which will connect you with other websites. These links will clearly identify the site to which they are connected. These third party websites may collect, use and share your personal information in accordance with their own privacy policies. The information practices of those websites linking from or to our site are not covered by this Policy, and we encourage you to be cautious before you disclose your personal information to others. If you register for Handbags.com on another web site or use a web site providing a service for Handbags.com, that web site may provide personal information about you and your transactions back to Handbags.com.
-
-» back to top
-
-  
-
-
-* * *
-
-###### A special note about children's privacy
-
-You must be at least 18 years old to have our permission to use this site. We do not knowingly collect, use or disclose personally identifiable information about visitors under 18 years of age. If you are a minor, you can use this service only in conjunction with your parents or guardians.
-
-» back to top
-
-  
-
-
-* * *
-
-###### Privacy Policy Changes
-
-Handbags.com reserves the right to change, modify, add or remove portions of this Policy at any time. Any changes will be posted in this document and will become effective immediately upon being posted unless we tell you otherwise.
-
-» back to top
-
-  
-
-
-* * *
-
-###### Contacting Handbags.com
-
-If you have further questions about Handbags.com' Privacy Policy or comments on how we can improve the Handbags.com shopping experience, please do not hesitate to email us at privacy@Handbags.com.  
-Need more help? You can refer to our Help Center or email one of our friendly Customer Help Specialists at help@Handbags.com.  
 You may also write to us at:  
-Handbags.com Privacy Manager  
+Privacy Manager  
 eBags, Inc.  
-5500 Greenwood Plaza Blvd. Suite 160  
-Greenwood Village, CO 80111      
-We always enjoy hearing from you and sincerely appreciate your business.  
-Last updated: July 28, 2011
-
-» back to top
-
-  
+5500 Greenwood Plaza Blvd.  
+Suite 160  
+Greenwood Village, CO 80111  
 
 
-* * *
+We always enjoy hearing from you and appreciate your business.
