@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifans.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608014317id_/http%3A//www.ifans.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifans.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208210954id_/http%3A//www.ifans.com/privacy) for the most accurate reproduction.*
 
 # iFans – Privacy Policy
 
