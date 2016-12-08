@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pizap.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607181539id_/http%3A//www.pizap.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizap.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208040239id_/http%3A//www.pizap.com/privacypolicy) for the most accurate reproduction.*
 
 # piZap - free online photo editor - fun photo effects editor
 
