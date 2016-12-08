@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nintendoenthusiast.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630105719id_/http%3A//nintendoenthusiast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendoenthusiast.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208063003id_/http%3A//nintendoenthusiast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nintendo Enthusiast
 
