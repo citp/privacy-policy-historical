@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graywolfsurvival.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603183132id_/http%3A//graywolfsurvival.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graywolfsurvival.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208163627id_/http%3A//graywolfsurvival.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,6 +14,8 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 We collect information from you when you subscribe to a newsletter or enter information on our site.
 
 **How do we use your information?**
+
+[](http://af48b3218gwkp2ll5n04w3xlec.hop.clickbank.net/?tid=MIDPOST)
 
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
