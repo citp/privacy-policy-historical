@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backroads.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423224008id_/https%3A//www.backroads.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backroads.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208024030id_/https%3A//www.backroads.com/privacy) for the most accurate reproduction.*
 
 # Backroads Privacy Policy
 
@@ -12,7 +12,7 @@ We periodically survey our guests and catalog requesters for their vacation inte
 Backroads shares personal information with companies who provide services such as information processing, fulfilling guest orders, lead generation, providing pre-/post- and on-trip services, managing and enhancing customer data and conducting customer research or satisfaction surveys. These companies are obligated to protect your information. Backroads does not sell your personal information to third parties. 
   4. **MyBackroads Registration**  
 If you register as a MyBackroads member, you may change any of the information provided when you register, except your Login ID and screen name, by logging into your account and editing your profile and options. You may request that your Login ID be changed by contacting us. You may not terminate your own membership, but it will be terminated upon your request. Click on the Contact link at the bottom of any Backroads web page for information on how to contact us.
-  5. **MyBackroads E-mail**  
+  5. **MyBackroads Email**  
 Members of MyBackroads may not opt out of receiving service announcements and administrative messages. Members who do not wish to receive Backroads e-newsletters may choose not to by following the instructions in the Backroads e-newsletter.
   6. **MyBackroads Accounts**   
 MyBackroads member accounts are secured by member-created passwords. Backroads takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. 
@@ -23,4 +23,4 @@ We may revise this Privacy Policy from time to time. The most current version of
 
 
 
-**If you have any questions, comments or concerns about our Privacy Policy, please contact us at[Backtalk](https://web.archive.org/contact/).**
+**If you have any questions, comments or concerns about our Privacy Policy, please[contact us](https://web.archive.org/contact/).**
