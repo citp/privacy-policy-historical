@@ -1,170 +1,70 @@
-> *The following text is extracted and transformed from the bloodpressuresolution.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408061656id_/http%3A//bloodpressuresolution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloodpressuresolution.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208021618id_/http%3A//bloodpressuresolution.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blood Pressure Solution : Blood Pressure Solution
 
 ## Privacy Policy
 
-Effective Date:  04/08/2013
+Effective Date: February, 2015
 
-This privacy policy applies to http://BloodPressureSolution.com/ owned and operated by Primal Health, LP (“Primal Health”, “We”, “Us”, and” Ours”).   This privacy policy describes how Primal Health collects and uses the personal information you provide on http://BloodPressureSolution.com/.  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This privacy policy applies only to information collected through our website and not to information collected offline.  By using our site, you consent to our[ privacy policy](http://www.freeprivacypolicy.com/).
+The following Privacy Policy governs the online information collection practices of **PRIMAL HEALTH, LP** (“we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the Primal Health, LP website (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
-Primal Health, LP has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program covers only information that is collected through this Web site, http://BloodPressureSolution.com/ and does not cover information that may be collected offline or through 3rd party business affiliates.
+Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
 
-TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [Support@BloodPressureSolution.com](mailto:Support@BloodPressureSolution.com).  If you are not satisfied with our response you can contact [TRUSTe here ](http://watchdog.truste.com/pvr.php?page=complaint)
+### How We Collect and Use Information
 
-What information do we collect?
+We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site). Primal Health only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our messaging or have purchased one of our products. Primal Health collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration or opt-in purposes and name, postal address,phone number and credit card information when registering for our events or purchasing our products. All of this information is provided to us by you.
 
-We collect information from you when you place an order, enter a contest, use our member health tracking tools or subscribe to our newsletter.  Any data we request that is not required will be specified as voluntary or optional.
+We also collect and store information that is generated automatically as you navigate online through the Site. For example, we may collect information about your computer’s connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a “cookie” to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. The Site also may use web beacons (single-pixel graphic files also known as “transparent GIFs”) to access cookies and to count users who visit the Site or open HTML-formatted email messages.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, billing address and credit card information.  For health evaluation purposes, we may also collect your gender and date of birth. You may, however, visit our site anonymously.
+We use the information we collect from you while you are using the Site in a variety of ways, including using the information to customize features; advertising that appear on the Site; and, making other offers available to you via email, direct mail, telemarketing or otherwise. We also may provide your information to third parties, such as service providers and contractors. We may also email you regarding offers and information from companies offering collaborative or complimentary products and services. We will not sell your information to third-parties. Unless you inform us in accordance with the process described below, we reserve the right to use, and to disclose to third parties, all of the information collected from and about you while you are using the Site in any way and for any purpose, such as to enable us to provide you with information about products and services. If you do not wish your information to be used for these purposes, you must send a letter to the Online Privacy Coordinator whose address is listed at the end of this Privacy Policy requesting to be taken off any lists of information that may be used for these purposes or that may be given or sold to third-parties.
 
-We also display personal testimonials of satisfied customers on our site in addition to other endorsements.  With your consent we may post your testimonial along with your name.  If you wish to update or delete your testimonial, you can contact us at [Support@BloodPressureSolution.com](mailto:Support@BloodPressureSolution.com)  .
+Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online – for example on message boards, web logs, through email, or in chat areas – that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
 
-What do we use your information for?
+Third-party collaborative advertisers also may collect information from you via cookies, web beacons or similar technologies. These third-party advertisers may use the information they collect to help present their advertisements, to help measure and research the advertisements’ effectiveness, or for other purposes. The use and collection of your information by these third-party advertisers and ad servers is governed by the relevant third-party’s privacy policy and is not covered by our Privacy Policy. Indeed, the privacy policies of these third-party advertisers may be different from ours. If you have any concerns about a third party’s use of cookies or web beacons or use of your information, you should visit that party’s website and review its privacy policy.
 
-Any of the information we collect from you may be used in one of the following ways:
+The Site also could include links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase third-party products or services through the Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.
 
-To create and administer your account;
+We may also make some content, products and services available through our Site or by emailing messages to you through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner’s use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information.
 
-(your information is used to create an account profile enabling you to use our service).
+Be aware that we may occasionally release information about our visitors when release is appropriate to comply with law or to protect the rights, property or safety of users of the Site or the public.
 
-To personalize your experience
+Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or one or more of our websites is acquired by another company, information about our users may be among the transferred assets.
 
-(your information helps us to better respond to your individual needs)
+### Google Analytics
 
-To improve our website
+We also use Google Analytics Advertiser Features to optimize our business. Advertiser features include:
 
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * Remarketing with Google Analytics
+  * Google Display Network Impression Reporting
+  * DoubleClick Platform integrations
+  * Google Analytics Demographics and Interest Reporting
 
-To improve customer service
 
-(your information helps us to more effectively respond to your customer service requests and support needs)
 
-To process transactions
+By enabling these Google Analytics Display features, we are required to notify our visitors by disclosing the use of these features and that we and third-party vendors use first-party cookies (such as the Google Analytics cookie) or other first-party identifiers, and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to gather data about your activities on our Site. Among other uses, this allows us to contact you if you begin to fill out our check-out form but abandon it before completion with an email reminding you to complete your order. The “Remarketing” feature allows us to reach people who previously visited our Site, and match the right audience with the right advertising message.
 
-(We use a payment processor to facilitate transaction between users of the site and process billing information)
+You can opt out of Google’s use of cookies by visiting Google’s ad settings and/or you may opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
-To send periodic emails
+### Children’s Privacy Statement
 
-(The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.)
+This children’s privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
 
-To administer a contest, promotion, survey or other site feature
+  * This Site is not directed to children under the age of thirteen and we do NOT knowingly collect personally identifiable information from children under the age of thirteen as part of the Site. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Site, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Site.
+  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we also do NOT knowingly distribute such information to third parties.
+  * We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information through the Site.
+  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we do NOT condition the participation of a child under thirteen in the Site’s online activities on providing personally identifiable information. 
 
-How do we protect your information?
 
-The security of your personal information is important to us. We implement a variety of security measures to maintain the safety of your personal information when you submit a request or place an order.
 
-These security measures include: password protected directories and databases to safeguard your information or PCI Scanning to actively protect our servers from hackers and other vulnerabilities.
+### How do we store your information?
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.  After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+Your information is stored at the list server that delivers our content and messaging. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive our material.
 
-No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [Support@BloodPressureSolution.com](mailto:Support@BloodPressureSolution.com).
+All of the messaging or emails that are sent to you by us include an unsubscribe link in them. You can remove yourself at any time from our mailing list by clicking on the unsubscribe link that can be found in every communicaiton that we send you.
 
-Do we use cookies and other tracking technologies?
+### Disclaimer
 
-Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Although it is highly unlikely, This policy may be changed at any time at our discretion. If we should update this policy, we will post the updates to this page on our Website.
 
-We use cookies to help us remember and process your questions and related information, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-
-As is true of most web sites, we gather certain information automatically and store it in log files.  This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
-
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.  We do not link this automatically-collected data to personally identifiable information.
-
-We partner with third party ad networks to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partners uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
-
-We may employ a software technology called clear gifs (a.k.a. Web Beacons), that help us better manage content on our site by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence.  The information gathered by clear gifs is never tied to our customers’ personally identifiable information.
-
-The use of tracking technologies by our service providers, technology partners or other 3rd party assets on the site is not covered by our privacy policy.  These 3rd parties may use cookies, clear gifs, images, and scripts to help them better manage their content on our site.   We do not have access or control over these technologies.  We do not tie the information gathered to our Customers’ or Users’ personally identifiable information.
-
-Do we disclose any information to outside parties?
-
-We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties.  We will share your personal information with third parties only in the ways that are described in this privacy policy.
-
-We may provide your personal information to companies that provide services to help us with our business activities such as processing your payments or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us, and are contractually obligated to keep your information confidential.
-
-We may also release your information when we believe release is appropriate to comply with the law, such as a subpoena, or similar legal process; when we believe in good faith that disclosure is necessary to enforce our site policies, investigate fraud or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-If Primal Health is involved in a merger, acquisition, or sale of all or a portion of its assets,  you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
-
-User Access and Choice
-
-If your personally information changes, you may correct, update, amend, remove or ask to have it removed by making the change on your user account settings page, by emailing our Customer Support at [Support@BloodPressureSolution.com](mailto:Support@BloodPressureSolution.com) or by contacting us by telephone or postal mail at the contact information listed below.  If you no longer desire our service, you may delete your account by contacting us at [Support@BloodPressureSolution.com](mailto:Support@BloodPressureSolution.com).  We will respond to your request within 30 days.
-
-Be advised, we will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-Opting-Out
-
-If you wish to subscribe to our newsletter, we will use your name and email address to send the newsletter to you, as well as other periodic emails of both promotional and transactional nature.  Out of respect for your privacy, you may choose to stop receiving our newsletter and/or other promotional emails by following the unsubscribe instructions included in these emails or you can contact us at [Support@BloodPressureSolution.com](mailto:Support@BloodPressureSolution.com).
-
-California Online Privacy Protection Act Compliance
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.  As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
-
-Our Blog
-
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.  Anytime you post on our blog please be aware that you are posting using a third party application and we have no access or control over this information.
-
-To request removal of your personal information from our blog, you can both log into the third party application and remove your comment or you can contact the appropriate third party application. Your interaction with these features is governed by the privacy policy of the company providing it.
-
-Contests
-
-We may provide you the opportunity to participate in contests on our site.  If you participate, we will request certain personally identifiable information from you.  Participation in these contests is completely voluntary and you therefore have a choice whether or not to disclose this information.  The requested information typically includes contact information (such as name and shipping address), and demographic information (such as age and gender and personal photos).
-
-We use this information to notify contest winners, award prizes and post success stories.  If you don’t wish to have your personal information published if you win, please refrain from entering the contest.
-
-Third party links
-
-Occasionally, at our discretion, we may include or offer third party products,services or provide links to 3rd party sites on our website. These third party sites have separate and independent privacy policies that differ from Primal Health.  If you submit personal information to any of those sites, your information is governed by their privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites.  We encourage you to carefully read the privacy policy of any Web site you visit. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-Social Media Widgets / Links
-
-Our Web site includes Social Media Features, such as the Facebook Like button, and links to our Facebook and Twitter Pages.  These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
-
-Children’s Online Privacy Protection Act Compliance
-
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not knowingly collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.  If we find that we have inadvertently collected information from someone under 13 years of age, we will delete the information immediately.
-
-CAN-SPAM Compliance
-
-We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
-
-Changes to our Privacy Policy
-
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. Policy changes will apply only to information collected after the date of the change.
-
-Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-BloodPressureSolution.com/support
-
-341 N. Central Expressway Suite 341
-
-McKinney, TX 75070
-
-[Support@BloodPressureSolution.com](mailto:Support@BloodPressureSolution.com).877-300-7849
-
-Privacy Policy Customer Pledge
-
-We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:
-
-  * Federal Trade Commission Fair
-
-  * California Online Privacy Protection Act
-
-  * Children’s Online Privacy Protection Act
-
-  * Privacy Alliance
-
-  * Controlling the Assault of Non-Solicited Pornography and Marketing Act
-
-
-
-
-If at any time you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/).
-
-Respectfully,
-
-Primal Health, LP
-
-BloodPressureSolution.com
+If you have any questions or concerns regarding our privacy policy please direct them to :  
+support@primalhealthlp.com
