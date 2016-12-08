@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windows2universe.org privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622015155id_/http%3A//www.windows2universe.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows2universe.org privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208023404id_/http%3A//www.windows2universe.org/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policies - Windows to the Universe
 
@@ -67,7 +67,7 @@ Fort Collins, CO 80527
 
 The privacy policy set out above is effective as of October 19, 2010, and applies to all information previously obtained by the W2U websites. We reserve the right to change the privacy policy at our sole discretion, and we will inform you of any such change by posting a new privacy policy on the W2U websites along with the effective date. We will also obtain consent to uses of PII in ways that are materially different from the ones described in this Privacy Policy.
 
-[](https://web.archive.org/store/product.php?productid=246)
+[](https://web.archive.org/store/product.php?productid=174)
 
 #### Shop Windows to the Universe Science Store!
 
