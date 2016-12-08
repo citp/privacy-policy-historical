@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the didyouknowblog.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622225825id_/http%3A//didyouknowblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the didyouknowblog.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208064814id_/http%3A//didyouknowblog.com/privacy-policy) for the most accurate reproduction.*
 
 # did you know? - © Did You Know? 2015 - Privacy Policy and Copyright
 
@@ -12,19 +12,19 @@ This website and its content is copyright of Did You Know? All rights reserved.�
 
 
 
-**Privacy Policy for  [www.didyouknowblog.com](http://www.didyouknowblog.com/)   
+ **Privacy Policy for  [www.didyouknowblog.com](http://www.didyouknowblog.com/)   
 **At [www.didyouknowblog.com](http://www.didyouknowblog.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [www.didyouknowblog.com](http://www.didyouknowblog.com/) and how it is used. 
 
-**Log Files  
+ **Log Files  
 ** Like many other Web sites, [www.didyouknowblog.com](http://www.didyouknowblog.com/) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-**Cookies and Web Beacons  **  
+ **Cookies and Web Beacons  **  
 [www.didyouknowblog.com](http://www.didyouknowblog.com/) does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-**DoubleClick DART Cookie**  
+ **DoubleClick DART Cookie**  
 \- Google, as a third party vendor, uses cookies to serve ads on [www.didyouknowblog.com](http://www.didyouknowblog.com/).  
 \- Google’s use of the DART cookie enables it to serve ads to users based on their visit to [www.didyouknowblog.com](http://www.didyouknowblog.com/) and other sites on the Internet.  
-\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html ](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.google.com%2Fprivacy_ads.html&t=Mzg4NDY1Mjc5NjlmZDcyZWJjMmMyOGVhMzg4NjViMGUxZDQ4ZmM0OSxUbU4zdWpESg%3D%3D)
+\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html ](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.google.com%2Fprivacy_ads.html&t=Mzg4NDY1Mjc5NjlmZDcyZWJjMmMyOGVhMzg4NjViMGUxZDQ4ZmM0OSxUbU4zdWpESg%3D%3D&m=0)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: Google Adsense
 
