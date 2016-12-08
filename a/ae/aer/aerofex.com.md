@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aerofex.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502103211id_/http%3A//aerofex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aerofex.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209001832id_/http%3A//aerofex.com/privacy-policy) for the most accurate reproduction.*
 
 # Aerofex, Inc. Privacy Policy - Aerofex - Aerofex
 
