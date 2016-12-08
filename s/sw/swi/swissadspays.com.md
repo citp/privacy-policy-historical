@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swissadspays.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312222802id_/http%3A//www.swissadspays.com/public/privcypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swissadspays.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208101304id_/https%3A//www.swissadspays.com/public/privcypolicy) for the most accurate reproduction.*
 
 # SwissAdsPays Privacy Policy - SwissAdsPays
 
