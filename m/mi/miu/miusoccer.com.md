@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the miusoccer.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607134547id_/http%3A//miusoccer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miusoccer.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208141739id_/http%3A//miusoccer.com/privacy) for the most accurate reproduction.*
 
-# Privacy – miusoccer.com
+# Privacy – Miusoccer.com
 
 Privacy
 
@@ -32,8 +32,6 @@ Do we use cookies?
 
 We do not use cookies.
 
-_**Have an opinion on this story? leave your comment at the bottom**_
-
 Do we disclose any information to outside parties?
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
@@ -64,6 +62,16 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
   
   
-[](http://politicslatest.com/)  
+**YOUR CLUB NEWS** [AFC Bournemouth](http://miusoccer.com/category/bournemouth)| [Arsenal](http://miusoccer.com/category/arsenal)| [Burnley](http://miusoccer.com/category/burnley)| [Chelsea](http://miusoccer.com/category/chelsea)| [Crystal Palace](http://miusoccer.com/category/crystal-palace)  
+---|---|---|---|---  
+[Everton](http://miusoccer.com/category/everton)| [Hull City](http://miusoccer.com/category/hull-city)| [Leicester City](http://miusoccer.com/category/leicester-city)| [Liverpool](http://miusoccer.com/category/liverpool)| [Man City](http://miusoccer.com/category/man-city)  
+[Man Utd](http://miusoccer.com/category/man-utd)| [Middlesbrough](http://miusoccer.com/category/middlesbrough)| [Southampton](http://miusoccer.com/category/southampton)| [Stoke City](http://miusoccer.com/category/stoke)| [Sunderland](http://miusoccer.com/category/sunderland)  
+[Swansea City](http://miusoccer.com/category/swansea)| [Tottenham](http://miusoccer.com/category/tottenham)| [Watford](http://miusoccer.com/category/watford)| [West Brom](http://miusoccer.com/category/west-brom)| [West Ham United](http://miusoccer.com/category/west-ham)  
+  
+**FREE BETS** [**_Bwin - £30_**](https://mediaserver.bwinpartypartners.com/renderBanner.do?zoneId=1727546)| [ ** _NetBet - £50_**](https://banners.livepartners.com/click.php?z=33415)| [ ** _Bet365 - £200_**](http://www.bet365.com/home/?affiliate=365_383259)| [ ** _William Hill - £20_**](http://ads2.williamhill.com/redirect.aspx?pid=191304994&bid=66906317&lpid=13510190)| [ ** _Sportingbet - £50_**](http://partner.sbaffiliates.com/processing/clickthrgh.asp?btag=a_60946b_9810&aid=)  
+---|---|---|---|---  
+[**_Skybet - £20_**](http://www.skybet.com/skybet?offer=153&btag=a_8504b_1c_)| [ ** _10Bet - £200_**](http://partners.10bet.com/processing/clickthrgh.asp?btag=a_14717b_2277&aid=)| [ ** _Stan James - £20_**](http://affiliates.stanjamesaffiliates.com/processing/clickthrgh.asp?btag=a_14165b_2)| [ ** _Boylesports - £50_**](http://ads.boylesports.com/redirect.aspx?pid=2180&bid=2507)| [ ** _PaddyPower - £30_**](http://media.paddypower.com/redirect.aspx?pid=10001127&bid=6549)  
+[**_Unibet - £30_**](http://adserving.unibet.com/redirect.aspx?pid=11024&bid=21374)| [ ** _Coral - £50_**](http://banner.coral.co.uk/cgi-bin/redir.cgi?id=N&member=incomeaccess&profile=1sblp0050)| [ ** _Betdaq - £25_**](http://affiliate.cdn.betdaqaffiliates.com/redirect.aspx?pid=4397&bid=2031)| [ ** _BetVictor - £60_**](http://banners.victor.com/processing/clickthrgh.asp?btag=a_41986b_7393&aid=)| [ ** _Mybet - €100_**](http://media.mybet.com/redirect.aspx?pid=5917492&bid=4094)  
+[**_Noxwin - €75_**](http://tracker-pm2.noxaffiliates.com/link?btag=423722_15196)| [ ** _Ladbrokes - £50_**](http://online.ladbrokes.com/promoRedirect?key=ej0xNzE5ODIxMyZsPTEzOTMzODYyJnA9NjkxODYz)| [ ** _Doxxbet - €150_**](http://ads.doxxbet.com/redirect.aspx?pid=7333&bid=4330)| [ ** _32RedSport - £10_**](http://resources.ttrpartners.com/redirect.aspx?pid=4388222&bid=4767)| [ ** _Matchbook - £30_**](http://affiliate.matchbook.com/processing/clickthrgh.asp?btag=a_2297b_1642&aid=)  
   
 
