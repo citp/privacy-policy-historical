@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adswick.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617144235id_/http%3A//www.adswick.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adswick.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208144140id_/http%3A//www.adswick.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
