@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beastmotivation.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614234233id_/http%3A//beastmotivation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beastmotivation.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208154208id_/http%3A//beastmotivation.com/privacy-policy) for the most accurate reproduction.*
 
 # Beast Motivation – Privacy Policy
 
@@ -23,4 +23,4 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20160614234233id_/http://beastmotivation.com/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
+AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20161208154208id_/http://beastmotivation.com/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
