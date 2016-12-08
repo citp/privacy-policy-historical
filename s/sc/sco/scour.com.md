@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scour.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606145237id_/http%3A//www.scour.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scour.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208154712id_/http%3A//scour.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Scour.com - Search Socially with Scour
 
