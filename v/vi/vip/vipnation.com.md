@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vipnation.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406155403id_/https%3A//vipnation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vipnation.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208192522id_/https%3A//vipnation.com/privacy-policy) for the most accurate reproduction.*
 
 # VIP NATION - Privacy Policy | Where True Fans Get Tickets!
 
