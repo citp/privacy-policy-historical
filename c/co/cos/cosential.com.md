@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cosential.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610052818id_/http%3A//www.cosential.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosential.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208051130id_/http%3A//www.cosential.com/privacy-policy) for the most accurate reproduction.*
 
-# Cosential - Privacy Policy
+# Cosential - The leading CRM for AEC firms | Privacy-Policy
 
 Our postal address is:
 
@@ -8,7 +8,7 @@ Our postal address is:
 Suite 604  
 Austin, TX 78701
 
-We can be reached via e-mail at [support@cosential.com](mailto:support@cosential.com) or you can reach us by telephone at 800-505-7089
+We can be reached via e-mail at support@cosential.com or you can reach us by telephone at 800-505-7089
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name.
 
@@ -16,13 +16,13 @@ We collect only the domain name, but not the e-mail address of visitors to our W
 
 The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site .
+With respect to cookies: We use cookies to store visitor’s preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site .
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail to [support@cosential.com](mailto:support@cosential.com) or writing to us at the above address.
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail to support@cosential.com or writing to us at the above address.
 
 If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, writing to us at the above address.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
 Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address, writing to us at the above address.
 
@@ -30,4 +30,4 @@ Upon request we provide site visitors with access to financial information (e.g.
 
 Information contained in the Cosential System or other programs is subject to the confidentiality and privacy agreement for each product.
 
-Cosential is a registered trademark of Cosential, Inc. 
+Cosential is a registered trademark of Cosential, Inc.
