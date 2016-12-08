@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the usaid.gov privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615171356id_/https%3A//www.usaid.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaid.gov privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209004851id_/https%3A//www.usaid.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | U.S. Agency for International Development
 
-##  Privacy Notice
+## Privacy Notice
 
 Thank you for visiting the USAID website. Your privacy and security are very important to us. Please be aware that USAID does not collect personal information when you visit our website, unless you choose to provide that information. However, we do collect some technical information about your visit to USAID.gov.
 
@@ -10,7 +10,7 @@ We would like to make you aware of a law that provides to you with certain right
 
 This is how we handle information about your visit to our Web site:
 
-###  Information Collected and Stored Automatically
+### Information Collected and Stored Automatically
 
 When you visit USAID.gov, we may store some or all of the following:
 
@@ -26,7 +26,7 @@ When you visit USAID.gov, we may store some or all of the following:
 
 We do not collect or track any personal information through these processes. We use this information, in the aggregate, to make our website more useful to visitors - to learn about the number of visitors to our site and the types of technology used, to detect operational problems, and to improve the website's overall security.
 
-###  Information You Provide to U.S. Agency for International Development
+### Information You Provide to U.S. Agency for International Development
 
 _You do not have to provide any personal information to view this website._
 
@@ -40,7 +40,7 @@ In certain instances, such as blog comments or discussion groups, the informatio
 
 When you voluntarily submit information, it constitutes your consent to the use of the information for the purpose stated. When you click the “Submit” button on any of the Web forms found on our sites, you are indicating your voluntary consent to the use of the information you submit, for the stated purpose.
 
-##  Security Notice
+## Security Notice
 
 For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
@@ -48,7 +48,7 @@ Unauthorized attempts to upload or change information on this site are strictly 
 
 If monitoring reveals evidence of possible criminal activity, such evidence may be provided to law enforcement personnel.
 
-##  Cookies
+## Cookies
 
 When you visit some websites, their web servers generate pieces of information known as cookies. Cookies are commonly used to recognize your computer in the future.
 
@@ -67,13 +67,13 @@ Cookies may also be set by the following third-party providers on USAID.gov
 
 Usage of a cookie is in no way linked to any personally identifiable information. You can remove or block cookies by changing the settings of your browser. For Opt-out instructions relating to cookies, please visit: [**http://www.usa.gov/optout_instructions.shtml**](http://www.usa.gov/optout_instructions.shtml).
 
-##  General Disclaimer & Copyright Notice
+## General Disclaimer & Copyright Notice
 
 Information presented on this Web site is considered public information and may be distributed or copied freely unless identified as being subject to copyright protection. In return, we request only that USAID be cited as the source of any information, photos, and images copied from this site and that any photo credits or bylines be similarly credited to the photographer or author.
 
 We strongly recommend that USAID data be acquired directly from this website and not through other sources that may change the information in some way or exclude material crucial to the understanding of that information. While we make every effort to provide accurate and complete information, some information may change between site updates.
 
-##  Disclaimer of Liability
+## Disclaimer of Liability
 
 Every effort is made to provide accurate and complete information. However, with the thousands of documents available, often uploaded within short deadlines, we cannot guarantee that there will be no errors. We make no claims, promises, or guarantees about the accuracy, completeness, or adequacy of the contents of this Web site and expressly disclaim liability for errors and omissions in the contents of this Web site.
 
@@ -81,7 +81,7 @@ With respect to the content of this site, neither the United States Government, 
 
 Additionally, neither the U.S. Government nor USAID assume any legal liability for the accuracy, completeness, or usefulness of any information, product, or process disclosed herein, nor freedom from computer virus; and do not represent that use of such information, product, or process would not infringe on privately owned rights.
 
-##  Disclaimer of Endorsement
+## Disclaimer of Endorsement
 
 The information posted on USAID.gov includes links to information created and maintained by other public and/or private organizations. This site provides these links solely for our users' information and convenience. When users select a link to an outside website, they are leaving USAID.gov and are subject to the privacy and security policies of the owners/sponsors of the outside website. The managers of this site:
 
@@ -95,7 +95,7 @@ The information posted on USAID.gov includes links to information created and ma
 
 We strongly recommend that you review the policies of any outside websites you visit from this site, since you will be subject to the privacy and security policies of those other sites, once you leave USAID.gov.
 
-##  Social Media
+## Social Media
 
 USAID maintains a blog and profiles on several third-party social media sites. We are present on these sites in order to tell the story of USAID to the American public and to host-country audiences.
 
@@ -105,27 +105,27 @@ While some Personally Identifying Information (PII) may become available to USAI
 
 Our presence on social media sites is not intended to endorse, recommend, or favor any third-party company or service provider.
 
-###  Twitter Notice
+### Twitter Notice
 
 This is USAID's Twitter feed, which provides information for the public. Because Twitter is not owned and operated by USAID, we cannot control what personal information is being collected and or how its is being used by Twitter. For more information, please refer to Twitter's Privacy Notice for what information they are collecting about you and how it is being used.
 
-##  Embedded Third-Party Content
+## Embedded Third-Party Content
 
 USAID makes use of third-party embeddable content and applications (widgets). When content is embedded from a third-party provider, we will clearly label the source of the content. Embedded videos may set a cookie when they are played. For more information please see our **cookie policy**.
 
-##  Site Management
+## Site Management
 
 The Bureau for Legislative and Public Affairs manages the overall content, design, and organization of this website and coordinates the release of USAID information on the Internet.
 
-##  Accessibility
+## Accessibility
 
 USAID is committed to providing access to all individuals seeking information on USAID.gov. To provide this information, this site has been built to comply with [**Section 508**](http://www.section508.gov/) of the Rehabilitation Act (as amended). Section 508 requires that all individuals with disabilities (whether federal employees or members of the general public) have access to and use of information and data, comparable to that provided to individuals without disabilities, unless an undue burden would be imposed on us. If you use assistive technology (such as a screen reader, Braille reader, etc.) and have trouble accessing information on this site, please [**contact us**](https://web.archive.org/comment) with the nature of the problem, the URL (web address) of the information you tried to access, and your contact information. We will contact you as soon as possible, and do what we can to provide you with the information you need.
 
-##  Accessing Documents in Different File Formats
+## Accessing Documents in Different File Formats
 
 Some documents on USAID.gov are in Portable Document Format (PDF), so you can view publications in their original format regardless of the type of computer, browser, or operating system you use to access the Internet. In order to view, navigate through, and print PDF documents, you must first download the free [**Acrobat Reader software**](http://get.adobe.com/reader/). For best results, you should install version 10.x or later. Visit the [**Adobe Reader Help and Support page**](http://www.adobe.com/support/reader/) for troubleshooting tips. If you use a screen reader, you may want to visit Adobe's [**Reader accessibility**](http://www.adobe.com/accessibility/products/reader/) page, which has a user's guide for accessing PDF documents with assistive technology.
 
-##  Verification of Content
+## Verification of Content
 
 If you would like verification of information released on this USAID Web site, contact our staff:
 
@@ -133,10 +133,10 @@ _Information Center
 U.S. Agency for International Development  
 Washington, D.C. 20523-1000  
 Phone: 202-712-4810  
-Fax: 202-216-3524_
+Fax: 202-216-3035_
 
 [**http://www.usaid.gov/comment**](https://web.archive.org/comment)
 
-##  **For More Information**
+## **For More Information**
 
 If you have any questions or comments about the information presented here, please contact USAID at the address or phone or fax numbers listed above or [**e-mail us**](http://www.usaid.gov/comment).
