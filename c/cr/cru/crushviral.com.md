@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crushviral.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607163149id_/http%3A//crushviral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crushviral.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208173907id_/http%3A//crushviral.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Crush Viral
 
