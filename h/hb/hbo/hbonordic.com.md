@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hbonordic.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414045908id_/http%3A//www.hbonordic.com/account/data-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hbonordic.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208065009id_/http%3A//hbonordic.com/account/data-policy) for the most accurate reproduction.*
 
-# HBO Nordic
+# HBON
 
 ## Processing of Personal Data
 
