@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the jokideo.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608014251id_/http%3A//www.jokideo.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jokideo.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209080658id_/http%3A//www.jokideo.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | Funny Dirty Adult Jokes, Memes & Pictures
+# Privacy Policy - Jokes, Memes & Pictures
 
 Your Privacy  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-**Any pictures, videos or text jokes posted on Jokideo will not be edited or added to in anyway, if the picture has a credit link or logo on it, it will not be removed or edited. We share our own stuff and other peoples, if we have shared anything that you own and are not happy with it, then don’t hesitate to contact us via our Facebook page or email us at mac789@hotmail.co.uk and we will remove it asap, thank you.**
+ **Any pictures, videos or text jokes posted on Jokideo will not be edited or added to in anyway, if the picture has a credit link or logo on it, it will not be removed or edited. We share our own stuff and other peoples, if we have shared anything that you own and are not happy with it, then don’t hesitate to contact us via our Facebook page or email us at mac789@hotmail.co.uk and we will remove it asap, thank you.**
 
 Google Adsense and the DoubleClick DART Cookie  
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
