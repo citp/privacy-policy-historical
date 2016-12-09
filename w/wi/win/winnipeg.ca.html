@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the winnipeg.ca privacy policy that was archived on 2016-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160604194247id_/http%3A//www.winnipeg.ca/interhom/conditions_of_use/PrivacyStatement.stm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the winnipeg.ca privacy policy that was archived on 2016-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161209222704id_/http%3A//www.winnipeg.ca/interhom/conditions_of_use/PrivacyStatement.stm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-ca" xml:lang="en-ca"><head>
 <title>Privacy - Connect With Us - City of Winnipeg</title>
 <meta name="description" content="City of Winnipeg Privacy Statement.">
 <meta name="keywords" content="privacy, disclaimer, legal, statement, web, website, winnipeg.ca, email, newsletter, log, visitor, site, logging, subscribe, unsubscribe, ">
-
+ 
 <meta name="rating" content="General">
 <meta name="author" content="Conditions of Use">
 <meta name="services" content="Your Government">
@@ -29,7 +29,7 @@
 
 
 <!-- JQUERY SCRIPTS -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <!--script src="http://code.jquery.com/jquery-1.10.2.min.js"></script-->
 
 <!-- This is calling the jquery UI - user interface -->
@@ -72,7 +72,7 @@
   <!-- top navigation -->
   <!-- access key #1 to top nav is in the top-nav.htm include file -->
   <!--The first link on the page is supposed to be an Accessibility link-->
-<a href="http://www.winnipeg.ca/interhom/help/access.stm" tabindex="1" title="Site Accessibility Information"><img alt="Site Accessibility Information" src="/shared/images/pxl_trans.gif" width="1" height="1" border="0" style="position:absolute; top:0px; left:0px; z-index:0; visibility:hidden;"></a>
+<a tabindex="1" title="Site Accessibility Information" href="http://www.winnipeg.ca/interhom/accessibility/accessWinnipegCa.stm"><img alt="Site Accessibility Information" src="/shared/images/pxl_trans.gif" width="1" height="1" border="0" style="position:absolute; top:0px; left:0px; z-index:0; visibility:hidden;"></a>
 
 <a href="#skipToTopNav" accesskey="1" title="Access Key 1 to Skip to Top Navigation"><img alt="Access Key 1 to Skip to Top Navigation" src="/shared/images/pxl_trans.gif" width="1" height="1" border="0" style="position:absolute; top:0px; left:0px; z-index:0; visibility:hidden;"></a>
 
@@ -207,6 +207,7 @@ document.write(d_names[curr_day] + "," + " " + m_names[curr_month] + " " + curr_
 <!-- END DATE -->
 
 
+<!-- Top Nav Search Box Code BEGINS-->
 <!-- Search Box CSS -->
 
 <!--[if lte IE 8]>
@@ -245,40 +246,43 @@ display:none;
 </style>
 <!-- <![endif]-->
 
-
-
-
 <style>
 
 #searchbar {
-	padding: 0 !important;
-	padding-bottom: 0px !important;
-	margin-left: 10px !important;
+	padding-top: 0 !important;
+	margin-left: 20px !important;
 	border: none !important;	
+	float: right;
 }
 
 .searchbarbox {
 	margin: 0 !important;
-	border-top: 1px solid #999;
+	border-top: 1px solid #fff;
 	border-right: 0;
-	border-bottom: 1px solid #999;
-	border-left: 1px solid #999;
-	color: #999999 !important;
+	border-bottom: 1px solid #fff;
+	border-left: 1px solid #fff;
+	/*color: #000;*/
 	display: inline-block;
 	padding: 3px 3px;
 	box-sizing: border-box;	
 	padding-bottom: 0px !important;
+	width:150px;
+	height:30px;
 }
 
 input.wpgsearchbox.fa-input {
-	float:right;
+	float: right;
 	font-family: FontAwesome, Verdana, Helvetica, Arial, sans-serif;
 	color: #000;
 	height: 30px;
 	width: 30px;
 	padding: 0 !important;
 	margin: 0 !important;
-	border: 1px solid #999;
+	border-top: 1px solid #f0f0f0;
+	border-right: 1px solid #f0f0f0;
+	border-bottom: 1px solid #f0f0f0;
+	border-left: 1px solid #A9A9A9;
+	background-color: #f0f0f0;
 }
 
 
@@ -286,18 +290,16 @@ input.wpgsearchbox.fa-input {
 
 <!-- The word Search displays in IE8 and older -->
 <!--[if lte IE 8]><div id="searchtextonly"><strong> | </strong><a href="http://cowapp02.winnipeg.ca/search">Search Winnipeg.ca</a></div><![endif]-->
-
-<div id="searchbar" style="float:right;">
-<form method="get" action="http://cowapp02.winnipeg.ca/search" style="display:inline;">
-<input type="text" id="top_nav_wpgsearchtxt" name="q" class="searchbarbox" onfocus="if (this.value == ' Search Winnipeg.ca') {this.value = '';}" value=" Search Winnipeg.ca" onblur="if (this.value == '') {this.value = ' Search Winnipeg.ca';}" style="width:150px; height:30px;"><input type="submit" value="" class="wpgsearchbox fa-input" style="float:right;">
-
-		<input type="hidden" name="site" value="default_collection">
-		<input type="hidden" name="client" value="SearchFrontend">
-		<input type="hidden" name="proxystylesheet" value="SearchFrontend">
-		<input type="hidden" name="output" value="xml_no_dtd">
+<!-- OPEN top nav search box div -->
+<div id="searchbar">
+<!-- Google v1 Search Box Begins -->
+<form id="cse-search-box" style="display:inline;" title="Search" action="http://www.winnipeg.ca/search/default.stm">
+<input name="q" title="Search" type="text" id="top_nav_wpgsearchtxt" class="searchbarbox" lang="en" placeholder="Search Winnipeg.ca"><input type="submit" name="sa" value="" class="wpgsearchbox fa-input">
 </form>
+<!-- Google v1 Search Box Ends -->
 </div>
-<!-- END SEARCH BOX -->
+<!-- CLOSE Top Nav search box div -->
+<!-- Top Nav Search Box Code ENDS-->
 
 <div id="top-menu">
 
@@ -365,7 +367,6 @@ Self Service</a></li>
 </div>   
 
 <!-- START KNOW YOUR ZONE AD -->
-<!-- START KNOW YOUR ZONE AD -->
 <style>
 
 div#kyz-leaderboard {
@@ -381,73 +382,80 @@ div.floating-menu {
 	
 div.floating-menu .container {
   width: 952px;
+  height: 67px;
   margin: 0 auto;
-  background-image: url(/shared/images/KYZ_TopNavBG.jpg);
+  background-image: url(/shared/images/KYZ_app-CoW-leaderboard.jpg);
+  /*background-image: url(/shared/images/KYZ_TopNavBG.jpg);*/
   background-repeat:no-repeat;
-  padding:5px 0px 5px 0px;
+  /*padding:5px 0px 5px 0px;*/
 	}
 
 div.floating-menu .container .alert {
-  width: 300px;
-  height:53px;
-  color: #000;
+  width: 320px;
+  /*height:53px;*/
+  color: #fff !important;
   font-weight:bold;
   font-size: 80%;
   /*background-color: #DA891E;*/
 	}
 	
 div.floating-menu .container .alert a:link{
-  color: #cc0000;
+  color: #fff !important;
   font-weight:bold;
   font-size: 120%;
 	}	
 div.floating-menu .container .alert a:hover{
-  color: #cc0000;
+  color: #fff !important;
   font-weight:bold;
 	}
 div.floating-menu .container .alert a:active{
-  color: #cc0000;
+  color: #fff !important;
   font-weight:bold;
 	}	
 div.floating-menu .container .alert a:visited{
-  color: #cc0000;
+  color: #fff;
   font-weight:bold;
 	}
+#kyz-leaderboard a{
+	text-decoration: none !important;
+}
+.kyzdate {}
+
+.kyztitle {
+	color:#fff;
+}
+
+.kyzdeclared {
+	background-color: #CC0000;
+	margin-left:0px;
+	width: 270px; 
+	height: 67px; 
+	padding: 5px; 
+	background-image: url(/shared/images/KYZ_TopNavALERT_BG.jpg;
+	color:#fff;
+}
 	
 </style>
 
-
-
-
-<!-- END KNOW YOUR ZONE AD -->
-<!-- END KNOW YOUR ZONE AD -->
-
-
-<!-- START JAVASCRIPT IS DISABLED -->
-
-<style type="text/css">
-	.hidden {display:none;}
-</style>
-<script type="text/javascript">
-	$('html').addClass('hidden');
-	$(document).ready(function() {
-		$('#nojavascript').addClass('hidden');
-		$('html').removeClass('hidden');
-	});
-</script>
-
-<div class="floating-menu" id="nojavascript" style="height:100px;margin-bottom:18px;">
-      <div style="padding: 0px 10px; background-color:#eeeeee; border: 2px solid #cc0000;">
-      	<table border="0" cellspacing="0" cellpadding="5" style="height:100px;">
-      	  <tbody><tr style="vertical-align:top;">
-      	    <td style="width:33px; text-align:center;"><h5 style="margin-top:0.8em; margin-bottom:0.2em; font-size:0.95em;"><i class="fa fa-exclamation-triangle" style="color:#CC0000; font-size: 1.6em; vertical-align:text-top;"></i></h5></td>
-      	    <td><h5 style="margin-top:0.8em; margin-bottom:0.2em; font-size:0.95em;">JavaScript is Disabled</h5><p class="k80">JavaScript is required to use some parts of the Winnipeg.ca website. Your browser currently has JavaScript disabled. Please enable JavaScript in order to proceed. <a href="http://www.enable-javascript.com/" target="_blank" class="http">How to enable JavaScript in your browser</a></p></td>
-      	  </tr>
-      	</tbody></table>
-      </div>
+<div id="kyz-leaderboard">
+<div class="floating-menu" id="float">
+	<a href="http://www.winnipeg.ca/publicworks/snow/Parkingbans/parkingBans.asp" title="Parking Ban information, Know Your Zone dot winnipeg dot ca">
+    <div class="container">
+		<div class="alert">
+         <table border="0" class="kyzdeclared"><tbody><tr><td class="r100B kyztitle" align="center">Residential Parking Ban In Effect</td></tr>
+<tr><td align="center" class="kyzdate">December 9 to December 11</td></tr>
+</tbody></table>
+ 
+        </div>
+    </div>
+    </a>
 </div>
+</div>
+<!-- END KNOW YOUR ZONE AD -->
 
-<!-- END JAVASCRIPT IS DISABLED -->
+<!-- Start Alert -->
+
+<!-- End Alert -->
 
   <div id="page">
   
@@ -538,9 +546,8 @@ populateNav("/interhom/SocialMedia/navData.xml");
               This page summarizes the privacy policy and practices on The City of Winnipeg Internet site ("Winnipeg.ca").
             </p>
             <h3 class="blue">Principles</h3>
-            <p class="k85">
-              As a local public body The City of Winnipeg is subject to The Freedom of Information and Protection of Privacy Act. If you have any general questions about Manitoba's The Freedom of Information and Protection of Privacy Act, please see the FIPPA website.	The City of Winnipeg is committed to providing our visitors with an Internet site that respects their privacy. Winnipeg.ca does not automatically gather any personal information from you, such as your name, phone number, email or address. This information is only obtained if you supply it voluntarily through contacting us via email or online forms.
-            </p>
+            <p class="k85">The City of Winnipeg is committed to providing  our visitors with an Internet site that respects their privacy. Winnipeg.ca  does not automatically gather any personal information from you, such as your  name, phone number, email or address. This information is only obtained if you  supply it voluntarily through contacting us via email or online forms. </p>
+<p class="k85">Any collection of  your personal information is governed by The Freedom of Information and  Protection of Privacy Act. If you have any questions about the collection or  use of your personal information, please see the City’s <a href="/clerks/fippa/">Access and Privacy Office webpage</a>.</p>
             <h3 class="blue">Logging of Site Visitors</h3>
             <p class="k85">
               Like most Web servers, the City of Winnipeg server collects some information about visitors to the site.  The server  receives and records the  Internet domain  and Internet Protocol address from which you access the City's website, the date and time of the visit, and the pages visited.  Depending on the setup of your internet service provider (ISP), this information may identify who you are; you may wish to contact your ISP for more information in this regard. The  information is analyzed for trends and statistics, and then aggregated.  The information is also used to monitor network traffic to prevent damage to the website and to help us make our website more useful to visitors.
@@ -557,7 +564,7 @@ populateNav("/interhom/SocialMedia/navData.xml");
 <div id="lutopContainer">
         <div id="lastUpdateDate">
         Last update: 
-        <!-- #BeginDate format:Am1 -->December 23, 2015<!-- #EndDate -->
+        <!-- #BeginDate format:Am1 -->July 26, 2016<!-- #EndDate -->
         </div>
         <div id="topOfPage">
         <a href="javascript:window.scrollTo(0, 0)">Top of page</a>
@@ -660,8 +667,18 @@ color:#333;
 /*--------------------END Footer Styles------------------------------------------*/
 </style>
 
-<a name="skipToFooter"></a>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
+  ga('create', 'UA-80593478-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<a name="skipToFooter"></a>
 
 
 <div id="footer">
