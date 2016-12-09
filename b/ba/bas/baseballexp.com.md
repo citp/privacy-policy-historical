@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baseballexp.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517173836id_/http%3A//www.baseballexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseballexp.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209024321id_/http%3A//www.baseballexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Security - Baseball Express
 
@@ -34,7 +34,7 @@ We do not knowingly collect or solicit personal information from anyone under th
 
 Baseball Express may amend this policy from time to time. If we make any material change to this privacy statement we will notify you by posting a prominent announcement on our home page; however, any personal information we receive will be treated in accordance with the privacy statement that is in effect a the time we receive such personal information. We encourage you to review this policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. 
 
-All Baseball Express orders are processed by Team Express Distributing, LLC. All credit card purchases will show Team Express as the merchant on credit card billing statements. All order process customer service issues will be conducted by Team Express Customer Service Agents. 
+All Baseball Express orders are processed by Team Express All credit card purchases will show Team Express as the merchant on credit card billing statements. All order process customer service issues will be conducted by Team Express Customer Service Agents. 
 
 #### What you can do 
 
