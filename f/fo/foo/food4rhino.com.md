@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the food4rhino.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617203436id_/http%3A//www.food4rhino.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the food4rhino.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209195022id_/http%3A//www2.food4rhino.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Food4Rhino | Rhino
+# Privacy | Food4Rhino
 
 **_1.   Introduction_**
 
@@ -14,7 +14,7 @@ Throughout this document, we may use certain words or phrases, and it is importa
 
 “Service” refers to the services that we provide through our Site, including services for developers and our Site itself;
 
-“Site” refers to our website, [www.food4Rhino.com](http://www.food4rhino.com/);
+“Site” refers to our website, [www.food4Rhino.com](http://www.food4rhino.com/);
 
 “User” refers to anyone who uses our Service, including general visitors to our Site;
 
@@ -24,7 +24,7 @@ Throughout this document, we may use certain words or phrases, and it is importa
 
 _Identifying Information_
 
-We collect certain personal information from you when you sign up to our Service that can be used to identify you, such as your name, e-mail address, mailing address, telephone number, app information, and any other information that we deem necessary for the purpose of providing you with our Service or which you provide to us voluntarily.  The information we collect from you, to the extent that it is private, is disclosed only in accordance with our Terms of Service and/or this Privacy Policy.
+We collect certain personal information from you when you sign up to our Service that can be used to identify you, such as your name, alias, e-mail address, app information, and any other information that we deem necessary for the purpose of providing you with our Service or which you provide to us voluntarily. The information we collect from you, to the extent that it is private, is disclosed only in accordance with our Terms of Service and/or this Privacy Policy.
 
 _Non-Identifying Information_
 
@@ -36,7 +36,7 @@ We may use your information to:
 
   * Enhance or improve User experience, our Site, or our Service.
   * Process transactions.
-  * Transfer with your consent.
+  * • Transfer to 3rd party developers when you download one of its apps or resources.
   * Send e-mails about our Site or respond to inquiries.
   * Send e-mails and updates about food4Rhino, including our e-mail newsletter.
   * Perform any other function that we believe, in good faith, is necessary to protect the security or proper functioning of our Site or Service.
@@ -102,7 +102,6 @@ It is therefore necessary that you grant the third parties we may use in the cou
 Without limiting the generality of the foregoing, you authorize us to collect, share, store, and otherwise use your information in conjunction with:
 
   * Google Analytics
-  * PayPal
 
 
 
@@ -120,11 +119,11 @@ We take certain measures to enhance the security of our Site and Service, includ
 
 **_12.   Your California Online Privacy Rights_**
 
-Food4Rhino permits residents of California to use its services.  Therefore, it is the intention of food4Rhino to comply with the _California Business and Professions Code_ §§ 22575-22579.  If you are a California resident, you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes.  Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes.  In summary, you must presume that we collect electronic information from all visitors.  You may contact us at [food4rhino@mcneel.com](mailto:food4rhino@mcneel.com) with any questions.
+Food4Rhino permits residents of California to use its services.  Therefore, it is the intention of food4Rhino to comply with the  _California Business and Professions Code_  §§ 22575-22579.  If you are a California resident, you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes.  Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes.  In summary, you must presume that we collect electronic information from all visitors.  You may contact us at [4FQ.RYY3Q4@F3GULnPFFO@](https://web.archive.org/web/20161209195022id_/http%3A//www2.food4rhino.com/4FQ.RYY3Q4@F3GULnPFFO:FKRGS4@) with any questions.
 
 **_13.   Your European Privacy Rights_**
 
-Food4Rhino is located within the European Union and follows Directive 95/46/EC of the European Union.  If you have any questions about your privacy or wish to exercise any of your rights under the Directive, please contact us at [food4rhino@mcneel.com](mailto:food4rhino@mcneel.com).
+Food4Rhino is located within the European Union and follows Directive 95/46/EC of the European Union.  If you have any questions about your privacy or wish to exercise any of your rights under the Directive, please contact us at [4FQ.RYY3Q4@F3GULnPFFO@](https://web.archive.org/web/20161209195022id_/http%3A//www2.food4rhino.com/4FQ.RYY3Q4@F3GULnPFFO:FKRGS4@).
 
 **_14.   International Transfer_**
 
@@ -134,4 +133,4 @@ Your information may be transferred to—and maintained on—computers located o
 
 We may amend this Privacy Policy from time to time.  When we amend this Privacy Policy, we will update this page accordingly and require you to accept the amendments as a condition of your continued use of our Service.
 
-Last Modified:  June 10, 2014
+Last Modified:  October 17, 2016
