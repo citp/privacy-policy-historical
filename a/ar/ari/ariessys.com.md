@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ariessys.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630024456id_/http%3A//www.ariessys.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ariessys.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209100339id_/http%3A//www.ariessys.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Aries Systems Corporation
 
 ## Aries Systems Corporation – Website Privacy Policy Statement
 
-_Last Updated: September 1, 2015_
+_Last Updated: September 1, 2016_
 
 ##### 1\. Introduction.
 
@@ -16,7 +16,7 @@ This Privacy Policy may be revised by us periodically. We advise that you review
 
 For purposes of this Statement, “Publisher” shall mean any organization to which Aries Systems provides Web Services, and “Publication” shall mean any intellectual manifestation created or controlled by the Publisher.
 
-Aries Systems Corporation complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Aries Systems Corporation has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Aries Systems Corporation’s certification,please visit <http://www.export.gov/safeharbor/>.
+Aries Systems Corporation complies with the U.S.-EU Privacy Shield Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Aries Systems Corporation has certified that it adheres to the Privacy Shield and Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Privacy Shield and Safe Harbor programs, and to view Aries Systems Corporation’s certification,please visit <http://www.privacyshield.gov/list>.
 
 ##### 2\. Collection of Personal Information.
 
@@ -32,7 +32,7 @@ Aries Systems does not claim ownership of any of your Registration Information o
 
 **THIS PRIVACY POLICY DOES NOT DESCRIBE OR GOVERN HOW THE PUBLISHER OR THE PUBLICATION MAY USE OR DISCLOSE ANY OF YOUR PERSONAL INFORMATION. ARIES SYSTEMS CORPORATION DOES NOT HAVE ANY INFORMATION CONCERNING HOW THE PUBLISHER OR THE PUBLICATION MAY USE OR DISCLOSE ANY OF YOUR PERSONAL INFORMATION AND YOU SHOULD CONSULT WITH THE PUBLISHER OR PUBLICATION DIRECTLY FOR INFORMATION CONCERNING HOW THE PUBLISHER OR THE PUBLICATION WILL USE OR DISCLOSE YOUR PERSONAL INFORMATION.**
 
-Although we reserve the right to review and monitor any of your Personal Information, we typically simply store your Personal Information on our servers and computer networks and we are generally not knowledgeable of any of the specific details of your User Information. Aries Systems will only use your Personal Information as is reasonably necessary in connection with the operation and maintenance of the Website, the Software and the Services, including providing support and maintenance services to you, other users of the Website, the Software and the Services, and the Publisher. We may also use your Personal Information to contact you with information relating to the Website, the Software, or the Services. We are committed to protecting your privacy and we will not sell or lease your Personal Information to any third party.
+Although we reserve the right to review and monitor any of your Personal Information, we typically simply store your Personal Information on our servers and computer networks and we are generally not knowledgeable of any of the specific details of your User Information. Aries Systems will only use your Personal Information as is reasonably necessary in connection with the operation and maintenance of the Website, the Software and the Services, including providing support and maintenance services to you, other users of the Website, the Software and the Services, and the Publisher. We may also use your Personal Information to contact you with information relating to the Website, the Software, or the Services. Aries Systems is committed to protecting your privacy and we will not sell or lease your Personal Information to any third party.
 
 Although we will make all reasonable efforts to preserve your privacy, in addition to disclosing and making your Personal Information available to the Publisher and/or the Publication, we may disclose your Personal Information:
 
@@ -54,9 +54,13 @@ All Personal Information that you submit or otherwise make available while visit
 
 We have implemented reasonable physical measures and administrative procedures to safeguard against unauthorized access and help prevent the loss, misuse or alteration of your Personal Information in accordance with the terms of this Privacy Policy. However, we cannot guarantee that the security measures we implement in connection with the operation of the Website, the Software and the Services will absolutely prevent others from accessing or acquiring any of your Personal Information.
 
+We take reasonable steps to maintain the security of the personally identifiable information that we collect, including limiting the number of people who have physical access to our database servers, as well as installing electronic security systems that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk.
+
+We take reasonable steps to insure that the data is reliable for its intended use, accurate, complete and current. Further, we take reasonable steps to assure that we do not process personal information in a manner that is inconsistent with the purposes for which we collect the data.
+
 ##### 6\. E-mail Communications.
 
-From time to time, we may e-mail you news bulletins, information on technical service issues, or information relating to the Website, the Software, and/or the Services. You consent to the delivery of such communications by e-mail to the e-mail address(es) that you provide to the Aries Systems Corporation when establishing your User Account.
+From time to time, we may e-mail you news bulletins, information on technical service issues, or information relating to the Website, the Software, and/or the Services. You consent to the delivery of such communications by e-mail to the e-mail address(es) that you provide to Aries Systems Corporation when establishing your User Account.
 
 ##### 7\. Clickstream Data; and Cookies.
 
@@ -68,19 +72,23 @@ We also use session cookies, which are small text files placed on your browser t
 
 This Site may contain links to other websites that are run by third parties. Once you have clicked on a link or button activator connecting you to such third-party website, you will leave the Website and be taken to a website that we do not control. **THIS PRIVACY POLICY DOES NOT APPLY TO ANY PERSONAL INFORMATION COLLECTED ON A THIRD PARTY SITE**. We suggest you read the privacy statement of the third-party website before providing any personally identifiable data on that site. We are not responsible for any use by any person or entity of any information that you may provide while accessing or using any third-party website.
 
-##### 9\. Access to and Change of Personal Information.
+##### 9\. Consent to Transfer.
+
+This Web Site is operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using this Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
+
+##### 10\. Access to and Change of Personal Information.
 
 You have the right to contact us at any time to: (a) request the removal of any Personal Information that you provided to us from our servers and computer networks, which request must be approved by the Publisher or the Publication; and (b) update your Personal Information. Please use the Aries Systems Corporation contact information provided below. If any Personal Information is removed from our servers or computer networks, third parties who had access to such Personal Information prior to its removal may have retained some all of such Personal Information. We are not responsible for the retention or use by third parties of any of your Personal Information at any time, including following it removal from our servers or computer networks.
 
-##### 10\. Children’s Privacy.
+##### 11\. Children’s Privacy.
 
 The Website is designed and intended for use only by individuals who are at least eighteen (18) years old. We are committed to protecting the privacy of children and we do not collect any personally identifiable information from children we actually know are under the age of 13. To ensure compliance with the Children’s Online Privacy Protection Act (COPPA), we will not intentionally or knowingly collect any personal information from any individual who is not at least eighteen (18) years old.
 
-##### 11\. Disputes.
+##### 12\. Disputes.
 
 Aries Systems will use the services of the American Arbitration Association to adjudicate any disputes arising from this Privacy Policy.
 
-##### 12\. Contacting Aries Systems or the Publisher.
+##### 13\. Contacting Aries Systems or the Publisher.
 
 A “Contact Us” link is provided on many pages of the Website. Please click on this link to send an e-mail to Aries Systems and we will work to ensure your query is passed on to and answered by the appropriate person in a timely manner. Please be aware that e-mail you send us is not necessarily secure against interception. If your communication pertains to sensitive information then you should contact us via regular mail or telephone. If you have any questions about this Privacy Policy or the practices of Aries Systems, you can contact us as follows:
 
