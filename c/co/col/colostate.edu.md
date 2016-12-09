@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the colostate.edu privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026152331id_/http%3A//www.colostate.edu/info-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colostate.edu privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210003856id_/http%3A//www.colostate.edu/privacy) for the most accurate reproduction.*
 
-# Privacy Policy of Colorado State University - Fort Collins
+# Privacy Statement | Colorado State University
 
 ## Commitment to Individual Privacy
 
@@ -12,15 +12,15 @@ It is the declared public policy of the State of Colorado that all public record
 
 ## Family Educational Rights and Privacy Act (20 U.S.C. §1232g)
 
-Colorado State University also complies with the Family Educational Rights and Privacy Act (FERPA), which generally prohibits the release of students' education records without consent. FERPA only applies to currently enrolled students. For more information on FERPA please refer to the Student Rights and Responsibilities Section of the Colorado State University General Catalog.
+Colorado State University also complies with the Family Educational Rights and Privacy Act (FERPA), which generally prohibits the release of students’ education records without consent. FERPA only applies to currently enrolled students. For more information on FERPA please refer to the Student Rights and Responsibilities Section of the Colorado State University General Catalog.
 
 ## Information Collection
 
-It is Colorado State University's policy to collect the least amount of personally identifiable information required to fulfill its required duties and responsibilities, to complete a particular transaction or as required by law. This policy applies to the collection of all personally identifiable information, regardless of the source or medium.
+It is Colorado State University’s policy to collect the least amount of personally identifiable information required to fulfill its required duties and responsibilities, to complete a particular transaction or as required by law. This policy applies to the collection of all personally identifiable information, regardless of the source or medium.
 
 For site administration functions, information, other than personal information linked to a particular individual, is collected for analysis and statistical purposes of website navigation. This information is used to help diagnose problems, assess what information is of most interest, determine technical design specifications, identify system performance and/or problem areas, and other administration functions.
 
-You may choose whether or not to provide personal information to Colorado State University via the Internet. If you choose not to provide the personal information we request, you can still visit most of Colorado State University's websites, but you may be unable to access certain options, offers, and services that involve our interaction with you.
+You may choose whether or not to provide personal information to Colorado State University via the Internet. If you choose not to provide the personal information we request, you can still visit most of Colorado State University’s websites, but you may be unable to access certain options, offers, and services that involve our interaction with you.
 
 ## Security
 
@@ -28,15 +28,15 @@ Wherever your personal information may be held within Colorado State University 
 
 ## Browser Cookies
 
-Some of our Web pages utilize "cookies." A "cookie" is a small text file that may be used, for example, to collect information about website activity. Some cookies may serve to recall personal information previously indicated by a Web user. Cookies created by Colorado State University Web pages cannot be read by a third party. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser.
+Some of our Web pages utilize “cookies.” A “cookie” is a small text file that may be used, for example, to collect information about website activity. Some cookies may serve to recall personal information previously indicated by a Web user. Cookies created by Colorado State University Web pages cannot be read by a third party. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser.
 
 ## Tracking Technologies
 
-Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clock stream patterns; and dates and times that our site is accessed. Our use of tracking technologies allows us to analyze trends and statistics to improve our website and your Web experience. Data used from tracking technologies is not linked to Web users' personal information.
+Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clock stream patterns; and dates and times that our site is accessed. Our use of tracking technologies allows us to analyze trends and statistics to improve our website and your Web experience. Data used from tracking technologies is not linked to Web users’ personal information.
 
 ## Third Party Services
 
-On Colorado State University's behalf, third parties may provide certain services available on Colorado State University websites. Colorado State University may provide information, including personal information, collected on the Web to third-party service providers to help us deliver programs, products, information and services. Service providers are also an important means by which Colorado State University maintains its website and mailing lists. We will take reasonable steps to ensure that these third-party service providers are obligated to protect personal information on our behalf.
+On Colorado State University’s behalf, third parties may provide certain services available on Colorado State University websites. Colorado State University may provide information, including personal information, collected on the Web to third-party service providers to help us deliver programs, products, information and services. Service providers are also an important means by which Colorado State University maintains its website and mailing lists. We will take reasonable steps to ensure that these third-party service providers are obligated to protect personal information on our behalf.
 
 ## Disclaimer
 
