@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edventures.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611192044id_/http%3A//edventures.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edventures.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209093534id_/http%3A//edventures.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – PCS edventures.com
 
