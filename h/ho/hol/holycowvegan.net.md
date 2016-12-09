@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holycowvegan.net privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323185441id_/http%3A//holycowvegan.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holycowvegan.net privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209025913id_/http%3A//holycowvegan.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Holy Cow! Vegan Recipes
 
@@ -74,5 +74,3 @@ For information about opting out of ad serving partners please visit:
 <http://www.sovrn.com/privacy-policy/>
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
-
-[](https://www.pinterest.com/pin/create/button/)
