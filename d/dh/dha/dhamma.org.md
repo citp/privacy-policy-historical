@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhamma.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616023823id_/https%3A//www.dhamma.org/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhamma.org privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209132533id_/http%3A//www.dhamma.org/en/about/privacy) for the most accurate reproduction.*
 
 # Vipassana Meditation
 
