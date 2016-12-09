@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madlyodd.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403155258id_/http%3A//madlyodd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madlyodd.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209083923id_/http%3A//madlyodd.com/privacy) for the most accurate reproduction.*
 
 # Privacy • Madly Odd!
 
