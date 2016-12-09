@@ -1,35 +1,15 @@
-> *The following text is extracted and transformed from the telugusnap.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408141644id_/http%3A//telugusnap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telugusnap.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209115607id_/http%3A//www.hairextensionsale.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - TeluguSnap.com
+# Privacy & Policy, Hair Extensions, 100% Human / Remy Hair Extensions, Free Shipping WorldWide.
 
-Welcome to TeluguSnap.com. The privacy of TeluguSnap.com users is important to us.
+Our site is committed to protecting the privacy of all information provided by our customers. We collect personal information that you provide only for the purposes of fulfilling your order (billing and shipping your order). This includes the name, address, and phone number of the intended recipient(s). If you subscribe to our newsletter or contact us through one of our contact forms, or through contest submissions, we collect your email address only to send newsletters with updates on and special offers from hairextensionsale.com. Recipients of our newsletters can unsubscribe at any time using the instructions listed at the end of the email-newsletter.
 
-**What information do we collect?**
+We also use technologies that allow us to track general user-traffic patterns. We also automatically receive and record information from our servers and from your browser, including the time of your visit to pages on our site and information about pages you visited. The information we gather through the use of tracking technologies cannot be matched with any personally identifiable information about you.
 
-TeluguSnap.com does not collect or save any personal information.
+At times we invite our customers and web site users to provide information for surveys, contests, and sweepstakes via this site, email or other media. Participation is completely voluntary and any information collected is used to notify the winners and award prizes, provide site information through our newsletters or improve the use of, and satisfaction with the website. 
 
-We do not place any cookies on the systems of visitors to our site.
+Under no circumstances will we sell, lease, lend or give away information about customers to third parties. We will maintain the confidentiality of your personal information and it will be used only to support your customer relationship with hairextensionsale.com
 
-We will not disclose any personal information to any third party for any reason.
+Third-Party Web Beacons: We use third-party web beacons from Google! to help analyze where visitors go and what they do while visiting our website. Google! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Google!
 
-We do not maintain any databases storing any personal information about our visitors.
-
-Since we do not maintain any personal information about our visitors, we will never send you any advertisements or unsolicited information about this site.
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
-
-**Third party links & Downloads**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.We do link to other web sites which might support downloads of videos, images, software, games and any application files. We do not host any video content in our site,we display videos from video hosting sites.We are not responsible or liability for the copyright issues of videos content.
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website in Terms & conditions.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification..
+Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or by telephoning, or emailing your request to www.hairextensionsale.com’s Customer Support department at cs@hairextensionsale.com. Please do not email your credit card number or other sensitive information.
