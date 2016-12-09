@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiberone.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605141328id_/http%3A//generalmills.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiberone.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209185701id_/http%3A//www.generalmills.com/en/Company/privacy-policies/privacy-policy-US) for the most accurate reproduction.*
 
 # General Mills: Privacy policy
 
