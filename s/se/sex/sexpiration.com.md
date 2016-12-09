@@ -1,49 +1,75 @@
-> *The following text is extracted and transformed from the sexpiration.com privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914052940id_/http%3A//www.sexpiration.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexpiration.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209090051id_/http%3A//sexpiration.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Sexy Toys Shopping
+[ ](http://www.sexpiration.com/)
 
-We respect your privacy. When you shop with us, we will ask for personal information such as your name, email address, billing address, product selections, credit card or other payment information.
-
-To protect other peopls privacy for Cash on Delivery orders a Customer must us their own name and address for cash on delivery orders. For protecting other peoples privacy we will not srvice cash on delivery orders placed by 1 person for another person until we can verify the recipient. Sexpiration holds rights to cancel such orders directly. This specific rule is for cash on delivery only since a person is less likely to pay for items to embarass someone and more likely to do so with a cash on delivery option.
-
-We may also collect information about your browser type, the pages of our site that were viewed during your visit, and any search terms that you used.
-
-PLEASE NOTE: WE DO NOTE STORE ANY CREDIT CARD DETAILS ON OUR SITE
-
-Personal information you provide is used by us only for the following purposes:
-
-  * To improve your shopping experience at our website
-  * To process your order
-  * With your permission, to notify you of products or special offers that may be of interest to you
+  * Your shopping cart is empty!
 
 
 
-## We hate junk mail too
 
-We will only email you to process your order and afterwards if you have given your consent. Will never pass on your email address or personal information to a third party.
+  * [Home](http://www.sexpiration.com/index.php?route=common/home)
+  * [Privacy Policy](http://www.sexpiration.com/privacy)
 
-## Data Protection
 
-We treat all your personal information as confidential.
 
-The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly.
+### What information do we collect?
 
-The personal information which we hold will be held securely in accordance with our internal security policy and the law.
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form.
 
-## Credit Card Information
+While ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously.
 
-Your credit card is processed immediately, we do not store credit card numbers. You will know immediately if your transaction was declined or approved. After processing, you will be shown a transaction receipt, please print or save the receipt for your records.
+### What do we use your information for?
 
-## Your Security
+Any of the information we collect from you may be used in one of the following ways:
 
-When you place an order online, your personal information and credit card information are encrypted using high-grade up to 256-bit SSL encryption before being sent over the internet.
+  * To personalize your experience  
+(your information helps us to better respond to your individual needs)
+  * To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
+  * To process transactions
+    * Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * To administer a contest, promotion, survey or other site feature
+  * To send periodic emails  
 
-We constantly upgrading our online checkout process to be as secure as possible by implementing the most up-to-date methods as required for merchants by the credit card companies - we have even exceeded their minimum security requirements to protect your information better. Your credit card is processed immediately, we do not store credit card numbers.
+    * The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-When shopping with us, submitting your information over the internet is as secure as possible, so have peace of mind knowing that we, here at [sexpiration.com](http://sexpiration.com/) take the protection of your privacy, personal information and your identity extremely seriously.
 
-## Shipping and Delivery
 
-We use tamper-proof packets with no reference to the contents, it is discreet for your privacy. Only a return address and the shipping address is on the shipping label, there is no company name listed. The packing list is located inside the box with a list of the products that are in the order. Our shipping method is very discreet, not even the delivery person will know what is inside the box.
+### How do we protect your information?
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+
+We offer the use of a secure server. All supplied sensitive information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway provider's database, only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+
+### Do we use cookies?
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information).
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and keep track of advertisements.
+
+### Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer your personal information to outside parties. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential.
+
+We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+### Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+### Online Privacy Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+### Your Consent
+
+By using our site, you consent to our privacy policy.
+
+### Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
