@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mybabycart.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602230854id_/http%3A//mybabycart.com/content/2-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybabycart.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209095617id_/http%3A//mybabycart.com/content/2-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MyBabyCart
+# Privacy Policy - mybabycart
 
 At Mybabycart.com, we are extremely proud of our commitment to protect your privacy. We value your trust in us. We will work hard to keep your confidence so that you can enthusiastically use our services and recommend us to friends and family. Please read the following policy to understand how your personal information will be treated as you make full use our Site.
 
