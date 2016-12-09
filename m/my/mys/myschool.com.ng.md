@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myschool.com.ng privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630091820id_/http%3A//myschool.com.ng/school/docs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myschool.com.ng privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209143911id_/http%3A//myschool.com.ng/school/docs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Document
 
@@ -47,4 +47,4 @@ Changes in Our Privacy Policy
 From time to time we may make changes to our privacy policy If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the policy when she or he uses the site after those changes have been posted If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice on our Web site for 30 days. 
 
 Contacting the Web Site   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: support@myschool.com.ng or call: 08039201681 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: support@myschool.com.ng or call: 08189320147 
