@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b2byellowpages.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310160117id_/http%3A//www.b2byellowpages.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2byellowpages.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209071308id_/http%3A//www.b2byellowpages.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy at b2bYellowpages.com
 
@@ -56,4 +56,4 @@ b2bYellowpages.com may also transfer any information in its possession in connec
 
 **What if I have questions or comments about this privacy policy?**
 
-You can direct all additional questions and comments regarding our privacy policy through our **[feedback form.](https://web.archive.org/web/20160310160117id_/http%3A//www.b2byellowpages.com/contact.shtml)**
+You can direct all additional questions and comments regarding our privacy policy through our **[feedback form.](https://web.archive.org/web/20161209071308id_/http%3A//www.b2byellowpages.com/contact.shtml)**
