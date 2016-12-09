@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clockspot.com privacy policy that was archived on 2015-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150824092645id_/http%3A//www.clockspot.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clockspot.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209083814id_/https%3A//www.clockspot.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Clockspot.com
+# Privacy Policy | Clockspot
 
-This privacy policy pertains to the use of the Clockspot Web site at http://www.clockspot.com, and covers how Clockspot treats personal information that Clockspot collects and receives. Personal information is information about you that is personally identifiable, like your name, address, email address, or phone number. Children under 13 are not permitted to use the Clockspot service, and so this privacy policy makes no provision for children's use of the site.
+This privacy policy pertains to the use of the Clockspot Web site at http://www.clockspot.com, and covers how Clockspot treats personal information that Clockspot collects and receives. Personal information is information about you that is personally identifiable, like your name, address, email address, or phone number. Children under 13 are not permitted to use the Clockspot service, and so this privacy policy makes no provision for children's use of the site. 
 
 ## Information Collection and How it is used
 
@@ -58,4 +58,6 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
 
 ## Changes to this Privacy Policy
 
-Clockspot may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice either to your Clockspot Message Inbox, the email address used to register your Clockspot account, or by placing a prominent notice on our site. If you have questions or suggestions please [contact us](https://web.archive.org/web/20150824092645id_/http%3A//www.clockspot.com/contactUs.php). 
+Clockspot may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice either to your Clockspot Message Inbox, the email address used to register your Clockspot account, or by placing a prominent notice on our site. 
+
+* * *
