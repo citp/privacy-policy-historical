@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huge-it.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625020315id_/http%3A//huge-it.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huge-it.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209200208id_/http%3A//huge-it.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,24 +26,24 @@ Huge-IT complies with the Children’s Online Privacy Protection Act and does no
 
 Your purchase of Huge-IT products is final. Our refund service is billed in advance on a monthly, half-yearly or yearly basis and is non-refundable, except for the first 30 (thirty) days, which are covered by the money back guarantee. Within that period refund requests can be accepted if they correspond to the following IMPORTANT requirements:
 
-  * Before asking the refund the user should clearly describe the problem, showing it on the real website by providing link of the page (screenshots are not accepted)
+  * Before asking the refund the user should clearly describe the problem, showing it on the real website by providing link of the page (screenshots are not accepted) 
   * We do not accept refund requests without any evidence of the problems faced with the plugin and without describing the reasons for the refund 
 
 
 
 After the problem is examined by our experts we MAKE refund in cases:
 
-  * Dysfunction of the product which come from our product, and can not be fixed within promised period of time
+  * Dysfunction of the product which come from our product, and can not be fixed within promised period of time 
   * Global bugs founded in the plugin ( the bug is global if it should be updated within rather long period of time) 
 
 
 
 In the case of minor deficiencies that can be corrected, your payment is final. We DON’T refund if:
 
-  * You mistakenly bought the wrong product (in this case, we make discounts if you purchase the right one)
-  * Do not like the product ( we gave all information and demonstration for you to be sure if the product is what you need)
-  * The product doesn’t have features you thought it should have ( free version is made to show how it functions and in user manual you can find all features that pro version has, also we have fast support that can answer all your questions)
-  * There is minor deficiencies, which can be corrected, but it is not given any chance for us to fix
+  * You mistakenly bought the wrong product (in this case, we make discounts if you purchase the right one) 
+  * Do not like the product ( we gave all information and demonstration for you to be sure if the product is what you need) 
+  * The product doesn’t have features you thought it should have ( free version is made to show how it functions and in user manual you can find all features that pro version has, also we have fast support that can answer all your questions) 
+  * There is minor deficiencies, which can be corrected, but it is not given any chance for us to fix 
   * There are problems which come from other plugins or theme incompatibility
 
 
