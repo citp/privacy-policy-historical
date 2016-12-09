@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go2convert.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616163736id_/http%3A//www.go2convert.com/services/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go2convert.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209033337id_/http%3A//www.go2convert.com/services/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - convert image format to TIFF JPG JPEG EPS PCX PDF PNG PSD SVG TGA TIF ICO BMP
 
