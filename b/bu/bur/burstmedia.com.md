@@ -1,20 +1,16 @@
-> *The following text is extracted and transformed from the burstmedia.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051849id_/https%3A//www.rhythmone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burstmedia.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209123113id_/https%3A//www.rhythmone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RhythmOne
 
-**LAST UPDATE AS OF 4 MARCH 2016**
+**LAST UPDATE AS OF 06 NOVEMBER  2016**
 
 Unless otherwise indicated below, this privacy policy applies to any website that references this privacy policy, any RhythmOne website, as well as any data RhythmOne may collect across partnered and unaffiliated sites.  RhythmOne (“RhythmOne” or “we” or “us”), is committed to protecting your (“your” or “you” or “user”) privacy. This privacy policy describes how RhythmOne collects and uses the personal information you provide. By using our website, or services across partnered and unaffiliated sites, you are accepting the policies and practices described in this privacy policy. Each time you visit our website, or use our services, and any time you voluntarily provide us with information, you agree that you are consenting to our collection, use and disclosure of the information that you provide, and you are consenting to receive emails or otherwise be contacted, as described in this privacy policy. This privacy policy is incorporated into our terms of use. Whether or not you register or create any kind of account with us, this privacy policy applies to all users of the website.
-
-**Third-Party Measurement Services**
-
-The use of cookies by our partners, affiliates, tracking utility company and service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company and service providers use session ID and persistent cookies to make it easier for you to navigate our site. Often, advertisers will employ a third-party service provider other than RhythmOne for serving the advertisements and for tracking the performance of an ad program. These companies may employ cookie and 1x1 pixel technology to measure and improve the effectiveness of ads for the advertisers. These companies may collect and use anonymous information about your visits to our member websites and other websites. The information collected can include the date/time of your visit, the banner ad that was shown, your unique user ID, your IP address, the URLs of sites you visit.  This information can also be used for online preference marketing ("profiling") purposes.
-
-Visitors to the RythymOne website may be subject to data collection by third-parties for the purposes of serving interest-based advertising, based on browsing behavior. To Opt-Out on interest-based advertising, please visit the DAA Website - <http://www.aboutads.info/>.
 
 **Data Collection of User Information**
 
 RhythmOne does not acquire or collect any personal information about you. Your name, address, phone number, and email address all remain your private property. RhythmOne does, however, collect information that is specific to how you use the Internet. This non-personally identifying information can include, and is not limited to, the server you are logged onto, the geographic location of the ISP you use, the type of browser you use, sites you have visited, products you have researched and your IP address. This information is obtained solely for the purpose of targeting ads and measuring a given ad's effectiveness on behalf of RhythmOne’s advertisers.  There are instances where a user may provide specific personal information in response to an ad containing a survey, purchase agreement, registration questionnaire or the like. For such programs, RhythmOne (or a third party working in conjunction with RhythmOne and the advertiser) acquires this information on behalf of the advertiser. The adviser uses this information to deliver the goods or services requested by the user. RhythmOne may aggregate this information in a compiled format without identifying users specifically.  This provides the advertiser precise profiles of the types of individuals that respond to the ads.
+
+In addition, RhythmOne hereunder may from time to time provide the information described above to third party providers such as Google Analytics or other similar services, solely for purposes of analyzing user behavior and without reference to any personally identifiable information.
 
 **Consumer Information**
 
@@ -52,11 +48,21 @@ We may share non-personally identifiable information that has been aggregated ac
 
 We use a variety of technologies, such as pixels, browser headers, software development kits, cookies and other technologies, to collect, use, log and share information as described in this policy so we can provide and support our services. Our customers, partners and other parties may use various technologies to collect information about you, such as when you interact with ads, websites or apps using our services.
 
+**RhythmOne’s Use of Cross-Application and Cross-Device Technology**
+
+We and/or our customers may collect information about your activity across multiple unaffiliated third-party mobile applications.  We may share this information with our customers in order to help them predict the types of ads that may be relevant to you and to display advertising to you accordingly.   This information may also be combined with a mobile advertising identifier.   To opt out of such practices, please see the Third-Party Measurement Services/Opting Out of Cookies section above.
+
+We and/or our customers may use technology that establishes connections among related devices (such as mobile devices and desktop computers) both in order to deliver advertising that may be more relevant to you, as well as for analytics and reporting purposes.  This means that information about your use of websites or applications on one of your devices may be combined with information from your other devices.  
+
+We may also partner with third parties to provide such cross-device technology to our customers, and in doing so we may share anonymous identifiers with those third parties in order to make connections among related devices.  We may also use your device’s IP address to infer connections among related devices within the same household.  To opt out of RhythmOne’s use of such technologies for each web browser and on each of your devices, please follow the instructions for opting out in both web browsers and mobile applications, as described in the Third-Party Measurement Services/Opting Out of Cookies sections above.
+
 **Third-Party Measurement Services**
 
 The use of cookies by our partners, affiliates, tracking utility company and service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company and service providers use session ID and persistent cookies to make it easier for you to navigate our site. Often, advertisers will employ a third-party service provider other than RhythmOne for serving the advertisements and for tracking the performance of an ad program. These companies may employ cookie and 1x1 pixel technology to measure and improve the effectiveness of ads for the advertisers. These companies may collect and use anonymous information about your visits to our member websites and other websites. The information collected can include the date/time of your visit, the banner ad that was shown, your unique user ID, your IP address, the URLs of sites you visit.  This information can also be used for online preference marketing ("profiling") purposes.
 
 Visitors to the RythymOne website may be subject to data collection by third-parties for the purposes of serving interest-based advertising, based on browsing behavior. To Opt-Out on interest-based advertising, please visit the DAA Website - <http://www.aboutads.info/>.
+
+Although certain RhythmOne technology may honor “do not track” (DNT) signals and similar mechanisms transmitted by web browsers or mobile device operating systems, RhythmOne is not responsible, and shall not be liable, for the acts of third parties, such as ad networks, with respect to such third parties’ tracking policies.
 
 **Personal Information**
 
