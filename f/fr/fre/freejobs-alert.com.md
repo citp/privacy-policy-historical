@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freejobs-alert.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602030043id_/http%3A//www.freejobs-alert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freejobs-alert.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209112216id_/http%3A//www.freejobs-alert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Jobs Alert
 
@@ -36,3 +36,5 @@ If you have any questions or concerns about our privacy policies, please contact
 **We take steps to protect personal information**
 
 We take reasonable steps to secure your personally identifiable information against unauthorized access or disclosure. We encrypt transmission of data on pages where you provide payment information. However, no security or encryption method can be guaranteed to protect information from hackers or human error. Information we collect may be stored or processed on computers located in any country where we do business.
+
+**Our website provide All information about Govt jobs notification . We are not responsible for any loses or damage .  We can not guarantee that the information on this page is 100% correct**
