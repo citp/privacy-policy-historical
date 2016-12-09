@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easytweaks.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508112434id_/http%3A//www.easytweaks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easytweaks.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209205805id_/http%3A//www.easytweaks.com/privacy) for the most accurate reproduction.*
 
 # Privacy | EasyTweaks.com | EasyTweaks.com
 
