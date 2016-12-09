@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the benjaminyong.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406071528id_/http%3A//benjaminyong.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benjaminyong.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209235846id_/http%3A//benjaminyong.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BenjaminYong.com | Affiliate Marketing For Asia
+# Privacy Policy - BenjaminYong.com | A Self Made Online Millionaire
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
