@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitchero.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628053325id_/http%3A//www.pitchero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitchero.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209032930id_/http%3A//www.pitchero.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pitchero
 
@@ -12,7 +12,7 @@
 1.2
     This privacy policy explains to you how certain information about you may be processed. By using the PITCHERO.COM platform, you expressly consent to the use of Your Data in accordance with this privacy policy.
 1.3
-    For the purposes of the Data Protection Act 1998, the data controller is Pitch Hero Limited ("Pitch Hero") of Unit 8, Centre 27 Business Park, Bankwood Way, Birstall, Leeds, United Kingdom.
+    For the purposes of the Data Protection Act 1998, the data controller is Pitch Hero Limited ("Pitch Hero") of Sterling House, Capitol Park East, Tingley, Leeds, West Yorkshire, WF3 1DR.
 
 2
     
@@ -165,7 +165,7 @@
 ### Contact Us
 
 11.1
-    If You have any questions, comments or requests regarding this policy or how We use Your Data please contact us using the [page supplied](http://www.pitchero.com/contact) or write to us at Pitch Hero Limited, First Floor, Unit 8, Centre 27 Business Park, Bankwood Way, Birstall, West Yorkshire, United Kingdom WF17 9TB.
+    If You have any questions, comments or requests regarding this policy or how We use Your Data please contact us using the [page supplied](http://www.pitchero.com/contact) or write to us at Pitch Hero Limited, Pitchero, Sterling House, Capitol Park East, Tingley, Leeds, West Yorkshire, WF3 1DR.
 
 ## Cookie Notice
 
