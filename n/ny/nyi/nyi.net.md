@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyi.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616222149id_/http%3A//www.nyi.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyi.net privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209054201id_/http%3A//www.nyi.net/privacy_policy) for the most accurate reproduction.*
 
 # NYI Privacy Policy - NYI - New York Internet
 
@@ -8,4 +8,4 @@ NYI does not share information with other companies other than its own associate
 
 NYI reserves the right to change the terms of its privacy policy at any time. If we do change this privacy policy, we will post the changes on this Web site. We encourage you to review this privacy policy each time you visit our Web site to make sure you understand our current policy on collecting and using information collected through our Web site. If you have any inquiries or complaints you may contact us at [info@nyi.net](mailto:info@nyi.net?subject=Inquiry).
 
-[Safe Harbor Privacy Policy](http://www.nyi.net/safe_harbor_privacy_policy/)
+[EU-US Privacy Shield – Privacy Policy](http://www.nyi.net/eu-us_privacy_shield/)
