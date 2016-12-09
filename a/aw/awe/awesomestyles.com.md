@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awesomestyles.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316090944id_/http%3A//www.spyka.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesomestyles.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209184939id_/http%3A//www.spyka.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | spyka Web Group
 
