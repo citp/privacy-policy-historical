@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the femo.com privacy policy that was archived on 2015-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150823173407id_/http%3A//femo.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femo.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209015905id_/http%3A//femo.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-This Privacy Policy was last modified on 24th July 2015.
 
 Welcome! This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site. We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
 
@@ -19,4 +17,4 @@ Security
 The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
 Changes To This Privacy Policy  
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes. This Privacy Policy was first placed here, or its content was last modified on 24th July 2015.
