@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kontera.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608064249id_/http%3A//amobee.com/privacy/technology) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kontera.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209061708id_/http%3A//amobee.com/privacy/technology) for the most accurate reproduction.*
 
 # Amobee Privacy Policy for Consumers - Amobee
+
+### Amobee Privacy Policy for Consumers
 
 **Effective March  21, 2016**
 
