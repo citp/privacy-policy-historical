@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the internationalculinarycenter.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608011520id_/http%3A//www.internationalculinarycenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalculinarycenter.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209025742id_/http%3A//www.internationalculinarycenter.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - International Culinary Center
+# Privacy Policy - www.internationalculinarycenter.com
 
 Effective – January 1st, 2016
 
 ## Information Collection
 
-The International Culinary Center, LLC (“The International Culinary Center”) is committed to our users’ privacy, and has posted this privacy policy to disclose the information practices we use on our websites below.  If users have specific questions or concerns regarding this statement, they should contact our Websites Administrator by [ **email**](mailto:administrator@internationalculinarycenter.com) or at 888.324.2433.
+The International Culinary Center®, LLC (“The International Culinary Center”) is committed to our users’ privacy, and has posted this privacy policy to disclose the information practices we use on our websites below.  If users have specific questions or concerns regarding this statement, they should contact our Websites Administrator by [ **email**](mailto:administrator@internationalculinarycenter.com) or at 888.324.2433.
 
 The International Culinary Center  is the sole owner of the information collected on the websites ending *.internationalculinarycenter.com, *.culinarycenter.com or *.culinarycenter.edu (“Sites”).
 
