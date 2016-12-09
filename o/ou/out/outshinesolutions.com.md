@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outshinesolutions.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615061759id_/http%3A//outshinesolutions.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outshinesolutions.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209043317id_/http%3A//outshinesolutions.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Outshine Solutions Pvt. Ltd.
 
