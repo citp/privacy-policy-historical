@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zontseo.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501003611id_/http%3A//www.zontseo.com/about-zontseo/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zontseo.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209055929id_/http%3A//www.zontseo.com/about-zontseo/privacy-policy) for the most accurate reproduction.*
 
 # Zont SEO Privacy Policy
 
@@ -64,5 +64,3 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [Zont SEO Helpdesk](http://www.zontseo.com/support/)
 
 This document was last updated on August 17, 2012
-
-## A confirmation email is on its way...
