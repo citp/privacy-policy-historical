@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the debt.org privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326002242id_/https%3A//www.debt.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debt.org privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209132611id_/https%3A//www.debt.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - We Will Not Share Your Information
 
 ClayRun, LLC knows that your privacy is important to you. It is important to us. So, please read our Privacy Policy. Providing your personal information is always voluntary however, note that without certain information, we may be unable to provide our services. If you provide your personal information, we will consider this your consent to our use. However, we will respect your preferences as to whether and how you’d like us to communicate with you and you may modify your preferences by sending us an email at [outreach@debt.org](mailto:Outreach@debt.org).  If you opt-out of receiving emails from us, we reserve the right to send you certain communications related to this Website that are considered part of your account, such as technical alerts, without offering you the opportunity to opt out of receiving them.
 
 INFORMATION WE MAY COLLECT  
-We may collect personal information, including your name, mailing address, telephone number, email address, transaction information, and credit or debit card information. We may collect this information when you:
+We may collect personal information, including your name, mailing address, telephone number, email address, transaction information, and credit or debit card information. 
+
+###### We may collect this information when you:
 
   * complete a request, registration, survey, application or other form
   * save your information with us online or visit our site
@@ -22,8 +24,9 @@ To review or update personal information you’ve provided, you may call or emai
 
 We may track your Internet Protocol (IP) address and other anonymous information from your web browser for trends and statistics but you will remain anonymous unless you provide us with personal information during your visit to this Website or during an earlier or subsequent visit and we are able to link your IP address between your current visit and one of these other visits.  We also work with service providers who use tracking technologies to serve ads across the Internet or track email communication response rates on our behalf.  These companies may collect personal information about your visits to this Website and your interaction with our communications, including advertising.
 
-HOW WE USE THE INFORMATION WE COLLECT  
-We may use the personal information we collect to:
+HOW WE USE THE INFORMATION WE COLLECT
+
+###### We may use the personal information we collect to:
 
   * provide you with our services
   * customize and/or personalize your communications, surfing, viewing and user experience
@@ -38,8 +41,9 @@ We may use the personal information we collect to:
 
 
 
-HOW WE SHARE THE INFORMATION WE COLLECT  
-We may share your personal information in the following ways:
+HOW WE SHARE THE INFORMATION WE COLLECT
+
+###### We may share your personal information in the following ways:
 
   * With companies who provide certain services for us, such as shipping, name and address verification, email distribution, and promotions management. We only share that information needed in order for these companies to perform the services requested and they are contractually obligated to protect this information and use it for no other purpose.
   * With co-sponsors of contests, sweepstakes or promotions.
@@ -76,6 +80,6 @@ If you wish to update your information or do not wish to be contacted via email,
 In some limited circumstances, such as to resolve disputes, troubleshoot problems and enforce our Website Terms and Conditions Agreement, we may retain in our files information you have requested to remove.  Further, your personal information is never completely removed from our databases due to technical constraints and the fact that we back up our system.  Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your request.
 
 TERMS AND CONDITIONS  
-We have a [Terms and Conditions Agreement](https://www.debt.org/disclaimer/ "Debt.org – Disclaimer, Terms and Conditions of Use") that sets forth the terms and conditions under which we provide products, services and information to your from this Website.  Please review the Terms and Conditions governing your use of and access to, this Website.  It is your responsibility to read, understand and comply with the terms and conditions set forth therein.
+We have a [Terms and Conditions Agreement](https://web.archive.org/disclaimer/ "Debt.org – Disclaimer, Terms and Conditions of Use") that sets forth the terms and conditions under which we provide products, services and information to your from this Website.  Please review the Terms and Conditions governing your use of and access to, this Website.  It is your responsibility to read, understand and comply with the terms and conditions set forth therein.
 
 Updated:  February 2, 2016
