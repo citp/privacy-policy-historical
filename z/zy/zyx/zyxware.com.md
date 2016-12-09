@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zyxware.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526093040id_/http%3A//www.zyxware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zyxware.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209175145id_/http%3A//www.zyxware.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Zyxware Technologies
 
