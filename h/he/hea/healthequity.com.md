@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthequity.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616183203id_/http%3A//www.healthequity.com/legal%23pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthequity.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209072837id_/http%3A//www.healthequity.com/legal%23pp) for the most accurate reproduction.*
 
 # Legal notices | HealthEquity
 
@@ -148,7 +148,7 @@ HealthEquity works with a number of other companies to ensure that we are provid
 
 ### Links from employers or health plans
 
-If your account was established by your employer or your health plan, they may have requested that we setup a communication channel whereby you can log into HealthEquity’s portal through their site without entering your user name and password again. This is known as "Single Sign On." When you use Single Sign On, you are authorizing HealthEquity’s system to pass on certain personal information, such as your account balances, to those systems. Similar to the other linked websites described above, we are not responsible for their use of your personal information and our Privacy Notice does not cover their information practices. You should review the privacy notices provided on their Web sites before using the Single Sign On feature.
+If your account was established by your employer or your health plan, they may have requested that we set up a communication channel whereby you can log into HealthEquity’s portal (known as Single Sign on) or access your account information through their site without entering your user name and password again. Your employer or health plan also may have contracted with another vendor that provides additional services, such as personal health care costs management, that allows you to log into HealthEquity’s portal or access your HealthEquity’s account information through that vendor’s website, also without entering your HealthEquity user name and password. When you use those websites to sign into HealthEquity’s portal or access your account information, you are authorizing HealthEquity’s system to pass on certain personal information, such as your account balances, to those systems.
 
 ### Opt out instructions
 
