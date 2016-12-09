@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codester.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413200210id_/https%3A//www.codester.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codester.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209113938id_/https%3A//www.codester.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Codester
 
