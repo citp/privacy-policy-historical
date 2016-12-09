@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the cliffsnotes.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608095532id_/http%3A//www.hmhco.com/common/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cliffsnotes.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209170949id_/http%3A//www.hmhco.com/common/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Houghton Mifflin Harcourt
 
 Last Updated:  April 6, 2016 (Correction of reference. Addition of third party service provider. [Click here.](http://www.hmhco.com/common/privacy-policy#tpsp))
+
+This privacy policy governs the use of any online service location (e.g., web site or mobile app) that posts a link to this Privacy Policy.
+
+To learn about our information practices in connection with our educational intervention programs and services, [click here](https://web.archive.org/common/intervention-privacy-policy).
+
+To learn about our information practices with respect to children under the age of 13, [click here](http://www.hmhco.com/common/privacy-policy#AL28), and with respect to our K–12 educational products, [click here](https://web.archive.org/common/privacy-policy-for-k-12-learning-platforms).
 
 ## Overview
 
