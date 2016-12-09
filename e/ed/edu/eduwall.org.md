@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eduwall.org privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510064104id_/http%3A//eduwall.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduwall.org privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209192538id_/http%3A//eduwall.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Educational News, University & College Admission, Scholarships Openings
+# Privacy Policy - EduWall.org
 
 Generally, you control the amount and type of information you provide to us when using our Website.Â  As a visitor to our Website, you can browse our Website to find out more about us.Â  You are not required to provide us with any PII as a Visitor.
 
