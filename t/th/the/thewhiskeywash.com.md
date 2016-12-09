@@ -1,79 +1,104 @@
-> *The following text is extracted and transformed from the thewhiskeywash.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321001245id_/http%3A//thewhiskeywash.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewhiskeywash.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209161023id_/http%3A//thewhiskeywash.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Whiskey Wash
 
-Protecting your private information is our priority. This Statement of Privacy applies to the user and The Whiskey Wash, LLC and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to The Whiskey Wash, LLC include Whiskey Wash. The Whiskey Wash website is a a news and information online publication on all things whiskey site. By using the Whiskey Wash website, you consent to the data practices described in this statement.
+**Last Modified: March 31, 2016**
 
-**Collection of your Personal Information**
+The Whiskey Wash understands that you are concerned about your privacy, and we want to maintain your trust. Our Privacy Policy is designed to provide transparency into our privacy practices and describes how we treat the information we collect when you visit our Website, [http://www.thewhiskeywash.com](http://www.thewhiskeywash.com/) (the “Website”), and/or register for our email publications. We are dedicated to treating your personal information with care and respect.
 
-Whiskey Wash may collect personally identifiable information, such as your name. We may gather additional personal or non-personal information in the future.
+This Privacy Policy applies to all information collected or used on the Website and any other websites and applications that we own or control that link to this Privacy Policy.
 
-Information about your computer hardware and software may be automatically collected by Whiskey Wash. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Whiskey Wash website.
+**1\. Consent to Use of Personal Information.  ** By using the Website, you are accepting the terms of this Privacy Policy and consenting to our collection, use, disclosure, retention, and protection of your personal information as described in this Privacy Policy.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Whiskey Wash’s public message boards, this information may be collected and used by others.
+**2\. Children’s Privacy.  ** The Website and its content are not intended for use by children, especially children under the age of 13. We do not knowingly solicit or collect information from children. If we learn that we may have collected information from anyone under the age of 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us. We do not permit anyone under the age of 21 to receive our emails.
 
-Whiskey Wash encourages you to review the privacy statements of websites you choose to link to from Whiskey Wash so that you can understand how those websites collect, use and share your information. Whiskey Wash is not responsible for the privacy statements or other content on websites outside of the Whiskey Wash website.
+**3.** **Information We Collect.   **We may collect information that identifies you (“Personally Identifiable Information”) when you use our Website. The types of Personally Identifiable Information that we collect may include your name, address, phone number, birth date, billing and delivery information, email address, credit card information, or other financial account information.
 
-**Use of your Personal Information  **
+We may also collect other information that you provide to us but that does not identify you personally, such as your media access control (MAC) address, device type, screen resolution, operating system version, and browser type and version.
 
-Whiskey Wash collects and uses your personal information to operate its website(s) and deliver the services you have requested.
+**4\. Why We Collect Information.   **We may use the information that we collect for any of the following purposes:
 
-Whiskey Wash may also use your personally identifiable information to inform you of other products or services available from Whiskey Wash and its affiliates. Whiskey Wash may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+4.1.to ensure that the Website functions properly, help us resolve visitor questions about using it, and improve the Website;
 
-Whiskey Wash does not sell, rent or lease its customer lists to third parties.
+4.2.to enable you to access and use the Website, including uploading, downloading, collaborating on, and sharing content;
 
-Whiskey Wash may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Whiskey Wash, and they are required to maintain the confidentiality of your information.
+4.3.to process and complete transactions, and send you related information, including purchase confirmations and invoices;
 
-Whiskey Wash may keep track of the websites and pages our users visit within Whiskey Wash, in order to determine what Whiskey Wash services are the most popular. This data is used to deliver customized content and advertising within Whiskey Wash to customers whose behavior indicates that they are interested in a particular subject area.
+4.4.to send transactional messages, including responding to your comments, questions, and requests and providing customer service and support;
 
-Whiskey Wash will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Whiskey Wash or the site; (b) protect and defend the rights or property of Whiskey Wash; and, (c) act under exigent circumstances to protect the personal safety of users of Whiskey Wash, or the public.
+4.5.to send promotional communications, such as providing you with information about services, features, newsletters, offers, promotions, contests, and events;
 
-**Use of Cookies**
+4.6.to compile statistics about usage and response rates and for marketing or advertising purposes;
 
-The Whiskey Wash website may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+4.7.to investigate and prevent security issues such as unauthorized access to the Website, fraudulent transactions, and other illegal activities.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Whiskey Wash pages, or register with Whiskey Wash site or services, a cookie helps Whiskey Wash to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Whiskey Wash website, the information you previously provided can be retrieved, so you can easily use the Whiskey Wash features that you customized.
+**5\. Information Sharing and Disclosure.**
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Whiskey Wash services or websites you visit.
+5.1.Technologies We Use.  We do not make subscriber or customer lists available to third parties. We may share non-personally identifiable information, such as annual income, buying preferences, age, and other demographic and profile statistics, with advertisers interested in learning more about the Website. If we do so, we will share such information only in an anonymous form that does not contain any personally identifiable information about you or any other person.
 
-**Cookie Opt Out**
+5.2.Online Advertising.  Advertising appearing on the Website may be delivered to users by third parties, who may set “cookies.” Cookies are pieces of information that a website transfers to your hard drive that allow you more easily to navigate a website and customize website features that are updated each time you visit a website. They cannot be used to run applications or deliver viruses to your computer. Advertising servers use cookies to compile information about users and deliver targeted advertisements that advertisers believe will be of most interest to those users.
 
-Should you want to opt out of cookies, here are a few options:
+We may also set cookies to help us track repeat visits to the Website. Most browsers are initially set up to accept cookies. You may set your preferences to refuse cookies, but this may limit your access to some areas of the Website, and may prevent your ability to comment on posted articles or fully experience interactive features of the Website.
 
-  * You can opt out of cookies using the Network Advertising Initiative opt-out page at this page;  
-<http://www.networkadvertising.org/choices/>
-  * You can choose to disable or selectively turn off cookies or third-party cookies in your browser settings.
+This Privacy Policy covers our use of cookies and does not cover the use of cookies by any advertisers, each of whom maintain their own privacy policy. We encourage you to review the privacy statements of websites that you may choose to link to from The Whiskey Wash so that you can understand how those websites may collect, use, or share your information. We cannot be responsible for either the privacy practices or the content of any websites that are not affiliated with us.
+
+**6\. How We Collect Information.**
+
+6.1.Sharing with Others.  We may use one or more of the following technologies to collect Personally Identifiable Information and other information: cookies, flash cookies, general log information, and referral information from third-party websites. We may also use tracking technologies to collect information about your visits to pages within the Website to determine which of the services that we offer are most popular and to deliver customized content and advertising within the Website to users whose visits indicate their interest in particular content.
+
+6.2.How We Respond to Do Not Track Signals.  If you have enabled your Internet browser to refuse cookies or have selected a “do not track” preference, we will not collect personal information about you. In addition, when you visit our website, third parties will not collect personal information about you or your online activities over time or across websites.
+
+6.3.Service Providers.  We engage service providers to provide services to us. We may share your Personally Identifiable Information with them,
+
+  1. subject to our obligations under this Privacy Policy;
+  2. subject to any other appropriate confidentiality and security measures; and
+  3. on the condition that they use your Personally Identifiable Information only on our behalf and in accordance with our instructions.
 
 
 
-**Security of your Personal Information**
+**7\. Controls and Choices.**
 
-Whiskey Wash secures your personal information from unauthorized access, use or disclosure.
+7.1.Your Controls and Choices.  We provide you the ability to exercise certain controls and choices regarding our collection, use, and sharing of your Personally Identifiable Information. Your controls and choices may include any or all of the following:
 
-**Children Under Thirteen**
+  1. you may change your choices for subscriptions;
+  2. you may choose whether or not to receive communications from us;
+  3. you may request to review, access, amend, or correct any of your Personally Identifiable Information; and
+  4. you may choose whether you received targeted advertising from us or our advertisers.
 
-Whiskey Wash does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
 
-**Disconnecting your Whiskey Wash Account from Third Party Websites**
 
-You will be able to connect your Whiskey Wash account to third party accounts. BY CONNECTING YOUR WHISKEY WASH ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED INTHIS MANNER, DO NOT USE THE THIS FEATURE. You may disconnect your account from a third party account at any time. Information may be disconnected through the comment system..
+You may tell us your preferences for any of the above choices by contacting us by email to nino[at]thewhiskeywash.com.
 
-**Opt-Out & Unsubscribe**
+7.2.Your California Privacy Rights.  If you are a California resident, you may have certain additional rights. California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by us to third parties for the third parties’ direct marketing purposes. You may deliver a request for information concerning personal information collected and third parties that received the personal information for the third parties’ direct marketing purposes during the preceding calendar year to:
 
-We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Whiskey Wash by contacting us here:
+The Whiskey Wash, LLC
 
-– Email: nino[at]thewhiskeywash.com
+1631 NE Broadway
 
-**Changes to this Statement**
+Suite 109
 
-Whiskey Wash will occasionally update this Statement of Privacy to reflect company and customer feedback. Whiskey Wash encourages you to periodically review this Statement to be informed of how Whiskey Wash is protecting your information.
+Portland, OR  97232
 
-**Contact Information**
+You may also submit a request for the above information by contacting us by email to nino[at]thewhiskeywash.com.
 
-Whiskey Wash welcomes your questions or comments regarding this Statement of Privacy. If you believe that Whiskey Wash has not adhered to this Statement, please contact Whiskey Wash at:
+**8\. Security of Your Information.**
 
-The Whiskey Wash, LLC  
-1631 NE Broadway #109  
-Portland, Oregon 97232
+8.1.Security Measures.  We have put in place physical, electronic, and managerial procedures designed to help prevent unauthorized access, maintain data security, and correctly use the information that we collect. These safeguards vary based on the sensitivity of the information that we collect and store.
 
-Email Address: nino[at]thewhiskeywash.com
+8.2.No Security Guarantees.  Although we take appropriate measures to safeguard against unauthorized disclosures of Personally Identifiable Information, we cannot guarantee that such information will never be disclosed, altered or destroyed, in a manner that is inconsistent with this Privacy Policy.
+
+**9\. Changes to Privacy Policy.  ** Although most changes are likely to be minor, we may occasionally change or update our Privacy Policy. We encourage you to frequently check this page to be informed of how we are protecting your privacy. Your continued use of the Website after any change will constitute your acceptance of this Privacy Policy with those changes.
+
+**10\. Links to Other Websites.**   The Website contains links to other sites, which may be operated by companies not affiliated with us. Linked websites may have their own privacy policies or notices. We encourage you to review the privacy statements of websites that you may choose to link to from The Whiskey Wash so that you can understand how those websites collect, use, and share your information. We cannot be responsible for either the privacy practices or the content of any websites that are not affiliated with us.
+
+**11\. Contacting Us.**   You can reach us at:
+
+The Whiskey Wash, LLC
+
+1631 NE Broadway
+
+Suite 109
+
+Portland, OR  97232
+
+or by email to nino[at]thewhiskeywash.com.
