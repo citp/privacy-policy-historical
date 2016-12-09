@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wordery.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528151449id_/https%3A//wordery.com/cs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordery.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209120907id_/https%3A//wordery.com/cs/privacy) for the most accurate reproduction.*
 
 # Privacy policy | wordery.com
 
-Magpie Investments Limited, trading as "wordery.com" (" **We** ") are committed to protecting and respecting your privacy.
+Wordery.com Limited, trading as "wordery.com" (" **We** ") are committed to protecting and respecting your privacy.
 
 This policy (together with our [Terms of Use](https://web.archive.org/cs/terms_use "Terms of Use") and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [www.wordery.com](http://www.wordery.com/ "wordery.com") (our site) you are accepting and consenting to the practices described in this policy. 
 
-For the purpose of the Data Protection Act 1998 ( **the Act** ), the data controller is Magpie Investments Limited of Rowan House, Cherry Orchard North, Kembrey Park Swindon SN2 8UH.
+For the purpose of the Data Protection Act 1998 ( **the Act** ), the data controller is Wordery.com Limited of Rowan House, Cherry Orchard North, Kembrey Park Swindon SN2 8UH.
 
 ## Information we may collect from you
 
@@ -77,8 +77,8 @@ We may share your personal information with any member of our group, which means
     
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
-  * If Magpie Investments Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; or
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](https://web.archive.org/cs/terms_use "Terms of Use") or [Terms of Sale](https://web.archive.org/cs/terms_sale "Terms of Sale") or to protect the rights, property, or safety of Magpie Investments Limited, our customers, or others.
+  * If Wordery.com Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; or
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](https://web.archive.org/cs/terms_use "Terms of Use") or [Terms of Sale](https://web.archive.org/cs/terms_sale "Terms of Sale") or to protect the rights, property, or safety of Wordery.com Limited, our customers, or others.
 
 
 
