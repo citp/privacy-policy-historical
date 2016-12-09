@@ -1,55 +1,101 @@
-> *The following text is extracted and transformed from the michebag.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621024939id_/http%3A//www.miche.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michebag.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209075903id_/http%3A//www.michebag.ca/index.php/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Miche Bag Direct, LLC, and its affiliated entities (referred to herein collectively as “Miche”, “we,” “us” and “our”)** is committed to protecting your privacy as a user (“User”) of Miche’s website, http://www.michebag.com (“Website”). As described below in this privacy policy (“Privacy Policy”), we go to great lengths to protect User information, and use the information we collect about Users to create profiles, to process product orders and to provide a more effective and personalized User experience on the Website.
+UNIDEM Sales Inc. is pleased to demonstrate its commitment to your privacy, by disclosing our information practices, ensuring visitors that the information collected and distributed within this Web site will be used for only the stated reason. UNIDEM Sales Inc. respects the privacy of the visitors to our Web site. Your personal information is collected for the purpose of responding to your inquiries. 
 
-**Information Collection.** Miche may collect two different types of information, Personally Identifiable Information (“PII”) and Non-Personally Identifiable Information (“Non-PII”). PII is information that identifies the User as an individual (e.g., name, address, telephone number, email address, credit card information, billing address and shipping information.) Non-PII is generic information that does not identify the User personally (e.g., IP addresses, demographic information, User behavior data from web interaction metrics tools and any other information that does not reveal a User’s personal identity.) Miche reserves the right to collect PII about any Website User. Miche may collect PII and Non-PII from other sources as well, including information provided directly to us through in-person discussions, telephone conversations and electronic or other written communications. Miche will use commercially reasonable efforts to treat both types of information with their due care and use such only as provided for in these Privacy Policies or as otherwise allowable, proper and deemed necessary by Miche in its reasonable discretion.
+This privacy policy applies to visitor information and the use of www.michebag.ca only. UNIDEM Sales Inc. is not responsible for the privacy practices or the content of the Web sites to which it links.
 
-**How We Use the Information We Collect.** When a User places a product order, for example, we need to know certain types of potentially sensitive PII (e.g., User’s name, email address, mailing address, phone number, credit card number and expiration.) We may use the information Users provide to us in a number of ways, including one or more of the following:
+## What we collect
 
-  * Enforce Miche’s Terms and Conditions of Use;
-  * Create and verify a new User’s account profile;
-  * Process a submitted Agreement;
-  * Fulfill a product order;
-  * Provide User with information and customer service in response to User’s specific request or respond to any other User inquiries;
-  * Analyze selling trends and customer behavior;
-  * Provide User with information on Miche’s services, either on a personalized or aggregate basis;
-  * Improve the content, user interface and other features on the Website; OR
-  * Resolve disputes, prevent and detect fraud and otherwise help Miche to comply with applicable laws.
+We may collect the following information:
+
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
 
-**Note:** Miche will not share PII about User with an unaffiliated third party who is not performing services for us without first obtaining User’s permission, except if such sharing is otherwise permitted by this Privacy Policy. We may also release information in good faith as permitted by contractual agreement, to our affiliates, third parties in connection with the provision of services to User, government entities and regulatory bodies, or those with whom Users have specifically requested us to share information.
+For the exhaustive list of cookies we collect see the List of cookies we collect section.
 
-Miche requires third parties who perform services for us to agree to treat PII about User confidentially and securely.
+## What we do with the information we gather
 
-Notwithstanding any other provision of this Privacy Policy or the Terms and Conditions of Use to the contrary, we further reserve the right to disclose and use a User’s PII if we believe that we are required to do so: ( a ) by law; ( b ) in response to legal process, for example, in response to a court order or a subpoena; ( c ) in response to a law enforcement agency’s request; ( d ) to protect our business operations and Product distribution networks; ( e ) to protect the rights, privacy, safety or property of Miche, User or others; or ( f ) to permit us to pursue available remedies or limit the damages we may sustain. Because Non-PII does not personally identify User, we reserve the right to use Non-PII, and to disclose Non-PII to third parties, for any purpose deemed necessary and proper by Miche. Notwithstanding the foregoing, unless otherwise restricted by law, regulation, contract or professional standards, Miche may transfer PII about User outside of the United States to other countries for the purposes described in this Privacy Policy.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-NOTE THAT EXCEPT AS OTHERWISE EXPRESSLY STATED HEREIN, THIS PRIVACY POLICY DOES NOT ADDRESS THE PRIVACY PRACTICES OR POLICIES OF THIRD PARTIES, INCLUDING WITHOUT LIMITATION, INDEPENDENT MICHE REPRESENTATIVES.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+  * We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
 
-**Consent.** By using the Website, User agrees to the terms of this Privacy Policy, including without limitation, Miche’s collection and use of PII and Non-PII as set forth in this Privacy Policy. If we decide to change our Privacy Policy, we will post changes on this page and note the effective date so that Users are always aware of what information we collect and how we use it. If we materially change our practices regarding collection or use of a User’s PII, such User’s PII will continue to be governed by the Privacy Policy under which is was collected unless User has been provided notice, and has not objected to such change.
 
-**Children’s Privacy.** Neither Miche nor the Website intentionally targets, solicits or collects PII from children under 13 years of age.
 
-**Security.** Whether User places a product order or simply creates a user-profile, we use industry-standard secure server software (SSL) and encrypt the information User inputs before it is sent to us. In addition, we use additional commercially reasonable measures to protect the customer data against unauthorized access.
+## Security
 
-**Amendments to the Privacy Policy.** Miche reserves the right to change this Privacy Policy as it sees fit. Any Amendments to the Privacy Policy will become effective upon the posting of the revised Privacy Policy on the Website, via email to the User, or as otherwise allowed by applicable law. We recommend that User checks the Website regularly to view recent changes or updates.
+This Web site takes every precaution to protect our users’ personal information. When users submit sensitive information via our Web site, your information is protected both on-line and off-line.
 
-**Cookies.** “Cookies” are small pieces of information that are stored by a User’s web browser on their computer when they visit almost any website. Our Cookies enable us to personalize a User’s visits to their interests and preferences. Most web browsers automatically accept Cookies. However, anyone can usually change the web browser to disable Cookies, if so desired.
+All of our users’ information, not only the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to regain access to your information. Furthermore, all employees are kept up-to-date on our security and privacy practices.
 
-**Linking.** Links to third party websites may be provided on the Website. We have not reviewed all linked third party sites. We do not control and are not responsible for any of these websites and their content. We do not endorse or make any representations about such websites or any information or materials found there or any results that may be obtained from using them.
+UNIDEM Sales Inc. strives to provide you with the most secure transmission environment possible. To secure the transfer of personal information, UNIDEM Sales Inc. has obtained a Secure Socket Layer (SSL) Server Certificate. The certificate is used for product order forms on the site. Information entered here is collected within a secure page, such that it is encrypted while being transferred to Psigate, our secure payment gateway provider. For information on Psigate's privacy and security policies, please visit their web site at [www.psigate.com](http://www.psigate.com/). UNIDEM Sales Inc. storage of personal information is limited to customer contact information only; we do not store customer's financial information.
 
-**Contacting You.** Miche utilizes different methods of responding to information requests, such as mailing brochures or replying via email or telephone. By using our service to request information from Miche, you consent to Miche (or our partners and vendors) to contact you using the methods of their choice, to fulfill your information request, even if you may be listed on the National Do-Not-Call Registry. Miche reserves the right to contact you (or our partners and vendors to contact you) in the future to help improve our Website, operations or to introduce new services, such as surveys, to ensure that we have followed up with your information requests in a timely manner.
+If you have any questions about the security on our Web site, you can send an email to [info@michebag.ca](mailto:info@michebag,ca?subject=Privacy%20Policy%20-%20michebag.ca).
 
-**Limitation of Liability.** Under no circumstances, including negligence, shall Miche or anyone else involved in administering or distributing the Website be liable for any direct, indirect, incidental, special or consequential or exemplary damages that arise under the Privacy Policy or result from the use or mis-use of User’s PII or Non-PII, including but not limited to loss of revenue or lost profits, or losses that result from mistakes, omissions, interruptions, deletion of files or email, errors, defects, viruses, delays in operation or transmission, or any failure of performance. In no event shall Miche be liable to User for more than the aggregate amounts paid to Miche for the use of the Website.
+## How we use cookies
 
-**Spam and Electronic Messages.** Under no circumstances shall Users of the Website send commercial electronic mail messages to other Users as defined in the new Federal spam law, the CAN-SPAM Act of 2003 (the “Act”). For clarification, this does not prohibit User from sending transactional or relationship messages as defined in the Act. In addition, except as expressly authorized by Miche, any and all electronic messages initiated or sent by User or on User’s behalf must identify User as the sender and may not suggest or imply, or mislead or be likely to mislead a recipient into believing that a Miche site is the sender or sponsor of, or has procured User to send, such electronic messages. To be clear, User may not use a return address, subject heading, header information or message contents that misleads or confuses or is likely to mislead or confuse a recipient as to User being the sender.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-**Indemnification.** User agrees to indemnify and hold harmless Miche, its affiliates, and its directors, officers, managers, employees, agents, attorneys and licensors, from and against all losses, expenses, damages and costs, including reasonable attorneys’ fees, resulting from any violation of these Privacy Policies or other applicable agreements between User and Miche. We reserve the right, but not the obligation, to take over the exclusive defense of any claim for which we are entitled to indemnification under the Privacy Policy. In such event, User shall provide us with such cooperation as is reasonably requested by us.
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-**Contact Us.** If there are questions regarding this Privacy Policy, User may contact us by using the information below. Under California Civil Code Section 1789.3, California Users are entitled to the following consumer rights notice:
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-If you have a question or complaint regarding the Website, please send an email to: [support@miche.com](mailto:support@miche.com). User may also contact us by writing to Miche Bag Direct, LLC 10808 South River Front Parkway, Suite #150, South Jordan, Utah 84095, Attn: Miche Public Affairs, or by calling Miche’s corporate offices at: 801-566-4243. California residents may reach the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by mail at: 1625 North Market Blvd., Sacramento, CA 95834, or by telephone at: 916.445.1254 or 800.952.5210.
+## Links to other websites
 
-**Effective Date.** The Privacy Policy was last modified on January 31, 2012.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+## Controlling your personal information
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@michebag.ca
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 8-1288 Ritson Rd. N. Box 240 Oshawa, ON L1G 8B2.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+## List of cookies we collect
+
+The table below lists the cookies we collect and what information they store.
+
+COOKIE name| COOKIE Description  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You sesssion ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.  
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.
