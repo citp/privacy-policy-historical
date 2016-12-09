@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rag-bone.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527131909id_/https%3A//www.rag-bone.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rag-bone.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210002203id_/http%3A//www.rag-bone.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | rag & bone
 
