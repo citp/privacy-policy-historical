@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unesco.org privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109040507id_/http%3A//en.unesco.org/this-site/our-online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unesco.org privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209103953id_/http%3A//en.unesco.org/this-site/our-online-privacy-policy) for the most accurate reproduction.*
 
-# Our Online Privacy Policy | UNESCO
+# Our Online Privacy Policy
 
 UNESCO is committed to protecting individual privacy and securing the personal information made available to us when you visit unesco.org, as well UNESCO pages on other sites (such as official UNESCO profiles on social networks).
 
