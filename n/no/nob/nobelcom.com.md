@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nobelcom.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624155500id_/http%3A//www.nobelcom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobelcom.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209021922id_/http%3A//www.nobelcom.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | NobelCom
 
