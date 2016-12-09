@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the browsergamez.com privacy policy that was archived on 2016-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160118191852id_/http%3A//browsergamez.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browsergamez.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209131544id_/http%3A//sevengames.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy note
 
 ## Information about data collection, processing, and use
 
-For SevenGames Network GmbH, Rungestr. 22 – 24, 10179 Berlin (in the following abbreviated “SG”), your trust in the correct handling of your data is an important precondition for the success of the service offered by SG. Your data is collected, processed (includes storing, changing, transferring, blocking, and deleting), and used exclusively in accordance with applicable data protection provisions.
+For adspree media GmbH, Schlesische Str. 27, 10997 Berlin (in the following abbreviated “ASM”), your trust in the correct handling of your data is an important precondition for the success of the service offered by ASM. Your data is collected, processed (includes storing, changing, transferring, blocking, and deleting), and used exclusively in accordance with applicable data protection provisions.
 
 #### 1\. Collection, processing, and use of personal data
 
@@ -14,7 +14,7 @@ Personal data is information about the identity of an individual such as e.g. na
 
  **b) Is personal data collected, processed, and used when the online service is used?**
 
-The service can generally be used without personal data being stored. To the extent that personal data is nevertheless collected, processed, and used, SG informs you where appropriate or asks you to provide your personal data – for example to participate in a contest or to register for a specific service. In any such case, your personal data is collected, processed, and used only for that specific purpose and in accordance with the principle of data minimization.
+The service can generally be used without personal data being stored. To the extent that personal data is nevertheless collected, processed, and used, ASM informs you where appropriate or asks you to provide your personal data – for example to participate in a contest or to register for a specific service. In any such case, your personal data is collected, processed, and used only for that specific purpose and in accordance with the principle of data minimization.
 
 Below you can find several examples where we collect, process, and use personal data:
 
@@ -26,7 +26,7 @@ If you decide to take part in a contest that we have organized, we will ask you 
 
 As part of our online service, we offer you the opportunity to receive information about interesting offers and news from us in various ways (e-mail, telephone, and/or SMS/MMS). If, for example, you have added your name to the distribution list of one of our newsletters, you will regularly receive the requested newsletter at your e-mail address. When registering for a newsletter, you may also have the opportunity to provide further details about yourself, if you would like to receive a birthday surprise, for example. We will then process and use the data provided by you for these purposes.
 
-All personal data provided by you will only be collected, processed, and used by SG as the responsible entity. SG will not transfer your personal data to third parties, particularly not to other enterprises or other organizations, unless you explicitly consent to this or SG is required by law to transfer this data, e.g. based on a court order or at the instruction of public authorities. If SG contracts with third parties for a commissioned data processing pursuant to Section 11 of the German Federal Data Protection Act (BDSG) for the collection, processing, and use of data, this also is conducted exclusively in accordance with the statutory data protection provisions.
+All personal data provided by you will only be collected, processed, and used by ASM as the responsible entity. ASM will not transfer your personal data to third parties, particularly not to other enterprises or other organizations, unless you explicitly consent to this or ASM is required by law to transfer this data, e.g. based on a court order or at the instruction of public authorities. If ASM contracts with third parties for a commissioned data processing pursuant to Section 11 of the German Federal Data Protection Act (BDASM) for the collection, processing, and use of data, this also is conducted exclusively in accordance with the statutory data protection provisions.
 
 #### 2\. Collection, processing, and use of usage data
 
@@ -36,13 +36,13 @@ Usage data is data that may be collected each time you are browsing any website.
 
  **b) How is usage data collected, processed, and used when this service is used?**
 
-When you are accessing the services, SG briefly stores your usage data for a period of four (4) working days. The usage data being stored is: the domain name or IP address of the inquiring computer, the client’s file inquiry (file name and URL), the http response code, the Internet site from which you are visiting us, as well as the date and duration of your visit. This data is stored to determine disruptions or abuse of our online service and of our telecommunication services/systems insofar as this is necessary to establish the telecommunication connection and/or to invoice the service. Your usage data is not analyzed to create a personal user profile unless you have specifically consented to such use. In the case of disruptions or abuse, we reserve the right to report this to a law enforcement agency. There is no further use or disclosure of your usage data collected in this manner to third parties.
+When you are accessing the services, ASM briefly stores your usage data for a period of four (4) working days. The usage data being stored is: the domain name or IP address of the inquiring computer, the client’s file inquiry (file name and URL), the http response code, the Internet site from which you are visiting us, as well as the date and duration of your visit. This data is stored to determine disruptions or abuse of our online service and of our telecommunication services/systems insofar as this is necessary to establish the telecommunication connection and/or to invoice the service. Your usage data is not analyzed to create a personal user profile unless you have specifically consented to such use. In the case of disruptions or abuse, we reserve the right to report this to a law enforcement agency. There is no further use or disclosure of your usage data collected in this manner to third parties.
 
-If data is required to fulfill existing legal, statutory, or contractual storage periods (including such storage periods which result from contractual relationships with third parties), we will block the data in accordance with applicable legal provisions. All usage data will only be collected, processed, and used by SG as the responsible entity. SG will not transfer your personal data to third parties, particularly not to other enterprises or other organizations, unless you explicitly consent to this or SG is required by law to transfer this data, e.g. based on a court order or at the instruction of public authorities. If SG contracts with third parties for a commissioned data processing pursuant to Section 11 of the German Federal Data Protection Act BDSG for the collection, processing, and use of data, this is conducted exclusively in accordance with the statutory data protection provisions.
+If data is required to fulfill existing legal, statutory, or contractual storage periods (including such storage periods which result from contractual relationships with third parties), we will block the data in accordance with applicable legal provisions. All usage data will only be collected, processed, and used by ASM as the responsible entity. ASM will not transfer your personal data to third parties, particularly not to other enterprises or other organizations, unless you explicitly consent to this or ASM is required by law to transfer this data, e.g. based on a court order or at the instruction of public authorities. If ASM contracts with third parties for a commissioned data processing pursuant to Section 11 of the German Federal Data Protection Act BDASM for the collection, processing, and use of data, this is conducted exclusively in accordance with the statutory data protection provisions.
 
 #### 3\. Data correction and withdrawal of consent
 
-If you are no longer interested in receiving certain information or offers and/or no longer wish to receive the information/offers via a certain media, please send an e-mail to the following address: [datenschutz@p7s1games.net](mailto:datenschutz@p7s1games.net). SG will meet your request promptly. In this case, all your data stored in this context will be deleted without undue delay, if this is possible considering the purpose of the contract and unless a deletion is prevented by mandatory legal reasons. Please note that due to technical or organizational reasons, the use of your data during an ongoing campaign may overlap with the withdrawal of your consent.
+If you are no longer interested in receiving certain information or offers and/or no longer wish to receive the information/offers via a certain media, please send an e-mail to the following address: [datenschutz@p7s1games.net](mailto:datenschutz@p7s1games.net). ASM will meet your request promptly. In this case, all your data stored in this context will be deleted without undue delay, if this is possible considering the purpose of the contract and unless a deletion is prevented by mandatory legal reasons. Please note that due to technical or organizational reasons, the use of your data during an ongoing campaign may overlap with the withdrawal of your consent.
 
 #### 4\. Use of cookies
 
@@ -52,13 +52,13 @@ We would like to point out that this service uses cookies. The visitor’s/user�
 
 A cookie is a small text file sent by the respective web servers when the service is visited and is stored on the hard drive of the respective user. If the relevant server is accessed again, the user’s browser sends the previously received cookie back to the server. The server can then analyze the information received through this procedure in various ways. There are generally two kinds of cookies. On the one side, there are session cookies, which are stored only for the respective user session. This means that the cookies are deleted automatically when the respective service is closed by the user/visitor. On the other side, there are temporary/permanent cookies, which are stored for a longer period or indefinitely on the user’s data media.
 
- **b) How does SG use cookies?**
+ **b) How does ASM use cookies?**
 
-SG uses both session cookies and temporary/permanent cookies in its services. When a user visits a service, cookies are sent to the user’s browser and stored on the user’s hard drive. These cookies make our online service more user-friendly, more effective, and more secure. The cookies do not contain any personal data and/or personal information about the user so that it is not possible for us to identify the individual using the information received via cookies. The generated information is used exclusively for the purpose of generating statistics on the use of our online service. We can thereby adapt our online service to your requirements in the best possible manner. The session cookies are deleted automatically from the customer’s hard drive after the end of the browser session. SG also uses cookies that remain permanently on the user’s hard drive. These cookies are necessary to recognize a user the next time the site is visited and to determine which settings and inputs this visitor requires. These cookies remain on the hard drive and auto-delete after the predetermined time has expired.
+ASM uses both session cookies and temporary/permanent cookies in its services. When a user visits a service, cookies are sent to the user’s browser and stored on the user’s hard drive. These cookies make our online service more user-friendly, more effective, and more secure. The cookies do not contain any personal data and/or personal information about the user so that it is not possible for us to identify the individual using the information received via cookies. The generated information is used exclusively for the purpose of generating statistics on the use of our online service. We can thereby adapt our online service to your requirements in the best possible manner. The session cookies are deleted automatically from the customer’s hard drive after the end of the browser session. ASM also uses cookies that remain permanently on the user’s hard drive. These cookies are necessary to recognize a user the next time the site is visited and to determine which settings and inputs this visitor requires. These cookies remain on the hard drive and auto-delete after the predetermined time has expired.
 
  **c) Which data is contained in the cookies?**
 
-The cookies are used to store information about certain usage behavior, visited pages of the SG services, etc. However, no personal data is stored. The stored cookies therefore do not make it possible to attribute usage behavior to a specified or determinable individual. To the extent that cookies are used, encrypted numbers are attributed to them. However, these cookies do not contain the name, IP address, addresses, and other personal data, and it is not possible to attribute any personal data to the cookie ident numbers at any time. The information transferred to SG is so general that we merely receive information about which pages were visited or which individual pages were clicked on the website. This information is only transferred and stored under a pseudonym, which cannot be attributed to the name. The storage accordingly only serves our own review of the efficiency of SG’s website content and not to analyze personal usage behavior of determinable individual users.
+The cookies are used to store information about certain usage behavior, visited pages of the ASM services, etc. However, no personal data is stored. The stored cookies therefore do not make it possible to attribute usage behavior to a specified or determinable individual. To the extent that cookies are used, encrypted numbers are attributed to them. However, these cookies do not contain the name, IP address, addresses, and other personal data, and it is not possible to attribute any personal data to the cookie ident numbers at any time. The information transferred to ASM is so general that we merely receive information about which pages were visited or which individual pages were clicked on the website. This information is only transferred and stored under a pseudonym, which cannot be attributed to the name. The storage accordingly only serves our own review of the efficiency of ASM’s website content and not to analyze personal usage behavior of determinable individual users.
 
  **d) Are third-party provider cookies or web beacons and user-based online advertising also used?**
 
@@ -96,11 +96,11 @@ This offer uses Google Analytics, a web analysis service of Google Inc., USA ("G
 
  **e) What is Onsite-Targeting?**
 
-SG’s website uses the cookies referred to above (session cookies and temporary cookies) to optimize advertising offers. However, no attribution to the respective individual can be done here either. This involves only data that is collected to optimize the website. The data is used to provide advertising/special offers and services that are tailored to the respective user. This makes the service even more attractive for the customer and can be used better and more customer-friendly. This is the only way to offer advertising/services tailored to the respective customer interests. The customer accordingly only receives advertising that really interests him or her and not a wide range of general advertising. Nevertheless, the customer may certainly revoke his consent to having advertising sent to him generally at all times.
+ASM’s website uses the cookies referred to above (session cookies and temporary cookies) to optimize advertising offers. However, no attribution to the respective individual can be done here either. This involves only data that is collected to optimize the website. The data is used to provide advertising/special offers and services that are tailored to the respective user. This makes the service even more attractive for the customer and can be used better and more customer-friendly. This is the only way to offer advertising/services tailored to the respective customer interests. The customer accordingly only receives advertising that really interests him or her and not a wide range of general advertising. Nevertheless, the customer may certainly revoke his consent to having advertising sent to him generally at all times.
 
  **f) What is Re-Targeting?**
 
-Re-Targeting works similar to Onsite-Targeting. The main difference is that third-party companies are involved in the Re-Targeting. SG’s service also uses so-called Re-Targeting software. This technology makes it possible for a user to be addressed with advertising also on websites of partners of SG. The user can thereby be provided with interest-based advertising, which goes even beyond the range of services offered by SG. The cookies referred to above (session cookies and temporary cookies) are also used for this purpose, with which the previous usage behavior is analyzed. No personal data is stored and no personal data is passed on in this case either. SG’s partner receives no personal data of the user either. Advertising is merely also shown on the partner’s web pages without the data (cookies storing usage behavior) being combined with the personal data of a determinable individual. It is not possible for the third party to combine the usage behavior with the respective individual.
+Re-Targeting works similar to Onsite-Targeting. The main difference is that third-party companies are involved in the Re-Targeting. ASM’s service also uses so-called Re-Targeting software. This technology makes it possible for a user to be addressed with advertising also on websites of partners of ASM. The user can thereby be provided with interest-based advertising, which goes even beyond the range of services offered by ASM. The cookies referred to above (session cookies and temporary cookies) are also used for this purpose, with which the previous usage behavior is analyzed. No personal data is stored and no personal data is passed on in this case either. ASM’s partner receives no personal data of the user either. Advertising is merely also shown on the partner’s web pages without the data (cookies storing usage behavior) being combined with the personal data of a determinable individual. It is not possible for the third party to combine the usage behavior with the respective individual.
 
  **g) How is it generally possible to prevent that cookies are set?**
 
@@ -114,19 +114,19 @@ The purpose and scope of the data collection and the further use of the data by 
 
 #### 6\. No liability for partner websites and data protection terms
 
-SG’s web pages contain links to various cooperation partners, who offer tele media services, particularly websites, themselves. They usually provide their own data protection policies. SG does not assume any liability for these policies that are not connected with SG. Please consult the respective data protection policy directly at those sites.
+ASM’s web pages contain links to various cooperation partners, who offer tele media services, particularly websites, themselves. They usually provide their own data protection policies. ASM does not assume any liability for these policies that are not connected with ASM. Please consult the respective data protection policy directly at those sites.
 
 #### 7\. Data security
 
-SG takes all reasonable technical and organizational measures in order to ensure the safe collection, processing, and use of your data. In order to prevent unauthorized access or unauthorized disclosure and to ensure the correctness of the data and authorized use of the data, SG has established corresponding technical and organizational procedures in order to secure and protect the data that SG collects online. However, SG cannot accept responsibility or liability for the disclosure of your data due to errors during data transmission and/or unauthorized third-party access. SG endeavors to handle your personal data responsibly, particularly to protect and preserve your privacy.
+ASM takes all reasonable technical and organizational measures in order to ensure the safe collection, processing, and use of your data. In order to prevent unauthorized access or unauthorized disclosure and to ensure the correctness of the data and authorized use of the data, ASM has established corresponding technical and organizational procedures in order to secure and protect the data that ASM collects online. However, ASM cannot accept responsibility or liability for the disclosure of your data due to errors during data transmission and/or unauthorized third-party access. ASM endeavors to handle your personal data responsibly, particularly to protect and preserve your privacy.
 
 #### 8\. Information / suggestions
 
-For further information and suggestions on the issue of data protection, you can reach SG under the e-mail address [datenschutz@p7s1games.net](mailto:datenschutz@p7s1games.net).
+For further information and suggestions on the issue of data protection, you can reach ASM under the e-mail address [datenschutz@p7s1games.net](mailto:datenschutz@p7s1games.net).
 
 #### 9\. Amendment of data protection terms
 
-SG reserves the right to amend these Data Protection Terms at any time in accordance with applicable data protection laws. If you have issued your consent during registration in respect to these Data Protection Terms, SG undertakes to inform you about any amendment of these Data Protection Terms in an appropriate manner.
+ASM reserves the right to amend these Data Protection Terms at any time in accordance with applicable data protection laws. If you have issued your consent during registration in respect to these Data Protection Terms, ASM undertakes to inform you about any amendment of these Data Protection Terms in an appropriate manner.
 
  **Date: 20 February 2014**
 
@@ -139,7 +139,7 @@ SG reserves the right to amend these Data Protection Terms at any time in accord
 Tools Menu – Internet Options  
 “Privacy” tab: click on the “Sites…“ button
 
-Enter the text “http://browsergamez.com” in the “Address of website:” field and confirm it by clicking the “Block” button. The browser will then no longer use any cookies for “http://browsergamez.com” while other websites remain unaffected.
+Enter the text “http://sevengames.com” in the “Address of website:” field and confirm it by clicking the “Block” button. The browser will then no longer use any cookies for “http://sevengames.com” while other websites remain unaffected.
 
  **Mozilla Firefox:**
 
@@ -147,7 +147,7 @@ Tools – Options
 “Privacy” section: Cookies  
 Click on the “Exceptions” button
 
-Enter the text “http://browsergamez.com” in the field “Website Address:” and confirm it by clicking the button “Block”. The browser will then no longer use any cookies for “http://browsergamez.com” while other websites remain unaffected.
+Enter the text “http://sevengames.com” in the field “Website Address:” and confirm it by clicking the button “Block”. The browser will then no longer use any cookies for “http://sevengames.com” while other websites remain unaffected.
 
  **Chrome:**
 
@@ -156,4 +156,4 @@ Select “Options” there
 At the bottom of the text, click on “Show further options…”  
 In the Data Protection section open “Content Settings…”
 
-In the Cookies section open “Manage exceptions…” and enter the text “http://browsergamez.com” (without quotation marks). By clicking on “Block” you prevent cookies of this website from being used while other websites remain unaffected.
+In the Cookies section open “Manage exceptions…” and enter the text “http://sevengames.com” (without quotation marks). By clicking on “Block” you prevent cookies of this website from being used while other websites remain unaffected.
