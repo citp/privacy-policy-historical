@@ -1,63 +1,44 @@
-> *The following text is extracted and transformed from the handsonnetwork.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617163619id_/http%3A//www.handsonnetwork.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handsonnetwork.org privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209192211id_/http%3A//www.pointsoflight.org/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | HandsOn Network
+# Privacy Policy | Points of Light
 
-**HANDSON NETWORK**
+Points of Light has adopted and implemented this privacy policy as part of our commitment to protecting your personal information from misuse. While this policy focuses on online collection of information related to your interaction with Points of Light's website (the "website"), it applies to Points of Light's collection policies in general.
 
-**  PRIVACY POLICY**
+**What information does Points of Light collect?**  
+The website's registration, online surveys, contest and product order forms may ask users to provide personally identifiable information in one of three ways: through contact information (including, without limitation, name, address, phone number (home, work and/or cell), fax number and e-mail address), demographic information (including, without limitation, race, gender, ethnicity, and age) and, in some cases, financial information (including, without limitation, organizational income (when on behalf of an organization) and credit card number (when on behalf of an individual). Some information will be required for you to avail yourself of that particular feature of the website. None of this personally identifiable information will be shared with third parties or used to market third party products or services; it will only be used as described below.
 
-_**Last Updated 7/27/2011**_
+From time to time, we may use the standard "cookie" feature of major browser applications that allows us to store data about your visit. Cookies help us learn which areas of our site are useful and which areas need improvement. We do not set any personally identifiable information in cookies, nor do we employ any data capture mechanisms on our website other than cookies. You may configure your web browser to prevent cookies from being set on your computer.
 
-At HandsOn Network, Inc. (“we,” “us,” “our” and “HON”), your right to privacy is a primary concern. This privacy policy explains how the information you provide to HON during your use of this website, handsonnetwork.org (the “Site”) is protected by us.
+Points of Light may also gather anonymous, or aggregate, information, which may be used by us or shared with third parties. This is information which does not personally identify you, but which may be helpful for marketing purposes or for improving the services we offer. Generally, this information is collected through "traffic data" and may entail the use of numeric codes used to identify a computer.
 
-**The Information We Collect**
+**What does Points of Light do with collected information?**  
+We use personally identifiable information from our online registration, survey, contest and order forms to send you information about Points of Light and its various projects and initiatives, or to communicate with you about a project in which you are participating. If you supply contact information, it may also be used to contact you for other purposes.
 
-On portions of this Site, you can donate money, contact us, subscribe to one of our services (e.g. online newsletters), interact with our blog, share your own volunteer experiences, and register for volunteer. In connection with theses activities, we may collect personally identifiable information including, name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests.
+We may use cookies to save your password so you don't have to re-enter it each time you visit our site, and for other purposes.
 
-We may also collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows 7 or Mac OS) and the domain name of your Internet service provider (e.g., Earthink or AT&T).
+Points of Light may use your IP address (the number assigned to your computer while it is on the Internet) to help diagnose problems with our server, and to administer our website. If you shop on the website, your IP address may be used to help identify your computer and your online "shopping cart" and to gather broad demographic information. If you submit financial information, it will be used to check your qualifications and to bill you for products and services you have ordered.
 
-**Cookies**
+Points of Light may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Points of Light or its subsidiaries or affiliates; (b) protect and defend the rights or property of Points of Light or the users of this website, and (c) act under exigent circumstances to protect the personal safety of the website's users.
 
-"Cookies" are small text files that are either used for the duration of a session ('session cookies'), or saved on a user's hard drive in order to identify that user the next time he/she logs on to the Site ('persistent cookies'). We may use 'session cookies' to identify registered users logging in to the Site. Further, if the functionality is available, we may ask you if you wish to store certain information for use when you are on the Site.  If you choose to use these features, persistent cookies will be stored on your computer.  Session cookies are deleted from the server soon after the session ends and are not collected or saved. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that, although if you do disable cookies from your browser you may not be able to access certain sections of the Site.
+**What type of public forums are available through the website?**  
+We may make various public forums (such as chat rooms) and functions available to you. During these activities, you will have the option to add additional personal information that is beyond the information gathered at registration. Any information you choose to share when using any of these forums or functions becomes public information. It is incumbent upon you to exercise caution in deciding whether todisclose such information.
 
-**How We Use Your Information**
+**Does Points of Light control the practices of sites to which it links?**  
+This website contains links to other websites. We have no control over, and are not responsible for, the privacy policies, reliability or content of such sites.
 
-We may use the information you provide about yourself to fulfill your requests for information on our programs, and services, to respond to your inquiries to us, and to inform you of other programs or services that we believe may be of interest to you.
+**How does Points of Light protect children's information?**  
+Points of Light respects the sensitive nature of children's privacy online. We are a general audience site, and do not direct our content specifically at children under thirteen (13) years of age. If Points of Light learns that a user is under age 13, Points of Light will delete the child's information from our systems.
 
-We may also use this information to communicate with you, to fulfill a request by you for an online newsletter (if any), or to contact you about your relationship with us.
+**Can I opt out of allowing Points of Light to use my personally identifiable information?**  
+Points of Light allows you to remove your information from our database in order to stop receiving future communications from Points of Light at [www.pointsoflight.org/preference-center/opt-out](http://www.pointsoflight.org/preference-center/opt-out).
 
-We sometimes use the non-personally identifiable information that we collect to improve the design, operation, and content of our Site. We also may use this information in the aggregate to analyze Site usage.
+**What type of security does the website employ?**  
+The website uses encrypted authentication technology when you login to the website in an effort to provide a secure environment that is protected from third party access, alteration, theft or misuse of the personal information gathered or confirmed at registration.
 
-We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. In addition, we will transfer information to a company that we are acquired by or merged into.
+**How can I update my information?**  
+Points of Light gives you the opportunity to change or modify information you have previously provided by sending an e-mail to [listen@pointsoflight.org](mailto:privacy@pointsoflight.org).
 
-Agents and contractors of HON who have access to personally identifiable information are required to protect your personally identifiable information in a manner that is consistent with this Privacy Policy.
+**How can I contact Points of Light?**  
+If you have any questions about this privacy statement, the practices of this site, or your interaction with website, please feel free to contact us at [listen@pointsoflight.org](mailto:privacy@pointsoflight.org).
 
-**Collection of Information by Third-Party Sites, and Sponsors**
-
-Portions of our Site contain links to other websites whose information practices may be different than ours. You should consult the other websites' privacy notices and terms of use as we have no control over those websites or treatment of information that is submitted to, or collected by, these third parties.
-
-This Site sometimes may offer content that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the Site activity. HON has no control over these third parties' use of this information.
-
-If you are using our site due to a relationship that the organization with whom you are affiliated has with HON, please understand that that organization has complete access to your information and is not limited by this privacy policy  at all.  You should refer to its privacy policy about it use and protection of your information.
-
-**Our Commitment to Security**
-
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and properly use the information we collect online. Despite our use of the highest levels of security, no data transmission over the Internet can be guaranteed to be 100% secure.  Accordingly, we cannot ensure or warrant the security of the information that you submit to us via the Site and you do so at your own risk.
-
-**Parental Consent**
-
-If you are under the age of 18, you must obtain consent from your parents or guardians before disclosing personal information to us.
-
-**How You can Access or Correct Information**
-
-For instructions on how you can access the personally identifiable information that the HON has collected from you, or how to correct factual errors in such information, please click **[here](mailto:info@handsonnetwork.org)**.
-
-To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
-
-**How to Contact Us**
-
-If you have any questions or concerns about the online policy for this Site or its implementation please **[contact us](mailto:info@handsonnetwork.org)**.
-
-**Terms of Use**
-
-Click **[here](http://handsonnetwork.org/termsofuse)** for our Terms of Use.
+Any of the policies or procedures above may be changed at any time without prior notice.
