@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fratmusic.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606100546id_/http%3A//fratmusic.com/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fratmusic.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209050534id_/http%3A//fratmusic.com/privacy-statement.php) for the most accurate reproduction.*
 
 # Fratmusic.com | Privacy Statement
 
