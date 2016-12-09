@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mancavin.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517215243id_/http%3A//www.mancavin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mancavin.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209135315id_/http%3A//mancavin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ManCavin
 
-This Privacy Policy governs the manner in which ManCavin.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://mancavin.com](http://mancavin.com/) website (“Site”).
+This Privacy Policy governs the manner in which ManCavin.com collects, uses, maintains and discloses information collected from users of the [ManCavin.com](http://mancavin.com/) website .
 
 ### Personal identification information
 
@@ -20,17 +20,17 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 ManCavin.com may collect and use Users personal information for the following purposes:
 
-  *  _To run and operate our Site_  
+  * _To run and operate our Site_  
 We may need your information display content on the Site correctly.
-  *  _To improve customer service_  
+  * _To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  *  _To personalize user experience_  
+  * _To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  *  _To improve our Site_  
+  * _To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  *  _To run a promotion, contest, survey or other Site feature_  
+  * _To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-  *  _To send periodic emails_  
+  * _To send periodic emails_  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests.
 
 
