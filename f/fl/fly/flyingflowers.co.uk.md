@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the flyingflowers.co.uk privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514215846id_/http%3A//www.flyingflowers.co.uk/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyingflowers.co.uk privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209154733id_/http%3A//www.flyingflowers.co.uk/page/privacy) for the most accurate reproduction.*
 
 # Privacy Page
 
 ## Privacy Policy
 
-**Privacy Policy Flying Flowers**
+ **Privacy Policy Flying Flowers**
 
-**Online Privacy Policy for the Website at www.flyingflowers.co.uk**
+ **Online Privacy Policy for the Website at www.flyingflowers.co.uk**
 
 The website at www.flyingflowers.co.uk (the " **Website** ") is owned by Flying Flowers (" **we/us** "). For the purposes of the Data Protection Act 1998, the data controller in respect of the Website Flying Flowers. We are committed to protecting the privacy of visitors to our Website and complying with all applicable laws in the use of the information we collect about you.
 
@@ -21,6 +21,7 @@ We may collect two types of information from users of this Website:
 
 
   * Personal details that you provide by filling in forms on our Website, information provided at the time of registering to use our Website, subscribing to our services or requesting further services, including, but not limited to, your name, date of birth, address, telephone number (including mobile number), credit card information or e-mail address;
+  * Recipient details that you provide when placing your order, including name, address and any contact telephone numbers. However, this detail will not be used for direct marketing purposes.
   * Details of your visits to our Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access;
   * If you contact us, we may keep a record of that correspondence;
   * Details of any transactions you carry out through our Website and of the fulfilment of orders; and
