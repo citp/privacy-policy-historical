@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629075007id_/https%3A//www.medallia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209060729id_/https%3A//www.medallia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Medallia
 
-Effective date: September 24, 2004 • Last reviewed and updated February 10, 2016
+Effective date: September 24, 2004 • Last reviewed and updated October 31, 2016
 
 [](http://privacy.truste.com/privacy-seal/Medallia,-Inc-/validation?rid=97940707-77d5-495c-94ba-4b8bf361f4ee "TRUSTe")
 
@@ -12,11 +12,11 @@ For the purposes of this policy, Medallia defines the term “client” as a bus
 
 This privacy policy covers how Medallia handles personally identifiable information, including personally identifiable information associated with the URLs Medallia.com and guest-survey.net.
 
-**Adequacy and Safe Harbor Framework**
+**Adequacy under E.U. Law**
 
-Medallia continues to comply with the principles of the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personally identifiable information from European Union member countries and Switzerland. Medallia has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  Medallia’s designated provider for alternative dispute resolution under the Safe Harbor is TRUSTe. Where applicable, Medallia has entered into Standard Contractual Clauses for the transfer of data to the United States and is available to enter into Standard Contractual Clauses with clients transfering European Personal Data to Medallia. Medallia is monitoring developments regarding the Privacy Shield and will update this Privacy Policy with any material changes if and when applicable.
+Medallia uses approved Standard Contractual Clauses for the transfer of data collected in the European Economic Area and Switzerland to the United States, and is available to enter into Standard Contractual Clauses with clients that transfer such data to Medallia.
 
-To contact Medallia regarding this privacy policy, the Safe Harbor program, or Standard Contractual Clauses, you may reach Medallia using the contact information provided at the bottom of this policy.
+To contact Medallia regarding this privacy policy or the Standard Contractual Clauses, you may reach Medallia using the contact information provided at the bottom of this policy.
 
 **Information Medallia Collects**
 
