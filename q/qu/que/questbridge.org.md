@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the questbridge.org privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609155832id_/http%3A//www.questbridge.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questbridge.org privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209155958id_/https%3A//www.questbridge.org/privacy-policy) for the most accurate reproduction.*
 
 # QuestBridge | Privacy Policy
 
