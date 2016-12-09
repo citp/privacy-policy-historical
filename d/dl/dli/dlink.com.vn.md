@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dlink.com.vn privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520143253id_/http%3A//www.dlink.com.vn/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlink.com.vn privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209164119id_/http%3A//www.dlink.com.vn/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - D-LinkD-Link
+# Privacy Policy - D-Link Vietnam
 
 D-Link Systems, Inc. (“we” or “us”) is committed to providing you with a positive, easy and secure online shopping experience.
 
