@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dicksondata.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610234403id_/http%3A//www.dicksondata.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dicksondata.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209135738id_/http%3A//www.dicksondata.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -64,7 +64,7 @@
 
 ##  **Your California Privacy Rights**
 
-**Our customers who are California residents may request and obtain from us once a year, free of charge, certain information about the Personal Data (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of Personal Data that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to[ privacy@Dickson.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=privacy@librato.com).**
+**Our customers who are California residents may request and obtain from us once a year, free of charge, certain information about the Personal Data (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of Personal Data that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to[privacy@dicksondata.com](mailto:privacy@dicksondata.com).**
 
 ##  **Types of Technical Data We Collect**
 
@@ -92,7 +92,7 @@
 
 ##  **Contact Information**
 
-**Dickson welcomes your comments or questions regarding this Privacy Statement. Please e-mail us at support@Dickson.com or contact us at the following address:**
+**Dickson welcomes your comments or questions regarding this Privacy Statement. Please e-mail us at[support@dicksondata.com](mailto:support@dicksondata.com) or contact us at the following address:**
 
 **Dickson, Inc.**
 
