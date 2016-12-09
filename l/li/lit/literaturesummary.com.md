@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the literaturesummary.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403120225id_/http%3A//www.literaturesummary.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the literaturesummary.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209195342id_/http%3A//www.literaturesummary.com/privacy.html) for the most accurate reproduction.*
 
 # Free Book Summaries, free study guides, free book notes literature analysis
 
