@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the medallia.com privacy policy that was archived on 2016-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160629075007id_/https%3A//www.medallia.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the medallia.com privacy policy that was archived on 2016-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161209060729id_/https%3A//www.medallia.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" no-ie js no-touch rgba multiplebgs backgroundsize cssanimations cssgradients csstransforms csstransforms3d csstransitions fontface generatedcontent video audio" lang="en" style=""><!--<![endif]--><head>
-<meta http-equiv="Last-Modified" content="Tue, 28 Jun 2016 17:05:53 GMT">
+<meta http-equiv="Last-Modified" content="Tue, 06 Dec 2016 03:12:51 GMT">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -99,8 +99,7 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<script type="text/javascript" src="/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-<script type="text/javascript" src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js?ver=4.5.3"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var cssTarget = "img.";
@@ -128,7 +127,7 @@ var cssTarget = "img.";
   <script src="//munchkin.marketo.net/munchkin.js"></script>
 
 <style id="css-ddslick" type="text/css">.dd-select{ border-radius:2px; border:solid 1px #ccc; position:relative; cursor:pointer;}.dd-desc { color:#aaa; display:block; overflow: hidden; font-weight:normal; line-height: 1.4em; }.dd-selected{ overflow:hidden; display:block; padding:10px; font-weight:bold;}.dd-pointer{ width:0; height:0; position:absolute; right:10px; top:50%; margin-top:-3px;}.dd-pointer-down{ border:solid 5px transparent; border-top:solid 5px #000; }.dd-pointer-up{border:solid 5px transparent !important; border-bottom:solid 5px #000 !important; margin-top:-8px;}.dd-options{ border:solid 1px #ccc; border-top:none; list-style:none; box-shadow:0px 1px 5px #ddd; display:none; position:absolute; z-index:2000; margin:0; padding:0;background:#fff; overflow:auto;}.dd-option{ padding:10px; display:block; border-bottom:solid 1px #ddd; overflow:hidden; text-decoration:none; color:#333; cursor:pointer;-webkit-transition: all 0.25s ease-in-out; -moz-transition: all 0.25s ease-in-out;-o-transition: all 0.25s ease-in-out;-ms-transition: all 0.25s ease-in-out; }.dd-options > li:last-child > .dd-option{ border-bottom:none;}.dd-option:hover{ background:#f3f3f3; color:#000;}.dd-selected-description-truncated { text-overflow: ellipsis; white-space:nowrap; }.dd-option-selected { background:#f6f6f6; }.dd-option-image, .dd-selected-image { vertical-align:middle; float:left; margin-right:5px; max-width:64px;}.dd-image-right { float:right; margin-right:15px; margin-left:5px;}.dd-container{ position:relative;}​ .dd-selected-text { font-weight:bold}​</style></head>
-<body class="page page-id-263 page-template page-template-page-legal page-template-page-legal-php">
+<body id="top" class="page page-id-263 page-template page-template-page-legal page-template-page-legal-php">
 
   
   <div class="container">
@@ -152,6 +151,7 @@ var cssTarget = "img.";
         },
         // work with the response
         success: function( response ) {
+            // console.log(response);
             var jobs = response.jobs;
 
             $.each(jobs, function(item){
@@ -164,7 +164,7 @@ var cssTarget = "img.";
 
               var local = jobs[item].offices[0].name;
 
-              var featured = jobs[item].metadata[0].value;
+              var featured = jobs[item].metadata[3].value;
 
               if(featured === true) {
                   $('.header-job-links').append('<a class="header-job-link" href="/open-positions/opportunity/?gh_jid='+ oppID +'">'+ title +'</a>');
@@ -428,21 +428,23 @@ var cssTarget = "img.";
   });
 </script>
 
+
+
 <div class="intro">
   <div class="content">
     <header>
       <h2>Privacy Policy</h2>
       <p>
                   Effective date: September 24, 2004 •
-              Last reviewed and updated February 10, 2016</p>
+              Last reviewed and updated October 31, 2016</p>
     </header>
     <p><a title="TRUSTe" href="http://privacy.truste.com/privacy-seal/Medallia,-Inc-/validation?rid=97940707-77d5-495c-94ba-4b8bf361f4ee" target="_blank"><img class="alignleft wp-image-11407" style="border: none;" src="http://privacy-policy.truste.com/privacy-seal/Medallia,-Inc-/seal?rid=97940707-77d5-495c-94ba-4b8bf361f4ee" alt="clicksealbox" width="142" height="45"></a></p>
 <p>This Privacy Statement applies to <a href="">www.medallia.com</a> owned and operated by Medallia, Inc (“Medallia”). Medallia is committed to safeguarding the privacy of your personally identifiable information (“PII”). This statement sets forth Medallia’s privacy policy. The policy complies with the privacy principles of TRUSTe, in which Medallia is a member.</p>
 <p>For the purposes of this policy, Medallia defines the term “client” as a business with which Medallia has an established relationship, “customer” as a customer of a Medallia client, and “respondent” as an individual who takes Medallia’s surveys independent of Medallia’s clients.</p>
 <p>This privacy policy covers how Medallia handles personally identifiable information, including personally identifiable information associated with the URLs Medallia.com and guest-survey.net.</p>
-<p><strong>Adequacy and Safe Harbor Framework</strong></p>
-<p>Medallia continues to comply with the principles of the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personally identifiable information from European Union member countries and Switzerland. Medallia has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. &nbsp;Medallia’s designated provider for alternative dispute resolution under the Safe Harbor is TRUSTe. Where applicable, Medallia has entered into Standard Contractual Clauses for the transfer of data to the United States and is available to enter into Standard Contractual Clauses with clients transfering European Personal Data to Medallia. Medallia is monitoring developments regarding the Privacy Shield and will update this Privacy Policy with any material changes if and when applicable.</p>
-<p>To contact Medallia regarding this privacy policy, the Safe Harbor program, or Standard Contractual Clauses, you may reach Medallia using the contact information provided at the bottom of this policy.</p>
+<p dir="ltr"><strong>Adequacy under E.U. Law</strong></p>
+<p dir="ltr">Medallia uses approved Standard Contractual Clauses for the transfer of data collected in the European Economic Area and Switzerland to the United States, and is available to enter into Standard Contractual Clauses with clients that transfer such data to Medallia.</p>
+<p>To contact Medallia regarding this privacy policy or the Standard Contractual Clauses, you may reach Medallia using the contact information provided at the bottom of this policy.</p>
 <p><strong>Information Medallia Collects</strong></p>
 <p>Medallia collects survey and other market research data about individuals’ usage of products and services. The data is used by Medallia clients to improve their products and services.</p>
 <p>Medallia does not receive, use or collect personally identifiable information, such as names, addresses, phone numbers and e-mail addresses, except under the following circumstances:</p>
@@ -527,7 +529,7 @@ var cssTarget = "img.";
 </ul></div></div><div id="nav_menu-5" class="widget widget_nav_menu"><h3>Quick Links</h3><div class="menu-footer-quick-links-container"><ul id="menu-footer-quick-links" class="menu"><li id="menu-item-20241" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20241"><a href="/about/">About Medallia</a></li>
 <li id="menu-item-23241" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23241"><a href="/partners/">Partners</a></li>
 <li id="menu-item-21624" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21624"><a href="/careers">Careers</a></li>
-<li id="menu-item-20243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20243"><a href="/contact-us/">Contact Us</a></li>
+<li id="menu-item-23463" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23463"><a href="/contact/">Contact Us</a></li>
 <li id="menu-item-22556" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22556"><a href="http://institute.medallia.com/" target="_blank">Medallia Institute</a></li>
 </ul></div></div><div id="text-5" class="widget widget_text"><h3>Copyright © 2016. Medallia Inc. All rights reserved.</h3>			<div class="textwidget"><a class="alert" href="//www.medallia.com/mystery-shopper-scam/" target="_blank">Alert: Medallia Mystery Shopper Scam</a>
 
@@ -539,10 +541,7 @@ var cssTarget = "img.";
 </nav>
 
 <p>
-Medallia is a registered trademark of Medallia, Inc. Net Promoter, Net
-Promoter Score and NPS are registered trademarks of Bain &amp; Company,
-Inc., Fred Reichheld and Satmetrix Systems, Inc. Other names may be
-trademarks of their respective owners.
+© 2016 Medallia, Inc. All rights reserved. Medallia®, the Medallia logo, and the names and marks associated with Medallia’s products are trademarks of Medallia and/or its affiliates. Net Promoter, Net Promoter Score and NPS are registered trademarks of Bain &amp; Company, Inc., Fred Reichheld and Satmetrix Systems, Inc. All other trademarks are the property of their respective owners.
 </p>
 
 <p class="policies">
@@ -675,11 +674,6 @@ jQuery(function($) {
   Munchkin.init('669-VLQ-276');
 });
 </script>
-
-
-
-
-
 
 <script type="text/javascript">
 setTimeout(function(){var a=document.createElement("script");
