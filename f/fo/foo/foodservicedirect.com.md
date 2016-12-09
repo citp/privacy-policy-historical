@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodservicedirect.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426184955id_/http%3A//www.foodservicedirect.com/index.cfm/inc/1/temp/privacyPolicy/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodservicedirect.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209124947id_/http%3A//www.foodservicedirect.com/index.cfm/inc/1/temp/privacyPolicy/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - FoodServiceDirect
 
@@ -9,7 +9,7 @@ Our postal address is
 Hampton, VA 23661  
 USA
 
-We can be reached via e-mail at [privacy@foodservicedirect.com](mailto:privacy@foodservicedirect.com) or you can reach us by telephone at 800-448-2014 
+We can be reached via e-mail at [privacy@foodservicedirect.com](mailto:privacy@foodservicedirect.com)
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
 
