@@ -1,49 +1,24 @@
-<!--The following is the downloaded HTML source of the djtees.com privacy policy that was archived on 2016-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616224054id_/http%3A//www.djtees.com/privacy-policy-2) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the djtees.com privacy policy that was archived on 2016-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161209195848id_/http%3A//www.djtees.com/privacy-policy-2) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-GB" class=" td-md-is-chrome"><!--<![endif]--><head>
-    <title>Privacy Policy | DJTees T-shirts that Rock</title>
-    <meta charset="UTF-8">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="pingback" href="http://www.djtees.com/xmlrpc.php">
-    <link rel="icon" type="image/png" href="http://www.djtees.com/wp-content/uploads/2015/07/icon-shirt-djtees-16.png">
-<!-- All in One SEO Pack 2.3.4.2 by Michael Torbert of Semper Fi Web Design[213,262] -->
-<meta name="description" itemprop="description" content="This policy covers how we use your personal information. We take your privacy SERIOUSLY and will take all measures to protect your personal information. What">
-
+<title>Privacy Policy | DJTees T-shirts that Rock</title>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="pingback" href="http://www.djtees.com/xmlrpc.php">
+<link rel="icon" type="image/png" href="http://www.djtees.com/wp-content/uploads/2015/07/icon-shirt-djtees-16.png">
+ 
+<meta name="description" content="This policy covers how we use your personal information. We take your privacy SERIOUSLY and will take all measures to protect your personal information. What">
 <link rel="canonical" href="http://www.djtees.com/privacy-policy-2/">
-<!-- /all in one seo pack -->
-<!-- Facebook Pixel Code -->
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script>
-var PYS_DOMReady = function(a,b,c){b=document,c='addEventListener';b[c]?b[c]('DOMContentLoaded',a):window.attachEvent('onload',a)};
-	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-	document,'script','//connect.facebook.net/en_US/fbevents.js');
-
-/* pixel plugin code */
-PYS_DOMReady(function(){
-
-
-// Insert Your Facebook Pixel ID below. 
- fbq('init', '932973770121968'); 
-
-//Default Event 
-fbq('track', 'PageView'); 
-
-
-});
-/* pixel plugin code */
-
-</script>
-
-<!-- End Facebook Pixel Code -->
+ 
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="DJTees T-shirts that Rock » Feed" href="http://www.djtees.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="DJTees T-shirts that Rock » Comments Feed" href="http://www.djtees.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="DJTees T-shirts that Rock » Privacy Policy Comments Feed" href="http://www.djtees.com/privacy-policy-2/feed/">
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/www.djtees.com\/wp-includes\/js\/wp-emoji.js?ver=4.5.2","twemoji":"http:\/\/www.djtees.com\/wp-includes\/js\/twemoji.js?ver=4.5.2"}};
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/www.djtees.com\/wp-includes\/js\/wp-emoji.js?ver=4.6.1","twemoji":"http:\/\/www.djtees.com\/wp-includes\/js\/twemoji.js?ver=4.6.1"}};
 			( function( window, document, settings ) {
 	var src, ready, ii, tests;
 
@@ -60,7 +35,7 @@ fbq('track', 'PageView');
 		var canvas = document.createElement( 'canvas' ),
 			context = canvas.getContext && canvas.getContext( '2d' ),
 			stringFromCharCode = String.fromCharCode,
-			tonedata, tone, tone2;
+			flag, flag2, tonedata, tone, tone2;
 
 		if ( ! context || ! context.fillText ) {
 			return false;
@@ -86,7 +61,29 @@ fbq('track', 'PageView');
 				 * to a larger image (4-5KB data URL).
 				 */
 				context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
-				return canvas.toDataURL().length > 3000;
+				if ( canvas.toDataURL().length < 3000 ) {
+					return false;
+				}
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				/*
+				 * Test for rainbow flag compatibility. As the rainbow flag was added out of sequence with
+				 * the usual Unicode release cycle, some browsers support it, and some don't, even if their
+				 * Unicode support is up to date.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (white flag emoji + rainbow emoji).
+				 */
+				context.fillText( stringFromCharCode( 55356, 57331, 65039, 8205, 55356, 57096 ), 0, 0 );
+				flag = canvas.toDataURL();
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				context.fillText( stringFromCharCode( 55356, 57331, 55356, 57096 ), 0, 0 );
+				flag2 = canvas.toDataURL();
+
+				return flag !== flag2;
 			case 'diversity':
 				/*
 				 * This tests if the browser supports the Emoji Diversity specification, by rendering an
@@ -119,6 +116,13 @@ fbq('track', 'PageView');
 				 */
 				context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
 				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+			case 'unicode9':
+				/*
+				 * Do Unicode 9 emoji render?
+				 * ¯\_(ツ)_/¯
+				 */
+				context.fillText( stringFromCharCode( 55358, 56631 ), 0, 0 );
+				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
 		}
 
 		return false;
@@ -132,7 +136,7 @@ fbq('track', 'PageView');
 		document.getElementsByTagName( 'head' )[0].appendChild( script );
 	}
 
-	tests = Array( 'simple', 'flag', 'unicode8', 'diversity' );
+	tests = Array( 'simple', 'flag', 'unicode8', 'diversity', 'unicode9' );
 
 	settings.supports = {
 		everything: true,
@@ -184,45 +188,51 @@ fbq('track', 'PageView');
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="http://www.djtees.com/wp-includes/js/twemoji.js?ver=4.5.2" type="text/javascript"></script><script src="http://www.djtees.com/wp-includes/js/wp-emoji.js?ver=4.5.2" type="text/javascript"></script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-<link rel="stylesheet" id="currency_converter_styles-css" href="http://www.djtees.com/wp-content/plugins/woocommerce-currency-converter-widget/assets/css/converter.css?ver=4.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="woocommerce-layout-css" href="//www.djtees.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.5.5" type="text/css" media="all">
-<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//www.djtees.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.5.5" type="text/css" media="only screen and (max-width: 768px)">
-<link rel="stylesheet" id="woocommerce-general-css" href="//www.djtees.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.5.5" type="text/css" media="all">
-<link rel="stylesheet" id="google_font_open_sans-css" href="http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700&amp;ver=4.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="google_font_roboto_cond-css" href="http://fonts.googleapis.com/css?family=Roboto+Condensed%3A300italic%2C400italic%2C700italic%2C400%2C300%2C700&amp;ver=4.5.2" type="text/css" media="all">
+		</script><script src="http://www.djtees.com/wp-includes/js/twemoji.js?ver=4.6.1" type="text/javascript"></script><script src="http://www.djtees.com/wp-includes/js/wp-emoji.js?ver=4.6.1" type="text/javascript"></script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+<link rel="stylesheet" id="currency_converter_styles-css" href="http://www.djtees.com/wp-content/plugins/woocommerce-currency-converter-widget/assets/css/converter.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="//www.djtees.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.6.8" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//www.djtees.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.6.8" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="//www.djtees.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.6.8" type="text/css" media="all">
+<link rel="stylesheet" id="google_font_open_sans-css" href="https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700&amp;ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="google_font_roboto_cond-css" href="https://fonts.googleapis.com/css?family=Roboto+Condensed%3A300italic%2C400italic%2C700italic%2C400%2C300%2C700&amp;ver=4.6.1" type="text/css" media="all">
 <link rel="stylesheet" id="js_composer_front-css" href="http://www.djtees.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.11.2" type="text/css" media="all">
 <link rel="stylesheet" id="td-theme-css" href="http://www.djtees.com/wp-content/themes/Newsmag-child/style.css?ver=2.3.7" type="text/css" media="all">
 <link rel="stylesheet" id="td-theme-woo-css" href="http://www.djtees.com/wp-content/themes/Newsmag/style-woocommerce.css?ver=2.3.7" type="text/css" media="all">
-<script type="text/javascript" src="http://www.djtees.com/wp-includes/js/jquery/jquery.js?ver=1.12.3"></script>
-<script type="text/javascript" src="http://www.djtees.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.0"></script>
+<script type="text/javascript" src="http://www.djtees.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://www.djtees.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var rac_guest_params = {"console_error":"Not a valid e-mail address","ajax_url":"http:\/\/www.djtees.com\/wp-admin\/admin-ajax.php","login_details":"","check_out":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.djtees.com/wp-content/plugins/rac/js/rac_guest.js?ver=2.6.8"></script>
+<script type="text/javascript" src="http://www.djtees.com/wp-content/plugins/pixelyoursite-pro/js/js.cookie.js?ver=4.0.5"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pys_options = {"site_url":"http:\/\/www.djtees.com","traffic_source_enabled":"1"};
+var pys_timeOnPage = {"content_name":"Privacy Policy","content_ids":"86281"};
+var pys_events = [{"type":"init","name":"932973770121968","params":[]},{"type":"track","name":"PageView","params":{"domain":"www.djtees.com"},"delay":0},{"type":"trackCustom","name":"GeneralEvent","params":{"post_type":"page","content_name":"Privacy Policy","post_id":86281,"domain":"www.djtees.com"},"delay":0}];
+var pys_dynamic_events = {"57ead32d7bbba0":{"type":"track","name":"Lead","params":{"domain":"www.djtees.com"}}};
+var pys_css_selectors = [];
+var pys_scroll_positions = [];
+var pys_mouse_over_selectors = [];
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.djtees.com/wp-content/plugins/pixelyoursite-pro/js/public.js?ver=4.0.5"></script>
 <link rel="https://api.w.org/" href="http://www.djtees.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.djtees.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.djtees.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.5.2">
-<meta name="generator" content="WooCommerce 2.5.5">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.djtees.com/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 4.6.1">
+<meta name="generator" content="WooCommerce 2.6.8">
 <link rel="shortlink" href="http://www.djtees.com/?p=86281">
 <link rel="alternate" type="application/json+oembed" href="http://www.djtees.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.djtees.com%2Fprivacy-policy-2%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://www.djtees.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.djtees.com%2Fprivacy-policy-2%2F&amp;format=xml">
+ 
 <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
 <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.djtees.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.djtees.com/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]-->
-<!-- JS generated by theme -->
-
+ 
 <script>
     
 
@@ -340,67 +350,8 @@ var td_magnific_popup_translation_image_tError="The image #%curr% could not be l
 var td_ad_background_click_link="";
 var td_ad_background_click_target="";
 </script>
-
-
-<!-- Header style compiled by theme -->
-
-<style>
-    
-.block-title > span,
-    .block-title > a,
-    .widgettitle,
-    .td-trending-now-title,
-    .wpb_tabs li a,
-    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab > a,
-    .td-related-title .td-related-left,
-    .td-related-title .td-related-right,
-    .category .entry-title span,
-    .td-author-counters span,
-    .woocommerce-tabs h2,
-    .woocommerce .product .products h2 {
-        font-size:16px;
-	
-    }
-    
-    .td-module-meta-info .td-post-author-name a,
-    .td_module_wrap .td-post-author-name a {
-        font-size:16px;
-	
-    }
-    
-    .td-big-grid-meta .td-post-category,
-    .td_module_wrap .td-post-category,
-    .td-module-image .td-post-category {
-        font-size:16px;
-	
-    }
-    
-    .entry-crumbs a,
-    .entry-crumbs span,
-    #bbpress-forums .bbp-breadcrumb a,
-    #bbpress-forums .bbp-breadcrumb .bbp-breadcrumb-current {
-    	font-size:15px;
-	font-weight:bold;
-	
-    }
-
-    
-    body .td-block-color-style-2,
-    .td-block-color-style-2.td_block_13 .meta-info {
-        background-color: #222222;
-    }
-    
-    body .td-block-color-style-2 .td-pulldown-filter-display-option,
-    body .td-block-color-style-2 .td-pulldown-filter-list {
-        background-color: #222222;
-        background-color: rgba(34, 34, 34, 0.95);
-    }
-    
-    body .td-block-color-style-2 .td-next-prev-wrap .td-icon-font {
-        background-color: #222222;
-    }
-</style>
-
+ 
+<style>.td-pb-row [class*="td-pb-span"],.td-pb-border-top,.page-template-page-title-sidebar-php .td-page-content>.wpb_row:first-child,.td-post-sharing,.td-post-content,.td-post-next-prev,.author-box-wrap,.td-comments-title-wrap,.comment-list,.comment-respond,.td-post-template-5 header,.td-container,.wpb_content_element,.wpb_column,.wpb_row,.white-menu .td-header-style-1 .td-header-main-menu,.white-menu .td-header-style-2 .td-header-main-menu,.white-menu .td-header-style-3 .td-header-main-menu,.white-menu .td-header-style-4 .td-header-main-menu,.white-menu .td-header-style-5 .td-header-main-menu,.white-menu .td-header-style-6 .td-header-main-menu,.white-menu .td-header-style-7 .td-header-main-menu,.white-menu .td-header-style-8 .td-header-main-menu,.white-menu .td-header-style-9 .td-header-main-menu,.td-header-style-6 .td-header-container,.td-post-template-1 .td-post-content,.td-post-template-4 .td-post-sharing-top,.td-header-style-6 .td-header-header .td-make-full,#disqus_thread{border-color:rgba(230,230,230,0.01);}.td-top-border{border-color:rgba(230,230,230,0.01)!important;}.td-container-border:after,.td-next-prev-separator{background-color:rgba(230,230,230,0.01);}@media (max-width: 767px) {.white-menu .td-header-main-menu{border-color:rgba(230,230,230,0.01);}}.block-title>span,.block-title>a,.widgettitle,.td-trending-now-title,.wpb_tabs li a,.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab>a,.td-related-title .td-related-left,.td-related-title .td-related-right,.category .entry-title span,.td-author-counters span,.woocommerce-tabs h2,.woocommerce .product .products h2{font-size:16px;}.td-module-meta-info .td-post-author-name a,.td_module_wrap .td-post-author-name a{font-size:16px;}.td-big-grid-meta .td-post-category,.td_module_wrap .td-post-category,.td-module-image .td-post-category{font-size:16px;}.entry-crumbs a,.entry-crumbs span,#bbpress-forums .bbp-breadcrumb a,#bbpress-forums .bbp-breadcrumb .bbp-breadcrumb-current{font-size:15px;font-weight:bold;}body .td-block-color-style-2,.td-block-color-style-2.td_block_13 .meta-info{background-color:#222222;}body .td-block-color-style-2 .td-pulldown-filter-display-option,body .td-block-color-style-2 .td-pulldown-filter-list{background-color:#222222;background-color:rgba(34,34,34,0.95);}body .td-block-color-style-2 .td-next-prev-wrap .td-icon-font{background-color:#222222;}</style>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -411,7 +362,7 @@ var td_ad_background_click_target="";
   ga('send', 'pageview');
 
 </script>
-<!-- BEGIN GADWP v4.9.3.1 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+ 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -420,186 +371,209 @@ var td_ad_background_click_target="";
   ga('create', 'UA-62890069-1', 'auto');
   ga('send', 'pageview');
 </script>
-
-<!-- END GADWP Universal Tracking -->
-
-<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
-
-
-<body class="page page-id-86281 page-template-default privacy-policy-2 wpb-js-composer js-comp-ver-4.11.2 vc_responsive td-full-layout" itemscope="itemscope" itemtype="http://schema.org/WebPage">
-
+ 
+<noscript><style type="text/css">.wpb_animate_when_almost_visible{opacity:1;}</style></noscript></head>
+<body class="page page-id-86281 page-template-default has_paypal_express_checkout privacy-policy-2 wpb-js-composer js-comp-ver-4.11.2 vc_responsive td-full-layout" itemscope="itemscope" itemtype="http://schema.org/WebPage">
 <div id="td-outer-wrap">
-
-        <div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
-
-    <div class="td-transition-content-and-menu td-mobile-nav-wrap">
-        <div id="td-mobile-nav">
-    <!-- mobile menu close -->
-    <div class="td-mobile-close">
-        <a href="#">CLOSE</a>
-        <div class="td-nav-triangle"></div>
-    </div>
-
-    <div class="td-mobile-content">
-        <div class="menu-main-container"><ul id="menu-main" class=""><li id="menu-item-60632" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-first menu-item-60632"><a href="http://www.djtees.com/">Home</a></li>
+<div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
+<div class="td-transition-content-and-menu td-mobile-nav-wrap">
+<div id="td-mobile-nav">
+ 
+<div class="td-mobile-close">
+<a href="#">CLOSE</a>
+<div class="td-nav-triangle"></div>
+</div>
+<div class="td-mobile-content">
+<div class="menu-main-container"><ul id="menu-main" class=""><li id="menu-item-60632" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-first menu-item-60632"><a href="http://www.djtees.com/">Home</a></li>
 <li id="menu-item-167699" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-167699"><a href="http://www.djtees.com/product-category/classic-rock/">T-shirts</a>
 <ul class="sub-menu">
-	<li id="menu-item-221409" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-221409"><a href="http://www.djtees.com/product-category/limited-edition-album-t-shirts/">Limited Edition Album T-shirts</a></li>
-	<li id="menu-item-167598" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-167598"><a href="http://www.djtees.com/product-category/classic-rock/">Classic Rock</a></li>
-	<li id="menu-item-167597" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-167597"><a href="http://www.djtees.com/product-category/blues-soul-folk-jazz/">Blues Soul Folk Jazz</a></li>
-	<li id="menu-item-167600" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-167600"><a href="http://www.djtees.com/product-category/rock-n-roll-lifestyle/">Rock n Roll&nbsp;Lifestyle</a></li>
-	<li id="menu-item-167601" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-167601"><a href="http://www.djtees.com/product-category/vinyl-culture/">Vinyl Culture</a></li>
-	<li id="menu-item-167603" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-167603"><a href="http://www.djtees.com/product-category/icons/">Icons</a></li>
-	<li id="menu-item-167599" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-167599"><a href="http://www.djtees.com/product-category/psychedelic/">Psychedelic</a></li>
-	<li id="menu-item-167602" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-167602"><a href="http://www.djtees.com/product-category/years/">Years</a></li>
-	<li id="menu-item-179478" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-179478"><a href="http://www.djtees.com/product-category/not-music/tv-writers-movies/">TV Writers Movies</a></li>
-	<li id="menu-item-193659" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-193659"><a href="http://www.djtees.com/product-category/not-music/your-roots/">Your Roots</a></li>
-	<li id="menu-item-182110" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-182110"><a href="http://www.djtees.com/product-category/not-music/the-north/">The North</a></li>
-	<li id="menu-item-179479" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-179479"><a href="http://www.djtees.com/product-category/not-music/football/">Football</a></li>
-	<li id="menu-item-193660" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-193660"><a href="http://www.djtees.com/product-category/not-music/gardening/">Gardening</a></li>
-	<li id="menu-item-179475" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-179475"><a href="http://www.djtees.com/product-category/not-music/other-t-shirts/">Other T-shirts</a></li>
+<li id="menu-item-275804" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-275804"><a href="http://www.djtees.com/product-category/albums/">Album T-shirts</a></li>
+<li id="menu-item-269552" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-269552"><a href="http://www.djtees.com/product-category/vintage-t-shirts/">Vintage T-shirts</a></li>
+<li id="menu-item-167598" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-167598"><a href="http://www.djtees.com/product-category/classic-rock/">Classic Rock</a></li>
+<li id="menu-item-257873" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257873"><a href="http://www.djtees.com/product-category/guitarists/">Guitarists</a></li>
+<li id="menu-item-167597" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-167597"><a href="http://www.djtees.com/product-category/blues-soul-folk-jazz/">Blues Soul Folk Jazz</a></li>
+<li id="menu-item-167600" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-167600"><a href="http://www.djtees.com/product-category/rock-n-roll-lifestyle/">Rock n Roll&nbsp;Lifestyle</a></li>
+<li id="menu-item-167601" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-167601"><a href="http://www.djtees.com/product-category/vinyl-culture/">Vinyl Culture</a></li>
+<li id="menu-item-167603" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-167603"><a href="http://www.djtees.com/product-category/icons/">Icons</a></li>
+<li id="menu-item-167599" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-167599"><a href="http://www.djtees.com/product-category/psychedelic/">Psychedelic</a></li>
+<li id="menu-item-270378" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-270378"><a href="http://www.djtees.com/product-category/rock-n-roll-vibe-t-shirts/">Rock n Roll Vibe T-shirts</a>
+<ul class="sub-menu">
+<li id="menu-item-273804" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-273804"><a href="http://www.djtees.com/product-category/rock-n-roll-vibe-t-shirts/poetic-justice/">Poetic Justice</a></li>
+<li id="menu-item-273805" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-273805"><a href="http://www.djtees.com/product-category/rock-n-roll-vibe-t-shirts/rock-is-religion/">Rock is Religion</a></li>
+<li id="menu-item-274269" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-274269"><a href="http://www.djtees.com/product-category/rock-n-roll-vibe-t-shirts/hooligan-empire/">Hooligan Empire</a></li>
+</ul>
+</li>
+<li id="menu-item-167602" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-167602"><a href="http://www.djtees.com/product-category/years/">Years</a></li>
+<li id="menu-item-179478" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-179478"><a href="http://www.djtees.com/product-category/not-music/tv-writers-movies/">TV Writers Movies</a></li>
+<li id="menu-item-193659" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-193659"><a href="http://www.djtees.com/product-category/not-music/your-roots/">Your Roots</a></li>
+<li id="menu-item-182110" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-182110"><a href="http://www.djtees.com/product-category/not-music/the-north/">The North</a></li>
+<li id="menu-item-179479" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-179479"><a href="http://www.djtees.com/product-category/not-music/football/">Football</a></li>
+<li id="menu-item-193660" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-193660"><a href="http://www.djtees.com/product-category/not-music/gardening/">Gardening</a></li>
+<li id="menu-item-179475" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-179475"><a href="http://www.djtees.com/product-category/not-music/other-t-shirts/">Other T-shirts</a></li>
+</ul>
+</li>
+<li id="menu-item-274289" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-274289"><a href="http://www.djtees.com/product-category/mugs/">Mugs</a>
+<ul class="sub-menu">
+<li id="menu-item-274291" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-274291"><a href="http://www.djtees.com/product-category/mugs/poetic-justice-mugs/">Poetic Justice Mugs</a></li>
+<li id="menu-item-274290" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-274290"><a href="http://www.djtees.com/product-category/mugs/hooligan-empire-mugs/">Hooligan Empire Mugs</a></li>
 </ul>
 </li>
 <li id="menu-item-66254" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-66254"><a href="http://www.djtees.com/category/johnny-rock/">Johnny’s Rock Blogs</a>
 <ul class="sub-menu">
-	<li id="menu-item-171554" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171554"><a href="http://www.djtees.com/category/johnny-rock/">Johnny’s Rock Blogs</a></li>
-	<li id="menu-item-171551" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171551"><a href="http://www.djtees.com/category/vinyl-culture/">Vinyl Culture</a></li>
-	<li id="menu-item-217140" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-217140"><a href="http://www.djtees.com/category/johnny-recommends/">Johnny Recommends…</a></li>
-	<li id="menu-item-217139" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-217139"><a href="http://www.djtees.com/category/vinyl-culture/debut-singles/">Debut Singles</a></li>
-	<li id="menu-item-218752" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-218752"><a href="http://www.djtees.com/category/this-day-in-rock/">This Day In Rock</a></li>
-	<li id="menu-item-205910" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-205910"><a href="http://www.djtees.com/category/johnnys-diary/">Johnny’s Diary</a></li>
-	<li id="menu-item-171553" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171553"><a href="http://www.djtees.com/category/about-djtees/">About DJTees</a></li>
-	<li id="menu-item-219039" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-219039"><a href="http://www.djtees.com/category/books/">Johnny’s Books</a></li>
-	<li id="menu-item-167665" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-167665"><a href="http://www.djtees.com/category/videos/">Johnny’s Videos</a></li>
+<li id="menu-item-171554" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171554"><a href="http://www.djtees.com/category/johnny-rock/">Johnny’s Rock Blogs</a></li>
+<li id="menu-item-171551" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171551"><a href="http://www.djtees.com/category/vinyl-culture/">Vinyl Culture</a></li>
+<li id="menu-item-217140" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-217140"><a href="http://www.djtees.com/category/johnny-recommends/">Johnny Recommends…</a></li>
+<li id="menu-item-217139" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-217139"><a href="http://www.djtees.com/category/vinyl-culture/debut-singles/">Debut Singles</a></li>
+<li id="menu-item-218752" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-218752"><a href="http://www.djtees.com/category/this-day-in-rock/">This Day In Rock</a></li>
+<li id="menu-item-205910" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-205910"><a href="http://www.djtees.com/category/johnnys-diary/">Johnny’s Diary</a></li>
+<li id="menu-item-171553" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171553"><a href="http://www.djtees.com/category/about-djtees/">About DJTees</a></li>
+<li id="menu-item-219039" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-219039"><a href="http://www.djtees.com/category/books/">Johnny’s Books</a></li>
+<li id="menu-item-167665" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-167665"><a href="http://www.djtees.com/category/videos/">Johnny’s Videos</a></li>
 </ul>
 </li>
-<li id="menu-item-167794" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-167794"><a href="http://www.djtees.com/cart/">Cart</a></li>
-<li id="menu-item-167795" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-167795"><a href="http://www.djtees.com/checkout/">Checkout</a></li>
-</ul></div>    </div>
-</div>    </div>
-
-        <div class="td-transition-content-and-menu td-content-wrap">
-
-
-
-<!--
-Header style 1
--->
-
+<li id="menu-item-167794" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-167794"><a title="Cart" href="http://www.djtees.com/cart/">Cart</a></li>
+<li id="menu-item-272293" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-272293"><a href="http://www.djtees.com/checkout/">Checkout</a></li>
+</ul></div> </div>
+</div> </div>
+<div class="td-transition-content-and-menu td-content-wrap">
+ 
 <div class="td-header-container td-header-wrap td-header-style-1">
-    <div class="td-header-row td-header-top-menu">
-        
+<div class="td-header-row td-header-top-menu">
 <div class="td-header-sp-top-menu">
-
-    <div class="td_data_time">Thursday, June 16, 2016</div><div class="menu-top-container"><ul id="menu-top" class="top-header-menu"><li id="menu-item-126083" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first td-menu-item td-normal-menu menu-item-126083"><a href="http://www.djtees.com/category/about-djtees/">About DJTees</a></li>
+<div class="td_data_time">Friday, December 9, 2016</div><div class="menu-top-container"><ul id="menu-top" class="top-header-menu"><li id="menu-item-126083" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first td-menu-item td-normal-menu menu-item-126083"><a href="http://www.djtees.com/category/about-djtees/">About DJTees</a></li>
 <li id="menu-item-126066" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-126066"><a href="http://www.djtees.com/contact/">Order Queries</a></li>
 <li id="menu-item-126078" class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-126078"><a href="http://www.djtees.com/category/about-djtees/photographers/">The Photographers</a></li>
 <li id="menu-item-126065" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-126065"><a href="http://www.djtees.com/free-t-shirt/">Free T-shirt</a></li>
 <li id="menu-item-167697" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-167697"><a href="http://www.djtees.com/sign-up/">Sign Up</a></li>
 </ul></div></div>
-                <div class="td-header-sp-top-widget">
-            <span class="td-social-icon-wrap"><a target="_blank" href="https://www.facebook.com/DJTeesRock" title="Facebook"><i class="td-icon-font td-icon-facebook"></i></a></span><span class="td-social-icon-wrap"><a target="_blank" href="https://twitter.com/DJTees" title="Twitter"><i class="td-icon-font td-icon-twitter"></i></a></span>        </div>
-        </div>
-
-
-    <div class="td-header-row td-header-header">
-        <div class="td-header-sp-logo">
-                    <a href="http://www.djtees.com/"><img src="http://www.djtees.com/wp-content/uploads/2015/07/djtees-tran-1.png" alt="T-shirts that Rock!" title="DJTees T-shirts that Rock!"></a>
-            </div>
-        <div class="td-header-sp-ads">
-            
+<div class="td-header-sp-top-widget">
+<span class="td-social-icon-wrap"><a target="_blank" href="https://www.facebook.com/DJTeesRock" title="Facebook"><i class="td-icon-font td-icon-facebook"></i></a></span><span class="td-social-icon-wrap"><a target="_blank" href="https://twitter.com/DJTees" title="Twitter"><i class="td-icon-font td-icon-twitter"></i></a></span> </div>
+</div>
+<div class="td-header-row td-header-header">
+<div class="td-header-sp-logo">
+<a href="http://www.djtees.com/"><img src="http://www.djtees.com/wp-content/uploads/2015/07/djtees-tran-1.png" alt="T-shirts that Rock!" title="DJTees T-shirts that Rock!"></a>
+</div>
+<div class="td-header-sp-ads">
 <div class="td-header-ad-wrap  td-ad-m td-ad-tp td-ad-p">
-    <div class="td-a-rec td-a-rec-id-header "><div class="td-visible-desktop">
- <a href="http://www.djtees.com/product-category/limited-edition-album-t-shirts/"><img src="http://www.djtees.com/wp-content/uploads/2016/06/bana-limited-999.jpg" alt=""></a>
-</div>
-<div class="td-visible-tablet-portrait">
- <a href="http://www.djtees.com/product-category/limited-edition-album-t-shirts/"><img src="http://www.djtees.com/wp-content/uploads/2016/06/bana-limited-m1-999.jpg" alt=""></a>
-</div>
-<div class="td-visible-phone">
- <a href="http://www.djtees.com/product-category/limited-edition-album-t-shirts/"><img src="http://www.djtees.com/wp-content/uploads/2016/06/bana-limited-s1-999.jpg" alt=""></a>
-</div></div>
+ 
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-header">
+<script type="text/javascript">
+var td_screen_width = document.body.clientWidth;
 
-</div>        </div>
-    </div>
-    <div class="td-header-menu-wrap">
-        <div class="td-header-row td-header-border td-header-main-menu">
-            <div id="td-header-menu" role="navigation">
-    <div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div>
-    <div class="td-main-menu-logo">
-                <a href="http://www.djtees.com/"><img src="http://www.djtees.com/wp-content/uploads/2015/07/djtees-tran-1.png" alt="T-shirts that Rock!" title="DJTees T-shirts that Rock!"></a>
-        </div>
-    <div class="menu-main-container"><ul id="menu-main-1" class="sf-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-first td-menu-item td-normal-menu menu-item-60632"><a href="http://www.djtees.com/">Home</a></li>
+                    if ( td_screen_width >= 1024 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-6425883761544636" data-ad-slot="1519018902"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+                    if ( td_screen_width >= 768  && td_screen_width < 1024 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-6425883761544636" data-ad-slot="1519018902"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:320px;height:50px" data-ad-client="ca-pub-6425883761544636" data-ad-slot="1519018902"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script><ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-6425883761544636" data-ad-slot="1519018902"></ins>
+</div>
+ 
+</div> </div>
+</div>
+<div class="td-header-menu-wrap">
+<div class="td-header-row td-header-border td-header-main-menu">
+<div id="td-header-menu" role="navigation">
+<div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div>
+<div class="td-main-menu-logo">
+<a href="http://www.djtees.com/"><img src="http://www.djtees.com/wp-content/uploads/2015/07/djtees-tran-1.png" alt="T-shirts that Rock!" title="DJTees T-shirts that Rock!"></a>
+</div>
+<div class="menu-main-container"><ul id="menu-main-1" class="sf-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-first td-menu-item td-normal-menu menu-item-60632"><a href="http://www.djtees.com/">Home</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children td-menu-item td-normal-menu menu-item-167699"><a href="http://www.djtees.com/product-category/classic-rock/">T-shirts</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-221409"><a href="http://www.djtees.com/product-category/limited-edition-album-t-shirts/">Limited Edition Album T-shirts</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-167598"><a href="http://www.djtees.com/product-category/classic-rock/">Classic Rock</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-167597"><a href="http://www.djtees.com/product-category/blues-soul-folk-jazz/">Blues Soul Folk Jazz</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-167600"><a href="http://www.djtees.com/product-category/rock-n-roll-lifestyle/">Rock n Roll&nbsp;Lifestyle</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-167601"><a href="http://www.djtees.com/product-category/vinyl-culture/">Vinyl Culture</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-167603"><a href="http://www.djtees.com/product-category/icons/">Icons</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-167599"><a href="http://www.djtees.com/product-category/psychedelic/">Psychedelic</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-167602"><a href="http://www.djtees.com/product-category/years/">Years</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-179478"><a href="http://www.djtees.com/product-category/not-music/tv-writers-movies/">TV Writers Movies</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-193659"><a href="http://www.djtees.com/product-category/not-music/your-roots/">Your Roots</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-182110"><a href="http://www.djtees.com/product-category/not-music/the-north/">The North</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-179479"><a href="http://www.djtees.com/product-category/not-music/football/">Football</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-193660"><a href="http://www.djtees.com/product-category/not-music/gardening/">Gardening</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-179475"><a href="http://www.djtees.com/product-category/not-music/other-t-shirts/">Other T-shirts</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-275804"><a href="http://www.djtees.com/product-category/albums/">Album T-shirts</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-269552"><a href="http://www.djtees.com/product-category/vintage-t-shirts/">Vintage T-shirts</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-167598"><a href="http://www.djtees.com/product-category/classic-rock/">Classic Rock</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-257873"><a href="http://www.djtees.com/product-category/guitarists/">Guitarists</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-167597"><a href="http://www.djtees.com/product-category/blues-soul-folk-jazz/">Blues Soul Folk Jazz</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-167600"><a href="http://www.djtees.com/product-category/rock-n-roll-lifestyle/">Rock n Roll&nbsp;Lifestyle</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-167601"><a href="http://www.djtees.com/product-category/vinyl-culture/">Vinyl Culture</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-167603"><a href="http://www.djtees.com/product-category/icons/">Icons</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-167599"><a href="http://www.djtees.com/product-category/psychedelic/">Psychedelic</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children td-menu-item td-normal-menu menu-item-270378"><a href="http://www.djtees.com/product-category/rock-n-roll-vibe-t-shirts/">Rock n Roll Vibe T-shirts</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-273804"><a href="http://www.djtees.com/product-category/rock-n-roll-vibe-t-shirts/poetic-justice/">Poetic Justice</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-273805"><a href="http://www.djtees.com/product-category/rock-n-roll-vibe-t-shirts/rock-is-religion/">Rock is Religion</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-274269"><a href="http://www.djtees.com/product-category/rock-n-roll-vibe-t-shirts/hooligan-empire/">Hooligan Empire</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-167602"><a href="http://www.djtees.com/product-category/years/">Years</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-179478"><a href="http://www.djtees.com/product-category/not-music/tv-writers-movies/">TV Writers Movies</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-193659"><a href="http://www.djtees.com/product-category/not-music/your-roots/">Your Roots</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-182110"><a href="http://www.djtees.com/product-category/not-music/the-north/">The North</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-179479"><a href="http://www.djtees.com/product-category/not-music/football/">Football</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-193660"><a href="http://www.djtees.com/product-category/not-music/gardening/">Gardening</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-179475"><a href="http://www.djtees.com/product-category/not-music/other-t-shirts/">Other T-shirts</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children td-menu-item td-normal-menu menu-item-274289"><a href="http://www.djtees.com/product-category/mugs/">Mugs</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-274291"><a href="http://www.djtees.com/product-category/mugs/poetic-justice-mugs/">Poetic Justice Mugs</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat td-menu-item td-normal-menu menu-item-274290"><a href="http://www.djtees.com/product-category/mugs/hooligan-empire-mugs/">Hooligan Empire Mugs</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-66254"><a href="http://www.djtees.com/category/johnny-rock/">Johnny’s Rock Blogs</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-171554"><a href="http://www.djtees.com/category/johnny-rock/">Johnny’s Rock Blogs</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-171551"><a href="http://www.djtees.com/category/vinyl-culture/">Vinyl Culture</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-217140"><a href="http://www.djtees.com/category/johnny-recommends/">Johnny Recommends…</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-217139"><a href="http://www.djtees.com/category/vinyl-culture/debut-singles/">Debut Singles</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-218752"><a href="http://www.djtees.com/category/this-day-in-rock/">This Day In Rock</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-205910"><a href="http://www.djtees.com/category/johnnys-diary/">Johnny’s Diary</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-171553"><a href="http://www.djtees.com/category/about-djtees/">About DJTees</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-219039"><a href="http://www.djtees.com/category/books/">Johnny’s Books</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-167665"><a href="http://www.djtees.com/category/videos/">Johnny’s Videos</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-171554"><a href="http://www.djtees.com/category/johnny-rock/">Johnny’s Rock Blogs</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-171551"><a href="http://www.djtees.com/category/vinyl-culture/">Vinyl Culture</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-217140"><a href="http://www.djtees.com/category/johnny-recommends/">Johnny Recommends…</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-217139"><a href="http://www.djtees.com/category/vinyl-culture/debut-singles/">Debut Singles</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-218752"><a href="http://www.djtees.com/category/this-day-in-rock/">This Day In Rock</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-205910"><a href="http://www.djtees.com/category/johnnys-diary/">Johnny’s Diary</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-171553"><a href="http://www.djtees.com/category/about-djtees/">About DJTees</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-219039"><a href="http://www.djtees.com/category/books/">Johnny’s Books</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-167665"><a href="http://www.djtees.com/category/videos/">Johnny’s Videos</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-167794"><a href="http://www.djtees.com/cart/">Cart</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-167795"><a href="http://www.djtees.com/checkout/">Checkout</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-167794"><a title="Cart" href="http://www.djtees.com/cart/">Cart</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-272293"><a href="http://www.djtees.com/checkout/">Checkout</a></li>
 </ul></div></div>
-
 <div class="td-search-wrapper">
-    <div id="td-top-search">
-        <!-- Search -->
-        <div class="header-search-wrap">
-            <div class="dropdown header-search">
-                <a id="td-header-search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
-            </div>
-        </div>
-    </div>
-</div>
-
+<div id="td-top-search">
+ 
 <div class="header-search-wrap">
-	<div class="dropdown header-search">
-		<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
-			<form role="search" method="get" class="td-search-form" action="http://www.djtees.com/">
-				<div class="td-head-form-search-wrap">
-					<input class="needsclick" id="td-header-search" type="text" value="" name="s" autocomplete="off"><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search">
-				</div>
-			</form>
-			<div id="td-aj-search"></div>
-		</div>
-	</div>
-</div>        </div>
-    </div>
-</div>    <div class="td-container">
-        <div class="td-container-border">
-            <div class="td-pb-row">
-                                            <div class="td-pb-span8 td-main-content" role="main">
-                                <div class="td-ss-main-content">
-                                                                                <div class="td-page-header td-pb-padding-side">
-                                                <div class="entry-crumbs"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a title="" class="entry-crumb" itemprop="url" href="http://www.djtees.com/"><span itemprop="title">Home</span></a></span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><meta itemprop="title" content="Privacy Policy"><meta itemprop="url" content="http://www.djtees.com/privacy-policy-2/">Privacy Policy</span></div>                                                <h1 class="entry-title td-page-title">
-                                                    <span>Privacy Policy</span>
-                                                </h1>
-                                            </div>
-                                            <div class="td-pb-padding-side td-page-content">
-                                            <p>This policy covers how we use your personal information. We take your privacy SERIOUSLY and will take all measures to protect your personal information.</p>
+<div class="dropdown header-search">
+<a id="td-header-search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+</div>
+</div>
+</div>
+</div>
+<div class="header-search-wrap">
+<div class="dropdown header-search">
+<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+<form role="search" method="get" class="td-search-form" action="http://www.djtees.com/">
+<div class="td-head-form-search-wrap">
+<input class="needsclick" id="td-header-search" type="text" value="" name="s" autocomplete="off"><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search">
+</div>
+</form>
+<div id="td-aj-search"></div>
+</div>
+</div>
+</div> </div>
+</div>
+</div> <div class="td-container">
+<div class="td-container-border">
+<div class="td-pb-row">
+<div class="td-pb-span8 td-main-content" role="main">
+<div class="td-ss-main-content">
+<div class="td-page-header td-pb-padding-side">
+<div class="entry-crumbs"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a title="" class="entry-crumb" itemprop="url" href="http://www.djtees.com/"><span itemprop="title">Home</span></a></span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><meta itemprop="title" content="Privacy Policy"><meta itemprop="url" content="http://www.djtees.com/privacy-policy-2/">Privacy Policy</span></div> <h1 class="entry-title td-page-title">
+<span>Privacy Policy</span>
+</h1>
+</div>
+<div class="td-pb-padding-side td-page-content">
+<p>This policy covers how we use your personal information. We take your privacy SERIOUSLY and will take all measures to protect your personal information.</p>
 <p><strong>What Information Do We Collect?</strong></p>
 <p>We only collect information that we need that is related to your order. This includes your:<br>
 Billing Address<br>
@@ -614,271 +588,92 @@ Credit Card Information</p>
 <p>Only your order data billing, shipping, and order contents data is stored on our server. This information is encrypted using a Secure Sockets Layer before it is transmitted over a web server. We do not store your Credit Card data.</p>
 <p><strong>Cookies and Browser Information </strong></p>
 <p>Cookies are small files that reside on your computer and allow us to recognize you on your next visit or store your shopping cart contents. We use them only to track this information.</p>
-                                    </div>
-                                                                    </div>
-                            </div>
-                            <div class="td-pb-span4 td-main-sidebar" role="complementary">
-                                <div class="td-ss-main-sidebar">
-                                    <script>var block_td_uid_1_5762a2ee7d63f = new tdBlock();
-block_td_uid_1_5762a2ee7d63f.id = "td_uid_1_5762a2ee7d63f";
-block_td_uid_1_5762a2ee7d63f.atts = '{"category_id":"11","category_ids":"","tag_slug":"","autors_id":"","sort":"random_posts","installed_post_types":"","limit":"6","offset":"","custom_title":"","custom_url":"","header_text_color":"#","header_color":"#","border_top":"","color_preset":"td-block-color-style-2","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","ajax_pagination":"","ajax_pagination_infinite_stop":"","class":"td_block_widget td_block_id_3241461735 td_uid_1_5762a2ee7d63f_rand"}';
-block_td_uid_1_5762a2ee7d63f.td_column_number = "1";
-block_td_uid_1_5762a2ee7d63f.block_type = "td_block_16";
-block_td_uid_1_5762a2ee7d63f.post_count = "6";
-block_td_uid_1_5762a2ee7d63f.found_posts = "6";
-block_td_uid_1_5762a2ee7d63f.header_color = "#";
-block_td_uid_1_5762a2ee7d63f.ajax_pagination_infinite_stop = "";
-block_td_uid_1_5762a2ee7d63f.max_num_pages = "1";
-tdBlocksArray.push(block_td_uid_1_5762a2ee7d63f);
-</script><div class="td_block_wrap td_block_16 td_block_widget td_block_id_3241461735 td_uid_1_5762a2ee7d63f_rand td-pb-full-cell td-block-color-style-2 td_with_ajax_pagination td-pb-border-top"><div id="td_uid_1_5762a2ee7d63f" class="td_block_inner td-column-1">
-
-	<div class="td-block-span12">
-
-        <div class="td_module_mx4 td_module_wrap td-animation-stack">
-            <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.djtees.com/icon-tshirts/" rel="bookmark" title="Icons"><img width="300" height="194" class="entry-thumb" src="http://www.djtees.com/wp-content/uploads/2015/07/110_dylan1-mg-wt-R-300x194.png" alt="" title="Icons"></a></div>                            </div>
-
-            <h3 class="entry-title td-module-title"><a href="http://www.djtees.com/icon-tshirts/" rel="bookmark" title="Icons">Icons</a></h3>
-            <div class="meta-info">
-                                                            </div>
-
-            
-        </div>
-
-        
-	</div> <!-- ./td-block-span12 -->
-
-	<div class="td-block-span12">
-
-        <div class="td_module_mx4 td_module_wrap td-animation-stack">
-            <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.djtees.com/rock-n-roll-lifestyle/" rel="bookmark" title="Rock n Roll Lifestyle"><img width="300" height="194" class="entry-thumb" src="http://www.djtees.com/wp-content/uploads/2015/07/rock-n-roll-lifestyle-300x194.jpg" alt="" title="Rock n Roll Lifestyle"></a></div>                            </div>
-
-            <h3 class="entry-title td-module-title"><a href="http://www.djtees.com/rock-n-roll-lifestyle/" rel="bookmark" title="Rock n Roll Lifestyle">Rock n Roll Lifestyle</a></h3>
-            <div class="meta-info">
-                                                            </div>
-
-            
-        </div>
-
-        
-	</div> <!-- ./td-block-span12 -->
-
-	<div class="td-block-span12">
-
-        <div class="td_module_mx4 td_module_wrap td-animation-stack">
-            <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.djtees.com/vinyl-culture/" rel="bookmark" title="Vinyl Culture"><img width="300" height="194" class="entry-thumb" src="http://www.djtees.com/wp-content/uploads/2015/07/vinyl-culture-300x194.jpg" alt="" title="Vinyl Culture"></a></div>                            </div>
-
-            <h3 class="entry-title td-module-title"><a href="http://www.djtees.com/vinyl-culture/" rel="bookmark" title="Vinyl Culture">Vinyl Culture</a></h3>
-            <div class="meta-info">
-                                                            </div>
-
-            
-        </div>
-
-        
-	</div> <!-- ./td-block-span12 -->
-
-	<div class="td-block-span12">
-
-        <div class="td_module_mx4 td_module_wrap td-animation-stack">
-            <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.djtees.com/psychedelic/" rel="bookmark" title="Psychedelic"><img width="300" height="194" class="entry-thumb" src="http://www.djtees.com/wp-content/uploads/2015/07/1306_JanisJoplinPsychedelic-dy-cp-R-300x194.png" alt="" title="Psychedelic"></a></div>                            </div>
-
-            <h3 class="entry-title td-module-title"><a href="http://www.djtees.com/psychedelic/" rel="bookmark" title="Psychedelic">Psychedelic</a></h3>
-            <div class="meta-info">
-                                                            </div>
-
-            
-        </div>
-
-        
-	</div> <!-- ./td-block-span12 -->
-
-	<div class="td-block-span12">
-
-        <div class="td_module_mx4 td_module_wrap td-animation-stack">
-            <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.djtees.com/classic-rock/" rel="bookmark" title="Classic Rock"><img width="300" height="194" class="entry-thumb" src="http://www.djtees.com/wp-content/uploads/2015/07/classic-rock-300x194.jpg" alt="" title="Classic Rock"></a></div>                            </div>
-
-            <h3 class="entry-title td-module-title"><a href="http://www.djtees.com/classic-rock/" rel="bookmark" title="Classic Rock">Classic Rock</a></h3>
-            <div class="meta-info">
-                                                            </div>
-
-            
-        </div>
-
-        
-	</div> <!-- ./td-block-span12 -->
-
-	<div class="td-block-span12">
-
-        <div class="td_module_mx4 td_module_wrap td-animation-stack">
-            <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.djtees.com/blues-soul-folk-jazz/" rel="bookmark" title="Blues Soul Folk &amp; Jazz"><img width="300" height="194" class="entry-thumb" src="http://www.djtees.com/wp-content/uploads/2015/07/blues-soul-folk-jazz-300x194.jpg" alt="" title="Blues Soul Folk &amp; Jazz"></a></div>                            </div>
-
-            <h3 class="entry-title td-module-title"><a href="http://www.djtees.com/blues-soul-folk-jazz/" rel="bookmark" title="Blues Soul Folk &amp; Jazz">Blues Soul Folk &amp; Jazz</a></h3>
-            <div class="meta-info">
-                                                            </div>
-
-            
-        </div>
-
-        
-	</div> <!-- ./td-block-span12 --></div></div> <!-- ./block -->                                </div>
-                            </div>
-                                    </div> <!-- /.td-pb-row -->
-        </div>
-    </div> <!-- /.td-container -->
-
-    <!-- Footer -->
-<div class="td-footer-container td-container">
-	<div class="td-pb-row">
-		<div class="td-pb-span12">
-					</div>
-	</div>
 </div>
+</div>
+</div>
+<div class="td-pb-span4 td-main-sidebar" role="complementary">
+<div class="td-ss-main-sidebar">
+</div>
+</div>
+</div>  
+</div>
+</div>  
+ 
+<div class="td-footer-container td-container">
+<div class="td-pb-row">
+<div class="td-pb-span8">
+ 
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-content_bottom">
+<script type="text/javascript">
+var td_screen_width = document.body.clientWidth;
 
-
-
-
-<!-- Sub Footer -->
-    <div class="td-sub-footer-container td-container td-container-border ">
-        <div class="td-pb-row">
-            <div class="td-pb-span4 td-sub-footer-copy">
-                <div class="td-pb-padding-side">
-                    Copyright © 2016 DJTees                </div>
-            </div>
-
-            <div class="td-pb-span8 td-sub-footer-menu">
-                <div class="td-pb-padding-side">
-                    <div class="menu-footer-container"><ul id="menu-footer" class=""><li id="menu-item-126069" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-126069"><a href="http://www.djtees.com/johnny-blogger-contact/">Contact Johnny</a></li>
+                    if ( td_screen_width >= 1024 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-6425883761544636" data-ad-slot="1519018902"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+                    if ( td_screen_width >= 768  && td_screen_width < 1024 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-6425883761544636" data-ad-slot="1519018902"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-6425883761544636" data-ad-slot="1519018902"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-6425883761544636" data-ad-slot="1519018902"></ins>
+</div>
+ 
+</div>
+<div class="td-pb-span4">
+<aside class="widget widget_text"> <div class="textwidget"><p style="text-align: left;"><br>
+<span style="font-size: 90%;"><em>DJTees is owned by The Big Tshirt Factory Ltd registered in England
+company number 08652445
+Unit 1, 99 London Road
+Stanway
+Colchester
+Essex
+CO3 0NY</em></span><br></p></div>
+</aside> </div>
+</div>
+</div>
+ 
+<div class="td-sub-footer-container td-container td-container-border ">
+<div class="td-pb-row">
+<div class="td-pb-span4 td-sub-footer-copy">
+<div class="td-pb-padding-side">
+Copyright © 2016 DJTees </div>
+</div>
+<div class="td-pb-span8 td-sub-footer-menu">
+<div class="td-pb-padding-side">
+<div class="menu-footer-container"><ul id="menu-footer" class=""><li id="menu-item-126069" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-126069"><a href="http://www.djtees.com/johnny-blogger-contact/">Contact Johnny</a></li>
 <li id="menu-item-126070" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-86281 current_page_item td-menu-item td-normal-menu menu-item-126070"><a href="http://www.djtees.com/privacy-policy-2/">Privacy Policy</a></li>
 <li id="menu-item-126071" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-126071"><a href="http://www.djtees.com/contact/">Order Queries</a></li>
 <li id="menu-item-126072" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-126072"><a href="http://www.djtees.com/returns-refunds/">Returns, Refunds &amp; Shipping</a></li>
 <li id="menu-item-246343" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-246343"><a href="http://www.djtees.com/t-shirt-size-quality-print-info/">T-shirt Size, Quality &amp; Print Info</a></li>
-</ul></div>                </div>
-            </div>
-        </div>
-    </div>
-    </div><!--close content div-->
-</div><!--close td-outer-wrap-->
-
-
-
-<div style="text-align: center;"><a href="http://www.w3-edge.com/wordpress-plugins/" rel="external">Optimization WordPress Plugins &amp; Solutions by W3 EDGE</a></div><style type="text/css">
-			.fb_iframe_widget > span {display: table !important;}
-			.woo-social-buttons {margin:10px 0;}
-			.woo-social-buttons img {vertical-align: top;}
-			.woo-social-buttons span.custom {float:left; margin:0 5px 5px 0; }
-			.woo-social-buttons span.nocount, .woo-social-buttons span.hcount {float:left; margin:0 5px 5px 0; height:21px;}
-			.woo-social-buttons span.vcount {float:left; margin:0 5px 5px 0; height:65px;}
-			.woo-social-buttons span.yithqv {float:left; margin:0 5px 5px 0; height:36px;}
-			.woo-social-buttons iframe {margin: 0px !important; padding: 0px !important; vertical-align:baseline;}
-			.woo-social-buttons .smsb_pinterest.vcount {position:relative; top:30px}
-			.woo-social-buttons .smsb_tumblr iframe {height:20px !important; width:50px !important;} 
-			.woo-social-buttons .smsb_tumblr.hcount iframe {height:20px !important; width:72px !important;}
-			.woo-social-buttons .smsb_tumblr.vcount iframe {height:40px !important; width:55px !important;}
-			.woo-social-buttons .smsb_stumbleupon.vcount iframe {height:60px !important; width:50px !important;}
-			.woo-social-buttons .smsb_vkontakte table tr > td {padding:0px; line-height:auto;}
-			.woo-social-buttons .smsb_vkontakte a {height:auto !important;}		
-		  </style>
-
-    <!--
-
-        Theme: Newsmag by tagDiv 2015
-        Version: 2.3.7 (rara)
-        Deploy mode: deploy
-        
-        uid: 5762a2ee8ba0d
-    -->
-
-    
-<!-- Custom css form theme panel -->
-<style type="text/css" media="screen">
-/* custom css theme panel */
-.woocommerce .products .product_type_variable {display:none;}
-.entry-crumbs {
-    color: #888888;
-font-size:19px;
-font-weight: 700;
-}
-.entry-title {
-    padding: 0 !important;
-    font-size: 300%;
-}
-.woocommerce .page-title {
-display:none;
-}
-.single-product .product_title {
-font-size: 28px;
-font-weight: 800;
-}
-.single-product .product .summary .price {
-    font-size: 20px;
-    color: #888;
-}
-.woocommerce ul.products li.product .onsale {
-    left: 0px !important;
-    left: auto;
-    width: 60%;
-}
-.woocommerce .product .onsale {
-    background: #d00000 none repeat scroll 0% 0%;
-   opacity:.60;
-  -moz-opacity:.60; 
-  filter:alpha(opacity=60); 
-}
-.woocommerce 
-	.col-1 {
-		float:left;
-		width: 48%!important;
-                padding:10px;
-	}
-	.col-2 {
-		float: right;
-		width: 48%!important;
-                padding:10px;
-	}
-@media (max-width:480px){
-.woocommerce 
-	.col-1 {
-		width: 100%!important;
-                padding:10px;
-	}
-	.col-2 {
-		width: 100%!important;
-                padding:10px;
-	}
-}
-.woocommerce .form-row .input-text {
-    border: 1px solid #888;
-}
-.td-footer-container {
-    padding: 0;
-}
-.td-footer-container .widget {
-    padding-bottom: 0;
-}
-.footerz {
-    padding-top: 30px;
-}
-ul, li{
-    list-style:none;
-    list-style-type:none;
-}
-.woocommerce-cart .woocommerce .product-thumbnail {
-  width: 100px;
-}
-@media(max-width: 768px){ .woocommerce-page div.product div.images, .woocommerce-page div.product div.summary{ float: none!important; width: 80%!important;
+</ul></div> </div>
+</div>
+</div>
+</div>
+</div> 
+</div> 
+<div style="text-align: center;"><a href="https://www.w3-edge.com/products/" rel="external">Optimization WordPress Plugins &amp; Solutions by W3 EDGE</a></div><style type="text/css">.fb_iframe_widget>span{display:table!important;}.woo-social-buttons{margin:10px 0;}.woo-social-buttons img{vertical-align:top;}.woo-social-buttons span.custom{float:left;margin:0 5px 5px 0;}.woo-social-buttons span.nocount,.woo-social-buttons span.hcount{float:left;margin:0 5px 5px 0;height:21px;}.woo-social-buttons span.vcount{float:left;margin:0 5px 5px 0;height:65px;}.woo-social-buttons span.yithqv{float:left;margin:0 5px 5px 0;height:36px;}.woo-social-buttons iframe{margin:0px!important;padding:0px!important;vertical-align:baseline;}.woo-social-buttons .smsb_pinterest.vcount{position:relative;top:30px}.woo-social-buttons .smsb_tumblr iframe{height:20px!important;width:50px!important;}.woo-social-buttons .smsb_tumblr.hcount iframe{height:20px!important;width:72px!important;}.woo-social-buttons .smsb_tumblr.vcount iframe{height:40px!important;width:55px!important;}.woo-social-buttons .smsb_stumbleupon.vcount iframe{height:60px!important;width:50px!important;}.woo-social-buttons .smsb_vkontakte table tr>td{padding:0px;line-height:auto;}.woo-social-buttons .smsb_vkontakte a{height:auto!important;}</style><noscript><img height='1' width='1' style='display:none' src='https://www.facebook.com/tr?id=932973770121968&ev=PageView&noscript=1&cd[domain]=www.djtees.com'></noscript>
+<noscript><img height='1' width='1' style='display:none' src='https://www.facebook.com/tr?id=932973770121968&ev=GeneralEvent&noscript=1&cd[post_type]=page&cd[content_name]=Privacy+Policy&cd[post_id]=86281&cd[domain]=www.djtees.com'></noscript>
+ 
+ 
+<style type="text/css" media="screen">.woocommerce .products .product_type_variable{display:none;}.entry-crumbs{color:#888888;font-size:19px;font-weight:700;}.entry-title{padding:0!important;font-size:300%;}.woocommerce .page-title{display:none;}.single-product .product_title{font-size:28px;font-weight:800;}.single-product .product .summary .price{font-size:20px;color:#888;}.woocommerce ul.products li.product .onsale{left:0px!important;left:auto;width:60%;}.woocommerce .product .onsale{background:#d00000 none repeat scroll 0% 0%;opacity:.60;-moz-opacity:.60;filter:alpha(opacity=60);}.woocommerce .col-1{float:left;width:48%!important;padding:10px;}.col-2{float:right;width:48%!important;padding:10px;}@media (max-width:480px){.woocommerce .col-1{width:100%!important;padding:10px;}.col-2{width:100%!important;padding:10px;}}.woocommerce .form-row .input-text{border:1px solid #888;}.td-footer-container{padding:0;}.td-footer-container .widget{padding-bottom:0;}.footerz{padding-top:30px;}ul,li{list-style:none;list-style-type:none;}.woocommerce-cart .woocommerce .product-thumbnail{width:100px;}@media(max-width: 768px){
+.woocommerce-page div.product div.images, .woocommerce-page div.product div.summary{
+float: none!important;
+width: 80%!important;
 margin-left: auto;
 margin-right: auto;
-} }
- .woocommerce-page ul .product{ width: 29.25% !important; } 
-.comments{display:none;}
-.woocommerce-page .upsells .products li:last-child {
-margin-right: 0px !important;
+}
+}
+.woocommerce-page ul .product{
+width: 29.25% !important;
 }
 a.backtoshop {
     display: block;
@@ -900,19 +695,43 @@ display:none !important;
 font-size: 18px;
 font-weight: 600;
 }
+.stock { display: none; }
+.wpb_singleimage_heading {
+font-size: 28px;
+font-weight: 800;
+}
+.wpb_single_image{
+    padding-top: 10px;
+    padding-right: 0;
+    padding-left: 0;
+    padding-bottom: 0;
+}
+.wpb_widgetised_column_heading{
+font-size: 28px;
+font-weight: 800;
+}
+.term-description{
+font-size:38px;
+font-weight: 800;
+color: red!important;
+}
+.td_block_15.td_block_widget {
+    margin: 0 0 0 0 !important;
+}
+.td_block_14.td_block_widget {
+    margin: 0 0 0 0 !important;
+}
+.comments{
+display:none !important;
+}
 </style>
 
-
-<!-- Default Event --> 
-<noscript><img height='1' width='1' style='display:none'
-src='https://www.facebook.com/tr?id=932973770121968&ev=PageView&noscript=1'
-/></noscript> 
-
-
-
+<link rel="stylesheet" id="countdown_css-css" href="http://www.djtees.com/wp-content/plugins/widget-countdown/includes/style/style.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="http://www.djtees.com/wp-includes/css/dashicons.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="thickbox-css" href="http://www.djtees.com/wp-includes/js/thickbox/thickbox.css?ver=4.6.1" type="text/css" media="all">
 <script type="text/javascript">
 /* <![CDATA[ */
-var qpprFrontData = {"linkData":{"http:\/\/www.djtees.com\/classic-rock\/":[0,0,""],"http:\/\/www.djtees.com\/years\/":[0,0,""],"http:\/\/www.djtees.com\/blues-soul-folk-jazz\/":[0,0,""],"http:\/\/www.djtees.com\/rock-n-roll-lifestyle\/":[0,0,""],"http:\/\/www.djtees.com\/icon-tshirts\/":[0,0,""],"http:\/\/www.djtees.com\/psychedelic\/":[0,0,""],"http:\/\/www.djtees.com\/vinyl-culture\/":[0,0,""],"http:\/\/www.djtees.com\/free-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/weekly-free-music\/":[0,0,""],"http:\/\/www.djtees.com\/1971-year\/":[0,0,""],"http:\/\/www.djtees.com\/1961-year\/":[0,0,""],"http:\/\/www.djtees.com\/1959-year\/":[0,0,""],"http:\/\/www.djtees.com\/1980-year\/":[0,0,""],"http:\/\/www.djtees.com\/2000-year\/":[0,0,""],"http:\/\/www.djtees.com\/1999-year\/":[0,0,""],"http:\/\/www.djtees.com\/bestseller\/":[0,0,""],"http:\/\/www.djtees.com\/rock-n-roll-lifestyle-2\/":[0,0,""],"http:\/\/www.djtees.com\/blues-soul-folk-jazz-2\/":[0,0,""],"http:\/\/www.djtees.com\/vinyl-culture-2\/":[0,0,""],"http:\/\/www.djtees.com\/psychedelic-2\/":[0,0,""],"http:\/\/www.djtees.com\/classic-rock-2\/":[0,0,""],"http:\/\/www.djtees.com\/years-2\/":[0,0,""],"http:\/\/www.djtees.com\/free-music-weekly\/":[0,0,""],"http:\/\/www.djtees.com\/tshirt-winner\/":[0,0,""],"http:\/\/www.djtees.com\/music-winner\/":[0,0,""],"http:\/\/www.djtees.com\/the-meat-fix\/":[0,0,""],"http:\/\/www.djtees.com\/the-girl-cant-help-it\/":[0,0,""],"http:\/\/www.djtees.com\/teesside-steal\/":[0,0,""],"http:\/\/www.djtees.com\/queen-of-the-tees\/":[0,0,""],"http:\/\/www.djtees.com\/teesside-missed\/":[0,0,""],"http:\/\/www.djtees.com\/teesside-blues\/":[0,0,""],"http:\/\/www.djtees.com\/tyne-tees\/":[0,0,""],"http:\/\/www.djtees.com\/high-tees\/":[0,0,""],"http:\/\/www.djtees.com\/teesside-meat\/":[0,0,""],"http:\/\/www.djtees.com\/we-ate-all-the-pies\/":[0,0,""],"http:\/\/www.djtees.com\/dj-tees\/":[0,0,""],"http:\/\/www.djtees.com\/whistle-test-badge-post\/":[0,0,""],"http:\/\/www.djtees.com\/other-t-shirts\/":[0,0,""],"http:\/\/www.djtees.com\/basil\/":[0,0,""],"http:\/\/www.djtees.com\/chuck-berry-2-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/chuck-berry-1-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/chris-cornell-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/cheech-chong-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/glenn-hughes-1-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/the-butterfield-blues-band-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/rock-n-roll-monkey-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/robert-smith-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/rod-stewart-2-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/ozzy-1-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/traffic-john-barleycorn-2\/":[0,0,""],"http:\/\/www.djtees.com\/angus-young\/":[0,0,""],"0":[0,0,""],"http:\/\/www.djtees.com\/david-bowie-live\/":[0,0,""],"http:\/\/www.djtees.com\/dont-mention-the-war\/":[0,0,""],"http:\/\/www.djtees.com\/gary-moore\/":[0,0,""],"http:\/\/www.djtees.com\/ministry-of-silly-walks\/":[0,0,""],"http:\/\/www.djtees.com\/plant-page\/":[0,0,""],"http:\/\/www.djtees.com\/ronnie-wood\/":[0,0,""],"http:\/\/www.djtees.com\/status-quo\/":[0,0,""],"http:\/\/www.djtees.com\/stevie-ray-vaughan-on-stage\/":[0,0,""],"http:\/\/www.djtees.com\/zappa\/":[0,0,""],"http:\/\/www.djtees.com\/bob-marley-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/bob-the-bear-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/brian-glover-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/chrissie-hynde-portrait-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/eddie-van-halen-2-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/theremin-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/zakk-wylde-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/allan-holdsworth-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/yngwie-malmsteen-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/james-dean-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/born-under-a-bad-sign-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/10-great-guitarists\/":[0,0,""],"http:\/\/www.djtees.com\/?p=215150":[0,0,""],"http:\/\/www.djtees.com\/humble-pie-related-t-shirts\/":[0,0,""],"http:\/\/www.djtees.com\/clever-monkey-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/david-coverdale-2-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/joe-strummer-3-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/new-order-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/ozzy-88-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/prince-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/robert-plant-1-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/sheryl-crow-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/sting-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/stranger-in-a-strange-land-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/3-day-limited-special-only-9-99\/":[0,0,""],"http:\/\/www.djtees.com\/jeff-beck-wired-album-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/the-byrds-5th-dimension-album-t-shirt-limited-release-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/rock-n-roll-gear\/":[0,0,""],"http:\/\/www.djtees.com\/free-at-last-limited-release-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/limited-release-leslie-west-mountain-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/pop-up-specials-9-99\/":[0,0,""],"http:\/\/www.djtees.com\/muso-rock-gear\/":[0,0,""],"http:\/\/www.djtees.com\/9-99-joe-cocker-mad-dogs-englishmen-album-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/?p=218554":[0,0,""],"http:\/\/www.djtees.com\/?p=218565":[0,0,""],"http:\/\/www.djtees.com\/?p=218563":[0,0,""],"http:\/\/www.djtees.com\/rock-is-for-life-not-just-for-xmas\/":[0,0,""],"http:\/\/www.djtees.com\/?p=218589":[0,0,""],"http:\/\/www.djtees.com\/muso-original-rock-jewellery\/":[0,0,""],"http:\/\/www.djtees.com\/just-discovered-ancient-rock-stars-tomb\/":[0,0,""],"http:\/\/www.djtees.com\/solid-silver-still-got-blues\/":[0,0,""],"http:\/\/www.djtees.com\/limited-edition-album-cover-t-shirts\/":[0,0,""],"http:\/\/www.djtees.com\/cover-t-shirts\/":[0,0,""],"http:\/\/www.djtees.com\/album-cover\/":[0,0,""],"http:\/\/www.djtees.com\/john-martyn-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/stephen-stills-album-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/get-free-again\/":[0,0,""],"http:\/\/www.djtees.com\/get-free-again-2\/":[0,0,""],"http:\/\/www.djtees.com\/limited-album-tees\/":[0,0,""],"http:\/\/www.djtees.com\/9-99-special\/":[0,0,""],"http:\/\/www.djtees.com\/limited-special\/":[0,0,""],"http:\/\/www.djtees.com\/special\/":[0,0,""],"http:\/\/www.djtees.com\/?p=222230":[0,0,""],"http:\/\/www.djtees.com\/album-t-shirts__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/new\/":[0,0,""],"http:\/\/www.djtees.com\/?p=223203":[0,0,""],"http:\/\/www.djtees.com\/?p=223217":[0,0,""],"http:\/\/www.djtees.com\/?p=223291":[0,0,""],"http:\/\/www.djtees.com\/?p=223795":[0,0,""],"http:\/\/www.djtees.com\/?p=223801":[0,0,""],"http:\/\/www.djtees.com\/?p=223805":[0,0,""],"http:\/\/www.djtees.com\/?p=224576":[0,0,""],"http:\/\/www.djtees.com\/?p=224578":[0,0,""],"http:\/\/www.djtees.com\/?p=224580":[0,0,""],"http:\/\/www.djtees.com\/mahavishnu-orchestra-t-shirt-2__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/singer-songwriter\/":[0,0,""],"http:\/\/www.djtees.com\/?p=225352":[0,0,""],"http:\/\/www.djtees.com\/?p=225356":[0,0,""],"http:\/\/www.djtees.com\/?p=225362":[0,0,""],"http:\/\/www.djtees.com\/?p=225365":[0,0,""],"http:\/\/www.djtees.com\/?p=226076":[0,0,""],"http:\/\/www.djtees.com\/?p=226082":[0,0,""],"http:\/\/www.djtees.com\/?p=226084":[0,0,""],"http:\/\/www.djtees.com\/?p=226087":[0,0,""],"http:\/\/www.djtees.com\/?p=226090":[0,0,""],"http:\/\/www.djtees.com\/?p=226092":[0,0,""],"http:\/\/www.djtees.com\/20-blues-guitarists\/":[0,0,""],"http:\/\/www.djtees.com\/?p=227226":[0,0,""],"http:\/\/www.djtees.com\/fairport-convention\/":[0,0,""],"http:\/\/www.djtees.com\/?p=227490":[0,0,""],"http:\/\/www.djtees.com\/?p=227497":[0,0,""],"http:\/\/www.djtees.com\/keith-emerson-1944-2016\/":[0,0,""],"http:\/\/www.djtees.com\/?p=227807":[0,0,""],"http:\/\/www.djtees.com\/?p=227810":[0,0,""],"http:\/\/www.djtees.com\/?p=227815":[0,0,""],"http:\/\/www.djtees.com\/jeff-beck-blow-blow-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/?p=234997":[0,0,""],"http:\/\/www.djtees.com\/chris-squire-fish-water-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/?p=235132":[0,0,""],"http:\/\/www.djtees.com\/spirit-twelve-dreams-doctor-sardonicus-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/john-martyn-grace-danger-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/best-of-cream-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/gary-moore-dirty-fingers-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/pyramid-the-modern-jazz-quartet-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/mountain-climbing-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/joni-mitchell-ladies-of-the-canyon-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/free-all-right-now-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/status-quo-paper-plane-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/?p=247251":[0,0,""],"http:\/\/www.djtees.com\/?p=247330":[0,0,""],"http:\/\/www.djtees.com\/?p=247333":[0,0,""],"http:\/\/www.djtees.com\/traffic-on-the-road-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/robin-trower-bridge-of-sighs-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/the-who-album-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/joni-mitchell-court-and-spark-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/genesis-i-know-what-i-like-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/?p=248945":[0,0,""],"http:\/\/www.djtees.com\/battle-of-britain-soundtrack-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/blue-oyster-cult-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/grand-funk-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/tubular-bells-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/?p=249593":[0,0,""],"http:\/\/www.djtees.com\/tangerine-dream-force-majeure-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/fillmore-the-last-days-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/mahavishnu-orchestra-birds-of-fire-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/billy-cobham-spectrum-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/transatlantic-the-vintage-years-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/spooky-tooth-witness-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/fairport-convention-label-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/spirit-of-76-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/best-of-family-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/no-nukes-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/steve-hillage-green-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/ten-years-after-goin-home-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/j-geils-band-live-t-shirt\/":[0,0,""]},"siteURL":"http:\/\/www.djtees.com","siteURLq":"http:\/\/www.djtees.com"};
+var qpprFrontData = {"linkData":{"http:\/\/www.djtees.com\/classic-rock\/":[0,0,""],"http:\/\/www.djtees.com\/years\/":[0,0,""],"http:\/\/www.djtees.com\/blues-soul-folk-jazz\/":[0,0,""],"http:\/\/www.djtees.com\/rock-n-roll-lifestyle\/":[0,0,""],"http:\/\/www.djtees.com\/guitarists-tshirts\/":[0,0,""],"http:\/\/www.djtees.com\/psychedelic\/":[0,0,""],"http:\/\/www.djtees.com\/vinyl-culture\/":[0,0,""],"http:\/\/www.djtees.com\/free-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/1971-year\/":[0,0,""],"http:\/\/www.djtees.com\/1961-year\/":[0,0,""],"http:\/\/www.djtees.com\/1959-year\/":[0,0,""],"http:\/\/www.djtees.com\/1980-year\/":[0,0,""],"http:\/\/www.djtees.com\/2000-year\/":[0,0,""],"http:\/\/www.djtees.com\/1999-year\/":[0,0,""],"http:\/\/www.djtees.com\/bestseller\/":[0,0,""],"http:\/\/www.djtees.com\/rock-n-roll-lifestyle-2\/":[0,0,""],"http:\/\/www.djtees.com\/blues-soul-folk-jazz-2\/":[0,0,""],"http:\/\/www.djtees.com\/vinyl-culture-2\/":[0,0,""],"http:\/\/www.djtees.com\/psychedelic-2\/":[0,0,""],"http:\/\/www.djtees.com\/classic-rock-2\/":[0,0,""],"http:\/\/www.djtees.com\/years-2\/":[0,0,""],"http:\/\/www.djtees.com\/free-music-weekly\/":[0,0,""],"http:\/\/www.djtees.com\/tshirt-winner\/":[0,0,""],"http:\/\/www.djtees.com\/music-winner\/":[0,0,""],"http:\/\/www.djtees.com\/the-meat-fix\/":[0,0,""],"http:\/\/www.djtees.com\/the-girl-cant-help-it\/":[0,0,""],"http:\/\/www.djtees.com\/teesside-steal\/":[0,0,""],"http:\/\/www.djtees.com\/queen-of-the-tees\/":[0,0,""],"http:\/\/www.djtees.com\/teesside-missed\/":[0,0,""],"http:\/\/www.djtees.com\/teesside-blues\/":[0,0,""],"http:\/\/www.djtees.com\/tyne-tees\/":[0,0,""],"http:\/\/www.djtees.com\/high-tees\/":[0,0,""],"http:\/\/www.djtees.com\/teesside-meat\/":[0,0,""],"http:\/\/www.djtees.com\/we-ate-all-the-pies\/":[0,0,""],"http:\/\/www.djtees.com\/dj-tees\/":[0,0,""],"http:\/\/www.djtees.com\/whistle-test-badge-post\/":[0,0,""],"http:\/\/www.djtees.com\/other-t-shirts\/":[0,0,""],"http:\/\/www.djtees.com\/basil\/":[0,0,""],"http:\/\/www.djtees.com\/chuck-berry-2-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/chuck-berry-1-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/chris-cornell-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/cheech-chong-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/glenn-hughes-1-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/the-butterfield-blues-band-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/rock-n-roll-monkey-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/robert-smith-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/rod-stewart-2-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/ozzy-1-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/angus-young\/":[0,0,""],"0":[0,0,""],"http:\/\/www.djtees.com\/david-bowie-live\/":[0,0,""],"http:\/\/www.djtees.com\/dont-mention-the-war\/":[0,0,""],"http:\/\/www.djtees.com\/gary-moore\/":[0,0,""],"http:\/\/www.djtees.com\/ministry-of-silly-walks\/":[0,0,""],"http:\/\/www.djtees.com\/plant-page\/":[0,0,""],"http:\/\/www.djtees.com\/ronnie-wood\/":[0,0,""],"http:\/\/www.djtees.com\/status-quo\/":[0,0,""],"http:\/\/www.djtees.com\/stevie-ray-vaughan-on-stage\/":[0,0,""],"http:\/\/www.djtees.com\/zappa\/":[0,0,""],"http:\/\/www.djtees.com\/bob-marley-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/bob-the-bear-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/brian-glover-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/chrissie-hynde-portrait-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/eddie-van-halen-2-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/theremin-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/zakk-wylde-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/allan-holdsworth-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/yngwie-malmsteen-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/james-dean-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/10-great-guitarists\/":[0,0,""],"http:\/\/www.djtees.com\/?p=215150":[0,0,""],"http:\/\/www.djtees.com\/humble-pie-related-t-shirts\/":[0,0,""],"http:\/\/www.djtees.com\/clever-monkey-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/david-coverdale-2-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/joe-strummer-3-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/new-order-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/ozzy-88-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/prince-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/robert-plant-1-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/sheryl-crow-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/sting-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/stranger-in-a-strange-land-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/rock-n-roll-gear\/":[0,0,""],"http:\/\/www.djtees.com\/muso-rock-gear\/":[0,0,""],"http:\/\/www.djtees.com\/?p=218554":[0,0,""],"http:\/\/www.djtees.com\/?p=218565":[0,0,""],"http:\/\/www.djtees.com\/?p=218563":[0,0,""],"http:\/\/www.djtees.com\/?p=218583":[0,0,""],"http:\/\/www.djtees.com\/its-chriiissstttmmmaaasss\/":[0,0,""],"http:\/\/www.djtees.com\/muso-original-rock-jewellery\/":[0,0,""],"http:\/\/www.djtees.com\/just-discovered-ancient-rock-stars-tomb\/":[0,0,""],"http:\/\/www.djtees.com\/solid-silver-still-got-blues\/":[0,0,""],"http:\/\/www.djtees.com\/stephen-stills-album-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/album-covers__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/new-2__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/new-only-9-99__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/new-mountain-live__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/captain-beefheart-album-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/mahavishnu-orchestra-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/butterfield-blues-band-east-west-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/byrds-turn-turn-turn-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/derek-dominoes-live-fillmore-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/singer-songwriter__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/yardbirds-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/love-like-man-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/ry-cooder-paris-texas-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/grand-funk-live-album-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/velvet-underground__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/king-curtis-live-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/uk-album-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/delaney-bonnie-single-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/kossoff-back-street-crawler-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/kevin-ayers-album-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/20-blues-guitarists__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/supertramp-crime-century__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/fairport-convention__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/the-faces__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/humble-pie-album-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/keith-emerson-1944-2016\/":[0,0,""],"http:\/\/www.djtees.com\/ry-cooder-album-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/little-feat-single-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/supertramp-album-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/jeff-beck-blow-blow-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/carly-simon-album-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/chris-squire-fish-water-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/girl-called-dusty-album__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/spirit-twelve-dreams-doctor-sardonicus-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/john-martyn-grace-danger-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/gary-moore-dirty-fingers-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/pyramid-the-modern-jazz-quartet-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/mountain-climbing-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/joni-mitchell-ladies-of-the-canyon-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/free-all-right-now-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/status-quo-paper-plane-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/bob-seger-smokin-o-p-s-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/stephen-stills-album-t-shirt-2__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/20-rock-legends__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/traffic-on-the-road-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/robin-trower-bridge-of-sighs-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/the-who-album-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/joni-mitchell-court-and-spark-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/genesis-i-know-what-i-like-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/vanilla-fudge-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/battle-of-britain-soundtrack-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/blue-oyster-cult-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/grand-funk-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/tubular-bells-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/limited-edition-t-shirts-ending-6th-june__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/tangerine-dream-force-majeure-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/fillmore-the-last-days-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/mahavishnu-orchestra-birds-of-fire-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/billy-cobham-spectrum-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/transatlantic-the-vintage-years-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/spooky-tooth-witness-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/fairport-convention-label-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/spirit-of-76-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/best-of-family-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/no-nukes-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/ten-years-after-goin-home-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/j-geils-band-live-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/traffic-low-spark-of-high-heeled-boys-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/the-london-howlin-wolf-sessions-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/joni-mitchell-blue-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/can-future-days-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/john-martyn-solid-air-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/the-butterfield-blues-band-the-resurrection-of-pigboy-crabshaw-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/the-good-the-bad-and-the-ugly-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/the-free-story-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/soft-machine-seven-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/bob-dylan-like-a-rolling-stone-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/free-live-album-cover-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/the-flying-burrito-bros-album-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/blue-cheer-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/deep-purple-black-night-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/rock-against-racism-t-shirt\/":[0,0,""],"http:\/\/www.djtees.com\/derek-and-the-dominoes-layla-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/the-blue-oyster-cult-tyranny-and-mutation-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/captain-beefheart-shiny-beast-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/2001-a-space-odyssey__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/ten-years-after-undead-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/dylan-subterranean-homesick-blues-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/queen-now-im-here-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/keef-hartley-band-overdog-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/joe-walsh-you-cant-argue-with-a-sick-mind-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/harvey-mandel-cristo-redentor-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/the-london-chuck-berry-sessions-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/the-ipcress-file-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/be-bop-deluxe-ships-in-the-night-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/david-bowie-jean-genie-t-shirt-2__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/kraftwerk-radio-activity-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/seals-crofts-summer-breeze-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/blues-project-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/larry-carlton-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/john-mclaughlin-shakti-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/special-offer-t-shirts__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/butterfield-blues-band-in-my-own-dream-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/beverly-hills-cop-t-shirt__trashed\/":[0,0,""],"http:\/\/www.djtees.com\/special-t-shirts\/":[0,0,""],"http:\/\/www.djtees.com\/vintage\/":[0,0,""],"http:\/\/www.djtees.com\/rock-blues-pendants-5-99\/":[0,0,""],"http:\/\/www.djtees.com\/rock-n-roll-vibe-t-shirts\/":[0,0,""],"http:\/\/www.djtees.com\/latest-t-shirts\/":[0,0,""],"http:\/\/www.djtees.com\/rip-greg-lake\/":[0,0,""],"http:\/\/www.djtees.com\/?p=271785":[0,0,""],"http:\/\/www.djtees.com\/new-muso-jewellery\/":[0,0,""],"http:\/\/www.djtees.com\/classic\/":[0,0,""],"http:\/\/www.djtees.com\/rock-vibe-t-shirts\/":[0,0,""]},"siteURL":"http:\/\/www.djtees.com","siteURLq":"http:\/\/www.djtees.com"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://www.djtees.com/wp-content/plugins/quick-pagepost-redirect-plugin/js/qppr_frontend_script.min.js?ver=5.1.8"></script>
@@ -922,67 +741,31 @@ var qpprFrontData = {"linkData":{"http:\/\/www.djtees.com\/classic-rock\/":[0,0,
 var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy-policy-2\/?wc-ajax=%%endpoint%%"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//www.djtees.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.js?ver=2.5.5"></script>
+<script type="text/javascript" src="//www.djtees.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.js?ver=2.6.8"></script>
 <script type="text/javascript" src="http://www.djtees.com/wp-content/plugins/woocommerce-currency-converter-widget/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.3.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy-policy-2\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//www.djtees.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.js?ver=2.5.5"></script>
+<script type="text/javascript" src="//www.djtees.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.js?ver=2.6.8"></script>
 <script type="text/javascript" src="http://www.djtees.com/wp-content/themes/Newsmag/js/tagdiv_theme.js?ver=2.3.7"></script>
-<script type="text/javascript" src="http://www.djtees.com/wp-includes/js/comment-reply.js?ver=4.5.2"></script>
+<script type="text/javascript" src="http://www.djtees.com/wp-includes/js/comment-reply.js?ver=4.6.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var angelleye_frontend = {"is_product":"no","is_cart":"no","is_checkout":"no","three_digits":"3 digits usually found on the signature strip.","four_digits":"4 digits usually found on the front of the card."};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.djtees.com/wp-content/plugins/paypal-for-woocommerce/assets/js/angelleye-frontend.js?ver=2.5.5"></script>
+<script type="text/javascript" src="http://www.djtees.com/wp-content/plugins/paypal-for-woocommerce/assets/js/angelleye-frontend.js?ver=2.6.8"></script>
 <script type="text/javascript" src="http://www.djtees.com/wp-content/plugins/woocommerce-social-media-share-buttons/smsb_script.js?ver=1.0.0"></script>
-<script type="text/javascript" src="http://www.djtees.com/wp-includes/js/wp-embed.js?ver=4.5.2"></script>
-<!-- custom event click code  -->
+<script type="text/javascript" src="http://www.djtees.com/wp-includes/js/wp-embed.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.djtees.com/wp-content/plugins/widget-countdown/includes/javascript/front_end_js.js?ver=4.6.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var pysp_pysp = [];
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.djtees.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
 /* ]]> */
 </script>
-<script type="text/javascript">
-jQuery(function($){
-
-	//custom click event using css selector
-	$.each(pysp_pysp, function(i, ele) {
-		
-		var single_event = pysp_pysp[i];
-		var selector = single_event[0];
-		var eventcode = single_event[1];
-			eventcode = eventcode.replace('_pysp_', 'fbq');
-			
-		jQuery(document).on('click', selector, function(){
-			eval(eventcode);
-		});
-	});
-
-
-	//custom event using href url
-	jQuery(document).on('click', 'a.pysp_customevent_pysp', function(e){
-
-		
-
-		var event_code = jQuery(this).attr('data-pixelcode') || false;
-		var event_custom = jQuery(this).attr('data-pixelcustom') || false;
-
-		if( event_code != false && event_code != '' ){
-
-			eval(event);
-
-		} else if ( event_custom != false && event_custom != '' ){
-
-			eval(event_custom);
-		}
-
-	});
-});
-</script>
+<script type="text/javascript" src="http://www.djtees.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105"></script>
 
 <!-- JS generated by theme -->
 
@@ -1038,4 +821,4 @@ jQuery(function($){
 
 
 
-<!-- Served from: www.djtees.com @ 2016-06-16 14:00:30 by W3 Total Cache --></body></html>
+<!-- Served from: www.djtees.com @ 2016-12-09 19:58:47 by W3 Total Cache --></body></html>
