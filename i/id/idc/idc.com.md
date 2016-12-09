@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the idc.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524183204id_/https%3A//www.idc.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idc.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209165102id_/https%3A//www.idc.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # IDC - Privacy Policy
 
 IDC Privacy Policy  
 
+
+**You consent to the data collection, use, disclosure and storage practices described in this privacy policy when you use any of the IDC websites.**
 
 This website ("Website") and associated websites are maintained by:
 
