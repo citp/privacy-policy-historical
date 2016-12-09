@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nfcworld.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606203818id_/http%3A//www.nfcworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfcworld.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209170143id_/http%3A//www.nfcworld.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy • NFC World+
+# Privacy policy • NFC World
 
 This page explains how SJB Research uses the information you give to us, and the ways in which we protect your privacy.
 
@@ -44,7 +44,7 @@ We use a specialist third-party service provider to administer our mailing lists
 
 We will use your personal information to send you updates from the mailing lists that you have joined. The information you provide may be used by SJB Research to communicate with you. We may add your personal information to other internal databases if you go on to interact with us in other ways, for example by downloading a white paper, applying for a trial subscription or becoming a customer. Your email address will not be shared with third parties (other than our contracted mailing list service provider solely for the purpose of administering the list).
 
-### The NFC World+ Knowledge Centre
+### The NFC World Knowledge Centre
 
 #### What data do we collect?
 
@@ -68,4 +68,4 @@ Please note that if SJB Research Ltd or any of its lines of business is sold or 
 
 If this privacy policy changes we will publish an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
 
- _Last updated 5 May 2016._
+ _Last updated 22 July 2016._
