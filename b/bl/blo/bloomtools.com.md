@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloomtools.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610213305id_/http%3A//www.bloomtools.com/index.php%3Fid%3D1000609) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomtools.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209094648id_/http%3A//www.bloomtools.com/index.php%3Fid%3D1000609) for the most accurate reproduction.*
 
 # Bloomtools Privacy Policy for clients
 
