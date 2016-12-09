@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sutton.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318025754id_/https%3A//www.sutton.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sutton.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209115528id_/https%3A//www.sutton.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
