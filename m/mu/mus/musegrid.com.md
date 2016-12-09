@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musegrid.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605202614id_/http%3A//www.musegrid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musegrid.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209145325id_/http%3A//www.musegrid.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
