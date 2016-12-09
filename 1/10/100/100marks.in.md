@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 100marks.in privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325172248id_/http%3A//www.embibe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100marks.in privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209191403id_/http%3A//www.embibe.com/privacy) for the most accurate reproduction.*
 
 # Embibe - Privacy Policy
 
