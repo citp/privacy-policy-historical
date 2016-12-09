@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solochecker.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628014321id_/http%3A//www.solochecker.com/cms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solochecker.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209101506id_/http%3A//www.solochecker.com/cms/privacy) for the most accurate reproduction.*
 
 # Solochecker :: Privacy Policy
 
