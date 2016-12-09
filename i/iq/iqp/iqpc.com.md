@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iqpc.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610112627id_/http%3A//www.iqpc.com/Global/About/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iqpc.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209060718id_/http%3A//www.iqpc.com/Global/About/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | IQPC.com
 
