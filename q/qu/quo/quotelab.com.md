@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotelab.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323104238id_/http%3A//www.quotelab.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotelab.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209225012id_/http%3A//www.quotelab.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - QuoteLab.com
 
@@ -42,93 +42,133 @@ All Service Providers in our network have entered into agreements with us which 
 Here's the full list of Service Providers currently in our network: 
 
   * 21st Century
-  * Acquire Health
+  * AARP
+  * AccuQuote
+  * Aetna
+  * AIG Direct
+  * AIS
   * All Web Leads
   * Alliance
+  * Allied Coverage
   * Allstate
+  * AllWebLeads
   * American Adventure Insurance
-  * Americare
-  * Answer Financial
-  * Apollo Interactive
+  * American Agents Alliance
+  * Ameriquote
+  * Archlight
   * Art Institute
-  * Assurance
-  * Astoria Company
-  * Avendia
+  * Auto Insurance Guide
   * Avenge Digital
-  * Benepath
+  * Bantam Connect
+  * Bayside Group
+  * Blue Wing Ads
+  * Bold Media
   * BRXTN Digital Media
+  * CallEngine
   * Cege Media
-  * Click 2 Call Network
+  * Compare.com
   * CompareInsuranceQuotes
-  * Contactability
+  * CountryWide - Debt Transfers
+  * Coverage One
+  * Dairyland Insurance
   * Datalot
   * Debt.com
   * Direct General
+  * e-TeleQuote
   * Efinancial
   * EPIQ
-  * Esurance
+  * Equita Group
+  * Exact Match Media
   * FirstQuoteHealth.com
   * Florida Blue
   * Fortegra
+  * Freedom Debt
   * Freeway Insurance Services
   * GEICO
+  * Get Seen Media
+  * GetInsured
+  * Globe Life
   * Go Direct Lead Gen
   * GoHealthInsurance
   * Goji
-  * goMedigap
-  * Hannigan Insurance
   * Health Benefit Center
   * Health Choice One
   * Health Insurance Innovations
-  * Health Insurance Services
   * Health Plans of America
-  * Health Solutions One
-  * HealthMarkets
+  * Health Sherpa
+  * Healthcare, Inc.
+  * HealthPlanOne
+  * HealthQuoteInfo.com (Rank Media Agency)
   * Home Insurance King
+  * HyperTarget Marketing
+  * IHC Group
+  * Infinix Media
+  * Inquire Media
   * Inside Response
-  * Insurance Quotes Now
+  * Insurance Line One
   * iWebQuotes
-  * Kelly Klee
-  * Leadnomics
+  * JustUs
+  * Kanopy Insurance
+  * Leads (Tranzact)
+  * Lending Point
   * Liberty Mutual
+  * Liberty Mutual (Rex Direct)
   * Lighthouse Insurance
-  * MassNexus
-  * MatchMedia
+  * LoanMe
+  * Lockton Affinity Group
+  * Mapfre Insurance
+  * Markel Corporation
   * Mercury
-  * MetroMile
   * Moss
+  * National General
+  * National Health Plans
   * Nationwide
   * NetQuote
-  * Nexus Enterprise Solutions
-  * Outlook Advisors
-  * Parasol Leads
+  * One Loan Place
+  * Oscar Health
   * Pay Per Call Market
+  * Pay Per Call Transfers
   * PEMCO
   * Ping Leads
   * Platform Advertising
   * Plymouth Rock
+  * PMIC (Adrea Rubin)
   * Precise Leads
   * Precursor Media
-  * Progressive
-  * Qatalyst Media
+  * Presidio Interactive
+  * Quantum Digital
+  * Quinstreet
   * Quote Engine
   * QuoteWizard
   * Rank Media Agency
+  * Real Results
+  * Rescue One
   * RevPoint
+  * Rex Direct
+  * Ring Router
+  * SafeAuto
+  * Selective Healthcare
   * SelectQuote
   * SelectQuote Life
+  * Simple Insurance Leads
+  * Simpson Financial Group
   * State Farm
+  * The Complete Lead
+  * The General
+  * The Hartford
   * The Insurance Center
   * The Lead Company
-  * Torchlight Technology Group
-  * Torchmark
+  * The Zebra
   * Tranzact
   * Travelers
+  * TruSource Mktg
+  * TSC
   * Underground Elephant
   * United Medicare Advisors
-  * Used Imagination
+  * US Benefit Solutions
   * Velapoint
   * Vital One Health
+  * We Speak
   * ZQ Auto Insurance
 
 
