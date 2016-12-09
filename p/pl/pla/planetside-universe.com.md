@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetside-universe.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608131224id_/http%3A//www.planetside-universe.com/p-privacy-statement-28.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetside-universe.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209131659id_/http%3A//www.planetside-universe.com/p-privacy-statement-28.htm) for the most accurate reproduction.*
 
 # PlanetSide Universe - Rules/FAQ: PlanetSide Universe Privacy Statement
 
@@ -28,7 +28,7 @@ PlanetSide Universe uses third-party advertising companies to serve ads when you
   
 
 
-All times are GMT -5. The time now is 08:12 AM.
+All times are GMT -5. The time now is 09:49 PM.
 
   
 
