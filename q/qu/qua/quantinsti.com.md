@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quantinsti.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502122948id_/http%3A//www.quantinsti.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantinsti.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209202347id_/http%3A//www.quantinsti.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
