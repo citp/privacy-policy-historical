@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spacewar.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318220724id_/http%3A//www.spacewar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spacewar.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210051245id_/http%3A//www.spacewar.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Space Media Network
 
