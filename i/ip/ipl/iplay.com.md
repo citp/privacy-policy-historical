@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iplay.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605044500id_/http%3A//www.iplay.com/landing/41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplay.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210234308id_/http%3A//www.iplay.com/landing/41) for the most accurate reproduction.*
 
 # Iplay Download Games Privacy Policy
 
