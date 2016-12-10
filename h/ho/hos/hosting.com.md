@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hosting.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623151321id_/http%3A//www.hosting.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hosting.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210232728id_/http%3A//www.hosting.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HOSTING Managed Cloud Services
 
@@ -32,22 +32,6 @@ Subpoenas and Other Demands for Information – HOSTING is required to comply w
 Customer Record – We use the Customer Record to identify Users personally. It is throughout our business to provide services to Users. Information in your Customer Record will only be shared with third parties if it is necessary to provide Third Party Products to you. However, information in the Customer Record related to payments, such as a User’s credit card number, is only used to ensure we receive payment for services rendered.
 
 Customer Inquiries – We use User Inquiry Information to identify Users personally. It is throughout our business to provide services to Users. User Inquiry Information is shared with third parties only to identify and fix problems with services we provide when we are unable to do so ourselves.
-
-Survey Information – We use Survey Information to identify Users personally. We use it throughout our business to market new products and services to Users. Survey Information is not shared with third parties in ways that identify Users personally. To the extent we share Survey Information with third parties, it is done in aggregate.
-
-Statistical Information – We do not use Statistical Information to identify Users personally. We use Statistical Information to operate our hardware and software, diagnose problems and administer our website. We may use aggregate Statistical Information to modify the products and services we offer based on who is visiting our website and what they are purchasing.
-
-Cookies – We may use cookies to identify Users personally. We use the information provided by cookies to change the way our website looks to Users, to keep Users logged in to certain areas of our website, to ensure continued connection to the Equipment, and to collect demographic data about where Users go on our website and how they behave. Cookies used by our Equipment are used to track and log activities on the Equipment and our Network for security, network maintenance and other related activities. Information about Users collected by cookies may be combined with information collected from Tracking Software, sales or support inquiries, and additional information in order to identify a User personally.
-
-### How We Use Information That We Collect.
-
-Subpoenas and Other Demands for Information – HOSTING is required to comply demands for information as required by state and federal law. Examples of these demands include subpoenas, warrants, and civil discovery demands. Information covered by our Privacy
-
-Policy may be disclosed following such a request if we determine, in our sole discretion, that such a disclosure is necessary or required. We may also disclose this information if it is necessary or required to protect our interests, the interests of our customers, or in connection with the sale of our business. We may not be able to notify you prior to any such disclosures.
-
-Customer Record – We use the Customer Record to identify Users personally. It is used throughout our business to provide services to Users. Information in your Customer Record will only be shared with third parties if it is necessary to provide Third Party Products to you. However, information in the Customer Record related to payments, such as a User’s credit card number, is only used to ensure we receive payment for services rendered.
-
-Customer Inquiries – We use User Inquiry Information to identify Users personally. It is used throughout our business to provide services to Users. User Inquiry Information is shared with third parties only to identify and fix problems with services we provide when we are unable to do so ourselves.
 
 Survey Information – We use Survey Information to identify Users personally. We use it throughout our business to market new products and services to Users. Survey Information is not shared with third parties in ways that identify Users personally. To the extent we share Survey Information with third parties, it is done in aggregate.
 
