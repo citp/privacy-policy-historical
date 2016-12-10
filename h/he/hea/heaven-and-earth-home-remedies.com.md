@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heaven-and-earth-home-remedies.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008132921id_/http%3A//heaven-and-earth-home-remedies.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heaven-and-earth-home-remedies.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210012945id_/http%3A//www.heaven-and-earth-home-remedies.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Heaven and Earth Home Remedies
 
