@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityevents.tv privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610101807id_/http%3A//www.cityevents.tv/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityevents.tv privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210140428id_/http%3A//www.cityevents.tv/privacy.php) for the most accurate reproduction.*
 
 # CityEvents | Privacy Statement
 
