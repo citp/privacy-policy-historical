@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subsplash.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322180012id_/http%3A//www.subsplash.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subsplash.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210214351id_/http%3A//www.subsplash.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy — Subsplash.com | Engage your audience like never before.
 
