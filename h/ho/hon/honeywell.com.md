@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the honeywell.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628211049id_/http%3A//www.honeywell.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honeywell.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210092224id_/http%3A//www.honeywell.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Honeywell Privacy Statement
 
 **Introduction**
 
@@ -28,7 +28,7 @@ Information collected automatically. We collect information about your visit to 
 
 **Our use of information**
 
-Services and transactions. We use your personal information to deliver services or carry out transactions you have requested, including, but not limited to, providing information on Honeywell products or services, registering purchased products, processing product orders, handling warranty claims, replacing product manuals, answering customer service requests and facilitating use of our sites. In order to offer you a more consistent experience in your interactions with Honeywell – including, but not limited to, learning about you and how you interact with and use Honeywell products and services; developing and managing our products, services and customer care; and providing you with information about Honeywell products and services that you may be interested in -- information collected by our sites may be combined with information we collect or acquire through other means.
+Services and transactions. We use your personal information to deliver services or carry out transactions you have requested, including, but not limited to, providing information on Honeywell products or services, registering purchased products, processing product orders, handling warranty claims, replacing product manuals, answering customer service requests and facilitating the use of our sites. In order to offer you a more consistent experience in your interactions with Honeywell – including, but not limited to, learning about you and how you interact with and use Honeywell products and services; developing and managing our products, services and customer care; and providing you with information about Honeywell products and services that you may be interested in -- information collected by our sites may be combined with information we collect or acquire through other means.
 
 Website and product improvement. We may use your personal information to perform business analyses or for other purposes to improve the quality of our business, our sites and Honeywell products or services (including new products or services), or to make our sites easier to use by eliminating the need for you to repeatedly enter the same information or by customizing our sites to your particular preference or interests.
 
@@ -36,7 +36,7 @@ Communications. We may use your personal information to inform you of products o
 
 Employment Applications. In connection with a job application or inquiry, you may provide us with information about yourself, such as a resume or curriculum vitae. We may use this information throughout Honeywell for the purpose of employment consideration. If your application or inquiry is unsuccessful, we will keep the information for future consideration for a limited period of time, unless you direct us not to do so.
 
-In addition to the uses listed above, we may use information we have collected in order to detect, prevent and respond to fraud, intellectual property infringement, violations of our Terms & Conditions, violations of law or other misuse of the sites.
+In addition to the uses listed above, we may use the information we have collected in order to detect, prevent and respond to fraud, intellectual property infringement, violations of our Terms & Conditions, violations of law or another misuse of the sites.
 
 **Our use of cookies and web beacons**
 
@@ -48,27 +48,27 @@ Cookie categories
 
 The type of cookie that may be used on Honeywell’s sites can be put into 1 of 4 categories: Strictly Necessary, Performance, Functionality & Profile and Advertising.
 
-1\. Strictly Necessary Cookies
+**1\. Strictly Necessary Cookies**
 
 These cookies are essential, as they enable you to move around our sites and use their features, particularly in connection with information searches and order placement. Without these cookies, services you have asked for cannot be provided. These cookies do not gather information about you that could be used for marketing or remembering where you have been on the internet. An example of a strictly necessary cookie is a “shopping basket cookie,” which is used to remember the products that you wish to purchase when you add products to your shopping basket or proceed to checkout.
 
-2\. Performance Cookies
+**2\. Performance Cookies**
 
 These cookies collect information about how you use our sites, for example which pages you go to most often and if you get any error messages from certain pages. These cookies collect only anonymous information that is used to improve how our sites work.
 
 These cookies are not used to target you with online advertising. Without these cookies we cannot learn how our sites are performing and make relevant improvements that could better your browsing experience. Examples of performance cookies that our sites use include Google and Adobe Analytics (see further discussion below).
 
-3\. Functionality & Profile Cookies
+**3\. Functionality & Profile Cookies**
 
 These cookies allow our sites to store information that you provide such as your site language preferences and to store technical information useful for your interactions with our sites. For instance, they remember your user ID and elements of your user profile. They also ensure that your experience using the sites and Honeywell’s marketing efforts are relevant to you. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymous and they cannot track your browsing activity on other websites.
 
 Without these cookies, a website cannot remember choices you have previously made or personalize your browsing experience. For example, we use a cookie to store your language preferences, which allows us to present you with product search results in the correct language, and we use a cookie to store your choice about the appearance of the cookie information banner that we display on our sites. This cookie will help us remember your choice about the appearance of the cookie information banner when you subsequently visit the same site where you made your choice about the banner and any other Honeywell sites with the same domain or the same top level domain.
 
-4\. Advertising Cookies
+**4\. Advertising Cookies**
 
 These cookies may be used to deliver advertisements that are more relevant to you and your interests. They may also be used to limit the times you see an advertisement as well as help to measure the effectiveness of the advertising campaign. Although these cookies may track your visits to other websites, they do not usually know who you are.
 
-Without these cookies, online advertisements you encounter will be less relevant to you and your interests.
+Without these cookies, online advertisements you encounter will be less relevant to you and your interests. 
 
 Setting your cookie preference
 
@@ -127,8 +127,9 @@ Our sites may contain links to other websites such as Honeywell distributors and
 
 If you have questions regarding this statement or our handling of your personal information, please contact us using the contact information listed below. We will promptly address your concern and strive to reach a satisfactory resolution.
 
-Email:
+ _Email_
 
+:  
 [HoneywellPrivacy@honeywell.com](mailto:HoneywellPrivacy@honeywell.com)
 
 Mailing Address:
