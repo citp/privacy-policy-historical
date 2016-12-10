@@ -1,129 +1,119 @@
-> *The following text is extracted and transformed from the irenttoown.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523075848id_/http%3A//www.irenttoown.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irenttoown.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210084207id_/http%3A//www.irenttoown.com/us/privacy) for the most accurate reproduction.*
 
 # iRentToOwn.com Privacy Policy
 
-Last Updated: 12/11/2013 
+Last Updated: October 25, 2016
 
-Welcome to this website (“Site”), as operated by Vertical Brands Media, Inc. (“Company” or “we”). Company operates the Site and other associated services and offerings, including, without limitation, mobile and tablet applications, that allow individuals to list or locate apartments, houses or other real estate for rent or sale (collectively, the "Service"), and makes it available to you subject to the Terms of Service (the "Terms"). This Privacy Policy is incorporated into and is subject to the Terms of Service. Capitalized terms used but not defined in this Privacy Policy have the meaning given to them in the Terms of Service. This statement governs information you provide to us or that we learn from you and other users of the Service (individually “User” or collectively, "Users") through use of the Service, and describes how we may collect, use, and disclose this information. 
+Purpose of the Privacy Policy.
 
-## The Information Company Collects
+iRentToOwn.com is committed to respecting and protecting your privacy rights, and we created this Privacy Policy to give you (the user) notice of how your private information will (and will not) be used by us in connection with our website (together with its subdomains, content and services). In simplified form (greater detail is below), our policy can be summarized as follows:
 
-### User Provided Information.
+  1. We may collect some information on you, but you control how much you share about yourself.
+  2. We take your information seriously.
+  3. We do not collect information from children under 13 years of age.
+  4. If we use a third party to assist us, they will be bound to protect your information.
+  5. Without your consent, we will not sell or rent your personal information but may share with our vendors, suppliers and contributors in connection with the services you are seeking.
+  6. We may aggregate information.
+  7. In certain legal situations, we may be compelled to disclose your personal information, but we will let you know if that occurs.
+  8. If you are outside the United States, you understand and agree that we may store your information in the United States.
 
-You may provide to Company what is generally called "personally identifiable" or “personal” information when you register or use the Service, such as your name, e-mail address, gender, physical address, telephone number, and credit card number, as well as a variety of other personal information such as information about your demographic profile and interests. Any time you enter information into a form or other data entry field available on the Service, Company collects and stores any personal information you include. 
 
-### Aggregate Data.
 
-Aggregate data is data we collect about a group or category of features, services or individuals, from which individual identities have been removed. For example, information about how you use a feature may be collected and combined with information about how others use the same feature, without any personal information included in the resulting data. 
+## This Privacy Policy applies to the sites where it appears.
 
-### "Cookies" Information.
+This policy describes how we treat personal information on the websites where it appears (the “Websites”). By interacting with us, you consent to these practices.
 
-When you use the Service, we may send one or more cookies – small text files containing a string of alphanumeric characters – to your computer. Company uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Service. By using these cookies, we can "remember" what you have done on the Service before and personalize our site for you. These persistent types of cookies can be removed, but each web browser is a little different, so please look through your browser "Help" file to learn the correct way to modify your cookies set-up. Please note that disabling cookies may prevent you from accessing some of the functionality available via the Service. In addition, in order to recognize you, store your preferences, and track your use of any application, we may store your mobile device IDs (the unique identifier assigned to a device by the manufacturer) when you use the Service. Unlike cookies, mobile device IDs cannot be deleted. 
+This privacy policy applies to how we use your information.
 
-### "Automatically Collected" Information.
+## We collect information from and about you.
 
-When you visit the Service or open one of our HTML emails, certain information from your web browser, mobile device or email client may be recorded through use of different types of technology, including "clear gifs" or "web beacons". This "automatically collected" information may include your Internet Protocol address ("IP Address"), mobile device type, web browser type, the web pages or sites that you visit just before or just after the Service, the pages you view, and the dates and times that you use the Service. Without limiting the generality of the foregoing, we also allow analytics companies to use tracking technologies to collect information about our Users’ computers or mobile devices and their online activities. These companies analyze this information to help us understand how the Service is being used. Analytics companies may use mobile device IDs, as described in the paragraph above. 
+We may collect contact information and personal information on the Websites. For example, we may collect your address when you use the Websites. We also collect your name, phone number and email address if you register with us.
 
-### Third Party Buttons.
+We may collect other information. For example, we may collect your location using GPS, a cellular network location, Wi-Fi networks, browser services, or information you provide. We might look at how often you use the Websites.
 
-We may implement third party buttons (such as Facebook “like” or “share” buttons or Twitter “tweet” buttons) that may allow third parties to collect information about you through such third parties’ browser cookies, even when you do not interact with the button. Information collected through buttons is collected directly by these third parties, and Company does not participate in that data transmission. Information collected by a third party in this manner is subject to that third party’s own data collection, use, and disclosure policies. 
+We may collect information about your device and Internet usage. If you use the Websites, we might collect information from your phone. We may also collect information about the parts of our Websites you use or third party apps or websites you visit when you leave our Websites. We may work with third parties who collect information about you when you use our app.
 
-### Integrated Services.
+## We collect information in different ways.
 
-You may be given the option to access or register for the Service through the use of your user name and passwords for certain services provided by third parties (each, an “Integrated Service”), such as Google or Facebook credentials, or you may otherwise have the option to authorize an Integrated Service to provide personal information or other information to us. By authorizing us to connect with an Integrated Service, you authorize us to access and store your name, email address(es), education, profile pictures, interests and activities, your gender and age, your hometown, school, employer, your username and other information that the Integrated Service makes available to us, and for certain aspects of the Service (such as the Roommates application), the names and profile pictures of your friends or contacts within the Integrated Service who are also users of the Service (or friends with Users of the Service) (“Friend Information”). Company may use and disclose any such information in accordance with this Privacy Policy. You should check your privacy settings on each Integrated Service to understand and change the information sent to us through each Integrated Service. Please review each Integrated Service’s terms of use and privacy policies carefully before using their services and connecting to our Service. 
+We collect information directly from you. For example, we collect information if you register on the Websites.
 
-### Information from Other Sources.
+We may get information about you from third parties. For example, our affiliates or partners may give us information about you. If our Websites have social media integration, social media Websites may also give us information about you.
 
-If we combine or associate information from other sources with personal information that we collect through the Service, we will treat the combined information as personal information in accordance with this Privacy Policy. 
+We collect information from you passively. For example, we may collect information from your phone, like your UDID. Our vendors might also use scripts or other tools to track your activities on our Platform. They may do this to make sure our Websites function properly.
 
-## The Way Company Uses Information
+We combine information. For example, we may combine information that we have collected offline with information we collect online. Or we may combine information we collect on with information we’ve collected separately. We may also combine information we collect from you with information we receive from third parties.
 
-Company uses information that we collect through the Service for a variety of purposes, including those described below: 
+## We use information as disclosed and described here.
 
-### Providing and Supporting the Service.
+We use information to administer the Websites.
 
-Company uses the information that we collect to provide to you all of the features and services found on the Service. We will use your email address, without further consent, for non-marketing or administrative purposes such as notifying you of major Service updates, responding to your requests, and sending you other types of notices. 
+We use information to communicate with you about your account or our relationship. We may contact you about our account or feedback. We might also contact you about this Policy or our Terms.
 
-### Improving the Service.
+We use information to respond to your requests or questions. For example, we might use your information to respond to your customer feedback.
 
-Company may use all of the information that we collect from our Users to understand usage trends and preferences, to improve the way the Service works and looks, to improve our marketing and promotional efforts, and to create new features and functionality. 
+We use information for security purposes. We may use information to protect our company, our customers, and our websites.
 
-### Monitoring the Service.
+We use information to improve our products and services. We may use your information to make our website and products better. We might use your information to customize your experience with us.
 
-Company may use automatically collected and cookies information to: (a) remember your information so that you will not have to re-enter it during your visit or the next time you visit the Service; (b) provide custom, personalized advertisements, content, and information; (c) monitor the effectiveness of our marketing campaigns; and (d) monitor aggregate usage metrics such as total number of visitors or users and pages viewed. 
+We use information for marketing purposes. For example, we might provide you with information about new products and special offers from us. We might also use your information to serve you ads about products and offers. We might tell you about new features or updates. These might be third party offers or products we think you might find interesting. To manage this, read the choices section below.
 
-### Marketing the Service.
+We use information as otherwise permitted by law.
 
-Company may use your email address or other personally identifiable information to send promotional or marketing messages relating to the Service, which you will have the ability to opt-out of. 
+## We may share information with third parties.
 
-## When Company Discloses Information
+We will share information with our vendors. These are third parties who perform services on our behalf. For example, we may share information with vendors who send emails for us.
 
-Company discloses information that we collect through the Service to third parties for a variety of purposes, including those described below. 
+We will share information if we think we have to in order to comply with the law or to protect ourselves. For example, we will share information to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests. We might share information when we are investigating potential fraud.
 
-### Fulfilling User Requests.
+We may share information with any successor to all or part of our business. For example, if part of our business was sold, we may share information as part of that transaction.
 
-Company may disclose both personally identifiable, automatically collected information and any other information to certain third parties in order to fulfill User requests. For instance, if you respond to an offer or listing for a third party’s product(s) or service(s) or sign up to be notified about related offers or listings from that third party or other third parties, then Company will provide such third parties with your information in order to fulfill your request. In addition, if, for example, you post a listing on the Site and agree that we may make it available to third parties, we will provide the listing and all related information to such third parties. You expressly agree that company or third parties to which we forward your contact information may contact you by email, telephone, postal mail, or other forms of communication as permitted by law  in order to fulfill your requests and you agree to receive such communications when you submit your contact information to us, regardless of the presence of your phone number(s) or email addresses on any local or national no-call or similar non solicitation lists.  Company's privacy policy does not apply to any third party’s handling of your information and we are not liable if their use of your information is in violation of this privacy policy or any applicable law.  If you would like a third party to delete or update your information or stop contacting you, you must contact them directly. 
+We may share information for other reasons we may describe to you, including with those with whom you have authorized us to share your information.
 
-### Information About Others.
+## You have certain choices about sharing and marketing practices.
 
-For certain aspects of the Service (such as in connection with the Roommates application), Company may share your Friend Information with other users of the Service who are already friends or contacts with that individual on an Integrated Service. 
+You can opt out of receiving our marketing emails. To stop receiving our promotional emails, follow the instructions in any promotional message you get from us. Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions.
 
-### Operating the Service.
+You can control cookies and tracking tools. Your browser may give you the ability to control cookies or other tracking tools. How you do so depends on the type of tool. Certain browsers can be set to reject browser cookies. To control flash cookies, which we may use on certain websites from time to time, you can go here. Why? Because flash cookies cannot be controlled through your browser settings.
 
-Company may disclose both personally identifiable and automatically collected information to certain third parties to process such information on our behalf, to provide website or other services, maintenance, and security, to manage our contacts and send out promotional messages on our behalf, to assist us in improving the way the Service works and looks, and to create new features. Generally, such disclosures are made under obligations of confidentiality. 
+Our Do Not Track Policy: Some browsers have “do not track” features that allow you to tell a website not to track you. These features are not all uniform. We do not currently respond to those signals. If you block cookies, certain features on our sites may not work. If you block or reject cookies, not all of the tracking described here will stop.
 
-### Aggregate Data.
+## Your California privacy rights.
 
-We may share automatically collected and aggregate data with interested third parties to assist them in understanding the interest and usage patterns for certain information, products, services, data, content, advertisements, promotions, and/or functionality on the Service. 
+If you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an email at [support@member.irenttoown.org](mailto:support@member.irenttoown.org), or write to us at the address listed below. Indicate in your letter that you are a California resident making a “Shine the Light” inquiry.
 
-### Legal Rights and Interests.
+## These sites and apps are not intended for children.
 
-Company may share personal information about Users with third parties when it believes that such a disclosure is appropriate to carry out a User's request or it reasonably believes that doing so is legally required or is in Company's interest to protect its property or other legal rights or the rights or property of others. 
+Our Websites are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us at [support@member.irenttoown.org](mailto:support@member.irenttoown.org). You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.” Parents, you can learn more about how to protect children's privacy on-line here.
 
-### Third-Party Marketing.
+## We store information in the United States.
 
-We may sell or render access to User information, including contact information, to third-party organizations for their use in marketing or promoting products or services. 
+Information we maintain may be stored both within and outside of the United States. If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection as those in your country.
 
-### Change in Control.
+## We use standard security measures.
 
-Information about our Users, including personally identifiable information, may be disclosed or otherwise transferred as part of any merger, acquisition, debt financing, or sale of Company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personally identifiable information is transferred to third parties as one of our business assets. 
+The Internet is not 100% secure. We cannot promise that your use of our Websites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. To learn more about how to protect yourself online, visit www.ftc.gov.
 
-### Public Areas.
+We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law.
 
-Any information that you voluntarily choose to include in a publicly (or semi-publicly) accessible area of the Service, such as a public profile page or communications you may initiate or engage in through the Service, will be available to anyone who has access to that content, including other Users. We cannot control who reads your posting or what other Users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. 
+## We may link to other sites or have third party services on our Websites we don’t control.
 
-## Your Choices and Account
+Our Websites may have links to websites we do not control. Our Websites may also have plugins or host other third party services that we don’t control. This policy does not apply to the privacy practices of those websites or third parties. When you interact with those websites or third parties, they may collect information from you. Read the privacy policy of other websites carefully. We are not responsible for these third party practices.
 
-You may, of course, decline to share your personally-identifiable information with Company, in which case Company will not be able to provide to you some or all of the features and functionality found on the Service. If you receive promotional email from Company, you may unsubscribe at any time by following the instructions contained within the email. Even after you opt-out from receiving promotional messages from Company, you will continue to receive administrative messages from Company regarding the Service. To protect your privacy and security, we take reasonable steps to verify your identity before granting Users’ profile access. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES. You may request that we use commercially reasonable efforts to delete your information by contacting us at customerservice@irenttoown.com 
+## Feel free to contact us if you have more questions.
 
-## Children
+If you have any questions about this Policy, please email us at [support@member.irenttoown.org](mailto:support@member.irenttoown.org).
 
-Consistent with the federal Children's Online Privacy Protection Act of 1998 (COPPA), we do not knowingly collect personally identifiable information from anyone under the age of thirteen (13) without parental consent. Any person who provides their personal information to Company through the Service represents that they are 13 years of age or older. If you believe that we have collected information from an individual under the age of 13, please contact us so that we may take appropriate steps to address the issue. 
+You can also write to us or call at: iRentToOwn.com   
+1810 E Sahara Ave., Suite 706   
+Las Vegas, NV 89104   
+(888) 435-1926 
 
-## Advertising and Remarketing
+If you have any questions about this Policy or want to correct or update your information, please email us at [support@member.irenttoown.org](mailto:support@member.irenttoown.org).
 
-Company may allow other companies, called third-party ad servers or ad networks, to serve advertisements within the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Service. They automatically receive your IP Address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize their advertising content. Further, these advertisers may also serve ads to you on other websites (including ads for Company products and services) based on information collected from you while using the Service. For example, Company uses Google’s “remarketing” service to target Company ads to you based on your prior use of the Service when you visit other sites in Google’s content network. You should be aware that advertisers may target advertisements to users based on a certain audience or audience segment. If you respond to this type of targeted advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they were trying to reach. You should consult the respective privacy policies of these third-party ad servers or ad networks. Company's Privacy Policy does not apply to, and we cannot control the activities of, such advertisers or other websites. 
+## We may update this Policy.
 
-## Links to Other Sites
+This Privacy Policy may be updated from time to time, but the changes will not apply retroactively.
 
-The Service may contain links or references to external websites. These are provided for your convenience only, and we do not have control over the privacy or security practices and policies of third party sites. Any personal information you provide on linked pages is provided directly to that third party and is subject to that third party's privacy policy. Please learn about the privacy and security practices and policies of external websites before providing them with personal information. 
+We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website (iRentToOwn.com). Please check our website periodically for updates.
 
-## Our Commitment to Data Security
-
-No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we take steps to protect your information from unauthorized access, disclosure, alteration, or destruction, which may include use of industry standard technologies and procedures. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of such firewalls and secure server software. If Company learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Service or providing personal information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Service. Company may post a notice on the Service if a security breach occurs. If this happens, you will need a web browser enabling you to view the Service. Company may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us via email at customerservice@irenttoown.com 
-
-## Special Note to International Users
-
-The Service is hosted in the United States, and all or a portion of the Service may also be hosted on the “cloud”, or other similar distributed hosting platform. If you are a User accessing the Service from the European Union, Asia, or any other region with laws governing personal data collection, use, and disclosure, that differ from United States laws, please note that you are transferring your personal data outside your home jurisdiction, including to the United States which does not have the same data protection laws as the EU and other regions, and by providing your personal data you consent to Company’s use of your personal data for the uses identified above in accordance with the Privacy Policy; and the transfer of your personal data to the United States and other jurisdictions as indicated above. 
-
-## Changes and Updates to this Privacy Policy
-
-We may occasionally update this Privacy Policy. When we do, we will also revise the "last updated” date on the Privacy Policy. For changes to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information that you have provided to us, we will attempt to obtain your consent before implementing the change, and without your consent, the new policy will not apply to information collected prior to the change. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personal information we collect. Your continued use of the Service constitutes your going forward agreement to this Privacy Policy and any updates. 
-
-## Contacting the Company
-
-If you have any questions, comments, or concerns about this Privacy Policy, please email us at customerservice@irenttoown.com 
-
-Postal Mail Address:    
-500 3rd Street, Suite 555   
-San Francisco, CA 94107 
+© 2016 iRentToOwn.com. All rights reserved. 
