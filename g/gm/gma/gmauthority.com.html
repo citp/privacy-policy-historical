@@ -1,0 +1,690 @@
+<!--The following is the downloaded HTML source of the gmauthority.com privacy policy that was archived on 2016-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161210162012id_/http%3A//gmauthority.com/blog/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class=""><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GM Authority Privacy Policy | GM Authority</title>
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+	// This function returns a normalized screen size to match the TypeGrid theme.
+	function get_ad_size($position) {
+		var $adsense_helper = 'src="https://pagead2.googlesyndication.com/pagead/show_ads.js"';
+		var $ynb_helper = 'src="https://contextual.media.net/nmedianet.js?cid=8CU1J6XKQ"';
+		var $aol_helper = 'src="https://uac.advertising.com/wrapper/aceUAC.js"';
+		var $adtech_helper = '';
+		switch($position) {
+			/*
+			The logo-center and bottom-center work together.  When the page is too small for the header,
+				it drops down under the second nav bar.
+			The actual display code for these ad locations are in this file (header.php)
+			*/
+			case "header-logo-center":
+				// Logo area in header.  Disappears when size is less then 700 via CSS
+				var $width = window.innerWidth || document.documentElement.clientWidth;
+				if ($width >= 1050 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "4873542961";  google_ad_width = 728;  google_ad_height = 90;', $adsense_helper]; }
+				else if ($width >= 800 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "4811202363";  google_ad_width = 468;  google_ad_height = 60;', $adsense_helper]; }
+				else { return ['','']; }
+				break;
+			case "header-bottom-center":
+				// Area under 2nd Menu.
+				var $width = window.innerWidth || document.documentElement.clientWidth;
+				//if ($width >= 728 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "3411313564";  google_ad_width = 728;  google_ad_height = 90;', $adsense_helper]; }
+				// else if ($width >= 468 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "4811202363";  google_ad_width = 468;  google_ad_height = 60;', $adsense_helper]; }
+				//Most recent: if ($width < 800 && $width >= 336 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "3401280366";  google_ad_width = 336;  google_ad_height = 280;', $adsense_helper]; }
+				//else if ($width < 336 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "2242304768";  google_ad_width = 300;  google_ad_height = 250;', $adsense_helper]; }
+				if ($width < 800 ) { return ['','src="https://adserver.adtechus.com/addyn|3.0|9994.1|3508064|0|170|ADTECH;loc=100;target=_blank;misc=[TIMESTAMP];rdclick="']; }
+				else { return ['','']; }
+				break;
+			/*
+			The home-featured and below-image-center displays an ad below the featured articles on the home page,
+				as well as an ad below the featured article on a post.
+			*/
+			case "home-featured":
+			case "intelligence-content":	// Ad code is located in page-templates/intelligence.php
+			case "below-image-center":
+				// Area under featured articles on home page and below article on single
+				var $addiv = document.getElementById("featured-image-wrapper").clientWidth;
+				if ($addiv >= 720 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "5181557166";  google_ad_width = 728;  google_ad_height = 90;', $adsense_helper]; }
+				// else if ($addiv >= 460 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "4811202363";  google_ad_width = 468;  google_ad_height = 60;', $adsense_helper]; }
+				else if ($addiv >= 328 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "3401280366";  google_ad_width = 336;  google_ad_height = 280;', $adsense_helper]; }
+				else if ($addiv < 328 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "2242304768";  google_ad_width = 300;  google_ad_height = 250;', $adsense_helper]; }
+				else { return ['','']; }
+				break;
+				
+			case "below-content":	// Ad placed below content in article, after 1st article on home page
+			case "header-replace-center":
+				// Below article in single and after 1st article on home.  Only appears when size is less than 700 via CSS
+				var $width = window.innerWidth || document.documentElement.clientWidth;
+				if ($width >= 728 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "3411313564";  google_ad_width = 728;  google_ad_height = 90;', $adsense_helper]; }
+				else if ($width < 728 && $width >= 336 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "3401280366";  google_ad_width = 336;  google_ad_height = 280;', $adsense_helper]; }
+				else if ($width < 336 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "2242304768";  google_ad_width = 300;  google_ad_height = 250;', $adsense_helper]; }
+				else { return ['','']; }
+				break;
+			case "home-loop":
+			case "comments":
+				// Every 4 articles on home page
+				var $addiv = document.getElementById("ads-content-wrapper").clientWidth;
+				if ( $addiv >= 728 ) { return ['','src="https://adserver.adtechus.com/addyn|3.0|9994.1|3505735|0|225|ADTECH;loc=100;target=_blank;misc=[TIMESTAMP];rdclick="']; }
+				else if ($addiv  < 728 )  { return ['','src="https://adserver.adtechus.com/addyn|3.0|9994.1|3508064|0|170|ADTECH;loc=100;target=_blank;misc=[TIMESTAMP];rdclick="']; }
+				else { return ['','']; }
+				break;				
+			case "footer":
+		        // Footer area, center.
+                var $addiv = window.innerWidth || document.documentElement.clientWidth;
+                if ($addiv >= 728 ) { return ['','src="https://adserver.adtechus.com/addyn|3.0|9994.1|3508062|0|225|ADTECH;loc=100;target=_blank;misc=[TIMESTAMP];rdclick="']; }
+                else if ($addiv < 728 ) { return ['','src="https://adserver.adtechus.com/addyn|3.0|9994.1|3508061|0|170|ADTECH;loc=100;target=_blank;misc=[TIMESTAMP];rdclick="']; }
+				else { return ['','']; }
+                break;
+		}
+	}
+
+	</script>
+<script>
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+	var $pageWidth = window.innerWidth || document.documentElement.clientWidth;
+	// var $contentWidth = 728; // document.getElementById("ads-content-wrapper").clientWidth;
+	
+	// Define article body slots according to screen size
+	// Screen is desktop, or right after the sidebar hides
+	if ( ( $pageWidth >= 1100 ) || ( $pageWidth <= 960 && $pageWidth >= 850 ) ) {
+		// Desktop sized screen
+		googletag.cmd.push(function() {
+			googletag.defineSlot('/102346917/gma_728_90', [728, 90], 'div-gpt-ad-content-three').addService(googletag.pubads());
+			googletag.defineSlot('/102346917/gma_728_90', [728, 90], 'div-gpt-ad-content-four').addService(googletag.pubads());
+		});
+	// Screen is tablet, or while the sidebar is shown and a large ad won't fit
+  	} else if ( ( $pageWidth < 1100 && $pageWidth > 960 ) || ( $pageWidth >= 360 )) {
+  		// Tablet sized screen
+  		googletag.cmd.push(function() {
+  			googletag.defineSlot('/102346917/gma_336_280', [336, 280], 'div-gpt-ad-content-three').addService(googletag.pubads());
+  			googletag.defineSlot('/102346917/gma_336_280', [336, 280], 'div-gpt-ad-content-four').addService(googletag.pubads());
+		});
+	// Screen size is too small for the 336 ad to display
+  	} else {
+  		// Mobile sized screen
+  		googletag.cmd.push(function() {
+  			googletag.defineSlot('/102346917/gma_300_250', [300, 250], 'div-gpt-ad-content-three').addService(googletag.pubads());
+  			googletag.defineSlot('/102346917/gma_300_250', [300, 250], 'div-gpt-ad-content-four').addService(googletag.pubads());
+		});
+  	};
+  	
+  	// Define page body slots according to screen size
+	// Screen is desktop, or right after the sidebar hides
+	if ( $pageWidth >= 740 ) {
+		// Desktop sized screen
+		googletag.cmd.push(function() {
+			googletag.defineSlot('/102346917/gma_728_90', [728, 90], 'div-gpt-ad-footer').addService(googletag.pubads());
+		});
+	// Screen is tablet, or while the sidebar is shown and a large ad won't fit
+  	} else if ( $pageWidth >= 350 ) {
+  		// Tablet sized screen
+  		googletag.cmd.push(function() {
+  			googletag.defineSlot('/102346917/gma_336_280', [336, 280], 'div-gpt-ad-footer').addService(googletag.pubads());
+		});
+	// Screen size is too small for the 336 ad to display
+  	} else {
+  		// Mobile sized screen
+  		googletag.cmd.push(function() {
+  			googletag.defineSlot('/102346917/gma_300_250', [300, 250], 'div-gpt-ad-footer').addService(googletag.pubads());
+		});
+  	};
+  	
+  	
+  	// Sidebar ads.  These do not change in size
+	googletag.cmd.push(function() {
+		googletag.defineSlot('/102346917/gma_160_600', [160, 600], 'div-gpt-ad-sidebar-top-left').addService(googletag.pubads());
+		googletag.defineSlot('/102346917/gma_160_600', [160, 600], 'div-gpt-ad-sidebar-top-right').addService(googletag.pubads());
+		googletag.defineSlot('/102346917/gma_160_600', [160, 600], 'div-gpt-ad-sidebar-middle-left').addService(googletag.pubads());			
+		googletag.defineSlot('/102346917/gma_160_600', [160, 600], 'div-gpt-ad-sidebar-middle-right').addService(googletag.pubads());
+		googletag.defineSlot('/102346917/gma_300_250', [300, 250], 'div-gpt-ad-sidebar-bottom-one').addService(googletag.pubads());
+		googletag.defineSlot('/102346917/gma_300_250', [300, 250], 'div-gpt-ad-sidebar-bottom-two').addService(googletag.pubads());
+	});
+	
+	// Define how the DFP tags fire
+	googletag.cmd.push(function() {
+		// googletag.pubads().enableSingleRequest();
+		googletag.pubads().enableSyncRendering();
+		googletag.pubads().collapseEmptyDivs();
+		googletag.enableServices();
+	});
+	
+		
+    
+</script>
+<link rel="stylesheet" href="http://gmauthority.com/blog/wp-content/themes/typegrid11_child/style.css">
+<link rel="pingback" href="http://gmauthority.com/blog/xmlrpc.php">
+<script>document.documentElement.className = document.documentElement.className.replace("no-js","js");</script>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic|Fjalla+One" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+		<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<script src="http://gmauthority.com/blog/wp-content/themes/typegrid11/js/ie/selectivizr.js"></script>
+	<![endif]-->
+ 
+ 
+<script type="text/javascript">
+if(document.location.protocol=='http:'){
+ var Tynt=Tynt||[];Tynt.push('as2bKu230r4OHsacwqm_6r');
+ (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
+}
+</script>
+ 
+ 
+ 
+ 
+<link rel="author" href="http://plus.google.com/b/106522224833753772925/106522224833753772925">
+<meta name="description" itemprop="description" content="This privacy policy discloses the privacy practices for gmauthority.com.">
+<link rel="canonical" href="http://gmauthority.com/blog/privacy-policy/">
+ 
+<link rel="alternate" type="application/rss+xml" title="GM Authority » Feed" href="http://gmauthority.com/blog/feed/">
+<link rel="alternate" type="application/rss+xml" title="GM Authority » Comments Feed" href="http://gmauthority.com/blog/feed/">
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/gmauthority.com\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=76bf6ada53fa5f6b0c1295a41cc80c9d"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),c.toDataURL().length>3e3):("simple"===a?d.fillText(String.fromCharCode(55357,56835),0,0):d.fillText(String.fromCharCode(55356,57135),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://gmauthority.com/blog/wp-includes/js/wp-emoji-release.min.js?ver=76bf6ada53fa5f6b0c1295a41cc80c9d" type="text/javascript"></script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+<link rel="stylesheet" id="ai1ec_style-css" href="//gmauthority.com/blog/wp-content/plugins/all-in-one-event-calendar/cache/248414e0_ai1ec_parsed_css.css?ver=2.5.10" media="all">
+<link rel="stylesheet" id="bwp-capt-css" href="http://gmauthority.com/blog/wp-content/plugins/bwp-recaptcha/assets/css/custom-theme.css?ver=76bf6ada53fa5f6b0c1295a41cc80c9d" media="all">
+<link rel="stylesheet" id="mailchimpSF_main_css-css" href="http://gmauthority.com/blog/?mcsf_action=main_css&amp;ver=76bf6ada53fa5f6b0c1295a41cc80c9d" media="all">
+<!--[if IE]>
+<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='http://gmauthority.com/blog/wp-content/plugins/mailchimp/css/ie.css?ver=76bf6ada53fa5f6b0c1295a41cc80c9d'  media='all' />
+<![endif]-->
+<link rel="stylesheet" id="bbp-default-css" href="http://gmauthority.com/blog/wp-content/themes/typegrid11_child/css/bbpress.css?ver=2.5.8-5815" media="screen">
+<link rel="stylesheet" id="wpbfsb-frontend-icons-css" href="http://gmauthority.com/blog/wp-content/plugins/fixed-wp-social-share-buttons/assets/css/wpbfsb-frontend-icons.css?ver=76bf6ada53fa5f6b0c1295a41cc80c9d" media="all">
+<link rel="stylesheet" id="wpbfsb-frontend-css" href="http://gmauthority.com/blog/wp-content/plugins/fixed-wp-social-share-buttons/assets/css/wpbfsb-frontend.css?ver=76bf6ada53fa5f6b0c1295a41cc80c9d" media="all">
+<style id="wpbfsb-frontend-inline-css" type="text/css">.wpbfsb .wpbfsb-button-named-google{background-color:#d64937;color:#ffffff;}.wpbfsb .wpbfsb-button-named-google:hover{background-color:#c53826;}.wpbfsb .wpbfsb-button-named-twitter{background-color:#327ead;color:#ffffff;}.wpbfsb .wpbfsb-button-named-twitter:hover{background-color:#216d9c;}.wpbfsb .wpbfsb-button-named-facebook{background-color:#3b5997;color:#ffffff;}.wpbfsb .wpbfsb-button-named-facebook:hover{background-color:#2a4886;}.wpbfsb button:nth-child(n+4){display:none;}.wpbfsb button.wpbfsb-more-button{display:inline-block;}.wpbfsb{left:0;top:38%;right:auto;bottom:auto;text-align:left;max-width:55px;width:auto;}.wpbfsb i{font-size:23px;}.wpbfsb button{margin:5px 5px 0 0;height:45px;width:45px;display:block;}.wpbfsb-count{font-size:11px;}.wpbfsb button.wpbfsb-more-button{display:none;}.wpbfsb button.wpbfsb-share-info{font-size:12px;color:#ffffff;}.wpbfsb-share-info-responsive-inner{display:none;}.wpbfsb-share-info-inner{display:inline;}.wpbfsb button.wpbfsb-tooltips span.wpbfsb-tooltip{font-size:12px;color:#ffffff;}.wpbfsb button.wpbfsb-tooltips span.wpbfsb-tooltip:after{top:50%;right:100%;bottom:auto;left:auto;margin:-8px 0 0 0;width:0;height:0;border-right:8px solid #000000;border-top:8px solid transparent;border-bottom:8px solid transparent;border-left:0 none;}.wpbfsb button.wpbfsb-tooltips:hover span.wpbfsb-tooltip{left:55px;top:7.5px;right:auto;bottom:auto;margin:0;}@media all and (min-width: 968px) {}@media all and (max-width: 968px) {wpbfsb button.wpbfsb-more-button{display:none;}.wpbfsb button:nth-child(n+4){display:inline-block}.wpbfsb button:nth-child(n+4){display:none;}.wpbfsb{max-height:60px;width:100%;left:auto;top:auto;right:auto;bottom:0;text-align:center;max-width:100%;}.wpbfsb i{font-size:25px;}.wpbfsb button{margin:0 0 5px 5px;height:50px;width:50px;display:inline-block;}.wpbfsb-count{font-size:13px;}.wpbfsb button.wpbfsb-share-info{font-size:10px;min-height:50px;min-width:50px;color:#ffffff;}.wpbfsb-share-info-responsive-inner{display:inline;}.wpbfsb-share-info-inner{display:none;}.wpbfsb button.wpbfsb-tooltips span.wpbfsb-tooltip{font-size:10px;color:#ffffff;}.wpbfsb button.wpbfsb-tooltips span.wpbfsb-tooltip:after{top:100%;left:50%;right:auto;bottom:auto;margin:0 0 0 -8px;width:0;height:0;border-top:8px solid #000000;border-right:8px solid transparent;border-left:8px solid transparent;border-bottom:0 none;}.wpbfsb button.wpbfsb-tooltips:hover span.wpbfsb-tooltip{bottom:60px;left:50%;top:auto;right:auto;margin:0 0 0 -70px;}}</style>
+<link rel="stylesheet" id="foobox-min-css" href="http://gmauthority.com/blog/wp-content/plugins/fooboxV2/css/foobox.min.css?ver=2.3.2.25" media="all">
+<link rel="stylesheet" id="NextGEN-css" href="http://gmauthority.com/blog/wp-content/plugins/nextcellent-gallery-nextgen-legacy/css/nggallery.css?ver=1.0.0" media="screen">
+<link rel="stylesheet" id="NextCellent-Framework-css" href="http://gmauthority.com/blog/wp-content/plugins/nextcellent-gallery-nextgen-legacy/css/framework-min.css?ver=1.0.1" media="screen">
+<link rel="stylesheet" id="style-responsive-css" href="http://gmauthority.com/blog/wp-content/themes/typegrid11/style-responsive.css?ver=1.0" media="all">
+<link rel="stylesheet" id="wpbandit-style-css" href="http://gmauthority.com/blog/wp-content/themes/typegrid11/styles/1220.css?ver=76bf6ada53fa5f6b0c1295a41cc80c9d" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="http://gmauthority.com/blog/wp-content/themes/typegrid11/fonts/font-awesome.min.css?ver=3.0" media="all">
+<link rel="stylesheet" id="mtmb-menu-bar-styles-css" href="http://gmauthority.com/blog/wp-content/plugins/motrolix-top-menu-bar/inc/css/mtmb_menu_bar_styles.css?ver=0.1.36" media="all">
+<link rel="stylesheet" id="mtmb-searchbox-styles-css" href="http://gmauthority.com/blog/wp-content/plugins/motrolix-top-menu-bar/inc/css/mtmb_searchbox_styles.css?ver=0.1.36" media="all">
+<link rel="stylesheet" id="mtmb-modal-login-styles-css" href="http://gmauthority.com/blog/wp-content/plugins/motrolix-top-menu-bar/inc/css/mtmb_modal_login_styles.css?ver=0.1.36" media="all">
+<link rel="stylesheet" id="mtmb-modal-search-styles-css" href="http://gmauthority.com/blog/wp-content/plugins/motrolix-top-menu-bar/inc/css/mtmb_modal_search_styles.css?ver=0.1.36" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="http://gmauthority.com/blog/wp-content/plugins/jetpack/css/jetpack.css?ver=3.9.7" media="all">
+<script type="text/javascript" src="http://gmauthority.com/blog/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
+<script type="text/javascript" src="http://gmauthority.com/blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://gmauthority.com/blog/wp-content/plugins/mailchimp/js/scrollTo.js?ver=1.4.2"></script>
+<script type="text/javascript" src="http://gmauthority.com/blog/wp-includes/js/jquery/jquery.form.min.js?ver=3.37.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mailchimpSF = {"ajax_url":"http:\/\/gmauthority.com\/blog\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://gmauthority.com/blog/wp-content/plugins/mailchimp/js/mailchimp.js?ver=1.4.2"></script>
+<script type="text/javascript" src="http://gmauthority.com/blog/wp-content/plugins/nextcellent-gallery-nextgen-legacy/js/owl.carousel.min.js?ver=2"></script>
+<script type="text/javascript" src="http://gmauthority.com/blog/wp-content/plugins/fooboxV2/js/foobox.min.js?ver=2.3.2.25"></script>
+<link rel="https://api.w.org/" href="http://gmauthority.com/blog/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://gmauthority.com/blog/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://gmauthority.com/blog/wp-includes/wlwmanifest.xml">
+<link rel="shortlink" href="http://gmauthority.com/blog/?p=136162">
+<link rel="alternate" type="application/json+oembed" href="http://gmauthority.com/blog/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgmauthority.com%2Fblog%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://gmauthority.com/blog/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgmauthority.com%2Fblog%2Fprivacy-policy%2F&amp;format=xml">
+<link rel="apple-touch-icon" href="http://gmauthority.com/blog/wp-content/uploads/2015/01/GMA-2015-Web-Clip-Logo-January-19-2015.jpg">
+<script type="text/javascript">/* Run FooBox (v2.3.2.25) */
+(function( FOOBOX, $, undefined ) {
+  FOOBOX.o = {wordpress: { enabled: true }, deeplinking : { enabled: false }, captions: { overrideTitle:true, titleSource:'image_alt', overrideDesc:true, descSource:'anchor', prettify:true }, countMessage:'image %index of %total', excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }, error: "Sorry, the image couldn\'t load", slideshow: { enabled:true}, social: { enabled: true, excludes: ['iframe','html'], onlyShowOnHover:true, position: 'fbx-top', links: [ { css: 'fbx-facebook', title: 'Facebook', url: 'http://www.facebook.com/sharer.php?u={url}'  }, { css: 'fbx-google-plus', title: 'Google+', url: 'https://plus.google.com/share?url={url-ne}'  }, { css: 'fbx-twitter', title: 'Twitter', url: 'https://twitter.com/share?url={url}&text={title}&via=afroehlich&hashtags=GMchat'  }, { css: 'fbx-pinterest', title: 'Pinterest', url: 'https://pinterest.com/pin/create/bookmarklet/?media={img!}&url={url}&is_video={is_video}&description={title}'  }, { css: 'fbx-linkedin', title: 'LinkedIn', url: 'http://www.linkedin.com/shareArticle?url={url}&title={title}'  } ] }, preload:true, modalClass: "fbx-spinner-7"};
+  FOOBOX.init = function() {
+    $(".fbx-link").removeClass("fbx-link");
+    $(".ngg-galleryoverview, .ngg-widget").foobox(FOOBOX.o);
+    $(".gallery").foobox(FOOBOX.o);
+    $(".afroehlich").foobox(FOOBOX.o);
+    $(".foobox, [target=\"foobox\"]").foobox(FOOBOX.o);
+    $(".wp-caption").foobox(FOOBOX.o);
+    $("a:has(img[class*=wp-image-])").foobox(FOOBOX.o);
+
+  };
+}( window.FOOBOX = window.FOOBOX || {}, jQuery ));
+
+jQuery(function() {
+  //preload the foobox font
+  jQuery("body").append("<span style=\"font-family:'foobox'; color:transparent; position:absolute; top:-1000em;\">f</span>");
+  FOOBOX.init();
+  jQuery(document).trigger("foobox-after-init");
+
+});
+</script> 
+<link rel="shortcut icon" href="http://gmauthority.com/blog/wp-content/uploads/2015/01/GMA-2015-Favicon-January-19-2015.jpg">
+<script type="text/javascript">
+ var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-10454573-1']);
+ _gaq.push(['_setDomainName', 'gmauthority.com']);
+ _gaq.push(['_trackPageview']);
+ (function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+</script>
+<style type="text/css" media="all">@import url("http://gmauthority.com/blog/wp-content/plugins/wp-table-reloaded/css/plugin.css?ver=1.9.4");@import url("http://gmauthority.com/blog/wp-content/plugins/wp-table-reloaded/css/datatables.css?ver=1.9.4");.negative-row td,.negative-number{background-color:#E69999!important;}.positive-row td,.positive-number{background-color:#CFFFCC!important;}.wp-table-reloaded-id-12 td,.wp-table-reloaded-id-12 th{text-align:center;}.wp-table-reloaded-id-12 tbody .column-1{text-align:left;}</style>
+ 
+<meta property="fb:admins" content="100000686899395">
+<meta property="fb:app_id" content="216102895086608">
+<meta property="og:url" content="http://gmauthority.com/blog/privacy-policy/">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:site_name" content="GM Authority">
+<meta property="og:description" content="This privacy policy discloses the privacy practices for gmauthority.com. This privacy policy applies solely to information collected by this web site. It will n">
+<meta property="og:type" content="website">
+<meta property="og:image" content="http://gmauthority.com/blog/wp-content/uploads/2015/11/GMA-2015-Logo-250px.jpeg">
+<meta property="og:locale" content="en_us">
+ 
+<style type="text/css"></style></head>
+<body class="page page-id-136162 page-template-default">
+<div class="body-wrapper">
+<header id="header">
+<nav class="nav-container group mtmb-fixed" id="nav-header">
+<div class="container">
+<li class="menu-item mtmb-searchbox-icon"><i class="icon-search sb-icon-size"></i></li><li class="menu-item mtmb-right"><div class="mtmb-searchwrap"><form action="/" method="get"><input type="text" placeholder="Search..." name="s" class="mtmb-searchbox" required=""><i class="icon-remove sb-icon-size mtmb-close-icon"></i></form></div></li><ul class="nav mtmb-nav"><li class="menu-item mtmb-menu-item login-link  mtmb-show"><a id="show_login" href="#">Sign In</a></li><li class="menu-item mtmb-menu-item register-link  mtmb-show"><a href="http://gmauthority.com/blog/register/">Sign Up</a></li></ul> <div class="nav-toggle" id="nav-header-toggle"><i class="icon-reorder"></i></div>
+<div class="nav-wrap">
+<ul id="menu-header" class="nav container group"><li id="menu-item-41108" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41108"><a href="http://gmauthority.com">News</a></li><li id="menu-item-41237" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41237"><a href="http://gmauthority.com/blog/forum/">Forum</a></li><li id="menu-item-41238" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41238"><a href="http://gmauthority.com/blog/gallery/">Photos</a></li><li id="menu-item-41239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41239"><a href="http://gmauthority.com/blog/tip-us/">Tip Us</a></li><li id="menu-item-131953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131953"><a href="http://gmauthority.com/blog/careers/">Jobs</a></li><li id="menu-item-41586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41586"><a href="http://gmauthority.com/blog/subscribe/">Subscribe</a></li></ul> </div>
+</div>
+</nav> 
+<div class="container">
+<div id="header-logo-wrapper"> 
+<div id="header-logo-container-left">
+<p id="logo"><a href="http://gmauthority.com/blog/" rel="home"><img src="http://gmauthority.com/blog/wp-content/uploads/2015/01/GMA-2015-Logo-1-13-20151.jpeg" alt="GM Authority"></a></p>
+</div>
+<div id="header-logo-container-center">
+<h3>Sponsored Links</h3>
+<script>var ad_data = get_ad_size('header-logo-center');
+								document.write('<script type="text/javascript"> ' + ad_data[0] + '<' + '\/script>'); </script><script type="text/javascript"> google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "4873542961";  google_ad_width = 728;  google_ad_height = 90;</script>
+<script> document.write('<script type="text/javascript" ' + ad_data[1] + '><' + '\/script>'); </script><script type="text/javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+<div id="header-logo-container-right">
+<ul id="header-social" class="social-module"><li><a class="social-tooltip" href="http://facebook.com/gmauthority" title="Facebook" target="_blank"><i class="icon-facebook-sign"></i></a></li><li><a class="social-tooltip" href="http://twitter.com/gmauthority" title="Twitter" target="_blank"><i class="icon-twitter"></i></a></li><li><a class="social-tooltip" href="http://plus.google.com/b/106522224833753772925/106522224833753772925" title="G+" target="_blank"><i class="icon-google-plus-sign"></i></a></li></ul>
+</div>
+</div> 
+<nav class="nav-container group" id="nav-subheader">
+<div class="nav-toggle" id="nav-subheader-toggle"><i class="icon-reorder"></i></div>
+<div class="nav-wrap">
+<ul id="menu-subheader" class="nav container group"><li id="menu-item-41240" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41240"><a href="http://gmauthority.com/blog/category/chevrolet/">Chevrolet</a></li><li id="menu-item-41241" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-41241"><a href="http://gmauthority.com/blog/category/buick/">Buick</a>
+<ul class="sub-menu">
+<li id="menu-item-78629" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78629"><a href="http://gmauthority.com/blog/category/buick/encore/">Encore</a></li> <li id="menu-item-78630" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78630"><a href="http://gmauthority.com/blog/category/buick/envision/">Envision</a></li> <li id="menu-item-78631" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78631"><a href="http://gmauthority.com/blog/category/buick/enspire/">Enspire (Upcoming)</a></li> <li id="menu-item-78632" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78632"><a href="http://gmauthority.com/blog/category/buick/enclave/">Enclave</a></li> <li id="menu-item-78633" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78633"><a href="http://gmauthority.com/blog/category/buick/excelle/">Excelle</a></li> <li id="menu-item-78634" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78634"><a href="http://gmauthority.com/blog/category/buick/excelle/excelle-gt/">Excelle GT</a></li> <li id="menu-item-78635" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78635"><a href="http://gmauthority.com/blog/category/buick/excelle/excelle-xt/">Excelle XT</a></li> <li id="menu-item-78636" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-78636"><a href="http://gmauthority.com/blog/category/buick/verano/">Verano</a>
+<ul class="sub-menu">
+<li id="menu-item-78637" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78637"><a href="http://gmauthority.com/blog/category/buick/verano/verano-turbo/">Verano Turbo</a></li> </ul>
+</li> <li id="menu-item-78638" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-78638"><a href="http://gmauthority.com/blog/category/buick/regal/">Regal</a>
+<ul class="sub-menu">
+<li id="menu-item-78639" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78639"><a href="http://gmauthority.com/blog/category/buick/regal/regal-eassist/">Regal eAssist</a></li> <li id="menu-item-78644" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78644"><a href="http://gmauthority.com/blog/category/buick/regal/regal-turbo/">Regal Turbo</a></li> <li id="menu-item-78642" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78642"><a href="http://gmauthority.com/blog/category/buick/regal/regal-gs/">Regal GS</a></li> <li id="menu-item-78641" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78641"><a href="http://gmauthority.com/blog/category/buick/regal/regal-grand-national/">Regal Grand National</a></li> <li id="menu-item-78640" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78640"><a href="http://gmauthority.com/blog/category/buick/regal/regal-gnx/">Regal GNX</a></li> </ul>
+</li> <li id="menu-item-78646" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-78646"><a href="http://gmauthority.com/blog/category/buick/lacrosse/">LaCrosse</a>
+<ul class="sub-menu">
+<li id="menu-item-78647" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78647"><a href="http://gmauthority.com/blog/category/buick/lacrosse/lacrosse-eassist/">LaCrosse eAssist</a></li> </ul>
+</li> <li id="menu-item-78649" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78649"><a href="http://gmauthority.com/blog/category/buick/park-avenue/">Park Avenue</a></li> <li id="menu-item-78648" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78648"><a href="http://gmauthority.com/blog/category/buick/gl8/">GL8</a></li> <li id="menu-item-78650" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78650"><a href="http://gmauthority.com/blog/category/buick/buick-cascada/">Cascada (Upcoming)</a></li> <li id="menu-item-78651" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78651"><a href="http://gmauthority.com/blog/category/buick/buick-concepts/velite/">Velite (Upcoming)</a></li></ul>
+</li><li id="menu-item-41242" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-41242"><a href="http://gmauthority.com/blog/category/gmc/">GMC</a>
+<ul class="sub-menu">
+<li id="menu-item-78654" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78654"><a href="http://gmauthority.com/blog/category/gmc/acadia/">Acadia</a></li> <li id="menu-item-78655" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78655"><a href="http://gmauthority.com/blog/category/gmc/acadia/acadia-denali/">Acadia Denali</a></li> <li id="menu-item-78652" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78652"><a href="http://gmauthority.com/blog/category/gmc/terrain/">Terrain</a></li> <li id="menu-item-78653" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78653"><a href="http://gmauthority.com/blog/category/gmc/terrain/terrain-denali/">Terrain Denali</a></li> <li id="menu-item-78656" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78656"><a href="http://gmauthority.com/blog/category/gmc/yukon/">Yukon</a></li> <li id="menu-item-78658" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78658"><a href="http://gmauthority.com/blog/category/gmc/yukon/yukon-xl/">Yukon XL</a></li> <li id="menu-item-78657" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78657"><a href="http://gmauthority.com/blog/category/gmc/yukon/yukon-denali/">Yukon Denali</a></li> <li id="menu-item-78664" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78664"><a href="http://gmauthority.com/blog/category/gmc/canyon/">Canyon</a></li> <li id="menu-item-78665" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78665"><a href="http://gmauthority.com/blog/category/gmc/canyon/canyon-denali/">Canyon Denali</a></li> <li id="menu-item-78659" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78659"><a href="http://gmauthority.com/blog/category/gmc/sierra/">Sierra</a></li> <li id="menu-item-78660" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78660"><a href="http://gmauthority.com/blog/category/gmc/sierra/sierra-denali/">Sierra Denali</a></li> <li id="menu-item-78662" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78662"><a href="http://gmauthority.com/blog/category/gmc/sierra/sierra-hd/">Sierra HD</a></li> <li id="menu-item-78661" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78661"><a href="http://gmauthority.com/blog/category/gmc/sierra/sierra-hd/sierra-denali-hd/">Sierra Denali HD</a></li> <li id="menu-item-78663" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78663"><a href="http://gmauthority.com/blog/category/gmc/denali/">Denali Sub Brand</a></li></ul>
+</li><li id="menu-item-41243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41243"><a href="http://gmauthority.com/blog/category/cadillac/">Cadillac</a></li><li id="menu-item-41244" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41244"><a href="http://gmauthority.com/blog/category/opel/">Opel</a></li><li id="menu-item-41245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41245"><a href="http://gmauthority.com/blog/category/holden/">Holden</a></li><li id="menu-item-41246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41246"><a href="http://gmauthority.com/blog/category/onstar/">OnStar</a></li><li id="menu-item-41308" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41308"><a href="http://gmauthority.com/blog/category/article-type/gma-special/review/">Reviews</a></li><li id="menu-item-110134" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-110134"><a href="http://gmauthority.com/blog/category/future-product/rumor/">Rumors</a></li><li id="menu-item-41248" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41248"><a href="http://gmauthority.com/blog/category/gma-special/opinion-desk/">Opinions</a></li><li id="menu-item-109479" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-109479"><a href="http://gmauthority.com/blog/category/business/dealers/">Dealer News</a></li><li id="menu-item-41250" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41250"><a href="http://gmauthority.com/blog/category/fun-stuff/motorsports-racing/">Racing</a></li><li id="menu-item-41317" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41317"><a href="http://gmauthority.com/blog/category/video/">Video</a></li><li id="menu-item-93828" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-93828"><a href="http://gmauthority.com/blog/category/article-type/gma-special/rpo-central/">2017 Models</a></li></ul> </div>
+</nav> 
+<div id="header-bottom-wrapper"> 
+ 
+ 
+ 
+</div> 
+</div> 
+</header> 
+<div id="page">
+<div class="container">
+<div class="container-inner">
+<div class="main group sidebar-right">
+<div class="content-part">
+<div class="pad">
+<article id="entry-136162" class="entry group post-136162 page type-page status-publish hentry">
+<ul id="breadcrumbs" class="fix"><li class="first"><a class="home" href="http://gmauthority.com/blog"><i class="icon-home"></i><span>Home</span></a><i class="icon-angle-right"></i></li><li><span>Privacy Policy</span></li></ul><br>
+<div class="page-title">
+<h1>Privacy Policy</h1>
+</div>
+<div class="text">
+<p>This privacy policy discloses the privacy practices for gmauthority.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following:</p>
+<ul>
+<li>What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.</li>
+<li>What choices are available to you regarding the use of your data.</li>
+<li>The security procedures in place to protect the misuse of your information.</li>
+<li>How you can correct any inaccuracies in the information.</li>
+</ul>
+<h3>Information Collection, Use, and Sharing</h3>
+<p>We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.</p>
+<p>We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.</p>
+<p>Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.</p>
+<h3>Your Access to and Control Over Information</h3>
+<p>You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:</p>
+<ul>
+<li>See what data we have about you, if any.</li>
+<li>Change/correct any data we have about you.</li>
+<li>Have us delete any data we have about you.</li>
+<li>Express any concern you have about our use of your data.</li>
+</ul>
+<h3>Security</h3>
+<p>We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.</p>
+<p>Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the web page.</p>
+<p>While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.</p>
+<h3>Registration</h3>
+<p>In order to use certain features of this website, a user must first complete the registration form. During registration a user is required to give certain information (such as name and email address). This information is&nbsp;not shared with any party unless for the sole purpose of site functionality.</p>
+<h3>Cookies</h3>
+<p>We use “cookies” on this site. A cookie is a piece of data stored on a site visitor’s hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.</p>
+<p>Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.</p>
+<h3>Links</h3>
+<p>This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.</p>
+<h3>Surveys &amp; Contests</h3>
+<p>From time-to-time our site requests information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.</p>
+<h3>Updates</h3>
+<p>Our Privacy Policy may change from time to time and all updates will be posted on this page.</p>
+<p>If you feel that we are not abiding by this privacy policy, you should contact us immediately via email at&nbsp;gmauthority@motrolix.com.</p>
+<div class="clear"></div>
+</div>
+</article>
+<br>
+<div id="ads-header-wrapper"> 
+<div id="ad-header-container-center">
+<h3>Sponsored Links</h3>
+<script>var ad_data = get_ad_size('header-bottom-center');
+							document.write('<script type="text/javascript"> ' + ad_data[0] + '<' + '\/script>'); </script><script type="text/javascript"> </script>
+<script> document.write('<script type="text/javascript" ' + ad_data[1] + '><' + '\/script>'); </script><script type="text/javascript"></script>
+</div>
+</div> 
+<br>
+<div id="ads-header-wrapper"> 
+<div id="ad-header-container-center">
+<h3>Sponsored Links</h3>
+<script>var ad_data = get_ad_size('loop-center-content');
+						document.write('<script type="text/javascript"> ' + ad_data[0] + '<' + '\/script>'); </script>
+<script> document.write('<script type="text/javascript" ' + ad_data[1] + '><' + '\/script>'); </script>
+</div>
+</div> 
+<div id="ads-header-wrapper"> 
+<div id="ad-header-container-center">
+<h3>Sponsored Links</h3>
+<script>var ad_data = get_ad_size('loop-center-content');
+						document.write('<script type="text/javascript"> ' + ad_data[0] + '<' + '\/script>'); </script>
+<script> document.write('<script type="text/javascript" ' + ad_data[1] + '><' + '\/script>'); </script>
+</div>
+</div> 
+</div> 
+</div> 
+<div class="sidebar">
+<a class="sidebar-toggle" title="Expand Sidebar"><i class="icon-reorder"></i></a>
+<ul class="sidebar-content">
+<li id="mailchimpsf_widget-8" class="widget widget_mailchimpsf_widget"><h3 class="widget-title fix"><span>GM Authority Newsletter</span></h3>
+<style>.widget_mailchimpsf_widget .widget-title{line-height:1.4em;margin-bottom:0.75em;}#mc_subheader{line-height:1.25em;margin-bottom:18px;}.mc_merge_var{margin-bottom:1.0em;}.mc_var_label,.mc_interest_label{display:block;margin-bottom:0.5em;}.mc_input{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;width:100%;}.mc_input.mc_phone{width:auto;}select.mc_select{margin-top:0.5em;width:100%;}.mc_address_label{margin-top:1.0em;margin-bottom:0.5em;display:block;}.mc_address_label~select{width:100%;}.mc_list li{list-style:none;background:none!important;}.mc_interests_header{margin-top:1.0em;margin-bottom:0.5em;}.mc_interest label,.mc_interest input{margin-bottom:0.4em;}#mc_signup_submit{margin-top:1.5em;width:80%;}#mc_unsub_link a{font-size:0.75em;}#mc_unsub_link{margin-top:1.0em;}.mc_header_address,.mc_email_format{display:block;font-weight:bold;margin-top:1.0em;margin-bottom:0.5em;}.mc_email_options{margin-top:0.5em;}.mc_email_type{padding-left:4px;}</style>
+<div id="mc_signup">
+<form method="post" action="#mc_signup" id="mc_signup_form">
+<input type="hidden" id="mc_submit_type" name="mc_submit_type" value="html">
+<input type="hidden" name="mcsf_action" value="mc_submit_signup_form">
+<input type="hidden" id="_mc_submit_signup_form_nonce" name="_mc_submit_signup_form_nonce" value="55b05460f0">
+<div id="mc_subheader">
+Get the latest GM News delivered to your inbox daily. </div> 
+<div class="mc_form_inside">
+<div class="updated" id="mc_message">
+</div> 
+<div class="mc_merge_var">
+<label for="mc_mv_EMAIL" class="mc_var_label mc_header mc_header_email">Email Address<span class="mc_required">*</span></label>
+<input type="text" size="18" placeholder="" name="mc_mv_EMAIL" id="mc_mv_EMAIL" class="mc_input">
+</div> 
+<div class="mc_merge_var">
+<label for="mc_mv_FNAME" class="mc_var_label mc_header mc_header_text">First Name</label>
+<input type="text" size="18" placeholder="" name="mc_mv_FNAME" id="mc_mv_FNAME" class="mc_input">
+</div> 
+<div class="mc_merge_var">
+<label for="mc_mv_LNAME" class="mc_var_label mc_header mc_header_text">Last Name</label>
+<input type="text" size="18" placeholder="" name="mc_mv_LNAME" id="mc_mv_LNAME" class="mc_input">
+</div>  <div id="mc-indicates-required">
+* = required field </div> 
+<div class="mc_signup_submit">
+<input type="submit" name="mc_signup_submit" id="mc_signup_submit" value="Subscribe" class="button">
+</div> 
+</div> 
+</form> 
+</div> 
+</li><li id="execphp-6" class="widget widget_execphp"><h3 class="widget-title fix"><span>Sponsored Links</span></h3> <div class="execphpwidget"><div id="ads-sidebar-wrapper"> 
+<div id="ad-sidebar-container-160">
+<div id="div-gpt-ad-sidebar-top-left" style="height:600px; width:160px;">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-sidebar-top-left'); });
+</script>
+</div>
+</div>
+<div id="ad-sidebar-container-160">
+<div id="div-gpt-ad-sidebar-top-right" style="height:600px; width:160px;">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-sidebar-top-right'); });
+</script>
+</div>
+</div>
+</div></div>
+</li></ul> </div> 
+</div> 
+</div> 
+</div> 
+</div> 
+<div class="clear"></div>
+<footer id="footer">
+<div class="container">
+<div id="footer-content" class="pad group">
+<div id="ads-content-wrapper"> 
+<div id="ad-content-container">
+<h3>Sponsored Links</h3>
+<div id="div-gpt-ad-footer" ;'="">
+						<script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-footer'); });
+						</script>
+					</div>
+				</div>		
+			</div><!--/.ads-header-->
+			
+			</div>
+
+						<div id="footer-widgets" class="pad group">
+				<div class="grid one-third">
+					<ul><li id="wpb-tabs-3" class="widget widget_wpb_tabs"><h3 class="widget-title fix"><span>Fresh Off The Press</span></h3><ul class="wpb-tabs group tabs-3"><li class="wpb-tab-recent"><a href="#tab-recent-3" title="Recent Posts"><i class="icon-time"></i><span>Recent Posts</span></a></li><li class="wpb-tab-popular"><a href="#tab-popular-3" title="Most Popular"><i class="icon-star"></i><span>Most Popular</span></a></li><li class="wpb-tab-comments"><a href="#tab-comments-3" title="Comments"><i class="icon-comments-alt"></i><span>Comments</span></a></li></ul><ul id="tab-recent-3" class="list-recent wpb-tab"><li class="format- wpb-thumb-enabled group"><a title="Comparing The Exterior Dimensions Of The All-New 2018 Chevy Equinox To Its Predecessor" href="http://gmauthority.com/blog/2016/12/exterior-dimensions-new-2018-chevrolet-equinox-vs-old-2010-2017-chevy-equinox/"><span class="wpb-thumb"><img width="96" height="64" src="http://gmauthority.com/blog/wp-content/uploads/2016/12/2018-Chevrolet-Equinox-vs-2011-Chevrolet-Equinox-96x64.jpg" class="attachment-size-thumbnail-tiny size-size-thumbnail-tiny wp-post-image" alt="2018 Chevrolet Equinox vs 2011 Chevrolet Equinox" srcset="http://gmauthority.com/blog/wp-content/uploads/2016/12/2018-Chevrolet-Equinox-vs-2011-Chevrolet-Equinox-96x64.jpg 96w, http://gmauthority.com/blog/wp-content/uploads/2016/12/2018-Chevrolet-Equinox-vs-2011-Chevrolet-Equinox-192x128.jpg 192w" sizes="(max-width: 96px) 100vw, 96px"></span><span class="wpb-text"><i class="title">Comparing The Exterior Dimensions Of The All-New 2018 Chevy Equinox To Its Predecessor</i><i class="meta">December 9, 2016</i></span></a></li><li class="format- wpb-thumb-enabled group"><a title="Michigan Governor Rick Snyder Signs Bill For Comprehensive Self-Driving Car Regulations" href="http://gmauthority.com/blog/2016/12/michigan-governor-rick-snyder-signs-bill-for-comprehensive-self-driving-car-regulations/"><span class="wpb-thumb"><img width="96" height="64" src="http://gmauthority.com/blog/wp-content/uploads/2016/05/Autonomous-Chevrolet-Bolt-EV-Prototype-96x64.jpg" class="attachment-size-thumbnail-tiny size-size-thumbnail-tiny wp-post-image" alt="An autonomous Bolt EV tests in San Francisco." srcset="http://gmauthority.com/blog/wp-content/uploads/2016/05/Autonomous-Chevrolet-Bolt-EV-Prototype-96x64.jpg 96w, http://gmauthority.com/blog/wp-content/uploads/2016/05/Autonomous-Chevrolet-Bolt-EV-Prototype-192x128.jpg 192w" sizes="(max-width: 96px) 100vw, 96px"></span><span class="wpb-text"><i class="title">Michigan Governor Rick Snyder Signs Bill For Comprehensive Self-Driving Car Regulations</i><i class="meta">December 9, 2016</i></span></a></li><li class="format- wpb-thumb-enabled group"><a title="Trio Of Collectible Chevrolets Heading To Barrett-Jackson Scottsdale" href="http://gmauthority.com/blog/2016/12/trio-of-collectible-chevrolets-heading-to-barrett-jackson-scottsdale/"><span class="wpb-thumb"><img width="96" height="64" src="http://gmauthority.com/blog/wp-content/uploads/2016/12/1956-Chevrolet-Bel-Air-96x64.jpg" class="attachment-size-thumbnail-tiny size-size-thumbnail-tiny wp-post-image" alt="1956 Chevrolet Bel Air" srcset="http://gmauthority.com/blog/wp-content/uploads/2016/12/1956-Chevrolet-Bel-Air-96x64.jpg 96w, http://gmauthority.com/blog/wp-content/uploads/2016/12/1956-Chevrolet-Bel-Air-192x128.jpg 192w" sizes="(max-width: 96px) 100vw, 96px"></span><span class="wpb-text"><i class="title">Trio Of Collectible Chevrolets Heading To Barrett-Jackson Scottsdale</i><i class="meta">December 9, 2016</i></span></a></li><li class="format- wpb-thumb-enabled group"><a title="Chevy Colorado Sales Rise 39 Percent To 8,669 Units In November 2016" href="http://gmauthority.com/blog/2016/12/chevrolet-colorado-sales-numbers-figures-results-november-2016/"><span class="wpb-thumb"><img width="96" height="64" src="http://gmauthority.com/blog/wp-content/uploads/2016/08/2016-Chevrolet-Colorado-Z71-Exterior-016-96x64.jpg" class="attachment-size-thumbnail-tiny size-size-thumbnail-tiny wp-post-image" alt="2016 Chevrolet Colorado Z71 Exterior 016" srcset="http://gmauthority.com/blog/wp-content/uploads/2016/08/2016-Chevrolet-Colorado-Z71-Exterior-016-300x200.jpg 300w, http://gmauthority.com/blog/wp-content/uploads/2016/08/2016-Chevrolet-Colorado-Z71-Exterior-016-768x512.jpg 768w, http://gmauthority.com/blog/wp-content/uploads/2016/08/2016-Chevrolet-Colorado-Z71-Exterior-016-1024x683.jpg 1024w, http://gmauthority.com/blog/wp-content/uploads/2016/08/2016-Chevrolet-Colorado-Z71-Exterior-016-720x480.jpg 720w, http://gmauthority.com/blog/wp-content/uploads/2016/08/2016-Chevrolet-Colorado-Z71-Exterior-016-96x64.jpg 96w, http://gmauthority.com/blog/wp-content/uploads/2016/08/2016-Chevrolet-Colorado-Z71-Exterior-016-192x128.jpg 192w, http://gmauthority.com/blog/wp-content/uploads/2016/08/2016-Chevrolet-Colorado-Z71-Exterior-016.jpg 1500w" sizes="(max-width: 96px) 100vw, 96px"></span><span class="wpb-text"><i class="title">Chevy Colorado Sales Rise 39 Percent To 8,669 Units In November 2016</i><i class="meta">December 9, 2016</i></span></a></li></ul><ul id="tab-popular-3" class="list-popular wpb-tab"><li class="format- wpb-thumb-enabled group"><a title="Poll: Should GM Bring Back Pontiac?" href="http://gmauthority.com/blog/2012/03/poll-is-it-time-to-start-talking-about-pontiac/"><span class="wpb-thumb"><img width="96" height="64" src="http://gmauthority.com/blog/wp-content/uploads/2012/03/Pontiac-G8-G3-96x64.jpg" class="attachment-size-thumbnail-tiny size-size-thumbnail-tiny wp-post-image" alt="Pontiac G8 G3" srcset="http://gmauthority.com/blog/wp-content/uploads/2012/03/Pontiac-G8-G3-96x64.jpg 96w, http://gmauthority.com/blog/wp-content/uploads/2012/03/Pontiac-G8-G3-192x128.jpg 192w" sizes="(max-width: 96px) 100vw, 96px"></span><span class="wpb-text"><i class="title">Poll: Should GM Bring Back Pontiac?</i><i class="meta">March 28, 2012</i></span></a></li><li class="format- wpb-thumb-enabled group"><a title="GMT 900 GMC, Chevy Vehicles Subject To Frequently Cracking Dashboards" href="http://gmauthority.com/blog/2012/08/gmt-900-gmc-chevy-vehicles-subject-to-frequently-cracking-dashboards/"><span class="wpb-thumb"><img width="96" height="64" src="http://gmauthority.com/blog/wp-content/uploads/2012/08/Cracked-Dashboard-GMT900-trucks-and-suvs-96x64.jpg" class="attachment-size-thumbnail-tiny size-size-thumbnail-tiny wp-post-image" alt="Cracked Dashboard - GMT900 trucks and suvs" srcset="http://gmauthority.com/blog/wp-content/uploads/2012/08/Cracked-Dashboard-GMT900-trucks-and-suvs-96x64.jpg 96w, http://gmauthority.com/blog/wp-content/uploads/2012/08/Cracked-Dashboard-GMT900-trucks-and-suvs-192x128.jpg 192w" sizes="(max-width: 96px) 100vw, 96px"></span><span class="wpb-text"><i class="title">GMT 900 GMC, Chevy Vehicles Subject To Frequently Cracking Dashboards</i><i class="meta">August 11, 2012</i></span></a></li><li class="format- wpb-thumb-enabled group"><a title="GM Working On Software Update To Improve iPhone 5 Bluetooth Connectivity" href="http://gmauthority.com/blog/2012/11/gm-working-on-software-update-to-improve-iphone-5-bluetooth-connectivity/"><span class="wpb-thumb"><img width="96" height="64" src="http://gmauthority.com/blog/wp-content/uploads/2012/11/Apple-Siri-Eyes-Free-Chevrolet-MyLink-04-96x64.jpg" class="attachment-size-thumbnail-tiny size-size-thumbnail-tiny wp-post-image" alt="Apple Siri Eyes Free - Chevrolet MyLink 04" srcset="http://gmauthority.com/blog/wp-content/uploads/2012/11/Apple-Siri-Eyes-Free-Chevrolet-MyLink-04-96x64.jpg 96w, http://gmauthority.com/blog/wp-content/uploads/2012/11/Apple-Siri-Eyes-Free-Chevrolet-MyLink-04-192x128.jpg 192w" sizes="(max-width: 96px) 100vw, 96px"></span><span class="wpb-text"><i class="title">GM Working On Software Update To Improve iPhone 5 Bluetooth Connectivity</i><i class="meta">November 28, 2012</i></span></a></li><li class="format- wpb-thumb-enabled group"><a title="Should Chevrolet Replace Holden In Australia, New Zealand?" href="http://gmauthority.com/blog/2011/05/should-chevrolet-replace-holden-in-australia-new-zealand/"><span class="wpb-thumb"><img width="96" height="64" src="http://gmauthority.com/blog/wp-content/uploads/2011/05/Chevrolet-logo-96x64.png" class="attachment-size-thumbnail-tiny size-size-thumbnail-tiny wp-post-image" alt="Chevrolet logo on Silverado HD" srcset="http://gmauthority.com/blog/wp-content/uploads/2011/05/Chevrolet-logo-96x64.png 96w, http://gmauthority.com/blog/wp-content/uploads/2011/05/Chevrolet-logo-192x128.png 192w" sizes="(max-width: 96px) 100vw, 96px"></span><span class="wpb-text"><i class="title">Should Chevrolet Replace Holden In Australia, New Zealand?</i><i class="meta">May 2, 2011</i></span></a></li></ul><ul id="tab-comments-3" class="list-comments wpb-tab"><li class="group wpb-thumb-enabled"><a title="Comparing The Exterior Dimensions Of The All-New 2018 Chevy Equinox To Its Predecessor" href="http://gmauthority.com/blog/2016/12/exterior-dimensions-new-2018-chevrolet-equinox-vs-old-2010-2017-chevy-equinox/#comment-694783"><span class="wpb-thumb"><img alt="" src="http://0.gravatar.com/avatar/c6585357e38d9db398a7995da6a5a784?s=128&amp;r=g" srcset="http://0.gravatar.com/avatar/c6585357e38d9db398a7995da6a5a784?s=256&amp;r=g 2x" class="avatar avatar-128 photo" height="128" width="128"></span><span class="wpb-text"><i class="meta">Steve Colmar on:</i><i class="title">Comparing The Exterior Dimensions Of The All-New 2018 Chevy Equinox To Its Predecessor</i></span></a></li><li class="group wpb-thumb-enabled"><a title="Cadillac CTS Sales Fall 15 Percent To 1,042 Units In November 2016" href="http://gmauthority.com/blog/2016/12/cadillac-cts-sales-numbers-figures-results-november-2016/#comment-694782"><span class="wpb-thumb"><img alt="" src="http://1.gravatar.com/avatar/4b9a6f6162fd20afb62ef5f1cfdffbee?s=128&amp;r=g" srcset="http://1.gravatar.com/avatar/4b9a6f6162fd20afb62ef5f1cfdffbee?s=256&amp;r=g 2x" class="avatar avatar-128 photo" height="128" width="128"></span><span class="wpb-text"><i class="meta">jamdown on:</i><i class="title">Cadillac CTS Sales Fall 15 Percent To 1,042 Units In November 2016</i></span></a></li><li class="group wpb-thumb-enabled"><a title="Comparing The Exterior Dimensions Of The All-New 2018 Chevy Equinox To Its Predecessor" href="http://gmauthority.com/blog/2016/12/exterior-dimensions-new-2018-chevrolet-equinox-vs-old-2010-2017-chevy-equinox/#comment-694781"><span class="wpb-thumb"><img alt="" src="http://0.gravatar.com/avatar/c7a9797767fc734ee2987d885d718e5b?s=128&amp;r=g" srcset="http://0.gravatar.com/avatar/c7a9797767fc734ee2987d885d718e5b?s=256&amp;r=g 2x" class="avatar avatar-128 photo" height="128" width="128"></span><span class="wpb-text"><i class="meta">scott3 on:</i><i class="title">Comparing The Exterior Dimensions Of The All-New 2018 Chevy Equinox To Its Predecessor</i></span></a></li><li class="group wpb-thumb-enabled"><a title="2017 GMC Acadia Denali AWD: Review" href="http://gmauthority.com/blog/2016/12/2017-gmc-acadia-denali-awd-review/#comment-694780"><span class="wpb-thumb"><img alt="" src="http://1.gravatar.com/avatar/d0b4b3706f2166590c937141201c9173?s=128&amp;r=g" srcset="http://1.gravatar.com/avatar/d0b4b3706f2166590c937141201c9173?s=256&amp;r=g 2x" class="avatar avatar-128 photo" height="128" width="128"></span><span class="wpb-text"><i class="meta">rob on:</i><i class="title">2017 GMC Acadia Denali AWD: Review</i></span></a></li></ul></li></ul>
+				</div>
+				<div class="grid one-third">
+					<ul><li id="text-65" class="widget widget_text"><h3 class="widget-title fix"><span>ABOUT GM AUTHORITY</span></h3>			<div class="textwidget"><span style="color:#FFFFFF;">GM Authority is a must-read for <a href="http://gmauthority.com">GM news</a>, <a href="http://gmauthority.com/blog/category/gma-special/rumormill/">GM rumors</a>, <a href="http://gmauthority.com/blog/category/gma-special/review/">GM reviews</a>, and information about General Motors vehicles.<br><br>
+
+Join others in discussing The General in our <a href="http://gmauthority.com/forum/">GM Forums</a> and browse photos of GM vehicles in our <a href="http://gmauthority.com/blog/gallery/">GM pictures</a> gallery.<br><br>
+
+Please note that GM Authority is a product of <a href="http://motrolix.com">Motrolix</a> LLC and is not sponsored, owned, or in any other way condoned by General Motors Company, its brands, subsidiaries, or partners.<br><br>
+
+We also encourage you to check out our sister publications:
+<ul>
+<li>- Ford Authority for the latest <a href="http://fordauthority.com">Ford News</a> and <a href="http://fordauthority.com/forum/">Ford Forums</a></li>
+<li>- Fiat Chrysler Authority for the latest <a href="http://fcauthority.com">Fiat Chrysler News</a> and <a href="http://fcauthority.com/forum/">Fiat Chrysler Forums</a></li>
+</ul>
+
+</span></div>
+		</li></ul>
+				</div>
+				<div class="grid one-third last">
+					<ul><li id="text-93" class="widget widget_text"><h3 class="widget-title fix"><span>Get Social</span></h3>			<div class="textwidget"><center>
+
+<a href="https://twitter.com/gmauthority" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @gmauthority</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<br>
+<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fgmauthority&amp;width=200&amp;height=62&amp;show_faces=false&amp;colorscheme=dark&amp;stream=false&amp;show_border=false&amp;header=false&amp;appId=216102895086608" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:62px;" allowtransparency="true"></iframe>
+
+<!-- Place this tag where you want the badge to render. -->
+<div class="g-plus" data-height="69" data-href="//plus.google.com/106522224833753772925" data-rel="publisher"></div>
+
+<!-- Place this tag after the last badge tag. -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+</center></div>
+		</li><li id="bbp_login_widget-4" class="widget bbp_widget_login"><h3 class="widget-title fix"><span>Login or Register</span></h3>
+			<form method="post" action="http://gmauthority.com/blog/wp-login.php" class="bbp-login-form">
+				<fieldset>
+					<legend>Log In</legend>
+
+					<div class="bbp-username">
+						<label for="user_login">Username: </label>
+						<input type="text" name="log" value="" size="20" id="user_login" tabindex="101">
+					</div>
+
+					<div class="bbp-password">
+						<label for="user_pass">Password: </label>
+						<input type="password" name="pwd" value="" size="20" id="user_pass" tabindex="102">
+					</div>
+
+					<div class="bbp-remember-me">
+						<input type="checkbox" name="rememberme" value="forever" id="rememberme" tabindex="103">
+						<label for="rememberme">Remember Me</label>
+					</div>
+
+					<div class="bbp-submit-wrapper">
+
+						
+						<button type="submit" name="user-submit" id="user-submit" tabindex="104" class="button submit user-submit">Log In</button>
+
+						
+		<input type="hidden" name="user-cookie" value="1">
+
+		<input type="hidden" id="bbp_redirect_to" name="redirect_to" value="http://gmauthority.com/blog/privacy-policy/"><input type="hidden" id="_wpnonce" name="_wpnonce" value="82383ec55a"><input type="hidden" name="_wp_http_referer" value="/blog/privacy-policy/">
+					</div>
+
+					
+						<div class="bbp-login-links">
+
+							
+								<a href="http://gmauthority.com/blog/register/" title="Register" class="bbp-register-link">Register</a>
+
+							
+							
+								<a href="http://gmauthority.com/blog/lost-your-password/" title="Lost Password" class="bbp-lostpass-link">Lost Password</a>
+
+							
+						</div>
+
+					
+				</fieldset>
+			</form>
+
+		</li></ul>
+				</div>
+			</div>
+				
+
+		</div><!--/.container--> 
+		
+					<nav class="nav-container group" id="nav-footer">
+				<div class="nav-toggle" id="nav-footer-toggle"><i class="icon-reorder"></i></div>
+				<div class="nav-wrap">
+					<ul id="menu-footer" class="nav container group"><li id="menu-item-41251" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41251"><a href="http://gmauthority.com">News</a></li><li id="menu-item-41252" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41252"><a href="http://gmauthority.com/blog/forum/">Forum</a></li><li id="menu-item-41253" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41253"><a href="http://gmauthority.com/blog/gallery/">Photos</a></li><li id="menu-item-41254" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41254"><a href="http://gmauthority.com/blog/category/video/">Videos</a></li><li id="menu-item-41256" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41256"><a href="http://gmauthority.com/blog/about/">About Us</a></li><li id="menu-item-41259" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41259"><a href="http://gmauthority.com/blog/contact/">Contact Us</a></li><li id="menu-item-41261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41261"><a href="http://gmauthority.com/blog/tip-us/">Tip Us</a></li><li id="menu-item-46523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46523"><a href="http://gmauthority.com/blog/sitemap/">Sitemap</a></li><li id="menu-item-131954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131954"><a href="http://gmauthority.com/blog/careers/">Jobs</a></li><li id="menu-item-136349" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-136162 current_page_item menu-item-136349"><a href="http://gmauthority.com/blog/privacy-policy/">Privacy</a></li></ul>				</div>
+			</nav><!--/#nav-footer-->
+				
+		<div id="footer-bottom">
+			<div class="container">
+				<div class="pad group">
+					<p id="copyright">© COPYRIGHT 2016 POWERED BY LSX V8 ENGINES, LOVE &amp; REVERENCE.</p>
+					<a id="to-top" href="#"><i class="icon-angle-up"></i></a>
+				</div>
+			</div>
+		</div><!--/#footer-bottom-->
+		
+	</footer><!--/#footer-->
+	
+</div><!--/.body-wrapper-->
+<aside>
+	<div id="wpbfsb" class=" wpbfsb wpbfsb-position-vertical-left wpbfsb-position-responsive-horizontal-bottom" data-icon-quantity-full-width="3" data-icon-quantity-responsive="3" data-responsive-width="968">
+		<div class="wpbfsb-schema-org">			<button data-text="Privacy Policy" data-href="http://gmauthority.com/blog/privacy-policy/" title="" style="" class=" wpbfsb-button-named-facebook" onclick="javascript:void(window.open('http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fgmauthority.com%2Fblog%2Fprivacy-policy%2F', 'Facebook', 'width=650,height=200,scrollbars=yes'));">
+				<i class="wpbfsb-icon-facebook"></i>			</button>
+								<button data-text="Privacy Policy" data-href="http://gmauthority.com/blog/privacy-policy/" title="" style="" class=" wpbfsb-button-named-twitter" onclick="javascript:void(window.open('http://twitter.com/intent/tweet?text=Privacy%20Policy http%3A%2F%2Fgmauthority.com%2Fblog%2Fprivacy-policy%2F', 'Twitter', 'width=650,height=400,scrollbars=yes'));">
+				<i class="wpbfsb-icon-twitter"></i>			</button>
+								<button data-text="Privacy Policy" data-href="http://gmauthority.com/blog/privacy-policy/" title="" style="" class=" wpbfsb-button-named-google" onclick="javascript:void(window.open('https://plusone.google.com/_/+1/confirm?url=http%3A%2F%2Fgmauthority.com%2Fblog%2Fprivacy-policy%2F', 'Plus One', 'width=650,height=200,scrollbars=yes'));">
+				<i class="wpbfsb-icon-googleplus"></i>			</button>
+							<button id="wpbfsb-more-button" class="wpbfsb-more-button" onclick="void(wpbfsb_more_button_toggle());">
+			<i class="wpbfsb-icon-chevron-down"></i>
+		</button>
+		</div>	</div>
+	<div style="clear: both;"></div>
+</aside>
+<script language="JavaScript">
+	/*<![CDATA[*/
+	function wpbfsb_more_button_toggle() {
+		var el = document.getElementById('wpbfsb'),
+			className = 'wpbfsb-animate-in';
+
+		if (el.classList) {
+			el.classList.toggle(className);
+		} else {
+			var classes = el.className.split(' ');
+			var existingIndex = classes.indexOf(className);
+
+			if (existingIndex >= 0)
+				classes.splice(existingIndex, 1);
+			else
+				classes.push(className);
+
+			el.className = classes.join(' ');
+		}
+	}
+	/*]]>*/
+</script>		<form id="login" action="login" method="post">
+				<h1>GM Authority</h1>
+				<p class="status"></p>
+				<label for="username">Username</label>
+				<input id="username" type="text" name="username">
+				<label for="password">Password</label>
+				<input id="password" type="password" name="password">
+				<label for="rememberme"><input id="rememberme" type="checkbox"> Remember Me</label>
+				<br>
+				<a class="lost" href="http://gmauthority.com/blog/lost-password/">Lost your password?</a>
+				<input class="submit_button" type="submit" value="Login" name="submit">
+				<div class="close">X</div>
+				<input type="hidden" id="security" name="security" value="322e49138c"><input type="hidden" name="_wp_http_referer" value="/blog/privacy-policy/">		</form>
+			<form id="search" action="/" method="get">
+				<div class="close">X</div>
+				<input id="mb-searcvhbox" type="text" placeholder="Search..." name="s" class="mtmb-searchbox" required="" autofocus="">
+				<p class="search-label">Type Keyword(s) to search</p>
+				
+		</form>
+
+
+	<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201649"></script>
+<script type="text/javascript" src="http://gmauthority.com/blog/wp-includes/js/comment-reply.min.js?ver=76bf6ada53fa5f6b0c1295a41cc80c9d"></script>
+<script type="text/javascript" src="http://gmauthority.com/blog/wp-content/themes/typegrid11/js/jquery.jplayer.min.js?ver=2.1.0"></script>
+<script type="text/javascript" src="http://gmauthority.com/blog/wp-content/themes/typegrid11/js/jquery.flexslider.min.js?ver=2.1"></script>
+<script type="text/javascript" src="http://gmauthority.com/blog/wp-content/themes/typegrid11/js/jquery.sharrre-1.3.4.min.js?ver=1.3.4"></script>
+<script type="text/javascript" src="http://gmauthority.com/blog/wp-content/themes/typegrid11/js/jquery.theme.js?ver=1.0"></script>
+<script type="text/javascript" src="http://gmauthority.com/blog/wp-content/plugins/motrolix-top-menu-bar/inc/js/mtmb-top-menu-bar.js?ver=0.1.36"></script>
+<script type="text/javascript" src="http://gmauthority.com/blog/wp-content/plugins/motrolix-top-menu-bar/inc/js/mtmb-search-box.js?ver=0.1.36"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ajax_login_object = {"ajaxurl":"http:\/\/gmauthority.com\/blog\/wp-admin\/admin-ajax.php","redirecturl":"http:\/\/gmauthority.com\/blog\/account\/","loadingmessage":"Sending user info, please wait..."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://gmauthority.com/blog/wp-content/plugins/motrolix-top-menu-bar/inc/js/mtmb-ajax-login.js?ver=0.1.36"></script>
+<script type="text/javascript" src="http://gmauthority.com/blog/wp-content/plugins/motrolix-top-menu-bar/inc/js/fastclick.js?ver=0.1.36"></script>
+<script type="text/javascript" src="http://gmauthority.com/blog/wp-includes/js/wp-embed.min.js?ver=76bf6ada53fa5f6b0c1295a41cc80c9d"></script>
+<script type="text/javascript" src="http://stats.wp.com/e-201649.js" async="" defer=""></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.9.7',blog:'10786057',post:'136162',tz:'-8',srv:'gmauthority.com'} ]);
+	_stq.push([ 'clickTrackerInit', '10786057', '136162' ]);
+</script>
+		<script type="text/javascript">
+			var bwpRecaptchaCallback = function() {
+				// render all collected recaptcha instances
+			};
+		</script>
+
+		<script src="https://www.google.com/recaptcha/api.js?onload=bwpRecaptchaCallback&amp;render=explicit" async="" defer=""></script>
+
+
+
+
+
+<!-- Dynamic page generated in 1.835 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-10 08:05:05 -->
+
+<!-- Compression = gzip -->
+<!-- super cache --></body></html>
