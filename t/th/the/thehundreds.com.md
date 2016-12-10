@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thehundreds.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608013244id_/http%3A//thehundreds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehundreds.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210112445id_/http%3A//thehundreds.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Hundreds
+# The Hundreds Shop | Privacy Policy
 
 This Privacy Policy is provided to explain how information is collected on our website and how that information is handled once it has been collected. This Privacy Policy may change at any time. By using the thehundreds.com website, you accept the terms and conditions outlined in this Privacy Policy and the Terms of Use.
 
