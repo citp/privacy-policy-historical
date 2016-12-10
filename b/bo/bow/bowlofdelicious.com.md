@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bowlofdelicious.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406060809id_/http%3A//www.bowlofdelicious.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bowlofdelicious.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210115152id_/http%3A//www.bowlofdelicious.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bowl Of Delicious!
+# Privacy Policy | Bowl of Delicious
 
 This Privacy Policy governs the manner in which Bowl of Delicious! collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.bowlofdelicious.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Bowl of Delicious!.
 
