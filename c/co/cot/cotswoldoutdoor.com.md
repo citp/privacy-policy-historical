@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cotswoldoutdoor.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524070859id_/http%3A//www.cotswoldoutdoor.com/us/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cotswoldoutdoor.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210195622id_/http%3A//www.cotswoldoutdoor.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and cookies
 
@@ -57,8 +57,6 @@ For the purposes of the Data Protection Act 1998, the Data Controller is Outdoor
 
 Our website contains links to third party websites operating their own terms and conditions and privacy policies. Outdoor and Cycle Concepts Ltd is not responsible for the policies of any linked third party sites.
 
-Our community, community.cotswoldoutdoor.com has it’s own privacy policy, which can be found on the tab "Community T&Cs" on the Terms and Conditions page [here](http://www.cotswoldoutdoor.com/index.cfm/fuseaction/pages.help/sub/terms-conditions "View Terms & Conditions").
-
 **Cookie Policy**
 
 Cookies are tiny text files stored on your computer when you visit certain web pages. We use cookies to keep track of what you have in your basket, and to remember you when you return to our site.
@@ -85,7 +83,6 @@ Country cookie | cookie.country | Discovers and stores the users country.
 Session cookie | cookie.cfid | Stores information about the users session.  
 Session cookie | cookie.cftoken | Stores information about the users session.  
 User information | cookie.user | Store information about the users session.  
-Cotswold Outdoor community | cookie.communityxover.Loggedin, cookie.communityxover.Storesessionid, cookie.communityxover.Email, cookie.communityxover.Accountid, cookie.communityxover.UrlToken | These are the cookies we use to control our community login, email, session information and account information.  
   
 **Our cookies**
 
@@ -181,4 +178,4 @@ Social media tools on our website:
 
 **Find out more**
 
-If you have a general query, please check our [Help Centre](http://www.cotswoldoutdoor.com/us/help-centre "Help"), which may be able to provide your answer. If you have a more specific question about our Privacy Policy, please [contact us](http://www.cotswoldoutdoor.com/us/contact-us "contact us ").
+If you have a general query, please check our [Help Centre](http://www.cotswoldoutdoor.com/nz/help-centre "Help"), which may be able to provide your answer. If you have a more specific question about our Privacy Policy, please [contact us](http://www.cotswoldoutdoor.com/nz/contact-us "contact us ").
