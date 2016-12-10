@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metopera.org privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626103731id_/http%3A//www.metopera.org/user-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metopera.org privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210200234id_/http%3A//www.metopera.org/user-information/privacy-policy) for the most accurate reproduction.*
 
 # Metropolitan Opera | Privacy Policy
 
