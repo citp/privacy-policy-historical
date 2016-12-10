@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinemoviescinema.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529064140id_/http%3A//onlinemoviescinema.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemoviescinema.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210180256id_/http%3A//onlinemoviescinema.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | onlinemoviescinema.com
 
@@ -72,4 +72,4 @@ The security of your Personal Information is important to us, but remember that 
 We reserve the right to modify this Privacy Policy at any time. You should review this Privacy Policy frequently. If we make material changes to this policy, we may notify you on our Website, by a blog post, by email, or by any method we determine. The method we chose is at our sole discretion. We will also change the “Last Updated” date at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies.
 
 **Questions About Our Privacy Practices or This Privacy Policy**  
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. If you have any questions about our Privacy Practices or this Policy, please [contact](http://onlinemoviescinema.com/contact-us/) us.
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. If you have any questions about our Privacy Practices or this Policy, please contact us.
