@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebd24.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430171947id_/http%3A//ebd24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebd24.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210064815id_/http%3A//ebd24.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,27 +24,27 @@ Personal Data collected: Cookie and Usage Data. Place of processing: USA. You c
 
 The Data concerning the User is collected to allow the Application to provide its services, as well as for the following purposes: Analytics and Interaction with external social networks and platforms. By any mean, we don’t use your data for any other purposes.
 
-_**We don’t sell your data, or modify it or use it by any other means.**_
+ _ **We don’t sell your data, or modify it or use it by any other means.**_
 
 ### Privacy
 
-**[ebd24.com](http://ebd24.com/) respects your privacy.**
+ **[ebd24.com](http://ebd24.com/) respects your privacy.**
 
 Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of **[ebd24.com](http://ebd24.com/)**.
 
-**Credit card details**
+ **Credit card details**
 
-**[ebd24.com](http://ebd24.com/)**  will never ask for Credit Card details and request that you do not enter it on any of the forms on **[ebd24.com](http://ebd24.com/)**.
+ **[ebd24.com](http://ebd24.com/)**  will never ask for Credit Card details and request that you do not enter it on any of the forms on **[ebd24.com](http://ebd24.com/)**.
 
-**External Sites.**
+ **External Sites.**
 
-**[ebd24.com](http://ebd24.com/)**  is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
+ **[ebd24.com](http://ebd24.com/)**  is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
 
-**Cookies**
+ **Cookies**
 
 A “cookie” is a small data text file that is placed in your browser and allows **[ebd24.com](http://ebd24.com/)**  to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and **[ebd24.com](http://ebd24.com/)**  does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as newsfeeds.
 
-**Remember The Risks Whenever You Use The Internet**
+ **Remember The Risks Whenever You Use The Internet**
 
 While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to **[ebd24.com](http://ebd24.com/)**  and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition other Internet sites or services that may be accessible through **[ebd24.com](http://ebd24.com/)**  have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions.
 
