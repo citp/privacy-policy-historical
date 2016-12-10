@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the happn.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616203203id_/https%3A//www.happn.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happn.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210012446id_/https%3A//www.happn.com/en/privacy) for the most accurate reproduction.*
 
 # happn
 
 ## Article 1: Personal Data Protection
-
-### 1.1 Data controller – Data recipients
 
 Data are collected by:
 
