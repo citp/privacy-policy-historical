@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressup.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531105722id_/http%3A//www.dressup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressup.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210070632id_/http%3A//www.dressup.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Dressup
 
