@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsmuk.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328030226id_/http%3A//www.rsmuk.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsmuk.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210100833id_/https%3A//www.rsmuk.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and cookies | RSM UK
 
@@ -20,7 +20,13 @@ If you would like more information on cookies, we recommend the [direct.gov.uk i
 
 ### Cookies we use
 
-### **Sitecore Analytics**
+**Marketo Analytics**
+
+This site uses a Marketo tracking cookie, _mkto_trk, which allows us to collect information about how you use our site. Unless you have accessed web content via a marketing email  from us your visits will be tracked anonymously.
+
+However if you have accessed such web content  we can use your visitor data to provide custom content related to your specific interests. By using this website you are consenting to the above use of your data. If you wish to block this cookie, see below for more information about manually managing cookies.
+
+**Sitecore Analytics**
 
 We use this type of cookie to understand how our website is being used and in order to deliver content via widgets that we think will be especially relevant to you.
 
@@ -56,7 +62,7 @@ Further information
 
 ### Manually managing cookies
 
-There are a number of ways you can manually manage cookies on your computer/device. Read more on the [About Cookies website](http://www.aboutcookies.org/page-1).
+There are a number of ways you can manually manage cookies on your computer/device. Read more on the [About Cookies website](http://www.aboutcookies.org/legal-notices/cookies/).
 
 If you access the Internet from more than one computer/device it is important to ensure each browser is configured to suit your cookie preferences.
 
@@ -110,6 +116,3 @@ The data controller collecting the information described in this statement is RS
 Generally accepted standards of technology and operational security have been implemented to protect personal information from loss, misuse, alteration or destruction. All personnel of RSM group entities are required to keep personal information confidential and only authorised persons have access to such information.
 
 If you have any questions about this privacy statement please [email us](mailto:info@rsmuk.com)[.](mailto:info@rsmuk.com)
-
-  
-
