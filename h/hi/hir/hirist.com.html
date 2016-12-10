@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hirist.com privacy policy that was archived on 2016-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160516105726id_/http%3A//www.hirist.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hirist.com privacy policy that was archived on 2016-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161210191058id_/http%3A//www.hirist.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=edge,chrome=1">
@@ -25,22 +25,23 @@
         <meta http-equiv="Content-Style-Type" content="text/css">
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="apple-itunes-app" content="app-id=952697960">
         <!--
 <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" type="text/css" rel="Stylesheet" />
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-theme.min.css" type="text/css" rel="Stylesheet" />
 -->
-            <link href="http://www.hirist.com/resources/css/stylesheet.min.css?ver=1458018921" type="text/css" rel="Stylesheet">
+            <link href="http://www.hirist.com/resources/css/stylesheet.min.css?ver=1481185591" type="text/css" rel="Stylesheet">
                 <link href="http://netdna.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.css" rel="stylesheet">
         <link href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" type="text/css">
-        <link href="http://fonts.googleapis.com/css?family=Noto+Sans:400,700" rel="stylesheet" type="text/css">
-        <link href="http://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet" type="text/css">
+        <!--<link href='http://fonts.googleapis.com/css?family=Noto+Sans:400,700' rel='stylesheet' type='text/css' />
+        <link href='http://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet' type='text/css' /> -->
 
         <!--[if IE 7]>
-             <link rel="stylesheet" href="http://www.hirist.com/resources/css/ie7.css?ver=1458018921" />
+             <link rel="stylesheet" href="http://www.hirist.com/resources/css/ie7.css?ver=1481185591" />
         <![endif]-->
 
         <!--[if gt IE 7]>
-             <script src="http://www.hirist.com/resources/js/modernizr-2.6.2-respond-1.1.0.min.js?ver=1458283604"></script>
+             <script src="http://www.hirist.com/resources/js/modernizr-2.6.2-respond-1.1.0.min.js?ver=1478509676"></script>
         <![endif]-->
 
         <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>window.jQuery || document.write('<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"><\/script>')</script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
@@ -57,6 +58,7 @@
             if (!window.realdomain)
                 window.realdomain = window.location.hostname;
             window.ajaxurl = "http://www.hirist.com/includes/getajaxresponse.php";
+            window.apiurl = "http://www.hirist.com/api5";
             window.loadingimage = "<img src= 'http://www.hirist.com/resources/images/loading_ani.gif' alt='loading..' />";
             //]]>
         </script>       
@@ -429,7 +431,7 @@
                     </li>
                 </ul>
               </li>
-                <li class="pd0 pull-right searchlist" style="margin-right:6px;">
+                              <li class="pd0 pull-right searchlist" style="margin-right:6px;">
 			    <form name="searchformheader" id="searchformheader" method="get" action="http://www.hirist.com/search/">
 			            <div class="searchbox">
 			            <input type="text" class="sidebarsearch" maxlength="40" id="qh" name="q" value="search for jobs..." autocomplete="off">
@@ -443,16 +445,44 @@
     </ul>
 
 </div>
+<script>
+    $('#verifyemaillinkid').click(function() {
+            window.open('http://www.hirist.com/verification', '_blank');
+       });
+       $('#verifyemailmob').click(function() {
+            window.open('http://www.hirist.com/verification', '_blank');
+       });
+</script>
             <div id="page-content-wrapper" style="" class="top-header">
+            <div id="body_overlay" style="display:none;"></div>
                 <div class="clearfix"></div>
                 
                 <div class="clearfix"></div>
                 <!-- Example row of columns -->
 <div class="content-header mobilebg">
-    <a id="menu-toggle" class="pull-left ml10"><img src="http://www.hirist.com/resources/img/menu.png"></a>
+	<form name="searchformheadermobile" id="searchformheadermobile" method="get" action="http://www.hirist.com/search/">
+            <div class="searchbox mobsearch">
+                <input type="text" class="sidebarsearch" maxlength="40" id="qh" name="q" value="search for jobs..." autocomplete="off">
+                <a href="javascript:void(0);" class="searchimage"><img src="http://www.hirist.com/resources/img/search.png"></a>
+            </div>
+            <input type="hidden" id="tag_id" name="tag_id">
+            <div id="errorMsgDiv"></div>
+        </form>
+    <a id="menu-toggle" class="pull-left ml10"><i class="fa fa-bars" aria-hidden="true"></i></a>
+    <div class="text-right navbar-header navheadermobversion">
+            <a href="/" class="navbar-brand" style="padding-left:0;">
+                <h3>
+                hirist                </h3>
+                <h5>
+                .com</h5>
+            </a>
+        </div>
+        <div class="mobverhdicon">
+            <i class="fa fa-search" aria-hidden="true"></i>
+                    </div>
     <a href="/" class="sitename iim text-center"><h2>hirist</h2></a>
 </div>
-<div class="mobileapplink visible-sm visible-xs pull-right mr15 mt15">
+<div class="mobileapplink visible-sm pull-right mr15 mt15 hidden-xs">
     
     
         
@@ -787,9 +817,9 @@
 
 
 
-<script src="http://www.hirist.com/resources/js/javascript.min.js?ver=1458283604"></script>
+<script src="http://www.hirist.com/resources/js/javascript.min.js?ver=1478509676"></script>
    <!--[if lt IE 9]>
-  <script language="javascript" src="http://www.hirist.com/resources/js/html5shiv.js?ver=1458283604" ></script>
+  <script language="javascript" src="http://www.hirist.com/resources/js/html5shiv.js?ver=1478509676" ></script>
 <![endif]-->
 
 
@@ -865,7 +895,7 @@
 
 
     $(".amex_sponsorlogo_listpage").live('click', function () {
-        _gaq.push(['_trackEvent', 'amex_sponsorlogo_listpage', 'click', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'amex_sponsorlogo_listpage', 'click', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
 
@@ -875,138 +905,138 @@
 
 
     $(".adhulflexicareers").live('click', function () {
-        _gaq.push(['_trackEvent', 'hulflexicareers', 'hulflexicareers_clicks', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'hulflexicareers', 'hulflexicareers_clicks', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     /*
-     // _gaq.push(['_trackEvent', 'niitimperia', 'niitimperia_views', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+     // _gaq.push(['_trackEvent', 'niitimperia', 'niitimperia_views', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
      */
 
     $("#app-alert-close").live('click', function () {
-        _gaq.push(['_trackEvent', 'MobileApp_Notify', 'MobileApp_Notify_close', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'MobileApp_Notify', 'MobileApp_Notify_close', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".appnotifyreadmore").live('click', function () {
-        _gaq.push(['_trackEvent', 'MobileApp_Notify', 'MobileApp_Notify_readmore', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'MobileApp_Notify', 'MobileApp_Notify_readmore', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".Buynow_Premium_Popup_Banner").live('click', function () {
-        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'Buynow_Premium_Popup_Banner', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'Buynow_Premium_Popup_Banner', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".blogrightbutton").live('click', function () {
-        _gaq.push(['_trackEvent', 'Blog_Right_Button_Link', 'Blog_Right_Button_Link', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'Blog_Right_Button_Link', 'Blog_Right_Button_Link', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".emp_profile_visit").live('click', function () {
-        _gaq.push(['_trackEvent', 'Employers_Profile_Visit', 'Employers_Profile_Clicks', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'Employers_Profile_Visit', 'Employers_Profile_Clicks', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".cover_skip").live('click', function () {
-        _gaq.push(['_trackEvent', 'cover_letter', 'cover_letter_skipped', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'cover_letter', 'cover_letter_skipped', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".coverletterShow").live('click', function () {
-        _gaq.push(['_trackEvent', 'cover_letter', 'cover_letter_recruiter_views', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'cover_letter', 'cover_letter_recruiter_views', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".adniitimperia").live('click', function () {
-        _gaq.push(['_trackEvent', 'niitimperia', 'niitimperia_clicks', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'niitimperia', 'niitimperia_clicks', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".adupgradebanner").live('click', function () {
-        _gaq.push(['_trackEvent', 'Premium_Popup', 'popup_upgrade_from_banner_ad', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'Premium_Popup', 'popup_upgrade_from_banner_ad', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".Buynow_Premium_Popup_Ad").live('click', function () {
-        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'Buynow_Premium_Popup_Ad', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'Buynow_Premium_Popup_Ad', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".buynow_upgrade_from_menu").live('click', function () {
-        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'buynow_upgrade_from_menu', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'buynow_upgrade_from_menu', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".buynow_status_applied").live('click', function () {
-        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'buynow_status_applied', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'buynow_status_applied', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
     $(".buynow_insights_applied_jobs").live('click', function () {
-        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'buynow_insights_applied_jobs', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'buynow_insights_applied_jobs', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".buynow_insights_status").live('click', function () {
-        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'buynow_insights_status', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'buynow_insights_status', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".buynow_show_company_jobs").live('click', function () {
-        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'buynow_show_company_jobs', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'buynow_show_company_jobs', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".Renew_Popup_top_notification").live('click', function () {
-        _gaq.push(['_trackEvent', 'Pro_Account_Renewal', 'Renew_Popup_top_notification', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'Pro_Account_Renewal', 'Renew_Popup_top_notification', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".Pro_Dropdown_popup").live('click', function () {
-        _gaq.push(['_trackEvent', 'Pro_Account_Renewal', 'Pro_Dropdown_popup', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'Pro_Account_Renewal', 'Pro_Dropdown_popup', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".probuynow").live('click', function () {
-        _gaq.push(['_trackEvent', 'insightpopup', 'probuynow', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'insightpopup', 'probuynow', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".procompjobs").live('click', function () {
-        _gaq.push(['_trackEvent', 'insightpopup', 'procompjobs', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'insightpopup', 'procompjobs', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".prostatusview").live('click', function () {
-        _gaq.push(['_trackEvent', 'insightpopup', 'prostatusview', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'insightpopup', 'prostatusview', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".trackpromempopdet").live('click', function () {
-        _gaq.push(['_trackEvent', 'insightpopup', 'insightpopupdet', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'insightpopup', 'insightpopupdet', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".trackpromempop").live('click', function () {
-        _gaq.push(['_trackEvent', 'insightpopup', 'insightpopup', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'insightpopup', 'insightpopup', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".adeconomisthometop").live('click', function () {
-        _gaq.push(['_trackEvent', 'adeconomist', 'hometop', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'adeconomist', 'hometop', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".adiimblog").live('click', function () {
-        _gaq.push(['_trackEvent', 'adiimblog', 'freemium', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'adiimblog', 'freemium', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".donateblood").live('click', function () {
-        _gaq.push(['_trackEvent', 'donateblood', 'donateblood', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'donateblood', 'donateblood', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".adeconomistrightfloat").live('click', function () {
-        _gaq.push(['_trackEvent', 'adeconomist', 'rightfloat', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'adeconomist', 'rightfloat', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".adrado").live('click', function () {
-        _gaq.push(['_trackEvent', 'adrado', 'adrado', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'adrado', 'adrado', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $(".iimadmob").live('click', function () {
-        _gaq.push(['_trackEvent', 'iimadmob', 'iimadmob', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'iimadmob', 'iimadmob', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $("#premiumapply").live('click', function () {
-        _gaq.push(['_trackEvent', 'premiumapply', 'premiumapply', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'premiumapply', 'premiumapply', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $("#buy_nowbutton").live('click', function () {
-        _gaq.push(['_trackEvent', 'premiumbuynowclick', 'premiumbuynowclick', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'premiumbuynowclick', 'premiumbuynowclick', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $("#appicon_iphone").live('click', function () {
-        _gaq.push(['_trackEvent', 'appicon_iphone_click', 'appicon_iphone_click', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'appicon_iphone_click', 'appicon_iphone_click', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
     $("#appicon_android").live('click', function () {
-        _gaq.push(['_trackEvent', 'appicon_android_click', 'appicon_android_click', '3ou6dao7i30qkpqdlkdcuvd9c0_-_174.129.237.157']);
+        _gaq.push(['_trackEvent', 'appicon_android_click', 'appicon_android_click', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
     });
 
 //]]>
@@ -1114,6 +1144,50 @@
      
      
  </script>
+
+ <script>
+
+jQuery(document).ready(function(){
+
+
+  $('.fa-search').click(function() {
+    $('.mobsearch').toggleClass("mobsearchdisplay");
+      if(jQuery(".mobsearch").hasClass("mobsearchdisplay")) {
+        jQuery(document).on('click touchstart', function(e) {
+          if($(e.target).parents('.mobsearchdisplay').length == 1 || $(e.target).hasClass('fa-search')){}
+          else { jQuery(".mobsearch.mobsearchdisplay").removeClass('mobsearchdisplay'); }
+      });
+    }
+    else {
+      jQuery(".mobsearch.mobsearchdisplay").removeClass('mobsearchdisplay');
+    }
+  });
+  
+  var $window = $(window);
+  function checkWidth() {
+    var windowsize = $window.width();   
+    if (windowsize > 767) {
+      $('.mobsearch').removeClass("mobsearchdisplay");
+    }
+  }          
+
+  $('.fa-filter').click(function() {
+    $('.filter').toggleClass("searchformdisplay");
+  });
+
+  var $window = $(window);
+  function checkWidth() {
+    var windowsize = $window.width();   
+    if (windowsize > 767) {
+      $('.filter').removeClass("searchformdisplay");
+    }
+  }
+
+});
+
+</script>
+
+
 
 
 
