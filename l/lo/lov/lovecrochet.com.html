@@ -1,18 +1,100 @@
-<!--The following is the downloaded HTML source of the lovecrochet.com privacy policy that was archived on 2016-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160506183802id_/http%3A//www.lovecrochet.com/us/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lovecrochet.com privacy policy that was archived on 2016-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161210062401id_/http%3A//www.lovecrochet.com/us/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js"><!--<![endif]--><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TZ4LFT"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAcAUlNUGwUDVlRWAAM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="robots" content="INDEX,FOLLOW">
-<link rel="icon" href="http://skin2.cdn.loveknitting.com/skin/frontend/broadmargins/lovecrochet/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://skin2.cdn.loveknitting.com/skin/frontend/broadmargins/lovecrochet/favicon.ico" type="image/x-icon">
+<link rel="icon" href="https://cms-loveknitting.global.ssl.fastly.net/media/favicon/default/lovecrochet-favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="https://cms-loveknitting.global.ssl.fastly.net/media/favicon/default/lovecrochet-favicon.png" type="image/x-icon">
 <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
-<link rel="stylesheet" type="text/css" href="http://cms.cdn.loveknitting.com/media/css/frontend.print.1024-0.css" media="print">
-<link rel="stylesheet" type="text/css" href="http://cms.cdn.loveknitting.com/media/css/frontend.all.1024-0.css" media="all">
-<script type="text/javascript" src="http://cms.cdn.loveknitting.com/media/js/frontend.all.1024-0.js"></script>
-<!--[if lt IE 9]>
-<script type="text/javascript" src="http://cms.cdn.loveknitting.com/media/js/frontend.lt_IE_9.all.1024-0.js"></script>
-<![endif]-->
+<link rel="stylesheet" type="text/css" href="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/css/print.css" media="print">
+<link rel="stylesheet" type="text/css" href="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/css/amshopby.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/base/default/css/flint_feefo.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/base/default/css/j2t/min-ajax_cart.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/base/default/css/j2t/min-ajax_cart_template_rounded.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/css/jquery.nouislider.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/css/magiczoomplus.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/css/styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/css/styles-responsive.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/css/fonts.css" media="all">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TZ4LFT"></script><script crossorigin="" src="https://d37gvrvc0wt4s1.cloudfront.net/js/v1.9/rollbar.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/js/lib/ccard.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/js/prototype/validation.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/js/varien/js.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/js/varien/form.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/js/varien/menu.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/js/mage/translate.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/js/mage/cookies.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/js/broadmargins/peerius/smartcontent.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/js/GoogleAnalyticsPlus/distilled.FirstTouch.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/js/broadmargins/sourcetracking/sourcecookie.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/js/amasty/amshopby/amshopby.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/js/amasty/amshopby/amshopby-ajax.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/enterprise/default/js/scripts.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/enterprise/default/js/enterprise/catalogevent.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/j2t/min-ajax_cart.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/polyfills/element.classList.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/polyfills/element.closest.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/polyfills/element.matches.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/polyfills/selectivizr-min.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/vendor/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/nouislider/jquery.nouislider.all.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/vendor/jquery.cycle2.min.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/vendor/jquery.cycle2.carousel.min.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/vendor/jquery.cookie.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/vendor/noConflict.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/vendor/simplelightbox.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/vendor/jquery.ba-throttle-debounce.min.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/vendor/underscore-min.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/vendor/backbone-min.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/dist/header.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/dist/notification-dropdown.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/vendor/jcf.custom.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/vendor/magiczoomplus.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/vendor/chosen.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/vendor/masonry.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/vendor/jail.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/vendor/breakpoints.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/translate.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/bundleChecked.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/responsive-breakpoints.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/responsive-checkout.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/responsive-materials.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/responsive-cart.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/main.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/version.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/browserdetect.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/nagcookie.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/facebook.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/ajaxmodal.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/ajaxloginformhandler.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/authenhance.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/favourites.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/giftcard.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/favouriteProductView.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/popup.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/addpwdtoggle.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/stickyRegion.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/lazyblock.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/lazyblockcallbacks.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/kitbuilder.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/kitbuilderYarnPicker.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/materials-grid.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/analytics.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/product-details.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/emwa.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/payment.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/page/page.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/page/type/cms.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/page/type/product.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/page/type/login.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/page/type/cartcheckout.js"></script>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/modules/page/type/categorysearch.js"></script>
 <link rel="alternate" hreflang="de-at" href="http://www.lovecrochet.com/privacy-policy.html">
 <link rel="alternate" hreflang="en-ca" href="http://www.lovecrochet.com/us/privacy-policy.html">
 <link rel="alternate" hreflang="de-ch" href="http://www.lovecrochet.com/privacy-policy.html">
@@ -21,9 +103,12 @@
 <link rel="alternate" hreflang="en-gb" href="http://www.lovecrochet.com/privacy-policy.html">
 <link rel="alternate" hreflang="de-lu" href="http://www.lovecrochet.com/privacy-policy.html">
 <link rel="alternate" hreflang="en-us" href="http://www.lovecrochet.com/us/privacy-policy.html">
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/polyfills/html5shiv.js"></script>
+<![endif]-->
 <script>
     document.getElementsByTagName("html")[0].className += ' js';
-    var SUBSCRIBE_POPUP_NO = '2';
+    var SUBSCRIBE_POPUP_NO = '200';
 </script>
 
 <script type="text/javascript">//<![CDATA[
@@ -42,9 +127,7 @@
 
 <meta name="google-site-verification" content="E2sIycpHb9wXyCpr9231Ugm1Z32Kc4T0CMhhMMZfdVc">
 
-<!-- Start of loveknitting Zendesk Widget script -->
-<!-- <script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("https://assets.zendesk.com/embeddable_framework/main.js","loveknitting.zendesk.com");/*]]>*/</script> -->
-<!-- End of loveknitting Zendesk Widget script --><title>Privacy Policy</title>
+<style>.kit-download-wrapper { margin-top:10px !important; }</style><title>Privacy Policy</title>
 <meta name="description" content="Get crochet yarns and threads, patterns, hooks, books, buttons and accessories from all of your favorite brands. Fast delivery, excellent service.">
 
 <meta property="fb:app_id" content="1506653736317138">
@@ -99,6 +182,11 @@ optionalZipCountries = ["HK","IE","MO","PA"];
         });
     }
 </script><script>
+window['optimizely'] = window['optimizely'] || [];
+window['optimizely'].push(['customTag', 'page_type', 'cms' ]);
+</script>
+<script src="https://cdn.optimizely.com/js/5839860385.js"></script>
+<script>
     window.dataLayer = window.dataLayer || [], collection = [];
     AEC.ajax = function(context, dataLayer){
         var element = jQuery(context), qty = jQuery(':radio[name=qty]:checked, :text[name=qty], select[name=qty]').eq(0).val();
@@ -194,7 +282,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
     });
 </script>
 </head>
-<body class=" cms-page-view shop cms-privacy-policy-html">
+<body class=" cms-page-view shop lovecrochet cms-privacy-policy-html">
 
 <div id="fb-root"></div>
 <script>
@@ -203,7 +291,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
             appId      : '1506653736317138',
             xfbml      : true,
             cookie     : true,
-            version    : 'v2.0'
+            version    : 'v2.6'
         });
     };
 
@@ -227,198 +315,92 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <!-- ESI START DUMMY COMMENT [] -->
 <!-- ESI URL DUMMY COMMENT -->
 
- 
-<script>
+ <script>
         window.dataLayer = window.dataLayer || [];
     dataLayer.push({"ecomm_uloggedin":"false"});
 
     </script>
 
-<!--[if lt IE 9]>
-<script>
-    document.createElement('header');
-    document.createElement('nav');
-    document.createElement('footer');
-</script>
-<![endif]-->
-
-<header id="new-header" class="">
-
-    <div class="aditional-wrapper">
-        <div class="aditional">
-            <ul class="help">
-                <li><a href="http://help.loveknitting.com/hc/en-us" target="_blank">Help</a></li>
-                            </ul>
-                            <span class="account-wrapper">
-                                            <a href="https://www.lovecrochet.com/us/customer/account/login/">Sign In&nbsp;or&nbsp;Register</a>
-                                    </span>
-                                </div>
-    </div>
-
-    <div class="new-header-wrapper">
-        <div class="wrapper">
-            <div class="nav-wrapper">
-                <a class="logo" href="http://www.lovecrochet.com/us/"><img src="http://skin2.cdn.loveknitting.com/skin/frontend/broadmargins/default/images/logo-lovecrochet.svg" alt="LoveCrochet"></a>
-                                <div class="mini-cart">
-                    <div class="mini-cart-wrapper">
-                        <span class="store-code-hidden" style="display: none;"></span>
-                        <a href="http://www.lovecrochet.com/us/checkout/cart/">
-                            <!-- ESI START DUMMY COMMENT [] -->
+<header id="site-header">
+    <div class="wrapper">
+        <a class="logo lovecrochet" href="http://www.lovecrochet.com/us/">LoveCrochet</a>
+                    <nav>
+                <ul class="quicklinks">
+                                            <li><a class="icon icon-feed" href="/us/community">Feed</a></li>
+                                        <li class="basket has-dropdown">
+                        <a class="icon icon-basket" href="http://www.lovecrochet.com/us/checkout/cart/">Basket<!-- ESI START DUMMY COMMENT [] -->
 <!-- ESI URL DUMMY COMMENT -->
 
- <span class="items">
-    <span class="icon icon-shopping-trolly"></span>
-    <span class="qty-count empty"></span>
-</span>
-<span class="total">
-    <span class="price">$0.00</span></span> 
+  
 <!-- ESI END DUMMY COMMENT [] -->
-                        </a>
-                        <div class="basket-dropdown"></div>
-                    </div>
+</a>
+                        <div class="mini-cart dropdown">
+                            <div class="basket-dropdown"></div>
+                        </div>
+                    </li>
+                                            <li class="login-register"><a class="icon icon-user" href="https://www.lovecrochet.com/us/customer/account/login/referer/aHR0cDovL3d3dy5sb3ZlY3JvY2hldC5jb20vdXMv/">Join/Sign in</a></li>
+                                    </ul>
+
+                <a class="toggle menu-toggle icon icon-menu"></a>
+                <div class="menu-header">
+                    <a href="http://www.lovecrochet.com/us/" class="home-toggle toggle icon icon-home"></a>
+                    <span data-default-label="Menu">Menu</span>
+                    <a class="close-menu-toggle toggle icon icon-cross"></a>
                 </div>
-
-                <form class="search" method="get" action="//www.lovecrochet.com/us/catalogsearch/result/">
-                    <input type="hidden" name="order" value="relevance">
-                    <input type="hidden" name="dir" value="desc">
-                    <input type="search" name="q" placeholder="Search">
-                    <button type="submit">
-                        <span class="icon icon-magnifying-glass"></span> <span class="audible-only">Search</span>
-                    </button>
-                </form>
-
-                <input type="checkbox" id="menu-toggle" class="toggle">
-                <div class="primary-nav-wrapper">
-                    <label for="menu-toggle" class="menu-toggle-label">
-                        <img src="http://skin2.cdn.loveknitting.com/skin/frontend/broadmargins/default/images/icon-burger.png" alt="Open Menu" class="burger">
-                        <img src="http://skin2.cdn.loveknitting.com/skin/frontend/broadmargins/default/images/icon-close.png" alt="Close Menu" class="close">
-                    </label>
-                    <div class="scroll-wrapper">
-
-                        <div class="account-mini">
-
-                                                            <span class="details">
-                                    <a href="https://www.lovecrochet.com/us/customer/account/login/">Sign In&nbsp;or&nbsp;Register</a>
-                                </span>
-                                                    </div>
-
-                        <ul class="primary-nav">
-                            
-                            <li class="home">
-                                <a href="http://www.lovecrochet.com/us/" data-gtp="home"><span class="icon icon-home"></span> <span>Home</span></a>
-                                <nav>
-                                    <div class="main-scroll">
-                                        <ul></ul>
-                                    </div>
-                                </nav>
-                            </li>
-
-                            <li class="shop"><a href="http://www.lovecrochet.com/us/supplies/" data-gtp="supplies"><span>Supplies</span></a><nav class="main-nav"><div class="main-scroll"><ul><li><a href="http://www.lovecrochet.com/us/yarns-and-threads" data-gtp="supplies:yarns &amp; threads">Yarns &amp; Threads</a><div class="dropdown-holder"><div class="dropdown-wrapper"><ul class="dropdown items-16"><li class=" wide"><a class="section" href="http://www.lovecrochet.com/us/yarns-and-threads-by-brand" data-gtp="supplies:yarns &amp; threads:brand">Brand</a><ul><li><a href="http://www.lovecrochet.com/us/anchor-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:brand:anchor">Anchor</a></li><li><a href="http://www.lovecrochet.com/us/aunt-lydias-crochet-threads" data-gtp="supplies:yarns &amp; threads:brand:aunt lydia's">Aunt Lydia's</a></li><li><a href="http://www.lovecrochet.com/us/bernat-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:brand:bernat">Bernat</a></li><li><a href="http://www.lovecrochet.com/us/berroco-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:brand:berroco">Berroco</a></li><li><a href="http://www.lovecrochet.com/us/caron-crochet-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:brand:caron">Caron</a></li><li><a href="http://www.lovecrochet.com/us/cascade-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:brand:cascade yarns">Cascade Yarns</a></li><li><a href="http://www.lovecrochet.com/us/debbie-bliss-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:brand:debbie bliss">Debbie Bliss</a></li><li><a href="http://www.lovecrochet.com/us/dmc-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:brand:dmc">DMC</a></li><li><a href="http://www.lovecrochet.com/us/hoooked-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:brand:hoooked">Hoooked</a></li><li><a href="http://www.lovecrochet.com/us/james-c-brett-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:brand:james c. brett">James C. Brett</a></li><li><a href="http://www.lovecrochet.com/us/king-cole-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:brand:king cole">King Cole</a></li><li><a href="http://www.lovecrochet.com/us/lang-yarns-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:brand:lang yarns">Lang Yarns</a></li><li><a href="http://www.lovecrochet.com/us/lily-sugar-and-cream-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:brand:lily sugar and cream">Lily Sugar and Cream</a></li><li><a href="http://www.lovecrochet.com/us/lion-brand-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:brand:lion brand">Lion Brand</a></li><li><a href="http://www.lovecrochet.com/us/malabrigo-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:brand:malabrigo">Malabrigo</a></li><li><a href="http://www.lovecrochet.com/us/millamia-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:brand:millamia">MillaMia</a></li></ul><ul><li><a href="http://www.lovecrochet.com/us/patons-us-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:brand:patons">Patons</a></li><li><a href="http://www.lovecrochet.com/us/plymouth-yarn-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:brand:plymouth yarn">Plymouth Yarn</a></li><li><a href="http://www.lovecrochet.com/us/red-heart-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:brand:red heart">Red Heart</a></li><li><a href="http://www.lovecrochet.com/us/rico-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:brand:rico">Rico</a></li><li><a href="http://www.lovecrochet.com/us/rowan-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:brand:rowan">Rowan</a></li><li><a href="http://www.lovecrochet.com/us/sirdar-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:brand:sirdar">Sirdar</a></li><li><a href="http://www.lovecrochet.com/us/stylecraft-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:brand:stylecraft">Stylecraft</a></li><li><a href="http://www.lovecrochet.com/us/universal-yarn-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:brand:universal yarn">Universal Yarn</a></li></ul></li><li class=""><a class="section" href="http://www.lovecrochet.com/us/yarns-and-threads-by-weight" data-gtp="supplies:yarns &amp; threads:weight">Weight</a><ul><li><a href="http://www.lovecrochet.com/us/lace-us-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:weight:lace us">Lace US</a></li><li><a href="http://www.lovecrochet.com/us/fingering-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:weight:fingering">Fingering</a></li><li><a href="http://www.lovecrochet.com/us/dk-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:weight:dk">DK</a></li><li><a href="http://www.lovecrochet.com/us/worsted-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:weight:aran &amp; worsted">Aran &amp; Worsted</a></li><li><a href="http://www.lovecrochet.com/us/bulky-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:weight:chunky">Chunky</a></li><li><a href="http://www.lovecrochet.com/us/sport-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:weight:sport">Sport</a></li><li><a href="http://www.lovecrochet.com/us/super-bulky-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:weight:super chunky">Super Chunky</a></li><li><a href="http://www.lovecrochet.com/us/thread-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:weight:thread">Thread</a></li><li><a href="http://www.lovecrochet.com/us/varied-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:weight:varied">Varied</a></li></ul></li><li class=""><a class="section" href="http://www.lovecrochet.com/us/popular-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:popular">Popular</a><ul><li><a href="http://www.lovecrochet.com/us/color-packs" data-gtp="supplies:yarns &amp; threads:popular:color packs">Color Packs</a></li><li><a href="http://www.lovecrochet.com/us/baby-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:popular:baby">Baby</a></li><li><a href="http://www.lovecrochet.com/us/luxury-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:popular:luxury yarns and threads">Luxury Yarns and Threads</a></li><li><a href="http://www.lovecrochet.com/us/earth-friendly-yarns" data-gtp="supplies:yarns &amp; threads:popular:earth friendly yarns">Earth Friendly Yarns</a></li><li><a href="http://www.lovecrochet.com/us/grab-bags" data-gtp="supplies:yarns &amp; threads:popular:grab bags">Grab Bags</a></li><li><a href="http://www.lovecrochet.com/us/machine-washable-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:popular:machine washable">Machine Washable</a></li><li><a href="http://www.lovecrochet.com/us/natural-fiber-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:popular:natural fibers">Natural Fibers</a></li><li><a href="http://www.lovecrochet.com/us/value-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:popular:value yarns and threads">Value Yarns and Threads</a></li></ul></li><li class=""><a class="section" href="http://www.lovecrochet.com/us/yarns-and-threads-by-fiber" data-gtp="supplies:yarns &amp; threads:fiber">Fiber</a><ul><li><a href="http://www.lovecrochet.com/us/acrylic-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:fiber:acrylic">Acrylic</a></li><li><a href="http://www.lovecrochet.com/us/alpaca-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:fiber:alpaca">Alpaca</a></li><li><a href="http://www.lovecrochet.com/us/bamboo-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:fiber:bamboo">Bamboo</a></li><li><a href="http://www.lovecrochet.com/us/cashmere-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:fiber:cashmere">Cashmere</a></li><li><a href="http://www.lovecrochet.com/us/cotton-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:fiber:cotton">Cotton</a></li><li><a href="http://www.lovecrochet.com/us/linen-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:fiber:linen">Linen</a></li><li><a href="http://www.lovecrochet.com/us/llama-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:fiber:llama">Llama</a></li><li><a href="http://www.lovecrochet.com/us/merino-wool-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:fiber:merino wool">Merino Wool</a></li><li><a href="http://www.lovecrochet.com/us/metallic-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:fiber:metallic">Metallic</a></li><li><a href="http://www.lovecrochet.com/us/mohair-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:fiber:mohair">Mohair</a></li><li><a href="http://www.lovecrochet.com/us/nylon-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:fiber:nylon">Nylon</a></li><li><a href="http://www.lovecrochet.com/us/silk-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:fiber:silk">Silk</a></li><li><a href="http://www.lovecrochet.com/us/wool-yarns-and-threads" data-gtp="supplies:yarns &amp; threads:fiber:wool">Wool</a></li></ul></li><li class="colors"><a class="section" href="http://www.lovecrochet.com/us/yarns-and-threads-by-color" data-gtp="supplies:yarns &amp; threads:color">Color</a><ul><li><a href="http://www.lovecrochet.com/us/beige-yarns-and-threads" class="beige" data-gtp="supplies:yarns &amp; threads:color:beige">Beige</a></li><li><a href="http://www.lovecrochet.com/us/black-yarns-and-threads" class="black" data-gtp="supplies:yarns &amp; threads:color:black">Black</a></li><li><a href="http://www.lovecrochet.com/us/blue-yarns-and-threads" class="blue" data-gtp="supplies:yarns &amp; threads:color:blue">Blue</a></li><li><a href="http://www.lovecrochet.com/us/brown-yarns-and-threads" class="brown" data-gtp="supplies:yarns &amp; threads:color:brown">Brown</a></li><li><a href="http://www.lovecrochet.com/us/cream-yarns-and-threads" class="cream" data-gtp="supplies:yarns &amp; threads:color:cream">Cream</a></li><li><a href="http://www.lovecrochet.com/us/green-yarns-and-threads" class="green" data-gtp="supplies:yarns &amp; threads:color:green">Green</a></li><li><a href="http://www.lovecrochet.com/us/grey-yarns-and-threads" class="grey" data-gtp="supplies:yarns &amp; threads:color:grey">Grey</a></li><li><a href="http://www.lovecrochet.com/us/multi-yarns-and-threads" class="multi" data-gtp="supplies:yarns &amp; threads:color:multi">Multi</a></li><li><a href="http://www.lovecrochet.com/us/orange-yarns-and-threads" class="orange" data-gtp="supplies:yarns &amp; threads:color:orange">Orange</a></li><li><a href="http://www.lovecrochet.com/us/pink-yarns-and-threads" class="pink" data-gtp="supplies:yarns &amp; threads:color:pink">Pink</a></li><li><a href="http://www.lovecrochet.com/us/purple-yarns-and-threads" class="purple" data-gtp="supplies:yarns &amp; threads:color:purple">Purple</a></li><li><a href="http://www.lovecrochet.com/us/red-yarns-and-threads" class="red" data-gtp="supplies:yarns &amp; threads:color:red">Red</a></li><li><a href="http://www.lovecrochet.com/us/white-yarns-and-threads" class="white" data-gtp="supplies:yarns &amp; threads:color:white">White</a></li><li><a href="http://www.lovecrochet.com/us/yellow-yarns-and-threads" class="yellow" data-gtp="supplies:yarns &amp; threads:color:yellow">Yellow</a></li></ul></li></ul><a data-gtp="supplies:yarns &amp; threads:viewall" href="http://www.lovecrochet.com/us/yarns-and-threads" class="lnk-viewall">View all yarns &amp; threads</a></div></div></li><li><a href="http://www.lovecrochet.com/us/crochet-hooks" data-gtp="supplies:hooks">Hooks</a><div class="dropdown-holder"><div class="dropdown-wrapper"><ul class="dropdown items-16"><li class=""><a class="section" href="http://www.lovecrochet.com/us/crochet-hooks-by-brand" data-gtp="supplies:hooks:brand">Brand</a><ul><li><a href="http://www.lovecrochet.com/us/addi-crochet-hooks" data-gtp="supplies:hooks:brand:addi">Addi</a></li><li><a href="http://www.lovecrochet.com/us/knit-pro-crochet-hooks" data-gtp="supplies:hooks:brand:knitpro">KnitPro</a></li><li><a href="http://www.lovecrochet.com/us/loopy-mango-crochet-hooks" data-gtp="supplies:hooks:brand:loopy mango">Loopy Mango</a></li><li><a href="http://www.lovecrochet.com/us/pony-crochet-hooks" data-gtp="supplies:hooks:brand:pony">Pony</a></li><li><a href="http://www.lovecrochet.com/us/boye-crochet-hooks" data-gtp="supplies:hooks:brand:boye">Boye</a></li><li><a href="http://www.lovecrochet.com/us/denise-crochet-hooks" data-gtp="supplies:hooks:brand:denise">Denise</a></li><li><a href="http://www.lovecrochet.com/us/laurel-hill-crochet-hooks" data-gtp="supplies:hooks:brand:laurel hill">Laurel Hill</a></li><li><a href="http://www.lovecrochet.com/us/susan-bates-crochet-hooks" data-gtp="supplies:hooks:brand:susan bates">Susan Bates</a></li></ul></li><li class=""><a class="section" href="http://www.lovecrochet.com/us/crochet-hooks-by-material" data-gtp="supplies:hooks:material">Material</a><ul><li><a href="http://www.lovecrochet.com/us/bamboo-crochet-hooks" data-gtp="supplies:hooks:material:bamboo">Bamboo</a></li><li><a href="http://www.lovecrochet.com/us/metal-crochet-hooks" data-gtp="supplies:hooks:material:metal">Metal</a></li><li><a href="http://www.lovecrochet.com/us/plastic-crochet-hooks" data-gtp="supplies:hooks:material:plastic">Plastic</a></li><li><a href="http://www.lovecrochet.com/us/wooden-crochet-hooks" data-gtp="supplies:hooks:material:wooden">Wooden</a></li></ul></li><li class=""><a class="section" href="http://www.lovecrochet.com/us/crochet-hooks-by-type" data-gtp="supplies:hooks:type">Type</a><ul><li><a href="http://www.lovecrochet.com/us/crochet-hook-sets" data-gtp="supplies:hooks:type:hook sets">Hook Sets</a></li><li><a href="http://www.lovecrochet.com/us/ergonomic-crochet-hooks" data-gtp="supplies:hooks:type:ergonomic crochet hooks">Ergonomic Crochet Hooks</a></li><li><a href="http://www.lovecrochet.com/us/standard-crochet-hooks" data-gtp="supplies:hooks:type:standard">Standard</a></li><li><a href="http://www.lovecrochet.com/us/knooks" data-gtp="supplies:hooks:type:knooks">Knooks</a></li><li><a href="http://www.lovecrochet.com/us/tunisian-crochet-hooks" data-gtp="supplies:hooks:type:tunisian">Tunisian</a></li><li><a href="http://www.lovecrochet.com/us/tunisian-interchangeable-crochet-hooks" data-gtp="supplies:hooks:type:tunisian interchangeable">Tunisian Interchangeable</a></li></ul></li></ul><a data-gtp="supplies:hooks:viewall" href="http://www.lovecrochet.com/us/crochet-hooks" class="lnk-viewall">View all hooks</a></div></div></li><li><a href="http://www.lovecrochet.com/us/crochet-books" data-gtp="supplies:books">Books</a><div class="dropdown-holder"><div class="dropdown-wrapper"><ul class="dropdown items-16"><li class=""><a class="section" href="http://www.lovecrochet.com/us/crochet-books-by-brand" data-gtp="supplies:books:brand">Brand</a><ul><li><a href="http://www.lovecrochet.com/us/bergere-de-france-crochet-books" data-gtp="supplies:books:brand:bergere de france">Bergere de France</a></li><li><a href="http://www.lovecrochet.com/us/adriafil-crochet-books" data-gtp="supplies:books:brand:adriafil">Adriafil</a></li><li><a href="http://www.lovecrochet.com/us/debbie-bliss-crochet-books" data-gtp="supplies:books:brand:debbie bliss">Debbie Bliss</a></li><li><a href="http://www.lovecrochet.com/us/erika-knight-crochet-books" data-gtp="supplies:books:brand:erika knight">Erika Knight</a></li><li><a href="http://www.lovecrochet.com/us/gmc-crochet-books" data-gtp="supplies:books:brand:gmc">GMC</a></li><li><a href="http://www.lovecrochet.com/us/jenny-watson-crochet-books" data-gtp="supplies:books:brand:jenny watson">Jenny Watson</a></li><li><a href="http://www.lovecrochet.com/us/king-cole-crochet-books" data-gtp="supplies:books:brand:king cole">King Cole</a></li><li><a href="http://www.lovecrochet.com/us/lang-yarns-crochet-books" data-gtp="supplies:books:brand:lang yarns">Lang Yarns</a></li><li><a href="http://www.lovecrochet.com/us/noro-crochet-books" data-gtp="supplies:books:brand:noro">Noro</a></li><li><a href="http://www.lovecrochet.com/us/peter-pan-crochet-books" data-gtp="supplies:books:brand:peter pan">Peter Pan</a></li><li><a href="http://www.lovecrochet.com/us/rowan-crochet-books" data-gtp="supplies:books:brand:rowan">Rowan</a></li><li><a href="http://www.lovecrochet.com/us/search-press-crochet-books" data-gtp="supplies:books:brand:search press">Search Press</a></li><li><a href="http://www.lovecrochet.com/us/sirdar-crochet-books" data-gtp="supplies:books:brand:sirdar">Sirdar</a></li><li><a href="http://www.lovecrochet.com/us/wendy-crochet-books" data-gtp="supplies:books:brand:wendy">Wendy</a></li></ul></li><li class=""><a class="section" href="http://www.lovecrochet.com/us/crochet-books-by-format" data-gtp="supplies:books:format">Format</a><ul><li><a href="http://www.lovecrochet.com/us/booklets-crochet-books" data-gtp="supplies:books:format:booklets">Booklets</a></li><li><a href="http://www.lovecrochet.com/us/hardbacks-crochet-books" data-gtp="supplies:books:format:hardbacks">Hardbacks</a></li><li><a href="http://www.lovecrochet.com/us/magazines-crochet-books" data-gtp="supplies:books:format:magazines">Magazines</a></li><li><a href="http://www.lovecrochet.com/us/paperbacks-crochet-books" data-gtp="supplies:books:format:paperbacks">Paperbacks</a></li></ul></li><li class=""><a class="section" href="http://www.lovecrochet.com/us/crochet-books-by-genre" data-gtp="supplies:books:genre">Genre</a><ul><li><a href="http://www.lovecrochet.com/us/accessories-crochet-books" data-gtp="supplies:books:genre:accessories">Accessories</a></li><li><a href="http://www.lovecrochet.com/us/beginners-crochet-books" data-gtp="supplies:books:genre:beginners">Beginners</a></li><li><a href="http://www.lovecrochet.com/us/children-crochet-books" data-gtp="supplies:books:genre:children">Children</a></li><li><a href="http://www.lovecrochet.com/us/clothing-crochet-books" data-gtp="supplies:books:genre:clothing">Clothing</a></li><li><a href="http://www.lovecrochet.com/us/home-crochet-books" data-gtp="supplies:books:genre:home">Home</a></li><li><a href="http://www.lovecrochet.com/us/skills-and-techniques-crochet-books" data-gtp="supplies:books:genre:skills &amp; techniques">Skills &amp; Techniques</a></li><li><a href="http://www.lovecrochet.com/us/toys-crochet-books" data-gtp="supplies:books:genre:toys">Toys</a></li></ul></li></ul><a data-gtp="supplies:books:viewall" href="http://www.lovecrochet.com/us/crochet-books" class="lnk-viewall">View all books</a></div></div></li><li><a href="http://www.lovecrochet.com/us/crochet-accessories" data-gtp="supplies:accessories">Accessories</a><div class="dropdown-holder"><div class="dropdown-wrapper"><ul class="dropdown items-16"><li class=""><a class="section" href="http://www.lovecrochet.com/us/create-and-make" data-gtp="supplies:accessories:create and make">Create and Make</a><ul><li><a href="http://www.lovecrochet.com/us/felting" data-gtp="supplies:accessories:create and make:felting">Felting</a></li><li><a href="http://www.lovecrochet.com/us/little-extras" data-gtp="supplies:accessories:create and make:little extras">Little Extras</a></li><li><a href="http://www.lovecrochet.com/us/looms" data-gtp="supplies:accessories:create and make:looms">Looms</a></li><li><a href="http://www.lovecrochet.com/us/pom-pom-makers" data-gtp="supplies:accessories:create and make:pom-pom makers">Pom-Pom Makers</a></li></ul></li><li class=""><a class="section" href="http://www.lovecrochet.com/us/crochet-accessories-essentials" data-gtp="supplies:accessories:essential accessories">Essential Accessories</a><ul><li><a href="http://www.lovecrochet.com/us/fashion-accessories" data-gtp="supplies:accessories:essential accessories:fashion accessories">Fashion Accessories</a></li><li><a href="http://www.lovecrochet.com/us/hook-cases" data-gtp="supplies:accessories:essential accessories:hook cases">Hook Cases</a></li><li><a href="http://www.lovecrochet.com/us/zippers" data-gtp="supplies:accessories:essential accessories:zippers">Zippers</a></li><li><a href="http://www.lovecrochet.com/us/row-counters" data-gtp="supplies:accessories:essential accessories:row counters">Row Counters</a></li><li><a href="http://www.lovecrochet.com/us/stitch-holders" data-gtp="supplies:accessories:essential accessories:stitch holders">Stitch Holders</a></li><li><a href="http://www.lovecrochet.com/us/stitch-markers" data-gtp="supplies:accessories:essential accessories:stitch markers">Stitch Markers</a></li><li><a href="http://www.lovecrochet.com/us/tapestry-needles" data-gtp="supplies:accessories:essential accessories:tapestry needles">Tapestry Needles</a></li></ul></li><li class=""><a class="section" href="http://www.lovecrochet.com/us/crochet-buttons" data-gtp="supplies:accessories:buttons">Buttons</a><ul><li><a href="http://www.lovecrochet.com/us/all-buttons" data-gtp="supplies:accessories:buttons:all buttons">All Buttons</a></li><li><a href="http://www.lovecrochet.com/us/metal-buttons" data-gtp="supplies:accessories:buttons:metal">Metal</a></li><li><a href="http://www.lovecrochet.com/us/plastic-buttons" data-gtp="supplies:accessories:buttons:plastic">Plastic</a></li><li><a href="http://www.lovecrochet.com/us/shell-buttons" data-gtp="supplies:accessories:buttons:shell">Shell</a></li><li><a href="http://www.lovecrochet.com/us/toggles" data-gtp="supplies:accessories:buttons:toggles">Toggles</a></li><li><a href="http://www.lovecrochet.com/us/wooden-buttons" data-gtp="supplies:accessories:buttons:wooden">Wooden</a></li></ul></li></ul><a data-gtp="supplies:accessories:viewall" href="http://www.lovecrochet.com/us/crochet-accessories" class="lnk-viewall">View all accessories</a></div></div></li><li><a href="http://www.lovecrochet.com/us/new-in-store" data-gtp="supplies:new">New</a></li><li><a href="http://www.lovecrochet.com/us/outlet" data-gtp="supplies:the outlet - up to 70% off!">The Outlet - Up to 70% off!</a></li></ul></div></nav></li><li class="patterns"><a href="http://www.lovecrochet.com/us/crochet-patterns" data-gtp="patterns"><span>Patterns</span></a><nav class="main-nav"><div class="main-scroll"><ul><li><a href="http://www.lovecrochet.com/us/crochet-patterns" data-gtp="patterns:all patterns">All Patterns</a><div class="dropdown-holder"><div class="dropdown-wrapper"><ul class="dropdown items-16"><li class=" wide"><a class="section" href="http://www.lovecrochet.com/us/crochet-patterns-by-brand" data-gtp="patterns:all patterns:brand">Brand</a><ul><li><a href="http://www.lovecrochet.com/us/araucania-crochet-patterns" data-gtp="patterns:all patterns:brand:araucania">Araucania</a></li><li><a href="http://www.lovecrochet.com/us/artyarns-crochet-patterns" data-gtp="patterns:all patterns:brand:artyarns">Artyarns</a></li><li><a href="http://www.lovecrochet.com/us/austermann-crochet-patterns" data-gtp="patterns:all patterns:brand:austermann">Austermann</a></li><li><a href="http://www.lovecrochet.com/us/bergere-de-france-crochet-patterns" data-gtp="patterns:all patterns:brand:bergere de france">Bergere de France</a></li><li><a href="http://www.lovecrochet.com/us/berroco-crochet-patterns" data-gtp="patterns:all patterns:brand:berroco">Berroco</a></li><li><a href="http://www.lovecrochet.com/us/blue-sky-alpacas-crochet-patterns" data-gtp="patterns:all patterns:brand:blue sky alpacas">Blue Sky Alpacas</a></li><li><a href="http://www.lovecrochet.com/us/cascade-crochet-patterns" data-gtp="patterns:all patterns:brand:cascade yarns">Cascade Yarns</a></li><li><a href="http://www.lovecrochet.com/us/classic-elite-yarns-crochet-patterns" data-gtp="patterns:all patterns:brand:classic elite yarns">Classic Elite Yarns</a></li><li><a href="http://www.lovecrochet.com/us/crystal-palace-crochet-patterns" data-gtp="patterns:all patterns:brand:crystal palace">Crystal Palace</a></li><li><a href="http://www.lovecrochet.com/us/debbie-bliss-crochet-patterns" data-gtp="patterns:all patterns:brand:debbie bliss">Debbie Bliss</a></li><li><a href="http://www.lovecrochet.com/us/dmc-crochet-patterns" data-gtp="patterns:all patterns:brand:dmc">DMC</a></li><li><a href="http://www.lovecrochet.com/us/dy-choice-crochet-patterns" data-gtp="patterns:all patterns:brand:dy choice">DY Choice</a></li><li><a href="http://www.lovecrochet.com/us/ella-rae-crochet-patterns" data-gtp="patterns:all patterns:brand:ella rae">Ella Rae</a></li><li><a href="http://www.lovecrochet.com/us/erika-knight-crochet-patterns" data-gtp="patterns:all patterns:brand:erika knight">Erika Knight</a></li><li><a href="http://www.lovecrochet.com/us/hayfield-crochet-patterns" data-gtp="patterns:all patterns:brand:hayfield">Hayfield</a></li><li><a href="http://www.lovecrochet.com/us/imperial-yarn-crochet-patterns" data-gtp="patterns:all patterns:brand:imperial yarn">Imperial Yarn</a></li></ul><ul><li><a href="http://www.lovecrochet.com/us/independent-designers" data-gtp="patterns:all patterns:brand:independent designer">Independent Designer</a></li><li><a href="http://www.lovecrochet.com/us/katia-crochet-patterns" data-gtp="patterns:all patterns:brand:katia">Katia</a></li><li><a href="http://www.lovecrochet.com/us/king-cole-crochet-patterns" data-gtp="patterns:all patterns:brand:king cole">King Cole</a></li><li><a href="http://www.lovecrochet.com/us/lang-yarns-crochet-patterns" data-gtp="patterns:all patterns:brand:lang yarns">Lang Yarns</a></li><li><a href="http://www.lovecrochet.com/us/lily-sugar-and-cream-crochet-patterns" data-gtp="patterns:all patterns:brand:lily sugar and cream">Lily Sugar and Cream</a></li><li><a href="http://www.lovecrochet.com/us/lion-brand-crochet-patterns" data-gtp="patterns:all patterns:brand:lion brand">Lion Brand</a></li><li><a href="http://www.lovecrochet.com/us/manos-del-uruguay-crochet-patterns" data-gtp="patterns:all patterns:brand:manos del uruguay">Manos del Uruguay</a></li><li><a href="http://www.lovecrochet.com/us/misti-alpaca-crochet-patterns" data-gtp="patterns:all patterns:brand:misti alpaca">Misti Alpaca</a></li><li><a href="http://www.lovecrochet.com/us/peter-pan-crochet-patterns" data-gtp="patterns:all patterns:brand:peter pan">Peter Pan</a></li><li><a href="http://www.lovecrochet.com/us/plymouth-yarn-crochet-patterns" data-gtp="patterns:all patterns:brand:plymouth yarn">Plymouth Yarn</a></li><li><a href="http://www.lovecrochet.com/us/red-heart-us-crochet-patterns" data-gtp="patterns:all patterns:brand:red heart">Red Heart</a></li><li><a href="http://www.lovecrochet.com/us/rico-crochet-patterns" data-gtp="patterns:all patterns:brand:rico">Rico</a></li><li><a href="http://www.lovecrochet.com/us/rooster-crochet-patterns" data-gtp="patterns:all patterns:brand:rooster">Rooster</a></li><li><a href="http://www.lovecrochet.com/us/rowan-crochet-patterns" data-gtp="patterns:all patterns:brand:rowan">Rowan</a></li><li><a href="http://www.lovecrochet.com/us/schachenmayr-crochet-patterns" data-gtp="patterns:all patterns:brand:schachenmayr">Schachenmayr</a></li><li><a href="http://www.lovecrochet.com/us/sirdar-crochet-patterns" data-gtp="patterns:all patterns:brand:sirdar">Sirdar</a></li></ul><ul><li><a href="http://www.lovecrochet.com/us/sirdar-snuggly-crochet-patterns" data-gtp="patterns:all patterns:brand:sirdar snuggly">Sirdar Snuggly</a></li><li><a href="http://www.lovecrochet.com/us/stylecraft-crochet-patterns" data-gtp="patterns:all patterns:brand:stylecraft">Stylecraft</a></li><li><a href="http://www.lovecrochet.com/us/twilleys-crochet-patterns" data-gtp="patterns:all patterns:brand:twilleys">Twilleys</a></li><li><a href="http://www.lovecrochet.com/us/wendy-crochet-patterns" data-gtp="patterns:all patterns:brand:wendy">Wendy</a></li></ul></li><li class=""><a class="section" href="http://www.lovecrochet.com/us/crochet-patterns-by-difficulty" data-gtp="patterns:all patterns:difficulty">Difficulty</a><ul><li><a href="http://www.lovecrochet.com/us/beginner-crochet-patterns" data-gtp="patterns:all patterns:difficulty:beginner">Beginner</a></li><li><a href="http://www.lovecrochet.com/us/intermediate-crochet-patterns" data-gtp="patterns:all patterns:difficulty:intermediate">Intermediate</a></li><li><a href="http://www.lovecrochet.com/us/advanced-crochet-patterns" data-gtp="patterns:all patterns:difficulty:advanced">Advanced</a></li></ul></li><li class=" wide"><a class="section" href="http://www.lovecrochet.com/us/crochet-patterns-by-project" data-gtp="patterns:all patterns:project">Project</a><ul><li><a href="http://www.lovecrochet.com/us/accessories-crochet-patterns" data-gtp="patterns:all patterns:project:accessories">Accessories</a></li><li><a href="http://www.lovecrochet.com/us/blankets-crochet-patterns" data-gtp="patterns:all patterns:project:blankets">Blankets</a></li><li><a href="http://www.lovecrochet.com/us/boleros-crochet-patterns" data-gtp="patterns:all patterns:project:boleros">Boleros</a></li><li><a href="http://www.lovecrochet.com/us/bootees-crochet-patterns" data-gtp="patterns:all patterns:project:bootees">Bootees</a></li><li><a href="http://www.lovecrochet.com/us/cardigans-crochet-patterns" data-gtp="patterns:all patterns:project:cardigans">Cardigans</a></li><li><a href="http://www.lovecrochet.com/us/coats-crochet-patterns" data-gtp="patterns:all patterns:project:coats">Coats</a></li><li><a href="http://www.lovecrochet.com/us/cushions-crochet-patterns" data-gtp="patterns:all patterns:project:cushions">Cushions</a></li><li><a href="http://www.lovecrochet.com/us/dresses-crochet-patterns" data-gtp="patterns:all patterns:project:dresses">Dresses</a></li><li><a href="http://www.lovecrochet.com/us/gloves-and-mittens-crochet-patterns" data-gtp="patterns:all patterns:project:gloves &amp; mittens">Gloves &amp; Mittens</a></li><li><a href="http://www.lovecrochet.com/us/hats-crochet-patterns" data-gtp="patterns:all patterns:project:hats">Hats</a></li><li><a href="http://www.lovecrochet.com/us/jackets-crochet-patterns" data-gtp="patterns:all patterns:project:jackets">Jackets</a></li><li><a href="http://www.lovecrochet.com/us/jumpers-crochet-patterns" data-gtp="patterns:all patterns:project:jumpers">Jumpers</a></li><li><a href="http://www.lovecrochet.com/us/scarves-and-shawls-crochet-patterns" data-gtp="patterns:all patterns:project:scarves &amp; shawls">Scarves &amp; Shawls</a></li><li><a href="http://www.lovecrochet.com/us/socks-crochet-patterns" data-gtp="patterns:all patterns:project:socks">Socks</a></li><li><a href="http://www.lovecrochet.com/us/sweaters-crochet-patterns" data-gtp="patterns:all patterns:project:sweaters">Sweaters</a></li><li><a href="http://www.lovecrochet.com/us/tops-crochet-patterns" data-gtp="patterns:all patterns:project:tops">Tops</a></li></ul><ul><li><a href="http://www.lovecrochet.com/us/toys-crochet-patterns" data-gtp="patterns:all patterns:project:toys">Toys</a></li><li><a href="http://www.lovecrochet.com/us/waistcoats-crochet-patterns" data-gtp="patterns:all patterns:project:waistcoats">Waistcoats</a></li></ul></li><li class=""><a class="section" href="http://www.lovecrochet.com/us/crochet-patterns-by-recipient" data-gtp="patterns:all patterns:for">For</a><ul><li><a href="http://www.lovecrochet.com/us/adults-crochet-patterns" data-gtp="patterns:all patterns:for:adults">Adults</a></li><li><a href="http://www.lovecrochet.com/us/babies-crochet-patterns" data-gtp="patterns:all patterns:for:babies">Babies</a></li><li><a href="http://www.lovecrochet.com/us/boys-crochet-patterns" data-gtp="patterns:all patterns:for:boys">Boys</a></li><li><a href="http://www.lovecrochet.com/us/children-crochet-patterns" data-gtp="patterns:all patterns:for:children">Children</a></li><li><a href="http://www.lovecrochet.com/us/holiday-crochet-patterns" data-gtp="patterns:all patterns:for:holiday crochet patterns">Holiday Crochet Patterns</a></li><li><a href="http://www.lovecrochet.com/us/girls-crochet-patterns" data-gtp="patterns:all patterns:for:girls">Girls</a></li><li><a href="http://www.lovecrochet.com/us/halloween-crochet-patterns" data-gtp="patterns:all patterns:for:halloween">Halloween</a></li><li><a href="http://www.lovecrochet.com/us/home-crochet-patterns" data-gtp="patterns:all patterns:for:home">Home</a></li><li><a href="http://www.lovecrochet.com/us/men-crochet-patterns" data-gtp="patterns:all patterns:for:men">Men</a></li><li><a href="http://www.lovecrochet.com/us/pets-crochet-patterns" data-gtp="patterns:all patterns:for:pets">Pets</a></li><li><a href="http://www.lovecrochet.com/us/plus-size-crochet-patterns" data-gtp="patterns:all patterns:for:plus size">Plus Size</a></li><li><a href="http://www.lovecrochet.com/us/women-crochet-patterns" data-gtp="patterns:all patterns:for:women">Women</a></li></ul></li><li class=""><a class="section" href="http://www.lovecrochet.com/us/crochet-patterns-by-yarn-weight" data-gtp="patterns:all patterns:yarn weight">Yarn Weight</a><ul><li><a href="http://www.lovecrochet.com/us/lace-crochet-patterns" data-gtp="patterns:all patterns:yarn weight:lace">Lace</a></li><li><a href="http://www.lovecrochet.com/us/2-ply-crochet-patterns" data-gtp="patterns:all patterns:yarn weight:2 ply">2 Ply</a></li><li><a href="http://www.lovecrochet.com/us/3-ply-crochet-patterns" data-gtp="patterns:all patterns:yarn weight:3 ply">3 Ply</a></li><li><a href="http://www.lovecrochet.com/us/fingering-crochet-patterns" data-gtp="patterns:all patterns:yarn weight:fingering">Fingering</a></li><li><a href="http://www.lovecrochet.com/us/4-ply-crochet-patterns" data-gtp="patterns:all patterns:yarn weight:4 ply">4 Ply</a></li><li><a href="http://www.lovecrochet.com/us/dk-crochet-patterns" data-gtp="patterns:all patterns:yarn weight:dk">DK</a></li><li><a href="http://www.lovecrochet.com/us/aran-crochet-patterns" data-gtp="patterns:all patterns:yarn weight:aran">Aran</a></li><li><a href="http://www.lovecrochet.com/us/chunky-crochet-patterns" data-gtp="patterns:all patterns:yarn weight:chunky">Chunky</a></li><li><a href="http://www.lovecrochet.com/us/super-chunky-crochet-patterns" data-gtp="patterns:all patterns:yarn weight:super chunky">Super Chunky</a></li><li><a href="http://www.lovecrochet.com/us/thread-crochet-patterns" data-gtp="patterns:all patterns:yarn weight:thread">Thread</a></li><li><a href="http://www.lovecrochet.com/us/varied-crochet-patterns" data-gtp="patterns:all patterns:yarn weight:varied">Varied</a></li></ul></li></ul></div></div></li><li><a href="http://www.lovecrochet.com/us/independent-designers" data-gtp="patterns:indie patterns">Indie Patterns</a></li><li><a href="http://www.lovecrochet.com/us/free-crochet-patterns" data-gtp="patterns:free patterns">Free Patterns</a></li><li><a href="http://www.lovecrochet.com/us/top-crochet-pattern-picks" data-gtp="patterns:top crochet pattern picks">Top Crochet Pattern Picks</a></li></ul></div></nav></li>
-                            <li class="projects">
-                                <a href="/us/projects" data-gtp="projects"><span class="new-wrapper">Projects<span class="new"><abbr title="Work In Progress">WIP</abbr></span></span></a>
-                                <nav>
-                                    <div class="main-scroll">
-                                        <ul>
-                                            <li><a href="/us/projects" data-gtp="all projects">All Projects</a></li>
-                                            <li><a href="/us/projects/create" data-gtp="add a project">Add a Project</a></li>
-                                                                                                                                        <li>
-                                                    <a href="http://www.lovecrochet.com/us/hottags/" data-gtp="hottags">
-                                                    <span class="new-wrapper">
-                                                        HotTags                                                        <span class="new">NEW</span>
-                                                    </span>
-                                                    </a>
-                                                </li>
-                                                <li class="pull"><a href="https://www.surveymonkey.com/r/lcprojects_feedback" data-gtp="feedback" target="_blank">Feedback</a></li>
-                                                                                    </ul>
-                                    </div>
-                                </nav>
-                            </li>
-                                                            <li class="blog"><a href="http://blog.lovecrochet.com/" data-gtp="blog"><span>Blog</span></a></li>
-                                                    </ul>
-                        <ul class="help">
-                            <li><a href="http://help.loveknitting.com/hc/en-us" data-gtp="help" target="_blank">Help</a></li>
-                                                    </ul>
-                    </div>
+                <div class="expand-wrapper">
+                    <ul class="primary-nav">
+                        <li class="home">
+                            <a href="/" data-gtp="home">Home                                <span class="icon icon-home"></span>
+                            </a>
+                        </li>
+                        <li class=" has-dropdown"><a href="http://www.lovecrochet.com/us/yarns-and-threads" data-gtp="yarns">Yarns</a><ul><li class=" has-sub-menu"><a class="icon icon-chevron-right" href="http://www.lovecrochet.com/us/yarns-and-threads-by-brand" data-gtp="yarns:brand">Brand</a><ul class="dropdown "><li class=""><a href="http://www.lovecrochet.com/us/aunt-lydias-crochet-threads" data-gtp="yarns:brand:aunt lydia's">Aunt Lydia's</a></li><li class=""><a href="http://www.lovecrochet.com/us/bernat-yarns-and-threads" data-gtp="yarns:brand:bernat">Bernat</a></li><li class=""><a href="http://www.lovecrochet.com/us/berroco-yarns-and-threads" data-gtp="yarns:brand:berroco">Berroco</a></li><li class=""><a href="http://www.lovecrochet.com/us/caron-crochet-yarns-and-threads" data-gtp="yarns:brand:caron">Caron</a></li><li class=""><a href="http://www.lovecrochet.com/us/cascade-yarns-and-threads" data-gtp="yarns:brand:cascade yarns">Cascade Yarns</a></li><li class=""><a href="http://www.lovecrochet.com/us/classic-elite-yarns-yarns-and-threads" data-gtp="yarns:brand:classic elite yarns">Classic Elite Yarns</a></li><li class=""><a href="http://www.lovecrochet.com/us/debbie-bliss-yarns-and-threads" data-gtp="yarns:brand:debbie bliss">Debbie Bliss</a></li><li class=""><a href="http://www.lovecrochet.com/us/dmc-yarns-and-threads" data-gtp="yarns:brand:dmc">DMC</a></li><li class=""><a href="http://www.lovecrochet.com/us/hoooked-yarns-and-threads" data-gtp="yarns:brand:hoooked">Hoooked</a></li><li class=""><a href="http://www.lovecrochet.com/us/james-c-brett-yarns-and-threads" data-gtp="yarns:brand:james c. brett">James C. Brett</a></li><li class=""><a href="http://www.lovecrochet.com/us/katia-yarns-and-threads" data-gtp="yarns:brand:katia">Katia</a></li><li class=""><a href="http://www.lovecrochet.com/us/king-cole-yarns-and-threads" data-gtp="yarns:brand:king cole">King Cole</a></li><li class=""><a href="http://www.lovecrochet.com/us/lang-yarns-yarns-and-threads" data-gtp="yarns:brand:lang yarns">Lang Yarns</a></li><li class=""><a href="http://www.lovecrochet.com/us/lion-brand-yarns-and-threads" data-gtp="yarns:brand:lion brand">Lion Brand</a></li><li class=""><a href="http://www.lovecrochet.com/us/malabrigo-yarns-and-threads" data-gtp="yarns:brand:malabrigo">Malabrigo</a></li><li class=""><a href="http://www.lovecrochet.com/us/manos-del-uruguay-yarns-and-threads" data-gtp="yarns:brand:manos del uruguay">Manos del Uruguay</a></li><li class=""><a href="http://www.lovecrochet.com/us/noro-yarns-and-threads" data-gtp="yarns:brand:noro">Noro</a></li><li class=""><a href="http://www.lovecrochet.com/us/paintbox-yarns" data-gtp="yarns:brand:paintbox yarns">Paintbox Yarns</a></li><li class=""><a href="http://www.lovecrochet.com/us/plymouth-yarn-yarns-and-threads" data-gtp="yarns:brand:plymouth yarn">Plymouth Yarn</a></li><li class=""><a href="http://www.lovecrochet.com/us/red-heart-yarns-and-threads" data-gtp="yarns:brand:red heart">Red Heart</a></li><li class=""><a href="http://www.lovecrochet.com/us/rico-yarns-and-threads" data-gtp="yarns:brand:rico">Rico</a></li><li class=""><a href="http://www.lovecrochet.com/us/schachenmayr-yarns-and-threads" data-gtp="yarns:brand:schachenmayr">Schachenmayr</a></li><li class=""><a href="http://www.lovecrochet.com/us/stylecraft-yarns-and-threads" data-gtp="yarns:brand:stylecraft">Stylecraft</a></li><li class=""><a href="http://www.lovecrochet.com/us/universal-yarn-yarns-and-threads" data-gtp="yarns:brand:universal yarn">Universal Yarn</a></li></ul></li><li class=" has-sub-menu"><a class="icon icon-chevron-right" href="http://www.lovecrochet.com/us/yarns-and-threads-by-weight" data-gtp="yarns:weight:universal yarn">Weight</a><ul class="dropdown "><li class=""><a href="http://www.lovecrochet.com/us/lace-yarns-and-threads" data-gtp="yarns:weight:lace">Lace</a></li><li class=""><a href="http://www.lovecrochet.com/us/lace-us-yarns-and-threads" data-gtp="yarns:weight:lace us">Lace US</a></li><li class=""><a href="http://www.lovecrochet.com/us/2-ply-yarns-and-threads" data-gtp="yarns:weight:2 ply">2 Ply</a></li><li class=""><a href="http://www.lovecrochet.com/us/fingering-yarns-and-threads" data-gtp="yarns:weight:fingering">Fingering</a></li><li class=""><a href="http://www.lovecrochet.com/us/4-ply-yarns-and-threads" data-gtp="yarns:weight:4 ply">4 Ply</a></li><li class=""><a href="http://www.lovecrochet.com/us/dk-yarns-and-threads" data-gtp="yarns:weight:dk">DK</a></li><li class=""><a href="http://www.lovecrochet.com/us/worsted-yarns-and-threads" data-gtp="yarns:weight:aran &amp; worsted">Aran &amp; Worsted</a></li><li class=""><a href="http://www.lovecrochet.com/us/bulky-yarns-and-threads" data-gtp="yarns:weight:chunky">Chunky</a></li><li class=""><a href="http://www.lovecrochet.com/us/sport-yarns-and-threads" data-gtp="yarns:weight:sport">Sport</a></li><li class=""><a href="http://www.lovecrochet.com/us/super-bulky-yarns-and-threads" data-gtp="yarns:weight:super chunky">Super Chunky</a></li><li class=""><a href="http://www.lovecrochet.com/us/thread-yarns-and-threads" data-gtp="yarns:weight:thread">Thread</a></li><li class=""><a href="http://www.lovecrochet.com/us/varied-yarns-and-threads" data-gtp="yarns:weight:varied">Varied</a></li></ul></li><li class=" has-sub-menu"><a class="icon icon-chevron-right" href="http://www.lovecrochet.com/us/yarns-and-threads-by-fiber" data-gtp="yarns:fiber:varied">Fiber</a><ul class="dropdown "><li class=""><a href="http://www.lovecrochet.com/us/acrylic-yarns-and-threads" data-gtp="yarns:fiber:acrylic">Acrylic</a></li><li class=""><a href="http://www.lovecrochet.com/us/alpaca-yarns-and-threads" data-gtp="yarns:fiber:alpaca">Alpaca</a></li><li class=""><a href="http://www.lovecrochet.com/us/bamboo-yarns-and-threads" data-gtp="yarns:fiber:bamboo">Bamboo</a></li><li class=""><a href="http://www.lovecrochet.com/us/cashmere-yarns-and-threads" data-gtp="yarns:fiber:cashmere">Cashmere</a></li><li class=""><a href="http://www.lovecrochet.com/us/cotton-yarns-and-threads" data-gtp="yarns:fiber:cotton">Cotton</a></li><li class=""><a href="http://www.lovecrochet.com/us/linen-yarns-and-threads" data-gtp="yarns:fiber:linen">Linen</a></li><li class=""><a href="http://www.lovecrochet.com/us/llama-yarns-and-threads" data-gtp="yarns:fiber:llama">Llama</a></li><li class=""><a href="http://www.lovecrochet.com/us/merino-wool-yarns-and-threads" data-gtp="yarns:fiber:merino wool">Merino Wool</a></li><li class=""><a href="http://www.lovecrochet.com/us/metallic-yarns-and-threads" data-gtp="yarns:fiber:metallic">Metallic</a></li><li class=""><a href="http://www.lovecrochet.com/us/mohair-yarns-and-threads" data-gtp="yarns:fiber:mohair">Mohair</a></li><li class=""><a href="http://www.lovecrochet.com/us/nylon-yarns-and-threads" data-gtp="yarns:fiber:nylon">Nylon</a></li><li class=""><a href="http://www.lovecrochet.com/us/silk-yarns-and-threads" data-gtp="yarns:fiber:silk">Silk</a></li><li class=""><a href="http://www.lovecrochet.com/us/wool-yarns-and-threads" data-gtp="yarns:fiber:wool">Wool</a></li></ul></li><li class=" has-sub-menu"><a class="icon icon-chevron-right" href="http://www.lovecrochet.com/us/popular-yarns-and-threads" data-gtp="yarns:popular:wool">Popular</a><ul class="dropdown "><li class=""><a href="http://www.lovecrochet.com/us/color-packs" data-gtp="yarns:popular:color packs">Color Packs</a></li><li class=""><a href="http://www.lovecrochet.com/us/baby-yarns-and-threads" data-gtp="yarns:popular:baby">Baby</a></li><li class=""><a href="http://www.lovecrochet.com/us/luxury-yarns-and-threads" data-gtp="yarns:popular:luxury yarns and threads">Luxury Yarns and Threads</a></li><li class=""><a href="http://www.lovecrochet.com/us/earth-friendly-yarns" data-gtp="yarns:popular:earth friendly yarns">Earth Friendly Yarns</a></li><li class=""><a href="http://www.lovecrochet.com/us/grab-bags" data-gtp="yarns:popular:grab bags">Grab Bags</a></li><li class=""><a href="http://www.lovecrochet.com/us/machine-washable-yarns-and-threads" data-gtp="yarns:popular:machine washable">Machine Washable</a></li><li class=""><a href="http://www.lovecrochet.com/us/natural-fiber-yarns-and-threads" data-gtp="yarns:popular:natural fibers">Natural Fibers</a></li><li class=""><a href="http://www.lovecrochet.com/us/value-yarns-and-threads" data-gtp="yarns:popular:value yarns and threads">Value Yarns and Threads</a></li><li class=""><a href="http://www.lovecrochet.com/us/yarn-value-packs" data-gtp="yarns:popular:value packs">Value Packs</a></li></ul></li><li class="colors has-sub-menu"><a class="icon icon-chevron-right" href="http://www.lovecrochet.com/us/yarns-and-threads-by-color" data-gtp="yarns:color:value packs">Color</a><ul class="dropdown colors"><li class=" beige"><a href="http://www.lovecrochet.com/us/beige-yarns-and-threads" data-gtp="yarns:color:beige">Beige</a></li><li class=" black"><a href="http://www.lovecrochet.com/us/black-yarns-and-threads" data-gtp="yarns:color:black">Black</a></li><li class=" blue"><a href="http://www.lovecrochet.com/us/blue-yarns-and-threads" data-gtp="yarns:color:blue">Blue</a></li><li class=" brown"><a href="http://www.lovecrochet.com/us/brown-yarns-and-threads" data-gtp="yarns:color:brown">Brown</a></li><li class=" cream"><a href="http://www.lovecrochet.com/us/cream-yarns-and-threads" data-gtp="yarns:color:cream">Cream</a></li><li class=" green"><a href="http://www.lovecrochet.com/us/green-yarns-and-threads" data-gtp="yarns:color:green">Green</a></li><li class=" grey"><a href="http://www.lovecrochet.com/us/grey-yarns-and-threads" data-gtp="yarns:color:grey">Grey</a></li><li class=" multi"><a href="http://www.lovecrochet.com/us/multi-yarns-and-threads" data-gtp="yarns:color:multi">Multi</a></li><li class=" orange"><a href="http://www.lovecrochet.com/us/orange-yarns-and-threads" data-gtp="yarns:color:orange">Orange</a></li><li class=" pink"><a href="http://www.lovecrochet.com/us/pink-yarns-and-threads" data-gtp="yarns:color:pink">Pink</a></li><li class=" purple"><a href="http://www.lovecrochet.com/us/purple-yarns-and-threads" data-gtp="yarns:color:purple">Purple</a></li><li class=" red"><a href="http://www.lovecrochet.com/us/red-yarns-and-threads" data-gtp="yarns:color:red">Red</a></li><li class=" white"><a href="http://www.lovecrochet.com/us/white-yarns-and-threads" data-gtp="yarns:color:white">White</a></li><li class=" yellow"><a href="http://www.lovecrochet.com/us/yellow-yarns-and-threads" data-gtp="yarns:color:yellow">Yellow</a></li></ul></li></ul></li><li class="patterns has-dropdown"><a href="http://www.lovecrochet.com/us/crochet-patterns" data-gtp="patterns">Patterns</a><ul><li class=" has-sub-menu"><a class="icon icon-chevron-right" href="http://www.lovecrochet.com/us/crochet-patterns-by-project" data-gtp="patterns:garment">Garment</a><ul class="dropdown "><li class=""><a href="http://www.lovecrochet.com/us/accessories-crochet-patterns" data-gtp="patterns:garment:accessories">Accessories</a></li><li class=""><a href="http://www.lovecrochet.com/us/blankets-crochet-patterns" data-gtp="patterns:garment:blankets">Blankets</a></li><li class=""><a href="http://www.lovecrochet.com/us/boleros-crochet-patterns" data-gtp="patterns:garment:boleros">Boleros</a></li><li class=""><a href="http://www.lovecrochet.com/us/bootees-crochet-patterns" data-gtp="patterns:garment:bootees">Bootees</a></li><li class=""><a href="http://www.lovecrochet.com/us/cardigans-crochet-patterns" data-gtp="patterns:garment:cardigans">Cardigans</a></li><li class=""><a href="http://www.lovecrochet.com/us/coats-crochet-patterns" data-gtp="patterns:garment:coats">Coats</a></li><li class=""><a href="http://www.lovecrochet.com/us/cushions-crochet-patterns" data-gtp="patterns:garment:cushions">Cushions</a></li><li class=""><a href="http://www.lovecrochet.com/us/dresses-crochet-patterns" data-gtp="patterns:garment:dresses">Dresses</a></li><li class=""><a href="http://www.lovecrochet.com/us/gloves-and-mittens-crochet-patterns" data-gtp="patterns:garment:gloves &amp; mittens">Gloves &amp; Mittens</a></li><li class=""><a href="http://www.lovecrochet.com/us/hats-crochet-patterns" data-gtp="patterns:garment:hats">Hats</a></li><li class=""><a href="http://www.lovecrochet.com/us/jackets-crochet-patterns" data-gtp="patterns:garment:jackets">Jackets</a></li><li class=""><a href="http://www.lovecrochet.com/us/jumpers-crochet-patterns" data-gtp="patterns:garment:jumpers">Jumpers</a></li><li class=""><a href="http://www.lovecrochet.com/us/scarves-and-shawls-crochet-patterns" data-gtp="patterns:garment:scarves &amp; shawls">Scarves &amp; Shawls</a></li><li class=""><a href="http://www.lovecrochet.com/us/socks-crochet-patterns" data-gtp="patterns:garment:socks">Socks</a></li><li class=""><a href="http://www.lovecrochet.com/us/sweaters-crochet-patterns" data-gtp="patterns:garment:sweaters">Sweaters</a></li><li class=""><a href="http://www.lovecrochet.com/us/tops-crochet-patterns" data-gtp="patterns:garment:tops">Tops</a></li><li class=""><a href="http://www.lovecrochet.com/us/toys-crochet-patterns" data-gtp="patterns:garment:toys">Toys</a></li><li class=""><a href="http://www.lovecrochet.com/us/waistcoats-crochet-patterns" data-gtp="patterns:garment:waistcoats">Waistcoats</a></li></ul></li><li class=" has-sub-menu"><a class="icon icon-chevron-right" href="http://www.lovecrochet.com/us/crochet-patterns-by-brand" data-gtp="patterns:brand:waistcoats">Brand</a><ul class="dropdown "><li class=""><a href="http://www.lovecrochet.com/us/araucania-crochet-patterns" data-gtp="patterns:brand:araucania">Araucania</a></li><li class=""><a href="http://www.lovecrochet.com/us/artyarns-crochet-patterns" data-gtp="patterns:brand:artyarns">Artyarns</a></li><li class=""><a href="http://www.lovecrochet.com/us/austermann-crochet-patterns" data-gtp="patterns:brand:austermann">Austermann</a></li><li class=""><a href="http://www.lovecrochet.com/us/bergere-de-france-crochet-patterns" data-gtp="patterns:brand:bergere de france">Bergere de France</a></li><li class=""><a href="http://www.lovecrochet.com/us/berroco-crochet-patterns" data-gtp="patterns:brand:berroco">Berroco</a></li><li class=""><a href="http://www.lovecrochet.com/us/blue-sky-alpacas-crochet-patterns" data-gtp="patterns:brand:blue sky fibers">Blue Sky Fibers</a></li><li class=""><a href="http://www.lovecrochet.com/us/cascade-crochet-patterns" data-gtp="patterns:brand:cascade yarns">Cascade Yarns</a></li><li class=""><a href="http://www.lovecrochet.com/us/classic-elite-yarns-crochet-patterns" data-gtp="patterns:brand:classic elite yarns">Classic Elite Yarns</a></li><li class=""><a href="http://www.lovecrochet.com/us/crystal-palace-crochet-patterns" data-gtp="patterns:brand:crystal palace">Crystal Palace</a></li><li class=""><a href="http://www.lovecrochet.com/us/debbie-bliss-crochet-patterns" data-gtp="patterns:brand:debbie bliss">Debbie Bliss</a></li><li class=""><a href="http://www.lovecrochet.com/us/dmc-crochet-patterns" data-gtp="patterns:brand:dmc">DMC</a></li><li class=""><a href="http://www.lovecrochet.com/us/dy-choice-crochet-patterns" data-gtp="patterns:brand:dy choice">DY Choice</a></li><li class=""><a href="http://www.lovecrochet.com/us/ella-rae-crochet-patterns" data-gtp="patterns:brand:ella rae">Ella Rae</a></li><li class=""><a href="http://www.lovecrochet.com/us/erika-knight-crochet-patterns" data-gtp="patterns:brand:erika knight">Erika Knight</a></li><li class=""><a href="http://www.lovecrochet.com/us/hayfield-crochet-patterns" data-gtp="patterns:brand:hayfield">Hayfield</a></li><li class=""><a href="http://www.lovecrochet.com/us/imperial-yarn-crochet-patterns" data-gtp="patterns:brand:imperial yarn">Imperial Yarn</a></li><li class=""><a href="http://www.lovecrochet.com/us/independent-designers" data-gtp="patterns:brand:independent designer">Independent Designer</a></li><li class=""><a href="http://www.lovecrochet.com/us/katia-crochet-patterns" data-gtp="patterns:brand:katia">Katia</a></li><li class=""><a href="http://www.lovecrochet.com/us/king-cole-crochet-patterns" data-gtp="patterns:brand:king cole">King Cole</a></li><li class=""><a href="http://www.lovecrochet.com/us/lang-yarns-crochet-patterns" data-gtp="patterns:brand:lang yarns">Lang Yarns</a></li><li class=""><a href="http://www.lovecrochet.com/us/lily-sugar-and-cream-crochet-patterns" data-gtp="patterns:brand:lily sugar 'n cream">Lily Sugar 'n Cream</a></li><li class=""><a href="http://www.lovecrochet.com/us/lion-brand-crochet-patterns" data-gtp="patterns:brand:lion brand">Lion Brand</a></li><li class=""><a href="http://www.lovecrochet.com/us/manos-del-uruguay-crochet-patterns" data-gtp="patterns:brand:manos del uruguay">Manos del Uruguay</a></li><li class=""><a href="http://www.lovecrochet.com/us/misti-alpaca-crochet-patterns" data-gtp="patterns:brand:misti alpaca">Misti Alpaca</a></li><li class=""><a href="http://www.lovecrochet.com/us/paintbox-yarns-crochet-patterns" data-gtp="patterns:brand:paintbox yarns crochet patterns">Paintbox Yarns Crochet Patterns</a></li><li class=""><a href="http://www.lovecrochet.com/us/peter-pan-crochet-patterns" data-gtp="patterns:brand:peter pan">Peter Pan</a></li><li class=""><a href="http://www.lovecrochet.com/us/plymouth-yarn-crochet-patterns" data-gtp="patterns:brand:plymouth yarn">Plymouth Yarn</a></li><li class=""><a href="http://www.lovecrochet.com/us/red-heart-us-crochet-patterns" data-gtp="patterns:brand:red heart">Red Heart</a></li><li class=""><a href="http://www.lovecrochet.com/us/rico-crochet-patterns" data-gtp="patterns:brand:rico">Rico</a></li><li class=""><a href="http://www.lovecrochet.com/us/rooster-crochet-patterns" data-gtp="patterns:brand:rooster">Rooster</a></li><li class=""><a href="http://www.lovecrochet.com/us/rowan-crochet-patterns" data-gtp="patterns:brand:rowan">Rowan</a></li><li class=""><a href="http://www.lovecrochet.com/us/schachenmayr-crochet-patterns" data-gtp="patterns:brand:schachenmayr">Schachenmayr</a></li><li class=""><a href="http://www.lovecrochet.com/us/sirdar-crochet-patterns" data-gtp="patterns:brand:sirdar">Sirdar</a></li><li class=""><a href="http://www.lovecrochet.com/us/sirdar-snuggly-crochet-patterns" data-gtp="patterns:brand:sirdar snuggly">Sirdar Snuggly</a></li><li class=""><a href="http://www.lovecrochet.com/us/stylecraft-crochet-patterns" data-gtp="patterns:brand:stylecraft">Stylecraft</a></li><li class=""><a href="http://www.lovecrochet.com/us/twilleys-crochet-patterns" data-gtp="patterns:brand:twilleys">Twilleys</a></li><li class=""><a href="http://www.lovecrochet.com/us/wendy-crochet-patterns" data-gtp="patterns:brand:wendy">Wendy</a></li></ul></li><li class="single-column has-sub-menu"><a class="icon icon-chevron-right" href="http://www.lovecrochet.com/us/crochet-patterns-by-difficulty" data-gtp="patterns:difficulty:wendy">Difficulty</a><ul class="dropdown single-column"><li class=""><a href="http://www.lovecrochet.com/us/beginner-crochet-patterns" data-gtp="patterns:difficulty:beginner">Beginner</a></li><li class=""><a href="http://www.lovecrochet.com/us/intermediate-crochet-patterns" data-gtp="patterns:difficulty:intermediate">Intermediate</a></li><li class=""><a href="http://www.lovecrochet.com/us/advanced-crochet-patterns" data-gtp="patterns:difficulty:advanced">Advanced</a></li></ul></li><li class=" has-sub-menu"><a class="icon icon-chevron-right" href="http://www.lovecrochet.com/us/crochet-patterns-by-yarn-weight" data-gtp="patterns:yarn weight:advanced">Yarn Weight</a><ul class="dropdown "><li class=""><a href="http://www.lovecrochet.com/us/lace-crochet-patterns" data-gtp="patterns:yarn weight:lace">Lace</a></li><li class=""><a href="http://www.lovecrochet.com/us/2-ply-crochet-patterns" data-gtp="patterns:yarn weight:2 ply">2 Ply</a></li><li class=""><a href="http://www.lovecrochet.com/us/3-ply-crochet-patterns" data-gtp="patterns:yarn weight:3 ply">3 Ply</a></li><li class=""><a href="http://www.lovecrochet.com/us/fingering-crochet-patterns" data-gtp="patterns:yarn weight:fingering">Fingering</a></li><li class=""><a href="http://www.lovecrochet.com/us/4-ply-crochet-patterns" data-gtp="patterns:yarn weight:4 ply">4 Ply</a></li><li class=""><a href="http://www.lovecrochet.com/us/dk-crochet-patterns" data-gtp="patterns:yarn weight:dk">DK</a></li><li class=""><a href="http://www.lovecrochet.com/us/aran-crochet-patterns" data-gtp="patterns:yarn weight:aran">Aran</a></li><li class=""><a href="http://www.lovecrochet.com/us/chunky-crochet-patterns" data-gtp="patterns:yarn weight:chunky">Chunky</a></li><li class=""><a href="http://www.lovecrochet.com/us/super-chunky-crochet-patterns" data-gtp="patterns:yarn weight:super chunky">Super Chunky</a></li><li class=""><a href="http://www.lovecrochet.com/us/thread-crochet-patterns" data-gtp="patterns:yarn weight:thread">Thread</a></li><li class=""><a href="http://www.lovecrochet.com/us/varied-crochet-patterns" data-gtp="patterns:yarn weight:varied">Varied</a></li></ul></li><li class=" has-sub-menu"><a class="icon icon-chevron-right" href="http://www.lovecrochet.com/us/crochet-patterns-by-recipient" data-gtp="patterns:for:varied">For</a><ul class="dropdown "><li class=""><a href="http://www.lovecrochet.com/us/adults-crochet-patterns" data-gtp="patterns:for:adults">Adults</a></li><li class=""><a href="http://www.lovecrochet.com/us/babies-crochet-patterns" data-gtp="patterns:for:babies">Babies</a></li><li class=""><a href="http://www.lovecrochet.com/us/boys-crochet-patterns" data-gtp="patterns:for:boys">Boys</a></li><li class=""><a href="http://www.lovecrochet.com/us/children-crochet-patterns" data-gtp="patterns:for:children">Children</a></li><li class=""><a href="http://www.lovecrochet.com/us/christmas-crochet-patterns" data-gtp="patterns:for:christmas crochet patterns">Christmas Crochet Patterns</a></li><li class=""><a href="http://www.lovecrochet.com/us/easter-crochet-patterns" data-gtp="patterns:for:easter">Easter</a></li><li class=""><a href="http://www.lovecrochet.com/us/girls-crochet-patterns" data-gtp="patterns:for:girls">Girls</a></li><li class=""><a href="http://www.lovecrochet.com/us/home-crochet-patterns" data-gtp="patterns:for:home">Home</a></li><li class=""><a href="http://www.lovecrochet.com/us/men-crochet-patterns" data-gtp="patterns:for:men">Men</a></li><li class=""><a href="http://www.lovecrochet.com/us/pets-crochet-patterns" data-gtp="patterns:for:pets">Pets</a></li><li class=""><a href="http://www.lovecrochet.com/us/plus-size-crochet-patterns" data-gtp="patterns:for:plus size">Plus Size</a></li><li class=""><a href="http://www.lovecrochet.com/us/women-crochet-patterns" data-gtp="patterns:for:women">Women</a></li></ul></li><li class=""><a class="" href="http://www.lovecrochet.com/us/mermaid-tail-blankets" data-gtp="patterns:mermaid tail blankets:women">Mermaid tail blankets</a></li><li class=""><a class="" href="http://www.lovecrochet.com/us/independent-designers" data-gtp="patterns:indie patterns:women">Indie Patterns</a></li><li class=""><a class="" href="http://www.lovecrochet.com/us/free-crochet-patterns" data-gtp="patterns:free patterns:women">Free Patterns</a></li><li class=""><a class="" href="http://www.lovecrochet.com/us/top-crochet-pattern-picks" data-gtp="patterns:top crochet pattern picks:women">Top Crochet Pattern Picks</a></li><li class=""><a class="" href="http://www.lovecrochet.com/us/kitted-crochet-patterns" data-gtp="patterns:crochet kits:women">Crochet Kits</a></li><li class=" see-all"><a class="" href="http://www.lovecrochet.com/us/crochet-patterns" data-gtp="patterns:all patterns:women">All Patterns</a></li></ul></li><li class=" has-dropdown"><a href="http://www.lovecrochet.com/us/crochet-supplies-link" data-gtp="tools &amp; supplies">Tools &amp; Supplies</a><ul><li class=" has-sub-menu"><a class="icon icon-chevron-right" href="http://www.lovecrochet.com/us/crochet-hooks" data-gtp="tools &amp; supplies:hooks">Hooks</a><ul class="dropdown "><li class=" has-children"><a href="http://www.lovecrochet.com/us/crochet-hooks-by-brand" data-gtp="tools &amp; supplies:hooks:brand">Brand</a><ul><li><a href="http://www.lovecrochet.com/us/addi-crochet-hooks" data-gtp="tools &amp; supplies:hooks:brand:addi">Addi</a></li><li><a href="http://www.lovecrochet.com/us/knit-pro-crochet-hooks" data-gtp="tools &amp; supplies:hooks:brand:knitpro">KnitPro</a></li><li><a href="http://www.lovecrochet.com/us/loopy-mango-crochet-hooks" data-gtp="tools &amp; supplies:hooks:brand:loopy mango">Loopy Mango</a></li><li><a href="http://www.lovecrochet.com/us/pony-crochet-hooks" data-gtp="tools &amp; supplies:hooks:brand:pony">Pony</a></li><li><a href="http://www.lovecrochet.com/us/boye-crochet-hooks" data-gtp="tools &amp; supplies:hooks:brand:boye">Boye</a></li><li><a href="http://www.lovecrochet.com/us/denise-crochet-hooks" data-gtp="tools &amp; supplies:hooks:brand:denise">Denise</a></li><li><a href="http://www.lovecrochet.com/us/laurel-hill-crochet-hooks" data-gtp="tools &amp; supplies:hooks:brand:laurel hill">Laurel Hill</a></li><li><a href="http://www.lovecrochet.com/us/susan-bates-crochet-hooks" data-gtp="tools &amp; supplies:hooks:brand:susan bates">Susan Bates</a></li></ul></li><li class=" has-children"><a href="http://www.lovecrochet.com/us/crochet-hooks-by-material" data-gtp="tools &amp; supplies:hooks:material">Material</a><ul><li><a href="http://www.lovecrochet.com/us/bamboo-crochet-hooks" data-gtp="tools &amp; supplies:hooks:material:bamboo">Bamboo</a></li><li><a href="http://www.lovecrochet.com/us/metal-crochet-hooks" data-gtp="tools &amp; supplies:hooks:material:metal">Metal</a></li><li><a href="http://www.lovecrochet.com/us/plastic-crochet-hooks" data-gtp="tools &amp; supplies:hooks:material:plastic">Plastic</a></li><li><a href="http://www.lovecrochet.com/us/wooden-crochet-hooks" data-gtp="tools &amp; supplies:hooks:material:wooden">Wooden</a></li></ul></li><li class=" has-children"><a href="http://www.lovecrochet.com/us/crochet-hooks-by-type" data-gtp="tools &amp; supplies:hooks:type">Type</a><ul><li><a href="http://www.lovecrochet.com/us/crochet-hook-sets" data-gtp="tools &amp; supplies:hooks:type:hook sets">Hook Sets</a></li><li><a href="http://www.lovecrochet.com/us/ergonomic-crochet-hooks" data-gtp="tools &amp; supplies:hooks:type:ergonomic crochet hooks">Ergonomic Crochet Hooks</a></li><li><a href="http://www.lovecrochet.com/us/standard-crochet-hooks" data-gtp="tools &amp; supplies:hooks:type:standard">Standard</a></li><li><a href="http://www.lovecrochet.com/us/knooks" data-gtp="tools &amp; supplies:hooks:type:knooks">Knooks</a></li><li><a href="http://www.lovecrochet.com/us/tunisian-crochet-hooks" data-gtp="tools &amp; supplies:hooks:type:tunisian">Tunisian</a></li><li><a href="http://www.lovecrochet.com/us/tunisian-interchangeable-crochet-hooks" data-gtp="tools &amp; supplies:hooks:type:tunisian interchangeable">Tunisian Interchangeable</a></li></ul></li></ul></li><li class=" has-sub-menu"><a class="icon icon-chevron-right" href="http://www.lovecrochet.com/us/crochet-books" data-gtp="tools &amp; supplies:books">Books</a><ul class="dropdown "><li class=" has-children"><a href="http://www.lovecrochet.com/us/crochet-books-by-format" data-gtp="tools &amp; supplies:books:format">Format</a><ul><li><a href="http://www.lovecrochet.com/us/booklets-crochet-books" data-gtp="tools &amp; supplies:books:format:booklets">Booklets</a></li><li><a href="http://www.lovecrochet.com/us/hardbacks-crochet-books" data-gtp="tools &amp; supplies:books:format:hardbacks">Hardbacks</a></li><li><a href="http://www.lovecrochet.com/us/magazines-crochet-books" data-gtp="tools &amp; supplies:books:format:magazines">Magazines</a></li><li><a href="http://www.lovecrochet.com/us/paperbacks-crochet-books" data-gtp="tools &amp; supplies:books:format:paperbacks">Paperbacks</a></li></ul></li><li class=" has-children"><a href="http://www.lovecrochet.com/us/crochet-books-by-genre" data-gtp="tools &amp; supplies:books:genre">Genre</a><ul><li><a href="http://www.lovecrochet.com/us/accessories-crochet-books" data-gtp="tools &amp; supplies:books:genre:accessories">Accessories</a></li><li><a href="http://www.lovecrochet.com/us/beginners-crochet-books" data-gtp="tools &amp; supplies:books:genre:beginners">Beginners</a></li><li><a href="http://www.lovecrochet.com/us/children-crochet-books" data-gtp="tools &amp; supplies:books:genre:children">Children</a></li><li><a href="http://www.lovecrochet.com/us/clothing-crochet-books" data-gtp="tools &amp; supplies:books:genre:clothing">Clothing</a></li><li><a href="http://www.lovecrochet.com/us/home-crochet-books" data-gtp="tools &amp; supplies:books:genre:home">Home</a></li><li><a href="http://www.lovecrochet.com/us/skills-and-techniques-crochet-books" data-gtp="tools &amp; supplies:books:genre:skills &amp; techniques">Skills &amp; Techniques</a></li><li><a href="http://www.lovecrochet.com/us/toys-crochet-books" data-gtp="tools &amp; supplies:books:genre:toys">Toys</a></li></ul></li><a data-gtp="tools &amp; supplies:books:viewall" href="http://www.lovecrochet.com/us/crochet-books" class="lnk-viewall">View all books</a></ul></li><li class=" has-sub-menu"><a class="icon icon-chevron-right" href="http://www.lovecrochet.com/us/crochet-accessories" data-gtp="tools &amp; supplies:accessories">Accessories</a><ul class="dropdown "><li class=" has-children"><a href="http://www.lovecrochet.com/us/create-and-make" data-gtp="tools &amp; supplies:accessories:create and make">Create and Make</a><ul><li><a href="http://www.lovecrochet.com/us/felting" data-gtp="tools &amp; supplies:accessories:create and make:felting">Felting</a></li><li><a href="http://www.lovecrochet.com/us/little-extras" data-gtp="tools &amp; supplies:accessories:create and make:little extras">Little Extras</a></li><li><a href="http://www.lovecrochet.com/us/looms" data-gtp="tools &amp; supplies:accessories:create and make:looms">Looms</a></li><li><a href="http://www.lovecrochet.com/us/pom-pom-makers" data-gtp="tools &amp; supplies:accessories:create and make:pom-pom makers">Pom-Pom Makers</a></li></ul></li><li class=" has-children"><a href="http://www.lovecrochet.com/us/crochet-accessories-essentials" data-gtp="tools &amp; supplies:accessories:essential accessories">Essential Accessories</a><ul><li><a href="http://www.lovecrochet.com/us/fashion-accessories" data-gtp="tools &amp; supplies:accessories:essential accessories:fashion accessories">Fashion Accessories</a></li><li><a href="http://www.lovecrochet.com/us/hook-cases" data-gtp="tools &amp; supplies:accessories:essential accessories:hook cases">Hook Cases</a></li><li><a href="http://www.lovecrochet.com/us/zippers" data-gtp="tools &amp; supplies:accessories:essential accessories:zippers">Zippers</a></li><li><a href="http://www.lovecrochet.com/us/row-counters" data-gtp="tools &amp; supplies:accessories:essential accessories:row counters">Row Counters</a></li><li><a href="http://www.lovecrochet.com/us/stitch-holders" data-gtp="tools &amp; supplies:accessories:essential accessories:stitch holders">Stitch Holders</a></li><li><a href="http://www.lovecrochet.com/us/stitch-markers" data-gtp="tools &amp; supplies:accessories:essential accessories:stitch markers">Stitch Markers</a></li><li><a href="http://www.lovecrochet.com/us/tapestry-needles" data-gtp="tools &amp; supplies:accessories:essential accessories:tapestry needles">Tapestry Needles</a></li></ul></li><li class=" has-children"><a href="http://www.lovecrochet.com/us/crochet-buttons" data-gtp="tools &amp; supplies:accessories:buttons">Buttons</a><ul><li><a href="http://www.lovecrochet.com/us/all-buttons" data-gtp="tools &amp; supplies:accessories:buttons:all buttons">All Buttons</a></li><li><a href="http://www.lovecrochet.com/us/metal-buttons" data-gtp="tools &amp; supplies:accessories:buttons:metal">Metal</a></li><li><a href="http://www.lovecrochet.com/us/plastic-buttons" data-gtp="tools &amp; supplies:accessories:buttons:plastic">Plastic</a></li><li><a href="http://www.lovecrochet.com/us/shell-buttons" data-gtp="tools &amp; supplies:accessories:buttons:shell">Shell</a></li><li><a href="http://www.lovecrochet.com/us/toggles" data-gtp="tools &amp; supplies:accessories:buttons:toggles">Toggles</a></li><li><a href="http://www.lovecrochet.com/us/wooden-buttons" data-gtp="tools &amp; supplies:accessories:buttons:wooden">Wooden</a></li></ul></li></ul></li><li class=""><a class="" href="http://www.lovecrochet.com/us/gifts-for-crocheters" data-gtp="tools &amp; supplies:gifts for crocheters">Gifts for Crocheters</a></li></ul></li><li class="menu-sale-category"><a href="http://www.lovecrochet.com/us/christmas" data-gtp="holiday">Holiday</a></li>                        <li class="community"><a href="/us/projects" data-gtp="community">Community</a></li>
+                                                    <li class="blog"><a href="http://blog.lovecrochet.com/" data-gtp="blog"><span>Blog</span></a></li>
+                                            </ul>
                 </div>
-                            </div>
-        </div>
-    </div>
+                <div class="menu-footer">
+                    <a href="http://help.loveknitting.com/hc/en-us">Help</a>
+                    <a href="https://help.loveknitting.com/hc/en-us/requests/new">Contact Us</a>
+                    <a href="/apps">Download Our App</a>
+                </div>
+                <a class="toggle search-toggle icon icon-magnifying-glass"></a>
+            </nav>
+
+            <form class="search" method="get" action="//www.lovecrochet.com/us/catalogsearch/result/">
+                <input type="hidden" name="order" value="relevance">
+                <input type="hidden" name="dir" value="desc">
+                <input type="search" name="q" placeholder="Search products">
+                <button type="submit">
+                    <span class="icon icon-magnifying-glass"></span> <span class="audible-only">Search products</span>
+                </button>
+            </form>
+            </div>
 </header>
 
+<div id="menu-blackout"></div>
+<div id="menu-band-bg"><div class="wrapper"></div></div>
 
-<script>
-    (function() {
-        var form = document.querySelector('header form.search');
-        if (form) {
-            form.addEventListener('submit', function (e) {
-                var input = e.target.querySelector('[name=q]');
-
-                if (!input.value) {
-                    input.focus();
-                    e.preventDefault();
-                }
-            });
-        }
-    }());
-
-    (function() {
-        var navTrack = function(e){
-            var target = e.target || e.srcElement;
-
-            if (target.nodeName === 'SPAN') {
-                target = target.parentNode;
-            }
-
-            if (target.nodeName === 'A') {
-                var atts = target.attributes,
-                    len = target.attributes.length;
-
-                for (i=0; i < len; i++) {
-                    if(atts[i].nodeName == 'data-gtp') {
-                        report(atts[i].nodeValue);
-                        break;
-                    }
-                }
-            }
-            return true;
-        }
-
-        function report(data) {
-            dataLayer.push({
-                'event': 'headerNavClick',
-                'category': 'topnav',
-                'action': 'click',
-                'label': data,
-                'navEventCategory': 'topnav',
-                'navEventAction': 'click',
-                'navEventLabel': data
-            });
-        }
-
-        document.addEventListener('DOMContentLoaded', function(event){
-            var pn = document.getElementById('new-header').getElementsByClassName('primary-nav')[0];
-            if (pn) {
-                pn.addEventListener('click', navTrack, false);
-            }
-        });
-    }());
-</script>
  
 <!-- ESI END DUMMY COMMENT [] -->
     <!-- breadcrumbs -->
-    <nav class="breadcrumbs">
-        <ul>
-                            <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-                    <span itemprop="title">Home</span>
-                </li>
-                                <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-                    <span itemprop="title">Privacy Policy</span>
-                </li>
-                        </ul>
+    <nav class="breadcrumbs-nav" id="breadcrumbs">
+        <div class="breadcrumbs-nav-wrapper">
+            <ol itemscope="" itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs">
+                                        <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                            <a itemprop="item" href="http://www.lovecrochet.com/us/">
+                                <span itemprop="name">Home</span>
+                            </a>
+                            <meta itemprop="position" content="1">
+                        </li>
+                                            <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                            <span itemprop="name">Privacy Policy</span>
+                            <meta itemprop="position" content="2">
+                        </li>
+                                </ol>
+        </div>
     </nav>
     <!-- breadcrumbs end -->
 
-<div id="main">
+<div id="main" class="lc-container">
             <div class="wrapper">
         <div class="content">
             <div class="std"><div class="static-template terms">
@@ -441,9 +423,9 @@ optionalZipCountries = ["HK","IE","MO","PA"];
                     about you when you visit our website and use our services.
                 </p>
             </div>
-            <p>This Privacy Policy was last updated on 1 February 2016. This is the privacy policy for Lovecrafts
+            <p>This Privacy Policy was last updated on 11 August 2016. This is the privacy policy for Lovecrafts
                 Collective Limited, incorporated and registered in England and Wales (Company No. 07193527), whose
-                registered office is at 6th Floor Corinthian House, 279 Tottenham Court Road, London, W1T 7RJ, trading
+                registered office is at 7th Floor, 10 Bloomsbury Way, London, WC1A 2SL, trading
                 via its subsidiaries as loveknitting.com and lovecrochet.com (“Lovecrafts”, “we”, “us”)
                 and who is the data controller for the purposes of the Data Protection Act 1998. We are committed to
                 protecting and respecting the privacy rights of our online visitors (“you”).
@@ -530,18 +512,19 @@ optionalZipCountries = ["HK","IE","MO","PA"];
                     your device.
                 </li>
                 <li>To administer the Services and, if applicable, your Public Profile.</li>
-                <li>If you consent, to send you marketing that may be of interest to you.</li>
+                <li>If you consent, to send you marketing that may be of interest to you.*</li>
             </ul>
             <p>We may record and monitor communications between you and us to ensure quality assurance and
                 compliance.
             </p>
 
-            <p>If you subscribe for our newsletters or otherwise agree to receive marketing from us, we may send you
-                email alerts for new sales event launches, products, features, enhancements, special offers, upgrade
+            <p>*If you subscribe for our newsletters, create an account on one of our websites or associated mobile applications or otherwise agree
+                to receive marketing from us, we may send you
+                email alerts and or push notifications for new sales event launches, products, features, enhancements, special offers, upgrade
                 opportunities, events of interest, and one-off marketing promotions. Such alerts may include marketing
                 information about us, our subsidiaries or selected business partners. At any time you can unsubscribe
-                from our contact list by following the unsubscribe instructions on communications sent to you or by
-                contacting us.
+                from our contact list by following the unsubscribe instructions on communications sent to you, by
+                contacting us or by unsubscribing via your account and disable push notifications by changing the settings on your device.
             </p>
         </div>
         <div class="section pink">
@@ -602,7 +585,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
                     living at the same address with whom you are financially linked. If you need details of fraud
                     prevention or credit agencies from which we obtain and with which we record information about you,
                     please write to us at
-                    <br>6th Floor Corinthian House, 279 Tottenham Court Road, London, W1T 7RJ
+                    <br>7th Floor, 10 Bloomsbury Way, London, WC1A 2SL,
                 </li>
             </ul>
             <p>We may disclose aggregate statistics about users of our Services to prospective partners,
@@ -675,9 +658,9 @@ optionalZipCountries = ["HK","IE","MO","PA"];
                 risk. Any online payment transactions will be encrypted using Secure Sockets Layer (SSL) encryption
                 technology.</p>
 
-            <p>We store only the last four digits of your credit or debit card and use only these in any communications
-                with you. The entire card number is, of course, transmitted to the appropriate credit card company to
-                process your order.</p>
+       <p>We do not  store your credit or debit card details, except as follows, and with your consent.  </p>
+
+<p>If you consent (to avoid the need to re-enter these details each time you shop with us, and so make purchasing quicker and simpler), we will store an encrypted token that represents your payment card and will reveal only the last four digits and expiry date of your credit or debit card number when confirming an order. We also display the last four digits of your credit card and card type on your receipt. Only these details are stored on our systems and an encrypted token which is unique to our Website. Your full credit or debit card number is never stored on any of our systems. This token is transmitted to the payment provider during the order processing.  If you have chosen not to register your card details with us, we will only store the last four digits for the purpose of our communications with you, but for the purpose of a transaction, the entire card number is, of course, transmitted to the appropriate credit card company to process your order.  Security codes (CVC) are never stored and will have to be entered for every transaction.</p>
 
             <p>You should protect your password and your computer from unauthorised access by others, and always make
                 sure you sign off when you finish on a shared computer.</p>
@@ -715,8 +698,8 @@ optionalZipCountries = ["HK","IE","MO","PA"];
             </div>
             <p>If you have any questions, comments or requests concerning our Privacy Policy or any requests concerning
                 your personal information, please contact us emailing at <a href="mailto:info@loveknitting.com">info@loveknitting.com</a>
-                or <a href="mailto:info@lovecrochet.com">info@lovecrochet.com</a> as applicable or write to us at: 6th
-                Floor Corinthian House, 279 Tottenham Court Road, London, W1T 7RJ.</p>
+                or <a href="mailto:info@lovecrochet.com">info@lovecrochet.com</a> as applicable or write to us at:
+               7th Floor, 10 Bloomsbury Way, London, WC1A 2SL.</p>
         </div>
     </div>
     <!--box-static end-->
@@ -731,7 +714,8 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 		<div class="sitemap">
 			<div class="col"><strong class="col-title">Your Purchase</strong> 
 <ul>
-<li><a href="http://www.lovecrochet.com/us/terms-and-conditions.html">Terms &amp; Conditions</a></li>
+<li><a href="http://www.lovecrochet.com/us/terms-of-use">Terms of Use</a></li>
+<li><a href="http://www.lovecrochet.com/us/terms-of-sale">Terms of Sale</a></li>
 <li><a href="http://www.lovecrochet.com/us/privacy-policy.html">Privacy Policy</a></li>
 <li><a href="http://www.lovecrochet.com/us/security.html">Security</a></li>
 <li><a href="http://www.lovecrochet.com/us/delivery.html">Shipping</a></li>
@@ -745,8 +729,9 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <li><a href="http://www.lovecrochet.com/us/crochet-hooks">Crochet Hooks</a></li>
 <li><a href="http://www.lovecrochet.com/us/crochet-patterns">Crochet Patterns</a></li>
 <li><a href="http://www.lovecrochet.com/us/crochet-books">Crochet Books</a></li>
-<li><a href="http://www.lovecrochet.com/us/crochet-buttons">Crochet Buttons</a></li>
 <li><a href="http://www.lovecrochet.com/us/crochet-accessories">Crochet Accessories</a></li>
+<li><a href="http://www.lovecrochet.com/us/lovecrochet-egift-card">eGift Cards</a></li>
+<li><a href="http://www.lovecrochet.com/us/hottags">HotTags</a></li>
 </ul>
 </div>
 <div class="col"><strong class="col-title">Who We Are</strong> 
@@ -755,13 +740,14 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <li><a href="http://www.lovecrochet.com/us/our-values">Our Values</a></li>
 <li><a href="http://www.lovecrochet.com/us/press">Press</a></li>
 <li><a href="https://help.loveknitting.com/hc/en-us/requests/new">Contact Us</a></li>
-<li><a href="http://blog.loveknitting.com">Blog</a></li>
+<li><a href="http://affiliate.lovecrochet.com">Affiliates</a></li>
+<li><a href="http://designers.loveknitting.com">Sell Your Patterns</a></li>
 <li><a href="http://www.lovecrafts.com/jobs/">Jobs</a></li>
 </ul>
 </div>				<div class="col">
 		<strong class="col-title">Customer feedback</strong>
         <a class="feefo-text" href="http://www.feefo.com/feefo/viewvendor.jsp?logon=www.broadmargins.com/loveknitting" onclick="popWin('http://www.feefo.com/feefo/viewvendor.jsp?logon=www.broadmargins.com/loveknitting', 'Feefo reviews', 'width=1000, height=600, toolbar=no, location=no, scrollbars=1'); return false;" target="_blank">
-			<span class="percent">99%</span>
+			<span class="percent">98%</span>
 			<span class="feefo-logo">feefo</span>
 			Only smiles with LoveCrochet		</a>
 	</div>
@@ -786,9 +772,9 @@ optionalZipCountries = ["HK","IE","MO","PA"];
                                         <option value="FR" data-store="15">France (EUR €)</option>
                                         <option value="IE" data-store="15">Ireland (EUR €)</option>
                                         <option value="NZ" data-store="15">New Zealand (NZD NZ$)</option>
-                                        <option value="NO" data-store="15">Norway (NOK Nkr)</option>
+                                        <option value="NO" data-store="15">Norway (NOK )</option>
                                         <option value="ES" data-store="15">Spain (EUR €)</option>
-                                        <option value="SE" data-store="15">Sweden (SEK Skr)</option>
+                                        <option value="SE" data-store="15">Sweden (SEK )</option>
                                         <option value="GB" data-store="15">United Kingdom (GBP £)</option>
                                         <option value="US" data-store="16">United States (USD $)</option>
                                             	<option value="--" disabled="disabled">----------------</option>
@@ -838,7 +824,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
                                         <option value="CL" data-store="16">Chile (USD $)</option>
                                         <option value="CN" data-store="15">China (USD $)</option>
                                         <option value="CX" data-store="15">Christmas Island (USD $)</option>
-                                        <option value="CC" data-store="15">Cocos [Keeling] Islands (USD $)</option>
+                                        <option value="CC" data-store="15">Cocos (Keeling) Islands (USD $)</option>
                                         <option value="CO" data-store="16">Colombia (USD $)</option>
                                         <option value="KM" data-store="15">Comoros (USD $)</option>
                                         <option value="CG" data-store="15">Congo - Brazzaville (USD $)</option>
@@ -850,7 +836,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
                                         <option value="CY" data-store="15">Cyprus (EUR €)</option>
                                         <option value="CZ" data-store="15">Czech Republic (EUR €)</option>
                                         <option value="CI" data-store="15">Côte d’Ivoire (USD $)</option>
-                                        <option value="DK" data-store="15">Denmark (DKK Dkr)</option>
+                                        <option value="DK" data-store="15">Denmark (DKK )</option>
                                         <option value="DJ" data-store="15">Djibouti (USD $)</option>
                                         <option value="DM" data-store="16">Dominica (USD $)</option>
                                         <option value="DO" data-store="16">Dominican Republic (USD $)</option>
@@ -874,7 +860,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
                                         <option value="GE" data-store="15">Georgia (USD $)</option>
                                         <option value="DE" data-store="15">Germany (EUR €)</option>
                                         <option value="GH" data-store="15">Ghana (USD $)</option>
-                                        <option value="GI" data-store="15">Gibraltar (USD $)</option>
+                                        <option value="GI" data-store="15">Gibraltar (GBP £)</option>
                                         <option value="GR" data-store="15">Greece (EUR €)</option>
                                         <option value="GL" data-store="16">Greenland (USD $)</option>
                                         <option value="GD" data-store="16">Grenada (USD $)</option>
@@ -939,7 +925,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
                                         <option value="MS" data-store="16">Montserrat (USD $)</option>
                                         <option value="MA" data-store="15">Morocco (USD $)</option>
                                         <option value="MZ" data-store="15">Mozambique (USD $)</option>
-                                        <option value="MM" data-store="15">Myanmar [Burma] (USD $)</option>
+                                        <option value="MM" data-store="15">Myanmar (Burma) (USD $)</option>
                                         <option value="NA" data-store="15">Namibia (USD $)</option>
                                         <option value="NR" data-store="15">Nauru (USD $)</option>
                                         <option value="NP" data-store="15">Nepal (USD $)</option>
@@ -954,7 +940,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
                                         <option value="NF" data-store="15">Norfolk Island (USD $)</option>
                                         <option value="KP" data-store="15">North Korea (USD $)</option>
                                         <option value="MP" data-store="15">Northern Mariana Islands (USD $)</option>
-                                        <option value="NO" data-store="15">Norway (NOK Nkr)</option>
+                                        <option value="NO" data-store="15">Norway (NOK )</option>
                                         <option value="OM" data-store="15">Oman (USD $)</option>
                                         <option value="PK" data-store="15">Pakistan (USD $)</option>
                                         <option value="PW" data-store="15">Palau (USD $)</option>
@@ -1001,7 +987,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
                                         <option value="SR" data-store="16">Suriname (USD $)</option>
                                         <option value="SJ" data-store="15">Svalbard and Jan Mayen (USD $)</option>
                                         <option value="SZ" data-store="15">Swaziland (USD $)</option>
-                                        <option value="SE" data-store="15">Sweden (SEK Skr)</option>
+                                        <option value="SE" data-store="15">Sweden (SEK )</option>
                                         <option value="CH" data-store="15">Switzerland (EUR €)</option>
                                         <option value="SY" data-store="15">Syria (USD $)</option>
                                         <option value="ST" data-store="15">São Tomé and Príncipe (USD $)</option>
@@ -1041,7 +1027,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
                     </select>
     </form>
 </div>
-		<p class="paymethods"><a href="http://www.lovecrochet.com/us/security.html"><img class="img" src="http://cms.cdn.loveknitting.com/media/cms/payment_methods_na.png" alt="MasterCard Amex VISA PayPal Comodo"></a></p>		<p class="copyright">© LoveCrafts Inc. (or its affiliates) 2016 registered in Delaware (no. 5538708) whose registered office is at 2711 Centerville Road, Suite 400, Wilmington, Delaware 19808</p>
+		<p class="paymethods"><a href="http://www.lovecrochet.com/us/security.html"><img class="img" src="https://cms-loveknitting.global.ssl.fastly.net/media/cms/payment_methods_na.png" alt="MasterCard Amex VISA PayPal Comodo"></a></p><span style="text-align:center; font-size:12px;margin-top:14px;display:block;margin-bottom:-10px;">Visit our <a href="http://www.lovecrochet.com">UK site.</a></span>		<p class="copyright">© LoveCrafts Inc. (or its affiliates) 2016 registered in Delaware (no. 5538708) whose registered office is at 2711 Centerville Road, Suite 400, Wilmington, Delaware 19808.</p>
 	</div>
     <input type="hidden" id="amshopby-url">
 </footer>
@@ -1069,6 +1055,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 		'SALE': 'SALE',
 		'Out of Stock': 'Out of Stock'
 	};
+    window.LoveKnitting.domain = 'http://www.lovecrochet.com/us/';
 </script>
 
 <script type="text/javascript">
@@ -1085,9 +1072,6 @@ optionalZipCountries = ["HK","IE","MO","PA"];
                     'google_tag_params': window.google_tag_params
                 });
         }
-    }
-    else {
-        console.log('dataLayer[] is not intialized. Check if GTM is installed properly');
     }
 </script>
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script> 
@@ -1106,9 +1090,6 @@ optionalZipCountries = ["HK","IE","MO","PA"];
                     'google_tag_params': window.google_tag_params
                 });
         }
-    }
-    else {
-        console.log('dataLayer[] is not intialized. Check if GTM is installed properly');
     }
 </script>
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script><script>
@@ -1158,13 +1139,13 @@ optionalZipCountries = ["HK","IE","MO","PA"];
     var cookie_redirect = 1;
     var enable_cookie_url = "http://www.lovecrochet.com/us/enable-cookies/";
     
-    var js_bundle_url = "http://skin2.cdn.loveknitting.com/skin/frontend/broadmargins/default/js/bundle.js";
-    var js_varien_product_url = "http://skin2.cdn.loveknitting.com/js/varien/product.js";
-    var js_varien_calendar_url = "http://skin2.cdn.loveknitting.com/js/calendar/calendar.js";
-    var js_varien_calendar_setup_url = "http://skin2.cdn.loveknitting.com/js/calendar/calendar-setup.js";
+    var js_bundle_url = "https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js/bundle.js";
+    var js_varien_product_url = "https://skin-loveknitting.global.ssl.fastly.net/js/varien/product.js";
+    var js_varien_calendar_url = "https://skin-loveknitting.global.ssl.fastly.net/js/calendar/calendar.js";
+    var js_varien_calendar_setup_url = "https://skin-loveknitting.global.ssl.fastly.net/js/calendar/calendar-setup.js";
     
-    var js_skin_js_url = "http://skin2.cdn.loveknitting.com/skin/frontend/broadmargins/default/js";
-    var js_skin_css_url = "http://skin2.cdn.loveknitting.com/skin/frontend/broadmargins/default/css";
+    var js_skin_js_url = "https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/default/js";
+    var js_skin_css_url = "https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/broadmargins/lovecrochet/css";
     
     var j2t_ajax_cart_on_show_option = '';
     var j2t_ajax_cart_on_show_confirm = 'AjaxCartCallback()';
@@ -1227,7 +1208,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 
 <div class="j2t-loading-data" id="j2t-loading-data" style="display: none;">
     <div class="j2t-ajax-child"> 
-                        <img alt="loading..." src="http://skin2.cdn.loveknitting.com/skin/frontend/base/default/images/j2t/ajax-loader-circle.gif">
+                        <img alt="loading..." src="https://skin-loveknitting.global.ssl.fastly.net/skin/frontend/base/default/images/j2t/ajax-loader-circle.gif">
         <p>loading...</p>
     </div>
 </div>
@@ -1253,12 +1234,13 @@ optionalZipCountries = ["HK","IE","MO","PA"];
         window.popupURLs = {
             'login': 'https://www.lovecrochet.com/us/customer/account/loginajax/',
             'makr': 'http://www.lovecrochet.com/us/popup/index/hellomaker/',
-            'subs': 'http://www.lovecrochet.com/us/newsletter/subscriber/popup/'
+            'subs': 'http://www.lovecrochet.com/us/newsletter/subscriber/popup/',
+            'sizeGuide': 'http://www.lovecrochet.com/us/kitbuilder/sizeguide/'
         };
     </script>
 <script type="text/javascript">
     var MultiStore_Selector = {
-        'storeUrls': {"16":"http:\/\/www.lovecrochet.com\/us\/multistore\/selector\/switch\/uenc\/aHR0cDovL3d3dy5sb3ZlY3JvY2hldC5jb20vdXMvcHJpdmFjeS1wb2xpY3kuaHRtbA,,\/","15":"http:\/\/www.lovecrochet.com\/multistore\/selector\/switch\/uenc\/aHR0cDovL3d3dy5sb3ZlY3JvY2hldC5jb20vcHJpdmFjeS1wb2xpY3kuaHRtbA,,\/"},
+        'storeUrls': {"16":"http:\/\/www.lovecrochet.com\/us\/multistore\/selector\/switch\/uenc\/aHR0cDovL3d3dy5sb3ZlY3JvY2hldC5jb20vdXMvcHJpdmFjeS1wb2xpY3kuaHRtbA,,\/","15":"http:\/\/www.lovecrochet.com\/us\/multistore\/selector\/switch\/uenc\/aHR0cDovL3d3dy5sb3ZlY3JvY2hldC5jb20vcHJpdmFjeS1wb2xpY3kuaHRtbA,,\/"},
         'userCountry': 'US'
     };
     jQuery(function($) {
@@ -1270,12 +1252,36 @@ optionalZipCountries = ["HK","IE","MO","PA"];
     });
 </script><script>
     window.LoveKnitting = window.LoveKnitting || {};
+    window.LoveKnitting.domain = 'http://www.lovecrochet.com/us/';
     window.LoveKnitting.config = window.LoveKnitting.config || {};
     window.LoveKnitting.config.facebook = {
         loginUrl: 'https://www.lovecrochet.com/us/facebook/customer/login/',
         scope: 'email,public_profile'
     };
 </script>
+    <script>
+        var _rollbarConfig = {
+            accessToken: '984bcb89e0214571a0f920c857602f44',
+            captureUncaught: true,
+            captureUnhandledRejections: true,
+            payload: {
+                environment: 'prod'
+            }
+        };
+        window.addEventListener('load', function() {
+            _rollbarConfig.payload.client = {
+                javascript: {
+                    source_map_enabled: true,
+                    code_version: window.LoveKnitting.version || 'undefined',
+                    guess_uncaught_frames: true
+                }
+            };
+            Rollbar.configure(_rollbarConfig);
+        });
+        // Rollbar Snippet
+        !function(r){function e(t){if(o[t])return o[t].exports;var n=o[t]={exports:{},id:t,loaded:!1};return r[t].call(n.exports,n,n.exports,e),n.loaded=!0,n.exports}var o={};return e.m=r,e.c=o,e.p="",e(0)}([function(r,e,o){"use strict";var t=o(1).Rollbar,n=o(2);_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://d37gvrvc0wt4s1.cloudfront.net/js/v1.9/rollbar.min.js";var a=t.init(window,_rollbarConfig),i=n(a,_rollbarConfig);a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,i)},function(r,e){"use strict";function o(r){return function(){try{return r.apply(this,arguments)}catch(e){try{console.error("[Rollbar]: Internal error",e)}catch(o){}}}}function t(r,e,o){window._rollbarWrappedError&&(o[4]||(o[4]=window._rollbarWrappedError),o[5]||(o[5]=window._rollbarWrappedError._rollbarContext),window._rollbarWrappedError=null),r.uncaughtError.apply(r,o),e&&e.apply(window,o)}function n(r){var e=function(){var e=Array.prototype.slice.call(arguments,0);t(r,r._rollbarOldOnError,e)};return e.belongsToShim=!0,e}function a(r){this.shimId=++c,this.notifier=null,this.parentShim=r,this._rollbarOldOnError=null}function i(r){var e=a;return o(function(){if(this.notifier)return this.notifier[r].apply(this.notifier,arguments);var o=this,t="scope"===r;t&&(o=new e(this));var n=Array.prototype.slice.call(arguments,0),a={shim:o,method:r,args:n,ts:new Date};return window._rollbarShimQueue.push(a),t?o:void 0})}function l(r,e){if(e.hasOwnProperty&&e.hasOwnProperty("addEventListener")){var o=e.addEventListener;e.addEventListener=function(e,t,n){o.call(this,e,r.wrap(t),n)};var t=e.removeEventListener;e.removeEventListener=function(r,e,o){t.call(this,r,e&&e._wrapped?e._wrapped:e,o)}}}var c=0;a.init=function(r,e){var t=e.globalAlias||"Rollbar";if("object"==typeof r[t])return r[t];r._rollbarShimQueue=[],r._rollbarWrappedError=null,e=e||{};var i=new a;return o(function(){if(i.configure(e),e.captureUncaught){i._rollbarOldOnError=r.onerror,r.onerror=n(i);var o,a,c="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(o=0;o<c.length;++o)a=c[o],r[a]&&r[a].prototype&&l(i,r[a].prototype)}return e.captureUnhandledRejections&&(i._unhandledRejectionHandler=function(r){var e=r.reason,o=r.promise,t=r.detail;!e&&t&&(e=t.reason,o=t.promise),i.unhandledRejection(e,o)},r.addEventListener("unhandledrejection",i._unhandledRejectionHandler)),r[t]=i,i})()},a.prototype.loadFull=function(r,e,t,n,a){var i=function(){var e;if(void 0===r._rollbarPayloadQueue){var o,t,n,i;for(e=new Error("rollbar.js did not load");o=r._rollbarShimQueue.shift();)for(n=o.args,i=0;i<n.length;++i)if(t=n[i],"function"==typeof t){t(e);break}}"function"==typeof a&&a(e)},l=!1,c=e.createElement("script"),d=e.getElementsByTagName("script")[0],p=d.parentNode;c.crossOrigin="",c.src=n.rollbarJsUrl,c.async=!t,c.onload=c.onreadystatechange=o(function(){if(!(l||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){c.onload=c.onreadystatechange=null;try{p.removeChild(c)}catch(r){}l=!0,i()}}),p.insertBefore(c,d)},a.prototype.wrap=function(r,e){try{var o;if(o="function"==typeof e?e:function(){return e||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._wrapped){r._wrapped=function(){try{return r.apply(this,arguments)}catch(e){throw e._rollbarContext=o()||{},e._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=e,e}},r._wrapped._isWrap=!0;for(var t in r)r.hasOwnProperty(t)&&(r._wrapped[t]=r[t])}return r._wrapped}catch(n){return r}};for(var d="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError,unhandledRejection".split(","),p=0;p<d.length;++p)a.prototype[d[p]]=i(d[p]);r.exports={Rollbar:a,_rollbarWindowOnError:t}},function(r,e){"use strict";r.exports=function(r,e){return function(o){if(!o&&!window._rollbarInitialized){var t=window.RollbarNotifier,n=e||{},a=n.globalAlias||"Rollbar",i=window.Rollbar.init(n,r);i._processShimQueue(window._rollbarShimQueue||[]),window[a]=i,window._rollbarInitialized=!0,t.processPayloads()}}}}]);
+        // End Rollbar Snippet
+    </script>
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TZ4LFT"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -1284,5 +1290,5 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-TZ4LFT');</script>
-<!-- End Google Tag Manager --><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e4d79d4fbf","applicationID":"6325472","transactionName":"M1BWMUJUXhFRBxdZWAoadxBDQV8PHwcOQxgUVFMAH0NZB0dES11YAEBYAAoVUw9DTQ==","queueTime":0,"applicationTime":317,"atts":"HxdVRwpOTR8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<!-- End Google Tag Manager -->
 </body></html>
