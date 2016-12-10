@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the lavasoft.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626061554id_/http%3A//www.lavasoft.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavasoft.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210135649id_/http%3A//www.lavasoft.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lavasoft
 
 Lavasoft Ltd is a leading actor within the IT security field and makes every effort to protect the privacy of the users of the Lavasoft web sites*, software, and mobile apps (the "Lavasoft Sites").* The overall purpose with this privacy policy (the "Privacy Policy") is to advise you ("You") of what type of personal information that Lavasoft collects about You as a result of Your use of the Lavasoft Sites, if any, and describe the limited purposes for which Lavasoft uses, processes and shares such collected information.
+
+This Privacy Policy concerns all products under the Lavasoft and Ad-Aware brands, including but not limited to "Ad-Aware Antivirus", "Ad-Aware Web Companion", "Ad-Aware Search Helper", "Ad-Aware New Tab", "Ad-Aware Ad Block" and "Ad-Aware Browser". 
 
 ##### Collection of Personal Information
 
@@ -170,6 +172,52 @@ Other
 
 
 
+##### Information collected by Ad-Aware Search Helper
+
+Ad-Aware Search Helper, a Chrome extension, does not collect personally identifiable information.
+
+During the installation of Ad-Aware Search Helper, non-personally identifiable information is collected to help improve the product and customer experience. This data may include geolocation, campaign tags, date and preferred search engine.
+
+Only Lavasoft and Google (via the Chrome extension store) have access to this data. Data is transmitted from the extension to Lavasoft over HTTPS and is protected with restricted access control and secure on-disk encoding.
+
+Lavasoft does not sell, trade or otherwise transfer non-personally identifiable information to outside parties.
+
+Lavasoft may use cookies to understand and save user’s preferences for future visits. We may compile aggregate data about Ad-Aware Search Helper interactions in order to offer better product experiences and features in the future. We may also use trusted third-party services that track or report this information on our behalf, such as Google Analytics. Disabling cookies in the browser may turn off or disable some of the features of the product.
+
+Occasionally, at our discretion, we may include or offer third-party products or services. These third-party products or services have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+Ad-Aware Search Helper is currently not Do Not Track (DNT) compatible. Lastly, we do not allow third-party behavioral tracking on Ad-Aware Search Helper.
+
+##### Information collected by Ad-Aware Ad Block
+
+Ad-Aware Ad Block add-on does not collect personally identifiable information.
+
+During the installation and use of Ad-Aware Ad Block, non-personally identifiable information is collected to help improve the product and customer experience. This data may include geolocation, campaign tags or date.
+
+Only Lavasoft has access to this data. Data is transmitted from the extension to Lavasoft over HTTPS and is protected with restricted access control and secure on-disk encoding.
+
+Lavasoft does not sell, trade or otherwise transfer personally identifiable information to outside parties.
+
+Lavasoft may use cookies to understand and save user’s preferences for future visits. We may compile aggregate data about Ad-Aware Ad Block interactions in order to offer better product experiences and features in the future. We may also use trusted third-party services that track or report this information on our behalf, such as Google Analytics.
+
+Occasionally, at our discretion, we may include or offer third-party products or services. These third-party products or services have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+##### Information collected by Ad-Aware New Tab
+
+Ad-Aware New Tab, a Chrome extension, does not collect personally identifiable information.
+
+During the installation of Ad-Aware New Tab, non-personally identifiable information is collected to help improve the product and customer experience. This data may include geolocation, campaign tags, date, preferred background and search engine.
+
+Only Lavasoft and Google (via the Chrome extension store) have access to this data. Data is transmitted from the extension to Lavasoft over HTTPS and is protected with restricted access control and secure on-disk encoding.
+
+Lavasoft does not sell, trade or otherwise transfer non-personally identifiable information to outside parties.
+
+Lavasoft may use cookies to understand and save user’s preferences for future visits. We may compile aggregate data about Ad-Aware New Tab interactions in order to offer better product experiences and features in the future. We may also use trusted third-party services that track or report this information on our behalf, such as Google Analytics. Disabling cookies in the browser may turn off or disable some of the features of the product.
+
+Occasionally, at our discretion, we may include or offer third-party products or services. These third-party products or services have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+Ad-Aware New Tab is currently not Do Not Track (DNT) compatible. Lastly, we do not allow third-party behavioral tracking on Ad-Aware New Tab.
+
 ##### Amendments of this Privacy Policy
 
 This Privacy Policy will be updated by Lavasoft on a regular basis. We therefore recommend that You check this Privacy Policy periodically for modifications. Lavasoft will indicate when the Privacy Policy has been updated by noting the "Last updated" date at the bottom of this Privacy Policy.
@@ -178,4 +226,4 @@ This Privacy Policy will be updated by Lavasoft on a regular basis. We therefore
 
 If You have any questions about this Privacy Policy , don't hesitate to [contact us](http://www.lavasoft.com/mylavasoft/company/contact).
 
-Last updated: October, 2015.
+Last updated: November, 2016.
