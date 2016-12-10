@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulksmsgateway.in privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616153211id_/http%3A//bulksmsgateway.in/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulksmsgateway.in privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210155157id_/http%3A//bulksmsgateway.in/privacypolicy.php) for the most accurate reproduction.*
 
 # Bulk SMS gateway - Bulk SMS, Transactional SMS, Promotional SMS
 
