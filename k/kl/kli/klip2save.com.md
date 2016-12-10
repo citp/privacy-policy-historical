@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klip2save.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615122920id_/http%3A//www.klip2save.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klip2save.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211004855id_/http%3A//www.klip2save.com/privacy-policy) for the most accurate reproduction.*
 
 # Klip2save Privacy Policy
 
