@@ -1,51 +1,72 @@
-<!--The following is the downloaded HTML source of the suse.com privacy policy that was archived on 2016-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617054539id_/https%3A//www.suse.com/company/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the suse.com privacy policy that was archived on 2016-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161210040052id_/https%3A//www.suse.com/company/policies/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-    	<title>Privacy Policy | SUSE</title>
+    			<title>Privacy Policy | SUSE</title>
 	<meta name="description" content="SUSE has been a leader and an active participant for years in many open source projects and open standards efforts. Learn more about our contributions here.">
 	<meta name="keywords" content="SUSE privacy policy">
-
+		
+<meta http-equiv="content-language" content="en-us">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <meta charset="utf-8">
-<link rel="icon" type="image/png" href="https://www.suse.com/favicon.ico">
 
+<!-- Google Tag Manager -->
+<script type="text/javascript" async="" src="//img.en25.com/i/elqCfg.min.js"></script><script async="" id="demandbase_js_lib" src="https://scripts.demandbase.com/N52iZFMl.min.js"></script><script async="" src="https://cdn.decibelinsight.net/i/11183/17538/di.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-D64V"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-D64V');</script>
+<!-- End Google Tag Manager -->
+
+				<link rel="alternate" href="https://www.suse.com/de-de/company/policies/privacy/" hreflang="de">
+							<link rel="alternate" href="https://www.suse.com/company/policies/privacy/" hreflang="en">
+							<link rel="alternate" href="https://www.suse.com/es-es/company/policies/privacy/" hreflang="es">
+							<link rel="alternate" href="https://www.suse.com/fr-fr/company/policies/privacy/" hreflang="fr">
+							<link rel="alternate" href="https://www.suse.com/zh-cn/company/policies/privacy/" hreflang="zh-cn">
+							<link rel="alternate" href="https://www.suse.com/ja-jp/company/policies/privacy/" hreflang="ja">
+							<link rel="alternate" href="https://www.suse.com/pt-br/company/policies/privacy/" hreflang="pt">
+			
+<link rel="icon" type="image/png" href="https://www.suse.com/favicon.ico">
 <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7197294/722748/css/fonts.css">
-<script type="text/javascript" async="" src="//img.en25.com/i/elqCfg.min.js"></script><script async="" id="demandbase_js_lib" src="https://scripts.demandbase.com/N52iZFMl.min.js"></script><script async="" src="https://cdn.decibelinsight.net/i/11183/17538/di.js"></script><script src="//autocomplete.demandbase.com/autocomplete/widget.js" type="text/javascript"></script>
+
+<script src="//autocomplete.demandbase.com/autocomplete/widget.js" type="text/javascript"></script>
 
 
 <link rel="stylesheet" href="https://www.suse.com/min/?b=assets/css&amp;f=bootstrap.css,font-awesome.css,helpers.css,main.css,lightslider.css,iefix.css,jquery-ui.min.css,featherlight.min.css,featherlight.gallery.min.css">
 
 <script type="text/javascript" src="https://www.suse.com/min/?b=assets/js&amp;f=jquery-2.1.3.min.js,demandbaseFormStd.js"></script>
 
-	<link rel="canonical" href="https://www.suse.com/company/policies/privacy">
+	<link rel="canonical" href="https://www.suse.com/company/policies/privacy/">
 
 <script type="text/javascript">
-	var demandbase_data_promise = jQuery.ajax({
-		type: 'get',
-		url: 'https://www.suse.com/demandbase-data',
-		data: {},
-		dataType: 'json',
-		success: function(data) {
-//			console.log('===============================');
-//			console.log(data);
-//			console.log('===============================');
-		},
-		error: function() {}
-	});
+	var demandbase_data_promise = jQuery.Deferred();
+	if ( sessionStorage.getItem('demandbase_data') ) {
+		demandbase_data_promise.responseJSON = JSON.parse(sessionStorage.getItem('demandbase_data'));
+		demandbase_data_promise.resolve(demandbase_data_promise.responseJSON);
+	} else {
+		demandbase_data_promise = jQuery.ajax({
+			type: 'get',
+			url: 'https://www.suse.com/demandbase-data/',
+			dataType: 'json',
+		}).done(function(data) {
+			if ( data.ip && data.country ) {
+				sessionStorage.setItem('demandbase_data',JSON.stringify(data));
+			}
+		});
+	}
 	var isLoggedIn = false;
 	function setLoginStatus() {
-	    var cks = document.cookie.split(';');
-	    for(var i=0; i < cks.length; i++) {
-	        var c = cks[i];
-	        while(c.charAt(0)===' ') {
-	            c = c.substring(1,c.length);
-	        }
-	        if(c.indexOf("IPC")===0 && c.indexOf("=")==16) {
-	            isLoggedIn  = true;
-	        }
-	    }
+		var cks = document.cookie.split(';');
+		for(var i=0; i < cks.length; i++) {
+			var c = cks[i];
+			while(c.charAt(0)===' ') {
+				c = c.substring(1,c.length);
+			}
+			if(c.indexOf("IPC")===0 && c.indexOf("=")==16) {
+				isLoggedIn  = true;
+			}
+		}
 	}
 	setLoginStatus();
 	if (isLoggedIn) {
@@ -55,10 +76,10 @@
 			data: {},
 			xhrFields: {withCredentials: true},
 			success: function(data) {
-	//			console.log(data); 
+	//			console.log(data);
 	//			console.log(typeof data.isLoggedIn);
 				if (typeof data.isLoggedIn == 'string' && data.isLoggedIn == "true") {
-					console.log('came into the success'); 
+
 	//				var randomNum = Math.floor((Math.random()*100)+1);
 	//				var authImage_novell = new Image();
 	//				authImage_novell.src = "https://secure-www" + ((isTest) ? "test.provo" : ((isStage) ? "stage.provo" : "")) + ".novell.com/common/util/secure/pixel.png?r="+randomNum;
@@ -70,14 +91,13 @@
 	//				console.log('not authenticated');
 				}
 			},
-			error: function() { 
-	//			console.log('came into the error'); 
+			error: function() {
+	//			console.log('came into the error');
 			},
 			dataType: 'json'
 		});
 	}
 </script>
-
 
 <!-- start universal analytics -->
 <script type="text/javascript" src="https://www.suse.com/common/inc/js/universal_analytics.js"></script>
@@ -85,19 +105,19 @@
 
 <script type="text/javascript">
 	// Eloqua Tracking
-    var _elqQ = _elqQ || [];
-    _elqQ.push(['elqSetSiteId', '1163']);
-    _elqQ.push(['elqTrackPageView']);
-    
-    (function () {
-        function async_load() {
-            var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
-            s.src = '//img.en25.com/i/elqCfg.min.js';
-            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
-        }
-        if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
-        else if (window.attachEvent) window.attachEvent('onload', async_load); 
-    })();
+	var _elqQ = _elqQ || [];
+	_elqQ.push(['elqSetSiteId', '1163']);
+	_elqQ.push(['elqTrackPageView']);
+
+	(function () {
+		function async_load() {
+			var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+			s.src = '//img.en25.com/i/elqCfg.min.js';
+			var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+		}
+		if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
+		else if (window.attachEvent) window.attachEvent('onload', async_load);
+	})();
 </script>
 
 <!-- Decibel Insight - www.suse.com -->
@@ -115,20 +135,32 @@ el=e.createElement(c),it=e.getElementsByTagName(c)[0];el.async=1;el.src=i;it.par
 <!-- Start Demandbase / Google Analytics Integration -->
 <script>
 (function(d,b,a,s,e){ var t = b.createElement(a),
-    fs = b.getElementsByTagName(a)[0]; t.async=1; t.id=e;
-    t.src=('https:'==document.location.protocol ? 'https://' : 'http://') + s;
-    fs.parentNode.insertBefore(t, fs); })
+	fs = b.getElementsByTagName(a)[0]; t.async=1; t.id=e;
+	t.src=('https:'==document.location.protocol ? 'https://' : 'http://') + s;
+	fs.parentNode.insertBefore(t, fs); })
 (window,document,'script','scripts.demandbase.com/N52iZFMl.min.js','demandbase_js_lib');
 </script>
 <!-- End Demandbase / Google Analytics -->
+
+<!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type="text/javascript">
+var _vwo_code=(function(){
+var account_id=256307,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+/* DO NOT EDIT BELOW THIS LINE */
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b) );h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random() );return settings_timer;}};}() );_vwo_settings_timer=_vwo_code.init();
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=256307&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20161210040052id_%2Fhttps%3A%2F%2Fwww.suse.com%2Fcompany%2Fpolicies%2Fprivacy%2F&amp;r=0.903498900600264" type="text/javascript"></script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
                             </head>
     <body>
-		<header class="nocontent">
+					<header class="nocontent ">
 		<div id="utilitynav">
 		<div class="container-fluid">
 			<div class="logo">
 				<a href="https://www.suse.com">
-					Suse® We adapt. You succeed.
+					We adapt. You succeed.
 				</a>
 			</div>
 			<div id="utilitynav-cart">
@@ -146,20 +178,20 @@ el=e.createElement(c),it=e.getElementsByTagName(c)[0];el.async=1;el.src=i;it.par
 				}, 400);"><span class="fa fa-shopping-cart"><span id="cart-number"></span></span>View Cart</a>
 			</div>
 			<div id="utilitynav-customer" class="hidden-xs"><a href="https://scc.suse.com/">Customer Center</a></div>
-			<div id="utilitynav-contact" class="hidden-xs"><a href="https://www.suse.com/contact">Contact</a></div>
-                        			<div id="utilitynav-login" class="hidden-xs"><a id="login_trigger" href="#" data-di-id="di-id-f1f6f7f2-c9a9d9c5">Login</a></div>
+			<div id="utilitynav-contact" class="hidden-xs"><a href="https://www.suse.com/contact/">Contact</a></div>
+                            <div id="utilitynav-login" class="hidden-xs"><a id="login_trigger" href="#" data-di-id="di-id-f1f6f7f2-c9a9d9c5">Login</a></div>
 			                        <div id="utilitynav-vsep" class="hidden-xs"><span></span></div>
-			<div id="utilitynav-language" class="hidden-xs"><span>Language</span> <span class="fa fa-caret-down"></span></div>
+			<div id="utilitynav-language" class="hidden-xs"><span>Language</span>&nbsp;<span class="fa fa-caret-down"></span></div>
 			<div id="utilitynav-search">
 				<div id="searchbox">
-					<form action="https://www.suse.com/search">
+					<form action="https://www.suse.com/search/">
 						<input type="text" class="search-text" name="term" placeholder="What are you looking for?">
                         <button type="submit" class="fa fa-search search-submit"></button>
 					</form>
 				</div>
 			</div>
 			<div id="utilitynav-chat" class="hidden-xs">
-				<a href="#" class="butn" data-toggle="modal" data-target="#talk-modal">Let's Talk</a>
+				<a href="#" class="butn" data-toggle="modal" data-target="#talk-modal">Let's&nbsp;Talk</a>
 			</div>
 		</div>
 	</div>
@@ -168,20 +200,20 @@ el=e.createElement(c),it=e.getElementsByTagName(c)[0];el.async=1;el.src=i;it.par
 		<div class="container-fluid">
 			<div class="logo">
 				<a href="https://www.suse.com">
-					Suse® We adapt. You succeed.
+					We adapt. You succeed.
 				</a>
 			</div>
 			<a href="#" id="toggle" class="navbars" aria-hidden="true"><i class="fa fa-bars fa-2x"></i></a>
 			<div id="nav" role="navigation" aria-hidden="false">
 				<div class="categories menu-items">
-					<div class="letstalkmobile"><a href="#" class="mobile-talk" data-toggle="modal" data-target="#talk-modal">Let's Talk</a></div>
+					<div class="letstalkmobile"><a href="#" class="mobile-talk" data-toggle="modal" data-target="#talk-modal">Let's&nbsp;Talk</a></div>
 					<div class="sub1 category products-solutions"><a>Products &amp; Solutions<i class="fa fa-angle-right fa-2x"></i></a></div>
 					<div class="sub1 category support"><a>Support &amp; Services<i class="fa fa-angle-right fa-2x"></i></a></div>
 					<div class="sub1 category partners"><a>Partners<i class="fa fa-angle-right fa-2x"></i></a></div>
 					<div class="sub1 category communities"><a>Communities<i class="fa fa-angle-right fa-2x"></i></a></div>
 					<div class="sub1 category category-about"><a>About<i class="fa fa-angle-right fa-2x"></i></a></div>
-					<div class="category downloads enabled "><a href="https://www.suse.com/download-linux">Free Downloads</a></div>
-					<div class="category shop enabled "><a href="https://www.suse.com/shop">Shop</a></div>
+					<div class="category downloads enabled "><a href="https://www.suse.com/download-linux/">Free Downloads</a></div>
+					<div class="category shop enabled "><a href="https://www.suse.com/shop/">Shop</a></div>
 				</div>
 			</div>
 		</div>
@@ -218,1898 +250,7 @@ el=e.createElement(c),it=e.getElementsByTagName(c)[0];el.async=1;el.src=i;it.par
 				</div>
 				<div class="modal-body">
 					<div class="row">
-						<div class="col-md-6">
-							<div class="live-chat-container">
-								<h2><i class="fa fa-comments-o orange"></i> Live Chat</h2>
-								<!--<div class="livechat"><span class="livechat-off">Live Chat Offline</span></div>-->
-								<div class="livechat"><!--
-									--><span class="chat-now spacer"><a href=""></a></span><!--
-									--><span data-id="PeJHyiJ4veu" class="chat-now north-america-button livechat_button"><a href="">&nbsp;</a></span><!--
---><span data-id="ee5ABmXWxVu" class="chat-now uk-button livechat_button"><a href="">&nbsp;</a></span><!--
---><span data-id="VT9nQPX4xTu" class="chat-now germany-button livechat_button"><a href="">&nbsp;</a></span>								</div>
-							</div>
-							<p class="talk-large-text">
-								Want to talk to someone?<br>
-    Call our Sales team or request a call and we'll get right back to you.
-							</p>
-							<div class="talk-line"></div>
-							<p>
-								For support information, please visit <a href="https://www.suse.com/support/">Support</a>. Live chat only available in the US and Canada.
-							</p>
-							<div class="talk-numbers">
-								<div class="row">
-									<div class="col-sm-6 talk-sales">
-										Sales<br>
-										1-800-796-3700
-									</div>
-									<div class="col-sm-6 talk-support">
-										Support<br>
-										1-800-858-4000
-									</div>
-								</div>
-							</div>
-							<div class="talk-social">
-								<div class="row">
-									<div class="col-md-6">
-										<h4>Connect with us</h4>
-									</div>
-									<div class="col-md-6 social-icons">
-										<a href="https://www.facebook.com/SUSEWorldwide"><i class="fa fa-facebook fa-fw"></i></a>
-										<a href="https://twitter.com/SUSE"><i class="fa fa-twitter fa-fw"></i></a>
-										<a href="https://www.linkedin.com/company/suse"><i class="fa fa-linkedin fa-fw"></i></a>
-										<a href="https://plus.google.com/+SUSE/posts"><i class="fa fa-google-plus fa-fw"></i></a>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-6">
-							<h2><i class="fa fa-phone orange"></i> Request a Sales Call</h2>
-							<p class="request-call">
-								Call 1-800-796-3700 or complete the form below to talk to a sales representative.
-							</p>
-                            <div id="requestcall">
-                                <div id="form_content" class="talk-form">
-                                    		<form id="form_builder_form_57634e90cabad" class="form_builder_form " data-di-form-track="" data-di-form-id="RAC" method="POST" data-form-submit-function="submit_formbuilder_form_57634e90cabad">
-					<input type="hidden" name="elqCookieWrite" value="0">
-					<input type="hidden" name="w_download_source" value="web">
-					<input type="hidden" name="elqFormName" value="SalesCallRequestsForm">
-					<input type="hidden" name="elqSiteID" value="1163">
-					<input type="hidden" name="contactGroup" value="SAP Daily">
-					<input type="hidden" name="leadGroup" value="SUSE Lead">
-					<input type="hidden" name="C_Subject_Line_SCR1" value="SUSE.com Sales Call Request (US)">
-					<input type="hidden" name="eventName" value="SUSE.com Sales Call Request">
-					<input type="hidden" name="eventId" value="C-00007103">
-					<input type="hidden" name="thankyouPage" value="https://www.suse.com/company/thankyou.html">
-												<div id="form_builder_firstName" class="form_field_container col span_5 half first">
-						<label for="firstName">
-			First Name							<span class="required">*</span>
-					</label>
-						<input id="firstName" name="firstName" class="text" type="text">		<div class="validation_error_notice" id="firstName_error">
-			First Name is a required field
-		</div>
-	</div>
-	<div id="form_builder_lastName" class="form_field_container col span_5 half last">
-						<label for="lastName">
-			Last Name							<span class="required">*</span>
-					</label>
-						<input id="lastName" name="lastName" class="text" type="text">		<div class="validation_error_notice" id="lastName_error">
-			Last Name is a required field
-		</div>
-	</div>
-	<div id="form_builder_email" class="form_field_container col span_10 full">
-						<label for="email">
-			Email							<span class="required">*</span>
-					</label>
-						<input id="email" name="email" class="text" type="text">		<div class="validation_error_notice" id="email_error">
-			Email is a required field
-		</div>
-	</div>
-	<div id="form_builder_company" class="form_field_container col span_5 half first">
-						<label for="company">
-			Company							<span class="required">*</span>
-					</label>
-						<input id="company" name="company" class="text" type="text">		<div class="validation_error_notice" id="company_error">
-			Company is a required field
-		</div>
-	</div>
-	<div id="form_builder_phone" class="form_field_container col span_5 half last">
-						<label for="phone">
-			Phone							<span class="required">*</span>
-					</label>
-						<input id="phone" name="phone" class="text" type="text">		<div class="validation_error_notice" id="phone_error">
-			Phone is a required field
-		</div>
-	</div>
-	<div id="form_builder_city" class="form_field_container col span_5 half first">
-						<label for="city">
-			City							<span class="required">*</span>
-					</label>
-						<input id="city" name="city" class="text" type="text">		<div class="validation_error_notice" id="city_error">
-			City is a required field
-		</div>
-	</div>
-	<div id="form_builder_country" class="form_field_container col span_5 half last">
-						<label for="country">
-			Country							<span class="required">*</span>
-					</label>
-						
-<script type="text/javascript">
-	versionCompare = function(left, right) {
-		if (typeof left + typeof right != 'stringstring') {
-			return false;
-		}
-
-		var a = left.split('.')
-		,   b = right.split('.')
-		,   i = 0, len = Math.max(a.length, b.length);
-
-		for (; i < len; i++) {
-			if ((a[i] && !b[i] && parseInt(a[i]) > 0) || (parseInt(a[i]) > parseInt(b[i]))) {
-				return 1;
-			} else if ((b[i] && !a[i] && parseInt(b[i]) > 0) || (parseInt(a[i]) < parseInt(b[i]))) {
-				return -1;
-			}
-		}
-
-		return 0;
-	};
-	
-	function apply_zip_change_57634e90cabad() {
-		var zip_field_id = '#form_builder_form_57634e90cabad #form_builder_postalCode';
-			var country = jQuery("#form_builder_form_57634e90cabad .form_builder_country_list").val();
-		if(country === 'DE') {
-			var eventNameValue = jQuery('#form_builder_form_57634e90cabad input[name=eventName]').val();
-			var C_Subject_Line_SCR1_field = jQuery('#form_builder_form_57634e90cabad input[name=C_Subject_Line_SCR1]');
-			var C_Subject_Line_SCR1 = '' + eventNameValue + " (" + country + ")";
-			
-			var postal_code_value = jQuery(zip_field_id + " input").val();
-			if (postal_code_value !== '') {
-				C_Subject_Line_SCR1 = '' + eventNameValue + " (" + country + " " + postal_code_value + ")";
-			}
-			C_Subject_Line_SCR1_field.val(C_Subject_Line_SCR1);
-		}
-	}
-	
-	function apply_country_change_57634e90cabad(country) {
-		var address_field_id = '#form_builder_form_57634e90cabad #form_builder_address1';
-		var zip_field_id = '#form_builder_form_57634e90cabad #form_builder_postalCode';
-		var state_field_id = '#form_builder_form_57634e90cabad #form_builder_stateProvince';
-		
-		
-		if (typeof country == 'undefined') {
-			country = jQuery("#form_builder_form_57634e90cabad .form_builder_country_list").val();
-		}
-		
-		if(country == null || country == 'undefined') {
-			country = 'undefined';
-		} else {
-			var postal_code_value;
-			var eventNameValue = jQuery('#form_builder_form_57634e90cabad input[name=eventName]').val();
-			var C_Subject_Line_SCR1_field = jQuery('#form_builder_form_57634e90cabad input[name=C_Subject_Line_SCR1]');
-			var C_Subject_Line_SCR1 = '' + eventNameValue + " (" + country + ")";
-			
-			
-			
-			switch(country) {
-				case "US":
-				case "CA":
-				case "UK":
-					jQuery(zip_field_id).show();
-					jQuery(state_field_id).show();
-					var all_options = jQuery('#form_builder_form_57634e90cabad .form_builder_state_list option:not(:first)');
-					jQuery('#form_builder_form_57634e90cabad .state_temp').append(all_options);
-					jQuery('#form_builder_form_57634e90cabad .form_builder_state_list option:not(:first)').remove();
-
-					var correct_states_selector = '#form_builder_form_57634e90cabad .state_temp option[data-country='+country+']';
-					var correct_states = jQuery(correct_states_selector);
-					jQuery('#form_builder_form_57634e90cabad .form_builder_state_list').append(correct_states);
-					jQuery(correct_states_selector).remove();
-					break;
-				case "AU":
-				case "IN":
-					jQuery(zip_field_id).hide();
-					jQuery(state_field_id).show();
-					var all_options = jQuery('#form_builder_form_57634e90cabad .form_builder_state_list option:not(:first)');
-					jQuery('#form_builder_form_57634e90cabad .state_temp').append(all_options);
-					jQuery('#form_builder_form_57634e90cabad .form_builder_state_list option:not(:first)').remove();
-
-					var correct_states_selector = '#form_builder_form_57634e90cabad .state_temp option[data-country='+country+']';
-					var correct_states = jQuery(correct_states_selector);
-					jQuery('#form_builder_form_57634e90cabad .form_builder_state_list').append(correct_states);
-					jQuery(correct_states_selector).remove();
-					
-					postal_code_value = jQuery(zip_field_id + " input").val();
-					if (postal_code_value != '') {
-						C_Subject_Line_SCR1 = '' + eventNameValue + " (" + country + " " + postal_code_value + ")";
-					}
-					
-					break;
-				case "DE":
-					jQuery(state_field_id).hide();
-					jQuery(zip_field_id).show();
-					
-					postal_code_value = jQuery(zip_field_id + " input").val();
-					if (postal_code_value != '') {
-						C_Subject_Line_SCR1 = '' + eventNameValue + " (" + country + " " + postal_code_value + ")";
-					}
-					break;
-				default:
-					jQuery('#form_builder_form_57634e90cabad .form_builder_state_list option:first').attr('selected', 'selected');
-					jQuery(zip_field_id + ", " + state_field_id).hide();
-			}
-			C_Subject_Line_SCR1_field.val(C_Subject_Line_SCR1);
-
-			switch(country) {
-				//Asia Pacific
-				case "AF" :
-				case "AS" :
-				case "BD" :
-				case "BT" :
-				case "BN" :
-				case "KH" :
-				case "CX" :
-				case "PF" :
-				case "ID" :
-				case "MN" :
-				case "MM" :
-				case "NP" :
-				case "NC" :
-				case "PK" :
-				case "PW" :
-				case "PG" :
-				case "PH" :
-				case "WS" :
-				case "SB" :
-				case "LK" :
-				case "TH" :
-				case "TO" :
-				case "VN" :
-
-				//Latin America
-				case "AI" :
-				case "AG" :
-				case "AR" :
-				case "AW" :
-				case "BS" :
-				case "BB" :
-				case "BZ" :
-				case "BM" :
-				case "BO" :
-				case "BR" :
-				case "KY" :
-				case "CL" :
-				case "CO" :
-				case "CR" :
-				case "DM" :
-				case "DO" :
-				case "EC" :
-				case "SV" :
-				case "GF" :
-				case "GD" :
-				case "GP" :
-				case "GT" :
-				case "GY" :
-				case "HT" :
-				case "HN" :
-				case "JM" :
-				case "MQ" :
-				case "MX" :
-				case "AN" :
-				case "NI" :
-				case "PA" :
-				case "PY" :
-				case "PE" :
-				case "KN" :
-				case "LC" :
-				case "SR" :
-				case "TT" :
-				case "TC" :
-				case "UY" :
-				case "PR" :
-				case "VE" :
-
-				//EMEA
-				case "DZ" :
-				case "AO" :
-				case "BY" :
-				case "BJ" :
-				case "BW" :
-				case "BG" :
-				case "BF" :
-				case "CM" :
-				case "CF" :
-				case "TD" :
-				case "CI" :
-				case "HR" :
-				case "CY" :
-				case "CZ" :
-				case "EG" :
-				case "EE" :
-				case "ET" :
-				case "FO" :
-				case "GA" :
-				case "GH" :
-				case "GL" :
-				case "GP" :
-				case "HU" :
-				case "IS" :
-				case "IQ" :
-				case "IL" :
-				case "JO" :
-				case "KZ" :
-				case "KE" :
-				case "KW" :
-				case "LV" :
-				case "LB" :
-				case "LR" :
-				case "LT" :
-				case "MK" :
-				case "MG" :
-				case "MW" :
-				case "MV" :
-				case "ML" :
-				case "MU" :
-				case "YT" :
-				case "MD" :
-				case "MA" :
-				case "NA" :
-				case "NE" :
-				case "OM" :
-				case "PL" :
-				case "QA" :
-				case "RE" :
-				case "RO" :
-				case "RU" :
-				case "RW" :
-				case "SH" :
-				case "SA" :
-				case "CS" :
-				case "SC" :
-				case "SK" :
-				case "SI" :
-				case "TN" :
-				case "TR" :
-				case "UG" :
-				case "UA" :
-				case "AE" :
-				case "UZ" :
-				case "EH" :
-				case "YE" :
-				case "ZM" :
-				case "ZW" :
-
-				//custom
-				case "AT" :
-				case "DE" :
-				case "CH" :
-					jQuery(address_field_id).show();
-					break;
-				default:
-					jQuery(address_field_id).hide();
-			}
-			return true;
-		}
-	}
-	
-	jQuery(document).ready(function() {
-		var temp_select = jQuery("<SELECT class='state_temp' style='display: none;'></SELECT>");
-		jQuery('#form_builder_form_57634e90cabad').append(temp_select);
-
-
-		apply_country_change_57634e90cabad();
-		if (versionCompare(jQuery.fn.jquery, "1.10") > 0) {
-			jQuery(document).on('change', '#form_builder_form_57634e90cabad .form_builder_country_list', function() {
-				var new_value = jQuery(this).val();
-				apply_country_change_57634e90cabad(new_value);
-			});
-		} else {
-			jQuery('#form_builder_form_57634e90cabad .form_builder_country_list').change(function() {
-				var new_value = jQuery(this).val();
-				apply_country_change_57634e90cabad(new_value);
-			});
-		}
-		
-		var zip_field_id = '#form_builder_form_57634e90cabad #form_builder_postalCode';
-		jQuery(zip_field_id + " input").keyup(function() {
-			apply_zip_change_57634e90cabad();
-		});
-	});
-</script>
-
-
-<select id="country" name="country" class="form_builder_country_list country_list">
-	<option value="">Choose</option>
-	<option value="US">United States</option>
-	<option value="DE">Germany</option>
-	<option value="IN">India</option>
-	<option value="">-----</option>
-	<option value="AF">Afghanistan</option>
-	<option value="AX">Aland Islands</option>
-	<option value="AL">Albania</option>
-	<option value="DZ">Algeria</option>
-	<option value="AS">American Samoa</option>
-	<option value="AD">Andorra</option>
-	<option value="AO">Angola</option>
-	<option value="AI">Anguilla</option>
-	<option value="AQ">Antarctica</option>
-	<option value="AG">Antigua and Barbuda</option>
-	<option value="AR">Argentina</option>
-	<option value="AM">Armenia</option>
-	<option value="AW">Aruba</option>
-	<option value="AU">Australia</option>
-	<option value="AT">Austria</option>
-	<option value="AZ">Azerbaijan</option>
-	<option value="BS">Bahamas</option>
-	<option value="BH">Bahrain</option>
-	<option value="BD">Bangladesh</option>
-	<option value="BB">Barbados</option>
-	<option value="BY">Belarus</option>
-	<option value="BE">Belgium</option>
-	<option value="BZ">Belize</option>
-	<option value="BJ">Benin</option>
-	<option value="BM">Bermuda</option>
-	<option value="BT">Bhutan</option>
-	<option value="BO">Bolivia</option>
-	<option value="BA">Bosnia and Herzegovina</option>
-	<option value="BW">Botswana</option>
-	<option value="BV">Bouvet Island</option>
-	<option value="BR">Brazil</option>
-	<option value="IO">British Indian Ocean Territory</option>
-	<option value="BN">Brunei Darussalam</option>
-	<option value="BG">Bulgaria</option>
-	<option value="BF">Burkina Faso</option>
-	<option value="BI">Burundi</option>
-	<option value="KH">Cambodia</option>
-	<option value="CM">Cameroon</option>
-	<option value="CA">Canada</option>
-	<option value="CV">Cape Verde</option>
-	<option value="KY">Cayman Islands</option>
-	<option value="CF">Central African Republic</option>
-	<option value="TD">Chad</option>
-	<option value="CL">Chile</option>
-	<option value="CN">China</option>
-	<option value="CX">Christmas Island</option>
-	<option value="CC">Cocos (Keeling) Islands</option>
-	<option value="CO">Colombia</option>
-	<option value="KM">Comoros</option>
-	<option value="CG">Congo</option>
-	<option value="CD">Congo, the Democratic Republic of the</option>
-	<option value="CK">Cook Islands</option>
-	<option value="CR">Costa Rica</option>
-	<option value="CI">Cote d'Ivoire</option>
-	<option value="HR">Croatia</option>
-	<option value="CU">Cuba</option>
-	<option value="CY">Cyprus</option>
-	<option value="CZ">Czech Republic</option>
-	<option value="DK">Denmark</option>
-	<option value="DJ">Djibouti</option>
-	<option value="DM">Dominica</option>
-	<option value="DO">Dominican Republic</option>
-	<option value="EC">Ecuador</option>
-	<option value="EG">Egypt</option>
-	<option value="SV">El Salvador</option>
-	<option value="GQ">Equatorial Guinea</option>
-	<option value="ER">Eritrea</option>
-	<option value="EE">Estonia</option>
-	<option value="ET">Ethiopia</option>
-	<option value="FK">Falkland Islands (Malvinas)</option>
-	<option value="FO">Faroe Islands</option>
-	<option value="FJ">Fiji Islands</option>
-	<option value="FI">Finland</option>
-	<option value="FR">France</option>
-	<option value="GF">French Guiana</option>
-	<option value="PF">French Polynesia</option>
-	<option value="TF">French Southern Territories</option>
-	<option value="GA">Gabon</option>
-	<option value="GM">Gambia</option>
-	<option value="GE">Georgia</option>
-	<option value="DE">Germany</option>
-	<option value="GH">Ghana</option>
-	<option value="GI">Gibraltar</option>
-	<option value="GO">Glorioso Islands</option>
-	<option value="GR">Greece</option>
-	<option value="GL">Greenland</option>
-	<option value="GD">Grenada</option>
-	<option value="GP">Guadeloupe</option>
-	<option value="GU">Guam</option>
-	<option value="GT">Guatemala</option>
-	<option value="GG">Guernsey</option>
-	<option value="GN">Guinea</option>
-	<option value="GW">Guinea-Bissau</option>
-	<option value="GY">Guyana</option>
-	<option value="HT">Haiti</option>
-	<option value="HM">Heard Island and McDonald Islands</option>
-	<option value="HN">Honduras</option>
-	<option value="HK">Hong Kong</option>
-	<option value="HU">Hungary</option>
-	<option value="IS">Iceland</option>
-	<option value="IN">India</option>
-	<option value="ID">Indonesia</option>
-	<option value="IR">Iran</option>
-	<option value="IQ">Iraq</option>
-	<option value="IE">Ireland</option>
-	<option value="IM">Isle of Man</option>
-	<option value="IL">Israel</option>
-	<option value="IT">Italy</option>
-	<option value="JM">Jamaica</option>
-	<option value="JP">Japan</option>
-	<option value="JE">Jersey</option>
-	<option value="JO">Jordan</option>
-	<option value="KZ">Kazakhstan</option>
-	<option value="KE">Kenya</option>
-	<option value="KI">Kiribati</option>
-	<option value="KR">Korea, Republic of</option>
-	<option value="KW">Kuwait</option>
-	<option value="KG">Kyrgyzstan</option>
-	<option value="Lao People's Democratic Republic">Lao People's Democratic Republic</option>
-	<option value="LV">Latvia</option>
-	<option value="LB">Lebanon</option>
-	<option value="LS">Lesotho</option>
-	<option value="LR">Liberia</option>
-	<option value="Libyan Arab Jamahiriya">Libyan Arab Jamahiriya</option>
-	<option value="LI">Liechtenstein</option>
-	<option value="LT">Lithuania</option>
-	<option value="LU">Luxembourg</option>
-	<option value="MO">Macao</option>
-	<option value="MK">Macedonia</option>
-	<option value="MG">Madagascar</option>
-	<option value="MW">Malawi</option>
-	<option value="MY">Malaysia</option>
-	<option value="MV">Maldives</option>
-	<option value="ML">Mali</option>
-	<option value="MT">Malta</option>
-	<option value="MH">Marshall Islands</option>
-	<option value="MQ">Martinique</option>
-	<option value="MR">Mauritania</option>
-	<option value="MU">Mauritius</option>
-	<option value="YT">Mayotte</option>
-	<option value="MX">Mexico</option>
-	<option value="FM">Micronesia, Federated States of</option>
-	<option value="MD">Moldova, Republic of</option>
-	<option value="MC">Monaco</option>
-	<option value="MN">Mongolia</option>
-	<option value="MS">Montserrat</option>
-	<option value="MA">Morocco</option>
-	<option value="MZ">Mozambique</option>
-	<option value="MM">Myanmar</option>
-	<option value="NA">Namibia</option>
-	<option value="NR">Nauru</option>
-	<option value="NP">Nepal</option>
-	<option value="NL">Netherlands</option>
-	<option value="AN">Netherlands Antilles</option>
-	<option value="NC">New Caledonia</option>
-	<option value="NZ">New Zealand</option>
-	<option value="NI">Nicaragua</option>
-	<option value="NE">Niger</option>
-	<option value="NG">Nigeria</option>
-	<option value="NU">Niue</option>
-	<option value="NF">Norfolk Island</option>
-	<option value="MP">Northern Mariana Islands</option>
-	<option value="KP">North Korea</option>
-	<option value="NO">Norway</option>
-	<option value="OM">Oman</option>
-	<option value="PK">Pakistan</option>
-	<option value="PW">Palau</option>
-	<option value="Palestinian Territory, Occupied">Palestinian Territory, Occupied</option>
-	<option value="PA">Panama</option>
-	<option value="PG">Papua New Guinea</option>
-	<option value="PY">Paraguay</option>
-	<option value="PE">Peru</option>
-	<option value="PH">Philippines</option>
-	<option value="Pitcairn">Pitcairn</option>
-	<option value="PL">Poland</option>
-	<option value="PT">Portugal</option>
-	<option value="PR">Puerto Rico</option>
-	<option value="QA">Qatar</option>
-	<option value="RE">Reunion</option>
-	<option value="RO">Romania</option>
-	<option value="RU">Russia</option>
-	<option value="RW">Rwanda</option>
-	<option value="SH">Saint Helena</option>
-	<option value="KN">Saint Kitts and Nevis</option>
-	<option value="LC">Saint Lucia</option>
-	<option value="PM">Saint Pierre and Miquelon</option>
-	<option value="VC">Saint Vincent and the Grenadines</option>
-	<option value="WS">Samoa</option>
-	<option value="SM">San Marino</option>
-	<option value="ST">Sao Tome and Principe</option>
-	<option value="SA">Saudi Arabia</option>
-	<option value="SN">Senegal</option>
-	<option value="CS">Serbia and Montenegro</option>
-	<option value="SC">Seychelles</option>
-	<option value="SL">Sierra Leone</option>
-	<option value="SG">Singapore</option>
-	<option value="SK">Slovakia</option>
-	<option value="SI">Slovenia</option>
-	<option value="SB">Solomon Islands</option>
-	<option value="SO">Somalia</option>
-	<option value="ZA">South Africa</option>
-	<option value="GS">South Georgia and the South Sandwich Islands</option>
-	<option value="ES">Spain</option>
-	<option value="LK">Sri Lanka</option>
-	<option value="SD">Sudan</option>
-	<option value="SR">Suriname</option>
-	<option value="SJ">Svalbard and Jan Mayen</option>
-	<option value="SZ">Swaziland</option>
-	<option value="SE">Sweden</option>
-	<option value="CH">Switzerland</option>
-	<option value="SY">Syria</option>
-	<option value="TW">Taiwan, Republic of China</option>
-	<option value="TJ">Tajikistan</option>
-	<option value="TZ">Tanzania</option>
-	<option value="TH">Thailand</option>
-	<option value="TL">Timor-Leste</option>
-	<option value="TG">Togo</option>
-	<option value="TK">Tokelau</option>
-	<option value="TO">Tonga</option>
-	<option value="TT">Trinidad and Tobago</option>
-	<option value="TN">Tunisia</option>
-	<option value="TR">Turkey</option>
-	<option value="TM">Turkmenistan</option>
-	<option value="TC">Turks and Caicos Islands</option>
-	<option value="TV">Tuvalu</option>
-	<option value="UG">Uganda</option>
-	<option value="UA">Ukraine</option>
-	<option value="AE">United Arab Emirates</option>
-	<option value="GB">United Kingdom</option>
-	<option value="US">United States</option>
-	<option value="US2">United States Minor Outlying Islands</option>
-	<option value="UY">Uruguay</option>
-	<option value="UZ">Uzbekistan</option>
-	<option value="VU">Vanuatu</option>
-	<option value="VA">Vatican City State</option>
-	<option value="VE">Venezuela</option>
-	<option value="VN">Vietnam</option>
-	<option value="VG">Virgin Islands, British</option>
-	<option value="VI">Virgin Islands, U.S.</option>
-	<option value="WF">Wallis and Futuna</option>
-	<option value="EH">Western Sahara</option>
-	<option value="YE">Yemen</option>
-	<option value="ZM">Zambia</option>
-	<option value="ZW">Zimbabwe</option>
-</select>
-		<div class="validation_error_notice" id="country_error">
-			Country is a required field
-		</div>
-	</div>
-	<div id="form_builder_address1" class="form_field_container col span_10 full">
-						<label for="address1">
-			Address							<span class="required">*</span>
-					</label>
-						<input id="address1" name="address1" class="text" type="text">		<div class="validation_error_notice" id="address1_error">
-			Address is a required field
-		</div>
-	</div>
-	<div id="form_builder_postalCode" class="form_field_container col span_10 full">
-						<label for="postalCode">
-			Zip/Postal Code							<span class="required">*</span>
-					</label>
-						<input id="postalCode" name="postalCode" class="text" type="text">		<div class="validation_error_notice" id="postalCode_error">
-			Zip/Postal Code is a required field
-		</div>
-	</div>
-	<div id="form_builder_stateProvince" class="form_field_container col span_10 full">
-						<label for="stateProvince">
-			State							<span class="required">*</span>
-					</label>
-						<select id="form_builder_state_list" name="stateProvince" class="form_builder_state_list state_list">
-	<option value="">Choose a State</option>
-	<option value="A Coruña" data-country="ES">A Coruña</option>
-	<option value="Aberdeenshire" data-country="GB">Aberdeenshire</option>
-	<option value="Abra" data-country="PH">Abra</option>
-	<option value="Abruzzo" data-country="IT">Abruzzo</option>
-	<option value="Acre" data-country="BR">Acre</option>
-	<option value="Australian Capital Territory" data-country="AU">Australian Capital Territory</option>
-	<option value="Aguas Calientes" data-country="PE">Aguas Calientes</option>
-	<option value="Aguascalientes" data-country="MX">Aguascalientes</option>
-	<option value="Agusan del Norte" data-country="PH">Agusan del Norte</option>
-	<option value="Agusan del Sur" data-country="PH">Agusan del Sur</option>
-	<option value="Aichi" data-country="JP">Aichi</option>
-	<option value="Akita" data-country="JP">Akita</option>
-	<option value="Aklan" data-country="PH">Aklan</option>
-	<option value="Alabama" data-country="US">Alabama</option>
-	<option value="Alagoas" data-country="BR">Alagoas</option>
-	<option value="Alaska" data-country="US">Alaska</option>
-	<option value="Álava" data-country="ES">Álava</option>
-	<option value="Albacete" data-country="ES">Albacete</option>
-	<option value="Albay" data-country="PH">Albay</option>
-	<option value="Alberta" data-country="CA">Alberta</option>
-	<option value="Alcazar de San Juan" data-country="ES">Alcazar de San Juan</option>
-	<option value="Alcobendas" data-country="ES">Alcobendas</option>
-	<option value="Alcorcón" data-country="ES">Alcorcón</option>
-	<option value="Algeciras" data-country="ES">Algeciras</option>
-	<option value="Algete" data-country="ES">Algete</option>
-	<option value="Alicante" data-country="ES">Alicante</option>
-	<option value="Almería" data-country="ES">Almería</option>
-	<option value="Alsace" data-country="FR">Alsace</option>
-	<option value="Amapá" data-country="BR">Amapá</option>
-	<option value="Amazonas" data-country="BR">Amazonas</option>
-	<option value="American Samoa" data-country="US">American Samoa</option>
-	<option value="Andaman and Nicobar Islands" data-country="IN">Andaman and Nicobar Islands</option>
-	<option value="Andhra Pradesh" data-country="IN">Andhra Pradesh</option>
-	<option value="Angthong" data-country="TH">Angthong</option>
-	<option value="Angus" data-country="GB">Angus</option>
-	<option value="Anhui" data-country="CN">Anhui</option>
-	<option value="Antioquia" data-country="CO">Antioquia</option>
-	<option value="Antique" data-country="PH">Antique</option>
-	<option value="Antrim" data-country="IE">Antrim</option>
-	<option value="Anzoátegu" data-country="VE">Anzoátegu</option>
-	<option value="Aomori" data-country="JP">Aomori</option>
-	<option value="Apayao" data-country="PH">Apayao</option>
-	<option value="Apure" data-country="VE">Apure</option>
-	<option value="Aquitaine" data-country="FR">Aquitaine</option>
-	<option value="Aragua" data-country="VE">Aragua</option>
-	<option value="Aravaca" data-country="ES">Aravaca</option>
-	<option value="Arequipa" data-country="PE">Arequipa</option>
-	<option value="Arganda del Rey" data-country="ES">Arganda del Rey</option>
-	<option value="Argyll" data-country="GB">Argyll</option>
-	<option value="Arizona" data-country="US">Arizona</option>
-	<option value="Arkansas" data-country="US">Arkansas</option>
-	<option value="Armagh" data-country="IE">Armagh</option>
-	<option value="Arunachal Pradesh" data-country="IN">Arunachal Pradesh</option>
-	<option value="Assam" data-country="IN">Assam</option>
-	<option value="Asturias" data-country="ES">Asturias</option>
-	<option value="Atlántico" data-country="CO">Atlántico</option>
-	<option value="AUCKLAND" data-country="NZ">AUCKLAND</option>
-	<option value="Aurora" data-country="PH">Aurora</option>
-	<option value="Auvergne" data-country="FR">Auvergne</option>
-	<option value="Aveiro" data-country="PT">Aveiro</option>
-	<option value="Ávila" data-country="ES">Ávila</option>
-	<option value="Avon" data-country="GB">Avon</option>
-	<option value="Ayreshire" data-country="GB">Ayreshire</option>
-	<option value="Ayutthaya" data-country="TH">Ayutthaya</option>
-	<option value="Açores" data-country="PT">Açores</option>
-	<option value="Badajoz" data-country="ES">Badajoz</option>
-	<option value="Baden-Württemberg" data-country="DE">Baden-Württemberg</option>
-	<option value="Bahia" data-country="BR">Bahia</option>
-	<option value="Baja California" data-country="MX">Baja California</option>
-	<option value="Baja California Sur" data-country="MX">Baja California Sur</option>
-	<option value="Baleares" data-country="ES">Baleares</option>
-	<option value="Balearic Islands" data-country="ES">Balearic Islands</option>
-	<option value="Bandar Seri Begawan" data-country="BN">Bandar Seri Begawan</option>
-	<option value="Banffshire" data-country="GB">Banffshire</option>
-	<option value="Bangkok" data-country="TH">Bangkok</option>
-	<option value="Barcelona " data-country="ES">Barcelona </option>
-	<option value="Barcelona" data-country="ES">Barcelona</option>
-	<option value="Barinas" data-country="VE">Barinas</option>
-	<option value="Northern Territory" data-country="AU">Northern Territory</option>
-	<option value="Basilicata" data-country="IT">Basilicata</option>
-	<option value="Basse-Normandie" data-country="FR">Basse-Normandie</option>
-	<option value="Bataan" data-country="PH">Bataan</option>
-	<option value="Batanes" data-country="PH">Batanes</option>
-	<option value="Batangas" data-country="PH">Batangas</option>
-	<option value="Bayem" data-country="DE">Bayem</option>
-	<option value="Bañoles" data-country="ES">Bañoles</option>
-	<option value="Western Australia" data-country="AU">Western Australia</option>
-	<option value="Beijing City" data-country="CN">Beijing City</option>
-	<option value="Beja" data-country="PT">Beja</option>
-	<option value="Benguet" data-country="PH">Benguet</option>
-	<option value="Berkshire" data-country="GB">Berkshire</option>
-	<option value="Berlin" data-country="DE">Berlin</option>
-	<option value="Berwickshire" data-country="GB">Berwickshire</option>
-	<option value="Bihar" data-country="IN">Bihar</option>
-	<option value="Distrito Federal" data-country="BR">Distrito Federal</option>
-	<option value="Biliran" data-country="PH">Biliran</option>
-	<option value="Bizcaia" data-country="ES">Bizcaia</option>
-	<option value="Blekinge" data-country="SE">Blekinge</option>
-	<option value="Bohol" data-country="PH">Bohol</option>
-	<option value="Bolívar" data-country="VE">Bolívar</option>
-	<option value="Bourgogne" data-country="FR">Bourgogne</option>
-	<option value="Braga" data-country="PT">Braga</option>
-	<option value="Bragança" data-country="PT">Bragança</option>
-	<option value="Brandenburg" data-country="DE">Brandenburg</option>
-	<option value="Bremen" data-country="DE">Bremen</option>
-	<option value="Bretagne" data-country="FR">Bretagne</option>
-	<option value="British Columbia" data-country="CA">British Columbia</option>
-	<option value="Buckinghamshire" data-country="GB">Buckinghamshire</option>
-	<option value="Bukidnon" data-country="PH">Bukidnon</option>
-	<option value="Bulacan" data-country="PH">Bulacan</option>
-	<option value="Burgos" data-country="ES">Burgos</option>
-	<option value="Burirum" data-country="TH">Burirum</option>
-	<option value="Cagayan" data-country="PH">Cagayan</option>
-	<option value="Caithness" data-country="GB">Caithness</option>
-	<option value="Calabria" data-country="IT">Calabria</option>
-	<option value="California" data-country="US">California</option>
-	<option value="Camarines Norte" data-country="PH">Camarines Norte</option>
-	<option value="Camarines Sur" data-country="PH">Camarines Sur</option>
-	<option value="Cambridgeshire" data-country="GB">Cambridgeshire</option>
-	<option value="Camiguin" data-country="PH">Camiguin</option>
-	<option value="Campania" data-country="IT">Campania</option>
-	<option value="Bilbao" data-country="ES">Bilbao</option>
-	<option value="Canarias" data-country="ES">Canarias</option>
-	<option value="Cantabria" data-country="ES">Cantabria</option>
-	<option value="Capiz" data-country="PH">Capiz</option>
-	<option value="Carabobo" data-country="VE">Carabobo</option>
-	<option value="Carlow" data-country="IE">Carlow</option>
-	<option value="Cartagena" data-country="ES">Cartagena</option>
-	<option value="Castellón" data-country="ES">Castellón</option>
-	<option value="Castelo Blanco" data-country="PT">Castelo Blanco</option>
-	<option value="Catanduanes" data-country="PH">Catanduanes</option>
-	<option value="Cavan" data-country="IE">Cavan</option>
-	<option value="Cavite" data-country="PH">Cavite</option>
-	<option value="Ceará" data-country="BR">Ceará</option>
-	<option value="Cebolla" data-country="ES">Cebolla</option>
-	<option value="Cebu" data-country="PH">Cebu</option>
-	<option value="Cedex" data-country="FR">Cedex</option>
-	<option value="Central Taiwan" data-country="TW">Central Taiwan</option>
-	<option value="Centre" data-country="FR">Centre</option>
-	<option value="Ceuta" data-country="ES">Ceuta</option>
-	<option value="Chachoengsao" data-country="TH">Chachoengsao</option>
-	<option value="Chainat" data-country="TH">Chainat</option>
-	<option value="Champagne-Ardenne" data-country="FR">Champagne-Ardenne</option>
-	<option value="Chandigarh" data-country="IN">Chandigarh</option>
-	<option value="Chanthaburi" data-country="TH">Chanthaburi</option>
-	<option value="Basilan" data-country="PH">Basilan</option>
-	<option value="Cheshire" data-country="GB">Cheshire</option>
-	<option value="Chhaattisgarh" data-country="IN">Chhaattisgarh</option>
-	<option value="Chiangmai" data-country="TH">Chiangmai</option>
-	<option value="Chiangrai" data-country="TH">Chiangrai</option>
-	<option value="Chiapas" data-country="MX">Chiapas</option>
-	<option value="Chiba" data-country="JP">Chiba</option>
-	<option value="Chihuahua" data-country="MX">Chihuahua</option>
-	<option value="Chonburi" data-country="TH">Chonburi</option>
-	<option value="Bedfordshire" data-country="GB">Bedfordshire</option>
-	<option value="Campeche" data-country="MX">Campeche</option>
-	<option value="Choongchung South" data-country="KR">Choongchung South</option>
-	<option value="CHRISTCHURCH" data-country="NZ">CHRISTCHURCH</option>
-	<option value="Chunra South" data-country="KR">Chunra South</option>
-	<option value="Ciudad Ind. Venecia II" data-country="ES">Ciudad Ind. Venecia II</option>
-	<option value="Ciudad Real" data-country="ES">Ciudad Real</option>
-	<option value="Clackmannanshire" data-country="GB">Clackmannanshire</option>
-	<option value="Clare" data-country="IE">Clare</option>
-	<option value="Cleveland" data-country="GB">Cleveland</option>
-	<option value="Clwyd" data-country="GB">Clwyd</option>
-	<option value="Coahuila" data-country="MX">Coahuila</option>
-	<option value="Coimbra" data-country="PT">Coimbra</option>
-	<option value="Cojedes" data-country="VE">Cojedes</option>
-	<option value="Colima" data-country="MX">Colima</option>
-	<option value="Colorado" data-country="US">Colorado</option>
-	<option value="Compostela" data-country="PH">Compostela</option>
-	<option value="Connecticut" data-country="US">Connecticut</option>
-	<option value="Cork" data-country="IE">Cork</option>
-	<option value="Cornwall" data-country="GB">Cornwall</option>
-	<option value="Corse" data-country="FR">Corse</option>
-	<option value="Coruña" data-country="ES">Coruña</option>
-	<option value="Costa Blanca" data-country="ES">Costa Blanca</option>
-	<option value="Costa Brava" data-country="ES">Costa Brava</option>
-	<option value="Costa Calida/Alicante" data-country="ES">Costa Calida/Alicante</option>
-	<option value="Costa de la Luz" data-country="ES">Costa de la Luz</option>
-	<option value="Costa del Azahar" data-country="ES">Costa del Azahar</option>
-	<option value="Costa del Sol" data-country="ES">Costa del Sol</option>
-	<option value="Costa Verde" data-country="ES">Costa Verde</option>
-	<option value="County Antrim" data-country="GB">County Antrim</option>
-	<option value="County Armagh" data-country="GB">County Armagh</option>
-	<option value="County Down" data-country="GB">County Down</option>
-	<option value="County Durham" data-country="GB">County Durham</option>
-	<option value="County Fermanagh" data-country="GB">County Fermanagh</option>
-	<option value="County Londonderry" data-country="GB">County Londonderry</option>
-	<option value="County Tyrone" data-country="GB">County Tyrone</option>
-	<option value="Cuenca" data-country="ES">Cuenca</option>
-	<option value="Cumbria" data-country="GB">Cumbria</option>
-	<option value="Cundinamarca" data-country="CO">Cundinamarca</option>
-	<option value="Cusco" data-country="PE">Cusco</option>
-	<option value="Cáceres" data-country="ES">Cáceres</option>
-	<option value="Cádiz" data-country="ES">Cádiz</option>
-	<option value="Córdoba" data-country="ES">Córdoba</option>
-	<option value="Dadra and Nagar Haveli" data-country="IN">Dadra and Nagar Haveli</option>
-	<option value="Dalarna" data-country="SE">Dalarna</option>
-	<option value="Daman and Diu" data-country="IN">Daman and Diu</option>
-	<option value="Davao del Norte" data-country="PH">Davao del Norte</option>
-	<option value="Davao del Sur" data-country="PH">Davao del Sur</option>
-	<option value="Davao Oriental" data-country="PH">Davao Oriental</option>
-	<option value="Delaware" data-country="US">Delaware</option>
-	<option value="Delhi" data-country="IN">Delhi</option>
-	<option value="Derbyshire" data-country="GB">Derbyshire</option>
-	<option value="Devon" data-country="GB">Devon</option>
-	<option value="District Of Columbia" data-country="US">District Of Columbia</option>
-	<option value="Choongchung North" data-country="KR">Choongchung North</option>
-	<option value="Distrito Federal" data-country="MX">Distrito Federal</option>
-	<option value="Donegal" data-country="IE">Donegal</option>
-	<option value="Dorset" data-country="GB">Dorset</option>
-	<option value="Down" data-country="IE">Down</option>
-	<option value="Drenthe" data-country="NL">Drenthe</option>
-	<option value="Dublin" data-country="IE">Dublin</option>
-	<option value="Dumfriesshire" data-country="GB">Dumfriesshire</option>
-	<option value="Dunbartonshire" data-country="GB">Dunbartonshire</option>
-	<option value="Durango" data-country="MX">Durango</option>
-	<option value="Durham" data-country="GB">Durham</option>
-	<option value="Dyfed" data-country="GB">Dyfed</option>
-	<option value="East Lothian" data-country="GB">East Lothian</option>
-	<option value="East Sussex" data-country="GB">East Sussex</option>
-	<option value="Eastern Cape" data-country="ZA">Eastern Cape</option>
-	<option value="Eastern Samar" data-country="PH">Eastern Samar</option>
-	<option value="Ehime" data-country="JP">Ehime</option>
-	<option value="El Prat de Llobregat" data-country="ES">El Prat de Llobregat</option>
-	<option value="Emilia" data-country="IT">Emilia</option>
-	<option value="España" data-country="ES">España</option>
-	<option value="Espírito Santo" data-country="BR">Espírito Santo</option>
-	<option value="Essex" data-country="GB">Essex</option>
-	<option value="Estado de México" data-country="MX">Estado de México</option>
-	<option value="Etranger" data-country="FR">Etranger</option>
-	<option value="Extremadura" data-country="PT">Extremadura</option>
-	<option value="Évora" data-country="PT">Évora</option>
-	<option value="Falcon" data-country="AR">Falcon</option>
-	<option value="Faro" data-country="PT">Faro</option>
-	<option value="Fermanagh" data-country="IE">Fermanagh</option>
-	<option value="Fife" data-country="GB">Fife</option>
-	<option value="Flevoland" data-country="NL">Flevoland</option>
-	<option value="Florida" data-country="US">Florida</option>
-	<option value="Formentera" data-country="ES">Formentera</option>
-	<option value="Franche-Comte" data-country="FR">Franche-Comte</option>
-	<option value="Free State" data-country="ZA">Free State</option>
-	<option value="Friesland" data-country="NL">Friesland</option>
-	<option value="Friuli" data-country="IT">Friuli</option>
-	<option value="Fujian" data-country="CN">Fujian</option>
-	<option value="Fukui" data-country="JP">Fukui</option>
-	<option value="Fukuoka" data-country="JP">Fukuoka</option>
-	<option value="Fukushima" data-country="JP">Fukushima</option>
-	<option value="Galicia" data-country="ES">Galicia</option>
-	<option value="Galway" data-country="IE">Galway</option>
-	<option value="Gansu" data-country="CN">Gansu</option>
-	<option value="Gasteiz" data-country="ES">Gasteiz</option>
-	<option value="Gauteng" data-country="ZA">Gauteng</option>
-	<option value="Gelderland" data-country="NL">Gelderland</option>
-	<option value="Georgia" data-country="US">Georgia</option>
-	<option value="Gerona" data-country="ES">Gerona</option>
-	<option value="Gifu" data-country="JP">Gifu</option>
-	<option value="Gijon" data-country="ES">Gijon</option>
-	<option value="Girona" data-country="ES">Girona</option>
-	<option value="Gloucestershire" data-country="GB">Gloucestershire</option>
-	<option value="Goa" data-country="IN">Goa</option>
-	<option value="Goiás" data-country="BR">Goiás</option>
-	<option value="Gotland" data-country="SE">Gotland</option>
-	<option value="Gran Canaria" data-country="ES">Gran Canaria</option>
-	<option value="Granada" data-country="ES">Granada</option>
-	<option value="Greater London" data-country="GB">Greater London</option>
-	<option value="Greater Manchester" data-country="GB">Greater Manchester</option>
-	<option value="Groningen" data-country="NL">Groningen</option>
-	<option value="Guadalajara" data-country="ES">Guadalajara</option>
-	<option value="Guajira" data-country="AR">Guajira</option>
-	<option value="Guam" data-country="US">Guam</option>
-	<option value="Guanajuato" data-country="MX">Guanajuato</option>
-	<option value="Guangdong" data-country="CN">Guangdong</option>
-	<option value="Guangxi" data-country="CN">Guangxi</option>
-	<option value="Guarda" data-country="PT">Guarda</option>
-	<option value="Guemsey" data-country="IT">Guemsey</option>
-	<option value="Guerrero" data-country="MX">Guerrero</option>
-	<option value="Guesca" data-country="IT">Guesca</option>
-	<option value="Guijon" data-country="ES">Guijon</option>
-	<option value="Guimaras" data-country="PH">Guimaras</option>
-	<option value="Guipúzcoa" data-country="ES">Guipúzcoa</option>
-	<option value="Guizhou" data-country="CN">Guizhou</option>
-	<option value="Gujarat" data-country="IN">Gujarat</option>
-	<option value="Gumma" data-country="JP">Gumma</option>
-	<option value="Guárico" data-country="VE">Guárico</option>
-	<option value="Gwent" data-country="GB">Gwent</option>
-	<option value="Gwynedd" data-country="GB">Gwynedd</option>
-	<option value="Gävleborg" data-country="SE">Gävleborg</option>
-	<option value="Hainan" data-country="CN">Hainan</option>
-	<option value="Halland" data-country="SE">Halland</option>
-	<option value="Hamburg" data-country="DE">Hamburg</option>
-	<option value="Hampshire" data-country="GB">Hampshire</option>
-	<option value="Haryana" data-country="IN">Haryana</option>
-	<option value="Haute-Normandie" data-country="FR">Haute-Normandie</option>
-	<option value="Hawaii" data-country="US">Hawaii</option>
-	<option value="Hebei" data-country="CN">Hebei</option>
-	<option value="Heilongjiang" data-country="CN">Heilongjiang</option>
-	<option value="Henan" data-country="CN">Henan</option>
-	<option value="Herefordshire" data-country="GB">Herefordshire</option>
-	<option value="Hertfordshire" data-country="GB">Hertfordshire</option>
-	<option value="Hessen" data-country="DE">Hessen</option>
-	<option value="Hidalgo" data-country="MX">Hidalgo</option>
-	<option value="Himachal Pradesh" data-country="IN">Himachal Pradesh</option>
-	<option value="Hiroshima" data-country="JP">Hiroshima</option>
-	<option value="Hokkaidō" data-country="JP">Hokkaidō</option>
-	<option value="Hospitalet" data-country="ES">Hospitalet</option>
-	<option value="Hubei" data-country="CN">Hubei</option>
-	<option value="Huelva" data-country="ES">Huelva</option>
-	<option value="Huesca" data-country="ES">Huesca</option>
-	<option value="Hunan" data-country="CN">Hunan</option>
-	<option value="Hyōgo" data-country="JP">Hyōgo</option>
-	<option value="Ibaraki" data-country="JP">Ibaraki</option>
-	<option value="Idaho" data-country="US">Idaho</option>
-	<option value="Ifugao" data-country="PH">Ifugao</option>
-	<option value="Ile de France" data-country="FR">Ile de France</option>
-	<option value="Illinois" data-country="US">Illinois</option>
-	<option value="Ilocos Norte" data-country="PH">Ilocos Norte</option>
-	<option value="Ilocos Sur" data-country="PH">Ilocos Sur</option>
-	<option value="Iloilo" data-country="PH">Iloilo</option>
-	<option value="Indiana" data-country="US">Indiana</option>
-	<option value="Inner Mongolia" data-country="CN">Inner Mongolia</option>
-	<option value="Inverness Shire" data-country="GB">Inverness Shire</option>
-	<option value="Iowa" data-country="US">Iowa</option>
-	<option value="Isabela" data-country="PH">Isabela</option>
-	<option value="Ishikawa" data-country="JP">Ishikawa</option>
-	<option value="Isle of Lewis" data-country="GB">Isle of Lewis</option>
-	<option value="Isle of Wight" data-country="GB">Isle of Wight</option>
-	<option value="Iwate" data-country="JP">Iwate</option>
-	<option value="Jalisco" data-country="MX">Jalisco</option>
-	<option value="Jammu and Kashmir" data-country="IN">Jammu and Kashmir</option>
-	<option value="Jaén" data-country="ES">Jaén</option>
-	<option value="Jharkhand" data-country="IN">Jharkhand</option>
-	<option value="Jiangsu" data-country="CN">Jiangsu</option>
-	<option value="Jiangxi" data-country="CN">Jiangxi</option>
-	<option value="Jilin" data-country="CN">Jilin</option>
-	<option value="Johor" data-country="MY">Johor</option>
-	<option value="Jämtland" data-country="SE">Jämtland</option>
-	<option value="Jönköping" data-country="SE">Jönköping</option>
-	<option value="Kagawa" data-country="JP">Kagawa</option>
-	<option value="Kagoshima" data-country="JP">Kagoshima</option>
-	<option value="Kalasin" data-country="TH">Kalasin</option>
-	<option value="Kalinga" data-country="PH">Kalinga</option>
-	<option value="Kalmar" data-country="SE">Kalmar</option>
-	<option value="Kamphaengphet" data-country="TH">Kamphaengphet</option>
-	<option value="Kanagawa" data-country="JP">Kanagawa</option>
-	<option value="Kanchanaburi" data-country="TH">Kanchanaburi</option>
-	<option value="Kangwon" data-country="KR">Kangwon</option>
-	<option value="Kansas" data-country="US">Kansas</option>
-	<option value="Karnataka" data-country="IN">Karnataka</option>
-	<option value="Kedah" data-country="MY">Kedah</option>
-	<option value="Kelantan" data-country="MY">Kelantan</option>
-	<option value="Kent" data-country="GB">Kent</option>
-	<option value="Kentucky" data-country="US">Kentucky</option>
-	<option value="Kerala" data-country="IN">Kerala</option>
-	<option value="Kerry" data-country="IE">Kerry</option>
-	<option value="Khon-Khen" data-country="TH">Khon-Khen</option>
-	<option value="Kincardineshire" data-country="GB">Kincardineshire</option>
-	<option value="Kirkcudbrightshire" data-country="GB">Kirkcudbrightshire</option>
-	<option value="Kronoberg" data-country="SE">Kronoberg</option>
-	<option value="Kumamoto" data-country="JP">Kumamoto</option>
-	<option value="KwaZulu-Natal" data-country="ZA">KwaZulu-Natal</option>
-	<option value="Kyoto" data-country="JP">Kyoto</option>
-	<option value="Kyungki" data-country="KR">Kyungki</option>
-	<option value="Kōchi" data-country="JP">Kōchi</option>
-	<option value="La Coruña" data-country="ES">La Coruña</option>
-	<option value="La Rioja" data-country="ES">La Rioja</option>
-	<option value="La Union" data-country="PH">La Union</option>
-	<option value="Laguna" data-country="PH">Laguna</option>
-	<option value="Lakshadweep" data-country="IN">Lakshadweep</option>
-	<option value="Lambayeque" data-country="PE">Lambayeque</option>
-	<option value="Lampang" data-country="TH">Lampang</option>
-	<option value="Lamphun" data-country="TH">Lamphun</option>
-	<option value="Lanao del Norte" data-country="PH">Lanao del Norte</option>
-	<option value="Lanao del Sur" data-country="PH">Lanao del Sur</option>
-	<option value="Lanarkshire" data-country="GB">Lanarkshire</option>
-	<option value="Lancashire" data-country="GB">Lancashire</option>
-	<option value="Languedoc-Roussillon" data-country="FR">Languedoc-Roussillon</option>
-	<option value="Lanzarote" data-country="ES">Lanzarote</option>
-	<option value="Laois" data-country="IE">Laois</option>
-	<option value="Lara" data-country="VE">Lara</option>
-	<option value="Las Palmas" data-country="ES">Las Palmas</option>
-	<option value="Las Palmas de Gran Canaria" data-country="ES">Las Palmas de Gran Canaria</option>
-	<option value="Las Rozas" data-country="ES">Las Rozas</option>
-	<option value="Lazio" data-country="IT">Lazio</option>
-	<option value="Leicestershire" data-country="GB">Leicestershire</option>
-	<option value="Leiria" data-country="PT">Leiria</option>
-	<option value="Lerida" data-country="ES">Lerida</option>
-	<option value="Leyte" data-country="PH">Leyte</option>
-	<option value="León" data-country="ES">León</option>
-	<option value="Liaoning" data-country="CN">Liaoning</option>
-	<option value="Liguria" data-country="IT">Liguria</option>
-	<option value="Lima" data-country="PE">Lima</option>
-	<option value="Limburg" data-country="NL">Limburg</option>
-	<option value="Limerick" data-country="IE">Limerick</option>
-	<option value="Limousin" data-country="FR">Limousin</option>
-	<option value="Limpopo" data-country="ZA">Limpopo</option>
-	<option value="Lincolnshire" data-country="GB">Lincolnshire</option>
-	<option value="Lisboa" data-country="PT">Lisboa</option>
-	<option value="Lleida" data-country="ES">Lleida</option>
-	<option value="Loei" data-country="TH">Loei</option>
-	<option value="Logroño" data-country="ES">Logroño</option>
-	<option value="Lombardia" data-country="IT">Lombardia</option>
-	<option value="Londonderry" data-country="IE">Londonderry</option>
-	<option value="Longford" data-country="IE">Longford</option>
-	<option value="Loreto" data-country="PE">Loreto</option>
-	<option value="Lorraine" data-country="FR">Lorraine</option>
-	<option value="Louisiana" data-country="US">Louisiana</option>
-	<option value="Lugo" data-country="ES">Lugo</option>
-	<option value="Madeira" data-country="PT">Madeira</option>
-	<option value="Madhya Pradesh" data-country="IN">Madhya Pradesh</option>
-	<option value="Madrid" data-country="ES">Madrid</option>
-	<option value="Maehongson" data-country="TH">Maehongson</option>
-	<option value="Maguindanao" data-country="PH">Maguindanao</option>
-	<option value="Maharashtra" data-country="IN">Maharashtra</option>
-	<option value="Mahasarakham" data-country="TH">Mahasarakham</option>
-	<option value="Maine" data-country="US">Maine</option>
-	<option value="Mairena del Aljarafe" data-country="ES">Mairena del Aljarafe</option>
-	<option value="Mallorca" data-country="ES">Mallorca</option>
-	<option value="Manipur" data-country="IN">Manipur</option>
-	<option value="Manitoba" data-country="CA">Manitoba</option>
-	<option value="Mantova" data-country="IT">Mantova</option>
-	<option value="Maranhão" data-country="BR">Maranhão</option>
-	<option value="Marche" data-country="IT">Marche</option>
-	<option value="Mariana Islands" data-country="US">Mariana Islands</option>
-	<option value="Marinduque" data-country="PH">Marinduque</option>
-	<option value="Maryland" data-country="US">Maryland</option>
-	<option value="Masbate" data-country="PH">Masbate</option>
-	<option value="Massachusetts" data-country="US">Massachusetts</option>
-	<option value="Mato Grosso" data-country="BR">Mato Grosso</option>
-	<option value="Mato Grosso Do Sul" data-country="BR">Mato Grosso Do Sul</option>
-	<option value="Mecklenburg-Vorpommern" data-country="DE">Mecklenburg-Vorpommern</option>
-	<option value="Meghalaya" data-country="IN">Meghalaya</option>
-	<option value="Melaka" data-country="MY">Melaka</option>
-	<option value="Melilla" data-country="ES">Melilla</option>
-	<option value="Menorca" data-country="ES">Menorca</option>
-	<option value="Merseyside" data-country="GB">Merseyside</option>
-	<option value="Michigan" data-country="US">Michigan</option>
-	<option value="Michoacán" data-country="MX">Michoacán</option>
-	<option value="Mid Glamorgan" data-country="GB">Mid Glamorgan</option>
-	<option value="Middlesex" data-country="GB">Middlesex</option>
-	<option value="Midi-Pyrenees" data-country="FR">Midi-Pyrenees</option>
-	<option value="Midlothian" data-country="GB">Midlothian</option>
-	<option value="Mie" data-country="JP">Mie</option>
-	<option value="Milan" data-country="IT">Milan</option>
-	<option value="Minas Gerais" data-country="BR">Minas Gerais</option>
-	<option value="Mindoro Occidental" data-country="PH">Mindoro Occidental</option>
-	<option value="Mindoro Oriental" data-country="PH">Mindoro Oriental</option>
-	<option value="Minnesota" data-country="US">Minnesota</option>
-	<option value="Miranda" data-country="VE">Miranda</option>
-	<option value="Misamis Occidental" data-country="PH">Misamis Occidental</option>
-	<option value="Misamis Oriental" data-country="PH">Misamis Oriental</option>
-	<option value="Mississippi" data-country="US">Mississippi</option>
-	<option value="Missouri" data-country="US">Missouri</option>
-	<option value="Miyagi" data-country="JP">Miyagi</option>
-	<option value="Miyazaki" data-country="JP">Miyazaki</option>
-	<option value="Mizoram" data-country="IN">Mizoram</option>
-	<option value="Molise" data-country="IT">Molise</option>
-	<option value="Monagas" data-country="VE">Monagas</option>
-	<option value="Montana" data-country="US">Montana</option>
-	<option value="Morayshire" data-country="GB">Morayshire</option>
-	<option value="Morelos" data-country="MX">Morelos</option>
-	<option value="Mountain Province" data-country="PH">Mountain Province</option>
-	<option value="Mpumalanga" data-country="ZA">Mpumalanga</option>
-	<option value="Murcia" data-country="ES">Murcia</option>
-	<option value="Málaga" data-country="ES">Málaga</option>
-	<option value="Mérida" data-country="VE">Mérida</option>
-	<option value="Nagaland" data-country="IN">Nagaland</option>
-	<option value="Nagano" data-country="JP">Nagano</option>
-	<option value="Nagasaki" data-country="JP">Nagasaki</option>
-	<option value="Nakhonpathom" data-country="TH">Nakhonpathom</option>
-	<option value="Nakhonratchasima" data-country="TH">Nakhonratchasima</option>
-	<option value="Nakhonsawan" data-country="TH">Nakhonsawan</option>
-	<option value="Nakhonsithammarat" data-country="TH">Nakhonsithammarat</option>
-	<option value="Nan" data-country="TH">Nan</option>
-	<option value="Nara" data-country="JP">Nara</option>
-	<option value="Navarra" data-country="ES">Navarra</option>
-	<option value="Nayarit" data-country="MX">Nayarit</option>
-	<option value="Nebraska" data-country="US">Nebraska</option>
-	<option value="Negeri Sembilan" data-country="MY">Negeri Sembilan</option>
-	<option value="Negros Occidental" data-country="PH">Negros Occidental</option>
-	<option value="Negros Oriental" data-country="PH">Negros Oriental</option>
-	<option value="Nevada" data-country="US">Nevada</option>
-	<option value="New Brunswick" data-country="CA">New Brunswick</option>
-	<option value="New Hampshire" data-country="US">New Hampshire</option>
-	<option value="New Jersey" data-country="US">New Jersey</option>
-	<option value="New Mexico" data-country="US">New Mexico</option>
-	<option value="New York" data-country="US">New York</option>
-	<option value="Newfoundland/Labrador" data-country="CA">Newfoundland/Labrador</option>
-	<option value="Niedersachsen" data-country="DE">Niedersachsen</option>
-	<option value="Niigata" data-country="JP">Niigata</option>
-	<option value="Ningxia" data-country="CN">Ningxia</option>
-	<option value="Nonthaburi" data-country="TH">Nonthaburi</option>
-	<option value="Noord-Brabant" data-country="NL">Noord-Brabant</option>
-	<option value="Noord-Holland" data-country="NL">Noord-Holland</option>
-	<option value="Nord-Pas de Calais" data-country="FR">Nord-Pas de Calais</option>
-	<option value="Nordrhein-Westfalen" data-country="DE">Nordrhein-Westfalen</option>
-	<option value="Norfolk" data-country="GB">Norfolk</option>
-	<option value="Norrbotten" data-country="SE">Norrbotten</option>
-	<option value="North Carolina" data-country="US">North Carolina</option>
-	<option value="North Cotabato" data-country="PH">North Cotabato</option>
-	<option value="North Dakota" data-country="US">North Dakota</option>
-	<option value="North Humberside" data-country="GB">North Humberside</option>
-	<option value="North West" data-country="ZA">North West</option>
-	<option value="North Yorkshire" data-country="GB">North Yorkshire</option>
-	<option value="Northamptonshire" data-country="GB">Northamptonshire</option>
-	<option value="Northern Cape" data-country="ZA">Northern Cape</option>
-	<!-- <option value="Northern Mariana Is" data-country="US">Northern Mariana Is</option> -->
-	<option value="Northern Samar" data-country="PH">Northern Samar</option>
-	<option value="Northern Taiwan" data-country="TW">Northern Taiwan</option>
-	<option value="Northumberland" data-country="GB">Northumberland</option>
-	<option value="Cheju" data-country="KR">Cheju</option>
-	<option value="Nottinghamshire" data-country="GB">Nottinghamshire</option>
-	<option value="Nova Scotia" data-country="CA">Nova Scotia</option>
-	<option value="New South Wales" data-country="AU">New South Wales</option>
-	<option value="Northwest Territory" data-country="CA">Northwest Territory</option>
-	<option value="Nueva Ecija" data-country="PH">Nueva Ecija</option>
-	<option value="Nueva Esparta" data-country="VE">Nueva Esparta</option>
-	<option value="Nueva Vizcaya" data-country="PH">Nueva Vizcaya</option>
-	<option value="Nuevo León" data-country="MX">Nuevo León</option>
-	<option value="Oaxaca" data-country="MX">Oaxaca</option>
-	<option value="Ohio" data-country="US">Ohio</option>
-	<option value="Ōita" data-country="JP">Ōita</option>
-	<option value="Okayama" data-country="JP">Okayama</option>
-	<option value="Okinawa" data-country="JP">Okinawa</option>
-	<option value="Oklahoma" data-country="US">Oklahoma</option>
-	<option value="Olleria" data-country="ES">Olleria</option>
-	<option value="Olot" data-country="ES">Olot</option>
-	<option value="Ontario" data-country="CA">Ontario</option>
-	<option value="Örebro" data-country="SE">Örebro</option>
-	<option value="Oregon" data-country="US">Oregon</option>
-	<option value="Orense" data-country="ES">Orense</option>
-	<option value="Orissa" data-country="IN">Orissa</option>
-	<option value="Orkney" data-country="GB">Orkney</option>
-	<option value="Osaka" data-country="JP">Osaka</option>
-	<option value="Östergötland" data-country="SE">Östergötland</option>
-	<option value="Overijssel" data-country="NL">Overijssel</option>
-	<option value="Oviedo" data-country="ES">Oviedo</option>
-	<option value="Oxfordshire" data-country="GB">Oxfordshire</option>
-	<option value="Paca" data-country="FR">Paca</option>
-	<option value="Pahang" data-country="TH">Pahang</option>
-	<option value="Palau" data-country="US">Palau</option>
-	<option value="Palawan" data-country="PH">Palawan</option>
-	<option value="Palencia" data-country="ES">Palencia</option>
-	<option value="Palma de Mallorca" data-country="ES">Palma de Mallorca</option>
-	<option value="Pampanga" data-country="PH">Pampanga</option>
-	<option value="Pamplona" data-country="ES">Pamplona</option>
-	<option value="Pangasinan" data-country="PH">Pangasinan</option>
-	<option value="Paraiba" data-country="BR">Paraiba</option>
-	<option value="Paraná" data-country="BR">Paraná</option>
-	<option value="Pará" data-country="BR">Pará</option>
-	<option value="Pathumthani" data-country="TH">Pathumthani</option>
-	<option value="Pattani" data-country="TH">Pattani</option>
-	<option value="Pays de la Loire" data-country="FR">Pays de la Loire</option>
-	<option value="Pebbleshire" data-country="GB">Pebbleshire</option>
-	<option value="Pennsylvania" data-country="US">Pennsylvania</option>
-	<option value="Perak" data-country="MY">Perak</option>
-	<option value="Pernambuco" data-country="BR">Pernambuco</option>
-	<option value="Perthshire" data-country="GB">Perthshire</option>
-	<option value="Pesaro and Urbino" data-country="IT">Pesaro and Urbino</option>
-	<option value="Phayao" data-country="TH">Phayao</option>
-	<option value="Phetchabun" data-country="TH">Phetchabun</option>
-	<option value="Phetchaburi" data-country="TH">Phetchaburi</option>
-	<option value="Phitsanulok" data-country="TH">Phitsanulok</option>
-	<option value="Phrae" data-country="TH">Phrae</option>
-	<option value="Phuket" data-country="TH">Phuket</option>
-	<option value="Piauí" data-country="BR">Piauí</option>
-	<option value="Picardie" data-country="FR">Picardie</option>
-	<option value="Piemonte" data-country="IT">Piemonte</option>
-	<option value="Pinos Genil" data-country="ES">Pinos Genil</option>
-	<option value="Poitou-Charentes" data-country="FR">Poitou-Charentes</option>
-	<option value="Pontevedra" data-country="ES">Pontevedra</option>
-	<option value="Portalegre" data-country="PT">Portalegre</option>
-	<option value="Porto" data-country="PT">Porto</option>
-	<option value="Powys" data-country="GB">Powys</option>
-	<option value="Pozuelo de Alarcon" data-country="ES">Pozuelo de Alarcon</option>
-	<option value="Prachenburi" data-country="TH">Prachenburi</option>
-	<option value="Prachuapkhirikhan" data-country="TH">Prachuapkhirikhan</option>
-	<option value="Prince Edward Island" data-country="CA">Prince Edward Island</option>
-	<option value="Pondicherry" data-country="IN">Pondicherry</option>
-	<option value="Puebla" data-country="MX">Puebla</option>
-	<option value="Puerto Rico" data-country="US">Puerto Rico</option>
-	<option value="Puglia" data-country="IT">Puglia</option>
-	<option value="Pulau Pinang" data-country="MY">Pulau Pinang</option>
-	<option value="Punjab" data-country="IN">Punjab</option>
-	<option value="Puno" data-country="PE">Puno</option>
-	<option value="Qinghai" data-country="CN">Qinghai</option>
-	<option value="Queensland" data-country="AU">Queensland</option>
-	<option value="Quebec" data-country="CA">Quebec</option>
-	<option value="Querétaro" data-country="MX">Querétaro</option>
-	<option value="Quezon" data-country="PH">Quezon</option>
-	<option value="Quindío" data-country="CO">Quindío</option>
-	<option value="Quintana Roo" data-country="MX">Quintana Roo</option>
-	<option value="Quirino" data-country="PH">Quirino</option>
-	<option value="Rajasthan" data-country="IN">Rajasthan</option>
-	<option value="Ratchaburi" data-country="TH">Ratchaburi</option>
-	<option value="Rayong" data-country="TH">Rayong</option>
-	<option value="Renfrewshire" data-country="GB">Renfrewshire</option>
-	<option value="Republic of Ireland" data-country="IE">Republic of Ireland</option>
-	<option value="Rheinland-Pfalz" data-country="DE">Rheinland-Pfalz</option>
-	<option value="Rhode Island" data-country="US">Rhode Island</option>
-	<option value="Rhones-Alps" data-country="FR">Rhones-Alps</option>
-	<option value="Rio De Janeiro" data-country="BR">Rio De Janeiro</option>
-	<option value="Rio Grande Do Norte" data-country="BR">Rio Grande Do Norte</option>
-	<option value="Rio Grande Do Sul" data-country="BR">Rio Grande Do Sul</option>
-	<option value="Ripollet" data-country="ES">Ripollet</option>
-	<option value="Risaralda" data-country="CO">Risaralda</option>
-	<option value="Riscommon" data-country="IE">Riscommon</option>
-	<option value="Rizal" data-country="PH">Rizal</option>
-	<option value="Roi-et" data-country="TH">Roi-et</option>
-	<option value="Romblon" data-country="PH">Romblon</option>
-	<option value="Rondônia" data-country="BR">Rondônia</option>
-	<option value="Roraima" data-country="BR">Roraima</option>
-	<option value="Ross-shire" data-country="GB">Ross-shire</option>
-	<option value="Roxburgshire" data-country="GB">Roxburgshire</option>
-	<option value="Rutland" data-country="GB">Rutland</option>
-	<option value="S. Sebastian" data-country="ES">S. Sebastian</option>
-	<option value="South Australia" data-country="AU">South Australia</option>
-	<option value="Saarland" data-country="DE">Saarland</option>
-	<option value="Sabah" data-country="MY">Sabah</option>
-	<option value="Sachsen" data-country="DE">Sachsen</option>
-	<option value="Sachsen-Anhalt" data-country="DE">Sachsen-Anhalt</option>
-	<option value="Saga" data-country="JP">Saga</option>
-	<option value="Saitama" data-country="JP">Saitama</option>
-	<option value="Sakhonnakhon" data-country="TH">Sakhonnakhon</option>
-	<option value="Salamanca" data-country="ES">Salamanca</option>
-	<option value="Salvador" data-country="ES">Salvador</option>
-	<option value="Samar" data-country="PH">Samar</option>
-	<option value="Samutprakan" data-country="TH">Samutprakan</option>
-	<option value="Samutsakhon" data-country="TH">Samutsakhon</option>
-	<option value="Samutsongkhram" data-country="TH">Samutsongkhram</option>
-	<option value="San Javier" data-country="ES">San Javier</option>
-	<option value="San Luis Potosi" data-country="MX">San Luis Potosi</option>
-	<option value="San Marino" data-country="IT">San Marino</option>
-	<option value="Sant Celoni" data-country="ES">Sant Celoni</option>
-	<option value="Santa Catarina" data-country="BR">Santa Catarina</option>
-	<option value="Santa Cruz de Tenerife" data-country="ES">Santa Cruz de Tenerife</option>
-	<option value="Santander" data-country="ES">Santander</option>
-	<option value="Santarém" data-country="PT">Santarém</option>
-	<option value="Saraburi" data-country="TH">Saraburi</option>
-	<option value="Sarangani" data-country="PH">Sarangani</option>
-	<option value="Sarawak" data-country="MY">Sarawak</option>
-	<option value="Sardegna" data-country="IT">Sardegna</option>
-	<option value="Saskatchewan" data-country="CA">Saskatchewan</option>
-	<option value="Schleswig-Holstein" data-country="DE">Schleswig-Holstein</option>
-	<option value="Segovia" data-country="ES">Segovia</option>
-	<option value="Selangor" data-country="MY">Selangor</option>
-	<option value="Selkirkshire" data-country="GB">Selkirkshire</option>
-	<option value="Sergipe" data-country="BR">Sergipe</option>
-	<option value="Setúbal" data-country="PT">Setúbal</option>
-	<option value="Seville" data-country="ES">Seville</option>
-	<option value="Shaanxi" data-country="CN">Shaanxi</option>
-	<option value="Shandong" data-country="CN">Shandong</option>
-	<option value="Shanghai" data-country="CN">Shanghai</option>
-	<option value="Shanxi" data-country="CN">Shanxi</option>
-	<option value="Shiga" data-country="JP">Shiga</option>
-	<option value="Shimane" data-country="JP">Shimane</option>
-	<option value="Shizuoka" data-country="JP">Shizuoka</option>
-	<option value="Shropshire" data-country="GB">Shropshire</option>
-	<option value="Sichuan" data-country="CN">Sichuan</option>
-	<option value="Sicilia" data-country="IT">Sicilia</option>
-	<option value="Sikkim" data-country="IN">Sikkim</option>
-	<option value="Sinaloa" data-country="MX">Sinaloa</option>
-	<option value="Siquijor" data-country="PH">Siquijor</option>
-	<option value="Sisaket" data-country="TH">Sisaket</option>
-	<option value="Skåne" data-country="SE">Skåne</option>
-	<option value="Sligo" data-country="IE">Sligo</option>
-	<option value="Somerset" data-country="GB">Somerset</option>
-	<option value="Songkhla" data-country="TH">Songkhla</option>
-	<option value="Sonora" data-country="MX">Sonora</option>
-	<option value="Soria" data-country="ES">Soria</option>
-	<option value="Sorsogon" data-country="PH">Sorsogon</option>
-	<option value="South Carolina" data-country="US">South Carolina</option>
-	<option value="South Cotabato" data-country="PH">South Cotabato</option>
-	<option value="South Dakota" data-country="US">South Dakota</option>
-	<option value="South Glamorgan" data-country="GB">South Glamorgan</option>
-	<option value="South Humberside" data-country="GB">South Humberside</option>
-	<option value="South Yorkshire" data-country="GB">South Yorkshire</option>
-	<option value="Southern Leyte" data-country="PH">Southern Leyte</option>
-	<option value="Southern Taiwan" data-country="TW">Southern Taiwan</option>
-	<option value="Staffordshire" data-country="GB">Staffordshire</option>
-	<option value="Stirlingshire" data-country="GB">Stirlingshire</option>
-	<option value="Stockholm" data-country="SE">Stockholm</option>
-	<option value="Sucre" data-country="VE">Sucre</option>
-	<option value="Suffolk" data-country="GB">Suffolk</option>
-	<option value="Sultan Kudarat" data-country="PH">Sultan Kudarat</option>
-	<option value="Sulu" data-country="PH">Sulu</option>
-	<option value="Suratthani" data-country="TH">Suratthani</option>
-	<option value="Surigao del Norte" data-country="PH">Surigao del Norte</option>
-	<option value="Surigao del Sur" data-country="PH">Surigao del Sur</option>
-	<option value="Surin" data-country="TH">Surin</option>
-	<option value="Surrey" data-country="GB">Surrey</option>
-	<option value="Swiss" data-country="CH">Swiss</option>
-	<option value="São Paulo" data-country="BR">São Paulo</option>
-	<option value="Södermanland" data-country="SE">Södermanland</option>
-	<option value="Tabasco" data-country="MX">Tabasco</option>
-	<option value="Tacna" data-country="PE">Tacna</option>
-	<option value="Tamaulipas" data-country="MX">Tamaulipas</option>
-	<option value="Tamil Nadu" data-country="IN">Tamil Nadu</option>
-	<option value="Tarlac" data-country="PH">Tarlac</option>
-	<option value="Tarragona" data-country="ES">Tarragona</option>
-	<option value="Tasmania" data-country="AU">Tasmania</option>
-	<option value="Tawi-Tawi" data-country="PH">Tawi-Tawi</option>
-	<option value="Tenerife " data-country="ES">Tenerife </option>
-	<option value="Tennessee" data-country="US">Tennessee</option>
-	<option value="Terengganu" data-country="MY">Terengganu</option>
-	<option value="Teruel" data-country="ES">Teruel</option>
-	<option value="Texas" data-country="US">Texas</option>
-	<option value="Thüringen" data-country="DE">Thüringen</option>
-	<option value="Tianjing" data-country="CN">Tianjing</option>
-	<option value="Tibet" data-country="CN">Tibet</option>
-	<option value="Tipperary" data-country="IE">Tipperary</option>
-	<option value="Tlaxcala" data-country="MX">Tlaxcala</option>
-	<option value="Tocantins" data-country="BR">Tocantins</option>
-	<option value="Tochigi" data-country="JP">Tochigi</option>
-	<option value="Tokushima" data-country="JP">Tokushima</option>
-	<option value="Tokyo" data-country="JP">Tokyo</option>
-	<option value="Toledo" data-country="ES">Toledo</option>
-	<option value="Torrejon de Ardoz" data-country="ES">Torrejon de Ardoz</option>
-	<option value="Torrelodones" data-country="ES">Torrelodones</option>
-	<option value="Toscana" data-country="IT">Toscana</option>
-	<option value="Tottori" data-country="JP">Tottori</option>
-	<option value="Toyama" data-country="JP">Toyama</option>
-	<option value="Trang" data-country="TH">Trang</option>
-	<option value="Trentino" data-country="IT">Trentino</option>
-	<option value="Tripura" data-country="IN">Tripura</option>
-	<option value="Trujillo" data-country="PE">Trujillo</option>
-	<option value="Tutong" data-country="BN">Tutong</option>
-	<option value="Tyne " data-country="GB">Tyne </option>
-	<option value="Tyrone" data-country="IE">Tyrone</option>
-	<option value="Táchira" data-country="VE">Táchira</option>
-	<option value="Ubonratchthani" data-country="TH">Ubonratchthani</option>
-	<option value="Udonthani" data-country="TH">Udonthani</option>
-	<option value="Umbria" data-country="IT">Umbria</option>
-	<option value="Uppsala" data-country="SE">Uppsala</option>
-	<option value="Usurbil" data-country="ES">Usurbil</option>
-	<option value="Utah" data-country="US">Utah</option>
-	<option value="Utrecht" data-country="NL">Utrecht</option>
-	<option value="Uttar Pradesh" data-country="IN">Uttar Pradesh</option>
-	<option value="Uttaradit" data-country="TH">Uttaradit</option>
-	<option value="Uttaranchal" data-country="IN">Uttaranchal</option>
-	<option value="Valencia" data-country="ES">Valencia</option>
-	<option value="Valladolid" data-country="ES">Valladolid</option>
-	<option value="Valle" data-country="CO">Valle</option>
-	<option value="Valle D'Aosta" data-country="IT">Valle D'Aosta</option>
-	<option value="Vaticano" data-country="IT">Vaticano</option>
-	<option value="Veneto" data-country="IT">Veneto</option>
-	<option value="Veracruz" data-country="MX">Veracruz</option>
-	<option value="Vermont" data-country="US">Vermont</option>
-	<option value="Viano do Castelo" data-country="PT">Viano do Castelo</option>
-	<option value="Victoria" data-country="AU">Victoria</option>
-	<option value="Vigo" data-country="ES">Vigo</option>
-	<option value="Vila Real" data-country="PT">Vila Real</option>
-	<option value="Virgin Islands" data-country="US">Virgin Islands</option>
-	<option value="Virginia" data-country="US">Virginia</option>
-	<option value="Viseu" data-country="PT">Viseu</option>
-	<option value="Vitoria" data-country="ES">Vitoria</option>
-	<option value="Vizcaya" data-country="ES">Vizcaya</option>
-	<option value="Värmland" data-country="SE">Värmland</option>
-	<option value="Västerbotten" data-country="SE">Västerbotten</option>
-	<option value="Västernorrland" data-country="SE">Västernorrland</option>
-	<option value="Västmanland" data-country="SE">Västmanland</option>
-	<option value="Västra Götaland" data-country="SE">Västra Götaland</option>
-	<option value="Wakayama" data-country="JP">Wakayama</option>
-	<option value="Warwickshire" data-country="GB">Warwickshire</option>
-	<option value="Washington" data-country="US">Washington</option>
-	<option value="WELLINGTON" data-country="NZ">WELLINGTON</option>
-	<option value="West Bengal" data-country="IN">West Bengal</option>
-	<option value="West Glamorgan" data-country="GB">West Glamorgan</option>
-	<option value="West Lothian" data-country="GB">West Lothian</option>
-	<option value="West Midlands" data-country="GB">West Midlands</option>
-	<option value="West Sussex" data-country="GB">West Sussex</option>
-	<option value="West Virginia" data-country="US">West Virginia</option>
-	<option value="West Yorkshire" data-country="GB">West Yorkshire</option>
-	<option value="Western Cape" data-country="ZA">Western Cape</option>
-	<option value="Westmeath" data-country="IE">Westmeath</option>
-	<option value="Wexford" data-country="IE">Wexford</option>
-	<option value="Wicklow" data-country="IE">Wicklow</option>
-	<option value="Wigtownshire" data-country="GB">Wigtownshire</option>
-	<option value="Wilayah Persekutuan" data-country="MY">Wilayah Persekutuan</option>
-	<option value="Wiltshire" data-country="GB">Wiltshire</option>
-	<option value="Wisconsin" data-country="US">Wisconsin</option>
-	<option value="Worcestershire" data-country="GB">Worcestershire</option>
-	<option value="Wyoming" data-country="US">Wyoming</option>
-	<option value="Xinjiang" data-country="CN">Xinjiang</option>
-	<option value="Yala" data-country="TH">Yala</option>
-	<option value="Yamagata" data-country="JP">Yamagata</option>
-	<option value="Yamaguchi" data-country="JP">Yamaguchi</option>
-	<option value="Yamanashi" data-country="JP">Yamanashi</option>
-	<option value="Yaracuy" data-country="VE">Yaracuy</option>
-	<option value="Yucatán" data-country="MX">Yucatán</option>
-	<option value="Yukon Territory" data-country="CA">Yukon Territory</option>
-	<option value="Yunnan" data-country="CN">Yunnan</option>
-	<option value="Zacatecas" data-country="MX">Zacatecas</option>
-	<option value="Zambales" data-country="PH">Zambales</option>
-	<option value="Zamboanga del Norte" data-country="PH">Zamboanga del Norte</option>
-	<option value="Zamboanga del Sur" data-country="PH">Zamboanga del Sur</option>
-	<option value="Zamboanga Sibugay" data-country="PH">Zamboanga Sibugay</option>
-	<option value="Zamora" data-country="ES">Zamora</option>
-	<option value="Zaragoza" data-country="ES">Zaragoza</option>
-	<option value="Zarauz" data-country="ES">Zarauz</option>
-	<option value="Zeeland" data-country="NL">Zeeland</option>
-	<option value="Zhejiang" data-country="CN">Zhejiang</option>
-	<option value="Zuid-Holland" data-country="NL">Zuid-Holland</option>
-	<option value="Zulia" data-country="VE">Zulia</option>
-</select>		<div class="validation_error_notice" id="stateProvince_error">
-			State is a required field
-		</div>
-	</div>
-	<div id="form_builder_comment" class="form_field_container col span_10 full">
-						<label for="comment">
-			Comments							<span class="required">*</span>
-					</label>
-						<input id="comment" name="comment" class="text" type="text">		<div class="validation_error_notice" id="comment_error">
-			Comments is a required field
-		</div>
-	</div>
-		<input type="hidden" name="field_keys" value="first_last_name|email|company_phone|city_country|address|postal|stateProvince|comment">
-				<div style="clear: both;"></div>
-	</form>
-				<div id="form_builder_submit_57634e90cabad" class="form_builder_submit row">
-			<p><a href="#" style="cursor: pointer;">Request a Call</a></p>
-			<div id="form_builder_submit_status_57634e90cabad" class="form_builder_submit_status" style="display: none;">Saving ...</div>
-		</div>
-	
-
-	
-<script type="text/javascript">
-	function getQueryVariable(variable) {
-		var query = window.location.search.substring(1);
-		var vars = query.split('&');
-		for (var i = 0; i < vars.length; i++) {
-			var pair = vars[i].split('=');
-			if (decodeURIComponent(pair[0]) == variable) {
-				return decodeURIComponent(pair[1]);
-			}
-		}
-		return false;
-	}
-	
-	/* Cookie Functions
-	---------------------------------------------------- */
-	if (typeof readCookie != 'function') {
-		window.readCookie = function(name) {
-			var cks = document.cookie.split(';');
-			for(var i=cks.length-1; i >= 0; i--) {
-				var c = cks[i];
-				while(c.charAt(0)===' ') {
-					c = c.substring(1,c.length);
-				}
-				if(c.indexOf(name+"=")===0) {
-					return c.substring(name.length+1,c.length);
-				}
-			}
-			return null;
-		};
-	}
-
-	if (typeof deleteCookie != 'function') {
-		window.deleteCookie = function(name,path,domain) {
-			if(!domain) {
-				domain = ".attachmate.com"; 
-			}
-			if(readCookie(name)) { document.cookie = name + "=" +
-				((path) ? ";path=" + path : ";path=/") +
-				";domain=" + domain + ";expires=Thu, 01-Jan-1970 00:00:01 GMT";
-			}
-		};
-	}
-
-	if (typeof createCookie != 'function') {
-		window.createCookie = function(name,value,days,path,domain) {
-			var expires = "";
-			if(!domain) {
-				domain = ".attachmate.com"; 
-			}
-			if(days) {
-				var date = new Date();
-				date.setTime(date.getTime()+(days*24*60*60*1000));
-				expires = "; expires="+date.toGMTString();
-			}
-			document.cookie = name+"="+value+expires +
-				((path) ? "; path=" + path : "; path=/") +
-				"; domain=" + domain;
-	
-		};
-	}
-	
-	function submit_formbuilder_form_57634e90cabad() {
-		jQuery('#form_builder_submit_status_57634e90cabad').show();
-
-		
-
-		var submit_data = jQuery('#form_builder_form_57634e90cabad').serialize();
-					var validate_url = '/form-builder-transport?hide_demandbase=true&url=/forms/validate_form/first_last_name|email|company_phone|city_country|address|postal|stateProvince|comment/rac|suse_rac?callback=?';
-			var submit_url = '/form-builder-transport?hide_demandbase=true&url=/forms/form_submit/rac|suse_rac/?callback=?';
-							jQuery.ajax({
-			type: 'post',
-			url: validate_url,
-			data: submit_data,
-			success: function(data) {
-				if (data.success == true) {
-					var field_results = data.validation_results.results;
-
-					// check if everything that didn't validate is shown (for address, zip, state)
-					var fully_validated = true;
-					for (x in field_results) {
-						if (field_results[x].validated == false) {
-							var field_container = jQuery('#form_builder_form_57634e90cabad #form_builder_'+x);
-							if (field_container.is(':visible')) {
-								fully_validated = false;
-							}
-						}
-					}
-
-
-					// now check if everything validated
-					if (data.validation_results.validated == false && fully_validated == false) {
-						// remove all existing errors
-						jQuery('#form_builder_form_57634e90cabad .form_field_container').removeClass('error');
-						var count = 0;
-						for (x in field_results) {
-							if (field_results[x].validated == false) {
-								var field_container = jQuery('#form_builder_form_57634e90cabad #form_builder_'+x);
-								if (field_container.is(':visible')) {
-									if (count === 0) {
-										jQuery('input, select', field_container).focus();
-									}
-									jQuery('.validation_error_notice', field_container).html(field_results[x].messages[0]);
-									field_container.addClass('error');
-									count++;
-								}
-							}
-						}
-
-						jQuery('#form_builder_submit_status_57634e90cabad').hide();
-					} else {
-//							jQuery('#form_builder_form_57634e90cabad').attr('action', data.validation_success_form_action);
-//							console.log (jQuery('#form_builder_form_57634e90cabad').serialize());
-//							jQuery('#form_builder_form_57634e90cabad').submit();
-
-
-						//////////////////////////////////////////////////////////////////
-						// VALIDATION SUCCESS - SO NOW WE ACTUALLY SUBMIT THE FORM
-						//--------------------------------------------------------------------
-							if (typeof data.after_validate_js_function != 'undefined') {
-								window[data.after_validate_js_function]('#form_builder_form_57634e90cabad');
-							}
-							jQuery.ajax({
-								type: 'post',
-								url: submit_url,
-								data: submit_data,
-								success: function(data) {
-//										createCookie("submitted_eloqua_email", encodeURIComponent(data.eloqua_id), 30);
-									if (typeof data.eloqua_id != "undefined") {
-										var domain = window.location.hostname;
-										createCookie("elid", encodeURIComponent(data.eloqua_id), 30, '/', domain);
-									}
-									if (data.success == true) {
-										// if successful we need to forward to the thankyou page
-										if (data.inline_thankyou_html !== false) {
-											// add form submit success event to SUSE RAC form
-											if (window._gat && window._gat._getTracker) {
-												ga('send', 'event', { 
-													eventCategory: 'Form Submit', 
-													eventAction: 'Submit', 
-													eventLabel: 'RAC'
-												});
-											}
-
-
-											var replace_el = jQuery("#form_builder_form_57634e90cabad").closest("#"+data.inline_thankyou_replace_id);
-											replace_el.html(data.inline_thankyou_html);
-											var el_offset_top = replace_el.offset().top;
-											jQuery(window).scrollTop(el_offset_top - 10);
-
-										} else {
-											if (data.thankyouPage != undefined) {
-												// set our customer email address in local storage now
-												if ( $('#c_email').length ) {
-													sessionStorage.customerEmail = $('#c_email').val();
-												}
-												if (window._gat && window._gat._getTracker) {
-													ga('send', 'event', { 
-														eventCategory: 'Form Submit', 
-														eventAction: 'Submit', 
-														eventLabel: 'RAC'
-													});
-												}
-												
-												setTimeout(function() {
-													window.location.href = data.thankyouPage;
-												}, 400);
-											}
-										}
-									} else {
-										// DREW TODO - take care of this error case
-									}
-								},
-								complete: function() {
-//										jQuery('#form_builder_submit_status_57634e90cabad').hide();
-//										console.log ("came into form submit complete");
-								},
-								error: function() {
-//										console.log ("came into form submit error");
-//										 DREW TODO - take care of this error case
-								},
-								dataType: 'jsonp'
-							});
-						//---------------------------------------------------------------------
-					}
-				} else {
-					// DREW TODO - deal with failed ajax call
-					jQuery('#form_builder_submit_status_57634e90cabad').hide();
-				}
-			},
-			complete: function() {
-				// DREW TODO - finish this
-//					console.log ("came into complete");
-			},
-			error: function() {
-				jQuery('#form_builder_submit_status_57634e90cabad').hide();
-				// DREW TODO - finish this
-//					console.log ("came into error");
-			},
-			dataType: 'jsonp'
-		});
-	}
-	
-	var came_into_doc_ready_57634e90cabad = false;
-	jQuery(document).ready(function() {
-		if (came_into_doc_ready_57634e90cabad == true) {
-			return;
-		}
-		came_into_doc_ready_57634e90cabad = true;
-		
-		// put in the user prefered country if there is a cookie
-		var preferred_country = null;
-		if(readCookie('novell_country') !== null) { 
-			preferred_country = readCookie('novell_country');
-		}
-		if(readCookie('user_country') !== null) { 
-			preferred_country = readCookie('user_country');
-		}
-		if (preferred_country !== null) {
-			jQuery('#form_builder_form_57634e90cabad input:hidden:first').after("<input type='hidden' name='preferred_country' value='"+preferred_country+"' />");
-		}
-		
-		
-		// check to see if the language is set - if so then us it to add value to eloqua forms
-		var first_hidden_form = jQuery('#form_builder_form_57634e90cabad input:hidden:first');
-		var curr_lang = 'en-us';
-		if(readCookie('novell_language') !== null) { 
-			curr_lang = readCookie('novell_language');
-		}
-		if(readCookie('user_language') !== null) { 
-			curr_lang = readCookie('user_language');
-		}
-		jQuery('#form_builder_form_57634e90cabad input:hidden:first').after("<input type='hidden' name='language' value='"+curr_lang+"' />").after("<input type='hidden' name='Language' value='"+curr_lang+"' />");
-		
-		
-		// read the a7 cookie (for w_search_type)
-		var novell_a7 = '';
-		if(readCookie('novell_a7') !== null) {
-			novell_a7 = readCookie('novell_a7');
-		}
-		jQuery('#form_builder_form_57634e90cabad input:hidden:first').after("<input type='hidden' name='w_search_type' value='"+novell_a7+"' />");
-		
-		// read the w_search_campaign cookie (for w_search_campaign)
-		var novell_search_campaign = '';
-		if(readCookie('novell_search_campaign') !== null) {
-			novell_search_campaign = readCookie('novell_search_campaign');
-		}
-		jQuery('#form_builder_form_57634e90cabad input:hidden:first').after("<input type='hidden' name='w_search_campaign' value='"+novell_search_campaign+"' />");
-		
-		// read the novell_search_paid_keyword cookie (for w_search_campaign)
-		var novell_search_paid_keyword = '';
-		if(readCookie('novell_search_paid_keyword') !== null) {
-			novell_search_paid_keyword = readCookie('novell_search_paid_keyword');
-		}
-		jQuery('#form_builder_form_57634e90cabad input:hidden:first').after("<input type='hidden' name='w_search_terms' value='"+novell_search_paid_keyword+"' />");
-		
-		
-		// set the w_form_submit_url
-		var w_form_submit_url = (window.location != window.parent.location) ? document.referrer: document.location;
-		if (w_form_submit_url == 'undefined') {
-			w_form_submit_url = window.location.href
-		}
-		jQuery('#form_builder_form_57634e90cabad input:hidden:first').after("<input type='hidden' name='w_form_submit_url' value='"+w_form_submit_url+"' />");
-		
-		// set the w_landing_page_url based on novell_search_landing cookie
-		var w_landing_page_url = window.location.href;
-		if(readCookie('novell_search_landing') !== null) {
-			w_landing_page_url = readCookie('novell_search_landing');
-		}
-		jQuery('#form_builder_form_57634e90cabad input:hidden:first').after("<input type='hidden' name='w_landing_page_url' value='"+w_landing_page_url+"' />");
-		
-		
-		// set utm_campaign based on novell_utm_campaign cookie
-		var novell_utm_campaign = '';
-		if(readCookie('novell_utm_campaign') !== null) {
-			novell_utm_campaign = readCookie('novell_utm_campaign');
-		}
-		jQuery('#form_builder_form_57634e90cabad input:hidden:first').after("<input type='hidden' name='utm_campaign' value='"+novell_utm_campaign+"' />");
-		
-		// set utm_medium based on novell_utm_medium cookie
-		var novell_utm_medium = '';
-		if(readCookie('novell_utm_medium') !== null) {
-			novell_utm_medium = readCookie('novell_utm_medium');
-		}
-		jQuery('#form_builder_form_57634e90cabad input:hidden:first').after("<input type='hidden' name='utm_medium' value='"+novell_utm_medium+"' />");
-		
-		// w_icid based on icid cookie
-		var w_icid = '';
-		if (readCookie('icid') !== null) {
-			w_icid = readCookie('icid');
-		}
-		if (document.getElementById('w_icid')) {
-			jQuery('#form_builder_form_57634e90cabad input[id=w_icid]').remove();
-		}
-		jQuery('#form_builder_form_57634e90cabad input:hidden:first').after("<input type='hidden' name='w_icid' value='"+w_icid+"' />");
-
-		// set utm_source based on novell_utm_medium cookie
-		var novell_utm_source = '';
-		if(readCookie('novell_utm_source') !== null) {
-			novell_utm_source = readCookie('novell_utm_source');
-		}
-		jQuery('#form_builder_form_57634e90cabad input:hidden:first').after("<input type='hidden' name='utm_source' value='"+novell_utm_source+"' />");
-		
-		// set w_download_url based on w_download_url cookie
-		var w_download_url = '';
-		if(readCookie('w_download_url') !== null) {
-			w_download_url = readCookie('w_download_url');
-		}
-		if (w_download_url != '') {
-			jQuery('#form_builder_form_57634e90cabad input:hidden:first').after("<input type='hidden' name='w_download_url' value='"+w_download_url+"' />");
-		}
-		
-		// set elqCustomerGUID based on eloqua_id cookie
-		var eloqua_id = '';
-		if(readCookie('eloqua_id') !== null) {
-			eloqua_id = readCookie('eloqua_id');
-		}
-		jQuery('#form_builder_form_57634e90cabad input:hidden:first').after("<input type='hidden' name='elqCustomerGUID' value='"+eloqua_id+"' />");
-		
-		
-		// set the eventName, eventId, contactGroup based on if a query param was passed in (for netiq)
-		var overwrite_eventName = getQueryVariable('eventName');
-		var overwrite_eventId = getQueryVariable('eventId');
-		var overwrite_contactGroup = getQueryVariable('contactGroup');
-		if (overwrite_eventName !== false) {
-			jQuery("#form_builder_form_57634e90cabad input[name='eventName']").val(overwrite_eventName);
-		}
-		if (overwrite_eventId !== false) {
-			jQuery("#form_builder_form_57634e90cabad input[name='eventId']").val(overwrite_eventId);
-		}
-		
-
-		/////////////////////////////////////////////////////////////////////////
-		// set campaign_description and campaign name based on get params
-		var overwrite_campaign_description = getQueryVariable('campaign_description');
-		var overwrite_campaign_id = getQueryVariable('campaign_id');
-		if (overwrite_campaign_description !== false) {
-			if (jQuery("#form_builder_form_57634e90cabad input[name='campaign_description']").length > 0) {
-				jQuery("#form_builder_form_57634e90cabad input[name='campaign_description']").val(overwrite_campaign_description);
-			} else {
-				jQuery("#form_builder_form_57634e90cabad").prepend("<input type='hidden' name='campaign_description' value='" + overwrite_campaign_description + "' />");
-			}
-		}
-		if (overwrite_campaign_id !== false) {
-			if (jQuery("#form_builder_form_57634e90cabad input[name='campaign_id']").length > 0) {
-				jQuery("#form_builder_form_57634e90cabad input[name='campaign_id']").val(overwrite_campaign_id);
-			} else {
-				jQuery("#form_builder_form_57634e90cabad").prepend("<input type='hidden' name='campaign_id' value='" + overwrite_campaign_id + "' />");
-			}
-		}
-		// end get params
-		
-		
-		if (typeof elq_product_name == 'string'     ) {				
-			jQuery('#form_builder_form_57634e90cabad input:hidden:first').after("<input type='hidden' name='w_product' value='" + elq_product_name + "' />");
-		}
-		
-		
-		jQuery('#form_builder_submit_57634e90cabad').click(function(e) {
-			e.preventDefault();
-			submit_formbuilder_form_57634e90cabad();
-		});
-		
-		jQuery('#form_builder_form_57634e90cabad').submit(function(e) {
-			e.preventDefault();
-			submit_formbuilder_form_57634e90cabad();
-		});
-	});
-</script>
-
-
-
-
-
-
-
-
-                                </div>
-                            </div>
-							<div class="talk-form-footer">
-								<div class="row">
-									<div class="col-md-6 talk-privacy">
-										<a href="https://www.suse.com/company/policies/privacy">Read Privacy Policy</a>
-									</div>
-									<div class="col-md-6 talk-required">
-										Required Fields*
-									</div>
-								</div>
-							</div>
-						</div>
+						<!-- <iframe src="/racframe"/> -->
 					</div>
 				</div>
 			</div>
@@ -2198,7 +339,7 @@ el=e.createElement(c),it=e.getElementsByTagName(c)[0];el.async=1;el.src=i;it.par
                     <div class="feedback-form-footer">
                         <div class="row">
                             <div class="col-md-6 talk-privacy">
-                                <a href="https://www.suse.com/company/policies/privacy">Read Privacy Policy</a>
+                                <a href="https://www.suse.com/company/policies/privacy/">Read Privacy Policy</a>
                             </div>
                             <div class="col-md-6 talk-required">
                                 Required Fields*
@@ -2234,15 +375,18 @@ el=e.createElement(c),it=e.getElementsByTagName(c)[0];el.async=1;el.src=i;it.par
 		
 					<div class="top-banner"></div>
 		
-		<main role="main">
-			<div class="container-fluid simple-banner">
+		<main role="main" class="">
+			
+<div class="container-fluid simple-banner">
     <div class="row">
         <div class="banner">
                              <h2>Company Privacy</h2>
                                           <h1>Cookie Policy</h1>
                      </div>
     </div>
-</div><div class="container-fluid product-subpage-content t4">
+</div>
+
+<div class="container-fluid product-subpage-content t4">
     <div class="row">
                     
     	<div>
@@ -2650,359 +794,430 @@ el=e.createElement(c),it=e.getElementsByTagName(c)[0];el.async=1;el.src=i;it.par
         </div>
     </div>
 </div>
-        </main><div class="clear"></div>
+        </main>
+
+		<div class="clear"></div>
 <footer>
-         <div class="container-fluid">
-            <div class="row">
-               <div class="footer">
+	<div class="container-fluid ">
+		<div class="row">
+			<div class="footer">
+				<div class="float" id="footer-language">
+					<div class="lang-select popup">
+																											<a href="https://www.suse.com/de-de/company/policies/privacy/" data-country="de-de">Deutsch</a>
+																												<a class="current" href="https://www.suse.com/en-us/company/policies/privacy/" data-country="en-us" title="">English</a>
+																												<a href="https://www.suse.com/es-es/company/policies/privacy/" data-country="es-es">Español</a>
+																												<a href="https://www.suse.com/fr-fr/company/policies/privacy/" data-country="fr-fr">Français</a>
+																												<a href="https://www.suse.com/zh-cn/company/policies/privacy/" data-country="zh-cn">中文(简体)</a>
+																												<a href="https://www.suse.com/ja-jp/company/policies/privacy/" data-country="ja-jp">日本語</a>
+																												<a href="https://www.suse.com/pt-br/company/policies/privacy/" data-country="pt-br">Português (Brasil)</a>
+																		</div>
+				</div>
+				<div id="login_form">
+					<div id="login_drop" style="display:none;">
+						<h5>Login</h5>
+						<form action="https://login.microfocus.com/nidp/app/login?id=132" method="post" id="overlay_form">
+							<input type="hidden" class="targetUrl" name="target" value="https://www.suse.com/common/util/secure/login.php">
+							<label for="Ecom_User_ID">User Name</label>
+							<input type="text" id="Ecom_User_ID" name="Ecom_User_ID" value="" tabindex="1" placeholder="User Name">
+							<label for="Ecom_Password" id="overlay_pw">Password</label>
+							<input type="password" id="Ecom_Password" name="Ecom_Password" value="" tabindex="2" placeholder="Password">
+							<p id="overlay_forgot"><a href="https://www.suse.com/selfreg/jsp/forgotAll.jsp" data-di-id="di-id-98e30403-9bf1b3e7">Forgot Password</a></p>
+							<input type="submit" id="overlay_submit" value="GO">
+						</form>
 
-                  <div class="float" id="footer-language">
-                      <div class="lang-select popup">
-                      	                        	                            	<a href="#" data-country="de-de">Deutsch</a>
-                                                  	                        	                            	<a class="current" href="#" data-country="en-us" title="">English</a>
-                                                  	                        	                            	<a href="#" data-country="es-es">Español</a>
-                                                  	                        	                            	<a href="#" data-country="fr-fr">Français</a>
-                                                  	                        	                            	<a href="#" data-country="zh-cn">中文(简体)</a>
-                                                  	                        	                            	<a href="#" data-country="ja-jp">日本語</a>
-                                                  	                        	                            	<a href="#" data-country="pt-br">Português (Brasil)</a>
-                                                  	                      </div>
-                  </div>
+						<script type="text/javascript">
+							$("#login_drop form input.targetUrl").each(function() {
+								var baseTarget = $(this).val();
+								$(this).val(baseTarget + "?r=" + encodeURI(location.href) );
+							});
+						</script>
 
-                    <div id="login_form">
-                        <div id="login_drop" style="display:none;">
-                            <h5>Login</h5>
-                            <form action="https://login.microfocus.com/nidp/idff/sso?id=6" method="post" id="overlay_form">
-                               <input type="hidden" name="target" value="https://www.suse.com/common/util/secure/login.php?r=http://www.suse.com/company/policies/privacy">
-                               <label for="Ecom_User_ID">User Name</label>
-                               <input type="text" id="Ecom_User_ID" name="Ecom_User_ID" value="" tabindex="1" placeholder="User Name">
-                               <label for="Ecom_Password" id="overlay_pw">Password</label>
-                               <input type="password" id="Ecom_Password" name="Ecom_Password" value="" tabindex="2" placeholder="Password">
-                               <p id="overlay_forgot"><a href="https://www.suse.com/selfreg/jsp/forgotAll.jsp" data-di-id="di-id-98e30403-9bf1b3e7">Forgot Password</a></p>
-                               <input type="submit" id="overlay_submit" value="GO">
-                            </form>
-                            <p id="overlay_create_acct"><a href="https://www.suse.com/selfreg/jsp/createAccount.jsp" data-di-id="di-id-2752811c-8160c41">Create an Account</a></p>
-                        </div>
-                    </div>
+						<p id="overlay_create_acct"><a href="/selfreg/jsp/createAccount.jsp" data-di-id="di-id-2752811c-8160c41">Create an Account</a></p>
+					</div>
+				</div>
+				<div class="social">
+					<ul>
+						<li><a href="https://www.facebook.com/SUSEWorldwide"><img src="https://www.suse.com/assets/img/fn-fbook-ico.png" alt=""></a></li>
+						<li><a href="https://www.twitter.com/SUSE"><img src="https://www.suse.com/assets/img/fn-twit-ico.png" alt=""></a></li>
+						<li><a href="https://www.linkedin.com/company/suse"><img src="https://www.suse.com/assets/img/fn-link-ico.png" alt=""></a></li>
+						<li><a href="https://plus.google.com/+SUSE/"><img src="https://www.suse.com/assets/img/fn-goog-ico.png" alt=""></a></li>
+					</ul>
+				</div>
+				<div class="foot-nav">
+					<ul>
+						<li><a href="https://www.suse.com/company/careers/">Jobs</a></li>
+						<li><a href="https://www.suse.com/company/legal/">Legal</a></li>
+						<li><a href="https://www.suse.com/docrep/documents/0ckboq2eo3/anti-slavery-statement-2016-signed.pdf">Anti-Slavery Statement</a></li>
+						<li><a href="#" data-toggle="modal" data-target="#feedback-modal">Feedback</a></li>
+						<li><a href="https://www.suse.com/company/history/">About</a></li>
+						<li><a href="https://www.suse.com/contact/">Contact</a></li>
+						<li><a href="#" data-toggle="modal" data-target="#talk-modal">Let's Talk</a></li>
+					</ul>
+				</div>
+				<div class="logo">
+					<a href="https://www.suse.com">
+						<img src="https://www.suse.com/assets/img/fn-suse-ico.png" alt="">
+					</a>
 
-                   <div class="social">
-                      <ul>
-                         <li><a href="https://www.facebook.com/SUSEWorldwide"><img src="https://www.suse.com/assets/img/fn-fbook-ico.png" alt=""></a></li>
-                         <li><a href="https://www.twitter.com/SUSE"><img src="https://www.suse.com/assets/img/fn-twit-ico.png" alt=""></a></li>
-                         <li><a href="https://www.linkedin.com/company/suse"><img src="https://www.suse.com/assets/img/fn-link-ico.png" alt=""></a></li>
-                         <li><a href="https://plus.google.com/+SUSE/"><img src="https://www.suse.com/assets/img/fn-goog-ico.png" alt=""></a></li>
-                      </ul>
-                   </div>
-                   <div class="foot-nav">
-                      <ul>
-                         <li><a href="https://www.suse.com/company/careers">Careers</a></li>
-                         <li><a href="https://www.suse.com/company/legal">Legal</a></li>
-                         <li><a href="#" data-toggle="modal" data-target="#feedback-modal">Feedback</a></li>
-                         <li><a href="https://www.suse.com/company/history">About</a></li>
-                         <li><a href="https://www.suse.com/contact">Contact</a></li>
-                         <li><a href="#" data-toggle="modal" data-target="#talk-modal">Let's Talk</a></li>
-                      </ul>
-                   </div>
-                   <div class="logo">
-                      <a href="https://www.suse.com">
-                         <img src="https://www.suse.com/assets/img/fn-suse-ico.png" alt="">
-                      </a>
-                      <div class="phone">
-						                          <div class="number">
-							 							 							 	Sales:
-							 							  1-800-796-3700</div>
-                         <div class="number">Support: 1-800-858-4000</div>
-                      </div>
-                   </div>
-                   <div class="copy">
-                      ©2016 SUSE, All Rights Reserved
-                   </div>
-                   <div class="clear"></div>
-                </div>
-            </div>
-         </div>
-      </footer>
+					<div class="phone">
+						
+						<div class="number">
+																						Sales:
+														1-800-796-3700
+						</div>
+						<div class="number">Support: 1-800-858-4000</div>
+					</div>
+				</div>
+				<div class="copy">
+					©2016 SUSE, All Rights Reserved
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+</footer>
 
-      <div class="menudropdowns">
-         <div class="outer products">
-            <div class="mnavback"><i class="fa fa-angle-left fa-2x"></i> <span class="goback">Back</span></div>
-            <div class="dropdown">
-               <div class="container-fluid">
-                  <div class="col-sm-3">
-                     <div class="innercol">
-                        <h5 class="special enterprise_drop"><a href="https://www.suse.com/solutions/enterprise-linux">Enterprise Linux</a> <i class="plusminus fa fa-plus"></i></h5>
-                     </div>
-                     <div class="sub_menu2_content">
-                         <div id="highlight">
-                            <div class="innercol">
-                               <p>
-                                  <a href="https://www.suse.com/products/server">
-                                     <strong>SUSE Linux Enterprise Server</strong>
-                                     Increase availability, efficiency, &amp; innovation
-                                  </a>
-                               </p>
-                               <ul>
-                                  <li><a href="https://www.suse.com/products/server/big-data">For Big Data</a></li>
-                                  <li><a href="https://www.suse.com/products/server/hpc.html">For High Performance Computing</a></li>
-                                  <li><a href="https://www.suse.com/products/linux-point-of-service">For Point of Service</a></li>
-                                  <li><a href="https://www.suse.com/products/power">For IBM Power</a></li>
-                                  <li><a href="https://www.suse.com/products/sles-for-sap">For SAP Applications</a></li>
-                                  <li><a href="https://www.suse.com/products/sles-for-sap/hana">For SAP HANA</a></li>
-                                  <li><a href="https://www.suse.com/promo/sle/vmware">For VMware</a>
-                                  </li><li><a href="https://www.suse.com/products/systemz">For z Systems</a></li>
-                                  <li><a href="https://www.suse.com/products/server/jeos">Just Enough Operating System (JeOS)</a></li>
-                               </ul>
-                            </div>
-                         </div>
-                         <div class="innercol">
-                            <p>
-                               <a href="https://www.suse.com/products/long-term-service-pack-support">
-                                  <strong>Long Term Service Pack Support</strong>
-                                  Up to 5 years of support for each service pack
-                               </a>
-                            </p>
-                            <p>
-                               <a href="https://www.suse.com/products/desktop">
-                                  <strong>SUSE Linux Enterprise Desktop</strong>
-                                  Office tools that work with Windows, Mac &amp; UNIX
-                               </a>
-                            </p>
+<div class="menudropdowns">
+	<div class="outer products">
+		<div class="mnavback"><i class="fa fa-angle-left fa-2x"></i> <span class="goback">Back</span></div>
+		<div class="dropdown">
+			<div class="container-fluid">
+				<div class="col-sm-3">
+					<div class="innercol">
+						<h5 class="special enterprise_drop"><a href="https://www.suse.com/solutions/enterprise-linux/">Enterprise Linux</a> <i class="plusminus fa fa-plus"></i></h5>
+					</div>
+					<div class="sub_menu2_content">
+						<div id="highlight">
+							<div class="innercol">
+								<p>
+									<a href="https://www.suse.com/products/server/">
+										<strong>SUSE Linux Enterprise Server</strong>
+										Increase availability, efficiency, &amp; innovation
+									</a>
+								</p>
+								<ul>
+									<li><a href="https://www.suse.com/products/arm/">For ARM Systems</a></li>
+									<li><a href="https://www.suse.com/products/server/big-data/">For Big Data</a></li>
+									<li><a href="https://www.suse.com/products/server/hpc.html">For High Performance Computing</a></li>
+									<li><a href="https://www.suse.com/products/server/jeos/">Just Enough Operating System (JeOS)</a></li>
+									<li><a href="https://www.suse.com/products/linux-point-of-service/">For Point of Service</a></li>
+									<li><a href="https://www.suse.com/products/power/">For IBM Power</a></li>
+									<li><a href="https://www.suse.com/products/sles-for-sap/">For SAP Applications</a></li>
+									<li><a href="https://www.suse.com/products/sles-for-sap/hana/">For SAP HANA</a></li>
+									<li><a href="https://www.suse.com/promo/sle/vmware/">For VMware</a></li>
+									<li><a href="https://www.suse.com/products/systemz/">For z Systems</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="innercol">
 							<p>
-							   <a href="https://www.suse.com/partners/embedded">
-								  <strong>SUSE Embedded</strong>
-								  For stable and secure purpose-built appliances, devices, and systems
-							   </a>
+								<a href="https://www.suse.com/products/long-term-service-pack-support/">
+									<strong>Long Term Service Pack Support</strong>
+									Up to 5 years of support for each service pack
+								</a>
 							</p>
-                         </div>
-                     </div>
-                  </div>
-                  <div class="col-sm-3">
-                     <div class="innercol">
-                        <h5 class="sub_menu2_drop"><a href="https://www.suse.com/solutions/mission-critical-computing">Mission-Critical Computing</a> <i class="plusminus fa fa-plus"></i></h5>
-                        <div class="sub_menu2_content">
-                            <p>
-                               <a href="https://www.suse.com/products/highavailability">
-                                  <strong>SUSE Linux Enterprise High Availability Extension</strong>
-                                  Clustering for physical &amp; virtual servers
-                               </a>
-                            </p>
-                            <p>
-                               <a href="https://www.suse.com/products/highavailability/geo-clustering">
-                                  <strong>Geo Clustering</strong>
-                                  Clustering across unlimited distances
-                               </a>
-                            </p>
-                            <p>
-                               <a href="https://www.suse.com/products/live-patching">
-                                  <strong>Live Patching</strong>
-                                  Apply kernel patches without stopping the system
-                               </a>
-                            </p>
-                            <p>
-                               <a href="https://www.suse.com/products/realtime">
-                                  <strong>SUSE Linux Enterprise Real Time Extension</strong>
-                                  Reduce system latencies &amp; boost response times
-                               </a>
-                            </p>
-                            <p>
-                               <a href="https://www.suse.com/products/priority-support">
-                                  <strong>Priority Support</strong>
-                                  Get support whenever you need it, 24x7x365
-                               </a>
-                            </p>
-                            <p>
-                               <a href="https://www.suse.com/products/premium-support">
-                                  <strong>Premium Support</strong>
-                                  Dedicated support engineers to avoid downtime
-                               </a>
-                            </p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-sm-3">
-                     <div class="innercol">
-                        <h5 class="sub_menu2_drop"><a href="https://www.suse.com/solutions/it-infrastructure-management">IT Infrastructure Management</a> <i class="plusminus fa fa-plus"></i></h5>
-                        <div class="sub_menu2_content">
-                            <p>
-                               <a href="https://www.suse.com/products/suse-manager">
-                                  <strong>SUSE Manager</strong>
-                                  Comprehensive Linux server management
-                               </a>
-                            </p>
-                            <p>
-                               <a href="https://www.suse.com/products/expandedsupport">
-                                  <strong>Expanded Support</strong>
-                                  Support for common Linux platforms
-                               </a>
-                            </p>
-                            <p>
-                               <a href="https://www.suse.com/products/suse-manager/management-pack">
-                                  <strong>Management Pack for Microsoft System Center Operations Manager</strong>
-                                  Helps Windows admins maintain Linux patches
-                               </a>
-                            </p>
-                            <p>
-                               <a href="https://www.suse.com/products/workstation-extension">
-                                  <strong>SUSE Linux Enterprise Workstation Extension</strong>
-                                  Use your enterprise server as a workstation
-                               </a>
-                            </p>
-                            <p>
-                               <a href="https://www.suse.com/products/susestudio">
-                                  <strong>SUSE Studio</strong>
-                                  Build &amp; deploy portable &amp; cloud-enabled apps
-                               </a>
-                            </p>
-                        </div>
-                            <br>
-                        <h5 class="sub_menu2_drop"><a href="https://www.suse.com/solutions/cloud">Cloud Solutions</a> <i class="plusminus fa fa-plus"></i></h5>
-                        <div class="sub_menu2_content">
-                            <p>
-                               <a href="https://www.suse.com/products/suse-openstack-cloud">
-                                  <strong>SUSE OpenStack Cloud</strong>
-                                  Mixed hypervisor, private cloud infrastructure
-                               </a>
-                            </p>
-                            <p>
-                               <a href="https://www.suse.com/promo/cloud/public">
-                                  <strong>Solutions for Public Cloud</strong>
-                                  Run on Amazon EC2 or Microsoft Azure
-                               </a>
-                            </p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-sm-3">
-                     <div class="innercol">
-                        <h5 class="subcon sub_menu2_drop"><a href="https://www.suse.com/solutions/server-and-application-virtualization">Server and Application Virtualization</a> <i class="plusminus fa fa-plus"></i></h5>
-                        <div class="sub_menu2_content">
-                            <p>
-                               <a href="https://www.suse.com/promo/sle/docker">
-                                  <strong>Docker</strong>
-                                  Automates app deployment in software containers
-                               </a>
-                            </p>
-                            <p>
-                               <a href="https://www.suse.com/products/hypervisor-support">
-                                  <strong>Hypervisor Support</strong>
-                                  KVM, Xen, Microsoft Hyper-V, with VMware ESXi
-                               </a>
-                            </p>
-                            <p>
-                               <a href="https://www.suse.com/products/vmdriverpack">
-                                  <strong>Virtual Machine Driver Pack</strong>
-                                  Paravirtualized disk, network, &amp; balloon drivers
-                               </a>
-                            </p>
-                        </div>
-                        <br>
-                        <h5 class="sub_menu2_drop"><a href="https://www.suse.com/solutions/software-defined-storage">Software-Defined Solutions</a> <i class="plusminus fa fa-plus"></i></h5>
-                        <div class="sub_menu2_content">
-                            <p>
-                               <a href="https://www.suse.com/products/suse-enterprise-storage">
-                                  <strong>SUSE Enterprise Storage</strong>
-                                  Software-based data storage powered by Ceph
-                               </a>
-                            </p>
-                        </div>
-                        <br>
-                        <h5 class="prodaz"><a href="https://www.suse.com/products/">Products A-Z</a></h5>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="outer support">
-            <div class="mnavback"><i class="fa fa-angle-left fa-2x"></i> <span class="goback">Back</span></div>
-            <div class="dropdown">
-               <div class="container-fluid">
-                  <div class="col-md-6">
-                     <div class="innercol">
-                         <h5><a href="https://www.suse.com/support/">Support</a></h5>
-                         <p><a href="https://www.suse.com/support/">Knowledgebase</a></p>
-                         <p><a href="https://forums.suse.com/forum.php">Support Forums</a></p>
-                         <p><a href="https://www.suse.com/support/">Product Support</a></p>
-                         <p><a href="https://www.suse.com/support/premium">Premium Support</a></p>
-                         <p><a href="https://download.suse.com/patch/finder/">Patches &amp; Updates</a></p>
-                         <p><a href="https://drivers.suse.com/">Driver Search</a></p>
-                         <p><a href="https://www.suse.com/support/programs/subscriptions">Subscriptions &amp; Services</a></p>
-                                                  <p><a href="https://www.suse.com/support/policy.html">Product Support Lifecycle</a></p>
-                         <p><a href="https://www.suse.com/documentation/">Product Documentation</a></p>
-                         <p><a href="https://www.suse.com/partners/technology_support.html">Technology Partner Support</a></p>
-                     </div>
-                  </div>
-                  <div class="col-md-6">
-                     <div class="innercol">
-                         <h5>Services</h5>
-                         <p><a href="https://www.suse.com/services/consulting">Consulting</a>
-                         </p><p><a href="https://www.suse.com/services/training">Training</a>
-                         </p><p><a href="https://www.suse.com/services/certification">Certification</a>
-                         </p><p><a href="https://www.suse.com/licensing/business">Licensing</a></p>
-                         <p><a href="https://www.suse.com/services/support-offerings/developer-services">Developer Services</a></p>
-                         <p><a href="https://www.suse.com/support/beta-program">Beta Program</a></p>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="outer partners">
-            <div class="mnavback"><i class="fa fa-angle-left fa-2x"></i> <span class="goback">Back</span></div>
-            <div class="dropdown">
-            	<div class="container-fluid">
-                	<div class="innercol">
-                    	<p>
-                            <a href="https://www.suse.com/partners/find-partner">
-                                <strong>Find a Partner</strong>
-                                Find certified providers, integrators and resellers
-                            </a>
-                        </p>
-                        <p>
-                            <a href="https://www.suse.com/partners/become-partner">
-                                <strong>Become a Partner</strong>
-                                Provide your customers with award-winning solutions
-                            </a>
-                        </p>
-                        <p>
-                            <a href="https://www.partnernetprogram.com/">
-                                <strong>SUSE Partner Program Login</strong>
-                                Access SUSE Partner Program tools, resources and benefits
-                            </a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-         </div>
-         <div class="outer communities">
-            <div class="mnavback"><i class="fa fa-angle-left fa-2x"></i> <span class="goback">Back</span></div>
-         	<div class="dropdown">
-            	<div class="container-fluid">
-                	<div class="innercol">
-                    	<p><a href="https://www.suse.com/communities/blog">SUSE Blog</a></p>
-                    	<p><a href="https://forums.suse.com/forum.php">SUSE Forums</a></p>
-                    	<p><a href="https://www.opensuse.org/">openSUSE.org</a></p>
-                    </div>
-                </div>
-            </div>
-         </div>
-         <div class="outer about">
-            <div class="mnavback"><i class="fa fa-angle-left fa-2x"></i> <span class="goback">Back</span></div>
-            <div class="dropdown">
-               <div class="container-fluid">
-                  <div class="innercol">
-                     <p><a href="https://www.suse.com/company/executive-management">Management Team</a></p>
-                     <p><a href="https://www.suse.com/company/history">History</a></p>
-                     <p><a href="https://www.suse.com/company/careers">Careers</a></p>
-                     <p><a href="https://www.suse.com/success/">Success Stories</a></p>
-                     <p><a href="https://www.suse.com/events">Events</a></p>
-                     <p><a href="https://www.suse.com/newsroom">Newsroom</a></p>
-                     <p><a href="https://www.suse.com/company/open-source">Open Source Contributions</a></p>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
+
+							<p>
+								<a href="https://www.suse.com/products/desktop/">
+									<strong>SUSE Linux Enterprise Desktop</strong>
+									Office tools that work with Windows, Mac &amp; UNIX
+								</a>
+							</p>
+
+							<p>
+								<a href="https://www.suse.com/partners/embedded/">
+									<strong>SUSE Embedded</strong>
+									For stable and secure purpose-built appliances, devices, and systems
+								</a>
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-3">
+					<div class="innercol">
+						<h5 class="sub_menu2_drop"><a href="https://www.suse.com/solutions/mission-critical-computing/">Mission-Critical Computing</a> <i class="plusminus fa fa-plus"></i></h5>
+						<div class="sub_menu2_content">
+							<p>
+								<a href="https://www.suse.com/products/highavailability/">
+									<strong>High Availability</strong>
+									Clustering for physical &amp; virtual servers
+								</a>
+							</p>
+
+							<p>
+								<a href="https://www.suse.com/products/highavailability/geo-clustering/">
+									<strong>Geo Clustering</strong>
+									Clustering across unlimited distances
+								</a>
+							</p>
+
+							<p>
+								<a href="https://www.suse.com/products/live-patching/">
+									<strong>Live Patching</strong>
+									Apply kernel patches without stopping the system
+								</a>
+							</p>
+
+							<p>
+								<a href="https://www.suse.com/products/realtime/">
+									<strong>Real Time</strong>
+									Reduce system latencies &amp; boost response times
+								</a>
+							</p>
+
+							<p>
+								<a href="https://www.suse.com/products/priority-support/">
+									<strong>Priority Support</strong>
+									Get support whenever you need it, 24x7x365
+								</a>
+							</p>
+
+							<p>
+								<a href="https://www.suse.com/products/premium-support/">
+									<strong>Premium Support</strong>
+									Dedicated support engineers to avoid downtime
+								</a>
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-3">
+					<div class="innercol">
+						<h5 class="sub_menu2_drop"><a href="https://www.suse.com/solutions/cloud/">Cloud Solutions</a> <i class="plusminus fa fa-plus"></i></h5>
+						<div class="sub_menu2_content">
+							<p>
+								<a href="https://www.suse.com/products/suse-openstack-cloud/">
+									<strong>SUSE OpenStack Cloud</strong>
+									Mixed hypervisor, private cloud infrastructure
+								</a>
+							</p>
+
+							<p>
+								<a href="https://www.suse.com/promo/cloud/public/">
+									<strong>Solutions for Public Cloud</strong>
+									Run on Amazon EC2 or Microsoft Azure
+								</a>
+							</p>
+						</div>
+
+						<br>
+
+						<h5 class="sub_menu2_drop"><a href="https://www.suse.com/solutions/it-infrastructure-management/">IT Infrastructure Management</a> <i class="plusminus fa fa-plus"></i></h5>
+						<div class="sub_menu2_content">
+							<p>
+								<a href="https://www.suse.com/products/suse-manager/">
+									<strong>SUSE Manager</strong>
+									Comprehensive Linux server management
+								</a>
+							</p>
+
+							<p>
+								<a href="https://www.suse.com/products/expandedsupport/">
+									<strong>Expanded Support</strong>
+									Support for common Linux platforms
+								</a>
+							</p>
+
+							<p>
+								<a href="https://www.suse.com/products/suse-manager/management-pack/">
+									<strong>Management Pack for Microsoft System Center Operations Manager</strong>
+									Helps Windows admins maintain Linux patches
+								</a>
+							</p>
+
+							<p>
+								<a href="https://www.suse.com/products/workstation-extension/">
+									<strong>SUSE Linux Enterprise Workstation Extension</strong>
+									Use your enterprise server as a workstation
+								</a>
+							</p>
+
+							<p>
+								<a href="https://www.suse.com/products/susestudio/">
+									<strong>SUSE Studio</strong>
+									Build &amp; deploy portable &amp; cloud-enabled apps
+								</a>
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-3">
+					<div class="innercol">
+						<h5 class="sub_menu2_drop"><a href="https://www.suse.com/solutions/software-defined-storage/">Software-Defined Storage</a> <i class="plusminus fa fa-plus"></i></h5>
+						<div class="sub_menu2_content">
+							<p>
+								<a href="https://www.suse.com/products/suse-enterprise-storage/">
+									<strong>SUSE Enterprise Storage</strong>
+									Software-based data storage powered by Ceph
+								</a>
+							</p>
+						</div>
+
+						<br>
+
+						<h5 class="subcon sub_menu2_drop"><a href="https://www.suse.com/solutions/server-and-application-virtualization/">Server and Application Virtualization</a> <i class="plusminus fa fa-plus"></i></h5>
+						<div class="sub_menu2_content">
+							<p>
+								<a href="https://www.suse.com/promo/sle/docker/">
+									<strong>Docker</strong>
+									Automates app deployment in software containers
+								</a>
+							</p>
 
 
-<script type="text/javascript" src="https://www.suse.com/min/?b=assets/js&amp;f=bootstrap.js,core.js,lightslider.js,jquery.corner.js,jScrollPane.js,jquery-ui.min.js,mobile-nav.js,shop.js,jquery.cookie.js,livechat.js,featherlight.min.js,featherlight.gallery.min.js,analytics.js"></script>
+							<p>
+								<a href="https://www.suse.com/products/hypervisor-support/">
+									<strong>Hypervisor Support</strong>
+									KVM, Xen, Microsoft Hyper-V, with VMware ESXi
+								</a>
+							</p>
+
+
+							<p>
+								<a href="https://www.suse.com/products/vmdriverpack/">
+									<strong>Virtual Machine Driver Pack</strong>
+									Paravirtualized disk, network, &amp; balloon drivers
+								</a>
+							</p>
+						</div>
+
+						<br>
+
+						<h5 class="prodaz"><a href="https://www.suse.com/products/">Products A-Z</a></h5>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="outer support">
+		<div class="mnavback"><i class="fa fa-angle-left fa-2x"></i> <span class="goback">Back</span></div>
+		<div class="dropdown">
+			<div class="container-fluid">
+				<div class="col-md-6">
+					<div class="innercol">
+						<h5><a href="https://www.suse.com/support/">Support</a></h5>
+						<p><a href="https://www.suse.com/support/">Knowledgebase</a></p>
+						
+						<p><a href="https://forums.suse.com/forum.php">Support Forums</a></p>
+
+						<p><a href="https://www.suse.com/support/">Product Support</a></p>
+
+						<p><a href="https://www.suse.com/support/premium/">Premium Support</a></p>
+
+						<p><a href="https://download.suse.com/patch/finder/">Patches &amp; Updates</a></p>
+
+						<p><a href="https://drivers.suse.com/">Driver Search</a></p>
+
+						<p><a href="https://www.suse.com/support/programs/subscriptions/">Subscriptions &amp; Services</a></p>
+
+						
+						<p><a href="https://www.suse.com/support/policy.html">Product Support Lifecycle</a></p>
+
+						<p><a href="https://www.suse.com/documentation/">Product Documentation</a></p>
+
+						<p><a href="https://www.suse.com/partners/technology_support.html">Technology Partner Support</a></p>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="innercol">
+						<h5>Services</h5>
+						<p><a href="https://www.suse.com/services/consulting/">Consulting</a></p>
+
+						<p><a href="https://www.suse.com/services/training/">Training</a></p>
+
+						<p><a href="https://www.suse.com/services/certification/">Certification</a></p>
+
+						<p><a href="https://www.suse.com/licensing/business/">Licensing</a></p>
+
+						<p><a href="https://www.suse.com/services/support-offerings/developer-services/">Developer Services</a></p>
+
+						<p><a href="https://www.suse.com/support/beta-program/">Beta Program</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="outer partners">
+		<div class="mnavback"><i class="fa fa-angle-left fa-2x"></i> <span class="goback">Back</span></div>
+		<div class="dropdown">
+			<div class="container-fluid">
+				<div class="innercol">
+					<p>
+						<a href="https://www.suse.com/partners/find-partner/">
+							<strong>Find a Partner</strong>
+							Find certified providers, integrators and resellers
+						</a>
+					</p>
+
+					<p>
+						<a href="https://www.suse.com/partners/become-partner/">
+							<strong>Become a Partner</strong>
+							Provide your customers with award-winning solutions
+						</a>
+					</p>
+
+					<p>
+						<a href="https://www.partnernetprogram.com/">
+							<strong>SUSE Partner Program Login</strong>
+							Access SUSE Partner Program tools, resources and benefits
+						</a>
+					</p>
+
+										
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="outer communities">
+		<div class="mnavback"><i class="fa fa-angle-left fa-2x"></i> <span class="goback">Back</span></div>
+		<div class="dropdown">
+			<div class="container-fluid">
+				<div class="innercol">
+					<p><a href="https://www.suse.com/communities/blog/">SUSE Blog</a></p>
+
+					<p><a href="https://forums.suse.com/forum.php">SUSE Forums</a></p>
+
+					<p><a href="https://www.opensuse.org/">openSUSE.org</a></p>
+
+					<p><a href="http://openattic.org/home.html">openATTIC.org</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="outer about">
+		<div class="mnavback"><i class="fa fa-angle-left fa-2x"></i> <span class="goback">Back</span></div>
+		<div class="dropdown">
+			<div class="container-fluid">
+				<div class="innercol">
+					<p><a href="https://www.suse.com/company/executive-management/">Management Team</a></p>
+
+					<p><a href="https://www.suse.com/company/history/">History</a></p>
+
+					<p><a href="https://www.suse.com/company/careers/">Jobs</a></p>
+
+					<p><a href="https://www.suse.com/success/">Success Stories</a></p>
+
+					<p><a href="https://www.suse.com/events/">Events</a></p>
+
+					<p><a href="https://www.suse.com/events/webinars/">Webinars</a></p>
+
+					<p><a href="https://www.suse.com/newsroom/">Newsroom</a></p>
+
+					<p><a href="https://www.suse.com/company/open-source/">Open Source Contributions</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<script type="text/javascript" src="https://www.suse.com/min/?b=assets/js&amp;f=bootstrap.js,core.js,lightslider.js,jquery.corner.js,jScrollPane.js,jquery-ui.min.js,mobile-nav.js,shop.js,jquery.cookie.js,livechat.js,featherlight.min.js,featherlight.gallery.min.js,analytics.js,banner-tracking.js"></script>
+
+<!--
+*.suse.com
+HTTP Large: cs183.cn.wpc.gammacdn.net
+黔ICP备16006126号-3
+-->
     
 
 </body></html>
