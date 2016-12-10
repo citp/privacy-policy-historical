@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chilisathome.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512042455id_/http%3A//www.chilisathome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chilisathome.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210190947id_/http%3A//www.chilisathome.com/privacy-policy) for the most accurate reproduction.*
 
 # Chilis At Home | Privacy Policy
 
