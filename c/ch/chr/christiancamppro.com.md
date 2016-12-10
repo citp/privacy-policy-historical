@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the christiancamppro.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610014739id_/http%3A//christiancamppro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiancamppro.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210110646id_/http%3A//christiancamppro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Christian Camp Pro
 
-ChristianCampPro.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to www.amazon.com.
+ChristianCampPro.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com, amazon.co.uk, amazon.ca, endless.com, smallparts.com, myhabit.com, and any other website that may be affiliated with Amazon Service LLC Associates Program.
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:andy@christiancamppro.com).
 
