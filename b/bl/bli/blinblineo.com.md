@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blinblineo.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528034904id_/http%3A//www.blinblineo.net/opanda_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinblineo.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210224726id_/http%3A//www.blinblineo.net/opanda_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | BLINBLINEO.NET - Reggaeton - MP3 - Descargar - Videos - Download - Daddy Yankee - J Balvin - Nicky Jam - Maluma - Farruko - Yandel
 
