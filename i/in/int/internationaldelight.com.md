@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the internationaldelight.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607194506id_/http%3A//www.whitewave.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationaldelight.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210214032id_/http%3A//www.whitewave.com/p/privacy) for the most accurate reproduction.*
 
 # WhiteWave Foods
 
+## **WhiteWave Foods Company Privacy Policy**
+
 **Last Updated: April 22nd, 2015**
 
-This Privacy Policy applies to your use of the following WhiteWave Foods Company websites: [www.whitewave.com](http://www.whitewave.com/), [www.horizondairy.com](http://www.horizondairy.com/), [www.internationaldelight.com](https://web.archive.org/web/20160607194506id_/http%3A//www.whitewave.com/p/www.internationaldelight.com), [www.silk.com](http://www.silk.com/), [www.sodeliciousdairyfree.com](http://sodeliciousdairyfree.com/), [www.bonzayogurt.com](http://www.bonzayogurt.com/), and [www.yuluyogurt.com](http://www.yuluyogurt.com/) (each a “Site” and collectively the “Sites”). WhiteWave Foods strives to maintain the highest standards of decency, fairness, and integrity in all our operations. Likewise, WhiteWave Foods is dedicated to protecting your privacy through compliance with this Privacy Policy. This Privacy Policy describes the type of information we may collect from you or that you may provide to us when you visit a Site. Your use of a Site indicates your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Sites or any services available on or through the Sites.
+This Privacy Policy applies to your use of the following WhiteWave Foods Company websites:[www.whitewave.com](http://www.whitewave.com/), [www.horizondairy.com](http://www.horizondairy.com/), [www.internationaldelight.com](http://www.whitewave.com/p/www.internationaldelight.com), [www.silk.com](http://www.silk.com/),[www.sodeliciousdairyfree.com](http://sodeliciousdairyfree.com/), [www.bonzayogurt.com](http://www.bonzayogurt.com/), and [www.yuluyogurt.com](http://www.yuluyogurt.com/) (each a “Site” and collectively the “Sites”). WhiteWave Foods strives to maintain the highest standards of decency, fairness, and integrity in all our operations. Likewise, WhiteWave Foods is dedicated to protecting your privacy through compliance with this Privacy Policy. This Privacy Policy describes the type of information we may collect from you or that you may provide to us when you visit a Site. Your use of a Site indicates your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Sites or any services available on or through the Sites.
 
 **Personal Information**  
 WhiteWave Foods may collect personally identifiable information from you, meaning information about you that can be used to contact or uniquely identify you (“Personal Information”), only on a voluntary basis. Such Personal Information may include information such as your name, postal address, email address, company name, and telephone number.
@@ -37,12 +39,12 @@ Our Sites are not intended for children under 13 years of age. We do not knowing
 WhiteWave Foods reserves the right to make changes to this Privacy Policy at any time. If there is a material change in our privacy practices, we will indicate on our Sites that our privacy practices have changed and provide a link to the new policy. In the event we make a material change to how we use your Personal Information, we will provide you with an opportunity to opt out of such new or different use. The date the Privacy Policy was last revised is identified at the top of this page. You are responsible for periodically reviewing our Sites and this Privacy Policy to check for any updates or changes.
 
 **Contact Information**  
-If you have any questions or comments about this Privacy Policy, please write, phone or email us via the contact information below: 
+If you have any questions or comments about this Privacy Policy, please write, phone or email us via the contact information below:
 
 WhiteWave Foods Company  
-Consumer Affairs   
-12002 Airport Way   
-Broomfield, CO 80021 
+Consumer Affairs  
+12002 Airport Way  
+Broomfield, CO 80021
 
 Phone Toll Free 1-888-820-9283
 
@@ -50,6 +52,4 @@ Contact Us Online:
 [ Horizon Contact Form ](http://www.horizondairy.com/contact-us)  
 [International Delight Contact Form ](http://www.internationaldelight.com/contact-us)  
 [Silk Contact Form](http://silk.com/contact-us)  
-[ So Delicious Dairy Free Contact Form](http://sodeliciousdairyfree.com/contact-us)
-
-©2015 WhiteWave Foods Company. All Rights Reserved.
+[So Delicious Dairy Free Contact Form](http://sodeliciousdairyfree.com/contact-us)
