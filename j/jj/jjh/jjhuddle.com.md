@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the jjhuddle.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607155707id_/http%3A//www.jjhuddle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jjhuddle.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210062007id_/http%3A//www.jjhuddle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JJHuddle.com
+
+Fields marked with a * are required
+
+Quarter/Final *
+
+Your Team*
+
+Score *
+
+Opponent* Lock 
+
+Score *
 
 **Privacy Policy**
 
