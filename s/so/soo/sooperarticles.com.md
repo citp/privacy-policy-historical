@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sooperarticles.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602030708id_/http%3A//www.sooperarticles.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sooperarticles.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210231421id_/http%3A//www.sooperarticles.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Sooper Articles
 
