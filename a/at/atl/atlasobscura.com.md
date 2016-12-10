@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlasobscura.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604014741id_/http%3A//www.atlasobscura.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlasobscura.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210124723id_/http%3A//www.atlasobscura.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Atlas Obscura
 
@@ -63,7 +63,7 @@ The Website is hosted in the United States and is intended for and directed to u
 
 **California Privacy Rights**
 
-California Civil Code Section 1798.83 permits users of the Website who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail with "California Privacy Rights" in the heading to [info@atlasobscura.com](mailto:info@atlasobscura.com) or write us at:
+California Civil Code Section 1798.83 permits users of the Website who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please detail your request with this form or write us at:
 
 Atlas Obscura Privacy Rights  
 61 Greenpoint Ave #302  
