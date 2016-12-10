@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 500friends.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520035324id_/http%3A//500friends.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 500friends.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210140409id_/http%3A//500friends.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 500friends
 
@@ -66,23 +66,20 @@ How do we transfer and store data received from residents outside of the United 
 
 If you are visiting our site from outside of the United States, you acknowledge that we may host or store data you provide to us outside of your country of residence; in particular, data may be hosted or stored in the United States of America. While we take all reasonable steps to protect your personal information, we cannot guarantee the security of personal data that you disclose online. By providing us with any personal and/or sensitive data through this site, you accept the inherent security implications of online communications. If you are concerned about the international data transfer and/or the security of your personal or sensitive data submitted online, please do not send us any personal and/or sensitive data through this site.
 
-500friends complies with the US-EU Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. 500friends has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
+500friends, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. If you have inquiries or complaints regarding this privacy policy, you should contact 500friends at:  
 
-In compliance with the US-EU Safe Harbor Principles, 500friends, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact 500friends at:
 
 ATTN: Privacy Matters  
 500friends, a Merkle Company   
-405 Howard St, 6th Floor   
+405 Howard St, Ste 675   
 San Francisco, CA 94105
 
-or via email at [privacy@500friends.com](mailto:privacy@500friends.com)
-
-500friends has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by 500friends, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+or via email at [privacy@500friends.com](mailto:privacy@500friends.com).
 
 Back to Top
 
 What can you do if you have a question or concern about this policy and who within our organization is accountable for compliance?
 
-If you feel that we are not complying with our stated privacy policy, you may contact us at [privacy@500friends.com](mailto:privacy@500friends.com) or via regular mail at 500friends, Inc., 405 Howard St, 6th Floor, San Francisco, CA 94105 Attn: COO. We are responsible for the Personal Information under our control, and we have designated our COO as the responsible party for ensuring our compliance with this policy and with any applicable privacy legislation.
+If you feel that we are not complying with our stated privacy policy, you may contact us at [privacy@500friends.com](mailto:privacy@500friends.com) or via regular mail at 500friends, Inc., 405 Howard St, Ste 675, San Francisco, CA 94105 Attn: COO. We are responsible for the Personal Information under our control, and we have designated our COO as the responsible party for ensuring our compliance with this policy and with any applicable privacy legislation.
 
 Back to Top
