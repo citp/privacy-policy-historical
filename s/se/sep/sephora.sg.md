@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sephora.sg privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602142508id_/http%3A//www.sephora.sg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sephora.sg privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210233758id_/http%3A//www.sephora.sg/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - How we store and protect your data - Sephora
+# Buy Makeup, Cosmetics and Skincare | Sephora Singapore
 
   1. Sephora Asia Pte Ltd BRN 200505470E
   2. Sephora Digital SEA Pte. Ltd. BRN 201111155N
