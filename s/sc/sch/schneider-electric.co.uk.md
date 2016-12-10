@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the schneider-electric.co.uk privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530124446id_/https%3A//www.schneider-electric.co.uk/en/about-us/legal/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schneider-electric.co.uk privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210022104id_/https%3A//www.schneider-electric.co.uk/en/about-us/legal/privacy-policy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy - Schneider Electric United Kingdom
+# Privacy Policy | Schneider Electric
 
 My Schneider Electric and www.schneider-electric.co.uk Privacy Policy
 
