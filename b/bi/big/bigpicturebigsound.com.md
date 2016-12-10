@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigpicturebigsound.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609232609id_/http%3A//www.bigpicturebigsound.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigpicturebigsound.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210071439id_/http%3A//www.bigpicturebigsound.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Matters: Big Picture Big Sound: BigPictureBigSound
 
