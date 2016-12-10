@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dgmaxinteractive.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509225816id_/http%3A//dgmaxinteractive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dgmaxinteractive.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210035438id_/http%3A//dgmaxinteractive.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - DGMAX Interactive
 
