@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zaius.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816105025id_/http%3A//www.zaius.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zaius.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210144050id_/https%3A//zaius.com/privacy-policy) for the most accurate reproduction.*
 
 # Zaius | Privacy Policy
 
 Last Modified: June 5, 2014
 
-Zaius, Inc. ("Zaius") values your privacy. In this Privacy Policy ("Policy"), we describe how we collect, use, and disclose information that we obtain about visitors to our websites [www.zaius.com](http://www.zaius.com/) and any related websites, as well as the services available through our websites (collectively, the "Site").
+Zaius, Inc. ("Zaius") values your privacy. In this Privacy Policy ("Policy"), we describe how we collect, use, and disclose information that we obtain about visitors to our websites [www.zaius.com](https://www.zaius.com/) and any related websites, as well as the services available through our websites (collectively, the "Site").
 
 This Privacy Policy also describes the information we collect from visitors to the websites of our Zaius' customers ("Customers") who subscribe to and use the analytics services available through the Zaius Platform (the "Analytics Services").
 
@@ -110,4 +110,4 @@ If you have questions about the privacy aspects of our Site or Analytics Service
 
 This Policy is current as of the Effective Date set forth above. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our Site. If we make any changes to this Policy that materially affect our practices with regard to the personally identifiable information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Site.
 
-EFFECTIVE DATE: August 1, 2013; Updated: June 05, 2013.
+EFFECTIVE DATE: August 1, 2013; Updated: June 05, 2014.
