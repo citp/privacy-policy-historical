@@ -1,153 +1,71 @@
-> *The following text is extracted and transformed from the moneyto.co.uk privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322073353id_/http%3A//www.moneyto.co.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyto.co.uk privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210180317id_/http%3A//www2.moneyto.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and cookies — moneytoMoneyTO
+# Privacy Policy | MoneyTO
 
-## About Cookies
+### Our Privacy Commitment 
 
-1\. Our cookies
+This privacy policy sets out how Moneyto Ltd uses and protects any information that you give Moneyto Ltd when you use this website.
 
-1.1 We could use both session and persistent cookies on our website.
+Moneyto Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-1.2 The cookies that we use on our website, and the purposes for which they are used, are set out below:
+Moneyto Ltd may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/05/2016.
 
-(a) We could use cookies on our website to recognize a computer when a user visits the website, track users as they navigate the website, enable the use of a shopping cart on the website, improve the website's usability, analyze the use of the website, administer the website, prevent fraud and improve the security of the website, personalize the website for each user, target advertisements which may be of particular interest to specific users;
+### Personal identification infromation  
 
-2\. Analytics cookies
 
-2.1 We use Google Analytics or we might use other providers to analyze the use of our website
+The types of personal information we collect depends on the products or services you have requested from us. 
 
-2.2 Our analytics service provider generates statistical and other information about website use by means of cookies.
+Generally, personal information is collected from you on transaction forms, or at our websites, when you request our products or services, manage your online account, or enrol in the Moneyto Ltd Program or manage your account(s) and preferences. We may also collect information about you from third-party reference sources, vendors, and clearinghouse services as part of our verification processes or otherwise in connection with your use of our products or services.
 
-2.3 The information generated relating to our website is used to create reports about the use of our website.
+We collect your personal information directly from you and/or from the party on the other side of your transaction, for example, when you tell us where to send money or who should receive the money; give us your contact information; or In addition, depending on the services requested and/or the amount of your money transfer, Moneyto Ltd may also collect and may disclose personal and non-personal information, such as date of birth, Social Security number or other identifying number (including type, issuer, and expiration date) and any other information necessary to verify and process the request. The debit card data is collected only in payment process execution purposes and we’re not keeping payment information in our database.
 
-3\. Third party cookies
+### What we do with the information we gather
 
-3.1 Our website also might use third party cookies.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-4\. If you have any queries please do not hesitate in contact us.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * Otherwise with consent or as permitted or required by applicable law.  
+Personal information will be subject to the laws of the country in which it is located including lawful access requests by government authorities. The laws of these countries (which may include countries outside the European Economic Area) may not have similar data protection laws to the European Economic Area. 
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-## Privacy Policy
 
-1\. Introduction
 
-1.1 We are committed to safeguarding the privacy of our website visitors; in this policy we explain how we will treat your personal information.
+### Use of Information Collected
 
-1.2 By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
+We may disclose the information that we collect, as described above, with Service Providers acting on our behalf to provide online financial services .
 
-2\. Collecting personal information
+  * We may also disclose Customer Information when required or permitted by law. For example, Customer Information may be disclosed in connection with a subpoena or similar legal process, fraud prevention, or security investigation.
+  * We may also disclose aggregate (not personally identifiable) Customer Information with Service Providers or financial institutions that perform marketing and research services on our behalf and with whom we have joint marketing agreements. Our contracts require all such Service Providers/or financial institutions to protect the confidentiality of your Customer Information to the same extent that we must do.
+  * We do not disclose any Customer Information about our customers, former customers, website visitors to anyone, except as permitted or required by law.
+  * We do not sell any of your personal information.
 
-2.1 We may collect, store and use the following kinds of personal information:
 
-(a) information about your computer and about your visits to and use of this website including your IP address, geographical location,browser type and version, operating system, referral source, length of visit, page views and website navigation paths;
 
-(b) information that you provide to us when registering with our website
+### Securitys 
 
-(c) information that you provide when completing your profile on our website
+We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Policy. We implement technical and organisation measures to protect your Personal Data and follow data retention practises in line with applicable law.
 
-(d) information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters
+**Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected.**
 
-(e) information that you provide to us when using the services on our website, or that is generated in the course of the use of those services.
+### Testimonials
 
-(f) information relating to any purchases you make of our services or any other transactions that you enter into through our website including your name, address,
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [info@moneyto.co.uk](mailto:info@moneyto.co.uk)
 
-telephone number, email address and card details;
+### Cookies
 
-(g) information that you post to our website for publication on the internet
+Our Website uses cookies to distinguish you from other users of our Website. This helps us to provide you with a good experience when you browse our Website and also allows us to improve our Website. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie Policy](https://web.archive.org/cookies-policy).
 
-(h) information contained in or relating to any communications that you send to us or send through our website including the communication content and meta data associated with the communication;
+### Your consent of these terms
 
-(i) any other personal information that you choose to send to us; and
+By using this Site, you signify your consent of this policy and Terms and Conditions. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your consent of those changes.
 
-2.2 Before you disclose to us the personal information of another person, you
+### Contact us
 
-must obtain that person's consent to both the disclosure and the processing of that personal information in accordance with this policy.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-3\. Using your personal information
-
-3.1 Personal information submitted to us through our website will be used for the purposes specified in this policy or on the relevant pages of the website.
-
-3.2 We may use your personal information to:
-
-(a) administer our website and business;
-
-(b) personalise our website for you;
-
-(c) enable your use of the services available on our website;
-
-(d) supply to you services purchased through our website;
-
-(e) send statements, invoices and payment reminders to you, and collect payments from you;
-
-(f) send you non-marketing commercial communications;
-
-(g) send you email notifications that you have specifically requested;
-
-(h) send you our email newsletter, if you have requested it (you can inform us at any time if you no longer require the newsletter;
-
-(i) send you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you, by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications;
-
-(j) provide third parties with statistical information about our users but those third parties will not be able to identify any individual user from that information;
-
-(k) deal with enquiries and complaints made by or about you relating to our website;
-
-(l) keep our website secure and prevent fraud;
-
-(m) verify compliance with the terms and conditions governing the use of our website including monitoring private messages sent through our website private messaging service.
-
-3.3 If you submit personal information for publication on our website, we will  publish and otherwise use that information in accordance with the licence you grant to us.
-
-3.4 Your privacy settings can be used to limit the publication of your information on our website, and can be adjusted using privacy controls on the website.
-
-3.5 We will not, without your express consent, supply your personal information to any third party for the purpose of their or any other third party's direct marketing.
-
-3.6 All our website financial transactions are handled through our payment services provider, We will share information with our payment services provider only to the extent necessary for the purposes of processing payments you make via our website, refunding such payments and dealing with complaints and queries relating to such payments and refunds.
-
-4\. Disclosing personal information
-
-4.1 We may disclose your personal information to any of our employees, officers, insurers, professional advisers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes set out in this policy.
-
-4.2 We may disclose your personal information to any member of our group of
-
-companies this means our subsidiaries, our ultimate holding company and all its subsidiaries insofar as reasonably necessary for the purposes set out in this policy.
-
-4.3 We may disclose your personal information:
-
-(a) to the extent that we are required to do so by law;
-
-(b) in connection with any ongoing or prospective legal proceedings;
-
-(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of prevention of fraud, money laundering, terrorism financing and reducing credit risk;
-
-(d) to the providers and partners that work with us to offer you our services; and
-
-(e) to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
-
-4.4 Except as provided in this policy, we will not provide your personal information to third parties.
-
-5\. International data transfers: Please refer to our Terms & Conditions of the Service
-
-6\. Retaining personal information
-
-6.1 This Section 6 sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal information.
-
-6.2 Personal information that we process for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes and the time required by law;
-
-6.3 Notwithstanding the other provisions of this this Section 6, we will retain documents (including electronic documents) containing personal data:
-
-(a) to the extent that we are required to do so by law;
-
-(b) if we believe that the documents may be relevant to any ongoing or prospective legal proceedings; and
-
-(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk).
-
-7\. Third party websites
-
-7.1 Our website includes hyperlinks to, and details of, third party websites.
-
-7.2 We have no control over, and are not responsible for, the privacy policies and practices of third parties.
-
-8\. Data protection registration
-
-8.1 We are registered as a data controller with the UK Information Commissioner's Office.
-
-8.2 Our data protection registration number is Z8730972.
+Phone:  
++44(0)2077032136 (Spanish/English)  
++44(0)2085197987 (Russian/English)  
+e-mail: [info@moneyto.co.uk](mailto:info@moneyto.co.uk)
