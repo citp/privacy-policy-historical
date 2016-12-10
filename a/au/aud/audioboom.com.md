@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the audioboom.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401034224id_/https%3A//audioboom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audioboom.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210185133id_/https%3A//audioboom.com/privacy) for the most accurate reproduction.*
 
-# audioBoom: Privacy Policy
+# Privacy Policy
 
 We care about your privacy and security. This privacy policy (the "Privacy Policy") sets out how any information, including personal information, that we collect from you or that you provide to us will be collected and used. Please read it carefully (it is part of our Terms and Conditions). If you don't agree to it and don't want to be bound by it, then you won't be able to use the parts of audioBoom that require registration. If you do register, we will assume that you accept this Privacy Policy. If you have any questions about this Privacy Policy, or would like to change or update the data we hold about you, please email us at support@audioboom.com 
 
@@ -10,7 +10,12 @@ For registration, we ask you for a username (which may be your "Twitter" usernam
 
 We will use the information you send us to: 
 
-* provide audioBoom to you and its various services as set out in our Terms and Conditions; * contact you in response to your requests or to notify you of updates, new content, messages or other news relating to audioBoom; * contact you about products and services we feel may be of interest to you; and * process and deal with any other enquiries or complaints you make. 
+  * provide audioBoom to you and its various services as set out in our Terms and Conditions;
+  * contact you in response to your requests or to notify you of updates, new content, messages or other news relating to audioBoom;
+  * contact you about products and services we feel may be of interest to you; and
+  * process and deal with any other enquiries or complaints you make.
+
+
 
 Before we stream audio, Content and/or User Content to you, we may log your IP address in order to confirm your location. An IP address does not include personal information about you. 
 
