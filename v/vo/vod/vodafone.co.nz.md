@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.co.nz privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621224852id_/http%3A//www.vodafone.co.nz/legal/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.co.nz privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210153814id_/http%3A//www.vodafone.co.nz/legal/policy/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Vodafone NZ
 
@@ -132,7 +132,7 @@ We also collect IP addresses. IP addresses are assigned to computers on the inte
 
 We may use a persistent cookie to record details such as a unique user identity and general registration details on your PC. This helps us recognise you on subsequent visits to this website so that you don’t have to re-enter your registration details each time you visit us and allows us to carry out the activities mentioned above.
 
-Most browser technology (such as Internet Explorer, Netscape etc) allows you to choose whether to accept cookies or not – you can either refuse all cookies or you can set your browser to alert you each time that a website tries to set a cookie. You do not need to have cookies turned on to access our sites, but you may need them for customisable areas of the site that we may develop in the future, or to access and benefit from certain functionality offered by the site.
+Most browser technology (such as Internet Explorer, Safari, Chrome etc)  allows you to choose whether to accept cookies or not – you can either refuse all cookies or you can set your browser to alert you each time that a website tries to set a cookie. You do not need to have cookies turned on to access our sites, but you may need them for customisable areas of the site that we may develop in the future, or to access and benefit from certain functionality offered by the site.
 
 **8\. Changes to our Privacy Policy**
 
