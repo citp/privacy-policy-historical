@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the inverse.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326054441id_/https%3A//www.inverse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inverse.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210165249id_/https%3A//www.inverse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Inverse
 
 This Privacy Policy describes the policies and procedures of Full Stack Media Inc. (“we”, “our” or “us”) on the collection, use and disclosure of your information on Inverse.com (the “Site”) and the services, features, content or applications we offer (collectively with the Site, the “Services”). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
-
-## What Does This Privacy Policy Cover?
-
-This Privacy Policy covers the treatment of personally identifiable information (“Personal Information”) gathered when you are using or accessing the Services. This Privacy Policy also covers our treatment of any Personal Information that our business partners share with us or that we share with our business partners.
-
-This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications (“Third Party Services”) that you elect to access through the Service or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of any Third Party Services you access.
 
 ## What Does This Privacy Policy Cover?
 
