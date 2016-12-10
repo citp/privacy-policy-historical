@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906051315id_/https%3A//www.vodafone.com.au/personal/aboutvodafone/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210080444id_/http%3A//www.vodafone.com.au/about/legal/privacy) for the most accurate reproduction.*
 
-# About - Legal - Privacy Policy - Vodafone Australia
+# Our Privacy Policy To Protect You | Vodafone Australia
 
 Protecting your privacy is a big deal. At Vodafone we’re strict about how we handle personal information. This privacy policy outlines how we collect, store, use and disclose personal information. It also confirms our obligations under the Privacy Act 1988 and the Telecommunications Act 1997. 
 
@@ -136,9 +136,9 @@ We may give your personal information to other organisations for the purposes of
 
 ### How can you opt-out of marketing materials?
 
-If you’d rather not get our direct marketing material, it’s easy to opt-out. Just go to this link: <http://support.vodafone.com.au/articles/FAQ/How-to-stop-Vodafone-marketing-material>
+If you’d rather not get our direct marketing material, it’s easy to opt-out. Check out our [ support article](http://vodafone.intelliresponse.com/index.jsp?&id=1717&question=How+to+stop+Vodafone+marketing+material&requestType=NormalRequest&source=100) to find out how.
 
-Or, you may contact 1555 from your Vodafone mobile or call 1300 650 410 from any phone. You can also use any opt-out methods provided in our marketing material, and we'll do the rest.
+Or, you may contact [ 1555](tel:1555) from your Vodafone mobile or call [ 1300 650 410](tel:1300650410) from any phone. You can also use any opt-out methods provided in our marketing material, and we'll do the rest.
 
 Just a heads up that we’ll still need to send you essential information about your account, your service or plan and other information required by law.
 
@@ -199,49 +199,34 @@ We take all reasonable measures to make sure the personal information we hold is
 
 Yes, but there may be times where we cannot grant you access to the personal information we hold. For example, we may not grant access to information if it could interfere with the privacy of others or if it would result in a breach of confidentiality. If that happens, we will give you written reasons for any refusal.
 
-To request your personal information simply click the link below, complete the form, and return it to the address provided. We won’t charge you for simply making the request or for making any corrections to your personal information. We may charge reasonable costs for carrying out your request.
-
-[Personal Information Request form](https://www.vodafone.com.au/doc/personal-information-request.pdf) 
+To request your personal information [complete this form](https://web.archive.org/doc/personal-information-request.pdf) , and return it to the address provided. We won’t charge you for simply making the request or for making any corrections to your personal information. We may charge reasonable costs for carrying out your request.
 
 If you think your personal information is out of date, or may not be accurate or complete you can ask for it to be updated. If we do not agree that there are grounds to change it, we’ll add a note to the personal information stating that you disagree.
 
 ### How can you report a breach of your privacy?
 
-If you believe your privacy has been compromised, please fill in the Privacy Breach form below and return it to the address provided. A member of our Privacy team will get in touch within 10 business days.
-
-[Vodafone Privacy Breach form here](https://www.vodafone.com.au/doc/privacy-breach-form.pdf) 
+If you believe your privacy has been compromised, please fill in this [Privacy Breach form](https://web.archive.org/doc/privacy-breach-form.pdf) and return it to the address provided. A member of our Privacy team will get in touch within 10 business days.
 
 If you believe that we have not dealt with your concerns you may lodge a complaint with the Australian Privacy Commissioner or the Telecommunications Industry Ombudsman.
 
-Australian Privacy Commissioner: GPO Box 5218 Sydney NSW 2001. Telephone: 1300 363 992. Email: enquiries@oaic.gov.au
+Australian Privacy Commissioner: GPO Box 5218 Sydney NSW 2001. Telephone: 1300 363 992. Email:[enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au) (preferred)
 
-Telecommunications Industry Ombudsman: PO Box 276, Collins Street West, VIC 8007. Telephone: 1800 062 058. Website: https://www.tio.com.au/making-a-complaint
+Telecommunications Industry Ombudsman: PO Box 276, Collins Street West, VIC 8007. Telephone: 1800 062 058. Website: [ https://www.tio.com.au/making-a-complaint](https://www.tio.com.au/making-a-complaint)
 
 ### Contact us
 
-If you have any questions about your privacy, or if you would like a printed copy of this privacy policy (free of charge), please contact us.
+If you have any questions about your privacy, or if you would like a printed copy of this privacy policy (free of charge), [ please contact us](http://www.vodafone.com.au/contact).
 
-[www.vodafone.com.au/help/contactus](http://www.vodafone.com.au/help/contactus)
+Call [ 1555](tel:1555) from your Vodafone mobile.
 
-1555 from your Vodafone mobile.
-
-Call 1300 650 410.
+Call [ 1300 650 410](tel:1300650410) from any phone.
 
 Fax us on 1300 308 869.
 
 Our postal address is:  
-**Vodafone Customer Care PO Box 2580    
+Vodafone Customer Care PO Box 2580   
 Kingston Delivery Centre   
-Kingston, Tasmania 7050**
-
-You can also contact us online via:
-
-  * Our website: [vodafone.com.au](http://www.vodafone.com.au/)
-  * Our blog at [blog.vodafone.com.au/blog/](http://blog.vodafone.com.au/blog/)
-  * Facebook at [facebook.com/vodafoneau](http://www.facebook.com/vodafoneau)
-  * Twitter at [twitter.com/VodafoneAU_help](https://twitter.com/VodafoneAU_help)
-
-
+Kingston, Tasmania 7050
 
 ### **Vodafone Privacy Policy, April 2015**
 
