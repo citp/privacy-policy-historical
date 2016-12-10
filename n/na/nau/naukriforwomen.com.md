@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naukriforwomen.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519204332id_/http%3A//www.naukriforwomen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naukriforwomen.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210063649id_/http%3A//www.naukriforwomen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Naukri for Women
 
