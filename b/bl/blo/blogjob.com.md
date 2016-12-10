@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogjob.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410180145id_/http%3A//blogjob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogjob.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210022022id_/https%3A//blogjob.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BlogJob
+# Privacy Policy |
 
 The last update to our Privacy Policy was posted on June 13, 2015. This document governs the privacy policy of our Website, BlogJob.com. Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our Website.  
 Definitions
@@ -58,10 +58,10 @@ Google Ad and Content Network Privacy Policy
 Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the  
 DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the  
 Google ad and content network privacy policy at the following link:  
-<http://www.google.com/policies/technologies/ads>
+<https://www.google.com/policies/technologies/ads>
 
 Third Party Advertising  
-We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <https://www.networkadvertising.org/managing/opt_out.asp>.
 
 How Information is Used
 
@@ -90,12 +90,12 @@ You can always opt out of future unaffiliated third-party disclosures of your in
 Some web browsers have settings that enable you to request that our Website does not track your movement within our Website. Our Website does not obey such settings when transmitted to and detected by our Website.
 
 Change and Turn off tracking features in your browser. You can turn off tracking features and other security settings in your browser by visiting the following links:  
-For Internet Explorer visit: http://goo.gl/0taI7I  
-For Mozilla Firefox visit: http://goo.gl/IKxt9l  
-For Google Chrome visit: http://goo.gl/NQIkqE  
-For Safari visit: http://goo.gl/7XCOzL
+For Internet Explorer visit: https://goo.gl/0taI7I  
+For Mozilla Firefox visit: https://goo.gl/IKxt9l  
+For Google Chrome visit: https://goo.gl/NQIkqE  
+For Safari visit: https://goo.gl/7XCOzL
 
-Google Analytics Opt-out Browser Add-on. Google provides a free add-on to most major browsers that you can install to prevent your data from being collected and used by Google Analytics. Visit the following link to download the free Google Opt-out Add-on Tool: http://goo.gl/Ls82zv
+Google Analytics Opt-out Browser Add-on. Google provides a free add-on to most major browsers that you can install to prevent your data from being collected and used by Google Analytics. Visit the following link to download the free Google Opt-out Add-on Tool: https://goo.gl/Ls82zv
 
 Protecting Your Child’s Privacy
 
