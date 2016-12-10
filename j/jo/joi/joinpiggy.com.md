@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joinpiggy.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421081138id_/https%3A//www.joinpiggy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joinpiggy.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210155809id_/https%3A//www.joinpiggy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Piggy
 
