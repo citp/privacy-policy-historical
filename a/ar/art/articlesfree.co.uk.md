@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesfree.co.uk privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504114724id_/http%3A//www.articlesfree.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesfree.co.uk privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210224141id_/http%3A//www.articlesfree.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Articles Discussion Directory
 
