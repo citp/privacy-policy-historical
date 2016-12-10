@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jivox.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603071049id_/http%3A//www.jivox.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jivox.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210163857id_/http%3A//jivox.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Jivox | Privacy Policy
 
