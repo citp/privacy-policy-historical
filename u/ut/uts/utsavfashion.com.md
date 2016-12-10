@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the utsavfashion.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531134355id_/http%3A//www.utsavfashion.com/help/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utsavfashion.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210071039id_/http%3A//www.utsavfashion.com/help/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacypolicy - Utsavfashion.com - Specialized in Indian clothing for Designer Bridal Sarees, Embroidered Lehengas, Fancy Salwar Kameez and lot more at affordable prices
 
 This privacy statement describes how UTSAV collects and uses the personal information you provide on our Web site: http://www.utsavfashion.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
-UTSAV has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [ info@utsavfashion.com](mailto:info@utsavfashion.com) If you are not satisfied with our response you can contact TRUSTe here. The TRUSTe program and this privacy policy covers only information that is collected through this site. We are committed to protecting your privacy. We do not sell, share or rent your personal information to third parties. We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service. 
+UTSAV has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [Email Us.](http://help.utsavfashion.com/support/tickets/new) If you are not satisfied with our response you can contact TRUSTe here. The TRUSTe program and this privacy policy covers only information that is collected through this site. We are committed to protecting your privacy. We do not sell, share or rent your personal information to third parties. We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service. 
 
 **Tell-A-Friend**
 
-If you choose to use our referral service to tell a friend about our site or to share your wish list, we will ask you for your friend's name and/or email address. We will automatically send your friend a one-time email inviting him or her to visit the site or view your wish list. Utsav stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [ info@utsavfashion.com](mailto:info@utsavfashion.com) to request that we remove this information from our database.
+If you choose to use our referral service to tell a friend about our site or to share your wish list, we will ask you for your friend's name and/or email address. We will automatically send your friend a one-time email inviting him or her to visit the site or view your wish list. Utsav stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend can [Email Us](http://help.utsavfashion.com/support/tickets/new) to request that we remove this information from our database.
 
 **Service Providers**
 
@@ -24,7 +24,7 @@ In the event Utsav goes through a business transition, such as a merger, acquisi
 
 **Access to Personally Identifiable Information**
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or by emailing our Customer Support at [info@utsavfashion.com](mailto:info@utsavfashion.com) .We will respond to your request to access within 12 to 24 hours. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or by [emailing](http://help.utsavfashion.com/support/tickets/new) our Customer Support .We will respond to your request to access within 12 to 24 hours. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Security**
 
@@ -62,15 +62,15 @@ This privacy statement applies only to information collected by this Web site.
 
 **Customer Testimonials and Reviews**
 
-We post customer testimonials and reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. When a customer chooses to post a review of a product, we ask for a nickname and location. If you would like to request to have your testimonial or review removed from our site you may do so my contacting us at [ info@utsavfashion.com](mailto:info@utsavfashion.com)
+We post customer testimonials and reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. When a customer chooses to post a review of a product, we ask for a nickname and location. If you would like to request to have your testimonial or review removed from our site you may do so by [Email Us.](http://help.utsavfashion.com/support/tickets/new)
 
 **Product Alerts**
 
-We provide our users with the ability to sign up to receive product alerts such as when the price of an items drops. We ask for a users email address for the purposes of providing this information. If you wish to no longer receive these product alerts you may email us at [ info@utsavfashion.com](mailto:info@utsavfashion.com)
+We provide our users with the ability to sign up to receive product alerts such as when the price of an items drops. We ask for a users email address for the purposes of providing this information. If you wish to no longer receive these product alerts you may [Email Us.](http://help.utsavfashion.com/support/tickets/new)
 
 **Public Forums**
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [ info@utsavfashion.com](mailto:info@utsavfashion.com) In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, [Email Us.](http://help.utsavfashion.com/support/tickets/new) In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 **Changes in this Privacy Statement**
 
@@ -79,14 +79,3 @@ We may update this privacy statement to reflect changes to our information pract
 **Information Sharing**
 
 We are a group of companies offering similar categories of products through online portals. Accordingly we may reach out to you with the invitation of visiting our subsidiaries, sister concerns, associates, joint venture's portals for checking out the products/services offered by them. We will make reasonable efforts to ensure that such related parties are under an obligation to maintain confidentiality with respect to the personal Information provided and use it strictly for the purpose stated herein.You can anytime choose to unsubscribe from the communications received from these parties at your own discretion.
-
-**Contact Us**
-
-If you have any questions/comments about privacy policy, you should contact us at [ info@utsavfashion.com](mailto:info@utsavfashion.com) or via postal mail at the address given below:
-
-Utsav  
-67 - 68, Ground Floor  
-Sarawgi Mansion, M.I.Road   
-Jaipur - 302003  
-Rajasthan  
-India
