@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tldinvestors.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605041523id_/http%3A//tldinvestors.com/disclosures) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tldinvestors.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210110942id_/http%3A//tldinvestors.com/disclosures) for the most accurate reproduction.*
 
 # Privacy Policy/Disclosures – TLD Investors
 
@@ -23,7 +23,7 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program.  Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
- **Disclosure Policy**
+**Disclosure Policy**
 
 This policy is valid from 12 August 2012
 
