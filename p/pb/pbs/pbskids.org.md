@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbskids.org privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624173941id_/http%3A//pbskids.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbskids.org privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210035239id_/http%3A//pbskids.org/privacy) for the most accurate reproduction.*
 
 # PBS KIDS . Privacy Policy
 
@@ -44,7 +44,7 @@ We generally use the information that we collect about you or your child to:
   * Customize the content displayed when you or your child use the Services
   * Analyze use of the Services to understand and improve our service offerings, such as determining which pages are most popular, which browsers are most used, how long users spend on the Services, and which websites they come from
   * Otherwise support the internal operations of the Services
-  * Prevent potentially prohibited or illegal activities and enforce the [Terms of Use](https://web.archive.org/web/20160624173941id_/http%3A//pbskids.org/Terms%20of%20Use)
+  * Prevent potentially prohibited or illegal activities and enforce the [Terms of Use](https://web.archive.org/web/20161210035239id_/http%3A//pbskids.org/termsofuse.html)
   * For any other purposes disclosed to you or your child at the time we collect the information or pursuant to your consent
 
 
@@ -125,3 +125,7 @@ Arlington, VA 22202
 [kids@pbs.org](mailto:kids@pbs.org)
 
 Please read the Terms of Use for [Terms and Conditions](http://pbskids.org/privacy/termsofuse.html) for using this site.
+
+[PBS KIDS](https://web.archive.org/) | [TV Times](https://web.archive.org/tvschedules/) | [Help](https://web.archive.org/help/)
+
+Copyright © 1995-2016 Public Broadcasting Service (PBS). All rights reserved.
