@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianweddingsaree.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608133247id_/http%3A//www.indianweddingsaree.com/static/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianweddingsaree.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210062347id_/http%3A//www.indianweddingsaree.com/static/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Indian Wedding Saree Privacy Policy
 
