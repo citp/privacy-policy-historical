@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthdaywishes.expert privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524034319id_/http%3A//www.birthdaywishes.expert/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdaywishes.expert privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210161245id_/http%3A//www.birthdaywishes.expert/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Birthday Wishes Expert
 
