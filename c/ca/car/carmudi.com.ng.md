@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the carmudi.com.ng privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610172047id_/http%3A//www.carmudi.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carmudi.com.ng privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210090450id_/http%3A//car.jumia.com.ng/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY Carmudi Nigeria
+# PRIVACY POLICY Car Jumia Nigeria
 
-Thank you for accessing the carmudi.com.ng website ("Site") operated by ECart Internet Services Ltd . We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy. This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the Site directly or through another site, you accept the practices described in this Policy. Data protection is a matter of trust and your privacy is important to us. We shall therefore only use your name and other information which relates to you in the manner set out in this Privacy Policy. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you. We will only keep your information for as long as we are either required to by law or as is relevant for the purposes for which it was collected. You can visit the Site and browse without having to provide personal details. During your visit to the Site you remain anonymous and at no time can we identify you unless you have an account on the Site and log on with your user name and password or you comment on any of the displayed advertisements for sale using your personal details. .
+Thank you for accessing the car.jumia.com.ng website ("Site") operated by ECart Internet Services Ltd . We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy. This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the Site directly or through another site, you accept the practices described in this Policy. Data protection is a matter of trust and your privacy is important to us. We shall therefore only use your name and other information which relates to you in the manner set out in this Privacy Policy. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you. We will only keep your information for as long as we are either required to by law or as is relevant for the purposes for which it was collected. You can visit the Site and browse without having to provide personal details. During your visit to the Site you remain anonymous and at no time can we identify you unless you have an account on the Site and log on with your user name and password or you comment on any of the displayed advertisements for sale using your personal details. .
 
 ## Data that we collect
 
@@ -36,7 +36,7 @@ We may disclose personal information to satisfy legal requirements, enforce our 
 
 3\. Other third parties to whom you explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to when using a specific service). 
 
-4\. Law enforcement agencies, other governmental agencies or third parties in response to a request for information relating to a criminal investigation, alleged illegal activity or any other activity that may expose us, you or any other Carmudi user to legal liability. The personal information we disclose may include your User ID and User ID history, name, city, county, telephone number, email address, fraud complaints and bidding and listing history or anything else that we deem relevant. 
+4\. Law enforcement agencies, other governmental agencies or third parties in response to a request for information relating to a criminal investigation, alleged illegal activity or any other activity that may expose us, you or any other Jumia Car user to legal liability. The personal information we disclose may include your User ID and User ID history, name, city, county, telephone number, email address, fraud complaints and bidding and listing history or anything else that we deem relevant. 
 
 5\. Other agencies in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity, as we in our sole discretion believe necessary or appropriate, either under confidentiality agreement or as required by law. In such circumstances, we may disclose name, street address, city, county, postcode, country, phone number, email address and company name. 
 
@@ -52,11 +52,11 @@ We may pass your details to other companies in our group. We may also pass your 
 
 ## No Spam, Spyware or Spoofing
 
-We and our users do not tolerate spam. Make sure to set your ‘Carmudi’ communication preferences so we communicate to you as you prefer. You are not licensed to contact other ‘Carmudi’ users without their express consent. To report ‘Carmudi’ -related spam or spoof emails to ‘Carmudi’, please report it to us. You may not use our communication tools to send spam or otherwise send content that would breach our User Agreement.
+We and our users do not tolerate spam. Make sure to set your ‘Jumia Car’ communication preferences so we communicate to you as you prefer. You are not licensed to contact other ‘Jumia Car’ users without their express consent. To report ‘Jumia Car’ -related spam or spoof emails to ‘Jumia Car’, please report it to us. You may not use our communication tools to send spam or otherwise send content that would breach our User Agreement.
 
 ## Account Protection
 
-Your password is the key to your account. Use unique numbers, letters and special characters, and do not disclose your ‘Carmudi’ password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify ‘Carmudi’ and change your password.
+Your password is the key to your account. Use unique numbers, letters and special characters, and do not disclose your ‘Jumia Car’ password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify ‘Jumia Car’ and change your password.
 
 ## Security
 
@@ -74,7 +74,7 @@ We have in place appropriate technical and security measures to prevent unauthor
 
 ## Your rights
 
-If you are concerned about your data you have the right to request access to the personal data which we may hold or process about you. You have the right to require us to correct any inaccuracies in your data free of charge. At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes. carmudi.com.ng, 15, Wole Olateju Crescent, Lekki Phase 1, Lagos. 
+If you are concerned about your data you have the right to request access to the personal data which we may hold or process about you. You have the right to require us to correct any inaccuracies in your data free of charge. At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes. car.jumia.com.ng, 15, Wole Olateju Crescent, Lekki Phase 1, Lagos. 
 
 ## General
 
