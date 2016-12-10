@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thephonebulletin.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612124651id_/http%3A//www.thephonebulletin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thephonebulletin.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210094910id_/http%3A//www.thephonebulletin.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Phone Bulletin
+# Privacy Policy – The Phone Bulletin
 
 **Your Privacy**
 
