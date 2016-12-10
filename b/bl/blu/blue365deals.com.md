@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blue365deals.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601011720id_/https%3A//www.blue365deals.com/node/48) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blue365deals.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210123017id_/https%3A//www.blue365deals.com/node/48) for the most accurate reproduction.*
 
 # Privacy Policy | Blue365 Deals
 
@@ -38,7 +38,7 @@ Portions of the services and functionality available on the Site may contain lin
 
 We do not intend that the Site will be accessed or used by children under the age of thirteen (13), and such use and access is prohibited.  In the event that we become aware that we have collected personal information from any child under the age of thirteen (13) years, we will dispose of that information in accordance with the Children’s Online Privacy Protection Act and other applicable laws and regulations.  If you are a parent or guardian and you believe that your child under the age of thirteen (13) has provided us with personal information without your consent, please contact us at Webmaster via e-mail at [support@Blue365deals.com](mailto:support@blue365deals.com) **,** and we will take reasonable steps to ensure that such information is deleted from our files.  By using the Site, you represent that you are at least eighteen (18) years of age, and understand that you must be at least eighteen (18) years of age in order to make purchases through the Site. 
 
-We do not knowingly collect or use information from children under the age of eighteen (18) without the consent of a parent or guardian.  To best protect your child’s privacy, please supervise your child’s access to the Internet, and the Site offers and content carefully.  For more information on how to protect your child’s privacy, you can visit the Federal Trade Commission’s Kids privacy page, accessible via [www.ftc.gov](http://www.ftc.gov/).
+We do not knowingly collect or use information from children under the age of eighteen (18) without the consent of a parent or guardian.  To best protect your child’s privacy, please supervise your child’s access to the Internet, and the Site offers and content carefully.  For more information on how to protect your child’s privacy, you can visit the Federal Trade Commission’s Kids privacy page, accessible via [www.ftc.gov](https://www.ftc.gov/).
 
 Make changes to the information you provide us
 
