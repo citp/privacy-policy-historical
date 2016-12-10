@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glwiz.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116213954id_/http%3A//www.glwiz.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glwiz.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210165526id_/https%3A//www.glwiz.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | GLWiZ
 
@@ -73,8 +73,6 @@ Markham, Ontario L3R 0P2
 Canada. 
 
 All complaints received by GLWiZ will be investigated and if justified, GLWiZ will take the appropriate measures, including if necessary, amending its policies and practices, to resolve the complaint. 
-
-© 2011 GLWiZ. All Rights Reserved!
 
   
 
