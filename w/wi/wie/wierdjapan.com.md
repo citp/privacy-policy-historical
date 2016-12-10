@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wierdjapan.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612234844id_/http%3A//www.wierdjapan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wierdjapan.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210080710id_/http%3A//wierdjapan.com/privacy) for the most accurate reproduction.*
 
-# wierdjapan.com - Privacy Statement
+# WierdJapan.com - Privacy Statement
 
 **Our Commitment To Privacy**
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our home page and at every point where personally identifiable information may be requested.
 
-This notice applies to all information collected or submitted on wierdjapan.com and all websites in the network.
+This notice applies to all information collected or submitted on WierdJapan.com and all websites in the network.
 
 **What information do we collect?**
 
@@ -50,7 +50,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our websites at <http://wierdjapan.com/terms>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our websites at <http://www.wierdjapan.com/terms>
 
 **Your Consent**
 
