@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the epiq11.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627170917id_/http%3A//www.epiqsystems.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epiq11.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210091252id_/http%3A//www.epiqsystems.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Epiq
 
-Epiqsystems.com is owned and operated by Epiq Systems, Inc. ("Epiq"). Epiq collects personal and non-personal information on Epiqsystems.com. Epiq is committed to protecting the privacy of its users. We have created this Privacy Statement in order to describe and explain to users our information collection practice. If you have any questions or concerns in connection with Epiq's information collection practice summarized in this Privacy Statement, please send an email, with the subject heading "Privacy Statement Question," to [webmaster@epiqsystems.com](mailto:webmaster@epiqsystems.com). In the email, please state your questions or concerns.
+Epiqsystems.com is owned and operated by Epiq Systems, Inc. ("Epiq"). Epiq collects personal and non-personal information on Epiqsystems.com. Epiq is committed to protecting the privacy of its users. We have created this Privacy Statement in order to describe and explain to users our information collection practice. If you have any questions or concerns in connection with Epiq's information collection practice summarized in this Privacy Statement, please send an email, with the subject heading "Privacy Statement Question," to [webmaster@epiqsystems.com](mailto:webmaster@epiqsystems.com?subject=Privacy%20Statement%20Question). In the email, please state your questions or concerns.
 
 ### What information is collected?
 
@@ -11,6 +11,12 @@ To participate in certain activities and to obtain certain services offered on t
 The following is a list of principal activities and services on Epiqsystems.com involving collection of personal information:
 
 ### How does Epiq use my information?
+
+[](http://privacy.truste.com/privacy-seal/validation?rid=23100c2c-dbf1-4f0c-8c2b-848585642475 "TRUSTe Privacy Certification")
+
+Personal information collected, stored, or used as outlined in this policy statement is maintained in accordance with Privacy Shield Principles (see [https://www.privacyshield.gov](https://www.privacyshield.gov/)). Please see our [Privacy Shield Policy](https://web.archive.org/epiqsystems/media/epiq/general/epiq-privacy-shield-policy.pdf) for further information regarding Epiq’s compliance with the Privacy Shield Principles.
+
+Epiq complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Epiq has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
 
 Personal information is collected and used primarily for evaluating job candidates, profiling prospective customers, or building our mailing list for information distribution.
 
@@ -35,3 +41,11 @@ If we later change our Privacy Statement, we will post those changes on our home
 By using the Epiq website, you consent to the terms of our online privacy policy regarding the use and processing of personal information, and any and all other terms that may be set forth on our website where Epiq collects personal information.
 
 You further expressly agree that by using this Web Site, your rights and obligations, as well as the rights and obligations of Epiq Systems, Inc. shall be governed, at Epiq's sole discretion, by the laws of the State of Kansas.
+
+### Recourse
+
+In compliance with the Privacy Shield Principles, Epiq commits to resolve complaints about our collection or use of your personal information.  EU individuals with inquiries or complaints regarding our Private Shield policy should first contact Epiq at [privacyshield@epiqsystems.com](mailto:privacyshield@epiqsystems.com).
+
+Epiq has further committed to refer unresolved Privacy Shield complaints to TRUSTe, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit truste.com for more information or to file a complaint.  The services of TRUSTe are provided at no cost to you.
+
+[](http://privacy.truste.com/privacy-seal/validation?rid=23100c2c-dbf1-4f0c-8c2b-848585642475 "TRUSTe Privacy Certification")
