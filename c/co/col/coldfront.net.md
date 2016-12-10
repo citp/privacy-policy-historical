@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coldfront.net privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630014912id_/http%3A//coldfront.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldfront.net privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210144417id_/http%3A//coldfront.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
