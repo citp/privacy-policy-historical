@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sustrans.org.uk privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610194317id_/http%3A//www.sustrans.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sustrans.org.uk privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210062548id_/http%3A//www.sustrans.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Sustrans
 
