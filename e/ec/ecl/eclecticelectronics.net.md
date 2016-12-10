@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eclecticelectronics.net privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318231256id_/http%3A//www.eclecticelectronics.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eclecticelectronics.net privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210093647id_/http%3A//www.eclecticelectronics.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Eclectic Electronics
+# Privacy Policy » Eclectic Electronics
 
 Privacy Policy for http://www.eclecticelectronics.net 
 
