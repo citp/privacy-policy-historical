@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovecrochet.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506183802id_/http%3A//www.lovecrochet.com/us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovecrochet.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210062401id_/http%3A//www.lovecrochet.com/us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ The coloured text on the right-hand side of each paragraph provides a short expl
 
 We are founded on the principle of ensuring that our customers enjoy the experience of shopping with us. We know that you may be concerned about the privacy of information you share with us. We take the privacy and security of your personal details very seriously and are committed to protecting them. Here we outline our Privacy Policy, which sets out how we handle the information we collect about you when you visit our website and use our services. 
 
-This Privacy Policy was last updated on 1 February 2016. This is the privacy policy for Lovecrafts Collective Limited, incorporated and registered in England and Wales (Company No. 07193527), whose registered office is at 6th Floor Corinthian House, 279 Tottenham Court Road, London, W1T 7RJ, trading via its subsidiaries as loveknitting.com and lovecrochet.com (“Lovecrafts”, “we”, “us”) and who is the data controller for the purposes of the Data Protection Act 1998. We are committed to protecting and respecting the privacy rights of our online visitors (“you”). 
+This Privacy Policy was last updated on 11 August 2016. This is the privacy policy for Lovecrafts Collective Limited, incorporated and registered in England and Wales (Company No. 07193527), whose registered office is at 7th Floor, 10 Bloomsbury Way, London, WC1A 2SL, trading via its subsidiaries as loveknitting.com and lovecrochet.com (“Lovecrafts”, “we”, “us”) and who is the data controller for the purposes of the Data Protection Act 1998. We are committed to protecting and respecting the privacy rights of our online visitors (“you”). 
 
 This Privacy Policy sets out how we will process any information we collect about you or that you provide to us when you access or use our websites or other online or mobile services or applications (“Services”). Please read the following carefully to understand our views and practices regarding your personal information. Your personal information will not be used or disclosed for purposes other than as set out in this Privacy Policy or which are not permitted under applicable law. This Privacy Policy applies to personal information we hold about individuals, not to information we hold about companies and other organisations. 
 
@@ -46,13 +46,13 @@ We use the information we collect about you for the following purposes:
   * For statistical or survey purposes and market analysis to improve our Services.
   * To ensure that content from our Services is presented in the most effective manner for you and for your device. 
   * To administer the Services and, if applicable, your Public Profile.
-  * If you consent, to send you marketing that may be of interest to you.
+  * If you consent, to send you marketing that may be of interest to you.*
 
 
 
 We may record and monitor communications between you and us to ensure quality assurance and compliance. 
 
-If you subscribe for our newsletters or otherwise agree to receive marketing from us, we may send you email alerts for new sales event launches, products, features, enhancements, special offers, upgrade opportunities, events of interest, and one-off marketing promotions. Such alerts may include marketing information about us, our subsidiaries or selected business partners. At any time you can unsubscribe from our contact list by following the unsubscribe instructions on communications sent to you or by contacting us. 
+*If you subscribe for our newsletters, create an account on one of our websites or associated mobile applications or otherwise agree to receive marketing from us, we may send you email alerts and or push notifications for new sales event launches, products, features, enhancements, special offers, upgrade opportunities, events of interest, and one-off marketing promotions. Such alerts may include marketing information about us, our subsidiaries or selected business partners. At any time you can unsubscribe from our contact list by following the unsubscribe instructions on communications sent to you, by contacting us or by unsubscribing via your account and disable push notifications by changing the settings on your device. 
 
 ## Cookies
 
@@ -77,7 +77,7 @@ We may disclose your personal information to third parties:
   * To our affiliates, to providers of our affiliate network services, or to our agents or contractors who assist us in providing the our Services, for example processing transactions, fulfilling requests for information, receiving and sending communications, updating marketing lists, analysing data, providing support services or in other tasks, from time to time. Our agents and contractors have strict contracts with us and will only use your information to the extent necessary to perform the services they are providing to us, upon our instructions. 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
   * If required to do so by law, or in order to enforce or apply our [Terms of Use](http://www.lovecrochet.com/us/terms-and-conditions.html), [Terms of Sale](http://www.lovecrochet.com/us/terms-and-conditions.html) or other legal rights, or if we believe that such action is necessary to protect the rights, property, or safety of Lovecrafts, our customers, or others. This includes exchanging information with other licensed companies and organisations for the purposes of fraud protection and credit risk reduction. Information held about you by these agencies may be linked to records relating to other people living at the same address with whom you are financially linked. If you need details of fraud prevention or credit agencies from which we obtain and with which we record information about you, please write to us at   
-6th Floor Corinthian House, 279 Tottenham Court Road, London, W1T 7RJ 
+7th Floor, 10 Bloomsbury Way, London, WC1A 2SL, 
 
 
 
@@ -107,7 +107,9 @@ We take the privacy and security of your details very seriously, but any Interne
 
 You should bear in mind that submission of information over the Internet is never entirely secure. We cannot guarantee the security of information you submit via our website; any transmission is at your own risk. Any online payment transactions will be encrypted using Secure Sockets Layer (SSL) encryption technology.
 
-We store only the last four digits of your credit or debit card and use only these in any communications with you. The entire card number is, of course, transmitted to the appropriate credit card company to process your order.
+We do not store your credit or debit card details, except as follows, and with your consent. 
+
+If you consent (to avoid the need to re-enter these details each time you shop with us, and so make purchasing quicker and simpler), we will store an encrypted token that represents your payment card and will reveal only the last four digits and expiry date of your credit or debit card number when confirming an order. We also display the last four digits of your credit card and card type on your receipt. Only these details are stored on our systems and an encrypted token which is unique to our Website. Your full credit or debit card number is never stored on any of our systems. This token is transmitted to the payment provider during the order processing. If you have chosen not to register your card details with us, we will only store the last four digits for the purpose of our communications with you, but for the purpose of a transaction, the entire card number is, of course, transmitted to the appropriate credit card company to process your order. Security codes (CVC) are never stored and will have to be entered for every transaction.
 
 You should protect your password and your computer from unauthorised access by others, and always make sure you sign off when you finish on a shared computer.
 
@@ -127,4 +129,4 @@ The Data Protection Act gives you the right of access to information held about 
 
 As always, please contact us if you have any concerns.
 
-If you have any questions, comments or requests concerning our Privacy Policy or any requests concerning your personal information, please contact us emailing at [info@loveknitting.com](mailto:info@loveknitting.com) or [info@lovecrochet.com](mailto:info@lovecrochet.com) as applicable or write to us at: 6th Floor Corinthian House, 279 Tottenham Court Road, London, W1T 7RJ.
+If you have any questions, comments or requests concerning our Privacy Policy or any requests concerning your personal information, please contact us emailing at [info@loveknitting.com](mailto:info@loveknitting.com) or [info@lovecrochet.com](mailto:info@lovecrochet.com) as applicable or write to us at: 7th Floor, 10 Bloomsbury Way, London, WC1A 2SL.
