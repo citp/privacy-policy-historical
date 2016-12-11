@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hsibaltimore.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609213849id_/http%3A//hsionline.com/privacy-policy-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsibaltimore.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211040802id_/http%3A//hsionline.com/privacy-policy-disclaimer) for the most accurate reproduction.*
 
-# Privacy Policy/Disclaimer
+# Privacy Policy/Disclaimer - Health Sciences Institute - Official Site
 
 If you enjoy the HSI e-Alert, please make sure to add this new address to your “friends” list or to “whitelist” it if necessary. By doing this you’ll also ensure smooth delivery of your newsletters. It only takes a few minutes…use the following link for easy step-by-step instructions for your specific email program:
 
