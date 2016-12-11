@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jdrf.org privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528223924id_/http%3A//jdrf.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdrf.org privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211130731id_/http%3A//www.jdrf.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | JDRF
+# Privacy Policy - JDRF
 
 Effective as of: March 15, 2016
 
