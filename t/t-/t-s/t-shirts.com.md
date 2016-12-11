@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the t-shirts.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514164924id_/http%3A//www.shirts.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-shirts.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211094232id_/http%3A//www.shirts.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -140,8 +140,8 @@ Shirts.com
 2080 Lookout Drive  
 North Mankato, MN 56003
 
-Phone: (507) 386-8385 (Monday through Thursday 7am - 7pm CST  
-Friday 9am - 5pm CST.)
+Phone: (507) 386-8385 (Monday to Friday 7am - 7pm CST  
+Saturday 10am - 4pm CST.)
 
 [Contact Form](http://www.shirts.com/contact-us.aspx)
 
