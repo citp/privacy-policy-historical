@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bjpenn.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628155316id_/http%3A//www.bjpenn.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bjpenn.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211175232id_/http%3A//www.bjpenn.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ This privacy statement (the "Privacy Policy") applies to all personally identifi
 
 Please review this Privacy Policy carefully before using the Site. 
 
-BJPENN.COM takes online privacy very seriously. If you have any questions concerning this privacy policy, please email us at [privacy@BJPENN.COM](mailto:privacy@mmajunkie.com)
+BJPENN.COM takes online privacy very seriously. If you have any questions concerning this privacy policy, please email us at [privacy@BJPENN.COM](mailto:privacy@bjpenn.com)
 
 **BJPENN.COM Registered Users - Collection of Personal Data**
 
