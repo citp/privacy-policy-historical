@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningstrategies.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625024546id_/http%3A//www.learningstrategies.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningstrategies.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211231341id_/http%3A//www.learningstrategies.com/privacy.asp) for the most accurate reproduction.*
 
 # Learning Strategies | Privacy Policy
 
