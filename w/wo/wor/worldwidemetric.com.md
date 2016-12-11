@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the worldwidemetric.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603201221id_/http%3A//www.worldwidemetric.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwidemetric.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211165713id_/http%3A//www.worldwidemetric.com/privacy.html) for the most accurate reproduction.*
 
 # Worldwide Wholesale Distribution of Valves, Fittings, Tubing & Flanges: World Wide Metric
+
+Privacy Policy
+
+* * *
 
 **This privacy policy sets out how World Wide Metric, Inc uses and protects any information that you give World Wide Metric, Inc when you use this website. World Wide Metric, Inc is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.**
 
