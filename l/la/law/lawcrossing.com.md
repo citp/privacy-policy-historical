@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawcrossing.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528091416id_/http%3A//www.lawcrossing.com/lcprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawcrossing.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211100727id_/http%3A//www.lawcrossing.com/lcprivacy.php) for the most accurate reproduction.*
 
 # LawCrossing.com - Privacy Policy, Your Privacy is So Important To Us | LawCrossing.com
 
@@ -54,9 +54,8 @@ If you have registered to receive our newsletter, job updates and/or any other a
 
 Consumer Privacy Department  
 LawCrossing  
-202 S Lake Ave  
-Unit 250  
-Pasadena, CA 91101 
+286 West 100 North,  
+Ephraim, UT, 84627 USA 
 
 
 
