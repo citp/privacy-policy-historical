@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justhookup.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617203555id_/http%3A//www.justhookup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justhookup.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211113411id_/http%3A//justhookup.com/privacy) for the most accurate reproduction.*
 
 # Just Hook Up | www.justhookup.com
 
