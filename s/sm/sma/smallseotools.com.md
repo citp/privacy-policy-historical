@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallseotools.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609043933id_/http%3A//smallseotools.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallseotools.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211031153id_/http%3A//smallseotools.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
