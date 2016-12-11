@@ -1,45 +1,40 @@
-> *The following text is extracted and transformed from the skyprivate.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610034858id_/http%3A//www.skyprivate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyprivate.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211075930id_/http%3A//www.skyprivate.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SkyPrivate
+# Privacy Policy – SkyPrivate Skype Cam Girls
 
-## +PayPerMinute for Skype Sex Private Shows
-
-## Privacy Policy
-
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
 This information are not subject to be resell.
 
-Should you have other questions or concerns about these privacy policies, please open a [ticket](http://support.skyprivate.com/Knowledgebase/List)
+Should you have other questions or concerns about these privacy policies, please open a [ticket](https://skyprivate.freshdesk.com/support/solutions)
 
-. 
+.
 
 ### Your Privacy Rights
 
-This Privacy Policy describes your privacy rights regarding our collection, use, storage, sharing and protection of your personal information. It applies to the SkyPrivate.com website and all related sites, applications, services and tools regardless of how you access or use them. 
+This Privacy Policy describes your privacy rights regarding our collection, use, storage, sharing and protection of your personal information. It applies to the SkyPrivate.com website and all related sites, applications, services and tools regardless of how you access or use them.
 
-You accept this Privacy Policy when you sign up for, access, or use our products, services, content, features, technologies or functions offered on our website and all related sites, applications, and services (collectively "SkyPrivate Services"). We may amend this policy at any time by posting a revised version on our website. The revised version will be effective at the time we post it. In addition, if the revised version includes a substantial change, we will provide you with 30 days' prior notice by posting notice of the change on our website.
+You accept this Privacy Policy when you sign up for, access, or use our products, services, content, features, technologies or functions offered on our website and all related sites, applications, and services (collectively “SkyPrivate Services”). We may amend this policy at any time by posting a revised version on our website. The revised version will be effective at the time we post it. In addition, if the revised version includes a substantial change, we will provide you with 30 days’ prior notice by posting notice of the change on our website.
 
 ### Sections:
 
-  * How we collect information about you
-  * How we use Cookies
-  * How we protect and store personal information
-  * How we use the personal information we collect
-  * Marketing
-  * How we share personal information with other SkyPrivate users
-  * How we share personal information with other parties
-  * How you can access or change your personal information
-  * How you can contact us about privacy questions
+  * [How we collect information about you](http://www.skyprivate.com/privacy-policy#pp2)
+  * [How we use Cookies](http://www.skyprivate.com/privacy-policy#pp3)
+  * [How we protect and store personal information](http://www.skyprivate.com/privacy-policy#pp4)
+  * [How we use the personal information we collect](http://www.skyprivate.com/privacy-policy#pp5)
+  * [Marketing](http://www.skyprivate.com/privacy-policy#pp6)
+  * [How we share personal information with other SkyPrivate users](http://www.skyprivate.com/privacy-policy#pp7)
+  * [How we share personal information with other parties](http://www.skyprivate.com/privacy-policy#pp8)
+  * [How you can access or change your personal information](http://www.skyprivate.com/privacy-policy#pp9)
+  * [How you can contact us about privacy questions](http://www.skyprivate.com/privacy-policy#pp10)
 
 
 
 ### How we collect information about you
 
-When you visit the SkyPrivate.com website or use SkyPrivate Services, we collect information sent to us by your computer, mobile phone or other access device. The information sent to us includes data on the pages you access, your computer IP address, device identifiers, the type of operating system you're using, your location, mobile network information, standard web log data and other information. Web log data includes the browser type you're using and traffic to and from our site. When you visit the SkyPrivate.com website or use SkyPrivate Services, we also collect information about your transactions and your activities.
+When you visit the SkyPrivate.com website or use SkyPrivate Services, we collect information sent to us by your computer, mobile phone or other access device. The information sent to us includes data on the pages you access, your computer IP address, device identifiers, the type of operating system you’re using, your location, mobile network information, standard web log data and other information. Web log data includes the browser type you’re using and traffic to and from our site. When you visit the SkyPrivate.com website or use SkyPrivate Services, we also collect information about your transactions and your activities.
 
-In addition, if you open a SkyPrivate account or use SkyPrivate Services, we may collect the following types of information:  
-
+In addition, if you open a SkyPrivate account or use SkyPrivate Services, we may collect the following types of information:
 
   * Contact information, such as your name, address, phone, email, and other similar information.
   * Financial information, such as the full bank account numbers and/or credit card numbers that you link to your SkyPrivate account or give us when you use SkyPrivate Services.
@@ -57,7 +52,7 @@ We may also collect additional information from or about you in other ways, such
 
 ### How we use Cookies
 
-When you access our website or use SkyPrivate Services, we (including companies we work with) may place small data files on your computer or other device. These data files may be cookies, pixel tags, "Flash cookies", or other local storage provided by your browser or associated applications ("Cookies"). We use these technologies to: recognize you as a customer; customize SkyPrivate Services, content, and advertising; measure promotional effectiveness; help ensure that your account security is not compromised; mitigate risk and prevent fraud; and to promote trust and safety across our sites and SkyPrivate Services.
+When you access our website or use SkyPrivate Services, we (including companies we work with) may place small data files on your computer or other device. These data files may be cookies, pixel tags, “Flash cookies”, or other local storage provided by your browser or associated applications (“Cookies”). We use these technologies to: recognize you as a customer; customize SkyPrivate Services, content, and advertising; measure promotional effectiveness; help ensure that your account security is not compromised; mitigate risk and prevent fraud; and to promote trust and safety across our sites and SkyPrivate Services.
 
 We use both session and persistent Cookies. Session Cookies expire and no longer have any effect when you log out of your account or close your browser. Persistent Cookies remain on your device until you erase them or they expire.
 
@@ -67,14 +62,13 @@ You may encounter SkyPrivate Cookies on websites that we do not control. For exa
 
 ### How we protect and store personal information
 
-Throughout this policy, we use the term "personal information" to describe information that can be associated with a specific person and can be used to identify that person. We do not consider personal information to include information that has been made anonymous so that it does not identify a specific user.
+Throughout this policy, we use the term “personal information” to describe information that can be associated with a specific person and can be used to identify that person. We do not consider personal information to include information that has been made anonymous so that it does not identify a specific user.
 
-We store and process your personal information on our computers in the Europe and elsewhere in the world where our facilities are located. We protect your information using physical, technical, and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. 
+We store and process your personal information on our computers in the Europe and elsewhere in the world where our facilities are located. We protect your information using physical, technical, and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration.
 
 ### How we use the personal information we collect
 
-Our primary purpose in collecting personal information is to provide you with a secure, smooth, efficient, and customized experience. We may use your personal information to:  
-
+Our primary purpose in collecting personal information is to provide you with a secure, smooth, efficient, and customized experience. We may use your personal information to:
 
   * provide SkyPrivate Services and customer support;
   * process transactions and send notices about your transactions;
@@ -89,7 +83,7 @@ Our primary purpose in collecting personal information is to provide you with a 
 
 ### Marketing
 
-We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalize SkyPrivate Services, content, and advertising. 
+We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalize SkyPrivate Services, content, and advertising.
 
 We respect your communication preferences. If you no longer wish to receive notifications via our application, you can adjust your preferences by visiting the settings page of the application.
 
@@ -99,18 +93,17 @@ To process your payments, we may share some of your personal information with th
 
 If someone is sending you money and enters your email address, Skype ID, other IM ID, we will provide them your registered name so they can verify they are sending the money to the correct account.
 
-If you are buying goods or services and pay through SkyPrivate, we may also provide the seller with your shipping and billing address to help complete your transaction. The seller is not allowed to use this information to market their services to you unless you have agreed to it. If an attempt to pay your seller fails, or is later invalidated, we may also provide your seller with details of the unsuccessful payment. To facilitate dispute resolution, we may provide a buyer with the seller's address so that goods can be returned to the seller.
+If you are buying goods or services and pay through SkyPrivate, we may also provide the seller with your shipping and billing address to help complete your transaction. The seller is not allowed to use this information to market their services to you unless you have agreed to it. If an attempt to pay your seller fails, or is later invalidated, we may also provide your seller with details of the unsuccessful payment. To facilitate dispute resolution, we may provide a buyer with the seller’s address so that goods can be returned to the seller.
 
 We work with third parties, including merchants, to enable them to accept or send payments from or to you using SkyPrivate. In doing so, a third party may share information about you with us, such as your email address or mobile phone number, to inform you that a payment has been sent to you or when you attempt to pay a merchant or third party. We use this information to confirm that you are a SkyPrivate customer and that SkyPrivate as a form of payment can be enabled, or to send you notification of payment status. Also, if you request that we validate your status as a SkyPrivate customer with a third party, we will do so.
 
-Please note that merchants, sellers, and users you buy from or contract with have their own privacy policies, and although SkyPrivate's user agreement does not allow the other transacting party to use this information for anything other than providing SkyPrivate Services, SkyPrivate is not responsible for their actions, including their information protection practices.
+Please note that merchants, sellers, and users you buy from or contract with have their own privacy policies, and although SkyPrivate’s user agreement does not allow the other transacting party to use this information for anything other than providing SkyPrivate Services, SkyPrivate is not responsible for their actions, including their information protection practices.
 
 Regardless, we will not disclose your credit card number or bank account number to anyone you have paid or who has paid you using SkyPrivate, or with the third parties that offer or use SkyPrivate Services, except with your express permission or if we are required to do so to comply with credit card rules, a subpoena, or other legal process.
 
 ### How we share personal information with other parties
 
-We may share your personal information with:  
-
+We may share your personal information with:
 
 Service providers under contract who help with our business operations such as fraud prevention, bill collection, marketing and technology services. Our contracts dictate that these service providers only use your information in connection with the services they perform for us and not for their own benefit.
 
@@ -128,10 +121,8 @@ If you open a SkyPrivate account directly on a third party website or via a thir
 
 ### How you can access or change your personal information
 
-You can review and edit your personal information at any time by logging in to your account and reviewing your account settings and profile. You can also close your account through the SkyPrivate website. If you close your SkyPrivate account, we will mark your account in our database as "Closed", but may retain personal information from your account to collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, prevent fraud, enforce our User Agreement, or take other actions as required or permitted by law.
+You can review and edit your personal information at any time by logging in to your account and reviewing your account settings and profile. You can also close your account through the SkyPrivate website. If you close your SkyPrivate account, we will mark your account in our database as “Closed”, but may retain personal information from your account to collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, prevent fraud, enforce our User Agreement, or take other actions as required or permitted by law.
 
 ### How you can contact us about privacy questions
 
-If you have questions or concerns regarding this policy, please open a [ticket](http://support.skyprivate.com/Knowledgebase/List)
-
-. 
+If you have questions or concerns regarding this policy, please open a [ticket](https://skyprivate.freshdesk.com/support/solutions)
