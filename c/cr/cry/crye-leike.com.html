@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the crye-leike.com privacy policy that was archived on 2016-03-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160310035714id_/http%3A//www.crye-leike.com/main/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crye-leike.com privacy policy that was archived on 2016-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161211150740id_/http%3A//www.crye-leike.com/main/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 
@@ -12,8 +12,8 @@
   <meta name="robots" content="noydir,noodp">
   <meta name="title" content="Real Estate - Memphis, Nashville, Atlanta, Arkansas and Florida - Crye-Leike, REALTORS(R)">
 
-  <meta name="description" content="Search over 2 million properties, 100 offices and 3,300 real estate agents. 
-   Official Crye-Leike site - full service real estate firm serving, Memphis, 
+  <meta name="description" content="Search over 2 million properties, 100 offices and 3,300 real estate agents.
+   Official Crye-Leike site - full service real estate firm serving, Memphis,
    Nashville, Atlanta, Little Rock, Chattanooga, Destin, Kentucky, and more...">
 
   <meta name="keywords" content="Real Estate, Memphis, Nashville, Atlanta, Tennessee, Little Rock, Arkansas, Destin Florida, Crye-Leike, REALTORS(R)">
@@ -138,12 +138,6 @@
 
             <hr>
             <h5>Contact a Real Estate Office</h5>
-            <!--<p>Find an Office by Zip Code:</p>
-            <form class="common_form" method="get" action="/corporate/areaoffices.php"><fieldset>
-              <ul>
-                <li><span class="form_element_wrapper">
-                  <input type="text" class="text" name="zip" size="19"/></span>
-                  <input type="submit" class="small_button" value="Go"/></li></ul></fieldset></form>-->
              <ul class="common_link_list">
                <li><a href="/corporate/officemap.php">Browse locations by region</a>.</li></ul>
 
@@ -190,13 +184,11 @@
                   <li><a href="/ar">Arkansas</a></li>
                   <li><a href="/fl">Florida</a></li>
                   <li><a href="/ga">Georgia</a></li>
-                  <li><a href="/ks">Kansas</a></li>
                   <li><a href="/ky">Kentucky</a></li>
                   <li><a href="/ms">Mississippi</a></li>
                   <li><a href="/mo">Missouri</a></li>
                   <li><a href="/ok">Oklahoma</a></li>
                   <li><a href="/tn">Tennessee</a></li>
-                  <li><a href="/va">Virginia</a></li>
                   <li><hr><a href="/relocation/infoform.php">
                     More Locations</a></li>
                 </ul>
@@ -282,8 +274,8 @@
             <li>
               <h4>Popular for Sellers</h4>
               <ul class="common_link_list bullets">
-                <li><a href="/buyerseller/katabatreplace.php?PAGE=clkpopsguide">
-                  How Much Is My Place Worth?</a></li>
+                <li><a href="http://cl.findbuyers.com">
+                  What Is My Home Worth?</a></li>
                 <li><a href="/buyerseller/sell-or-rent.php">I Want to Sell or Rent,<br>
                   Whichever Happens First.</a></li>
                 <li><a href="/relocation/infoform.php">Free Relocation Services</a></li></ul>
@@ -304,7 +296,7 @@
             <li>
               <h4>Where are you in the selling process?</h4>
               <ol class="common_link_list decimal">
-                <li><a href="/buyerseller/katabatreplace.php?PAGE=clkpopsguide">
+                <li><a href="http://cl.findbuyers.com">
                   How Much Is My Place Worth?</a></li>
                 <li><a href="/main/agent_regionselect.php">Looking for an Agent</a></li>
                 <li><a href="/homeservices">Fixing it Up</a></li>
@@ -351,7 +343,6 @@
               <ul class="common_link_list bullets">
                 <li><a href="/property-management/tenants.php">Tenant Services</a></li>
                 <li><a href="/property-management/contact-us.php">Report Maintenance Issue</a></li>
-               <!-- <li><a href="/pm/tenant-bill-pay.php">Pay my Bill</a></li>-->
                 <li><a href="/insurance/renters.php">Renter's Insurance</a></li>
                 <li><a href="/property-management/contact-us.php">Contact Property Management</a></li>
               </ul>
@@ -562,7 +553,42 @@
       <hr>
 
       <br>
+    <div style="text-align: center;">
+      <a id="mig_ad" href="https://migonline.com/clhomeloan" target="_blank">
+        <img src="/main/images/ext_ads/mig_ad_skyscraper.png">
+      </a>
+    </div>
+    <script>
+      (function() {
+        $('#mig_ad').on('click', function(e) {
+          e.preventDefault();
 
+          var $this = $(this),
+              href = $this.attr('href');
+
+          function go() {
+            window.location.href = href;
+          }
+
+          setTimeout(go, 1000);
+
+          if (typeof _gaq !== 'undefined') {
+            _gaq.push(['_trackEvent', 'Ads', 'Click', 'MIG Ad Click']);
+          } else if (typeof ga !== 'undefined') {
+            ga('send', 'event', 'Ads', 'Click', 'MIG Ad Click', {
+              hitCallback: go
+            });
+          }
+        });
+
+        if (typeof _gaq !== 'undefined') {
+          _gaq.push(['_trackEvent', 'Ads', 'View', 'MIG Ad View']);
+        } else if (typeof ga !== 'undefined') {
+          ga('send', 'event', 'Ads', 'View', 'MIG Ad View');
+        }
+      })();
+    </script>
+    
       <p>&nbsp;</p>
 
       <a href="http://www.ahshome.com/" target="_blank">
