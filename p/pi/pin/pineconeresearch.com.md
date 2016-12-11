@@ -1,182 +1,181 @@
-> *The following text is extracted and transformed from the pineconeresearch.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324033247id_/https%3A//www.pineconeresearch.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pineconeresearch.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212003352id_/https%3A//www.pineconeresearch.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective Date: December 8, 2014
+## Privacy & Cookie Notice
 
-**PRIVACY NOTICE**
+**Effective Date: May 18, 2016**
 
-YOUR ACCEPTANCE OF THIS PRIVACY NOTICE AND THE MEMBERSHIP AGREEMENT WILL INDICATE YOUR COMPLETE AGREEMENT AS A CONDITION TO BECOMING A PANEL MEMBER, INCLUDING NIELSEN’S COLLECTING, USING, STORING, MAINTAINING, PROCESSING AND DISCLOSING THE DATA AND THE TRANSFER OF SUCH DATA TO COUNTRIES OUTSIDE YOUR COUNTRY INCLUDING WITHIN AND OUTSIDE THE EUROPEAN UNION AND THE UNITED STATES, IN THE MANNER AND FOR THE PURPOSES SET OUT IN THE MEMBERSHIP AGREEMENT AND PRIVACY NOTICE. PINECONE RESEARCH IS A DIVISON OF NIELSEN.
+**Thank you for agreeing to join our select group of panelists.** For decades, Nielsen has set the standard for global market and consumer insight research. Our insights are based on representative samples of the population and help our clients (e.g., manufacturers, retailers, non-profits and governments) learn about what consumers watch, buy, their preferences and behaviors. Your participation in our panel helps us create our consumer insight solutions.
 
-_**Thank you for agreeing to join our select group of panelists.**_ For decades, Nielsen has set the standard for global market and consumer insight research. Our insights are based on representative samples of the population and help our clients (e.g., manufacturers, retailers, non-profits and governments) learn about what consumers watch, buy, their preferences and behaviors. Your participation in our panel helps us create our consumer insight solutions.
+We take your privacy very seriously. We have created this Notice to help answer questions you may have about how we protect and use your personal identifying information. Please note that this Notice, available through [https://www.pineconeresearch.com](https://www.pineconeresearch.com/) (collectively, our "Site"), applies only to your participation in the Panel, and not to any participation in any other panels or online services provided by Nielsen.
 
-_We take our panelists’ privacy very seriously. We have created this Privacy Notice (“Notice”) to help answer questions you may have about how we protect and use your information. Please note that this Notice applies only to PineCone Research, available through[https://www.pineconeresearch.com](https://www.pineconeresearch.com/) (“the Site” or “our Site”) and no other panels or online services provided by Nielsen._
+As a member of our Panel, you represent to us that you have obtained the consent of each member of your household for the purpose of providing us with personal identifying information about them and for having such data processed by Nielsen in accordance with this Notice.
 
-You confirm that PineCone Research has the express consent of each member of your household, including the parent or legal guardian of any minor in your household, to our data collection and use practices as described in this Notice. **Please be sure each member of your household reads this Notice carefully.**
+**Please be sure each member of your household reads this Notice carefully.**
 
-If you have any questions or concerns about this Notice or our privacy practices, please [contact us](https://web.archive.org/web/20160324033247id_/https%3A//www.pineconeresearch.com/contact.asp).
+  1. Our Privacy Commitment
+  2. What Information We Collect
+  3. How We Use the Information You Provide Us
+  4. When We Share Your Information
+  5. Your Choices and Access
+  6. About Children
+  7. Cookies and Other Internet Technologies
+  8. Third Party Sites
+  9. Data Security and Transfer
+  10. Data Retention
+  11. Updates to this Notice
+  12. Contacting Us
 
-  * Our commitment to our panelists
-  * What information we collect
-  * How we use the information
-  * Digital fingerprinting & fraud prevention
-  * When we share your information
-  * Choices and access
-  * Third party sites
-  * Data security & transfer
-  * Data retention
-  * About children
-  * Updates to this Notice
-  * Contacting us
 
-**
-  1. OUR COMMITMENT TO OUR PANELISTS
-**
 
- **We protect the identities of our participants. We will NOT use your personal identifying information to advertise, promote, or market goods or services directly to you and we do not allow our clients to market directly to you.**
+**A. OUR PRIVACY COMMITMENT**
 
-“Personal identifying information” means information that by itself – like your likeness, first and last name, home postal address or personal email address – or in combination with other information, could identify a specific individual.
+**We protect the identities of our participants. We will NOT use your personal identifying information (or those of members of your household) to advertise, promote, or sell goods or services directly to you or members of your household; and we do not allow our clients to market directly to you.**
 
-**
-  2. WHAT INFORMATION WE COLLECT
-**  
+**B. WHAT INFORMATION WE COLLECT**
 
-    * **Information you give us.**
-      * During the recruitment process, the panel registration process or as part of a research survey, you provide us with personal identifying information about you and your household such as: 
-        * Name, phone number, mailing address, and email address.
-      * You also provide us with demographic information such as: 
-        * Gender, date of birth, marital status, race, occupation, and annual income.
-      * Through voluntary participation in our panels and surveys, we collect your behavior and preference data. “Behavior data” is when, why or how you do things. “Preference data” is means the choices you make such as which products you buy. Once your household has joined our panel, we will obtain additional information about you and your household, because we track a wide variety of information about preference and consumption behaviors and exposure to advertising. For example, if your household participates in our healthcare panel, we may collect certain health-related information about you and the members of your household including healthcare services received prescriptions and over-the-counter medications used, the conditions for which these medications are used, and other pharmacy products that you purchase or use.
+  * **Information you give us.** During the recruitment process, the panel registration process, or as part of a research study or survey, you provide us with information. This may include: 
+    * **Personal identifying information** , which means information by itself – like your first and last name, home postal address or personal email address – or in combination with other information, that could identify a specific individual.
+    * Demographic information such as gender, marital status, occupation and other information.
+    * Information in connection with your participation in surveys and/or studies. These surveys request additional information such as your behaviors and preferences and help us better understand consumer behavior, use, and trends. “Behavior data” is when, why or how you do things such as how frequently you shop for groceries, use your computer, TV or the Internet. “Preference data” means the choices you make such as which breakfast cereals you buy, which stations to listen to or watch, or websites you visit.
+    * Any content or material you choose to submit, upload or transmit, including without limitation, photos, videos, images, or the likeness of the individual submitting the content in connection with your participation in market research activities.
+    * You may be offered the opportunity to participate in market research activities through a third party service such as Facebook or Twitter. If you select such option, we may collect certain profile information stored in your social media platform account.
+    * In addition to the above mentioned information, through certain surveys or studies, you may be asked to voluntarily provide or disclose Sensitive Information. “Sensitive information” means personal identifying information that discloses or reveals health or medical conditions, biometric or genetic data, sexual orientation or sexual life, political opinions/views, race/ethnic origin, religious and philosophical beliefs and trade-union membership.
+    * Through your use of our software or hardware, we will also receive data you provide or enable through the application, such as when you voluntarily provide us with access to the location of your device, enable push notifications, and activate hardware functions like your camera or microphone to upload photos, recordings and videos.
   
 
-    * **Information we get from other sources.**
-      * After you join the panel, we may receive additional information about you from other sources, including other Nielsen measurement products. This may include information such as what you watch or buy, and your exposure to advertising. We obtain this information from many sources, including outside sources. These include, for example,
-        * Census data,
-        * The manufacturers and sellers of the products you purchase or use,
-        * "Loyalty" programs (like those that offer rewards and points),
-        * Organizations that collect online data,
-        * Data suppliers,
-        * Companies that combine purchase information, and
-        * Other entities that have a legal right to provide such information to us.
-  
-We may combine the information from your household with these additional data. We will use this combined information only for the purposes described in this Notice. By participating in this panel, you agree that we may obtain this information about you and combine it in this way.
-  
+  * **Information from your use of our software and Site.** When you use our Site or any of our software, we may collect information about your device, system and network. This includes information such as your Internet Protocol (IP) address, the type of browser you are using, the date and time of your visit, the web page you have visited immediately prior to visiting this Site, device identifier, device model, operating system, and language set. For information about cookies, pixel tags, web beacons, clear GIFs or other digital technologies that may be used in connection with your participation, please see section G on Cookies and Other Digital Technologies.
 
-    * **Information from your use of this Site and the Internet.**
-      * We may use cookies, pixel tags, web beacons, clear GIFs or other similar technologies in order to manage PineCone Research and to enhance your experience as a panelist. Session cookies, persistent cookies, and Flash cookies (also known as a Local Shared Objects) may be used in connection with the Site and our research activities. These cookies are used for a variety of purposes, including, without limitation, to facilitate navigation, to display information more effectively, to better serve you with more tailored information, security purposes such as to detect duplicate Panel Members and combat fraudulent participation, as well as for online tracking purposes. We may also use cookies to gather statistical information about the usage of the Site in order to continually improve the design and functionality, to understand how users use the Site, and to assist us with resolving questions regarding the Site. 
-
-Flash cookies are similar to browser cookies, except that they can store data more complex than simple text. Flash cookies, by themselves, cannot do anything to or with the data on your computer. In addition, Flash cookies cannot access or remember your email address or other personal identifying information unless you provide the information on our Site. If you want to delete Flash cookies, you will need to access your Flash Player settings management tool available on Adobe’s website at <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>.
+You may also be invited to participate in certain research studies or surveys that ask you to download software, and/or interact with other companies, websites or applications. In the event that additional information is collected, it will be disclosed to you prior to, or at the time of initial collection. You may also be asked to accept other terms in connection with your participation.
 
   
 
-      * On occasion, we may use non-Flash cookies to understand your exposure to certain Internet advertisements as you surf the Web. You can also set your browser to reject or delete cookies on your computer by following the browser help file directions. Setting your browser to reject cookies or deleting cookies, however, may interfere with your using some features of other web sites and may impair your ability to participate in activities at this site.
+  * **Information we get from other sources.** After you join a panel, we may receive additional information about you from other sources, including other Nielsen measurement products. This may include information such as what you watch or buy, and your exposure to advertising. We obtain this information from many sources, including outside sources. These include, for example: 
+    * census data,
+    * the manufacturers and sellers of the products you purchase or use,
+    * "loyalty" programs (like those that offer rewards and points),
+    * organizations that collect online data,
+    * data suppliers,
+    * companies that combine purchase information, and
+    * other entities that have a legal right to provide such information to us.
+
+We may combine the above information with these additional sources. We will use it only for the purposes described in this Notice. By participating in our research, you agree that we may obtain this information about you and combine it in this way.
+
+
+
+
+**C. HOW WE USE THE INFORMATION YOU PROVIDE US**
+
+  * Information you provide during the recruitment process is used to determine eligibility for participation in one of our panels. After you agree to participate in our market research activities, we use the information we collect to create a variety of research insights for our clients. **We use tools and methods to make sure that there is no reasonable possibility of identifying an individual participant in the reports that we create for our clients.** For example, we combine the responses we collect from you with the responses of others to produce “aggregated” reports. We also create scientific reports based upon modeled information. “Modeled information” is data we have developed based upon demographic and behavioral characteristics (like your gender, age, and self-reported purchasing or TV watching habits to predict what people with similar or matching characteristics would watch or buy. For instance, this allows advertisers to identify the likely audience for a marketing campaign.
+
+Our research insights help our clients make choices about where and how they advertise, including on print, broadcast television, radio, online and mobile. Among other things, our solutions have helped clients: 
+
+    * Understand the makeup of the audience that was shown an advertisement while surfing the Internet or interacting with social media
+    * Identify the types of electronic products consumers in different demographic groups would be likely to buy
+    * Determine the audience that would be more likely to respond to a particular advertisement online, on a smartphone, or tablet
+    * Whether residents in a particular neighborhood would be likely to shop at a specialty store if it was nearby
+    * Understand the media and purchasing habits of different types of potential voters
   
 
-      * Additionally, we may automatically collect a variety of machine readable information using digital fingerprinting technology. Please see Section D on digital fingerprinting and fraud prevention for more information.
+  * We may use the information you give us to contact you. When we contact you – by phone, email, SMS, or postal mail depending on what information you provide to us – we will usually do so for one of the following reasons:
+    * to respond to your inquiries;
+    * to validate answers you gave;
+    * to update our records to ensure your information is correct;
+    * to ensure that the software is working properly;
+    * to send you information regarding your participation such as how to redeem rewards;
+    * to provide notice regarding changes to our terms, conditions, and policies;
+    * to ensure compliance with terms of active panel membership; or
+    * to offer you expanded research opportunities through panels and surveys.
+
+By participating in our research, you agree to be contacted as described above, and also agree to receive push notifications through our software.
+
   
 
-      * We may allow our member recruitment vendors to use Web beacons and cookies on our registration pages solely for payment verification purposes. We have no access to or control over these cookies. This Notice covers the use of cookies by PineCone Research and members of the Nielsen family of companies only and does not cover the use of cookies by any of our vendors.
+  * We may also use the information for business purposes, such as data analysis, audits, developing new products, enhancing our Site or software, improving our services, identifying usage trends and determining the effectiveness of our communications. 
+
+
+
+If we combine non-personal information with personal identifying information, the combined information will be treated by us as personal identifying information as long as it is combined.
+
+We may share your personal identifying information:
+
+  * With other members of the Nielsen family of companies for the purposes described in this Notice.
+  * With third parties who provide services for us such as website application hosting; data analysis; infrastructure provision; IT services; email delivery service; auditing services; and reward, incentive, sweepstakes, and other similar services.
+  * With other companies for the purposes of data processing or market research product development purposes. These companies are contractually required to keep this information confidential and secure and are not permitted to use this information for any other purpose except to carry out the services that they are performing for us.
+  * To other companies, including clients, in accordance with market research guidelines. If any such company receives your personal identifying information (whether provided by us to such company or collected by such company directly from you), such company will be bound to keep the information confidential and secure and use it only for research or statistical purposes.
+  * To identify you to anyone to whom you send messages through the Site.
+  * In other ways for which we provide specific notice prior to, or at the time of initial collection.
+  * To a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
+  * As we believe to be necessary or appropriate: (a) under applicable law; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; or (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+
+
+
+**E. YOUR CHOICES & ACCESS**
+
+Participation is always voluntary. You can access, edit or correct the information in your profile on the panel member website at any time. 
+
+You may also [contact us](https://www.pineconeresearch.com/contact.asp) if at any time you would like to correct or update the information we hold about you, or if you wish to withdraw your consent and stop your participation.
+
+**F. ABOUT CHILDREN**
+
+For our research, we collect information about every member of your household and this would include any children in your household. If we collect information about children, we take special care. When we collect information online directly from very young children (under age 13), special regulations apply. The Children's Online Privacy Protection Act ("COPPA") requires that we get the verifiable, informed consent of the parent or guardian and we comply with this law. The parent or guardian may cancel this consent at any time. If at any time you would like to view or update the profile information in our database, please see your profile. You may also [contact us](https://www.pineconeresearch.com/contact.asp) at any time if you would like to learn about any of other information we may have about your children. All of the other provisions of this Notice apply to information about both adults and children of every age.
+
+**G. COOKIES AND OTHER INTERNET TECHNOLOGIES**
+
+  * **General Use:** Cookies are small files that store certain data on a device or computer. We may use both session and persistent cookies on our recruitment, panel member and survey respondent websites. Cookies, pixel tags, web beacons or similar technologies may be used on some of our website pages and HTML-formatted e-mail messages to, among other things, manage panels and surveys and to enhance your experience as a panelist or survey respondent. We may also use these technologies for security purposes, to facilitate navigation, to display information more effectively, and to better serve you with more tailored information, as well as for site administration purposes, e.g., to gather statistical information about the usage of our websites, and to assist us with resolving questions regarding use of the websites.
+
+Additionally, we may allow our member or survey recruitment vendors to use web beacons and cookies on our registration pages for purposes such as payment verification. We have no access to or control over these cookies. This Notice covers the use of cookies by this site and members of the Nielsen family of companies only and does not cover the use of cookies by any of our vendors.
+
   
 
-**
-  3. HOW WE USE THE INFORMATION
-**  
+  * **Audience Measurement, Ad Effectiveness, and Interest-Based Categories** : After you become a panelist or survey respondent, we also us cookies for audience measurement purposes, ad effectiveness research, and to assist in the creation or assignment of categories for interest-based advertising. (“Interest-based advertising” is also sometimes called “online behavioral advertising.”)
+    * The cookies employed for audience measurement and ad effectiveness research are used to track exposure to advertising and relate it back to purchases. If you are an existing panelist or survey respondent and you do not want to participate in Nielsen’s online audience measurement research, please [click here to get an opt-out cookie](http://www.nielsen.com/content/corporate/policy/en/cookie-policy.html).
+    * The cookies utilized to create or assign categories for interest-based advertising are used to analyze your web-surfing behavior and classify the cookies’ activities into segments. Existing panelists or survey respondents who do not want to participate in helping to develop interest-based advertising segments can opt out by clicking [here](http://www.aboutads.info/choices/).
 
-    * Information you provide during the recruitment process is used to determine eligibility for participation in one of our panels. We use panelists’ information we collect to create a variety of research insights for our clients. **We use tools and methods to make sure that there is no reasonable possibility of identifying an individual participant in the reports that we create for our clients.** For example, we combine the responses we collect from you with the responses of others to produce “aggregated” reports. We also create scientific reports based upon modeled information. “Modeled information” is data we have developed based upon demographic and behavioral characteristics (like your gender, age, purchasing habits, and web sites visited) to predict what people with similar or matching characteristics would buy. This allows manufacturers to identify the likely consumers for a marketing campaign. 
+Please note that because these are both browser-level opt-outs, if you use more than one browser, you will need to opt out in each. If you delete your cookies, you will have to opt out again. To learn more about the use of cookies in general, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/), located outside the Site.
 
-If you qualify for a sweepstakes after you join our panel at this website, we will use the email address that you have given us to send you a confirmation of your sweepstakes entry. We will also use your contact information to let you know if you have won. 
-
-Our research insights help our clients make choices about where and how they market their products. Among other things, our solutions have helped clients: 
-
-      * Successfully launch a new product idea 
-      * Update an existing product line to better suit consumer needs
-      * Identify the types of healthcare products consumers in different demographic groups would be likely to buy
-      * Determine the consumers that would be more likely to respond to a particular marketing campaign
-      * Understand the makeup of the audience that was shown an advertisement while surfing the Internet or interacting with social media 
   
 
-    * When we contact you – by phone, email, or text, depending on what information you provide to us – we will do so for one of the following reasons: to respond to your inquiries; to validate answers you gave; to update our records to ensure your information is correct; to send you important information regarding your participation such as how to redeem awards and to provide notice regarding changes to our terms, conditions, and policies. When contacting you by phone, we may do so using automatic dialing systems and/or pre-recorded messages. From time to time, we may also send you invitations to join other panels or participate in surveys.
-  
+  * **Device Fingerprinting**. As a quality control measure and to maintain the integrity of our digital research, we may use a digital fingerprinting technology, also known as "machine identification" technology, to gather certain information about your device. This information is sent to a trusted third party who converts it into a unique serial number for your computer – the digital fingerprint – through the use of a proprietary algorithm, and determines if it matches any previous digital fingerprint. This technology does not collect any of your personal identifying information or track your online activities. For more information, please visit: <http://imperium.com/services/relevantid-digital-fingerprinting.php>. 
 
-    * We may also use the information for business purposes, such as data analysis, audits, developing new products, enhancing our Site, improving our services, identifying usage trends and determining the effectiveness of our communications.
 
-If we combine non-personal identifying information with personal identifying information, the combined information will be treated by us as personal identifying information as long as it is combined.
 
-**
-  4. DIGITAL FINGERPRINTING& FRAUD PREVENTION
-**
+Please be aware that we do not respond to Do Not Track signals on our Site or in connection with our market research activities.
 
-As a quality control measure to maintain the integrity of Internet-based research, we may use a digital fingerprinting technology, also known as "machine identification" technology, to gather certain information about your computer, including, without limitation, your IP address, the type of operating system type/version you are using, your browser type, version and parameter values, your computer configuration, the software and cookies residing on your computer, the display settings on your monitor, and the plug-ins residing on your computer. This information is sent to our trusted third-party partner who converts it into a unique serial number for your computer – the digital fingerprint – through use of a proprietary algorithm and determines if it matches any previous digital fingerprint. We use this technology to assist our clients in ensuring the integrity of our research by detecting duplicate Panel Members or Non-Panel Participants and combating fraudulent participation in Research Activities. Our third party partner also may store Flash cookies (which are discussed above) on your computer solely in connection with its efforts on our behalf to ensure the integrity of our research. We will not use this technology to collect any of your personal identifying information, or track your online activities. Also, our use of this technology will not disrupt or interfere with your use or control of your computer, or alter, modify, or change the settings or functionality of your computer. In furtherance of our efforts to ensure the integrity of our research, we may link or associate a unique identifier to you and/or your Personal Information, share your unique identifier with our clients and with other sample or panel providers, and receive or obtain a unique identifier linked to you from a third party, including without limitation, a sample or panel provider or one of our clients. Any unique identifier(s) received or obtained by us and linked to you will be protected in accordance with this Privacy Notice. We will use commercially reasonable efforts to ensure that this technology that we use is safe, secure, and does not cause undue privacy or data security risks, and is conducted in a professional and ethical manner and in accordance with applicable industry standards and laws. If we discover that this technology is not being used in accordance with the foregoing, we will take prompt corrective action.
+**As a participant in our market research activities, you consent to the use of the above technologies, and we request that you do not opt out for the duration of your participation.**
 
-**
-  5. WHEN WE SHARE YOUR INFORMATION
-**
-
-We employ third parties who provide services for us such as website or application hosting, data analysis, infrastructure provision, IT services, customer service, email delivery services, credit card processing, auditing services, reward, incentive, sweepstakes, and other similar services. 
-
-We work with other companies for the purposes of data processing or market research product development purposes. They are contractually required to keep that information confidential and are not permitted to use this information for any other purpose except to carry out the services that they are performing for us. _In accordance with market research guidelines, we may also provide individual level information to other companies. If we do, they are bound to keep the information confidential and use it only for research or statistical purposes._
-
-We may disclose your information to other members of the Nielsen family of companies for the purposes described in this Notice.
-
-We will provide your information to a third party if the law requires it or if it allows us to exercise our legal rights or take action regarding potentially illegal activities, or to protect the safety or rights of any person or legal entity. If all or part of our company is sold, merged or otherwise transferred, we may transfer your information as part of that transaction and will take steps to ensure that your information is protected as described in this Notice.
-
-**
-  6. CHOICES AND ACCESS
-**
-
-You may review, correct, or update your profile information at any time by logging into the [Site](https://web.archive.org/web/20160324033247id_/https%3A//www.pineconeresearch.com/profile.asp).
-
-**Participation is always voluntary.** You may [contact us](https://web.archive.org/web/20160324033247id_/https%3A//www.pineconeresearch.com/contact.asp) if at any time you would like to suppress or otherwise limit our use of the personal identifying information we hold about you or your household.
-
-If you do not want to receive electronic newsletters, marketing communications, and other communications related to other panels, products or services offered by us, you can click on the “unsubscribe” link available in each email and request to be removed from our email marketing database.
-
-We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out as described above, we will not be able to remove your personal identifying information from the databases of our affiliates with whom it has already been shared. Please also note that if you do unsubscribe from receiving marketing-related messages from us, we may still send you important administrative messages as part of your ongoing participation in survey or panels, or use of our products or services.
-
-**
-  7. THIRD PARTY SITES
-**
+**H. THIRD PARTY SITES**
 
 This Notice does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which this Site contains a link. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates.
 
-**
-  8. DATA SECURITY& TRANSFER
-**
+**I. DATA SECURITY & TRANSFER**
 
-We may store and process personal identifying information about you in any country where we have facilities or in which we engage service providers, including in the United States. Your information will be stored using administrative, managerial and technical measures to protect its confidentiality. Please remember that storage and communication of data cannot always be one-hundred percent secure. 
+We use reasonable organizational, technical and administrative measures to protect your information under our control. We may store and process your personal identifying information in your home country and/or we may transfer and export these data outside of the European Economic Area to any country where we have facilities or in which we engage service providers and processors, including the United States and India. The data protection laws of other countries may differ from those in your home country. Please be aware that storage and communication of data cannot always be 100 percent secure.
 
-By participating in this panel, you consent to transfer of personal identifying information to countries outside of your country of residence. 
+By participating in this research, you consent to transfer of your information to countries outside of your country of residence. By way of clarification, by voluntarily disclosing sensitive information to Nielsen, you expressly consent to the transfer of sensitive information by us to any country where we have facilities or in which we engage service providers and processors, including the United States and India.
 
-**
-  9. DATA RETENTION
-**
+**J. DATA RETENTION**
 
-We will retain your personal identifying information for as long as long as needed for our research and analyses purposes and in with accordance with law or your requests to terminate membership in this Panel.
+We will retain your personal identifying information for as long as needed for the purposes described in this Notice and in with accordance with law.
 
-**
-  10. ABOUT CHILDREN
-**
+**K. UPDATES TO THIS NOTICE**
 
-For our research, we collect information about every member of your household and this would include any children in your household. If we collect information about children, we take special care. When we collect information online directly from very young children (under age 13), special regulations apply. The Children's Online Privacy Protection Act ("COPPA") requires that we get the verifiable, informed consent of the parent or guardian and we comply with this law. The parent or guardian may cancel this consent at any time. If at any time you would like to view or update the profile information in our database, please see you [profile](https://web.archive.org/web/20160324033247id_/https%3A//www.pineconeresearch.com/profile.asp). You may also [contact us](https://web.archive.org/web/20160324033247id_/https%3A//www.pineconeresearch.com/contact.asp) at any time if you would like to learn about any of other information we may have about your children. All of the other provisions of this Notice apply to information about both adults and children of every age.
+We may change this Notice. Please take a look at the “Effective Date” at the top of this page to see when this Notice was last revised. If we were to make a material change (the kind of change to the way we use your data that might make you reconsider participating in this panel) we will notify you at the most recent mailing address or email address we have on file and we will provide you with access at least 30 calendar days prior to its implementation, giving you time to resign from the panel if you want. You may view the currently effective Notice at any time by checking the Notice posted on this Site. Your continued participation after the effective date of any changes will constitute your acceptance of all effective changes.
 
-**
-  11. UPDATES TO THIS NOTICE
-**
+**L. CONTACTING US**
 
-We may change this Notice. Please take a look at the “Effective Date” at the top of this page to see when this Notice was last revised. If we were to make a material change (the kind of change to the way we use your data that might make you reconsider participating in this panel) we will notify you at the most recent email address we have on file and we will provide you with access at least 30 days prior to its implementation, giving you time to resign from the panel if you want. You may view the currently effective Notice at any time by checking the Notice posted on this Site. Your continued participation in our panel after the effective date of any changes will constitute your acceptance of all effective changes.
+If you have any questions about this Notice, please contact us:
 
-**
-  12. CONTACTING US
-**
-
-If you have any questions about this Notice, please [contact us](https://web.archive.org/web/20160324033247id_/https%3A//www.pineconeresearch.com/contact.asp). You can also write to us at PineCone Research, 250 East 5th Street, 9th Floor, Cincinnati, OH 45202, Attn: Privacy.
+  
+PineCone Research  
+250 East 5th Street, 9th Floor  
+Cincinnati, OH, 45202 
 
 Please note that online communications are not always secure; so please do not include sensitive information in your inquiry to us.
 
-
-
-
 **_This Notice replaces any other statement, whether written or oral, made to you about our practices with respect to the collection and use of personal identifying information._**
 
-**THANK YOU - WE APPRECIATE AND VALUE YOUR PARTICIPATION!**
+**THANK YOU – WE APPRECIATE AND VALUE YOUR PARTICIPATION!**
 
-Nielsen (NYSE: NLSN) is a global information and measurement company with leading market positions in marketing and consumer information, television and other media measurement, online intelligence, mobile measurement, and related assets. The company has a presence in approximately 100 countries, with headquarters in New York, USA. For more information please visit [www.nielsen.com](https://web.archive.org/web/20160324033247id_/https%3A//www.pineconeresearch.com/www.nielsen.com).
+Nielsen (NYSE: NLSN) is a global information and measurement company with leading market positions in marketing and consumer information, television and other media measurement, online intelligence, mobile measurement, and related assets. The company has a presence in over 100 countries, with headquarters in New York, USA. For more information please visit [www.nielsen.com](http://www.nielsen.com/)
