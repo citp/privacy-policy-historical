@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the totallywicked-eliquid.co.uk privacy policy that was archived on 2016-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160101215232id_/https%3A//www.totallywicked-eliquid.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallywicked-eliquid.co.uk privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212005639id_/https%3A//www.totallywicked-eliquid.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Totally Wicked's E-Cigarette & E-Liquid Privacy Policy
+# Privacy Policy / Data Protection / Act Cookies | Totally Wicked
 
 Pillbox38 (UK) Limited trading as Totally Wicked ("We") are committed to protecting and respecting your privacy.
 
