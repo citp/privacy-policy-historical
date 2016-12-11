@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemseducation.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617122508id_/http%3A//www.gemseducation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemseducation.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211150908id_/http%3A//www.gemseducation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GEMS Education
 
@@ -6,7 +6,7 @@ Here at GEMS Education ("gemseducation.com", "we" or "us"), we take your privacy
 
 By using the gemseducation.com site or any GEMS School or GEMS education initiative Site, including signing up for any newsletters or feeds, you are agreeing to be bound by our Terms and Conditions which include this Privacy Policy. Please take the time to read them and note that they may change from time to time. If they do you can always find an up-to-date version here on this page.
 
-We will comply with the privacy laws of the country we are contacting you in. Bu, regardless of legislation we will always aim to be relevant and respectful if you have given us consent to contact you. If at any time you don't feel we've lived up to this, please let us know straight away by [Contacting Us.](https://web.archive.org/talk-to-us/ "Talk to us")
+We will comply with the privacy laws of the country we are contacting you in. Bu, regardless of legislation we will always aim to be relevant and respectful if you have given us consent to contact you. If at any time you don't feel we've lived up to this, please let us know straight away by Contacting Us.
 
 ### **1\. DATA PRIVACY**
 
