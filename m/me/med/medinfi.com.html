@@ -1,68 +1,91 @@
-<!--The following is the downloaded HTML source of the medinfi.com privacy policy that was archived on 2015-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151224201526id_/http%3A//www.medinfi.com/medinfi/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the medinfi.com privacy policy that was archived on 2016-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161211160611id_/http%3A//www.medinfi.com/medinfi/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!--<!DOCTYPE html>
 <html lang="en">--><head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="/medinfi/css/v3.0/home-page.css" type="text/css" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  
+  
   <link rel="shortcut icon" href="/medinfi/customer-assets/images/medinfi.ico">
-  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-  <script src="/medinfi/js/v3.0/search_result.js"></script>
-  <script src="/medinfi/js/v3.0/analyticstracking.js"></script>
-  <script src="/medinfi/js/v3.0/home_page.js"></script>
-  <script src="https://cdn.flurry.com/js/flurry.js"></script>
-  <script>FlurryAgent.startSession("6RPVT3PH9NJ6JJYHT3NP");</script>
-  <title>Medinfi- Privacy Policy</title>
-  <meta name="description" content="This document details Medinfi’s policy on user privacy and confidentiality of personally identifiable information"> 
- <script>
+  <!--PIS<link href=/medinfi/css/v6.6/bootstrap.min.css type="text/css" rel="stylesheet"/>PIE-->
+  <script src="/medinfi/js/v6.6/jquery.min.js"></script>
+  <script src="/medinfi/js/v6.6/bootstrap.min.js"></script>
+  <!--PIS<link href=/medinfi/css/v6.6/main_layout.min.css type="text/css" rel="stylesheet"/>PIE-->
+  <link href="/medinfi/css/v6.6/bootstrap_main_layout.min.css" type="text/css" rel="stylesheet">
+   <!--PIS<script src=/medinfi/js/v6.6/main_layout.min.js ></script>PIE-->
+  <style type="text/css">
+    #foot1Div {
+      background: url(/medinfi/images/main_layout/footerBar.png);
+    }
+</style>
+   <title>Medinfi- Privacy Policy</title>
+    <meta name="description" content="This document details Medinfi’s policy on user privacy and confidentiality of personally identifiable information">
+    <link rel="canonical" href="http://www.medinfi.com/medinfi/privacypolicy">
+    <script>
+//PerfImpr-Below mentioned code has been moved from main_layout.js to avoid network operation.
+$( window ).bind( "orientationchange", function( event ) {
+      setTimeout(function(){
+      	if(window.orientation==0) {
+      		$('#gooPlay').css('margin-left','0%');
+      	}
+      	else {
+      		$('#gooPlay').css('margin-left','20%');
+      	}
+      
+    },200);
+   
+});
 var docSearchPath = '/medinfi/doctor-search';
 var hosSearchPath = '/medinfi/hospital-search';
+//var allSearchPath = ;
+var autoSuggestPath = '/medinfi/autoCompleteGlobal';
+var medPath = '/medinfi';
+
+var everCookiePath1 = '/medinfi/ever-cookie-png';
+var everCookiePath2 = '/medinfi/ever-cookie-etag';
+var everCookiePath3 = '/medinfi/ever-cookie-cache';
+var basePath1 = '/medinfi';
+var createSessionPath = '/medinfi/createUserSession';
+var updateSessionPath = '/medinfi/updateUserSession';
 var pName='Privacy Policy Page';
+var email="";
+var page =1;
 var linkArr=['Hospitals_locality_New Delhi','Hospitals_locality_Bengaluru','Hospitals_locality_Mumbai','Doctors_city','Hospitals_city'];
-    $(document).on(function () {
-     // getSearch(e);
+var searchType="";
+var specz_input ="";
+var locz_input ="";
+var spec_s=[];
+var loc_s = [];
+var count =0;
+var pageCount=0;
+
+var identifiedLocation = "";
+var identifiedCity = "";
+var location_detected =0;
+var permissionAllowWeb = 'Not Available';
+var track_lat="";
+var track_lng ="";
+var eventAction = "No Popup Seeking for Permission";
+var eventName = "No Popup";
+$(document).on(function () {
+
 $('#s_icon').click(function() {
     getGlobalSearch();
 });
 });
 window.onload=function addTrack(){
-	if(pName=='Home Page'){
-	for (var i =0;i<linkArr.length;i++){
-		
-		for(var j=0;j<6;j++){
-			var name=$('#'+linkArr[i]+'_'+j).html();
-			$('#'+linkArr[i]+'_'+j).attr('onclick','ga(\'send\',{hitType:\'event\',eventCategory:\'Home Page\',eventAction:\'Home Page Links\',eventLabel:\''+name+'\'})');
-		}
-	}
-	}
-};
-/*function getGlobalSearch(){
-    var term = $("#ip_text").val();
-    $("#ip_text").val(term);
-    var city =  $('.btn11-default').val();
-    if(term!=""){
-      window.location="/medinfi/global-search-details/"+$("#ip_text").val()+"/"+city+"/false";
-    }
-    else{
-      window.location="/medinfi/"
-    }
+  if(pName=='Home Page'){
+  for (var i =0;i<linkArr.length;i++){
     
-}*/
-/*Change 
-  By: Harsh
-  Date: 20/11/2015 00:30 
-  Change: The query will be validated and modified to be handled in the following manner:
-		  Replace all '.' with spaces.
-		  Replace all the continuous spaces with a single space.
-		  Trim the string at the edges.
-		  Flag the query as invalid for any special charac or empty string
-		  Check the 1st word of the modified query to be 'dr' ot 'doctor' and if it is so then ignore it.
-		  Use the longest word in the query as the search element.
-		
- */
+    for(var j=0;j<6;j++){
+      var name=$('#'+linkArr[i]+'_'+j).html();
+      $('#'+linkArr[i]+'_'+j).attr('onclick','ga(\'send\',{hitType:\'event\',eventCategory:\'Home Page\',eventAction:\'Home Page Links\',eventLabel:\''+name+'\'})');
+    }
+  }
+  }
+};
+
 function getGlobalSearch(){
  var term = $("#ip_text").val();
  //Logic for validating the search query.
@@ -79,226 +102,255 @@ function getGlobalSearch(){
  if(term=="")
  {
   
-	alert('Please, enter a query');
+  alert('Please, enter a query');
   
  }
  else if(regex.test(term))// || test.search("\.")>0) 
- { alert('Please, Enter a Valid Query!!!');}
+ { alert('Invalid characters in the search.Please, Enter a Valid Query!!!');}
  
  else {
-	 term=term.toLowerCase();
-	 termArr=term.split(' ');
-	 if(term.length>1)
-	 { console.log(termArr[0]+" : "+(term.indexOf(' ')+1));
-		 if(termArr[0]=='dr' ||termArr[0]=='doctor')
-		 {
-			  term=term.substr(term.indexOf(' ')+1);
-		 }
-	 }
-	
-	 var max=0;
-	 var keyIndex=0;
-	 termArr=term.split(' ');
-	 for(var i=0;i<termArr.length;i++){
-		 
-		if(termArr[i].length>max){
-			max=termArr[i].length;
-			keyIndex=i;
-			if(termArr[i].length>=3) break;
-		}
-	 }
-	 
-	 term=termArr[keyIndex];
-	 ga('send', {hitType: 'event',eventCategory: 'Home Page',eventAction: 'Search Term and City',eventLabel: term+' / '+city});
-	  window.location="/medinfi/global-search-details/"+term+"/"+city+"/false";
-    }
-    
-    
-}
+   term=term.toLowerCase();
+   termArr=term.split(' ');
+   if(term.length>1)
+   { console.log(termArr[0]+" : "+(term.indexOf(' ')+1));
+     if(termArr[0]=='dr' ||termArr[0]=='doctor')
+     {
+        term=term.substr(term.indexOf(' ')+1);
+     }
+   }
 
-  </script>
+   ga('send', {hitType: 'event',eventCategory: 'Home Page',eventAction: 'Search Term and City',eventLabel: term+' / '+city});
+    window.location=hosSearchPath+"/"+city+"/hos_/1?term="+term; 
+    }   
+}
+      /*$(document).ready(function ()  {
+                if($(window).width()>768 && $(window).width()>992) {
+                  alert('hi');
+                  $('.content').css("min-height", "700px");
+                }
+            });*/
+
+</script>
 </head>
 <body>
 <div class="container">
-<!--<div id="dialog" title="Basic dialog" style="visibility:hidden">
-  <p>This is the default dialog which is useful for displaying information. The dialog window can be moved, resized and closed with the 'x' icon.</p>
-</div> -->
-<div class="row" style="text-align:center">
+
+<div class="row" style="text-align:center;overflow-x:hidden;">
     <div id="outer-div">
       <div class="inner-div">
       
-      <!-- <img src=/medinfi/images/home/u2.png class ="img-responsive" style="position:absolute;top:0;width:100%" id="imgu2" /> -->
-      <div class="row" style="padding-bottom: 10px;">
+                    <div class="row " style="padding-bottom: 10px;">
         <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3 logo">
-          <a href="/medinfi">
-          <img alt="Medinfi Logo" src="/medinfi/images/home/u4.png" class="img-responsive" id="med_logo">
+          <a href="/medinfi" onclick="ga('send', {hitType: 'event',eventCategory:'Privacy Policy Page', eventAction: 'Home',eventLabel: 'Home'});">
+          <img alt="Medinfi Logo" src="/medinfi/images/main_layout/logo.png" class="img-responsive" id="med_logo">
            </a>
-          <div id="beta">
+          <!--<div id="beta" >
            <p>
-            <span style="color:grey" class="logo_text">Beta</span>
+            <span style="color:grey;font-size:12px" class="logo_text">Beta</span>
           </p>
           
+        </div> -->
         </div>
+        
+        <div class="col-lg-6 col-md-6 col-sm-4 col-xs-2">
         </div>
-        <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3 app">
-          <a target="_blank" href="https://play.google.com/store/apps/details?id=com.medinfi" onclick="ga('send', {hitType: 'event',eventCategory: 'Privacy Policy Page',eventAction: 'Download App',eventLabel: 'Download App'});" style="text-decoration:none">
-           <div id="download">
-              <span style="color:grey" class="app_text">DOWNLOAD THE APP</span>
-            </div>
-          <div id="med_app">
-            <img alt="Icon to Download the Medinfi App at the top of the screen" src="/medinfi/images/home/u129.png" class="img-responsive">
-        </div>
-        </a>
-        </div>
-        <div class=" col-lg-5 col-md-4 col-sm-3 col-xs-1">
-        </div>
-        <div class=" col-lg-2 col-md-2 col-sm-2 col-xs-3">
-          <a href="/medinfi/phpBB3/index.php"> <img id="u_q" style="display:none" src="/medinfi/images/search_page-keyword/u_q.png"></a>
-        </div>
-        <div class="col-lg-1 col-md-2 col-sm-1 col-xs-1">
-          <div class="login">
-             <a id="xs_login" href="/medinfi/login"> <span style="color:black;font-size:12px; display:none;">Login</span></a>
-            
-          </div>
-        </div>
-      </div>
-     <!--header ends-->
-      <div class="content">
-          <br><br>
-<p>
-At Medinfi™ we take your privacy seriously. Because of this we want to provide you with explicit information on how we collect and identify information during your visit to our website [www.medinfi.com] and our mobile application (Medinfi™). This information may be expanded or updated as we change or develop our website. For this reason we recommend you review this policy from time to time to see if anything has changed. Your continued use of our website and our application signifies your acceptance of our privacy policy.
-</p>
-<p>
-"<b>Personally Identifiable Information</b>" refers to information that tells us specifically who you are, such as your name, phone number, email or postal address and/or any other information provided you. If you wish to become a registered user of the website and application, we will also require you to upload a scanned copy or photograph of your prescription from a registered medical practitioner. We need this information to validate the reviews on the website and provide you with other personalized or enhanced service that you have requested.
-</p>
-<p>
-The amount of Personally Identifiable Information that you choose to disclose to Medinfi™ is completely up to you. The only way we know something about you is if you provide it to us. 
-</p>
-<p>
-"Personal information" is defined under the SPI Rules to mean any information that relates to a natural person, which, either directly or indirectly, in combination with other information available or likely to be available with a body corporate, is capable of identifying such person. The SPI Rules further define "sensitive personal data or information" of a person to mean personal information about that person relating to: passwords financial information such as bank accounts, credit and debit card details or other payment instrument details physical, physiological and mental health condition sexual orientation medical records and history biometric information information received by body corporate under lawful contract or otherwise visitor details as provided at the time of registration or thereafter and call data records. Information that is freely available in the public domain or accessible under the Right to Information Act, 2005 or any other law will not be regarded as sensitive personal data or information.
-</p>
-<p>
-<b>What information do we collect and how do we use it? </b>
-</p>
-<p>
-Medinfi™ collects information about our users in two ways: by your voluntary submissions (for instance if you sign up on our website to become a registered user) and through cookie technology.
-</p>
-<p>
-The information Medinfi™ collects is used in a variety of ways: for internal review to improve the content of the site, thus making your user experience more valuable to notify you of updates, to provide you information you have requested and to let you know about any related products and services. 
-</p>
-<p>
-Medinfi™ may automatically collect non-Personally Identifiable Information and data through the use of "cookies". Cookies are small text files a website/mobile application uses to recognize repeat users, facilitate the user's ongoing access to the website/mobile application and facilitate the use of the website/mobile application. Cookies also allow a site to track usage behaviour and compile usage information that will allow for the improvement of content. 
-</p>
-<p>
-Medinfi™ may automatically collect log information. When you use our services or view content provided by us, we may automatically collect and store certain information in server logs. This may include details of how you used our service, such as your search queries, internet protocol information, device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request, location information while using GPS signals etc. 
-</p>
-<p>
-By using our website and/or our mobile application, you consent to the collection and use of the information described in this policy by Medinfi™. This privacy policy is published in compliance of Section 43A of the Information Technology Act, 2000 Regulation 4 of the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Information) Rules, 2011 (the "<b>SPI Rules</b>") and Regulation 3(1) of the Information Technology (Intermediaries Guidelines) Rules, 2011.
-</p>
-<p>
-Our policy is not to disclose Personally Identifiable Information to unrelated third parties, unless required to do so by law or legal process. However, we may disclose certain information to our following trusted partners who work on behalf of or with Medinfi™ under extremely strict confidentiality agreements:
-</p>
-<p>
-1.	TeamLease Services Private Limited, 6th Floor, BMTC Commercial Complex, 80 Feet Road, Koramangala, Bangalore 500095
-</p>
-<p>
-2.	Apps on Click LLP, #614, 2nd floor, GNS Arcade, 28th main, 1st phase, BTM layout, Bangalore 560076
-</p>
-<p>
-3.	Leo Edunomics, 305, Wing A, Meenakshipuram, Vadgaon (BK), Pune 411041
-</p>
-<p>
-4.	VABS Corporate Solution Private Limited, 504, Ranka Park Apartment, Lalbagh Road, Bangalore - 560027
-</p>
-<p>
-Privacy Statements
-</p>
-<p>
-All Users Note: This section applies to all Users ("<b>Users</b>").
-</p>
-<p>
-Accordingly, a condition of each user's use of and access to the Website and to the Software provided by <b><b>Medinfi™</b></b> to Users (together with the Website, the "Services") is their acceptance of the terms of use located at Part B below, which also involves acceptance of the terms of this privacy policy. Any User that does not agree with any provisions of the same is required to leave the Website immediately.
-</p>
-<p>
-All the information provided to <b>Medinfi™</b> by a User, including sensitive personal information, is voluntary. User has the right to withdraw his/her/its consent at any time, in accordance with the terms of this privacy policy and the terms of use, but please note that withdrawal of consent will not be retroactive. <b>Always use caution when giving out any personally identifiable information about yourself or your family members in use of any Services. <b>Medinfi™</b> does not control or endorse the content, messages or information found in any Services and, therefore, <b>Medinfi™</b> specifically disclaims any liability with regard to the Services and any actions resulting from your participation in any Services, and you agree that you waive any claims against <b>Medinfi™</b> relating to same, and to the extent such waiver may be ineffective, you agree to release any claims against <b>Medinfi™</b> relating to same.</b> User can access, modify, correct and eliminate the data about him/her/it which has been collected pursuant to his/her/its decision to become a User. If User updates any of his/her/its information, <b>Medinfi™</b> may keep a copy of the information which User originally provided to <b>Medinfi™</b> in its archives for uses documented herein. <b>Medinfi™</b> takes user's rights seriously and encourages User to use them if User deems this to be appropriate. User may exercise these rights by emailing <b>Medinfi™</b> at feedback@medinfi.com
-</p>
-<p>
-Due to the communications standards on the Internet, when a User visits the Website, <b>Medinfi™</b> automatically receive the URL of the site from which such User came and the site to which such User is going when he/she/it leaves. <b>Medinfi™</b> also receives the Internet Protocol (IP) address of each user's computer (or the proxy server a User used to access the World Wide Web), user's computer operating system and type of web browser the User is using, email patterns, as well as the name of user's ISP. This information is used to analyze overall trends to help <b>Medinfi™</b> improve its Service. The linkage between user's IP address and user's personally identifiable information is not shared with third parties without such user's permission or except when required by law. Notwithstanding the above, <b>Medinfi™</b> may share some of the aggregate findings (not the specific data) with advertisers, sponsors, investors, strategic partners, and others in order to help grow its business.
-</p>
-<p>
-<b>Medinfi™</b> allows other companies, to serve advertisements to the Users. These companies include but not limited to third party ad servers, ad agencies, ad technology vendors and research firms. <b>Medinfi™</b> may display advertisements to Users that fit a certain general profile criteria ("Targets"). <b>Medinfi™</b> does NOT use personally identifiable information to identify Targets for advertising on its Services.
-</p>
-<p>
-This privacy policy applies to Services that are owned and operated by <b>Medinfi™</b>. <b>Medinfi™</b> does not exercise control over the sites displayed as search results or links from within its Services. These other sites may place their own cookies or other files on the Users’ computer, collect data or solicit personal information from the Users, for which <b>Medinfi™</b> is not responsible or liable. Accordingly, <b>Medinfi™</b> does not make any representations concerning the privacy practices or policies of such third parties or terms of use of such websites, nor does <b>Medinfi™</b> guarantee the accuracy, integrity, or quality of the information, data, text, software, sound, photographs, graphics, videos, messages or other materials available on such websites. The inclusion or exclusion does not imply any endorsement by Medinfi of the website, the website's provider, or the information on the website. <b>Medinfi™</b> encourages the User to read the privacy policies of that website.
-</p>
-<p>
-The Website may enable User to communicate with other Users or to post information to be accessed by others, whereupon other Users may collect such data. Such Users, including any moderators or administrators, are not authorized <b>Medinfi™</b> representatives or agents, and their opinions or statements do not necessarily reflect those of <b>Medinfi™</b>, and they are not authorized to bind <b>Medinfi™</b> to any contract. <b><b>Medinfi™</b> hereby expressly disclaims any liability for any reliance or misuse of such information that is made available by Users or visitors in such a manner.</b>
-</p>
-<p>
-<b>Medinfi™</b> does not collect information about the visitors of the Website from other sources, such as public records or bodies, or private organizations, save and except for the purposes of registration of the Users (the collection, storage and disclosure of which each End User must agree to under the terms of use in order for <b>Medinfi™</b> to effectively render the Services).
-</p>
-<p>
-<b>Medinfi™</b> does not knowingly collect personal data from children.
-</p>
-<p>
-<b>Medinfi™</b> has implemented Indian legal industry standard security policies, rules and technical measures to protect the personal data that it has under its control from unauthorized access, improper use or disclosure, unauthorized modification and unlawful destruction or accidental loss.
-</p>
-<p>
-<b>Medinfi™</b> will not disclose any personal information or data to governmental institutions or authorities unless such disclosure is requisitioned under any Indian law or judicial decree or when <b>Medinfi™</b>, in its sole discretion, deems it necessary in order to protect its rights or the rights of others, to prevent harm to persons or property, to fight fraud and credit risk, or to enforce or apply our terms of use.
-</p>
-<p>
-<b>Medinfi™</b> will take reasonable measures not to disclose information about you or the contents of your communication, we may be compelled to do so in the good faith belief that such action is reasonably necessary (a) to comply with the law, (b) to comply with legal process, (c) to respond to claims that any content violates the rights of third parties, (d) to facilitate the terms of an acquisition of <b>Medinfi™</b> by, or merger with, another company, or (e) protect the interest of <b>Medinfi™</b> or its affiliates. 
-</p>
-<p>
-We welcome your questions and/or comments. Please send all questions to feedback@medinfi.com
-</p>      </div>
 
-    <!--Footer starts-->
-    </div>
-    <div class="row" id="footer_border">
-      <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-        <img src="/medinfi/images/home/u55_line.png" class="img-responsive" style="height:1px;display:inline">
+        <div class="col-lg-2 col-md-2 col-sm-3 col-xs-4" style="position:relative">
+          <a style="outline:none;cursor:pointer;" target="_blank" href="https://play.google.com/store/apps/details?id=com.medinfi" onclick="ga('send', {hitType: 'event',eventCategory: 'Privacy Policy Page',eventAction: 'Download App Top',eventLabel: 'Download App Top'});">         
+              <img id="getAppImg" style="float:right;" alt="Icon to Download the Medinfi App at the top of the screen" src="/medinfi/images/main_layout/getApp.png" class="img-responsive">
+            
+          <div>
+            <span id="getApp" style="float:right;color:black;">GET APP</span>
+          </div></a>
+        </div>
+
+        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-3">
+          <div id="LoginDiv">
+                                  <a id="login" onclick="ga('send', {hitType: 'event',eventCategory: 'Privacy Policy Page',eventAction: 'Login/Logout',eventLabel: 'Login'});" href="/medinfi/login">LOGIN</a>
+                        </div>
+        </div>
+        
       </div>
-  </div>
+            
+     <!--header ends-->
+      <div class="content ">
+          
+<style type="text/css">
+	.terms {
+		text-align: justify;
+	}
+</style>
+<br><br>
 <div class="row">
-    <div class="col-lg-4 col-md-5 col-sm-6 col-xs-12">
-       <div id="footer_note">
-            <p>
-              <a href="/medinfi/privacypolicy" onclick="ga('send', {hitType: 'event',eventCategory: 'Privacy Policy Page';,eventAction: 'Privacy Policy',eventLabel: 'Privacy Policy'});" style="text-decoration:none">
-              <span class="foot_text">Privacy Policy&nbsp; | </span>
-              </a>
-              <a href="/medinfi/termscondition" onclick="ga('send', {hitType: 'event',eventCategory: 'Privacy Policy Page',eventAction: 'Terms Condition',eventLabel: 'Terms Condition'});" style="text-decoration:none"> 
-              <span class="foot_text"> Terms of Use&nbsp; </span>
-              </a> 
-              <a href="/medinfi/save-feedback" onclick="ga('send', {hitType: 'event',eventCategory: 'Privacy Policy Page',eventAction: 'Save Feedback',eventLabel: 'Save Feedback'});" style="text-decoration:none">
-              <span class="foot_text">| Feedback </span>
-              </a> 
-              <a href="/medinfi/customer/Default/Press" onclick="ga('send', {hitType: 'event',eventCategory:'Privacy Policy Page',eventAction: 'Press',eventLabel: 'Press'});" style="text-decoration:none">
-              <span class="foot_text"> | Press </span>
-              </a>
+<div class="col-lg-0 col-md-0 col-sm-1 col-xs-1"></div>
+<div class="col-lg-12 col-md-12 col-sm-10 col-xs-10">
+<p class="terms">
+At Medinfi™ we take your privacy seriously. Because of this we want to provide you with explicit information on how we collect and identify information during your visit to our website [www.medinfi.com] and our mobile application (Medinfi™). This information may be expanded or updated as we change or develop our website and/or mobile application/s. For this reason we recommend you review this policy from time to time to see if anything has changed. Your continued use of our website and our application signifies your acceptance of our privacy policy. By using this application, you hereby agree to <a href="https://www.google.com/policies/privacy/" style="text-decoration:none">Google Privacy Policy</a> since we use Google Maps API(s). Please read them carefully as well.
+    </p>
+<p class="terms">
+"<b>Personally Identifiable Information</b>" refers to information that tells us specifically who you are, such as your name, phone number, email, mobile device id or postal address and/or any other information provided by you. If you wish to give ratings and/or reviews for doctors, clinics, and/or hospitals on the website and/or mobile application/s, we will also require you to upload a scanned copy or photograph of your prescription or payment receipt from a registered medical practitioner. We need this information to validate the reviews on Medinfi™ and provide you with other personalized or enhanced service/s that you have requested.
+The amount of Personally Identifiable Information that you choose to disclose to Medinfi™ is completely up to you. The only way we know something about you is if you provide it to us.</p>
+<p class="terms">
+"Personal information" is defined under the (Indian) Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Information) Rules, 2011 (hereinafter "<b>SPDI Rules</b>") to mean any information that relates to a natural person, which, either directly or indirectly, in combination with other information available or likely to be available with a body corporate, is capable of identifying such person. The SPDI Rules further define "sensitive personal data or information" of a person to mean personal information about that person relating to: passwords financial information such as bank accounts, credit and debit card details or other payment instrument details physical, physiological and mental health condition sexual orientation medical records and history biometric information information received by body corporate under lawful contract or otherwise visitor details as provided at the time of registration or thereafter and call data records. Information that is freely available in the public domain or accessible under the Right to Information Act, 2005 or any other law will not be regarded as sensitive personal data or information.
+    </p>
+<p class="terms">
+<b>What information do we collect, what is the purpose for such collection and how do we use this information? </b></p>
+<p class="terms">
+Medinfi™ collects information about our users in two ways: by your <b>voluntary submissions</b> (for instance if you sign up on our website and mobile application/s to become a registered user) and <b>through cookie technology. In addition to this, Medinfi™ may also collect your location information using cell-tower technology. </b>
+    </p>
+<p class="terms">
+The information Medinfi™ collects is used in a variety of ways: for internal review to improve the content of the site, thus making your user experience more valuable to notify you of updates, to provide you information you have requested and to let you know about any related products and services. Medinfi™ may use this information for contacting the user from time to time.
+    </p>
+<p class="terms">
+Medinfi™ may automatically collect non-Personally Identifiable Information and data through the use of "cookies". Cookies are small text files a website/mobile application uses to recognize repeat users, facilitate the user's ongoing access to the website/mobile application and facilitate the use of the website/mobile application. Cookies also allow a site to track usage behaviour and compile usage information that will allow for the improvement of content.
+    </p>
+<p class="terms">
+Medinfi™ may automatically collect device and log information. When you use our services or view content provided by us, we may automatically collect and store certain information in server logs. This may include details of how you used our service, such as your search queries, internet protocol information, device id, device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request, location information, etc.</p>
+<p class="terms">
+Medinfi™ shall be accessing your location information using cell-tower technology, in order to provide you with better information about healthcare facilities in your proximity and you hereby give your consent for the collection of such location information each time you use our website/app. This information shall be collected irrespective of your GPS/location settings being switched on or off, through the use of cell-tower technology. The intended recipient for the location information so collected is Medinfi™. The location information shall be both collected and stored by Medinfi™. In case, you <b>wish to opt out of providing your location information, </b>you may do so by <b>accessing the Auto Detect Location settings by clicking on Current City (e.g. Bengaluru) on the home screen menu of the Mobile Application.</b> In website, you may choose to deny permission for sharing the location in location notification which will appear when you access the website. Such express opt-out by you shall be deemed to be a notice in writing to Medinfi as per Rule 5(7) of the SPDI Rules, 2011.
+</p>
+<p class="terms">
+<b>By using our website and/or our mobile application, you consent to the collection and use of the information described in this policy</b> by Medinfi™. This privacy policy is published in compliance of Section 43A of the Information Technology Act, 2000, Rule 4 and Rule 5 of the <b>SPDI Rules</b> and Rule 3(1) of the Information Technology (Intermediaries Guidelines) Rules, 2011.</p>
+<p class="terms">
+<b>Who is the intended recipient of the information collected and who retains the information? </b>
+The information is collected for Medinfi, and shall be retained by Medinfi. Such information shall only be disclosed by Medinfi under certain conditions mentioned later in this section.  
+For the purpose of compliance under Rule 5(3) of the SPDI Rules, the name and address of the agency collecting and retaining the information is given herein below:</p>
+<p class="terms">
+Medinfi Healthcare Pvt Ltd
+33/2, Vijay Enclave, 3rd Floor, 12th Cross, 8th Main, Malleshwaram, Bangalore 560003
+    </p>
+<p class="terms">
+Our policy is not to disclose Personally Identifiable Information to unrelated third parties, unless required to do so by law or legal process. However, we may disclose certain information to our following trusted partners
+    </p>
+<p class="terms">
+who work on behalf of or with Medinfi™ under extremely strict confidentiality agreements:
+    </p>
+<p class="terms">
+1. Leo Edunomics, 305, Wing A, Meenakshipuram, Vadgaon (BK), Pune 411041
+    </p>
+<p class="terms">
+2. VABS Corporate Solution Private Limited, 504, Ranka Park Apartment, Lalbagh Road, Bangalore - 560027
+    </p>
+<p class="terms">
+3. Total Strategic Solutions (I) Pvt Ltd, #43 Kodihalli layout, Near NAL Compound,
+Leela Palace Annex Road, Bangalore- 8
+    </p>
+<p class="terms">
+4.  Saizen Global Insights &amp; Consulting, U2	903, Amrapali Royal, Indirapuram, Ghaziabad, Delhi	NCR,	201010
+    </p>
+<p class="terms">
+Privacy Statements     </p>
+    <p class="terms">
+All Users Note: This section applies to all Users ("<b>Users</b>").
+Accordingly, a condition of each user's use of and access to the Website and to the Software provided by <b>Medinfi™</b> to Users (together with the Website, the "Services") is their acceptance of the terms of use located at Part B below, which also involves acceptance of the terms of this privacy policy. Any User that does not agree with any provisions of the same is required to leave the Website immediately.
             </p>
-            <img src="/medinfi/images/home/u16.png" class="img-responsive copy">
-          </div>
-    </div>
-    <div class="col-lg-4 col-md-3 col-sm-2 col-xs-0">
-    </div>
-    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6">
-          <img src="/medinfi/images/search_page-keyword/toll_no.png" class="img-responsive toll_no">
-    </div>
-    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6">
-      <a target="_blank" href="https://play.google.com/store/apps/details?id=com.medinfi" onclick="ga('send', {hitType: 'event',eventCategory: 'Privacy Policy Page',eventAction: 'Download App2',eventLabel: 'Download App2'});">
-      <img alt="Icon to Download the Medinfi App at the bottom of the screen" src="/medinfi/images/home/u12.png" class="img-responsive app_store ">
-      </a>
-    </div>
-  </div>
-  <!--Footer Ends-->
-  </div><!--Outter Div Ends-->
+    <p class="terms">
+All the information provided to <b>Medinfi™</b> by a User, including sensitive personal information, is voluntary. User has the right to withdraw his/her/its consent at any <b>time by changing the settings of the website/mobile application</b>, in accordance with the terms of this privacy policy and the terms of use, but please note that withdrawal of consent will not be retrospective.  <b>Medinfi™ does not control or endorse the content, messages or information found in any Services and, therefore, Medinfi™ specifically disclaims any liability with regard to the Services and any actions resulting from your participation in any Services, and you agree that you waive any claims against Medinfi™ relating to same, and to the extent such waiver may be ineffective, you agree to release any claims against Medinfi™ relating to same. </b> User can access, modify, correct and eliminate the data about him/her/it which has been collected pursuant to his/her/its decision to become a User. If User updates any of his/her/its information, <b>Medinfi™</b> may keep a copy of the information which User originally provided to <b>Medinfi™</b> in its archives for uses documented herein. <b>Medinfi™</b> takes user's rights seriously and encourages User to use them if User deems this to be appropriate. User may exercise these rights by emailing <b>Medinfi™</b> at feedback@medinfi.com
+Due to the communications standards on the Internet, when a User visits the Website, <b>Medinfi™</b> automatically receive the URL of the site from which such User came and the site to which such User is going when he/she/it leaves. <b>Medinfi™</b> also receives the Internet Protocol (IP) address of each user's computer (or the proxy server a User used to access the World Wide Web), user's computer operating system and type of web browser the User is using, email patterns, as well as the name of user's ISP. This information is used to analyze overall trends to help <b>Medinfi™</b> improve its Service. The linkage between user's IP address and user's personally identifiable information is not shared with third parties without such user's permission or except when required by law. Notwithstanding the above, <b>Medinfi™</b> may share some of the aggregate findings (not the specific data) with advertisers, sponsors, investors, strategic partners, and others in order to help grow its business.
+    </p>
+<p class="terms">
+<b>Medinfi™</b> allows other companies, to serve advertisements to the Users. These companies include but not limited to third party ad servers, ad agencies, ad technology vendors and research firms. <b>Medinfi™</b> may display advertisements to Users that fit a certain general profile criteria ("Targets"). <b>Medinfi™</b> may use personally identifiable information to identify Targets for advertising on its Services.
+    </p>
+<p class="terms">
+This privacy policy applies to Services that are owned and operated by <b>Medinfi™. Medinfi™</b> does not exercise control over the sites displayed as search results or links from within its Services. These other sites may place their own cookies or other files on the User's computer, collect data or solicit personal information from the Users, for which <b>Medinfi™</b> is not responsible or liable. Accordingly, <b>Medinfi™</b> does not make any representations concerning the privacy practices or policies of such third parties or terms of use of such websites, nor does <b>Medinfi™</b> guarantee the accuracy, integrity, or quality of the information, data, text, software, sound, photographs, graphics, videos, messages or other materials available on such websites. The inclusion or exclusion does not imply any endorsement by Medinfi™ of the website, the website's provider, or the information on the website. <b>Medinfi™</b> encourages the User to read the privacy policies of that website.
+    </p>
+<p class="terms">
+The Website may enable User to communicate with other Users or to post information to be accessed by others, whereupon other Users may collect such data. Such Users, including any moderators or administrators, are not authorized <b>Medinfi™</b> representatives or agents, and their opinions or statements do not necessarily reflect those of <b>Medinfi™</b>, and they are not authorized to bind <b>Medinfi™</b> to any contract. <b>Medinfi™ hereby expressly disclaims any liability for any reliance or misuse of such information that is made available by Users or visitors in such a manner. </b>
+    </p>
+<p class="terms">
+<b>Medinfi™</b> does not collect information about the visitors of the Website from other sources, such as public records or bodies, or private organizations, save and except for the purposes of registration of the Users (the collection, storage and disclosure of which each End User must agree to under the terms of use in order for <b>Medinfi™</b> to effectively render the Services).
+    </p>
+<p class="terms">
+<b>Medinfi™</b> does not knowingly collect personal data from children.     </p>
+    <p class="terms">
+<b>Medinfi™</b> has implemented Indian legal industry standard security policies, rules and technical measures to protect the personal data that it has under its control from unauthorized access, improper use or disclosure, unauthorized modification and unlawful destruction or accidental loss.
+    </p>
+<p class="terms">
+<b>Medinfi™</b> will not disclose any personal information or data to governmental institutions or authorities unless such disclosure is requisitioned under any Indian law or judicial decree or when <b>Medinfi™,</b> in its sole discretion, deems it necessary in order to protect its rights or the rights of others, to prevent harm to persons or property, to fight fraud and credit risk, or to enforce or apply our terms of use.
+    </p>
+<p class="terms">
+<b>Medinfi™</b> will take reasonable measures not to disclose information about you or the contents of your communication, we may be compelled to do so in the good faith belief that such action is reasonably necessary (a) to comply with the law, (b) to comply with legal process, (c) to respond to claims that any content violates the rights of third parties, (d) to facilitate the terms of an acquisition of <b>Medinfi™</b> by, or merger with, another company, or (e) protect the interest of <b>Medinfi™</b> or its affiliates.
+</p>
+<p class="terms">
+We welcome your questions and/or comments. Please send all questions to feedback@medinfi.com
+</p>
+
+</div>
+<div class="col-lg-0 col-md-0 col-sm-1 col-xs-1"></div>
+</div>      </div>
     
+    <!--Footer starts-->
+   
+	<!--  <div  class="container navbar-fixed-bottom" style="width:inherit;"> -->
+   <div class="row" id="foot1Div" style="margin-bottom:0px;">
+
+	  
+      <div class="col-lg-5 col-md-5 col-sm-5 col-xs-3 foo1">
+      </div>
+     <!--  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 foo1" style="position:relative">
+        <div style="float:right;padding-top:20px">
+          <span id="tolltext">Toll Free number</span><br>
+          <span id="tollNumber">1800 3000 8313</span>
+         </div>
+        </div> -->
+      <div class="col-lg-2 col-md-2 col-sm-4 col-xs-6 foo1">
+        <a target="_blank" href="https://play.google.com/store/apps/details?id=com.medinfi" onclick="ga('send', {hitType: 'event',eventCategory: 'Privacy Policy Page',eventAction: 'Download App Bottom
+        ',eventLabel: 'Download App Bottom'});" style="text-decoration:none">         
+              <img id="gooPlay" alt="Icon to Download the Medinfi App at the top of the screen" src="/medinfi/images/main_layout/gooPlay.png" class="img-responsive">
+            </a>
+      </div>
+      <div class="col-lg-5 col-md-5 col-sm-3 col-xs-3 foo1">
+      </div>      
+   </div>
+
+   <div class="row" id="foot2Div" style="margin-top:0px;">
+    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12 " style="text-align: center">
+      <div style="display: inline-block;">
+      <a class="foot_text" href="/medinfi/privacypolicy" onclick="ga('send', {hitType: 'event',eventCategory: 'Privacy Policy Page',eventAction: 'Privacy Policy',eventLabel: 'Privacy Policy'});" style="text-decoration:none">
+          <span>Privacy Policy. &nbsp;</span>
+      </a>
+      <a class="foot_text" href="/medinfi/termscondition" onclick="ga('send', {hitType: 'event',eventCategory: 'Privacy Policy Page',eventAction: 'Terms Of Use',eventLabel: 'Terms Of Use'});" style="text-decoration:none"> 
+          <span> Terms of Use. &nbsp;</span>
+      </a>
+       <a class="foot_text" href="/medinfi/save-feedback" onclick="ga('send', {hitType: 'event',eventCategory: 'Privacy Policy Page',eventAction: 'Feedback',eventLabel: 'Feedback'});" style="text-decoration:none">
+          <span>Feedback. &nbsp;</span>
+       </a>
+      <a class="foot_text" href="/medinfi/press" onclick="ga('send', {hitType: 'event',eventCategory:'Privacy Policy Page',eventAction: 'Press',eventLabel: 'Press'});" style="text-decoration:none">
+        <span>Press. &nbsp;</span>
+      </a>
+      <a class="foot_text" href="http://www.medinfi.com/blog/" style="text-decoration:none" onclick="ga('send', {hitType: 'event',eventCategory:'Privacy Policy Page',eventAction: 'Blog',eventLabel: 'Blog'});">
+        <span>Blog</span>
+      </a>
+      </div>
+    </div>
+      <div class="col-lg-3 col-md-3 col-sm-1 col-xs-0 ">
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-5 col-xs-12 " id="copyRight">
+        © 2014-2016 Medinfi <sup>TM</sup> Healthcare Pvt Ltd
+      </div>
+
+   </div>
+   <!--  </div> -->
+  <!--Footer Ends-->
+  </div>
+ 
+  </div><!--Outter Div Ends-->
   </div><!--row end-->
 
  </div><!--and container ends-->
-   
+<script type="text/javascript">
+function downloadJSAtOnload() {
+var element = document.createElement("script");
+element.src = "/medinfi/js/v6.6/below_fold.min.js";
+document.body.appendChild(element);
+}
+if (window.addEventListener)
+window.addEventListener("load", downloadJSAtOnload, false);
+else if (window.attachEvent)
+window.attachEvent("onload", downloadJSAtOnload);
+else window.onload = downloadJSAtOnload;
+</script>
 
 
 
-</body></html>
+<script src="/medinfi/js/v6.6/below_fold.min.js"></script></body></html>
