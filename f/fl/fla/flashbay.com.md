@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashbay.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604051148id_/http%3A//www.flashbay.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashbay.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211071833id_/http%3A//www.flashbay.com/about/privacy) for the most accurate reproduction.*
 
 # Custom USB Flash Drives Imprinted with your Logo
 
@@ -67,14 +67,14 @@ Flashbay.com gives you access to [the following information](http://www.flashbay
 ####  What Choices Do I Have?
 
   * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of some of the advanced features of Flashbay.com such as the "Account Centre".
-  * You can add or update certain information on pages such as those listed in our "Account Center" pages. When you update information, we usually keep a copy of the prior version for our records. Any information that you cannot update may be changed by contacting us at .
-  * You may cancel your Flashbay account at anytime and have the personal information we have stored on our servers permanently deleted by emailing us your request. Note that by doing so you will lose access to your order history with Flashbay and will stop receiving any personalized email communications from us.
+  * You can add or update certain information on pages such as those listed in our "Account Center" pages. When you update information, we usually keep a copy of the prior version for our records. Any information that you cannot update may be changed by contacting us at [contact@flashbay.com](mailto:contact@flashbay.com).
+  * You may cancel your Flashbay account at anytime and have the personal information we have stored on our servers permanently deleted by [emailing us your request](mailto:contact@flashbay.com). Note that by doing so you will lose access to your order history with Flashbay and will stop receiving any personalized email communications from us.
 
 
 
 ####  Terms and Conditions, Notices, and Revisions
 
-By visiting Flashbay.com, you agree that any dispute, including but not limited to a dispute about privacy, is subject to this Notice and our Terms and Conditions, including the limitations on damages, the agreement to arbitration of disputes, the agreement that the law of the State of California, not including its choice of law provisions, shall govern any such dispute and you agree to jurisdiction and venue in Santa Clara County California. If you have any concern about privacy at Flashbay.com, please send us a thorough description to , and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to. You agree that the current Privacy Notice and Terms and Conditions as posted on the Flashbay.com site at the time of our use of any of your information shall govern any dispute between us. 
+By visiting Flashbay.com, you agree that any dispute, including but not limited to a dispute about privacy, is subject to this Notice and our Terms and Conditions, including the limitations on damages, the agreement to arbitration of disputes, the agreement that the law of the State of California, not including its choice of law provisions, shall govern any such dispute and you agree to jurisdiction and venue in Santa Clara County California. If you have any concern about privacy at Flashbay.com, please send us a thorough description to [contact@flashbay.com](mailto:contact@flashbay.com), and we will try to resolve it. The Directors of the company are Karl-Phillip Schlossstein and James Roberts. Our business changes constantly. This Notice and the Terms and Conditions will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to. You agree that the current Privacy Notice and Terms and Conditions as posted on the Flashbay.com site at the time of our use of any of your information shall govern any dispute between us. 
 
 ####  Examples of Personal Information You Give Us and We Collect
 
@@ -84,4 +84,4 @@ By visiting Flashbay.com, you agree that any dispute, including but not limited 
 
 ####  How to Contact Us
 
-Flashbay’s offices are located at 569 Clyde Avenue, Unit 500, Mountain View, CA 94043 and you may also contact us by email at or by phone at 888-400-0408. 
+Flashbay’s offices are located at 569 Clyde Avenue, Unit 500, Mountain View, CA 94043 and you may also contact us by email at [contact@flashbay.com](mailto:contact@flashbay.com) or by phone at 888-400-0408. 
