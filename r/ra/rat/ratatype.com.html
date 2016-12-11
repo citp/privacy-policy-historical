@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the ratatype.com privacy policy that was archived on 2016-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160624130701id_/http%3A//www.ratatype.com/privacy-terms) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ratatype.com privacy policy that was archived on 2016-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161211165439id_/http%3A//www.ratatype.com/privacy-terms) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#"><head>
-	<meta name="msapplication-config" content="/browser/ie/browserconfig.xml">
+		<meta name="msapplication-config" content="/browser/ie/browserconfig.xml">
 	<link rel="shortcut icon" href="/browser/favicon.ico">
 	<link rel="apple-touch-icon" sizes="60x60" href="/browser/safari/apple-touch-icon-60x60.png">
 	<link rel="apple-touch-icon" sizes="76x76" href="/browser/safari/apple-touch-icon-76x76.png">
@@ -24,14 +24,15 @@
 
 <title>Privacy &amp; Terms — Ratatype</title>
 <link href="http://www.ratatype.com/privacy-terms/" rel="canonical">
-<link href="/static/css/main-min-1464763811.css" rel="stylesheet">
+<link href="/static/css/main-min-1481204475.css" rel="stylesheet">
 
 <!--[if lt IE 9]>
 <link rel="stylesheet" title="default" href="/static/css/ie8.css" type="text/css" media="screen, projection" />
 <script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js"></script><script src="/js/jquery-1.10.2-min-1383142158.js"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js"></script><script src="/js/jquery-1.10.2-min-1481204198.js"></script>
 <script src="/js/main-min-1458141717.js"></script>
+<script src="/locale/en_US/lp.js"></script>
 <style type="text/css">
 .paddrightSide {
 	padding-right:160px
@@ -46,49 +47,56 @@ h2 {
 </style>
 </head>
 
-<body style="">
+<body>
 <div id="fb-root"></div>
 <script>
-	window.fbAsyncInit = function() {
-	    FB.init({
-	      appId: '353876334709158',
-	      status: true,
-	      cookie: true,
-	      xfbml: true,
-	      version: 'v2.2'
-	    });
+	window.fbAsyncInit = function () {
+		FB.init({
+			appId: '353876334709158',
+			status: true,
+			cookie: true,
+			xfbml: true,
+			version: 'v2.5'
+		});
 
-	//Когда лайкаем по фейбуку что бы увеличивалась высота блока
-	FB.Event.subscribe('edge.create', function(response) {
-		$('.footerLinks').height(250)
-	});
+		//Когда лайкаем по фейбуку что бы увеличивалась высота блока
+		FB.Event.subscribe('edge.create', function (response) {
+			$('.footerLinks').height(250)
+		});
 
-    //Когда убираем лайк тоже
-    FB.Event.subscribe('edge.remove', function(response) {
-	    $('.footerLinks').height(250)
-    });
+		//Когда убираем лайк тоже
+		FB.Event.subscribe('edge.remove', function (response) {
+			$('.footerLinks').height(250)
+		});
 
-    $(function() {
-	$('.btnFBLogin').click(fbLogin);
-		// навешиваем обработчик кнопок facebook
-	$('.btnFB').each(function(i, b){
-		if (funcName=$(b).data('fbc'))$(b).click(window[funcName]);
-	})
-    });
-  };
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "https://connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
+		$(function () {
+						$('.btnFBLogin').click(fbLogin);
+						// навешиваем обработчик кнопок facebook
+			$('.btnFB').each(function (i, b) {
+				if (funcName = $(b).data('fbc'))$(b).click(window[funcName]);
+			})
+		});
+	};
+	(function (d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) {
+			return;
+		}
+		js = d.createElement(s);
+		js.id = id;
+		js.src = "https://connect.facebook.net/en_US/sdk.js";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
 </script>
 <form method="post" id="fb_login_form"><input type="hidden" name="fb_login"></form>
 <form method="post" id="fb_join_form"><input type="hidden" name="fb_join"></form>
 
-<a class="reportDiv" href="/contact/">Report a problem</a>
+
+
 <div class="center">
+<div class="hint">
+	<a class="reportDiv" href="/contact/">Report a problem</a>
+</div>
 <nav class="navigation">
 	<ul>
 		<li class="logo"><a href="/"><img src="/static/i/logo.png" height="19" width="157" alt=""></a></li>
@@ -118,7 +126,7 @@ h2 {
 	<div class="rightSide">
 		<div class="paddrightSide eduLine">
 			
-		<h1>Privacy Policy</h1>
+		<h1>Privacy policy</h1>
 		<h2>What information do we collect?</h2>
 
 		<p>We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey, fill out a form or take a typing test or exercise.</p>
@@ -145,7 +153,7 @@ h2 {
 
 		<p>We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.</p>
 
-		<p>We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.</p>
+		<p>We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.</p>
 
 		<p>After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.</p>
 
@@ -195,7 +203,7 @@ h2 {
 		<div class="clear" style="height:50px"></div>
 		
 		<a name="term"></a>
-		<h1>Terms of Use</h1>
+		<h1>Terms of use</h1>
 
 		<p>The following document outlines the terms of use of the www.ratatype.com website. By using and accessing this website (collectively referred to as the "Site" or "Ratatype" in these Terms of Use), you ("you", "user" or, "end user") agree to these Terms of Use (collectively, the "Terms of Service" or "Agreement").</p>
 
@@ -217,12 +225,11 @@ h2 {
 		
 		<h2>Limitation of Liability</h2>
 		
-		<p>In no event shall Ratatype or its affiliates be liable for any indirect, incidental, special, punitive damages or consequential damages of any kind, or any damages whatsoever arising out of or related to your use of the Site, the content and other information obtained therein.
-				<br>Certain jurisdictions prohibit the exclusion or limitation of liability for consequential or incidental damages, thus the above limitations may not apply to you.</p>
+		<p>In no event shall Ratatype or its affiliates be liable for any indirect, incidental, special, punitive damages or consequential damages of any kind, or any damages whatsoever arising out of or related to your use of the Site, the content and other information obtained therein.<br>Certain jurisdictions prohibit the exclusion or limitation of liability for consequential or incidental damages, thus the above limitations may not apply to you.</p>
 		
 		<h2>Governing Law</h2>
 		
-		<p>Any disputes arising out of or related to these Terms of Use and/or any use by you of the Site shall be governed by the laws of the , without regard to the conflicts of laws provisions therein.</p>
+		<p>Any disputes arising out of or related to these Terms of Use and/or any use by you of the Site shall be governed by the laws, without regard to the conflicts of laws provisions therein.</p>
 		
 		<h2>Date of Last Update</h2>
 		<p>This agreement was last updated on January 16, 2013.</p>
@@ -239,8 +246,13 @@ h2 {
 			<a href="/about/">About</a>
 			<a href="/contact/">Contact Us</a>
 			<a href="/privacy-terms/">Privacy &amp; Terms</a>
-			<span>©&nbsp;2016  <a href="http://www.ratatype.com/">Ratatype — Free Online Typing Tutor</a></span>
 		</div>
+
+		<div class="right">
+		</div>		
+		
+		<div class="clear" style="height: 10px"></div>
+		<div class="left"><span>©&nbsp;2016  <a href="http://www.ratatype.com/">Ratatype — Free Online Typing Tutor</a></span></div>
 		<div class="right likes">
 			<div>
 			 <!--fb:like href="http://www.ratatype.com/" layout="button_count" width="135" show_faces="true" style="z-index:100;"-->
@@ -292,7 +304,7 @@ h2 {
 	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-	ga('create', 'UA-36630522-1', 'ratatype.com');
+	ga('create', 'UA-36630522-1', 'ratatype.com' );
 	ga('send', 'pageview');
 	</script>
 	
