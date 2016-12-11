@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofmelbourne.com.au privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422074040id_/https%3A//www.bankofmelbourne.com.au/online-services/security-centre/we-protect-you/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofmelbourne.com.au privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211032722id_/https%3A//www.bankofmelbourne.com.au/online-services/security-centre/we-protect-you/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bank of Melbourne
 
@@ -13,6 +13,8 @@
   * Do we use or disclose personal information for marketing?
   * Access to and correction of personal information
   * Resolving your privacy concerns and complaints – your rights
+  * Bank of Melbourne surveys  
+
   * Contact us
 
 
@@ -106,6 +108,23 @@ Sydney NSW 2001
 **Email** : [**enquiries@oaic.gov.au**](mailto:enquiries@oaic.gov.au)
 
 [**www.oaic.gov.au**](http://www.oaic.gov.au/)
+
+**Bank of Melbourne surveys**
+
+Bank of Melbourne engages with a number of external research partners to conduct market research surveys. These provide an opportunity to give feedback on your experiences with Bank of Melbourne, as well as identify areas of improvement.  Your participation in these surveys is voluntary, and you can choose to opt out at any time.
+
+  Bank of Melbourne’s external research partners will **NEVER** ask you to disclose personal details such as:
+
+  * Your date of birth
+  * Your credit card number or expiry date
+  * Your account numbers or account balances
+  * Your driver’s licence number
+  * Your passwords or PIN
+  * Your address.
+
+
+
+Please do not provide any of the above information to anyone claiming to be from Bank of Melbourne (either via phone call, email, SMS or other message type).
 
 **Contact us**
 
