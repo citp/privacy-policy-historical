@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wjactv.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511162645id_/http%3A//wjactv.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wjactv.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211180103id_/http%3A//wjactv.com/station/privacy) for the most accurate reproduction.*
 
 # Johnstown Privacy | News, Weather, Sports, Breaking News | WJAC
 
