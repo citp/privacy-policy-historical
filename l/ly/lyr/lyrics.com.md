@@ -1,23 +1,47 @@
-> *The following text is extracted and transformed from the lyrics.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517104123id_/http%3A//www.lyrics.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyrics.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211054941id_/http%3A//www.lyrics.com/privacy.php) for the most accurate reproduction.*
 
-# Lyrics.com - your music community with the largest searchable lyrics database.
+# Privacy Policy
 
-### Privacy Policy 
+STANDS4 LLC cares about your privacy. We want to make you feel comfortable and secure using our web site. This privacy policy explains the types of information we gather, how it is protected, what we do with it and how you can correct or change information.
 
-With Lyrics.com, you and your friends can find song lyrics, join forums, post comments and images, and dedications. The sole purpose of this site is for the enjoyment and entertainment of our users. To that end, we will take appropriate steps to ensure the protection of our users.
+### Consent to this Privacy Policy
 
-At Lyrics.com, your privacy and security is extremely important to us. The information that we collect from you will be stored securely and will never be sold to a third party. When you sign up for our service, we use your information to help you connect with other people, to share music, and to allow us to contact you if and when the need arises. These are the only reasons that we ask you for your personal information. Your information will only be handled by the appropriate people in our company and we will never ask for any additional information such as social security or financial information.
+By providing STANDS4 LLC with Personal Information (defined below), you signify that you agree with the terms of our current Privacy Policy as posted here. If you do not agree with any term in this Policy, please do not provide any Personal Information.
 
-If you do not wish us to contact you via email regarding updates to the web site or any specials or promotions, please let us know.
+If you choose not to provide Personal Information, you may not be able to take certain actions, like becoming an editor, access particular areas of the web site, posting comments to our Blog, or send us e-mail.
 
-The information that you supply to us and any content that you submit onto the web site will be viewable by the public. As this web site is accessible to anyone, your information can be viewed by anyone who accesses the web site. Please do not submit information if you do not wish the public at large to be able to access this information.
+### Continuing Agreement
 
-Every available precaution has been taken to ensure that the personal information that you submit to us is protected, both online and offline.
+STANDS4 LLC may change or revise this Privacy Policy from time to time by updating this posting. Please review this Privacy Policy each time you visit this web site in order to be aware of the most current terms regarding your use of this web site. Your use of this web site reaffirms your continuing agreement to the most current Privacy Policy.
 
-At Lyrics.com, we also treasure the safety of children under the age of thirteen. We will never knowingly collect a child's personal information, including name, email address or any other information. Children under the age of thirteen are not allowed to register for our services without parental consent. If any child under the age of thirteen submits personal information without parental consent through the registration process, that information will be immediately expunged from our database. If you have any knowledge of children under the age of thirteen using the web site improperly, please let us know immediately.
+### What Personal Information is collected and how?
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, **[click here](http://networkadvertising.org/)**.
+When you are applying to become an editor, adding new entries or sending us email, you may provide us with your e-mail address ("Personal Information").
 
-By accessing Lyrics.com, you acknowledge and accept our privacy practices, If you have any questions regarding our privacy policy, please feel free to contact us.
+STANDS4 LLC also uses "cookies" to receive and store certain types of information whenever you interact with the web site. Cookies are identifiers transferred to your computer's hard drive through your browser which enable our systems to recognize your browser. This recognition allows web sites to give you customized and personalized service and helps web site owners identify ways to improve your online experience. Cookies may also be used to help web site owners track responses to messages sent on behalf of our advertisers so that STANDS4 LLC may aggregate such information and report results to them. The "help" portion of the toolbar on most browsers will tell you how to reject or disable cookies or receive notice when a new cookie appears. If you choose to reject or disable cookies, you will be unable to use those specific areas of the web site that require the use of cookies.
 
-This privacy policy only applies to information collected on this web site. 
+STANDS4 LLC does not knowingly collect or maintain any Personal Information from children under the age of 13. In addition, no part of this web site is designed with the purpose of attracting any person under age 13.
+
+### How does STANDS4 LLC use your information?
+
+STANDS4 LLC uses your Personal Information to enhance and personalize your online experience. STANDS4 LLC does not sell Personal Information about individual customers to third parties, sell or rent lists of customers or use information about individual customers except as described below.
+
+**Aggregated Information:** STANDS4 LLC may use aggregated information regarding its customers and usage of this web site and disclose such aggregated information to advertisers, partners and others for various purposes.
+
+**Third Party Service Providers:** STANDS4 LLC may employ other companies and individuals to perform certain functions such as delivering packages, processing credit card payments and analyzing data. They may have access to personal information to perform their functions.
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies visit [http://www.networkadvertising.org](http://www.networkadvertising.org/)
+
+### Enforcement of Agreement or Compliance with Law
+
+STANDS4 LLC may use or disclose personal information when STANDS4 LLC believes it is appropriate to enforce these Terms of Use, to protect the rights, property or safety of STANDS4 LLC or its users or to comply with the law.
+
+### How may you change or remove your personal information?
+
+You may at any time review and change your Personal Information stored by this web site by contacting us using our [contact page](http://www.lyrics.com/contact.php).
+
+You may also request that STANDS4 LLC permanently remove all Personal Information stored by STANDS4 LLC by delivering notice requesting such removal. Upon such request, STANDS4 LLC will remove all such information and will not thereafter use personally identifiable information about you in any way.
+
+### Site Security
+
+STANDS4 LLC will take reasonable precautions to keep your Personal Information secure. All personally identifiable information is subject to restricted access to prevent unauthorized access, modification or misuse.
