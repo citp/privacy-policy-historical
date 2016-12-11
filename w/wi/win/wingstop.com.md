@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wingstop.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604153215id_/http%3A//www.wingstop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wingstop.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211124306id_/http%3A//www.wingstop.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Wingstop
 
@@ -116,7 +116,7 @@ Your use of our Site or Services, as well as any dispute over privacy, is subjec
 
 **How to Contact Us About Privacy**
 
-If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact us at [support@wingstop.com](mailto:support@wingstop.com), or at:
+If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact us:
 
 Wingstop Restaurants, Inc.
 
@@ -125,6 +125,8 @@ Wingstop Restaurants, Inc.
 Dallas, TX 75240
 
 Attention: Privacy
+
+[www.wingstop.com/contact-us/](http://www.wingstop.com/contact-us/)
 
 **Changes to this Policy**
 
