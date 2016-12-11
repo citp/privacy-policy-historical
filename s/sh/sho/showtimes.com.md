@@ -1,79 +1,113 @@
-> *The following text is extracted and transformed from the showtimes.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531084847id_/http%3A//www.hollywood.com/corporate_profile/privacy_policy/468709) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showtimes.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211181657id_/https%3A//www.showtimes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement for Hollywood.com at Hollywood.com
+# Privacy Policy | showtimes.com
 
-Hollywood.com, LLC. ("Hollywood.com") has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: 
+This website, available at www.showtimes.com ("Website"), is owned and operated by Tribute Publishing Inc. ("Tribute", "we", "us", "our"). We have prepared this Privacy Policy to describe the manner in which we collect, use, disclose and otherwise manage personal information collected through the Website. 
 
-By accepting this _Privacy Policy_ and our _Terms of Use_ , you expressly consent to our use and disclosure of your personal information in the manner prescribed in this Privacy Policy. This Privacy Policy is incorporated into and subject to our terms of use. 
-
-This Privacy Policy contains a number of references to other information pages on our Site and other websites. Please note: underlined words and phrases are click-through links to these pages and websites. We strongly recommend that as you read this Privacy Policy, and you click on such links to obtain further important details about the Privacy Policy, as they may contain further terms and conditions which apply to you. 
-
-Please note that your Information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the UK laws but we will hold and transmit your Information in a safe, confidential and secure environment. We will never sell or rent your personal information to third parties except as described in this Privacy Policy. If you object to your information being transferred or used in this way please do not register or provide us with such information. If you have any questions, send an email to [membership@boca.hollywood.com](mailto:membership@boca.hollywood.com)
-
- **Overview**
-
-Your Privacy is very important to us. As part of the normal operation of our services we collect and, in some cases, may disclose information about you. This Privacy Policy describes the information we collect about you and what may happen to that information. As described below, some of your personally identifiable information is disclosed to third parties and used by us and third parties. By accepting the Privacy Policy, you expressly consent to our use and disclosure of your personally identifiable information. 
-
-**Information Collection, Use, Sharing and Disclosure**
-
-We use your IP address to help diagnose problems with our server and to administer our websiteadver and services. Through customer surveys, subscriptions, and newsletter registrations, our site may request users to give us contact, demographic and/or financial information (such as their name, locale, gender, age, income level and email address). The demographic information is used, among other things, to enhance user experience so we can be more content specific. The contact information is used to notify users of new services and content, as well as for surveys and newsletters. Our site may use an order form for customers to subscribe to our for-pay services. We collect contact information (like e-mail address) and financial information (like account or credit card numbers). Contact information from the order form is used to send billing invoices. Contact information is also used to get in touch with the subscribers when necessary. Users may opt-out of receiving future communications; see the choice/opt-out section below. Financial information that is collected is used, among other things, to bill the user for products and services for in-house statistics, advertising, and marketing target information. We will never share personal financial information with any other parties without your consent. Information collected during Hollywood.com subscriber registration is used for in-house statistics, marketing target information, and advising clients of Hollywood.com news and information. This site contains links to other sites. Hollywood.com is not responsible for the privacy practices or the content of such websites or any website from which you may have linked to Hollywood.com. 
-
-Hollywood.com is committed to protecting your privacy online. Please read this privacy policy to fully understand how we will make use of the personal information you share with us. Hollywood.com collects certain personal information in order to provide you with customized services, content, and advertisements. Some personal information is gathered when you register to receive certain Hollywood.com products or services. We may disclose to third parties certain aggregate information contained in your registration data or related data, provided that, such information will NOT include personally identifying information, except as specifically authorized by you or in the good faith belief that such action is reasonably necessary to comply with the law, legal process, or to enforce the terms of service. Hollywood.com will also use your personal information for the purposes of providing you with any services to which you subscribe, and any service-related activities such as collecting subscription fees from you for those services, and notifying you or contacting you regarding any problem with, or the expiration of, such services. In this regard, it may be necessary for Hollywood.com to disclose your personal information to one or more agents and contractors of Hollywood.com and their subcontractors, but such agents, contractors, and subcontractors will be required to agree to use the information obtained from Hollywood.com only for these purposes. We recommend that you do not divulge your password to anyone. Hollywood.com will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out of your Hollywood.com account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Hollywood.com cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. Hollywood.com reserves the right to change this statement at any time by posting revisions on the Hollywood.com web site. This privacy policy is not intended to, and does not create any contractual or other legal rights in or on behalf of us. 
-
-We may run contests on our site in which we ask visitors for contact information (such as their name and email address) and demographic information (such as their zip code, age, and/or income level). The user's contact information is used to contact the visitor when necessary, such as if they win a contest or to notify users of upcoming contests. There are three primary types of contests: (1.) We host solely and all information that is collected stays in-house. (2.) We may share address information with third party for shipping purposes. (3.) In some rare instances, a third party may host the contest and all information is then shared. In our contest registration, we give our users the opportunity to sign up for the Hollywood.com newsletter. However, users may opt-out of receiving future mailings by selecting the "unsubscribe" link at the bottom of the newsletter. Hollywood.com products and services are directed at an adult market, and therefore this site is intended for use by adults only. Hollywood.com encourages parents to take an active role in their children's use of the Internet, and to inform them of the dangers of providing information about themselves over the Internet. Children of any age should always ask a parent for permission before sending personal information to anyone online. No information should be submitted to or posted on this web site by users under 18 years of age without the consent of their parent or guardian. Children are not eligible to use our services and we ask that minors (under the age of 18) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with your parents or guardians. 
-
-Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose information to the government, law enforcement agencies or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your information that they collect from our Site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications will always remain private. 
-
-**Children**
-
-Users that Hollywood.com knows to be under the age of 13 are hereby required to provide the e-mail address of their parent or guardian to [membership@boca.hollywood.com](mailto:membership@boca.hollywood.com) so that Hollywood.com may alert the parent or guardian of their child's use of this web site. The parent or guardian must consent to Hollywood.com's collection of their child's personal information. A known child user will be restricted from providing personal information until such consent is received. No information collected from users known to be under age 13 will be used for any marketing or promotional purposes outside Hollywood.com. If Hollywood.com collects personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Policy Act of 1998 (U.S.C. 6501 et seq.). 
-
-**Advertisements**
-
-Ads appearing on this web site are delivered to you by either (a) one of our web advertising partners or (b) by us. Information about your visit to this site, such as the number of times you have viewed an ad, your browser type (for example, Netscape or Internet Explorer), the type of computer operating system you use (Macintosh or Windows, for instance) and whether or not you responded to the ad delivered, (but not your name, address, phone number or other personal information), is used to serve advertisements to you on this site. We may use your zip code or geographical location information to serve advertisements to this site. In the course of serving advertisements to this site, our third party advertiser may place or recognize a unique cookie on your browser. Users may opt-out of receiving future mailings; see the choice/opt-out section below. We aggregate (gather up data across all user accounts) personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally. Certain information, such as your name, email address, password, credit card number, and bank account number, are never disclosed to marketing advertisers. This site may use its own proprietary ad serving system. However, this site may use and allow for third party ad serving systems (i.e.: Double-click, Mediaplex, Atlas, Zedo, etc.). Third party ad serving systems are approved at the site's discretion. The site and its third party servers collect and store anonymous data, typically through the use of cookies. 
-
-**Public Forums**
-
-This site contains message boards, and/or news groups available to its users. We request users to give us contact information, such as name, email, address, occupation, and interests to be a registered bulletin board user. This information is optional and not necessary to post messages. This information may be used by the administrator to send the user email notices. However, users may opt-out of receiving future mailings; see the choice/opt-out section below. Please remember that any information that is disclosed in these areas becomes public information and users should exercise caution when deciding to disclose personal information. 
-
-**Security**
-
-While Hollywood.com cannot guarantee that unauthorized access will never occur, we do take great care to insure that your private information is as safe as possible through the use of secure technology and internal processes. As an example, any information that we collect about you is stored in an access-controlled environment, preventing access by unauthorized people. Also, any time your information is passed across the Internet, it is protected by the use of encryption technology such as SSL (see [http://www.ssl.com](http://www.ssl.com/) to learn more about SSL encryption). Your account is also password protected, and allows you to modify or update your information at any time. 
-
-**Choice/Opt-Out – Your ability to opt-out and remove your information.**
-
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service: 
-
-  * Users can send email to [membership@boca.hollywood.com](mailto:membership@boca.hollywood.com)
-  * Users can visit the following URL: <http://www.hollywood.com/content/newsletter.aspx>
-  * Users can send mail to the following postal address: 2255 Glades Road. Suite 221A, Boca Raton, Florida 33431 
-  * Users can call the following telephone number: (561) 322-3449
-
- **Correct/Update – Your ability to update your information.**
-
-The site gives users the following options for changing and modifying information previously provided: 
-
-
-
-  * Users can send email to [membership@boca.hollywood.com](mailto:membership@boca.hollywood.com)
-  * Users can visit the following URL: <http://www.hollywood.com/content/newsletter.aspx>
-  * Users can send mail to the following postal address: 2255 Glades Road, Suite 221A, Boca Raton, Florida 33431
-  * Users can call the following telephone number: (561) 322-3449. 
-  * This policy may change from time to time so please check back periodically. 
-
-
-
-**Contacting the Website**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact: 
-
-Hollywood.com, LLC  
-2255 Glades Road   
-Suite 221A   
-Boca Raton, Florida 33431   
-or email us at [membership@boca.hollywood.com](mailto:membership@boca.hollywood.com)
+BY VISITING THE WEBSITE, YOU EXPRESSLY CONSENT TO THE PROCESSING OF YOUR PERSONAL INFORMATION ACCORDING TO THIS PRIVACY POLICY. YOUR PERSONAL INFORMATION MAY BE PROCESSED IN THE COUNTRY WHERE IT WAS COLLECTED AS WELL AS OTHER COUNTRIES (INCLUDING THE UNITED STATES) WHERE LAWS REGARDING PROCESSING OF PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY. BY UPLOADING PERSONAL INFORMATION TO THE WEBSITE You warrant that you have the right to transfer such information outside your country and into the United States. 
 
   
 
+
+###  **CHILDREN UNDER 13 YEARS OF AGE**
+
+Children under 13 years of age are not permitted to use the Website for any purpose and Tribute does not collect personally identifiable information about children under the age of 13. You may not provide personal information about any person under 13 years of age. If you believe that personal information about a child has been provided to Tribute, please contact us at [**info@showtimes.com**](mailto:info@showtimes.com) If we become aware that personally identifiable information about a child under age 13 has been provided, we will delete such information. 
+
+  
+
+
+###  **INFORMATION WE COLLECT**
+
+_Personal Information_
+
+When you sign up for or use the Website, enter or participate in a promotion, survey, poll or customer research, make a purchase or donation or contact us with an idea, question, comment or complaint you may voluntarily give us certain information about yourself. This can include name, username, profile photo, telephone number, email address, city, state, gender, credit card information, your opinions and survey responses and any other information you provide us. If you're using a mobile device to access the Website, you may also choose to provide us with location data. 
+
+_Invite or Share With Friends_
+
+You may choose to use the "Invite a Friend," share content with friends or use other similar features on the Website, which permits you to send email to third parties. This feature requires you to submit the name and email address of your friends that may be interested in the Website. Any email addresses you provide via the Invite a Friend or similar features will be added to our mailing list. Please ensure that you only submit email addresses of friends or family that would like to receive the email and future emails from Tribute. 
+
+_Social Media_
+
+We may offer you the opportunity to engage with our content on or through third-party social networking websites, plug-ins and applications, such as when you share a movie trailer or screening information. When you engage with our content on or through third-party social networking websites, or through plug-ins and applications, you may allow us to have access to certain information associated with your social media account (e.g., name, username, email address, profile picture, gender) to deliver the content or as part of the operation of the website, plug-in or application. 
+
+_Public Postings_
+
+You may choose to post a message on our Website forums, such as by commenting on a news story or posting a rating or review. Please remember that any information you disclose in these public forums becomes public information and is immediately accessible to other users and may be retrievable by third party search engines. We recommend that you guard your privacy and anonymity and not upload any content that you are not comfortable being available to the general public. Any third party with access to your information via the Website will be permitted to use the information in the same manner as if you submitted the information directly to that third party. 
+
+_Website Access Information and Use of Cookies_
+
+Like most website operators, Tribute collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request when visitors use the Website. Tribute's purpose in collecting non-personally identifying information is to better understand how Tribute's visitors use the Website. From time to time, Tribute may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of the Website. Tribute also collects potentially personally- identifying information like Internet Protocol (IP) addresses and may collect statistics about the behavior of visitors to the Website. For instance, Tribute may monitor the Website to help identify spam. 
+
+In addition to log data, we may also collect information about the device you're using to access the Website, including the type of device, the operating system, device settings, device identifiers and crash data. Whether we collect some or all of this information often depends on what type of device you're using and its settings. To learn more about the information your device makes available to us, please review the policies of your device manufacturer or software provider. 
+
+Our Website uses a technology called "cookies." A cookie is a tiny element of data that our Website can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. We use cookies to help us understand which areas of our Website are useful and which areas need improvement. You may set your Web browser to notify you when you receive a cookie or to not accept certain cookies. However, if you decide not to accept cookies from our Website, you may not be able to take full advantage of all of the features of our Website. 
+
+Our Website may also use a technology called "tracer tags" or "Web Beacons." This technology allows us to understand which pages you visit on our Website. These tracer tags are used to help us optimize and tailor our Website for you and other future visitors to our Website. 
+
+_Tailored Ads:_ We use remarketing with Google Analytics to advertise online. Third-party vendors, including Google, may show ads for Tribute on websites across the internet. We and our third-party vendors, including Google and DoubleClick, use cookies to inform, optimize, and serve ads on our Website and on third-party websites based on your past visits to our Website. These cookies may also be used to report on ad impressions, other uses of ad services, and interactions with these ad impressions and ad services related to visits to our Website. 
+
+You can choose not to receive tailored advertising from Google using [ Google's Ad settings ](https://www.google.com/settings/ads?hl=en&sig=ACi0TCirsdyjjDn_q4-RmFSI_Yd3_rUGb-c3ddw35qaEXbnEUQ-VlFG2YNFSLegKyIL8fv9QH6X0VkNEeyfiK_SuraibfEuKLi4svkOttUfE__2hrhH1ogGFRBjW_Rv5daQ78JE8nSp8Z548j9h6EB_7dbnRJCp7hKUI2h56tTvCW7s1Yi5qDNg "Google's Ad settings") and from other third-party vendors listed on this [online tool](http://youradchoices.ca/choices "online too"). If you opt out of receiving tailored advertising from these third-parties, you may still see Tribute ads on other websites, but those ads will not be customized by the companies that you opt-out of and Tribute may continue to customize your experience on our website using cookies. 
+
+  
+
+
+###  **Use of Information**
+
+We use the information we collect to provide you full access and functionality of the Website. Accordingly, your information may be used for the following purposes: (i) to provide and improve our services, features and content; (ii) to administer your use of our services and accounts; (iii) to enable users to enjoy and easily navigate the Website; (iv) to better understand your needs and interests; (v) to fulfill requests or to respond to questions or comments you may make; (vi) to personalize your experience; (vii) to provide you with announcements, notifications and advertisements related to your interests and use of the Website and other communications such as electronic newsletters, promotional e-mails or similar messaging; (viii) to provide service announcements; (ix) to protect against users seeking to hack into the Website; and (x) to assess the level of general interest in the Website. 
+
+  
+
+
+###  **DISCLOSURE OF INFORMATION**
+
+Except as otherwise provided in this policy, we disclose the potentially personally-identifying information you disclose to Tribute only to those of our employees, contractors and affiliated organizations that (i) need to know that information in order to process it on our behalf, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country and by using the Website, you consent to the transfer of such information to them. 
+
+Other than to its employees, contractors and affiliated organizations or as described above, we disclose personally-identifying only when required to do so by law, or when we believe in good faith that disclosure is reasonably necessary to protect the property or rights of Tribute, third parties or the public at large. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. 
+
+In addition, in some cases we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Tribute or substantially all of its assets were acquired, or in the unlikely event that Tribute goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of Tribute may continue to use your personal and non-personal information only as set forth in this policy. Otherwise, we will not rent or sell potentially personally-identifying and personally-identifying information to anyone. 
+
+  
+
+
+###  **Links and Co-Sponsorship with Other Web Sites**
+
+If a sweepstakes or promotion is jointly sponsored by us and one or more sponsors, your personal information may be shared with such sponsors, as specified at the time of collection of your personal information. We do not control the use, disclosure or security of your personal information by other sponsors, and recommend you review their respective privacy notices or statements. 
+
+Our Website may contain links to other sites that we do not own or operate, including our third party sponsors or partners which may include a reference to Tribute Publishing Inc. or a Tribute logo as part of a co-branding agreement. Also, links to our Website may be featured on third party websites on which we advertise. Except as provided herein, we will not provide any of your personal information to these third parties without your consent. We provide links to third party websites as a convenience to the user. These links are not intended as an endorsement of or referral to the linked websites. The linked websites have separate and independent privacy statements, notices and terms of use, which we recommend you read carefully. We do not have any control over such websites, and therefore we have no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use or disclose, secure and otherwise treat your personal information. 
+
+  
+
+
+###  **SECURITY**
+
+We maintain administrative, technical and physical safeguards in an effort to protect against unauthorized access, use, modification and disclosure of personal information in our custody and control. 
+
+  
+
+
+###  **Consent to Communications**
+
+When you enter a sweepstakes or a promotion or sign up to use the Website, we may obtain your consent to add you to our email or other marketing list. From time to time, we may send you email, SMS text messages or other communications that may be of interest to you, such as the MOVIE MAIL newsletter or other offers from us or our partners. You may remove yourself from our or our Tribute Partners' e-mail lists by following the unsubscribe instructions in each of the e-mails. If you have signed up to receive SMS text messages, you may opt out by following the opt-out instructions provided in your SMS messages. You may also remove yourself from our list by contacting us as set out in the "How to Contact Us" section below. 
+
+  
+
+
+###  **Privacy Policy Changes**
+
+This Privacy Policy may be updated periodically to reflect changes to our personal information practices. The revised Privacy Notice will be posted on the Website. We strongly encourage you to refer to this Privacy Policy often for the latest information about our personal information practices. Your continued use of the Website subsequent to any posted changes to this Policy means you accept those changes. We will provide notice to you if these changes are material and, where required by applicable law, we will obtain your consent. 
+
+  
+
+
+###  **Your California Privacy Rights**
+
+A business subject to California Civil Code section 1798.83 is required to disclose to its California customers, upon request, the identity of any third parties to whom the business has disclosed personal information within the previous calendar year, along with the type of personal information disclosed, for the third parties' direct marketing purposes. 
+
+If you are a California resident and would like to make such a request, please send an email to [**info@showtimes.com**](mailto:info@showtimes.com). 
+
+  
+
+
+###  **CONTACT US**
+
+If you have any questions regarding our Privacy Policy or the manner in which we or our service providers treat your personal information, please contact our **Privacy Officer** at the following information: [**info@showtimes.com**](mailto:info@showtimes.com)
