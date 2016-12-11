@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the webhostinghero.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316205256id_/https%3A//www.webhostinghero.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostinghero.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211203129id_/https%3A//www.webhostinghero.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - WebHostingHero.com
-
-## Privacy Policy
 
 This Privacy Policy governs the manner in which 7243103 CANADA INC. collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.webhostinghero.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by 7243103 CANADA INC.
 
@@ -22,9 +20,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 The only information collected is from Google Analytics. 7243103 CANADA INC. may collect and use Users personal information for the following purposes:
 
-  * **To personalize user experience**  
+  *  **To personalize user experience**  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * **To improve our Site**  
+  *  **To improve our Site**  
 We may use feedback you provide to improve our products and services.
 
 
