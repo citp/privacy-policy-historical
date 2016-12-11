@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ti.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617205203id_/http%3A//www.ti.com/corp/docs/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ti.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211061713id_/http%3A//www.ti.com/corp/docs/legal/privacy.shtml) for the most accurate reproduction.*
 
 # Texas Instruments - Privacy Policy
 
@@ -7,31 +7,31 @@
 
 ## 1\. Scope and Content
 
-This Privacy Policy explains how Texas Instruments Incorporated, 12500 TI Boulevard, Dallas, Texas 75243, USA ( "TI" or "we") handles information, including your Personal Data, that TI collects online, including through TI’s websites, online services, tools, and mobile applications ("apps"). "Personal Data" is information relating to an identified or identifiable person; for example, your email address, name, or phone number. This Privacy Policy does not apply to information that TI collects offline. By visiting TI’s websites, you agree to the practices described in this Privacy Policy.
+This Privacy Policy explains how Texas Instruments Incorporated, 12500 TI Boulevard, Dallas, Texas 75243, USA and its subsidiaries ( “TI” or “we”) handle information, including your Personal Data, that TI collects online, including through TI’s websites, online services, tools, and mobile applications (“apps”) (collectively, “sites”). “Personal Data” is information relating to an identified or identifiable person; for example, your email address, name, or phone number. This Privacy Policy does not apply to information that TI collects offline. By visiting TI’s sites, you agree to the practices described in this Privacy Policy. This Privacy Policy is incorporated into and made a part of our Terms of Use.
 
 Back to the top
 
-## 2\. Usage of TI's Websites, Generally
+## 2\. Usage of TI’s Sites, Generally
 
-The information you provide to TI online will better enable TI to communicate with you regarding our products and your product needs. Such information may be used to optimize your user experience and to offer you tailored support, TI product samples, and additional information about TI’s products and services. You are welcome to visit TI’s websites and use TI services while not entering certain Personal Data. However, if you choose not to provide certain information, you may not be able to take advantage of many of TI’s features and programs.
+The information you provide to TI online will better enable TI to communicate with you regarding our products and your product needs. Such information may be used to optimize your user experience and to offer you tailored support, TI product samples, and additional information about TI’s products and services. You are welcome to visit TI’s sites and use TI services while not entering certain Personal Data. However, if you choose not to provide certain information, you may not be able to take advantage of many of TI’s features and programs.
 
 Back to the top
 
 ## 3\. Data We Collect and How We Use it
 
-TI collects and uses information, including Personal Data, obtained online (e.g., data you enter into forms on our websites or make available through our online tools) to provide you with the requested services and functionalities. For example, if you enter your email address when you register for an online account with TI, or your postal address when you purchase products or request product information, this data will be used to serve your request (e.g., to confirm, change, bill, track, and deliver your products or to provide you with the product and service information you requested).
+TI collects and uses information, including Personal Data, obtained online (e.g., data you enter into forms on our sites or make available through our online tools) to provide you with the requested services and functionalities. For example, if you enter your email address when you register for an online account with TI, or your postal address when you purchase products or request product information, this data will be used to serve your request (e.g., to confirm, change, bill, track, and deliver your products or to provide you with the product and service information you requested).
 
-In addition, TI collects certain information about you, your browser and operating system, and/or your visit when you use TI’s websites. For example, we collect information regarding the number of visitors to our websites, browsing patterns, IP address (including information derived from your IP address indicating where your communication originated), web addresses of TI websites you come from and go to next, information about your connection, and areas of visitors’ interest. We use this information to enhance our website services and to personalize information provided to you. 
+In addition, TI collects certain information about you, your browser, operating system, and/or your visit when you use TI’s sites. For example, we collect information regarding the number of visitors to our sites, browsing patterns, IP address (including information derived from your IP address indicating where your communication originated), web addresses of TI sites you come from and go to next, information about your connection, and areas of visitors’ interest. We use this information to enhance our site services and to personalize information provided to you.
 
-TI may also use Personal Data and information collected on TI websites to help us deliver relevant marketing messages to you. These messages may be delivered on our websites, by third parties, via email, or via other TI services. We use this information to ensure you see products of interest to you, manage the frequency with which you see an advertisement, tailor advertisements to better match your interests, and to help us understand the effectiveness of our advertising. 
+TI may also use Personal Data and information collected on TI sites to help us deliver relevant marketing messages to you. These messages may be delivered on our sites, by third parties, via email, or via other TI services. We use this information to ensure you see products of interest to you, manage the frequency with which you see an advertisement, tailor advertisements to better match your interests, and to help us understand the effectiveness of our advertising.
 
-TI and, in some circumstances, third parties working on our behalf, analyze Personal Data and information collected on TI websites (and may utilize Google Analytics™ web analytics service, Adobe® Analytics, or similar tools) to assess trends, statistics and customers’ needs, to help us improve and customize our websites and our products and to track the effectiveness (e.g., conversions) of our advertising. 
+TI and, in some circumstances, third parties working on our behalf, analyze Personal Data and information collected on TI sites (and may utilize Google Analytics™ web analytics service, Adobe® Analytics, or similar tools) to assess trends, statistics and customers’ needs, to help us improve and customize our sites and our products and to track the effectiveness (e.g., conversions) of our advertising.
 
-We may provide you with additional information regarding the purpose for which we use your data when you enter your Personal Data in a particular online form or in an app. 
+We may provide you with additional information regarding the purpose for which we use your data when you enter your Personal Data in a particular online form or in an app.
 
-TI may share your Personal Data with its subsidiaries and with third parties worldwide for processing, storage, fulfillment, and other business related purposes. We also reserve the right to disclose and transfer Personal Data to a subsequent owner, co-owner, or operator of our company or websites, or in connection with a corporate merger, consolidation, restructuring, the sale of substantially all of our interests and/or assets or other corporate change, including, during the course of any due diligence process. 
+TI may share your Personal Data with its subsidiaries and with third parties worldwide for processing, storage, fulfillment, and other business related purposes. We also reserve the right to disclose and transfer Personal Data to a subsequent owner, co-owner, or operator of our company or sites, or in connection with a corporate merger, consolidation, restructuring, the sale of substantially all of our interests and/or assets or other corporate change, including, during the course of any due diligence process.
 
-If you are located outside of the United States, please note that information we collect, including Personal Data, may be transferred to, processed, and stored in the United States. The data protection laws in the United States may differ from those of the country or jurisdiction in which you are located, and your Personal Data may be subject to access requests from governments, courts, or law enforcement in the United States according to laws of the United States. By using TI’s websites, online services, tools, and apps, or otherwise providing us with any information, you consent to the transfer, processing, and storage of your information in the United States. 
+If you are located outside of the United States, please note that information we collect, including Personal Data, may be transferred to, processed, and stored in the United States. The data protection laws in the United States may differ from those of the country or jurisdiction in which you are located, and your Personal Data may be subject to access requests from governments, courts, or law enforcement in the United States according to laws of the United States. By using TI’s sites, online services, tools, and apps, or otherwise providing us with any information, you consent to the transfer, processing, and storage of your information in the United States.
 
 Back to the top
 
@@ -39,9 +39,9 @@ Back to the top
 
 TI shares information, including Personal Data, with third parties to provide services on our behalf. Examples include processing and fulfilling orders, delivering packages, sending postal mail and email, analyzing data, personalizing content (including advertisements), providing marketing assistance for products that are of interest to you, and processing payments. 
 
-Under certain circumstances, TI may need to share information, including Personal Data, with a third party to respond to your request, for instance where necessary to provide you with the requested products or services in your country, or consistent with the purpose for which the information was obtained. 
+Under certain circumstances, TI may need to share information, including Personal Data, with a third party to respond to your request, for instance where necessary to provide you with the requested products or services in your country, or consistent with the purpose for which the information was obtained.
 
-TI will also share or release information, including Personal Data, if we have an individual's permission to make the disclosure, or when we believe release is appropriate to comply with the law, enforce or apply our Terms of Use and other policies or agreements, or protect the rights, property, or safety of TI, our users, or others (including for fraud protection and credit risk reduction). 
+TI will also share or release information, including Personal Data, if we have an individual’s permission to make the disclosure, or when we believe release is appropriate to comply with the law, enforce or apply our Terms of Use and other policies or agreements, or protect the rights, property, or safety of TI, our users, or others (including for fraud protection and credit risk reduction).
 
 Back to the top
 
@@ -55,39 +55,19 @@ Back to the top
 
 When you register for an online account with TI, enter or make purchases on our online store, subscribe to a newsletter, register to attend a seminar, or enter a contest, drawing, or other promotion, you may receive additional marketing communications from TI. If you receive these additional communications, you may unsubscribe from those additional communications at any time. Email messages will contain instructions on how to “unsubscribe” from receiving such communications. 
 
-  * If you wish to unsubscribe from receiving all Texas Instruments Semiconductor Division email, please send an email to [tiprime@dlep14.itg.ti.com](mailto:tiprime@dlep14.itg.ti.com) placing the word “remove” in the subject line. 
-  * If you wish to unsubscribe from receiving all Texas Instruments Education Technology email, please send an email to [calc-webmaster@ti.com](mailto:calc-webmaster@ti.com). 
-
-
-
-Even if you choose not to receive some marketing emails from us, you will still receive our transactional email, such as messages related to your orders, updates or notifications about products you have purchased from us, or information about your account. 
+Even if you choose not to receive some marketing emails from us, you will still receive our transactional email, such as messages related to your orders, updates or notifications about products you have purchased from us, or information about your account.
 
 Back to the top
 
-## 7\. Cookies and Interest-Based Advertising
+## 7\. Cookie Policy
 
-Cookies are small text files that websites place on your computer’s hard drive. If your browser is set to accept cookies, then your browser adds the text in a small file. We do not use cookies to read any other information on your computer’s hard drive. 
-
-We use cookie technology to remember you when you return to our websites, identify you when you sign-in, authenticate your access, keep track of your specified preferences or choices, tailor content to your preferences or geographic region, display personalized browsing history, deliver customized content (including advertisements) on our websites and third-party sites, track downloads and page views, monitor site usage, conduct research and diagnostics to improve TI’s content, products, and services, and to help us analyze web traffic in general. We may also use cookies in interactions where you request something from TI such as literature, CD ROMs, technical support, seminar registrations, and/or when you participate in a survey. 
-
-Cookies also enable TI to display interest-based advertising on TI websites and unaffiliated sites using information you make available to us when you interact with our sites, content, or services. Interest-based ads are displayed to you based on cookies linked to your online activities, such as viewing products on our sites. 
-
-Third parties, such as web analytics companies, advertisers, or companies working on their behalf, sometimes use cookie technologies to serve the ads that appear on TI or unaffiliated sites directly to your browser. These third parties employ cookies to measure and improve the effectiveness of advertisements for their clients, including us. To do so, these companies may use information about your visits to our site and other websites. This information can also be used for online preference marketing purposes, including providing relevant advertisements about goods and services of interest to you. TI does not have access to or control over cookies or other features that advertisers and third party sites may use, and the information practices of these advertisers and third party websites are not covered by this Privacy Policy. To disable these types of cookies, you can adjust your browser settings to disallow cookies. You will still see ads, but they will not be personalized. 
-
-The “Help” feature on most browsers will explain how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Because cookies allow you to take advantage of many of TI’s online features, consider leaving them turned on. For example, if you disable cookies, you will not be able to view personalized browsing history on an activity bar on TI’s websites. 
-
-While TI websites at this time do not recognize automated browser signals regarding tracking mechanisms, such as “do not track” instructions, you can generally express your privacy preferences regarding the use of most cookies and similar technologies though your web browser. 
+We use cookies and other tracking technologies online. Please read our [Cookie Policy](http://www.ti.com/corp/docs/legal/cookiepolicy.shtml), which is part of this Privacy Policy, and is incorporated herein by reference.
 
 Back to the top
 
 ## 8\. Your Right to Access, Correct, and Delete Your Personal Data
 
-You have the right to ask us which Personal Data we hold about you. In addition, you have the right to correct or delete Personal Data we hold about you. You can contact us at the email addresses listed below to request a change to your Personal Data or a copy of your stored Personal Data.
-
-  * Semiconductors: [sc-webmaster@ti.com](mailto:sc-webmaster@ti.com)
-  * Education Technology: [calc-webmaster@ti.com](mailto:calc-webmaster@ti.com)
-
-
+You may ask us which Personal Data we hold about you, and you may request to correct or delete this Personal Data. To do so please contact us through our [Feedback Form](http://www.ti.com/general/docs/feedbackform.jsp).
 
 Back to the top
 
@@ -103,28 +83,28 @@ Back to the top
 
 ## 10\. Social Computing Environment and Public Areas
 
-TI provides social computing tools on some of its websites to enable online sharing and collaboration among members who have registered to use them. These include forums (e.g., TI E2E Community, deyisupport community), TI wikis, blogs, and other social media platforms. When registering to use certain social computing tools on TI’s websites, you may be asked to provide certain Personal Data. Registration information on TI websites will be subject to this Privacy Policy, except for information (including Personal Data) that is automatically made available to the public (for example, as part of your profile), or that you make available, to other participants. These tools may also include supplemental terms of use and may include additional privacy notices. 
+TI provides social computing tools on some of its sites to enable online sharing and collaboration among members who have registered to use them. These include forums (e.g., TI E2E Community, deyisupport community), TI wikis, blogs, and other social media platforms. When registering to use certain social computing tools on TI’s sites, you may be asked to provide certain Personal Data. Registration information on TI sites will be subject to this Privacy Policy, except for information (including Personal Data) that is automatically made available to the public (for example, as part of your profile), or that you make available, to other participants. These tools may also include supplemental terms of use and may include additional privacy notices.
 
-Any other content or information (such as pictures, opinions, or Personal Data) you post or make available to other participants on third party social media platforms is not subject to this Privacy Policy. Rather, such content is subject to the terms of use and privacy practices of those platforms, and any additional guidelines and privacy information provided in relation to their use, as well as the process by which you can remove your content from such tools. You should be aware that the content you post on any social computing platforms or websites—which may include your name and location— becomes public and you should exercise caution in deciding to disclose it. 
+Any other content or information (such as pictures, opinions, or Personal Data) you post or make available to other participants on third party social media platforms is not subject to this Privacy Policy. Rather, such content is subject to the terms of use and privacy practices of those platforms, and any additional guidelines and privacy information provided in relation to their use, as well as the process by which you can remove your content from such tools. You should be aware that the content you post on any social computing platforms or sites—which may include your name and location— becomes public and you should exercise caution in deciding to disclose it.
 
 Back to the top
 
 ## 11\. Data Security
 
-TI cares about the security of your Personal Data, and we take reasonable steps intended to protect it from unauthorized access, alteration, disclosure or destruction. TI uses a variety of commercially available security technologies to protect your Personal Data. This includes secure servers, firewalls, and encryption of data. However, transmissions over the Internet are never entirely secure or error-free, and it is your responsibility to safeguard any password, user ID and other Personal Data you use to access our site. 
+TI cares about the security of your Personal Data, and we take certain steps intended to protect it. TI uses a variety of commercially available security technologies to protect your Personal Data. However, transmissions over the Internet are never entirely secure or error-free, and it is your responsibility to safeguard any password, user ID and other Personal Data while using our sites.
 
 Back to the top
 
 ## 12\. Children under the Age of 13
 
-The majority of TI websites are not directed at, and are not intended for, children under the age of 13. TI websites that are not directed at children under the age of 13 will not knowingly collect data from them. A few portions of TI’s Education Technology Group websites may include material directed at children under the age of 13 as part of a broader family audience target. When the collection of Personal Data is involved, those specific web pages will be clearly identified, and will require that a parent’s or guardian’s permission is secured when required by the U.S. Children’s Online Privacy Protection Act. Appropriate notices and instructions will be included on such sites. Parents wishing to access, review or delete their child’s Personal Data should contact us at [calc-webmaster@ti.com](mailto:calc-webmaster@ti.com). 
+The majority of TI sites are not directed at, and are not intended for, children under the age of 13. TI sites that are not directed at children under the age of 13 will not knowingly collect data from them. A few portions of TI’s Education Technology Group sites may include material directed at children under the age of 13 as part of a broader family audience target. When the collection of Personal Data is involved, those specific web pages will be clearly identified, and will require that a parent’s or guardian’s permission is secured when required by the U.S. Children’s Online Privacy Protection Act. Appropriate notices and instructions will be included on such sites. Parents wishing to access, review or delete their child’s Personal Data should contact us through our [Feedback Form](http://www.ti.com/general/docs/feedbackform.jsp). 
 
 Back to the top
 
 ## 13\. Changes to this Privacy Policy
 
-We reserve the right to change this Privacy Policy at any time. While we do not intend to make changes to this Privacy Policy very often, it is always a good idea to periodically review our most current Privacy Policy when you visit our site to stay informed regarding TI’s current data collection/use practices. For more information on using TI’s websites, see the [Terms of Use](http://www.ti.com/corp/docs/legal/termsofuse.shtml). 
+We reserve the right to change this Privacy Policy at any time. While we do not intend to make changes to this Privacy Policy very often, it is always a good idea to periodically review our most current Privacy Policy when you visit our site to stay informed regarding TI’s current data collection/use practices. The Effective Date of this Privacy Policy is set forth at the top of this webpage. Your continued use of TI sites after the Effective Date constitutes your acceptance of this Privacy Policy. This Privacy Policy supersedes all previous versions. For more information on using TI’s sites, see the [Terms of Use](http://www.ti.com/corp/docs/legal/termsofuse.shtml).
 
-Effective Date: September 18, 2014
+Effective Date: August 17, 2015
 
 Back to the top
