@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobstreet.com.ph privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625031747id_/http%3A//www.jobstreet.com.ph/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobstreet.com.ph privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211185317id_/http%3A//www.jobstreet.com.ph/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | JobStreet Philippines | JobStreet Philippines
+# Privacy Policy - JS AboutUs PH
 
 ###### Effective Date: **20-April-2016**
 
