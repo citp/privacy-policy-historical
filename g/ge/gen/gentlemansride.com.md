@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gentlemansride.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618231552id_/http%3A//www.gentlemansride.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gentlemansride.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211195007id_/http%3A//www.gentlemansride.com/privacy-policy) for the most accurate reproduction.*
 
 # The 2016 Distinguished Gentlemans Ride : Privacy Policy
 
@@ -46,4 +46,4 @@ CRA agrees that each individual has a right to access to and seek correction of 
 
 If an individual would like to access or correct their personal information, or if an individual has a concern or complaint in relation to the CRA’s handling of their personal information or they believe that CRA has breached the Australian Privacy Principles or any other applicable privacy laws or codes, they should contact CRA via email at [info@gentlemansride.com](mailto:info@gentlemansride.com). CRA will investigate their concerns and will respond to them in writing (usually within 14 working days).
 
-This policy was last updated: 16th June, 2015
+This policy was last updated: 31st July, 2016
