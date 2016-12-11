@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the placesyoullsee.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606200903id_/http%3A//www.placesyoullsee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placesyoullsee.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211042022id_/http%3A//www.placesyoullsee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
