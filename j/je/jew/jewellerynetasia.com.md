@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewellerynetasia.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503211903id_/http%3A//www.jewellerynetasia.com/en-us/info/privacy-policy-of-jewellerynetasia) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewellerynetasia.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211195543id_/http%3A//www.jewellerynetasia.com/en-us/info/privacy-policy-of-jewellerynetasia) for the most accurate reproduction.*
 
 # Privacy Policy | JewelleryNetAsia Online Directory for the Industry
 
