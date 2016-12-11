@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratatype.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624130701id_/http%3A//www.ratatype.com/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratatype.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211165439id_/http%3A//www.ratatype.com/privacy-terms) for the most accurate reproduction.*
 
 # Privacy & Terms — Ratatype
 
@@ -28,7 +28,7 @@ Any of the information we collect from you may be used in one of the following w
 
 We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
@@ -95,12 +95,12 @@ Ratatype shall have the right to immediately terminate or suspend, in its discre
 
 ## Limitation of Liability
 
-In no event shall Ratatype or its affiliates be liable for any indirect, incidental, special, punitive damages or consequential damages of any kind, or any damages whatsoever arising out of or related to your use of the Site, the content and other information obtained therein.   
+In no event shall Ratatype or its affiliates be liable for any indirect, incidental, special, punitive damages or consequential damages of any kind, or any damages whatsoever arising out of or related to your use of the Site, the content and other information obtained therein.  
 Certain jurisdictions prohibit the exclusion or limitation of liability for consequential or incidental damages, thus the above limitations may not apply to you.
 
 ## Governing Law
 
-Any disputes arising out of or related to these Terms of Use and/or any use by you of the Site shall be governed by the laws of the , without regard to the conflicts of laws provisions therein.
+Any disputes arising out of or related to these Terms of Use and/or any use by you of the Site shall be governed by the laws, without regard to the conflicts of laws provisions therein.
 
 ## Date of Last Update
 
