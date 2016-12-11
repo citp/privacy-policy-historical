@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the castleworldwide.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621074136id_/http%3A//www.castleworldwide.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castleworldwide.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211224530id_/http%3A//www.castleworldwide.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Castle WorldwideCastle Worldwide
 
@@ -41,7 +41,7 @@ Castle takes reasonable precautions to ensure the safety and security of informa
 
 ### Accuracy of Information
 
-If you suspect that Castle has recorded inaccurate information about you or if you would like to review the information that we have collected about you, please contact us at i[nfo@castleworldwide.com](mailto:info@castleworldwide.com).
+If you suspect that Castle has recorded inaccurate information about you or if you would like to review the information that we have collected about you, please contact us at [info@castleworldwide.com](mailto:info@castleworldwide.com).
 
 ### Children’s Guidelines
 
@@ -71,5 +71,5 @@ If you have any questions, concerns, or suggestions regarding this Policy, pleas
 [info@castleworldwide.com](mailto:info@castleworldwide.com)  
 or  
 Castle Worldwide, Inc.  
-900 Perimeter Park Drive, Suite G  
+6001 Hospitality Court, Suite 100  
 Morrisville, NC 27560
