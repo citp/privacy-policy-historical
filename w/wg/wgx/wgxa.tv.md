@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wgxa.tv privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325131744id_/http%3A//wgxa.tv/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgxa.tv privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211145309id_/http%3A//wgxa.tv/station/privacy) for the most accurate reproduction.*
 
 # Macon Privacy | News, Weather, Sports, Breaking News | WGXA
 
