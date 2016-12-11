@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the providr.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625042413id_/http%3A//providr.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the providr.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211112549id_/http%3A//www.providr.com/privacy.html) for the most accurate reproduction.*
 
 # providr.com | Privacy Policy
 
