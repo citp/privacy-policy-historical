@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conductexam.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509040223id_/http%3A//www.conductexam.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conductexam.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212001917id_/http%3A//www.conductexam.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy Conduct Exam
 
@@ -14,7 +14,7 @@ Below is our privacy policy which adhere to those principles.
 
 If you have questions about deleting or correcting your personal data please initiate a chat with us, or [send us an email](mailto:info@conductexam.com) at any time.
 
-Conduct exam operates a web application and corresponding mobile apps (on [**www.conductexam.com**](http://www.conductexam.com/)). It is conduct exam’s policy to respect your privacy regarding any information we may collect while operating our services.
+Conduct exam operates a web application and corresponding mobile apps (on [**www.conductexam.com**](http://www.conductexam.com/home)). It is conduct exam’s policy to respect your privacy regarding any information we may collect while operating our services.
 
 ### Website Visitors
 
