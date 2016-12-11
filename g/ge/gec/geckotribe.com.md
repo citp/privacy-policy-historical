@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geckotribe.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513165615id_/http%3A//www.geckotribe.com/info/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geckotribe.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211093603id_/http%3A//www.geckotribe.com/info/policy.php) for the most accurate reproduction.*
 
 # Gecko Tribe, LLC Privacy & Content Policies
 
