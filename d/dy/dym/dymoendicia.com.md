@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dymoendicia.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607231134id_/http%3A//www.endicia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dymoendicia.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211163345id_/http%3A//www.endicia.com/policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Endicia
 
@@ -129,8 +129,6 @@ Endicia does not rent, sell, or trade your personal information with anyone for 
     * Bizo: <http://www.bizo.com/privacy_policy>
     * Google Analytics Data Privacy & Security: <http://www.google.com/analytics/learn/privacy.html>
     * Google Analytics Opt-out: <https://tools.google.com/dlpage/gaoptout>
-    * Quantcast: <http://www.quantcast.com/privacy>
-    * Trade Desk: <http://www.thetradedesk.com/privacy-policy>
   8. Endicia also contracts with a company called Demandbase Data Management Platform. The Demandbase Data Management Platform (“DMP”) is the proprietary data platform linking over 3 Billion IP Addresses to 6.6 Million Companies worldwide. The DMP provides Audience Segments as well as B2B Company Profiles and Premium Information on an IP by IP basis to power the Demandbase Company-Targeted Advertising. This solution does not utilize cookies and so Demandbase does not collect, store, or share any contact or other data about individuals or data subjects. As a result, the DMP contains no Personally Identifiable Information. For more information visit their privacy policy: <http://www.demandbase.com/who-is-demandbase/about-demandbase/privacy>. 
 
 
