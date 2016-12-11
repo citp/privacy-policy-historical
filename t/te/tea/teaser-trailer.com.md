@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the teaser-trailer.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609084217id_/http%3A//teaser-trailer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teaser-trailer.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211152926id_/https%3A//teaser-trailer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy for Teaser Trailer  
-http://teaser-trailer.com/
+https://teaser-trailer.com/
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by sending an email to teasertrailermovie [(@)] gmail.com.
 
-For our site (http://teaser-trailer.com/, Teaser Trailer), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by our site and how it is used.
+For our site (https://teaser-trailer.com/, Teaser Trailer), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by our site and how it is used.
 
 Log Files  
 Like many other Web sites, our site makes use of log files through external partners. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
