@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mvfglobal.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322031509id_/http%3A//www.mvfglobal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mvfglobal.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211175814id_/http%3A//www.mvfglobal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MVF Global
+# Privacy Policy | MVF
 
 ## MVF - Privacy Policy Statement
 
