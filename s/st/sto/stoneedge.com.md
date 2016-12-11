@@ -1,71 +1,63 @@
-> *The following text is extracted and transformed from the stoneedge.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529214013id_/http%3A//www.monsooncommerce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stoneedge.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211043337id_/http%3A//stoneedge.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Monsoon Commerce
+# Privacy Policy - Stone Edge
 
-Last updated: October 21, 2011
+**Stone Edge Technologies, Inc.**
 
-Welcome to Monsoon Commerce, Inc. (“Monsoon Commerce”). Because we are committed to protecting your privacy in all aspects of our business, we hope you will take the time to read this policy, which explains what information we collect from you and how we use and disclose that information. This Privacy Policy (“ **Policy** ”) is incorporated into and is subject to the Monsoon Commerce [Terms of Use](https://web.archive.org/terms-of-use "Terms of Use") (“ **Terms** ”), and capitalized terms used but not defined in this Privacy Policy are defined in the Terms.
+**Privacy Policy**
 
-Monsoon Commerce operates a website at [www.monsooncommerce.com](https://web.archive.org/) (the “ **Site** ”). This Policy does not apply to the practices of companies that Monsoon Commerce does not own or control or to people that Monsoon Commerce does not employ or manage. The collection and use of your information by third parties (such as on third party websites and services that are linked to, referenced, advertised, or otherwise made available to you through the Site) are governed by those parties’ own policies. Before using such third party services or transacting with other users, you should familiarize yourself with their policies and practices with respect to the collection, use, and disclosure of personal information.
+This privacy policy discloses the privacy practices for _www.stoneedge.com_. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
-## Collection of information
-
-Monsoon Commerce collects limited personal information from you, the user of the [www.monsooncommerce.com](https://web.archive.org/) website.
-
-  * “Automatically Collected” Information: Like most websites, when you visit the Site, Monsoon Commerce automatically collects a variety of information about your computer and your use of the Site in log files, such as your IP address, address or device id, operating system, and browser type, as well as information regarding pages you visit, websites you visit before or after using the Site, and search queries you may have used to find the Site. If automatically collected information is used or intended to be used to identify you, or if we associate or combine this information with your other personally identifiable information, we will treat the associated or combined information as personally identifiable information under this Policy.
-  * “Cookies” Information: The Site also uses “cookies,” which are small pieces of information that are stored by your browser on your computer’s hard drive so that the Site may access that information on your return visits. We generally do not store or retrieve any personally identifiable information in cookies. If you’ve set your browser to reject cookies, you can still use our site.
+  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
+  2. What choices are available to you regarding the use of your data.
+  3. The security procedures in place to protect the misuse of your information.
+  4. How you can correct any inaccuracies in the information.
 
 
 
-## How Monsoon Commerce uses your information
+**Information Collection, Use, and Sharing**
 
-Monsoon Commerce uses information you provide or that we collect for a variety of purposes.
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order. Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
-  * Communication: We use your information to communicate with you regarding the Site, such as for administrative purposes, customer Site purposes, to address intellectual property infringement, or rights of privacy, and as otherwise may be necessary to provide, operate, maintain, and enhance, the Site. 
-  * Providing and Improving the Site; Personalization: We may also use information we collect from you (including automatically collected information and cookies information) (i) to provide, customize, and personalize features of the Site, (ii) to analyze and understand the usage trends and preferences of users of the Site, and the effectiveness of our marketing and communication efforts, so that we can continually improve our offerings, (iii) to perform internal reporting, analysis, maintenance, enhancements, troubleshooting, and other related development work, and (iv) to provide customized third party advertisements, content, and information. 
+**Your Access to and Control Over Information**
 
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
 
-
-## How Monsoon Commerce shares and discloses your information
-
-Monsoon Commerce is not in the business of selling your information, and we take your privacy very seriously. In the course of providing the Site to you and other users, we do make limited disclosures of your information to others for a variety of purposes.
-
-  * Technical Site Providers: Monsoon Commerce works with third party service providers to provide website development, maintenance, and hosting, promotional email distribution, backup storage, as well as other services for us. In the course of performing services for Monsoon Commerce, these providers may have access to or process your personally identifiable information. Generally, these disclosures are made under terms comparable to this Policy, and the recipients are limited to using the information the purpose for which it was provided.
-  * Aggregate Information: Monsoon Commerce may also provide aggregate, non-personally identifiable information and statistics about our users, customers, demographics, sales, traffic patterns, and other information related to the Site to third parties.
+  * See what data we have about you, if any.
+  * Change/correct any data we have about you.
+  * Have us delete any data we have about you.
+  * Express any concern you have about our use of your data.
 
 
 
-Except as specified above, Monsoon Commerce does not share your personal information with third parties unless you have consented to the disclosure or Monsoon Commerce believes the disclosure is necessary to (1) comply with the law or with legal process, or to cooperate with law enforcement activities, (2) protect and defend our rights and property, (3) protect our customers or users from misuse or unauthorized use of the Monsoon Commerce Site, or (4) protect the personal safety or property of our customers or the public.
+**Security**
 
-## How we protect your information
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the web page. While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
-This Site has security measures in place to help reduce the risk of loss, misuse, and alteration of the information under our control. When you place orders or access your account information, we use a secure sockets layer (SSL) protocol, which encrypts all information during transmission. All of the customer data we collect is similarly protected against unauthorized access. We also employ other physical, managerial, and technical safeguards to preserve the integrity and security of personally identifiable information in our control. Nevertheless, in spite of our efforts to prevent third parties from intercepting or accessing your information (whether stored on our servers or during transmission), we do not promise, and you should not expect, that your personal information or communications will always remain private.
+**Updates**
 
-## Our commitment to children’s privacy online
+Our Privacy Policy may change from time to time and all updates will be posted.
 
-Monsoon Commerce is committed to protecting the safety and privacy of young people using the Internet. We do not knowingly collect personally identifiable information from children under the age of 13.
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 844-667-3279 or _sales@stoneedge.com_.**
 
-## Modifications to this policy
+**Registration**
 
-As specified in the Terms, Monsoon Commerce may from time to time revise this Policy. If we do, we will post those changes on this page and indicate the new Policy’s effective date so that you are always aware of any changes.
+In order to use this website, user may be asked to complete a registration form. During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest. At your option, you may also provide demographic information about yourself, but it is not required.
 
-## International customers
+**Orders**
 
-If you use the Site from countries outside the United States, please note that your personally identifiable information may be transferred to the United States as our Site is hosted on servers located in those countries. By using the Site, you consent to having your personally identifiable information transmitted to and processed in the United States.
+We request information from you on our order form. To buy from us, you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, we’ll use this information to contact you.
 
-## In the event of merger or sale
+**Cookies**
 
-In the event that all or a portion of Monsoon Commerce or its assets are acquired by or merged with a third party entity, Monsoon Commerce reserves the right, in any of these circumstances, to transfer or assign the information that we have collected from users in connection with such merger, acquisition, sale, or other change of control. In such a case, your information will still be subject to the terms of the Policy in place at the time of transfer.
+We may use “cookies” on this site. A cookie is a piece of data stored on a site visitor’s hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
 
-## Links
+Some of our business partners may use cookies; however, we have no access to or control over these cookies.
 
-This site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements and policies of these linked sites, as their privacy policies may differ from ours. In no event shall MCS be liable or responsible for the use and collection of data by these linked sites. Monsoon Commerce also operates websites at other locations on the internet as well as other services provided by its subsidiaries, Alibris, Inc. (“Alibris”) and Monsoon, Inc (“Monsoon”). Alibris and Monsoon maintain separate privacy policies addressing matters specific to their own services which can be found at <http://www.alibris.com/policies/privacy> and <http://www.monsoonworks.com/privacy>, respectively.
+**Sharing**
 
-## How to contact us
+We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. We use an outside credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes beyond filling your order. We may partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
 
-We welcome your questions and comments about privacy. Please send email to [info@monsooncommerce.com](mailto:info@monsooncommerce.com) or call 1-510-594-4500. You can also contact us at the address below:
+**Links**
 
-**Monsoon Commerce**  
-1250 45th Street  
-Suite 100  
-Emeryville, CA 94608
+This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
