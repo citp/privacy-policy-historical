@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitmyrtlebeach.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210123916id_/http%3A//www.visitmyrtlebeach.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitmyrtlebeach.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211045926id_/http%3A//www.visitmyrtlebeach.com/privacy-policy) for the most accurate reproduction.*
 
 # Myrtle Beach SC: Myrtle Beach Hotels, Resorts, Attractions
 
