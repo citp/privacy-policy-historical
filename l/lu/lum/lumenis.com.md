@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the lumenis.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617214135id_/http%3A//www.lumenis.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumenis.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211204021id_/http%3A//www.lumenis.com/Privacy) for the most accurate reproduction.*
 
-# Medical Laser Equipment, Laser Systems and Solutions Manufacturer | Lumenis Laser Devices
+# Lumenis - Energy to Healthcare > Privacy
 
-**PRIVACY STATEMENT  
-**  
+  
 This website (the “ **Website** ”) is operated by Lumenis Ltd. (Lumenis Ltd. together with its affiliates and subsidiaries shall be referred to as “ **Lumenis** ”). Lumenis respects the privacy of visitors to this Website and understands that information about you, your health, and your health care is sensitive. Lumenis developed this Privacy Statement to provide information about our practices regarding the collection, use, and disclosure of information that you may provide when you visit this Website. This Privacy Statement applies to information collected on this Website and does not govern the privacy of any information gathered off-line.
 
 We encourage you to read this Privacy Statement before submitting information. By using this Website, you acknowledge that you understand and agree to the terms of this Privacy Statement.
@@ -37,7 +36,7 @@ Lumenis makes all reasonable efforts to secure your personal information from un
      **6.     REGULATORY REQUIREMENTS AND LAW ENFORCEMENT**  
 Lumenis may be required, by court order or as otherwise required by law, to divulge personally identifiable information to law enforcement authorities, the courts, or regulatory authorities. Lumenis will cooperate in responding to such requests, in accordance with the regulatory or legal process, and will take appropriate measures to ensure that the requester understands the sensitive nature of any health-related personally identifiable information they receive.
 
-If you contact us regarding your experience with using any of our products, we may use the information you provide in submitting reports to the U.S. FDA, and as otherwise required of us by law or governmental audit. We may also use the information to contact your healthcare professional to follow up regarding an unexpected event involving the use of any one of our products. You understand that in order to comply with the law, Lumenis may not be permitted to comply with your request to amend or remove personally identifiable information that was provided to Lumenis by a healthcare professional or a consumer regarding an adverse event or reaction involving medicine, medical products or medical devices. 
+If you contact us regarding your experience with using any of our products, we may use the information you provide in submitting reports to the U.S. FDA, and as otherwise required of us by law or governmental audit. We may also use the information to contact your healthcare professional to follow up regarding an unexpected event involving the use of any one of our products. You understand that in order to comply with the law, Lumenis may not be permitted to comply with your request to amend or remove personally identifiable information that was provided to Lumenis by a healthcare professional or a consumer regarding an adverse event or reaction involving medicine, medical products or medical devices.
 
      **7.     ONLINE PRIVACY FOR CHILDREN**  
 Lumenis is committed to protecting the privacy of children. We do not intend to collect personally identifiable information from children under 18 years old, however Lumenis is dependent on the Website’ users to identify themselves as children under 18 years old and therefore Lumenis will assume no liability thereon if the user’s age was not stated properly or at all. If a child has provided us with personally identifiable information, the parent or guardian of that child may contact us [receptionil@lumenis.com](mailto:).
