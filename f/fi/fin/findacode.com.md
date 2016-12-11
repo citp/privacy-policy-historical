@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findacode.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606193629id_/http%3A//www.findacode.com/aboutus/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findacode.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211102948id_/http%3A//www.findacode.com/aboutus/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,7 +37,7 @@ By using our Web site, you consent to the collection and use of this information
 FindACode.com also provides links to external sites. The privacy policies of these linked sites are the responsibility of the linked site and FindACode.com has no control or influence over their policies other than the voluntary adherence to our suggested privacy policies. Please check the policies of each site you visit for specific information. FindACode.com cannot be held liable for damage or misdoings of other sites or third-party advertisements, linked or otherwise.
 
 As of: April 17, 2015  
-Displayed: June 6, 2016
+Displayed: December 11, 2016
 
 #### Questions and Feedback
 
