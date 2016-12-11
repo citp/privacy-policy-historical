@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mingle2.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416190624id_/http%3A//mingle2.com/welcome/showPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mingle2.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211155718id_/http%3A//mingle2.com/welcome/showPrivacy) for the most accurate reproduction.*
 
-# Mingle2 Free Dating
+# Mingle2 Free Dating for the World
 
 ## Including all Related Websites or Applications Owned by or Registered to NextC, LLC.
 
