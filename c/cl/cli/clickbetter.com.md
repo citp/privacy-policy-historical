@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickbetter.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515024416id_/https%3A//clickbetter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickbetter.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211165507id_/https%3A//clickbetter.com/privacy.php) for the most accurate reproduction.*
 
 # ClickBetter
 
@@ -12,13 +12,13 @@ We collect information from you when you register on our site, place an order or
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, email address, mailing address, phone number and/or credit card information.
 
 **2\. Consent for Collection, Use and Disclosure**  
-Your use of the ClickBetter.com site and/or your registration for ClickBetter.com products and services constitute your consent to the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the ClickBetter.com site.
+Your use of the ClickBetter.com site and/or your registration for ClickBetter.com services constitute your consent to the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the ClickBetter.com site.
 
 ClickBetter.com may occasionally update this Privacy Policy with our withour notice. In addition,ClickBetter.com will seek a customer’s prior consent, by email, for any new uses or proposed disclosures of information collected from the customer prior to the change. 
 
 ClickBetter.com will notify customers by email of changes to this policy that will affect information collected from them in the future. In certain circumstances, however, ClickBetter.com will not inform and obtain the consent of the customer, such as in connection with an investigation of a breach of an agreement, contravention of laws, an emergency where the life, health or security of an individual is threatened, the collection of a debt or in compliance with the request of a law enforcement agency or a court order. 
 
-A customer may withdraw his or her consent for collection, use and disclosure at any time by contacting us at support@ClickBetter.com. Please note that if you do, ClickBetter.com may suspend its provision of products and services to you.   
+A customer may withdraw his or her consent for collection, use and disclosure at any time by contacting us at support@ClickBetter.com. Please note that if you do, ClickBetter.com may suspend its provision of service to you.   
 This policy was last modified on October 1st 2012
 
 **3\. Accountability**  
@@ -30,11 +30,11 @@ ClickBetter.com has implemented this Privacy Policy to protect personal informat
 **ClickBetter.com collects and uses personal information for the following purposes:**
 
   * to understand customer needs regarding ClickBetter.com services; 
-  * to develop and provide our web site and our products and services for our customers; 
+  * to develop and provide our web site and services for our customers; 
   * to fulfill your requests for products, services or information; 
-  * to communicate with customers and site visitors, when necessary, and to inform customers of upgrades, as well as of other products and services available from ClickBetter.com, its affiliates and third parties; 
+  * to communicate with customers and site visitors, when necessary, and to inform customers of upgrades, as well as of other products and/or services available from ClickBetter.com, its affiliates and third parties; 
   * to allow customers to access limited-entry areas of ClickBetter.com site; 
-  * to personalize some of our services and products for you and to deliver targeted advertisements and offers from ClickBetter.com and third parties; 
+  * to personalize some of our services for you and to deliver targeted advertisements and offers from ClickBetter.com and third parties; 
   * to bill accounts and maintain payment records; 
   * to comply with any applicable law, regulation, legal process or government request; 
   * to respond to a legitimate claim, or to address our reasonable belief, that you are violating the rights of any third party or any of the agreements or policies that govern your use of the ClickBetter.com site or any ClickBetter.com product or service; 
@@ -98,7 +98,7 @@ If ClickBetter.com is not able to provide access to some aspect of a customer’
 Customers have the right to request that inaccurate or incomplete information be amended as appropriate, by contacting ClickBetter.com or as described above. ClickBetter.com will promptly correct such personal information. 
 
 **10\. Third party links**  
-We include third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+We promote third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
 
 **11\. California Online Privacy Protection Act Compliance**  
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
