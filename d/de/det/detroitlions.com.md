@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the detroitlions.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611125011id_/http%3A//www.detroitlions.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the detroitlions.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211141822id_/http%3A//www.detroitlions.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Detroit Lions | Privacy Policy
 
@@ -13,7 +13,8 @@ This privacy policy applies to the Detroit Lions Inc. website located at [www.de
 
 The Website may be operated by a third party on behalf of The Detroit Lions, Inc. (collectively, the "The Detroit Lions, Inc.", "we", "our", or "us").
 
-The Detroit Lions, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, [www.detroitlions.com](http://www.detroitlions.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacypolicy@lions.nfl.net](mailto:privacypolicy@lions.nfl.net). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at  
+<https://feedback-form.truste.com/watchdog/request>.
 
 When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.
 
