@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kpoplyrics.net privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630032557id_/http%3A//www.kpoplyrics.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kpoplyrics.net privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211030353id_/http%3A//www.kpoplyrics.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | KPop Lyrics
 
