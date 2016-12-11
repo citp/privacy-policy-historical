@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the socialadr.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223031537id_/http%3A//socialadr.com/pg/expages/read/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialadr.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211154931id_/http%3A//socialadr.com/privacy) for the most accurate reproduction.*
 
-# SocialAdr
+# Privacy Policy | SocialAdr - Social Media Marketing Services
 
-## SocialAdr Privacy Policy
-
-We know that you care about how your personal information is used and shared, and we take your privacy very seriously. We've even took the liberty of using an independent certification service to test the security and privacy of our site. 
-
-[](http://www.safetested.com/reports/s/socialadr.com)               [](http://www.safetested.com/reports/s/socialadr.com)
-
-Please read the following to learn more about our privacy policy. By visiting the SocialAdr website, you are accepting the practices outlined in this privacy policy. 
+We know that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting the SocialAdr website, you are accepting the practices outlined in this privacy policy. 
 
 This privacy policy covers SocialAdr's treatment of personal information that SocialAdr gathers when you are on the SocialAdr website. This policy does not apply to the practices of third parties that SocialAdr does not own or control, or to individuals that SocialAdr does not employ or manage. 
 
@@ -96,4 +90,4 @@ If you decide to visit SocialAdr website, your visit and any possible dispute ov
 
 ### Effective Date of this Privacy Policy
 
-This Privacy Policy is effective as of July 1, 2009
+This Privacy Policy is effective as of July 1, 2009 
