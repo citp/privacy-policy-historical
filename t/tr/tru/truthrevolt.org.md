@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truthrevolt.org privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604044837id_/http%3A//www.truthrevolt.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthrevolt.org privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212001901id_/http%3A//www.truthrevolt.org/privacy) for the most accurate reproduction.*
 
 # Pricavy Policy | Truth Revolt
 
