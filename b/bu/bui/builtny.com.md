@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the builtny.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620095107id_/http%3A//www.builtny.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builtny.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211185501id_/http%3A//www.builtny.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Built NY Insulated Neoprene Wine & Lunch Totes
 
-### **our customers matter**
+### our customers matter
 
 We are committed to protecting your privacy and security. We cherish the relationship we have with you, and will do nothing to violate your trust in us. Because of this commitment, we never sell, rent or trade email addresses with any other company. And we utilize state-of-the-art security software to protect your financial information.
 
