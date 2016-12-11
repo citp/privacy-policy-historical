@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmo.com.au privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618204507id_/http%3A//www.cmo.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmo.com.au privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211190401id_/http%3A//www.cmo.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CMO Australia
 
@@ -135,43 +135,3 @@ We are committed to maintaining IDG Australia as the foremost IT industry publis
 For more information about privacy issues in Australia and protecting your privacy, visit [http://www.privacy.gov.au](http://www.privacy.gov.au/).
 
 **LAST UPDATED** : March 3, 2014
-
-[](http://www.cmo.com.au/cmo50/) [](http://www.cmocouncil.org/) [](http://www.adma.com.au/)
-
-  1. [Mobile payments: The new future of commerce](https://web.archive.org/article/601875/mobile-payments-new-future-commerce/)
-  2. [CMO's top 10 martech stories for the week - 16 June](https://web.archive.org/article/601868/cmo-top-10-martech-stories-week-16-june/)
-  3. [Capgemini launches new digital and UX consultancy in Australia](https://web.archive.org/article/601874/capgemini-launches-new-digital-ux-consultancy-australia/)
-  4. [​Foodora’s appetite for customer engagement](https://web.archive.org/article/601775/foodora-appetite-customer-engagement/)
-  5. [Adelaide City: Using location data analytics to improve destination marketing](https://web.archive.org/article/601120/adelaide-city-using-location-data-analytics-improve-destination-marketing/)
-
-[Tweets by @CMOAustralia](https://twitter.com/CMOAustralia) [](https://web.archive.org/whitepaper/373141/harvard-business-review-whitepaper-designing-a-marketing-organisation-for-the-digital-age/?type=section&arg=2117012599&location=featured_rhs_highlighted)
-
-### [Harvard Business Review Whitepaper: Designing a Marketing Organisation for ...](https://web.archive.org/whitepaper/373141/harvard-business-review-whitepaper-designing-a-marketing-organisation-for-the-digital-age/?type=section&arg=2117012599&location=featured_rhs_highlighted)
-
-What's the optimal structure for your marketing team? With the rapid pace of technology innovation, ...
-
-[](https://web.archive.org/whitepaper/373084/marketing-resource-management-enables-increased-agility-efficiency-and-productivity/?type=section&arg=2117012599&location=featured_rhs_highlighted)
-
-### [Marketing Resource Management: Enables Increased Agility, Efficiency and Productivity](https://web.archive.org/whitepaper/373084/marketing-resource-management-enables-increased-agility-efficiency-and-productivity/?type=section&arg=2117012599&location=featured_rhs_highlighted)
-
-Modern marketers are held accountable for resource management, justifying spend, and showing measurable ROMI. Teradata ...
-
-[](https://web.archive.org/whitepaper/373087/7-mobile-trends-for-2016/?type=section&arg=2117012599&location=featured_rhs_highlighted)
-
-### [7 Mobile Trends for 2016](https://web.archive.org/whitepaper/373087/7-mobile-trends-for-2016/?type=section&arg=2117012599&location=featured_rhs_highlighted)
-
-For years, mobile has been heralded as the most important area of focus for marketers. ...
-
-[More whitepapers](https://web.archive.org/section/featured_whitepapers/)
-
-### [10 ways of changing your culture through self-awareness](https://web.archive.org/blog/business-leadership/2016/06/14/10-ways-of-changing-your-culture-through-self-awareness/)
-
-Did you hear about the manager who always shot the messenger whenever they brought bad news? He eventually stopped hearing bad news. Unfortunately for him, this wasn’t because there was none to report.
-
-### [How to create a compelling customer experience vision](https://web.archive.org/blog/customer-insights/2016/06/07/how-to-create-a-compelling-customer-experience-vision/)
-
-Organisations are seeking new ways to engage customers, drive new sales and increase customer satisfaction by providing engaging customer experiences. A customer experience initiative that lacks a strong, clear vision often fails to achieve its intended result. 
-
-### [Marketers are driving our innovation ecosystem](https://web.archive.org/blog/marketing-professional/2016/05/25/marketers-are-driving-our-innovation-ecosystem/)
-
-The Government's newly released National Innovation and Science Agenda shows that for economic growth to continue within Australia, an 'innovation ecosystem' must be fostered, where new businesses with new ideas are encouraged to grow and flourish. With every company wanting to increase, retain or improve their customers’ experiences, this makes marketing vital to fuelling Australia's ideas boom. 
