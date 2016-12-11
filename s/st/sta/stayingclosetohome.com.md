@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stayingclosetohome.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601042104id_/http%3A//stayingclosetohome.com/close-home-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stayingclosetohome.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211120504id_/http%3A//stayingclosetohome.com/close-home-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Close To Home
 
@@ -69,5 +69,3 @@ opt-out of this type of advertising, you can visit [http://www.aboutads.info/cho
 This document was last updated on July 29, 2015
 
 Privacy policy created by http://www.generateprivacypolicy.com
-
-[](https://www.pinterest.com/pin/create/button/)
