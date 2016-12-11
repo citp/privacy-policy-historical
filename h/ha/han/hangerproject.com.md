@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hangerproject.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318142317id_/https%3A//www.hangerproject.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hangerproject.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211044714id_/https%3A//www.hangerproject.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
