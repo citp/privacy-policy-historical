@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bathstore.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319012958id_/http%3A//www.bathstore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bathstore.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211121130id_/http%3A//www.bathstore.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Legal | Bathstore
 
@@ -38,9 +38,6 @@ We require this information to understand your needs and provide you with a bett
 We also allow selected third parties who participate with us in marketing programmes to place cookies when you visit our site. These cookies enable us to monitor which adverts you see and click on to get to our site. We currently use two companies for this and you can see their privacy policies at the following addresses:
 
 Adwords: [http://www.google.com/policies/privacy/ads/](http://www.google.com/policies/privacy/ads/)
-
-AdRoll: <https://www.adroll.com/en-GB/about/privacy>[  
-](https://www.adroll.com/en-GB/about/privacy)
 
 #### SECURITY:
 
