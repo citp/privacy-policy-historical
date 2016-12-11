@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the naturalbreakthroughsresearch.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626080505id_/http%3A//naturalbreakthroughsresearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalbreakthroughsresearch.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211052614id_/http%3A//naturalbreakthroughsresearch.com/privacy) for the most accurate reproduction.*
 
-# Our Privacy Policy : Natural Breakthroughs Research
+# Natural Breakthroughs Research
 
-_January 30, 2020_
+_December 11th, 2016_
 
 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting this site, you are accepting the practices described in this privacy policy notice.
 
