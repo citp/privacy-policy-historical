@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examone.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531205948id_/http%3A//questdiagnostics.com/home/privacy-policy/online-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examone.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211080312id_/http%3A//questdiagnostics.com/home/privacy-policy/online-privacy.html) for the most accurate reproduction.*
 
 # Online Privacy Policy : Online Privacy Policy
 
