@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the otakumode.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604121355id_/http%3A//otakumode.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otakumode.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211081037id_/http%3A//otakumode.com/privacy) for the most accurate reproduction.*
 
 # Tokyo Otaku Mode | Privacy Policy
 
-This Privacy Policy is incorporated by reference into the Tokyo Otaku Mode Inc.[Terms of Use](https://web.archive.org/tos). The term “ **Company** ” “ **TOM** ,” “ **we** ,” and “ **us** ” includes Tokyo Otaku Mode Inc. and our affiliates and subsidiaries. The Privacy Policy explains how TOM may:
+This Privacy Policy is incorporated by reference into the Tokyo Otaku Mode Inc.[Terms of Use](https://web.archive.org/tos). The term “ **Company** ” “ **TOM** ,” “ **we** ,” and “ **us** ” includes Tokyo Otaku Mode Inc., our affiliates, subsidiaries, partners, licensors and suppliers. The Privacy Policy explains how TOM may:
 
   * collect,
   * use, and
@@ -114,7 +114,7 @@ We do not knowingly collect, maintain, or use Personal Information from children
 
 By using the Service, you will transfer data to the United States.
 
-By choosing to visit the Service or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the laws of the state of California and the adjudication of any disputes arising in connection with Company or the Service will be in accordance with the[Terms of Use](https://web.archive.org/tos).
+By choosing to visit the Service or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the laws of the state of California and the adjudication of any disputes arising in connection with Company or the Service will be in accordance with the [Terms of Use](https://web.archive.org/tos).
 
 If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and processing globally. By providing your information you consent to any transfer and processing in accordance with this Policy.
 
@@ -133,10 +133,10 @@ We may revise this Privacy Policy, so review it periodically.
 ## Contact Information
 
 Tokyo Otaku Mode Inc.  
-2730 Monterey Street. Suite #103  
-Torrance, CA 90503  
+3219 NW Guam St  
+Portland, OR 97210  
 USA
 
 [Contact form](https://otakumode.com/inquire).
 
-Last updated on December 27, 2013
+ _Last updated on December 27, 2013_
