@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpo.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530205900id_/http%3A//www.xpo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpo.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211144933id_/http%3A//www.xpo.com/privacy-policy) for the most accurate reproduction.*
 
 # | XPO Logistics
 
@@ -72,9 +72,12 @@ This Privacy Policy describes XPO Logistics’ current data protection policies 
 
 Please address any questions or comments about or arising from this Privacy Policy to:
 
-**XPO Logistics, Inc.**  
-Attn: General Counsel  
-Five Greenwich Office Park  
+**XPO Logistics, Inc.**
+
+Attn: General Counsel
+
+Five Greenwich Office Park
+
 Greenwich, CT 06831
 
 **Acknowledgement**
@@ -82,3 +85,5 @@ Greenwich, CT 06831
 BY ACCESSING OR USING THE SYSTEM, OR ANY PORTION THEREOF, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND CONSENT TO THE PRIVACY POLICY, AND TO THE USES AND DISCLOSURES OF COLLECTED INFORMATION ABOUT YOU, THAT ARE DESCRIBED IN THIS PRIVACY POLICY AND YOU AGREE TO BE BOUND BY THE TERMS OF USE REFERENCED ABOVE.
 
 This Privacy Policy was last modified on October 30, 2015.
+
+Para conocer el Aviso de privacidad de México oprima aquí: [Aviso de Privacidad Mexico](https://web.archive.org/sites/default/files/legal/Aviso%20de%20Privacidad%20Mexico%20Oct%202016.pdf)
