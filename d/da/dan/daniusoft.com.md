@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daniusoft.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314003012id_/http%3A//www.daniusoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daniusoft.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211074353id_/http%3A//www.daniusoft.com/privacy.html) for the most accurate reproduction.*
 
 # Daniusoft Privacy Policy
 
