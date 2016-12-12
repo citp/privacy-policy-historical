@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trade-a-plane.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616065042id_/http%3A//www.tappublishing.com/static/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trade-a-plane.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212192120id_/http%3A//www.tappublishing.com/static/Privacy-Policy.html) for the most accurate reproduction.*
 
 # TAP Publishing Company
 
