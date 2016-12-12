@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asecurelife.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612084958id_/http%3A//www.asecurelife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asecurelife.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212190744id_/http%3A//www.asecurelife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ASecureLife.com
 
@@ -81,3 +81,5 @@ Our Site contains links to other sites. We are not endorsing any such linked web
 ## Who Can We Contact If We Have Further Questions About This Privacy Policy?
 
 If you have any questions about this policy or about how Personal Information collected on our Web site is used, you can contact A Secure Life via mail or feedback form, both of which can be found on the [Contact](http://www.asecurelife.com/contact/) page.
+
+Our site's mission is to help consumers make more informed purchase decisions. This website accepts financial compensation from some of the companies mentioned which allows us to provide this free service to our readers. Compensation does not influence the rankings of products. More info on our [disclosure](http://www.asecurelife.com/disclosure/) page.
