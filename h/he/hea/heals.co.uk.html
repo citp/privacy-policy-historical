@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the heals.co.uk privacy policy that was archived on 2016-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160429011234id_/https%3A//www.heals.com/cookie-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the heals.co.uk privacy policy that was archived on 2016-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161212104448id_/https%3A//www.heals.com/cookie-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" id="top" class="no-js"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<!--[if IE 9 ]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAAEWFRAAAQCVFVbAw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script><![endif]-->
+<!--[if IE 9 ]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
 <title>Cookie and Privacy Policy</title>
 <meta name="description" content="Heal's - Good Design, Well Made. Contemporary lighting &amp; furniture by the best British &amp; international designers">
 <meta name="keywords" content="Furniture, Lighting, Homeware, dining, ">
@@ -22,41 +22,43 @@
 //]]>
 </script>
 <![endif]-->
-<meta property="og:title" content="Cookie and Privacy Policy">
-<meta property="og:type" content="article">
-<meta property="og:url" content="https://www.heals.com/cookie-privacy-policy">
-<meta property="og:description" content="Heal's - Good Design, Well Made. Contemporary lighting &amp; furniture by the best British &amp; international designers">
-<meta property="og:site_name" content="Heal's">
+
+
+	 <meta property="og:title" content="Cookie and Privacy Policy">
+	 <meta property="og:type" content="article">
+	 <meta property="og:url" content="https://www.heals.com/cookie-privacy-policy">
+	 <meta property="og:description" content="Heal's - Good Design, Well Made. Contemporary lighting &amp; furniture by the best British &amp; international designers">
+	 <meta property="og:site_name" content="Heal's">
+
 <!--[if  (lte IE 8) & (!IEMobile)]>
-<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/heals/default/css/styles-ie8.css?q=1461143454" media="all" />
-<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/heals/default/css/styles-ie8a.css?q=1461143457" media="all" />
-<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/heals/default/css/styles-ie8b.css?q=1461143463" media="all" />
-<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/heals/default/css/styles-ie8c.css?q=1461143467" media="all" />
-<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/heals/default/css/styles-ie8d.css?q=1461143471" media="all" />
-<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/heals/default/css/styles-ie8e.css?q=1461143475" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/heals/default/css/styles-ie8.css?q=1479361912" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/heals/default/css/styles-ie8a.css?q=1479361916" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/heals/default/css/styles-ie8b.css?q=1479361922" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/heals/default/css/styles-ie8c.css?q=1479361926" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/heals/default/css/styles-ie8d.css?q=1479361930" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/heals/default/css/styles-ie8e.css?q=1479361934" media="all" />
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/base/default/css/amlabel.css?q=1461143431" media="all">
-<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/base/default/css/flint_feefo.css?q=1461143432" media="all">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PNFNMK"></script><script type="text/javascript" src="https://www.heals.com/js/heals/theme/magento.js?q=1461143430"></script>
-<script type="text/javascript" src="https://www.heals.com/js/heals/theme/libraries.js?q=1461143430"></script>
-<script type="text/javascript" src="https://www.heals.com/js/google/ga.js?q=1461143201"></script>
-<script type="text/javascript" src="https://www.heals.com/js/locayta/tracking.js?q=1461143432"></script>
-<script type="text/javascript" src="https://www.heals.com/js/locayta/recommendation.js?q=1461143432"></script>
-<script type="text/javascript" src="https://www.heals.com/skin/frontend/rwd/default/js/locayta-rwd.js?q=1461143432"></script>
-<script type="text/javascript" src="https://www.heals.com/skin/frontend/heals/default/js/custom.js?q=1461143430"></script>
-<script type="text/javascript" src="https://www.heals.com/skin/frontend/base/default/js/redbox/ajaxaddtocart.js?q=1461143431"></script>
+<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/base/default/css/amlabel.css?q=1479361890" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/base/default/css/flint_feefo.css?q=1479361890" media="all">
+<script type="text/javascript" defer="" async="" src="//analytics.adsertor.co.uk/piwik.js"></script><script async="" src="https://ad.atdmt.com/m/a.js;m=11252201084270;cache=0.7651576170869436"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PNFNMK"></script><script type="text/javascript" src="https://www.heals.com/js/heals/theme/magento.js?q=1479361888"></script>
+<script type="text/javascript" src="https://www.heals.com/js/heals/theme/libraries.js?q=1479361888"></script>
+<script type="text/javascript" src="https://www.heals.com/js/google/ga.js?q=1479361532"></script>
+<script type="text/javascript" src="https://www.heals.com/skin/frontend/heals/default/js/min/custom.js?q=1479361889"></script>
+<script type="text/javascript" src="https://www.heals.com/skin/frontend/base/default/js/redbox/ajaxaddtocart.js?q=1479361890"></script>
+<script type="text/javascript" src="https://www.heals.com/skin/frontend/heals/default/js/thirdparty/jquery.fancybox.pack.js?q=1479361889"></script>
 <link href="//fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic'">
 <link rel="canonical" href="https://www.heals.com/cookie-privacy-policy">
 <!--[if (gte IE 10) | (IEMobile)]><!-->
-<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/heals/default/css/styles.css?q=1461143507" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/heals/default/css/styles.css?q=1479361968" media="all">
 <!--<![endif]-->
 <!--[if  (IE 9) & (!IEMobile)]>
-<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/heals/default/css/styles-ie9a.css?q=1461143479" media="all" />
-<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/heals/default/css/styles-ie9b.css?q=1461143485" media="all" />
-<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/heals/default/css/styles-ie9c.css?q=1461143490" media="all" />
-<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/heals/default/css/styles-ie9d.css?q=1461143494" media="all" />
-<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/heals/default/css/styles-ie9e.css?q=1461143497" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/heals/default/css/styles-ie9a.css?q=1479361938" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/heals/default/css/styles-ie9b.css?q=1479361944" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/heals/default/css/styles-ie9c.css?q=1479361949" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/heals/default/css/styles-ie9d.css?q=1479361953" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.heals.com/skin/frontend/heals/default/css/styles-ie9e.css?q=1479361957" media="all" />
 <![endif]-->
+
 <script type="text/javascript">
 //<![CDATA[
 Mage.Cookies.path     = '/';
@@ -64,11 +66,13 @@ Mage.Cookies.domain   = '.www.heals.com';
 //]]>
 </script>
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
 <script type="text/javascript">
 //<![CDATA[
 optionalZipCountries = ["HK","IE","MO","PA"];
 //]]>
 </script>
+
 <script type="text/javascript">
     dataLayer = [
         {
@@ -77,16 +81,100 @@ optionalZipCountries = ["HK","IE","MO","PA"];
                                 }
     ];
 </script>
-  <script type="text/javascript">//<![CDATA[
+
+<link rel="stylesheet" type="text/css" href="//heals.resultspage.com/autocomplete/sli-rac.css"><script type="text/javascript">//<![CDATA[
         var Translator = new Translate({"Add to Cart":"Add to Basket"});
-        //]]></script><style>@media only screen and (max-width: 899px) {#detail-info.product-collateral{display:block;}}</style>
-<meta name="p:domain_verify" content="51278f9ea3eb7a6b4f9f18b5e7d2ccc3"></head>
+        //]]></script><meta name="p:domain_verify" content="51278f9ea3eb7a6b4f9f18b5e7d2ccc3">
+<meta name="google-site-verification" content="WNHcwyKIyzMjhuBJxhaA2Vm7ohO0LcLtFt1KMhK8D4o">
+
+<style>
+@media only screen and (max-width: 899px) {
+    #detail-info.product-collateral {
+        display: block;
+    }
+}
+.category-top-banner .overlay-content {
+background-color: rgba(0, 0, 0, .3);
+z-index: 1 !important;
+}
+.category-landing .ranges {
+    display: block !important;
+}
+.category-top-banner .badge {
+    width: 17% !important;
+    top: 5% !important;
+    right: 0% !important;
+    transform: rotate(0deg) !important;
+}
+.footer .feefo {
+    visibility: hidden;
+}
+.subcategories img{
+height: 412px;
+}
+.col1-layout .toolbar{
+display:none;
+visibility:hidden;
+}
+.newcopyright-olapic,
+.olapic-slider-copy,
+.footer .social-media .olapic-partial-item{
+display:none !important;
+visibility: hidden !important;
+}
+
+.nav-primary a strong{
+font-family:"BaskervilleBT-Roman",serif;
+}
+
+#header-2 {    padding-top: 35px;}
+
+.ifc-banner{
+            text-align:center;background:#e9dcd4;padding:15px 10px 7px 10px
+        }
+        .ifc-banner span{
+            display:inline-block;vertical-align:middle;line-height: 1;
+        }
+        .ifc-banner .percentage{
+            font-family:'BaskervilleBT-Roman', serif;font-size:300%;color:#f47920;
+        }
+        .italic{
+            font-family:'BaskervilleBT-Italic', serif;
+        }
+        ul.default{
+            list-style-type: disc; 
+            list-style-position: inside; 
+        }
+
+</style>
+
+<!-- Hotjar Tracking Code for https://www.heals.com/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:301405,hjsv:5, hjPlaceholderPolyfill: false};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script><script async="" src="//static.hotjar.com/c/hotjar-301405.js?sv=5"></script>
+
+<script>
+$(function() {
+if(window.location.href === "https://www.heals.com/home-accessories/decorative-home/home-fragrance/charles-farris.html")
+{
+$(".category-grid").css("display",  "none");
+}
+});
+</script><script type="text/javascript" data-channel="57cd3683e4b076487b7f237e" src="//creator.zmags.com/channels.js"></script>
+</head>
 <body class=" cms-page-view cms-cookie-privacy-policy cms-cookie-privacy-policy">
- 
-<noscript>
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-PNFNMK" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-</noscript>
-<script type="text/javascript">
+                <!-- GOOGLE TAG MANAGER -->
+        <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-PNFNMK" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <script type="text/javascript">
             //<![CDATA[
             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
                 var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;
@@ -96,386 +184,644 @@ optionalZipCountries = ["HK","IE","MO","PA"];
             var dlCurrencyCode = 'GBP';
                         //]]>
         </script>
- 
+        <!-- END GOOGLE TAG MANAGER -->
+        
 <div class="wrapper  en_GB">
-<noscript>
-<div class="global-site-notice noscript">
-<div class="notice-inner">
-<p>
-<strong>JavaScript seems to be disabled in your browser.</strong><br/>
-You must have JavaScript enabled in your browser to utilize the functionality of this website. </p>
-</div>
-</div>
-</noscript>
-<div class="page">
+        <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+    <div class="page">
+            
 <header id="header" class="page-header">
-<div class="top-border"></div>
-<div class="page-header-container">
-<div class="header-wrapper">
-<a href="#nav" class="skip-nav skip-link mobile-nav">
-<span class="icon icon-burger"></span>
-</a>
-<a href="https://www.heals.com/" title="Heal's" class="logo"><img src="https://www.heals.com/skin/frontend/heals/default/images/logo.png" alt="Heal's"></a>
- 
-<div id="header-nav" class="skip-content">
-<nav id="nav">
-<ol class="nav-primary">
-<li class="mobile-menu-logo visible-for-medium-down">
-<a href="https://www.heals.com/" title="Default Store View">
-<img src="https://www.heals.com/skin/frontend/heals/default/images/logo.png" alt="Default Store View">
-</a>
+    <div class="top-border"></div>
+    <div class="page-header-container">
+        <div class="header-wrapper">
+            <div class="logo">
+                <a href="https://www.heals.com/" title="Heal's">
+                    <img src="https://www.heals.com/skin/frontend/heals/default/images/logo.png" alt="Heal's" onerror="this.onerror=null; this.src='https://www.heals.com/skin/frontend/heals/default/images/logo.png'">
+                </a>                 
+            </div>
+
+            <!-- Skip Links -->
+            <div class="skip-links">
+                <a href="https://www.heals.com/stores/" title="Our Stores" class="skip-link skip-stores">
+                    <i class="icon icon-find"></i>
+                    <span class="text">Stores</span>
+                </a>
+                <a href="https://www.heals.com/trade/" title="Trade" class="skip-link skip-trade">
+                    <i class="icon icon-trade"></i>
+                    <span class="text">Trade</span>
+                </a>
+                <a href="#header-account" class="skip-link skip-nav skip-more">
+                    <i class="icon icon-burger"></i>
+                    <span class="text">Menu</span>
+                </a>
+                <a href="#mini-basket" class="skip-link skip-cart mobile-basket">
+                    <i class="icon bag"></i>
+                    <span class="basket-count count"></span>
+                    <span class="text">Basket</span>
+                </a>
+                <a href="#nav" class="skip-nav skip-link mobile-nav">
+                    <i class="icon icon-burger"></i>
+                    <span class="text">Menu</span>
+                </a>
+            </div>
+
+            <!-- Search -->
+            <div id="header-search">
+                <form id="search_mini_form" name="searchform" action="https://heals.com/search/go" method="get">
+	<div class="input-box">
+		<label for="search">Search:</label>
+		<input id="search" type="search" name="w" value="" class="input-text required-entry" onfocus="this.value=''" maxlength="128" placeholder="Search..." autocomplete="off" data-provide="rac">
+		<button type="submit" title="Search" class="button search-button">
+			<i class="icon icon-search"><span>Search</span></i>
+		</button>
+	</div>
+</form>            </div>
+        </div>
+        <div class="nav-wrapper">
+            <!-- Navigation -->
+            <div id="header-nav" class="skip-content">
+                <!--{TOPMENU_e82d46098cbfa9fca5605b398135b46b}-->
+    <nav id="nav">
+        <ol class="nav-primary">
+        	<li class="mobile-menu-logo visible-for-medium-down">
+                <a href="https://www.heals.com/" title="Default Store View">
+                	<img src="https://www.heals.com/skin/frontend/heals/default/images/logo.png" alt="Default Store View">
+                </a>
+        	</li>
+            <li class="level0 nav-1 first parent"><a href="https://www.heals.com/christmas.html" class="level0 has-children">Christmas</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="https://www.heals.com/christmas.html">View All Christmas</a></li><li class="level1 nav-1-1 first"><a href="https://www.heals.com/christmas/christmas-decorations.html" class="level1 ">Christmas Decorations</a></li><li class="level1 nav-1-2"><a href="https://www.heals.com/christmas/christmas-gifts.html" class="level1 ">Gifts for the Home</a></li><li class="level1 nav-1-3"><a href="https://www.heals.com/christmas/christmas-entertaining.html" class="level1 ">Christmas Entertaining</a></li><li class="level1 nav-1-4"><a href="https://www.heals.com/christmas/christmas-food.html" class="level1 ">Food</a></li><li class="level1 nav-1-5"><a href="https://www.heals.com/christmas/gifts-for-him.html" class="level1 ">Presents for Him</a></li><li class="level1 nav-1-6"><a href="https://www.heals.com/christmas/gifts-for-her.html" class="level1 ">Presents for Her</a></li><li class="level1 nav-1-7"><a href="https://www.heals.com/christmas/blow-the-budget-presents.html" class="level1 ">Blow the Budget Presents</a></li><li class="level1 nav-1-8"><a href="https://www.heals.com/christmas/presents-under-fifty-pounds.html" class="level1 ">Presents Under £50</a></li><li class="level1 nav-1-9"><a href="https://www.heals.com/christmas/presents-under-ten-pounds.html" class="level1 ">Presents Under £10</a></li><li class="level1 nav-1-10 last"><a href="https://www.heals.com/christmas/presents-under-twenty-pounds.html" class="level1 ">Presents under £20</a></li></ul></li><li class="level0 nav-2 parent"><a href="https://www.heals.com/lighting.html" class="level0 has-children">Lighting</a><ul class="level0-top "><li class="sub_block_1 sub_block"><ul class="level0 block_1_content block_1_children full_width "><li class="level1 first parent items6"><a href="/lighting/ceiling-lights.html" class="level1 has-children">Ceiling Lights</a>
+	<ul class="level1">
+		<li class="level2 view-all">
+			<a class="level2" href="/lighting/ceiling-lights.html">View All Ceiling Lights</a>
+		</li>
+		<li class="level2 first"><a class="level2" href="/lighting/ceiling-lights/pendant-lights.html">Pendant Lights</a></li>
+		<li class="level2"><a href="/lighting/ceiling-lights/chandeliers.html" class="level2 ">Chandeliers</a></li>
+		<li class="level2"><a href="/lighting/ceiling-lights/suspension-lights.html" class="level2 ">Suspension Lights</a></li>
+		<li class="level2 last"><a href="/lighting/ceiling-lights/spot-lights.html" class="level2 ">Spot Lights</a></li>
+	</ul>
 </li>
-<li class="level0 nav-1 first parent"><a href="https://www.heals.com/sofas.html" class="level0 has-children">Sofas</a><ul class="level0-top "><li class="sub_block_1 sub_block"><span class="categories">Categories</span><ul class="level0 block_1_content block_1_children"><li class="items5"><a href="/sofas.html"><img alt="Sofas" src="https://www.heals.com/media/wysiwyg/top_nav/new/sofas.jpg">
-<div class="overlay-content white-overlay">
-<div class="vtable">
-<div class="vcell">Sofas</div>
-</div>
-</div>
-</a></li>
-<li class="items5"><a href="/sofas/corner-sofas.html"><img alt="Corner Sofas" src="https://www.heals.com/media/wysiwyg/top_nav/new/corner-sofas.jpg">
-<div class="overlay-content white-overlay">
-<div class="vtable">
-<div class="vcell">Corner Sofas</div>
-</div>
-</div>
-</a></li>
-<li class="items5"><a href="/sofas/sofabeds.html"><img alt="Sofa Beds" src="https://www.heals.com/media/wysiwyg/top_nav/new/sofa-beds.jpg">
-<div class="overlay-content white-overlay">
-<div class="vtable">
-<div class="vcell">Sofa Beds</div>
-</div>
-</div>
-</a></li>
-<li class="items5"><a href="/sofas/armchairs.html"><img alt="Armchairs" src="https://www.heals.com/media/wysiwyg/top_nav/new/armchairs.jpg">
-<div class="overlay-content white-overlay">
-<div class="vtable">
-<div class="vcell">Armchairs</div>
-</div>
-</div>
-</a></li>
-<li class="items5"><a href="/sofas/leather-sofas.html"><img alt="Leather Sofas" src="https://www.heals.com/media/wysiwyg/top_nav/new/leather-sofas.jpg">
-<div class="overlay-content white-overlay">
-<div class="vtable">
-<div class="vcell">Leather Sofas</div>
-</div>
-</div>
-</a></li></ul></li></ul></li><li class="level0 nav-2 parent"><a href="https://www.heals.com/furniture.html" class="level0 has-children">Furniture</a><ul class="level0-top "><li class="sub_block_1 sub_block"><span class="rooms">Rooms</span><ul class="level0 block_1_subcategories block_1_children"><li class="level1 view-all"><a class="level1" href="https://www.heals.com/furniture.html">View All Furniture</a></li><li class="level1 nav-2-1 first parent"><a href="https://www.heals.com/furniture/living-room.html" class="level1 has-children">Living Room</a><ul class="level1"><li class="level2 view-all"><a class="level2" href="https://www.heals.com/furniture/living-room.html">View All Living Room</a></li><li class="level2 nav-2-1-1 first"><a href="https://www.heals.com/furniture/living-room/shelving-unit.html" class="level2 ">Bookcases and Shelving</a></li><li class="level2 nav-2-1-2"><a href="https://www.heals.com/furniture/living-room/av-units.html" class="level2 ">AV Units</a></li><li class="level2 nav-2-1-3"><a href="https://www.heals.com/furniture/living-room/coffee-tables.html" class="level2 ">Coffee Tables</a></li><li class="level2 nav-2-1-4"><a href="https://www.heals.com/furniture/living-room/side-tables.html" class="level2 ">Side Tables</a></li><li class="level2 nav-2-1-5"><a href="https://www.heals.com/furniture/living-room/sideboards.html" class="level2 ">Sideboards</a></li><li class="level2 nav-2-1-6 last"><a href="https://www.heals.com/furniture/living-room/console-tables.html" class="level2 ">Console Tables</a></li></ul></li><li class="level1 nav-2-2 parent"><a href="https://www.heals.com/furniture/dining-room.html" class="level1 has-children">Dining Room</a><ul class="level1"><li class="level2 view-all"><a class="level2" href="https://www.heals.com/furniture/dining-room.html">View All Dining Room</a></li><li class="level2 nav-2-2-1 first"><a href="https://www.heals.com/furniture/dining-room/dining-tables.html" class="level2 ">Dining Tables</a></li><li class="level2 nav-2-2-2"><a href="https://www.heals.com/furniture/dining-room/chairs.html" class="level2 ">Dining Chairs</a></li><li class="level2 nav-2-2-3"><a href="https://www.heals.com/furniture/dining-room/stools.html" class="level2 ">Stools</a></li><li class="level2 nav-2-2-4 last"><a href="https://www.heals.com/furniture/dining-room/benches.html" class="level2 ">Benches</a></li></ul></li><li class="level1 nav-2-3 parent"><a href="https://www.heals.com/furniture/bedroom.html" class="level1 has-children">Bedroom</a><ul class="level1"><li class="level2 view-all"><a class="level2" href="https://www.heals.com/furniture/bedroom.html">View All Bedroom</a></li><li class="level2 nav-2-3-1 first"><a href="https://www.heals.com/furniture/bedroom/mattresses.html" class="level2 ">Mattresses</a></li><li class="level2 nav-2-3-2"><a href="https://www.heals.com/furniture/bedroom/mattresses-and-divans.html" class="level2 ">Mattresses and Divans</a></li><li class="level2 nav-2-3-3"><a href="https://www.heals.com/furniture/bedroom/mattress-toppers-and-protectors.html" class="level2 ">Mattress Toppers and Protectors</a></li><li class="level2 nav-2-3-4"><a href="https://www.heals.com/furniture/bedroom/bedroom-furniture.html" class="level2 ">Bedroom Furniture</a></li><li class="level2 nav-2-3-5 last"><a href="https://www.heals.com/furniture/bedroom/beds.html" class="level2 ">Bed Frames</a></li></ul></li><li class="level1 nav-2-4 parent"><a href="https://www.heals.com/furniture/home-office.html" class="level1 has-children">Home Office</a><ul class="level1"><li class="level2 view-all"><a class="level2" href="https://www.heals.com/furniture/home-office.html">View All Home Office</a></li><li class="level2 nav-2-4-1 first"><a href="https://www.heals.com/furniture/home-office/desks.html" class="level2 ">Desks</a></li><li class="level2 nav-2-4-2"><a href="https://www.heals.com/furniture/home-office/office-chairs.html" class="level2 ">Office Chairs</a></li><li class="level2 nav-2-4-3 last"><a href="https://www.heals.com/furniture/home-office/hallway.html" class="level2 ">Hallway</a></li></ul></li><li class="level1 nav-2-5 last parent"><a href="https://www.heals.com/furniture/bathroom.html" class="level1 has-children">Bathroom</a><ul class="level1"><li class="level2 view-all"><a class="level2" href="https://www.heals.com/furniture/bathroom.html">View All Bathroom</a></li><li class="level2 nav-2-5-1 first last"><a href="https://www.heals.com/furniture/bathroom/bathroom-storage.html" class="level2 ">Bathroom Storage</a></li></ul></li></ul></li><li class="sub_block_2 sub_block"><span class="brands">Brands</span><ul class="level0 block_1_content block_2_children"><li class="items5"><a href="/brand/vitra.html"><img src="/media/wysiwyg/top_nav/furniture/vitra.jpg" alt="Vitra Furniture"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Vitra</div></div></div></a></li>
-<li class="items5"><a href="/brand/ercol.html"><img src="/media/wysiwyg/top_nav/furniture/ercol.jpg" alt="Ercol Furniture"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Ercol</div></div></div></a></li>
-<li class="items5"><a href="/brand/ligne-roset.html"><img src="/media/wysiwyg/top_nav/furniture/ligne-roset.jpg" alt="Ligne Roset Furniture"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Ligne Roset</div></div></div></a></li>
-<li class="items5"><a href="/collections/heal-s-furniture.html"><img src="/media/wysiwyg/top_nav/heals-furniture.jpg" alt="Heals Furniture"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Heal's Furniture</div></div></div></a></li>
-<li class="items5"><a href="/brand.html"><img src="/media/wysiwyg/top_nav/furniture/allbrands1.jpg" alt="all furniture brands"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Furniture Brands</div></div></div></a></li></ul></li><li class="sub_block_3 sub_block"><span class="designers">Designers</span><ul class="level0 block_1_content block_3_children"><li class="items5"><a href="/designer/rob-scarlett.html"> <img src="/media/wysiwyg/top_nav/furniture/rob_scarlett.jpg" alt="Rob Scarlett Furniture"> <div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Rob Scarlett</div></div></div></a></li>
-<li class="items5"><a href="/designer/philippe-starck.html"><img src="/media/wysiwyg/top_nav/furniture/philippestarck.jpg" alt="Philippe Starck Furniture"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Philippe Starck</div></div></div></a></li>
-<li class="items5"><a href="/designer/matthew-hilton.html"><img src="/media/wysiwyg/top_nav/furniture/matthewhilton.jpg" alt="Matthew Hilton Furniture"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Matthew Hilton</div></div></div></a></li>
-<li class="items5"><a href="/designer/charles-and-ray-eames.html"><img src="/media/wysiwyg/top_nav/furniture/charlesrayeames.jpg" alt="Charles and Ray Eames"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Charles and Ray Eames</div></div></div></a></li>
-<li class="items5"><a href="/designer.html"><img src="/media/wysiwyg/top_nav/furniture/viewdesigners1.jpg" alt="view all furniture designers"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Furniture Designers</div></div></div></a></li></ul></li><li class="sub_block_4 sub_block"><span class="quick-find">Quick Find</span><ul class="level0 block_1_content block_4_children"><li class="level1 nav-1-1 first parent" style="min-height: auto; height: 226px;"><a href="/furniture/living-room/sofas.html" class="level1 has-children">Sofas</a>
-<ul class="level1">
-<li class="level2 nav-1-1-1 first"><a class="level2" href="/furniture/quick-find/armchairs.html">Armchairs</a></li>
-<li class="level2 nav-1-1-2"><a href="/furniture/quick-find/loveseats.html" class="level2 ">Loveseats</a></li>
-<li class="level2 nav-1-1-3"><a href="/furniture/living-room/sofas/2-seater-sofa.html" class="level2 ">2 Seater Sofas</a></li>
-<li class="level2 nav-1-1-4"><a href="/furniture/living-room/sofas/3-seater-sofa.html" class="level2 ">3 Seater Sofas</a></li>
-<li class="level2 nav-1-1-5"><a href="/furniture/living-room/sofas/4-seater-sofa.html" class="level2 ">4 Seater Sofas</a></li>
-<li class="level2 nav-1-1-6"><a href="/furniture/living-room/sofas/leather-sofas.html" class="level2 ">Leather Sofas</a></li>
-</ul>
+<li class="level1 2 parent items6"><a href="/lighting/lamps.html" class="level1 has-children" rel="nofollow">Lamps</a>
+	<ul class="level1">
+		<li class="level2 view-all">
+			<a class="level2" href="/lighting/lamps.html">View All Lamps</a>
+		</li>
+		<li class="level2 first"><a class="level2" href="/lighting/tablelamps.html">Table Lamps</a></li>
+		<li class="level2"><a href="/lighting/floorlamps.html" class="level2 ">Floor Lamps</a></li>
+		<li class="level2"><a href="/lighting/reading-lamps.html" class="level2 ">Reading Lamps</a></li>
+		<li class="level2"><a href="/lighting/tablelamps/desk-lamps.html" class="level2 ">Desk Lamps</a></li>
+		<li class="level2"><a href="/lighting/tablelamps/bedside-lights.html" class="level2 ">Bedside Lamps</a></li>
+		<li class="level2 last"><a href="/lighting/lamp-shades.html" class="level2 ">Lamp Shades</a></li>
+	</ul>
 </li>
-<li class="level1 nav-1-2 first parent" style="min-height: auto; height: 226px;"><a href="/furniture/living-room/lounge-chairs.html" class="level1 has-children">Lounge Chairs</a>
-<ul class="level1">
-<li class="level2 nav-1-1-1 first"><a class="level2" href="/furniture/quick-find/easy-chairs.html">Easy Chairs</a></li>
-<li class="level2 nav-1-1-2"><a href="/furniture/quick-find/rocking-chairs.html" class="level2 ">Rocking Chairs</a></li>
-<li class="level2 nav-1-1-3"><a href="/furniture/quick-find/accent-chairs.html" class="level2 ">Accent Chairs</a></li>
-<li class="level2 nav-1-1-4"><a href="/furniture/living-room/sofas/footstools.html" class="level2 ">Footstools</a></li>
-</ul>
+<li class="level1 parent items6"><a href="/lighting/wall-lights.html" class="level1 has-children">Wall Lights</a>
+	<ul class="level1">
+		<li class="level2 view-all">
+			<a class="level2" href="/lighting/wall-lights.html">View All Wall Lights</a>
+		</li>
+		<li class="level2 first"><a class="level2" href="/lighting/wall-lights/indoor-wall-lights.html">Indoor Wall Lights</a></li>
+		<li class="level2"><a href="/lighting/outdoor-lights.html" class="level2 ">Outdoor</a></li>
+		<li class="level2 last"><a href="/lighting/neon-lights.html" class="level2 ">Neon Lights</a></li>
+	</ul>
 </li>
-<li class="level1 nav-1-3 parent" style="min-height: auto; height: 226px;"><a href="/furniture/living-room/tables.html" class="level1 has-children">Occassional Tables</a>
-<ul class="level1">
-<li class="level2 nav-1-1-1 first"><a class="level2" href="/furniture/living-room/coffee-tables.html">Coffee Tables</a></li>
-<li class="level2 nav-1-1-2 first"><a href="/furniture/living-room/side-tables.html" class="level2 ">Side Tables</a></li>
-<li class="level2 nav-1-1-3"><a href="/furniture/quick-find/lamp-tables.html" class="level2 ">Lamp Tables</a></li>
-<li class="level2 nav-1-1-4"><a href="/furniture/living-room/console-tables.html" class="level2 ">Console Tables</a></li>
-<li class="level2 nav-1-1-5"><a href="/furniture/quick-find/glass-tables.html" class="level2 ">Glass Tables</a></li>
-</ul>
+<li class="level1 parent items6"><a href="/lighting/bulbs-and-fittings.html" class="level1 has-children">Bulbs</a>
+	<ul class="level1">
+		<li class="level2 view-all">
+			<a class="level2" href="/lighting/bulbs-and-fittings.html">View All Bulbs</a>
+		</li>
+		<li class="level2 first"><a class="level2" href="/lighting/bulbs-and-fittings/led-bulbs.html">LED Filament</a></li>
+		<li class="level2"><a href="/lighting/bulbs-and-fittings/decorative.html" class="level2 ">Squirrel Cage Decorative Filament</a></li>
+	</ul>
 </li>
-<li class="level1 nav-1-4 parent" style="min-height: auto; height: 226px;"><a href="/furniture/living-room/storage.html" class="level1 has-children">Storage</a>
-<ul class="level1">
-<li class="level2 nav-1-1-1 first"><a class="level2" href="/furniture/living-room/av-units.html">AV Units</a></li>
-<li class="level2 nav-1-1-2"><a href="/furniture/quick-find/bookcases.html" class="level2 ">Bookcases</a></li>
-<li class="level2 nav-1-1-3"><a href="/furniture/quick-find/bookshelves.html" class="level2 ">Bookshelves</a></li>
-<li class="level2 nav-1-1-4"><a href="/furniture/living-room/sideboards.html" class="level2 ">Sideboards</a></li>
-<li class="level2 nav-1-1-5"><a href="/furniture/living-room/shelving-unit.html" class="level2 ">Shelving Units</a></li>
-</ul>
+<li class="level1 parent items6"><a href="/lighting/collections.html" class="level1 has-children">Collections</a>
+	<ul class="level1">
+		<li class="level2 view-all">
+			<a class="level2" href="/lighting/collections.html">View All Collections</a>
+		</li>
+		<li class="level2 first"><a class="level2" href="/lighting/collections/copper.html">Copper Lighting</a></li>
+		<li class="level2"><a href="/lighting/collections/industrial.html" class="level2 ">Industrial Lighting</a></li>
+		<li class="level2"><a href="/lighting/collections/glass.html" class="level2 ">Glass Lighting</a></li>
+		<li class="level2"><a href="/lighting/collections/kitchen.html" class="level2 ">Kitchen Lighting</a></li>
+		<li class="level2"><a href="/lighting/collections/bedroom.html" class="level2 ">Bedroom Lighting</a></li>
+		<li class="level2 last"><a href="/lighting/collections/dining-room.html" class="level2 ">Dining Room Lighting</a></li>
+	</ul>
 </li>
-<li class="level1 nav-1-5 parent" style="min-height: auto; height: 226px;"><a href="/furniture/bedroom/bedroom-furniture.html" class="level1 has-children">Bedroom Furniture</a>
-<ul class="level1">
-<li class="level2 nav-1-1-1 first"><a class="level2" href="/furniture/quick-find/wardrobes.html">Wardrobes</a></li>
-<li class="level2 nav-1-1-2"><a href="/furniture/quick-find/bedside-tables.html" class="level2 ">Bedside Tables</a></li>
-<li class="level2 nav-1-1-3"><a href="/furniture/quick-find/chest-of-drawers.html" class="level2 ">Chest of Drawers</a></li>
-<li class="level2 nav-1-1-4"><a href="/furniture/quick-find/organic-matresses.html" class="level2 ">Organic Mattresses</a></li>
-<li class="level2 nav-1-1-5"><a href="/furniture/quick-find/headboards.html" class="level2 ">Headboards</a></li>
-</ul>
-</li></ul></li></ul></li><li class="level0 nav-3 parent"><a href="https://www.heals.com/homeware.html" class="level0 has-children">Home</a><ul class="level0-top "><li class="sub_block_1 sub_block"><span class="categories">Categories</span><ul class="level0 block_1_subcategories block_1_children"><li class="level1 view-all"><a class="level1" href="https://www.heals.com/homeware.html">View All Home</a></li><li class="level1 nav-3-1 first parent"><a href="https://www.heals.com/homeware/soft-furnishings.html" class="level1 has-children">Soft Furnishings</a><ul class="level1"><li class="level2 view-all"><a class="level2" href="https://www.heals.com/homeware/soft-furnishings.html">View All Soft Furnishings</a></li><li class="level2 nav-3-1-1 first"><a href="https://www.heals.com/homeware/soft-furnishings/cushions.html" class="level2 ">Cushions</a></li><li class="level2 nav-3-1-2"><a href="https://www.heals.com/homeware/soft-furnishings/rugs.html" class="level2 ">Rugs</a></li><li class="level2 nav-3-1-3 last"><a href="https://www.heals.com/homeware/soft-furnishings/throws-and-blankets.html" class="level2 ">Throws and Blankets</a></li></ul></li><li class="level1 nav-3-2 parent"><a href="https://www.heals.com/homeware/home-accessories.html" class="level1 has-children">Home Accessories</a><ul class="level1"><li class="level2 view-all"><a class="level2" href="https://www.heals.com/homeware/home-accessories.html">View All Home Accessories</a></li><li class="level2 nav-3-2-1 first"><a href="https://www.heals.com/homeware/home-accessories/mirrors.html" class="level2 ">Mirrors</a></li><li class="level2 nav-3-2-2"><a href="https://www.heals.com/homeware/home-accessories/clocks.html" class="level2 ">Clocks</a></li><li class="level2 nav-3-2-3"><a href="https://www.heals.com/homeware/home-accessories/decorative-objects.html" class="level2 ">Decorative Objects</a></li><li class="level2 nav-3-2-4"><a href="https://www.heals.com/homeware/home-accessories/home-fragrance.html" class="level2 ">Home Fragrance</a></li><li class="level2 nav-3-2-5"><a href="https://www.heals.com/homeware/home-accessories/vases-and-faux-flowers.html" class="level2 ">Vases and Faux Flowers</a></li><li class="level2 nav-3-2-6 last"><a href="https://www.heals.com/homeware/home-accessories/frames.html" class="level2 ">Frames</a></li></ul></li><li class="level1 nav-3-3 parent"><a href="https://www.heals.com/homeware/kitchen-and-dining.html" class="level1 has-children">Dining</a><ul class="level1"><li class="level2 view-all"><a class="level2" href="https://www.heals.com/homeware/kitchen-and-dining.html">View All Dining</a></li><li class="level2 nav-3-3-1 first"><a href="https://www.heals.com/homeware/kitchen-and-dining/tableware.html" class="level2 ">Tableware</a></li><li class="level2 nav-3-3-2"><a href="https://www.heals.com/homeware/kitchen-and-dining/glassware-and-barware.html" class="level2 ">Glassware and Barware</a></li><li class="level2 nav-3-3-3"><a href="https://www.heals.com/homeware/kitchen-and-dining/cutlery.html" class="level2 ">Cutlery</a></li><li class="level2 nav-3-3-4 last"><a href="https://www.heals.com/homeware/kitchen-and-dining/tea-and-coffee.html" class="level2 ">Tea and Coffee</a></li></ul></li><li class="level1 nav-3-4 parent"><a href="https://www.heals.com/homeware/kitchen.html" class="level1 has-children">Kitchen </a><ul class="level1"><li class="level2 view-all"><a class="level2" href="https://www.heals.com/homeware/kitchen.html">View All Kitchen </a></li><li class="level2 nav-3-4-1 first"><a href="https://www.heals.com/homeware/kitchen/storage-and-utility.html" class="level2 ">Storage and Utility</a></li><li class="level2 nav-3-4-2"><a href="https://www.heals.com/homeware/kitchen/serveware.html" class="level2 ">Serveware</a></li><li class="level2 nav-3-4-3"><a href="https://www.heals.com/homeware/kitchen/cooking-and-baking-2.html" class="level2 ">Cooking and Baking</a></li><li class="level2 nav-3-4-4"><a href="https://www.heals.com/homeware/kitchen/kitchen-linens-1.html" class="level2 ">Kitchen Linens</a></li><li class="level2 nav-3-4-5 last"><a href="https://www.heals.com/homeware/kitchen/food-and-drink.html" class="level2 ">Food and Drink</a></li></ul></li><li class="level1 nav-3-5 last parent"><a href="https://www.heals.com/homeware/bed-and-bath.html" class="level1 has-children">Bed and Bath</a><ul class="level1"><li class="level2 view-all"><a class="level2" href="https://www.heals.com/homeware/bed-and-bath.html">View All Bed and Bath</a></li><li class="level2 nav-3-5-1 first"><a href="https://www.heals.com/homeware/bed-and-bath/duvets-and-pillows.html" class="level2 ">Duvets and Pillows</a></li><li class="level2 nav-3-5-2"><a href="https://www.heals.com/homeware/bed-and-bath/bed-linen.html" class="level2 ">Bed Linen</a></li><li class="level2 nav-3-5-3 last"><a href="https://www.heals.com/homeware/bed-and-bath/bath-linen.html" class="level2 ">Bath Linen</a></li></ul></li></ul></li><li class="sub_block_2 sub_block"><span class="brands">Brands</span><ul class="level0 block_1_content block_2_children"><li class="items5"><a href="/brand/marimekko.html"> <img src="/media/wysiwyg/top_nav/home/marimekko.jpg" alt=""> <div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Marimekko</div></div></div></a></li>
-<li class="items5"><a href="/brand/georg-jensen.html"> <img src="/media/wysiwyg/top_nav/home/georgjensen.jpg" alt=""> <div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Georg Jensen</div></div></div></a></li>
-<li class="items5"><a href="/brand/fenella-smith.html"> <img src="/media/wysiwyg/top_nav/home/fenellasmith.jpg" alt=""> <div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Fenella Smith</div></div></div></a></li>
-<li class="items5"><a href="/collections/heal-s-homeware.html"> <img src="https://www.heals.com/media//wysiwyg/top_nav/heals-home.jpg" alt="heals home "> <div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Heal's Home</div></div></div></a></li>
-<li class="items5"><a href="/brand.html"> <img src="/media/wysiwyg/top_nav/furniture/allbrands1.jpg" alt="all home brands"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Home Brands</div></div></div></a></li></ul></li><li class="sub_block_3 sub_block"><span class="designers">Designers</span><ul class="level0 block_1_content block_3_children"><li class="items5"><a href="/designer/cressida-bell.html"><img src="https://www.heals.com/media/wysiwyg/home/cressida-bell2.jpg" alt="cressida bell"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Cressida Bell</div></div></div></a></li>
-<li class="items5"><a href="/designer/eleanor-pritchard.html"> <img src="/media/wysiwyg/top_nav/home/eleanorpritchard.jpg" alt=""> <div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Eleanor Pritchard</div></div></div></a></li>
-<li class="items5"><a href="/designer/george-nelson.html"><img src="/media/wysiwyg/top_nav/home/georgenelson.jpg" alt="george nelson"> <div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">George Nelson</div></div></div></a></li>
-<li class="items5"><a href="/designer/claire-de-quenetain.html"> <img src="/media/wysiwyg/top_nav/home/clairedequenetain.jpg" alt="claire de quenetain"> <div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Claire De Quenetain</div></div></div></a></li>
-<li class="items5"><a href="/designer.html"> <img src="/media/wysiwyg/top_nav/furniture/viewdesigners1.jpg" alt="home designers"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Home Designers</div></div></div></a></li></ul></li><li class="sub_block_4 sub_block"><span class="quick-find">Quick Find</span><ul class="level0 block_1_content block_4_children"><li class="level1 nav-1-1 first parent" style="min-height: auto; height: 226px;"><a href="/homeware/home-accessories/mirrors.html" class="level1 has-children">Mirrors</a>
-<ul class="level1">
-<li class="level2 nav-1-1-1 first"><a href="/homeware/quick-find/round-mirrors.html" class="level2 ">Round Mirrors</a></li>
-<li class="level2 nav-1-1-2"><a href="/homeware/quick-find/floor-mirrors.html" class="level2 ">Floor Mirrors</a></li>
-<li class="level2 nav-1-1-3"><a href="/homeware/quick-find/square-mirror.html" class="level2 ">Square Mirrors</a></li>
-<li class="level2 nav-1-1-4"><a href="/homeware/quick-find/rectangle-mirror.html" class="level2 ">Rectangle Mirrors</a></li>
-<li class="level2 nav-1-1-4"><a href="/homeware/quick-find/decorative-mirror.html" class="level2 ">Decorative Mirrors</a></li>
-</ul>
+<li class="level1 last parent items6"><a href="/brand.html" class="level1 has-children">Brands</a>
+	<ul class="level1">
+		<li class="level2 first"><a class="level2" href="/brand/tom-dixon/lighting.html">Tom Dixon</a></li>
+		<li class="level2"><a href="/brand/anglepoise.html" class="level2 ">Anglepoise</a></li>
+               <li class="level2"><a href="/brand/wrong-london.html" class="level2 ">Wrong.London</a></li>
+		<li class="level2"><a href="/brand/flos.html" class="level2 ">Flos</a></li>
+		<li class="level2"><a href="/brand.html" class="level2 ">View All Brands</a></li>
+		<li class="level2 last"><a href="/designer.html" class="level2 ">View All Designers</a></li>
+	</ul>
+</li></ul></li></ul></li><li class="level0 nav-3 parent"><a href="https://www.heals.com/sofas.html" class="level0 has-children">Sofas</a><ul class="level0-top "><li class="sub_block_1 sub_block"><ul class="level0 block_1_content block_1_children full_width "><li class="level1 items6 first parent">
+<a href="/sofas.html"><img src="/media/wysiwyg/top_nav/sofas.jpg" alt="Designer Collections"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Sofas</div></div></div>
+</a></li><a href="/sofas.html">
+</a><li class="level1 items6 parent"><a href="/sofas.html">
+</a><a href="/sofas/corner-sofas.html"><img src="/media/wysiwyg/top_nav/corner-sofas.jpg" alt="Designer Collections"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Corner Sofas</div></div></div>
+</a></li><a href="/sofas/corner-sofas.html">
+
+</a><li class="level1 items6 parent"><a href="/sofas/corner-sofas.html">
+</a><a href="/sofas/sofabeds.html"><img src="/media/wysiwyg/top_nav/sofa-beds.jpg" alt="Designer Collections"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Sofa Beds</div></div></div>
+</a></li><a href="/sofas/sofabeds.html">
+
+</a><li class="level1 items6 nav-5-4 active parent"><a href="/sofas/sofabeds.html">
+</a><a href="/sofas/armchairs.html"><img src="/media/wysiwyg/top_nav/armchairs1.jpg" alt="Designer Collections"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Armchairs</div></div></div>
+</a></li><a href="/sofas/armchairs.html">
+
+</a><li class="level1 items6 parent"><a href="/sofas/armchairs.html">
+</a><a href="/sofas/leather-sofas.html"><img src="/media/wysiwyg/top_nav/leather-sofas1.jpg" alt="Designer Collections"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Leather Sofas</div></div></div>
+</a></li><a href="/sofas/leather-sofas.html">
+
+</a><li class="level1 nav-1-6 last parent items6" style="min-height: auto; height: 232px;"><a href="/sofas/leather-sofas.html">
+</a><a href="/furniture/fast-delivery/sofas.html"><img src="/media/wysiwyg/top_nav/sofa/express-delivery.jpg" alt="Designer Collections"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Heal's To Home</div></div></div>
+</a></li><a href="/furniture/fast-delivery/sofas.html">
+</a></ul></li></ul></li><li class="level0 nav-4 parent"><a href="https://www.heals.com/furniture.html" class="level0 has-children">Furniture</a><ul class="level0-top "><li class="sub_block_1 sub_block"><ul class="level0 block_1_content block_1_children full_width "><li class="level1 items6 first parent">
+	<a href="/furniture/living-room.html" class="level1 has-children">LIVING ROOM</a>
+	<ul class="level1">
+		<li class="level2 view-all">
+			<a class="level2" href="/furniture/living-room.html">View All Living Room</a>
+		</li>
+		<li class="level2 first">
+			<a href="/furniture/living-room/tables.html" class="level2">TABLES</a>
+		</li>	
+		<li class="level2">
+			<a href="/furniture/living-room/tables/coffee-tables.html" class="level2">Coffee Tables</a>
+		</li>
+		<li class="level2">
+			<a href="/furniture/living-room/tables/side-tables.html" class="level2">Side Tables</a>
+		</li>
+		<li class="level2">
+			<a href="/furniture/living-room/tables/console-tables.html" class="level2">Console Tables</a>
+		</li>
+		<li class="level2">
+			<a href="/furniture/living-room/storage.html" class="level2">STORAGE</a>
+		</li>
+		<li class="level2">
+			<a href="/furniture/living-room/storage/shelving-unit.html" class="level2">Bookcases and Shelving</a>
+		</li>
+		<li class="level2">
+			<a href="/furniture/living-room/storage/av-units.html" class="level2">AV Units</a>
+		</li>
+		<li class="level2 last">
+			<a href="/furniture/living-room/storage/sideboards.html" class="level2">Sideboards</a>
+		</li>
+	</ul>
 </li>
-<li class="level1 nav-1-2 parent" style="min-height: auto; height: 226px;"><a href="/homeware/soft-furnishings/rugs.html" class="level1 has-children">Rugs</a>
-<ul class="level1">
-<li class="level2 nav-1-1-1 first"><a class="level2" href="/homeware/quick-find/kilim-rugs.html">Kilim Rugs</a></li>
-<li class="level2 nav-1-1-2"><a href="/homeware/quick-find/hand-tufted-rugs.html" class="level2 ">Hand Tufted Rugs</a></li>
-<li class="level2 nav-1-1-3"><a href="/homeware/quick-find/sheepskin-rugs.html" class="level2 ">Sheepskin Rugs</a></li>
-<li class="level2 nav-1-1-4"><a href="/homeware/quick-find/striped-rugs.html" class="level2 ">Striped Rugs</a></li>
-<li class="level2 nav-1-1-5"><a href="/homeware/quick-find/childrens-rugs.html" class="level2 ">Children's Rugs</a></li>
-</ul>
+<li class="level1 items6 parent">
+	<a href="/furniture/dining-room.html" class="level1 has-children">DINING ROOM</a>
+	<ul class="level1">
+		<li class="level2 view-all">
+			<a class="level2" href="/furniture/dining-room.html">View All Dining Room</a>
+		</li>
+		<li class="level2 first">
+			<a href="/furniture/dining-room/dining-tables.html" class="level2">Dining Tables</a>
+		</li>
+		<li class="level2">
+			<a href="/furniture/dining-room/chairs.html" class="level2">Dining Chairs</a>
+		</li>
+		<li class="level2">
+			<a href="/furniture/dining-room/stools.html" class="level2">Stools</a>
+		</li>
+		<li class="level2 last">
+			<a href="/furniture/dining-room/benches.html" class="level2">Benches</a>
+		</li>
+	</ul>
 </li>
-<li class="level1 nav-1-3 parent" style="min-height: auto; height: 226px;"><a href="/homeware/home-accessories.html" class="level1 has-children">Accessories</a>
-<ul class="level1">
-<li class="level2 nav-1-1-1 first"><a class="level2" href="/homeware/quick-find/candle-holders.html">Candle Holders</a></li>
-<li class="level2 nav-1-1-2"><a href="/homeware/quick-find/photo-frames.html" class="level2 ">Photo Frames</a></li>
-<li class="level2 nav-1-1-3"><a href="/homeware/quick-find/vases.html" class="level2 ">Vases</a></li>
-<li class="level2 nav-1-1-4"><a href="/homeware/quick-find/scented-candles.html" class="level2 ">Scented Candles</a></li>
-</ul>
+<li class="level1 items6 parent">
+	<a href="/furniture/home-office.html" class="level1 has-children">HOME OFFICE</a>
+	<ul class="level1">
+		<li class="level2 view-all">
+			<a class="level2" href="/furniture/home-office.html">View All Home Office</a>
+		</li>
+		<li class="level2 first">
+			<a href="/furniture/home-office/desks.html" class="level2">Desks</a>
+		</li>
+		<li class="level2">
+			<a href="/furniture/home-office/office-chairs.html" class="level2">Office Chairs</a>
+		</li>
+		<li class="level2 last">
+			<a href="/furniture/home-office/hallway.html" class="level2">Hallway</a>
+		</li>
+	</ul>
 </li>
-<li class="level1 nav-1-4 parent" style="min-height: auto; height: 226px;"><a href="/homeware/kitchen-and-dining/glassware-and-barware.html" class="level1 has-children">Glassware</a>
-<ul class="level1">
-<li class="level2 nav-1-1-1 first"><a class="level2" href="/homeware/quick-find/wine-glasses.html">Wine Glasses</a></li>
-<li class="level2 nav-1-1-2"><a href="/homeware/quick-find/cocktail-glasses.html" class="level2 ">Cocktail Glasses</a></li>
-<li class="level2 nav-1-1-3"><a href="/homeware/quick-find/champagne-glasses.html" class="level2 ">Champagne Glasses</a></li>
-<li class="level2 nav-1-1-4"><a href="/homeware/quick-find/decanters.html" class="level2 ">Decanters</a></li>
-<li class="level2 nav-1-1-5"><a href="/homeware/quick-find/carafes.html" class="level2 ">Carafes</a></li>
-<li class="level2 nav-1-1-6"><a href="/homeware/quick-find/corkscrews.html" class="level2 ">Corkscrews</a></li>
-</ul>
+<li class="level1 items6 nav-5-4 active parent">
+	<a href="/brand.html" class="level1 has-children">BRANDS</a>
+	<ul class="level1">
+		<li class="level2 first">
+			<a href="/brand/vitra.html" class="level2">Vitra</a>
+		</li>
+		<li class="level2">
+			<a href="/brand/kartell.html" class="level2">Kartell</a>
+		</li>
+		<li class="level2">
+			<a href="/brand/ligne-roset.html" class="level2">Ligne Roset</a>
+		</li>
+		<li class="level2">
+			<a href="/brand/ercol.html" class="level2">Ercol</a>
+		</li>
+		<li class="level2">
+			<a href="/brand/riva-1920.html" class="level2">Riva</a>
+		</li>
+		<li class="level2 last">
+			<a href="/brand.html" class="level2"><strong>View All Brands</strong></a>
+		</li>
+	</ul>
 </li>
-<li class="level1 nav-1-5 parent" style="min-height: auto; height: 226px;"><a href="/homeware/kitchen-and-dining.html" class="level1 has-children">Kitchen</a>
-<ul class="level1">
-<li class="level2 nav-1-1-1 first"><a class="level2" href="/homeware/quick-find/mugs.html">Mugs</a></li>
-<li class="level2 nav-1-1-2"><a href="/homeware/quick-find/cutlery.html" class="level2 ">Cutlery</a></li>
-<li class="level2 nav-1-1-3"><a href="/homeware/quick-find/trays.html" class="level2 ">Trays</a></li>
-<li class="level2 nav-1-1-4"><a href="/homeware/quick-find/tea-towels.html" class="level2 ">Tea Towels</a></li>
-<li class="level2 nav-1-1-5"><a href="/homeware/quick-find/aprons.html" class="level2 ">Aprons</a></li>
-<li class="level2 nav-1-1-6"><a href="/homeware/quick-find/oven-gloves.html" class="level2 ">Oven Gloves</a></li>
-</ul>
-</li></ul></li></ul></li><li class="level0 nav-4 parent"><a href="https://www.heals.com/lighting.html" class="level0 has-children">Lighting</a><ul class="level0-top "><li class="sub_block_1 sub_block"><span class="categories">Categories</span><ul class="level0 block_1_content block_1_children"><li class="items5"><a href="/lighting/ceiling-lights.html"> <img src="/media/wysiwyg/top_nav/lighting/CEILING-LIGHTS.jpg" alt="Ceiling Lights"> <div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Ceiling Lights</div></div></div></a></li>
-<li class="items5"><a href="/lighting/tablelamps.html"> <img src="https://www.heals.com/media/wysiwyg/top_nav/lighting/TABLELAMPS.jpg" alt="Table lamps"> <div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Table Lamps</div></div></div></a></li>
-<li class="items5"><a href="/lighting/floorlamps.html"><img src="https://www.heals.com/media/wysiwyg/landing_pages/lighting/floorlamps.jpg" alt="Floor Lamps"> <div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Floor Lamps</div></div></div></a></li>
-<li class="items5"><a href="/lighting/wall-lights.html"> <img src="/media/wysiwyg/top_nav/lighting/WALL.jpg" alt="Wall Lights"> <div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Wall Lights</div></div></div></a></li>
-<li class="items5"><a href="/lighting/bulbs-and-fittings.html"> <img src="/media/wysiwyg/landing_pages/lighting/bulbs.jpg" alt="Bulbs"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Bulbs and Fittings</div></div></div></a></li>
-</ul></li><li class="sub_block_2 sub_block"><span class="brands">Brands</span><ul class="level0 block_1_content block_2_children"><li class="items5"><a href="/brand/tom-dixon.html"> <img src="/media/wysiwyg/top_nav/lighting/tomdixon.jpg" alt="Tom Dixon Lighting"> <div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Tom Dixon</div></div></div></a></li>
-<li class="items5"><a href="/brand/flos.html"> <img src="https://www.heals.com/media/wysiwyg/home/flos-logo.jpg" alt="Flos Designer Lighting"> <div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Flos</div></div></div></a></li>
-<li class="items5"><a href="/brand/skinflint.html"><img src="https://www.heals.com/media/wysiwyg/home/skinflintmain.jpg" alt="skinflint lighting"> <div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Skinflint</div></div></div></a></li>
-<li class="items5"><a href="/collections/heal-s-lighting.html"> <img src="/media/wysiwyg/top_nav/heals-lighting.jpg" alt="Heals Lighting"> <div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Heals Lighting</div></div></div></a></li>
-<li class="items5"><a href="/brand.html"> <img src="/media/wysiwyg/top_nav/furniture/allbrands1.jpg" alt="Lighting Brands"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Lighting Brands</div></div></div></a></li></ul></li><li class="sub_block_3 sub_block"><span class="designers">Designers</span><ul class="level0 block_1_content block_3_children"><li class="items5"><a href="/brand/tom-dixon.html"> <img src="/media/wysiwyg/top_nav/lighting/tomdixon_block1.jpg" alt="Tom Dixon Lighting"> <div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Tom Dixon Lighting</div></div></div></a></li>
-<li class="items5"><a href="/designer/philippe-starck.html"> <img src="/media/wysiwyg/top_nav/lighting/philippestarck_block.jpg" alt="Philippe Starck Lighting"> <div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Philippe Starck Lighting </div></div></div></a></li>
-<li class="items5"><a href="/designer/george-nelson.html"> <img src="/media/wysiwyg/top_nav/lighting/georgenelson_block.jpg" alt="George Nelson Lighting"> <div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">George Nelson Lighting</div></div></div></a></li>
-<li class="items5"><a href="/designer/ferruccio-laviani.html"> <img src="/media/wysiwyg/top_nav/lighting/ferruccio_block.jpg" alt="Ferruccio Lighting"> <div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Ferruccio Laviani Lighting</div></div></div></a></li>
-<li class="items5"><a href="/designer.html"> <img src="/media/wysiwyg/top_nav/furniture/viewdesigners1.jpg" alt="All Lighting Designers"> <div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Lighting Designers</div></div></div></a></li></ul></li><li class="sub_block_4 sub_block"><span class="quick-find">Quick Find</span><ul class="level0 block_1_content block_4_children"><li class="level1 nav-1-1 first parent" style="min-height: auto; height: 226px;"><a href="/lighting.html" class="level1 has-children">Lighting by Room</a>
-<ul class="level1">
-<li class="level2 view-all"><a class="level2" href="/lighting/quick-find/living-room-lighting.html">Living room Lighting</a></li>
-<li class="level2 nav-1-1-1 first"><a href="/lighting/quick-find/dining-room-lighting.html" class="level2 ">Dining room Lighting</a></li>
-<li class="level2 nav-1-1-2"><a href="/lighting/quick-find/bedroom-lighting.html" class="level2 ">Bedroom Lighting</a></li>
-<li class="level2 nav-1-1-3"><a href="/lighting/quick-find/kitchen-lighting.html" class="level2 ">Kitchen Lighting</a></li>
-<li class="level2 nav-1-1-4"><a href="/lighting/quick-find/bathroom-lighting.html" class="level2 ">Bathroom Lighting</a></li>
-<li class="level2 nav-1-1-5"><a href="/lighting/quick-find/outdoor-lights.html" class="level2 ">Outdoor Lighting</a></li>
-</ul>
+<li class="level1 items6 parent">
+	<a href="/designer.html" class="level1 has-children">DESIGNERS</a>
+	<ul class="level1">
+
+		<li class="level2 first">
+			<a href="/designer/rob-scarlett.html" class="level2">Rob Scarlett</a>
+		</li>
+		<li class="level2">
+			<a href="/designer/matthew-hilton.html" class="level2">Matthew Hilton</a>
+		</li>
+		<li class="level2">
+			<a href="/designer/charles-and-ray-eames.html" class="level2">Charles &amp; Ray Eames</a>
+		</li>
+		<li class="level2">
+			<a href="/designer/arne-jacobson.html" class="level2">Arne Jacobsen</a>
+		</li>
+		<li class="level2 last">
+			<a href="/designer.html" class="level2"><strong>View All Designers</strong></a>
+		</li>
+	</ul>
 </li>
-<li class="level1 nav-1-2 parent" style="min-height: auto; height: 226px;"><a href="/lighting/floor-lamps.html" class="level1 has-children">Lamps</a>
-<ul class="level1">
-<li class="level2 nav-1-1-1 first"><a class="level2" href="/lighting/quick-find/floor-standing-lamps.html">Floor Standing Lamps</a></li>
-<li class="level2 nav-1-1-2"><a href="/lighting/quick-find/desk-lamps.html" class="level2 ">Desk Lamps</a></li>
-<li class="level2 nav-1-1-3"><a href="/lighting/quick-find/lamp-shades.html" class="level2 ">Lamp Shades</a></li>
-<li class="level2 nav-1-1-4"><a href="/lighting/quick-find/bedroom-lamps.html" class="level2 ">Bedroom Lamps</a></li>
-<li class="level2 nav-1-1-5"><a href="/lighting/quick-find/reading-lamps.html" class="level2 ">Reading Lights</a></li>
-</ul>
+
+<li class="level1 nav-1-6 last parent items6" style="min-height: auto; height: 232px;">
+<a href="/brand/designer-collections.html"><img src="/media/wysiwyg/top_nav/designer-collections-sq.jpg" alt="Designer Collections"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Heal's Designer Collections</div></div></div>
+</a></li><a href="/brand/designer-collections.html">
+</a></ul></li></ul></li><li class="level0 nav-5 parent"><a href="https://www.heals.com/bedroom.html" class="level0 has-children">Bedroom</a><ul class="level0-top "><li class="sub_block_1 sub_block"><ul class="level0 block_1_content block_1_children full_width "><li class="level1 parent first">
+	<a href="/bedroom/bedroom-furniture.html" class="level1 has-children">Bedroom Furniture</a>
+	<ul class="level1">
+		<li class="level2 view-all">
+			<a class="level2" href="/bedroom/bedroom-furniture.html">View All Bedroom Furniture</a>
+		</li>
+		<li class="level2 first">
+			<a href="/bedroom/bedroom-furniture/beds.html" class="level2 ">Bed Frames</a>
+		</li>
+		<li class="level2">
+			<a href="/bedroom/bedroom-furniture/chest-of-drawers.html" class="level2 ">Chest of Drawers</a>
+		</li>
+		<li class="level2">
+			<a href="/bedroom/bedroom-furniture/bedside-tables.html" class="level2 ">Bedside Tables</a>
+		</li>
+		<li class="level2">
+			<a href="/bedroom/bedroom-furniture/dressing-tables.html" class="level2 ">Dressing Tables</a>
+		</li>
+		<li class="level2 last">
+			<a href="/bedroom/bedroom-furniture/wardrobes.html" class="level2 ">Wardrobes</a>
+		</li>
+	</ul>
 </li>
-<li class="level1 nav-1-3 parent" style="min-height: auto; height: 226px;"><a href="/lighting/ceiling-lights.html" class="level1 has-children">Ceiling Lights</a>
-<ul class="level1">
-<li class="level2 nav-1-1-1 first"><a class="level2" href="/lighting/quick-find/pendant-lights.html">Pendant Lights</a></li>
-<li class="level2 nav-1-1-2"><a href="/lighting/quick-find/spot-lights.html" class="level2 ">Spot Lights</a></li>
-<li class="level2 nav-1-1-3"><a href="/lighting/quick-find/chandeliers.html" class="level2 ">Chandeliers</a></li>
-<li class="level2 nav-1-1-4"><a href="/lighting/quick-find/suspension-lights.html" class="level2 ">Suspension Lights</a></li>
-<li class="level2 nav-1-1-5"><a href="/lighting/quick-find/kitchen-ceiling-lights.html" class="level2 ">Kitchen Ceiling Lights</a></li>
-</ul>
+<li class="level1 parent">
+	<a href="/bedroom/mattresses.html" class="level1 ">Mattresses</a>
+	<ul class="level1">
+		<li class="level2 view-all">
+			<a class="level2" href="/bedroom/mattresses.html">View All Mattresses</a>
+		</li>
+		<li class="level2 first">
+			<a href="/bedroom/mattresses.html" class="level2">Mattresses</a>
+		</li>
+		<li class="level2">
+			<a href="/bedroom/mattresses-and-divans.html" class="level2">Mattresses and Divans</a>
+		</li>
+		<li class="level2">
+			<a href="/bedroom/headboards.html" class="level2">Headboards</a>
+		</li>
+		<li class="level2 last">
+			<a href="/bedroom/mattress-toppers-and-protectors.html" class="level2">Mattress Toppers and Protectors</a>
+		</li>
+	</ul>
 </li>
-<li class="level1 nav-1-4 parent" style="min-height: auto; height: 226px;"><a href="/lighting/quick-find/decorative-lighting.html" class="level1 has-children">Decorative Lighting</a>
-<ul class="level1">
-<li class="level2 nav-1-1-1 first"><a href="/lighting/quick-find/copper-lighting.html" class="level2 ">Copper Lighting</a></li>
-<li class="level2 nav-1-1-2"><a href="/lighting/quick-find/industrial-lighting.html" class="level2 ">Industrial Lighting</a></li>
-<li class="level2 nav-1-1-3"><a href="/lighting/quick-find/glass-lighting.html" class="level2 ">Glass Lighting</a></li>
-<li class="level2 nav-1-1-4"><a href="/lighting/quick-find/neon-lights.html" class="level2 ">Neon Lighting</a></li>
-<li class="level2 nav-1-1-5"><a href="/lighting/quick-find/lighting-flex.html" class="level2 ">Lighting Flex</a></li>
-</ul>
+<li class="level1 parent">
+	<a href="/bedroom/bedding.html" class="level1 has-children">Bedding</a>
+	<ul class="level1">
+		<li class="level2 view-all">
+			<a class="level2" href="/bedroom/bedding.html">View All Bedding</a>
+		</li>
+		<li class="level2 first">
+			<a href="/bedroom/bedding/bed-linen.html" class="level2 ">Bed Linen</a>
+		</li>
+		<li class="level2 last">
+			<a href="/bedroom/bedding/duvets-and-pillows.html" class="level2 ">Duvets and Pillows</a>
+		</li>
+	</ul>
 </li>
-<li class="level1 nav-1-5 parent" style="min-height: auto; height: 226px;"><a href="/brand/" class="level1 has-children">Designer Lighting</a>
-<ul class="level1">
-<li class="level2 nav-1-1-1 first"><a class="level2" href="/collections/tom-dixon.html">Tom Dixon Lighting</a></li>
-<li class="level2 nav-1-1-2"><a href="/collections/flos.html" class="level2 ">Flos Lighting</a></li>
-<li class="level2 nav-1-1-3"><a href="/collections/skinflint.html" class="level2 ">Skinflint Lighting</a></li>
-<li class="level2 nav-1-1-4"><a href="/collections/anglepoise.html" class="level2 ">Anglepoise Lighting</a></li>
-<li class="level2 nav-1-1-5"><a href="/collections/seletti.html" class="level2 ">Seletti Lighting</a></li>
-</ul>
+<li class="level1 parent">
+	<a href="#" class="level1 has-children">Bedroom Ranges</a>
+	<ul class="level1">
+		<li class="level2 first">
+			<a href="/collections/brunel.html" class="level2 ">Brunel</a>
+		</li>
+		<li class="level2">
+			<a href="/collections/pinner.html" class="level2 ">Pinner</a>
+		</li>
+
+		<li class="level2">
+			<a href="/collections/fawn.html" class="level2 ">Fawn</a>
+		</li>
+		<li class="level2">
+			<a href="/collections/blythe.html" class="level2 ">Blythe</a>
+		</li>
+		<li class="level2 last">
+			<a href="/collections/pinto.html" class="level2 ">Pinto</a>
+		</li>
+	</ul>
 </li>
-</ul></li></ul></li><li class="level0 nav-5 parent"><a href="https://www.heals.com/collections.html" class="level0 has-children">Collections</a><ul class="level0-top "><li class="sub_block_1 sub_block"><span class="collections">Collections</span><ul class="level0 block_1_content block_1_children"><li class="items5"><a href="/collections/modern-british-collection.html"><img src="/media/wysiwyg/top_nav/collections/modernbritish_block.jpg" alt="Modern British Furniture"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Modern British Collection</div></div></div></a></li>
-<li class="items5"><a href="/collections/italian-country-collection.html"><img src="/media/wysiwyg/top_nav/collections/italiancountry_block.jpg" alt="Italian Country Furniture"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Italian Country Collection</div></div></div></a></li>
-<li class="items5"><a href="/collections/mid-century-modern-collection.html"><img src="/media/wysiwyg/top_nav/collections/midcentury_block.jpg" alt="Mid Century Modern Furniture"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Mid Century Modern Collection</div></div></div></a></li>
-<li class="items5"><a href="/collections/industrial-chic-collection.html"><img src="/media/wysiwyg/top_nav/collections/industrial_block.jpg" alt="Industrial Chic Furniture"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Industrial Chic Collection</div></div></div></a></li>
-<li class="items5"><a href="/collections/ambrose-collection.html"><img src="/media/wysiwyg/top_nav/collections/ambrose_block.jpg" alt="Ambrose"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Ambrose</div></div></div></a></li></ul></li><li class="sub_block_2 sub_block"><span class="living-with-colour">Living With Colour</span><ul class="level0 block_1_content block_2_children"><li class="items5"><a href="/collections/update-your-space-blue.html"><img src="/media/wysiwyg/top_nav/collections/blue_block.jpg" alt="Blue"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Blue</div></div></div></a></li>
-<li class="items5"><a href="/collections/update-your-space-marble.html"><img src="/media/wysiwyg/top_nav/collections/MARBLE2.jpg" alt="Marble"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Marble</div></div></div></a></li>
-<li class="items5"><a href="/collections/update-your-space-copper.html"><img src="/media/wysiwyg/top_nav/collections/copper_block.jpg" alt="Copper"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Copper</div></div></div></a></li>
-<li class="items5"><a href="/collections/update-your-space-grey.html"><img src="/media/wysiwyg/top_nav/collections/grey_block.jpg" alt="Grey"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Grey</div></div></div></a></li>
-<li class="items5"><a href="/collections/update-your-space-pastels.html"><img src="/media/wysiwyg/top_nav/collections/pastel_block.jpg" alt="Pastels"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Pastel</div></div></div></a></li>
-</ul></li><li class="sub_block_3 sub_block"><span class="furniture-ranges">Furniture Ranges</span><ul class="level0 block_1_content block_3_children"><li class="items5"><a href="/collections/brunel.html"><img src="/media/wysiwyg/top_nav/collections/brunel-range.jpg" alt="Brunel Range"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Brunel</div></div></div></a></li>
-<li class="items5"><a href="/collections/fawn.html"><img src="/media/wysiwyg/top_nav/collections/fawn-range.jpg" alt="Fawn Range"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Fawn</div></div></div></a></li>
-<li class="items5"><a href="/collections/pinner.html"><img src="/media/wysiwyg/top_nav/collections/pinner-range.jpg" alt="Pinner Range"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Pinner</div></div></div></a></li>
-<li class="items5"><a href="/collections/dodie.html"><img src="/media/wysiwyg/top_nav/collections/dodie-range.jpg" alt="Dodie Range"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Dodie</div></div></div></a></li>
-<li class="items5"><a href="/collections/risborough.html"><img src="/media/wysiwyg/top_nav/collections/risborough-range.jpg" alt="Risborough"><div class="overlay-content white-overlay"><div class="vtable"><div class="vcell">Risborough</div></div></div></a></li></ul></li></ul></li><li class="level0 nav-6 last"><a href="https://www.heals.com/clearance.html" class="level0 ">Clearance</a></li> </ol>
-</nav>
-</div>
- 
-<div class="skip-links">
-<a href="https://www.heals.com/stores/" title="Our Stores" class="skip-link">
-<i class="icon icon-find"></i>
-</a>
-<a href="#" class="skip-link skip-search">
-<i class="icon icon-search"></i>
-</a>
-<a href="#header-account" class="skip-link skip-nav skip-more">
-<span class="icon icon-more"></span>
-<span class="text">MENU</span>
-</a>
-<a href="#mini-basket" class="skip-link skip-cart mobile-basket">
-<span class="icon bag"></span>
-<span class="basket-count count"></span>
-</a>
-</div>
-</div>
- 
-<div id="header-search" class="skip-content">
-<form id="search_mini_form" action="https://www.heals.com/catalogsearch/result/" method="get">
-<div class="input-box">
-<label for="search">Search:</label>
-<input id="search" type="search" name="q" value="" class="input-text required-entry" maxlength="128" placeholder="Please enter your search term here...">
-<button type="submit" title="Search" class="button search-button"><span><span>Search</span></span></button>
-</div>
-<div id="search_autocomplete" class="search-autocomplete"></div>
-<script type="text/javascript">
-    //<![CDATA[
-        var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
-    //]]>
-    </script>
-</form>
-</div>
- 
-<div id="header-account" class="skip-content">
-<ul>
-<li class="second-nav icon-account"><a href="/customer/account/">My Account</a></li>
-<li class="second-nav icon-heritage"><a href="/heritage">Our Heritage</a></li>
-<li class="second-nav icon-calendar"><a href="/events">Events</a></li>
-<li class="second-nav icon-blog"><a href="/blog/">Blog</a></li>
-<li class="second-nav icon-phone"><a href="/contact-us">Contact Us</a></li>
-<li class="second-nav icon-find"><a href="/stores">Our Stores</a></li>
-<li class="second-nav icon-guides"><a href="#">Buying Guides</a>
-<ul class="level0">
-<li><a href="/buying-care-guides/">All Buying Guides</a></li>
-<li><a href="/buying-care-guides/buying-guide-sofa">Sofa Buying Guide</a></li>
-<li><a href="/buying-care-guides/buying-guide-mattresses">Mattress Buying Guide</a></li>
-<li><a href="/buying-care-guides/buying-guide-bed-frames">Bed Buying Guide</a></li>
-<li><a href="/buying-care-guides/buying-guide-lighting">Lighting Buying Guide</a></li>
-<li><a href="/buying-care-guides/buying-guide-light-bulb">Light Bulb Buying Guide</a></li>
-<li><a href="/buying-care-guides/buying-guide-rugs">Rug Buying Guide</a></li>
-<li><a href="/buying-care-guides/buying-guide-duvet-pillow">Duvet &amp; Pillows Buying Guide</a></li>
-<li><a href="/buying-care-guides/buying-guide-bed-linen">Bed Linen Buying Guide</a></li>
-<li><a href="/buying-care-guides/buying-guide-tableware">Tableware Buying Guide</a></li>
-<li><a href="/buying-care-guides/care-guide-sofas">Sofa Care Guide</a></li>
-<li><a href="/buying-care-guides/care-guide-mattresses">Mattress Care Guide</a></li>
-<li><a href="/buying-care-guides/care-guide-leather">Leather Care Guide</a></li>
-<li><a href="/buying-care-guides/care-guide-wood">Wood Care Guide</a></li>
-<li><a href="/buying-care-guides/care-guide-marble">Marble Care Guide</a></li>
-<li><a href="/buying-care-guides/furniture-access-guideline">Access Guidelines</a></li>
-</ul>
+<li class="level1 parent last">
+	<a href="/home-accessories/bathroom.html" class="level1 has-children">Bathroom</a>
+	<ul class="level1">
+		<li class="level2 view-all">
+			<a class="level2" href="/home-accessories/bathroom.html">View All Bathroom</a>
+		</li>
+		<li class="level2 first">
+			<a href="/home-accessories/bathroom/bath-linen.html" class="level2 ">Bath Linen</a>
+		</li>
+		<li class="level2 last">
+			<a href="/home-accessories/bathroom/storage.html" class="level2 ">Bathroom Storage</a>
+		</li>
+	</ul>
+</li></ul></li></ul></li><li class="level0 nav-6 parent"><a href="https://www.heals.com/home-accessories.html" class="level0 has-children">Home Accessories</a><ul class="level0-top "><li class="sub_block_1 sub_block"><ul class="level0 block_1_content block_1_children full_width "><li class="level1 items6 first parent">
+	<a href="/home-accessories/rugs.html" class="level1 has-children">Rugs</a>
+	<ul class="level1">
+		<li class="level2 view-all">
+			<a class="level2" href="/home-accessories/rugs.html">View All Rugs</a>
+		</li>
+                <li class="level2 first">
+			<a href="/home-accessories/rugs/pattern-rugs.html" class="level2 ">Pattern</a>
+		</li>
+                <li class="level2 first">
+			<a href="/home-accessories/rugs/plain-rugs.html" class="level2 ">Plain</a>
+		</li>
+		<li class="level2 first">
+			<a href="/home-accessories/rugs/flatweave.html" class="level2 ">Flatweave</a>
+		</li>
+		<li class="level2">
+			<a href="/home-accessories/rugs/tufted.html" class="level2 ">Tufted</a>
+		</li>
+		<li class="level2">
+			<a href="/home-accessories/rugs/hide.html" class="level2 ">Sheepskin and Hide</a>
+		</li>
+		<li class="level2">
+			<a href="/home-accessories/rugs/round.html" class="level2 ">Round</a>
+		</li>
+		<li class="level2">
+			<a href="/home-accessories/rugs/rectangle.html" class="level2 ">Rectangle</a>
+		</li>
+		<li class="level2 last">
+			<a href="/home-accessories/rugs/runners.html" class="level2 ">Runners</a>
+		</li>
+	</ul>
 </li>
-<li class="second-nav icon-service"><a href="#">More Than A Store</a>
-<ul class="level0">
-<li><a href="/more-than-a-store/heals-club">The Heal's Club</a></li>
-<li><a href="/more-than-a-store/stylingservice">Styling Service</a></li>
-<li><a href="/heals-community">#HealsHome Gallery</a></li>
-<li><a href="/more-than-a-store/bespoke-services">Bespoke Services</a></li>
-<li><a href="/more-than-a-store/antique-department">Antique Department</a></li>
-<li><a href="/more-than-a-store/forge-and-co">Restaurant</a></li>
-<li><a href="/more-than-a-store/abigail-ahern">Flower Shop</a></li>
-</ul>
+<li class="level1 items6 parent">
+	<a href="/home-accessories/soft-furnishings.html" class="level1 has-children">Cushions and Throws</a>
+	<ul class="level1">
+		<li class="level2 view-all">
+			<a class="level2" href="/home-accessories/soft-furnishings.html">View All Cushions and Throws</a>
+		</li>
+		<li class="level2 first">
+			<a href="/home-accessories/soft-furnishings/cushions.html" class="level2 ">Cushions</a>
+		</li>
+		<li class="level2">
+			<a href="/home-accessories/soft-furnishings/throws-and-blankets.html" class="level2 ">Throws and Blankets</a>
+		</li>
+		<li class="level2 last">
+			<a href="/home-accessories/soft-furnishings/fur.html" class="level2 ">Fur Cushions and Throws</a>
+		</li>
+	</ul>
 </li>
-<li class="second-nav icon-book"><a href="#">About Us</a>
-<ul class="level0">
-<li><a href="/our-careers">Careers </a></li>
-<li><a href="/welcome-to-press">Press</a></li>
-<li><a href="/price-promise">Price Promise</a></li>
-<li><a href="/sofa-guarantee">Sofa Guarantee</a></li>
-<li><a href="/guaranteed-lowest-price">Guaranteed Lowest Price</a></li>
-<li><a href="/gift-vouchers">Gift Vouchers </a></li>
-</ul>
+<li class="level1 items6 parent">
+	<a href="/home-accessories/mirrors.html" class="level1 has-children">Mirrors</a>
+	<ul class="level1">
+		<li class="level2 view-all">
+			<a class="level2" href="/home-accessories/mirrors.html">View All Mirrors</a>
+		</li>
+		<li class="level2 first">
+			<a href="/home-accessories/mirrors/round-mirrors.html" class="level2 ">Round Mirrors</a>
+		</li>
+		<li class="level2">
+			<a href="/home-accessories/mirrors/floor-mirrors.html" class="level2 ">Floor Mirrors</a>
+		</li>
+		<li class="level2">
+			<a href="/home-accessories/mirrors/square-mirrors.html" class="level2 ">Square Mirrors</a>
+		</li>
+		<li class="level2">
+			<a href="/home-accessories/mirrors/rectangle-mirrors.html" class="level2 ">Rectangle Mirrors</a>
+		</li>
+		<li class="level2 last">
+			<a href="/home-accessories/mirrors/decorative-mirrors.html" class="level2 ">Decorative Mirrors</a>
+		</li>
+	</ul>
 </li>
-<li class="second-nav icon-faq"><a href="#">Order Information</a>
-<ul class="level0">
-<li><a href="/delivery">Delivery </a></li>
-<li><a href="/interest-free-credit">Heal's Finance</a></li>
-<li><a href="/click-collect">Click &amp; Collect</a></li>
-<li><a href="/returns-exchanges">Returns &amp; Exchanges</a></li>
-</ul>
+<li class="level1 items6 nav-5-4 active parent">
+	<a href="/home-accessories/decorative-home.html" class="level1 has-children">Decorative Home</a>
+	<ul class="level1">
+		<li class="level2 view-all">
+			<a class="level2" href="/home-accessories/decorative-home.html">View All Decorative Home</a>
+		</li>
+		<li class="level2 first">
+			<a href="/home-accessories/decorative-home/clocks.html" class="level2 ">Clocks</a>
+		</li>
+		<li class="level2">
+			<a href="/home-accessories/decorative-home/frames.html" class="level2 ">Frames</a>
+		</li>
+		<li class="level2">
+			<a href="/home-accessories/decorative-home/home-fragrance.html" class="level2 ">Scented Candles &amp; Diffuser</a>
+		</li>
+		<li class="level2">
+			<a href="/home-accessories/decorative-home/vases-and-faux-flowers.html" class="level2 ">Vases and Faux Flowers</a>
+		</li>
+		<li class="level2">
+			<a href="/home-accessories/decorative-home/candle-holders.html" class="level2 ">Candle Holders</a>
+		</li>
+		<li class="level2 last">
+			<a href="/home-accessories/decorative-home/decorative-objects.html" class="level2 ">Decorative Objects</a>
+		</li>
+	</ul>
 </li>
-<li class="second-nav icon-trade"><a href="/trade">Trade</a></li>
-<li class="second-nav icon-info"><a href="#">Site Information</a>
-<ul class="level0">
-<li><a href="/terms-conditions">Terms &amp; Conditions</a></li>
-<li><a href="/cookie-privacy-policy">Cookies &amp; Privacy Policy</a></li>
-<li><a href="/security">Security</a></li>
-</ul>
+<li class="level1 items6 parent">
+	<a href="/home-accessories/dining.html" class="level1 has-children">Dining</a>
+	<ul class="level1">
+		<li class="level2 view-all">
+			<a class="level2" href="/home-accessories/dining.html">View All Dining</a>
+		</li>
+		<li class="level2 first">
+			<a href="/home-accessories/dining/tableware.html" class="level2 ">Tableware</a>
+		</li>
+		<li class="level2">
+			<a href="/home-accessories/dining/glassware-and-barware.html" class="level2">Glassware and Barware</a>
+		</li>
+		<li class="level2">
+			<a href="/home-accessories/dining/cutlery.html" class="level2">Cutlery</a>
+		</li>
+
+		<li class="level2">
+			<a href="/home-accessories/dining/bowls.html" class="level2">Bowls</a>
+		</li>
+		<li class="level2 last">
+			<a href="/home-accessories/dining/mugs.html" class="level2">Mugs</a>
+		</li>
+	</ul>
 </li>
-</ul> </div>
-</div>
+<li class="level1 items6 last parent">
+	<a href="/home-accessories/kitchen.html" class="level1 has-children">Kitchen </a>
+	<ul class="level1">
+		<li class="level2 view-all">
+			<a class="level2" href="/home-accessories/kitchen.html">View All Kitchen </a>
+		</li>
+		<li class="level2 first">
+			<a href="/home-accessories/kitchen/storage-and-utility.html" class="level2 ">Storage and Utility</a>
+		</li>
+               <li class="level2">
+			<a href="/home-accessories/kitchen/serveware.html" class="level2 ">Serveware</a>
+		</li>
+		<li class="level2">
+			<a href="/home-accessories/kitchen/cooking-and-baking.html" class="level2 ">Cooking and Baking</a>
+		</li>
+		<li class="level2">
+			<a href="/home-accessories/kitchen/kitchen-linens.html" class="level2">Kitchen Linens</a>
+		</li>
+		<li class="level2">
+			<a href="/home-accessories/dining/tea-and-coffee.html" class="level2 ">Tea and Coffee</a>
+		</li>
+		<li class="level2">
+			<a href="/christmas/christmas-food.html" class="level2 ">Food and Drink</a>
+		</li>
+		<li class="level2 last">
+			<a href="/home-accessories/kitchen/trays.html" class="level2 ">Trays</a>
+		</li>
+	</ul>
+</li></ul></li></ul></li><li class="level0 nav-7 last parent"><a href="https://www.heals.com/sale.html" class="level0 has-children">Clearance</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="https://www.heals.com/sale.html">View All Clearance</a></li><li class="level1 nav-7-1 first"><a href="https://www.heals.com/sale/furniture-sale.html" class="level1 ">Furniture Clearance</a></li><li class="level1 nav-7-2"><a href="https://www.heals.com/sale/home-sale.html" class="level1 ">Home Clearance</a></li><li class="level1 nav-7-3 last"><a href="https://www.heals.com/sale/lighting-sale.html" class="level1 ">Lighting Clearance</a></li></ul></li>        </ol>
+    </nav>
+<!--/{TOPMENU_e82d46098cbfa9fca5605b398135b46b}-->            </div>
+        </div>
+        <!-- Account -->
+        <div id="header-account" class="skip-content">
+            <ul>
+    <li class="second-nav icon-account"><a href="/customer/account">My Account</a></li>
+    <li class="second-nav icon-brands"><a href="/blog/">Blog</a></li>
+    <li class="second-nav icon-living-with-color"><a href="/collections.html">Inspiration</a></li>
+    <li class="second-nav icon-heritage"><a href="/heritage">Our Heritage</a></li>
+    <li class="second-nav icon-calendar"><a href="/events">Events</a></li>
+    <li class="second-nav icon-phone"><a href="/contact-us">Contact Us</a></li>
+    <li class="second-nav icon-find"><a href="/stores">Our Stores</a></li>
+    <li class="second-nav icon-trade"><a href="/trade">Trade</a></li>
+    <li class="second-nav icon-careers"><a href="/our-careers">Careers at Heal's</a></li>
+    <li class="second-nav icon-account"><a href="/introduce-a-friend">Introduce a Friend</a></li>
+    <li class="second-nav icon-billing"><a href="#" rel="nofollow">Order Information</a>
+        <ul class="level0">
+            <li><a href="/delivery">Delivery </a></li>
+            <li><a href="/furniture-access-guideline">Access Guidelines</a></li>
+            <li><a href="/interest-free-credit">Heal's Finance</a></li>
+            <li><a href="/click-collect">Click &amp; Collect</a></li>
+            <li><a href="/returns-exchanges">Returns &amp; Exchanges</a></li>
+            <li><a href="/british-heart-foundation-furniture-collections">BHF Furniture Collections</a></li>
+        </ul>
+    </li>
+    <li class="second-nav icon-guides"><a href="#" rel="nofollow">Buying &amp; Care Guides</a>
+        <ul class="level0">
+            <li><a href="/buying-guides">All Buying Guides</a></li>
+            <li><a href="/buying-care-guides/buying-guide-sofa">Sofa Buying Guide</a></li>
+            <li><a href="/buying-care-guides/buying-guide-mattresses">Mattress Buying Guide</a></li>
+            <li><a href="/buying-care-guides/buying-guide-bed-frames">Bed Buying Guide</a></li>
+            <li><a href="/buying-care-guides/buying-guide-lighting">Lighting Buying Guide</a></li>
+            <li><a href="/buying-care-guides/buying-guide-light-bulb">Light Bulb Buying Guide</a></li>
+            <li><a href="/buying-care-guides/buying-guide-rugs">Rug Buying Guide</a></li>
+            <li><a href="/buying-care-guides/buying-guide-duvet-pillow">Duvet &amp; Pillows Buying Guide</a></li>
+            <li><a href="/buying-care-guides/buying-guide-bed-linen">Bed Linen Buying Guide</a></li>
+            <li><a href="/buying-care-guides/buying-guide-tableware">Tableware Buying Guide</a></li>
+            <li><a href="/care-guides">All Care Guides</a></li>
+            <li><a href="/buying-care-guides/care-guide-sofas">Sofa Care Guide</a></li>
+            <li><a href="/buying-care-guides/care-guide-mattresses">Mattress Care Guide</a></li>
+            <li><a href="/buying-care-guides/care-guide-leather">Leather Care Guide</a></li>
+            <li><a href="/buying-care-guides/care-guide-wood">Wood Care Guide</a></li>
+            <li><a href="/buying-care-guides/care-guide-marble">Marble Care Guide</a></li>
+        </ul>
+    </li>
+    <li class="second-nav icon-service"><a href="#" rel="nofollow">More Than A Store</a>
+        <ul class="level0">
+            <li><a href="/more-than-a-store/heals-club">The Heal's Club</a></li>
+            <li><a href="/introduce-a-friend">Introduce a Friend</a></li>
+            <li><a href="/affiliates">Affiliates</a></li>
+            <li><a href="/heals-community">#HealsHome Gallery</a></li>
+            <li><a href="/heals-cafe">Heal's Café</a></li>
+            <li><a href="/more-than-a-store/bespoke-services">Bespoke Services</a></li>
+            <li><a href="/more-than-a-store/antique-department">Antique Department</a></li>
+            <li><a href="/more-than-a-store/abigail-ahern">Flower Shop</a></li>
+        </ul>
+    </li>
+    <li class="second-nav icon-book"><a href="#" rel="nofollow">About Us</a>
+        <ul class="level0">
+            <li><a href="/press-release">Press</a></li>
+            <li><a href="/price-promise">Price Promise</a></li>
+            <li><a href="/sofa-guarantee">Sofa Guarantee</a></li>
+            <li><a href="/guaranteed-lowest-price">Guaranteed Lowest Price</a></li>
+            <li><a href="/guardsman-furniture-insurance">Guardsman Furniture Insurance</a></li>
+            <li><a href="/gift-vouchers">Gift Vouchers</a></li>
+        </ul>
+    </li>
+    <li class="second-nav icon-info"><a href="#" rel="nofollow">Site Information</a>
+        <ul class="level0">
+            <li><a href="/terms-conditions">Terms &amp; Conditions - Online</a></li>
+            <li><a href="/terms-conditions-stores">Terms &amp; Conditions - Stores</a></li>
+            <li><a href="/cookie-privacy-policy">Cookies &amp; Privacy Policy</a></li>
+            <li><a href="/security">Security</a></li>
+            <li><a href="/preferences">Preferences</a></li>
+        </ul>
+    </li>
+</ul>        </div>
+    </div>
 </header>
-<div class="main-container col2-left-layout">
-<div class="main">
-<div class="breadcrumbs-wrapper">
-<div class="breadcrumbs">
-<ul>
-<li class="home">
-<a href="https://www.heals.com/" title="Go to Home Page">Home</a>
-<span>&gt; </span>
-</li>
-<li class="cms_page">
-<strong>Cookie and Privacy Policy</strong>
-</li>
-</ul>
-</div>
-</div>
-<div class="wrapper-max main-wrapper">
-<div class="col-left sidebar col-left-first"><div class="block block-cms-menu">
-<div class="block-title">
-<strong><span>Site Information</span></strong>
-</div>
-<div class="block-content">
-<ul>
-<li><a href="https://www.heals.com/delivery/"><span>Delivery</span></a></li>
-<li><a href="https://www.heals.com/interest-free-credit/"><span>Heal's Finance</span></a></li>
-<li><a href="https://www.heals.com/click-collect/"><span>Click &amp; Collect</span></a></li>
-<li><a href="https://www.heals.com/returns-exchanges/"><span>Returns &amp; Exchanges</span></a></li>
-<li><a href="https://www.heals.com/terms-conditions/"><span>Terms &amp; Conditions</span></a></li>
-<li><a href="https://www.heals.com/cookie-privacy-policy/"><span>Cookie &amp; Privacy Policy</span></a></li>
-<li><a href="https://www.heals.com/security/"><span>Security</span></a></li>
-</ul>
-</div>
+
+
+        <div class="main-container col2-left-layout">
+            <div class="main">
+                <div class="breadcrumbs-wrapper">
+                    <div class="breadcrumbs">
+    <ul>
+                    <li class="home">
+                            <a href="https://www.heals.com/" title="Go to Home Page">Home</a>
+                                        <span>&gt; </span>
+                        </li>
+                    <li class="cms_page">
+                            <strong>Cookie and Privacy Policy</strong>
+                                    </li>
+            </ul>
+</div> 
+                </div>
+                
+                
+                <div class="wrapper-max main-wrapper">
+                                                                                    <div class="col-left sidebar col-left-first"><div class="block block-cms-menu">
+	<div class="block-title">
+		<strong><span>Site Information</span></strong>
+	</div>
+	<div class="block-content">
+		<ul>
+			<li><a href="https://www.heals.com/delivery/"><span>Delivery</span></a></li>
+            <li><a href="https://www.heals.com/interest-free-credit/"><span>Heal's Finance</span></a></li>
+            <li><a href="https://www.heals.com/click-collect/"><span>Click &amp; Collect</span></a></li>
+			<li><a href="https://www.heals.com/returns-exchanges/"><span>Returns &amp; Exchanges</span></a></li>
+			<li><a href="https://www.heals.com/terms-conditions/"><span>Terms &amp; Conditions - Online</span></a></li>
+            <li><a href="https://www.heals.com/terms-conditions-stores/"><span>Terms &amp; Conditions - Stores</span></a></li>
+			<li><a href="https://www.heals.com/cookie-privacy-policy/"><span>Cookie &amp; Privacy Policy</span></a></li>
+            <li><a href="https://www.heals.com/security/"><span>Security</span></a></li>
+                       
+		</ul>
+	</div>
 </div></div>
-<div class="col-main">
-<div class="std"><div class="cms-layout">
+                                        <div class="col-main">
+                        <!--{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}--><!--/{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}-->                        <div class="std"><!--{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><!--/{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><div class="cms-layout">
 <div class="page-title">
 <h1>Cookie &amp; Privacy Policy</h1>
 </div>
@@ -528,50 +874,132 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 </ul>
 <p>A list of all the cookies used on the Website by category is set out below.</p>
 </div>
-</div></div> </div>
-<div class="col-left sidebar"></div>
-</div>
-</div>
-</div>
+</div></div>                    </div>
+                    <div class="col-left sidebar"></div>
+                </div>
+            </div>
+        </div>
+        <!-- CREAMUK -->
+<script>
+	var e = document.createElement("script");
+	e.async = true;
+	e.src = "https://ad.atdmt.com/m/a.js;m=11252201084270;cache=" + Math.random();
+	var s = document.getElementsByTagName("script")[0];
+	s.parentNode.insertBefore(e, s);
+</script>
+
+<!-- SmartFocus RDK (async) -->
+<script type="text/javascript">
+	window.sfrdk=window.sfrdk||function(){(sfrdk.q=sfrdk.q||[]).push(Array.prototype.slice.call(arguments))};sfrdk.l=+new Date;
+</script>
+<script async="" src="https://cdn.themessagecloud.com/libs/rdk/1.0.0/sf-rdk.min.js" type="text/javascript"></script>
+<!-- End SmartFocus RDK (async) -->
+<!-- Initialize RDK -->
+<script type="text/javascript">
+	window.sfrdk('_setConfig', {
+		accountId: 'e71f9dde-8328-4f67-9dee-1a7f62283b60',
+		authCode: 'u440pYC5oHiS',
+		authId: '751',
+		language: 'en',
+		visitorId: '',
+		email: ''
+	});
+</script>
+<!-- End Initialize RDK -->
+
+<script type="text/javascript">
+(function($, theme){
+
+	window.sfrdk('_browsePage', "Cookie and Privacy Policy");
+
+	var referrer = document.referrer
+	//Only external referral
+	if(referrer.indexOf('heals')< 0 ){
+		window.sfrdk('_referrer', referrer);
+	}
+
+	$(window).on('ajaxadd-tocart', function(data){
+		window.sfrdk('_addToCart', '');
+	});
+
+	$('#search_mini_form').on('submit', function(event) {
+		window.sfrdk('_search', $('#search').val());
+	});
+
+	$('#newsletter-validate-detail').on('submit', function(event) {
+		window.sfrdk('_subscribe', $('#newsletter').val());
+	});
+
+	$emptyCart = $('.shopping-cart-table .btn-empty');
+	if($emptyCart.length){
+		$emptyCart.on('click', function(event) {
+			window.sfrdk('_clearCart');
+		});
+	}
+
+	$removeProduct = $('#shopping-cart-table .btn-remove, #cart-sidebar .remove');
+	if($removeProduct.length){
+		$removeProduct.on('click', function(event) {
+			window.sfrdk('_removeFromCart', $(this).data('sku'));
+		});
+	}
+	/*window.sfrdk('_404page', '404page');*/
+})(jQuery, rbd.sF);
+</script><!-- SUB2 -->
+<script type="text/javascript" src="//webservices.sub2tech.com/CodeBase/LIVE/Min/sub2.js?LICENSEKEY=4c6cea99-10a6-443c-a7ca-9ead9c47194c&amp;trackPage=Y"></script>
+<script type="text/javascript">
+	var __s2tQ = __s2tQ || [];
+</script>
+
+
 <div class="fixed-basket">
-<div class="wrapper-fixed-basket">
-<div class="links">
-<ul>
-<li class="first"><a href="https://www.heals.com/customer/account/create/" title="Register">Register</a></li>
-<li class=" last"><a href="https://www.heals.com/customer/account/login/" title="Sign In">Sign In</a></li>
-</ul>
+	<div class="wrapper-fixed-basket">
+		<div class="links">
+        <ul>
+                                    <li class="first"><a href="https://www.heals.com/customer/account/create/" title="Register">Register</a></li>
+                                                <li class=" last"><a href="https://www.heals.com/customer/account/login/" title="Sign In">Sign In</a></li>
+                        </ul>
 </div>
-<div class="header-minicart" id="mini-basket">
+    	<div class="header-minicart" id="mini-basket">
+        	<!--{MINICART_54163c0f076b5773c962a4de529a1827}-->
+
 <a href="https://www.heals.com/checkout/cart/" data-target-element="#header-cart" class="skip-cart  no-count">
-<span class="icon icon-bag"></span>
-<span class="label">View Basket</span>
-<span class="count">0</span>
+    <span class="icon icon-bag"></span>
+    <span class="label">View Basket</span>
+    <span class="count">0</span>
 </a>
+
 <div id="header-cart" class="block block-cart skip-content">
-<div class="top-links-copy"></div>
- 
+	<div class="top-links-copy"></div>
+    <!--{CART_SIDEBAR_5e33b33adda5d71a8584062c29a9ab62}-->
 <div class="minicart-message ajax-message"></div>
+
 <div class="minicart-wrapper">
-<p class="empty">You have no items in your basket.</p>
-</div>
+
+                    <p class="empty">You have no items in your basket.</p>
+
+    </div>
+<!-- SUB2 BASKET -->
 <script type="text/javascript">
     var googleAnalyticsUniversalData = googleAnalyticsUniversalData || {};
     googleAnalyticsUniversalData['shoppingCartContent'] = [];
 </script>
- </div>
-</div>
-<div class="header-minicart hidden " id="mini-basket-2">
-<a href="#" data-target-element="#header-cart2" class="skip-cart samples  no-count">
-<span class="icon icon-bag"></span>
-<span class="label">View Samples</span>
-<span class="count2 samples">0</span>
-</a>
-<div id="header-cart2" class="block block-cart skip-content">
-<div class="minicart-wrapper samples">
-<p class="empty">You have no samples in your basket.</p>
-</div>
-</div>
-<script type="text/javascript">
+<!--/{CART_SIDEBAR_5e33b33adda5d71a8584062c29a9ab62}--></div>
+<!--/{MINICART_54163c0f076b5773c962a4de529a1827}-->    	</div>
+        <div class="header-minicart hidden " id="mini-basket-2">
+    <a href="#" data-target-element="#header-cart2" class="skip-cart samples  no-count">
+        <span class="icon icon-bag"></span>
+        <span class="label">View Samples</span>
+        <span class="count2 samples">0</span>
+    </a>
+
+    <div id="header-cart2" class="block block-cart skip-content">
+            <div class="minicart-wrapper samples">
+                    <p class="empty">You have no samples in your basket.</p>
+            </div>
+    </div>
+
+    <script type="text/javascript">
         //<![CDATA[
         bindSamplesCartEvents();
         cartUpdateSamplesCount(0);
@@ -681,66 +1109,167 @@ You must have JavaScript enabled in your browser to utilize the functionality of
         }
         //]]>
     </script>
+
 </div>
+    </div>
 </div>
-</div>
-<div class="footer-container">
-<div class="footer">
-<div class="feefo"><a href="https://www.feefo.com/feefo/viewvendor.jsp?logon=www.heals.co.uk" onclick="window.open(this.href,'Feefo','width=950,height=600,scrollbars,resizable');return false;"><img alt="Feefo logo" border="0" src="https://www.feefo.com/feefo/feefologo.jsp?logon=www.heals.co.uk&amp;template=service-white-150x38_en.png" title="See what our customers say about us"></a></div> <div class="block block-subscribe">
-<form action="https://www.heals.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
-<div class="block-content">
-<div class="form-subscribe-header">
-<label for="newsletter">Sign up to our newsletter</label>
-</div>
-<div class="newsletter-wrapper">
-<div class="input-box">
-<input type="email" autocapitalize="off" autocorrect="off" spellcheck="false" name="email" id="newsletter" placeholder="Enter your email" title="Sign up for our newsletter" class="input-text required-entry validate-email">
-</div>
-<div class="actions">
-<button type="submit" title="Subscribe" class="button"><span><span>Submit</span></span></button>
-</div>
-</div>
-</div>
-<input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuaGVhbHMuY29tL25ld3NsZXR0ZXItc3VjY2Vzcw,,">
-</form>
-<script type="text/javascript">
+                <div class="footer-container">
+    <div class="footer">
+    	<div class="feefo"><a href="https://www.feefo.com/feefo/viewvendor.jsp?logon=www.heals.co.uk" onclick="window.open(this.href,'Feefo','width=950,height=600,scrollbars,resizable');return false;"><img alt="Feefo logo" border="0" src="https://www.feefo.com/feefo/feefologo.jsp?logon=www.heals.co.uk&amp;template=service-white-150x38_en.png" title="See what our customers say about us"></a></div>    	<div class="block block-subscribe">
+    <form action="https://www.heals.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+        <div class="block-content">
+            <div class="form-subscribe-header">
+                <label for="newsletter">Sign up to our newsletter</label>
+            </div>
+            <div class="newsletter-wrapper">
+                <div class="input-box">
+                   <input type="email" autocapitalize="off" autocorrect="off" spellcheck="false" name="email" id="newsletter" placeholder="Enter your email" title="Sign up for our newsletter" class="input-text required-entry validate-email">
+                </div>
+                <div class="actions">
+                    <button type="submit" title="Subscribe" class="button"><span><span>Submit</span></span></button>
+                </div>
+            </div>
+        </div>
+        <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuaGVhbHMuY29tL25ld3NsZXR0ZXItc3VjY2Vzcw,,">
+    </form>
+    <script type="text/javascript">
     //<![CDATA[
         var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
     //]]>
     </script>
 </div>
-<div class="links social-media">
-<h4>Stay connected</h4>
+
+        <div class="links social-media">
+            <h4>Stay connected</h4>
 <ul>
-<li><a href="https://plus.google.com/+heals/posts" target="_blank" class="icon icon-googleplus"></a></li>
-<li><a href="https://www.facebook.com/Heals" target="_blank" class="icon icon-facebook"></a></li>
-<li><a href="https://twitter.com/Heals_Furniture" target="_blank" class="icon icon-twitter"></a></li>
-<li><a href="https://instagram.com/heals_furniture/" target="_blank" class="icon icon-instagram"></a></li>
-<li><a href="https://www.pinterest.com/heals_furniture/" target="_blank" class="icon icon-pinterest"></a></li>
-<li><a href="https://www.youtube.com/user/Healsfurniture" target="_blank" class="icon icon-youtube"></a></li>
+        <li><a href="https://plus.google.com/+heals/posts" target="_blank" class="icon icon-googleplus"></a></li>
+        <li><a href="https://www.facebook.com/Heals" target="_blank" class="icon icon-facebook"></a></li>
+	<li><a href="https://twitter.com/Heals_Furniture" target="_blank" class="icon icon-twitter"></a></li>
+	<li><a href="https://instagram.com/heals_furniture/" target="_blank" class="icon icon-instagram"></a></li>
+        <li><a href="https://www.pinterest.com/heals_furniture/" target="_blank" class="icon icon-pinterest"></a></li>
+       <li><a href="https://www.youtube.com/user/Healsfurniture" target="_blank" class="icon icon-youtube"></a></li>
 </ul>
-<h3 class="marketing-message">Good design. <span>Well made.</span></h3> </div>
-<address class="copyright">Heal's © 2016</address>
+<h3 class="marketing-message">Good design. <span>Well made.</span></h3>        </div>
+
+        <address class="copyright">Heal's © 2016</address>
+        
+    </div>
 </div>
-</div>
+                
+
+
+
 <div id="wishlist_edit_action_container"></div>
- 
-  
- 
- 
-<script type="text/javascript">
-    LocaytaTracking.initialiseClickTracking();
-</script>
- 
-<script type="text/javascript">
+<!--{WISHLISTS_81a68f0a2c20d094abfe2f4271986a47}--><!--/{WISHLISTS_81a68f0a2c20d094abfe2f4271986a47}-->        
+    
+        <!-- START PIWIK TRACKING CODE -->
+        <script type="text/javascript">
+            //<![CDATA[
+            var _paq = _paq || [];
+            (function(){ 
+				var u="//analytics.adsertor.co.uk/";
+			    _paq.push(['setSiteId', 92]);
+                _paq.push(['setTrackerUrl', u+'piwik.php']);
+				_paq.push(['setConversionAttributionFirstReferrer', true]);
+                                                                
+                
+                
+                _paq.push(['trackPageView']);
+                _paq.push(['enableLinkTracking']);
+                var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.defer=true; g.async=true; g.src=u+'piwik.js';
+                s.parentNode.insertBefore(g,s); })();
+        </script>
+        <noscript><p><img src="//analytics.adsertor.co.uk/piwik.php?idsite=92" style="border:0" alt="" /></p></noscript>
+        <!-- END PIWIK TRACKING CODE -->
+
+    
+    <script type="text/javascript">
       (function () {
         var uvTemp = {"version":"1.2.2","page":{"type":"content","breadcrumb":[]},"user":{"has_transacted":false,"customer_group":0,"returning":false,"language":"en_GB"}};
         window.universal_variable = $H(window.universal_variable || {}).merge(uvTemp).toObject();
       })();
     </script>
-<script type="text/javascript" src="//d3c3cq33003psk.cloudfront.net/opentag-94633-1111715.js" async="" defer=""></script>
-<br>
+    <script type="text/javascript" src="//d3c3cq33003psk.cloudfront.net/opentag-94633-1111715.js" async="" defer=""></script>
+<script type="text/javascript" src="//heals.resultspage.com/autocomplete/sli-rac.config.js"></script><script type="text/javascript" src="//static.vee24.com/v24/veedesk/v24Embedded.js" async=""></script>
 <script type="text/javascript">
+function v24ClientInitialise() {
+	//Log Open Panel
+	vee24.events.logPanelOpenRequest = function(){ 
+		rbd.sF.sendEvent('Vee24 Live Help', 'Panel Opened', 'Panel Opened by User'); 
+	} 
+	//Auto Nudge Accepted 
+	vee24.events.logUserSaysYesToAutoNudge = function(){ 
+		rbd.sF.sendEvent('Vee24 Live Help', 'Nudge Accepted', 'Nudge Accepted by User'); 
+	} 
+	//Tab Closed
+	vee24.events.tabClosed = function(){ 
+		rbd.sF.sendEvent('Vee24 Live Help', 'Tab Closed', 'Tab Closed by customer'); 
+	} 
+	//Tab Opened
+	vee24.events.tabOpened = function(){ 
+		rbd.sF.sendEvent('Vee24 Live Help', 'Tab Opened', 'Tab Opened by customer');
+	} 
+	//log User Sees Call back No Operators Available
+	vee24.events.logUserSeesCallbackNoOperatorsAvailable = function(){ 
+		rbd.sF.sendEvent('Vee24 Live Help', 'User Sees Call back No Operators Available', 'User Sees Call back No Operators Available');
+	}
+	//log Submit Callback
+	vee24.events.logSubmitCallback = function(){ 
+		rbd.sF.sendEvent('Vee24 Live Help', 'Submit Call back', 'Submit Callback by customer');
+	} 
+	//help Me Now Request
+	vee24.events.helpMeNowRequest = function(){ 
+		rbd.sF.sendEvent('Vee24 Live Help', 'Help Me Now Request', 'Help Me Now Request by customer');
+	} 
+	//log Engagement Request
+	vee24.events.logEngagementRequest = function(){ 
+		rbd.sF.sendEvent('Vee24 Live Help', 'Engagement Request', 'Engagement Request by customer');
+	} 
+	//log MultiChat Requested
+	vee24.events.logMultiChatRequested = function(){ 
+		rbd.sF.sendEvent('Vee24 Live Help', 'MultiChat Requested', 'MultiChat Requested by customer');
+	} 
+	//log Text Chat Requested
+	vee24.events.logTextChatRequested = function(){ 
+		rbd.sF.sendEvent('Vee24 Live Help', 'TextChat Requested', 'TextChat Requested by customer');
+	} 
+	//log Voice Chat Requested
+	vee24.events.logVoiceChatRequested = function(){ 
+		rbd.sF.sendEvent('Vee24 Live Help', 'Voice Chat Requested', 'Voice Chat Requested by customer');
+	} 
+	//log User Nudge Timeout
+	vee24.events.logUserAutoNudgeTimeout = function(){ 
+		rbd.sF.sendEvent('Vee24 Live Help', 'User Nudge Timeout', 'Nudge has timed out');
+	} 
+	//log User Says Maybe Later To Nudge
+	vee24.events.logUserSaysMaybeLaterToAutoNudge = function(){ 
+		rbd.sF.sendEvent('Vee24 Live Help', 'User Says Maybe Later To Nudge', 'User Says Maybe Later To Nudge');
+	} 
+	//log User Says No Thanks To Nudge
+	vee24.events.logUserSaysNoThanksToAutoNudge = function(){ 
+		rbd.sF.sendEvent('Vee24 Live Help', 'User Says No Thanks To Nudge', 'User Says No Thanks To Nudge');
+	} 
+	//log User Says Yes To Nudge
+	vee24.events.logUserSaysYesToAutoNudge = function(){ 
+		rbd.sF.sendEvent('Vee24 Live Help', 'User Says Yes To Nudge', 'User Says Yes To Nudge');
+	} 
+	//log User Says Yes To MultiChat
+	vee24.events.logUserSaysYesToMultiChat = function(){ 
+		rbd.sF.sendEvent('Vee24 Live Help', 'User Says Yes To MultiChat', 'User Says Yes To MultiChat');
+	} 
+	//log User Says Yes To TextChat
+	vee24.events.logUserSaysYesToTextChat = function(){ 
+		rbd.sF.sendEvent('Vee24 Live Help', 'User Says Yes To TextChat', 'User Says Yes To TextChat');	
+	} 
+	//log User Says Yes To VideoChat
+	vee24.events.logUserSaysYesToVideoChat = function(){ 
+		rbd.sF.sendEvent('Vee24 Live Help', 'User Says Yes To VideoChat', 'User Says Yes To VideoChat');
+	}
+ 
+}
+</script>
+
+    <script type="text/javascript">
         //<![CDATA[
         var scroll = jQuery('.block-grouped').length ? false : false;
         jQuery(function ajaxAddToCartInit($) {
@@ -763,29 +1292,25 @@ You must have JavaScript enabled in your browser to utilize the functionality of
         });
         //]]>
     </script>
+    </div>
 </div>
-</div>
-<style>.sml .boxes-layout .widget .overlay-content{z-index:9;}</style>
-<script type="text/javascript" src="//static.vee24.com/v24/veedesk/v24Embedded.js" async=""></script>
-<script>
-jQuery(function($){
-	if($('.category-landing').length){
-		function gtmSendEvent(category, action, label){
-		    dataLayer.push({
-		        'event': 'customEventTracking',
-		        'customEventCategory': category,
-		        'customEventAction': action,
-		        'customEventLabel': label
-		    });
-		}
-		var pageName = $('h1').eq(0).text();
-		$('.category-landing').on('click', 'a', function(event) {
-			gtmSendEvent('Category Landing', pageName, $(this).attr('href'));
-		});
-		$('.blind-toggle').on('click', function(event) {
-			gtmSendEvent('Category Landing', pageName, 'Toggle Show');
-		});
-	}
-});
-</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"339d0e6737","applicationID":"8720494","transactionName":"NVUGYkZVXxcHUUJbDgwfJVVAXV4KSUJXVQQBUQdeURtDARdHU0EVTUAWWVdRQhc=","queueTime":0,"applicationTime":95,"atts":"GRIFFA5PTBk=","errorBeacon":"bam.nr-data.net","agent":""}</script><script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
+<style>
+.sml .boxes-layout .widget .overlay-content{
+z-index:9;}
+
+.product-alovethatlasts-launch-party .thumbnail_gallery,
+.product-alovethatlasts-launch-party .image-options{
+	display: none;
+	visibility: none;
+}
+</style>
+
+
+<script type="text/javascript">
+window.onload = function() {
+   jQuery.noConflict();
+  console.log('jquery no conflict on -- peace');
+};
+</script>
+<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 </body></html>
