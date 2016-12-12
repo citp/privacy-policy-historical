@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastrecharge.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326112509id_/https%3A//www.fastrecharge.com/fastrecharge_FR_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastrecharge.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212042259id_/https%3A//www.fastrecharge.com/fastrecharge_FR_privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
