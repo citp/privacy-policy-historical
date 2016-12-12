@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the caffmoscommunity.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325174339id_/http%3A//www.caffmoscommunity.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caffmoscommunity.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212045110id_/http%3A//www.caffmoscommunity.com/privacy.asp) for the most accurate reproduction.*
 
 # The Caffmos Community Privacy page.
 
-This Web site is operated and moderated by Caffmos Ltd. 
-
-Caffmos has created this privacy statement in order to demonstrate our firm commitment to privacy. 
-
-The following discloses the information gathering and dissemination practices for this Web site.
+This Web site is operated and moderated by Caffmos Ltd. Caffmos has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site. 
 
 ##### Data Protection Act 1998
 
@@ -30,7 +26,7 @@ Session cookies last only for the duration of your visit and are deleted when yo
 
 **Persistent cookies**
 
-Persistent cookies last after you have closed your browser, and allow a website to remember your actions and preferences. We only use these for the autologin facility and ``````Google Analytics.
+Persistent cookies last after you have closed your browser, and allow a website to remember your actions and preferences. We only use these for the autologin facility and Google Analytics. 
 
 **How do we use cookies ?**
 
@@ -38,9 +34,9 @@ The Caffmos Website only uses cookies for the following.
 
 1\. To enable use our autologin facility (username / password) 
 
-2\. To maintain your logged in state whilst using the website and some of the preferences you have set including location and preferred ages. These are all **removed** once you click the logout button.
+2\. To maintain your logged in state whilst using the website and some of the preferences you have set including location and preferred ages. These are all **removed** once you click the logout button. 
 
-We also use Google Analytics to anonomously collect usage data.The Caffmos Community does not store any tracking cookies or monitor your browsing habits in anyway on or off the Caffmos website.
+We also use Google Analytics to anonomously collect usage data.The Caffmos Community does not store any tracking cookies or monitor your browsing habits in anyway on or off the Caffmos website. 
 
 **What If I Dont Want to Allow Cookies ?**
 
@@ -48,11 +44,11 @@ If you wish to restrict or block the cookies which are set by any website you sh
 
 ##### Registration Forms
 
-Our site's registration form requires users to give us contact information (like your name, and email address), and demographic information (like your post/zipcode, age, or interests). Contact information from the registration forms is used to help us find you your "Ideal Partner". These details are secure and are not passed on or sold to any third party consumers.
+Our site's registration form requires users to give us contact information (like your name, and email address), and demographic information (like your post/zipcode, age, or interests). Contact information from the registration forms is used to help us find you your "Ideal Partner". These details are secure and are not passed on or sold to any third party consumers. 
 
 ##### Contests
 
-We run occasional competitions on our site in which we may ask visitors for contact information (like your name, and email address), and demographic information (like your post/zipcode, age, or interests).
+We run occasional competitions on our site in which we may ask visitors for contact information (like your name, and email address), and demographic information (like your post/zipcode, age, or interests). 
 
 ##### External Links
 
@@ -64,7 +60,7 @@ This site makes your profile available to its users. Please remember that any in
 
 ##### Choice/Opt-Out
 
-Our site provides users the opportunity to delete their profile at any time by selecting the "Delete Account" option in the My Profile/Account section.
+Our site provides users the opportunity to delete their profile at any time by selecting the "Delete Account" option in the My Profile/Account section. 
 
 ##### Data Quality/Access
 
@@ -72,4 +68,4 @@ Users can change any information provided by using the "Edit My Profile" feature
 
 ##### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please do not hesitate to contact us.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please do not hesitate to contact us. 
