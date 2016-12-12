@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the solecollector.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620213621id_/http%3A//solecollector.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solecollector.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212171757id_/http%3A//solecollector.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Solecollector
+# Privacy | Sole Collector
 
 Complex Media, Inc., together with its partners and affiliates, owns, operates, or provides a network of interactive services and applications (together, " _Complex_ ", " _we_ ", " _us_ ", " _our_ "). This Privacy Policy describes our policies and procedures on the collection, use and disclosure of your information when you access the services, applications, and other features or functionality (collectively, the " _Service_ ") on any website that we own, operate or provide (" _Site_ ") and/or via an application accessible on a mobile device (an " _Application_ ") that includes an authorized link to this Privacy Policy. We receive information about you from various sources, including through your use of the Service and from various third party websites and other services. When you use the Service, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
