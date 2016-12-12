@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mirchigames.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530231625id_/http%3A//www.mirchigames.com/page/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirchigames.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212032447id_/http%3A//www.mirchigames.com/page/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - Escape Games - New online room escape games at Mirchi Games
+# Privacy Policy - Escape Games - New room escape games at Mirchi Games
 
 This Privacy Policy governs the manner in which Mirchigames collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.mirchigames.com](http://www.generateprivacypolicy.com/account/policies/edit/www.mirchigames.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Mirchigames.
 
