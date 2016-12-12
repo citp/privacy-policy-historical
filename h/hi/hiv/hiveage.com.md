@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hiveage.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421162954id_/https%3A//www.hiveage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiveage.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212012350id_/https%3A//www.hiveage.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Hiveage
 
-Vesess is committed to protecting the privacy of those who visit the Hiveage.com website and use the Hiveage Service. Your privacy is important to us, and to better protect it, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by us.
+Vesess Inc (“Vesess”) is committed to protecting the privacy of those who visit the Hiveage.com website and use the Hiveage Service. Your privacy is important to us, and to better protect it, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by us.
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and store information volunteered by the consumer (such as via a survey or registration on the site). The information we collect is used to improve the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested. Also, we will only share such information when we have your permission, or if it is necessary to do so in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, or situations involving a threat to the physical safety of any person, the violations of Terms of Service, or as otherwise required by law.
 
