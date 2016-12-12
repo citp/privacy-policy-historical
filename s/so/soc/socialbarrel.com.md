@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialbarrel.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112071912id_/https%3A//socialbarrel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialbarrel.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212153008id_/http%3A//socialbarrel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,3 +27,6 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of Socialbarrel.com, please don’t hesitate to contact us.
+
+  
+
