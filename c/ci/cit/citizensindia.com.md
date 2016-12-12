@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the citizensindia.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415041348id_/http%3A//citizen123.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensindia.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212153618id_/http%3A//infoline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Citizen123
+# Privacy Policy – Infoline.com
 
 Back to Top
 
 ### Privacy Policy
 
-Citizen Infoline Ltd. hereinafter referred to as “CIL” maintains the privacy of all the visitors to www.citizen123.com.
+Citizen Infoline Ltd. hereinafter referred to as “CIL” maintains the privacy of all the visitors to Infoline.com.
 
 Any information collected from the website is used exclusively by “CIL” for marketing and promotional activities. The particulars that we collect are used as feedback to make the website more user-friendly and more informative. It also gives us an idea as to which service you visit the most, we try and improve on those links for you to understand “CIL” well and to make our web site's content and services more appropriate and easier to use. We may use the information provided by you, without prior permission, to send information about updates to our web site or other marketing resources.
 
@@ -16,7 +16,7 @@ As a policy “CITIZEN” has never shared any information obtained on or from i
 
 ### Information we collect & how we collect it.
 
-To provide you with information CIL may need information from you. CIL collects information from its users when they register to gain access to our services or at other specific instances when they are requested to provide us with their personal & business information. During registration, we ask the users for their name, email address, business information and other personal details. Once a user registers, he/she is no longer anonymous to Citizen123.com and it is deemed that the user has given CIL the right to publish the desired business & personal details throughout its marketplaces, including but not limited to, Yellow Pages, business directory, trade leads, catalogs etc.
+To provide you with information CIL may need information from you. CIL collects information from its users when they register to gain access to our services or at other specific instances when they are requested to provide us with their personal & business information. During registration, we ask the users for their name, email address, business information and other personal details. Once a user registers, he/she is no longer anonymous to Infoline.com and it is deemed that the user has given CIL the right to publish the desired business & personal details throughout its marketplaces, including but not limited to, Yellow Pages, business directory, trade leads, catalogs etc.
 
 When you are on our network and are asked for personal information, you are sharing the information with CIL alone, unless it is specifically stated otherwise. Promotions that run on our network may be sponsored by companies other than CIL or may be co-sponsored by CIL and another company. Some or all data collected during a promotion may be shared with the sponsor. However, you can decide not to participate in the promotion if you don't want your data to be shared.
 
@@ -24,7 +24,7 @@ We also gather usage statistics such as pages viewed, number of unique visitors,
 
 ### Use of Personal & Business Information
 
-Citizen123.com's primary goal in collecting personal or public information is to provide the user with a customized experience on our network of sites. This includes personalized services, interactive communication and other services, most of which are completely free and remaining are paid. Business information is used to display the user's business listing or product offerings across our network to fetch maximum business opportunities for the user. 
+Infoline.com's primary goal in collecting personal or public information is to provide the user with a customized experience on our network of sites. This includes personalized services, interactive communication and other services, most of which are completely free and remaining are paid. Business information is used to display the user's business listing or product offerings across our network to fetch maximum business opportunities for the user. 
 
 In order to provide free services, CIL displays advertisements based upon the site usage statistics and visitor trends. CIL uses user's personal & business information to serve targeted advertisements through its websites, newsletters and customized mailers. In addition to it, once the user's personal and business information is displayed on our network, the user may start receiving business enquiries through email, phone calls or SMS notifications, from various buyers and sellers that might or might not be of their interest. CIL does not exercise any control over its users for sending business inquiries to the listed members. 
 
@@ -59,4 +59,4 @@ We will ask you to identify yourself and the information requested to be accesse
 
 The policy may change from time to time so please check periodically.
 
-If you have questions or concerns about these privacy policies; please send us an email at support@citizen123.com
+If you have questions or concerns about these privacy policies; please send us an email at support@infoline.com
