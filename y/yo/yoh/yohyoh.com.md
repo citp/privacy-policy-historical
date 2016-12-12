@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yohyoh.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615061007id_/http%3A//www.yohyoh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yohyoh.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212182104id_/http%3A//www.yohyoh.com/privacy-policy) for the most accurate reproduction.*
 
 # YohYoh.com Showcase online and Promote
 
