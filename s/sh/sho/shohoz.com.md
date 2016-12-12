@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shohoz.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316090455id_/https%3A//www.shohoz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shohoz.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212161639id_/https%3A//www.shohoz.com/privacy-policy) for the most accurate reproduction.*
 
 # Buy Bus Tickets Online | Bus Tickets | Privacy Policy : Shohoz.com
 
