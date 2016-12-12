@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themes4all.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614222939id_/http%3A//www.themes4all.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themes4all.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212161332id_/http%3A//www.themes4all.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Themes4all - WordPress Premium Templates
 
