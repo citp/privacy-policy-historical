@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the macauhr.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624204216id_/http%3A//www.macauhr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macauhr.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212092600id_/http%3A//www.macauhr.com/privacy) for the most accurate reproduction.*
 
 # macauHR.com - Privacy Policy - Macau Job search, Macau Recruitment, Macau Find Jobs, Macau Hotels, Human Resources, Job Vacancies
 
   
 
 
-Welcome to the macauHR Web site, owned and operated by the Ignite Media Group Limited and its subsidiary, macauHR Limited (“macauHR”), affiliate and associate corporations, successors and assigns (collectively referred to as "we", "our" or "us"). Our products and services are offered through web pages at or linked to the uniform resource locator http://www.macauhr.com, (and other Web sites that we establish from time to time ("macauHR Web site") and are made available subject to the terms and conditions set out in this statement.   
-The companies in Ignite Media Group include：macauHR.com, New Macau Box Office, DM magazine, TK magazine, Boom magazine, EC-ad, aomenTV, Qoos.com, and Macau.com. 
+Welcome to the macauHR Web site, owned and operated by Talentgroup Asia, affiliate and associate corporations, successors and assigns (collectively referred to as "we", "our" or "us"). Our products and services are offered through web pages at or linked to the uniform resource locator http://www.macauhr.com, (and other Web sites that we establish from time to time ("macauHR Website") and are made available subject to the terms and conditions set out in this statement.   
+The companies in Talentgroup Asia Limited include：Talentgroup Asia Limited, Talentgroup Management Limited and StarzAsia Management Limited. 
 
-Policy macauHR Limited (“macauHR”) may necessarily request our members to provide with your personal data. The Policy set out hereunder regarding the use of personal data is applicable to macauHR service provided and maintained by macauHR. You hereby agree that any personal data supplied by you to macauHR is on a voluntary basis, and is accurate, true, current and complete. 
+**Policy**   
+macauHR.com (“macauHR”) may necessarily request our members to provide with your personal data. The Policy set out hereunder regarding the use of personal data is applicable to macauHR service provided and maintained by macauHR. You hereby agree that any personal data supplied by you to macauHR is on a voluntary basis, and is accurate, true, current and complete. 
 
 **Purposes**   
-You understand that any and all personal data you provide to macauHR will be collected and may be used for the purposes of:   
+You understand that any and all personal data you provide to macauHR.com will be collected and may be used for the purposes of:   
 • marketing activities and promotions   
 • conducting surveys;   
 • handling service calls, enquiries and complaints;   
@@ -19,7 +20,7 @@ You understand that any and all personal data you provide to macauHR will be col
 • meeting any legal, governmental or regulatory requirements in Macau, Hong Kong or any other applicable jurisdiction, including disclosure or notification requirements;   
 • providing information for internal use, including chat or bulletin boards, editorial and feedback purposes; and   
 During the registration process for an account of macauHR, you are given the option of specifying whether or not you wish to receive additional information and promotional material including free informational eNewsletters and job information from macauHR.   
-You have the option of proactively making choices about the receipt of promotional communications from macauHR and have a right at any time to stop macauHR from contacting you for marketing purposes by following the unsubscribe instructions provided in the promotional email you receive or by contacting us directly at +853 28262445 or via email at cs@macauhr.com.   
+You have the option of proactively making choices about the receipt of promotional communications from macauHR and have a right at any time to stop macauHR from contacting you for marketing purposes by following the unsubscribe instructions provided in the promotional email you receive or by contacting us directly at +853 28757651 or via email at cs@macauhr.com.   
 Personal data submitted by jobseekers will also be used for the jobseekers to find appropriate employment with the employers and/or advertisers registered with macauHR. 
 
 **Personal Data Collection**   
@@ -72,9 +73,7 @@ macauHR staff and any relevant person under a duty of confidentiality to macauHR
 • disallow access to or use of personal data about you by macauHR;   
 • be informed of action taken in response to your request for correction of the personal data held by us. 
 
-In accordance with what is permissible under any applicable law(s), macauHR has the right to charge a reasonable fee in relation to the time and attendance involved in complying with your request in this regard. Any request for access or correction can be made by yourself on the web site (subject to prior confirmation of identity) or by sending the request in writing to the following address: - macauHR Limited Unit 1303, 13/F, AIA Tower, nos. 251A-301, Avenida Comercial de Macau, Macau Fax No. : (853) 2544 4457 
-
-E-mail Address : privacy@macauhr.com 
+In accordance with what is permissible under any applicable law(s), macauHR has the right to charge a reasonable fee in relation to the time and attendance involved in complying with your request in this regard. Any request for access or correction can be made by yourself on the web site (subject to prior confirmation of identity) or by sending the request in writing to the following address: - Talentgroup Asia Limited, Alameda Dr. Carlos D'Assumpção, NºS.181 a 187, Centro Comercial Brilhantismo, 16º P-Q andar, Macau Fax No. : (853) 28757692 E-mail Address : privacy@macauhr.com 
 
 **Childern’s Privacy**
 
