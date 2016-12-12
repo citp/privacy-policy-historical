@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sailorjerry.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616125505id_/https%3A//sailorjerry.com//en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailorjerry.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212104926id_/http%3A//sailorjerry.com//en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sailor Jerry
 
@@ -257,7 +257,7 @@ William Grant & Sons Ltd
 
 Independence House
 
-89 Lower Mortlake Road
+84 Lower Mortlake Road
 
 Richmond
 
@@ -294,7 +294,7 @@ William Grant & Sons Ltd
 
 Independence House
 
-89 Lower Mortlake Road
+84 Lower Mortlake Road
 
 Richmond
 
