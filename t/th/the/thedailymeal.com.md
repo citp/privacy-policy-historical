@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedailymeal.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601085142id_/http%3A//www.thedailymeal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailymeal.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212114402id_/http%3A//thedailymeal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Daily Meal
 
