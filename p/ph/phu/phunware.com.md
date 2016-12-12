@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the phunware.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618143123id_/http%3A//www.phunware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phunware.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212135926id_/http%3A//www.phunware.com/privacy) for the most accurate reproduction.*
 
-# Phunware Privacy Policy | Phunware
+# Phunware Service Level Agreement and Privacy Policy | Phunware
+
+Phunware shall maintain commercially reasonable standards and procedures to address the configuration, operation, and management of its systems and networks, services, as well as data owned by Customer.
+
+Such standards and procedures shall include commercial or professional-grade (a) security controls, (b) identification and patching of security vulnerabilities on a commercially reasonable schedule, (c) use of anti-virus software, (d) change control processes and procedures, (e) problem management, and (f) incident detection and management.
+
+Phunware shall provide a minimum of 99.9% uptime for all the hosted network components and functionality of the Phunware Software as measured on a calendar quarterly basis, over a twenty-four (24) hour period of all days during such calendar quarter and excluding those periods of time designated as scheduled downtime which shall not exceed 60 minutes per month. In no event shall Phunware uptime obligations be subject to any downtime, intermittent or inconsistent performance by any Customer or third party system, API, web service or similar integrated to any Phunware Software.
+
+If Phunware does not maintain 99.9% uptime during any calendar quarter, customer is entitled to one month’s service fee as the sole and exclusive remedy. Uptime is measured by the customer’s ability to login and use the software. Customer may request a credit by emailing their account representative.
+
+Exclusions to the uptime guarantee include but are not limited to scheduled downtime, failure of third-party systems that Phunware has no control over or any issues with customer’s network or hardware in accessing the software.
+
+Phunware shall use its logs and other reporting tools to verify up time.
+
+## Privacy Policy
 
 Welcome, and thank you for your interest in Phunware, Inc. (“ **Phunware** “, “ **Provider** ,” “ **we** ,” or “ **us** “) and our Web site at www.phunware.com (the “ **Site** “), as well as all related web sites, networks, embeddable widgets, downloadable software, mobile applications (including tablet applications), and other services provided by us and on which a link to this Privacy Policy (this “ **Policy** “) is displayed (collectively, together with the Site, our “ **Services** “).  We provide Services to our customers (“ **Customer** ,” “ **you** ,” and “ **your** “), and in connection with these Services, we may collect, use, and disclose certain information from our Customer’s end users (each a “ **User** “), including in connection with our Multiscreen as a Service, engageME, manageME, LocalPoint, Digby, TapIt, Simplikate, and other products or services for which a link to this Privacy Policy is displayed.This Policy describes the information that we gather from Customers and Users on or through the Services, how we use and disclose such information, and the steps we take to protect that information. By using the Services, you consent to the privacy practices described in this Policy.  Our Customers may offer their own services, applications, or other offerings, and this Policy is not the privacy policy for those Customer offerings or any other website, service, application, or other offering that is accompanied by a different privacy policy.
 
