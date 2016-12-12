@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sabi.pk privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611115654id_/http%3A//www.sabi.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabi.pk privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212180543id_/http%3A//www.sabi.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy-Pakistani TV Dramas-Sabi.pk - sabi.pk
 
