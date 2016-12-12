@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctorswithoutborders.org privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630215608id_/http%3A//www.doctorswithoutborders.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorswithoutborders.org privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212222631id_/http%3A//www.doctorswithoutborders.org/privacy) for the most accurate reproduction.*
 
 # Privacy policy | MSF USA
 
@@ -70,4 +70,4 @@ It is important to us at Doctors Without Borders to hear what our site visitors 
 
 You agree that your use of this Privacy Policy and any disputes relating thereto shall be governed in all respects by the laws of the State of New York. Any dispute relating to this Privacy Policy shall be resolved solely in the state or federal courts located in Manhattan, New York.
 
-This Privacy Policy was last updated on August 3, 2007. DOCTORS WITHOUT BORDERS®, MEDECINS SANS FRONTIERES® and other marks used on this website are trademarks of Doctors Without Borders/Médecins Sans Frontières (MSF) USA, Inc. or its affiliates and may not be used without permission.
+This Privacy Policy was last updated May 2016. DOCTORS WITHOUT BORDERS®, MEDECINS SANS FRONTIERES® and other marks used on this website are trademarks of Doctors Without Borders/Médecins Sans Frontières (MSF) USA, Inc. or its affiliates and may not be used without permission.
