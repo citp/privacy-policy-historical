@@ -1,0 +1,521 @@
+<!--The following is the downloaded HTML source of the diagnosticquestions.com privacy policy that was archived on 2016-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161212164703id_/https%3A//diagnosticquestions.com/Home/PrivacyPolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+        <meta charset="utf-8">
+        <title>Privacy Policy | Diagnostic Questions</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="description" content="Privacy Policy for the use of the Diagnostic Questions website.">
+        <meta name="author" content="Diagnostic Questions">
+      
+        <link href="/vendor?v=s5_DUwElGiZOLS40-FZfB5FFDSrmax2O_LiKzE1_rYg1" rel="stylesheet">
+
+        <link href="/styles?v=z6ypNq-MbjiZI1BUWsHG78BlGzBbbrEieT8NtQqNPxc1" rel="stylesheet">
+
+
+        <script src="/scripts/head?v=bBPu9MIiVWis97hADtgCc1lSMtiV3wMZ4Qp7H8HqOcU1"></script>
+
+
+        <link href="/assets/css/sidebaronly.css?v20161118" rel="stylesheet">
+
+        <!--[if lt IE 9]>
+            <script src="/App/bower_components/respond-minmax/dest/respond.min.js"></script>
+            <script src="/App/bower_components/fabric/lib/excanvas.js"></script>
+        <![endif]-->
+        
+        <meta name="application-name" content="Diagnostic Questions">
+        <meta name="msapplication-TileColor" content="#222222">
+        <meta name="msapplication-TileImage" content="/favicon-144.png">
+
+        <meta content="yes" name="apple-mobile-web-app-capable">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+        <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/favicon-152.png">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/favicon-144.png">
+        <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/favicon-120.png">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/favicon-114.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/favicon-72.png">
+        <link rel="apple-touch-icon-precomposed" href="/favicon-57.png">
+
+        <script type="text/javascript">
+            var customPath = "/App/styles/ui/fonts/MyFonts";
+        </script>
+        <script type="text/javascript" src="/App/styles/ui/fonts/MyFonts/MyFonts.js"></script>
+        <script src="/App/bower_components/requirejs/require.js"></script>
+        <script src="/App/build/common.js"></script>
+        
+
+<script type="text/javascript">
+
+    // Application Insights Telemetry
+        
+    var appInsights = window.appInsights || function (config) {
+        function i(config) { t[config] = function () { var i = arguments; t.queue.push(function () { t[config].apply(t, i) }) } } var t = { config: config }, u = document, e = window, o = "script", s = "AuthenticatedUserContext", h = "start", c = "stop", l = "Track", a = l + "Event", v = l + "Page", y = u.createElement(o), r, f; y.src = config.url || "https://az416426.vo.msecnd.net/scripts/a/ai.0.js";
+        u.getElementsByTagName(o)[0].parentNode.appendChild(y); try { t.cookie = u.cookie } catch (p) { } for (t.queue = [], t.version = "1.0", r = ["Event", "Exception", "Metric", "PageView", "Trace", "Dependency"]; r.length;) i("track" + r.pop()); return i("set" + s), i("clear" + s), i(h + a), i(c + a), i(h + v), i(c + v), i("flush"), config.disableExceptionTracking || (r = "onerror", i("_" + r), f = e[r], e[r] = function (config, i, u, e, o) { var s = f && f(config, i, u, e, o); return s !== !0 && t["_" + r](config, i, u, e, o), s }), t
+    }({
+        instrumentationKey: "08341fb8-001e-4cc6-9f9a-973b9ad5717a",
+        appUserId: null,
+        enableDebug: false
+    });
+
+    window.appInsights = appInsights;
+
+    // Add telemetry initializer
+    appInsights.queue.push(function () {
+        appInsights.context.addTelemetryInitializer(function (envelope) {
+            var telemetryItem = envelope.data.baseData;
+            var nameSafe = telemetryItem.name || "";
+
+            // Prevent segment and mixpanel request from being logged via Application Insights
+            if (envelope.name === Microsoft.ApplicationInsights.Telemetry.RemoteDependencyData.envelopeType
+                && (
+                    nameSafe.indexOf("api.mixpanel.com") > -1 ||
+                    nameSafe.indexOf("api.segment.io") > -1
+                )) {
+                return false;
+            }
+
+            // Add user contextual information to all client side AI calls.
+            var p = envelope.data.baseData.properties = envelope.data.baseData.properties || {};
+            p.isAuthenticated = false
+            p.userId = null;
+            p.fullName = "";
+            p.username = "";
+            p.email = null;
+            p.role = "Anonymous";
+            p.schoolId = "0";
+            p.schoolName = null;
+        });
+    });
+    // end of insertion
+        appInsights.clearAuthenticatedUserContext();
+
+    appInsights.trackPageView();
+
+    
+
+    var analyticOptions = {
+        
+        integrations: {
+            'All': false,
+            'Intercom':  false,
+            'Mixpanel':  false,
+            'Google Analytics':  true,
+            'MailChimp':  false,
+            'Appcues':  false
+        },
+        Intercom: { hideDefaultLauncher: true }
+    };
+
+        
+    // Load segment analytics for the system
+
+    require(["analytics"], function(analytics) {
+
+        analytics.load("L2KQWuzq5v3cHAanaUbC5niAlD0RzIV5");
+
+        
+        analytics.ready(function() {
+            
+            if (window.analytics.user().id() !== null) {
+                window.analytics.reset();
+                mixpanel.cookie.clear();
+            }
+        });
+        
+
+    });
+
+    
+</script><script src="https://az416426.vo.msecnd.net/scripts/a/ai.0.js"></script>
+
+
+    <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="analytics" src="./analytics.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="pages/landing/navi" src="./pages/landing/navi.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="/App/build/common.js" src="/App/build/common.js"></script></head>
+    <body class="body-diagnostic">
+
+        <noscript>
+            <div class="alert alert-warning alert-dismissible alert--notification" role="alert">
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                This page uses Javascript. Your browser either doesn't support Javascript or you have it turned off. To see this page as it is meant to appear please use a Javascript enabled browser.
+            </div>
+        </noscript>
+
+
+        <div class="wrap wrap--marketing">
+
+            
+            
+            
+    <div class="navi navi--top navi--not-marketing">
+        <a href="/" class="navi__link navi__link--icon-sm navi__link--center">
+            <span class="sr-only">Home</span>
+            <img src="/assets/icons/logo.svg" class="navi__link__icon">
+        </a>
+        <a href="#" class="navi__link navi__link--icon-sm js-open-draw">
+            <img src="/assets/icons/ico-burger-48x48.svg" class="navi__link__icon">
+        </a>
+    </div>
+    <div class="navi navi--draw navi--padding-top navi--not-marketing">
+        <div class="navi__box navi__box--flexes-to-1">
+            <a href="/Home/Questions" class=" navi__link navi__link--text navi__link--thick">
+                Questions
+            </a>
+            <a href="/Home/Scheme" class=" navi__link navi__link--text navi__link--thick">
+                Scheme of Work
+            </a>
+            <a href="/Home/Insights" class=" navi__link navi__link--text navi__link--thick">
+                Insights
+            </a>
+            <a href="/MobileApp" class=" navi__link navi__link--text navi__link--thick">
+                Student app
+            </a>
+        </div>
+        <div class="navi__box navi__footer">
+            <a href="/Account/Login" class=" navi__link navi__link--thick-centered navi__link--text">
+                Sign in
+            </a>
+            <a href="/Account/Register" class=" navi__link navi__link--thick-centered navi__link--text">
+                Sign up
+            </a>
+        </div>
+    </div>
+    <div class="navi__catcher navi__catcher--dark js-close-draw"></div>
+    <div class="navi navi--marketing">
+        <div class="navi__box navi__box--flexes-0-to-1">
+            <a href="/" class="navi__link navi__link--icon-lg">
+                <span class="sr-only">Home</span>
+                <img src="/assets/icons/logo.svg" class="navi__link__icon">
+            </a>
+        </div>
+        <div class="navi__box navi__box--flexes-to-2 navi__boxes navi__boxes--horizontal navi__box--end-to-center">
+            <a href="/Home/Questions" class=" navi__box navi__link navi__link--marketing navi__link--text">
+                Questions
+            </a>
+            <a href="/Home/Scheme" class=" navi__box navi__link navi__link--marketing navi__link--text">
+                Scheme of Work
+            </a>
+            <a href="/Home/Insights" class=" navi__box navi__link navi__link--marketing navi__link--text">
+                Insights
+            </a>
+            <a href="/MobileApp" class=" navi__box navi__link navi__link--marketing navi__link--text">
+                Student app
+            </a>
+        </div>
+        <div class="navi__box navi__box--flexes-0-to-1 navi__box--end navi__boxes navi__boxes--horizontal navi__marketing__right">
+            <a href="/Account/Login" class=" navi__box navi__link navi__link--marketing navi__link--text">
+                Sign in
+            </a>
+            <a href="/Account/Register" class=" navi__box navi__link navi__link--button">
+                Sign up
+            </a>
+        </div>
+    </div>
+
+
+<script>
+    if (typeof require != 'undefined') {
+        require(['pages/landing/navi']);
+    } 
+</script>
+            
+
+            <div class="main">
+                
+
+
+<div class="subtitle">
+    <div class="container">
+        <ol class="subtitle__breadcrumbs">
+            <li class="subtitle__current">Privacy Policy</li>
+        </ol>
+    </div>
+</div>
+
+
+
+
+<div class="container cookies__page">
+
+    <div class="row">
+
+        <div class="col-md-3 learn__side-menu">
+
+            <div class="js-help-nav nudge-margin-bottom-lg">
+                <ul class="nav nav-stacked nav-lines">
+                    <li class="active"><a href="#pp-intro">Introduction</a></li>
+                    <li><a href="#information-we-collect">What Information Do We Collect About You and Why?</a></li>
+                    <li><a href="#use-your-information">How We Use Your Information</a></li>
+                    <li><a href="#share-your-information">How We Share Your Information</a></li>
+                    <li><a href="#cookies-and-tracking">Our Use of Cookies and Other Tracking Mechanisms</a></li>
+                    <li><a href="#third-party-links">Third-Party Links</a></li>
+                    <li><a href="#security-personal-information">Security of Your Personal Information</a></li>
+                    <li><a href="#access-personal-information">Access to Your Personal Information</a></li>
+                    <li><a href="#marketing-communications">Marketing Communications</a></li>
+                    <li><a href="#contact-us">Contact Us</a></li>
+                </ul>
+            </div>
+
+        </div>
+
+        <div class="col-md-9">
+
+            <div class="well well-lg">
+
+                <table border="0" cellpadding="5" cellspacing="5">
+                    <tbody>
+                        <tr>
+                            <td style="width: 60%;">
+                                <h1 id="pp-intro">Introduction</h1>
+                                <p>In this Privacy Policy ("Policy"), we describe how we collect, use, and disclose information that we obtain about visitors to our website diagnosticquestions.com (the "Site") and users of the services available through our Site (the "Services").</p>
+                                <p>By visiting the Site or using any of our Services, you agree that your personal information will be handled as described in this Policy. Your use of our Site or Services, and any dispute over privacy, is subject to this Policy and our <a href="/Home/TermsOfService">Terms of Service</a>, including its applicable limitations on damages and the resolution of disputes. The Terms of Service are incorporated by reference into this Policy.</p>
+                            </td>
+                            <td style="width: 10%;">&nbsp;</td>
+                            <td style="width: 30%;">
+                                <p style="line-height: 1.3"><span style="font-size:20px;"><strong>More simply put:</strong><br>We care about your privacy. This policy outlines how we seek to protect it.</span></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 30%;">
+                                <h1 id="information-we-collect">What Information Do We Collect About You and Why?</h1>
+                            </td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>&nbsp;</div>
+                                <div>We may collect information about you directly from you and from third parties, as well as automatically through your use of our Site or Services.</div>
+                                <div>&nbsp;</div>
+                                <div><strong>Information We Collect Directly From You</strong><br><br>
+                                    <i>Teachers. </i>Certain areas and features of our Site, App, and Services may require registration. To register, teachers must provide an email and password. We also may collect additional optional information from you, including first name, last name, primary role, what you teach, and where do you teach, though you are not required to provide us with this information. If you make a purchase on our Site or App, you must provide your e-mail address and password, credit card information, and name on card.<br><br>
+                                    <i>Students. </i>We require students to submit a name to use the Site, App or Service. To log on, students simply enter their unique classroom ID, provided by a teacher and a name. If a student creates a full Diagnostic Questions student account the student will be required to have a password. We may collect a child's name and other information where directed by the child's teacher. In such cases, we do not use the child's personal information for our own commercial purposes.<br><br>
+                                </div>
+                                <div><strong>Information We Collect Automatically.</strong><br><br>
+                                       We may automatically collect the following information about a child’s use of our Site, App, or Services through cookies and other technologies: domain name; browser type and operating system; web pages viewed; links clicked; the length of time spent on our Site or App; the length of time our Services are used; Google Analytics statistics; the referring URL, or the webpage that led a user to our Site; language information; device name and model; operating system type, name, and version; and activities within our Site and App. We may also collect IP address, device identifier or a similar unique identifier from users of our App and Site, including children; we only use such identifiers to support the internal operations of our Site and App and do not use such identifiers to collect information about users outside of our Site or App. We may also collect location information from teacher users of our app and may combine the information we automatically collect from teachers with the information we collect directly.
+                                </div>
+                                <div>&nbsp;</div>
+                            </td>
+                            <td>&nbsp;</td>
+                            <td>
+                                <p style="line-height: 1.3"><span style="font-size: 20px;"><strong>More simply put:</strong></span><br><span style="font-size: 20px; color: rgb(51, 51, 51);">In the course of your use of the site, we will collect various pieces of information from you and about you.</span></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 30%;">                                
+                                <h1 id="use-your-information">How We Use Your Information</h1>
+                            </td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>&nbsp;
+                                    <div>We use the information that we gather about you for the purposes such as the following:</div>
+                                    <div>&nbsp;</div>
+                                    <ul>
+                                        <li>To provide our Services, to communicate with teacher users about your use of our Services, to respond to inquiries, and for other customer service purposes.</li>
+                                        <div>&nbsp;</div>
+                                        <li>To provide students and teachers with information and reports about student performance and use of the Site and Services.</li>
+                                        <div>&nbsp;</div>
+                                        <li>To tailor the content and information that we may send or display to users, to offer personalized help and instructions, and to otherwise personalize your experiences while using the Site or Services.</li>
+                                        <div>&nbsp;</div>
+                                        <li>For marketing and promotional purposes. We may use information collected from teacher users, to send such users you news and newsletters, special offers, and promotions, or to otherwise contact such users about products or information we think may be of interest. We will not send marketing or promotional materials to student users.</li>
+                                        <div>&nbsp;</div>
+                                        <li>To better understand how users access and use our Site, App, and Services, on an aggregated or de-identified basis, in order to improve our Site, App, and Services and respond to user desires and preferences, and for other research and analytical purposes.</li>
+                                    </ul>
+                                </div>
+                            </td>
+                            <td>&nbsp;</td>
+                            <td>
+                                <p style="line-height: 1.3"><span style="font-size: 20px;"><strong>More simply put:</strong></span><br><span style="font-size: 20px; color: rgb(51, 51, 51);">We will use the information we collect to provide services to you, to promote services to you and to provide information and services to other users.</span></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 30%;">
+                                <h1 id="share-your-information">How We Share Your Information</h1>
+                            </td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>
+                                    <div>We do not sell your personal information. Generally, we may disclose the personal information that we collect to provide our Services, to comply with the law, and to protect Diagnostic Questions and other users of our Services. For example, we may share the personal information we collect as follows:</div>
+                                    <div>&nbsp;</div>
+                                    <ul>
+                                        <li>Service Providers. We may disclose the information we collect from you to third-party vendors, service providers, contractors or agents who perform functions on our behalf.</li>
+                                        <div>&nbsp;</div>
+                                        <li>Business Transfers. If we are acquired by or merged with another company, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the information we have collected from you to the other company.</li>
+                                        <div>&nbsp;</div>
+                                        <li>In Response to Legal Process. We also may disclose the information we collect from you in order to comply with the law, a judicial proceeding, court order, or other legal process.</li>
+                                        <div>&nbsp;</div>
+                                        <li>To Protect Us and Others. We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Service or this Policy, or as evidence in litigation in which Diagnostic Questions is involved.</li>
+                                        <div>&nbsp;</div>
+                                        <li>Teachers and Other Users. Teachers are able to provide students with quizzes and receive data insights for those assignments, through the Site, App, or Services. As part of this, teachers can see information about a student’s use of the Services, including their performance on certain quizzes, assignments, and other activities.</li>
+                                        <div>&nbsp;</div>
+                                        <li>Aggregate and De-Identified Information. We may share aggregate or de-identified information about users with third parties for marketing, advertising, research, or similar purposes.</li>
+                                    </ul>
+                                </div>
+                            </td>
+                            <td>&nbsp;</td>
+                            <td>
+                                <p style="line-height: 1.3"><span style="font-size: 20px;"><strong>More simply put:</strong></span><br><span style="font-size: 20px; color: rgb(51, 51, 51);">We will not sell your personal information. We will share your information only to the extent permitted by or required by law.</span></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 30%;">
+                                <h1 id="cookies-and-tracking">Our Use of Cookies and Other Tracking Mechanisms</h1>
+                            </td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>We use cookies and other tracking mechanisms to track information about your use of our Site, App, or Services. We may combine this information with other personal information we collect from you. Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser for record-keeping purposes. Some cookies allow us to make it easier for you to navigate our Site and Services, while others are used to enable a faster log-in process or to allow us to track your activities at our Site and Service.</div>
+                                <div>&nbsp;</div>
+                                <div>
+                                    <i>Third-Party Cookies. </i>We may also engage third parties, such as Google Analytics, to track and analyze data from our Site or Services. We use the data collected by such third parties to help us administer and improve the quality of our Site and Services and to analyze Site and usage. We may also engage third parties, such as Google, Facebook and Twitter to deliver online advertisements to users who have visited our site for the purpose of encouraging these users to return to the site. These third parties are not permitted to use the information collected on our behalf, except to help us conduct and improve our business.<br><br>
+                                    <i>Disabling Cookies. </i>Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Visitors to our Site who disable cookies will be able to browse certain areas of the Site, but some features may not function.<br><br>
+                                </div>
+                            </td>
+                            <td>&nbsp;</td>
+                            <td>
+                                <p style="line-height: 1.3"><span style="font-size: 20px;"><strong>More simply put:</strong></span><br><span style="font-size: 20px; color: rgb(51, 51, 51);">We use cookies to track information about your use of our site and services, in order to enhance both. We may also use cookies provided by third parties. You can disable cookies on your device, however, this may mean that certain areas of our site will not function.</span></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 30%;">
+                                <h1 id="third-party-links">Third-Party Links</h1>
+                            </td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>&nbsp;</div>
+                                <div>Our Site and Services may contain links to third-party websites. Any access to and use of such linked websites is not governed by this Policy, but instead is governed by the privacy policies of those third-party websites. We are not responsible for the information practices of such third-party websites.</div>
+                                <div>&nbsp;</div>
+                            </td>
+                            <td>&nbsp;</td>
+                            <td>
+                                <p style="line-height: 1.3"><span style="font-size: 20px;"><strong>More simply put:</strong></span><br><span style="font-size: 20px; color: rgb(51, 51, 51);">Any sites linked to from our site are not governed by this policy and we are not responsible for their use of your information.</span></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 30%;">
+                                <h1 id="security-personal-information">Security of Your Personal Information</h1>
+                            </td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>&nbsp;</div>
+                                <div>We have implemented a variety of security measures to protect the personal information we collect from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware that despite our best efforts, no data security measures can guarantee 100% security. You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a robust password that nobody else knows or can easily guess, and keeping your log-in and password private. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity.</div>
+                            </td>
+                            <td>&nbsp;</td>
+                            <td>
+                                <p style="line-height: 1.3"><span style="font-size: 20px;"><strong>More simply put:</strong></span><br><span style="font-size: 20px; color: rgb(51, 51, 51);">We do our best to protect your personal information but cannot guarantee 100% security. You must also take care to secure your password and any devices you use.</span></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 30%;">
+                                <h1 id="access-personal-information">Access to Your Personal Information</h1>
+                            </td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>&nbsp;</div>
+                                <div>You may modify personal information that you have submitted by logging into your account and updating your profile information. Please note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of the Site or App for a period of time.</div>
+                                <div>&nbsp;</div>
+                            </td>
+                            <td>&nbsp;</td>
+                            <td>
+                                <p style="line-height: 1.3"><span style="font-size: 20px;"><strong>More simply put:</strong></span><br><span style="font-size: 20px; color: rgb(51, 51, 51);">You may access and edit personal information that you have submitted.</span></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 30%;">
+                                <h1 id="marketing-communication">Marketing Communications</h1>
+                            </td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>&nbsp;</div>
+                                <div>We may send periodic promotional or informational emails to teacher and parent users. You may opt-out of such communications by following the opt-out instructions contained in the e-mail. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt-out of receiving emails about recommendations or other information we think may interest you, we may still send you e-mails about your account or any Services you have requested or received from us.</div>
+                                <div>&nbsp;</div>
+                            </td>
+                            <td>&nbsp;</td>
+                            <td>
+                                <p style="line-height: 1.3"><span style="font-size: 20px;"><strong>More simply put:</strong></span><br><span style="font-size: 20px; color: rgb(51, 51, 51);">We may send you promotional emails but you can opt-out of them.</span></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 30%;">
+                                <h1 id="contact-us">Contact Us</h1>
+                            </td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>&nbsp;</div>
+                                <div>If you have questions about the privacy aspects of our Services or would like to make a complaint, please <script type="text/javascript">eval(unescape("%70%77%69%70%61%33%32%3d%5b%27%25%37%33%25%36%39%25%36%64%25%36%66%25%36%65%27%2c%5b%27%25%36%33%25%36%66%25%36%64%27%2c%27%25%36%34%25%36%39%25%36%31%25%36%37%25%36%65%25%36%66%25%37%33%25%37%34%25%36%39%25%36%33%25%37%31%25%37%35%25%36%35%25%37%33%25%37%34%25%36%39%25%36%66%25%36%65%25%37%33%27%5d%2e%72%65%76%65%72%73%65%28%29%2e%6a%6f%69%6e%28%27%2e%27%29%5d%2e%6a%6f%69%6e%28%27%40%27%29%3b%62%6e%75%65%6e%36%37%3d%27%43%6f%6e%74%61%63%74%27%3b%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%62%6e%75%65%6e%36%37%2e%6c%69%6e%6b%28%27%6d%61%69%27%2b%27%6c%74%6f%3a%27%2b%70%77%69%70%61%33%32%29%29%3b"));</script><a href="mailto:%73%69%6d%6f%6e@%64%69%61%67%6e%6f%73%74%69%63%71%75%65%73%74%69%6f%6e%73.%63%6f%6d">Contact</a> us.</div>
+                                <div>&nbsp;</div>
+                            </td>
+                            <td>&nbsp;</td>
+                            <td>
+                                <p style="line-height: 1.3"><span style="font-size: 20px;"><strong>More simply put:</strong></span><br><span style="font-size: 20px; color: rgb(51, 51, 51);">If you have questions about these terms, feel free to contact us.</span></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 30%;">
+                                <h1 id="changes">Changes</h1>
+                            </td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>&nbsp;</div>
+                                <div>This Policy is current as of the Effective Date set forth above. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our Site, at <a href="/Home/PrivacyPolicy">diagnosticquestions.com/Home/PrivacyPolicy</a>. If we make any changes to this Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Site.</div>
+                                <div>&nbsp;</div>
+                                <div>Effective Date: Tuesday 14th June 2016</div>
+                                <div>&nbsp;</div>
+                            </td>
+                            <td>&nbsp;</td>
+                            <td>
+                                <p style="line-height: 1.3"><span style="font-size: 20px;"><strong>More simply put:</strong></span><br><span style="font-size: 20px; color: rgb(51, 51, 51);">Our Services and this policy may change at any time.</span></p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+ </div>
+ 
+
+
+
+
+
+            </div>
+
+        </div>
+        
+        
+    <script>
+        require(['/App/build/common.js'], function (common) {
+            require(['pages/home/cookies']);
+        });
+    </script>
+
+
+    
+
+</body></html>
