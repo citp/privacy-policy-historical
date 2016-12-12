@@ -1,19 +1,28 @@
-> *The following text is extracted and transformed from the unixmen.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604150751id_/http%3A//www.unixmen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unixmen.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212091124id_/http%3A//unixmen.com/unixmen-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Unixmen
+# Unixmen Privacy Policy | Unixmen
 
-  
-All content and materials published within the Unixmen network and its associated entities is published and released under the **Creative Commons Attribution-NonCommercial-NonDerivs 3.0 Unported License (CC BY-NC-ND 3.0)**. For exact details and specifications of this license, please visit <http://creativecommons.org/licenses/by-nc-nd/3.0>
+### Your privacy is critically important to us.
 
-In addition to the aforementioned license, content/materials published within the Unixmen network and its associated entities is published under mutual agreement with our Freelance Staff Writers, who also hold individual ownership over the content posted with their name associated and/or attached as Author or any other authoritative association to that specific content/material.  
-If you should have any questions regarding legalities of any content/materials published within the Unixmen network and its associated entities, please email our independent Legal Representatives at webmaster@unixmen.com
+  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+  * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
 
-At Unixmen, our Staff Writers try to test the applications we write about and recommend. In some cases, we may not be able to test the application as much as we like. In such a case, we can’t be held liable/responsible for any loss/damage/discomfort occurred as a result of using an application or product we’ve written about or recommended.
 
-Any personal information you provide to us including and/or similar to your name, address, telephone number and e-mail address will not be released, sold, shared or leased to any entities or individuals outside of the Unixmen network.
 
-Unixmen is not responsible for the content of external internet sites which are either linked or recommended by us. You are advised to read the Privacy Policy of any external sites before disclosing any personal information to all external parties outside of Unixmen.
+### Website Visitors
 
-A “cookie” is a small data text file that is placed in your browser and possibly on your computer’s hard drive. This allows any website on the Unixmen network to recognize you each time you visit one of our websites. Cookies do not contain any personal information. Our website utilizes 3rd parties who employ browser cookies and other technologies to collect information about users, such as IP address, type of web browser used, web pages viewed and other information. We take measures to ensure that our cookies do not collect personally identifiable or sensitive information. The information we collect within the Unixmen network is analyzed and may be combined with similar information of other visitors to our website. You may set your browser to reject cookies. However, this can affect some functions of Unixmen.com.
+Like most website operators, Unixmen collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, referring site, and the date and time of each visitor request. Unixmen’s purpose in collecting non-personally identifying information is to better understand how Unixmen’s visitors use its website.
 
-Third party vendors, including Google, use cookies to serve advertising components based on a user’s prior visits to Unixmen. Google’s use of the DART cookie enables Google and its partners to serve advertising to you based on your visit to Unixmen and/or other sites on the internet. If you want to opt out of the use of the DART cookie, please visit the [advertising opt-out page](http://www.google.com/privacy_ads.html).
+Unixmen also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users.
+
+### Cookies
+
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Unixmen uses cookies to help Unixmen identify and track visitors, their usage of Unixmen website, and their website access preferences. Unixmen visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Unixmen’s websites, with the drawback that certain features of Unixmen’s websites may not function properly without the aid of cookies.
+
+### Privacy Policy Changes
+
+Although most changes are likely to be minor, Unixmen may change its Privacy Policy from time to time, and in Unixmen’s sole discretion. Unixmen encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+### Third Party Advertising
+
+Some of the advertisements you see on the Site are selected and delivered by third parties, such as ad networks, advertising agencies, advertisers, and audience segment providers. These third parties may collect information about you and your online activities, either on the Site or on other websites, through cookies, web beacons, and other technologies in an effort to understand your interests and deliver to you advertisements that are tailored to your interests.
