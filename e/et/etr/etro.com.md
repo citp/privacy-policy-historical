@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the etro.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617181828id_/http%3A//www.etro.com/en_us/legal-area) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etro.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212021559id_/http%3A//www.etro.com/en_us/legal-area%23newsletter_section) for the most accurate reproduction.*
 
 # Legal Area | Etro
 
-Etro ("Etro", "us", "our" or "we") respect your privacy and are committed to protecting it through our compliance with this policy.
-
+Etro ("Etro", "us", "our" or "we") respect your privacy and are committed to protecting it through our compliance with this policy.  
 This policy describes the types of information we may collect from you or that you may provide when you visit the website or mobile site at www.etro.com (including sub-domains, web pages within this site or any equivalent mirror, replacement, substitute or backup website) or any website, mobile site or application that links to this privacy policy, accessed via any device (our "website") and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 This policy applies to information we collect on or through this website.
@@ -23,11 +22,11 @@ It does not apply to information collected by:
 Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our website and close your account with us (if any). By accessing or using this website, you agree to this privacy policy.  
 This policy may change from time to time. Your continued use of this website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.  For your convenience, the date of the last update to this Privacy Policy appears at the top of this document.
 
-CHILDREN UNDER THE AGE OF 13
+### CHILDREN UNDER THE AGE OF 13
 
 We do not knowingly collect personal information from children under 13 or knowingly allow such persons to log in the website. If you are under 13, do not use or provide any information on this website or on or through any of its features/log into the website, use any of the interactive or public comment features of this website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information as soon as practicable. If you believe we might have any information from or about a child under 13, please contact us at [privacy@etro.com](mailto:privacy@etro.com).
 
-## INFORMATION WE COLLECT ABOUT YOU AND HOW WE COLLECT IT
+### INFORMATION WE COLLECT ABOUT YOU AND HOW WE COLLECT IT
 
 We collect several types of information from and about users of our website, including information:
 
@@ -45,7 +44,7 @@ We collect this information
 
 
 
-## INFORMATION YOU PROVIDE TO US
+### INFORMATION YOU PROVIDE TO US
 
 The information we collect on or through our website may include:
 
@@ -61,7 +60,7 @@ The information we collect on or through our website may include:
 
 
 
-## ANALYTICS DATA, COOKIES AND OTHER TECHNOLOGIES
+### ANALYTICS DATA, COOKIES AND OTHER TECHNOLOGIES
 
 As you navigate through and interact with our website, we may automatically collect certain information about your equipment, browsing actions and patterns, including:
 
@@ -90,7 +89,7 @@ The technologies we use for this automatic data collection may include:
 
 When you use the mobile versions of our website, we may collect the unique device identifier assigned to your mobile device by phone makers, carriers, or makers of the operating system (the "Device ID"). Device IDs allow app developers, advertisers, and others to uniquely identify your device for purposes of storing application preferences and other data. We may use your Device ID for security purposes.
 
-## HOW WE USE YOUR INFORMATION
+### HOW WE USE YOUR INFORMATION
 
 We use information that we collect about you or that you provide to us, including any personal information for the purpose of: (i) taking action further to your requests to purchase Etro items, and (ii) complying with administrative, accounting and fiscal obligations connected with the sale of Etro items, and, in general, to comply with legal or contractual obligations that affect you.  
 We may also use your personal information to send you promotional materials and newsletters about items we offer and our latest products, news and special offers from time to time, via post, courier, fax, email, text message, multimedia message or other remote communications methods (“Marketing Purposes”). You will also be given the opportunity to receive such communications from us when you sign up to our newsletters or create an account with us via the website. As described below, you may opt out of receiving these communications.  
@@ -98,9 +97,9 @@ Your email address may be used for the purpose of direct sales of Etro products 
 
 You will be able to cancel your subscription to our newsletters at any time, simply by clicking on the Unsubscribe button that is found at the bottom of each newsletter.
 
-## DISCLOSURE OF YOUR INFORMATION
+### DISCLOSURE OF YOUR INFORMATION
 
-We may disclose aggregated information about our users (including statistical data), and information that does not identify any individual, without restriction.
+We may disclose aggregated information about our users (including statistical data), and information that does not identify any individual, without restriction. 
 
 Except as described below, we will not sell, rent, license or transfer your personal information to any third party.
 
@@ -125,38 +124,30 @@ We may also disclose your personal information:
 
 
 
-## HOW WE STORE YOUR INFORMATION
+### HOW WE STORE YOUR INFORMATION
 
-The information that we collect from you may be stored and processed in the United States, the European Union or any other place or country in which we maintain facilities (or in which our service providers maintain facilities on our behalf).
-
+The information that we collect from you may be stored and processed in the United States, the European Union or any other place or country in which we maintain facilities (or in which our service providers maintain facilities on our behalf).  
 We may transfer information that we collect from you from your country to other countries. By using our website you consent to the transfer of information to the U.S. or to any other country in which we maintain facilities (or in which our service providers maintain facilities on our behalf).
 
-## **ACCESSING, CORRECTING AND DELETING YOUR INFORMATION**
+### ACCESSING, CORRECTING AND DELETING YOUR INFORMATION
 
-You can change your access, modify or correct, your personal information controlled by you at any time by editing your account. You can delete and also access or modify your personal information that you have provided to us by emailing us at: [privacy@etro.com](mailto:privacy@etro.com).
-
-We may keep your account information after you disable your account, in case you wish to make your account active again or as reasonably necessary to comply with our legal obligations.
-
+You can change your access, modify or correct, your personal information controlled by you at any time by editing your account. You can delete and also access or modify your personal information that you have provided to us by emailing us at: [privacy@etro.com](mailto:privacy@etro.com).  
+We may keep your account information after you disable your account, in case you wish to make your account active again or as reasonably necessary to comply with our legal obligations.  
 We may not accommodate a request to change information if we believe the change would violate any law or legal requirement, cause the information to be incorrect or we are unable to verify your identity. 
 
-## **DATA SECURITY**
+### DATA SECURITY
 
-We have implemented appropriate measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure.
-
-The safety and security of your information also depends on you. If you have created an account with the website, we ask you not to share your password with anyone. You should also use a strong password. We urge you to be careful about giving out information on or through the website.
-
+We have implemented appropriate measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure.  
+The safety and security of your information also depends on you. If you have created an account with the website, we ask you not to share your password with anyone. You should also use a strong password. We urge you to be careful about giving out information on or through the website.  
 Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the website.
 
-## **YOUR CALIFORNIA PRIVACY RIGHTS**
+### YOUR CALIFORNIA PRIVACY RIGHTS
 
-Third Party Marketing Information Requests
-
-California Civil Code Section § 1798.83 permits users of our website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to privacy@etro.com. Under Section § 1798.83, we currently do not share any personal information with third parties for their own direct marketing purposes.
-
-Do Not Track
-
+Third Party Marketing Information Requests  
+California Civil Code Section § 1798.83 permits users of our website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to privacy@etro.com. Under Section § 1798.83, we currently do not share any personal information with third parties for their own direct marketing purposes.  
+Do Not Track  
 We do not track our visitors over time and across third party websites to provide targeted advertising and we therefore do not respond to Do Not Track (DNT) signals.  We do not authorize the collection of personally identifiable information from visitors through our website.
 
-## **CONTACT INFORMATION**
+### CONTACT INFORMATION
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at: [privacy@etro.com](mailto:privacy@etro.com).
