@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colt.net privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625140958id_/http%3A//www.colt.net/data-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colt.net privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212045328id_/http%3A//www.colt.net/data-privacy-statement) for the most accurate reproduction.*
 
 # Data Privacy Statement - Colt
 
