@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the supersaas.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505200735id_/http%3A//www.supersaas.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersaas.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212060633id_/http%3A//www.supersaas.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At SuperSaaS we recognize that privacy is important. This Privacy Policy applies to all of the services offered by SuperSaaS. If you have any questions about this Policy, please feel free to contact us through the [feedback form](https://web.archive.org/info/feedback). 
+At SuperSaaS we recognize that privacy is important. This Privacy Policy applies to all the services offered by SuperSaaS. If you have any questions about this Policy, please feel free to contact us through the [feedback form](https://web.archive.org/info/feedback). 
 
 **Last Updated: August 2015**
 
@@ -46,7 +46,7 @@ This Privacy Policy applies to SuperSaaS services only. We do not exercise contr
 
 ### European Union user consent policy
 
-When using SuperSaaS embedded into another site,certain disclosures must be given to and consents obtained from end users in the European Union where EU data protection law requires such disclosures and consents. For end users in the European Union you must use commercially reasonable efforts to ensure that an end user is provided with clear and comprehensive information about this site’s policies. 
+When using SuperSaaS embedded into another site, certain disclosures must be given to and consents obtained from end users in the European Union where EU data protection law requires such disclosures and consents. For end users in the European Union you must use commercially reasonable efforts to ensure that an end user is provided with clear and comprehensive information about this site’s policies. 
 
 ## Information sharing
 
@@ -68,7 +68,7 @@ We take appropriate security measures to protect against unauthorized access to 
 
 ## Data integrity
 
-SuperSaaS processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+SuperSaaS processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices ensuring that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
 
 ## Accessing and updating personal information
 
