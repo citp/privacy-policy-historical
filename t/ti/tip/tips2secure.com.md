@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tips2secure.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611143642id_/http%3A//www.tips2secure.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tips2secure.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212060310id_/http%3A//www.tips2secure.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,6 +9,10 @@ This Privacy Policy governs the manner in which Tips2secure collects, uses, main
 **Your Privacy**
 
 We will not sell, trade, give, etc., the statistics that we collect on our site to any third party, without your express permission. The data that we collect is not mined or used for marketing purposes in any way. The data that we collect is used solely for purposes of web metrics and traffic analysis by Tips2secure.com. Be assured that safeguarding the contents of our website traffic is our priority. The following statement sets our privacy policy.
+
+**Cookies**
+
+This blog uses Cookies and web server log files to collect info, such as date and time of your visit. Cookies are also used by Advertisers to show relevant ads to readers.
 
 **We may collect Personal Identification Information**
 
