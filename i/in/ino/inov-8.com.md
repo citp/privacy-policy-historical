@@ -1,80 +1,74 @@
-> *The following text is extracted and transformed from the inov-8.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421152241id_/http%3A//www.inov-8.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inov-8.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212110434id_/http%3A//www.inov-8.com/privacy-and-cookies) for the most accurate reproduction.*
 
-# Inov-8 Privacy Policy
+# Privacy & Cookie Policy | inov-8 website
 
 ## Privacy Policy
 
-This privacy policy sets out how Inoveight uses and protects any information that you give Inoveight when you use this website.  
-Inoveight is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+We, inov-8 (Inoveight Limited) are committed to protecting and respecting your privacy. We use the information you share with us to make our services and your experience continually better. This policy (together with our [Terms & Conditions](https://web.archive.org/terms-and-conditions) and any other document referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. By visiting inov-8.com (“our site”) you are accepting and consenting to the practices described in this policy. For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is: Inoveight Limited, 12B Beechburn, Prospect Road, Crook, County Durham, DL15 8RA, England.
 
-Inoveight may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 20/03/2012.
+### INFORMATION WE MAY COLLECT FROM YOU
 
-## What we collect
+We may collect and process the following data about you: Information you give us. You may give us information about you by filling in forms on our site or on our social media pages or profiles, or by corresponding with us by phone, e-mail or otherwise. It includes information you provide when you register to use our site and may include your name, address, e-mail address and phone number. Information we collect about you. With regard to each of your visits to our site we may automatically collect the following information: technical information, e.g. about your browser or the device you use to access the site and the Internet Protocol (IP) address used to connect your computer to the internet.; information about your visit, e.g. which website you clicked through to reach ours, lengths of visits to pages , products you viewed or searched for, page interaction information (such as scrolling, clicks, and mouse-overs).
 
-We may collect the following information:
+### USES MADE OF THE INFORMATION
 
-• name
+We use information held about you in the following ways: Information you give to us. We will use this information to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us; to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about; to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you are an existing customer, we will contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. Information we collect about you. We will use this information: to administer, operate and improve our site and ensure it is presented in the most effective manner; as part of our efforts to keep our site safe and secure; to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them. Information we receive from other sources. We may combine this information with information you give to us and information we collect about you and use it for the purposes set out above.
 
-• contact information including email address, contact number
+### DISCLOSURE OF YOUR INFORMATION
 
-• demographic information such as postcode, preferences and interests
+We may share your personal information with any member of our group, including our US subsidiary inov-8LLC and you should only give us your information if you consent to this. If inov-8LLC or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. If we are under a duty to disclose or share your personal data in order to comply with any legal, or in order to enforce or apply our [Terms & Conditions](https://web.archive.org/terms-and-conditions). This includes exchanging information with other companies and organisations for the purposes of fraud protection.
 
-##   
-What we do with the information we gather
+### WHERE WE STORE YOUR PERSONAL DATA
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+The data that we collect from you may be transferred to, and stored at, a destination outside the Economic Area (“EEA”). It may also be processed by staff operating outside the EEA work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all reasonably necessary steps to ensure that your data is treated securely and in accordance with this privacy policy. All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. Unfortunately, the transmission of information via the internet is not completely secure. Although will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-• Internal record keeping.
+### YOUR RIGHTS
 
-• We may use the information to improve our products and services.
+You have the right to ask us not to process your personal data for marketing purposes. You can also exercise the right at any time by emailing Enquiried though our [contact us](https://web.archive.org/contact-us) form. Our site may, from time to time, contain links to and from third party websites. If you follow a link to any of these websites, please note that those websites should have their own privacy policies and we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-• Send Email Marketing Materials
+### ACCESS TO INFORMATION
 
-## Security
+The Act gives you the right to access information held about you. You may request from us a copy of personal data we hold on you subject to a fee of £10 to meet our costs.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+### CHANGES TO OUR PRIVACY POLICY
 
-## MailChimp
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy.  
 
-MailChimp is a third party that we use to securely send email newsletters to individuals who have provided there contact information and have given permission to be contacted via email.
+### CONTACT
 
-All personal information is collected and stored according to MailChimp's own terms and conditions please see below for more information from MailChimp regarding their datya collection policy:
+We welcome questions, comments and requests regarding this privacy policy. They should addressed to: Inoveight Limited, 12B Beechburn, Prospect Road, Crook, County Durham, DL15 8RA, England or to email Enquiries though our [contact us](https://web.archive.org/contact-us) form.
 
- **Information You Provide to Us:** When you register to use MailChimp on a free or other basis, communicate with customer service, or send us an email, you provide us with information that we collect. Such information may include your IP address, name, physical address, email address, phone number, cell phone number, credit card information, and other information such as gender, occupation and other demographic information. By providing us with this information, you consent to your information being collected, used, disclosed and stored by us in accordance with this Privacy Policy.
+## **COOKIES**
 
- **List and Campaign Information:** When you upload or create an email distribution list or put together an Email Campaign with MailChimp, we have access to the data on your list and the information in your campaign.
+### WHAT ARE COOKIES AND HOW ARE THEY USED?
 
- **Other Information We Receive and Store:** When you register to use MailChimp, we store "cookies," which are strings of code, on your computer. We also use electronic images known as Web beacons. With those cookies, we are aware of and collect information concerning when you visit our Website, when you use MailChimp, your browser type and version, your operating system and platform and other similar information. With Web beacons, we can determine when you open email we send you, and collect other data. You may turn off all cookies that have been placed on your computer by following the instructions on your browser on how to block cookies that have been placed on your computer. However, if you block our cookies it will be more difficult, and maybe impossible, to use the Services.
+Cookies are small text files that are stored on your computer when you visit some websites, which help to provide you with a more tailored experience whenever you visit the website. We use cookies on inov-8.com to make the website easier for you to use, and to help inform us on how to improve the website to make it easier for you to shop online and navigate our features. We do not store any personally identifiable information about you in our cookies, and cookies cannot be used to harm your computer.
 
- **Tracking Our Emails to Our Customers:** When we send emails to our own registered MailChimp customers, we'll sometimes track who opened the emails and who went so far as to click on any of the hyperlinks. We do this to measure the performance of our Email Campaigns, and to improve our offerings to specific customer segments.
+### COOKIES SET BY inov-8.com
 
- **AIM Reports:** Our Members who elect to receive AIM Reports, can also determine who has opened or not opened emails or clicked on links. That and all other tracking information available to our Members is also available to us and we may collect and review that information.
+A list of cookies used on the inov-8.com website is shown below, along with a brief description explaining what we use these for.
 
- **Information From Other Sources:** We may obtain additional information about you by using your email address, or other information, to directly, or through one or more services, search over the internet, or elsewhere. We thereby obtain information that appears to be related to such email address or other information, such as a name, age and participation in social media websites, (such information being referred to herein as "Supplemental Member Information").
+COOKIES SET BY inov-8.com Cookie| Purpose  
+---|---  
+Session cookie | These cookies are used to store your shopping activity throughout your individual session on the site, enabling us to maintain your basket across the site and checkout.  
+Locale selection | These cookies are used to store information about your preferred shipping location, to ensure that we display the correct pricing and delivery options for all products on the website.   
+Remember Me | Keeps your inov-8 account logged in on your computer when you have selected the option to “Remember Me” when you log into your account.   
+Persistent Basket | We use this cookie to store an encrypted key which we can use to reinstate your basket for up to 30 days.  
+  
+### inov-8 also works with a selection of third parties to help us improve our website experience.
 
-##   
-How we use cookies
+### COOKIES SET BY THIRD PARTY SERVICES
 
-Some of our web pages utilise "cookies". A "cookie" is a small text file that may be used, for example, to collect information about web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
+COOKIES SET BY THIRD PARTY SERVICES Cookie| Purpose  
+---|---  
+Google Analytics Coremetrics Analytics | Used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
+Doubleclick | These cookies and tags are used to collect non-personal information about how visitors interact with advertising served on other websites before they arrive at inov-8 and which advertisements our customers prefer. This information helps inov-8 deliver ads that are relevant to your interests, control the number of times you see a given ad, and measure the effectiveness of advertising campaigns. You can opt out of this service at [http://www.youradchoices.com](http://www.youradchoices.com/)  
+Twitter | If you click a ‘Tweet’ link on the inov-8 website, Twitter sets a cookie to remember that you have ‘tweeted’ that information.  
+Google+ | If you click a ‘+1’ link on the inov-8  website, Google sets a cookie to remember that you have ‘+1’ that information.  
+Facebook | If you click a ‘Like’link on the inov-8  website, facebook sets a cookie to remember that you have ‘Liked’ that information.  
+  
+### 
 
-We use cookies to give you the best experience we can whilst you visit our website. We use different types of cookies, some are required cookies that allow you to browse the website efficiently and are required for certain feature to work correctly. Other cookies are non-required and are used to help us analyse how you use the site and where we could make improvements to the website.
+HOW DO I MANAGE COOKIES SET BY inov-8?
 
-If you don't want to receive cookies, you can modify your browser so that it notifies you when cookies are sent to it or you can refuse cookies altogether. You can also delete cookies that have already been set.
-
-If you wish to restrict or block web browser cookies which are set on your device then you can do this through your browser settings; the Help function within your browser should tell you how. Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/), which contains comprehensive information on how to do this on a wide variety of desktop browsers.
-
-## Controlling your personal information
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to:
-
-Inov-8  
-12B Beechburn  
-Prospect Road  
-Crook  
-County Durham  
-DL15 8RA  
-England
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+If you wish to restrict, delete or block web browser cookies which are set on your device then you can do this through your browser settings; the Help function within your browser should tell you how.
