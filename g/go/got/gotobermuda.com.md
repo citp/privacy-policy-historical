@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gotobermuda.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618181604id_/http%3A//www.gotobermuda.com/terms-of-use-and-privacy-32212254244) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotobermuda.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212174241id_/http%3A//www.gotobermuda.com/info/terms-use-privacy) for the most accurate reproduction.*
 
-# 
+# Terms of Use & Privacy // Go To Bermuda
+
+Your privacy is important to us.
 
 ## About This Site
 
@@ -45,7 +47,7 @@ Demographic information such as age and gender and number of household members, 
 
 ## Links To Outside Websites
 
-This site may contain links to third party sites not controlled by the Bermuda Tourism which therefore are not covered by this privacy statement, such as those belonging to Bermuda Tourism's Partners and Sponsors. We recommend that you check the privacy statement of other sites you visit before providing any personal information. 
+This site may contain links to third party sites not controlled by the Bermuda Tourism which therefore are not covered by this privacy statement, such as those belonging to Bermuda Tourism's Partners and Sponsors. We recommend that you check the privacy statement of other sites you visit before providing any personal information.
 
 ## Children
 
@@ -53,7 +55,7 @@ We do not solicit data from children under the age of 13. Bermuda Tourism encour
 
 ## Security Of Information
 
-Bermuda Tourism is committed to maintaining the security of information under our control. We have put in place the appropriate physical, electronic, and managerial procedures to prevent unauthorized access and safeguard and secure the information we collect. Any information we collect our sites is stored on a secured server and is not directly connected to the Internet. We recognize the importance of safeguarding personal information in our possession from theft, inappropriate use, or improper distribution. It should, however, be recognized that no company can perfectly protect personal information. 
+Bermuda Tourism is committed to maintaining the security of information under our control. We have put in place the appropriate physical, electronic, and managerial procedures to prevent unauthorized access and safeguard and secure the information we collect. Any information we collect our sites is stored on a secured server and is not directly connected to the Internet. We recognize the importance of safeguarding personal information in our possession from theft, inappropriate use, or improper distribution. It should, however, be recognized that no company can perfectly protect personal information.
 
 ## Privacy Inquiries
 
