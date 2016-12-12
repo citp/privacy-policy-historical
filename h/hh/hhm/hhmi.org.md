@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hhmi.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617154247id_/http%3A//www.hhmi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hhmi.org privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212121349id_/https%3A//www.hhmi.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HHMI.org
 
-Thank you for visiting the website of the Howard Hughes Medical Institute (“HHMI,” “we,” “us,” or “our”). Your privacy is valued and respected by HHMI. As such, this privacy policy (“Privacy Policy”) describes our online information practices, including the types of information that HHMI may collect from you when you visit this website (the “Site”) and how we use, share and protect this information.
+Thank you for visiting the website of the Howard Hughes Medical Institute (“HHMI,” “we,” “us,” or “our”). Your privacy is valued and respected by HHMI. As such, this privacy policy (“Privacy Policy”) describes our online information practices, including the types of information that HHMI may collect from you when you visit our websites (the “Site”) and how we use, share and protect this information.
 
 This Privacy Policy is part of and incorporated into the Terms of Use for the Site (“Terms of Use”), which govern your use of the Site. Please review the Terms of Use prior to using the Site.
 
@@ -12,7 +12,7 @@ This Privacy Policy is part of and incorporated into the Terms of Use for the Si
 
 It is always your choice, or the choice of anyone acting for you, whether to provide personal information, such as your name, mailing address, e-mail address or other information about yourself or data which can be reasonably linked to such information by us (“Personal Information”).However, in order to obtain certain materials and services from us and to use certain features of the Site, you will need to provide us with Personal Information about yourself, so the decision not to provide this information will limit or eliminate your ability to receive certain materials or use certain features of the Site.
 
-For example, to order educational items or subscribe to the _HHMI Bulletin_ , you will need to register with HHMI by creating a password-protected user account. As part of this registration process, you will be required to provide your name, mailing address, e-mail address and other information about yourself. In a similar fashion, to subscribe to e-newsletters or to submit feedback regarding the BioInteractive web pages, you will need to provide certain information about yourself, such as your e-mail address.
+For example, to order educational items, you will need to register with HHMI by creating a password-protected user account. As part of this registration process, you will be required to provide your name, mailing address, e-mail address and other information about yourself. In a similar fashion, to subscribe to e-newsletters or to submit feedback regarding the BioInteractive web pages, you will need to provide certain information about yourself, such as your e-mail address.
 
 You also can engage with some content of the Site, such as applications and other offerings, on or through third-party social networking sites and when you do so, you may allow us to have access to certain information from your social media profile and your interaction with our content. When you provide this information, you consent to use of this information in accordance with this Privacy Policy.
 
@@ -32,7 +32,7 @@ In general, we use information we collect on our Site to pursue our mission and 
   * communicate with you regarding our mission, programs and activities;
   * process and track your orders and provide the materials and services you request;
   * fulfill any other purpose for which you provide it;
-  * analyze visitor feedback and track site usage data in order to make improvements to the materials, services and features available on the Site and for other internal purposes. For example, we may identify which scientific topics covered in the _HHMI Bulletin_ are of greater relative interest to visitors, compare visitor numbers from different geographic locations inside and outside the U.S., assess interest level in specific HHMI publications and webcasts and modify editorial content based on visitor numbers and occupation;
+  * analyze visitor feedback and track site usage data in order to make improvements to the materials, services and features available on the Site and for other internal purposes. For example, we may compare visitor numbers from different geographic locations inside and outside the U.S., assess interest level in specific HHMI publications and webcasts and modify editorial content based on visitor numbers and occupation;
   * recruit participants for possible HHMI focus groups and studies;
   * comply with the law or the good faith belief that such action is necessary to conform with the requirements of law or to comply with legal process served on us; and
   * undertake other activities in accordance with your consent.
@@ -46,7 +46,7 @@ Subject to applicable law, we reserve the right to make all lawful, worldwide us
 We will only intentionally share your Personal Information with third parties under the following circumstances:
 
   * we may share Personal Information with affiliates, partners, contractors, service providers and other third parties we use to support our mission and operation;
-  * to fulfill the purpose for which you provided the Personal Information or for any other purpose disclosed by us when you provide Personal Information.  For example, to process your _HHMI Bulletin_ requests, your name and mailing address will be shared with HHMI's order fulfillment company, and if you agree to participate in an HHMI focus group, we may provide your Personal Information to the consulting firm we engage to help us perform the study;
+  * to fulfill the purpose for which you provided the Personal Information or for any other purpose disclosed by us when you provide Personal Information.  For example, to process order requests, your name and mailing address will be shared with HHMI's order fulfillment company, and if you agree to participate in an HHMI focus group, we may provide your Personal Information to the consulting firm we engage to help us perform the study;
   * to comply with any court order, law or legal process, including to respond to any government or regulatory request;
   * when we believe that doing so is required by law, may be necessary to protect any person’s property, rights or safety, to investigate a potential violation of law, to enforce any terms of use or other legal agreement, to protect against misuse or unauthorized use of the Site; or help to resolve disputes that arise in the ordinary course of business;
   * as a result of a reorganization process;
@@ -58,7 +58,7 @@ We will only intentionally share your Personal Information with third parties un
 
 **5\. Your Choices and Retention of Personal Information**
 
-You can review and update your account information by logging into your account at any time, and may close your HHMI account by submitting your request to the [HHMI Webmaster](https://www.hhmi.org/contact-us/). You may unsubscribe to e-mail news alerts at any time by clicking the unsubscribe link at the bottom of the emails, logging into your account and changing your e-mail alerts setting, or submitting your request to the [HHMI Webmaster](https://www.hhmi.org/contact-us/). We retain Personal Information for as long as we think is necessary or advisable and we reserve the right to retain it to the full extent not prohibited by law. Our third-party order fulfillment company also maintains a copy of contact information relating to _HHMI Bulletin_ requests they have processed for us. If you have any questions about what Personal Information about you HHMI retains or would like to request that HHMI not share your information as explained in this Privacy Policy, please contact the [HHMI Webmaster](https://www.hhmi.org/contact-us/).
+You can review and update your account information by logging into your account at any time, and may close your HHMI account by submitting your request to the [HHMI Webmaster](https://www.hhmi.org/contact-us/). You may unsubscribe to e-mail news alerts at any time by clicking the unsubscribe link at the bottom of the emails, logging into your account and changing your e-mail alerts setting, or submitting your request to the [HHMI Webmaster](https://www.hhmi.org/contact-us/). We retain Personal Information for as long as we think is necessary or advisable and we reserve the right to retain it to the full extent not prohibited by law. Our third-party order fulfillment company also maintains a copy of contact information relating to __ order requests they have processed for us. If you have any questions about what Personal Information about you HHMI retains or would like to request that HHMI not share your information as explained in this Privacy Policy, please contact the [HHMI Webmaster](https://www.hhmi.org/contact-us/).
 
 **6\. Information Security**
 
@@ -84,4 +84,4 @@ Although no changes in this policy are currently contemplated, the policy may ch
 
 If you have questions about this Privacy Policy, please contact the [HHMI Webmaster](https://www.hhmi.org/contact-us/).
 
-This policy was last updated on July 23, 2014.
+This policy was last updated on Juy 7, 2016.
