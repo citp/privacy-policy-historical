@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigeast.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206234659id_/https%3A//www.sidearmsports.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigeast.org privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212214824id_/https%3A//www.sidearmsports.com/privacypolicy) for the most accurate reproduction.*
 
 # SIDEARM Sports Privacy Policy | SIDEARM Sports – The #1 Provider of College Athletics Websites
 
@@ -37,7 +37,7 @@ Ads may be displayed within our apps. The ads you see may be targeted to you bas
 **Information Collected by Third Parties**  
 Some of the services and advertisements included in the SIDEARM Services, including on our Web Sites and within our mobile apps, are delivered or served by third-party companies. These companies may place or recognize cookies, Web beacons or other technology to track certain non-personal information about our website users. For example, in the course of serving certain advertisements, an advertiser may place or recognize a unique cookie on your browser in order to collect certain information about your use of the SIDEARM Services. In many cases, this information could be used to show you ads on other websites based on your interests.  
 We do not have access to, nor control over, advertisers’ or service providers’ use of cookies or other tracking technologies or how they may be used.  
-Your access to our Web Sites should not be affected if you do not accept cookies served by third parties.
+Your access to our Web Sites should not be affected if you do not accept cookies served by third parties. Some of the ad servers and ad networks may be members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies. If you opt out of receiving targeted ads from ad servers and ad networks on our Web Sites, you will continue to receive advertising and promotional messages, but they will not be customized or personalized to you based on your use of our Web Sites and/or third party websites. If you would like more information about advertisers’ use of tracking technologies and your option to not accept these cookies, you can go to [www.networkadvertising.org](http://www.networkadvertising.org/). If you would like to learn more about how interest-based information is collected, whether the companies we use are part of an industry network regarding behavioral advertising or about your choices regarding the use of your information, you can go to [www.aboutads.info](http://www.aboutads.info/).
 
   **WHAT WE DO WITH THE INFORMATION WE’VE COLLECTED ABOUT YOU**
 
