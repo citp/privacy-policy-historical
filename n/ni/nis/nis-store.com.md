@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nis-store.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608070950id_/http%3A//nis-store.com/company-policies/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nis-store.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212154327id_/http%3A//nis-store.com/company-policies/privacy-and-security) for the most accurate reproduction.*
 
 # NIS-Store
 
