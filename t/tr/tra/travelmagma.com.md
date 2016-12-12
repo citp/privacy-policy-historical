@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelmagma.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411031024id_/http%3A//www.travelmagma.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelmagma.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212185459id_/http%3A//www.travelmagma.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy blog shown in 7478747 blogs
+# Privacy Policy blog shown in 8952582 blogs
 
 PRIVACY POLICY
 
