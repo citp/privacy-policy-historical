@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zabox.net privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401103208id_/http%3A//zabox.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zabox.net privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212100804id_/http%3A//www.zabox.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - zaBox
 
