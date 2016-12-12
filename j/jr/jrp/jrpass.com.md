@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jrpass.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523213525id_/http%3A//www.jrpass.com/privacy_and_security_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jrpass.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212160120id_/http%3A//www.jrpass.com/privacy_and_security_policy) for the most accurate reproduction.*
 
 # Japan Rail Pass - privacy
 
