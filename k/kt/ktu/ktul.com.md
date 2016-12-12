@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktul.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516014120id_/http%3A//ktul.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktul.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212065404id_/http%3A//ktul.com/station/privacy) for the most accurate reproduction.*
 
 # Tulsa Privacy | News, Weather, Sports, Breaking News | KTUL
 
