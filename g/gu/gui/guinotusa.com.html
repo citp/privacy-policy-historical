@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the guinotusa.com privacy policy that was archived on 2016-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160524145557id_/http%3A//www.guinotusa.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the guinotusa.com privacy policy that was archived on 2016-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161212194003id_/http%3A//www.guinotusa.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class=" js svg"><head>
 	
 <link rel="stylesheet" href="/static/css/details.css" type="text/css" media="screen">
 
@@ -28,9 +28,46 @@
 	<link rel="shortcut icon" href="http://guinotusa.com/static/img/guinot.ico" type="image/x-icon">
 	<link rel="icon" href="http://guinotusa.com/static/img/guinot3.ico" type="image/x-icon">
 
+	<!-- <link href="http://fonts.googleapis.com/css?family=Open+Sans:100,300,400" rel="stylesheet" type="text/css"> -->
+	<script type="text/javascript" src="/static/snap/js/snap.svg-min.js"></script>
+	<script src="/static/snap/js/modernizr.custom.js"></script>
 	
-	<link rel="stylesheet" href="/static/css/main.css" type="text/css">
+	<link rel="stylesheet" type="text/css" href="/static/snap/css/component.css">
+	<link rel="stylesheet" href="/static/fonts/sansumi_extrabold/stylesheet.css" type="text/css">
+	<link rel="stylesheet" href="/static/fonts/sansumi_regular/stylesheet.css" type="text/css">
+	<script type="text/javascript">
+	$(document).ready(function() {
+	$("#menuBtn, .openMenu").click(function() {
+		if ($('#navSm').attr('class') != "activeNav") {
+			$('#navSm').fadeIn('fast');
+			$('#navSm, #mNav, #outerwrap, body').addClass('activeNav');
+			// $('#center').hide();
+			$('#navWrap').attr('style', 'background: rgba(255,255,255,0.95);');
+
+			$('html, body').animate({
+				scrollTop: $("#navSm").offset().top-50
+				}, 200);
+		}
+		else {
+			$('#navSm').hide();
+			// $('#center').show();
+			$('#navWrap').removeAttr('style');
+			$('#navSm, #mNav, #outerwrap, body').removeClass('activeNav');
+		}
+	});
+	});
+	</script>
+
+	<link rel="stylesheet" href="/static/css2/main.css" type="text/css">
+	<meta name="viewport" id="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<link id="styles" rel="stylesheet" type="text/css" media="screen and (max-width: 979px)" href="/static/css2/m/md_main.css">
+	<link id="styles" rel="stylesheet" type="text/css" media="screen and (max-width: 767px)" href="/static/css2/m/sm_main.css">
+
 	
+
+<!-- 	
+	<link rel="stylesheet" href="/static/css/main.css" type="text/css"/>
+	 -->
 
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -53,7 +90,11 @@
 <div id="menuBtn" class="menuBtn">
 <!-- 	<img src="/static/img/m/jbm_03.png" alt="" /> -->
 	<section class="si-icons si-icons-default">
-				<span class="si-icon si-icon-hamburger-cross" data-icon-name="hamburgerCross"></span>
+				<span class="si-icon si-icon-hamburger-cross" data-icon-name="hamburgerCross"><svg height="38" version="1.1" width="38" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><desc>Created with Snap</desc><defs></defs><g>
+		<path fill="none" stroke="#8D8D8D" stroke-width="4" stroke-linejoin="bevel" d="m 5.0916789,20.818994 53.8166421,0"></path>
+		<path fill="none" stroke="#8D8D8D" stroke-width="4" stroke-linejoin="bevel" d="m 5.1969746,31.909063 53.8166424,0"></path>
+		<path fill="none" stroke="#8D8D8D" stroke-width="4" stroke-linejoin="bevel" d="m 5.0916788,42.95698 53.8166422,0"></path>
+	</g></svg></span>
 			</section>
 </div>
 <a href="/" class="mLogo"><img src="/static/img/guinot_08.png" alt=""></a>
