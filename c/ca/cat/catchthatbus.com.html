@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the catchthatbus.com privacy policy that was archived on 2016-04-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160402214021id_/http%3A//www.catchthatbus.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the catchthatbus.com privacy policy that was archived on 2016-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161213001406id_/http%3A//www.catchthatbus.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>
-Privacy Policy - CatchThatBus.com
+Privacy Policy | CatchThatBus
 </title>
  
 <meta name="google-site-verification" content="88xeuwwALL0oQnVgNDoLd6x_5C2jaYGCnbF3sKsL2nM">
-<meta name="description" content="">
+<meta name="description" content="CatchThatBus privacy policy. CatchThatBus is a one stop bus ticket booking platform around Malaysia and Singapore. Read more here.">
 <meta name="keywords" content="">
 <meta property="og:url" content="">
 <meta property="og:title" content="">
@@ -20,29 +20,112 @@ Privacy Policy - CatchThatBus.com
 <link rel="icon" href="favicon.ico" type="image/x-icon">
  
  
+<link rel="stylesheet" href="/resources/css/vendor_bundle.css" type="text/css" media="screen">
  
-<link rel="stylesheet" href="/resources/css/bootstrap.min.css" type="text/css" media="screen">
+<link rel="stylesheet" type="text/css" media="screen" href="/resources/css/bundle.min.v1481169774.css">
  
-<link rel="stylesheet" href="/resources/css/layout.css" type="text/css" media="screen">
-<link rel="stylesheet" href="/resources/css/theme.css" type="text/css" media="screen">
-<link rel="stylesheet" href="/resources/css/jquery-ui.css" type="text/css" media="screen">
-<link rel="stylesheet" href="/resources/css/offcanvas.css" type="text/css" media="screen">
  
-<script async="" charset="utf-8" src="//v2.zopim.com/?1vZxLOeMNOq50NtpWQSsLRiXQuRoilXC" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NMB6N7"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+ 
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NMB6N7"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+ 
+ 
 <script type="text/javascript" src="/resources/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="/resources/js/handlebars.js"></script>
 <script type="text/javascript" src="/resources/js/jquery.tablesorter.min.js"></script>
 <script type="text/javascript" src="/resources/js/jquery.ddslick.min.js"></script>
+<script type="text/javascript" src="/resources/js/jquery.ui.touch-punch.min.js"></script>
 <script type="text/javascript" src="/resources/js/home.js"></script>
-</head><body><div id="fb-root"></div>
+ 
+<script src="//dev.visualwebsiteoptimizer.com/j.php?a=271746&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20161213001406id_%2Fhttp%253A%2F%2Fwww.catchthatbus.com%2Fprivacy-policy&amp;r=0.17131532750306522" type="text/javascript"></script><link rel="stylesheet" type="text/css" href="https://d36mpcpuzc4ztk.cloudfront.net/css/visitor.css"></head><body><div id="fb-root"></div>
+ 
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-34073925-1', 'auto');
+ga('send', 'pageview');
+</script>
+ 
 <script type="text/javascript">
+
+
 // For the off-canvas menu, now inlined.
+// $(document).ready(function() {
+//   $('[data-toggle=offcanvas]').click(function() {
+//     $('.row-offcanvas').toggleClass('active');
+//   });
+// });
+
+// ADDING URL QUERYSTRING BASED HOME BANNER 
+// NOTE:- Disabled till next promotion 
 $(document).ready(function() {
-  $('[data-toggle=offcanvas]').click(function() {
-    $('.row-offcanvas').toggleClass('active');
-  });
+
+
+    // CHANGE BANNER LANGUAGE 
+   var LANGUAGE=function(b,c,d,e){var f={};for(c=document.cookie.split("; "),e=c.length-1;e>=0;e--)d=c[e].split("="),f[d[0]]=d[1];return f[b]}("org.springframework.web.servlet.i18n.CookieLocaleResolver.LOCALE") || "en";
+
+   function getQueryStringValue(a){return unescape(window.location.search.replace(new RegExp("^(?:.*[&\\?]"+escape(a).replace(/[\.\+\*]/g,"\$&")+"(?:\\=([^&]*))?)?.*$","i"),"$1"))}
+
+    //1. Showing appropriate affiliate banner
+    if (getQueryStringValue('affiliateCode') == "involveasia" && getQueryStringValue('aff_id') != "") {
+
+        var affiliateID = getQueryStringValue('aff_id');
+
+        if (window.innerWidth >= 768) {
+            //2.UPDATE THE CSS CLASS '.home-bg' in layout.css
+            var BANNER_DOM = document.getElementsByClassName('home-bg')[0];
+
+            if (BANNER_DOM && BANNER_DOM.className) {
+                BANNER_DOM.className = "home-bg-" + affiliateID;
+            }
+
+            // Hiding our own Mobile-app banner since two banners on mobile looks Weird !! 
+            $('#mobile-pre-header').attr('style', ' display: none !important');
+
+            //Update Margins
+            document.getElementsByClassName('container')[0].setAttribute("style", "margin-top: -70px;margin-bottom: 150px");
+
+
+            // ADDING MULTILINGUAL AFFILATE LANDING PAGE
+            var allLanguageAffiliatesRegex = /5983/;
+            if (allLanguageAffiliatesRegex.test(affiliateID)) {
+              if (BANNER_DOM && BANNER_DOM.className) {
+                BANNER_DOM.className = "home-bg-" + affiliateID + "-" + LANGUAGE;
+              }
+            }
+
+            //floatingSearch
+            // document.getElementsByClassName('floatingSearch')[0].setAttribute("style", "margin-left: 150px;");
+
+            //$('.officialpartners').hide();
+
+            //$('.floatingSearch').find('.title').hide();
+            // $('.homeUl').hide() 
+
+        } else {
+
+
+            // ADDING MULTILINGUAL AFFILATE LANDING PAGE
+            var allLanguageAffiliatesRegex = /5983/;
+            if (allLanguageAffiliatesRegex.test(affiliateID)) {
+                $('#mobilePromoBox').addClass('mobile-promo-' + affiliateID + "-" + LANGUAGE);
+            } else {
+                $('#mobilePromoBox').addClass('mobile-promo-' + affiliateID);
+            }
+
+               // ADDING MOBILE TOP BANNER
+            var topMobileBannerAffiliatesRegex = /mycybersale/;
+            if (topMobileBannerAffiliatesRegex.test(affiliateID)) {
+                document.querySelector('#download-banner-mobile').src="/resources/images/banner/mobile/"+affiliateID+"_en.png";
+            } 
+
+        }
+    }
 });
+
 </script>
 <script>
 // ================== Social Login ====================== //
@@ -57,7 +140,7 @@ $(document).ready(function() {
 
   window.fbAsyncInit = function() {
   FB.init({
-    appId      : '474099482700566',
+    appId      : '232650573596753',
     status     : true, // check login status
     cookie     : true, // enable cookies to allow the server to access the session
     xfbml      : true  // parse XFBML
@@ -120,12 +203,19 @@ $(document).ready(function() {
       }
 </script>
  
-
+ 
 <script type="text/javascript">
-//<![CDATA[
-try{(function(a){var b="http://",c="catchthatbus.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
-//]]>
-</script>
+			var _vwo_code=(function(){
+			var account_id=271746,
+			settings_tolerance=2000,
+			library_tolerance=2500,
+			use_existing_jquery=false,
+			/* DO NOT EDIT BELOW THIS LINE */
+			f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+		</script>
+ 
+
+
  
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NMB6N7" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -135,7 +225,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-NMB6N7');</script>
  
  
-<style type="text/css">body{background:#f1f1f1!important;}.stepIndicators{position:relative;float:left;background:transparent;border:0;color:black;height:30px;width:150px;margin-top:0px;font-weight:bold;color:#e0e0e0;font-weight:normal;}.stepIndicators.active{position:relative;float:left;background:#d1343f;border:0;color:white;font-weight:bold;border-top-right-radius:0px;border-bottom-right-radius:0px;border-top-left-radius:0px;border-bottom-left-radius:0px;}.stepIndicators.done{background:#2a2a2a;color:white;border-top-left-radius:3px;border-bottom-left-radius:3px;font-weight:bold;}.stepIndicators.active:after,.stepIndicators.active:before{content:"";position:absolute;top:50%;margin-top:-15px;border-top:15px solid transparent;border-bottom:15px solid transparent;border-left:1em solid;right:-1em;}.stepIndicators.done:after,.stepIndicators.done:before{z-index:999;content:"";position:absolute;top:50%;margin-top:-15px;border-top:15px solid transparent;border-bottom:15px solid transparent;border-left:1em solid #2a2a2a;right:-1em;}.stepIndicators.active:after{z-index:2;border-left-color:#d1343f;}#bookNow,#mdProceed{}.row{background:transparent;border:0!important;}.Confirmation-details{background:white!important;}.journey{background:white!important;padding:10px!important;}.filter-blocks{border:0!important;}.filter-accor{border:0!important;}.scsMsg{border:0;background:transparent!important;font-weight:bold;}.help{margin-top:47px;}.btn-default{background:#2a2a2a;color:white;margin-top:5px;}.table{border:0!important;}.psg-details{border:0!important;}th{border-bottom:0!important;}.depDetails{margin-bottom:50px;}.btn-primary{background:#2a2a2a;border:0;}#mdProceed,#bookNow{font-weight:bold;}.time{font-size:20px;}.dd-selected-text{color:black!important;}#bookNow,#mdProceed,#paycd{background:#27ae60;border-radius:3px!important;}#bookNow:hover,#mdProceed:hover,#paycd:hover{background:#1abc9c;}#countryCurrencySub li{color:#428bca;}.footer{width:1210px;}.displayNone{display:none}.display{display:block}.chill{pointer-events:none;}#menuClick .glyphicon-align-justify{font-size:12px;top:0;}@media (max-width:767px) {.logo img{max-height:20px;}#hdCallUs .glyphicon.glyphicon-earphone{padding:0 10px 10px 10px;}}@media (min-width:768px) and (max-width:1199px) {.countryCode,.countryCurrency{width:65px;}.countryCode ul#countryCodeSub,.countryCurrency ul#countryCurrencySub{left:-10px;}}@media (max-width: 767px) {.countryCode,.countryCurrency{width:40px;}.countryCode ul#countryCodeSub,.countryCurrency ul#countryCurrencySub{left:-10px;}}#hdCallUs .call_txt{margin-top:1px;margin-left:2px;cursor:pointer;}#hdCallUs .contact_numbers{display:block;list-style:none;position:absolute;top:40px;width:155px;background:#fff;right:0;text-align:right;border:1px solid #ddd;border-top:0;padding:0;display:none;}#hdCallUs .contact_numbers li{padding:8px;float:none;border-bottom:1px solid #ddd;cursor:pointer;}#hdCallUs .contact_numbers li:last-child{border-bottom:0;}#hdCallUs .contact_numbers li:hover{background:#F9F9F9;}.modal-backdrop{z-index:999999999;}.modal{z-index:9999999999999;}.modal-open .modal{top:25%;}#call_numbers_modal .modal-body{padding:0;}#call_numbers_modal .modal-dialog{margin:0 20px;}#call_numbers_modal .modal-body a{width:100%;display:block;padding:15px;color:#333;border-top:1px solid #eee;}#call_numbers_modal .modal-body a:first-child{border-top:0;}#call_numbers_modal .modal-header h3{margin:0;font-size:16px;}</style>
+<style type="text/css">body{background:#f1f1f1!important;}.stepIndicators{position:relative;float:left;background:transparent;border:0;color:black;height:30px;width:150px;margin-top:0px;font-weight:bold;color:#e0e0e0;font-weight:normal;}.stepIndicators.active{position:relative;float:left;background:#d1343f;border:0;color:white;font-weight:bold;border-top-right-radius:0px;border-bottom-right-radius:0px;border-top-left-radius:0px;border-bottom-left-radius:0px;}.stepIndicators.done{background:#2a2a2a;color:white;border-top-left-radius:3px;border-bottom-left-radius:3px;font-weight:bold;}.stepIndicators.active:after,.stepIndicators.active:before{content:"";position:absolute;top:50%;margin-top:-15px;border-top:15px solid transparent;border-bottom:15px solid transparent;border-left:1em solid;right:-1em;}.stepIndicators.done:after,.stepIndicators.done:before{z-index:999;content:"";position:absolute;top:50%;margin-top:-15px;border-top:15px solid transparent;border-bottom:15px solid transparent;border-left:1em solid #2a2a2a;right:-1em;}.stepIndicators.active:after{z-index:2;border-left-color:#d1343f;}#bookNow,#mdProceed{}.row{background:transparent;border:0!important;}.Confirmation-details{background:white!important;}.journey{background:white!important;padding:10px!important;}.filter-blocks{border:0!important;}.filter-accor{border:0!important;}.scsMsg{border:0;background:transparent!important;font-weight:bold;}.help{margin-top:47px;}.btn-default{background:#2a2a2a;color:white;margin-top:5px;}.table{border:0!important;}.psg-details{border:0!important;}th{border-bottom:0!important;}.depDetails{margin-bottom:50px;}.btn-primary{background:#2a2a2a;border:0;}#mdProceed,#bookNow{font-weight:bold;}.time{font-size:20px;}.dd-selected-text{color:black!important;}#bookNow,#mdProceed,#paycd{background:#27ae60;border-radius:3px!important;}#bookNow:hover,#mdProceed:hover,#paycd:hover{background:#1abc9c;}#countryCurrencySub li{color:#428bca;}.footer{width:1210px;}.displayNone{display:none}.display{display:block}.chill{pointer-events:none;}#menuClick .glyphicon-align-justify{font-size:12px;top:0;}@media (max-width:767px) {.logo img{max-height:20px;}#hdCallUs .glyphicon.glyphicon-earphone{padding:0 10px 10px 10px;}}@media (min-width:768px) and (max-width:1199px) {.countryCode,.countryCurrency{width:65px;}.countryCode ul#countryCodeSub,.countryCurrency ul#countryCurrencySub{left:-10px;}}@media (max-width: 767px) {.countryCode,.countryCurrency{width:15px;}.countryCode ul#countryCodeSub,.countryCurrency ul#countryCurrencySub{left:-30px;}}#hdCallUs .call_txt{margin-top:1px;margin-left:2px;cursor:pointer;}#hdCallUs .contact_numbers{display:block;list-style:none;position:absolute;top:40px;width:155px;background:#fff;right:0;text-align:right;border:1px solid #ddd;border-top:0;padding:0;display:none;}#hdCallUs .contact_numbers li{padding:8px;float:none;border-bottom:1px solid #ddd;cursor:pointer;}#hdCallUs .contact_numbers li:last-child{border-bottom:0;}#hdCallUs .contact_numbers li:hover{background:#F9F9F9;}.modal-backdrop{z-index:999999999;}.modal{z-index:9999999999999;}.modal-open .modal{top:25%;}#call_numbers_modal .modal-body{padding:0;}#call_numbers_modal .modal-dialog{margin:0 20px;}#call_numbers_modal .modal-body a{width:100%;display:block;padding:15px;color:#333;border-top:1px solid #eee;}#call_numbers_modal .modal-body a:first-child{border-top:0;}#call_numbers_modal .modal-header h3{margin:0;font-size:16px;}.floating{float:left;-webkit-animation-name:Floatingx;-webkit-animation-duration:1s;-webkit-animation-iteration-count:infinite;-webkit-animation-timing-function:ease-in-out;-moz-animation-name:Floating;-moz-animation-duration:3s;-moz-animation-iteration-count:infinite;-moz-animation-timing-function:ease-in-out;margin-left:30px;margin-top:5px;}@-webkit-keyframes Floatingx{from{-webkit-transform:translate(0,0px);}65%{-webkit-transform:translate(0,15px);}to{-webkit-transform:translate(0,-0px);}}@-moz-keyframes Floating{from{-moz-transform:translate(0,0px);}65%{-moz-transform:translate(0,15px);}to{-moz-transform:translate(0,-0px);}}.scaling{float:left;-webkit-animation-name:scalex;-webkit-animation-duration:3s;-webkit-animation-iteration-count:infinite;-webkit-animation-timing-function:ease-in-out;-moz-animation-name:scale;-moz-animation-duration:3s;-moz-animation-iteration-count:infinite;-moz-animation-timing-function:ease-in-out;}@-webkit-keyframes scalex{from{-webkit-transform:scale(0.9);}65%{-webkit-transform:scale(1.0);}to{-webkit-transform:scale(0.9);}}@-moz-keyframes scale{from{-moz-transform:scale(0.9);}65%{-moz-transform:scale(1.0);}to{-moz-transform:scale(0.9);}}</style>
 <div class="modal" id="call_numbers_modal" role="dialog">
 <div class="modal-dialog">
  
@@ -161,7 +251,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <span class="glyphicon glyphicon-align-justify"></span>
 </a>
 </div>
-<div class="countryCode hidden-xs">
+<div class="countryCode">
 <span id="countryCodeText" class="hidden-md hidden-sm hidden-xs">Language</span>
 <div id="countryCode">
 <img src="resources/images/flg-eng.png">
@@ -171,22 +261,29 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li>
 <a>
 <img src="resources/images/flg-eng.png">
-<span class="hidden-xs">ENG</span>
+<span class="">ENG</span>
 </a>
 </li>
 <li>
 <a>
 <img src="resources/images/flg-mly.png">
-<span class="hidden-xs">MLY</span>
+<span class="">MLY</span>
+</a>
+</li>
+<li>
+<a>
+<img src="resources/images/flg-cn.png">
+<span class="">中文</span>
 </a>
 </li>
 </ul>
 </div>
- 
+<div class="countryCurrency">
+</div>
 <div id="menuAbsolute" class="displayNone">
 <ul>
 <li><a href="/">Express</a></li>
-<li><a href="/rent-a-bus" target="_blank">Charter</a></li>
+ 
 <li class="small"><a href="/about">About Us</a></li>
 <li class="small"><a href="/contact">Contact Us</a></li>
 </ul>
@@ -194,15 +291,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <div class="col-sm-4 col-xs-4" style="margin-top:10px; text-align:center;">
 <a style="text-align:center;" class="logo hidden-xs" href="/">
-<img src="resources/images/logo.jpg" alt="CatchThatBus">
+<img src="resources/images/homepage-logo.png" style="height: 23px;padding-top: 5px;" alt="CatchThatBus">
 </a>
 <a class="logo visible-xs" style="text-align:center;" href="/">
-<img src="resources/images/logo-mobile.png" alt="CatchThatBus">
+<img src="resources/images/homepage-logo.png" style="width:112px" alt="CatchThatBus">
 </a>
 </div>
 <div class="col-sm-4 col-xs-4 menuRelative">
-<ul class="hdrQckLks">
-<li id="hdSamePrice"><span class="dollarCircle visible-md visible-lg">$</span> <span class="visible-lg">Same as Counter Price!</span></li>
+<ul class="hdrQckLks" style="padding-left:30px;">
+<li id="hdSamePrice"><span class="dollarCircle visible-md visible-lg"></span> <span class="visible-lg">100% Secure Payment!</span></li>
 <li id="hdCallUs">
 <span class="glyphicon glyphicon-earphone"></span>
 <span class="call_txt visible-sm visible-md visible-lg">Call Us Now</span>
@@ -248,147 +345,133 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     //to hide the currency list option on payment and confirmation page.
     var urlString = window.location.href;
-    if(urlString.indexOf("payment") !== -1 || urlString.indexOf("confirmItinerary") !== -1 ) {
-      $(".countryCurrency").hide();
-    }
+    // if(urlString.indexOf("payment") !== -1 || urlString.indexOf("confirmItinerary") !== -1 ) {
+    //   $('.countryCurrency #countryCurrency').addClass('disableCurrencyDropdown');
+    // }else{
+    //   $('.countryCurrency #countryCurrency').removeClass('disableCurrencyDropdown');
+    // }
+    var URL = window.location.href;
+    var CURR_PARAM = (URL.indexOf('curr')!=-1)  ?URL.substr(URL.indexOf('curr')+5,3).toUpperCase():"";
     var currencyCodeRegex = new RegExp(/[A-Z]{3}/);
-    var currencyCode = getCookie("currencyCode");
+    var currencyCode = CURR_PARAM || localStorage.getItem("currencyCode");
 
-    if (currencyCode === undefined || currencyCode === null || currencyCode === 'undefined') {
-      console.log('Currency code empty');
-      setCookie('MYR');
-      $("#countryCurrency").text('MYR');
-    } else {
-      console.log('Currency code found');
-      $("#countryCurrency").text(currencyCode);
-    }
+    
 
-    if (getCookie("org.springframework.web.servlet.i18n.CookieLocaleResolver.LOCALE") === "my") {
-      $("#countryCode img").attr('src', '/resources/images/flg-mly.png');
-      $("#countryName").text('MLY');
-    }
-    else {
-      $("#countryCode img").attr('src', '/resources/images/flg-eng.png');
-      $("#countryName").text('ENG');
-    }
+    var currencyUrl = location.protocol + "//" + location.host +"/ajax/currencies";
+    var countryCurrencyTextDOM = "<span id=\"countryCurrencyText\" class=\"hidden-md hidden-sm hidden-xs\">Currency</span>";
+    $(".countryCurrency").empty();
+    
+    $.getJSON(currencyUrl ,function(data){
+      var defaultCurrency = "MYR";
+        if(null != data && "" != data){
+          defaultCurrency = data.mainCurrency;
+          $(".countryCurrency").append(countryCurrencyTextDOM);
+            $(".countryCurrency").append("<div class=\"disableCurrencyDropdown\" id=\"countryCurrency\">"+defaultCurrency+"</div>");
+            $("#countryCurrency").after("<ul id=\"countryCurrencySub\" class=\"displayNone\"></ul>");
+          var currencyArray = data.availableCurrencies;
+          $.each(currencyArray, function(index, value){
+            $("#countryCurrencySub").append("<li value = \""+value+"\">"+value+"</li>");
+            });
+          
+          if (currencyCode === undefined || currencyCode === null || currencyCode === 'undefined') {
+                console.log('Currency code empty');
+                setCookie('MYR');
+                $("#countryCurrency").text('MYR');
+              } else {
+                console.log('Currency code found');
+                $("#countryCurrency").text(currencyCode);
+              }
 
-    $("#countryCode").on("click", function(){
-      $("#countryCodeSub").toggleClass("display");
-    });
+              var languageSelected = getCookie("org.springframework.web.servlet.i18n.CookieLocaleResolver.LOCALE");
 
-    $("#countryCodeSub").on("click", "li", function(e){
-      //e.preventDefault();
-      var imgName = $(this).find("img").attr("src");
-      $("#countryCodeSub").css('display','none');
+              if (languageSelected == "my") {
+                $("#countryCode img").attr('src', '/resources/images/flg-mly.png');
+                $("#countryName").text('MLY');
+              }
+              if (languageSelected == "cn") {
+                $("#countryCode img").attr('src', '/resources/images/flg-cn.png');
+                $("#countryName").text('中文');
+              }
+              if (languageSelected == "en") {
+                $("#countryCode img").attr('src', '/resources/images/flg-eng.png');
+                $("#countryName").text('ENG');
+              }
 
-      localeRoute = new RegExp(/\/[me][yn]\//);
-      if(localeRoute.test(window.location.href)) {
-        if(imgName.indexOf('mly') >= 0) {
-          window.location.href = window.location.protocol + '//' + window.location.host + '/my' + window.location.pathname.substring(3) + window.location.search;
-        } 
-        else if(imgName.indexOf('eng') >= 0) {
-          window.location.href = window.location.protocol + '//' + window.location.host + '/en' + window.location.pathname.substring(3) + window.location.search;
+              $("#countryCode").on("click", function(){
+                $("#countryCodeSub").toggleClass("display");
+              });
+
+              $("#countryCodeSub").on("click", "li", function(e){
+                //e.preventDefault();
+                var imgName = $(this).find("img").attr("src");
+                $("#countryCodeSub").css('display','none');
+                var urlValue = window.location.href;
+                if(imgName.indexOf('eng') >= 0){
+                  if(urlValue.indexOf("/en") >= 0 || urlValue.indexOf("/my") >= 0 || urlValue.indexOf("/cn") >= 0){
+                      window.location.href = window.location.protocol + '//' + window.location.host + '/en' + window.location.pathname.substring(3) + window.location.search;
+                  } else {
+                      window.location.href = window.location.protocol + '//' + window.location.host + '/en' + window.location.pathname+ window.location.search;
+                  }
+                } else if(imgName.indexOf('mly') >= 0){
+                  if(urlValue.indexOf("/en") >= 0 || urlValue.indexOf("/my") >= 0 || urlValue.indexOf("/cn") >= 0){
+                      window.location.href = window.location.protocol + '//' + window.location.host + '/my' + window.location.pathname.substring(3) + window.location.search;
+                  } else {
+                      window.location.href = window.location.protocol + '//' + window.location.host + '/my' + window.location.pathname+ window.location.search;
+                  }
+                } else {
+                  if(urlValue.indexOf("/en") >= 0 || urlValue.indexOf("/my") >= 0 || urlValue.indexOf("/cn") >= 0){
+                      window.location.href = window.location.protocol + '//' + window.location.host + '/cn' + window.location.pathname.substring(3) + window.location.search;
+                  } else {
+                      window.location.href = window.location.protocol + '//' + window.location.host + '/cn' + window.location.pathname+ window.location.search;
+                  }
+                }
+              });
+              
+              $("#menuAbsolute").css("height",$(window).height()- 60);
+              $("#menuClick").click(function(){
+                $("#menuAbsolute").toggleClass("display");
+                return false;
+              });
+              
+              var showHide=false;
+              $("#countryCurrency").on("click", function(){
+                showHide = !showHide;
+                if(showHide){
+                  $("#countryCurrencySub").show();
+                }else{
+                  $("#countryCurrencySub").hide();
+                }
+                $("#countryCurrencySub").toggleClass("display");
+                
+              });
+              
+              // $("#countryCurrencySub li").on("click", function(e) {
+              //   e.stopPropagation();
+              //   var selectedCurrency = $(this).text();
+              //   var currentCurrency = $("#countryCurrency").text();
+              //   var newText = selectedCurrency;
+              //   $("#countryCurrency").text(selectedCurrency);
+              //   $("#countryCurrencySub").hide();
+              //   showHide = !showHide;
+                
+              //   if( currentCurrency != selectedCurrency ) {
+              //     console.log("currency code on changing the drop down :" + selectedCurrency + " " + $(this).val() + " and page is :" + window.location.href);
+              //     setCookie(selectedCurrency);
+              //     var urlString = window.location.href;
+              //     urlString = location.protocol + "//" + location.host  + "/" + urlString.substring(urlString.indexOf("express"), urlString.length);
+              //     // console.log("url: "+ urlString);
+              //     // if(urlString.indexOf("express?") > -1){
+              //     //   $('body').prepend("<div class='loadingIndicator'><h1 style='margin:20px;'>Converting the prices...</h1><img src='/resources/images/loading.gif' style='height:50px;'/></div>");
+              //     //   console.log('url extract is:'+urlString);
+              //     //   urlString = urlString.replace(/curr=[A-Z]{3}/, 'curr=' + selectedCurrency);
+              //     //   window.location.href = urlString;
+              //     // }
+              //   }
+              // });
         }
-      } else {
-        if(imgName.indexOf('mly') >= 0) {
-          window.location.href = window.location.protocol + '//' + window.location.host + '/my' + window.location.pathname + window.location.search;
-        } 
-        else if(imgName.indexOf('eng') >= 0) {
-          window.location.href = window.location.protocol + '//' + window.location.host + '/en' + window.location.pathname + window.location.search;
-        }
-      }
     });
     
-    $("#menuAbsolute").css("height",$(window).height()- 60);
-    $("#menuClick").click(function(){
-      $("#menuAbsolute").toggleClass("display");
-      return false;
-    });
     
-    //Updated code
-    
-    //var currencyFromCookie = getCookie("currencyCode");
-    // if(currencyCode !== undefined || currencyCode !== 'undefined' || currencyCode !== null || currencyCode !== ''){
-    //   console.log("currency read from cookie if present: " + currencyCode);
-    //   var curr = new Object();
-    //   curr.currencyCode = currencyCode;
-    //   $.ajax({
-    //     url : location.protocol + "//" + location.host + "/changeCurrency",
-    //     datatype:"json",
-    //     contentType:"application/json; charset=utf-8",
-    //     type: 'POST',
-    //     data: JSON.stringify(curr),
-    //     success : function(){console.log('ajax call successfull');}
-    //   });
-    // }
-    // //the else block in the below code is not required because the default value is being
-    // //set in the session in the controller itself.
-    // else{
-    //   console.log("currency does not exist in cookie");
-    //   var curr = new Object();
-    //   curr.currencyCode = "MYR"; //defualt currency option
-    //   console.log("before making ajax call currency is:default");
-    //   $.ajax({
-    //     url : location.protocol + "//" + location.host + "/changeCurrency",
-    //     datatype:"json",
-    //     contentType:"application/json; charset=utf-8",
-    //     type: 'POST',
-    //     data: JSON.stringify(curr),
-    //     success : function(){
-    //       console.log('ajax call successfull');
-    //     }
-    //   });
-    //   setCookie(curr.currencyCode);
-    // }
-
-    var showHide=false;
-    $("#countryCurrency").on("click", function(){
-      showHide = !showHide;
-      if(showHide){
-        $("#countryCurrencySub").show();
-      }else{
-        $("#countryCurrencySub").hide();
-      }
-      $("#countryCurrencySub").toggleClass("display");
-      
-    });
-    
-    $("#countryCurrencySub li").on("click", function(e) {
-      //e.preventDefault();
-      e.stopPropagation();
-      //var imgName = $(this).find("img").attr("src");
-      //$("#countryCurrency").find("img").attr('src', imgName);
-      var selectedCurrency = $(this).text();
-      var currentCurrency = $("#countryCurrency").text();
-      var newText = selectedCurrency;
-      $("#countryCurrency").text(selectedCurrency);
-      $("#countryCurrencySub").hide();
-      showHide = !showHide;
-      
-      if( currentCurrency != selectedCurrency ) {
-        console.log("currency code on changing the drop down :" + selectedCurrency + " " + $(this).val() + " and page is :" + window.location.href);
-        setCookie(selectedCurrency);
-        var urlString = window.location.href;
-        // var curr = new Object();
-        // curr.currencyCode = selectedCurrency; //$(this).val();
-        // $.ajax({
-        //     url : location.protocol + "//" + location.host + "/changeCurrency",
-        //     datatype:"json",
-        //     contentType:"application/json; charset=utf-8",
-        //     type: 'POST',
-        //     data: JSON.stringify(curr),
-        //     success : function(){console.log('ajax call successfull on change event');}
-        //   });
-        urlString = location.protocol + "//" + location.host  + "/" + urlString.substring(urlString.indexOf("express"), urlString.length);
-        console.log("url: "+ urlString);
-        if(urlString.indexOf("express?") > -1){
-          $('body').prepend("<div class='loadingIndicator'><h1 style='margin:20px;'>Converting the prices...</h1><img src='/resources/images/loading.gif' style='height:50px;'/></div>");
-          console.log('url extract is:'+urlString);
-          urlString = urlString.replace(/curr=[A-Z]{3}/, 'curr=' + selectedCurrency);
-          window.location.href = urlString;
-        }
-      }
-    });
     
     // End of updated code
     function setCookie(val) {
@@ -427,6 +510,272 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       }
     }
   });
+
+     var CURRENCY_COMPILER = (function() {
+
+
+       var USER_CURRENCY_KEY = 'currencyCode',
+           DEFAULT_CURRENCY = 'MYR',
+           CURRENT_CURRENCY = '',
+           TEMPLATES = {};
+
+
+
+       function initialize() {
+
+
+           //$(function() {
+
+           if (getLocalStorage(USER_CURRENCY_KEY)) {
+               CURRENT_CURRENCY = getLocalStorage(USER_CURRENCY_KEY);
+           } else {
+               // Setting Default Currency
+               setLocalStorage(DEFAULT_CURRENCY);
+               CURRENT_CURRENCY = DEFAULT_CURRENCY;
+           }
+
+
+           // Currency Dropdown on Header bar
+           $(document.body).delegate('.menuRelative #countryCurrencySub li', 'click', onCurrencyChange);
+           //$(".menuRelative #countryCurrencySub").on("click", 'li', onCurrencyChange);
+           //$("#countryCurrencySub li").on("click", onCurrencyChange);
+
+
+           // HandleBar Helper
+           Handlebars.registerHelper('getCurrentCity', function(block) {
+
+               return CURRENCY_COMPILER.getCurrentCurrency(); //just return global variable value
+           });
+
+
+           Handlebars.registerHelper('getFarePrice', function(block, data) {
+
+               var currCurrencies = this['currencyVsFareDetails'];
+
+               if (currCurrencies && currCurrencies[CURRENCY_COMPILER.getCurrentCurrency()]) {
+                   return this['currencyVsFareDetails'][CURRENCY_COMPILER.getCurrentCurrency()]['adultFare'];
+               } else {
+                   return "N.A";
+               }
+           });
+           //});
+       }
+
+
+       function onCurrencyChange(e) {
+
+           e.stopPropagation();
+           var selectedCurrency = $(this).text();
+           var currentCurrency = $("#countryCurrency").text();
+           var newText = selectedCurrency;
+           $("#countryCurrency").text(selectedCurrency);
+           $("#countryCurrencySub").hide();
+
+           // Setting Currency Cookie
+           if (currentCurrency != selectedCurrency) {
+               //console.log("currency code on changing the drop down :" + selectedCurrency + " " + $(this).val() + " and page is :" + window.location.href);
+               setLocalStorage(selectedCurrency);
+           }
+
+
+
+           var allTemplatesLoaded = getAllTemplate();
+
+           if (allTemplatesLoaded) {
+               for (item in allTemplatesLoaded) {
+                   CURRENCY_COMPILER[item]();
+               }
+           }
+       }
+
+
+       // function getCookie(cookieName) {
+
+       //     var name = cookieName + "=";
+       //     var cookieValue = document.cookie.split(";");
+       //     for (var i = 0; i < cookieValue.length; i++) {
+       //         var c = cookieValue[i].trim();
+       //         if (c.indexOf(name) == 0) {
+       //             return (c.substring(name.length, c.length));
+       //         }
+       //     }
+       // }
+
+       // function setCookie(cookieName, val) {
+
+       //     var expires = new Date();
+       //     expires.setMinutes(expires.getMinutes() + 2);
+       //     var d = "expires = " + expires;
+
+       //     document.cookie = cookieName + "=" + val + ";";
+       // }
+
+       function setLocalStorage(val) {
+           if (localStorage) {
+               localStorage.setItem(USER_CURRENCY_KEY, val);
+           }
+       }
+
+       function getLocalStorage() {
+           if (localStorage) {
+               return localStorage.getItem(USER_CURRENCY_KEY);
+           }
+       }
+
+       function getNewCurrency(item) {
+
+           var newCurrency = $(this).text();
+           return newCurrency;
+       }
+
+       function setNewCurrency(selectedCurrency) {
+           setCurrentCurrency(selectedCurrency);
+           $("#countryCurrency").text(selectedCurrency);
+       }
+
+       function getCurrentCurrency() {
+          var URL_CURRENCY_PARAM_OVERRIDE = GetURLParameter('curr');
+           CURRENT_CURRENCY = URL_CURRENCY_PARAM_OVERRIDE || $("#countryCurrency").text() || getLocalStorage("currencyCode");
+           return CURRENT_CURRENCY || DEFAULT_CURRENCY;
+       };
+
+       function setCurrentCurrency(currency) {
+
+           CURRENT_CURRENCY = currency;
+       };
+
+       function saveTemplateData(name, template, data) {
+
+           var templateName = name,
+               templateData = data,
+               templateHTML = template;
+
+           if (templateName && templateData && templateHTML) {
+
+               TEMPLATES[templateName] = {
+                   templateID: templateName,
+                   templateData: templateData,
+                   templateHTML: templateHTML
+               };
+           }
+           return TEMPLATES[templateName] || undefined;
+       }
+
+       function getAllTemplate() {
+           return TEMPLATES || undefined;
+       }
+
+       function getTemplate(templateName) {
+           return TEMPLATES[templateName] || undefined;
+       }
+
+       function refreshOnwardTrips(name, template, data) {
+
+
+           var templateObj = saveTemplateData(name || 'refreshOnwardTrips', template, data);
+
+           var templateData = templateObj.templateData;
+           var templateHTML = templateObj.templateHTML;
+
+
+           $('#append-search-rows').empty();
+
+           var counter = 0;
+           var operatorID = new Array();
+           $.each(templateData, function(i, val) {
+               counter++;
+               if (val.operatorCode != undefined) {
+                   var ppd = val.pickupPointDetails;
+                   operatorID.push(val.operatorCode);
+                   departpickupPointId = (ppd[0] && ppd[0].pickupPointId) || -1;
+
+
+                   var source = templateHTML;
+                   var template = Handlebars.compile(source);
+
+                    var ROW_HTML=template(val); 
+                        var $ROW_HTML=$(ROW_HTML);
+                        $ROW_HTML.data('details',val);
+                        $('#append-search-rows').append($ROW_HTML);
+
+                   if (val.seatAvailability != undefined && (val.seatAvailability).toUpperCase() == "SOLD OUT") {
+                       // $('#' + val.tripId).css({ 'background-color': '#f9f9f9' });
+                       // $('#' + val.tripId + ' .mDetailsPop').html("SOLD OUT");
+                       // $('#' + val.tripId + ' .mDetailsPop').css({ 'background-color': '#000000', 'padding': '0' }).attr("disabled", "disabled");
+
+                       //Fix for duplicate trip id
+                      $ROW_HTML.css({ 'background-color': '#f9f9f9' });    
+                      $ROW_HTML.find('.mDetailsPop').html("SOLD OUT");
+                      $ROW_HTML.find('.mDetailsPop').css({ 'background-color': '#000000', 'padding': '0' }).attr("disabled", "disabled");
+
+                   }
+
+                   var unformatted = $('#' + val.tripId + ' #deptTime').text() + $('#' + val.tripId + ' #depAmPm').text();
+                   var timesplit = unformatted.split(" ");
+                   var time1 = timesplit[0];
+                   var time2 = " " + timesplit[1];
+                   $('#' + val.tripId + ' #deptTime').text(time1);
+                   $('#' + val.tripId + ' #depAmPm').text(time2);
+
+
+                   var unformatted1 = $('#' + val.tripId + ' #retTime').text() + $('#' + val.tripId + ' #retAmPm').text();
+                   if (unformatted1 != "-") {
+                       var timesplit1 = unformatted1.split(" ");
+                       var time3 = timesplit1[0];
+                       var time4 = " " + timesplit1[1];
+                       $('#' + val.tripId + ' #retTime').text(time3);
+                       $('#' + val.tripId + ' #retAmPm').text(time4);
+                   }
+               }
+
+               if (val.offers != undefined) {
+                   $('#' + val.tripId + ' .opHead').append("<br><a href='#' class='tooltip1' style='float:right;margin-right:35px;margin-top:-20px;font-size:10px;text-align:center;' >Free Limousine<span>" + val.offers + "</span></a>");
+               }
+               // console.log(counter);
+
+           });
+
+           // Re-Update the Newly formed table with Sorting Plugin
+           $('.tablesorter').trigger('update');
+
+           // Update price slider after the Currency change
+           priceSlider();
+
+           // Applying the Right panel Drop-off Points Filter
+           applyRightPanelFilter();
+       }
+
+       var currencyFunction = {
+
+           // Variables
+           CURRENT_CURRENCY: CURRENT_CURRENCY,
+
+           // Functions
+           getCurrency: getLocalStorage,
+           setCurrency: setLocalStorage,
+           saveTemplateData: saveTemplateData,
+           getCurrentCurrency: getCurrentCurrency,
+           refreshOnwardTrips: refreshOnwardTrips
+       }
+
+       initialize();
+
+       return currencyFunction;
+   })();
+
+   /* reveal images */
+  (function($){
+      $.fn.revealImage = function(){
+          var args = Array.prototype.slice.call(arguments);
+          return this.each(function(){
+              var img = $(this),
+                  src = img.data("src");
+              src && img.attr("src", src).load(function(){
+                  img[args[0]||"show"].apply(img, args.splice(1));
+              });
+          });
+      }
+  })(jQuery);
 </script>
 <meta charset="utf-8">
 <meta name="description" content="The CatchThatBus Privacy Policy describes the privacy practices of our websites, products, online services, and apps. Learn more.">
@@ -567,8 +916,9 @@ If you would like to: access, correct, amend or delete any personal information 
 <li><a href="/kualalumpur-to-kuantan">Kuala Lumpur to Kuantan</a></li>
 <li><a href="/kualalumpur-to-melaka">Kuala Lumpur to Melaka</a></li>
 <li><a href="/kualalumpur-to-ipoh">Kuala Lumpur to Ipoh</a></li>
-<li><a href="/kualalumpur-to-johorbahru">Kuala Lumpur to Johor Bahru</a></li>
+<li><a href="/kualalumpur-to-johorbahru">Kuala Lumpur to Johor</a></li>
 <li><a href="/kualalumpur-to-kualaterengganu">Kuala Lumpur to Kuala Terengganu</a></li>
+<li><a target="_blank" href="/routes">More...</a></li>
 </ul>
 </div>
 <div class="col-md-2">
@@ -589,29 +939,31 @@ If you would like to: access, correct, amend or delete any personal information 
 </ul>
 </div>
 <div class="col-md-2">
+<h5>Bus Terminals</h5>
+<ul>
+ 
+<li style="color:#AAA;"><a style="text-decoration: none; cursor: text; pointer-events: none;" href="#">Coming soon!</a></li>
+</ul>
+</div>
+<div class="col-md-2">
 <h5>Company Info</h5>
 <ul>
 <li><a href="/about">About Us</a></li>
 <li><a href="/contact">Contact Us</a></li>
 <li><a href="/careers">Careers</a></li>
-<li><a href="http://blog.catchthatbus.com" target="_blank">Blog</a></li>
-</ul>
-</div>
-<div class="col-md-2">
+<li><a href="http://www.catchthatbus.com/blog" target="_blank">Blog</a></li>
+<li><a href="/corporate-contact">Corporate/Agent Partnerships</a></li><a href="/corporate-contact">
+</a></ul><a href="/corporate-contact">
+</a></div><a href="/corporate-contact">
+</a><div class="col-md-2"><a href="/corporate-contact">
 <h5>Learn More</h5>
-<ul>
-<li><a href="/how-it-works" class="">How it works</a></li>
-<li><a href="/android" target="_blank">Mobile</a></li>
+</a><ul><a href="/corporate-contact">
+</a><li><a href="/corporate-contact"></a><a href="/how-it-works" class="">How it works</a></li>
+<li><a href="/download" target="_blank">Mobile</a></li>
 <li><a href="/faqs" class="">FAQs</a></li>
 <li><a href="/privacy-policy" class="">Privacy Policy</a></li>
 <li><a href="/terms-and-conditions" target="_blank">Terms &amp; Conditions</a></li>
 <li><a href="/operator-terms-and-conditions" target="_blank">Bus Operator T&amp;C</a></li>
-</ul>
-</div>
-<div class="col-md-2">
-<h5>Events</h5>
-<ul>
-<li><a href="/georgetown-festival-2015" class="">Georgetown Festival 2015</a></li>
 </ul>
 </div>
 <div class="col-md-2">
@@ -620,12 +972,15 @@ If you would like to: access, correct, amend or delete any personal information 
 <li><a href="http://facebook.com/catchthatbus"><img src="resources/images/icon-facebook.png" alt="Connect with CatchThatBus on Facebook"></a></li>
 <li><a href="http://twitter.com/catchthatbusmy"><img src="resources/images/icon-twitter.png" alt="Connect with CatchThatBus on Twitter"></a></li>
 </ul>
+<button type="button" class="disabled" style="background-color: transparent;border: #dfdfdf solid 2px;border-radius: 10px;margin: 30px 0px;">
+<img src="resources/images/safe-and-secured---white.png" style="width: 110px;">
+</button>
 </div>
 </div>
 </div>
 <div class="clearfix"></div>
 <div class="tandc col-lg-12">
-<p>© 2015 CatchThatBus&nbsp;&nbsp;|&nbsp;&nbsp;Hotline: +603-9212 1818 (Mon-Fri 8am-12am) <a href=""></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=""></a></p>
+<p>© 2016 Catch That Bus Sdn Bhd(958398-K) &nbsp;&nbsp;|&nbsp;&nbsp;Hotline: +603-9212 1818 (Mon-Sun 8am-12am) <a href=""></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=""></a></p>
 </div>
  
 
@@ -645,15 +1000,15 @@ If you would like to: access, correct, amend or delete any personal information 
 </script>
  
  
-<script type="text/javascript">
-window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
-d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
-_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
-$.src='//v2.zopim.com/?1vZxLOeMNOq50NtpWQSsLRiXQuRoilXC';z.t=+new Date;$.
-type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
-</script>
+ 
+ 
+ 
+<script type="text/javascript">var fc_CSS=document.createElement('link');fc_CSS.setAttribute('rel','stylesheet');var fc_isSecured = (window.location && window.location.protocol == 'https:');var fc_lang = document.getElementsByTagName('html')[0].getAttribute('lang'); var fc_rtlLanguages = ['ar','he']; var fc_rtlSuffix = (fc_rtlLanguages.indexOf(fc_lang) >= 0) ? '-rtl' : '';fc_CSS.setAttribute('type','text/css');fc_CSS.setAttribute('href',((fc_isSecured)? 'https://d36mpcpuzc4ztk.cloudfront.net':'http://assets1.chat.freshdesk.com')+'/css/visitor'+fc_rtlSuffix+'.css');document.getElementsByTagName('head')[0].appendChild(fc_CSS);var fc_JS=document.createElement('script'); fc_JS.type='text/javascript'; fc_JS.defer=true;fc_JS.src=((fc_isSecured)?'https://d36mpcpuzc4ztk.cloudfront.net':'http://assets.chat.freshdesk.com')+'/js/visitor.js';(document.body?document.body:document.getElementsByTagName('head')[0]).appendChild(fc_JS);window.livechat_setting= 'eyJ3aWRnZXRfc2l0ZV91cmwiOiJjYXRjaHRoYXRidXMuZnJlc2hkZXNrLmNvbSIsInByb2R1Y3RfaWQiOm51bGwsIm5hbWUiOiJDYXRjaHRoYXRidXMiLCJ3aWRnZXRfZXh0ZXJuYWxfaWQiOm51bGwsIndpZGdldF9pZCI6IjFiZjcxN2Q3LWM4NGMtNDcwNi1iODQxLTMxMmEyZTQ3NjcxOCIsInNob3dfb25fcG9ydGFsIjp0cnVlLCJwb3J0YWxfbG9naW5fcmVxdWlyZWQiOmZhbHNlLCJsYW5ndWFnZSI6ImVuIiwidGltZXpvbmUiOiJLdWFsYSBMdW1wdXIiLCJpZCI6MzAwMDAyMTI3NCwibWFpbl93aWRnZXQiOjEsImZjX2lkIjoiNzE1NzlkZmM5NDI0ZGM5ZTZkNDViNDU5ZTFiYWJmZGUiLCJzaG93IjoxLCJyZXF1aXJlZCI6MiwiaGVscGRlc2tuYW1lIjoiQ2F0Y2h0aGF0YnVzIiwibmFtZV9sYWJlbCI6Ik5hbWUiLCJtZXNzYWdlX2xhYmVsIjoiTWVzc2FnZSIsInBob25lX2xhYmVsIjoiUGhvbmUiLCJ0ZXh0ZmllbGRfbGFiZWwiOiJUZXh0ZmllbGQiLCJkcm9wZG93bl9sYWJlbCI6IkRyb3Bkb3duIiwid2VidXJsIjoiY2F0Y2h0aGF0YnVzLmZyZXNoZGVzay5jb20iLCJub2RldXJsIjoiY2hhdC5mcmVzaGRlc2suY29tIiwiZGVidWciOjEsIm1lIjoiTWUiLCJleHBpcnkiOjAsImVudmlyb25tZW50IjoicHJvZHVjdGlvbiIsImVuZF9jaGF0X3RoYW5rX21zZyI6IlRoYW5rIHlvdSEhISIsImVuZF9jaGF0X2VuZF90aXRsZSI6IkVuZCIsImVuZF9jaGF0X2NhbmNlbF90aXRsZSI6IkNhbmNlbCIsInNpdGVfaWQiOiI3MTU3OWRmYzk0MjRkYzllNmQ0NWI0NTllMWJhYmZkZSIsImFjdGl2ZSI6MSwicm91dGluZyI6bnVsbCwicHJlY2hhdF9mb3JtIjoxLCJidXNpbmVzc19jYWxlbmRhciI6eyJidXNpbmVzc190aW1lX2RhdGEiOnsid2Vla2RheXMiOlsxLDIsMyw0LDUsNiwwXSwid29ya2luZ19ob3VycyI6eyIwIjp7ImJlZ2lubmluZ19vZl93b3JrZGF5IjoiODowMCBhbSIsImVuZF9vZl93b3JrZGF5IjoiMTE6NTk6NTkgcG0ifSwiMSI6eyJiZWdpbm5pbmdfb2Zfd29ya2RheSI6Ijg6MDAgYW0iLCJlbmRfb2Zfd29ya2RheSI6IjExOjU5OjU5IHBtIn0sIjIiOnsiYmVnaW5uaW5nX29mX3dvcmtkYXkiOiI4OjAwIGFtIiwiZW5kX29mX3dvcmtkYXkiOiIxMTo1OTo1OSBwbSJ9LCIzIjp7ImJlZ2lubmluZ19vZl93b3JrZGF5IjoiODowMCBhbSIsImVuZF9vZl93b3JrZGF5IjoiMTE6NTk6NTkgcG0ifSwiNCI6eyJiZWdpbm5pbmdfb2Zfd29ya2RheSI6Ijg6MDAgYW0iLCJlbmRfb2Zfd29ya2RheSI6IjExOjU5OjU5IHBtIn0sIjUiOnsiYmVnaW5uaW5nX29mX3dvcmtkYXkiOiI4OjAwIGFtIiwiZW5kX29mX3dvcmtkYXkiOiIxMTo1OTo1OSBwbSJ9LCI2Ijp7ImJlZ2lubmluZ19vZl93b3JrZGF5IjoiODowMCBhbSIsImVuZF9vZl93b3JrZGF5IjoiMTE6NTk6NTkgcG0ifX0sImZ1bGx3ZWVrIjpmYWxzZX0sImhvbGlkYXlfZGF0YSI6W1siSmFuIDE2IiwiQmlydGhkYXkgb2YgTWFydGluIEx1dGhlciBLaW5nIEpyIl0sWyJGZWIgMjAiLCJXYXNoaW5ndG9u4oCZcyBCaXJ0aGRheSJdLFsiTWF5IDI4IiwiTWVtb3JpYWwgRGF5Il0sWyJKdWwgMDQiLCJJbmRlcGVuZGVuY2UgRGF5Il0sWyJTZXAgMDMiLCJMYWJvciBEYXkiXSxbIk9jdCAwOCIsIkNvbHVtYnVzIERheSJdLFsiTm92IDExIiwiVmV0ZXJhbnMgRGF5Il0sWyJOb3YgMjIiLCJUaGFua3NnaXZpbmcgRGF5Il0sWyJEZWMgMjUiLCJDaHJpc3RtYXMgRGF5Il0sWyJKYW4gMDEiLCJOZXcgWWVhcuKAmXMgRGF5Il1dLCJ0aW1lX3pvbmUiOiJLdWFsYSBMdW1wdXIifSwicHJvYWN0aXZlX2NoYXQiOjEsInByb2FjdGl2ZV90aW1lIjo0NSwic2l0ZV91cmwiOiJjYXRjaHRoYXRidXMuZnJlc2hkZXNrLmNvbSIsImV4dGVybmFsX2lkIjpudWxsLCJkZWxldGVkIjowLCJtb2JpbGUiOjEsImFjY291bnRfaWQiOm51bGwsImNyZWF0ZWRfYXQiOiIyMDE2LTEwLTEyVDAzOjU4OjI1LjAwMFoiLCJ1cGRhdGVkX2F0IjoiMjAxNi0xMC0xMlQwNzowNDo1OS4wMDBaIiwiY2JEZWZhdWx0TWVzc2FnZXMiOnsiY29icm93c2luZ19zdGFydF9tc2ciOiJZb3VyIHNjcmVlbnNoYXJlIHNlc3Npb24gaGFzIHN0YXJ0ZWQiLCJjb2Jyb3dzaW5nX3N0b3BfbXNnIjoiWW91ciBzY3JlZW5zaGFyaW5nIHNlc3Npb24gaGFzIGVuZGVkIiwiY29icm93c2luZ19kZW55X21zZyI6IllvdXIgcmVxdWVzdCB3YXMgZGVjbGluZWQiLCJjb2Jyb3dzaW5nX2FnZW50X2J1c3kiOiJBZ2VudCBpcyBpbiBzY3JlZW4gc2hhcmUgc2Vzc2lvbiB3aXRoIGN1c3RvbWVyIiwiY29icm93c2luZ192aWV3aW5nX3NjcmVlbiI6IllvdSBhcmUgdmlld2luZyB0aGUgdmlzaXRvcuKAmXMgc2NyZWVuIiwiY29icm93c2luZ19jb250cm9sbGluZ19zY3JlZW4iOiJZb3UgYXJlIGNvbnRyb2xsaW5nIHRoZSB2aXNpdG9y4oCZcyBzY3JlZW4iLCJjb2Jyb3dzaW5nX3JlcXVlc3RfY29udHJvbCI6IlJlcXVlc3QgdmlzaXRvciBmb3IgY29udHJvbCIsImNvYnJvd3NpbmdfZ2l2ZV92aXNpdG9yX2NvbnRyb2wiOiJHaXZlIGNvbnRyb2wgdG8gdmlzaXRvciIsImNvYnJvd3Npbmdfc3RvcF9yZXF1ZXN0IjoiRW5kIHlvdXIgc2NyZWVuc2hhcmluZyBzZXNzaW9uIiwiY29icm93c2luZ19yZXF1ZXN0X2NvbnRyb2xfcmVqZWN0ZWQiOiJZb3VyIHJlcXVlc3Qgd2FzIGRlY2xpbmVkIiwiY29icm93c2luZ19jYW5jZWxfdmlzaXRvcl9tc2ciOiJTY3JlZW5zaGFyaW5nIGlzIGN1cnJlbnRseSB1bmF2YWlsYWJsZSIsImNiX3ZpZXdpbmdfc2NyZWVuX3ZpIjoiQWdlbnQgY2FuIHZpZXcgeW91ciBzY3JlZW4gIiwiY2JfY29udHJvbGxpbmdfc2NyZWVuX3ZpIjoiQWdlbnQgaXMgY29udHJvbGxpbmcgeW91ciBzY3JlZW4gIiwiY2Jfdmlld19tb2RlX3N1YnRleHQiOiJZb3UgYXJlIG5vdCBjb250cm9sbGluZyB5b3VyIHNjcmVlbiIsImNiX2dpdmVfY29udHJvbF92aSI6IkFsbG93IGFnZW50IHRvIGNvbnRyb2wgeW91ciBzY3JlZW4iLCJjYl92aXNpdG9yX3Nlc3Npb25fcmVxdWVzdCI6IkNhbiBhZ2VudCBjb250cm9sIHlvdXIgY3VycmVudCBzY3JlZW4/In19';</script>
+ 
+ 
+ 
  
 
 
 
-</div></body></html>
+</div><script type="text/javascript" defer="" src="https://d36mpcpuzc4ztk.cloudfront.net/js/visitor.js"></script></body></html>
