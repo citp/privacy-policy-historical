@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishtown.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617203347id_/http%3A//englishlive.ef.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishtown.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212092417id_/http%3A//englishlive.ef.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EF English Live
 
@@ -50,7 +50,7 @@ EF English Live offers English courses online at competitive prices. To take one
 
 ### Access To Personal Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, amend or delete your personal information by making the change on our member information page, by contacting our Customer Support [here](https://web.archive.org/web/20160617203347id_/http%3A//englishlive.ef.com/contact-us/) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access your personal information within 30 days. 
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, amend or delete your personal information by making the change on our member information page, by contacting our Customer Support [here](https://web.archive.org/web/20161212092417id_/http%3A//englishlive.ef.com/contact-us/) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access your personal information within 30 days. 
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Note that your free account remains active even if your subscription to our paid services has expired.
 
@@ -58,9 +58,9 @@ We will retain your information for as long as your account is active or as need
 
 **Editing your profile.**  You may change your profile at any time by updating the My Profile page in our Community [here](http://www.englishtown.com/Community/Profile/Settings.aspx). Your changes will be updated immediately.
 
-**Deleting or deactivating your profile.**  You may delete or deactivate your profile at any time by contacting our Customer Service team [here](https://web.archive.org/web/20160617203347id_/http%3A//englishlive.ef.com/contact-us/).
+**Deleting or deactivating your profile.**  You may delete or deactivate your profile at any time by contacting our Customer Service team [here](https://web.archive.org/web/20161212092417id_/http%3A//englishlive.ef.com/contact-us/).
 
-**Removal of an unauthorized profile**. If you wish to request the removal of an unauthorized profile you may do so by contacting our Customer Service team [here](https://web.archive.org/web/20160617203347id_/http%3A//englishlive.ef.com/contact-us/).
+**Removal of an unauthorized profile**. If you wish to request the removal of an unauthorized profile you may do so by contacting our Customer Service team [here](https://web.archive.org/web/20161212092417id_/http%3A//englishlive.ef.com/contact-us/).
 
 ### Privacy Settings
 
@@ -68,7 +68,7 @@ You may change the privacy settings by updating the Privacy section of the accou
 
 ### Who We Share Your Information With
 
-  * We share your personal information with other companies within the EF group of companies so that these companies can market their products or services to you. For a complete picture of what EF Products and Services are available, please visit [www.ef.com](http://www.ef.com/). The only information we share with other companies within the EF group of companies is your name, age group, email address, and country. If you do not want us to share your personal information with these companies, contact our Customer Service team [here](https://web.archive.org/web/20160617203347id_/http%3A//englishlive.ef.com/contact-us/).
+  * We share your personal information with other companies within the EF group of companies so that these companies can market their products or services to you. For a complete picture of what EF Products and Services are available, please visit [www.ef.com](http://www.ef.com/). The only information we share with other companies within the EF group of companies is your name, age group, email address, and country. If you do not want us to share your personal information with these companies, contact our Customer Service team [here](https://web.archive.org/web/20161212092417id_/http%3A//englishlive.ef.com/contact-us/).
   * We may provide your personal information to companies that provide services to help us with our business activities such as processing your payment or offering customer service. These companies are authorized to use your personal information  _only as necessary to provide  _these services to us
   * We may also disclose your personal information
     * as required by law, such as to comply with a subpoena, or similar legal process
@@ -104,7 +104,7 @@ We may use this information to personalize our communications to you and to sugg
 
 ### Public Forums
 
-Our Web site offers publicly accessible blogs or community forums.You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us [here](https://web.archive.org/web/20160617203347id_/http%3A//englishlive.ef.com/contact-us/). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible blogs or community forums.You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us [here](https://web.archive.org/web/20161212092417id_/http%3A//englishlive.ef.com/contact-us/). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ### Links to other websites
 
@@ -112,12 +112,12 @@ This site contains links to other sites. Please be aware that EF English Live is
 
 ### Testimonials
 
-We post customer testimonials on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to request to have your testimonial removed you contact our Customer Service [here](https://web.archive.org/web/20160617203347id_/http%3A//englishlive.ef.com/contact-us/).
+We post customer testimonials on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to request to have your testimonial removed you contact our Customer Service [here](https://web.archive.org/web/20161212092417id_/http%3A//englishlive.ef.com/contact-us/).
 
 ### Refer a friend
 
-If you decide to refer a friend to our site as part of EF English Live contests or other promotions, we ask you for the friend's email address and give you the option of sending them a personal message. EF English Live will then send a one-time, automatically generated email message inviting your friend to visit our site. EF English Live stores the email address in your personal file solely for the purpose of crediting you if your friend becomes a member. Your friend may contact us at [here](https://web.archive.org/web/20160617203347id_/http%3A//englishlive.ef.com/contact-us/) to request that we remove this information from our database.
+If you decide to refer a friend to our site as part of EF English Live contests or other promotions, we ask you for the friend's email address and give you the option of sending them a personal message. EF English Live will then send a one-time, automatically generated email message inviting your friend to visit our site. EF English Live stores the email address in your personal file solely for the purpose of crediting you if your friend becomes a member. Your friend may contact us at [here](https://web.archive.org/web/20161212092417id_/http%3A//englishlive.ef.com/contact-us/) to request that we remove this information from our database.
 
 We also utilize an import contacts feature to help you keep in touch with your contacts and other members. We make it easy for you to invite people from your email address books to join you on our Site. At your request we will search your email address book to help you import your contacts to our site. When we do this, we do not store any of your contacts' information our our servers. We may send an email on your behalf to your contacts, but we do not keep their email address or any other information until they register for our site themselves.
 
-The EF English Live privacy policy is subject to change. If we decide to change the way we collect, use or share information, we will take commercially reasonable steps to notify members by way of an email that explains the changes and gives them the choice as to whether or not we may use their information in the new manner. If you have any questions about this policy statement, or about any of EF English Live's other policies and practices, please [contact us here](https://web.archive.org/web/20160617203347id_/http%3A//englishlive.ef.com/contact-us/) or at EF English Live, Haldenstrasse 4, 6006 Luzerne, CH.
+The EF English Live privacy policy is subject to change. If we decide to change the way we collect, use or share information, we will take commercially reasonable steps to notify members by way of an email that explains the changes and gives them the choice as to whether or not we may use their information in the new manner. If you have any questions about this policy statement, or about any of EF English Live's other policies and practices, please [contact us here](https://web.archive.org/web/20161212092417id_/http%3A//englishlive.ef.com/contact-us/) or at EF English Live, Haldenstrasse 4, 6006 Luzerne, CH.
