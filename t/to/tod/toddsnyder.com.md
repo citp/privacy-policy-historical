@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toddsnyder.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602034135id_/http%3A//www.toddsnyder.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toddsnyder.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212122256id_/http%3A//www.toddsnyder.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Todd Snyder
 
@@ -28,6 +28,3 @@
   3. Any questions? If you have any questions or concerns about Todd Snyder's privacy policy please [email us.](mailto:concierge@toddsnyder.com)
 
 
-
-**Todd Snyder**  
-Last Updated: August 1st, 2013
