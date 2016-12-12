@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencecentral.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324002910id_/http%3A//www.directoryofscience.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencecentral.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212204338id_/http%3A//www.directoryofscience.com/privacypolicy) for the most accurate reproduction.*
 
 # Directory of Science - Privacy Statement
 
