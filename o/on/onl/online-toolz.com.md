@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-toolz.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618111259id_/http%3A//www.online-toolz.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-toolz.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212230223id_/http%3A//www.online-toolz.com/pages/privacy.php) for the most accurate reproduction.*
 
 # Privacy - Online Toolz
 
