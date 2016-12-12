@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the truthaboutfatburningfoods.com privacy policy that was archived on 2016-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160203224307id_/http%3A//realfatburningfoods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthaboutfatburningfoods.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212161517id_/http%3A//www.truthaboutabs.com/RFBF/watchdog/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
 We collect information from you when you subscribe to our newsletter or respond to a survey.
 
@@ -80,12 +80,3 @@ This policy was last modified on 2014/09/16
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
-
-_N &G Média inc._
-
-4001 rue Elsa-Triolet unit 403
-
-Laval, Québec, Canada, H7P0K2
-
-_support (at) NickPineault.com  
-_
