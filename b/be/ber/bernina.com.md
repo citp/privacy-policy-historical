@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bernina.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615013027id_/http%3A//www.bernina.com/en-US/Footer-en-US/Disclaimer-Pages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bernina.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212062735id_/https%3A//www.bernina.com/en-US/Footer-en-US/Disclaimer-Pages/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Footer - BERNINA
 
@@ -51,7 +51,7 @@ Information that you provide to BERNINA yourself as a user of the website may be
 
 **4.5   Server location**
 
-The personal information collected is transmitted and stored in the USA (location of the server). The information will be treated in Switzerland and in accordance with the applicable Swiss data protection regulations. However, the information may be processed outside of Switzerland by personnel working for us or for our suppliers. By providing your personal information, you consent to the transmission, storage and processing of your information in accordance with these data protection regulations.
+The personal information collected is transmitted and stored in Austria (location of the server). The information will be treated in Switzerland and in accordance with the applicable Swiss data protection regulations. However, the information may be processed outside of Switzerland by personnel working for us or for our suppliers. By providing your personal information, you consent to the transmission, storage and processing of your information in accordance with these data protection regulations.
 
 **5.   Social media content**
 
