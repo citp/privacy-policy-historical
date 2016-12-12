@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the econbiz.de privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610213441id_/http%3A//www.econbiz.de/eb/en/imprint/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the econbiz.de privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212065150id_/http%3A//www.econbiz.de/eb/en/imprint/privacy) for the most accurate reproduction.*
 
 # Privacy: EconBizPortal
 
