@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petitionbuzz.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526122937id_/http%3A//www.petitionbuzz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petitionbuzz.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213001310id_/http%3A//www.petitionbuzz.com/privacy) for the most accurate reproduction.*
 
 # PetitionBuzz - Privacy Policy
 
@@ -6,7 +6,7 @@ This Application collects some Personal Data from its Users.
 
 ## Data Controller and Owner
 
-PetitionBuzz - 19 Ibn Gabirol St, Suite #10, Tel Aviv, Israel 6407611,  
+PetitionBuzz,  
 support@petitionbuzz.com  
 
 
@@ -38,7 +38,7 @@ The Data is kept for the time necessary to provide the service requested by the 
 
 ## The use of the collected Data
 
-The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes: Analytics, Access to third party services' accounts, Remarketing and Behavioral Targeting, Hosting and backend infrastructure, Traffic optimization and distribution, Advertising, Registration and authentication, Content commenting, Interaction with external social networks and platforms, Displaying content from external platforms, Heat mapping, Managing contacts and sending messages, Interaction with live chat platforms, Content performance and features testing (A/B testing), Handling payments and Infrastructure monitoring. 
+The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes: Analytics, Access to third party services' accounts, Remarketing and Behavioral Targeting, Hosting and backend infrastructure, Traffic optimization and distribution, Advertising, Registration and authentication, Content commenting, Interaction with external social networks and platforms, Displaying content from external platforms, Heat mapping, Interaction with live chat platforms, Content performance and features testing (A/B testing), Handling payments, Infrastructure monitoring and Managing contacts and sending messages. 
 
 The Personal Data used for each purpose is outlined in the specific sections of this document.
 
@@ -102,7 +102,7 @@ Place of processing: US – [Privacy Policy](http://www.google.com/privacy/ads/)
 #### Google AdSense (Google Inc.)
 
 Google AdSense is an advertising service provided by Google Inc. This service uses the “Doubleclick” Cookie, which tracks use of this Application and User behavior concerning ads, products and services offered.  
-Users may decide to disable all the Doubleclick Cookies by clicking on: [google.com/settings/ads/onweb/optout](http://www.google.com/settings/ads/onweb/optout).
+Users may decide to disable all the Doubleclick Cookies by clicking on: [google.com/settings/ads/onweb/optout](https://www.google.com/settings/ads/onweb/optout).
 
 Personal Data collected: Cookies and Usage data. 
 
@@ -149,7 +149,7 @@ Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/poli
 
 Content commenting services allow Users to make and publish their comments on the contents of this Application.  
 Depending on the settings chosen by the Owner, Users may also leave anonymous comments. If there is an email address among the Personal Data provided by the User, it may be used to send notifications of comments on the same content. Users are responsible for the content of their own comments.  
-If a content commenting service provided by third parties is installed, it may still collect web traffic data for the pages where the comment service is installed, even when users do not use the content commenting service.
+If a content commenting service provided by third parties is installed, it may still collect web traffic data for the pages where the comment service is installed, even when Users do not use the content commenting service.
 
 #### Facebook Comments (Facebook, Inc.)
 
@@ -204,6 +204,14 @@ PayPal is a payment service provided by PayPal Inc., which allows Users to make 
 Personal Data collected: various types of Data as specified in the privacy policy of the service. 
 
 [Privacy Policy](https://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside)
+
+#### Stripe (Stripe Inc)
+
+Stripe is a payment service provided by Stripe Inc.
+
+Personal Data collected: various types of Data as specified in the privacy policy of the service. 
+
+Place of processing: US – [Privacy Policy](https://stripe.com/terms/US)
 
 ### Heat mapping
 
@@ -273,14 +281,6 @@ Place of processing: US – [Privacy Policy](https://www.olark.com/tos)
 
 This type of services makes it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the User.  
 These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message.
-
-#### Mandrill (The Rocket Science Group, LLC.)
-
-Mandrill is an email address management and message sending service provided by The Rocket Science Group, LLC.
-
-Personal Data collected: email address and Usage data. 
-
-Place of processing: US – [Privacy Policy](https://mandrill.com/privacy/)
 
 #### Postmark (Postmark)
 
@@ -365,9 +365,9 @@ The User declares to be aware that the Data Controller may be required to reveal
 
 In addition to the information contained in this privacy policy, this Application may provide the User with additional and contextual information concerning particular services or the collection and processing of Personal Data upon request. 
 
-### System Logs and Maintenance
+### System logs and maintenance
 
-For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System Logs) or use for this purpose other Personal Data (such as IP Address). 
+For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System logs) or use for this purpose other Personal Data (such as IP Address). 
 
 ### Information not contained in this policy
 
@@ -382,7 +382,7 @@ To determine whether any of the third party services it uses honor the “Do Not
 
 ### Changes to this privacy policy
 
-The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request that the Data Controller removes the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users. 
+The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request that the Data Controller remove the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users. 
 
 ### Information about this privacy policy
 
@@ -428,4 +428,4 @@ Notice to European Users: this privacy statement has been prepared in fulfillmen
 
 This privacy policy relates solely to this Application.
 
-Latest update: March 16, 2016 
+Latest update: November 29, 2016 
