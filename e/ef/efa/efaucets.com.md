@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efaucets.com privacy policy that was archived on 2015-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150729213143id_/http%3A//www.efaucets.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efaucets.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212112823id_/http%3A//www.efaucets.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - eFaucets.com
 
@@ -32,7 +32,7 @@ Call us Toll-Free: 1-800-891-0896
 
 At eFaucets.com, your privacy is very important to us. We appreciate our customers and understand the value of protecting your rights. We hope to address all of your concerns through this list of privacy-related Frequently Asked Questions. 
 
-Our site is also [P3P compliant](https://web.archive.org/web/20150729213143id_/http%3A//www.efaucets.com/p3pcompliance.asp).
+Our site is also [P3P compliant](https://web.archive.org/web/20161212112823id_/http%3A//www.efaucets.com/p3pcompliance.asp).
 
 ### Does eFaucets.com collect my IP address?
 
@@ -88,4 +88,4 @@ Our site does contain links to other sites. eFaucets.com is not responsible for 
 
 **Do you have questions?**
 
-Can't find what you're looking for?  We have one of the largest selections of Kitchen and Bathroom fixtures available on the web!  If you have any questions or can't find a product, please call one of our friendly Customer Service Representatives **Toll-Free** at **1-800-891-0896** from **7 a.m. to 9 p.m. Mon-Fri** and also from **9 a.m. to 9 p.m. Sat & Sun (CST)**. Or, send us a [Customer Service Request »](https://web.archive.org/web/20150729213143id_/http%3A//www.efaucets.com/support.asp)
+Can't find what you're looking for?  We have one of the largest selections of Kitchen and Bathroom fixtures available on the web!  If you have any questions or can't find a product, please call one of our friendly Customer Service Representatives **Toll-Free** at **1-800-891-0896** from **7 a.m. to 9 p.m. Mon-Fri** and also from **9 a.m. to 9 p.m. Sat & Sun (CST)**. Or, send us a [Customer Service Request »](https://web.archive.org/web/20161212112823id_/http%3A//www.efaucets.com/support.asp)
