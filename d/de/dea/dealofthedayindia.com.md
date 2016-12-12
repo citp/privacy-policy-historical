@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealofthedayindia.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619071754id_/http%3A//dealofthedayindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealofthedayindia.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212213129id_/http%3A//dealofthedayindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DealofthedayIndia
 
@@ -15,5 +15,3 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
-
-I Like this Deal(1)Dislike(1)
