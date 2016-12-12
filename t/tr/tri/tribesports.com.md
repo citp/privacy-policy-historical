@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tribesports.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406223110id_/https%3A//tribesports.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tribesports.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212193702id_/https%3A//tribesports.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Tribesports
+# Privacy Policy – Tribesports
 
 The Tribesports website (the website) is owned and operated by Starshipsports Limited trading as ‘Tribesports’ (Tribesports) a company incorporated in England whose registered address is 71-75 Shelton Street, Covent Garden, London, WC2H 9JQ and whose company number is 07121275.
 
@@ -89,4 +89,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to legal@Tribesports.com 
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to legal@Tribesports.com
