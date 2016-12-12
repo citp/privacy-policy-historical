@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arthritis.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607085703id_/http%3A//www.arthritis.org/About-Us/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthritis.org privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212100030id_/http%3A//www.arthritis.org/about-us/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Arthritis Foundation
 
@@ -181,8 +181,9 @@ Upon request, we will provide you with the Contact Information that we maintain 
 
 **Arthritis Foundation  **  
 c/o Privacy Requests/Marketing Department  
-1330 West Peachtree Street, Suite 100  
-Atlanta, GA 30040
+1355 Peachtree St NE  
+6th Floor  
+Atlanta,GA 30309
 
 To protect your privacy and security, we will take reasonable steps to verify your identity before providing information or making corrections.
 
@@ -196,7 +197,8 @@ We welcome feedback and questions on this privacy statement. If for any reason y
 
 **Arthritis Foundation**  
 c/o Privacy Requests/Marketing Department  
-1330 West Peachtree Street, Suite 100  
-Atlanta, GA 30040
+1355 Peachtree St NE  
+6th Floor  
+Atlanta,GA 30309
 
 Updated 5.18.2011
