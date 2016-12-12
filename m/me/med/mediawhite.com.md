@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the mediawhite.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520074429id_/http%3A//www.mediawhite.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediawhite.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212055301id_/http%3A//mediawhite.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Media White - Privacy Policy
+# Media White Affiliate: Signup
 
-##   
 Privacy Policy
 
 This information and the privacy statement below apply to our online advertising technology platform (the Platform) and its use by and on behalf of our clients, and will be of general interest to Internet users. Our goal is to be transparent to Internet users about our business by describing our business in simple terms that Internet users can understand.
@@ -34,7 +33,6 @@ Of course, the explanations above are simplified. There are many resources avail
   * AboutAds.info, For Consumers page: [www.aboutads.info/consumers](http://www.aboutads.info/consumers)
   * The Network Advertising Initiative: [networkadvertising.org/managing/learn_more.asp](http://networkadvertising.org/managing/learn_more.asp)
   * In the EU: [www.youronlinechoices.com](http://www.youronlinechoices.com/)
-  * About web browser cookie settings: — Internet Explorer: <http://windows.microsoft.com/en-US/internet-explorer/delete-manage-cookies#ie=ie-11> — Firefox: [support.mozilla.com/en-US/kb/Cookies](http://support.mozilla.com/en-US/kb/Cookies) — Chrome: [www.google.com/support/chrome](http://www.google.com/support/chrome) — Safari: [http://support.apple.com/kb/PH19214?viewlocale=en_US&locale=en_US](http://support.apple.com/kb/PH19214?viewlocale=en_US&locale=en_US)
 
 
 
@@ -49,7 +47,7 @@ For simplicity, accuracy, and clarity in discussing our privacy practices, we re
 
 #### The Media White Platform Cookie Statement
 
-Although the specific cookies may change from time to time, this describes the purposes for which the Media White Platform employs cookies to operate, and enable clients to use, the Platform. For a detailed description of cookies set by the Platform, see [Appnexus Cookies](https://web.archive.org/web/20160520074429id_/http%3A//cookies).
+Although the specific cookies may change from time to time, this describes the purposes for which the Media White Platform employs cookies to operate, and enable clients to use, the Platform. For a detailed description of cookies set by the Platform, see [Appnexus Cookies](https://web.archive.org/web/20161212055301id_/http%3A//cookies).
 
   * The Platform uses unique cookies to identify web browsers and to store data for advertising purposes, including interest-based advertising.
   * The Platform uses unique cookies to store ad delivery and reporting data for clients, such as, for example, which ad was shown, the number of times a particular ad has been shown, and how recently an ad has been shown to a particular web browser.
@@ -162,14 +160,3 @@ Check this policy for changes. We may change this privacy statement at any time.
 #### More questions?
 
 If you have questions about privacy on the Media White Platform, you may send us a message below.
-
-#### info@mediawhite.com
-
-#### Tel: +971 4 421 2476,  Fax: +971 4 421 2468
-
-#### Media White FZ-LLC, Dubai Studio City, 2nd Floor, BS-10, PO Box 478804, Dubai, UAE
-
-## Get In Touch  
-**Contact Us**
-
-We would like to hear from you.
