@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524054553id_/http%3A//www.environment.gov.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212011424id_/http%3A//www.environment.gov.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Department of the Environment
+# Privacy policy | Department of the Environment and Energy
 
-  * [Download the Privacy policy (PDF - 599.4 KB)](https://web.archive.org/system/files/pages/c48b8310-336b-424e-b67c-fb076944f330/files/privacy-policy-dec-2015.pdf "Privacy policy")
+  * [Download the Privacy policy (PDF - 572.73 KB)](https://web.archive.org/system/files/pages/c48b8310-336b-424e-b67c-fb076944f330/files/privacy-policy-dec-2015.pdf "Privacy policy")
 
 
 
@@ -10,7 +10,7 @@
 
 ## 1\. Introduction
 
-The ​Department of the Environment, and most functions in the portfolio, are bound by the Australian Privacy Principles in the [_Privacy Act 1988_](http://www.comlaw.gov.au/Details/C2012C00903 "External Site - Comlaw - Privacy Act 1988"). The Principles regulate how agencies collect, use, disclose and store personal information, including sensitive information, and how individuals may access and correct records containing their personal information.
+The ​Department of the Environment and Energy, and most functions in the portfolio, are bound by the Australian Privacy Principles in the [_Privacy Act 1988_](http://www.comlaw.gov.au/Details/C2012C00903 "External Site - Comlaw - Privacy Act 1988"). The Principles regulate how agencies collect, use, disclose and store personal information, including sensitive information, and how individuals may access and correct records containing their personal information.
 
 We respect your rights to privacy under the Privacy Act and we will comply with the requirements under the Act in respect of the collection and management of your personal information.
 
@@ -18,7 +18,7 @@ This document is our privacy policy and it tells you how we collect and manage y
 
 ## 2\. Privacy policy in the environment portfolio
 
-The Department of the Environment is responsible for implementing the Australian Government’s policies to protect our environment and heritage and to promote a sustainable way of life.
+The Department of the Environment and Energy is responsible for implementing the Australian Government’s policies to protect our environment and heritage and to promote a sustainable way of life.
 
 We have arrangements in place to assist our Minister and certain offices in the portfolio to comply with the Privacy Act and the Principles. This privacy policy applies to the Department and to those offices which the Department assists in complying with the Privacy Act and the Principles. Those functions include:
 
@@ -313,7 +313,7 @@ At the conclusion of the investigation, we will provide a written response to yo
 ### 18.1 Contact details for our Privacy Contact Officer:
 
 Privacy Contact Officer  
-Department of the Environment  
+Department of the Environment and Energy  
 GPO Box 787  
 CANBERRA ACT 2600
 
