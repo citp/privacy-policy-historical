@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pluginprofitsite.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419063135id_/http%3A//www.pluginprofitsite.com/legal/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluginprofitsite.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212041923id_/http%3A//www.pluginprofitsite.com/legal/privacyPolicy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
