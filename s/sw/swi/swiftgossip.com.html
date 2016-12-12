@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the swiftgossip.com privacy policy that was archived on 2016-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160513182132id_/http%3A//swiftgossip.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the swiftgossip.com privacy policy that was archived on 2016-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161212103947id_/http%3A//swiftgossip.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     				<meta charset="utf-8">
@@ -9,7 +9,7 @@
                     <meta property="og:title" content="Privacy Policy | Swift Gossip"><meta property="og:description" content="Swiftgossip.com privacy policy section"><title>Privacy Policy | Swift Gossip | SwiftGossip</title>
     				<link href="http://fonts.googleapis.com/css?family=Roboto:400,900" rel="stylesheet" type="text/css">
     				<link rel="stylesheet" href="http://cdn.swiftgossip.com/css/main.css">
-    				<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script language="javascript" src="http://cdn.swiftgossip.com/scripts/jquery-2.1.4.min.js"></script>
+    				<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//data.anura.io/request.js?instance=69896317&amp;source=SwiftGossip&amp;campaign=Privacy+Policy+%7C+Swift+Gossip&amp;variable=swiftGossip&amp;469130989036"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script language="javascript" src="http://cdn.swiftgossip.com/scripts/jquery-2.1.4.min.js"></script>
                     <script language="javascript" type="text/javascript" src="http://cdn.swiftgossip.com/scripts/main.js"></script>
     				<script language="javascript" type="text/javascript" src="http://cdn.swiftgossip.com/scripts/utils.js"></script>
     				<script language="javascript" src="https://platform.twitter.com/widgets.js"></script>
@@ -18,7 +18,80 @@
                     <script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','//connect.facebook.net/en_US/fbevents.js');fbq('init', '608733912599122');fbq('track', "PageView");</script>
                     <noscript><img height="1" width="1" style="display:none"src="https://www.facebook.com/tr?id=608733912599122&ev=PageView&noscript=1"/></noscript>
                     <!-- End Facebook Pixel Code --></head>
-    			<body><nav>
+    			<body><script type="text/javascript">
+                (function(){
+                    var request = {
+                        instance: '69896317',
+                        source: 'SwiftGossip',
+                        campaign: 'Privacy+Policy+%7C+Swift+Gossip',
+                        variable: 'swiftGossip'
+                    };
+                    var anura = document.createElement('script');
+                    if ('object' === typeof anura) {
+                        var params = [];
+                        for (var x in request) params.push(x+'='+request[x]);
+                        params.push(Math.floor(1E12*Math.random()+1));
+                        anura.type = 'text/javascript';
+                        anura.async = true;
+                        anura.src = '//data.anura.io/request.js?'+params.join('&');
+                        var script = document.getElementsByTagName('script')[0];
+                        script.parentNode.insertBefore(anura, script);
+                    }
+                })();
+                
+                (function(){
+                    var getResult = function(url, params) {
+                        if (window.XDomainRequest) {
+                            var http = new XDomainRequest();
+                            if (http) {                        
+                                http.open('POST', url);
+                                http.onprogress = function(){};
+                                http.ontimeout = function(){};
+                                http.onerror = function(){};
+                                http.onload = function(){};
+                                setTimeout(function(){http.send(params.join('&'));}, 0);
+                            }
+                        } else if (window.XMLHttpRequest) {
+                            var http = new XMLHttpRequest();
+                            if (http && 'withCredentials' in http) {
+                                http.open('POST', url, true);
+                                http.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+                                http.onreadystatechange = function() {}
+                                http.send(params.join('&'));
+                            }
+                        }
+                    }
+                    var instance = 69896317;
+                    var source = 'SwiftGossip';
+                    var campaign = 'Privacy+Policy+%7C+Swift+Gossip';
+                    var ip = '207.241.231.151';
+                    var ua = 'Mozilla%2F5.0+%28compatible%3B+archive.org_bot+%2Bhttp%3A%2F%2Fwww.archive.org%2Fdetails%2Farchive.org_bot%29';
+                    var i = 0;
+                    var interval = setInterval(function(){
+                        if ('object' === typeof swiftGossip) {
+                            var result = swiftGossip.getAnura();
+                            if (result.getId()) {
+                                clearInterval(interval);
+                                getResult('//data.anura.io/result.json', ['instance='+instance, 'id='+encodeURIComponent(result.getId())]);
+                            } else {
+                                if (i > 600) {
+                                    clearInterval(interval);
+                                    getResult('//data.anura.io/direct.json', ['instance='+instance, 'source='+source, 'campaign='+campaign, 'ip='+ip, 'ua='+ua]);
+                                } else {
+                                    i++;
+                                }
+                            }
+                        } else {
+                            if (i > 600) {
+                                clearInterval(interval);
+                                getResult('//data.anura.io/direct.json', ['instance='+instance, 'source='+source, 'campaign='+campaign, 'ip='+ip, 'ua='+ua]);
+                            } else {
+                                i++;
+                            }
+                        }
+                    }, 50);
+                })();
+                </script><nav>
                 <div class="container">
                     <a href="/" id="sw-icon"></a>
     				<a href="/gallery">Gallery</a>
@@ -59,35 +132,7 @@
             </div>
         </main>
         <aside>
-            <div class="header side_01"><span class="header-text">Don't Miss!</span><div class="bg-dots"></div><div class="bg-swirls"></div></div><div id="dont-miss"><div>
-				                <a href="/articles/taylor-swift-has-x-men-cameo"><img src="http://img.swiftgossip.com/articles/taylor-swift-has-x-men-cameo-2_100.jpg"></a>
-                                <h3><a href="/articles/taylor-swift-has-x-men-cameo">Taylor Swift has X-Men cameo</a></h3>
-                                <p>Taylor Swift is reportedly appearing in the upcoming X-Men: Apocalypse film as a mutant.  The Shake...</p>
-                            </div><div>
-				                <a href="/articles/chris-martin-jokes-hes-becky-with-the-good-hair"><img src="http://img.swiftgossip.com/articles/chris-martin-jokes-hes-becky-with-the-good-hair-2_100.jpg"></a>
-                                <h3><a href="/articles/chris-martin-jokes-hes-becky-with-the-good-hair">Chris Martin jokes he's 'Becky with the good hair'</a></h3>
-                                <p>Chris Martin has jokingly named himself as the "Becky" who reportedly got in between Beyonce and Jay...</p>
-                            </div><div>
-				                <a href="/articles/justin-bieber-shoots-hoops-at-brooklyn-nets-facility"><img src="http://img.swiftgossip.com/articles/justin-bieber-shoots-hoops-at-brooklyn-nets-facility-2_100.jpg"></a>
-                                <h3><a href="/articles/justin-bieber-shoots-hoops-at-brooklyn-nets-facility">Justin Bieber shoots hoops at Brooklyn Nets facility</a></h3>
-                                <p>Justin Bieber warmed up for his New York concerts this week (begs02May16) by testing his basketball...</p>
-                            </div><div>
-				                <a href="/articles/iggy-azalea-debated-telling-fiance-about-misspelt-tattoo"><img src="http://img.swiftgossip.com/articles/iggy-azalea-debated-telling-fiance-about-misspelt-tattoo-2_100.jpg"></a>
-                                <h3><a href="/articles/iggy-azalea-debated-telling-fiance-about-misspelt-tattoo">Iggy Azalea debated telling fiance about misspelt tattoo</a></h3>
-                                <p>Iggy Azalea debated whether her fiance deserved to know the tattoo he was getting was spelt...</p>
-                            </div><div>
-				                <a href="/articles/kristen-stewart-ends-relationship-with-singer-soko"><img src="http://img.swiftgossip.com/articles/kristen-stewart-ends-relationship-with-singer-soko-2_100.jpg"></a>
-                                <h3><a href="/articles/kristen-stewart-ends-relationship-with-singer-soko">Kristen Stewart ends relationship with singer Soko</a></h3>
-                                <p>Actress Kristen Stewart has reportedly called off her romance with French girlfriend Stephanie...</p>
-                            </div><div>
-				                <a href="/articles/ariana-grande-women-can-be-anything-they-want-to-be"><img src="http://img.swiftgossip.com/articles/ariana-grande-women-can-be-anything-they-want-to-be-2_100.jpg"></a>
-                                <h3><a href="/articles/ariana-grande-women-can-be-anything-they-want-to-be">Ariana Grande: 'Women can be anything they want to be'</a></h3>
-                                <p>Pop star Ariana Grande wants women to express themselves without fear of judgement.The 22-year-old...</p>
-                            </div><div>
-				                <a href="/articles/shay-mitchell-tired-of-dirty-old-rich-mens-chat-up-lines"><img src="http://img.swiftgossip.com/articles/shay-mitchell-tired-of-dirty-old-rich-mens-chat-up-lines-2_100.jpg"></a>
-                                <h3><a href="/articles/shay-mitchell-tired-of-dirty-old-rich-mens-chat-up-lines">Shay Mitchell tired of dirty old rich men's chat-up lines</a></h3>
-                                <p>Actress Shay Mitchell is glad she no longer has to wait tables to get by.  The Pretty Little Liars...</p>
-                            </div></div><div class="header side_01"><span class="header-text">Trending Now</span><div class="bg-dots"></div><div class="bg-swirls"></div></div><div class="ad-unit padding10">
+            <div class="header side_01"><span class="header-text">Don't Miss!</span><div class="bg-dots"></div><div class="bg-swirls"></div></div><div id="dont-miss"></div><div class="header side_01"><span class="header-text">Trending Now</span><div class="bg-dots"></div><div class="bg-swirls"></div></div><div class="ad-unit padding10">
     <ins class="adbladeads" data-cid="17162-1353727255" data-host="web.adblade.com" data-tag-type="4" style="display:none"></ins>
     <script async="" src="http://web.adblade.com/js/ads/async/show.js" type="text/javascript"></script>
     </div>        </aside>
