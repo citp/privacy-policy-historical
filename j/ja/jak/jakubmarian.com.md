@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the jakubmarian.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404181310id_/https%3A//jakubmarian.com/privacy-policy-and-information-about-amazon-affiliate-marketing-links) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jakubmarian.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212040402id_/https%3A//jakubmarian.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy and information about Amazon affiliate marketing links
+# Privacy policy
 
-Thank you for visiting my website. This article tells you how I use personal information collected here. Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described in this privacy policy.
+Thank you for visiting my website. This page tells you how I use personal information collected here. Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described in this privacy policy.
 
-### Cookies
+### No use of cookies and tracking
 
-My website does not use any cookies (but third party services used by the website, such as Disqus for comments, may use their own cookies to fulfil your specific requests).
+My website does not use any cookies and does not track you in any way. I respect the privacy of my visitors, and neither I nor any third parties keep track of your activity on this website (note, however, that third party services used by the website, such as Disqus for comments, may use their own tracking cookies to allow you to log in and interact with the website).
+
+I may occasionally (once in a few months) run an experiment that allows me to better understand how my visitors use this website and, consequently, make improvements to it. Such an experiment requires setting up tracking cookies for a short period of time, which are completely anonymous, and all data related to your visit are deleted after the experiment has finished.
 
 ### Amazon Associates Program
 
-This website is a participant in the Amazon Services LLC Associates Program. This means, in particular, that if you follow a link to amazon.com or any other national version of Amazon website and then buy anything within 24 hours (not just my books), I will receive a small percentage of what you pay to Amazon (but your price will stay exactly the same).
+This website is a participant in the Amazon Services LLC Associates Program. This means, in particular, that if you follow a link to amazon.com or any other national version of Amazon website and then buy anything within 24 hours, I will receive a small percentage of what you pay to Amazon (but your price will stay exactly the same).
 
-### Collection of Information
+The links to Amazon on this website are mostly links to my own books. When you buy my book on Amazon, a significant portion of what you pay goes directly to Amazon rather than me. By buying my book within 24 hours of clicking on a link to Amazon here, you make a part of Amazon’s royalty share go back to me.
 
-I can collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by my visitors. This information is only used to fulfil your specific request, unless you give me permission to use it in another manner. I never share any information with third parties, unless required by the law.
+### Collection of personal information
 
-_I reserve the right to make changes to this policy._
+I only collect personally identifiable information, such as names or email addresses, when voluntarily submitted by my visitors. This information is only used to fulfil your specific request (e.g. purchasing my books or signing up to my newsletters). I never share any information with third parties, unless required by the law.
