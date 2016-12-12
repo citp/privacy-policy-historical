@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the aaii.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620091745id_/http%3A//www.aaii.com/privacy%3Fa%3Dfooter-viahome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaii.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212230203id_/http%3A//www.aaii.com/o/privacy%3Fclicksrc%3Dviacomplex-footer) for the most accurate reproduction.*
 
-# Privacy Policy | AAII: The American Association of Individual Investors
-
-  
-
+# AAII: The American Association of Individual Investors
 
 Our goal at AAII is to offer you the best investor education in a simple and secure manner via internet and print methods. As a publisher, we gather user and member information in order to provide an investor-friendly service. We have developed this Privacy Policy to inform users of AAII services about our privacy views and practices. This Privacy Policy is subject to change, so we recommend that you check back again in the future if you have any questions. 
 
