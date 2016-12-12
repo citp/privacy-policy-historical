@@ -1,67 +1,145 @@
-> *The following text is extracted and transformed from the toonnetworkindia.co.in privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611022139id_/http%3A//www.toonnetworkindia.co.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toonnetworkindia.co.in privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212061209id_/http%3A//www.toonnetworkindia.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Toon Network India
 
-This Privacy Policy governs the manner in which Toon Network India collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.toonnetworkindia.co.in/ website ("Site").
+This Privacy Policy governs the manner in which Toon Network India collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.toonnetworkindia.co.in/ website (“Site”).
 
-**Personal identification information**
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site.Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-**Non-personal identification information**
+When ordering or registering on our site, as appropriate, you may be asked to enter your name or other details to help you with your experience.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+**When do we collect information?**
 
-**Web browser cookies**
+We collect information from you when you subscribe to a newsletter or enter information on our site.
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+**How do we use your information?**
 
-**How we use collected information**
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-Toon Network India may collect and use Users personal information for the following purposes:  
- \- To run and operate our Site  
-We may need your information display content on the Site correctly.  
- \- To run a promotion, contest, survey or other Site feature  
-To send Users information they agreed to receive about topics we think will be of interest to them.  
- \- To send periodic emails  
-We may use the email address to send them information and updates pertaining to their order.
+**•** To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-**How we protect your information**
+**How do we protect your information?**
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-**Sharing your personal information**
+We use regular Malware Scanning.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
-**Cookies & 3rd Party Advertisements**
+We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+**Do we use ‘cookies’?**
 
-**Third party websites**
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licencors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+**We use cookies to:**
 
-**Advertising**
+**•** Understand and save user’s preferences for future visits.
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+**•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
-**Google Adsense**
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+If you turn cookies off, some features will be disabled. It won’t affect the user’s experience that make your site experience more efficient and may not function properly.
 
-**Changes to this privacy policy**
+However, you will still be able to place orders .
 
-Toon Network India has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+**Third-party disclosure**
 
-**Your acceptance of these terms**
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.
 
-By using this Site, you signify your acceptance of this policy.This policy was created with http://www.Privacy Policies.com. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Contacting us**
+**Third-party links**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-This document was last updated on July 29, 2015
+**Google**
+
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+
+We have not enabled Google AdSense on our site but we may do so in the future.
+
+**California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+**According to CalOPPA, we agree to the following:**
+
+Users can visit our site anonymously.
+
+Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
+
+Our Privacy Policy link includes the word ‘Privacy’ and can be easily be found on the page specified above.
+
+You will be notified of any Privacy Policy changes:
+
+**•** On our Privacy Policy Page
+
+Can change your personal information:
+
+**•** By logging in to your account
+
+**How does our site handle Do Not Track signals?**
+
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+**Does our site allow third-party behavioral tracking?**
+
+It’s also important to note that we allow third-party behavioral tracking
+
+**COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+We market to
+
+We do not collect information from children under 13
+
+children under 13.
+
+**No**
+
+**In order to remove your child’s information please contact the following personnel:**
+
+**We adhere to the following COPPA tenants:**
+
+**•** Parents can review, delete, manage or refuse with whom their child’s information is shared through contacting us directly.
+
+or contacting us directly.
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+ **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+ **•** Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+
+ **•** Not use false or misleading subjects or email addresses.
+
+ **•** Identify the message as an advertisement in some reasonable way.
+
+ **•** Include the physical address of our business or site headquarters.
+
+ **•** Monitor third-party email marketing services for compliance, if one is used.
+
+ **•** Honor opt-out/unsubscribe requests quickly.
+
+ **•** Allow users to unsubscribe by using the link at the bottom of each email.
+
+ **  
+If at any time you would like to unsubscribe from receiving future emails, you can email us at**
+
+ **•** Follow the instructions at the bottom of each email.
+
+and we will promptly remove you from **ALL** correspondence.  
+
+
+If there are any questions regarding this privacy policy, you may contact us using the information below.
