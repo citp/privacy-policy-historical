@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the gamelytic.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405061457id_/https%3A//gamelytic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamelytic.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212162408id_/https%3A//gamelytic.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Terms of Use
 
-Share this guide with friends, guild, or clan!
-
- _Gamelytic.com and our network of websites_  are committed to protecting the privacy of our customers and using information responsibly. Please read below for detailed information about our privacy policy.
+_Gamelytic.com and our network of websites_  are committed to protecting the privacy of our customers and using information responsibly. Please read below for detailed information about our privacy policy.
 
 **How we use information**
 
@@ -42,5 +40,3 @@ We also work with a third party to monitor certain pages of our website for the 
 YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE SERVICES IS AT YOUR SOLE RISK AND THAT THE SERVICES ARE PROVIDED “AS IS” AND “AS AVAILABLE.” GAMELYTIC GAMING, ITS SUBSIDIARIES AND AFFILIATES, AND ITS LICENSORS DO NOT REPRESENT OR WARRANT TO YOU THAT: (A) YOUR USE OF THE SERVICES WILL MEET YOUR REQUIREMENTS, (B) YOUR USE OF THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE OR FREE FROM ERROR, (C) ANY INFORMATION OBTAINED BY YOU AS A RESULT OF YOUR USE OF THE SERVICES WILL BE ACCURATE OR RELIABLE, AND (D) THAT DEFECTS IN THE OPERATION OR FUNCTIONALITY OF ANY SOFTWARE PROVIDED TO YOU AS PART OF THE SERVICES WILL BE CORRECTED. ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICES IS DONE AT YOUR OWN DISCRETION AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR OTHER DEVICE OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.
 
 In short, we try our best to make sure our game guides are up to date. But we cannot guarantee that they will be up to date all the time.
-
-Share this guide with friends, guild, or clan!
