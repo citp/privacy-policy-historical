@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the trimble.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624055034id_/http%3A//www.trimble.com/Corporate/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trimble.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212220328id_/http%3A//www.trimble.com/Corporate/Privacy.aspx) for the most accurate reproduction.*
 
 # Online Privacy
 
 ### Trimble's Commitment to Online Privacy 
 
-Last updated: November 18, 2014 
+Last updated: October 1, 2016 
 
 Your right to privacy is important. At Trimble we believe that personal information you choose to furnish online should only be used to help us provide you with the highest quality of products, services and support. We display this Privacy Statement to make you aware of the information practices for Trimble websites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. We may update our Privacy Statement from time to time to stay current with changes in our business and to better serve you. We encourage you to visit this page frequently to inform yourself of any changes.
 
@@ -12,7 +12,7 @@ This Privacy Statement covers Trimble's family of corporate websites, which incl
 
 #### Consent to Use and Transfer Personal Data
 
-**Please note that if you submit personal data through the Trimble websites, you will send it to us (Trimble Navigation Limited), in the United States.   We will collect, process and transfer your personal data in accordance with this Data Privacy Statement but possibly not in accordance with the laws of the jurisdiction in which your reside.  By submitting your personal data through a Trimble web site you consent to Trimble's collection, use, storage and transfer of your personal data to our company databases and other repositories, wherever located, for the purposes for which it is submitted and in accordance with the policies set forth in this Privacy Statement.**
+**Please note that if you submit personal data through the Trimble websites, you will send it to us (Trimble Inc.), in the United States.   We will collect, process and transfer your personal data in accordance with this Data Privacy Statement but possibly not in accordance with the laws of the jurisdiction in which your reside.  By submitting your personal data through a Trimble web site you consent to Trimble's collection, use, storage and transfer of your personal data to our company databases and other repositories, wherever located, for the purposes for which it is submitted and in accordance with the policies set forth in this Privacy Statement.**
 
 #### Types of Data Collected Online
 
