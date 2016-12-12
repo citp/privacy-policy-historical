@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cybrary.it privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520030819id_/https%3A//www.cybrary.it/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybrary.it privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212134610id_/https%3A//www.cybrary.it/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cybrary
 
