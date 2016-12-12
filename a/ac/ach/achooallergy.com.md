@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the achooallergy.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629200156id_/http%3A//www.achooallergy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achooallergy.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212095508id_/http%3A//www.achooallergy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AchooAllergy.com
+# Privacy Policy
 
 This Privacy Policy applies to http://www.achooallergy.com owned and operated by achoo! ALLERGY & AIR Products, Inc. ("AchooAllergy.com"). This Privacy Policy describes how achoo! ALLERGY & AIR Products, Inc. collects and uses the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.
 
