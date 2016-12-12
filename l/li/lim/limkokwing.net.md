@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limkokwing.net privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620220043id_/https%3A//www.limkokwing.net/malaysia/legal/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limkokwing.net privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212055154id_/https%3A//www.limkokwing.net/malaysia/legal/policy) for the most accurate reproduction.*
 
 # Privacy Policy @ Limkokwing University of Creative Technology
 
@@ -28,6 +28,7 @@ I already have an account
 
   * [Terms of Use](https://web.archive.org/malaysia/legal/terms)
   * [Privacy Policy](https://web.archive.org/malaysia/legal/policy)
+  * [Personal Data Protection](https://web.archive.org/malaysia/legal/pdpa)
 
 
 
