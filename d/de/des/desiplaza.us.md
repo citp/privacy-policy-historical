@@ -1,21 +1,25 @@
-> *The following text is extracted and transformed from the desiplaza.us privacy policy that was archived on 2015-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150724184004id_/http%3A//www.desiplaza.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desiplaza.us privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212113558id_/http%3A//www.desiplaza.us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-##  Privacy Plicy 
+Dallas Star Kalakaar Privacy Policy
 
-Desiplaza.us Privacy Policy  
-This Privacy Policy was last modified on March 31st 2015.  
-Company, Inc. (Desiplaza LLC) ("us", "we", or "our") operates [http://www.desiplaza.us.](http://www.desiplaza.us./) This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.  
+This Privacy Policy was last modified on March 31st 2015.
+
+Company, Inc. (Desiplaza LLC) ("us", "we", or "our") operates http://www.desiplaza.us. This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
+
 We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
 
-Information Collection And Use  
+Information Collection And Use
+
 While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name ("Personal Information").
 
 Any Information we collect from may be used in one of the following ways.
 
-* To improve your experiece (Your information helps us to better respond to your individual needs)  
-*To improve our website (We continuously strive to improve our website offerings based on the information and feedback we receive from you)  
+* To improve your experiece (Your information helps us to better respond to your individual needs)
+
+*To improve our website (We continuously strive to improve our website offerings based on the information and feedback we receive from you)
+
 * To Process transactions, Your personal information either public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your concent, other than for the express purpose of delivering the purchased products or service information, etc.,
 
 *To send periodic Emails , The email address you provide may be used to send you information and updates pertaining to your order, to send updateson Upcoming events & happenings, company news, updates, related products or service informations, etc.,
@@ -46,8 +50,10 @@ Contacting Us
 
 If there are any questions regarding the privacy policy you may contact us using the Information below.
 
-Desiplaza Studios  
-1404 W Walnut Hill Ln, Suite 110  
+Desiplaza Studios
+
+1404 W Walnut Hill Ln, Suite 110
+
 Irving, Texas 75038
 
-Email : [dallasidol2015@gmail.com](mailto:dallasidol2015@gmail.com)
+Email : [admin@desiplaza.us](mailto:admin@desiplaza.us)
