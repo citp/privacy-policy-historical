@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pchealthweb.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328101951id_/http%3A//pchealthweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchealthweb.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212204926id_/http%3A//pchealthweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PCHealthWeb.com
 
