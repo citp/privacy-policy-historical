@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsu.edu privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611125840id_/http%3A//dsu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsu.edu privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212203659id_/http%3A//dsu.edu/privacy) for the most accurate reproduction.*
 
 # Privacy | Dakota State University
 
