@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quackquack.in privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629040344id_/http%3A//www.quackquack.in/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quackquack.in privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212154607id_/http%3A//www.quackquack.in/privacypolicy.php) for the most accurate reproduction.*
 
 # QuackQuack.in - Online Dating Site Privacy Policy Notice
 
@@ -77,6 +77,16 @@ Quackquack.in takes every precaution to protect its users' information. When use
 When our registration/order process asks users to enter sensitive information (such as a credit card number),that information is encrypted and is protected with the best encryption software in the industry - Secure Socket Layer (SSL).
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information offline. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees (for example, a billing clerk or a customer service representative) who need the information to perform a specific job are granted access to personally identifiable information. 
+
+**Tell me about information sent to third party**
+
+We may disclose to third party services certain personally identifiable information listed below:  
+\- information you provide us such as name, email, mobile phone number  
+\- information we collect as you access and use our service, including device information, location and network carrier
+
+This information is shared with third party service providers so that we can:  
+\- personalize the website / app for you   
+\- perform behavioral analytics
 
 **Tell me about e-mail choice/opt-out policy.**
 
