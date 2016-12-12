@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalservice.gov privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620201247id_/http%3A//www.nationalservice.gov/site-policy-and-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalservice.gov privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212114856id_/http%3A//www.nationalservice.gov/site-policy-and-notices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Corporation for National and Community Service
 
@@ -22,16 +22,7 @@ Sometimes we use "session cookies," which are small amounts of information store
 
 Privacy Impact Assessments (PIAs) have been completed for the CNCS general support system and all major applications.
 
-CNCS collects and maintains a limited amount of personally identifiable information from applications for CNCS national and community service programs. This information is used to process the application and subsequently manage and support service participants. The process for collecting and maintaining personally identifiable information within the Corporation’s Network, Momentum, ACRPS, ESPAN, and LASSIE information systems meets the requirements set by OMB Memorandum 03-22.*
-
-To obtain a copy of a PIA for an information system, please contact:
-
-Tom Hanley  
-Chief Information Officer and Senior Agency Official for Privacy  
-Corporation for National and Community Service  
-250 E Street SW, Suite 300  
-Washington, DC 20525  
-[thanley@cns.gov](mailto:%E2%80%8Bthanley@cns.gov?subject=Privacy%20Information%20)
+CNCS collects and maintains a limited amount of personally identifiable information from applications for the CNCS AmeriCorps programs and members of grantee organizations. This information is used to process the application and subsequently manage and support service participants. The process for collecting and maintaining personally identifiable information within the Corporation’s Network, Momentum, ESPAN, and the Health and Childcare information systems meets the requirements set by OMB Memorandum 03-22.*  The following are the PIAs for CNCS:
 
 * Personally Identifiable Information (PII) is defined by OMB as any information about an individual maintained by an agency, including, but not limited to, education, financial transactions, medical history, and criminal or employment history and information which can be used to distinguish or trace an individual's identity, such as their name, social security number, date and place of birth, mother’s maiden name, biometric records, etc., including any other personal information which is linked or linkable to an individual.
 
@@ -49,15 +40,16 @@ Washington, DC 20525
 
 ### Public Burden Statements and Privacy Act Notices
 
-[View our current Public Burden Statements and Privacy Act Notices. ](http://www.nationalservice.gov/official-forms/public-burden-statements-and-privacy-act-notices)
+[View our current Public Burden Statements and Privacy Act Notices. ](https://web.archive.org/official-forms/public-burden-statements-and-privacy-act-notices)
 
 ### System of Record Notices (SORNS)
 
 [View our current SORNS](http://www.ofr.gov/Privacy/2011/cncs.aspx)
 
-### Information Assurance Policies (IAP)
+### Cybersecruity and Privacy Policies
 
-[View our current IAP](https://web.archive.org/sites/default/files/upload/IAP_082112_Final%20Public.pdf)
+[View our Cybersecurity Policy](https://web.archive.org/documents/main-menu/2016/cybersecurity-policy)  
+[View our Privacy Polic](https://web.archive.org/documents/main-menu/2016/privacy-policy)y
 
 ### Security
 
