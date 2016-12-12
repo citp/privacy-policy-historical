@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the advanceweb.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612172605id_/http%3A//www.advanceweb.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advanceweb.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213002500id_/http%3A//advanceweb.com/Privacy.aspx) for the most accurate reproduction.*
 
-# AdvanceWeb | Privacy Policy
+# Advance | Privacy Policy
 
 Merion Matters values its customers and respects their privacy. We are committed to protecting your privacy and the information you give us. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, and promotions. Merion Matters recognizes that it must maintain and use customer information responsibly. Your privacy is important to us.
 
