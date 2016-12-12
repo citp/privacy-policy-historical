@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dailylife.com.au privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609065525id_/http%3A//www.fairfax.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailylife.com.au privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212012314id_/http%3A//www.fairfax.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Fairfax Digital - Australian Digital Media publisher
 
-You have come through to this page from a website which is owned and operated by Fairfax Media Limited. 
+You have come through to this page from a website which is published by a subsidiary of Fairfax Media Limited. 
 
 In this policy, "us", "we" or "our" means Fairfax Media Limited (ABN 15 008 663 161) and its related bodies corporate. 
 
@@ -45,7 +45,7 @@ We may collect the following types of personal information:
 
 ## COOKIES
 
-In some cases we may also collect your personal information through the use of cookies. When you access our website, we may send a “cookie” (which is a small summary file containing a unique ID number) to your computer. This enables us to recognise your computer and greet you each time you visit our website, without bothering you with a request to register or log-in. It also helps us keep track of products or services you view, so that we can send you news about those products or services. We also use cookies to measure traffic patterns, to determine which areas of our websites have been visited, and to measure transaction patterns in the aggregate. We use this to research our users’ habits so that we can improve our online products and services. If you do not wish to receive cookies, you can set your browser so that your computer does not accept them. We may also log IP addresses (the electronic addresses of computers connected to the internet) to analyse trends, administer the website, track user movements, and gather broad demographic information. 
+In some cases we may also collect your personal information through the use of cookies and other tracking devices. When you access our website, we may send a “cookie” (which is a small summary file containing a unique ID number) to your computer. This enables us to recognise your computer and greet you each time you visit our website, without bothering you with a request to register or log-in. It also helps us keep track of products or services you view, so that we can send you news about those products or services. We also use cookies to measure traffic patterns, to determine which areas of our websites have been visited, and to measure transaction patterns in the aggregate. We use this to research our users’ habits so that we can improve our online products and services. If you do not wish to receive cookies, you can set your browser so that your computer does not accept them. We may also log IP addresses (the electronic addresses of computers connected to the internet) to analyse trends, administer the website, track user movements, and gather broad demographic information. 
 
 We may also collect anonymous data (which is not personal information) relating to your activity on our websites (including IP addresses) via cookies, or we may collect information from you in response to a survey. We generally use this information to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services. To the extent this information does not constitute personal information because it does not identify you or anyone else, the Australian Privacy Principles do not apply and we may use this information for any purpose and by any means whatsoever. 
 
@@ -73,11 +73,11 @@ We may also collect personal information from third parties including:
 
 ## WHY DO WE COLLECT, HOLD, USE AND DISCLOSE PERSONAL INFORMATION
 
-The primary purpose for which we collect information about you is to enable us to perform our business activities and functions and to provide best possible quality of customer service. We collect, hold, use and disclose your personal information for the following purposes: 
+The primary purpose for which we collect information about you is to enable us to perform our business activities and functions and to provide best possible quality of customer experience. We collect, hold, use and disclose your personal information for the following purposes: 
 
   * to provide products and services to you;
   * to provide you with news, information or advice about our existing and new products and services;
-  * to communicate with you including by email, mail or telephone;
+  * to communicate with you, including but not limited to, by email, mail, SMS or telephone;
   * to manage and enhance our products and services;
   * to personalise and customise your experience;
   * to provide you with access to protected areas of our websites;
@@ -121,7 +121,7 @@ We may disclose your personal information to:
 
 We may send you direct marketing communications and information about products and services that we consider may be of interest to you. These communications may be sent in various forms, including mail, SMS or email, in accordance with applicable marketing laws, such as the Spam Act 2004 (Cth). If you indicate a preference for a method of communication, we will endeavour to use that method whenever practical to do so. 
 
-In addition, at any time, you may opt-out of receiving marketing communications from us by contacting us (details below) or by using the opt-out facilities provided (e.g. an unsubscribe link), or by updating your personal details on our Member Centre webpage using the link provided on this page (you may also cancel your profile using the Member Centre). We will then ensure that your name is removed from our mailing list. We do not provide your personal information to other organisations for the purposes of direct marketing unless expressly authorised by you. 
+In addition, at any time, you may opt-out of receiving marketing communications from us by contacting us (details below) or by using the opt-out facilities provided (e.g. an unsubscribe link), or by updating your personal details on our "MyAccount" or Member Centre webpage using the link provided on this page (you may also cancel your profile using the Member Centre). We will then ensure that your name is removed from our mailing list. We do not provide your personal information to other organisations for the purposes of direct marketing unless expressly authorised by you. 
 
 If you receive communications from us that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please contact us using the details provided below. 
 
@@ -165,7 +165,7 @@ We may disclose your personal information to entities located outside of Austral
 
 ## SECURITY
 
-We will take all reasonable steps to protect the personal information that we hold from misuse, loss, or unauthorised access, including by means of firewalls, password access, secure servers and encryption of credit card transactions. 
+We will take all reasonable steps to protect the personal information that we hold from misuse, loss, or unauthorised access, including by means of firewalls, password access, secure servers and encryption of credit card transactions. 
 
 If you suspect any misuse or loss of, or unauthorised access to, your personal information, please let us know immediately. 
 
@@ -175,7 +175,7 @@ Our website may contain links to other websites operated by third parties. We ma
 
 ## CHANGES TO OUR PRIVACY POLICY
 
-We may change this privacy policy from time to time. Any updated versions of this privacy policy will be posted on our website. This privacy policy was last updated in February 2014. 
+We may change this privacy policy from time to time. Any updated versions of this privacy policy will be posted on our website. This privacy policy was last updated in November 2016. 
 
 Fairfax Media Limited. ABN 15 008 663 161  
 1 Darling Island Road, Pyrmont, Sydney, NSW 2009. 1800 500 864.   
