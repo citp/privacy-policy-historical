@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the catchthatbus.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402214021id_/http%3A//www.catchthatbus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchthatbus.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213001406id_/http%3A//www.catchthatbus.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - CatchThatBus.com
+# Privacy Policy | CatchThatBus
 
 What do we do with your information?
 
