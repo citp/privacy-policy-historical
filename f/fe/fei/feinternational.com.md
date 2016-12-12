@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feinternational.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324222756id_/http%3A//feinternational.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feinternational.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212150154id_/https%3A//feinternational.com/privacy) for the most accurate reproduction.*
 
 # Privacy - FE International
 
@@ -6,13 +6,13 @@ FE International (“We”) are committed to protecting and respecting your priv
 
 This policy (together with our [Terms and Conditions](https://web.archive.org/terms/)) sets out the basis on which any Personal Information we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your Personal Information and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is FE International. Located at 23 Austin Friars London, EC2N 2QP United Kingdom
+For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is FEInternational Ltd. (Reg: 07526350, VAT: GB 157469668). Located at Chester House, Studio 1.05, KenningtoPark, 1-3 Brixton Road, London, SW9 6DE, United Kingdom.
 
 ## Information we may collect from you
 
 We may collect and process the following Personal Information about you:
 
-  * Personal Information that you provide by filling in forms on the Website <http://feinternational.com/> (the “Website”) including, but not limited to:- name; email address and telephone number. This is information provided at the time of registering with the Website, or posting or downloading material. We may also ask you for information when you report a problem with Website.
+  * Personal Information that you provide by filling in forms on the Website <https://feinternational.com/> (the “Website”) including, but not limited to:- name; email address and telephone number. This is information provided at the time of registering with the Website, or posting or downloading material. We may also ask you for information when you report a problem with Website.
   * If you contact us, we may keep a record of that correspondence.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of your visits to Website [including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise] and the resources that you access.
