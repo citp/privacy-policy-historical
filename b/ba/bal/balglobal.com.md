@@ -1,63 +1,120 @@
-> *The following text is extracted and transformed from the balglobal.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628082429id_/http%3A//www.balglobal.com/home/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balglobal.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212152126id_/http%3A//www.balglobal.com/terms-of-use-and-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Terms of use and privacy policy | B A L | Berry Appleman & Leiden LLP
 
-Effective June 4, 2014
+* service. These companies are authorized to use your personal information only as necessary to provide these services to us. 
 
-_Collection, Use and Disclosure of Personal Information via this Website_
+  * As permitted or required by law. For example, BAL may provide the information in response to a subpoena, bankruptcy proceedings, a law enforcement or governmental agency request, or a court order or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud.
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * If BAL or any of its affiliates or substantially all of its or its affiliate’s assets are acquired by a third party, in which case personal data held by it about its clients will be one of the transferred assets.
 
-This privacy statement describes how Berry Appleman and Leiden LLP (BAL) collects certain personal information through various means, including questionnaires and its website, www.balglobal.com.  BAL is committed to ensuring that your privacy is protected.  The following describes what information is collected and explains how that information may be used and shared with third parties.  Use of this site constitutes consent to BAL’s collection and use of personal data as outlined therein.
 
-Berry Appleman & Leiden LLP has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program only covers information that is collected on the Web site www.balglobal.com.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.  If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@balglobal.com](mailto:privacy@balglobal.com).  If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). ****
 
-Berry Appleman & Leiden LLP complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Berry Appleman & Leiden LLP has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Berry Appleman & Leiden LLP’s certification, please visit <http://www.export.gov/safeharbor/>.
+BAL may also use the information to communicate with you directly via e-mail or direct mail, such as to inform you about newsworthy topics and upcoming events that may be of interest to you, or to confer with you regarding your immigration case. For example, BAL may use your e-mail address to send you the firm's Legal Update newsletter, to send you an announcement concerning an upcoming seminar, or to send you questions or drafts relating to your immigration case. If you would like to discontinue receiving this information, you may update your email preferences by using the “Unsubscribe” link found in emails we send to you or by contacting us at [ **help@balglobal.com**](mailto:help@balglobal.com). To guard your nonpublic personal information, we maintain physical, electronic and procedural safeguards. After our services conclude, Berry Appleman & Leiden LLP will, as a courtesy to you, retain the personal data you have provided for a period of seven (7) years. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. At the end of such period, we may, at our discretion, destroy such personal data without notice to you.
 
-BAL collects information that you submit via online forms on its www.balglobal.com/ www.balglobal.com/questionnaire, www.balglobal.com/cims and www.balglobal.com/statuschek website.  You may use an online form, for example, to register for a seminar sponsored by BAL or to receive news.  The information you enter may include, for example, your name, title, company, address, telephone number and e-mail address.  If BAL is handling your visa or immigration matter, the information you provide may include your personal and family information, educational background, and employment history. 
+  3. **Updating/Accessing/Amending/Correcting Personally Identifiable Information**
 
-The information you submit will be retained by BAL in a database maintained by BAL or its service provider, and will be used by BAL to complete your request or to provide immigration services.  We do not sell your personal information to third parties.  BAL will not share the information with any third party, except as otherwise set forth in this Privacy Statement.  BAL may share the information to complete your request or as necessary to provide immigration services to you and your family, including disclosure to government agencies in the form of applications and petitions for immigration benefits.  BAL may also share the information with a successor in interest, an affiliate or its consultants, who are obligated to maintain the confidentiality of the information.  For example, if BAL merges with another law firm, BAL may share the information with that firm.  BAL may also share the information as permitted or required by law.  For example, BAL may provide the information in response to a subpoena, a law enforcement or governmental agency request, or a court order. 
 
-BAL may also use the information retained in the database to communicate with you directly via e-mail or direct mail, such as to inform you about newsworthy topics and upcoming events that may be of interest to you, or to confer with you regarding your immigration case.  For example, BAL may use your e-mail address to send you the firm's Legal Update newsletter, to send you an announcement concerning an upcoming seminar, or to send you questions or drafts relating to your immigration case.  To guard your nonpublic personal information, we maintain physical, electronic and procedural safeguards.  After our services conclude, Berry Appleman & Leiden LLP will, as a courtesy to you, make its best efforts to retain the personal data you have provided for a period of six (6) years.  At the end of said period, we may, at our discretion, destroy such personal data without notice to you. 
 
-**Updating/Accessing/Amending/Correcting Personally Identifiable Information**
+Upon request BAL will provide you with information about whether we hold any of your personal information. If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, or deactivate it by making the change on our member information page or by emailing our Customer Support at [ **help@balglobal.com**](mailto:help@balglobal.com) or by contacting us by telephone or postal mail at the contact information listed below. We will endeavour to respond to your request within a reasonable timeframe.
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, or deactivate it by making the change on our member information page or by emailing our Customer Support at help@balglobal.com or by contacting us by telephone or postal mail at the contact information listed below.  We will respond to your request to access within 1 business day.
+**Information Related to Data Collected for our Clients**  
+BAL collects information under the direction of its Clients/Employers and also the individual directly, known as the client employee or beneficiary. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients.
 
-**Links to Other Web Sites** ****
+BAL acknowledges that you have the right to access your personal information. An individual who has a relationship with BAL through their employer “BAL’s Client” and who therefore is the employee/beneficiary, who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the BAL team working on their case, or [ **help@balglobal.com**](mailto:help@balglobal.com). In the event that you would like data to be removed from BAL’s systems the individual should contact their employer BAL’s Client (the data controller). If requested to remove data we will respond within a reasonable timeframe.
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of BAL.  If you submit personal information to any of those sites, your information is governed by their privacy statements.  We encourage you to carefully read the privacy statement of any Web site you visit. 
+We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. BAL will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. This same process also applies to any service provider that was engaged with in order to render the service to you.
 
-Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly.  Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site.  Your interactions with these Features are governed by the privacy policy of the company providing it.
+  4. **Links to other websites**
 
-**Cookies and Other Tracking Technologies**
 
-We may use cookies, for example, to keep track of your preferences and profile information.  Cookies are also used to collect general usage and volume statistical information that does not include personal information. We may use third party cookies placed on our Sites by third parties acting on our behalf.
 
-BAL may implement security features to prevent the unauthorized release of personal information.  Please note, however, that BAL cannot guarantee the confidentiality of any communication or material transmitted to/from BAL via the site or email.  Accordingly, BAL is not responsible for the security of information transmitted via the Internet. 
+The Website includes links to other websites whose privacy practices may differ from those of BAL. If you submit personal information to any of those websites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any website you visit. We are not responsible for the privacy practices of others. Any link to a website owned by a third party does not constitute an endorsement, approval, association, sponsorship or affiliation with the linked site unless specifically stated.
 
-When you enter any sensitive information (such as your legal status) on our site, we encrypt the transmission of that information using secure socket layer technology (SSL).
+The Website includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on the Website. These features may collect your IP address, which page you are visiting on the Website, and may set a cookie to enable the feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on the Website. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-By submitting your e-mail address to BAL, you opt-in to receiving e-mail from BAL.  You may opt-out of receiving further e-mail by contacting [privacy@balglobal.com](mailto:privacy@balglobal.com).  Any changes to this privacy statement will be made through a revised posting on the BAL website.  If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective.
+  5. **Cookies and Other Tracking Technologies**
 
-If you have any concerns, questions or complaints regarding BAL’s privacy policy or practices, please contact BAL at [privacy@balglobal.com](mailto:privacy@balglobal.com).
+
+
+Within our pubic website [ **www.balglobal.com**](http://www.balglobal.com/), we and our marketing partners, affiliates, or analytics or service providers, use technologies such as cookies, beacons, tags, scripts, and other similar technologies to analyze trends, administer the website, tracking users’ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis. Within the secured sites access cobalt.balglobal.com, [ **www.balglobal.com/cims**](http://www.balglobal.com/cims) and [ **www.balglobal.com/statuschek**](http://www.balglobal.com/statuschek) we use cookies only for session and authentication purposes as well as preference and profile information.
+
+In order to improve the Website, we may use small files commonly known as “cookies”. A cookie is a small amount of data which often includes a unique identifier that is sent to your computer, tablet or mobile phone (referred to in this Privacy and Cookies Policy as a ‘device’) from the Website and is stored on your device’s hard drive.
+
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information. We may use third party cookies placed on our Sites by third parties acting on our behalf.
+
+How can you control the use of cookies from the Website?
+
+If you don't want us to use cookies when you use the Website, you can adjust your internet browser settings not to accept cookies. Your web browser's help function should tell you how to do this. Alternatively, to find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit the website: [ **http://www.allaboutcookies.org**](http://www.allaboutcookies.org/). This website will also explain how you can delete cookies which are already stored on your device.
+
+We currently set the following cookies:
+
+[**http://www.balglobal.com/home/tracker.aspx**](http://www.balglobal.com/en-us/home/tracker.aspx)
+
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+
+  6. **Security of information and transmission via the internet**
+
+
+
+BAL may implement security features to prevent the unauthorized release of personal information. Please note, however, that BAL cannot guarantee the confidentiality of any communication or material transmitted to/from BAL via the Website or email. Accordingly, BAL is not responsible for the security of information transmitted via the Internet and any transmission is at your own risk.
+
+When you enter any sensitive information (such as your legal status) on the Website, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+By submitting your e-mail address to BAL, you opt-in to receiving e-mail from BAL. You may opt-out of receiving further e-mail by following the unsubscribe instructions included in the email or by contacting [ **privacy@balglobal.com**](mailto:privacy@balglobal.com).
+
+  7. **Right** **of access**
+
+
+
+Upon request, and subject to any exemptions which may apply, we will grant you reasonable access to personal information that we hold about you within a reasonable period of time from the date of the request.
+
+Any access request may be subject to a reasonable fee to meet our costs in providing you with details of the information we hold about you.
+
+  8. **Transfer, storage, and processing of information**
+
+
+
+The information that you give us or that we collect from you may be transferred to, and stored at, a destination within the United States or where our affiliate firms are located. This data may be processed by staff operating at such destinations. We endeavor to ensure appropriate security measures are in place to prevent unauthorized disclosure of personal information. By submitting your personal data, you agree to this transfer, storing, or processing.
+
+  9. **Privacy Shield**
+
+
+
+BAL LLP participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  BAL is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
+
+BAL is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  BAL complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, BAL is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, BAL may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+
+Under certain conditions, more fully described on the Privacy Shield website at ** <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>**, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+  10. **Safe Harbor**
+
+
+
+Berry Appleman & Leiden LLP complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. Berry Appleman & Leiden LLP has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+
+Our safe harbor policy is set out below. To learn more about the Safe Harbor program, and to view Berry Appleman & Leiden LLP’s certification, please visit [ **http://www.export.gov/safeharbor/**](http://www.export.gov/safeharbor/).
+
+  11. **Changes to this Privacy and Cookies Policy**
+
+
+
+Any changes to this Privacy and Cookies Policy will be made through a revised posting on the website. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on the Website prior to the change becoming effective.
+
+  12. **Contact us**
+
+
+
+If you have any concerns, questions or complaints regarding BAL’s privacy policy or practices, please contact BAL at[ **privacy@balglobal.com**](mailto:privacy@balglobal.com).
 
 Berry Appleman & Leiden LLP  
 353 Sacramento Street  
-Suite 1300   
-San Francisco   
-California   
+Suite 1300  
+San Francisco  
+California  
 94111  
-Tel: (855) 225-4570
-
-[](https://privacy.truste.com/privacy-seal/Berry,-Appleman---Leiden-LLP/validation?rid=213f65bd-ce96-42c0-8a11-2a11cbb1b1eb "TRUSTe European Safe Harbor certification")
-
-|   |   |   |   |   |   |   |   | 
-
- 
-
-[We self-certify compliance with:](http://safeharbor.export.gov/list.aspx)  
-
-
-[ ](http://safeharbor.export.gov/list.aspx)[](http://www.export.gov/safeharbor)
-
-|    
----|---|---|---|---|---|---|---|---|---|---
+Tel: (855) 225-4570
