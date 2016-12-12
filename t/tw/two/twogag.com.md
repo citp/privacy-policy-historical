@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twogag.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623122834id_/http%3A//www.twogag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twogag.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213003850id_/http%3A//www.twogag.com/privacy-policy) for the most accurate reproduction.*
 
 # Two Guys and Guy - Privacy Policy
 
