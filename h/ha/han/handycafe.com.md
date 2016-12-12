@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handycafe.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610183322id_/http%3A//handycafe.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handycafe.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212104136id_/http%3A//handycafe.com/policy.php) for the most accurate reproduction.*
 
 # Privacy & Policy - HandyCafe Internet Cafe & WiFi Hotspot Software
 
