@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifestylogy.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609203457id_/http%3A//lifestylogy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestylogy.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212150710id_/http%3A//lifestylogy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Lifestylogy
 
@@ -63,4 +63,4 @@ This Privacy Policy is subject to modifications at any time. Any modifications w
 
 **10\. Contacting Us**
 
-If you have questions, comments, or concerns regarding anything previously stated in the privacy policy or to utilize the rights contracted here please use the contact from to contact us.
+If you have questions, comments, or concerns regarding anything previously stated in the privacy policy or to utilize the rights contracted here please use the [contact from](http://lifestylogy.com/contact-us/) to contact us.
