@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheershopping.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324055450id_/http%3A//www.cheershopping.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheershopping.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212073706id_/http%3A//www.cheershopping.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | CheerShopping.com
 
