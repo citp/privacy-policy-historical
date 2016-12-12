@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lr.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616112347id_/http%3A//www.lr.org/en/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lr.org privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212161747id_/http%3A//www.lr.org/en/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy | Lloyd's Register
 
@@ -23,9 +23,9 @@ Cookies we used and how we use them:
 | **Where?** | **Added to site**  
 ---|---|---|---  
   
-_utma    
-_utmb    
-_utmc    
+_utma   
+_utmb   
+_utmc   
 _utmz<>
 
 | 
@@ -40,17 +40,17 @@ This cookie contains the users session ID and the cookie will expire at the end 
 | Throughout site | n/a  
 visitor_id (duration 10 years) | 
 
-These cookies collect information sales and marketing purposes to help improve visitor’s experience.  [Find out more at pardot.com](http://www.pardot.com/company/legal/privacy-policy.html "Pardot Privacy policy").  The visitor cookie includes the name “visitor_id” plus the unique identifier for the visitor, ex: “visitor_id1234”. This cookie is set by our tracking code on website visitors. No personally identifiable information is stored in the cookie.
+These cookies collect information sales and marketing purposes to help improve visitor’s experience. [Find out more at pardot.com](http://www.pardot.com/company/legal/privacy-policy/ "Pardot Privacy policy"). The visitor cookie includes the name “visitor_id” plus the unique identifier for the visitor, ex: “visitor_id1234”. This cookie is set by our tracking code on website visitors. No personally identifiable information is stored in the cookie.
 
 | Throughout site | 03/05/2014  
 pi_opt_in (duration 10 years) | 
 
-These cookies collect information sales and marketing purposes to help improve visitor’s experience.  [Find out more at pardot.com](http://www.pardot.com/company/legal/privacy-policy.html "Pardot Privacy policy").  The persistent cookie named “pi_opt_in” is what we use to stay in compliance with the 'Do Not Track' initiative. No personally identifiable information is stored in the cookie.
+These cookies collect information sales and marketing purposes to help improve visitor’s experience. [Find out more at pardot.com](http://www.pardot.com/company/legal/privacy-policy/ "Pardot Privacy policy"). The persistent cookie named “pi_opt_in” is what we use to stay in compliance with the 'Do Not Track' initiative. No personally identifiable information is stored in the cookie.
 
 | Throughout site | 03/05/2014  
 visitor_id (duration 10 years) | 
 
-These cookies collect information sales and marketing purposes to help improve visitor’s experience.  [Find out more at pardot.com](http://www.pardot.com/company/legal/privacy-policy.html "Pardot Privacy policy").  Only set if the user is logged into the Pardot app as a user. No personally identifiable information is stored in the cookie.
+These cookies collect information sales and marketing purposes to help improve visitor’s experience. [Find out more at pardot.com](http://www.pardot.com/company/legal/privacy-policy/ "Pardot Privacy policy"). Only set if the user is logged into the Pardot app as a user. No personally identifiable information is stored in the cookie.
 
 | Throughout site | 03/05/2014  
   
@@ -69,7 +69,7 @@ Information provided by you will be handled in accordance with the relevant juri
 
 ## Data for direct marketing
 
-At each point of data collection individuals are given the opportunity to opt-out of receiving direct marketing activity. Where individuals do not want to opt-out of such communication, we may provide information on: 
+At each point of data collection individuals are given the opportunity to opt-out of receiving direct marketing activity. Where individuals do not want to opt-out of such communication, we may provide information on:
 
   * Services and products that may be of interest.
   * Changes and improvements to the website.
@@ -100,7 +100,7 @@ We may change the content of service found on our site at anytime without notice
 
 You have the right to access personal data that is held about you. To obtain a copy of the personal information we hold about you please write to the address given below.
 
-The Data Protection Officer (UK & Global),    
+The Data Protection Officer (UK & Global),   
 C. Colby-Blake   
 Lloyd’s Register Group Services Ltd   
 71 Fenchurch Street, London EC3M 4BS, UK   
