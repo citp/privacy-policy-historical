@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the vitacost.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616055939id_/http%3A//www.vitacost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitacost.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212204604id_/http%3A//www.vitacost.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Vitacost.com
 
-[](http://www.trustlogo.com/ttb_searcher/trustlogo?v_querytype=W&v_shortname=SC&v_search=http://www.vitacost.com/&x=6&y=5)
-
-####  Effective on: (03/2/2013) 
+####  Effective on: (06/30/2016) 
 
 Vitacost is committed to your privacy. This notice serves to help you better understand what information Vitacost collects, how it uses that information, and with whom Vitacost may share a limited portion of that information with. The most recent version of Vitacost's privacy policy can be found on this page (http://www.vitacost.com/privacy). If you have questions or concerns regarding this policy, you should contact [ Customer Support](https://web.archive.org/service.aspx#/home) by email. 
 
@@ -29,6 +27,8 @@ Vitacost collects information about you in these ways:
 3\.  Non-personal information we receive automatically: Like most websites, Vitacost utilizes cookies. Cookies are a mechanism to remember information about you when you navigate from one web page to another. Our website uses cookies to hold a user's unique session identifiers, allowing us to serve correct information back to the user. Such information includes your shopping cart items, or whether you are logged in. Our website cookies do not hold any personally identifiable information. Vitacost may use other similar technologies which allow us to collect non-personally identifiable information about your visit to help us better your experience. 
 
 4\.  Mobile information:  When you utilize our iPhone® or Android® phone apps, we may receive non-personally identifiable information, such as a unique identifier for your device letting us know what type of phone you are using. 
+
+5\. The Adobe Marketing Cloud Device Co-op: Vitacost participates in the The Adobe Marketing Cloud Device Co-op to better understand how you use our website and apps across the various devices you use, and to deliver tailored promotions. [Learn more ](https://cross-device-privacy.adobe.com/) about how Adobe does this.
 
 ####  How does Vitacost use this information? 
 
