@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coke2home.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610015248id_/https%3A//coke2home.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coke2home.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212142315id_/https%3A//coke2home.com/Privacy.htm) for the most accurate reproduction.*
 
 # Buy Coca Cola Company Products Online, Beverages Online, Cold drinks Online - Coke2home
 
