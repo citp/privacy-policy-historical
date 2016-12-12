@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the temptationgifts.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613102442id_/http%3A//www.temptationgifts.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temptationgifts.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212182049id_/http%3A//www.temptationgifts.com/privacy-cookies) for the most accurate reproduction.*
 
-# Privacy & Cookies Policy | TemptationGifts.com
+# Privacy & Cookies Policy | Temptation Gifts
 
 Temptation Gifts prides itself on providing exceptional customer service online, just as we do in our stores. You can find helpful and useful information on these pages, and you can always take a look at what other customers have said about us on our [Customer Comments](http://www.temptationgifts.com/customer-comments) page.
 
