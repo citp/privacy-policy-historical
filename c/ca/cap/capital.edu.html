@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the capital.edu privacy policy that was archived on 2016-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160531230334id_/http%3A//www.capital.edu/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the capital.edu privacy policy that was archived on 2016-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161212153818id_/http%3A//www.capital.edu/Privacy-Policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class=" js csstransforms lastchild cssremunit cssvhunit bgsizecover placeholder" style=""><!--<![endif]--><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=EDGE"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580350500000/2165043.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5XN8WL"></script><script type="text/javascript" src="/WorkArea/FrameworkUI/js/ektron.javascript.ashx?id=-569449246+-1939951303+-1080527330+-1687560804+-1253165105"></script><link rel="stylesheet" type="text/css" media="all" href="/WorkArea/FrameworkUI/css/ektron.stylesheet.ashx?id=-1510701721+-1759591071+1831813829+-2132206083"><link rel="shortcut icon" href="/favicon.ico"><link href="//fonts.googleapis.com/css?family=Roboto+Condensed:400,700%7CRoboto:400,700,400italic,700italic" rel="stylesheet">
+<!DOCTYPE html><html lang="en" class=" js csstransforms lastchild cssremunit cssvhunit bgsizecover placeholder" style=""><!--<![endif]--><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=EDGE"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580350500000/2165043.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5XN8WL"></script><script type="text/javascript" src="/WorkArea/FrameworkUI/js/ektron.javascript.ashx?id=-569449246+-1939951303+-1080527330+-1687560804+-1253165105"></script><link rel="stylesheet" type="text/css" media="all" href="/WorkArea/FrameworkUI/css/ektron.stylesheet.ashx?id=-1510701721+-1759591071+1831813829+-2132206083"><link rel="shortcut icon" href="/favicon.ico"><link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700%7CRoboto:400,700,400italic,700italic" rel="stylesheet">
 <script src="/js/modernizr.min.js"></script>
 <title>
 	 Privacy | Capital University
@@ -38,12 +38,27 @@
 <script type="text/javascript">
 //<![CDATA[
 function search() { var q = $('#txtSearch').val(); 
-window.location = '/search/?q=' + q;
+var r = $('#searchTxt').val(); 
+if (r != null && q === "") {
+window.location = '/search/?q='+r;
+}
+else if (q != null && r === "") {
+window.location = '/search/?q='+q;
+}
+else if (q != "" && r != "") {
+if ($(document.activeElement).attr("id") == "searchTxt") {
+window.location = '/search/?q='+r;
+}
+if ($(document.activeElement).attr("id") == "txtSearch") {
+window.location = '/search/?q='+q;
+}
+}
 }
 //]]>
 </script>
 
 <script src="/ScriptResource.axd?d=q_hH-LN9ga5lgLEjGeNeUWwTsFb6hCUAa0qzMX8JVRjqhYu-js8dFizzp9p-O80pezXcHe-taPevpVKkXHhaBai53PkfEgEciQ9q8HMjEV0V1ye-jfMxBmxGx8cmPrAJ1KY8vzPfSCC4Dp2MKuSyNVfqKs3-WP281gA1NYzphWI1&amp;t=6119e399" type="text/javascript"></script>
+
 
         
         <header class="_header">
@@ -66,7 +81,7 @@ window.location = '/search/?q=' + q;
             
 
 <div class="header__menu__search">
-    <label>Search</label>
+    <label for="txtSearch">Search</label>
     <input type="text" placeholder="Enter keyword to search" id="txtSearch" onkeypress="return SubmitSearchOnEnter(this,event);">
     <button type="submit" class="_btnsearch" onclick="search(); return false;"><span>Go</span></button>
 </div>
@@ -117,6 +132,13 @@ window.location = '/search/?q=' + q;
                                                 </li>
                                             
                                                 <li>
+                                                    <a href="/Meet-President-Paul/" target="_self">Meet President Paul</a>
+
+                                                    
+                                                    
+                                                </li>
+                                            
+                                                <li>
                                                     <a href="/Presidential-Search/" target="_self">Presidential Search</a>
 
                                                     
@@ -124,7 +146,7 @@ window.location = '/search/?q=' + q;
                                                 </li>
                                             
                                                 <li>
-                                                    <a href="/Meet-President-Bowman/" target="_self">Meet President Bowman</a>
+                                                    <a href="/Provost/" target="_self">Provost Search</a>
 
                                                     
                                                     
@@ -328,6 +350,13 @@ window.location = '/search/?q=' + q;
                                                     
                                                 </li>
                                             
+                                                <li>
+                                                    <a href="/maed/" target="_self">Master of Arts in Education</a>
+
+                                                    
+                                                    
+                                                </li>
+                                            
                                                 </ul>
                                             
                                     </li>
@@ -353,13 +382,6 @@ window.location = '/search/?q=' + q;
                                             
                                                 <li>
                                                     <a href="/Bachelors-Degree-Completion/" target="_self">Bachelor's Degree Completion</a>
-
-                                                    
-                                                    
-                                                </li>
-                                            
-                                                <li>
-                                                    <a href="/BSN-Completion/" target="_self">BSN Completion</a>
 
                                                     
                                                     
@@ -751,6 +773,14 @@ window.location = '/search/?q=' + q;
 
                                                             </li>
                                                         
+                                                            <li>
+                                                                <a href="/First-Destination/" target="_self">First Destination</a>
+
+                                                                
+                                                                
+
+                                                            </li>
+                                                        
                                                             </ul>
                                                         
                                                 </li>
@@ -847,7 +877,7 @@ window.location = '/search/?q=' + q;
                                                                         </li>
                                                                     
                                                                         <li>
-                                                                            <a href="https://outlook.com/capital.edu" target="_self">Webmail</a>
+                                                                            <a href="https://outlook.com/capital.edu" target="_self">Outlook Office 365</a>
 
                                                                             
                                                                             
@@ -1654,13 +1684,6 @@ window.location = '/search/?q=' + q;
                                                 </li>
                                             
                                                 <li>
-                                                    <a href="/Admissions/International-Students/Application-Process/" target="_self">How to Apply</a>
-
-                                                    
-                                                    
-                                                </li>
-                                            
-                                                <li>
                                                     <a href="/International-Housing/" target="_self">International Housing</a>
 
                                                     
@@ -1669,6 +1692,13 @@ window.location = '/search/?q=' + q;
                                             
                                                 <li>
                                                     <a href="/TOEFL/" target="_self">TOEFL</a>
+
+                                                    
+                                                    
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href="/International-Scholarships.aspx" target="_self">International Scholarships</a>
 
                                                     
                                                     
@@ -2026,7 +2056,7 @@ window.location = '/search/?q=' + q;
                                                                         </li>
                                                                     
                                                                         <li>
-                                                                            <a href="/Greek-Life/" target="_self">Greek Life at Capital</a>
+                                                                            <a href="/Greek-Life/" target="_self">Fraternity and Sorority Life</a>
 
                                                                             
                                                                             
@@ -2817,11 +2847,6 @@ window.location = '/search/?q=' + q;
                                         
                                     </li>
                                 
-                                    <li><a href="/Academics/Majors-and-Minors/Political-Science/" target="_self">Public Administration</a>
-                                        
-                                        
-                                    </li>
-                                
                                     </ul>
                                 
                         </li>
@@ -3098,6 +3123,12 @@ window.location = '/search/?q=' + q;
                                         
                                     </li>
                                 
+                                    <li><a href="/maed/" target="_self">Master of Arts in Education</a>
+
+                                        
+                                        
+                                    </li>
+                                
                                     <li><a href="/mba/" target="_self">Master of Business Administration</a>
 
                                         
@@ -3123,6 +3154,28 @@ window.location = '/search/?q=' + q;
                                     </li>
                                 
                                     <li><a href="http://law.capital.edu/4.18MasterofLawsinBusinessTaxationandBusinessandTaxation/" target="_self">Master of Taxation</a>
+
+                                        
+                                        
+                                    </li>
+                                
+                                    </ul>
+                                
+                        </li>
+                    
+                        <li><a href="" target="_self">PROGRAMS</a>
+
+                            
+                            
+                                    <ul>
+                                
+                                    <li><a href="/ESL/" target="_self">English as a Second Language (ESL)</a>
+
+                                        
+                                        
+                                    </li>
+                                
+                                    <li><a href="/Honors/" target="_self">Honors Program</a>
 
                                         
                                         
