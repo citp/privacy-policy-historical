@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laplink.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625173558id_/http%3A//www.laplink.com/index.php/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laplink.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212133739id_/http%3A//www.laplink.com/index.php/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Laplink® Software
 
@@ -24,7 +24,7 @@ The type of information that we request in these online forms includes your name
 
 ### What happens to the information Laplink collects?
 
-The information that you provide to us when you register to download free trial software or register a product is stored with a unique identifying number. The information contained in your personal profile is not provided to anyone outside of Laplink Software Inc. nor is it shared with our designated agents. All of the information you provide during e-commerce transactions is stored by our commerce partners on a secure server which encrypts all of your personal information, including your name, address and credit card number.
+The information that you provide to us when you register to download free trial software or register a product is stored with a unique identifying number. The information contained in your personal profile is not provided to anyone outside of Laplink Software Inc. nor is it shared with our designated agents. All of the information you provide during e-commerce transactions is stored by our commerce partners on a secure server which encrypts all of your personal information, including your name, address and credit card number. Information disclosed to such third parties shall be governed by their corresponding privacy policies.
 
 Laplink Software Inc. occasionally uses the information that customers provide to send announcements about new Laplink products and services.
 
