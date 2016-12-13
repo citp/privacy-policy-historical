@@ -1,30 +1,49 @@
-<!--The following is the downloaded HTML source of the seikousa.com privacy policy that was archived on 2016-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160605115659id_/http%3A//seikousa.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seikousa.com privacy policy that was archived on 2016-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161213172042id_/http%3A//seikousa.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<meta charset="utf-8">	<meta name="viewport" content="width=1050">
-<title>Seiko USA / Privacy Policy</title>
-<meta name="Description" content="Copyright© 2007-2013, SEIKO WATCH CORPORATION.">
-<meta http-equiv="expires" content="Wed, 29 Jul 2014 05:00:00 GMT">
-<meta http-equiv="pragma" content="no-cache">
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-<link href="/css/euphemia.css" rel="stylesheet" type="text/css">	<link href="/css/global.css?v=2" rel="stylesheet" type="text/css">
-<link type="text/css" rel="stylesheet" href="/search/templates/standard/search.css">
-<!-- suggest script -->
-<style type="text/css">@import url("/search/include/js_suggest/SuggestFramework.css");</style>
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/search/include/js_suggest/SuggestFramework.js"></script>
-<script type="text/javascript">window.onload = initializeSuggestFramework;</script>
-<!-- /suggest script -->
-
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <meta charset="utf-8">      <meta name="viewport" content="initial-scale=1.0">    
+    <title>Seiko USA / Privacy Policy</title>
+    <meta name="Description" content="Copyright© 2007-2013, SEIKO WATCH CORPORATION.">
+    <meta http-equiv="expires" content="Wed, 29 Jul 2014 05:00:00 GMT">
+    <meta http-equiv="pragma" content="no-cache">    
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+        <link href="/css/euphemia.css" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet" type="text/css">      <link href="/css/global-responsive-large.css?v=2" rel="stylesheet" type="text/css">
+      <link href="/css/global-responsive-medium.css?v=2" rel="stylesheet" type="text/css">
+      <link href="/css/global-responsive-small.css?v=2" rel="stylesheet" type="text/css">
+      <link href="/css/gallery-responsive.css?v=2" rel="stylesheet" type="text/css">
+      <link href="/css/responsiveslides.css" rel="stylesheet" title="text/css">    
+    <link type="text/css" rel="stylesheet" href="/css/mCustomScrollbar.css">
+    
+    <link type="text/css" rel="stylesheet" href="/search/templates/standard/search.css">
+    
+    <!-- suggest script -->
+    <style type="text/css">@import url("/search/include/js_suggest/SuggestFramework.css");</style>
+    <script async="" src="//d.turn.com/r/dft/id/L21rdC8yNy9waWQvNzAxODAxNjUvdC8w"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/search/include/js_suggest/SuggestFramework.js"></script>
+    <script type="text/javascript">window.onload = initializeSuggestFramework;</script>
+    <!-- /suggest script -->
+        
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script type="text/javascript" src="/javascript/jquery.browser.js"></script>
 <script type="text/javascript" src="/javascript/jquery.custom_rollover.js"></script>
 <script type="text/javascript" src="/javascript/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/javascript/jquery.mCustomScrollbar.min.js"></script>
+	<script type="text/javascript" src="/javascript/jquery.mousewheel.min.js"></script>
 
 
 
 
 <script type="text/javascript">
+	jQuery.browser = {};
+	(function () {
+			jQuery.browser.msie = false;
+			jQuery.browser.version = 0;
+			if (navigator.userAgent.match(/MSIE ([0-9]+)\./)) {
+					jQuery.browser.msie = true;
+					jQuery.browser.version = RegExp.$1;
+			}
+	})();
 	if(!(window.console && console.log)) {
 	  console = {
 		log: function(){},
@@ -42,6 +61,56 @@ $(document).ready(function() {
 	$('#youtube').custom_rollover(-28,14);
 	$('#pinterest').custom_rollover(-42,14);
 	$('#instagram').custom_rollover(-56,14);
+	
+	//Mobile Nav
+	$('#menu-btn').click(function() {
+		$('#mainNavContainer').toggleClass('visible');
+	});
+	
+	// Responsive Nav
+	$('#turnNavOn').on('click', function() {
+		$('#alpha').addClass('alphaResponsiveNavActive');
+		$('#responsiveNav').addClass('responsiveNavActive');
+		$('.hamburger').hide();
+		$('#turnNavOff').show();
+	});
+	
+	$('#turnNavOff').on('click', function() {
+		$('#alpha').removeClass('alphaResponsiveNavActive');
+		$(this).hide(function() {
+			$('#responsiveNav').removeClass('responsiveNavActive');
+		});
+		$('.hamburger').show();
+	});
+	
+	$('.responsiveNavCollectionsExpand').click(function(e) {
+		if ($(this).hasClass('responsiveNavCollectionsExpanded')) {
+			$(this).removeClass('responsiveNavCollectionsExpanded').parent('li').find('.responsiveNavInner').hide();
+			$(this).html('+>');
+		} else {
+			$(this).addClass('responsiveNavCollectionsExpanded').parent('li').find('.responsiveNavInner').show();
+			$(this).html('-');
+		}
+		e.preventDefault();
+		return false;
+	});
+	
+	$(document).bind('click', ".responsiveNavCollectionsExpanded", function(){});
+	
+	$('.responsiveNavCollectionsExpanded').click(function(e) {
+		$(this).removeClass('responsiveNavCollectionsExpanded').find('.responsiveNavInner').hide();
+		e.preventDefault();
+		return false;
+	});
+	
+	// Make Responsive Nav Scrollable
+	$('#responsiveNav').mCustomScrollbar({
+		theme:'dark',
+		advanced:{  
+			updateOnBrowserResize:true,   
+			updateOnContentResize:true   
+		} // removed extra commas  
+	});  
 	
 	//Product Gallery Link
 	$('.exploreGallery').custom_rollover(192,0);
@@ -82,7 +151,6 @@ $(document).ready(function() {
 		'margin-bottom':'20px'
 	});
 	
-
 		
 	
 	// Search Box Text
@@ -97,38 +165,131 @@ $(document).ready(function() {
 		}
 	});
 	
+	//Responsive Search
+	$('.responsiveSearchButton').click(function() {
+		if ($(this).hasClass('responsiveSearchClose')) {
+			$(this).removeClass('responsiveSearchClose');
+			$('#search').hide();
+		} else {
+			$(this).addClass('responsiveSearchClose');
+			$('#search').show();
+		}
+	});
 });
 </script>
-<!-- Google Analytics -->
-<script type="text/javascript">
+      <!-- Google Analytics -->
+  <script type="text/javascript">
+  
+        
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+    ga('create', 'UA-18269598-1 ', 'auto', {'allowLinker': true});
+    
+    ga('require', 'linker');
+    
+    ga('linker:autoLink', ['seikousa.com ','seikowatches.com']);
+    
+    ga('require', 'displayfeatures');
+    
+    ga('send', 'pageview'); 
+  
+  </script>
+  
+  <!-- Facebook Pixel Code -->
+  <script>
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+  document,'script','https://connect.facebook.net/en_US/fbevents.js');
+  
+  fbq('init', '1127692533964987');
+  fbq('track', "PageView");</script>
+  <noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1127692533964987&ev=PageView&noscript=1"
+  /></noscript>
+  <!-- End Facebook Pixel Code -->  </head>
 
-		
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  <body>
+    <!-- hidesearch start -->
+        
+    <div class="lightboxOverlayWhite"></div>
+    <div id="headerBand"></div>
+    <!--sphider_noindex-->
 
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	
-	ga('create', 'UA-18269598-1 ', 'auto', {'allowLinker': true});
-	
-	ga('require', 'linker');
-	
-	ga('linker:autoLink', ['seikousa.com ','seikowatches.com']);
-	
-	ga('require', 'displayfeatures');
-	
-	ga('send', 'pageview'); 
+<div id="responsiveNav">
 
-</script></head>
+	<ul>
+  	<li><a href="/">Home</a>
+  	<hr>
+		</li><li>Collections <span class="responsiveNavCollectionsExpand"> +&gt; </span>
+    	<ul class="responsiveNavInner">
+      	<li><a href="/collections/grand%20seiko">Grand Seiko</a></li>
+        <li><a href="/collections/astron">Astron</a></li>
+        <li><a href="/collections/prospex master series">Prospex Master Series</a></li>
+        <li><a href="/collections/prospex">Prospex</a></li>
+        <li><a href="/collections/coutura">Coutura</a></li>
+        <li><a href="/collections/sportura">Sportura</a></li>
+        <li><a href="/collections/premier">Premier</a></li>
+        <li><a href="/collections/tressia/women">Tressia</a></li>
+        <li><a href="/collections/le%20grand%20sport">Le Grand Sport</a></li>
+        <li><a href="/collections/recraft">Recraft Series</a></li>
+        <li><a href="/collections/galante">Galante</a></li>
+        <li><a href="/collections/presage">Presage</a></li>
+        <li><a href="/collections/credor">Credor</a></li>
+        <li><a href="/collections/">View All</a></li>
+      </ul>
+    </li>
+    <hr>
+		<li><a href="/gallery">Product Gallery</a></li>
+  	<hr>
+		<li><a href="/seiko-style/brand-ambassadors/">Seiko Style:<span class="responsiveBreak"></span> What's New </a>  <span class="responsiveNavCollectionsExpand"> +&gt; </span>
+    	<ul class="responsiveNavInner">
+        <li><a href="/seiko-style/brand-ambassadors/novak-djokovic/">Novak Djokovic</a></li>
+        <li><a href="/seiko-style/brand-ambassadors/novak-djokovic/">Jimmie Johnson</a></li>
+        <li><a href="/seiko-style/brand-ambassadors/novak-djokovic/">Misty Copeland</a></li>
+              	<li><a href="/seiko-style/join">Get on Our List</a></li>
+      	<li><a href="/seiko-style/patriots-jet-team">Patriots Jet Team Special Edition</a></li>
+      </ul>
+    </li>
+    
+  	<hr>
+		<li><a href="http://store.seikowatches.com/us_en/">Store Finder</a></li>
+		<li><a href="/boutique">Boutique</a></li>
+		<li><a href="/support">Support</a></li>
+		<li><a href="/watch-registration">Watch Registration</a></li>
+		<li><a href="/seiko-style/join">Get on Our List</a></li>
+    <hr>
+	</ul>
+  
+  <div id="responsiveFooterNavSlideOut">
+  	<ul>
+  		<li><a href="/media-center">Media Center</a>      </li>
+  		<li><a href="/corporate-gifts">Corporate Gifts</a></li>
+  		<li><a href="/corporate/about-us">About Us</a></li>
+  		<li><a href="/privacy">Privacy Policy</a></li>
+  		<li><a href="/site-map">Site Map</a></li>
+  		<li><a href="/contact-us">Contact Us</a></li>
+  		<li><a href="/internet-purchase-warning">Internet Purchase Warning</a></li>
+  	</ul>
+  </div>
 
-<body>
-<!-- hidesearch start -->
 
-<div class="lightboxOverlayWhite"></div>
-<div id="headerBand"><!--headerBand-->
-</div>
-<div id="alpha">
-	<script type="text/javascript">
+
+
+
+
+
+
+
+
+
+</div><!--/sphider_noindex-->    <div id="alpha">
+      <script type="text/javascript">
 		$(window).load(function() {
 			offsetLeft = $('#beta').offset().left + 30;
 			offsetRight = offsetLeft + $('#beta').outerWidth();
@@ -151,34 +312,47 @@ $(document).ready(function() {
 			
 						
         });
-	</script>            
-    
-    <!--sphider_noindex-->
+	</script>                        
+        
+        <!--sphider_noindex-->
 <header>
 <div id="header">
-	    <div id="logo"><a href="/"><img src="/images/logo.png" width="133" height="31" alt="Seiko"></a></div><!--/logo-->
+	    <div id="logo"><a href="/"><img src="/images/logo.png" alt="Seiko USA"></a></div><!--/logo-->
+    
+    <div class="responsiveSearchButton">
+    </div>
+    <div class="responsiveNavButton">
+    	<div id="turnNavOn">
+        <div class="hamburger"></div>
+        <span class="hamburger"></span>
+        <span class="hamburger"></span>
+        <span class="hamburger"></span>
+     	</div>
+      <div id="turnNavOff">X</div>
+    </div>
     
         <div id="mainNavContainer">
         <ul id="mainNav">
                         <li class="singleLine"><a class="" href="/collections">Collections</a></li>
             <li class="doubleLine"><a class="" href="/gallery">Product<br>Gallery</a></li>
-            <li class="doubleLine ambassadors"><a class="" href="/seiko-nation">Ambassadors<br><span>of the</span><br>Seiko Nation</a></li>
+                         <li class="doubleLine"><a class="" href="/seiko-style">Seiko Style:<br>What's New</a></li>
             <li class="doubleLine"><a class="" href="http://store.seikowatches.com/us_en/">Store<br>Finder</a></li>
             <li class="singleLine"><a class="" href="/boutique">Boutique</a></li>
                     </ul><!--/mainNav-->
     </div><!--/mainNavContainer-->
     
         <div id="search">
-    <form action="/search/search.php" method="GET">
-    	<button id="submit" type="submit"></button>
-        <input id="headerSearch" name="query" type="text" width="228" value="Search by Name or Model Number">
-        <input type="hidden" name="search" value="1">
-    </form></div><!--/search-->
+      <form action="/search/search.php" method="GET">
+        <button id="submit" type="submit"></button>
+          <input id="headerSearch" name="query" type="text" width="228" value="Search by Name or Model Number">
+          <input type="hidden" name="search" value="1">
+      </form>
+    </div><!--/search-->
     
     <div id="headerLinkWrapper">
     	<a id="support" href="/support">Support</a>
     	<a id="registration" href="/watch-registration">Watch Registration</a><br>
-    	    	<a id="seikoNation" href="/seiko-nation/join">Join the Seiko Nation</a>
+    	    	<a id="seikoStyle" href="/seiko-style/join">Get on Our List</a>
     </div>
     <div id="socialLinksWrapper">
     	<a class="socialLinks" id="facebook" href="https://www.facebook.com/Seiko" target="_blank">
@@ -202,64 +376,180 @@ $(document).ready(function() {
         <div id="breadcrumbs"><a href="/index.php">Home</a> <span class="separator">&gt;</span>Privacy Policy</div><!--/breadcrumbs-->
 
 </div><!--/header-->
-</header>
-<!--/sphider_noindex-->    
-    <div id="beta">
-
-    <div id="leftNavColumn" class="
-            equalHeights">
-    <!--sphider_noindex-->
-<!--/sphider_noindex-->	
-    </div><!--/leftNavColumn-->
-    
-<!-- hidesearch end -->   
-<div class="content  equalHeights"> <h1>SCA Online Privacy Policy</h1>
-<p>Protecting one’s privacy is of paramount importance to  SCA. SCA has developed a policy recognizing and protecting the privacy of  consumers and retail customers who browse SCA’s <u>www.SeikoUSA.com</u> website  for its Seiko watch brand. SCA has established the following Website Privacy  Policy to protect “customer identifiable” information consistent with  applicable federal, state and local laws. SCA Protects Online “Customer  Identifiable” information as follows”</p>
-<h2>“Customer  Identifiable” information.</h2>
-  SCA acknowledges that the growth on online services,  including internet services, has created additional privacy concerns,  especially for consumers. Such concerns primarily focus on the protection of  “customer identifiable” information, which individual or retail customers  reasonable expect to be kept private. “Customer identifiable” information is  that information, which can be associated with a specific individual or entity  (for example, a customer’s name, address or telephone number, email address and  certain information about online activities that are directly linked to them).<p></p>
-<h2>Collection and  Use.</h2>
-  We collect customer identifiable information in order  to conduct business and provide products and services that interest you. SCA  may collect customer identifiable information (such as name, address, telephone  number etc.) at this website of in the course of responding to  consumer/retailers inquires about our products and/or requests for product  serving. SCA will collect and use customer identifiable information for billing  purposes to anticipate and resolve problems with product servicing or to inform  you of products of services that better meet your needs. While SCA may user  your “customer identifiable information” together with information obtained via  other sources, to market new products and services, which SCA considers may be  of interest to you, SCA will not disclose your customer identifiable  information to third parties who may want to market other products or services  to you. Online customers are asked to provide various identifiable information  in connection with warranty registrations, sweepstakes or questionnaires, or  when using the store locator. In addition, if you contact us with an inquiry,  you are voluntarily releasing to us all the information with in your messages.<p></p>
-<h2>Security</h2>
-  SCA uses appropriate technologies to safeguard  Customer Identifiable Information.<p></p>
-<p>Disclosure. SCA will not sell, trade or disclose to  third parties any customer identifiable information derived from a consumer or  retail customers use of an SCA website without the written consent of there  consumer or retail customer as the case may be (except as may be required by  law, court order, or to cooperate with a law enforcement request or in  connection with a lawsuit). Also, when SCA utilizes other agents, contractors  or companies to perform services on its behalf, SCA will seek to ensure that  the company agent will protect your customer identifiable consistent with this  Policy. In the event SCA includes your name, address and any other customer  identifiable information in a directory that SCA creates for its Authorized  dealers, etc., SCA will give you the opportunity to have your information  excluded from the directories. In order to have your information excluded from  the directories you may instruct us to do so, by sending an email to  <a href="mailto:SeikoInfoNetwork@seikousa.com">SeikoInfoNetwork@seikousa.com</a> or providing us with written notification  addressed as follows: SEIKO Corporation of America, 1111 Macarthur Blvd, Mahwah,  NJ 07430, Attention: Marketing Department. Business directories that SCA  creates may contain information obtained other sources, such as retail stores,  in addition to any information collected at our website. Please be aware the  SCA cannot remove your “customer identifiable” information from any directory  that has been circulated to our Authorized dealers in hard copy form.</p>
-<p>Customer Choice. A consumer or retail customer may  choose not to receive direct marketing communications for SCA either by sending  and email to <a href="mailto:SeikoInfoNetwork@seikousa.com">SeikoInfoNetwork@seikousa.com</a> or providing us with written  notification addresses as follows: SEIKO Corporation of America, 1111 Macarthur  Blvd, Mahwah, NJ 07430, Attention: Marketing Department. If you opt out from  receiving messages from us, SCA will not contact you directly with marketing  messages. A customer may also choose not to receive such messages by telephone.  If you choose to opt out from receiving information from SCA and later change  your mind, simply send us an email or written notification to the email address  or mailing address referred above to request inclusion of you contact  information back into our database.</p>
-<p>Changes to this Policy. SCA reserves the right to make  changes to this policy in the future. If we change this Policy in any material  way, we will post the revised version at this website and will include a new  “last revised” date at the top of the page. We encourage you to check this page  periodically to stay current on any changes to the policy.</p>
-</div><!--/content-->
 <div class="clearfix"></div>
-</div><!--/beta-->
-<div id="footerWrapper">
-<!--sphider_noindex-->
+</header>
+<!--/sphider_noindex-->        
+        <div id="beta">
+    
+        <div id="leftNavColumn" class="
+                    equalHeights">
+        <!--sphider_noindex-->
+<!--/sphider_noindex-->	
+        </div><!--/leftNavColumn-->    <!-- hidesearch end -->   
+    <div class="content privacy equalHeights"> 
+
+<p><strong>Updated: </strong>July 2016
+  </p><h1>PRIVACY POLICY</h1>
+<p>Protecting  one's privacy is of paramount importance to Seiko Corporation of America ("SCA"  or "we" and its derivatives).&nbsp; This  Privacy Policy recognizes the privacy of consumers and retail customers who  browse the SCA website for its Seiko-watch brand, and is adopted for the <a href="http://www.SeikoUSA.com">www.SeikoUSA.com</a> website.&nbsp; It is important for you, the consumer, to  review this Privacy Policy carefully.&nbsp; </p>
+<p>SCA reserves the right to change,  modify, and add terms to this policy at any time.&nbsp; We will post changes on this page and if we  determine that they are material in nature, we will provide more prominent  notice on our homepage.&nbsp; If you have any  questions about the information contained in this Privacy Policy, please feel  free to contact us at <a href="mailto:SeikoInfoNetwork@seikousa.com">SeikoInfoNetwork@seikousa.com</a>.</p>
+<ol start="1">
+  <li>
+  	<strong>What information does SCA collect?</strong>
+    </li>
+</ol>
+<p>SCA collects the following  information from consumers as they use the SCA website: </p>
+
+<p><u>PII</u>:&nbsp;  SCA may collect personally identifiable information" ("PII") (such as  name, e-mail, address, telephone number, etc.) in the course of responding to  consumer/retailers inquiries about our products and/or requests for product servicing.  &nbsp;For example, online customers may  provide various PII in connection with filling out information on the SCA  website, warranty registrations, sweepstakes or questionnaires, or when using  the store locator. In addition, if you contact us with an inquiry, you are  voluntarily releasing to us all the information within your messages, which  may contain PII.&nbsp; While SCA may use your PII  &nbsp;together with information obtained via  other sources (as described further below), to market new products and services  that may be of interest to you, SCA will not disclose your PII to third parties  who may want to market other products or services to you.&nbsp; SCA does not knowingly collect or use any PII  from individuals under the age of 13.&nbsp; If  we become aware that any such information has been provided or submitted to us,  we will delete the information as soon as possible.</p>
+
+<p><u>Non-PII</u>:&nbsp;  Through relationships with our partners (including media agencies,  advertising vendors, and websites in the same network as those agencies and  vendors), we collect anonymous, non-personally identifiable information ("Non-PII")  about online activity related to internet service provider (a.k.a. ISP) (from  which we can infer geographic information), web browser, &nbsp;search, website, and shopping behavior that  enables us to deliver in-store product recommendations, personalized e-mail  marketing offers (if you provide your e-mail information to us), audience and  customer analytics, and personalized advertisements (which is sometimes  referred to as "targeted advertising" or "retargeting").&nbsp; We retain this information for as long as it  remains relevant (in our discretion).&nbsp; </p>
+<ol start="2">
+  <li><strong>How does SCA collect PII and  Non-PII?</strong></li>
+</ol>
+
+<p>To provide a tailored and efficient  shopping experience, we collect and receive a variety of data.&nbsp; </p>
+<p><u>PII Collection</u>: You must affirmatively provide  PII to us.&nbsp; SCA will not disclose PII to  any third parties that may want to market other products and services to you.</p>
+
+<p><u>Non-PII Collection</u>:&nbsp;  Our collection of Non-PII focuses on your browsing habits.&nbsp; By collecting Non-PII, SCA can show you the  most useful and relevant online advertisements across numerous websites, while  at the same time we can minimize excessive or repeated deliveries of the same  advertisements.&nbsp; We primarily provide  these targeted advertisements by sharing Non-PII collected with a third-party  advertising company (the "Ad Company") that analyzes cookies and pixel  tags.&nbsp; </p>
+
+<p>Cookies are small data files  containing a string of characters, such as an anonymous unique browser  identifier.&nbsp; Cookies are stored on your  computer or other device and act as a unique identifier for your computer,  device, and browser.&nbsp; Our servers may  send your device a cookie when you visit the SCA website, and our Ad Company  may do likewise.&nbsp; SCA, along with its Ad  Company, may use cookies to, among other things, "remember" you (e.g., when you  visit the SCA website), track trends, and collect information about how you use  or interact with advertising.&nbsp; We use  cookies to provide relevant content to you and replace non-relevant ads with  ads that better match your interests.&nbsp;  You can disable cookies, but please know that the activity logged by the  cookie before disabling can be analyzed by the Ad Company (but no PII is  shared, collected, or retained by the Ad Company) and may be used by SCA or the  Ad Company for statistical purposes.</p>
+<p>A pixel tag is an invisible 1x1 image that is placed on certain  web pages.&nbsp; When you access web pages on  which a pixel tag is deployed, the pixel tag may set or read cookies.&nbsp; This Cookie or unique id anonymously tracks a  user's activity without associating the user with any PII.&nbsp; </p>
+<p>Though Non-PII does not personally  identify a specific individual, we are still committed to giving users the  opportunity to exercise choice about the Non-PII we collect (<u>see</u> discussion on "opting-out" further along in this Privacy Policy).&nbsp; </p>
+<ol start="3">
+  <li><strong>What does SCA do with PII and  Non-PII?</strong></li>
+</ol>
+<p>SCA wants to help you find the  products that you want.&nbsp; We primarily use  the collected PII and Non-PII to give you a better shopping experience across  different forms of media and advertising, as limited by this Privacy Policy. </p>
+
+<p>In order to accomplish this, SCA  will share your Non-PII (but not your PII) with our Ad Company so that SCA  products can be shown in the form of targeted advertisements on other websites  in the Ad Company’s network or clientele.&nbsp;  SCA and its Ad Company may also use your Non-PII at times to conduct  research and development efforts as we evaluate our advertising and media plans  going forward.&nbsp; To the extent SCA uses  your PII for such research and development purposes, it will not share that  information with third parties or Ad Company.</p>
+
+<p>That said, please know that there  may be situations where your Non-PII and, possibly, your PII will have to be  disclosed: </p>
+  <ol start="1" style="margin-left:50px">
+    <li>As  part of a business sale, merger, consolidation, investment, change in control,  transfer of substantial assets, reorganization or liquidation, or in connection  with steps taken in anticipation of such an event (e.g., due diligence). </li>
+    <li>With  our corporate affiliates.</li>
+    <li>When  required by law or in response to lawful process, such as a subpoena, or to  cooperate in good faith with a request from a government or law enforcement  agency or official.</li>
+    <li>If  we believe sharing the information may prevent physical, financial, or other  harm, injury or loss; or we believe is necessary to protect our, or any other  person’s or entity’s interest; or in connection with an investigation of  suspected or actual unlawful activity.</li>
+  </ol>
+
+<ol start="4">
+  <li><strong>What if I don’t want to share my  PII or Non-PII?</strong></li>
+</ol>
+<p><u>PII</u>: Consumers have control over  whether they would like to receive relevant advertisements and marketing  emails.&nbsp; You can choose not to receive  direct marketing communications for SCA by sending an email to&nbsp;<a href="mailto:SeikoInfoNetwork@seikousa.com">SeikoInfoNetwork@seikousa.com</a>, by providing us with written  notification addressed as follows: SEIKO Corporation of America, 1111 Macarthur  Blvd, Mahwah, NJ 07430, <u>Attention</u>: Marketing Department, or by following  the "unsubscribe" instructions in a SCA marketing email.&nbsp; A customer may also choose not to receive  such messages by telephone. If you choose to opt out from receiving information  from SCA and later change your mind, simply send us an email or written  notification to the email address or mailing address referred above to request  inclusion of you contact information back into our database.&nbsp; </p>
+<p><u>Non-PII</u>:&nbsp;  You can also opt out of targeted advertising by clicking the link here: <a target="_blank" href="http://www.networkadvertising.org/choices/">http://www.networkadvertising.org/choices/</a>.&nbsp;  SCA also honors do not track (a.k.a. DNT) signals from users that do not  want to be tracked.&nbsp; In order for the  opt-out to work, a third party opt-out cookie is set on your web browser. Therefore, in order for your opt-out choice to be effective, your device must  be set to accept third party cookies (in other words, if you clear/block  cookies, the pixel tags on the SCA website will still track your Non-PII).&nbsp; Opting out does not necessarily delete or  replace all cookies from our domain. &nbsp;If  you buy a new computer or device, upgrade or change web browsers or take any  other action which results in the deletion of this opt-out cookie, you will  need to perform this opt-out process again. </p>
+<p>Please note that opting out does  not mean you will block online advertising altogether or see fewer ads.&nbsp; It simply means that the ads that you see  will not be personalized for you.&nbsp; Ads  may be served because they relate to the website you are visiting or to your  current search, or they may just be randomly placed.&nbsp; Your choice to opt out from personalized ads  placed by SCA will not affect ads placed by any other organization, whether on  SCA’s page, its Ad Company, or anywhere else on the internet.</p>
+<ol start="5">
+  <li><strong>Does SCA safeguard my PII?</strong></li>
+</ol>
+<p>Yes.&nbsp; We employ security measures to guard your PII  that we process against accidental, unlawful, or unauthorized destruction,  alteration, disclosure, access, or other use, and we comply with applicable  security requirements.&nbsp; However, despite  the measures we take, no security measures can be 100% secure, and we therefore  do not warrant the security of any information provided to or collected by us.</p>
+
+
+
+    </div><!--/content-->
+    <div class="clearfix"></div>
+      </div><!--/beta-->
+  
+  <div id="footerWrapper">
+    <!--sphider_noindex-->
 <footer>
 <div id="footer">
+	<div id="responsiveFooterNav">
+  	<div class="section left">
+      <ul>
+        <li><a href="/collections" class="bold">The Collections</a>
+        	<div class="clearfix"></div>
+          <ul class="left nested">
+            <li><a href="/collections/grand seiko">Grand Seiko</a></li>
+            <li><a href="/collections/astron">Astron</a></li>
+            <li><a href="/collections/prospex master series">Prospex Master Series</a></li>
+            <li><a href="/collections/prospex">Prospex</a></li>
+            <li><a href="/collections/coutura">Coutura</a></li>
+            <li><a href="/collections/tressia">Tressia</a></li>
+          </ul>
+          <ul class="right nested">
+            <li><a href="/collections/sportura">Sportura</a></li>
+            <li><a href="/collections/premier">Premier</a></li>
+            <li><a href="/collections/le grand sport">Le Grand Sport</a></li>
+            <li><a href="/collections/galante">Galante</a></li>
+            <li><a href="/collections/presage">Presage</a></li>
+            <li><a href="/collections/credor">Credor</a></li>
+            <li><a href="/collections/recraft">Recraft Series</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+    
+    <div class="section middle">
+    	<ul>
+      	<li><a href="/gallery" class="bold">Product Gallery</a></li>
+        <li><a href="/seiko-style/" class="bold">Seiko Style: What's New</a>
+        	<ul class="nested">
+            <li><a href="/seiko-style/brand-ambassadors/novak-djokovic/">Novak Djokovic</a></li>
+            <li><a href="/seiko-style/brand-ambassadors/jimmie-johnson/">Jimmie Johnson</a></li>
+            <li><a href="/seiko-style/brand-ambassadors/misty-copeland/">Misty Copeland</a></li>
+            <li><a href="/seiko-style/company-history/">Company History</a></li>
+            <li><a href="/seiko-style/join">Get on Our List</a></li>
+            <li><a href="/seiko-style/patriots-jet-team">Patriots Jet Team Special Edition</a></li>
+          </ul>
+        </li>
+      </ul>
+      
+      <div class="clearfix"></div>
+    </div>
+    
+    <div class="section right">
+    	<ul>
+      	<li><a href="http://store.seikowatches.com/us_en/?_ga=1.90122396.680010238.1464874272" target="_blank" class="bold">Store Finder</a></li>
+        <li><a href="/boutique/" class="bold">Boutique</a></li>
+        <li><a href="/support/" class="bold">Support</a></li>
+        <li><a href="/watch-registration" class="bold">Watch Registration</a></li>
+      </ul>
+      
+      <div id="socialLinksResponsive"> 
+      	<a target="_blank" href="https://www.instagram.com/seikowatchusa/" id="instagramResponsive" class="socialLinkResponsive"></a>
+      	<a target="_blank" href="https://www.facebook.com/Seiko" id="facebookResponsive" class="socialLinkResponsive"></a>
+      	<a target="_blank" href="https://www.youtube.com/user/iloveSEIKO" id="youtubeResponsive" class="socialLinkResponsive"></a>
+      	<a target="_blank" href="https://twitter.com/seikowatches" id="twitterResponsive" class="socialLinkResponsive"></a>
+      	<a target="_blank" href="http://pinterest.com/seikowatches/" id="pinterestResponsive" class="socialLinkResponsive"></a>
+      	      </div>
+    	
+    </div>
+  </div>
 	
 	    <ul id="footerNav">
-        <li><a href="/media-center">Media Center</a></li>
-        <li><a href="/corporate-gifts">Corporate Gifts</a></li>
-        <li><a href="/corporate/about-us">About Us</a></li>
-        <li><a href="/privacy">Privacy Policy</a></li>
-        <li><a href="/site-map">Site Map</a></li>
-        <li><a href="/contact-us">Contact Us</a></li>
-        <li><a href="/internet-purchase-warning">Internet Purchase Warning</a></li>
-            </ul>
+      <li><a href="/media-center">Media Center</a></li>
+      <li><a href="/corporate-gifts">Corporate Gifts</a></li>
+      <li><a href="/corporate/about-us">About Us</a></li>
+      <li><a href="/privacy">Privacy Policy</a></li>
+      <li><a href="/site-map">Site Map</a></li>
+      <li><a href="/contact-us">Contact Us</a></li>
+      <li><a href="/internet-purchase-warning">Internet Purchase Warning</a></li>
+      <li><a href="/careers">Careers</a></li>
+    </ul>
+    <div class="clearfix"></div>
     <div id="footerCopyright">
     Copyright© 2007-2016, SEIKO WATCH CORPORATION.
     </div>
+    <div class="clearfix"></div>
 </div>
 </footer>
-<!--/sphider_noindex--></div>
+<!--/sphider_noindex-->  </div>
 </div><!--/alpha-->
+
 <div id="footerBand">
-<div id="footerHr"></div>
+	<div id="footerHr"></div>
 </div><!--/footerBand-->
 <script type="text/javascript">
 	$(window).bind('load', function() {
-		//Column Adjustor 
-		//var highestCol = Math.max($('#leftNavColumn').outerHeight(),$('#content').outerHeight());
-		//alert(highestCol);
-		//$('.equalHeights').css('min-height',highestCol);
-		betaHeight = $('#beta').height();
+				var betaHeight = $('#beta').height();
+		//alert(betaHeight);
 		$('.equalHeights').css('min-height',betaHeight);
 	});
-</script>
+	$(window).resize(function() {
+		var slideshowImgHeight = $('.firstSlide > .imgBkgrd').height();
+		$('.equalHeights').css('min-height',slideshowImgHeight+30);
+	});
+</script>		
+	<!-- Flex Tag Code -->
+	<noscript><iframe src="//d.turn.com/r/dft/id/L21rdC8yNy9waWQvNzAxODAxNjUvdC8w?ns" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(a,b,d){var c=a.getElementsByTagName(b)[0],a=a.createElement(b);a.async=!0;a.src=d;c.parentNode.insertBefore(a,c)})(document,"script","//d.turn.com/r/dft/id/L21rdC8yNy9waWQvNzAxODAxNjUvdC8w");</script>
+	<!-- End Flex Tag Code -->
+
 
 </body></html>
