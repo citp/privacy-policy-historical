@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tastebook.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629155012id_/http%3A//www.randomhouse.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastebook.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213195223id_/http%3A//www.penguinrandomhouse.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Penguin Random House
 
