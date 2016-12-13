@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secretmatureflirt.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620073256id_/http%3A//www.secretmatureflirt.com/privacy%3Fprid%3D44941%26p%3D362232) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretmatureflirt.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213070244id_/http%3A//www.secretmatureflirt.com/privacy%3Fprid%3D44941%26p%3D362232%26nas%3D%26pi%3D) for the most accurate reproduction.*
 
 # Secret Mature Flirts and Sexcontacts
 
@@ -126,6 +126,6 @@ How to change your settings varies from one browser to another. If necessary, re
 
 ### Concluding remarks
 
-This information was published for the first time on November 1, 2012. It may be that the summary stated above, despite all our efforts, is not 100% complete yet. We are working on completing it. Should you encounter a cookie that is not on the list, please report it to us via [our cusomer service](https://web.archive.org/contact/?prid=44941&p=362232).
+This information was published for the first time on November 1, 2012. It may be that the summary stated above, despite all our efforts, is not 100% complete yet. We are working on completing it. Should you encounter a cookie that is not on the list, please report it to us via [our customer service](https://web.archive.org/contact/?prid=44941&p=362232).
 
 We will provide these statements occasionally have to adjust , because, for example modify our website or the rules around cookies. We , the content of the statements and the cookies that are included in the lists always change without warning . You can consult this web page for the latest version. 
