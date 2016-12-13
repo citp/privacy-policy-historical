@@ -1,8 +1,21 @@
-> *The following text is extracted and transformed from the howtothisandthat.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622010924id_/http%3A//howtothisandthat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtothisandthat.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213181020id_/http%3A//howtothisandthat.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Recipes | Crafts | DIY | Home Garden
 
-This privacy policy sets out how How To This And That  uses and protects any information that you give while using www.howtothisandthat.com
+CLICK TO SHARE WITH YOUR FRIENDS!
+
+  *  __
+  *  __
+  *  __
+  *  __
+  *  __
+  *  __
+  *  __
+  *  __
+
+
+
+This privacy policy sets out how How To This And That   uses and protects any information that you give while using www.howtothisandthat.com
 
 Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -68,4 +81,17 @@ For information about opting out of Gourmet Ads and ad serving partners please v
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
 
   
+
+
+CLICK TO SHARE WITH YOUR FRIENDS!
+
+  *  __
+  *  __
+  *  __
+  *  __
+  *  __
+  *  __
+  *  __
+  *  __
+
 
