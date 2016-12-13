@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bellabeat.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426093002id_/https%3A//www.bellabeat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellabeat.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213090122id_/https%3A//www.bellabeat.com/privacy) for the most accurate reproduction.*
 
-# Bellabeat - Smart Jewelry
+# Bellabeat - Privacy Policy
 
   * Bellabeat ("we", "us") is committed to protecting and respecting your privacy. This Privacy Policy (together with our Terms of Use and any other documents referred to in it) applies to www.bellabeat.com and the Bellabeat mobile application (the "Service") and sets out the basis on which any personal data we collect from you, or that you provide to us, will be handled by us. In this Privacy Policy, the term "personal data" means information that relates to an identified or identifiable natural person.
 
@@ -108,3 +108,5 @@ Moreover, we may disclose information to third parties in an aggregate format th
 
 
 
+
+##### Subscribe for daily inspiration. You deserve it.
