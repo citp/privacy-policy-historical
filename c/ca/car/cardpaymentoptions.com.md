@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardpaymentoptions.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329210528id_/https%3A//www.cardpaymentoptions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardpaymentoptions.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213013107id_/https%3A//www.cardpaymentoptions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,4 +34,4 @@ Clicking ads on this website may direct you to a website that collects informati
 
 ### Questions or Concerns
 
-If you would like to discuss our Privacy Policy, please [contact us](https://www.cardpaymentoptions.com/about/ "About").
+If you would like to discuss our Privacy Policy, please [contact us](https://web.archive.org/about/ "About").
