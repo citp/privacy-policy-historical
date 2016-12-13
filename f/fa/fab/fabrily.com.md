@@ -1,159 +1,79 @@
-> *The following text is extracted and transformed from the fabrily.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528013106id_/https%3A//fabrily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabrily.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213194101id_/https%3A//teespring.com/policies/privacy) for the most accurate reproduction.*
 
-# Fabrily
+# About Teespring / Privacy Policy | Teespring
 
-###  **1\. INTRODUCTION**
+[](https://privacy.truste.com/privacy-seal/validation?rid=162d38e5-1361-4608-a20f-a728a8bfc563 "TRUSTe Privacy Certification")
 
-1.1 Our Privacy Policy is designed to ensure that the personal data you provide to us is processed with due care and attention. The owner of Fabrily.com (the “Website”) is Fabrily Ltd (“We” or “Us”) are committed to our users’ privacy.
+Welcome to Teespring! Teespring is a global company offering an internet-based service (the **“Teespring Service”** ) that allows campaign creators ( **“sellers”** ) to design certain products and promote the sale of those products to consumers ( **“buyers”** ) around the world through individual campaigns. This Privacy Policy applies to the Teespring Service, operated by Teespring, Inc. and its subsidiaries (collectively, **“Teespring”** ), and located at teespring.com (and other regional URLs).
 
-1.2 This policy (together with our [Terms and Conditions](https://web.archive.org/terms) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting the Website you are accepting and consenting to the practices described in this policy.
+This Privacy Policy describes how Teespring collects and uses the information we obtain when you use the Teespring Service. It also describes the choices available to you regarding our use of your Personal Information and how you can access and manage that information. This Privacy Policy is part of and is governed by our [Terms of Service](https://web.archive.org/policies/terms), which you accept in order to transact with us. Your acceptance of this Privacy Policy includes your consent to our use of cookies and other similar technologies as described in this document.
 
-1.3 We collect, store, use and protect your personal information in a transparent way in accordance with the Data Protection Act 1998. For the purpose of the Data Protection Act 1988 (the “Act”), the data controller is Fabrily Ltd of Office 34, 67-68 Hatton Garden, London EC1N 8JY, United Kingdom. Fabrily is registered with the ICO under registration number [ ].
+To note, our site may include links to other web sites whose privacy practices may differ from those of Teespring. Because the use of your information is governed by their privacy policies, we encourage you to read each policy carefully. We are not responsible for the policies or practices of any third party website or service.
 
-1.4 If you do not agree with our Privacy Policy, then please do not use the Website.
+Teespring has received TRUSTE’s Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. The TRUSTe program covers only information that is collected through this website, http://teespring.com.
 
-###  **2\. COLLECTION AND USE OF INFORMATION**
+If you have questions or concerns regarding this Statement, please visit our [support page](http://answers.teespring.com/customer/portal/emails/new) or [contact support](http://answers.teespring.com/customer/en/portal/emails/new). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
-2.1 We may collect the following data:
+ **Information You Provide to Us. “Personal Information”** means information that alone or in combination with other information may be used to readily identify, contact, or locate you. The Personal Information we collect will be different depending on your activities on the Teespring Service. For example, to register as a seller on our service, we will collect your name and email address. If you register using a sign-in service or a social media platform such as Facebook, we will collect the information needed to authenticate your account and any other information the platform provides in that process. If you launch a successful campaign, we may collect additional Personal Information as needed to send you and the applicable tax authorities an income tax reporting statement. If you make a purchase through the Teespring Service, we will collect your name, email address, shipping address and payment information such as credit card number and billing address.
 
-(a) information about you including but not limited to your name and contact details which you provided while filling out our electronic forms on the Website or by corresponding with us by phone, e-mail or otherwise. Our payment services provider may collect, process and store your payment details. The privacy policy of our payment services provider applies in relation to the collection and processing of such data. We will not receive your payment details;
+We may also collect Personal Information you provide about other people, such as their name and physical address (for example, when we ship a gift at your request). This Personal Information is used for the sole purpose of completing your request.
 
-(b) information provided at the time of registering to use the Website, subscribing to our service, posting material or requesting further services;
+ **Automated Technologies. “Site Information”** means information received and recorded on our server logs from your browser, including your IP address, browser type, the date and time of the use, the pages you visit, the page you came from and go to when leaving the Teespring Service, your operating system and information about your mobile device. We may combine this automatically collected log information with other information we collect about you. In addition, we also automatically collect Site Information when you access or use the Teespring Service. We (and our vendors) collect that information using cookies, pixel tags, web beacons, embedded web links, and similar technologies. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our service may be limited.
 
-(c) information about you from the requests and other messages you submit to the Website and the e-mails or letters you send to us;
+We Teespring and our partners use technologies such as cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. We also use cookies for our shopping cart, to remember users’ settings (e.g. language preference), for authentication and other similar services. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our service may be limited.
 
-(d) information about your visit to the Website including but not limited to weblogs, traffic and location data or any other communication information;
+ **Teespring Tools. “Performance Information”** means information we collect through certain tools that we provide to our sellers. Where a seller requests the use of a particular tool (e.g. an advertising analytics tool for use with ad platforms), then Teespring will collect additional data based on the operation of that tool (e.g. advertising conversion information from the applicable ad platform).
 
-(e) information from surveys conducted by the Website from time to time. However, you are not obliged to respond to them; and
+ **Blog.** The Teespring Service may offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at privacy@teespring.com. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
 
-(f) details of transactions you carry out through the Website and of the fulfillment of your orders.
+ **Social Media Widgets.** The Teespring Service may include social media features, such as the Facebook like button and share buttons. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the features to function properly. Certain social media features are hosted by the applicable provider (e.g. Facebook). Your interactions with these features are governed by the privacy policy of the company providing the features.
 
-2.2 The personal data collected by us may be used:
+ **Single Sign-On.** You can log into the Teespring Service using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain Personal Information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on the Teespring Service to your profile page to share with others within your network.
 
-(a) to meet any request you make on the Website and deliver the services you demand;
+In general, we use Personal Information to provide the Teespring Service to you, including, to establish and administer your account, to fulfill your order and send you an order confirmation, to pay you any royalties earned and to respond to customer service requests.
 
-(b) to adhere to any contractual Agreements entered into by the Website;
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at legal@teespring.com. You may not opt-out of the transactional emails Teespring sends in connection with your use of the Teespring Service (e.g. email notification of individual account activity, such as shipment of an order, or broader account notifications such as changes to Teespring’s policies).
 
-(c) to contact you where it is necessary concerning the services you demand;
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/).
 
-(d) to keep you informed of the Website services and news;
+We use Performance Information to analyze and better understand the characteristics of successful offerings and campaigns and to improve the performance of our sellers and the overall Teespring Service.
 
-(e) to improve and develop our service by monitoring website usage;
+Teespring does not collect Personal Information about your online activities over time, across different web sites. Accordingly, Teespring does not currently respond to “do not track” browser requests.
 
-(f) to notify you about changes to our services; and
+Teespring processes Personal Information in the United States. Please note that you are agreeing to the transfer of your Personal Information to the United States and other locations throughout the world. Your Personal Information will be processed in accordance with this Privacy Policy. Teespring, Inc. participates in the Safe Harbor program maintained by the US Department of Commerce and the European Union and has certified that it adheres to the program’s privacy principles. To learn more about those principles and the program, visit [the U.S. Department of Commerce](http://www.export.gov/safeharbor/eu/eg_main_018365.asp).
 
-(g) for survey purposes.
+We will share information we collect, including your Personal Information, as needed to provide the Teespring Service to you. We will also share your Personal Information with your permission. Otherwise, we do not rent, sell or share your Personal Information with third parties and specifically will not share your Personal Information for their direct marketing purposes without your consent.
 
-###  **3\. IP ADDRESSES**
+ **Sellers.** We may share aggregate, anonymized Site Information, Performance Information or other information with our sellers to help them improve their performance through the Teespring Services. We will not share Personal Information with our sellers without your express consent.
 
-3.1 We may collect, store and use information about your computer, mobile device or other item of hardware through which you access the Website including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+ **Strategic Partners.** We may share aggregate, anonymized data with certain marketing and content licensing partners. Where a partner or agency compensates sellers directly, we will also share performance data with the partner to enable those payments.
 
-###  **4\. INFORMATION DISCLOSURE**
+ **Vendors and Service Providers.** To provide you with the Teespring Service, we share information, including Personal Information, with third party vendors and service providers. For example, we provide Personal Information to companies that help us with our business activities, such as marketing, payment processing and fulfillment. We will use reasonable efforts to ensure those companies use your Personal Information only as necessary.
 
-4.1 We share your personal information with our staff, business partners, suppliers and contractors only to the extent and for the purpose for which it was supplied (for the avoidance of doubt this may include, but is not limited to, the performance of any contract we enter into with them or you).
+ **As Required by Law and Similar Disclosures.** We may access, preserve, and disclose your Personal Information and content if we believe doing so is required or appropriate to comply with law enforcement requests, such as a court order or subpoena, bankruptcy proceedings, or similar legal process or when we believe in good faith that disclosure is necessary to protect our rights or the rights of others. Specifically, we may disclose your information to a complainant who alleges that your activities have violated their rights or policies (e.g. where your campaign or advertisement is the subject of an investigation). We may also disclose your information where you have alleged violation of your rights by another party.
 
-4.2 We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006. We may also release information relating to you if we are required to do so by legal process or in response to a subpoena, court order or other legitimate request by an authority.
+ **Merger, Sale or Other Asset Transfers.** If Teespring is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website, of any change in ownership, uses of your personal information, and choices you may have regarding your personal information.
 
-4.3 We may disclose your personal information to third parties:
+We may also disclose your personal information to any other third party with your prior consent.
 
-(a) in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
+If you would like to update or modify any Personal Information you have provided to us, you can do so in the account settings tab of your dashboard or by [contacting us](https://web.archive.org/email_us). For your protection, we will require some proof of your identity to obtain any Personal Information hosted on our site. Additionally, you may deactivate your account by [contacting us](https://web.archive.org/email_us). At your request, we will remove your Personal Information, provided we have no outstanding business or other obligation requiring such information. We will respond to your request within a reasonable timeframe.
 
-(b) if Fabrily Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets;
+We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age without parental consent, and no part of the Teespring Service is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, you may alert us at privacy@teespring.com.
 
-(c) in order to enforce or apply our [Terms and Conditions](https://web.archive.org/terms) of supply and other agreements; or to protect the rights, property, or safety of Fabrily Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction;
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-(d) to allow Campaign Creators to contact you about current, previous or future Campaigns.
+The security of your Personal Information is important to us and we take reasonable steps to ensure that it is treated accordingly. However, we cannot ensure the security of any information provided to us. We do not accept liability for unintentional disclosure.
 
-4.4 We may transfer or sell your personal information to a third party in the context of an acquisition of substantially the entire issued share capital of Fabrily or the sale of the business and assets of Fabrily. You irrevocably authorise us to transfer or sell your personal information in such circumstances and irrevocably consent to such a transfer or sale.
+You agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Teespring Service. If we learn of a security system breach, we may attempt to notify you electronically by posting a notice on the Teespring Service or by sending an email to you. You may have a legal right to receive this notice in writing. To receive free written notice of a security breach (ie, to withdraw your consent from receiving electronic notice), please notify us at privacy@teespring.com. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-4.5 Prior to transferring or selling your personal information, we would seek assurances hat the transferee complies with UK laws in respect of the handling and processing of your personal data or laws with equivalent protections to those in the UK.
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at privacy@teespring.com.
 
-4.6 We do not disclose the data you provided to us to any other third parties unless you have specifically consented to it or for the purposes of complying with a legal or regulatory requirement. We may use data or allow relevant third parties to market to you if you have agreed to this option.
+Teespring may periodically make changes to this Privacy Policy that will be posted on our website (teespring.com) or communicated to you through other reasonable means (e.g. email or mobile alerts). We encourage you to periodically review this page for the latest information on our privacy practices.
 
-4.7 We may in our sole and absolute discretion provide a person who has claimed that any Products infringe their intellectual property rights with some or all of the below information to assist them with evaluating their losses, damages and any claim they may have against a campaign creator. Please note that we are under no obligation to disclose this information and do so solely in our discretion in a manner and at a time that we believe is appropriate. We would not generally disclose financial information relating to any campaign without the campaign creator’s consent and/or when we consider it necessary for the dispute to be resolved:
+Teespring  
+460 Bryant St, Suite 200  
+San Francisco, CA 94107  
+Customer support: [contact here](https://web.archive.org/email_us)  
+Telephone: 1-855-TEESPRING (1-855-833-7774)
 
-(a) name and contact details of the campaign creator;
-
-(b) date of creation of the campaign;
-
-(c) number of orders made in relation to the campaign and/or number of Products sold; and
-
-(d) sums received by the campaign creator after deduction of our fees and charges.
-
-###  **5\. DATA SAFEKEEPING**
-
-5.1 Access to your personal data is only provided to our staff, business partners, suppliers and contractors. The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, development of functionality for the Website, the fulfillment of your order, the processing of your payment details and the provision of support services.
-
-5.2 By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
-
-5.3 The security of your data is a matter of great importance to us. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-5.4 Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Website, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
-
-5.5 We will be using a SSL connection on the Website when we collect your requests and billing information. But please remember, even if we use sophisticated encryption we cannot guarantee the security of the transmission of information over the internet. You should realise that such transmission is conducted at your own risk. However information will be kept on secure servers and key information encrypted if transmitted by us.
-
-5.6 You provide your credit card or debit card details to our payment services provider who collects, processes and stores such data in accordance with its privacy policy. Although we do not store your credit card or debit card details, any such details that you provide may be accessed by and given to third parties, some of whom may be located outside the European Economic Area, who act for us for the purposes set out in this policy and for other purposes approved by you. Such parties may process and store such information, process credit card payments and provide support services on our behalf in respect of any orders placed by you on the Website.
-
-###  **6\. OTHER WEBSITE LINKS**
-
-6.1 We may include links as well as banner advertisements by clicking on which you will be redirected to other websites which may have different Privacy Policy. We are not responsible for, and have no control over those websites or their content. By using the Website you agree that we do not take on any liability that may arise from the use of any links that appears on the Website.
-
-###  **7\. COOKIES**
-
-7.1 Cookies are text files stored, either on a temporary or persistent basis on the hard drive of your computer. Cookies are used for authenticating, session tracking and maintaining specific information about the use and users of the Platform.
-
-7.2 The data collected by cookies is anonymous. You can delete all cookies that are already on your computer's hard drive by searching for files with "cookie" in it and deleting them. In addition, if you want to stop cookies from being stored on your computer, you can edit your browser settings so that cookies are blocked. Unfortunately, if you block cookies you may not be able to use the full functionality of the Platform. For more information about cookies, please visit: www.allaboutcookies.org
-
-7.3 Web beacons consist of a small string of software code that represents a graphic image request on a page or email. There may or may not be a visible graphic image associated with the web beacon and often the image is designed to blend into the background of a page or email. Web beacons can be used for many purposes - including site traffic reporting, unique visitor counts, advertising auditing and reporting, and personalization. Web beacons used by the Website collect only anonymous data.
-
-7.4 The Website uses cookies to distinguish you from other users of the Website. This helps us to provide you with a good experience when you browse the Website and also allows us to improve the Website. By continuing to browse the Website, you are agreeing to our use of cookies for the following purposes:
-
-When you use the Website, we may set and access cookies on your browser
-
-(a) to remember your login or to keep session information;
-
-(b) to make the website work more effectively; and
-
-(c) anonymous cookies are used to analyse how many visitors come to the Website and to track how they use it.
-
-7.5 You may refuse to accept cookies by adjusting your browser setting which allows you to refuse the setting of cookies or by clearing your cookies. However, if you do that, your use of the Website may be adversely affected.
-
-7.6 On the Website, we are using information about your visit to serve you relevant advertisements on other websites, including Google, across the Internet. This is achieved by placing a cookie on your browser which is then called upon by a third-party website which then serves you our ad. Never in this process is personally identifiable information passed between us and the Website serving the ad.
-
-7.7 You can opt out of Google's use of cookies by visiting the Ads Preferences Manager. Website may include links as well as banner advertisements of/to third parties which use information about your visits to this and other websites. The Website does not control the dissemination of their cookies. You should check relevant third party website for more information about this.
-
-###  **8\. ACCESS AND UPDATE**
-
-8.1 Users of the Website have the right to:
-
-(a) Ask us for a copy of the information supplied by you that we hold by making request to [support@fabrily.com](mailto:support@fabrily.com). We are entitled to charge you a standard fee for this service but it would be unusual if we do so.
-
-(b) Ask us to stop using your personal data or contacting you in the future with special offers or news of new services
-
-8.2 The Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
-
-###  **9\. OPT-OUT**
-
-9.1 If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you. We will give you the option to opt out of our marketing communications or emails. If you would like to change these preferences then you should use the unsubscribe link at the bottom of our emails or contact us.
-
-9.2 Where we have disclosed your personal information to Campaign Creators pursuant to clause 4.3(d), such Campaign Creators are deemed to be authorized to send communications to you by electronic means and you hereby authorize them to do so. In the event that you do not wish to continue to receive emails from a Campaign Creator, you may opt out of their marketing communications and emails by clicking the unsubscribe link in any email from them.
-
-###  **10\. CHANGES TO THIS PRIVACY POLICY**
-
-10.1 We keep our Privacy Policy under regular review and reserve the right to revise it at any time. It is your obligation to check the Website regularly to review our current Privacy Policy. You will be subject to the Privacy Policy in force at the time that you use the Website service.
-
-###  **11\. DISCLOSURE OF INFORMATION TO CAMPAIGN CREATORS**
-
-11.1 In the event that we disclose personal information about any user of the Website to you as a Campaign Creator, you undertake and agree that you will only send that user relevant and targeted communications and emails and that you will not disclose such personal information to any other person without our prior written consent.
-
-11.2 You further undertake that you will include an unsubscribe link in any email to any user and will ensure that the email address of any user who unsubscribes from your promotional emails is immediately removed from your database and is not sent further emails.
-
-11.3 You undertake to comply in all material respects with the provisions of the Data Protection Act 1998.
-
-11.4 You hereby indemnify us against any claim, loss or expense suffered by us by reason of any breach of the above by you and/or any failure to fully comply with the provisions of the Data Protection Act 1998 as amended from time to time.
-
-###  **12\. COMPLAINTS OR QUERIES**
-
-12.1 We intend to meet the highest standards when collecting and using your personal information. In any case you suspect that our collection or use of information is unfair, misleading or inappropriate we encourage you to bring it to our attention. We are happy to provide any additional information or explanation needed. no guarantee of the continued existence or availability of any options presented on the Website. By using the Website, you assume the risk that the information on the Website may be incomplete, inaccurate, out of date or may not meet your requirements. Any interpretation of the Website’s content, claims or disputes shall be subject to the exclusive jurisdiction of the English Courts under English law.
-
-12.2 Please, email us if you have any issues, comments or questions about the above on [support@fabrily.com](mailto:support@fabrily.com)
+ _Updated on July 6, 2016_
