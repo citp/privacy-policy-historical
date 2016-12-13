@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxefinds.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517113235id_/http%3A//luxefinds.com/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxefinds.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213103503id_/http%3A//luxefinds.com/Privacy-Policy.php) for the most accurate reproduction.*
 
 # LuxeFinds Gift Concierge
 
