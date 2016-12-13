@@ -1,92 +1,222 @@
-> *The following text is extracted and transformed from the tastecooking.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218203645id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastecooking.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213195223id_/http%3A//www.penguinrandomhouse.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Network Solutions
+# Privacy Policy | Penguin Random House
 
-**PRIVACY POLICY**
+###### Effective Date of Privacy Policy: February 9, 2015
 
-This Privacy Policy applies to Web.com Group, Inc. (along with all subsidiaries, affiliates, successors and assigns thereof, referred to hereinafter collectively as “Web.com”, "we", "our" and/or "us"), our websites and services. Web.com knows that you care how information about you is used and shared, and we appreciate your expectation that we will do so carefully and sensibly. By visiting this or another Web.com website displaying this Privacy Policy or a link thereto (a "Website", or collectively the “Websites”), or by otherwise interacting with Web.com, you agree to accept the practices described in this Privacy Policy. This Privacy Policy is further subject to the Web.com Services Agreement related to the Web.com services you utilize and/or purchase. For questions on this Privacy Policy please contact our [customer support](https://web.archive.org/contact/index.jsp) via the contact information found on this Website ("Customer Support").
+Penguin Random House LLC (“PRH”, “we”, “us”, or “our”) respects your concerns about privacy and values the relationship we have with you. This Privacy Policy describes our privacy practices with respect to information collected through our websites, applications, and any other online service that links to this Privacy Policy, including any websites and online services we operate on behalf of our authors (collectively referred to as the “Sites”). By using our Sites, you are accepting the practices described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Sites. We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of our Sites following the posting of changes to these terms will mean you accept those changes.
 
-Web.com values your privacy and is dedicated to protecting your personal information and providing you with notice about what personally identifiable information we collect and how it is used, what choices you have regarding the collection, use and distribution of that information, the security procedures we implement to protect that information and what access you may have to correct any inaccuracies in the information we have collected from you.
+Please click on one of the links below to jump to the listed section:
 
-**What Information Is Collected**
-
-We receive and store any information you enter on our Websites or give us in any other way, such as via telephone, electronic mail, online or otherwise. For example, this information may be collected when you register a domain name or when you contact us for customer support. Here are the types of information we gather:
-
-  * _Contact Information_ : We collect and retain personal contact information that you submit to us voluntarily and this includes, but is not limited to, your name, mailing address, web address, telephone number, and e-mail address. For any domain name registrars owned and/or operated by Web.com, we are required by the Internet Corporation for Assigned Names and Numbers ("ICANN"), the organization which assumes responsibility for domain name allocation, to collect certain information about you during the domain name registration process and to maintain a copy of such information with a third party escrow service. This information may include your full name, mailing address, phone number, email address, and, where provided, your fax number. Such contact information may be used, for example, to communicate with you when necessary with respect to transactions. Additionally, we may collect contact information provided to us during any correspondence relating to customer support, as well as in connection with products and services offered on our Websites.
-  * _Financial Information_ : We collect and retain certain financial information from when you order our products and services. For example, when you apply to register a domain name or sign up for any other product or service through Web.com, we require you to provide a credit card number and billing address before we will process that application. We will not sell, share or rent any financial information collected from you except as disclosed in this Privacy Policy or as necessary to fulfill any order for our products or services.
-  * _Demographic Information_ : We may collect and store anonymous demographic information (such as your zip code, gender and age), and use this data to tailor your experience on our Websites, provide content that we think you might be interested in, perform general improvements to the Websites, and display the content according to your preferences. Such demographic information may be shared with partners, market researchers and other third parties on an aggregate, non-personally identifiable basis. No personally identifiable information will be linked to such aggregated demographic information that is shared with third parties.
-  * _Other Information_ : We collect and store certain types of information whenever you interact with us. For example, our servers track the type of web browser you are using and the page from which you link. Additionally, we log IP addresses (a unique number assigned to every computer on the Internet) in order to improve security, analyze trends and administer the Websites. We may track your movement within the Websites, the third-party website pages from which you were referred, access times and browser types. We use this information to gauge the effectiveness of our Websites, track information for statistical purposes and to improve the products and services we provide. We collect this information to better develop a sense of what services our customers need and identify areas of improvement to the Websites. We may use such information for marketing purposes, and to send information to you that we believe might be of interest. In addition, such information may be shared with partners, market researchers and other third parties on an aggregate, non-personally identifiable basis. No personally identifiable information will be linked to such aggregated information shared with third parties. 
-
-We may supplement the information you provide us by acquiring publicly or commercially available information as available in the public domain or from third parties, for instance, to verify your address or to update your information and to create a profile of your preferences. We tie your personally identifiable information to information in the profile, in order to improve the content of the Websites for you or to inform you about products or services that we think will be of interest to you. In addition, we may obtain non-sensitive contact information from third parties, including via bulk access licenses from other registrars. From time to time, we may also ask you to participate in surveys or other communications conducted by us or third parties designed to help us improve the Websites or the products or services we provide.
-
-  * _Cookies_ : The Websites may use "cookie" technology for such purposes as enhancing your online experience by making it easier for you to navigate through the Websites and making certain features work better. Cookies are text files which are commonly deposited by websites on a user's hard drive when the user visits a website. The file identifies a user's computer and can record the user's preferences and other data about the user's website visit. We do not extract information about individual users during this process. Your web browser may enable you to disable cookies, but please note that certain services may not function correctly without it and your experience on our Websites may be hindered.
-  * _Third Party Cookies_ : We may use third-party advertising companies to serve ads on our behalf across the Internet. These companies may collect and use information about your visits to this and other websites and your interaction with our products and services in order to provide advertisements about goods and services of interest to you. However, no personally identifiable information (such as your name, address, email address or telephone number) will be connected with such information. They may use information about your visits to this and other websites to target advertisements for goods and services and may be used to keep track of user response to each advertisement. These targeted advertisements may appear on our Websites or on other sites that you visit. The anonymous information is collected through the use of a pixel tag or cookies, which are industry standard technologies used by most major websites. If you do not want such companies to collect this information you may opt-out. 
-
-To learn more about the use of this information or choose not to have this information used by certain third-party advertising partners, please visit the Network Advertising Initiative at <http://www.networkadvertising.org/choices> or go to <http://www.adobe.com/privacy.html>. Please note that if you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice.
-
-  * _Web Beacons_ : The Websites may contain electronic images (called a "single-pixel GIF" or a "web beacon") that allow a website to track the effectiveness of marketing campaigns. No personally identifiable information will be transmitted via web beacons.
-  * _Telephone Recording and Monitoring: To ensure Web.com customers receive quality service, Web.com selects phone calls for recording and/or monitoring. These calls, between Web.com customers (or potential customers) and employees, are evaluated by supervisors and/or other Web.com representatives. This is to guarantee that prompt, consistent assistance and accurate information is delivered in a professional manner. In contacting Web.com, creating an account with Web.com, or by otherwise utilizing any Web.com products or services, you hereby consent to any such call recording and/or monitoring._
+  * What Information We Collect About You
+  * How We Use Your Information
+  * Who We Share Your Information With
+  * Social Media
+  * Children’s Privacy Policy
+  * Security of Your Personal Information
+  * Third Party Content and Links To Third Party Websites
+  * Public Areas, Forums, Reviews, and Community Areas
+  * Governing Law
+  * Assignment
+  * Notice to Non-US Users
+  * Changes to This Privacy Policy
+  * How To Opt-Out or Correct Your Information
+  * Your California Privacy Rights
+  * How To Contact Us
 
 
 
-**How Personal Information Is Used**
+#### What Information We Collect About You
 
-  * _Our Use_ : We receive and store any personal information you enter on our Websites or give to us voluntarily in any other way and may use it to contact you from time to time. By registering on a Website and providing your telephone number, you agree that this action constitutes a purchase, inquiry and/or application for purposes of telemarketing laws. Regardless of the fact that your telephone and/or cell number may be listed with the Federal Do-Not-Call Registry or your local State Do-Not-Call list, you are providing your express written consent to receive future information (including telemarketing) about products and services from us and/or our affiliates, and you hereby agree and consent to our contacting you using the information you have provided and will provide to us. This means we may contact you by e-mail, phone and/or cell number (including use of automated dialing equipment and/or pre-recorded calls), text (SMS) message, social networks or any other means of communication that your wireless or other telecommunications device may be capable of receiving (i.e. video, etc.). We may also send you information or offers from time to time to the postal address or email address we have on file (as further outlined in this Privacy Policy). If you provide your name for a promotional offer or to enter a sweepstakes or contest and you win a prize, we may post a winner's list online where your name and city may be listed and will file your name with state agencies if required by law. You further acknowledge that you are not required to agree directly or indirectly or enter into an agreement regarding our telemarketing efforts as a condition of purchasing any goods or services from us or our affiliates.
-  * _Electronic Mail_ : From time to time, Web.com may use your personal information to contact you by electronic mail concerning our services. These communications are often intended to inform you of important information regarding your account, or about general services provided by Web.com and/or its affiliates. If you do not want to receive email from us or our affiliates regarding new services, please click the "unsubscribe" link which is included at the bottom of any email you receive from us. However, in order to fulfill our service obligations to you, we will continue to send you emails regarding your account administration, as well as any necessary information, such as renewal notices and instructions. By providing us with your email address you consent to receiving communications from us electronically and all notices, disclosures and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.
-  * _WHOIS Information_ : For any domain name registrars owned and/or operated by Web.com, ICANN requires us to make certain information, collected in connection with the registration of a domain name, available to the public via an interactive web page and a "port 43" WHOIS service. This public information includes your full name, mailing address, phone number, email address, and, where provided, your fax number, as well as the creation and expiration dates of your domain name registration and the nameserver information associated with your domain name, but does not include demographic, financial or Internet usage information. For the purposes of this Privacy Policy we will refer to this information collectively as your "WHOIS Information." Please note that we do not control how members of the public may use the WHOIS Information.
-  * _Third Parties_ : From time to time we may share personally identifiable information with third parties in order to have them send you special offers and promotions or other information we think you might find of interest. We ourselves will also occasionally send you information on products, services, special deals, promotions, or information which we have found that may be of interest to our users and subscribers. If you do not want us to use the information you provide in order to inform you of products and services we think might interest you, or provide your information to third party companies, it is your obligation to please let us know by contacting [Customer Support](https://web.archive.org/contact/index.jsp).
-  * _Agents and Service Providers_ : We engage other companies, individuals, and affiliates of Web.com to perform certain functions and/or services to our customers. Examples may include processing credit card payments, providing marketing assistance and removing repetitive information from customer lists, as well as offering electronic mail services and making available digital certificates. Additionally, if you register a domain name through a registrar owned and/or operated by Web.com, we may forward certain information you provide to the appropriate registry handling the administration of your chosen domain name. Your contact and financial information may either be collected by or shared with such third parties as necessary, and in some cases, your information may be retained or used by such third parties. 
+We collect two basic types of information from you in conjunction with your use of the Sites: (1) personal information, which is any information that individually identifies you (e.g., your name, email address, telephone number, postal address, credit card information) and (2) non-personal information, which is information that does not personally identify you but may include information about your interests, demographics (e.g., age, gender, 5-digit zip code) and use of the Sites. We collect this information in the following ways:
 
-We contract with service providers to provide us with a data collection and reporting services. When you visit our Websites, those service providers may collect information on our behalf about you in order provide us with aggregated data about our customers to assist us in conducting our business and delivering the more relevant products and services to our customers. If you would like to opt-out of the gathering of such information, you can disable your cookies that assist in the gathering of that data, but please note that certain services and functions of our Websites may not function correctly without cookies.
+##### Information You Provide Directly To Us:
 
-  * _Service Related Uses_ : We may use your personal information to contact you about the goods or services you have purchased from us, or for other purposes in which you have expressed an interest, for example, if you have contacted customer service or made an inquiry. We will also provide you with service and account related announcements. For instance, if the delivery of a service or product is delayed we might send you an email, or other message, or if there is some service issue with something you might have ordered. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to cancel your services with us.
-  * _Partner Web Sites and Pages_ : Web.com sometimes enters into agreements in which we jointly develop or operate websites with third parties (each a "Partner Site"). Any information collected via a Partner Site may be jointly owned by Web.com and the applicable third party partner, or, alternatively, owned solely by us or the third party partner. It is your responsibility to check the privacy policy of such third parties before submitting any personal information to a Partner Site.
-  * _Business Transfers_ : As Web.com continues to develop its business, it might sell or transfer all or some of its business or assets, or create a separate business, and customer information generally would be transferred as one of the business assets of the company or be shared or transferred in the event of an insolvency, bankruptcy, receivership, or pledging of assets. Also, information about our users, including customer information, may also need to be disclosed in connection with a commercial transaction seeking financing, investment, support or funding.
-  * _Protection of Web.com and Others_ : We may release account and other personal information when we are required to do so by law, court order, subpoena or other government or law enforcement authority or regulatory agency, including ICANN, in order to enforce or apply our Services Agreement or other agreements, or when we believe in good faith that disclosing this information is necessary or advisable, including for example, to protect the rights, property, or safety of Web.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection, credit risk reduction or other similar purposes.
+We may ask you to provide your personal information, demographic information or information about your preferences or interests when you:
+
+  * Register for an account on the Sites
+  * Sign up to receive email newsletters from us
+  * Make a purchase on the Sites
+  * Enter a contest or sweepstakes
+  * Participate in surveys or special promotions
+  * Participate on social media accounts involving our authors, books or brands
+  * Participate in communities or forums on the Sites
+  * Submit user generated content on any part of the Sites that permit it
+  * Knowingly volunteer information on any other part of the Sites (e.g., request for customer service, submit a job application)
 
 
 
-**Sites Other Than Web.com**
+##### Information Collected Using Technology:
 
-Web.com has no control over and is not responsible for the privacy policies or information gathering practices of other websites, including those to which we may link and those which may link to us. We strongly recommend that you review the privacy policies of every online service you use before submitting any personal information and direct any concerns to the site administrator of that website.
+In addition to any information you provide directly to us, we and our third party service providers may use a variety of technologies that automatically collect certain non-personal information when you interact with the Sites or emails sent to you, including the following:
 
-**Limitation Of Liability**
+###### Device Information
 
-WEB.COM ASSUMES NO RESPONSIBILITY OR LIABILITY WITH REGARD TO ANY THEFT, LOSS, ALTERATION OR MISUSE OF PERSONAL OR OTHER INFORMATION LAWFULLY PROVIDED BY WEB.COM TO THIRD PARTIES, OR WITH REGARD TO THE FAILURE OF ANY THIRD PARTY TO ABIDE BY THIS PRIVACY POLICY OR SUCH THIRD PARTY'S PRIVACY POLICY OR ANY AGREEMENT BETWEEN THAT THIRD PARTY AND WEB.COM
+We may collect certain information about your computer or other device that you use to access the Sites, including IP address, geolocation information, unique device identifiers, browser type, browser language, and other transactional information.
 
-**Safe Harbor**
+###### Usage Information
 
-The Websites comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Web.com has certified that in conjunction with those Websites it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Web.com's certifications, please visit <http://www.export.gov/safeharbor>.
+We may log certain information about your use of the Sites (e.g., log files, clickstream data, a reading history of the pages you view, your search terms and search results) and additional “traffic data” (e.g., time of access, date of access, software crash reports, session identification number, access times, referring website addresses).
 
-We have further committed to participate in the dispute resolution procedures of the panel established by the EU data protection authorities (DPAs) to resolve disputes pursuant to the Safe Harbor Privacy Principles, as well as to cooperate and comply with the Federal Data Protection and Information Commissioner (FDPIC) of Switzerland. If your inquiry has not been satisfactorily addressed and you are located in the EU, you may contact the EU DPAs panel [ec-dppanel-secr@ec.europa.eu](mailto:ec-dppanel-secr@ec.europa.eu) or individual EU DPAs directly using the information provided at [ http://ec.europa.eu/justice/data-protection/bodies/authorities/eu/index_en.htm ](http://ec.europa.eu/justice/data-protection/bodies/authorities/eu/index_en.htm). If your inquiry has not been satisfactorily addressed and you are in Switzerland, you may contact the Swiss FDPIC using the information provided at [ http://www.edoeb.admin.ch/kontakt/index.html?lang=en ](http://www.edoeb.admin.ch/kontakt/index.html?lang=en).
+###### Location Information
 
-**Choice And Opt Out**
+Some of our applications may deliver content based on your current location if you choose to enable that feature of the app. If you enable the location-based feature, your current location will be stored locally on your device, which will then be used by the app. If you elect to have a location-based search saved to your history, we will store that information on our servers. If you do not enable the location-based service, or if an app does not have that feature, the app will not transmit to us, and we will not collect or store, location information.
 
-You may opt-out of marketing communications from us by contacting [Customer Support](https://web.archive.org/contact/index.jsp) or opting out from the opt-out link in any marketing email we send to you.
+###### Cookies, Flash Cookies and Web Beacons
 
-**Procedures Used To Protect Personal Information**
+Like many websites, we use cookies, flash cookies, web beacons or similar technologies. “Cookies” are small text files that are stored on your computer or other device when you visit certain online pages that record your preferences and actions. We use cookies for a variety of purposes, including remembering you and your preferences, tracking your use of our Sites, and facilitating your payment transactions. Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to decline cookies. However, please note that refusing a cookie may limit your access to the Sites.
 
-We work to protect the security of your financial information during transmission by using Secure Sockets Layer ("SSL") software, which encrypts the information you input on the Website. Keep in mind however, that no method of transmission over the Internet or method of electronic storage that is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information we cannot guarantee its absolute security. You can further help to ensure your security by taking a few simple precautions. For instance, it is important to protect against unauthorized access to your computer and to any Web.com username and password, and to be sure to sign off when you are finished using a shared computer.
+A “flash cookie” is a data file placed on your device via the Adobe Flash plug-in, which may be built-in or downloaded by you to your computer or other device. Flash cookies may be used for various purposes, such as enabling a Flash feature and remembering your preferences. If you choose to adjust your Flash privacy settings in your device, some features of the Sites may not function properly. For more information about the privacy choices Adobe offers, visit: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>.
 
-**Access To Personal Information**
+A “web beacon” (also known as an “action tag”, “tracer tag”, or “single-pixel GIF”) is an invisible graphic that is programmed only to collect non-personal information about your use of our Sites or emails sent to you. Web beacons may be used for a number of purposes, including counting visitors to the Sites, monitoring how users navigate the Sites, counting how many emails were opened or how many links were viewed, and providing you with content customized to your interests.
 
-Web.com gives you the ability to access the information you have provided for the limited purpose of viewing and, in certain cases, updating that information. To view or change this information, Web.com customers may contact [Customer Support](https://web.archive.org/contact/index.jsp) or log in to your online account manager, if applicable. We may retain your information in our files after you terminate all your services with us to resolve disputes, enforce our relevant Service Agreement, and to adhere to the technical and legal requirements and constraints related to the security, integrity and operation of the Websites. Past customers may request this information by emailing or calling [Customer Support](https://web.archive.org/contact/index.jsp). Please note, however, that no financial information will be provided over the phone, and in no event will such information be provided without verification.
+###### Targeted Advertising
 
-**Children**
+We may allow third parties to use cookies, web beacons and similar technologies to better understand your behavior and browsing activities, so that we can serve you targeted advertising while you are on our Sites and display our ads to you when you visit other third party sites. For example, we work with third party network advertisers who may set these technologies to better provide advertisements about goods and services that may be of interest to you. We do not control these third party technologies, and they are not subject to this Privacy Policy. We do not authorize these third party network advertisers to use this technology to collect personal information about you and they do not have access to your personal information from us. They may, however, track your Internet usage anonymously (that is, without being able to identify you personally) over time and across other websites in their networks beyond our Sites. To learn more about the use of this information or to opt out of having this information used by our third party network advertisers, please visit the Network Advertising Initiative by clicking <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-You must be at least eighteen (18) years old to register online or purchase our goods or services. Web.com does not knowingly collect information from children under the age of eighteen (18).
+##### California Do Not Track Notice
 
-**Disputes**
+Some browsers offer a “Do Not Track” feature that lets you tell websites that you do not want to have your online activities tracked. We do not respond to these “Do Not Track” signals. At this time, we do not track your personal information about your online activities over time and across third party websites. We also do not authorize third parties to collect any personal information from you on the Sites for these purposes.
 
-By choosing to visit the Websites and/or utilize any Web.com services, you agree that any dispute you may have regarding this Privacy Policy the use of your information by Web.com shall be governed by the laws of the United States of America and the State of Florida, without regard to conflict of laws principles, as if the Agreement was a contract wholly entered into and wholly performed within Duval County in the state of Florida. You further agree that any judicial proceeding relating to or arising out of this Privacy Policy or the use of your information by Web.com shall be instituted only in a federal or state court of competent jurisdiction in Duval County in the State of Florida. You consent to the personal jurisdiction of such court and waive the right to challenge the jurisdiction of such court on grounds of lack of personal jurisdiction or forum non conveniens, or to otherwise seek a change of venue. Please note that if you enter into other agreements with Web.com, such other agreements may supersede this Privacy Policy. If you have any concerns about your privacy at Web.com, please contact [customer support](https://web.archive.org/contact/index.jsp), and we will attempt to resolve it.
+##### Collection of Information From Other Third Party Sources
 
-**Effective Date**
+We may also collect personal and non-personal information about you from other sources to, among other things, enable us to supplement the information contained in our database and to better customize your experience with PRH.
 
-The Effective Date of this Privacy Policy is set forth below. Due to the constantly changing nature of our business, we reserve the right to change, update or modify this Privacy Policy at any time at our sole discretion, and will post any new Privacy Policy here. Any such change, update or modification will be effective immediately upon posting on our Website. You are responsible for checking our Websites frequently to keep apprised of recent changes. By going to our Websites or utilizing our services after the Effective Date you are deemed to have consented to our then-current Privacy Policy and will be bound by its terms.
+#### How We Use Your Information
 
-**How to Contact Us**
+We use the information we learn about you to help us personalize and continually improve your experience with PRH. We may use your personal and non-personal information in the following ways:
 
-For questions on the Privacy Policy please contact [customer support](https://web.archive.org/contact/index.jsp).
+##### General Uses
 
-© 2014, Web.com Group, Inc.  
-Effective Date: May 29, 2014
+  * Provide you with the products and services you request
+  * Post your user generated content to our Sites as you request
+  * Communicate with you about your account or transactions with us and send you information about features on our Sites
+  * Communicate with you about changes to our policies
+  * Send you newsletters, offers and promotions for our products and services, third party products and services, or special events by email or another medium
+  * Personalize content and experiences on our Sites and within emails sent to you, including providing you recommendations based on your preferences
+  * Serve you targeted advertising, both on our Sites and elsewhere online, based on information we previously collected from you, including your activity on the Sites or activity on third party sites and applications
+  * Administer our loyalty programs
+  * Administer contests, sweepstakes, promotions, and surveys
+  * Optimize or improve our products, services and operations
+  * Detect, investigate, and prevent activities that may violate our policies or be illegal
+  * Perform statistical, demographic, and marketing analyses of users of the Sites and recipients of our emails, including browsing and purchasing patterns
+
+
+
+##### Combination of Your Information
+
+When you use more than one of our Sites, we may match information collected from you through each of those Sites and combine that information into a single user record. We may also use and/or combine information we collect off-line or from third party sources to enhance and check the accuracy of your user records.
+
+#### Who We Share Your Information With
+
+##### Personal Information
+
+Except as disclosed in this Privacy Policy, we do not use or disclose your personal information to any companies not part of the PRH family of companies. Although, as disclosed below, we may provide your personal information to our business partners, in no event will we sell or rent your personal information as part of a customer list or similar transaction without your express permission.
+
+###### Third Party Service Providers
+
+We have third party service providers that perform functions on our behalf, such as hosting, billing, marketing, analytics, customer service, fraud protection, etc. These entities have access to your personal information only as needed to perform their functions and they are obligated to maintain the confidentiality and security of that personal information. They are obligated not to use, sell, distribute or alter this information in any way other than to provide the requested services to the Sites.
+
+###### Third Parties With Whom We Do Business
+
+We may share your personal information with certain third parties with whom we do business, such as our authors or promotional co-sponsors, so that they can provide you with special offers, promotional materials, and similar materials that may be of interest to you. Although our treatment of your personal information is governed by this Privacy Policy, the third party’s treatment of your personal information will be governed by its privacy policy. You may withdraw your consent to our sharing of your personal information with such third parties at any time by sending us an email at privacy@penguinrandomhouse.com.
+
+###### Authors Whose Websites We Manage
+
+We manage certain author Sites on behalf of our authors. In those cases, we may transfer personal information collected from the Sites to the authors if they take over management of the Sites (in which case, such sites are no longer controlled by us). Under such circumstances we will use reasonable efforts to direct the author to use personal information you have provided to us in a manner that is consistent with our Privacy Policy. Nevertheless, we cannot ensure that the author will have the same privacy practices as described in this Privacy Policy and such author site will not be subject to the terms of this Privacy Policy.
+
+###### Corporate Parents and Affiliates
+
+We may share your personal information with our corporate parents and other affiliated entities for a variety of purposes, including business, operational and marketing purposes.
+
+###### Other Third Parties When Required By Law or In Emergency Situations
+
+We may also use or disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or the Sites; (b) protect and defend our rights or property, the Sites or our users, and (c) act under emergency circumstances to protect the personal safety of us, our affiliates, agents, or the users of the Sites or the public.
+
+##### Non-Personal Information
+
+Nothing in this Privacy Policy is intended to restrict our use of your non-personal information, and we may disclose or share non-personal information in any manner that we deem appropriate or necessary.
+
+#### Social Media
+
+Our Sites may provide you with the ability to register, log into, “like” or otherwise interact with third party social media services, including, but not limited to, Facebook, Instagram, Twitter, Pinterest, YouTube, and other social media services. These features may enable integration and/or access to your social media accounts. We do not control these social media services or your profiles on these services, and we do not establish privacy settings or rules for how your personal information on these services will be used. If you choose to log on to or submit information through any of these social media services, your personal information will be subject to the applicable social media service’s terms and conditions and your current privacy settings on such social media service. By accessing any social media service, you will be assuming the risk that the personal information you provide on that service may be viewed and/or used by third parties for any purpose. You agree that we are not responsible for any acts or omissions by these social media service providers.
+
+In addition, by choosing to log in to our Sites using your credentials from a social media service, you are asking that service to send us certain information from your account with the service, and you authorize us to collect, store and use such information in accordance with this Privacy Policy.
+
+#### Children’s Privacy Policy
+
+PRH respects the privacy of children and we are committed to complying with the Children’s Online Privacy Protection Act (COPPA). This Children’s Privacy Policy describes our practices with respect to the collection of personal information from children under the age of 13. This Site does not knowingly collect, use, or disclose personal information from children under the age of 13 without prior parental consent, except as permitted by COPPA.
+
+##### What Information We Collect and How We Use It
+
+We do not require children to share any personal information in order to participate on this Site. On occasion, however, we may collect personal information, such as an email address from a child as part of an activity, in accordance with COPPA. For example:
+
+  * **Email address:** We may collect a child’s email address in order to respond to a one-time request from the child, such as if the child asks us or one of our authors a question. In such case, we promptly delete the child’s email address from our system once we have responded, and we do not use the child’s email address for any other purpose.
+  * **Send-a-friend:** In the case of send-a-friend email or card, we only collect a child’s first name and the friend’s email address to send the friend the email or card. We do not store the friend’s email address for any longer than reasonably necessary to send the email or card to the friend.
+  * **Email newsletters:** We may collect a child’s email address if the child wishes to sign up for our email newsletters. In such instance, the child will be asked to provide his or her email address and the email address of his or her parent/guardian. We will send the child’s parent/guardian a notification email informing them of the child’s request to receive the newsletter by email on an ongoing basis and give the parent/guardian the option to have his or her child’s information removed from our newsletter database. If the newsletter is declined, we will not send the newsletter and will delete any related personal information collected in the sign-up process from our files. If the newsletter is not declined, we will send the newsletter. All newsletters contain instructions so that the recipient may unsubscribe at any time.
+  * **Contests or Sweepstakes:** We may collect a child’s email address to enter the child in a sweepstakes or contest or to notify the child that he or she has won or lost a contest or sweepstakes or contest. We will not keep the child’s email address after the promotion or use the child’s email address for any other purpose other than for the promotion. For certain promotions, we may ask that a child give us his/her parent’s email address so we can obtain more personalized information for prize fulfillment purposes if the child wins the promotion or to notify the parent if we need more than the child’s email address to enter the child in the promotion. In the latter event, parents will be sent a notice along with instructions on how they may provide their consent for their child to participate in such promotion.
+
+
+
+We may also collect anonymous information automatically from your child’s computer or device, such as the frequency with which the child visits our Site and the pages visited, to support the internal operations of the Site. We collect this information so we can understand and monitor usage of the Site, customize content on the Site and improve the performance of the Site. This information is collected using technologies such as cookies, flash cookies, web beacons, and similar technologies. This information is not used to behaviorally target children and we do not permit behavioral targeting on any of our Sites that are directed to children.
+
+##### Special Circumstances for Information Sharing and Security
+
+We may share children’s personal information with “Third Party Service Providers” and “Other Third Parties When Required by Law” as disclosed above (see “Who We Share Your Information With“).
+
+##### Parent’s Rights
+
+Under COPPA, you have the right to review and have any of your child’s information deleted from our records. You also have the right to tell us to stop collecting or using your child’s personal information. If you have questions concerning our information practices with respect to children, or if you would like to review, have deleted, or stop the further collection of your child’s personal information in connection with the transaction for which it was originally collected, you may email us at [privacy@penguinrandomhouse.com](mailto:privacy@penguinrandomhouse.com). For tips on protecting your child’s privacy online, please see the U.S. Federal Trade Commission’s brochure on this topic: [www.onguardonline.gov](http://www.onguardonline.gov/).
+
+#### Security of Your Personal Information
+
+PRH takes reasonable steps to help protect and secure your personal information. However, please remember that no data storage or data transmission over the Internet, or by other means, can be guaranteed to be 100% secure. Thus, PRH cannot ensure or warrant the security of any information you transmit to us. Therefore, you understand, acknowledge and agree that you transmit your personal information to our Sites at your own risk.
+
+#### Third Party Content and Links to Third Party Websites
+
+Our Sites may contain content hosted or served by third parties or link to websites operated by affiliates of PRH or third parties. Please be advised that the practices described in this Privacy Policy for PRH do not apply to information gathered by these third parties. We are not responsible for the actions and privacy policies employed by any third party, and our hosting of third party content or linking to third party websites does not constitute an endorsement of the content or business practices of those third parties.
+
+#### Public Areas, Forums, Reviews, and Community Areas
+
+Please remember that any information you share in public areas, such as forums, message boards or feedback sections, becomes public and anyone may take and use that information. Please be careful about what you disclose and do not post any personal information that you expect to keep private. Please consult our [Terms of Use](https://web.archive.org/terms/) and the applicable guidelines, if any, for use of our forums and other community areas for more information.
+
+#### Governing Law
+
+These Sites are published in the United States. We attempt to protect the personal information of all users of our Sites and we attempt to comply with local data protection and consumer rights laws to the extent they may apply to PRH’s services, but our family of Sites are located and targeted to United States citizens and our policies are directed at compliance with those laws. If you are uncertain whether this Privacy Policy conflicts with the applicable local privacy laws where you are located, you should not submit your personal information to PRH.
+
+#### Assignment
+
+We may change our ownership or corporate organization while providing the Sites. We may also sell certain assets associated with the Sites. As a result, please be aware that in such event we may transfer some or all of your information to a company acquiring all or part of our assets or to another company with which we have merged. Under such circumstances we would, to the extent possible, require the acquiring party to follow the practices described in this Privacy Policy, as it may be amended from time to time. Nevertheless, we cannot ensure that an acquiring company or the merged company will have the same privacy practices or treat your information the same as described in this Privacy Policy.
+
+#### Notice to Non-US Users
+
+If you are located outside the United States of America, you should be aware that your personally identifiable information will be transferred to the United States of America, the laws of which may be deemed by the your country to have inadequate data protection. If you are located in a country outside the United States of America and voluntarily submit personally identifiable information to us on the Sites, you thereby consent to the general use of such information as provided in this Privacy Policy and to the transfer of that information to, and/or storage of that information in, the United States of America.
+
+#### Changes to This Privacy Policy
+
+As our Sites continue to develop, we may add new services and features to them. In the event that these additions affect our Privacy Policy, or if other changes in our privacy practices or applicable laws necessitate changes to the Privacy Policy, this document will be updated accordingly. If we make a material change in the way we use your personal information, we will provide prominent notice of the change on the Sites. We will not, however, materially change our policies and practices to make them less protective of personal information we have previously collected from you without your express consent.
+
+#### How To Opt-Out or Correct Your Information
+
+You may always opt-out of receiving future commercial emails and newsletters from PRH. We provide you with the opportunity to opt-out of receiving such communications from us by clicking on the “unsubscribe” link within the email you receive. You may also opt out of receiving further communications from us or correct your information by sending us a message at unsubscribe@penguinrandomhouse.com. Please note that your request not to receive unsolicited commercial emails from us will not apply to messages that you request or that are not commercial in nature. For example, we may contact you concerning any purchases you have made with us, even if you opt out of receiving unsolicited commercial messages.
+
+#### Your California Privacy Rights
+
+California Civil Code Section 1798.83 permits customers of PRH who are California residents to request certain information regarding its disclosure of their personal information to third parties for their direct marketing purposes. To make such a request, please send an email to privacy@penguinrandomhouse.com.
+
+#### How To Contact Us
+
+If you have any questions about this Privacy Policy, you may contact us as follows:
+
+**By mail:**  
+Online Privacy  
+Attn: Customer Service  
+Penguin Random House  
+1745 Broadway  
+New York, NY 10019
+
+**Phone:**  
+(800) 793-2665
+
+**Email:**  
+[privacy@penguinrandomhouse.com](mailto:privacy@penguinrandomhouse.com)
