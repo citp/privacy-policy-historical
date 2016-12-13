@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the download-free-games.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310192108id_/http%3A//www.download-free-games.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download-free-games.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213195231id_/http%3A//www.download-free-games.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy – Download Free Games – Download Free Games
 
