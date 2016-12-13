@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silkies.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618115647id_/http%3A//www.silkies.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silkies.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213075906id_/http%3A//www.silkies.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
