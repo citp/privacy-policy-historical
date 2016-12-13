@@ -1,127 +1,128 @@
-> *The following text is extracted and transformed from the mocavo.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314033240id_/https%3A//www.mocavo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mocavo.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213181246id_/http%3A//www.findmypast.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | findmypast.com
 
-Last Updated: July 10, 2013
+This Privacy Policy explains how we use information that you provide us with when you interact with our website and how we make sure it is stored and managed safely and legally.
 
-Mocavo, Inc. is committed to respecting the privacy and security of your personal information. The following U.S. online privacy policy ("Privacy Policy") describes the information we collect and how we use it. By using this website, you consent to our Privacy Policy.
+This Privacy Policy is part of the Terms & Conditions of using this website, so please read it carefully. We take your privacy extremely seriously, and commit to storing all your personal information securely.
 
-We may periodically update this Privacy Policy to reflect material changes in how we collect, use, share or store your personal information. We encourage you to refer to this Privacy Policy on an ongoing basis so that you understand our current Privacy Policy. You consent to any changes we make to this Privacy Policy if you continue to use the Mocavo, Inc. service after receiving a notice of the change or upon our posting of the new Privacy Policy on this website. 
+### Information we gather about you: 
 
-COLLECTING INFORMATION
+Whenever you visit the website, we gather information about what you do during your visit, including the searches that you perform and the records you view. We also gather some statistics about your computer, such as the browser you use and how big your screen is. We gather personal information (e.g. name, address, phone number, email address, postal address) about you when you register, pay for a service or get in contact with us, or sometimes if you reply to a survey. By using this website you agree to be bound to the terms of this Privacy Policy.
 
-Like many websites, we gather information about how visitors use our website. In general, you can visit many of our web pages without telling us who you are or revealing any personal information about yourself. We may track your visit for trends and statistics, but you will remain anonymous unless you tell us who you are. Once you choose to give us your personal information, you are not anonymous to us. For more information, see the "Navigation" section of this Privacy Policy below.
+If you create a family tree or create content on the website, we also manage that information, which may include personal information about you and other people (for example, names and birthdays of people in your family). We always aim to gather only the information that we need in order to provide the records and services which you have subscribed to and/or purchased PayAsYouGo credits for.
 
-We request information from you (which may include your name, address, telephone number, email address, age, gender and, when necessary, credit card information) when you:
+### What we use this information for: 
 
-  * Register or set up an account
-  * Purchase
-  * Request to receive communications
-  * Participate in a promotion or other website feature
-  * Participate in online discussions
-  * Modify your account or profile
+We won’t keep your personal information for longer than is necessary and will only use the personal information that we gather to:
 
-
-
-In order to better understand your preferences and better serve you, we may combine information you give us online with other information from Mocavo, Inc. sources, transactions and communications. This may include data from Mocavo, Inc. stores, direct mail, events, or online marketing. We may also combine that information with data that is publicly available and data that we receive from other reputable sources. This data may include postal address updates and demographic data. We collect information about gift recipients to fulfill the gift purchase, respond to customer service inquiries and for analysis purposes only. All data combined and stored with online data is protected by this Privacy Policy. 
-
-To provide you with certain social features, we may collect information about your contacts or friends from third party websites that provide access to this information, such as Facebook, LinkedIn, Twitter, or email services. We respect and follow the privacy policies of those third party services with regard to the data we collect from them.
-
-To comply with the Children's Online Privacy Protection Act, we will never knowingly or intentionally collect any personal information about children under the age of 13. If we obtain actual knowledge that we have collected personal information about a child under the age of 13, we will immediately delete that information. Because we do not knowingly or intentionally collect personal information about children under the age of 13, to the best of our knowledge and belief, we have no such information to use or to disclose to a third party.
-
-USING INFORMATION
-
-We may use the information we collect to:
-
-  * Customize and/or personalize your communications and shopping experience
-  * Better respond to your customer service inquiries
-  * Communicate with you about your purchase, account information, or customer service needs
-  * Communicate with you about our products and events, and for other promotional purposes
-  * Display targeted advertising, announcements, sponsorships or other messages
-  * Improve our business
-  * Administer competitions, contests, promotions, surveys or other website features
+  * manage the website (including your account);
+  * provide advanced website features to you and others;
+  * understand your needs to help us improve the website;
+  * improve search results;
+  * understand website usage to allow us to improve our marketing or the way we do business;
+  * send you emails (more details below)
 
 
 
-We will not use your personal information to advertise or communicate promotional offers, directly or indirectly, using direct mail marketing or telemarketing, unless you give us permission to do so.
+### We use decent security technology and processes: 
 
-We may extend any of our rights under this Privacy Policy to third parties performing services on our behalf.
+We keep your details safe when you sign in or pay by using encryption. We always use up-to-date technology security standards and make every effort to keep our systems as secure as they can reasonably be. Please be aware that although our systems are secure, your information might be intercepted on its way to us via the internet, although it is extremely uncommon for this to happen. Keep your sign in details private at all times, do not share them with anybody.
 
-SHARING INFORMATION
+### We don’t store your payment card information: 
 
-We may enable other users of our site to view or receive information from your profile. We may enable third parties to view or receive information from your profile, subject to your permission to share this information. These third-parties may include social networking providers such as Facebook, Linked-In, Twitter and MySpace, as well as individual subscribers to these third-party services. With your permission, we may publish or distribute selected information about you, such as your recommendations, interests and other data of possible interest to other users of our site and third parties.
+When we take a payment from you, we use a secure third party service to process the payment and do not keep a record of your credit or debit card details in our systems. This means that even if (in the very unlikely event) someone broke into our systems, your payment details would not be available for them to steal.
 
-For the purpose of operating our business, we may transfer information between Mocavo, Inc. and our preferred service providers who use that information only to conduct Mocavo, Inc. business. For example, they may handle our credit card processing, shipping, data management, email distribution, market research, information analysis, and promotions management. We provide our preferred service providers with the information they need to perform their services and work with them to respect and protect your information. 
+### We won’t sell your information to third parties: 
 
-From time to time we might establish a business relationship with carefully selected persons or companies whom we believe trustworthy. In such cases we might share and cross-reference information, including personally identifiable information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you. If you prefer that we do not share any information with these companies, please contact us at the address below.
+We won’t ever sell your information to third parties, full stop. If we run a promotion or competition where your information would be shared with a third party for marketing purposes, we will always ask your permission first.
 
-We may provide your information to our wholly-owned companies and affiliates, which may be outside the United States. We may also sell or transfer your personal information to third parties in connection with any merger, acquisition, reorganization, change in capital structure or sale of all or substantially all of the assets of Mocavo, Inc..
+### Who in our company sees your information: 
 
-We may provide information to other companies for purposes such as reporting and marketing. We may sell or transfer non-individualized information to third parties, including summary or aggregated anonymous information about all or sub-groups of users of our site. For example, we have implemented Google Analytics to help us manage our business. Among other features, we use Remarketing with Google Analytics to help us advertise online.
+Only specific people within our Group Companies (meaning Findmypast Limited), and any subsidiary and/or parent company of Findmypast Limited that might exist in the future have access to your information. We restrict this as much as we can. We aim to make sure that people only have as much access to your information as they need to carry out their job in providing you with services and records.
 
-On rare occasions, we may disclose specific information upon governmental request, in response to a court order, when required by law, to enforce our website policies, or to protect our or others' rights, property, or safety. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
+### Using third parties to process your information: 
 
-PROTECTING YOUR INFORMATION
+We occasionally use third party companies to manage information that you provide us with. When we do, we keep the amount of personal information they hold to an absolute minimum, have contracts in place to stop them using your information except on our behalf and obviously use reasonable efforts to make sure they are as careful with your information as we are.
 
-We use a variety of security measures, including sophisticated encryption and authentication tools to maintain the safety of your personal information. Your personal information is contained behind secure networks and is only accessible to a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All credit card information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be accessed only as stated above. We will use the information for purposes of processing and completing only those transactions you approve, and the information will be disclosed to third parties only as necessary to complete a specific transaction. Regardless of these efforts, no data transmission over the Internet can be guaranteed to be 100% secure.
+### Where your information is stored: 
 
-Our site may contain hypertext links to the websites of one or more third parties. We are not responsible for the privacy practices or the content of these other websites.
+The vast majority of your information is stored securely on our servers in Scotland. Some of our third party partners use servers in the United States. When we process data in the United States, we only use providers certified under the EU-approved Safe Harbor scheme and we abide by the “safe harbor” framework set forth by the US Department of Commerce.
 
-Advertising agencies, advertising networks, and other companies who may place advertisements on our site may use their own cookies, pixel tags, web beacons, web bugs and other technology to collect information about you. We do not control these companies' use of such technology and we have no responsibility for the use of such technology by these companies to gather information about you.
+### When we can delete your information: 
 
-NAVIGATION
+If your account is inactive for two or more years and you are not paying for a service, we reserve the right to delete your information (including information in your family tree), although we’ll try to contact you first. Of course, if you have an active subscription or PayAsYouGo credits, we won’t do this.
 
-Like other interactive websites, we collect information about your use of our site and our services using cookies, log files, and techniques used to track who is reading a web page or e-mail, when, and from what computer, such as web bugs, web beacons or pixel tags. 
+### Information stored in your family tree: 
 
-A cookie is a small removable data file that is stored by your web browser on your computer. Cookies allow you to place an order on our website and allow us to enhance and personalize your online browsing and shopping experience.
+Information stored in your family tree will, in almost all cases, include personal information about other people that are still alive. As with all information in your family tree, your information may be searchable by findmypast.com users (together with users of other websites) and may appear on internet searches, but all of the information will not be viewable unless you explicitly give them permission to view your tree.
 
-For example, we use cookies to:
+You should always seek permission from people who are living before you make their personal information available in your tree, or anywhere else online. We have provided you with privacy controls to manage your family tree and control who can see the information in it. You should familiarize yourself with how they work as you’re responsible for using them to protect the information you have provided. We reserve the right (at our own discretion) to remove any personal data which you have included in your family tree about people who are living if we are alerted to the fact that this personal data was used without that person’s permission. If you become aware that your personal information has been included in somebody else's tree without your permission or is being misused in any other way on the findmypast.com site, please send an email to our Customer Support team with details and we will investigate and, if necessary, remove this information.
 
-  * Remember the items in your Shopping Cart
-  * Recognize you when you return to our website
-  * Enable you to use Express Checkout
-  * Analyze visitor behavior
+### Record Matching
 
+Findmypast uses record matching technologies to suggest possible matches between historical records on Findmypast and associated partner trees.
 
+**What is Record Matching?**
 
-You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookie settings.
+Record matching on Findmypast automatically matches historical records for your family tree. These records are pulled from our vast database of over 8 billion records. Record matching will save you time with your research and allow you to make fascinating discoveries through birth, marriage and death documents and census records.
 
-We, along with third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone’s past visits to our website.
+**How does it work?**
 
-Pixel tags, also known as web beacons or web bugs, are tiny graphic images (referred to here as "GI") that are unobtrusively placed on a website or in an e-mail. When the HTML code for the GI points to a site to retrieve the image, it simultaneously passes information to the our servers, such as the IP address of the computer that retrieved the image, the time and duration the GI was viewed, the type of browser that retrieved the image, and previously set cookie values. 
+When record matching is enabled within the partner site, information from small parts of your family tree is passed between the sites without you having to do anything, to a matching service on the Findmypast website. This information includes basic information such as names, dates and places associated with individuals and their close relatives. Findmypast uses this data to find accurate matches for relevant individuals. Please note this information is not retained by Findmypast and is deleted automatically after matches are calculated and displayed to you. Only partner site users receive Findmypast hints, Findmypast users do not receive hints about trees on the partner site.
 
-We use GI to help us analyze your online behavior. We may use GI to collect information about your visit, including the pages you view, the links you click and other actions taken in connection with our sites and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring web site addresses. We also use GI to allow us to send you email in a format you can read and to let us know when you have opened an email message from us.
+The partner site will show matches in its search window where matches are found. To find out more about these matches, click on the links provided and review them; you will then have the ability to accept or reject matches. Please note that some of the matches can be viewed and confirmed for free, while others require a Findmypast data subscription. In order to review these matches you will need to subscribe to Findmypast and create an account.
 
-We also work with other companies who use tracking technologies to serve ads on our behalf across the Internet. These companies may collect non-personally identifiable information about your visits to our website and your interaction with our communications, including advertising. If you would like to opt-out of allowing third party companies to collect non-personally identifiable information about you during your visits to our site, please contact us at the address below.
+The information passed to Findmypast is never used for any other purpose and will never be displayed, sold, licensed or used in any manner whatsoever.
 
-HOW TO REVIEW, MODIFY OR DELETE YOUR INFORMATION
+If you have any question or concerns, you can email support@findmypast.com.
 
-We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us or would like to update or change your personal information or preferences, please contact us at the address below.
+### Emails we send you: 
 
-To modify the information you have provided during registration, please login and update your personal settings.
+We try only to send you emails which are relevant and help you with your family history or tell you important things about the website. There are some emails which we send you only if we have your permission (marketing emails) and you can notify us at any time if you no longer wish to receive these marketing emails (see below). There are some emails which we send you even if we don’t have your permission (service emails) - we send these to administer the service. Both types are explained below.
 
-To unsubscribe from an email, please follow the instructions in any email you receive. 
+### Marketing emails: 
 
-If you request your registration information be deleted or if you unsubscribe from communications, we may maintain information about sales transactions or service inquiries for future service and record keeping purposes.
+These emails include our regular newsletter, emails which help you with your family history, special offers and market research emails. They also include product updates: announcements of new features or historical records on the website. Very occasionally, we might tell you about a service offered by another company within our group, or even outside it, but this is rare.
 
-Visitors may opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using [Ads Settings](https://www.google.com/settings/ads) provided by Google.
+### Unsubscribing from marketing emails: 
 
-QUESTIONS AND FEEDBACK 
+There are several ways to do this and we aim to make it as easy as possible for you. The easiest way is to change the settings in the “my account” area of the website. There are also instructions on every email we send and you can usually unsubscribe directly from the email without visiting the website.
 
-We welcome your questions, comments, and concerns about privacy. Please contact us by mail or email at: 
+### Service emails: 
 
-Mocavo, Inc.  
-Attn: Privacy Policy  
-1630A 30th Street, Suite 304  
-Boulder, CO 80304  
-privacy@mocavo.com  
+We send these out to administer the service. Service emails include registration and payment confirmations, warnings that we are about to charge you or that your subscription or credits are about to expire, and welcome emails that provide useful information about how to use a service or feature when you sign up or start using it. Also, if we make a fundamental change to the website or our Terms & Conditions that we think we need to make you aware of (for legal or simply for courtesy reasons), we will send you a service email.
 
+### Unsubscribing from service emails: 
 
-If you have a data privacy complaint, please contact us by mail or email at:
+Because of the nature of these emails, we don’t allow you to unsubscribe, but we can switch off your account if you are no longer interested in using the website. Contact our Customer Support team to do this.
 
-Mocavo, Inc.  
-Attn: Privacy Policy  
-1630A 30th Street, Suite 304  
-Boulder, CO 80304  
-privacy@mocavo.com  
+### Our use of cookies:
 
+We use cookies (small information files that are stored on your computer) to help us provide many features on the website. You can choose not to accept cookies from us (by changing your browser’s security settings) but if you do, the website might not work as intended and some features may not work at all.
+
+### Seeing what information we hold on you: 
+
+If you want to know what personal information we hold on you, get in contact and we’ll be happy to supply you with it: there is a $6.35 administration charge to cover the cost of compiling this.
+
+### Updating your personal information:
+
+If the information we hold about you is no longer correct, please update your details in the “my account” area or alternatively, let us know and we will update our records.
+
+### When we might disclose your information:
+
+We will only disclose your information to somebody outside our group companies (or who is processing your information on our behalf under contract) if we are required to by law.
+
+### If we change hands:
+
+If the Findmypast business transfers to anyone else, you agree that we can pass your information to that person, so they can continue to provide you with the service.
+
+### Changes to this policy:
+
+Any changes to this policy must be in writing and posted under this Privacy Policy in order to have any effect.   
+
+#### Our Address: 
+
+Findmypast  
+245 First Street, Suite 1800  
+Cambridge, MA, 02142
