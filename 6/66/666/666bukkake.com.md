@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 666bukkake.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613170332id_/http%3A//docs.666bukkake.com/privacy.fiscal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 666bukkake.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213164135id_/http%3A//docs.666bukkake.com/privacy.fiscal.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
