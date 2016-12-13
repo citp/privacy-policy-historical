@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dit.ie privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629184209id_/http%3A//www.dit.ie/tools/disclaimer/cookiepolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dit.ie privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213120238id_/http%3A//dit.ie/tools/disclaimer/cookiepolicy) for the most accurate reproduction.*
 
-# DIT Dublin Institute of Technology - Cookie Policy
+# Cookie Policy - About
 
 _This statement relates to the main website of Dublin Institute of Technology (DIT),_[ _www.dit.ie_](http://www.dit.ie/) _.   Within the DIT domain you may find links to other websites for which the Institute does not have editorial responsibility or control, including the websites of student organisations and societies.  While DIT encourages compliance with this web privacy statement at such sites, we ask visitors to consult the privacy statement of individual sites or contact the persons responsible for those sites, in order to understand the policies and practices under which they operate._
 
@@ -219,5 +219,3 @@ Dublin 6
 
 E-mail: [foi@dit.ie](mailto:foi@dit.ie)   
 Tel: +353-1-402 7519
-
-Back to Top
