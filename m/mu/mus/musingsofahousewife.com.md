@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musingsofahousewife.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624181657id_/http%3A//www.jolynneshane.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musingsofahousewife.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213011506id_/http%3A//www.jolynneshane.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jo-Lynne Shane
 
@@ -50,7 +50,7 @@ By using the Site and providing JLS with data, you understand and agree that du
 
 JLS may direct you to third party websites.  Those websites are not affiliated with JLS and their privacy policies may differ from JLS’s privacy policy. JLS is in no way responsible for the privacy policies or treatment of information from third party websites and strongly encourages you to review the privacy policies of every website you visit to determine what information they collect and how such information is handled by that website.
 
-We may use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and <http://www.google.com/policies/privacy/ads/>.
+We may use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and http://www.google.com/policies/privacy/ads/.
 
 **Storage of Information** **:**
 
