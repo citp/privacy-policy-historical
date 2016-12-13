@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntu.ac.uk privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412075338id_/http%3A//www.ntu.ac.uk/about_ntu/policies/web_policies/privacy_statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntu.ac.uk privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213081900id_/http%3A//www.ntu.ac.uk/about_ntu/policies/web_policies/privacy_statement/index.html) for the most accurate reproduction.*
 
 # Privacy Statement - About NTU - Nottingham Trent University
 
@@ -6,7 +6,7 @@
 
 NTU is committed to protecting your privacy and developing technology that gives you a safe online experience. This Privacy Statement applies to the website and governs data collection and usage. By using the website, you consent to the data practices described in this statement.
 
-The website is operated by Nottingham Trent University Limited (called NTU in this agreement), who is situated at Burton Street, Nottingham NG1. NTU can be contacted by post to Burton Street, Nottingham NG1 4BU. We can be reached [via email](mailto:marketing@ntu.ac.uk) or you can reach us by telephone at +44 (0)115 941 8418.
+The website is operated by Nottingham Trent University Limited (called NTU in this agreement), who is situated at 50 Shakespeare Street, Nottingham, NG1 4FQ. NTU can be contacted by post to 50 Shakespeare Street, Nottingham, NG1 4FQ. We can be reached [via email](mailto:marketing@ntu.ac.uk) or you can reach us by telephone at +44 (0)115 941 8418.
 
 NTU encourages you to review the privacy statements of websites you choose to link to from this website so that you can understand how those websites collect, use and share your information as well. Any third party sites that you can access through the website are not covered by NTU's Privacy statement and we accept no responsibility or liability for these sites.
 
