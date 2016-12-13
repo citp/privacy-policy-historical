@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the glip.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613050921id_/http%3A//www.ringcentral.com/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glip.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213054935id_/http%3A//www.ringcentral.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # RingCentral Service Privacy Policy
 
 Updated January 21, 2016
 
-The previous privacy policy is available at: [http://www.ringcentral.com/legal/privacy-policy_11282013.html](https://web.archive.org/legal/privacy-policy_11282013.html)
+The previous privacy policy is available at: [www.ringcentral.com/legal/privacy-policy_11282013.html](https://web.archive.org/legal/privacy-policy_11282013.html)
 
 We at RingCentral, Inc. (“RingCentral”), are committed to protecting the privacy of customers and users of our RingCentral services, users of our website, [www.ringcentral.com](https://web.archive.org/), our services, and our mobile applications. We have therefore created this policy statement (the “Policy”) to explain our privacy practices and procedures, including:
 
@@ -34,7 +34,7 @@ By purchasing, subscribing to, or using RingCentral’s services or using RingCe
 
 RingCentral has been awarded TRUSTe's Privacy Seal signifying that TRUSTe has reviewed these privacy policy and practices for compliance with TRUSTe’s [Certification Requirements](https://www.truste.com/privacy-certification-standards/), including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us [here](mailto:legal@ringcentral.com). If you are not satisfied with our response you can contact TRUSTe [here](https://www.truste.com/consumer-resources/dispute-resolution/).
 
-The TRUSTe program covers the collection, use and disclosure of information we collect through the websites, [www.ringcentral.com](https://web.archive.org/), [www.ringcentral.ca](http://www.ringcentral.ca/) and [www.ringcentral.co.uk](http://www.ringcentral.co.uk/), the RingCentral services and the RingCentral mobile application. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged RingCentral.
+The TRUSTe program covers the collection, use and disclosure of information we collect through the websites, [www.ringcentral.com](https://web.archive.org/), [www.ringcentral.ca](https://www.ringcentral.ca/) and [www.ringcentral.co.uk](https://www.ringcentral.co.uk/), the RingCentral services and the RingCentral mobile application. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged RingCentral.
 
 ## 1\. INFORMATION WE COLLECT
 
@@ -128,7 +128,7 @@ RingCentral would like to share your CPNI within our company and with our affili
 
 Protecting your CPNI is important to us. In the United States, Federal law permits us to use this information to provide the telecommunications and interconnected VoIP services you purchase or subscribe to, and to bill and collect for those services. We may also use or disclose your CPNI for legal or regulatory reasons such as to respond to a court order, to investigate fraud, to protect our rights or property, to protect against the unlawful use of our services, or to protect other users. You have a right and we have a duty under federal law to protect the confidentiality of your CPNI.
 
-In order to opt-out and restrict access to your CPNI for our own marketing purposes, please [contact us](http://marketo.ringcentral.com/UnsubscribePage.html "contact us") within 30 days of this notice. Restricting our use of your CPNI will not affect our provision of any service or product to which you currently subscribe, nor will you necessarily eliminate all types of RingCentral marketing.
+In order to opt-out and restrict access to your CPNI for our own marketing purposes, please [contact us](https://go.ringcentral.com/UnsubscribePage.html "contact us") within 30 days of this notice. Restricting our use of your CPNI will not affect our provision of any service or product to which you currently subscribe, nor will you necessarily eliminate all types of RingCentral marketing.
 
 ## 5\. SECURITY AND DATA INTEGRITY
 
@@ -227,8 +227,8 @@ Attn: Legal Team
 
 Belmont, CA 94002 USA
 
-Privacy Policy for UK can be found at <http://www.ringcentral.co.uk/legal/privacy-policy.html>
+Privacy Policy for UK can be found at [www.ringcentral.co.uk/legal/privacy-policy.html](https://www.ringcentral.co.uk/legal/privacy-policy.html)
 
-Privacy Policy for Canada can be found at <http://www.ringcentral.ca/legal/privacy-policy.html>
+Privacy Policy for Canada can be found at [www.ringcentral.ca/legal/privacy-policy.html](https://www.ringcentral.ca/legal/privacy-policy.html)
 
 RingCentral is committed to the policies set forth in this Policy.
