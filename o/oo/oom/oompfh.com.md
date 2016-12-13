@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oompfh.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319061604id_/https%3A//oompfh.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oompfh.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213021234id_/http%3A//oompfh.com/privacy) for the most accurate reproduction.*
 
 # Create professional resumes online for free | Builder | CV creator | Maker | Recruitment | Support
 
