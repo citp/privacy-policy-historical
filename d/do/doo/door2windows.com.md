@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the door2windows.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625232150id_/http%3A//www.door2windows.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the door2windows.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213060242id_/http%3A//www.door2windows.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
