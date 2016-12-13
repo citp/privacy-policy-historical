@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the driverrestore.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305083651id_/http%3A//driverrestore.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverrestore.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213133744id_/http%3A//driverrestore.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « DriverRestore
+# Privacy Policy - DriverRestore
 
 383 Media Inc., the provider of this website (referred to as “us”,  
 “we”, and “our”), is committed to protecting user privacy (referred to  
@@ -176,7 +176,7 @@ agent will have access to your entire system.
 Such information and access may be used depending on the product and to  
 the extent permitted by law, including without limitation:
 
-  * \- to deliver the services and support, or carry out, the  
+  * – to deliver the services and support, or carry out, the  
 transactions you have requested;
   * -to send communications to you, such as product safety information,  
 your status (for example, order confirmation, registration status,  
@@ -381,15 +381,17 @@ abide and be bound by the modified Policy.
 ### 12\. Contact Us
 
 The preferred method for you to contact us is via our  
-[Contact Us](http://driverrestore.com/support/contact) form on our Site. In the  
+[Contact Us](https://web.archive.org/faqs/contact) form on our Site. In the  
 alternative, you may reach us at:
 
   * **BY EMAIL:** privacy@383media.com
   * **BY TELEPHONE:** 1 (925) 290-6191. (Business Hours: M-F  
 9am-5pm Pacific Standard Time) International: +1 (925) 290-6191  
 (check your local telephone company for estimated charges)
-  * **BY MAIL:** Attn. Privacy Officer 383 Media Inc. 4683 Chabot  
-Drive, Suite 350 Pleasanton, CA, 94588
+  * **BY MAIL:** Attn. Privacy Officer 383 Media Inc.  
+7600 Dublin Boulevard  
+Suite 210  
+Dublin, CA, 94568
 
 
 
