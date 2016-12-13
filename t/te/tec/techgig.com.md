@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techgig.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616061508id_/http%3A//www.techgig.com/user/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgig.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213022501id_/http%3A//www.techgig.com/user/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | TechGig.com
 
 Times Business Solutions (A Division of Times Internet Limited) is a wholly owned subsidiary of Bennett Coleman & Co. Limited and powers / manages the online properties- www.timesjobs.com, www.magicbricks.com, www.simplymarry.com, www.ads2book.com, www.peerpower.com and www.yolist.com. 
 
@@ -52,10 +52,9 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 **Grievance Redressal**
 
-Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to [grievance@timesjobs.com](mailto:grievance@timesjobs.com) or Mr. Amitabh Mukherjee (“Grievance Officer”) 
+Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to [grievance@timesjobs.com](mailto:grievance@timesjobs.com)
 
-**Mr. Amitabh Mukherjee  
-Grievance Officer  
+**Grievance Officer  
 Techgig.com **  
 Times Business Solutions(A Division of Times Internet Limited)   
 (A Times Group Company)  
