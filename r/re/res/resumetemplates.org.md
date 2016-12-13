@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resumetemplates.org privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630053424id_/http%3A//www.resumetemplates.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resumetemplates.org privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213171500id_/http%3A//www.resumetemplates.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
