@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vagex.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602003148id_/http%3A//vagex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vagex.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213074717id_/http%3A//vagex.com/privacy.php) for the most accurate reproduction.*
 
 # Vagex
 
@@ -27,7 +27,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 **Do we use cookies?**
 
-We do not use cookies.
+We use cookies only to save your login information.
 
 **Do we disclose any information to outside parties?**
 
@@ -61,7 +61,7 @@ By using our site, you consent to our web site privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 4/3/2011
+This policy was last modified on 10/7/2016
 
 **Contacting Us**
 
