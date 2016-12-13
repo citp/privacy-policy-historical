@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the questargas.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417091651id_/https%3A//www.questargas.com/brochures/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questargas.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213224755id_/https%3A//www.questargas.com/brochures/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Questar Gas - Privacy Policy
 
