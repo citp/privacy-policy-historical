@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wowpopular.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623072059id_/http%3A//wowpopular.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowpopular.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213123034id_/http%3A//wowpopular.com/about/privacy) for the most accurate reproduction.*
 
-# WoW Popular » Privacy Policy
+# Popular Gear, Talents, Enchants and Gems for World of Warcraft :: WowPopular :: Data for Warcraft Legion 7.1.0
 
 ## Privacy Policy
 
-WoWPopular Email Privacy Policy
+### WoWPopular Email Privacy Policy
 
 We have created this email privacy policy to demonstrate our firm commitment to your privacy and the protection of your information.
 
@@ -24,4 +24,4 @@ We will never share, sell, or rent individual personal information with anyone w
 
 Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email.
 
-If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to us through our [feedback page](https://web.archive.org/feedback.pl) for review.
+If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to us through our [feedback page](https://web.archive.org/about/contact) review.
