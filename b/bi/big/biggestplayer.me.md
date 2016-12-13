@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggestplayer.me privacy policy that was archived on 2016-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160127180503id_/http%3A//biggestplayer.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggestplayer.me privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213122537id_/http%3A//biggestplayer.me/privacy.php) for the most accurate reproduction.*
 
 # Biggest Player - Biggest player in the web
 
