@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigsale.com.my privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625100020id_/http%3A//www.bigsale.com.my/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigsale.com.my privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213154505id_/http%3A//www.bigsale.com.my/Privacy.aspx) for the most accurate reproduction.*
 
 # Shopping Promotions, Warehouse Sales & Coupons in Malaysia | BigSale
 
