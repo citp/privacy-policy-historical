@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campaignlive.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622152446id_/http%3A//www.campaignlive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campaignlive.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213213907id_/http%3A//www.campaignlive.com/privacy) for the most accurate reproduction.*
 
 # Global privacy policy
 
@@ -138,6 +138,6 @@ By using our Digital Offering, products or services, you signify your acceptance
 If you have any questions on our Privacy Policy, or questions about our handling of your Personal and/or Financial Information, you can contact us at  [ web@haymarketmedia.com ](http://www.dmnews.com/privacypolicy/web@haymarketmedia.com)  or write to us:
 
 **Haymarket Media, Inc  
-114 W 26th Street   
-4th Floor   
-New York, NY 10001. **
+275 7th Avenue, New York, NY 10011  
+10th Floor  
+** **New York, NY 10011**
