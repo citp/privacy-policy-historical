@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ausomlifestyle.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614202829id_/http%3A//ausomlifestyle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausomlifestyle.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213025945id_/http%3A//ausomlifestyle.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Ausom Lifestyle
 
