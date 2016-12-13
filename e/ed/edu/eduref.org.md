@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduref.org privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406103754id_/http%3A//eduref.org/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduref.org privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214005820id_/http%3A//www.eduref.org/privacy.shtml) for the most accurate reproduction.*
 
 # The Educator's Reference Desk: Privacy Policy
 
@@ -34,7 +34,7 @@ Except for authorized law enforcement investigations, we make no other attempts 
 
 ###  Links to Other Sites
 
-Our policy discloses the privacy practices for the Educator's Reference Desk web site, but we do provide links to other web sites. When you leave the Educator's Reference Desk web site ([http://www.eduref.org](http://www.eduref.org/)), you will be going to sites that are beyond our control. These other sites may send their own cookies to users, collect data, or solicit personal information. The privacy policies and procedures described here for the Educator's Reference Desk do not apply to any external links. We encourage you to read the privacy policies of any site you link to from ours, especially if you share any personal information. 
+Our policy discloses the privacy practices for the Educator's Reference Desk web site, but we do provide links to other web sites. When you leave the Educator's Reference Desk web site ([http://www.eduref.org](https://web.archive.org/index.html)), you will be going to sites that are beyond our control. These other sites may send their own cookies to users, collect data, or solicit personal information. The privacy policies and procedures described here for the Educator's Reference Desk do not apply to any external links. We encourage you to read the privacy policies of any site you link to from ours, especially if you share any personal information. 
 
 **For more information** on privacy on the Internet and in the electronic age, see: 
 
