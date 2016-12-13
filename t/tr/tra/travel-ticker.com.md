@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travel-ticker.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625052247id_/http%3A//www.travel-ticker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travel-ticker.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213154312id_/http%3A//www.travel-ticker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Travel Ticker
 
