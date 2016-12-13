@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the luxefinds.com privacy policy that was archived on 2016-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160517113235id_/http%3A//luxefinds.com/Privacy-Policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the luxefinds.com privacy policy that was archived on 2016-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161213103503id_/http%3A//luxefinds.com/Privacy-Policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -14,10 +14,13 @@
 		@import "css/selects.css";
 	</style>
 
+
+
 <title>LuxeFinds Gift Concierge</title>
 <meta name="google-site-verification" content="GCJySD9YVR-mGgz-CAN73oxyXHXPxrM0rVUFAR-H3do">
 
     
+            
 <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -38,8 +41,22 @@
 
 <body>
 
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script>
 
+    $( document ).ready(function() {
+        $('#js__luxefindQuickSearchInput').focus(function()
+        {
+            $(this).animate({ width: '+=150' }, 'slow');
+            $(this).attr("placeholder","");
+        }).blur(function()
+        {
+            $(this).animate({ width: '-=150' }, 'slow');
+            $(this).attr("placeholder","Search LuxeFinds.com");
+        });
+    });
 
+</script>
 
 
 <style>
@@ -53,7 +70,7 @@
 	text-align: center;
 
 	border:0px solid red;
-	width:1100px;
+	width:1240px;
 }
 
 
@@ -89,7 +106,18 @@
 
 }
 
+.postLoginMenu {
+    font-size:22px;
+    width:900px;
+    text-align:right;
+    float:right;
+    margin-right:100px;
+    margin-top:-10px;
+}
 
+.clear {
+    clear:both;
+}
 
 -->
 
@@ -101,8 +129,23 @@
 
 
 <div id="top">
+    <div class="clear"></div>
 
-	<div class="headerMenu">
+    <div class="headerMenu" style="margin-bottom:35px;margin-top:-20px;border:0px solid red;width:400px;">
+        <a href="/index.php"><img src="/images/2015/HeaderLogoButton.png"></a>
+    </div>
+
+    <div class="postLoginMenu" style="margin-top:-95px;font-size:14px;">
+        <form action="/Shopping.php">
+             <input id="js__luxefindQuickSearchInput" name="searchString" type="text" style="width:135px;font-size:12px;" placeholder="Search LuxeFinds.com"> <button style="font-size:12px;line-height:2px;">Go</button>
+        </form>
+    </div>
+    <div style="clear:both;"></div>
+
+                <!--            <a href="/Login.php">Login</a>-->
+        
+
+    <div class="headerMenu">
 
 		<a class="menuItem" href="/index.php" style="margin-left:0px;">Home</a>
 
@@ -110,13 +153,21 @@
 
 		<a class="menuItem" href="/About-Us.php">About &nbsp; Us</a>
 
-		<a class="middot">·</a>
+        <a class="middot">·</a>
 
-		<a class="menuItem" href="/Shopping.php">Shopping</a>
+        <a class="menuItem" href="/Shopping.php">Shopping</a>
+        <a class="middot">·</a>
 
-		<a href="/index.php"><img src="/images/2015/HeaderLogoButton.png"></a>
+        <a class="menuItem" href="/Shopping-Decor.php">Decor</a>
 
-		<a class="menuItem" href="http://www.myluxefinds.com" target="_blank">Blog</a>
+
+        <a class="middot">·</a>
+
+        <a class="menuItem" href="/GiftGuides.php"> Gift Guides</a>
+
+        <a class="middot">·</a>
+
+        <a class="menuItem" href="http://www.myluxefinds.com" target="_blank">Blog</a>
 
 		<a class="middot">·</a>
 
@@ -125,6 +176,21 @@
         <a class="middot">·</a>
 
         <a class="menuItem" href="/Lookbook.php">Lookbook</a>
+
+        <a class="middot">·</a>
+
+        <a class="menuItem" href="/TrendingProducts.php">Trends</a>
+        <a class="middot">·</a>
+
+        <a class="menuItem" href="/LuxeFindsOfTheDay.php">Daily Find</a>
+
+            <a class="middot">·</a>
+
+            <a class="menuItem" href="/Profile.php">My LuxeFinds</a>
+
+
+
+
 	</div>
 
 </div>
@@ -341,7 +407,7 @@ To review material modifications and their effective dates scroll to the bottom 
 		<ul style="text-align: center; margin: 0px auto;">
 			<li class="firstFooterMenuItem"><a href="/index.php" title="LuxeFinds Home"> HOME </a></li>
 							<li class="footerMenuItem"><a href="/Shopping.php" title="Luxury Blog for Women">SHOPPING</a></li>
-			<li class="footerMenuItem"><a href="/Gift-Concierge.php" title="Luxury Lifestyle Blog Posts ">GIFT CONCIERGE</a></li>
+			<li class="footerMenuItem"><a href="/Contact-Us.php" title="Luxury Lifestyle Blog Posts ">CONTACT US</a></li>
 			<li class="footerMenuItem"><a href="http://www.myluxefinds.com/" title="The LuxeFinds Blog" target="_blank"> BLOG </a></li>
 			<li class="footerMenuItem"><a href="/About-Us.php" title="More about LuxeFinds"> ABOUT </a></li>
 			<li class="footerMenuItem"><a href="/LuxeLiving/advertising/" title="FAQ"> FAQ </a></li>
@@ -353,9 +419,9 @@ To review material modifications and their effective dates scroll to the bottom 
 		<div style="clear: both"></div>
 		<ul style="">
 			<li class="footerMenuItem"><a href="http://www.luxefinds.com/About-Us.php" target="_blank">(C)
-					COPYRIGHT 2014 LUXEFINDS.COM</a></li>
+					COPYRIGHT 2016 LUXEFINDS.COM</a></li>
 			<li class="footerMenuItem"><a href="http://www.luxefinds.com/About-Us.php" target="_blank">ALL RIGHTS RESERVED</a></li>					
-			<li class="footerMenuItem"><a href="http://love-inspired.com/" target="_blank">SITE DESIGN BY DOOGLE DOG CREATIVE</a></li>
+			<li class="footerMenuItem"><a href="http://www.doodledog.com/" target="_blank">SITE DESIGN BY DOOGLE DOG CREATIVE</a></li>
 		</ul>
 		<div style="clear: both"></div>
 
