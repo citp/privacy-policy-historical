@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thebleacherseats.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410112703id_/http%3A//www.thebleacherseats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebleacherseats.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213173339id_/http%3A//www.thebleacherseats.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TheBleacherSeats
+# Privacy Policy - TheBleacherSeats
+
+## Privacy Policy
 
 This privacy policy sets out how TheBleacherSeats uses and protects any information that you give us when you use this website.  
 TheBleacherSeats  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
@@ -31,7 +33,7 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 **Third Party Vendors**
 
   * Third party vendors, including Google, use cookies to serve ads based on a your prior web site visits.
-  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to AllThingsCeleb and/or other sites on the Internet.
+  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to TheBleacherSeats and/or other sites on the Internet.
   * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (or by visiting [aboutads.info](http://www.aboutads.info/).)
 
 
