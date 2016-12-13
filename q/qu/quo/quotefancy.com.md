@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotefancy.com privacy policy that was archived on 2015-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150826180158id_/http%3A//quotefancy.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotefancy.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213144155id_/https%3A//quotefancy.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Quotefancy.com
 
@@ -16,7 +16,7 @@ We collect email addresses from our subscribers. The email addresses will be use
 
 ## Cookies and Web Beacons
 
-We may use cookies to store information, such as your personal preferences when you visit our site. This could information on your votes and downloads.
+We may use cookies to store information, such as your personal preferences when you visit our site, your votes and downloads.
 
 We may also use third party advertisements on Quotefancy.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
