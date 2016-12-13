@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepcrawl.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603044031id_/https%3A//www.deepcrawl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepcrawl.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213172909id_/https%3A//www.deepcrawl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DeepCrawl
 
@@ -9,8 +9,6 @@ It provides you with details about the personal information we collect from you,
 Please read this privacy policy carefully – by accessing or browsing this website, you confirm that you have read, understood and agree to this privacy policy in its entirety. If you do not agree to this privacy policy in its entirety, you must not use this website.
 
 This privacy policy was last updated on 15 May 2015. Please check back regularly to keep informed of updates to this privacy policy.
-
-### Who we are
 
 Written Byte Ltd (trading as DeepCrawl) is a company registered in England and Wales (registration number 05936299), whose registered office is at Fleet House, 6th Floor, 8-12 New Bridge Street, London EC4V 6AL.
 
@@ -54,23 +52,15 @@ However, if a third party acquires all (or substantially all) of our business an
 
 Finally, we may also collect anonymised details about visitors to our website for the purposes of aggregate statistics or reporting purposes. However, no single individual will be identifiable from the anonymised details we collect for these purposes.
 
-### International transfers
-
 We may transfer personal information that we collect from you to third party data processors located in countries that are outside of the European Economic Area in connection with the above purposes. 
 
 Please be aware that countries which are outside the European Economic Area may not offer the same level of data protection as the United Kingdom, although our collection, storage and use of your personal data will continue to be governed by this privacy policy.
 
-### Cookies
-
 We use cookies on our website in accordance with our [Cookie Policy](https://www.deepcrawl.com/cookie-policy/).
-
-### Security
 
 Whilst we take appropriate technical and organisational measures to safeguard the personal information that you provide to us, no transmission over the Internet can ever be guaranteed secure. 
 
 Consequently, please note that we cannot guarantee the security of any personal information that you transfer over the Internet to us.
-
-### Your rights
 
 You have the following rights:
 
@@ -79,8 +69,6 @@ You have the following rights:
 ● the right to opt out of any marketing communications that we (or any third party to whom we have disclosed your personal information with your consent) may send you.
 
 If you wish to exercise any of the above rights, please write to us (either by post or by e-mail) at the address specified above.
-
-### Third party sites
 
 This website contains links to other websites operated by third parties. 
 
