@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mightytravels.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518075928id_/http%3A//www.mightytravels.com/2013/03/mightytravels-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightytravels.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213191410id_/http%3A//www.mightytravels.com/2013/03/mightytravels-privacy-policy) for the most accurate reproduction.*
 
 # MightyTravels Privacy Policy | MightyTravels
+
+Ad
 
 mightytravels.com is committed to protecting your privacy when you visit our Web site. You can access mightytravels.com and browse our site without disclosing any of your personal data. mightytravels.com does not collect personal information about individuals, such as names and mailing or e-mail addresses, unless it is knowingly provided by the individual and he or she has agreed to the terms under which mightytravels.com will use it.
 
@@ -20,4 +22,5 @@ Please note that mightytravels.com contains links to other web sites. Please be 
 
 This privacy statement applies solely to information collected by mightytravels.com. If you have any questions or concerns about our privacy policy, please contact: privacy@mightytravels.com
 
-Share this with your friends on [Twitter](https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.mightytravels.com%2F2013%2F03%2Fmightytravels-privacy-policy%2F&via=mightytravels) | [Facebook](http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.mightytravels.com%2F2013%2F03%2Fmightytravels-privacy-policy%2F) | [Google+](https://plus.google.com/share?url=http%3A%2F%2Fwww.mightytravels.com%2F2013%2F03%2Fmightytravels-privacy-policy%2F) | [Reddit](http://www.reddit.com/submit?url=http%3A%2F%2Fwww.mightytravels.com%2F2013%2F03%2Fmightytravels-privacy-policy%2F).
+Advertisements  
+
