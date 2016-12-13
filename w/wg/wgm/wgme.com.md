@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wgme.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620083418id_/http%3A//wgme.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgme.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213045518id_/http%3A//wgme.com/station/privacy) for the most accurate reproduction.*
 
 # Portland Privacy | News, Weather, Sports, Breaking News | WGME
 
