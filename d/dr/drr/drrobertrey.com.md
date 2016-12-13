@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drrobertrey.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526084050id_/http%3A//www.drrobertrey.com/notice-of-privacy-practices-for-protected-health-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drrobertrey.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213082946id_/http%3A//www.drrobertrey.com/notice-of-privacy-practices-for-protected-health-information) for the most accurate reproduction.*
 
 # Notice of Privacy Practices for Protected Health Information - Beverly Hills, CA | Robert M. Rey, M.D.
 
