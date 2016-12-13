@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convertstring.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630004319id_/http%3A//www.convertstring.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convertstring.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213041923id_/http%3A//www.convertstring.com/Privacy) for the most accurate reproduction.*
 
 # Convert String - Privacy Policy
 
