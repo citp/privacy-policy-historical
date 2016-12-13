@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poptower.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616025953id_/http%3A//www.poptower.com/bottom/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poptower.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213031601id_/http%3A//www.poptower.com/bottom/privacy-policy.php) for the most accurate reproduction.*
 
 # Pop Tower | Privacy Policy
 
