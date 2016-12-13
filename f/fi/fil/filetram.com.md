@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filetram.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601143115id_/http%3A//filetram.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filetram.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213082024id_/http%3A//www.filetram.com/privacy) for the most accurate reproduction.*
 
 # Filetram
 
