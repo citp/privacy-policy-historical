@@ -1,623 +1,248 @@
-<!--The following is the downloaded HTML source of the wvxu.org privacy policy that was archived on 2016-03-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160324173521id_/http%3A//wvxu.org/privacy-policy-and-terms-use) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wvxu.org privacy policy that was archived on 2016-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161213041308id_/http%3A//www.cinradio.org/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="no-js"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-885.min.js"></script><script type="text/javascript" async="" src="//stream.publicbroadcasting.net/analytics/aac2.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYHV1dVGwIBVFlVBQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function u(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,f=0;s>f;f++)a[f].apply(i,r);var u=c[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return f[t]=f[t]||r(u)}function h(t,e){s(t,function(t,n){e=e||"feature",v[n]=e,e in c||(c[e]=[])})}var m={},v={},y={on:d,emit:u,get:p,listeners:l,context:e,buffer:h};return y}function o(){return new n}var i="nr@context",a=t("gos"),s=t(1),c={},f={},u=e.exports=r();u.backlog=c},{1:21,gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:21,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),a.xhrWrappable&&t(2),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:22,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").get("events"),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:23,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").get("raf"),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:23,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").get("timer"),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:23,ee:"QJf3ax"}],8:[function(t,e){function n(t,e){e=e||this;var n=i.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,i.emit("xhr-resolved",[],e));try{c.inPlace(e,l,"fn-",r)}catch(o){}}function r(t,e){return e}function o(t,e){for(var n in t)e[n]=t[n];return e}var i=t("ee").get("xhr"),a=t(1),s=t(2),c=s(i),f=s(a),u=NREUM.o,d=u.XHR,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=i,window.XMLHttpRequest=function(t){var e=new d(t);try{i.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&f.inPlace(e,["addEventListener","removeEventListener"],"-",r),e.addEventListener("readystatechange",n,!1)}catch(o){try{i.emit("internal-error",[o])}catch(a){}}return e},o(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:5,2:23,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=n(t,this.lastSize);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var o="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return r(o)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=null,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:12,4:8,5:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],11:[function(t,e){function n(t,e){return function(){r(t,[(new Date).getTime()].concat(i(arguments)),null,e)}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],s=["addPageAction"],c="api-";o(a,function(t,e){newrelic[e]=n(c+e,"api")}),o(s,function(t,e){newrelic[e]=n(c+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),r("err",[t,(new Date).getTime()])}},{1:21,2:22,handle:"D5DuLP"}],12:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n,o){r.buffer([t],o),r.emit(t,e,n)}var r=t("ee").get("handle");e.exports=n,n.ee=r},{ee:"QJf3ax"}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()],null,"api");var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()],null,"api")}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;NREUM.o={ST:setTimeout,XHR:c.XMLHttpRequest,REQ:c.Request,EV:c.Event,PR:c.Promise,MO:c.MutationObserver},t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-885.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()],null,"api");var h=0},{1:21,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],21:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],22:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],23:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:22,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
-<meta property="og:url" content="http://wvxu.org/privacy-policy-and-terms-use">
-<meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy and Terms of Use">
-<meta property="og:description" content="You have come to this page from a website or digital service produced by Cincinnati Public Radio (CPR). We recognize the importance of privacy to visitors">
-<meta property="og:image" content="http://mediad.publicbroadcasting.net/spacer.gif">
-<meta content="Privacy Policy and Terms of Use" about="/privacy-policy-and-terms-use" property="dc:title">
-<meta property="twitter:site" content="@917wvxu">
-<meta property="twitter:card" content="summary">
-<link href="http://mediad.publicbroadcasting.net/spacer.gif" rel="image_src">
-<link rel="shortcut icon" href="/sites/all/themes/pilot/favicon.ico" type="image/vnd.microsoft.icon">
-<link rel="canonical" href="/privacy-policy-and-terms-use">
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
-<meta name="Generator" content="Drupal 7 (http://drupal.org)">
-<link rel="shortlink" href="/node/1512">
-<meta name="has_audio" content="0">
-<meta name="nid" content="1512">
-<meta name="category" content="none">
-<meta name="programs" content="none">
-<meta name="description" content="You have come to this page from a website or digital service produced by Cincinnati Public Radio (CPR). We recognize the importance of privacy to visitors">
-    <title>Privacy Policy and Terms of Use | WVXU</title>
-    <link type="text/css" rel="stylesheet" href="http://wvxu.org/sites/wvxu.org/files/css/css_zXr1pRkjUmFHX10b6Pv5_DqzyewvdLNQ8QgccGQIRQQ.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://wvxu.org/sites/wvxu.org/files/css/css_ZFlaYqkiQzTmlBPX4mQeT33IFQX3nR-zpGlyqFhtTNM.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://wvxu.org/sites/wvxu.org/files/css/css_XHTm2cMU6sD6pzlNwtS19lgDRK8GjAz14nQaxKhle30.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://wvxu.org/sites/wvxu.org/files/css/css_lcoq-9lW96qMJS-fbtoeWGODR5PjkFgjfy8zqmboJqY.css" media="all">
-<style type="text/css" media="all">
-<!--/*--><![CDATA[/*><!--*/
-.header-region-outer{background-color:#80bdd1;}@media screen and (min-width:1024px){.header-region-outer{background-image:url(http://mediad.publicbroadcasting.net/p/wvxu/files/201502/background_fid.jpg);background-position:center bottom;background-size:cover;background-repeat:no-repeat;}}.branding .tagline{color:#003263;}.branding .listen-live-toggle > a,.branding .header-utility > a,.branding .header-utility > a.trigger-nav{color:#ffffff;}@media screen and (min-width:641px){.branding .trigger-nav{background:#0A88BC;}}@media screen and (max-width:640px){.branding .header-utility > a.trigger-nav,.active-menu .branding .header-utility > a.trigger-nav{color:#0A88BC;}}#listen-live .listen-live-toggle{background-color:#0A88BC;}#listen-live .listen-live-btn{background-color:transparent;color:#ffffff;}@media screen and (min-width:640px){#listen-live .listen-live-btn{background-color:#0A88BC;}}.branding .give{background:#A32B19;}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Cincinnati Public Radio</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="icon" type="image/png" href="/images/favicon.png">
+<link rel="stylesheet" href="../cpr_resp.css" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
-/*]]>*/-->
-</style>
-<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:300,700,700italic,900,italic,regular&amp;subset=latin" media="all">
-<link type="text/css" rel="stylesheet" href="http://wvxu.org/sites/wvxu.org/files/css/css_pTzvkB8ZuNfghXl-d7Zngj_adh7h7jEaOTQL103icto.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://wvxu.org/sites/wvxu.org/files/css/css_-DT6mi0tdbZWf4uHUVbhWLCBkXYpdrg5Vxw5UzeZt6U.css" media="all">
-    <script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wvxu/files/js/js_xSpMA4ArVcBKOZ43sPqNRk0gxQZdDVifw27pIUCzWU0.js"></script>
-<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wvxu/files/js/js_NSSlHy9MRgw4Q19KZtB9IXAk9uX7KZXXi6Ejn0x_e0I.js"></script>
-<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wvxu/files/js/js_-WcrGf3pH5GnSWA1Y-B28tyjknNjFr4asJklCZQ5NUA.js"></script>
-<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wvxu/files/js/js_ZcZajqjC7KCS8_A2dOG5Y53mBT4KJLE7BiKX15HUv7g.js"></script>
-<script type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js"></script>
-<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wvxu/files/js/js_UGa8MWln8xlZUqKHbHRNy8MvR5FhvTEsR-tQ2eb6T2Y.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src="//stream.publicbroadcasting.net/analytics/aac2.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
-//--><!]]>
-</script>
-<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wvxu/files/js/js_driF-GYi6wOjWZ6k7PnVK7TFyOn65-9B5Y9x3_W1Pu4.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"responso","theme_token":"qnK3fKL6Bgd08rwOjicKipv2j-PhRaxD6DLkyjuWJzE","js":{"0":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/magnific-popup\/jquery.magnific-popup.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/foundation\/foundation.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/foundation\/foundation.topbar.js":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.js":1,"sites\/all\/modules\/custom\/pi_media_types\/pi_audio\/js\/pi-audio.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/pi-hull.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/jquery.innerfade.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/jquery.jplayer.min.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/main.js":1,"\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"sites\/all\/modules\/custom\/pi_hull\/pi_outrigger\/js\/shared-cache-roundtrip.js":1,"sites\/all\/modules\/custom\/responsive_ads\/js\/main.js":1,"sites\/all\/modules\/custom\/pi_ajax_links_api\/nprogress\/nprogress.js":1,"sites\/all\/modules\/custom\/pi_ajax_links_api\/pi_ajax_links_api.js":1,"sites\/all\/modules\/custom\/npr_entities\/npr_fields\/npr_image_gallery\/js\/npr-image-gallery.js":1,"sites\/all\/modules\/custom\/npr_river\/assets\/npr-river.js":1,"sites\/all\/modules\/custom\/pi_assets\/plugins\/images\/js\/popup.js":1,"sites\/all\/modules\/custom\/pi_guide\/js\/pi_guide_schedule_selector.js":1,"sites\/all\/modules\/custom\/pi_content_types\/pi_live_event\/js\/iframe.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/modernizr.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/media.match.min.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/matchMedia.addListener.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/enquire.min.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/fastclick.js":1,"1":1,"sites\/all\/modules\/custom\/pi_content_types\/pi_program\/treatments\/program-promo\/program-promo.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.mediaqueries.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.scripts.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.responsiveimages.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.tag.js":1,"sites\/all\/modules\/contrib\/disqus\/disqus.js":1,"sites\/all\/modules\/custom\/audity\/audity\/dsplayer.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"sites\/all\/libraries\/magnific-popup\/magnific-popup.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/pi_hull\/pi_outrigger\/css\/pi_outrigger.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_guide.css":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/css\/jplayer.npr.css":1,"sites\/all\/modules\/custom\/pi_npr_story\/css\/pi_npr_story.css":1,"sites\/all\/modules\/custom\/pi_views\/pi_reports_views\/css\/pi_reports.css":1,"sites\/all\/modules\/custom\/pi_menus\/css\/flexiMenu.css":1,"sites\/all\/modules\/custom\/npr_entities\/npr_fields\/npr_image_gallery\/css\/npr-image-gallery.css":1,"sites\/all\/modules\/custom\/responsive_footer\/responsive-footer.admin.css":1,"0":1,"http:\/\/fonts.googleapis.com\/css?family=Lato:300,700,700italic,900,italic,regular\u0026subset=latin":1,"sites\/all\/modules\/custom\/audity\/audity\/css\/audity.css":1,"sites\/all\/modules\/custom\/pi_ajax_links_api\/pi_ajax_links_api.css":1,"sites\/all\/modules\/custom\/pi_ajax_links_api\/nprogress\/nprogress.css":1,"sites\/all\/modules\/custom\/pi_content_types\/pi_program\/treatments\/program-promo\/program-promo.css":1,"sites\/all\/themes\/responso\/css\/icon-fonts.css":1,"sites\/all\/themes\/responso\/css\/screen.css":1}},"chartbeat":{"uid":33583,"domain":"wvxu.org"},"googleCSE":{"cx":"010251366440257945544:ntuuq6duzko","language":"","resultsWidth":600,"domain":"www.google.com"},"audityConfig":{"station":{"listenLabel":"Listen Live"},"streams":[{"desc":"WVXU","name":0,"url":"http:\/\/cpr2.streamguys.net\/noads-wvxu","data":{"type":"composer2","ucs":"5187f904e1c8f2128efc1f2f"}},{"desc":"WGUC","name":1,"url":"http:\/\/cpr2.streamguys.net\/noads-wguc","data":{"type":"composer2","ucs":"51892b70e1c88271aa0ef398"}},{"desc":"Jazz on WGUC HD2","name":2,"url":"http:\/\/cpr2.streamguys.net\/noads-jazz","data":{"type":"composer2","ucs":""}}],"analytics":{"acct":"aac2"},"ads":{"network":"3967734","units":{"audio":"WVXU_player_audio","display":"WVXU_player_display","leavebehind":"WVXU_player_leavebehind"}}},"responsive_ads":{"networkCode":"3967734","placement":{"leaderboard_1":"main#content","medium_1":".node .field-name-body","medium_2":".node p:nth-of-type(3)","medium_3":".node p:nth-of-type(3)","tablet_1":"main#content","mobile_1":"#block-pi-responsive-ads-mobile-1 .content"},"targeting":{"id":"1512","type":"page","tags":[],"category":"","programs":[]},"ads":{"leaderboard_1":{"type":"leaderboard","adUnit":"WVXU_leaderboard_1","name":"leaderboard_1","width":728,"height":90},"medium_1":{"type":"medium","adUnit":"WVXU_medium_1","name":"medium_1","width":300,"height":250},"medium_2":{"type":"medium","adUnit":"WVXU_medium_2","name":"medium_2","width":300,"height":250},"medium_3":{"type":"medium","adUnit":"WVXU_medium_3","name":"medium_3","width":300,"height":250},"tablet_1":{"type":"tablet","adUnit":"WVXU_tablet_1","name":"tablet_1","width":728,"height":90},"mobile_1":{"type":"mobile","adUnit":"WVXU_mobile_1","name":"mobile_1","width":320,"height":50}}},"tms_meta":{"has_audio":"0","programs":"none","category":"none","nid":1512},"responsive_utilities":{"body_classes":"html not-front not-logged-in no-sidebars page-node page-node- page-node-1512 node-type-page","custom_vars":{"nid":{"name":"nid","slot":8,"scope_id":3},"pop":{"name":"pop","slot":9,"scope_id":3},"author":{"name":"author","slot":11,"scope_id":3},"keywords":{"name":"tags","slot":12,"scope_id":3},"org_id":{"name":"org_id","slot":13,"scope_id":3},"brand":{"name":"CP_Station","slot":14,"scope_id":2},"has_audio":{"name":"Has_Inline_Audio","slot":15,"scope_id":3},"programs":{"name":"Program","slot":16,"scope_id":3},"category":{"name":"Category","slot":10,"scope_id":3},"datePublished":{"name":"PublishedDate","slot":17,"scope_id":3},"wordCount":{"name":"WordCount","slot":18,"scope_id":3},"story_id":{"name":"API_Story_Id","slot":19,"scope_id":3},"pmp_guid":{"name":"pmp_guid","slot":20,"scope_id":3}},"pagetype_vars":[{"page_type":"Content\/About","regex_pattern":"\/about(-us)?\/?$","pattern_name":"Core Publisher About Page"},{"page_type":"Events","regex_pattern":"\/events(\/|$)","pattern_name":"Core Publisher Events Page"},{"page_type":"People","regex_pattern":"\/people(\/|$)","pattern_name":"Core Publisher People Page"},{"page_type":"Playlist","regex_pattern":"\/search_playlists\/?$","pattern_name":"Core Publisher Playlist Page"},{"page_type":"Program","regex_pattern":"\/programs(\/|$)","pattern_name":"Core Publisher Program Page"},{"page_type":"Schedule","regex_pattern":"\/schedule(\/|$)","pattern_name":"Core Publisher Schedule Page"},{"page_type":"Search","regex_pattern":"\/search\/google\/?","pattern_name":"Core Publisher Search GSA Page"},{"page_type":"Story","regex_pattern":"\/post\/|\/webclip\/","pattern_name":"Core Publisher Story Page"},{"page_type":"Streaming","regex_pattern":"\/listen(-live)?\/?(#|$)","pattern_name":"Core Publisher Listen Live Page"}],"media_queries":{"mobile":"all and (max-width: 40em)","tablet":"screen and (min-width: 40.063em) and (max-width: 64em)","desktop":"screen and (min-width: 64.063em)"}},"pi_ajax_links_api":{"selector":"#page-document","trigger":"a.ajax-link,#page-wrapper a,a.logo,a.mobile-teaser-link,.dropdown a","negative_triggers":".dropdown .back a,.mobile .not-click \u003e a,#toolbar a,a.lightbox,.jp-interface a,.header .not-click \u003e a,.page-admin a,.page-block-factory a,a.give,.social-share a,#change-station,#rss-tablequeue a,a[href^=\"mailto:\"],.popup,a[href^=\"#\"],a:not([href]),ul.tabs\u003eli\u003ea,ul.contextual-links a,#table-queue-fleximenu a[target=\"_blank\"]","scripts_included":0,"html5":1,"vpager":1}});
-//--><!]]>
-</script>
-    <meta name="viewport" content="width=device-width">
-  </head>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2563707-6']);
+  _gaq.push(['_trackPageview']);
 
-  <body class="html not-front not-logged-in page-node page-node- page-node-1512 node-type-page has-sidebar">
-    <header role="banner" class="header">
-  <div class="skiptocontent"><a href="#main-content">skip to main content</a></div>
-    <div class="region region-header">
-    <div id="block-baby-bear-baby-bear-header" class="block block-baby-bear">
-
-    
-  <div class="content">
-    
-<div class="header-region-outer">
-  <section class="header-region-inner row">
-    <div class="branding large-12 columns">
-      <div class="brand-inner-wrapper">
-        <a href="/" rel="home" class="logo" title="WVXU Home"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wvxu/files/201502/logo_fid.png" alt="WVXU logo" title="WVXU Home"></a>         <div class="tagline">
-          Connecting You to a World of Ideas        </div>
-      </div>
-      <div class="header-utility">
-        <a class="trigger-nav" href="#">
-          <span class="icon-list"></span>
-          <span class="menu-text">Site Menu</span>
-        </a>
-        <a class="give" href="https://www.cinradio.org/support/wvxu/pledge1.asp" target="_blank">
-  Donate</a>
-      </div>
-    </div>
-  </section>
-</div>
-  </div>
-</div>
-  </div>
-</header>
-    <div class="nav-wrapper mobile">
-      <nav>
-        <div class="top-bar contain-to-grid" data-topbar="">
-          <ul class="title-area">
-            <li class="toggle-topbar menu-icon">
-              <a href="#">Menu</a>
-            </li>
-          </ul>
-          <section class="top-bar-section">
-            <div class="table-queue" id="table-queue-fleximenu">
-  <ul class="menu dropdown">
-<li>
-<a href="/">Home</a>
-</li>
-<li class="dd has-dropdown not-click">
-<a href="/news">News</a>
-<ul class="dropdown">
-<li class="left">
-<a href="/topic/howard-wilkinson-politics-and-more">Howard Wilkinson: Politics and More</a>
-</li>
-<li class="left">
-<a href="/term/politics">Politics</a>
-</li>
-<li class="left">
-<a href="/term/cincinnati-city-council">Cincinnati City Council</a>
-</li>
-<li class="left">
-<a href="/term/hamilton-county-commission">Hamilton County Commission</a>
-</li>
-<li class="left">
-<a href="/programs/focus-technology">Focus on Technology</a>
-</li>
-<li class="left">
-<a href="http://statenews.org/" target="_blank">Ohio Statehouse News Bureau</a>
-</li>
-<li class="left">
-<a href="/topic/wvxu-news-quiz">The Weekly News Quiz</a>
-</li>
-<li class="left">
-<a href="http://www.ideastream.org/stateimpact" target="_blank">StateImpact</a>
-</li>
-<li class="left">
-<a href="/term/education">Education</a>
-</li>
-<li class="left">
-<a href="/wcpo-news">WCPO News</a>
-</li>
-</ul>
-</li>
-<li class="dd has-dropdown not-click">
-<a href="/term/cincinnati">Cincinnati</a>
-<ul class="dropdown">
-<li class="left">
-<a href="/programs/around-cincinnati">Around Cincinnati</a>
-</li>
-<li class="left">
-<a href="/programs/cincinnati-edition">Cincinnati Edition</a>
-</li>
-<li class="left">
-<a href="/programs/book-club-917">The Book Club @ 91.7</a>
-</li>
-<li class="left">
-<a href="/topic/john-kiesewetter-media-beat">John Kiesewetter: Media Beat</a>
-</li>
-<li class="left">
-<a href="/programs/blues-lee-hay">The Blues with Lee Hay</a>
-</li>
-<li class="left">
-<a href="/programs/local-exposure">Local Exposure</a>
-</li>
-<li class="left">
-<a href="/programs/swing-bill-cartwright">Swing with Bill Cartwright</a>
-</li>
-<li class="left">
-<a href="/programs/jazz-ot">Jazz with OT</a>
-</li>
-<li class="left">
-<a href="/specials">Local Specials</a>
-</li>
-<li class="left">
-<a href="http://www.publicbroadcasting.net/wvxu/events.eventsmain" target="_blank">Community Calendar</a>
-</li>
-</ul>
-</li>
-<li class="dd has-dropdown not-click">
-<a href="/about-wvxu">About Us</a>
-<ul class="dropdown">
-<li class="left">
-<a href="/schedule">Program Schedule</a>
-</li>
-<li class="left">
-<a href="/programs">Programs A-Z</a>
-</li>
-<li class="left">
-<a href="/people/capacity/hosts">Program Hosts</a>
-</li>
-<li class="left">
-<a href="/cincinnati-public-radios-mission-statement">Mission Statement</a>
-</li>
-<li class="left">
-<a href="http://www.cinradio.org/eeo.asp" target="_blank">EEO Statement</a>
-</li>
-<li class="left">
-<a href="/award-winning-productions">Award Winning Productions</a>
-</li>
-<li class="left">
-<a href="/faq">FAQ's</a>
-</li>
-<li class="left">
-<a href="/hd-radio">HD Radio</a>
-</li>
-<li class="left">
-<a href="/jobs">Jobs</a>
-</li>
-</ul>
-</li>
-<li class="dd has-dropdown not-click">
-<a href="/support">Support</a>
-<ul class="dropdown">
-<li class="left">
-<a href="/post/thank-you-gifts">Thank You Gifts</a>
-</li>
-<li class="left">
-<a href="/sponsorships">Sponsorships</a>
-</li>
-<li class="left">
-<a href="https://www.cinradio.org/support/wvxu/pledge1.asp?pledgecode=sustain" target="_blank">Become a Sustaining Member</a>
-</li>
-<li class="left">
-<a href="http://www.cinradio.org/membership" target="_blank">Update Your Information</a>
-</li>
-<li class="left">
-<a href="https://www.cardonationwizard.com/cincinnati-public-radio/info/car-donation-cincinnati-oh.html" target="_blank">Donate Your Car</a>
-</li>
-<li class="left">
-<a href="http://www.cinradio.org/volunteers">Volunteer</a>
-</li>
-<li class="left">
-<a href="/gifts-stock">Gifts of Stock</a>
-</li>
-<li class="left">
-<a href="/making-bequest">Bequests / Planned Giving</a>
-</li>
-<li class="left">
-<a href="/charitable-gift-annuities">Charitable Gift Annuities</a>
-</li>
-<li class="left">
-<a href="/joseph-beth-gives-back">Joseph-Beth Gives Back Program</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/contests">Contests</a>
-</li>
-<li class="dd has-dropdown not-click">
-<a href="/subscribe">Subscribe to Email</a>
-<ul class="dropdown">
-<li class="left">
-<a href="/unsubscribe">Unsubscribe</a>
-</li>
-</ul>
-</li>
-<li class="dd has-dropdown not-click">
-<a href="/contact">Ways To Connect</a>
-<ul class="dropdown">
-<li class="left">
-<a href="/listen">Listen Live</a>
-</li>
-<li class="left">
-<a href="/wvxu-podcast-central">Podcast Central</a>
-</li>
-<li class="left">
-<a href="/vuhaus-song-day">Song-of-the-Day</a>
-</li>
-<li class="left">
-<a href="http://facebook.com/917wvxu" target="_blank">Facebook</a>
-</li>
-<li class="left">
-<a href="http://twitter.com/917wvxu" target="_blank">Twitter</a>
-</li>
-<li class="left">
-<a href="https://instagram.com/917wvxu/" target="_blank">Instagram</a>
-</li>
-<li class="left">
-<a href="/contact">Contact Us</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/search/google">Search</a>
-</li>
-</ul>
-</div>
-          </section>
-        </div>
-      </nav>
-    </div>
-      <div class="region region-persistent">
-    <div id="block-audity-audity" class="block block-audity">
-
-    
-  <div class="content">
-      </div>
-</div>
-  </div>
-    <div id="page-wrapper">
-            <div id="page-document" role="document" class="page">
-  <div class="nav-wrapper">
-    <nav>
-      <div class="top-bar contain-to-grid" data-topbar="">
-        <ul class="title-area">
-          <li class="toggle-topbar menu-icon">
-            <a href="#">Menu</a>
-          </li>
-        </ul>
-        <section class="top-bar-section">
-          <div class="table-queue" id="table-queue-fleximenu">
-  <ul class="menu dropdown">
-<li>
-<a href="/">Home</a>
-</li>
-<li class="dd has-dropdown not-click">
-<a href="/news">News</a>
-<ul class="dropdown">
-<li class="left">
-<a href="/topic/howard-wilkinson-politics-and-more">Howard Wilkinson: Politics and More</a>
-</li>
-<li class="left">
-<a href="/term/politics">Politics</a>
-</li>
-<li class="left">
-<a href="/term/cincinnati-city-council">Cincinnati City Council</a>
-</li>
-<li class="left">
-<a href="/term/hamilton-county-commission">Hamilton County Commission</a>
-</li>
-<li class="left">
-<a href="/programs/focus-technology">Focus on Technology</a>
-</li>
-<li class="left">
-<a href="http://statenews.org/" target="_blank">Ohio Statehouse News Bureau</a>
-</li>
-<li class="left">
-<a href="/topic/wvxu-news-quiz">The Weekly News Quiz</a>
-</li>
-<li class="left">
-<a href="http://www.ideastream.org/stateimpact" target="_blank">StateImpact</a>
-</li>
-<li class="left">
-<a href="/term/education">Education</a>
-</li>
-<li class="left">
-<a href="/wcpo-news">WCPO News</a>
-</li>
-</ul>
-</li>
-<li class="dd has-dropdown not-click">
-<a href="/term/cincinnati">Cincinnati</a>
-<ul class="dropdown">
-<li class="left">
-<a href="/programs/around-cincinnati">Around Cincinnati</a>
-</li>
-<li class="left">
-<a href="/programs/cincinnati-edition">Cincinnati Edition</a>
-</li>
-<li class="left">
-<a href="/programs/book-club-917">The Book Club @ 91.7</a>
-</li>
-<li class="left">
-<a href="/topic/john-kiesewetter-media-beat">John Kiesewetter: Media Beat</a>
-</li>
-<li class="left">
-<a href="/programs/blues-lee-hay">The Blues with Lee Hay</a>
-</li>
-<li class="left">
-<a href="/programs/local-exposure">Local Exposure</a>
-</li>
-<li class="left">
-<a href="/programs/swing-bill-cartwright">Swing with Bill Cartwright</a>
-</li>
-<li class="left">
-<a href="/programs/jazz-ot">Jazz with OT</a>
-</li>
-<li class="left">
-<a href="/specials">Local Specials</a>
-</li>
-<li class="left">
-<a href="http://www.publicbroadcasting.net/wvxu/events.eventsmain" target="_blank">Community Calendar</a>
-</li>
-</ul>
-</li>
-<li class="dd has-dropdown not-click">
-<a href="/about-wvxu">About Us</a>
-<ul class="dropdown">
-<li class="left">
-<a href="/schedule">Program Schedule</a>
-</li>
-<li class="left">
-<a href="/programs">Programs A-Z</a>
-</li>
-<li class="left">
-<a href="/people/capacity/hosts">Program Hosts</a>
-</li>
-<li class="left">
-<a href="/cincinnati-public-radios-mission-statement">Mission Statement</a>
-</li>
-<li class="left">
-<a href="http://www.cinradio.org/eeo.asp" target="_blank">EEO Statement</a>
-</li>
-<li class="left">
-<a href="/award-winning-productions">Award Winning Productions</a>
-</li>
-<li class="left">
-<a href="/faq">FAQ's</a>
-</li>
-<li class="left">
-<a href="/hd-radio">HD Radio</a>
-</li>
-<li class="left">
-<a href="/jobs">Jobs</a>
-</li>
-</ul>
-</li>
-<li class="dd has-dropdown not-click">
-<a href="/support">Support</a>
-<ul class="dropdown">
-<li class="left">
-<a href="/post/thank-you-gifts">Thank You Gifts</a>
-</li>
-<li class="left">
-<a href="/sponsorships">Sponsorships</a>
-</li>
-<li class="left">
-<a href="https://www.cinradio.org/support/wvxu/pledge1.asp?pledgecode=sustain" target="_blank">Become a Sustaining Member</a>
-</li>
-<li class="left">
-<a href="http://www.cinradio.org/membership" target="_blank">Update Your Information</a>
-</li>
-<li class="left">
-<a href="https://www.cardonationwizard.com/cincinnati-public-radio/info/car-donation-cincinnati-oh.html" target="_blank">Donate Your Car</a>
-</li>
-<li class="left">
-<a href="http://www.cinradio.org/volunteers">Volunteer</a>
-</li>
-<li class="left">
-<a href="/gifts-stock">Gifts of Stock</a>
-</li>
-<li class="left">
-<a href="/making-bequest">Bequests / Planned Giving</a>
-</li>
-<li class="left">
-<a href="/charitable-gift-annuities">Charitable Gift Annuities</a>
-</li>
-<li class="left">
-<a href="/joseph-beth-gives-back">Joseph-Beth Gives Back Program</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/contests">Contests</a>
-</li>
-<li class="dd has-dropdown not-click">
-<a href="/subscribe">Subscribe to Email</a>
-<ul class="dropdown">
-<li class="left">
-<a href="/unsubscribe">Unsubscribe</a>
-</li>
-</ul>
-</li>
-<li class="dd has-dropdown not-click">
-<a href="/contact">Ways To Connect</a>
-<ul class="dropdown">
-<li class="left">
-<a href="/listen">Listen Live</a>
-</li>
-<li class="left">
-<a href="/wvxu-podcast-central">Podcast Central</a>
-</li>
-<li class="left">
-<a href="/vuhaus-song-day">Song-of-the-Day</a>
-</li>
-<li class="left">
-<a href="http://facebook.com/917wvxu" target="_blank">Facebook</a>
-</li>
-<li class="left">
-<a href="http://twitter.com/917wvxu" target="_blank">Twitter</a>
-</li>
-<li class="left">
-<a href="https://instagram.com/917wvxu/" target="_blank">Instagram</a>
-</li>
-<li class="left">
-<a href="/contact">Contact Us</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/search/google">Search</a>
-</li>
-</ul>
-</div>
-        </section>
-      </div>
-    </nav>
-  </div>
-
-  <div id="player" class="player">
-      </div>
-
-  
-  
-  
-  
-  <div class="row">
-    <main id="content" role="main" class="main-content small-12 columns">
-      <article class="story">
-        <a id="main-content"></a>
-                            <h1 id="page-title" class="title page-title">Privacy Policy and Terms of Use</h1>
-                  
-                                    
-        
-        
-        
-        
-        
-        
-                    <div class="region region-content">
-    <div id="block-system-main" class="block block-system">
-
-    
-  <div class="content">
-    <div id="node-1512" class="node node-page node-promoted full row" about="/privacy-policy-and-terms-use" typeof="sioc:Item foaf:Document">
-  <div class="large-12 columns">
-            
-  </div>
-
-  <div class="content">
-    <div class="medium-9 columns">
-      <div class="field field-name-field-image-gallery field-type-image field-label-hidden"><div class="field-items"></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p class="text">You have come to this page from a website or digital service produced by Cincinnati Public Radio (CPR). We recognize the importance of privacy to visitors to any CPR website, and we want every user (you) to know how we collect and use information about you when you visit our websites. This privacy policy explains what type of information is collected from you when you visit this and other CPR websites, and how we may use that information.</p> <p class="text"><b>Contents</b><br><a href="#1">Information we automatically gather when you visit CPR websites</a><br><a href="#2">Information you give us</a><br><a href="#3">Name and contact information</a><br><a href="#4">Demographic and profile information</a><br><a href="#5">Credit-card information</a><br><a href="#9">What are the Terms and Conditions surrounding Text2Give?</a><br><a href="#6">Special note for CPR members</a><br><a href="#7">Contact CPR</a><br><a href="#8">Consent</a><br><a href="#10">Regarding Social Media</a><br><a href="#Terms">Terms of Use</a><br><a href="#mobile">CPR Mobile Services</a></p> <p class="text"><a name="1" id="1"></a><b>Information we automatically gather when you visit CPR websites</b><br>We record data for each visitor who accesses our sites using Google Analytics. This allows us to make our sites more useful to our visitors. The data recorded does not contain a visitor's name, address, phone number, credit card numbers, or any other personally identifying information. Rather, these log files may contain some or all of the following information</p> <ul><li class="text">The date of the visit</li> <li class="text">The time and length of the visit</li> <li class="text">The path taken through the Web site</li> <li class="text">The browser being used</li> <li class="text">A list of files downloaded or viewed</li> <li class="text">The amount of time spent listening to audio files</li> <li class="text">The Internet Protocol Address (IP Address) of the machine accessing our Web site*</li> <li class="text">Any errors encountered</li> </ul><p class="text">*Most Internet Service Providers use a "dynamic" form of assigning IP Addresses. This means that a visitor may have a different IP address each time he or she visits a website. Also, many Internet Service Providers use "proxy servers," which provide even more anonymity for visitors.</p> <p class="text">We use this information to aid the technical administration of the sites and to better understand how each site is functioning for its users. This information may be correlated with your profile, if you have provided this data, to provide special "personalized" services. This information may also be used in aggregate form.</p> <p class="text">We may track your visit to sections of our websites in order for some site features to function properly for you. In some instances, "cookies" or a similar technology may be used to update your registration records with session information. If you do not wish to accept a cookie from CPR's servers, you can adjust the settings on your browser accordingly. Refusing to accept cookies from the CPR server may result in some limits on the benefits that we can automatically provide as you enjoy the CPR websites.</p> <p class="text"><a name="2" id="2"></a><b>Information you give us </b><br>CPR does not collect personally identifying information from CPR websites unless you choose to provide that information to us. You must be at least eighteen (18) years of age to submit any User Materials or personally-identifying information; participate in any online contests; and/or place an order on the Online Store. If you are between the ages of 13 and 18, you may browse the CPR Digital Services or register for email newsletters or other features of the CPR Digital Services with the consent of your parent(s) or guardian(s), so long as you do not submit any User Materials. If you are under 13 years of age, please do not send any information about yourself, including your name, address or email address. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will remove that information from our database as soon as possible.&nbsp;</p> <p class="text"><a name="3" id="3"></a><b>Name and contact information</b><br>CPR may ask visitors (you) to provide certain personal information when you: register for access to audio streaming, register for a contest; sign up for an e-mail list; request information; purchase products or services; contribute material that may be used on the Web site; participate in a discussion board or chat; or use a CPR form to become a member of CPR. You will also have the opportunity to request future e-mail contact from CPR regarding its programs and Web sites. CPR tells you whether a specific piece of information is required at the time it is requested.</p> <p class="text">This information may be used by CPR to: verify your identity; manage CPR's members and donors; manage a contest; gather your editorial comments and feedback; contact you for additional information or administrative purposes; provide attribution for any submitted content of yours published by CPR, and fulfill your order or request. If you opt-in to request future contact from CPR, you may receive e-mail regarding its programs and websites; otherwise, CPR will contact you only if necessary for the purposes above.</p> <p class="text">Unless explicitly stated otherwise at the time of submission, the personally identifying information you provide will not be sold, shared, or used for purposes other than listed above. If CPR does wish to add your information to a shared list, it will do so only if you provide permission when you submit your information-by default, your information will not be added; you must "opt-in."</p> <p class="text">CPR uses shared lists to maximize the benefits it can provide through other non-profit arts organizations and through qualified associations. If you allow it, your name and basic contact information may be exchanged for consideration with select organizations. These organizations may attempt to contact you to promote a product or service that they offer. Such contacts from third parties will only be made with CPR 's consent, and CPR will only grant its consent when CPR considers the offer to be of potential interest and benefit to our website users.</p> <p class="text">CPR will not share, exchange, rent, or sell any of its lists to political parties or candidates for political office.</p> <p class="text">If you do not want your name and contact information to be used in this way, you may indicate this at the time you provide the information. If you decide after you have provided this information that you do not want CPR to share your information with any company or organization, you may also notify us by e-mailing . CPR cannot remove your name from any third party's list; you will have to contact them directly.</p> <p class="text">The Direct Marketing Association (DMA) offers a Mail Preference Service that is designed to assist consumers in decreasing the amount of nonprofit or commercial mail they receive at home. For more information about this service, visit the DMA Web site at: <a href="http://www.the-dma.org" target="_blank">www.the-dma.org</a> and click on "Consumer Help".</p> <p class="text"><a name="4" id="4"></a><b>Demographic and profile information</b><br>CPR occasionally conducts online surveys, sometimes in association with a contest or other offer. These surveys may ask you for demographic information such as ZIP code, age, education, or income level. This information is used in an aggregate form to help us understand our audiences and improve our services. Demographic and profile information may be shared with selected third-party organizations, only on an aggregate basis, to describe the nature of our online audiences.</p> <p class="text"><a name="5" id="5"></a><b>Credit card information </b><br>You must be 18 or over to engage in money-related transactions on a CPR site. When you do so, you will be asked for a credit card number. All financial transactions take place only on secure servers, and electronic communication of credit-card information is sent only in a secured or encrypted format. Your credit card information is saved, in an encrypted format, on internal systems that are either not connected to the Internet or are protected by advanced firewalls separate from the computers that serve CPR public sites. This information is not made available to any third party and is considered completely confidential. The CPR website does not store credit card information for the purpose of "personalizing" the website.</p> <p class="text"><strong><a id="9" name="9"></a>What are the Terms and Conditions surrounding Text2Give?</strong><br>A one-time donation of $10 will be added to your mobile phone bill or deducted from your prepaid balance. <strong>Messaging &amp; Data Rates May Apply</strong>. All charges are billed by and payable to your mobile service provider. Service is available on most carriers.</p> <p class="text">You can unsubscribe at any time by replying <strong>STOP</strong> to short code 85944; Reply <strong>HELP</strong> to 85944 for help.</p> <p class="text"><a name="6" id="6"></a><b>Special note for CPR members</b><br>If you use CPR 's secure online form to become a member or make a contribution to CPR, your name, complete contact information, and all contributions will be passed directly to the CPR Membership Department. Your membership information will be protected in full compliance with the CPR Member Lists Policy.</p> <p class="text"><a name="7" id="7"></a><b>Contact CPR</b><br>If you have any questions about this privacy policy or any practices on the CPR sites, please send an e-mail to us at or send a letter by regular mail to: Webmaster, CPR, 1223 Central Parkway, Cincinnati OH, 45214. CPR reserves the right to change this policy. Any changes to this policy will be posted to this page as soon as reasonably possible, so please check this page periodically.</p> <p class="text"><a name="8" id="8"></a><b>Consent</b><br>Your use of the CPR website constitutes consent to any policy then in effect.</p> <p class="text"><a id="10" name="10"></a><b>Cincinnati Public Radio Social Media </b><br>RE: Public use of Cincinnati Public Radio Social Media sites</p> <p class="text">Cincinnati Public Radio’s ( DBA as “91.7 WVXU”, “90.9 WGUC” and “88.5 WMUB”) presence on social media sites includes but is not limited to Facebook, Twitter, Youtube, blogs, multimedia or other user-generated sites for the viewing of a variety of content (including written, audio, video, photographs) and posting comments.</p> <p class="text">Your use of Cincinnati Public Radio Social Media Sites is acceptance of this Policy and has the same effect as if you had actually physically signed an agreement.</p> <p class="text">1. You must be at least 18 years old to post any content on any Cincinnati Public Radio Social Media Site or submit any user materials or personally identifying information. If you are between the ages of 13 and 18, you may browse the CPR Digital Services or register for email newsletters or other features of the CPR Digital Services with the consent of your parent(s) or guardian(s), so long as you do not submit any User Materials. If you are under 13 years of age, please do not send any information about yourself, including your name, address or email address. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will remove that information from our database as soon as possible.</p> <p class="text">2. As a guest posting content to any Cincinnati Public Radio Social Media Site on the internet, you agree to the following guidelines:</p> <blockquote><p class="text">a. Keep the conversation civil, courteous and constructive. We encourage all viewpoints and ideas but ask that comments be respectful of others’ views. No profane, offensive, harassing or inflammatory language please.<br>b. Honor the copyrights and trademarks of others by not posting or uploading any material that infringes on the copyright, trademark, patent, or intellectual property rights of others.<br>c. Do not post, upload or link to unsolicited or unauthorized advertising or promotional materials.<br>d. Do not post, upload or link to content that contains any product, service or political endorsements.</p> </blockquote> <p class="text">3. Cincinnati Public Radio reserves the right to monitor, prohibit, restrict, block, suspend, terminate, delete, or discontinue access to any Cincinnati Public Radio Social Media Site, at any time, without notice and for any reason and in its sole discretion.</p> <p class="text">4. By posting any content on any Cincinnati Public Radio Social Media Site, you grant to Cincinnati Public Radio the irrevocable right to reproduce, distribute, publish, display such content and the right to create derivative works from your content, edit or modify such content and use such content for any Cincinnati Public Radio purpose.</p> <p class="text">5. Cincinnati Public Radio does not endorse any product, service, views or content displayed on the Cincinnati Public Radio Social Media site.</p> <p class="text">6. You agree to indemnify and hold harmless Cincinnati Public Radio and its affiliates, officers, directors, employees, successors and assigns against any losses, damages, judgments, liabilities or costs or expenses (including reasonable attorneys' fees) arising out of any claim by a third party relating to any content you have posted on a Cincinnati Public Radio Social Media Site.</p> <p class="text">7. You assume all responsibility related to the security, privacy, and confidentiality risks inherent in sending any content over the internet.</p> <p>8. This policy may be updated at any time without notice. The new policy will become effective upon posting. By continuing to post any content after such new terms are posted, you accept and agree to any and all such modifications to this Policy.</p> <p><a name="Terms" id="Terms"></a><strong>Terms of Use</strong></p> <p>Please read these Terms of Use before using wvxu.org, wmub.org, wguc.org, cinradio.org, Cincinnati Public Radio‘s (CPR) mobile sites and applications, any other CPR sites, applications or services, or any features of these sites, applications and services, including, but not limited to, the Online Store, Podcasts, CPR social networking features, forums and discussions (collectively, the "CPR Digital Services"). By using the CPR Digital Services, you agree to be bound by these Terms of Use and the Privacy Policy. If you do not agree to these Terms of Use and the Privacy Policy, please exit the CPR Digital Services and do not use the CPR Digital Services or any of their features. We reserve the right, at our discretion, to modify, add or delete portions of these terms at any time by posting updated Terms of Use and/or an updated Privacy Policy on the CPR Digital Services. Please check these Terms of Use and the Privacy Policy frequently for updates. Any modifications, additions or deletions to these Terms of Use or the Privacy Policy shall be effective immediately upon posting. Your continued use of the CPR Digital Services following the posting of updated Terms of Use or an updated Privacy Policy will mean that you agree to those changes.</p> <p><strong>Copyrights</strong></p> <p>The contents of the CPR Digital Services are protected by U.S. and international copyright laws. The contents of the CPR Digital Services are owned by or licensed to CPR or CPR's stations (91.7 WVXU, 88.5 WMUB, and 90.9 WGUC) and other producers or providers of programs or content to CPR ("Content Providers"). In the case of User Materials (as defined in the "User Materials" section below), the contents are licensed to CPR by the user.</p> <p>You may not reproduce, distribute, republish, upload, transmit, display, prepare derivative works of, publicly perform, sell, transfer, assign, license or use for commercial purposes any copyrighted material on the CPR Digital Services without the prior written consent of CPR, except as provided below. CPR will not grant permission for use of its copyrighted material to any political parties or candidates for political office. All rights not expressly granted in these Terms of Use are reserved to CPR.</p> <p>Cincinnati Public Radio will share links to its online news stories and multimedia content when asked for permission, but reserves the right to decline based on an evaluation of the request. It is Cincinnati Public Radio policy to not share or sell photographs / video to any non-partner organization. CPR will consider exceptions to this policy for non-commercial usage on a case by case basis.</p> <p>Individuals may copy, download one copy on a single computer, and print a limited amount of content, for your personal, non-commercial use only, provided that (a) you include without modification all copyright and other proprietary notices contained in the content, (b) you do not modify the content, (c) you do not use the content in a manner that suggests CPR promotes or endorses your, or any third party's, causes, ideas, web sites, products or services, and (d) you do not use the content in any way that is unlawful or harmful to any other person or entity. In addition, you may use widgets and tools on the NPR Services that allow selected User Materials to appear on your personal, noncommercial web site, weblog or other application, subject to the conditions in the preceding sentence.</p> <p>No quotes, photographs, or other content from any material on the CPR Digital Services may be used in any media (commercial or&nbsp; non-commercial) without prior permission and attribution to Cincinnati Public Radio, WVXU, WGUC or WMUB.</p> <p><strong>User Materials</strong></p> <p>Through social networking features, forums and discussions in the CPR Digital Services, through the Contact Us page, and through other features of the CPR Digital Services, users may post, upload, transmit and/or otherwise submit ("Submit") comments, messages, other text, photos, images, story ideas, essays, and other content and materials, and make recommendations, on or through the CPR Digital Services ("User Materials"). You acknowledge that User Materials may be routed through our servers, the servers of one or more third parties on our behalf, and the Internet, and may be viewed by CPR staff and on the CPR Digital Services by the general public. You acknowledge that the CPR Digital Services, the CPR social networking features, forums and discussions, and other features of the CPR Digital Services, are for public and not private communications.</p> <p><a name="mobile" id="mobile"></a><strong>CPR Mobile Services; High Data Usage Warning; Motor Vehicle Usage</strong></p> <p>CPR does not charge you for the use of its mobile sites, applications and services or any features of these sites, applications and services ("CPR Mobile Services"). Please check your wireless plan, however, because your carrier's per-minute, text messaging, and data or other charges may apply. You acknowledge that streaming media can result in high data usage and may lead to excess data charges. You consent to your downloading and use of the CPR Mobile Services notwithstanding the potentially high data usage. You must provide at your own expense the equipment and connections needed for you to use the CPR Mobile Services, and you agree that you are solely responsible for any costs you incur to access the CPR Mobile Services, including any excess data charges. You should keep in mind that the use of the CPR Mobile Services to send content to another person via e-mail or SMS (Short Message Service) or text message may result in wireless charges to both the sender and the receiver. You agree to obey all laws related to operation of the motor vehicle during use of the CPR Mobile Services.</p> </div></div></div>    </div>  
-
-  </div>
-
-  
-</div>
-  </div>
-</div>
-  </div>
-              </article>
-    </main>
-  </div>
-
-      <section class="post-content">
-      <div>
-          <div class="region region-post-content">
-    <div id="block-pi-responsive-ads-mobile-1" class="block block-pi-responsive-ads">
-
-    
-  <div class="content">
-      </div>
-</div>
-  </div>
-      </div>
-    </section>
-  
-  <div class="bottom-ads">
-    <div class="bottom-ads-inner"></div>
-  </div>
-</div>
-
-<footer class="footer" role="contentinfo">
-  <div class="row">
-    <div class="footer-affiliate-container small-centered columns">
-                  <div class="region region-footer">
-    <div id="block-pi-table-queue-partnerfooter" class="block block-pi-table-queue">
-
-    
-  <div class="content">
-    <div class="table-queue" id="table-queue-partnerfooter">
-  <p class="partnerslabel">
-  </p>
-<div class="item-list"><ul class="partner-logos"><li class="first"><a href="http://www.wcpo.com/" target="_blank"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wvxu/files/styles/partner_footer_logo/public/201502/wcpo_small.png" alt="WCPO" title="WCPO"></a></li>
-<li><a href="http://npr.org/" target="_self"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wvxu/files/styles/partner_footer_logo/public/201502/npr-logo.png" alt="NPR" title="NPR"></a></li>
-<li><a href="http://www.pri.org/" target="_self"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wvxu/files/styles/partner_footer_logo/public/201502/pri-logo.png" alt="Public Radio International" title="Public Radio International"></a></li>
-<li><a href="http://www.bbc.co.uk/" target="_self"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wvxu/files/styles/partner_footer_logo/public/201502/bbc-logo.png" alt="BBC" title="BBC"></a></li>
-<li><a href="http://americanpublicmedia.publicradio.org/programs/" target="_self"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wvxu/files/styles/partner_footer_logo/public/201502/apm-logo_0.png" alt="American Public Media" title="American Public Media"></a></li>
-<li><a href="http://protectmypublicmedia.org/" target="_self"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wvxu/files/styles/partner_footer_logo/public/201502/protect-my-pm.png" alt="Protect My Public Media" title="Protect My Public Media"></a></li>
-<li class="last"><a href="http://www.bbb.org/cincinnati/charity-reviews/charity-arts-and-culture/cincinnati-public-radio-inc-in-cincinnati-oh-18000804/#se" target="_blank"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/wvxu/files/styles/partner_footer_logo/public/201602/CPR_BBB_white.png" alt="BBB Accredited Charity" title="BBB Accredited Charity"></a></li>
-</ul></div></div>
-  </div>
-</div>
-<div id="block-pi-table-queue-auxiliarylinksfooter" class="block block-pi-table-queue">
-
-    
-  <div class="content">
-    <div class="table-queue" id="table-queue-auxiliarylinksfooter">
-  <div class="item-list"><ul class="auxiliary-links"><li class="first"><span>© 2016 WVXU</span></li>
-<li><a href="http://www.cinradio.org" target="_blank">Cincinnati Public Radio</a></li>
-<li><a href="/schedule" target="_self">Program Schedule</a></li>
-<li><a href="http://www.publicbroadcasting.net/wvxu/events.eventsmain" target="_blank">Our Community Calendar</a></li>
-<li><a href="/contact" target="_self">Contact Us</a></li>
-<li><a href="http://www.democracyandme.org/" target="_blank">WVXU's Democracy and Me for Educators</a></li>
-<li class="last"><a href="/privacy-policy-and-terms-use" target="_blank">Privacy Policy and Terms of Use</a></li>
-</ul></div></div>
-  </div>
-</div>
-  </div>
-          </div>
-  </div>
-</footer>
-      <script type="text/javascript">
-  var _sf_async_config=Drupal.settings.chartbeat;
-  (function(){
-    function loadChartbeat() {
-      window._sf_endpt=(new Date()).getTime();
-      var e = document.createElement('script');
-      e.setAttribute('language', 'javascript');
-      e.setAttribute('type', 'text/javascript');
-      e.setAttribute('src',
-         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
-         "static.chartbeat.com/js/chartbeat.js");
-      document.body.appendChild(e);
-    }
-    var oldonload = window.onload;
-    window.onload = (typeof window.onload != 'function') ?
-       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-</script><script type="text/javascript">
-<!--//--><![CDATA[//><!--
- (function ($) { $(document).foundation({ topbar: { custom_back_text: true, back_text: 'back', mobile_show_parent_link: true } }); }(jQuery));
-//--><!]]>
-</script>
-    </div>
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"15ba4da3e8","applicationID":"1108724","transactionName":"NlMBMhAECEZRAU1eDg8ZIgUWDAlbHwxWUwQ+RgIBBzoQXFUV","queueTime":0,"applicationTime":705,"ttGuid":"","agentToken":"","atts":"GhQCRFgeG0g=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
-</body></html>
+</script>
+
+<script language="JavaScript">
+<!--
+function autoResize(id){
+    var newheight;
+    var newwidth;
+
+    if(document.getElementById){
+        newheight=document.getElementById(id).contentWindow.document .body.scrollHeight;
+        newwidth=document.getElementById(id).contentWindow.document .body.scrollWidth;
+    }
+
+    document.getElementById(id).height= (newheight) + "px";
+    document.getElementById(id).width= (newwidth) + "px";
+}
+//-->
+</script>
+
+
+	<link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet" type="text/css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script>
+		$(function() {
+			var pull 		= $('#pull');
+				menu 		= $('nav ul');
+				menuHeight	= menu.height();
+
+			$(pull).on('click', function(e) {
+				e.preventDefault();
+				menu.slideToggle();
+			});
+
+			$(window).resize(function(){
+        		var w = $(window).width();
+        		if(w > 320 && menu.is(':hidden')) {
+        			menu.removeAttr('style');
+        		}
+    		});
+		});
+	</script>
+
+<script>
+ window.addEventListener('orientationchange', function () {
+    var originalBodyStyle = getComputedStyle(document.body).getPropertyValue('display');
+    document.body.style.display='none';
+    setTimeout(function () {
+      document.body.style.display = originalBodyStyle;
+    }, 10);
+  });
+</script>
+    
+    
+</head>
+<body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginheight="0" marginwidth="0">
+
+
+
+
+
+
+<!---------------------------HEADER ------------------------->
+
+
+<div class="row">
+<div class="twelve columns">
+<img src="../images/header_image.jpg" width="950" height="175">
+
+
+<!--------------------------- NAVIGATION ----------------------->
+
+<div class="row">
+<div class="twelve columns">
+
+
+<nav class="clearfix">
+	<ul class="clearfix">
+    
+	<li class="active"><a href="/">Home</a></li>
+	<li><a href="/about/">About Us</a></li>
+	<li><a href="/support/">Support</a></li>
+	<li><a href="/membership/" target="_blank">Member Login</a></li>
+	<li><a href="/sponsorships/">Sponsorships</a></li>
+	<li><a href="/volunteers/">Volunteers</a></li>
+	<li><a href="/subscribe/">Subscribe</a></li>
+	<li><a href="/contact/">Contact Us</a></li>
+	</ul>
+		<a href="#" id="pull"><img src="http://www.wguc.org/images/nav-icon.png" style="margin-bottom: 10px;"></a>
+</nav>
+
+
+		</div>
+	</div>
+<div class="row">
+<div class="twelve columns">
+        
+            
+
+<!------------------------------ CONTENT ------------------------------------------>
+
+
+
+<h3><span class="headline">Privacy Policy and Terms of Use</span>:</h3>
+
+
+<p>You have come to this page from a website or digital service produced by Cincinnati Public Radio (CPR). We recognize the importance of privacy to visitors to any CPR website, and we want every user (you) to know how we collect and use information about you when you visit our websites. This privacy policy explains what type of information is collected from you when you visit this and other CPR websites, and how we may use that information. </p>
+<p><b>Contents</b><br>
+  <a href="#1">Information we automatically gather when you visit CPR websites</a><br>
+  <a href="#2">Information you give us</a><br>
+  <a href="#3">Name and contact information</a><br>
+  <a href="#4">Demographic and profile information</a><br>
+  <a href="#data_security">Commitment to Data Security</a><br>
+  <a href="#5">Credit-card information</a><br>
+  <a href="#6">Special note for CPR members</a><br>
+  <a href="#7">Contact CPR</a><br>
+  <a href="#8">Consent</a><br>
+  <a href="#10">Regarding Social Media</a><br>
+  <a href="#terms">Terms of Use</a><br>
+  <a href="#ccsubmission">Community Calendar Submission Guidelines</a><br>
+  <a href="#copyrights">Copyrights</a><br>
+  <a href="#usermaterials">User Materials</a><br>
+  <a href="#mobile">CPR Mobile Services</a></p>
+<p><a name="1"></a><b>Information we automatically gather when you visit CPR websites</b><br>
+  We record data for each visitor who accesses our sites using Google Analytics. This allows us to make our sites more useful to our visitors. The data recorded does not contain a visitor's name, address, phone number, credit card numbers, or any other personally identifying information. Rather, these log files may contain some or all of the following information:                 
+</p><ul>
+  <li>The date of the visit                     
+  </li><li>The time and length of the visit                       
+  </li><li>The path taken through the Web site                        
+  </li><li>The browser being used                          
+  </li><li>A list of files downloaded or viewed                             
+  </li><li>The amount of time spent listening to audio files                             
+  </li><li>The Internet Protocol Address (IP Address) of the machine accessing our Web site*                             
+  </li><li>Any errors encountered                          
+  </li></ul>
+<p>*Most Internet Service Providers use a "dynamic" form of assigning IP Addresses. This means that a visitor may have a different IP address each time he or she visits a website. Also, many Internet Service Providers use "proxy servers," which provide even more anonymity for visitors.</p>
+<p>We use this information to aid the technical administration of the sites and to better understand how each site is functioning for its users. This information may be correlated with your profile, if you have provided this data, to provide special "personalized" services. This information may also be used in aggregate form. </p>
+<p>We may track your visit to sections of our websites in order for some site features to function properly for you. In some instances, "cookies" or a similar technology may be used to update your registration records with session information. If you do not wish to accept a cookie from CPR's servers, you can adjust the settings on your browser accordingly. Refusing to accept cookies from the CPR server may result in some limits on the benefits that we can automatically provide as you enjoy the CPR websites.</p>
+<p><a name="2"></a><b>Information you give us </b><br>
+  CPR does not collect personally identifying information from CPR websites unless you choose to provide that information to us. You must be at least eighteen (18) years of age to submit any User Materials or personally-identifying information; participate in any online contests; and/or place an order on the Online Store. If you are between the ages of 13 and 18, you may browse the CPR Digital Services or register for email newsletters or other features of the CPR Digital Services with the consent of your parent(s) or guardian(s), so long as you do not submit any User Materials. If you are under 13 years of age, please do not send any information about yourself, including your name, address or email address. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will remove that information from our database as soon as possible. </p>
+<p><a name="3"></a><b>Name and contact information</b><br>
+  CPR may ask visitors (you) to provide certain personal information when you: register for access to audio streaming, register for a contest; sign up for an e-mail list; request information; purchase products or services; contribute material that may be used on the Web site; participate in a discussion board or chat; or use a CPR form to become a member of CPR. You will also have the opportunity to request future e-mail contact from CPR regarding its programs and Web sites. CPR tells you whether a specific piece of information is required at the time it is requested. </p>
+<p>This information may be used by CPR to: verify your identity; manage CPR's members and donors; manage a contest; gather your editorial comments and feedback; contact you for additional information or administrative purposes; provide attribution for any submitted content of yours published by CPR, and fulfill your order or request. CPR will contact you only if necessary for the purposes above.</p>
+<p>CPR uses shared lists to maximize the benefits it can provide through other non-profit arts organizations and through qualified associations. If you are a member and allow it, a member's name and address may be exchanged for consideration with select organizations. These organizations may attempt to contact you to promote a product or service that they offer. Such contacts from third parties will only be made with CPR 's consent, and CPR will only grant its consent when CPR considers the offer to be of potential interest and benefit to our members.</p>
+<p>CPR will not share, exchange, rent, or sell any of its lists to political parties or candidates for political office.</p>
+<p>If you do not want your name and contact information to be used in this way, you may indicate this at the time you provide the information. If you decide after you have provided this information that you do not want CPR to share your information with any company or organization, you may also notify us by e-mailing <a href="mailto:memberservices@cinradio.org">memberservices@cinradio.org</a>. CPR cannot remove your name from any third party's list; you will have to contact them directly. </p>
+<p>The Direct Marketing Association (DMA) offers a Mail Preference Service that is designed to assist consumers in decreasing the amount of nonprofit or commercial mail they receive at home. For more information about this service, visit the DMA Web site at: <a href="http://www.the-dma.org" target="_blank">www.the-dma.org</a> and click on "Consumer Help". </p>
+<p><a name="4"></a><b>Demographic and profile information</b><br>
+  CPR occasionally conducts online surveys, sometimes in association with a contest or other offer. These surveys may ask you for demographic information such as ZIP code, age, education, or income level. This information is used in an aggregate form to help us understand our audiences and improve our services. Demographic and profile information may be shared with selected third-party organizations, only on an aggregate basis, to describe the nature of our online audiences.</p>
+<p><strong><a name="data_security"></a>Commitment to Data Security<br>
+  </strong>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, CPR has in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. </p>
+<p><a name="5"></a><b>Credit card information </b><br>
+  You must be 18 or over to engage in money-related transactions on a CPR site. When you do so, you will be asked for a credit card number. All financial transactions take place only on secure servers, and electronic communication of credit-card information is sent only in a secured or encrypted format. Your credit card information is not saved on internal systems. This information is not made available to any third party and is considered completely confidential. The CPR website does not store credit card information for the purpose of "personalizing" the website.</p>
+<p><a name="6"></a><b>Special note for CPR members</b><br>
+  If you use CPR 's secure online form to become a member or make a contribution to CPR, your name, complete contact information, and all contributions will be passed directly to the CPR Membership Department. Your membership information will be protected in full compliance with the CPR Member Lists Policy.</p>
+<p><a name="7"></a><b>Contact CPR</b><br>
+  If you have any questions about this privacy policy or any practices on the CPR                 sites, please send an e-mail to us at <a href="mailto:webmaster@CPR.org">webmaster@CPR.org</a> or send a letter by regular mail to: Webmaster, CPR, 1223 Central Parkway, Cincinnati                 OH, 45214. CPR reserves the right to change this policy. Any changes to this                 policy will be posted to this page as soon as reasonably possible, so please check                 this page periodically.</p>
+<p><a name="8"></a><b>Consent</b> <br>
+  Your use of the CPR website constitutes consent to any policy then in effect.</p>
+<p><a name="10" id="10"></a><b>Cincinnati Public Radio Social Media </b><br>
+  RE: Public use of Cincinnati Public Radio Social Media sites </p>
+<p>Cincinnati Public Radio’s ( DBA as “91.7 WVXU”, “90.9 WGUC” and “88.5 WMUB”) presence on social media sites includes but is not limited to Facebook, Twitter, Youtube, blogs, multimedia or other user-generated sites for the viewing of a variety of content (including written, audio, video, photographs) and posting comments. </p>
+<p>Your use of Cincinnati Public Radio Social Media Sites is acceptance of this Policy and has the same effect as if you had actually physically signed an agreement. </p>
+<p>1. You must be at least 18 years old to post any content on any Cincinnati Public Radio Social Media Site or submit any user materials or personally identifying information. If you are between the ages of 13 and 18, you may browse the CPR Digital Services or register for email newsletters or other features of the CPR Digital Services with the consent of your parent(s) or guardian(s), so long as you do not submit any User Materials. If you are under 13 years of age, please do not send any information about yourself, including your name, address or email address. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will remove that information from our database as soon as possible.</p>
+<p>2. As a guest posting content to any Cincinnati Public Radio Social Media Site on the internet, you agree to the following guidelines: </p>
+<ul>
+  <li>a. Keep the conversation civil, courteous and constructive. We encourage all viewpoints and ideas but ask that comments be respectful of others’ views. No profane, offensive, harassing or inflammatory language please.</li>
+  <li>Honor the copyrights and trademarks of others by not posting or uploading any material that infringes on the copyright, trademark, patent, or intellectual property rights of others.</li>
+  <li>Do not post, upload or link to unsolicited or unauthorized advertising or promotional materials.</li>
+  <li>Do not post, upload or link to content that contains any product, service or political endorsements.</li>
+</ul>
+<p>3. Cincinnati Public Radio reserves the right to monitor, prohibit, restrict, block, suspend, terminate, delete, or discontinue access to any Cincinnati Public Radio Social Media Site, at any time, without notice and for any reason and in its sole discretion. </p>
+<p>4. By posting any content on any Cincinnati Public Radio Social Media Site, you grant to Cincinnati Public Radio the irrevocable right to reproduce, distribute, publish, display such content and the right to create derivative works from your content, edit or modify such content and use such content for any Cincinnati Public Radio purpose. </p>
+<p>5. Cincinnati Public Radio does not endorse any product, service, views or content displayed on the Cincinnati Public Radio Social Media site. </p>
+<p>6. You agree to indemnify and hold harmless Cincinnati Public Radio and its affiliates, officers, directors, employees, successors and assigns against any losses, damages, judgments, liabilities or costs or expenses (including reasonable attorneys' fees) arising out of any claim by a third party relating to any content you have posted on a Cincinnati Public Radio Social Media Site. </p>
+<p>7. You assume all responsibility related to the security, privacy, and confidentiality risks inherent in sending any content over the internet. </p>
+<p>8. This policy may be updated at any time without notice. The new policy will become effective upon posting. By continuing to post any content after such new terms are posted, you accept and agree to any and all such modifications to this Policy.</p>
+<p><strong><a name="terms" id="102"></a>Terms of Use </strong></p>
+<p>Please read these Terms of Use before using wvxu.org, wmub.org, wguc.org, cinradio.org, Cincinnati Public Radio's (CPR) mobile sites and applications, any other CPR sites, applications or services, or any features of these sites, applications and services, including, but not limited to, the Online Store, Podcasts, CPR social networking features, forums and discussions (collectively, the "CPR Digital Services"). By using the CPR Digital Services, you agree to be bound by these Terms of Use and the Privacy Policy. If you do not agree to these Terms of Use and the Privacy Policy, please exit the CPR Digital Services and do not use the CPR Digital Services or any of their features. We reserve the right, at our discretion, to modify, add or delete portions of these terms at any time by posting updated Terms of Use and/or an updated Privacy Policy on the CPR Digital Services. Please check these Terms of Use and the Privacy Policy frequently for updates. Any modifications, additions or deletions to these Terms of Use or the Privacy Policy shall be effective immediately upon posting. Your continued use of the CPR Digital Services following the posting of updated Terms of Use or an updated Privacy Policy will mean that you agree to those changes. </p>
+<p><strong><a name="ccsubmission"></a>Community Calendar Submission Guidelines</strong></p>
+<p>The Community Calendar features arts &amp; entertainment events in the Greater Cincinnati local community. Listings are submitted by site visitors, performing arts and cultural organizations, venues, and event organizers. All submissions will be reviewed and approved by a Cincinnati Public Radio an editor before appearing on the site. Cincinnati Public Radio, dba 90.9 WGUC and 91.7 WVXU, reserves the right to edit any submissions. Cincinnati Public Radio does not check the details of the event, and does not take responsibility for inaccurate information.</p>
+<p>Please contact Cincinnati Public Radio if you notice inaccurate information in event listings. </p>
+<p>When submitting events:</p>
+<ul>
+  <li>Select the proper category for the event </li>
+  <li>Enter the event at least 2 weeks prior to event date </li>
+  <li>Include your contact information </li>
+  <li>Fill out all information required as completely as possible. </li>
+</ul>
+<p>Listings with incomplete information are less likely to be posted.</p>
+<p><strong><a name="copyrights"></a>Copyrights </strong></p>
+<p> The contents of the CPR Digital Services are protected by U.S.  and international copyright laws. The contents of the CPR Digital Services are  owned by or licensed to CPR or CPR's stations (91.7 WVXU, 88.5 WMUB, and 90.9  WGUC) and other producers or providers of programs or content to CPR  ("Content Providers"). In the case of User Materials (as defined in  the "User Materials" section below), the contents are licensed to CPR  by the user.</p>
+<p>You may not reproduce, distribute, republish, upload, transmit,  display, prepare derivative works of, publicly perform, sell, transfer, assign,  license or use for commercial purposes any copyrighted material on the CPR  Digital Services without the prior written consent of CPR, except as provided  below. CPR will not grant permission for use of its copyrighted material to any  political parties or candidates for political office. All rights not expressly  granted in these Terms of Use are reserved to CPR.</p>
+<p>Cincinnati Public Radio will share links to its online news  stories and multimedia content when asked for permission, but reserves the  right to decline based on an evaluation of the request. It is Cincinnati Public  Radio policy to not share or sell photographs / video to any non-partner  organization. CPR will consider exceptions to this policy for non-commercial  usage on a case by case basis.</p>
+<p>Individuals may copy, download one copy on a single computer,  and print a limited amount of content, for your personal, non-commercial use  only, provided that (a) you include without modification all copyright and  other proprietary notices contained in the content, (b) you do not modify the  content, (c) you do not use the content in a manner that suggests CPR promotes  or endorses your, or any third party's, causes, ideas, web sites, products or  services, and (d) you do not use the content in any way that is unlawful or  harmful to any other person or entity. In addition, you may use widgets and  tools on the NPR Services that allow selected User Materials to appear on your  personal, noncommercial web site, weblog or other application, subject to the  conditions in the preceding sentence.</p>
+<p>No quotes, photographs, or other content from any material on  the CPR Digital Services may be used in any media (commercial or&nbsp;  non-commercial) without prior permission and attribution to Cincinnati Public  Radio, WVXU, WGUC or WMUB.</p>
+<p><strong><a name="usermaterials"></a>User  Materials</strong></p>
+<p>Through  social networking features, forums and discussions in the CPR Digital Services,  through the Contact Us page, and through other features of the CPR Digital Services,  users may post, upload, transmit and/or otherwise submit ("Submit")  comments, messages, other text, photos, images, story ideas, essays, and other  content and materials, and make recommendations, on or through the CPR Digital Services  ("User Materials"). You acknowledge that User Materials may be routed  through our servers, the servers of one or more third parties on our behalf,  and the Internet, and may be viewed by CPR staff and on the CPR Digital Services  by the general public. You acknowledge that the CPR Digital Services, the CPR  social networking features, forums and discussions, and other features of the CPR  Digital Services, are for public and not private communications.</p>
+<p><strong><a name="mobile" id="1022"></a>CPR Mobile Services; High Data Usage Warning; Motor Vehicle Usage</strong></p>
+<p>CPR does not charge you for the use of its mobile sites, applications and services or any features of these sites, applications and services ("CPR Mobile Services"). Please check your wireless plan, however, because your carrier's per-minute, text messaging, and data or other charges may apply. You acknowledge that streaming media can result in high data usage and may lead to excess data charges. You consent to your downloading and use of the CPR Mobile Services notwithstanding the potentially high data usage. You must provide at your own expense the equipment and connections needed for you to use the CPR Mobile Services, and you agree that you are solely responsible for any costs you incur to access the CPR Mobile Services, including any excess data charges. You should keep in mind that the use of the CPR Mobile Services to send content to another person via e-mail or SMS (Short Message Service) or text message may result in wireless charges to both the sender and the receiver. You agree to obey all laws related to operation of the motor vehicle during use of the CPR Mobile Services.</p>
+
+
+
+<!------------------------------ FOOTER ------------------------------------------>
+
+
+</div>
+</div>
+<div class="hide-for-small">
+<div class="row">
+<object type="text/html" data="../footer.html" width="100%" height="140px" style="overflow:hidden; width: 100%; height:140px;"></object>
+</div>
+</div>
+
+
+<div class="show-for-small">
+<p align="center">© <time>
+<script language="JavaScript" type="text/javascript">
+    now = new Date
+    theYear=now.getYear()
+    if (theYear < 1900)
+    theYear=theYear+1900
+    document.write(theYear)
+          </script>2020
+          </time> Cincinnati Public Radio</p>
+</div>
+
+</div></div></body></html>
