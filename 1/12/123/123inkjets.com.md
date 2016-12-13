@@ -1,48 +1,16 @@
-> *The following text is extracted and transformed from the 123inkjets.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315071118id_/http%3A//www.123inkjets.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123inkjets.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213153303id_/http%3A//www.123inkjets.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy - 123inkjets
 
-## Our Commitment To Privacy
-
-Your privacy is important to us. This Privacy Policy (“Policy”) explains how 123Inkjets (referred to hereafter as “we,” “us,” “our,” “123Inkjets.com” or “123Inkjets”) handle your personal information when you use our website (http://www.123Inkjets.com), applications and services (referred to hereafter collectively as “Website”). When you use the Website, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Policy.
-
-## 1\. Collection of Personal Information
-
 We do not automatically collect personal information when you browse the Website. We only collect personally identifiable information, such as your name, address, telephone number, email address, credit card information and date of birth when you specifically and knowingly provide it to us by registering to create an account, placing an order, completing online forms, opting in to receive our newsletter and promotional offers or entering a sweepstakes, contest or drawing. When you use the website to apply for employment opportunities, we may collect additional personal information such as your resume. Information that you furnish to 123Inkjets is used to provide the services available through the Website.
-
-## 2\. Automatically-Collected Information
 
 We automatically collect non-personal information about the computer or devices (including mobile devices) you use to access the Website. For example, we may collect and store information such as your browser type, IP address, language, operating system, location of your wireless device (e.g. latitude and longitude), the state or country from which you accessed the Website, unique device identifier (e.g. a UDID or IDFA on Apple devices), the pages you view, the services you use, the date and time of your visit, the websites you visited immediately before and after visiting the Website, error logs and other hardware and software information. This automatically collected information does not identify and is not associated with any specific individuals. We may use third party analytics providers and technologies, including cookies and similar tools to assist in collecting this information. We may use this information to formulate statistical models about use of the Website, enhance the services available through the Website for other users, and to provide you with tailored content and advertising.
 
-## 3\. Use of Your Information
-
 We use your information for the purpose for which you provided it, and we may also use your information for other purposes such as to:
-
-  * Create and maintain your account or registration;
-  * Enhance the user experience;
-  * Perform research and analytics
-  * Customize and personalize the content and advertising that you see on the Website;
-  * Respond to and fulfill your request for services (including processing orders);
-  * Determine your eligibility for certain promotions, contests and services; and
-  * Send you communications related to your account and to alert you of the latest developments and features of the Website.
-
-
 
 We use information your provide about someone else when placing an order only to ship the product to that person and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.
 
-## 4\. Disclosure of Your Information to Third Parties
-
 We use third parties to complete certain services that are provided through the Website, such as a shipping company to fulfill orders, a credit card processing company to bill you for your orders, and an email service provider to send you newsletters in the event you opt-in to receive them. We use Live Chat to assist you if you have questions while using our site or regarding your order and we use an applicant-management database to process employment submissions. We only share your information with these third parties to the extent that it is necessary to provide a particular service. These third parties are prohibited from using your information for other purposes.
-
-We may also share your information in the following ways:
-
-  * We may make information collected through the Website available to affiliated brands that are under common ownership or control as the Website.
-  * We may share, as allowed by law, information about you with other companies who we believe may have products and services of interest to you. If you would like to opt-out of our sharing of your information with these other companies, please follow the instructions in the “Opting out of Emails and Promotional Communications” section below.
-  * We may share your information with any person or entity where we believe in good faith that such disclosure is necessary to: (a) comply with the law or in response to a subpoena, court order, government request or other legal process; (b) produce relevant documents or information in connection with litigation, arbitration, mediation, adjudication, government or internal investigations, or other legal or administrative proceedings; (c) protect the interests, rights, safety or property of 123Inkjets or others; (d) enforce the Terms of Use on the Website; (e) provide users of the Website with the services they request; (f) provide you with special offers or promotions from us; and (g) If 123Inkjets is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
-
-
-
-## 5\. Use of Cookies and Other Technology
 
 Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We connect the information gathered to our Customers’ or Users’ personally identifiable information.
 
@@ -101,10 +69,14 @@ Simi Valley, CA 93065
 
 We may record the conversations that our agents or employees have with you. We do this from time to time to monitor the quality of service and accuracy of information our agents and employees give to you and to ensure that your instructions are followed. No agent or employee of the Company is authorized to waive any provisions of any of 123Inkjets’ policies or procedures.
 
-## 17\. Updates to Policy
+## 17\. Adobe Marketing Cloud Device Co-op.
+
+This website participates in the Adobe Marketing Cloud Device Co-op, which enables participating Adobe Marketing Cloud companies to better recognize their consumers across devices. Each participating company provides the Co-op with automatically collected technical information, such as cryptographically hashed login IDs and HTTP header information. Personally identifiable information (such as name, email address, phone number, etc.) is not shared with the Co-op. The Co-op combines and processes only technical information to recognize when multiple devices are used by the same individual and creates links among those devices. These device links are used by participating companies to link devices they have already seen visit their sites or advertising, and to provide consistent experiences and marketing activities across the devices. Personally identifiable information is not used in determining linked devices. You can learn more about how the Co-op works or opt-out of the Co-op by clicking [here](https://cross-device-privacy.adobe.com/). To learn more about Adobe's privacy practices, please visit Adobe's Privacy Center by clicking [here](http://www.adobe.com/privacy.html)
+
+## 18\. Updates to Policy
 
 We may amend this Policy at any time by posting the changes on this page. Any changes to the Policy will become effective upon posting. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. Your continued use of the Website following any changes means you accept such revisions. You should check the effective date of the Policy below and review any changes since the last time you used the website.
 
-## 18\. Effective Date
+## 19\. Effective Date
 
-This Policy is effective as of March 3, 2014.
+This Policy is effective as of September 16, 2016.
