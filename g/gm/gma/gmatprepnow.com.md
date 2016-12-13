@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmatprepnow.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418085900id_/https%3A//www.gmatprepnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmatprepnow.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214001002id_/https%3A//www.gmatprepnow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GMAT Prep Now
 
@@ -24,11 +24,11 @@ We may also collect information from you at other points on our site that state 
 
 In addition, we may also collect certain Non-Personally Identifiable Information. This information is ultimately stored in the form of store categories, and, in some cases, specific URLs. We use your IP address to diagnose problems with our servers, software, to administer our site and to gather demographic information.
 
-We will primarily use your Personally Identifiable Information to provide our services to you, as required by our agreements with you. We will also use Personally Identifiable Information to enhance the operation of our site, statistically analyze site use, and customize and improve our site's content, layout, and services. We may use Personally Identifiable Information to deliver information to you and to contact you regarding administrative notices. We may also use Personally Identifiable Information to resolve disputes, troubleshoot problems and enforce our agreements with you, including our Site Terms of Use and this Private Policy.
+We will primarily use your Personally Identifiable Information to provide services to you, or to allow our sponsors to provide services to you. We will also use Personally Identifiable Information to enhance the operation of our site, statistically analyze site use, and customize and improve our site's content, layout, and services. We may use Personally Identifiable Information to deliver information to you and to contact you regarding administrative notices. We may also use Personally Identifiable Information to resolve disputes, troubleshoot problems and enforce our agreements with you, including our Site Terms of Use and this Private Policy.
 
 **3\. With whom do we share your information?**
 
-We do not sell, trade, or rent your Personally Identifiable Information to others.
+Through your use of the Site, you may have the opportunity to view, use or register for products or services offered by Company’s sponsors or other third parties. By creating an account and using the Site, you expressly consent to allow Company to share your email address with the party or parties providing such products or services. You agree that no further notice shall be required on the part of Company or any such third parties. You may withdraw your consent at any time by emailing us at [info@gmatprepnow.com](mailto:info@gmatprepnow.com)
 
 Occasionally we may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. We fully cooperate with law enforcement agencies in identifying those who illegally use our services and those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
 
