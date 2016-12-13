@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the catholicculture.org privacy policy that was archived on 2016-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160514103308id_/http%3A//www.catholicculture.org/about/legal/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the catholicculture.org privacy policy that was archived on 2016-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161213040324id_/http%3A//www.catholicculture.org/about/legal/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <title>Privacy | Catholic Culture</title>
@@ -8,6 +8,7 @@
 <meta name="description" content="A chief provider and curator of Catholic information on the web since 1996. Our editorial voice, always faithful to the teachings of the Church, assists and inspires Catholic clergy and laity.">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="verify-v1" content="l1ElcxE1QA7j7k5fnQ+4nHpO2XDiqAWUYoMgwkrQ7sA=">
+<meta name="robots" content="NOODP"> 
 
 
 <meta property="og:title" content="Privacy">
@@ -26,7 +27,7 @@
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
 
-<link type="text/css" rel="stylesheet" media="screen" href="/lib/css/master.css?v=1.03">
+<link type="text/css" rel="stylesheet" media="screen" href="/lib/css/master.css?v=1.05">
 <link type="text/css" rel="stylesheet" media="screen" href="/lib/css/nav.css?v=1.04">
 <link type="text/css" rel="stylesheet" media="print" href="/lib/css/print.css?v=1.0">
 
@@ -35,7 +36,7 @@
 
 
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script> 
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script> 
 <script>
 function blankIt(thisfield) {
 	document.getElementById(thisfield).value = '';
@@ -48,9 +49,7 @@ function clearcreditcard(ccvalue) {
 }
 
 </script> 
-<script type="text/javascript">var switchTo5x=true;</script>
-<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript">stLight.options({publisher: "7f2d7270-198d-4cf2-98b5-7d46415a5391", doNotHash: true, doNotCopy: false, hashAddressBar: false});</script>
+<script language="JavaScript" src="https://seal.networksolutions.com/siteseal/javascript/siteseal.js" type="text/javascript"></script>
 <script type="text/javascript">
   var googletag = googletag || {};
   googletag.cmd = googletag.cmd || [];
@@ -339,15 +338,15 @@ $(document).ready(function(){
                 </li>
                
                 <li>
-                    <a title="May Calendar" href="http://www.catholicculture.org/culture/liturgicalyear/calendar/month.cfm?y=2016&amp;m=5">May Calendar</a> 
+                    <a title="December Calendar" href="http://www.catholicculture.org/culture/liturgicalyear/calendar/month.cfm?y=2016&amp;m=12">December Calendar</a> 
                 </li>
                
                 <li>
-                    <a title="May Overview" href="http://www.catholicculture.org/culture/liturgicalyear/overviews/months/05.cfm">May Overview</a> 
+                    <a title="December Overview" href="http://www.catholicculture.org/culture/liturgicalyear/overviews/months/12.cfm">December Overview</a> 
                 </li>
                
                 <li>
-                    <a title="Easter Overview" href="http://www.catholicculture.org/culture/liturgicalyear/overviews/seasons/">Easter Overview</a> 
+                    <a title="Advent Overview" href="http://www.catholicculture.org/culture/liturgicalyear/overviews/seasons/">Advent Overview</a> 
                 </li>
                
                 <li>
@@ -587,24 +586,309 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1392330750017-0');
 </script>
 </div>
 </div>
+<script>
+	function clear_placeholder(inputId) {
+		var fieldvalue = document.getElementById(inputId).value;
 
-<a href="http://www.catholicculture.org/promotions/campaigns/Spring2016.cfm?utm_source=Catholic%20Culture&amp;utm_medium=skyscraper%20banner&amp;utm_campaign=Spring%202016"><img src="/images/banners/Catholics-Rising-Skyscraper-Banner.png"></a>
+		if (inputId == 'fmemail' && fieldvalue == 'Email') {
+			document.getElementById(inputId).value = '';
+		} else if (inputId == 'fmfirstname' && fieldvalue == 'First Name') {
+			document.getElementById(inputId).value = '';
+		} else if (inputId == 'fmlastname' && fieldvalue == 'Last Name') {
+			document.getElementById(inputId).value = '';
+		}
+	}
+
+
+	function set_placeholder(inputId) {
+		if(document.getElementById(inputId).value == '') {
+			if (inputId == 'fmfirstname') {
+				document.getElementById(inputId).value = 'First Name';
+			} else if (inputId == 'fmlastname') {
+				document.getElementById(inputId).value = 'Last Name';
+			} else {
+				document.getElementById(inputId).value = 'Email';
+			}
+		}
+	}
+	function clear_defaults() {
+		if(document.getElementById('fmfirstname').value == 'First Name') {
+			document.getElementById('fmfirstname').value = '';
+		}
+		if(document.getElementById('fmlastname').value == 'Last Name') {
+			document.getElementById('fmlastname').value = '';
+		}
+		if(document.getElementById('fmemail').value == 'Email') {
+			document.getElementById('fmemail').value = '';
+		}
+	}
+</script>
+
+<style>
+#subscribe_container {
+	background-color:rgb(66,115,176);
+	width: 300px;
+	margin:auto;
+	padding: 10px 16px;
+	text-align:left;
+}
+.subscribe_input, .subscribe_submit {
+	height: 30px;
+	border: none;
+}
+.subscribe_input {
+	margin-bottom: 6px;
+	padding-left: 4px;
+	width: 240px;
+	background: rgba(255,255,255,.5);
+	color: rgb(66,115,176);
+}
+.subscribe_submit {
+	cursor:pointer;
+	background: rgba(15,70,167,1.00);
+	color: #FFF;
+}
+.form_reminder {
+	color: #fff;
+	font-size:12px;
+	margin: 0px 0px 3px 0px;
+}
+</style>
 
 
 
+<div id="subscribe_container">
 
-<div align="center">
+<div style="font-size: 20px; color: #fff; text-align:left;"><strong>Subscribe to <em>Insights</em></strong></div>
+<div style="font-size: 14px; color: #fff; text-align:left; margin-bottom: 10px;">Stay on top of the latest Catholic news and analysis from CatholicCulture.org.</div>
 
-<div class="workshop_banner" style="background-color:#C90;">» <a href="http://www.catholicculture.org/culture/liturgicalyear/overviews/seasons/Easter?utm_source=Catholic%2BCulture&amp;utm_medium=Text%2BBanner&amp;utm_campaign=Easter%2BWorkshop">Visit Our Easter Workshop</a></div>
+<script>
 
-<div class="workshop_banner" style="background-color:#060;">» <a href="http://www.catholicculture.org/culture/liturgicalyear/overviews/seasons/Ordinary_Time?utm_source=Catholic%2BCulture&amp;utm_medium=Text%2BBanner&amp;utm_campaign=Ordinary%20Time%2BWorkshop">Visit Our Ordinary Time Workshop</a></div>
+/* controls the relationships within the Amount buttons and with the Amount Other field */
+$( document ).ready( function(){
+	$('.amount_wrapper').on('click','.amount_button',function() {
+		$('.amount_button').removeClass('amount_button_selected');
+		$(this).addClass('amount_button_selected');
+		selectedamount = $(this).text();
+		selectedamount = selectedamount.substr(1);
+		$('#fmamount').val(selectedamount);
+		$('#fmamount_other').val('');
+	});
+	$('#fmamount_other').click(function() {
+		$('.amount_button').removeClass('amount_button_selected');
+		$('#fmamount').val('');
+	});
+});
+
+
+/*validation for the Amount Other field */
+			function amountvalidation(thisform) {
+				var amount = document.getElementById(thisform).value ;
+				var amount = amount.replace('$', '');
+				var amount = amount.replace('-', '');
+				document.getElementById(thisform).value = amount;
+				var RegExp = /^(-)?(\d*)(\.?)(\d*)$/; 
+				var result = amount.match(RegExp);
+				if(result ==  null) {
+					document.getElementById('jstrinity_fmamount').innerHTML = 'Invalid amount. Only numbers and a decimal point are permitted.';
+					document.getElementById('jstrinity_fmamount').style.display = 'block';
+					document.getElementById(thisform).value = '';
+					return false;
+				} else { 
+					if (amount < 5 && document.getElementById('fmamount').value.length == 0) {
+						document.getElementById('jstrinity_fmamount').innerHTML = 'Due to the cost of transaction fees and providing donor benefits, the minimum donation is $5. Thank you!';
+						document.getElementById('jstrinity_fmamount').style.display = 'block';
+						document.getElementById(thisform).value = 5;
+						return false;
+					} else {
+						document.getElementById('jstrinity_fmamount').innerHTML = '';
+						document.getElementById('jstrinity_fmamount').style.display = 'none';
+						return true;
+					}
+				}
+			}
+				
+/* validated the credit card number */
+			function ccvalidation()
+				{
+				var badcc = 0;
+				var ccnum = document.getElementById('fmcreditcard').value;
+				var xmatch = ccnum.search("xxxxxxxxxxx");
+				if(xmatch < 0) {
+					ccnum = createCCNumNumbersOnly(ccnum);
+					//JAM 5/13/2011: Remove following line which gets rid of spaces in favor of previous line which gets rid of all non-numbers;
+					//var ccnum = ccnum.replace(/ /gi,'');
+					document.getElementById('fmcreditcard').value = ccnum;
+					if (allDigits(ccnum) == false)
+						{
+						var badcc = 1;
+						}
+						
+					if (validateCCNum(ccnum) == false)
+						{
+						var badcc = 1;
+						}
+					if (badcc == 1)
+						{
+						document.getElementById('jstrinity_fmcreditcard').innerHTML = 'You must enter a valid credit card number.';
+						document.getElementById('jstrinity_fmcreditcard').style.display = 'block';
+						}
+					else
+						{
+						document.getElementById('jstrinity_fmcreditcard').innerHTML = '';
+						document.getElementById('jstrinity_fmcreditcard').style.display = 'none';
+						}
+					}
+				}
+			function allDigits(str)
+			{
+				return inValidCharSet(str,"0123456789");
+			}
+			
+			function createCCNumNumbersOnly(str)
+			{
+				var resultstr = '';
+				var charset = '0123456789';
+				
+				for (var i=0;i<str.length;i++)
+					if (charset.indexOf(str.substr(i,1))>-1)
+					{
+						resultstr = resultstr + str.substr(i,1);
+					}
+				
+				return resultstr;	
+			}
+			
+			function inValidCharSet(str,charset)
+			{
+				var result = true;
+				
+				for (var i=0;i<str.length;i++)
+					if (charset.indexOf(str.substr(i,1))<0)
+					{
+						result = false;
+						break;
+					}
+				
+				return result;
+			}
+			function validateCCNum(cardNum)
+			{	
+				var result = true;
+				
+		
+				if(cardNum.charAt(0) == 3 && cardNum.length == 15) {var cardType = 'AMEX';};
+				if(cardNum.charAt(0) == 4) {var cardType = 'VISA';};
+				if(cardNum.charAt(0) == 5) {var cardType = 'MASTERCARD';};
+				if(cardNum.charAt(0) == 6) {var cardType = 'DISCOVER';};
+				
+				
+				var cardLen = cardNum.length;
+				var firstdig = cardNum.substring(0,1);
+				var seconddig = cardNum.substring(1,2);
+				var first4digs = cardNum.substring(0,4);
+			
+				switch (cardType)
+				{
+					case "VISA":
+						result = ((cardLen == 16) || (cardLen == 13)) && (firstdig == "4");
+						break;
+					case "AMEX":
+						var validNums = "47";
+						result = (cardLen == 15) && (firstdig == "3") && (validNums.indexOf(seconddig)>=0);
+						break;
+					case "MASTERCARD":
+						var validNums = "12345";
+						result = (cardLen == 16) && (firstdig == "5") && (validNums.indexOf(seconddig)>=0);
+						break;
+					case "DISCOVER":
+						result = (cardLen == 16) && (firstdig == "6");
+						break;
+					default:
+						result = false;
+						break;
+				}
+				return result;
+			}
+			
+/* general field validation for forms */
+		function validate() {
+			var errorcount = 0;
+
+		
+		var email = document.getElementById('fmemail').value;
+		if (email == '') {
+			document.getElementById('jstrinity_fmemail').innerHTML = 'You must enter an email.';
+			document.getElementById('jstrinity_fmemail').style.display = 'block';
+			errorcount = errorcount + 1;
+		} else {
+			var RegExp = /^[a-zA-Z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?/; 
+			var result = email.match(RegExp);
+			if(result ==  null) {
+				document.getElementById('jstrinity_fmemail').innerHTML = 'You have entered an invalid email address.';
+				document.getElementById('jstrinity_fmemail').style.display = 'block';
+				errorcount = errorcount + 1;
+			} else {
+				document.getElementById('jstrinity_fmemail').innerHTML = '';
+				document.getElementById('jstrinity_fmemail').style.display = 'none';
+			}
+		}
+		
+		if (document.getElementById('fmfirstname').value == '') {
+			document.getElementById('jstrinity_fmfirstname').innerHTML = 'You must enter a first name.';
+			document.getElementById('jstrinity_fmfirstname').style.display = 'block';
+			errorcount = errorcount + 1;
+		} else {
+			document.getElementById('jstrinity_fmfirstname').innerHTML = '';
+			document.getElementById('jstrinity_fmfirstname').style.display = 'none';
+		}
+		
+		if (document.getElementById('fmlastname').value == '') {
+			document.getElementById('jstrinity_fmlastname').innerHTML = 'You must enter a last name.';
+			document.getElementById('jstrinity_fmlastname').style.display = 'block';
+			errorcount = errorcount + 1;
+		} else {
+			document.getElementById('jstrinity_fmlastname').innerHTML = '';
+			document.getElementById('jstrinity_fmlastname').style.display = 'none';
+		}
+							
+
+		if (errorcount > 0) {
+			document.getElementById('jstrinity_fmsubmit').innerHTML = 'Required information is missing. Please review the form for messages showing where information is required.';
+			document.getElementById('jstrinity_fmsubmit').style.display = 'block';
+			return false;
+			}
+		else {
+			button_lockdown();
+			return true;
+			}
+
+		}
+
+		</script>  
+
+<form action="/users/signup.cfm" name="subscribe" id="subscribe" method="post" onsubmit="return validate();">
+<input type="hidden" name="mailing_id" value="2">
+        <input type="text" class="subscribe_input" id="fmfirstname" name="firstname" value="First Name" onclick="clear_placeholder('fmfirstname');" onblur="set_placeholder('fmfirstname');"><div id="jstrinity_fmfirstname" class="form_reminder"></div> <input type="text" class="subscribe_input" id="fmlastname" name="lastname" value="Last Name" onclick="clear_placeholder('fmlastname');" onblur="set_placeholder('fmlastname');"><div id="jstrinity_fmlastname" class="form_reminder"></div>
+
+<input type="text" class="subscribe_input" id="fmemail" name="email" value="Email" onclick="clear_placeholder('fmemail');" onblur="set_placeholder('fmemail');"><div id="jstrinity_fmemail" class="form_reminder"></div>
+
+<input onclick="clear_defaults();" type="submit" class="subscribe_submit" name="fmsubmit" value="Sign up now!">
+<div id="jstrinity_fmsubmit" class="form_reminder"></div>
+</form>
+
+</div> 
+
+
+
+<div align="center" style="padding: 6px 0px 0px 0px;">
+
+<div class="workshop_banner" style="background-color:#5900B3;">» <a href="http://www.catholicculture.org/culture/liturgicalyear/overviews/seasons/Advent?utm_source=Catholic%2BCulture&amp;utm_medium=Text%2BBanner&amp;utm_campaign=Advent%2BWorkshop">Visit Our Advent Workshop</a></div>
+
+<div class="workshop_banner" style="background-color:#C00;">» <a href="http://www.catholicculture.org/culture/liturgicalyear/overviews/seasons/Christmas?utm_source=Catholic%2BCulture&amp;utm_medium=Text%2BBanner&amp;utm_campaign=Christmas%2BWorkshop">Visit Our Christmas Workshop</a></div>
 
 </div>
 
-
-<div style="padding: 5px 0px 0px 0px;">
-<a href="https://www.catholicculture.org/newsletters/?utm_source=Catholic%20Culture&amp;utm_medium=sidebar%20banner&amp;utm_campaign=Subscribe%20for%20Free%20"><img src="/images/banners/subscribe-for-free-v3.png" alt="Subscribe for free" title="Subscribe for free"></a> 
-</div>
 
 
 
@@ -626,40 +910,6 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1392330750017-0');
 <div id="copyright">Copyright © 2016 <a href="/about/trinity">Trinity Communications</a>. All rights reserved.</div>
 </div>
 </div>
-
-
-
-<!-- Quantcast Tag --> 
-<script type="text/javascript">
-  var _qevents = _qevents || [];
-
-  (function() {
-   var elem = document.createElement('script');
-
-   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + 
-              ".quantserve.com/quant.js";
-   elem.async = true;
-   elem.type = "text/javascript";
-   var scpt = document.getElementsByTagName('script')[0];
-   scpt.parentNode.insertBefore(elem, scpt);  
-  })();
-</script>
-<script type="text/javascript">
- _qevents.push([{
- qacct:"p-8vHSfVrnfFGe3", // Value of the Network operator's account ID, this stays static across sites 
- labels:"CatholicCulture" // Label attributed to network operators Quantcast Publisher profile 
- },
- { qacct:"p-hxBS0TkSHDB3v", // Individual blog owner's account ID 
- labels:"CatholicCulture" // Label attribtued to individual owner's Quantcast Publisher profile 
- }]);
- </script>
- <noscript>
-<div style="display:none;">
-<img src="//pixel.quantserve.com/pixel?a.1=p-8vHSfVrnfFGe3&a.2=p-hxBS0TkSHDB3v&labels=CatholicCulture" border="0" height="1" width="1" alt="Quantcast"/>
-</div>
-</noscript>
-<!-- End Quantcast tag -->
-
 
 
 
