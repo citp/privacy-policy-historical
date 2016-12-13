@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hbr.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617045034id_/https%3A//hbr.org/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hbr.org privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213201418id_/https%3A//hbr.org/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
