@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skillsurvey.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627185217id_/http%3A//www.skillsurvey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillsurvey.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213150841id_/http%3A//www.skillsurvey.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SkillSurvey
 
@@ -74,7 +74,7 @@ Special attention is appropriately given to website security and the overall sec
   * Use of Secure Socket Layer (SSL) to protect data in motion
   * Use of encryption to protect data at rest
   * Regular vulnerability scanning to identify new threats
-  * 24×7 monitoring and intrusion detection
+  * 24x7 monitoring and intrusion detection
 
 
 
@@ -92,7 +92,7 @@ Email: customerservice@skillsurvey.com
 
 The foregoing policies are effective as of March 25, 2016. SkillSurvey reserves the right to change this policy at any time. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-  * [Terms of Use](https://web.archive.org/web/20160627185217id_/http%3A//www.skillsurvey.com/skillsurvey-inc-terms-of-use/)
-  * [Service Level Agreement](https://web.archive.org/web/20160627185217id_/http%3A//www.skillsurvey.com/service-level-agreement/)
+  * [Terms of Use](https://web.archive.org/web/20161213150841id_/http%3A//www.skillsurvey.com/skillsurvey-inc-terms-of-use/)
+  * [Service Level Agreement](https://web.archive.org/web/20161213150841id_/http%3A//www.skillsurvey.com/service-level-agreement/)
 
 
