@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spark.co.nz privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609200711id_/http%3A//www.spark.co.nz/help/other/websiteprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spark.co.nz privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213082613id_/http%3A//www.spark.co.nz/help/other/websiteprivacypolicy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Spark NZ
 
@@ -6,7 +6,7 @@
 
 In this policy
 
-  * “our”, "we", “us” or "Spark" means Spark New Zealand Trading Limited or any related Spark Group company providing you with our services
+  * "our", "we", "us" or "Spark" means Spark New Zealand Trading Limited or any related Spark Group company providing you with our services
   * "you" means you, the person using our services, or visiting our website
   * "services" means all goods or services we provide and anything else we do for you, including providing you with access to our website
 
@@ -30,6 +30,15 @@ If you are just surfing and reading information on our website, then we collect 
 
 
 
+_If you're using Social sign in_
+
+  * your Facebook email address
+  * your unique Facebook ID
+  * your Google email address
+  * your unique Google ID
+
+
+
 _Spark customers_
 
 If you are a Spark customer, Spark's [Terms and Conditions](https://web.archive.org/help/other/terms/) apply to your use of Spark services. Choose the Terms and Conditions that refer to the Spark service you use. The relevant Terms and Conditions set out our commitments to you regarding collecting, holding and using information about you.
@@ -47,6 +56,13 @@ Although we may publish aggregated information about usage patterns, we do not d
 If you choose to provide us with personal information such as your email address, for example by filling out an electronic query or order form, we will use the information to communicate with you in relation to all the goods and services which we provide to you or which we consider might be of interest to you. This may include email marketing.
 
 Personal information will be stored and used in accordance with our [Terms and Conditions](https://web.archive.org/terms/).
+
+_Social sign on_
+
+  * We use a person’s name to personalise any messaging during the sign-in and store their name in the MySpark identity we create.
+  * We use the email address as the identifier for the MySpark identity as it is email based and needs a unique email address for each identity
+
+
 
 _Use of cookies for advertising and analytics_
 
@@ -100,13 +116,13 @@ If you feel that your email address has been used without your permission and co
 
 We may change this policy at any time by changing or removing existing terms or adding new ones. Changes may take the form of a completely new policy. We will tell you about any changes by posting an updated policy on our website. Any change we make applies from the date we post it on the website.
 
-If you have any questions about our website privacy policy [email us](http://store.spark.co.nz/forms/s/email-us-questions).
+If you have any questions about our website privacy policy [email us](http://store.spark.co.nz/forms/s/email-us-questions-business).
 
 ### 1. Definitions
 
 In this policy
 
-  * “our”, "we", “us” or "Spark" means Spark New Zealand Trading Limited or any related Spark Group company providing you with our services
+  * "our", "we", "us" or "Spark" means Spark New Zealand Trading Limited or any related Spark Group company providing you with our services
   * "you" means you, the person using our services, or visiting our website
   * "services" means all goods or services we provide and anything else we do for you, including providing you with access to our website
 
@@ -130,6 +146,15 @@ If you are just surfing and reading information on our website, then we collect 
 
 
 
+_If you're using Social sign in_
+
+  * your Facebook email address
+  * your unique Facebook ID
+  * your Google email address
+  * your unique Google ID
+
+
+
 _Spark customers_
 
 If you are a Spark customer, Spark's [Terms and Conditions](https://web.archive.org/help/other/terms/) apply to your use of Spark services. Choose the Terms and Conditions that refer to the Spark service you use. The relevant Terms and Conditions set out our commitments to you regarding collecting, holding and using information about you.
@@ -147,6 +172,13 @@ Although we may publish aggregated information about usage patterns, we do not d
 If you choose to provide us with personal information such as your email address, for example by filling out an electronic query or order form, we will use the information to communicate with you in relation to all the goods and services which we provide to you or which we consider might be of interest to you. This may include email marketing.
 
 Personal information will be stored and used in accordance with our [Terms and Conditions](https://web.archive.org/terms/).
+
+_Social sign on_
+
+  * We use a person’s name to personalise any messaging during the sign-in and store their name in the MySpark identity we create.
+  * We use the email address as the identifier for the MySpark identity as it is email based and needs a unique email address for each identity
+
+
 
 _Use of cookies for advertising and analytics_
 
@@ -200,13 +232,13 @@ If you feel that your email address has been used without your permission and co
 
 We may change this policy at any time by changing or removing existing terms or adding new ones. Changes may take the form of a completely new policy. We will tell you about any changes by posting an updated policy on our website. Any change we make applies from the date we post it on the website.
 
-If you have any questions about our website privacy policy [email us](http://store.spark.co.nz/forms/s/email-us-questions).
+If you have any questions about our website privacy policy [email us](http://store.spark.co.nz/forms/s/email-us-questions-business).
 
 ### 1. Definitions
 
 In this policy
 
-  * “our”, "we", “us” or "Spark" means Spark New Zealand Trading Limited or any related Spark Group company providing you with our services
+  * "our", "we", "us" or "Spark" means Spark New Zealand Trading Limited or any related Spark Group company providing you with our services
   * "you" means you, the person using our services, or visiting our website
   * "services" means all goods or services we provide and anything else we do for you, including providing you with access to our website
 
@@ -230,6 +262,15 @@ If you are just surfing and reading information on our website, then we collect 
 
 
 
+_If you're using Social sign in_
+
+  * your Facebook email address
+  * your unique Facebook ID
+  * your Google email address
+  * your unique Google ID
+
+
+
 _Spark customers_
 
 If you are a Spark customer, Spark's [Terms and Conditions](https://web.archive.org/help/other/terms/) apply to your use of Spark services. Choose the Terms and Conditions that refer to the Spark service you use. The relevant Terms and Conditions set out our commitments to you regarding collecting, holding and using information about you.
@@ -247,6 +288,13 @@ Although we may publish aggregated information about usage patterns, we do not d
 If you choose to provide us with personal information such as your email address, for example by filling out an electronic query or order form, we will use the information to communicate with you in relation to all the goods and services which we provide to you or which we consider might be of interest to you. This may include email marketing.
 
 Personal information will be stored and used in accordance with our [Terms and Conditions](https://web.archive.org/terms/).
+
+_Social sign on_
+
+  * We use a person’s name to personalise any messaging during the sign-in and store their name in the MySpark identity we create.
+  * We use the email address as the identifier for the MySpark identity as it is email based and needs a unique email address for each identity
+
+
 
 _Use of cookies for advertising and analytics_
 
@@ -300,4 +348,4 @@ If you feel that your email address has been used without your permission and co
 
 We may change this policy at any time by changing or removing existing terms or adding new ones. Changes may take the form of a completely new policy. We will tell you about any changes by posting an updated policy on our website. Any change we make applies from the date we post it on the website.
 
-If you have any questions about our website privacy policy [email us](http://store.spark.co.nz/forms/s/email-us-questions).
+If you have any questions about our website privacy policy [email us](http://store.spark.co.nz/forms/s/email-us-questions-business).
