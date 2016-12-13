@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swaminarayan.org privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515225039id_/http%3A//www.swaminarayan.org/contact/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swaminarayan.org privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213035136id_/http%3A//www.swaminarayan.org/contact/privacypolicy.htm) for the most accurate reproduction.*
 
 # www.swaminarayan.org - Privacy Policy
 
