@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the traveltriangle.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627190116id_/http%3A//traveltriangle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveltriangle.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213164802id_/http%3A//traveltriangle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TravelTriangle
 
-**TravelTriangle Privacy Policy**  
 We value the trust you place in TravelTriangle.com. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices. Note: Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically. 
 
   1. **Collection of Personally Identifiable Information**  
@@ -23,12 +22,8 @@ Our site has stringent security measures in place to protect the loss, misuse, a
   7. **Choice/Opt-Out**  
 TravelTriangle.com provides all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account. To remove your contact information from all TravelTriangle.com lists and newsletters, Please contact us at the address below. 
   8. **Questions?**  
-Questions regarding this statement should be directed to the following address: support@TravelTriangle.com 
+Questions regarding this statement should be directed to the following address: support@TravelTriangle.com
   9. **Advertisements on TravelTriangle.com**  
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
 
-
-### Contact Us
-
-[About Us](https://web.archive.org/aboutus)
