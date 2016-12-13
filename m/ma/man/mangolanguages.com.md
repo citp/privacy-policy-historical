@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangolanguages.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618183033id_/http%3A//www.mangolanguages.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangolanguages.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213051005id_/http%3A//mangolanguages.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
