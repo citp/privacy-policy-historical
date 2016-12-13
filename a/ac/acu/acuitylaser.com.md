@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acuitylaser.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516002319id_/http%3A//www.acuitylaser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuitylaser.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213173019id_/http%3A//www.acuitylaser.com/privacy-policy) for the most accurate reproduction.*
 
 # Acuity Laser's Website Privacy Policy
 
