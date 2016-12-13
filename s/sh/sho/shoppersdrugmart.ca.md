@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoppersdrugmart.ca privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628022812id_/http%3A//corporate.shoppersdrugmart.ca/en-ca/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppersdrugmart.ca privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213045140id_/http%3A//corporate.shoppersdrugmart.ca/en-ca/privacy-policy.aspx) for the most accurate reproduction.*
 
 # privacy-policy
 
