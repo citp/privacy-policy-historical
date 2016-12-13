@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimateplrfiresale.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323201531id_/http%3A//www.ultimateplrfiresale.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimateplrfiresale.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214001231id_/http%3A//www.ultimateplrfiresale.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,4 +27,4 @@ I will only disclose your personal information, with or without notice, if requi
 
 (a) Conform to the edicts of the law or comply with legal process served on UltimatePLRFiresale.com  
 (b) Protect and defend the rights or property of UltimatePLRFiresale.com;  
-(c) Act in urgent circumstances to protect the personal safety of users of UltimatePLRFiresale.com. 
+(c) Act in urgent circumstances to protect the personal safety of users of UltimatePLRFiresale.com.
