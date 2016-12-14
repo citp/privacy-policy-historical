@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the anime-planet.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615004303id_/http%3A//www.anime-planet.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anime-planet.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214152415id_/http%3A//www.anime-planet.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Anime-Planet
 
-## Effective as of December 2011
+### Effective as of December 2011
 
 This policy covers how Anime-Planet treats personal information that Anime-Planet collects and receives in connection with your use of the Anime-Planet website and related products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
 
