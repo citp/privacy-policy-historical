@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japanesematures.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052829id_/http%3A//www.japanesematures.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japanesematures.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214050050id_/http%3A//www.japanesematures.com/privacy) for the most accurate reproduction.*
 
 # JapaneseMatures.com - Privacy Statement
 
@@ -50,7 +50,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our websites at <http://www.japanesematures.com/terms>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our websites at <http://japanesematures.com/terms>
 
 **Your Consent**
 
