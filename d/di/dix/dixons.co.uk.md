@@ -1,166 +1,24 @@
-> *The following text is extracted and transformed from the dixons.co.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906002141id_/http%3A//www.currys.co.uk/gbuk/privacy-on-currys-321-commercial.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dixons.co.uk privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214183908id_/http%3A//www.currys.co.uk/gbuk/privacy-on-currys-321-commercial.html) for the most accurate reproduction.*
 
 # Cookie Guide & Privacy Information | Currys
 
-  * [Home](http://www.currys.co.uk/gbuk/index.html)
-  * [Kitchen Appliances](http://www.currys.co.uk/gbuk/household-appliances-35-u.html)
-    * [Laundry](http://www.currys.co.uk/gbuk/household-appliances/laundry-332-c.html)
-    * [Dishwashers](http://www.currys.co.uk/gbuk/household-appliances/dishwashing-350-c.html)
-    * [Refrigeration](http://www.currys.co.uk/gbuk/household-appliances/refrigeration-333-c.html)
-    * [Cooking](http://www.currys.co.uk/gbuk/household-appliances/cooking-335-c.html)
-    * Built-in appliances
-    * [Cookware and bakeware](http://www.currys.co.uk/gbuk/household-appliances/cookware-400-c.html)
-    * Brand shop
-    * Services
-    * [Buying for business?](http://www.currys.co.uk/gbuk/pc-world-business-1262-commercial.html?intcmp=business-nav-kitchen-appliances)
-  * [Small Appliances](http://www.currys.co.uk/gbuk/home-appliances-36-u.html)
-    * [Floorcare](http://www.currys.co.uk/gbuk/home-appliances/floorcare-337-c.html)
-    * [Ironing](http://www.currys.co.uk/gbuk/home-appliances/ironing-338-c.html)
-    * [Sewing machines](http://www.currys.co.uk/gbuk/home-appliances/sewing-machines/sewing-machines/470_4135_31889_xx_xx/xx-criteria.html)
-    * [Hair dryers](http://www.currys.co.uk/gbuk/home-appliances/health-beauty/hair-dryers/341_3189_30277_xx_xx/xx-criteria.html)
-    * [Small kitchen appliances](http://www.currys.co.uk/gbuk/household-appliances/small-kitchen-appliances-336-c.html)
-    * [Fans and heaters](http://www.currys.co.uk/gbuk/home-appliances/heating-and-cooling-339-c.html)
-    * [Microwaves](http://www.currys.co.uk/gbuk/household-appliances/cooking/microwaves/335_3152_32014_xx_xx/xx-criteria.html)
-    * Brand shops
-    * [Clearance](http://www.currys.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/-clearance-/xx-criteria.html)
-    * [Services](http://www.currys.co.uk/gbuk/care-plans-kitchen-appliances-279-commercial.html)
-    * [Buying for business?](http://www.currys.co.uk/gbuk/pc-world-business-1262-commercial.html?intcmp=business-nav-small-appliances)
-  * [TV & Entertainment](http://www.currys.co.uk/gbuk/tv-and-home-entertainment-31-u.html)
-    * [Televisions](http://www.currys.co.uk/gbuk/tv-and-home-entertainment/televisions-301-c.html)
-    * [TV accessories](http://www.currys.co.uk/gbuk/tv-and-home-entertainment/tv-accessories-302-c.html)
-    * [Digital and smart TV](http://www.currys.co.uk/gbuk/tv-and-home-entertainment/digital-and-smart-tv-304-c.html)
-    * [DVD, Blu-ray and home cinema](http://www.currys.co.uk/gbuk/tv-and-home-entertainment/dvd-blu-ray-and-home-cinema-303-c.html)
-    * [Gaming ](http://www.currys.co.uk/gbuk/tv-and-home-entertainment/gaming-430-c.html)
-    * [Projectors](http://www.currys.co.uk/gbuk/computing/projectors-570-c.html)
-    * Brand shops
-    * Learn more about
-    * [Clearance](http://www.currys.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/-clearance-/xx-criteria.html)
-    * [Services](http://www.currys.co.uk/gbuk/knowhow-tv-609-commercial.html)
-    * [Buying for business?](http://www.currys.co.uk/gbuk/pc-world-business-1262-commercial.html?intcmp=business-nav-tv-entertainment)
-  * [Cameras](http://www.currys.co.uk/gbuk/cameras-and-camcorders-38-u.html)
-    * [Cameras](http://www.currys.co.uk/gbuk/cameras-and-camcorders/digital-cameras-344-c.html)
-    * [Camcorders](http://www.currys.co.uk/gbuk/cameras-and-camcorders/camcorders-347-c.html)
-    * [CCTV](http://www.currys.co.uk/gbuk/cctv/smart-tech/smart-home/smart-home-cameras-and-cctv/551_4281_32081_xx_ba00010914-bv00308842/xx-criteria.html)
-    * [Bags, cases and straps](http://www.currys.co.uk/gbuk/cameras-and-camcorders/photography-accessories/camera-bags-and-cases/346_3205_30307_xx_xx/xx-criteria.html)
-    * [Memory cards and readers](http://www.currys.co.uk/gbuk/cameras-and-camcorders/photography-accessories/memory-cards-and-readers/346_3295_31023_xx_xx/xx-criteria.html)
-    * [Photography accessories](http://www.currys.co.uk/gbuk/cameras-and-camcorders/photography-accessories-346-c.html)
-    * Brand shops
-    * Learn more about
-    * [Clearance](http://www.currys.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/-clearance-/xx-criteria.html)
-    * [Services](http://www.currys.co.uk/gbuk/care-plans-cameras-camcorders-318-commercial.html)
-    * [Buying for business?](http://www.currys.co.uk/gbuk/pc-world-business-1262-commercial.html?intcmp=business-nav-cameras)
-  * [Audio](http://www.currys.co.uk/gbuk/audio-and-headphones-32-u.html)
-    * [All audio](http://www.currys.co.uk/gbuk/audio-and-headphones-32-u.html)
-    * [Hi-Fi and speaker docks](http://www.currys.co.uk/gbuk/audio-and-headphones/audio/hifi-systems-and-speakers/550_4278_31971_xx_xx/xx-criteria.html)
-    * [Headphones](http://www.currys.co.uk/gbuk/audio-and-headphones/headphones-291-c.html)
-    * [Radios](http://www.currys.co.uk/gbuk/audio-and-headphones/audio/radios/550_4276_31970_xx_xx/xx-criteria.html)
-    * [Portable audio](http://www.currys.co.uk/gbuk/audio-and-headphones/audio/ipods-and-mp3-players/550_4275_31953_xx_xx/xx-criteria.html)
-    * [iPods](http://www.currys.co.uk/gbuk/audio-and-headphones/audio/ipods-and-mp3-players/550_4275_31953_xx_xx/xx-criteria.html)
-    * [Dictaphones](http://www.currys.co.uk/gbuk/computing-accessories/office-supplies/dictaphones/510_4424_32068_xx_xx/xx-criteria.html)
-    * [Sat nav](http://www.currys.co.uk/gbuk/phones-broadband-and-sat-nav/sat-nav-403-c.html)
-    * Brand shops
-    * [Clearance](http://www.currys.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/-clearance-/xx-criteria.html)
-    * Services
-    * [Buying for business?](http://www.currys.co.uk/gbuk/pc-world-business-1262-commercial.html?intcmp=business-nav-audio)
-  * [Computing](http://www.currys.co.uk/gbuk/computing-33-u.html)
-    * [Laptops](http://www.currys.co.uk/gbuk/computing/laptops-315-c.html)
-    * [iPad, Tablets & eReaders](http://www.currys.co.uk/gbuk/computing/tablets-and-ereaders-149-c.html)
-    * [Desktop PCs](http://www.currys.co.uk/gbuk/computing/desktop-pcs-317-c.html)
-    * [PC monitors](http://www.currys.co.uk/gbuk/computing/pc-monitors/pc-monitors/354_3057_30059_xx_xx/xx-criteria.html)
-    * [Projectors](http://www.currys.co.uk/gbuk/computing/projectors-570-c.html)
-    * [Printers, scanners and ink](http://www.currys.co.uk/gbuk/computing-accessories/printers-scanners-and-ink-319-c.html)
-    * Brand shops
-    * Learn more about
-    * [Clearance](http://www.currys.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/-clearance-/xx-criteria.html)
-    * [Services](http://www.currys.co.uk/gbuk/knowhow-computing-607-commercial.html)
-    * [Buying for business](http://www.currys.co.uk/gbuk/pc-world-business-1262-commercial.html?intcmp=business-nav-computing)
-  * [PC Accessories](http://www.currys.co.uk/gbuk/computing-accessories-40-u.html)
-    * [Printers, scanners and ink](http://www.currys.co.uk/gbuk/computing-accessories/printers-scanners-and-ink-319-c.html)
-    * [Computer accessories](http://www.currys.co.uk/gbuk/computing-accessories/computer-accessories-318-c.html)
-    * [Laptop bags and cases](http://www.currys.co.uk/gbuk/computing-accessories/computer-accessories/laptop-bags-and-cases/318_3059_30067_xx_xx/xx-criteria.html)
-    * [PC gaming Accessories](http://www.currys.co.uk/gbuk/pc-gaming-1150-commercial.html)
-    * [Data storage](http://www.currys.co.uk/gbuk/computing-accessories/data-storage-355-c.html)
-    * [Components & upgrades](http://www.currys.co.uk/gbuk/computing-accessories/components-upgrades-324-c.html)
-    * [Software](http://www.currys.co.uk/gbuk/computing-accessories/software-323-c.html)
-    * [Networking](http://www.currys.co.uk/gbuk/computing-accessories/networking-321-c.html)
-    * Brand shops
-    * Learn more about
-    * [Knowhow services](http://www.currys.co.uk/gbuk/other-knowhow-services-1941-theme.html)
-    * [Clearance](http://www.currys.co.uk/gbuk/search-keywords/xx_xx_xx_xx_xx/-clearance-/xx-criteria.html)
-    * [Buying for business](http://www.currys.co.uk/gbuk/pc-world-business-1262-commercial.html?intcmp=business-nav-pcaccessories)
-  * [Phones](http://www.currys.co.uk/gbuk/phones-broadband-and-sat-nav/mobile-phones-and-accessories/mobile-phones/362_3412_32041_xx_xx/xx-criteria.html)
-    * [Mobile phones](http://www.currys.co.uk/gbuk/phones-broadband-and-sat-nav/mobile-phones-and-accessories/mobile-phones/362_3412_32041_xx_xx/xx-criteria.html)
-    * [Mobile phone accessories](http://www.currys.co.uk/gbuk/phones-broadband-and-sat-nav/mobile-phones-and-accessories/mobile-accessories/362_3413_32042_xx_xx/xx-criteria.html)
-    * [Home phones](http://www.currys.co.uk/gbuk/phones-broadband-and-sat-nav/telephones-343-c.html)
-    * [Fax machines](http://www.currys.co.uk/gbuk/phones-broadband-and-sat-nav/telephones/fax-machines/343_3196_32043_xx_xx/xx-criteria.html)
-    * [Sat nav](http://www.currys.co.uk/gbuk/phones-broadband-and-sat-nav/sat-nav-403-c.html)
-    * [Smart tech](http://www.currys.co.uk/gbuk/smart-tech/smart-tech-551-c.html)
-    * Brand shops
-    * Learn more about
-  * [Smart Tech](http://www.currys.co.uk/gbuk/smart-tech/smart-tech-551-c.html)
-    * [Smart watches and fitness](http://www.currys.co.uk/gbuk/smart-tech/smart-tech/smart-watches-and-fitness-4338-m.html)
-    * [Smart phones](http://www.currys.co.uk/gbuk/phones-broadband-and-sat-nav/mobile-phones-and-accessories/mobile-phones/362_3412_32041_xx_xx/xx-criteria.html)
-    * [Drones](http://www.currys.co.uk/gbuk/drones/smart-tech/smart-toys-and-gadgets/smart-toys/551_4376_31989_xx_ba00010927-bv00308854/xx-criteria.html)
-    * [Smart home](http://www.currys.co.uk/gbuk/smart-tech/smart-tech/smart-home-4281-m.html)
-    * [Smart toys](http://www.currys.co.uk/gbuk/smart-tech/smart-tech/smart-toys-and-gadgets/smart-toys/551_4376_31989_xx_xx/xx-criteria.html)
-    * [Sat nav](http://www.currys.co.uk/gbuk/phones-broadband-and-sat-nav/sat-nav-403-c.html)
-    * Brand shops
-    * Learn more about
-
-
-
-  * [](http://www.currys.co.uk/gbuk/index.html "Home")
-  * [ Kitchen Appliances](http://www.currys.co.uk/gbuk/household-appliances-35-u.html)
-  * [ Small Appliances](http://www.currys.co.uk/gbuk/home-appliances-36-u.html)
-  * [ TV & Entertainment](http://www.currys.co.uk/gbuk/tv-and-home-entertainment-31-u.html)
-  * [ Cameras](http://www.currys.co.uk/gbuk/cameras-and-camcorders-38-u.html)
-  * [ Audio](http://www.currys.co.uk/gbuk/audio-and-headphones-32-u.html)
-  * [ Computing](http://www.currys.co.uk/gbuk/computing-33-u.html)
-  * [ PC Accessories](http://www.currys.co.uk/gbuk/computing-accessories-40-u.html)
-  * [ Phones](http://www.currys.co.uk/gbuk/phones-broadband-and-sat-nav/mobile-phones-and-accessories/mobile-phones/362_3412_32041_xx_xx/xx-criteria.html)
-  * [ Smart Tech](http://www.currys.co.uk/gbuk/smart-tech/smart-tech-551-c.html)
-
-
-
 ## Privacy & Cookies
 
-  * What are Cookies?
-  *  
-  * Currys & Cookies
-  *  
-  * Cookie Control
-  *  
-  * Advertising
-  *  
-  * Privacy on Currys
+### What are Cookies
 
+When you are browsing websites on the internet, many of these websites store tiny text files called cookies on your computer, to help track your use of the site and to personalise your journey around the website. These cookies can be stored so that if you return to a website, that website server can call the information from the cookies stored on your computer to tailor your experience of the site.
 
-
-### The Ingredients of a Cookie
-
-  
-
-
-When you are browsing websites on the internet, many of these websites store tiny text files called cookies on your computer, to help track your use of the site and to personalise your journey around the website. These cookies can be stored so that if you return to a website, that website server can call the information from the cookies stored on your computer to tailor your experience of the site. 
-
-Currys.co.uk is no different, we use cookies to help you shop our website more effectively and to place online orders - we do not store personally identifiable information in our cookie data. We also use some carefully selected 3rd party suppliers to enhance your online experience and they will place cookies on your computer for use on our website too. 
+Currys.co.uk is no different, we use cookies to help you shop our website more effectively and to place online orders - we do not store personally identifiable information in our cookie data. We also use some carefully selected 3rd party suppliers to enhance your online experience and they will place cookies on your computer for use on our website too.
 
 Cookies are perfectly safe to be stored on your computer and almost all web browsers have cookie storing enabled as default. However, all browsers have the option of disabling cookies being stored on your computer if you wish to do this.
 
-Please be aware that disabling cookies on your browser will reduce your ability to shop online with Currys.co.uk. We use cookies to process products in your basket and orders. Disabling your cookies will mean you cannot purchase through our website. This would also be a common experience of reduced functionality across many websites. 
+Please be aware that disabling cookies on your browser will reduce your ability to shop online with Currys.co.uk. We use cookies to process products in your basket and orders. Disabling your cookies will mean you cannot purchase through our website. This would also be a common experience of reduced functionality across many websites.
 
-To learn about how change the cookie settings for your browser on our Cookie Control page. 
+Recent legislation from the European Union has meant that websites must provide clear information about their use of cookies to their customers, something we at Currys fully support. We want to ensure that you, as our valued customer, are fully aware of the use of cookies on our website, and we are proud of our reputation as a transparent and honest retailer that you can trust.
 
-Recent legislation from the European Union has meant that websites must provide clear information about their use of cookies to their customers, something we at Currys fully support. We want to ensure that you, as our valued customer, are fully aware of the use of cookies on our website, and we are proud of our reputation as a transparent and honest retailer that you can trust. 
+Currys & Cookies
 
-[ ](http://www.adobe.com/go/getreader)
-
-### Currys & Cookies
-
-  
-
-
-We want to make sure you are fully aware of the cookies we use and what they do when you are shopping on Currys.co.uk. 
+We want to make sure you are fully aware of the cookies we use and what they do when you are shopping on Currys.co.uk.
 
 Here is a full guide to our cookies explaining the name of the cookie as it would appear on your computer, a description of what the cookie is used for and a rating from our technical teams on level of information held:
 
@@ -196,6 +54,10 @@ Affiliate Window cookies are marked awXXXX where XXXX is the ID of the website r
 Further information provided in terms of guidance from Affiliate Window in the document below.
 
 [Download AWIN The ePrivacy Directive FAQs PDF](http://currys.cdn.dixons.com/grafx/gb/uk/promotions/pdf/AWIN_ePrivacy_Directive_FAQs.pdf)  
+Flixmedia | 
+
+Flixmedia is one of our approved suppliers that deliver enriched product content such as images and text to product pages on our website. They use cookies to ensure this content loads quickly on product pages and collect views and clicks from this content. Flixmedia does not collect any personally identifiable information. Flixmedia cookies are set to expire after a maximum of 12 months. Please refer to <http://flixmedia.eu/privacy-policy/> for full details.  
+  
 SaleCycle | 
 
 SaleCycle collect information to enable us to send bespoke service emails to customers that cannot complete their checkout journey. To opt out of SaleCycle tracking, please visit: 
@@ -270,28 +132,21 @@ TouchCommerce Live Chat | TouchCommerce is our live chat supplier, which uses th
 
 The inqState cookie is a persistent cookie used to track state-related customer information, such as whether the customer has visited the site before and how much time the customer has spent browsing our site. The inqSession cookie is a session cookie that tracks events, such as when customers navigate to other pages, when a customer interacts with one of our chat agents, and when an agent interacts with one of our customers. Lastly, the inqVital cookie is a persistent cookie which contains vital information associated with the chat itself, such as the customer ID and the status of the chat.  
   
-These are all the cookies currently used by our website and our approved suppliers. Hopefully it is clear that all of our cookies are used ultimately to improve the journey for our customers online or to help us present a better website experience online. 
+Cookie control
 
-If you feel you would like to change your personal interaction with cookies, you can adjust storage of cookies settings through your web browser by checking out our Cookie Control page. 
+Cookies should be enabled by default on your browser, so if you have not changed your settings you should expect to be accepting cookies from websites.
 
-_**Please be aware** _ disabling cookies will severely limit your ability to shop on Currys.co.uk and disable features of many websites across the internet. 
+Cookies being disabled will limit your experience of Currys.co.uk and many other websites online. Remember, cookies are not harmful to your computer and our cookies on Currys.co.uk do not contain any personally identifiable information. If you wish to change your cookie settings we have provided a guide below for you. Please remember, if you do disable your cookies, you can allow cookies from certain approved websites, by adding the website homepage to your exceptions list.
 
-**Sharing our pages online**
+First, find out what your default web browser is on your machine, or the browser you use most often to access the internet. To work out what browser you are using, simply open the internet as usual, and then follow the steps below:
 
-On Currys.co.uk you are able to share certain pages with your friends and networks through 3rd party sites such as [Facebook](https://www.facebook.com/help/?page=176591669064814) , [Twitter](https://twitter.com/privacy) and [Google+](http://www.google.com/intl/en/policies/) . If you choose to share via these networks, you may have cookies from these networks stored on your computer. These cookies are not something we control and are sent to you by the 3rd party site you share through – click the links above to learn about the network’s policy on privacy and cookies.
+#### PC Users
 
-### Cookies Control
+On the tool bar at the top of your browser click 'Help' and choose the 'About' option from the drop down. This will tell you the browser type and version.
 
-Cookies should be enabled by default on your browser, so if you have not changed your settings you should expect to be accepting cookies from websites. 
+#### Mac Users
 
-Cookies being disabled will limit your experience of Currys.co.uk and many other websites online. Remember, cookies are not harmful to your computer and our cookies on Currys.co.uk do not contain any personally identifiable information. If you wish to change your cookie settings we have provided a guide below for you. Please remember, if you do disable your cookies, you can allow cookies from certain approved websites, by adding the website homepage to your exceptions list. 
-
-First, find out what your default web browser is on your machine, or the browser you use most often to access the internet. To work out what browser you are using, simply open the internet as usual, and then follow the steps below:   
-v **PC Users**   
-On the tool bar at the top of your browser click 'Help' and choose the 'About' option from the drop down. This will tell you the browser type and version. 
-
-**Mac Users**   
-Open the internet as usual and once open, click on the Apple icon in the top left corner and choose the 'About' option. This will again tell you the browser type and version. 
+Open the internet as usual and once open, click on the Apple icon in the top left corner and choose the 'About' option. This will again tell you the browser type and version.
 
 Once you know the browser you are using you can find the cookie settings using the guide below relevant for your browser:
 
@@ -381,89 +236,105 @@ You can visit the following website for an in-depth guide to cookies and how to 
 
 <http://www.aboutcookies.org/>  
   
-### Banner Advertising & Tags
+Advertising
 
-In addition to the list of cookies that we use on Currys, we wanted to take you through our use of advertising tags. We use tags from 3rd party suppliers dedicated to helping us improve the relevance of our advertising banners, both on our website and across the web where we have advertisements on other websites. Our advertising policy is designed to give you the most relevant adverts possible, based on your previous visits to our website and the things you looked at and/or added to your basket, so we can build a profile of what we think you might like to see on our website next time you visit. A tag is simply a way for us to identify if a specific page was viewed by a customer and use that information to form a more accurate advertising strategy. 
+In addition to the list of cookies that we use on Currys, we wanted to take you through our use of advertising tags. We use tags from 3rd party suppliers dedicated to helping us improve the relevance of our advertising banners, both on our website and across the web where we have advertisements on other websites. Our advertising policy is designed to give you the most relevant adverts possible, based on your previous visits to our website and the things you looked at and/or added to your basket, so we can build a profile of what we think you might like to see on our website next time you visit. A tag is simply a way for us to identify if a specific page was viewed by a customer and use that information to form a more accurate advertising strategy.
 
-Many online businesses work with such partners as ours below in order to improve and personalise the experience their customers have of their website and brand advertising online. All reputable companies, such as those we choose to work with, have very strict policies around your privacy and the information captured. They do not collect any information that can personally identify you in any way. Almost all of these tracking tags can be disabled or opted out of. A website dedicated to helping you understand what networks currently use tracking tags on your machine is: 
+Many online businesses work with such partners as ours below in order to improve and personalise the experience their customers have of their website and brand advertising online. All reputable companies, such as those we choose to work with, have very strict policies around your privacy and the information captured. They do not collect any information that can personally identify you in any way. Almost all of these tracking tags can be disabled or opted out of. A website dedicated to helping you understand what networks currently use tracking tags on your machine is:
 
 <http://www.youronlinechoices.com/uk/your-ad-choices>
 
-Here you can see the companies that gather information for advertising online and choose to turn off their tracking if you wish. Please not we are not responsible for the content or activity of this website. 
+Here you can see the companies that gather information for advertising online and choose to turn off their tracking if you wish. Please not we are not responsible for the content or activity of this website.
 
 Below we have listed the 3rd Party companies that use tags on our website and across the web to serve our adverts to you, our customers, with steps to disable their tracking if you wish to opt-out of their service:
 
-ADGENIE
+* * *
 
-ADGENIE collect information to serve more targeted adverts to our customers around the web. They do not store any personally identifiable information. To opt out of ADGENIE tracking, visit 
+### ADGENIE
+
+ADGENIE collect information to serve more targeted adverts to our customers around the web. They do not store any personally identifiable information. To opt out of ADGENIE tracking, visit
 
 <http://adverts.adgenie.co.uk/trackerOptOut.php>
 
 This will drop a persistent cookie on your machine, blocking the use of tracking. If you delete this cookie, the tracking will resume.
 
-Criteo
+* * *
 
-Criteo use information gathered from our customer’s use of our site to show more relevant adverts to you on other websites where we advertise. They do not collect any personally identifiable information from customers. To opt out of Criteo ad tracking, visit 
+### Criteo
+
+Criteo use information gathered from our customer’s use of our site to show more relevant adverts to you on other websites where we advertise. They do not collect any personally identifiable information from customers. To opt out of Criteo ad tracking, visit
 
 <http://www.criteo.com/us/privacy-policy>
 
 Then click on the Opt-out switch and change it to ‘On’. This will drop a cookie on your machine to remove the use of their tracking. If you delete this cookie, the tracking will resume.
 
-MediaPlex
+* * *
 
-MediaPlex gather information to serve targeted advertisements to our customers online, just as Criteo and ADGENIE do. Again, they do not gather any personally identifiable information. To opt out of MediaPlex tracking please visit: 
+### MediaPlex
 
-<http://www.mediaplex.com/opt-out>
+MediaPlex gather information to serve targeted advertisements to our customers online, just as Criteo and ADGENIE do. Again, they do not gather any personally identifiable information. To opt out of MediaPlex tracking please visit:
 
-Click on ‘Install the MediaPlex Opt-Out Cookie. This will install a cookie to disable tracking from MediaPlex. If you delete this cookie, the tracking will resume.
+[http://www.mediaplex.com/opt-out](http://www.criteo.com/us/privacy-policy)
 
-MediaMind 
+lick on ‘Install the MediaPlex Opt-Out Cookie. This will install a cookie to disable tracking from MediaPlex. If you delete this cookie, the tracking will resume.
 
-MediaMind install a cookie to enable advertisement personalisation online for our customers. To opt out of their advertisement tracking please visit: 
+* * *
 
-<http://www.mediamind.com/privacy-policy>
+### MediaMind
+
+MediaMind install a cookie to enable advertisement personalisation online for our customers. To opt out of their advertisement tracking please visit:
+
+[http://www.mediamind.com/privacy-policy](http://www.criteo.com/us/privacy-policy)
 
 Scroll down to The Opt-Out Cookie & Your Choices section and click on the relevant link to opt out of their tracking. This will install a cookie to block the tracking of your activity online by MediaMind. If you delete this cookie, the tracking will resume.
 
-Quantcast
+* * *
 
-Quantcast help to develop our audience for retargeting by tracking customer visits to our pages and compiling a list of our customers that can be retargeted with more personalised ads. No personally identifiable information is captured. If you would like to opt-out of Quantcast tracking, please visit: 
+### Quantcast
 
-<http://www.quantcast.com/how-we-do-it/consumer-choice/opt-out/>
+Quantcast help to develop our audience for retargeting by tracking customer visits to our pages and compiling a list of our customers that can be retargeted with more personalised ads. No personally identifiable information is captured. If you would like to opt-out of Quantcast tracking, please visit:
+
+[http://www.quantcast.com/how-we-do-it/consumer-choice/opt-out/](http://www.criteo.com/us/privacy-policy)
 
 This will drop a cookie on your computer to stop the Quantcast tracking on your computer. If you delete this cookie, the tracking will resume.
 
-AudienceScience
+* * *
 
-AudienceScience help us develop a better understanding for customer behaviour on our website and improve our overall experience for customers viewing our advertising banners online. They do not gather any personally identifiable information. If you wish to opt-out of AudienceScience tracking, please visit: 
+### AudienceScience
 
-<http://www.audiencescience.com/privacy>
+AudienceScience help us develop a better understanding for customer behaviour on our website and improve our overall experience for customers viewing our advertising banners online. They do not gather any personally identifiable information. If you wish to opt-out of AudienceScience tracking, please visit:
+
+[http://www.audiencescience.com/privacy](http://www.criteo.com/us/privacy-policy)
 
 Then click the link to opt-out. This will drop a cookie that will stop the tracking of your activity by AudienceScience. If you delete this cookie, the tracking will resume.
 
-### Privacy on Currys
+Privacy on Currys
 
-Is shopping online with Currys safe?
+### Is shopping online with Currys safe?
 
-At Currys, we care about security and make every effort to ensure our transaction process is safe and that your personal information is secure. 
+At Currys, we care about security and make every effort to ensure our transaction process is safe and that your personal information is secure.
 
-We can assure you that every order you make on our website is safe. We use strict security precautions to make our website safe, including the use of a Secure Socket Layer (SSL) server. Any information you enter while you're using the secure server is encrypted before being transmitted, so it is virtually impossible for an outside party to access or intercept your information. 
+We can assure you that every order you make on our website is safe. We use strict security precautions to make our website safe, including the use of a Secure Socket Layer (SSL) server. Any information you enter while you're using the secure server is encrypted before being transmitted, so it is virtually impossible for an outside party to access or intercept your information.
 
-You can check that you are shopping in a secure environment by looking for either a locked padlock icon or an image of a key in the bar at the bottom of your screen. Additionally, your web address should start with https: - the ‘s’ indicating it is a secure page. This should appear on any page where you are entering personal information, such as your payment card details. 
+You can check that you are shopping in a secure environment by looking for either a locked padlock icon or an image of a key in the bar at the bottom of your screen. Additionally, your web address should start with https: - the ‘s’ indicating it is a secure page. This should appear on any page where you are entering personal information, such as your payment card details.
 
 The latest versions of the most popular browsers, Internet Explorer, Chrome, Safari and Firefox support this secure connection. If for any reason this option has been disabled on your browser, you will not be able to transact or login until you reset these options. Find this option in your browser settings under security.
 
-How do you protect my credit card details and personal information?
+* * *
 
-Our website is verified by Norton Secure, powered by Verisign to protect your personal data. Your payment methods are also covered through MasterCard Secure Code or Verified by Visa. 
+### How do you protect my credit card details and personal information?
 
-For your additional security and to protect your personal information we request that you enter your password each time you wish to view a page containing your personal details. 
+Our website is verified by Norton Secure, powered by Verisign to protect your personal data. Your payment methods are also covered through MasterCard Secure Code or Verified by Visa.
 
-You can enrol your card in MasterCard SecureCode or Verified by Visa scheme if you are not already a part of them. You will be able to set a private code for online transactions, giving you added protection against the unauthorised use of your credit or debit card online. 
+For your additional security and to protect your personal information we request that you enter your password each time you wish to view a page containing your personal details.
+
+You can enrol your card in MasterCard SecureCode or Verified by Visa scheme if you are not already a part of them. You will be able to set a private code for online transactions, giving you added protection against the unauthorised use of your credit or debit card online.
 
 The full details of our Privacy Policy are below in our official Privacy Policy. This policy will explain all about what information we collect from you, how we use that information and your rights around retrieving or removing any information we hold in relation to you, as well as our complete guide to the use of cookies on our website.
 
-Our Privacy Policy
+* * *
+
+### Our Privacy Policy
 
 Last updated: 07.08.2012
 
@@ -475,53 +346,69 @@ Last updated: 07.08.2012
 
 
 
-Who we are
+* * *
 
-In this Privacy Policy references to ‘we’ and ‘us’ are to DSG Retail Limited trading as Currys, PC World and Knowhow, company number 504877, registered office Maylands Avenue, Hemel Hempstead, Hertfordshire HP2 7TG.
+### Who we are
 
-What information we collect and how
+In this Privacy Policy references to ‘we’ and ‘us’ are to DSG Retail Limited trading as Currys, PC World and Knowhow, company number 504877, registered office 1 Portal Way, London, W3 6RS.
+
+* * *
+
+### What information we collect and how
 
 The information we collect via this website may include:
 
-(1) Any personal details you type in and submit, such as name, address, email address, etc. We only collect information that we require for completion of orders and account set up. We never store payment details on the websites. 
+(1) Any personal details you type in and submit, such as name, address, email address, etc. We only collect information that we require for completion of orders and account set up. We never store payment details on the websites.
 
-(2) Data which allows us to recognise you, your preferences (including items added to your basket) and how you use this website. This saves you from re-entering information when you return to the site. This data is collected by cookies from your navigation around the site. A complete guide to our cookies policy and how to control cookies on your computer can be found [here](http://www.currys.co.uk/gbuk/privacy-on-currys-321-commercial.html#tab-2) . 
+(2) Data which allows us to recognise you, your preferences (including items added to your basket) and how you use this website. This saves you from re-entering information when you return to the site. This data is collected by cookies from your navigation around the site. A complete guide to our cookies policy and how to control cookies on your computer can be found here .
 
-(3) Your IP address (this is your computer’s individual identification number) which is automatically logged by our web server. This is used to note your interest in our website and your location (e.g. county/city) for our site analytics. 
+(3) Your IP address (this is your computer’s individual identification number) which is automatically logged by our web server. This is used to note your interest in our website and your location (e.g. county/city) for our site analytics.
 
 (4) Your preferences and use of email updates, recorded by emails we send you (if you select to receive email updates on products and offers).
 
-What we do with your information
+* * *
 
-Any personal information we collect from you will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details we collect will be used: 
+### What we do with your information
 
-(1) to process your order, to process any application for finance or a mobile phone contract etc, to maintain guarantee records and to provide pre and after-sales service (we may pass your details to another organisation to supply/deliver products or services you have purchased and/or to provide pre or after-sales service). We make use of the TouchCommerce system to provide our web chat functionality. Data provided via web chat may be stored on servers based in the United States under a "safe harbour agreement". This means that the data will be managed to similar standards to those required under UK Data Protection legislation; and 
+Any personal information we collect from you will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details we collect will be used:
 
-(2) to carry out security checks (this may involve passing your details to our Identity Verification partner, currently 192.com, who will check details we give them against public and private databases - this helps to protect you and us from fraudulent transactions); and 
+(1) to process your order, to process any application for finance or a mobile phone contract etc, to maintain
 
-(3) to comply with legal requirements   
-We are a subsidiary of Dixons Carphone plc and we may need to pass the information we collect to other companies within our group for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use our site and issuing our emails for us. 
+guarantee records and to provide pre and after-sales service (we may pass your details to another organisation to supply/deliver products or services you have purchased and/or to provide pre or after-sales service). We make use of the TouchCommerce system to provide our web chat functionality. Data provided via web chat may be stored on servers based in the United States under a "safe harbour agreement". This means that the data will be managed to similar standards to those required under UK Data Protection legislation; and
+
+(2) to carry out security checks (this may involve passing your details to our Identity Verification partner, currently 192.com, who will check details we give them against public and private databases - this helps to protect you and us from fraudulent transactions); and
+
+(3) to comply with legal requirements We are a subsidiary of Dixons Carphone plc and we may need to pass the information we collect to other companies within our group for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use our site and issuing our emails for us.
 
 We would also like to inform you of various promotions, goods and services that may be of interest to you. These would come from any of our chains, including Currys, PC World, Carphone Warehouse and Knowhow, from our affiliates, or from carefully selected third parties. You may be contacted by post, email, telephone, SMS or such other means as we regard as appropriate, including new technology. If you wish to receive these communications, please tick the ‘Yes’ box when entering your personal details. You may unsubscribe at a later date, if you wish - ‘Your rights’ section below.
 
-Your rights
+* * *
 
-(1) You can ask us to update your personal information by emailing precise details of your request to [customer.services@currys.co.uk](mailto:customer.services@currys.co.uk) .
+### How can I see a copy of the information you hold about me?
 
-(2) You can ask us not to send you future marketing communications. To do this, simply click this [link](https://dixonsregistration.co.uk/permoptout/?referrer=3) and submit your details.
+#### The Data Protection Act (DPA) gives you the right to see personal information we hold about you. If you want copies of this information, please send us a written request with the following:
 
-We will then suppress your data from all direct marketing, although we will still keep it for processing your order and fulfilling customer service and after sale obligations. Alternatively, you can post your request to the address in (3) below.
+  * Your full name and address
+  * Your account number
+  * A cheque for £10 (admin charge) made payable to Dixons Carphone 
+  * Details of any specific information you require 
+  * One proof of identity - we can accept a photocopy of either your passport or your driver's licence
+  * One proof of identity of address - we can accept a photocopy of a recent credit or debit card statement, a utility bill showing the same name and address as on your account.
 
-(3) You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address. Please enclose a cheque for £10 payable to DSG Retail Limited to cover our administration costs and proof of ID such as a copy of your driving licence or a recent utility bill:
 
-Subject Access Request   
-Legal Services  
-DSG Retail Limited  
-Maylands Avenue  
-Hemel Hempstead  
-Hertfordshire  
-HP2 7TG
 
-Other Websites
+##### Do not send original documentation as we cannot guarantee the safe receipt or return of these.
 
-This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours.
+Please send your written request, cheque and proof of identity and address to:
+
+Dixons Carphone  
+Data Protection Officer  
+PO Box 375  
+Southampton  
+SO30 2PU
+
+We recommend you send your request by Recorded Delivery but this is not compulsory. Please note that we do not take online payments.
+
+##### What happens next?
+
+Once we receive your request, along with your cheque and proof of identity, we'll get back to you within 40 days.
