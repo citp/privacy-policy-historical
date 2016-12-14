@@ -1,63 +1,82 @@
-> *The following text is extracted and transformed from the brightsign.biz privacy policy that was archived on 2012-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120923092710id_/http%3A//www.brightsign.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightsign.biz privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214122435id_/https%3A//www.brightsign.biz/about/privacy-policy) for the most accurate reproduction.*
 
-# Roku - Privacy Policy
+# Privacy Policy – BrightSign Support
 
-## Privacy Policy (updated July 2008)
+**Effective as of July 1, 2014**
 
-This Privacy Policy statement describes our practices regarding how information we collect on the Roku Web sites and via Roku products ("Roku Devices") is used and shared with third parties. By visiting the Roku Web sites or using Roku Devices, you accept the practices described in this statement. This statement applies to anonymous data and personal information collected at the Roku Web sites and via Roku Devices. This statement also applies to personally identifiable customer information collected in connection with the sale, support and use of Roku Products.
+### OUR POLICY
 
-### Part I. Information Collection
+Welcome to the web site (the “ **Site** ”) of BrightSign, LLC (“ **BrightSign** ”, “ **we** ”, “ **us** ” and/or “ **our** ”).  This Site is operated by BrightSign and has been created to provide information about our company and its products and services, including its cloud-based services (the “ **Products** ”) to you as a visitor to our Site or user of our Products (“ **you** ” and/or “ **your** ”).  This Privacy Policy sets forth BrightSign’s policy with respect to information, including personally identifiable data (“ **Personal Data** ”), that is collected from visitors to the Site and users of the Products.
 
-Roku collects both anonymous and personally identifiable information through our Web sites and Roku Devices. This information is used to effect e-commerce transactions, provide customer service and support, and to ensure that Roku products and services effectively deliver high-quality experiences.
+### INFORMATION WE COLLECT
 
-Roku Web sites collect personally identifiable information at several points, including processes associated with e-commerce, product registration, account creation and e-mail opt-in. Visitors may voluntarily provide (and we will collect) information including: name, email address, billing and shipping information, product purchase information, and product registration information.
+When you interact with us through our Site or Products, we may collect Personal Data and other information from you, as further described below:
 
-We also collect the personal information of third parties that is provided by visitors who submit that personal data through our Web sites, in connection with, for example, referrals or gift purchases.
+**Personal Data That You Provide Through the Site or Products** : We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, purchase a Product, register your Product or otherwise use certain Products.  In addition, when you access or use a Product we may collect metrics on your activities, such as web pages visited, length of visit, and which features of our product you use.  In order to have access to certain Products and/or to purchase certain items, you may be required to provide credit card detail or other acceptable payment information.  Wherever BrightSign collects Personal Data we make an effort to provide a link to this Privacy Policy. 
 
-We may collect information related to the use of our Web sites - through, for example, the use of cookies - in order to better understand our customers' needs. A cookie is a small text file that our Web server places on your computer hard drive that includes a unique identifier. Cookies enable Roku to track usage patterns and deliver customized content to users.
+**By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy.   If you provide Personal Data to us through the Site or in connection with any Product, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of BrightSign and the authorized third parties referred to herein located in the United States.  **
 
-Roku Devices regularly upload usage information to Roku as part of their use. The collected information includes the specific identifiers of streams played, duration played, various quality measures, error logs, software version numbers, and other usage statistics. Usage information uploaded from Roku Devices is personally identifiable by product serial number. In some instances, serial numbers are associated with personally identifiable information to aid in customer service and support.
+#### Other Information
 
-The collected information from many users is aggregated for analysis and, in some instances, made generally available to users of Roku Devices and Roku Web Services in an anonymous fashion. For example, to provide features such as "Top 10" lists. Further, Roku may use personally identifiable information to make content recommendations to individual users.
+**_Non-Identifiable Data_** : When you interact with BrightSign through the Site or any Product, we receive and store certain personally non-identifiable information.  Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you.  BrightSign may store such information itself or such information may be included in databases owned and maintained by BrightSign affiliates, agents or service providers.  We may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, the domain names of our visitors' Internet service providers and the use of our Products.  It is important to note that no Personal Data is available or used in this process.
 
-If you do not wish Roku to use your information as described in this section, please follow the procedure in Part III (Access to Your Information) below.
+In operating the Site, we may use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Site gives to your browser when you access the Site.  Our cookies help provide additional functionality to the Site and help us analyze Site usage more accurately.  For instance, our Site may set a cookie on your browser that allows you to access the Site without needing to remember and then enter a password more than once during a visit to the Site.  However, these cookies are not required for site functionality and you are not required to accept any cookies to use this site.  On most web browsers, you will find a “help” section on the toolbar.  Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off.  We recommend that you leave cookies turned on because they allow you to take advantage of some of the Site’s features.  As noted above, on most web browsers you may refuse the use of cookies by selecting the appropriate settings, however please note that if you do this you may not be able to use the full functionality of the Site.  By using the Site, you consent to the processing of data about you by Google in the manner and for the purposes set out above.   The Site also automatically captures IP addresses.  BrightSign uses IP addresses to analyze trends, administer the Site, track user movement, ensure the security of your interaction with the Site and gather broad demographic information for aggregate use.  
 
-In order to protect the privacy interests of younger Internet users, we do not actively market our Web sites or products to children under 13. We do not knowingly collect information from children under 13 for marketing purposes. We encourage children of any age to visit our Web sites or to use our products only with the supervision of their parents.
 
-### Part II. Information Usage
+_**Aggregated Personal Data**_ : In an ongoing effort to better understand and serve the users of the Site and Products, BrightSign often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us.  This research may be compiled and analyzed on an aggregate basis, and BrightSign may share this aggregate data with its affiliates, agents and business partners.  This aggregate information does not identify you personally.  BrightSign may also disclose aggregated user statistics in order to describe our Products to current and prospective business partners, and to other third parties for other lawful purposes.
 
-Information collected by Roku is, first and foremost, used to understand how customers are using our products and services in order to make them better.
+### OUR USE OF YOUR PERSONAL DATA AND OTHER INFORMATION
 
-Anonymous, aggregated data is analyzed on a regular basis to understand product usage, feature popularity, software quality, and to influence the design of future products.
+BrightSign uses the Personal Data you provide in a manner that is consistent with this Privacy Policy.  If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided.  For instance, if you contact us by e-mail, we will use the Personal Data you provide to answer your question or resolve your problem.  Also, if you provide Personal Data in order to purchase, register or use a Product, we will use your Personal Data to permit you to conduct such activities.  BrightSign and its subsidiaries and affiliates (the “ **Related Companies** ”) may also use your Personal Data as well as personally non-identifiable information collected through the Site and Products to help us improve the content and functionality of the Site and Products, provide customers with Product updates, better understand our users and improve the Site and Products.  BrightSign and its Related Companies may use this information to contact you in the future to tell you about products or services we believe will be of interest to you.  If we do so, each communication we send you will contain instructions permitting you to "opt-out" of receiving future communications.   In addition, if at any time you wish not to receive any future communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.
 
-Personal information is used to fulfill orders, provide customer support, and for marketing purposes such as email announcements of new products or offers. We provide an option for you to choose not to receive marketing communications and you may always contact us at customerservice@roku.com to opt-out of marketing communications (however, we reserve the right to use your contact information if we consider it necessary to send you crucial information about the product or services you have purchased from us.)
+If BrightSign intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.
 
-Roku may also share information with companies integral to the use of the product. For example, we may share information collected from the Netflix Player by Roku with Netflix, Inc. This information is only identifiable by serial number, but the receiving party may be able to link serial number to personally identifiable information they have collected on their own. In those cases, the use of that information is subject to the privacy policies of the receiving party.
+### OUR DISCLOSURE OF YOUR PERSONAL DATA AND OTHER INFORMATION
 
-Roku uses third parties (including contractors and service providers) to help with certain aspects of its operations, which may require disclosure of your personal information to them. For example, Roku may use a third party to communicate with you (via telephone, email, or letter) about our products or services, to send information to you, to process and collect payment via your credit card (if applicable), and to perform other work that we may need to outsource. Roku requires these contractors and third parties to use your personal information only as necessary to perform the services they are asked to perform.
+BrightSign is not in the business of selling your information.  We consider this information to be a vital part of our relationship with you.  There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:
 
-We may share some or all of your personal information with our current or future "affiliates" (which means a parent company, any subsidiaries, joint ventures, or other companies under a common control), in which case we will require our affiliates to honor this privacy policy. If another company acquires Roku (or a business unit of Roku that uses your personal information), that company will possess the personal information collected by Roku and it will assume the rights and obligations regarding your personal information as described in this privacy policy.
+**Business Transfers** : As we develop our business, we might sell or buy businesses or assets.  In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.
 
-We offer links to other Web sites. Please note: those other Web sites may observe privacy standards different from ours and the collection and use of your personal information will be governed by the privacy policies on those other sites.
+**Related Companies** : We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy.
 
-Our Web sites offers developer forums and message boards. Please be advised that any information posted in these venues will be publicly available.
+**Agents, Consultants and Related Third Parties** : ** ** BrightSign, like many businesses, sometimes hires other companies to perform certain business-related functions.  Examples of such functions include mailing information, maintaining databases and processing payments.  When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
 
-Finally, please be assured that Roku does not sell information collected from customers.
+**Strategic Partners; Service Providers** : BrightSign may make certain of your Personal Data available to third parties that BrightSign has a strategic relationship with or that perform work for BrightSign to provide the Products to you.  These third parties may help BrightSign process information, fulfill orders, deliver Products, manage and enhance user data, provide customer service, assess your interest in Products or conduct user research and surveys.  These companies are obligated to protect your Personal Data and may have their own privacy policies if you link to or access their websites or systems.
 
-### Part III. Access to Information
+**Legal Requirements** : BrightSign may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of BrightSign, (iii) act in urgent circumstances to protect the personal safety of users of the Site or Products or the public, or (iv) protect against legal liability. 
 
-If you wish to ask for correction or deletion of any of your personal information held by us or a change in the way we use your information, please contact support at customerservice@roku.com. We will use commercially reasonable efforts to fulfill your request in a timely manner, but no more than 30 days. However, even if Roku deletes such personal information from its 'live' database, it may still be stored on other databases (including those kept for archival purposes).
+### YOUR CHOICES
 
-### Part IV. Data Storage and Security
+You can visit certain portions of the Site and use certain portions of the Products without providing any Personal Data.  If you choose not to provide any Personal Data, you may not be able to use certain portions of the Site or Products.
 
-Roku uses industry-standard methods of securing its electronic databases of personal information. For example, sensitive customer information is transferred via industry standard Secure Sockets Layers (SSL), and our databases are protected by two layers of Firewalls. Except as provided elsewhere in this privacy policy, Roku limits access to personal information in electronic databases to those persons in Roku's organization who have a business need for such access. However, you should know that no company, including Roku, can fully eliminate security risks associated with personal information.
+### EXCLUSIONS
 
-Your privacy is very important to us. Due to factors beyond our control, however, we cannot fully ensure that your personal information will not be disclosed to third parties other than those mentioned above. For example, we may be legally required to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications.
+This Privacy Policy does not apply to any Personal Data collected by BrightSign other than Personal Data collected through the Site or Products.  This Privacy Policy shall not apply to any unsolicited information you provide to BrightSign through the Site or Products or through any other means.  This includes, but is not limited to, information posted to any public areas of the Site, such as forums (collectively, “ **Public Areas** ”), any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “ **Unsolicited Information** ”).  All Unsolicited Information shall be deemed to be non-confidential and BrightSign shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
 
-### Part V. Modifications
+### CHILDREN
 
-We may amend this privacy policy at any time by posting the amended version on our web sites.
+BrightSign does not knowingly collect Personal Data from children under the age of 13.  If you are under the age of 13, please do not submit any Personal Data through the Site or Products.  We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data through the Site or Products without their permission.  If you have reason to believe that a child under the age of 13 has provided Personal Data to BrightSign through the Site or Products, please contact us, and we will endeavor to delete that information from our databases.
 
-### Part VI. Contact Information
+### THIRD PARTY SITES AND PRODUCTS
 
-If you have any questions regarding this privacy policy, please contact support. We will use commercially reasonable efforts to resolve disputes within 90 days.
+This Privacy Policy applies only to the Site and Products.  The Site or Products may contain links to or otherwise interact with other web sites or products not operated or controlled by BrightSign (the “ **Third Party Sites/Products** ”), including third party add-ons, applications and other software that could track your usage or collect Personal Data.  The policies and procedures we described here do not apply to the Third Party Sites/Products.  We suggest contacting those third parties directly for information on their privacy policies. 
+
+### SECURITY
+
+BrightSign takes reasonable steps to protect the Personal Data provided via the Site and Products from loss, misuse, and unauthorized access, disclosure, alteration, or destruction.  However, no Internet or e-mail transmission is ever fully secure or error free.  In particular, e-mail or messages sent to or from the Site or Products may not be secure.  Therefore, you should take special care in deciding what information you send to us.  Please keep this in mind when disclosing any Personal Data to BrightSign via the Internet. 
+
+### OTHER TERMS AND CONDITIONS
+
+Your access to and use of the Site is subject to the Terms of Use at www.brightsign.biz/, and your use of any Product is subject to the applicable the terms and conditions for such Product.
+
+### CHANGES TO BRIGHTSIGN’S PRIVACY POLICY
+
+The Site, our Products and our business may change from time to time.  As a result, at times it may be necessary for BrightSign to make changes to this Privacy Policy.  BrightSign reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice.  Please review this policy periodically, and especially before you provide any Personal Data.  This Privacy Policy was last updated on the date indicated above.  Your continued use of the Site or Products after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+
+### ACCESS TO INFORMATION; CONTACTING BRIGHTSIGN
+
+To keep your Personal Data accurate, current, and complete, please contact us as specified below.  We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Site or Products.
+
+Please also feel free to contact us if you have any questions about BrightSign’s Privacy Policy or the information practices of the Site or Products.
+
+You may contact us as follows:  [support@brightsign.biz](mailto:support@brightsign.biz)
