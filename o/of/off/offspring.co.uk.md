@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offspring.co.uk privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314054945id_/http%3A//www.offspring.co.uk/view/content/privacy-info-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offspring.co.uk privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215003341id_/http%3A//www.offspring.co.uk/view/content/privacy-info-page) for the most accurate reproduction.*
 
 # 
 
@@ -75,13 +75,15 @@ We also use your information to deliver the goods to you, or we might give your 
 
 We may also use the information to improve our website and personalise your experience during your visit. If we are sold or merged with another company we may transfer, sell or assign information about your relationship with us to third parties, including information that identifies you and other information concerning your relationship with us.
 
+If you “opt in” to receive information from OFFSPRING by post and/or email and/or SMS and/or MMS and/or Mobile Push and/or telephone we may periodically contact you about new products, special offers, promotions or other information which we think you may find interesting using the contact details which you have provided.
+
 From time to time, we may also use your information to contact you for market research purposes. We may contact you by email or mail. We may use the information to customise the website according to your interests.
 
 * * *
 
 #### UNSUBSCRIBING
 
-If you change your mind and decide you do not wish to receive the Offspring newsletter. You can unsubscribe by clicking on the 'unsubscribe' link at the bottom of any emails you receive from us, or by emailing us at [help@offspring.co.uk](mailto:customerservice@offspring.co.uk).
+If you change your mind and decide you do not wish to receive information from OFFSPRING you can unsubscribe at any time by following the instructions in the message you have received from us (e.g. by clicking on the “unsubscribe” link in any email) or by emailing us at [help@offspring.co.uk](mailto:customerservice@offspring.co.uk).
 
 * * *
 
