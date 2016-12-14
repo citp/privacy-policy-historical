@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thesportsdrop.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626121256id_/http%3A//thesportsdrop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesportsdrop.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214175643id_/http%3A//thesportsdrop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+We respect your privacy and we are committed to safeguarding your privacy while online at our site. The following discloses the information gathering and dissemination practices for this Web site.
 
 ## **Log Files**
 
@@ -26,19 +28,19 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 
 Whenever we change our privacy policy, we will post those changes to this Privacy Policy page, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-**Google**
+## **Google**
 
 Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
 We have not enabled Google AdSense on our site but we may do so in the future.
 
-**COPPA (Children Online Privacy Protection Act)**
+## **COPPA (Children Online Privacy Protection Act)**
 
 When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
 
 We do not specifically market to children under 13.
 
-**Fair Information Practices**
+## **Fair Information Practices**
 
 The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
@@ -50,7 +52,7 @@ We will notify the users via email
 
 We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
 
-**CAN SPAM Act**
+## **CAN SPAM Act**
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
@@ -58,9 +60,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 **To be in accordance with CANSPAM we agree to the following:**
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at
-
-and we will promptly remove you from **ALL** correspondence.
+If at any time you would like to unsubscribe from receiving future emails, you can email us and we will promptly remove you from **ALL** correspondence.
 
 ## **Contact Information**
 
