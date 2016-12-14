@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptcpay.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521092739id_/http%3A//ptcpay.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptcpay.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214032333id_/http%3A//ptcpay.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PTCPay
 
@@ -40,5 +40,6 @@ Nobody’s safe from hackers. If a security breach causes an unauthorized intrus
 We never sell lists or email addresses. If you have any questions or hesitations, don’t wait to contact us!
   * Abusive emails, spam, and other such emails will be reported to the proper authorities. If you run a Ponzi type scheme, we will report you to the authorities. Please note that we may share feedback emails under testimonials if we feel like we want to do so. If you would like us not to share these, you must explicityly state so either at the beginning or end of the email.
   * Information shared on the forums remains public and any posts on public forums are also public. We are not responsible for any damage caused by the sharing of your personal information. Please referain from sharing your address, email, phone number, and passwords on the forums. Moderators and administrators will attempt to protect you, but you should protect yourself.
+  * Attacking PTCPay in any way/shape/form will result in us sharing your information publicly for the purpose of notifying the community of potential threats against us/them. Attacking is as follows, but is not limited to; hacking attempts, threatening, using illegal/nulled products.
 
 
