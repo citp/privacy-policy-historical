@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bedguru.co.uk privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518222936id_/http%3A//www.bedguru.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedguru.co.uk privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214121817id_/http%3A//www.bedguru.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bed Guru - The Sleep Specialists
 
