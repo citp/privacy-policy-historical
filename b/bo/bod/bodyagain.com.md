@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bodyagain.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623042057id_/http%3A//bodyagain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyagain.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214232850id_/http%3A//bodyagain.com/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy
+# Privacy Policy - Body Again
 
 This privacy policy sets out how BodyAgain uses and protects any information that you give us when you use this website. BodyAgain is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. BodyAgain may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from January 1, 2015.
 
@@ -20,13 +20,13 @@ We use traffic log cookies to identify which pages are being used. This helps us
 
 Additionally, BodyAgain utilizes cookies to show our advertisements to you on various websites on the Internet.
 
-You may opt out of Google’s use of cookies by visiting Google’s [Ads Settings](http://www.google.com/settings/ads "Google Ads Settings").
+You may opt out of Google’s use of cookies by visiting Google’s Ads Settings.
 
 **Third Party Vendors**
 
   * Third party vendors, including Google, use cookies to serve ads based on a your prior web site visits.
   * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to BodyAgain and/or other sites on the Internet.
-  * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (or by visiting [aboutads.info](http://www.aboutads.info/).)
+  * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. (or by visiting aboutads.info.)
   * Third parties may use cookies, web beacons, and similar technologies to collect or receive information from your website and elsewhere on the internet and use that information to provide measurement services and target ads.
 
 
