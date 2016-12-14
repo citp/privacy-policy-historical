@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcbg.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610132948id_/http%3A//www.bcbg.com/en/cs-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbg.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214022239id_/http%3A//www.bcbg.com/en/cs-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -59,7 +59,7 @@ By providing data to us for the purposes of creating your account or adding any 
 
 ## BCBG COMMUNICATIONS
 
-You can change your email and contact preferences at any time by logging into your account and changing your settings related to your email notification choices. If you wish, you can also opt out of receiving promotional emails by clicking on the “unsubscribe” link. Please be aware that you cannot opt out of receiving service messages from BCBG.
+You can change your email and contact preferences at any time by logging into your account and changing your settings related to your email notification choices. If you wish, you can also opt out of receiving promotional emails by clicking on the "[ _ **unsubscribe**_](http://www.bcbg.com/en/email-preference?b=bcbg)" link. Please be aware that you cannot opt out of receiving service messages from BCBG.
 
 ## AFFILIATES AND BUSINESS TRANSITIONS
 
