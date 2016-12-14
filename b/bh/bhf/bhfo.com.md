@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bhfo.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622165329id_/http%3A//www.bhfo.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhfo.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214143723id_/http%3A//www.bhfo.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BHFO
 
-**BHFO.com PRIVACY POLICY** **                                                                **
+**BHFO.com PRIVACY POLICY                                                                 **
 
 Thank you for visiting the BHFO.com website. We collect customer information to help us to serve you better. We respect your privacy and are committed to maintaining and using this information responsibly.  This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information.  By using the site, you are accepting this privacy policy.  Our policy may be changed, but any changes will be posted and changes will only apply to activities and information in the future and they will not be retroactive. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. 
 
@@ -10,31 +10,45 @@ Thank you for visiting the BHFO.com website. We collect customer information to 
 
   **Information We Collect About You**
 
- Any personal information you provide to us is maintained on secure servers and our internal systems. We collect information when you register online or update your account, log-in, place an order, communicate online or directly with our customer service representatives, opt-in to receive our emails, shop online, participate in a sweepstakes, contest, promotion or survey, join our social networking sites.  This information may include, but is not limited to, your contact information (for example, your name, email address, billing and shipping addresses and phone number). If you use our “email this product to a friend” functionality found on product pages, or if you choose to send an email from our site to a friend, we will also collect your friend’s name and email address. Your friend’s information is only used to send the forwarding email and is not saved in our customer or marketing databases.
+ Any personal information you provide to us is maintained on secure servers and our internal systems. We collect information when you register online or update your account, log-in, place an order, communicate online or directly with our customer service representatives, opt-in to receive our emails, shop online, participate in a sweepstakes, contest, promotion or survey, join our social networking sites.  This information may include, but is not limited to, your contact information (for example, your name, email address, billing and shipping addresses and phone number).
+
+Like many site operators, we collect information that your browser sends whenever you visit our site. This log data may include information such as your computer's Internet Protocol address, browser type, browser version, the pages of our site that you visit, the time and date of your visit, the time spent on those pages and other statistics.  
+
+If you use our “email this product to a friend” functionality found on product pages, or if you choose to send an email from our site to a friend, we will also collect your friend’s name and email address. Your friend’s information is only used to send the forwarding email and is not saved in our customer or marketing databases.
 
   **Your California Privacy Rights**
 
  We collect various types of personal information about you, as described in this privacy policy. Under California law, our customers who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
 
- BHFO.com \- 4520 20th Ave. SW Cedar Rapids Iowa US 52404
+ BHFO.com - 4520 20th Ave. SW Cedar Rapids Iowa US 52404
 
- Alternatively, you may send us an email at support@bhfo.com with the words “California Privacy Rights” in the subject line.
+ Alternatively, you may send us an email at support@bhfo.com with the words “California Privacy Rights” in the subject line.
 
   **How We Use This Information**
 
- When you place an order on our website or through our customer service department, we use this information to process and track your order and contact you via email, postal mail or phone if we have any questions or concerns regarding your order. If you provide an email address during checkout, you will also receive order confirmation and shipping status emails.
+ When you place an order on our website or through our customer service department, we use this information to process and track your order and contact you via email, postal mail or phone if we have any questions or concerns regarding your order. If you provide an email address during checkout, you will also receive order confirmation and shipping status emails.
 
- We also maintain a record of your purchases.  We may combine information you provide with demographic information and information that is publicly available.  We may also use information about your product preferences and interests in order to improve our site design and enhance your shopping experience.  If you communicate online with our customer service representatives, we will use the information you convey to respond to your requests and serve you better.
+We also maintain a record of your purchases.  We may combine information you provide with demographic information and information that is publicly available.  We may also use information about your product preferences and interests in order to improve our site design and enhance your shopping experience.  If you communicate online with our customer service representatives, we will use the information you convey to respond to your requests and serve you better.
 
- We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-If we offer sweepstakes, contests, promotions or surveys, you may be required to provide certain personal information so we can notify winners and/or fulfill promotional obligations.  In these instances, you may receive emails, postal mail from us regarding our products, services, contests, and promotions.  Even if you have previously chosen not to receive email or postal mail from us, you may still receive information as it relates to the sweepstakes, contest, promotion or survey in which you have participated.
+If we offer sweepstakes, contests, promotions or surveys, you may be required to provide certain personal information so we can notify winners and/or fulfill promotional obligations.  In these instances, you may receive emails, or postal mail from us regarding our products, services, contests, and promotions.  Even if you have previously chosen not to receive email or postal mail from us, you may still receive information as it relates to the sweepstakes, contest, promotion or survey in which you have participated.
 
 In the unlikely event of a sale of some or all of our business, we may disclose your personal information to a purchaser that agrees to abide by the terms and conditions of this privacy policy.
 
 Except as required by law, or as otherwise provided in this policy, we will not share your email address with unaffiliated third parties.  You should be aware that we may disclose specific information about you if required to do so by law, governmental request, process or court order or based on our good faith belief that it is necessary to conform or comply with such law, request or court order or to protect the users of our website or the public.
 
-When you supply your postal address, you may receive mail from us. We do not make our mailing lists available for use by unaffiliated third parties.
+When you supply your postal address, you may receive mail from us. We do not make our mailing lists available for use by unaffiliated third parties. 
+
+Unless otherwise specified herein, we reserve the right to compile, save, use within the scope of our activities, and analyze any and all data about you (contact and personal data, use history etc.) that we collect from you through the site. We use the personal information about you that you provide to us for our internal purposes, such as responding to your requests for information or materials, contacting you, conducting internal analyses such as surveys and market research, processing and completing orders, processing your payment, administering your account, and administering and developing our business relationship with you or the company you represent. We also use your personal information to communicate with you, for example, to provide you with administrative communications regarding your account, newsletters, press releases, or information or advertisements relating to products, offers, or programs that may be of interest to you. By submitting this personal information to us you (or your legal representative on your behalf) consent to this use. 
+
+We have a general policy of not disclosing your personal information to third parties unless you have consented to such sharing. However, we may share the personal information about you that you provide to us with trusted companies we work with to provide services for us, such as sending out our newsletters, fulfilling orders you submit, or collecting and processing information on our behalf. These companies—our vendors—are contractually bound to use personal information that we share with them only to perform the services we have engaged them to provide. Other companies may collect and use information you provide to us to better understand the offers, promotions and types of advertising that are most appealing to our customers. After the information is collected by these third parties, it is aggregated so it is not personally identifiable or tied to you or any other user. If you would prefer that these companies not collect your information, please email us at [info@BHFO.com](mailto:info@BHFO.com) or contact us by phone at 1-855-588 (LUV)-2436 (BHFO).
+
+We may also share your personal information in the event that our business is transferred to another entity by way of merger, sale of the company’s assets or otherwise. If you consent to sharing of your personal information, we may share your information with related entities and selected third parties so that they may provide you with or contact you regarding information and materials that may be of interest to you. If you prefer that we do not share your information in this manner, please refer to the section below on opting in and out.
+
+We may also collect and group demographic and preferences information, responses to surveys and other personal information that we collect from you into an aggregate, non-personally identifiable form for disclosure to our existing or potential business partners, affiliates, sponsors or other third parties. However, please be assured that this aggregate data will in no way personally identify you or any other visitors to the site.
+
+From time to time, we may collect general, non-personal statistical information about the use of the site, such as how many visitors visit a specific page on the Site, how long they stay on that page and which hyperlinks, if any, they "click" on. We collect this information through the use of "cookies" and other tracking technologies, which are discussed in greater detail herein. We collect this information to determine which areas of the site are most popular and to enhance the site for visitors. As with other aggregated data, we may disclose such data to our existing or potential business partners, affiliates, sponsors or other third parties, but this aggregate data will in no way personally identify you or any other visitors to the site. 
 
   **Customized Advertising (Behavioral Marketing)**
 
@@ -44,7 +58,7 @@ Advertisements displayed to you on our website and elsewhere on the Web may be c
 
 At various points on our website, you have the option to join our email list and receive information from us. Also, if you provide us with your email address when you register online or update your account, log-in, place an order, make a customer service inquiry, opt-in to receive our emails, shop online, or participate in a sweepstakes, contest, promotion or survey, you may automatically be added to our email list and receive marketing or promotional information from us.
 
-If you do not wish to receive marketing emails, you may opt out by clicking on an unsubscribe links found at the bottom of all marketing emails, or you may email customer service at support@bhfo.com.  You may contact us by phone at 1-855-588 (LUV)-2436 (BHFO).
+If you do not wish to receive marketing emails, you may opt out by clicking on an unsubscribe links found at the bottom of all marketing emails, or you may email customer service at support@bhfo.com.  You may contact us by phone at 1-855-588 (LUV)-2436 (BHFO).
 
 Please be aware that it can take up to 10 business days to remove you from our marketing email lists.  If you opt-out from receiving our marketing emails, you will continue to receive order confirmation and shipping status emails.
 
@@ -60,7 +74,7 @@ To enhance your shopping experience, our website may include links to other site
 
 **How We Work With Third Party Service Providers**
 
-We may use reputable third parties who perform services on our behalf, such as fulfilling orders and conducting promotions, maintaining and managing our customer database and reporting on customer behavior and/or preferences.  Sometimes these service providers need information about our customers in order to provide services to us and to our customers. When we allow these service providers access to your information, we require them to maintain your information in the strictest confidence and we do not permit them to use it in any way other than to help us provide you with better service.
+We may use reputable third parties who perform services on our behalf, such as fulfilling orders and conducting promotions, maintaining and managing our customer database and reporting on customer behavior and/or preferences.  Sometimes these service providers need information about our customers in order to provide services to us and to our customers. When we allow these service providers access to your information, we require them to maintain your information in the strictest confidence and we do not permit them to use it in any way other than to help us provide you with better service.
 
 **Cookies and Web Beacons**
 
@@ -70,9 +84,11 @@ Most internet browsers automatically accept cookies, but if you do not wish to h
 
 Web beacons are small strings of code that are placed in a web page or in an email message. They are sometimes called “clear GIFs” (Graphics Interchange Format) or “pixel tags”. Web beacons are most often used in conjunction with cookies to track activity on our website.  When you visit a particular web page, web beacons notify us of your visit. Since web beacons are used in combination with cookies, if you disable cookies the web beacons will only detect an anonymous website visit. When used in an email, Web beacons enable us to know whether you have received the email.
 
+Please note that linked third-party websites may also use cookies. We cannot control the use of cookies by these third-party websites. For example, when you link from this site to a third-party website, that website may have the ability to recognize that you have come from our site by using cookies. If you have any questions about how third-party websites use cookies, you should contact such third parties directly.
+
 **Privacy of Young Children**
 
-We are concerned about the privacy of young children and we do not knowingly collect any personal information from a child.  For the purposes of our website, we define a child as someone under the age of 18. We do not sell products for purchase by children and all children’s products we sell are for purchase by adults only. By using this site, you represent that you are at least 18 years of age.
+We are concerned about the privacy of young children and we do not knowingly collect any personal information from a child.  For the purposes of our website, we define a child as someone under the age of 18. We do not sell products for purchase by children and all children’s products we sell are for purchase by adults only. By using this site, you represent that you are at least 18 years of age.
 
 **Security**
 
@@ -88,4 +104,4 @@ We may update our privacy policy from time to time. Whenever we make a change, w
 
 4520 20th Ave. SW Cedar Rapids Iowa US 52404
 
-Alternatively, you may send us an email at [support@bhfo.com](mailto:support@bhfo.com).
+Alternatively, you may send us an email at [support@bhfo.com](mailto:support@bhfo.com).
