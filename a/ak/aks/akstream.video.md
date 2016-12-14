@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akstream.video privacy policy that was archived on 2016-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160127034351id_/http%3A//akstream.video/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akstream.video privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214100724id_/http%3A//akstream.video/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
