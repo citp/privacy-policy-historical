@@ -1,499 +1,392 @@
-<!--The following is the downloaded HTML source of the gliffy.com privacy policy that was archived on 2009-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090529041621id_/http%3A//www.gliffy.com/privacy_policy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gliffy.com privacy policy that was archived on 2016-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161214111630id_/https%3A//www.gliffy.com/legal/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head> 
+<!DOCTYPE html><html itemscope="" itemtype="http://schema.org/Organization" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="https://munchkin.marketo.net/munchkin.js"></script>
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KQ5R7B"></script><script src="//cdn.optimizely.com/js/226566748.js"></script>
+    
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAYBUV5ADQEJVVBSBw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(14)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(14)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(14)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(w=-w,b.data=w)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(14)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,g),g.prototype=p.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var w=1,b=document.createTextNode(w);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[g[n]];return f&&f.push([w,n,r,i]),i}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},w={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return w}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=w.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(y,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(12),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(9);var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},g=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),w=e.exports={offset:a(),origin:v,features:{},xhrWrappable:g};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,7]);</script>
+    
+    <meta name="description" content="Gliffy.com™ is a web-based diagram editor. Create and share flowcharts, network diagrams, floor plans, user interface designs and other drawings online.">
+    <meta name="keywords" content="">
+    <title>Privacy Policy | Gliffy</title>
+        <link rel="canonical" href="https://www.gliffy.com/legal/privacy-policy/">
+    
+    <!-- Social Snippet Data -->
+    <!-- OpenGraph: Facebook, G+, etc. -->
+<meta property="og:title" content="Privacy Policy | Gliffy">
+<meta property="og:description" content="Gliffy.com™ is a web-based diagram editor. Create and share flowcharts, network diagrams, floor plans, user interface designs and other drawings online.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.gliffy.com/legal/privacy-policy/">
+<meta property="og:site_name" content="Gliffy">
+<meta property="og:image" content="https://www.gliffy.com/_ui/images/gliffy_logo_blue_bg_sq.png">
+<meta property="fb:admins" content="623756086">
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@gliffy">
+<meta name="twitter:url" content="https://www.gliffy.com/legal/privacy-policy/">
+<meta name="twitter:title" content="Privacy Policy | Gliffy">
+<meta name="twitter:description" content="Gliffy.com™ is a web-based diagram editor. Create and share flowcharts, network diagrams, floor plans, user interface designs and other drawings online.">
+<meta name="twitter:image" content="https://www.gliffy.com/_ui/images/gliffy_logo_blue_bg_sq.png">
+<!-- Misc Social -->
+<link rel="image_src" href="https://www.gliffy.com/_ui/images/gliffy_logo_blue_bg_sq.png">
+<!-- JSON-LD: https://developers.google.com/structured-data/customize/social-profiles -->
+<script type="application/ld+json">
+    {
+      "@context": "http://schema.org/",
+      "@type": "Organization",
+      "name": "Gliffy",
+      "image": "https://www.gliffy.com/_ui/images/gliffy_logo_blue_bg_sq.png",
+      "description": "Gliffy.com&#8482; is a web-based diagram editor. Create and share flowcharts, network diagrams, floor plans, user interface designs and other drawings online.",
+      "url": "https://www.gliffy.com",
+      "sameAs" : [
+        "http://www.facebook.com/Gliffy",
+        "http://twitter.com/gliffy"
+      ]
+    }
+</script>
+    <link href="/_ui/css/bootstrap.css" rel="stylesheet">
+    <link href="/_ui/css/font-awesome.css" rel="stylesheet">
+    <link href="/_ui/css/gliffy-website.css" rel="stylesheet">
+    <link rel="shortcut icon" href="/favicon.ico">
 
-
-
-<link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="stylesheet" href="/style.css" type="text/css"> 
-<link rel="stylesheet" type="text/css" href="/chrometheme/chromestyle.css">
-<link rel="stylesheet" type="text/css" href="/includes/gliffyMenu.css">
- 
-<title>Gliffy - Privacy Policy</title>
- 
-
-
- 
-
- 
-
-</head> 
-
-<body> 
-<div id="page">
-	<div class="header">
-        <div class="logo">
-            <a href="/"><img src="/images/logo_index.gif" title="Gliffy Logo" alt="Gliffy Logo"></a> 
-        </div> 
-         
-            
-
-
-        <div class="loginForm">
-            <form name="gliffyLoginForm" action="https://www.gliffy.com//gliffy/api/login" method="post">
-            <input type="hidden" name="error" value="/go/login_failure.shtml">
-            <input type="hidden" name="changePasswordPage" value="/go/change_password.shtml">
-                <table> 
-                
-                    <tbody><tr>
-                        <td><span style="font-size: 15px; color: rgb(76, 129, 181);">Email:</span></td>
-                        <td><input type="text" value="" name="email" style="width: 200px; font-size: 15px"></td>
-                    </tr>
-                    <tr>
-                        <td><span style="font-size: 15px;  color: rgb(76, 129, 181);">Password:</span></td>
-                        <td><input type="password" name="password" style="width: 200px; font-size: 15px"></td> 
-                    </tr>
-                    <tr style="margin-bottom: 0px; padding-bottom: 0px;">
-                        <td style="margin-bottom: 0px; padding-bottom: 0px;"></td>
-                        <td style="margin-bottom: 0px; padding-bottom: 0px;">
-                            <input type="image" name="basicLogin" src="/images/loginBasic.png" value="basicLogin" onclick="gliffyLoginForm.action='http://www.gliffy.com//gliffy/api/login'">
-                            <input type="image" name="sslLogin" src="/images/loginSSL.png" value="sslLogin">
-                        </td>
-                    </tr>
-                    <tr style="margin:0px; padding: 0px;">
-                        <td style="margin:0px; padding: 0px;"></td>
-                        <td style="margin:0px; padding: 0px;"><i><a href="/go/forgot_password.shtml?email=">Forgot your password?</a></i></td>
-                    </tr>
-                </tbody></table>
-            </form>
-            <!--a href="/prodcomparison.shtml"><img src="/images/compare1.gif" title="register" alt="Sign up" /></a>&nbsp;&nbsp;
-            <a href="/gliffy/"><img src="/images/login1.gif" title="login" alt="login" /></a -->
+    </head>
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KQ5R7B"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KQ5R7B');</script>
+<!-- End Google Tag Manager -->
+<div id="gliffy-web" class="about">
+        <!-- SAAS-1214 - Windows Chrome 45 crash warning
+    <div id="winChrome45Alert">
+        <div class="container">
+            Some customers have reported having trouble with Google Chrome for Windows. <br />
+            We apologize if you’re one of them! <a href='http://support.gliffy.com/entries/96400607--Aw-Snap-errors-in-the-Chrome-browser'>Click here</a> to find out more.
         </div>
-
- 
-        
-	</div>
- 
-<script type="text/javascript" src="/dropdown.js"></script>
-<div id="topmenu"> 
-	<div class="lc"></div>		
-		<div class="md">
-			<div style="width: 439px; float: left;">&nbsp;</div>
-			<div id="menu" style="width:515px">
-            	<div style="width: 5px; float: left; display: inline;"><img src="/images/a4.gif" alt="" title=""></div>
-                <div style="width: 118px; float: left; display: inline;" id="parent1"><a rel="nofollow" href="/products.shtml"><img src="/images/products.gif" title="products" alt="producuts"></a></div>
-				<div id="child1">
-<a rel="nofollow" class="sample_attach" href="/online.shtml">Gliffy Online</a> 
-<a class="sample_attach" href="/confluencePlugin/">Gliffy Plugin for Confluence</a> 	
-<a class="sample_attach" href="/jira-plugin/">Gliffy Plugin for JIRA</a> 	
-<!-- a  rel="nofollow" class="sample_attach"
-href="/mediawiki-extension/">Gliffy MediaWiki Extension</a --> 	
-</div>
-				<div style="width: 101px; float: left; display: inline" id="parent2"><a rel="nofollow" href="/support.shtml"><img src="/images/support.gif" title="support" alt="support"></a></div>
-				<div id="child2">
-<a rel="nofollow" class="sample_attach" href="/support.shtml">Search Support</a>
-<a rel="nofollow" class="sample_attach" href="/forums">Forums</a>
-<a rel="nofollow" class="sample_attach" href="/tips.shtml">Tips &amp; Tutorials</a>
-<a rel="nofollow" class="sample_attach" href="/faqs.shtml">Frequently Asked Questions</a>
-<a rel="nofollow" class="sample_attach" href="/support.shtml">Support</a>
-</div>			
-
-           
-                 <div style="width: 107px; float: left; display: inline;" id="parent3">
-                    <a rel="nofollow" href="/examples/flow-charts/"><img src="/images/examples.gif" alt="examples" title="examples"></a>
-                </div>
-				<div id="child3">
-                    <a rel="nofollow" class="sample_attach" href="/examples/flow-charts/" style="width: 150px;">View Gliffy Examples</a>
-                </div>
-         
-			
-
-                <div style="width: 104px; float: left; display: inline;" id="parent4">
-                    <a rel="nofollow" href="/about.shtml"><img src="/images/aboutus.gif" title="about us" alt="about us"></a>
-                </div>
-				<div id="child4" style="width: 150px;">
-                    <a rel="nofollow" class="sample_attach" href="/about.shtml">About us</a>
-                    <a rel="nofollow" class="sample_attach" href="/customerlist.shtml">Customers</a>
-                    <a rel="nofollow" class="sample_attach" href="/news.shtml">Gliffy In the News</a>
-                    <a rel="nofollow" class="sample_attach" href="/executivebios.shtml">Executive Bios</a> 
-                    <a rel="nofollow" class="sample_attach" href="/contactus.php">Contact Us</a>
-                </div> 
-                <div style="width: 80px; float: left; display: inline;">
-                    <a rel="nofollow" href="/blog/"><img src="/images/blog.gif" title="blog" alt="blog"></a>
+    </div> -->
+    <div id="header">
+        <div class="container">
+            <div class="row">
+                <div class="logo span2">
+                    <a href="/"><img src="/_ui/images/logo_header_white.png" width="80" height="29" alt="Gliffy Logo"></a>
                 </div>
 
+                <div class="navbar span7">
+                    <ul class="nav" role="navigation">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Products</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/products/online/">Gliffy Online</a></li>
+                                <li><a href="/products/confluence-plugin/">Gliffy Confluence Plugin</a></li>
+                                <li><a href="/products/jira-plugin/">Gliffy JIRA Plugin</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/go/commerce/index">Pricing</a></li>
+                        <li><a href="/examples/">Examples</a></li>
+                        <li><a href="/support/">Support</a></li>
+                        <li class="dropdown active">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">About</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/about-us/">Team</a></li>
+                                <li><a href="/press/">Press</a></li>
+                                <li><a href="/customers/">Customers</a></li>
+                                <li><a href="/jobs/">Careers</a></li>
+                                <li><a href="/blog/" target="_blank">Blog</a></li>
+                                <li><a href="http://support.gliffy.com/anonymous_requests/new">Contact Us</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div> <!-- /.navbar -->
 
+                                <div class="btn-start-drawing span2">
+                    <a href="/go/html5/launch?app=1b5094b0-6042-11e2-bcfd-0800200c9a66" class="header-btn" onclick="ga('send','event', 'Link', 'Click', 'TryItNow Bubble Btn');">Start Drawing</a>
+                </div>
+                
+                <div class="btn-login-dropdown navbar span1">
+                                        <div class="nav">
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" id="loginToggle" href="#" data-toggle="dropdown">Sign In</a>
 
-                <!-- div style="width: 120px; float: left; display: inline;" id="parent3"><a rel="nofollow" href="/developer/"><img
-                src="/images/developers.gif" title="developers" alt="developers" /></a></div>
-				<div id="child3">
-				<a rel="nofollow" class="sample_attach" href="/developer/" style="width: 150px;">Introduction</a>
-				<a rel="nofollow" class="sample_attach" href="/developer/getting-started.shtml" style="width: 150px;">Getting Started </a>
-				<a rel="nofollow" class="sample_attach" href="/developer/technical-overview.shtml" style="width: 150px;">Technical Overview</a>
-				<a rel="nofollow" class="sample_attach" href="/developer/apidocs/php/" style="width: 150px;">PHP Client Library</a> 
-				<a rel="nofollow" class="sample_attach" href="/developer/apidocs/rest/" style="width: 150px;">REST API</a> 
+                            <div class="dropdown-menu loginbox">
+                                <div id="login-form">
+                                    <form id="login" method="post" accept-charset="UTF-8" action="https://www.gliffy.com/go/ologin" onsubmit="return showLoginSpinner();">
+                                        <input type="hidden" id="app" name="app" value="1b5094b0-6042-11e2-bcfd-0800200c9a66">
+
+                                        <label class="email" for="email"><span>Email Address</span>
+                                            <input type="text" name="email" id="email" class="text" size="30">
+                                        </label>
+                                        <label class="password" for="password"><span>Password</span>
+                                            <input type="password" name="password" id="password" class="text" size="30">
+                                        </label>
+
+                                        <span class="oauth2">
+                                            <iframe frameborder="0" height="40" width="150" src="https://www.gliffy.com/_includes/openid.php" style="overflow:hidden" scrolling="no"></iframe>
+                                        </span>
+                                        <input class="btn btn-blue login" type="submit" name="commit" value="Login">
+                                        <hr>
+                                        <p><a class="forgot forgottoggle" href="#">Forgot Your Password?</a></p>
+                                    </form>
+                                </div>
+
+                                <div id="pass-recover">
+                                    <form action="/go/ologin/password/forgot" method="post">
+                                        <input type="hidden" name="app" value="1b5094b0-6042-11e2-bcfd-0800200c9a66">
+                                        <p><strong>Forgot Your Password?</strong></p>
+                                        <p>Enter your email here and we'll send you a new password for Gliffy Online</p>
+                                        <label class="email" for="find_email"><span>Email Address</span>
+                                        <input type="text" name="email" id="find_email" class="text">
+                                        </label>
+
+                                        <div>
+                                            <span id="cancel"><a href="#" class="forgottoggle">Cancel</a></span>
+                                            <button type="submit" class="btn btn-green-flat login"><span>Request Password</span></button>
+                                        </div>
+                                    </form>
+                                </div>
+
+                                <div id="loading-login">
+                                    <p><span class="spinner"></span><strong>Logging In...</strong></p>
+                                </div>
+                            </div>
+                        </li>
+                    </div> <!-- /.nav -->
+                                    </div> <!-- /.navbar -->
+
+                <div id="logged-in-dropdown" class="pull-right" style="display:none">
+                    <li id="menu-username" class="dropdown">
+                        <a href="#menu-username" data-toggle="dropdown" class="dropdown-toggle">
+                            <span id="gliffy-menu-label-menu-username" class="gliffy-profile-icon"></span> <b class="caret"> </b>
+                        </a>
+                        <ul id="sub-menu-username" class="dropdown-menu">
+                            <li class="disabled"><a>Username/Email: <span class="user-name-wrapper">GliffyApp.authController.propUsername</span></a></li>
+                            <li class="divider"></li>
+                            <li><a id="top-menu-user-logout" href="/go/ologout">Logout</a></li>
+                        </ul>
+                    </li>
+                </div>
+
+            </div> <!-- /.row -->
+        </div> <!-- /.container -->
+    </div> <!-- /#header -->
+
+    <div class="container">
+<div id="about">
+    <div class="row">
+        <div class="span3">
+            
+<div id="sidebar">
+    <ul class="nav nav-list">
+        <li><a href="/legal/">Overview</a></li>
+        <li><a href="/legal/terms-of-use/">Terms of Use</a></li>
+        <li class="active"><a href="/legal/privacy-policy/">Privacy Policy</a></li>
+        <li><a href="/legal/copyright-infringement-claims/">Copyright Infringement Claims</a></li>
+        <li><a href="/legal/Gliffy_EULA_v4_5.pdf">EULA for Gliffy Confluence Plugin and Gliffy JIRA Plugin</a></li>
+    </ul>
 </div>
-                <div style="width: 104px; float: left; display: inline;" id="parent4"><a rel="nofollow" href="/about.shtml"><img
-                src="/images/aboutus.gif" title="about us" alt="about us" /></a></div>
-				<div id="child4" style="width: 150px;">
-<a rel="nofollow" class="sample_attach" href="/about.shtml">About us</a>
-<a rel="nofollow" class="sample_attach" href="/customerlist.shtml">Customers</a>
-<a  rel="nofollow" class="sample_attach" href="/news.shtml">Gliffy In the News</a>
-<a rel="nofollow" class="sample_attach" href="/executivebios.shtml">Executive Bios</a> 
-<a rel="nofollow" class="sample_attach" href="/contactus.php">Contact Us</a>
+<!-- / end #sidebar -->        </div>
+        <div class="span9">
+			<h1>Privacy Policy</h1>
+				<p>This privacy statement ("Privacy Policy") covers the website www.Gliffy.com, owned and operated by Gliffy, Inc. ("Gliffy", "we", "us", "our"). Gliffy knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Gliffy website, submitting information or using any of our products or services, you are accepting the practices outlined in this Privacy Policy.</p>
+				<h3>What Does This Privacy Policy Cover?</h3>
+				<p>This Privacy Policy covers Gliffy's treatment of personal information that Gliffy gathers when you are on the Gliffy website and when you use Gliffy services. Also, this Privacy Policy covers Gliffy's treatment of any personal information that Gliffy's business partners share with Gliffy. This policy does not apply to the practices of third parties that Gliffy does not own or control, or to individuals that Gliffy does not employ or manage.</p>
+				<h3>What Personal Information About Users Does Gliffy Collect?</h3>
+				<p>Our primary goal in collecting personal information is to personalize and improve our service. We collect the following types of information from our users:</p>
+				<ol class="information-list">
+					<li>
+						<h3>Information You Provide to Us:</h3>
+						<p>We may receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The personal information you provide may be used for such purposes as responding to your requests for certain products and services, customizing the advertising and content you see, and communicating with you about specials, sales offers and new products.</p>
+						<ul class="sub-information-list">
+							<li>Registration: In order for you to use our website, you must complete a registration form. As part of this registration form, we require your email address.</li>
+							<li>Gliffy Premium: To process your order for Gliffy Premium, we require contact information (such as billing address) and PayPal information. This information is used for billing purposes.</li>
+						</ul>
+					</li>
+					<li>
+						<h3>Automatic Information:</h3>
+						<ul class="sub-information-list">
+							<li>We may receive and store certain types of information whenever you interact with us. Gliffy may automatically receive and record certain "traffic data" on our server logs from your browser including your IP address, Gliffy cookie information, and the page you requested. Gliffy uses this traffic data to help diagnose problems with its server, analyze trends and administer the website.</li>
+							<li>Generally, our service may automatically collect usage information, such as the numbers and frequency of visitors to our website and its components. This data is only used in the aggregate, that is, as a statistical measure, and not in a manner that would identify you personally. This type of collective data enables us to figure out how often users use parts of the website, so we can make the website appealing to as many users as possible. In addition, we may provide statistical information, not information about you personally, to our partners about how our users, collectively, use our website. We share this type of statistical data so that our partners also understand how often people use their areas and our website, so that they, too, may provide you with an optimal Web experience.</li>
+							<li>Many companies offer programs that help you to visit websites anonymously. While Gliffy will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.</li>
+						</ul>
+					</li>
+					<li>
+						<h3>E-mail Communications:</h3>
+						<p>We may receive a confirmation when you open an e-mail from Gliffy if your computer supports this type of program, in order to help us make e-mails more interesting and helpful. We may also send out emails with news or promotions. If you do not want to receive e-email or other mail from us, please update your profile under the "Profile" section of the website.</p>
+					</li>
+					<li>
+						<h3>Information from Other Sources:</h3>
+						<p>For purposes such as improving personalization of our service, we may receive information about you from other sources and add it to our account information.</p>
+					</li>
+				</ol>
+				<h3>What about Cookies?</h3>
+				<ul class="sub-information-list">
+					<li>Cookies are alphanumeric identifiers that we may transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Gliffy cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your email address is.</li>
+					<li>The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of Gliffy's most attractive features.</li>
+					<li>Some of our business partners may use cookies on our website (for example, advertisers). However, we have no access to or control over these cookies.</li>
+				</ul>
+				<h3>Will Gliffy Share Any of the Information it Receives?</h3>
+				<p>We neither rent nor sell your personal information to anyone. We share your personal information only with your consent or to the business partners and affiliates as described below:</p>
+				<ul class="affiliates-list">
+					<li>
+						<h3>Affiliated Business We Do Not Control:</h3>
+						<p>We are affiliated with a variety of businesses and work closely with them. You can easily recognize when an affiliated business is associated with your transaction. We will only share personal information that is necessary for the affiliate to complete the transaction. We require our affiliates to provide the same level of privacy protection that we do and they do not have the right to share or use personal information for any purpose other than for an authorized transaction.</p>
+					</li>
+					<li>
+						<h3>Personnel:</h3>
+						<p>Our personnel (including, for the avoidance of doubt, consultants and/or contractors) may have access to user information while carrying out their duties in the normal course of our company business.</p>
+					</li>
+					<li>
+						<h3>Agents:</h3>
+						<p>We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include fulfilling orders, sending postal mail and e-mail, removing repetitive information from customer lists, collecting and analyzing data relating to your visit to our website, providing marketing assistance, processing payments, and providing customer service. You hereby consent to our sharing of your personal information for the above purposes.</p>
+						<p>We utilize the following Google Analytics Features to help us collect and analyze data related to your visit to our website such as page views and average time on page:</p>
+						<ul>
+							<li><a href="https://support.google.com/analytics/answer/2799357">Demographics and Interests Reporting</a></li>
+							<li><a href="https://support.google.com/analytics/answer/2611268">Remarketing with Google Analytics</a></li>
+						</ul>
+						<p>We may use this data with third-party cookies such as Adroll and Adwords Remarketing to later serve targeted display banners or text ads to you on the Google Display Network and other ad exchanges such as Facebook.</p>
+						<p>You may opt out of the Google Analytics Features by following the instructions in the
+following link: <a href="https://tools.google.com/dlpage/gaoptout/">https://tools.google.com/dlpage/gaoptout/</a></p>
+						<p>We utilize Crazy Egg (<a href="http://www.crazyegg.com/privacy">http://www.crazyegg.com</a>) to help us collect and analyze data related to your visit to our website. If you wish to opt out of Crazy Egg collecting your information when you visit our website, please follow the Crazy Egg Opt-out instructions located at <a href="http://www.crazyegg.com/opt-out">http://www.crazyegg.com/opt-out</a>. Please note that if you use a different computer or Internet browser than you used when opting out of Crazy Egg's service, Crazy Egg will not be able to view the opt-out and will continue to collect your information when you visit our website. In these circumstances, you will need to revisit the link above in order to reset your opt-out decision, in order for it to be effective. For further information on how Crazy Egg treats your information, please see: <a href="http://www.crazyegg.com/privacy">http://www.crazyegg.com/privacy</a></p>
+					</li>
+					<li>
+						<h3>Promotional Offers: </h3>
+						<p>We may send offers to certain users on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, please update your profile under the "Profile" section of the website.</p>
+					</li>
+					<li>
+						<h3>Business Transfers:</h3>
+						<p>In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Moreover, if Gliffy, or substantially all of its assets, were acquired, customer information would be one of the assets that is transferred or acquired by a third party.</p>
+					</li>
+					<li>
+						<h3>Protection of Gliffy and Others:</h3>
+						<p>We may release personal information when we believe in good faith that release is necessary to comply with that law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Gliffy, our employees, our customers, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction</p>
+					</li>
+				</ul>
+				<h3>Is information about me secure?</h3>
+				<ul class="sub-information-list">
+					<li>Your Gliffy account information is protected by a password for your privacy and security. You need to work to protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer.</li>
+					<li>We use industry-standard Secure Socket Layer (SSL) software to protect the security of your personal information during transmission, which encrypts all of the information you input.</li>
+					<li>Only Gliffy employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it. All of our employees are kept up to date on our privacy and security practices.</li>
+				</ul>
+				<h3>What Information Can I Access?</h3>
+				<p>You can access your personal information on our website and correct, amend, or delete information that is inaccurate by updating your profile under the "Profile" section of the website.</p>
+				<h3>What Choices Do I Have?</h3>
+				<ul class="sub-information-list">
+					<li>As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website.</li>
+					<li>You are able to add or update certain information on pages, such as those listed in the "What Personal Information About Users Does Gliffy Collect?" section above. When you update information, however, we often maintain a copy of the unrevised information in our records.</li>
+					<li>You may request deletion of your Gliffy account by sending an email to contacting us at our support page. Please note that some information may remain in our records after deletion of your account.</li>
+					<li>If you do not wish to receive e-mail or other mail from us, please update your profile under the "Profile" section of the website. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Gliffy website, and you are responsible for reviewing such legal notices for changes.</li>
+					<li>As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.</li>
+				</ul>
+				<h3>Can Children Use Gliffy's Services?</h3>
+				<p>You must be 18 years and older to register to use the Gliffy website. As a result, Gliffy does not specifically collect information about children.</p>
+				<h3>Conditions of Use</h3>
+				<p>If you decide to visit the Gliffy website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.</p>
+				<h3>Third Party Websites</h3>
+				<p>Gliffy services may permit you to link to other websites on the Internet, and other websites may contain links to the Gliffy website. These other websites are not under Gliffy control. The privacy and security practices of websites linked to or from the Gliffy website are not covered by this Privacy Policy, and Gliffy is not responsible for the privacy or security practices or the content of such websites.</p>
+				<h3>Changes to this Privacy Policy</h3>
+				<p>Gliffy may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Gliffy website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.</p>
+				<h3>Questions or Concerns</h3>
+				<p>If you have any questions or concerns regarding privacy at the Gliffy website, please send a detailed message to support(at)gliffy(dot)com. Your privacy is important to us and we will make every effort to resolve your concerns.</p>
+				<h3>Effective Date of This Privacy Policy</h3>
+				<p>This Privacy Policy is effective as of February 9, 2015.</p>
+			</div>
+			<!-- / copyright main -->
+    </div>
 </div>
-				
-                <div style="width: 107px; float: left; display: inline;" id="parent5"><a rel="nofollow" href="/examples/flow-charts/"><img src="/images/examples.gif" alt="examples" title="examples" /></a></div>
-				<div id="child5">
-<a rel="nofollow" class="sample_attach" href="/examples/flow-charts/" style="width: 150px;">View Gliffy Examples</a>
-</div>
-                <div style="width: 80px; float: left; display: inline;"><a rel="nofollow" href="/blog/"><img src="/images/blog.gif"
-                title="blog" alt="blog" /></a></div -->
-<script type="text/javascript">
-at_attach("parent1", "child1", "hover", "y", "pointer");
-at_attach("parent2", "child2", "hover", "y", "pointer");
-at_attach("parent3", "child3", "hover", "y", "pointer");
-at_attach("parent4", "child4", "hover", "y", "pointer");
-at_attach("parent5", "child5", "hover", "y", "pointer");
+
+    </div> <!-- /end #container -->
+    <div id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="span3">
+                    <img src="/_ui/images/logo_white.png" width="162" height="60" alt="Gliffy Logo">
+                    <div class="socialmedia">
+                        <a href="http://www.facebook.com/Gliffy?sk=wall" target="_blank">
+                            <img src="/_ui/images/facebook.png" width="32" height="32" alt="Gliffy Facebook"></a>
+                        <a href="http://twitter.com/#!/gliffy" target="_blank">
+                            <img src="/_ui/images/twitter.png" width="32" height="32" alt="Gliffy Twitter"></a>
+                        <a href="http://www.linkedin.com/company/gliffy" target="_blank">
+                            <img src="/_ui/images/linkedin.png" width="32" height="32" alt="Gliffy LinkedIn"></a>
+                        <a href="http://www.youtube.com/user/GliffyGliffy" target="_blank">
+                            <img src="/_ui/images/you_tube.png" width="32" height="32" alt="Gliffy YouTube"></a>
+                    </div>
+                                    </div>
+                <div class="span3">&nbsp;</div>
+                <div class="span3">
+                    <h5>Useful Links</h5>
+                    <ul>
+                        <li><a href="http://support.gliffy.com/home" target="_blank">Support Desk</a></li>
+                        <li><a href="/user-manual">User Manual</a></li>
+                        <li><a href="/legal">Legal</a></li>
+                        <li><a href="/jobs">Jobs</a></li>
+                        <li><a href="http://support.gliffy.com/tickets/new">Contact</a></li>
+                                            </ul>
+                    <h5>Gliffy Products</h5>
+                    <ul>
+                        <li><a href="/products/online">Gliffy Online</a></li>
+                        <li><a href="/products/confluence-plugin">Gliffy Confluence Plugin</a></li>
+                        <li><a href="/products/jira-plugin">Gliffy JIRA Plugin</a></li>
+                    </ul>
+                </div>
+                <div class="span3">
+                    <h5>Use Gliffy As</h5>
+                    <ul>
+                        <li><a href="/uses/flowchart-software">Flow chart software</a></li>
+                        <li><a href="/uses/network-diagram-software">Network diagram software</a></li>
+                        <li><a href="/uses/floor-plan-software">Floor plan software</a></li>
+                        <li><a href="/uses/org-chart-software">Org chart software</a></li>
+                        <li><a href="/uses/swot-analysis-software">SWOT analysis</a></li>
+                        <li><a href="/uses/wireframe-software">Wireframe software</a></li>
+                        <li><a href="/uses/web-site-map-software/">Site map software</a></li>
+                        <li><a href="/uses/uml-software">UML software</a></li>
+                        <li><a href="/uses/business-process-modeling-software">Business process modeling software</a></li>
+                        <li><a href="/uses/venn-diagram-software-template">Venn diagram software</a></li>
+                    </ul>
+                </div>
+            </div>
+                 <p><span>©</span> 2016  Gliffy, Inc. All Rights Reserved</p>
+        </div>
+    </div> <!-- /end #footer -->
+</div> <!-- /end #gliffy-web -->
+
+    <script src="/_ui/js/jquery-1.8.2.min.js"></script>
+    <script src="/_ui/js/bootstrap.js"></script>
+    <script src="/_ui/js/gliffy.js"></script>
+    <script src="/_ui/js/is-0.7.4.min.js"></script>
+
+    <!-- marketo -->
+    <script type="text/javascript">
+        $.ajax({
+            url: '//munchkin.marketo.net/munchkin.js',
+            dataType: 'script',
+            cache: true,
+            success: function() {
+                Munchkin.init('369-GED-718', {"cookieAnon":true});
+            }
+        });
+    </script>
+
+    <!-- start Mixpanel -->
+    <script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
+for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+    mixpanel.init("0f620a9afcaad25e269e471c6a4befb2");
+    mixpanel.track('viewPage', {
+        'page name' : document.title,
+        'url' : window.location.pathname
+    });
 </script>
-            </div></div><div class="rc"></div>		
-	</div>
-
-<div id="middle_new">
-			<div class="lc"></div>
-
-			<div class="rc"><div style="width: 62px; float: left; display: inline; background: url(/images/mid1home.jpg) no-repeat; height: 69px;"></div>
-				<div onclick="location.href='/gliffy/commerce/signup.jsp';" style="cursor:pointer; width: 176px; float: left; display: inline; background: url(/images/mid2home.jpg) repeat-x; height: 69px;" class="signtxt"><a href="/gliffy/commerce/signup.jsp">Sign up for FREE</a></div>
-				<div style="width: 22px; float: left; display: inline; background: url(/images/mid3home.jpg) no-repeat; height: 69px;"></div>
-
-				</div>
-
-
-		</div>
-
-<div id="subHeading"><a href="/">Home</a> 
- 
-<img src="/images/arrow_small.gif" alt="breadcrumb arrow"> <span>Privacy Policy</span> 
-
-
-</div>
-
-
-
-
-
- 
-<div id="subPageHead"></div> 
-<div id="subPageContent">
- 
-
-
-	
-
-		<div class="leftBody">
-
-	<center><h2>Gliffy Privacy Policy</h2></center>
-
-
-
-<p>This privacy statement ("Privacy Policy") covers the website www.Gliffy.com, owned and operated by Gliffy, Inc. ("Gliffy", "we", "us", "our").  Gliffy knows that you care about how your personal information is used and shared, and we take your privacy seriously.  Please read the following to learn more about our privacy policy.  By visiting the Gliffy website, submitting information or using any of our products or services, you are accepting the practices outlined in this Privacy Policy.</p>
-
-
-
-<br><br>
-
-<p><b>What Does This Privacy Policy Cover?</b><br>
-
-This Privacy Policy covers Gliffy's treatment of personal information that Gliffy gathers when you are on the Gliffy website and when you use Gliffy services.  Also, this Privacy Policy covers Gliffy's treatment of any personal information that Gliffy's business partners share with Gliffy.  This policy does not apply to the practices of third parties that Gliffy does not own or control, or to individuals that Gliffy does not employ or manage.</p>
-
-
-
-
-
-<br><br>
-
-<p><b>What Personal Information About Users Does Gliffy Collect?</b><br>
-
-Our primary goal in collecting personal information is to personalize and improve our service. We collect the following types of information from our users:</p>
-
-
-
-<br><br>
-
-<p><b>A)  Information You Provide to Us:  </b><br>
-
-We may receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.  The personal information you provide may be used for such purposes as responding to your requests for certain products and services, customizing the advertising and content you see, and communicating with you about specials, sales offers and new products.  </p>
-
-<ul>
-
-<li>Registration: In order for you to use our website, you must complete a registration form.  As part of this registration form, we require your email address.</li>
-
-<li>Gliffy Premium: To process your order for Gliffy Premium, we require contact information (such as billing address) and PayPal information.  This information is used for billing purposes.</li>
-
-</ul>
-
-
-
-	
-
-
-
-<br><br>
-
-<p><b>B)   Automatic Information: </b></p>
-
-<ul>
-
-<li>We may receive and store certain types of information whenever you interact with us.  Gliffy may automatically receive and record certain "traffic data" on our server logs from your browser including your IP address, Gliffy cookie information, and the page you requested.  Gliffy uses this traffic data to help diagnose problems with its server, analyze trends and administer the website.   </li>
-
-<li>Generally, our service may automatically collect usage information, such as the numbers and frequency of visitors to our website and its components.  This data is only used in the aggregate, that is, as a statistical measure, and not in a manner that would identify you personally.  This type of collective data enables us to figure out how often users use parts of the website, so we can make the website appealing to as many users as possible.  In addition, we may provide statistical information, not information about you personally, to our partners about how our users, collectively, use our website.   We share this type of statistical data so that our partners also understand how often people use their areas and our website, so that they, too, may provide you with an optimal Web experience.</li>
-
-<li>Many companies offer programs that help you to visit websites anonymously.  While Gliffy will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.</li>
-
-</ul>
-
-	
-
-<br><br>
-
-<p><b>C)   E-mail Communications:</b><br>
-
-We may receive a confirmation when you open an e-mail from Gliffy if your computer supports this type of program, in order to help us make e-mails more interesting and helpful.  We may also send out emails with news or promotions.  If you do not want to receive e-email or other mail from us, please update your profile under the "Profile" section of the website.  </p>
-
-
-
-<br><br>
-
-<p><b>D)   Information from Other Sources:</b><br>
-
-For purposes such as improving personalization of our service, we may receive information about you from other sources and add it to our account information.   </p>
-
-
-
-<br><br>
-
-<p><b>What about Cookies?</b> </p>
-
-<ul>
-
-<li>Cookies are alphanumeric identifiers that we may transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people.  Gliffy cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your email address is.</li>
-
-<li>The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies.  We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of Gliffy's most attractive features.</li>
-
-<li>Some of our business partners may use cookies on our website (for example, advertisers).  However, we have no access to or control over these cookies.</li>
-
-</ul>
-
-
-
-<br><br>
-
-<p><b>Will Gliffy Share Any of the Information it Receives?</b><br>
-
-We neither rent nor sell your personal information to anyone.  We share your personal information only with your consent or to the business partners and affiliates as described below:</p>
-
-
-
-<ul>
-
-<li><b>Affiliated Business We Do Not Control:</b><br>
-
-We are affiliated with a variety of businesses and work closely with them.  You can easily recognize when an affiliated business is associated with your transaction.  We will only share personal information that is necessary for the affiliate to complete the transaction.  We require our affiliates to provide the same level of privacy protection that we do and they do not have the right to share or use personal information for any purpose other than for an authorized transaction.</li>
-
-<li><b>Personnel:</b> <br>
-
-Our personnel (including, for the avoidance of doubt, consultants and/or contractors) may have access to user information while carrying out their duties in the normal course of our company business. </li>
-
-<li><b>Agents:</b><br>
-
-We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you.  Examples include fulfilling orders, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing payments, and providing customer service.  You hereby consent to our sharing of your personal information for the above purposes.  </li>
-
-
-
-<li><b>Promotional Offers:</b><br>
-
-We may send offers to certain users on behalf of other businesses.  However, when we do so, we do not give the other business your name and address.  If you do not wish to receive these offers, please update your profile under the "Profile" section of the website.</li>
-
-<li><b>Business Transfers:</b><br>
-
-In some cases, we may choose to buy or sell assets.  In these types of transactions, customer information is typically one of the business assets that is transferred.  Moreover, if Gliffy, or substantially all of its assets, were acquired, customer information would be one of the assets that is transferred or acquired by a third party.</li>
-
-<li><b>Protection of Gliffy and Others:</b><br>
-
-We may release personal information when we believe in good faith that release is necessary to comply with that law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Gliffy, our employees, our customers, or others.  This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.</li>
-
-</ul>
-
-	
-
-<br><br>
-
-<p><b>Is Information About Me Secure?</b><br></p>
-
-<ul>
-
-<li>Your Gliffy account information is protected by a password for your privacy and security.  You need to work to protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer.</li>
-
-<li>We use industry-standard Secure Socket Layer (SSL) software to protect the security of your personal information during transmission, which encrypts all of the information you input.</li>
-
-
-
-<li>Only Gliffy employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it.  All of our employees are kept up to date on our privacy and security practices.</li>
-
-</ul>
-
-
-
-<br><br>
-
-<p><b>What Information Can I Access?</b><br>
-
-You can access your personal information on our website and correct, amend, or delete information that is inaccurate by updating your profile under the "Profile" section of the website.</p>
-
-
-
-
-
-<br><br>
-
-<b>What Choices Do I Have?</b><br>
-
-<ul>
-
-<li>As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website.</li>
-
-<li>You are able to add or update certain information on pages, such as those listed in the "What Personal Information About Users Does Gliffy Collect?" section above.  When you update information, however, we often maintain a copy of the unrevised information in our records.</li>
-
-<li>You may request deletion of your Gliffy account by sending an email to contacting us at our <a rel="nofollow" href="support_form.php">support page</a>.  Please note that some information may remain in our records after deletion of your account.  </li>
-
-
-
-<li>If you do not wish to receive e-mail or other mail from us, please update your profile under the "Profile" section of the website.  Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Gliffy website, and you are responsible for reviewing such legal notices for changes.</li>
-
-<li>As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.</li>
-
-</ul>
-
-
-
-<br><br>
-
-<p><b>Can Children Use Gliffy's Services?</b><br>
-
-You must be 18 years and older to register to use the Gliffy website.  As a result, Gliffy does not specifically collect information about children.</p>
-
-
-
-
-
-<br><br>
-
-<p><b>Conditions of Use</b><br>
-
-If you decide to visit the Gliffy website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.  </p>
-
-
-
-<br><br>
-
-<p><b>Third Party Websites</b><br>
-
-Gliffy services may permit you to link to other websites on the Internet, and other websites may contain links to the Gliffy website.  These other websites are not under Gliffy control.  The privacy and security practices of websites linked to or from the Gliffy website are not covered by this Privacy Policy, and Gliffy is not responsible for the privacy or security practices or the content of such websites.</p>
-
-
-
-
-
-<br><br>
-
-<p><b>Changes to this Privacy Policy</b><br>
-
-Gliffy may amend this Privacy Policy from time to time, at its sole discretion.  Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.  If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Gliffy website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.</p>
-
-
-
-<br><br>
-
-<p><b>Questions or Concerns</b><br>
-
-
-
-If you have any questions or concerns regarding privacy at the Gliffy website, please send a detailed message to support(at)gliffy(dot)com.  Your privacy is important to us and we will make every effort to resolve your concerns.  </p>
-
-
-
-
-
-<br><br>
-
-<p><b>Effective Date of This Privacy Policy</b><br>
-
-This Privacy Policy is effective as of March 19th, 2007.</p>
-
-
-
-
-
-</div>
-
-
-
-		<div class="rightBody"> 
-
-<div class="rightnav_title">Legal</div> 
-<ul>
-	<li><div><a rel="nofollow" href="/terms_of_service.shtml">Terms Of Use</a></div></li>
-	<li><div><a rel="nofollow" href="/privacy_policy.shtml">Privacy Policy</a></div></li>
-	<li><div><a rel="nofollow" href="/copyright.shtml">Copyright Infringement Claims</a></div></li> 
-</ul>
-
-
-
-
-		</div> 
-
-
-
-
-
-</div>
- 
-	<div id="subPageBottom"></div>	
-
-	<div id="footer"> 
-	<a rel="nofollow" href="/products.shtml">Products</a> <span>&nbsp;</span>
-	<a rel="nofollow" href="/support.shtml">Support</a> <span>&nbsp;</span> 
-	<a rel="nofollow" href="/jobs/">Jobs</a> <span>&nbsp;</span> 
-	<a rel="nofollow" href="/about.shtml">About Us</a> <span>&nbsp;</span> 
- 
-        	<a rel="nofollow" href="/sitemap.shtml">Site Map</a> <span>&nbsp;</span>
-
-		<a rel="nofollow" href="/blog/">Blog</a><br>
-		<strong><span style="border-right-style: none;">©2008 Gliffy, Inc. All Rights Reserved.</span> <a rel="nofollow" href="/privacy_policy.shtml">Privacy Policy</a>.</strong>
-	</div>
-
-</div>
-
-
-
-
-
-
-<!-- NEW Google analytics tracking code -->
-<script language="javascript" type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script language="javascript" type="text/javascript">
-var pageTracker = _gat._getTracker("UA-248648-1");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
-
-
-
-
-
-
-
-
-
-	
-
-
-
+    <!-- end Mixpanel -->
+
+    <!-- SAAS-1214 - Windows Chrome 45 crash warning -->
+    <script>
+        if (is.windows() && is.chrome()) {
+            $('#winChrome45Alert').show();
+        }
+    </script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"13fe87a308","applicationID":"5291100","transactionName":"MVZbZhFRWhJXAURcWggcbEAKH1gEUQNcGkUUWk9TAEkZEVkOWVZMSENRQg==","queueTime":0,"applicationTime":70,"ttGuid":"","agentToken":"","atts":"HRFYEFlLSRw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 
 </body></html>
