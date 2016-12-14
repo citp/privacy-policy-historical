@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vanquis.co.uk privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315220410id_/https%3A//www.vanquis.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanquis.co.uk privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214033416id_/https%3A//www.vanquis.co.uk/privacy) for the most accurate reproduction.*
 
-# Vanquis - Privacy & Cookies
+# Privacy & Cookies - Vanquis
 
-**4th November 2014**
+**June 2016**
 
 This policy sets out how we use and protect any personal information that you give us when you use this website. If you have any questions about this policy or do not agree with it, please contact our customer services department at Vanquis Card, Customer Services, PO Box 399, Chatham, ME4 4WQ or on 0330 099 3000 ([Please click here for opening hours and call charge information](https://www.vanquis.co.uk/contact-us/telephone-number-and-call-charge-information)) before using this website. Full details are available when you apply and in the Vanquis Card terms and conditions. 
 
@@ -36,45 +36,20 @@ You can change your mind at any time by contacting Vanquis Card, Customer Servic
 
 **You have a legal right to prevent your information being used for direct marketing purposes.**
 
-## Email marketing 
+## Email/Text marketing 
 
-We would also like to provide you with the information above by email. However, we appreciate that email and text “spam” has become a problem in recent years. Therefore we would only use one of these methods to market to you if you have indicated your consent. If you are a customer or you have previously asked us for information on our products, we may send you information on our range of products and/or services by email, unless you have asked us not to do so.
+We would also like to provide you with the information above by email and/or text. However, we appreciate that email and text “spam” has become a problem in recent years. Therefore we would only use one of these methods to market to you if you have indicated your consent. If you are a customer or you have previously asked us for information on our products, we may send you information on our range of products and/or services by email and/or text, unless you have asked us not to do so.
 
-If the reason you have given us personal information is to receive email information from us, we will continue to provide this information by email unless you ask us not to do so.
+If the reason you have given us personal information is to receive email and/or text information from us, we will continue to provide this information by email unless you ask us not to do so.
 
-Otherwise, when you provide us with personal information, we will ask you whether or not you are happy for us to send you this kind of information by email. If you decide at any time that you no longer wish to receive marketing emails from us, please write to us at Vanquis Card, Customer Service, PO Box 399, Chatham, ME4 4WQ. 
+Otherwise, when you provide us with personal information, we will ask you whether or not you are happy for us to send you this kind of information by email and/or text.
 
-We will process, by computer or otherwise, personal information about you whilst we are assessing your application and/or managing your Account. We may search your credit record at credit reference agencies in relation to your application or for managing your Account, and they will supply us with credit and/or identification information.
+If you are a former customer or if your application was declined, we will contact you for these purposes by email and/or text for a period of up to three years from either the date of your account being closed, or from the date you made your most recent declined application.
 
-Details of our search will be added to their records whether or not your application is successful. Credit and identification information about you and those with whom you are financially linked, which is provided to us and credit reference agencies, may be used by us and other companies to make credit decisions about you and other members of your household. Any of this information may also be used for identification purposes, debt tracing and prevention of money laundering, as well as the management of your Account. 
+If you decide at any time that you no longer wish to receive marketing emails and/or texts from us, please write to us at Vanquis Card, Customer Service, PO Box 399, Chatham, ME4 4WQ.
 
-When assessing your application, we may use credit scoring or other automated decision making facilities.
+  
 
-We will, on a regular monthly basis, provide details of the performance of your Account to credit reference agencies. This information may be used by other companies to make decisions about credit and credit-related services for you and other members of your household. It is important that you give us accurate information. We will check your details with fraud prevention agencies and if you give us false or inaccurate information and we suspect fraud, we will record this. 
-
-We and other organisations may search and use these records to:
-
-i) help make decisions about credit and credit-related services for you and members of your household;
-
-ii) help make decisions on motor, household, credit, life and other insurance proposals and insurance claims for you and members of your household;
-
-iii) trace debtors, recover debt, prevent fraud, and manage your Account(s) or insurance policies; and/or
-
-iv) check your identity to prevent money laundering unless you provide us with other satisfactory proof of identity.
-
-We, the credit reference agencies, the fraud prevention agencies and/or the Provident Financial group may use the fraud prevention agency and/or credit performance records for statistical analysis about credit, insurance and fraud. We may also use your information to carry out market research. 
-
-For the purposes of managing your Account, credit assessment and analysis, your information may be shared within the Provident Financial group and outside the group to:
-
-i) our agents, processors and sub contractors; 
-
-ii) any of our approved suppliers; 
-
-iii) the police, if required by law; and/or
-
-iv) any relevant regulatory authority, if required by law.
-
-We may contact you by post, email, telephone or mobile text and/or messaging service (SMS) about products or services relating to your account or application. 
 
 ##  Managing your account and processing your application
 
@@ -119,7 +94,10 @@ We may contact you by post, email, telephone or mobile text and/or messaging ser
 
 
 
-We will not transfer, disclose, sell, distribute or lease your personal information to third parties other than potential purchasers of our business without your permission unless this is necessary for the reasons set out in the “What we do with the information we collect” section or where we are required to do so by law. We may release your personal information to our authorised direct marketing or other agents unless you tell us that you do not wish this to happen. 
+We will not transfer, disclose, sell, distribute or lease your personal information to third parties other than potential purchasers of our business without your permission unless this is necessary for the reasons set out in the “What we do with the information we collect” section or where we are required to do so by law. We may release your personal information to our authorised direct marketing or other agents unless you tell us that you do not wish this to happen.
+
+  
+
 
 ## How to get copies of or amend the information we have collected
 
@@ -127,9 +105,22 @@ You may request details of personal information which we hold about you under th
 
 If you think any information we have about you is incorrect or incomplete, please write to us. We will correct or update any information as soon as possible.
 
+  
+
+
+## Call Recording
+
+We may monitor or record phone calls for training and/or security purposes.
+
+  
+
+
 ##  Security 
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. However, we cannot guarantee the security of any data you disclose online. You should be aware of the inherent security risks of providing information and dealing online over the internet. You do not hold us responsible for any breach of security unless this is due to our negligence or wilful default.
+
+  
+
 
 ## Linking 
 
@@ -146,6 +137,9 @@ Cookies can't harm your computer and we don't store personally identifiable info
 You can, should you choose, disable the cookies from your browser and delete all cookies currently stored on your computer. Your cookie settings are set separately for each different device, computer or browser and if you want to change your cookie settings you will need to do so for each device, computer or browser.
 
 If you disable cookies, you'll still be able to browse the site but you will not be able to use all the features, for example the ability to view your account online. Most web browsers have cookies enabled by default, if you want to review your cookie setting please see the section entitled Managing cookies.
+
+  
+
 
 ## Further reading about Cookies:
 
