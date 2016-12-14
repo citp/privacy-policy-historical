@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the izotope.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402133242id_/https%3A//www.izotope.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the izotope.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214165420id_/https%3A//www.izotope.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # iZotope Privacy Policy | Audio Plug-ins, VTS, AAX
 
 ### Privacy Statement
 
-**Personal Identification Information**
+Personal Identification Information
 
-iZotope allows you to voluntarily provide us with contact information through our website and when you’re redeeming offers or registering products. The information we may collect includes your name, email address, phone number, and past purchases. We do not collect or store credit card information. We may use this information to provide you with news and offers for upgrades and discounts. But we only want to stay in contact with people that are interested in what we're doing. If you do not want to receive e-mails or other contacts from iZotope, Inc. you can remove yourself from our mailing lists by [unsubscribing](https://web.archive.org/en/company/newsletters/unsubscribe/).
+iZotope allows you to voluntarily provide us with contact information through our website and when you’re redeeming offers or registering products. The information we may collect includes your name, email address, phone number, and past purchases. We do not collect or store credit card information. We may use this information to provide you with news and offers for upgrades and discounts. But we only want to stay in contact with people that are interested in what we're doing. If you do not want to receive e-mails or other contacts from iZotope, Inc. you can remove yourself from our mailing lists by [unsubscribing](https://www.izotope.com/en/company/newsletters/unsubscribe/).
 
-Your privacy is very important to us. If you have any questions or concerns regarding our privacy policies please [contact us](https://web.archive.org/en/company/contact-us/).
+Your privacy is very important to us. If you have any questions or concerns regarding our privacy policies please [contact us](https://support.izotope.com/customer/portal/emails/new).
 
-**Non-personal Identification Information**
+Non-personal Identification Information
 
 iZotope collects non-personal identification information about you whenever you interact with our website. Non-personal identification information may include browser name, type of computer, and technical information about your means of connecting to our website, such as the operating system, the Internet service provider utilized, and other similar information. We use this information to optimize and improve our website.
 
-**Cookies**
+Cookies
 
 iZotope uses cookies on its website. These cookies are stored by your browser for record-keeping purposes and to track information about you, such as your IP address and your browsing behavior on the iZotope website. iZotope may then personalize its website content based on your browsing behavior. iZotope also analyzes the data through the use of Google Analytics and Google AdWords.
 
 Further, third-party vendors including AdRoll and Google may use the cookie information about your prior visits to the iZotope website in order to place targeted iZotope advertisements on other sites you visit.  
-You may choose to set your web browser to refuse cookies. You may also opt out of a third-party vendor’s use of cookies by using the NIA opt-out site at <http://www.networkadvertising.org/choices/>, or for those in Europe, the EDAA opt out site at <http://www.youronlinechoices.com/>
+You may choose to set your web browser to refuse cookies. You may also opt out of a third-party vendor’s use of cookies by using the NIA opt-out site at <http://www.networkadvertising.org/choices/>, or for those in Europe, the EDAA opt out site at <http://www.youronlinechoices.com/>
 
 Some iZotope downloads or software generate a Computer ID value during installation. This ID does not contain any specific information about you or the data on your computer.
 
@@ -41,7 +41,7 @@ iZotope reserves the right to remove content that does not comply with the condu
 
 #### Subscription Removal
 
-If you do not want to receive promotional or other e-mail from iZotope, Inc. you can [remove yourself](https://web.archive.org/en/company/newsletters/unsubscribe/ "remove yourself") from our mailing lists.
+If you do not want to receive promotional or other e-mail from iZotope, Inc. you can [remove yourself](https://www.izotope.com/en/company/newsletters/unsubscribe/ "remove yourself") from our mailing lists.
 
 #### Disclaimer of Warranties and Limitation of Liability
 
