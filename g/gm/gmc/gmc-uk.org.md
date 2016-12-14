@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmc-uk.org privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619115545id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmc-uk.org privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214191713id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.*
 
 # GMC | Privacy and Cookies policy
 
@@ -39,6 +39,7 @@ If you provide your details when enquiring about revalidation, confirming whethe
   * To process your enquiry or annual return
   * To determine how to revalidate you
   * We may contact, and disclose information to your appraiser(s), bodies and/or organisations to which you have provided medical services, any Responsible Officer or Suitable Person who you have had a connection to since your last revalidation and overseas regulators in the EEA and elsewhere where you have been registered
+  * We may also disclose your information to third parties with whom we have entered into a contract to undertake research or to perform a contractual obligation on our behalf (such as for example quality assurance or audit purposes)
   * We may retain information provided by you for revalidation on our files and may disclose that information to overseas regulators in the EEA and elsewhere.
 
 
@@ -48,7 +49,7 @@ If you subsequently obtain registration from the GMC, or if you provide informat
   * update the registers
   * administer and maintain your registration
   * process complaints
-  * compile statistics and undertake research. We may work in partnership with external researchers to do this.
+  * compile statistics, undertake research, quality assure or audit the revalidation process. We may work in partnership with third parties to do this.
   * keep you updated with information about the GMC including guidance and news*
 
 
@@ -97,9 +98,9 @@ You are also able to make a request for all information that we hold about you u
 
 We use several social media sites to raise awareness of our work and promote good medical practice. Please note that your use of these sites will be subject to each one’s terms and conditions. Please read their Privacy and Cookie notices carefully and check your personal settings where appropriate to ensure you are happy with how your information will be used by the social media site. We don’t actively collect data you submit to any third party websites, but may collect aggregated information (that doesn’t identify you) in order to help us monitor access to our content. We use the following social media sites:
 
-  * [Twitter](https://www.twitter.com/gmcuk)
-  * [Facebook](https://www.facebook.com/GMCUK)
-  * [Google+](https://plus.google.com/u/0/103853150037270723033)
+  * [Twitter](https://www.twitter.com/gmcuk "Opens in a new window")
+  * [Facebook](https://www.facebook.com/GMCUK "Opens in a new window")
+  * [Google+](https://plus.google.com/u/0/103853150037270723033 "Opens in a new window")
   * [LinkedIn](http://www.linkedin.com/company/general-medical-council "Opens in a new window")
   * [Wordpress](http://gmcuk.wordpress.com/ "Opens in a new window")
   * [Storify](http://storify.com/GMCUK "Opens in a new window")
@@ -158,6 +159,35 @@ You will need to create a password that is at least six characters long containi
 #### Changes
 
 If we make changes, we will notify you by updating this notice which you will be required to accept in order to continue using this Application.
+
+### My GMP
+
+This app has been developed to enable doctors to access our standards guidance and other supporting materials online and offline..
+
+#### Personal data
+
+When you first download the App, we will ask you whether you are a:
+
+(a) Doctor  
+(b) Doctor in training  
+(c) Responsible Officer  
+(d) Member of the public  
+(e) Employer  
+(f) Other
+
+This information is collected for analytical and statistical purposes only, and the GMC will not collect any personally identifiable information about you.
+
+#### Analytics
+
+We will track and store certain types of anonymised data whenever you use our app. We will only use this data in aggregate form, for statistical purposes, and not in a way that would enable us to identify you personally. The data will only be used for internal statistical reporting purposes.
+
+#### Disclaimer
+
+The GMC updates its guidance periodically, so if you haven’t connected the app to the internet for a while, there’s a possibility the app will be out of date. If you intend to use this App to review the guidance, then you are responsible for ensuring that you consult the most up-to-date version of Good Medical Practice. The GMC cannot take any responsibility if you fail to update the App, and subsequently consult an out-of-date version of the guidance. The most up-to-date version of Good Medical Practice will also always be available on the GMC website.
+
+#### Changes to this Privacy Policy
+
+Any changes we may make to this App's privacy policy in the future will be posted on this page.
 
 ## 5\. Website security: how we protect your information
 
