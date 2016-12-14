@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buddyplay.net privacy policy that was archived on 2015-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150116153730id_/http%3A//www.buddyplay.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buddyplay.net privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214100014id_/http%3A//www.buddyplay.net/privacy) for the most accurate reproduction.*
 
-# buddyplay
+# Buddyplay | Privacy Policy
 
 ## Privacy Policy
 
