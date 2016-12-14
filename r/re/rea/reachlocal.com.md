@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reachlocal.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630062932id_/http%3A//www.reachlocal.com/us/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachlocal.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214140400id_/http%3A//www.reachlocal.com/us/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ReachLocal
 
-ReachLocal, Inc. (“ReachLocal”, “we”, “us”) is committed to respecting your privacy and recognizes your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with us. ReachLocal has established this Privacy Policy to let you know what information we may collect from you on the publicly available portion of Reachlocal.com (the “Site”) and through various other interactions with you, and how we may use and share that information. Please take a moment to review the terms of our Privacy Policy. By using the Site and/or providing us Personal Information, you agree to accept the terms of our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site or provide us any Personal Information. This Privacy Policy applies to information that we collect on the Site and to information which we may collect by other “offline” means, including, without limitation, sales calls and other business transactions.
+ReachLocal, Inc. (“ReachLocal”, “we”, “us”) is committed to respecting your privacy and recognizes your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with us. ReachLocal has established this Privacy Policy to let you know what information we may collect from you on the publicly available portion of Reachlocal.com (the “Site”) and through various other interactions with you, and how we may use and share that information. Please take a moment to review the terms of our Privacy Policy. By using the Site and/or providing us Personal Information, you agree to accept the terms of our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site or provide us any Personal Information. This Privacy Policy applies to information that we collect on the Site and to information which we may collect by other “offline” means, including, without limitation, sales calls and other business transactions. A description of the information we collect on behalf of our advertiser clients through our advertising services is set out in our [Notice of Marketing Practices.](https://www.reachlocal.com/us/en/legal/reachlocal-notice-marketing-practices)
 
 ###  Personal Information test
 
@@ -63,6 +63,6 @@ ReachLocal makes no representation that this Privacy Policy and such practices c
 If you have any comments or questions regarding our Privacy Policy, please contact us at [privacy@reachlocal.com](mailto:privacy@reachlocal.com), or at our contact information below.
 
 ReachLocal, Inc.  
-21700 Oxnard Street Suite 1600  
+21700 Oxnard Street, Suite 1600  
 Woodland Hills, CA 91367  
 888-466-2520
