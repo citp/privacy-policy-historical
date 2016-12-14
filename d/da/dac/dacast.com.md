@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dacast.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610042457id_/http%3A//www.dacast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dacast.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214125021id_/http%3A//www.dacast.com/privacy-policy) for the most accurate reproduction.*
 
 # Broadcaster and Viewer Privacy Policy
 
@@ -93,5 +93,3 @@ Use of the DACAST Properties is not intended for minors under the age of 18 (“
 #### 9\. CONTACT DACAST
 
 If you have any questions about this Privacy Policy please contact DACAST by sending a letter or e-mail to: DACAST, LLC. Attn: Privacy 1175 Folsom street San Francisco, CA 94103 [privacy@dacast.com](mailto:privacy@dacast.com)
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.dacast.com%2Fprivacy-policy%2F&media=http%3A%2F%2Fwww.dacast.com%2Fwp-content%2Fuploads%2F2014%2F05%2Fprivacy-policy.jpg)
