@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bexar.org privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608230436id_/http%3A//www.bexar.org/411/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bexar.org privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214203247id_/http%3A//www.bexar.org/411/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bexar County, TX - Official Website
 
