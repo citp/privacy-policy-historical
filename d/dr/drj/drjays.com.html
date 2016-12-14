@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the drjays.com privacy policy that was archived on 2016-03-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160319015600id_/http%3A//www.drjays.com/content/customerservice/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the drjays.com privacy policy that was archived on 2016-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161214135437id_/http%3A//www.drjays.com/content/customerservice/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>DrJays.com - Customer Service - Privacy</title><meta name="description" content="Privacy - Customer Service at DrJays.com"> <meta name="author" content="DrJays.com">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="http://www.drjays.com/content/customerservice/privacy_policy.html"> <link rel="stylesheet" type="text/css" href="http://mediaext.djnetworks.net/dj-includes/css/global.css?busta=6&amp;__busta=1456774336"> <script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://mediaext.djnetworks.net/dj-includes/javascript/jscombined.js?__busta=1416430679"></script> <script type="text/javascript">
+<link rel="canonical" href="http://www.drjays.com/content/customerservice/privacy_policy.html"> <link rel="stylesheet" type="text/css" href="http://mediaext.djnetworks.net/dj-includes/css/global.css?busta=6&amp;__busta=1474084081"> <script type="text/javascript" async="" src="https://beacon.riskified.com?shop=DrJays.com&amp;sid=1956936018"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://mediaext.djnetworks.net/dj-includes/javascript/jscombined.js?__busta=1416430679"></script> <script type="text/javascript">
 dj.is_dev = 0;
  dj.upsell.mode   = "deprecated";
 dj.upsell.event  = "";
@@ -59,18 +59,185 @@ hl.currency = dj.currency.code === '' ? 'usd' : dj.currency.code; </script> <scr
 }
 
 
-</script> <script src="//d3c3cq33003psk.cloudfront.net/opentag-100459-1265599.js" async="" defer=""></script> <script type="text/javascript" src="//display.ugc.bazaarvoice.com/static/DrJays/en_US/bvapi.js">
+</script> <script src="https://d3v27wwd40f0xu.cloudfront.net/js/tracking/sidecar_drjays.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+    var uv = window.universal_variable,
+        pageType = uv.page.type;
+    var sidecar = sidecar || {};
+    if(pageType == 'Product'){
+        sidecar.product_info = {
+            group_id: ''
+        }
+    } else if (pageType == 'Confirmation'){
+        var uvOrder = uv.transaction,
+            uvProds = uv.transaction.line_items;
+        var items = [];
+        for (var i = 0; i < uvProds.length; i++ ){
+            var obj = uvProds[i].product;
+            var item = {
+                product_id : obj.id,
+                unit_price :obj.unit_price,
+                quantity : uvProds[i].quantity
+            };
+            items[i] = item;
+            
+
+        }
+ sidecar.transactions = {
+            add: true,
+            data: {
+                order_id: uvOrder.order_id,
+                subtotal: uvOrder.subtotal,
+                tax: uvOrder.tax,
+                shipping: uvOrder.shipping_cost,
+                total: uvOrder.total,
+ zipcode: uvOrder.billing.postcode
+            },
+            items : items
+        };
+
+
+    }
+
+</script> <script type="text/javascript" src="//display.ugc.bazaarvoice.com/static/DrJays/en_US/bvapi.js">
+</script> <script type="text/javascript">
+//<![CDATA[
+(function() {
+  function riskifiedBeaconLoad() {
+    var store_domain = 'DrJays.com';
+    var session_id = '1956936018';
+    var url = ('https:' == document.location.protocol ? 'https://' : 'http://')
+      + "beacon.riskified.com?shop=" + store_domain + "&sid=" + session_id;
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = url;
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
+  }
+  if (window.attachEvent)
+    window.attachEvent('onload', riskifiedBeaconLoad)
+  else
+    window.addEventListener('load', riskifiedBeaconLoad, false);
+})();
+//]]>
 </script> <link rel="SHORTCUT ICON" href="http://mediaext.djnetworks.net/dj-includes/images/static/drjays.ico">
 </head> <body id="cs"><a name="top"></a> <div id="wrapper"> 
   <div id="header">
- 
-<div id="header_promo">
-<div id="header_promobanner" class="text">15% OFF, CODE: ANY15<span> // </span>20%* OFF $50+, Code: ANY20 <span> // </span> <a href="/content/promo/2015/03/exclusions_0303.html?type=popup" class="djpopup-500-500-exclusions">Details</a></div>
-</div>
-<div id="header_container">
+ <div id="header_promo">
+<div id="header_promobanner" class="text"><span id="header_promo_code"></span><span id="promo_clock_span" style="display: none;"><span class="countdown_hour"></span><span class="countdown-separator">:</span><span class="countdown_minute"></span><span class="countdown-separator">:</span><span class="countdown_second"></span> <span class="promo-separator-last">//</span> </span> <span id="header_promo_popup"></span></div>
+<script type="text/javascript">
+// Fill in dates for the promo along with the code and popup here
+// Fill this in ascending date order, delete as promos go stale
+// Format: ['start', 'end', 'code', 'popup', 'ticker on / off']
+// Sample:
+// ['2015/09/11 00:00:00 GMT-0500', '2015/09/13 23:59:59 GMT-0500', '80% OFF, CODE: YOMOMMA;', '<a href="/content/promo/2015/03/exclusions_0303.html?type=popup" class="djpopup-500-500-exclusions">Details</a>'', 'on'], 
+var schedule = [
+	
+	
+
+	['2016/12/12 00:00:00 GMT-0500', '2016/12/13 23:59:59 GMT-0500', '20% OFF ANY ORDER, CODE: 20EXTRA <span class="promo-separator">//</span> 40%* OFF THE HOLIDAY SHOP, Code: 40EXTRA <span class="promo-separator">//</span> ', '<a href="/content/promo/2016/12/exclusions_1213.html?type=popup" class="djpopup-600-450-exclusions">Details</a>', 'on'],
+	['2016/12/14 00:00:00 GMT-0500', '2016/12/15 23:59:59 GMT-0500', '20% OFF ANY ORDER, CODE: 20EXTRA <span class="promo-separator">//</span> 40%* OFF THE HOLIDAY SHOP, Code: 40EXTRA <span class="promo-separator">//</span> ', '<a href="/content/promo/2016/12/exclusions_1213.html?type=popup" class="djpopup-600-450-exclusions">Details</a>', 'off'],
+	['2016/12/16 00:00:00 GMT-0500', '2016/12/16 23:59:59 GMT-0500', '20% OFF ANY ORDER, CODE: 20EXTRA <span class="promo-separator">//</span> 40%* OFF THE HOLIDAY SHOP, Code: 40EXTRA <span class="promo-separator">//</span> ', '<a href="/content/promo/2016/12/exclusions_1213.html?type=popup" class="djpopup-600-450-exclusions">Details</a>', 'on'],
+	['2016/12/17 00:00:00 GMT-0500', '2016/12/17 23:59:59 GMT-0500', '20% OFF ANY ORDER, CODE: 20EXTRA <span class="promo-separator">//</span> 40%* OFF THE HOLIDAY SHOP, Code: 40EXTRA <span class="promo-separator">//</span> ', '<a href="/content/promo/2016/12/exclusions_1213.html?type=popup" class="djpopup-600-450-exclusions">Details</a>', 'off']
+
+	
+];
+
+
+// iterate over each element in the schedule
+for(var i=0; i<schedule.length; i++){
+  var startDate = schedule[i][0];
+  var endDate = schedule[i][1];
+  var codes = schedule[i][2];
+  var popup = schedule[i][3];
+  var ticker = schedule[i][4];
+
+  // put dates in milliseconds for easy comparisons
+  var startMs = Date.parse(startDate);
+  var endMs = Date.parse(endDate);
+  var currentMs = Date.parse(new Date());
+
+  // if current date is between start and end dates, display clock
+  if(endMs > currentMs && currentMs >= startMs ){
+      initializeClock('promo_clock_span', endDate);
+      fillPromoHeaderDetails(codes, popup);
+      break;
+  }
+}
+
+function fillPromoHeaderDetails(codes, popup) {
+  var promoCodeHeader = document.getElementById('header_promo_code');
+  var promoPopupHeader = document.getElementById('header_promo_popup');
+
+  promoCodeHeader.innerHTML = codes;
+  promoPopupHeader.innerHTML = popup;
+};
+
+function getPromoTimeRemaining(endtime){
+  var t = Date.parse(endtime) - Date.parse(new Date());
+  var seconds = Math.floor( (t/1000) % 60 );
+  var minutes = Math.floor( (t/1000/60) % 60 );
+  var hours = Math.floor( (t/(1000*60*60)) % 24 );
+  var days = Math.floor( t/(1000*60*60*24) );
+  var hoursWithDays = hours + (days * 24);
+  return {
+    'total': t,
+    'days': days,
+    'hours': hours,
+    'hoursWithDays': hoursWithDays,
+    'minutes': minutes,
+    'seconds': seconds
+  };
+}
+
+function initializeClock(id, endtime){
+  var clock = document.getElementById(id);
+  clock.style.display = 'inline';
+  //var daysSpan = clock.querySelector('.days');
+  var hoursSpan = clock.querySelector('.countdown_hour');
+  var minutesSpan = clock.querySelector('.countdown_minute');
+  var secondsSpan = clock.querySelector('.countdown_second');
+
+
+  function updateClock(){
+    var t = getPromoTimeRemaining(endtime);
+	
+
+    //daysSpan.innerHTML = t.days;
+    hoursSpan.innerHTML = ('0' + t.hoursWithDays).slice(-2);
+    minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
+    secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
+
+    if(t.total<=0){
+      clearInterval(timeinterval);
+      document.getElementById('promo_clock_span').innerHTML ='Time\'s up! ';
+    }
+	
+	
+	//turn ticker countdown display on or off
+	
+	var ticker_span = document.querySelector('#promo_clock_span')
+	
+	if (ticker === "on") {
+		ticker_span.style.display='inline';
+	} else if (ticker === "off") {
+		ticker_span.style.display='none';
+	}
+
+  }
+
+  updateClock(); // run function once at first to avoid delay
+  var timeinterval = setInterval(updateClock,1000);
+}
+</script>
+</div> <div id="header_container">
 <div id="header_logo">
 <h1><a href="/" alt="DrJays.com">
-<img src="http://mediaext.djnetworks.net/media/static/dj-includes/images/static/2014/dj-logo-blk.png" width="121" height="20" alt="DrJays.com">
+ 
+ 
+<img src="http://mediaext.djnetworks.net/media/static/dj-includes/images/holiday/dj-logo-holiday.png" width="121" height="20" alt="DrJays.com - Happy Holidays!">
 </a>
 <span>DrJays.com</span>
 </h1>
@@ -170,21 +337,21 @@ hl.currency = dj.currency.code === '' ? 'usd' : dj.currency.code; </script> <scr
 <li><a href="/shop/G2-V10912-R340/big-tall.html">Big &amp; Tall</a></li>
 <li><a href="/shop/G2-V2926-R340/boots.html">Boots</a></li>
 <li><a href="/shop/G2-V787-R340/button-downs.html">Button Downs</a></li>
-<li><a href="http://www.drjays.com/search?cmd=main&amp;keywords=mens+denim&amp;submit.x=0&amp;submit.y=0">Denim</a></li>
+<li><a href="/search?cmd=main&amp;keywords=mens+denim&amp;submit.x=0&amp;submit.y=0">Denim</a></li>
 <li><a href="/shop/G2-V297253-R340/hats.html">Hats</a></li>
 <li><a href="/shop/G2-V69563-R340/hoodies.html">Hoodies</a></li>
 <li><a href="/shop/G2-V3487-R340/outerwear.html">Jackets &amp; Coats</a></li>
 <li><a href="/shop/G2-V499-R340/jeans.html">Jeans</a></li>
+<li><a href="/search?cmd=main&amp;keywords=mens+joggers&amp;submit.x=0&amp;submit.y=0">Joggers</a></li>
 </ul>
 </div>
 <div id="dropdown_col2">
 <ul>
-<li><a href="/search?cmd=main&amp;keywords=mens+joggers&amp;submit.x=0&amp;submit.y=0">Joggers</a></li>
-<li><a href="/search?cmd=main&amp;keywords=jogger+shorts&amp;submit.x=0&amp;submit.y=0">Jogger Shorts</a></li>
 <li><a href="/shop/G2-V110928-R340/light-jackets.html">Light Jackets</a></li>
 <li><a href="/shop/G2-V69730-R340/shorts.html">Shorts</a></li>
 <li><a href="/shop/G2-V3534-R340/sneakers.html">Sneakers</a></li>
 <li><a href="/shop/G2-V217744-R340/socks.html">Socks</a></li>
+<li><a href="/shop/G2-V4180-R340/sunglasses.html">Sunglasses</a></li>
 <li><a href="/shop/G2-V3811-R340/sweatpants.html">Sweatpants</a></li>
 <li><a href="/shop/G2-V467-R340/sweatshirts-sweaters.html">Sweatshirts</a></li>
 <li><a href="/shop/G2-V347-R340/t-shirts.html">T-Shirts</a></li>
@@ -198,29 +365,29 @@ hl.currency = dj.currency.code === '' ? 'usd' : dj.currency.code; </script> <scr
 <div class="dropdown_title">Top Brands:</div>
 <div id="dropdown_col1">
 <ul>
-<li><a href="/shop/G1-V352-R319/adidas.html">Adidas</a></li>
+<li><a href="/shop/G1-V407952-R319/47.html">'47</a></li>
+<li><a href="/shop/G1-V352-R319/adidas.html">adidas</a></li>
 <li><a href="/shop/G1-V747-R319/basic-essentials.html">Basic Essentials</a></li>
+<li><a href="/shop/G1-V407458-R319/black-pyramid.html">Black Pyramid</a></li>
+<li><a href="/shop/G1-V390344-R319/born-fly.html">Born Fly</a></li>
 <li><a href="/shop/G1-V3899-R319/buyers-picks.html">Buyers Picks</a></li>
-<li><a href="/shop/G1-V360929-R319/civil.html">Civil</a></li>
 <li><a href="/shop/G1-V3964-R319/converse.html">Converse</a></li>
 <li><a href="/shop/G1-V122126-R319/crooks-castles.html">Crooks &amp; Castles</a></li>
 <li><a href="/shop/G5-V356157-R319/diamond-supply-co.html">Diamond Supply</a></li>
-<li><a href="/shop/G5-V361062-R319/dnine-reserve.html">DNINE Reserve</a></li>
-<li><a href="/shop/G5-V384699-R319/eptm.html">EPTM.</a></li>
-<li><a href="/shop/G1-V101290-R319/fila.html">Fila</a></li>
 <li><a href="/shop/G1-V259783-R319/hudson-nyc.html">Hudson NYC</a></li>
+<li><a href="/shop/G1-V4993-R319/lrg.html">LRG</a></li>
 </ul>
 </div>
 <div id="dropdown_col2">
 <ul>
-<li><a href="/shop/G1-V4993-R319/lrg.html">LRG</a></li>
 <li><a href="/shop/G1-V168743-R319/mitchell-ness.html">Mitchell &amp; Ness</a></li>
-<li><a href="/shop/G1-V5201-R319/new-era.html">New Era</a></li>
 <li><a href="/shop/G5-V384967-R319/pink-dolphin.html">Pink Dolphin</a></li>
+<li><a href="/shop/G5-V12564-R319/puma.html">Puma</a></li>
+<li><a href="/shop/G1-V130381-R319/radii-footwear.html">Radii</a></li>
 <li><a href="/shop/G5-V4402-R319/reebok.html">Reebok</a></li>
 <li><a href="/shop/G1-V5651-R319/rocawear.html">Rocawear</a></li>
-<li><a href="/shop/G1-V189655-R319/supra.html">Supra</a></li>
 <li><a href="/shop/G1-V5686-R319/the-north-face.html">The North Face</a></li>
+<li><a href="/shop/G5-V256314-R319/the-hundreds.html">The Hundreds</a></li>
 <li><a href="/shop/G1-V2916-R319/timberland.html">Timberland</a></li>
 <li><a href="/shop/G1-V307440-R319/under-armour.html">Under Armour</a></li>
 <br>
@@ -231,13 +398,14 @@ hl.currency = dj.currency.code === '' ? 'usd' : dj.currency.code; </script> <scr
 <div id="dropdown_coltrend" class="dropdown_topnav dropdown_topnav_last">
 <div class="dropdown_title">Featured Shops:</div>
 <ul style="margin: 10px 0 0 20px;">
-<li><a href="/content/trends/2016/spring/mens/index.html">Spring Sport Luxe</a></li>
+<li><a href="/content/holiday/mens-gift-guide.html">Gift Guide</a></li>
+<li><a href="/shop/G1-R400680/weather-your-style.html">Stylist Selects</a></li>
 <li><a href="/shop/G1-R399565/athleisure-for-men.html">Athleisure</a></li>
-<li><a href="/shop/G1-R400680/weather-your-style.html">Weather Your Style</a></li>
 <li><a href="/shop/G1-R400682/snow-gear-men.html">Snow Gear</a></li>
 <li><a href="/shop/G1-R399585/the-classic-bomber-jacket.html">Bomber Jackets</a></li>
+<li><a href="/shop/G1-R409445/dad-hats.html">Dad Hats</a></li>
+<li><a href="/content/trends/2016/spring/mens/index.html">Spring Lookbook</a></li>
 <li><a href="/shop/G1-R399566/the-camper.html">The Camper</a></li>
-<li><a href="/shop/G1-R400681/netflix-chill.html">Netflix &amp; Chill</a></li>
 </ul>
 </div>
 </div>
@@ -296,7 +464,7 @@ hl.currency = dj.currency.code === '' ? 'usd' : dj.currency.code; </script> <scr
 </div>
 <div id="dropdown_coltrend" class="dropdown_topnav dropdown_topnav_last">
 <div class="dropdown_title">New Arrivals:</div>
-<div class="topnav-thumb-img"><a href="/shop/G2-V10912-R340/big-tall.html" alt="Men's Trends"><img src="http://mediaext.djnetworks.net/media/static/dj-includes/images/nav/2015/09/29/nav-bt.jpg" alt="Big and Tall at DrJays.com"></a></div>
+<div class="topnav-thumb-img"><a href="/shop/G2-V10912-R340/big-tall.html" alt="Big and Tall New Arrivals"><img src="http://mediaext.djnetworks.net/media/static/dj-includes/images/nav/2016/09/29/new-b&amp;t.jpg" alt="Big and Tall at DrJays.com"></a></div>
 </div>
 </div>
 </div> </div>
@@ -325,12 +493,10 @@ hl.currency = dj.currency.code === '' ? 'usd' : dj.currency.code; </script> <scr
 <ul>
 <li><a href="/shop/G2-V1911-R396/accessories.html">Accessories</a></li>
 <li><a href="/shop/G1-R405504/athleisure-for-women.html">Athleisure</a></li>
-<li><a href="/shop/G2-V721-R396/bags.html">Bags</a></li>
+<li><a href="/shop/G2-V1892-R396/backpacks.html">Backpacks</a></li>
 <li><a href="/shop/G2-V1929-R396/boots.html">Boots</a></li>
-<li><a href="/shop/G2-V1898-R396/sneakers.html">Sneakers</a></li>
-<li><a href="/shop/G2-V1869-R396/heels.html">Heels</a></li>
 <li><a href="/shop/G2-V656-R396/dresses.html">Dresses</a></li>
-<li><a href="/shop/G2-V2019-R396/handbags.html">Handbags</a></li>
+<li><a href="/shop/G2-V1869-R396/heels.html">Heels</a></li>
 <li><a href="/shop/G2-V75753-R396/hoodies.html">Hoodies</a></li>
 <li><a href="/shop/G2-V490-R396/intimates-sleepwear.html">Intimates</a></li>
 <li><a href="/shop/G2-V437-R396/jeans.html">Jeans</a></li>
@@ -343,6 +509,8 @@ hl.currency = dj.currency.code === '' ? 'usd' : dj.currency.code; </script> <scr
 <li><a href="/shop/G2-V600-R396/outerwear.html">Jackets &amp; Coats</a></li>
 <li><a href="/shop/G2-V55658-R396/leggings.html">Leggings</a></li>
 <li><a href="/shop/G2-V592-R396/skirts.html">Skirts</a></li>
+<li><a href="/shop/G2-V1898-R396/sneakers.html">Sneakers</a></li>
+<li><a href="/shop/G2-V52028-R396/sunglasses.html">Sunglasses</a></li>
 <li><a href="/shop/G2-V173099-R396/sweaters.html">Sweaters</a></li>
 <li><a href="/shop/G2-V483-R396/tops.html">Tops</a></li>
 <br>
@@ -354,30 +522,29 @@ hl.currency = dj.currency.code === '' ? 'usd' : dj.currency.code; </script> <scr
 <div class="dropdown_title">Top Brands:</div>
 <div id="dropdown_col1">
 <ul>
-<li><a href="/shop/G5-V577-R375/adidas.html">Adidas</a></li>
-<li><a href="/shop/G1-V333241-R375/ali-kris.html">ALI &amp; KRIS</a></li>
+<li><a href="/shop/G5-V577-R375/adidas.html">adidas</a></li>
+<li><a href="/shop/G1-V412263-R375/aphrodite-jeans.html">Aphrodite Jeans</a></li>
+<li><a href="/shop/G1-V295219-R375/bebe.html">Bebe</a></li>
+<li><a href="/shop/G1-V411529-R375/boom-boom-jeans.html">Boom Boom Jeans</a></li>
 <li><a href="/shop/G5-V1177-R375/basic-essentials.html">Basic Essentials</a></li>
-<li><a href="/shop/G5-V696-R375/baby-phat.html">Baby Phat</a></li>
-<li><a href="/shop/G1-V361779-R375/civil.html">Civil</a></li>
+<li><a href="/shop/G1-V394187-R375/cotton-express.html">Cotton Express</a></li>
 <li><a href="/shop/G5-V1202-R375/converse.html">Converse</a></li>
-<li><a href="/shop/G1-V218798-R375/crooks-castles.html">Crooks &amp; Castles</a></li>
-<li><a href="/shop/G1-V390865-R375/cupcake-mafia.html">Cupcake Mafia</a></li>
-<li><a href="/shop/G1-V400299-R375/eric-lani.html">Eric + Lani</a></li>
+<li><a href="/shop/G1-V401947-R375/diamond-supply-co.html">Diamond Supply </a></li>
 <li><a href="/shop/G5-V442-R375/fashion-lab.html">Fashion Lab</a></li>
-<li><a href="/shop/G1-V326124-R375/hellz-bellz.html">Hellz Bellz</a></li>
+<li><a href="/shop/G1-V382582-R375/freestyle.html">Freestyle</a></li>
+<li><a href="/shop/G1-V402023-R375/madden-girl.html">Madden Girl</a></li>
 </ul>
 </div>
 <div id="dropdown_col2">
 <ul>
-<li><a href="/shop/G1-V403568-R375/la-belle-roc.html">La Belle Roc</a></li>
-<li><a href="/shop/G1-V259065-R375/lrg.html">LRG</a></li>
+<li><a href="/shop/G1-V402023-R375/madden-girl.html">Madden Girl</a></li>
+<li><a href="/shop/G1-V12554-R375/new-balance.html">New Balance</a></li>
 <li><a href="/shop/G5-V2622-R375/puma.html">Puma</a></li>
 <li><a href="/shop/G1-V2696-R375/reebok.html">Reebok</a></li>
 <li><a href="/shop/G5-V3291-R375/rocawear.html">Rocawear</a></li>
 <li><a href="/shop/G1-V381231-R375/soho-babe.html">Soho Babe</a></li>
-<li><a href="/shop/G1-V2750-R375/steve-madden.html">Steve Madden</a></li>
-<li><a href="/shop/G1-V331921-R375/stussy.html">Stussy</a></li>
 <li><a href="/shop/G1-V2780-R375/the-north-face.html">The North Face</a></li>
+<li><a href="/shop/G1-V2843-R375/timberland.html">Timberland</a></li>
 <li><a href="/shop/G1-V386661-R375/under-armour.html">Under Armour</a></li>
 <br>
 <li><a href="/shop/G1-R375/women.html" style="font-weight:bold;">View All</a></li>
@@ -387,8 +554,10 @@ hl.currency = dj.currency.code === '' ? 'usd' : dj.currency.code; </script> <scr
 <div id="dropdown_coltrend" class="dropdown_topnav dropdown_topnav_last">
 <div class="dropdown_title">Featured Shops:</div>
 <ul style="margin: 10px 0 0 20px;">
-<li><a href="/content/trends/2016/spring/womens/index.html">Spring Sport Luxe</a></li>
+<li><a href="/content/holiday/womens-gift-guide.html">Gift Guide</a></li>
+<li><a href="/shop/G1-R409445/dad-hats.html">Dad Hats</a></li>
 <li><a href="/shop/G1-R405504/athleisure-for-women.html">Athleisure</a></li>
+<li><a href="/content/trends/2016/spring/womens/index.html">Spring Lookbook</a></li>
 <li><a href="/shop/G1-R402847/artist-alus.html">Artist Alus' Top Looks</a></li>
 </ul>
 </div>
@@ -442,7 +611,7 @@ hl.currency = dj.currency.code === '' ? 'usd' : dj.currency.code; </script> <scr
 </div>
 <div id="dropdown_coltrend" class="dropdown_topnav dropdown_topnav_last">
 <div class="dropdown_title">New Arrivals:</div>
-<div class="topnav-thumb-img"><a href="/shop/G2-V8923-R396/plus-size.html" alt="Plus Trends"><img src="http://mediaext.djnetworks.net/media/static/dj-includes/images/nav/2015/09/29/nav-plus.jpg" alt="Plus Size at DrJays.com"></a></div>
+<div class="topnav-thumb-img"><a href="/shop/G2-V8923-R396/plus-size.html" alt="Plus New Arrivals"><img src="http://mediaext.djnetworks.net/media/static/dj-includes/images/nav/2016/09/29/new-plus.jpg" alt="Plus Size at DrJays.com"></a></div>
 </div>
 </div>
 </div> </div>
@@ -499,19 +668,21 @@ hl.currency = dj.currency.code === '' ? 'usd' : dj.currency.code; </script> <scr
 <div class="dropdown_title">Top Brands:</div>
 <div id="dropdown_col1">
 <ul>
-<li><a href="/shop/G1-V380-R379/adidas.html">Adidas</a></li>
+<li><a href="/shop/G1-V380-R379/adidas.html">adidas</a></li>
 <li><a href="/shop/G1-V6487-R379/akademiks.html">Akademiks</a></li>
 <li><a href="/shop/G1-V49629-R379/arcade-styles.html">Arcade Styles</a></li>
 <li><a href="/shop/G1-V168799-R379/converse.html">Converse</a></li>
+<li><a href="/shop/G1-V49947-R379/enyce.html">Enyce</a></li>
 <li><a href="/shop/G1-V105446-R379/lrg.html">LRG</a></li>
 <li><a href="/shop/G1-V7122-R379/nba-mlb-nfl-gear.html">NBA, MLB, NFL</a></li>
 <li><a href="/shop/G1-V362424-R379/new-balance.html">New Balance</a></li>
+<li><a href="/shop/G1-V351443-R379/parish.html">Parish</a></li>
 </ul>
 </div>
 <div id="dropdown_col2">
 <ul>
-<li><a href="/shop/G1-V351443-R379/parish.html">Parish</a></li>
 <li><a href="/shop/G1-V43437-R379/puma.html">Puma</a></li>
+<li><a href="/shop/G1-V47852-R379/reebok.html">Reebok</a></li>
 <li><a href="/shop/G1-V260772-R379/supra.html">Supra</a></li>
 <li><a href="/shop/G1-V7081-R379/the-north-face.html">The North Face</a></li>
 <li><a href="/shop/G1-V7108-R379/timberland.html">Timberland</a></li>
@@ -522,8 +693,12 @@ hl.currency = dj.currency.code === '' ? 'usd' : dj.currency.code; </script> <scr
 </div>
 </div>
 <div id="dropdown_coltrend" class="dropdown_topnav dropdown_topnav_last">
+<div class="dropdown_title">Featured Shops:</div>
+<ul style="margin: 10px 0 0 20px;">
+<li><a href="/content/holiday/kids-gift-guide.html">Gift Guide</a></li>
+</ul>
 <div class="dropdown_title">New Arrivals:</div>
-<div class="topnav-thumb-img"><a href="/shop/G2-V101737-R400/hoodies.html" alt="Boys Trends"><img src="http://mediaext.djnetworks.net/media/static/dj-includes/images/nav/2015/09/29/nav-boys.jpg" alt="Boys New Arrivals at DrJays.com"></a></div>
+<div class="topnav-thumb-img"><a href="/shop/G2-R12687/boys.html" alt="Boys New Arrivals"><img src="http://mediaext.djnetworks.net/media/static/dj-includes/images/nav/2016/09/29/new-boys.jpg" alt="Boys New Arrivals at DrJays.com"></a></div>
 </div>
 </div>
 </div> </div>
@@ -580,7 +755,7 @@ hl.currency = dj.currency.code === '' ? 'usd' : dj.currency.code; </script> <scr
 <div class="dropdown_title">Top Brands:</div>
 <div id="dropdown_col1">
 <ul>
-<li><a href="/shop/G1-V120257-R383/adidas.html">Adidas</a></li>
+<li><a href="/shop/G1-V120257-R383/adidas.html">adidas</a></li>
 <li><a href="/shop/G1-V7758-R383/apple-bottoms.html">Apple Bottoms</a></li>
 <li><a href="/shop/G1-V7723-R383/baby-phat.html">Baby Phat</a></li>
 <li><a href="/shop/G1-V169280-R383/converse.html">Converse</a></li>
@@ -603,8 +778,12 @@ hl.currency = dj.currency.code === '' ? 'usd' : dj.currency.code; </script> <scr
 </div>
 </div>
 <div id="dropdown_coltrend" class="dropdown_topnav dropdown_topnav_last">
+<div class="dropdown_title">Featured Shops:</div>
+<ul style="margin: 10px 0 0 20px;">
+<li><a href="/content/holiday/kids-gift-guide.html">Gift Guide</a></li>
+</ul>
 <div class="dropdown_title">New Arrivals:</div>
-<div class="topnav-thumb-img"><a href="/shop/G1-V126361-R383/sizes-4-6x-kids.html" alt="Girls Trends"><img src="http://mediaext.djnetworks.net/media/static/dj-includes/images/nav/2015/09/29/nav-girls.jpg" alt="Girls New Arrivals at DrJays.com"></a></div>
+<div class="topnav-thumb-img"><a href="/shop/G2-R11729/girls.html" alt="Girls New Arrivals"><img src="http://mediaext.djnetworks.net/media/static/dj-includes/images/nav/2016/09/29/new-girls.jpg" alt="Girls New Arrivals at DrJays.com"></a></div>
 </div>
 </div>
 </div> </div>
@@ -674,16 +853,16 @@ hl.currency = dj.currency.code === '' ? 'usd' : dj.currency.code; </script> <scr
  
 <div class="dropdown_topnav lookbook">
 <div class="dropdown_title">Men</div>
-<div class="topnav-thumb-img"><a href="/content/trends/2016/spring/mens/index.html" alt="Men's Trends"><img src="http://mediaext.djnetworks.net/media/static/dj-includes/images/trends/men/2016/spring/nav-trends-m.jpg" alt="Trends for the Month by DrJays.com"></a></div>
+<div class="topnav-thumb-img"><a href="/content/holiday/mens-gift-guide.html" alt="Men's Trends"><img src="http://mediaext.djnetworks.net/media/static/dj-includes/images/holiday/2016/mens-gift-guide.jpg" alt="Trends for the Month by DrJays.com"></a></div>
 <div class="topnav-thumb-img"><a href="/content/trends/2015/fall/mens.html" alt="Men's Trends"><img src="http://mediaext.djnetworks.net/media/static/dj-includes/images/lookbook/2015/09/23/nav-trends.jpg" alt="Trends for the Month by DrJays.com"></a></div>
 <div class="topnav-thumb-img"><a href="/shop/G1-R394511/artist-lil-george.html" alt="Men's Trends"><img src="http://mediaext.djnetworks.net/media/static/dj-includes/images/lookbook/2015/07/30/lil-george/nav-trends.jpg" alt="Trends for the Month by DrJays.com"></a></div>
 </div>
  
 <div class="dropdown_topnav lookbook dropdown_topnav_last">
 <div class="dropdown_title">Women</div>
-<div class="topnav-thumb-img"><a href="/content/trends/2016/spring/womens/index.html" alt="Men's Trends"><img src="http://mediaext.djnetworks.net/media/static/dj-includes/images/trends/women/2016/spring/nav-trends-w.jpg" alt="Trends for the Month by DrJays.com"></a></div>
+<div class="topnav-thumb-img"><a href="/content/holiday/womens-gift-guide.html" alt="Women's Trends"><img src="http://mediaext.djnetworks.net/media/static/dj-includes/images/holiday/2016/womens-gift-guide.jpg" alt="Trends for the Month by DrJays.com"></a></div>
 <div class="topnav-thumb-img"><a href="/shop/G1-R402847/artist-alus.html" alt="Alus - Shop Her Top Looks!"><img src="http://mediaext.djnetworks.net/media/static/dj-includes/images/nav/2015/12/15/alus-nav-trends-2.jpg" alt="DrJays.com - Alus - Shop Her Top Looks!"></a></div>
-<div class="topnav-thumb-img"><a href="/content/trends/2015/summer/womens.html" alt="Men's Trends"><img src="http://mediaext.djnetworks.net/media/static/dj-includes/images/lookbook/2015/05/26/women/nav-trends-w.jpg" alt="Trends for the Month by DrJays.com"></a></div>
+<div class="topnav-thumb-img"><a href="/content/trends/2015/summer/womens.html" alt="Women's Trends"><img src="http://mediaext.djnetworks.net/media/static/dj-includes/images/lookbook/2015/05/26/women/nav-trends-w.jpg" alt="Trends for the Month by DrJays.com"></a></div>
 </div>
 </div>
 </div> </div>
@@ -691,7 +870,56 @@ hl.currency = dj.currency.code === '' ? 'usd' : dj.currency.code; </script> <scr
 <a href="http://www.djpremium.com" target="_blank" alt="Shop DJPremium.com">Premium</a>
 </div>
  
+<div id="holiday-dd">
+<a class="" href="#" alt="Holiday Gift Guides for Men, Women, and Kids" style="color: #ff0000 !important; font-weight: 700;">Holiday</a> <div class="topnav_second topnav_holiday">
+<div class="container">
+<div class="dropdown_topnav holiday">
+<div class="dropdown_title holiday">Holiday Shops:</div>
+<div class="holiday-list">
+<ul>
+<li><a href="/content/holiday/mens-gift-guide.html" alt="DrJays.com - Men's Holiday Gift Guide">Men's Gift Guide</a></li>
+<li><a href="/content/holiday/womens-gift-guide.html" alt="DrJays.com - Women's Holiday Gift Guide">Women's Gift Guide</a></li>
+<li><a href="/content/holiday/kids-gift-guide.html" alt="DrJays.com - Kids Holiday Gift Guide">Kids Gift Guide</a></li>
+</ul>
+</div>
+<div class="dropdown_title holiday">Stocking Stuffers:</div>
+<div class="holiday-list">
+<ul>
+<li><a href="/shop/G2-V721-R396/bags.html">Bags</a></li>
+<li><a href="/search?cmd=main&amp;keywords=gloves&amp;submit.x=0&amp;submit.y=0">Gloves</a></li>
+<li><a href="/shop/G2-V297253-R340/hats.html">Hats</a></li>
+<li><a href="/search?cmd=main&amp;keywords=socks&amp;submit.x=0&amp;submit.y=0">Socks</a></li>
+<li><a href="/search?cmd=main&amp;keywords=sunglasses&amp;submit.x=0&amp;submit.y=0">Sunglasses</a></li>
+<li><a href="/search?cmd=main&amp;keywords=watches&amp;submit.x=0&amp;submit.y=0">Watches</a></li>
+</ul>
+</div>
+</div>
+<div class="dropdown_topnav holiday-ii">
+<div class="dropdown_title holiday">Shipping Guides:</div>
+<div class="calendar"><a href="/content/customerservice/holiday-shipping.html"><img src="http://mediaext.djnetworks.net/media/static/dj-includes/images/static/2014/11/25/calendar.gif" alt="Happy Holidays from DrJays.com" style="width: 100px; height: 100px;"></a></div>
+<div class="holiday-list">
+<ul>
+<li><a href="/content/customerservice/holiday-shipping.html">Holiday Shipping</a></li>
+</ul>
+</div>
+<div class="holiday-list">
+<ul>
+<li><a href="/site?class=GiftCert&amp;cmd=purchase" style="color: #ff0000 !important;">E-Gift Cards</a></li>
+<li><a href="/site?class=Wishlist&amp;cmd=search" style="color: #ff0000 !important;">Create a Wish List</a></li>
+<li><a href="/site?class=Wishlist&amp;cmd=search" style="color: #ff0000 !important;">Find a Wish List</a></li>
+</ul>
+</div>
+</div>
  
+<div class="holiday-lifestyle"><img src="http://mediaext.djnetworks.net/media/static/dj-includes/images/static/2015/holiday-lifestyle.jpg" alt="Happy Holidays from DrJays.com" usemap="#Map">
+<map name="Map">
+<area shape="rect" coords="12,1,202,309" href="/content/holiday/mens-gift-guide.html" alt="DrJays.com - Men's Holiday Gift Guide">
+<area shape="rect" coords="356,1,536,309" href="/content/holiday/mens-gift-guide.html" alt="DrJays.com - Men's Holiday Gift Guide">
+<area shape="rect" coords="201,1,357,310" href="/content/holiday/womens-gift-guide.html" alt="DrJays.com - Women's Holiday Gift Guide">
+</map>
+</div>
+</div>
+</div> </div>
  
  
 </div>
@@ -712,7 +940,7 @@ hl.currency = dj.currency.code === '' ? 'usd' : dj.currency.code; </script> <scr
 <li><a name="trustlink" href="http://secure.trust-guard.com/certificates/7792" target="_blank" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace('http', 'https'),'welcome','location='+nonwin+',scrollbars=no,width=500,height=1055,menubar=no,toolbar=no'); return false;" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard \251 '+d.getFullYear()+'.'); return false;">Secure Shopping</a></li>
 <li><a href="/content/customerservice/shipping.html">Shipping</a></li>
 <li><a href="/content/customerservice/holiday-shipping.html">Holiday Shipping</a></li>
-<li><a href="/content/customerservice/intl-holiday-shipping.html">Int'l Holiday Shipping</a></li>
+ 
 <li><a href="/content/customerservice/size-chart.html">Size Charts</a></li>
 <li><a href="/content/customerservice/walk-in-stores.html">Walk-in Stores</a></li>
 <li><a href="/content/customerservice/affiliate_program.html">Affiliate Program</a></li>
@@ -978,7 +1206,47 @@ var certona = {
 };
  //console.log(certona);
 
-</script> </div>
+</script> <script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1037802960;
+var uv = window.universal_variable,
+    pageType = uv.page.type;
+   
+var uvProds = pageType == 'Confirmation' ? uv.transaction.line_items : uv.basket.line_items;
+var productIdsArray = getProdVal( "id"),
+    productCategoriesArray = getProdVal( "category" ),
+    productValuesArray = getProdVal( "unit_sale_price" );
+
+function getProdVal( key ) {
+  return window.jQuery.map(uvProds, function ( item, index ) {
+    return item.product[ key ];
+  });
+}
+
+var google_custom_params = {
+        ecomm_pagetype: pageType
+    };
+
+if (pageType == 'Basket' || pageType == 'Confirmation' ){
+        google_custom_params.ecomm_prodid = productIdsArray;
+        google_custom_params.ecomm_totalvalue = pageType == 'Basket' ? uv.basket.total : uv.transaction.total;
+        google_custom_params.ecomm_pcat = productCategoriesArray;
+        google_custom_params.ecomm_pvalue = productValuesArray;
+    } else if (pageType == 'Product'){
+        google_custom_params.ecomm_prodid = uv.product.id;
+        google_custom_params.ecomm_pvalue = uv.product.unit_sale_price;
+    } 
+
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1037802960/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript> </div>
 <div id="livechat_implementation">
 <script type="text/javascript">
 var __lc = {};
