@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southernrailway.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610114617id_/http%3A//www.southernrailway.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southernrailway.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214181311id_/http%3A//www.southernrailway.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy policy : Southern
 
@@ -27,7 +27,7 @@ London EC3R 8AJ
 
 Our nominated data protection officer is:
 
-Chris Fisher  
+Julie Sadler  
 Internal Audit and Compliance Manager  
 1st Floor  
 Monument Place  
@@ -71,14 +71,18 @@ We will only share or disclose your information as set out in this Policy or whe
   * Where you have consented, to share with other members of the Go-Ahead Group PLC (registered in England, company number 02100855) (“Go Ahead”), of which we are a member, in order to respond to queries, complaints or a request for information from you, or where Go-Ahead has any services, promotions and offers which we feel may interest you. Details of other members of the Go-Ahead Group can be found at [go-ahead.com](http://www.go-ahead.com/ourcompanies.aspx "Visit the Go-Ahead website")
   * In respect of information provided to us for marketing purposes only, to the Department for Transport and/or any successor operator of the rail franchise in order that they may contact you for marketing purposes in the event that we cease to operate this rail franchise
 
+
+
 You can find out more about the information we collect and how we use, share or disclose it by clicking on the links below.
 
-    * [CCTV](https://web.archive.org/privacy-sub-document/#cctv)
-    * [Website](https://web.archive.org/privacy-sub-document/#website)
-    * [Smartcard](https://web.archive.org/privacy-sub-document/#smartcard)
-    * [Ticket Office Purchases](https://web.archive.org/privacy-sub-document/#ticketoffice)
-    * [Revenue Protection and Penalty Fares](https://web.archive.org/privacy-sub-document/#revenueprotection)
-    * [Customer Services](https://web.archive.org/privacy-sub-document/#customerservices)
+  * [CCTV](https://web.archive.org/privacy-sub-document/#cctv)
+  * [Website](https://web.archive.org/privacy-sub-document/#website)
+  * [Smartcard](https://web.archive.org/privacy-sub-document/#smartcard)
+  * [Ticket Office Purchases](https://web.archive.org/privacy-sub-document/#ticketoffice)
+  * [Revenue Protection and Penalty Fares](https://web.archive.org/privacy-sub-document/#revenueprotection)
+  * [Customer Services](https://web.archive.org/privacy-sub-document/#customerservices)
+
+
 
 ## Where We Store Your Personal Information
 
@@ -94,8 +98,10 @@ We use a range of technical and organisational measures to safeguard access to a
 
 You have the right to ask us not to process your personal information for marketing purposes. We will usually inform you before collecting your information if we intend to use or disclose it for such purposes. If you do not want us to use your information for marketing purposes either:
 
-    * Indicate this by using the tick box when you sign up or, if you have an account with us, by logging in and changing your contact preferences or
-    * To prevent all contact by us you can opt out at any time by contacting us using the following details: email us at [comments@southernrailway.com](mailto:comments@southernrailway.com "Email Southern"), or write to Southern Customer Services, PO Box 10240, Ashby-De-La Zouche, LE65 9EB or telephone us on 03451 272920.
+  * Indicate this by using the tick box when you sign up or, if you have an account with us, by logging in and changing your contact preferences or
+  * To prevent all contact by us you can opt out at any time by contacting us using the following details: email us at [comments@southernrailway.com](mailto:comments@southernrailway.com "Email Southern"), or write to Southern Customer Services, PO Box 10240, Ashby-De-La Zouche, LE65 9EB or telephone us on 03451 272920.
+
+
 
 ## Subject Access
 
@@ -111,5 +117,8 @@ Cookies are small data files that are placed onto the hardware device which you 
 
 We may occasionally update this statement. Your continued use of the site will mean that you accept those revisions.
 
+## Passenger satisfaction survey
 
+Govia Thameslink Railway and the Office of Rail and Road (the industry regulator) are currently conducting joint research into passenger satisfaction with complaint handling. This involves a short online survey about how your complaint was handled which would be sent to you by the independent research agency Critical Research Limited. Please follow the link if you do not wish be contacted for this research:
 
+[ www.criticalsurveys.co.uk/?7193u](http://www.criticalsurveys.co.uk/?7193u)
