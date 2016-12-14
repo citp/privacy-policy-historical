@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arbys.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607201709id_/http%3A//arbys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arbys.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214230632id_/http%3A//arbys.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Arby's | Privacy Policy
 
 Effective Date 12/1/15
 
