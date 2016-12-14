@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachingmama.org privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528110248id_/http%3A//teachingmama.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachingmama.org privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214200624id_/http%3A//teachingmama.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Teaching Mama
 
