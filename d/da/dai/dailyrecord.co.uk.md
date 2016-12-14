@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dailyrecord.co.uk privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616092812id_/http%3A//www.dailyrecord.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyrecord.co.uk privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214010257id_/http%3A//www.dailyrecord.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Daily Record & Sunday Mail - Scottish News, Sport, Politics and Celeb gossip
-
-## PRIVACY POLICY
 
 **IN RELATION TO ALL WEB SITE SERVICES OFFERED BY SCOTTISH DAILY RECORD HERE ON THIS WEB SITE**
 
