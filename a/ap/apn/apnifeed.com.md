@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the apnifeed.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420051312id_/http%3A//www.apnifeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnifeed.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214030539id_/http%3A//www.apnifeed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Apni Feed
 
-Welcome to www.islamilog.com We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by www.islamilog.com (collectively, “Services”) (“Authorized Customers”).
+Welcome to www.apnifeed.com We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by www.apnifeed.com (collectively, “Services”) (“Authorized Customers”).
 
 **“Personally Identifiable Information”**
 
@@ -26,7 +26,7 @@ Personally Identifiable Information about Authorized Customers may be shared wit
 
 **How is Personally Identifiable Information stored?**
 
-Personally Identifiable Information collected by www.islamilog.com is securely stored and is not accessible to third parties or employees of www.islamilog.com except for use as indicated above.
+Personally Identifiable Information collected by www.apnifeed.com is securely stored and is not accessible to third parties or employees of www.apnifeed.com except for use as indicated above.
 
 What choices are available to Visitors regarding collection, use and distribution of the information?
 
@@ -42,7 +42,7 @@ Cookies are used for a variety of reasons. We use Cookies to obtain information 
 
 What partners or service providers have access to Personally Identifiable Information from Visitors and/or **Authorized Customers on the Site?**
 
-www.islamilog.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
+www.apnifeed.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
 
 **How does the Site keep Personally Identifiable Information secure?**
 
@@ -50,7 +50,7 @@ All of our employees are familiar with our security policy and practices. The Pe
 
 **[How can Visitors correct any inaccuracies in Personally Identifiable Information?](http://lavishtrend.com/contact-us/)**
 
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at info@islamilog.com
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at info@apnifeed.com
 
 **Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**
 
@@ -62,4 +62,4 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 
 **Links:**
 
-www.islamilog.com contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+www.apnifeed.com contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
