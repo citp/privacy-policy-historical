@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clixgalore.com.au privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430201556id_/http%3A//www.clixgalore.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clixgalore.com.au privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214072328id_/http%3A//clixgalore.com.au/privacy.asp) for the most accurate reproduction.*
 
 # 
 
