@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the androidapksfree.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613031048id_/http%3A//www.androidapksfree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidapksfree.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214155630id_/http%3A//www.androidapksfree.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AndroidAPKsFree
 
-Last Updated: February 8, 2015
+Last Updated: June 30, 2016
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@androidapksfree.com
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact [at] androidapksfree.com
 
 At www.androidapksfree.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.androidapksfree.com and how it is used.
 
@@ -16,16 +16,16 @@ Like many other Web sites, www.androidapksfree.com makes use of log files. The i
 
 www.androidapksfree.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-**DoubleClick DART Cookie/Information Collection  
+**Google/DoubleClick DART Cookie/Information Collection  
 **
 
-Google, as a third party vendor, uses cookies to serve ads on www.androidapksfree.com
+Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to www.androidapksfree.com or other websites.
 
-Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.androidapksfree.com and other sites on the Internet.
+Google’s use of advertising cookies enables it and its partners to serve ads to users based on their visit to www.androidapksfree.com and/or other sites on the Internet.
 
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+You may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads). (Alternatively, you can opt out of a third-party vendor’s use of cookies for personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info/choices/).)
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google AdSense.
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.androidapksfree.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
