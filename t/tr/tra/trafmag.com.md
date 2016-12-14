@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafmag.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624184143id_/http%3A//trafmag.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafmag.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214202631id_/http%3A//trafmag.com/policy) for the most accurate reproduction.*
 
 # Policy | Advertising network TrafMag
 
