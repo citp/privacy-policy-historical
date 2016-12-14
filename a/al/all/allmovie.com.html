@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the allmovie.com privacy policy that was archived on 2016-03-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160314132311id_/http%3A//www.allmovie.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allmovie.com privacy policy that was archived on 2016-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161214163411id_/http%3A//www.allmovie.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
         <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-885.min.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAMOU1ZWGwAAXFBbBQM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function u(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,f=0;s>f;f++)a[f].apply(i,r);var u=c[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return f[t]=f[t]||r(u)}function h(t,e){s(t,function(t,n){e=e||"feature",v[n]=e,e in c||(c[e]=[])})}var m={},v={},w={on:d,emit:u,get:p,listeners:l,context:e,buffer:h};return w}function o(){return new n}var i="nr@context",a=t("gos"),s=t(1),c={},f={},u=e.exports=r();u.backlog=c},{1:24,gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),a.xhrWrappable&&t(4),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=NREUM.o.EV;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").get("events"),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").get("history"),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").get("raf"),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").get("timer"),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e){e=e||this;var n=i.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,i.emit("xhr-resolved",[],e));try{c.inPlace(e,l,"fn-",r)}catch(o){}}function r(t,e){return e}function o(t,e){for(var n in t)e[n]=t[n];return e}var i=t("ee").get("xhr"),a=t(1),s=t(2),c=s(i),f=s(a),u=NREUM.o,d=u.XHR,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=i,window.XMLHttpRequest=function(t){var e=new d(t);try{i.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&f.inPlace(e,["addEventListener","removeEventListener"],"-",r),e.addEventListener("readystatechange",n,!1)}catch(o){try{i.emit("internal-error",[o])}catch(a){}}return e},o(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:7,2:26,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=n(t,this.lastSize);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var o="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return r(o)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=null,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:15,4:11,5:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],14:[function(t,e){function n(t,e){return function(){r(t,[(new Date).getTime()].concat(i(arguments)),null,e)}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],s=["addPageAction"],c="api-";o(a,function(t,e){newrelic[e]=n(c+e,"api")}),o(s,function(t,e){newrelic[e]=n(c+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),r("err",[t,(new Date).getTime()])}},{1:24,2:25,handle:"D5DuLP"}],15:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n,o){r.buffer([t],o),r.emit(t,e,n)}var r=t("ee").get("handle");e.exports=n,n.ee=r},{ee:"QJf3ax"}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()],null,"api");var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()],null,"api")}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;NREUM.o={ST:setTimeout,XHR:c.XMLHttpRequest,REQ:c.Request,EV:c.Event,PR:c.Promise,MO:c.MutationObserver},t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-885.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()],null,"api");var h=0},{1:24,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAMOU1ZWGwAAXFBbBQM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
 
         <meta http-equiv="content-language" content="en-us">
 
@@ -11,12 +11,12 @@
         <meta name="apple-mobile-web-app-capable" content="no">
         <meta name="viewport" content="width=device-width">
 
-        <link rel="apple-touch-icon-precomposed" href="http://assets.allmovie.com/images/ios/AppIcon57x57.png">
-        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://assets.allmovie.com/images/ios/AppIcon72x72.png">
-        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://assets.allmovie.com/images/ios/AppIcon114x114.png">
-        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://assets.allmovie.com/images/ios/AppIcon144x144.png">
+        <link rel="apple-touch-icon-precomposed" href="//cdn-prod.allmovie.com/images/ios/AppIcon57x57.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//cdn-prod.allmovie.com/images/ios/AppIcon72x72.png">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//cdn-prod.allmovie.com/images/ios/AppIcon114x114.png">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//cdn-prod.allmovie.com/images/ios/AppIcon144x144.png">
 
-        <link rel="shortcut icon" href="http://assets.allmovie.com/images/favicon.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="//cdn-prod.allmovie.com/images/favicon.ico" type="image/x-icon">
         <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss">
 
         	<meta name="title" content="Privacy Policy | All Media Network Property | AllMovie">
@@ -34,16 +34,16 @@
 	<meta name="twitter:description" content="AllMovie respects your privacy and answers concerns or questions about policy.">
 
 
-        <meta property="og:image" content="http://assets.allmovie.com/images/allmovie_facebook_share.png">
+        <meta property="og:image" content="//cdn-prod.allmovie.com/images/allmovie_facebook_share.png">
         <meta property="og:url" content="http://www.allmovie.com/privacy-policy">
 
         <link rel="canonical" href="http://www.allmovie.com/privacy-policy">
 
         <title>Privacy Policy | All Media Network Property | AllMovie</title>
 
-        <link type="text/css" rel="stylesheet" href="http://assets.allmovie.com/css/global/global.css">
+        <link type="text/css" rel="stylesheet" href="//cdn-prod.allmovie.com/css/global/global.css">
 
-                    <link type="text/css" rel="stylesheet" href="http://assets.allmovie.com/css/pages/info/info.css">
+                    <link type="text/css" rel="stylesheet" href="//cdn-prod.allmovie.com/css/pages/info/info.css">
         
         <!-- Alexa tag -->
         <meta name="alexaVerifyID" content="8Y3cJGTkeK8rAnuFENBdVBMTwC4">
@@ -61,11 +61,42 @@
 
 
         <!-- Media query polyfill ( Always require because loading via dynamic ajax injection is too slow [the enquire.js will fire before the ajax completes] ) -->
-        <script src="http://assets.allmovie.com/js/lib/media.match.min.js"></script>
+        <script src="//cdn-prod.allmovie.com/js/lib/media.match.min.js"></script>
 
-        <script src="http://assets.allmovie.com/cache/setup.1457554582.js"></script>
+        <script src="//cdn-prod.allmovie.com/cache/setup.1480616990.js"></script>
 
-        
+        <script type="text/javascript">
+(function() {
+var useSSL = "https:" == document.location.protocol;
+var src = (useSSL ? "https:" : "http:") +
+  "//www.googletagservices.com/tag/js/gpt.js";
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript">
+googletag.cmd.push(function(){
+  googletag.defineSlot('/22732481/AllMovie_Static_728x90_ATF', [[728, 90], [970, 90], [970, 250], [320, 50]], 'AllMovie_Static_728x90_ATF').addService(googletag.pubads());
+});
+googletag.cmd.push(function(){
+  googletag.defineSlot('/22732481/AllMovie_Static_728x90_BTF', [[728, 90], [970, 90], [970, 250], [320, 50]], 'AllMovie_Static_728x90_BTF').addService(googletag.pubads());
+});
+googletag.cmd.push(function(){
+  googletag.defineSlot('/22732481/AllMovie_ROS_1x1_Footer', [[1, 1]], 'AllMovie_ROS_1x1_Footer').addService(googletag.pubads());
+});
+googletag.cmd.push(function(){
+  googletag.pubads().setTargeting('pagename', 'info');
+  googletag.pubads().setTargeting('blockadex', 'FALSE');
+if ( isMobile_AllMovie ) {
+  googletag.pubads().setTargeting('mobile', 'TRUE');
+} else {
+  googletag.pubads().setTargeting('mobile', 'FALSE');
+}
+  googletag.pubads().enableSingleRequest();
+  googletag.pubads().enableSyncRendering();
+  googletag.pubads().set('adsense_background_color', 'F4F4F4');
+  googletag.enableServices();
+});
+</script>
         
         <script type="text/javascript">
             var _qevents = _qevents || [];
@@ -79,8 +110,42 @@
                 scpt.parentNode.insertBefore(elem, scpt);
             })();
         </script>
+
+        <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script type="text/javascript">
+            (function() {
+                function async_load(script_url){
+                    var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+                    var s = document.createElement('script'); s.src = protocol + script_url;
+                    var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+                }
+                bm_website_code = '54B5E7261F7A43C0';
+                jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+                jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+            })();
+        </script>
+
+        <script>
+            function pf_notify(adblock_detected){
+                // adblock_detected value is true/false. Convert to something more meaningful
+                var adblock_status = adblock_detected ? 'is_adblocking' : 'not_adblocking';
+                ga('send', 'event', 'setCustomDimension', 1, {
+                    'dimension2': adblock_status,
+                    'nonInteraction': true
+                });
+            }
+        </script>
     </head>
     <body>
+        <!-- Google Tag Manager -->
+<!--        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M5C83T"-->
+<!--                          height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>-->
+<!--        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':-->
+<!--                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],-->
+<!--                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=-->
+<!--                '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);-->
+<!--            })(window,document,'script','dataLayer','GTM-M5C83T');</script>-->
+        <!-- End Google Tag Manager -->
         <noscript>
             <div class="javascript-disabled" id="no-js">
                 AllMovie relies heavily on JavaScript.<br>
@@ -89,7 +154,7 @@
         </noscript>
         <div class="stripe-container header-leaderboard">
     <div class="advertising leaderboard">
-                                    <div id="AllMovie_Static_728x90_ATF" style="width:728;px;min-height:90px;margin:0;padding:0"><noscript><iframe id="48ce7b9b48" name="48ce7b9b48" src="http://rovicorp-d.openx.net/w/1.0/afr?auid=538252181&cb=0.83392000 1457958696" frameborder="0" scrolling="no" width="728;" min-height="90" align="middle"><a href="http://rovicorp-d.openx.net/w/1.0/rc?cs=48ce7b9b48&cb=0.83392000 1457958696" ><img src="http://rovicorp-d.openx.net/w/1.0/ai?auid=538252181&cs=48ce7b9b48&cb=0.83392000 1457958696" border="0" alt=""></a></iframe></noscript></div><script type="text/javascript">var OX_ads = OX_ads || [];OX_ads.push({slot_id: "AllMovie_Static_728x90_ATF",auid: "538252181"});</script><script type="text/javascript" src="http://rovicorp-d.openx.net/w/1.0/jstag"></script>                        </div>
+                                    <div id="AllMovie_Static_728x90_ATF">    <script type="text/javascript">        googletag.cmd.push(function(){ googletag.display('AllMovie_Static_728x90_ATF'); });    </script></div>                        </div>
 </div>
 
 <div class="overflow-container info">
@@ -414,12 +479,12 @@
             <h1>Privacy Policy</h1>
 
             <p>
-                Review All Media Network, LLC's ("AMN") legal and privacy notices for details on how we collect,
+                Review RhythmOne, LLC's ("1R") legal and privacy notices for details on how we collect,
                 use and protect your personal information on the website.
             </p>
 
             <p>
-                Your use of and access to any website or software application owned by AMN ('AMN Property(ies)') either
+                Your use of and access to any website or software application owned by 1R ('1R Property(ies)') either
                 (i) made available to you directly or indirectly from this website; or
                 (ii) with a direct link to this privacy policy is subject to this privacy policy.
                 This privacy policy explains the data that we collect and how we use it.
@@ -430,8 +495,8 @@
                 We respect your privacy. If you have any privacy concerns or
                 questions about this privacy policy, you can contact us by email
                 at:
-                <a href="mailto:cevinpl@nyyzrqvnargjbex.pbz">
-                    cevinpl@nyyzrqvnargjbex.pbz                </a>.
+                <a href="mailto:cevinpl@fvqrerry.pbz">
+                    cevinpl@fvqrerry.pbz                </a>.
             </p>
 
             <ul>
@@ -463,13 +528,13 @@
             <h2>About Us and This Policy</h2>
 
             <p>
-                All references to "we", "us" or "our" refer to All Media Network, LLC and/or one or more of its affiliates.
-                All Media Network, LLC is incorporated in the State of Delaware and its principal office is 38 Keyes Avenue,
-                Suite 200, San Francisco, CA 94129.
+                All references to "we", "us" or "our" refer to RhythmOne, LLC and/or one or more of its affiliates.
+                AllMovie is a member of the RhythmOne group and our office is located at 251 Kearny Street, 2nd Floor,
+                San Francisco, CA 94108.
             </p>
             <p>
                 This policy gives you the details of who we are and the details of our privacy policies, including: what
-                data we collect about you when you use AMN Property; what organization is collecting the information; how
+                data we collect about you when you use 1R Property; what organization is collecting the information; how
                 the information will be used or disclosed; what choices are available to you regarding collection and use
                 of the data; what security measures are in place to protect your personal information; and how you can
                 correct any inaccuracies in the information.
@@ -495,14 +560,14 @@
 
             <p>
                 In common with most other websites and on-line services, we collect certain data about your visit to the
-                AMN Properties. Any data we gather through your use of AMN Property falls into three categories: (1)
+                1R Properties. Any data we gather through your use of 1R Property falls into three categories: (1)
                 personal information that you supply to us, such as information you provide when you register
                 (including your e-mail address), create an account, create a user name, register your device,
                 complete a survey, enter a contest, or purchase products or services; (2) information that is
-                collected as you use AMN Property that becomes identified with your personal information; and
-                (3) information that does not directly identify you and is collected as you use AMN Property,
+                collected as you use 1R Property that becomes identified with your personal information; and
+                (3) information that does not directly identify you and is collected as you use 1R Property,
                 including your IP address, and information gathered with the use of a “cookie” (cookies are
-                discussed further below), and information related to searches or recommendations on AMN Property.
+                discussed further below), and information related to searches or recommendations on 1R Property.
                 Such information collected includes, without limitation, which pages and content are browsed,
                 interactions with advertising and content, and other data related to preferences and usage. We
                 use this information to better provide products and services, including, without limitation,
@@ -510,14 +575,14 @@
                 statistics and reports.
             </p>
             <p>
-                You may use certain AMN Property without registering or creating an account. We may nonetheless
-                build a history of your interactions with the AMN Property even though we don't know who you are.
+                You may use certain 1R Property without registering or creating an account. We may nonetheless
+                build a history of your interactions with the 1R Property even though we don't know who you are.
             </p>
             <p>
-                In respect of certain AMN Properties which are products, AMN may also employ update management
+                In respect of certain 1R Properties which are products, 1R may also employ update management
                 software to collect installation and registry information from your computer, including product,
-                version, build, language and original equipment manufacturer. Where you use multiple AMN Properties,
-                AMN may combine or link information collected from various AMN Properties and use it for the
+                version, build, language and original equipment manufacturer. Where you use multiple 1R Properties,
+                1R may combine or link information collected from various 1R Properties and use it for the
                 purposes outlined in this privacy policy.
             </p>
 
@@ -530,7 +595,7 @@
             <h2>Personal information</h2>
 
             <p>
-                As is common across websites, to use certain features of AMN Property we ask you to register, create an
+                As is common across websites, to use certain features of 1R Property we ask you to register, create an
                 account, provide your full name and email address and create a password. Once you have created an
                 account, you will have the option to fill out a form (all or portions of which may be included in
                 your profile).  When you create your profile, we collect personal information about you, such as
@@ -541,7 +606,7 @@
                 to communicate with you about services and products we think may be of interest to you.
             </p>
             <p>
-                AMN may allow you to set up profiles that may be viewed by other users of the AMN Properties. To
+                1R may allow you to set up profiles that may be viewed by other users of the 1R Properties. To
                 enrich your profile you may chose to include some personal information in your public profile so
                 that other users can identify you. You should only include information in your public profile that
                 you do not mind making publicly available without restriction.
@@ -551,7 +616,7 @@
                 shipping address, credit card information and credit card security codes. We use this information
                 to process your order and, if any questions arise, to contact you about your order. We may also use
                 it to contact you about other products and services we feel may be of interest to you. In general
-                AMN will try to email you first but may phone or send an electronic message to you if you have
+                1R will try to email you first but may phone or send an electronic message to you if you have
                 provided these details and you consent to our so doing.
             </p>
             <p>
@@ -568,20 +633,19 @@
             <h2>Tracking and Cookies</h2>
 
             <p>
-                When you visit AMN websites and other AMN Properties, we and our advertising partners may store and
-                access information from your device, including “cookies”, clear GIFs (which are also sometimes called
+                When you visit 1R websites and other 1R Properties, we and our advertising associates may store and
+                access information from your device, including "cookies", clear GIFs (which are also sometimes called
                 web bugs or web beacons) and browser details. We may collect information such as your browser type,
                 the type of operating system you use, the domain name of your Internet service provider, IP address,
-                pages visited on the site, services used and how you have used them. We and our advertising partners
-                do this for a variety of purposes. In the case of our advertising partners, this may include the
-                personalisation of advertisements based on your visits to sites in that partner's network.
+                pages visited on the site, services used and how you have used them. We and our advertising associates
+                do this for a variety of purposes. In the case of our advertising associates, this may include the
+                personalisation of advertisements based on your visits to sites in that party's network.
             </p>
             <p>
-                We may provide data about our users, traffic patterns, products, services and site information to
-                third-parties (such as vendors, advertisers and our business partners) (‘Partners'), but we will
-                use reasonable efforts to provide it in a form that does not directly identify you.
+                1R websites do not respond to “Do Not Track” requests. In addition, we are not responsible, and shall
+                not be liable, for the acts of third parties, such as ad networks, with respect to such third parties’
+                tracking policies.
             </p>
-
             <p><a href="#top">BACK TO TOP</a></p>
         </section>
 
@@ -592,8 +656,8 @@
 
             <p>
                 Some countries require you to consent to our and our advertising partner's use of some cookies,
-                including in Europe. Where such requirements may be applicable, AMN highlights its use of cookies to
-                you when visit AMN Properties for the first time. If you continue to use this AMN Property, we will
+                including in Europe. Where such requirements may be applicable, 1R highlights its use of cookies to
+                you when visit 1R Properties for the first time. If you continue to use this 1R Property, we will
                 imply from this that you consent to our use of cookies.
             </p>
             <p>
@@ -609,12 +673,12 @@
             <h2>Email</h2>
 
             <p>
-                Email addresses are used for identification, inviting new friends to AMN Properties, searching for and
+                Email addresses are used for identification, inviting new friends to 1R Properties, searching for and
                 finding friends, general communication, order processing and to send notifications to you. To facilitate
-                searching for and finding friends on the AMN Properties, AMN allows users to search for other members
+                searching for and finding friends on the 1R Properties, 1R allows users to search for other members
                 using text searches, first and last name, email address, and by using other attributes. Users can
-                invite friends to join certain AMN Properties by sending invitation emails via our automated
-                invitation system. Where permitted by applicable law, AMN stores these email addresses so that
+                invite friends to join certain 1R Properties by sending invitation emails via our automated
+                invitation system. Where permitted by applicable law, 1R stores these email addresses so that
                 the respondents may be added to the friend list of the member sending the invitations and to
                 establish relationships between users.
             </p>
@@ -628,8 +692,8 @@
             <h2>Which Organizations Are Collecting the Information?</h2>
 
             <p>
-                When you provide information to AMN, that information is collected and maintained either by AMN or
-                by an authorized agent or contractor of AMN such as web hosting companies, customer care service
+                When you provide information to 1R, that information is collected and maintained either by 1R or
+                by an authorized agent or contractor of 1R such as web hosting companies, customer care service
                 providers, and transaction processing service providers, unless specifically stated otherwise at
                 the point of collection.
             </p>
@@ -643,9 +707,9 @@
             <h2>Advertising</h2>
 
             <p>
-                We may use your personal information and non-personal information to serve ads to you via AMN Property
+                We may use your personal information and non-personal information to serve ads to you via 1R Property
                 as well as to provide you with promotions, products and services.  We may also use third-party
-                advertising companies and other business partners to serve ads on AMN Property or Partner Sites and
+                advertising companies and other business partners to serve ads on 1R Property or Partner Sites and
                 provide you with promotions, products and services. These third-party advertising companies and our
                 business partners may be located throughout the world.
             </p>
@@ -654,7 +718,7 @@
                 relating to the advertisements that they serve you including, without limitation, date and time of
                 ad shown, the banner ad that was shown and your IP address and your interactions with such
                 advertisements.  These third-party advertising companies and business partners may use cookies,
-                clear GIFs and anonymous information about your visits to AMN Property and other websites to
+                clear GIFs and anonymous information about your visits to 1R Property and other websites to
                 measure and improve the effectiveness of their ads, promotions, products and services.
                 This information may also be used for online preference and other targeted marketing purposes.
                 The information received by these third-party advertising companies and business partners is
@@ -671,8 +735,8 @@
                 partners will use that information to target advertising to you or provide and market promotions,
                 products and services to you.  You may withdraw your consent to our providing your personal information
                 to advertising companies and business partners at any time by adjusting your preferences in the
-                preference page of the relevant AMN Property. If you do so we will not provide your personal
-                information from the relevant AMN Property to third party advertisers or business partners from
+                preference page of the relevant 1R Property. If you do so we will not provide your personal
+                information from the relevant 1R Property to third party advertisers or business partners from
                 the time you opt out. However where permitted by applicable law, we may still provide them with
                 information that does not directly identify you from which they may send you targeted advertisements.
             </p>
@@ -701,7 +765,7 @@
                 information due to errors in transmission or unauthorized or unlawful acts of third parties.
             </p>
             <p>
-                You are responsible for the security of your user name, ID and password for any of the AMN Properties.
+                You are responsible for the security of your user name, ID and password for any of the 1R Properties.
                 Please take care when using and storing them.
             </p>
 
@@ -714,7 +778,7 @@
             <h2>Commitment To Childrens' Privacy</h2>
 
             <p>
-                Protecting the privacy of children is important to us. For that reason, none of our AMN Properties are
+                Protecting the privacy of children is important to us. For that reason, none of our 1R Properties are
                 directed at anyone under 13 and they are not structured specifically to attract anyone under 13.
                 We also do not collect or maintain personal information from those users who we actually know are
                 under 13. Should we learn or be notified that we have collected information from users under the
@@ -731,11 +795,11 @@
 
             <h3>Your Right to Choose</h3>
             <p>
-                When you register to access certain AMN Properties, you can let us know that you do not wish to receive
+                When you register to access certain 1R Properties, you can let us know that you do not wish to receive
                 announcements from us by opting out at the time you give us your personal information. You may also later
                 opt out of providing us personal identifiable information by changing your preferences in the set up
-                areas of the relevant AMN Properties or changing the necessary settings in your profile. For
-                certain AMN Properties opting out may only be possible if you delete your account for that AMN Property.
+                areas of the relevant 1R Properties or changing the necessary settings in your profile. For
+                certain 1R Properties opting out may only be possible if you delete your account for that 1R Property.
                 If you opt out or do not provide your personal information then some services and features (such as
                 personal information services, recommendations and tracking of ratings and likes and dislikes) may
                 not be available to you or may be deleted. All newsletters and email announcements from us will
@@ -745,7 +809,7 @@
             <h3>Review and Correction</h3>
             <p>
                 You may review and update the personal information that you have provided us by visiting the relevant
-                set up page of the AMN Property and updating your account profile.
+                set up page of the 1R Property and updating your account profile.
             </p>
 
             <p><a href="#top">BACK TO TOP</a></p>
@@ -760,22 +824,22 @@
                 We will not otherwise use or disclose your personal information without your consent except (i) as
                 described in this privacy policy, (ii) as required by court order or other government or law
                 enforcement authorities in order to comply with legal process or law, (iii) in the event of a
-                merger where another company has acquired the relevant AMN Property, (iv) in order to protect
-                against the misuse or unauthorized use of AMN Property, (v) in order to protect and defend our
+                merger where another company has acquired the relevant 1R Property, (iv) in order to protect
+                against the misuse or unauthorized use of 1R Property, (v) in order to protect and defend our
                 rights and property, or (vi) in order to protect the personal safety or property of our users
                 or the public.
             </p>
             <p>
-                If AMN sells assets (or the assets of a division or subsidiary) to another entity, including,
-                without limitation, in the event of bankruptcy, or if AMN (or a division or subsidiary) is
-                acquired by, or merged with, another entity, AMN may provide to such entity user information
+                If 1R sells assets (or the assets of a division or subsidiary) to another entity, including,
+                without limitation, in the event of bankruptcy, or if 1R (or a division or subsidiary) is
+                acquired by, or merged with, another entity, 1R may provide to such entity user information
                 (both anonymized and/or aggregate and personal information) that is related to that part of the
                 business that was sold to or merged with the other entity.
             </p>
 
             <h3>Links to Third Party Websites</h3>
             <p>
-                AMN Properties may display links to websites operated by third parties. If you click on a link,
+                1R Properties may display links to websites operated by third parties. If you click on a link,
                 the relevant third party operator or others may collect data about you when you visit the linked
                 website. They are responsible for the collection and further processing of such data and we have
                 no control over it. We advise you to check the terms of use and privacy policies of any linked
@@ -794,7 +858,7 @@
             <p>
                 Your personal information may be used by us and our affiliates, subsidiaries and our suppliers
                 who may be located in countries outside the country where you are located or the purposes
-                outlined in this policy to manage AMN's global business. The data protection laws in these
+                outlined in this policy to manage 1R's global business. The data protection laws in these
                 countries may not offer the same level of protection as those in the country where you are located.
                 By providing your personal information to us you understand and expressly consent to us and our
                 suppliers processing your data in any jurisdiction, including without limitation the United States
@@ -810,7 +874,7 @@
             <h2>Your Consent</h2>
 
             <h3>
-                By Using Any AMN Properties, You Are Consenting To the Collection
+                By Using Any 1R Properties, You Are Consenting To the Collection
                 and Use of Your Information Described In This Privacy Policy and
                 You Accept and Agree To This Privacy Policy.
             </h3>
@@ -818,7 +882,7 @@
             <p>
                 Your personal information may be used by us and our affiliates, subsidiaries and our suppliers
                 who may be located in countries outside the country where you are located or the purposes outlined
-                in this policy to manage AMN's global business. The data protection laws in these countries may not
+                in this policy to manage 1R's global business. The data protection laws in these countries may not
                 offer the same level of protection as those in the country where you are located.  By providing your
                 personal information to us you understand and expressly consent to us and our suppliers
                 processing your data in any jurisdiction, including without limitation the United States of
@@ -838,7 +902,7 @@
                 laws such as, in the United Kingdom, the Data Protection Act 1998 (the “Act”). Under the Act,
                 you have certain rights to request information about, get access to or request the amendment of
                 any such personal data. If you wish to exercise these rights, please contact us at
-                <a href="mailto:cevinpl@nyyzrqvnargjbex.pbz">cevinpl@nyyzrqvnargjbex.pbz</a>.
+                <a href="mailto:cevinpl@fvqrerry.pbz">cevinpl@fvqrerry.pbz</a>.
                 Please see the UK Information Commissioner's Office website at:
                 <a href="http://www.ico.gov.uk">http://www.ico.gov.uk</a> for further details.
             </p>
@@ -855,8 +919,8 @@
             <p>
                 If you are a California resident and wish to request information about how to exercise your third
                 party disclosure choices, please send a request by email to our Privacy Administrator at
-                <a href="mailto:cevinpl@nyyzrqvnargjbex.pbz">cevinpl@nyyzrqvnargjbex.pbz</a> or
-                by postal mail to All Media Network, LLC, 38 Keyes Avenue, Suite 200, San Francisco, California 94129,
+                <a href="mailto:cevinpl@fvqrerry.pbz">cevinpl@fvqrerry.pbz</a> or
+                by postal mail to RhythmOne, LLC, 251 Kearny St 2nd Floor, San Francisco, California 94108,
                 Attn:Your California Privacy Rights, c/o Privacy Administrator, Legal Department.
                 All requests must be labelled "Your California Privacy Rights" in the email subject
                 line or envelope or post card. For all requests, please clearly state that the request
@@ -875,11 +939,11 @@
             <h3>Inquiries</h3>
 
             <p>
-                If you have any concern about privacy at AMN, please send us a thorough description of your concern to
-                <a href="mailto:cevinpl@nyyzrqvnargjbex.pbz">cevinpl@nyyzrqvnargjbex.pbz</a> or
+                If you have any concern about privacy at 1R, please send us a thorough description of your concern to
+                <a href="mailto:cevinpl@fvqrerry.pbz">cevinpl@fvqrerry.pbz</a> or
                 the address above, and we will try to resolve it.
             </p>
-            <p>This privacy policy was last updated on: September 12th 2013.</p>
+            <p>This privacy policy was last updated on: June 14, 2016.</p>
         </section>
 
         <div class="hr"></div>
@@ -890,7 +954,7 @@
 
 <div class="stripe-container footer-leaderboard">
     <div class="advertising leaderboard">
-                                    <div id="AllMovie_Static_728x90_BTF" style="width:728;px;min-height:90px;margin:0;padding:0"><noscript><iframe id="58bb81458f" name="58bb81458f" src="http://rovicorp-d.openx.net/w/1.0/afr?auid=538252182&cb=0.83444300 1457958696" frameborder="0" scrolling="no" width="728;" min-height="90" align="middle"><a href="http://rovicorp-d.openx.net/w/1.0/rc?cs=58bb81458f&cb=0.83444300 1457958696" ><img src="http://rovicorp-d.openx.net/w/1.0/ai?auid=538252182&cs=58bb81458f&cb=0.83444300 1457958696" border="0" alt=""></a></iframe></noscript></div><script type="text/javascript">var OX_ads = OX_ads || [];OX_ads.push({slot_id: "AllMovie_Static_728x90_BTF",auid: "538252182"});</script><script type="text/javascript" src="http://rovicorp-d.openx.net/w/1.0/jstag"></script>                        </div>
+                                    <div id="AllMovie_Static_728x90_BTF">    <script type="text/javascript">        googletag.cmd.push(function(){ googletag.display('AllMovie_Static_728x90_BTF'); });    </script></div>                        </div>
 </div>
 <div class="iastag"></div>
 <div class="stripe-container footer-container">
@@ -911,19 +975,19 @@
         </div>
 
         <div class="copyright">
-                ©2016 AllMovie, a division of All Media Network, LLC.<span class="line-two">&nbsp;&nbsp;|&nbsp;&nbsp;</span><br class="mobile-break">All Rights Reserved
+                ©2016 AllMovie, member of the RhythmOne group<span class="line-two">&nbsp;&nbsp;|&nbsp;&nbsp;</span><br class="mobile-break">All Rights Reserved
         </div>
     </footer>
 </div>            <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-            <script>!window.jQuery && document.write(unescape('%3Cscript src="http://assets.allmovie.com/js/jquery/jquery-1.9.1.min.js"%3E%3C/script%3E'))</script><script src="http://assets.allmovie.com/js/jquery/jquery-1.9.1.min.js"></script>
+            <script>!window.jQuery && document.write(unescape('%3Cscript src="//cdn-prod.allmovie.com/js/jquery/jquery-1.9.1.min.js"%3E%3C/script%3E'))</script><script src="//cdn-prod.allmovie.com/js/jquery/jquery-1.9.1.min.js"></script>
             <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
-            <script>!window.jQuery.ui && document.write(unescape('%3Cscript src="http://assets.allmovie.com/js/jquery/jquery-ui.min.js"%3E%3C/script%3E'))</script>
+            <script>!window.jQuery.ui && document.write(unescape('%3Cscript src="//cdn-prod.allmovie.com/js/jquery/jquery-ui.min.js"%3E%3C/script%3E'))</script>
 
 <!--            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.2.1/jquery-migrate.min.js"></script>-->
 
-            <script src="http://assets.allmovie.com/cache/global.1457554582.js"></script>
+            <script src="//cdn-prod.allmovie.com/cache/global.1480616990.js"></script>
 
-            <script>
+                        <script>
               // fire IAS tag in footer on page load
               $(document).ready(function() {
                 var IASimg;
@@ -963,9 +1027,9 @@
                 $('.iastag').html(IASimg);
               });
             </script>
+            
 
-
-                                            <script src="http://assets.allmovie.com/cache/info.1457554582.js"></script>
+                                            <script src="//cdn-prod.allmovie.com/cache/info.1480616990.js"></script>
             
                             <script>
                     if(User.loggedIn) {
@@ -994,7 +1058,7 @@
         
        </div>
 
-                                    <div id="AllMovie_ROS_1x1_Footer" style="width:1px;min-height:1px;margin:0;padding:0"><noscript><iframe id="b2fc6bd27f" name="b2fc6bd27f" src="http://rovicorp-d.openx.net/w/1.0/afr?auid=538252203&cb=0.83615200 1457958696" frameborder="0" scrolling="no" width="1" min-height="1" align="middle"><a href="http://rovicorp-d.openx.net/w/1.0/rc?cs=b2fc6bd27f&cb=0.83615200 1457958696" ><img src="http://rovicorp-d.openx.net/w/1.0/ai?auid=538252203&cs=b2fc6bd27f&cb=0.83615200 1457958696" border="0" alt=""></a></iframe></noscript></div><script type="text/javascript">var OX_ads = OX_ads || [];OX_ads.push({slot_id: "AllMovie_ROS_1x1_Footer",auid: "538252203"});</script><script type="text/javascript" src="http://rovicorp-d.openx.net/w/1.0/jstag"></script>                            <script type="text/javascript">
+                                    <div id="AllMovie_ROS_1x1_Footer">    <script type="text/javascript">        googletag.cmd.push(function(){ googletag.display('AllMovie_ROS_1x1_Footer'); });    </script></div>                            <script type="text/javascript">
             _qevents.push({
                 qacct:"p-59TntzuqummDw",
                 labels:"AllMedia.AllMovie"
