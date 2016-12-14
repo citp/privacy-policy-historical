@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the njwealth.in privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607024746id_/http%3A//www.njwealth.in/njwealth/home.fin%3FcmdAction%3DloadPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the njwealth.in privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214110508id_/http%3A//www.njwealth.in/njwealth/home.fin%3FcmdAction%3DloadPrivacyPolicy) for the most accurate reproduction.*
 
 # Financial Products Distributors Network
 
