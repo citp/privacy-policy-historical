@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motivators.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327200450id_/http%3A//www.motivators.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivators.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214100729id_/http%3A//www.motivators.com/privacy.asp) for the most accurate reproduction.*
 
 # Motivators Privacy Policy, Commitment to Data Security, Motivators Information
 
@@ -6,9 +6,7 @@
 
 This privacy policy applies to www.motivators.com owned and operated by Motivators, Inc. (collectively "We", "Us" or "Our"). Your privacy is important to us. To better protect your privacy we provide this notice explaining our online and internal information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage ([www.Motivators.com](http://www.motivators.com/)) and at every point where personal information may be requested.
 
-Motivators, Inc. has received TRUSTE's Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. The TRUSTe program covers only information that is collected through this website, http://www.motivators.com and does not cover information that may be collected through our mobile application.
-
-If you have questions or concerns regarding this Statement, you should first contact us at 800-525-9600. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 **The Information We Collect**
 
@@ -79,7 +77,7 @@ We may provide your personal information to companies that provide services to h
 
 Ways we will disclose your personal information: 
 
-  * As required by law such as to comply with a subpoena, or similar legal process
+  * In certain situations, Motivators, Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. As required by law such as to comply with a subpoena, or similar legal process
   * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
   * If Motivators, Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information
   * To any other third party with your prior consent to do so.
@@ -124,7 +122,7 @@ We use a chat feature to assist you with any questions you have while shopping o
 
 **Accessing/Correcting Personal Information**
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or ask to have it removed from our blog or testimonial, or deactivate it by making the change on our member information page, by emailing our Customer Support at [privacy@motivators.com](mailto:privacy@motivators.com), or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within a reasonable timeframe.
+Upon request Motivators, Inc. will provide you with information about whether we hold any of your personal information. If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or ask to have it removed from our blog or testimonial, or deactivate it by making the change on our member information page, by emailing our Customer Support at [privacy@motivators.com](mailto:privacy@motivators.com), or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within a reasonable timeframe.
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
@@ -158,4 +156,4 @@ Should you have other questions or concerns about these privacy policies, please
 
 By Visiting Motivators.com, you are accepting the practices described in this privacy notice.
 
-This Privacy Policy has been in effect since 11/24/2015
+This Privacy Policy has been in effect since 11/21/2016
