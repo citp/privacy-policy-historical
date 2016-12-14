@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the esurance.com privacy policy that was archived on 2016-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160512232607id_/https%3A//www.esurance.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the esurance.com privacy policy that was archived on 2016-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161214061718id_/https%3A//www.esurance.com/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <title>Privacy Policy | Esurance</title>
@@ -63,7 +63,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="aspNetHidden">
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2F435D96">
-</div>  <input id="LCC1_PromoId" runat="server" name="LCC1_PromoId" type="hidden" value="PKFDA0006"><input id="LCC1_SessionId" runat="server" name="LCC1_SessionId" type="hidden" value="1112990875"><input id="LCC1_Strike" runat="server" name="LCC1_Strike" type="hidden" value=""><input id="LCC1_HomePage" runat="server" name="LCC1_HomePage" type="hidden" value="1A"><input type="hidden" id="LCC1_ViewportSize" name="LCC1_ViewportSize" value="1366">       
+</div>  <input id="LCC1_PromoId" runat="server" name="LCC1_PromoId" type="hidden" value="TZAAF_TX_001"><input id="LCC1_Strike" runat="server" name="LCC1_Strike" type="hidden" value=""><input id="LCC1_HomePage" runat="server" name="LCC1_HomePage" type="hidden" value="2A"><input id="LCC1_ViewportSize" name="LCC1_ViewportSize" type="hidden" value="0"><input type="hidden" id="LCC1_BundleDisplayed" name="LCC1_BundleDisplayed">       
 <header> 
   <div class="global-nav">
     <div class="grid">
@@ -181,6 +181,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <li><a href="/coverage-counselor">Coverage Counselor<sup>®</sup></a></li>
                         <li><a href="/drivesafe">DriveSafe<sup>®</sup></a></li>
                         <li><a href="/drivesense">DriveSense™</a></li>
+                        <li><a href="/home-insurance-calculator">Home Insurance Calculator</a></li>
                       </ul>
                     </div>
                     <div class="col_3">
@@ -191,6 +192,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <li><a href="/repairview">RepairView<sup>®</sup></a></li>
                         <li><a href="/what-if-calculator">What If<sup>®</sup> Calculator</a></li>
                         <li><a href="/fuelcaster">Fuelcaster<sup>®</sup></a></li>
+                        <li><a href="/diy-home-inspection-app">DIY Home Inspection</a></li>
                       </ul>
                     </div>
                     <div class="menuline3"></div>
@@ -360,11 +362,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <li><a href="/coverage-counselor">Coverage Counselor<sup>®</sup></a></li>
                         <li><a href="/drivesafe">DriveSafe<sup>®</sup></a></li>
                         <li><a href="/drivesense">DriveSense™</a></li>
+                        <li><a href="/home-insurance-calculator">Home Insurance Calculator</a></li>
                         <li><a href="/photo-claims">Photo Claims</a></li>
                         <li><a href="/video-appraisal">Video Appraisal</a></li>
                         <li><a href="/repairview">RepairView<sup>®</sup></a></li>
                         <li><a href="/repairview">What If<sup>®</sup> Calculator</a></li>
                         <li><a href="/fuelcaster">Fuelcaster<sup>®</sup></a></li>
+                        <li><a href="/diy-home-inspection-app">DIY Home Inspection</a></li>
                         <li class="nav-subhead">Info</li>
                         <li><a href="/info">Info Center</a></li>
                         <li><a href="/insurance/car/states">Car insurance by state</a></li>
@@ -631,10 +635,15 @@ frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 
 
 <script type="text/javascript">
-	            var height = screen.height; var width = screen.width; var viewport = document.documentElement.clientWidth;
-                if (document.getElementById('LCC1_ViewportSize') != null) document.getElementById('LCC1_ViewportSize').value = viewport;
+	            var height = screen.height; var width = screen.width;
+                var viewport = document.documentElement.clientWidth || document.getElementsByTagName('body')[0].clientWidth;
+				dcInfo = getDCInformation();
+                if (document.getElementById('LCC1_ViewportSize') != null) 
+                    document.getElementById('LCC1_ViewportSize').value = viewport;
+                if (document.getElementById('LCC1_BundleDisplayed') != null) 
+                    document.getElementById('LCC1_BundleDisplayed').value = dcInfo.ahbo;
                 var url = '/views/Home/ScreenResolutionTracking.aspx';
-                var postData = 'height=' + height + '&width=' + width + '&viewport=' + viewport;
+                var postData = 'height=' + height + '&width=' + width + '&viewport=' + viewport + '&geolocation=' + JSON.stringify(dcInfo.geolocation) + '&ahbo=' + dcInfo.ahbo;
                 
 	            var xmlhttp = null;
                 if (window.XMLHttpRequest)
@@ -646,7 +655,27 @@ frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
                     xmlhttp.send(postData);
                 }
                 </script>
-            </form>
+            <script type="text/javascript">
+            try
+            {
+                $.ajax({
+                    cache: false,
+                    type: 'POST',
+                    data: JSON.stringify({'ssCampaignID': siteSpect.ssCampaignID, 'ssGUID': siteSpect.ssGUID}),
+                    dataType: 'json',
+                    contentType: 'application/json; charset=utf-8', //dataType: 'json',
+                    async: true,
+                    url: '/common/HomeStaticGateway.aspx/LogTPPCookie',
+                    success: function (data) {
+                },
+                error: function (reponse) {
+                    LogErrorToConsole(reponse);
+                }
+              });
+          }
+          catch (e) {
+          }
+          </script></form>
 
 <script src="https://images.esurance.com/show-hide.js"></script>
 <script src="/HomeContent/UIScripts/GoogleTrackPage.js"></script>
