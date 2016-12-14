@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the onebip.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524085204id_/http%3A//corporate.onebip.com/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onebip.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214071251id_/http%3A//corporate.onebip.com/privacy-cookie-policy) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy - Onebip Easy Monetization
+# Privacy & Cookie Policy - Onebip
 
 In this page, we describe to you the manner in which we manage this website, with specific regard to the processing of visitors’ personal data.
 
-This Privacy Policy constitutes a notice on personal data processing, provided pursuant to article 13 of Italian legislative decree no. 196/2003 – “Code on the Protection of Personal Data” – (the “ **Code** ”), to all visitors which come across the website of Neomobile S.p.A., a company with registered offices in Via della Sierra Nevada, 60, 00144 Rome (the “ **Data Controller** ” or the “ **Company** ”).
+This Privacy Policy constitutes a notice on personal data processing, provided pursuant to article 13 of Italian legislative decree no. 196/2003 – “Code on the Protection of Personal Data” – (the “ **Code** ”), to all visitors which come across the website of Onebip S.R.L., a company with registered offices in Via Generale Gustavo Fara, 28, 20124 Milan (the “ **Data Controller** ” or the “ **Company** ”).
 
 Thus, this notice is provided to visitors exclusively with regard to the Company’s website, and does not cover other websites which the visitor may access via links __ included in the website, nor does it cover other services provided by the Data Controller through other means/websites. Please refer to the specific privacy policies of such services, in order to know how the Company processes personal data of users which subscribe to its services.
 
@@ -62,7 +62,7 @@ We don’t list every single cookie used by name – but for each type of cookie
 
 **Onebip session cookies**
 
-These cookies allow users to enter secure service pages e.g. from administrative systems dedicated to merchants. You may opt out of these cookies, but by doing so you will no longer be able to use any secure Onebip service page.   
+These cookies allow users to enter secure service pages e.g. from administrative systems dedicated to merchants. You may opt out of these cookies, but by doing so you will no longer be able to use any secure Onebip service page.  
 In order to opt out of Onebip session cookies, please click here
 
 **Third-party service cookies**
@@ -105,4 +105,4 @@ We inform you that the persons to which the personal data refer are given specif
 
 
 
-Any requests may be addressed to the following e-mail: info[@]neomobile.com
+Any requests may be addressed to the following e-mail: support@onebip.com
