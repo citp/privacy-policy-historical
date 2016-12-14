@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the onlinesalespro.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622092405id_/http%3A//onlinesalespro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesalespro.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214141407id_/http%3A//onlinesalespro.com/privacy) for the most accurate reproduction.*
 
 # OSP Privacy Policy
+
+**Privacy Policy**
 
 Last updated: April 22, 2016
 
@@ -123,7 +125,7 @@ If we make any material changes to this Privacy Policy, we will notify you eithe
 
 **Contact Us**
 
-If you have any questions about this Privacy Policy, please contact us.
+If you have any questions about this Privacy Policy, please contact us at [support@onlinesalespro.com](mailto:support@onlinesalespro.com) or 888-477-3345
 
 **Unsubscribe**
 
