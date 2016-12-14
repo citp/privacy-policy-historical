@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the groove.co privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620203253id_/http%3A//www.groove.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groove.co privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214185907id_/http%3A//www.groove.co/privacy) for the most accurate reproduction.*
 
 # Groove - Privacy
 
-**Effective date: June 12th, 2015**
+**Last Updated: September 26th, 2016**
 
 We at Groove know you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. **By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**
 
@@ -44,9 +44,13 @@ Through cookies we place on your browser or device, we may collect information a
 
 **Agents:** We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you; for example, we may use a payment processing company to receive and process your credit card transactions for us. Also, we may employ resellers to assist with the implementation of and customer support for our Services. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us. 
 
-**Business Transfers:** We may choose to buy or sell assets, and may share and/or transfer customer information in connection with the evaluation of and entry into such transactions. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party. 
+In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Groove is potentially liable. 
+
+**Business Transfers:** We may choose to buy or sell assets, and may share and/or transfer customer information in connection with the evaluation of and entry into such transactions. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party. We will provide an individual opt-out or opt-in choice before we share their data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized. 
 
 **Protection of Groove and Others:** We reserve the right to access, read, preserve, and disclose any information that we believe is necessary to comply with law or court order; enforce or apply our [Terms of Service](http://grooveapp.com/terms) and other agreements; or protect the rights, property, or safety of Groove, our employees, our users, or others. 
+
+Groove also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. 
 
 ### Is Personal Information about me secure?
 
@@ -68,14 +72,34 @@ You can always opt not to disclose information to us, but keep in mind some info
 
 You may be able to disconnect your third party accounts from our Services as explained above. When you do so, however, we may maintain a copy of your email address in our records. 
 
-### Safe Harbor
+Groove acknowledges that individuals have the right to access the personal information/data that we maintain about them.  An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct his query to support@grooveapp.com. If requested to remove data, we will respond within a reasonable timeframe. 
 
-Groove complies with the U.S. – E.U. Safe Harbor Framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Groove has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, please visit http://export.gov/safeharbor. 
+### Privacy Shield Principles
 
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Groove commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Groove at: support@grooveapp.com. 
+Groove (complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Groove has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>. 
 
-Groove has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Groove, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints; for more information and to file a complaint. 
+In compliance with the EU-US Privacy Shield Principles, Groove commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Groove at: 
 
-### What if I have questions about this policy?
+Legal Department   
+Groove Labs, Inc.   
+453 N. Rengstorff Ave Unit #22   
+Mountain View, CA 94403   
+email: support@grooveapp.com 
 
-If you have any questions or concerns regarding our privacy policies, please send us a detailed message to support@grooveapp.com, and we will try to resolve your concerns. 
+Groove has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <https://www.bbb.org/EU-privacy-shield/for-eu-consumers> for more information and to file a complaint. To the extent the foregoing steps have been exhausted, without resolution of your complaint, under certain limited conditions, individuals may invoke binding arbitration as a last resort before the Privacy Shield Panel as designated by the U.S. Department of Commerce and the European Commission. 
+
+Groove is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). 
+
+### US-Swiss Harbor Framework
+
+Groove complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. Groove has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit <https://www.export.gov/safeharbor/>
+
+In compliance with the US-Swiss Safe Harbor Principles, Groove commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Groove at: 
+
+Legal Department   
+Groove Labs, Inc.   
+453 N. Rengstorff Ave Unit #22   
+Mountain View, CA 94403   
+email: support@grooveapp.com 
+
+Groove has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints/) for more information and to file a complaint. 
