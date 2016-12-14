@@ -1,43 +1,68 @@
-> *The following text is extracted and transformed from the jovani.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317003024id_/https%3A//www.jovani.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jovani.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214123836id_/https%3A//www.jovani.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy of Jovani Fashions Ltd
 
-**Dear valued Jovani customer,** We love to engage our customers and get them involved in the brand in various ways. We solicit comments about our dresses, host contests and generally love hearing about your experiences in your beautiful Jovani gowns. Your privacy is important to us, and protection of the information you provide is a top priority for us. We share your desire to keep your personally identifying information confidential and to prevent unwanted solicitation. We encourage you to read our privacy policy below so you have a better understanding of how we safe-guard your personal information: 
+Dear valued Jovani customer, We love to engage our customers and get them involved in the brand in various ways. We solicit comments about our dresses, host contests and generally love hearing about your experiences in your beautiful Jovani gowns. Your privacy is important to us, and protection of the information you provide is a top priority for us. We share your desire to keep your personally identifying information confidential and to prevent unwanted solicitation. We encourage you to read our privacy policy below so you have a better understanding of how we safe-guard your personal information: 
 
-  * • **How we collect your information**
-  * i. Jovani may collect information from our customers via several platforms, including through: our website at www.Jovani.com, Facebook, Twitter, Blogger, Tumblr, YouTube, Google+, Linked In, Wordpress, Pinterest, fan letters and emails we receive.
-  * ii. When engaging our customers through these platforms, as appropriate, you may be asked: to register in order to receive information from us, to leave a comment, to enter your contact information for a contest, or to upload a picture. 
+## How we collect your information 
 
+i. Jovani may collect information from our customers via several platforms, including through: our website at www.Jovani.com, Facebook, Twitter, Blogger, Tumblr, YouTube, Google+, Linked In, Wordpress, Pinterest, fan letters and emails we receive.
 
-  * **• What is collected**
-  * i. You may be asked to enter your name, age, e-mail address, mailing address, phone number, school name, school year, to upload pictures, or enter other identifying information such as your username on a social network. Note, providing us with such information is optional. 
-  * **• How we use your information**
-  * i. To personalize your experience, such as directing you to a particular dress you may be interested in.
-  * ii. To improve our website based on feedback from you (your information helps us more effectively respond to your needs).
-  * iii. To improve on our dresses based on feedback from you.
-  * iv. To send periodic emails or newsletters that may include company news and updates. You should note that you may opt-out from receiving such communication at any time.
-  * v. We may display the comments you leave via the platforms discussed above, including quoting them on our website.
-  * vi. We may display the pictures you send us.
-  * vii. We may contact you about your experience in your Jovani dress.
-  * viii. For information provided to us for a contest, we may use your information in selecting the winners of such contest as provided for by the rules of the contest. We also use the information provided to communicate with winners, which may also be displayed on our website.  
+ii. When engaging our customers through these platforms, as appropriate, you may be asked: to register in order to receive information from us, to leave a comment, to enter your contact information for a contest, or to upload a picture. 
 
+## What is collected
 
+i. You may be asked to enter your name, age, e-mail address, mailing address, phone number, school name, school year, to upload pictures, or enter other identifying information such as your username on a social network. Note, providing us with such information is optional. 
 
-  * • **How we protect your information**
-  * i. We keep the non-public information you provide to us confidential. If any identifying information you provide us will be made public, such as the names of contest winners, then you will be on notice when providing us with that information, such as in the contest rules.
-  * ii. We store your information in secure company computers and files, or the secure computers and files of trusted third parties as detailed below.   
+## How we use your information 
 
+i. To personalize your experience, such as directing you to a particular dress you may be interested in.
 
+ii. To improve our website based on feedback from you (your information helps us more effectively respond to your needs).
 
-  * **• Third parties**
-  * i. We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This however does not include trusted third parties who assist us in operating our website, conducting our business, administering contests, or servicing you at our request, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies or protect ours or others’ rights, property and safety.
-  * ii. For the purposes of our privacy policy, employees of Jovani are not considered third parties and may have direct access to your information. They are however under the same obligations outlined here, and must keep your information confidential as laid out in this policy.
+iii. To improve on our dresses based on feedback from you.
 
+iv. To send periodic emails or newsletters that may include company news and updates. You should note that you may opt-out from receiving such communication at any time.
 
-  * **• Children’s Online Privacy Protection Act**
-  * i. Our website is directed to people who are at least 13 years or older, and we do not anticipate that children under the age of 13 will provide personally identifiable information through our website. If we learn that we have information about a child under the age of 13, we will delete it. 
-  * • Like most websites, information about your computer, such as your IP address, may automatically be collected, which may track your visits to our website. This information is used to maintain quality of service, and to provide general statistics regarding use of and visits to our website. We do not make public such information, which are for internal use only. 
-  * • By using our site, you consent to our privacy policy.
-  * • If you have any questions regarding our privacy policy, you may contact us at ConsumerProtection@Jovani.com
+v. We may display the comments you leave via the platforms discussed above, including quoting them on our website.
 
+vi. We may display the pictures you send us.
 
+vii. We may contact you about your experience in your Jovani dress.
+
+viii. For information provided to us for a contest, we may use your information in selecting the winners of such contest as provided for by the rules of the contest. We also use the information provided to communicate with winners, which may also be displayed on our website.
+
+## How we protect your information
+
+i. We keep the non-public information you provide to us confidential. If any identifying information you provide us will be made public, such as the names of contest winners, then you will be on notice when providing us with that information, such as in the contest rules.
+
+ii. We store your information in secure company computers and files, or the secure computers and files of trusted third parties as detailed below. 
+
+## Third parties
+
+i. We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This however does not include trusted third parties who assist us in operating our website, conducting our business, administering contests, or servicing you at our request, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies or protect ours or others’ rights, property and safety.
+
+ii. For the purposes of our privacy policy, employees of Jovani are not considered third parties and may have direct access to your information. They are however under the same obligations outlined here, and must keep your information confidential as laid out in this policy.
+
+## Children’s Online Privacy Protection Act
+
+i. Our website is directed to people who are at least 13 years or older, and we do not anticipate that children under the age of 13 will provide personally identifiable information through our website. If we learn that we have information about a child under the age of 13, we will delete it. 
+
+• Like most websites, information about your computer, such as your IP address, may automatically be collected, which may track your visits to our website. This information is used to maintain quality of service, and to provide general statistics regarding use of and visits to our website. We do not make public such information, which are for internal use only. 
+
+• By using our site, you consent to our privacy policy.
+
+• If you have any questions regarding our privacy policy, you may contact us at ConsumerProtection@Jovani.com
+
+## Linking to this Website
+
+All links to this Web site must be approved in writing by Jovani, except that Jovani consents to links in which the link and the pages that are activated by the link do not:
+
+(a) create frames around any page on this Web site or use other techniques that alter in any way the visual presentation or appearance of any content within this site;  
+(b) misrepresent your relationship with Jovani;  
+(c) imply that Jovani approves or endorses you, your Web site, or your service or product offerings; and  
+(d) present false or misleading impressions about Jovani or otherwise damage the goodwill associated with the Jovani name or trademarks.
+
+As a further condition to being permitted to link to this site, you agree that Jovani may at any time, in its sole discretion, terminate permission to link to this Web site. In such event, you agree to immediately remove all links to this Web site and to cease using any Jovani trademark.
+
+ **Updated:** October 17th, 2016.
