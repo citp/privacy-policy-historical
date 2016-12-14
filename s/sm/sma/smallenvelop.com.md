@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the smallenvelop.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620081203id_/http%3A//smallenvelop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallenvelop.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214115214id_/http%3A//smallenvelop.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy For SmallEnvelop
+# Privacy Policy - SmallEnvelop
+
+  * Information Collection
+  * Information Usage
+  * Information Protection
+  * Cookie Usage
+  * 3rd Party Disclosure
+  * 3rd Party Links
+
+
 
 Fair Information Practices
 
@@ -55,7 +64,7 @@ However, non-personally identifiable visitor information may be provided to othe
 
 **Third-party links**
 
-We do not include or offer third-party products or services on our website.
+We include or offer third-party products or services on our website.
 
 **Google**
 
@@ -142,3 +151,19 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 If at any time you would like to unsubscribe from receiving future emails, you can email us at**
 
 and we will promptly remove you from **ALL** correspondence.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+smallenvelop.com
+
+Ashoka Garden
+
+Bhopal, Madhya Pradesh 462023
+
+India
+
+poonamdev27@gmail.com
+
+Last Edited on 2016-07-17
