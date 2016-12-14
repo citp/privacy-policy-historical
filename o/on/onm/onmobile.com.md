@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onmobile.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210002247id_/http%3A//www.onmobile.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onmobile.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214014217id_/http%3A//onmobile.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | OnMobile
+# OnMobile | Privacy Policy
 
 OnMobile Global Limited and its subsidiaries (hereinafter referred as ‘OnMobile’), are committed to respect your privacy and choices while using our website. The statement highlights our privacy practices regarding Personal Information that we hold about you.
 
@@ -54,6 +54,6 @@ OnMobile may provide links to third-party websites and services. However, OnMobi
 
 OnMobile may change the data privacy practices and update this privacy statement as and when the need arises and the same will be made available on the website. But our commitment to protect the privacy of website users will continue to remain.
 
-[Click here for more information about the Data Privacy Framework](https://web.archive.org/web/20151210002247id_/http%3A//www.onmobile.com/sites/default/files/Data_Privacy_Framework.pdf)
+[Click here for more information about the Data Privacy Framework](https://web.archive.org/web/20161214014217id_/http%3A//onmobile.com/docs/Data_Privacy_Framework.pdf)
 
 In case of any queries or concerns regarding the privacy policy, you may please send an email to [privacy@onmobile.com](mailto:privacy@onmobile.com)
