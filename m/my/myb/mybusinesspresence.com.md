@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybusinesspresence.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424054203id_/http%3A//www.mybusinesspresence.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybusinesspresence.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214161121id_/http%3A//www.mybusinesspresence.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – My Business Presence – Karen Clark
 
