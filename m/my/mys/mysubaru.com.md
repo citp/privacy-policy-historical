@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysubaru.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209141205id_/https%3A//www.subaru.com/my-subaru/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysubaru.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214181655id_/https%3A//www.subaru.com/my-subaru/privacy.html) for the most accurate reproduction.*
 
 # Subaru Cars, Sedans, SUVs, Crossovers, Wagons | Subaru of America
 
