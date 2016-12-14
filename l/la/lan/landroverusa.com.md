@@ -1,30 +1,33 @@
-> *The following text is extracted and transformed from the landroverusa.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619075546id_/http%3A//www.landroverusa.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landroverusa.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214110942id_/http%3A//www.landroverusa.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Land Rover Documentation - Privacy Policy | Land Rover USA
 
 We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how and for what purposes we are collecting, processing and using your Personal Information (as defined herein). We pledge that we will take reasonable steps to ensure that your Personal Information will only be used in ways that are in compliance with this Privacy Policy.  
 
-**This Privacy Policy is in effect for any web pages, mobile applications, third party social media sites, email lists, on-site electronic data collection, generic information and personal information collected and/or owned by Jaguar Land Rover North America, LLC (“JLR USA”, “our” or “we”), including but not limited to the Jaguar USA and the Land Rover USA websites, no matter the method of collection (e.g., mail, facsimile, sign-up/sign-in page, survey), including collection through this website and any online features, services and/or programs offered by JLR USA (collectively, the “Web Properties”). Your use of the Web Properties is also governed by Terms and Conditions located at[http://www.jaguarusa.com/terms-conditions.html](http://www.landrover.ca/fr/shopping-tools/special-offers/index.html).  
+**This Privacy Policy is in effect for any web pages, mobile applications, third party social media sites, email lists, on-site electronic data collection, generic information and personal information collected and/or owned by Jaguar Land Rover North America, LLC (“JLR USA”, “our” or “we”), including but not limited to the Jaguar USA and the Land Rover USA websites, no matter the method of collection (e.g., mail, facsimile, sign-up/sign-in page, survey), including collection through this website and any online features, services and/or programs offered by JLR USA (collectively, the “Web Properties”). SureSource LLC d/b/a BrandShop operates our Jaguar USA shopping website located at[http://shop.jaguarusa.com](http://shop.jaguarusa.com/) and Land Rover USA shopping website located at [http://shop.landroverusa.com](http://shop.landroverusa.com/) on our behalf. Your use of the Web Properties is also governed by Terms and Conditions located at <http://www.jaguarusa.com/terms-conditions.html>.  
 
-Notwithstanding the foregoing, this Privacy Policy is not applicable to any other web pages, mobile applications, social media sites, email lists, generic information and Personal Information collected and/or owned by any entity other than JLR USA, including, but not limited to, Tata Motors, Jaguar Land Rover, Jaguar Cars Limited, Land Rover, and any automobile dealership or service center. Users of the foregoing resources should refer to the Privacy Policy in effect for the applicable owner. For clarity, this Privacy Policy does not apply to your use of the InControl services, which is governed by the InControl Privacy Policy and Terms and Conditions found at the websites identified below:
+Notwithstanding the foregoing, this Privacy Policy is not applicable to any other web pages, mobile applications, social media sites, email lists, generic information and Personal Information collected and/or owned by any entity other than JLR USA, including, but not limited to, Tata Motors, Jaguar Land Rover, Jaguar Cars Limited, Land Rover, and any automobile dealership or service center. Users of the foregoing resources should refer to the Privacy Policy in effect for the applicable owner. _For clarity, this Privacy Policy does not apply to your use of the InControl services, which is governed by the InControl Privacy Policy and Terms and Conditions found at the websites identified below:_
 
 **
 
-**US Land Rover InControl**
+**_US Land Rover InControl_**
 
-**US Jaguar InControl**
+_<http://www.landroverusa.com/ownership/incontrol/terms-and-conditions.html>_   
+_<http://www.landroverusa.com/ownership/incontrol/privacy-policy.html>_   
 
-<https://incontrol.jaguar.com/jaguar-portal-owner-web/about/privacy-policy#us>
 
-<https://incontrol.jaguar.com/jaguar-portal-owner-web/about/terms-and-conditions#us>
+**_US Jaguar InControl_**
 
-**This Privacy Policy also does not apply to information collected by JLR USA through a means other than the Web Properties or through the InControl services. If the same information is collected through the Web Properties and through a means other than the Web Properties, then the terms of this Privacy Policy shall apply.**
+_<https://incontrol.jaguar.com/jaguar-portal-owner-web/about/privacy-policy#us>_   
+_<https://incontrol.jaguar.com/jaguar-portal-owner-web/about/terms-and-conditions#us>_
+
+**This Privacy Policy also does _not_ apply to information collected by JLR USA through a means other than the Web Properties or through the InControl services. If the same information is collected through the Web Properties and through a means other than the Web Properties, then the terms of this Privacy Policy shall apply.**
 
 We will make an effort to update this web page with any changes to this Privacy Policy and you are encouraged to review this Privacy Policy frequently (the date of the most recent revision to this Privacy Policy appears at the end of this Privacy Policy).
 
 **_Your California Privacy Rights_**
 
-Under California’s “Shine the Light” law, California residents who provide personal information in connection with obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g., requests made in 2013 will receive information regarding 2012 sharing activities).
+Under California’s “Shine the Light” law, California residents who provide personal information in connection with obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year ( _e.g.,_ requests made in 2013 will receive information regarding 2012 sharing activities).
 
 To obtain this information on behalf of JLR USA, please send an email message to [privacy@jaguarlandrover.com](mailto:privacy@jaguarlandrover.com) with “Request for California Privacy Information” in the subject line and in the body of your message. We will provide the requested information to you at your email address in response.
 
@@ -35,7 +38,7 @@ Additionally, because we may collect your Personal Information from time to time
 **_How Information Is Collected_**   
 
 
-The types of Personal Information we collect may include, among other things (collectively, “Personal Information”): (1) contact information (e.g., name, address, home and mobile telephone numbers, email address); (2) biographical information such as household data, preferences, and demographic information (e.g., date of birth, gender, marital status); (3) Internet protocol (or IP) address, MAC address or device ID/UDID; (4) mother’s maiden name (parent’s name prior to marriage); (5) drivers’ license numbers; (6) asset and income information; (7) bank account and credit/debit card numbers; (8) racial or ethnic origin; (9) purchase information regarding our products and services; (10) vehicle identification numbers (VIN’s); and (11) your physical location, time spent and activity while visiting a participating retailer.
+The types of Personal Information we collect may include, among other things (collectively, “Personal Information”): (1) contact information ( _e.g.,_ name, address, home and mobile telephone numbers, email address); (2) biographical information such as household data, preferences, and demographic information ( _e.g.,_ date of birth, gender, marital status); (3) Internet protocol (or IP) address, MAC address or device ID/UDID; (4) mother’s maiden name (parent’s name prior to marriage); (5) drivers’ license numbers; (6) asset and income information; (7) bank account and credit/debit card numbers; (8) racial or ethnic origin; (9) purchase information regarding our products and services; (10) vehicle identification numbers (VIN’s); and (11) your physical location, time spent and activity while visiting a participating retailer.
 
 The means by which JLR USA collects such personal information may include when you: (1) purchase, order, or request information about our products and services through the Web Properties; (2) access a JLR USA social media platform; (3) sign up for email notifications, electronic newsletters, mobile messages (including SMS), or social media notifications from, or on behalf of, JLR USA; (4) enter or participate in a JLR USA contest, event, promotion or sweepstakes, or respond to one of our surveys; (5) provide JLR USA with comments, suggestions or other input through the Web Properties; (6) create a user account for use in connection with the Web Properties (your “User Account”); and (7) while you are physically present at a retailer, by reading the “pings” created by the Wi-Fi and/or mobile radios contained in your mobile device. JLR USA also collects such personal information in our marketing efforts on third party websites.
 
@@ -58,12 +61,9 @@ JLR USA or a partner may sponsor promotions, sweepstakes or contests through the
 
 You can opt-out of certain online behavioral services through any one of the ways described below (you do not need to go to each opt-out site, one is sufficient). After you opt-out, you will continue to receive advertisements, but those advertisements will no longer be as relevant to you.
 
-  
-
-
-  * You can opt-out via the Network Advertising Initiative industry opt-out at [www.networkadvertising.org](https://web.archive.org/web/20160619075546id_/http%3A//www.landroverusa.com/www.networkadvertising.org)
-  * You can opt-out via the Consumer Choice Page at [www.aboutads.info](https://web.archive.org/web/20160619075546id_/http%3A//www.landroverusa.com/www.aboutads.info)
-  * You can opt-out via the IAB UK's industry opt-out at [www.youronlinechoices.com](https://web.archive.org/web/20160619075546id_/http%3A//www.landroverusa.com/www.youronlinechoices.com)
+  * You can opt-out via the Network Advertising Initiative industry opt-out at [www.networkadvertising.org](http://www.networkadvertising.org/)
+  * You can opt-out via the Consumer Choice Page at [www.aboutads.info](http://www.aboutads.info/)
+  * You can opt-out via the IAB UK's industry opt-out at [www.youronlinechoices.com](http://www.youronlinechoices.com/)
   * You can configure your web browser (Chrome, Firefox, Internet Explorer, Safari, etc.) to delete and/or control the use of cookies. More information can be found in the Help system of your browser. It is at your discretion whether you use the opt-out described above or manage cookies via the browser.
 
 
@@ -73,9 +73,6 @@ Note: If you opt-out as described above, you should not delete your cookies. If 
 **_Use of Personal Information_**
 
 The Personal Information that we collect is used for four main purposes:
-
-  
-
 
   1. to enable the features of the Web Properties, including, but not limited to: (a) operating any competitions or promotions in which you may participate; (b) setting up and managing your online account, including but not limited to our processing your requests for information, and/or providing support services to you; (c) providing services to you, such as providing you information about our vehicles;
   2. to improve the Web Properties by determining which of our products, features and services are most popular. We may analyze your information and usage information to enable us and our affiliates to provide services to you and develop new features, functionality and services;
@@ -94,7 +91,7 @@ We use reasonable precautions to keep the information that is disclosed to us se
 
 We may share non-personally identifiable information (such as anonymous user usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with third parties to demonstrate the usage patterns for JLR USA’s advertisements, content, functionality promotions, competitions, games and/or services on the Web Properties and/or on third party websites.
 
-We also reserve the right to disclose Personal Information and/or non-personally-identifiable information in connection with the enforcement of our Terms and Conditions located at [Jaguar](http://www.jaguarusa.com/terms-conditions.html) and [Land Rover](http://www.landrover.com/us/en/lr/terms-and-conditions), to take precautions against liability, to investigate and defend against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of the Web Properties, and to protect our rights, property, or personal safety of JLR USA, and that of our users or others.
+We also reserve the right to disclose Personal Information and/or non-personally-identifiable information in connection with the enforcement of our Terms and Conditions located at [Jaguar](http://www.jaguarusa.com/terms-conditions.html) and [Land Rover](http://www.landroverusa.com/terms-and-conditions.html), to take precautions against liability, to investigate and defend against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of the Web Properties, and to protect our rights, property, or personal safety of JLR USA, and that of our users or others.
 
 We reserve the right to transfer your Personal Information, as well as any other information, in connection with the sale or other disposition of all or part of the JLR USA business and/or assets. We also cannot make any representations regarding the use or transfer of your Personal Information or other information that we may have in the event of our bankruptcy, reorganization, insolvency, receivership or an assignment for the benefit of creditors, and you expressly agree and consent to the use and/or transfer of your Personal Information or other information in connection with a sale or transfer of some or all of our assets in any of the above described proceedings. Furthermore, we cannot and will not be responsible for any breach of security by any third parties or for any actions of any third parties that receive any of the information that is disclosed to us.
 
@@ -108,11 +105,11 @@ For certain features available through the Web Properties, we may require the us
 
 For individuals interested in job opportunities with JLR USA, the Web Properties links prospective employees to a partner’s website. The partner’s website, which has its own Privacy Policy, collects Personal Information from prospective employees for human resources recruitment purposes. This information is then shared with JLR USA’s human resources department and others within JLR USA who are involved in the recruitment process. The foregoing also applies to job application inquiries that you may transmit to us other than through the Web Properties.
 
-**_Employment Opportunity Information Collection_**
+**_Information From Children_**
 
-We do not collect Personal Information from any person that we know to be under the age of thirteen (13). Specifically, the Web Properties is not intended or designed to attract children under the age of thirteen (13). You affirm that you are either more than 18 years of age, or an emancipated minor, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in this Privacy Policy, and to abide by and comply with this Privacy Policy. In any case, you affirm that you are over the age of 13, as **THE WEB PROPERTIES ARE NOT INTENDED FOR CHILDREN UNDER 13 THAT ARE UNACCOMPANIED BY HIS OR HER PARENT OR LEGAL GUARDIAN.**
+We do _not_ collect Personal Information from any person that we know to be under the age of thirteen (13). Specifically, the Web Properties is not intended or designed to attract children under the age of thirteen (13). You affirm that you are either more than 18 years of age, or an emancipated minor, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in this Privacy Policy, and to abide by and comply with this Privacy Policy. In any case, you affirm that you are over the age of 13, as **THE WEB PROPERTIES ARE NOT INTENDED FOR CHILDREN UNDER 13 THAT ARE UNACCOMPANIED BY HIS OR HER PARENT OR LEGAL GUARDIAN.**
 
-Parents should be aware that this Privacy Policy will govern our use of Personal Information, but also that information that is voluntarily given by children – or others – in email exchanges, bulletin boards or the like may be used by other parties to generate unsolicited communications. JLR USA encourages all parents to instruct their children in the safe and responsible use of their Personal Information while using the Internet.
+Parents should be aware that this Privacy Policy will govern our use of Personal Information, but also that information that is voluntarily given by children – or others – in email exchanges, bulletin boards or the like may be used by _other_ _parties_ to generate unsolicited communications. JLR USA encourages all parents to instruct their children in the safe and responsible use of their Personal Information while using the Internet.
 
 **_Privacy Outside the Web Properties_**
 
@@ -146,17 +143,14 @@ By using the Web Properties, you consent to the collection and use of your infor
 
 If you have additional questions or comments of any kind, or if you see anything on the Web Properties that you think is inappropriate or incorrect, please let us know by email or by sending your comments or requests to:
 
-Jaguar Land Rover North America, LLC
+Jaguar Land Rover North America, LLC   
+555 MacArthur Blvd.   
+Mahwah, New Jersey 07430   
+Attn: Customer Care – Privacy Issues   
+(800) 346-3493   
+[privacy@jaguarlandrover.com](mailto:privacy@jaguarlandrover.com)
 
-555 MacArthur Blvd.
+© 2016 Jaguar Land Rover North America, LLC. All Rights Reserved. 
 
-Mahwah, New Jersey 07430
-
-Attn: Customer Care – Privacy Issues
-
-(800) 346-3493
-
-privacy@jaguarlandrover.com
-
-© 2015 Jaguar Land Rover North America, LLC. All Rights Reserved.   
-EFFECTIVE AS OF: March 1, 2013 LAST UPDATED: April 14, 2015
+EFFECTIVE AS OF: March 1, 2013   
+LAST UPDATED: August 11, 2016
