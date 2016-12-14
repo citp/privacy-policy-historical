@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abcnewspoint.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625230041id_/http%3A//www.abcnewspoint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcnewspoint.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214071238id_/http%3A//www.abcnewspoint.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Abc News point
+# Privacy Policy |
 
 Abcnewspoint privacy policy is designed to provide transparency into our privacy practices and principles, in a layout that our guests can navigate, read and value. We are keen to treating your personal information with care and respect to make it private.
 
