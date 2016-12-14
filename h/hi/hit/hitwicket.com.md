@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitwicket.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402071327id_/http%3A//hitwicket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitwicket.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214071733id_/http%3A//hitwicket.com/privacy) for the most accurate reproduction.*
 
 # Hitwicket - Privacy Site
 
