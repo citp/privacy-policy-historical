@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobstreet.com.sg privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605154033id_/http%3A//www.jobstreet.com.sg/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobstreet.com.sg privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214104928id_/http%3A//www.jobstreet.com.sg/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | JobStreet Singapore | JobStreet Singapore
+# Privacy Policy - JS AboutUs SG
 
 ###### Effective Date: **20-April-2016**
 
