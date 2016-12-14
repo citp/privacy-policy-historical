@@ -1,25 +1,23 @@
-> *The following text is extracted and transformed from the grasscity.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623163411id_/https%3A//www.grasscity.com/us_en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grasscity.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214023108id_/https%3A//www.grasscity.com/us_en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grasscity
-
-Privacy Policy - Grasscity.com 
 
 Grasscity takes your privacy very seriously and treats all personal information with great care. In order to guarantee your privacy Grasscity always acts in accordance with the Data Protection Act. This document sets out Grasscity’s Privacy Policy. Grasscity therefore recommends that you read this Privacy Policy carefully. The capitalized words are defined in the End User License Agreement and the General Terms.
 
 The Privacy Policy can be downloaded and printed [here](https://grasscity.zendesk.com/attachments/token/hwallsoe92bkkec/?name=Privacy+Policy+Grasscity.pdf "Grasscity Privacy Policy"). **  
 **
 
-1\. Who is Grasscity? 
+#### 1\. Who is Grasscity?
 
 SJV B.V. (“Grasscity Shop”) and SJV 2 B.V. (“Grasscity Forums”) are companies with limited liability established and existing under the laws of The Netherlands, having their registered office in (1042AC) Amsterdam, the Netherlands, at Gyroscoopweg 64, registered with the Chamber of Commerce under number 55042503 and 34115983. Both companies shall hereinafter jointly be referred to as “Grasscity”. 
 
 Grasscity offers an online headshop through the Website www.grasscity.com and a forum through the website forum.grasscity.com and the application "Grasscity Community". Through the Website you can order products of Grasscity. The Community may be used to discuss the products of Grasscity and the use thereof. 
 
-2\. What information does Grasscity collect and process? 
+#### 2\. What information does Grasscity collect and process?
 
 To purchase products on the Website or to read posts in the Community it is not necessary to register an Account. However, it is necessary for Grasscity to obtain certain information from you to process your purchase on the Website and to send the purchased products to you. Also, to be able to participate in the Community it is required that you register an Account. 
 
-Required information 
+##### Required information
 
 In order to process your purchase and to send the purchased product to you, Grasscity requires you to provide the following information:
 
@@ -34,6 +32,8 @@ In order to process your purchase and to send the purchased product to you, Gras
 
 
 
+##### Account
+
 To enjoy a tailored browsing and shopping experience and to participate in the Community you can register an Account on the Website or in the Application. In addition to the required information as listed above the registration process requires you to provide and confirm your password. Grasscity shall send an email to the provided email address to activate your Account. It is therefore imperative that you provide a valid email address.
 
 In your Account you may add (additional) information about yourself. You may also sign up for the Grasscity newsletter and view various data, such as your wish list, downloadable products, invitations and reward points. With your Account you can also post Material in the Community. See the [End User License Agreement](https://www.grasscity.com/us_en/privacy-policy/) for more information about posting Material.
@@ -42,11 +42,11 @@ Grasscity saves and processes all the supplied information. The information that
 
 After termination of your Account Grasscity shall automatically make your Account inaccessible and remove your Account. Grasscity remains entitled to use your personal information and provided Material as described above insofar as is necessary for the continuance of the Website and Community. Grasscity will, however, upon your request after the 7 day period as mentioned above, anonymize your Material insofar as reasonably possible. 
 
-Automatically generated data 
+##### Automatically generated data
 
 Grasscity requires certain information in order for the Website and the Community to work as optimally as possible (for example, to display the Website and the Community correctly and to keep the Website and the Community secure). That is why Grasscity collects automatically generated data about your use of the Website and the Community. In so far as Grasscity uses this information, the data is always anonymized. 
 
-3\. Cookies 
+#### 3\. Cookies
 
 For the collection of (personal) data, Grasscity uses cookies. Cookies are small textfiles that are placed on the hard drive or in the memory of your computer or mobile device. The cookies that are stored through the Website and Community cannot harm your computer or mobile device, or any files that are saved on this equipment. 
 
@@ -58,7 +58,7 @@ Furthermore Grasscity uses Google Analytics to collect data on the usage of the 
 
 Google can give this information to third parties if it is legally obligated to do so and/or if third parties are processing the information on behalf of Google. Google can not use the information for other Google services. 
 
-4\. For what purposes will Grasscity use information about you? 
+#### 4\. For what purposes will Grasscity use information about you?
 
 Grasscity may use your personal information for the following purposes:
 
@@ -77,7 +77,7 @@ Grasscity may use your personal information for the following purposes:
 
 Grasscity whishes to inform you on the developments of the Website and the Community, its promotions and other news. You can register for the newsletter in your Account. If you no longer wish to receive Grasscity’s newsletter, an opt-out option is provided in every email that Grasscity sends you. 
 
-Use by third parties 
+##### Use by third parties
 
 Grasscity may provide your personal data to third parties if this is necessary to perform the Services requested by you and/or for providing the Website and the Community. The transfer of your personal data may include transfer to payment providers and hosting providers of Grasscity. 
 
@@ -85,20 +85,28 @@ Grasscity may also provide your personal data to third parties if you have given
 
 The Website and/or the Community may contain hyperlinks which take you away from the Grasscity environment and to the website or application of a third party. Grasscity has no authority over the services and/or websites of third parties to which is linked on the Website and/or the Community. It therefore may be the case that for the use of those services and/or websites of third parties another privacy policy is applicable. This Privacy Policy is exclusively applicable to the personal data that is obtained trough the Website and the Community of Grasscity. Grasscity does not accept any responsibility or liability for the (use and/or content of the) services and/or websites of third parties. 
 
-Delete cookies 
+##### Delete cookies
 
 The consent you have given to store and read cookies, can be withdrawn at any time by setting your browser to disable cookies and/or to remove all cookies from your browser. Please consult the help-function of your browser to learn how you can delete cookies. Please take into account that deleting cookies may cause some parts of the Website and Community to work incorrectly. 
 
 Note: refusing or deleting cookies only effects the computer and the browser on which you perform this action. If you use different computers and/or browsers you will need to repeat the above described actions on these computers and/or browsers. If you wish to use cookies, make sure you log-out of your Account when you leave a computer for public use. Also keep your password secret in order to prevent others form using your Account without your consent. 
 
-5\. How does Grasscity protect your personal information? 
+#### 5\. How does Grasscity protect your personal information?
 
 Grasscity takes appropriate technical and organizational measures to protect your (personal) information against loss or any form of unlawful use. 
 
-6\. Viewing, changing and deleting your data 
+#### 6\. Viewing, changing and deleting your data
 
 If you wish to know what information Grasscity has collected about you or if you wish to change data that you cannot change yourself in your Account, then you can send a request for information on your personal data to: support@grasscity.com. Grasscity will respond to your request within four (4) weeks. If you then wish to correct, add, remove or screen your personal data, you may send another request thereto. Grasscity shall respond within four (4) weeks to such a request. If Grasscity decides to deny your request, it shall inform you on the grounds of this decision. 
 
-7\. Transfer of data to countries outside the EU 
+#### 7\. Transfer of data to countries outside the EU
 
-For technical and operational reasons, it may be necessary for your (personal) data to be transferred to (the servers of) companies affiliated to Grasscity located in the United States or other countries outside of Europe. If this is to happen, the information contained in your Account will also be saved in a foreign country. Since 
+For technical and operational reasons, it may be necessary for your (personal) data to be transferred to (the servers of) companies affiliated to Grasscity located in the United States or other countries outside of Europe. If this is to happen, the information contained in your Account will also be saved in a foreign country. Since legislation concerning data protection may then not offer the same protection as in the European Union, you hereby agree that your (personal) information can be transferred to the United States or another country outside of Europe. If Grasscity decides to transfer your data outside of Europe, you shall be informed thereof prior to the transfer. 
+
+#### 8\. Can this Privacy Policy be changed?
+
+It is possible for the Privacy Policy to be amended in the future. That would then be mentioned on this page, in the Community and/or your Account. It is therefore recommended to regularly have a look at this page, the Community and your Account. 
+
+#### 9\. Questions?
+
+If you have any questions, please do not hesitate to contact us [here ](http://support.grasscity.com/)
