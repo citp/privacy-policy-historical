@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the henrys.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531235905id_/http%3A//www.henrys.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henrys.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215004917id_/http%3A//www.henrys.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Henry's best camera store in Canada
 
@@ -27,6 +27,10 @@ Henry’s discloses potentially personally-identifying and personally-identifyin
 ### Cookies
 
 A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Without cookies, Henry’s can't keep track of the items you've placed in your cart or perform other crucial ecommerce capabilities. We do not use cookies to intrude in your privacy or do anything other than match you up with your information on our site.
+
+### Why do we use video surveillance?
+
+Our stores are equipped with surveillance cameras. These cameras are in place for your safety as a customer, as well as for the safety of our own employees and to protect us against shoplifting. If a store has a camera, there will be signs posted alerting you to that. The information on our video systems that record your image are typically kept for a short period of time before they get overwritten with new information. They are not shared with third parties unless there is reasonable suspicion of a crime, in which case they are turned over to the appropriate law enforcement agency.
 
 ## Communications
 
