@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudinary.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611032355id_/http%3A//cloudinary.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudinary.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214153941id_/http%3A//cloudinary.com/privacy) for the most accurate reproduction.*
 
 # Cloudinary - Privacy Policy
 
@@ -22,7 +22,7 @@ The summary of this policy will give you a quick and clear view of our practices
 
 **Aggregated and Analytical Information** – Aggregated data is not identifiable. We use it for legitimate business purposes and may use standard analytical tools. Read more.
 
-**Your Choice** – You may opt-out of our mailing lists and terminate your use of the Service. Our Service does not respond to Do Not Track (DNT) signals. Read more.
+**Your Choice** – You may opt-out of our mailing lists and terminate your use of the Service. Our Service does not respond to Do Not Track (DNT) signals. If you are a California resident, you are entitled to your California privacy rights. Read more.
 
 **Accessing Your Personal Information** \- At any time you can access your identifiable information. Read more.
 
@@ -100,6 +100,10 @@ We request and collect minimal personal details that we need for the purposes de
 
 Some web browsers offer a "Do Not Track" ("DNT") signal. A DNT signal is a HTTP header field indicating your preference for tracking your activities on the Service or through cross-site user tracking. Our Service does not respond to DNT signals. 
 
+###  Your California Privacy Rights 
+
+If you are a California resident, California Civil Code Section 1798.83 permits you to request in writing a list of the categories of personal information relating third parties to which We have disclosed certain categories of personal information during the preceding year for the third parties’ direct marketing purposes. To make such a request, please contact us at: support@cloudinary.com. 
+
 ###  Accessing Your Personal Information 
 
 At any time you may contact us at: support@cloudinary.com and request to access the identifiable information that we keep about you. We may need to ask you to provide us certain credentials to make sure that you are who you claim you are. If you find that the information on your account is not accurate, complete or updated, then please provide us the necessary information to correct it. 
@@ -148,4 +152,4 @@ This policy is an integral part of the [Cloudinary Terms of Use](https://web.arc
 
 Please contact our Privacy Compliance Officer at: [support@cloudinary.com](mailto:support@cloudinary.com) for further information. 
 
-Last updated: April 26, 2015. 
+Last updated: October 18, 2016. 
