@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the napier.ac.uk privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515024646id_/http%3A//www.napier.ac.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napier.ac.uk privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214143521id_/http%3A//www.napier.ac.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -102,6 +102,12 @@ If you wish to enquire or apply to Edinburgh Napier University you will be asked
 We also have a press news list which you can join. To unsubscribe from this list email [EdNapierNews@napier.ac.uk](mailto:EdNapierNews@napier.ac.uk) with REMOVE in the subject line. 
 
 We maintain a database of our alumni and proactively keep them engaged about our alumni services. Find out more about how the University handles alumni data. 
+
+## Events registration on externally hosted services
+
+Please note that by registering for an event via a service such as [Eventbrite](https://www.eventbrite.co.uk/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy?lg=en_GB) you will be supplying your personal data to the company/website and as such you are accepting and consenting to the practices in their Privacy Policy. 
+
+Edinburgh Napier University is not affiliated with this company/website in any way and is using its services solely for the purposes of facilitating event ticketing and registration and does not accept any responsibility or liability for personal data which you have chosen to provide to such third party sites
 
 ##  How to contact us
 
