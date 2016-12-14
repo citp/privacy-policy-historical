@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lighthousecinema.ie privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513164629id_/http%3A//www.lighthousecinema.ie/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lighthousecinema.ie privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214021516id_/http%3A//www.lighthousecinema.ie/privacy.php) for the most accurate reproduction.*
 
 # Light House Cinema - PAGETITLE
 
