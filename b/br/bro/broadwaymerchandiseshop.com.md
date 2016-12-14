@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the broadwaymerchandiseshop.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510232502id_/http%3A//www.broadwaymerchandiseshop.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadwaymerchandiseshop.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214074455id_/http%3A//broadwaymerchandiseshop.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Please replace this text with you Privacy Policy. Please add any additional cookies your website uses below (e.g., Google Analytics) 
 
 This privacy policy sets out how Creative Goods Merchandise uses and protects any information that you give Creative Goods Merchandise when you use this website. Creative Goods Merchandise is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Creative Goods Merchandise may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
