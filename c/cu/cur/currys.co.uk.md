@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currys.co.uk privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614080404id_/http%3A//www.currys.co.uk/gbuk/privacy-on-currys-321-commercial.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currys.co.uk privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214183908id_/http%3A//www.currys.co.uk/gbuk/privacy-on-currys-321-commercial.html) for the most accurate reproduction.*
 
 # Cookie Guide & Privacy Information | Currys
 
@@ -384,25 +384,31 @@ We would also like to inform you of various promotions, goods and services that 
 
 * * *
 
-### Your rights
+### How can I see a copy of the information you hold about me?
 
-(1) You can ask us to update your personal information by emailing precise details of your request to customer.services@currys.co.uk .
+#### The Data Protection Act (DPA) gives you the right to see personal information we hold about you. If you want copies of this information, please send us a written request with the following:
 
-(2) You can ask us not to send you future marketing communications. To do this, simply click this link and submit your details.
+  * Your full name and address
+  * Your account number
+  * A cheque for £10 (admin charge) made payable to Dixons Carphone 
+  * Details of any specific information you require 
+  * One proof of identity - we can accept a photocopy of either your passport or your driver's licence
+  * One proof of identity of address - we can accept a photocopy of a recent credit or debit card statement, a utility bill showing the same name and address as on your account.
 
-We will then suppress your data from all direct marketing, although we will still keep it for processing your order and fulfilling customer service and after sale obligations. Alternatively, you can post your request to the address in (3) below.
 
-(3) You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address. Please enclose a cheque for £10 payable to DSG Retail Limited to cover our administration costs and proof of ID such as a copy of your driving licence or a recent utility bill:
 
-Subject Access Request  
-Legal Services  
-DSG Retail Limited  
-1 Portal Way  
-London  
-W3 6RS
+##### Do not send original documentation as we cannot guarantee the safe receipt or return of these.
 
-* * *
+Please send your written request, cheque and proof of identity and address to:
 
-### Other Websites
+Dixons Carphone  
+Data Protection Officer  
+PO Box 375  
+Southampton  
+SO30 2PU
 
-This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours.
+We recommend you send your request by Recorded Delivery but this is not compulsory. Please note that we do not take online payments.
+
+##### What happens next?
+
+Once we receive your request, along with your cheque and proof of identity, we'll get back to you within 40 days.
