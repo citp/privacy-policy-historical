@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchafl.com.au privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322084536id_/http%3A//watchafl.afl.com.au/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchafl.com.au privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214094938id_/http%3A//watchafl.afl.com.au/help/privacypolicy) for the most accurate reproduction.*
 
 # Live WatchAFL - Company Details
 
@@ -6,7 +6,7 @@
 
 This policy (together with our terms of use sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read this policy carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998, the data controller is Rightster Group PLC (incorporated in England with registered no. 08754680) whose registered office is at 33 Cavendish Square, London W1G 0PW. Rightster Limited is the parent company of a group of companies including Rightster (Gibraltar) Limited, a company incorporated in Gibraltar. References to "we", "our" or "us" include references to Rightster Limited and its subsidiaries.
+For the purpose of the Data Protection Act 1998, the data controller is Brave Bison Group PLC (incorporated in England with registered no. 08754680) whose registered office is at 33 Cavendish Square, London W1G 0PW. Brave Bison Limited is the parent company of a group of companies including Brave Bison (Gibraltar) Limited, a company incorporated in Gibraltar. References to "we", "our" or "us" include references to Brave Bison Limited and its subsidiaries.
 
 ### Information we may collect from you
 
@@ -64,7 +64,7 @@ We do not disclose information about identifiable individuals to our advertisers
 
 ### Disclosure of your information
 
-We may disclose your personal information to any member of our which means Rightster Limited as holding company and our subsidiaries as such terms are defined in section 1159 of the UK Companies Act 2006. We may also disclose personal information to the Australian Football League.
+We may disclose your personal information to any member of our which means Brave Bison Limited as holding company and our subsidiaries as such terms are defined in section 1159 of the UK Companies Act 2006. We may also disclose personal information to the Australian Football League.
 
 We may disclose your personal information to third parties:
 
@@ -76,7 +76,7 @@ We may disclose your personal information to third parties:
 
 ### Your rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the application form. You can also exercise the right at any time by contacting us at [watchafl@rightster.com](mailto:watchafl@rightster.com).
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the application form. You can also exercise the right at any time by contacting us at [watchafl@bravebison.io](mailto:watchafl@bravebison.io).
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -90,4 +90,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [watchafl@rightster.com](mailto:watchafl@rightster.com).
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [watchafl@bravebison.io](mailto:watchafl@bravebison.io).
