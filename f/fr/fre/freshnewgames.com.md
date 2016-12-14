@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshnewgames.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514140004id_/http%3A//www.freshnewgames.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshnewgames.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214185323id_/http%3A//www.freshnewgames.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Fresh New Games - Privacy Policy
 
@@ -12,6 +12,9 @@ freshnewgames.com does not use or has any systems in place that store or process
 
 **IP address and logging**  
 Your IP address is not used to gather broad demographic information and we do not track your general visiting paterns (how many pages you view while at one website, downloads, etc). Our webserver log files are disabled and configured to take emergency dumps only in the event of a server crash. (EMERG log level) 
+
+**Sharing Of Information**  
+There are no scripts or programs running on our server that store your information. We allow our third party advertisers to host scripts on our webpages. Third party advertisers might collect, store and use your information. These scripts are not property of our game portal website and are subject to the privacy policy of the third party. Find the links to the third party privacy policies in the sections below to learn more. 
 
 **Third Party Advertising**  
 We use third-party advertising companies to serve ads when you visit freshnewgames.com. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. Please read the pages are cpmstar.com or google.com/adsense to learn more about the privacy policies of our third parties.
