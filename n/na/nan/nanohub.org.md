@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nanohub.org privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630084926id_/http%3A//nanohub.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanohub.org privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215012434id_/http%3A//nanohub.org/legal/privacy) for the most accurate reproduction.*
 
 # nanoHUB.org - Privacy Policy
 
