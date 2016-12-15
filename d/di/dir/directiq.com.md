@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the directiq.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628145527id_/http%3A//www.directiq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directiq.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215135606id_/http%3A//www.directiq.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DirectIQ
+# Send easy email marketing campaigns with DirectIQ
+
+### Privacy Policy
+
+##### This Page Describes How and When DirectIQ Collects and Use Information
 
 At DirectIQ, we respect and protect the privacy of our customers and those who use our website. The following Privacy Statement provides details about how your personal information is collected and used. This privacy statement applies to the DirectIQ website, products and services that are located in, but not limited to the DirectIQ.com domain.
 
@@ -34,7 +38,7 @@ Web Beacons cannot be declined when delivered via a regular web page. However, W
 
 Choice/Opt-out
 
-DirectIQ's Anti-Spam policy tolerates only permission-based email. In addition, users always have the opportunity to opt-out or change preferences via a link in the footer of all non-transactional email messages. These options are made available when you sign-up for our email lists and in email messages delivered from our company. Alternatively, you may email us at [support@directiq.com](mailto:support@directiq.com). If you believe that you have received an unsolicited commercial email from DirectIQ on behalf of any of our customers, you may report it to us at [abuse@directiq.com](mailto:abuse@directiq.com). 
+DirectIQ's Anti-Spam policy tolerates only permission-based email. In addition, users always have the opportunity to opt-out or change preferences via a link in the footer of all non-transactional email messages. These options are made available when you sign-up for our email lists and in email messages delivered from our company. Alternatively, you may email us at [support@directiq.com](mailto:support@directiq.com). If you believe that you have received an unsolicited commercial email from DirectIQ on behalf of any of our customers, you may report it to us at [abuse@directiq.com](mailto:abuse@directiq.com).
 
 Some communications (e.g. important account notifications and billing information) are considered transactional and are necessary for all DirectIQ customers. You must cancel your DirectIQ account to unsubscribe from these communications. To cancel your DirectIQ account, please email us at [support@directiq.com](mailto:support@directiq.com).
 
@@ -58,4 +62,7 @@ For the purposes of European Directive 95/46/EC and applicable national implemen
 
 Contacting DirectIQ
 
-If you have any questions or comments concerning our Privacy Policy, or if you want to update, delete, or change any personal information you've submitted on the Website, please do not hesitate to [contact DirectIQ](https://web.archive.org/contact).
+If you have any questions or comments concerning our Privacy Policy, or if you want to update, delete, or change any personal information you've submitted on the Website, please do not hesitate to [contact DirectIQ](mailto:support@directiq.com).
+
+  
+
