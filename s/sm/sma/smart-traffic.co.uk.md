@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smart-traffic.co.uk privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603125137id_/http%3A//www.smart-traffic.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smart-traffic.co.uk privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215090527id_/http%3A//www.smart-traffic.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Smart Traffic: Privacy Policy - Smart Traffic
 
