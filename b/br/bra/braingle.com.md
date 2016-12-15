@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the braingle.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611185416id_/http%3A//www.braingle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the braingle.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215200627id_/http%3A//braingle.com/privacy.php) for the most accurate reproduction.*
 
 # Braingle: Privacy Policy
 
