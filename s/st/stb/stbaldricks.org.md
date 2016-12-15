@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stbaldricks.org privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610105427id_/http%3A//www.stbaldricks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stbaldricks.org privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215155757id_/https%3A//www.stbaldricks.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | St. Baldrick's Foundation
 
 ## Privacy Policy
 
-This privacy statement applies to the St. Baldrick's Foundation with respect to the privacy of ALL OF OUR CONSTITUENTS, INCLUDING our online visitors and donors.
+This privacy statement applies to the St. Baldrick's Foundation with respect to the privacy of ALL OF OUR CONSTITUENTS, INCLUDING our online and offline visitors and donors.
 
 St. Baldrick's does not collect personally identifiable information without permission. This site collects contact information when you donate or register. In such cases, we will need personal information such as name, address, telephone number, e-mail address, and credit card number, in order to register your participation, process your donation, and/or provide a receipt. We may use the information you provide to send you information about event results, how proceeds are being distributed and other St. Baldrick's related promotions.
 
