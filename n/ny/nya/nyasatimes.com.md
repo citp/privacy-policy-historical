@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nyasatimes.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230185445id_/http%3A//www.nyasatimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyasatimes.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215050636id_/http%3A//www.nyasatimes.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Malawi Nyasa Times – Malawi breaking news in Malawi
+# Privacy - Malawi Nyasa Times - Malawi breaking news in Malawi
 
 **Nyasa Times Online Privacy Policy**
 
@@ -57,3 +57,5 @@ If you have any questions about this privacy statement, the practices of this si
 Editor @nyasatimes.com
 
 Nyasa Times Online reserves the right to amend this Privacy Statement at any time without notice, and only the current Privacy Statement may be deemed effective.
+
+Follow and Subscribe Nyasa TV : 
