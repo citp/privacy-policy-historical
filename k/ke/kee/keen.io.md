@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keen.io privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316064537id_/https%3A//keen.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keen.io privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215231645id_/https%3A//keen.io/privacy-policy) for the most accurate reproduction.*
 
 # Keen IO - Analytics for Developers
 
