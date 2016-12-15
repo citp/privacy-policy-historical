@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohsosavvymom.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610041150id_/http%3A//ohsosavvymom.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohsosavvymom.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215125850id_/http%3A//ohsosavvymom.com/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Oh So Savvy Mom
 
