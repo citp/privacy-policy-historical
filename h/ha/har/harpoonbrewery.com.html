@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the harpoonbrewery.com privacy policy that was archived on 2016-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160609040437id_/http%3A//www.harpoonbrewery.com/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the harpoonbrewery.com privacy policy that was archived on 2016-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161215071213id_/http%3A//www.harpoonbrewery.com/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<meta charset="utf-8">
@@ -9,6 +9,7 @@
 	<meta name="viewport" content="width=1066">
 	<meta name="robots" content="noodp">
 	<meta name="google-site-verification" content="oIlyJ6X47dU8VNwQsx8OnAKSUC3dw8BIUyfEShyjxPw">
+	<meta name="google-site-verification" content="BIA1-UIDMCGiB9CY7OH14PYpjV6Vnfsc22sWBFlLuHc">
 
 	
 	<title>Privacy Policy - Harpoon Brewery</title>
@@ -30,7 +31,7 @@
 
 	<link rel="shortcut icon" href="/assets/images/favicon.ico">
 
-	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MP3TXR"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="/assets/js/jquery/jquery-1.7.2.min.js"></script>
+	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MP3TXR"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="/assets/js/jquery/jquery-1.7.2.min.js"></script>
 	<script src="/assets/js/jquery/plugins/jquery.effects.core.min.js"></script>
 	<script src="/assets/js/jquery/plugins/jquery.effects.slide.min.js"></script>
 	<script src="/assets/js/jquery/plugins/jquery.placeholder.min.js"></script>
@@ -81,124 +82,6 @@
 		<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l60l5&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
 		<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l60l5&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
 	</noscript>
-
-
-
-<div id="fb-root"></div>
-<script>
-  window.fbAsyncInit = function() {
-  FB.init({
-    appId      : '573308272739600', // App ID
-    status     : true, // check login status
-    cookie     : true, // enable cookies to allow the server to access the session
-    xfbml      : true  // parse XFBML
-  });
-
-  // Here we subscribe to the auth.authResponseChange JavaScript event. This event is fired
-  // for any authentication related change, such as login, logout or session refresh. This means that
-  // whenever someone who was previously logged out tries to log in again, the correct case below
-  // will be handled.
-  FB.Event.subscribe('auth.authResponseChange', function(response) {
-    // Here we specify what we do with the response anytime this event occurs.
-    if (response.status === 'connected') {
-    	if(facebookCreate) {
-    		facebookCreate = false;
-    		window.location.href = 'http://www.harpoonbrewery.com/friendofharpoon/createAccount/';
-    	}
-    	if(facebookLogin) {
-    		facebookLogin = false;
-    		loginFacebookAccount();
-    	}
-      // The response object is returned with a status field that lets the app know the current
-      // login status of the person. In this case, we're handling the situation where they
-      // have logged in to the app.
-      createFacebookAccount();
-    } else if (response.status === 'not_authorized') {
-      // In this case, the person is logged into Facebook, but not into the app, so we call
-      // FB.login() to prompt them to do so.
-      // In real-life usage, you wouldn't want to immediately prompt someone to login
-      // like this, for two reasons:
-      // (1) JavaScript created popup windows are blocked by most browsers unless they
-      // result from direct interaction from people using the app (such as a mouse click)
-      // (2) it is a bad experience to be continually prompted to login upon page load.
-      FB.login();
-    } else {
-      // In this case, the person is not logged into Facebook, so we call the login()
-      // function to prompt them to do so. Note that at this stage there is no indication
-      // of whether they are logged into the app. If they aren't then they'll see the Login
-      // dialog right after they log in to Facebook.
-      // The same caveats as above apply to the FB.login() call here.
-      FB.login();
-    }
-  });
-  };
-
-  // Load the SDK asynchronously
-  (function(d){
-   var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
-   if (d.getElementById(id)) {return;}
-   js = d.createElement('script'); js.id = id; js.async = true;
-   js.src = "//connect.facebook.net/en_US/all.js";
-   ref.parentNode.insertBefore(js, ref);
-  }(document));
-
-  // Here we run a very simple test of the Graph API after login is successful.
-  // This testAPI() function is only called in those cases.
-  function createFacebookAccount() {
-    FB.api('/me', 'get', function(response) {
-
-		jQuery('#facebookId').val(response.id);
-
-    	if(response.first_name) {
-    		jQuery('#createAccountForm #firstName').val(response.first_name);
-    	}
-
-    	if(response.last_name) {
-    		jQuery('#createAccountForm #lastName').val(response.last_name);
-    	}
-
-    	if(response.email) {
-    		jQuery('#createAccountForm #email').val(response.email);
-    		jQuery('#createAccountForm #email_confirm').val(response.email);
-    	}
-
-    	if(response.gender) {
-			if(response.gender == 'male') {
-				jQuery('#createAccountForm #gender').val('m').selectBox('value', 'm');
-			}
-			else if(response.gender == 'female') {
-				jQuery('#createAccountForm #gender').val('f').selectBox('value', 'f');
-			}
-		}
-
-    	if(response.location != 'undefined') {
-	    	if(response.location.name != 'undefined') {
-	    		var locationArray = response.location.name.split(', '); //intentinal space after comma
-	    		var stateValue = jQuery('#createAccountForm #state option[data-statename="' + locationArray[1] + '"]').val();
-	    		jQuery('#createAccountForm #city').val(locationArray[0]);
-	    		jQuery('#createAccountForm #state').val(stateValue).selectBox('value', stateValue);
-	    	}
-	    }
-    });
-  }
-
-function loginFacebookAccount() {
-    FB.api('/me', function(response) {
-    	jQuery.ajax({url:'http://www.harpoonbrewery.com/account/ajaxfacebooklogin?facebookId=' + response.id + '&ts=' + new Date().getTime(),
-			dataType: 'json',
-			success: function(data) {
-				if(data.RECORDCOUNT == 1) {
-					location.reload();
-				}
-				else {
-					window.location.href = 'http://www.harpoonbrewery.com/friendofharpoon/createAccount/';
-				}
-	       	}
-		});
-    });
-  }
-</script>
-
 
 	<a class="Mobile-Banner" href="/?mobile=true">Switch to Mobile Site</a>
 
@@ -373,7 +256,7 @@ Boston, MA, 02210<br>
 	
 	
 	<form name="hiddenBdayForm" id="hiddenBdayForm" action="/agegate" method="POST">
-		<input type="hidden" name="ageGateForm" value="01552BC6-BC60-95DC-D0EE703A87FDE6BB">
+		<input type="hidden" name="ageGateForm" value="0D3DE879-0B9D-82A0-0D0F4E633901EC13">
 		<input type="hidden" name="originURL" value="http%3A%2F%2Fwww%2Eharpoonbrewery%2Ecom%2FprivacyPolicy">
 	</form>
 
