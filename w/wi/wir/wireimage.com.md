@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wireimage.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314182827id_/http%3A//www.wireimage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wireimage.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215180704id_/http%3A//www.wireimage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy: WireImage Celebrity Photos
 
