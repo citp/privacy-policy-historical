@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoisinfo.co.za privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612094405id_/http%3A//www.infoisinfo.co.za/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoisinfo.co.za privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215091726id_/http%3A//www.infoisinfo.co.za/policy) for the most accurate reproduction.*
 
 # Privacy policy Infoisinfo
 
