@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roberthalf.be privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013180016id_/http%3A//www.roberthalf.be/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roberthalf.be privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215183117id_/https%3A//www.roberthalf.be/en/legal-information/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | Robert Half
 
@@ -42,4 +42,4 @@ If you wish to make use of your right to consult and correct your Personal Data,
 
 ## Revisions to the Statement
 
-If we change this privacy statement we will post any updates here for your review. If we change material terms in this Statement, we will provide notice of the revised statement for 30 days on the home page at [www.roberthalf.be](http://www.roberthalf.be/) with a link back to this page.
+If we change this privacy statement we will post any updates here for your review. If we change material terms in this Statement, we will provide notice of the revised statement for 30 days on the home page at [www.roberthalf.be](https://web.archive.org/en) with a link back to this page.
