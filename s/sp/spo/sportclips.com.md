@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportclips.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618195857id_/http%3A//www.sportclips.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportclips.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215033140id_/http%3A//www.sportclips.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Sport Clips
 
@@ -12,7 +12,7 @@ SCI only gathers personal information, such as, first and last names, addresses 
 **Sharing of Personal Information**  
 SCI is a franchising company, and we may share personal information within the Sport Clips Family. The Sport Clips Family includes Sport Clips, Inc., our area developers, our franchisees, or our affiliates. Parties in the Sport Clips Family may have access to your personal information, but we direct each party in the Sport Clips Family to with our Privacy Policy. Occasionally, with your permission, we will send marketing information to you, such as discount coupons or information about new services. If you do not elect to receive such materials, we will not send them to you.
 
-Companies may be hired by SCI to perform a variety of functions, such as assisting with promotions or providing technical services for our web sites, etc. These companies may have access to personal information if needed to perform these functions. However, these companies may only use such personal information for the purpose of performing that function and may not use it for any other purpose.
+Companies may be hired by SCI to perform a variety of functions, such as assisting with promotions or providing technical services for our web sites, etc. These companies may have access to personal information if needed to perform these functions. However, our direction to these companies is that they may only use such personal information for the purpose of performing that function and may not use it for any other purpose.
 
 SCI does not sell, share, transfer or disclose personal information to third parties outside the Sport Clips Family. We may, on occasion, send marketing information to you on behalf of our franchisees or stores owned by SCI.
 
@@ -32,13 +32,13 @@ Georgetown, Texas 78627
 Use the options in your web browser if you do not wish to receive a cookie or if you wish to set your browser to notify you when you receive a cookie. Click on the "Help" section of your browser to learn how to change your cookie preferences.
 
 **Links to Other Web Sites**  
-From time to time, we may post links to other web sites owned and operated by third parties. In these cases, if you visit the linked website, you should check the privacy policy of that web site.
+From time to time, we may post links to other web sites owned and operated by third parties. We have no control over the content or the policies of these websites. If you visit the linked website, you should check the privacy policy of that web site.
 
 **Franchisee Web Sites**  
-Most Sport Clips salons are owned and operated by franchisees, who are independent businessmen and women. Some franchisees may also operate independent web sites. If you visit a website that is owned and operated by an independent Sport Clips franchisee, please review the privacy policy of that site to determine the privacy policies of that site.
+Most Sport Clips salons are owned and operated by franchisees, who are independent businessmen and women. Some franchisees may also operate independent web sites. We have no control over the content or the policies of these websites. If you visit a website that is owned and operated by an independent Sport Clips franchisee, please review the privacy policy of that site to determine the privacy policies of that site.
 
 **Changes to our Privacy Policy**  
-This privacy policy is effective as of March 15, 2010. From time to time, it may be necessary for SCI to change this privacy policy. If we change our policy, we will post the revised version here. Any changes will not be applied retroactively, and will not change how we handle previously collected information.
+This privacy policy is effective as of March 15, 2010, as revised and updated. From time to time, it may be necessary for SCI to change this privacy policy. If we change our policy, we will post the revised version here. Any changes will not be applied retroactively, and will not change how we handle previously collected information.
 
 **Contact Us**  
 If you have any questions about SCI's privacy policy, please contact us at privacy@SportClips.com
