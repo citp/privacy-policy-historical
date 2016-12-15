@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolavenues.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502045434id_/http%3A//www.coolavenues.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolavenues.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216001650id_/http%3A//www.coolavenues.com/privacy-policy) for the most accurate reproduction.*
 
 # CoolAvenues.com Privacy Policy | CoolAvenues.com
 
