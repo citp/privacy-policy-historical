@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the typicallyspanish.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502024457id_/http%3A//www.typicallyspanish.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typicallyspanish.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215182710id_/http%3A//www.typicallyspanish.com/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy Page - Spain news - Topsite for Spanish News in English - TypicallySpanish.com -
+# Typically Spanish Privacy
 
 ### Typically Spanish - PRIVACY POLICY
 
@@ -100,4 +100,4 @@ This site gives users the following options for changing and modifying informati
 
 This site gives users the following options for changing and modifying information previously provided. You can use the same contact if not satisfied with any comments about your company in our comments section.  
 1\. By email to [feedback@typicallyspanish.com](mailto:feedback@typicallyspanish.com)  
-2\. By telephone (+34) 722263512 3\. By contact form [click here](http://www.typicallyspanish.com/form/contactform.shtml)
+2\. By telephone (+34) 722263512 3\. By contact form [click here](http://www.typicallyspanish.com/forms/commentform/)
