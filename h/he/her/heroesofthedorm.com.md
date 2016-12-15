@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the heroesofthedorm.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629171625id_/http%3A//us.blizzard.com/en-us/company/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heroesofthedorm.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215152309id_/http%3A//us.blizzard.com/en-us/company/about/privacy.html) for the most accurate reproduction.*
 
 # Blizzard Entertainment:Privacy Policy
+
+Privacy Policy 
+
+Privacy Policy 
 
 ### Blizzard Entertainment® Online Privacy Policy
 
