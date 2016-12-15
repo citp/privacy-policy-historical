@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatson.ae privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607064526id_/http%3A//whatson.ae/dubai/about/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatson.ae privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215200048id_/http%3A//whatson.ae/dubai/about/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - What's On Dubai
 
