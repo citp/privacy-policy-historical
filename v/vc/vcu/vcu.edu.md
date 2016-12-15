@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vcu.edu privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313113156id_/http%3A//www.vcu.edu/vcu/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcu.edu privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215014651id_/http%3A//www.vcu.edu/vcu/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy statement – Virginia Commonwealth University
 
@@ -49,6 +49,14 @@ Any personal information that one chooses to supply will be maintained exclusive
 ## Disclaimer
 
 This site contains links to external (non-VCU) websites. VCU is not responsible for the privacy practices or content of such websites.
+
+## Third-party tracking technology
+
+This site uses a tracking technology called Google Analytics and Google Tag Manager to obtain site usage information such as users’ Internet Protocol (IP) addresses, Internet domain and host names, browser software, and the date and time that the site is visited. Data obtained through Google Analytics does not include and is not linked to any personal information. Data from Google Analytics allows us to monitor the use of this site, understand how users find the site and improve the site’s function and content.
+
+Site usage data collected through Google Analytics and Google Tag Manager is not shared with other Google products and tools. Our use of Google Analytics and Google Tag Manager is in compliance with Google’s Terms of Service. Google provides more information about [Google’s privacy practices and information on how to opt-out](https://support.google.com/analytics/answer/6004245) of Google Analytics and Google Tag Manager tracking of your web browsing.
+
+This site also uses a tracking technology called Hotjar to obtain site usage information to measure how visitors are using this website, time spent on each page and user interface elements clicked on, as well as to collect feedback via polls and or surveys. Our use of Hotjar is in compliance with Hotjar’s Terms of Use.
 
 ## Contacting us
 
