@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equityapartments.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629122432id_/http%3A//www.equityapartments.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equityapartments.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215030132id_/http%3A//www.equityapartments.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | EquityApartments.com
 
