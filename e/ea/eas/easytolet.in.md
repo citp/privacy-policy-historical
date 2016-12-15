@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easytolet.in privacy policy that was archived on 2016-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160308043851id_/https%3A//easytolet.in/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easytolet.in privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215135009id_/https%3A//easytolet.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Easytolet.in
 
