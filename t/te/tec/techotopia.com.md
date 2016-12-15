@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techotopia.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608162852id_/http%3A//www.techotopia.com/index.php/Techotopia%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techotopia.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215103632id_/http%3A//www.techotopia.com/index.php/Techotopia%3APrivacy_policy) for the most accurate reproduction.*
 
 # Techotopia:Privacy policy - Techotopia
 
@@ -8,12 +8,12 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 We use your IP address to gather broad demographic information. This is information such as the country that your domain is from. This type of information helps us determine and serve our visitors needs better. We get this type of information automatically with the server statistics for our site from our hosting company. We look at it along with our other site statistics. 
 
-  
-
-
 ## Advertisers
 
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we do not use cookies ourselves, cookies received with banner ads may be collected by our ad company, and we do not have access to this information. 
+
+  
+
 
 ## The Way We Use Information
 
