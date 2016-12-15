@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiwicrate.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501211745id_/http%3A//www.kiwicrate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwicrate.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216005827id_/http%3A//www.kiwicrate.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy by Kiwi Crate | Get STEAM & STEM Projects
 
