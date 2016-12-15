@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the trendmicro.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622223316id_/http%3A//www.trendmicro.com/us/about-us/legal-policies/privacy-statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendmicro.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215171012id_/http%3A//www.trendmicro.com/us/about-us/legal-policies/privacy-statement/index.html) for the most accurate reproduction.*
 
 # Privacy Statement - Trend Micro USA
 
 ## TREND MICRO PRIVACY POLICY  
-(November 2015)
+(October 2016)
 
 Trend Micro Incorporated and its subsidiaries and affiliates (collectively, "Trend Micro") are committed to protecting your privacy and ensuring you have a positive experience on our websites and in using our products and services ("Trend Micro Products and Services").
 
@@ -21,9 +21,8 @@ Our Privacy Policy explains the following:
   8. Collection and use of non-personal information
   9. Third-Party websites and services
   10. Children
-  11. European Economic Area (EEA) customers
-  12. Changes to the Trend Micro Privacy Policy
-  13. Trend Micro contact information and inquiries
+  11. Changes to the Trend Micro Privacy Policy
+  12. Trend Micro contact information and inquiries
 
 
 
@@ -39,7 +38,8 @@ Trend Micro websites collect personal information to provide its products, servi
 
 Trend Micro collects personal information in many ways: when you place orders on our website or purchase one of our products or services, download free evaluation software or upgrades, when you register as a customer, when you contact Trend Micro through our "Contact Us" link on our website, when you participate in a campaign or a website forum or referral promotions, when you request a quote or technical support, when you cause information or data to be sent to Trend Micro as part of the product services, when you subscribe to Trend Micro newsletters or receive product updates or technical alerts, when you enter a contest, giveaway, promotion or special offer, when you provide us with feedback or opinion, or when you apply for a job online with Trend Micro.
 
-Trend Micro uses collected personal or other information for various purposes, including but not limited to, responding to or addressing your request, improving your experience on our website, tracking customer preferences, communicating with or notifying you of updates or services or benefits available, awarding prizes, , completing a transaction or confirming an order, completing an offer or managing, evaluating your interest in employment in the case of employment applications submitted by you or renewing or terminating your subscription. This information may include but not be limited to name, company name, billing and shipping information, email address, phone number, credit card or payment information and other relevant information about you and your systems. We use your credit card or payment information to process an order or transaction and for no other purpose without your consent.
+Trend Micro uses collected personal or other information for various purposes, including but not limited to, responding to or addressing your request, improving your experience on our website, tracking customer preferences, communicating with or notifying you of updates or services or benefits available, awarding prizes, , completing a transaction or confirming an order, completing an offer or managing, evaluating your interest in employment in the case of employment applications submitted by you or renewing or terminating your subscription. This information may include but not be limited to name, company name, billing and shipping information, email address, phone number, credit card or payment information and other relevant information about  
+you and your systems. We use your credit card or payment information to process an order or transaction and for no other purpose without your consent.
 
 Trend Micro will maintain your personal information only for as long as you are a registered Trend Micro customer or end user or as is reasonably necessary for audit or internal purposes or as needed to provide you with information you request unless a longer retention period is required or permitted by law.
 
@@ -47,7 +47,7 @@ Trend Micro will maintain your personal information only for as long as you are 
 
 ### C. Communication Preferences
 
-Trend Micro gives you the choice of receiving a variety of information that complements our products and services. You can manage your communication preferences and unsubscribe in one of the following ways: (a) Trend Micro promotional emails include instructions on how you can unsubscribe from that particular communication; or (b) sending a message via email to [legal_notice@trendmicro.com](https://web.archive.org/web/20160622223316id_/http%3A//www.trendmicro.com/us/about-us/legal-policies/privacy-statement/legal_notice@trendmicro.com) or via mail to Trend Micro Incorporated, c/o Legal Department, 10101 N. De Anza Blvd, Cupertino, CA 95014, USA. Please include your name, email address and specific relevant information about the material that you no longer wish to receive.
+Trend Micro gives you the choice of receiving a variety of information that complements our products and services. You can manage your communication preferences and unsubscribe in one of the following ways: (a) Trend Micro promotional emails include instructions on how you can unsubscribe from that particular communication; or (b) sending a message via email to [legal_notice@trendmicro.com](mailto:legalnotice@trendmicro.com) or via mail to Trend Micro Incorporated, c/o Legal Department, 225 East Carpenter Freeway, Suite 1500, Irving, TX 75062, USA. Please include your name, email address and specific relevant information about the material that you no longer wish to receive.
 
 * * *
 
@@ -55,8 +55,7 @@ Trend Micro gives you the choice of receiving a variety of information that comp
 
 Trend Micro is a global organization. Trend Micro may share personal information with its affiliated companies, resellers, distributors or partners in order to provide the high quality, localized services or offers you have requested, meet your needs or provide you with customer support. Trend Micro may engage contractors to provide certain services, such as providing technical support, handling order processing or shipping products, conduct customer research or satisfaction surveys.
 
-For example, if you choose to purchase a license to a Trend Micro product on our website, you  
-will be directed to the website of one of Trend Micro's e-commerce resellers, such as Digital River, in order to purchase the license. Trend Micro and the pertinent e-commerce reseller will need to share some of your personal information. Trend Micro requires that all contractors keep personal information of our customers secure and confidential and that they do not share such personal information with others or use your personal information for their own marketing purposes.
+For example, if you choose to purchase a license to a Trend Micro product on our website, you will be directed to the website of one of Trend Micro's e-commerce resellers, such as Digital River, in order to purchase the license. Trend Micro and the pertinent e-commerce reseller will need to share some of your personal information. Trend Micro requires that all contractors keep personal information of our customers secure and confidential and that they do not share such personal information with others or use your personal information for their own marketing purposes.
 
 It may be necessary by law, legal process, litigation and/or requests from public and governmental authorities within or outside your country of residence for Trend Micro to disclose your personal information. We may also disclose information about you if we determine that for purposes of national security, law enforcement or other issues of public importance, disclosure is necessary or appropriate.
 
@@ -78,14 +77,18 @@ Trend Micro may use cookies to personalize web pages during your visit to our we
 
 If you have registered your product and created a Trend Micro account, we will match the information gathered from our cookies with any information you have given us about yourself, or that is stored in your Trend Micro account, or that we have otherwise collected about you for the purposes explained in this Privacy Policy.
 
-If you do not want Trend Micro to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a website tries to put a cookie in your browser software.  
+If you do not want Trend Micro to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a website tries to put a cookie in your browser software. Rejecting cookies may affect your ability to use of some of our products and/or services.
+
+  
 Rejecting cookies may affect your ability to use of some of our products and/or services.
 
-You can also visit <http://www.coremetrics.com/company/privacy.php#optout> for additional information on how to opt out of receiving marketing cookies.  
+You can also visit <http://www.coremetrics.com/company/privacy.php#optout> for additional information on how to opt out of receiving marketing cookies.
+
 Trend Micro also uses "web beacons" (or single pixel or clear GIFs) on our website to analyze traffic patterns such as the frequency of use of particular parts of our website. The data collected helps us learn what information is of most interest to our customers and what our customers would most like to see. You can opt-out of this analysis by disabling JavaScript on your computer but note that if you do so, some of the features on our website will not work. The information collected is generally anonymized and is not used to identify any particular user. Trend Micro has no access or control of any third party tracking technologies.
 
 Web Analytics  
-This website uses Google Analytics, a web analytics service provided by Google Inc. ("Google"). Google Analytics uses so called "cookies", i.e., small text files that are stored on your computer and make it possible to analyze your website usage. Usually the information stored in cookies about your website usage is transmitted to a Google server in the US and saved there. If IP anonymization is enabled on this web page, Google will shorten your IP address before transmission if it belongs to a member state of the European Union or to a contracting party to the Agreement on the European Economic Area. Only in exceptional cases will your full IP address be transmitted to a Google server in the US and shortened there. On behalf of the website operator, Google will use this information to analyze your website usage, to compile reports about website activities, and to provide the website operator with further services associated with the use of the website and of the internet. The IP address that your browser transmits within the scope of Google Analytics will not be merged with other Google data. You can configure your browser software to disable the use of cookies but we would like to point out that this may prevent you from making full use of this website. You can also stop data (incl. your IP address) created by cookies and associated with your website usage from being sent to Google or processed by Google by downloading and installing the browser plug-in available at the following link [[http://tools.google.com/dlpage/gaoptout?hl=en]](http://tools.google.com/dlpage/gaoptout?hl=en\]).
+This website uses Google Analytics, a web analytics service provided by Google Inc. ("Google"). Google Analytics uses so called "cookies", i.e., small text files that are stored on your computer and make it possible to analyze your website usage. Usually the information stored in cookies about your website usage is transmitted to a Google server in the US and saved there. If IP anonymization is enabled on this web page, Google will shorten your IP address before transmission if it belongs to a member state of the European Union or to a contracting party to the Agreement on the European Economic Area. Only in exceptional cases will your full IP address be transmitted to a Google server in the US and shortened there. On behalf of the website operator, Google will use this information to analyze your website usage, to compile reports about website activities, and to provide the website operator with further services associated with the use of the website and of the internet. The IP address that your browser transmits within the  
+scope of Google Analytics will not be merged with other Google data. You can configure your browser software to disable the use of cookies but we would like to point out that this may prevent you from making full use of this website. You can also stop data (incl. your IP address) created by cookies and associated with your website usage from being sent to Google or processed by Google by downloading and installing the browser plug-in available at the following link [[http://tools.google.com/dlpage/gaoptout?hl=en]](http://tools.google.com/dlpage/gaoptout?hl=en).
 
 * * *
 
@@ -99,8 +102,7 @@ You have the right to update your personal information on your Trend Micro accou
 
 ### H. Collection and use of non-personal information
 
-Trend Micro also collects non-personal information which means data that does not relate to a single, identifiable customer or end user. Trend Micro may collect, use, transfer and disclose non-  
-personal information for any purpose. Trend Micro may collect certain information to better understand customer behavior and improved our products, services and advertising. We may also collect information regarding customer activities on Trend Micro's website and from our products and services. This information is aggregated and used to help Trend Micro provide more useful information to our customers, to understand and analyze trends, understand which parts or pages of our website, administer the site, to learn about user behavior on the site and understand which products and services are of most interest to our customers, to gather demographic information about our customer base as a whole and to improve our customers' experience. Trend Micro collects this information through cookies or web beacons.
+Trend Micro also collects non-personal information which means data that does not relate to a single, identifiable customer or end user. Trend Micro may collect, use, transfer and disclose non-personal information for any purpose. Trend Micro may collect certain information to better understand customer behavior and improved our products, services and advertising. We may also collect information regarding customer activities on Trend Micro's website and from our products and services. This information is aggregated and used to help Trend Micro provide more useful information to our customers, to understand and analyze trends, understand which parts or pages of our website, administer the site, to learn about user behavior on the site and understand which products and services are of most interest to our customers, to gather demographic information about our customer base as a whole and to improve our customers' experience. Trend Micro collects this information through cookies or web beacons.
 
 Trend Micro also collects log files of traffic that visit our websites. These log files may include information such as your Internet Protocol (IP) address, browser information and language, domain name, date and time of request. We use this information to track aggregate traffic patterns throughout our website but such information does not correlate with any personally identifiable information. Trend Micro may collect and retain for a certain period IP address information of customers in order to provide technical support, obtain geo-location information, for subscription and registration purposes and to secure our networks and systems. Trend Micro treats this information as non-personal information. However, to the extent that IP addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for purposes of this Privacy Policy.
 
@@ -108,7 +110,7 @@ Trend Micro also collects log files of traffic that visit our websites. These lo
 
 ### I. Third-Party websites, products and services
 
-Trend Micro’s website contains a number of links to websites of Trend Micro business partners or to co-branded websites that are maintained by Trend Micro and one or more of our business partners who are collecting your information pursuant to their own policies and purposes. You should carefully read the privacy policies on such websites or co-branded websites as they may differ from Trend Micro’s Privacy Policy, especially as information collected on such websites is governed by the pertinent privacy policies. Trend Micro is not responsible for the content, their products or privacy practices or misuse of any information you provide on those websites.
+Trend Micro's website contains a number of links to websites of Trend Micro business partners or to co-branded websites that are maintained by Trend Micro and one or more of our business partners who are collecting your information pursuant to their own policies and purposes. You should carefully read the privacy policies on such websites or co-branded websites as they may differ from Trend Micro's Privacy Policy, especially as information collected on such websites is governed by the pertinent privacy policies. Trend Micro is not responsible for the content, their products or privacy practices or misuse of any information you provide on those websites.
 
 * * *
 
@@ -118,21 +120,15 @@ Trend Micro does not knowingly collect personal information from children under 
 
 * * *
 
-### K. European Economic Area (EEA) customers
-
-With respect to data transfers from the EEA to the United States or to other countries outside the EEA, Trend Micro has taken steps to ensure adequate protection for such data transfers in accordance with European data protection legislation. Trend Micro has entered into appropriate data transfer agreements based on the standard contractual clauses approved by the European Commission to provide adequate protection for data transfers between Trend Micro entities and between Trend Micro entities and third parties located outside the EEA, as necessary.
-
-* * *
-
-### L. Changes to the Trend Micro Privacy Policy
+### K. Changes to the Trend Micro Privacy Policy
 
 Trend Micro will occasionally update this Privacy Policy to reflect changes in our products and services and customer feedback. When we make changes to the Privacy Policy, we will revise the date at the top of the Privacy Policy. If there are material changes to this Privacy Policy or in how Trend Micro will use your personal information, Trend Micro will notify either by prominently posting a notice of such changes prior to implementing the change or by directly sending you a notification.
 
 * * *
 
-### M. Trend Micro contact information and inquiries
+### L. Trend Micro contact information and inquiries
 
-If you have any questions, comments or concerns regarding this Privacy Policy or if you would like to change your communication preferences, update or review personal information we have about you or withdraw your consent for the collection, use or disclosure of your personal information, please email us at [legal_notice@trendmicro.com](mailto:legalnotice@trendmicro.com) or by sending a letter to Trend Micro Privacy Program, Trend Micro Incorporated, c/o Legal Department, 10101 N. De Anza Blvd, Cupertino, CA 95014, USA.
+If you have any questions, comments or concerns regarding this Privacy Policy or if you would like to change your communication preferences, update or review personal information we have about you or withdraw your consent for the collection, use or disclosure of your personal information, please email us at [legal_notice@trendmicro.com](mailto:legal_notice@trendmicro.com) or by sending a letter to Trend Micro Privacy Program, Trend Micro Incorporated, c/o Legal Department, 225 East John Carpenter Freeway, Suite 1500, Irving, TX 75062, USA.
 
   
 
