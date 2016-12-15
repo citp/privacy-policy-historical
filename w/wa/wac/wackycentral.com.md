@@ -1,70 +1,66 @@
-> *The following text is extracted and transformed from the wackycentral.com privacy policy that was archived on 2016-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160122121042id_/http%3A//wackycentral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wackycentral.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215210926id_/http%3A//wackycentral.com/privacy.html) for the most accurate reproduction.*
 
-# Wacky Central | PRIVACY POLICY
+# WackyCentral
 
-**PRIVACY POLICY**
+**Privacy Policy**
 
-**1\. HOW WE PROTECT YOUR PRIVACY.**  
-This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
+The following describes the Privacy Policy for our http://WackyCentral.com website.
 
-**2\. MINORS.**  
-We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.
+**Your Privacy**
 
-**3\. POLICY IS PART OF OUR TERMS AND CONDITIONS OF USE.**  
-Our privacy policy is part of, and subject to, our website's terms and conditions of use. You may view these terms and conditions on our website.
+Your privacy is important to us at WackyCentral.com. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. You agree to agree to these policies by virtue of using our website in a way that leads to you providing us with personal information.
 
-**4\. THE TYPE OF INFORMATION WE COLLECT FROM YOU.**  
-Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer's operating system, and the type of web browser that you are using. Our website automatically records this basic information about you. 
+**State Law & Accompanying Rights**
 
-And like many other websites, we may use cookies. In plain English, this means information that our website's server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common Internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer. 
+Please understand that you may have additional rights originating from State laws based on where you live. These State-based rights may augment, strengthen, or otherwise somehow compliment any privacy rights you have inherently or under Federal law. Our policy is to comply fully with the privacy policies of every jurisdiction in which we operate. Accordingly, you are free to use our Contact information to reach us at any time to assert any State rights.
 
-We may also collect any data that you provide us by posting it at our website or by e-mail. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website's services and features. 
+**Our Commitment To Children's Privacy**
 
-Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
+Protecting the privacy of the very young is especially important. For that reason, our website will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.
 
-**5\. WHAT WE DO WITH YOUR INFORMATION.**  
-We use your information to operate our website's business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website's terms and conditions. 
+Under our Terms of Service and Conditions of Use, children under 18 are not allowed to use our website and access our services. It is not our intention to offer products or services to minors.
 
-As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs. 
+**Collection of Personal Information**
 
-We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability. 
+When visiting our website, the IP address used to access our website may be logged along with the dates and times of access. This information is purely used to analyze trends, administer our website, track users movement, and gather broad demographic information for internal use such as statistical assessments and website improvement. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-Although we do not disclose individually identifiable information, we may disclose aggregate data about our website's visitors to advertisers or other third parties for marketing and promotional purposes. 
+Other information may be collected as well by WackyCentral.com, which is rather typical of most websites. For instance, the source that referred you to our website is generally known. Likewise, your duration on our website, and your destination when you leave our website can also be tracked. Other common data collected includes the type of operating system the computer you are using to access our website has. Similarly, the type of web browser is often noted. Again, this is common data collection, and helps ultimately produce a better end-user experience.
 
-From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others.
+Cookies are another common internet practice. Cookies are a key means of improving user experience by allows us to customize your use of our website. Simple information is transferred to your computer to allow the content and experience at http://WackyCentral.com to reflect your actions, preferences, and so on. You should simply make the assumption our website uses cookies, and note that you are free to make adjustments in your web browser to disable these or otherwise receive notification of cookies so you can take whatever desired action you so choose. Please understand that refusing cookies may cripple some of our website features and render some aspects useless to you.
 
-**6\. USER NAMES AND PASSWORDS.**  
-Your access to parts of our website may be protected by a user name and a password. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
+At times, you will be fully aware of information received, as you are the direct source providing it. For instance, you may comment on a blog post, reply to an email (whether broadcast message or autoresponder), provide an email address, complete a survey, requests SMS, or otherwise. Likewise, purchases necessarily involve collecting certain information, such as credit card information, Paypal addresses, your physical address for billing and/or shipping, phone number, and so on. Refusing to provide some of this information may lead to us being unable to provide you with the products or services you’ve requested.
 
-**7\. YOUR USE OF INFORMATION AND UNSOLICITED JUNK E-MAIL.**  
-If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too. 
+A prime example of limited access to our website is where some http://WackyCentral.com content may be protected by a username and password. Whether a username and password is generated by our website, or created by you, these will almost always be connected with some other information related to or connected with you. This is true since much content that is protected on the internet is subscription based, often paid for. Thus, the username and password must necessarily be tied to your other account data. Usernames and passwords, by their very nature, should be kept private. 
 
-We hate junk e-mail (Spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial e-mail or to send unsolicited commercial communications via our website's posting or other communication systems.
+**Handling of Personal Information**
 
-**8\. YOUR VOLUNTARY DISCLOSURE OF INFORMATION TO THIRD PARTIES WHO ARE NOT OUR SUPPLIERS.**  
-You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
+Note that any personal information you provide to others apart from us or our vendors is wholly optional. As an example, you might disclose something in a blog post comment. That “private” information is now “public,” and we have no control over that. In like fashion, you sharing information with any other third party not functioning as a service provider to us puts that information beyond our control and becomes subject to the policy that party has in place.
 
-**9\. AUTORESPONDERS.**  
-We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to admin@dotcomsuccess.com, or sending us mail to the address listed below.
+Our primary intention for collecting personal and private information from you is simply to conduct our business. We can use this internally to better serve you. Accordingly, we see no reason to share your personal information to other parties and outside interests unless you have authorized us to do so. Of course, there are instances where your information is stored with third party service providers, such as email service providers, as they provide services that are industry-leading in quality and security and are far more beneficial to our end user than attempting such services “in-house.” However, you are never required to deal with any such third party directly, they are limited in how they use your information, and they cannot sell or transfer it to others in any way.
 
-**10\. POLICY CHANGES.**  
-The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website's home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes. 
+However, of course, your information does comprise part of an overall whole. This aggregate of information, by contrast, may be used to understand our overall user base. Further, we may share this information about our website visitors as a whole, not individually, with third parties for various purposes, in our sole discretion.
 
-If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to admin@dotcomsuccess.com and providing us with information relating to your concern. 
+While we are staunch privacy advocates at WackyCentral.com, there are times when even we may be forced to abandon these ideals. Just as major search engines face ongoing compulsion to provide data against their will, so too may the same occur with our http://WackyCentral.com website. Illegal activity or other serious acts or allegations could create legal liability for our website. In those cases, we reserve the right to share your information, or else may simply be compelled to do so by law. On the other hand, there may be times when we would need to share your private information in order to protect our own interests. For instance, in cases of suspected or alleged copyright infringement or other intellectual property violations, it may be necessary to share personal information.
 
-You may also mail your concerns to us at the following address:  
-The Agency, LLC  
-5147 S. Harvard, #200  
-Tulsa, OK 74135  
-USA
+**Google Adsense and the DoubleClick DART Cookie**
 
-**11\. CALIFORNIA PRIVACY RIGHTS.**  
-If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to admin@dotcomsuccess.com or write us at the following address:  
-The Agency, LLC  
-5147 S. Harvard, #200  
-Tulsa, OK 74135  
-USA
+Google, as a third party advertisement vendor, may use cookies to serve ads on this http://WackyCentral.com website. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website, including past visits, as well as other websites on the internet.
 
-This policy was last updated on 03-26-2010.
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies.
 
-Copyright © 2008 [ Law Office of Michael E. Young PLLC](http://www.launchalerts.com/likes/legaleasy), and licensed for use by the owner of this website at http://www.WackyCentral.com All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner. 
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, our website has no access or control over these cookies that may be used by third party advertisers. However, you can opt out of some, though likely not all, of these cookies in one easy location at http://www.networkadvertising.org/managing/opt_out.asp
+
+**Links to Third Party Websites**
+
+We have included links on this website for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own. 
+
+**CHANGE NOTICE:** As with any of our administrative and legal notice pages, the contents of this page can and will change over time. Accordingly, this page could read differently as of your very next visit. These changes are necessitated, and carried out by WackyCentral.com, in order to protect you and our http://WackyCentral.com website. If this page is important to you, you should check back frequently as no other notice of changed content will be provided either before or after the change takes effect.
+
+**COPYRIGHT WARNING:** The legal notices and administrative pages on this website, including this one, have been diligently drafted by an attorney. We at WackyCentral.com have paid to license the use of these legal notices and administrative pages on http://WackyCentral.com for your protection and ours. This material may not be used in any way for any reason and unauthorized use is policed via Copyscape to detect violators.
+
+**QUESTIONS/COMMENTS/CONCERNS:** If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so by using our Contact information.
+
+**CONTACT INFORMATION:**
+
+http://WackyCentral.com/helpdesk.html  
+
