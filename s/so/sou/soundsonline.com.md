@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundsonline.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606192740id_/http%3A//www.soundsonline.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundsonline.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215154849id_/http%3A//www.soundsonline.com/Privacy-Policy) for the most accurate reproduction.*
 
 # EastWest Privacy Policy - 2015
 
