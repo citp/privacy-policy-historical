@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ighome.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604050213id_/http%3A//www.ighome.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ighome.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215224349id_/http%3A//www.ighome.com/privacy.aspx) for the most accurate reproduction.*
 
 # igHome - Personal Dashboard
 
