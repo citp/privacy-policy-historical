@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizfreak.co.uk privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331104408id_/http%3A//www.quizfreak.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizfreak.co.uk privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215141620id_/http%3A//www.quizfreak.co.uk/privacy) for the most accurate reproduction.*
 
 # Quizfreak
 
