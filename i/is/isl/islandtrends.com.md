@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the islandtrends.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401123309id_/http%3A//www.islandtrends.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandtrends.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215123518id_/http%3A//www.islandtrends.com/privacypolicy) for the most accurate reproduction.*
 
 # Island Trends - Upscale Fashion, Swimwear, Shoes and Sandals for Men and Women
 
