@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecollegeinvestor.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616191541id_/http%3A//thecollegeinvestor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecollegeinvestor.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215111554id_/http%3A//thecollegeinvestor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -92,4 +92,4 @@ We reserve the right, at any time, to add to, change, update, or modify this Pol
 
 ### Discover How You Can Be Debt Free
 
-Join the 16,000 other members who've already taken the first steps towards student loan freedom. Sign up and get my five free tactics to lower your student loan debt.
+Join the 21,000 other members who've already taken the first steps towards student loan freedom. Sign up and get my five free tactics to lower your student loan debt.
