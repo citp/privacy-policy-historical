@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the tickets.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418165640id_/http%3A//www.tickets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickets.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215182125id_/http%3A//www.tickets.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tickets.com
 
-**Tickets.com, Inc. Privacy Policy**
-
-Protecting the privacy of your personal information is important to Tickets.com, Inc. (the “Company”). To ensure that your personal information is maintained securely and privately, we have developed the following Privacy Policy. This Privacy Policy describes the type of information that we collect from you and the Company's practices with respect to the gathering and disseminating of information about, and to you. This Privacy Policy was established within the context, and applies to the use, of our Tickets.com Website and the services, features, content or applications offered by the Company. Our Privacy Policy is applicable to not only the use of the Tickets.com website, but also all interactions between you and the Company, as there is the possibility that during such interaction, we may acquire your personal information.
+Protecting the privacy of your personal information is important to Tickets.com, LLC (the “Company”). To ensure that your personal information is maintained securely and privately, we have developed the following Privacy Policy. This Privacy Policy describes the type of information that we collect from you and the Company's practices with respect to the gathering and disseminating of information about, and to you. This Privacy Policy was established within the context, and applies to the use, of our Tickets.com Website and the services, features, content or applications offered by the Company. Our Privacy Policy is applicable to not only the use of the Tickets.com website, but also all interactions between you and the Company, as there is the possibility that during such interaction, we may acquire your personal information.
 
 * **How And When Does the Company Collect Non-Public Personal Information?**
 
@@ -55,7 +53,7 @@ Tickets.com may release your information if, at our sole discretion, we believe 
 
 Tickets.com utilizes Email as a vital and primary communication channel with registered users of this Site. By providing us with your Email address, you grant to Tickets.com (and its service providers) permission to communicate with you via Email for any purposes Tickets.com determines to be relevant to your use of this Site or your relationship with Tickets.com, including, but not limited to, system messages, product updates, service announcements and other marketing messages. You may opt out of receiving any marketing messages that we may send to you.
 
-Users who do not wish to receive marketing Emails are requested to contact Tickets.com Client Services via Email [(optout@tickets.com)](mailto:optout@tickets.com). Users are not able to un-subscribe from system messages, product updates and service announcements, which contain important information about service notices and responsibilities. Tickets.com occasionally communicates with its users via Email to provide information about requested services and regarding issues related to their account.
+Users who do not wish to receive marketing Emails are requested to contact Tickets.com Client Services via Email [(optout@Tickets.com)](mailto:optout@tickets.com). Users are not able to unsubscribe from system messages, product updates and service announcements, which contain important information about service notices and responsibilities. Tickets.com occasionally communicates with its users via Email to provide information about requested services and regarding issues related to their account.
 
 * **How Long Is Your Personal Information Retained?**
 
@@ -69,7 +67,7 @@ Typically, as visitors browse our Website, our computers automatically collect i
 
 The term “Cookie” is a nickname for files that a website's computer system can deposit onto a visitor's computer hard drive when the visitor is logged on to the website. Cookies are used to recognize a visitor's repeat visits to the website, what pages are accessed, and what functionalities are used while he or she is there. The use of cookies is commonplace on the Internet and they take up minimal room on your computer hard drive. Cookies work by assigning a number to your computer that has a specific meaning to the assigning website. Cookies, by themselves, cannot be used to determine the identity of any visitor. Unless you choose to provide us with information about you, we will never know who you are, even though our computer has previously deposited a cookie on your computer's hard drive. In addition, you may modify your Internet browser's settings to notify you whenever any website requests to deposit a cookie on your computer's hard drive. This notification option generally gives you the opportunity to decide whether to accept or refuse a cookie before it is deposited. Tickets.com employs the use of cookies to enable our systems to recognize your browser, to identify how and when pages in our site are visited and by how many people. For example, to become a registered user of our Website, you must allow us to deposit a cookie on your computer's hard drive. Depending upon your browsers capabilities, you may choose to alter your browser settings to specify whether new cookies may be accepted.
 
-Our advertising partners may also use cookies in order to deliver targeted advertising to you. Other companies that advertise on our Website also have the ability to deposit a different cookie on your computer's hard drive in a process that we do not control. Tickets.com maintains no liability for the depositing of such cookies, and both visitors and users of Tickets.com relieve Tickets.com of all liability with respect to third party cookies. Since cookies aren't useable for identifying individuals (i.e., we will not store non-public personal information in a cookie), these advertisers will never know who you are. Depending upon your browsers capabilities, you may be able to alter your browser settings to opt out of receiving targeted advertisements from our advising partners
+Our advertising partners may also use cookies in order to deliver targeted advertising to you. Other companies that advertise on our Website also have the ability to deposit a different cookie on your computer's hard drive in a process that we do not control. Tickets.com maintains no liability for the depositing of such cookies, and both visitors and users of Tickets.com relieve Tickets.com of all liability with respect to third party cookies. Since cookies aren't useable for identifying individuals (i.e., we will not store non-public personal information in a cookie), these advertisers will never know who you are. Depending upon your browsers capabilities, you may be able to alter your browser settings to opt out of receiving targeted advertisements from our advising partners.
 
 Tickets.com may utilize The Adobe Flash Player (“Flash”), and Flash “cookies”, during your use of this Website. Flash is an application and web tool that allows for rapid development of dynamic content. Flash uses technology to remember settings, preferences and usages similar to cookies but are managed through an interface different than the one provided by your web browser. To manage your Flash cookies you must access your Flash management tools from Adobe’s website directly.
 
@@ -89,27 +87,38 @@ Our Website contains links to other Internet websites which we do not operate an
 
 We do not target our Website or our products or merchandise for sale on our Website to children, and our Website does not seek to collect contact information from children under the age of 13. However, should we become aware that a child under the age of 13 has provided us with personal information; Tickets.com will take the necessary steps to remove such information and terminate the child’s account.
 
-**If you are under the age of 13, please do not, submit any personal information to our Website, or ask us to email you. If you are under the age of 18, you should get permission from a parent or guardian before you email our Website, contact our Website, attempt to use our Website, submit information to our Website, or ask us to email you.**
+**If you are under the age of 13, please do not submit any personal information to our Website, or ask us to email you. If you are under the age of 18, you should get permission from a parent or guardian before you email our Website, contact our Website, attempt to use our Website, submit information to our Website, or ask us to email you.**
 
 * **California Privacy Rights.**
 
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an E-mail to support@tickets.com or write us:
+California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an E-mail to support@tickets.com or write us:
 
-Tickets.com, Inc.  
+Tickets.com, LLC  
 555 Anton Boulevard, 11th Floor,  
 Costa Mesa, California,  
 92626  
-Attn: Curt Clausen
+Attn: Legal Department
 
-* **Terms of Use.**
+* **Terms of Use**
 
 Please also refer to our [Terms of Use](https://web.archive.org/tos/) to view the terms and conditions governing the use of the Tickets.com Services.
 
-* **Safe Harbor Compliance.**
+* **EU-U.S. Privacy Shield Compliance**
 
-Tickets.com complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Tickets.com has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Tickets.com’s certification, please visit <http://www.export.gov/safeharbor/>
+Tickets.com and its controlled U.S. subsidiaries (Tickets.com) comply with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Tickets.com has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. Tickets.com also maintains an affirmative commitment to the U.S.-Swiss Safe Harbor Framework and its principles, which will not be affected by our participation in the Privacy Shield.
 
-Under the U.S-EU Safe Harbor Framework any dispute relating to or arising from this Privacy Policy will be resolved by binding arbitration conducted in accordance with the Commercial Rules of the American Arbitration Association. To the extent practicable, hearings will be conducted via telephone or other electronic means intended to facilitate a forum in which a hearing may be had. Any in-person arbitration proceeding will take place in Orange County, California, USA. Upon conclusion of the arbitration, any court having jurisdiction over the matter may enter judgment on any award issued in the arbitration.
+In compliance with the Privacy Shield Principles and the U.S.-Swiss Safe Harbor Framework, Tickets.com commits to resolve complaints about our collection or use of your personal information. European Union and Swiss individuals with inquiries or complaints regarding our Privacy Shield or Safe Harbor policies should first contact Tickets.com at:
+
+Tickets.com, LLC  
+555 Anton Boulevard, 11th Floor,   
+Costa Mesa, California,   
+92626  
+Attn: Legal Department  
+support@tickets.com
+
+Tickets.com has further committed to refer unresolved Privacy Shield and Safe Harbor complaints to International Center for Dispute Resolution (“ICDR” ), the international division of the American Arbitration Association, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit ICDR at <http://info.adr.org/safeharbor> for more information or to file a complaint. The services of ICDR are provided at no cost to you. To the extent practicable, hearings will be conducted via telephone or other electronic means intended to facilitate a hearing forum. Any in-person arbitration proceeding will take place in New York, New York, USA. Upon conclusion of the arbitration, any court having jurisdiction over the matter may enter judgment on any award issued in the arbitration.
+
+As further explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means. Tickets.com is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
 
 * **Changes to Privacy Policy.**
 
@@ -119,9 +128,11 @@ Tickets.com reserves the right to change this Privacy Policy from time to time. 
 
 If you have any questions about the information that we collect on this site, your privacy or our security measures, please contact us at:
 
-Tickets.com, Inc.  
+Tickets.com, LLC  
 555 Anton Boulevard, 11th Floor,  
 Costa Mesa, California,  
 92626  
-Attn: Curt Clausen  
+Attn: Legal Department  
 support@tickets.com
+
+Last modified: September 30, 2016 
