@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheatautomation.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328011518id_/http%3A//cheatautomation.com/forums/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatautomation.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215174327id_/http%3A//cheatautomation.com/forums/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - CheatAutomation
 
