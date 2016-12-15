@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidsuzuki.org privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619073820id_/http%3A//www.davidsuzuki.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidsuzuki.org privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215023452id_/http%3A//www.davidsuzuki.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | About us | David Suzuki Foundation
 
@@ -25,6 +25,8 @@ Your choice to provide us with your personal information is at your discretion. 
 We use cookies and other technology on our websites to make them easier to use and so that we can learn about how you use them. Information collected this way may include (but is not limited to) your IP address and internet service provider, the type of web browser and operating system you used and which of our website pages you visited. We use links in our emails to track open and click-through rates to help us learn what emails appeal to you most.
 
 In some cases, interacting with our web sites, social media accounts or emails provides us with "anonymous" data, such as IP address, link clicks, page visits, the time spent on a page, etc. We use Google Analytics on our website to learn where you are, when you're using our site and what content you find most interesting. This helps us stay relevant.
+
+We may also use 3rd party cookies, beacons and other storage technologies to understand what website content is most important to you so that we can measure our performance and target sponsored and unsponsored content to you on those 3rd party platforms. For example, we use Facebook's tracking pixel to learn about what content you are interested in on our website so that we can serve only our most relevant advertising to you on Facebook. You can opt out from such Facebook advertising by clicking "Why am I seeing this?" on our Facebook ads, clicking "Options" and then selecting "Hide all ads from this advertiser".
 
 It's possible for us to put anonymous data together with personal information you give us to find out more about you. This helps us respect what we know about you. For example, when we have petitions that are meaningful locally, we try our best to send them to the affected communities and avoid sending irrelevant or too many emails.
 
