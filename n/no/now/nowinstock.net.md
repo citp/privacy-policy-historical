@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626020136id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215173420id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - NowInStock.net
 
@@ -97,4 +97,4 @@ We continually add new products, let us know if you have any you would like to s
 
 #### Testimonials
 
-"Wow.Thanks so much for helping me get what I needed under the tree. This is the first year I used this service but it won't be my last. This is the place to connect with for hot Christmas items. Thanks!!!" -Aubrey
+"Thanks guys! This service saved Christmas. My brother is a huge Fallout fan. I was so disappointed when the collector's edition sold out within hours of its release. But thanks to you fine folks I got an alert when one turned up at GameStop. Now it's sitting under the Christmas tree." -Steve
