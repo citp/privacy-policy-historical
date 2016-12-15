@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800goguard.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605141301id_/http%3A//www.nationalguard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800goguard.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215231530id_/https%3A//www.nationalguard.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | National Guard
 
@@ -16,7 +16,7 @@ The information requested on this website is collected in accordance with Sectio
 
 This site is not intended for pre-teenagers, and we do not encourage its use by young children. We realize children may not understand all the provisions of our policy. We urge all parents to teach their children about protecting their personal information while online.
 
-You may ask that any information collected about you be removed from our files by writing us at [webmaster@nationalguard.com](mailto:webmaster@nationalguard.com). You must supply your email address to help us locate the information to purge.
+You may ask that any information collected about you be removed from our files by writing us at [customersupport@nationalguard.com](mailto:customersupport@nationalguard.com). You must supply your email address to help us locate the information to purge.
 
 For site navigation purposes only, cookies are used in a limited manner. Cookies are pieces of information that a website transfers to your computer’s hard disk for record-keeping purposes. Cookies can make the Web more useful by storing information about your preferences on a particular site. The use of cookies is an industry standard, and many major websites use them to provide useful features for their customers. We only use cookies that are not kept after you exit your Web browser. Most browsers are initially set up to accept cookies. If you disable this feature, you may not be able to navigate around this website.
 
@@ -26,4 +26,4 @@ This site makes chat rooms, forums, message boards and/or news groups available 
 The appearance of hyperlinks does not constitute endorsement by the Army National Guard of the website or the information, products or services contained therein. Such links are provided consistent with the stated purpose of this DoD website.
 
  **PROBLEMS, COMMENTS OR QUESTIONS**  
-If you experience any problems with this website, or if you have any comments or suggestions, please email: [webmaster@nationalguard.com](mailto:webmaster@nationalguard.com).
+If you experience any problems with this website, or if you have any comments or suggestions, please email: [customersupport@nationalguard.com](mailto:customersupport@nationalguard.com).
