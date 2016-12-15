@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmyoffer.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618193552id_/http%3A//www.bookmyoffer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmyoffer.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215021335id_/http%3A//www.bookmyoffer.com/privacy-policy) for the most accurate reproduction.*
 
 # Bookmyoffer|Online Shopping Store|book your deal and shopping
 
@@ -84,4 +84,4 @@ Email: ceo@Bookmyoffer.com
 
 **10\. Questions?**
 
-Please contact us regarding any questions regarding this statement at cc@bookmyoffer.com
+Please contact us regarding any questions regarding this statement at care@bookmyoffer.com
