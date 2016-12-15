@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addurl.nu privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608083718id_/http%3A//www.addurl.nu/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addurl.nu privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215042429id_/http%3A//www.addurl.nu/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
