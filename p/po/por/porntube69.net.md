@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porntube69.net privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415232244id_/http%3A//www.porntube69.net/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porntube69.net privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215052137id_/http%3A//www.porntube69.net/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
