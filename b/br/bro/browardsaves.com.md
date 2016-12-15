@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browardsaves.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612204426id_/http%3A//livingsweetmoments.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browardsaves.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215100250id_/http%3A//livingsweetmoments.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Living Sweet Moments
 
