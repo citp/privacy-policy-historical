@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ford.co.uk privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119010256id_/http%3A//www.ford.co.uk/Footer/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ford.co.uk privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215102622id_/http%3A//www.ford.co.uk/Footer/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,15 +12,12 @@ You have the right as an individual to find out what information we hold about y
 
 If you have any specific questions that are not covered in the FAQ section please mail your enquiry to:
 
-Ford Motor Company
+Privacy Enquiry  
+PO Box 2318  
+GLASGOW  
+G33 9DD
 
-PO Box 3602
-
-GLASGOW
-
-G73 9ES
-
-¹The Ford Motor Company Group, a company based in the United States of America, ("FMC") in the context of this Privacy Policy includes those companies where Ford owns at least 25% of the company (this includes Mazda).
+The Ford Motor Company Group, a company based in the United States of America, ("FMC") in the context of this Privacy Policy includes those companies where Ford owns at least 25% of the company.
 
 **Mobile** **and WAP privacy policy**
 
@@ -54,13 +51,10 @@ You have the right as an individual to find out what information we hold about y
 
 For questions that are not covered in the FAQ section please mail your enquiry to:
 
-Ford Motor Company
-
-PO Box 3602
-
-GLASGOW
-
-G73 9ES
+Privacy Enquiry  
+PO Box 2318  
+GLASGOW  
+G33 9DD
 
 **Use of Cookies on our WAP site  **
 
