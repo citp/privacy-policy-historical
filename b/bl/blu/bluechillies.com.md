@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bluechillies.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324235334id_/http%3A//www.bluechillies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluechillies.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215031258id_/http%3A//www.bluechillies.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Your Freeware and Shareware Download Destination! : BlueChillies.com
+
+PRIVACY POLICY
 
 **BlueChillies.com** is committed to protecting your privacy online. We are also committed to providing you with the very best experience we can on our Web site. In order to enhance your experience at our site we gather certain personal information about you that helps us customize our content to your tastes and preferences. Please read the following policy to understand how your personal information will be treated as you make full use of our Web site. This policy may change from time to time so please check back periodically. 
 
