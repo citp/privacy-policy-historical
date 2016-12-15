@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flixsearch.io privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513092107id_/https%3A//flixsearch.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixsearch.io privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215103646id_/http%3A//flixsearch.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Flixsearch
 
