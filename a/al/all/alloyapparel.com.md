@@ -1,115 +1,107 @@
-> *The following text is extracted and transformed from the alloyapparel.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621142226id_/http%3A//www.alloyapparel.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alloyapparel.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215112020id_/http%3A//www.alloyapparel.com/about-us/privacy-and-security) for the most accurate reproduction.*
 
-# Privacy and Security - Customer Service - Alloy Apparel & Accessories
+# Alloy :: Privacy Policy
 
-**_Privacy & Security_**
+EFFECTIVE TIME: August, 2016.
 
-**PRIVACY POLICY**  
-Thank you for visiting www.alloyapparel.com ("the Site")! The purpose of this privacy policy is to inform users of the Site as to what information we collect and how and why we use such information. 
+Alloy Online Store (“we”) operates the web site located at http://www.alloyapparel.com (the “Web Site”). We recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web Site.
 
-**Disclosure Regarding Collection and Use of Personal Information.**  
-Users may enter personal information about themselves through use of the Site. This policy explains our online information collection and use practices and the choices you can make about the way we use and share such information. Please take the time to read and understand this policy. OUR ONLINE INFORMATION COLLECTION AND USE PRACTICES MAY DIFFER FROM OUR PRACTICES REGARDING INFORMATION OBTAINED OFFLINE. IF YOU MAKE USE OF THE SITE, REGISTER WITH THE SITE, REQUEST INFORMATION THAT THE SITE MAY OFFER, PARTICIPATE IN A SURVEY, PURCHASE SOMETHING THROUGH THE SITE, REQUEST A CATALOG, ENTER ANY OF OUR CONTESTS OR PROMOTIONS, OR SUBMIT INFORMATION IN ANY WAY TO OR THROUGH THE SITE YOU ARE AGREEING TO THESE TERMS. THIS POLICY IS SUBJECT TO CHANGE. 
+PLEASE READ THIS PRIVACY POLICY CAREFULLY, AND IF YOU HAVE ANY QUESTIONS, PLEASE FEEL FREE TO CONTACT US. BY VISITING THE WEB SITE, YOU CONSENT TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION AS OUTLINED IN THE PRIVACY POLICY.
 
-**The Information We Collect.**  
-In using our site we may collect personal information about you (i.e. information that can directly identify you or indicate where you might be contacted including: name, address, age, date of birth, sex, grade level, email address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services) through the information you provide, other documents that you submit to us, or transactions in which you may engage with us or our affiliated companies. This policy applies to all personal information that we collect and maintain about our users, including any contact information (e.g., name and address), financial information (e.g., account and credit history), or identifying information (e.g., social security number and date of birth) that we may obtain in connection with providing services. You can view, update, or change your information at any time. [Click here](https://web.archive.org/account/login.do) to edit your profile or [click here](https://web.archive.org/jump.do?itemID=5&itemType=LANDING&page=contact) to email us. 
+## When do we collect information?
 
-Sometimes you can submit information about other people. For example, you might submit a person's name and email address to send an electronic greeting card and, if you order a gift online and want it sent directly to a friend, you might submit the friend's name and address. The types of personally identifiable information that may be collected about other people at these pages may include: recipient's name, address, age, date of birth, grade level, email address, sex, and telephone number. 
+We may collect information about you anytime you interact with us such as when you (i) access or browse the Web Site, (ii) order products or services through the Web Site, (iii) communicate with us either by e-mail, over the telephone or in any other manner, (iv) elect to participate in any of our product promotions, and (v) request information about products and services.
 
-**Other Collected Information.**  
-We also may collect certain non-personal information (i.e. generic information that does not identify you personally) when you visit any of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using (e.g., Windows '98 or Mac OS), the IP address you are using to connect to the Site, or the domain name of your Internet service provider (e.g., America Online or EarthLink). 
+## What information do we collect? 
 
-**How We Use Your Personal Information.**  
-We will use the personal information you provide online for the purpose(s) you have submitted (e.g., fulfilling a catalog request, notifying you if you win a contest). In addition, we may send you an email offering products or services that we think you may be interested in, or ask you to participate in a survey. We may also contact you offline (e.g., if you provide your mailing address, we may mail you special offers, promotions, and catalogs that we think may be of interest to you). We will seek to obtain your consent at the place where the information is collected either by an "opt-in" or "opt-out" method, or by other means (such as email). However, for shop customers only, we will seek to obtain your consent when we collect your personal information for the first time so that we can apply your preferences to future checkouts. If you want us to stop using the personal information you provided in these ways, please go to Edit My Profile on the Site or [click here](https://web.archive.org/jump.do?itemID=5&itemType=LANDING&page=contact) to email us. 
+Information we collect is generally of two types—personally identifiable information and non-personally identifiable information.
 
-**How We Share Your Personal Information.**  
-We will not share with third parties the personal information you provide except (a) if it is for the purpose(s) you provided it; (b) with your consent; (c) as may be required by law or as we think necessary to protect our company or others from injury (e.g., in response to a court order or subpoena, in response to a law enforcement agency request, or when we believe that someone is causing (or about to cause) injury to or interference with the rights or property of another); (d) with other persons, service providers, or companies with whom we contract to carry out internal site operations or our business activities (e.g., sending out a product or a promotional item that you have requested on the Site); and/or (e) notifying you when we make material changes to one of our subscriber agreements or this policy. We will seek to obtain your consent at the place where the information is collected either by an "opt-in" or "opt-out" method, or by other means (such as email). However, for shop customers only, we will seek to obtain your consent when we collect your personal information for the first time so that we can apply your preferences to future checkouts. 
+Personally identifiable information comprises any information that can help us identify or locate an individual, including, without limitation, an individual’s name, address, e-mail address, telephone number and credit card number.
 
-Additionally, with your consent, we may share the personal information you provide online with companies not affiliated with us (i.e. third-party companies) who are interested in marketing their products or services to you or in asking you questions, both online and offline. We will seek to obtain your consent either by an "opt-in" or "opt-out" method, or by other means (such as email). Companies with whom we might share your personal information may include consumer products, telecom, financial, military, market research, entertainment, and educational services companies and their third-party service providers. If you want us to stop sharing your personal information with these companies, please go to Edit My Profile on the Site or [click here](https://web.archive.org/jump.do?itemID=5&itemType=LANDING&page=contact) to email us. 
+Non-personally identifiable information comprises information that does not by itself identify an individual. This information generally includes anonymous information about an individual’s use of the Website that includes, among other things, information concerning date and time of visit, the pages of the Website visited, path through the Website, IP address, the type of browser and operating system used.
 
-If you would like to opt-out of receiving offline communications from us, please [email us](https://web.archive.org/jump.do?itemID=5&itemType=LANDING&page=contact) or let us know in writing via letter addressed to: Attn: Privacy HRSH Acquisitions LLC DBA Alloy Apparel & Accessories, 15 West 34th Street 6th Floor, New York, NY 10001. For all postal mail opt-out requests, please include your name, street address, city, state, and zip code. We cannot accept opt-out requests via telephone or facsimile, nor will we be responsible for notices that are not labeled or sent properly or lack complete information. Please note that we may require up to sixty (60) days to fully remove your postal mail information from our mailings. 
+## What do we use your information for? 
 
-If you consent to receiving communications from non-affiliated companies, you may need to communicate with them directly if you later decide that you no longer wish to receive their communications or if you wish to change any data you provided online. In this instance, any changes or amendments to your personal information must be given directly to each company who communicates with you as these changes, amendments, and/or deletions will not be exchanged between us and non-affiliated companies. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-If we do share personal information with a non-affiliated company, to the extent practical, we require that they protect such information in a manner that is consistent with this policy. We cannot, however, guarantee how these non-affiliated companies will use your personal information. Following your opt-out, please be aware that our company or our affiliates may continue to contact you via email or postal mail for administrative or informational purposes, including, but not limited to, follow-up messages regarding the administration of your account, any services, features, or functions you have affirmatively enrolled in or registered to use, any promotions or sweepstakes you have participated in or have entered, goods, services, or products you have ordered, or other transactions you have undertaken on the Site. 
+  * **To personalize your experience**  
+(your information helps us to better respond to your individual needs)
 
-**Use and Disclosure of Anonymous Information.**  
-We sometimes use the non-personal information that we collect to improve the design and content of the Site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze how the Site is used, as well as to offer you products, programs, or services. Sometimes we share aggregate information with others, including both affiliated and non-affiliated companies. 
+  * **To improve the Web Site**  
+(we continually strive to improve the Web Site offerings based on the information and feedback we receive from you)
 
-We may also allow third-party companies to serve advertisements and/or collect certain anonymous information when you visit the Site. Such companies may use non-personal information (e.g., click stream information, browser type, time, date, and/or subject of advertisements clicked or scrolled over) during your visits to the Site and other websites in order to make available advertisements about goods and services that such information indicates would likely be of greater interest to you. Such companies typically use a cookie or third-party web beacons to collect this type of non-personal information. To learn more about this behavioral advertising practice or how you may opt-out of these types of advertising, you can visit www.networkadvertising.org/managing/opt_out.asp. 
+  * **To improve customer service**  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-If you would prefer not to receive marketing or promotional emails from us that may relate, for example, to new services or offerings, or would like to edit your preferences, you may opt-out of receiving these communications or update your profile by clicking here. You may also use the opt-out mechanism that is provided by your email service. 
+  * **To process transactions**  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-**Collection of Information By Others.**  
-The Site may contain links to other websites, such as third-party advertisements or text hyperlinks. Please be aware that we are not responsible for the privacy practices of any other website. We encourage all users of the Site to be aware of when they leave the Site, and to read the privacy policies of each and every website that collects personal information. This privacy policy applies solely to information collected by the Site, through the Site. We may offer additional email services or promotions that are sponsored by or co-sponsored with non-affiliated companies. Based on our agreement with them, these third parties may obtain personal information that site visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. We have no control over the use of this information by these companies. 
+  * **To send periodic emails**  
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
 
-**Cookies.**  
-To enhance your online experience with us, many of our web pages use "cookies." Cookies are text files placed on your hard disk by our web server to store your preferences. Cookies, by themselves, do not tell us your email address or other personal information unless you choose to provide this information to us. However, once you choose to provide this personal information, the information may be linked to the data stored in the cookie. Cookies cannot be used to run programs or deliver viruses to your computer. 
 
-We use cookies as a convenience feature to save you time, to understand how the Site is used, and to improve the content and offerings on the Site. For example, we may use cookies to personalize your experience at our web pages or recall your specific information on subsequent visits (e.g., to recognize you by name when you return to the Site). We also may use cookies to offer you products, programs, or services. You can opt to have your browser reject cookies. If you do that, you may need to re-register with us every time you visit the Site in order to participate in certain functions of the Site. You should also know that companies that advertise on the Site (and their agents) might use their own cookies. This policy does not cover how these companies use their cookies. 
 
-**Clickstream Data.**  
-As you use the Internet, a trail of electronic information is left at each web site you visit. This information, which is sometimes referred to as "Clickstream Data," can be collected and stored by a web site's server. Clickstream Data can tell us the type of computer and browsing software you use and the address of the web site from which you linked to the Site. We may use Clickstream Data as a form of non-personal information to anonymously determine how much time visitors spend on each page of the Site, how visitors navigate throughout the Site, and how we may tailor our web pages to better meet the needs of visitors. This information will only be used to improve the Site. Any collection or use of Clickstream Data will be anonymous and aggregate. 
 
-**Supplementing Information.**   
-From time to time we may supplement information you give us with information from other sources, such as information validating your address. Thus, information we obtain through the Site may be intermingled with and used in conjunction with information obtained through sources other than the Site, including both offline and online sources. 
+**Note:** If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-**Discussions and Community Tools.**   
-We may, from time to time, make review lists, chat rooms, forums, message boards, blogs, newsgroups, and other community tools available to you. Please remember that any information that is disclosed in these areas becomes public information for other users to view and for us to use. For example, from time to time, we may use the content you write (including your name or screen name if you post it) for promotional purposes (in email newsletters, or elsewhere), and by using the Site and/or these chat rooms, forums, message boards, news groups, and other community tools, you agree that we may do so. You should exercise caution when deciding to disclose your personal information in these areas, since anyone—not just us—may access your publicly posted information. 
+## How do we protect your information? 
 
-**Our Commitment to Security.**   
-We believe we have in place the appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. Whenever personal information is passed on to non-affiliated companies, to the extent practical, we require that they also have in place the appropriate safeguards. We cannot, however, guarantee that they do so. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-**California Privacy Policy.**  
-Alloy collects various types of personal information about you during the course of our business relationship. If you are a California resident, you are entitled under California law to request a report detailing how we have shared your personal information during the prior calendar year with third parties for their direct marketing purposes. In response to your request, Alloy will provide you with a cost-free means to opt out of such sharing. For purposes of the California Privacy notice, third parties include companies within our “family”—those that we own, are owned by, and that are under a common ownership. 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-If you would like to exercise your rights under California law, please send your written request to the email or postal address below, or call us at the toll free number. We will provide you with a Customer Choice Notice within 30 (thirty) days. 
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-Email:   
-customerservice@alloymerch.com 
+## Do we use cookies? 
 
-Phone:  
-1-855-462-5569 
+Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-If you would like to know what information is gathered about you when you visit alloyapparel.com and how it is used, you may review the alloyapparel.com Privacy Policy by clicking here. 
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-**International Users.**   
-If you are visiting the Site from a location outside of the United States, your connection will be through and to servers located in the United States, your orders placed through the Site will be fully processed in and shipped from the United States, and all information you provide will be processed and securely maintained in our web servers and internal systems located within the United States. IN ADDITION, IF YOU ARE LOCATED OUTSIDE THE UNITED STATES, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY OTHER COUNTRIES TO HAVE INADEQUATE DATA PROTECTION (e.g., see European Union Directive 95/46/EC of 24 October 1995). Users of the Site located in countries outside of the United States of America who submit personal information do thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to and/or storage of the information in the United States of America. This policy and our legal obligations are subject to the laws of the State of New York and the United States of America, regardless of the location of any user. Any claims or complaints must be filed in the United States of America in the State of New York. 
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
 
-**How You Can Access or Correct Your Personal Information.**   
-For instructions on how you can access the personal information that we have collected about you online, or how to correct any errors in such information, please go to Edit My Profile on the Site or [click here](https://web.archive.org/account/login.do). 
+## Do we disclose any information to outside parties?
 
-To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating the Web Site, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Special Note for Parents.**   
-We will not knowingly accept personal information from anyone under 13 years old. If you believe that your child under 13 has gained access to the Site without your permission, please [email us](https://web.archive.org/jump.do?itemID=5&itemType=LANDING&page=contact). We have taken commercially reasonable steps to restrict use of the Site to those who are at least 13 years old. We do not market products or services for purchase by children and all children's products or services we market are for purchase by adults only, or with adult permission. 
+## Third Party Links
 
-**Transfer of Business Assets.**   
-The personal information you provide is considered a company asset and may be included among transferred assets if the Site, Company, parent company, any or all of our subsidiaries or affiliates, or any of our assets are ever acquired by a third-party. 
+Occasionally, at our discretion, we may include or offer third party products or services on the Web Site. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of the Web Site and welcome any feedback about these sites.
 
-**Changes to this Policy.**  
-Because our business needs may change over time, we reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. If at any time in the future we plan to use your personal information in a way that differs from this policy, we will revise this policy as appropriate. Your continued use of the Site following the posting of any changes to this policy means you accept such changes. This policy is effective as of June 1, 2014. 
+## California Online Privacy Protection Act Compliance
 
-**How to Contact Us.**   
-The information you provide pursuant to this privacy policy is owned by HRSH Acquisitions LLC DBA Alloy Apparel & Accessories. 
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-If you have any questions or concerns about this privacy policy you may [click here](https://web.archive.org/jump.do?itemID=5&itemType=LANDING&page=contact) to email us or contact us as follows: 
+As part of the California Online Privacy Protection Act, all users of the Web Site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
 
-HRSH Acquisitions LLC DBA Alloy Apparel & Accessories   
-15 West 34th Street   
-6th Floor   
-New York, NY 10001  
-Attn: Privacy 
+## Children’s Online Privacy Protection Act Compliance 
 
-Telephone: (212) 590-6200   
-Facsimile: (212) 590-6310 
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
 
-If you have any questions about how HRSH Acquisitions LLC DBA Alloy Apparel & Accessories or any of its affiliates or subsidiaries will use or share your information you may [click here](https://web.archive.org/jump.do?itemID=5&itemType=LANDING&page=contact) or contact them as follows: 
+As a parent or guardian you can request us to remove personal information of your child that was submitted without your consent or by misrepresenting his or her age. At your request, we will take reasonable steps to remove such information from our database. All such requests should include the same user name, password, and e-mail address that your child submitted and should be sent to [customerservice@alloymerch.com](mailto:customerservice@alloymerch.com).
 
-HRSH Acquisitions LLC DBA Alloy Apparel & Accessories   
-15 West 34th Street   
-6th Floor   
-New York, NY 10001  
-Attn: Privacy 
+## Online Privacy Policy Only
 
-Telephone: (212) 590-6200  
-Facsimile: (212) 590-6310 
+This online privacy policy applies only to information collected through the Web Site and not to information collected offline.
+
+## Terms and Conditions 
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of the Web Site.
+
+## Integrity
+
+During the account sign-in process you can review, change or remove the information you have submitted. We aim to keep our information about you as accurate as possible and encourage you to promptly update your information if it changes. You may, at any time, access your information to update, modify or delete any inaccuracies by accessing your account through the Web Site. You may also request us to remove your account information from our databases and we will try to remove as much information as possible. However, as we generally keep information related to past transactions for our records, we will not be able to completely remove your information.
+
+## Changes to our Privacy Policy
+
+We may change our policy at any time by posting a new version of it on the Web Site. We encourage you to check the Web Site regularly for information about revisions to this Privacy Policy. In the event that we change our Privacy Policy, such changes will affect all of the information we collect after any such change. If you object to the change to our Privacy Policy, then you must contact us in writing regarding your objection.
+
+## Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+Alloy Online Store  
+Attn: Privacy Policy  
+946 W. 17th Street  
+Costa Mesa, CA 92627  
+USA 
