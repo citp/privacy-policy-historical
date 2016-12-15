@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apkdad.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501215717id_/http%3A//www.apkdad.com/dmca-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkdad.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215220743id_/http%3A//www.apkdad.com/dmca-privacy-policy) for the most accurate reproduction.*
 
 # DMCA & Privacy Policy | APKDAD
 
