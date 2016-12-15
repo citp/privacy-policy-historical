@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globetrooper.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517151902id_/http%3A//globetrooper.com/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globetrooper.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215163240id_/http%3A//globetrooper.com/general/privacy) for the most accurate reproduction.*
 
 # Globetrooper Privacy Policy
 
