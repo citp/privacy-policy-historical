@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pdfescape.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614231205id_/http%3A//www.redsoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfescape.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216005647id_/http%3A//www.pdfescape.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Red Software
+# PDFescape Privacy Policy
 
 Effective April 29 2015
 
@@ -27,13 +27,13 @@ We take your privacy seriously. Please read the following information to learn m
 
 We invite you to contact us if you have questions about this privacy policy. 
 
-You may contact us using the information provided at [http://www.redsoftware.com/contact/](https://web.archive.org/contact/). 
+You may contact us using the information provided at <http://www.redsoftware.com/contact/>. 
 
 ## Dispute Resolution
 
 We are committed to resolving any dispute you may have regarding our privacy policy quickly and efficiently. 
 
-Concerns will be responded to promptly by our [customer service representatives](https://web.archive.org/support/). 
+Concerns will be responded to promptly by our [customer service representatives](http://www.redsoftware.com/support/). 
 
 ## Information Collection
 
@@ -89,8 +89,8 @@ Red Software Websites do not currently respond to a Do Not Track ("DNT") or simi
 
 We reserve the right to make changes to this policy from time to time. 
 
-Changes to our privacy policy will be accessible at [http://www.redsoftware.com/privacy/](https://web.archive.org/privacy/)
+Changes to our privacy policy will be accessible at <http://www.redsoftware.com/privacy/>
 
 ## Terms of Use
 
-All information collected by a Red Software Website is subject to our [Terms of Use](https://web.archive.org/terms/). If there is a conflict between this Privacy Policy and the Terms of Use, the Terms of Use shall control. 
+All information collected by a Red Software Website is subject to our [Terms of Use](http://www.redsoftware.com/terms/). If there is a conflict between this Privacy Policy and the Terms of Use, the Terms of Use shall control. 
