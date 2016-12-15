@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corel.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617214407id_/http%3A//www.corel.com/us/corel-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corel.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215135344id_/http%3A//www.corel.com/en/corel-privacy-policy) for the most accurate reproduction.*
 
 # Corel Privacy Policy | Legal Information
 
@@ -138,9 +138,13 @@ We may make use of cookies on our website. We use cookies to allow us to automat
 
 Most web browsers can either alert you to the use of cookies or refuse to accept cookies entirely. You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of the website if cookies are disabled.
 
-For more information on how to disable cookies you should consult the documentation or instructions that accompanied your web browser or by visiting the Federal Trade Commission's website at??<http://www.ftc.gov/ftc/cookies.shtm>.
+For more information on how to disable cookies you should consult the documentation or instructions that accompanied your web browser or by visiting the Federal Trade Commission's website at <http://www.ftc.gov/ftc/cookies.shtm>.
 
 We do not use flash cookies.
+
+Mixpanel: We use Mixpanel as our primary analytic tool to understand how our customers use our products and services. This helps us, for example, build a better application experience for our customers. You can read the [MixPanel Privacy Policy](https://mixpanel.com/privacy/) and [opt-out here](https://mixpanel.com/optout/).
+
+NOTE: If your default browser is not Internet Explorer, please be advised you will need to to visit the opt-out page using Internet Explorer to opt-out of product tracking. <https://mixpanel.com/optout/>
 
 ### 11\. LINKS
 
@@ -158,7 +162,7 @@ Corel's website is a general audience site that is neither designed nor intended
 
 We take reasonable steps to ensure that the information that we receive from you is accurate and kept up to date. You have the right to access your personal information, to verify its accuracy, and to correct inaccurate information. You can change your preferences at any time by signing into your account through our website with your credentials (email address and password) and clicking on “Your Account Information.” You can also access and correct errors in your personal information by contacting us at [privacy@corel.com](mailto:privacy@corel.com).
 
-If you do not want to be contacted for product, service or marketing initiatives, or if you would like to be removed from any direct marketing initiatives, corporate surveys, telemarketing or direct mail or e-mail lists, or if you would otherwise like to limit our use or disclosure of your personal information, please contact us at??[privacy@corel.com](mailto:privacy@corel.com)??or change your preferences by signing into your account through our website using your credentials (email address and password) and clicking on “Manage Your Communications Preferences.”
+If you do not want to be contacted for product, service or marketing initiatives, or if you would like to be removed from any direct marketing initiatives, corporate surveys, telemarketing or direct mail or e-mail lists, or if you would otherwise like to limit our use or disclosure of your personal information, please contact us at [privacy@corel.com](mailto:privacy@corel.com) or change your preferences by signing into your account through our website using your credentials (email address and password) and clicking on “Manage Your Communications Preferences.”
 
 Some of our products display dynamic on-line communications (for example, through a message center), and you may elect not to receive these communications (e.g. such as product updates) by altering your message preferences in the specific product. However, any alterations you make to these product-specific message preferences will not change your general user preferences with regard to the collection and use of your personal information by Corel. Alternatively, altering your general user preferences with regard to the collection and use of your personal information by Corel will not change your product-specific message preferences.
 
@@ -188,7 +192,7 @@ We are always looking for ways to improve our business and our practices. Conseq
 
 ### 20\. CONTACT US
 
-Any requests for access to your information, modification of your information or questions in respect of this policy should be sent to the following email address??[privacy@corel.com](mailto:privacy@corel.com).
+Any requests for access to your information, modification of your information or questions in respect of this policy should be sent to the following email address [privacy@corel.com](mailto:privacy@corel.com).
 
 Corel offers you other methods to opt out of receiving communications generated by Corel. For example, you may “unsubscribe” from emails by following the process listed in the email to unsubscribe. You can also change your customer profile on the Corel website to indicate that you no longer wish to receive certain information from Corel by signing into your account through our website using your credentials (email address and password) and clicking on “Manage Your Communications Preferences.”
 
