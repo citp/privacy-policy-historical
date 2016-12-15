@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dentaquest.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613200433id_/http%3A//www.dentaquest.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dentaquest.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215100040id_/http%3A//www.dentaquest.com/privacy-and-security) for the most accurate reproduction.*
 
 # DentaQuest - Privacy Policy
 
@@ -69,15 +69,15 @@ DentaQuest is obligated to provide this notice to you and abide by the terms of 
 
 DentaQuest  
 Attn: Customer Service  
-P.O. Box 399  
-Thiensville, WI 53092
+P.O. Box 2906  
+Milwaukee, WI 53201-2906
 
 **If you want to exercise your privacy rights, feel your privacy rights have been violated, or if you need more information, contact our Privacy Officer by e-mail:[privacy@dentaquest.com](mailto:privacy@dentaquest.com) , phone 888-788-8600 or mail:**
 
 DentaQuest  
 Attn: Privacy Officer  
-P.O. Box 399  
-Thiensville, WI 53092
+P.O. Box 2906  
+Milwaukee, WI 53201-2906
 
 **All complaints will be investigated and you will not suffer retaliation for filing a complaint. You may also file a complaint regarding health information with the Secretary of Health and Human Services in Washington, D.C.**
 
