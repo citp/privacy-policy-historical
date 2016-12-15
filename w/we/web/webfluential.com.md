@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webfluential.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623161640id_/https%3A//webfluential.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webfluential.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215102703id_/https%3A//webfluential.com/privacy) for the most accurate reproduction.*
 
 # Webfluential | Privacy
 
@@ -16,7 +16,7 @@
   3. “Processing” means using or accessing information in any way, including, but not limited to, collecting, collating, storing, analysing, updating, modifying, disclosing and deleting information. 
   4. “Services” means the Website, the global influencer marketing platform operated by Webfluential, Webfluential’s mobile applications, and services provided by Webfluential in relation thereto. 
   5. “Webfluential” refers to Webfluential Global Limited, a company incorporated in accordance with the laws of the Republic of Mauritius, with its registered address at Level 3, Alexander House, 35 Cybercity, Ebene 72201, Republic of Mauritius. 
-  6. “Website” refers to, and includes any part or element of, [www.webfluential.com](https://web.archive.org/) and any of its sub-domains. 
+  6. “Website” refers to, and includes any part or element of, [www.webfluential.com](https://web.archive.org/pages/home) and any of its sub-domains. 
 
 
 
