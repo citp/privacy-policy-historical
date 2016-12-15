@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodbloggerpro.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416163503id_/https%3A//www.foodbloggerpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodbloggerpro.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215013757id_/https%3A//www.foodbloggerpro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Food Blogger Pro
 
