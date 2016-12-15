@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valottery.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507140913id_/https%3A//valottery.com/vaprivacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valottery.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215054621id_/https%3A//valottery.com/vaprivacystatement.aspx) for the most accurate reproduction.*
 
 # Official Home of the Virginia Lottery - Privacy Statement
 
