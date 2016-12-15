@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abibaa.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330072253id_/https%3A//abibaa.com/shop/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abibaa.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215133001id_/https%3A//abibaa.com/shop/privacypolicy) for the most accurate reproduction.*
 
 # Abibaa.com : The earth's largest selection of electronics, software, clothing, toys & more!
 
