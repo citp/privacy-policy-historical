@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devicemanuals.com privacy policy that was archived on 2016-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160226034852id_/http%3A//www.devicemanuals.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devicemanuals.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215163326id_/http%3A//www.devicemanuals.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy Statement - Device Manuals
 
