@@ -1,154 +1,117 @@
-> *The following text is extracted and transformed from the thebarkpost.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630035941id_/http%3A//barkbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebarkpost.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215070142id_/http%3A//barkbox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BarkBox
 
-Barkbox knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy for the Barkbox.com web site (the “Site”).
+We respect the privacy of our users. This Privacy Policy ("Policy") describes our privacy practices concerning information collected in connection with the Bark & Co family of websites, including without limitation BarkBox (located at [www.barkbox.com](http://www.barkbox.com/)), BarkPost (including the BarkShop) (located at [www.barkpost.com](http://www.barkpost.com/)), BarkBuddy (located at [www.barkbuddy.com](http://www.barkbuddy.com/)), and BarkGive (located at [www.barkgive.com](http://www.barkgive.com/)) (the "Sites"). This Policy also describes our privacy practices with respect to any downloadable applications that Bark & Co makes available, including without limitation BarkBuddy, BarkPost and BarkCam (the "Apps" and, together with the Sites, the "Platforms").
 
-If you have questions or concerns regarding this statement, you should contact us at [happy@barkbox.com](mailto:happy@barkbox.com).
+This Policy is intended to explain the conditions under which Bark & Co collects, uses, and discloses personal and other information in connection with the Platforms, and your rights in relation to that information. By visiting our Sites, downloading or using our Apps, and/or using the features made available to you through the Platforms, you are agreeing to the terms of this Policy.
 
-This privacy policy covers only information that is collected through the Site and does not cover websites to which we link.
+The personal and other information that we collect about you is controlled by Barkbox, Inc., which is headquartered in the United States at 221 Canal Street, Floor 6, New York, New York 10013.
 
-* * *
+## What personal and other information we collect about you
 
-## Notice of Information We Collect And How We Use It
+Bark & Co collects both "personal information" and "non-personal information" about Platform users. For purposes of this Policy, "non-personal information" is information that Bark & Co cannot directly associate with a specific person without the aid of additional information. By contrast, "personal information," is information such as a name or email address that Bark & Co can directly associate with a specific person or entity without additional information. When we combine non-personal information with personal information, we treat all of the combined information as personal information.
 
-Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience safer and easier. We only collect personal information about you that we consider necessary for achieving this purpose.
+_Personal information._ You can visit the Sites and download many of the Apps without submitting any personal information. However, in order to subscribe to our services or use many features of our Platforms, you will be required to provide personal information. For example:
 
-In general, our collection and use of information is as follows:
+_Registration._ In order to use some features of the Platforms, you must first subscribe to the applicable Bark & Co service. During registration, you are required to provide certain personal information (such as name, email address, shipping address, and credit card number and expiration date) in accordance with our terms of use.
 
-  * Barkbox will not sell or disclose your name or email address to third parties without your explicit consent, except as specified in this privacy policy.
-  * When you subscribe to Barkbox, we will collect personal information such as your name, e-mail address, shipping address and credit card information. We use this information to process and fulfill your order and to notify you of your order status. All archived credit card information is maintained in a secure and safe environment as described in this privacy policy.
-  * Barkbox automatically receives and records information on our server logs from your browser, including your IP address, cookies, and the pages you request.
-  * Barkbox uses information for the following general purposes: products and services provisioning, billing, identification and authentication, services improvement, contact, research, and anonymous reporting. IP addresses are automatically reported by your browser each time you view a web page. Your IP address is stored in Barkbox's user registration databases when you register with Barkbox. IP addresses may be used for various research purposes, and/or delivering unique functionality to our service.
+_Facebook._ Certain applications, including BarkBuddy, may require you to log in through your Facebook account. If you link your Facebook account to a Bark & Co service, this allows us to obtain information from those accounts (such as your friends or contacts). The information we obtain from those services often depends on your settings or their privacy policies, so be sure to check what those are.
 
+_Orders._ If you purchase a product or service from us, including through the BarkShop, we request certain personal information from you on our order form. You must provide personal contact information (such as name, email address, and shipping address) and financial information (such as a credit card number and expiration date).
 
+_Posted Content._ Certain of our Platforms enable users to submit additional information that may be made accessible to other users or the general public. To post content, you may be required to first register by providing information such as an email address, display name, and password. Registrants also may choose to voluntarily provide additional information, including an avatar image, a biography, and/or information about their location. And, of course, registrants may disclose personal and other information through their posted content.
 
-## Information We Collect About Anonymous Visitors
+_Feedback._ Our online contact form also contains a "message" field through which you may submit additional personal information.
 
-We automatically track certain information based upon your behavior on the Site. We use this information to do internal research on our users’ demographics, interests, and behavior to better understand, protect and serve you and our community.
+We may combine personal information collected through the Platforms with other information that we or third parties collect about you in other contexts—such as our communications with you via email or phone, or your customer service records. We will treat such combined information as personal information and protect it in accordance with this Policy.
 
-## Log Files
+_Surveys, Contests, and Promotions._ From time to time, Bark & Co may ask Platform users to participate in surveys, contests, or promotions. Such surveys, contests, and promotions may be used to collect both personal and non-personal information. Participation is completely voluntary, and you therefore have a choice whether or not to disclose your information.
 
-Like many Web sites, we automatically gather certain information about our Site traffic and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the Site, to track users’ movements around the Site and to gather demographic information about our user base.
+_Log data._ When you use the Platforms, we automatically receive and record certain information from your computer (or other device) and your browser. This may include such data as your IP address and domain name, the pages you visit or the features you use on the Platforms, the date and time of your visit, the files that you download, the URLs from the websites you visit before and after navigating to the Platforms, your software and hardware attributes (including device IDs), your general geographic location (e.g., your city, state, or metropolitan region), and certain cookie information (see below). To obtain such information, we may use web logs or applications that recognize your computer or device and gather information about its online activity.
 
-We do not link this automatically collected data to personally identifiable information.
+_Cookies._ We also use cookies in conjunction with the Platforms. Cookies are small files that are stored on your computer or other device by your web browser. A cookie allows the Platforms to recognize whether you have visited before and may store user preferences and other information. For example, cookies can be used to collect information about your use of the Platforms during your current session and over time (including the pages you view and the files you download), the operating system and browser type of your computer or other device, your Internet service provider, your domain name and IP address, your general geographic location, the website that you visited before navigating to the Platforms, and the link you used to leave the Platforms. If you are concerned about having cookies on your computer or device, you can set your browser to refuse all cookies or to indicate when a cookie is being set, allowing you to decide whether to accept it. You can also delete cookies from your computer or device. However, if you choose to block or delete cookies, certain features of the Platforms may not operate correctly.
 
-## Cookies
+_Web beacons._ We also may use an application known as a "web beacon" (also known as a "clear gif" or "web bug"). A web beacon is an electronic file that usually consists of a single-pixel image. It can be embedded in a web page or in an email to transmit information, which could include personal information. For example, it allows an email sender to determine whether a user has opened a particular email.
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. As noted above, we [do not] link the information we store in cookies to any personally identifiable information you submit while on our site. This privacy policy covers the use of cookies by the Site only and does not cover.
+_Third-party online tracking and behavioral advertising._ We also may partner with certain third parties to collect, analyze, and use some of the personal and non-personal information described in this section. For example, we may allow third parties to set cookies or use web beacons on the Platforms or in email communications from Bark & Co. This information may be used for a variety of purposes, including online behavioral advertising, as discussed below (see the section entitled "How we share personal and non-personal information with third parties").
 
-Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. See “Third Party Advertisers.”
+## How we use the personal and non-personal information that we collect
 
-## Clear Gifs (Web Beacons/Web Bugs)
+Bark & Co uses the information that we collect for a variety of purposes. If we have personal information about you, we may use it, for example: to respond to your questions or requests concerning the Platforms or other services offered by Bark & Co or our partners; to fulfill the terms of any agreement you have with us; to fulfill your requests for our services and orders for products or otherwise complete a transaction that you initiate; to send you information about our services, the status of any orders, and other topics that are likely to be of interest to you, including newsletters, updates, or other communications; to authenticate billing and identification information; to deliver confirmations, account information, notifications, awards, service-related announcements, and similar operational communications; to improve or personalize your user experience; to improve the quality of our products and services; to comply with legal and/or regulatory requirements; and to manage our business.
 
-We employ a software technology called clear gifs, also referred to as web beacons or web bugs, that help manage content on the Site by tracking what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We [do not] tie the information gathered by clear gifs to our customers’ personally identifiable information.
+We use the non-personal information that we collect for such purposes as: counting and recognizing users of the Platforms; analyzing users’ demographics, interests, and behavior, including how they use the Platforms and various Platform features; improving the Platforms and enhancing users’ experiences with the Platforms; researching and creating new products and services or improving our existing products and services; enabling additional website and application analytics and research concerning the Platforms; and managing our business. Bark & Co may link non-personal information gathered using cookies and web beacons with personal information. But in that event, we will treat the combined information as personal information.
 
-## Information We Collect To Respond To Your Choices and Requests
+We also may use the personal and non-personal information that we collect to send you promotional communications, including emails or postal mail about the products and services offered by Bark & Co or our partners. Although we hope you will find our promotional emails of interest, you may opt out of receiving them by sending an email to support@barkbox.com with "optout" in the subject line, or by clicking on the "unsubscribe" link in any promotional email. Promotional emails will also have instructions for opting out of that type of communication in the future.
 
-### Registration
+We also provide you the opportunity to opt-out of having your personal information used for certain purposes when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
 
-In order to use some features of this Site, you must first subscriber to the Barkbox service. During registration you are required to give truthful contact information (such as name and email address) in accordance with our terms of use. We use this information to contact you about the services on our site in which you have expressed interest.
+If you choose to use our referral service to tell a friend about our products or services, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Platforms. This personal information may be used to track the success of our referral program. Your friend may contact us at support@barkbox.com to request that we remove this information from our database.
 
-### Orders
+## How we share personal and non-personal information with third parties
 
-If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as a credit card number and expiration date).
+We share your personal information and non-personal information with other parties for a variety of purposes, as described below.
 
-We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
+_Analytics and online behavioral advertising._ We partner with certain third parties to collect the non-personal information discussed above and to engage in analysis, auditing, research, and reporting. These third parties may use web logs or web beacons, and they may set and access cookies on your computer or other device. In particular, as of the effective date of this Policy, certain of the Sites and Apps use such third party services as Google Analytics, Chartbeat, SimpleReach, Facebook retargeting, and Perfect Audience to help collect and analyze certain information for the purposes discussed above.
 
-### Surveys or Contests
+The Platforms also enable third-party tracking mechanisms to collect your non-personal information for use in online behavioral advertising. For example, third parties may use the fact that you visited the Platforms to target online ads for Bark & Co services to you on non-Bark & Co websites or services. In addition, our third-party advertising networks might use information about your use of the Platforms to help target non-Bark & Co advertisements based on your online behavior in general. For information about behavioral advertising practices, including privacy and confidentiality, visit the [Network Advertising Initiative website](http://www.networkadvertising.org/understanding-online-advertising) or the [Digital Advertising Alliance website](http://www.aboutads.info/).
 
-We may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. The requested information typically includes contact information (such as name and shipping address) and demographic information.
+The use of online tracking mechanisms by third parties is subject to those third parties’ own privacy policies, and not this Policy. If you prefer to prevent third parties from setting and accessing cookies on your computer, you may set your browser to block cookies. Additionally, you may remove yourself from the targeted advertising of companies within the Network Advertising Initiative by [opting out here](http://www.networkadvertising.org/choices/), or of companies participating in the Digital Advertising Alliance program by [opting out here](http://www.aboutads.info/choices). Although our Platforms currently do not respond to "do not track" browser headers, you can limit tracking through these third-party programs and by taking the other steps discussed above.
 
-We use this information to notify contest winners and award prizes, to monitor site traffic, or to personalize the site (in the case of anonymous information collected in surveys) and to send participants an email newsletter.
+_Third-party service providers and business partners._ Bark & Co also uses other third-party service providers to help us manage and improve the Platforms and other Bark & Co services. These service providers may collect and/or use your personal or non-personal information to assist us in achieving the purposes discussed above in the section entitled "How we use the personal and non-personal information that we collect." For example, we use third parties to help us target and implement our email communications and direct mailings, to verify your identity and address for shipping purposes, to ship our products, and to process your credit card information. We also use third-party platforms to help us manage our relationships with the people and companies that use our services.
 
-### Tell-A-Friend
+We also may share your personal or non-personal information with other third parties when necessary to fulfill your requests for services; to complete a transaction that you initiate; to meet the terms of any agreement that you have with us or our partners; or to manage our business.
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Barkbox does not store this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+_Your direct sharing of information on the Platforms._ Certain features of our Platforms make it possible for you to share comments or feedback publicly with all other users of the Platforms. Any information that you submit through such features will be available to the public at large and potentially accessible through third-party search engines. Such information can be read, collected, and/or used by others, and it could be used to send you unsolicited messages if you disclose personal information. Accordingly, please take care when using these features of the Platforms.
 
-Your friend may contact us at [happy@barkbox.com](mailto:happy@barkbox.com) to request that we remove this information from our database.
+_Your direct sharing of personal information through third-party websites and services._ The Platforms may enable you to share directly personal information with websites or online services operated by third parties. For example, the Platforms contain links to third-party websites that incorporate comment and social media features. The Platforms may also contain a Facebook "like" button, a Twitter "follow" button, or similar features. If you choose to use these features, you may disclose your personal information not just to those third-party websites and services, but also to their users and the public more generally. Because these third-party websites and services are not operated by Bark & Co, we are not responsible for the content or practices of those websites or services. The collection, use, and disclosure of your personal and non-personal information will be subject to the privacy policies of the third party websites or services, and not this Policy.
 
-## Communication from Us or the Site
+_Third-party plugins._ The Platforms integrate certain third-party plug-ins (such as a Facebook "like" button). Even if you do not click on these plug-ins, they may collect information about you, such as your IP address and the pages that you view. They also may set and/or access a cookie. These plugins are governed by the privacy policy of the company providing them.
 
-### Special Offers and Updates
+_Legal purposes._ We also may use or share your personal or non-personal information with third parties when we believe, in our sole discretion, that doing so is necessary:
 
-We will occasionally send you information on products, services, special deals, and promotions. You can sign up for these emails from us on our registration page.
+  * to comply with applicable law or a court order, subpoena, or other legal process;
 
-Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice and Opt-out.”
+  * to investigate, prevent, or take action regarding illegal activities, suspected fraud, violations of our terms and conditions, or situations involving threats to our property or the property or physical safety of any person or third party;
 
-### Newsletters
+  * to establish, protect, or exercise our legal rights or defend against legal claims; or
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section.
+  * to facilitate the actual or proposed financing, securitization, insuring, sale, assignment, bankruptcy, or other disposal of all or part of our business or assets.
 
-### Service-Related Announcements
 
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.
 
-Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account
 
-. 
-
-### Customer Service
-
-Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes. You may contact customer service at [happy@barkbox.com](mailto:happy@barkbox.com)[happy@barkbox.com](mailto:happy@barkbox.com).
-
-### ID and Address Verification
-
-We use a third party to verify your identity and address for shipping purposes.
-
-## Conditions Under Which We Share Information
-
-### Aggregate Information (Non-Personally Identifiable)
-
-We share aggregated demographic information about our user base with our partners and advertisers. This information does not identify individual users.
-
-We do not link aggregate user data with personally identifiable information.
-
-### Personally Identifiable Information
-
-Except as discussed below, we do not share Personally Identifiable Information with Third Parties.
-
-### Agents
-
-We use an outside shipping company to fulfill orders, and a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.
-
-### Legal Disclaimer
-
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights; to comply with a judicial proceeding, court order, or legal process served on us or the Site; or in connection with an actual or proposed corporate transaction or insolvency proceeding involving all or part of the business or asset to which the information pertains.
-
-## Choice/Opt-out
-
-We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
-
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [happy@barkbox.com](mailto:happy@barkbox.com).
-
-## Links to Other Sites
-
-The Site contains links to other sites that are not owned or controlled by Barkbox. Please be aware that we are not responsible for the privacy policies of such other sites.
-
-We encourage you to be aware when you leave the Site and to read the privacy policies of each and every Web site that collects personally identifiable information.
-
-This privacy policy applies only to information collected by the Site.
-
-## Access to Personally Identifiable Information
-
-If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate] it by making the change on our member information page [or by emailing our Customer Support at [happy@barkbox.com](mailto:happy@barkbox.com) or by contacting us by telephone or postal mail at the contact information listed below.
+_Aggregated information._ From time to time, Bark & Co may also share de-identified and aggregated information about Platform users, such as by publishing a report on trends in the usage of the Platforms.
 
 ## Security
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
+Bark & Co uses commercially reasonable physical, electronic, and procedural safeguards to protect your personal information against loss or unauthorized access, use, modification, or deletion. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). However, no security program is foolproof, and thus we cannot guarantee the absolute security of your personal or other information.
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+## Reviewing and updating your information
 
-If you have any questions about security on our Web site, you can email us at [happy@barkbox.com](mailto:happy@barkbox.com)
+If you want to learn more about the personal information that Bark & Co has about you, or you would like to update or change that information, or deactivate your account, please contact us by email at [support@barkbox.com](mailto:support@barkbox.com).
 
-## Changes in this Privacy Policy
+Note that deactivating your account does not cause your account information to be deleted from our servers. You can request such deletion by emailing our Customer Support team at [support@barkbox.com](mailto:support@barkbox.com).
 
-If we decide to change our privacy policy, we will post changes to this privacy policy and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+## Information for Platform users from outside the United States
 
-We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make changes that materially affect our uses or disclosures of personally identifiable information that we have previously collected, we will notify you here, by email, or by means of a notice on our home page.
+The personal and non-personal information that we collect through or in connection with the Platforms is transferred to and processed in the United States for the purposes described above. Bark & Co also may subcontract the processing of your data to, or otherwise share your data with, affiliates or third parties in the United States or countries other than your country of residence. The data-protection laws in these countries may be different from, and less stringent than, those in your country of residence. By using the Platforms or by providing any personal or non-personal information to us, you expressly consent to such transfer and processing.
 
-## Contact Us
+## Children’s Privacy
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at: [happy@barkbox.com](mailto:happy@barkbox.com)
+The Platforms are not directed to children under the age of 13, and Bark & Co will never knowingly collect personal or other information from anyone it knows is under the age of 13. Persons over 13 but under 18 years of age may use the Platforms only in conjunction with and under the supervision of a parent or legal guardian.
 
-Effective Date: November 17th, 2011
+## Changes to this Policy
+
+We reserve the right to amend this policy at any time. We will post all changes to this policy on this website, so you should review the policy periodically. Any such amendments to this policy may apply to information we collect in the future as well as any information we obtained prior to such amendment. If we make a material change to this policy, we will provide appropriate notice as required by law.
+
+## Questions or comments
+
+If you have any questions or comments regarding our Policy, please contact us at:
+
+221 Canal Street, Floor 6  
+New York, New York 10013  
+Phone: 855-520-BARK  
+E-mail: [support@barkbox.com](mailto:support@barkbox.com).
+
+Effective date: September 30, 2014.
