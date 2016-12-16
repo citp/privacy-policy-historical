@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isdaryanto.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621121955id_/http%3A//www.isdaryanto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isdaryanto.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217000034id_/http%3A//www.isdaryanto.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY >> Privacy Policy | Isdaryanto.Com Page
 
@@ -18,4 +18,5 @@ On visiting this site, the IP address used to access the site will be logged alo
 We have included links on this site for your reference. We are not responsible for the privacy policies on these websites.
 
 **Alterations to this Privacy Statement**  
-The content of this statement may be altered at any time.
+The content of this statement may be altered at any time.  
+
