@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gluestore.com.au privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401233830id_/http%3A//www.gluestore.com.au/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gluestore.com.au privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216190925id_/http%3A//www.gluestore.com.au/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Glue Store Privacy Policy Online | About Us | Glue Store - Glue Store
 
-**Last Updated: 04/05/15**
+**Last Updated: 24/10/16**
 
 ## 1\. Our Commitment To Privacy
 
@@ -81,6 +81,8 @@
 
 7.3. We will promptly acknowledge and investigate any complaint about the way we manage personal information.
 
+7.4. **Unubscription Method:** We mainly communicate with you through email. If you wish to unsubscribe from our email communication, you can find and click on the unsubscribe link which is at the bottom of every email. We will then opt you out from the mailing list at no cost to you.
+
 ## 8\. Contacting us
 
 8.1. If you have any questions about this privacy statement, if you wish to update information we hold about you or if you wish to make a complaint, please write to:
@@ -90,3 +92,7 @@ The Privacy Officer
   
 Level 3, 80 George St   
 The Rocks NSW 2000
+
+Email: shop@gluestore.com.au
+
+Phone: 02 9256 8400
