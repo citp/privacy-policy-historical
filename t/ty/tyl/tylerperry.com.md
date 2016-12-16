@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the tylerperry.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604121620id_/http%3A//www.tylerperry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tylerperry.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216214726id_/http%3A//tylerperry.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — TylerPerry.com
-
-## Tyler Perry Studios Online Privacy Policy
+# Tyler Perry » Privacy
 
 Tyler Perry Studios respects the privacy concerns of the users of its Internet Sites (“Sites”), and has created this privacy statement to explain what information we gather from your visit to our Sites, and how such information may be used.
 
-**Use of Information:**
+### Use of Information
 
 As a general policy no personally identifiable information, such as your name, address, or e-mail address, is automatically collected from your visit to Tyler Perry Studios Sites. However, certain non-personal information is recorded by the standard operation of Tyler Perry Studios’s Internet servers. Information such as the type of browser being used, its operating system, and your IP address is gathered in order to enhance your online experience.
 
@@ -18,39 +16,40 @@ Tyler Perry Studios may disclose user information in special cases when we have 
 
 To the extent that any of our Sites accessible through the URL www.TylerPerry.com have additional or different practices or policies, these practices will be explained at that Site.
 
-**Security:**
+### Security
 
 Security for all personally identifiable information is extremely important to us. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Tyler Perry Studios cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
 
-**Use of Cookies:**
+### Use of Cookies
 
 Cookies are pieces of information that a website transfers to an individual’s computer hard drive for record keeping purposes. Cookies make using our Sites easier by, among other things, saving your passwords and preferences for you. As an example, we use cookies to keep track of your shopping cart when you visit our online store, and help identify you when you return to the Store. These cookies are restricted for use only on our Sites, and do not transfer any personal information to any other party. Most browsers are initially set up to accept cookies; however, you can reset your browser to refuse all cookies or indicate when a cookie is being sent. (Note: you will need to consult the help area of your browser application for instructions.) If you choose to disable your cookies setting or refuse to accept a cookie, some parts of Tyler Perry Studios’s web sites will not function properly or may be considerably slower. For example, without cookies, you will not be able to set personalized preferences or you may have difficulty completing shopping transactions, entering contests, or playing games.
 
-**Use of IP Addresses:**
+### Use of IP Addresses
 
 An IP address is a number that’s automatically assigned to your computer by your Internet provider whenever you’re surfing the Web. When you requests pages from Tyler Perry Studios Sites, our servers log your IP address. Tyler Perry Studios collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our Site. We do not link IP addresses to anything personally identifiable, which means that your session will be logged, but you anonymous to us. We may use your IP addresses in cooperation with your Internet provider to identify you if we feel it is necessary to enforce compliance with our Terms of Use or to protect our service, Sites, customers, or others.
 
-**Links to Other Sites:**
+### Links to Other Sites
 
 Tyler Perry Studios is not responsible for the content or practices of third party websites that may be linked to our Sites. Our Sites may also be linked to websites operated by other companies. Visitors to these web sites should refer to each web site’s respective privacy policies and practices.
 
-**Message Boards and Chat Areas:**
+### Message Boards and Chat Areas
 
 Guests of Tyler Perry Studios Sites are solely responsible for the content of messages they post on public forums, such as chat rooms and message boards. Users should be aware that when they voluntarily disclose personal information (e.g., user name, e-mail address, phone number) on the public section of the message boards or in the chat areas, that information can be collected and used by others and may result in unsolicited messages from other people.
 
-**Choice/Opt-Out:**
+### Choice/Opt-Out
 
-Our Sites may provide you the opportunity to opt-in to receive communications from us at the point where we request information about you. You always have the option of removing your name from any e-mail list to not receive future communications. In order to ensure immediate removal from any list, it is best to follow the specific instructions outlined within the communications you receive from us since Tyler Perry Studios operates numerous sites tailored to specific interests. However, if you are unable to complete the process indicated in the communications, [contact the site administrator](mailto:siteadmin@tylerperry.net) with a copy of the undesired email attached to the request and state you wish to be removed from the mailing list. 
+Our Sites may provide you the opportunity to opt-in to receive communications from us at the point where we request information about you. You always have the option of removing your name from any e-mail list to not receive future communications. In order to ensure immediate removal from any list, it is best to follow the specific instructions outlined within the communications you receive from us since Tyler Perry Studios operates numerous sites tailored to specific interests. However, if you are unable to complete the process indicated in the communications, contact the site administrator with a copy of the undesired email attached  
+to the request and state you wish to be removed from the mailing list.
 
-**Contact Us:**
+### Contact Us
 
-If you have any questions about this privacy statement, the practices of our Sites, or your dealings with our Sites, you can [contact the site administrator](mailto:siteadmin@tylerperry.net) . 
+If you have any questions about this privacy statement, the practices of our Sites, or your dealings with our Sites, you can contact the site administrator.
 
 Information provided by you via general e-mail inquiries to Tyler Perry Studios such as your e-mail address is used only to respond to your inquiries in the ordinary course of business, and is never shared with third parties.
 
 To view educational material on consumer privacy, please see [www.ftc.gov](http://www.ftc.gov/).
 
-**Your Acceptance of These Terms:**
+### Your Acceptance of These Terms
 
 By using Tyler Perry Studios’s Sites, you signify your acceptance of the Tyler Perry Studios Privacy Policy. If you do not agree to this policy, please do not use our Sites. Tyler Perry Studios reserves the right to modify, alter or otherwise update this policy at any time. Should Tyler Perry Studios modify, alter or otherwise update this policy, we will notify you by sending you an e-mail at the last e-mail address that you provided us, and/or by prominently posting notice of the changes on the Websites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective upon the earlier of our dispatch of an e-mail notice to you or our posting of the notice of the changes on the Websites covered by this Privacy Policy. Please note: you are responsible, at all times, for updating your personal information within your profile maintained by us and providing us with your current e-mail address. In the event that the last e-mail address provided by you to us is invalid, or for any other reason is not capable of delivering the notification to you, then the notification sent by us to you will constitute effective notice of the changes to this Privacy Policy.
 
