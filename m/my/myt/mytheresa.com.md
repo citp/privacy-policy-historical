@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytheresa.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609104620id_/http%3A//www.mytheresa.com/en-de/service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytheresa.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216075143id_/http%3A//www.mytheresa.com/en-de/service/privacy-policy) for the most accurate reproduction.*
 
 # mytheresa.com - Privacy Policy - Luxury Fashion for Women / Designer clothing, shoes, bags
 
@@ -38,8 +38,9 @@ We use third party retargeting and remarketing features on our website. These te
 
 You may object to the use of the retargeting and/or remarketing feature by accessing the third party providers' cookie opt-out pages via the following links:  
 [Google](http://www.google.com/settings/ads/anonymous?hl=de&sig=ACi0TCh6ugeHLl45_ysZyfNH-myn2BPEolM7r2hzgL6KLTD_ZUC8_7ocdw1pPiO_XplD4IwT6PEXWZAuSE3kjkydFDWx7MAihOy0cPvn5FfToIx7i8byPJM)  
-[Quisma](http://privacy.quisma.com/cookie-opt-out/)  
-[Criteo](http://info.criteo.com/privacy/privacy.aspx)
+[Criteo](http://info.criteo.com/privacy/privacy.aspx)  
+[Conversant](http://youronlinechoices.eu/)  
+[Facebook](https://www.facebook.com/policy.php)
 
 **Use of intelliAd**
 
