@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onxmaps.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614101224id_/http%3A//www.onxmaps.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onxmaps.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216193301id_/http%3A//onxmaps.com/policy) for the most accurate reproduction.*
 
 # onXmaps Privacy Policy | Visualize Success
 
@@ -210,15 +210,16 @@ Place of processing: USA — [Privacy Policy](http://mailchimp.com/legal/privacy
 
 ## Payment Services
 
-### PayPal and PayPal Services (eBay Inc.)
+### Stripe Inc.
 
-The Data Controller collect payments through PayPal Services a third-party application for merchant services.
+The Data Controller collects payments through Stripe, Inc., a third-party providing merchant processing services.
 
-In addition, if you open a PayPal account or use PayPal Services, they may collect the following types of information:
+Stripe may collect the following types of information:
 
-  * Contact information, such as your name, address, phone, email, and other similar information
-  * Financial information, such as the full back account numbers and/or credit card numbers that you link to your PayPal account or give us when you use PayPal services 
-  * Detailed personal information, such as your date of birth or social security number
+  * Payment card information
+  * email address
+  * mobile phone number
+  * billing and shipping address
 
 
 
