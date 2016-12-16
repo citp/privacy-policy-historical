@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidssoup.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512155821id_/http%3A//www.kidssoup.com/store/our-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidssoup.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216110119id_/http%3A//www.kidssoup.com/store/our-security-policy) for the most accurate reproduction.*
 
 # kidsSoup Privacy and Security | KidsSoup Store
 
