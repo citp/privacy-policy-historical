@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verint.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617193548id_/http%3A//www.verint.com/about/legal/privacy-policy/index) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verint.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216161852id_/http%3A//www.verint.com/about/legal/privacy-policy/index) for the most accurate reproduction.*
 
 # Verint Privacy Policy | Verint Systems
 
@@ -160,8 +160,8 @@ Verint Systems Inc.
 
 Attn: Legal Department/Privacy Policy
 
-330 South Service Road
+175 Broadhollow Rd, Ste 100
 
-Melville, NY 11747 USA
+Melville, NY 11747
 
 Please note that email communications are not always secure, so please do not include credit card information or sensitive information in your emails to us.
