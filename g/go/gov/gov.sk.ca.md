@@ -1,19 +1,18 @@
-> *The following text is extracted and transformed from the gov.sk.ca privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606165622id_/http%3A//www.gov.sk.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.sk.ca privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216230428id_/http%3A//gov.sk.ca/privacy) for the most accurate reproduction.*
 
 # Internet Privacy Policy - Government of Saskatchewan
 
-This website **does not** automatically gather personal information about you. We will only collect this type of information if you voluntarily supply it. 
+This website **does not** automatically gather personal information about you. We will only collect this type of information if you voluntarily supply it.
 
-If you provide us your personal information, it will only be used or disclosed for the purposes for which it was collected or, in limited circumstances, in accordance with _The Freedom of Information and Protection of Privacy Act_. 
+If you provide us your personal information, it will only be used or disclosed for the purposes for which it was collected or, in limited circumstances, in accordance with _The Freedom of Information and Protection of Privacy Act_.
 
-If you do not wish to provide personal information via the Internet or you wish to obtain services via other means (i.e. in-person or via the telephone), please contact us at: 
+If you do not wish to provide personal information via the Internet or you wish to obtain services via other means (i.e. in-person or via the telephone), please contact us at:
 
      Information Technology Office  
      8th Floor  
      2101 Scarth Street  
      Regina, SK  S4P 2H9  
-     Telephone:  (306) 787-8880  
-     Fax:               (306) 787-5718
+     
 
 The Government of Saskatchewan may monitor network traffic to identify unauthorized attempts to upload, delete or change information, or otherwise cause damage. We record the Internet Protocol (IP) address of the computer that has contacted our web sites, the date and time of the visit and the pages visited. We make no attempt to link these addresses with the identity of individuals visiting our site unless an attempt to damage the site has been detected or we are legally obligated to do so by law.
 
