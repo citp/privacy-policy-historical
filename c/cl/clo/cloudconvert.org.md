@@ -1,100 +1,88 @@
-> *The following text is extracted and transformed from the cloudconvert.org privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudconvert.org privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216131437id_/https%3A//cloudconvert.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# CloudConvert - Privacy
 
-**Go Daddy Respects Your Privacy**
+Privacy is important to us! Our service can only exist if our customers trust us and our customers can be sure their data is secure. Thus, privacy has the highest priority for us. To be transparent we will explain in more detail how CloudConvert handles your data in the following. 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+CloudConvert is maintained by Lunaweb Ltd, Munich (Germany). If you do not agree to our Privacy Policy and the other terms stated below, please do not use our services and [let us know](https://web.archive.org/contact) about your concerns. We reserve the right to change our Privacy Policy and other terms stated below at any time. If changes occur, we will clearly indicate such alterations at the top of this page with the date of modification. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+  
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information Collection and Use**
+### Personal Data Collected by Us
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We collect the minimum amount of necessary data only. If you register, buy or subscribe for services, we need to collect more data about you. We do not collect any data from your uploaded files. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+By visiting our website and/or using our API, your IP address will be logged along with the dates and times of access. If you decide to create a CloudConvert account, we collect your eMail address and your chosen username also. Also, if you use our contact form we collect your eMail address and your name. At this point it is emphasized that we **do not** read or collect content, metadata or other data from your uploaded files. By buying a preapid package or subscribing, we need to additionally collect your full name, physical address, company name and VAT id. We do not collect your credit card data nor have access to it. This is handled by our payment providers [Stripe](https://www.stipe.com/) (for credit card payments) and [PayPal](https://www.paypal.com/). Before providing any personal data to PayPal or Stripe, please make sure that you have read their privacy policies. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+  
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+### Use of Your Personal Data
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+We use your personal data to provide our service only. We do not make profiles or stuff like that. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We do log your IP address to prevent abuse of our service and for broad demographic analysis. We do not link this information to any personally identifiable information. If you provide an eMail address we use it to communicate with you. If you buy a package or subscribe for our services your name, company and address is used to create the invoice. Your VAT id may be used to check if you qualify to exempt of paying VAT. 
 
-**Security**
+  
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-**Updating Your Information**
+### Handling of Your Uploaded and Converted Files
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+We do not look into it. You can delete your uploaded files at anytime. We do not make any backups. 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+In the course of providing the service your files are transferred to and from servers of CloudConvert. We **do not** read, look into or mine any data from your files or its metadata. We do not make any copies of it. All file processing is done by machine and there is no human interaction with your files. Your files are deleted immediately and irreversible from our servers when you click the "×" symbol (on the right beside the Download button). This will happen automatically at the latest after 24 hours. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+  
 
-      iii.      You may call us at: (480) 505-8800
 
-       iv.      You may fax us at: (480) 505-8844
+### Sharing Your Data
 
-**Sending Emails**
+We do not share your data or files. 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Your personal data and your uploaded files will not be given out our sold to anyone. No one, you did not provide the download link, will ever have access to your converted files. Please note that we may have to provide your data to the law enforcement authorities (for example, the police) at their request. 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+  
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+### Keeping your Data
 
-**Third Party Service Providers**
+Files are deleted after 24h at latest. We keep your personal data until it is needed for the provision of our services. 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+We will keep your personal data for as long as it is necessary to provide you with our services. If your personal data is no longer necessary, we can keep it in an identifiable form for maximum one year. Your files are deleted immediately and irreversible from our servers when use the delete button. This will happen automatically at the latest after 24 hours. 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+  
 
-**Supplementation of Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+### Modifying or Deleting Your Data
 
-**Contests/Surveys**
+You can modify or delete your data on your own at anytime. 
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Your data can be modified in the [Settings](https://web.archive.org/user/profile/edit) menu. Also, you can delete your account there. This will delete your account and all associated data permanently. Alternatively, you can [contact us](https://web.archive.org/contact) and we will do it for you. 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+  
 
-**Tell-A-Friend**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+### Security
 
-**What Happens to my Personal Information if I Opt Out?**
+We do a lot to make our service as secure as possible. 
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+We are committed to protect your personal data and your files. All transfers from and to CloudConvert are SSL encrypted. All CloudConvert servers are located in the European Union, are protected and cannot be accessed by third parties. To explain our security measurements in detail would be too extensive for this page; if you want to get more details about our security concept please feel free to [contact us](https://web.archive.org/contact). 
 
-**Transfer of Data Abroad**
+  
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-**Changes in Our Practices**
+### Cookies
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+We need them to provide our services. 
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+CloudConvert stores so-called cookies in order to be able to offer you a comprehensive range of functions and to make it easier to use our websites. Cookies are small files which are stored on your computer with the help of the internet browser. If you do not want to use cookies, you can prevent cookies from being stored on your computer using the corresponding settings on your internet browser. Please note that this may restrict the functional capability and the range of functions of our offer. 
 
-**Contacting Our Site**
+  
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-* * *
+### Third Party Widgets and Plugins
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+They are used on this site. Block them if you do not like them. 
+
+This website uses third party plugins like the Google +1 button, the Facebook button, the Twitter button and Google Analytics. These plugins will also use cookies to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google/Twitter/Facebook on servers that might be outside of the European Union. To prevent this we suggest using browser plugins that block such widgets and their tracking, for example [Ghostery](https://www.ghostery.com/). 
