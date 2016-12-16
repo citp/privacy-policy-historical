@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 2mhost.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410140623id_/https%3A//www.2mhost.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2mhost.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216012833id_/https%3A//www.2mhost.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | 2MHost.com
 
-## 2MHost dot com ltd. Privacy Policy
+## Two M Host FZE. Privacy Policy
 
 Effective Date: 11/18/2010
 
