@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exclusivelicensingrights.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607061258id_/http%3A//exclusivelicensingrights.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclusivelicensingrights.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216172657id_/http%3A//exclusivelicensingrights.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
