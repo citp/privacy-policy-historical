@@ -1,78 +1,99 @@
-> *The following text is extracted and transformed from the digitaldollhouse.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117004725id_/http%3A//www.digitaldollhouse.com/ddh/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaldollhouse.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216104810id_/http%3A//www.3dsystems.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Digital Dollhouse
+# Privacy Policy | 3D Systems
 
-Digital Playspace, Inc. owns, produces, operates, and maintains DigitalDollhouse.com (“Digital Dollhouse” “the site” “we”). Digital Dollhouse cares about the privacy and safety of all of our users. Before visiting the site or submitting any personal information, please read this Privacy Policy with your parents/child. If you have any privacy-related questions, please contact us at:
+**3D Systems Corporation Privacy Policy**
 
-Digital Playspace, Inc.  
-1217 North Bellevue  
-Los Angeles, CA 90026  
-Phone: 213.580.1479  
-Fax: 413.294.1430  
-Email: [privacy@digitaldollhouse.com](mailto:privacy@digitaldollhouse.com)  
-This email address is only for privacy-related questions.
+**Introduction**
 
-## Effective Date
+3D Systems is committed to protecting your privacy. We publish our Privacy Policy so that you can understand our privacy practices and how they help protect your privacy.
 
-Digital Dollhouse last updated this Privacy Policy on **April 7, 2009**. The Privacy Policy applies to all information the site previously obtained. Digital Dollhouse reserves the right to change its Privacy Policy at its sole discretion. By continuing to use this site and/or providing to us personal information, you accept and will be subject to the revised Privacy Policy. Digital Dollhouse will inform users of any such changes by posting a new Privacy Policy on this site. If Digital Dollhouse revises our data collection, use, and/or disclosure practices in a manner that requires notice and/or verifiable parental consent, we will do so in accordance with the Children’s Online Privacy Protection Act (COPPA).
+3D Systems is a trans-national business headquartered in the United States. Our management structure and business processes cross borders. Some of our technological systems and databases are shared between our US, European and other international offices. This means that our customer and employee data is transferred across borders.
 
-Visit [Protecting Kid’s Privacy](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm) for more information on COPPA and children’s privacy. 
+3D Systems and each of its U.S. subsidiaries that may from time to time handle personal information collected from individuals located within European Union member countries and Switzerland comply with both the EU-US Privacy Shield Framework and the US-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, onward transfer and retention of personal information from European Union member countries and Switzerland. 3D Systems has certified that it adheres to the EU-US Privacy Shield Principles of:
 
-## Privo’s Privacy Assurance Program
-
-[](http://www.privo.com/digitaldollhouse.htm)
-
-Digital Dollhouse is a participant in the Privo’s Privacy Assurance Program. As part of participating in the Privacy Assurance Program, Digital Dollhouse adheres to the strict information collection, use, and disclosure requirements. Privo is an independent, third party organization committed to safeguarding children’s personal information collected online, and to helping parents and their children exercise control over personal information while exploring the Internet. The seal posted on this page indicates that Digital Dollhouse has established privacy practices and has agreed to submit to Privo’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at 213.580.1479 or [privacy@digitaldollhouse.com](mailto:privacy@digitaldollhouse.com). If you have further concerns after you have contacted Digital Dollhouse, you can contact Privo directly at [privacy@privo.com](mailto:privacy@privo.com). 
-
-## Information Collection and Use
-
-Digital Dollhouse does not condition a child’s participation in any of our online activities on the disclosure of more information than is reasonably necessary to participate in the activity. Below is a description of how Digital Dollhouse collects and uses information from users.
-
-### Registration
-
-In order to create an account, Digital Dollhouse requires users to provide a Member Name (not their real name), the parent’s email address, and a password. Digital Dollhouse collects the parents’ email addresses primarily for our automated account activation and password retrieval systems and may use it to verify parental consent of children to use the site. We retain the right to communicate safety and privacy messages, general updates, and usability features via email. For special reasons, we may also send marketing materials. 
-
-### Purchasing Subscriptions, ddCoins, or Gifts
-
-In order to purchase a subscriptions or Digital Dollhouse Coins (ddCoins), Digital Dollhouse requires purchasers to provide first name, last name, street address, city, state, country, and postal code along with valid credit card number and owner’s name. 
-
-### Invite-A-Friend
-
-Digital Dollhouse members that are signed-in can invite friends who aren’t members to join by submitting the friends’ email addresses. Digital Dollhouse neither collects the member or recipient’s name nor allows member to freely type any information in the email message. Digital Dollhouse deletes the recipient’s email address after sending the invitation email.
-
-### FAQ
-
-Digital Dollhouse allows users to submit questions to Digital Dollhouse at its FAQ page. Digital Dollhouse requires the user to provide a name, email address, subject, and the question’s content. Digital Dollhouse collects this information for the sole purpose of responding directly, on a one-time basis, to the specific question. Digital Dollhouse does not use the information to re-contact the user after the initial response and subsequently deletes the personal information. 
-
-### Contact Us  
+  * Notice
+  * Choice
+  * Accountability for onward transfer
+  * Security
+  * Data integrity and purpose limitation
+  * Access
+  * Recourse, enforcement and liability
 
 
-Digital Dollhouse allows users to submit feedback and questions to Digital Dollhouse at its Contact Us page. Digital Dollhouse requires the user to provide a name, email address, subject, and the feedback or question’s content. Digital Dollhouse collects this information for the sole purpose of responding directly, on a one-time basis, to the specific feedback or question. Digital Dollhouse does not use the information to re-contact the user after the initial response and subsequently deletes the personal information.
 
-### Cookies  
+Our adherence to each of these principles is detailed in this policy. To learn more about the EU – US Privacy Shield program, and to view 3D Systems’ certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). To learn more about the US-Swiss Safe Harbor program, visit <http://2016.export.gov/safeharbor/swiss/index.asp>.
 
+3D Systems is under the jurisdiction as well as the investigatory and enforcement powers of the US Federal Trade Commission for purposes of the EU-US Privacy Shield Framework and the US-Swiss Safe Harbor framework.
 
-Digital Dollhouse uses a software technology called "cookies." Cookies are small text files that we place in visitors’ computer browsers to store their preferences. Cookies themselves do not contain any personally identifiable information. Although cookies could enable us to relate a visitor’s use of this web site to personal information that a visitor has provided, such as an email address, we do not use them for this purpose. We do use "cookies" to determine how many visitors we have and how often they visit various sections of our site.
+**Scope**
 
-### Web Visit Logs
+This Policy applies to all information collected by 3D Systems from which an individual can be identified (“Personal Information”). The Personal Information we collect includes the Employee Information described below as well as certain information including names, email addresses, mailing and billing addresses and telephone and fax numbers collected from customers, potential customers and end users of our products and services for sales, marketing, order fulfillment and order delivery purposes.  Additionally, in our section on Online Information, we also discuss how we gather and use all information gathered online even if it is not Personal Information. 3D Systems will not deviate from this Policy even if applicable national laws are less stringent than this Policy.
 
-Digital Dollhouse may collect information about users through technology to make our web site more interesting and useful to you. We routinely collect our users’ visit information including pages visited on the site, the date and time of the visit, IP address, and the version of browser used. We use this information for improving our content and services and for investigating cases of suspected abuse. 
+**Notice**
 
-## Third Parties
+Excluding our Employee Information which is discussed below, we collect, process and use your Personal Information only as a part of our business relationship with you and your company, including contract and billing administration; product and service delivery; fulfilling our business obligations to our customers and resellers; communicating with customers and potential customers about marketing and technical information concerning our products and services; notifying our customers and potential customers regarding product launches and important events related to 3D Systems; and other related business activities of which you are informed of at the time your Personal Information is collected or as soon thereafter as practical.  3D Systems only collects personally identifiable information about individuals when such individuals specifically provide such information to us on a voluntary basis or while requesting information on our products or services. We may disclose Personal Information to our agents, resellers, and business partners or to protect and defend the rights or property of 3D Systems. 3D Systems must reply to lawful requests from public authorities, including to meet national security or law enforcement requirements, for disclosure of Personal Information.
 
-Digital Dollhouse does not share any personally identifiable information of our users with any third parties, commercial or otherwise, except that we may provide such information to parties involved in a merger, consolidation or other reorganization of Digital Dollhouse or to a party that purchases substantially all of our assets related to the site. We may, however, also comply with requests for personally identifiable information from law enforcement or other governmental agencies, or requested pursuant to appropriate legal process. 
+3D Systems does not sell, lease, or rent Personal Information to third parties.
 
-## Parental Rights
+_Online Information_    
+In general, you may visit our Websites without providing any Personal Information. However, you may choose to provide us with Personal Information by completing online forms. At the point of collection, we will inform you of how your Personal Information will be used; apart from these uses, 3D Systems will only use your Personal Information in accordance with the terms of this Policy.
 
-Parents can review their child’s personal information, have it deleted, and refuse to allow the further collection or use of the child’s information. Digital Dollhouse allows parents to manage all of the aspects of the child’s membership in the Parents Dashboard. At the Parents Dashboard, parents can edit the child’s profile; cancel or update the child’s subscription; manage orders; view the amount of their ddCoins; add ddCoins to the child’s account; and view the child’s friends list. In order to access this information, the parent must provide the child’s member name and password. If the parent has forgotten the password, the parent can send a request for the password here. Digital Dollhouse will then send to the current parent email address a message containing a link that will allow the parent to log in and change the account password. The link works only once and expires after one day. Nothing will happen if it’s not used. Parents can also request to review their child’s personal information, have it deleted, and refuse to allow the further collection or use of the child’s information by contacting Digital Dollhouse by phone, fax, email, or in writing at the address listed below. Please be sure to include your email address and a telephone number where we can reach you. To protect your child’s privacy and security, we will take reasonable steps to help verify your identity before granting you access to the information that we collect and maintain about your child. Please note that this may require that we cancel and delete your child’s account. 
+_Use of Cookies_
 
-## Your California Privacy Rights
+Cookies are small files that a site transfers to your computer’s hard drive through your web browser (if you allow) that enables it to recognize your browser and capture and remember certain information. A cookie cannot read data off of your hard drive or read cookie files created by other sites. Cookies may do things like allow you to navigate faster through the site, remember your preferences and passwords, and generally improve the user experience. You can turn off the ability to receive cookies by adjusting your browser settings — please note that if you do so, this may affect the functionality of the website and the information you can access through it.
 
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our users who are California residents to request certain information regarding our disclosure of our users’ personal information to third parties for their direct marketing purposes. To make such a request, please send an email or write us:
+3D Systems uses cookies to compile aggregate data about website traffic and interaction so that we can offer better site experiences and content in the future. We use third-party companies, such as Google Analytics, to assist us in understanding our site visitors.
 
-Digital Playspace, Inc.  
-1217 North Bellevue  
-Los Angeles, CA 90026  
-Phone: 213.580.1479  
-Fax: 413.294.1430  
-Email: privacy@digitaldollhouse.com
+As part of AdWords remarketing, we use the Google Analytics cookie and the DoubleClick cookie together to inform, optimize, and serve ads based on someone’s past visits to our website. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Preferences Manager](https://www.google.com/settings/u/0/ads/anonymous?hl=en&sig=ACi0TCgrIi07IjONNfljW2dv1DsmZbItSgUtS92hBx3m2ivvqW8QeNIqfH7au2Y3hxUmTcNakatVQgrW0E-KkG4n_y8CYowDJiBIg-1qrRgJNPsQkmQ23GM).
+
+Google has additional information available about their [Remarketing Privacy Guidelines, Policies, and Restrictions](https://support.google.com/adwordspolicy/answer/143465?hl=en&visit_id=1-636105932018893609-41072607&rd=2).
+
+_Employee Information_    
+We collect Employee information from prospective and present Employees only for legitimate business purposes, including (1) the management and operations of our company, its functions and activities, (2) Employee communications, including Employee surveys, (3) maintaining a global directory, (4) carrying out obligations under employment contracts and employment, tax and benefits laws, and in connection with other working relationships or arrangements, (5) development and training programs, (6) recruiting and hiring job applicants, (7) assessing qualifications and performance, (8) performing background checks and verifying references, (9) managing Employee performance, (10) determining Employee compensation or payment, (11) managing the Employee termination process, and (12) other general human resources purposes.  Our European Union Employees at the time of their employment are notified in detail how their Personal Information will be used. Employee information on health, performance evaluations, and disciplinary actions and other sensitive Employee matters, whether it is stored manually or electronically, is accessible by other 3D Systems Employees only if necessary with respect to legitimate human resource functions or issues.  3D Systems will obtain affirmative consent from an Employee before using such Employee’s Personal Information for any purpose other than described above. Employees may decline to provide this consent, and Employees may withdraw their consent at any time.
+
+For legitimate human resources purposes, Employees may choose to voluntarily disclose Personal Information about family members. If our Employees choose to do this, their family member’s Personal Information shall be treated, for the purposes of this Policy, the same as an Employee’s Personal Information. Employee Personal Information is never sold, leased, or rented to any third party. Employee Personal Information will never be disclosed to third parties except as follows: (1) to those retained by 3D Systems as agents for the purposes set forth in the paragraph above, (2) where required pursuant to an applicable law, governmental or judicial order, law or regulation, or to protect the rights or property of 3D Systems, (3) where authorized in writing by the Employee, and (4) where the Employee voluntarily provides Personal Information and the context makes it clear that such information will be provided to a third party.
+
+Where personal data is transferred from the EU to the US in the context of the employment relationship, we will cooperate in investigations by and to comply with the advice of the competent EU Authorities.
+
+**Choice**
+
+We will always give you an opportunity to choose opt-out before your Personal Information is (1) disclosed to a third party (other than an 3D Systems agent doing work at our direction), or (2) to be used for a purpose that is materially different than that for which it was originally collected or subsequently authorized by you. Although we do not ever anticipate providing sensitive Personal Information, such as Employee health information, to a non-agent third party or using it for a purpose other than that for which it was collected, we will never do so without first allowing the individual involved to affirmatively and expressly consent (opt-in) to such transfer or use. The only exception to this choice for both sensitive and non-sensitive Personal Information would be where we are required to disclose your Personal Information pursuant to governmental or judicial order, law or regulation to meet national security or law enforcement requirements.
+
+At a minimum, you will always be able to opt-out from receiving marketing materials from 3D Systems. If we determine that applicable national law requires that more stringent requirements (opt-in) be applied before you receive marketing material or other communications from us, we will implement the same.
+
+**Accountability for Onward Transfer**
+
+We will not transfer Personal Information originating in the EU to third parties unless such third parties have entered into an agreement in writing with us requiring them to provide at least the same level of privacy protection to your Personal Information as required by the Principles of the EU-US Privacy Shield Framework or the US-Swiss Safe Harbor Framework. We will only transfer data to our agents, resellers or third party service providers (such as accountants, attorneys, consultants, and other service providers) who need the information in order to provide services to or perform activities on behalf of 3D Systems, including in connection with the delivery of services or products, 3D Systems’ management, administration, or legal responsibilities. We acknowledge our liability for such data transfers to third parties.
+
+**Security**
+
+To protect Personal Information collected and stored by 3D Systems, we have in place reasonable and appropriate technical and operational security measures to prevent Personal Information from loss, misuse, unauthorized access, disclosure, alteration, and destruction.
+
+**Data Integrity and Purpose Limitation**
+
+We will only collect and retain Personal Information which is relevant to the purposes for which the information is collected, and we will not use it in a way that is incompatible with such purposes unless such use has been subsequently authorized by you. We will take reasonable steps to ensure that Personal Information is reliable for its intended use, accurate, complete, and current. We may occasionally contact you to determine that your data is still accurate and current.
+
+**Access**
+
+If you wish to access, amend, or confirm that 3D Systems has personal data relating to you, or if you wish to correct or delete your Personal Information if it is inaccurate, please notify us at [HRIS@3DSystems.com](mailto:HRIS@3DSystems.com) or call us at +1 803 326 3933; ask for Christine Fariss. We will respond to your request within a reasonable time.
+
+Employees may review their personnel files and any Personal Information concerning them upon request by emailing [HRGlobal@3DSystems.com](mailto:HRGlobal@3DSystems.com).
+
+**Recourse, Enforcement and Liability**
+
+Since we are committed to protecting your privacy as set forth in this Policy, if you think we are not in compliance with our Policy, or if you have any question or if you wish to take any other action concerning this Policy or your Personal Information, we encourage you to contact us at [privacy@3dsystems.com](mailto:privacy@3dsystems.com) or call us at +1 803 326 3900; ask for Patrick Rogers. We will investigate your complaint, take appropriate action and report back to you within 45 days.
+
+If the Personal Information in question was transferred from the EU to the United States, and you are not satisfied with our response, have further committed to refer unresolved Privacy Shield complaints to the American Arbitration Association (AAA)’s Independent Conflict Dispute Resolution ICDR/AAA Program, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <http://info.adr.org/safeharbor> for more information or to file a complaint.
+
+Additionally, with respect to complaints concerning human resources data that is transferred from the EU to the United States, we have agreed to participate in the dispute resolution procedures of the EU Data Protection Authorities. Contact details for the EU data protection authorities can be found at <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm>. 3D Systems will cooperate with the appropriate EU Data Protection Authorities during investigation and resolution of complaints concerning human resources data that is transferred from the EU to the United States brought under Privacy Shield.
+
+These recourse mechanisms are available at no cost to you. Damages may be awarded in accordance with applicable law.
+
+Under certain conditions, if you are not satisfied with the above recourse mechanism, you may be able to invoke binding arbitration.
+
+**Right to Change Policy**
+
+In general, changes will be made to this Policy to address new or modified laws, changes to EU-US Privacy Shield, changes to EU-US Swiss Safe Harbor, or new or modified business procedures. However, we reserve the right to amend this Policy at any time. Appropriate notice will be given concerning such amendments.
+
+Effective: September 28, 2016.
