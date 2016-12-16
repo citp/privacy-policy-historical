@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mediashower.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622074745id_/http%3A//www.mediashower.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediashower.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216181642id_/http%3A//mediashower.com/privacy.html) for the most accurate reproduction.*
 
-# Media Shower: Content Writing, Article Writing Services, and Blog Writers
+# Privacy Policy | Media Shower
 
-**MEDIA SHOWER, INC. PRIVACY POLICY**
+MEDIA SHOWER, INC. PRIVACY POLICY 
 
 Media Shower, Inc. ("us," "we" "our") has created this Privacy Policy ("Privacy Policy") in order to ensure the confidence of users ("you" or "your") of and to the MediaShower.com website (the "Website"), and to demonstrate our commitment to fair information practices and the protection of privacy. All references herein to Media Shower, inc. or the Website shall mean and include Media Shower, Inc., a Massachusetts corporation that operates the MediaShower.com Website and provides the services therein, and all parents, subsidiaries and affiliates thereof and their respective officers, directors, employees and agents, and any successors and assigns of any of the foregoing.
 
@@ -60,4 +60,4 @@ We may also make chat rooms, forums, message boards, and news groups available t
 
 We reserve the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the Website. Any such change, update or modification will be effective immediately upon posting on the Website.
 
-Last updated January 1, 2012
+Last updated August 15, 2016
