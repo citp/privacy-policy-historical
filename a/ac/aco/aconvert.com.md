@@ -1,0 +1,29 @@
+> *The following text is extracted and transformed from the aconvert.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216194002id_/http%3A//www.aconvert.com/privacy.html) for the most accurate reproduction.*
+
+# Privacy policy - AConvert.com
+
+AConvert.com is dedicated to making your online experience as interesting and enjoyable as possible. We truly appreciate your presence on our site and at all times understand that you are our guest and should be treated accordingly. To ensure this, we have listed the components of our Privacy Policy below.
+
+##### Personal information
+
+When visiting AConvert.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+
+##### Third party websites
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+##### E-mail addresses
+
+Users have the possibility to enter their e-mail address for various functions. AConvert.com does not rent, sell, or share your personal information or email address with any other companies.
+
+##### Storage of files
+
+When users upload files to be converted, AConvert.com stores those files on its servers. The files remain in place on the servers for users to download. All files will be deleted automatically in 8 hours after conversion. There is no backup made of user files, neither are the contents of the files monitored without permission of the uploader.
+
+##### Security
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+##### Use of cookies
+
+Some of our pages use a feature of your browser called a "cookie". Cookies, by themselves, are not able to extract any personal information from you. This cookie automatically identifies your computer - but not you - to our servers when you visit our site. Unless you specifically tell us, AConvert.com will never know who you are, even though we may assign your computer a cookie. Also, AConvert.com can only read cookies created by AConvert.com. Cookies allow us to personalize our site for you and to provide you with information that fits your needs and desires. For instance, once you register your product online, a cookie is written to your computer so that you will not need to type information in the future to obtain support.
