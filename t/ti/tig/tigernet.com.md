@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tigernet.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330043803id_/http%3A//www.tigernet.com/disclaimer.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigernet.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216140747id_/http%3A//www.tigernet.com/disclaimer.do) for the most accurate reproduction.*
 
 # Disclaimer | TigerNet
 
 ### DISCLAIMER
 
-This site is dedicated to providing information about Clemson University. It is in NO WAY endorsed by Clemson University, the Athletic Department, nor any other Clemson University department. The opinions and information expressed throughout this page are purely those of the authors and intended for entertainment purposes only. While this page provide links to other sites, the information located at those sites is neither maintained by nor endorsed by the authors of this page. 
+TigerNet.com is dedicated to providing information about Clemson University. It is in NO WAY endorsed by Clemson University, the Athletic Department, nor any other Clemson University department. The opinions and information expressed throughout this page are purely those of the authors and intended for entertainment purposes only. While this page provide links to other sites, the information located at those sites is neither maintained by nor endorsed by the authors of this page. 
 
 ### PRIVACY STATEMENT
 
@@ -33,6 +33,8 @@ This site, TigerNet, uses the services of Adtegrity.com for the serving and/or t
 To learn more about behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://networkadvertising.org](http://networkadvertising.org/). 
 
 While we do use cookies in other parts of our Web site as explained above, cookies received with banner ads may or may not be collected by our company or be under our control. 
+
+TigerNet.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. 
 
 **Member Profiles**  
 Demographic data is collected at our site at the users option. This information may include age and gender and other personal preferences that can be viewed and tabulated for use in marketing TigerNet to advertisers and others. In no case is personal information given or sold to third parties. TigerNet controls the distribution of ALL information at the site. 
