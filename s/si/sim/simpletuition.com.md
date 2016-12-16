@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpletuition.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610035731id_/http%3A//www.simpletuition.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpletuition.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216054149id_/http%3A//www.simpletuition.com/privacy) for the most accurate reproduction.*
 
 # SimpleTuition Privacy Policy
 
