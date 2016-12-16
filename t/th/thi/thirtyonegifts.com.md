@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thirtyonegifts.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627133122id_/http%3A//www.thirtyonegifts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirtyonegifts.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216102422id_/http%3A//www.thirtyonegifts.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Thirty-One Gifts
 
@@ -58,7 +58,8 @@ Once we receive personal information through our Marketing Channels, we use it f
   * communicating with you via email, telephone or postal mail regarding promotional offers, new products, and other information that we think may be interesting to you;
   * internal business purposes, such as analyzing your activity with us, including your interaction with our Marketing Channels and your purchases;
   * personalizing our communications to you and allow you to communicate and interact with others on our Websites and Mobile Applications;
-  * helping you find an independent Thirty-One Gifts Consultant including finding a new one if your independent Thirty-One Gifts Consultant has discontinued selling Thirty-One Gifts and to facilitate the business activities of an independent Thirty-One Consultant.
+  * helping you find an independent Thirty-One Gifts Consultant including automatically assigning a new independent Thirty-One Gifts Consultant to you and sharing your personal information with that person if your current independent Thirty-One Gifts Consultant has discontinued selling Thirty-One Gifts and has become inactive in the business;
+  * facilitating the business activities of an independent Thirty-One Consultant.
   * responding to your inquiries; 
   * conducting surveys, sweepstakes or contests (please note some of these activities have additional rules, which could contain additional information about how we use and disclose your personal information, we recommend you read those rules carefully); 
   * considering your application to become an independent Thirty-One Gifts Consultant.
@@ -83,7 +84,7 @@ Information gathered through technology allows us to determine such things as wh
 
 ### What information do we share with third parties?
 
-We will share your personal information with our affiliates. In addition, we will share your personal information with the independent Thirty-One Gifts Consultants(s) with whom you indicate you have a relationship. If you do not have a relationship with one of our independent Thirty-One Gifts Consultants, we will select one who is located near you and provide your contact information to that independent Thirty-One Gifts Consultant so you may be contacted about your inquiry.
+We will share your personal information with our affiliates. In addition, we will share your personal information with the independent Thirty-One Gifts Consultants(s) with whom you indicate you have a relationship, as well as with any other independent Thirty-One Gifts Consultant(s) we assign to you if your current independent Thirty-One Gifts consultant has discontinued selling Thirty-One Gifts and has become inactive in the business. If you have never had relationship with one of our independent Thirty-One Gifts Consultants, we will select one who is located near you and provide your contact information to that independent Thirty-One Gifts Consultant so you may be contacted about your inquiry.
 
 We may share your personal information with third party service providers that assist us in such things as: developing and administering our Websites or Mobile Applications; data analysis; payment processing; order fulfillment; infrastructure provision; information technology services; customer service; auditing; training; allow us to pursue available remedies or limit the damages we may sustain; conducting surveys, sweepstakes or contests; sending and administering emails or text messages; performing marketing services; or other similar services. (These third party providers will be supplied with, or have access to, your personal information for the purpose of providing these services to us or on our behalf.) 
 
@@ -166,4 +167,4 @@ Once you are a Thirty-One Gifts Consultant, we may disclose your personal inform
 
 We may also combine the non-personal information that we and our third-party service providers collect about your use of our Website (as described above) with your unique Consultant number or personal information. We may use the combined information for purposes such as to analyze Thirty-One Gifts Consultant use of our Websites, in order to evaluate and make improvements to our business model, and for other internal analytics purposes.
 
-_This Privacy Policy is effective February 1, 2016._
+_This Privacy Policy is effective July 18, 2016._
