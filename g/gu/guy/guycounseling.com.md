@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guycounseling.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502143014id_/http%3A//www.guycounseling.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guycounseling.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216010759id_/http%3A//www.guycounseling.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Guy Counseling
 
@@ -93,29 +93,33 @@ Woobox
 
 At times it may become necessary, for legal purposes, to release your information in response to a request from a government agency or a private litigant. You agree that we may disclose your information to a third party where we believe, in good faith, that it is desirable to do so for the purposes of a civil action, criminal investigation, or other legal matter. In the event that we receive a subpoena affecting your privacy, we may elect to notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it ourselves, but we are not obligated to do either. We may also proactively report you, and release your information to, third parties where we believe that it is prudent to do so for legal reasons, such as our belief that you have engaged in fraudulent activities. You release us from any damages that may arise from or relate to the release of your information to a request from law enforcement agencies or private litigants.
 
-  1. **Commercial and Non-Commercial Communications**
+**10\. Advertising and Affiliate Disclosure**
 
+Guy Counseling does use various third party advertisers in the form of banner ads. Guy Counseling does not receive money for paid reviews of products. 
 
+Guy Counseling is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com 
 
-By providing information to the Site that forms the basis of communication with you, such as contact information, you waive all rights to file complaints concerning unsolicited email from Guy Counseling since, by providing such information, you agree to receive communications from us other anyone else covered under this Privacy Policy. However, you may unsubscribe from certain communications by notifying Guy Counsling that you no longer wish to receive solicitations or information and we will endeavor to remove you from the database.
+**11.  Commercial and Non-Commercial Communications **
+
+By providing information to the Site that forms the basis of communication with you, such as contact information, you waive all rights to file complaints concerning unsolicited email from Guy Counseling since, by providing such information, you agree to receive communications from us other anyone else covered under this Privacy Policy. However, you may unsubscribe from certain communications by notifying Guy Counseling that you no longer wish to receive solicitations or information and we will endeavor to remove you from the database. 
 
   1. **Security Measures**
 
 
 
-We take certain measures to enhance the security of our Site and Service, including using SSL Certificates.   However, we make no representations as to the security or privacy of your information. It is in our interest to keep our website secure, but we recommend that you use anti-virus software, firewalls, and other precautions to protect yourself from security threats.
+We take certain measures to enhance the security of our Site and Service, including using SSL Certificates.   However, we make no representations as to the security or privacy of your information. It is in our interest to keep our website secure, but we recommend that you use anti-virus software, firewalls, and other precautions to protect yourself from security threats. 
 
   2. **Your California Privacy Rights**
 
 
 
-Guy Counseling permits residents of California to use its services. Therefore, it is the intent of Guy Counseling is to comply with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes.   Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. In summary, you must presume that we collect electronic information from all visitors. You may contact us via the email using the contact form on the Guy Counseling Website.
+Guy Counseling permits residents of California to use its services. Therefore, it is the intent of Guy Counseling is to comply with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes.   Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. In summary, you must presume that we collect electronic information from all visitors. You may contact us via the email using the contact form on the Guy Counseling Website. 
 
   3. **Minors**
 
 
 
-Individuals under 18 years of age are not allowed to use our paid services, and individuals under 13 years of age must not use our Service at all. If you become aware of a User who is under the required age to use all or any portion of our Service, please notify us immediately by completing our online contact form and provide us with full details as to why you believe they are below that age and we will address the issue. If you are a User who is reported in this manner, we may require you to provide suitable proof of age, such as a copy of government identification, in order to continue using our Site and/or Service.
+Individuals under 18 years of age are not allowed to use our paid services, and individuals under 13 years of age must not use our Service at all. If you become aware of a User who is under the required age to use all or any portion of our Service, please notify us immediately by completing our online contact form and provide us with full details as to why you believe they are below that age and we will address the issue. If you are a User who is reported in this manner, we may require you to provide suitable proof of age, such as a copy of government identification, in order to continue using our Site and/or Service. 
 
   4. **International Transfer**
 
