@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datingsitesreviews.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615095418id_/http%3A//www.datingsitesreviews.com/staticpages/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingsitesreviews.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216071623id_/http%3A//www.datingsitesreviews.com/staticpages/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dating Sites Reviews
 
@@ -44,4 +44,4 @@ DatingSitesReviews.com is not liable for any damages caused by any of the site c
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact the [Admin](https://web.archive.org/profiles.php?uid=2).
 
-Last Updated: Monday, April 20 2015 @ 12:29 PM|Hits: 21,647 [](http://www.datingsitesreviews.com/staticpages/index.php?page=Privacy-Policy&disp_mode=print)
+Last Updated: Monday, April 20 2015 @ 12:29 PM|Hits: 23,138 [](http://www.datingsitesreviews.com/staticpages/index.php?page=Privacy-Policy&disp_mode=print)
