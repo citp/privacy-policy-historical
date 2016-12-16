@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wecenergygroup.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509065036id_/http%3A//www.wecenergygroup.com/home/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wecenergygroup.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216112909id_/http%3A//www.wecenergygroup.com/home/privacy-policy.htm) for the most accurate reproduction.*
 
 # WEC Privacy Policy
 
-WEC Energy Group Inc. (“WEC Energy Group”) protects the privacy of information provided by our website visitors. We use the following guidelines to protect your right to privacy concerning information we collect from users when they use surveys, forms or registration on our Web sites.
+WEC Energy Group Inc. (“WEC Energy Group”) protects the privacy of information provided by our website visitors. We use the following guidelines to protect your right to privacy concerning information we collect from users when they use surveys, forms or registration on our websites.
 
 ## Use of information
 
