@@ -1,12 +1,9 @@
-<!--The following is the downloaded HTML source of the loyalty360.org privacy policy that was archived on 2016-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608080408id_/http%3A//www.loyalty360.org/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the loyalty360.org privacy policy that was archived on 2016-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161216015349id_/http%3A//loyalty360.org/Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head id="head"><title>
+<!DOCTYPE html><html><head id="head"><title>
 	Loyalty360 - The Association for Customer Loyalty
-</title><meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
-<meta http-equiv="pragma" content="no-cache"> 
-<meta http-equiv="content-style-type" content="text/css"> 
-<meta http-equiv="content-script-type" content="text/javascript"> 
+</title><meta charset="UTF-8"> 
 <link href="/CMSPages/GetResource.ashx?stylesheetname=Loyalty360" type="text/css" rel="stylesheet"> 
  
 <link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"> 
@@ -30,8 +27,8 @@ $(function(){
         });
 
         $('#btnlgLogin').click(function (){    
-              var username = $('#lg_username').val();
-              var password = $('#lg_password').val();               
+              var username = $.trim($('#lg_username').val());
+              var password = $.trim($('#lg_password').val());               
               //alert(username + ' : '+ password);                             
               var isValid = ValidateLogin(username, password);
               if(isValid){
@@ -129,6 +126,10 @@ $(document).ready(function () {
       $(".searchFrom").addClass("searchFromClick");
   });
 
+  $(".logoArrow").click(function(){
+       $(".logoArrow ul").slideToggle("slow");
+  });
+
   /*$("div.searchBox > input[type='text']").onChange(function(){
     var txtVal = $("div.searchBox > input[type='text']").val();
     if(txtVal = '' || txtVal = 'SEARCH'){
@@ -168,32 +169,11 @@ function RemoveCartCookie() {
 </script><link href="/CMSPages/GetResource.ashx?_webparts=677" type="text/css" rel="stylesheet"> 
 </head>
 <body class="LTR ENUS ContentBody">
-    <form method="post" action="/privacy.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="form">
+    <form method="post" action="/privacy" id="form">
 <div class="aspNetHidden">
 <input type="hidden" name="manScript_HiddenField" id="manScript_HiddenField" value="">
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
 
 </div>
-
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['form'];
-if (!theForm) {
-    theForm = document.form;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
-
-
-<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZBhRPiLLOSu1RI8qZfkfXRNxfY1N_iMr1G8ZU91jaUVSR5wjzlOnBKkZwQAw9qQuAg2&amp;t=635792775671809273" type="text/javascript"></script>
 
 <input type="hidden" name="lng" id="lng" value="en-US">
 <script src="/CMSPages/GetResource.ashx?scriptfile=%7e%2fCMSScripts%2fWebServiceCall.js" type="text/javascript"></script>
@@ -204,43 +184,26 @@ function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { win
 function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('m$am',param,callback,ctx,null,true); }
 //]]>
 </script>
-<script src="/ScriptResource.axd?d=x6wALODbMJK5e0eRC_p1LRGg3odi7ZyphlareaI8ppK-JjtRcyDWN-F43cNe0g_uwUTDejsn98xDWkv3aXB-9EF5c_tENlRQaxJF75V-6aNDZWAynazH7Rzr3o2hfWRE0&amp;t=7c776dc1" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=P5lTttoqSeZXoYRLQMIScDRWfwE8_RiksX_oIyOzHhYhUVUVHdYGEYOfq0Xj0Gv0iuAWi8iG2dDAcNdIS9zsQzFWxktfFZCevJwY70WInOefe_RnFp4wR5f_6k_USnPk0&amp;t=7c776dc1" type="text/javascript"></script>
-<script src="/CMSPages/PortalTemplate.aspx?_TSM_HiddenField_=manScript_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d4.1.60919.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3aee051b62-9cd6-49a5-87bb-93c07bc43d63%3a475a4ef5%3aeffe2a26%3a7e63a579" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=x6wALODbMJK5e0eRC_p1LeYYvupm32IPZrE5bNIQUDXxqQ52fYV4GMPqGE0wk-tkNgFImjWP_btauLnBFuQ8dbSuSDkEI7sc0t3H3GzogzdrisYCG8EYmRpRZuxYsmxA0&amp;t=7c776dc1" type="text/javascript"></script>
+<script src="/CMSPages/PortalTemplate.aspx?_TSM_HiddenField_=manScript_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d4.1.60919.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3aee051b62-9cd6-49a5-87bb-93c07bc43d63%3ade1feab2%3af9cec9bc%3a35576c48" type="text/javascript"></script>
 <script type="text/javascript">
 	//<![CDATA[
 
 var CMS = CMS || {};
 CMS.Application = {
-  "isRTL": "false",
+  "isDialog": false,
   "applicationUrl": "/",
-  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
-  "isDialog": false
+  "isRTL": "false",
+  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f"
 };
 
 //]]>
 </script>
-<script type="text/javascript">
-//<![CDATA[
-function WebForm_OnSubmit() {
-null;
-return true;
-}
-//]]>
-</script>
-
 <div class="aspNetHidden">
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185">
-	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0">
-	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0">
 </div>
-    <script type="text/javascript">
-//<![CDATA[
-Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tp$lt$ctl02$StaticHTML_Footer$sys_pnlUpdate','','tctxM',''], ['p$lt$ctl02$StaticHTML_Footer',''], [], 90, '');
-//]]>
-</script>
-
+    
     <div id="ctxM">
 
 </div>
@@ -279,10 +242,7 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tp$lt$ctl02$S
                     </li>
                     <li>
                       <a href="/About-us/Opportunities/Media-Partnerships">Media Partnerships</a>
-                    </li>
-                    <li>
-                      <a href="/About-us/Opportunities/Careers">Careers</a>
-                    </li>
+                    </li>                    
                   </ol>
                 </div>
               </li>
@@ -299,7 +259,7 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tp$lt$ctl02$S
                 <a href="/Resources/RFI-RFP-s">RFI/RFP's</a>
               </li>
               <li>
-                <a href="/Resources/Loyalty360-Verified">Loyalty360 Verified</a>
+                <a href="/Resources/analyst-reports">Analyst Reports</a>
               </li>
               <li>
                 <a href="/Resources/Job-Board">Job Board</a>
@@ -320,6 +280,9 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tp$lt$ctl02$S
                 <a href="/Content-Gallery/Daily-News">Daily News</a>
               </li>
               <li>
+                <a href="/content-gallery/featured-story">In-Depth Exclusives</a>
+              </li>
+              <li>
                 <a href="/Content-Gallery/Press-Releases">Press Releases</a>
               </li>
               <li>
@@ -337,12 +300,12 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tp$lt$ctl02$S
                     <li>
                       <a href="/Content-Gallery/Loyalty360-Research/Customer-Experience-Landscape">Customer-Experience-Landscape</a>
                     </li>
-                    <li>
-                      <a href="/Content-Gallery/Loyalty360-Research/Brand-Bites">Brand Bites</a>
-                    </li>
-                    <li>
-                      <a href="/Content-Gallery/Loyalty360-Research/Industry-Briefs">Industry Briefs</a>
-                    </li>
+                    <!--<li>
+<a href="/Content-Gallery/Loyalty360-Research/Brand-Bites">Brand Bites</a>
+</li>
+<li>
+<a href="/Content-Gallery/Loyalty360-Research/Industry-Briefs">Industry Briefs</a>
+</li>-->
                   </ol>
                 </div>
               </li>
@@ -354,11 +317,13 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tp$lt$ctl02$S
               </li>
               <li>
                 <a href="/Content-Gallery/Articles-And-Blogs">Articles and Blogs</a>
+              </li>              
+              <li>
+                <a href="/content-gallery/conference-presentations">Conference Presentations</a>
               </li>
             </ol>
           </div>
         </li>
-        
         
         
         <li><a href="/Loyalty360-Events">Loyalty360 Events</a> <span class="expand"><i class="fa fa-plus parent-plus"></i></span>
@@ -414,16 +379,30 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tp$lt$ctl02$S
   </div>
   <!--Mobile Menu End-->
   <div class="wrapperContainer">
-    <div class="loyalty360-Logo"><a href="/"><img src="/Loyalty360/media/images/loyalty360-logo.png"></a></div><div class="headerRight">
+    <div class="loyalty360-Logo">
+      <a href="/"><img src="/Loyalty360/media/images/loyalty360-logo.png" alt="headerLogo"></a>
+      <span class="logoArrow">
+        <a href="javascript:void(0);"><img src="/Loyalty360/media/images/logoArrow.png" alt="arrow"></a>
+        <ul style="display:none;">
+          <li><a href="http://loyalty360.eu" target="_blank">Loyalty360 EUROPE</a></li>
+          <li><a href="http://engagementexpo.com" target="_blank">Engagement Expo</a></li>
+          <li><a href="http://loyaltyexpo.com" target="_blank">Loyalty Expo</a></li>
+        </ul>
+      </span>
+    </div><div class="headerRight">
   <div class="userLink">
     <ul>              
-      <li><a class="signin" href="#">Login or Join</a> </li>
+      <li><a class="signin" href="#">Login</a> </li>
       <!--<li>
  <a href="/join">Join</a>
-</li>-->
+</li>
       <li><a href="/Press-Center">Press Center</a></li>
+          
+      <li><a href="/content-gallery/press-releases">Press Releases</a></li>    -->   
       <li><a href="/Advertise">Advertise</a></li>
       <li><a href="/feeds">Subscribe</a></li>
+      <li><a href="/contactus">Contact us</a></li>      
+      <li class="joinLoyalty"><a href="/join">Join Loyalty360</a></li>
     </ul>
   </div>
   <div class="social">
@@ -434,7 +413,7 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tp$lt$ctl02$S
       <li><a href="/Feeds" target="_blank"><i class="fa fa-rss">&nbsp;</i></a></li>
     </ul>
   </div><div class="searchFrom">
-    <div class="inputField"><div id="p_lt_ctl00_SmartSearchBox_pnlSearch" class="searchBox" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'p_lt_ctl00_SmartSearchBox_btnImageButton')">
+    <div class="inputField"><div id="p_lt_ctl00_SmartSearchBox_pnlSearch" class="searchBox">
 	
     <label for="p_lt_ctl00_SmartSearchBox_txtWord" id="p_lt_ctl00_SmartSearchBox_lblSearch" style="display:none;">Search for:</label>
     <input type="hidden" name="p$lt$ctl00$SmartSearchBox$txtWord_exWatermark_ClientState" id="p_lt_ctl00_SmartSearchBox_txtWord_exWatermark_ClientState"><input name="p$lt$ctl00$SmartSearchBox$txtWord" type="text" maxlength="1000" id="p_lt_ctl00_SmartSearchBox_txtWord" class="form-control">
@@ -466,11 +445,8 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tp$lt$ctl02$S
 				<li>
 					<a href="/about-us/board-of-advisors">Board of Advisors</a>
 				</li>
-				<li>
-					<a href="/about-us/brand-members">Brand Members</a>
-				</li>
 				<li class="menuSubElem">
-					<a href="/about-us/opportunities">Opportunities</a>
+					<a href="/about-us/opportunities/media-kit">Opportunities</a>
 					<ul>
 						<li>
 							<a href="/about-us/opportunities/media-kit">Media Kit</a>
@@ -481,9 +457,6 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tp$lt$ctl02$S
 						<li>
 							<a href="/about-us/opportunities/media-partnerships">Media Partnerships</a>
 						</li>
-						<li>
-							<a href="/about-us/opportunities/careers">Careers</a>
-						</li>
 
 					</ul>
 				</li>
@@ -493,6 +466,9 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tp$lt$ctl02$S
 		<li>
 			<a href="/resources">Resources</a>
 			<ul>
+				<li>
+					<a href="/resources/industrynews">Industry News</a>
+				</li>
 				<li>
 					<a href="/resources/find-a-partner">Find a Partner</a>
 				</li>
@@ -521,10 +497,31 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tp$lt$ctl02$S
 					<a href="/content-gallery/daily-news">Daily News</a>
 				</li>
 				<li>
-					<a href="/content-gallery/press-releases">Press Releases</a>
+					<a href="/content-gallery/featured-story">In-Depth Exclusives</a>
 				</li>
 				<li>
+					<a href="/content-gallery/press-releases">Press Releases</a>
+				</li>
+				<li class="menuSubElem">
 					<a href="/content-gallery/research-and-reports">Research and Reports</a>
+					<ul>
+						<li>
+							<a href="/content-gallery/research-and-reports/case-studies">Case Studies</a>
+						</li>
+						<li>
+							<a href="/content-gallery/research-and-reports/white-papers">White Papers</a>
+						</li>
+						<li>
+							<a href="/content-gallery/research-and-reports/cmo-challenge-reports">CMO Challenge Reports</a>
+						</li>
+						<li>
+							<a href="/content-gallery/research-and-reports/brand-bites">Brand Bites</a>
+						</li>
+						<li>
+							<a href="/content-gallery/research-and-reports/industry-briefs">Industry Briefs</a>
+						</li>
+
+					</ul>
 				</li>
 				<li class="menuSubElem">
 					<a href="/content-gallery/loyalty360-research">Loyalty360 Research</a>
@@ -534,12 +531,6 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tp$lt$ctl02$S
 						</li>
 						<li>
 							<a href="/content-gallery/loyalty360-research/customer-experience-landscape">Customer Experience Landscape</a>
-						</li>
-						<li>
-							<a href="/content-gallery/loyalty360-research/brand-bites">Brand Bites</a>
-						</li>
-						<li>
-							<a href="/content-gallery/loyalty360-research/industry-briefs">Industry Briefs</a>
 						</li>
 
 					</ul>
@@ -552,9 +543,6 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tp$lt$ctl02$S
 				</li>
 				<li>
 					<a href="/content-gallery/articles-and-blogs">Articles and Blogs</a>
-				</li>
-				<li>
-					<a href="/content-gallery/featured-story">Featured Story</a>
 				</li>
 				<li>
 					<a href="/content-gallery/conference-presentations">Conference Presentations</a>
@@ -635,7 +623,7 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tp$lt$ctl02$S
 	<li class="lg_f_pwd" style="display:none"><input id="btnlgContinue" type="button" value="Continue"></li>
 	<li class="lg_in">Forgot <a class="forgotPassword" href="javascript:void(0);">password?</a></li>
 	<li class="lg_f_pwd" style="display:none"><a class="cancelLink" href="javascript:void(0);">Cancel</a></li>
-	<li class="lg_in"><input class="signupBtn" id="btnlgSignUp" type="button" value="Sign Up"></li>
+	<li class="lg_in"><input class="signupBtn" id="btnlgSignUp" type="button" value="Join Now"></li>
 </ul>
 </div>
 </div>
@@ -660,17 +648,17 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tp$lt$ctl02$S
       <div class="loyaltyManagement-left">
         <div class="pageHead">Website Privacy Statement</div>
 
-<p>This is a website of the Loyalty 360 as it applies to business/ visitors.</p>
+<p>This is a website of the Loyalty360 as it applies to business/visitors.</p>
 
-<p>Consumer information, including how to register for Loyalty 360 Visitor/Member Services, can be found at ,<span style="text-decoration: underline;">www.loyalty360.org</span>. If you still have questions, or would like to contact us, please send an email to: <a href="mailto:info@loyalty360.org">info@loyalty360.org</a></p>
+<p>Consumer information, including how to register for Loyalty360 Visitor/Member Services, can be found at ,<span style="text-decoration: underline;">www.loyalty360.org</span>. If you still have questions, or would like to contact us, please send an email to: <a href="mailto:info@loyalty360.org">info@loyalty360.org</a>.</p>
 
 <p>Our headquarters address is:</p>
 
-<p>Loyalty 360<br>
-4120 Dumont Street<br>
-Cincinnati, OH 45226</p>
+<p>Loyalty360<br>
+7695 Beechmont Ave<br>
+Cincinnati, OH 45255</p>
 
-<p>You can reach us by email at <a href="mailto:info@loyalty360.org">info@loyalty360.org</a> or call us at <span class="skype_c2c_print_container notranslate">513-545-5612</span><span class="skype_c2c_container notranslate" data-isfreecall="true" data-ismobile="false" data-isrtl="false" data-numbertocall="+15135455612" data-numbertype="campaign-free" dir="ltr" id="skype_c2c_container" onclick="SkypeClick2Call.MenuInjectionHandler.makeCall(this, event)" onmouseout="SkypeClick2Call.MenuInjectionHandler.hideMenu(this, event)" onmouseover="SkypeClick2Call.MenuInjectionHandler.showMenu(this, event)" tabindex="-1"><span class="skype_c2c_highlighting_inactive_common" dir="ltr" skypeaction="skype_dropdown"><span class="skype_c2c_textarea_span" id="free_num_ui"><img class="skype_c2c_logo_img" height="0" src="resource://skype_ff_extension-at-jetpack/skype_ff_extension/data/call_skype_logo.png" width="0"><span class="skype_c2c_text_span">513-545-5612</span><span class="skype_c2c_free_text_span"> FREE</span></span></span></span>.</p>
+<p>You can reach us by email at <a href="mailto:info@loyalty360.org">info@loyalty360.org</a> or call us at <span class="skype_c2c_print_container notranslate">513-800-0360.</span></p>
 
 <p>This policy is valid for one month from the time you visit our site. If our information practices change in the future, we will use only data collected from the time of the policy change forward for these new purposes, or we will contact you before we use your data for these new purposes and offer you the ability to opt out of these new uses.</p>
 
@@ -684,29 +672,29 @@ Cincinnati, OH 45226</p>
 
 <p><strong>Addresses and phone numbers</strong></p>
 
-<p>If you give us your postal address, we will send you periodic mailings with information on new Loyalty 360 products, services or information on upcoming Loyalty 360&nbsp; events. You may also receive business mailings from other reputable companies.</p>
+<p>If you give us your postal address, we will send you periodic mailings with information on new Loyalty360 products, services or information on upcoming Loyalty360&nbsp; events. You may also receive business mailings from other reputable companies.</p>
 
 <p>If you supply us with your telephone number, you may receive telephone contact from us with information regarding orders you have placed, new products and services or information on upcoming events.</p>
 
-<p>If you do not wish to receive mailings or phone calls from the Loyalty 360 in the future or if you do not wish us to provide other reputable marketers with your mailing information, please let us know by sending an email to <a href="mailto:info@loyalty360.org">info@loyalty360.org</a></p>
+<p>If you do not wish to receive mailings or phone calls from the Loyalty360 in the future or if you do not wish us to provide other reputable marketers with your mailing information, please let us know by sending an email to <a href="mailto:info@loyalty360.org">info@loyalty360.org</a>.</p>
 
 <p><strong>Email addresses</strong></p>
 
 <p>We collect the email addresses of those who communicate with us by email. The email addresses are used to contact existing or potential business customers. We will not share business email addresses you give to us with other third parties for their purposes. &nbsp;We may send marketing offers to you on behalf of reputable third parties.</p>
 
-<p>If you do not want to receive future email from Loyalty 360, please let us know by sending an email to <a href="mailto:info@loyalty360.org">info@loyalty360.org</a></p>
+<p>If you do not want to receive future email from Loyalty360, please let us know by sending an email to <a href="mailto:info@loyalty360.org">info@loyalty360.org</a>.</p>
 
 <p><strong>Cookies</strong></p>
 
 <p><strong><em>All visitors</em></strong> we place cookies on all website visitor hard drives to collect aggregate information on the number of visitors to our site and the number of pages viewed.</p>
 
-<p><strong><em>Registered visitors</em></strong> we place unique identifier cookies on the hard drives of those who sign on which are used to maintain the visitor "sign on" status for the duration of the visit, for one-time customizing/tailoring of your visit and for long-term storage of user preferences. We also use cookies to track the pages visited by a visitor so that we can deliver Loyalty 360 Web content based on the visitor's profile (as provided by the visitor) and the visitor's past activity on the Loyalty 360 website.</p>
+<p><strong><em>Registered visitors</em></strong> we place unique identifier cookies on the hard drives of those who sign on which are used to maintain the visitor "sign on" status for the duration of the visit, for one-time customizing/tailoring of your visit and for long-term storage of user preferences. We also use cookies to track the pages visited by a visitor so that we can deliver Loyalty360 Web content based on the visitor's profile (as provided by the visitor) and the visitor's past activity on the Loyalty360 website.</p>
 
-<p><strong><em>General information</em></strong> cookie information is used only by Loyalty 360 and our agents and is not provided to any other organization. It is used in aggregate for traffic analysis and to provide relevant information to our visitors. It is also used for website and system administration, including research and development, user analysis and business decision-making.</p>
+<p><strong><em>General information</em></strong> cookie information is used only by Loyalty360 and our agents and is not provided to any other organization. It is used in aggregate for traffic analysis and to provide relevant information to our visitors. It is also used for website and system administration, including research and development, user analysis and business decision-making.</p>
 
 <p><strong>For website visitors who do not make purchases or otherwise identify themselves</strong></p>
 
-<p>If you do not sign on to our website, our Web server does not have access to personally identifiable information about you. It does not know your email address unless you volunteer it. At the same time, much of the Loyalty 360’s communication comes in the form of email, so by not sharing your email address you will have limited access to the Loyalty 360’s newsletters and other valuable information.</p>
+<p>If you do not sign on to our website, our Web server does not have access to personally identifiable information about you. It does not know your email address unless you volunteer it. At the same time, much of the Loyalty360’s communication comes in the form of email, so by not sharing your email address you will have limited access to the Loyalty360’s newsletters and other valuable information.</p>
 
 <p><strong>Clickstream Data</strong></p>
 
@@ -722,7 +710,7 @@ Cincinnati, OH 45226</p>
 
 <p><strong>Accountability</strong></p>
 
-<p>If you have a question about Loyalty 360’s privacy policy, please contact us at 4120 Dumont Street Cincinnati, OH 45226 or <span style="text-decoration: underline;">ethics@</span><span style="text-decoration: underline;">loyalty360.</span><span style="text-decoration: underline;">org</span>; or <span class="skype_c2c_print_container notranslate">877-433-0819</span><span class="skype_c2c_container notranslate" data-isfreecall="true" data-ismobile="false" data-isrtl="false" data-numbertocall="+18774330819" data-numbertype="tollfree" dir="ltr" id="skype_c2c_container" onclick="SkypeClick2Call.MenuInjectionHandler.makeCall(this, event)" onmouseout="SkypeClick2Call.MenuInjectionHandler.hideMenu(this, event)" onmouseover="SkypeClick2Call.MenuInjectionHandler.showMenu(this, event)" tabindex="-1"><span class="skype_c2c_highlighting_inactive_common" dir="ltr" skypeaction="skype_dropdown"><span class="skype_c2c_textarea_span" id="free_num_ui"><img class="skype_c2c_logo_img" height="0" src="resource://skype_ff_extension-at-jetpack/skype_ff_extension/data/call_skype_logo.png" width="0"><span class="skype_c2c_text_span">877-433-0819</span><span class="skype_c2c_free_text_span"> FREE</span></span></span></span> (fax).</p>
+<p>If you have a question about Loyalty360’s privacy policy, please contact us at 7695 Beechmont Ave, Cincinnati, OH 45255.</p>
 
 <p>&nbsp;</p>
 
@@ -762,17 +750,17 @@ Cincinnati, OH 45226</p>
   <span>
     <img src="/Loyalty360/media/images/pencilIcon.png">
   </span>
-  <a href="/Content-Gallery/Daily-News/Travel-and-Entertainment-Businesses-Pioneer-the-Ch">Travel and Entertainment Businesses Pioneer the Changing Customer Loyalty Landscape</a>
+  <a href="/Content-Gallery/Daily-News/Uber-Continues-Pursuit-of-Customer-Loyalty-with-Ne">Uber Continues Pursuit of Customer Loyalty with New Shop Your Way Partnership</a>
 </li><li class="joinMember-listHead">
   <span>
     <img src="/Loyalty360/media/images/pencilIcon.png">
   </span>
-  <a href="/Content-Gallery/Daily-News/Citi-ThankYou-Rewards-Gains-Heightened-Customer-En">Citi ThankYou Rewards Gains Heightened Customer Engagement in Evolving Digital Landscape</a>
+  <a href="/Content-Gallery/Daily-News/Loyalty-Program-Design-Start-with-the-End-in-Mind">Loyalty Program Design: Start with the End in Mind</a>
 </li><li class="joinMember-listHead">
   <span>
     <img src="/Loyalty360/media/images/pencilIcon.png">
   </span>
-  <a href="/Content-Gallery/Daily-News/Listening-to-the-Customer-Re-ignites-Brand-Loyalty">Listening to the Customer Re-ignites Brand Loyalty at McDonald’s</a>
+  <a href="/Webinars/Event/Using-Mobile-Wallet-to-Drive-Loyalty-and-Action">Using Mobile Wallet to Drive Loyalty and Action:  Today’s Opportunity for Brands</a>
 </li> </ul>
 </div>
 <div class="right-addCon">
@@ -786,20 +774,16 @@ Cincinnati, OH 45226</p>
 </div><div class="ee-contentHead-New">
   The <strong>L<span></span>yalty Pulse</strong>
   <a href="/PulseChart" class="viewBtn">View All</a>
-</div><div id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_pnlControl" class="PollControl" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_btnVote')">
+</div><div id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_pnlControl" class="PollControl">
 	
     <span id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_lblTitle" class="PollTitle"></span>
     <span id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_lblQuestion" class="PollQuestion">What is the most important way you differentiate your loyalty program from your competitors?</span>
-    
+    <span id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_lblInfo" class="PollInfo">The poll is closed.</span>
     <div id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_pnlAnswer" class="PollAnswers">
-		<table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="PollAnswer" colspan="2"><span class="PollAnswerRadio radio"><input id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_rad1" type="radio" name="p$lt$ctl01$pageplaceholder$p$lt$ctl02$StaticHTML_Pulse$widget1$ctl00$viewPoll$Pulse_octGroup" value="rad1"><label for="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_rad1">Unique rewards</label></span></td></tr><tr><td style="width: 100%;"><div class="PollGraph"><div class="PollGraph0" style="width:100%">&nbsp;</div></div></td><td style="white-space: nowrap;" class="PollCount"></td></tr><tr><td class="PollAnswer" colspan="2"><span class="PollAnswerRadio radio"><input id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_rad2" type="radio" name="p$lt$ctl01$pageplaceholder$p$lt$ctl02$StaticHTML_Pulse$widget1$ctl00$viewPoll$Pulse_octGroup" value="rad2"><label for="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_rad2">Ease of rewards use/redemption</label></span></td></tr><tr><td style="width: 100%;"><div class="PollGraph"><div class="PollGraph1" style="width:9%">&nbsp;</div></div></td><td style="white-space: nowrap;" class="PollCount"></td></tr><tr><td class="PollAnswer" colspan="2"><span class="PollAnswerRadio radio"><input id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_rad5" type="radio" name="p$lt$ctl01$pageplaceholder$p$lt$ctl02$StaticHTML_Pulse$widget1$ctl00$viewPoll$Pulse_octGroup" value="rad5"><label for="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_rad5">Multiple technology touchpoints</label></span></td></tr><tr><td style="width: 100%;"><div class="PollGraph"><div class="PollGraph2" style="width:21%">&nbsp;</div></div></td><td style="white-space: nowrap;" class="PollCount"></td></tr><tr><td class="PollAnswer" colspan="2"><span class="PollAnswerRadio radio"><input id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_rad3" type="radio" name="p$lt$ctl01$pageplaceholder$p$lt$ctl02$StaticHTML_Pulse$widget1$ctl00$viewPoll$Pulse_octGroup" value="rad3"><label for="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_rad3">Program flexibility</label></span></td></tr><tr><td style="width: 100%;"><div class="PollGraph"><div class="PollGraph3" style="width:4%">&nbsp;</div></div></td><td style="white-space: nowrap;" class="PollCount"></td></tr><tr><td class="PollAnswer" colspan="2"><span class="PollAnswerRadio radio"><input id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_rad4" type="radio" name="p$lt$ctl01$pageplaceholder$p$lt$ctl02$StaticHTML_Pulse$widget1$ctl00$viewPoll$Pulse_octGroup" value="rad4"><label for="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_rad4">Exceptional customer service</label></span></td></tr><tr><td style="width: 100%;"><div class="PollGraph"><div class="PollGraph4" style="width:10%">&nbsp;</div></div></td><td style="white-space: nowrap;" class="PollCount"></td></tr></tbody></table>
+		<table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="PollAnswer" colspan="2"><span id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_lbl1" class="PollAnswerText">Unique rewards</span></td></tr><tr><td style="width: 100%;"><div class="PollGraph"><div class="PollGraph0" style="width:100%">&nbsp;</div></div></td><td style="white-space: nowrap;" class="PollCount"></td></tr><tr><td class="PollAnswer" colspan="2"><span id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_lbl2" class="PollAnswerText">Ease of rewards use/redemption</span></td></tr><tr><td style="width: 100%;"><div class="PollGraph"><div class="PollGraph1" style="width:22%">&nbsp;</div></div></td><td style="white-space: nowrap;" class="PollCount"></td></tr><tr><td class="PollAnswer" colspan="2"><span id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_lbl5" class="PollAnswerText">Multiple technology touchpoints</span></td></tr><tr><td style="width: 100%;"><div class="PollGraph"><div class="PollGraph2" style="width:19%">&nbsp;</div></div></td><td style="white-space: nowrap;" class="PollCount"></td></tr><tr><td class="PollAnswer" colspan="2"><span id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_lbl3" class="PollAnswerText">Program flexibility</span></td></tr><tr><td style="width: 100%;"><div class="PollGraph"><div class="PollGraph3" style="width:6%">&nbsp;</div></div></td><td style="white-space: nowrap;" class="PollCount"></td></tr><tr><td class="PollAnswer" colspan="2"><span id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_lbl4" class="PollAnswerText">Exceptional customer service</span></td></tr><tr><td style="width: 100%;"><div class="PollGraph"><div class="PollGraph4" style="width:19%">&nbsp;</div></div></td><td style="white-space: nowrap;" class="PollCount"></td></tr></tbody></table>
 	</div>
     
-    <div id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_pnlFooter" class="PollFooter">
-		
-        <input type="submit" name="p$lt$ctl01$pageplaceholder$p$lt$ctl02$StaticHTML_Pulse$widget1$ctl00$viewPoll$btnVote" value="Vote" id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_btnVote" class="PollVoteButton btn btn-default">
     
-	</div>
 
 </div>
 
@@ -828,14 +812,15 @@ Cincinnati, OH 45226</p>
 	<li><a href="/About-us">About</a></li>
 	<li><a href="/Resources">Resources</a></li>
 	<li><a href="/Content-Gallery">Content Gallery</a></li>
-	<li><a href="/Webinars">Webinars &amp; Conferences</a></li>
+	<li><a href="/Webinars">Webinars </a></li>
+	<li><a href="/loyalty360-events">Loyalty360 Events</a></li>
 </ul>
 
 <ul>
 	<li><a href="/Brand-Forum">Brand Forum</a></li>
 	<li><a href="/Loyalty-Today">Loyalty Today</a></li>
 	<li><a href="/loyalty-management">Loyalty Management</a></li>
-	<li><a href="javascript:;">/sitemap</a></li>
+	<li><a href="/sitemap">sitemap</a></li>
 </ul>
 </div>
 
@@ -858,12 +843,12 @@ Cincinnati, OH 45226</p>
 </div>
 </div>
 
-<div class="footer_logo-new"><a class="footerLogo" href="javascript:;"><img alt="footer logo" src="/Loyalty360/media/images/footer_logo-new.png"> </a></div>
+<div class="footer_logo-new"><a class="footerLogo" href="javascript:;"><img alt="footer logo" src="http://image.loyalty360.org/Loyalty360/media/images/footer_logo-new.png"> </a></div>
 </div>
 </footer>
 
 <div class="copyrightText-new">
-<div class="wrapperContainer">© Copyright 2016 Loyalty 360. All Rights Reserved. <a href="/Privacy">Privacy Policy</a> | <a href="/terms-and-conditions">Terms of Use</a> | <a href="/Member-terms">Member Terms</a></div>
+<div class="wrapperContainer">© Copyright 2016 Loyalty360. All Rights Reserved. <a href="/Privacy">Privacy Policy</a> | <a href="/terms-and-condition">Terms of Use</a> | <a href="/Member-terms">Member Terms</a></div>
 </div>
 
 </div>
@@ -878,24 +863,17 @@ Cincinnati, OH 45226</p>
 
 <script type="text/javascript">
 	//<![CDATA[
-WebServiceCall('/cmsapi/webanalytics', 'LogHit', '{"NodeAliasPath":"/Footer-Section/Privacy","DocumentCultureCode":"en-US","UrlReferrer":"http://loyalty360.org/Privacy.aspx"}')
+WebServiceCall('/cmsapi/webanalytics', 'LogHit', '{"NodeAliasPath":"/Footer-Section/Privacy","DocumentCultureCode":"en-US","UrlReferrer":""}')
 //]]>
 </script>
 <script type="text/javascript">
 //<![CDATA[
-
-WebForm_InitCallback();
-theForm.oldSubmit = theForm.submit;
-theForm.submit = WebForm_SaveScrollPositionSubmit;
-
-theForm.oldOnSubmit = theForm.onsubmit;
-theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
 Sys.Application.add_init(function() {
     $create(Sys.Extended.UI.TextBoxWatermarkBehavior, {"ClientStateFieldID":"p_lt_ctl00_SmartSearchBox_txtWord_exWatermark_ClientState","WatermarkText":"SEARCH","id":"p_lt_ctl00_SmartSearchBox_txtWord_exWatermark"}, null, null, $get("p_lt_ctl00_SmartSearchBox_txtWord"));
 });
 //]]>
 </script>
-  <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+  <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="KTpM+U5pMDKp4WvfbFh+hW4CnlIfywuA7QxW6lD14Y0UErsD7M7i8aluLBHaQOilK2t3GXOSWtKsbrDy00KbynGdxNjy0FX2JMM3pdlwV9x5cfJER1Np+UBtQZmnJtQST0NnoizZABXVRF6/AbJx6cfJxxgZfuIngYeu+GcEEGfIqtZNae0IRRC6P87rwRz+qTp9zlI1cE2omevYVgFEHTSVHpBjme+54kYIWALyVVVwjOfINRoya9D3RkokIPvDrxrn8l/XUCVgWtUR9LdRSeGZclJY5CGT9+MnYr4sTG3ZpHUSUBwb7BHOL9PjFvdsH3LIP13Tmdu0hKL0xhArm5O2dA6P6SwTXw3qM8QhFV/6scuL4i/3/x0XeYTAJytnEEhsyHnPiRydsA/zvXplNP2YTJIv6IK1tGq5hSnQtZlOFtV/2VzivvwrIlMKnlcV31IowOBbxrZriu7QY/l9tHDJN1781WycFT0IgolkJbISYgp0Vipqa1VN50oTF/w+x7SL3XEAYGx63N5c0Q78MWjlKfVJqaulH5fmiRcUpNmyE/zeI8JKRws3/CCG/aJjoEaRjQWBIcHXqCokwGuernCOBrUbjmMgnNUwZNDQr9F1Dp7UAdOgpsLiIf3TZxUEFKP5zfaVBSUKywkEw3UT9Iv3UjNUOJb1NEfuIIM+gMgyq9vBfCuH+FbZAi4P/h00VVw1RgmeJL4RTSbXFnxZL+PIsoZ1FEE0vxaLH7Q3Uoab4idr9dfHdJjXLs8u1ia5uzXIPmqLlwNQspsEXEpd8fEU/O4Pgc0oW6wIz3m/whoMZpMIF4CQKyVqLZoYD3o5Zs1z+kHN/BvJQE4ok2gB+gNI9hz3D9qDLzNwjjR16wb15/eNlCw1JWxxEpSCyxHk+ODeI2YBgTesA7JxQCF2GgwlWah/NXCJJLbj2kZahYtFkMhKofvSVYONYeBxdARUDGeHh6d0pX9+b7CpDy65nZQUFnIttDZxlVCts5kHSK1I+fhvLEhDnijpyJO57sIo8ifEeN8I2JOcQDd2mtCS5kxMSEGDopO7h9X4EWfuWrSN7iGK5AWmX+6vOdY6kgIUlf/ZsUh9vQYILP+2jD4tMrG256z0vSudLvPz7EgwwRKPeBRq7a1JS4G2eQrgz+61/EKaMV21LHLKvJuvEfi1YNqB/ly3puLMV1WRHAlMWDLcATHpwjgDXquOp1BaqOzlzg0XCZ76EQhOlp7vzT3vhBAvNFxtXpHsCzJymNOhR9+g8tvDpP46pszN4Py5mF+84Zifx8PNLA5PEnUS2R6XFd9wvyEP9hy80diclpRYFzgcr9rNqfLCFfinXoM/qd90uqIdoEyRe4QGxw+NBIYZX5V0svrM7FZsP9c5x3J3cFC6+fpKDdvxOSPFrfY3hGN57rirYpVl1NtD0oEoKyg742tBsXD2aIJfWIgAPG6fLvlC7KkgDK2ZSyURXQ16ndVaeiKklwODY6hSYYVSO5ZWrmZVRpKImAsk33xMTFIDQ4bHmlnDRAYqLEpFw8A/Xcas">
   <script type="text/javascript"> 
       //<![CDATA[
       if (window.WebForm_InitCallback) { 
