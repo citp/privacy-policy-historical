@@ -1,87 +1,64 @@
-> *The following text is extracted and transformed from the yournewswire.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605064723id_/http%3A//yournewswire.com/terms-and-conditions/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yournewswire.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216215828id_/http%3A//yournewswire.com/website-terms-of-use/privacy) for the most accurate reproduction.*
 
-# Privacy | Your News Wire
+# Privacy Policy - Your News Wire
 
-What information do we collect?
+Protecting your private information is our priority. This Statement of Privacy applies to the YourNewsWire.com and The People’s Voice, Inc and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to The People’s Voice, Inc include YourNewsWire.com and The People’s Voice. The People’s Voice website is a breaking news, entertainment, and politics site. By using the The People’s Voice website, you consent to the data practices described in this statement.
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
+  **Collection of your Personal Information**  
+The People’s Voice may collect personally identifiable information, such as your name. The People’s Voice may also collect anonymous demographic information, which is not unique to you, such as your age, gender, household income and political affiliation. We may gather additional personal or non-personal information in the future.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, and country. You may, however, visit our site anonymously.
+  Information about your computer hardware and software may be automatically collected by The People’s Voice. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the The People’s Voice website.
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+  Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through The People’s Voice’s public message boards, this information may be collected and used by others.
 
-What do we use your information for?
+  The People’s Voice encourages you to review the privacy statements of websites you choose to link to from The People’s Voice so that you can understand how those websites collect, use and share your information. The People’s Voice is not responsible for the privacy statements or other content on websites outside of the The People’s Voice website.
 
-Any of the information we collect from you may be used in one of the following ways:
+  **Use of your Personal Information**  
+The People’s Voice collects and uses your personal information to operate its website(s) and deliver the services you have requested.
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs)
+  The People’s Voice may also use your personally identifiable information to inform you of other products or services available from The People’s Voice and its affiliates. The People’s Voice may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  The People’s Voice does not sell, rent or lease its customer lists to third parties.
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+  The People’s Voice may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. The People’s Voice may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to The People’s Voice, and they are required to maintain the confidentiality of your information.
 
-• To process transactions  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  The People’s Voice may keep track of the websites and pages our users visit within The People’s Voice, in order to determine what The People’s Voice services are the most popular. This data is used to deliver customized content and advertising within The People’s Voice to customers whose behavior indicates that they are interested in a particular subject area.
 
-• To administer a contest, promotion, survey or other site feature  
-• To send periodic emails  
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.  
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
+  The People’s Voice will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on The People’s Voice or the site; (b) protect and defend the rights or property of The People’s Voice; and, (c) act under exigent circumstances to protect the personal safety of users of The People’s Voice, or the public.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+  **Use of Cookies**  
+The The People’s Voice website may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-How do we protect your information?
+  One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize The People’s Voice pages, or register with The People’s Voice site or services, a cookie helps The People’s Voice to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same The People’s Voice website, the information you previously provided can be retrieved, so you can easily use the The People’s Voice features that you customized.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information.
+  You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the The People’s Voice services or websites you visit.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required toï¿½keep the information confidential.
+  **Security of your Personal Information**  
+The People’s Voice secures your personal information from unauthorized access, use or disclosure.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+  **Children Under Thirteen**  
+The People’s Voice does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
 
-Do we use cookies?
+  **Opt-Out & Unsubscribe **  
+We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from The People’s Voice by contacting us here:  
+– Web page: [http://yournewswire.com/contact/ ](http://yournewswire.com/contact/)  
+– Email: [sean@yournewswire.com](mailto:sean@thepeoplesvoice.tv)  
+– Phone: (424) 666-1274
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+  **Changes to this Statement**  
+The People’s Voice will occasionally update this Statement of Privacy to reflect company and customer feedback. The People’s Voice encourages you to periodically review this Statement to be informed of how The People’s Voice is protecting your information.
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+  **Contact Information**  
+The People’s Voice welcomes your questions or comments regarding this Statement of Privacy. If you believe that The People’s Voice has not adhered to this Statement, please contact The People’s Voice at:
 
-Do we disclose any information to outside parties?
+  The People’s Voice, Inc  
+450 North Rossmore Avenue  
+Los Angeles, California 90004
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+  Email Address:  
+sean@yournewswire.com
 
-Your IP address is not considered personally identifiable information as it would require a court order to determine your identity from your IP address. Therefor your IP address my be disclosed to 3rd party partners or to the public in general at the discretion of the administration of this website.
+  Telephone number:  
+(424) 666-1274
 
-Third party links
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-California Online Privacy Protection Act Compliance
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
-
-Childrens Online Privacy Protection Act Compliance
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-Online Privacy Policy Only
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-Terms and Conditions
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.yournewswire.com
-
-Your Consent
-
-By using our site, you consent to our online privacy policy.  
-Changes to our Privacy Policy
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
-
-This policy was last modified on 8-23-2014
-
-admin@yournewswire.com
+  _Effective as of August 04, 2014_
