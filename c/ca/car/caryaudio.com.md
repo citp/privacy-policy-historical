@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caryaudio.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610030236id_/http%3A//www.caryaudio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caryaudio.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216120102id_/http%3A//www.caryaudio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cary Audio
 
@@ -46,3 +46,6 @@ We take reasonable and appropriate steps to protect your personal information fr
 **Enforcement of this Privacy Statement**
 
 If you have comments or questions with respect to this statement, please [contact us](http://caryaudio.com/contact-us/ "Contact Us").
+
+  *   *   *   *   *   * 
+
