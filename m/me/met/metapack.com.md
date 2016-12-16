@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metapack.com privacy policy that was archived on 2016-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160113065336id_/http%3A//www.metapack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metapack.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216044703id_/http%3A//www.metapack.com/privacy) for the most accurate reproduction.*
 
-# MetaPack | Privacy Policy
+# MetaPack Official | eCommerce Delivery Management Software | Privacy Policy
 
 Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. By using the site, you are accepting the practices described in this privacy policy.
 
