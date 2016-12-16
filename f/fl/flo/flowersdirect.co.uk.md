@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flowersdirect.co.uk privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602170138id_/http%3A//www.flowersdirect.co.uk/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowersdirect.co.uk privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216060929id_/http%3A//www.flowersdirect.co.uk/page/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies | Flowersdirect.co.uk
 
@@ -22,12 +22,15 @@ This policy (together with our [Terms and Conditions](https://web.archive.org/pa
 We may collect two types of information from users of this Website:
 
 (i) " _ **Personal Information**_ " (including, but not limited to), your name, date of birth, address, telephone number (including mobile number), credit card information or e-mail address; and  
-(ii) anonymous " _ **Non-Personally Identifiable Information**_ " (such as information about how many users log on to our Website). The personal information we may collect and process includes: 
+(ii) anonymous " _ **Non-Personally Identifiable Information**_ " (such as information about how many users log on to our Website). The personal information we may collect and process includes:
 
   
 
 
   * Personal details that you provide by filling in forms on our Website, information provided at the time of registering to use our Website, subscribing to our services or requesting further services, including, but not limited to, your name, date of birth, address, telephone number (including mobile number), credit card information or e-mail address;
+  
+
+  * Recipient details that you provide when placing your order, including name, address and any contact telephone numbers. However, this detail will not be used for direct marketing purposes.
   
 
   * Details of your visits to our Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access;
@@ -101,7 +104,7 @@ If you would like to opt-out of Flowers Direct contacting you for marketing purp
 
 The personal information we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfillment of an order on your behalf, the processing of your payment details or provision of support or other services.
 
-By submitting your personal information, you agree to this transfer, storing, or processing. We will take all steps reasonably necessary to ensure that your personal information is treated securely and in accordance with this privacy policy.
+By submitting your personal information, you aggress to this transfer, storing, or processing. We will take all steps reasonably necessary to ensure that your personal information is treated securely and in accordance with this privacy policy.
 
   
 
@@ -121,7 +124,7 @@ While no data transmission over the Internet is 100% secure, the security of our
 
 ### What are 'Cookies'
 
-We may use technology to track the patterns of behaviour of registered and non-registered visitors to our site. This can include using a "cookie" which is a small file stored on your browser. The information collected in this way can be used to identify you unless you modify your browser to prevent this happening - guidance for which is set out below. We also aggregate this data to perform statistical analyses of the characteristics and behaviour of our Website visitors. Cookies are also used as a further means of ensuring private and secure purchase sessions are operated within the Website.
+We may use technology to track the patterns of behaviour of registered and non-registered visitors to our site. This can incluse using a "cookie" which is a small file stroed on your browser. The information collected in this way can be used to identify you unless you modify your browser to prevent this happening - guidance for which is set out below. We also aggregate this data to perform statistical analyses of the characteristics and behaviour of our Website visitors. Cookies are also used as a further means of ensuring private and secure purchase sessions are operated within the Website.
 
 We may use third-party advertising companies to serve advertisements on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. Your browser can be modified to not accept cookies - guidance for which is provided in the paragraph below.
 
@@ -132,8 +135,9 @@ We are currently developing the ability for you to select which cookies you are 
   
 | Quantity  
 ---|---  
-Cookies essential for placing your order| 5  
-Cookies for analytics| 7  
+Cookies essential for placing your order| 11  
+Cookies for analytics| 4  
+Cookies for marketing| 5  
   
 
 
@@ -144,12 +148,12 @@ Cookies for analytics| 7
 
 We have a legal obligation to ensure that the personal information is kept accurate and up to date. Please assist us to comply with this obligation by informing us of any changes to the personal information. You have the right to request details of the information we hold about you and to delete or rectify any inaccurate information about you by sending us a written request to:
 
-Customer Liaison   
+Customer Liasion   
 Flowers Direct   
 Watergate   
 Sleaford   
 Lincolnshire   
-NG34 7TB 
+NG34 7TB
 
 Please state your full name and your address.
 
