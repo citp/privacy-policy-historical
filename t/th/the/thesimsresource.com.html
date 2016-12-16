@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the thesimsresource.com privacy policy that was archived on 2016-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160331225000id_/http%3A//www.thesimsresource.com/helpcenter/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thesimsresource.com privacy policy that was archived on 2016-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161216131526id_/http%3A//www.thesimsresource.com/helpcenter/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" style=""><!--<![endif]--><head>
+<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" style=""><!--<![endif]--><head><script src="https://asset.pagefair.net/ads.min.js"></script><script src="https://asset.pagefair.com/measure.min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" type="text/javascript" src="https://m2d.m2.ai/m2hb.TSR.desktop.frontpage-ROS.js"></script>
 	<meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title>Privacy Policy</title>
@@ -24,7 +24,6 @@
 	<link rel="image_src" href="http://www.thesimsresource.com/images/top/logo.png">
     <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/klllmnhkmfbagjmjnlcoffjkeklnkoko">
 	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,600" rel="stylesheet" type="text/css">
-     <script src="https://asset.pagefair.net/ads.min.js"></script><script src="https://asset.pagefair.com/measure.min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://d2kkl4buashh8c.cloudfront.net/ads/ads.js"></script>
         <link type="text/css" href="/merge/global.css?cv=12" media="all" rel="stylesheet">
 
         <link type="text/css" href="/css/merge/page/support.css?cv=12" media="all" rel="stylesheet">
@@ -33,100 +32,190 @@
     	<script type="text/javascript">
     var forceLogout = false;
         	    </script>
-
     <script type="text/javascript" src="/merge/global.js?cv=12"></script>
 <script type="text/javascript" src="/merge/local.js?cv=12"></script>
 
- 	<script type="text/javascript">
-            
-        //Start DFP code sync DFP
-        if( forceLogout || !isVIP()) {
-          var isHttps = 'https:' === document.location.protocol;
-          var sonobiSrc = isHttps ? 'https://':'http://'+ 'mtrx.go.sonobi.com/morpheus_sync.tsr.js';
-          document.write('<scr' + 'ipt src="' + sonobiSrc + '"></scr' + 'ipt>');
-      }
-      
-    </script><script src="https://"></script>
 
  	<script type="text/javascript">
      var src = '/css/merge/page/nonsubscriber.css';
      if(!isLoggedIn() || forceLogout) src = '/css/merge/page/notloggedin.css';
      else if(isVIP()) src = '/css/merge/page/subscriber.css';
+     console.log("Loading spec css "+src);
      document.write('<lin' + 'k type="text/css" href="'+src+'" media="all" rel="stylesheet" /'+'>');
+   </script><link type="text/css" href="/css/merge/page/notloggedin.css" media="all" rel="stylesheet">
 
-                  
-   //Start DFP code
-	if( forceLogout || !isVIP()) {
-	  (function() {
-	   var useSSL = 'https:' == document.location.protocol;
-       var src = '//ox-d.monetizemore.servedbyopenx.com/w/1.0/jstag?nc=88938325-TheSimsResource';
-	   document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-	   src = (useSSL ? 'https:' : 'http:') +       '//www.googletagservices.com/tag/js/gpt.js';
-	   document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-	   })();
-       window.displayAd = function(elmId) {
-            googletag.display(elmId);
-       };
+ 	<script type="text/javascript">
+    
+    //Default to not displaying ads
+    window.googletag = window.googletag || {};
+	googletag.cmd = googletag.cmd || [];
+    window.displayAd = function(elmId) {
+      window.googletag.cmd.push(function() {
+        console.log("Display ad "+elmId);
+        window.googletag.display(elmId);
+      });
+    };
+    window.m2hb = window.m2hb || {};
+    m2hb.que = m2hb.que || [];
+    m2hb.ssl = 'https:' == document.location.protocol;
+    window.M2_TIMEOUT = 1000;
+    m2hb.maxRetries = 20;
+    m2hb.retries = 0;
 
-	} else {
-	  googletag = {};
-	  googletag.cmd = [];
-	  window.displayAd = function(elmId) {
-		console.log('Do not display '+elmId);
-	  }
-	}
+    m2hb.loadJS = function(src, async) {
+        m2hb.loadedJS = m2hb.loadedJS || [];
+        m2hb.loadedJS.push(src);
+        (function() {
+         var script = document.createElement("script");
+         script.async = async || true;
+         script.type = "text/javascript";
+         script.src = (m2hb.ssl ? 'https:' : 'http:') + src;
+         var target = document.getElementsByTagName("head")[0];
+         target.insertBefore(script, target.firstChild);
+         })();
+    };
+    if (typeof m2hb.initAdserver == 'undefined') {
+        m2hb.initAdserver = function() {
+            if (m2hb.initAdserverSet) return;
+            if (typeof m2hb.timeRemaining == 'undefined') {
+                m2hb.timeRemaining = M2_TIMEOUT;
+            }
+            if (m2hb.timeRemaining > 0) {
+                m2hb.timeRemaining -= 100;
+                if (!m2hb.m2hbBidsReady) {
+                    setTimeout(function() {m2hb.initAdserver();}, 100);
+                    return;
+                }
+            }
+            if (!googletag.pubadsReady && (m2hb.retries <= m2hb.maxRetries)) {
+                m2hb.retries++;
+                setTimeout(function() {m2hb.initAdserver();}, 50);
+                return;
+            }
+            m2hb.initAdserverSet = true;
+            googletag.cmd.push(function () {
+                m2hb.que.push(function () {
+                    m2hb.setTargetingForGPTAsync();
+                });
+                googletag.pubads().refresh();
+            });
+        };
+    }
+    
         
-          	</script><link type="text/css" href="/css/merge/page/notloggedin.css" media="all" rel="stylesheet"><script src="//ox-d.monetizemore.servedbyopenx.com/w/1.0/jstag?nc=88938325-TheSimsResource"></script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+      //Begin ad codes
+      if( forceLogout || !isVIP()) {
+        var M2EL_SRC = "//m2d.m2.ai/m2hb.TSR.desktop.frontpage-ROS.js";
+        var adConfig = { newhbs: true };
+        if(!adConfig) adConfig = {};
 
-	<script type="text/javascript">
-	
-	if( forceLogout || !isVIP()) {
-    
-          	googletag.pubads().set("adsense_background_color", "EDEDED");
-	googletag.pubads().set("page_url", "http://www.thesimsresource.com/helpcenter/privacy");
-      	}
-	</script>
-	<script type="text/javascript">
-      
-	if( forceLogout || !isVIP()) {
-      
-                                          googletag.defineSlot('/88938325/RestOfSite-LEADER-ATF-TOP', [[728, 90],[930, 180],[970, 66],[970, 90],[970, 250],[980, 120],[980, 240]], 'div-gpt-ad-1425592159215-18').addService(googletag.pubads());
-                              googletag.defineSlot('/88938325/RestOfSite-RECTANGLE-ATF-TOP', [[300, 250],[300, 600]], 'div-gpt-ad-1425592159215-21').addService(googletag.pubads());
-                              googletag.defineSlot('/88938325/RestOfSite-RECTANGLE-BTF-MID1', [[300, 250]], 'div-gpt-ad-1425592159215-22').addService(googletag.pubads());
-                              googletag.defineSlot('/88938325/RestOfSite-RECTANGLE-BTF-MID2', [[300, 250]], 'div-gpt-ad-1425592159215-23').addService(googletag.pubads());
-                              googletag.defineSlot('/88938325/RestOfSite-RECTANGLE-BTF-MID3', [[300, 250]], 'div-gpt-ad-1425592159215-24').addService(googletag.pubads());
-                              googletag.defineSlot('/88938325/RestOfSite-LEADER-BTF-MID', [[728, 90],[930, 180],[970, 66],[970, 90],[970, 250],[980, 120],[980, 240]], 'div-gpt-ad-1425592159215-20').addService(googletag.pubads());
-                              googletag.defineSlot('/88938325/RestOfSite-LEADER-BTF-BOT', [[728, 90],[930, 180],[970, 66],[970, 90],[970, 250],[980, 120],[980, 240]], 'div-gpt-ad-1425592159215-19').addService(googletag.pubads());
-                              googletag.defineSlot('/88938325/Sitewide-SITESKIN', [[1, 1]], 'div-gpt-ad-1425592159215-25').addService(googletag.pubads());
-              
-      		googletag.pubads().enableSyncRendering();
-      		googletag.enableServices();
-                            sbi_morpheus.register('div-gpt-ad-1425592159215-18', '567ba81165dcc156ad74');
-                            sbi_morpheus.register('div-gpt-ad-1425592159215-21', '6bc556744597ed84a08f');
-              		sbi_morpheus.callOperator();
-          	
-	}
-	
-	</script>
-    	<script type="text/javascript">
-    	if(!isVIP()) sbi_morpheus.setKeys();
-	</script>
-    <!-- End DFP code -->
+        function initAdserver() {
+            if(adConfig.newhbs) return m2hb.initAdserver();
+            if (m2hb.initAdserverSet) {
+                console.log('NOT loading gpt');
+                return;
+            }
+            (function() {
+                var gads = document.createElement('script');
+                gads.async = true;
+                gads.type = 'text/javascript';
+                var useSSL = 'https:' == document.location.protocol;
+                gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+                var node = document.getElementsByTagName('script')[0];
+                node.parentNode.insertBefore(gads, node);
+            })();
+            m2hb.initAdserverSet = true;
+        };
+        function initM2H() {
+          var m2El = document.createElement("script"); m2El.type = "text/javascript";
+          m2El.async = true; var isHttps = 'https:' === document.location.protocol;
+          m2El.src = (isHttps ? "https://" : "http://") + M2EL_SRC;
+          var m2TargetEl = document.getElementsByTagName("head")[0];
+          m2TargetEl.insertBefore(m2El, m2TargetEl.firstChild);
+        };
+        if(!adConfig.newhbs) {
+            initM2H();
+            setTimeout(initAdserver, M2_TIMEOUT);
+        } else {
+            m2hb.loadJS(M2EL_SRC);
+            googletag.cmd.push(function () {
+              googletag.pubads().disableInitialLoad();
+              m2hb.disabledGptInitialLoad = true;
+            });
+        }
 
+        googletag.cmd.push(function() {
+          googletag.pubads().set("adsense_background_color", "EDEDED");
+          googletag.pubads().set("page_url", "http://www.thesimsresource.com/helpcenter/privacy");
+          var adsLoadedEventTimer = 0;
+          var adsDisplayed = false;
+          var timeNow = new Date().getTime();
+          googletag.pubads().addEventListener('impressionViewable', function(event) {
+              var impressionTime = (new Date().getTime() - timeNow);
+              console.log("Impression viewable "+impressionTime+" ms");
+              $('body').removeClass('has-adblock');
+              window.isAdBlocked = false;
+              if(window.sessionStorage) {
+                window.sessionStorage.loadedAds = 3;
+              }
+              window.iHaveLoadedAds = true;
+              if(adsDisplayed) return;
+              if(adsLoadedEventTimer) {
+                  clearTimeout(adsLoadedEventTimer);
+              }
+              adsLoadedEventTimer = setTimeout(function() {
+                      adsDisplayed = true;
+                      if(window.onAdsLoaded) window.onAdsLoaded();
+              }, 300); //impressionTime > 5000 ? 0 : 2000);
+          });
+        });
+
+        if(adConfig.newhbs) {
+            m2hb.loadJS('//www.googletagservices.com/tag/js/gpt.js');
+            m2hb.initAdserver();
+        }
+
+        googletag.cmd.push(function() {
+                                                                                          googletag.defineSlot('/88938325/RestOfSite-LEADER-ATF-TOP', [[728, 90],[930, 180],[970, 66],[970, 90],[970, 250],[980, 120],[980, 240]], 'div-gpt-ad-1425592159215-18').addService(googletag.pubads());
+                                        googletag.defineSlot('/88938325/RestOfSite-RECTANGLE-ATF-TOP', [[300, 250],[300, 600]], 'div-gpt-ad-1425592159215-21').addService(googletag.pubads());
+                                        googletag.defineSlot('/88938325/RestOfSite-RECTANGLE-BTF-MID1', [[300, 250]], 'div-gpt-ad-1425592159215-22').addService(googletag.pubads());
+                                        googletag.defineSlot('/88938325/RestOfSite-RECTANGLE-BTF-MID2', [[300, 250]], 'div-gpt-ad-1425592159215-23').addService(googletag.pubads());
+                                        googletag.defineSlot('/88938325/RestOfSite-RECTANGLE-BTF-MID3', [[300, 250]], 'div-gpt-ad-1425592159215-24').addService(googletag.pubads());
+                                        googletag.defineSlot('/88938325/RestOfSite-LEADER-BTF-MID', [[728, 90],[930, 180],[970, 66],[970, 90],[970, 250],[980, 120],[980, 240]], 'div-gpt-ad-1425592159215-20').addService(googletag.pubads());
+                                        googletag.defineSlot('/88938325/RestOfSite-LEADER-BTF-BOT', [[728, 90],[930, 180],[970, 66],[970, 90],[970, 250],[980, 120],[980, 240]], 'div-gpt-ad-1425592159215-19').addService(googletag.pubads());
+                                        googletag.defineSlot('/88938325/Sitewide-SITESKIN', [[1, 1]], 'div-gpt-ad-1425592159215-25').addService(googletag.pubads());
+                    
+          if(!adConfig.newhbs) {
+              m2hb.que.push(function() {
+                m2hb.setTargetingForGPTAsync();
+              });
+          } else {
+              googletag.pubads().enableSingleRequest();
+          }
+          googletag.enableServices();
+        });
+      } //End ad codes
     
-               <script type="text/javascript" src="/js/controllerspecific/feedback.js"></script>
-          
-<style media="all"></style><style media="all">.flex-direction-nav .flex-disabled{}
+    	</script>
+
+                <script type="text/javascript" src="/js/controllerspecific/feedback.js"></script>
+        <style media="all"></style><style media="all">.flex-direction-nav .flex-disabled{}
 @media screen and (max-width:860px){}.input-button,.button{}
 .button-green,.message-bar-green{}
 .button-blue{}
 .button-white,.button-select{-ms-filter:none;-webkit-filter:none;-moz-filter:none;-o-filter:none;filter: none;}
 .button-fb{-ms-filter:none;-webkit-filter:none;-moz-filter:none;-o-filter:none;filter: none;}
 .mfp-bg{}
-@media all and (max-width:900px){}@media min-width:320px) and (max-width:500px){}@media min-width:500px){}</style><style media="all"></style><style media="all"></style></head> 
-<body class="has-adblock">
-<div id="eucookie" style="background:#95c11f;color:#fff;padding:12px 20px 15px;width:100%;display:none;">
-<div style="width:100%;max-width:940px;margin:0 auto;"><span id="eucookieclose" class="icon-close pull-right"></span>We use cookies on this site to give you the best experience possible. By continuing to use this site you accept our cookie policy. <br>You can always change your cookie settings at any time, <a href="http://test.thesimsresource.com/helpcenter/privacy" style="color:#fff;font-weight:bold;">read more about this in our privacy policy</a>. Thank you!</div> 
+@media all and (max-width:900px){}@media min-width:320px) and (max-width:500px){}@media min-width:500px){}</style><style media="all"></style><style media="all">@media min-width: 320px) and (max-width: 500px) {}</style></head><body>
+<div style="height:0px;" class="siteskin">
+<div id="div-gpt-ad-1425592159215-25">
+<script type="text/javascript">
+  window.displayAd('div-gpt-ad-1425592159215-25');
+</script>
+</div>
+ </div>
+<div id="eucookie" style="background: rgb(149, 193, 31); color: rgb(255, 255, 255); padding: 12px 20px 15px; width: 100%;">
+<div style="width:100%;max-width:940px;margin:0 auto;"><span id="eucookieclose" class="icon-close pull-right"></span>We use cookies on this site to give you the best experience possible. By continuing to use this site you accept our cookie policy. <br>You can always change your cookie settings at any time, <a href="http://test.thesimsresource.com/helpcenter/privacy" style="color:#fff;font-weight:bold;">read more about this in our privacy policy</a>. Thank you!</div>
 </div>
 	<!--[if lt IE 8]>
 		<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
@@ -135,7 +224,7 @@
         <div id='noscript' class='center'>
             <h1>Javascript is disabled in your web browser!</h1>
             <p>This site will not work without Javascript. Go to <a href='http://www.activatejavascript.org/' target='_blank'>http://www.activatejavascript.org/</a> to learn how to enable it.</p>
-        </div> 
+        </div>
     </noscript>
         <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
 <script>
@@ -523,35 +612,34 @@
             </ul>
         </li>
     </ul>
-</div><!-- /dl-menuwrapper -->        	 
-        <!-- Content -->
-		        <!--<div id="pushdown" style="margin:20px auto 0;width:970px;position:relative;line-height:0;">  
+</div><!-- /dl-menuwrapper -->                <!-- Content -->
+		        <!--<div id="pushdown" style="margin:20px auto 0;width:970px;position:relative;line-height:0;">
               
 				<script type="text/javascript" language="JavaScript">
 				if(!isVIP()) {
 				  (function() {
-                    var useSSL = 'https:' == document.location.protocol;  
+                    var useSSL = 'https:' == document.location.protocol;
 					var country = getCountry();
                     var isUK = isDE = false;
 					var glam_affiliate_id = '1674217084';
                     if(country && country == 'GB') {
                         isUK = true;
-                        glam_affiliate_id = '1669141992'; 
+                        glam_affiliate_id = '1669141992';
                     }
                     else if(country && country == 'DE') {
                         isDE = true;
-                        glam_affiliate_id = '1697299720'; 
+                        glam_affiliate_id = '1697299720';
                     }
                     var src2 = (useSSL ? 'https:' : 'http:') +       '//www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&affiliateId='+glam_affiliate_id+'&adSize=728x91';
-                    document.write('<scr' + 'ipt src="' + src2 + '"></scr' + 'ipt>');  
+                    document.write('<scr' + 'ipt src="' + src2 + '"></scr' + 'ipt>');
                     //if(!isDE && !isUK) {
                         var src = (useSSL ? 'https:' : 'http:') +       '//www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&affiliateId='+glam_affiliate_id+'&adSize=970x66';
                         document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
                     //}
-                  })(); 
-                } 
+                  })();
+                }
 				</script>
-				 
+				
         </div>-->
                 <div class="ad-topleader" style="margin-top:20px;">
         	<div id="be-nice" style="display:none;">
@@ -566,7 +654,7 @@
 </div>
             </div>
 		</div>
-                		<div class="wrapper group" style="margin-top:0;"> 
+                		<div class="wrapper group" style="margin-top:0;">
 						<h1>Privacy Policy</h1>
 <hr>
 <div class="content-posts">
@@ -574,7 +662,7 @@
 		<script language="javascript">if ( auth_isAdmin('content') ) document.write('<a href="javascript:void(0);" onclick="javascript:$(\'div_admin_\').toggle();">Admin</a><div id="div_admin_" style="display:none;" class="admindiv"><a href="javascript:void(0);" onclick="javascript:$(\'div_admin_\').toggle();" class="adminclose">X</a><a href="javascript:content_feature();">Feature this!</a><br /><a href="javascript:void(0);" onclick="javascript:$(\'div_admin_\').toggle();LightBox.LoadTemplate(\'/categories/setcategories/section/content/path/content/id//\',true);">Edit Categories</a><br /><a target="_blank" href="http://v7admin.thesimsresource.com/content/edit-post/post/">Full Edit</a></div>');</script>
             </div>
     <div class="content-info">
-    	<span class="content-channel">Help</span><span>Author: SteveB</span><span>Published: Sep 18, 2007</span><span>Views: 188206</span>
+    	<span class="content-channel">Help</span><span>Author: SteveB</span><span>Published: Sep 18, 2007</span><span>Views: 290348</span>
     </div>
 	<div class="content-post" id="blog-posts">
 			
@@ -619,7 +707,7 @@
 		</div>
         <!-- [END] Content -->
         <!-- Message box -->
-         <div class="md-modal md-effect-1" id="md-modal-benice"> 
+         <div class="md-modal md-effect-1" id="md-modal-benice">
             <div class="md-content">
                 <h1>Ad-blocker plugin detected</h1>
                 <div class="be-nice">
@@ -630,7 +718,7 @@
                     <p>For as little as $3.50 per month you can become a VIP member. This lets you use our service free of all ads and unlocks access to our popular Download Basket and Quick Download features.</p>
                     <p><a href="/shop/" class="button button-300 button-green">Become a VIP member now</a><br>
                     <a href="javascript:void();" class="button button-300 md-close button-white">Proceed to download</a></p>
-                </div>        
+                </div>
             </div>
         </div>
         <!-- [END] Message box -->
@@ -640,7 +728,7 @@
 				<a href="javascript:void();" class="icon-close md-close" style="position:absolute;top:15px;right:15px;color:#fff;font-size:24px;text-decoration:none;z-index:9999;"></a>
                 <h1>Log in to TSR</h1>
                 <div>
-                  <form id="loginForm" method="post">			
+                  <form id="loginForm" method="post">
                       <div id="loginload" style="display:none;padding-top:10px;">
                           <center><img id="loginSpinner" src="/images/v8/global/ajax-loader.gif" alt="Please wait - loading..."></center>
                           <div id="loginErrorTpl" style="display:none;">
@@ -656,13 +744,13 @@
                           <input name="email" id="loginEmail" type="text" class="text-field"></p>
                           <p><label for="fldPasswordL" class="c_l f_l bold small m6l">Password:</label><br>
                           <input id="fldPasswordL" name="password" type="password" class="text-field"></p>
-                          <p><input id="fldRemember" type="checkbox"> <label for="fldRemember">Stay logged in</label></p>		
+                          <p><input id="fldRemember" type="checkbox"> <label for="fldRemember">Stay logged in</label></p>
                           <p><input type="button" id="loginbtn" class="loginbtn input-button button-300" value="Click Here to Log In"></p>
                       </div>
                   </form>
                   <a href="/ajax.php?a=facebookLogin&amp;c=account" class="button button-fb button-300">Sign in with Facebook</a>
                   <hr>
-                  <div id="loginMsg"> 
+                  <div id="loginMsg">
                       <p><strong>Not a Member yet?</strong><br><br>
                       <a href="/account/signup" id="createAccountLink">Click here to Register now</a><span class="icon-rightarrow"></span></p>
                   </div>
@@ -685,18 +773,11 @@
         <div class="md-overlay"></div>
         <div style="display:none;">
             <div id="basketDiv" class="b0055 bx5">
-                <img src="/images/v8/global/ajax-loader.gif" class="basketload" alt="Please wait - loading...">	
+                <img src="/images/v8/global/ajax-loader.gif" class="basketload" alt="Please wait - loading...">
             </div>
         </div>
-        
+
         <!-- [END] Login & Signup -->
-        <div class="siteskin">
-            <div id="div-gpt-ad-1425592159215-25">
-<script type="text/javascript">
-  window.displayAd('div-gpt-ad-1425592159215-25');
-</script>
-</div>
-			         </div> 
             <!-- Start Analytics tag -->
 <script type="text/javascript">
   var gaPageName = '';
@@ -754,51 +835,12 @@ _qevents.push({ qacct:"p-1KJK1dXEM02SP" });
 </noscript>
 <!-- End Quantcast tag -->
 
-    
-<!-- Start Forensiq -->
- <!--   
-    <script src="//c.securepaths.com/js/implement-r.js?org=brafukufa4a6e2hepruf&p=thesimsresource.com&rt=click&sl=1"></script>
-    -->
-    <!-- End Forensiq -->
+
 <!-- Footer -->
-<div id="footer" class="group"> 
+<div id="footer" class="group">
 	<div class="footer-wrapper group">
 		<div id="footer-about">
 			<img src="/images/v9/footer-logo.png" class="footer-logo">TSR started August 1999 as the very first The Sims fansite. Today it’s the largest The Sims community in the world. We offer more custom content than any other site and it's all for free!
-			<div class="footer-glam">
-				<script type="text/javascript" language="JavaScript">
-					glam_affiliate_id = '1674217084';
-					glam_logo_type = 'GEnter';
-					glam_logo_size = '160x24';
-					color_or_grayscale_flag ='_gs';
-					glam_logo_color = 'wht';
-					glam_gs_logo_color = 'blk';
-					glam_logo_country = 'US';
-                    
-if(!isVIP()) {
-  (function() {
-      var country = getCountry();
-      var isUK = isDE = false;
-      if(country && country == 'GB') {
-        window.glam_affiliate_id = '1669141992'; 
-        window.glam_logo_country = 'UK';
-        isUK = true;
-      }
-      else if(country && country == 'DE') {
-        isDE = true;
-        window.glam_affiliate_id = '1697299720';
-        window.glam_logo_country = 'DE';
-      }
-
-      var useSSL = 'https:' == document.location.protocol;
-      var src = (useSSL ? 'https:' : 'http:') +       '//www8.glam.com/js/widgets/glammedia_logo.js';
-      document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-      if(isDE) eval(glam_IVW.ivw());
-  })(); 
-} 
-
-					</script><script src="https://www8.glam.com/js/widgets/glammedia_logo.js"></script>
-			</div>
 		</div>
 		<div class="footer-innerwrap group">
 			<div id="footer-links" class="group">
@@ -807,35 +849,35 @@ if(!isVIP()) {
 					<li><a href="/about/index">About us</a></li>
 					<li><a href="/welcome/">Getting started</a></li>
 					<li><a href="/helpcenter/link">Link to us</a></li>
-					<li><a href="/helpcenter/advertise">Advertise with us</a></li>				
+					<li><a href="/helpcenter/advertise">Advertise with us</a></li>
 					<li><a href="/helpcenter/staff">Site Staff</a></li>
                     <li><a href="/badads/">Report Ads</a></li>
 					<li><!--clearCache--></li>
-                  <li class="up-arrow hideme"><a href="#logo"><span class="icon-uparrow"></span></a></li> 	
+                  <li class="up-arrow hideme"><a href="#logo"><span class="icon-uparrow"></span></a></li>
 				</ul>
-				<ul class="footer-social group"> 
+				<ul class="footer-social group">
 					<li>Follow us</li>
 					<li><a href="http://www.facebook.com/TheSimsResource">Facebook</a></li>
 					<li><a href="http://www.twitter.com/TheSimsResource">Twitter</a></li>
-					<li><a href="http://www.youtube.com/Thesimsresource">YouTube</a></li>		
+					<li><a href="http://www.youtube.com/Thesimsresource">YouTube</a></li>
 				</ul>
 			</div>
 			<div id="footer-stats" class="group">
 				<div>
 					<span>Monthly Users</span>
-					<h1>984.566</h1>
+					<h1>1.5M+</h1>
 				</div>
 				<div>
 					<span>Uploaded Creations</span>
-					<h1>879,346</h1>
+					<h1>1M+</h1>
 				</div>
 				<div>
 					<span>Monthly Visits</span>
-					<h1>3.085.647</h1>
+					<h1>5M+</h1>
 				</div>
 				<div>
 					<span>Active Artists</span>
-					<h1>8.976</h1>
+					<h1>10k+</h1>
 				</div>
 			</div>
 			<div id="footer-legal">
@@ -843,7 +885,7 @@ if(!isVIP()) {
 					<li><a href="/helpcenter/privacy">Privacy</a></li>
 					<li><a href="/helpcenter/terms">Terms of Use</a></li>
 					<li><a href="http://www.thesimsresource.com/helpcenter/privacy#cookies">Cookies</a></li>
-					<li class="footer-copyright">© 1999-2013 IBIBI HB - All rights reserved</li>	
+					<li class="footer-copyright">© 1999-2016 IBIBI HB - All rights reserved</li>
 				</ul>
 				<p>This site is not endorsed by or affiliated with Electronic Arts, or its licensors. Trademarks are the property of their respective owners. Game content and materials copyright Electronic Arts Inc. and its licensors. All Rights Reserved.</p>
 			</div>
@@ -851,7 +893,7 @@ if(!isVIP()) {
 	</div>
 	<img class="invisible" src="/tsrHitCounter.php" width="1" height="1">
 		
-    
+
 </div>
 <!-- [END] Footer -->
- <div id="tiptip_holder" style="max-width:200px;"><div id="tiptip_arrow"><div id="tiptip_arrow_inner"></div></div><div id="tiptip_content"></div></div></body></html>
+<div id="tiptip_holder" style="max-width:200px;"><div id="tiptip_arrow"><div id="tiptip_arrow_inner"></div></div><div id="tiptip_content"></div></div></body></html>
