@@ -1,116 +1,108 @@
-> *The following text is extracted and transformed from the gmac.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221202225id_/http%3A//www.gmac.com/gmac/privacypolicy/default%3FPreservePaths%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmac.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216060435id_/http%3A//www.gmac.com/about-us/privacy-statement.aspx) for the most accurate reproduction.*
 
-# GMAC®: Privacy Policy Highlights
+# The GMAC Privacy Statement
 
-**Last updated: September 26, 2011**
+Your privacy is important to GMAC. This Privacy Statement covers your use of any of our websites, products and services and our test takers, member schools, score report recipients, event attendees, research participants, and promotional participants and all other personal information we collect from you as described in more detail below. This Statement does not cover the NMAT by GMAC™ exam offered in India. Please click [here](http://www.nmat.org.in/privacy-policy-2016/) for that privacy policy. 
 
-[](http://www.gmac.com/gmac/PrivacyPolicy/privacypolicychinese.htm)**      [](http://www.gmac.com/gmac/PrivacyPolicy/frenchprivacypolicy.htm)     [](http://www.gmac.com/gmac/PrivacyPolicy/spanishprivacypolicy.htm)**
+We have developed our privacy program, including this statement, to protect your personal information and comply with applicable privacy laws and regulations. A guiding principle of our privacy policy is that we will only collect, use, and disclose your personal information in ways that are consistent with the context in which you have provided it. We encourage you to read the summaries in this Privacy Statement to learn more information on a particular topic.
 
-The Graduate Management Admission Council (GMAC) provides a privacy notice when collecting personal information and requires individuals to agree to our privacy policy. This notice provides highlights of the full [gmac.com Privacy Policy](http://www.gmac.com/gmac/PrivacyPolicy/FullPrivacyPolicy.htm) and is part of our overall [Terms and Conditions](http://www.gmac.com/gmac/privacypolicy/termsandconditions?PreservePaths=1). Users of gmac.com include:
+#### Personal Information We Collect
 
-  * Anonymous visitors 
-  * Professionals who register on gmac.com 
-  * Professionals from institutions that use the GMAT test or receive [GMAT score reports](http://www.gmac.com/gmac/TheGMAT/GMATScores/default.htm)
-  * Users of [GMAC products and services](http://www.gmac.com/gmac/SchoolServices/default.htm), including subscribers of the Graduate Management Admission Search Service (GMASS)
-  * Subscribers of [communications](http://www.gmac.com/gmac/NewsandEvents/default.htm) and [publications](http://www.gmac.com/gmac/NewsandEvents/default.htm)
-  * Participants of events and [surveys](http://www.gmac.com/gmac/ResearchandTrends/SurveyReports/default.htm) (see [Special Notes](http://www.gmac.com/gmac/PrivacyPolicy/SpecialNotes.htm)) 
-  * [GMAT score report recipients](http://www.gmac.com/gmac/TheGMAT/GMATScores/HowtoBecomeScoreReportRecipient.htm) (see [Special Notes](http://www.gmac.com/gmac/PrivacyPolicy/SpecialNotes.htm))
+We collect information from you in a variety of ways including when you visit our websites, take a test, use of our products and services, attend events, participate in research, or participate in promotions such as contests. We also gather information from member schools and from score report recipients. We also collect information about your use of our websites to improve your experience and the experience of all our visitors. [ **Learn more >**](https://web.archive.org/about-us/privacy-statement/personal-information-we-collect.aspx)
 
+#### Our Use of Personal Information
 
+Generally, GMAC uses your personal information for the following purposes: 
 
-You are not required to register with gmac.com in order to view much of the content on the site. However, to access a greater variety of [products and services](http://www.gmac.com/gmac/SchoolServices/default.htm) at gmac.com, we ask that you submit your personal information to GMAC. We clearly identify data you must provide so we can deliver the services you request. This information may include, but is not limited to the following:
-
-  * Basic contact information 
-  * [Profile](http://www.gmac.com/gmac/Service/GMACRegistration/BSORegistrationSummary.htm) opt-in preferences 
-  * Information about your graduate business school/program 
-  * Certain background information, such as demographics 
-  * Payment information required for purchases, subscriptions, and event registration 
-  * Data used to verify and authenticate your identity as a professional authorized to use certain [GMAC products and services](http://www.gmac.com/gmac/SchoolServices/default.htm).
+  * to administer our tests, other products, services, and events;
+  * to provide customer support;
+  * to conduct research and surveys, for product development, to operate our business;
+  * to communicate with you and for marketing and advertising purposes; and
+  * for the purposes described in the [Processing and Sharing Your Personal Information](https://web.archive.org/about-us/privacy-statement/sharing-your-personal-info.aspx) section. 
 
 
 
-[Learn More](http://www.gmac.com/gmac/PrivacyPolicy/InformationCollection.htm)
+We may also use personal information to simplify and/or improve our products and services. For example, account information you provide in one product or service may be used to populate account information in another product or service should you decide to use those other products or services. [ **Learn more >**](https://web.archive.org/about-us/privacy-statement/our-use-of-personal-information.aspx)
 
-We use the information we collect to:
+#### Processing and Sharing your Personal Information
 
-  * Allow you to create and update a [Profile](http://www.gmac.com/gmac/Service/GMACRegistration/BSORegistrationSummary.htm) with gmac.com 
-  * Administer the GMAT test
-  * Provide the [products and services](http://www.gmac.com/gmac/SchoolServices/default.htm) you request from gmac.com (e.g., GMASS, [MBA Pathfinder](http://www.gmac.com/gmac/SchoolServices/MBAPathfinder/default.htm), or the [Recruiting Calendar](http://www.gmac.com/gmac/SchoolServices/CalendarofEvents.htm)) 
-  * Determine eligibility for participation in events (see [Special Notes](http://www.gmac.com/gmac/PrivacyPolicy/SpecialNotes.htm)) 
-  * Manage event logistics and communications 
-  * Solicit [survey](http://www.gmac.com/gmac/ResearchandTrends/SurveyReports/default.htm) participation 
-  * Provide you with email alerts you have requested 
-  * Authenticate you as a valid professional from an institution that uses the GMAT test or receives [GMAT score reports](http://www.gmac.com/gmac/TheGMAT/GMATScores/HowtoBecomeScoreReportRecipient.htm) (see [Special Notes](http://www.gmac.com/gmac/PrivacyPolicy/SpecialNotes.htm)) 
-  * Contact you regarding [GMAC news](http://www.gmac.com/gmac/NewsandEvents/default.htm), graduate management industry updates, and [GMAC products and services](http://www.gmac.com/gmac/SchoolServices/default.htm), if you opt in 
-  * Email any individual to whom you send an email using our “Email-a-Friend” feature in certain online publications (Note: GMAC will not send any messages beyond the introduction communication without first obtaining opt-in consent from those individuals) 
-  * Enable you to fulfill your governance responsibilities, if applicable (see [Special Notes](http://www.gmac.com/gmac/PrivacyPolicy/SpecialNotes.htm)) 
-  * Enable you to participate in a GMAC committee, task force, or advisory group, if applicable 
-  * Maintain the integrity and quality of our [services](http://www.gmac.com/gmac/SchoolServices/default.htm), customize site content to meet your specific needs, and make technical improvements to gmac.com 
-  * Cooperate with others as required by law or in legal proceedings, and to detect or prevent fraud and unlawful activity
+We process, transfer, and share your personal information with your consent or as necessary to complete any transaction. We also use this information to provide any product or service you have requested or authorized. For example, when you register for the GMAT exam, we share your information with our test service provider to register you for the exam and for them to administer the exam on our behalf.
+
+We also share information with GMAC controlled subsidiaries (such as the Graduate Management Global Connection (UK) Ltd., Graduate Management Admission Council (India) Private Ltd., and Graduate Management Admission Council (HK) Ltd.), service providers working on our behalf (such as Pearson VUE), and strategic partners (such as the Forte Foundation and European Foundation for Management Development) who share our management education-related mission.
+
+We also process, transfer, and share your personal information to:  
 
 
-
-[Learn More](http://www.gmac.com/gmac/PrivacyPolicy/DataUsesandYourChoices.htm)
-
-GMAC has established a number of ways with which you may communicate with other users and with GMAC including responding to blog posts and submitting contact requests. All user communications made to or through gmac.com are referred to as "User-Submitted Content." For information concerning our use of User-Submitted Content, please see the gmac.com [Terms & Conditions](http://www.gmac.com/gmac/PrivacyPolicy/TermsAndConditions.htm).
-
-[Learn More](http://www.gmac.com/gmac/PrivacyPolicy/UserSubmittedContent.htm)
-
-GMAC is committed to the privacy and security of your personal information, and we protect it in the following ways:
-
-  * We utilize security safeguards, incorporated within an enterprise security program and administered by appropriate GMAC officials that combine administrative, technical, and physical safeguards over your data and our systems to protect your information from loss, unauthorized disclosure, misuse, alteration, or destruction. 
-  * Payments, registration, and all data transfers to third parties on gmac.com (e.g. Pearson VUE) are protected by SSL (Secure Socket Layer) encryption.
+  * protect and maintain the security of:  
+  \- our tests;  
+  \- our other products and services;  
+  \- our test takers and products and service users;  
+  \- our GMAC member institutions; and  
+  \- organizations that receive score reports and other information (such as GMAT score recipients and Reflect report recipients);
+  * prevent or detect fraud or other unlawful activity;
+  * when compelled by law to do so (such as by court order, investigation, or subpoena) or as required by legal proceedings (including defense of legal claims);
+  * as part of a corporate transaction such as a merger or sale of assets; or
+  * the purposes described in our [Use of Personal Information](https://web.archive.org/about-us/privacy-statement/our-use-of-personal-information.aspx) section. [ **Learn more >**](https://web.archive.org/about-us/privacy-statement/sharing-your-personal-info.aspx)
 
 
 
-[Learn More](http://www.gmac.com/gmac/PrivacyPolicy/DataSecurity.htm)
+#### Protecting the Personal Information We Collect
 
-GMAC has a number of key service providers and strategic partners who fulfill online and offline services through gmac.com. Each is subject to our strict confidentiality or Terms of Use requirements. Our key service providers include:
+GMAC is committed to protecting your personal information. We use a variety of security procedures and technologies to help protect your personal information from unauthorized access, use, and disclosure.
 
-  * GMAT test registration, customer service, test administration at [test centers](http://www.gmac.com/gmac/TheGMAT/TestTakerSupport/TestCenters/default.htm) worldwide, and official [GMAT score reporting](http://www.gmac.com/gmac/TheGMAT/GMATScores/default.htm): Pearson VUE, a business of NCS Pearson, Inc. * 
-  * GMAT test development and [scoring](http://www.gmac.com/gmac/TheGMAT/GMATScores/default.htm): ACT, Inc. ** 
-  * Bank of America for processing gmac.com credit card transactions online 
-  * KPMG for our [MBA Pathfinder Agreed Upon Procedures Audit Process](http://www.gmac.com/gmac/SchoolServices/RecruitingTools/MBAPathfinder_related/AuditProcess.htm)
-  * Bulk fulfillment distributors 
-  * IT development and technology vendors, and other GMAC consultants 
-  * [Survey research](http://www.gmac.com/gmac/ResearchandTrends/SurveyReports/default.htm) vendors
+The personal information you provide to us will be stored in the United States and the country where the information was provided depending on the product or service selected. Depending on the products or services you use, your personal information may also be transferred to another country as well. We will obtain your consent where required for the transfer of your personal and sensitive information.
 
+We understand that the security of your personal information is important. We use reasonable practices to protect your personal information from unauthorized use, disclosure, alteration, or destruction. As with any website no security controls are 100% effective, so we cannot guarantee the prevention of breaches. We encourage our visitors to use common sense in protecting your id, password, and other personal information. [ **Learn more >**](https://web.archive.org/about-us/privacy-statement/protecting-your-information.aspx)
 
+#### Cookies and Similar Technologies; Interest Based Advertising
 
-Our key strategic partners include:
+At GMAC, the security of your information and the experience you have when visiting our websites is important to us. We use cookies and similar technologies to assist us in these areas. For example, these technologies are used for storing and processing preferences and settings, sign-in authentication, capturing information about how our websites and emails are used. We also use information collected through automated technologies on our websites and emails for interest based advertising. You may limit how we and our service providers utilize these technologies through your browser settings as well as by visiting sites that provide interest based advertising as described below.
 
-  * Schools that use the GMAT test
-  * Scholarship-granting organizations 
-  * Other organizations in the graduate management education industry who share our commitment to creating access to graduate business education.
+If you are accessing our websites from the European Union, you will be presented with an additional opportunity to accept or block the use of cookies. You may block the use of certain cookies via your browser; however, this may limit your use of our services and products. [ **Learn more >**](https://web.archive.org/about-us/privacy-statement/cookies-and-similar-technology.aspx)
 
+#### Your Access and Choices
 
+GMAC is committed to providing you with access to your personal information and informing you about how to express your preferences concerning your personal information. Please keep in mind that limiting the use and sharing of personal information may limit the services and products (or their capabilities) that we provide to you. No matter what your communication preferences are, you will receive certain transaction emails related to the services you use. [ **Learn more >**](https://web.archive.org/about-us/privacy-statement/your-access-and-choices.aspx)
 
-**Transborder Data Flows**
+**
 
-GMAC is a global organization. As such, users and registrants of gmac.com, professionals from institutions that use the GMAT test or receive [GMAT score reports](http://www.gmac.com/gmac/TheGMAT/GMATScores/default.htm), users of [GMAC products and services](http://www.gmac.com/gmac/SchoolServices/default.htm), subscribers of communications or publications, and participants of [events](http://www.gmac.com/gmac/SchoolServices/ConferencesandEvents/default.htm) or [surveys](http://www.gmac.com/gmac/ResearchandTrends/SurveyReports/default.htm) understand that data is processed and controlled in the countries in which the data is collected, and then transmitted into and out of the United States, which is the primary processing location for GMAC and its service providers.
+#### Websites Linked to/from a GMAC Website
 
-[Learn More](http://www.gmac.com/gmac/PrivacyPolicy/DataSharing.htm)
+**
 
-If you have questions about this statement, please contact GMAC:
+Our websites are linked to other websites which are not owned or controlled by GMAC. This Privacy Statement does not apply to these sites. These other websites each have their own Privacy Statement that we encourage you to read.
 
-  * Email us at: [privacy@gmac.com](mailto:privacy@gmac.com)* 
-  * Phone us at: +1 (703) 668-9600 or  
-toll-free in the U.S. at (800) 811-8042 
-  * Write us at:  
-Graduate Management Admission Council  
-Attention: Chief Privacy Official  
-11921 Freedom Drive, Suite 300,  
-Reston, VA 20190  USA
+**
 
+#### Not Intended for Children
 
+**
 
-Please note that opt-out requests should be made by deselecting your preferences in your [Profile](http://www.gmac.com/gmac/Service/GMACRegistration/BSORegistrationSummary.htm?ProfileOriginOR=0) or by contacting [GMAC Customer Service](http://www.gmac.com/gmac/Service/ContactUs.htm?type=PrivacyPolicy).
+Our websites are not intended to be used by children. If you are under the age of 13 (or the applicable age in your country), please do not use our websites as we do not intend to collect your information.
 
-###### GMAC®, GMASS®, GMAT®, Graduate Management Admission Council®, Graduate Management Admission Search Service®, Graduate Management Admission Test®, and MBA Pathfinder® are registered trademarks of the Graduate Management Admission Council® (GMAC®). Bank of America® is a registered trademark of Bank of America Corporation. ETS® is a registered trademark of the Educational Testing Service® (ETS®). KPMG® is a registered trademark of KPMG Peat Marwick LLP. Prometric® is a registered trademark of Thomson Prometric. Click to Verify TRUSTe logo and TRUSTe® are registered trademarks of Trusted Universal Standards in Electronic Transactions, Inc. 
+**
 
-###### * GMAT test registration, customer service, test administration at test centers worldwide, and the official GMAT score reporting prior to January 1, 2006, with the exception of test takers who participated in the 2005 LImited Summer Test:  ETS and Prometric 
+#### Privacy Statement Updates
 
-###### ** Test development and scoring service vendors prior to January 1, 2006, with the exception of test takers who participated in the 2005 LImited Summer Test:  ETS 
+**
 
-  
+We will update this Privacy Statement periodically. A change in the effective date will indicate that this statement has been updated. If there are material changes to the statement or in how GMAC will use your personal information, we will notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to periodically review this privacy statement to learn more about our information practices. 
 
+**
+
+#### Contact Us
+
+**
+
+If you have questions or concerns about this Privacy Statement, the personal information you share with us, or if you wish to receive a physical copy of this Privacy Notice, please contact our Chief Privacy Official using the contact information provided below.
+
+**Contact:** Data Protection Officer / Chief Privacy Official  
+**Email:**  privacy@gmac.com  
+**Phone:**  +1 (703) 668-9600   
+**Toll-free in the U.S.:**  (800) 811-8042
+
+**Postal Mail:    
+**Graduate Management Admission Council  
+PO Box 2969  
+Reston, VA 20195  
+Attention: Chief Privacy Official
