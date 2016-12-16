@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adimpact.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616185931id_/http%3A//www.adimpact.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adimpact.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216150105id_/http%3A//www.adimpact.com/privacy.html) for the most accurate reproduction.*
 
 # Adimpact - Privacy Policy
 
