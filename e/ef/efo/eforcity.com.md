@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eforcity.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321052530id_/http%3A//www.eforcity.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eforcity.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216061555id_/http%3A//www.eforcity.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,9 +50,9 @@ If you have any questions about this privacy statement, please contact:
 
 [www.eforcity.com](http://www.eforcity.com/)
 
-12339 Denholm Dr
+18525 Railroad St.
 
-El Monte CA 91732
+City of Industry, CA 91748
 
 United States
 
