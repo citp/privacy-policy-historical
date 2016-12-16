@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the drivertoolkit.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608010533id_/http%3A//www.drivertoolkit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivertoolkit.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216014342id_/http%3A//www.drivertoolkit.com/privacy) for the most accurate reproduction.*
 
 # DriverToolkit - Privacy Policy
 
 ## Privacy Statement
 
-Megaify Software, Inc. (hereinafter, "Megaify") is committed to protecting your privacy. Please read the Megaify Online Privacy Statement below and also any supplemental information listed to the right for extra details about particular Megaify sites and services that you may use.
+Megaify Software (hereinafter, "Megaify") is committed to protecting your privacy. Please read the Megaify Online Privacy Statement below and also any supplemental information listed to the right for extra details about particular Megaify sites and services that you may use.
 
 This Megaify Online privacy Statement applies to data collected by Megaify through the majority of its Websites and services, as well as its offline product customer support. It does not apply to those Megaify sites, services and products that do not show or link to this statement or that have their own privacy statements.
 
