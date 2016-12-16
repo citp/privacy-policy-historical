@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neworleanssaints.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419025117id_/http%3A//www.neworleanssaints.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neworleanssaints.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216135215id_/http%3A//www.neworleanssaints.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # New Orleans Saints | Privacy Policy
 
@@ -8,11 +8,7 @@ New Orleans Saints Website Privacy Policy (Last Updated: 10/6/14)
 
 The New Orleans Saints organization (“we,” “our,” “us”) respects your privacy and values your trust and confidence.  This privacy policy (the "Privacy Policy") applies to our website [**www.neworleanssaints.com**](http://www.neworleanssaints.com/), our mobile applications and online services that link to or post this Privacy Policy (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy.  Please note that this Privacy Policy does not apply to any information that is collected or obtained through sites or services that do not link to this Privacy Policy (including the Team Shop) or information collected by the NFL or the other NFL member clubs (the "Member Clubs"). 
 
-**New Orleans Saints** has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
-
-The TRUSTe program covers only information that is collected through this Web site www.neworleanssaints.com and our mobile applications.
-
-If you have questions or complaints regarding our privacy policy or practices please contact us at contact comments@saints.nfl.com. **** If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [**https://feedback-form.truste.com/watchdog/request**](https://feedback-form.truste.com/watchdog/request).
+_If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at_[ _https://feedback-form.truste.c om/watchdog/request_](https://feedback-form.truste.com/watchdog/request) _.  _
 
 **1.      ****Information Collection**
 
