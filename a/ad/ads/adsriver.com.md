@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adsriver.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423181329id_/http%3A//www.adsriver.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsriver.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216200613id_/http%3A//www.adsriver.com/privacy.php) for the most accurate reproduction.*
 
-# Italy, free classifieds - Freeads | free ads | Classified ads
+# Freeads | free ads | Classified ads
 
 ## Privacy Policy
 
