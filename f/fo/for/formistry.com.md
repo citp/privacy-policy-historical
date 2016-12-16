@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the formistry.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627055026id_/http%3A//www.formistry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formistry.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216143014id_/http%3A//www.formistry.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
 
+Effective Date:  July 4, 2016  
+
+
 This privacy statement describes how Greenclouds Education Solutions Pvt. Ltd. (collectively, “We”, “Us”, “Our or “GreenClouds”) collects and uses the personal information you provide on our **Formistry.com** service platform and website, www.greenclouds.in. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information
 
-The TRUSTe program covers only information that is collected through this website, [www.formistry.com](https://www.greenclouds.in/) and its service platform, www.formistry.com and does not cover information that may be collected through software downloaded from the website.
+The TRUSTe program covers only information that is collected through this website, [www.formistry.com](http://www.formistry.com/) and its service platform, www.formistry.com and does not cover information that may be collected through software downloaded from the website.
 
 In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request. 
 
@@ -37,9 +40,13 @@ GreenClouds collects information under the direction of its Clients, and has no 
 
 ## Choice
 
-We collect information on the behalf of our clients, if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. If you are a Client and would like to update your account please contact us here. 
+We collect information on the behalf of our clients, if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. If you are a Client and would like to update your account please contact us at privacyquestions@formistry.com
 
 If you have submitted personal information in our site and would like to access, change, correct, update, amend, delete/remove it, you can do so by emailing us at privacyquestions@formistry.com. We will respond to your request to access within 30 days.
+
+## Integrity of Personal Information
+
+If you are a customer of one of our Clients we would encourage you to ensure that the information you provide is sufficiently accurate, complete, relevant, and timely for the purposes for which such information is to be used by our Client.
 
 ## Service Provider, Sub-Processors/Onward Transfer
 
@@ -51,13 +58,13 @@ GreenClouds has no direct relationship with the individuals whose personal data 
 
 ## Data Retention:
 
-GreenClouds will retain personal data (including geo-location data) we process on behalf of our Clients as well information collected through our site for as long as needed to provide services to our Client. GreenClouds will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+GreenClouds will retain personal data (including geo-location data) we process on behalf of our Clients as well  as information collected through our site for as long as needed to provide services to our Client. GreenClouds will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## Security:
 
 The security of your personal information and our clients’ information is important to us. When you enter sensitive information such as login credentials or payment details we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact Email privacyquestions@formistry.com.
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact  privacyquestions@formistry.com.
 
 ## Tracking Technologies: Log Files
 
@@ -69,9 +76,9 @@ We do not link this automatically-collected data to personal information.
 
 Technologies such as: cookies, beacons, tags and scripts are used by GreenClouds and our partners [specify type e.g. marketing partners], affiliates, or analytics or service providers [specify type e.g. online customer support provider, etc]. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use cookies for [our shopping cart, to remember users’ settings (e.g. language preference), for authentication]. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
+We use cookies for our shopping cart, to remember users’ settings (e.g. language preference), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here (link to TRUSTe opt-out: http://preferences.truste.com/ ). Please note this does not opt you out of being served advertising. You will continue to receive generic ads 
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here http://preferences-mgr.truste.com/. Please note this does not opt you out of being served advertising. You will continue to receive generic ads 
 
 ## Information Sharing:
 
@@ -89,11 +96,11 @@ We collect your location-based information for the purpose of [locating a place 
 
 ## Forum:
 
-Our website offers publicly accessible community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our community forum, contact us at [email]. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. Alternatively, if you used a third party application to post such information, you can remove it, by either logging into the said application and removing the information or by contacting the appropriate third party application. 
+Our website offers publicly accessible community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our community forum, contact us at [privacyquestions@formistry.com](mailto:privacyquestions@formistry.com).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. Alternatively, if you used a third party application to post such information, you can remove it, by either logging into the said application and removing the information or by contacting the appropriate third party application. 
 
 ## Testimonial:
 
-We display personal testimonials of satisfied customers on our website in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [EMAIL ADDRESS]. 
+We display personal testimonials of satisfied customers on our website in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at- [privacyquestions@formistry.com](mailto:privacyquestions@formistry.com)
 
 ## Social Media Widgets:
 
