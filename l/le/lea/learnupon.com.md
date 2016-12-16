@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnupon.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402015419id_/https%3A//www.learnupon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnupon.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216081422id_/https%3A//www.learnupon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LearnUpon LMS
 
@@ -44,7 +44,7 @@ Although the Company has implemented strict security policies, rules, procedures
 
 We reserve the right to transfer information (including your Personal Data) to a third party in the event of a sale, merger, liquidation, receivership or transfer of all or substantially all of the assets of our company provided that the third party agrees to adhere to the terms of the Website Privacy Policy and provided that the third party only uses your Personal Data for the purposes that you provided it to us. You will be notified in the event of any such transfer and you will be afforded an opportunity to opt-out.
 
-Changes to the Website Privacy Policy
+### Changes to the Website Privacy Policy
 
 Any changes to this Website Privacy Policy will be posted on this website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any time we decide to use Personal Data in a manner significantly different from that stated in this Website Privacy Policy, or otherwise disclosed to you at the time it was collected, we will notify you by email, and you will have a choice as to whether or not we use your information in the new manner.
 
@@ -54,8 +54,10 @@ In accordance with our duties as data controllers under the Data Protection Acts
 
 Compliance Manager  
 LearnUpon Limited  
-33 Lower Leeson St,  
-Dublin 2
+1st Floor Ocean House,  
+Arran Quay,  
+Dublin 7,  
+Ireland
 
 or [info@learnupon.com](mailto:info@learnupon.com)
 
