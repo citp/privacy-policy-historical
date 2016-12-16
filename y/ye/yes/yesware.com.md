@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the yesware.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616120521id_/http%3A//www.yesware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesware.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216045217id_/http%3A//www.yesware.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Yesware
 
 ## Global Privacy/Data Protection Policy of Yesware, Inc.
 
 Effective: April 1, 2011  
-Last Revised: September 25, 2015
+Last Revised: October 11, 2016
 
 ### Welcome
 
 This Privacy/Data Protection Policy (“Privacy Policy”) is designed to help you understand how Yesware, Inc. (“Yesware”, “we”, “our” or “us”) collects and uses the information, including personal data, that you share when you use www.yesware.com and its associated domains (together, the “Site”), as well as the information, software or services available through the Site (collectively, “Services”). Except where otherwise expressly indicated in this Privacy Policy or on the Site, this Privacy Policy applies only to information collected on the Site and through the Services and does not apply to information that we receive off-line. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information.
 
-Yesware complies with the US–­EU Safe Harbor Framework and US–­Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Yesware has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the Safe Harbor program, and to view Yesware’s certification, please visit <http://www.export.gov/safeharbor/>
+Yesware complies with the US–­Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. Yesware has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the Safe Harbor program, and to view Yesware’s certification, please visit <http://www.export.gov/safeharbor/>
 
 Before submitting information to the Site or Services, please review this Privacy Policy carefully. By using or accessing the Site or Services, and/or communicating with a Yesware agent via mail, email or telephone you are accepting the practices described in this Privacy Policy. You are responsible for submitting accurate information to the Site. If you prefer that we not collect your personal information, please do not provide it to us. When you submit your personal and other information on the Site, you hereby consent to the collection, use and disclosure of such information as set forth in the Privacy Policy.
 
@@ -32,7 +32,7 @@ We collect the information that you share with us, including:
 
 We also may collect information from the people with whom you interact by email when you use the Site and Services. This information may include the number of times that the recipient opens your email, the recipient’s IP address and the computer platform that the recipient is using.
 
-Yesware does not store your credit card information. If you purchase Services, your credit card information is processed and stored by Stripe (<https://stripe.com/>).
+Yesware does not store your credit card information. If you purchase Services, your credit card information is processed and stored by Stripe (<https://stripe.com/>) and Zuora (<https://www.zuora.com/>).
 
 ### Cookies & Other Online Identification Tools
 
@@ -162,9 +162,9 @@ This Privacy Policy and the resolution of any dispute arising hereunder shall al
 
 ### Questions About our Privacy Policy
 
-In compliance with the US–­EU and US–Swiss Safe Harbor Principles, Yesware commits to resolve complaints about your privacy and our collection or use of your personal information. Inquiries or complaints regarding this privacy policy should first contact Yesware by submitting a request at [help.yesware.com](https://help.yesware.com/).
+In compliance with the US–Swiss Safe Harbor Principles, Yesware commits to resolve complaints about your privacy and our collection or use of your personal information. Inquiries or complaints regarding this privacy policy should first contact Yesware by submitting a request at [help.yesware.com](https://help.yesware.com/).
 
-Yesware has further committed to refer unresolved privacy complaints under the US­–EU and US–Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <https://www.bbb.org/council/eusafeharbor/bbb-eu-safe-harbor-dispute-resolution-program/> for more information and to file a complaint.
+Yesware has further committed to refer unresolved privacy complaints under the US–Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/us/safe-harbor-complaints/ for more information and to file a complaint.
 
 You can also send us physical mail to:
 
