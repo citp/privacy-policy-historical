@@ -1,82 +1,185 @@
-> *The following text is extracted and transformed from the compusa.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216034343id_/http%3A//www.tigerdirect.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compusa.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216014225id_/http%3A//www.compusa.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy at TigerDirect.com
+# CompUSA - Privacy Policy
 
-**TigerDirect.com Privacy Notice** (Updated 11/27/2012)
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website. 
 
-By visiting the TigerDirect.com website or any other websites operated by TigerDirect.com or its affiliates (collectively, the "Site"), you agree to accept the practices described in this Privacy Notice. If you do not agree to the terms of this Privacy Notice, please do not use the Site. Each time you use the Site, you should check the date of this Privacy Notice (which appears above) and review any changes that have been made since your last visit to the Site. 
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-Throughout TigerDirect.com’s years of operation, we have developed relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit the Site and provide us with information. This Privacy Notice is posted to demonstrate our leadership in online security and customer service practices. We treat your information with the same honesty and sensitivity that we have displayed throughout our company's history.  
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
+
+**When do we collect information?**
+
+We collect information from you when you register on our site, subscribe to a newsletter or enter information on our site.
+
+**How do we use your information?**
+
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
+
+  * To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To improve our website in order to better serve you.
+  * To allow us to better service you in responding to your customer service requests.
+  * To administer a contest, promotion, survey or other site feature.
+  * To send periodic emails regarding your order or other products and services.
+  * To follow up with them after correspondence (live chat, email or phone inquiries)
 
 
-**1\. Personal Information Collected By TigerDirect.com**
 
-TigerDirect.com uses information that we collect from our visitors and customers to personalize and improve your visit and shopping experience at the Site. We gather the following types of information: 
+**How do we protect visitor information?**
 
-**Information You Give to Us:** We Collect Personal Information that is provided by Site users. "Personal Information" includes your name, address, telephone number, credit or debit card information, e-mail address, date of birth, IP address and the last four digits of your Social Security number. Personal Information is collected when you establish an account with us, place an order on the Site, participate in a contest, sweepstakes or on-line survey, or when you communicate with any of our departments such as customer service, sales or technical services through the Site, telephone, mail or fax. In some instances, we may obtain other people’s names and email addresses that you may choose to provide as part of our "email a friend" feature. 
+We do not use vulnerability scanning and/or scanning to PCI standards.  
+We only provide articles and information. We never ask for credit card numbers.  
+We use regular Malware Scanning.
 
-**Web Beacons:** We (or service providers on our behalf) may collect information from visits to the Site through the use of "Web Beacons." Web Beacons are web page elements which may employ cookie technology that enable us to record data about visits to or transactions made on the Site. This information is sometimes known as "clickstream data." We may use this data to analyze trends and statistics to improve your online experience or our customer service. No Personal Information is collected through the use of Web Beacons on the Site. 
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
-**Cookies:** Through the use of cookies, we may also collect and analyze the IP address used to connect your computer to the Internet; computer and connection information such as your browser type and version; operating system and platform; purchase history; confirmation when you open e-mail that we send you; and the URLs which lead you to and around the Site including the date and time. You can generally set your browser to reject cookies or to notify you when you are sent a cookie. Software is also available from third parties which will allow you to visit the Site without providing this information. You are welcome to use the Site if you use such software but we will not be able to offer you our personalized services and we will be unable to accept any online orders from you.
+We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
 
-**Orders:** If you place an order through the Site, you will be required to provide contact, billing, and payment information. 
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-**Catalog Email Newsletter Subscriptions:** Upon placing an order through the Site, you will automatically begin receiving both the TigerDirect.com catalog and the TigerDirect.com email newsletter, based on the Personal Information you have provided, unless you opt-out of receiving such communications. If you request an email newsletter subscription, we will send you an email confirming your request. This confirmation process allows you to unsubscribe if you change your mind and decide not to join the list. Furthermore, the confirmation email will alert you if someone else has entered your email address into our email newsletter subscription list. In order to make our email newsletters more relevant and useful to you, our servers may receive a confirmation when you open an email message from TigerDirect.com.
+**Do we use 'cookies'?**
 
-**Sweepstakes Entrants:** From time to time, we may run sweepstakes. If you enter a sweepstakes sponsored by us, you will opt-in to receive email or other communications from us and our affiliated partners. You may subsequently opt-out of the receipt of such email or communications by following the directions in the email or contacting that site. Your opt-out status will not affect your participation or chances to win in the sweepstakes. During the applicable sweepstakes period, however, you may nevertheless receive emails which we deem are related to the sweepstakes and related programs.
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-**2\. Use of Information Collected By Us**
+**We use cookies to:**
 
-We use this information in an effort to improve your experience on the Site, to provide services to you and to communicate with you about information that you request. We may also use this information to help us target specific offers to you, to help us develop and improve our Site, and to tailor our Site to your interests. 
+  * Understand and save user's preferences for future visits.
+  * Keep track of advertisements.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
-**3\. Sharing of Information with Third Parties**
 
-We will not rent, sell or otherwise disclose your Personal Information to unrelated third parties without your consent, except as stated in this Privacy Notice.
 
-**Service Providers:** We may employ other companies or individuals to provide certain services to or on behalf of us such as analyzing customer lists and data, or performing marketing or consulting services. These third parties ("Service Providers") will only have access to the information needed to perform these limited functions on our behalf and are required to provide your Personal Information with at least the same level of protection and security as we use on the Site. Such Service Providers are prohibited from using your Personal Information for any purpose other than that for which such party was engaged by us and/or as stated in this Privacy Notice. Any Service Providers that use data received from us may only do so in accordance with this Privacy Notice. 
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
 
-**Credit Card Companies:** If you place an order through the Site, the Personal Information you provide is transmitted to your credit card company to verify and authorize your purchase. At certain times we may offer financing options with or without third party participation. If you use a financing option, information provided by you (such as your address, birth date, social security number, and credit card number) may be used to request a credit report from third parties or may be sent to a third party for processing.
+If you disable cookies, some features will be disabled It won't affect the user's experience that make your site experience more efficient and some of our services will not function properly.
 
-**Third Party Marketing Partners:** From time to time we might establish a business relationship with other third parties whom we believe are  trustworthy.  In such cases we might license, exchange, share and/or cross-reference information, including your name and postal mailing address that will enable such third parties to contact you regarding products and services that may be of interest to you. We will never share any telephone number(s), e-mail addresses, or credit card information which you have given us with any such third party partner(s).
+However, you can still place orders.
 
-**Related Companies:** We may share your postal and e-mail address, telephone number(s), customer preferences, and purchase history with other subsidiaries of our parent company, Systemax Inc. We will never share any credit card information which you have given to us with any of these related companies.
+**Third-party disclosure**
 
-**Aggregate Information:** We provide aggregate information to some of our business partners. This information is used in a collective manner and does not identify you individually in any way. We collect and share aggregate information in order to know more about the general profile of our customers so that we can improve your shopping experience. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety.
 
-**Shippers:** If you make a purchase through the Site, your name, telephone number and shipping information must be provided to third party shippers such as UPS, FEDEX and the United States Postal Service to deliver your purchase. There also may be instances in which we drop-ship orders directly to you from one of our manufacturers or suppliers. These drop-shippers are only given your name, postal address, and telephone number for the sole purpose of fulfilling your order.
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Third Party Transaction-Level Data:** If you visit the Site from a third-party website the third-party website may be able to access select information from your individual transaction information. In order to track and credit your transaction the third-party website may give you a unique code, cookie or graphic which will uniquely identify you. This will only happen if you link directly from a third party website to the Site. Any transactions made at the Site while such a code is active will be reported back to the third party website. We will only report non-Personal Information to these websites such as the date of the transaction, the product(s) purchased and the amount spent. We will not report any information to these third party websites that will allow them to personally identify you. The presence of a third party navigation bar at the top of any page on the Site is an indication that the third party website may be able to see your activity on the Site. 
+**Third-party links**
 
-**Links to Third Party Site:** The Site contains certain links to third party websites, such as our vendors’ websites and links to other websites intended to facilitate our customers’ shopping experience, such as Google Translate. We are not responsible or liable for the privacy practices or content found on these websites. We recommend that you check the privacy notice of each website you visit. Links to third party websites are provided solely for your convenience and any submission of data to such websites shall be at your sole risk. 
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**Law Enforcement and Protection of Users:** To the extent permitted by law, we will disclose Personal Information to government authorities or third parties pursuant to a legal request, subpoena or other legal process. We may also use or disclose your information as permitted by law to perform charge verifications, report or collect debts owed, fight fraud or protect our rights or property as well as those of our affiliates, customers, or its users. You should be aware that, following disclosure to any third party, your Personal Information may be accessible by others to the extent permitted or required by applicable law. 
+**Google**
 
-**4\. Affiliate Programs**
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
 
-We maintain relationships with third party affiliate websites. Although we do not and cannot control the activities of the third parties that operate such websites, we will cease doing business with any affiliate that engages in abusive practices, including, for example, spam, trademark infringement, predatory means of attracting visitors, or unlawful activities. To report abuse by an affiliate, please contact our Affiliate Manager via email at affiliates@TigerDirect.com.
+We use Google AdSense Advertising on our website.
 
-**5\. Children and Privacy**
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
 
-The Site is a general audience website and is not directed to children under the age of 13. We will never knowingly collect personally identifiable information from children under the age of 13 without verifiable parental consent. If you are under the age of 13, please do not provide us with personally identifiable information of any kind whatsoever. If we become aware that a user is under the age of 13 and has submitted Personal Information without verifiable parental consent, we will remove his or her personally identifiable information from our files. We understand that children may not fully understand all of the provisions of this Privacy Notice or make informed decisions about the choices that are made available to adult users of the Site. We encourage parents and guardians to spend time with their children online and to be familiar with the websites they visit. TigerDirect.com does not sell products to persons under the age of 18. If you are under the age of 18, you are required seek the consent of your parent or guardian to purchase products from the Site.
+**We have implemented the following:**
 
-**6\. Security**
+  * Remarketing with Google AdSense
+  * DoubleClick Platform Integration
 
-We employ 128-bit encryption technology in all areas of the Site which require you to provide your personal or account information, including those areas related to online ordering, order status, and contest forms. The Site utilizes industry-standard firewalls and Secure Sockets Layer (SSL) technology to allow for the encryption of potentially sensitive Personal Information, such as your name, address and credit card number.
 
-You should recognize, however, that no computer system is fully secure and that there are inherent risks associated with Internet transactions. To make sure you have the latest security features on your browser, you may want to download the most recent version of your favorite browser, which should have full SSL support. 
 
-**7\. Corrections/Information Removal/Opt-Out**
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
 
-If your name, e-mail or postal address, telephone number or other Personal Information changes, you may update, correct or omit the relevant information by contacting us at privacy@TigerDirect.com. In addition, if you no longer wish to receive communications from us you may opt-out by emailing us at privacy@TigerDirect.com, sending a letter to: TigerDirect.com Privacy Officer, 7795 West Flagler St., Suite 35, Miami, FL 33144 or by clicking on the unsubscribe link within any marketing e-mail you receive from us. If you no longer wish to receive our catalog, you may call us at 800-800-8300, email us at privacy@TigerDirect.com or send a letter to: TigerDirect.com Privacy Officer, 7795 West Flagler St., Suite 35, Miami, FL 33144.
+**Opting out:**
 
-**8\. Contact Information**
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
 
-If you have any questions or concerns about this Privacy Notice, please e-mail us at privacy@TigerDirect.com or send a letter to: TigerDirect.com Privacy Officer, 7795 West Flagler St., Suite 35, Miami, FL 33144.
+**California Online Privacy Protection Act**
 
-**9\. Business Transfer**
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
 
-TigerDirect.com is a wholly owned subsidiary of Systemax, Inc., a Fortune 1000 Company (NYSE symbol SYX). However, in the event that TigerDirect.com is sold, has its assets acquired or transferred, whether voluntarily or involuntarily, or merges or becomes affiliated with any other division, individual or entity, any customer information owned or under the control of TigerDirect.com may be one of the transferred assets. We reserve the right, as part of such transaction, to transfer or assign the Personal Information and aggregate information we have collected from users of the Site.
+**According to CalOPPA we agree to the following:**
 
-**10\. Limitations On Liability**
+Users can visit our site anonymously.  
+Once this privacy policy is created, we will add a link to it on our home page or as a minimum on the first significant page after entering our website.  
+Our Privacy Policy link includes the word 'Privacy' and can be easily be found on the page specified above.
 
-IN NO EVENT WILL TigerDirect.com OR ITS PARENT, AFFILIATES, LICENSEES OR ANY PARTY INVOLVED IN CREATING, PRODUCING OR DELIVERING THE SITE OR ITS PRODUCTS OR SERVICES BE LIABLE IN ANY MANNER WHATSOEVER FOR ANY INCIDENTAL, CONSEQUENTIAL, INDIRECT, SPECIAL OR PUNITIVE DAMAGES ARISING OUT OF YOUR ACCESS, USE OR INABILITY TO USE THE SITE, OR IN CONNECTION WITH ANY FAILURE OR PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS OR LINE OR SYSTEM FAILURE (INCLUDING LOSS OF PROFITS, LOSS OF BUSINESS OR DATA, BUSINESS INTERRUPTION, AND DAMAGES THAT RESULT FROM INACCURACY OF THE INFORMATION OR INCONVENIENCE, DELAY, OR LOSS OF THE USE OF THE SITE). THE FOREGOING LIMITATIONS APPLY WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY OR ANY OTHER BASIS, EVEN IF TigerDirect.com OR ITS AFFILIATES OR ANY OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+Users will be notified of any privacy policy changes: 
+
+  * On our Privacy Policy Page
+
+
+
+Users are able to change their personal information: 
+
+  * By logging in to their account
+
+
+
+**How does our site handle do not track signals?**
+
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+**Does our site allow third-party behavioral tracking?**
+
+It's also important to note that we allow third-party behavioral tracking
+
+**COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+
+We do not specifically market to children under 13.
+
+**Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**  
+We will notify the users via email 
+
+  * Within 7 business days
+
+
+
+We will notify the users via in-site notification 
+
+  * Within 7 business days
+
+
+
+We also agree to the Individual Redress Principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+**CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+**We collect your email address in order to:**
+
+  * Send information, respond to inquiries, and/or other requests or questions.
+  * Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+
+
+
+To be in accordance with CANSPAM we agree to the following: 
+
+  * NOT use false or misleading subjects or email addresses.
+  * Identify the message as an advertisement in some reasonable way.
+  * Include the physical address of our business or site headquarters.
+  * Monitor third-party email marketing services for compliance, if one is used.
+  * Honor opt-out/unsubscribe requests quickly.
+  * Allow users to unsubscribe by using the link at the bottom of each email.
+
+
+
+If at any time you would like to unsubscribe from receiving future emails, you can: 
+
+  * Email us [unsubscribe@compusa.com](mailto:unsubscribe@compusa.com)
+  * Follow the instructions at the bottom of each email.
+
+
+
+and we will promptly remove you from ALL correspondence.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+CompUSA.com  
+780 Middle Country Rd.  
+St. James, New York 11780  
+United States  
+[info@compusa.com](mailto:info@compusa.com)
+
+Last Edited on 2016-06-08 
