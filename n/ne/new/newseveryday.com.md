@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newseveryday.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610225805id_/http%3A//www.newseveryday.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newseveryday.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216134047id_/http%3A//www.newseveryday.com/privacypolicy) for the most accurate reproduction.*
 
 # News Every Day
 
@@ -233,9 +233,3 @@ Further, if you use any of the Communities features and functions made available
 **d. Other:** Please review our Terms of Use Agreement which governs your use of the Site. Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement.
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.
-
-#### Follow Us Everywhere
-
-#### Sign Up for Our Newsletter
-
-#### Editor's pick 
