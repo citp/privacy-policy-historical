@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lilypie.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609225315id_/http%3A//lilypie.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilypie.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216125906id_/http%3A//lilypie.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Lilypie - Privacy Policy
 
@@ -43,7 +43,7 @@ If you sign up for the free newsletter, we will send you newsletters periodicall
 
     3. **Contact Information**
 
-If you contact Lilypie.com through the [contact page](https://web.archive.org/contact.php) (http://lilypie.com/contact.php), by e-mail or letter, we may keep a record of your correspondence or comments. If you contact us through our [contact page](https://web.archive.org/contact.php) (http://lilypie.com/contact.php) we will gather information about your browser, IP and from your Lilypie cookies in order to help you with any problems. If you contact us through the Lilypie [Contact Developer](http://apps.facebook.com/lilypie/contactFB.php) link on Facebook (http://apps.facebook.com/lilypie/contactFB.php), we will also gather your numeric Facebook ID in order to check on the status of your tickers.
+If you contact Lilypie.com through the [contact page](https://web.archive.org/contact.php) (http://lilypie.com/contact.php), by e-mail or letter, we may keep a record of your correspondence or comments. If you contact us through our [contact page](https://web.archive.org/contact.php) (http://lilypie.com/contact.php) we will gather information about your browser, IP and from your Lilypie cookies in order to help you with any problems. If you contact us through the Lilypie [Contact Developer](https://apps.facebook.com/lilypie/contactFB.php) link on Facebook (https://apps.facebook.com/lilypie/contactFB.php), we will also gather your numeric Facebook ID in order to check on the status of your tickers.
 
     4. **Cookies**
 
@@ -77,7 +77,7 @@ TOP
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
 
-Google, as a third-party vendor, uses [DoubleClick DART cookies](http://www.doubleclick.com/privacy/faq.aspx) when serving ads on Lilypie.com. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html). TOP  
+Google, as a third-party vendor, uses [DoubleClick DART cookies](https://www.doubleclick.com/privacy/faq.aspx) when serving ads on Lilypie.com. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.co.uk/privacy_ads.html). TOP  
 
 
   7. **Security**
