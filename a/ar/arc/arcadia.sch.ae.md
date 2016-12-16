@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arcadia.sch.ae privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626002804id_/http%3A//arcadia.sch.ae/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadia.sch.ae privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216040803id_/http%3A//arcadia.sch.ae/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | The Arcadia Preparatory School
+# Privacy Statement
 
 We are fully committed to respecting the privacy of visitors to our Web site and the security of information gathered on our company Web sites.
 
